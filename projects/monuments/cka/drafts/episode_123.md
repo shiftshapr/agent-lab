@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-11134
   - Hole-minted Nodes (reintro-ep123): N-10714
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-7143–C-7202
+  - Claim Range: C-10524–C-10597
   - New Nodes Introduced: N-10706, N-10708
   - Reused Nodes Appearing: N-487, N-10705, N-10707, N-4, N-5, N-9, N-40, N-159, N-224, N-607, N-682, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
   - (see registers)
@@ -41,7 +41,7 @@ Video Timestamp: 00:06:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2987, C-2988, N-10706*
+*Related: C-10534, C-10535, C-10536, N-10706*
 
 **A-2110.2** Photo 2 – Cardboard-colored piece and adjacent black bag (back seat)
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:08:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2990, C-2992*
+*Related: C-10544, C-10549*
 
 **A-2110.3** Photo 3 – Shattered tempered glass between front captain chairs
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:08:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2986, C-2994, N-10705*
+*Related: C-10534, C-10557, N-10705*
 
 **A-2110.4** Photo 4 – Foil-like material visible under floor mat
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:10:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2991*
+*Related: C-10551*
 
 **A-2111** Charlie Kirk Transport Vehicle Interior Closeup Bundle
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:11:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2990*
+*Related: C-10544*
 
 **A-2111.2** Closeup – Black bag (Uber bag area)
 
@@ -93,7 +93,7 @@ Video Timestamp: 00:11:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2987*
+*Related: C-10535*
 
 **A-2111.3** Closeup – Foil-like material, described as coppery
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:16:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2991*
+*Related: C-10551*
 
 **A-2111.4** Closeup – Black tempered glass particles in center of vehicle
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:17:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host asserts "beyond a shadow of a doubt")
 
-*Related: C-2986, C-2994, N-10705*
+*Related: C-10534, C-10557, N-10705*
 
 **A-2112** Mikey McCoy Hospital Casket Clip
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:33:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2993*
+*Related: C-10569*
 
 **A-2113** Charlie Kirk Interview Clip – Shabbat / Erika "God wants your phone on"
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:41:51–00:42:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played in full)
 
-*Related: C-2996, N-1, N-2*
+*Related: C-10576, N-1, N-2*
 
 **A-2114** Read-Aloud Viewer Comments Bundle
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2992*
+*Related: C-10549*
 
 **A-2114.2** Viewer comment (Vicky Blair) – "nearly impossible to drive 60, 80, 100 miles and still have the car door open"
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:50:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (viewer opinion, not authoritative)
 
-*Related: C-2997*
+*Related: C-10586*
 
 **A-2114.3** Viewer comment (Joe Philly / "Phyisetti") – ground cleanup theory
 
@@ -165,7 +165,7 @@ Video Timestamp: 00:49:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (viewer speculation)
 
-*Related: C-2994, N-10705*
+*Related: C-10557, N-10705*
 
 ---
 
@@ -180,7 +180,7 @@ Video Timestamp: 00:12:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7162, N-3*
+*Related: C-10548, N-3*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7169, N-3*
+*Related: C-10558, N-3*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:20:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7171, C-7172, C-7173, N-3*
+*Related: C-10560, C-10561, C-10562, N-3*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:33:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7178, N-3*
+*Related: C-10571, N-3*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:52:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7195, N-3*
+*Related: C-10590, N-3*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 00:45:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7188, N-3*
+*Related: C-10582, N-3*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:47:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7189, N-3*
+*Related: C-10583, N-3*
 
 ---
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7194, N-3*
+*Related: C-10589, N-3*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 01:00:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7201, C-7202, N-3*
+*Related: C-10596, C-10597, N-3*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 01:00:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7201, N-3*
+*Related: C-10596, N-3*
 
 ---
 
@@ -311,7 +311,7 @@ Confidence Level: High
 
 Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
-*Related: C-2997*
+*Related: C-10586*
 
 
 
@@ -324,7 +324,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2110.3, A-2111.4, A-2114.3, C-2986, C-2994*
+*Related: A-2110.3, A-2111.4, A-2114.3, C-10534, C-10557*
 
 **N-10706** Charlie's Bloody Jacket Chain of Custody Investigation Target
 
@@ -335,7 +335,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2110.1, C-2989*
+*Related: A-2110.1, C-10539*
 
 **N-10707** Missing Charlie's Shirt Investigation Target
 
@@ -346,7 +346,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2998*
+*Related: C-10565*
 
 **N-10708** Car Door Open During Transport Report Investigation Target
 
@@ -357,7 +357,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2114.2, C-2997*
+*Related: A-2114.2, C-10586*
 
 ---
 
@@ -365,7 +365,7 @@ Investigative Pressure: Medium
 
 Subject of the shooting; his vehicle, clothing and phone use are discussed.
 
-*Related: C-7147, C-7149, C-7152, C-7154, C-7155, C-7165, C-7169, C-7171, C-7172, C-7173, C-7177, C-7180, C-7182, C-7183, C-7184, C-7186, C-7187, C-7188, C-7194, C-7199*
+*Related: C-10528, C-10530, C-10533, C-10538, C-10540, C-10553, C-10558, C-10560, C-10561, C-10562, C-10568, C-10573, C-10575, C-10577, C-10578, C-10580, C-10581, C-10582, C-10589, C-10594*
 
 ---
 
@@ -373,7 +373,7 @@ Subject of the shooting; his vehicle, clothing and phone use are discussed.
 
 Widow and TPUSA CEO; the host discusses her podium remarks, the returned jacket and the host's stated wish for her safety.
 
-*Related: C-7156, C-7175, C-7179*
+*Related: C-10541, C-10566, C-10572*
 
 ---
 
@@ -381,7 +381,7 @@ Widow and TPUSA CEO; the host discusses her podium remarks, the returned jacket 
 
 Host; speaks for herself throughout.
 
-*Related: C-7143, C-7144, C-7145, C-7147, C-7148, C-7150, C-7151, C-7164, C-7166, C-7170, C-7178, C-7179, C-7185, C-7186, C-7187, C-7193, C-7195, C-7198, C-7199, C-7200, C-7201, C-7202*
+*Related: C-10524, C-10525, C-10526, C-10528, C-10529, C-10531, C-10532, C-10552, C-10554, C-10559, C-10571, C-10572, C-10579, C-10580, C-10581, C-10588, C-10590, C-10593, C-10594, C-10595, C-10596, C-10597*
 
 ---
 
@@ -389,7 +389,7 @@ Host; speaks for herself throughout.
 
 Named in Charlie's played clip about helping make him vice president.
 
-*Related: C-7183*
+*Related: C-10577*
 
 ---
 
@@ -397,7 +397,7 @@ Named in Charlie's played clip about helping make him vice president.
 
 The host says the President called her the most vile person of the year.
 
-*Related: C-7195*
+*Related: C-10590*
 
 ---
 
@@ -405,7 +405,7 @@ The host says the President called her the most vile person of the year.
 
 Rode in the vehicle; the host disputes his account of the ride and his clothes.
 
-*Related: C-7145, C-7146, C-7153, C-7156, C-7158, C-7165*
+*Related: C-10526, C-10527, C-10537, C-10541, C-10543, C-10553*
 
 ---
 
@@ -413,7 +413,7 @@ Rode in the vehicle; the host disputes his account of the ride and his clothes.
 
 Named by the host as an alternative to her in the most vile person remark.
 
-*Related: C-7195*
+*Related: C-10590*
 
 ---
 
@@ -421,7 +421,7 @@ Named by the host as an alternative to her in the most vile person remark.
 
 TPUSA spokesperson the host says should address the glass.
 
-*Related: C-7196*
+*Related: C-10591*
 
 ---
 
@@ -429,7 +429,7 @@ TPUSA spokesperson the host says should address the glass.
 
 The host says she does not believe he fired the shot but believes he buried clothes.
 
-*Related: C-7147, C-7148, C-7195*
+*Related: C-10528, C-10529, C-10590*
 
 ---
 
@@ -437,7 +437,7 @@ The host says she does not believe he fired the shot but believes he buried clot
 
 Named by the host among those she says tried to delude the public.
 
-*Related: C-7181*
+*Related: C-10574*
 
 ---
 
@@ -445,7 +445,7 @@ Named by the host among those she says tried to delude the public.
 
 The host discusses his behavior at the hospital and his marriage.
 
-*Related: C-7175, C-7176, C-7177, C-7197*
+*Related: C-10566, C-10567, C-10568, C-10592*
 
 ---
 
@@ -453,7 +453,7 @@ The host discusses his behavior at the hospital and his marriage.
 
 Host of the interview where she says Harpole discussed his medical supplies.
 
-*Related: C-7163*
+*Related: C-10550*
 
 ---
 
@@ -461,7 +461,7 @@ Host of the interview where she says Harpole discussed his medical supplies.
 
 Rode in the vehicle; the host says he is suing her and disputes his account of the ride.
 
-*Related: C-7145, C-7146, C-7158, C-7163, C-7170, C-7192*
+*Related: C-10526, C-10527, C-10543, C-10550, C-10559, C-10587*
 
 ---
 
@@ -469,7 +469,7 @@ Rode in the vehicle; the host says he is suing her and disputes his account of t
 
 Persuaded the host to release the evidence early.
 
-*Related: C-7143, C-7174*
+*Related: C-10524, C-10563*
 
 ---
 
@@ -477,7 +477,7 @@ Persuaded the host to release the evidence early.
 
 Named by the host among those she says tried to delude the public.
 
-*Related: C-7181*
+*Related: C-10574*
 
 ---
 
@@ -485,7 +485,7 @@ Named by the host among those she says tried to delude the public.
 
 Source of the microphone-rigging theory and glass photos; transcript spells Jon Bray.
 
-*Related: C-7149, C-7169, C-7191*
+*Related: C-10530, C-10558, C-10585*
 
 ---
 
@@ -493,7 +493,7 @@ Source of the microphone-rigging theory and glass photos; transcript spells Jon 
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7145, C-7178, C-7180, C-7188, C-7194, C-7196*
+*Related: C-10526, C-10571, C-10573, C-10582, C-10589, C-10591*
 
 ---
 
@@ -501,7 +501,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7194*
+*Related: C-10589*
 
 ---
 
@@ -509,7 +509,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7148*
+*Related: C-10529*
 
 ---
 
@@ -517,7 +517,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7154*
+*Related: C-10538*
 
 ---
 
@@ -525,7 +525,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7175, C-7176*
+*Related: C-10566, C-10567*
 
 ---
 
@@ -533,7 +533,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7177*
+*Related: C-10568*
 
 ---
 
@@ -541,7 +541,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7151*
+*Related: C-10532*
 
 ---
 
@@ -549,7 +549,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7189, C-7200*
+*Related: C-10583, C-10595*
 
 ---
 
@@ -557,7 +557,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7182, C-7183*
+*Related: C-10575, C-10577*
 
 ---
 
@@ -565,7 +565,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7170*
+*Related: C-10559*
 
 ---
 
@@ -573,7 +573,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7151*
+*Related: C-10532*
 
 ---
 
@@ -581,7 +581,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7158, C-7166, C-7192, C-7193*
+*Related: C-10543, C-10554, C-10587, C-10588*
 
 ---
 
@@ -589,7 +589,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7156, C-7165*
+*Related: C-10541, C-10553*
 
 ---
 
@@ -597,7 +597,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7145, C-7146*
+*Related: C-10526, C-10527*
 
 ---
 
@@ -605,7 +605,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7159, C-7161*
+*Related: C-10545, C-10547*
 
 ---
 
@@ -613,7 +613,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7182, C-7184*
+*Related: C-10575, C-10578*
 
 ---
 
@@ -621,7 +621,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7149, C-7164, C-7191*
+*Related: C-10530, C-10552, C-10585*
 
 ---
 
@@ -629,7 +629,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7163*
+*Related: C-10550*
 
 ---
 
@@ -637,7 +637,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7163, C-7181*
+*Related: C-10550, C-10574*
 
 ---
 
@@ -645,7 +645,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-7149*
+*Related: C-10530*
 
 ---
 
@@ -654,13 +654,13 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The host's observation, from images she has not shown, that Charlie's neck was unsecured and his shirt raised as he was carried to the vehicle.
 
-*Related: C-7171, C-7172, C-7173*
+*Related: C-10560, C-10561, C-10562*
 
 ---
 
 ## 5. Claim Register
 
-**C-2986** Host Says Black Tempered Shattered Glass Is in Charlie Kirk Transport Vehicle
+**C-10534** Host Says Black Tempered Shattered Glass Is in Charlie Kirk Transport Vehicle
 
 Claim Timestamp: 00:06:11–00:17:00
 
@@ -673,7 +673,7 @@ Investigative Direction: Obtain forensic analysis of vehicle interior; compare p
 
 ---
 
-**C-2987** Host Says Blood-Marked Uber Bag Visible in Back Seat of Vehicle
+**C-10535** Host Says Blood-Marked Uber Bag Visible in Back Seat of Vehicle
 
 Claim Timestamp: 00:06:11
 
@@ -685,7 +685,7 @@ Investigative Direction: Obtain original high-resolution image; have forensic an
 
 ---
 
-**C-2988** Coat Hanger Visible in Vehicle, Likely Charlie's Jacket
+**C-10536** Coat Hanger Visible in Vehicle, Likely Charlie's Jacket
 
 Claim Timestamp: 00:06:11
 
@@ -698,7 +698,7 @@ Investigative Direction: Identify hanger; trace jacket chain of custody (see N-1
 
 ---
 
-**C-2989** Host Says Charlie Kirk's Bloody Sports Coat Was Returned to Erika Kirk's Apartment Without Evidence Collection
+**C-10539** Host Says Charlie Kirk's Bloody Sports Coat Was Returned to Erika Kirk's Apartment Without Evidence Collection
 
 Claim Timestamp: 00:07:01
 
@@ -711,7 +711,7 @@ Investigative Direction: Verify via property records, TPUSA internal communicati
 
 ---
 
-**C-2990** Host Says Cardboard-Colored Material Visible in Vehicle
+**C-10544** Host Says Cardboard-Colored Material Visible in Vehicle
 
 Claim Timestamp: 00:11:04
 
@@ -723,7 +723,7 @@ Investigative Direction: Obtain higher-resolution images; consult medical/forens
 
 ---
 
-**C-2991** Host Says Foil-Like Material Visible Under Vehicle Floor Mat
+**C-10551** Host Says Foil-Like Material Visible Under Vehicle Floor Mat
 
 Claim Timestamp: 00:16:00
 
@@ -735,7 +735,7 @@ Investigative Direction: Obtain higher-resolution images; compare to medical eme
 
 ---
 
-**C-2992** Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo
+**C-10549** Host's Staffer Ashley Identifies SantaMedical.com Equipment in Vehicle Photo
 
 Claim Timestamp: 00:15:10
 
@@ -748,7 +748,7 @@ Investigative Direction: Cross-reference SantaMedical.com catalog with described
 
 ---
 
-**C-2993** Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital
+**C-10569** Host Says Mikey McCoy Appeared Physically Ill as Charlie's Casket Was Carried Out of the Hospital
 
 Claim Timestamp: 00:32:20
 
@@ -761,7 +761,7 @@ Investigative Direction: Verify clip provenance; corroborate with hospital witne
 
 ---
 
-**C-2994** Host Says Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
+**C-10557** Host Says Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
 
 Claim Timestamp: 00:19:40
 
@@ -774,7 +774,7 @@ Investigative Direction: Obtain transcripts/video of all Frank Turek and Brian H
 
 ---
 
-**C-2995** Host Says TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator
+**C-10570** Host Says TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator
 
 Claim Timestamp: 00:33:10
 
@@ -787,7 +787,7 @@ Investigative Direction: Obtain original photos from viewer; identify date and l
 
 ---
 
-**C-2996** Charlie Kirk Stated in Prior Interview That Erika Told Him "God Wants You to Have Your Phone On"
+**C-10576** Charlie Kirk Stated in Prior Interview That Erika Told Him "God Wants You to Have Your Phone On"
 
 Claim Timestamp: 00:41:51–00:42:26
 
@@ -799,7 +799,7 @@ Investigative Direction: Identify the original interview (date, outlet); verify 
 
 ---
 
-**C-2997** Host Says Harpole Described Police Scanner Reports of a Struggle and Open Car Door
+**C-10586** Host Says Harpole Described Police Scanner Reports of a Struggle and Open Car Door
 
 Claim Timestamp: 00:50:36
 
@@ -812,7 +812,7 @@ Investigative Direction: Obtain official police scanner audio logs from the date
 
 ---
 
-**C-2998** Host Says TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle
+**C-10565** Host Says TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle
 
 Claim Timestamp: 00:29:24–00:30:20
 
@@ -825,7 +825,7 @@ Investigative Direction: Monitor TPUSA official communications; if no response m
 
 ---
 
-**C-2999** Host Says She Is Securing More Photos
+**C-10564** Host Says She Is Securing More Photos
 
 Claim Timestamp: 00:28:40
 
@@ -837,7 +837,7 @@ Investigative Direction: Track for future episode disclosures; verify provenance
 
 ---
 
-**C-7143** Host Says Coleman Persuaded Her to Release Evidence Before the Break
+**C-10524** Host Says Coleman Persuaded Her to Release Evidence Before the Break
 
 Claim Timestamp: 00:00:01
 
@@ -853,7 +853,7 @@ Investigative Direction: Ask the host's team or Coleman to describe the call and
 
 ---
 
-**C-7144** Host Says the Team Deliberately Withheld Information
+**C-10525** Host Says the Team Deliberately Withheld Information
 
 Claim Timestamp: 00:01:20
 
@@ -864,13 +864,13 @@ Transcript Snippet: we have had information that we have intentionally not relea
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: 
-Supports: C-5274
+Supports: C-4278
 Tags: relevance:core
 Investigative Direction: Ask the host which items were withheld and on what dates they were received.
 
 ---
 
-**C-7145** Host Says Harpole and Turek Lied but That Does Not Implicate All of TPUSA
+**C-10526** Host Says Harpole and Turek Lied but That Does Not Implicate All of TPUSA
 
 Claim Timestamp: 00:01:20
 
@@ -886,7 +886,7 @@ Investigative Direction: List the specific statements by Harpole and Turek the h
 
 ---
 
-**C-7146** Host Says Turek's and Harpole's Car Ride Accounts Differ
+**C-10527** Host Says Turek's and Harpole's Car Ride Accounts Differ
 
 Claim Timestamp: 00:02:43
 
@@ -902,7 +902,7 @@ Investigative Direction: Compare the transcripts of Turek's and Harpole's interv
 
 ---
 
-**C-7147** Host Says Robinson Was Not on the Rooftop Firing
+**C-10528** Host Says Robinson Was Not on the Rooftop Firing
 
 Claim Timestamp: 00:03:27
 
@@ -913,13 +913,13 @@ Transcript Snippet: I do not believe that he was on campus on top of Loi Center 
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
 Related Nodes: 
-Supports: C-2984
+Supports: C-10516
 Tags: relevance:core
 Investigative Direction: Test against the prosecution's rooftop evidence, forensic reports and any footage placing Robinson on the roof.
 
 ---
 
-**C-7148** Host Believes Robinson Picked Up and Buried Clothes at Dairy Queen
+**C-10529** Host Believes Robinson Picked Up and Buried Clothes at Dairy Queen
 
 Claim Timestamp: 00:03:27
 
@@ -935,7 +935,7 @@ Investigative Direction: Check the Dairy Queen photo, receipts, and the recovere
 
 ---
 
-**C-7149** Host Says Jon Bray Was Convinced the Microphone Was Rigged and Shattered
+**C-10530** Host Says Jon Bray Was Convinced the Microphone Was Rigged and Shattered
 
 Claim Timestamp: 00:03:27
 
@@ -951,7 +951,7 @@ Investigative Direction: Obtain Jon Bray's written analysis and the source photo
 
 ---
 
-**C-7150** Host Says She Held Back the Car Photos to See Who Would Lie
+**C-10531** Host Says She Held Back the Car Photos to See Who Would Lie
 
 Claim Timestamp: 00:03:27
 
@@ -962,13 +962,13 @@ Transcript Snippet: We obviously had those car pics, had been working on that in
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: 
-Supports: C-5274
+Supports: C-4278
 Tags: relevance:core
 Investigative Direction: Establish when the host received the full photo set and from whom.
 
 ---
 
-**C-7151** Host Says Critics Called the Earlier Fragments Sunglasses Rather than a Mic
+**C-10532** Host Says Critics Called the Earlier Fragments Sunglasses Rather than a Mic
 
 Claim Timestamp: 00:04:26
 
@@ -979,13 +979,13 @@ Transcript Snippet: That's not the Rode microphone. That's something else. It's 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10369, N-10678
-Supports: C-1978
+Supports: C-4276
 Tags: relevance:core
 Investigative Direction: Identify who offered the sunglasses and blood-drops explanations and in what posts or broadcasts.
 
 ---
 
-**C-7152** Host Says No Account Mentions Lifting Charlie's Shirt
+**C-10533** Host Says No Account Mentions Lifting Charlie's Shirt
 
 Claim Timestamp: 00:05:16
 
@@ -996,13 +996,13 @@ Transcript Snippet: Nobody's story told anything about even lifting Charlie's sh
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10705
-Supports: C-2994
+Supports: C-10557
 Tags: relevance:core
 Investigative Direction: Review every public statement by Turek, Harpole and TPUSA for any mention of the shirt being lifted or cut in the car.
 
 ---
 
-**C-7153** Host Says the Blood-Marked Uber Bag Was Likely Used by Turek to Wipe Hands
+**C-10537** Host Says the Blood-Marked Uber Bag Was Likely Used by Turek to Wipe Hands
 
 Claim Timestamp: 00:06:11
 
@@ -1013,13 +1013,13 @@ Transcript Snippet: I think it's likely given where Frank Turek was sitting that
 Anchored Artifacts: A-2110.1
 Mentions: N-7
 Related Nodes: 
-Supports: C-2956
+Supports: C-10340
 Tags: relevance:core
 Investigative Direction: Compare seating positions from Harpole and Turek accounts and test the bag for blood sources.
 
 ---
 
-**C-7154** Host Says Charlie Gave an Interview in Salt Lake City Before Driving to Provo
+**C-10538** Host Says Charlie Gave an Interview in Salt Lake City Before Driving to Provo
 
 Claim Timestamp: 00:06:11
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Identify the interview's publisher and date and confirm
 
 ---
 
-**C-7155** Host Says Charlie's Unworn Jacket Stayed in the Car
+**C-10540** Host Says Charlie's Unworn Jacket Stayed in the Car
 
 Claim Timestamp: 00:07:01
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Trace the t-shirt through the hospital, the vehicle and
 
 ---
 
-**C-7156** Host Says Turek Said He Changed Partly So Erika Would Not See Him Bloodied
+**C-10541** Host Says Turek Said He Changed Partly So Erika Would Not See Him Bloodied
 
 Claim Timestamp: 00:07:01
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Locate the Turek statement about changing clothes and c
 
 ---
 
-**C-7157** Host Says Glass Extends Over the Center of the Car and into the Back Seat
+**C-10542** Host Says Glass Extends Over the Center of the Car and into the Back Seat
 
 Claim Timestamp: 00:08:58
 
@@ -1078,13 +1078,13 @@ Transcript Snippet: there is tempered shattered glass with white bits all over t
 Anchored Artifacts: A-2110.3
 Mentions: 
 Related Nodes: N-10705
-Supports: C-2986
+Supports: C-10534
 Tags: relevance:core
 Investigative Direction: Obtain full-resolution originals and have a forensic examiner map the glass distribution.
 
 ---
 
-**C-7158** Host Says the Ride Was an 8-Minute Drive at Speeds Implying No Traffic
+**C-10543** Host Says the Ride Was an 8-Minute Drive at Speeds Implying No Traffic
 
 Claim Timestamp: 00:10:06
 
@@ -1095,13 +1095,13 @@ Transcript Snippet: They had about 6 minutes on the clock weaving through traffi
 Anchored Artifacts: 
 Mentions: N-7, N-266
 Related Nodes: N-10686
-Supports: C-2948
+Supports: C-10322
 Tags: relevance:core
 Investigative Direction: Reconstruct the route and timing from 911, dispatch and hospital arrival records.
 
 ---
 
-**C-7159** Host Says the Uber Bags Are Intact and Not Drenched While the Cardboard-Like Piece Lies Apart
+**C-10545** Host Says the Uber Bags Are Intact and Not Drenched While the Cardboard-Like Piece Lies Apart
 
 Claim Timestamp: 00:12:02
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain higher-resolution images and a forensic read of 
 
 ---
 
-**C-7160** Host Says a Staffer Said the Black Bag Looks Like a Shirt
+**C-10546** Host Says a Staffer Said the Black Bag Looks Like a Shirt
 
 Claim Timestamp: 00:12:02
 
@@ -1133,7 +1133,7 @@ Investigative Direction: Enhance the image and compare against known items, incl
 
 ---
 
-**C-7161** Host Recalls Rick Cutler Had Something on His Back but Says It Did Not Match the Black Item
+**C-10547** Host Recalls Rick Cutler Had Something on His Back but Says It Did Not Match the Black Item
 
 Claim Timestamp: 00:13:52
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Review footage of Cutler entering the vehicle for what 
 
 ---
 
-**C-7162** Host Reads Commenter Suggesting the Black Item Is a Pulse Oximeter
+**C-10548** Host Reads Commenter Suggesting the Black Item Is a Pulse Oximeter
 
 Claim Timestamp: 00:14:08
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Identify the item's brand and dimensions from higher-re
 
 ---
 
-**C-7163** Host Says Harpole Said Elsewhere He Carried Medical Supplies Not Relevant to His Actions
+**C-10550** Host Says Harpole Said Elsewhere He Carried Medical Supplies Not Relevant to His Actions
 
 Claim Timestamp: 00:15:10
 
@@ -1181,7 +1181,7 @@ Investigative Direction: Locate the exact Harpole statement in the Paramount Tac
 
 ---
 
-**C-7164** Host Says People Suggested the Cardboard Piece Could Be Part of a Shaped Charge
+**C-10552** Host Says People Suggested the Cardboard Piece Could Be Part of a Shaped Charge
 
 Claim Timestamp: 00:16:12
 
@@ -1197,7 +1197,7 @@ Investigative Direction: Obtain an independent explosives or ordnance expert opi
 
 ---
 
-**C-7165** Host Offers a Scenario That Turek Was Removing Charlie's Shirt Rather than Giving CPR
+**C-10553** Host Offers a Scenario That Turek Was Removing Charlie's Shirt Rather than Giving CPR
 
 Claim Timestamp: 00:17:53
 
@@ -1208,13 +1208,13 @@ Transcript Snippet: I had whipped up a scenario where rather than providing CPR 
 Anchored Artifacts: 
 Mentions: N-7, N-1
 Related Nodes: N-10688
-Supports: C-2980
+Supports: C-10463
 Tags: relevance:core
 Investigative Direction: Compare with Turek's CPR claims, Harpole's shirt-cutting claim and hospital records.
 
 ---
 
-**C-7166** Host Does Not Believe the Blood-and-Shirt Scene Happened at the Hospital
+**C-10554** Host Does Not Believe the Blood-and-Shirt Scene Happened at the Hospital
 
 Claim Timestamp: 00:18:04
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Establish where the shirt was removed using hospital in
 
 ---
 
-**C-7167** Host Says the Glass Is Definitively Not the Car's Own Glass
+**C-10555** Host Says the Glass Is Definitively Not the Car's Own Glass
 
 Claim Timestamp: 00:18:16
 
@@ -1246,7 +1246,7 @@ Investigative Direction: Have a forensic lab compare the fragments with the vehi
 
 ---
 
-**C-7168** Host Says Tempered Glass Has an Adhesive That Makes It Stick to Fabric
+**C-10556** Host Says Tempered Glass Has an Adhesive That Makes It Stick to Fabric
 
 Claim Timestamp: 00:19:26
 
@@ -1262,7 +1262,7 @@ Investigative Direction: Ask a materials expert whether a rode-type microphone's
 
 ---
 
-**C-7169** Host Says Jon Bray Is Sending Photos Showing Glass Fell in Front of Charlie
+**C-10558** Host Says Jon Bray Is Sending Photos Showing Glass Fell in Front of Charlie
 
 Claim Timestamp: 00:20:36
 
@@ -1278,7 +1278,7 @@ Investigative Direction: Obtain Bray's photos with metadata and compare against 
 
 ---
 
-**C-7170** Host Says Brian Harpole Is Suing Her over His Incompetence
+**C-10559** Host Says Brian Harpole Is Suing Her over His Incompetence
 
 Claim Timestamp: 00:20:36
 
@@ -1289,13 +1289,13 @@ Transcript Snippet: The audacity of Brian Harpole to sue me over his incompetenc
 Anchored Artifacts: 
 Mentions: N-266, N-3
 Related Nodes: N-10651
-Supports: C-5784
+Supports: C-10229
 Tags: relevance:core
 Investigative Direction: Pull the Harpole complaint and docket to confirm claims and filing date.
 
 ---
 
-**C-7171** Host Says She Has Images of Charlie's Neck Flopping as He Was Carried
+**C-10560** Host Says She Has Images of Charlie's Neck Flopping as He Was Carried
 
 Claim Timestamp: 00:20:36
 
@@ -1311,7 +1311,7 @@ Investigative Direction: Obtain the full sequence of frames and have a trauma cl
 
 ---
 
-**C-7172** Host Says the Carriers Seemed More Concerned with Charlie's Chest and Shirt than His Neck
+**C-10561** Host Says the Carriers Seemed More Concerned with Charlie's Chest and Shirt than His Neck
 
 Claim Timestamp: 00:21:23
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Identify each carrier and review all angles of the carr
 
 ---
 
-**C-7173** Host Offers a Plausible Theory That the Shirt Was Bunched to Hide Stuck Glass
+**C-10562** Host Offers a Plausible Theory That the Shirt Was Bunched to Hide Stuck Glass
 
 Claim Timestamp: 00:21:23
 
@@ -1343,7 +1343,7 @@ Investigative Direction: Examine the footage of the carry and of Charlie's shirt
 
 ---
 
-**C-7174** Host Says She Ran the Microphone Explanation Past Coleman and Tim
+**C-10563** Host Says She Ran the Microphone Explanation Past Coleman and Tim
 
 Claim Timestamp: 00:23:48
 
@@ -1359,7 +1359,7 @@ Investigative Direction: Ask Coleman and the Tim in question to state what alter
 
 ---
 
-**C-7175** Host Says Erika First Called Mikey Amazing at the Podium
+**C-10566** Host Says Erika First Called Mikey Amazing at the Podium
 
 Claim Timestamp: 00:30:20
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Find the podium remarks and the original statement and 
 
 ---
 
-**C-7176** Host Says She Was Told Mikey Was the Most Emotionally Affected at the Hospital
+**C-10567** Host Says She Was Told Mikey Was the Most Emotionally Affected at the Hospital
 
 Claim Timestamp: 00:31:09
 
@@ -1386,13 +1386,13 @@ Transcript Snippet: Mikey was the most emotionally impacted. He did not have it 
 Anchored Artifacts: 
 Mentions: N-190
 Related Nodes: N-10198
-Supports: C-2993
+Supports: C-10569
 Tags: relevance:core
 Investigative Direction: Identify the host's source and any hospital staff who saw Mikey McCoy that day.
 
 ---
 
-**C-7177** Host Believes Mikey McCoy Did Not Know Charlie Would Die
+**C-10568** Host Believes Mikey McCoy Did Not Know Charlie Would Die
 
 Claim Timestamp: 00:31:09
 
@@ -1408,7 +1408,7 @@ Investigative Direction: Compare with McCoy's call log and phone call timing in 
 
 ---
 
-**C-7178** Host Says She Received an Email That TPUSA Knew From the Start She Would Be a Problem
+**C-10571** Host Says She Received an Email That TPUSA Knew From the Start She Would Be a Problem
 
 Claim Timestamp: 00:33:10
 
@@ -1424,7 +1424,7 @@ Investigative Direction: Obtain the email and verify the sender and date.
 
 ---
 
-**C-7179** Host Says Her Priority Is That No Harm Comes to Erika
+**C-10572** Host Says Her Priority Is That No Harm Comes to Erika
 
 Claim Timestamp: 00:35:24
 
@@ -1440,7 +1440,7 @@ Investigative Direction: Not independently testable; record as the host's stated
 
 ---
 
-**C-7180** Host Says She Thinks the Perpetrators Wanted to Take Over TPUSA
+**C-10573** Host Says She Thinks the Perpetrators Wanted to Take Over TPUSA
 
 Claim Timestamp: 00:39:01
 
@@ -1456,7 +1456,7 @@ Investigative Direction: Examine succession documents and corporate records show
 
 ---
 
-**C-7181** Host Says Neff, Allen and Paramount Tactical Tried to Delude the Public
+**C-10574** Host Says Neff, Allen and Paramount Tactical Tried to Delude the Public
 
 Claim Timestamp: 00:39:49
 
@@ -1472,7 +1472,7 @@ Investigative Direction: List the specific public statements by each that the ho
 
 ---
 
-**C-7182** Host Says the Butler Shooting Was on a Saturday When Charlie Kept His Phone Off
+**C-10575** Host Says the Butler Shooting Was on a Saturday When Charlie Kept His Phone Off
 
 Claim Timestamp: 00:41:05
 
@@ -1488,7 +1488,7 @@ Investigative Direction: Confirm the day of the Butler shooting and Charlie's Sh
 
 ---
 
-**C-7183** In the Clip Charlie Says He Had His Phone On to Help Make JD Vance Vice President
+**C-10577** In the Clip Charlie Says He Had His Phone On to Help Make JD Vance Vice President
 
 Claim Timestamp: 00:41:51
 
@@ -1504,7 +1504,7 @@ Investigative Direction: Identify the original interview, date and outlet.
 
 ---
 
-**C-7184** In the Clip Charlie Says He Learned of Butler in His Complex Gym Holding His Daughter
+**C-10578** In the Clip Charlie Says He Learned of Butler in His Complex Gym Holding His Daughter
 
 Claim Timestamp: 00:41:51
 
@@ -1520,7 +1520,7 @@ Investigative Direction: Identify the interview source and verify his stated whe
 
 ---
 
-**C-7185** Host Says She Knows More than She Has Shown
+**C-10579** Host Says She Knows More than She Has Shown
 
 Claim Timestamp: 00:43:25
 
@@ -1536,7 +1536,7 @@ Investigative Direction: Track future episodes for the undisclosed material.
 
 ---
 
-**C-7186** Host Says Charlie Texted Her at 5 a.m. to Get Lattes
+**C-10580** Host Says Charlie Texted Her at 5 a.m. to Get Lattes
 
 Claim Timestamp: 00:45:00
 
@@ -1552,7 +1552,7 @@ Investigative Direction: Not testable beyond the host's own messages.
 
 ---
 
-**C-7187** Host Says She Needed Until Q1 to Accept Charlie Was Dead
+**C-10581** Host Says She Needed Until Q1 to Accept Charlie Was Dead
 
 Claim Timestamp: 00:45:53
 
@@ -1568,7 +1568,7 @@ Investigative Direction: Not testable; recorded as the host's account.
 
 ---
 
-**C-7188** Host Agrees with a Commenter Who Found Charlie's Friends Too Calm in Early Interviews
+**C-10582** Host Agrees with a Commenter Who Found Charlie's Friends Too Calm in Early Interviews
 
 Claim Timestamp: 00:45:53
 
@@ -1584,7 +1584,7 @@ Investigative Direction: Review the early interviews of Charlie's associates for
 
 ---
 
-**C-7189** Host Reads and Credits a Comment on Babies Taken for Testing in the Balkans
+**C-10583** Host Reads and Credits a Comment on Babies Taken for Testing in the Balkans
 
 Claim Timestamp: 00:47:26
 
@@ -1600,7 +1600,7 @@ Investigative Direction: Seek documented cases and official inquiries, which the
 
 ---
 
-**C-7190** Host Says She Is Revisiting Ground Footage of People Passing Items Behind the Table
+**C-10584** Host Says She Is Revisiting Ground Footage of People Passing Items Behind the Table
 
 Claim Timestamp: 00:49:41
 
@@ -1616,7 +1616,7 @@ Investigative Direction: Review all ground-level angles behind the table at the 
 
 ---
 
-**C-7191** Host Says Bray's Theory Has More Evidence than the Official Story
+**C-10585** Host Says Bray's Theory Has More Evidence than the Official Story
 
 Claim Timestamp: 00:49:41
 
@@ -1632,7 +1632,7 @@ Investigative Direction: Compare Bray's evidence compilation with the prosecutio
 
 ---
 
-**C-7192** Host Recalls Harpole Saying a Tail of Police Followed Them
+**C-10587** Host Recalls Harpole Saying a Tail of Police Followed Them
 
 Claim Timestamp: 00:50:36
 
@@ -1643,13 +1643,13 @@ Transcript Snippet: Brian Harpole said that they caught a tail. They were going 
 Anchored Artifacts: 
 Mentions: N-266
 Related Nodes: N-10686
-Supports: C-2948
+Supports: C-10322
 Tags: relevance:core
 Investigative Direction: Obtain police dispatch logs and bodycam from the pursuing units.
 
 ---
 
-**C-7193** Host Says She Heard Through the Grapevine the Car Took Back Roads Not the Highway
+**C-10588** Host Says She Heard Through the Grapevine the Car Took Back Roads Not the Highway
 
 Claim Timestamp: 00:50:36
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Obtain GPS or CAD data for the vehicle's route to the h
 
 ---
 
-**C-7194** Host Reads Comment Alleging Israel Incentivized a Takeover of TPUSA and Says It Is a Shared Sense
+**C-10589** Host Reads Comment Alleging Israel Incentivized a Takeover of TPUSA and Says It Is a Shared Sense
 
 Claim Timestamp: 00:51:30
 
@@ -1681,7 +1681,7 @@ Investigative Direction: The commenter offers no evidence; look for funding or c
 
 ---
 
-**C-7195** Host Says the President Named Her the Most Vile Person of the Year
+**C-10590** Host Says the President Named Her the Most Vile Person of the Year
 
 Claim Timestamp: 00:52:17
 
@@ -1698,7 +1698,7 @@ Investigative Direction: relevance:context
 
 ---
 
-**C-7196** Host Says the Charlie Kirk Show Team Shares a Building with Terryl
+**C-10591** Host Says the Charlie Kirk Show Team Shares a Building with Terryl
 
 Claim Timestamp: 00:53:09
 
@@ -1714,7 +1714,7 @@ Investigative Direction: Confirm the building and tenants from property and TPUS
 
 ---
 
-**C-7197** Host Says Mikey McCoy Has an Arranged Marriage
+**C-10592** Host Says Mikey McCoy Has an Arranged Marriage
 
 Claim Timestamp: 00:54:34
 
@@ -1730,7 +1730,7 @@ Investigative Direction: Confirm from public records or McCoy's own statements; 
 
 ---
 
-**C-7198** Host Says Show Is Off Air Until July 13
+**C-10593** Host Says Show Is Off Air Until July 13
 
 Claim Timestamp: 00:55:29
 
@@ -1746,7 +1746,7 @@ Investigative Direction: Check the next episode's date.
 
 ---
 
-**C-7199** Host Says She Decided in Wyoming to Pursue the Investigation
+**C-10594** Host Says She Decided in Wyoming to Pursue the Investigation
 
 Claim Timestamp: 00:57:54
 
@@ -1762,7 +1762,7 @@ Investigative Direction: Not testable; recorded as the host's account.
 
 ---
 
-**C-7200** Host Says She Does Not Know What Is Going On with Data Centers, Utah and Romania
+**C-10595** Host Says She Does Not Know What Is Going On with Data Centers, Utah and Romania
 
 Claim Timestamp: 00:59:13
 
@@ -1778,7 +1778,7 @@ Investigative Direction: Identify the data center projects and Utah-Romania link
 
 ---
 
-**C-7201** Host Asks Viewers to Email Tips to the More Tips Address
+**C-10596** Host Asks Viewers to Email Tips to the More Tips Address
 
 Claim Timestamp: 01:00:07
 
@@ -1794,7 +1794,7 @@ Investigative Direction: Check whether the tip address received material relevan
 
 ---
 
-**C-7202** Host Says She Protects Tipsters and None Has Lost a Job
+**C-10597** Host Says She Protects Tipsters and None Has Lost a Job
 
 Claim Timestamp: 01:00:07
 

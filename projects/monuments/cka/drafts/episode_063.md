@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep063): N-10492
   - Tip-minted Nodes (reintro-ep063): N-10905
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6983–C-7052
+  - Claim Range: C-5600–C-5682
   - New Nodes Introduced: N-495, N-10443, N-10444, N-10445
   - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-768, N-10968, N-11126, N-11122
   - (see registers)
@@ -38,7 +38,6 @@
 
 Episode 63 Ledger Summary:
 - Artifact Families Introduced: A-1676, A-1677, A-1678, A-1679, A-1680, A-1681, A-1682, A-1683, A-1684, A-1685
-- Claim Range: C-2194–C-2205
 - New Person Nodes Introduced: N-456, N-495
 - New Investigation Target Nodes Introduced: N-10443, N-10444, N-10445
 - Existing Nodes Reused: N-2
@@ -71,7 +70,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:11:24
 
-*Related: C-2194, C-2195, C-2199, N-2*
+*Related: C-5617, C-5619, C-5622, N-2*
 
 **A-1676.2** Erika Kirk addressing grief – listing counselors, pastors, therapy dogs, paid flights for spouses, and advising employees that paid time off is available through standard channels if more time is needed.
 
@@ -79,7 +78,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:47
 
-*Related: C-2196, N-2, N-10443*
+*Related: C-5624, N-2, N-10443*
 
 **A-1676.3** Erika Kirk discussing "Vision 2030" – stating Charlie was working on a 2030 plan with Justin (newly appointed COO); stating she possesses Charlie's journals documenting the plans; expressing hesitation before saying she is "excited."
 
@@ -87,7 +86,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:20:47
 
-*Related: C-2197, C-2198, N-2, N-15, N-10444*
+*Related: C-5629, C-5630, N-2, N-15, N-10444*
 
 ---
 
@@ -99,7 +98,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:33
 
-*Related: C-2201, N-1*
+*Related: C-5637, N-1*
 
 ---
 
@@ -111,7 +110,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:27:32
 
-*Related: C-2202, N-456, N-1*
+*Related: C-5639, N-456, N-1*
 
 ---
 
@@ -123,7 +122,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:45
 
-*Related: C-2200, C-2205, N-2*
+*Related: C-5610, C-5609, N-2*
 
 ---
 
@@ -136,7 +135,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2203, N-495, N-10445*
+*Related: C-5660, N-495, N-10445*
 
 ---
 
@@ -149,7 +148,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:08
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2203, N-495, N-10445*
+*Related: C-5660, N-495, N-10445*
 
 ---
 
@@ -161,7 +160,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:41:47
 
-*Related: C-2204, N-495*
+*Related: C-5663, N-495*
 
 ---
 
@@ -197,7 +196,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:45
 
-*Related: C-2203, N-2*
+*Related: C-5660, N-2*
 
 **A-1685.2** Comment from "Becca" – "When Erika talks, she is so boring. She has not had that special thing that Charlie had … She is unlikable on the surface because she acts elite. Goodbye, Turning Point USA."
 
@@ -290,7 +289,7 @@ Video Timestamp: 00:09:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6996, C-7052, N-3, N-2, N-217, N-190*
+*Related: C-5615, C-5682, N-3, N-2, N-217, N-190*
 
 ---
 
@@ -303,7 +302,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7020, C-7021, C-7022, C-7023, N-3, N-766, N-767, N-456, N-470*
+*Related: C-5647, C-5648, C-5649, C-5650, N-3, N-766, N-767, N-456, N-470*
 
 ---
 
@@ -318,7 +317,7 @@ Video Timestamp: 00:33:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7028, N-3, N-767*
+*Related: C-5655, N-3, N-767*
 
 ---
 
@@ -331,7 +330,7 @@ Video Timestamp: 00:36:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7032, N-3, N-495*
+*Related: C-5659, N-3, N-495*
 
 ---
 
@@ -344,7 +343,7 @@ Video Timestamp: 00:41:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7035, C-7036, N-3, N-495, N-769*
+*Related: C-5666, C-5665, N-3, N-495, N-769*
 
 ---
 
@@ -359,7 +358,7 @@ Video Timestamp: 00:43:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7037, N-3, N-769*
+*Related: C-5667, N-3, N-769*
 
 ---
 
@@ -372,7 +371,7 @@ Subject of the 2018 text message artifact (A-1677.1) and the Atlantic article (A
 Evidence Count: 2
 Claim Count: 2
 Episode Count: 1 (this episode; cumulative higher)
-*Related: A-1677.1, A-1678.1, C-2201, C-2202*
+*Related: A-1677.1, A-1678.1, C-5637, C-5639*
 
 **N-456** Bill Montgomery
 
@@ -382,7 +381,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1678.1, C-2202*
+*Related: A-1678.1, C-5639*
 
 **N-495** Laurie Cardoza-Moore
 
@@ -392,7 +391,7 @@ Evidence Count: 3
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1680.1, A-1681.1, A-1682.1, C-2203, C-2204, N-10445*
+*Related: A-1680.1, A-1681.1, A-1682.1, C-5660, C-5663, N-10445*
 
 **N-10443** TPUSA Post-Assassination Leadership Tone/Timing Discrepancy
 
@@ -402,7 +401,7 @@ Evidence Count: 3
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
-*Related: A-1676.1, A-1676.2, A-1685.10, C-2194, C-2196, N-2*
+*Related: A-1676.1, A-1676.2, A-1685.10, C-5617, C-5624, N-2*
 
 **N-10444** TPUSA Vision 2030 Documentation Verification
 
@@ -412,7 +411,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1676.3, C-2197, C-2198, N-2, N-15*
+*Related: A-1676.3, C-5629, C-5630, N-2, N-15*
 
 **N-10445** Christian Zionist Threat Message Authorship Verification
 
@@ -422,7 +421,7 @@ Evidence Count: 2
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
-*Related: A-1680.1, A-1681.1, C-2203, N-495*
+*Related: A-1680.1, A-1681.1, C-5660, N-495*
 
 ---
 
@@ -430,7 +429,7 @@ Investigative Pressure: Medium
 
 Speaker on the leaked September 22 corporate Zoom call; the subject of the host's series on her background.
 
-*Related: C-6983, C-6984, C-6986, C-6988, C-6991, C-6992, C-6993, C-6996, C-6998, C-6999, C-7000, C-7001, C-7002, C-7003, C-7004, C-7005, C-7006, C-7007, C-7008, C-7009, C-7043, C-7044, C-7045, C-7046, C-7051, C-7052*
+*Related: C-5600, C-5601, C-5603, C-5605, C-5608, C-5611, C-5612, C-5615, C-5618, C-5620, C-5621, C-5623, C-5625, C-5626, C-5627, C-5628, C-5631, C-5632, C-5633, C-5634, C-5673, C-5674, C-5675, C-5676, C-5681, C-5682*
 
 ---
 
@@ -438,7 +437,7 @@ Speaker on the leaked September 22 corporate Zoom call; the subject of the host'
 
 Host; speaks for herself throughout.
 
-*Related: C-6983, C-6984, C-6985, C-6986, C-6987, C-6988, C-6989, C-6990, C-6991, C-6992, C-6994, C-6995, C-6996, C-6997, C-7005, C-7009, C-7010, C-7011, C-7012, C-7013, C-7014, C-7015, C-7016, C-7017, C-7018, C-7019, C-7020, C-7021, C-7022, C-7023, C-7024, C-7025, C-7026, C-7027, C-7028, C-7029, C-7030, C-7031, C-7032, C-7035, C-7036, C-7037, C-7038, C-7039, C-7040, C-7041, C-7042, C-7043, C-7044, C-7045, C-7046, C-7047, C-7048, C-7049, C-7050, C-7051, C-7052*
+*Related: C-5600, C-5601, C-5602, C-5603, C-5604, C-5605, C-5606, C-5607, C-5608, C-5611, C-5613, C-5614, C-5615, C-5616, C-5628, C-5634, C-5635, C-5636, C-5638, C-5640, C-5641, C-5642, C-5643, C-5644, C-5645, C-5646, C-5647, C-5648, C-5649, C-5650, C-5651, C-5652, C-5653, C-5654, C-5655, C-5656, C-5657, C-5658, C-5659, C-5666, C-5665, C-5667, C-5668, C-5669, C-5670, C-5671, C-5672, C-5673, C-5674, C-5675, C-5676, C-5677, C-5678, C-5679, C-5680, C-5681, C-5682*
 
 ---
 
@@ -446,14 +445,14 @@ Host; speaks for herself throughout.
 
 TPUSA spokesperson; the host says he was caught with the Paramount Tactical tweet and questions whether he told Erika about Charlie's night-before messages. Transcript spellings: Kolvet, Kovat.
 
-*Related: C-7045, C-7051*
+*Related: C-5675, C-5681*
 
 ---
 
 **N-15** Justin Streiff
 TPUSA COO; named by Erika Kirk on the call as the person Charlie worked with on Vision 2030 and with whom the board and she are implementing the plans. Transcript renders only 'Justin'.
 
-*Related: C-7006, C-7007*
+*Related: C-5631, C-5632*
 
 ---
 
@@ -461,7 +460,7 @@ TPUSA COO; named by Erika Kirk on the call as the person Charlie worked with on 
 
 Subject of Laurie Cardoza-Moore's rant about his speech at the Tampa TPUSA conference.
 
-*Related: C-7033, C-7034*
+*Related: C-5661, C-5662*
 
 ---
 
@@ -469,7 +468,7 @@ Subject of Laurie Cardoza-Moore's rant about his speech at the Tampa TPUSA confe
 
 Subject of the host's Wall Street Journal ad and Vanity Fair apology discussion.
 
-*Related: C-7040, C-7041, C-7042*
+*Related: C-5670, C-5671, C-5672*
 
 ---
 
@@ -477,7 +476,7 @@ Subject of the host's Wall Street Journal ad and Vanity Fair apology discussion.
 
 Named by the host as TPUSA's head of fundraising who, per fired employees, spent each day in the office with Erika.
 
-*Related: C-7009*
+*Related: C-5634*
 
 ---
 
@@ -485,7 +484,7 @@ Named by the host as TPUSA's head of fundraising who, per fired employees, spent
 
 Named among the McCoys at the September 22 private dinner.
 
-*Related: C-6996*
+*Related: C-5615*
 
 ---
 
@@ -493,7 +492,7 @@ Named among the McCoys at the September 22 private dinner.
 
 Named as Elizabeth McCoy among the McCoys at the September 22 private dinner.
 
-*Related: C-6996*
+*Related: C-5615*
 
 ---
 
@@ -501,7 +500,7 @@ Named as Elizabeth McCoy among the McCoys at the September 22 private dinner.
 
 Named by the host as having been in position to tell Erika about Charlie's night-before messages and as a relative of Robert Flood.
 
-*Related: C-7023, C-7051*
+*Related: C-5650, C-5681*
 
 ---
 
@@ -509,7 +508,7 @@ Named by the host as having been in position to tell Erika about Charlie's night
 
 Named by a tipster as having worked with the Montgomerys at Shaklee; the host places him in Dan Flood's family.
 
-*Related: C-7023*
+*Related: C-5650*
 
 ---
 
@@ -517,7 +516,7 @@ Named by a tipster as having worked with the Montgomerys at Shaklee; the host pl
 
 First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helene Bartz.
 
-*Related: C-7019, C-7020, C-7022, C-7026*
+*Related: C-5646, C-5647, C-5649, C-5653*
 
 ---
 
@@ -525,7 +524,7 @@ First named by the host at 00:29:53 in episode 063. Founder of Creative Children
 
 First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.
 
-*Related: C-7020, C-7021, C-7022, C-7023, C-7028*
+*Related: C-5647, C-5648, C-5649, C-5650, C-5655*
 
 ---
 
@@ -533,7 +532,7 @@ First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goe
 
 First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.
 
-*Related: C-7033, C-7034*
+*Related: C-5661, C-5662*
 
 ---
 
@@ -541,7 +540,7 @@ First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spo
 
 First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Moore with an Air Force background per the host.
 
-*Related: C-7035, C-7036, C-7037*
+*Related: C-5666, C-5665, C-5667*
 
 ---
 
@@ -550,7 +549,7 @@ First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Mo
 Node Type: Organization
 Gifted school for preschool through eighth grade, opened in 1982 and renamed Quest Academy in 1999 per the host, who calls it Charlie Kirk's 'X-Men school'; near Palatine, Illinois.
 
-*Related: C-7015, C-7016, C-7017, C-7018, C-7019, C-7020, C-7022, C-7026, C-7027*
+*Related: C-5642, C-5643, C-5644, C-5645, C-5646, C-5647, C-5649, C-5653, C-5654*
 
 ---
 
@@ -559,7 +558,7 @@ Gifted school for preschool through eighth grade, opened in 1982 and renamed Que
 Node Type: Organization
 Aerospace and defense contractor the host says is a stone's throw from the academy.
 
-*Related: C-7018*
+*Related: C-5645*
 
 ---
 
@@ -568,7 +567,7 @@ Aerospace and defense contractor the host says is a stone's throw from the acade
 Node Type: Organization
 Supplement company (transcribed 'Shackley') the host says employed Helene Bartz, with an evangelical sales force and a long NASA contract.
 
-*Related: C-7023, C-7024, C-7025, C-7026*
+*Related: C-5650, C-5651, C-5652, C-5653*
 
 ---
 
@@ -577,7 +576,7 @@ Supplement company (transcribed 'Shackley') the host says employed Helene Bartz,
 Node Type: Organization
 Agency the host connects to the Shaklee contract, the moon landing and mass poisoning theories.
 
-*Related: C-7025, C-7030, C-7036, C-7050*
+*Related: C-5652, C-5657, C-5665, C-5680*
 
 ---
 
@@ -586,7 +585,7 @@ Agency the host connects to the Shaklee contract, the moon landing and mass pois
 Node Type: Topic
 Post-WWII program the host says brought German scientists to the US; invoked in her moon-landing and mind-control commentary.
 
-*Related: C-7029, C-7030*
+*Related: C-5656, C-5657*
 
 ---
 
@@ -595,7 +594,7 @@ Post-WWII program the host says brought German scientists to the US; invoked in 
 Node Type: Topic
 Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizing for harm he caused, as discussed by the host.
 
-*Related: C-7040, C-7041, C-7042*
+*Related: C-5670, C-5671, C-5672*
 
 ---
 
@@ -604,7 +603,7 @@ Kanye West's full-page Wall Street Journal ad and Vanity Fair answers apologizin
 Node Type: Organization
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6983, C-6984, C-6985, C-6986, C-6987, C-6988, C-6990, C-6997, C-6998, C-6999, C-7000, C-7001, C-7002, C-7003, C-7004, C-7005, C-7007, C-7008, C-7009, C-7012, C-7028, C-7037, C-7038, C-7047, C-7048*
+*Related: C-5600, C-5601, C-5602, C-5603, C-5604, C-5605, C-5607, C-5616, C-5618, C-5620, C-5621, C-5623, C-5625, C-5626, C-5627, C-5628, C-5632, C-5633, C-5634, C-5638, C-5655, C-5667, C-5668, C-5677, C-5678*
 
 ---
 
@@ -613,7 +612,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Organization
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7031*
+*Related: C-5658*
 
 ---
 
@@ -622,7 +621,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6994, C-6995, C-6996, C-7001, C-7052*
+*Related: C-5613, C-5614, C-5615, C-5623, C-5682*
 
 ---
 
@@ -631,7 +630,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7038*
+*Related: C-5668*
 
 ---
 
@@ -640,7 +639,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7032, C-7033, C-7034*
+*Related: C-5659, C-5661, C-5662*
 
 ---
 
@@ -649,7 +648,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7014*
+*Related: C-5641*
 
 ---
 
@@ -658,7 +657,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6989, C-6990, C-6994*
+*Related: C-5606, C-5607, C-5613*
 
 ---
 
@@ -667,7 +666,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7051*
+*Related: C-5681*
 
 ---
 
@@ -676,7 +675,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7010*
+*Related: C-5635*
 
 ---
 
@@ -685,7 +684,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7043*
+*Related: C-5673*
 
 ---
 
@@ -694,7 +693,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7010, C-7016, C-7027*
+*Related: C-5635, C-5643, C-5654*
 
 ---
 
@@ -703,7 +702,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7043*
+*Related: C-5673*
 
 ---
 
@@ -712,7 +711,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6986, C-6999, C-7009, C-7046*
+*Related: C-5603, C-5620, C-5634, C-5676*
 
 ---
 
@@ -721,7 +720,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6986*
+*Related: C-5603*
 
 ---
 
@@ -730,7 +729,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Organization
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7045*
+*Related: C-5675*
 
 ---
 
@@ -739,7 +738,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6991, C-6992, C-6993*
+*Related: C-5608, C-5611, C-5612*
 
 ---
 
@@ -748,7 +747,7 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Organization
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-6992, C-6993*
+*Related: C-5611, C-5612*
 
 ---
 
@@ -757,13 +756,13 @@ Reused existing node; cited by the new claims in this supplement.
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
 
-*Related: C-7031*
+*Related: C-5658*
 
 ---
 
 ## V. Claim Register
 
-**C-2194** Erika Kirk opened the TPUSA Zoom call with an upbeat tone thanking staff and citing memorial metrics
+**C-5617** Erika Kirk opened the TPUSA Zoom call with an upbeat tone thanking staff and citing memorial metrics
 
 Claim Timestamp: 00:11:24
 Claim: In a clip of the TPUSA corporate-wide Zoom call that the host plays, Erika Kirk opens by thanking staff and citing memorial metrics including 275,000 attendees and broadcast reach of "over 100 million"; the host describes the call's tone as upbeat, with laughter.
@@ -772,7 +771,7 @@ Mentions: N-2
 Related Nodes: N-10443
 Investigative Direction: Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.
 
-**C-2195** Erika Kirk stated staff worked 20-hour days during the week of the memorial
+**C-5619** Erika Kirk stated staff worked 20-hour days during the week of the memorial
 
 Claim Timestamp: 00:12:40
 Claim: In a clip the host plays, Erika Kirk tells the call that "a lot of this the staff that worked on the memorial, they had 20[-hour] days for a week during the time of us grieving the loss of my husband."
@@ -780,7 +779,7 @@ Anchored Artifacts: A-1676.1
 Mentions: N-2, N-1
 Investigative Direction: Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.
 
-**C-2196** Erika Kirk advised employees that paid time off is available if they need more time to grieve
+**C-5624** Erika Kirk advised employees that paid time off is available if they need more time to grieve
 
 Claim Timestamp: 00:17:30
 Claim: In a clip the host plays, Erika Kirk tells employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also saying that leadership provided counselors, pastors and, she heard, therapy dogs during the memorial period.
@@ -789,7 +788,7 @@ Mentions: N-2
 Related Nodes: N-10443
 Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.
 
-**C-2197** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
+**C-5629** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
 
 Claim Timestamp: 00:20:47
 Claim: In a clip the host plays, Erika Kirk states Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
@@ -798,7 +797,7 @@ Mentions: N-2, N-15
 Related Nodes: N-10444
 Investigative Direction: Obtain TPUSA board minutes, executive announcements regarding Justin's appointment, and any Vision 2030 documents; compare timeline against Charlie's known 2025 public statements.
 
-**C-2198** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
+**C-5630** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
 
 Claim Timestamp: 00:20:47
 Claim: In a clip the host plays, Erika Kirk states: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
@@ -807,7 +806,7 @@ Mentions: N-2
 Related Nodes: N-10444
 Investigative Direction: Establish provenance, chain of custody, and authenticity of any journals Erika cites; determine whether the journals have been produced to the board or to TPUSA counsel.
 
-**C-2199** Erika Kirk used the phrase "Turning Point USA 2.0"
+**C-5622** Erika Kirk used the phrase "Turning Point USA 2.0"
 
 Claim Timestamp: 00:14:29
 Claim: In a clip the host plays, Erika Kirk states on the call: "we are moving forward turning point USA 2.0 with Charlie in our hearts."
@@ -815,7 +814,7 @@ Anchored Artifacts: A-1676.1
 Mentions: N-2
 Investigative Direction: Determine whether "TPUSA 2.0" branding has been formally adopted in organizational materials, IRS filings, or governance documents.
 
-**C-2200** Erika Kirk described becoming a single mother as "the least traumatizing thing" in a NYT interview
+**C-5610** Erika Kirk described becoming a single mother as "the least traumatizing thing" in a NYT interview
 
 Claim Timestamp: 00:07:45
 Claim: The episode presents a quoted excerpt from the NYT profile in which Erika Kirk, eight days after Charlie's assassination, characterizes single motherhood as "actually the least traumatizing thing for me since she herself has been raised by her mother after their parents divorced when she was young."
@@ -823,7 +822,7 @@ Anchored Artifacts: A-1679.1
 Mentions: N-2
 Investigative Direction: Verify full NYT article text and date of publication; compare framing against prior public statements by Erika Kirk regarding the timing of the interview.
 
-**C-2201** Charlie Kirk texted Candace Owens in 2018 saying he knew from the start of TPUSA he might die
+**C-5637** Charlie Kirk texted Candace Owens in 2018 saying he knew from the start of TPUSA he might die
 
 Claim Timestamp: 00:26:33
 Claim: The episode presents a 2018 text message from Charlie Kirk to Candace Owens stating: "Since the beginning of Turning Point USA, I knew in my gut that I might get wiped out at any time … I dream about it all the time … I'm not sure I'm going to live to see the end of this revolution."
@@ -831,7 +830,7 @@ Anchored Artifacts: A-1677.1
 Mentions: N-1, N-3
 Investigative Direction: Authenticate the text via metadata (date, device, recipient); compare against other contemporaneous statements made by Charlie Kirk about his own safety.
 
-**C-2202** Atlantic article reports Bill Montgomery met Charlie at Benedictine University in May 2012 and co-founded TPUSA
+**C-5639** Atlantic article reports Bill Montgomery met Charlie at Benedictine University in May 2012 and co-founded TPUSA
 
 Claim Timestamp: 00:27:32
 Claim: The episode presents an Atlantic article excerpt (quoting a National Journal source) reporting Bill Montgomery met Charlie Kirk at Benedictine University in the western Chicago suburb during a youth government day in May 2012 and that TPUSA launched a month later with Montgomery's encouragement.
@@ -839,7 +838,7 @@ Anchored Artifacts: A-1678.1
 Mentions: N-1, N-456
 Investigative Direction: Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.
 
-**C-2203** Host Says Christian Zionist Threat Message Echoes Laurie Cardoza-Moore's Online Rant
+**C-5660** Host Says Christian Zionist Threat Message Echoes Laurie Cardoza-Moore's Online Rant
 
 Claim Timestamp: 00:38:50
 Claim: The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.
@@ -848,7 +847,7 @@ Mentions: N-495, N-22
 Related Nodes: N-10445
 Investigative Direction: Obtain independent forensic voice comparison; verify Laurie Cardoza-Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
-**C-2204** Host Says Internet Sleuths Found Laurie Cardoza-Moore's Background in Acting and Romance Hotlines
+**C-5663** Host Says Internet Sleuths Found Laurie Cardoza-Moore's Background in Acting and Romance Hotlines
 
 Claim Timestamp: 00:41:17
 Claim: The host says, citing findings by internet sleuths of the "decentralized intelligence agency," that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.
@@ -856,7 +855,7 @@ Anchored Artifacts: A-1682.1
 Mentions: N-495
 Investigative Direction: Establish provenance and dating of the romance hotline recording; obtain Laurie Cardoza-Moore's professional résumé or acting credits for corroboration.
 
-**C-2205** Erika Kirk gave an in-person NYT interview on September 18, 2025
+**C-5609** Erika Kirk gave an in-person NYT interview on September 18, 2025
 
 Claim Timestamp: 00:06:10
 Claim: The episode presents that Erika Kirk gave an in-person interview to the New York Times at her and Charlie's condo on September 18, 2025 – eight days after Charlie's public assassination.
@@ -866,7 +865,7 @@ Investigative Direction: Verify NYT byline, interview location, and publication 
 
 ---
 
-**C-3660** Host identifies show community as Decentralized Intelligence Agency
+**C-5664** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:41:17
 Claim: The host refers to internet sleuths as the DCIA, the decentralized intelligence agency, which she says is moving quicker.
@@ -879,7 +878,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-6983** Host Says Erika Led the Call About 12 Days After the Assassination
+**C-5600** Host Says Erika Led the Call About 12 Days After the Assassination
 
 Claim Timestamp: 00:00:51
 
@@ -895,7 +894,7 @@ Investigative Direction: Confirm the call date and invitee list through TPUSA in
 
 ---
 
-**C-6984** Host Commits to a Multi-Episode Series on Erika Kirk's Background
+**C-5601** Host Commits to a Multi-Episode Series on Erika Kirk's Background
 
 Claim Timestamp: 00:02:23
 
@@ -911,7 +910,7 @@ Investigative Direction: Track the subsequent episodes in the series and compare
 
 ---
 
-**C-6985** Host Says TPUSA Raised Over a Quarter Billion Dollars After the Assassination
+**C-5602** Host Says TPUSA Raised Over a Quarter Billion Dollars After the Assassination
 
 Claim Timestamp: 00:02:23
 
@@ -927,7 +926,7 @@ Investigative Direction: Compare the figure against TPUSA and Turning Point Acti
 
 ---
 
-**C-6986** Host Says Employees Who Worked 20-Hour Days Were Fired Without a Clear Reason
+**C-5603** Host Says Employees Who Worked 20-Hour Days Were Fired Without a Clear Reason
 
 Claim Timestamp: 00:03:47
 
@@ -943,7 +942,7 @@ Investigative Direction: Obtain termination notices or severance paperwork for s
 
 ---
 
-**C-6987** Host Says TPUSA Is Accountable to the Public Despite Cease and Desist Letters
+**C-5604** Host Says TPUSA Is Accountable to the Public Despite Cease and Desist Letters
 
 Claim Timestamp: 00:04:44
 
@@ -959,7 +958,7 @@ Investigative Direction: Obtain copies of any cease and desist letters from TPUS
 
 ---
 
-**C-6988** Host Says the Leaked Zoom Call Took Place on Monday, September 22
+**C-5605** Host Says the Leaked Zoom Call Took Place on Monday, September 22
 
 Claim Timestamp: 00:04:44
 
@@ -975,7 +974,7 @@ Investigative Direction: Verify the call date from recording metadata or the Zoo
 
 ---
 
-**C-6989** Host Says the Call Came About 48 Hours After a Private Catholic Funeral Mass
+**C-5606** Host Says the Call Came About 48 Hours After a Private Catholic Funeral Mass
 
 Claim Timestamp: 00:04:44
 
@@ -991,7 +990,7 @@ Investigative Direction: Establish the date, venue and attendee list of the fune
 
 ---
 
-**C-6990** Host Says Top-Paying Donors Were Privy to the Funeral Mass
+**C-5607** Host Says Top-Paying Donors Were Privy to the Funeral Mass
 
 Claim Timestamp: 00:04:44
 
@@ -1007,7 +1006,7 @@ Investigative Direction: Identify which donors attended the funeral mass and how
 
 ---
 
-**C-6991** Host Says She Went Away to Wyoming After the Assassination
+**C-5608** Host Says She Went Away to Wyoming After the Assassination
 
 Claim Timestamp: 00:05:53
 
@@ -1023,7 +1022,7 @@ Investigative Direction: Check the host's own timeline of travel and posting dur
 
 ---
 
-**C-6992** NYT Article Quotes Erika Saying the President's Tone Was Soft and Embracing
+**C-5611** NYT Article Quotes Erika Saying the President's Tone Was Soft and Embracing
 
 Claim Timestamp: 00:07:45
 
@@ -1039,7 +1038,7 @@ Investigative Direction: Locate the original New York Times article and confirm 
 
 ---
 
-**C-6993** NYT Article Describes Erika Left to Care for a Three-Year-Old Daughter and a One-Year-Old Son
+**C-5612** NYT Article Describes Erika Left to Care for a Three-Year-Old Daughter and a One-Year-Old Son
 
 Claim Timestamp: 00:07:45
 
@@ -1055,7 +1054,7 @@ Investigative Direction: Confirm the children's ages in the published article an
 
 ---
 
-**C-6994** Host Places the Funeral Mass on September 20 at 11 a.m.
+**C-5613** Host Places the Funeral Mass on September 20 at 11 a.m.
 
 Claim Timestamp: 00:09:30
 
@@ -1071,7 +1070,7 @@ Investigative Direction: Confirm the funeral mass date, time and venue through t
 
 ---
 
-**C-6995** Host Places the Public Memorial at State Farm Stadium on September 21
+**C-5614** Host Places the Public Memorial at State Farm Stadium on September 21
 
 Claim Timestamp: 00:09:30
 
@@ -1087,7 +1086,7 @@ Investigative Direction: Verify against stadium and event records and contempora
 
 ---
 
-**C-6996** Host Says Erika Attended a Private Dinner with the McCoys on September 22
+**C-5615** Host Says Erika Attended a Private Dinner with the McCoys on September 22
 
 Claim Timestamp: 00:09:30
 
@@ -1103,7 +1102,7 @@ Investigative Direction: Identify the restaurant and attendees via receipts, res
 
 ---
 
-**C-6997** Host Says the Full Call Is 15 Minutes and She Is Not Playing All of It
+**C-5616** Host Says the Full Call Is 15 Minutes and She Is Not Playing All of It
 
 Claim Timestamp: 00:10:16
 
@@ -1119,7 +1118,7 @@ Investigative Direction: Obtain the full 15-minute recording and compare the air
 
 ---
 
-**C-6998** Erika Says Thousands Registered to Vote and Merch Sales Passed 200,000
+**C-5618** Erika Says Thousands Registered to Vote and Merch Sales Passed 200,000
 
 Claim Timestamp: 00:11:24
 
@@ -1135,7 +1134,7 @@ Investigative Direction: Compare the stated voter registration and merch figures
 
 ---
 
-**C-6999** Erika Says Several Staff Did Not Even Sleep During Memorial Preparation
+**C-5620** Erika Says Several Staff Did Not Even Sleep During Memorial Preparation
 
 Claim Timestamp: 00:12:42
 
@@ -1151,7 +1150,7 @@ Investigative Direction: Interview staff who worked on the memorial about hours 
 
 ---
 
-**C-7000** Erika Tells Staff to Put Grievances to Rest and Says Her Husband Is Dead
+**C-5621** Erika Tells Staff to Put Grievances to Rest and Says Her Husband Is Dead
 
 Claim Timestamp: 00:13:37
 
@@ -1167,7 +1166,7 @@ Investigative Direction: Establish whether internal TPUSA conflicts existed at t
 
 ---
 
-**C-7001** Erika Says She Insisted on Paying Flights for Staff Spouses
+**C-5623** Erika Says She Insisted on Paying Flights for Staff Spouses
 
 Claim Timestamp: 00:15:47
 
@@ -1183,7 +1182,7 @@ Investigative Direction: Obtain travel and expense records showing who flew in f
 
 ---
 
-**C-7002** Erika Says Charlie Would Want Staff Back at Work and TPUSA Will Steam Ahead
+**C-5625** Erika Says Charlie Would Want Staff Back at Work and TPUSA Will Steam Ahead
 
 Claim Timestamp: 00:17:58
 
@@ -1199,7 +1198,7 @@ Investigative Direction: Compare the call's stated work pace with TPUSA event an
 
 ---
 
-**C-7003** Erika Says TPUSA Has 100,000 Chapter Requests and 300,000 New Donors Since the Assassination
+**C-5626** Erika Says TPUSA Has 100,000 Chapter Requests and 300,000 New Donors Since the Assassination
 
 Claim Timestamp: 00:18:36
 
@@ -1215,7 +1214,7 @@ Investigative Direction: Compare the claimed chapter requests and new donors wit
 
 ---
 
-**C-7004** Erika Says 50,000 Hat Orders and Over 20,000 AmFest Registrations
+**C-5627** Erika Says 50,000 Hat Orders and Over 20,000 AmFest Registrations
 
 Claim Timestamp: 00:18:49
 
@@ -1231,7 +1230,7 @@ Investigative Direction: Compare with TPUSA merchandise fulfillment records and 
 
 ---
 
-**C-7005** Host Says Employees Told Her the Call Left Them Feeling Strange About Taking Time Off
+**C-5628** Host Says Employees Told Her the Call Left Them Feeling Strange About Taking Time Off
 
 Claim Timestamp: 00:18:49
 
@@ -1247,7 +1246,7 @@ Investigative Direction: Interview employees who were on the call, preferably on
 
 ---
 
-**C-7006** Erika Says Charlie and Justin Talked Plans on Night Walk Phone Calls
+**C-5631** Erika Says Charlie and Justin Talked Plans on Night Walk Phone Calls
 
 Claim Timestamp: 00:20:47
 
@@ -1263,7 +1262,7 @@ Investigative Direction: Ask Justin Streiff and TPUSA board members to confirm t
 
 ---
 
-**C-7007** Erika Says the Board and She Are Working With Justin to Implement the 2030 Plans
+**C-5632** Erika Says the Board and She Are Working With Justin to Implement the 2030 Plans
 
 Claim Timestamp: 00:21:52
 
@@ -1279,7 +1278,7 @@ Investigative Direction: Obtain board minutes and executive team announcements o
 
 ---
 
-**C-7008** Erika Says It Is Weird to Say She Is Excited but It Comes From Peace
+**C-5633** Erika Says It Is Weird to Say She Is Excited but It Comes From Peace
 
 Claim Timestamp: 00:21:52
 
@@ -1295,7 +1294,7 @@ Investigative Direction: Compare Erika's tone on this call with her public state
 
 ---
 
-**C-7009** Host Says Fired Employees Say Erika Was in the Office Daily With Stacy Sheridan
+**C-5634** Host Says Fired Employees Say Erika Was in the Office Daily With Stacy Sheridan
 
 Claim Timestamp: 00:24:32
 
@@ -1311,7 +1310,7 @@ Investigative Direction: Interview former staff about Erika's office attendance 
 
 ---
 
-**C-7010** Host Says She Posited the Military Was Watching Gifted Children, Possibly Including Charlie
+**C-5635** Host Says She Posited the Military Was Watching Gifted Children, Possibly Including Charlie
 
 Claim Timestamp: 00:25:45
 
@@ -1327,7 +1326,7 @@ Investigative Direction: Identify any documentation that a military or intellige
 
 ---
 
-**C-7011** Host Says Street Lights Used to Go Out When Charlie Ran
+**C-5636** Host Says Street Lights Used to Go Out When Charlie Ran
 
 Claim Timestamp: 00:25:45
 
@@ -1342,7 +1341,7 @@ Investigative Direction: Ask people close to Charlie Kirk to confirm or deny the
 
 ---
 
-**C-7012** Host Says the Public Founding Story Is That Charlie Did Not Get Into West Point
+**C-5638** Host Says the Public Founding Story Is That Charlie Did Not Get Into West Point
 
 Claim Timestamp: 00:26:33
 
@@ -1358,7 +1357,7 @@ Investigative Direction: Compare with published founding accounts of TPUSA and C
 
 ---
 
-**C-7013** Host Says Bill Montgomery Has Passed and That She Met Him
+**C-5640** Host Says Bill Montgomery Has Passed and That She Met Him
 
 Claim Timestamp: 00:27:32
 
@@ -1373,7 +1372,7 @@ Investigative Direction: Confirm Montgomery's death date and obituary details.
 
 ---
 
-**C-7014** Host Says Bill Montgomery Was in the Air Force Reserves and From Lincoln, Nebraska
+**C-5641** Host Says Bill Montgomery Was in the Air Force Reserves and From Lincoln, Nebraska
 
 Claim Timestamp: 00:28:36
 
@@ -1389,7 +1388,7 @@ Investigative Direction: Obtain Montgomery's military service record, obituary a
 
 ---
 
-**C-7015** Host Says Montgomery Moved to the Chicago Area, Where Charlie's School Was
+**C-5642** Host Says Montgomery Moved to the Chicago Area, Where Charlie's School Was
 
 Claim Timestamp: 00:28:36
 
@@ -1405,7 +1404,7 @@ Investigative Direction: Establish when and why Montgomery moved to the Chicago 
 
 ---
 
-**C-7016** Host Says Charlie's Gifted School Was Creative Children's Academy, Renamed Quest Academy
+**C-5643** Host Says Charlie's Gifted School Was Creative Children's Academy, Renamed Quest Academy
 
 Claim Timestamp: 00:28:36
 
@@ -1421,7 +1420,7 @@ Investigative Direction: Confirm the school's founding year, rename and Charlie 
 
 ---
 
-**C-7017** Host Says the Academy Receives Corporate and Private Funding From Unnamed Sources
+**C-5644** Host Says the Academy Receives Corporate and Private Funding From Unnamed Sources
 
 Claim Timestamp: 00:28:36
 
@@ -1437,7 +1436,7 @@ Investigative Direction: Locate the article and the school's tax filings and don
 
 ---
 
-**C-7018** Host Says the Academy Is a Stone's Throw From Northrop Grumman
+**C-5645** Host Says the Academy Is a Stone's Throw From Northrop Grumman
 
 Claim Timestamp: 00:29:53
 
@@ -1453,7 +1452,7 @@ Investigative Direction: Map the academy's address against Northrop Grumman faci
 
 ---
 
-**C-7019** Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Bartz
+**C-5646** Host Says Helene Bartz Founded the Academy and Her Husband Is Rev. Robert Bartz
 
 Claim Timestamp: 00:29:53
 
@@ -1469,7 +1468,7 @@ Investigative Direction: Verify the founders through Illinois corporation filing
 
 ---
 
-**C-7020** Host Says a Tipster Reports Helene Bartz Was Friends With Bill and Edith Montgomery
+**C-5647** Host Says a Tipster Reports Helene Bartz Was Friends With Bill and Edith Montgomery
 
 Claim Timestamp: 00:29:53
 
@@ -1485,7 +1484,7 @@ Investigative Direction: Obtain independent corroboration, such as church, busin
 
 ---
 
-**C-7021** Host Says Edith Walker Immigrated From Germany After WWII and Was an Adolescent Psychiatric Nurse
+**C-5648** Host Says Edith Walker Immigrated From Germany After WWII and Was an Adolescent Psychiatric Nurse
 
 Claim Timestamp: 00:29:53
 
@@ -1500,7 +1499,7 @@ Investigative Direction: Search immigration, nursing licensure and employment re
 
 ---
 
-**C-7022** Tipster Claims Edith Walker Started the School With Helene Bartz and Has Been Wiped From the Record
+**C-5649** Tipster Claims Edith Walker Started the School With Helene Bartz and Has Been Wiped From the Record
 
 Claim Timestamp: 00:29:53
 
@@ -1516,7 +1515,7 @@ Investigative Direction: Compare school founding documents and archived web page
 
 ---
 
-**C-7023** Tipster Claims the Montgomerys and Robert Flood All Worked for Shaklee Before the School
+**C-5650** Tipster Claims the Montgomerys and Robert Flood All Worked for Shaklee Before the School
 
 Claim Timestamp: 00:31:10
 
@@ -1532,7 +1531,7 @@ Investigative Direction: Seek Shaklee employment records or distributor historie
 
 ---
 
-**C-7024** Host Says Shaklee Created the First Multivitamin in America
+**C-5651** Host Says Shaklee Created the First Multivitamin in America
 
 Claim Timestamp: 00:31:47
 
@@ -1548,7 +1547,7 @@ Investigative Direction: Check Shaklee's corporate history for the multivitamin 
 
 ---
 
-**C-7025** Host Says Shaklee Had a 25-Year NASA Contract for Space Supplements
+**C-5652** Host Says Shaklee Had a 25-Year NASA Contract for Space Supplements
 
 Claim Timestamp: 00:31:47
 
@@ -1564,7 +1563,7 @@ Investigative Direction: Search NASA contract archives and Shaklee corporate his
 
 ---
 
-**C-7026** Host Says She Confirmed Helene Bartz Ran the Shaklee Center in Arlington Heights
+**C-5653** Host Says She Confirmed Helene Bartz Ran the Shaklee Center in Arlington Heights
 
 Claim Timestamp: 00:31:47
 
@@ -1580,7 +1579,7 @@ Investigative Direction: Request the host's confirming source and look for Shakl
 
 ---
 
-**C-7027** Host Says Charlie Told Her His Mother Refused to Let Them Drug Him as a Child
+**C-5654** Host Says Charlie Told Her His Mother Refused to Let Them Drug Him as a Child
 
 Claim Timestamp: 00:33:13
 
@@ -1591,13 +1590,13 @@ Transcript Snippet: Charlie told me the story that they wanted to drug him when 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-11122, N-10422
-Supports: C-5426
+Supports: C-5073
 Tags: relevance:core
 Investigative Direction: Seek confirmation from Charlie's family or school records; the host relays a private conversation.
 
 ---
 
-**C-7028** Host Asks Viewers to Email Tips About Edith Walker Montgomery
+**C-5655** Host Asks Viewers to Email Tips About Edith Walker Montgomery
 
 Claim Timestamp: 00:33:24
 
@@ -1613,7 +1612,7 @@ Investigative Direction: Review incoming tip responses to the request; this is a
 
 ---
 
-**C-7029** Host Says Operation Paperclip Brought Nazi Scientists to the US Under the CIA
+**C-5656** Host Says Operation Paperclip Brought Nazi Scientists to the US Under the CIA
 
 Claim Timestamp: 00:36:41
 
@@ -1629,7 +1628,7 @@ Investigative Direction: Operation Paperclip is historically documented; verify 
 
 ---
 
-**C-7030** Host Says She Does Not Believe the Moon Landing Happened
+**C-5657** Host Says She Does Not Believe the Moon Landing Happened
 
 Claim Timestamp: 00:36:41
 
@@ -1645,7 +1644,7 @@ Investigative Direction: Host's stated belief; contrary to extensive public docu
 
 ---
 
-**C-7031** Host Says Project Monarch Was the Precursor to MK Ultra and Intentionally Harmed Children
+**C-5658** Host Says Project Monarch Was the Precursor to MK Ultra and Intentionally Harmed Children
 
 Claim Timestamp: 00:36:41
 
@@ -1661,7 +1660,7 @@ Investigative Direction: Project Monarch is contested in the historical record; 
 
 ---
 
-**C-7032** Host Credits the Brave Report With Identifying Laurie Cardoza-Moore as an Evangelical Zionist Who Learned She Is Jewish
+**C-5659** Host Credits the Brave Report With Identifying Laurie Cardoza-Moore as an Evangelical Zionist Who Learned She Is Jewish
 
 Claim Timestamp: 00:38:36
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Locate the Brave Report posts and Moore's own statement
 
 ---
 
-**C-7033** Moore Says Three Couples Told Her They Were Horrified by Tucker Carlson at the Tampa Conference
+**C-5661** Moore Says Three Couples Told Her They Were Horrified by Tucker Carlson at the Tampa Conference
 
 Claim Timestamp: 00:39:08
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Identify the date of the Tampa conference and compare t
 
 ---
 
-**C-7034** Moore Says Bachmann Told Her 10% of the Room Walked Out and Charlie Did Not Respond
+**C-5662** Moore Says Bachmann Told Her 10% of the Room Walked Out and Charlie Did Not Respond
 
 Claim Timestamp: 00:40:07
 
@@ -1709,7 +1708,7 @@ Investigative Direction: Review the Tampa conference footage for the booing, wal
 
 ---
 
-**C-7035** Host Says Lorie Moore Is Married to Stanley Clark Moore, With an Air Force Background
+**C-5666** Host Says Lorie Moore Is Married to Stanley Clark Moore, With an Air Force Background
 
 Claim Timestamp: 00:42:05
 
@@ -1724,7 +1723,7 @@ Investigative Direction: Search public records and the Wikipedia article for Sta
 
 ---
 
-**C-7036** Host Says Stanley Clark Moore Worked for NASA Briefly if His Wikipedia Is to Be Believed
+**C-5665** Host Says Stanley Clark Moore Worked for NASA Briefly if His Wikipedia Is to Be Believed
 
 Claim Timestamp: 00:41:47
 
@@ -1740,7 +1739,7 @@ Investigative Direction: Read the Wikipedia article and its sources for the NASA
 
 ---
 
-**C-7037** Host Asks Viewers to Message Tips on Stanley Clark Moore's Air Force Base
+**C-5667** Host Asks Viewers to Message Tips on Stanley Clark Moore's Air Force Base
 
 Claim Timestamp: 00:43:01
 
@@ -1756,7 +1755,7 @@ Investigative Direction: Review incoming tip responses; this is a call for crowd
 
 ---
 
-**C-7038** Host Says Turning Point Is Shooting a Super Bowl Commercial in Nashville With a Company Whose CEO Is From Lockheed Martin
+**C-5668** Host Says Turning Point Is Shooting a Super Bowl Commercial in Nashville With a Company Whose CEO Is From Lockheed Martin
 
 Claim Timestamp: 00:43:01
 
@@ -1772,7 +1771,7 @@ Investigative Direction: Identify the production company and its CEO's biography
 
 ---
 
-**C-7039** Host Says the Military Cult Has Been in Power Since LBJ Helped Murder JFK
+**C-5669** Host Says the Military Cult Has Been in Power Since LBJ Helped Murder JFK
 
 Claim Timestamp: 00:43:01
 
@@ -1787,7 +1786,7 @@ Investigative Direction: Host's stated belief; historical sources on the JFK ass
 
 ---
 
-**C-7040** Host Says Kanye West Took Out a Full-Page Wall Street Journal Ad to Apologize
+**C-5670** Host Says Kanye West Took Out a Full-Page Wall Street Journal Ad to Apologize
 
 Claim Timestamp: 00:43:58
 
@@ -1803,7 +1802,7 @@ Investigative Direction: Locate the Wall Street Journal ad and confirm its date 
 
 ---
 
-**C-7041** Host Says Kanye Told Vanity Fair About His Bipolar Episode and New Meds
+**C-5671** Host Says Kanye Told Vanity Fair About His Bipolar Episode and New Meds
 
 Claim Timestamp: 00:43:58
 
@@ -1819,7 +1818,7 @@ Investigative Direction: Obtain the Vanity Fair piece and check the quoted state
 
 ---
 
-**C-7042** Host Says Ye's Apology Does Not Change Her Views on Israel and She Will Support Him
+**C-5672** Host Says Ye's Apology Does Not Change Her Views on Israel and She Will Support Him
 
 Claim Timestamp: 00:44:40
 
@@ -1835,7 +1834,7 @@ Investigative Direction: Host's stated position; compare against her prior state
 
 ---
 
-**C-7043** Host Says Erika Said She Lived in China and Never Did
+**C-5673** Host Says Erika Said She Lived in China and Never Did
 
 Claim Timestamp: 00:48:20
 
@@ -1851,7 +1850,7 @@ Investigative Direction: Compare Erika's recorded statements about China with he
 
 ---
 
-**C-7044** Host Says Erika Said She Did Not Date for Five Years and That Defenders Reframed It
+**C-5674** Host Says Erika Said She Did Not Date for Five Years and That Defenders Reframed It
 
 Claim Timestamp: 00:48:20
 
@@ -1866,7 +1865,7 @@ Investigative Direction: Locate Erika's original statement and any clarification
 
 ---
 
-**C-7045** Host Says Andrew Kolvet Was Caught Holding the Paramount Tactical Tweet
+**C-5675** Host Says Andrew Kolvet Was Caught Holding the Paramount Tactical Tweet
 
 Claim Timestamp: 00:48:20
 
@@ -1882,7 +1881,7 @@ Investigative Direction: Review the earlier episode on the Paramount Tactical tw
 
 ---
 
-**C-7046** Host Says Fired Employees Reported Having No Access to Erika and That She Did Not Feel Like Charlie
+**C-5676** Host Says Fired Employees Reported Having No Access to Erika and That She Did Not Feel Like Charlie
 
 Claim Timestamp: 00:49:37
 
@@ -1898,7 +1897,7 @@ Investigative Direction: Interview former employees about access to Erika; the h
 
 ---
 
-**C-7047** Host Says Charlie Declined to Buy Himself a Suit From a Tailor to Be a Good Steward
+**C-5677** Host Says Charlie Declined to Buy Himself a Suit From a Tailor to Be a Good Steward
 
 Claim Timestamp: 00:49:45
 
@@ -1914,7 +1913,7 @@ Investigative Direction: Anecdote from the host's own acquaintance with Charlie;
 
 ---
 
-**C-7048** Host Says the Majority of TPUSA's Money Comes From Small-Pocket Donors
+**C-5678** Host Says the Majority of TPUSA's Money Comes From Small-Pocket Donors
 
 Claim Timestamp: 00:49:45
 
@@ -1930,7 +1929,7 @@ Investigative Direction: Compare with TPUSA's donor breakdown in Form 990 filing
 
 ---
 
-**C-7049** Host Says Her Book Now Ships to Canada
+**C-5679** Host Says Her Book Now Ships to Canada
 
 Claim Timestamp: 00:50:40
 
@@ -1945,7 +1944,7 @@ Investigative Direction: Check the store listing for Canadian shipping; promotio
 
 ---
 
-**C-7050** Host Says the Korean War Spraying Experiments Are the True Reason NASA Came Together
+**C-5680** Host Says the Korean War Spraying Experiments Are the True Reason NASA Came Together
 
 Claim Timestamp: 00:52:26
 
@@ -1961,7 +1960,7 @@ Investigative Direction: Host's stated belief; test against historical records o
 
 ---
 
-**C-7051** Host Says It Is Less Believable That Kolvet and Flood Did Not Tell Erika Afterward
+**C-5681** Host Says It Is Less Believable That Kolvet and Flood Did Not Tell Erika Afterward
 
 Claim Timestamp: 00:53:45
 
@@ -1977,7 +1976,7 @@ Investigative Direction: Ask Kolvet, Flood and the FBI when Erika was told of Ch
 
 ---
 
-**C-7052** Host Relays That a Source Said the Group Was Joyous and Giddy at Charlie's Favorite Restaurant
+**C-5682** Host Relays That a Source Said the Group Was Joyous and Giddy at Charlie's Favorite Restaurant
 
 Claim Timestamp: 00:55:44
 

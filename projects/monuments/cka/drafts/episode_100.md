@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-601, N-602, N-605, N-606, N-10909
   - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-159, N-163, N-211, N-221, N-224, N-229, N-266, N-270, N-330, N-361, N-366, N-130, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-604, N-10912, N-603, N-10681, N-10911, N-10689, N-10910, N-10768
-  - Claim Range: C-3884–C-3948
+  - Claim Range: C-8921–C-8985
   - (see registers)
 
 ## 2. Executive Summary
@@ -40,7 +40,7 @@ Video Timestamp: 00:02:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3884, C-3885, N-266, N-130, N-3, N-10651*
+*Related: C-8921, C-8922, N-266, N-130, N-3, N-10651*
 
 **A-2544.2** Host verbal reference to the preservation order Dhillon Law Group served on Blake Bednarz (not shown)
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:09:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3895, N-601, N-10909, N-10910*
+*Related: C-8932, N-601, N-10909, N-10910*
 
 ---
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:06:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3891, C-3892, N-330, N-601, N-266, N-10909*
+*Related: C-8928, C-8929, N-330, N-601, N-266, N-10909*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:08:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3893, C-3894, N-601, N-266, N-1, N-10768*
+*Related: C-8930, C-8931, N-601, N-266, N-1, N-10768*
 
 **A-2546.2** Video clip of Blake Bednarz making his accusations against Harpole (played)
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:09:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3894, N-601, N-266*
+*Related: C-8931, N-601, N-266*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:11:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3896, N-3*
+*Related: C-8933, N-3*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:14:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3900, N-266, N-2, N-361, N-10000, N-10899*
+*Related: C-8937, N-266, N-2, N-361, N-10000, N-10899*
 
 **A-2548.2** Second military YouTuber message threatening to tie the host to Mitch Snow (read aloud)
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:15:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3901, N-361, N-10899*
+*Related: C-8938, N-361, N-10899*
 
 ---
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:17:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3902, N-266, N-361, N-3, N-10643*
+*Related: C-8939, N-266, N-361, N-3, N-10643*
 
 **A-2549.2** Host's December 27 group text to Justin Streiff and Andrew Kolvet on Fort Huachuca (read aloud)
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:19:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3907, C-3908, C-3909, C-3911, C-3912, N-15, N-14, N-361, N-266, N-2, N-10373, N-10450*
+*Related: C-8944, C-8945, C-8946, C-8948, C-8949, N-15, N-14, N-361, N-266, N-2, N-10373, N-10450*
 
 **A-2549.3** Host's January 4 message to Dan Flood (read aloud)
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:22:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3913, N-270, N-266, N-10651*
+*Related: C-8950, N-270, N-266, N-10651*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:19:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3906, N-2, N-14, N-10472*
+*Related: C-8943, N-2, N-14, N-10472*
 
 ---
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:31:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3918, C-3919, C-3920, C-3921, N-366, N-30, N-10631, N-10689*
+*Related: C-8955, C-8956, C-8957, C-8958, N-366, N-30, N-10631, N-10689*
 
 ---
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:43:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3933, N-605, N-366*
+*Related: C-8970, N-605, N-366*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:51:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3942, N-366*
+*Related: C-8979, N-366*
 
 **A-2553.2** Boreing X post section on Laura Loomer (read aloud)
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:51:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3943, N-366, N-60*
+*Related: C-8980, N-366, N-60*
 
 **A-2553.3** Boreing X post section on the Daily Wire employee arrest (read aloud)
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:53:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3944, N-366, N-606, N-10912*
+*Related: C-8981, N-366, N-606, N-10912*
 
 **A-2553.4** Boreing X post closing section on the invitation and his safety (read aloud)
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:54:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3945, N-366*
+*Related: C-8982, N-366*
 
 ---
 
@@ -272,7 +272,7 @@ Video Timestamp: 00:47:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3936, C-3939, N-606, N-10912*
+*Related: C-8973, C-8976, N-606, N-10912*
 
 ---
 ## 4. Node Register
@@ -281,295 +281,295 @@ Confidence Level: Low
 
 Assassination victim. Bednarz's detonation theory, the Kirks' September 9 schedule and the Aspen appointment statement all concern him; the host says he was alive and among those she consulted about the Daily Wire's attacks.
 
-*Related: C-3890, C-3891, C-3894, C-3909, C-3910, C-3911, C-3929, C-3947, A-2546.1*
+*Related: C-8927, C-8928, C-8931, C-8946, C-8947, C-8948, C-8966, C-8984, A-2546.1*
 
 **N-2** Erika Kirk
 
 Her alleged Fort Huachuca presence, the Kolvet-relayed alibis, her Jesse Watters account, her speeches and the Aspen appointment statement are discussed.
 
-*Related: C-3900, C-3904, C-3905, C-3906, C-3908, C-3909, C-3910, C-3911, C-3912, C-3946, C-3947, A-2548.1, A-2549.2, A-2550.1*
+*Related: C-8937, C-8941, C-8942, C-8943, C-8945, C-8946, C-8947, C-8948, C-8949, C-8983, C-8984, A-2548.1, A-2549.2, A-2550.1*
 
 **N-3** Candace Owens
 
 Host; defendant in the Harpole suit. Relays her contacts with Bednarz, her messages to Harpole, Streiff, Kolvet and Flood, and her denials about her husband.
 
-*Related: C-3884, C-3885, C-3886, C-3888, C-3889, C-3895, C-3896, C-3897, C-3898, C-3899, C-3900, C-3901, C-3902, C-3903, C-3905, C-3907, C-3911, C-3913, C-3914, C-3915, C-3917, C-3920, C-3921, C-3922, C-3926, C-3929, C-3931, C-3935, C-3940, C-3942, C-3945, C-3948, A-2544.1, A-2547.1, A-2549.1*
+*Related: C-8921, C-8922, C-8923, C-8925, C-8926, C-8932, C-8933, C-8934, C-8935, C-8936, C-8937, C-8938, C-8939, C-8940, C-8942, C-8944, C-8948, C-8950, C-8951, C-8952, C-8954, C-8957, C-8958, C-8959, C-8963, C-8966, C-8968, C-8972, C-8977, C-8979, C-8982, C-8985, A-2544.1, A-2547.1, A-2549.1*
 
 **N-14** Andrew Kolvet
 
 Transcript spelling "Andrew Kolvet" in the comments. The host says he relayed Fort Huachuca alibi messages through Paramount Tactical and was a recipient of her December 27 group text.
 
-*Related: C-3904, C-3905, C-3906, C-3907, C-3909, C-3912, A-2549.2, A-2550.1*
+*Related: C-8941, C-8942, C-8943, C-8944, C-8946, C-8949, A-2549.2, A-2550.1*
 
 **N-15** Justin Streiff
 Transcript spelling "Justin Streiff". Co-recipient of the host's December 27 group text on Fort Huachuca.
 
-*Related: C-3907, A-2549.2*
+*Related: C-8944, A-2549.2*
 
 **N-22** Tucker Carlson
 
 The host says 17 of Boreing's 19 podcast episodes concern her and Carlson.
 
-*Related: C-3935*
+*Related: C-8972*
 
 **N-30** George (Candace's husband)
 
 Named as George Farmer. Subject of the alleged 2023 Nashville DUI arrest that Boreing and Laura Loomer cite, which the host denies; she says he introduced Daily Wire leadership to London investors.
 
-*Related: C-3918, C-3920, C-3921, C-3922, C-3925, C-3926, C-3927, C-3928, C-3930, C-3931, C-3932, C-3942, A-2551.1*
+*Related: C-8955, C-8957, C-8958, C-8959, C-8962, C-8963, C-8964, C-8965, C-8967, C-8968, C-8969, C-8979, A-2551.1*
 
 **N-60** Laura Loomer
 
 Source of the allegations about George Farmer and Tracy Robinson that Boreing amplified; tagging DHS. Boreing says he has not spoken to her privately in years.
 
-*Related: C-3918, C-3930, C-3932, C-3943, A-2553.2*
+*Related: C-8955, C-8967, C-8969, C-8980, A-2553.2*
 
 **N-97** Ben Shapiro
 
 Named ("Ben") as working with the same lawyer to pursue the host in court.
 
-*Related: C-3917*
+*Related: C-8954*
 
 **N-159** Blake Neff
 
 The host repeats the allegation that he wrote Erika Kirk's speeches, and asks him to release the Aspen video.
 
-*Related: C-3946, C-3947*
+*Related: C-8983, C-8984*
 
 **N-163** Matt Walsh
 
 His documentaries' success is credited by the host for the Daily Wire's peak year before Pendragon.
 
-*Related: C-3923*
+*Related: C-8960*
 
 **N-211** Jesse Watters
 
 Transcript spelling "Jesse Watters". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message.
 
-*Related: C-3910*
+*Related: C-8947*
 
 **N-221** Brett Cooper
 
 The host alleges Boreing targeted her for wanting to marry and wrote a Lady Ballers role for her that she declined.
 
-*Related: C-3934, C-3941*
+*Related: C-8971, C-8978*
 
 **N-224** Shawn Ryan
 
 Transcript spelling "Shawn Ryan". Harpole's interview with him preceded Bednarz's theories.
 
-*Related: C-3893*
+*Related: C-8930*
 
 **N-229** Alyssa Cordova
 
 The host alleges Boreing used her to pass material to Ian Miles Cheong.
 
-*Related: C-3916*
+*Related: C-8953*
 
 **N-266** Brian Harpole
 
 Transcript spellings "Bryan Harsin", "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp". Plaintiff in the defamation suit against the host; his lawyers' preservation orders, his non-response to her messages and Bednarz's accusations against him are discussed.
 
-*Related: C-3884, C-3885, C-3890, C-3891, C-3892, C-3893, C-3894, C-3898, C-3900, C-3902, C-3903, C-3907, C-3913, C-3914, C-3917, A-2544.1, A-2545.1, A-2546.1, A-2546.2, A-2548.1, A-2549.1, A-2549.2, A-2549.3*
+*Related: C-8921, C-8922, C-8927, C-8928, C-8929, C-8930, C-8931, C-8935, C-8937, C-8939, C-8940, C-8944, C-8950, C-8951, C-8954, A-2544.1, A-2545.1, A-2546.1, A-2546.2, A-2548.1, A-2549.1, A-2549.2, A-2549.3*
 
 **N-270** Dan Flood
 
 Harpole's business partner; the host's January 4 message to him went unanswered.
 
-*Related: C-3913, A-2549.3*
+*Related: C-8950, A-2549.3*
 
 **N-330** Baron Coleman
 
 Transcript spellings "Barron" and "Baron Coleman". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR.
 
-*Related: C-3891, C-3892, C-3914, A-2545.1*
+*Related: C-8928, C-8929, C-8951, A-2545.1*
 
 **N-361** Mitch Snow
 
 Fort Huachuca eyewitness; the military YouTubers' attacks on him and his sightings of Harpole and Erika Kirk are revisited.
 
-*Related: C-3887, C-3888, C-3900, C-3901, C-3902, C-3907, C-3908, A-2548.1, A-2548.2, A-2549.1, A-2549.2*
+*Related: C-8924, C-8925, C-8937, C-8938, C-8939, C-8944, C-8945, A-2548.1, A-2548.2, A-2549.1, A-2549.2*
 
 **N-366** Jeremy Boreing
 
 Transcript spelling "Jeremy Boreing". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed.
 
-*Related: C-3915, C-3916, C-3917, C-3918, C-3919, C-3920, C-3921, C-3922, C-3923, C-3924, C-3927, C-3933, C-3934, C-3935, C-3938, C-3941, C-3942, C-3943, C-3944, C-3945, A-2551.1, A-2552.1, A-2553.1, A-2553.2, A-2553.3, A-2553.4*
+*Related: C-8952, C-8953, C-8954, C-8955, C-8956, C-8957, C-8958, C-8959, C-8960, C-8961, C-8964, C-8970, C-8971, C-8972, C-8975, C-8978, C-8979, C-8980, C-8981, C-8982, A-2551.1, A-2552.1, A-2553.1, A-2553.2, A-2553.3, A-2553.4*
 
 **N-130** Ian Carroll
 
 Harpole's lawyers sought his address; the host says he guest-hosted during her maternity leave and relayed the military YouTubers' warnings.
 
-*Related: C-3885, C-3886, C-3887, C-3889, A-2544.1*
+*Related: C-8922, C-8923, C-8924, C-8926, A-2544.1*
 
 **N-601** Douglas Blake Bednarz
 
 First named by the host at 00:06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Douglas Blake Bednarz.
 
-*Related: C-3891, C-3892, C-3893, C-3894, C-3895, C-3897, C-3898, C-3899, C-3948, A-2544.2, A-2545.1, A-2546.1, A-2546.2*
+*Related: C-8928, C-8929, C-8930, C-8931, C-8932, C-8934, C-8935, C-8936, C-8985, A-2544.2, A-2545.1, A-2546.1, A-2546.2*
 
 **N-602** Father Klein
 
 First named by the host at 00:21:38 in episode 100. The host says the Kirks' September 9 dinner was with him.
 
-*Related: C-3911*
+*Related: C-8948*
 
 **N-603** Ian Miles Cheong
 
 First named by the host at 00:28:52 in episode 100. The host alleges he received material from Alyssa Cordova to attack Boreing's enemies.
 
-*Related: C-3916*
+*Related: C-8953*
 
 **N-604** Caleb Robinson
 
 First named by the host at 00:37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).
 
-*Related: C-3925*
+*Related: C-8962*
 
 **N-605** Shane Cashman
 
 First named by the host at 00:43:02 in episode 100. Posted on X that Boreing is "Ted Bundy doing a Mr. Rogers impression."
 
-*Related: C-3933, A-2552.1*
+*Related: C-8970, A-2552.1*
 
 **N-606** Zachary Lewis
 
 First named by the host at 00:46:20 in episode 100. Former Daily Wire camera operator in the kids department; arrested and accused (not convicted) of child sexual abuse material offenses, with six felony counts pending per the host. Aliases: Zach Lewis.
 
-*Related: C-3936, C-3937, C-3938, C-3939, C-3940, C-3944, A-2553.3, A-2554.1*
+*Related: C-8973, C-8974, C-8975, C-8976, C-8977, C-8981, A-2553.3, A-2554.1*
 
 **N-10000** Turning Point USA
 
 A TPUSA source is cited in the military YouTuber's message; the host says Erika Kirk stopped using Kolvet for PR; Neff speech claim.
 
-*Related: C-3900, C-3905, C-3946, A-2548.1*
+*Related: C-8937, C-8942, C-8983, A-2548.1*
 
 **N-10126** London / UK
 
 Where George Farmer says he introduced Daily Wire leadership to investors.
 
-*Related: C-3925*
+*Related: C-8962*
 
 **N-10238** Daily Wire Intern Covert Recording Operation
 
 The host restates that interns were flown to follow her to public events.
 
-*Related: C-3915*
+*Related: C-8952*
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's videos and hotel receipts are cited as proof of his presence.
 
-*Related: C-3888*
+*Related: C-8925*
 
 **N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 The host's December 27 request for evidence to debunk the Harpole sighting.
 
-*Related: C-3907, A-2549.2*
+*Related: C-8944, A-2549.2*
 
 **N-10375** Fort Huachuca Sighting Verification
 
 The YouTubers' claims that Mitch Snow was never there, and the host's rebuttal.
 
-*Related: C-3887, C-3888*
+*Related: C-8924, C-8925*
 
 **N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Kolvet's alibi texts read on Paramount Tactical.
 
-*Related: C-3904*
+*Related: C-8941*
 
 **N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
 
 Boreing's podcast episodes about the host and Tucker Carlson, including his platforming of Loomer.
 
-*Related: C-3918, C-3935*
+*Related: C-8955, C-8972*
 
 **N-10416** Daily Wire Stalking Pattern
 
 Interns following the host, outside PR and alleged private investigators.
 
-*Related: C-3915, C-3926*
+*Related: C-8952, C-8963*
 
 **N-10417** Fort Huachuca Erika Presence Investigation
 
 Mitch Snow's belief that he saw Erika Kirk leave a base hotel on September 8.
 
-*Related: C-3908*
+*Related: C-8945*
 
 **N-10437** Aspen Donor Recall Verification
 
 Donors in attendance deny the CEO-appointment statement.
 
-*Related: C-3947*
+*Related: C-8984*
 
 **N-10449** Daily Wire Hungary Production Expenditure Investigation
 
 Pendragon's cost and Boreing's leave to shoot it in Hungary.
 
-*Related: C-3923, C-3924*
+*Related: C-8960, C-8961*
 
 **N-10450** Fort Huachuca PR Response Coordination Question
 
 The host's group text to Streiff and Kolvet about back-channel messaging through YouTubers.
 
-*Related: C-3907, A-2549.2*
+*Related: C-8944, A-2549.2*
 
 **N-10472** Fort Huachuca Alibi Investigation
 
 Kolvet's relayed alibis for Erika Kirk, the wrong-date photo and the Watters account.
 
-*Related: C-3904, C-3906, C-3909, C-3910, C-3912, A-2550.1*
+*Related: C-8941, C-8943, C-8946, C-8947, C-8949, A-2550.1*
 
 **N-10631** George Farmer / Tracy Robinson $6,987 Incident
 
 The incident Boreing and Loomer cite, the 2024 Daily Wire pitch to the New York Post, and the host's denials.
 
-*Related: C-3918, C-3920, C-3921, C-3922, C-3927, C-3928, C-3930, A-2551.1*
+*Related: C-8955, C-8957, C-8958, C-8959, C-8964, C-8965, C-8967, A-2551.1*
 
 **N-10643** Harpole Fort Huachuca Alibi Question
 
 The host's three unanswered messages asking Harpole to confirm or deny.
 
-*Related: C-3902, A-2549.1*
+*Related: C-8939, A-2549.1*
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
 
 Preservation orders, the TPUSA-source message about a planned suit, shared counsel with the Daily Wire, and the filing's contents.
 
-*Related: C-3884, C-3885, C-3890, C-3892, C-3895, C-3900, C-3903, C-3913, C-3914, C-3917, A-2544.1, A-2549.3*
+*Related: C-8921, C-8922, C-8927, C-8929, C-8932, C-8937, C-8940, C-8950, C-8951, C-8954, A-2544.1, A-2549.3*
 
 **N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Harpole's Shawn Ryan interview, after which Bednarz began his theories.
 
-*Related: C-3893*
+*Related: C-8930*
 
 **N-10689** Daily Wire Financial Status and IPO Effort
 
 Boreing's revenue-growth claim and the host's profit and Pendragon rebuttal.
 
-*Related: C-3919, C-3923, A-2551.1*
+*Related: C-8956, C-8960, A-2551.1*
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
 Bednarz's posts claim a pendant-shaped charge was detonated by Harpole.
 
-*Related: C-3894, A-2546.1*
+*Related: C-8931, A-2546.1*
 
 **N-10898** New York Post
 
 The host says it was pitched the George Farmer report in 2024 and declined.
 
-*Related: C-3927, C-3928*
+*Related: C-8964, C-8965*
 
 **N-11001** Valhalla VFT
 
 Node Type: Organization
 Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep100).
 
-*Related: C-3887, C-3889*
+*Related: C-8924, C-8926*
 
 ---
 
@@ -577,7 +577,7 @@ Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Mel
 
 Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 ("Andrew messaged Gary, that's Paramount Tactical").
 
-*Related: C-3909, C-3912*
+*Related: C-8946, C-8949*
 
 ---
 
@@ -585,45 +585,45 @@ Runs the Paramount Tactical YouTube channel (N-10899); named by first name in ep
 
 The military YouTubers who attacked Mitch Snow and read Kolvet's alibi texts on air; their host Gary is named.
 
-*Related: C-3887, C-3889, C-3900, C-3901, C-3904, C-3909, C-3912, A-2548.1, A-2548.2*
+*Related: C-8924, C-8926, C-8937, C-8938, C-8941, C-8946, C-8949, A-2548.1, A-2548.2*
 
 **N-10900** Daily Wire
 
 The host's former employer, whose finances, Pendragon, alleged stalking, the 2024 pitch about George Farmer and the Zachary Lewis case are discussed.
 
-*Related: C-3915, C-3916, C-3917, C-3919, C-3921, C-3922, C-3923, C-3924, C-3925, C-3926, C-3927, C-3929, C-3934, C-3936, C-3937, C-3938, C-3940, C-3941*
+*Related: C-8952, C-8953, C-8954, C-8956, C-8958, C-8959, C-8960, C-8961, C-8962, C-8963, C-8964, C-8966, C-8971, C-8973, C-8974, C-8975, C-8977, C-8978*
 
 **N-10909** Blake Bednarz Preservation Order / Non-Suit Discrepancy
 
 Node Type: Topic
 Investigation target: why the Harpole plaintiffs served Douglas Blake Bednarz – who explicitly and repeatedly accused Harpole of killing Charlie Kirk – with a preservation order rather than suing him, along with the host's earlier contacts with Bednarz and a new lead the host says she received about him.
 
-*Related: C-3890, C-3891, C-3892, C-3894, C-3895, C-3897, C-3898, C-3899, C-3948, A-2544.2, A-2545.1, N-601, N-266*
+*Related: C-8927, C-8928, C-8929, C-8931, C-8932, C-8934, C-8935, C-8936, C-8985, A-2544.2, A-2545.1, N-601, N-266*
 
 **N-10910** Dhillon Law Group
 
 Node Type: Organization
 Law firm (transcript spelling "Dhillon Law Group") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her.
 
-*Related: C-3895, C-3917, A-2544.2*
+*Related: C-8932, C-8954, A-2544.2*
 
 **N-10911** Department of Homeland Security
 
 Node Type: Organization
 The federal department Laura Loomer is tagging to investigate George Farmer's citizenship disclosures; the host denies lying to DHS.
 
-*Related: C-3931, C-3932*
+*Related: C-8968, C-8969*
 
 **N-10912** Zachary Lewis Daily Wire Kids Case
 
 Node Type: Topic
 Investigation target: the pending child sexual abuse material case against former Daily Wire (Bentkey kids department) camera operator Zachary Lewis, arrested in May of the previous year. Includes when he was dismissed, what leadership knew, and whether parents were notified. Allegations only; no conviction.
 
-*Related: C-3936, C-3937, C-3938, C-3939, C-3940, C-3944, A-2553.3, A-2554.1, N-606*
+*Related: C-8973, C-8974, C-8975, C-8976, C-8977, C-8981, A-2553.3, A-2554.1, N-606*
 
 ## 5. Claim Register
 
-**C-3884** Harpole's lawyers have begun sending preservation orders
+**C-8921** Harpole's lawyers have begun sending preservation orders
 
 Claim Timestamp: 00:01:19
 
@@ -638,7 +638,7 @@ Investigative Direction: Obtain the docket in Harpole v. Owens and any litigatio
 
 ---
 
-**C-3885** Harpole's lawyers asked the host's team for Ian Carroll's address
+**C-8922** Harpole's lawyers asked the host's team for Ian Carroll's address
 
 Claim Timestamp: 00:02:12
 
@@ -653,7 +653,7 @@ Investigative Direction: Obtain the email from plaintiff's counsel to the host's
 
 ---
 
-**C-3886** Ian Carroll guest-hosted during the host's maternity leave
+**C-8923** Ian Carroll guest-hosted during the host's maternity leave
 
 Claim Timestamp: 00:02:12
 
@@ -667,7 +667,7 @@ Investigative Direction: Review the show's episode archive and production paymen
 
 ---
 
-**C-3887** Military YouTubers claimed Mitch Snow never served or reached Fort Huachuca
+**C-8924** Military YouTubers claimed Mitch Snow never served or reached Fort Huachuca
 
 Claim Timestamp: 00:03:03
 
@@ -682,7 +682,7 @@ Investigative Direction: Archive the Paramount Tactical / Valhalla streams and p
 
 ---
 
-**C-3888** Host says she verified Mitch Snow's videos' metadata and hotel receipts
+**C-8925** Host says she verified Mitch Snow's videos' metadata and hotel receipts
 
 Claim Timestamp: 00:04:04
 
@@ -693,12 +693,12 @@ Transcript Snippet: He recorded videos while he was there because it was sort of
 Anchored Artifacts:
 Mentions: N-361, N-3
 Related Nodes: N-10375, N-10367
-Supports: C-1987
+Supports: C-4409
 Investigative Direction: Obtain the original video files with their EXIF/metadata and the Fort Huachuca-area hotel folio for Mitch Snow's September 8–9, 2025 stay.
 
 ---
 
-**C-3889** Ian Carroll relayed the military YouTubers' warnings to the host
+**C-8926** Ian Carroll relayed the military YouTubers' warnings to the host
 
 Claim Timestamp: 00:04:04
 
@@ -713,7 +713,7 @@ Investigative Direction: Obtain Ian Carroll's messages to the host from that per
 
 ---
 
-**C-3890** People who publicly accused Harpole of murder have not been sued
+**C-8927** People who publicly accused Harpole of murder have not been sued
 
 Claim Timestamp: 00:05:25
 
@@ -728,7 +728,7 @@ Investigative Direction: Search federal and state court dockets for defamation s
 
 ---
 
-**C-3891** Baron Coleman: Blake Bednarz accuses Harpole of murder daily
+**C-8928** Baron Coleman: Blake Bednarz accuses Harpole of murder daily
 
 Claim Timestamp: 00:06:29
 
@@ -743,7 +743,7 @@ Investigative Direction: Archive Blake Bednarz's X, YouTube and X Spaces output,
 
 ---
 
-**C-3892** Baron Coleman: Bednarz is not named in the Harpole lawsuit
+**C-8929** Baron Coleman: Bednarz is not named in the Harpole lawsuit
 
 Claim Timestamp: 00:07:17
 
@@ -758,7 +758,7 @@ Investigative Direction: Review the full Harpole complaint and its exhibits for 
 
 ---
 
-**C-3893** Bednarz began his Harpole theories after the Shawn Ryan interview
+**C-8930** Bednarz began his Harpole theories after the Shawn Ryan interview
 
 Claim Timestamp: 00:08:09
 
@@ -773,7 +773,7 @@ Investigative Direction: Compare the publication date of Harpole's Shawn Ryan Sh
 
 ---
 
-**C-3894** Bednarz posted that Harpole triggered a detonation under Charlie Kirk's shirt
+**C-8931** Bednarz posted that Harpole triggered a detonation under Charlie Kirk's shirt
 
 Claim Timestamp: 00:08:09
 
@@ -788,7 +788,7 @@ Investigative Direction: Archive the original Bednarz posts with URLs and timest
 
 ---
 
-**C-3895** Bednarz was served a preservation order by Dhillon Law Group, not sued
+**C-8932** Bednarz was served a preservation order by Dhillon Law Group, not sued
 
 Claim Timestamp: 00:09:54
 
@@ -803,7 +803,7 @@ Investigative Direction: Obtain the preservation letter served on Douglas Blake 
 
 ---
 
-**C-3896** Host earlier asked the public to send UVU footage to the tips email
+**C-8933** Host earlier asked the public to send UVU footage to the tips email
 
 Claim Timestamp: 00:11:02
 
@@ -817,7 +817,7 @@ Investigative Direction: Archive the episode or post in which the tips address w
 
 ---
 
-**C-3897** Bednarz claimed never-before-seen UVU footage from a contact
+**C-8934** Bednarz claimed never-before-seen UVU footage from a contact
 
 Claim Timestamp: 00:11:02
 
@@ -832,7 +832,7 @@ Investigative Direction: Obtain the host's message history with Bednarz and any 
 
 ---
 
-**C-3898** Bednarz shifted to pushing Harpole material in December
+**C-8935** Bednarz shifted to pushing Harpole material in December
 
 Claim Timestamp: 00:12:15
 
@@ -847,7 +847,7 @@ Investigative Direction: Review the dated message thread between the host and Be
 
 ---
 
-**C-3899** Host stopped replying to Bednarz from mid-December
+**C-8936** Host stopped replying to Bednarz from mid-December
 
 Claim Timestamp: 00:13:05
 
@@ -862,7 +862,7 @@ Investigative Direction: Confirm from the message thread the date of the host's 
 
 ---
 
-**C-3900** YouTuber message cited a TPUSA source saying TPUSA was building a defamation suit
+**C-8937** YouTuber message cited a TPUSA source saying TPUSA was building a defamation suit
 
 Claim Timestamp: 00:14:35
 
@@ -877,7 +877,7 @@ Investigative Direction: Identify the sender and recipient of the message and th
 
 ---
 
-**C-3901** YouTuber message threatened to tie the host to Mitch Snow's alleged history
+**C-8938** YouTuber message threatened to tie the host to Mitch Snow's alleged history
 
 Claim Timestamp: 00:15:30
 
@@ -892,7 +892,7 @@ Investigative Direction: Authenticate the message and its sender, and check cour
 
 ---
 
-**C-3902** Host sent Harpole three messages about his September 9 whereabouts
+**C-8939** Host sent Harpole three messages about his September 9 whereabouts
 
 Claim Timestamp: 00:17:14
 
@@ -903,12 +903,12 @@ Transcript Snippet: Hey Brian, just again reaching out in case you want to clari
 Anchored Artifacts: A-2549.1
 Mentions: N-266, N-3
 Related Nodes: N-10643
-Supports: C-2818
+Supports: C-8669
 Investigative Direction: Obtain the message metadata (dates and delivery status) for the three texts, which are also exhibits in the Harpole filing.
 
 ---
 
-**C-3903** Harpole's filing says he did not reply so as not to give the host an exclusive
+**C-8940** Harpole's filing says he did not reply so as not to give the host an exclusive
 
 Claim Timestamp: 00:18:03
 
@@ -919,12 +919,12 @@ Transcript Snippet: his reason that he didn't respond to these messages was beca
 Anchored Artifacts:
 Mentions: N-266, N-3
 Related Nodes: N-10651
-Supports: C-2819
+Supports: C-8671
 Investigative Direction: Quote the relevant paragraph of the Harpole complaint and compare it with the TPUSA-source message about planning a lawsuit.
 
 ---
 
-**C-3904** Paramount Tactical read Kolvet's Fort Huachuca alibi text on air
+**C-8941** Paramount Tactical read Kolvet's Fort Huachuca alibi text on air
 
 Claim Timestamp: 00:18:03
 
@@ -935,12 +935,12 @@ Transcript Snippet: it was an alibi regarding Fort Huachuca, asserting that the 
 Anchored Artifacts:
 Mentions: N-14, N-2
 Related Nodes: N-10899, N-10378, N-10472
-Supports: C-1997
+Supports: C-4484
 Investigative Direction: Archive the Paramount Tactical livestream segment and obtain the full text exchange with Andrew Kolvet, with dates.
 
 ---
 
-**C-3905** Erika Kirk told the host she had stopped using Kolvet as PR
+**C-8942** Erika Kirk told the host she had stopped using Kolvet as PR
 
 Claim Timestamp: 00:19:02
 
@@ -955,7 +955,7 @@ Investigative Direction: Seek any recording or notes of the December 15, 2025 me
 
 ---
 
-**C-3906** Erika's photo alibi sent via Kolvet showed the wrong dates
+**C-8943** Erika's photo alibi sent via Kolvet showed the wrong dates
 
 Claim Timestamp: 00:19:02
 
@@ -970,7 +970,7 @@ Investigative Direction: Obtain the original image file and its metadata, and co
 
 ---
 
-**C-3907** Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting
+**C-8944** Host's December 27 group text to Streiff and Kolvet on Mitch Snow's Harpole sighting
 
 Claim Timestamp: 00:19:59
 
@@ -985,7 +985,7 @@ Investigative Direction: Obtain the December 27, 2025 group thread and any reply
 
 ---
 
-**C-3908** Mitch Snow believes he saw Erika leaving a base hotel on September 8
+**C-8945** Mitch Snow believes he saw Erika leaving a base hotel on September 8
 
 Claim Timestamp: 00:20:58
 
@@ -996,12 +996,12 @@ Transcript Snippet: he also believes that he saw Erika departing a hotel on the 
 Anchored Artifacts: A-2549.2
 Mentions: N-361, N-2
 Related Nodes: N-10417
-Supports: C-1973
+Supports: C-4347
 Investigative Direction: Obtain the guest records and security footage of the on-base hotel for the evening of September 8, 2025.
 
 ---
 
-**C-3909** Kolvet told Paramount Tactical that Erika was with Charlie at the office on the 9th
+**C-8946** Kolvet told Paramount Tactical that Erika was with Charlie at the office on the 9th
 
 Claim Timestamp: 00:20:58
 
@@ -1016,7 +1016,7 @@ Investigative Direction: Obtain Kolvet's messages to the Paramount Tactical host
 
 ---
 
-**C-3910** Erika told Jesse Watters that Charlie was at the office, not that she was with him
+**C-8947** Erika told Jesse Watters that Charlie was at the office, not that she was with him
 
 Claim Timestamp: 00:20:58
 
@@ -1031,7 +1031,7 @@ Investigative Direction: Review the full Jesse Watters interview transcript for 
 
 ---
 
-**C-3911** The Kirks' September 9 dinner was with Father Klein
+**C-8948** The Kirks' September 9 dinner was with Father Klein
 
 Claim Timestamp: 00:21:38
 
@@ -1045,7 +1045,7 @@ Investigative Direction: Confirm the September 9, 2025 dinner and its location w
 
 ---
 
-**C-3912** Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th
+**C-8949** Paramount Tactical's Gary confirmed Kolvet's messages referred to the 9th
 
 Claim Timestamp: 00:21:38
 
@@ -1060,7 +1060,7 @@ Investigative Direction: Obtain the Paramount Tactical host's statement and the 
 
 ---
 
-**C-3913** Host's January 4 message to Dan Flood went unanswered and is not in the filing
+**C-8950** Host's January 4 message to Dan Flood went unanswered and is not in the filing
 
 Claim Timestamp: 00:22:26
 
@@ -1075,7 +1075,7 @@ Investigative Direction: Obtain the January 4, 2026 message and its delivery or 
 
 ---
 
-**C-3914** Harpole's filing spends its first three pages calling the host antisemitic
+**C-8951** Harpole's filing spends its first three pages calling the host antisemitic
 
 Claim Timestamp: 00:24:50
 
@@ -1090,7 +1090,7 @@ Investigative Direction: Review the first pages of the Harpole complaint for ref
 
 ---
 
-**C-3915** Boreing sent interns on planes to follow the host after she left the Daily Wire
+**C-8952** Boreing sent interns on planes to follow the host after she left the Daily Wire
 
 Claim Timestamp: 00:27:59
 
@@ -1105,7 +1105,7 @@ Investigative Direction: Obtain Daily Wire travel and expense records for intern
 
 ---
 
-**C-3916** Boreing used Alyssa Cordova to pass material to Ian Miles Cheong
+**C-8953** Boreing used Alyssa Cordova to pass material to Ian Miles Cheong
 
 Claim Timestamp: 00:28:52
 
@@ -1120,7 +1120,7 @@ Investigative Direction: Seek communications between Alyssa Cordova and Ian Mile
 
 ---
 
-**C-3917** Harpole's lawyer is the one the Daily Wire used against the host
+**C-8954** Harpole's lawyer is the one the Daily Wire used against the host
 
 Claim Timestamp: 00:28:52
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Compare counsel of record in Harpole v. Owens with coun
 
 ---
 
-**C-3918** Boreing platformed Laura Loomer's allegations against the host's husband
+**C-8955** Boreing platformed Laura Loomer's allegations against the host's husband
 
 Claim Timestamp: 00:30:07
 
@@ -1150,7 +1150,7 @@ Investigative Direction: Archive the Jeremy Boreing episode aired the day before
 
 ---
 
-**C-3919** Boreing says Daily Wire revenue grew every year he led it
+**C-8956** Boreing says Daily Wire revenue grew every year he led it
 
 Claim Timestamp: 00:31:18
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Obtain Daily Wire revenue and profit figures by year, f
 
 ---
 
-**C-3920** Boreing cites records alleging George Farmer's August 2023 Nashville DUI arrest
+**C-8957** Boreing cites records alleging George Farmer's August 2023 Nashville DUI arrest
 
 Claim Timestamp: 00:31:58
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Search Davidson County (Nashville) arrest and court rec
 
 ---
 
-**C-3921** Boreing says he learned of the arrest while the host worked for him
+**C-8958** Boreing says he learned of the arrest while the host worked for him
 
 Claim Timestamp: 00:31:58
 
@@ -1195,7 +1195,7 @@ Investigative Direction: Establish the date of any incident report and compare i
 
 ---
 
-**C-3922** Host denies any incident or Daily Wire contact during her tenure
+**C-8959** Host denies any incident or Daily Wire contact during her tenure
 
 Claim Timestamp: 00:34:16
 
@@ -1210,7 +1210,7 @@ Investigative Direction: Compare the date of the incident report Laura Loomer pu
 
 ---
 
-**C-3923** Pendragon drove the Daily Wire into the ground financially
+**C-8960** Pendragon drove the Daily Wire into the ground financially
 
 Claim Timestamp: 00:35:24
 
@@ -1225,7 +1225,7 @@ Investigative Direction: Obtain Pendragon Cycle production budgets and Daily Wir
 
 ---
 
-**C-3924** Boreing stepped aside as CEO to shoot Pendragon in Hungary
+**C-8961** Boreing stepped aside as CEO to shoot Pendragon in Hungary
 
 Claim Timestamp: 00:36:54
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Confirm the dates of Boreing's leave as CEO and of the 
 
 ---
 
-**C-3925** George Farmer introduced the Daily Wire's interim CEO to London investors
+**C-8962** George Farmer introduced the Daily Wire's interim CEO to London investors
 
 Claim Timestamp: 00:37:43
 
@@ -1255,7 +1255,7 @@ Investigative Direction: Obtain Daily Wire travel records and investor-meeting r
 
 ---
 
-**C-3926** The Daily Wire hired outside PR and, per the host's lawyers, private investigators
+**C-8963** The Daily Wire hired outside PR and, per the host's lawyers, private investigators
 
 Claim Timestamp: 00:37:43
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Seek in discovery Daily Wire vendor payments to PR firm
 
 ---
 
-**C-3927** The Daily Wire found the incident report in late summer 2024 and pitched it to the New York Post
+**C-8964** The Daily Wire found the incident report in late summer 2024 and pitched it to the New York Post
 
 Claim Timestamp: 00:38:34
 
@@ -1285,7 +1285,7 @@ Investigative Direction: Seek confirmation from the New York Post of any 2024 pi
 
 ---
 
-**C-3928** The New York Post, and then lower-rung outlets, declined to publish
+**C-8965** The New York Post, and then lower-rung outlets, declined to publish
 
 Claim Timestamp: 00:39:18
 
@@ -1300,7 +1300,7 @@ Investigative Direction: Obtain statements from the New York Post and Daily Beas
 
 ---
 
-**C-3929** Charlie Kirk was alive and among those the host consulted about the attacks
+**C-8966** Charlie Kirk was alive and among those the host consulted about the attacks
 
 Claim Timestamp: 00:39:18
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Review the host's 2024 text messages with Charlie Kirk 
 
 ---
 
-**C-3930** Loomer named Tracy Robinson and claimed three cover-ups of drunken arrests
+**C-8967** Loomer named Tracy Robinson and claimed three cover-ups of drunken arrests
 
 Claim Timestamp: 00:39:18
 
@@ -1330,7 +1330,7 @@ Investigative Direction: Compare Loomer's posts with the insurance record and an
 
 ---
 
-**C-3931** Host denies she and George lied to DHS about a DUI
+**C-8968** Host denies she and George lied to DHS about a DUI
 
 Claim Timestamp: 00:42:09
 
@@ -1345,7 +1345,7 @@ Investigative Direction: Through lawful channels only, compare George Farmer's n
 
 ---
 
-**C-3932** Loomer is tagging DHS leadership to investigate George Farmer
+**C-8969** Loomer is tagging DHS leadership to investigate George Farmer
 
 Claim Timestamp: 00:42:09
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Archive Laura Loomer's X posts tagging DHS officials ab
 
 ---
 
-**C-3933** Shane Cashman called Boreing "Ted Bundy doing a Mr. Rogers impression"
+**C-8970** Shane Cashman called Boreing "Ted Bundy doing a Mr. Rogers impression"
 
 Claim Timestamp: 00:43:02
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Archive the Shane Cashman X post with its URL and times
 
 ---
 
-**C-3934** Host alleges Boreing sought to punish Brett Cooper for marrying
+**C-8971** Host alleges Boreing sought to punish Brett Cooper for marrying
 
 Claim Timestamp: 00:43:55
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Seek Brett Cooper's account and any Daily Wire legal co
 
 ---
 
-**C-3935** 17 of Boreing's 19 podcast episodes are about the host and Tucker Carlson
+**C-8972** 17 of Boreing's 19 podcast episodes are about the host and Tucker Carlson
 
 Claim Timestamp: 00:44:57
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Catalogue the titles and topics of every episode of Jer
 
 ---
 
-**C-3936** Former Daily Wire camera operator Zachary Lewis faces child sexual abuse material charges
+**C-8973** Former Daily Wire camera operator Zachary Lewis faces child sexual abuse material charges
 
 Claim Timestamp: 00:46:20
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Obtain the arrest record, charging documents and docket
 
 ---
 
-**C-3937** Zachary Lewis worked in the Daily Wire's kids department
+**C-8974** Zachary Lewis worked in the Daily Wire's kids department
 
 Claim Timestamp: 00:46:20
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Check Bentkey production credits and Daily Wire employm
 
 ---
 
-**C-3938** Lewis was reportedly not immediately dismissed after his arrest
+**C-8975** Lewis was reportedly not immediately dismissed after his arrest
 
 Claim Timestamp: 00:47:13
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Establish Lewis's termination date from Daily Wire reco
 
 ---
 
-**C-3939** Six felony counts are pending against Lewis
+**C-8976** Six felony counts are pending against Lewis
 
 Claim Timestamp: 00:47:56
 
@@ -1464,7 +1464,7 @@ Investigative Direction: Confirm the number and nature of the counts on the cour
 
 ---
 
-**C-3940** The Daily Wire did not publicly fire Lewis as it did the host
+**C-8977** The Daily Wire did not publicly fire Lewis as it did the host
 
 Claim Timestamp: 00:47:56
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Seek accounts from Daily Wire employees on how Lewis's 
 
 ---
 
-**C-3941** Brett Cooper declined a Lady Ballers role that involved licking Boreing's face
+**C-8978** Brett Cooper declined a Lady Ballers role that involved licking Boreing's face
 
 Claim Timestamp: 00:50:07
 
@@ -1494,7 +1494,7 @@ Investigative Direction: Review Lady Ballers casting records and the original sc
 
 ---
 
-**C-3942** Boreing declined on X the invitation to appear on the host's show
+**C-8979** Boreing declined on X the invitation to appear on the host's show
 
 Claim Timestamp: 00:51:07
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Archive Boreing's X response with its URL and timestamp
 
 ---
 
-**C-3943** Boreing says he has not spoken privately to Laura Loomer in years
+**C-8980** Boreing says he has not spoken privately to Laura Loomer in years
 
 Claim Timestamp: 00:51:48
 
@@ -1522,7 +1522,7 @@ Investigative Direction: Seek communications between Boreing's associates or cou
 
 ---
 
-**C-3944** Boreing says the Daily Wire employee's arrest has nothing to do with him
+**C-8981** Boreing says the Daily Wire employee's arrest has nothing to do with him
 
 Claim Timestamp: 00:53:28
 
@@ -1537,7 +1537,7 @@ Investigative Direction: Establish what Daily Wire leadership knew about the Lew
 
 ---
 
-**C-3945** Boreing cites safety concerns about going to the host's studio
+**C-8982** Boreing cites safety concerns about going to the host's studio
 
 Claim Timestamp: 00:54:14
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Archive the full X post and any later reply to the host
 
 ---
 
-**C-3946** Blake Neff allegedly wrote Erika Kirk's speeches
+**C-8983** Blake Neff allegedly wrote Erika Kirk's speeches
 
 Claim Timestamp: 00:57:22
 
@@ -1566,7 +1566,7 @@ Investigative Direction: Seek drafts and metadata of Erika Kirk's speeches, and 
 
 ---
 
-**C-3947** Aspen donors in attendance say the CEO-appointment statement did not happen
+**C-8984** Aspen donors in attendance say the CEO-appointment statement did not happen
 
 Claim Timestamp: 00:58:02
 
@@ -1577,12 +1577,12 @@ Transcript Snippet: You got donors who say that the Charlie voice saying that he
 Anchored Artifacts:
 Mentions: N-159, N-1, N-2
 Related Nodes: N-10437
-Supports: C-2694
+Supports: C-8029
 Investigative Direction: Obtain the full Aspen event video and the attendee list, and interview attendees.
 
 ---
 
-**C-3948** Host received a new lead about Blake Bednarz
+**C-8985** Host received a new lead about Blake Bednarz
 
 Claim Timestamp: 01:06:06
 
@@ -1785,11 +1785,11 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.
-- **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-3896, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-3948 without an M-12 occurrence. M-14 does not air.
+- **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-8933, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-8985 without an M-12 occurrence. M-14 does not air.
 - **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-266 from context. "Barron"/"Baron Coleman" is mapped to N-330 Baron Coleman, and "Andrew Kolvet" (comments) to N-14. "Douglas Blake Bednarz" and "Blake Bednarz" are treated as the same new person, N-601 Douglas Blake Bednarz. "Dhillon Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
-- **Uncertain identities**: "Caleb Robinson" (N-604), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-602) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-2850. It is not inscribed.
+- **Uncertain identities**: "Caleb Robinson" (N-604), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-602) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Hamrick node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-8969) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Sarelson, who appears in prior claim C-8776. It is not inscribed.
 - **Internal inconsistency**: Coleman's clip says Bednarz "is not listed in this lawsuit" (00:07:17), but at 00:11:02 the host says "They're listing him in the lawsuit." This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.
-- **Defamation safety**: Bednarz's accusations against Harpole (C-3891, C-3894), the YouTuber's allegations about Mitch Snow's past (C-3901), the George Farmer arrest allegations (C-3920, C-3921, C-3930) and the Zachary Lewis charges (C-3936 to C-3940; not convicted) are all attributed and none is stated as fact.
+- **Defamation safety**: Bednarz's accusations against Harpole (C-8928, C-8931), the YouTuber's allegations about Mitch Snow's past (C-8938), the George Farmer arrest allegations (C-8957, C-8958, C-8967) and the Zachary Lewis charges (C-8973 to C-8977; not convicted) are all attributed and none is stated as fact.
 - **Not inscribed as claims (admission test)**: The following were excluded as characterizations, opinions or rhetoric:
   - "Daily Wire operates like a deranged cult"
   - Boreing is "a deranged psycho" or has an "obsessive personality"
@@ -1801,7 +1801,7 @@ Confidence: high
   - Viewer comments on Blake Lively, Ryan Reynolds and Justin Baldoni
   - Viewer comments on Salem Media and Israel
   - The Fox News / Suzanne Scott comparison
-- **Minor beats not inscribed**: Boreing's statement that he was approached "more than once" to speak out and refused (covered by C-3921); the host's claim that the Daily Wire was locked in a court battle with her at the time of the 2024 pitch; her account of a pre-planned embarrassing question at a Texas event; Steven Crowder being targeted by Boreing's "minions"; the channel approaching 6 million YouTube subscribers; the studio upgrade; and her lawyer Noah.
-- **Cross-episode links left out**: C-3920/C-3930 versus C-2784/C-2785 (ep 94, Loomer's George Farmer allegations and the $6,987 Tracy Robinson record) are related but come from a different speaker and frame, so they are not linked. C-3904 is linked to C-1997 (ep 51), but not to C-2002.
+- **Minor beats not inscribed**: Boreing's statement that he was approached "more than once" to speak out and refused (covered by C-8958); the host's claim that the Daily Wire was locked in a court battle with her at the time of the 2024 pitch; her account of a pre-planned embarrassing question at a Texas event; Steven Crowder being targeted by Boreing's "minions"; the channel approaching 6 million YouTube subscribers; the studio upgrade; and her lawyer Noah.
+- **Cross-episode links left out**: C-8957/C-8967 versus C-8465/C-8467 (ep 94, Loomer's George Farmer allegations and the $6,987 Tracy Robinson record) are related but come from a different speaker and frame, so they are not linked. C-8941 is linked to C-4484 (ep 51), but not to C-4487.
 - **Memes**: M-89 "Grain of Crack Cocaine" first appears in episode 096, so the integrator may want to backfill an occurrence there. M-87 "Military Bros" recurs in episodes 101, 113 and 135. M-88 "Ted Bundy Doing a Mr. Rogers Impression" recurs in episode 151.
 - **Sponsor reads** (Dose, PureTalk, Balance of Nature) and merch and book-club promotion are excluded from claims.

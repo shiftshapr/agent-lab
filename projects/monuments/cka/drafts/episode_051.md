@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep051): N-386, N-10382, N-10477
   - Tip-minted Nodes (reintro-ep051): N-673, N-10962
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6742–C-6800
+  - Claim Range: C-4443–C-4515
   - Tip-minted Nodes (valhalla-split): N-11001
   - New Nodes Introduced: N-371, N-10375, N-10376, N-10378, N-10379, N-10380
   - Reused Nodes Appearing: N-2, N-5, N-15, N-36, N-38, N-49, N-82, N-97, N-190, N-217, N-270, N-363, N-364, N-708, N-10001, N-10026, N-10116, N-10134, N-10282, N-10300, N-10305, N-10326, N-10327, N-10333, N-10340, N-10341, N-10342, N-10349, N-10367, N-10371, N-10372, N-10373, N-10416, N-10447, N-10643, N-10377, N-10900, N-130, N-10446, N-10385
@@ -47,7 +47,7 @@ Video Timestamp: 00:04:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1989, C-1990, N-277, N-2, N-10376*
+*Related: C-4445, C-4446, N-277, N-2, N-10376*
 
 **A-1568.2** Tim Dillon clip – RFK Jr. / "What's going on" segment
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:14:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1992, N-277*
+*Related: C-4451, N-277*
 
 **A-1568.3** Tim Dillon clip – "satanic pedophiles" / apartment monologue segment
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:21:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1993, N-277*
+*Related: C-4457, N-277*
 
 **A-1569** AmFest Reporter Tent Description Clip
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:09:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1991, N-10376*
+*Related: C-4448, N-10376*
 
 **A-1570** Bari Weiss CBS Hunter Kozak Clip
 
@@ -91,7 +91,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1994, N-278, N-326, N-2, N-10377*
+*Related: C-4454, N-278, N-326, N-2, N-10377*
 
 **A-1571** Charlie Kirk / Justice Smith MK Ultra Interview Clip
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:35:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1995, N-1, N-371*
+*Related: C-4462, N-1, N-371*
 
 **A-1572** Alex Jones InfoWars Declaration Clip
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:40:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1996, N-93*
+*Related: C-4472, N-93*
 
 **A-1573** Paramount Tactical Valhalla Stream Clip
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:48:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1997, N-10899, N-14, N-2, N-10380*
+*Related: C-4484, N-10899, N-14, N-2, N-10380*
 
 **A-1574** Mitch Snow's Son Interview Clip
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:45:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1998, N-361, N-266, N-10375*
+*Related: C-4480, N-361, N-266, N-10375*
 
 **A-1575** Daily Wire Re-released Trailer (2021)
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:30:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1999, N-10900, N-10379*
+*Related: C-4458, N-10900, N-10379*
 
 **A-1576** Top Comments Bundle (from prior episode, read aloud)
 
@@ -163,7 +163,7 @@ Video Timestamp: 01:07:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2000, N-10376, N-1*
+*Related: C-4511, N-10376, N-1*
 
 **A-1576.2** Army sniper comment read aloud: "Retired army law enforcement here. Paramount Tactical Valhalla. They are an embarrassment to me as a vet."
 
@@ -173,7 +173,7 @@ Video Timestamp: 01:08:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2001, N-10899, N-10375, N-11001*
+*Related: C-4513, N-10899, N-10375, N-11001*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:10:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6745, C-6746, N-3, N-217, N-10376*
+*Related: C-4449, C-4450, N-3, N-217, N-10376*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:38:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6760, N-3, N-361*
+*Related: C-4469, N-3, N-361*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:44:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6767, C-6768, N-3, N-361, N-10327*
+*Related: C-4477, C-4478, N-3, N-361, N-10327*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:57:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6790, C-6791, C-6792, N-3, N-15, N-2, N-1*
+*Related: C-4503, C-4504, C-4505, N-3, N-15, N-2, N-1*
 
 ---
 
@@ -246,7 +246,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1991, C-1994, C-1995, C-2000, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-10376*
+*Related: C-4448, C-4454, C-4462, C-4511, A-1568.1, A-1569.1, A-1570.1, A-1571.1, A-1576.1, N-10376*
 
 **N-14** Andrew Kolvet
 
@@ -257,7 +257,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-10378*
+*Related: C-4484, A-1573.1, N-10378*
 
 **N-277** Tim Dillon
 
@@ -268,7 +268,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1989, C-1990, C-1992, C-1993, A-1568.1, A-1568.2, A-1568.3*
+*Related: C-4445, C-4446, C-4451, C-4457, A-1568.1, A-1568.2, A-1568.3*
 
 **N-278** Bari Weiss
 
@@ -279,7 +279,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1994, A-1570.1*
+*Related: C-4454, A-1570.1*
 
 **N-326** Hunter Kozak
 
@@ -290,7 +290,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1994, A-1570.1, N-10377*
+*Related: C-4454, A-1570.1, N-10377*
 
 **N-93** Alex Jones
 
@@ -301,7 +301,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1996, A-1572.1*
+*Related: C-4472, A-1572.1*
 
 **N-361** Mitch Snow
 
@@ -312,14 +312,14 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1998, A-1574.1, N-10375*
+*Related: C-4480, A-1574.1, N-10375*
 
 **N-11001** Valhalla VFT
 
 Node Type: Organization
 Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Melton's Paramount Tactical; the host groups the two among the military YouTubers who warned her off Mitch Snow (ep51).
 
-*Related: C-2001, A-1576.2*
+*Related: C-4513, A-1576.2*
 
 ---
 
@@ -335,7 +335,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1997, C-2001, A-1573.1, A-1576.2*
+*Related: C-4484, C-4513, A-1573.1, A-1576.2*
 
 **N-266** Brian Harpole
 
@@ -357,7 +357,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1995, A-1571.1*
+*Related: C-4462, A-1571.1*
 
 **N-10900** Daily Wire
 
@@ -371,7 +371,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1999, A-1575.1, N-10379*
+*Related: C-4458, A-1575.1, N-10379*
 
 **N-10375** Fort Huachuca Sighting Verification
 
@@ -382,7 +382,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1998, C-2001, A-1574.1, A-1576.2, N-361, N-266*
+*Related: C-4480, C-4513, A-1574.1, A-1576.2, N-361, N-266*
 
 **N-10376** AmFest Tent Recreation Approval Chain
 
@@ -393,7 +393,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1989, C-1991, C-2000, A-1568.1, A-1569.1, A-1576.1, N-1*
+*Related: C-4445, C-4448, C-4511, A-1568.1, A-1569.1, A-1576.1, N-1*
 
 **N-10377** Hunter Kozak / Kozak Identity Discrepancy
 
@@ -404,7 +404,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1994, A-1570.1, N-326*
+*Related: C-4454, A-1570.1, N-326*
 
 **N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
@@ -415,7 +415,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-14*
+*Related: C-4484, A-1573.1, N-14*
 
 **N-10379** Daily Wire Social Media Reactivation
 
@@ -426,7 +426,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1999, A-1575.1, N-10900*
+*Related: C-4458, A-1575.1, N-10900*
 
 **N-10380** Erika Kirk September 8 Alibi
 
@@ -437,7 +437,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-1997, A-1573.1, N-2*
+*Related: C-4484, A-1573.1, N-2*
 
 ---
 
@@ -445,7 +445,7 @@ Investigative Pressure: High
 
 Widow and TPUSA CEO; the host reports her statements on the tent, the Hamptons retreat, Netanyahu's call, the alibi and the Superman quote.
 
-*Related: C-6744, C-6746, C-6747, C-6756, C-6757, C-6761, C-6772, C-6773, C-6774, C-6776, C-6777, C-6778, C-6779, C-6780, C-6781, C-6782, C-6783, C-6784, C-6790, C-6791, C-6792*
+*Related: C-4447, C-4450, C-4452, C-4465, C-4466, C-4470, C-4483, C-4485, C-4486, C-4489, C-4490, C-4491, C-4492, C-4493, C-4494, C-4495, C-4496, C-4497, C-4503, C-4504, C-4505*
 
 ---
 
@@ -453,7 +453,7 @@ Widow and TPUSA CEO; the host reports her statements on the tent, the Hamptons r
 
 Host; speaks for herself throughout.
 
-*Related: C-6742, C-6743, C-6745, C-6747, C-6748, C-6749, C-6750, C-6751, C-6752, C-6753, C-6756, C-6760, C-6762, C-6764, C-6765, C-6767, C-6775, C-6776, C-6777, C-6781, C-6782, C-6783, C-6784, C-6785, C-6786, C-6788, C-6789, C-6791, C-6792, C-6793, C-6794, C-6795, C-6796, C-6797, C-6798, C-6799, C-6800*
+*Related: C-4443, C-4444, C-4449, C-4452, C-4453, C-4455, C-4456, C-4459, C-4460, C-4461, C-4465, C-4469, C-4471, C-4474, C-4475, C-4477, C-4488, C-4489, C-4490, C-4494, C-4495, C-4496, C-4497, C-4498, C-4499, C-4501, C-4502, C-4504, C-4505, C-4506, C-4507, C-4508, C-4509, C-4510, C-4512, C-4514, C-4515*
 
 ---
 
@@ -461,14 +461,14 @@ Host; speaks for herself throughout.
 
 Donald Trump; named in the Charlie Kirk clip about intel agencies.
 
-*Related: C-6755*
+*Related: C-4464*
 
 ---
 
 **N-15** Justin Streiff
 Justin Streiff; the host says he spoke with her and offered a message as Erika's alibi.
 
-*Related: C-6789, C-6790, C-6791*
+*Related: C-4502, C-4503, C-4504*
 
 ---
 
@@ -476,7 +476,7 @@ Justin Streiff; the host says he spoke with her and offered a message as Erika's
 
 Benjamin Netanyahu; subject of the call and funding-offer claims and of the host's Maduro remark.
 
-*Related: C-6783, C-6784, C-6785, C-6787, C-6795*
+*Related: C-4496, C-4497, C-4498, C-4500, C-4508*
 
 ---
 
@@ -484,7 +484,7 @@ Benjamin Netanyahu; subject of the call and funding-offer claims and of the host
 
 Seth Dillon; named by the host in the Hamptons recap.
 
-*Related: C-6782*
+*Related: C-4495*
 
 ---
 
@@ -492,7 +492,7 @@ Seth Dillon; named by the host in the Hamptons recap.
 
 Max Blumenthal; named by the host as having reported on the Hamptons retreat.
 
-*Related: C-6782*
+*Related: C-4495*
 
 ---
 
@@ -500,7 +500,7 @@ Max Blumenthal; named by the host as having reported on the Hamptons retreat.
 
 Brigitte Macron; the host reports her cyberbullying conviction and alleges she was born male.
 
-*Related: C-6749, C-6750*
+*Related: C-4455, C-4456*
 
 ---
 
@@ -508,7 +508,7 @@ Brigitte Macron; the host reports her cyberbullying conviction and alleges she w
 
 Ben Shapiro; named in the host's account of his AmFest slot.
 
-*Related: C-6744*
+*Related: C-4447*
 
 ---
 
@@ -516,7 +516,7 @@ Ben Shapiro; named in the host's account of his AmFest slot.
 
 Mikey (Michael) McCoy; named as the husband of Elizabeth McCoy.
 
-*Related: C-6746*
+*Related: C-4450*
 
 ---
 
@@ -524,7 +524,7 @@ Mikey (Michael) McCoy; named as the husband of Elizabeth McCoy.
 
 Elizabeth McCoy; the host says TPUSA contacts named her as the person who approved the tent.
 
-*Related: C-6745, C-6746*
+*Related: C-4449, C-4450*
 
 ---
 
@@ -532,7 +532,7 @@ Elizabeth McCoy; the host says TPUSA contacts named her as the person who approv
 
 Dan Flood; the host says she has also reached out to him.
 
-*Related: C-6799*
+*Related: C-4514*
 
 ---
 
@@ -540,7 +540,7 @@ Dan Flood; the host says she has also reached out to him.
 
 Mark Amodei (spelled Mark Amodei in the transcript); congressman the host now says Mitch did not see.
 
-*Related: C-6793, C-6794*
+*Related: C-4506, C-4507*
 
 ---
 
@@ -548,7 +548,7 @@ Mark Amodei (spelled Mark Amodei in the transcript); congressman the host now sa
 
 Cabot Phillips; person Mitch's descriptions were matched to.
 
-*Related: C-6757, C-6759, C-6793*
+*Related: C-4466, C-4468, C-4506*
 
 ---
 
@@ -556,7 +556,7 @@ Cabot Phillips; person Mitch's descriptions were matched to.
 
 Ian Carroll; the host says he called her to urge a statement against Mitch.
 
-*Related: C-6764, C-6765*
+*Related: C-4474, C-4475*
 
 ---
 
@@ -564,7 +564,7 @@ Ian Carroll; the host says he called her to urge a statement against Mitch.
 
 Maddie (Daily Wire host); the host calls her Madison Brandford and says the Daily Wire is launching a show with her.
 
-*Related: C-6752, C-6753*
+*Related: C-4460, C-4461*
 
 ---
 
@@ -572,7 +572,7 @@ Maddie (Daily Wire host); the host calls her Madison Brandford and says the Dail
 
 Nicolas Maduro; subject of a viewer comment and the host's remarks on the operation.
 
-*Related: C-6795*
+*Related: C-4508*
 
 ---
 
@@ -580,7 +580,7 @@ Nicolas Maduro; subject of a viewer comment and the host's remarks on the operat
 
 John F. Kennedy; named in the Charlie Kirk clip.
 
-*Related: C-6755*
+*Related: C-4464*
 
 ---
 
@@ -588,7 +588,7 @@ John F. Kennedy; named in the Charlie Kirk clip.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6754*
+*Related: C-4463*
 
 ---
 
@@ -596,7 +596,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6795, C-6796, C-6797*
+*Related: C-4508, C-4509, C-4510*
 
 ---
 
@@ -604,7 +604,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6754*
+*Related: C-4463*
 
 ---
 
@@ -612,7 +612,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6782*
+*Related: C-4495*
 
 ---
 
@@ -620,7 +620,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6747*
+*Related: C-4452*
 
 ---
 
@@ -628,7 +628,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6789*
+*Related: C-4502*
 
 ---
 
@@ -636,7 +636,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6787*
+*Related: C-4500*
 
 ---
 
@@ -644,7 +644,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6758*
+*Related: C-4467*
 
 ---
 
@@ -652,7 +652,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6767, C-6768, C-6770*
+*Related: C-4477, C-4478, C-4481*
 
 ---
 
@@ -660,7 +660,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6757*
+*Related: C-4466*
 
 ---
 
@@ -668,7 +668,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6778*
+*Related: C-4491*
 
 ---
 
@@ -676,7 +676,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6779, C-6780*
+*Related: C-4492, C-4493*
 
 ---
 
@@ -684,7 +684,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6783, C-6784, C-6785, C-6786, C-6787*
+*Related: C-4496, C-4497, C-4498, C-4499, C-4500*
 
 ---
 
@@ -692,7 +692,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6747*
+*Related: C-4452*
 
 ---
 
@@ -700,7 +700,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6756*
+*Related: C-4465*
 
 ---
 
@@ -708,7 +708,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6794*
+*Related: C-4507*
 
 ---
 
@@ -716,7 +716,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6759, C-6793*
+*Related: C-4468, C-4506*
 
 ---
 
@@ -724,7 +724,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6758, C-6759, C-6799, C-6800*
+*Related: C-4467, C-4468, C-4514, C-4515*
 
 ---
 
@@ -732,7 +732,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6793, C-6794*
+*Related: C-4506, C-4507*
 
 ---
 
@@ -740,7 +740,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6752, C-6753*
+*Related: C-4460, C-4461*
 
 ---
 
@@ -748,7 +748,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6751*
+*Related: C-4459*
 
 ---
 
@@ -756,7 +756,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6782, C-6783, C-6784*
+*Related: C-4495, C-4496, C-4497*
 
 ---
 
@@ -764,7 +764,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6779, C-6780, C-6781*
+*Related: C-4492, C-4493, C-4494*
 
 ---
 
@@ -772,7 +772,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6757, C-6761, C-6772, C-6776, C-6790, C-6791, C-6792*
+*Related: C-4466, C-4470, C-4483, C-4489, C-4503, C-4504, C-4505*
 
 ---
 
@@ -780,7 +780,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6799, C-6800*
+*Related: C-4514, C-4515*
 
 ---
 
@@ -788,7 +788,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6795*
+*Related: C-4508*
 
 ---
 
@@ -797,13 +797,13 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 TPUSA's explanation, as the host reports Erika Kirk told her, that Andrew Kolvet went rogue on statements such as the Superman quote, and the host's later rejection of that explanation as coordinated.
 
-*Related: C-6777, C-6778, C-6779*
+*Related: C-4490, C-4491, C-4492*
 
 ---
 
 ## 5. Claim Register
 
-**C-1989** Tim Dillon Comedy Clip Calls Turning Point USA's AmFest an "Abomination" and Says the Right Has Become a "Bad Reality Show"
+**C-4445** Tim Dillon Comedy Clip Calls Turning Point USA's AmFest an "Abomination" and Says the Right Has Become a "Bad Reality Show"
 
 Claim Timestamp: 00:04:47
 
@@ -816,7 +816,7 @@ Related Nodes: N-10376
 
 Investigative Direction: Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.
 
-**C-1990** Tim Dillon Clip Notes Erika Kirk Walking to Pyrotechnic Display in Glittering Pantsuit Three Months After Husband's Death
+**C-4446** Tim Dillon Clip Notes Erika Kirk Walking to Pyrotechnic Display in Glittering Pantsuit Three Months After Husband's Death
 
 Claim Timestamp: 00:04:47
 
@@ -828,7 +828,7 @@ Mentions: N-2, N-277, N-1
 
 Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erika Kirk's stage appearance.
 
-**C-1991** Reporter clip from AmFest describes a recreation of the tent where Charlie Kirk was killed with attendees taking selfies
+**C-4448** Reporter clip from AmFest describes a recreation of the tent where Charlie Kirk was killed with attendees taking selfies
 
 Claim Timestamp: 00:09:15
 
@@ -841,7 +841,7 @@ Related Nodes: N-10376
 
 Investigative Direction: Identify the reporter and outlet, obtain the original broadcast segment, and verify the timeline of when the tent replica was displayed.
 
-**C-1992** Tim Dillon clip characterizes RFK Jr. as "least scandal-prone member of the administration" amid ongoing text leaks
+**C-4451** Tim Dillon clip characterizes RFK Jr. as "least scandal-prone member of the administration" amid ongoing text leaks
 
 Claim Timestamp: 00:14:17
 
@@ -853,7 +853,7 @@ Mentions: N-277
 
 Investigative Direction: Verify the segment against the source recording and identify which text leaks are being referenced.
 
-**C-1993** Tim Dillon clip characterizes current culture as denial of elite pedophilia producing "slop" and "nothingness"
+**C-4457** Tim Dillon clip characterizes current culture as denial of elite pedophilia producing "slop" and "nothingness"
 
 Claim Timestamp: 00:21:38
 
@@ -865,7 +865,7 @@ Mentions: N-277
 
 Investigative Direction: Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.
 
-**C-1994** Bari Weiss Clip Introduces Hunter Kozak as the Last Person Charlie Kirk Spoke To
+**C-4454** Bari Weiss Clip Introduces Hunter Kozak as the Last Person Charlie Kirk Spoke To
 
 Claim Timestamp: 00:17:33
 
@@ -878,7 +878,7 @@ Related Nodes: N-10377
 
 Investigative Direction: Verify the spelling "Cosgrove" against the original CBS broadcast and against public identification of the UVU student; confirm the timeline and question content.
 
-**C-1995** Charlie Kirk interview clip states MK Ultra likely never ended and CIA remains involved in domestic mind manipulation
+**C-4462** Charlie Kirk interview clip states MK Ultra likely never ended and CIA remains involved in domestic mind manipulation
 
 Claim Timestamp: 00:35:58
 
@@ -890,7 +890,7 @@ Mentions: N-1, N-371
 
 Investigative Direction: Verify the clip against the original October 2024 interview recording; identify the publication or platform where the original interview was published.
 
-**C-1996** Alex Jones clip declares war on Candace Owens over Mitch Snow coverage
+**C-4472** Alex Jones clip declares war on Candace Owens over Mitch Snow coverage
 
 Claim Timestamp: 00:40:44
 
@@ -902,7 +902,7 @@ Mentions: N-93, N-3, N-361
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
 
-**C-1997** Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi
+**C-4484** Paramount Tactical Valhalla Stream Clip Shows Streamer Reading Message the Host Attributes to Andrew Kolvet on Erika Kirk's September 9 Alibi
 
 Claim Timestamp: 00:48:18
 
@@ -915,7 +915,7 @@ Related Nodes: N-10380, N-10899
 
 Investigative Direction: Obtain the full unedited Paramount Tactical Valhalla stream; verify the original wording of Andrew Kolvet's instructions and the chain of custody.
 
-**C-1998** Mitch Snow's son interview clip references September 9 military police contact and Fort Huachuca access protocols
+**C-4480** Mitch Snow's son interview clip references September 9 military police contact and Fort Huachuca access protocols
 
 Claim Timestamp: 00:45:37
 
@@ -928,7 +928,7 @@ Related Nodes: N-10375
 
 Investigative Direction: Identify the interviewer and platform; obtain the unedited interview recording to assess whether the son's statements corroborate or contradict Mitch Snow's account.
 
-**C-1999** Daily Wire reactivated Candace's old YouTube and Instagram and re-released her 2021 joining trailer
+**C-4458** Daily Wire reactivated Candace's old YouTube and Instagram and re-released her 2021 joining trailer
 
 Claim Timestamp: 00:30:51
 
@@ -941,7 +941,7 @@ Related Nodes: N-10379, N-10900
 
 Investigative Direction: Confirm via YouTube and Instagram audit logs that the reactivation and re-upload occurred; obtain the trailer file metadata to verify the 2021 production date.
 
-**C-2000** Edison comment characterizes AmFest as "fake and gay" celebration of Charlie Kirk's death
+**C-4511** Edison comment characterizes AmFest as "fake and gay" celebration of Charlie Kirk's death
 
 Claim Timestamp: 01:06:25
 
@@ -954,7 +954,7 @@ Related Nodes: N-10376
 
 Investigative Direction: Verify the comment against the original top-comments thread and identify the commenter's account.
 
-**C-2001** Army sniper comment criticizes Paramount Tactical Valhalla as an embarrassment to veterans
+**C-4513** Army sniper comment criticizes Paramount Tactical Valhalla as an embarrassment to veterans
 
 Claim Timestamp: 01:08:04
 
@@ -967,7 +967,7 @@ Related Nodes: N-10375, N-10899, N-11001
 
 Investigative Direction: Verify the comment against the original thread and consider the commenter's stated credentials in assessing the credibility of the criticism.
 
-**C-2002** Host Views Paramount Tactical Valhalla Clip as Exposing Andrew Kolvet's Coordination of Attacks on Mitch Snow
+**C-4487** Host Views Paramount Tactical Valhalla Clip as Exposing Andrew Kolvet's Coordination of Attacks on Mitch Snow
 
 Claim Timestamp: 00:49:10
 
@@ -982,7 +982,7 @@ Investigative Direction: Obtain additional communication between Andrew Kolvet a
 
 ---
 
-**C-6742** Host Says Daily Wire Reactivated Her Old Accounts Without Her Permission
+**C-4443** Host Says Daily Wire Reactivated Her Old Accounts Without Her Permission
 
 Claim Timestamp: 00:00:00
 
@@ -998,7 +998,7 @@ Investigative Direction: Obtain YouTube and Instagram channel ownership and acce
 
 ---
 
-**C-6743** Host Says Kolvet Worked Behind the Scenes to Have Her Smeared via Obscure YouTubers
+**C-4444** Host Says Kolvet Worked Behind the Scenes to Have Her Smeared via Obscure YouTubers
 
 Claim Timestamp: 00:01:23
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Obtain the messages or calls between Kolvet and the You
 
 ---
 
-**C-6744** Host Says Shapiro Disliked Kirk in Life but Bought an AmFest Slot With a Million Dollars
+**C-4447** Host Says Shapiro Disliked Kirk in Life but Bought an AmFest Slot With a Million Dollars
 
 Claim Timestamp: 00:08:28
 
@@ -1030,7 +1030,7 @@ Investigative Direction: Check the AmFest 2025 speaker schedule for Shapiro's sl
 
 ---
 
-**C-6745** Host Says TPUSA Contacts Named Elizabeth McCoy as the Person Who Approved the Tent Recreation
+**C-4449** Host Says TPUSA Contacts Named Elizabeth McCoy as the Person Who Approved the Tent Recreation
 
 Claim Timestamp: 00:11:31
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Identify the TPUSA insiders the host messaged and obtai
 
 ---
 
-**C-6746** Host Says Erika Cannot Claim Ignorance Because She Is Close With Elizabeth McCoy
+**C-4450** Host Says Erika Cannot Claim Ignorance Because She Is Close With Elizabeth McCoy
 
 Claim Timestamp: 00:11:46
 
@@ -1062,7 +1062,7 @@ Investigative Direction: Ask TPUSA what Erika Kirk knew about the tent display a
 
 ---
 
-**C-6747** Host Says CBS Chose to Bring Hunter Kozak On Stage to Question Erika and Asks Who Approved It
+**C-4452** Host Says CBS Chose to Bring Hunter Kozak On Stage to Question Erika and Asks Who Approved It
 
 Claim Timestamp: 00:15:22
 
@@ -1073,13 +1073,13 @@ Transcript Snippet: the most effed up part about that interview was CBS's decisi
 Anchored Artifacts: A-1570.1
 Mentions: N-326, N-278, N-2, N-3
 Related Nodes: N-10349, N-10377, N-10282
-Supports: C-1994
+Supports: C-4454
 Tags: relevance:core
 Investigative Direction: Ask CBS and the event producers who proposed and approved the Hunter Kozak segment and obtain the run-of-show for the interview.
 
 ---
 
-**C-6748** Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died
+**C-4453** Host Says Kozak Asked Kirk a Question About Transgenderism Before Kirk Died
 
 Claim Timestamp: 00:16:32
 
@@ -1095,7 +1095,7 @@ Investigative Direction: Review UVU event video of the question-and-answer excha
 
 ---
 
-**C-6749** Host Says Brigitte Macron Won a Conviction Against 11 People in France for Cyberbullying
+**C-4455** Host Says Brigitte Macron Won a Conviction Against 11 People in France for Cyberbullying
 
 Claim Timestamp: 00:19:44
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Check French court records and news reports for the cas
 
 ---
 
-**C-6750** Host Alleges Brigitte Macron Was Born Male and Committed Statutory Rape of a 14-Year-Old Student
+**C-4456** Host Alleges Brigitte Macron Was Born Male and Committed Statutory Rape of a 14-Year-Old Student
 
 Claim Timestamp: 00:19:44
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Review the French court judgments and public records in
 
 ---
 
-**C-6751** Host Describes Daily Wire Following Her to Events and Pressuring Organizers After Her Firing
+**C-4459** Host Describes Daily Wire Following Her to Events and Pressuring Organizers After Her Firing
 
 Claim Timestamp: 00:31:38
 
@@ -1141,7 +1141,7 @@ Investigative Direction: Identify the events and organizers the host says were c
 
 ---
 
-**C-6752** Host Says Daily Wire Reactivated Her Channel to Hard Launch Madison Brandford
+**C-4460** Host Says Daily Wire Reactivated Her Channel to Hard Launch Madison Brandford
 
 Claim Timestamp: 00:32:47
 
@@ -1152,13 +1152,13 @@ Transcript Snippet: the reason they're doing this and doing it on my channel is 
 Anchored Artifacts: A-1575.1
 Mentions: N-386, N-3
 Related Nodes: N-10379, N-10385, N-10900
-Supports: C-1999
+Supports: C-4458
 Tags: relevance:tangential
 Investigative Direction: Look for a Daily Wire announcement of the Brandford show and check its launch date against the account reactivation.
 
 ---
 
-**C-6753** Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her
+**C-4461** Host Says Daily Wire Is Launching an Intern-Fronted Show Called In the Know Know to Mock Her
 
 Claim Timestamp: 00:33:30
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Confirm Brandford's role and the show's title and forma
 
 ---
 
-**C-6754** Kirk Clip: Intel Agencies Form a Super Government Above Congress
+**C-4463** Kirk Clip: Intel Agencies Form a Super Government Above Congress
 
 Claim Timestamp: 00:35:58
 
@@ -1185,13 +1185,13 @@ Transcript Snippet: we have a super government that exists above Congress of the
 Anchored Artifacts: A-1571.1
 Mentions: N-1, N-371
 Related Nodes: N-10001, N-10116
-Supports: C-1995
+Supports: C-4462
 Tags: relevance:context
 Investigative Direction: Locate the original October 2024 Justice Smith interview and verify the quoted words and context.
 
 ---
 
-**C-6755** Kirk Clip: Trump Wanted War on Intel Agencies and Both He and Kennedy Got Shot
+**C-4464** Kirk Clip: Trump Wanted War on Intel Agencies and Both He and Kennedy Got Shot
 
 Claim Timestamp: 00:36:42
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Verify the passage against the original interview recor
 
 ---
 
-**C-6756** Host Recounts Mitch Snow Said He Saw Two People at Fort Huachuca Before the Assassination
+**C-4465** Host Recounts Mitch Snow Said He Saw Two People at Fort Huachuca Before the Assassination
 
 Claim Timestamp: 00:37:32
 
@@ -1217,13 +1217,13 @@ Transcript Snippet: I was contacted by someone claiming that he was very certain
 Anchored Artifacts: 
 Mentions: N-361, N-266, N-2, N-1, N-3
 Related Nodes: N-10375, N-10367
-Supports: C-1971
+Supports: C-4316
 Tags: relevance:core
 Investigative Direction: Verify Mitch Snow's base access and the dates through gate, hotel and incident records; test each identification independently.
 
 ---
 
-**C-6757** Host Says Mitch Saw Erika Leaving the Candlewood Inn on the 8th With a Cabot-Like Man
+**C-4466** Host Says Mitch Saw Erika Leaving the Candlewood Inn on the 8th With a Cabot-Like Man
 
 Claim Timestamp: 00:37:32
 
@@ -1234,13 +1234,13 @@ Transcript Snippet: he saw, to be clear, Erika Kirk on the 8th leaving the Candl
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-364
 Related Nodes: N-10375, N-10333, N-10477
-Supports: C-1973
+Supports: C-4347
 Tags: relevance:core
 Investigative Direction: Obtain Candlewood Suites registration and security footage for September 8 and Erika Kirk's own whereabouts records for that date.
 
 ---
 
-**C-6758** Host Says Mitch Is 100 Percent Certain He Saw Harpole at a Top-Brass Meeting on the Morning of the 9th
+**C-4467** Host Says Mitch Is 100 Percent Certain He Saw Harpole at a Top-Brass Meeting on the Morning of the 9th
 
 Claim Timestamp: 00:38:28
 
@@ -1251,13 +1251,13 @@ Transcript Snippet: basically 100% certain he saw Brian Harpool at this top bras
 Anchored Artifacts: 
 Mentions: N-361, N-266
 Related Nodes: N-10375, N-10373, N-10326
-Supports: C-1974, C-5395
+Supports: C-4348, C-4413
 Tags: relevance:core
 Investigative Direction: Compare Harpole's travel records and phone location data for the morning of September 9 with the JTF building meeting window.
 
 ---
 
-**C-6759** Host Says Mitch Saw a Cabot Phillips-Like Special-Force Type With Harpole the Next Day
+**C-4468** Host Says Mitch Saw a Cabot Phillips-Like Special-Force Type With Harpole the Next Day
 
 Claim Timestamp: 00:38:28
 
@@ -1268,13 +1268,13 @@ Transcript Snippet: he sees that Cab Phillips looking special force type person 
 Anchored Artifacts: 
 Mentions: N-361, N-364, N-266
 Related Nodes: N-10372, N-10373
-Supports: C-1985
+Supports: C-4426
 Tags: relevance:core
 Investigative Direction: Check Cabot Phillips's whereabouts, work schedule and travel on September 8 and 9 against Mitch's description.
 
 ---
 
-**C-6760** Host Says Mitch Sent Her Receipts to Back Up His Account
+**C-4469** Host Says Mitch Sent Her Receipts to Back Up His Account
 
 Claim Timestamp: 00:38:28
 
@@ -1285,13 +1285,13 @@ Transcript Snippet: He sent me all of the receipts to back this up.
 Anchored Artifacts: A-2836.1
 Mentions: N-361, N-3
 Related Nodes: N-10375
-Supports: C-1987
+Supports: C-4409
 Tags: relevance:core
 Investigative Direction: Ask the host to publish or independently authenticate the receipts, hotel booking and base-access records.
 
 ---
 
-**C-6761** Host Says Mitch Did Not See Erika at the Meeting, Only the Night Before
+**C-4470** Host Says Mitch Did Not See Erika at the Meeting, Only the Night Before
 
 Claim Timestamp: 00:38:28
 
@@ -1302,13 +1302,13 @@ Transcript Snippet: he did not see Erika at the meeting on the morning of the 9t
 Anchored Artifacts: 
 Mentions: N-361, N-2
 Related Nodes: N-10375, N-10477
-Qualifies: C-6757
+Qualifies: C-4466
 Tags: relevance:core
 Investigative Direction: Test the Erika identification separately from the Harpole identification, using hotel and security records.
 
 ---
 
-**C-6762** Host Says Alex Jones Declared War on Her Though She Never Attacked Him or Spoke to Him About Mitch
+**C-4471** Host Says Alex Jones Declared War on Her Though She Never Attacked Him or Spoke to Him About Mitch
 
 Claim Timestamp: 00:39:50
 
@@ -1319,13 +1319,13 @@ Transcript Snippet: Quite literally, Alex Jones went on to his show and declared
 Anchored Artifacts: A-1572.1
 Mentions: N-93, N-3, N-361
 Related Nodes: N-10378
-Supports: C-1996
+Supports: C-4472
 Tags: relevance:context
 Investigative Direction: Review the host's past coverage of Alex Jones and the date of the InfoWars segment; ask Jones's team what prompted it.
 
 ---
 
-**C-6763** Host Says the Paramount Tactical Valhalla Account Called Mitch Posing as a Brother in Arms
+**C-4473** Host Says the Paramount Tactical Valhalla Account Called Mitch Posing as a Brother in Arms
 
 Claim Timestamp: 00:41:37
 
@@ -1341,7 +1341,7 @@ Investigative Direction: Obtain Mitch's account and any recording of the call; a
 
 ---
 
-**C-6764** Host Says Ian Carroll Urged Her to Denounce Mitch as a Fraud Who Was Never in the Military
+**C-4474** Host Says Ian Carroll Urged Her to Denounce Mitch as a Fraud Who Was Never in the Military
 
 Claim Timestamp: 00:41:37
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Ask Ian Carroll to confirm or deny the call and its con
 
 ---
 
-**C-6765** Host Says Lawsuits Were Threatened Through a Third Party but No Cease and Desist Was Sent
+**C-4475** Host Says Lawsuits Were Threatened Through a Third Party but No Cease and Desist Was Sent
 
 Claim Timestamp: 00:43:06
 
@@ -1373,7 +1373,7 @@ Investigative Direction: Identify the third party and any legal correspondence; 
 
 ---
 
-**C-6766** Host Says Critics Dropped Stolen Valor Claim, Admitted Mitch Served, and Pivoted to His Past With Women
+**C-4476** Host Says Critics Dropped Stolen Valor Claim, Admitted Mitch Served, and Pivoted to His Past With Women
 
 Claim Timestamp: 00:43:06
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Obtain Mitch Snow's military service record and the str
 
 ---
 
-**C-6767** Host Says She Released Military Police Incident Reports Showing Mitch Was on the Base
+**C-4477** Host Says She Released Military Police Incident Reports Showing Mitch Was on the Base
 
 Claim Timestamp: 00:44:03
 
@@ -1400,13 +1400,13 @@ Transcript Snippet: So, I then dropped the military police reports, the actual i
 Anchored Artifacts: A-2837.1
 Mentions: N-361, N-3
 Related Nodes: N-10327, N-10375
-Supports: C-1889
+Supports: C-3852
 Tags: relevance:core
 Investigative Direction: Obtain incident report 861-1-2025-MPC446 through FOIA and authenticate it with the Fort Huachuca provost office.
 
 ---
 
-**C-6768** Host Says Critics Called the Police Report Fake Over Typos and a License Number Format
+**C-4478** Host Says Critics Called the Police Report Fake Over Typos and a License Number Format
 
 Claim Timestamp: 00:44:03
 
@@ -1422,7 +1422,7 @@ Investigative Direction: Compare the report's license number format with Washing
 
 ---
 
-**C-6769** Host Says Mitch's Estranged Son Was Brought on a Stream and Accidentally Confirmed the Incident
+**C-4479** Host Says Mitch's Estranged Son Was Brought on a Stream and Accidentally Confirmed the Incident
 
 Claim Timestamp: 00:44:47
 
@@ -1433,13 +1433,13 @@ Transcript Snippet: His son, who he has not spoken to since his son was 2 years 
 Anchored Artifacts: A-1574.1
 Mentions: N-361
 Related Nodes: N-10375
-Supports: C-1998
+Supports: C-4480
 Tags: relevance:core
 Investigative Direction: Identify the stream and the son and obtain the unedited interview to check what he said about the September 9 call.
 
 ---
 
-**C-6770** Speaker in Son Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report
+**C-4481** Speaker in Son Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report
 
 Claim Timestamp: 00:46:25
 
@@ -1455,7 +1455,7 @@ Investigative Direction: Compare this description with the incident report and M
 
 ---
 
-**C-6771** Host Says Everything Mitch Reported About the Morning of the 9th Happened
+**C-4482** Host Says Everything Mitch Reported About the Morning of the 9th Happened
 
 Claim Timestamp: 00:47:20
 
@@ -1466,13 +1466,13 @@ Transcript Snippet: everything he told us happened that morning on the 9th happe
 Anchored Artifacts: A-1574.1
 Mentions: N-361
 Related Nodes: N-10375
-Supports: C-1971
+Supports: C-4316
 Tags: relevance:core
 Investigative Direction: Corroborate the son's September 9 call with military police records and phone logs.
 
 ---
 
-**C-6772** Host Says the Paramount Tactical Stream Aimed at Erika's 8th Alibi but Confused the Days
+**C-4483** Host Says the Paramount Tactical Stream Aimed at Erika's 8th Alibi but Confused the Days
 
 Claim Timestamp: 00:47:20
 
@@ -1488,7 +1488,7 @@ Investigative Direction: Watch the full stream and compare the dates in the alib
 
 ---
 
-**C-6773** Stream Notes Read Aloud: Erika Woke Next to Charlie, Worked All Day, Went to Dinner on the 9th
+**C-4485** Stream Notes Read Aloud: Erika Woke Next to Charlie, Worked All Day, Went to Dinner on the 9th
 
 Claim Timestamp: 00:48:18
 
@@ -1499,13 +1499,13 @@ Transcript Snippet: The internet's gone saying she woke up next to Charlie on th
 Anchored Artifacts: A-1573.1
 Mentions: N-2, N-1
 Related Nodes: N-10380
-Supports: C-1997
+Supports: C-4484
 Tags: relevance:core
 Investigative Direction: Obtain the unedited stream and the original notes; cross-check the day's schedule with TPUSA and Fox records.
 
 ---
 
-**C-6774** Stream Notes Read Aloud: Photo Proves Erika Was With Her Kids at 8:33 a.m. Pacific
+**C-4486** Stream Notes Read Aloud: Photo Proves Erika Was With Her Kids at 8:33 a.m. Pacific
 
 Claim Timestamp: 00:48:18
 
@@ -1516,13 +1516,13 @@ Transcript Snippet: the next one, proof she was with her kids at 8:33 a. m. Paci
 Anchored Artifacts: A-1573.1
 Mentions: N-2
 Related Nodes: N-10380
-Supports: C-1997
+Supports: C-4484
 Tags: relevance:core
 Investigative Direction: Obtain the image and its metadata and test the timestamp, time zone and date.
 
 ---
 
-**C-6775** Host Says She Confirmed Kolvet Had Been Communicating Directly With Alex Jones
+**C-4488** Host Says She Confirmed Kolvet Had Been Communicating Directly With Alex Jones
 
 Claim Timestamp: 00:49:10
 
@@ -1533,13 +1533,13 @@ Transcript Snippet: also Alex said that he was in communication with Turning Poi
 Anchored Artifacts: A-1572.1
 Mentions: N-14, N-93, N-3
 Related Nodes: N-10378
-Supports: C-2002
+Supports: C-4487
 Tags: relevance:core
 Investigative Direction: Obtain Jones's statement and any messages between Jones and Kolvet; ask both to confirm contact.
 
 ---
 
-**C-6776** Host Says Nobody Accused Erika of Being Anywhere on the 9th Yet the Alibi Concerns That Morning
+**C-4489** Host Says Nobody Accused Erika of Being Anywhere on the 9th Yet the Alibi Concerns That Morning
 
 Claim Timestamp: 00:50:03
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Compare Mitch's allegation (the 8th, evening) with the 
 
 ---
 
-**C-6777** Host Says After Her Erika Meeting She Believed Kolvet Had Gone Rogue Because TPUSA Said So
+**C-4490** Host Says After Her Erika Meeting She Believed Kolvet Had Gone Rogue Because TPUSA Said So
 
 Claim Timestamp: 00:50:03
 
@@ -1571,7 +1571,7 @@ Investigative Direction: Compare TPUSA's statement with Kolvet's public posts; a
 
 ---
 
-**C-6778** Host Says TPUSA Conceded Kolvet Received Kirk's Night-Before Text and Erika Did Not Know
+**C-4491** Host Says TPUSA Conceded Kolvet Received Kirk's Night-Before Text and Erika Did Not Know
 
 Claim Timestamp: 00:50:58
 
@@ -1582,13 +1582,13 @@ Transcript Snippet: Andrew Kolvet had did receive that text from Charlie the nig
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-2
 Related Nodes: N-10340, N-11109
-Supports: C-1926
+Supports: C-4063
 Tags: relevance:core
 Investigative Direction: Obtain the text and Erika's account of when she saw Kirk's phone; compare with TPUSA's public statement.
 
 ---
 
-**C-6779** Host Says Erika Claims Kolvet and the Surgeon Both Went Rogue, the Surgeon Violating HIPAA
+**C-4492** Host Says Erika Claims Kolvet and the Surgeon Both Went Rogue, the Surgeon Violating HIPAA
 
 Claim Timestamp: 00:51:52
 
@@ -1604,7 +1604,7 @@ Investigative Direction: Obtain Erika's statements on the surgeon call and any h
 
 ---
 
-**C-6780** Host Says Her Source Reports a Three-Way Call With Erika on the Line and the Superman Quote Came From Her
+**C-4493** Host Says Her Source Reports a Three-Way Call With Erika on the Line and the Superman Quote Came From Her
 
 Claim Timestamp: 00:51:52
 
@@ -1615,13 +1615,13 @@ Transcript Snippet: But he answered Andrew Kolvet's questions because Erika was 
 Anchored Artifacts: 
 Mentions: N-2, N-14
 Related Nodes: N-10447, N-10341
-Supports: C-5403
+Supports: C-4425
 Tags: relevance:core
 Investigative Direction: Obtain call records for the three-way call and the surgeon's account via a representative.
 
 ---
 
-**C-6781** Host Says She Withheld Erika's Role in the Quote to Be Gracious
+**C-4494** Host Says She Withheld Erika's Role in the Quote to Be Gracious
 
 Claim Timestamp: 00:51:52
 
@@ -1637,7 +1637,7 @@ Investigative Direction: Nothing to verify beyond the host's statement; compare 
 
 ---
 
-**C-6782** Host Says Erika Conceded to Her She Was at the Hamptons Retreat
+**C-4495** Host Says Erika Conceded to Her She Was at the Hamptons Retreat
 
 Claim Timestamp: 00:53:00
 
@@ -1648,13 +1648,13 @@ Transcript Snippet: Well, the Hampton's debacle came up when I sat down with Eri
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10134, N-10446
-Supports: C-5011
+Supports: C-3192
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list and any photos from the August 2025 Hamptons retreat.
 
 ---
 
-**C-6783** Host Says Erika Told Her She Was Present When Netanyahu Called
+**C-4496** Host Says Erika Told Her She Was Present When Netanyahu Called
 
 Claim Timestamp: 00:53:54
 
@@ -1665,13 +1665,13 @@ Transcript Snippet: and then she said, "Yeah, I was there when Bibi Netanyahu ca
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-3
 Related Nodes: N-10342, N-10446
-Supports: C-1129
+Supports: C-82
 Tags: relevance:core
 Investigative Direction: Seek independent confirmation of the call from Netanyahu's office or other attendees.
 
 ---
 
-**C-6784** Host Says Erika Denied That Netanyahu Offered to Take TPUSA to the Next Level
+**C-4497** Host Says Erika Denied That Netanyahu Offered to Take TPUSA to the Next Level
 
 Claim Timestamp: 00:53:54
 
@@ -1682,13 +1682,13 @@ Transcript Snippet: She said, "Yeah, I don't know who your source is on that, bu
 Anchored Artifacts: 
 Mentions: N-2, N-36, N-3
 Related Nodes: N-10342, N-10446
-Contradicts: C-5012
+Contradicts: C-3193
 Tags: relevance:core
 Investigative Direction: Compare Erika's denial with the host's three sources and any donor accounts.
 
 ---
 
-**C-6785** Host Reveals Her Source for the Netanyahu Offer Was Andrew Kolvet
+**C-4498** Host Reveals Her Source for the Netanyahu Offer Was Andrew Kolvet
 
 Claim Timestamp: 00:54:59
 
@@ -1699,13 +1699,13 @@ Transcript Snippet: It was Andrew Kolvet it who told me that Bibi Netanyahu offe
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-1, N-3
 Related Nodes: N-10342
-Supports: C-1938
+Supports: C-4114
 Tags: relevance:core
 Investigative Direction: Ask Kolvet whether he told the host this; look for contemporaneous messages.
 
 ---
 
-**C-6786** Host Says a Second Source Unrelated to Kolvet Confirmed the Netanyahu Offer
+**C-4499** Host Says a Second Source Unrelated to Kolvet Confirmed the Netanyahu Offer
 
 Claim Timestamp: 00:54:59
 
@@ -1716,13 +1716,13 @@ Transcript Snippet: a source that was not related to Andrew Kolvet it who confir
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes: N-10342
-Supports: C-1937
+Supports: C-4118
 Tags: relevance:core
 Investigative Direction: Only the host can test this source; seek other attendees of the dinner.
 
 ---
 
-**C-6787** Host Says a Third Person Close to Kolvet Said Kolvet Lost Money When Kirk Refused Netanyahu
+**C-4500** Host Says a Third Person Close to Kolvet Said Kolvet Lost Money When Kirk Refused Netanyahu
 
 Claim Timestamp: 00:55:42
 
@@ -1733,13 +1733,13 @@ Transcript Snippet: And then I confirmed it for a third time with somebody that 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-36
 Related Nodes: N-10342, N-10305
-Supports: C-1819
+Supports: C-3477
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and those close to him about any financial interest tied to the offer.
 
 ---
 
-**C-6788** Host Says She Reached Out to Kolvet and the COO After the Stream Reveal
+**C-4501** Host Says She Reached Out to Kolvet and the COO After the Stream Reveal
 
 Claim Timestamp: 00:55:42
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Ask TPUSA to confirm the outreach and obtain the messag
 
 ---
 
-**C-6789** Host Says She Told Justin Streiff the Alibi Stream Violated Their Ceasefire
+**C-4502** Host Says She Told Justin Streiff the Alibi Stream Violated Their Ceasefire
 
 Claim Timestamp: 00:56:35
 
@@ -1771,7 +1771,7 @@ Investigative Direction: Ask Streiff and TPUSA to confirm the call and the exist
 
 ---
 
-**C-6790** Host Says Streiff Offered Erika's Alibi as a Message About Making Dinner on the 8th
+**C-4503** Host Says Streiff Offered Erika's Alibi as a Message About Making Dinner on the 8th
 
 Claim Timestamp: 00:57:21
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Obtain the message with metadata unredacted and check i
 
 ---
 
-**C-6791** Host Says the Message She Received Had the Contact Name Blacked Out
+**C-4504** Host Says the Message She Received Had the Contact Name Blacked Out
 
 Claim Timestamp: 00:57:21
 
@@ -1803,7 +1803,7 @@ Investigative Direction: Request the unredacted message or screen recording and 
 
 ---
 
-**C-6792** Host Says She Followed Up About Four Times and Cannot Confirm the Conversation Took Place
+**C-4505** Host Says She Followed Up About Four Times and Cannot Confirm the Conversation Took Place
 
 Claim Timestamp: 00:58:23
 
@@ -1819,7 +1819,7 @@ Investigative Direction: Ask TPUSA to supply the unredacted alibi message and it
 
 ---
 
-**C-6793** Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amodei After Descriptions
+**C-4506** Host Says She Gave Mitch Faces to Identify Cabot Phillips and Mark Amodei After Descriptions
 
 Claim Timestamp: 00:58:23
 
@@ -1830,13 +1830,13 @@ Transcript Snippet: I was not contacted about them initially. He gave me descrip
 Anchored Artifacts: 
 Mentions: N-361, N-364, N-363, N-3
 Related Nodes: N-10372, N-10382
-Supports: C-5400
+Supports: C-4421
 Tags: relevance:core
 Investigative Direction: Obtain the photo lineup sets and how many faces were shown to test for suggestion.
 
 ---
 
-**C-6794** Host Says the Congressman Mitch Saw Was Not Mark Amodei
+**C-4507** Host Says the Congressman Mitch Saw Was Not Mark Amodei
 
 Claim Timestamp: 00:59:05
 
@@ -1847,13 +1847,13 @@ Transcript Snippet: I do think that I do know who he saw that was a congressman 
 Anchored Artifacts: 
 Mentions: N-3, N-363, N-361
 Related Nodes: N-10371, N-10382
-Qualifies: C-1975
+Qualifies: C-4351
 Tags: relevance:core
 Investigative Direction: Ask the host to name the congressman she believes it was; test that person's schedule for September 9.
 
 ---
 
-**C-6795** Host Says Netanyahu Called Maduro Anti-Semitic and Israel Publicly Welcomed His Removal
+**C-4508** Host Says Netanyahu Called Maduro Anti-Semitic and Israel Publicly Welcomed His Removal
 
 Claim Timestamp: 01:03:23
 
@@ -1869,7 +1869,7 @@ Investigative Direction: Check Netanyahu's statements about Maduro and Israeli g
 
 ---
 
-**C-6796** Host Says Israel Wanted Assad Gone to Expand Its Borders for the Greater Israel Project
+**C-4509** Host Says Israel Wanted Assad Gone to Expand Its Borders for the Greater Israel Project
 
 Claim Timestamp: 01:03:23
 
@@ -1885,7 +1885,7 @@ Investigative Direction: Assess against Israeli government statements and the re
 
 ---
 
-**C-6797** Host Says Israel Worked With Al-Nusra, Which Is Why Those Groups Never Attack Israel
+**C-4510** Host Says Israel Worked With Al-Nusra, Which Is Why Those Groups Never Attack Israel
 
 Claim Timestamp: 01:04:07
 
@@ -1901,7 +1901,7 @@ Investigative Direction: Review published reporting on Israeli contacts with Syr
 
 ---
 
-**C-6798** Host Says She Believes Charlie Kirk Woke Up at the End and Saw What Was Happening
+**C-4512** Host Says She Believes Charlie Kirk Woke Up at the End and Saw What Was Happening
 
 Claim Timestamp: 01:07:16
 
@@ -1916,7 +1916,7 @@ Investigative Direction: Look for Kirk's final private messages or conversations
 
 ---
 
-**C-6799** Host Says She Has Reached Out to Brian Harpole Four Times and to Dan Flood
+**C-4514** Host Says She Has Reached Out to Brian Harpole Four Times and to Dan Flood
 
 Claim Timestamp: 01:08:44
 
@@ -1927,13 +1927,13 @@ Transcript Snippet: I have reached out to Brian Harpole now four times. I've als
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-270
 Related Nodes: N-10373, N-10643
-Supports: C-5398
+Supports: C-4419
 Tags: relevance:core
 Investigative Direction: Ask Harpole and Flood for proof of their location on the morning of September 9.
 
 ---
 
-**C-6800** Host Says She Believes It Was Harpole and Cannot Otherwise Explain Kolvet's Actions
+**C-4515** Host Says She Believes It Was Harpole and Cannot Otherwise Explain Kolvet's Actions
 
 Claim Timestamp: 01:08:44
 
@@ -1944,7 +1944,7 @@ Transcript Snippet: I feel like it was. I feel at this stage that it was. I othe
 Anchored Artifacts: 
 Mentions: N-3, N-266, N-14
 Related Nodes: N-10373, N-10643
-Supports: C-1974
+Supports: C-4348
 Tags: relevance:core
 Investigative Direction: Obtain Harpole's travel and location records for September 9.
 

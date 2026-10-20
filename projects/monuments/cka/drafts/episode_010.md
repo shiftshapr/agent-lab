@@ -19,9 +19,8 @@
   - Hole-minted Nodes (reintro-ep010): N-170, N-10324, N-10434, N-10537
   - Tip-minted Nodes (reintro-ep010): N-11097
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13731–C-13821
+  - Claim Range: C-836–C-947
   - Artifact Families Introduced: A-1162, A-1163, A-1164, A-1165, A-1166, A-1167, A-1168, A-1169, A-1170, A-2520
-  - Claim Range: C-1286-C-1296, C-3731-C-3734, C-3737-C-3739
   - New Nodes Introduced: N-115, N-116, N-117, N-118, N-119, N-120, N-121, N-122, N-123, N-124, N-10129, N-10130, N-10131, N-10132, N-10133, N-10135, N-10136, N-10137, N-10140
   - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-36, N-37, N-38, N-40, N-44, N-46, N-5, N-41, N-55, N-60, N-10000, N-10027, N-10062, N-10124, N-15, N-10139, N-10134, N-54, N-10018, N-10033, N-10052, N-10078, N-10100, N-10106, N-10117, N-10342, N-10345, N-10138
 
@@ -36,7 +35,7 @@ CKA seq 10 advances three threads: (1) TPUSA financial concerns raised by Charli
 **A-1162.1** Internal memo signed by Charlie Kirk dated September 2, 2025, read aloud in episode, elevating Justin Streiff to COO and announcing an organizational-wide DOGE efficiency effort
 Event Timestamp: 2025-09-02
 Video Timestamp: 00:21:32–00:23:07
-*Related: C-3632, C-1286, N-1, N-15, N-10000*
+*Related: C-896, C-836, N-1, N-15, N-10000*
 Transcript Snippet: In this role, I have empowered Justin, among other priorities, to engage in an organizationalwide Doge effort.
 Confidence: high
 
@@ -47,19 +46,19 @@ Confidence: high
 **A-1163.1** Range Day Bro video segment alleging muzzle flash visible in assassination footage
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:26:56–00:27:21
-*Related: C-1287, N-121, NODE_1005*
+*Related: C-912, N-121, NODE_1005*
 Transcript Snippet: in that video, you can see the same what appears to be the bullet coming down and it does line up with the actual gunshot itself.
 Confidence: high
 
 **A-1163.2** Range Day Bro video segment alleging blood splatter as entry wound on Charlie's neck
 Video Timestamp: 00:27:44–00:28:20
-*Related: C-1288, N-121, N-1*
+*Related: C-909, N-121, N-1*
 Transcript Snippet: you can clearly see that Charlie is shot from his back right and there is blood splatter coming out of the entry wound.
 Confidence: high
 
 **A-1163.3** Range Day Bro video segment alleging a suspicious bush on the rooftop with a rifle-shaped outline
 Video Timestamp: 00:29:43–00:30:31
-*Related: C-1289, N-121, NODE_1006*
+*Related: C-915, N-121, NODE_1006*
 Transcript Snippet: this guy's talking about this bush up here in the top left of this photo… you can clearly make out this is not just a bush.
 Confidence: high
 
@@ -77,13 +76,13 @@ Confidence: high
 **A-1164.2** Testimonial from rooftop-footage filmer obtained by host via Twitter contact, claiming neither feds nor local police reached out to him prior to September 15
 Event Timestamp: 2025-09-15
 Video Timestamp: 00:13:53–00:14:20
-*Related: C-1290, N-10124, N-10129*
+*Related: C-879, N-10124, N-10129*
 Transcript Snippet: He told me that neither the feds nor the local police had ever reached out to him. Never.
 Confidence: high
 
 **A-1164.3** Testimonial from second rooftop witness obtained by host, claiming he delivered footage to Orem Police Department on day one and was not contacted by feds until September 15
 Video Timestamp: 00:15:24–00:16:47
-*Related: C-1291, N-10124, N-10129*
+*Related: C-883, N-10124, N-10129*
 Transcript Snippet: He walked in and gave the footage to the Orem Police Department… the feds never reached out to him until the 15th.
 Confidence: high
 
@@ -93,13 +92,13 @@ Confidence: high
 
 **A-1165.1** Xaviaer DuRousseau video clip played in episode, addressing Hamptons weekend and use of phrase 'moral blackmail' regarding Charlie Kirk
 Video Timestamp: 00:04:45–00:06:00
-*Related: C-1292, C-3737, N-115, N-10130*
+*Related: C-847, C-848, N-115, N-10130*
 Transcript Snippet: He said is it is moral blackmail if you say that somebody saying that a politician is bad that you're then empowering a terrorist organization.
 Confidence: high
 
 **A-1165.2** Xaviaer DuRousseau video clip explaining why photos from Hamptons weekend were not posted in real time (safety claim)
 Video Timestamp: 00:06:34–00:07:06
-*Related: C-1293, C-3738, N-115, N-10130*
+*Related: C-861, C-862, N-115, N-10130*
 Transcript Snippet: The reason we didn't post that in the real time was because of safety.
 Confidence: high
 
@@ -109,7 +108,7 @@ Confidence: high
 
 **A-1166.1** Photo angle of the flag hall / underpass area referenced on screen, used to argue that the windows in question do not open
 Video Timestamp: 00:28:49–00:29:53
-*Related: C-1287, N-121, NODE_1005*
+*Related: C-912, N-121, NODE_1005*
 Transcript Snippet: that window is from that zone which they call like the flag hall… those windows don't open.
 Confidence: medium
 Uncertainty: Photo referenced on screen but full view not described; window claim made by host, not architecturally documented.
@@ -120,7 +119,7 @@ Uncertainty: Photo referenced on screen but full view not described; window clai
 
 **A-1167.1** Tip from young woman via comment section, alleging doorbell footage was only partially released and that additional footage shows alleged Tyler Robinson walking with unidentified woman and changing clothes
 Video Timestamp: 00:31:20–00:32:00
-*Related: C-1294, N-40, N-10131, NODE_1010*
+*Related: C-917, N-40, N-10131, NODE_1010*
 Transcript Snippet: there was more footage which showed the person that they allege is Tyler Robinson walking with a woman who they don't know who that is and that he changes clothes.
 Confidence: low
 Uncertainty: Tip is uncorroborated; host says she has established contact with the source but full footage not shown in episode.
@@ -142,7 +141,7 @@ Confidence: high
 **A-1169.1** Public Instagram post by Emily (Saves America) dated August 6 stating she was in the Hamptons, cited as contradicting Xaviaer DuRousseau's safety-based secrecy claim
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:07:17–00:07:49
-*Related: C-1293, C-3738, N-122, N-115, N-10130*
+*Related: C-861, C-862, N-122, N-115, N-10130*
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons… Sorry, I'm MIA. I'm in the Hamptons.
 Confidence: high
 
@@ -152,7 +151,7 @@ Confidence: high
 
 **A-1170.1** Bill Ackman essay response of 959 words referenced (not shown) in episode as a reply to Candace Owens' prior coverage of the Hamptons weekend and intervention pressure
 Video Timestamp: 00:03:05–00:03:46
-*Related: C-1295, N-37, N-10130*
+*Related: C-842, N-37, N-10130*
 Transcript Snippet: Bill Ackman replies with an essay, college essay. 959 words to be precise was his response to me.
 Confidence: medium
 Uncertainty: Essay referenced verbally with word count but not displayed in episode.
@@ -165,7 +164,7 @@ Uncertainty: Essay referenced verbally with word count but not displayed in epis
 Video Timestamp: 00:45:24
 Transcript Snippet: ...vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported by Laura Loomer. Um, bey...
 Confidence: medium
-*Related: C-3642, N-3*
+*Related: C-947, N-3*
 
 ---
 
@@ -174,25 +173,25 @@ Confidence: medium
 
 **A-2520.1** Host statement naming Natasha Hausdorff, Seth Dillon and Josh Hammer as Hamptons weekend attendees (verbal reference; no displayed artifact)
 Video Timestamp: 00:05:05–00:05:25
-*Related: C-3731, C-3739, N-1, N-38, N-55, N-115, N-116, N-10000*
+*Related: C-853, C-854, N-1, N-38, N-55, N-115, N-116, N-10000*
 Transcript Snippet: Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Confidence: medium
 
 **A-2520.2** Host identification of Marissa Streit in the PragerU video (verbal reference; no displayed artifact)
 Video Timestamp: 00:08:02–00:08:25
-*Related: C-3732, N-117*
+*Related: C-863, N-117*
 Transcript Snippet: I know Marissa Streit. This is I am looking at Marissa Streit right there.
 Confidence: medium
 
 **A-2520.3** Host shout out to Taylor Lorenz (verbal reference; no displayed artifact)
 Video Timestamp: 00:39:29–00:39:42
-*Related: C-3733, N-3, N-120*
+*Related: C-934, N-3, N-120*
 Transcript Snippet: Actually, a shout out to Taylor Lorenz.
 Confidence: medium
 
 **A-2520.4** Host comparison to Nikki Haley signing bombs, in reply to a viewer comment (verbal reference; no displayed artifact)
 Video Timestamp: 00:41:46–00:42:03
-*Related: C-3734, N-124*
+*Related: C-938, N-124*
 Transcript Snippet: Like Nikki Haley signing bombs.
 Confidence: medium
 
@@ -209,7 +208,7 @@ Video Timestamp: 00:40:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13812, C-13813, N-10140, N-1*
+*Related: C-936, C-937, N-10140, N-1*
 
 ---
 
@@ -222,7 +221,7 @@ Video Timestamp: 00:43:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13816, N-10138*
+*Related: C-941, N-10138*
 
 ---
 
@@ -235,7 +234,7 @@ Video Timestamp: 00:40:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13811, N-120, N-3, N-1*
+*Related: C-935, N-120, N-3, N-1*
 
 ---
 
@@ -248,7 +247,7 @@ Video Timestamp: 00:43:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13817, N-2, N-3*
+*Related: C-942, N-2, N-3*
 
 ---
 
@@ -263,7 +262,7 @@ Video Timestamp: 00:42:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13814, N-3*
+*Related: C-939, N-3*
 
 ---
 
@@ -276,7 +275,7 @@ Video Timestamp: 00:42:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13815, N-3*
+*Related: C-940, N-3*
 
 ---
 
@@ -289,7 +288,7 @@ Video Timestamp: 00:45:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13821, N-3*
+*Related: C-946, N-3*
 
 ---
 
@@ -302,7 +301,7 @@ Video Timestamp: 00:18:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13772, N-1, N-3*
+*Related: C-890, N-1, N-3*
 
 ---
 
@@ -313,7 +312,7 @@ Video Timestamp: 00:23:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13781, N-3*
+*Related: C-900, N-3*
 
 ---
 
@@ -326,7 +325,7 @@ Video Timestamp: 00:32:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13797, C-13799, C-13802, N-2, N-3*
+*Related: C-920, C-922, C-925, N-2, N-3*
 
 ---
 
@@ -346,7 +345,7 @@ Host of the Candace Kirk Archive series and primary investigator of claims prese
 Node Type: Person
 Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.
 
-*Related: A-1162.1, A-1163.2, A-1168.1, C-3632, C-1286, C-1288, C-1292*
+*Related: A-1162.1, A-1163.2, A-1168.1, C-896, C-836, C-909, C-847*
 
 ---
 
@@ -355,7 +354,7 @@ Deceased founder of Turning Point USA; subject of financial concerns expressed o
 Node Type: Person
 Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host defends her against public criticism of fundraising emails.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 ---
 
@@ -364,7 +363,7 @@ Widow of Charlie Kirk, discussed in episode as new CEO/chairman of TPUSA. Host d
 Node Type: Person
 Israeli PM; cited for tweeting about Charlie Kirk's death before the US President and misrepresenting contents of a May letter.
 
-*Related: C-1296*
+*Related: C-837*
 
 ---
 
@@ -373,7 +372,7 @@ Israeli PM; cited for tweeting about Charlie Kirk's death before the US Presiden
 Node Type: Person
 Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging companion and clothing change.
 
-*Related: A-1167.1, C-1294*
+*Related: A-1167.1, C-917*
 
 ---
 
@@ -381,7 +380,7 @@ Named alleged shooter of Charlie Kirk; subject of doorbell-footage tip alleging 
 Node Type: Person
 Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tasked with leading DOGE-style efficiency audit.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 ---
 
@@ -390,7 +389,7 @@ Elevated to COO of Turning Point USA on September 2, 2025 per internal memo; tas
 Node Type: Person
 Author of a 959-word essay response defending his role around the Hamptons weekend; criticized in episode for not addressing the actual 'intervention' allegation.
 
-*Related: A-1170.1, C-1295*
+*Related: A-1170.1, C-842*
 
 ---
 
@@ -399,7 +398,7 @@ Author of a 959-word essay response defending his role around the Hamptons weeke
 Node Type: Person
 Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on Israel/Netanyahu positioning.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -410,7 +409,7 @@ Named as participant in Hamptons weekend who allegedly pressured Charlie Kirk on
 Node Type: Person
 Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -421,7 +420,7 @@ Named as applying pressure on Charlie Kirk at the Hamptons weekend retreat.
 Node Type: Person
 Influencer who attended Hamptons weekend, released video addressing the event and using phrase 'moral blackmail' to describe Charlie's framing.
 
-*Related: A-1165.1, A-1165.2, A-1169.1, A-2520.1, C-1292, C-1293, C-3731*
+*Related: A-1165.1, A-1165.2, A-1169.1, A-2520.1, C-847, C-861, C-853*
 
 ---
 
@@ -430,7 +429,7 @@ Influencer who attended Hamptons weekend, released video addressing the event an
 Node Type: Person
 Named as attendee of Hamptons weekend retreat.
 
-*Related: A-2520.1, C-3731*
+*Related: A-2520.1, C-853*
 
 
 
@@ -441,7 +440,7 @@ Named as attendee of Hamptons weekend retreat.
 Node Type: Person
 TPUSA spokesperson who has continued Charlie Kirk's show; host urges against treating him as guilty without evidence.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -452,7 +451,7 @@ TPUSA spokesperson who has continued Charlie Kirk's show; host urges against tre
 Node Type: Person
 PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xaviaer DuRousseau for Hamptons response video.
 
-*Related: A-2520.2, C-3732*
+*Related: A-2520.2, C-863*
 
 
 
@@ -463,7 +462,7 @@ PragerU host noted in episode; mentioned as having worked for IDF intelligence a
 Node Type: Person
 News host on which Netanyahu reportedly lied about contents of a May letter from Charlie Kirk.
 
-*Related: C-1296*
+*Related: C-837*
 
 ---
 
@@ -472,7 +471,7 @@ News host on which Netanyahu reportedly lied about contents of a May letter from
 Node Type: Person
 Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about being wrongly labeled anti-Semitic.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -483,7 +482,7 @@ Journalist to whom Charlie Kirk vented the day after the Hamptons weekend about 
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Vivek Ramaswamy.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -494,7 +493,7 @@ Referenced as co-architect of the original federal Department of Government Effi
 Node Type: Person
 Referenced as co-architect of the original federal Department of Government Efficiency alongside Elon Musk.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -505,7 +504,7 @@ Referenced as co-architect of the original federal Department of Government Effi
 Node Type: Person
 US President referenced in connection with DOGE and in context of Netanyahu allegedly tweeting before him about Charlie's death.
 
-*Related: C-1296*
+*Related: C-837*
 
 ---
 
@@ -514,7 +513,7 @@ US President referenced in connection with DOGE and in context of Netanyahu alle
 Node Type: Person
 Referenced in closing joke about reporting Candace to platform authorities.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 
 
@@ -525,7 +524,7 @@ Referenced in closing joke about reporting Candace to platform authorities.
 Node Type: Person
 Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.
 
-*Related: A-2520.3, C-3733*
+*Related: A-2520.3, C-934*
 
 
 
@@ -536,7 +535,7 @@ Commenter quoted by host for X post asserting Candace Owens appears to be the on
 Node Type: Person
 YouTuber whose viral video analysis (6M views) presents muzzle flash, blood-splatter entry-wound, and suspicious-bush theories. Host engages and partially debunks.
 
-*Related: A-1163.1, A-1163.2, A-1163.3, C-1287, C-1288, C-1289*
+*Related: A-1163.1, A-1163.2, A-1163.3, C-912, C-909, C-915*
 
 ---
 
@@ -545,7 +544,7 @@ YouTuber whose viral video analysis (6M views) presents muzzle flash, blood-spla
 Node Type: Person
 Influencer whose August 6 Instagram post revealing she was in the Hamptons is cited as contradicting Xaviaer DuRousseau's safety-based secrecy claim.
 
-*Related: A-1169.1, C-1293*
+*Related: A-1169.1, C-861*
 
 ---
 
@@ -554,7 +553,7 @@ Influencer whose August 6 Instagram post revealing she was in the Hamptons is ci
 Node Type: Person
 Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tribute segment aired in this episode.
 
-*Related: A-1162.1, A-1168.1, C-3632*
+*Related: A-1162.1, A-1168.1, C-896*
 
 
 
@@ -565,7 +564,7 @@ Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tr
 Node Type: Person
 Utah Governor Cox, referenced for declaring the investigation concluded and the suspect in custody, after which the feds contacted the rooftop witnesses on September 15.
 
-*Related: C-1291*
+*Related: C-883*
 
 ---
 
@@ -574,7 +573,7 @@ Utah Governor Cox, referenced for declaring the investigation concluded and the 
 Node Type: Person
 Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.
 
-*Related: A-2520.4, C-3734*
+*Related: A-2520.4, C-938*
 
 
 
@@ -586,7 +585,7 @@ Node Type: Organization
 Organization Kind: political_nonprofit
 Subject organization of the financial concerns Charlie Kirk allegedly raised one week before his death; received internal memo elevating Justin Streiff to COO and announcing DOGE audit.
 
-*Related: A-1162.1, C-3632, C-1286*
+*Related: A-1162.1, C-896, C-836*
 
 ---
 
@@ -596,7 +595,7 @@ Node Type: Organization
 Organization Kind: law_enforcement
 Local Utah police department that received the second rooftop witness's footage on day one of the assassination.
 
-*Related: A-1164.3, C-1291*
+*Related: A-1164.3, C-883*
 
 ---
 
@@ -606,7 +605,7 @@ Node Type: Organization
 Organization Kind: government_program
 Referenced as federal initiative by Musk/Ramaswamy and as the model for Charlie Kirk's TPUSA-internal DOGE audit announced September 2, 2025.
 
-*Related: A-1162.1, C-3632*
+*Related: A-1162.1, C-896*
 
 ---
 
@@ -636,7 +635,7 @@ Node Type: Topic
 Topic Kind: investigation_thread
 Persistent thread on Charlie Kirk's pre-death financial concerns at TPUSA, anchored by the September 2 internal memo and host's receipt of insider leaks.
 
-*Related: A-1162.1, C-3632, C-1286*
+*Related: A-1162.1, C-896, C-836*
 
 ---
 
@@ -646,7 +645,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Open question of why federal authorities did not contact the two rooftop-footage witnesses until September 15, anchored by direct testimonials.
 
-*Related: A-1164.2, A-1164.3, C-1290, C-1291*
+*Related: A-1164.2, A-1164.3, C-879, C-883*
 
 ---
 
@@ -656,7 +655,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 August 2025 weekend retreat at which pressure was reportedly applied to Charlie Kirk on Israel/Netanyahu positioning; characterized by Charlie as 'moral blackmail'.
 
-*Related: A-1165.1, A-1165.2, A-1169.1, A-1170.1, C-1292, C-1293, C-1295*
+*Related: A-1165.1, A-1165.2, A-1169.1, A-1170.1, C-847, C-861, C-842*
 
 ---
 
@@ -666,7 +665,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Tip-based investigation thread alleging that publicly released doorbell footage of Tyler Robinson is incomplete and shows him with an unidentified woman changing clothes.
 
-*Related: A-1167.1, C-1294*
+*Related: A-1167.1, C-917*
 
 Confidence: low
 
@@ -678,7 +677,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Range Day Bro's claim that a muzzle flash is visible inside the flag hall; partially rebutted by host via window-doesn't-open argument.
 
-*Related: A-1163.1, A-1166.1, C-1287*
+*Related: A-1163.1, A-1166.1, C-912*
 
 ---
 
@@ -688,7 +687,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Range Day Bro's claim of a human-and-rifle-shaped outline in rooftop bushes; corroborated by host's ground photographs showing translucency.
 
-*Related: A-1163.3, C-1289*
+*Related: A-1163.3, C-915*
 
 ---
 
@@ -728,7 +727,7 @@ Node Type: Place
 Place Kind: region
 NY region where the August 2025 weekend retreat was held; central to several claims about secrecy, influencer attendance, and pressure on Charlie Kirk.
 
-*Related: A-1165.1, A-1169.1, C-1292, C-1293*
+*Related: A-1165.1, A-1169.1, C-847, C-861*
 
 ---
 
@@ -738,7 +737,7 @@ Node Type: Place
 Place Kind: city
 City where the assassination occurred and where Orem PD received the rooftop footage on day one; Lance Robinson's home was raided here.
 
-*Related: A-1164.3, C-1291*
+*Related: A-1164.3, C-883*
 
 ---
 
@@ -746,7 +745,7 @@ City where the assassination occurred and where Orem PD received the rooftop foo
 
 Roommate of Tyler Robinson; the host says there has been no update on the raid of his house.
 
-*Related: C-13756*
+*Related: C-872*
 
 ---
 
@@ -754,7 +753,7 @@ Roommate of Tyler Robinson; the host says there has been no update on the raid o
 
 Andrew Tate is named by the host among claimed funders; no claim is made about his actual conduct.
 
-*Related: C-13808*
+*Related: C-931*
 
 ---
 
@@ -762,7 +761,7 @@ Andrew Tate is named by the host among claimed funders; no claim is made about h
 
 Existing topic reused for the host's restatement of the call and invitation.
 
-*Related: C-13732*
+*Related: C-839*
 
 ---
 
@@ -770,7 +769,7 @@ Existing topic reused for the host's restatement of the call and invitation.
 
 Existing topic reused for the financial threats claim.
 
-*Related: C-13749*
+*Related: C-865*
 
 ---
 
@@ -778,7 +777,7 @@ Existing topic reused for the financial threats claim.
 
 Existing topic reused for the doorbell footage tip.
 
-*Related: C-13794*
+*Related: C-916*
 
 ---
 
@@ -786,7 +785,7 @@ Existing topic reused for the doorbell footage tip.
 
 Existing topic reused for the finance and leak claims.
 
-*Related: C-13770, C-13771, C-13773, C-13774, C-13781, C-13785, C-13809*
+*Related: C-888, C-889, C-891, C-892, C-900, C-904, C-932*
 
 ---
 
@@ -794,7 +793,7 @@ Existing topic reused for the finance and leak claims.
 
 Existing topic reused for the footage-release claims.
 
-*Related: C-13750, C-13751, C-13752*
+*Related: C-866, C-867, C-868*
 
 ---
 
@@ -802,7 +801,7 @@ Existing topic reused for the footage-release claims.
 
 Existing topic reused for the moral blackmail remark and workshop framing.
 
-*Related: C-13738, C-13740, C-13741, C-13749*
+*Related: C-849, C-851, C-852, C-865*
 
 ---
 
@@ -810,7 +809,7 @@ Existing topic reused for the moral blackmail remark and workshop framing.
 
 Existing topic reused for the host's hex and priest claim.
 
-*Related: C-13803*
+*Related: C-926*
 
 ---
 
@@ -818,7 +817,7 @@ Existing topic reused for the host's hex and priest claim.
 
 Existing topic reused for Charlie's distrust of the feds.
 
-*Related: C-13753*
+*Related: C-869*
 
 ---
 
@@ -826,7 +825,7 @@ Existing topic reused for Charlie's distrust of the feds.
 
 Existing topic reused for the offer claim.
 
-*Related: C-13734*
+*Related: C-841*
 
 ---
 
@@ -834,7 +833,7 @@ Existing topic reused for the offer claim.
 
 Existing topic reused for the Dillon and Hammer claims.
 
-*Related: C-13731, C-13742*
+*Related: C-838, C-855*
 
 ---
 
@@ -842,7 +841,7 @@ Existing topic reused for the Dillon and Hammer claims.
 
 Existing topic reused for the September 2 announcement.
 
-*Related: C-13777*
+*Related: C-895*
 
 ---
 
@@ -850,7 +849,7 @@ Existing topic reused for the September 2 announcement.
 
 Existing topic reused for the necklace claim.
 
-*Related: C-13790*
+*Related: C-910*
 
 ---
 
@@ -858,7 +857,7 @@ Existing topic reused for the necklace claim.
 
 Existing topic reused for the fundraising email claims.
 
-*Related: C-13797, C-13799, C-13800, C-13802*
+*Related: C-920, C-922, C-923, C-925*
 
 ---
 
@@ -867,13 +866,13 @@ Existing topic reused for the fundraising email claims.
 Node Type: Topic
 The host's report, from unnamed TPUSA sources, that contractors and other people around the organization took money both ways, earning commissions on both sides of contracts, which she links to Charlie's concern about disappearing money.
 
-*Related: C-13780, C-13784*
+*Related: C-899, C-903*
 
 ---
 
 ## 5. Claim Register
 
-**C-3632** Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort
+**C-896** Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort
 
 Claim Timestamp: 00:20:52
 Claim: Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and empowered to engage in an organization-wide DOGE effort, assembling a small team to make TPUSA more efficient and cost-effective, unify it around company-wide metrics and goals, and reshape company culture.
@@ -886,7 +885,7 @@ Investigative Direction: Obtain the original signed memo directly from TPUSA or 
 
 ---
 
-**C-1286** Charlie Kirk expressed concern about TPUSA finances one week before his death
+**C-836** Charlie Kirk expressed concern about TPUSA finances one week before his death
 
 Claim Timestamp: 00:00:01
 Claim: The host says that a week before his assassination Charlie Kirk expressed concerns about TPUSA finances and wanted to put together a little mini department to address those concerns, and that she has evidence of that.
@@ -900,7 +899,7 @@ Investigative Direction: Identify insiders, obtain contemporaneous communication
 
 ---
 
-**C-1287** Windows in the flag hall do not open, complicating the inside-source muzzle flash theory
+**C-912** Windows in the flag hall do not open, complicating the inside-source muzzle flash theory
 
 Claim Timestamp: 00:29:09
 Claim: The host says that, from everything she could see in the photos, the window in the flag hall does not open, so if the muzzle flash Range Day Bro describes came from inside, broken glass should be visible; she says she may be wrong and asks to be corrected.
@@ -914,7 +913,7 @@ Investigative Direction: Obtain architectural plans or on-site verification of t
 
 ---
 
-**C-1288** Range Day Bro's blood-splatter entry wound is actually Charlie's necklace chain
+**C-909** Range Day Bro's blood-splatter entry wound is actually Charlie's necklace chain
 
 Claim Timestamp: 00:27:54
 Claim: Host argues that what Range Day Bro identified as blood splatter from an entry wound is in fact Charlie Kirk's necklace chain whipping up after the shot.
@@ -927,7 +926,7 @@ Investigative Direction: Obtain high-resolution frame-by-frame footage from mult
 Tags: open_source_investigation
 ---
 
-**C-1289** Host Says Ground Photos Show the Bush Is See-Through Unlike Range Day Bro's Image
+**C-915** Host Says Ground Photos Show the Bush Is See-Through Unlike Range Day Bro's Image
 
 Claim Timestamp: 00:30:20
 Claim: The host says she sent someone to photograph the bush from Range Day Bro's analysis; in the photos she is looking at, the bush can be seen through, while in his grainy image it does not seem to be, and she says she is interested and will keep pursuing it.
@@ -940,20 +939,20 @@ Investigative Direction: Obtain the ground photographs referenced, compare with 
 
 ---
 
-**C-1290** Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities
+**C-879** Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities
 
 Claim Timestamp: 00:13:53
 Claim: The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.
 Transcript Snippet: He told me that neither the feds nor the local police had ever reached out to him. Never.
 Anchored Artifacts: A-1164.2
 Related Nodes: N-10133
-Supports: C-1291
+Supports: C-883
 Confidence: high
 Investigative Direction: Confirm filmer's identity independently, obtain date-stamped communications or call logs, and verify the September 15 federal contact.
 
 ---
 
-**C-1291** Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15
+**C-883** Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15
 
 Claim Timestamp: 00:15:24
 Claim: A second rooftop witness told the host's team he walked in and gave his footage to the Orem Police Department, which said it was overwhelmed on day one, and that the feds did not reach out to him until September 15, after Governor Cox said the investigation was over and they had the guy.
@@ -961,14 +960,14 @@ Transcript Snippet: He walked in and gave the footage to the Orem Police Departm
 Anchored Artifacts: A-1164.3
 Mentions: N-41
 Related Nodes: N-10062, N-10129, N-10133
-Supports: C-1290
+Supports: C-879
 Confidence: high
 Investigative Direction: Cross-reference Orem PD intake records, witness identity, and federal contact logs dated September 15.
 
 Tags: open_source_investigation
 ---
 
-**C-1292** DuRousseau Says Charlie Kirk Used the Phrase 'Moral Blackmail' in a Workshop Setting
+**C-847** DuRousseau Says Charlie Kirk Used the Phrase 'Moral Blackmail' in a Workshop Setting
 
 Claim Timestamp: 00:03:54
 Claim: The host says Xaviaer DuRousseau made a video addressing the Hamptons weekend in which he says Charlie spoke about feeling morally blackmailed, but in a workshop setting like a debate club; in the clip DuRousseau says Charlie said it is moral blackmail to claim that calling a politician bad empowers a terrorist organization.
@@ -981,21 +980,21 @@ Investigative Direction: Verify with primary recording or transcript of the actu
 
 ---
 
-**C-3737** Xaviaer DuRousseau is the speaker C-1292 spells 'Xaviaer DuRousseau' (revises C-1292)
+**C-848** Xaviaer DuRousseau is the speaker C-847 spells 'Xaviaer DuRousseau' (revises C-847)
 
 Claim Timestamp: 00:03:59
-Claim: C-1292 spells the speaker's name 'Xaviaer DuRousseau'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.
+Claim: C-847 spells the speaker's name 'Xaviaer DuRousseau'; the speaker is Xaviaer DuRousseau. The host says he made a video saying Charlie Kirk used the phrase 'moral blackmail' about the weekend, but in a workshop setting, like a debate club strengthening their arguments on Israel.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
 Related Nodes: N-10027, N-10134
-Revises: C-1292
+Revises: C-847
 Confidence: medium
-Investigative Direction: Read with C-1292; match DuRousseau's video and channel records under the corrected spelling.
+Investigative Direction: Read with C-847; match DuRousseau's video and channel records under the corrected spelling.
 
 ---
 
-**C-1293** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim
+**C-861** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim
 
 Claim Timestamp: 00:07:17
 Claim: Host cites an Emily Saves America post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
@@ -1008,21 +1007,21 @@ Investigative Direction: Verify the Instagram post date, contents, and whether i
 
 ---
 
-**C-3738** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)
+**C-862** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-861)
 
 Claim Timestamp: 00:07:17
-Claim: C-1293's title spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
+Claim: C-861's title spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
 Transcript Snippet: one of the influencers did post on August 6th that she was in the Hamptons.
 Anchored Artifacts: A-1165.2, A-1169.1
 Mentions: N-115, N-122
 Related Nodes: N-10027, N-10134
-Revises: C-1293
+Revises: C-861
 Confidence: high
-Investigative Direction: Read with C-1293; verify the Instagram post date, contents, and whether it was posted during or after the weekend.
+Investigative Direction: Read with C-861; verify the Instagram post date, contents, and whether it was posted during or after the weekend.
 
 ---
 
-**C-1294** Doorbell footage tip alleges Tyler Robinson changed clothes with unidentified woman
+**C-917** Doorbell footage tip alleges Tyler Robinson changed clothes with unidentified woman
 
 Claim Timestamp: 00:31:20
 Claim: The host says a young woman tipped her in the previous day's comment section that the doorbell footage was intentionally presented to the public only partially, and that more footage allegedly showed the person alleged to be Tyler Robinson walking with an unidentified woman and changing clothes.
@@ -1037,7 +1036,7 @@ Investigative Direction: Verify the tip with primary source; obtain the addition
 Tags: calls_for_tips, submissions_to_candace
 ---
 
-**C-1295** Bill Ackman issued a 959-word essay response to Candace Owens' prior coverage
+**C-842** Bill Ackman issued a 959-word essay response to Candace Owens' prior coverage
 
 Claim Timestamp: 00:03:05
 Claim: Host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation or the offer to take TPUSA to the next level financially.
@@ -1051,24 +1050,24 @@ Investigative Direction: Obtain the full 959-word essay, confirm word count, and
 
 ---
 
-**C-3773** Bill Ackman is the person C-1295 calls 'Bill Ackman' (revises C-1295)
+**C-843** Bill Ackman is the person C-842 calls 'Bill Ackman' (revises C-842)
 
 Claim Timestamp: 00:03:05
 
-Claim: C-1295 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
+Claim: C-842 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.
 
 Transcript Snippet: And Bill Ackman replies with an essay, college essay.
 
 Anchored Artifacts: A-1170.1
 Mentions: N-37, N-3
 Related Nodes: N-10134
-Revises: C-1295
+Revises: C-842
 Confidence: medium
-Investigative Direction: Read with C-1295; obtain the 959-word essay under the corrected spelling Bill Ackman.
+Investigative Direction: Read with C-842; obtain the 959-word essay under the corrected spelling Bill Ackman.
 
 ---
 
-**C-1296** Netanyahu tweeted about Charlie Kirk's death before the US President
+**C-837** Netanyahu tweeted about Charlie Kirk's death before the US President
 
 Claim Timestamp: 00:01:53
 Claim: The host says Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States, and that, on Fox News and Greta Van Susteren's show, 'he' lied about the contents of a letter Charlie Kirk had written him in May.
@@ -1081,7 +1080,7 @@ Investigative Direction: Obtain timestamped tweet records from Netanyahu and the
 
 ---
 
-**C-3642** Host Plugs CIA Merch With Joke About Laura Loomer
+**C-947** Host Plugs CIA Merch With Joke About Laura Loomer
 
 Claim Timestamp: 00:45:24
 Claim: The host invites viewers to buy 'CIA merch' so that, she jokes, she can be arrested by Laura Loomer and her tweets reported by Laura Loomer.
@@ -1095,7 +1094,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 ---
 
 
-**C-3731** Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer
+**C-853** Host names Hamptons attendees Natasha Hausdorff, Seth Dillon and Josh Hammer
 
 Claim Timestamp: 00:05:13
 Claim: Responding to Xaviaer DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
@@ -1108,21 +1107,21 @@ Investigative Direction: Corroborate the attendee list and the exchange with oth
 
 ---
 
-**C-3739** Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)
+**C-854** Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-853)
 
 Claim Timestamp: 00:05:13
-Claim: C-3731 spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Hausdorff") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
+Claim: C-853 spells the name 'Xaviaer DuRousseau'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: "Natasha Hausdorff") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.
 Transcript Snippet: Natasha Hausdorff was there. Seth Dillon was there. And Seth Dillon was the one that was applying pressure to him.
 Anchored Artifacts: A-2520.1
 Mentions: N-1, N-38, N-55, N-115, N-116
 Related Nodes: N-10000
-Revises: C-3731
+Revises: C-853
 Confidence: medium
-Investigative Direction: Read with C-3731; corroborate the attendee list and the exchange with other Hamptons weekend accounts.
+Investigative Direction: Read with C-853; corroborate the attendee list and the exchange with other Hamptons weekend accounts.
 
 ---
 
-**C-3732** Host identifies Marissa Streit in the PragerU video
+**C-863** Host identifies Marissa Streit in the PragerU video
 
 Claim Timestamp: 00:08:07
 Claim: The host, who previously worked for PragerU, says she knows Marissa Streit, identifies her in the PragerU video, and calls the video a PR operation that addresses the points without addressing them.
@@ -1134,7 +1133,7 @@ Investigative Direction: Confirm Marissa Streit's role in the PragerU video and 
 
 ---
 
-**C-3733** Host credits Taylor Lorenz for noting her isolation
+**C-934** Host credits Taylor Lorenz for noting her isolation
 
 Claim Timestamp: 00:39:29
 Claim: The host gives a shout out to Taylor Lorenz, who she says wrote, she thinks on X, asking why she felt Candace was the only one who actually cared about Charlie.
@@ -1146,7 +1145,7 @@ Investigative Direction: Locate the Taylor Lorenz post on X.
 
 ---
 
-**C-3734** Host likens signed bullets to Nikki Haley signing bombs
+**C-938** Host likens signed bullets to Nikki Haley signing bombs
 
 Claim Timestamp: 00:41:58
 Claim: Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that are going to be dropped and kill children.
@@ -1158,7 +1157,7 @@ Investigative Direction: None; rhetorical comparison.
 
 ---
 
-**C-13731** Host Says Hammer and Dillon Have Not Been Honest About the Pressure on Charlie
+**C-838** Host Says Hammer and Dillon Have Not Been Honest About the Pressure on Charlie
 
 Claim Timestamp: 00:02:19
 
@@ -1169,13 +1168,13 @@ Transcript Snippet: I don't like that they have not yet been honest or forthcomi
 Anchored Artifacts: 
 Mentions: N-55, N-38, N-1, N-3
 Related Nodes: N-10345, N-10134
-Supports: C-1173
+Supports: C-239
 Tags: relevance:context
 Investigative Direction: Obtain Hammer's and Dillon's own public statements about the Hamptons weekend and compare them with the accounts of other attendees.
 
 ---
 
-**C-13732** Host Says Netanyahu Called Charlie and Invited Him to Israel
+**C-839** Host Says Netanyahu Called Charlie and Invited Him to Israel
 
 Claim Timestamp: 00:02:55
 
@@ -1186,13 +1185,13 @@ Transcript Snippet: I tell you about BB Netanyahu calling Charlie Kirk and invit
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
 Related Nodes: N-10018, N-10134
-Supports: C-1129
+Supports: C-82
 Tags: relevance:context
 Investigative Direction: Obtain Netanyahu's own account of the call (he told interviewers he phoned Kirk weeks before the shooting) and any contemporaneous message logs.
 
 ---
 
-**C-13733** Host Says Charlie Himself Described the Hamptons Weekend as an Intervention
+**C-840** Host Says Charlie Himself Described the Hamptons Weekend as an Intervention
 
 Claim Timestamp: 00:03:04
 
@@ -1203,13 +1202,13 @@ Transcript Snippet: my point about the quote unquote intervention which is how C
 Anchored Artifacts: 
 Mentions: N-1, N-37, N-3
 Related Nodes: N-10134
-Supports: C-1128
+Supports: C-79
 Tags: relevance:context
 Investigative Direction: Find a first-hand source (message, recording or attendee) in which Charlie uses the word intervention about the weekend.
 
 ---
 
-**C-13734** Host Says Netanyahu Offered to Take TPUSA to the Next Level Financially
+**C-841** Host Says Netanyahu Offered to Take TPUSA to the Next Level Financially
 
 Claim Timestamp: 00:03:04
 
@@ -1225,7 +1224,7 @@ Investigative Direction: Identify who relayed the offer to the host and obtain a
 
 ---
 
-**C-13735** Host Says People Thought Charlie's Ideas Were Trending in the Wrong Direction
+**C-844** Host Says People Thought Charlie's Ideas Were Trending in the Wrong Direction
 
 Claim Timestamp: 00:03:26
 
@@ -1241,7 +1240,7 @@ Investigative Direction: Ask attendees of the Hamptons weekend and TPUSA donors 
 
 ---
 
-**C-13736** Host Says the Hamptons Response Videos and Tweets Looked Like a PR Crisis
+**C-845** Host Says the Hamptons Response Videos and Tweets Looked Like a PR Crisis
 
 Claim Timestamp: 00:03:39
 
@@ -1257,7 +1256,7 @@ Investigative Direction: Collect the timestamps of the response videos and tweet
 
 ---
 
-**C-13737** Host Says DuRousseau Messaged Her That He Was Speaking Out and Then Made a Video
+**C-846** Host Says DuRousseau Messaged Her That He Was Speaking Out and Then Made a Video
 
 Claim Timestamp: 00:03:52
 
@@ -1273,7 +1272,7 @@ Investigative Direction: Obtain the message exchange and the date of DuRousseau'
 
 ---
 
-**C-13738** DuRousseau Says the Moral Blackmail Remark Came in a Workshop Setting Like a Debate Club
+**C-849** DuRousseau Says the Moral Blackmail Remark Came in a Workshop Setting Like a Debate Club
 
 Claim Timestamp: 00:04:09
 
@@ -1289,7 +1288,7 @@ Investigative Direction: Compare DuRousseau's workshop description with accounts
 
 ---
 
-**C-13739** DuRousseau Says Charlie Held Up His Phone With a Draft Tweet That BB Needs to Resign
+**C-850** DuRousseau Says Charlie Held Up His Phone With a Draft Tweet That BB Needs to Resign
 
 Claim Timestamp: 00:04:28
 
@@ -1305,7 +1304,7 @@ Investigative Direction: Locate the article DuRousseau calls the hit piece and a
 
 ---
 
-**C-13740** DuRousseau Says a Woman Warned Charlie Posting It Would Indirectly Empower Hamas
+**C-851** DuRousseau Says a Woman Warned Charlie Posting It Would Indirectly Empower Hamas
 
 Claim Timestamp: 00:04:44
 
@@ -1321,7 +1320,7 @@ Investigative Direction: Identify the woman and corroborate the exchange with ot
 
 ---
 
-**C-13741** DuRousseau Says Charlie Told the Room to Argue About Israel Logically and Factually
+**C-852** DuRousseau Says Charlie Told the Room to Argue About Israel Logically and Factually
 
 Claim Timestamp: 00:04:52
 
@@ -1337,7 +1336,7 @@ Investigative Direction: Compare with Charlie's own words to Megyn Kelly the nex
 
 ---
 
-**C-13742** Host Says Dillon and Hammer Were Accusatory Because Charlie's Positions on Israel Were Moving
+**C-855** Host Says Dillon and Hammer Were Accusatory Because Charlie's Positions on Israel Were Moving
 
 Claim Timestamp: 00:05:25
 
@@ -1348,13 +1347,13 @@ Transcript Snippet: they saw which way the wind was traveling in terms of his po
 Anchored Artifacts: 
 Mentions: N-38, N-55, N-1, N-36
 Related Nodes: N-10345, N-10134
-Supports: C-1173
+Supports: C-239
 Tags: relevance:context
 Investigative Direction: Corroborate the tone of the exchange with other attendees and with Dillon's and Hammer's own accounts.
 
 ---
 
-**C-13743** Host Says Charlie Vented to Megyn Kelly the Day After the Weekend About Being Labeled Anti-Semitic
+**C-856** Host Says Charlie Vented to Megyn Kelly the Day After the Weekend About Being Labeled Anti-Semitic
 
 Claim Timestamp: 00:05:48
 
@@ -1365,13 +1364,13 @@ Transcript Snippet: the day after this little weekend retreat where he vented to
 Anchored Artifacts: 
 Mentions: N-1, N-46
 Related Nodes: N-10134
-Supports: C-1162
+Supports: C-254
 Tags: relevance:context
 Investigative Direction: Locate the Megyn Kelly recording the host says she has played several times and confirm its date.
 
 ---
 
-**C-13744** Host Says the Weekend Was Kept Hush Hush, Which Is Unusual for a TPUSA Event
+**C-857** Host Says the Weekend Was Kept Hush Hush, Which Is Unusual for a TPUSA Event
 
 Claim Timestamp: 00:06:02
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Compare TPUSA's usual promotion of influencer events wi
 
 ---
 
-**C-13745** Host Says Influencers Did Not Post About the Weekend Until It Was Exposed
+**C-858** Host Says Influencers Did Not Post About the Weekend Until It Was Exposed
 
 Claim Timestamp: 00:06:15
 
@@ -1403,7 +1402,7 @@ Investigative Direction: Collect the first public posts from each attendee and c
 
 ---
 
-**C-13746** DuRousseau Says Photos Were Not Posted in Real Time Because of Safety
+**C-859** DuRousseau Says Photos Were Not Posted in Real Time Because of Safety
 
 Claim Timestamp: 00:06:34
 
@@ -1419,7 +1418,7 @@ Investigative Direction: Check the dates of DuRousseau's Instagram photos and of
 
 ---
 
-**C-13747** Host Says the Posted Photos Were Never Publicly Connected to TPUSA
+**C-860** Host Says the Posted Photos Were Never Publicly Connected to TPUSA
 
 Claim Timestamp: 00:06:51
 
@@ -1435,7 +1434,7 @@ Investigative Direction: Review the captions and tags on the attendees' posts fo
 
 ---
 
-**C-13748** Host Says Marissa Streit Has Been Open About Having Worked for IDF Intelligence
+**C-864** Host Says Marissa Streit Has Been Open About Having Worked for IDF Intelligence
 
 Claim Timestamp: 00:08:18
 
@@ -1451,7 +1450,7 @@ Investigative Direction: Check Streit's public biography and interviews for her 
 
 ---
 
-**C-13749** Host Says Charlie Was Facing Financial Threats Over His Speech
+**C-865** Host Says Charlie Was Facing Financial Threats Over His Speech
 
 Claim Timestamp: 00:08:33
 
@@ -1462,13 +1461,13 @@ Transcript Snippet: I don't like the fact that Charlie was literally facing fina
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10106, N-10033
-Supports: C-10656
+Supports: C-75
 Tags: relevance:context
 Investigative Direction: Identify which donors or groups made the threats, when, and in what form.
 
 ---
 
-**C-13750** Host Says Turning Point Will Not Release the Footage
+**C-866** Host Says Turning Point Will Not Release the Footage
 
 Claim Timestamp: 00:08:54
 
@@ -1484,7 +1483,7 @@ Investigative Direction: Ask TPUSA to identify the footage in question and the s
 
 ---
 
-**C-13751** Host Says People Suspect TPUSA From the SD Card Footage and TPUSA Has Footage That Should Vindicate It
+**C-867** Host Says People Suspect TPUSA From the SD Card Footage and TPUSA Has Footage That Should Vindicate It
 
 Claim Timestamp: 00:09:15
 
@@ -1500,7 +1499,7 @@ Investigative Direction: Obtain the SD card removal footage and the chain-of-cus
 
 ---
 
-**C-13752** Host Says the Feds Cannot Charge TPUSA for Releasing Footage It Owns
+**C-868** Host Says the Feds Cannot Charge TPUSA for Releasing Footage It Owns
 
 Claim Timestamp: 00:10:06
 
@@ -1516,7 +1515,7 @@ Investigative Direction: Obtain any request or instruction from law enforcement 
 
 ---
 
-**C-13753** Host Says Charlie Did Not Trust the Feds on the Epstein Files
+**C-869** Host Says Charlie Did Not Trust the Feds on the Epstein Files
 
 Claim Timestamp: 00:10:11
 
@@ -1532,7 +1531,7 @@ Investigative Direction: Locate Charlie's own on-air statements about the Epstei
 
 ---
 
-**C-13754** Host Says Kolvet Is Getting Vitriol Because He Is Doing Press and Carrying On Charlie's Show
+**C-870** Host Says Kolvet Is Getting Vitriol Because He Is Doing Press and Carrying On Charlie's Show
 
 Claim Timestamp: 00:10:34
 
@@ -1548,7 +1547,7 @@ Investigative Direction: Review Kolvet's public appearances after September 10 a
 
 ---
 
-**C-13755** Host Says Kolvet Was a Close Friend of Charlie's Who Still Has to Deal With the Same Donors
+**C-871** Host Says Kolvet Was a Close Friend of Charlie's Who Still Has to Deal With the Same Donors
 
 Claim Timestamp: 00:10:55
 
@@ -1564,7 +1563,7 @@ Investigative Direction: Identify the donors Kolvet now manages and whether any 
 
 ---
 
-**C-13756** Host Says There Has Been No Update on the Raid of Lance's House Where Robinson Lived
+**C-872** Host Says There Has Been No Update on the Raid of Lance's House Where Robinson Lived
 
 Claim Timestamp: 00:11:32
 
@@ -1580,7 +1579,7 @@ Investigative Direction: Request the search warrant, return and any charging or 
 
 ---
 
-**C-13757** Host Says the Feds Injected Themselves Immediately Because They Were Staging a Cover-Up
+**C-873** Host Says the Feds Injected Themselves Immediately Because They Were Staging a Cover-Up
 
 Claim Timestamp: 00:11:45
 
@@ -1596,7 +1595,7 @@ Investigative Direction: Establish the date and agency of the first federal invo
 
 ---
 
-**C-13758** Host Says New Information Lets Her Almost Establish the Federal Cover-Up as Fact
+**C-874** Host Says New Information Lets Her Almost Establish the Federal Cover-Up as Fact
 
 Claim Timestamp: 00:11:55
 
@@ -1612,7 +1611,7 @@ Investigative Direction: Test the inference against the witness accounts and the
 
 ---
 
-**C-13759** Host Says the Rooftop Video Is the Only One of the Shooter Sprinting Seconds After the Shot
+**C-875** Host Says the Rooftop Video Is the Only One of the Shooter Sprinting Seconds After the Shot
 
 Claim Timestamp: 00:12:34
 
@@ -1628,7 +1627,7 @@ Investigative Direction: Survey all publicly known rooftop footage to test wheth
 
 ---
 
-**C-13760** Host Says She Is Showing the Rooftop Footage in Better Quality Than Ever Seen
+**C-876** Host Says She Is Showing the Rooftop Footage in Better Quality Than Ever Seen
 
 Claim Timestamp: 00:12:52
 
@@ -1644,7 +1643,7 @@ Investigative Direction: Compare the aired clip with the earlier viral versions 
 
 ---
 
-**C-13761** Host Says Something Trails Behind the Runner and Wonders If It Is the Towel
+**C-877** Host Says Something Trails Behind the Runner and Wonders If It Is the Towel
 
 Claim Timestamp: 00:13:18
 
@@ -1660,7 +1659,7 @@ Investigative Direction: Compare the object in the clip with the towel described
 
 ---
 
-**C-13762** Host Says She Found the Footage and Its Filmer in About Two Hours Through a Twitter Contact
+**C-878** Host Says She Found the Footage and Its Filmer in About Two Hours Through a Twitter Contact
 
 Claim Timestamp: 00:13:24
 
@@ -1676,7 +1675,7 @@ Investigative Direction: Identify the filmer and the Twitter contact and confirm
 
 ---
 
-**C-13763** Host Says Only Two People Have a Recording of the Shooter and the Feds Showed No Interest in the Filmer
+**C-880** Host Says Only Two People Have a Recording of the Shooter and the Feds Showed No Interest in the Filmer
 
 Claim Timestamp: 00:13:59
 
@@ -1692,7 +1691,7 @@ Investigative Direction: Catalog the known recordings of the shooter and ask the
 
 ---
 
-**C-13764** Host Says Investigators Should Have Sought the Viral Footage's Metadata to Fix the Exact Second
+**C-881** Host Says Investigators Should Have Sought the Viral Footage's Metadata to Fix the Exact Second
 
 Claim Timestamp: 00:14:42
 
@@ -1708,7 +1707,7 @@ Investigative Direction: Ask the FBI whether it obtained the original file and m
 
 ---
 
-**C-13765** Host Says the Second Witness Is the Person Who Filmed the Somebody Is on the Roof Footage
+**C-882** Host Says the Second Witness Is the Person Who Filmed the Somebody Is on the Roof Footage
 
 Claim Timestamp: 00:15:17
 
@@ -1724,7 +1723,7 @@ Investigative Direction: Match this witness to the footage covered earlier in th
 
 ---
 
-**C-13766** Host Says the Second Witness Saw the Person Getting Into Shooting Position and Was Not Contacted Until September 15
+**C-884** Host Says the Second Witness Saw the Person Getting Into Shooting Position and Was Not Contacted Until September 15
 
 Claim Timestamp: 00:16:07
 
@@ -1735,13 +1734,13 @@ Transcript Snippet: I saw the person getting into the shooting position. You nev
 Anchored Artifacts: A-1164.3
 Mentions: N-3
 Related Nodes: N-10133
-Supports: C-1291
+Supports: C-883
 Tags: relevance:core
 Investigative Direction: Obtain the witness's police report and the FBI contact record dated September 15.
 
 ---
 
-**C-13767** Host Says Not Contacting the Two Rooftop Witnesses Looks Like a Cover-Up
+**C-885** Host Says Not Contacting the Two Rooftop Witnesses Looks Like a Cover-Up
 
 Claim Timestamp: 00:16:12
 
@@ -1752,13 +1751,13 @@ Transcript Snippet: that looks to me like a cover up. Not like you're trying to 
 Anchored Artifacts: A-1164.2, A-1164.3
 Mentions: N-3
 Related Nodes: N-10133
-Supports: C-1290
+Supports: C-879
 Tags: relevance:core
 Investigative Direction: Compare the witnesses' accounts with FBI interview logs and Orem police records of footage intake.
 
 ---
 
-**C-13768** Host Says Her Next Piece Comes Largely From a Multitude of TPUSA Leaks
+**C-886** Host Says Her Next Piece Comes Largely From a Multitude of TPUSA Leaks
 
 Claim Timestamp: 00:16:26
 
@@ -1774,7 +1773,7 @@ Investigative Direction: Ask the host to identify the volume and roles of the le
 
 ---
 
-**C-13769** Host Says TPUSA Staff Feel the Organization Is Now Motivated Just by Money
+**C-887** Host Says TPUSA Staff Feel the Organization Is Now Motivated Just by Money
 
 Claim Timestamp: 00:17:51
 
@@ -1790,7 +1789,7 @@ Investigative Direction: Interview current and former TPUSA staff about changes 
 
 ---
 
-**C-13770** Host Says Many People Have Reached Out About the Finances at TPUSA
+**C-888** Host Says Many People Have Reached Out About the Finances at TPUSA
 
 Claim Timestamp: 00:18:16
 
@@ -1806,7 +1805,7 @@ Investigative Direction: Ask the host whether the sources include current employ
 
 ---
 
-**C-13771** Host Says Other Journalists Receiving Leaks Have Handed the Finance Angle to Forensic Accountants
+**C-889** Host Says Other Journalists Receiving Leaks Have Handed the Finance Angle to Forensic Accountants
 
 Claim Timestamp: 00:18:27
 
@@ -1822,7 +1821,7 @@ Investigative Direction: Identify the journalists and the forensic accountants a
 
 ---
 
-**C-13772** Host Says an Insider Was Present When Charlie Expressed Concern About Where the Money Was Going
+**C-890** Host Says an Insider Was Present When Charlie Expressed Concern About Where the Money Was Going
 
 Claim Timestamp: 00:18:42
 
@@ -1833,13 +1832,13 @@ Transcript Snippet: an insider um who said that they were there and present when
 Anchored Artifacts: A-3278.1
 Mentions: N-1, N-3
 Related Nodes: N-10132, N-10000
-Supports: C-1286
+Supports: C-836
 Tags: relevance:core
 Investigative Direction: Identify the insider and the meeting at which Charlie voiced the concern, and obtain any notes or messages.
 
 ---
 
-**C-13773** Host Says Charlie Had Stepped Back From Fundraising Specifics and Trusted His Lieutenants
+**C-891** Host Says Charlie Had Stepped Back From Fundraising Specifics and Trusted His Lieutenants
 
 Claim Timestamp: 00:19:08
 
@@ -1855,7 +1854,7 @@ Investigative Direction: Establish who ran fundraising and accounting under Char
 
 ---
 
-**C-13774** Host Says TPUSA Clears About 100 Million Dollars a Year
+**C-892** Host Says TPUSA Clears About 100 Million Dollars a Year
 
 Claim Timestamp: 00:19:13
 
@@ -1871,7 +1870,7 @@ Investigative Direction: Check TPUSA's Form 990 filings for annual revenue.
 
 ---
 
-**C-13775** Host Says Charlie Felt the Money Was Disappearing and the Excuses Did Not Add Up
+**C-893** Host Says Charlie Felt the Money Was Disappearing and the Excuses Did Not Add Up
 
 Claim Timestamp: 00:19:35
 
@@ -1882,13 +1881,13 @@ Transcript Snippet: the excuses that he was being given for the money disappeari
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10132, N-10000
-Supports: C-1286
+Supports: C-836
 Tags: relevance:core
 Investigative Direction: Obtain the proof the host says she holds and identify to whom Charlie put the questions.
 
 ---
 
-**C-13776** Host Says Per Sources Charlie Felt TPUSA Was Burning Through Cash Too Quickly
+**C-894** Host Says Per Sources Charlie Felt TPUSA Was Burning Through Cash Too Quickly
 
 Claim Timestamp: 00:19:41
 
@@ -1899,13 +1898,13 @@ Transcript Snippet: according to sources that the company was burning through ca
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10132, N-10000
-Supports: C-1286
+Supports: C-836
 Tags: relevance:core
 Investigative Direction: Compare TPUSA's expenditure growth in 2025 with the claim that cash was being spent too quickly.
 
 ---
 
-**C-13777** Host Says Charlie Surprised the Company on September 2 by Announcing a DOGE Department
+**C-895** Host Says Charlie Surprised the Company on September 2 by Announcing a DOGE Department
 
 Claim Timestamp: 00:20:01
 
@@ -1916,13 +1915,13 @@ Transcript Snippet: Charlie surprised the company uh by announcing that he was p
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10434, N-10132, N-10130
-Supports: C-3632
+Supports: C-896
 Tags: relevance:core
 Investigative Direction: Establish who received the announcement, how staff reacted and whether the DOGE team was ever staffed.
 
 ---
 
-**C-13778** Memo Says Streiff Has Led the Fundraising Division Since Joining TPUSA in 2020
+**C-897** Memo Says Streiff Has Led the Fundraising Division Since Joining TPUSA in 2020
 
 Claim Timestamp: 00:21:19
 
@@ -1933,13 +1932,13 @@ Transcript Snippet: Justin has led Turning Point's fundraising division and in m
 Anchored Artifacts: A-1162.1
 Mentions: N-15, N-1
 Related Nodes: N-10000
-Supports: C-3632
+Supports: C-896
 Tags: relevance:core
 Investigative Direction: Obtain the memo and compare Streiff's described role with TPUSA's filings and staff listings.
 
 ---
 
-**C-13779** Host Says the Memo Suggests the Insider Tips Are Accurate
+**C-898** Host Says the Memo Suggests the Insider Tips Are Accurate
 
 Claim Timestamp: 00:22:20
 
@@ -1950,13 +1949,13 @@ Transcript Snippet: all of these tips that we are receiving from insiders is acc
 Anchored Artifacts: A-1162.1
 Mentions: N-1, N-3
 Related Nodes: N-10132, N-10000
-Supports: C-1286
+Supports: C-836
 Tags: relevance:core
 Investigative Direction: Test whether the memo's efficiency language reflects a financial concern or routine reorganization by comparing with TPUSA staff accounts.
 
 ---
 
-**C-13780** Host Says There Were Contractors Taking Money Both Ways and Cutting Deals
+**C-899** Host Says There Were Contractors Taking Money Both Ways and Cutting Deals
 
 Claim Timestamp: 00:22:27
 
@@ -1972,7 +1971,7 @@ Investigative Direction: Identify the contractors and review vendor contracts an
 
 ---
 
-**C-13781** Host Says She Has Been Shown Astonishing Preliminary Findings From Forensic Accountants
+**C-900** Host Says She Has Been Shown Astonishing Preliminary Findings From Forensic Accountants
 
 Claim Timestamp: 00:23:01
 
@@ -1988,7 +1987,7 @@ Investigative Direction: Obtain the preliminary findings and identify the accoun
 
 ---
 
-**C-13782** Host Says Her Sources Report Charlie Was Concerned About Where the Money Was Coming From
+**C-901** Host Says Her Sources Report Charlie Was Concerned About Where the Money Was Coming From
 
 Claim Timestamp: 00:23:16
 
@@ -2004,7 +2003,7 @@ Investigative Direction: Identify the donors or companies Charlie questioned and
 
 ---
 
-**C-13783** Host Offers That Companies Flooding the Zone With Money Were the Concern
+**C-902** Host Offers That Companies Flooding the Zone With Money Were the Concern
 
 Claim Timestamp: 00:23:29
 
@@ -2020,7 +2019,7 @@ Investigative Direction: Identify the corporate donors and the influence they so
 
 ---
 
-**C-13784** Host Says It Sounds Like Some People Were Double Agents Earning Commissions on Both Sides of a Contract
+**C-903** Host Says It Sounds Like Some People Were Double Agents Earning Commissions on Both Sides of a Contract
 
 Claim Timestamp: 00:23:34
 
@@ -2036,7 +2035,7 @@ Investigative Direction: Identify the contracts and review whether any intermedi
 
 ---
 
-**C-13785** Host Says Reports From Others Examining This Will Come Out Next Week
+**C-904** Host Says Reports From Others Examining This Will Come Out Next Week
 
 Claim Timestamp: 00:23:42
 
@@ -2052,7 +2051,7 @@ Investigative Direction: Monitor for the reports and identify their authors.
 
 ---
 
-**C-13786** Host Says She Met the Riverbend Ranch CEO With Charlie Years Ago
+**C-905** Host Says She Met the Riverbend Ranch CEO With Charlie Years Ago
 
 Claim Timestamp: 00:24:12
 
@@ -2068,7 +2067,7 @@ Investigative Direction: Confirm the meeting date with Riverbend Ranch.
 
 ---
 
-**C-13787** Range Day Bro Says a Bullet Trail Is Visible and Lines Up With the Gunshot
+**C-906** Range Day Bro Says a Bullet Trail Is Visible and Lines Up With the Gunshot
 
 Claim Timestamp: 00:26:56
 
@@ -2084,7 +2083,7 @@ Investigative Direction: Frame-by-frame review of the original video, with the a
 
 ---
 
-**C-13788** Range Day Bro Says a Marine Friend's Video Shows the Angle of the Shot and an Entry and Exit Wound
+**C-907** Range Day Bro Says a Marine Friend's Video Shows the Angle of the Shot and an Entry and Exit Wound
 
 Claim Timestamp: 00:27:02
 
@@ -2100,7 +2099,7 @@ Investigative Direction: Obtain the Marine friend's video and the autopsy or wou
 
 ---
 
-**C-13789** Range Day Bro Says Charlie Was Shot From the Back With Blood Splatter From an Entry Wound
+**C-908** Range Day Bro Says Charlie Was Shot From the Back With Blood Splatter From an Entry Wound
 
 Claim Timestamp: 00:27:44
 
@@ -2116,7 +2115,7 @@ Investigative Direction: Compare against the autopsy or medical findings on entr
 
 ---
 
-**C-13790** Host Says Her Clearer Front Footage Shows the Necklace Breaking and Whipping Up
+**C-910** Host Says Her Clearer Front Footage Shows the Necklace Breaking and Whipping Up
 
 Claim Timestamp: 00:28:12
 
@@ -2127,13 +2126,13 @@ Transcript Snippet: the necklace goes first and it I'm if I'm looking at it, it 
 Anchored Artifacts: A-1163.2
 Mentions: N-121, N-1, N-3
 Related Nodes: N-10537
-Supports: C-1288
+Supports: C-909
 Tags: relevance:core
 Investigative Direction: Obtain the frontal footage and the necklace itself, if recovered, to check the break point and timing.
 
 ---
 
-**C-13791** Host Says the Window in Question Is in the Flag Hall Zone Where the Runner Footage Was Filmed
+**C-911** Host Says the Window in Question Is in the Flag Hall Zone Where the Runner Footage Was Filmed
 
 Claim Timestamp: 00:28:49
 
@@ -2144,13 +2143,13 @@ Transcript Snippet: that window is from that zone which they call like the flag 
 Anchored Artifacts: A-1166.1
 Mentions: N-121, N-3
 Related Nodes: N-10136
-Supports: C-1287
+Supports: C-912
 Tags: relevance:core
 Investigative Direction: Obtain a site plan of the UVU flag hall and the underpass and verify the filming position.
 
 ---
 
-**C-13792** Host Says She Has Not Been Able to Debunk the Suspicious-Bush Element and Is Sending Someone
+**C-913** Host Says She Has Not Been Able to Debunk the Suspicious-Bush Element and Is Sending Someone
 
 Claim Timestamp: 00:29:28
 
@@ -2166,7 +2165,7 @@ Investigative Direction: Obtain the host's on-site photographs and compare them 
 
 ---
 
-**C-13793** Range Day Bro Says the Bush Contains a Human Head, Hair and an AR-15 With an Optic
+**C-914** Range Day Bro Says the Bush Contains a Human Head, Hair and an AR-15 With an Optic
 
 Claim Timestamp: 00:30:09
 
@@ -2182,7 +2181,7 @@ Investigative Direction: Compare the original unblurred photo with on-site photo
 
 ---
 
-**C-13794** Host Says a Commenter Tip Claimed the Doorbell Footage Was Intentionally Presented Only Partially
+**C-916** Host Says a Commenter Tip Claimed the Doorbell Footage Was Intentionally Presented Only Partially
 
 Claim Timestamp: 00:31:11
 
@@ -2193,13 +2192,13 @@ Transcript Snippet: that doorbell footage was intentionally presented to the pub
 Anchored Artifacts: A-1167.1
 Mentions: N-3
 Related Nodes: N-10135, N-10052
-Supports: C-1294
+Supports: C-917
 Tags: relevance:core
 Investigative Direction: Identify the tipster and the full doorbell footage and compare it with the released clip.
 
 ---
 
-**C-13795** Host Says She Has Established Contact With the Doorbell Tipster and Calls It a Solid Lead
+**C-918** Host Says She Has Established Contact With the Doorbell Tipster and Calls It a Solid Lead
 
 Claim Timestamp: 00:31:41
 
@@ -2215,7 +2214,7 @@ Investigative Direction: Corroborate the tipster's identity and her access to th
 
 ---
 
-**C-13796** Host Says a Utah Person Was Involved in the Local Cover-Up
+**C-919** Host Says a Utah Person Was Involved in the Local Cover-Up
 
 Claim Timestamp: 00:31:53
 
@@ -2231,7 +2230,7 @@ Investigative Direction: Identify the person and the role they played in the han
 
 ---
 
-**C-13797** Host Says Fundraising Emails and Texts After Charlie's Death Drew Criticism as Fundraising Off His Death
+**C-920** Host Says Fundraising Emails and Texts After Charlie's Death Drew Criticism as Fundraising Off His Death
 
 Claim Timestamp: 00:32:16
 
@@ -2247,7 +2246,7 @@ Investigative Direction: Obtain the emails and texts and their send dates and se
 
 ---
 
-**C-13798** Host Says Erika Is CEO and Chairman of a Company That Got Bigger Than Charlie
+**C-921** Host Says Erika Is CEO and Chairman of a Company That Got Bigger Than Charlie
 
 Claim Timestamp: 00:32:39
 
@@ -2263,7 +2262,7 @@ Investigative Direction: Verify Erika Kirk's titles and the date they took effec
 
 ---
 
-**C-13799** Host Says the Fundraising Emails Were Not Written by Erika Kirk
+**C-922** Host Says the Fundraising Emails Were Not Written by Erika Kirk
 
 Claim Timestamp: 00:32:52
 
@@ -2279,7 +2278,7 @@ Investigative Direction: Identify the TPUSA staff or vendor who authored and app
 
 ---
 
-**C-13800** Host Says Fundraising Emails Have Gone Out With Her Face and Name That She Did Not Author
+**C-923** Host Says Fundraising Emails Have Gone Out With Her Face and Name That She Did Not Author
 
 Claim Timestamp: 00:32:58
 
@@ -2295,7 +2294,7 @@ Investigative Direction: Compare with known fundraising emails bearing the host'
 
 ---
 
-**C-13801** Host Says Erika Has Not Said Anything to Her That Makes Her Suspicious
+**C-924** Host Says Erika Has Not Said Anything to Her That Makes Her Suspicious
 
 Claim Timestamp: 00:33:18
 
@@ -2311,7 +2310,7 @@ Investigative Direction: Compare with Erika Kirk's later statements and the host
 
 ---
 
-**C-13802** Host Says Fundraising Decisions Like These Are Not Made by Erika
+**C-925** Host Says Fundraising Decisions Like These Are Not Made by Erika
 
 Claim Timestamp: 00:33:50
 
@@ -2327,7 +2326,7 @@ Investigative Direction: Identify who approves fundraising campaigns at TPUSA af
 
 ---
 
-**C-13803** Host Says Erika Consulted a Priest and Prayed When She Felt Someone Had Put a Hex on Charlie
+**C-926** Host Says Erika Consulted a Priest and Prayed When She Felt Someone Had Put a Hex on Charlie
 
 Claim Timestamp: 00:34:35
 
@@ -2343,7 +2342,7 @@ Investigative Direction: Identify the priest and the date, and compare with Erik
 
 ---
 
-**C-13804** Host Says Charlie Was Very Happy With Erika
+**C-927** Host Says Charlie Was Very Happy With Erika
 
 Claim Timestamp: 00:35:02
 
@@ -2358,7 +2357,7 @@ Investigative Direction: Compare with accounts from others close to the couple.
 
 ---
 
-**C-13805** Host Says Erika Pushed Charlie to Think Through His Ideas
+**C-928** Host Says Erika Pushed Charlie to Think Through His Ideas
 
 Claim Timestamp: 00:35:10
 
@@ -2373,7 +2372,7 @@ Investigative Direction: Compare with accounts from others close to the couple.
 
 ---
 
-**C-13806** Host Says Neither She Nor Charlie Was Married When They Traveled Together
+**C-929** Host Says Neither She Nor Charlie Was Married When They Traveled Together
 
 Claim Timestamp: 00:35:22
 
@@ -2388,7 +2387,7 @@ Investigative Direction: Compare the dates of the host's and Charlie's marriages
 
 ---
 
-**C-13807** Host Says She Has Read That Her Husband Is a Freemason and Her Marriage Is Fake and Staged
+**C-930** Host Says She Has Read That Her Husband Is a Freemason and Her Marriage Is Fake and Staged
 
 Claim Timestamp: 00:35:49
 
@@ -2403,7 +2402,7 @@ Investigative Direction: None; the host reports claims made about her.
 
 ---
 
-**C-13808** Host Says She Has Read That She Is Funded by Russia, Qatar and Andrew Tate
+**C-931** Host Says She Has Read That She Is Funded by Russia, Qatar and Andrew Tate
 
 Claim Timestamp: 00:35:53
 
@@ -2418,7 +2417,7 @@ Investigative Direction: None; the host reports claims made about her.
 
 ---
 
-**C-13809** Host Says Many Pastors Around Charlie Were Not Honest About Being Financially Motivated
+**C-932** Host Says Many Pastors Around Charlie Were Not Honest About Being Financially Motivated
 
 Claim Timestamp: 00:38:33
 
@@ -2434,7 +2433,7 @@ Investigative Direction: Identify the pastors and review their financial ties to
 
 ---
 
-**C-13810** Host Says Operation Mocking Pastor Is a Real Thing
+**C-933** Host Says Operation Mocking Pastor Is a Real Thing
 
 Claim Timestamp: 00:38:49
 
@@ -2450,7 +2449,7 @@ Investigative Direction: Ask the host to define the alleged operation and name t
 
 ---
 
-**C-13811** Taylor Lorenz Wrote That Candace Is the Only Right-Wing Figure Who Seems Genuinely Devastated
+**C-935** Taylor Lorenz Wrote That Candace Is the Only Right-Wing Figure Who Seems Genuinely Devastated
 
 Claim Timestamp: 00:40:06
 
@@ -2465,7 +2464,7 @@ Investigative Direction: Locate the Taylor Lorenz post on X and confirm its text
 
 ---
 
-**C-13812** Viewer Comment Says an Amazon Listing From September 9 for a Book About Charlie Had Accurate Details of the 10th
+**C-936** Viewer Comment Says an Amazon Listing From September 9 for a Book About Charlie Had Accurate Details of the 10th
 
 Claim Timestamp: 00:40:41
 
@@ -2476,13 +2475,13 @@ Transcript Snippet: which were pretty accurate, of what happened on the 10th. I 
 Anchored Artifacts: A-3276.1
 Mentions: N-1
 Related Nodes: N-10140
-Supports: C-1195
+Supports: C-493
 Tags: relevance:core
 Investigative Direction: Obtain the Amazon listing history (page capture, ASIN record) and the publisher's account of the date error.
 
 ---
 
-**C-13813** Host Says Amazon Said the Listing Was a Technical Error and She Did Not Look Into It
+**C-937** Host Says Amazon Said the Listing Was a Technical Error and She Did Not Look Into It
 
 Claim Timestamp: 00:40:46
 
@@ -2498,7 +2497,7 @@ Investigative Direction: Find Amazon's public statement and any publisher explan
 
 ---
 
-**C-13814** Host Tells Viewers With Other Rooftop Footage to Send It to the Tips Address
+**C-939** Host Tells Viewers With Other Rooftop Footage to Send It to the Tips Address
 
 Claim Timestamp: 00:42:28
 
@@ -2514,7 +2513,7 @@ Investigative Direction: Count the footage submissions received and which were v
 
 ---
 
-**C-13815** Host Says the Tips Inbox Is So Full It Takes a Lot of Time and Should Be Kept for Actual Tips
+**C-940** Host Says the Tips Inbox Is So Full It Takes a Lot of Time and Should Be Kept for Actual Tips
 
 Claim Timestamp: 00:42:53
 
@@ -2529,7 +2528,7 @@ Investigative Direction: Ask the host for tip volumes and how tips are triaged.
 
 ---
 
-**C-13816** Host Agrees Etchings on Bullet Casings Look Suspect and Like a Government Signature
+**C-941** Host Agrees Etchings on Bullet Casings Look Suspect and Like a Government Signature
 
 Claim Timestamp: 00:43:24
 
@@ -2545,7 +2544,7 @@ Investigative Direction: Compile the documented cases of inscribed casings and t
 
 ---
 
-**C-13817** Host Replies That Is Correct to a Commenter Saying Erika Would Have Stopped Her by Now If She Disagreed
+**C-942** Host Replies That Is Correct to a Commenter Saying Erika Would Have Stopped Her by Now If She Disagreed
 
 Claim Timestamp: 00:43:40
 
@@ -2560,7 +2559,7 @@ Investigative Direction: Compare with any message exchange between Erika and the
 
 ---
 
-**C-13818** Host Says Erika Has Her Number and Recently Started Following Her
+**C-943** Host Says Erika Has Her Number and Recently Started Following Her
 
 Claim Timestamp: 00:43:44
 
@@ -2575,7 +2574,7 @@ Investigative Direction: Check the platform and date on which Erika's account st
 
 ---
 
-**C-13819** Host Says She Unfollowed Everyone Around Her Book Announcement and Did Not Refollow
+**C-944** Host Says She Unfollowed Everyone Around Her Book Announcement and Did Not Refollow
 
 Claim Timestamp: 00:43:53
 
@@ -2590,7 +2589,7 @@ Investigative Direction: Check the host's following list history against the boo
 
 ---
 
-**C-13820** Host Says Erika Has Not Lied Publicly or Asked Her to Stay Quiet
+**C-945** Host Says Erika Has Not Lied Publicly or Asked Her to Stay Quiet
 
 Claim Timestamp: 00:44:27
 
@@ -2605,7 +2604,7 @@ Investigative Direction: Compare with later Erika Kirk statements and the host's
 
 ---
 
-**C-13821** Host Asks Police Officers and Federal Employees to Email Tips to the Tips Address
+**C-946** Host Asks Police Officers and Federal Employees to Email Tips to the Tips Address
 
 Claim Timestamp: 00:45:15
 

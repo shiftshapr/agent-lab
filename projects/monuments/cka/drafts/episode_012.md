@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep012): N-134, N-325, N-10156, N-10180, N-10192, N-10840
   - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9258–C-9323
+  - Claim Range: C-1072–C-1152
   - Tip-minted Nodes (reintro-ep012): N-784
   - New Nodes Introduced: N-132, N-133, N-10149, N-10150, N-10151
   - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-126, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144, N-10148, N-10146, N-11217, N-10147
@@ -32,7 +32,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:16–00:14:30
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1321, N-61, N-10146*
+*Related: C-1094, N-61, N-10146*
 
 ---
 
@@ -45,7 +45,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:14:45–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-1322, N-61, N-10146*
+*Related: C-1099, N-61, N-10146*
 
 ---
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:16:43–00:18:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1323, C-1324, N-61, N-10146*
+*Related: C-1100, C-1101, N-61, N-10146*
 
 ---
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:10:39–00:11:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1325, N-132*
+*Related: C-1091, N-132*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:09:47–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1325, C-1334, N-132*
+*Related: C-1091, C-1126, N-132*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:19:58–00:20:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1327, N-10147*
+*Related: C-1104, N-10147*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:30:55–00:32:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1329, C-1335, N-133, N-69, N-10150*
+*Related: C-1121, C-1125, N-133, N-69, N-10150*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:21:52–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1330, N-125, N-10151*
+*Related: C-1108, N-125, N-10151*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:34:37–00:35:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1331, N-36, N-10148*
+*Related: C-1133, N-36, N-10148*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-128*
+*Related: C-1081, N-61, N-128*
 
 **A-1192.2** Shaner Broderick LinkedIn profile connection listing Phil Lyman as uncle, referenced as a factor in his securing an internship with Senator Mike Lee of Utah.
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-128, N-784*---
+*Related: C-1081, N-61, N-128, N-784*---
 
 **A-1193** Gernot Ohner LinkedIn profile
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:11:29–00:12:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1326, N-132*
+*Related: C-1092, N-132*
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:19:14–00:19:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1327, N-10147*
+*Related: C-1104, N-10147*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:28:21–00:29:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-*Related: C-1332*
+*Related: C-1115*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:23:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9289, N-3*
+*Related: C-1113, N-3*
 
 ---
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9322, N-3*
+*Related: C-1151, N-3*
 
 ---
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:03:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9263, C-9264, C-9267, C-9270, C-9271, N-3, N-61*
+*Related: C-1077, C-1078, C-1082, C-1085, C-1086, N-3, N-61*
 
 ---
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:43:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9316, C-9319, N-3*
+*Related: C-1145, C-1148, N-3*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:32:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9299, C-9300, C-9301, C-9302, N-3*
+*Related: C-1127, C-1128, C-1129, C-1130, N-3*
 
 ---
 
@@ -299,7 +299,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1192.1, A-1192.2, C-1328, N-61, N-132, N-10147*
+*Related: A-1192.1, A-1192.2, C-1081, N-61, N-132, N-10147*
 
 ---
 
@@ -312,7 +312,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1186.1, A-1187.1, A-1193.1, C-1325, C-1326, C-1334*
+*Related: A-1186.1, A-1187.1, A-1193.1, C-1091, C-1092, C-1126*
 
 ---
 
@@ -325,7 +325,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1191.1, C-1331, N-10148*
+*Related: A-1191.1, C-1133, N-10148*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, C-1335, N-69, N-10150*
+*Related: A-1189.1, C-1121, C-1125, N-69, N-10150*
 
 ---
 
@@ -351,7 +351,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1190.1, C-1330, N-10151*
+*Related: A-1190.1, C-1108, N-10151*
 
 ---
 
@@ -364,7 +364,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, N-133, N-10150*
+*Related: A-1189.1, C-1121, N-133, N-10150*
 
 ---
 
@@ -379,7 +379,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1183.1, A-1184.1, A-1185.1, C-1321, C-1322, C-1323, N-61*
+*Related: A-1183.1, A-1184.1, A-1185.1, C-1094, C-1099, C-1100, N-61*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1188.1, A-1194.1, C-1327, N-128*
+*Related: A-1188.1, A-1194.1, C-1104, N-128*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1191.1, C-1331, N-36*
+*Related: A-1191.1, C-1133, N-36*
 
 ---
 
@@ -431,7 +431,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, C-1335, N-133, N-69*
+*Related: A-1189.1, C-1121, C-1125, N-133, N-69*
 
 ---
 
@@ -444,7 +444,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1190.1, C-1330, N-125*
+*Related: A-1190.1, C-1108, N-125*
 
 ---
 
@@ -452,7 +452,7 @@ Investigative Pressure: Medium
 
 Subject of the investigation; the host describes his shifted position on Israel, the tour scheduling and his reported statements before death.
 
-*Related: C-9258, C-9260, C-9290, C-9291, C-9292, C-9295, C-9298, C-9300, C-9303, C-9304, C-9305, C-9307, C-9309, C-9310, C-9311, C-9313, C-9314, C-9315, C-9320, C-9323*
+*Related: C-1072, C-1074, C-1114, C-1116, C-1117, C-1120, C-1124, C-1128, C-1131, C-1132, C-1134, C-1136, C-1138, C-1139, C-1140, C-1142, C-1143, C-1144, C-1149, C-1152*
 
 ---
 
@@ -460,7 +460,7 @@ Subject of the investigation; the host describes his shifted position on Israel,
 
 Host; speaks for herself throughout.
 
-*Related: C-9258, C-9259, C-9263, C-9264, C-9265, C-9266, C-9267, C-9269, C-9270, C-9271, C-9272, C-9273, C-9274, C-9275, C-9276, C-9282, C-9283, C-9284, C-9285, C-9286, C-9287, C-9288, C-9289, C-9290, C-9291, C-9292, C-9293, C-9294, C-9295, C-9296, C-9297, C-9298, C-9299, C-9300, C-9301, C-9302, C-9303, C-9304, C-9305, C-9306, C-9307, C-9308, C-9309, C-9310, C-9311, C-9312, C-9313, C-9314, C-9315, C-9316, C-9317, C-9318, C-9319, C-9320, C-9321, C-9322, C-9323*
+*Related: C-1072, C-1073, C-1077, C-1078, C-1079, C-1080, C-1082, C-1084, C-1085, C-1086, C-1087, C-1088, C-1090, C-1093, C-1095, C-1105, C-1106, C-1107, C-1109, C-1110, C-1111, C-1112, C-1113, C-1114, C-1116, C-1117, C-1118, C-1119, C-1120, C-1122, C-1123, C-1124, C-1127, C-1128, C-1129, C-1130, C-1131, C-1132, C-1134, C-1135, C-1136, C-1137, C-1138, C-1139, C-1140, C-1141, C-1142, C-1143, C-1144, C-1145, C-1146, C-1147, C-1148, C-1149, C-1150, C-1151, C-1152*
 
 ---
 
@@ -468,7 +468,7 @@ Host; speaks for herself throughout.
 
 Accused shooter; compared by the host with the blue-hat man and discussed in Lyman's remarks.
 
-*Related: C-9273, C-9278*
+*Related: C-1088, C-1097*
 
 ---
 
@@ -476,7 +476,7 @@ Accused shooter; compared by the host with the blue-hat man and discussed in Lym
 
 The decoy boy; the host revisits his arrest and a possible blackmail motive.
 
-*Related: C-9286, C-9287*
+*Related: C-1110, C-1111*
 
 ---
 
@@ -484,7 +484,7 @@ The decoy boy; the host revisits his arrest and a possible blackmail motive.
 
 Commentator whom the host says called her anti-Semitic days before the death and is funded by a Kirk donor.
 
-*Related: C-9314, C-9315*
+*Related: C-1143, C-1144*
 
 ---
 
@@ -492,7 +492,7 @@ Commentator whom the host says called her anti-Semitic days before the death and
 
 Utah gubernatorial candidate; the host reports his texts, his statements to Alex Jones and NewsNation, and his dispute over his relationship to Shaner Broderick.
 
-*Related: C-9259, C-9261, C-9263, C-9264, C-9265, C-9267, C-9268, C-9270, C-9271, C-9275, C-9276, C-9277, C-9278, C-9279, C-9280, C-9281*
+*Related: C-1073, C-1075, C-1077, C-1078, C-1079, C-1082, C-1083, C-1085, C-1086, C-1093, C-1095, C-1096, C-1097, C-1098, C-1102, C-1103*
 
 ---
 
@@ -500,14 +500,14 @@ Utah gubernatorial candidate; the host reports his texts, his statements to Alex
 
 Interviewer of Phil Lyman in the segment the host replays.
 
-*Related: C-9277, C-9278*
+*Related: C-1096, C-1097*
 
 ---
 
 **N-98** Robert Shillman
 Donor whom the host says funds Laura Loomer (transcribed Shuman).
 
-*Related: C-9314*
+*Related: C-1143*
 
 ---
 
@@ -515,7 +515,7 @@ Donor whom the host says funds Laura Loomer (transcribed Shuman).
 
 The UVU student the host calls Nick; Lyman's visit to his house and the campaign mix-up are discussed.
 
-*Related: C-9263, C-9264*
+*Related: C-1077, C-1078*
 
 ---
 
@@ -523,7 +523,7 @@ The UVU student the host calls Nick; Lyman's visit to his house and the campaign
 
 Hospital CEO and surgeon whose appointment the host says was announced just before the tour (transcribed Zenger).
 
-*Related: C-9296, C-9298*
+*Related: C-1122, C-1124*
 
 ---
 
@@ -531,7 +531,7 @@ Hospital CEO and surgeon whose appointment the host says was announced just befo
 
 Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.
 
-*Related: C-9265, C-9266*
+*Related: C-1079, C-1080*
 
 ---
 
@@ -539,7 +539,7 @@ Former Operation Underground Railroad head; the host's source says Lyman met him
 
 Turning Point USA; the host challenges its executives to deny her claims.
 
-*Related: C-9260, C-9292, C-9293, C-9294, C-9298, C-9304, C-9307, C-9308, C-9309, C-9312*
+*Related: C-1074, C-1117, C-1118, C-1119, C-1124, C-1132, C-1136, C-1137, C-1138, C-1141*
 
 ---
 
@@ -547,7 +547,7 @@ Turning Point USA; the host challenges its executives to deny her claims.
 
 Outlet to which Phil Lyman reiterated his driveway account.
 
-*Related: C-9261*
+*Related: C-1075*
 
 ---
 
@@ -555,7 +555,7 @@ Outlet to which Phil Lyman reiterated his driveway account.
 
 Site of the September 10 event; the second Utah stop was scheduled 20 days later at USU.
 
-*Related: C-9292*
+*Related: C-1117*
 
 ---
 
@@ -563,7 +563,7 @@ Site of the September 10 event; the second Utah stop was scheduled 20 days later
 
 Topic cited for the host's claim about creator payments through an agent of Israel.
 
-*Related: C-9316*
+*Related: C-1145*
 
 ---
 
@@ -571,7 +571,7 @@ Topic cited for the host's claim about creator payments through an agent of Isra
 
 Topic covering George Zinn's role as the decoy boy.
 
-*Related: C-9285, C-9286, C-9287*
+*Related: C-1109, C-1110, C-1111*
 
 ---
 
@@ -579,7 +579,7 @@ Topic covering George Zinn's role as the decoy boy.
 
 Topic covering donor pressure on Kirk about Israel.
 
-*Related: C-9258, C-9307, C-9310, C-9313*
+*Related: C-1072, C-1136, C-1139, C-1142*
 
 ---
 
@@ -587,7 +587,7 @@ Topic covering donor pressure on Kirk about Israel.
 
 Topic covering the assassination investigation as a whole.
 
-*Related: C-9290*
+*Related: C-1114*
 
 ---
 
@@ -595,7 +595,7 @@ Topic covering the assassination investigation as a whole.
 
 Topic covering the dispute over Kirk's position on Israel and the letter.
 
-*Related: C-9258, C-9260, C-9303, C-9304, C-9305, C-9306, C-9313*
+*Related: C-1072, C-1074, C-1131, C-1132, C-1134, C-1135, C-1142*
 
 ---
 
@@ -603,7 +603,7 @@ Topic covering the dispute over Kirk's position on Israel and the letter.
 
 Topic covering the removal of cameras after the shooting.
 
-*Related: C-9299, C-9302*
+*Related: C-1127, C-1130*
 
 ---
 
@@ -611,7 +611,7 @@ Topic covering the removal of cameras after the shooting.
 
 Topic covering the wound location and trajectory.
 
-*Related: C-9320, C-9323*
+*Related: C-1149, C-1152*
 
 ---
 
@@ -619,7 +619,7 @@ Topic covering the wound location and trajectory.
 
 Topic covering the plane transponder anomaly.
 
-*Related: C-9266*
+*Related: C-1080*
 
 ---
 
@@ -627,7 +627,7 @@ Topic covering the plane transponder anomaly.
 
 Church in which the host says Mike Mitchell is a Boy Scout leader.
 
-*Related: C-9283*
+*Related: C-1106*
 
 ---
 
@@ -635,7 +635,7 @@ Church in which the host says Mike Mitchell is a Boy Scout leader.
 
 Topic covering whether Kirk wore a bulletproof vest.
 
-*Related: C-9291*
+*Related: C-1116*
 
 ---
 
@@ -643,7 +643,7 @@ Topic covering whether Kirk wore a bulletproof vest.
 
 Topic covering alleged donor leverage over Kirk.
 
-*Related: C-9310*
+*Related: C-1139*
 
 ---
 
@@ -651,7 +651,7 @@ Topic covering alleged donor leverage over Kirk.
 
 Topic cited for the host's claim of a communist underground targeting children.
 
-*Related: C-9317*
+*Related: C-1146*
 
 ---
 
@@ -659,7 +659,7 @@ Topic cited for the host's claim of a communist underground targeting children.
 
 Topic covering the thin public record on Mike Mitchell.
 
-*Related: C-9283, C-9284*
+*Related: C-1106, C-1107*
 
 ---
 
@@ -667,7 +667,7 @@ Topic covering the thin public record on Mike Mitchell.
 
 Topic covering Phil Lyman's proximity to and behavior in the investigation.
 
-*Related: C-9261, C-9262, C-9263, C-9264, C-9267*
+*Related: C-1075, C-1076, C-1077, C-1078, C-1082*
 
 ---
 
@@ -675,7 +675,7 @@ Topic covering Phil Lyman's proximity to and behavior in the investigation.
 
 Topic covering the hospital routing question.
 
-*Related: C-9295*
+*Related: C-1120*
 
 ---
 
@@ -683,7 +683,7 @@ Topic covering the hospital routing question.
 
 Topic covering bullet trajectory and caliber questions.
 
-*Related: C-9278, C-9319*
+*Related: C-1097, C-1148*
 
 ---
 
@@ -691,7 +691,7 @@ Topic covering bullet trajectory and caliber questions.
 
 Topic covering the camera operator's behavior.
 
-*Related: C-9299, C-9300, C-9301*
+*Related: C-1127, C-1128, C-1129*
 
 ---
 
@@ -699,7 +699,7 @@ Topic covering the camera operator's behavior.
 
 Topic covering whether an ambulance stood by at the event.
 
-*Related: C-9297*
+*Related: C-1123*
 
 ---
 
@@ -707,7 +707,7 @@ Topic covering whether an ambulance stood by at the event.
 
 Topic covering the new back-camera and platform setup on the 2025 tour.
 
-*Related: C-9302*
+*Related: C-1130*
 
 ---
 
@@ -715,7 +715,7 @@ Topic covering the new back-camera and platform setup on the 2025 tour.
 Node Type: Organization
 Organization. Anti-trafficking charity formerly led by Tim Ballard; the host recalls its shirts on the owners of the transponder plane and a Lyman meeting with Ballard.
 
-*Related: C-9265, C-9266*
+*Related: C-1079, C-1080*
 
 ---
 
@@ -724,7 +724,7 @@ Organization. Anti-trafficking charity formerly led by Tim Ballard; the host rec
 Node Type: Organization
 Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after the UVU event.
 
-*Related: C-9292*
+*Related: C-1117*
 
 ---
 
@@ -733,13 +733,13 @@ Organization. Second Utah campus on Kirk's tour, scheduled about 20 days after t
 Node Type: Organization
 Organization. Hospital to which Kirk was taken; the host raises routing, trauma-level and leadership-change questions.
 
-*Related: C-9295, C-9296, C-9298*
+*Related: C-1120, C-1122, C-1124*
 
 ---
 
 ## 5. Claim Register
 
-**C-1321** Phil Lyman told Alex Jones he was outside at the east end, heard a loud boom, encountered two girls "very goth, very black" who did not flee, and quoted one as saying "Go f yourselves."
+**C-1094** Phil Lyman told Alex Jones he was outside at the east end, heard a loud boom, encountered two girls "very goth, very black" who did not flee, and quoted one as saying "Go f yourselves."
 
 Claim Timestamp: 00:12:16–00:14:30
 
@@ -750,11 +750,11 @@ Mentions: N-61, N-93
 
 Related Nodes: N-10146
 
-Investigative Direction: Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1322) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.
+Investigative Direction: Compare Phil's Alex Jones account verbatim against (a) the NewsNation account (C-1099) and (b) the 12:23 video metadata (A-1185.1) to characterize the discrepancy as edit, memory, or misrepresentation.
 
 ---
 
-**C-1322** Phil Lyman told NewsNation he was walking into a building when he heard a loud bang behind him, then ran out to investigate.
+**C-1099** Phil Lyman told NewsNation he was walking into a building when he heard a loud bang behind him, then ran out to investigate.
 
 Claim Timestamp: 00:14:45–00:15:55
 
@@ -769,7 +769,7 @@ Investigative Direction: Cross-reference timestamp of "ran out" with the 12:23 v
 
 ---
 
-**C-1323** Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.
+**C-1100** Video metadata timestamp shows Phil Lyman inside the Sorensen Center at 12:23 on the day of the shooting, walking out calmly.
 
 Claim Timestamp: 00:15:58
 
@@ -784,7 +784,7 @@ Investigative Direction: Obtain original file with full EXIF metadata; forensica
 
 ---
 
-**C-1324** The two individuals in Phil Lyman's aftermath footage are wearing black clothing but do not display abnormal behavior; the host states one may be a man.
+**C-1101** The two individuals in Phil Lyman's aftermath footage are wearing black clothing but do not display abnormal behavior; the host states one may be a man.
 
 Claim Timestamp: 00:17:21–00:18:35
 
@@ -799,7 +799,7 @@ Investigative Direction: Compare visible individuals in A-1185.1 with the two co
 
 ---
 
-**C-1325** Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video
+**C-1091** Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Ohner, via Face-Match to BearingPoint Graz Video
 
 Claim Timestamp: 00:10:39–00:11:29
 
@@ -814,7 +814,7 @@ Investigative Direction: Obtain the original Broderick companion photo from prio
 
 ---
 
-**C-1326** Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job
+**C-1092** Host Says Gernot Ohner's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job
 
 Claim Timestamp: 00:11:29–00:12:20
 
@@ -828,7 +828,7 @@ Investigative Direction: Capture and archive the LinkedIn profile as displayed; 
 
 ---
 
-**C-1327** A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the "Buzzards and Bees" gothic-prom page.
+**C-1104** A Belfast viewer matched the second companion's face via a facial-recognition search to a single result in Provo, Utah – on the "Buzzards and Bees" gothic-prom page.
 
 Claim Timestamp: 00:19:14–00:19:58
 
@@ -842,7 +842,7 @@ Investigative Direction: Replicate the facial search; identify the named subject
 
 ---
 
-**C-1328** Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.
+**C-1081** Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.
 
 Claim Timestamp: 00:06:43–00:07:30
 
@@ -856,7 +856,7 @@ Investigative Direction: Archive Instagram and LinkedIn snapshots from prior to 
 
 ---
 
-**C-1329** The Daily Mail reports Kash Patel fired the Utah FBI Bureau chief and additional personnel before Charlie Kirk's assassination and replaced the chief with Robert Bohls.
+**C-1121** The Daily Mail reports Kash Patel fired the Utah FBI Bureau chief and additional personnel before Charlie Kirk's assassination and replaced the chief with Robert Bohls.
 
 Claim Timestamp: 00:30:55–00:32:40
 
@@ -871,7 +871,7 @@ Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah f
 
 ---
 
-**C-1330** A November 1999 article describes Salt Lake County Sheriff's Office Detective Mike Mitchell as an undercover detective using online personas to lure suspected pedophiles, beginning approximately one year prior (i.e., circa 1998).
+**C-1108** A November 1999 article describes Salt Lake County Sheriff's Office Detective Mike Mitchell as an undercover detective using online personas to lure suspected pedophiles, beginning approximately one year prior (i.e., circa 1998).
 
 Claim Timestamp: 00:21:52–00:22:45
 
@@ -886,7 +886,7 @@ Investigative Direction: Confirm continuity between the 1999 Salt Lake County Sh
 
 ---
 
-**C-1331** Roughly two weeks after the September 10, 2025 assassination, Israeli Prime Minister Netanyahu's office released a May 2025 letter attributed to Charlie Kirk expressing "deep love for Israel" and offering strategic counsel.
+**C-1133** Roughly two weeks after the September 10, 2025 assassination, Israeli Prime Minister Netanyahu's office released a May 2025 letter attributed to Charlie Kirk expressing "deep love for Israel" and offering strategic counsel.
 
 Claim Timestamp: 00:34:37–00:35:21
 
@@ -901,7 +901,7 @@ Investigative Direction: Obtain the original letter or email (timestamp, metadat
 
 ---
 
-**C-1332** The supplier who had provided Charlie Kirk's campus-tour bulletproof vests reports his contract was not renewed for the final spring tour, with Charlie allegedly wanting an army-style metal vest instead.
+**C-1115** The supplier who had provided Charlie Kirk's campus-tour bulletproof vests reports his contract was not renewed for the final spring tour, with Charlie allegedly wanting an army-style metal vest instead.
 
 Claim Timestamp: 00:28:21–00:29:10
 
@@ -916,7 +916,7 @@ Investigative Direction: Obtain the underlying email and supplier invoices; veri
 
 ---
 
-**C-1333** Gernot Ohner's face was matched to a German-language blog post titled "Anniversary Hike, 10 Years on Foot to the Sea" featuring a group of 30-year-olds recreating a hike taken at age 20.
+**C-1089** Gernot Ohner's face was matched to a German-language blog post titled "Anniversary Hike, 10 Years on Foot to the Sea" featuring a group of 30-year-olds recreating a hike taken at age 20.
 
 Claim Timestamp: 00:09:47–00:10:39
 
@@ -930,7 +930,7 @@ Investigative Direction: Confirm authorship and dating of the blog; verify Gerno
 
 ---
 
-**C-1334** Host Thinks Robert Bohls Was in First Week at Utah FBI Office When Kirk Was Shot
+**C-1126** Host Thinks Robert Bohls Was in First Week at Utah FBI Office When Kirk Was Shot
 
 Claim Timestamp: 00:32:15
 
@@ -945,7 +945,7 @@ Investigative Direction: Verify Bowles's official start date via FBI HR records 
 
 ---
 
-**C-1335** Host calls Robert Bohls's move from decades in Washington to the Utah FBI post an unusual placement
+**C-1125** Host calls Robert Bohls's move from decades in Washington to the Utah FBI post an unusual placement
 
 Claim Timestamp: 00:31:56–00:32:40
 Claim: The host says Robert Bohls, installed at the Utah FBI office in August 2025, had been in Washington DC for decades, and calls his relocation to Utah an unusual placement that adds to everything feeling "a little too brand new."
@@ -957,7 +957,7 @@ Investigative Direction: Confirm Robert Bohls's prior postings and the date of h
 
 ---
 
-**C-9258** Host Says Kirk Is Being Memorialized as a Friend of Israel by People Who Threatened Him
+**C-1072** Host Says Kirk Is Being Memorialized as a Friend of Israel by People Who Threatened Him
 
 Claim Timestamp: 00:00:01
 
@@ -973,7 +973,7 @@ Investigative Direction: Identify the specific people and statements the host me
 
 ---
 
-**C-9259** Host Says Two Friends of Phil Lyman's Nephew Retraced the Killer's Path
+**C-1073** Host Says Two Friends of Phil Lyman's Nephew Retraced the Killer's Path
 
 Claim Timestamp: 00:00:01
 
@@ -989,7 +989,7 @@ Investigative Direction: Obtain Shaner Broderick's original posts describing the
 
 ---
 
-**C-9260** Host Says Netanyahu Released the Kirk Letter About Two Weeks After the Death, Perhaps With TPUSA Help
+**C-1074** Host Says Netanyahu Released the Kirk Letter About Two Weeks After the Death, Perhaps With TPUSA Help
 
 Claim Timestamp: 00:01:30
 
@@ -1000,13 +1000,13 @@ Transcript Snippet: It took him a little over 2 weeks but now BB Netanyahu, with
 Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1
 Related Nodes: N-10000, N-10056
-Supports: C-1331
+Supports: C-1133
 Tags: relevance:context
 Investigative Direction: Establish who supplied the letter to the Prime Minister's office and to the press, and whether anyone at Turning Point USA coordinated its release.
 
 ---
 
-**C-9261** Host Says Phil Lyman Told Fox News His Car Was in the Driveway 20 Minutes Before the Killer Passed
+**C-1075** Host Says Phil Lyman Told Fox News His Car Was in the Driveway 20 Minutes Before the Killer Passed
 
 Claim Timestamp: 00:02:39
 
@@ -1017,13 +1017,13 @@ Transcript Snippet: 20 minutes before I pulled into the driveway, my aunt's hous
 Anchored Artifacts: 
 Mentions: N-61
 Related Nodes: N-10006, N-10144
-Supports: C-1307
+Supports: C-1014
 Tags: relevance:core
 Investigative Direction: Locate the Fox News interview and compare Lyman's stated arrival time with the doorbell-camera footage of his vehicle.
 
 ---
 
-**C-9262** Host Says Shaner Broderick's Map of the Killer's Path Was Used by the Media
+**C-1076** Host Says Shaner Broderick's Map of the Killer's Path Was Used by the Media
 
 Claim Timestamp: 00:02:39
 
@@ -1039,7 +1039,7 @@ Investigative Direction: Identify which outlets published Broderick's map and ho
 
 ---
 
-**C-9263** Host Says Phil Lyman Told Her Nick Never Worked on His Campaign
+**C-1077** Host Says Phil Lyman Told Her Nick Never Worked on His Campaign
 
 Claim Timestamp: 00:03:35
 
@@ -1055,7 +1055,7 @@ Investigative Direction: Obtain the text exchange between the host and Lyman, an
 
 ---
 
-**C-9264** Host Says Lyman Gave Helping Nick Identify a White Vehicle as His Reason for Visiting Nick's House
+**C-1078** Host Says Lyman Gave Helping Nick Identify a White Vehicle as His Reason for Visiting Nick's House
 
 Claim Timestamp: 00:04:45
 
@@ -1066,13 +1066,13 @@ Transcript Snippet: Nick was particularly asking him to determine who owned a wh
 Anchored Artifacts: A-2999.1
 Mentions: N-3, N-61, N-126
 Related Nodes: N-10144
-Supports: C-1314
+Supports: C-1038
 Tags: relevance:core
 Investigative Direction: Ask Nick and Lyman what, if anything, Lyman learned about the white vehicle and why that was a reason to visit on that Saturday.
 
 ---
 
-**C-9265** Host Says a Strong Source Reports Lyman Met Tim Ballard in Town That Saturday
+**C-1079** Host Says a Strong Source Reports Lyman Met Tim Ballard in Town That Saturday
 
 Claim Timestamp: 00:04:45
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Ask Ballard and Lyman whether they met that Saturday an
 
 ---
 
-**C-9266** Host Says the Owners of the Transponder Plane Wore Operation Underground Railroad T-Shirts
+**C-1080** Host Says the Owners of the Transponder Plane Wore Operation Underground Railroad T-Shirts
 
 Claim Timestamp: 00:05:58
 
@@ -1104,7 +1104,7 @@ Investigative Direction: Identify the plane's owners from FAA records and find t
 
 ---
 
-**C-9267** Host Says Phil Lyman Now Says Shaner Is His Cousin and May Be Confused
+**C-1082** Host Says Phil Lyman Now Says Shaner Is His Cousin and May Be Confused
 
 Claim Timestamp: 00:06:43
 
@@ -1115,13 +1115,13 @@ Transcript Snippet: Actually maybe Shaner's confused.
 Anchored Artifacts: A-2999.1
 Mentions: N-61, N-128, N-3
 Related Nodes: N-10144
-Contradicts: C-1328
+Contradicts: C-1081
 Tags: relevance:core
 Investigative Direction: Obtain Lyman family records or public genealogy showing the relationship; compare with Broderick's earlier posts.
 
 ---
 
-**C-9268** Host Says Broderick Was Chosen for an Internship With Senator Mike Lee
+**C-1083** Host Says Broderick Was Chosen for an Internship With Senator Mike Lee
 
 Claim Timestamp: 00:06:43
 
@@ -1136,7 +1136,7 @@ Investigative Direction: Confirm the internship dates with Senator Lee's office 
 
 ---
 
-**C-9269** Host Says Broderick Wiped His LinkedIn and Facebook and Privatized Instagram After Her Previous Episode
+**C-1084** Host Says Broderick Wiped His LinkedIn and Facebook and Privatized Instagram After Her Previous Episode
 
 Claim Timestamp: 00:07:30
 
@@ -1152,7 +1152,7 @@ Investigative Direction: Retrieve archived copies of the deleted pages and note 
 
 ---
 
-**C-9270** Host Says She Asked Lyman Three Times by Text to Help Identify the Two People in the Photo
+**C-1085** Host Says She Asked Lyman Three Times by Text to Help Identify the Two People in the Photo
 
 Claim Timestamp: 00:07:30
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Obtain the text thread showing each request and Lyman's
 
 ---
 
-**C-9271** Host Says Lyman Finally Said He Had No Idea Who the Two Individuals Were
+**C-1086** Host Says Lyman Finally Said He Had No Idea Who the Two Individuals Were
 
 Claim Timestamp: 00:08:25
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Obtain the text thread with Lyman and ask Broderick who
 
 ---
 
-**C-9272** Host Says Nobody Emailed to Identify Either of the Two Companions
+**C-1087** Host Says Nobody Emailed to Identify Either of the Two Companions
 
 Claim Timestamp: 00:08:25
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Review the tip-line log to confirm no identification ar
 
 ---
 
-**C-9273** Host Says the Man in the Blue Hat Resembles the Blurred Stairs Figure More Than Tyler Robinson Does
+**C-1088** Host Says the Man in the Blue Hat Resembles the Blurred Stairs Figure More Than Tyler Robinson Does
 
 Claim Timestamp: 00:08:25
 
@@ -1216,7 +1216,7 @@ Investigative Direction: Compare the blue-hat man's height and build with the bl
 
 ---
 
-**C-9274** Host Says One Companion Is Austrian, Which Explains Why Nobody Recognized Him
+**C-1090** Host Says One Companion Is Austrian, Which Explains Why Nobody Recognized Him
 
 Claim Timestamp: 00:09:47
 
@@ -1227,13 +1227,13 @@ Transcript Snippet: We were able to identify one of those individuals in the pho
 Anchored Artifacts: A-1187.1
 Mentions: N-3, N-132
 Related Nodes: N-10147
-Supports: C-1325
+Supports: C-1091
 Tags: relevance:core
 Investigative Direction: Verify Gernot Ohner's nationality and Utah residency through public records and his employer.
 
 ---
 
-**C-9275** Host Says Lyman Suggested the Gothic Girls Might Have Been Suspicious or Aware of the Shooting
+**C-1093** Host Says Lyman Suggested the Gothic Girls Might Have Been Suspicious or Aware of the Shooting
 
 Claim Timestamp: 00:11:29
 
@@ -1244,13 +1244,13 @@ Transcript Snippet: suggesting that {quote} {unquote} gothic girls might have be
 Anchored Artifacts: A-1183.1
 Mentions: N-3, N-61
 Related Nodes: N-10146
-Supports: C-1309
+Supports: C-1022
 Tags: relevance:core
 Investigative Direction: Review the Alex Jones segment to determine whether Lyman himself drew that implication.
 
 ---
 
-**C-9276** Host Says Phil Lyman Sent Her Footage Recorded After Multiple Shots
+**C-1095** Host Says Phil Lyman Sent Her Footage Recorded After Multiple Shots
 
 Claim Timestamp: 00:12:20
 
@@ -1266,7 +1266,7 @@ Investigative Direction: Run audio analysis on the original file to count discre
 
 ---
 
-**C-9277** Host Says Lyman Told Alex Jones He Heard of Video of a Man Leaving the Roof and Escaping by Another Route
+**C-1096** Host Says Lyman Told Alex Jones He Heard of Video of a Man Leaving the Roof and Escaping by Another Route
 
 Claim Timestamp: 00:12:20
 
@@ -1282,7 +1282,7 @@ Investigative Direction: Obtain the full Alex Jones interview and ask Lyman who 
 
 ---
 
-**C-9278** Host Plays Lyman Saying He Does Not Believe the .30-06 Was Ever on the Roof
+**C-1097** Host Plays Lyman Saying He Does Not Believe the .30-06 Was Ever on the Roof
 
 Claim Timestamp: 00:13:16
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Compare Lyman's statement with the official account of 
 
 ---
 
-**C-9279** Host Plays Lyman Telling NewsNation He Thought the Shot Came From the Roof Above Him
+**C-1098** Host Plays Lyman Telling NewsNation He Thought the Shot Came From the Roof Above Him
 
 Claim Timestamp: 00:14:40
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Obtain the NewsNation segment and compare with Lyman's 
 
 ---
 
-**C-9280** Host Says the Profanity Comment Came Before Lyman Spoke to the Two People in His Video
+**C-1102** Host Says the Profanity Comment Came Before Lyman Spoke to the Two People in His Video
 
 Claim Timestamp: 00:17:46
 
@@ -1330,7 +1330,7 @@ Investigative Direction: Review the original video with clean audio to establish
 
 ---
 
-**C-9281** Host Says Lyman Asked the Two, Did You See Where That Came From, in a Normal Conversation
+**C-1103** Host Says Lyman Asked the Two, Did You See Where That Came From, in a Normal Conversation
 
 Claim Timestamp: 00:18:35
 
@@ -1341,13 +1341,13 @@ Transcript Snippet: So he says, "Did you see where that came from?" It seems lik
 Anchored Artifacts: A-1185.1
 Mentions: N-61
 Related Nodes: N-10146
-Supports: C-1324
+Supports: C-1101
 Tags: relevance:core
 Investigative Direction: Obtain enhanced audio of the exchange and, if possible, identify the two people to ask what they heard.
 
 ---
 
-**C-9282** Host Says the Side-by-Side Is a Match but She Cannot Be 100 Percent Sure
+**C-1105** Host Says the Side-by-Side Is a Match but She Cannot Be 100 Percent Sure
 
 Claim Timestamp: 00:19:58
 
@@ -1358,13 +1358,13 @@ Transcript Snippet: I am certain can't say 100%, okay? Because we need to find t
 Anchored Artifacts: A-1188.1
 Mentions: N-3
 Related Nodes: N-10147
-Supports: C-1327
+Supports: C-1104
 Tags: relevance:core
 Investigative Direction: Have an independent facial examiner compare the two images and identify the person named on the Buzzards and Bees page.
 
 ---
 
-**C-9283** Host Says Mike Mitchell Is a Boy Scout Leader in the LDS Church
+**C-1106** Host Says Mike Mitchell Is a Boy Scout Leader in the LDS Church
 
 Claim Timestamp: 00:20:53
 
@@ -1380,7 +1380,7 @@ Investigative Direction: Verify with LDS Church and Scouting records whether the
 
 ---
 
-**C-9284** Host Says Mitchell Began as a Detective in 1999 and Served 25 Years
+**C-1107** Host Says Mitchell Began as a Detective in 1999 and Served 25 Years
 
 Claim Timestamp: 00:20:53
 
@@ -1391,13 +1391,13 @@ Transcript Snippet: he was on the force for 25 years. This individual began his 
 Anchored Artifacts: 
 Mentions: N-125, N-3
 Related Nodes: N-10141, N-10151
-Supports: C-1304
+Supports: C-1002
 Tags: relevance:core
 Investigative Direction: Obtain Mitchell's service record to reconcile a 1999 start with a 1999 article saying he had already worked internet cases for about a year.
 
 ---
 
-**C-9285** Host Says Mitchell's Online Work Does Not by Itself Show He Wrote the Fake Bed Messages
+**C-1109** Host Says Mitchell's Online Work Does Not by Itself Show He Wrote the Fake Bed Messages
 
 Claim Timestamp: 00:22:45
 
@@ -1408,13 +1408,13 @@ Transcript Snippet: Just because he's creating messages online first and foremos
 Anchored Artifacts: 
 Mentions: N-125, N-3
 Related Nodes: N-10151, N-10032
-Qualifies: C-1330
+Qualifies: C-1108
 Tags: relevance:core
 Investigative Direction: Establish what the fake bed messages were and who had authorship access, then test any link to Mitchell by records.
 
 ---
 
-**C-9286** Host Says George Zinn Was Arrested With Child Abuse Images on His Phone
+**C-1110** Host Says George Zinn Was Arrested With Child Abuse Images on His Phone
 
 Claim Timestamp: 00:22:45
 
@@ -1425,13 +1425,13 @@ Transcript Snippet: he gets arrested because he has children being sexually abus
 Anchored Artifacts: 
 Mentions: N-42, N-3
 Related Nodes: N-10032
-Supports: C-1158
+Supports: C-157
 Tags: relevance:core
 Investigative Direction: Pull the court filings and charging documents for Zinn's arrest and the device evidence.
 
 ---
 
-**C-9287** Host Wonders Whether Zinn Was Blackmailed Into Playing the Decoy Boy to Give the Shooter Time
+**C-1111** Host Wonders Whether Zinn Was Blackmailed Into Playing the Decoy Boy to Give the Shooter Time
 
 Claim Timestamp: 00:22:45
 
@@ -1447,7 +1447,7 @@ Investigative Direction: Examine Zinn's phone, court filings and any police inte
 
 ---
 
-**C-9288** Host Says She Suspects the Goth Person Is Not From Utah
+**C-1112** Host Says She Suspects the Goth Person Is Not From Utah
 
 Claim Timestamp: 00:23:38
 
@@ -1463,7 +1463,7 @@ Investigative Direction: Search overseas social media and gothic-scene networks 
 
 ---
 
-**C-9289** Host Asks for Tips at tips@candaceowens.com and Asks Viewers Not to Send TikToks
+**C-1113** Host Asks for Tips at tips@candaceowens.com and Asks Viewers Not to Send TikToks
 
 Claim Timestamp: 00:23:38
 
@@ -1479,7 +1479,7 @@ Investigative Direction: Review the tip-line inbox for submissions naming the go
 
 ---
 
-**C-9290** Host Says the Assassination May Be Akin to a Regicide, Possibly Involving Betrayal by People Around Kirk
+**C-1114** Host Says the Assassination May Be Akin to a Regicide, Possibly Involving Betrayal by People Around Kirk
 
 Claim Timestamp: 00:27:32
 
@@ -1495,7 +1495,7 @@ Investigative Direction: Identify the specific advisers and decisions she sugges
 
 ---
 
-**C-9291** Host Does Not Think Kirk Was Wearing a Bullet Vest That Day
+**C-1116** Host Does Not Think Kirk Was Wearing a Bullet Vest That Day
 
 Claim Timestamp: 00:28:21
 
@@ -1506,13 +1506,13 @@ Transcript Snippet: even though I don't think he was actually wearing a bullet v
 Anchored Artifacts: A-1195.1
 Mentions: N-1, N-3
 Related Nodes: N-10103
-Supports: C-1332
+Supports: C-1115
 Tags: relevance:core
 Investigative Direction: Check autopsy and clothing evidence for any body armor, and the footage of Charlie before the event.
 
 ---
 
-**C-9292** Host Says Kirk Was Scheduled for Two Utah Events 20 Days Apart, UVU and USU
+**C-1117** Host Says Kirk Was Scheduled for Two Utah Events 20 Days Apart, UVU and USU
 
 Claim Timestamp: 00:29:10
 
@@ -1528,7 +1528,7 @@ Investigative Direction: Obtain the tour schedule and booking correspondence for
 
 ---
 
-**C-9293** Host Says TPUSA Normally Schedules Same-State Stops Back to Back
+**C-1118** Host Says TPUSA Normally Schedules Same-State Stops Back to Back
 
 Claim Timestamp: 00:29:10
 
@@ -1544,7 +1544,7 @@ Investigative Direction: Compare earlier tour schedules for other states to test
 
 ---
 
-**C-9294** Host Says She Toured With TPUSA Every Year Except This Year
+**C-1119** Host Says She Toured With TPUSA Every Year Except This Year
 
 Claim Timestamp: 00:30:04
 
@@ -1560,7 +1560,7 @@ Investigative Direction: Corroborate the host's past tour participation with arc
 
 ---
 
-**C-9295** Host Says Tips Say the Hospital Was Not the Closest or Best Choice for the Wound
+**C-1120** Host Says Tips Say the Hospital Was Not the Closest or Best Choice for the Wound
 
 Claim Timestamp: 00:30:04
 
@@ -1576,7 +1576,7 @@ Investigative Direction: Obtain trauma-center designations and drive-time data f
 
 ---
 
-**C-9296** Host Says the Hospital Had Just Announced a New CEO, Surgeon Andrew Zenger
+**C-1122** Host Says the Hospital Had Just Announced a New CEO, Surgeon Andrew Zenger
 
 Claim Timestamp: 00:30:55
 
@@ -1592,7 +1592,7 @@ Investigative Direction: Confirm the date and press release of the CEO announcem
 
 ---
 
-**C-9297** Host Says It Seemed Atypical That No Ambulance Was on Standby
+**C-1123** Host Says It Seemed Atypical That No Ambulance Was on Standby
 
 Claim Timestamp: 00:30:55
 
@@ -1608,7 +1608,7 @@ Investigative Direction: Check Utah event-safety rules and the event permit for 
 
 ---
 
-**C-9298** Host Says Zenger's Appointment Was Announced the Same Day as Charlie's Tour
+**C-1124** Host Says Zenger's Appointment Was Announced the Same Day as Charlie's Tour
 
 Claim Timestamp: 00:30:55
 
@@ -1624,7 +1624,7 @@ Investigative Direction: Compare the hospital's press release date with the tour
 
 ---
 
-**C-9299** Host Says the Man Who Took Down the Cameras Did So Around Minute Four
+**C-1127** Host Says the Man Who Took Down the Cameras Did So Around Minute Four
 
 Claim Timestamp: 00:32:40
 
@@ -1635,13 +1635,13 @@ Transcript Snippet: the individual who I told you guys that I recognized had tak
 Anchored Artifacts: A-3001.1
 Mentions: N-3
 Related Nodes: N-10076, N-10192
-Supports: C-4902
+Supports: C-376
 Tags: relevance:core
 Investigative Direction: Compare the camera-removal timing with the video timeline and obtain the footage showing it.
 
 ---
 
-**C-9300** Host Says the Camera Man Was Behind Charlie the Whole Time, Which She Finds Unusual
+**C-1128** Host Says the Camera Man Was Behind Charlie the Whole Time, Which She Finds Unusual
 
 Claim Timestamp: 00:32:40
 
@@ -1657,7 +1657,7 @@ Investigative Direction: Establish the man's assigned role at the event and revi
 
 ---
 
-**C-9301** Host Says the Camera Man Was Seen Making a Phone Call Around Minute Three
+**C-1129** Host Says the Camera Man Was Seen Making a Phone Call Around Minute Three
 
 Claim Timestamp: 00:32:40
 
@@ -1673,7 +1673,7 @@ Investigative Direction: Obtain the footage of the call and, through lawful proc
 
 ---
 
-**C-9302** Host Says the Camera Man Told Her TPUSA Was Trying Something New and Feeding Footage Back to Arizona
+**C-1130** Host Says the Camera Man Told Her TPUSA Was Trying Something New and Feeding Footage Back to Arizona
 
 Claim Timestamp: 00:32:40
 
@@ -1689,7 +1689,7 @@ Investigative Direction: Ask TPUSA what the new AV setup was, where the feed wen
 
 ---
 
-**C-9303** Host Says Kirk's Position on Israel Had Shifted Entirely Before His Death
+**C-1131** Host Says Kirk's Position on Israel Had Shifted Entirely Before His Death
 
 Claim Timestamp: 00:33:44
 
@@ -1705,7 +1705,7 @@ Investigative Direction: Gather Kirk's private messages, donor communications an
 
 ---
 
-**C-9304** Host Says Israel and TPUSA Both Knew Kirk Had Shifted Because He Was Explicit
+**C-1132** Host Says Israel and TPUSA Both Knew Kirk Had Shifted Because He Was Explicit
 
 Claim Timestamp: 00:33:44
 
@@ -1721,7 +1721,7 @@ Investigative Direction: Ask TPUSA staff who heard Kirk state his position and w
 
 ---
 
-**C-9305** Host Says the Letter Included Kirk's Phone Number, Which Netanyahu Did Not Have
+**C-1134** Host Says the Letter Included Kirk's Phone Number, Which Netanyahu Did Not Have
 
 Claim Timestamp: 00:34:37
 
@@ -1732,13 +1732,13 @@ Transcript Snippet: Netanyahu said they were close, but in the letter, Charlie p
 Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1, N-3
 Related Nodes: N-10056
-Supports: C-1331
+Supports: C-1133
 Tags: relevance:core
 Investigative Direction: Obtain the letter and compare the number given with Kirk's known numbers and with Netanyahu's contact records.
 
 ---
 
-**C-9306** Host Says It Is Unclear Whether the Letter Was Sent by Email or by Post and Asks for Authentication
+**C-1135** Host Says It Is Unclear Whether the Letter Was Sent by Email or by Post and Asks for Authentication
 
 Claim Timestamp: 00:34:37
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Request the original message with headers or the postal
 
 ---
 
-**C-9307** Host Says the Same People Pressuring Kirk Are Pressuring TPUSA Leadership, and She Knows This for a Fact
+**C-1136** Host Says the Same People Pressuring Kirk Are Pressuring TPUSA Leadership, and She Knows This for a Fact
 
 Claim Timestamp: 00:35:21
 
@@ -1770,7 +1770,7 @@ Investigative Direction: Ask the host for the basis of her knowledge and cross-c
 
 ---
 
-**C-9308** Host Challenges TPUSA Executives to Issue a Statement Saying She Is Lying
+**C-1137** Host Challenges TPUSA Executives to Issue a Statement Saying She Is Lying
 
 Claim Timestamp: 00:35:21
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Monitor TPUSA statements for any explicit denial or con
 
 ---
 
-**C-9309** Host Says Kirk Told Staff, Jewish Donors and a Rabbi 48 Hours Before His Death That He Was Abandoning the Pro-Israel Cause
+**C-1138** Host Says Kirk Told Staff, Jewish Donors and a Rabbi 48 Hours Before His Death That He Was Abandoning the Pro-Israel Cause
 
 Claim Timestamp: 00:36:10
 
@@ -1802,7 +1802,7 @@ Investigative Direction: Identify the staff, donors and rabbi present and obtain
 
 ---
 
-**C-9310** Host Says Kirk Said He Refused to Be Bullied Anymore by Jewish Donors
+**C-1139** Host Says Kirk Said He Refused to Be Bullied Anymore by Jewish Donors
 
 Claim Timestamp: 00:36:10
 
@@ -1818,7 +1818,7 @@ Investigative Direction: Seek witnesses and recordings of the statement and comp
 
 ---
 
-**C-9311** Host Says Kirk Wanted to Bring Her Back and Was Killed 48 Hours Before an On-Stage Reunion
+**C-1140** Host Says Kirk Wanted to Bring Her Back and Was Killed 48 Hours Before an On-Stage Reunion
 
 Claim Timestamp: 00:36:10
 
@@ -1834,7 +1834,7 @@ Investigative Direction: Obtain any scheduling or communications between Kirk an
 
 ---
 
-**C-9312** Host Says She Is Hearing a Big Payday Was on the Line for Those Who Let the Lies Stand
+**C-1141** Host Says She Is Hearing a Big Payday Was on the Line for Those Who Let the Lies Stand
 
 Claim Timestamp: 00:37:42
 
@@ -1850,7 +1850,7 @@ Investigative Direction: Identify the payday referred to and review TPUSA fundin
 
 ---
 
-**C-9313** Host Says the Friends of Israel Were Pressuring Kirk Badly and He Was Done
+**C-1142** Host Says the Friends of Israel Were Pressuring Kirk Badly and He Was Done
 
 Claim Timestamp: 00:38:40
 
@@ -1866,7 +1866,7 @@ Investigative Direction: Gather Kirk's statements and communications from the we
 
 ---
 
-**C-9314** Host Says Laura Loomer Is Funded by Charlie's Donor Bob Shillman
+**C-1143** Host Says Laura Loomer Is Funded by Charlie's Donor Bob Shillman
 
 Claim Timestamp: 00:42:32
 
@@ -1881,7 +1881,7 @@ Investigative Direction: Check disclosed contributions and employment ties betwe
 
 ---
 
-**C-9315** Host Says Loomer Called Her Anti-Semitic a Couple of Days Before Kirk Died
+**C-1144** Host Says Loomer Called Her Anti-Semitic a Couple of Days Before Kirk Died
 
 Claim Timestamp: 00:42:32
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Locate Loomer's posts from September 7 to 9, 2025 and t
 
 ---
 
-**C-9316** Host Says the Campaign Against Her Involves People Paid Through an Agent of Israel
+**C-1145** Host Says the Campaign Against Her Involves People Paid Through an Agent of Israel
 
 Claim Timestamp: 00:43:23
 
@@ -1912,7 +1912,7 @@ Investigative Direction: Identify any contracts or Foreign Agents Registration A
 
 ---
 
-**C-9317** Host Says a Communist Underground Is Real and Wants Children
+**C-1146** Host Says a Communist Underground Is Real and Wants Children
 
 Claim Timestamp: 00:44:16
 
@@ -1928,7 +1928,7 @@ Investigative Direction: No concrete record is cited; ask the host for the organ
 
 ---
 
-**C-9318** Host Says She Started Homeschooling Her Children This Week
+**C-1147** Host Says She Started Homeschooling Her Children This Week
 
 Claim Timestamp: 00:45:10
 
@@ -1943,7 +1943,7 @@ Investigative Direction: Personal statement; no record needed beyond the host's 
 
 ---
 
-**C-9319** Host Relays a Viewer's Correction on Keyholing Versus Pinball Bullets
+**C-1148** Host Relays a Viewer's Correction on Keyholing Versus Pinball Bullets
 
 Claim Timestamp: 00:46:31
 
@@ -1954,13 +1954,13 @@ Transcript Snippet: Keyholing is if the bullet is too slow and tumbles and has e
 Anchored Artifacts: A-3000.1
 Mentions: N-3
 Related Nodes: N-10180
-Supports: C-1317
+Supports: C-1059
 Tags: relevance:context
 Investigative Direction: Have a forensic ballistics expert review the wound and autopsy record to say whether keyholing or internal deflection is consistent.
 
 ---
 
-**C-9320** Host Says the Idea That Kirk Was Paralyzed When He Died Ends Today
+**C-1149** Host Says the Idea That Kirk Was Paralyzed When He Died Ends Today
 
 Claim Timestamp: 00:46:56
 
@@ -1976,7 +1976,7 @@ Investigative Direction: Obtain the autopsy report and medical records and compa
 
 ---
 
-**C-9321** Host Says the Goth Suspect Is the Person in Broderick's Photos, Not the Girl in Black
+**C-1150** Host Says the Goth Suspect Is the Person in Broderick's Photos, Not the Girl in Black
 
 Claim Timestamp: 00:48:25
 
@@ -1987,13 +1987,13 @@ Transcript Snippet: We are still working to identify our goth suspect. It is not
 Anchored Artifacts: 
 Mentions: N-3, N-128
 Related Nodes: N-10147
-Supports: C-1327
+Supports: C-1104
 Tags: relevance:core
 Investigative Direction: Identify the person via the Buzzards and Bees prom organizers and attendee lists.
 
 ---
 
-**C-9322** Host Repeats the Request for Tips at tips@candaceowens.com on the Goth Suspect
+**C-1151** Host Repeats the Request for Tips at tips@candaceowens.com on the Goth Suspect
 
 Claim Timestamp: 00:48:25
 
@@ -2009,7 +2009,7 @@ Investigative Direction: Review incoming tips for any naming the person pictured
 
 ---
 
-**C-9323** Host Says She Holds Further Information on Where Kirk's Wounds Were
+**C-1152** Host Says She Holds Further Information on Where Kirk's Wounds Were
 
 Claim Timestamp: 00:48:25
 

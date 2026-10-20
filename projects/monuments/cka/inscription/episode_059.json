@@ -27,10 +27,10 @@
           "ref": "A-1643.1",
           "description": "Profile image of Robert Eugene Flood displayed on screen with biographical caption referencing 33 years with the Texas A&M University Police Department, the 232nd session, and 35 years of law enforcement in Illinois and Texas",
           "related_claims": [
-            "C-2124",
-            "C-2125",
-            "C-2126",
-            "C-2132"
+            "C-5249",
+            "C-5250",
+            "C-5251",
+            "C-5264"
           ],
           "related_nodes": [
             "N-470",
@@ -49,11 +49,11 @@
           "ref": "A-1643.2",
           "description": "LinkedIn profile page of Robert Eugene Flood displayed and scrolled through live, showing Marine staff sergeant service, Franklin Park Illinois employment, Army Reserve lieutenant colonel rank, FBI National Academy attendance, Texas master peace officer certification, and FBIAA membership",
           "related_claims": [
-            "C-2127",
-            "C-2128",
-            "C-2129",
-            "C-2130",
-            "C-2131"
+            "C-5252",
+            "C-5253",
+            "C-5254",
+            "C-5258",
+            "C-5261"
           ],
           "related_nodes": [
             "N-470",
@@ -80,9 +80,9 @@
           "ref": "A-1644.1",
           "description": "Social media post read aloud from a self-identified childhood friend of Dan Flood, identifying himself as having grown up with Dan in Allen, Texas, and stating he last saw Dan \"doing security for some Dallas billionaire at the Cattleman's Ball\"",
           "related_claims": [
-            "C-2133",
-            "C-2134",
-            "C-2135"
+            "C-5277",
+            "C-5275",
+            "C-5278"
           ],
           "related_nodes": [
             "N-270",
@@ -110,10 +110,10 @@
           "ref": "A-1645.1",
           "description": "2018 interview by Bobby Harpole quoted in full, describing his upbringing, his birth in Denton Texas, his 1968 start with Texas Department of Public Safety, and his 12-year tenure at the Erath County Sheriff's Office",
           "related_claims": [
-            "C-2136",
-            "C-2137",
-            "C-2138",
-            "C-2139"
+            "C-5283",
+            "C-5285",
+            "C-5286",
+            "C-5287"
           ],
           "related_nodes": [
             "N-471",
@@ -164,8 +164,8 @@
           "ref": "A-1647.1",
           "description": "Description of the FBI Agent Association (FBIA) read from the organization's own website, identifying it as a charity founded in 1981 consisting of 14,000 current and former FBI special agents",
           "related_claims": [
-            "C-2131",
-            "C-2148"
+            "C-5261",
+            "C-5262"
           ],
           "related_nodes": [
             "N-470"
@@ -191,8 +191,8 @@
           "ref": "A-1648.1",
           "description": "Cease and Desist letter displayed on screen and read aloud, sent by Turning Point USA (via Paramount Tactical) to Zach De Gregorio of Wolves and Finance, including the formal statement on drones (\"UVU prohibited Turning Point USA from flying drones for security purposes during the event, but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage\")",
           "related_claims": [
-            "C-2140",
-            "C-2141"
+            "C-5292",
+            "C-5304"
           ],
           "related_nodes": [
             "N-472",
@@ -211,7 +211,7 @@
           "ref": "A-1648.2",
           "description": "Zach De Gregorio (Wolves and Finance) YouTube video clip played on air, showing Gregorio presenting the cease-and-desist letter, characterizing it as the first step toward a defamation lawsuit",
           "related_claims": [
-            "C-2140"
+            "C-5292"
           ],
           "related_nodes": [
             "N-472",
@@ -238,7 +238,7 @@
           "ref": "A-1649.1",
           "description": "Andrew Kolvet interview clip played on air (with Gary), explaining the drone situation, stating Frank Turek saw a wide-angle shot from a second-floor walkway taken by the events team, not drone footage",
           "related_claims": [
-            "C-2141"
+            "C-5304"
           ],
           "related_nodes": [
             "N-14",
@@ -257,7 +257,7 @@
           "ref": "A-1649.2",
           "description": "Wide-angle shot image displayed on screen, presented by Andrew Kolvet as the photo Frank Turek mistook for drone footage (described as \"a walkway or a bridge elevated\" second-floor view)",
           "related_claims": [
-            "C-2141"
+            "C-5304"
           ],
           "related_nodes": [
             "N-10427"
@@ -283,7 +283,7 @@
           "ref": "A-1650.1",
           "description": "Erika Kirk interview clip played on air in which she states she was \"living in China and doing a lot of work with victims from sex trafficking\" through her Everyday Heroes Like You charity",
           "related_claims": [
-            "C-2144"
+            "C-5307"
           ],
           "related_nodes": [
             "N-2",
@@ -302,7 +302,7 @@
           "ref": "A-1650.2",
           "description": "Paraphrased TPUSA official response (received via email by host), stating that Erika Kirk \"never lived\" in China and \"simply visited for 2 weeks\"",
           "related_claims": [
-            "C-2142"
+            "C-5310"
           ],
           "related_nodes": [
             "N-2",
@@ -321,7 +321,7 @@
           "ref": "A-1650.3",
           "description": "Charlie Kirk debate clip with Ben Carollo played on air, in which Charlie states \"Unlike you, my wife lived in China for 6 months\"",
           "related_claims": [
-            "C-2143"
+            "C-5312"
           ],
           "related_nodes": [
             "N-1",
@@ -349,7 +349,7 @@
           "ref": "A-1651.1",
           "description": "Pastor Gary Hamrick video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smadja as guests",
           "related_claims": [
-            "C-2145"
+            "C-5316"
           ],
           "related_nodes": [
             "N-17",
@@ -378,7 +378,7 @@
           "ref": "A-1652.1",
           "description": "Fox News article reference read aloud by host, with headline: \"Israel will honor the late Charlie Kirk with an award for opposing anti-semitism\"",
           "related_claims": [
-            "C-2146"
+            "C-5319"
           ],
           "related_nodes": [
             "N-1"
@@ -404,7 +404,7 @@
           "ref": "A-1653.1",
           "description": "\"Moderator Marzy\" comment read aloud, claiming Dan Flood was \"still providing security\" at a Charlie Kirk Day event where Kash Patel was present",
           "related_claims": [
-            "C-2147"
+            "C-5323"
           ],
           "related_nodes": [
             "N-270",
@@ -537,10 +537,10 @@
           "ref": "A-3303.1",
           "description": "Host verbal reference to emails from an anonymous correspondent alleging JFK, Texas and Cattleman's Ball links and Dan Flood's family connection (not shown)",
           "related_claims": [
-            "C-14173",
-            "C-14174",
-            "C-14178",
-            "C-14202"
+            "C-5243",
+            "C-5244",
+            "C-5248",
+            "C-5289"
           ],
           "related_nodes": [
             "N-3"
@@ -565,7 +565,7 @@
           "ref": "A-3304.1",
           "description": "Host verbal call for tips at the show's tips address about Erika Kirk's China timeline and charity",
           "related_claims": [
-            "C-14223"
+            "C-5315"
           ],
           "related_nodes": [
             "N-3"
@@ -590,7 +590,7 @@
           "ref": "A-3305.1",
           "description": "Second portion of the Zach De Gregorio (Wolves and Finance) clip played on air, in which he cites his December 7 video and reads the TPUSA lawyer's drone paragraph",
           "related_claims": [
-            "C-14215"
+            "C-5303"
           ],
           "related_nodes": [
             "N-3"
@@ -615,7 +615,7 @@
           "ref": "A-3306.1",
           "description": "Host verbal reference to a real estate profile on which Erika Kirk allegedly cites the charity Everyday Heroes (not shown)",
           "related_claims": [
-            "C-14222"
+            "C-5314"
           ],
           "related_nodes": [
             "N-3"
@@ -640,7 +640,7 @@
           "ref": "A-3307.1",
           "description": "Host verbal reference to a further text message sent to Charlie Kirk by a donor, to be revealed later (not shown)",
           "related_claims": [
-            "C-14226"
+            "C-5320"
           ],
           "related_nodes": [
             "N-3"
@@ -665,7 +665,7 @@
           "ref": "A-3308.1",
           "description": "Host verbal reference to Frank Turek's earlier interview statement about showing Charlie live drone footage (not replayed)",
           "related_claims": [
-            "C-14207"
+            "C-5295"
           ],
           "related_nodes": [
             "N-3"
@@ -682,7 +682,7 @@
           "ref": "A-3308.2",
           "description": "Host verbal reference to Brian Harpole's Shawn Ryan interview statement that there were no drones (not replayed)",
           "related_claims": [
-            "C-14208"
+            "C-5296"
           ],
           "related_nodes": [
             "N-3"
@@ -710,11 +710,11 @@
         "A-1653.1"
       ],
       "related_claims": [
-        "C-2132",
-        "C-2133",
-        "C-2134",
-        "C-2135",
-        "C-2147"
+        "C-5264",
+        "C-5277",
+        "C-5275",
+        "C-5278",
+        "C-5323"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -740,16 +740,16 @@
         "A-1647.1"
       ],
       "related_claims": [
-        "C-2124",
-        "C-2125",
-        "C-2126",
-        "C-2127",
-        "C-2128",
-        "C-2129",
-        "C-2130",
-        "C-2131",
-        "C-2132",
-        "C-2148"
+        "C-5249",
+        "C-5250",
+        "C-5251",
+        "C-5252",
+        "C-5253",
+        "C-5254",
+        "C-5258",
+        "C-5261",
+        "C-5264",
+        "C-5262"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -792,10 +792,10 @@
         "A-1645.1"
       ],
       "related_claims": [
-        "C-2136",
-        "C-2137",
-        "C-2138",
-        "C-2139"
+        "C-5283",
+        "C-5285",
+        "C-5286",
+        "C-5287"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -858,7 +858,7 @@
         "A-1648.2"
       ],
       "related_claims": [
-        "C-2140"
+        "C-5292"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -953,7 +953,7 @@
         "A-1651.1"
       ],
       "related_claims": [
-        "C-2145"
+        "C-5316"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -975,7 +975,7 @@
         "A-1651.1"
       ],
       "related_claims": [
-        "C-2145"
+        "C-5316"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -997,7 +997,7 @@
         "A-1651.1"
       ],
       "related_claims": [
-        "C-2145"
+        "C-5316"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1019,7 +1019,7 @@
         "A-1650.3"
       ],
       "related_claims": [
-        "C-2143"
+        "C-5312"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1042,7 +1042,7 @@
         "A-1646.1"
       ],
       "related_claims": [
-        "C-2148"
+        "C-5262"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -1069,7 +1069,7 @@
         "A-1653.3"
       ],
       "related_claims": [
-        "C-2134"
+        "C-5275"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1095,7 +1095,7 @@
         "A-1649.2"
       ],
       "related_claims": [
-        "C-2141"
+        "C-5304"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1120,9 +1120,9 @@
         "A-1650.3"
       ],
       "related_claims": [
-        "C-2142",
-        "C-2143",
-        "C-2144"
+        "C-5310",
+        "C-5312",
+        "C-5307"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1144,7 +1144,7 @@
         "A-1651.1"
       ],
       "related_claims": [
-        "C-2145"
+        "C-5316"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1166,21 +1166,21 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14173",
-        "C-14175",
-        "C-14179",
-        "C-14185",
-        "C-14186",
-        "C-14187",
-        "C-14188",
-        "C-14189",
-        "C-14190",
-        "C-14197",
-        "C-14207",
-        "C-14213",
-        "C-14220",
-        "C-14221",
-        "C-14226"
+        "C-5243",
+        "C-5245",
+        "C-5255",
+        "C-5265",
+        "C-5266",
+        "C-5267",
+        "C-5268",
+        "C-5269",
+        "C-5270",
+        "C-5280",
+        "C-5295",
+        "C-5301",
+        "C-5311",
+        "C-5313",
+        "C-5320"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1198,14 +1198,14 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14195",
-        "C-14203",
-        "C-14218",
-        "C-14219",
-        "C-14221",
-        "C-14222",
-        "C-14223",
-        "C-14235"
+        "C-5276",
+        "C-5290",
+        "C-5308",
+        "C-5309",
+        "C-5313",
+        "C-5314",
+        "C-5315",
+        "C-5331"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1223,7 +1223,7 @@
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14224"
+        "C-5317"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1241,7 +1241,7 @@
       "description": "Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14229"
+        "C-5324"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1259,41 +1259,41 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14173",
-        "C-14174",
-        "C-14175",
-        "C-14176",
-        "C-14177",
-        "C-14178",
-        "C-14180",
-        "C-14181",
-        "C-14183",
-        "C-14184",
-        "C-14185",
-        "C-14187",
-        "C-14188",
-        "C-14189",
-        "C-14202",
-        "C-14203",
-        "C-14204",
-        "C-14206",
-        "C-14216",
-        "C-14217",
-        "C-14222",
-        "C-14223",
-        "C-14224",
-        "C-14225",
-        "C-14226",
-        "C-14227",
-        "C-14228",
-        "C-14230",
-        "C-14231",
-        "C-14232",
-        "C-14233",
-        "C-14234",
-        "C-14235",
-        "C-14236",
-        "C-14237"
+        "C-5243",
+        "C-5244",
+        "C-5245",
+        "C-5246",
+        "C-5247",
+        "C-5248",
+        "C-5256",
+        "C-5257",
+        "C-5260",
+        "C-5263",
+        "C-5265",
+        "C-5267",
+        "C-5268",
+        "C-5269",
+        "C-5289",
+        "C-5290",
+        "C-5291",
+        "C-5294",
+        "C-5305",
+        "C-5306",
+        "C-5314",
+        "C-5315",
+        "C-5317",
+        "C-5318",
+        "C-5320",
+        "C-5321",
+        "C-5322",
+        "C-5325",
+        "C-5326",
+        "C-5327",
+        "C-5328",
+        "C-5329",
+        "C-5331",
+        "C-5332",
+        "C-5333"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1311,7 +1311,7 @@
       "description": "Brigitte Macron; the host links her story to child-abuse themes.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14234"
+        "C-5329"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1328,7 +1328,7 @@
       "description": "Elizabeth McCoy; the target of the host's mock conspiracy theory about Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14203"
+        "C-5290"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1345,7 +1345,7 @@
       "description": "Shawn Ryan; interviewer to whom Harpole said there were no drones.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14208"
+        "C-5296"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1362,8 +1362,8 @@
       "description": "Baron Coleman; the host's guest for the joint show the next day.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14228",
-        "C-14236"
+        "C-5322",
+        "C-5332"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1380,7 +1380,7 @@
       "description": "Mitch Snow; Fort Huachuca witness a commenter tried to discredit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14236"
+        "C-5332"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1397,7 +1397,7 @@
       "description": "Rick Cutler; named by the host as one of the Texas-based security staff.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14197"
+        "C-5280"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1414,7 +1414,7 @@
       "description": "John F. Kennedy; referenced by the emailer's JFK assassination claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14173"
+        "C-5243"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1431,11 +1431,11 @@
       "description": "Turning Point USA; the organization behind the purge, the letter and the donors.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14184",
-        "C-14205",
-        "C-14206",
-        "C-14227",
-        "C-14237"
+        "C-5263",
+        "C-5293",
+        "C-5294",
+        "C-5321",
+        "C-5333"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1452,8 +1452,8 @@
       "description": "Utah Valley University; the host of the event whose drone rules are disputed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14208",
-        "C-14210"
+        "C-5296",
+        "C-5298"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1470,7 +1470,7 @@
       "description": "Fort Huachuca September 8-9, 2025 Eyewitness Encounter; the topic behind Mitch Snow's account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14236"
+        "C-5332"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1487,9 +1487,9 @@
       "description": "Romania / Eastern Europe Trafficking Cluster; related to Erika's Romanian orphanage work and the host's trafficking theme.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14217",
-        "C-14219",
-        "C-14234"
+        "C-5306",
+        "C-5309",
+        "C-5329"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1506,8 +1506,8 @@
       "description": "Buckman-TPUSA Donor Relationship Investigation; covers the top donors and the $10 million gift.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14194",
-        "C-14195"
+        "C-5274",
+        "C-5276"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1524,7 +1524,7 @@
       "description": "GATE / Gifted Education Program Investigation; reused for the commenters' memory reports.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14232"
+        "C-5327"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1541,7 +1541,7 @@
       "description": "Dan Flood Role and Behavior Assessment; reused for Flood's reported security presence at the event.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14229"
+        "C-5324"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1558,8 +1558,8 @@
       "description": "Paramount Tactical; the host says it told them the shot Frank Turek saw was only the wide shot.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14214",
-        "C-14216"
+        "C-5302",
+        "C-5305"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1576,7 +1576,7 @@
       "description": "Shaffer Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).",
       "related_artifacts": [],
       "related_claims": [
-        "C-14191"
+        "C-5271"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1593,8 +1593,8 @@
       "description": "Creative Children's Academy / Quest Academy; the school the host calls the X-Men school.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14187",
-        "C-14188"
+        "C-5267",
+        "C-5268"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1611,8 +1611,8 @@
       "description": "Everyday Heroes Foundation; the charity the host connects to Erika Kirk's China work.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14218",
-        "C-14222"
+        "C-5308",
+        "C-5314"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1629,9 +1629,9 @@
       "description": "The Dallas-founded American Cancer Society single-night fundraiser and a separate 501c3 Cattleman's Ball benefiting the Fred and Pamela Buffett Cancer Center, as described by the host; the emailer alleges the events launder money to buy off US police, which the host cannot confirm.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14174",
-        "C-14176",
-        "C-14177"
+        "C-5244",
+        "C-5246",
+        "C-5247"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1648,10 +1648,10 @@
       "description": "Allegations the host relays from an anonymous emailer: JFK and Kirk assassination links, a Cattleman's Ball money laundering scheme and a connection of Dan Flood and his father to both; the host stresses she cannot verify them.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14173",
-        "C-14174",
-        "C-14178",
-        "C-14202"
+        "C-5243",
+        "C-5244",
+        "C-5248",
+        "C-5289"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1663,8 +1663,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2124",
-      "ref": "C-2124",
+      "@id": "C-5249",
+      "ref": "C-5249",
       "label": "Profile Host Shows Lists Robert Flood as Chief Deputy With 33 Years at the Texas A&M University Police Department",
       "claim": "Per the profile of Robert Eugene Flood that the host shows, he is Chief Deputy with 33 years of service at the Texas A&M University Police Department.",
       "anchored_artifacts": [
@@ -1682,8 +1682,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2125",
-      "ref": "C-2125",
+      "@id": "C-5250",
+      "ref": "C-5250",
       "label": "Robert Flood retired after 35 years of law enforcement spanning Illinois and Texas",
       "claim": "The displayed profile caption states Robert Flood retired after 35 years of law enforcement service in Illinois and Texas.",
       "anchored_artifacts": [
@@ -1701,8 +1701,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2126",
-      "ref": "C-2126",
+      "@id": "C-5251",
+      "ref": "C-5251",
       "label": "Robert Flood's last assignment was with the Bosque County Texas Sheriff's Office",
       "claim": "The displayed profile states Robert Flood's final assignment was with the Bosque County, Texas Sheriff's Office.",
       "anchored_artifacts": [
@@ -1720,8 +1720,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2127",
-      "ref": "C-2127",
+      "@id": "C-5252",
+      "ref": "C-5252",
       "label": "Host-Shown LinkedIn Profile Lists Robert Flood as FBI National Academy Graduate",
       "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he graduated from the FBI National Academy.",
       "anchored_artifacts": [
@@ -1739,8 +1739,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2128",
-      "ref": "C-2128",
+      "@id": "C-5253",
+      "ref": "C-5253",
       "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Marine Staff Sergeant in Surveillance and Target Acquisition",
       "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he served as a Marine staff sergeant with responsibilities in surveillance, target acquisition, small arms/weapons, tactical radio communications, and aviation ordnance.",
       "anchored_artifacts": [
@@ -1758,8 +1758,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2129",
-      "ref": "C-2129",
+      "@id": "C-5254",
+      "ref": "C-5254",
       "label": "Host-Shown LinkedIn Profile Lists Robert Flood Working in Franklin Park, Illinois for Over a Decade",
       "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he worked over a decade in Franklin Park, Illinois, in roles including crime scene technician, SWAT team leader, patrol division supervisor, and criminal investigator.",
       "anchored_artifacts": [
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2130",
-      "ref": "C-2130",
+      "@id": "C-5258",
+      "ref": "C-5258",
       "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Army Reserve Lieutenant Colonel",
       "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he attained the rank of lieutenant colonel in the Army Reserve.",
       "anchored_artifacts": [
@@ -1796,8 +1796,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2131",
-      "ref": "C-2131",
+      "@id": "C-5261",
+      "ref": "C-5261",
       "label": "Host-Shown LinkedIn Profile Lists Robert Flood as Member of the FBIA [FBI Agents Association]",
       "claim": "Per Robert Flood's LinkedIn profile, which the host shows on screen, he is a member of the FBIA [FBI Agents Association].",
       "anchored_artifacts": [
@@ -1815,8 +1815,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2132",
-      "ref": "C-2132",
+      "@id": "C-5264",
+      "ref": "C-5264",
       "label": "Dan Flood's parents are from Illinois in the same area where Charlie Kirk was raised",
       "claim": "Host states that both of Dan Flood's mother and father are from Illinois, in the same area Charlie Kirk grew up.",
       "anchored_artifacts": [
@@ -1836,8 +1836,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2133",
-      "ref": "C-2133",
+      "@id": "C-5277",
+      "ref": "C-5277",
       "label": "Dan Flood grew up in Allen Texas and graduated high school there",
       "claim": "A social media post the host reads, from a self-described childhood friend, says he went to middle and high school with Dan Flood, whom the host says is from Allen, Texas and graduated high school there.",
       "anchored_artifacts": [
@@ -1855,8 +1855,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2134",
-      "ref": "C-2134",
+      "@id": "C-5275",
+      "ref": "C-5275",
       "label": "Dan Flood resides in New Braunfels Texas",
       "claim": "Host states it as a confirmable fact that Dan Flood lives in New Braunfels, Texas.",
       "anchored_artifacts": [
@@ -1874,8 +1874,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2135",
-      "ref": "C-2135",
+      "@id": "C-5278",
+      "ref": "C-5278",
       "label": "Dan Flood previously worked security for a Dallas billionaire at the Cattleman's Ball",
       "claim": "The childhood friend's social media post states he last saw Dan Flood \"doing security for some Dallas billionaire at the Cattleman's Ball.\"",
       "anchored_artifacts": [
@@ -1893,8 +1893,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2136",
-      "ref": "C-2136",
+      "@id": "C-5283",
+      "ref": "C-5283",
       "label": "Bobby Harpole was born in Denton Texas",
       "claim": "Bobby Harpole states in his 2018 interview, \"I was born in Denton, Texas.\"",
       "anchored_artifacts": [
@@ -1912,8 +1912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2137",
-      "ref": "C-2137",
+      "@id": "C-5285",
+      "ref": "C-5285",
       "label": "Bobby Harpole began his law enforcement career in 1968 with the Texas Department of Public Safety",
       "claim": "Bobby Harpole states he began his law enforcement career in 1968 with the Texas Department of Public Safety.",
       "anchored_artifacts": [
@@ -1931,8 +1931,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2138",
-      "ref": "C-2138",
+      "@id": "C-5286",
+      "ref": "C-5286",
       "label": "Bobby Harpole retired from TDPS as a sergeant in highway patrol",
       "claim": "Bobby Harpole states he retired from TDPS as a sergeant in highway patrol.",
       "anchored_artifacts": [
@@ -1950,8 +1950,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2139",
-      "ref": "C-2139",
+      "@id": "C-5287",
+      "ref": "C-5287",
       "label": "Bobby Harpole served 12 years at the Erath County Sheriff's Office and retired as captain",
       "claim": "Bobby Harpole states he served 12 years at the Erath County Sheriff's Office and retired as captain.",
       "anchored_artifacts": [
@@ -1969,8 +1969,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2140",
-      "ref": "C-2140",
+      "@id": "C-5292",
+      "ref": "C-5292",
       "label": "Turning Point USA sent a cease-and-desist letter to Zach De Gregorio at the Wolves and Finance YouTube channel",
       "claim": "In a clip the host plays, Zach De Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it.",
       "anchored_artifacts": [
@@ -1987,8 +1987,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2141",
-      "ref": "C-2141",
+      "@id": "C-5304",
+      "ref": "C-5304",
       "label": "TPUSA cease-and-desist letter states UVU prohibited TPUSA security drones but allowed a media production drone for B-roll",
       "claim": "The cease-and-desist letter states UVU prohibited TPUSA from flying drones for security purposes during the event but did allow a Turning Point USA media production drone to briefly fly over the location before the event to collect limited B-roll footage.",
       "anchored_artifacts": [
@@ -2003,8 +2003,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2142",
-      "ref": "C-2142",
+      "@id": "C-5310",
+      "ref": "C-5310",
       "label": "TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There",
       "claim": "Per host's paraphrase of an official TPUSA response, Erika Kirk never lived in China and simply visited for 2 weeks.",
       "anchored_artifacts": [
@@ -2015,15 +2015,15 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:01",
-      "investigative_direction": "Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-2143 and C-2144.",
+      "investigative_direction": "Obtain the original TPUSA email in writing and reconcile with the contradiction presented in C-5312 and C-5307.",
       "mentions_person_refs": [
         "N-2"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-2143",
-      "ref": "C-2143",
+      "@id": "C-5312",
+      "ref": "C-5312",
       "label": "Charlie Kirk publicly stated his wife lived in China for 6 months",
       "claim": "In the debate clip with Ben Carollo, Charlie Kirk states \"Unlike you, my wife lived in China for 6 months and she'll show you the videos.\"",
       "anchored_artifacts": [
@@ -2043,8 +2043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2144",
-      "ref": "C-2144",
+      "@id": "C-5307",
+      "ref": "C-5307",
       "label": "Erika Kirk Publicly Stated She Was Living in China Working with Victims of Sex Trafficking Through Her Everyday Heroes Like You Charity",
       "claim": "In the on-air clip, Erika Kirk states she was \"living in China and doing a lot of work with victims from sex trafficking\" via Everyday Heroes Like You.",
       "anchored_artifacts": [
@@ -2062,8 +2062,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2145",
-      "ref": "C-2145",
+      "@id": "C-5316",
+      "ref": "C-5316",
       "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smadja",
       "claim": "A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smadja (Israeli businessman).",
       "anchored_artifacts": [
@@ -2085,8 +2085,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2146",
-      "ref": "C-2146",
+      "@id": "C-5319",
+      "ref": "C-5319",
       "label": "Israel announced it will honor Charlie Kirk with an award for opposing antisemitism",
       "claim": "Per Fox News article referenced by host, Israel will honor the late Charlie Kirk with an award for opposing antisemitism.",
       "anchored_artifacts": [
@@ -2102,8 +2102,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2147",
-      "ref": "C-2147",
+      "@id": "C-5323",
+      "ref": "C-5323",
       "label": "Host Says Dan Flood Was Still Providing Security at Charlie Kirk Day Event Where Kash Patel Was Invited",
       "claim": "The host says that at the Charlie Kirk Day event they invited Kash Patel, and that Dan Flood was there too, still providing security, which she thought was weird.",
       "anchored_artifacts": [
@@ -2121,8 +2121,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2148",
-      "ref": "C-2148",
+      "@id": "C-5262",
+      "ref": "C-5262",
       "label": "The FBIA [FBI Agents Association], Which the Host Calls a Charity, Was Founded in 1981 With 14,000 Current and Former Feds",
       "claim": "Per the website description the host reads aloud, the FBIA [FBI Agents Association], which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.",
       "anchored_artifacts": [
@@ -2135,8 +2135,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3658",
-      "ref": "C-3658",
+      "@id": "C-5330",
+      "ref": "C-5330",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
       "claim": "The host says she would recommend the decentralized intelligence agency, since the public is way more reliable than the answers she gets about Erika Kirk, because they do not go after kids but defend and protect them.",
       "anchored_artifacts": [],
@@ -2152,8 +2152,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14173",
-      "ref": "C-14173",
+      "@id": "C-5243",
+      "ref": "C-5243",
       "label": "Host Says Emailer Tied JFK Killers' Families to Kirk Assassination",
       "claim": "The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, a group of Texas boys, and that she did not engage with it.",
       "anchored_artifacts": [
@@ -2176,8 +2176,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14174",
-      "ref": "C-14174",
+      "@id": "C-5244",
+      "ref": "C-5244",
       "label": "Host Relays Emailer Claim Cattleman's Ball Is Israeli Money Laundering to Buy Cops",
       "claim": "The host relays an emailer's claim that the bought-and-paid-for cops across America belong to the Cattleman's Ball (Cattle Baron's Ball), described as a money laundering operation from Israel to buy off US police, and that he took part in it; she says she has no proof and adds a strong allegedly.",
       "anchored_artifacts": [
@@ -2199,8 +2199,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14175",
-      "ref": "C-14175",
+      "@id": "C-5245",
+      "ref": "C-5245",
       "label": "Host Says the Feds Have Not Responded to Her Initial Report",
       "claim": "The host says she has not heard back from the federal authorities regarding her initial report into what happened to Charlie Kirk, and for that reason did not report the emailer's claimed crime.",
       "anchored_artifacts": [],
@@ -2218,8 +2218,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14176",
-      "ref": "C-14176",
+      "@id": "C-5246",
+      "ref": "C-5246",
       "label": "Host Describes Cattle Baron's Ball as Dallas American Cancer Society Single-Night Fundraiser",
       "claim": "The host says the Cattle Baron's Ball is a single-night American Cancer Society fundraiser in Dallas, billed as the world's largest single-night fundraiser, founded 50 years ago and now held in several states.",
       "anchored_artifacts": [
@@ -2240,8 +2240,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14177",
-      "ref": "C-14177",
+      "@id": "C-5247",
+      "ref": "C-5247",
       "label": "Host Says Cattleman's Ball Is a Separate 501c3 Benefiting the Buffett Cancer Center",
       "claim": "The host says a separate 501c3 called the Cattleman's Ball runs the same idea but benefits the Fred and Pamela Buffett Cancer Center rather than the American Cancer Society.",
       "anchored_artifacts": [
@@ -2262,8 +2262,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14178",
-      "ref": "C-14178",
+      "@id": "C-5248",
+      "ref": "C-5248",
       "label": "Host Says Emailer Said Dan Flood Is \"Connected to Both\" and Pointed to Flood's Father",
       "claim": "The host, paraphrasing the emailer, says he told her she was obsessed with Fort Huachuca and thought Charlie had been tracked for a while, that she had not figured out who Dan Flood is, that \"Dan Flood is connected to both,\" and that nobody had worked out who Flood's father is.",
       "anchored_artifacts": [
@@ -2286,8 +2286,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14179",
-      "ref": "C-14179",
+      "@id": "C-5255",
+      "ref": "C-5255",
       "label": "Host Places Franklin Park a Couple of Streets From Where Kirk Was Raised",
       "claim": "The host says Robert Flood's Franklin Park, Illinois posting is basically a couple of streets over from where Charlie Kirk was raised.",
       "anchored_artifacts": [
@@ -2309,8 +2309,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14180",
-      "ref": "C-14180",
+      "@id": "C-5256",
+      "ref": "C-5256",
       "label": "Host Could Not Find Any News Trace of Robert Flood in Illinois",
       "claim": "The host says she tried to find a single news mention of Robert Flood in Illinois, despite roles such as SWAT team leader and crime scene technician, and found nothing at first, second or third glance, while adding that this does not mean none exists.",
       "anchored_artifacts": [
@@ -2332,8 +2332,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14181",
-      "ref": "C-14181",
+      "@id": "C-5257",
+      "ref": "C-5257",
       "label": "Host Reads LinkedIn Entry for Electro Rent Corporation on Robert Flood's Profile",
       "claim": "The host says Robert Flood's LinkedIn lists a role at Electro Rent Corporation, which she describes as running from Tokyo, Japan to Chicago, and asks the audience what it is.",
       "anchored_artifacts": [
@@ -2355,8 +2355,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14182",
-      "ref": "C-14182",
+      "@id": "C-5259",
+      "ref": "C-5259",
       "label": "Host Reads LinkedIn Entry for Captain of Police at University Park Police and Texas Chief Deputy",
       "claim": "The host says Robert Flood's LinkedIn lists him as captain of police for the University Park Police Department in Texas and as chief deputy sheriff for Texas law enforcement, some roles overlapping in time.",
       "anchored_artifacts": [
@@ -2377,8 +2377,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14183",
-      "ref": "C-14183",
+      "@id": "C-5260",
+      "ref": "C-5260",
       "label": "Host Asserts Robert Flood Is and Was a Fed",
       "claim": "The host says that, after reading Robert Flood's LinkedIn, there is no question he is and was a fed.",
       "anchored_artifacts": [
@@ -2400,8 +2400,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14184",
-      "ref": "C-14184",
+      "@id": "C-5263",
+      "ref": "C-5263",
       "label": "Host Says the Bigger the Check, the More Influence Donors Have on TPUSA",
       "claim": "The host says that charity donors gain more influence the bigger the check, and that this is what is being learned about Turning Point USA, where donors get to tell the organization what to think and talk about.",
       "anchored_artifacts": [],
@@ -2420,8 +2420,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14185",
-      "ref": "C-14185",
+      "@id": "C-5265",
+      "ref": "C-5265",
       "label": "Host Speculates Robert Flood Probably Knew Bill Montgomery",
       "claim": "The host says she cannot assert it with certainty but would bet that Robert Eugene Flood probably knew Bill Montgomery, who convinced Charlie Kirk to start Turning Point USA in Illinois in the same neighborhood.",
       "anchored_artifacts": [],
@@ -2443,8 +2443,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14186",
-      "ref": "C-14186",
+      "@id": "C-5266",
+      "ref": "C-5266",
       "label": "Host Says Bill Montgomery Was Also Military, in the Air Force",
       "claim": "The host says Bill Montgomery, who convinced Charlie Kirk to start Turning Point USA, was also military, in the Air Force.",
       "anchored_artifacts": [],
@@ -2456,7 +2456,7 @@
       "investigative_direction": "Check Montgomery's Air Force service in military records or biography.",
       "transcript_snippet": "Don't forget Bill Montgomery was also military as well. Air Force.",
       "supports_claim_refs": [
-        "C-9909"
+        "C-5239"
       ],
       "mentions_person_refs": [
         "N-456",
@@ -2465,8 +2465,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14187",
-      "ref": "C-14187",
+      "@id": "C-5267",
+      "ref": "C-5267",
       "label": "Host Names Quest Academy in Palatine, Formerly Children's Creative Academy, as the X-Men School",
       "claim": "The host says the school she calls the X-Men school that Charlie Kirk attended is Quest Academy in Palatine, Illinois, formerly named the Children's Creative Academy [Creative Children's Academy].",
       "anchored_artifacts": [],
@@ -2486,8 +2486,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14188",
-      "ref": "C-14188",
+      "@id": "C-5268",
+      "ref": "C-5268",
       "label": "Host Says Kirk Went to the X-Men School After They Wanted to Drug Him and His Mother Refused",
       "claim": "The host says that Charlie Kirk attended the X-Men school after they wanted to drug him for being brilliant and his mother said no.",
       "anchored_artifacts": [],
@@ -2507,8 +2507,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14189",
-      "ref": "C-14189",
+      "@id": "C-5269",
+      "ref": "C-5269",
       "label": "Host Maintains Kirk Was Monitored by the Government Since He Was Young",
       "claim": "The host says she maintains her belief that Charlie Kirk was being monitored by the government since he was young.",
       "anchored_artifacts": [],
@@ -2526,8 +2526,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14190",
-      "ref": "C-14190",
+      "@id": "C-5270",
+      "ref": "C-5270",
       "label": "Host Says Bill Montgomery Organized and Initially Paid for Kirk's Full-Time Security",
       "claim": "The host says Bill Montgomery organized and initially paid for the full-time security Charlie Kirk needed.",
       "anchored_artifacts": [],
@@ -2539,7 +2539,7 @@
       "investigative_direction": "Ask TPUSA or Montgomery for the early security contract and who paid the invoices.",
       "transcript_snippet": "it was Bill Montgomery who organized and initially paid, you should know, for the fulltime security that Charlie would need.",
       "supports_claim_refs": [
-        "C-5423"
+        "C-5070"
       ],
       "mentions_person_refs": [
         "N-456",
@@ -2548,8 +2548,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14191",
-      "ref": "C-14191",
+      "@id": "C-5271",
+      "ref": "C-5271",
       "label": "Host Says Montgomery Hired Shaffer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
       "claim": "The host says Bill Montgomery chose to hire Shaffer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Greg Shaffer.",
       "anchored_artifacts": [],
@@ -2572,8 +2572,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14192",
-      "ref": "C-14192",
+      "@id": "C-5272",
+      "ref": "C-5272",
       "label": "Host Says Greg Shaffer Was FBI Hostage Rescue and a Dallas Joint Terrorism Task Force Supervisor",
       "claim": "The host says Greg Shaffer is from Dallas, worked for the FBI on the elite hostage rescue team, and was a supervisor on the Dallas Joint Terrorism Task Force.",
       "anchored_artifacts": [],
@@ -2592,8 +2592,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14193",
-      "ref": "C-14193",
+      "@id": "C-5273",
+      "ref": "C-5273",
       "label": "Host Says Greg Shaffer Was Stationed in Budapest",
       "claim": "The host says Greg Shaffer was at least stationed in Budapest, Hungary, which she calls another Eastern European connection.",
       "anchored_artifacts": [],
@@ -2612,8 +2612,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14194",
-      "ref": "C-14194",
+      "@id": "C-5274",
+      "ref": "C-5274",
       "label": "Host Says TPUSA's Top Donor Cut a $10 Million Check Last June",
       "claim": "The host says Turning Point's number one donor cut a $10 million check last year in June, referring to the Buckman couple.",
       "anchored_artifacts": [],
@@ -2627,7 +2627,7 @@
       "investigative_direction": "Confirm the gift date and amount through TPUSA announcements and Florida headquarters naming records.",
       "transcript_snippet": "Turning Point's number one donor who last year in June cut a check for $10 million.",
       "supports_claim_refs": [
-        "C-2114"
+        "C-5184"
       ],
       "mentions_person_refs": [
         "N-460",
@@ -2636,8 +2636,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14195",
-      "ref": "C-14195",
+      "@id": "C-5276",
+      "ref": "C-5276",
       "label": "Host Says the Buckmans Live in New Braunfels, Texas",
       "claim": "The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city that people online tracking Erika Kirk's plane noticed it kept visiting.",
       "anchored_artifacts": [],
@@ -2652,7 +2652,7 @@
       "investigative_direction": "Check property records in Comal County; compare dates with Erika Kirk's plane arrivals at New Braunfels.",
       "transcript_snippet": "The couple Nelda and Karl Buckman, they live there.",
       "supports_claim_refs": [
-        "C-2117"
+        "C-5182"
       ],
       "mentions_person_refs": [
         "N-460",
@@ -2662,8 +2662,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14196",
-      "ref": "C-14196",
+      "@id": "C-5279",
+      "ref": "C-5279",
       "label": "Friend Post Says Dan Flood Has Been in Private Security at Least 20 Years",
       "claim": "In the childhood-friend social media post as read, the poster says Dan Flood has been in private security for at least 20 years and that he had no idea Flood was running security for TPUSA.",
       "anchored_artifacts": [
@@ -2684,8 +2684,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14197",
-      "ref": "C-14197",
+      "@id": "C-5280",
+      "ref": "C-5280",
       "label": "Host Says All of Kirk's Security That Day Was From Texas",
       "claim": "The host says all of Charlie Kirk's security that day was from Texas, naming Rick Cutler, Dan Flood and Brian Harpole.",
       "anchored_artifacts": [],
@@ -2707,8 +2707,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14198",
-      "ref": "C-14198",
+      "@id": "C-5281",
+      "ref": "C-5281",
       "label": "Host Says Brian Harpole Was Born in Dallas, Texas",
       "claim": "The host says Brian Harpole was also born in Dallas, Texas.",
       "anchored_artifacts": [],
@@ -2727,8 +2727,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14199",
-      "ref": "C-14199",
+      "@id": "C-5282",
+      "ref": "C-5282",
       "label": "Host Says Bobby Harpole Ran for Erath County Sheriff in 2018",
       "claim": "The host says Bobby Harpole gave an interview in 2018 while he was running for county sheriff in Erath County, Texas (rendered Arth in the transcript).",
       "anchored_artifacts": [
@@ -2749,8 +2749,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14200",
-      "ref": "C-14200",
+      "@id": "C-5284",
+      "ref": "C-5284",
       "label": "Bobby Harpole Says He Grew Up a Military Brat in Numerous States and Europe",
       "claim": "In the 2018 interview as read, Bobby Harpole says he was born in Denton, Texas and grew up a military brat living in numerous states and Europe.",
       "anchored_artifacts": [
@@ -2771,8 +2771,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14201",
-      "ref": "C-14201",
+      "@id": "C-5288",
+      "ref": "C-5288",
       "label": "Host Says Bobby Harpole Now Works at a Funeral Home",
       "claim": "The host says that Bobby Harpole is now working at a funeral home.",
       "anchored_artifacts": [],
@@ -2792,8 +2792,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14202",
-      "ref": "C-14202",
+      "@id": "C-5289",
+      "ref": "C-5289",
       "label": "Host Relays Emailer's Claim the Corruption Goes Back to Dallas in the 60s",
       "claim": "The host relays the emailer's statement that the corruption goes back to Dallas in the 60s and that nothing can be done about it.",
       "anchored_artifacts": [
@@ -2814,8 +2814,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14203",
-      "ref": "C-14203",
+      "@id": "C-5290",
+      "ref": "C-5290",
       "label": "Host Says in Her Mock Conspiracy That Elizabeth McCoy Had the Idea for the Tent",
       "claim": "In a bit she calls her conspiracy theory about Elizabeth McCoy undermining Erika Kirk, the host says it was Elizabeth McCoy's idea to put the tent up.",
       "anchored_artifacts": [],
@@ -2834,8 +2834,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14204",
-      "ref": "C-14204",
+      "@id": "C-5291",
+      "ref": "C-5291",
       "label": "Host Says Wolves and Finance Removed an Error Immediately After Her Tweet",
       "claim": "The host says she tweeted that Wolves and Finance had named the wrong person and should take it down, and he immediately took the video down, corrected it and removed it from his content.",
       "anchored_artifacts": [],
@@ -2853,8 +2853,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14205",
-      "ref": "C-14205",
+      "@id": "C-5293",
+      "ref": "C-5293",
       "label": "De Gregorio Says the Letter Does Not Answer His Questions and Precedes a Lawsuit Unless He Changes His Statements",
       "claim": "Zach De Gregorio says in the clip that the letter does not address most of his questions and is the precursor to a lawsuit unless he changes his statements.",
       "anchored_artifacts": [
@@ -2875,8 +2875,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14206",
-      "ref": "C-14206",
+      "@id": "C-5294",
+      "ref": "C-5294",
       "label": "Host Says a Cease and Desist Should Not Open With We Don't Intend to Sue",
       "claim": "The host says a cease and desist should not open with we don't intend to sue you, and says De Gregorio is correct that it is the first step toward suing.",
       "anchored_artifacts": [
@@ -2898,8 +2898,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14207",
-      "ref": "C-14207",
+      "@id": "C-5295",
+      "ref": "C-5295",
       "label": "Host Says Frank Turek Said He Showed Charlie Live Drone Footage on the Drive to the Event",
       "claim": "The host says Frank Turek came out and said that while driving to the event he was showing Charlie live drone footage on his phone and Charlie loved it.",
       "anchored_artifacts": [
@@ -2915,7 +2915,7 @@
       "investigative_direction": "Locate Turek's original interview and compare it with UVU drone authorization records.",
       "transcript_snippet": "First, Frank Turek came out and he said that while they were driving over to the event, he was showing Charlie live drone footage on his phone and Charlie loved it.",
       "supports_claim_refs": [
-        "C-1753"
+        "C-3110"
       ],
       "mentions_person_refs": [
         "N-7",
@@ -2924,8 +2924,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14208",
-      "ref": "C-14208",
+      "@id": "C-5296",
+      "ref": "C-5296",
       "label": "Host Says Harpole Told Shawn Ryan There Were No Drones Because the University Denied the Request",
       "claim": "The host says Brian Harpole told Shawn Ryan that there were no drones because the university denied TPUSA's request to fly them.",
       "anchored_artifacts": [
@@ -2942,7 +2942,7 @@
       "investigative_direction": "Compare Harpole's Shawn Ryan interview with UVU's drone authorization records and TPUSA's request.",
       "transcript_snippet": "he moved to tell Shawn Ryan that actually there were no drones because the university denied their request to fly them.",
       "supports_claim_refs": [
-        "C-1754"
+        "C-3106"
       ],
       "mentions_person_refs": [
         "N-266",
@@ -2951,8 +2951,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14209",
-      "ref": "C-14209",
+      "@id": "C-5297",
+      "ref": "C-5297",
       "label": "Paramount Tactical's Gary Says His Drone Pilot Had Completed the FAA Steps",
       "claim": "In a clip the host plays, Paramount Tactical's Gary says his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.",
       "anchored_artifacts": [
@@ -2971,8 +2971,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14210",
-      "ref": "C-14210",
+      "@id": "C-5298",
+      "ref": "C-5298",
       "label": "Paramount Tactical's Gary Says Law Enforcement Made Him Ground the Drone at UVU",
       "claim": "In a clip the host plays, Paramount Tactical's Gary says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.",
       "anchored_artifacts": [
@@ -2992,8 +2992,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14211",
-      "ref": "C-14211",
+      "@id": "C-5299",
+      "ref": "C-5299",
       "label": "Paramount Tactical's Gary Says the Team Left Campus, Flew the Drone and Got the Survey",
       "claim": "In a clip the host plays, Paramount Tactical's Gary says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.",
       "anchored_artifacts": [
@@ -3014,8 +3014,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14212",
-      "ref": "C-14212",
+      "@id": "C-5300",
+      "ref": "C-5300",
       "label": "Paramount Tactical's Gary and Kolvet Say the Circulated Picture Is a Wide-Angle Shot From a Walkway",
       "claim": "In a clip the host plays, Paramount Tactical's Gary says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, and Andrew Kolvet adds it was taken from an elevated walkway or bridge.",
       "anchored_artifacts": [
@@ -3037,8 +3037,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14213",
-      "ref": "C-14213",
+      "@id": "C-5301",
+      "ref": "C-5301",
       "label": "Kolvet Says the Events Team Routinely Took Crowd Photos to Show Charlie",
       "claim": "Andrew Kolvet says TPUSA's events team went up to the walkway, as they always did, to show Charlie the crowd size, and took the images.",
       "anchored_artifacts": [
@@ -3061,8 +3061,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14214",
-      "ref": "C-14214",
+      "@id": "C-5302",
+      "ref": "C-5302",
       "label": "Host Says the Lawyer's Letter Says There Were Drones That Day but Only Some Were Allowed",
       "claim": "The host says that in the letter to Wolves and Finance the TPUSA lawyer says there were drones that day but only for some people, which she says disputes Andrew Kolvet and Paramount Tactical.",
       "anchored_artifacts": [
@@ -3079,7 +3079,7 @@
       "investigative_direction": "Read the letter text and compare it with Kolvet's account and UVU's drone records.",
       "transcript_snippet": "in the letter to Wolves and Finance he says no there were drones but it was only allowed for some people but there were drones that day.",
       "supports_claim_refs": [
-        "C-2141"
+        "C-5304"
       ],
       "mentions_person_refs": [
         "N-14"
@@ -3087,8 +3087,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14215",
-      "ref": "C-14215",
+      "@id": "C-5303",
+      "ref": "C-5303",
       "label": "De Gregorio Says He Posted a December 7 Video Naming TPUSA Number One Clown",
       "claim": "Zach De Gregorio says on December 7 he posted a video called Top 10 Clowns of the Year, with Turning Point as his number one clown, which discussed the chief security person's drone statement and Frank Turek's interview.",
       "anchored_artifacts": [
@@ -3110,8 +3110,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14216",
-      "ref": "C-14216",
+      "@id": "C-5305",
+      "ref": "C-5305",
       "label": "Host Says Paramount Tactical and Kolvet Told Them It Was Only the Wide Shot Frank Saw",
       "claim": "The host says that Paramount Tactical and Andrew Kolvet had told them that what Frank Turek saw was only the wide shot.",
       "anchored_artifacts": [],
@@ -3133,8 +3133,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14217",
-      "ref": "C-14217",
+      "@id": "C-5306",
+      "ref": "C-5306",
       "label": "Host Says Child Sex Trafficking Keeps Coming Up in Her Investigation",
       "claim": "The host says that last week she told viewers that the theme of sex trafficking, child sex trafficking in particular, is coming up too much in the investigation.",
       "anchored_artifacts": [],
@@ -3148,7 +3148,7 @@
       "investigative_direction": "List each source on the show that connected TPUSA to trafficking, and test each independently.",
       "transcript_snippet": "the theme of sex trafficking, it's coming up too much. Child sex trafficking in particular.",
       "supports_claim_refs": [
-        "C-6981"
+        "C-4720"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3156,8 +3156,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14218",
-      "ref": "C-14218",
+      "@id": "C-5308",
+      "ref": "C-5308",
       "label": "Erika Kirk Says Everyday Heroes Like You Began Funding Transparent Grassroots Groups",
       "claim": "In the clip Erika Kirk says she created Everyday Heroes Like You to bring funds and awareness to grassroots organizations in specific communities that are transparent with funds rather than sending 70 percent to admin.",
       "anchored_artifacts": [
@@ -3174,7 +3174,7 @@
       "investigative_direction": "Obtain the charity's registration, Form 990 filings and grant recipients; confirm whether this is the same as Everyday Heroes Foundation.",
       "transcript_snippet": "I decided to create something called Everyday Heroes Like You, where we're able to originally it was focused on bringing funds and awareness to various grassroots organizations that were in specific communities.",
       "supports_claim_refs": [
-        "C-9862"
+        "C-5179"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -3182,8 +3182,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14219",
-      "ref": "C-14219",
+      "@id": "C-5309",
+      "ref": "C-5309",
       "label": "Erika Kirk Says Her Charity Work Moved to Marine Corps, Army and a Romanian Orphanage",
       "claim": "In the clip Erika Kirk says her charity work then phased into working with the Marine Corps and the Army and with an orphanage in Romania, supporting them through winter with clothing and tangible items.",
       "anchored_artifacts": [
@@ -3205,8 +3205,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14220",
-      "ref": "C-14220",
+      "@id": "C-5311",
+      "ref": "C-5311",
       "label": "Charlie Kirk Says in the Debate That China Has Dead People in the Streets",
       "claim": "In the debate clip as played, Charlie Kirk tells his opponent that in China you will drive down the street and see dead people laying in the middle of the street.",
       "anchored_artifacts": [
@@ -3228,8 +3228,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14221",
-      "ref": "C-14221",
+      "@id": "C-5313",
+      "ref": "C-5313",
       "label": "Charlie Kirk Says Erika Would Show Videos and Images From Her China Stay",
       "claim": "In the debate clip Charlie Kirk says his wife lived in China for six months and she will show videos and images.",
       "anchored_artifacts": [
@@ -3245,7 +3245,7 @@
       "investigative_direction": "Ask TPUSA or Erika Kirk for the videos and images from China, which would also date the stay.",
       "transcript_snippet": "my wife lived in China for 6 months and she'll show you the videos. She'll show you the images.",
       "supports_claim_refs": [
-        "C-2143"
+        "C-5312"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3254,8 +3254,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14222",
-      "ref": "C-14222",
+      "@id": "C-5314",
+      "ref": "C-5314",
       "label": "Host Says a Real Estate Profile Ties Erika Kirk's China Work to Everyday Heroes",
       "claim": "The host says that after digging she saw on a real estate profile that Erika Kirk said the charity was Everyday Heroes, which would fit what she said in the interview about China.",
       "anchored_artifacts": [
@@ -3278,8 +3278,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14223",
-      "ref": "C-14223",
+      "@id": "C-5315",
+      "ref": "C-5315",
       "label": "Host Asks Viewers for Tips on Erika Kirk's China Charity and Timeline",
       "claim": "The host asks viewers to send tips to the show's tips address about when Erika Kirk was in China and which charity she worked with on sex trafficking victims, saying she is building an Erika Kirk timeline.",
       "anchored_artifacts": [
@@ -3301,8 +3301,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14224",
-      "ref": "C-14224",
+      "@id": "C-5317",
+      "ref": "C-5317",
       "label": "Host Says an Earlier Cornerstone Church Event Had a Pastor Attack Her and Tucker Carlson Over Talking Points",
       "claim": "The host says Cornerstone Church previously had a pastor on stage naming her (transcribed Candace Owens) and Tucker Carlson as repeating talking points.",
       "anchored_artifacts": [],
@@ -3322,8 +3322,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14225",
-      "ref": "C-14225",
+      "@id": "C-5318",
+      "ref": "C-5318",
       "label": "Host Says Someone Should Ask Rob McCoy About Rehabilitating People Imprisoned for Harming Children",
       "claim": "The host says somebody could ask Rob McCoy why he is trying to rehabilitate people who went to prison for harming children.",
       "anchored_artifacts": [],
@@ -3337,7 +3337,7 @@
       "investigative_direction": "Compare with the earlier McCoy interview with a man who went to prison and was given access to children.",
       "transcript_snippet": "somebody could ask him a question about why he's trying to rehabilitate people that went to prison for harming children",
       "supports_claim_refs": [
-        "C-10867"
+        "C-2861"
       ],
       "mentions_person_refs": [
         "N-17",
@@ -3346,8 +3346,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14226",
-      "ref": "C-14226",
+      "@id": "C-5320",
+      "ref": "C-5320",
       "label": "Host Says She Holds Another Threatening Text Sent to Charlie Kirk by a Donor",
       "claim": "The host says she has another text message, sent to Charlie Kirk, that she will reveal and calls it another laced threat from one of his donors.",
       "anchored_artifacts": [
@@ -3367,8 +3367,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14227",
-      "ref": "C-14227",
+      "@id": "C-5321",
+      "ref": "C-5321",
       "label": "Host Says TPUSA Purged Employees It Wrongly Suspected and Now They Are Giving Her Information",
       "claim": "The host says Turning Point USA purged employees it thought were giving her information, that they were not, and that those employees are now giving her information.",
       "anchored_artifacts": [],
@@ -3387,8 +3387,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14228",
-      "ref": "C-14228",
+      "@id": "C-5322",
+      "ref": "C-5322",
       "label": "Host Says She and Baron Coleman Both Received a Tip for a Joint Show",
       "claim": "The host says that the next day Baron Coleman will be her guest on a joint show because they both received a tip she calls mind-blowing.",
       "anchored_artifacts": [],
@@ -3406,8 +3406,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14229",
-      "ref": "C-14229",
+      "@id": "C-5324",
+      "ref": "C-5324",
       "label": "Host Says Dan Flood Was Still Providing Security at a Charlie Kirk Day Event",
       "claim": "The host says, after remarking that Kash Patel was invited, that Dan Flood was there too and was still providing security, which she found odd.",
       "anchored_artifacts": [
@@ -3423,7 +3423,7 @@
       "investigative_direction": "Identify the event and date; request security staffing records and attendance confirmations.",
       "transcript_snippet": "Dan Flood was there, too. He was still providing security, which I thought was weird.",
       "supports_claim_refs": [
-        "C-2147"
+        "C-5323"
       ],
       "mentions_person_refs": [
         "N-270",
@@ -3432,8 +3432,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14230",
-      "ref": "C-14230",
+      "@id": "C-5325",
+      "ref": "C-5325",
       "label": "Host Says One Person Told Her New Braunfels Has an Intel Base but She Could Not Confirm",
       "claim": "The host says one person told her New Braunfels has an intel base and that she could not find it herself.",
       "anchored_artifacts": [
@@ -3454,8 +3454,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14231",
-      "ref": "C-14231",
+      "@id": "C-5326",
+      "ref": "C-5326",
       "label": "Host Says Critics Get Big Mad and Pay People to Make Videos Calling Her Crazy",
       "claim": "The host says that whenever they get real big mad they start paying people to make a bunch of videos saying she is crazy.",
       "anchored_artifacts": [],
@@ -3467,7 +3467,7 @@
       "investigative_direction": "Request any evidence of payments to the content creators she has in mind.",
       "transcript_snippet": "Whenever they get real big mad and they start paying people to make a bunch of videos",
       "supports_claim_refs": [
-        "C-7897"
+        "C-1309"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3475,8 +3475,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14232",
-      "ref": "C-14232",
+      "@id": "C-5327",
+      "ref": "C-5327",
       "label": "Host Says Many GATE Program Alumni Report Blank Childhood Memories",
       "claim": "The host says that a lot of people in the GATE program said they have blank slates for their childhood, citing a commenter with five or six solid childhood memories.",
       "anchored_artifacts": [
@@ -3492,7 +3492,7 @@
       "investigative_direction": "Collect first-person accounts and consider whether they match other gifted-program memory reports before drawing conclusions.",
       "transcript_snippet": "A lot of people in the gate program said this that they just have blank slates for their childhood.",
       "supports_claim_refs": [
-        "C-2120"
+        "C-5228"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3500,8 +3500,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14233",
-      "ref": "C-14233",
+      "@id": "C-5328",
+      "ref": "C-5328",
       "label": "Host Says They Control Both Sides and They Are Satanists",
       "claim": "The host says that she gets what is happening: they control both sides and they are Satanists, causing the divisions.",
       "anchored_artifacts": [],
@@ -3518,8 +3518,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14234",
-      "ref": "C-14234",
+      "@id": "C-5329",
+      "ref": "C-5329",
       "label": "Host Says Brigitte Macron Story Led Her to the Same Child and Trafficking Theme in the TPUSA Story",
       "claim": "The host says that speaking about Brigitte Macron and the weird child stuff, and then getting into the Turning Point USA story, she keeps coming up with the theme of trafficking and children.",
       "anchored_artifacts": [
@@ -3535,7 +3535,7 @@
       "investigative_direction": "Separate the evidence for each thread; the host links them by theme rather than documents.",
       "transcript_snippet": "speaking about Brigitte Macron and the weird child stuff that's happening and suddenly getting into the Turning Point USA story",
       "supports_claim_refs": [
-        "C-6981"
+        "C-4720"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3544,8 +3544,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14235",
-      "ref": "C-14235",
+      "@id": "C-5331",
+      "ref": "C-5331",
       "label": "Host Says Erika Kirk Was in China Six Months and Should Name Her Partners",
       "claim": "The host says that Erika Kirk knows she was in China for six months, not two weeks, and should say what she worked with and who she worked with.",
       "anchored_artifacts": [
@@ -3561,11 +3561,11 @@
       "investigative_direction": "Press TPUSA for the charity name and the dates of Erika's stay; the host's six-month figure comes from Charlie's remark.",
       "transcript_snippet": "You know you were there for six months and you should just tell me what you were working with, who you're working with",
       "contradicts_claim_refs": [
-        "C-2142",
-        "C-2113"
+        "C-5310",
+        "C-5180"
       ],
       "supports_claim_refs": [
-        "C-2143"
+        "C-5312"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3574,8 +3574,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14236",
-      "ref": "C-14236",
+      "@id": "C-5332",
+      "ref": "C-5332",
       "label": "Host Recounts a Commenter Dismissing Mitch Snow Over an Alleged Abuse of Women 20 Years Ago",
       "claim": "The host recounts a commenter named Joe who argued that Mitch Snow abused women 20 years ago, so his Fort Huachuca account should not be heard, and says Baron Coleman rebutted her; the host does not endorse the allegation.",
       "anchored_artifacts": [],
@@ -3596,8 +3596,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14237",
-      "ref": "C-14237",
+      "@id": "C-5333",
+      "ref": "C-5333",
       "label": "Host Says All New Fresh Leaks From TPUSA Are Coming This Week",
       "claim": "The host says that she has all new fresh leaks from Turning Point USA for the week ahead.",
       "anchored_artifacts": [],

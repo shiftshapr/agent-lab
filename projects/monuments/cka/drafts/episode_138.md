@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10c): N-822, N-823, N-824, N-825, N-11207, N-11209, N-11210
   - Hole-minted Nodes (reintro-ep138): N-10825
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-9087–C-9153
+  - Claim Range: C-11825–C-11907
   - New Nodes Introduced: N-10780, N-10781, N-10783, N-10784
   - Reused Nodes Appearing: N-2, N-504, N-3, N-40, N-54, N-1, N-10782, N-10785, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-159, N-170, N-190, N-261, N-330, N-367, N-437, N-506, N-634, N-776, N-815, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10037, N-10038, N-10039, N-10056, N-10070, N-10077, N-10091, N-10097, N-10106, N-10151, N-10162, N-10319, N-10324, N-10564, N-10570, N-10572, N-10573, N-10598, N-10605, N-10623, N-10670, N-10679, N-10711, N-10713, N-10723, N-10743, N-10751, N-10808, N-10810, N-10899, N-10975, N-11012, N-11017, N-11065, N-11103, N-11121, N-11149, N-11068, N-11208
   - (see registers)
@@ -39,7 +39,7 @@ Video Timestamp: 00:17:35–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air with quoted content)
 
-*Related: C-3222, C-3223, C-3235, N-10780*
+*Related: C-11857, C-11863, C-11900, N-10780*
 
 **A-2246.2** Second X post by "Shady Lady Katie" detailing group activities: background checks, account reporting, sharing Candace Owens' home address, "coordinated efforts" against Owens
 
@@ -49,7 +49,7 @@ Video Timestamp: 00:19:12–00:20:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-3223, C-3235, N-10780*
+*Related: C-11863, C-11900, N-10780*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:13:35–00:14:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image referenced and described on air)
 
-*Related: C-3224, N-10783*
+*Related: C-11848, N-10783*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:23:50–00:24:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-10781*
+*Related: C-11874, N-10781*
 
 **A-2248.2** Surveillance/event footage frame: Nate Walker near Hall's walkway, putting on sunglasses, no bag, at approximately 12:25 (described as ~1 minute 45 seconds after A-2248.1)
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:25:00–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-10781*
+*Related: C-11874, N-10781*
 
 **A-2248.3** Surveillance/event footage frame: Nate Walker walking downstairs, approximately two minutes after A-2248.2
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:25:35–00:25:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (footage described on air)
 
-*Related: C-3225, N-10781*
+*Related: C-11874, N-10781*
 
 ---
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:36:50–00:37:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (statement read on air)
 
-*Related: C-3226, C-3227*
+*Related: C-11883, C-11884*
 
 ---
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:32:46–00:34:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3233*
+*Related: C-11878*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:44:38–00:45:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3228, N-10785*
+*Related: C-11891, N-10785*
 
 **A-2251.2** Segment in which Piers Morgan states Mississippi-area law enforcement and sheriffs report no records, police reports, or unsolved homicides matching Victor Marx's account of a killing at age 7; Marx states his stepfather held his hand on a pistol pointed at a handcuffed, kneeling "homeless fellow"; Marx acknowledges he has studied false memories and that false memory formation is "possible"
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:45:49–00:47:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-3229, C-3230, C-3231, N-10785*
+*Related: C-11892, C-11894, C-11893, N-10785*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:21:54–00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (email text read aloud)
 
-*Related: C-3232*
+*Related: C-11869*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:54:33–00:55:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3235, N-10780*
+*Related: C-11900, N-10780*
 
 **A-2253.5** Comment by "Ben the Beast": asks for host's thoughts on Andrew Tate's most recent arrest; calls it a "Matrix attack."
 
@@ -270,7 +270,7 @@ Video Timestamp: 00:01:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9088*
+*Related: C-11826*
 
 ---
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:07:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9096, C-9097*
+*Related: C-11835, C-11836*
 
 **A-2988.2** Host verbal reference to the ATF examiner's preliminary hearing testimony giving a range of weapons for the metal fragments (not shown)
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:10:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9102*
+*Related: C-11842*
 
 **A-2988.3** Host verbal reference to hearing testimony on the Israeli tech firm extraction of the text messages and to the messages being presented without timestamps (not shown)
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:14:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9107, C-9109, C-9110, C-9112*
+*Related: C-11847, C-11850, C-11851, C-11853*
 
 **A-2988.4** Host verbal reference to defense counsel's statement that they lacked access to their client's phone (not shown)
 
@@ -310,7 +310,7 @@ Video Timestamp: 00:17:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9115*
+*Related: C-11856*
 
 ---
 
@@ -323,7 +323,7 @@ Video Timestamp: 00:18:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9118, C-9119*
+*Related: C-11861, C-11862*
 
 **A-2989.2** Host reading of account names from the Protecting Mrs. Kirk member list
 
@@ -334,7 +334,7 @@ Video Timestamp: 00:20:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9122*
+*Related: C-11866*
 
 ---
 
@@ -347,7 +347,7 @@ Video Timestamp: 00:43:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9140*
+*Related: C-11889*
 
 ---
 
@@ -360,7 +360,7 @@ Video Timestamp: 00:52:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9145*
+*Related: C-11898*
 
 ---
 
@@ -375,7 +375,7 @@ Claim Count: (see series ledger)
 Episode Count: (see series ledger)
 Investigative Pressure: High
 
-*Related: A-2253.3, C-3222, N-10782*
+*Related: A-2253.3, C-11857, N-10782*
 
 ---
 
@@ -388,7 +388,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2246.1, A-2246.2, A-2253.4, C-3222, C-3223, C-3235, N-2, N-3*
+*Related: A-2246.1, A-2246.2, A-2253.4, C-11857, C-11863, C-11900, N-2, N-3*
 
 ---
 
@@ -401,7 +401,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2248.1, A-2248.2, A-2248.3, C-3225, N-1*
+*Related: A-2248.1, A-2248.2, A-2248.3, C-11874, N-1*
 
 ---
 
@@ -414,7 +414,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2247.1, A-2253.1, A-2253.2, C-3224, N-2*
+*Related: A-2247.1, A-2253.1, A-2253.2, C-11848, N-2*
 
 ---
 
@@ -427,7 +427,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2247.1, C-3224, N-10782*
+*Related: A-2247.1, C-11848, N-10782*
 
 ---
 
@@ -453,7 +453,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2251.1, A-2251.2, C-3228, C-3229, C-3230, C-3231*
+*Related: A-2251.1, A-2251.2, C-11891, C-11892, C-11894, C-11893*
 
 ---
 
@@ -461,7 +461,7 @@ Investigative Pressure: High
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9117, C-9137, C-9138, C-9139*
+*Related: C-11859, C-11886, C-11887, C-11888*
 
 ---
 
@@ -469,7 +469,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9098*
+*Related: C-11837*
 
 ---
 
@@ -477,7 +477,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9093, C-9094*
+*Related: C-11831, C-11832*
 
 ---
 
@@ -485,7 +485,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9110, C-9111*
+*Related: C-11851, C-11852*
 
 ---
 
@@ -493,7 +493,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9109*
+*Related: C-11850*
 
 ---
 
@@ -501,7 +501,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9101*
+*Related: C-11841*
 
 ---
 
@@ -509,7 +509,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9094*
+*Related: C-11832*
 
 ---
 
@@ -517,7 +517,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9112*
+*Related: C-11853*
 
 ---
 
@@ -525,7 +525,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9109*
+*Related: C-11850*
 
 ---
 
@@ -533,7 +533,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9111*
+*Related: C-11852*
 
 ---
 
@@ -541,7 +541,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9124*
+*Related: C-11868*
 
 ---
 
@@ -549,7 +549,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9107, C-9113*
+*Related: C-11847, C-11854*
 
 ---
 
@@ -557,7 +557,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9144*
+*Related: C-11897*
 
 ---
 
@@ -565,7 +565,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9089*
+*Related: C-11827*
 
 ---
 
@@ -573,7 +573,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9092*
+*Related: C-11830*
 
 ---
 
@@ -581,7 +581,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9091*
+*Related: C-11828*
 
 ---
 
@@ -589,7 +589,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9105*
+*Related: C-11845*
 
 ---
 
@@ -597,7 +597,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9102*
+*Related: C-11842*
 
 ---
 
@@ -605,7 +605,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9150*
+*Related: C-11904*
 
 ---
 
@@ -613,7 +613,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9146*
+*Related: C-11899*
 
 ---
 
@@ -621,7 +621,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9114*
+*Related: C-11855*
 
 ---
 
@@ -629,7 +629,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9102*
+*Related: C-11842*
 
 ---
 
@@ -637,7 +637,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9128*
+*Related: C-11873*
 
 ---
 
@@ -645,7 +645,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9092, C-9104, C-9108*
+*Related: C-11830, C-11844, C-11849*
 
 ---
 
@@ -653,7 +653,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9087*
+*Related: C-11825*
 
 ---
 
@@ -661,7 +661,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9115*
+*Related: C-11856*
 
 ---
 
@@ -669,7 +669,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9119*
+*Related: C-11862*
 
 ---
 
@@ -677,7 +677,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9096, C-9097*
+*Related: C-11835, C-11836*
 
 ---
 
@@ -685,7 +685,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9103, C-9104*
+*Related: C-11843, C-11844*
 
 ---
 
@@ -693,7 +693,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9107, C-9110, C-9113*
+*Related: C-11847, C-11851, C-11854*
 
 ---
 
@@ -701,7 +701,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9129*
+*Related: C-11875*
 
 ---
 
@@ -709,7 +709,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9124*
+*Related: C-11868*
 
 ---
 
@@ -717,7 +717,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9145*
+*Related: C-11898*
 
 ---
 
@@ -725,7 +725,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9105*
+*Related: C-11845*
 
 ---
 
@@ -733,7 +733,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9105, C-9106*
+*Related: C-11845, C-11846*
 
 ---
 
@@ -741,7 +741,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9096, C-9097*
+*Related: C-11835, C-11836*
 
 ---
 
@@ -749,7 +749,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9122*
+*Related: C-11866*
 
 ---
 
@@ -757,7 +757,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9102*
+*Related: C-11842*
 
 ---
 
@@ -765,7 +765,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9100, C-9101*
+*Related: C-11840, C-11841*
 
 ---
 
@@ -773,7 +773,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9117, C-9139*
+*Related: C-11859, C-11888*
 
 ---
 
@@ -781,7 +781,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9116*
+*Related: C-11858*
 
 ---
 
@@ -789,7 +789,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9115*
+*Related: C-11856*
 
 ---
 
@@ -797,7 +797,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9134*
+*Related: C-11881*
 
 ---
 
@@ -805,7 +805,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9136*
+*Related: C-11885*
 
 ---
 
@@ -813,7 +813,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9114, C-9152*
+*Related: C-11855, C-11906*
 
 ---
 
@@ -821,7 +821,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9091*
+*Related: C-11828*
 
 ---
 
@@ -829,7 +829,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9094*
+*Related: C-11832*
 
 ---
 
@@ -837,7 +837,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9098, C-9128*
+*Related: C-11837, C-11873*
 
 ---
 
@@ -845,7 +845,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9148, C-9149, C-9150*
+*Related: C-11902, C-11903, C-11904*
 
 ---
 
@@ -853,7 +853,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9128*
+*Related: C-11873*
 
 ---
 
@@ -861,7 +861,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9087, C-9116, C-9123, C-9124, C-9141, C-9143*
+*Related: C-11825, C-11858, C-11867, C-11868, C-11890, C-11896*
 
 ---
 
@@ -869,7 +869,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9087, C-9140, C-9141, C-9142*
+*Related: C-11825, C-11889, C-11890, C-11895*
 
 ---
 
@@ -877,7 +877,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9119*
+*Related: C-11862*
 
 ---
 
@@ -885,7 +885,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9105, C-9106*
+*Related: C-11845, C-11846*
 
 ---
 
@@ -893,7 +893,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9087, C-9088, C-9089, C-9090, C-9091, C-9092, C-9093, C-9094, C-9095, C-9096, C-9097, C-9098, C-9099, C-9100, C-9101, C-9102, C-9103, C-9104, C-9105, C-9106, C-9107, C-9108, C-9109, C-9110, C-9111, C-9112, C-9113, C-9114, C-9115, C-9116, C-9117, C-9118, C-9119, C-9120, C-9121, C-9122, C-9123, C-9124, C-9125, C-9126, C-9127, C-9128, C-9129, C-9130, C-9131, C-9132, C-9133, C-9134, C-9135, C-9136, C-9137, C-9138, C-9139, C-9140, C-9141, C-9143, C-9144, C-9145, C-9146, C-9147, C-9148, C-9149, C-9150, C-9151, C-9152, C-9153*
+*Related: C-11825, C-11826, C-11827, C-11829, C-11828, C-11830, C-11831, C-11832, C-11833, C-11835, C-11836, C-11837, C-11838, C-11840, C-11841, C-11842, C-11843, C-11844, C-11845, C-11846, C-11847, C-11849, C-11850, C-11851, C-11852, C-11853, C-11854, C-11855, C-11856, C-11858, C-11859, C-11861, C-11862, C-11864, C-11865, C-11866, C-11867, C-11868, C-11870, C-11871, C-11872, C-11873, C-11875, C-11876, C-11877, C-11879, C-11880, C-11881, C-11882, C-11885, C-11886, C-11887, C-11888, C-11889, C-11890, C-11896, C-11897, C-11898, C-11899, C-11901, C-11902, C-11903, C-11904, C-11905, C-11906, C-11907*
 
 ---
 
@@ -901,7 +901,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9123*
+*Related: C-11867*
 
 ---
 
@@ -909,7 +909,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9087, C-9140, C-9142*
+*Related: C-11825, C-11889, C-11895*
 
 ---
 
@@ -917,7 +917,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9111*
+*Related: C-11852*
 
 ---
 
@@ -925,7 +925,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9094*
+*Related: C-11832*
 
 ---
 
@@ -933,7 +933,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9128*
+*Related: C-11873*
 
 ---
 
@@ -941,7 +941,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9091, C-9093, C-9095, C-9096, C-9097, C-9098, C-9099, C-9100, C-9101, C-9102, C-9103, C-9104, C-9112, C-9113, C-9114, C-9115, C-9152, C-9153*
+*Related: C-11828, C-11831, C-11833, C-11835, C-11836, C-11837, C-11838, C-11840, C-11841, C-11842, C-11843, C-11844, C-11853, C-11854, C-11855, C-11856, C-11906, C-11907*
 
 ---
 
@@ -949,7 +949,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9089*
+*Related: C-11827*
 
 ---
 
@@ -957,7 +957,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9119*
+*Related: C-11862*
 
 ---
 
@@ -965,7 +965,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9126, C-9127*
+*Related: C-11871, C-11872*
 
 ---
 
@@ -973,7 +973,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9128, C-9129*
+*Related: C-11873, C-11875*
 
 ---
 
@@ -981,7 +981,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9088*
+*Related: C-11826*
 
 ---
 
@@ -989,7 +989,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9096, C-9097, C-9104, C-9107, C-9108, C-9113*
+*Related: C-11835, C-11836, C-11844, C-11847, C-11849, C-11854*
 
 ---
 
@@ -997,7 +997,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9124*
+*Related: C-11868*
 
 ---
 
@@ -1005,7 +1005,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9144*
+*Related: C-11897*
 
 ---
 
@@ -1013,7 +1013,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9093, C-9094*
+*Related: C-11831, C-11832*
 
 ---
 
@@ -1021,7 +1021,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9150*
+*Related: C-11904*
 
 ---
 
@@ -1031,7 +1031,7 @@ First named by the host at 00:02:40 in episode 138 as the man who started the US
 
 Aliases: James Rawlinson
 
-*Related: C-9090*
+*Related: C-11829*
 
 ---
 
@@ -1039,7 +1039,7 @@ Aliases: James Rawlinson
 
 First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who collaborated with the group chat organizer.
 
-*Related: C-9119*
+*Related: C-11862*
 
 ---
 
@@ -1047,7 +1047,7 @@ First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who 
 
 First named by the host at 00:30:40 in episode 138 as the celebrity blogger in the news over a live-streamed self-harm incident.
 
-*Related: C-9130, C-9131, C-9132, C-9133, C-9134, C-9135*
+*Related: C-11876, C-11877, C-11879, C-11880, C-11881, C-11882*
 
 ---
 
@@ -1055,7 +1055,7 @@ First named by the host at 00:30:40 in episode 138 as the celebrity blogger in t
 
 First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton targeted.
 
-*Related: C-9130*
+*Related: C-11876*
 
 ---
 
@@ -1063,7 +1063,7 @@ First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton t
 
 First named by the host at 00:31:15 in episode 138 as the subject of an alleged Perez Hilton photo post at age 17.
 
-*Related: C-9131*
+*Related: C-11877*
 
 ---
 
@@ -1072,7 +1072,7 @@ First named by the host at 00:31:15 in episode 138 as the subject of an alleged 
 Node Type: Organization
 Israeli digital forensics firm, transcribed as Celebrite, that the host says police used to extract the Tyler Robinson and Lance text messages.
 
-*Related: C-9110*
+*Related: C-11851*
 
 ---
 
@@ -1081,7 +1081,7 @@ Israeli digital forensics firm, transcribed as Celebrite, that the host says pol
 Node Type: Topic
 The host's public question to Blake Neff about whether he, Danny Phillip, Mikey McCoy and Nate Walker arrived together in one car at Timpanogos Hospital.
 
-*Related: C-9128*
+*Related: C-11873*
 
 ---
 
@@ -1090,7 +1090,7 @@ The host's public question to Blake Neff about whether he, Danny Phillip, Mikey 
 Node Type: Topic
 The Tuesday-night TikTok live stream of Perez Hilton and the Miami-Dade Sheriff's response, as discussed by the host.
 
-*Related: C-9132, C-9133, C-9134, C-9135*
+*Related: C-11879, C-11880, C-11881, C-11882*
 
 ---
 
@@ -1099,13 +1099,13 @@ The Tuesday-night TikTok live stream of Perez Hilton and the Miami-Dade Sheriff'
 Node Type: Organization
 US Protestant denomination the host says is losing members while the Catholic Church grows after Charlie Kirk's death.
 
-*Related: C-9146*
+*Related: C-11899*
 
 ---
 
 ## 5. Claim Register
 
-**C-3222** Host Says "Protecting Mrs. Kirk" Group Chat Had 92 Members Coordinating Against Her
+**C-11857** Host Says "Protecting Mrs. Kirk" Group Chat Had 92 Members Coordinating Against Her
 
 Claim Timestamp: 00:17:35–00:20:10
 
@@ -1120,7 +1120,7 @@ Investigative Direction: Obtain the original Shady Lady Katie post via X/Twitter
 
 ---
 
-**C-3223** Group Chat Members Shared Candace Owens' Home Address
+**C-11863** Group Chat Members Shared Candace Owens' Home Address
 
 Claim Timestamp: 00:19:12–00:20:10
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Verify quoted claim in original X post and any accompan
 
 ---
 
-**C-3224** Host Says Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear
+**C-11848** Host Says Lance's Phone Has a Damaged Screen Where the Timestamp Would Appear
 
 Claim Timestamp: 00:13:35–00:14:00
 
@@ -1150,7 +1150,7 @@ Investigative Direction: Obtain the original preliminary-hearing exhibit; confir
 
 ---
 
-**C-3225** Host Says Footage Shows Nate Walker Upstairs Without His Bag by About 12:25
+**C-11874** Host Says Footage Shows Nate Walker Upstairs Without His Bag by About 12:25
 
 Claim Timestamp: 00:23:50–00:25:45
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Obtain original venue surveillance footage with verifie
 
 ---
 
-**C-3226** Miami-Dade Sheriff's Deputies Responded to Perez Hilton's Residence for Live-Streamed Self-Harm
+**C-11883** Miami-Dade Sheriff's Deputies Responded to Perez Hilton's Residence for Live-Streamed Self-Harm
 
 Claim Timestamp: 00:36:50–00:37:30
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Obtain the original Miami-Dade Sheriff's Office email/s
 
 ---
 
-**C-3227** Sheriff's Office Statement the Host Reads Says Perez Hilton Was Taken to a Local Hospital by Miami-Dade Fire Rescue
+**C-11884** Sheriff's Office Statement the Host Reads Says Perez Hilton Was Taken to a Local Hospital by Miami-Dade Fire Rescue
 
 Claim Timestamp: 00:37:00–00:37:30
 
@@ -1195,7 +1195,7 @@ Investigative Direction: Confirm hospitalization via hospital records or subsequ
 
 ---
 
-**C-3228** Victor Marx Explains Cutting a Cat's Head Off at Age 3 With an Adult's Hand Over His
+**C-11891** Victor Marx Explains Cutting a Cat's Head Off at Age 3 With an Adult's Hand Over His
 
 Claim Timestamp: 00:44:38–00:45:30
 
@@ -1210,7 +1210,7 @@ Investigative Direction: Obtain the full Piers Morgan interview transcript; veri
 
 ---
 
-**C-3229** Victor Marx Stated He Shot a Handcuffed Kneeling Man at Age 7
+**C-11892** Victor Marx Stated He Shot a Handcuffed Kneeling Man at Age 7
 
 Claim Timestamp: 00:45:49–00:47:00
 
@@ -1225,7 +1225,7 @@ Investigative Direction: Verify statement against the full interview; cross-chec
 
 ---
 
-**C-3230** Victor Marx Acknowledged False-Memory Formation Is Possible Regarding His Childhood Claims
+**C-11894** Victor Marx Acknowledged False-Memory Formation Is Possible Regarding His Childhood Claims
 
 Claim Timestamp: 00:46:50–00:47:25
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Verify the full exchange; identify Victor Marx's specif
 
 ---
 
-**C-3231** Piers Morgan Says Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account
+**C-11893** Piers Morgan Says Mississippi-Area Law Enforcement Has No Records Matching Victor Marx's Account
 
 Claim Timestamp: 00:45:49–00:46:30
 
@@ -1255,7 +1255,7 @@ Investigative Direction: Submit records requests to Mississippi-area sheriff and
 
 ---
 
-**C-3232** Host Says Daily Mail's Charlie Spiering Wrote Claiming Foreign-Operative Use of Candace Owens' Tip Line
+**C-11869** Host Says Daily Mail's Charlie Spiering Wrote Claiming Foreign-Operative Use of Candace Owens' Tip Line
 
 Claim Timestamp: 00:21:54–00:22:30
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Obtain the original email with full headers and timesta
 
 ---
 
-**C-3233** Perez Hilton Acknowledged Past Bullying on the 2010 Ellen DeGeneres Show and Pledged to Change
+**C-11878** Perez Hilton Acknowledged Past Bullying on the 2010 Ellen DeGeneres Show and Pledged to Change
 
 Claim Timestamp: 00:32:46–00:34:05
 
@@ -1285,7 +1285,7 @@ Investigative Direction: Obtain the full 2010 episode recording for complete con
 
 ---
 
-**C-3234** Host Says the "Protecting Mrs. Kirk" Group Chat Was Organized by an Agent of Israel
+**C-11860** Host Says the "Protecting Mrs. Kirk" Group Chat Was Organized by an Agent of Israel
 
 Claim Timestamp: 00:18:25–00:19:12
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Identify organizer through leaked membership lists or n
 
 ---
 
-**C-3235** Host Says It Is Terrifying That Group Chat Members Shared Her Address
+**C-11900** Host Says It Is Terrifying That Group Chat Members Shared Her Address
 
 Claim Timestamp: 00:54:33–00:55:20
 
@@ -1317,7 +1317,7 @@ Investigative Direction: Compare commenter characterization against Shady Lady K
 
 ---
 
-**C-3762** Host says it is a lie that Tyler Robinson and his partner Lance are transgender
+**C-11834** Host says it is a lie that Tyler Robinson and his partner Lance are transgender
 
 Claim Timestamp: 00:06:43
 
@@ -1332,7 +1332,7 @@ Investigative Direction: Compare the influencer statements on the list against c
 
 ---
 
-**C-3763** Host says it is a lie that Tyler Robinson's gun was tied to the autopsy bullet fragment
+**C-11839** Host says it is a lie that Tyler Robinson's gun was tied to the autopsy bullet fragment
 
 Claim Timestamp: 00:09:28
 
@@ -1347,7 +1347,7 @@ Investigative Direction: Obtain the ATF examiner's preliminary-hearing testimony
 
 ---
 
-**C-9087** Host Says Victor Marx Is One of Erika Kirk's Spiritual Advisers and Piers Morgan Interviewed Him
+**C-11825** Host Says Victor Marx Is One of Erika Kirk's Spiritual Advisers and Piers Morgan Interviewed Him
 
 Claim Timestamp: 00:00:50
 
@@ -1363,7 +1363,7 @@ Investigative Direction: Obtain the Piers Morgan interview and public records of
 
 ---
 
-**C-9088** Host Says Officer Bagley Worked in the Utah County Sheriff's Sex Crimes Detective Unit
+**C-11826** Host Says Officer Bagley Worked in the Utah County Sheriff's Sex Crimes Detective Unit
 
 Claim Timestamp: 00:01:37
 
@@ -1379,7 +1379,7 @@ Investigative Direction: Obtain Utah County Sheriff's Office personnel and assig
 
 ---
 
-**C-9089** Host Says George Zinn Was Arrested for Child Pornography and Seems Put Up to Confess
+**C-11827** Host Says George Zinn Was Arrested for Child Pornography and Seems Put Up to Confess
 
 Claim Timestamp: 00:02:10
 
@@ -1390,13 +1390,13 @@ Transcript Snippet: Various decoys like George Zinn arrested for child pornograp
 Anchored Artifacts: 
 Mentions: N-3, N-42
 Related Nodes: N-10097
-Supports: C-1158
+Supports: C-157
 Tags: relevance:core
 Investigative Direction: Obtain the Zinn arrest record, charging documents and booking date to confirm the charge and compare with the confession episode.
 
 ---
 
-**C-9090** Host Says David Sprague Changed His Name From James Rawlinson and Told Her His Father Was Tied to Child Crimes
+**C-11829** Host Says David Sprague Changed His Name From James Rawlinson and Told Her His Father Was Tied to Child Crimes
 
 Claim Timestamp: 00:02:40
 
@@ -1412,7 +1412,7 @@ Investigative Direction: Verify a legal name change and any court record concern
 
 ---
 
-**C-9091** Host Suspects Mike Mitchell Is the Utah Undercover Cyber Sex Crimes Detective of the Same Name
+**C-11828** Host Suspects Mike Mitchell Is the Utah Undercover Cyber Sex Crimes Detective of the Same Name
 
 Claim Timestamp: 00:02:38
 
@@ -1423,13 +1423,13 @@ Transcript Snippet: we were able to find an undercover detective who was involve
 Anchored Artifacts: 
 Mentions: N-3, N-125, N-40
 Related Nodes: N-10151
-Supports: C-1330
+Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Match the detective's service record and photographs against the Boy Scouts leader Mike Mitchell and his Washington County retirement.
 
 ---
 
-**C-9092** Host Says Feds Turn Would-Be Criminals Into Assets by Threatening Exposure
+**C-11830** Host Says Feds Turn Would-Be Criminals Into Assets by Threatening Exposure
 
 Claim Timestamp: 00:03:40
 
@@ -1445,7 +1445,7 @@ Investigative Direction: Identify any documented case of the Utah cyber crimes u
 
 ---
 
-**C-9093** Host Says It Is a Lie That Tyler Robinson's Father Turned Him In
+**C-11831** Host Says It Is a Lie That Tyler Robinson's Father Turned Him In
 
 Claim Timestamp: 00:05:05
 
@@ -1456,13 +1456,13 @@ Transcript Snippet: Tyler's father turned him in. I have disputed this from the 
 Anchored Artifacts: 
 Mentions: N-3, N-776, N-40
 Related Nodes: N-10022, N-10782
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Compare the charging documents and the surrender timeline with the father's account to determine who initiated contact with police.
 
 ---
 
-**C-9094** Host Says Kolvet Admitted Bill Ackman Did Not Pay $1 Million and the Father Did Not Turn Tyler In
+**C-11832** Host Says Kolvet Admitted Bill Ackman Did Not Pay $1 Million and the Father Did Not Turn Tyler In
 
 Claim Timestamp: 00:05:40
 
@@ -1478,7 +1478,7 @@ Investigative Direction: Locate Kolvet's on-air or written statement and Ackman'
 
 ---
 
-**C-9095** Host Says It Is a Lie That There Is a 4K Video of Tyler Robinson Taking the Shot
+**C-11833** Host Says It Is a Lie That There Is a 4K Video of Tyler Robinson Taking the Shot
 
 Claim Timestamp: 00:06:15
 
@@ -1494,7 +1494,7 @@ Investigative Direction: Collect the influencers' original 4K video statements a
 
 ---
 
-**C-9096** Host Says Lance Testified He Never Discussed LGBTQ Issues With Tyler
+**C-11835** Host Says Lance Testified He Never Discussed LGBTQ Issues With Tyler
 
 Claim Timestamp: 00:07:40
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Obtain the preliminary hearing transcript of Lance's te
 
 ---
 
-**C-9097** Host Says Lance Testified Tyler Never Mentioned Charlie Kirk to Him
+**C-11836** Host Says Lance Testified Tyler Never Mentioned Charlie Kirk to Him
 
 Claim Timestamp: 00:08:32
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Obtain Lance's preliminary hearing testimony and compar
 
 ---
 
-**C-9098** Host Says It Is a Lie That There Is Footage of Tyler Robinson Assembling the Rifle
+**C-11837** Host Says It Is a Lie That There Is Footage of Tyler Robinson Assembling the Rifle
 
 Claim Timestamp: 00:08:45
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Obtain Neff's original and edited post and any exhibit 
 
 ---
 
-**C-9099** Host Says Footage Shown of Tyler Robinson's Car Is Blurry and Unproven
+**C-11838** Host Says Footage Shown of Tyler Robinson's Car Is Blurry and Unproven
 
 Claim Timestamp: 00:09:10
 
@@ -1558,7 +1558,7 @@ Investigative Direction: Obtain the car footage exhibits and the vehicle registr
 
 ---
 
-**C-9100** Host Says It Is a Lie That Tyler Robinson Was Suicidal
+**C-11840** Host Says It Is a Lie That Tyler Robinson Was Suicidal
 
 Claim Timestamp: 00:09:35
 
@@ -1574,7 +1574,7 @@ Investigative Direction: Compare the indictment and Utah County filings that des
 
 ---
 
-**C-9101** Host Says Tyler Walked In to Avoid an Accidental Death by SWAT Raid
+**C-11841** Host Says Tyler Walked In to Avoid an Accidental Death by SWAT Raid
 
 Claim Timestamp: 00:09:50
 
@@ -1590,7 +1590,7 @@ Investigative Direction: Identify the host's source and obtain the surrender tim
 
 ---
 
-**C-9102** Host Says the ATF Range Did Not Cover .30-06 and Almost Debunked the Gun Tie
+**C-11842** Host Says the ATF Range Did Not Cover .30-06 and Almost Debunked the Gun Tie
 
 Claim Timestamp: 00:10:51
 
@@ -1601,13 +1601,13 @@ Transcript Snippet: And in fact, it didn't cover a 3006. It didn't cover a 306.
 Anchored Artifacts: A-2988.2
 Mentions: N-3, N-40
 Related Nodes: N-10572, N-10319, N-10975
-Supports: C-3763
+Supports: C-11839
 Tags: relevance:core
 Investigative Direction: Obtain the ATF examiner's preliminary hearing testimony and lab report on caliber and class characteristics.
 
 ---
 
-**C-9103** Host Says Five Other Sets of Prints Were on the Gun and Tyler's Were Most Degraded
+**C-11843** Host Says Five Other Sets of Prints Were on the Gun and Tyler's Were Most Degraded
 
 Claim Timestamp: 00:11:10
 
@@ -1618,13 +1618,13 @@ Transcript Snippet: every time they said this in the public, they refused to say
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10711, N-10782
-Supports: C-5288
+Supports: C-4292
 Tags: relevance:core
 Investigative Direction: Obtain the latent print and DNA report from the preliminary hearing record.
 
 ---
 
-**C-9104** Host Says the Other Prints on the Gun Belonged to Tyler's Father and Lance
+**C-11844** Host Says the Other Prints on the Gun Belonged to Tyler's Father and Lance
 
 Claim Timestamp: 00:11:30
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Obtain the print comparison results naming each contrib
 
 ---
 
-**C-9105** Host Says Farnsworth Took Out an SD Card but Police Received a Hard Drive
+**C-11845** Host Says Farnsworth Took Out an SD Card but Police Received a Hard Drive
 
 Claim Timestamp: 00:11:55
 
@@ -1656,7 +1656,7 @@ Investigative Direction: Obtain the chain-of-custody log for the Farnsworth foot
 
 ---
 
-**C-9106** Host Speculates the Footage May Have Been Edited or Zoomed Before Being Given to Police
+**C-11846** Host Speculates the Footage May Have Been Edited or Zoomed Before Being Given to Police
 
 Claim Timestamp: 00:12:25
 
@@ -1672,7 +1672,7 @@ Investigative Direction: Compare the original camera file metadata with the vers
 
 ---
 
-**C-9107** Host Says the Remaining Evidence Is a Text Message Confession From Lance's Phone
+**C-11847** Host Says the Remaining Evidence Is a Text Message Confession From Lance's Phone
 
 Claim Timestamp: 00:13:17
 
@@ -1688,7 +1688,7 @@ Investigative Direction: Obtain the preliminary hearing exhibits showing the ext
 
 ---
 
-**C-9108** Host Says Lance Should Be a Suspect and Appears Protected by the Feds
+**C-11849** Host Says Lance Should Be a Suspect and Appears Protected by the Feds
 
 Claim Timestamp: 00:13:40
 
@@ -1704,7 +1704,7 @@ Investigative Direction: Review Lance's testimony on alibi and any immunity or c
 
 ---
 
-**C-9109** Host Says the Presented Text Messages Had No Timestamps
+**C-11850** Host Says the Presented Text Messages Had No Timestamps
 
 Claim Timestamp: 00:14:05
 
@@ -1720,7 +1720,7 @@ Investigative Direction: Obtain the exhibit images and the extraction report met
 
 ---
 
-**C-9110** Host Says Court Testimony Showed Police Used an Israeli Tech Firm (Cellebrite) to Extract the Messages
+**C-11851** Host Says Court Testimony Showed Police Used an Israeli Tech Firm (Cellebrite) to Extract the Messages
 
 Claim Timestamp: 00:14:30
 
@@ -1736,7 +1736,7 @@ Investigative Direction: Obtain the testimony identifying the extraction vendor 
 
 ---
 
-**C-9111** Host Says She and Others Think Israel Killed Charlie Kirk Based on Israeli Leaders' Actions
+**C-11852** Host Says She and Others Think Israel Killed Charlie Kirk Based on Israeli Leaders' Actions
 
 Claim Timestamp: 00:14:55
 
@@ -1752,7 +1752,7 @@ Investigative Direction: No evidence is offered on air; request any record suppo
 
 ---
 
-**C-9112** Host Says Tyler's Text Messages Use Phrases an American English Speaker Would Not Use
+**C-11853** Host Says Tyler's Text Messages Use Phrases an American English Speaker Would Not Use
 
 Claim Timestamp: 00:16:27
 
@@ -1768,7 +1768,7 @@ Investigative Direction: Obtain the full message text and run a linguistic compa
 
 ---
 
-**C-9113** Host Says It Is Plausible Someone Accessed Tyler's iCloud and Sent the Messages From Elsewhere
+**C-11854** Host Says It Is Plausible Someone Accessed Tyler's iCloud and Sent the Messages From Elsewhere
 
 Claim Timestamp: 00:16:45
 
@@ -1784,7 +1784,7 @@ Investigative Direction: Request iCloud access logs and device identifiers for t
 
 ---
 
-**C-9114** Host Says Tyler's Defense Team Was Denied Its Discovery Requests Before the Hearing
+**C-11855** Host Says Tyler's Defense Team Was Denied Its Discovery Requests Before the Hearing
 
 Claim Timestamp: 00:16:55
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Obtain defense discovery motions and the court's ruling
 
 ---
 
-**C-9115** Host Says the Defense Said It Lacked Access to Tyler's Phone and Hearsay Was Allowed
+**C-11856** Host Says the Defense Said It Lacked Access to Tyler's Phone and Hearsay Was Allowed
 
 Claim Timestamp: 00:17:13
 
@@ -1816,7 +1816,7 @@ Investigative Direction: Obtain the extension request and the transcript of the 
 
 ---
 
-**C-9116** Host Says Erika Kirk Is Inviting Influencers Into the Courtroom
+**C-11858** Host Says Erika Kirk Is Inviting Influencers Into the Courtroom
 
 Claim Timestamp: 00:17:35
 
@@ -1832,7 +1832,7 @@ Investigative Direction: Obtain the court seating and press credential records f
 
 ---
 
-**C-9117** Host Says TPUSA Contracts and Platforms People Whose Full-Time Job Is Attacking Her
+**C-11859** Host Says TPUSA Contracts and Platforms People Whose Full-Time Job Is Attacking Her
 
 Claim Timestamp: 00:17:50
 
@@ -1848,7 +1848,7 @@ Investigative Direction: Obtain TPUSA payment and contract records for the influ
 
 ---
 
-**C-9118** Host Says the Group Chat Organizer Hosted X Spaces Admitting to Gathering Intel
+**C-11861** Host Says the Group Chat Organizer Hosted X Spaces Admitting to Gathering Intel
 
 Claim Timestamp: 00:18:25
 
@@ -1859,13 +1859,13 @@ Transcript Snippet: this person hosted uh a spaces on X and went on record admit
 Anchored Artifacts: A-2989.1
 Mentions: N-3, N-1
 Related Nodes: N-10780
-Supports: C-3234
+Supports: C-11860
 Tags: relevance:core
 Investigative Direction: Locate the archived X Spaces recording and identify the host.
 
 ---
 
-**C-9119** Host Says the Organizer Worked With Kassy Akiva and the Gaza Humanitarian Foundation Under Johnnie Moore to Build Files
+**C-11862** Host Says the Organizer Worked With Kassy Akiva and the Gaza Humanitarian Foundation Under Johnnie Moore to Build Files
 
 Claim Timestamp: 00:18:45
 
@@ -1876,13 +1876,13 @@ Transcript Snippet: Uh they collaborated with a Daily Wire employee Kassy Akiva,
 Anchored Artifacts: A-2989.1
 Mentions: N-3, N-822, N-437, N-22
 Related Nodes: N-10670, N-10780
-Supports: C-3234
+Supports: C-11860
 Tags: relevance:core
 Investigative Direction: Identify the organizer, the Spaces recording and any public record of the files described.
 
 ---
 
-**C-9120** Katie's Posts Say Group Members Shared Information, Ran Background Checks and Reported Accounts
+**C-11864** Katie's Posts Say Group Members Shared Information, Ran Background Checks and Reported Accounts
 
 Claim Timestamp: 00:19:12
 
@@ -1898,7 +1898,7 @@ Investigative Direction: Obtain the original posts and any screenshots of the ch
 
 ---
 
-**C-9121** Katie's Post Says Not Everyone in the Chat Participated and Some Just Lurked
+**C-11865** Katie's Post Says Not Everyone in the Chat Participated and Some Just Lurked
 
 Claim Timestamp: 00:19:40
 
@@ -1914,7 +1914,7 @@ Investigative Direction: Compare the member list against each account's observed
 
 ---
 
-**C-9122** Host Names Accounts in the Chat Including Milk Bar TV, Paramount Not So Tactical and Fake Catholic
+**C-11866** Host Names Accounts in the Chat Including Milk Bar TV, Paramount Not So Tactical and Fake Catholic
 
 Claim Timestamp: 00:20:07
 
@@ -1930,7 +1930,7 @@ Investigative Direction: Obtain the full member list from the original post and 
 
 ---
 
-**C-9123** Host Says She Does Not Run a Group Chat but Contacts People Such as Baron Coleman
+**C-11867** Host Says She Does Not Run a Group Chat but Contacts People Such as Baron Coleman
 
 Claim Timestamp: 00:20:35
 
@@ -1946,7 +1946,7 @@ Investigative Direction: Obtain the host's contact records with outside research
 
 ---
 
-**C-9124** Host Says Charlie Spiering Worked on a Piece Saying Charlie Wanted Erika to Take Over
+**C-11868** Host Says Charlie Spiering Worked on a Piece Saying Charlie Wanted Erika to Take Over
 
 Claim Timestamp: 00:21:20
 
@@ -1962,7 +1962,7 @@ Investigative Direction: Identify the Daily Mail article and the video it relied
 
 ---
 
-**C-9125** Host Says Her Rooftop Video and Car Interior Pictures Did Not Come From Foreign Operatives
+**C-11870** Host Says Her Rooftop Video and Car Interior Pictures Did Not Come From Foreign Operatives
 
 Claim Timestamp: 00:22:10
 
@@ -1973,13 +1973,13 @@ Transcript Snippet: Foreign operatives sending me the video of the rooftop?
 Anchored Artifacts: A-2252.1
 Mentions: N-3, N-1
 Related Nodes: N-10780
-Contradicts: C-3232
+Contradicts: C-11869
 Tags: relevance:core
 Investigative Direction: Obtain the provenance of the rooftop video and car interior pictures from the host's tip submissions.
 
 ---
 
-**C-9126** Host Says the State Murdered Charlie Kirk With Trump's Permission
+**C-11871** Host Says the State Murdered Charlie Kirk With Trump's Permission
 
 Claim Timestamp: 00:22:25
 
@@ -1995,7 +1995,7 @@ Investigative Direction: No evidence is offered; request any record of federal i
 
 ---
 
-**C-9127** Host Says Trump Is Doing Nothing to Find Out What Happened to Charlie Kirk
+**C-11872** Host Says Trump Is Doing Nothing to Find Out What Happened to Charlie Kirk
 
 Claim Timestamp: 00:22:40
 
@@ -2011,7 +2011,7 @@ Investigative Direction: Review public White House and DOJ statements and action
 
 ---
 
-**C-9128** Host Asks Whether Blake Neff, Danny Phillip, Mikey McCoy and Nate Walker Entered Timpanogos Hospital Together
+**C-11873** Host Asks Whether Blake Neff, Danny Phillip, Mikey McCoy and Nate Walker Entered Timpanogos Hospital Together
 
 Claim Timestamp: 00:23:30
 
@@ -2027,7 +2027,7 @@ Investigative Direction: Obtain hospital entry video and staff accounts of who a
 
 ---
 
-**C-9129** Host Says Nate Walker Is the New Assistant Who Supplied Charlie's Freedom T-Shirt
+**C-11875** Host Says Nate Walker Is the New Assistant Who Supplied Charlie's Freedom T-Shirt
 
 Claim Timestamp: 00:23:55
 
@@ -2043,7 +2043,7 @@ Investigative Direction: Obtain purchase or supply records for the shirt and Wal
 
 ---
 
-**C-9130** Host Says Perez Hilton Called Khloe Kardashian a Transvestite Over and Over
+**C-11876** Host Says Perez Hilton Called Khloe Kardashian a Transvestite Over and Over
 
 Claim Timestamp: 00:31:00
 
@@ -2059,7 +2059,7 @@ Investigative Direction: Review archived Perez Hilton posts about Khloe Kardashi
 
 ---
 
-**C-9131** Host Says Perez Hilton Posted an Upskirt Photo of 17-Year-Old Miley Cyrus
+**C-11877** Host Says Perez Hilton Posted an Upskirt Photo of 17-Year-Old Miley Cyrus
 
 Claim Timestamp: 00:31:15
 
@@ -2075,7 +2075,7 @@ Investigative Direction: Review contemporaneous news coverage of the incident.
 
 ---
 
-**C-9132** Host Says Perez Hilton Has Three Children Born by Surrogacy in 2013, 2015 and 2017
+**C-11879** Host Says Perez Hilton Has Three Children Born by Surrogacy in 2013, 2015 and 2017
 
 Claim Timestamp: 00:34:30
 
@@ -2091,7 +2091,7 @@ Investigative Direction: Review Hilton's public statements on his children.
 
 ---
 
-**C-9133** Host Says Perez Hilton Posted From a Hospital Bed on March 23 After Severe Sepsis
+**C-11880** Host Says Perez Hilton Posted From a Hospital Bed on March 23 After Severe Sepsis
 
 Claim Timestamp: 00:35:30
 
@@ -2107,7 +2107,7 @@ Investigative Direction: Locate the March 23 posts.
 
 ---
 
-**C-9134** Host Relays That Perez Hilton's TikTok Live Stream Showed Him Bloodied and Cutting Himself
+**C-11881** Host Relays That Perez Hilton's TikTok Live Stream Showed Him Bloodied and Cutting Himself
 
 Claim Timestamp: 00:36:10
 
@@ -2123,7 +2123,7 @@ Investigative Direction: Rely on NBC and sheriff's office reporting rather than 
 
 ---
 
-**C-9135** Host Says Perez Hilton Said in the Video He Was Doing It for His Children
+**C-11882** Host Says Perez Hilton Said in the Video He Was Doing It for His Children
 
 Claim Timestamp: 00:36:20
 
@@ -2139,7 +2139,7 @@ Investigative Direction: Rely on police and media reporting of the incident.
 
 ---
 
-**C-9136** Host Says Hollywood Was Set Up as a Cult Meant to Be Demonic and to Brainwash
+**C-11885** Host Says Hollywood Was Set Up as a Cult Meant to Be Demonic and to Brainwash
 
 Claim Timestamp: 00:40:10
 
@@ -2155,7 +2155,7 @@ Investigative Direction: No supporting record is cited; this is the host's thesi
 
 ---
 
-**C-9137** Host Says TPUSA Is the New Hollywood and Wants Access to Children in High Schools
+**C-11886** Host Says TPUSA Is the New Hollywood and Wants Access to Children in High Schools
 
 Claim Timestamp: 00:41:55
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Review TPUSA's high school chapter programs and public 
 
 ---
 
-**C-9138** Host Says There Are Gay Orgies at TPUSA Events and Many Gay Men Work There
+**C-11887** Host Says There Are Gay Orgies at TPUSA Events and Many Gay Men Work There
 
 Claim Timestamp: 00:42:15
 
@@ -2187,7 +2187,7 @@ Investigative Direction: Request any first-hand account or document; none is cit
 
 ---
 
-**C-9139** Host Says Hollywood's Crisis PR Firms Now Employ TPUSA and Its Influencers
+**C-11888** Host Says Hollywood's Crisis PR Firms Now Employ TPUSA and Its Influencers
 
 Claim Timestamp: 00:42:35
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Identify the firms and contracts; none is named.
 
 ---
 
-**C-9140** Host Says Piers Morgan Tweeted That the Marx Interview Was One of the Most Bizarre of His Career
+**C-11889** Host Says Piers Morgan Tweeted That the Marx Interview Was One of the Most Bizarre of His Career
 
 Claim Timestamp: 00:43:47
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Locate Piers Morgan's tweet.
 
 ---
 
-**C-9141** Host Says Piers Morgan Hosts Critics Then Admits a Year Later She Was Right
+**C-11890** Host Says Piers Morgan Hosts Critics Then Admits a Year Later She Was Right
 
 Claim Timestamp: 00:44:00
 
@@ -2235,7 +2235,7 @@ Investigative Direction: Review Morgan's statements on the host over time.
 
 ---
 
-**C-9142** Victor Marx Said on the Morgan Show He Had Studied False Memories and Had 123 Visits to a Trauma Specialist
+**C-11895** Victor Marx Said on the Morgan Show He Had Studied False Memories and Had 123 Visits to a Trauma Specialist
 
 Claim Timestamp: 00:46:55
 
@@ -2246,13 +2246,13 @@ Transcript Snippet: I studied false memories and had 123 visits to a trauma spec
 Anchored Artifacts: A-2251.2
 Mentions: N-204, N-341
 Related Nodes: N-10785
-Supports: C-3230
+Supports: C-11894
 Tags: relevance:context
 Investigative Direction: Verify the figure against the full interview.
 
 ---
 
-**C-9143** Host Says Everything About Erika Kirk's Past Falls Apart Under Investigation
+**C-11896** Host Says Everything About Erika Kirk's Past Falls Apart Under Investigation
 
 Claim Timestamp: 00:47:35
 
@@ -2268,7 +2268,7 @@ Investigative Direction: Pursue the specific biographical points the host has ra
 
 ---
 
-**C-9144** Host Says Frank Turek Signaled That She Should Be Struck Down Using the Bible
+**C-11897** Host Says Frank Turek Signaled That She Should Be Struck Down Using the Bible
 
 Claim Timestamp: 00:48:07
 
@@ -2284,7 +2284,7 @@ Investigative Direction: Locate the Turek statement the host refers to.
 
 ---
 
-**C-9145** Host Corrects Her Claim That Catholics Cannot Be Cremated
+**C-11898** Host Corrects Her Claim That Catholics Cannot Be Cremated
 
 Claim Timestamp: 00:51:30
 
@@ -2295,13 +2295,13 @@ Transcript Snippet: I was a bit uneducated when I said that I believed that you 
 Anchored Artifacts: A-2991.1
 Mentions: N-3
 Related Nodes: N-10751
-Revises: C-3221
+Revises: C-11819
 Tags: relevance:context
 Investigative Direction: Review the Church document the emailer cited.
 
 ---
 
-**C-9146** Host Says the Catholic Church Grew After Charlie Kirk's Assassination While Southern Baptist Numbers Fell
+**C-11899** Host Says the Catholic Church Grew After Charlie Kirk's Assassination While Southern Baptist Numbers Fell
 
 Claim Timestamp: 00:53:20
 
@@ -2317,7 +2317,7 @@ Investigative Direction: Compare Catholic convert and Southern Baptist membershi
 
 ---
 
-**C-9147** Host Says People Published Her Kids' Cars to Scare Her
+**C-11901** Host Says People Published Her Kids' Cars to Scare Her
 
 Claim Timestamp: 00:54:40
 
@@ -2333,7 +2333,7 @@ Investigative Direction: Identify the posts and accounts that published the vehi
 
 ---
 
-**C-9148** Host Says She Read Andrew Tate's Romanian Documents and Predicted the Case Would Fall Apart
+**C-11902** Host Says She Read Andrew Tate's Romanian Documents and Predicted the Case Would Fall Apart
 
 Claim Timestamp: 00:56:10
 
@@ -2349,7 +2349,7 @@ Investigative Direction: Review the Romanian case outcome.
 
 ---
 
-**C-9149** Host Says Andrew and Tristan Tate Are in Solitary Confinement
+**C-11903** Host Says Andrew and Tristan Tate Are in Solitary Confinement
 
 Claim Timestamp: 00:56:54
 
@@ -2365,7 +2365,7 @@ Investigative Direction: Verify custody conditions via court or press reports.
 
 ---
 
-**C-9150** Host Says Nobody in the Epstein Network Has Been Taken Down and the Administration Protects Them
+**C-11904** Host Says Nobody in the Epstein Network Has Been Taken Down and the Administration Protects Them
 
 Claim Timestamp: 00:57:05
 
@@ -2381,7 +2381,7 @@ Investigative Direction: Review Epstein file releases and prosecutions to date.
 
 ---
 
-**C-9151** Host Says She Is Having a New Baby and Will Take Maternity Leave
+**C-11905** Host Says She Is Having a New Baby and Will Take Maternity Leave
 
 Claim Timestamp: 00:57:55
 
@@ -2397,7 +2397,7 @@ Investigative Direction: Confirm the leave dates when announced.
 
 ---
 
-**C-9152** Host Says a September 1 Decision Is Due on Whether the Tyler Robinson Trial Proceeds
+**C-11906** Host Says a September 1 Decision Is Due on Whether the Tyler Robinson Trial Proceeds
 
 Claim Timestamp: 00:58:20
 
@@ -2413,7 +2413,7 @@ Investigative Direction: Check the court docket for the September 1 date and the
 
 ---
 
-**C-9153** Host Says She Does Not Believe Tyler Robinson Killed Charlie Kirk on a Rooftop Alone
+**C-11907** Host Says She Does Not Believe Tyler Robinson Killed Charlie Kirk on a Rooftop Alone
 
 Claim Timestamp: 00:58:45
 

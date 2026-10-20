@@ -27,7 +27,7 @@
           "ref": "A-3409.1",
           "description": "Host verbal shout-out to a sleuth in Alaska named Jenny for the statue update",
           "related_claims": [
-            "C-15497"
+            "C-14401"
           ],
           "related_nodes": [
             "N-10827"
@@ -44,7 +44,7 @@
           "ref": "A-3409.2",
           "description": "Host verbal reference to an emailed tip that Blake Wynn's father was raided in 2004",
           "related_claims": [
-            "C-15533"
+            "C-14437"
           ],
           "related_nodes": [
             "N-352",
@@ -63,7 +63,7 @@
           "ref": "A-3409.3",
           "description": "Host verbal request for tips on the Timpanogos Hospital board members, at the \"more tips\" email",
           "related_claims": [
-            "C-15545"
+            "C-14449"
           ],
           "related_nodes": [
             "N-11218",
@@ -81,7 +81,7 @@
           "ref": "A-3409.4",
           "description": "Host verbal reference to many emails from parents at a school where Erika Kirk is scheduled to speak",
           "related_claims": [
-            "C-15559"
+            "C-14463"
           ],
           "related_nodes": [
             "N-2",
@@ -107,7 +107,7 @@
           "ref": "A-3410.1",
           "description": "Clip the host plays of a speaker urging people to go to tpusa.com, which the host frames as said less than 48 hours after the assassination",
           "related_claims": [
-            "C-15503"
+            "C-14407"
           ],
           "related_nodes": [
             "N-2",
@@ -133,12 +133,12 @@
           "ref": "A-3411.1",
           "description": "Direct-message exchange between a viewer and Tyler Bowyer about the statue vandalism, which the host reads",
           "related_claims": [
-            "C-15509",
-            "C-15510",
-            "C-15511",
-            "C-15512",
-            "C-15513",
-            "C-15514"
+            "C-14413",
+            "C-14414",
+            "C-14415",
+            "C-14416",
+            "C-14417",
+            "C-14418"
           ],
           "related_nodes": [
             "N-11",
@@ -165,14 +165,14 @@
           "ref": "A-3412.1",
           "description": "Clip the host plays, apparently from Baron Coleman, showing Discord messages about payment for an \"Erika Kirk AmFest\" clipping campaign",
           "related_claims": [
-            "C-15518",
-            "C-15519",
-            "C-15520",
-            "C-15521",
-            "C-15522",
-            "C-15523",
-            "C-15524",
-            "C-15525"
+            "C-14422",
+            "C-14423",
+            "C-14424",
+            "C-14425",
+            "C-14426",
+            "C-14427",
+            "C-14428",
+            "C-14429"
           ],
           "related_nodes": [
             "N-330",
@@ -192,9 +192,9 @@
           "ref": "A-3412.2",
           "description": "Discord message about a missing \"$10 incentive\" for the \"AL\" White House Correspondents' Dinner clip",
           "related_claims": [
-            "C-15529",
-            "C-15530",
-            "C-15531"
+            "C-14433",
+            "C-14434",
+            "C-14435"
           ],
           "related_nodes": [
             "N-10013",
@@ -222,12 +222,12 @@
           "ref": "A-3413.1",
           "description": "2004 news article, \"Win Brother subject in child porn probe\", which the host reads",
           "related_claims": [
-            "C-15533",
-            "C-15534",
-            "C-15535",
-            "C-15536",
-            "C-15537",
-            "C-15538"
+            "C-14437",
+            "C-14438",
+            "C-14439",
+            "C-14440",
+            "C-14441",
+            "C-14442"
           ],
           "related_nodes": [
             "N-972",
@@ -254,9 +254,9 @@
           "ref": "A-3414.1",
           "description": "Val Peterson's government biography and UVU website listing, which the host cites for his former Timpanogos Hospital and Provo airport board seats",
           "related_claims": [
-            "C-15541",
-            "C-15542",
-            "C-15543"
+            "C-14445",
+            "C-14446",
+            "C-14447"
           ],
           "related_nodes": [
             "N-957",
@@ -283,7 +283,7 @@
           "ref": "A-3415.1",
           "description": "Katie Zacharia's October 16 tweet praising President Trump",
           "related_claims": [
-            "C-15551"
+            "C-14455"
           ],
           "related_nodes": [
             "N-962",
@@ -309,9 +309,9 @@
           "ref": "A-3416.1",
           "description": "Clip the host plays from The Tim Dillon Show on Katie Zacharia's exit and the proposed livestreamed execution",
           "related_claims": [
-            "C-15555",
-            "C-15556",
-            "C-15557"
+            "C-14459",
+            "C-14460",
+            "C-14461"
           ],
           "related_nodes": [
             "N-277",
@@ -340,10 +340,10 @@
           "ref": "A-3417.1",
           "description": "School flyer for a Veterans Day chapel with special guest Erika Kirk, heavily redacted by the show",
           "related_claims": [
-            "C-15560",
-            "C-15561",
-            "C-15562",
-            "C-15563"
+            "C-14464",
+            "C-14465",
+            "C-14466",
+            "C-14467"
           ],
           "related_nodes": [
             "N-2",
@@ -368,15 +368,15 @@
       "description": "Assassination victim. His statue's vandalism, the hospital he was taken to and the White House calls he received are discussed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15499",
-        "C-15501",
-        "C-15505",
-        "C-15507",
-        "C-15517",
-        "C-15539",
-        "C-15541",
-        "C-15564",
-        "C-15565"
+        "C-14403",
+        "C-14405",
+        "C-14409",
+        "C-14411",
+        "C-14421",
+        "C-14443",
+        "C-14445",
+        "C-14468",
+        "C-14469"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -393,29 +393,29 @@
       "description": "TPUSA CEO. The host covers the clipping campaign promoting her, her WHCD clip and her scheduled school chapel appearance.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15501",
-        "C-15503",
-        "C-15507",
-        "C-15517",
-        "C-15519",
-        "C-15520",
-        "C-15521",
-        "C-15522",
-        "C-15523",
-        "C-15524",
-        "C-15525",
-        "C-15526",
-        "C-15527",
-        "C-15528",
-        "C-15529",
-        "C-15532",
-        "C-15558",
-        "C-15559",
-        "C-15560",
-        "C-15561",
-        "C-15562",
-        "C-15563",
-        "C-15564"
+        "C-14405",
+        "C-14407",
+        "C-14411",
+        "C-14421",
+        "C-14423",
+        "C-14424",
+        "C-14425",
+        "C-14426",
+        "C-14427",
+        "C-14428",
+        "C-14429",
+        "C-14430",
+        "C-14431",
+        "C-14432",
+        "C-14433",
+        "C-14436",
+        "C-14462",
+        "C-14463",
+        "C-14464",
+        "C-14465",
+        "C-14466",
+        "C-14467",
+        "C-14468"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -432,11 +432,11 @@
       "description": "Host.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15495",
-        "C-15497",
-        "C-15515",
-        "C-15545",
-        "C-15567"
+        "C-14399",
+        "C-14401",
+        "C-14419",
+        "C-14449",
+        "C-14471"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -453,10 +453,10 @@
       "description": "The host says he pardoned Tyler Bowyer and was embarrassed by Zacharia's credentials. She says there are suggestions he will remove cabinet members.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15500",
-        "C-15549",
-        "C-15551",
-        "C-15569"
+        "C-14404",
+        "C-14453",
+        "C-14455",
+        "C-14473"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -473,15 +473,15 @@
       "description": "Turning Point Action figure. The host says he had the statue erected and reads his direct messages about the vandalism.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15499",
-        "C-15500",
-        "C-15501",
-        "C-15509",
-        "C-15510",
-        "C-15511",
-        "C-15512",
-        "C-15513",
-        "C-15514"
+        "C-14403",
+        "C-14404",
+        "C-14405",
+        "C-14413",
+        "C-14414",
+        "C-14415",
+        "C-14416",
+        "C-14417",
+        "C-14418"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -498,7 +498,7 @@
       "description": "The host identifies the intro voice as from his song \"Stars\".",
       "related_artifacts": [],
       "related_claims": [
-        "C-15568"
+        "C-14472"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -515,7 +515,7 @@
       "description": "Accused shooter, referred to sarcastically in the comments segment.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15566"
+        "C-14470"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -532,8 +532,8 @@
       "description": "Utah governor. The host says his office has not answered whether he met Val Peterson on September 10.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15546",
-        "C-15547"
+        "C-14450",
+        "C-14451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -550,7 +550,7 @@
       "description": "Show staffer who supplies the song title.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15568"
+        "C-14472"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -567,7 +567,7 @@
       "description": "Subject of the host's \"Brigitte doll\" parody bit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15516"
+        "C-14420"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -584,12 +584,12 @@
       "description": "Comedian whose segment on Zacharia and the execution plan the host plays.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15553",
-        "C-15554",
-        "C-15555",
-        "C-15556",
-        "C-15557",
-        "C-15569"
+        "C-14457",
+        "C-14458",
+        "C-14459",
+        "C-14460",
+        "C-14461",
+        "C-14473"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -606,10 +606,10 @@
       "description": "The host says he found the February Discord relic. She will join him while on leave.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15518",
-        "C-15520",
-        "C-15567",
-        "C-15570"
+        "C-14422",
+        "C-14424",
+        "C-14471",
+        "C-14474"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -626,10 +626,10 @@
       "description": "Erika Kirk's friend. The host ties his firm Enclave and Key to the clipping of Erika's WHCD clip and reports a tip about his father.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15527",
-        "C-15528",
-        "C-15532",
-        "C-15533"
+        "C-14431",
+        "C-14432",
+        "C-14436",
+        "C-14437"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -646,7 +646,7 @@
       "description": "Casino developer; the 2004 article names Kenny Wynn as his brother.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15534"
+        "C-14438"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -663,9 +663,9 @@
       "description": "The host alleges he lied about bombing Iranian schools and cites his plan for a live execution.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15548",
-        "C-15554",
-        "C-15556"
+        "C-14452",
+        "C-14458",
+        "C-14460"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -682,7 +682,7 @@
       "description": "Named in the host's Brigitte doll parody.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15516"
+        "C-14420"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -699,11 +699,11 @@
       "description": "UVU vice president of facilities. The host reports his former hospital and airport board seats.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15540",
-        "C-15541",
-        "C-15542",
-        "C-15543",
-        "C-15546"
+        "C-14444",
+        "C-14445",
+        "C-14446",
+        "C-14447",
+        "C-14450"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -720,14 +720,14 @@
       "description": "Outgoing White House press secretary.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15494",
-        "C-15549",
-        "C-15550",
-        "C-15551",
-        "C-15552",
-        "C-15553",
-        "C-15554",
-        "C-15555"
+        "C-14398",
+        "C-14453",
+        "C-14454",
+        "C-14455",
+        "C-14456",
+        "C-14457",
+        "C-14458",
+        "C-14459"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -744,7 +744,7 @@
       "description": "Val Peterson's brother, referred to as \"another alleged innocent until proven guilty\".",
       "related_artifacts": [],
       "related_claims": [
-        "C-15540"
+        "C-14444"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -761,7 +761,7 @@
       "description": "Referred to as \"the Fort Hood shooter\" in the Tim Dillon clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15557"
+        "C-14461"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -778,11 +778,11 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15503",
-        "C-15504",
-        "C-15506",
-        "C-15507",
-        "C-15565"
+        "C-14407",
+        "C-14408",
+        "C-14410",
+        "C-14411",
+        "C-14469"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -799,7 +799,7 @@
       "description": "The host says Zacharia is going back to Fox News.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15552"
+        "C-14456"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -816,7 +816,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15540"
+        "C-14444"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -836,8 +836,8 @@
         "A-3412.2"
       ],
       "related_claims": [
-        "C-15519",
-        "C-15529"
+        "C-14423",
+        "C-14433"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -854,7 +854,7 @@
       "description": "Val Peterson once sat on the Provo airport board.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15542"
+        "C-14446"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -871,8 +871,8 @@
       "description": "Bowyer's DMs defending the organization.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15509",
-        "C-15511"
+        "C-14413",
+        "C-14415"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -889,7 +889,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15558"
+        "C-14462"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -906,10 +906,10 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15504",
-        "C-15526",
-        "C-15527",
-        "C-15529"
+        "C-14408",
+        "C-14430",
+        "C-14431",
+        "C-14433"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -926,21 +926,21 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15496",
-        "C-15497",
-        "C-15498",
-        "C-15499",
-        "C-15505",
-        "C-15506",
-        "C-15508",
-        "C-15509",
-        "C-15510",
-        "C-15511",
-        "C-15512",
-        "C-15513",
-        "C-15514",
-        "C-15515",
-        "C-15565"
+        "C-14400",
+        "C-14401",
+        "C-14402",
+        "C-14403",
+        "C-14409",
+        "C-14410",
+        "C-14412",
+        "C-14413",
+        "C-14414",
+        "C-14415",
+        "C-14416",
+        "C-14417",
+        "C-14418",
+        "C-14419",
+        "C-14469"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -957,8 +957,8 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15533",
-        "C-15539"
+        "C-14437",
+        "C-14443"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -975,18 +975,18 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15517",
-        "C-15518",
-        "C-15519",
-        "C-15520",
-        "C-15521",
-        "C-15522",
-        "C-15523",
-        "C-15524",
-        "C-15525",
-        "C-15528",
-        "C-15529",
-        "C-15530"
+        "C-14421",
+        "C-14422",
+        "C-14423",
+        "C-14424",
+        "C-14425",
+        "C-14426",
+        "C-14427",
+        "C-14428",
+        "C-14429",
+        "C-14432",
+        "C-14433",
+        "C-14434"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1003,8 +1003,8 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15528",
-        "C-15532"
+        "C-14432",
+        "C-14436"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1021,7 +1021,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15519"
+        "C-14423"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1038,7 +1038,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15517"
+        "C-14421"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1055,8 +1055,8 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15532",
-        "C-15566"
+        "C-14436",
+        "C-14470"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1073,7 +1073,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15504"
+        "C-14408"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1090,9 +1090,9 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15526",
-        "C-15531",
-        "C-15532"
+        "C-14430",
+        "C-14435",
+        "C-14436"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1109,8 +1109,8 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15499",
-        "C-15513"
+        "C-14403",
+        "C-14417"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1127,7 +1127,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15501"
+        "C-14405"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1144,7 +1144,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15500"
+        "C-14404"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1161,10 +1161,10 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15541",
-        "C-15543",
-        "C-15544",
-        "C-15545"
+        "C-14445",
+        "C-14447",
+        "C-14448",
+        "C-14449"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1181,12 +1181,12 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15558",
-        "C-15559",
-        "C-15560",
-        "C-15561",
-        "C-15562",
-        "C-15563"
+        "C-14462",
+        "C-14463",
+        "C-14464",
+        "C-14465",
+        "C-14466",
+        "C-14467"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1203,10 +1203,10 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15495",
-        "C-15496",
-        "C-15567",
-        "C-15570"
+        "C-14399",
+        "C-14400",
+        "C-14471",
+        "C-14474"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1223,8 +1223,8 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15546",
-        "C-15547"
+        "C-14450",
+        "C-14451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1241,10 +1241,10 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15494",
-        "C-15549",
-        "C-15550",
-        "C-15555"
+        "C-14398",
+        "C-14453",
+        "C-14454",
+        "C-14459"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1261,7 +1261,7 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15513"
+        "C-14417"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1278,9 +1278,9 @@
       "description": "",
       "related_artifacts": [],
       "related_claims": [
-        "C-15553",
-        "C-15554",
-        "C-15557"
+        "C-14457",
+        "C-14458",
+        "C-14461"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1297,7 +1297,7 @@
       "description": "First named by the host at 00:03:05 in episode 167 (\"Jussie Smollett\"), as an analogy for a staged hate crime.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15502"
+        "C-14406"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1316,10 +1316,10 @@
         "A-3413.1"
       ],
       "related_claims": [
-        "C-15533",
-        "C-15534",
-        "C-15535",
-        "C-15536"
+        "C-14437",
+        "C-14438",
+        "C-14439",
+        "C-14440"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1338,12 +1338,12 @@
         "A-3413.1"
       ],
       "related_claims": [
-        "C-15533",
-        "C-15534",
-        "C-15535",
-        "C-15536",
-        "C-15537",
-        "C-15538"
+        "C-14437",
+        "C-14438",
+        "C-14439",
+        "C-14440",
+        "C-14441",
+        "C-14442"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1366,13 +1366,13 @@
         "A-3412.1"
       ],
       "related_claims": [
-        "C-15519",
-        "C-15520",
-        "C-15521",
-        "C-15522",
-        "C-15523",
-        "C-15524",
-        "C-15525"
+        "C-14423",
+        "C-14424",
+        "C-14425",
+        "C-14426",
+        "C-14427",
+        "C-14428",
+        "C-14429"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1394,10 +1394,10 @@
         "A-3414.1"
       ],
       "related_claims": [
-        "C-15541",
-        "C-15543",
-        "C-15544",
-        "C-15545"
+        "C-14445",
+        "C-14447",
+        "C-14448",
+        "C-14449"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1413,8 +1413,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-15494",
-      "ref": "C-15494",
+      "@id": "C-14398",
+      "ref": "C-14398",
       "label": "Host Says Press Secretary Katie Zacharia Is Out",
       "claim": "The host says press secretary Katie Zacharia, whom she had only begun to warm to, is gone.",
       "anchored_artifacts": [],
@@ -1433,8 +1433,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15495",
-      "ref": "C-15495",
+      "@id": "C-14399",
+      "ref": "C-14399",
       "label": "Host Says Four Episodes Remain Before Her Maternity Leave",
       "claim": "The host says she has only four more episodes before her maternity leave.",
       "anchored_artifacts": [],
@@ -1453,8 +1453,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15496",
-      "ref": "C-15496",
+      "@id": "C-14400",
+      "ref": "C-14400",
       "label": "Host Says She Received a Statue Update on Thursday",
       "claim": "The host says she received an update on the vandalized Charlie Kirk statue on Thursday and is sharing it today.",
       "anchored_artifacts": [],
@@ -1474,8 +1474,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15497",
-      "ref": "C-15497",
+      "@id": "C-14401",
+      "ref": "C-14401",
       "label": "Host Credits a Sleuth in Alaska Named Jenny",
       "claim": "The host gives a shout-out to a sleuth in Alaska named Jenny in connection with the statue update.",
       "anchored_artifacts": [
@@ -1496,8 +1496,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15498",
-      "ref": "C-15498",
+      "@id": "C-14402",
+      "ref": "C-14402",
       "label": "Host Says She Messaged an Instagram Account Following the Statue Story",
       "claim": "The host says she messaged \"Bobby Sauce\" on Instagram, who she says has long followed the statue story and asked for updates, to say she had an update.",
       "anchored_artifacts": [],
@@ -1513,8 +1513,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15499",
-      "ref": "C-15499",
+      "@id": "C-14403",
+      "ref": "C-14403",
       "label": "Host Says Tyler Bowyer Had the Statue Erected on the One-Year Anniversary",
       "claim": "The host says Turning Point Action's Tyler Bowyer had the Charlie Kirk statue erected in memoriam on the one-year anniversary of Charlie's death.",
       "anchored_artifacts": [],
@@ -1529,7 +1529,7 @@
       "investigative_direction": "TPUSA and Turning Point Action announcements of the statue unveiling in September 2026.",
       "transcript_snippet": "Turning Point Actions Tyler Bowyer is the one who had the Charlie Kirk statue erected in memoriam on the one-year anniversary of Charlie's death.",
       "supports_claim_refs": [
-        "C-15448"
+        "C-14352"
       ],
       "mentions_person_refs": [
         "N-11",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15500",
-      "ref": "C-15500",
+      "@id": "C-14404",
+      "ref": "C-14404",
       "label": "Host Alleges Bowyer Is a Sexual Deviant Pardoned by Trump",
       "claim": "The host alleges, as she says she has asserted many times, that Tyler Bowyer is a sexual deviant who might be in federal prison but for a presidential pardon from Trump in November of last year for federal charges over the elector business in Arizona.",
       "anchored_artifacts": [],
@@ -1553,7 +1553,7 @@
       "investigative_direction": "The November 2025 presidential pardon list for the 2020 alternate electors and the Arizona fake-elector case docket.",
       "transcript_snippet": "is a sexual deviant who would potentially even be in federal prison were it not for the presidential pardon that he received from Trump back in November of last year",
       "supports_claim_refs": [
-        "C-15441"
+        "C-14345"
       ],
       "mentions_person_refs": [
         "N-11",
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15501",
-      "ref": "C-15501",
+      "@id": "C-14405",
+      "ref": "C-14405",
       "label": "Host Says Bowyer Introduced Erika to Charlie",
       "claim": "The host says Tyler Bowyer is the person who introduced Erika to Charlie.",
       "anchored_artifacts": [],
@@ -1584,8 +1584,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15502",
-      "ref": "C-15502",
+      "@id": "C-14406",
+      "ref": "C-14406",
       "label": "Host Says Jussie Smollett Hired Two Nigerian Actors to Stage a Hate Crime",
       "claim": "The host compares a possible staged statue attack to Jussie Smollett, who she says hired two black Nigerian actors to put a noose around his neck during a Chicago polar vortex, staging a racial hate crime against himself.",
       "anchored_artifacts": [],
@@ -1602,8 +1602,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15503",
-      "ref": "C-15503",
+      "@id": "C-14407",
+      "ref": "C-14407",
       "label": "In a Clip the Host Plays, a Speaker Urges People to Go to tpusa.com",
       "claim": "In a clip the host plays, a speaker says the best way to respond is going to tpusa.com; the host replies that it is not the line she would have chosen \"less than 48 hours after my husband's public assassination\", which implies the speaker is Erika Kirk.",
       "anchored_artifacts": [
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15504",
-      "ref": "C-15504",
+      "@id": "C-14408",
+      "ref": "C-14408",
       "label": "Host Says TPUSA Repeated Its Formula After the WHCD",
       "claim": "The host says TPUSA repeated its formula of a terrible event, wall-to-wall coverage and an immediate ask after the White House Correspondents' Dinner, and again with the statue vandalism.",
       "anchored_artifacts": [],
@@ -1647,8 +1647,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15505",
-      "ref": "C-15505",
+      "@id": "C-14409",
+      "ref": "C-14409",
       "label": "Host Says Red Paint Was Placed Where Charlie Bled Out",
       "claim": "The host says it would be sadistic for TPUSA to orchestrate red paint being put on the statue in the exact place on Charlie's neck where he bled out, which she first judged too evil to be true.",
       "anchored_artifacts": [],
@@ -1667,8 +1667,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15506",
-      "ref": "C-15506",
+      "@id": "C-14410",
+      "ref": "C-14410",
       "label": "Host Says TPUSA Refuses to Release Details on the Suspect",
       "claim": "The host says TPUSA is refusing to release further details on the vandalism suspect, such as car description, number of people, height or sex, that would let the public help.",
       "anchored_artifacts": [],
@@ -1683,7 +1683,7 @@
       "investigative_direction": "Phoenix police report on the vandalism and any TPUSA statement on suspect descriptions.",
       "transcript_snippet": "it sure is weird that they're refusing to release any further details regarding the suspect",
       "supports_claim_refs": [
-        "C-15450"
+        "C-14354"
       ],
       "mentions_person_refs": [
         "N-10827"
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15507",
-      "ref": "C-15507",
+      "@id": "C-14411",
+      "ref": "C-14411",
       "label": "Host Says Erika Is CEO and Chairwoman of TPUSA",
       "claim": "The host says the CEO and chairwoman of the organization is Charlie's wife, who could simply release more details.",
       "anchored_artifacts": [],
@@ -1712,8 +1712,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15508",
-      "ref": "C-15508",
+      "@id": "C-14412",
+      "ref": "C-14412",
       "label": "Host Says Over a Month Has Passed With No Footage From the Campus",
       "claim": "The host says it has been over a month since the vandalism and nothing has come from what she calls the most heavily secured and surveilled work campus in America.",
       "anchored_artifacts": [],
@@ -1729,8 +1729,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15509",
-      "ref": "C-15509",
+      "@id": "C-14413",
+      "ref": "C-14413",
       "label": "Host Says a Viewer DMed Tyler Bowyer About the Statue",
       "claim": "The host says someone watching the show live on Thursday messaged Tyler Bowyer and asked him what happened with the statue.",
       "anchored_artifacts": [
@@ -1752,8 +1752,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15510",
-      "ref": "C-15510",
+      "@id": "C-14414",
+      "ref": "C-14414",
       "label": "Per the DMs the Host Shows, Bowyer Says Masked Gang Bangers Covered Their Plate",
       "claim": "Per the DM exchange the host shows, Tyler Bowyer replied that the cops investigated but the \"gang bangers\" all had masks on and covered their license plate.",
       "anchored_artifacts": [
@@ -1774,8 +1774,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15511",
-      "ref": "C-15511",
+      "@id": "C-14415",
+      "ref": "C-14415",
       "label": "Per the DMs, Bowyer Asks How More Cameras Would Help",
       "claim": "Per the DM exchange the host shows, Bowyer replied to a request to release images by asking how more cameras would help with people wearing hoodies and masks, and called questioners conspiracy theorists.",
       "anchored_artifacts": [
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15512",
-      "ref": "C-15512",
+      "@id": "C-14416",
+      "ref": "C-14416",
       "label": "Host Says the Police Hit a Dead End",
       "claim": "Reading Bowyer's answers, the host says they show more than one person was involved, they covered their license plates, and the police hit a dead end.",
       "anchored_artifacts": [
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15513",
-      "ref": "C-15513",
+      "@id": "C-14417",
+      "ref": "C-14417",
       "label": "Per the DMs, the Viewer Jabs Bowyer About Running Out of Financial Resources",
       "claim": "Per the DM exchange the host shows, the viewer wrote that what's crazier is \"running out of financial resources and needing more\".",
       "anchored_artifacts": [
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15514",
-      "ref": "C-15514",
+      "@id": "C-14418",
+      "ref": "C-14418",
       "label": "Per the DMs, Bowyer Says He Worked With the Statue's Artist",
       "claim": "Per the DM exchange the host shows, Bowyer said the statue is near and dear to him because he worked with the artist to get it right.",
       "anchored_artifacts": [
@@ -1865,8 +1865,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15515",
-      "ref": "C-15515",
+      "@id": "C-14419",
+      "ref": "C-14419",
       "label": "Host Sarcastically Declares the Statue Case Closed",
       "claim": "The host sarcastically says the case is closed and that further questions make one demonic or a conspiracy theorist.",
       "anchored_artifacts": [],
@@ -1885,8 +1885,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15516",
-      "ref": "C-15516",
+      "@id": "C-14420",
+      "ref": "C-14420",
       "label": "Host Says, as a Parody, Someone Bleached Her Brigitte Doll",
       "claim": "In a parody of the statue story, the host says someone broke into the podcast studio over the weekend and threw bleach on her Brigitte doll, calls it an LGBTQ hate crime \"because you know Jean-Michel Trogneux [Jean-Michel Trogneux] is gay\", and urges viewers to buy a cup.",
       "anchored_artifacts": [],
@@ -1904,8 +1904,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15517",
-      "ref": "C-15517",
+      "@id": "C-14421",
+      "ref": "C-14421",
       "label": "Host Says Monster Lab Appears Created to Support Erika's Image After the Assassination",
       "claim": "The host says the website Monster Lab appears to have been created to support Erika's public image almost immediately after Charlie's assassination, crediting The Atlantic for breaking the story.",
       "anchored_artifacts": [],
@@ -1920,7 +1920,7 @@
       "investigative_direction": "Wayback Machine captures of the Monster Lab domain and The Atlantic's reporting.",
       "transcript_snippet": "this entire website, Monster Lab, which appears to have been created to support Erica's public image almost immediately after Charlie's assassination.",
       "supports_claim_refs": [
-        "C-3691"
+        "C-13937"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -1929,8 +1929,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15518",
-      "ref": "C-15518",
+      "@id": "C-14422",
+      "ref": "C-14422",
       "label": "Host Says Baron Coleman Found a February Campaign Relic",
       "claim": "The host says that although the clippers are trying to delete their footprints, Baron Coleman found a relic of a campaign from February of this year.",
       "anchored_artifacts": [
@@ -1951,8 +1951,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15519",
-      "ref": "C-15519",
+      "@id": "C-14423",
+      "ref": "C-14423",
       "label": "Host Says the Latvian Operator Gave Strict Instructions to Clippers",
       "claim": "The host says it looks like the Latvian operator (\"the Latvian Dweeb\") was working to bolster Erika's image but had very strict instructions for those getting paid.",
       "anchored_artifacts": [
@@ -1976,8 +1976,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15520",
-      "ref": "C-15520",
+      "@id": "C-14424",
+      "ref": "C-14424",
       "label": "In a Clip, a Message About the \"Erika Kirk AmFest\" Campaign Survived Because Her Name Was Misspelled",
       "claim": "In a clip the host plays (apparently Baron Coleman's), the narrator says a message asking when users would be paid for \"the Erika Kirk AmFest thing\" survived deletion because her name was misspelled \"Ekka Kirk\".",
       "anchored_artifacts": [
@@ -2000,8 +2000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15521",
-      "ref": "C-15521",
+      "@id": "C-14425",
+      "ref": "C-14425",
       "label": "In the Clip, the Payment Message Is Dated February 22, 2026",
       "claim": "In the clip, the narrator says the message is dated February 22, 2026 and that the Erika Kirk AmFest campaign was in December of \"2026\" [likely 2025].",
       "anchored_artifacts": [
@@ -2023,8 +2023,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15522",
-      "ref": "C-15522",
+      "@id": "C-14426",
+      "ref": "C-14426",
       "label": "In the Clip, the User Is Told to Delete the Message and Not Use Her Name",
       "claim": "In the clip, the narrator says the user was told to delete the message and \"Don't use her name\".",
       "anchored_artifacts": [
@@ -2046,8 +2046,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15523",
-      "ref": "C-15523",
+      "@id": "C-14427",
+      "ref": "C-14427",
       "label": "In the Clip, Saying the Campaign Is for Erika Gets You Kicked Out",
       "claim": "In the clip, the narrator says a good way to get kicked out is to let people know \"we're doing this for Erika Kirk\".",
       "anchored_artifacts": [
@@ -2069,8 +2069,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15524",
-      "ref": "C-15524",
+      "@id": "C-14428",
+      "ref": "C-14428",
       "label": "In the Clip, Moderators Use a Stop Emoji and the Code \"EK\"",
       "claim": "In the clip, the narrator says moderators used the stop emoji when her name was mentioned and users said they were told to use \"EK\".",
       "anchored_artifacts": [
@@ -2092,8 +2092,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15525",
-      "ref": "C-15525",
+      "@id": "C-14429",
+      "ref": "C-14429",
       "label": "In the Clip, Users Are Told They Will Be Banned for Naming Erika Kirk",
       "claim": "In the clip, the narrator reads messages saying users will be banned for mentioning Erika Kirk's name, and says this was so the support would look organic.",
       "anchored_artifacts": [
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15526",
-      "ref": "C-15526",
+      "@id": "C-14430",
+      "ref": "C-14430",
       "label": "Host Recalls the WHCD-Night Email Telling Officials to Promote Erika's Clip",
       "claim": "The host recalls her story on an email sent on the night of the White House Correspondents' Dinner to people in the executive branch and military telling them to promote the \"I just want to go home\" clip of Erika, which called her an emotional asset.",
       "anchored_artifacts": [],
@@ -2131,7 +2131,7 @@
       "investigative_direction": "FOIA responses for the White House Military Office / Department of War email.",
       "transcript_snippet": "the email that went out on the night of the White House correspondence dinner to people in the executive branch, people in the military, telling them to promote this clip of Erica.",
       "supports_claim_refs": [
-        "C-4270"
+        "C-9546"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -2139,8 +2139,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15527",
-      "ref": "C-15527",
+      "@id": "C-14431",
+      "ref": "C-14431",
       "label": "Host Says Blake Wynn Was by Erika's Side for \"I Just Want to Go Home\"",
       "claim": "The host says Blake Wynn, Erika's friend, was by her side when she said \"I just want to go home\", and that someone was there to capture it.",
       "anchored_artifacts": [],
@@ -2160,8 +2160,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15528",
-      "ref": "C-15528",
+      "@id": "C-14432",
+      "ref": "C-14432",
       "label": "Host Says Blake Wynn's Enclave and Key Made Erika Clips Go Viral via Monster Lab",
       "claim": "The host says Blake Wynn's company Enclave and Key could and did make various clips of Erika Kirk go viral via Monster Lab, and seemed to be its first big client.",
       "anchored_artifacts": [],
@@ -2176,7 +2176,7 @@
       "investigative_direction": "Enclave and Key's client agreements with Monster Lab and The Atlantic's reporting.",
       "transcript_snippet": "Blake's company, Enclave and Key, is exactly the company that could and did make various clips of Erika Kirk go viral via Monster Lab.",
       "supports_claim_refs": [
-        "C-15077"
+        "C-13981"
       ],
       "mentions_person_refs": [
         "N-352",
@@ -2185,8 +2185,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15529",
-      "ref": "C-15529",
+      "@id": "C-14433",
+      "ref": "C-14433",
       "label": "Per the Discord Message the Host Shows, Clippers Were Owed a $10 Incentive for the \"AL\" WHCD Clip",
       "claim": "Per the Discord message the host shows, a user wrote that they had not received the \"$10 incentive for the AL\" for the WHCD shooting clip \"where Erica cried\"; the host says AL is the \"anti-left\" clipping campaign.",
       "anchored_artifacts": [
@@ -2209,8 +2209,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15530",
-      "ref": "C-15530",
+      "@id": "C-14434",
+      "ref": "C-14434",
       "label": "Host Says the AL Campaign Is Called Anti-Left",
       "claim": "The host says the \"AL\" referenced in the message is a clipping campaign called anti-left.",
       "anchored_artifacts": [
@@ -2228,8 +2228,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15531",
-      "ref": "C-15531",
+      "@id": "C-14435",
+      "ref": "C-14435",
       "label": "Host Says the Discord Message Lines Up With the Amplification Email",
       "claim": "The host says the clip campaign lines up exactly with the email she intercepted, which directed that the clip be boosted to digital partners and made number one.",
       "anchored_artifacts": [
@@ -2245,13 +2245,13 @@
       "investigative_direction": "The intercepted email's distribution list and any matching Monster Lab payout records.",
       "transcript_snippet": "it lines up exactly with the email that we intercepted which directed for that clip in uh in particular to be boosted to go out to our digital partners and to make sure that this is number one.",
       "supports_claim_refs": [
-        "C-4120"
+        "C-9267"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-15532",
-      "ref": "C-15532",
+      "@id": "C-14436",
+      "ref": "C-14436",
       "label": "Host Says Enclave and Key Plausibly Funded the $10 Incentive",
       "claim": "The host says it is entirely plausible that Enclave and Key, which she says had provided the Google Drive of Erika clips beginning September 15, put up the money to make the WHCD clip go viral.",
       "anchored_artifacts": [],
@@ -2267,7 +2267,7 @@
       "investigative_direction": "Monster Lab campaign funding records and Enclave and Key payments.",
       "transcript_snippet": "Blake's enclaving key which had already been providing the Google Drive filled with Erica clips beginning on September 15th uh put up that money to make the clip go viral.",
       "supports_claim_refs": [
-        "C-3688"
+        "C-13915"
       ],
       "mentions_person_refs": [
         "N-352",
@@ -2276,8 +2276,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15533",
-      "ref": "C-15533",
+      "@id": "C-14437",
+      "ref": "C-14437",
       "label": "Tip Says Blake Wynn's Father, Kenny Wynn, Was Raided in 2004",
       "claim": "The host says someone emailed a tip that Blake Wynn's father, Kenneth Wynn, who also goes by Kenny, was raided in 2004.",
       "anchored_artifacts": [
@@ -2301,8 +2301,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15534",
-      "ref": "C-15534",
+      "@id": "C-14438",
+      "ref": "C-14438",
       "label": "Per the Article, Kenny Wynn, Steve Wynn's Brother, Was Subject of a Child Pornography Probe",
       "claim": "Per the 2004 article the host reads, Kenny Wynn, the brother of hotel-casino developer Steve Wynn, was the subject of the same international child pornography investigation that netted another local man earlier that month.",
       "anchored_artifacts": [
@@ -2324,8 +2324,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15535",
-      "ref": "C-15535",
+      "@id": "C-14439",
+      "ref": "C-14439",
       "label": "Per the Article, Wynn's Name Was Found on a Child Porn Website by Operation Predator",
       "claim": "Per the article, citing a law enforcement source, Kenny Wynn, 50, came under suspicion when investigators taking part in Operation Predator found his name on a website where child porn images were trafficked.",
       "anchored_artifacts": [
@@ -2346,8 +2346,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15536",
-      "ref": "C-15536",
+      "@id": "C-14440",
+      "ref": "C-14440",
       "label": "Per the Article, Authorities Seized a Computer From Wynn's Home",
       "claim": "Per the article, the source said authorities confiscated a computer from Kenny Wynn's home the previous week and were searching its hard drive.",
       "anchored_artifacts": [
@@ -2368,8 +2368,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15537",
-      "ref": "C-15537",
+      "@id": "C-14441",
+      "ref": "C-14441",
       "label": "Per the Article, Operation Predator Began in July Under ICE",
       "claim": "Per the article, Operation Predator started in July under the Bureau of Immigration and Customs Enforcement and targets child sex tourists, traffickers and internet predators.",
       "anchored_artifacts": [
@@ -2387,8 +2387,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15538",
-      "ref": "C-15538",
+      "@id": "C-14442",
+      "ref": "C-14442",
       "label": "Per the Article, Operation Predator Led to More Than 1,700 Arrests",
       "claim": "Per the article, the operation had led to more than 1,700 arrests in the United States.",
       "anchored_artifacts": [
@@ -2406,8 +2406,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15539",
-      "ref": "C-15539",
+      "@id": "C-14443",
+      "ref": "C-14443",
       "label": "Host Says Charlie Was Getting White House Calls About the Epstein Scandal",
       "claim": "The host wonders what Charlie said no to and says it makes you think about what he was going through getting calls from the White House amid the Epstein scandal, adding \"The answer is I don't know.\"",
       "anchored_artifacts": [],
@@ -2421,7 +2421,7 @@
       "investigative_direction": "Charlie Kirk's phone records and accounts of White House contacts in summer 2025.",
       "transcript_snippet": "Definitely makes you think about what he was going through getting calls from the White House.",
       "supports_claim_refs": [
-        "C-15357"
+        "C-14261"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -2429,8 +2429,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15540",
-      "ref": "C-15540",
+      "@id": "C-14444",
+      "ref": "C-14444",
       "label": "Host Says Val Peterson Is UVU's VP of Facilities, a Utah House Rep and a Brigadier General",
       "claim": "The host describes Val Peterson as vice president of facilities at UVU, a Utah House representative, a brigadier general, and the brother of another man who is \"alleged innocent until proven guilty\" [Charles Peterson].",
       "anchored_artifacts": [],
@@ -2450,8 +2450,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15541",
-      "ref": "C-15541",
+      "@id": "C-14445",
+      "ref": "C-14445",
       "label": "Host Says Val Peterson Sat on the Timpanogos Hospital Board",
       "claim": "The host says that according to Val Peterson's current government biography and the UVU website, he sat on the board of Timpanogos Hospital, the hospital Charlie was taken to.",
       "anchored_artifacts": [
@@ -2474,8 +2474,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15542",
-      "ref": "C-15542",
+      "@id": "C-14446",
+      "ref": "C-14446",
       "label": "Host Says Val Peterson Also Sat on the Provo Airport Board",
       "claim": "The host says Peterson at one point also sat on the board of Provo airport.",
       "anchored_artifacts": [
@@ -2496,8 +2496,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15543",
-      "ref": "C-15543",
+      "@id": "C-14447",
+      "ref": "C-14447",
       "label": "Host Says Peterson Left the Hospital Board in 2019",
       "claim": "The host says Peterson has not been on the Timpanogos board since 2019, though she would imagine his contacts there remain strong.",
       "anchored_artifacts": [
@@ -2519,8 +2519,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15544",
-      "ref": "C-15544",
+      "@id": "C-14448",
+      "ref": "C-14448",
       "label": "Host Says the Timpanogos Board Membership Is Not Public",
       "claim": "The host says the membership of the Timpanogos Hospital board is not public.",
       "anchored_artifacts": [],
@@ -2540,8 +2540,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15545",
-      "ref": "C-15545",
+      "@id": "C-14449",
+      "ref": "C-14449",
       "label": "DIA: Host Asks for Tips on the Timpanogos Board",
       "claim": "The host asks anyone who knows the Timpanogos Hospital board members to email the \"more tips\" address.",
       "anchored_artifacts": [
@@ -2563,8 +2563,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15546",
-      "ref": "C-15546",
+      "@id": "C-14450",
+      "ref": "C-14450",
       "label": "Host Says Two Reliable Sources Put Val Peterson With Governor Cox on September 10",
       "claim": "The host says two extremely reliable sources told her that Val Peterson met Governor Cox on September 10.",
       "anchored_artifacts": [],
@@ -2578,7 +2578,7 @@
       "investigative_direction": "Cox's September 10, 2025 calendar and golf course records.",
       "transcript_snippet": "we have been informed as I told you by two extremely reliable sources that he did",
       "supports_claim_refs": [
-        "C-15426"
+        "C-14330"
       ],
       "mentions_person_refs": [
         "N-957",
@@ -2587,8 +2587,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15547",
-      "ref": "C-15547",
+      "@id": "C-14451",
+      "ref": "C-14451",
       "label": "Host Says Cox's Office Has Not Responded",
       "claim": "The host says her team reached out to Governor Cox's office on Thursday for confirmation or denial and has not received a response.",
       "anchored_artifacts": [],
@@ -2607,8 +2607,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15548",
-      "ref": "C-15548",
+      "@id": "C-14452",
+      "ref": "C-14452",
       "label": "Host Alleges Hegseth Lied About Bombing Iranian Schools",
       "claim": "The host alleges Pete Hegseth, who remains in office, is lying about bombing Iranian schools filled with children.",
       "anchored_artifacts": [],
@@ -2625,8 +2625,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15549",
-      "ref": "C-15549",
+      "@id": "C-14453",
+      "ref": "C-14453",
       "label": "Host Says Zacharia's Exit Was Tied to Trump's Embarrassment",
       "claim": "The host says the reporting relates Zacharia's exit to Trump feeling embarrassed at not knowing she was not a practicing attorney.",
       "anchored_artifacts": [],
@@ -2646,8 +2646,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15550",
-      "ref": "C-15550",
+      "@id": "C-14454",
+      "ref": "C-14454",
       "label": "Host Says Zacharia Answered \"I Went to China\" When Asked Where She Passed the Bar",
       "claim": "The host says that when the press asked Zacharia where she passed the bar exam, she said she went to China.",
       "anchored_artifacts": [],
@@ -2661,7 +2661,7 @@
       "investigative_direction": "The White House briefing video and transcript.",
       "transcript_snippet": "where she passed the bar exam when she said that, you know, I went to China.",
       "supports_claim_refs": [
-        "C-15380"
+        "C-14284"
       ],
       "mentions_person_refs": [
         "N-962"
@@ -2669,8 +2669,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15551",
-      "ref": "C-15551",
+      "@id": "C-14455",
+      "ref": "C-14455",
       "label": "Host Says Zacharia Tweeted Praise of Trump on October 16",
       "claim": "The host says Zacharia tweeted on October 16 that Trump is \"a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man\" and that it was an honor to work for him.",
       "anchored_artifacts": [
@@ -2690,8 +2690,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15552",
-      "ref": "C-15552",
+      "@id": "C-14456",
+      "ref": "C-14456",
       "label": "Host Says Zacharia Is Going Back to Fox News",
       "claim": "The host says Zacharia is going back to Fox News.",
       "anchored_artifacts": [],
@@ -2710,8 +2710,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15553",
-      "ref": "C-15553",
+      "@id": "C-14457",
+      "ref": "C-14457",
       "label": "Host Says Tim Dillon Shared Her View of the Public-Execution Push",
       "claim": "The host says Tim Dillon was a fan of Zacharia and shared her perspective on what she calls the bizarre push for a public execution.",
       "anchored_artifacts": [],
@@ -2731,8 +2731,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15554",
-      "ref": "C-15554",
+      "@id": "C-14458",
+      "ref": "C-14458",
       "label": "Host Cites Hegseth's Plan for a Live Execution",
       "claim": "The host says Tim Dillon had a perfect bit describing both Katie Zacharia's exit and Pete Hegseth's plan for a live execution, all happening at the same time.",
       "anchored_artifacts": [],
@@ -2746,7 +2746,7 @@
       "investigative_direction": "Hegseth's announcement and Trump's later Truth Social post.",
       "transcript_snippet": "Pete Hegseth's plan for a live execution",
       "supports_claim_refs": [
-        "C-15475"
+        "C-14379"
       ],
       "mentions_person_refs": [
         "N-592",
@@ -2756,8 +2756,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15555",
-      "ref": "C-15555",
+      "@id": "C-14459",
+      "ref": "C-14459",
       "label": "In a Clip the Host Plays, Tim Dillon Says Zacharia Was Pulled After a Disastrous Start",
       "claim": "In a clip the host plays, Tim Dillon says Zacharia, the press secretary, is out after a disastrous first time at bat, because this is no time for bad liars.",
       "anchored_artifacts": [
@@ -2779,8 +2779,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15556",
-      "ref": "C-15556",
+      "@id": "C-14460",
+      "ref": "C-14460",
       "label": "In the Clip, Dillon Predicts Democratic Investigations Into Crypto and Hegseth",
       "claim": "In the clip, Dillon predicts a Democratic Congress and possibly Senate, and says Democrats will launch investigations into crypto scams and into what Hegseth is doing.",
       "anchored_artifacts": [
@@ -2800,8 +2800,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15557",
-      "ref": "C-15557",
+      "@id": "C-14461",
+      "ref": "C-14461",
       "label": "In the Clip, Dillon Says the Fort Hood Shooter Was to Be Executed on Livestream",
       "claim": "In the clip, Dillon satirizes the plan to livestream an execution, ending with the Fort Hood shooter [Nidal Hasan] being shot, and says \"that was their idea\".",
       "anchored_artifacts": [
@@ -2823,8 +2823,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15558",
-      "ref": "C-15558",
+      "@id": "C-14462",
+      "ref": "C-14462",
       "label": "Host Says Erika's Club America School Visits Are Administratively Forced",
       "claim": "The host says Erika's pursuit of middle-school audiences via Club America is administratively forced and counted as wins, and that nobody is asking her to come.",
       "anchored_artifacts": [],
@@ -2839,7 +2839,7 @@
       "investigative_direction": "School invitations and TPUSA booking records for Erika Kirk school appearances.",
       "transcript_snippet": "this frankly bizarre pursuit of middle school audiences now via Club America, but like bizarre because it's being administratively forced and they're counting it as wins.",
       "supports_claim_refs": [
-        "C-15362"
+        "C-14266"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -2847,8 +2847,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15559",
-      "ref": "C-15559",
+      "@id": "C-14463",
+      "ref": "C-14463",
       "label": "Host Says Parents at a School Have Emailed Her About an Erika Kirk Appearance",
       "claim": "The host says the show has received many emails from parents at a school, which she declines to name because of the children's ages.",
       "anchored_artifacts": [
@@ -2869,8 +2869,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15560",
-      "ref": "C-15560",
+      "@id": "C-14464",
+      "ref": "C-14464",
       "label": "Host Says the Event Is a Pre-K Through 12 Veterans Day Assembly",
       "claim": "The host says the event is a pre-K through 12 Veterans Day assembly, and asks whether Erika is a veteran.",
       "anchored_artifacts": [
@@ -2891,8 +2891,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15561",
-      "ref": "C-15561",
+      "@id": "C-14465",
+      "ref": "C-14465",
       "label": "Host Says a Christian School Is Billing Erika as a Chapel Special Guest",
       "claim": "The host says it is another Christian school, announcing Erika as a special guest for chapel with the entire school seated.",
       "anchored_artifacts": [
@@ -2913,8 +2913,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15562",
-      "ref": "C-15562",
+      "@id": "C-14466",
+      "ref": "C-14466",
       "label": "Per the Flyer, Veterans and Active Military Are Invited to the Chapel With Erika Kirk",
       "claim": "Per the flyer the host shows, veterans and active military members are warmly invited to the chapel with special guest Erika Kirk.",
       "anchored_artifacts": [
@@ -2935,8 +2935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15563",
-      "ref": "C-15563",
+      "@id": "C-14467",
+      "ref": "C-14467",
       "label": "Host Says Parents May Opt Their Children Out or Attend",
       "claim": "The host says that, given the children's ages, parents are allowed to opt their children out of the schoolwide assembly, and may attend.",
       "anchored_artifacts": [
@@ -2957,8 +2957,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15564",
-      "ref": "C-15564",
+      "@id": "C-14468",
+      "ref": "C-14468",
       "label": "Host Says Erika Was a Reality TV Casting Director",
       "claim": "The host says that before being presented as a wife with no career aspirations, Erika was, she guesses, a reality TV casting director.",
       "anchored_artifacts": [],
@@ -2976,8 +2976,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15565",
-      "ref": "C-15565",
+      "@id": "C-14469",
+      "ref": "C-14469",
       "label": "A Viewer Comment the Host Reads Says TPUSA Offered a $10,000 Statue Reward but None for Charlie's Killer",
       "claim": "A viewer comment the host reads says Turning Point USA immediately offered a $10,000 reward for information on who defaced Charlie's statue, but there has never been a reward for evidence on who killed Charlie Kirk.",
       "anchored_artifacts": [],
@@ -2992,7 +2992,7 @@
       "investigative_direction": "TPUSA's reward announcements after the vandalism and after the assassination.",
       "transcript_snippet": "It's interesting how Turning Point USA immediately offered a 10,000 reward for information leading to who defamed Charlie's statue, but there's never been a reward offered for evidence leading to who killed Charlie Kirk.",
       "supports_claim_refs": [
-        "C-15454"
+        "C-14358"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -3000,8 +3000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15566",
-      "ref": "C-15566",
+      "@id": "C-14470",
+      "ref": "C-14470",
       "label": "Host Says Tyler Robinson Was Forgiven 11 Days On, After the Clipping Campaign Began",
       "claim": "The host sarcastically says the assassination was open and shut, and that Tyler Robinson was forgiven 11 days on, which she says was after the clipping campaign began.",
       "anchored_artifacts": [],
@@ -3020,8 +3020,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15567",
-      "ref": "C-15567",
+      "@id": "C-14471",
+      "ref": "C-14471",
       "label": "Host Says She Will Join Baron Coleman During Her Leave",
       "claim": "The host says she will pop in during maternity leave and join Baron for an episode or two.",
       "anchored_artifacts": [],
@@ -3041,8 +3041,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15568",
-      "ref": "C-15568",
+      "@id": "C-14472",
+      "ref": "C-14472",
       "label": "Host Says the Intro Voice Is From Ye's \"Stars\"",
       "claim": "Answering a viewer, the host says the muted intro voice says \"I hope he's bright and big and strong\" from a Ye song, which Schuyler identifies as \"Stars\".",
       "anchored_artifacts": [],
@@ -3060,8 +3060,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15569",
-      "ref": "C-15569",
+      "@id": "C-14473",
+      "ref": "C-14473",
       "label": "Host Says There Are Suggestions Trump Will Remove Cabinet Members",
       "claim": "The host says there are many suggestions Trump will get rid of some cabinet members because he cannot stand that people do not like him, and points to Tim Dillon's episode.",
       "anchored_artifacts": [],
@@ -3079,8 +3079,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15570",
-      "ref": "C-15570",
+      "@id": "C-14474",
+      "ref": "C-14474",
       "label": "Host Says Baron Merch Including a Substitute Teacher Crew Neck Is on the Website",
       "claim": "The host says Baron merch is on the website, including a substitute teacher crew neck and a mug reading \"I will not believe the fed slop\".",
       "anchored_artifacts": [],

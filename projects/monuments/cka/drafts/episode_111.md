@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (skeleton): N-650, N-651, N-652, N-653, N-654, N-655, N-656, N-657, N-658, N-659, N-10948, N-10949, N-10950, N-10951, N-10952
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-159, N-244, N-341, N-450, N-451, N-551, N-580, N-625, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-649, N-648
-  - Claim Range: C-4322–C-4384
+  - Claim Range: C-9706–C-9768
   - (see registers)
 
 ## 2. Executive Summary
@@ -38,7 +38,7 @@ Video Timestamp: 00:01:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4322, N-3, N-625*
+*Related: C-9706, N-3, N-625*
 
 ---
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:04:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4326, N-3, N-648, N-625, N-10948*
+*Related: C-9710, N-3, N-648, N-625, N-10948*
 
 **A-2618.2** Laura Loomer post alleging a Dugin meeting and calling for FARA registration and FinCEN flags (shown and read aloud)
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:06:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4327, C-4329, N-60, N-3, N-30, N-648, N-649, N-10949*
+*Related: C-9711, C-9713, N-60, N-3, N-30, N-648, N-649, N-10949*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:14:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4335, N-10026*
+*Related: C-9719, N-10026*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:20:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4337, C-4338, N-650, N-651, N-10951*
+*Related: C-9721, C-9722, N-650, N-651, N-10951*
 
 **A-2620.2** New York Times article "The Riddle of Armand Hammer" (quoted aloud)
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:24:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4341, C-4342, N-653, N-654, N-655, N-656, N-657*
+*Related: C-9725, C-9726, N-653, N-654, N-655, N-656, N-657*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:27:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4343, N-3, N-650, N-10952*
+*Related: C-9727, N-3, N-650, N-10952*
 
 **A-2621.2** Host's photos from the Russia trip (grocery stores, Christian icons, an old Bible)
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:31:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4345, N-3, N-22*
+*Related: C-9729, N-3, N-22*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:38:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4347, N-2, N-10008*
+*Related: C-9731, N-2, N-10008*
 
 **A-2622.2** Clip of Dana Loesch's summit speech reciting Bible verses on widows
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:41:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4351, N-658, N-10008*
+*Related: C-9735, N-658, N-10008*
 
 **A-2622.3** Clip of Alex Clark's summit speech on a "God-honoring single season" ending in her engagement announcement
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:46:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4353, N-99, N-10008*
+*Related: C-9737, N-99, N-10008*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:48:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4355, N-99, N-3, N-625*
+*Related: C-9739, N-99, N-3, N-625*
 
 **A-2623.2** Alex Clark post claiming credit for prompting Trump's rant against the host
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:51:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4359, N-99, N-5*
+*Related: C-9743, N-99, N-5*
 
 **A-2623.3** Alex Clark post about Aubrey's husband
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:51:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4360, N-99, N-551*
+*Related: C-9744, N-99, N-551*
 
 **A-2623.4** Supercut of Alex Clark on masculinity
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:53:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4361, C-4362, N-659, N-10954*
+*Related: C-9745, C-9746, N-659, N-10954*
 
 ---
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:56:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4364, N-1*
+*Related: C-9748, N-1*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 01:03:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4371, C-4372, N-1, N-2, N-11*
+*Related: C-9755, C-9756, N-1, N-2, N-11*
 
 **A-2625.2** Summit clip of Erika Kirk's walk-out including the Charlie Kirk "I appoint my wife" segment
 
@@ -264,7 +264,7 @@ Video Timestamp: 01:05:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4373, C-4374, N-1, N-2, N-10664*
+*Related: C-9757, C-9758, N-1, N-2, N-10664*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 01:05:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4375, N-3, N-10000*
+*Related: C-9759, N-3, N-10000*
 
 **A-2626.2** TPUSA X account reply to the host (shown and read aloud)
 
@@ -290,7 +290,7 @@ Video Timestamp: 01:07:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4378, N-10000*
+*Related: C-9762, N-10000*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 01:19:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4383, N-2, N-10700*
+*Related: C-9767, N-2, N-10700*
 
 ---
 
@@ -313,390 +313,390 @@ Confidence Level: Low
 
 Subject of the disputed "I appoint my wife" clip, the women-and-career supercut and the Aspen presentation; the host repeats that he attended Catholic mass and was changing his mind on Israel.
 
-*Related: C-4347, C-4352, C-4357, C-4360, C-4363, C-4364, C-4366, C-4367, C-4368, C-4369, C-4371, C-4372, C-4373, C-4374, C-4375, C-4378, C-4380, A-2624.1, A-2625.1, A-2625.2*
+*Related: C-9731, C-9736, C-9741, C-9744, C-9747, C-9748, C-9750, C-9751, C-9752, C-9753, C-9755, C-9756, C-9757, C-9758, C-9759, C-9762, C-9764, A-2624.1, A-2625.1, A-2625.2*
 
 **N-2** Erika Kirk
 
 Heckled at the Women's Leadership Summit; her Harvest church partnership, the appointment video, her fundraising use of Charlie's letter and the White House FOIA are discussed.
 
-*Related: C-4347, C-4348, C-4352, C-4354, C-4363, C-4366, C-4367, C-4369, C-4370, C-4371, C-4373, C-4374, C-4375, C-4383, C-4384, A-2622.1, A-2625.1, A-2625.2, A-2627.1*
+*Related: C-9731, C-9732, C-9736, C-9738, C-9747, C-9750, C-9751, C-9753, C-9754, C-9755, C-9757, C-9758, C-9759, C-9767, C-9768, A-2622.1, A-2625.1, A-2625.2, A-2627.1*
 
 **N-3** Candace Owens
 
 Host; recounts her Russia trip and her security staffer's medical emergency, and her email to TPUSA, outreach to Aspen donors and FOIA requests.
 
-*Related: C-4322, C-4323, C-4325, C-4326, C-4327, C-4328, C-4329, C-4330, C-4331, C-4332, C-4333, C-4334, C-4335, C-4336, C-4343, C-4345, C-4346, C-4350, C-4355, C-4356, C-4357, C-4358, C-4359, C-4370, C-4374, C-4375, C-4376, C-4378, C-4379, C-4381, C-4382, C-4383, C-4384, A-2617.1, A-2618.1, A-2618.2, A-2621.1, A-2621.2, A-2623.1, A-2626.1*
+*Related: C-9706, C-9707, C-9709, C-9710, C-9711, C-9712, C-9713, C-9714, C-9715, C-9716, C-9717, C-9718, C-9719, C-9720, C-9727, C-9729, C-9730, C-9734, C-9739, C-9740, C-9741, C-9742, C-9743, C-9754, C-9758, C-9759, C-9760, C-9762, C-9763, C-9765, C-9766, C-9767, C-9768, A-2617.1, A-2618.1, A-2618.2, A-2621.1, A-2621.2, A-2623.1, A-2626.1*
 
 **N-5** Donald Trump
 
 His administration is said to have sent a delegation to SPIEF; Alex Clark claims credit for prompting his rant against the host.
 
-*Related: C-4324, C-4359, A-2623.2*
+*Related: C-9708, C-9743, A-2623.2*
 
 **N-11** Tyler Bowyer
 
 Named by the host as the person Charlie repeatedly called out in his Aspen presentation.
 
-*Related: C-4372, A-2625.1*
+*Related: C-9756, A-2625.1*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Kolvet" and "Andrew Kolvet". Messaged by the host about the video; earlier said an intern runs the TPUSA X account; Aubrey is described as having worked for him.
 
-*Related: C-4360, C-4376, C-4377, C-4379*
+*Related: C-9744, C-9760, C-9761, C-9763*
 
 **N-15** Justin Streiff
 Transcript spelling "Justin Streiff". Messaged by the host about the appointment video.
 
-*Related: C-4376*
+*Related: C-9760*
 
 **N-22** Tucker Carlson
 
 Cited by the host for his Russian grocery-store visit and as having "stole my shine" with a Putin interview.
 
-*Related: C-4323, C-4345, A-2621.2*
+*Related: C-9707, C-9729, A-2621.2*
 
 **N-27** Kanye West
 
 Cited as not allowed to perform in the West, alongside the host's Australia ban.
 
-*Related: C-4346*
+*Related: C-9730*
 
 **N-30** George (Candace's husband)
 
 Named George Farmer in the Loomer post; alleged by Loomer's source to have met Dugin in Italy, which the host denies; planned the Russia trip with the host.
 
-*Related: C-4323, C-4325, C-4327, C-4329, C-4330, A-2618.2*
+*Related: C-9707, C-9709, C-9711, C-9713, C-9714, A-2618.2*
 
 **N-46** Megyn Kelly
 
 Transcript spelling "Megyn Kelly". Cited for saying Mark Levin would hurt her and as the November 2025 interviewer to whom Erika Kirk first described the appointment video.
 
-*Related: C-4344, C-4363*
+*Related: C-9728, C-9747*
 
 **N-60** Laura Loomer
 
 Alleged a Dugin meeting with the host's husband and called for FARA registration and FinCEN flags.
 
-*Related: C-4327, C-4329, A-2618.2*
+*Related: C-9711, C-9713, A-2618.2*
 
 **N-82** Brigitte Macron
 
 Subject of the host's Becoming Brigitte series, which she says went viral in Russia.
 
-*Related: C-4381*
+*Related: C-9765*
 
 **N-97** Ben Shapiro
 
 Named among the critics of the host's Russia trip and, with Mark Levin, as Zionists who "rewrite history."
 
-*Related: C-4344*
+*Related: C-9728*
 
 **N-99** Alex Clark
 
 Announced her engagement at the summit; her posts mocking the host ("how did Putin taste?"), claiming credit for Trump's rant and targeting Aubrey's husband are read; the host says she pressured Paleo Valley.
 
-*Related: C-4352, C-4353, C-4354, C-4355, C-4356, C-4357, C-4358, C-4359, C-4360, C-4361, A-2622.3, A-2623.1, A-2623.2, A-2623.3, A-2623.4*
+*Related: C-9736, C-9737, C-9738, C-9739, C-9740, C-9741, C-9742, C-9743, C-9744, C-9745, A-2622.3, A-2623.1, A-2623.2, A-2623.3, A-2623.4*
 
 **N-159** Blake Neff
 
 Suggested by the host to have known why TPUSA said the video would be dismissed as AI.
 
-*Related: C-4365*
+*Related: C-9749*
 
 **N-244** Mark Levin
 
 Megyn Kelly is cited as believing he would hurt her; the host questions his family's Russian origins.
 
-*Related: C-4344*
+*Related: C-9728*
 
 **N-341** Victor Marx
 
 An emailer told the host he named Greg Laurie as his mentor.
 
-*Related: C-4349*
+*Related: C-9733*
 
 **N-450** Greg Laurie
 
 Pastor of Harvest church, with which Erika Kirk toured; the church faces a Romania lawsuit.
 
-*Related: C-4348, C-4349*
+*Related: C-9732, C-9733*
 
 **N-451** Paul Havsgaard
 
 Transcript spelling "Paul Havsgaard". Per the host, Greg Laurie's defense is that Havsgaard acted alone in Romania.
 
-*Related: C-4348*
+*Related: C-9732*
 
 **N-551** Aubrey Laitsch
 
 "Aubrey" whose husband Alex Clark called weird; mapped with medium confidence.
 
-*Related: C-4360, A-2623.3*
+*Related: C-9744, A-2623.3*
 
 **N-580** Thomas Massie
 
 Said to be honoring USS Liberty survivors; earlier TPUSA X exchange with him led Kolvet to say an intern runs the account.
 
-*Related: C-4336, C-4377*
+*Related: C-9720, C-9761*
 
 **N-648** Alexander Dugin
 
 First named by the host at 00:00:01 in episode 111. Russian philosopher whom Laura Loomer's source alleges met the host's husband in Italy; the host denies ever meeting him. Alias: Dugan.
 
-*Related: C-4326, C-4327, C-4328, C-4334, C-4350, A-2618.1, A-2618.2*
+*Related: C-9710, C-9711, C-9712, C-9718, C-9734, A-2618.1, A-2618.2*
 
 **N-625** Vladimir Putin
 
 First named by the host at 00:01:02 in episode 111. Russian president; the host says her interview request was denied and critics claim he invited her to speak.
 
-*Related: C-4322, C-4323, C-4326, C-4334, C-4350, C-4355, A-2617.1, A-2618.1, A-2623.1*
+*Related: C-9706, C-9707, C-9710, C-9718, C-9734, C-9739, A-2617.1, A-2618.1, A-2623.1*
 
 **N-649** Marco Rubio
 
 First named by the host at 00:06:42 in episode 111. Tagged as "Secretary Rubio" in Laura Loomer's post calling for the host to be investigated.
 
-*Related: C-4329, A-2618.2*
+*Related: C-9713, A-2618.2*
 
 **N-498** Phil Tourney
 
 First named by the host at 00:14:26 in episode 111. USS Liberty survivor the host interviewed.
 
-*Related: C-4336*
+*Related: C-9720*
 
 **N-650** Tsar Alexander II
 
 First named by the host at 00:19:26 in episode 111. Russian tsar assassinated in 1881 by the People's Will; the Church of the Savior on Spilled Blood marks the site.
 
-*Related: C-4337, C-4343, A-2620.1, A-2621.1*
+*Related: C-9721, C-9727, A-2620.1, A-2621.1*
 
 **N-651** Deborah Hertz
 
 First named by the host at 00:20:16 in episode 111. Author of the article on Jewish women radicals in tsarist Russia that the host quotes.
 
-*Related: C-4338, A-2620.1*
+*Related: C-9722, A-2620.1*
 
 **N-652** Yakov Yurovsky
 
 First named by the host at 00:22:27 in episode 111. Bolshevik executioner who, per the host, led the murder of the Romanov family.
 
-*Related: C-4339*
+*Related: C-9723*
 
 **N-653** Vladimir Lenin
 
 First named by the host at 00:23:20 in episode 111. Soviet leader under whom, per the host, the communist regime and mass killings began; appointed Ludwig Martens per the NYT article.
 
-*Related: C-4340, C-4341, A-2620.2*
+*Related: C-9724, C-9725, A-2620.2*
 
 **N-654** Armie Hammer
 
 First named by the host at 00:24:15 in episode 111. Actor whose family history the host introduces via the Hammer story.
 
-*Related: C-4341, A-2620.2*
+*Related: C-9725, A-2620.2*
 
 **N-655** Julius Hammer
 
 First named by the host at 00:24:59 in episode 111. Per the New York Times article read by the host, financed the Soviet Bureau and converted smuggled diamonds into cash.
 
-*Related: C-4341, C-4342, A-2620.2*
+*Related: C-9725, C-9726, A-2620.2*
 
 **N-656** Armand Hammer
 
 First named by the host at 00:24:59 in episode 111. Subject of the New York Times article "The Riddle of Armand Hammer"; denies the diamond account.
 
-*Related: C-4341, C-4342, A-2620.2*
+*Related: C-9725, C-9726, A-2620.2*
 
 **N-657** Ludwig Martens
 
 First named by the host at 00:25:49 in episode 111. Russian-German engineer appointed by Lenin to head the unofficial Soviet Bureau in New York.
 
-*Related: C-4341, A-2620.2*
+*Related: C-9725, A-2620.2*
 
 **N-658** Dana Loesch
 
 First named by the host at 00:41:37 in episode 111. Transcript spelling "Dana Loesch" (also addressed as "Dana" at 27:36 and 29:21). Summit speaker who recited widow verses and, per the host, said she was working with Putin and Dugin. Alias: Dana Loesch.
 
-*Related: C-4350, C-4351, A-2622.2*
+*Related: C-9734, C-9735, A-2622.2*
 
 **N-659** Vance Voetberg
 
 First named by the host at 00:52:41 in episode 111. Alex Clark's fiancé; says he works for Alliance Defending Freedom and runs the blog Running on Butter.
 
-*Related: C-4361, C-4362, A-2623.5*
+*Related: C-9745, C-9746, A-2623.5*
 
 **N-10000** Turning Point USA
 
 Organization whose summit, handling of the appointment video, X account and fundraising practices are criticized.
 
-*Related: C-4347, C-4351, C-4352, C-4354, C-4356, C-4365, C-4366, C-4367, C-4368, C-4375, C-4376, C-4377, C-4378, C-4380, A-2626.1, A-2626.2*
+*Related: C-9731, C-9735, C-9736, C-9738, C-9740, C-9749, C-9750, C-9751, C-9752, C-9759, C-9760, C-9761, C-9762, C-9764, A-2626.1, A-2626.2*
 
 **N-10008** YWLS Conference
 
 The summit, renamed the Women's Leadership Summit, where Erika Kirk was heckled and Dana Loesch and Alex Clark spoke.
 
-*Related: C-4347, C-4351, C-4352, C-4353, C-4354, C-4373, A-2622.1, A-2622.2, A-2622.3*
+*Related: C-9731, C-9735, C-9736, C-9737, C-9738, C-9757, A-2622.1, A-2622.2, A-2622.3*
 
 **N-10026** Israel
 
 Subject of the reported US military merger headline.
 
-*Related: C-4335, A-2619.1*
+*Related: C-9719, A-2619.1*
 
 **N-10056** Kirk-Israel Narrative Dispute
 
 The host restates that Charlie Kirk was changing his mind about Israel.
 
-*Related: C-4357*
+*Related: C-9741*
 
 **N-10070** Daily Mail
 
 Reporters were shown the appointment video exclusively, per the host.
 
-*Related: C-4368*
+*Related: C-9752*
 
 **N-10194** TPUSA Succession Plan Disclosure Timeline
 
 Erika Kirk's November 2025 Megyn Kelly interview introduced the appointment video.
 
-*Related: C-4363*
+*Related: C-9747*
 
 **N-10350** Charlie Kirk Catholicism Journey
 
 The host restates that Charlie attended Catholic mass, sometimes daily.
 
-*Related: C-4357*
+*Related: C-9741*
 
 **N-10376** AmFest Tent Recreation Approval Chain
 
 The host cites the recreated tent for selfies alongside the displayed microphone.
 
-*Related: C-4366*
+*Related: C-9750*
 
 **N-10401** Romania / Eastern Europe Trafficking Cluster
 
 Context for the allegation the heckler referenced about Erika Kirk's past.
 
-*Related: C-4348*
+*Related: C-9732*
 
 **N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 The host says the church Erika Kirk partnered with is being sued and the lawsuit is ongoing.
 
-*Related: C-4348*
+*Related: C-9732*
 
 **N-10437** Aspen Donor Recall Verification
 
 Donors and Erika fans present say the appointment never happened; the host has contacted the donors.
 
-*Related: C-4369, C-4370, C-4382*
+*Related: C-9753, C-9754, C-9766*
 
 **N-10451** USS Liberty Incident Cover-up Investigation
 
 Thomas Massie's announced honor for survivors; the host's Phil Tourney interview.
 
-*Related: C-4336*
+*Related: C-9720*
 
 **N-10538** Turning Point Action / Thomas Massie Disavowal Incident
 
 Kolvet's earlier statement that an intern runs the TPUSA X account.
 
-*Related: C-4377*
+*Related: C-9761*
 
 **N-10583** Aspen Donor Audio Integrity Question
 
 Attendees believe the clip was spliced from different points of the event.
 
-*Related: C-4370, C-4374*
+*Related: C-9754, C-9758*
 
 **N-10584** Aspen Donor Event Memory Discrepancy
 
 Donors recall "the board would figure it out," not an appointment.
 
-*Related: C-4369*
+*Related: C-9753*
 
 **N-10637** WHCD Incident Reconstruction
 
 The host's narrowed FOIA asks for emails on Erika Kirk and the correspondents' dinner shooting.
 
-*Related: C-4383*
+*Related: C-9767*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 The host says definitively she believes the appointment clip is doctored; TPUSA's X account says it is real.
 
-*Related: C-4363, C-4365, C-4368, C-4371, C-4373, C-4374, C-4378, C-4379, C-4380, A-2625.2*
+*Related: C-9747, C-9749, C-9752, C-9755, C-9757, C-9758, C-9762, C-9763, C-9764, A-2625.2*
 
 **N-10700** Pending FOIA Requests
 
 The White House asked the host to narrow her Erika Kirk FOIA request.
 
-*Related: C-4383, C-4384, A-2627.1*
+*Related: C-9767, C-9768, A-2627.1*
 
 **N-10888** Department of War
 
 The host says it appears to have been involved in the White House emails about Erika Kirk.
 
-*Related: C-4384*
+*Related: C-9768*
 
 **N-10948** St. Petersburg International Economic Forum (SPIEF)
 
 Node Type: Organization
 Annual economic forum in St. Petersburg, described by the host as the "Davos of the East," where she spoke on a family panel. She says a Trump administration delegation also attended. Critics claimed Putin invited her and that she appeared alongside Dugin.
 
-*Related: C-4324, C-4325, C-4326, C-4328, A-2618.1*
+*Related: C-9708, C-9709, C-9710, C-9712, A-2618.1*
 
 **N-10949** Alexander Dugin–George Farmer Italy Meeting Allegation
 
 Node Type: Topic
 Investigation target: Laura Loomer's source-based claim that Alexander Dugin met the host's husband George Farmer in a secret meeting in Italy about a month before the Russia trip, used to call for FARA registration and FinCEN flags. The host denies ever meeting Dugin.
 
-*Related: C-4327, C-4328, C-4329, A-2618.2*
+*Related: C-9711, C-9712, C-9713, A-2618.2*
 
 **N-10950** US Department of Veterans Affairs (VA)
 
 Node Type: Organization
 The host says her security staffer tried for years to get a VA appointment before suffering a stroke in Russia, and that members of his platoon died by suicide after failing to get appointments.
 
-*Related: C-4332, C-4333*
+*Related: C-9716, C-9717*
 
 **N-10951** People's Will
 
 Node Type: Organization
 Russian revolutionary group (Narodnaya Volya) that, per the host, plotted the 1881 assassination of Tsar Alexander II; the host reads Deborah Hertz's figures on its membership.
 
-*Related: C-4337, C-4338, A-2620.1*
+*Related: C-9721, C-9722, A-2620.1*
 
 **N-10952** Church of the Savior on Spilled Blood
 
 Node Type: Place
 Church in St. Petersburg built on the spot where Alexander II's carriage was bombed; the host shows her own video from it.
 
-*Related: C-4343, A-2621.1*
+*Related: C-9727, A-2621.1*
 
 **N-10953** Paleo Valley
 
 Node Type: Organization
 Sponsor of the host's show; the host says Alex Clark made private calls demanding it drop the show.
 
-*Related: C-4358*
+*Related: C-9742*
 
 **N-10954** Alliance Defending Freedom
 
 Node Type: Organization
 Christian legal organization (ADF) where Alex Clark's fiancé Vance Voetberg says he works.
 
-*Related: C-4362, A-2623.5*
+*Related: C-9746, A-2623.5*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the email the host says was sent by the White House Military Office through the White House Communications Agency about 25 minutes after Sara Sidner's 9:25 p.m. upload of the Erika Kirk clip on the night of the April 25 WHCD shooting. In this episode the host says her report was true, that Erika Kirk is considered an "emotional asset," and that the Department of War appears to have been involved; her narrowed FOIA request seeks these emails.
 
-*Related: C-4384*
+*Related: C-9768*
 
 ## 5. Claim Register
 
-**C-4322** Episode thumbnail of the host with Putin is AI-generated
+**C-9706** Episode thumbnail of the host with Putin is AI-generated
 
 Claim Timestamp: 00:01:02
 
@@ -710,7 +710,7 @@ Investigative Direction: Examine the thumbnail image file and its provenance met
 
 ---
 
-**C-4323** Host's request for a Putin interview was denied; she has sought one for about five years
+**C-9707** Host's request for a Putin interview was denied; she has sought one for about five years
 
 Claim Timestamp: 00:02:34
 
@@ -724,7 +724,7 @@ Investigative Direction: Obtain the host's interview request correspondence with
 
 ---
 
-**C-4324** Trump administration sent a delegation to SPIEF
+**C-9708** Trump administration sent a delegation to SPIEF
 
 Claim Timestamp: 00:03:32
 
@@ -739,7 +739,7 @@ Investigative Direction: Check SPIEF 2026 participant lists and State Department
 
 ---
 
-**C-4325** Host paid for the Russia trip herself and joined a SPIEF family panel on invitation
+**C-9709** Host paid for the Russia trip herself and joined a SPIEF family panel on invitation
 
 Claim Timestamp: 00:03:32
 
@@ -754,7 +754,7 @@ Investigative Direction: Review the host's travel bookings and payments and the 
 
 ---
 
-**C-4326** Commentator montage claims Putin personally asked the host to speak at SPIEF
+**C-9710** Commentator montage claims Putin personally asked the host to speak at SPIEF
 
 Claim Timestamp: 00:04:21
 
@@ -769,7 +769,7 @@ Investigative Direction: Obtain the SPIEF program and the organizers' record of 
 
 ---
 
-**C-4327** Laura Loomer says sources told her Dugin met the host's husband in Italy
+**C-9711** Laura Loomer says sources told her Dugin met the host's husband in Italy
 
 Claim Timestamp: 00:05:53
 
@@ -784,7 +784,7 @@ Investigative Direction: Ask Loomer for her source and compare Dugin's and Georg
 
 ---
 
-**C-4328** Host denies ever meeting Alexander Dugin
+**C-9712** Host denies ever meeting Alexander Dugin
 
 Claim Timestamp: 00:05:53
 
@@ -795,12 +795,12 @@ Transcript Snippet: Because I've never met Alexander Dugin. We still don't know 
 Anchored Artifacts:
 Mentions: N-3, N-648
 Related Nodes: N-10948, N-10949
-Contradicts: C-4327
+Contradicts: C-9711
 Investigative Direction: Review SPIEF session rosters and any photographic record of the host and Dugin together.
 
 ---
 
-**C-4329** Loomer post called for FARA registration and FinCEN flags and tagged Treasury and Rubio
+**C-9713** Loomer post called for FARA registration and FinCEN flags and tagged Treasury and Rubio
 
 Claim Timestamp: 00:06:42
 
@@ -815,7 +815,7 @@ Investigative Direction: Archive the original Loomer post with its timestamp and
 
 ---
 
-**C-4330** American security staffer collapsed on the second day in Russia
+**C-9714** American security staffer collapsed on the second day in Russia
 
 Claim Timestamp: 00:09:29
 
@@ -829,7 +829,7 @@ Investigative Direction: Obtain the paramedic call record and hospital admission
 
 ---
 
-**C-4331** Security staffer needed emergency brain surgery for a massive clot in a Russian hospital
+**C-9715** Security staffer needed emergency brain surgery for a massive clot in a Russian hospital
 
 Claim Timestamp: 00:10:45
 
@@ -843,7 +843,7 @@ Investigative Direction: Obtain the hospital's surgical record and the wife's em
 
 ---
 
-**C-4332** Staffer had tried for years to get a VA appointment
+**C-9716** Staffer had tried for years to get a VA appointment
 
 Claim Timestamp: 00:12:36
 
@@ -858,7 +858,7 @@ Investigative Direction: Obtain the veteran's VA appointment-request history (wi
 
 ---
 
-**C-4333** Staffer's platoon survived a sonar blast and several members later died by suicide
+**C-9717** Staffer's platoon survived a sonar blast and several members later died by suicide
 
 Claim Timestamp: 00:13:34
 
@@ -873,7 +873,7 @@ Investigative Direction: Identify the unit and incident and check VA records and
 
 ---
 
-**C-4334** Staffer is still recovering in Russia
+**C-9718** Staffer is still recovering in Russia
 
 Claim Timestamp: 00:14:26
 
@@ -887,7 +887,7 @@ Investigative Direction: Confirm the staffer's current status through his family
 
 ---
 
-**C-4335** Headline says Congress is moving to merge the US military closer to Israel's
+**C-9719** Headline says Congress is moving to merge the US military closer to Israel's
 
 Claim Timestamp: 00:16:13
 
@@ -902,7 +902,7 @@ Investigative Direction: Locate the article and the legislative provision it des
 
 ---
 
-**C-4336** Thomas Massie announced an honor for USS Liberty survivors
+**C-9720** Thomas Massie announced an honor for USS Liberty survivors
 
 Claim Timestamp: 00:16:22
 
@@ -917,7 +917,7 @@ Investigative Direction: Locate Massie's announcement (resolution, bill or event
 
 ---
 
-**C-4337** People's Will plotted the assassination of Tsar Alexander II
+**C-9721** People's Will plotted the assassination of Tsar Alexander II
 
 Claim Timestamp: 00:19:26
 
@@ -932,7 +932,7 @@ Investigative Direction: Consult historical scholarship on the membership of Nar
 
 ---
 
-**C-4338** Hertz article: 95 Jewish women made up almost a third of the People's Will's 348 women
+**C-9722** Hertz article: 95 Jewish women made up almost a third of the People's Will's 348 women
 
 Claim Timestamp: 00:21:39
 
@@ -947,7 +947,7 @@ Investigative Direction: Locate the Hertz article and check the figures against 
 
 ---
 
-**C-4339** Romanov execution was led by Yakov Yurovsky
+**C-9723** Romanov execution was led by Yakov Yurovsky
 
 Claim Timestamp: 00:22:27
 
@@ -962,7 +962,7 @@ Investigative Direction: Consult historical records of the 1918 Yekaterinburg ex
 
 ---
 
-**C-4340** More than 60 million Russian Christians were murdered under communism
+**C-9724** More than 60 million Russian Christians were murdered under communism
 
 Claim Timestamp: 00:23:20
 
@@ -976,7 +976,7 @@ Investigative Direction: Compare the figure with demographic and historical esti
 
 ---
 
-**C-4341** Julius Hammer financed Ludwig Martens' unofficial Soviet Bureau
+**C-9725** Julius Hammer financed Ludwig Martens' unofficial Soviet Bureau
 
 Claim Timestamp: 00:25:49
 
@@ -990,7 +990,7 @@ Investigative Direction: Retrieve the New York Times article and the historical 
 
 ---
 
-**C-4342** Soviet Bureau was financed by diamonds smuggled into New York
+**C-9726** Soviet Bureau was financed by diamonds smuggled into New York
 
 Claim Timestamp: 00:25:49
 
@@ -1004,7 +1004,7 @@ Investigative Direction: Check the article's source (a fellow party member's aut
 
 ---
 
-**C-4343** Church of the Savior on Spilled Blood stands where Alexander II was bombed
+**C-9727** Church of the Savior on Spilled Blood stands where Alexander II was bombed
 
 Claim Timestamp: 00:27:36
 
@@ -1019,7 +1019,7 @@ Investigative Direction: Consult the church's construction history.
 
 ---
 
-**C-4344** Megyn Kelly said Mark Levin would hurt her if he could
+**C-9728** Megyn Kelly said Mark Levin would hurt her if he could
 
 Claim Timestamp: 00:28:41
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Locate the Megyn Kelly episode in which she made the st
 
 ---
 
-**C-4345** Russia carries a level four US travel advisory
+**C-9729** Russia carries a level four US travel advisory
 
 Claim Timestamp: 00:31:00
 
@@ -1047,7 +1047,7 @@ Investigative Direction: Check the State Department travel advisory level for Ru
 
 ---
 
-**C-4346** Host is banned from Australia
+**C-9730** Host is banned from Australia
 
 Claim Timestamp: 00:32:04
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Review the Australian visa refusal decision and any cou
 
 ---
 
-**C-4347** Erika Kirk was heckled as protecting pedophiles during her summit speech
+**C-9731** Erika Kirk was heckled as protecting pedophiles during her summit speech
 
 Claim Timestamp: 00:38:18
 
@@ -1076,7 +1076,7 @@ Investigative Direction: Obtain full event footage and any venue security report
 
 ---
 
-**C-4348** Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit
+**C-9732** Erika Kirk partnered with Greg Laurie's Harvest church, which faces a Romania trafficking lawsuit
 
 Claim Timestamp: 00:40:20
 
@@ -1087,12 +1087,12 @@ Transcript Snippet: you would partner with a church that is quite literally bein
 Anchored Artifacts:
 Mentions: N-2, N-450, N-451
 Related Nodes: N-10411, N-10401
-Supports: C-2087
+Supports: C-5042
 Investigative Direction: Pull the docket of the Harvest Christian Fellowship Romania lawsuits and the Erika Kirk–Harvest tour schedule.
 
 ---
 
-**C-4349** Emailer says Victor Marx named Greg Laurie as his mentor
+**C-9733** Emailer says Victor Marx named Greg Laurie as his mentor
 
 Claim Timestamp: 00:40:20
 
@@ -1106,7 +1106,7 @@ Investigative Direction: Search Victor Marx's interviews and books for statement
 
 ---
 
-**C-4350** Dana Loesch said the host is working with Putin and Dugin
+**C-9734** Dana Loesch said the host is working with Putin and Dugin
 
 Claim Timestamp: 00:41:37
 
@@ -1120,7 +1120,7 @@ Investigative Direction: Locate Loesch's broadcast or post making the statement.
 
 ---
 
-**C-4351** Dana Loesch recited Bible verses on widows in her summit speech
+**C-9735** Dana Loesch recited Bible verses on widows in her summit speech
 
 Claim Timestamp: 00:42:28
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Obtain the full speech recording from the summit.
 
 ---
 
-**C-4352** Insiders say TPUSA struggled to draw young women to the summit
+**C-9736** Insiders say TPUSA struggled to draw young women to the summit
 
 Claim Timestamp: 00:45:21
 
@@ -1150,7 +1150,7 @@ Investigative Direction: Obtain registration and attendance figures by age for t
 
 ---
 
-**C-4353** Alex Clark announced her engagement on stage at the summit
+**C-9737** Alex Clark announced her engagement on stage at the summit
 
 Claim Timestamp: 00:47:30
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Full summit footage.
 
 ---
 
-**C-4354** Female chapter leaders declined to attend; the summit dropped "Young" from its name
+**C-9738** Female chapter leaders declined to attend; the summit dropped "Young" from its name
 
 Claim Timestamp: 00:47:49
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Compare chapter-leader attendance lists with prior year
 
 ---
 
-**C-4355** Alex Clark post asked the host "how did Putin taste?"
+**C-9739** Alex Clark post asked the host "how did Putin taste?"
 
 Claim Timestamp: 00:48:33
 
@@ -1194,7 +1194,7 @@ Investigative Direction: Archive the original post.
 
 ---
 
-**C-4356** Host alleges TPUSA made secret calls telling partners not to advertise with her
+**C-9740** Host alleges TPUSA made secret calls telling partners not to advertise with her
 
 Claim Timestamp: 00:48:33
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Interview sponsors and advertisers who dropped or decli
 
 ---
 
-**C-4357** Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel
+**C-9741** Charlie Kirk attended Catholic mass, sometimes daily, and was changing his mind on Israel
 
 Claim Timestamp: 00:50:16
 
@@ -1224,7 +1224,7 @@ Investigative Direction: Interview parish clergy and Charlie Kirk's associates a
 
 ---
 
-**C-4358** Alex Clark made calls to get Paleo Valley to drop the host's show
+**C-9742** Alex Clark made calls to get Paleo Valley to drop the host's show
 
 Claim Timestamp: 00:50:16
 
@@ -1239,7 +1239,7 @@ Investigative Direction: Ask Paleo Valley about any contact from Alex Clark or T
 
 ---
 
-**C-4359** Alex Clark claimed credit for prompting Trump's rant against the host
+**C-9743** Alex Clark claimed credit for prompting Trump's rant against the host
 
 Claim Timestamp: 00:51:07
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Check White House visitor logs for Alex Clark and the t
 
 ---
 
-**C-4360** Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie
+**C-9744** Alex Clark attacked Aubrey's husband and shared private correspondence with Charlie
 
 Claim Timestamp: 00:51:07
 
@@ -1267,7 +1267,7 @@ Investigative Direction: Archive Alex Clark's posts and the correspondence she s
 
 ---
 
-**C-4361** Alex Clark is engaged to Vance Voetberg, seven years her junior
+**C-9745** Alex Clark is engaged to Vance Voetberg, seven years her junior
 
 Claim Timestamp: 00:52:41
 
@@ -1281,7 +1281,7 @@ Investigative Direction: Public records and the couple's own announcements.
 
 ---
 
-**C-4362** Vance Voetberg works for Alliance Defending Freedom and runs Running on Butter
+**C-9746** Vance Voetberg works for Alliance Defending Freedom and runs Running on Butter
 
 Claim Timestamp: 00:53:38
 
@@ -1296,7 +1296,7 @@ Investigative Direction: Check ADF staff listings and the Running on Butter site
 
 ---
 
-**C-4363** Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview
+**C-9747** Erika Kirk first raised the appointment video in a November 2025 Megyn Kelly interview
 
 Claim Timestamp: 00:55:43
 
@@ -1307,12 +1307,12 @@ Transcript Snippet: Erika introduced this video to the public conscience herself
 Anchored Artifacts:
 Mentions: N-2, N-46, N-1
 Related Nodes: N-10194, N-10664
-Supports: C-2657
+Supports: C-7880
 Investigative Direction: Retrieve the Megyn Kelly interview and the Aspen event date.
 
 ---
 
-**C-4364** Charlie Kirk said women should prioritize family over career
+**C-9748** Charlie Kirk said women should prioritize family over career
 
 Claim Timestamp: 00:56:40
 
@@ -1326,7 +1326,7 @@ Investigative Direction: Source each clip in the supercut to its original event 
 
 ---
 
-**C-4365** TPUSA first said it withheld the video because people would call it AI
+**C-9749** TPUSA first said it withheld the video because people would call it AI
 
 Claim Timestamp: 01:00:14
 
@@ -1341,7 +1341,7 @@ Investigative Direction: Locate the original TPUSA statement and its author.
 
 ---
 
-**C-4366** Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest
+**C-9750** Bloody microphone displayed in glass case at Mar-a-Lago fundraiser and AmFest
 
 Claim Timestamp: 01:00:58
 
@@ -1356,7 +1356,7 @@ Investigative Direction: Event photos from the Mar-a-Lago fundraiser and AmFest,
 
 ---
 
-**C-4367** Erika Kirk used a personal letter from Charlie in a fundraising email
+**C-9751** Erika Kirk used a personal letter from Charlie in a fundraising email
 
 Claim Timestamp: 01:00:58
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Obtain the fundraising email.
 
 ---
 
-**C-4368** TPUSA showed the video only to Daily Mail reporters, citing donor protection
+**C-9752** TPUSA showed the video only to Daily Mail reporters, citing donor protection
 
 Claim Timestamp: 01:01:43
 
@@ -1386,7 +1386,7 @@ Investigative Direction: Retrieve the Daily Mail article and the reporters' desc
 
 ---
 
-**C-4369** Donors present recall Charlie saying the board would figure it out
+**C-9753** Donors present recall Charlie saying the board would figure it out
 
 Claim Timestamp: 01:02:31
 
@@ -1397,12 +1397,12 @@ Transcript Snippet: But they remember Charlie answering and saying that the boar
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10584, N-10437
-Supports: C-2694, C-2888
+Supports: C-8029, C-9050
 Investigative Direction: On-record interviews with the Aspen attendees and the full event recording.
 
 ---
 
-**C-4370** Attendees who are Erika fans also do not remember the appointment
+**C-9754** Attendees who are Erika fans also do not remember the appointment
 
 Claim Timestamp: 01:02:31
 
@@ -1417,7 +1417,7 @@ Investigative Direction: Forensic comparison of the released clip with the full 
 
 ---
 
-**C-4371** Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith
+**C-9755** Charlie's Aspen presentation mentioned Erika only once, for Turning Point Faith
 
 Claim Timestamp: 01:03:31
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Full Aspen presentation recording and attendance record
 
 ---
 
-**C-4372** Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation
+**C-9756** Tyler Bowyer was repeatedly called out in Charlie's Aspen presentation
 
 Claim Timestamp: 01:04:20
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Full Aspen presentation recording.
 
 ---
 
-**C-4373** Summit clip contains Charlie saying "I appoint my wife to run Turning Point USA"
+**C-9757** Summit clip contains Charlie saying "I appoint my wife to run Turning Point USA"
 
 Claim Timestamp: 01:05:07
 
@@ -1457,12 +1457,12 @@ Transcript Snippet: I appoint my wife to run Turning Point USA if something happ
 Anchored Artifacts: A-2625.2
 Mentions: N-1, N-2
 Related Nodes: N-10664, N-10008
-Supports: C-2889
+Supports: C-9053
 Investigative Direction: Obtain the original unedited footage.
 
 ---
 
-**C-4374** Host asserts the appointment clip is doctored
+**C-9758** Host asserts the appointment clip is doctored
 
 Claim Timestamp: 01:05:07
 
@@ -1477,7 +1477,7 @@ Investigative Direction: Forensic video analysis of the clip and the full Aspen 
 
 ---
 
-**C-4375** Host emailed TPUSA asking whether the video was doctored or out of context
+**C-9759** Host emailed TPUSA asking whether the video was doctored or out of context
 
 Claim Timestamp: 01:05:58
 
@@ -1492,7 +1492,7 @@ Investigative Direction: The email thread and any official TPUSA reply.
 
 ---
 
-**C-4376** Host Messaged Kolvet, Streiff and TPUSA's Lawyer; the Reply Came From the TPUSA X Account
+**C-9760** Host Messaged Kolvet, Streiff and TPUSA's Lawyer; the Reply Came From the TPUSA X Account
 
 Claim Timestamp: 01:06:42
 
@@ -1507,7 +1507,7 @@ Investigative Direction: Message logs and any reply from Kolvet or Streif.
 
 ---
 
-**C-4377** Kolvet once said an intern runs the TPUSA X account
+**C-9761** Kolvet once said an intern runs the TPUSA X account
 
 Claim Timestamp: 01:06:42
 
@@ -1522,7 +1522,7 @@ Investigative Direction: Locate the Massie–TPUSA exchange and Kolvet's stateme
 
 ---
 
-**C-4378** TPUSA X account says the video is real and Charlie was not kidding
+**C-9762** TPUSA X account says the video is real and Charlie was not kidding
 
 Claim Timestamp: 01:07:26
 
@@ -1533,12 +1533,12 @@ Transcript Snippet: Hey, Candace. The video was real as you apparently have know
 Anchored Artifacts: A-2626.2
 Mentions: N-3, N-1
 Related Nodes: N-10000, N-10664
-Contradicts: C-4374
+Contradicts: C-9758
 Investigative Direction: Archive the post and ask TPUSA whether it is an official spokesperson statement.
 
 ---
 
-**C-4379** Host is seeking clearance to publish the full Aspen video
+**C-9763** Host is seeking clearance to publish the full Aspen video
 
 Claim Timestamp: 01:08:06
 
@@ -1553,7 +1553,7 @@ Investigative Direction: Follow whether the full video is released.
 
 ---
 
-**C-4380** TPUSA partnered with AI companies that make after-death videos
+**C-9764** TPUSA partnered with AI companies that make after-death videos
 
 Claim Timestamp: 01:08:58
 
@@ -1568,7 +1568,7 @@ Investigative Direction: Identify TPUSA's AI vendor contracts and announcements 
 
 ---
 
-**C-4381** Becoming Brigitte series is widely watched in Russia
+**C-9765** Becoming Brigitte series is widely watched in Russia
 
 Claim Timestamp: 01:13:42
 
@@ -1582,7 +1582,7 @@ Investigative Direction: Viewer analytics by country for the series.
 
 ---
 
-**C-4382** Host has contacted the Aspen donors and plans to name them
+**C-9766** Host has contacted the Aspen donors and plans to name them
 
 Claim Timestamp: 01:17:14
 
@@ -1597,7 +1597,7 @@ Investigative Direction: Donor responses, if any are published.
 
 ---
 
-**C-4383** White House asked the host to narrow her FOIA request on Erika Kirk
+**C-9767** White House asked the host to narrow her FOIA request on Erika Kirk
 
 Claim Timestamp: 01:19:14
 
@@ -1612,7 +1612,7 @@ Investigative Direction: The FOIA request numbers and agency correspondence.
 
 ---
 
-**C-4384** Erika Kirk is treated as an "emotional asset" and the Department of War was involved in the emails
+**C-9768** Erika Kirk is treated as an "emotional asset" and the Department of War was involved in the emails
 
 Claim Timestamp: 01:20:03
 
@@ -1859,12 +1859,12 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Duration mismatch**: the skeleton's Video Timestamp Range said 00:56:29, but the transcript front matter gives 1:22:06. The range is set to 01:22:06 per the spec. The skeleton's M-56 occurrence timestamp (00:07:43) and its truncated quote are kept verbatim, although the "Clown World" line sits in the [06:42] paragraph.
-- **DIA scan**: no real DIA beat. The only hits are "candaceowens. com" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that "someone emailed me" about Victor Marx and Greg Laurie (00:40:20, C-4349) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-4382). No M-12 or M-14 occurrences are added.
+- **DIA scan**: no real DIA beat. The only hits are "candaceowens. com" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that "someone emailed me" about Victor Marx and Greg Laurie (00:40:20, C-9733) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-9766). No M-12 or M-14 occurrences are added.
 - **Artifacts verbally referenced but not clearly shown**: A-2619.1 (the "Congress discreetly moves to merge US military" headline; the host says "you guys saw the headlines") and A-2627.1 (the White House FOIA response, a verbal reference only). The Daily Mail article on the video, the Megyn Kelly interview, Erika Kirk's fundraising email with Charlie's letter, and Trump's posts about the host are mentioned but not shown, so they are not inscribed as artifacts.
 - **Name matching**: "Dana Loesch" (41:37) is minted as N-658 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Havsgaard" is mapped to N-451 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-551 Aubrey Laitsch with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolvet at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolvet"/"Andrew Kolvet" are mapped to N-14. "Justin Streiff" is mapped to N-15. "Megyn Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-648 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-649 Marco Rubio from the host's reading of Loomer's tags.
 - **Topic reuse**: N-10923 reuses the exact title "White House Military Office Erika Kirk Amplification Email" from staging episode 105. M-95 reuses the title "Emotional Response Asset" from staging episode 105, although here the host says only "emotional asset."
 - **Transcription ambiguities**: "Dangerously Asens" and "Zarist Russia" in the Hertz article title are kept as transcribed. "Candace Tovia Moscowins" is a joke name. "WLS" in the email is the Women's Leadership Summit. "Conrad" in the TPUSA reply is likely "comrade." "Maxwell class" (01:11:42) probably means "Maxwell clan."
-- **Possible cross-episode links considered**: C-4373 Supports C-2889 (ep 102) and could also link C-2685 (ep 90, same audio line). C-4369 Supports C-2694 and C-2888. C-4363 Supports C-2657. C-4348 Supports C-2087. The host's mention of the clip as Erika's "walk out music" could link C-2656 (ep 88), but the summit setting differs from AmFest, so it is left out. C-4365 might relate to C-2661 (ep 88, Blake Neff refused to release the video) but is not the same proposition.
+- **Possible cross-episode links considered**: C-9757 Supports C-9053 (ep 102) and could also link C-8028 (ep 90, same audio line). C-9753 Supports C-8029 and C-9050. C-9747 Supports C-7880. C-9732 Supports C-5042. The host's mention of the clip as Erika's "walk out music" could link C-7883 (ep 88), but the summit setting differs from AmFest, so it is left out. C-9749 might relate to C-7889 (ep 88, Blake Neff refused to release the video) but is not the same proposition.
 - **Not inscribed as claims (admission test)**:
   - "Zionism rots your brain"
   - "Everything … we have been told about Russia is a lie"
@@ -1874,6 +1874,6 @@ Confidence: high
   - Claims that TPUSA is "filled with closeted gay men" and that "everyone at Turning Point is hooking up with one another" (unattributed and not specific)
   - Charlie Kirk "just wasn't smart enough to put it in his will" (sarcasm)
   - The rhetorical questions about why TPUSA will not release the video
-- **Minor factual beats not inscribed**: the host met Viktor Orbán in Hungary; she once interviewed a Japanese journalist; she pitched a Putin interview while at The Daily Wire (folded into C-4323); an American Catholic family from Iowa with eight kids hosted them; Armie Hammer's family history; Robert Maxwell's publishing of Russian books (01:11:42); the last episode was the Ana Kasparian interview; and a viewer reports that the Museum of Russian Icons is in Clinton, Massachusetts.
+- **Minor factual beats not inscribed**: the host met Viktor Orbán in Hungary; she once interviewed a Japanese journalist; she pitched a Putin interview while at The Daily Wire (folded into C-9707); an American Catholic family from Iowa with eight kids hosted them; Armie Hammer's family history; Robert Maxwell's publishing of Russian books (01:11:42); the last episode was the Ana Kasparian interview; and a viewer reports that the Museum of Russian Icons is in Clinton, Massachusetts.
 - **Meme candidates not inscribed**: the chapter title "Alex Clark gets big mad" (M-48) appears only as a chapter heading, not in speech. "Turning Point 2.0" is folded into M-106.
 - **Sponsor reads** (Battalion Metals, Ethos, Just Thrive, Paleo Valley) and merch promotion are excluded, except as the meme occurrences noted.

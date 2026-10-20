@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10e): N-895, N-896, N-11301, N-11302, N-11303
   - Hole-minted Nodes (reintro-ep135): N-10790
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11635–C-11701
+  - Claim Range: C-11593–C-11677
   - New Nodes Introduced: N-10766, N-10767
   - Reused Nodes Appearing: N-1, N-2, N-10768, N-10769, N-10770, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-682, N-10002, N-10013, N-10014, N-10021, N-10155, N-10183, N-10196, N-10217, N-10229, N-10239, N-10344, N-10362, N-10572, N-10573, N-10621, N-10640, N-10679, N-10687, N-10688, N-10699, N-10703, N-10737, N-10749, N-10751, N-10754, N-10759, N-10761, N-10897, N-10975, N-10987, N-11039, N-11055, N-11135, N-10765, N-11304, N-11305
   - (see registers)
@@ -42,7 +42,7 @@ Video Timestamp: 00:06:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3175, C-3176*
+*Related: C-11608, C-11610*
 
 **A-2218** Academic Audio Clip Bundle
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3184*
+*Related: C-11617*
 
 **A-2219** Brian Harpole Preliminary Hearing Audio Bundle
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:19:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3177, N-1*
+*Related: C-11631, N-1*
 
 **A-2220** Medical Professional Email Bundle
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:30:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3178, C-3179, C-3180, N-1, N-10767, N-10768*
+*Related: C-11647, C-11651, C-11653, N-1, N-10767, N-10768*
 
 **A-2220.2** Email read aloud from self-identified transplant coordinator / former scrub nurse at level one trauma center regarding autopsy timeline, thoracic trauma patterns, and body temperature in morgue
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:34:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3181, N-1, N-10767*
+*Related: C-11657, N-1, N-10767*
 
 **A-2221** YouTube Medical Comment Bundle
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3182, C-3183, N-1, N-10768*
+*Related: C-11663, C-11664, N-1, N-10768*
 
 **A-2222** Losee Center Witness Recording Bundle
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:40:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3185, C-3187, N-1, N-10769*
+*Related: C-11667, C-11668, N-1, N-10769*
 
 **A-3145** Robinson Discord Messages Bundle
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:03:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11644*
+*Related: C-11602*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:05:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11649, C-11650*
+*Related: C-11607, C-11609*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:07:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11651, C-11652, C-11653, C-11654, C-11655, C-11656*
+*Related: C-11611, C-11612, C-11613, C-11614, C-11615, C-11616*
 
 ---
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:12:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11660, C-11661*
+*Related: C-11621, C-11622*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:24:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11672, N-3*
+*Related: C-11637, N-3*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:25:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11673, N-3*
+*Related: C-11639, N-3*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:26:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11676, C-11677, C-11678*
+*Related: C-11643, C-11644, C-11645*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:44:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11695*
+*Related: C-11671*
 
 ---
 
@@ -237,7 +237,7 @@ Claim Count: 11
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2219.1, A-2220.1, A-2220.2, A-2221.1, A-2222.1, C-3177–C-3187*
+*Related: A-2219.1, A-2220.1, A-2220.2, A-2221.1, A-2222.1, C-11631–C-11668*
 
 **N-10765** Timpanogos Hospital Evacuation Tip
 
@@ -248,7 +248,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3188, C-3189, N-1, N-10770*
+*Related: C-11632, C-11633, N-1, N-10770*
 
 **N-10766** Security Clothing Disposal Question
 
@@ -259,7 +259,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3191*
+*Related: C-11627*
 
 **N-10767** Autopsy Timeline Anomaly
 
@@ -270,7 +270,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2220.2, C-3181, N-2*
+*Related: A-2220.2, C-11657, N-2*
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
@@ -281,7 +281,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2220.1, A-2221.1, C-3178–C-3183, C-3186, N-1*
+*Related: A-2220.1, A-2221.1, C-11647–C-11664, C-11665, N-1*
 
 **N-10769** Losee Center Gun Verification Gap
 
@@ -292,7 +292,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2222.1, C-3185, C-3187, N-1*
+*Related: A-2222.1, C-11667, C-11668, N-1*
 
 **N-10770** Utah Valley Hospital File Anomaly
 
@@ -303,13 +303,13 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3190, N-1, N-10765*
+*Related: C-11638, N-1, N-10765*
 
 **N-2** Erika Kirk
 
 Erika Kirk; subject of the transparency, memorial forgiveness and morgue-timing claims.
 
-*Related: C-11635, C-11663, C-11664, C-11665, C-11668, C-11688, C-11695, C-11696, C-11697*
+*Related: C-11593, C-11624, C-11625, C-11626, C-11630, C-11659, C-11671, C-11672, C-11673*
 
 ---
 
@@ -317,7 +317,7 @@ Erika Kirk; subject of the transparency, memorial forgiveness and morgue-timing 
 
 Host; speaks for herself.
 
-*Related: C-11635, C-11672, C-11673, C-11698, C-11699, C-11700, C-11701*
+*Related: C-11593, C-11637, C-11639, C-11674, C-11675, C-11676, C-11677*
 
 ---
 
@@ -325,7 +325,7 @@ Host; speaks for herself.
 
 Donald Trump; the host says he tweeted her face as most vile person of the year.
 
-*Related: C-11645, C-11646, C-11657, C-11699*
+*Related: C-11603, C-11604, C-11618, C-11675*
 
 ---
 
@@ -333,7 +333,7 @@ Donald Trump; the host says he tweeted her face as most vile person of the year.
 
 Frank Turek; the host contrasts his scrubs and CPR account with Harpole's.
 
-*Related: C-11662, C-11663, C-11664, C-11665*
+*Related: C-11623, C-11624, C-11625, C-11626*
 
 ---
 
@@ -341,7 +341,7 @@ Frank Turek; the host contrasts his scrubs and CPR account with Harpole's.
 
 Tyler Robinson; subject of the Discord, rifle and memorial-forgiveness claims.
 
-*Related: C-11643, C-11644, C-11645, C-11646, C-11647, C-11693, C-11694, C-11696, C-11697*
+*Related: C-11601, C-11602, C-11603, C-11604, C-11605, C-11669, C-11670, C-11672, C-11673*
 
 ---
 
@@ -349,7 +349,7 @@ Tyler Robinson; subject of the Discord, rifle and memorial-forgiveness claims.
 
 Lance Twiggs; the host cites his interview and preliminary hearing testimony.
 
-*Related: C-11645, C-11646, C-11657*
+*Related: C-11603, C-11604, C-11618*
 
 ---
 
@@ -357,7 +357,7 @@ Lance Twiggs; the host cites his interview and preliminary hearing testimony.
 
 Kash Patel; the host says his office seized hospital cameras.
 
-*Related: C-11670, C-11680*
+*Related: C-11635, C-11648*
 
 ---
 
@@ -365,7 +365,7 @@ Kash Patel; the host says his office seized hospital cameras.
 
 Dr. Deirdre Amaro; chief medical examiner who left Utah, per the host.
 
-*Related: C-11637, C-11642, C-11659*
+*Related: C-11595, C-11600, C-11620*
 
 ---
 
@@ -373,7 +373,7 @@ Dr. Deirdre Amaro; chief medical examiner who left Utah, per the host.
 
 Mikey McCoy; the host says he got the security team scrubs.
 
-*Related: C-11639*
+*Related: C-11597*
 
 ---
 
@@ -381,7 +381,7 @@ Mikey McCoy; the host says he got the security team scrubs.
 
 Brian Harpole; his ER account is contrasted with Turek's.
 
-*Related: C-11663, C-11664, C-11665, C-11668*
+*Related: C-11624, C-11625, C-11626, C-11630*
 
 ---
 
@@ -389,7 +389,7 @@ Brian Harpole; his ER account is contrasted with Turek's.
 
 Rick Cutler (transcribed Rob Cutler); security team member in the vehicle account.
 
-*Related: C-11663*
+*Related: C-11624*
 
 ---
 
@@ -397,7 +397,7 @@ Rick Cutler (transcribed Rob Cutler); security team member in the vehicle accoun
 
 Jon Bray (transcribed Jon Bray); cited in the anesthesiologist's email as supporting the exploding mic theory.
 
-*Related: C-11680*
+*Related: C-11648*
 
 ---
 
@@ -405,7 +405,7 @@ Jon Bray (transcribed Jon Bray); cited in the anesthesiologist's email as suppor
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11696*
+*Related: C-11672*
 
 ---
 
@@ -413,7 +413,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing organization node reused for new claims in this episode.
 
-*Related: C-11644, C-11646, C-11658*
+*Related: C-11602, C-11604, C-11619*
 
 ---
 
@@ -421,7 +421,7 @@ Existing organization node reused for new claims in this episode.
 
 Existing organization node reused for new claims in this episode.
 
-*Related: C-11666, C-11667*
+*Related: C-11628, C-11629*
 
 ---
 
@@ -429,7 +429,7 @@ Existing organization node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11644*
+*Related: C-11602*
 
 ---
 
@@ -437,7 +437,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11679*
+*Related: C-11646*
 
 ---
 
@@ -445,7 +445,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11637, C-11638, C-11641, C-11642*
+*Related: C-11595, C-11596, C-11599, C-11600*
 
 ---
 
@@ -453,7 +453,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11675, C-11676*
+*Related: C-11641, C-11643*
 
 ---
 
@@ -461,7 +461,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11635*
+*Related: C-11593*
 
 ---
 
@@ -469,7 +469,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11679*
+*Related: C-11646*
 
 ---
 
@@ -477,7 +477,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11670*
+*Related: C-11635*
 
 ---
 
@@ -485,7 +485,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11700*
+*Related: C-11676*
 
 ---
 
@@ -493,7 +493,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11666*
+*Related: C-11628*
 
 ---
 
@@ -501,7 +501,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11683*
+*Related: C-11652*
 
 ---
 
@@ -509,7 +509,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11668*
+*Related: C-11630*
 
 ---
 
@@ -517,7 +517,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11647, C-11693, C-11694*
+*Related: C-11605, C-11669, C-11670*
 
 ---
 
@@ -525,7 +525,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11699*
+*Related: C-11675*
 
 ---
 
@@ -533,7 +533,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11657*
+*Related: C-11618*
 
 ---
 
@@ -541,7 +541,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11664*
+*Related: C-11625*
 
 ---
 
@@ -549,7 +549,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11639, C-11662*
+*Related: C-11597, C-11623*
 
 ---
 
@@ -557,7 +557,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11663, C-11664, C-11665*
+*Related: C-11624, C-11625, C-11626*
 
 ---
 
@@ -565,7 +565,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11646*
+*Related: C-11604*
 
 ---
 
@@ -573,7 +573,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11664*
+*Related: C-11625*
 
 ---
 
@@ -581,7 +581,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11637, C-11659*
+*Related: C-11595, C-11620*
 
 ---
 
@@ -589,7 +589,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11695*
+*Related: C-11671*
 
 ---
 
@@ -597,7 +597,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11686, C-11692*
+*Related: C-11656, C-11666*
 
 ---
 
@@ -605,7 +605,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11695*
+*Related: C-11671*
 
 ---
 
@@ -613,7 +613,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11682, C-11687*
+*Related: C-11650, C-11658*
 
 ---
 
@@ -621,7 +621,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11657*
+*Related: C-11618*
 
 ---
 
@@ -629,7 +629,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing organization node reused for new claims in this episode.
 
-*Related: C-11691*
+*Related: C-11662*
 
 ---
 
@@ -637,7 +637,7 @@ Existing organization node reused for new claims in this episode.
 
 Existing organization node reused for new claims in this episode.
 
-*Related: C-11683*
+*Related: C-11652*
 
 ---
 
@@ -645,7 +645,7 @@ Existing organization node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11691*
+*Related: C-11662*
 
 ---
 
@@ -653,7 +653,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11640, C-11671*
+*Related: C-11598, C-11636*
 
 ---
 
@@ -661,7 +661,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11647*
+*Related: C-11605*
 
 ---
 
@@ -669,7 +669,7 @@ Existing topic node reused for new claims in this episode.
 
 Existing topic node reused for new claims in this episode.
 
-*Related: C-11683*
+*Related: C-11652*
 
 ---
 
@@ -679,7 +679,7 @@ First named by the host at 00:00:50 in episode 135 as Dr. Andrew Guajardo, the d
 
 Aliases: Andrew Guajardo; Andrew Guajardo; Dr. Andrew Guajardo
 
-*Related: C-11638, C-11641, C-11642, C-11648, C-11649, C-11660*
+*Related: C-11596, C-11599, C-11600, C-11606, C-11607, C-11621*
 
 ---
 
@@ -689,7 +689,7 @@ First named by the host at 00:05:07 in episode 135 as Dr. Ashley Brown Guajardo,
 
 Aliases: Dr. Ashley Brown Guajardo; Dr. Ashley; Dr. Guajardo
 
-*Related: C-11648, C-11649, C-11650, C-11651, C-11652, C-11653, C-11654, C-11655, C-11656, C-11658, C-11660, C-11661*
+*Related: C-11606, C-11607, C-11609, C-11611, C-11612, C-11613, C-11614, C-11615, C-11616, C-11619, C-11621, C-11622*
 
 ---
 
@@ -698,7 +698,7 @@ Aliases: Dr. Ashley Brown Guajardo; Dr. Ashley; Dr. Guajardo
 Node Type: Organization
 Academic association which the host says Dr. Ashley Brown Guajardo currently serves as president of.
 
-*Related: C-11655*
+*Related: C-11615*
 
 ---
 
@@ -707,7 +707,7 @@ Academic association which the host says Dr. Ashley Brown Guajardo currently ser
 Node Type: Organization
 Organization abbreviated IGDA in the transcript, with a games user research special interest group co-directed, per the host, by Dr. Ashley Brown Guajardo.
 
-*Related: C-11654*
+*Related: C-11614*
 
 ---
 
@@ -716,7 +716,7 @@ Organization abbreviated IGDA in the transcript, with a games user research spec
 Node Type: Topic
 The host's inquiry into the medical examiner's wife, her gamer and furry culture research and online presence, and whether she overlaps with the Discord and gaming community around Tyler Robinson and Lance Twiggs.
 
-*Related: C-11648, C-11649, C-11650, C-11653, C-11656, C-11658*
+*Related: C-11606, C-11607, C-11609, C-11613, C-11616, C-11619*
 
 ---
 
@@ -725,7 +725,7 @@ The host's inquiry into the medical examiner's wife, her gamer and furry culture
 Node Type: Topic
 Erika Kirk's "I forgive him" statement about Tyler Robinson at the memorial, which the host reinterprets as a conviction of him.
 
-*Related: C-11696, C-11697*
+*Related: C-11672, C-11673*
 
 ---
 
@@ -734,13 +734,13 @@ Erika Kirk's "I forgive him" statement about Tyler Robinson at the memorial, whi
 Node Type: Topic
 Reported departures of Dr. Deirdre Amaro from Utah and of Dr. Andrew and Dr. Ashley Brown Guajardo to New York, with a new New York chief medical examiner role and an NYU teaching post.
 
-*Related: C-11659, C-11660, C-11661*
+*Related: C-11620, C-11621, C-11622*
 
 ---
 
 ## 5. Claim Register
 
-**C-3175** Book authorship attribution
+**C-11608** Book authorship attribution
 
 Claim Timestamp: 00:06:16
 
@@ -753,7 +753,7 @@ Related Nodes:
 
 Investigative Direction: Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV.
 
-**C-3176** Book description focus
+**C-11610** Book description focus
 
 Claim Timestamp: 00:06:56
 
@@ -765,7 +765,7 @@ Related Nodes:
 
 Investigative Direction: Verify description against Penguin Random House's official book page.
 
-**C-3177** Harpole Account of ER Actions in Played Clip
+**C-11631** Harpole Account of ER Actions in Played Clip
 
 Claim Timestamp: 00:19:46
 
@@ -778,7 +778,7 @@ Related Nodes:
 
 Investigative Direction: Obtain official preliminary hearing transcript from Utah court records and compare to the played audio.
 
-**C-3178** Anesthesiologist wound-pattern assessment
+**C-11647** Anesthesiologist wound-pattern assessment
 
 Claim Timestamp: 00:31:16
 
@@ -791,7 +791,7 @@ Related Nodes: N-10768
 
 Investigative Direction: Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds.
 
-**C-3179** Anesthesiologist bullet fragment hypothesis
+**C-11651** Anesthesiologist bullet fragment hypothesis
 
 Claim Timestamp: 00:32:48
 
@@ -804,7 +804,7 @@ Related Nodes: N-10768
 
 Investigative Direction: Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials).
 
-**C-3180** Anesthesiologist scene equipment assessment
+**C-11653** Anesthesiologist scene equipment assessment
 
 Claim Timestamp: 00:33:41
 
@@ -817,7 +817,7 @@ Related Nodes: N-10768
 
 Investigative Direction: Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.
 
-**C-3181** Nurse autopsy timeline analysis
+**C-11657** Nurse autopsy timeline analysis
 
 Claim Timestamp: 00:35:15
 
@@ -830,7 +830,7 @@ Related Nodes: N-10767
 
 Investigative Direction: Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols.
 
-**C-3182** Surgeon trajectory assessment
+**C-11663** Surgeon trajectory assessment
 
 Claim Timestamp: 00:37:04
 
@@ -843,7 +843,7 @@ Related Nodes: N-10768
 
 Investigative Direction: Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.
 
-**C-3183** Surgeon cervical spine finding
+**C-11664** Surgeon cervical spine finding
 
 Claim Timestamp: 00:37:04
 
@@ -856,7 +856,7 @@ Related Nodes: N-10768
 
 Investigative Direction: Obtain the official medical examiner's report to verify the cervical spine description.
 
-**C-3184** Erotic role play vs cybersex academic explanation
+**C-11617** Erotic role play vs cybersex academic explanation
 
 Claim Timestamp: 00:10:36
 
@@ -869,7 +869,7 @@ Related Nodes:
 
 Investigative Direction: Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo.
 
-**C-3185** Witness recording absence of gun mention
+**C-11667** Witness recording absence of gun mention
 
 Claim Timestamp: 00:40:24
 
@@ -882,7 +882,7 @@ Related Nodes: N-10769
 
 Investigative Direction: Obtain the full witness recording and transcript; identify and interview the witness for confirmation.
 
-**C-3186** Host concurrence with shaped charge theory
+**C-11665** Host concurrence with shaped charge theory
 
 Claim Timestamp: 00:37:04
 
@@ -895,7 +895,7 @@ Related Nodes: N-10768
 
 Investigative Direction: Note host stance for cross-referencing future evidentiary developments.
 
-**C-3187** Host concurrence: no gun observed on rooftop
+**C-11668** Host concurrence: no gun observed on rooftop
 
 Claim Timestamp: 00:41:24
 
@@ -908,7 +908,7 @@ Related Nodes: N-10769
 
 Investigative Direction: Cross-reference with other rooftop witness accounts; obtain Losee Center surveillance footage if available.
 
-**C-3188** Hospital evacuation tip (verbal source)
+**C-11632** Hospital evacuation tip (verbal source)
 
 Claim Timestamp: 00:23:00
 
@@ -923,7 +923,7 @@ Investigative Direction: Obtain independent verification – shuttle bus booking
 
 *Flag: Artifact verbally referenced but not shown*
 
-**C-3189** Patient transfer via shuttle tip (verbal source)
+**C-11633** Patient transfer via shuttle tip (verbal source)
 
 Claim Timestamp: 00:23:00
 
@@ -938,7 +938,7 @@ Investigative Direction: Obtain shuttle company records, Intermountain intake lo
 
 *Flag: Artifact verbally referenced but not shown*
 
-**C-3190** Previous Utah Valley Hospital file reference
+**C-11638** Previous Utah Valley Hospital file reference
 
 Claim Timestamp: 00:25:08
 
@@ -953,7 +953,7 @@ Investigative Direction: Re-display the original document or obtain the leaked f
 
 *Flag: Artifact verbally referenced but not shown in this episode*
 
-**C-3191** FBI took security team clothing tip (verbal source)
+**C-11627** FBI took security team clothing tip (verbal source)
 
 Claim Timestamp: 00:16:40
 
@@ -967,7 +967,7 @@ Investigative Direction: Obtain defense discovery materials or testimony from se
 
 *Flag: Artifact verbally referenced but not shown*
 
-**C-3192** Hospital EMR system incompatibility
+**C-11642** Hospital EMR system incompatibility
 
 Claim Timestamp: 00:26:02
 
@@ -982,7 +982,7 @@ Investigative Direction: Verify Epic-Intermountain system interface specificatio
 
 *Flag: Claim failed admission test – host assertion, no artifact anchor in this episode*
 
-**C-11635** Host Says the Public Was Told for 10 Months the Widow Just Wants Transparency
+**C-11593** Host Says the Public Was Told for 10 Months the Widow Just Wants Transparency
 
 Claim Timestamp: 00:00:01
 
@@ -998,7 +998,7 @@ Investigative Direction: Collect Erika Kirk's and TPUSA's public statements and 
 
 ---
 
-**C-11636** Host Says the Autopsy Was Done in a Couple of Hours in the Middle of the Night
+**C-11594** Host Says the Autopsy Was Done in a Couple of Hours in the Middle of the Night
 
 Claim Timestamp: 00:00:50
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Obtain the Utah Office of the Medical Examiner intake, 
 
 ---
 
-**C-11637** Host Says the Chief Medical Examiner Is Resigning
+**C-11595** Host Says the Chief Medical Examiner Is Resigning
 
 Claim Timestamp: 00:00:50
 
@@ -1030,7 +1030,7 @@ Investigative Direction: Confirm Dr. Deirdre Amaro's resignation date and stated
 
 ---
 
-**C-11638** Host Says Dr. Andrew Guajardo Signed Off on Charlie's Autopsy
+**C-11596** Host Says Dr. Andrew Guajardo Signed Off on Charlie's Autopsy
 
 Claim Timestamp: 00:00:50
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Check the signature block of the Kirk autopsy report (o
 
 ---
 
-**C-11639** Host Says Security Team Clothes Were Bloody and Mikey McCoy Got Them Scrubs
+**C-11597** Host Says Security Team Clothes Were Bloody and Mikey McCoy Got Them Scrubs
 
 Claim Timestamp: 00:00:50
 
@@ -1062,7 +1062,7 @@ Investigative Direction: Ask the hospital for scrub issue records and the securi
 
 ---
 
-**C-11640** Host Says the Hospital Source's Story Implies Foreknowledge if True
+**C-11598** Host Says the Hospital Source's Story Implies Foreknowledge if True
 
 Claim Timestamp: 00:01:37
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Seek independent paperwork (shuttle bookings, Intermoun
 
 ---
 
-**C-11641** Host Says Guajardo Is From New York and Joined the Utah Office in 2018
+**C-11599** Host Says Guajardo Is From New York and Joined the Utah Office in 2018
 
 Claim Timestamp: 00:02:12
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Verify Guajardo's employment history through Utah state
 
 ---
 
-**C-11642** Host Says Amaro Promoted Guajardo to Deputy Chief Examiner in 2024
+**C-11600** Host Says Amaro Promoted Guajardo to Deputy Chief Examiner in 2024
 
 Claim Timestamp: 00:02:12
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Check Utah Department of Health and Human Services anno
 
 ---
 
-**C-11643** Host Says There Is Still No Proof Robinson Was Trans or a Trans Furry
+**C-11601** Host Says There Is Still No Proof Robinson Was Trans or a Trans Furry
 
 Claim Timestamp: 00:02:12
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Look for any court filing, discovery item or witness st
 
 ---
 
-**C-11644** Host Reads Alleged Discord Confession Messages Attributed to Robinson
+**C-11602** Host Reads Alleged Discord Confession Messages Attributed to Robinson
 
 Claim Timestamp: 00:03:14
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Compare the read messages with the Discord records ente
 
 ---
 
-**C-11645** Host Says Lance Twiggs Said Robinson Was Into Gaming, Not Politics
+**C-11603** Host Says Lance Twiggs Said Robinson Was Into Gaming, Not Politics
 
 Claim Timestamp: 00:03:14
 
@@ -1158,7 +1158,7 @@ Investigative Direction: Obtain the Twiggs interview recording or transcript and
 
 ---
 
-**C-11646** Host Says After the Preliminary Hearing She Suspects Lance Could Have Set Up Tyler
+**C-11604** Host Says After the Preliminary Hearing She Suspects Lance Could Have Set Up Tyler
 
 Claim Timestamp: 00:04:07
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Review the preliminary hearing testimony on Discord acc
 
 ---
 
-**C-11647** Host Says the Rifle Had Dust in the Barrel so Likely Was Not Fired
+**C-11605** Host Says the Rifle Had Dust in the Barrel so Likely Was Not Fired
 
 Claim Timestamp: 00:04:07
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Obtain the firearms examiner report and the preliminary
 
 ---
 
-**C-11648** Host Says Guajardo Is Married to Dr. Ashley Brown Guajardo
+**C-11606** Host Says Guajardo Is Married to Dr. Ashley Brown Guajardo
 
 Claim Timestamp: 00:05:07
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Confirm the marriage through public records or the coup
 
 ---
 
-**C-11649** Host Asserts Guajardo's Wife Supports Furry Culture and Sometimes Dresses as a Furry
+**C-11607** Host Asserts Guajardo's Wife Supports Furry Culture and Sometimes Dresses as a Furry
 
 Claim Timestamp: 00:05:07
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Locate the original posts or video the host showed and 
 
 ---
 
-**C-11650** Host Says Ashley Promoted Her Book Dancing as a Furry With a Furry Hashtag
+**C-11609** Host Says Ashley Promoted Her Book Dancing as a Furry With a Furry Hashtag
 
 Claim Timestamp: 00:06:16
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Find the original social media post, its date and the a
 
 ---
 
-**C-11651** Host Says Ashley Earned Her Degree at ASU and a Sociology PhD at Manchester
+**C-11611** Host Says Ashley Earned Her Degree at ASU and a Sociology PhD at Manchester
 
 Claim Timestamp: 00:07:46
 
@@ -1254,7 +1254,7 @@ Investigative Direction: Check her published CV or university profile for degree
 
 ---
 
-**C-11652** Host Reads Bio Saying Ashley Was Faculty at Brunel and the University of Utah
+**C-11612** Host Reads Bio Saying Ashley Was Faculty at Brunel and the University of Utah
 
 Claim Timestamp: 00:07:46
 
@@ -1270,7 +1270,7 @@ Investigative Direction: Compare against her university faculty page and CV.
 
 ---
 
-**C-11653** Host Reads Bio Saying Ashley Has Hosted a Weekly Twitch Stream Since 2017
+**C-11613** Host Reads Bio Saying Ashley Has Hosted a Weekly Twitch Stream Since 2017
 
 Claim Timestamp: 00:07:46
 
@@ -1286,7 +1286,7 @@ Investigative Direction: Find the Twitch channel and verify the start date and t
 
 ---
 
-**C-11654** Host Says Ashley Held Roles at Global Game Jam and the IGDA Games User Research Group
+**C-11614** Host Says Ashley Held Roles at Global Game Jam and the IGDA Games User Research Group
 
 Claim Timestamp: 00:08:43
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Check the organizations' leadership pages and archived 
 
 ---
 
-**C-11655** Host Says Ashley Is President of the Digital Games Research Association
+**C-11615** Host Says Ashley Is President of the Digital Games Research Association
 
 Claim Timestamp: 00:08:43
 
@@ -1318,7 +1318,7 @@ Investigative Direction: Check the association's website and filings for its cur
 
 ---
 
-**C-11656** Host Says Ashley Wrote Sexuality and Role-Playing Games and Is Writing on Fantasy and Desire
+**C-11616** Host Says Ashley Wrote Sexuality and Role-Playing Games and Is Writing on Fantasy and Desire
 
 Claim Timestamp: 00:08:43
 
@@ -1334,7 +1334,7 @@ Investigative Direction: Check publisher and library catalogs for her authored t
 
 ---
 
-**C-11657** Host Says Lance Twiggs Testified That He Goes by Luna
+**C-11618** Host Says Lance Twiggs Testified That He Goes by Luna
 
 Claim Timestamp: 00:10:36
 
@@ -1350,7 +1350,7 @@ Investigative Direction: Check the preliminary hearing transcript for the exact 
 
 ---
 
-**C-11658** Host Says Ashley Invited Her Students to Her Discord and Twitch
+**C-11619** Host Says Ashley Invited Her Students to Her Discord and Twitch
 
 Claim Timestamp: 00:11:54
 
@@ -1366,7 +1366,7 @@ Investigative Direction: Find the Discord server and syllabi or posts where stud
 
 ---
 
-**C-11659** Host Says Dr. Amaro Has Left Utah
+**C-11620** Host Says Dr. Amaro Has Left Utah
 
 Claim Timestamp: 00:12:50
 
@@ -1382,7 +1382,7 @@ Investigative Direction: Confirm Amaro's departure date and new position through
 
 ---
 
-**C-11660** Host Says Guajardo Is to Become New York Chief Medical Examiner and Ashley Will Teach at NYU
+**C-11621** Host Says Guajardo Is to Become New York Chief Medical Examiner and Ashley Will Teach at NYU
 
 Claim Timestamp: 00:12:50
 
@@ -1398,7 +1398,7 @@ Investigative Direction: Check New York City announcements of the chief medical 
 
 ---
 
-**C-11661** Host Says Ashley Is Now a Full-Time Assistant Arts Professor at NYU
+**C-11622** Host Says Ashley Is Now a Full-Time Assistant Arts Professor at NYU
 
 Claim Timestamp: 00:12:50
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Check the NYU faculty directory and her LinkedIn histor
 
 ---
 
-**C-11662** Host Says Turek Described Receiving Scrubs From the Hospital
+**C-11623** Host Says Turek Described Receiving Scrubs From the Hospital
 
 Claim Timestamp: 00:14:57
 
@@ -1430,7 +1430,7 @@ Investigative Direction: Find Turek's original account of the scrubs and ask the
 
 ---
 
-**C-11663** Host Says Harpole Described Doing All the Work While Cutler Held Him and Turek Prayed
+**C-11624** Host Says Harpole Described Doing All the Work While Cutler Held Him and Turek Prayed
 
 Claim Timestamp: 00:14:57
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Obtain Harpole's preliminary hearing testimony and Ture
 
 ---
 
-**C-11664** Host Says Turek Says He Did CPR While Harpole Says He Did Not
+**C-11625** Host Says Turek Says He Did CPR While Harpole Says He Did Not
 
 Claim Timestamp: 00:14:57
 
@@ -1462,7 +1462,7 @@ Investigative Direction: Compare Turek's public statements with Harpole's testim
 
 ---
 
-**C-11665** Host Says Turek Claims Harpole Was Distracted and Missed the Mouth-to-Mouth CPR
+**C-11626** Host Says Turek Claims Harpole Was Distracted and Missed the Mouth-to-Mouth CPR
 
 Claim Timestamp: 00:15:48
 
@@ -1478,7 +1478,7 @@ Investigative Direction: Locate Turek's statement on the distraction explanation
 
 ---
 
-**C-11666** Host Says the FBI Had the Car Towed Away, Cleaned and Resold
+**C-11628** Host Says the FBI Had the Car Towed Away, Cleaned and Resold
 
 Claim Timestamp: 00:16:40
 
@@ -1494,7 +1494,7 @@ Investigative Direction: Obtain the tow, impound and sale records for the transp
 
 ---
 
-**C-11667** Host Infers the Clothing Was Likely Destroyed but Says She Does Not Know
+**C-11629** Host Infers the Clothing Was Likely Destroyed but Says She Does Not Know
 
 Claim Timestamp: 00:16:40
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Defense discovery would show whether the clothing appea
 
 ---
 
-**C-11668** Host Says No Hospital Eyewitnesses Have Come Forward to Harpole's ER Scene
+**C-11630** Host Says No Hospital Eyewitnesses Have Come Forward to Harpole's ER Scene
 
 Claim Timestamp: 00:18:23
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Identify the Timpanogos ER staff and patients present o
 
 ---
 
-**C-11669** Host Says All ER Patients and Files Were Moved to Intermountain
+**C-11634** Host Says All ER Patients and Files Were Moved to Intermountain
 
 Claim Timestamp: 00:23:00
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Seek Intermountain and Timpanogos transfer logs and ele
 
 ---
 
-**C-11670** Host Says Hospital Cameras Were Seized by Kash Patel's Office
+**C-11635** Host Says Hospital Cameras Were Seized by Kash Patel's Office
 
 Claim Timestamp: 00:23:00
 
@@ -1553,13 +1553,13 @@ Transcript Snippet: which have been conveniently seized by Kash Patel's office, 
 Anchored Artifacts: 
 Mentions: N-69
 Related Nodes: N-10239
-Supports: C-1666
+Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Ask Timpanogos Hospital and the FBI whether footage was taken, when and under what legal process.
 
 ---
 
-**C-11671** Host Says Proving the Shuttle Transfer With Paperwork Would Settle Foreknowledge
+**C-11636** Host Says Proving the Shuttle Transfer With Paperwork Would Settle Foreknowledge
 
 Claim Timestamp: 00:24:11
 
@@ -1575,7 +1575,7 @@ Investigative Direction: Obtain shuttle company bookings, Google satellite image
 
 ---
 
-**C-11672** Host Asks Anyone Who Drove or Booked the Shuttle to Email Tips
+**C-11637** Host Asks Anyone Who Drove or Booked the Shuttle to Email Tips
 
 Claim Timestamp: 00:24:11
 
@@ -1591,7 +1591,7 @@ Investigative Direction: Track whether any emailed tip about the shuttle is cite
 
 ---
 
-**C-11673** Host Repeats Request for Tips at CandaceOwens.com
+**C-11639** Host Repeats Request for Tips at CandaceOwens.com
 
 Claim Timestamp: 00:25:08
 
@@ -1607,7 +1607,7 @@ Investigative Direction: Track tip follow-up in later episodes.
 
 ---
 
-**C-11674** Host Says She Trusts the Source's Information Is Accurate
+**C-11640** Host Says She Trusts the Source's Information Is Accurate
 
 Claim Timestamp: 00:25:08
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Source credibility can only be tested by corroborating 
 
 ---
 
-**C-11675** Host Says the October 28 Leaked File Came With Instructions Not to Touch It
+**C-11641** Host Says the October 28 Leaked File Came With Instructions Not to Touch It
 
 Claim Timestamp: 00:25:08
 
@@ -1634,13 +1634,13 @@ Transcript Snippet: they were specifically instructing people um not to touch or
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10770, N-10196
-Supports: C-1503
+Supports: C-1893
 Tags: relevance:core
 Investigative Direction: Re-examine the October 28 hospital message screenshot and identify its author and recipients.
 
 ---
 
-**C-11676** Host Says the File Held Charlie's Illinois Home Address Not Available to the Public
+**C-11643** Host Says the File Held Charlie's Illinois Home Address Not Available to the Public
 
 Claim Timestamp: 00:26:02
 
@@ -1651,13 +1651,13 @@ Transcript Snippet: it had Charlie's personal details, even his like home addres
 Anchored Artifacts: A-3150.1
 Mentions: N-1
 Related Nodes: N-10770, N-10196
-Supports: C-1504
+Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Have a records expert assess the re-displayed screenshot for authenticity and the fields shown.
 
 ---
 
-**C-11677** Host Says the Source's Account Could Explain Charlie's File Appearing at Utah Valley
+**C-11644** Host Says the Source's Account Could Explain Charlie's File Appearing at Utah Valley
 
 Claim Timestamp: 00:26:54
 
@@ -1673,7 +1673,7 @@ Investigative Direction: Compare the Epic audit trail on the Utah Valley record 
 
 ---
 
-**C-11678** Host Says Other People Were in the Utah Valley System and Charlie Was a Patient on September 10
+**C-11645** Host Says Other People Were in the Utah Valley System and Charlie Was a Patient on September 10
 
 Claim Timestamp: 00:27:48
 
@@ -1684,13 +1684,13 @@ Transcript Snippet: And other people were also in the system. So, we were we're 
 Anchored Artifacts: A-3150.1
 Mentions: N-1
 Related Nodes: N-10770
-Supports: C-1504
+Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Obtain the unredacted screenshot metadata and the list of other patient entries from the original leaker.
 
 ---
 
-**C-11679** Host Says the Prosecution's Filing Published a Little of Charlie's Medical Exam
+**C-11646** Host Says the Prosecution's Filing Published a Little of Charlie's Medical Exam
 
 Claim Timestamp: 00:30:11
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Obtain the prosecution filing and identify which autops
 
 ---
 
-**C-11680** Anesthesiologist Email Says the Exploding Mic Theory Is the Best Explanation
+**C-11648** Anesthesiologist Email Says the Exploding Mic Theory Is the Best Explanation
 
 Claim Timestamp: 00:31:16
 
@@ -1722,7 +1722,7 @@ Investigative Direction: Verify the emailer's board certification and obtain the
 
 ---
 
-**C-11681** Anesthesiologist Email Says There Is No Evidence of a Rear Shot and a Frontal Hit Would Push the Torso Back
+**C-11649** Anesthesiologist Email Says There Is No Evidence of a Rear Shot and a Frontal Hit Would Push the Torso Back
 
 Claim Timestamp: 00:31:16
 
@@ -1738,7 +1738,7 @@ Investigative Direction: Review frame-by-frame footage of the moment of impact w
 
 ---
 
-**C-11682** Anesthesiologist Email Says a Shaped Charge Projectile Would Have Damaged Both Lungs and Possibly the Heart
+**C-11650** Anesthesiologist Email Says a Shaped Charge Projectile Would Have Damaged Both Lungs and Possibly the Heart
 
 Claim Timestamp: 00:32:08
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Compare against the thoracic findings in the autopsy re
 
 ---
 
-**C-11683** Host Says the ATF Testified Receiving Five Fragments, Four Unusable
+**C-11652** Host Says the ATF Testified Receiving Five Fragments, Four Unusable
 
 Claim Timestamp: 00:32:48
 
@@ -1770,7 +1770,7 @@ Investigative Direction: Check the preliminary hearing transcript for the ATF an
 
 ---
 
-**C-11684** Anesthesiologist Email Says Resuscitation Was Never Started and Would Have Been Near Impossible in the SUV
+**C-11654** Anesthesiologist Email Says Resuscitation Was Never Started and Would Have Been Near Impossible in the SUV
 
 Claim Timestamp: 00:33:41
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Obtain EMS and hospital records on resuscitation attemp
 
 ---
 
-**C-11685** Anesthesiologist Email Says the Security Team Got Him Out in a Highly Rehearsed Fashion
+**C-11655** Anesthesiologist Email Says the Security Team Got Him Out in a Highly Rehearsed Fashion
 
 Claim Timestamp: 00:34:25
 
@@ -1802,7 +1802,7 @@ Investigative Direction: Verify the email's author and compare the claim with se
 
 ---
 
-**C-11686** Host Says She Believes There Was No Gun on the Rooftop and a Runner Was a Decoy
+**C-11656** Host Says She Believes There Was No Gun on the Rooftop and a Runner Was a Decoy
 
 Claim Timestamp: 00:34:25
 
@@ -1818,7 +1818,7 @@ Investigative Direction: Seek rooftop scene evidence, the recovered-rifle chain 
 
 ---
 
-**C-11687** Transplant Coordinator Email Says Thoracic Trauma Is Not Seen in Head or Neck Gunshot Wounds
+**C-11658** Transplant Coordinator Email Says Thoracic Trauma Is Not Seen in Head or Neck Gunshot Wounds
 
 Claim Timestamp: 00:35:15
 
@@ -1834,7 +1834,7 @@ Investigative Direction: Verify the writer's role and ask trauma surgeons whethe
 
 ---
 
-**C-11688** Transplant Coordinator Email Questions Whether the Body Was Ever Taken to the Morgue
+**C-11659** Transplant Coordinator Email Questions Whether the Body Was Ever Taken to the Morgue
 
 Claim Timestamp: 00:35:15
 
@@ -1850,7 +1850,7 @@ Investigative Direction: Obtain morgue intake and transport logs for September 1
 
 ---
 
-**C-11689** Host Says Protocol Is to Cool the Body to 40 Degrees Before Autopsy
+**C-11660** Host Says Protocol Is to Cool the Body to 40 Degrees Before Autopsy
 
 Claim Timestamp: 00:36:03
 
@@ -1861,13 +1861,13 @@ Transcript Snippet: it is true that the protocol is to bring the body down to 40
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10767
-Supports: C-3181
+Supports: C-11657
 Tags: relevance:core
 Investigative Direction: Ask forensic pathologists and the Utah OME for its written cooling protocol.
 
 ---
 
-**C-11690** Host Says a Body Can Wait About 12 Hours Before Decomposition
+**C-11661** Host Says a Body Can Wait About 12 Hours Before Decomposition
 
 Claim Timestamp: 00:36:50
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Cite forensic pathology references for decomposition on
 
 ---
 
-**C-11691** Surgeon Comment Says Project Constitution Reported a Rode Transmitter at Charlie's Left Waist
+**C-11662** Surgeon Comment Says Project Constitution Reported a Rode Transmitter at Charlie's Left Waist
 
 Claim Timestamp: 00:36:50
 
@@ -1899,7 +1899,7 @@ Investigative Direction: Find the Project Constitution podcast segment and compa
 
 ---
 
-**C-11692** Host Says the Rooftop Figure's Military Crawling Has Been Proven
+**C-11666** Host Says the Rooftop Figure's Military Crawling Has Been Proven
 
 Claim Timestamp: 00:40:10
 
@@ -1915,7 +1915,7 @@ Investigative Direction: Cite the analysis the host refers to and compare with t
 
 ---
 
-**C-11693** Host Says Robinson's Prints Were the Most Degraded on the Rooftop Rifle
+**C-11669** Host Says Robinson's Prints Were the Most Degraded on the Rooftop Rifle
 
 Claim Timestamp: 00:42:18
 
@@ -1931,7 +1931,7 @@ Investigative Direction: Check the latent print and DNA reports for the rifle an
 
 ---
 
-**C-11694** Host Says the Alleged Weapon Was a German 98 Mauser
+**C-11670** Host Says the Alleged Weapon Was a German 98 Mauser
 
 Claim Timestamp: 00:42:18
 
@@ -1947,7 +1947,7 @@ Investigative Direction: Obtain the firearm identification and make and model fr
 
 ---
 
-**C-11695** Viewer Comment Says Love Letters From Charlie to Erika Were Mailed as Fundraiser Material
+**C-11671** Viewer Comment Says Love Letters From Charlie to Erika Were Mailed as Fundraiser Material
 
 Claim Timestamp: 00:44:22
 
@@ -1963,7 +1963,7 @@ Investigative Direction: Obtain a copy of the fundraising mailer and the date an
 
 ---
 
-**C-11696** Host Says Erika's Forgiveness at the Memorial Amounted to Convicting Robinson
+**C-11672** Host Says Erika's Forgiveness at the Memorial Amounted to Convicting Robinson
 
 Claim Timestamp: 00:45:15
 
@@ -1974,13 +1974,13 @@ Transcript Snippet: In retrospect, what Erika was doing was so evil. She was act
 Anchored Artifacts: 
 Mentions: N-2, N-40
 Related Nodes: N-11304, N-10002
-Supports: C-8358
+Supports: C-5960
 Tags: relevance:core
 Investigative Direction: Review the memorial transcript and video for the exact words and any evidence Erika had been shown by that date.
 
 ---
 
-**C-11697** Host Says Erika Had Not Seen Any Evidence When She Spoke at the Memorial
+**C-11673** Host Says Erika Had Not Seen Any Evidence When She Spoke at the Memorial
 
 Claim Timestamp: 00:46:36
 
@@ -1996,7 +1996,7 @@ Investigative Direction: Ask Erika Kirk's representatives and law enforcement wh
 
 ---
 
-**C-11698** Host Says She Broke Her Foot Friday the 13th Around the Time She Learned She Was Pregnant
+**C-11674** Host Says She Broke Her Foot Friday the 13th Around the Time She Learned She Was Pregnant
 
 Claim Timestamp: 00:48:12
 
@@ -2012,7 +2012,7 @@ Investigative Direction: Personal claim, checkable only by the host.
 
 ---
 
-**C-11699** Host Says Trump Tweeted Her Face as the Most Vile Person of the Year
+**C-11675** Host Says Trump Tweeted Her Face as the Most Vile Person of the Year
 
 Claim Timestamp: 00:49:32
 
@@ -2028,7 +2028,7 @@ Investigative Direction: Locate the Truth Social or X post and its date.
 
 ---
 
-**C-11700** Host Says Her Security Member Almost Died in Russia
+**C-11676** Host Says Her Security Member Almost Died in Russia
 
 Claim Timestamp: 00:49:32
 
@@ -2044,7 +2044,7 @@ Investigative Direction: Ask the host for details and any medical or travel reco
 
 ---
 
-**C-11701** Host Says She Had a Thyroid Cancer Scare That Is Now Resolved
+**C-11677** Host Says She Had a Thyroid Cancer Scare That Is Now Resolved
 
 Claim Timestamp: 00:49:32
 

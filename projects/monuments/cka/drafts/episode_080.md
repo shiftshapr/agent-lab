@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep080): N-10606
   - Tip-minted Nodes (reintro-ep080): N-599
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14386–C-14449
+  - Claim Range: C-7150–C-7244
   - New Nodes Introduced: N-10545, N-10546
   - Reused Nodes Appearing: none, N-10544, N-5, N-9, N-14, N-46, N-68, N-69, N-159, N-190, N-268, N-274, N-329, N-554, N-583, N-591, N-10000, N-10023, N-10063, N-10202, N-10324, N-10355, N-10406, N-10411, N-10533, N-10534, N-10539, N-10541, N-10956, N-11035, N-11228, N-11340
   - Hole-minted Nodes (remap-ep80): N-150
@@ -25,7 +25,7 @@
 
 Artifact Families Introduced: A-1861, A-1862, A-1863, A-1864, A-1865, A-1866, A-1867, A-1868, A-1869, A-1870, A-1871, A-1872, A-1873, A-1874, A-1875, A-1876
 
-Claim Range: C-2494–C-2524
+Claim Range: C-7153–C-7202
 
 New Person Nodes Introduced: none (Wave 2: local ids removed)
 
@@ -46,7 +46,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 - **Transcript completeness status:** Auto-captions cleaned; no music cues retained; cleaning flagged but no major omissions noted
 - **Analyst / agent name:** Investigative Analysis Agent
 - **Analysis date:** 2026-03-17
-- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-2494–C-2524); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-10544–N-10545); existing nodes reused where applicable
+- **Ledger continuation summary:** 16 new artifact families (A-1861–A-1876); 31 new claims (C-7153–C-7202); 15 new person nodes (local ids 1207 to 1221); 2 new investigation target nodes (N-10544–N-10545); existing nodes reused where applicable
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:04:57–00:06:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2494, C-2495, C-2496, C-2497, N-10546*
+*Related: C-7153, C-7154, C-7155, C-7159, N-10546*
 
 ---
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:07:42–00:10:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2498, C-2499, N-? Donald Trump*
+*Related: C-7160, C-7162, N-? Donald Trump*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:14:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2500*
+*Related: C-7167*
 
 ---
 
@@ -117,7 +117,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2501, C-2502*
+*Related: C-7169, C-7174*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:15:07–00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2503*
+*Related: C-7170*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:15:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2504*
+*Related: C-7172*
 
 ---
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-150*
+*Related: C-7173, N-150*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:20:55–00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2506*
+*Related: C-7178*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:31:39–00:31:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2507, C-2508, C-2521, C-2522, N-2, N-10545*
+*Related: C-7190, C-7191, C-7189, C-7192, N-2, N-10545*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:32:20–00:33:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2509, C-2510, N-10545*
+*Related: C-7195, C-7196, N-10545*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:33:39–00:34:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2511, C-2523, C-2524*
+*Related: C-7200, C-7201, C-7202*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:47:24–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2512, C-2513, N-10544*
+*Related: C-7220, C-7222, N-10544*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:48:48–00:49:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2514, C-2515, N-10544*
+*Related: C-7223, C-7224, N-10544*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:50:05–00:51:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2516, C-2517, C-2518, N-? Netanyahu, N-10544*
+*Related: C-7227, C-7228, C-7229, N-? Netanyahu, N-10544*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:53:23–00:54:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2519, C-2520, N-? Netanyahu, N-10544*
+*Related: C-7232, C-7231, N-? Netanyahu, N-10544*
 
 ---
 
@@ -300,7 +300,7 @@ Video Timestamp: 00:12:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14396, N-36, N-3*
+*Related: C-7166, N-36, N-3*
 
 ---
 
@@ -314,7 +314,7 @@ Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14427, N-2, N-3*
+*Related: C-7213, N-2, N-3*
 
 ---
 
@@ -329,7 +329,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-2512, C-2513, C-2514, C-2515, C-2516, C-2517, C-2518, C-2519, C-2520, N-? Netanyahu*
+*Related: A-1872.1, A-1873.1, A-1874.1, A-1875.1, A-1876.1, C-7220, C-7222, C-7223, C-7224, C-7227, C-7228, C-7229, C-7232, C-7231, N-? Netanyahu*
 
 ---
 
@@ -342,7 +342,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1869.1, A-1870.1, A-1871.1, C-2507, C-2508, C-2509, C-2510, C-2511, N-1, N-2*
+*Related: A-1869.1, A-1870.1, A-1871.1, C-7190, C-7191, C-7195, C-7196, C-7200, N-1, N-2*
 
 ---
 
@@ -355,7 +355,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-2498, C-2499, C-2500, C-2501, C-2502, C-2503, C-2504, C-2505*
+*Related: A-1861.1, A-1862.1, A-1863.1, A-1864.1, A-1864.2, A-1865.1, A-1866.1, A-1867.1, C-7160, C-7162, C-7167, C-7169, C-7174, C-7170, C-7172, C-7173*
 
 ---
 
@@ -364,7 +364,7 @@ Investigative Pressure: High
 Node Type: Person
 Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
 
-*Related: C-2505*
+*Related: C-7173*
 
 ---
 
@@ -372,7 +372,7 @@ Trump-world communications figure. Host cites his posts and names him among Epst
 
 Subject of the assassination; the host cites his documented positions, his statements to students and his alleged messages with Bret Weinstein.
 
-*Related: C-14394, C-14406, C-14407, C-14408, C-14409, C-14415, C-14416, C-14417, C-14418, C-14428, C-14449*
+*Related: C-7164, C-7183, C-7184, C-7185, C-7186, C-7198, C-7199, C-7203, C-7204, C-7214, C-7244*
 
 ---
 
@@ -380,7 +380,7 @@ Subject of the assassination; the host cites his documented positions, his state
 
 Widow and TPUSA CEO; the host says she sat down with her and questions her partnerships.
 
-*Related: C-14407, C-14411, C-14422, C-14425, C-14427, C-14428, C-14429, C-14443*
+*Related: C-7184, C-7188, C-7208, C-7211, C-7213, C-7214, C-7215, C-7238*
 
 ---
 
@@ -388,7 +388,7 @@ Widow and TPUSA CEO; the host says she sat down with her and questions her partn
 
 Host; speaks for herself throughout.
 
-*Related: C-14386, C-14395, C-14396, C-14399, C-14400, C-14401, C-14405, C-14406, C-14407, C-14413, C-14419, C-14420, C-14421, C-14422, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, C-14437, C-14441, C-14442, C-14443, C-14444, C-14446, C-14447, C-14448, C-14449*
+*Related: C-7150, C-7165, C-7166, C-7175, C-7176, C-7177, C-7182, C-7183, C-7184, C-7194, C-7205, C-7206, C-7207, C-7208, C-7210, C-7211, C-7212, C-7213, C-7214, C-7215, C-7230, C-7236, C-7237, C-7238, C-7239, C-7241, C-7242, C-7243, C-7244*
 
 ---
 
@@ -396,7 +396,7 @@ Host; speaks for herself throughout.
 
 President; the host plays his clip on Joe Kent and his Iran remarks.
 
-*Related: C-14386, C-14389, C-14390, C-14392, C-14393, C-14394, C-14404*
+*Related: C-7150, C-7156, C-7157, C-7161, C-7163, C-7164, C-7181*
 
 ---
 
@@ -404,7 +404,7 @@ President; the host plays his clip on Joe Kent and his Iran remarks.
 
 Named by the host in connection with the Family International and the Epstein files.
 
-*Related: C-14426, C-14430*
+*Related: C-7212, C-7216*
 
 ---
 
@@ -412,7 +412,7 @@ Named by the host in connection with the Family International and the Epstein fi
 
 TPUSA spokesperson; the host cites a staffer in his office.
 
-*Related: C-14413*
+*Related: C-7194*
 
 ---
 
@@ -420,7 +420,7 @@ TPUSA spokesperson; the host cites a staffer in his office.
 
 Subject of the host's warnings montage and the health and video rumors.
 
-*Related: C-14396, C-14401, C-14431, C-14432, C-14433, C-14436, C-14437, C-14438, C-14439, C-14440, C-14444, C-14448*
+*Related: C-7166, C-7177, C-7217, C-7218, C-7219, C-7226, C-7230, C-7233, C-7234, C-7235, C-7239, C-7243*
 
 ---
 
@@ -428,7 +428,7 @@ Subject of the host's warnings montage and the health and video rumors.
 
 The host says Kelly faces the same pressure Kirk faced.
 
-*Related: C-14406, C-14442, C-14443*
+*Related: C-7183, C-7237, C-7238*
 
 ---
 
@@ -436,7 +436,7 @@ The host says Kelly faces the same pressure Kirk faced.
 
 Author of the post urging that Kent's allies be fired.
 
-*Related: C-14398*
+*Related: C-7171*
 
 ---
 
@@ -444,7 +444,7 @@ Author of the post urging that Kent's allies be fired.
 
 Show staffer or associate the host asks about Netanyahu's reported location.
 
-*Related: C-14440*
+*Related: C-7235*
 
 ---
 
@@ -452,7 +452,7 @@ Show staffer or associate the host asks about Netanyahu's reported location.
 
 FBI director; the host says he blocked a foreign-involvement inquiry and said there was no evidence of sex trafficking.
 
-*Related: C-14408, C-14409, C-14410, C-14430*
+*Related: C-7185, C-7186, C-7187, C-7216*
 
 ---
 
@@ -460,7 +460,7 @@ FBI director; the host says he blocked a foreign-involvement inquiry and said th
 
 Comedian whose clip on Israel the host plays.
 
-*Related: C-14402, C-14403, C-14404*
+*Related: C-7179, C-7180, C-7181*
 
 ---
 
@@ -468,7 +468,7 @@ Comedian whose clip on Israel the host plays.
 
 Named by the host among those TPUSA presents as authorities.
 
-*Related: C-14419*
+*Related: C-7205*
 
 ---
 
@@ -476,7 +476,7 @@ Named by the host among those TPUSA presents as authorities.
 
 Named by the host among those TPUSA presents as authorities.
 
-*Related: C-14419*
+*Related: C-7205*
 
 ---
 
@@ -484,7 +484,7 @@ Named by the host among those TPUSA presents as authorities.
 
 Director of the National Counterterrorism Center who resigned; author of the letter.
 
-*Related: C-14387, C-14388, C-14389, C-14390, C-14391, C-14392, C-14397, C-14398, C-14399, C-14408, C-14410*
+*Related: C-7151, C-7152, C-7156, C-7157, C-7158, C-7161, C-7168, C-7171, C-7175, C-7185, C-7187*
 
 ---
 
@@ -492,7 +492,7 @@ Director of the National Counterterrorism Center who resigned; author of the let
 
 Author of the post calling Kent part of a woke right cabal.
 
-*Related: C-14397*
+*Related: C-7168*
 
 ---
 
@@ -500,7 +500,7 @@ Author of the post calling Kent part of a woke right cabal.
 
 Named in the host's chart-position comparison.
 
-*Related: C-14446*
+*Related: C-7241*
 
 ---
 
@@ -508,7 +508,7 @@ Named in the host's chart-position comparison.
 
 US ambassador shown with Netanyahu in the March 15 video.
 
-*Related: C-14438, C-14439, C-14447*
+*Related: C-7233, C-7234, C-7242*
 
 ---
 
@@ -516,7 +516,7 @@ US ambassador shown with Netanyahu in the March 15 video.
 
 Named by the host in her remark on Huckabee's support.
 
-*Related: C-14447*
+*Related: C-7242*
 
 ---
 
@@ -524,7 +524,7 @@ Named by the host in her remark on Huckabee's support.
 
 Director of National Intelligence; the host says Kent worked in her office.
 
-*Related: C-14410*
+*Related: C-7187*
 
 ---
 
@@ -532,7 +532,7 @@ Director of National Intelligence; the host says Kent worked in her office.
 
 Speaker at the Catholics for Catholics event.
 
-*Related: C-14400*
+*Related: C-7176*
 
 ---
 
@@ -540,7 +540,7 @@ Speaker at the Catholics for Catholics event.
 
 Arkansas governor who signed the Club America proclamation.
 
-*Related: C-14411*
+*Related: C-7188*
 
 ---
 
@@ -548,7 +548,7 @@ Arkansas governor who signed the Club America proclamation.
 
 Erika Kirk's Romanian partner whose religious background the host is researching.
 
-*Related: C-14422, C-14423*
+*Related: C-7208, C-7209*
 
 ---
 
@@ -556,7 +556,7 @@ Erika Kirk's Romanian partner whose religious background the host is researching
 
 Named as Kirk's correspondent in the host's account of his messages.
 
-*Related: C-14394*
+*Related: C-7164*
 
 ---
 
@@ -564,7 +564,7 @@ Named as Kirk's correspondent in the host's account of his messages.
 
 Treasury Secretary pulled to the Situation Room.
 
-*Related: C-14434*
+*Related: C-7221*
 
 ---
 
@@ -572,7 +572,7 @@ Treasury Secretary pulled to the Situation Room.
 
 Organization whose Arkansas chapter disaffiliated and whose staff the host cites.
 
-*Related: C-14413, C-14421*
+*Related: C-7194, C-7207*
 
 ---
 
@@ -580,7 +580,7 @@ Organization whose Arkansas chapter disaffiliated and whose staff the host cites
 
 Existing topic reused for the Family International and Epstein remark.
 
-*Related: C-14426*
+*Related: C-7212*
 
 ---
 
@@ -588,7 +588,7 @@ Existing topic reused for the Family International and Epstein remark.
 
 Place the host cites in her account of harassment over the event.
 
-*Related: C-14405*
+*Related: C-7182*
 
 ---
 
@@ -596,7 +596,7 @@ Place the host cites in her account of harassment over the event.
 
 Existing topic reused for the host's Patel claims.
 
-*Related: C-14409*
+*Related: C-7186*
 
 ---
 
@@ -604,7 +604,7 @@ Existing topic reused for the host's Patel claims.
 
 Existing topic reused for the Patel sex-trafficking remark.
 
-*Related: C-14430*
+*Related: C-7216*
 
 ---
 
@@ -612,7 +612,7 @@ Existing topic reused for the Patel sex-trafficking remark.
 
 Existing topic reused for the Patel and Kent claims.
 
-*Related: C-14408, C-14409, C-14410*
+*Related: C-7185, C-7186, C-7187*
 
 ---
 
@@ -620,7 +620,7 @@ Existing topic reused for the Patel and Kent claims.
 
 Existing topic reused for the host's remarks on Kelly.
 
-*Related: C-14406, C-14442, C-14443*
+*Related: C-7183, C-7237, C-7238*
 
 ---
 
@@ -628,7 +628,7 @@ Existing topic reused for the host's remarks on Kelly.
 
 Existing topic reused for the Harvest claim.
 
-*Related: C-14429*
+*Related: C-7215*
 
 ---
 
@@ -636,7 +636,7 @@ Existing topic reused for the Harvest claim.
 
 Existing topic reused for the Sanders proclamation claim.
 
-*Related: C-14411*
+*Related: C-7188*
 
 ---
 
@@ -644,7 +644,7 @@ Existing topic reused for the Sanders proclamation claim.
 
 Existing topic reused for the host's cult research claims.
 
-*Related: C-14422, C-14423*
+*Related: C-7208, C-7209*
 
 ---
 
@@ -652,7 +652,7 @@ Existing topic reused for the host's cult research claims.
 
 Existing topic reused for the June 2025 turning point.
 
-*Related: C-14390*
+*Related: C-7157*
 
 ---
 
@@ -660,7 +660,7 @@ Existing topic reused for the June 2025 turning point.
 
 Existing topic reused for the Hormuz and India claims.
 
-*Related: C-14386, C-14445*
+*Related: C-7150, C-7240*
 
 ---
 
@@ -668,7 +668,7 @@ Existing topic reused for the Hormuz and India claims.
 
 Existing topic reused for the Boeing 757 cash claim.
 
-*Related: C-14393*
+*Related: C-7163*
 
 ---
 
@@ -676,7 +676,7 @@ Existing topic reused for the Boeing 757 cash claim.
 
 Organization hosting the March 19 event where the host will interview Kent.
 
-*Related: C-14399, C-14400, C-14405*
+*Related: C-7175, C-7176, C-7182*
 
 ---
 
@@ -684,7 +684,7 @@ Organization hosting the March 19 event where the host will interview Kent.
 
 Existing topic reused for the host's staff-firing claims.
 
-*Related: C-14413, C-14421*
+*Related: C-7194, C-7207*
 
 ---
 
@@ -692,7 +692,7 @@ Existing topic reused for the host's staff-firing claims.
 
 Existing topic reused for the chart claim.
 
-*Related: C-14446*
+*Related: C-7241*
 
 ---
 
@@ -700,7 +700,7 @@ Existing topic reused for the chart claim.
 
 Organization the host says is being sued over Romanian children.
 
-*Related: C-14429*
+*Related: C-7215*
 
 ---
 
@@ -708,7 +708,7 @@ Organization the host says is being sued over Romanian children.
 
 First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.
 
-*Related: C-14412, C-14414, C-14415, C-14416, C-14418*
+*Related: C-7193, C-7197, C-7198, C-7199, C-7204*
 
 ---
 
@@ -716,7 +716,7 @@ First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrass
 
 First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.
 
-*Related: C-14387, C-14388*
+*Related: C-7151, C-7152*
 
 ---
 
@@ -724,7 +724,7 @@ First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom th
 
 First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.
 
-*Related: C-14405*
+*Related: C-7182*
 
 ---
 
@@ -733,13 +733,13 @@ First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and
 Node Type: Organization
 Religious group formerly called Children of God that the host says Renee Crossman belonged to and that she is researching.
 
-*Related: C-14422, C-14423, C-14424, C-14425, C-14426*
+*Related: C-7208, C-7209, C-7210, C-7211, C-7212*
 
 ---
 
 ## V. Claim Register
 
-**C-2494** Kent Resignation Effective Day of Letter
+**C-7153** Kent Resignation Effective Day of Letter
 
 Claim Timestamp: 00:04:57
 
@@ -754,7 +754,7 @@ Investigative Direction: Cross-reference the date of the letter against public F
 
 ---
 
-**C-2495** Kent: Iran Posed No Imminent Threat
+**C-7154** Kent: Iran Posed No Imminent Threat
 
 Claim Timestamp: 00:04:57
 
@@ -769,7 +769,7 @@ Investigative Direction: Compare Kent's stated threat assessment against publicl
 
 ---
 
-**C-2496** Kent Attributes War Initiation to Israel and American Lobby
+**C-7155** Kent Attributes War Initiation to Israel and American Lobby
 
 Claim Timestamp: 00:04:57
 
@@ -784,7 +784,7 @@ Investigative Direction: Verify Kent's specific allegations against any document
 
 ---
 
-**C-2497** Kent Self-Identifies as 11-Time Combat Veteran and Gold Star Husband
+**C-7159** Kent Self-Identifies as 11-Time Combat Veteran and Gold Star Husband
 
 Claim Timestamp: 00:06:10
 
@@ -799,7 +799,7 @@ Investigative Direction: Verify Kent's DD-214-equivalent service record and Shan
 
 ---
 
-**C-2498** Trump Describes Kent as "Weak on Security"
+**C-7160** Trump Describes Kent as "Weak on Security"
 
 Claim Timestamp: 00:07:42
 
@@ -814,7 +814,7 @@ Investigative Direction: Confirm exact wording against the full White House tran
 
 ---
 
-**C-2499** Trump Cites Termination of Iran Nuclear Deal in Defense of War
+**C-7162** Trump Cites Termination of Iran Nuclear Deal in Defense of War
 
 Claim Timestamp: 00:09:23
 
@@ -829,7 +829,7 @@ Investigative Direction: Confirm specific language against the official White Ho
 
 ---
 
-**C-2500** Graham Characterizes Kent Resignation as Democratic Talking Points
+**C-7167** Graham Characterizes Kent Resignation as Democratic Talking Points
 
 Claim Timestamp: 00:14:29
 
@@ -844,7 +844,7 @@ Investigative Direction: Verify the exact X post text against Graham's verified 
 
 ---
 
-**C-2501** Levin Suggests Kent Was About to Be Fired
+**C-7169** Levin Suggests Kent Was About to Be Fired
 
 Claim Timestamp: 00:14:40
 
@@ -859,7 +859,7 @@ Investigative Direction: Confirm against Levin's verified X account and compare 
 
 ---
 
-**C-2502** Host Says Levin Called for DOJ Criminal Investigation of Kent
+**C-7174** Host Says Levin Called for DOJ Criminal Investigation of Kent
 
 Claim Timestamp: 00:16:10
 
@@ -874,7 +874,7 @@ Investigative Direction: Confirm against Levin's verified X account and monitor 
 
 ---
 
-**C-2503** Loomer Alleges Kent's Wife Worked for Max Blumenthal
+**C-7170** Loomer Alleges Kent's Wife Worked for Max Blumenthal
 
 Claim Timestamp: 00:15:07–00:15:58
 
@@ -889,7 +889,7 @@ Investigative Direction: Verify Loomer's allegation against Shannon Kent's actua
 
 ---
 
-**C-2504** Dershowitz Calls Kent a "Neo-Nazi Jew Hating Israel Basher"
+**C-7172** Dershowitz Calls Kent a "Neo-Nazi Jew Hating Israel Basher"
 
 Claim Timestamp: 00:15:40
 
@@ -904,7 +904,7 @@ Investigative Direction: Confirm exact text against Dershowitz's verified X acco
 
 ---
 
-**C-2505** Budowich Calls Kent a "Crazed Egomaniac"
+**C-7173** Budowich Calls Kent a "Crazed Egomaniac"
 
 Claim Timestamp: 00:16:00
 
@@ -919,7 +919,7 @@ Investigative Direction: Confirm exact text against Budowich's verified X accoun
 
 ---
 
-**C-2506** Theo Von Calls Israeli Political Leaders "Satanic"
+**C-7178** Theo Von Calls Israeli Political Leaders "Satanic"
 
 Claim Timestamp: 00:20:55
 
@@ -934,7 +934,7 @@ Investigative Direction: Confirm against the original Theo Von podcast episode a
 
 ---
 
-**C-2507** Local News Clip Says TPUSA Arkansas Chapter Announced Disaffiliation
+**C-7190** Local News Clip Says TPUSA Arkansas Chapter Announced Disaffiliation
 
 Claim Timestamp: 00:30:50
 
@@ -949,7 +949,7 @@ Investigative Direction: Verify against an official TPUSA statement (or silence)
 
 ---
 
-**C-2508** Local News Clip Reports the University of Arkansas Chapter Will Rebrand as Young American Revival
+**C-7191** Local News Clip Reports the University of Arkansas Chapter Will Rebrand as Young American Revival
 
 Claim Timestamp: 00:31:15
 
@@ -963,7 +963,7 @@ Investigative Direction: Track the new organization's filings and any subsequent
 
 ---
 
-**C-2509** Host Says Fantegrossi Authored Chapter Statement
+**C-7195** Host Says Fantegrossi Authored Chapter Statement
 
 Claim Timestamp: 00:31:40
 
@@ -978,7 +978,7 @@ Investigative Direction: Verify against Fantegrossi's verified Instagram account
 
 ---
 
-**C-2510** Fantegrossi Letter Characterizes "Charlie Would Have" Statements as Disingenuous
+**C-7196** Fantegrossi Letter Characterizes "Charlie Would Have" Statements as Disingenuous
 
 Claim Timestamp: 00:32:20
 
@@ -993,7 +993,7 @@ Investigative Direction: Cross-reference specific TPUSA statements attributed to
 
 ---
 
-**C-2511** Host Says Fantegrossi Participated in Kirk's July Israel/Gaza Discussion
+**C-7200** Host Says Fantegrossi Participated in Kirk's July Israel/Gaza Discussion
 
 Claim Timestamp: 00:33:20
 
@@ -1008,7 +1008,7 @@ Investigative Direction: Verify the date, venue, and Fantegrossi's participation
 
 ---
 
-**C-2512** Bessent Pulled Mid-Interview to Situation Room
+**C-7220** Bessent Pulled Mid-Interview to Situation Room
 
 Claim Timestamp: 00:47:24
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Confirm against full interview video; identify the orig
 
 ---
 
-**C-2513** Bessent States President in "Great Spirits"
+**C-7222** Bessent States President in "Great Spirits"
 
 Claim Timestamp: 00:47:40
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Confirm exact wording against interview transcript; cro
 
 ---
 
-**C-2514** Host Says Four DC-Area Airports Shut Down March 13
+**C-7223** Host Says Four DC-Area Airports Shut Down March 13
 
 Claim Timestamp: 00:48:48
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Verify against FAA ground stop records and the four-air
 
 ---
 
-**C-2515** Host Says Official Closure Explanation Was Overheated Circuit Board
+**C-7224** Host Says Official Closure Explanation Was Overheated Circuit Board
 
 Claim Timestamp: 00:48:48
 
@@ -1066,7 +1066,7 @@ Investigative Direction: Confirm against official FAA / airport authority statem
 
 ---
 
-**C-2516** Netanyahu Posts Official Account Video March 14
+**C-7227** Netanyahu Posts Official Account Video March 14
 
 Claim Timestamp: 00:49:10
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Confirm against the official account's posting record; 
 
 ---
 
-**C-2517** Netanyahu Misses Security Council Meeting
+**C-7228** Netanyahu Misses Security Council Meeting
 
 Claim Timestamp: 00:50:05
 
@@ -1096,7 +1096,7 @@ Investigative Direction: Verify against official Israeli government / Knesset sc
 
 ---
 
-**C-2518** Yair Netanyahu Social Media Silence Pattern
+**C-7229** Yair Netanyahu Social Media Silence Pattern
 
 Claim Timestamp: 00:50:05
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Pull Yair Netanyahu's full X/Twitter activity log for t
 
 ---
 
-**C-2519** Netanyahu Posts Huckabee Video on Day of Show
+**C-7232** Netanyahu Posts Huckabee Video on Day of Show
 
 Claim Timestamp: 00:52:15
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Confirm posting timestamp against official channels; su
 
 ---
 
-**C-2520** Host Says Netanyahu No-Showed Military Council Meeting March 17
+**C-7231** Host Says Netanyahu No-Showed Military Council Meeting March 17
 
 Claim Timestamp: 00:51:55
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Confirm against Israeli government press releases and K
 
 ---
 
-**C-2521** Host Says Erika Kirk Appeared with Sarah Huckabee Sanders in Arkansas
+**C-7189** Host Says Erika Kirk Appeared with Sarah Huckabee Sanders in Arkansas
 
 Claim Timestamp: 00:30:20
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Verify event date and content against Governor Sanders'
 
 ---
 
-**C-2522** Local News Clip Says Sanders Signed Proclamation Endorsing TPUSA School Chapters
+**C-7192** Local News Clip Says Sanders Signed Proclamation Endorsing TPUSA School Chapters
 
 Claim Timestamp: 00:31:39
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Obtain the actual proclamation text from the Arkansas S
 
 ---
 
-**C-2523** Student in Kirk Clip Calls Prophecy as Policy Theologically Problematic
+**C-7201** Student in Kirk Clip Calls Prophecy as Policy Theologically Problematic
 
 Claim Timestamp: 00:33:39
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Verify exact quotation against the full original audio/
 
 ---
 
-**C-2524** Charlie Kirk Publicly Questions Cruz's Use of Bible for Israel Aid
+**C-7202** Charlie Kirk Publicly Questions Cruz's Use of Bible for Israel Aid
 
 Claim Timestamp: 00:33:39
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Verify exact quotation against the full original record
 
 ---
 
-**C-14386** Host Says India Refused Trump's Request for Troops at Hormuz
+**C-7150** Host Says India Refused Trump's Request for Troops at Hormuz
 
 Claim Timestamp: 00:01:54
 
@@ -1216,7 +1216,7 @@ Investigative Direction: Check Indian government statements and press reports of
 
 ---
 
-**C-14387** Host Says Shannon Kent Was Killed by a Suicide Bomber in Syria in 2019
+**C-7151** Host Says Shannon Kent Was Killed by a Suicide Bomber in Syria in 2019
 
 Claim Timestamp: 00:03:18
 
@@ -1232,7 +1232,7 @@ Investigative Direction: Check the Department of Defense casualty release and co
 
 ---
 
-**C-14388** Host Says Shannon Kent Was First Female Service Member Killed by Enemy Fire in Over 3 Years
+**C-7152** Host Says Shannon Kent Was First Female Service Member Killed by Enemy Fire in Over 3 Years
 
 Claim Timestamp: 00:04:10
 
@@ -1248,7 +1248,7 @@ Investigative Direction: Compare against DoD casualty lists of female service me
 
 ---
 
-**C-14389** Kent Letter Says Israeli Officials and US Media Ran a Misinformation Campaign
+**C-7156** Kent Letter Says Israeli Officials and US Media Ran a Misinformation Campaign
 
 Claim Timestamp: 00:04:57
 
@@ -1259,13 +1259,13 @@ Transcript Snippet: high-ranking Israeli officials and influential members of th
 Anchored Artifacts: A-1861.1
 Mentions: N-209, N-5
 Related Nodes: N-10546
-Supports: C-2496
+Supports: C-7155
 Tags: relevance:context
 Investigative Direction: Ask Kent or his office to identify the officials and outlets meant, and compare with the published text of the letter.
 
 ---
 
-**C-14390** Kent Letter Says Trump Understood the Middle East Wars Were a Trap Until June 2025
+**C-7157** Kent Letter Says Trump Understood the Middle East Wars Were a Trap Until June 2025
 
 Claim Timestamp: 00:04:57
 
@@ -1281,7 +1281,7 @@ Investigative Direction: Compare the letter's June 2025 turning point with the J
 
 ---
 
-**C-14391** Kent Letter Says Israel Used the Same Tactic to Draw the US Into Iraq
+**C-7158** Kent Letter Says Israel Used the Same Tactic to Draw the US Into Iraq
 
 Claim Timestamp: 00:05:58
 
@@ -1292,13 +1292,13 @@ Transcript Snippet: This was a lie and is the same tactic the Israelis used to d
 Anchored Artifacts: A-1861.1
 Mentions: N-209
 Related Nodes: N-10546
-Supports: C-2495, C-2496
+Supports: C-7154, C-7155
 Tags: relevance:context
 Investigative Direction: Evaluate the letter's Iraq comparison against the 2002 to 2003 intelligence record and any Israeli government statements of that period.
 
 ---
 
-**C-14392** Trump Says He Is Glad Kent Is Out Because Kent Said Iran Was Not a Threat
+**C-7161** Trump Says He Is Glad Kent Is Out Because Kent Said Iran Was Not a Threat
 
 Claim Timestamp: 00:07:42
 
@@ -1309,13 +1309,13 @@ Transcript Snippet: when I read his statement, I realized that it's a good thing
 Anchored Artifacts: A-1862.1
 Mentions: N-5, N-209
 Related Nodes: N-10546
-Supports: C-2498
+Supports: C-7160
 Tags: relevance:context
 Investigative Direction: Verify wording against the White House pool video of the same exchange.
 
 ---
 
-**C-14393** Trump Says Obama Flew Boeing 757s Loaded With Cash to Iran
+**C-7163** Trump Says Obama Flew Boeing 757s Loaded With Cash to Iran
 
 Claim Timestamp: 00:09:23
 
@@ -1331,7 +1331,7 @@ Investigative Direction: Compare with the documented 2016 US payments to Iran an
 
 ---
 
-**C-14394** Host Says Charlie Described Yes-Men Around Leaders in Messages With Bret Weinstein
+**C-7164** Host Says Charlie Described Yes-Men Around Leaders in Messages With Bret Weinstein
 
 Claim Timestamp: 00:11:47
 
@@ -1346,7 +1346,7 @@ Investigative Direction: Obtain the Kirk and Weinstein messages and check whethe
 
 ---
 
-**C-14395** Host Says the US Is the Only Country to Have Dropped Nuclear Weapons
+**C-7165** Host Says the US Is the Only Country to Have Dropped Nuclear Weapons
 
 Claim Timestamp: 00:11:47
 
@@ -1361,7 +1361,7 @@ Investigative Direction: Historical record (1945); recorded as said.
 
 ---
 
-**C-14396** Host Plays Netanyahu Clips Predicting Iran Was Close to a Bomb
+**C-7166** Host Plays Netanyahu Clips Predicting Iran Was Close to a Bomb
 
 Claim Timestamp: 00:12:33
 
@@ -1376,7 +1376,7 @@ Investigative Direction: Identify each speaker, date and source of the montage c
 
 ---
 
-**C-14397** Levin Calls Kent Part of a Radical Isolationist Woke Right Cabal
+**C-7168** Levin Calls Kent Part of a Radical Isolationist Woke Right Cabal
 
 Claim Timestamp: 00:14:29
 
@@ -1387,13 +1387,13 @@ Transcript Snippet: He's part of the radical isolationist woke right cabal.
 Anchored Artifacts: A-1864.1
 Mentions: N-244, N-209, N-5
 Related Nodes: N-10546
-Supports: C-2501
+Supports: C-7169
 Tags: relevance:context
 Investigative Direction: Confirm exact wording against Levin's X account.
 
 ---
 
-**C-14398** Loomer Says She Would Fire Everyone and Punish Leakers
+**C-7171** Loomer Says She Would Fire Everyone and Punish Leakers
 
 Claim Timestamp: 00:15:07
 
@@ -1404,13 +1404,13 @@ Transcript Snippet: I would fire everyone and teach them a lesson that they woul
 Anchored Artifacts: A-1865.1
 Mentions: N-60
 Related Nodes: N-10546
-Supports: C-2503
+Supports: C-7170
 Tags: relevance:context
 Investigative Direction: Confirm exact wording against Loomer's X account.
 
 ---
 
-**C-14399** Host Says Joe Kent Will Be Interviewed at Catholics for Catholics Thursday
+**C-7175** Host Says Joe Kent Will Be Interviewed at Catholics for Catholics Thursday
 
 Claim Timestamp: 00:17:53
 
@@ -1426,7 +1426,7 @@ Investigative Direction: Check the Catholics for Catholics program for the March
 
 ---
 
-**C-14400** Host Says Event Is Not Anti-Zionist and Zionists Are Demanding Cancellations
+**C-7176** Host Says Event Is Not Anti-Zionist and Zionists Are Demanding Cancellations
 
 Claim Timestamp: 00:18:37
 
@@ -1442,7 +1442,7 @@ Investigative Direction: Ask the organizers for the cancellation emails and call
 
 ---
 
-**C-14401** Host Says Netanyahu Is Wanted by the ICC and Was Welcomed at the White House
+**C-7177** Host Says Netanyahu Is Wanted by the ICC and Was Welcomed at the White House
 
 Claim Timestamp: 00:18:37
 
@@ -1457,7 +1457,7 @@ Investigative Direction: Check the ICC warrant record for Netanyahu and White Ho
 
 ---
 
-**C-14402** Theo Von Says Israeli Leaders Show No Intent to Stop and No Care for Americans
+**C-7179** Theo Von Says Israeli Leaders Show No Intent to Stop and No Care for Americans
 
 Claim Timestamp: 00:20:55
 
@@ -1472,7 +1472,7 @@ Investigative Direction: Verify wording against the original Theo Von podcast ep
 
 ---
 
-**C-14403** Theo Von Says Children May Lose the Right to Speak Up by Law or Worse
+**C-7180** Theo Von Says Children May Lose the Right to Speak Up by Law or Worse
 
 Claim Timestamp: 00:22:00
 
@@ -1487,7 +1487,7 @@ Investigative Direction: Verify wording against the original Theo Von podcast ep
 
 ---
 
-**C-14404** Theo Von Says He Does Not Understand Why the US Is Beholden to Israel
+**C-7181** Theo Von Says He Does Not Understand Why the US Is Beholden to Israel
 
 Claim Timestamp: 00:22:55
 
@@ -1502,7 +1502,7 @@ Investigative Direction: Verify wording against the original Theo Von podcast ep
 
 ---
 
-**C-14405** Host Says Catholics for Catholics Organizer Is Being Harassed Over the Event
+**C-7182** Host Says Catholics for Catholics Organizer Is Being Harassed Over the Event
 
 Claim Timestamp: 00:24:48
 
@@ -1518,7 +1518,7 @@ Investigative Direction: Ask Catholics for Catholics for the harassment communic
 
 ---
 
-**C-14406** Host Says Megyn Kelly Faces What Charlie Kirk Faced in the End
+**C-7183** Host Says Megyn Kelly Faces What Charlie Kirk Faced in the End
 
 Claim Timestamp: 00:25:37
 
@@ -1534,7 +1534,7 @@ Investigative Direction: Identify the specific campaign against Kelly the host m
 
 ---
 
-**C-14407** Host Says Erika Is at the Helm While TPUSA Reverses Charlie's Positions
+**C-7184** Host Says Erika Is at the Helm While TPUSA Reverses Charlie's Positions
 
 Claim Timestamp: 00:26:27
 
@@ -1550,7 +1550,7 @@ Investigative Direction: Compare TPUSA's public positions since September 2025 w
 
 ---
 
-**C-14408** Host Says Joe Kent Bumped Heads With Kash Patel During the Kirk Investigation
+**C-7185** Host Says Joe Kent Bumped Heads With Kash Patel During the Kirk Investigation
 
 Claim Timestamp: 00:29:05
 
@@ -1561,13 +1561,13 @@ Transcript Snippet: Joe Kent was one of the people who bumped heads with Kash Pa
 Anchored Artifacts: 
 Mentions: N-209, N-69, N-1
 Related Nodes: N-10355
-Supports: C-1952
+Supports: C-4156
 Tags: relevance:core
 Investigative Direction: Compare with the New York Times reporting on Patel, Kent and Gabbard and ask Kent about the dispute on stage.
 
 ---
 
-**C-14409** Host Says Patel Blocked Any Inquiry Into Foreign Involvement
+**C-7186** Host Says Patel Blocked Any Inquiry Into Foreign Involvement
 
 Claim Timestamp: 00:29:05
 
@@ -1578,13 +1578,13 @@ Transcript Snippet: Kash Patel blocked any investigation into whether or not for
 Anchored Artifacts: 
 Mentions: N-69, N-1
 Related Nodes: N-10202, N-10355
-Supports: C-1952
+Supports: C-4156
 Tags: relevance:core
 Investigative Direction: Obtain FBI and ODNI communications on any foreign-involvement tasking and Patel's public statements on foreign actors.
 
 ---
 
-**C-14410** Host Says a Foreign-Actor Inquiry Would Have Shifted Into Gabbard's Office
+**C-7187** Host Says a Foreign-Actor Inquiry Would Have Shifted Into Gabbard's Office
 
 Claim Timestamp: 00:29:05
 
@@ -1600,7 +1600,7 @@ Investigative Direction: Check ODNI and NCTC organizational reporting lines and 
 
 ---
 
-**C-14411** Host Says Sanders Signed the Proclamation on Behalf of Club America
+**C-7188** Host Says Sanders Signed the Proclamation on Behalf of Club America
 
 Claim Timestamp: 00:29:49
 
@@ -1611,13 +1611,13 @@ Transcript Snippet: Sarah Huckabee Sanders was signing the proclamation on behal
 Anchored Artifacts: 
 Mentions: N-581, N-2
 Related Nodes: N-10533
-Supports: C-2457, C-2522
+Supports: C-6996, C-7192
 Tags: relevance:context
 Investigative Direction: Obtain the signed Arkansas proclamation and the governor's schedule for the event.
 
 ---
 
-**C-14412** Host Says Chapter President Has Been With TPUSA Over 5 Years
+**C-7193** Host Says Chapter President Has Been With TPUSA Over 5 Years
 
 Claim Timestamp: 00:31:39
 
@@ -1633,7 +1633,7 @@ Investigative Direction: Check chapter records and Fantegrossi's public history 
 
 ---
 
-**C-14413** Host Says TPUSA Staff Including One in Kolvet's Office Say Something Has Changed
+**C-7194** Host Says TPUSA Staff Including One in Kolvet's Office Say Something Has Changed
 
 Claim Timestamp: 00:31:39
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Identify the staffer through the host's source network;
 
 ---
 
-**C-14414** Fantegrossi Letter Says Grievances Will Be Raised Privately With TPUSA
+**C-7197** Fantegrossi Letter Says Grievances Will Be Raised Privately With TPUSA
 
 Claim Timestamp: 00:32:20
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Verify the text against Fantegrossi's Instagram post an
 
 ---
 
-**C-14415** Fantegrossi Letter Says Others Are Speaking for Charlie Who Cannot
+**C-7198** Fantegrossi Letter Says Others Are Speaking for Charlie Who Cannot
 
 Claim Timestamp: 00:32:20
 
@@ -1676,13 +1676,13 @@ Transcript Snippet: Charlie Kirk cannot speak for himself anymore and we do not 
 Anchored Artifacts: A-1870.1
 Mentions: N-940, N-1
 Related Nodes: N-10545
-Supports: C-2510
+Supports: C-7196
 Tags: relevance:context
 Investigative Direction: Verify the text against Fantegrossi's Instagram post.
 
 ---
 
-**C-14416** Host Says Kirk Held the July Sit-Down to Show Donors Students' Views
+**C-7199** Host Says Kirk Held the July Sit-Down to Show Donors Students' Views
 
 Claim Timestamp: 00:32:20
 
@@ -1698,7 +1698,7 @@ Investigative Direction: Identify the event, date and organizer of the July 2025
 
 ---
 
-**C-14417** Student in Kirk Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths
+**C-7203** Student in Kirk Clip Says Foreign Aid Is Insulting Given Cartels and Overdose Deaths
 
 Claim Timestamp: 00:34:22
 
@@ -1709,13 +1709,13 @@ Transcript Snippet: And it's insulting that that money goes anywhere else becaus
 Anchored Artifacts: A-1871.1
 Mentions: N-940, N-1
 Related Nodes: N-10545
-Supports: C-2523, C-2524
+Supports: C-7201, C-7202
 Tags: relevance:context
 Investigative Direction: Verify the quote and the dollar figures exchanged in the original recording.
 
 ---
 
-**C-14418** Host Says Fantegrossi Appeared on the Charlie Kirk Show After the Assassination
+**C-7204** Host Says Fantegrossi Appeared on the Charlie Kirk Show After the Assassination
 
 Claim Timestamp: 00:34:22
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Check Charlie Kirk Show episode listings for Fantegross
 
 ---
 
-**C-14419** Host Says TPUSA Will Not Help the Public Investigate Even on Non-Case-Changing Questions
+**C-7205** Host Says TPUSA Will Not Help the Public Investigate Even on Non-Case-Changing Questions
 
 Claim Timestamp: 00:35:04
 
@@ -1746,7 +1746,7 @@ Investigative Direction: List the specific questions put to TPUSA and its respon
 
 ---
 
-**C-14420** Host Says No One Can Explain Why Tapes Were Removed
+**C-7206** Host Says No One Can Explain Why Tapes Were Removed
 
 Claim Timestamp: 00:35:04
 
@@ -1761,7 +1761,7 @@ Investigative Direction: Identify which tapes the host means (the transcript doe
 
 ---
 
-**C-14421** Host Says Employees Are Fired for Asking Simple Questions
+**C-7207** Host Says Employees Are Fired for Asking Simple Questions
 
 Claim Timestamp: 00:36:41
 
@@ -1777,7 +1777,7 @@ Investigative Direction: Identify the fired employees through the host's sources
 
 ---
 
-**C-14422** Host Says Series Is Paused for Research Into Renee Crossman's Cult
+**C-7208** Host Says Series Is Paused for Research Into Renee Crossman's Cult
 
 Claim Timestamp: 00:36:41
 
@@ -1788,13 +1788,13 @@ Transcript Snippet: the reason why we need to pause the series is because learni
 Anchored Artifacts: 
 Mentions: N-583, N-2, N-3
 Related Nodes: N-10534, N-11396
-Supports: C-2470
+Supports: C-7003
 Tags: relevance:context
 Investigative Direction: Review the Romanian reporting on Crossman and the host's resulting episodes.
 
 ---
 
-**C-14423** Host Names the Cult as The Family International, Formerly Children of God
+**C-7209** Host Names the Cult as The Family International, Formerly Children of God
 
 Claim Timestamp: 00:36:41
 
@@ -1805,13 +1805,13 @@ Transcript Snippet: The Family International. Think like the Charles Manson, lik
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11396, N-10534
-Supports: C-2470
+Supports: C-7003
 Tags: relevance:context
 Investigative Direction: Confirm the Family International and Children of God name history from independent sources.
 
 ---
 
-**C-14424** Host Says She Has Contacted Ex-Family Members
+**C-7210** Host Says She Has Contacted Ex-Family Members
 
 Claim Timestamp: 00:36:41
 
@@ -1827,7 +1827,7 @@ Investigative Direction: Ask the host to identify the former members she spoke w
 
 ---
 
-**C-14425** Host Says Ex-Members Call It Plausible That Erika Was Raised in the Group
+**C-7211** Host Says Ex-Members Call It Plausible That Erika Was Raised in the Group
 
 Claim Timestamp: 00:37:47
 
@@ -1843,7 +1843,7 @@ Investigative Direction: Compare with any public record of Erika Kirk's upbringi
 
 ---
 
-**C-14426** Host Says the Family International Rebranded and Is Connected to Epstein
+**C-7212** Host Says the Family International Rebranded and Is Connected to Epstein
 
 Claim Timestamp: 00:37:47
 
@@ -1859,7 +1859,7 @@ Investigative Direction: Look for documented links between the Family Internatio
 
 ---
 
-**C-14427** Host Says an X Account Shared Audio That Is Not Erika and Her Team Did Not Share It
+**C-7213** Host Says an X Account Shared Audio That Is Not Erika and Her Team Did Not Share It
 
 Claim Timestamp: 00:38:54
 
@@ -1874,7 +1874,7 @@ Investigative Direction: Identify the X account and the audio, and check whether
 
 ---
 
-**C-14428** Host Says She Sat Down With Erika and Found No Further Evidence
+**C-7214** Host Says She Sat Down With Erika and Found No Further Evidence
 
 Claim Timestamp: 00:40:16
 
@@ -1884,13 +1884,13 @@ Transcript Snippet: I sat down with her, okay? I actually sat down with her and 
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Supports: C-11117
+Supports: C-5439
 Tags: relevance:core
 Investigative Direction: Compare with the full interview and the host's earlier accounts of the meeting.
 
 ---
 
-**C-14429** Host Says Erika Works With Harvest Church Being Sued Over Romanian Children
+**C-7215** Host Says Erika Works With Harvest Church Being Sued Over Romanian Children
 
 Claim Timestamp: 00:41:07
 
@@ -1901,13 +1901,13 @@ Transcript Snippet: it's fine that Erika's working uh with Harvest Church and th
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-11340, N-10411
-Supports: C-2087, C-12566
+Supports: C-5042, C-5040
 Tags: relevance:core
 Investigative Direction: Pull the lawsuit dockets against Harvest Christian Fellowship and Erika Kirk's Harvest event commitments.
 
 ---
 
-**C-14430** Host Says Patel Said No Evidence of Any Sex Trafficking in the Epstein Matter
+**C-7216** Host Says Patel Said No Evidence of Any Sex Trafficking in the Epstein Matter
 
 Claim Timestamp: 00:43:59
 
@@ -1923,7 +1923,7 @@ Investigative Direction: Find Patel's actual statement on Epstein and sex traffi
 
 ---
 
-**C-14431** Host Says Some People Think Netanyahu Might Be Dead
+**C-7217** Host Says Some People Think Netanyahu Might Be Dead
 
 Claim Timestamp: 00:45:51
 
@@ -1939,7 +1939,7 @@ Investigative Direction: Check official Israeli government schedules and stateme
 
 ---
 
-**C-14432** Host Says Netanyahu Made a Verified March 10 Health Command Center Visit
+**C-7218** Host Says Netanyahu Made a Verified March 10 Health Command Center Visit
 
 Claim Timestamp: 00:45:51
 
@@ -1955,7 +1955,7 @@ Investigative Direction: Match the clip against official Israeli government rele
 
 ---
 
-**C-14433** Host Says a Rumor Had Netanyahu Hit by an Iranian Missile March 10 or 11
+**C-7219** Host Says a Rumor Had Netanyahu Hit by an Iranian Missile March 10 or 11
 
 Claim Timestamp: 00:46:37
 
@@ -1971,7 +1971,7 @@ Investigative Direction: Trace the origin of the rumor and compare with Israeli 
 
 ---
 
-**C-14434** Host Says Bessent Was Pulled Into a Two-Hour Situation Room Session on the 12th
+**C-7221** Host Says Bessent Was Pulled Into a Two-Hour Situation Room Session on the 12th
 
 Claim Timestamp: 00:47:24
 
@@ -1982,13 +1982,13 @@ Transcript Snippet: Very strange two-hour situation room gets pulled in again th
 Anchored Artifacts: A-1873.1
 Mentions: N-599
 Related Nodes: N-10544
-Supports: C-2512
+Supports: C-7220
 Tags: relevance:tangential
 Investigative Direction: Check White House schedules for the Situation Room meeting length and attendees on March 12.
 
 ---
 
-**C-14435** Host Says Airports Closed for About 2 Hours 20 Minutes Citing a Potomac Odor
+**C-7225** Host Says Airports Closed for About 2 Hours 20 Minutes Citing a Potomac Odor
 
 Claim Timestamp: 00:48:48
 
@@ -1998,13 +1998,13 @@ Transcript Snippet: cuz there was a strong odor coming from the Potomac River. W
 
 Anchored Artifacts: A-1874.1
 Related Nodes: N-10544
-Supports: C-2514, C-2515
+Supports: C-7223, C-7224
 Tags: relevance:tangential
 Investigative Direction: Check FAA ground stop logs and airport authority statements for the stated cause and duration.
 
 ---
 
-**C-14436** Host Says People Saw Six Fingers in the March 14 Netanyahu Video
+**C-7226** Host Says People Saw Six Fingers in the March 14 Netanyahu Video
 
 Claim Timestamp: 00:48:48
 
@@ -2015,13 +2015,13 @@ Transcript Snippet: people thought that they saw six fingers some people dispute
 Anchored Artifacts: A-1875.1
 Mentions: N-36
 Related Nodes: N-10544
-Supports: C-2516
+Supports: C-7227
 Tags: relevance:tangential
 Investigative Direction: Run frame-level forensic analysis of the posted video.
 
 ---
 
-**C-14437** Host Says She Thinks Netanyahu May Be Injured
+**C-7230** Host Says She Thinks Netanyahu May Be Injured
 
 Claim Timestamp: 00:51:08
 
@@ -2037,7 +2037,7 @@ Investigative Direction: Compare with verifiable public appearances of Netanyahu
 
 ---
 
-**C-14438** Netanyahu in Huckabee Video Says He Erased Two Names on a Punch Card
+**C-7233** Netanyahu in Huckabee Video Says He Erased Two Names on a Punch Card
 
 Claim Timestamp: 00:52:32
 
@@ -2053,7 +2053,7 @@ Investigative Direction: Check the original video from Netanyahu's account and t
 
 ---
 
-**C-14439** Netanyahu in Huckabee Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons
+**C-7234** Netanyahu in Huckabee Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons
 
 Claim Timestamp: 00:53:23
 
@@ -2069,7 +2069,7 @@ Investigative Direction: Verify wording against the original video.
 
 ---
 
-**C-14440** Host Says Netanyahu Was Reportedly at an Air Force Base Greeting People
+**C-7235** Host Says Netanyahu Was Reportedly at an Air Force Base Greeting People
 
 Claim Timestamp: 00:54:12
 
@@ -2085,7 +2085,7 @@ Investigative Direction: Check Israeli government releases for any air base visi
 
 ---
 
-**C-14441** Host Says Bought Emails Hit a Catholic Conference and No Protesters Came
+**C-7236** Host Says Bought Emails Hit a Catholic Conference and No Protesters Came
 
 Claim Timestamp: 00:58:40
 
@@ -2100,7 +2100,7 @@ Investigative Direction: Ask the conference organizers about the emails and secu
 
 ---
 
-**C-14442** Host Says Megyn Kelly Would Be Stalked Wherever She Speaks
+**C-7237** Host Says Megyn Kelly Would Be Stalked Wherever She Speaks
 
 Claim Timestamp: 00:59:21
 
@@ -2116,7 +2116,7 @@ Investigative Direction: Identify specific calls or cancellations tied to Kelly 
 
 ---
 
-**C-14443** Host Says She and Megyn Kelly Disagree on Erika Kirk
+**C-7238** Host Says She and Megyn Kelly Disagree on Erika Kirk
 
 Claim Timestamp: 00:59:59
 
@@ -2132,7 +2132,7 @@ Investigative Direction: Compare with Kelly's public statements on Erika Kirk.
 
 ---
 
-**C-14444** Host Says She Painted Israelis With a Broad Stroke and Accepts the Correction
+**C-7239** Host Says She Painted Israelis With a Broad Stroke and Accepts the Correction
 
 Claim Timestamp: 01:00:35
 
@@ -2147,7 +2147,7 @@ Investigative Direction: Recorded as said; no external check needed.
 
 ---
 
-**C-14445** Host Says Iran's Foreign Minister Said Hormuz Is Closed Only for Zionists
+**C-7240** Host Says Iran's Foreign Minister Said Hormuz Is Closed Only for Zionists
 
 Claim Timestamp: 01:00:35
 
@@ -2162,7 +2162,7 @@ Investigative Direction: Find the Iranian foreign ministry statement of March 16
 
 ---
 
-**C-14446** Host Says Her Podcast Is Tied for Top of Global Charts at 3.2 Million Daily Downloads
+**C-7241** Host Says Her Podcast Is Tied for Top of Global Charts at 3.2 Million Daily Downloads
 
 Claim Timestamp: 01:01:37
 
@@ -2178,7 +2178,7 @@ Investigative Direction: Compare with Spotify, Apple and Podtrac chart data for 
 
 ---
 
-**C-14447** Host Says Huckabee Notoriously Supported Jonathan Pollard
+**C-7242** Host Says Huckabee Notoriously Supported Jonathan Pollard
 
 Claim Timestamp: 01:02:47
 
@@ -2193,7 +2193,7 @@ Investigative Direction: Check Huckabee's public statements on Pollard; the blac
 
 ---
 
-**C-14448** Host Says Netanyahu Has Said Rome Is a Problem
+**C-7243** Host Says Netanyahu Has Said Rome Is a Problem
 
 Claim Timestamp: 01:07:51
 
@@ -2208,7 +2208,7 @@ Investigative Direction: Find the Netanyahu statement the host means; none is ci
 
 ---
 
-**C-14449** Host Says Some Read Charlie Not Being Blessed as Punishment for Not Blessing Israel
+**C-7244** Host Says Some Read Charlie Not Being Blessed as Punishment for Not Blessing Israel
 
 Claim Timestamp: 01:08:45
 
@@ -2405,7 +2405,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** Assertion that Tulsi Gabbard's office was the locus Kent was working in – host narration only.
 - **Transcript ambiguity:** "Erika" spelling used throughout episode for Erika Kirk – preserved as "Erika Kirk" per existing node convention (N-2).
 - **Transcript ambiguity:** Yair Netanyahu "7 days" silence claim is host-asserted based on pattern observation; no artifact shown.
-- **Claim failed admission test:** Multiple claims were considered and excluded for lacking artifact anchors, including: "Joe Kent was about to be fired" (when considered as host assertion rather than Mark Levin's – see C-2501 for the artifact-anchored version); Harvest Church sex-trafficking lawsuit allegations against Erika Kirk partners; Renee Crossman / Family International / Children of God cult allegations.
+- **Claim failed admission test:** Multiple claims were considered and excluded for lacking artifact anchors, including: "Joe Kent was about to be fired" (when considered as host assertion rather than Mark Levin's – see C-7169 for the artifact-anchored version); Harvest Church sex-trafficking lawsuit allegations against Erika Kirk partners; Renee Crossman / Family International / Children of God cult allegations.
 - **Possible transcription error:** "Blake Neff" and "Mikey McCoy" referenced as TPUSA staff without further context – preserved as transcribed.
 - **Possible transcription error:** "Renee Crossman" – referenced as Erika's Romanian partner; full identity not documented.
 

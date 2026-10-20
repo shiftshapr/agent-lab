@@ -31,8 +31,8 @@
           "ref": "A-1077.1",
           "description": "Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.",
           "related_claims": [
-            "C-1115",
-            "C-1116"
+            "C-24",
+            "C-26"
           ],
           "related_nodes": [
             "N-1",
@@ -51,7 +51,7 @@
           "ref": "A-1077.2",
           "description": "Road trip audio/video from North/South Carolina during hurricane-driven 8-hour drive to DC.",
           "related_claims": [
-            "C-1117"
+            "C-28"
           ],
           "related_nodes": [
             "N-1",
@@ -69,7 +69,7 @@
           "ref": "A-1077.3",
           "description": "Video of Charlie Kirk being chased out of a Philadelphia restaurant by Antifa; water and egg thrown.",
           "related_claims": [
-            "C-1118"
+            "C-37"
           ],
           "related_nodes": [
             "N-1",
@@ -111,7 +111,7 @@
           "ref": "A-1078.1",
           "description": "Photo of Charlie Kirk wearing Yeezys given to him by Kanye West.",
           "related_claims": [
-            "C-1115"
+            "C-24"
           ],
           "related_nodes": [
             "N-1",
@@ -153,7 +153,7 @@
           "ref": "A-1079.2",
           "description": "Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.",
           "related_claims": [
-            "C-1119"
+            "C-42"
           ],
           "related_nodes": [
             "N-1",
@@ -172,7 +172,7 @@
           "ref": "A-1079.3",
           "description": "Text chain joking about convincing Erika Frantzve to take the Kirk last name as a 'practical decision'.",
           "related_claims": [
-            "C-1120"
+            "C-45"
           ],
           "related_nodes": [
             "N-1",
@@ -199,7 +199,7 @@
           "ref": "A-1080.1",
           "description": "Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.",
           "related_claims": [
-            "C-1121"
+            "C-22"
           ],
           "related_nodes": [
             "N-1",
@@ -219,7 +219,7 @@
           "ref": "A-1080.2",
           "description": "Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.",
           "related_claims": [
-            "C-1123"
+            "C-34"
           ],
           "related_nodes": [
             "N-1",
@@ -250,7 +250,7 @@
           "ref": "A-2514.1",
           "description": "Host anecdote that Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3719"
+            "C-18"
           ],
           "related_nodes": [
             "N-1",
@@ -276,7 +276,7 @@
           "ref": "A-3264.1",
           "description": "Host verbal reference to a text in which she told Charlie her goal was 50,000 Instagram followers by the end of the year (read from memory of messages, not shown)",
           "related_claims": [
-            "C-13455"
+            "C-12"
           ],
           "related_nodes": [
             "N-3",
@@ -302,7 +302,7 @@
           "ref": "A-3265.1",
           "description": "Host verbal reference to a text from Charlie saying a Kanye song was his new favorite (not shown)",
           "related_claims": [
-            "C-13463"
+            "C-21"
           ],
           "related_nodes": [
             "N-3",
@@ -329,7 +329,7 @@
           "ref": "A-3266.1",
           "description": "Host verbal reference to Kanye West's tweet saying he loves the way Candace Owens thinks (not shown)",
           "related_claims": [
-            "C-13464"
+            "C-23"
           ],
           "related_nodes": [
             "N-3",
@@ -364,14 +364,14 @@
         "A-1079.3"
       ],
       "related_claims": [
-        "C-1115",
-        "C-1116",
-        "C-1117",
-        "C-1118",
-        "C-1119",
-        "C-1120",
-        "C-1121",
-        "C-1122"
+        "C-24",
+        "C-26",
+        "C-28",
+        "C-37",
+        "C-42",
+        "C-45",
+        "C-22",
+        "C-7"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -396,13 +396,13 @@
         "A-1079.3"
       ],
       "related_claims": [
-        "C-1115",
-        "C-1117",
-        "C-1118",
-        "C-1119",
-        "C-1120",
-        "C-1121",
-        "C-1122"
+        "C-24",
+        "C-28",
+        "C-37",
+        "C-42",
+        "C-45",
+        "C-22",
+        "C-7"
       ],
       "tags": [],
       "evidence_count": 7,
@@ -421,7 +421,7 @@
         "A-1079.2"
       ],
       "related_claims": [
-        "C-1119"
+        "C-42"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -441,7 +441,7 @@
         "A-1079.3"
       ],
       "related_claims": [
-        "C-1120"
+        "C-45"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -462,7 +462,7 @@
         "A-1080.1"
       ],
       "related_claims": [
-        "C-1115"
+        "C-24"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -483,7 +483,7 @@
         "A-1080.1"
       ],
       "related_claims": [
-        "C-1115"
+        "C-24"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -504,7 +504,7 @@
         "A-1080.1"
       ],
       "related_claims": [
-        "C-1115"
+        "C-24"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -523,7 +523,7 @@
         "A-2514.1"
       ],
       "related_claims": [
-        "C-3719"
+        "C-18"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -545,9 +545,9 @@
         "A-1080.1"
       ],
       "related_claims": [
-        "C-1115",
-        "C-1116",
-        "C-1121"
+        "C-24",
+        "C-26",
+        "C-22"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -569,8 +569,8 @@
         "A-1080.2"
       ],
       "related_claims": [
-        "C-1115",
-        "C-1123"
+        "C-24",
+        "C-34"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -592,8 +592,8 @@
         "A-1080.2"
       ],
       "related_claims": [
-        "C-1115",
-        "C-1123"
+        "C-24",
+        "C-34"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -633,8 +633,8 @@
         "A-1079.3"
       ],
       "related_claims": [
-        "C-1119",
-        "C-1120"
+        "C-42",
+        "C-45"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -655,9 +655,9 @@
         "A-1080.1"
       ],
       "related_claims": [
-        "C-1115",
-        "C-1116",
-        "C-1121"
+        "C-24",
+        "C-26",
+        "C-22"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -691,7 +691,7 @@
       "description": "Founded by Charlie Kirk; current 501(c)(3); described as the biggest conservative student organization in the world per host.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1122"
+        "C-7"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -709,7 +709,7 @@
       "description": "Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1124"
+        "C-9"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -727,7 +727,7 @@
       "description": "Charlie Kirk at age 23 told Candace he planned to take control of the RNC.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1122"
+        "C-7"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -747,8 +747,8 @@
         "A-1080.2"
       ],
       "related_claims": [
-        "C-1123",
-        "C-1124"
+        "C-34",
+        "C-9"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -769,7 +769,7 @@
         "A-1077.3"
       ],
       "related_claims": [
-        "C-1118"
+        "C-37"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -787,7 +787,7 @@
       "description": "Site of first planning session between Charlie and Candace at Macaroni Grill restaurant.",
       "related_artifacts": [],
       "related_claims": [
-        "C-1122"
+        "C-7"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -805,7 +805,7 @@
       "description": "Named by the host as the caller about Brigitte Macron for whom Charlie Kirk was the intermediary.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13483"
+        "C-49"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -822,7 +822,7 @@
       "description": "The subject of the call the host says Trump made through Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13483"
+        "C-49"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -839,9 +839,9 @@
       "description": "The host says she and Charlie travelled there, and that her position on Israel did not end their friendship.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13467",
-        "C-13485",
-        "C-13486"
+        "C-29",
+        "C-51",
+        "C-52"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -858,7 +858,7 @@
       "description": "The movement the host says she started with Charlie by her side.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13476"
+        "C-40"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -875,7 +875,7 @@
       "description": "Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13468"
+        "C-30"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -892,8 +892,8 @@
       "description": "The host says young women at Turning Point threatened to quit, and some quit, over her 2018 Me Too comments.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13470",
-        "C-13471"
+        "C-32",
+        "C-33"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -910,8 +910,8 @@
       "description": "The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13483",
-        "C-13484"
+        "C-49",
+        "C-50"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -923,8 +923,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1115",
-      "ref": "C-1115",
+      "@id": "C-24",
+      "ref": "C-24",
       "label": "Kanye tweet about Candace was celebrated backstage",
       "claim": "Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.",
       "anchored_artifacts": [
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1116",
-      "ref": "C-1116",
+      "@id": "C-26",
+      "ref": "C-26",
       "label": "Charlie's relationship with Kanye included gift of Yeezys",
       "claim": "The host says Kanye West gave Charlie Kirk a pair of Yeezys and shows a photo of Charlie wearing them.",
       "anchored_artifacts": [
@@ -974,8 +974,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1117",
-      "ref": "C-1117",
+      "@id": "C-28",
+      "ref": "C-28",
       "label": "Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane",
       "claim": "The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina.",
       "anchored_artifacts": [
@@ -996,8 +996,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1123",
-      "ref": "C-1123",
+      "@id": "C-34",
+      "ref": "C-34",
       "label": "YWLS conference reporters pressed Candace during 'him too' controversy",
       "claim": "The host says that while the YWLS conference ran at the same time as the 'him too' backlash, reporters who already hated them swooped in asking whether Charlie supported her statements, and that, with her standing behind Charlie and Andrew Kolvet, Charlie held the line.",
       "anchored_artifacts": [
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1124",
-      "ref": "C-1124",
+      "@id": "C-9",
+      "ref": "C-9",
       "label": "Charlie's 'never say no to Fox News' media rule",
       "claim": "The host says Charlie Kirk's rule was never to say no to Fox News, and that they did as many as four Fox hits a day, up at 4:00 a.m. for 'Fox and Friends First.'",
       "anchored_artifacts": [],
@@ -1043,8 +1043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1118",
-      "ref": "C-1118",
+      "@id": "C-37",
+      "ref": "C-37",
       "label": "Charlie was egged by Antifa at a Philadelphia restaurant",
       "claim": "The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment.",
       "anchored_artifacts": [
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1119",
-      "ref": "C-1119",
+      "@id": "C-42",
+      "ref": "C-42",
       "label": "Charlie Approved of George After One Evening",
       "claim": "After a single evening with George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.",
       "anchored_artifacts": [
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1120",
-      "ref": "C-1120",
+      "@id": "C-45",
+      "ref": "C-45",
       "label": "Candace joked Erika should marry Charlie for the last name upgrade",
       "claim": "The host says she joked that Erika Frantzve should marry Charlie Kirk because 'Mrs. Erika Kirk' sounds better than 'Frantzve,' and a shown text exchange between Charlie and Candace says her last name is 'dumb' and 'Marry me. It's a logistics thing.'",
       "anchored_artifacts": [
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1121",
-      "ref": "C-1121",
+      "@id": "C-22",
+      "ref": "C-22",
       "label": "Host Says Kanye's Power Was the TPUSA Tour Hype Song",
       "claim": "The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before they went on stage.",
       "anchored_artifacts": [
@@ -1135,8 +1135,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1122",
-      "ref": "C-1122",
+      "@id": "C-7",
+      "ref": "C-7",
       "label": "Charlie intended to take over the RNC at age 23",
       "claim": "At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planning session that he planned to take over the RNC.",
       "anchored_artifacts": [],
@@ -1160,8 +1160,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3719",
-      "ref": "C-3719",
+      "@id": "C-18",
+      "ref": "C-18",
       "label": "Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate",
       "claim": "The host recounts that Don Jr., and she thinks Eric Trump, teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.",
       "anchored_artifacts": [
@@ -1181,8 +1181,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13446",
-      "ref": "C-13446",
+      "@id": "C-1",
+      "ref": "C-1",
       "label": "Host Says 150,000 Watched and the Stream Crashed",
       "claim": "The host says 150,000 viewers were watching her Charlie Kirk tribute broadcast and that the system crashed.",
       "anchored_artifacts": [],
@@ -1200,8 +1200,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13447",
-      "ref": "C-13447",
+      "@id": "C-2",
+      "ref": "C-2",
       "label": "Host Says She Did Not Want the Moment of His Death to Be the Last Image of Charlie",
       "claim": "The host says she held this tribute because she did not want the last thing people had in mind about Charlie Kirk to be the moment he lost his life.",
       "anchored_artifacts": [],
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13448",
-      "ref": "C-13448",
+      "@id": "C-3",
+      "ref": "C-3",
       "label": "Host Says She Met Charlie in 2017 When TPUSA Was Very Young",
       "claim": "The host says she met Charlie Kirk in 2017, when Turning Point USA was a very young organization and nobody knew who she or Charlie was.",
       "anchored_artifacts": [],
@@ -1242,8 +1242,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13449",
-      "ref": "C-13449",
+      "@id": "C-4",
+      "ref": "C-4",
       "label": "Host Says Charlie Hired Her on the Spot at a Florida Conference",
       "claim": "The host says Charlie Kirk hired her on the spot at a conference in Florida.",
       "anchored_artifacts": [],
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13450",
-      "ref": "C-13450",
+      "@id": "C-5",
+      "ref": "C-5",
       "label": "Host Says Their First Planning Session Was at the Chicago O'Hare Macaroni Grill",
       "claim": "The host says their first planning session on their first trip together took place at a Macaroni Grill restaurant in Chicago O'Hare airport, where Charlie drew on a paper menu a map of what Turning Point would become.",
       "anchored_artifacts": [],
@@ -1279,7 +1279,7 @@
       "investigative_direction": "Travel records of that first trip would place both at O'Hare; the menu itself is not shown.",
       "transcript_snippet": "He flips over this little paper menu as we're waiting for our flight.",
       "supports_claim_refs": [
-        "C-1122"
+        "C-7"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1288,8 +1288,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13451",
-      "ref": "C-13451",
+      "@id": "C-6",
+      "ref": "C-6",
       "label": "Host Says Charlie Wrote That TPUSA Was a 501(c)(3) at the Time",
       "claim": "The host says that on the menu Charlie wrote that Turning Point's structure was then a 501(c)(3), alongside his aim for it to become the biggest conservative student organization in the world.",
       "anchored_artifacts": [],
@@ -1309,8 +1309,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13452",
-      "ref": "C-13452",
+      "@id": "C-8",
+      "ref": "C-8",
       "label": "Host Says Charlie Adored Rush Limbaugh and Wanted a Show Like His",
       "claim": "The host says the person Charlie adored most was Rush Limbaugh, that Charlie was raised on Limbaugh's show, and that she thinks his ultimate goal was to have a show like it, which she says happened.",
       "anchored_artifacts": [],
@@ -1329,8 +1329,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13453",
-      "ref": "C-13453",
+      "@id": "C-10",
+      "ref": "C-10",
       "label": "Host Says Her Rule Was That the Team Should Not Drink",
       "claim": "The host says her rule was that she and Charlie should not drink, and that they did not drink, because everybody in politics is drinking and she considered it a disadvantage.",
       "anchored_artifacts": [],
@@ -1348,8 +1348,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13454",
-      "ref": "C-13454",
+      "@id": "C-11",
+      "ref": "C-11",
       "label": "Host Says Charlie's Motto Was They Could Always Outwork Their Opponents",
       "claim": "The host says Charlie's motto, which she says came directly from him, was that they could always outwork their opponents.",
       "anchored_artifacts": [],
@@ -1367,8 +1367,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13455",
-      "ref": "C-13455",
+      "@id": "C-12",
+      "ref": "C-12",
       "label": "Host Says She Told Charlie Her Goal Was 50,000 Instagram Followers",
       "claim": "The host says that going through her text messages the day before she found one in which she told Charlie her goal was 50,000 Instagram followers by the end of the year.",
       "anchored_artifacts": [
@@ -1388,8 +1388,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13456",
-      "ref": "C-13456",
+      "@id": "C-13",
+      "ref": "C-13",
       "label": "Host Says Charlie Was Already Running a California Campus Tour When He Hired Her",
       "claim": "The host says that after Charlie hired her he had been working hard on a campus tour throughout California, which he called the big three: UCLA, Stanford and Berkeley.",
       "anchored_artifacts": [],
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13457",
-      "ref": "C-13457",
+      "@id": "C-14",
+      "ref": "C-14",
       "label": "Host Says a Bigger Name Messaged That They Would Not Share the Stage With the New Girl",
       "claim": "The host says she saw messages light up on Charlie's phone from a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.",
       "anchored_artifacts": [],
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13458",
-      "ref": "C-13458",
+      "@id": "C-15",
+      "ref": "C-15",
       "label": "Host Says Charlie Chose to Do the Event Without the Headliner Rather Than Drop Her",
       "claim": "The host says Charlie decided against the easy choice and said that if the headliner did not want to do the event with Candace, they would not do the event with them and that he and Candace would do it alone.",
       "anchored_artifacts": [],
@@ -1447,8 +1447,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13459",
-      "ref": "C-13459",
+      "@id": "C-16",
+      "ref": "C-16",
       "label": "Host Says Dave Rubin Joined That Event",
       "claim": "The host says she thinks Dave Rubin hopped on for that particular event after Charlie and she went at it alone.",
       "anchored_artifacts": [],
@@ -1467,8 +1467,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13460",
-      "ref": "C-13460",
+      "@id": "C-17",
+      "ref": "C-17",
       "label": "Host Says She and Charlie Flew Around the World for Two Years on Hundreds of Flights",
       "claim": "The host says that for two years straight she and Charlie flew around the world together, taking hundreds of flights.",
       "anchored_artifacts": [],
@@ -1486,8 +1486,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13461",
-      "ref": "C-13461",
+      "@id": "C-19",
+      "ref": "C-19",
       "label": "Host Says Charlie Was Frugal and Aware His Salary Came From Donors",
       "claim": "The host says Don Jr., and she thinks Eric Trump, told Charlie they knew he was very frugal and aware that his salary came from donors, and that Charlie wanted to be a good steward of the donors' capital.",
       "anchored_artifacts": [],
@@ -1499,7 +1499,7 @@
       "investigative_direction": "Charlie Kirk's reported TPUSA compensation in public filings would test the frugality account.",
       "transcript_snippet": "they're like, you know, Charlie, I know you're very frugal. We know that you're very aware that your salary comes from donors.",
       "supports_claim_refs": [
-        "C-3719"
+        "C-18"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13462",
-      "ref": "C-13462",
+      "@id": "C-20",
+      "ref": "C-20",
       "label": "Host Says Charlie Took Up Running 10 Miles a Day After Getting Into Kanye",
       "claim": "The host says that after she introduced Charlie to Kanye West's music he began running 10 miles a day and texting her about it.",
       "anchored_artifacts": [],
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13463",
-      "ref": "C-13463",
+      "@id": "C-21",
+      "ref": "C-21",
       "label": "Host Says Charlie Texted That Power Was His New Favorite Song",
       "claim": "The host says there is a text in which Charlie wrote that Kanye's song was his new favorite song, which she says became the tour's hype song.",
       "anchored_artifacts": [
@@ -1547,7 +1547,7 @@
       "investigative_direction": "The text itself would confirm Charlie's wording and date.",
       "transcript_snippet": "He's like, \"Yes, it's my new f it's my new favorite song.\" And he he just loved it.",
       "supports_claim_refs": [
-        "C-1121"
+        "C-22"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13464",
-      "ref": "C-13464",
+      "@id": "C-23",
+      "ref": "C-23",
       "label": "Host Says Kanye Tweeted That He Loved the Way Candace Owens Thinks",
       "claim": "The host says that a couple of months after they started listening to Kanye's old albums on repeat, Kanye West tweeted \"I love the way Candace Owens thinks\".",
       "anchored_artifacts": [
@@ -1574,7 +1574,7 @@
       "investigative_direction": "Kanye West's archived tweets would date the post; the draft's Event Timestamp for the backstage clip says May 2022.",
       "transcript_snippet": "Suddenly, Kanye West tweets, \"I love the way Candace Owens thinks.\" The excitement. Okay,",
       "supports_claim_refs": [
-        "C-1115"
+        "C-24"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1584,8 +1584,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13465",
-      "ref": "C-13465",
+      "@id": "C-25",
+      "ref": "C-25",
       "label": "Host Says Charlie Repeatedly Texted Her Photos Asking Whether He Looked Cool",
       "claim": "The host says Charlie often texted her a picture asking whether it looked cool, and describes a screen recording of them discussing a pair of sunglasses.",
       "anchored_artifacts": [
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13466",
-      "ref": "C-13466",
+      "@id": "C-27",
+      "ref": "C-27",
       "label": "Host Says Charlie Drilled Her on Debates by Playing a Protester",
       "claim": "The host says Charlie hammered her on debate preparation, told her to know opponents' arguments backward and forward, and pretended to be a protester or radical while she memorized statistics.",
       "anchored_artifacts": [],
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13467",
-      "ref": "C-13467",
+      "@id": "C-29",
+      "ref": "C-29",
       "label": "Host Says They Travelled to All 50 States, Canada, the UK and Israel",
       "claim": "The host says that she and Charlie went all 50 states, Canada, down to the border, the United Kingdom and Israel.",
       "anchored_artifacts": [],
@@ -1645,8 +1645,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13468",
-      "ref": "C-13468",
+      "@id": "C-30",
+      "ref": "C-30",
       "label": "Host Says They Printed a Justice for Brett Kavanaugh T-Shirt",
       "claim": "The host says they were always printing new T-shirts and names a Justice for Brett Kavanaugh shirt among them.",
       "anchored_artifacts": [],
@@ -1665,8 +1665,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13469",
-      "ref": "C-13469",
+      "@id": "C-31",
+      "ref": "C-31",
       "label": "Host Says She Immediately Called the Me Too Movement Awful",
       "claim": "The host says that when the Me Too hashtag started going viral and people were emotional she immediately said Me Too was awful, terrible for women and for men, and that people attacked her for saying due process was needed.",
       "anchored_artifacts": [],
@@ -1686,8 +1686,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13470",
-      "ref": "C-13470",
+      "@id": "C-32",
+      "ref": "C-32",
       "label": "Host Says Young Women at TPUSA Threatened to Quit Over Her Statements",
       "claim": "The host says young women working at Turning Point were threatening to quit and crying in the office over her Me Too comments.",
       "anchored_artifacts": [],
@@ -1708,8 +1708,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13471",
-      "ref": "C-13471",
+      "@id": "C-33",
+      "ref": "C-33",
       "label": "Host Says Some of the Young Women Did Quit",
       "claim": "The host says that some of the young women at Turning Point who objected to her Me Too stance did quit.",
       "anchored_artifacts": [],
@@ -1730,8 +1730,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13472",
-      "ref": "C-13472",
+      "@id": "C-35",
+      "ref": "C-35",
       "label": "Host Says People Demanded Charlie Fire Her and He Refused",
       "claim": "The host says that people demanded Charlie fire her over her Me Too statements and that he did not, because he agreed with her and held the line.",
       "anchored_artifacts": [],
@@ -1743,7 +1743,7 @@
       "investigative_direction": "Press coverage of calls for her dismissal in 2018 and any TPUSA statement would test the account.",
       "transcript_snippet": "People, you've got to fire her. How could she say this? And he didn't.",
       "supports_claim_refs": [
-        "C-1123"
+        "C-34"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1752,8 +1752,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13473",
-      "ref": "C-13473",
+      "@id": "C-36",
+      "ref": "C-36",
       "label": "Host Says She, Charlie and Sarah Played Kanye as Hype Music Before the Event",
       "claim": "The host says that before every such event, including the Him Too event, the prep was Kanye, and describes a clip of her, Charlie and Sarah, his assistant at the time, playing the hype music.",
       "anchored_artifacts": [
@@ -1769,7 +1769,7 @@
       "investigative_direction": "The clip shown would date the prep session; Sarah's surname is not given.",
       "transcript_snippet": "Just literally me, Charlie, and uh Sarah, who was his assistant at the time,",
       "supports_claim_refs": [
-        "C-1121"
+        "C-22"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1780,8 +1780,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13474",
-      "ref": "C-13474",
+      "@id": "C-38",
+      "ref": "C-38",
       "label": "Host Says Antifa Assembled Quickly After Learning Which Restaurant They Were At",
       "claim": "The host says they were amazed at how quickly the Antifa crowd had assembled once it found out which Philadelphia restaurant they were at.",
       "anchored_artifacts": [
@@ -1797,7 +1797,7 @@
       "investigative_direction": "News reports and restaurant staff accounts of the Philadelphia incident would test how the crowd learned the location.",
       "transcript_snippet": "We were just amazed at how quickly they had assembled once they found out what restaurant we were at.",
       "supports_claim_refs": [
-        "C-1118"
+        "C-37"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13475",
-      "ref": "C-13475",
+      "@id": "C-39",
+      "ref": "C-39",
       "label": "Clip Shows the Host and Charlie Bantering With a Protester Over a Sign",
       "claim": "In a clip the host plays of her sitting in front of a protester's sign, the line 'If you aren't wealthy, white and male, Charlie Kirk is not your friend' is spoken, after which the host and Charlie banter with the protester.",
       "anchored_artifacts": [
@@ -1827,8 +1827,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13476",
-      "ref": "C-13476",
+      "@id": "C-40",
+      "ref": "C-40",
       "label": "Host Says Charlie Was by Her Side When She Started Blexit",
       "claim": "The host says Charlie was right by her side when she started Blexit.",
       "anchored_artifacts": [],
@@ -1848,8 +1848,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13477",
-      "ref": "C-13477",
+      "@id": "C-41",
+      "ref": "C-41",
       "label": "Host Says Charlie Was There the Night She Met Her Husband in the UK",
       "claim": "The host says Charlie was present the night she met her husband, in the UK, and that it was an incredible night she did not expect.",
       "anchored_artifacts": [],
@@ -1861,7 +1861,7 @@
       "investigative_direction": "Event records for a Charlie Kirk and Candace Owens UK appearance would date the evening.",
       "transcript_snippet": "Um he was also there the night that I met my husband which was absolutely an incredible night and uh in the UK which I didn't expect to happen.",
       "supports_claim_refs": [
-        "C-1119"
+        "C-42"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1871,8 +1871,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13478",
-      "ref": "C-13478",
+      "@id": "C-43",
+      "ref": "C-43",
       "label": "Host Says Charlie Asked Whether Marrying George Would Be Good for Her Brand",
       "claim": "The host says that when she told Charlie she thought she would marry George he first asked whether it would be good for her brand, and that she answered it was love, not a brand decision.",
       "anchored_artifacts": [],
@@ -1891,8 +1891,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13479",
-      "ref": "C-13479",
+      "@id": "C-44",
+      "ref": "C-44",
       "label": "Host Says Charlie Was by Her Side the Day She Married George",
       "claim": "The host says Charlie was by her side the day that she married George.",
       "anchored_artifacts": [],
@@ -1911,8 +1911,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13480",
-      "ref": "C-13480",
+      "@id": "C-46",
+      "ref": "C-46",
       "label": "Host Says Charlie Texted That He and Erika Would Be the Power Couple of the Century",
       "claim": "The host reads a text from Charlie saying it is going to be the power couple of the century and that he needs to continue to pray about it, in the exchange about how he should pursue Erika.",
       "anchored_artifacts": [
@@ -1926,7 +1926,7 @@
       "investigative_direction": "The text chain itself, with dates, would show when Charlie wrote it relative to the Kirk and Frantzve wedding.",
       "transcript_snippet": "\"It's going to be the power couple of the century. I need to continue to pray about it.\"",
       "supports_claim_refs": [
-        "C-1120"
+        "C-45"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1936,8 +1936,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13481",
-      "ref": "C-13481",
+      "@id": "C-47",
+      "ref": "C-47",
       "label": "Host Says Charlie Really Loved Erika From the Texts She Reread",
       "claim": "The host says that in the texts she reread the day of the broadcast Charlie really loved Erika and loved his family.",
       "anchored_artifacts": [
@@ -1958,8 +1958,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13482",
-      "ref": "C-13482",
+      "@id": "C-48",
+      "ref": "C-48",
       "label": "Host Says She and Charlie Never Stopped Being Friends",
       "claim": "The host says that she and Charlie never for a single minute stopped being friends, even when the world demanded it from both of them.",
       "anchored_artifacts": [],
@@ -1979,8 +1979,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13483",
-      "ref": "C-13483",
+      "@id": "C-49",
+      "ref": "C-49",
       "label": "Host Says Charlie Was the Intermediary When Trump Called About Brigitte",
       "claim": "The host says that people guessed correctly that the intermediary when Trump called about Brigitte was Charlie Kirk, and confirms it was Charlie.",
       "anchored_artifacts": [],
@@ -2002,8 +2002,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13484",
-      "ref": "C-13484",
+      "@id": "C-50",
+      "ref": "C-50",
       "label": "Host Says They Would Never Send Anyone Else to Call Her Because Charlie Was Like a Brother",
       "claim": "The host says that they would never send anybody else to call her with anything because they knew Charlie was a brother to her.",
       "anchored_artifacts": [],
@@ -2023,8 +2023,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13485",
-      "ref": "C-13485",
+      "@id": "C-51",
+      "ref": "C-51",
       "label": "Host Says People Wrongly Thought Her Israel Position Ended Her Friendship With Charlie",
       "claim": "The host says people were wrong to think that when she made up her mind about Israel she and Charlie fell apart, and that they laughed at how wrong it was.",
       "anchored_artifacts": [],
@@ -2045,8 +2045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13486",
-      "ref": "C-13486",
+      "@id": "C-52",
+      "ref": "C-52",
       "label": "Host Says She Told Charlie There Was No Room for Movement on Israel",
       "claim": "The host says she told Charlie where she stood on Israel, that there was no room for movement, and that he should tell whoever needed to hear it whatever he needed to tell them.",
       "anchored_artifacts": [],
@@ -2066,8 +2066,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13487",
-      "ref": "C-13487",
+      "@id": "C-53",
+      "ref": "C-53",
       "label": "Host Says Charlie Was Going Through a Spiritual Transformation",
       "claim": "The host says that in the end Charlie was going through a spiritual transformation, adding that she knows it, and that he was going through a lot.",
       "anchored_artifacts": [],
@@ -2087,8 +2087,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13488",
-      "ref": "C-13488",
+      "@id": "C-54",
+      "ref": "C-54",
       "label": "Host Says Charlie Was Under a Lot of Pressure From People Now Speaking About Him",
       "claim": "The host says there was a lot of pressure on Charlie and that it is hard for her to watch the people who were pressuring him say what they are saying, which she finds fake.",
       "anchored_artifacts": [],
@@ -2108,8 +2108,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13489",
-      "ref": "C-13489",
+      "@id": "C-55",
+      "ref": "C-55",
       "label": "Host Says Those Pressuring Charlie Would Have Let Him Lose Everything Over Modifying an Opinion",
       "claim": "The host says the unnamed people who pressured Charlie would have allowed him to lose, and wanted him to lose everything, for changing or even slightly modifying an opinion.",
       "anchored_artifacts": [],
@@ -2129,8 +2129,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13490",
-      "ref": "C-13490",
+      "@id": "C-56",
+      "ref": "C-56",
       "label": "Host Says She Has Seen the Footage of the Shooting and Will Never Unsee It",
       "claim": "The host says Charlie was her best friend and brother and that she will never unsee the footage of what she saw, the violence of it.",
       "anchored_artifacts": [],

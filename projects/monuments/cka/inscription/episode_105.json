@@ -27,13 +27,13 @@
           "ref": "A-2581.1",
           "description": "Host's verbatim Microsoft Word retyping of the White House Military Office email addendum on the Erika Kirk clip (shown on screen and read aloud)",
           "related_claims": [
-            "C-4108",
-            "C-4117",
-            "C-4118",
-            "C-4119",
-            "C-4120",
-            "C-4121",
-            "C-4128"
+            "C-9255",
+            "C-9264",
+            "C-9265",
+            "C-9266",
+            "C-9267",
+            "C-9268",
+            "C-9275"
           ],
           "related_nodes": [
             "N-2",
@@ -52,11 +52,11 @@
           "ref": "A-2581.2",
           "description": "Host's reading of the email's sender domain and recipient list",
           "related_claims": [
-            "C-4122",
-            "C-4124",
-            "C-4125",
-            "C-4126",
-            "C-4127"
+            "C-9269",
+            "C-9271",
+            "C-9272",
+            "C-9273",
+            "C-9274"
           ],
           "related_nodes": [
             "N-280",
@@ -79,7 +79,7 @@
           "ref": "A-2581.3",
           "description": "Quote from White House sources describing the White House Communications Agency (read aloud)",
           "related_claims": [
-            "C-4123"
+            "C-9270"
           ],
           "related_nodes": [
             "N-10931",
@@ -105,7 +105,7 @@
           "ref": "A-2582.1",
           "description": "Erika Kirk social media statement breaking her silence after the WHCD shooting (read aloud)",
           "related_claims": [
-            "C-4131"
+            "C-9278"
           ],
           "related_nodes": [
             "N-2",
@@ -123,7 +123,7 @@
           "ref": "A-2582.2",
           "description": "Clip of Erika Kirk's Wednesday Charlie Kirk Show remarks on radicalization (played)",
           "related_claims": [
-            "C-4133"
+            "C-9280"
           ],
           "related_nodes": [
             "N-2",
@@ -150,7 +150,7 @@
           "ref": "A-2583.1",
           "description": "Headline describing Kash Patel's reaction to the WHCD shooting (shown)",
           "related_claims": [
-            "C-4132"
+            "C-9279"
           ],
           "related_nodes": [
             "N-69",
@@ -176,12 +176,12 @@
           "ref": "A-2584.1",
           "description": "Guardian article on the backlash to Utah's approval of the Stratos AI data center (shown and read aloud)",
           "related_claims": [
-            "C-4134",
-            "C-4135",
-            "C-4136",
-            "C-4137",
-            "C-4138",
-            "C-4139"
+            "C-9281",
+            "C-9282",
+            "C-9283",
+            "C-9284",
+            "C-9285",
+            "C-9286"
           ],
           "related_nodes": [
             "N-628",
@@ -209,7 +209,7 @@
           "ref": "A-2585.1",
           "description": "Clip of Kevin O'Leary's conversation with Tucker Carlson on AI, surveillance and the Utah data center (played)",
           "related_claims": [
-            "C-4141"
+            "C-9288"
           ],
           "related_nodes": [
             "N-628",
@@ -236,8 +236,8 @@
           "ref": "A-2586.1",
           "description": "Clip from the May 8 Charlie Kirk Show in which Andrew Kolvet and Blake Neff discuss Preborn's sponsorship of the host's show (played)",
           "related_claims": [
-            "C-4148",
-            "C-4149"
+            "C-9295",
+            "C-9296"
           ],
           "related_nodes": [
             "N-14",
@@ -265,7 +265,7 @@
           "ref": "A-2587.1",
           "description": "Gary Melton (Paramount Tactical) tweet on the Fort Huachuca alibi photo (shown)",
           "related_claims": [
-            "C-4155"
+            "C-9302"
           ],
           "related_nodes": [
             "N-615",
@@ -285,9 +285,9 @@
           "ref": "A-2587.2",
           "description": "Host verbal reference to the earlier Paramount Tactical stream clip showing the Fort Huachuca alibi photo (not replayed)",
           "related_claims": [
-            "C-4152",
-            "C-4153",
-            "C-4154"
+            "C-9299",
+            "C-9300",
+            "C-9301"
           ],
           "related_nodes": [
             "N-615",
@@ -315,7 +315,7 @@
           "ref": "A-2588.1",
           "description": "Host verbal reference to Tracy Martin's statement that the boy in the alibi photo is not Erika Kirk's son and that it was a playdate (not shown)",
           "related_claims": [
-            "C-4157"
+            "C-9304"
           ],
           "related_nodes": [
             "N-545",
@@ -342,8 +342,8 @@
           "ref": "A-2589.1",
           "description": "Footage of the unveiling ceremony of the golden Trump statue at a Florida golf course (shown)",
           "related_claims": [
-            "C-4158",
-            "C-4159"
+            "C-9305",
+            "C-9306"
           ],
           "related_nodes": [
             "N-5",
@@ -362,7 +362,7 @@
           "ref": "A-2589.2",
           "description": "Headline on the Hasidic Jewish donors behind the statue (shown)",
           "related_claims": [
-            "C-4160"
+            "C-9307"
           ],
           "related_nodes": [
             "N-10935"
@@ -388,11 +388,11 @@
         "A-2582.2"
       ],
       "related_claims": [
-        "C-4109",
-        "C-4133",
-        "C-4143",
-        "C-4144",
-        "C-4145"
+        "C-9256",
+        "C-9280",
+        "C-9290",
+        "C-9291",
+        "C-9292"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -416,25 +416,25 @@
         "A-2588.1"
       ],
       "related_claims": [
-        "C-4108",
-        "C-4111",
-        "C-4112",
-        "C-4113",
-        "C-4114",
-        "C-4116",
-        "C-4117",
-        "C-4119",
-        "C-4120",
-        "C-4128",
-        "C-4131",
-        "C-4133",
-        "C-4143",
-        "C-4144",
-        "C-4152",
-        "C-4153",
-        "C-4154",
-        "C-4155",
-        "C-4157"
+        "C-9255",
+        "C-9258",
+        "C-9259",
+        "C-9260",
+        "C-9261",
+        "C-9263",
+        "C-9264",
+        "C-9266",
+        "C-9267",
+        "C-9275",
+        "C-9278",
+        "C-9280",
+        "C-9290",
+        "C-9291",
+        "C-9299",
+        "C-9300",
+        "C-9301",
+        "C-9302",
+        "C-9304"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -453,11 +453,11 @@
         "A-2586.1"
       ],
       "related_claims": [
-        "C-4118",
-        "C-4147",
-        "C-4148",
-        "C-4150",
-        "C-4151"
+        "C-9265",
+        "C-9294",
+        "C-9295",
+        "C-9297",
+        "C-9298"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -477,10 +477,10 @@
         "A-2589.1"
       ],
       "related_claims": [
-        "C-4109",
-        "C-4110",
-        "C-4133",
-        "C-4158"
+        "C-9256",
+        "C-9257",
+        "C-9280",
+        "C-9305"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -500,11 +500,11 @@
         "A-2587.2"
       ],
       "related_claims": [
-        "C-4113",
-        "C-4148",
-        "C-4149",
-        "C-4152",
-        "C-4162"
+        "C-9260",
+        "C-9295",
+        "C-9296",
+        "C-9299",
+        "C-9309"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -523,7 +523,7 @@
         "A-2585.1"
       ],
       "related_claims": [
-        "C-4141"
+        "C-9288"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -540,7 +540,7 @@
       "description": "Named as the person Erika Kirk publicly forgave about a week after the assassination.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4143"
+        "C-9290"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -559,7 +559,7 @@
         "A-2583.1"
       ],
       "related_claims": [
-        "C-4132"
+        "C-9279"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -578,8 +578,8 @@
         "A-2586.1"
       ],
       "related_claims": [
-        "C-4148",
-        "C-4149"
+        "C-9295",
+        "C-9296"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -598,7 +598,7 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4125"
+        "C-9272"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -615,7 +615,7 @@
       "description": "The host assumes, but cannot confirm, that he accompanied Erika Kirk to the West Wing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4113"
+        "C-9260"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -634,7 +634,7 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4124"
+        "C-9271"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -651,7 +651,7 @@
       "description": "Transcript spelling \"Sydney Sidner\". CNN reporter said to have uploaded the Erika Kirk clip at 9:25 p.m.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4116"
+        "C-9263"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -668,8 +668,8 @@
       "description": "Transcript spelling \"Harit Dylan\". Host says Matthew Shupe does PR for her and that she sat with Andrew Kolvet.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4161",
-        "C-4162"
+        "C-9308",
+        "C-9309"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -688,7 +688,7 @@
         "A-2588.1"
       ],
       "related_claims": [
-        "C-4157"
+        "C-9304"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -705,7 +705,7 @@
       "description": "First named by the host at 00:05:04 in episode 105. Cited as a long-serving leader who has not faced comparable shooting attempts.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4110"
+        "C-9257"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -724,7 +724,7 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4125"
+        "C-9272"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -743,7 +743,7 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4126"
+        "C-9273"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -762,7 +762,7 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4126"
+        "C-9273"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -781,7 +781,7 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4127"
+        "C-9274"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -801,9 +801,9 @@
         "A-2585.1"
       ],
       "related_claims": [
-        "C-4137",
-        "C-4139",
-        "C-4141"
+        "C-9284",
+        "C-9286",
+        "C-9288"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -822,7 +822,7 @@
         "A-2584.1"
       ],
       "related_claims": [
-        "C-4138"
+        "C-9285"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -842,9 +842,9 @@
         "A-2587.2"
       ],
       "related_claims": [
-        "C-4153",
-        "C-4155",
-        "C-4156"
+        "C-9300",
+        "C-9302",
+        "C-9303"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -863,7 +863,7 @@
         "A-2589.1"
       ],
       "related_claims": [
-        "C-4159"
+        "C-9306"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -880,7 +880,7 @@
       "description": "First named by the host at 00:47:33 in episode 105. Described as a PR agent for Harmeet Dhillon and Dhillon Law Group; the host asks whether he filmed the Erika Kirk WHCD clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4161"
+        "C-9308"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -897,11 +897,11 @@
       "description": "Organization the host places in an alliance with the White House and the military; its Charlie Kirk Show hosts are criticized over the advertiser campaign.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4142",
-        "C-4143",
-        "C-4145",
-        "C-4146",
-        "C-4148"
+        "C-9289",
+        "C-9290",
+        "C-9292",
+        "C-9293",
+        "C-9295"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -918,7 +918,7 @@
       "description": "Erika Kirk said she came to DC to confront its reporters.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4114"
+        "C-9261"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -935,9 +935,9 @@
       "description": "Site of Erika Kirk's West Wing visit and the 10:33 p.m. press conference; base of the communications agency.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4113",
-        "C-4129",
-        "C-4130"
+        "C-9260",
+        "C-9276",
+        "C-9277"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -956,9 +956,9 @@
         "A-2584.1"
       ],
       "related_claims": [
-        "C-4134",
-        "C-4135",
-        "C-4136"
+        "C-9281",
+        "C-9282",
+        "C-9283"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -975,7 +975,7 @@
       "description": "The host says everyone at Turning Point USA now seems connected to the military.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4142"
+        "C-9289"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -992,7 +992,7 @@
       "description": "The host says the show, once top 10, now averages 380 views per episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4145"
+        "C-9292"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1009,7 +1009,7 @@
       "description": "The host frames the WHCD messaging as \"operation mockingbird on steroids.\"",
       "related_artifacts": [],
       "related_claims": [
-        "C-4111"
+        "C-9258"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1029,11 +1029,11 @@
         "A-2588.1"
       ],
       "related_claims": [
-        "C-4152",
-        "C-4153",
-        "C-4154",
-        "C-4155",
-        "C-4157"
+        "C-9299",
+        "C-9300",
+        "C-9301",
+        "C-9302",
+        "C-9304"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1052,7 +1052,7 @@
         "A-2582.1"
       ],
       "related_claims": [
-        "C-4131"
+        "C-9278"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1071,12 +1071,12 @@
         "A-2583.1"
       ],
       "related_claims": [
-        "C-4109",
-        "C-4115",
-        "C-4117",
-        "C-4129",
-        "C-4130",
-        "C-4132"
+        "C-9256",
+        "C-9262",
+        "C-9264",
+        "C-9276",
+        "C-9277",
+        "C-9279"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1093,8 +1093,8 @@
       "description": "Who filmed and first uploaded the Erika Kirk clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4116",
-        "C-4161"
+        "C-9263",
+        "C-9308"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1111,7 +1111,7 @@
       "description": "The host ties Matthew Shupe to Dhillon Law Group.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4161"
+        "C-9308"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1128,10 +1128,10 @@
       "description": "The email's surrogate and digital-partner amplification instructions.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4111",
-        "C-4120",
-        "C-4121",
-        "C-4143"
+        "C-9258",
+        "C-9267",
+        "C-9268",
+        "C-9290"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1151,9 +1151,9 @@
         "A-2581.3"
       ],
       "related_claims": [
-        "C-4111",
-        "C-4118",
-        "C-4123"
+        "C-9258",
+        "C-9265",
+        "C-9270"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1173,9 +1173,9 @@
         "A-2587.2"
       ],
       "related_claims": [
-        "C-4152",
-        "C-4153",
-        "C-4155"
+        "C-9299",
+        "C-9300",
+        "C-9302"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1195,19 +1195,19 @@
         "A-2581.2"
       ],
       "related_claims": [
-        "C-4108",
-        "C-4111",
-        "C-4117",
-        "C-4118",
-        "C-4119",
-        "C-4120",
-        "C-4121",
-        "C-4122",
-        "C-4124",
-        "C-4125",
-        "C-4126",
-        "C-4127",
-        "C-4128"
+        "C-9255",
+        "C-9258",
+        "C-9264",
+        "C-9265",
+        "C-9266",
+        "C-9267",
+        "C-9268",
+        "C-9269",
+        "C-9271",
+        "C-9272",
+        "C-9273",
+        "C-9274",
+        "C-9275"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1228,7 +1228,7 @@
       "description": "Investigation target: Erika Kirk's appointment to the U.S. Air Force Academy Board of Visitors in her late husband's place, which the host says was artificial and of unclear qualification.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4112"
+        "C-9259"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1248,7 +1248,7 @@
       "description": "Investigation target: Erika Kirk's visit to the West Wing just before the WHCD shooting, which the host says she can confirm; the host assumes but cannot confirm that Andrew Kolvet and Mikey McCoy went with her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4113"
+        "C-9260"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1273,10 +1273,10 @@
         "A-2581.3"
       ],
       "related_claims": [
-        "C-4122",
-        "C-4123",
-        "C-4125",
-        "C-4126"
+        "C-9269",
+        "C-9270",
+        "C-9272",
+        "C-9273"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1297,8 +1297,8 @@
       "description": "Investigation target: the host's White House sources say that on the Saturday evening of the WHCD, when the White House was not open for business, staff were unusually available and on standby, with no scramble before the 10:33 p.m. press conference.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4129",
-        "C-4130"
+        "C-9276",
+        "C-9277"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1318,13 +1318,13 @@
         "A-2585.1"
       ],
       "related_claims": [
-        "C-4134",
-        "C-4135",
-        "C-4136",
-        "C-4137",
-        "C-4138",
-        "C-4139",
-        "C-4141"
+        "C-9281",
+        "C-9282",
+        "C-9283",
+        "C-9284",
+        "C-9285",
+        "C-9286",
+        "C-9288"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1347,10 +1347,10 @@
         "A-2586.1"
       ],
       "related_claims": [
-        "C-4147",
-        "C-4148",
-        "C-4149",
-        "C-4150"
+        "C-9294",
+        "C-9295",
+        "C-9296",
+        "C-9297"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1374,9 +1374,9 @@
         "A-2589.2"
       ],
       "related_claims": [
-        "C-4158",
-        "C-4159",
-        "C-4160"
+        "C-9305",
+        "C-9306",
+        "C-9307"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1392,8 +1392,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-4108",
-      "ref": "C-4108",
+      "@id": "C-9255",
+      "ref": "C-9255",
       "label": "White House Military Office email instructed immediate amplification of Erika Kirk",
       "claim": "The host says the email she presented the day before was sent by the White House Military Office to immediately begin amplifying Erika Kirk after the WHCD shooting.",
       "anchored_artifacts": [
@@ -1413,8 +1413,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4109",
-      "ref": "C-4109",
+      "@id": "C-9256",
+      "ref": "C-9256",
       "label": "Trump has survived three shooting assassination attempts in under two years",
       "claim": "The host says we are supposed to believe that President Trump has survived three separate shooting assassination attempts in just under two years, which she says would be unprecedented for a sitting president.",
       "anchored_artifacts": [],
@@ -1431,8 +1431,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4110",
-      "ref": "C-4110",
+      "@id": "C-9257",
+      "ref": "C-9257",
       "label": "Putin has been president for 22 years without comparable shooting attempts",
       "claim": "The host says Vladimir Putin has been president of Russia for 22 years and has not faced a comparable pattern of shooting attempts.",
       "anchored_artifacts": [],
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4111",
-      "ref": "C-4111",
+      "@id": "C-9258",
+      "ref": "C-9258",
       "label": "Host asserts the clip's amplification was designed by the military",
       "claim": "The host asserts that the email proves the amplification of the Erika Kirk clip was designed by the military, and says the media will probably not want to cover it.",
       "anchored_artifacts": [
@@ -1471,8 +1471,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4112",
-      "ref": "C-4112",
+      "@id": "C-9259",
+      "ref": "C-9259",
       "label": "Erika Kirk was appointed to the Air Force Academy Board of Visitors",
       "claim": "The host says Erika Kirk was appointed to the Air Force Academy Board of Visitors in her husband's place and questions whether she is qualified.",
       "anchored_artifacts": [],
@@ -1489,8 +1489,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4113",
-      "ref": "C-4113",
+      "@id": "C-9260",
+      "ref": "C-9260",
       "label": "Erika Kirk visited the West Wing just before the WHCD shooting",
       "claim": "The host says she can confirm that Erika Kirk visited the West Wing just ahead of the WHCD shooting. She assumes, but cannot yet confirm, that Andrew Kolvet and Mikey McCoy went with her.",
       "anchored_artifacts": [],
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4114",
-      "ref": "C-4114",
+      "@id": "C-9261",
+      "ref": "C-9261",
       "label": "Erika Kirk said she came to DC to confront Daily Mail reporters",
       "claim": "The host says Erika Kirk told the public that the purpose of her DC trip was to confront Daily Mail reporters, despite saying she was afraid to travel, and asks what she was doing in the West Wing.",
       "anchored_artifacts": [],
@@ -1524,7 +1524,7 @@
       "investigative_direction": "Compare Erika Kirk's public explanation of her DC trip with her West Wing visit records and schedule.",
       "transcript_snippet": "she did this and braved everything to confront Daily Mail reporters",
       "supports_claim_refs": [
-        "C-2796"
+        "C-8588"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -1532,8 +1532,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4115",
-      "ref": "C-4115",
+      "@id": "C-9262",
+      "ref": "C-9262",
       "label": "The WHCD shooting took place at 8:39 p.m. Eastern",
       "claim": "The host says the WHCD shooting happened at 8:39 p.m. Eastern.",
       "anchored_artifacts": [],
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4116",
-      "ref": "C-4116",
+      "@id": "C-9263",
+      "ref": "C-9263",
       "label": "Sara Sidner of CNN uploaded the Erika Kirk video at 9:25 p.m.",
       "claim": "The host says Sara Sidner of CNN uploaded the video of Erika Kirk at 9:25 p.m.",
       "anchored_artifacts": [],
@@ -1560,7 +1560,7 @@
       "investigative_direction": "Archive Sidner's original post with its timestamp and establish who filmed the clip.",
       "transcript_snippet": "Sydney Sidner of CNN uploaded the video of Erika Kirk at 9:25 p. m.",
       "supports_claim_refs": [
-        "C-2793"
+        "C-8577"
       ],
       "mentions_person_refs": [
         "N-370",
@@ -1569,8 +1569,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4117",
-      "ref": "C-4117",
+      "@id": "C-9264",
+      "ref": "C-9264",
       "label": "About 25 minutes later the email went to the wrong internal teams",
       "claim": "The host says that about 25 minutes after Sidner's upload, the White House Military Office sent follow-up instructions in an email that accidentally went to the wrong internal teams.",
       "anchored_artifacts": [
@@ -1590,8 +1590,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4118",
-      "ref": "C-4118",
+      "@id": "C-9265",
+      "ref": "C-9265",
       "label": "Host retyped the email verbatim to protect her source from a canary trap",
       "claim": "The host says she typed the relevant portion of the email verbatim into Microsoft Word to protect her source from the Department of Defense's \"canary email tactic.\"",
       "anchored_artifacts": [
@@ -1611,8 +1611,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4119",
-      "ref": "C-4119",
+      "@id": "C-9266",
+      "ref": "C-9266",
       "label": "Email said the Erika Kirk clip was driving the highest engagement",
       "claim": "According to the host's retyping, the email's addendum said the clip of Erika Kirk saying \"I just want to go home\" was driving the highest engagement of all incident-related content and was the \"strongest emotional response asset\" associated with the incident.",
       "anchored_artifacts": [
@@ -1631,8 +1631,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4120",
-      "ref": "C-4120",
+      "@id": "C-9267",
+      "ref": "C-9267",
       "label": "Email recommended amplifying the clip through digital partners and approved surrogates",
       "claim": "According to the host's retyping, the email recommended that all communications channels amplify the clip and coordinate with \"digital partners\" and \"approved surrogates\" for dominant overnight placement.",
       "anchored_artifacts": [
@@ -1652,8 +1652,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4121",
-      "ref": "C-4121",
+      "@id": "C-9268",
+      "ref": "C-9268",
       "label": "Email expected aligned outside commentators to amplify set themes",
       "claim": "The host says the email expected aligned outside commentators to independently amplify the professionalism of the protective response, media conduct during the evacuation, political rhetoric and escalation concerns, and broader executive stability themes.",
       "anchored_artifacts": [
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4122",
-      "ref": "C-4122",
+      "@id": "C-9269",
+      "ref": "C-9269",
       "label": "Email was delivered from the White House Communications Agency domain",
       "claim": "The host says the email was delivered from the military office domain of the White House Communications Agency.",
       "anchored_artifacts": [
@@ -1694,8 +1694,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4123",
-      "ref": "C-4123",
+      "@id": "C-9270",
+      "ref": "C-9270",
       "label": "White House sources describe the WHCA as a DoD-controlled entity",
       "claim": "The host reads a quote from White House sources describing the White House Communications Agency as a Department of Defense-controlled military communications entity embedded in the White House.",
       "anchored_artifacts": [
@@ -1715,8 +1715,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4124",
-      "ref": "C-4124",
+      "@id": "C-9271",
+      "ref": "C-9271",
       "label": "Email went to Karoline Leavitt's press office and national security teams",
       "claim": "The host says the email was sent to Karoline Leavitt's press office and team, with the national security press team and national security operations team copied, and says Leavitt can confirm its authenticity.",
       "anchored_artifacts": [
@@ -1735,8 +1735,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4125",
-      "ref": "C-4125",
+      "@id": "C-9272",
+      "ref": "C-9272",
       "label": "Steven Cheung and Richard Smale were on the email",
       "claim": "The host says White House communications director Steven Cheung and Richard Smale, a WHCA communications officer and information assurance engineer, were recipients of the email.",
       "anchored_artifacts": [
@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4126",
-      "ref": "C-4126",
+      "@id": "C-9273",
+      "ref": "C-9273",
       "label": "Gustav Anderly and Ryan Rippeon, military communications staff, were on the email",
       "claim": "The host says Gustav Anderly, a WHCA information systems manager, and Ryan Rippeon, commander of naval communications, were recipients of the email.",
       "anchored_artifacts": [
@@ -1779,8 +1779,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4127",
-      "ref": "C-4127",
+      "@id": "C-9274",
+      "ref": "C-9274",
       "label": "Michaela Mott of the Navy was on the email",
       "claim": "The host says a Navy member named Michaela Mott was also on the email.",
       "anchored_artifacts": [
@@ -1799,8 +1799,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4128",
-      "ref": "C-4128",
+      "@id": "C-9275",
+      "ref": "C-9275",
       "label": "Email described Erika Kirk as an \"emotional response asset\"",
       "claim": "The host says that within an hour of the shooting the email prioritized Erika Kirk and described her as an \"emotional response asset.\"",
       "anchored_artifacts": [
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4129",
-      "ref": "C-4129",
+      "@id": "C-9276",
+      "ref": "C-9276",
       "label": "White House sources say there was no scramble that Saturday evening",
       "claim": "According to the host's White House sources, on the Saturday evening of the dinner the campus security protocol and perimeters were unusual, staff were all available and on standby, and there was no scramble to get personnel back to the White House.",
       "anchored_artifacts": [],
@@ -1840,8 +1840,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4130",
-      "ref": "C-4130",
+      "@id": "C-9277",
+      "ref": "C-9277",
       "label": "White House press conference took place at 10:33 p.m.",
       "claim": "The host says the late-night White House press conference took place at 10:33 p.m., less than two hours after the shooting.",
       "anchored_artifacts": [],
@@ -1861,8 +1861,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4131",
-      "ref": "C-4131",
+      "@id": "C-9278",
+      "ref": "C-9278",
       "label": "Erika Kirk announced she would address the shooting on the Charlie Kirk Show",
       "claim": "The host reads Erika Kirk's post saying she was taking time with her family and would join the Charlie Kirk Show on Wednesday at 12:00 p.m. Eastern to address what took place.",
       "anchored_artifacts": [
@@ -1881,8 +1881,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4132",
-      "ref": "C-4132",
+      "@id": "C-9279",
+      "ref": "C-9279",
       "label": "A headline described Kash Patel as a hero for his reaction to the shooting",
       "claim": "The host shows a headline on Kash Patel's \"stunning reaction\" to the shooting and says the article calls him a hero for telling others at his table to get down.",
       "anchored_artifacts": [
@@ -1901,8 +1901,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4133",
-      "ref": "C-4133",
+      "@id": "C-9280",
+      "ref": "C-9280",
       "label": "Erika Kirk said radicalization got her husband killed and led to three attempts on Trump",
       "claim": "In a clip played by the host, Erika Kirk says the systemic indoctrination and radicalization of citizens \"got my husband killed\" and led to three legitimate attempts on President Trump's life.",
       "anchored_artifacts": [
@@ -1921,8 +1921,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4134",
-      "ref": "C-4134",
+      "@id": "C-9281",
+      "ref": "C-9281",
       "label": "Stratos AI data center will cover more than 40,000 acres in Box Elder County",
       "claim": "The host reads a Guardian article reporting that the Stratos AI data center will cover more than 40,000 acres over three sites in Box Elder County, Utah, more than twice the size of Manhattan.",
       "anchored_artifacts": [
@@ -1942,8 +1942,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4135",
-      "ref": "C-4135",
+      "@id": "C-9282",
+      "ref": "C-9282",
       "label": "The data center will need about 9 gigawatts, more than Utah consumes",
       "claim": "According to the Guardian article read by the host, the facility will require about 9 gigawatts of power, more than the whole state of Utah currently consumes, and will draw significant water in a drought-hit area.",
       "anchored_artifacts": [
@@ -1963,8 +1963,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4136",
-      "ref": "C-4136",
+      "@id": "C-9283",
+      "ref": "C-9283",
       "label": "County commissioners approved the project despite thousands of objections",
       "claim": "The Guardian article read by the host says Box Elder County commissioners approved the project despite thousands of objections from Utah residents.",
       "anchored_artifacts": [
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4137",
-      "ref": "C-4137",
+      "@id": "C-9284",
+      "ref": "C-9284",
       "label": "Kevin O'Leary backs the project and says it will create thousands of jobs",
       "claim": "The article says the project is backed by Shark Tank venture capitalist Kevin O'Leary, who has claimed Stratos will deliver thousands of jobs.",
       "anchored_artifacts": [
@@ -2004,8 +2004,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4138",
-      "ref": "C-4138",
+      "@id": "C-9285",
+      "ref": "C-9285",
       "label": "Commissioner Lee Perry said the meetings left him physically sick",
       "claim": "The article says Box Elder County commissioner Lee Perry said the contentious public meetings left him feeling physically sick amid alleged death threats and false accusations.",
       "anchored_artifacts": [
@@ -2024,8 +2024,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4139",
-      "ref": "C-4139",
+      "@id": "C-9286",
+      "ref": "C-9286",
       "label": "O'Leary claimed most protesters were not local and were paid",
       "claim": "The article says Kevin O'Leary claimed in social media posts that most protesters do not live locally and were paid to object to the project.",
       "anchored_artifacts": [
@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4140",
-      "ref": "C-4140",
+      "@id": "C-9287",
+      "ref": "C-9287",
       "label": "Authorities can remotely shut down many newer cars",
       "claim": "The host says authorities can already automatically shut down a large portion of newer cars while they are being driven.",
       "anchored_artifacts": [],
@@ -2057,8 +2057,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4141",
-      "ref": "C-4141",
+      "@id": "C-9288",
+      "ref": "C-9288",
       "label": "O'Leary told Tucker Carlson AI facial recognition will run through data centers",
       "claim": "In a clip played by the host, Kevin O'Leary tells Tucker Carlson that AI-enhanced facial recognition has reached a resolution where images will run through data centers, and says he uses it for convenience.",
       "anchored_artifacts": [
@@ -2078,8 +2078,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4142",
-      "ref": "C-4142",
+      "@id": "C-9289",
+      "ref": "C-9289",
       "label": "Host says everyone at TPUSA now seems connected to the military",
       "claim": "The host says that early in her investigation she noted that seemingly everyone at Turning Point USA was connected to the military, which she says was not the case when she worked there.",
       "anchored_artifacts": [],
@@ -2097,8 +2097,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4143",
-      "ref": "C-4143",
+      "@id": "C-9290",
+      "ref": "C-9290",
       "label": "Erika Kirk urged people to sign up for TPUSA 48 hours after the assassination",
       "claim": "The host says that 48 hours after Charlie Kirk's assassination Erika Kirk told the public to sign up for Turning Point USA, and a week later asked them to join her in forgiving Tyler Robinson. She calls this the same pattern as the WHCD messaging.",
       "anchored_artifacts": [],
@@ -2118,8 +2118,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4144",
-      "ref": "C-4144",
+      "@id": "C-9291",
+      "ref": "C-9291",
       "label": "Donors present say Charlie Kirk never made the appointment statement",
       "claim": "The host refers to the alleged AI video of Charlie Kirk's voice appointing Erika Kirk, which she says donors present in the room said he never said.",
       "anchored_artifacts": [],
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Obtain the original Aspen recording and interview the donors present.",
       "transcript_snippet": "Alleged AI video by the donors who were present in the room and said he never said it.",
       "supports_claim_refs": [
-        "C-2888"
+        "C-9050"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2138,8 +2138,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4145",
-      "ref": "C-4145",
+      "@id": "C-9292",
+      "ref": "C-9292",
       "label": "The Charlie Kirk Show now averages 380 views per episode",
       "claim": "The host says the Charlie Kirk Show, once a top-10 show, now averages 380 views per episode.",
       "anchored_artifacts": [],
@@ -2157,8 +2157,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4146",
-      "ref": "C-4146",
+      "@id": "C-9293",
+      "ref": "C-9293",
       "label": "Host alleges the Charlie Kirk Show fakes live callers",
       "claim": "The host alleges that despite low views the Charlie Kirk Show pretends to have live callers, with producers posing as callers.",
       "anchored_artifacts": [],
@@ -2172,8 +2172,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4147",
-      "ref": "C-4147",
+      "@id": "C-9294",
+      "ref": "C-9294",
       "label": "Israeli clone accounts organized a boycott of the host's advertisers",
       "claim": "The host says pro-Erika, pro-TPUSA Israeli clone accounts on X began organizing a boycott of her advertisers that weekend.",
       "anchored_artifacts": [],
@@ -2191,8 +2191,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4148",
-      "ref": "C-4148",
+      "@id": "C-9295",
+      "ref": "C-9295",
       "label": "On the May 8 show, Kolvet and Neff said Preborn sponsors both shows",
       "claim": "The host says Blake Neff and Andrew Kolvet signaled the advertiser campaign first. In their May 8 show clip, one of them says Preborn sponsors the host's show and has long sponsored theirs.",
       "anchored_artifacts": [
@@ -2214,8 +2214,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4149",
-      "ref": "C-4149",
+      "@id": "C-9296",
+      "ref": "C-9296",
       "label": "The Charlie Kirk Show hosts encouraged viewers to email the sponsor",
       "claim": "In the May 8 clip, a Charlie Kirk Show host suggests that sponsors may be locked into contracts and encourages viewers who feel strongly to email the sponsor with concerns.",
       "anchored_artifacts": [
@@ -2235,8 +2235,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4150",
-      "ref": "C-4150",
+      "@id": "C-9297",
+      "ref": "C-9297",
       "label": "Host says her show does not lock sponsors into contracts",
       "claim": "The host says her show does not put \"handcuffs\" on sponsors and deliberately sought advertisers who would not back out during a fight.",
       "anchored_artifacts": [],
@@ -2253,8 +2253,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4151",
-      "ref": "C-4151",
+      "@id": "C-9298",
+      "ref": "C-9298",
       "label": "The boycott led to the show's biggest day of merch sales",
       "claim": "The host says the campaign led to the biggest day of merch sales on her website ever.",
       "anchored_artifacts": [],
@@ -2269,8 +2269,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4152",
-      "ref": "C-4152",
+      "@id": "C-9299",
+      "ref": "C-9299",
       "label": "Erika Kirk and Kolvet orchestrated the Fort Huachuca alibi, which Paramount Tactical read out",
       "claim": "The host says an earlier clip showed Erika Kirk and Andrew Kolvet orchestrating the Fort Huachuca alibi behind the scenes, and that Paramount Tactical accidentally read out the alibi and showed the picture.",
       "anchored_artifacts": [
@@ -2285,7 +2285,7 @@
       "investigative_direction": "Archive the Paramount Tactical Valhalla stream and any messages from Kolvet supplying the alibi.",
       "transcript_snippet": "we showed you the clip, the now famed clip of Erika and Andrew Kolvet orchestrating this Fort Huachuca non-alibi behind the scenes",
       "supports_claim_refs": [
-        "C-1997"
+        "C-4484"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2295,8 +2295,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4153",
-      "ref": "C-4153",
+      "@id": "C-9300",
+      "ref": "C-9300",
       "label": "Paramount Tactical said the boy in the photo is not Erika's son",
       "claim": "The host says Paramount Tactical first said the boy in the alibi photo is not Erika Kirk's son.",
       "anchored_artifacts": [
@@ -2311,7 +2311,7 @@
       "investigative_direction": "Archive Paramount Tactical's original statement on the photo.",
       "transcript_snippet": "First, he said like, you know, it's not her son.",
       "supports_claim_refs": [
-        "C-2906"
+        "C-9135"
       ],
       "mentions_person_refs": [
         "N-615",
@@ -2320,8 +2320,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4154",
-      "ref": "C-4154",
+      "@id": "C-9301",
+      "ref": "C-9301",
       "label": "People who know the daughter say the girl in the photo is not hers",
       "claim": "The host says people with direct knowledge who know Erika Kirk's daughter say the girl in the alibi photo is not her.",
       "anchored_artifacts": [
@@ -2340,8 +2340,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4155",
-      "ref": "C-4155",
+      "@id": "C-9302",
+      "ref": "C-9302",
       "label": "Gary Melton tweeted that whose children were in the photo does not matter",
       "claim": "The host shows a tweet by Gary Melton (Paramount Tactical) saying it has not been clarified whose children are in the photo but that it does not matter, and that the picture was proof Erika Kirk was not at Fort Huachuca.",
       "anchored_artifacts": [
@@ -2362,8 +2362,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4156",
-      "ref": "C-4156",
+      "@id": "C-9303",
+      "ref": "C-9303",
       "label": "Gary Melton served as a Green Beret",
       "claim": "The host says Gary Melton, the man behind Paramount Tactical, served as a Green Beret, and says Turning Point USA turns to him for public relations.",
       "anchored_artifacts": [],
@@ -2380,8 +2380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4157",
-      "ref": "C-4157",
+      "@id": "C-9304",
+      "ref": "C-9304",
       "label": "Tracy Martin clarified the boy is not Erika's son and called it a playdate",
       "claim": "The host says Tracy Martin, Erika Kirk's friend of 15 years, clarified that the boy in the photo is not Erika's son and described the occasion as a playdate with friends.",
       "anchored_artifacts": [
@@ -2395,7 +2395,7 @@
       "investigative_direction": "Archive Tracy Martin's statement and identify the children and date of the playdate.",
       "transcript_snippet": "even Tracy Martin, Erika's dear, long 15-year friend, jumped into the fay at some point and clarified that the sun is not Erika's.",
       "supports_claim_refs": [
-        "C-2906"
+        "C-9135"
       ],
       "mentions_person_refs": [
         "N-545",
@@ -2404,8 +2404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4158",
-      "ref": "C-4158",
+      "@id": "C-9305",
+      "ref": "C-9305",
       "label": "A 22-foot golden Trump statue was unveiled at a Florida golf course",
       "claim": "The host says a 22-foot golden statue of President Trump was unveiled at one of Florida's golf courses.",
       "anchored_artifacts": [
@@ -2424,8 +2424,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4159",
-      "ref": "C-4159",
+      "@id": "C-9306",
+      "ref": "C-9306",
       "label": "Pastor John Mark Burns defended the statue",
       "claim": "The host says evangelical minister John Mark Burns appeared at the ceremony and is defending the statue against backlash.",
       "anchored_artifacts": [
@@ -2445,8 +2445,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4160",
-      "ref": "C-4160",
+      "@id": "C-9307",
+      "ref": "C-9307",
       "label": "Hasidic Jewish donors financially backed the statue",
       "claim": "The host says the statue was financially backed not by Christians but, she believes, by major donors from the Hasidic Jewish community, and shows a headline on the subject.",
       "anchored_artifacts": [
@@ -2465,8 +2465,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4161",
-      "ref": "C-4161",
+      "@id": "C-9308",
+      "ref": "C-9308",
       "label": "Matthew Shupe does PR for Harmeet Dhillon and Dhillon Law Group",
       "claim": "Asking who filmed the Erika Kirk clip, the host says she does not think it was Andrew Kolvet. She asks whether it could have been Matthew Shupe, whom she describes as a PR agent for Harmeet Dhillon and Dhillon Law Group who was with Kolvet.",
       "anchored_artifacts": [],
@@ -2487,8 +2487,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4162",
-      "ref": "C-4162",
+      "@id": "C-9309",
+      "ref": "C-9309",
       "label": "Harmeet Dhillon sat with Andrew Kolvet at the WHCD",
       "claim": "The host says she knows Harmeet Dhillon was sitting with Andrew Kolvet.",
       "anchored_artifacts": [],

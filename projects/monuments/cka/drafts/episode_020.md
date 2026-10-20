@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep020): N-228, N-278, N-298, N-359, N-377, N-484, N-485, N-520, N-10210, N-10447, N-10589, N-10660, N-10661, N-10663, N-10687
   - Tip-minted Nodes (reintro-ep020): N-11071, N-11117
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12146–C-12261
+  - Claim Range: C-1805–C-1944
   - New Nodes Introduced: N-189, N-191, N-192, N-195, N-196, N-197, N-198, N-10196, N-10197, N-10199
   - Reused Nodes Appearing: none, N-193, N-5, N-22, N-30, N-33, N-36, N-69, N-117, N-130, N-155, N-170, N-181, N-182, N-708, N-10000, N-10004, N-10112, N-10118, N-10131, N-10139, N-10149, N-10183, N-10202, N-10270, N-10341, N-10389, N-10900, N-11103, N-11218, N-190, N-10198, N-11322
   - Hole-minted Nodes (remap-ep20): N-131
@@ -191,7 +191,7 @@ Confidence Level: High
 
 Contents (read on air): Candace – "Yo, Kanye West writing a philosophy book called Break the Simulation. We need him, Charlie. He is Blexit AF." Charlie – "I love Kanye. He's my soul brother. I will find a way to him. I promise we have to."
 
-*Related: C-1490, C-1491, N-1, N-27*
+*Related: C-1810, C-1811, N-1, N-27*
 
 **A-1270.2** Text exchange, evening of April 20, 2018 (eve of Kanye tweet)
 
@@ -203,7 +203,7 @@ Confidence Level: High
 
 Contents (read on air): Charlie – "I'm on a run and I'm blasting Kanye West and we're on the brink of something big and like this is our time." Candace – "So exciting. It's our time." Charlie – "Yes."
 
-*Related: C-1492, N-1, N-27*
+*Related: C-1818, N-1, N-27*
 
 **A-1270.3** Text exchange, morning of April 21, 2018 (after Kanye tweet)
 
@@ -215,7 +215,7 @@ Confidence Level: High
 
 Contents (read on air): Candace – "Please pick up because I was shaking." Charlie – "I am freaking the f out."
 
-*Related: C-1493, N-1, N-27*
+*Related: C-1820, N-1, N-27*
 
 ---
 
@@ -231,7 +231,7 @@ Confidence Level: Medium (originals deleted per host; not independently verified
 
 Contents (read on air): "A change in energy … which stuns high consciousness people does not mean bad. It simply means that it's cosmic. A paradigm is shifting." Also: "Several high consciousness people I've spoken to independently told me about feeling a shift in energy. Something is going on. It happened two to three weeks ago. I'm not talking politics or elections. It's much bigger energy shift."
 
-*Related: C-1494, C-1495, N-189*
+*Related: C-1813, C-1814, N-189*
 
 ---
 
@@ -247,7 +247,7 @@ Confidence Level: High
 
 Contents (referenced on air): "I love the way Candace Owens thinks."
 
-*Related: C-1496, N-27*
+*Related: C-1817, N-27*
 
 ---
 
@@ -263,7 +263,7 @@ Confidence Level: High
 
 Contents (played on air): Adams states Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
-*Related: C-1497, N-187*
+*Related: C-1821, N-187*
 
 ---
 
@@ -279,7 +279,7 @@ Confidence Level: High
 
 Contents (played on air): Candace states Hitler "was a national socialist. But if Hitler just wanted to make Germany great and have things run well, okay, fine. The problem is is that he wanted … he had dreams outside of Germany. He wanted to globalize."
 
-*Related: C-1498, N-2*
+*Related: C-1846, N-2*
 
 ---
 
@@ -295,7 +295,7 @@ Confidence Level: High
 
 Contents (played on air): Kolvet states Charlie had drilled into Mikey's brain that "If anything ever happens to me, you call Erika." Kolvet further states Mikey was taking social-video clips for the group chat at the time of the shot, not on the phone, and that he put his fingers in his ears due to the loud blast.
 
-*Related: C-1499, C-1500, N-14, N-190, N-1, N-2*
+*Related: C-1896, C-1901, N-14, N-190, N-1, N-2*
 
 ---
 
@@ -311,7 +311,7 @@ Confidence Level: High
 
 Contents (played on air): Marlo characterizes online suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile," compares the mindset of conspiracy theorists to drug addiction or pornography, and frames the activity as addictive.
 
-*Related: C-1501, N-191, N-190*
+*Related: C-1912, N-191, N-190*
 
 ---
 
@@ -327,7 +327,7 @@ Confidence Level: High
 
 Contents (played on air): Turk states "there's a difference between a possibility and evidence for a possibility," tells critics to "shut up" without evidence, and defends Mikey McCoy as a "24-year-old who at the time when Charlie was shot was 23 and was a hero that day."
 
-*Related: C-1502, N-7, N-190*
+*Related: C-1914, N-7, N-190*
 
 ---
 
@@ -343,7 +343,7 @@ Confidence Level: Medium (read on air; underlying document not displayed in full
 
 Contents (read on air): "Hi all. There was a media event that took place today that led to a trauma patient. Due to the nature of the situation, the only individuals who will be allowed in the chart will be Deborah and myself. No one else is allowed to hover or open the chart. Jacob blank. Deb and I will be doing the log tomorrow. Thanks."
 
-*Related: C-1503, C-1504, N-10196*
+*Related: C-1893, C-1885, N-10196*
 
 ---
 
@@ -359,7 +359,7 @@ Confidence Level: Medium
 
 Contents (played on air): Webb states Rob McCoy "does have this strange military background," identifies him as a NAR figure, and links the McCoy orbit to the $25 million-and-above NAR donor network and the Ziklag organization.
 
-*Related: C-1505, C-1506, N-17, N-10198*
+*Related: C-1858, C-1861, N-17, N-10198*
 
 ---
 
@@ -375,7 +375,7 @@ Confidence Level: Medium
 
 Contents (read on air): Reports that French tax forms list Brigitte Macron under "Jean-Michel" as male, citing Mr. Bromet (described as a government official) and a staffer who has worked with the Macrons since 2017. Host also references prior "Becoming Brigitte" series.
 
-*Related: C-1507, C-1508, N-82*
+*Related: C-1928, C-1929, N-82*
 
 ---
 
@@ -391,7 +391,7 @@ Confidence Level: Medium
 
 Contents (read on air): Livingstone tweet captioned on air as a complaint after Candace issued a copyright strike against re-uploaded Book Club content watermarked "Milk Bar TV."
 
-*Related: C-1509, N-192*
+*Related: C-1918, N-192*
 
 ---
 
@@ -407,7 +407,7 @@ Confidence Level: Medium (chart described in transcript; full content not transc
 
 Contents (per host narration): Lists Frank Turek, Andrew Kolvet, Rob McCoy, Mikey McCoy, Tyler Bowyer and identifies military-family members including Captain Kurt Kolvet, Captain Robert Kolvet, Roy Edgar McCoy (naval captain, assistant chief of staff for psychological warfare).
 
-*Related: C-1505, C-1506, N-14, N-190, N-7, N-17, N-41, N-10198, N-11*
+*Related: C-1858, C-1861, N-14, N-190, N-7, N-17, N-41, N-10198, N-11*
 
 ---
 
@@ -420,7 +420,7 @@ Video Timestamp: 00:06:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12153, N-1, N-189, N-3*
+*Related: C-1816, N-1, N-189, N-3*
 
 ---
 
@@ -433,7 +433,7 @@ Video Timestamp: 00:07:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12154, N-1, N-27, N-3*
+*Related: C-1819, N-1, N-27, N-3*
 
 ---
 
@@ -446,7 +446,7 @@ Video Timestamp: 00:14:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12170, C-12171, N-27, N-3*
+*Related: C-1838, C-1839, N-27, N-3*
 
 ---
 
@@ -459,7 +459,7 @@ Video Timestamp: 00:15:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12172, N-189, N-27, N-3*
+*Related: C-1840, N-189, N-27, N-3*
 
 ---
 
@@ -472,7 +472,7 @@ Video Timestamp: 00:19:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12179, N-3*
+*Related: C-1849, N-3*
 
 ---
 
@@ -485,7 +485,7 @@ Video Timestamp: 00:28:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12200, N-14, N-3*
+*Related: C-1872, N-14, N-3*
 
 ---
 
@@ -498,7 +498,7 @@ Video Timestamp: 00:34:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12217, N-1, N-3*
+*Related: C-1892, N-1, N-3*
 
 ---
 
@@ -513,7 +513,7 @@ Video Timestamp: 00:35:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12219, N-3*
+*Related: C-1895, N-3*
 
 ---
 
@@ -526,7 +526,7 @@ Video Timestamp: 00:43:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12226, C-12227, C-12228, C-12229, N-1, N-14, N-190, N-3*
+*Related: C-1904, C-1905, C-1906, C-1907, N-1, N-14, N-190, N-3*
 
 ---
 
@@ -541,7 +541,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1270.1, A-1270.2, A-1270.3, A-1272.1, C-1490, C-1491, C-1492, C-1493, C-1496*
+*Related: A-1270.1, A-1270.2, A-1270.3, A-1272.1, C-1810, C-1811, C-1818, C-1820, C-1817*
 
 ---
 
@@ -554,7 +554,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1271.1, C-1494, C-1495*
+*Related: A-1271.1, C-1813, C-1814*
 
 ---
 
@@ -567,7 +567,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1273.1, C-1497*
+*Related: A-1273.1, C-1821*
 
 ---
 
@@ -580,7 +580,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1275.1, A-1282.1, C-1499, C-1500, N-190, N-1, N-2*
+*Related: A-1275.1, A-1282.1, C-1896, C-1901, N-190, N-1, N-2*
 
 ---
 
@@ -593,7 +593,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1499, C-1500, C-1501, C-1502, N-1, N-14, N-7, N-17, N-10197*
+*Related: A-1275.1, A-1276.1, A-1277.1, A-1282.1, C-1896, C-1901, C-1912, C-1914, N-1, N-14, N-7, N-17, N-10197*
 
 ---
 
@@ -606,7 +606,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1276.1, C-1501*
+*Related: A-1276.1, C-1912*
 
 ---
 
@@ -619,7 +619,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1277.1, A-1282.1, C-1502*
+*Related: A-1277.1, A-1282.1, C-1914*
 
 ---
 
@@ -632,7 +632,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-10198*
+*Related: A-1279.1, A-1282.1, C-1858, C-1861, N-10198*
 
 ---
 
@@ -645,7 +645,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1280.1, C-1507, C-1508*
+*Related: A-1280.1, C-1928, C-1929*
 
 ---
 
@@ -658,7 +658,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1281.1, C-1509*
+*Related: A-1281.1, C-1918*
 
 ---
 
@@ -749,7 +749,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1279.1, C-1505, C-1506*
+*Related: A-1279.1, C-1858, C-1861*
 
 ---
 
@@ -762,7 +762,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1278.1, C-1503, C-1504, N-197*
+*Related: A-1278.1, C-1893, C-1885, N-197*
 
 ---
 
@@ -775,7 +775,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1279.1, A-1282.1, C-1505, C-1506, N-14, N-190, N-7, N-17, N-41*
+*Related: A-1279.1, A-1282.1, C-1858, C-1861, N-14, N-190, N-7, N-17, N-41*
 
 ---
 
@@ -788,7 +788,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1275.1, A-1276.1, A-1277.1, C-1499, C-1500, C-1501, C-1502, N-190*
+*Related: A-1275.1, A-1276.1, A-1277.1, C-1896, C-1901, C-1912, C-1914, N-190*
 
 ---
 
@@ -827,7 +827,7 @@ White House chief of staff. Host questions her Kirk eulogy and names her in Epst
 
 Charlie Kirk; subject of the host's recollections of dreams, texts and the shooting.
 
-*Related: C-12146, C-12147, C-12148, C-12149, C-12150, C-12151, C-12153, C-12154, C-12155, C-12156, C-12163, C-12164, C-12167, C-12168, C-12173, C-12174, C-12180, C-12188, C-12198, C-12199, C-12201, C-12204, C-12208, C-12210, C-12214, C-12215, C-12216, C-12217, C-12224, C-12227, C-12230, C-12234, C-12235, C-12238, C-12239, C-12260*
+*Related: C-1805, C-1806, C-1807, C-1808, C-1809, C-1812, C-1816, C-1819, C-1822, C-1823, C-1831, C-1832, C-1835, C-1836, C-1842, C-1843, C-1850, C-1859, C-1870, C-1871, C-1874, C-1878, C-1882, C-1884, C-1889, C-1890, C-1891, C-1892, C-1902, C-1905, C-1908, C-1913, C-1915, C-1919, C-1920, C-1943*
 
 ---
 
@@ -835,7 +835,7 @@ Charlie Kirk; subject of the host's recollections of dreams, texts and the shoot
 
 Erika Kirk; the person Charlie allegedly told staff to call.
 
-*Related: C-12230*
+*Related: C-1908*
 
 ---
 
@@ -843,7 +843,7 @@ Erika Kirk; the person Charlie allegedly told staff to call.
 
 Host; speaks for herself throughout.
 
-*Related: C-12146, C-12147, C-12148, C-12149, C-12150, C-12151, C-12153, C-12154, C-12155, C-12156, C-12157, C-12158, C-12159, C-12160, C-12161, C-12162, C-12163, C-12164, C-12166, C-12167, C-12168, C-12169, C-12170, C-12171, C-12172, C-12173, C-12174, C-12175, C-12176, C-12177, C-12178, C-12179, C-12180, C-12181, C-12182, C-12183, C-12184, C-12185, C-12186, C-12187, C-12188, C-12189, C-12190, C-12191, C-12192, C-12193, C-12194, C-12195, C-12196, C-12197, C-12198, C-12199, C-12200, C-12201, C-12202, C-12203, C-12204, C-12205, C-12206, C-12207, C-12208, C-12209, C-12210, C-12211, C-12212, C-12213, C-12214, C-12215, C-12216, C-12217, C-12218, C-12219, C-12220, C-12221, C-12222, C-12223, C-12224, C-12225, C-12226, C-12227, C-12228, C-12229, C-12230, C-12231, C-12232, C-12233, C-12234, C-12236, C-12237, C-12238, C-12239, C-12240, C-12241, C-12242, C-12243, C-12244, C-12245, C-12246, C-12247, C-12248, C-12249, C-12250, C-12251, C-12252, C-12253, C-12254, C-12255, C-12256, C-12257, C-12258, C-12259, C-12260, C-12261*
+*Related: C-1805, C-1806, C-1807, C-1808, C-1809, C-1812, C-1816, C-1819, C-1822, C-1823, C-1825, C-1826, C-1827, C-1828, C-1829, C-1830, C-1831, C-1832, C-1834, C-1835, C-1836, C-1837, C-1838, C-1839, C-1840, C-1842, C-1843, C-1844, C-1845, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1855, C-1856, C-1857, C-1859, C-1860, C-1862, C-1863, C-1864, C-1865, C-1866, C-1867, C-1868, C-1869, C-1870, C-1871, C-1872, C-1874, C-1875, C-1876, C-1878, C-1879, C-1880, C-1881, C-1882, C-1883, C-1884, C-1886, C-1887, C-1888, C-1889, C-1890, C-1891, C-1892, C-1894, C-1895, C-1897, C-1898, C-1899, C-1900, C-1902, C-1903, C-1904, C-1905, C-1906, C-1907, C-1908, C-1909, C-1910, C-1911, C-1913, C-1916, C-1917, C-1919, C-1920, C-1921, C-1922, C-1923, C-1924, C-1925, C-1926, C-1927, C-1930, C-1931, C-1932, C-1933, C-1934, C-1935, C-1936, C-1937, C-1938, C-1939, C-1940, C-1941, C-1942, C-1943, C-1944*
 
 ---
 
@@ -851,7 +851,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; the host discusses his invitation to Kash Patel and the Adelson donation.
 
-*Related: C-12256, C-12258, C-12259*
+*Related: C-1939, C-1941, C-1942*
 
 ---
 
@@ -859,7 +859,7 @@ Donald Trump; the host discusses his invitation to Kash Patel and the Adelson do
 
 Tucker Carlson; attacked alongside the host by a woman the host links to Lila Rose.
 
-*Related: C-12195*
+*Related: C-1867*
 
 ---
 
@@ -867,7 +867,7 @@ Tucker Carlson; attacked alongside the host by a woman the host links to Lila Ro
 
 The host's husband; the host recounts meeting him in the UK and his past donations.
 
-*Related: C-12174, C-12254, C-12255*
+*Related: C-1843, C-1937, C-1938*
 
 ---
 
@@ -875,7 +875,7 @@ The host's husband; the host recounts meeting him in the UK and his past donatio
 
 Donald Trump Jr.; the host says he may have said he accepts the official narrative.
 
-*Related: C-12257*
+*Related: C-1940*
 
 ---
 
@@ -883,7 +883,7 @@ Donald Trump Jr.; the host says he may have said he accepts the official narrati
 
 Benjamin Netanyahu; named in the host's TikTok remark.
 
-*Related: C-12159*
+*Related: C-1827*
 
 ---
 
@@ -891,7 +891,7 @@ Benjamin Netanyahu; named in the host's TikTok remark.
 
 Kash Patel; the host says Trump invited him to the Charlie holiday event.
 
-*Related: C-12256*
+*Related: C-1939*
 
 ---
 
@@ -899,7 +899,7 @@ Kash Patel; the host says Trump invited him to the Charlie holiday event.
 
 Marissa Streit (listed as Marissa Streit); PragerU CEO, said by the host to have IDF intelligence background.
 
-*Related: C-12182, C-12183, C-12184, C-12192*
+*Related: C-1852, C-1853, C-1854, C-1864*
 
 ---
 
@@ -907,7 +907,7 @@ Marissa Streit (listed as Marissa Streit); PragerU CEO, said by the host to have
 
 Ian Carroll; named as one of those who surfaced the Mikey McCoy video.
 
-*Related: C-12223*
+*Related: C-1900*
 
 ---
 
@@ -915,7 +915,7 @@ Ian Carroll; named as one of those who surfaced the Mikey McCoy video.
 
 Irina Mappin; with John Mappin arranged the host's UK event.
 
-*Related: C-12173*
+*Related: C-1842*
 
 ---
 
@@ -923,7 +923,7 @@ Irina Mappin; with John Mappin arranged the host's UK event.
 
 Tate Brothers; the host mentions a lawyer for one of Andrew Tate's accusers.
 
-*Related: C-12194, C-12195*
+*Related: C-1866, C-1867*
 
 ---
 
@@ -931,7 +931,7 @@ Tate Brothers; the host mentions a lawyer for one of Andrew Tate's accusers.
 
 Sam Parker; named as one of those who surfaced the Mikey McCoy video.
 
-*Related: C-12223*
+*Related: C-1900*
 
 ---
 
@@ -939,7 +939,7 @@ Sam Parker; named as one of those who surfaced the Mikey McCoy video.
 
 James Lee; named as one of those who surfaced the Mikey McCoy video.
 
-*Related: C-12223*
+*Related: C-1900*
 
 ---
 
@@ -947,7 +947,7 @@ James Lee; named as one of those who surfaced the Mikey McCoy video.
 
 Lila Rose; the host links her to Marissa Streit's donors, the Christ is King jibe and a Tate-related guest.
 
-*Related: C-12192, C-12193, C-12194, C-12195*
+*Related: C-1864, C-1865, C-1866, C-1867*
 
 ---
 
@@ -955,7 +955,7 @@ Lila Rose; the host links her to Marissa Streit's donors, the Christ is King jib
 
 Bari Weiss; the host mentions a story about her grandfather.
 
-*Related: C-12196*
+*Related: C-1868*
 
 ---
 
@@ -963,7 +963,7 @@ Bari Weiss; the host mentions a story about her grandfather.
 
 Miriam Adelson; the host says she gave Trump $100 million tied to annexation.
 
-*Related: C-12258*
+*Related: C-1941*
 
 ---
 
@@ -971,7 +971,7 @@ Miriam Adelson; the host says she gave Trump $100 million tied to annexation.
 
 Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.
 
-*Related: C-12166*
+*Related: C-1834*
 
 ---
 
@@ -979,7 +979,7 @@ Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.
 
 Emmanuel Macron; subject of two tangential host claims.
 
-*Related: C-12243, C-12248*
+*Related: C-1924, C-1931*
 
 ---
 
@@ -987,7 +987,7 @@ Emmanuel Macron; subject of two tangential host claims.
 
 Blake Lively; the lawsuit in which the host says she was drafted.
 
-*Related: C-12232*
+*Related: C-1910*
 
 ---
 
@@ -995,7 +995,7 @@ Blake Lively; the lawsuit in which the host says she was drafted.
 
 Justin Baldoni; the other party in that lawsuit.
 
-*Related: C-12232*
+*Related: C-1910*
 
 ---
 
@@ -1003,7 +1003,7 @@ Justin Baldoni; the other party in that lawsuit.
 
 Rothschild family; named in the host's claim about Macron.
 
-*Related: C-12243*
+*Related: C-1924*
 
 ---
 
@@ -1011,7 +1011,7 @@ Rothschild family; named in the host's claim about Macron.
 
 John F. Kennedy; named in two historical assertions by the host.
 
-*Related: C-12207, C-12240*
+*Related: C-1881, C-1921*
 
 ---
 
@@ -1019,7 +1019,7 @@ John F. Kennedy; named in two historical assertions by the host.
 
 Turning Point USA; the host says it ran like a military operation.
 
-*Related: C-12185*
+*Related: C-1855*
 
 ---
 
@@ -1027,7 +1027,7 @@ Turning Point USA; the host says it ran like a military operation.
 
 Kanye Tweet About Candace Owens; manifested remark.
 
-*Related: C-12146*
+*Related: C-1805*
 
 ---
 
@@ -1035,7 +1035,7 @@ Kanye Tweet About Candace Owens; manifested remark.
 
 Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.
 
-*Related: C-12239*
+*Related: C-1920*
 
 ---
 
@@ -1043,7 +1043,7 @@ Lone-Shooter Narrative Critique; the host rejects the lone-shooter account.
 
 Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.
 
-*Related: C-12168, C-12174*
+*Related: C-1836, C-1843*
 
 ---
 
@@ -1051,7 +1051,7 @@ Candace UK Premonition / Husband Meeting; the host's pull to go to the UK.
 
 PragerU; offered the host a job in early 2019.
 
-*Related: C-12181, C-12182, C-12183*
+*Related: C-1851, C-1852, C-1853*
 
 ---
 
@@ -1059,7 +1059,7 @@ PragerU; offered the host a job in early 2019.
 
 Operation Mocking Pastor; the host's coinage.
 
-*Related: C-12236*
+*Related: C-1916*
 
 ---
 
@@ -1067,7 +1067,7 @@ Operation Mocking Pastor; the host's coinage.
 
 Hospital Routing Discrepancy; ambulance, trauma level and missing footage.
 
-*Related: C-12211, C-12212, C-12213*
+*Related: C-1886, C-1887, C-1888*
 
 ---
 
@@ -1075,7 +1075,7 @@ Hospital Routing Discrepancy; ambulance, trauma level and missing footage.
 
 Medical Examiner Inquiry – Deirdre Amaro; new host statements.
 
-*Related: C-12204, C-12205*
+*Related: C-1878, C-1879*
 
 ---
 
@@ -1083,7 +1083,7 @@ Medical Examiner Inquiry – Deirdre Amaro; new host statements.
 
 FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.
 
-*Related: C-12256*
+*Related: C-1939*
 
 ---
 
@@ -1091,7 +1091,7 @@ FBI Charlie Kirk Investigation Handling (Kash Patel); the holiday event remark.
 
 NAR Infiltration Question; military and church infiltration remark.
 
-*Related: C-12236*
+*Related: C-1916*
 
 ---
 
@@ -1099,7 +1099,7 @@ NAR Infiltration Question; military and church infiltration remark.
 
 Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the suit.
 
-*Related: C-12247, C-12248, C-12249, C-12250, C-12251*
+*Related: C-1930, C-1931, C-1932, C-1933, C-1934*
 
 ---
 
@@ -1107,7 +1107,7 @@ Macron Defamation Lawsuit Delaware Venue Question; the host's remarks on the sui
 
 Andrew Kolvet Surgeon Bullet Description; the moose quote.
 
-*Related: C-12200*
+*Related: C-1872*
 
 ---
 
@@ -1115,7 +1115,7 @@ Andrew Kolvet Surgeon Bullet Description; the moose quote.
 
 Charlie Kirk Premonition Dreams; the host's account.
 
-*Related: C-12147, C-12148, C-12153, C-12260*
+*Related: C-1806, C-1807, C-1816, C-1943*
 
 ---
 
@@ -1123,7 +1123,7 @@ Charlie Kirk Premonition Dreams; the host's account.
 
 Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy; neck claim.
 
-*Related: C-12199*
+*Related: C-1871*
 
 ---
 
@@ -1131,7 +1131,7 @@ Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy; neck claim.
 
 Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.
 
-*Related: C-12258, C-12259*
+*Related: C-1941, C-1942*
 
 ---
 
@@ -1139,7 +1139,7 @@ Adelson–West Bank Annexation Meeting Verification; Adelson donation remark.
 
 Hospital "No Neck Left" Narrative Discrepancy; neck and 306 claims.
 
-*Related: C-12198, C-12199*
+*Related: C-1870, C-1871*
 
 ---
 
@@ -1147,7 +1147,7 @@ Hospital "No Neck Left" Narrative Discrepancy; neck and 306 claims.
 
 Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.
 
-*Related: C-12232*
+*Related: C-1910*
 
 ---
 
@@ -1155,7 +1155,7 @@ Blake Lively / Justin Baldoni Lawsuit Outcome; the host's collusion rebuttal.
 
 Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.
 
-*Related: C-12231*
+*Related: C-1909*
 
 ---
 
@@ -1163,7 +1163,7 @@ Mikey McCoy Witness Reliability Question; account comes from Kolvet not McCoy.
 
 Frank Turek CPR Claim Verification; Turek's stated preparation.
 
-*Related: C-12235*
+*Related: C-1915*
 
 ---
 
@@ -1171,7 +1171,7 @@ Frank Turek CPR Claim Verification; Turek's stated preparation.
 
 Hitler Remark Clip Dispute; the host's account of the 2019 clip.
 
-*Related: C-12175, C-12176, C-12177, C-12178, C-12180*
+*Related: C-1844, C-1845, C-1847, C-1848, C-1850*
 
 ---
 
@@ -1179,7 +1179,7 @@ Hitler Remark Clip Dispute; the host's account of the 2019 clip.
 
 TikTok; the buyer-group remark.
 
-*Related: C-12159*
+*Related: C-1827*
 
 ---
 
@@ -1187,7 +1187,7 @@ TikTok; the buyer-group remark.
 
 Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.
 
-*Related: C-12165, C-12169, C-12170, C-12171*
+*Related: C-1833, C-1837, C-1838, C-1839*
 
 ---
 
@@ -1195,7 +1195,7 @@ Kanye Condemnation Pressure and Contract Cut; the October 2018 statement.
 
 Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.
 
-*Related: C-12161*
+*Related: C-1829*
 
 ---
 
@@ -1203,7 +1203,7 @@ Named by the host in episode 20 as someone who reached out after the 2018 Kanye 
 
 Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.
 
-*Related: C-12162*
+*Related: C-1830*
 
 ---
 
@@ -1211,7 +1211,7 @@ Music producer named by the host in episode 20 as getting involved after the 201
 
 Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).
 
-*Related: C-12190*
+*Related: C-1862*
 
 ---
 
@@ -1219,7 +1219,7 @@ Named by the host in episode 20 as a former Daily Wire president who was a naval
 
 YouTuber (transcribed "Mr. Beast") whose parents the host says are high up in the military.
 
-*Related: C-12191, C-12197*
+*Related: C-1863, C-1869*
 
 ---
 
@@ -1228,7 +1228,7 @@ YouTuber (transcribed "Mr. Beast") whose parents the host says are high up in th
 Node Type: Organization
 Movement the host launched, whose logo she says Kanye West helped design.
 
-*Related: C-12151, C-12169, C-12170, C-12172*
+*Related: C-1812, C-1837, C-1838, C-1840*
 
 ---
 
@@ -1237,7 +1237,7 @@ Movement the host launched, whose logo she says Kanye West helped design.
 Node Type: Organization
 Jewish human-rights organization that the host says issued a statement against her 2019 comments and that she visited with PragerU's CEO.
 
-*Related: C-12179, C-12183, C-12184*
+*Related: C-1849, C-1853, C-1854*
 
 ---
 
@@ -1246,7 +1246,7 @@ Jewish human-rights organization that the host says issued a statement against h
 Node Type: Organization
 Media company where the host worked after PragerU; the host says its president was a naval intelligence officer.
 
-*Related: C-12190*
+*Related: C-1862*
 
 ---
 
@@ -1255,7 +1255,7 @@ Media company where the host worked after PragerU; the host says its president w
 Node Type: Organization
 Defense contractor, transcribed "Raytheon", that the host says everyone is somehow attached to.
 
-*Related: C-12197*
+*Related: C-1869*
 
 ---
 
@@ -1264,7 +1264,7 @@ Defense contractor, transcribed "Raytheon", that the host says everyone is someh
 Node Type: Organization
 Hospital to which the host says Charlie Kirk was routed after the shooting (transcribed "Timpanogos").
 
-*Related: C-12211, C-12213, C-12221*
+*Related: C-1886, C-1888, C-1898*
 
 ---
 
@@ -1273,7 +1273,7 @@ Hospital to which the host says Charlie Kirk was routed after the shooting (tran
 Node Type: Organization
 Hospital the host says held an alleged Charlie Kirk medical file and which she says was closer to the event than Timpanogos.
 
-*Related: C-12211, C-12214, C-12215, C-12216, C-12217, C-12220, C-12221*
+*Related: C-1886, C-1889, C-1890, C-1891, C-1892, C-1897, C-1898*
 
 ---
 
@@ -1282,13 +1282,13 @@ Hospital the host says held an alleged Charlie Kirk medical file and which she s
 Node Type: Organization
 Media outlet run by Alex Marlow, guest on the Charlie Kirk Show in the clip played by the host.
 
-*Related: C-12233*
+*Related: C-1911*
 
 ---
 
 ## 5. Claim Register
 
-**C-1490** Candace framed Kanye's then-forthcoming book "Break the Simulation" as a Blexit-aligned target on April 13, 2018
+**C-1810** Candace framed Kanye's then-forthcoming book "Break the Simulation" as a Blexit-aligned target on April 13, 2018
 
 Claim Timestamp: 00:03:50
 
@@ -1301,7 +1301,7 @@ Investigative Direction: Obtain independent verification of the text exchange (c
 
 ---
 
-**C-1491** Charlie described Kanye as his "soul brother" and pledged to reach him in April 2018
+**C-1811** Charlie described Kanye as his "soul brother" and pledged to reach him in April 2018
 
 Claim Timestamp: 00:03:50
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 ---
 
-**C-1492** On the evening of April 20, 2018 Charlie framed the moment as "on the brink of something big"
+**C-1818** On the evening of April 20, 2018 Charlie framed the moment as "on the brink of something big"
 
 Claim Timestamp: 00:07:00
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 ---
 
-**C-1493** Charlie and Candace reacted with shock to Kanye's April 21, 2018 tweet
+**C-1820** Charlie and Candace reacted with shock to Kanye's April 21, 2018 tweet
 
 Claim Timestamp: 00:07:31
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 ---
 
-**C-1494** Mike Cernovich publicly discussed a cosmic "energy shift" in mid-April 2018
+**C-1813** Mike Cernovich publicly discussed a cosmic "energy shift" in mid-April 2018
 
 Claim Timestamp: 00:04:50
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Obtain archived copies of Cernovich's tweet thread (Way
 
 ---
 
-**C-1495** Candace concurs with Cernovich's "energy shift" framing
+**C-1814** Candace concurs with Cernovich's "energy shift" framing
 
 Claim Timestamp: 00:04:50
 
@@ -1366,7 +1366,7 @@ Investigative Direction: Identify and timestamp any other contemporaneous public
 
 ---
 
-**C-1496** Kanye West publicly praised Candace Owens on April 21, 2018
+**C-1817** Kanye West publicly praised Candace Owens on April 21, 2018
 
 Claim Timestamp: 00:06:50
 
@@ -1379,7 +1379,7 @@ Investigative Direction: Obtain archived copy of original Kanye tweet from indep
 
 ---
 
-**C-1497** Scott Adams characterized Kanye's tweet as reality-altering
+**C-1821** Scott Adams characterized Kanye's tweet as reality-altering
 
 Claim Timestamp: 00:08:40
 
@@ -1392,7 +1392,7 @@ Investigative Direction: Locate and timestamp original Scott Adams video; verify
 
 ---
 
-**C-1498** Candace stated in the December 2018 UK Q&A that Hitler was not a nationalist
+**C-1846** Candace stated in the December 2018 UK Q&A that Hitler was not a nationalist
 
 Claim Timestamp: 00:18:00
 
@@ -1405,7 +1405,7 @@ Investigative Direction: Obtain original full Q&A video, confirm context of the 
 
 ---
 
-**C-1499** Andrew Kolvet states Charlie drilled an emergency-call protocol into Mikey McCoy
+**C-1896** Andrew Kolvet states Charlie drilled an emergency-call protocol into Mikey McCoy
 
 Claim Timestamp: 00:39:46–00:44:30
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Verify whether Mikey McCoy himself has publicly corrobo
 
 ---
 
-**C-1500** Andrew Kolvet states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot
+**C-1901** Andrew Kolvet states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot
 
 Claim Timestamp: 00:41:12
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Obtain the full video clip from which Kolvet's narratio
 
 ---
 
-**C-1501** Alex Marlow Compares Online Conspiracy Mindset to Addiction
+**C-1912** Alex Marlow Compares Online Conspiracy Mindset to Addiction
 
 Claim Timestamp: 00:46:30–00:48:30
 
@@ -1444,7 +1444,7 @@ Investigative Direction: Identify date and outlet of Marlo's full segment; obtai
 
 ---
 
-**C-1502** Frank Turek defends Mikey McCoy and rebukes Candace for advancing unevidenced claims
+**C-1914** Frank Turek defends Mikey McCoy and rebukes Candace for advancing unevidenced claims
 
 Claim Timestamp: 00:49:10
 
@@ -1457,7 +1457,7 @@ Investigative Direction: Identify date and outlet of Turk's full segment; confir
 
 ---
 
-**C-1503** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals
+**C-1893** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals
 
 Claim Timestamp: 00:34:15
 
@@ -1471,7 +1471,7 @@ Investigative Direction: Obtain independent verification of the message (forensi
 
 ---
 
-**C-1504** A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025
+**C-1885** A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025
 
 Claim Timestamp: 00:32:30–00:35:00
 
@@ -1485,7 +1485,7 @@ Investigative Direction: Obtain independent verification from UVU medical staff 
 
 ---
 
-**C-1505** Host Says Rob McCoy's Father Roy Edgar McCoy Was a Navy Psychological Warfare Officer
+**C-1858** Host Says Rob McCoy's Father Roy Edgar McCoy Was a Navy Psychological Warfare Officer
 
 Claim Timestamp: 00:23:30–00:24:30
 
@@ -1499,7 +1499,7 @@ Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; 
 
 ---
 
-**C-1506** The McCoy orbit is tied to the NAR-aligned Ziklag donor network
+**C-1861** The McCoy orbit is tied to the NAR-aligned Ziklag donor network
 
 Claim Timestamp: 00:24:50
 
@@ -1513,7 +1513,7 @@ Investigative Direction: Obtain independent verification of Ziklag's donor list 
 
 ---
 
-**C-1507** Brigitte Macron is registered on French tax forms as "Jean-Michel" male
+**C-1928** Brigitte Macron is registered on French tax forms as "Jean-Michel" male
 
 Claim Timestamp: 00:57:00
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Obtain the original French reporting, the Bromet statem
 
 ---
 
-**C-1508** Candace rejects the official "hacker" explanation for the Macron tax-form discrepancy
+**C-1929** Candace rejects the official "hacker" explanation for the Macron tax-form discrepancy
 
 Claim Timestamp: 00:57:30–00:59:30
 
@@ -1539,7 +1539,7 @@ Investigative Direction: Identify and obtain the original reporting cited by hos
 
 ---
 
-**C-1509** Nathan Livingstone publicly complained after being issued a copyright strike for re-uploading Book Club content
+**C-1918** Nathan Livingstone publicly complained after being issued a copyright strike for re-uploading Book Club content
 
 Claim Timestamp: 00:53:15
 
@@ -1552,7 +1552,7 @@ Investigative Direction: Obtain archived copies of Livingstone's tweet and the o
 
 ---
 
-**C-1510** Host Says David Horowitz Contacted Her After Kanye's Tweet
+**C-1824** Host Says David Horowitz Contacted Her After Kanye's Tweet
 
 Claim Timestamp: 00:10:55
 
@@ -1566,7 +1566,7 @@ Investigative Direction: Tie to primary on-screen artifact in a follow-up pass i
 
 ---
 
-**C-1511** Host Says John and Irina Mappin Arranged Her UK Event
+**C-1841** Host Says John and Irina Mappin Arranged Her UK Event
 
 Claim Timestamp: 00:16:10
 
@@ -1580,7 +1580,7 @@ Investigative Direction: Obtain on-screen citations from the Macron segment.
 
 ---
 
-**C-1512** Host Says Dr. Lee Trotter Did Residency at an Air Force Medical Center
+**C-1873** Host Says Dr. Lee Trotter Did Residency at an Air Force Medical Center
 
 Claim Timestamp: 00:29:00
 
@@ -1594,7 +1594,7 @@ Investigative Direction: Cross-reference hospital message artifacts.
 
 ---
 
-**C-1513** Host Says Medical Examiner Deirdre Amaro Is an Army Major From the Ericson Family
+**C-1877** Host Says Medical Examiner Deirdre Amaro Is an Army Major From the Ericson Family
 
 Claim Timestamp: 00:29:35
 
@@ -1608,7 +1608,7 @@ Investigative Direction: Verify spelling against hospital records if released.
 
 ---
 
-**C-12146** Host Says She and Charlie Were Convinced They Had Manifested the Kanye Tweet
+**C-1805** Host Says She and Charlie Were Convinced They Had Manifested the Kanye Tweet
 
 Claim Timestamp: 00:02:24
 
@@ -1624,7 +1624,7 @@ Investigative Direction: Compare with the host's earlier tribute video wording a
 
 ---
 
-**C-12147** Host Says Charlie Had Lifelong Dreams of Dying in a Tragic Quick Way
+**C-1806** Host Says Charlie Had Lifelong Dreams of Dying in a Tragic Quick Way
 
 Claim Timestamp: 00:02:52
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Find earlier statements by Kirk or those close to him a
 
 ---
 
-**C-12148** Host Says Charlie Had Vivid Dreams in April 2018 That Something Big Was About to Happen
+**C-1807** Host Says Charlie Had Vivid Dreams in April 2018 That Something Big Was About to Happen
 
 Claim Timestamp: 00:02:59
 
@@ -1656,7 +1656,7 @@ Investigative Direction: Obtain the April 2018 message thread in which the host 
 
 ---
 
-**C-12149** Host Says She and Charlie Had Only Recently Got Together in the November Before April 2018
+**C-1808** Host Says She and Charlie Had Only Recently Got Together in the November Before April 2018
 
 Claim Timestamp: 00:03:37
 
@@ -1671,7 +1671,7 @@ Investigative Direction: Establish when the host and Kirk first worked together 
 
 ---
 
-**C-12150** Host Says She and Charlie Listened to Kanye Music Daily, Especially Power
+**C-1809** Host Says She and Charlie Listened to Kanye Music Daily, Especially Power
 
 Claim Timestamp: 00:03:42
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Compare with the TPUSA tour use of Power as hype song a
 
 ---
 
-**C-12151** Host Says She Told Charlie They Had to Get to Kanye for Blexit
+**C-1812** Host Says She Told Charlie They Had to Get to Kanye for Blexit
 
 Claim Timestamp: 00:04:02
 
@@ -1702,7 +1702,7 @@ Investigative Direction: Corroborate with the April 13, 2018 text (A-1270.1) and
 
 ---
 
-**C-12152** Host Says Mike Cernovich Has Since Deleted the Energy-Shift Tweets
+**C-1815** Host Says Mike Cernovich Has Since Deleted the Energy-Shift Tweets
 
 Claim Timestamp: 00:05:48
 
@@ -1717,7 +1717,7 @@ Investigative Direction: Check web archives for the April 2018 Cernovich thread 
 
 ---
 
-**C-12153** Charlie Texted Back "Yep, We Felt It, Too" About Darker Dreams After the Cernovich Tweets
+**C-1816** Charlie Texted Back "Yep, We Felt It, Too" About Darker Dreams After the Cernovich Tweets
 
 Claim Timestamp: 00:06:46
 
@@ -1733,7 +1733,7 @@ Investigative Direction: Obtain the original message thread with device metadata
 
 ---
 
-**C-12154** Charlie Posted a Night-Before Tweet About Listening to Kanye and the War Coming
+**C-1819** Charlie Posted a Night-Before Tweet About Listening to Kanye and the War Coming
 
 Claim Timestamp: 00:07:15
 
@@ -1748,7 +1748,7 @@ Investigative Direction: Locate the original post in Kirk's account history or a
 
 ---
 
-**C-12155** Host Says She and Charlie Were Assigned Handlers From the Moment of the Kanye Tweet
+**C-1822** Host Says She and Charlie Were Assigned Handlers From the Moment of the Kanye Tweet
 
 Claim Timestamp: 00:10:31
 
@@ -1763,7 +1763,7 @@ Investigative Direction: Ask the host to name the alleged handlers and give date
 
 ---
 
-**C-12156** Host Says Things Were Done Intentionally Since 2018 to Pull Her and Charlie Apart
+**C-1823** Host Says Things Were Done Intentionally Since 2018 to Pull Her and Charlie Apart
 
 Claim Timestamp: 00:10:44
 
@@ -1778,7 +1778,7 @@ Investigative Direction: Identify the specific incidents she attributes to this 
 
 ---
 
-**C-12157** Host Says David Horowitz of the Freedom Center Contacted Her Before Kanye's People Did
+**C-1825** Host Says David Horowitz of the Freedom Center Contacted Her Before Kanye's People Did
 
 Claim Timestamp: 00:10:56
 
@@ -1793,7 +1793,7 @@ Investigative Direction: Obtain the April 2018 tweet and Horowitz's message to t
 
 ---
 
-**C-12158** Host Says Horowitz Was the First to Invite Her to Speak at His Conference
+**C-1826** Host Says Horowitz Was the First to Invite Her to Speak at His Conference
 
 Claim Timestamp: 00:11:07
 
@@ -1808,7 +1808,7 @@ Investigative Direction: Check Freedom Center conference programs for the host's
 
 ---
 
-**C-12159** Host Says Horowitz's Son or Stepson Is Wanted in the TikTok Buyer Group
+**C-1827** Host Says Horowitz's Son or Stepson Is Wanted in the TikTok Buyer Group
 
 Claim Timestamp: 00:11:22
 
@@ -1819,13 +1819,13 @@ Transcript Snippet: wants&nbsp; Andreessen Horowitz to be a part of this group t
 Anchored Artifacts: 
 Mentions: N-3, N-193, N-36
 Related Nodes: N-11103
-Supports: C-10803
+Supports: C-1196
 Tags: relevance:context
 Investigative Direction: Check reporting on the TikTok buyer consortium for a Horowitz family member and any Netanyahu involvement.
 
 ---
 
-**C-12160** Host Says Horowitz Offered to Facilitate a Meeting With Kanye Through His Son
+**C-1828** Host Says Horowitz Offered to Facilitate a Meeting With Kanye Through His Son
 
 Claim Timestamp: 00:11:36
 
@@ -1840,7 +1840,7 @@ Investigative Direction: Obtain the message from Horowitz and ask Kanye's repres
 
 ---
 
-**C-12161** Host Says Eric Weinstein Reached Out After the Tweet and Pretended to Befriend Her
+**C-1829** Host Says Eric Weinstein Reached Out After the Tweet and Pretended to Befriend Her
 
 Claim Timestamp: 00:11:40
 
@@ -1855,7 +1855,7 @@ Investigative Direction: Obtain the 2018 messages between the host and Weinstein
 
 ---
 
-**C-12162** Host Says Rick Rubin Also Got Involved to Facilitate Meetings
+**C-1830** Host Says Rick Rubin Also Got Involved to Facilitate Meetings
 
 Claim Timestamp: 00:12:06
 
@@ -1870,7 +1870,7 @@ Investigative Direction: Ask the host for her messages with Rubin or his represe
 
 ---
 
-**C-12163** Host Says Tyler Bowyer Introduced Charlie to Every Person Charlie Knows
+**C-1831** Host Says Tyler Bowyer Introduced Charlie to Every Person Charlie Knows
 
 Claim Timestamp: 00:12:30
 
@@ -1885,7 +1885,7 @@ Investigative Direction: Establish Bowyer's role in early introductions from Kir
 
 ---
 
-**C-12164** Host Says Bowyer Started Hiring and Told Charlie to Hire Professional Fundraisers and PR People Like Kolvet
+**C-1832** Host Says Bowyer Started Hiring and Told Charlie to Hire Professional Fundraisers and PR People Like Kolvet
 
 Claim Timestamp: 00:12:34
 
@@ -1900,7 +1900,7 @@ Investigative Direction: Check TPUSA hiring dates for Kolvet and the fundraising
 
 ---
 
-**C-12165** Host Says Kanye's Handlers Told Him He Was Not Allowed in Politics
+**C-1833** Host Says Kanye's Handlers Told Him He Was Not Allowed in Politics
 
 Claim Timestamp: 00:12:53
 
@@ -1916,7 +1916,7 @@ Investigative Direction: Identify the team members and any contract or managemen
 
 ---
 
-**C-12166** Host Says Kim Kardashian Wanted Nothing to Do With Kanye's Political Involvement
+**C-1834** Host Says Kim Kardashian Wanted Nothing to Do With Kanye's Political Involvement
 
 Claim Timestamp: 00:13:01
 
@@ -1931,7 +1931,7 @@ Investigative Direction: Look for contemporaneous reporting on Kardashian's posi
 
 ---
 
-**C-12167** Host Says Political Friends Told Charlie and Her Not to Get Involved With Kanye
+**C-1835** Host Says Political Friends Told Charlie and Her Not to Get Involved With Kanye
 
 Claim Timestamp: 00:13:09
 
@@ -1946,7 +1946,7 @@ Investigative Direction: Ask the host who the political friends were and when th
 
 ---
 
-**C-12168** Host Says She Had an Unexplained Spiritual Pull to Go to the UK Though They Had No Business There
+**C-1836** Host Says She Had an Unexplained Spiritual Pull to Go to the UK Though They Had No Business There
 
 Claim Timestamp: 00:13:34
 
@@ -1962,7 +1962,7 @@ Investigative Direction: Review the 2018 messages in which she proposed the UK t
 
 ---
 
-**C-12169** Host Says Kanye Helped Design the Blexit Logo and Was Told in October He Would Lose Everything
+**C-1837** Host Says Kanye Helped Design the Blexit Logo and Was Told in October He Would Lose Everything
 
 Claim Timestamp: 00:14:09
 
@@ -1978,7 +1978,7 @@ Investigative Direction: Corroborate with Blexit launch materials and statements
 
 ---
 
-**C-12170** Host Shows a 2018 Headline: Kanye Distances Himself From Blexit and Trump
+**C-1838** Host Shows a 2018 Headline: Kanye Distances Himself From Blexit and Trump
 
 Claim Timestamp: 00:14:34
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Retrieve the 2018 article and Kanye's original statemen
 
 ---
 
-**C-12171** Host Says Kanye Did Not Write the Statement and One of His Handlers Did
+**C-1839** Host Says Kanye Did Not Write the Statement and One of His Handlers Did
 
 Claim Timestamp: 00:14:40
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Ask Kanye's former team who drafted the October 2018 st
 
 ---
 
-**C-12172** Host Says She Has Photos of Kanye Directing the Logo and Cernovich Advised Her Not to Post Them
+**C-1840** Host Says She Has Photos of Kanye Directing the Logo and Cernovich Advised Her Not to Post Them
 
 Claim Timestamp: 00:15:07
 
@@ -2026,7 +2026,7 @@ Investigative Direction: Ask the host to produce the photos and Cernovich to con
 
 ---
 
-**C-12173** Host Says Charlie Asked John and Irina Mappin to Arrange a UK Venue for Her
+**C-1842** Host Says Charlie Asked John and Irina Mappin to Arrange a UK Venue for Her
 
 Claim Timestamp: 00:16:12
 
@@ -2036,13 +2036,13 @@ Transcript Snippet: that Charlie reached out to and said, "Can you put&nbsp; tog
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-154, N-155
-Supports: C-1395
+Supports: C-1492
 Tags: relevance:context
 Investigative Direction: Confirm with the Mappins and the event organizers how the December 2018 UK event was arranged.
 
 ---
 
-**C-12174** Host Says She Met Her Husband at the UK Event in December and Charlie Paid for the Flights
+**C-1843** Host Says She Met Her Husband at the UK Event in December and Charlie Paid for the Flights
 
 Claim Timestamp: 00:16:58
 
@@ -2058,7 +2058,7 @@ Investigative Direction: Check the dates of the UK trip and who paid for travel.
 
 ---
 
-**C-12175** Host Says She Believes Someone at BuzzFeed Cut a Clip From Her UK Q and A
+**C-1844** Host Says She Believes Someone at BuzzFeed Cut a Clip From Her UK Q and A
 
 Claim Timestamp: 00:17:12
 
@@ -2074,7 +2074,7 @@ Investigative Direction: Trace the first publication of the Hitler clip and who 
 
 ---
 
-**C-12176** Host Says She Answered That Hitler Was Not a Nationalist and Did Not Mention Jews
+**C-1845** Host Says She Answered That Hitler Was Not a Nationalist and Did Not Mention Jews
 
 Claim Timestamp: 00:17:50
 
@@ -2090,7 +2090,7 @@ Investigative Direction: Review the full Q and A audio (A-1274.1) for the questi
 
 ---
 
-**C-12177** Host Says the Online Campaign Against Her Was Inorganic, "a Hit"
+**C-1847** Host Says the Online Campaign Against Her Was Inorganic, "a Hit"
 
 Claim Timestamp: 00:19:18
 
@@ -2106,7 +2106,7 @@ Investigative Direction: Look for evidence of coordination among the accounts an
 
 ---
 
-**C-12178** Host Says Articles Then Claimed She Supported Adolf Hitler
+**C-1848** Host Says Articles Then Claimed She Supported Adolf Hitler
 
 Claim Timestamp: 00:19:26
 
@@ -2122,7 +2122,7 @@ Investigative Direction: Collect the February 2019 articles and compare their qu
 
 ---
 
-**C-12179** Host Says the Simon Wiesenthal Center Issued a Statement Against Her Comments
+**C-1849** Host Says the Simon Wiesenthal Center Issued a Statement Against Her Comments
 
 Claim Timestamp: 00:19:58
 
@@ -2138,7 +2138,7 @@ Investigative Direction: Locate the Simon Wiesenthal Center statement from Febru
 
 ---
 
-**C-12180** Host Says the Aim Was to Pressure Charlie Through Donors and Leave Her Broken
+**C-1850** Host Says the Aim Was to Pressure Charlie Through Donors and Leave Her Broken
 
 Claim Timestamp: 00:20:26
 
@@ -2154,7 +2154,7 @@ Investigative Direction: Ask the host to identify donors who raised the clip wit
 
 ---
 
-**C-12181** Host Says PragerU Offered Her a Job in Early 2019
+**C-1851** Host Says PragerU Offered Her a Job in Early 2019
 
 Claim Timestamp: 00:20:47
 
@@ -2170,7 +2170,7 @@ Investigative Direction: Confirm the offer and start dates with PragerU announce
 
 ---
 
-**C-12182** Host Says Marissa Streit Has Said She Worked Intelligence in the IDF
+**C-1852** Host Says Marissa Streit Has Said She Worked Intelligence in the IDF
 
 Claim Timestamp: 00:21:04
 
@@ -2186,7 +2186,7 @@ Investigative Direction: Find Streit's own public statements about IDF service.
 
 ---
 
-**C-12183** Host Says Marissa Took Her to the Simon Wiesenthal Center in 2019
+**C-1853** Host Says Marissa Took Her to the Simon Wiesenthal Center in 2019
 
 Claim Timestamp: 00:21:35
 
@@ -2202,7 +2202,7 @@ Investigative Direction: Ask the host for the date of the visit and any record o
 
 ---
 
-**C-12184** Host Says a Rabbi-Like Figure and Marissa Spoke Hebrew and She Understood Nothing
+**C-1854** Host Says a Rabbi-Like Figure and Marissa Spoke Hebrew and She Understood Nothing
 
 Claim Timestamp: 00:21:49
 
@@ -2218,7 +2218,7 @@ Investigative Direction: Identify who attended the 2019 meeting and any statemen
 
 ---
 
-**C-12185** Host Says She Told Conferences TPUSA Was Running Like a Military Operation
+**C-1855** Host Says She Told Conferences TPUSA Was Running Like a Military Operation
 
 Claim Timestamp: 00:22:14
 
@@ -2234,7 +2234,7 @@ Investigative Direction: Find video of those conference appearances for the exac
 
 ---
 
-**C-12186** Host Says Frank Turek Is a Former US Navy Officer Turned Christian Apologist
+**C-1856** Host Says Frank Turek Is a Former US Navy Officer Turned Christian Apologist
 
 Claim Timestamp: 00:23:20
 
@@ -2250,7 +2250,7 @@ Investigative Direction: Check Turek's published biography and Navy service reco
 
 ---
 
-**C-12187** Host Says Turek Has Two Sons in the Military Who Fly Planes and a Son's Spouse Also Serves
+**C-1857** Host Says Turek Has Two Sons in the Military Who Fly Planes and a Son's Spouse Also Serves
 
 Claim Timestamp: 00:23:26
 
@@ -2266,7 +2266,7 @@ Investigative Direction: Check Turek's public statements about his family's serv
 
 ---
 
-**C-12188** Host Says Neither She Nor Charlie Knew of Kolvet's Military Ties When He Was Hired
+**C-1859** Host Says Neither She Nor Charlie Knew of Kolvet's Military Ties When He Was Hired
 
 Claim Timestamp: 00:23:38
 
@@ -2282,7 +2282,7 @@ Investigative Direction: Establish when Kolvet was hired and who vouched for him
 
 ---
 
-**C-12189** Host Says Kolvet's Brother and Cousin Are Military Captains
+**C-1860** Host Says Kolvet's Brother and Cousin Are Military Captains
 
 Claim Timestamp: 00:23:45
 
@@ -2298,7 +2298,7 @@ Investigative Direction: Verify the relatives' names, ranks and service through 
 
 ---
 
-**C-12190** Host Says the Daily Wire President at the Time Was a Naval Intelligence Officer Turned Pastor, John Lewis
+**C-1862** Host Says the Daily Wire President at the Time Was a Naval Intelligence Officer Turned Pastor, John Lewis
 
 Claim Timestamp: 00:25:25
 
@@ -2314,7 +2314,7 @@ Investigative Direction: Check Daily Wire leadership listings for the period and
 
 ---
 
-**C-12191** Host Says MrBeast's Parents Are Both High Up in the Military
+**C-1863** Host Says MrBeast's Parents Are Both High Up in the Military
 
 Claim Timestamp: 00:25:51
 
@@ -2330,7 +2330,7 @@ Investigative Direction: Verify through public biographical sources.
 
 ---
 
-**C-12192** Host Says She Met Lila Rose Through Marissa and the Same People Fund Both
+**C-1864** Host Says She Met Lila Rose Through Marissa and the Same People Fund Both
 
 Claim Timestamp: 00:26:26
 
@@ -2345,7 +2345,7 @@ Investigative Direction: Compare donor lists for Live Action and PragerU.
 
 ---
 
-**C-12193** Host Says Lila Rose Was the Lone Catholic Attacking "Christ Is King"
+**C-1865** Host Says Lila Rose Was the Lone Catholic Attacking "Christ Is King"
 
 Claim Timestamp: 00:26:34
 
@@ -2360,7 +2360,7 @@ Investigative Direction: Collect Rose's public posts and interviews on the phras
 
 ---
 
-**C-12194** Host Says Lila Rose Hosted a Lawyer for One of Andrew Tate's Accusers
+**C-1866** Host Says Lila Rose Hosted a Lawyer for One of Andrew Tate's Accusers
 
 Claim Timestamp: 00:26:50
 
@@ -2375,7 +2375,7 @@ Investigative Direction: Identify the episode of Rose's show and guest.
 
 ---
 
-**C-12195** Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson
+**C-1867** Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson
 
 Claim Timestamp: 00:27:02
 
@@ -2390,7 +2390,7 @@ Investigative Direction: Identify the woman and her public statements about the 
 
 ---
 
-**C-12196** Host Says a Bomb Was Thrown at Bari Weiss's Grandfather's House Tied to Casinos
+**C-1868** Host Says a Bomb Was Thrown at Bari Weiss's Grandfather's House Tied to Casinos
 
 Claim Timestamp: 00:27:40
 
@@ -2405,7 +2405,7 @@ Investigative Direction: Search newspaper archives for the incident and the fami
 
 ---
 
-**C-12197** Host Says Everyone, Including MrBeast, Is Attached to "Raytheon"
+**C-1869** Host Says Everyone, Including MrBeast, Is Attached to "Raytheon"
 
 Claim Timestamp: 00:27:52
 
@@ -2421,7 +2421,7 @@ Investigative Direction: Ask the host which Raytheon connections she means and v
 
 ---
 
-**C-12198** Host Says the Public Was Lied to About the 306
+**C-1870** Host Says the Public Was Lied to About the 306
 
 Claim Timestamp: 00:28:12
 
@@ -2437,7 +2437,7 @@ Investigative Direction: Ask the host to specify which statement about the rifle
 
 ---
 
-**C-12199** Host Says She Knows for a Fact That Charlie's Neck Was Not Destroyed
+**C-1871** Host Says She Knows for a Fact That Charlie's Neck Was Not Destroyed
 
 Claim Timestamp: 00:28:14
 
@@ -2453,7 +2453,7 @@ Investigative Direction: Compare with the autopsy findings and the surgeon and K
 
 ---
 
-**C-12200** Host Recalls Kolvet's Tweet Quoting the Surgeon: He Would Have "Taken Down a Moose"
+**C-1872** Host Recalls Kolvet's Tweet Quoting the Surgeon: He Would Have "Taken Down a Moose"
 
 Claim Timestamp: 00:28:26
 
@@ -2469,7 +2469,7 @@ Investigative Direction: Retrieve Kolvet's tweet and identify the surgeon quoted
 
 ---
 
-**C-12201** Host Says the Doctor Who Worked on Charlie Was Dr. Lee Trotter
+**C-1874** Host Says the Doctor Who Worked on Charlie Was Dr. Lee Trotter
 
 Claim Timestamp: 00:29:05
 
@@ -2484,7 +2484,7 @@ Investigative Direction: Confirm the treating surgeon's identity through hospita
 
 ---
 
-**C-12202** Host Says Trotter Completed a Residency at Keesler Air Force Medical Center
+**C-1875** Host Says Trotter Completed a Residency at Keesler Air Force Medical Center
 
 Claim Timestamp: 00:29:13
 
@@ -2500,7 +2500,7 @@ Investigative Direction: Check Trotter's published training history or board cer
 
 ---
 
-**C-12203** Host Says a Person Matching Trotter's Name and Age Is in the Air Force and a Pilot
+**C-1876** Host Says a Person Matching Trotter's Name and Age Is in the Air Force and a Pilot
 
 Claim Timestamp: 00:29:26
 
@@ -2516,7 +2516,7 @@ Investigative Direction: Check Air Force or Reserve records and FAA airman regis
 
 ---
 
-**C-12204** Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner, Dr. Deirdre Amaro
+**C-1878** Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner, Dr. Deirdre Amaro
 
 Claim Timestamp: 00:29:48
 
@@ -2532,7 +2532,7 @@ Investigative Direction: This is a reported dream and cannot be checked; look fo
 
 ---
 
-**C-12205** Host Says Medical Examiner Deirdre Amaro Is a Major in the Army
+**C-1879** Host Says Medical Examiner Deirdre Amaro Is a Major in the Army
 
 Claim Timestamp: 00:29:51
 
@@ -2548,7 +2548,7 @@ Investigative Direction: Check Army Reserve or Medical Corps listings for the me
 
 ---
 
-**C-12206** Host Says Deirdre Amaro Is From the Ericson Family and Claims Descent From Leif Erikson
+**C-1880** Host Says Deirdre Amaro Is From the Ericson Family and Claims Descent From Leif Erikson
 
 Claim Timestamp: 00:29:57
 
@@ -2563,7 +2563,7 @@ Investigative Direction: Check the examiner's public biography and genealogical 
 
 ---
 
-**C-12207** Host Says the Military-Industrial Complex Shot JFK to Maintain Power
+**C-1881** Host Says the Military-Industrial Complex Shot JFK to Maintain Power
 
 Claim Timestamp: 00:30:38
 
@@ -2579,7 +2579,7 @@ Investigative Direction: This is a historical assertion with no evidence offered
 
 ---
 
-**C-12208** Host Says Some Military-Type Actors Were There When Charlie Was Shot
+**C-1882** Host Says Some Military-Type Actors Were There When Charlie Was Shot
 
 Claim Timestamp: 00:31:09
 
@@ -2595,7 +2595,7 @@ Investigative Direction: Ask the host to name who she means and compare with eve
 
 ---
 
-**C-12209** Host Says It Was Hard to Find a Student Who Spoke to Mainstream Media That Day
+**C-1883** Host Says It Was Hard to Find a Student Who Spoke to Mainstream Media That Day
 
 Claim Timestamp: 00:31:17
 
@@ -2610,7 +2610,7 @@ Investigative Direction: Compile the interviews given by UVU students on Septemb
 
 ---
 
-**C-12210** Host Says the Military Players Around Charlie Were Not There Before 2018
+**C-1884** Host Says the Military Players Around Charlie Were Not There Before 2018
 
 Claim Timestamp: 00:31:24
 
@@ -2626,7 +2626,7 @@ Investigative Direction: Build a dated list of TPUSA staff and advisers with ser
 
 ---
 
-**C-12211** Host Says Timpanogos Was a Level 3 Trauma Center While the Closer Hospital Was UVU
+**C-1886** Host Says Timpanogos Was a Level 3 Trauma Center While the Closer Hospital Was UVU
 
 Claim Timestamp: 00:32:55
 
@@ -2642,7 +2642,7 @@ Investigative Direction: Check the trauma-center designations and distances for 
 
 ---
 
-**C-12212** Host Says the Ambulance Was Not There When Required by Law
+**C-1887** Host Says the Ambulance Was Not There When Required by Law
 
 Claim Timestamp: 00:33:00
 
@@ -2658,7 +2658,7 @@ Investigative Direction: Check Utah event permits and the university's emergency
 
 ---
 
-**C-12213** Host Says There Is No Footage or Indication of the Drive or Arrival at Timpanogos
+**C-1888** Host Says There Is No Footage or Indication of the Drive or Arrival at Timpanogos
 
 Claim Timestamp: 00:33:11
 
@@ -2674,7 +2674,7 @@ Investigative Direction: Request hospital and traffic-camera footage and 911 log
 
 ---
 
-**C-12214** Host Says a Tipster Reported Being Downstairs at UVU When Charlie Was Brought In
+**C-1889** Host Says a Tipster Reported Being Downstairs at UVU When Charlie Was Brought In
 
 Claim Timestamp: 00:33:20
 
@@ -2690,7 +2690,7 @@ Investigative Direction: Seek on-the-record confirmation from the tipster and fr
 
 ---
 
-**C-12215** Host Says Another Tipster Heard It Announced That Charlie Had Just Died Upstairs
+**C-1890** Host Says Another Tipster Heard It Announced That Charlie Had Just Died Upstairs
 
 Claim Timestamp: 00:33:35
 
@@ -2706,7 +2706,7 @@ Investigative Direction: Seek on-the-record confirmation and compare with the ti
 
 ---
 
-**C-12216** Host Says Medical Staff Emailed That Charlie Was at UVU and Has a Medical File
+**C-1891** Host Says Medical Staff Emailed That Charlie Was at UVU and Has a Medical File
 
 Claim Timestamp: 00:33:53
 
@@ -2717,13 +2717,13 @@ Transcript Snippet: we received an email from somebody in&nbsp;&nbsp; the medica
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10196, N-11325
-Supports: C-1504
+Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Verify the sender is real medical staff and request the hospital's response.
 
 ---
 
-**C-12217** Host Says the UVU System Entry for Charlie Kirk Had His Birthday, Age and an MRN
+**C-1892** Host Says the UVU System Entry for Charlie Kirk Had His Birthday, Age and an MRN
 
 Claim Timestamp: 00:34:08
 
@@ -2734,13 +2734,13 @@ Transcript Snippet: here was the entry in the UVU system for&nbsp; Charlie Kirk.
 Anchored Artifacts: A-3194.1
 Mentions: N-3, N-1
 Related Nodes: N-10196, N-11325
-Supports: C-1504
+Supports: C-1885
 Tags: relevance:core
 Investigative Direction: Ask for the screenshot with metadata and the hospital's confirmation of whether a record exists.
 
 ---
 
-**C-12218** Host Says She Has Heard Trotter Works at Both Hospitals
+**C-1894** Host Says She Has Heard Trotter Works at Both Hospitals
 
 Claim Timestamp: 00:35:07
 
@@ -2756,7 +2756,7 @@ Investigative Direction: Check Trotter's hospital privileges at both facilities.
 
 ---
 
-**C-12219** Host Asks Medical Community to Email Tips on the Hospital Question
+**C-1895** Host Asks Medical Community to Email Tips on the Hospital Question
 
 Claim Timestamp: 00:35:30
 
@@ -2772,7 +2772,7 @@ Investigative Direction: Confirm the correct address is moretips@candaceowens.co
 
 ---
 
-**C-12220** Host Clarifies the File Was at Utah Valley Hospital Rather Than the University
+**C-1897** Host Clarifies the File Was at Utah Valley Hospital Rather Than the University
 
 Claim Timestamp: 00:39:46
 
@@ -2783,13 +2783,13 @@ Transcript Snippet: I think I said UVU medical. I meant to say&nbsp; Utah Valley
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10196, N-11325
-Qualifies: C-1504
+Qualifies: C-1885
 Tags: relevance:core
 Investigative Direction: Identify the hospital system that holds the alleged record and request confirmation.
 
 ---
 
-**C-12221** Host Says People She Confirmed With Say the Two Hospitals' Systems Do Not Talk to Each Other
+**C-1898** Host Says People She Confirmed With Say the Two Hospitals' Systems Do Not Talk to Each Other
 
 Claim Timestamp: 00:39:57
 
@@ -2805,7 +2805,7 @@ Investigative Direction: Ask both hospitals and the Utah health-information exch
 
 ---
 
-**C-12222** Host Says TPUSA Recorded Its Response Before Her Episode Aired
+**C-1899** Host Says TPUSA Recorded Its Response Before Her Episode Aired
 
 Claim Timestamp: 00:40:20
 
@@ -2821,7 +2821,7 @@ Investigative Direction: Compare the airdate of the Charlie Kirk Show episode wi
 
 ---
 
-**C-12223** Host Says James Lee, Ian Carroll and Sam Parker Surfaced the Mikey McCoy Video
+**C-1900** Host Says James Lee, Ian Carroll and Sam Parker Surfaced the Mikey McCoy Video
 
 Claim Timestamp: 00:40:34
 
@@ -2837,7 +2837,7 @@ Investigative Direction: Establish who first posted the video and when.
 
 ---
 
-**C-12224** Host Says It Tracks That Mikey Would Film Behind the Scenes, Such as Charlie Throwing Hats
+**C-1902** Host Says It Tracks That Mikey Would Film Behind the Scenes, Such as Charlie Throwing Hats
 
 Claim Timestamp: 00:42:41
 
@@ -2853,7 +2853,7 @@ Investigative Direction: Look at TPUSA social media from earlier events for behi
 
 ---
 
-**C-12225** Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger
+**C-1903** Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger
 
 Claim Timestamp: 00:42:56
 
@@ -2868,7 +2868,7 @@ Investigative Direction: Confirm the person's name and role with TPUSA staff lis
 
 ---
 
-**C-12226** Host Says Mikey's Position Does Not Fit Kolvet's Account of Filming Charlie Take a Question
+**C-1904** Host Says Mikey's Position Does Not Fit Kolvet's Account of Filming Charlie Take a Question
 
 Claim Timestamp: 00:43:05
 
@@ -2879,13 +2879,13 @@ Transcript Snippet: he's not standing where you&nbsp; can get a view of Charlie 
 Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190, N-14
 Related Nodes: N-10198
-Contradicts: C-1500
+Contradicts: C-1901
 Tags: relevance:core
 Investigative Direction: Compare the camera geometry in the video with the known placement of the barrier, stage and questioner.
 
 ---
 
-**C-12227** Host Says Mikey Is Behind Charlie in the Video, Not Beside Him
+**C-1905** Host Says Mikey Is Behind Charlie in the Video, Not Beside Him
 
 Claim Timestamp: 00:43:12
 
@@ -2901,7 +2901,7 @@ Investigative Direction: Use the full event video to fix Mikey's position relati
 
 ---
 
-**C-12228** Host Says She Never Sees Mikey Take the Phone Down in the Video
+**C-1906** Host Says She Never Sees Mikey Take the Phone Down in the Video
 
 Claim Timestamp: 00:44:03
 
@@ -2912,13 +2912,13 @@ Transcript Snippet: he just I&nbsp; never see him take that phone down.
 Anchored Artifacts: A-3196.1
 Mentions: N-3, N-190
 Related Nodes: N-10198
-Qualifies: C-1500
+Qualifies: C-1901
 Tags: relevance:core
 Investigative Direction: Frame-by-frame review of the available video for the phone's position.
 
 ---
 
-**C-12229** Host Says Holding the Ears All the Way Out Without Ducking Would Be Unlikely
+**C-1907** Host Says Holding the Ears All the Way Out Without Ducking Would Be Unlikely
 
 Claim Timestamp: 00:44:17
 
@@ -2934,7 +2934,7 @@ Investigative Direction: Review the clip for how long the hands stay at the ears
 
 ---
 
-**C-12230** Host Says She Does Not Believe Charlie Said to Walk Away and Call Erika First if Shot
+**C-1908** Host Says She Does Not Believe Charlie Said to Walk Away and Call Erika First if Shot
 
 Claim Timestamp: 00:44:49
 
@@ -2945,13 +2945,13 @@ Transcript Snippet: I don't believe that Charlie said, "If I get shot,&nbsp;&nbs
 Anchored Artifacts: A-1275.1
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10198
-Qualifies: C-1499
+Qualifies: C-1896
 Tags: relevance:core
 Investigative Direction: Ask McCoy and other staff whether Kirk gave such instructions, and check the call log sequence.
 
 ---
 
-**C-12231** Host Says the Account Comes From Kolvet and Not From Mikey McCoy Himself
+**C-1909** Host Says the Account Comes From Kolvet and Not From Mikey McCoy Himself
 
 Claim Timestamp: 00:45:00
 
@@ -2967,7 +2967,7 @@ Investigative Direction: Check whether McCoy has since made any public statement
 
 ---
 
-**C-12232** Host Says She Live-Subpoenaed Her Own Phone to Rebut Collusion Claims in the Lively Case
+**C-1910** Host Says She Live-Subpoenaed Her Own Phone to Rebut Collusion Claims in the Lively Case
 
 Claim Timestamp: 00:45:28
 
@@ -2983,7 +2983,7 @@ Investigative Direction: Review the host's livestream and the court filings alle
 
 ---
 
-**C-12233** Host Says Alex Marlow of Breitbart Was TPUSA's Guest That Day
+**C-1911** Host Says Alex Marlow of Breitbart Was TPUSA's Guest That Day
 
 Claim Timestamp: 00:46:22
 
@@ -2999,7 +2999,7 @@ Investigative Direction: Confirm the guest and date from the episode listing.
 
 ---
 
-**C-12234** Host Says Susie Wiles Eulogizing Charlie Seems a Weird Pick
+**C-1913** Host Says Susie Wiles Eulogizing Charlie Seems a Weird Pick
 
 Claim Timestamp: 00:48:03
 
@@ -3015,7 +3015,7 @@ Investigative Direction: Check the memorial program for the list of speakers and
 
 ---
 
-**C-12235** Turek Says in the Clip That He Decided in Advance What He Would Do if Charlie Were Shot
+**C-1915** Turek Says in the Clip That He Decided in Advance What He Would Do if Charlie Were Shot
 
 Claim Timestamp: 00:50:32
 
@@ -3031,7 +3031,7 @@ Investigative Direction: Compare with Turek's later accounts of his actions on S
 
 ---
 
-**C-12236** Host Says There Has Been Military Infiltration Into the Churches, Which She Calls Operation Mocking Pastor
+**C-1916** Host Says There Has Been Military Infiltration Into the Churches, Which She Calls Operation Mocking Pastor
 
 Claim Timestamp: 00:51:56
 
@@ -3047,7 +3047,7 @@ Investigative Direction: Identify the churches and pastors the host means and do
 
 ---
 
-**C-12237** Host Says Her Book Club Covers Frankism, the Cabala and Intentional Infiltration of Churches
+**C-1917** Host Says Her Book Club Covers Frankism, the Cabala and Intentional Infiltration of Churches
 
 Claim Timestamp: 00:52:54
 
@@ -3062,7 +3062,7 @@ Investigative Direction: No checkable event; review the book club reading list.
 
 ---
 
-**C-12238** Host Says Her Book Club Remark Was About Charlie Being Honored With a Charlie Kirk Day in October
+**C-1919** Host Says Her Book Club Remark Was About Charlie Being Honored With a Charlie Kirk Day in October
 
 Claim Timestamp: 00:53:48
 
@@ -3077,7 +3077,7 @@ Investigative Direction: Check the proclamation or resolution establishing the d
 
 ---
 
-**C-12239** Host Says Charlie Will Be Honored Once They Learn Who Killed Him, Not Buying the Lone Shooter
+**C-1920** Host Says Charlie Will Be Honored Once They Learn Who Killed Him, Not Buying the Lone Shooter
 
 Claim Timestamp: 00:53:54
 
@@ -3093,7 +3093,7 @@ Investigative Direction: Compare with the charging documents and evidence presen
 
 ---
 
-**C-12240** Host Says It Is a Typical Federal Maneuver to Kill Someone Like MLK or JFK and Then Grant a Holiday
+**C-1921** Host Says It Is a Typical Federal Maneuver to Kill Someone Like MLK or JFK and Then Grant a Holiday
 
 Claim Timestamp: 00:54:03
 
@@ -3108,7 +3108,7 @@ Investigative Direction: This is a historical assertion with no support given on
 
 ---
 
-**C-12241** Host Says You Cannot Disappear 30 Years of Your Life Without Pictures
+**C-1922** Host Says You Cannot Disappear 30 Years of Your Life Without Pictures
 
 Claim Timestamp: 00:55:32
 
@@ -3123,7 +3123,7 @@ Investigative Direction: Compile publicly available photos of Brigitte Trogneux 
 
 ---
 
-**C-12242** Host Says Photos Provided Came From a Woman Facing Charges Over Falsified Pictures
+**C-1923** Host Says Photos Provided Came From a Woman Facing Charges Over Falsified Pictures
 
 Claim Timestamp: 00:55:48
 
@@ -3138,7 +3138,7 @@ Investigative Direction: Identify the woman and any charges, and the photos supp
 
 ---
 
-**C-12243** Host Says Emmanuel Macron Is, Like Israel, a Rothschild Creation
+**C-1924** Host Says Emmanuel Macron Is, Like Israel, a Rothschild Creation
 
 Claim Timestamp: 00:56:08
 
@@ -3153,7 +3153,7 @@ Investigative Direction: Check Macron's career at Rothschild and Cie against the
 
 ---
 
-**C-12244** Host Says the Cabala Is the Reason for the Cultural Push for Transgenderism
+**C-1925** Host Says the Cabala Is the Reason for the Cultural Push for Transgenderism
 
 Claim Timestamp: 00:56:16
 
@@ -3168,7 +3168,7 @@ Investigative Direction: No checkable event; recorded as said.
 
 ---
 
-**C-12245** Host Says the Alleged Hackers Have Not Been Arrested
+**C-1926** Host Says the Alleged Hackers Have Not Been Arrested
 
 Claim Timestamp: 00:56:44
 
@@ -3178,13 +3178,13 @@ Transcript Snippet: this was done by a team of hackers. Okay. hackers&nbsp; who 
 
 Anchored Artifacts: A-1280.1
 Mentions: N-3, N-82
-Supports: C-1508
+Supports: C-1929
 Tags: relevance:tangential
 Investigative Direction: Look for any police report, arrests or official statement about the alleged hack.
 
 ---
 
-**C-12246** Host Says the Change Happened Years Ago and Was Spotted by Someone Who Worked for Her
+**C-1927** Host Says the Change Happened Years Ago and Was Spotted by Someone Who Worked for Her
 
 Claim Timestamp: 00:56:49
 
@@ -3199,7 +3199,7 @@ Investigative Direction: Obtain the original French reporting on how and when th
 
 ---
 
-**C-12247** Host Says Brigitte Macron Was Born Jean-Michel Trogneux and Transitioned
+**C-1930** Host Says Brigitte Macron Was Born Jean-Michel Trogneux and Transitioned
 
 Claim Timestamp: 00:57:51
 
@@ -3215,7 +3215,7 @@ Investigative Direction: Review French civil-status records and the court record
 
 ---
 
-**C-12248** Host Alleges Brigitte Macron Committed a Sexual Offense When Emmanuel Macron Was 14
+**C-1931** Host Alleges Brigitte Macron Committed a Sexual Offense When Emmanuel Macron Was 14
 
 Claim Timestamp: 00:57:58
 
@@ -3231,7 +3231,7 @@ Investigative Direction: Check the French public record on the couple's history 
 
 ---
 
-**C-12249** Host Says the Macron Suit Is About Her Claim That Brigitte Stole Her Sister's Identity, Not Being Born Male
+**C-1932** Host Says the Macron Suit Is About Her Claim That Brigitte Stole Her Sister's Identity, Not Being Born Male
 
 Claim Timestamp: 00:58:24
 
@@ -3247,7 +3247,7 @@ Investigative Direction: Read the complaint in the Delaware case to see which st
 
 ---
 
-**C-12250** Host Says Macron Has Never Offered Genetic Evidence Because the Hearing Has Not Reached That Stage
+**C-1933** Host Says Macron Has Never Offered Genetic Evidence Because the Hearing Has Not Reached That Stage
 
 Claim Timestamp: 00:58:37
 
@@ -3263,7 +3263,7 @@ Investigative Direction: Review the court docket for any evidentiary submissions
 
 ---
 
-**C-12251** Host Says the Case Has Not Reached Any Stage and Filings Are Preliminary
+**C-1934** Host Says the Case Has Not Reached Any Stage and Filings Are Preliminary
 
 Claim Timestamp: 00:58:42
 
@@ -3279,7 +3279,7 @@ Investigative Direction: Check the docket for the actual procedural posture.
 
 ---
 
-**C-12252** Host Says She Wrote Every Word of the Book Outside the Matrix
+**C-1935** Host Says She Wrote Every Word of the Book Outside the Matrix
 
 Claim Timestamp: 01:03:39
 
@@ -3294,7 +3294,7 @@ Investigative Direction: No checkable event beyond the imprint.
 
 ---
 
-**C-12253** Host Says She Self-Published Her Book With a Catholic Printer, No Mainstream Publisher
+**C-1936** Host Says She Self-Published Her Book With a Catholic Printer, No Mainstream Publisher
 
 Claim Timestamp: 01:03:39
 
@@ -3309,7 +3309,7 @@ Investigative Direction: Check the book's imprint and printer.
 
 ---
 
-**C-12254** Host Says Her Husband Used to Work With and Donate to Friends of Israel in the UK
+**C-1937** Host Says Her Husband Used to Work With and Donate to Friends of Israel in the UK
 
 Claim Timestamp: 01:05:12
 
@@ -3324,7 +3324,7 @@ Investigative Direction: Check public donation records and group listings in the
 
 ---
 
-**C-12255** Host Says She Was Pro-Israel When She and Her Husband Met
+**C-1938** Host Says She Was Pro-Israel When She and Her Husband Met
 
 Claim Timestamp: 01:05:20
 
@@ -3339,7 +3339,7 @@ Investigative Direction: Compare with her earlier public statements about Israel
 
 ---
 
-**C-12256** Host Says Trump Inviting Kash Patel to the Charlie Holiday Event Shows He Wants It Buried
+**C-1939** Host Says Trump Inviting Kash Patel to the Charlie Holiday Event Shows He Wants It Buried
 
 Claim Timestamp: 01:06:57
 
@@ -3355,7 +3355,7 @@ Investigative Direction: Check the event guest list and the White House schedule
 
 ---
 
-**C-12257** Host Says Don Jr. May Have Said He Accepts the Official Narrative
+**C-1940** Host Says Don Jr. May Have Said He Accepts the Official Narrative
 
 Claim Timestamp: 01:07:08
 
@@ -3370,7 +3370,7 @@ Investigative Direction: Locate any Don Jr. statement on the official narrative.
 
 ---
 
-**C-12258** Host Says Miriam Adelson Gave Trump $100 Million With an Explicit Understanding on West Bank Annexation
+**C-1941** Host Says Miriam Adelson Gave Trump $100 Million With an Explicit Understanding on West Bank Annexation
 
 Claim Timestamp: 01:07:19
 
@@ -3386,7 +3386,7 @@ Investigative Direction: Check FEC filings for Adelson contributions and public 
 
 ---
 
-**C-12259** Host Says Trump Pre-Agreed to Annexation and Will Act on It
+**C-1942** Host Says Trump Pre-Agreed to Annexation and Will Act on It
 
 Claim Timestamp: 01:07:31
 
@@ -3402,7 +3402,7 @@ Investigative Direction: Track administration actions and statements on the West
 
 ---
 
-**C-12260** Host Says She Hates That Charlie Was Right About His Life
+**C-1943** Host Says She Hates That Charlie Was Right About His Life
 
 Claim Timestamp: 01:08:29
 
@@ -3418,7 +3418,7 @@ Investigative Direction: Compare with the earlier accounts of Kirk's dreams.
 
 ---
 
-**C-12261** Host Says Kanye Was Put on a Psychiatric 5150 Hold to Portray Him as Crazy
+**C-1944** Host Says Kanye Was Put on a Psychiatric 5150 Hold to Portray Him as Crazy
 
 Claim Timestamp: 01:08:50
 

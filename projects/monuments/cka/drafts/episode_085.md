@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep085): N-410, N-418, N-10571, N-10572, N-10722
   - Tip-minted Nodes (reintro-ep085): N-611, N-675, N-776, N-10919
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14450–C-14549
+  - Claim Range: C-7557–C-7684
   - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-178, N-190, N-209, N-212, N-220, N-452, N-598, N-599, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
  - New Nodes Introduced: N-10568
  - Hole-minted Nodes (wave3): N-397, N-408, N-409
@@ -152,7 +152,6 @@ Confidence: high
 - Analysis date: Protocol application
 - Ledger continuation summary:
  - Artifact Families Introduced: A-1903, A-1904, A-1905, A-1906, A-1907, A-1908, A-1909, A-1910, A-1911
- - Claim Range: C-2581–C-2608
  - New People Nodes Introduced: none (Wave 2: local ids removed)
  - New Investigation Target Nodes Introduced: N-10566, N-10567, N-10568
  - Existing Nodes Reused: N-1, N-2, N-3
@@ -181,7 +180,7 @@ Video Timestamp: 00:05:42–00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588, N-10568*
+*Related: C-7565, C-7566, C-7567, C-7570, C-7572, C-7573, C-7576, C-7578, N-10568*
 
 ---
 
@@ -195,7 +194,7 @@ Video Timestamp: 00:16:34–00:17:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2589, C-2590, N-1, N-2*
+*Related: C-7592, C-7593, N-1, N-2*
 
 ---
 
@@ -209,7 +208,7 @@ Video Timestamp: 00:19:47–00:20:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2591, C-2592, C-2593, N-2*
+*Related: C-7598, C-7600, C-7601, N-2*
 
 ---
 
@@ -223,7 +222,7 @@ Video Timestamp: 00:14:38–00:15:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2594, N-3, N-10567*
+*Related: C-7587, N-3, N-10567*
 
 ---
 
@@ -237,7 +236,7 @@ Video Timestamp: 00:40:25–00:41:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2595, C-2596, C-2597, N-1, N-2, N-41, N-10566*
+*Related: C-7654, C-7655, C-7656, N-1, N-2, N-41, N-10566*
 
 ---
 
@@ -251,7 +250,7 @@ Video Timestamp: 00:35:31–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2598, C-2599, C-2600, N-10566*
+*Related: C-7638, C-7639, C-7640, N-10566*
 
 **A-1908.2** Sheriff Brooksby's second press conference clip describing how Tyler Robinson and his parents were driven to the Sheriff's office
 
@@ -261,7 +260,7 @@ Video Timestamp: 00:41:56–00:42:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2601, C-2602, N-10566*
+*Related: C-7661, C-7663, N-10566*
 
 ---
 
@@ -275,7 +274,7 @@ Video Timestamp: 00:50:16–00:51:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2603, C-2604, N-2*
+*Related: C-7669, C-7670, N-2*
 
 ---
 
@@ -289,7 +288,7 @@ Video Timestamp: 00:28:15–00:29:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (no separate article read aloud)
 
-*Related: C-2605, C-2606, C-2607, C-2608*
+*Related: C-7618, C-7619, C-7623, C-7620*
 
 ---
 
@@ -316,7 +315,7 @@ Video Timestamp: 00:02:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14453, C-14454, N-1*
+*Related: C-7560, C-7561, N-1*
 
 ---
 
@@ -326,19 +325,19 @@ Confidence Level: Medium
 
 First named by the host at 00:10:32 in episode 85.
 
-*Related: C-2587, C-2588*
+*Related: C-7576, C-7578*
 
 **N-408** Frédéric Vaglio
 
 First named by the host at 00:10:32 in episode 85.
 
-*Related: C-2587, C-2588*
+*Related: C-7576, C-7578*
 
 **N-397** Jean-Luc Bagur
 
 First named by the host at 00:10:32 in episode 85.
 
-*Related: C-2587, C-2588*
+*Related: C-7576, C-7578*
 
 
 **N-1** Charlie Kirk
@@ -350,7 +349,7 @@ Claim Count: Multiple
 Episode Count: Multiple
 Investigative Pressure: High
 
-*Related: A-1904.1, A-1905.1, A-1906.1, A-1907.1, C-2589, C-2590, C-2591, C-2594, C-2603*
+*Related: A-1904.1, A-1905.1, A-1906.1, A-1907.1, C-7592, C-7593, C-7598, C-7587, C-7669*
 
 ---
 
@@ -363,20 +362,20 @@ Claim Count: 5
 Episode Count: Multiple
 Investigative Pressure: High
 
-*Related: A-1904.1, A-1905.1, A-1907.1, A-1909.1, A-1911.1, C-2589, C-2590, C-2591, C-2603, C-2604*
+*Related: A-1904.1, A-1905.1, A-1907.1, A-1909.1, A-1911.1, C-7592, C-7593, C-7598, C-7669, C-7670*
 
 ---
 
 **N-10566** Tyler Robinson Confession Narrative Discrepancy
 
-Persistent inconsistency between Governor Cox's claim (A-1907.1, C-2597) that Robinson "confessed or implied" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.
+Persistent inconsistency between Governor Cox's claim (A-1907.1, C-7656) that Robinson "confessed or implied" guilt and Sheriff Brooksby's account (A-1908.2) which contains no reference to any confession. The host further asserts no signed confession statement was produced.
 
 Evidence Count: 3
 Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1907.1, A-1908.1, A-1908.2, C-2597, C-2602*
+*Related: A-1907.1, A-1908.1, A-1908.2, C-7656, C-7663*
 
 ---
 
@@ -389,7 +388,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1903.1, A-1906.1, C-2594*
+*Related: A-1903.1, A-1906.1, C-7587*
 
 ---
 
@@ -402,7 +401,7 @@ Claim Count: 8
 Episode Count: 1
 Investigative Pressure: Low (separate trial)
 
-*Related: A-1903.1, C-2581, C-2582, C-2583, C-2584, C-2585, C-2586, C-2587, C-2588*
+*Related: A-1903.1, C-7565, C-7566, C-7567, C-7570, C-7572, C-7573, C-7576, C-7578*
 
 ---
 
@@ -415,7 +414,7 @@ Claim Count: 1
 Episode Count: 2
 Investigative Pressure: Low
 
-*Related: C-14521*
+*Related: C-7649*
 
 ---
 
@@ -423,7 +422,7 @@ Investigative Pressure: Low
 
 Host; speaks for herself.
 
-*Related: C-14450, C-14451, C-14452, C-14455, C-14456, C-14457, C-14458, C-14459, C-14460, C-14461, C-14462, C-14463, C-14464, C-14465, C-14466, C-14467, C-14468, C-14469, C-14470, C-14471, C-14472, C-14473, C-14474, C-14475, C-14476, C-14477, C-14478, C-14479, C-14481, C-14482, C-14483, C-14484, C-14485, C-14486, C-14487, C-14488, C-14489, C-14490, C-14491, C-14492, C-14493, C-14494, C-14495, C-14496, C-14498, C-14499, C-14500, C-14501, C-14502, C-14503, C-14504, C-14505, C-14506, C-14507, C-14508, C-14509, C-14510, C-14511, C-14512, C-14514, C-14515, C-14516, C-14517, C-14518, C-14519, C-14520, C-14521, C-14522, C-14523, C-14524, C-14525, C-14527, C-14528, C-14529, C-14531, C-14532, C-14533, C-14534, C-14535, C-14536, C-14537, C-14538, C-14539, C-14540, C-14541, C-14542, C-14543, C-14544, C-14545, C-14546, C-14547, C-14548, C-14549*
+*Related: C-7557, C-7558, C-7559, C-7562, C-7563, C-7564, C-7568, C-7569, C-7571, C-7574, C-7575, C-7577, C-7579, C-7580, C-7581, C-7582, C-7583, C-7584, C-7585, C-7586, C-7588, C-7589, C-7590, C-7591, C-7594, C-7595, C-7596, C-7597, C-7602, C-7603, C-7604, C-7605, C-7606, C-7607, C-7608, C-7609, C-7610, C-7611, C-7612, C-7613, C-7614, C-7615, C-7616, C-7617, C-7622, C-7624, C-7625, C-7626, C-7627, C-7628, C-7629, C-7630, C-7631, C-7632, C-7633, C-7634, C-7635, C-7636, C-7637, C-7642, C-7643, C-7644, C-7645, C-7646, C-7647, C-7648, C-7649, C-7650, C-7651, C-7652, C-7653, C-7658, C-7659, C-7660, C-7664, C-7665, C-7666, C-7667, C-7668, C-7671, C-7672, C-7673, C-7674, C-7675, C-7676, C-7677, C-7678, C-7679, C-7680, C-7681, C-7682, C-7683, C-7684*
 
 ---
 
@@ -431,7 +430,7 @@ Host; speaks for herself.
 
 Donald Trump; named in the Gaza and Iran boots-on-the-ground claims.
 
-*Related: C-14465, C-14496*
+*Related: C-7580, C-7617*
 
 ---
 
@@ -439,7 +438,7 @@ Donald Trump; named in the Gaza and Iran boots-on-the-ground claims.
 
 Frank Turek; his UVU remarks about the hospital and the plane, and the host's account of his audience Q&A.
 
-*Related: C-14467, C-14479, C-14480*
+*Related: C-7582, C-7597, C-7599*
 
 ---
 
@@ -447,7 +446,7 @@ Frank Turek; his UVU remarks about the hospital and the plane, and the host's ac
 
 Jeffrey Epstein; named in the Hamptons summit claim.
 
-*Related: C-14486*
+*Related: C-7607*
 
 ---
 
@@ -455,7 +454,7 @@ Jeffrey Epstein; named in the Hamptons summit claim.
 
 Andrew Kolvet; named in the host's lay-low account and the House Inhabit claim.
 
-*Related: C-14470, C-14542, C-14544*
+*Related: C-7585, C-7677, C-7679*
 
 ---
 
@@ -463,7 +462,7 @@ Andrew Kolvet; named in the host's lay-low account and the House Inhabit claim.
 
 Justin Streiff; the host says he told her he arranged all the planes.
 
-*Related: C-14481*
+*Related: C-7602*
 
 ---
 
@@ -471,7 +470,7 @@ Justin Streiff; the host says he told her he arranged all the planes.
 
 Rob McCoy; named among the 'McCoys' with military ties.
 
-*Related: C-14467*
+*Related: C-7582*
 
 ---
 
@@ -479,7 +478,7 @@ Rob McCoy; named among the 'McCoys' with military ties.
 
 Tucker Carlson; the Tuckergate remarks about Ackman and the host's call to him on September 10.
 
-*Related: C-14484, C-14544*
+*Related: C-7605, C-7679*
 
 ---
 
@@ -487,7 +486,7 @@ Tucker Carlson; the Tuckergate remarks about Ackman and the host's call to him o
 
 The host's husband; named in the AI-image and Stand With Candace cup remarks.
 
-*Related: C-14543, C-14545*
+*Related: C-7678, C-7680*
 
 ---
 
@@ -495,7 +494,7 @@ The host's husband; named in the AI-image and Stand With Candace cup remarks.
 
 Benjamin Netanyahu; named in the Iran-war and boots-on-the-ground claims.
 
-*Related: C-14466, C-14496*
+*Related: C-7581, C-7617*
 
 ---
 
@@ -503,7 +502,7 @@ Benjamin Netanyahu; named in the Iran-war and boots-on-the-ground claims.
 
 Bill Ackman; subject of Tuckergate and the Hamptons summit.
 
-*Related: C-14484, C-14486*
+*Related: C-7605, C-7607*
 
 ---
 
@@ -511,7 +510,7 @@ Bill Ackman; subject of Tuckergate and the Hamptons summit.
 
 Dave Smith; named in the Hammer debate.
 
-*Related: C-14485*
+*Related: C-7606*
 
 ---
 
@@ -519,7 +518,7 @@ Dave Smith; named in the Hammer debate.
 
 Tyler Robinson; subject of the confession, surrender and staircase-image claims.
 
-*Related: C-14455, C-14497, C-14500, C-14501, C-14502, C-14503, C-14504, C-14505, C-14510, C-14512, C-14514, C-14516, C-14517, C-14518, C-14519, C-14520, C-14524, C-14525, C-14527, C-14530*
+*Related: C-7562, C-7621, C-7625, C-7626, C-7627, C-7628, C-7629, C-7630, C-7635, C-7637, C-7642, C-7644, C-7645, C-7646, C-7647, C-7648, C-7652, C-7653, C-7658, C-7662*
 
 ---
 
@@ -527,7 +526,7 @@ Tyler Robinson; subject of the confession, surrender and staircase-image claims.
 
 Spencer Cox; the host disputes his account of Robinson's confession.
 
-*Related: C-14524, C-14525, C-14526*
+*Related: C-7652, C-7653, C-7657*
 
 ---
 
@@ -535,7 +534,7 @@ Spencer Cox; the host disputes his account of Robinson's confession.
 
 Josh Hammer; the July 14 episode guest.
 
-*Related: C-14485*
+*Related: C-7606*
 
 ---
 
@@ -543,7 +542,7 @@ Josh Hammer; the July 14 episode guest.
 
 Kash Patel; the host cites his use of 33 and alleged delaying of the investigation.
 
-*Related: C-14468, C-14521, C-14522, C-14523, C-14525*
+*Related: C-7583, C-7649, C-7650, C-7651, C-7653*
 
 ---
 
@@ -551,7 +550,7 @@ Kash Patel; the host cites his use of 33 and alleged delaying of the investigati
 
 Brigitte Macron; the rumor and open-case claims.
 
-*Related: C-14461, C-14462, C-14473*
+*Related: C-7574, C-7575, C-7589*
 
 ---
 
@@ -559,7 +558,7 @@ Brigitte Macron; the rumor and open-case claims.
 
 Alex Clark; the host relays her plane remark.
 
-*Related: C-14535*
+*Related: C-7668*
 
 ---
 
@@ -567,7 +566,7 @@ Alex Clark; the host relays her plane remark.
 
 Mike Mitchell; the family friend in the surrender account.
 
-*Related: C-14502, C-14503, C-14504, C-14512, C-14514, C-14515, C-14516, C-14528, C-14529*
+*Related: C-7627, C-7628, C-7629, C-7637, C-7642, C-7643, C-7644, C-7659, C-7660*
 
 ---
 
@@ -575,7 +574,7 @@ Mike Mitchell; the family friend in the surrender account.
 
 Jared Kushner; named in the Gaza real estate claim.
 
-*Related: C-14465*
+*Related: C-7580*
 
 ---
 
@@ -583,7 +582,7 @@ Jared Kushner; named in the Gaza real estate claim.
 
 Stacy Sheridan; with Erika when she learned of Charlie's death.
 
-*Related: C-14482*
+*Related: C-7603*
 
 ---
 
@@ -591,7 +590,7 @@ Stacy Sheridan; with Erika when she learned of Charlie's death.
 
 Mikey McCoy (transcribed 'Mikey' and 'Mikey McCoy'); the plane and assistant claims.
 
-*Related: C-14467, C-14480, C-14481, C-14488, C-14493*
+*Related: C-7582, C-7599, C-7602, C-7609, C-7614*
 
 ---
 
@@ -599,7 +598,7 @@ Mikey McCoy (transcribed 'Mikey' and 'Mikey McCoy'); the plane and assistant cla
 
 Joe Kent; named in the Patel investigation and resignation claims.
 
-*Related: C-14522, C-14523, C-14537*
+*Related: C-7650, C-7651, C-7672*
 
 ---
 
@@ -607,7 +606,7 @@ Joe Kent; named in the Patel investigation and resignation claims.
 
 Alexis Wilkins; named in the Russian-agent and Freemason-family claims.
 
-*Related: C-14540, C-14541*
+*Related: C-7675, C-7676*
 
 ---
 
@@ -615,7 +614,7 @@ Alexis Wilkins; named in the Russian-agent and Freemason-family claims.
 
 Milo Yiannopoulos; named in the AI-image claim.
 
-*Related: C-14543*
+*Related: C-7678*
 
 ---
 
@@ -623,7 +622,7 @@ Milo Yiannopoulos; named in the AI-image claim.
 
 Nate Brooksby; Washington County Sheriff who resigned.
 
-*Related: C-14497, C-14498, C-14499, C-14512, C-14513, C-14514, C-14527, C-14528, C-14530*
+*Related: C-7621, C-7622, C-7624, C-7637, C-7641, C-7642, C-7658, C-7659, C-7662*
 
 ---
 
@@ -631,7 +630,7 @@ Nate Brooksby; Washington County Sheriff who resigned.
 
 Bari Weiss; interviewed Erika Kirk.
 
-*Related: C-14475, C-14476*
+*Related: C-7591, C-7594*
 
 ---
 
@@ -639,7 +638,7 @@ Bari Weiss; interviewed Erika Kirk.
 
 Derek Niekerk; the host calls him Erika's personal security guard.
 
-*Related: C-14493, C-14494*
+*Related: C-7614, C-7615*
 
 ---
 
@@ -647,7 +646,7 @@ Derek Niekerk; the host calls him Erika's personal security guard.
 
 Lindsey Graham; the Disney World claims.
 
-*Related: C-14532, C-14533*
+*Related: C-7665, C-7666*
 
 ---
 
@@ -655,7 +654,7 @@ Lindsey Graham; the Disney World claims.
 
 Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she learned of the death.
 
-*Related: C-14482, C-14487, C-14488, C-14493*
+*Related: C-7603, C-7608, C-7609, C-7614*
 
 ---
 
@@ -663,7 +662,7 @@ Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she le
 
 Scott Bessent; named in the host's letters remark.
 
-*Related: C-14511*
+*Related: C-7636*
 
 ---
 
@@ -671,7 +670,7 @@ Scott Bessent; named in the host's letters remark.
 
 Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.
 
-*Related: C-14542, C-14543*
+*Related: C-7677, C-7678*
 
 ---
 
@@ -679,7 +678,7 @@ Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.
 
 Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background claims.
 
-*Related: C-14487, C-14489, C-14490, C-14491, C-14492, C-14493, C-14494*
+*Related: C-7608, C-7610, C-7611, C-7612, C-7613, C-7614, C-7615*
 
 ---
 
@@ -687,7 +686,7 @@ Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background clai
 
 Matt Robinson, Tyler Robinson's father.
 
-*Related: C-14517, C-14518, C-14527, C-14528, C-14529*
+*Related: C-7645, C-7646, C-7658, C-7659, C-7660*
 
 ---
 
@@ -695,7 +694,7 @@ Matt Robinson, Tyler Robinson's father.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14492, C-14511, C-14523*
+*Related: C-7613, C-7636, C-7651*
 
 ---
 
@@ -703,7 +702,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14532, C-14533*
+*Related: C-7665, C-7666*
 
 ---
 
@@ -711,7 +710,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14479, C-14526*
+*Related: C-7597, C-7657*
 
 ---
 
@@ -719,7 +718,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14461, C-14462*
+*Related: C-7574, C-7575*
 
 ---
 
@@ -727,7 +726,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14500, C-14501, C-14502, C-14504, C-14512, C-14525, C-14527*
+*Related: C-7625, C-7626, C-7627, C-7629, C-7637, C-7653, C-7658*
 
 ---
 
@@ -735,7 +734,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14500, C-14517, C-14518, C-14520, C-14528, C-14529*
+*Related: C-7625, C-7645, C-7646, C-7648, C-7659, C-7660*
 
 ---
 
@@ -743,7 +742,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14453, C-14454, C-14544*
+*Related: C-7560, C-7561, C-7679*
 
 ---
 
@@ -751,7 +750,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14486*
+*Related: C-7607*
 
 ---
 
@@ -759,7 +758,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14497, C-14498, C-14513*
+*Related: C-7621, C-7622, C-7641*
 
 ---
 
@@ -767,7 +766,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14474, C-14509*
+*Related: C-7590, C-7634*
 
 ---
 
@@ -775,7 +774,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14465*
+*Related: C-7580*
 
 ---
 
@@ -783,7 +782,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14510*
+*Related: C-7635*
 
 ---
 
@@ -791,7 +790,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14548, C-14549*
+*Related: C-7683, C-7684*
 
 ---
 
@@ -799,7 +798,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14537*
+*Related: C-7672*
 
 ---
 
@@ -807,7 +806,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14502, C-14503, C-14516, C-14529*
+*Related: C-7627, C-7628, C-7644, C-7660*
 
 ---
 
@@ -815,7 +814,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14514*
+*Related: C-7642*
 
 ---
 
@@ -823,7 +822,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14515*
+*Related: C-7643*
 
 ---
 
@@ -831,7 +830,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14519*
+*Related: C-7647*
 
 ---
 
@@ -839,7 +838,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14468, C-14521*
+*Related: C-7583, C-7649*
 
 ---
 
@@ -847,7 +846,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14476, C-14477, C-14478*
+*Related: C-7594, C-7595, C-7596*
 
 ---
 
@@ -855,7 +854,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14505*
+*Related: C-7630*
 
 ---
 
@@ -863,7 +862,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14481*
+*Related: C-7602*
 
 ---
 
@@ -871,7 +870,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14459*
+*Related: C-7569*
 
 ---
 
@@ -879,7 +878,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14450, C-14451, C-14456, C-14460, C-14461*
+*Related: C-7557, C-7558, C-7563, C-7571, C-7574*
 
 ---
 
@@ -887,7 +886,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14480*
+*Related: C-7599*
 
 ---
 
@@ -895,7 +894,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14475*
+*Related: C-7591*
 
 ---
 
@@ -903,7 +902,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14522, C-14523*
+*Related: C-7650, C-7651*
 
 ---
 
@@ -911,7 +910,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14506*
+*Related: C-7631*
 
 ---
 
@@ -919,7 +918,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14467, C-14492*
+*Related: C-7582, C-7613*
 
 ---
 
@@ -927,7 +926,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14534, C-14535*
+*Related: C-7667, C-7668*
 
 ---
 
@@ -935,7 +934,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14484, C-14486*
+*Related: C-7605, C-7607*
 
 ---
 
@@ -943,7 +942,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14482*
+*Related: C-7603*
 
 ---
 
@@ -951,7 +950,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14466, C-14469*
+*Related: C-7581, C-7584*
 
 ---
 
@@ -959,7 +958,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14496*
+*Related: C-7617*
 
 ---
 
@@ -967,7 +966,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14537*
+*Related: C-7672*
 
 ---
 
@@ -975,7 +974,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14540*
+*Related: C-7675*
 
 ---
 
@@ -983,7 +982,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14483, C-14487, C-14488, C-14489, C-14490, C-14491, C-14493, C-14494*
+*Related: C-7604, C-7608, C-7609, C-7610, C-7611, C-7612, C-7614, C-7615*
 
 ---
 
@@ -991,7 +990,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14538, C-14539*
+*Related: C-7673, C-7674*
 
 ---
 
@@ -999,7 +998,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14539*
+*Related: C-7674*
 
 ---
 
@@ -1007,7 +1006,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14546, C-14547*
+*Related: C-7681, C-7682*
 
 ---
 
@@ -1015,7 +1014,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14542, C-14543*
+*Related: C-7677, C-7678*
 
 ---
 
@@ -1023,7 +1022,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14473*
+*Related: C-7589*
 
 ---
 
@@ -1031,7 +1030,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14506, C-14507, C-14508, C-14538, C-14539*
+*Related: C-7631, C-7632, C-7633, C-7673, C-7674*
 
 ---
 
@@ -1039,7 +1038,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14483, C-14485, C-14487*
+*Related: C-7604, C-7606, C-7608*
 
 ---
 
@@ -1047,7 +1046,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14466, C-14469, C-14495*
+*Related: C-7581, C-7584, C-7616*
 
 ---
 
@@ -1055,7 +1054,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14451, C-14452, C-14455, C-14456, C-14457, C-14531, C-14536, C-14541*
+*Related: C-7558, C-7559, C-7562, C-7563, C-7564, C-7664, C-7671, C-7676*
 
 ---
 
@@ -1063,7 +1062,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14548, C-14549*
+*Related: C-7683, C-7684*
 
 ---
 
@@ -1072,13 +1071,13 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 Sudden resignation of Washington County Sheriff Nate Brooksby on a Friday, with an interim sheriff appointed, his name removed from official pages, and the host speculating about a link to the Robinson case.
 
-*Related: C-14498, C-14499*
+*Related: C-7622, C-7624*
 
 ---
 
 # Claim Register
 
-**C-2581** Trial of 22 defendants in France centered on Athanor Masonic lodge
+**C-7565** Trial of 22 defendants in France centered on Athanor Masonic lodge
 
 Claim Timestamp: 00:05:42
 
@@ -1090,7 +1089,7 @@ Investigative Direction: Verify via the original Guardian article and French cou
 
 ---
 
-**C-2582** Lodge accused of running hit squads
+**C-7566** Lodge accused of running hit squads
 
 Claim Timestamp: 00:06:50
 
@@ -1102,7 +1101,7 @@ Investigative Direction: Verify prosecutor filings in the French trial.
 
 ---
 
-**C-2583** Per Article Host Reads, Four DGSE Officers Among Defendants
+**C-7567** Per Article Host Reads, Four DGSE Officers Among Defendants
 
 Claim Timestamp: 00:06:50
 
@@ -1114,7 +1113,7 @@ Investigative Direction: Cross-reference with French court documents.
 
 ---
 
-**C-2584** Per Article Host Reads, Failed July 2020 Contract Killing Targeted Marie-Hélène Dini
+**C-7570** Per Article Host Reads, Failed July 2020 Contract Killing Targeted Marie-Hélène Dini
 
 Claim Timestamp: 00:07:55
 
@@ -1126,7 +1125,7 @@ Investigative Direction: Verify date and circumstances of arrest via French pres
 
 ---
 
-**C-2585** Hitmen claimed to be acting on behalf of the French state
+**C-7572** Hitmen claimed to be acting on behalf of the French state
 
 Claim Timestamp: 00:08:53
 
@@ -1138,7 +1137,7 @@ Investigative Direction: Verify investigator statements in court filings.
 
 ---
 
-**C-2586** Hitmen stated Dini worked for Mossad
+**C-7573** Hitmen stated Dini worked for Mossad
 
 Claim Timestamp: 00:08:55
 
@@ -1150,7 +1149,7 @@ Investigative Direction: Verify whether this allegation appears in formal charge
 
 ---
 
-**C-2587** Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators
+**C-7576** Jean-Luc Bagur, Frédéric Vaglio, and Daniel Beaulieu Identified as Principal Conspirators
 
 Claim Timestamp: 00:10:32
 
@@ -1163,7 +1162,7 @@ Investigative Direction: Verify role assignments via French court documents.
 
 ---
 
-**C-2588** Daniel Beaulieu Attempted Suicide in Prison
+**C-7578** Daniel Beaulieu Attempted Suicide in Prison
 
 Claim Timestamp: 00:11:16
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Verify incident via French press reporting or court rec
 
 ---
 
-**C-2589** Erika Kirk affirmed belief that Tyler Robinson murdered Charlie Kirk
+**C-7592** Erika Kirk affirmed belief that Tyler Robinson murdered Charlie Kirk
 
 Claim Timestamp: 00:16:59
 
@@ -1188,7 +1187,7 @@ Investigative Direction: Cross-check with the published version of the Bari Weis
 
 ---
 
-**C-2590** Erika Kirk claimed to have seen the autopsy report
+**C-7593** Erika Kirk claimed to have seen the autopsy report
 
 Claim Timestamp: 00:17:32
 
@@ -1200,7 +1199,7 @@ Investigative Direction: Determine whether such access is procedurally consisten
 
 ---
 
-**C-2591** Frank Turek described Erika being told of Charlie's death
+**C-7598** Frank Turek described Erika being told of Charlie's death
 
 Claim Timestamp: 00:19:47
 
@@ -1212,7 +1211,7 @@ Investigative Direction: Verify against other witness accounts of the moment.
 
 ---
 
-**C-2592** Stacy Sheridan and Katherine Locastro identified as with Erika
+**C-7600** Stacy Sheridan and Katherine Locastro identified as with Erika
 
 Claim Timestamp: 00:20:50
 
@@ -1224,7 +1223,7 @@ Investigative Direction: Verify against other contemporaneous accounts.
 
 ---
 
-**C-2593** Frank Turek stated Mikey arranged to retrieve Erika
+**C-7601** Frank Turek stated Mikey arranged to retrieve Erika
 
 Claim Timestamp: 00:20:50
 
@@ -1237,7 +1236,7 @@ Investigative Direction: Cross-check with other accounts of plane arrangements.
 
 ---
 
-**C-2594** Candace Owens' November tweet asserted French Legion training and multi-state involvement
+**C-7587** Candace Owens' November tweet asserted French Legion training and multi-state involvement
 
 Claim Timestamp: 00:14:53
 
@@ -1250,7 +1249,7 @@ Investigative Direction: Locate the original tweet and any subsequent corroborat
 
 ---
 
-**C-2595** Governor Cox stated family member contacted family friend
+**C-7654** Governor Cox stated family member contacted family friend
 
 Claim Timestamp: 00:40:25
 
@@ -1263,7 +1262,7 @@ Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
 
-**C-2596** Governor Cox stated family friend contacted Washington County Sheriff's Office
+**C-7655** Governor Cox stated family friend contacted Washington County Sheriff's Office
 
 Claim Timestamp: 00:40:25
 
@@ -1276,7 +1275,7 @@ Investigative Direction: Cross-reference with Brooksby's account.
 
 ---
 
-**C-2597** Governor Cox stated Robinson "confessed or implied"
+**C-7656** Governor Cox stated Robinson "confessed or implied"
 
 Claim Timestamp: 00:40:25
 
@@ -1289,7 +1288,7 @@ Investigative Direction: Identify whether any signed confession statement exists
 
 ---
 
-**C-2598** Brooksby received call from retired detective friend at 8:02 PM
+**C-7638** Brooksby received call from retired detective friend at 8:02 PM
 
 Claim Timestamp: 00:35:31
 
@@ -1302,7 +1301,7 @@ Investigative Direction: Identify the individual via court filings.
 
 ---
 
-**C-2599** Brooksby told Robinson had suicidal ideations
+**C-7639** Brooksby told Robinson had suicidal ideations
 
 Claim Timestamp: 00:36:15
 
@@ -1315,7 +1314,7 @@ Investigative Direction: Verify against other sources.
 
 ---
 
-**C-2600** Robinson's parents convinced him not to go to remote area
+**C-7640** Robinson's parents convinced him not to go to remote area
 
 Claim Timestamp: 00:36:15
 
@@ -1328,7 +1327,7 @@ Investigative Direction: Cross-reference with subsequent reporting.
 
 ---
 
-**C-2601** Friend drove Robinson and parents to Sheriff's office
+**C-7661** Friend drove Robinson and parents to Sheriff's office
 
 Claim Timestamp: 00:41:56
 
@@ -1341,7 +1340,7 @@ Investigative Direction: Verify against court records and other accounts.
 
 ---
 
-**C-2602** Brooksby stated Robinson feared SWAT team or being shot
+**C-7663** Brooksby stated Robinson feared SWAT team or being shot
 
 Claim Timestamp: 00:42:54
 
@@ -1350,11 +1349,11 @@ Claim: Sheriff Brooksby stated Tyler Robinson was fearful of a SWAT team hit on 
 Anchored Artifacts: A-1908.2
 Mentions: N-40, N-272
 Related Nodes: N-10566
-Investigative Direction: Compare with Cox's framing of an outright confession (C-2597).
+Investigative Direction: Compare with Cox's framing of an outright confession (C-7656).
 
 ---
 
-**C-2603** Erika Kirk was on plane when Charlie was pronounced dead
+**C-7669** Erika Kirk was on plane when Charlie was pronounced dead
 
 Claim Timestamp: 00:50:16
 
@@ -1366,7 +1365,7 @@ Investigative Direction: Verify against other reporting on timing.
 
 ---
 
-**C-2604** Erika Kirk described the day as "gorgeous"
+**C-7670** Erika Kirk described the day as "gorgeous"
 
 Claim Timestamp: 00:50:16
 
@@ -1378,7 +1377,7 @@ Investigative Direction: Cross-reference against other contemporaneous accounts 
 
 ---
 
-**C-2605** Host Says Sheriff Brooksby Resigned from Washington County Sheriff's Office
+**C-7618** Host Says Sheriff Brooksby Resigned from Washington County Sheriff's Office
 
 Claim Timestamp: 00:28:15
 
@@ -1391,7 +1390,7 @@ Investigative Direction: Obtain official Washington County Commission statement 
 
 ---
 
-**C-2606** Brooksby resignation occurred on a Friday
+**C-7619** Brooksby resignation occurred on a Friday
 
 Claim Timestamp: 00:28:15
 
@@ -1404,7 +1403,7 @@ Investigative Direction: Confirm exact date via Commission records.
 
 ---
 
-**C-2607** Host Says Commission Statement Noted Brooksby Served 30+ Years in Law Enforcement
+**C-7623** Host Says Commission Statement Noted Brooksby Served 30+ Years in Law Enforcement
 
 Claim Timestamp: 00:29:07
 
@@ -1417,7 +1416,7 @@ Investigative Direction: Obtain the full Commission statement.
 
 ---
 
-**C-2608** Host Says Brooksby's Name Was Removed from Sheriff's Office Website
+**C-7620** Host Says Brooksby's Name Was Removed from Sheriff's Office Website
 
 Claim Timestamp: 00:28:15
 
@@ -1430,7 +1429,7 @@ Investigative Direction: Capture archived versions of the website and social pag
 
 ---
 
-**C-14450** Host Says She Told Listeners in November That France and the DGSE Were Involved
+**C-7557** Host Says She Told Listeners in November That France and the DGSE Were Involved
 
 Claim Timestamp: 00:00:01
 
@@ -1441,13 +1440,13 @@ Transcript Snippet: back in November, I was telling you guys that France was in 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10567, N-10316
-Supports: C-2594
+Supports: C-7587
 Tags: relevance:core
 Investigative Direction: Locate the November 2025 posts and episodes where the host first made the DGSE claim and compare the wording with this restatement; ask French authorities whether DGSE personnel were abroad on September 10, 2025.
 
 ---
 
-**C-14451** Host Says the 33 References Were Freemasonry Signaling
+**C-7558** Host Says the 33 References Were Freemasonry Signaling
 
 Claim Timestamp: 00:00:01
 
@@ -1463,7 +1462,7 @@ Investigative Direction: Identify every official or TPUSA figure who used the nu
 
 ---
 
-**C-14452** Host Says America Was Founded by Warring Factions of Freemasons Seeking a New Atlantis
+**C-7559** Host Says America Was Founded by Warring Factions of Freemasons Seeking a New Atlantis
 
 Claim Timestamp: 00:01:30
 
@@ -1479,7 +1478,7 @@ Investigative Direction: Check standard histories of Freemasonry in the American
 
 ---
 
-**C-14453** Clip Played: Speaker Says a Message Came About 33 Minutes Before Kirk Was Killed
+**C-7560** Clip Played: Speaker Says a Message Came About 33 Minutes Before Kirk Was Killed
 
 Claim Timestamp: 00:02:36
 
@@ -1495,7 +1494,7 @@ Investigative Direction: Identify the speaker and source of the clip (press conf
 
 ---
 
-**C-14454** Clip Played: Speaker Says 33 Hours of Progress for Charlie
+**C-7561** Clip Played: Speaker Says 33 Hours of Progress for Charlie
 
 Claim Timestamp: 00:02:36
 
@@ -1511,7 +1510,7 @@ Investigative Direction: Identify the speakers in the clip; compare with Kash Pa
 
 ---
 
-**C-14455** Host Says the St. George Utah Masonic Lodge Is Number 33
+**C-7562** Host Says the St. George Utah Masonic Lodge Is Number 33
 
 Claim Timestamp: 00:02:36
 
@@ -1527,7 +1526,7 @@ Investigative Direction: Check the Grand Lodge of Utah's list of lodges for the 
 
 ---
 
-**C-14456** Host Says 33 Is the Country Code for Paris
+**C-7563** Host Says 33 Is the Country Code for Paris
 
 Claim Timestamp: 00:02:36
 
@@ -1543,7 +1542,7 @@ Investigative Direction: Verify with the ITU country-code list: +33 is France's 
 
 ---
 
-**C-14457** Host Says Scottish Rite Freemasonry Originated in France After the Templars
+**C-7564** Host Says Scottish Rite Freemasonry Originated in France After the Templars
 
 Claim Timestamp: 00:04:42
 
@@ -1559,7 +1558,7 @@ Investigative Direction: Consult historians of Freemasonry on the origin of the 
 
 ---
 
-**C-14458** Host Says the Article Reports French Foreign Legion Involvement
+**C-7568** Host Says the Article Reports French Foreign Legion Involvement
 
 Claim Timestamp: 00:06:50
 
@@ -1575,7 +1574,7 @@ Investigative Direction: Compare against the Guardian article text: it names the
 
 ---
 
-**C-14459** Host Says Parachute Regiment Members Wear Maroon Shirts in Plain Clothes
+**C-7569** Host Says Parachute Regiment Members Wear Maroon Shirts in Plain Clothes
 
 Claim Timestamp: 00:07:46
 
@@ -1591,7 +1590,7 @@ Investigative Direction: Find a source for plain-clothes maroon shirts among Fre
 
 ---
 
-**C-14460** Host Says She Sent Material to the FBI and White House That the French Were on the Ground
+**C-7571** Host Says She Sent Material to the FBI and White House That the French Were on the Ground
 
 Claim Timestamp: 00:08:40
 
@@ -1602,13 +1601,13 @@ Transcript Snippet: I I sent something to the FBI, I sent it to the White House.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10316, N-10567
-Supports: C-9782
+Supports: C-3275
 Tags: relevance:core
 Investigative Direction: Ask the host for the date, recipients and content of the FBI and White House submissions; check FBI tip-line and FOIA records.
 
 ---
 
-**C-14461** Host Says There Is a Persistent Rumor That Brigitte Macron Is Mossad
+**C-7574** Host Says There Is a Persistent Rumor That Brigitte Macron Is Mossad
 
 Claim Timestamp: 00:09:40
 
@@ -1619,13 +1618,13 @@ Transcript Snippet: there is this persistent rumor that Brigitte Macron is actua
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10015, N-10316
-Supports: C-10928
+Supports: C-3381
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the tip source; no public record in this episode supports the rumor, and Macron's office has denied related claims.
 
 ---
 
-**C-14462** Host Relays Tip That Brigitte Macron's Family Worked for Israel Over an Old Favor
+**C-7575** Host Relays Tip That Brigitte Macron's Family Worked for Israel Over an Old Favor
 
 Claim Timestamp: 00:09:40
 
@@ -1641,7 +1640,7 @@ Investigative Direction: Seek the tipster and any documentary basis (1950s press
 
 ---
 
-**C-14463** Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government
+**C-7577** Host Says Hitmen Say Daniel Beaulieu Told Them It Was on Behalf of the Government
 
 Claim Timestamp: 00:10:32
 
@@ -1657,7 +1656,7 @@ Investigative Direction: Check French court reporting for the hitmen's statement
 
 ---
 
-**C-14464** Host Says the Freemason Mafia Carried Out Other Killings, Robberies and Assaults
+**C-7579** Host Says the Freemason Mafia Carried Out Other Killings, Robberies and Assaults
 
 Claim Timestamp: 00:11:16
 
@@ -1673,7 +1672,7 @@ Investigative Direction: Check the Guardian/AP text for the other crimes attribu
 
 ---
 
-**C-14465** Host Says Kushner and the Trumps Are Planning Gaza Real Estate
+**C-7580** Host Says Kushner and the Trumps Are Planning Gaza Real Estate
 
 Claim Timestamp: 00:12:00
 
@@ -1689,7 +1688,7 @@ Investigative Direction: Review public Gaza reconstruction plans attributed to K
 
 ---
 
-**C-14466** Host Says Kirk Stepped on the Toes of Netanyahu and the War-for-Profit Machine in June
+**C-7581** Host Says Kirk Stepped on the Toes of Netanyahu and the War-for-Profit Machine in June
 
 Claim Timestamp: 00:12:56
 
@@ -1705,7 +1704,7 @@ Investigative Direction: Compare with documented Kirk statements against an Iran
 
 ---
 
-**C-14467** Host Says Everyone Involved on September 10 Has a Military Connection
+**C-7582** Host Says Everyone Involved on September 10 Has a Military Connection
 
 Claim Timestamp: 00:13:45
 
@@ -1721,7 +1720,7 @@ Investigative Direction: Compile verifiable military service and intelligence-ca
 
 ---
 
-**C-14468** Host Says Kash Patel Kept Stressing the Number 33
+**C-7583** Host Says Kash Patel Kept Stressing the Number 33
 
 Claim Timestamp: 00:13:45
 
@@ -1737,7 +1736,7 @@ Investigative Direction: Pull Patel's September 2025 statements and posts and co
 
 ---
 
-**C-14469** Host Says Charlie Kirk Was the First Casualty of the Iran War
+**C-7584** Host Says Charlie Kirk Was the First Casualty of the Iran War
 
 Claim Timestamp: 00:13:45
 
@@ -1753,7 +1752,7 @@ Investigative Direction: This is the host's thesis; test it against dated eviden
 
 ---
 
-**C-14470** Host Says She Was Told to Lay Low as Kolvet Did Because Her Name Is on a List
+**C-7585** Host Says She Was Told to Lay Low as Kolvet Did Because Her Name Is on a List
 
 Claim Timestamp: 00:13:45
 
@@ -1763,13 +1762,13 @@ Transcript Snippet: tell me uh uh as soon as Charlie gets killed that I better l
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
-Supports: C-10795
+Supports: C-1185
 Tags: relevance:core
 Investigative Direction: Ask Kolvet whether he warned the host of a list; look for texts or witnesses to the exchange.
 
 ---
 
-**C-14471** Host Says the DGSE Also Put a Hit on Her
+**C-7586** Host Says the DGSE Also Put a Hit on Her
 
 Claim Timestamp: 00:14:38
 
@@ -1785,7 +1784,7 @@ Investigative Direction: Ask the host for the basis of the alleged DGSE hit and 
 
 ---
 
-**C-14472** Host Says Nobody Official Denied Her French Involvement Claim
+**C-7588** Host Says Nobody Official Denied Her French Involvement Claim
 
 Claim Timestamp: 00:15:25
 
@@ -1796,13 +1795,13 @@ Transcript Snippet: Nobody official came out and denied it.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10567
-Supports: C-2594
+Supports: C-7587
 Tags: relevance:core
-Investigative Direction: Check whether the French Ministry or Elysee commented; an earlier supplement notes a French Ministry denial about Robinson's Foreign Legion service (C-1784).
+Investigative Direction: Check whether the French Ministry or Elysee commented; an earlier supplement notes a French Ministry denial about Robinson's Foreign Legion service (C-3349).
 
 ---
 
-**C-14473** Host Says She Has an Open Case With Brigitte Macron
+**C-7589** Host Says She Has an Open Case With Brigitte Macron
 
 Claim Timestamp: 00:15:25
 
@@ -1818,7 +1817,7 @@ Investigative Direction: Review the Delaware docket for the Macron defamation ca
 
 ---
 
-**C-14474** Host Says Many Countries' Forces Were Present That Day
+**C-7590** Host Says Many Countries' Forces Were Present That Day
 
 Claim Timestamp: 00:15:25
 
@@ -1834,7 +1833,7 @@ Investigative Direction: Ask the host which footage or tips show Australian or R
 
 ---
 
-**C-14475** Host Says the Weiss Interview Was 72 Hours Before Her Own Meeting With Erika
+**C-7591** Host Says the Weiss Interview Was 72 Hours Before Her Own Meeting With Erika
 
 Claim Timestamp: 00:16:34
 
@@ -1850,7 +1849,7 @@ Investigative Direction: Establish the recording date of the Weiss interview and
 
 ---
 
-**C-14476** Host Says Erika's Lawyer Confirmed They Have Nothing More Than the Public Has Seen
+**C-7594** Host Says Erika's Lawyer Confirmed They Have Nothing More Than the Public Has Seen
 
 Claim Timestamp: 00:17:32
 
@@ -1861,14 +1860,14 @@ Transcript Snippet: And then I sit down with her 72 hours later, and she tells m
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-278
 Related Nodes: N-10229
-Supports: C-8551
-Contradicts: C-2590
+Supports: C-7406
+Contradicts: C-7593
 Tags: relevance:core
 Investigative Direction: Identify the lawyer who attended the meeting and obtain his account or notes; compare to Erika's on-air statement that she had seen the autopsy report and the case.
 
 ---
 
-**C-14477** Host Says the Lawyer Said It Was Too Early for More Evidence, With a Review Due in May
+**C-7595** Host Says the Lawyer Said It Was Too Early for More Evidence, With a Review Due in May
 
 Claim Timestamp: 00:17:32
 
@@ -1884,7 +1883,7 @@ Investigative Direction: Check the case calendar (preliminary hearing, discovery
 
 ---
 
-**C-14478** Host Says Erika Was Coached to Make People Think She Had Access to Evidence
+**C-7596** Host Says Erika Was Coached to Make People Think She Had Access to Evidence
 
 Claim Timestamp: 00:17:32
 
@@ -1900,7 +1899,7 @@ Investigative Direction: No evidence of coaching is shown; seek communications o
 
 ---
 
-**C-14479** Host Says Turek Shut Down an Audience Member Who Heard the Shot From a Different Direction
+**C-7597** Host Says Turek Shut Down an Audience Member Who Heard the Shot From a Different Direction
 
 Claim Timestamp: 00:18:36
 
@@ -1916,7 +1915,7 @@ Investigative Direction: Find video of Turek's recent UVU event and the Q&A exch
 
 ---
 
-**C-14480** Turek Clip: Mikey Called Who Needed Calling and Asked the Doctors the Hard Questions
+**C-7599** Turek Clip: Mikey Called Who Needed Calling and Asked the Doctors the Hard Questions
 
 Claim Timestamp: 00:20:29
 
@@ -1932,7 +1931,7 @@ Investigative Direction: Match with call logs for Mikey McCoy at the hospital an
 
 ---
 
-**C-14481** Host Says Justin Told Her He Arranged All the Planes That Day
+**C-7602** Host Says Justin Told Her He Arranged All the Planes That Day
 
 Claim Timestamp: 00:20:50
 
@@ -1943,13 +1942,13 @@ Transcript Snippet: because Justin told me he arranged all the planes that day.
 Anchored Artifacts: 
 Mentions: N-15, N-190, N-3
 Related Nodes: N-10300
-Contradicts: C-2593
+Contradicts: C-7601
 Tags: relevance:core
 Investigative Direction: Obtain charter requests and flight-booking records for the Scottsdale-to-Provo plane to show who arranged it.
 
 ---
 
-**C-14482** Host Says Erika Had No Family Called to Her Side, Only TPUSA Staff
+**C-7603** Host Says Erika Had No Family Called to Her Side, Only TPUSA Staff
 
 Claim Timestamp: 00:20:50
 
@@ -1965,7 +1964,7 @@ Investigative Direction: Ask Erika's family whether they were called that day an
 
 ---
 
-**C-14483** Host Says Kirk Had Just Flown Back From SAS and Hosted His Show the Morning of July 14
+**C-7604** Host Says Kirk Had Just Flown Back From SAS and Hosted His Show the Morning of July 14
 
 Claim Timestamp: 00:21:44
 
@@ -1981,7 +1980,7 @@ Investigative Direction: Check the Charlie Kirk Show July 14, 2025 episode, SAS 
 
 ---
 
-**C-14484** Host Says July 13 Was Tuckergate, With Tucker Questioning Ackman's Money
+**C-7605** Host Says July 13 Was Tuckergate, With Tucker Questioning Ackman's Money
 
 Claim Timestamp: 00:21:44
 
@@ -1992,13 +1991,13 @@ Transcript Snippet: He asked about where the heck Bill Ackman's money comes from
 Anchored Artifacts: 
 Mentions: N-22, N-37, N-3
 Related Nodes: N-10446
-Supports: C-10659
+Supports: C-78
 Tags: relevance:context
 Investigative Direction: Find Tucker Carlson's SAS speech video to check the Ackman remarks and their date.
 
 ---
 
-**C-14485** Host Says Kirk Had Josh Hammer on the July 14 Episode
+**C-7606** Host Says Kirk Had Josh Hammer on the July 14 Episode
 
 Claim Timestamp: 00:21:44
 
@@ -2014,7 +2013,7 @@ Investigative Direction: Check the July 14, 2025 Charlie Kirk Show episode guest
 
 ---
 
-**C-14486** Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein
+**C-7607** Host Says Ackman Later Hosted the Hamptons Summit and Tucker Started Asking About Epstein
 
 Claim Timestamp: 00:21:44
 
@@ -2030,7 +2029,7 @@ Investigative Direction: Match the summit date, attendee list and what Kirk aske
 
 ---
 
-**C-14487** Host Says Erika Boarded a Private Plane With Katherine Locastro on the Evening of July 14
+**C-7608** Host Says Erika Boarded a Private Plane With Katherine Locastro on the Evening of July 14
 
 Claim Timestamp: 00:22:43
 
@@ -2046,7 +2045,7 @@ Investigative Direction: Request the flight record for the July 14, 2025 trip (t
 
 ---
 
-**C-14488** Host Says Katherine Locastro Is Mikey McCoy's Assistant
+**C-7609** Host Says Katherine Locastro Is Mikey McCoy's Assistant
 
 Claim Timestamp: 00:22:43
 
@@ -2062,7 +2061,7 @@ Investigative Direction: Check TPUSA staff listings or LinkedIn for LoCastro's t
 
 ---
 
-**C-14489** Host Says Jonathan Barcelo Was a Marine Corps Embassy Security Guard From 2013 to 2017
+**C-7610** Host Says Jonathan Barcelo Was a Marine Corps Embassy Security Guard From 2013 to 2017
 
 Claim Timestamp: 00:22:43
 
@@ -2078,7 +2077,7 @@ Investigative Direction: Request his DD-214-equivalent public record or Marine S
 
 ---
 
-**C-14490** Host Says Barcelo Was Stationed in Chile and Worked as an Attack Squadron Helicopter Technician
+**C-7611** Host Says Barcelo Was Stationed in Chile and Worked as an Attack Squadron Helicopter Technician
 
 Claim Timestamp: 00:22:43
 
@@ -2094,7 +2093,7 @@ Investigative Direction: Check public Marine and LinkedIn records for the Chile 
 
 ---
 
-**C-14491** Host Says Barcelo Ran a Private Investigations Firm From 2017 to 2022 and Studied Forensic Psychology at ASU
+**C-7612** Host Says Barcelo Ran a Private Investigations Firm From 2017 to 2022 and Studied Forensic Psychology at ASU
 
 Claim Timestamp: 00:22:43
 
@@ -2110,7 +2109,7 @@ Investigative Direction: Check Arizona PI licensing and business records for the
 
 ---
 
-**C-14492** Host Says Barcelo Joined TPUSA in Donations Operations Then Became Donor Operations Manager
+**C-7613** Host Says Barcelo Joined TPUSA in Donations Operations Then Became Donor Operations Manager
 
 Claim Timestamp: 00:22:43
 
@@ -2126,7 +2125,7 @@ Investigative Direction: Check his LinkedIn or TPUSA job postings for these role
 
 ---
 
-**C-14493** Host Says Erika Traveled With Barcelo, Locastro and Her Personal Security Guard Derek Niekerk
+**C-7614** Host Says Erika Traveled With Barcelo, Locastro and Her Personal Security Guard Derek Niekerk
 
 Claim Timestamp: 00:23:58
 
@@ -2142,7 +2141,7 @@ Investigative Direction: Verify the manifest of the July 14 flight and Niekerk's
 
 ---
 
-**C-14494** Host Says the Long Beach Party Stayed a Couple of Hours Then Returned to Scottsdale
+**C-7615** Host Says the Long Beach Party Stayed a Couple of Hours Then Returned to Scottsdale
 
 Claim Timestamp: 00:23:58
 
@@ -2158,7 +2157,7 @@ Investigative Direction: Check FAA flight data for the same-day round trip, and 
 
 ---
 
-**C-14495** Host Says Charlie Was Taken Out for Stepping on Toes of Those Profiting From the Iran War
+**C-7616** Host Says Charlie Was Taken Out for Stepping on Toes of Those Profiting From the Iran War
 
 Claim Timestamp: 00:24:59
 
@@ -2174,7 +2173,7 @@ Investigative Direction: Name the individuals or interests alleged; the host off
 
 ---
 
-**C-14496** Host Says Trump Is Sending Marines but the IDF Will Not Put Boots on the Ground
+**C-7617** Host Says Trump Is Sending Marines but the IDF Will Not Put Boots on the Ground
 
 Claim Timestamp: 00:25:40
 
@@ -2190,7 +2189,7 @@ Investigative Direction: Check March 2026 reports on US deployment and any IDF s
 
 ---
 
-**C-14497** Host Says Brooksby Was the Sheriff Who First Came Out on Robinson's Surrender
+**C-7621** Host Says Brooksby Was the Sheriff Who First Came Out on Robinson's Surrender
 
 Claim Timestamp: 00:28:15
 
@@ -2206,7 +2205,7 @@ Investigative Direction: Check Brooksby's September 2025 press conferences and s
 
 ---
 
-**C-14498** Host Says an Interim Sheriff Is in Place and the Election Is Down to One Candidate
+**C-7622** Host Says an Interim Sheriff Is in Place and the Election Is Down to One Candidate
 
 Claim Timestamp: 00:28:15
 
@@ -2222,7 +2221,7 @@ Investigative Direction: Check the Washington County Commission's appointment of
 
 ---
 
-**C-14499** Host Says Others Are Saying More Information Will Come Out on the Resignation
+**C-7624** Host Says Others Are Saying More Information Will Come Out on the Resignation
 
 Claim Timestamp: 00:29:07
 
@@ -2238,7 +2237,7 @@ Investigative Direction: Monitor Washington County Commission releases and local
 
 ---
 
-**C-14500** Host Says There Is No Proof Robinson's Father Handed Him In or That He Confessed
+**C-7625** Host Says There Is No Proof Robinson's Father Handed Him In or That He Confessed
 
 Claim Timestamp: 00:29:40
 
@@ -2249,14 +2248,14 @@ Transcript Snippet: Tyler Robinson's dad handed him in that Tyler Robinson confe
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10021, N-10022
-Supports: C-12123
-Contradicts: C-2597
+Supports: C-1481
+Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Request the charging documents and any signed statements; compare with the Governor's 'confessed or implied' wording and the probable-cause affidavit.
 
 ---
 
-**C-14501** Host Says No Signed Confession or Witness Statement Has Been Presented as Evidence
+**C-7626** Host Says No Signed Confession or Witness Statement Has Been Presented as Evidence
 
 Claim Timestamp: 00:29:40
 
@@ -2267,13 +2266,13 @@ Transcript Snippet: None of this has been presented as evidence and said, I was 
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10021, N-10566
-Contradicts: C-2597
+Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Check the probable-cause statement and docket for any recorded or signed admission, and for a statement by Robinson's father.
 
 ---
 
-**C-14502** Host Says Her Source Close to the Robinson Family Says Tyler Repeatedly Denied Guilt
+**C-7627** Host Says Her Source Close to the Robinson Family Says Tyler Repeatedly Denied Guilt
 
 Claim Timestamp: 00:30:52
 
@@ -2284,13 +2283,13 @@ Transcript Snippet: Tyler Robinson repeatedly said that he was not guilty, that 
 Anchored Artifacts: 
 Mentions: N-40, N-125, N-3
 Related Nodes: N-10021, N-10141
-Contradicts: C-2597
+Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Seek the source and any corroborating witnesses; compare with Brooksby's statement that Robinson had suicidal ideation and was talked down by his parents.
 
 ---
 
-**C-14503** Host Says Mike Mitchell Is a Former Sheriff's Department Employee and Robinson's Boy Scouts Leader
+**C-7628** Host Says Mike Mitchell Is a Former Sheriff's Department Employee and Robinson's Boy Scouts Leader
 
 Claim Timestamp: 00:31:01
 
@@ -2301,13 +2300,13 @@ Transcript Snippet: who used to work for the Sheriff's Department, but Tyler Rob
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-3
 Related Nodes: N-10141
-Supports: C-9283
+Supports: C-1106
 Tags: relevance:core
 Investigative Direction: Check Scouting leadership rosters and Mitchell's retirement record against the host's earlier findings.
 
 ---
 
-**C-14504** Host Says Mitchell Told Robinson His Options Were a SWAT Raid or Surrendering Peacefully
+**C-7629** Host Says Mitchell Told Robinson His Options Were a SWAT Raid or Surrendering Peacefully
 
 Claim Timestamp: 00:31:21
 
@@ -2318,13 +2317,13 @@ Transcript Snippet: They're going to burst through the door, you're going to get
 Anchored Artifacts: 
 Mentions: N-125, N-40, N-3
 Related Nodes: N-10021
-Supports: C-1302
+Supports: C-976
 Tags: relevance:core
 Investigative Direction: Seek the source and any second witness to the conversation at the house; compare with Brooksby's account of the negotiation.
 
 ---
 
-**C-14505** Host Says There Is No Footage of the Surrender and Suspects the Reason
+**C-7630** Host Says There Is No Footage of the Surrender and Suspects the Reason
 
 Claim Timestamp: 00:31:45
 
@@ -2335,13 +2334,13 @@ Transcript Snippet: And miraculously we have no footage of that day and I think 
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10271
-Supports: C-8547
+Supports: C-7402
 Tags: relevance:core
 Investigative Direction: Request the Washington County Sheriff's Office records on surveillance and body-camera footage for the surrender, and any retention policy explanation.
 
 ---
 
-**C-14506** Host Says Her Sources Told Her the Feds Planted the Gun and the Bomb Dogs Could Not Find It
+**C-7631** Host Says Her Sources Told Her the Feds Planted the Gun and the Bomb Dogs Could Not Find It
 
 Claim Timestamp: 00:31:45
 
@@ -2352,13 +2351,13 @@ Transcript Snippet: this person told me that the feds planted the gun. This pers
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11054, N-10360
-Supports: C-8548
+Supports: C-7403
 Tags: relevance:core
 Investigative Direction: Request K-9 deployment logs and chain-of-custody for the rifle; identify firsthand witnesses.
 
 ---
 
-**C-14507** Host Says Local Departments and SWAT Believe the Feds Lied and Sent People on a Wild Goose Chase
+**C-7632** Host Says Local Departments and SWAT Believe the Feds Lied and Sent People on a Wild Goose Chase
 
 Claim Timestamp: 00:32:32
 
@@ -2374,7 +2373,7 @@ Investigative Direction: Interview local law enforcement participants; compare t
 
 ---
 
-**C-14508** Host Says the Feds Did Not Want Bomb Dogs Going Into Certain Places
+**C-7633** Host Says the Feds Did Not Want Bomb Dogs Going Into Certain Places
 
 Claim Timestamp: 00:32:32
 
@@ -2385,13 +2384,13 @@ Transcript Snippet: They didn't want the bomb dogs to go into certain places.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11054
-Supports: C-8549
+Supports: C-7404
 Tags: relevance:core
 Investigative Direction: Obtain K-9 unit logs and search maps showing which areas the dogs covered.
 
 ---
 
-**C-14509** Host Says Her Credible Sources Are How She Got the Pictures Inside the Car
+**C-7634** Host Says Her Credible Sources Are How She Got the Pictures Inside the Car
 
 Claim Timestamp: 00:32:32
 
@@ -2407,7 +2406,7 @@ Investigative Direction: Identify which images she means (the interior of Robins
 
 ---
 
-**C-14510** Host Says She Is 99.9 Percent Certain Robinson Did Not Shoot Kirk From a Rooftop Alone
+**C-7635** Host Says She Is 99.9 Percent Certain Robinson Did Not Shoot Kirk From a Rooftop Alone
 
 Claim Timestamp: 00:33:15
 
@@ -2423,7 +2422,7 @@ Investigative Direction: Her evidence is not shown in this episode; the host off
 
 ---
 
-**C-14511** Host Says Scott Bessent Will Publish Letters Vouching for the Group Behind Erika
+**C-7636** Host Says Scott Bessent Will Publish Letters Vouching for the Group Behind Erika
 
 Claim Timestamp: 00:33:54
 
@@ -2439,7 +2438,7 @@ Investigative Direction: Identify any Bessent letter or public statement of supp
 
 ---
 
-**C-14512** Host Says Brooksby Tells the Truth About How Robinson Was Turned In
+**C-7637** Host Says Brooksby Tells the Truth About How Robinson Was Turned In
 
 Claim Timestamp: 00:34:36
 
@@ -2450,13 +2449,13 @@ Transcript Snippet: Basically, that this Mike Mitchell guy came in, there was pr
 Anchored Artifacts: 
 Mentions: N-272, N-125, N-40, N-3
 Related Nodes: N-10021, N-10566
-Supports: C-1302
+Supports: C-976
 Tags: relevance:core
 Investigative Direction: Compare the full Brooksby press-conference transcript with the host's reading; he refers to an unnamed friend, not Mitchell, in the clips played.
 
 ---
 
-**C-14513** Brooksby Clip: Friend Said He Knew the Family Through Religious Association
+**C-7641** Brooksby Clip: Friend Said He Knew the Family Through Religious Association
 
 Claim Timestamp: 00:36:15
 
@@ -2472,7 +2471,7 @@ Investigative Direction: Identify the friend and the religious association; comp
 
 ---
 
-**C-14514** Host Says the Suicidal-Ideation Account Contradicts Robinson Going In Out of Fear of SWAT
+**C-7642** Host Says the Suicidal-Ideation Account Contradicts Robinson Going In Out of Fear of SWAT
 
 Claim Timestamp: 00:37:12
 
@@ -2488,7 +2487,7 @@ Investigative Direction: Reconcile the two statements in the full transcript of 
 
 ---
 
-**C-14515** Host Says Mike Mitchell Appears to Have Worked Undercover on Child-Exploitation Crimes
+**C-7643** Host Says Mike Mitchell Appears to Have Worked Undercover on Child-Exploitation Crimes
 
 Claim Timestamp: 00:37:12
 
@@ -2499,13 +2498,13 @@ Transcript Snippet: The best I could tell, it seems like he was working undercov
 Anchored Artifacts: 
 Mentions: N-125, N-3
 Related Nodes: N-10151
-Supports: C-1330
+Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Check the 1999 Salt Lake County article and Mitchell's career record against the host's earlier findings.
 
 ---
 
-**C-14516** Host Speculates Mitchell Was Working With the Feds to Put This on Tyler
+**C-7644** Host Speculates Mitchell Was Working With the Feds to Put This on Tyler
 
 Claim Timestamp: 00:37:12
 
@@ -2521,7 +2520,7 @@ Investigative Direction: No evidence is offered; seek records of any federal con
 
 ---
 
-**C-14517** Host Says Robinson's Father Never Said His Son Did This
+**C-7645** Host Says Robinson's Father Never Said His Son Did This
 
 Claim Timestamp: 00:37:57
 
@@ -2532,13 +2531,13 @@ Transcript Snippet: His father, by the way, never ever ever said his son did thi
 Anchored Artifacts: 
 Mentions: N-776, N-40, N-3
 Related Nodes: N-10022
-Supports: C-12123
+Supports: C-1481
 Tags: relevance:core
 Investigative Direction: Check any on-record statements by Matt Robinson or his lawyers and the court documents on what he told investigators.
 
 ---
 
-**C-14518** Host Says Robinson's Father Does Not Believe the Person on the Staircase Looks Like His Son
+**C-7646** Host Says Robinson's Father Does Not Believe the Person on the Staircase Looks Like His Son
 
 Claim Timestamp: 00:37:57
 
@@ -2554,7 +2553,7 @@ Investigative Direction: Identify the sources; compare the staircase photos with
 
 ---
 
-**C-14519** Host Says the Staircase Person Looks More Like Robby Hild
+**C-7647** Host Says the Staircase Person Looks More Like Robby Hild
 
 Claim Timestamp: 00:37:57
 
@@ -2570,7 +2569,7 @@ Investigative Direction: Compare the staircase image to publicly posted photos o
 
 ---
 
-**C-14520** Host Says the Press Narratives About Recognition Came From the Feds
+**C-7648** Host Says the Press Narratives About Recognition Came From the Feds
 
 Claim Timestamp: 00:37:57
 
@@ -2586,7 +2585,7 @@ Investigative Direction: Trace the original source of each press claim (Fox, Cox
 
 ---
 
-**C-14521** Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase
+**C-7649** Host Says Patel Announced a Suspect (the 'Qureshi' Person) That Sent Searchers on a Wild Goose Chase
 
 Claim Timestamp: 00:38:44
 
@@ -2602,7 +2601,7 @@ Investigative Direction: Review Patel's posts on September 10-11, 2025 about an 
 
 ---
 
-**C-14522** Host Says Joe Kent Says Patel Stopped Him From Investigating Internationally
+**C-7650** Host Says Joe Kent Says Patel Stopped Him From Investigating Internationally
 
 Claim Timestamp: 00:38:44
 
@@ -2613,13 +2612,13 @@ Transcript Snippet: You have now Joe Kent telling you that he stopped him from i
 Anchored Artifacts: 
 Mentions: N-209, N-69, N-3
 Related Nodes: N-10355
-Supports: C-2525
+Supports: C-7247
 Tags: relevance:core
-Investigative Direction: Review Kent's statements and the New York Times reporting on the Patel-Kent exchange (C-1519, C-1520).
+Investigative Direction: Review Kent's statements and the New York Times reporting on the Patel-Kent exchange (C-1966, C-1967).
 
 ---
 
-**C-14523** Host Says TPUSA Hosts Patel and Is Angry at Joe Kent, Not at Patel
+**C-7651** Host Says TPUSA Hosts Patel and Is Angry at Joe Kent, Not at Patel
 
 Claim Timestamp: 00:38:44
 
@@ -2635,7 +2634,7 @@ Investigative Direction: List Patel's appearances on the Charlie Kirk Show since
 
 ---
 
-**C-14524** Host Says Cox Was Not There the Night Robinson Was Apprehended
+**C-7652** Host Says Cox Was Not There the Night Robinson Was Apprehended
 
 Claim Timestamp: 00:39:39
 
@@ -2651,7 +2650,7 @@ Investigative Direction: Check Cox's September 11-12 statements for his sources 
 
 ---
 
-**C-14525** Host Says Cox Seeded the Public With the Lie That Robinson Confessed After 33 Hours
+**C-7653** Host Says Cox Seeded the Public With the Lie That Robinson Confessed After 33 Hours
 
 Claim Timestamp: 00:39:39
 
@@ -2662,13 +2661,13 @@ Transcript Snippet: He's the one that puts on the performance with Cash and says
 Anchored Artifacts: 
 Mentions: N-41, N-69, N-40, N-3
 Related Nodes: N-10021, N-10566
-Supports: C-2597
+Supports: C-7656
 Tags: relevance:core
 Investigative Direction: Review the video of the Cox and Patel press conference for the exact language used on confession.
 
 ---
 
-**C-14526** Cox Clip: Information Was Relayed to Utah County and Utah Valley University Investigators and the FBI
+**C-7657** Cox Clip: Information Was Relayed to Utah County and Utah Valley University Investigators and the FBI
 
 Claim Timestamp: 00:40:25
 
@@ -2684,7 +2683,7 @@ Investigative Direction: Request Utah County Sheriff and FBI logs of when the ti
 
 ---
 
-**C-14527** Host Says Brooksby Never Said Robinson Signed a Statement, Said He Was Guilty, or That His Dad Said So
+**C-7658** Host Says Brooksby Never Said Robinson Signed a Statement, Said He Was Guilty, or That His Dad Said So
 
 Claim Timestamp: 00:41:19
 
@@ -2695,13 +2694,13 @@ Transcript Snippet: never says that he signed a statement, never says that he sa
 Anchored Artifacts: 
 Mentions: N-272, N-40, N-776, N-3
 Related Nodes: N-10021, N-10566
-Contradicts: C-2597
+Contradicts: C-7656
 Tags: relevance:core
-Investigative Direction: Compare to full transcripts of Brooksby's press conferences (C-1766, C-5043).
+Investigative Direction: Compare to full transcripts of Brooksby's press conferences (C-3227, C-3229).
 
 ---
 
-**C-14528** Host Says Brooksby Said Mitchell Told Him Robinson's Dad Recognized Him
+**C-7659** Host Says Brooksby Said Mitchell Told Him Robinson's Dad Recognized Him
 
 Claim Timestamp: 00:41:19
 
@@ -2717,7 +2716,7 @@ Investigative Direction: Find where Brooksby said this; it does not appear in th
 
 ---
 
-**C-14529** Host Says Mike Mitchell Is Now Speaking on Behalf of Matt Robinson
+**C-7660** Host Says Mike Mitchell Is Now Speaking on Behalf of Matt Robinson
 
 Claim Timestamp: 00:41:19
 
@@ -2733,7 +2732,7 @@ Investigative Direction: Find any public statement by Mitchell for the Robinson 
 
 ---
 
-**C-14530** Brooksby Clip: Tyler Knew Capture Was Inevitable With His Picture and the Gun on the News
+**C-7662** Brooksby Clip: Tyler Knew Capture Was Inevitable With His Picture and the Gun on the News
 
 Claim Timestamp: 00:41:56
 
@@ -2745,11 +2744,11 @@ Anchored Artifacts: A-1908.2
 Mentions: N-272, N-40
 Related Nodes: N-10566
 Tags: relevance:core
-Investigative Direction: Review the full press conference for context and compare with C-2602.
+Investigative Direction: Review the full press conference for context and compare with C-7663.
 
 ---
 
-**C-14531** Host Says Walt Disney Was a Freemason
+**C-7664** Host Says Walt Disney Was a Freemason
 
 Claim Timestamp: 00:43:33
 
@@ -2765,7 +2764,7 @@ Investigative Direction: Check Disney's DeMolay and Masonic records; the '33 Clu
 
 ---
 
-**C-14532** Host Says Lindsey Graham Spent Three Days at Disney World and Had Breakfast at Chef Mickey's
+**C-7665** Host Says Lindsey Graham Spent Three Days at Disney World and Had Breakfast at Chef Mickey's
 
 Claim Timestamp: 00:44:13
 
@@ -2781,7 +2780,7 @@ Investigative Direction: Check TMZ's report and Graham's own statements about th
 
 ---
 
-**C-14533** Host Says Graham Lied About Where He Was and TMZ Caught Him
+**C-7666** Host Says Graham Lied About Where He Was and TMZ Caught Him
 
 Claim Timestamp: 00:44:13
 
@@ -2797,7 +2796,7 @@ Investigative Direction: Find the TMZ report and Graham's statement for the disc
 
 ---
 
-**C-14534** Host Says Many Commenters Noticed the 'Beautiful Day' Remark in the Times Article She Missed
+**C-7667** Host Says Many Commenters Noticed the 'Beautiful Day' Remark in the Times Article She Missed
 
 Claim Timestamp: 00:47:23
 
@@ -2813,7 +2812,7 @@ Investigative Direction: Check the NYT article date and text for the quoted rema
 
 ---
 
-**C-14535** Host Says Alex Clark Said She Was on a Plane and Thought 'Too Bad' Then 'MAGA'
+**C-7668** Host Says Alex Clark Said She Was on a Plane and Thought 'Too Bad' Then 'MAGA'
 
 Claim Timestamp: 00:48:45
 
@@ -2829,7 +2828,7 @@ Investigative Direction: Find the original Alex Clark interview or post with the
 
 ---
 
-**C-14536** Host Says She Is Reading a Freemasonry Book With Her Book Club
+**C-7671** Host Says She Is Reading a Freemasonry Book With Her Book Club
 
 Claim Timestamp: 00:51:11
 
@@ -2845,7 +2844,7 @@ Investigative Direction: Identify the title and author of the book club selectio
 
 ---
 
-**C-14537** Commenter Says Joe Kent and the Orem Police Resigned (Read by Host)
+**C-7672** Commenter Says Joe Kent and the Orem Police Resigned (Read by Host)
 
 Claim Timestamp: 00:52:33
 
@@ -2856,13 +2855,13 @@ Transcript Snippet: Joe Kent, the police at Orem resigned.
 Anchored Artifacts: A-1911.1
 Mentions: N-209, N-3
 Related Nodes: N-10129, N-10546
-Supports: C-7860
+Supports: C-1268
 Tags: relevance:core
 Investigative Direction: Check Orem Police staffing changes since September 2025 and Joe Kent's resignation date.
 
 ---
 
-**C-14538** Host Says the Gun Had About Seven Sets of Prints
+**C-7673** Host Says the Gun Had About Seven Sets of Prints
 
 Claim Timestamp: 00:53:09
 
@@ -2878,7 +2877,7 @@ Investigative Direction: Check the FBI/ATF lab reports and court filings for the
 
 ---
 
-**C-14539** Host Says Prosecutors Cannot Prove the Gun Was Fired or Connect It to Kirk
+**C-7674** Host Says Prosecutors Cannot Prove the Gun Was Fired or Connect It to Kirk
 
 Claim Timestamp: 00:53:09
 
@@ -2889,13 +2888,13 @@ Transcript Snippet: They cannot prove that that gun was fired and killed Charlie
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10572, N-10621, N-11054
-Supports: C-8548
+Supports: C-7403
 Tags: relevance:core
 Investigative Direction: Review the ATF ballistics comparison finding and any later report; the ATF finding is described as inconclusive in an existing node.
 
 ---
 
-**C-14540** Host Says Alexis Wilkins Called Her a Russian Agent
+**C-7675** Host Says Alexis Wilkins Called Her a Russian Agent
 
 Claim Timestamp: 00:53:55
 
@@ -2911,7 +2910,7 @@ Investigative Direction: Locate the Wilkins posts calling the host a Russian age
 
 ---
 
-**C-14541** Host Says Wilkins's Grandfather Was a Freemason and Her Father and Aunt Were in DeMolay
+**C-7676** Host Says Wilkins's Grandfather Was a Freemason and Her Father and Aunt Were in DeMolay
 
 Claim Timestamp: 00:53:55
 
@@ -2922,13 +2921,13 @@ Transcript Snippet: That's her granddad was a Freemason. Her dad was in the DeMo
 Anchored Artifacts: 
 Mentions: N-212, N-3
 Related Nodes: N-11129
-Supports: C-6661
+Supports: C-2797
 Tags: relevance:context
 Investigative Direction: Find the newspaper item the host cites on the Wilkins family's DeMolay membership.
 
 ---
 
-**C-14542** Host Says House Inhabit Was Dealing With Andrew Kolvet
+**C-7677** Host Says House Inhabit Was Dealing With Andrew Kolvet
 
 Claim Timestamp: 00:55:11
 
@@ -2944,7 +2943,7 @@ Investigative Direction: Find direct communications or reporting linking Reed Kr
 
 ---
 
-**C-14543** Host Says AI Images of Her Husband With Milo Were Used Against Her
+**C-7678** Host Says AI Images of Her Husband With Milo Were Used Against Her
 
 Claim Timestamp: 00:55:11
 
@@ -2960,7 +2959,7 @@ Investigative Direction: Locate the AI images and the account that posted them; 
 
 ---
 
-**C-14544** Host Recounts Learning of the Shooting From Savannah and Calling Tucker Carlson and Kolvet
+**C-7679** Host Recounts Learning of the Shooting From Savannah and Calling Tucker Carlson and Kolvet
 
 Claim Timestamp: 00:56:39
 
@@ -2976,7 +2975,7 @@ Investigative Direction: Check her phone call and text records for September 10,
 
 ---
 
-**C-14545** Host Says the Stand With Candace Cup Is Sold Out
+**C-7680** Host Says the Stand With Candace Cup Is Sold Out
 
 Claim Timestamp: 00:57:26
 
@@ -2991,7 +2990,7 @@ Investigative Direction: Check the host's merchandise store for stock and any re
 
 ---
 
-**C-14546** Host Says Israel Runs X
+**C-7681** Host Says Israel Runs X
 
 Claim Timestamp: 00:58:15
 
@@ -3007,7 +3006,7 @@ Investigative Direction: No document is shown; look for ownership, data-sharing 
 
 ---
 
-**C-14547** Host Says She Knows the Exact Way X Has a Deal With Israel
+**C-7682** Host Says She Knows the Exact Way X Has a Deal With Israel
 
 Claim Timestamp: 00:58:15
 
@@ -3023,7 +3022,7 @@ Investigative Direction: Ask the host for the text messages and the person who t
 
 ---
 
-**C-14548** Host Says the Spell Website Was Traced to the Philippines
+**C-7683** Host Says the Spell Website Was Traced to the Philippines
 
 Claim Timestamp: 00:58:15
 
@@ -3039,7 +3038,7 @@ Investigative Direction: Identify the site, registrant and hosting records via W
 
 ---
 
-**C-14549** Host Says Kirk Was Not Catholic Yet Called a Priest Over to Pray Because of a Spell
+**C-7684** Host Says Kirk Was Not Catholic Yet Called a Priest Over to Pray Because of a Spell
 
 Claim Timestamp: 00:59:41
 
@@ -3059,8 +3058,8 @@ Investigative Direction: Find the original source of the priest account (the ear
 
 **Contradiction on Robinson's Apprehension**
 
-- C-2597 (Governor Cox, A-1907.1): Robinson had "confessed to them or implied that he had committed the incident."
-- C-2602 (Sheriff Brooksby, A-1908.2): Robinson was "fearful of a SWAT team hit on his house" and "fearful of being shot by law enforcement"; the negotiation involved bringing him in "as delicate and as soft as possible."
+- C-7656 (Governor Cox, A-1907.1): Robinson had "confessed to them or implied that he had committed the incident."
+- C-7663 (Sheriff Brooksby, A-1908.2): Robinson was "fearful of a SWAT team hit on his house" and "fearful of being shot by law enforcement"; the negotiation involved bringing him in "as delicate and as soft as possible."
 
 These two artifact-anchored accounts cannot comfortably coexist. Cox's framing presents Robinson as making a confession/implication of guilt to family or friends; Brooksby's framing presents Robinson as someone who denied wrongdoing and was induced to surrender through pressure and fear of force, with no mention of any confession or admission of guilt. This contradiction is registered under N-10566 (Tyler Robinson Confession Narrative Discrepancy).
 

@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-11022, N-11023
   - Hole-minted Nodes (reintro-ep049): N-10417, N-10671, N-10719
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5272–C-5348
+  - Claim Range: C-4275–C-4362
   - (see registers)
 
 ---
@@ -36,7 +36,6 @@
 ### Episode 49 Ledger Summary
 
 - Artifact Families Introduced: A-1557, A-1558, A-1559, A-1560
-- Claim Range: C-1969–C-1979
   - New Nodes Introduced: N-361, N-362, N-363, N-10369
   - Reused Nodes Appearing: N-17, N-22, N-40, N-55, N-69, N-261, N-10086, N-10110, N-10121, N-10239, N-10246, N-10270, N-10271, N-10326, N-10328, N-10333, N-10346, N-10360, N-10362, N-10364, N-10769, N-10367, N-10368, N-10436
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), and other previously inscribed entities as applicable
@@ -67,7 +66,7 @@ Video Timestamp: 00:12:00–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single email, paraphrased on air)
 
-*Related: C-1969, N-10368*
+*Related: C-4303, N-10368*
 
 **A-1557.2** Viewer Email – Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups
 
@@ -77,7 +76,7 @@ Video Timestamp: 00:14:48–00:17:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single uncorroborated email, host uses "allegedly" qualifier)
 
-*Related: C-1976, C-1977, N-362, N-10368*
+*Related: C-4306, C-4310, N-362, N-10368*
 
 ---
 
@@ -91,7 +90,7 @@ Video Timestamp: 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host states metadata confirms location and time)
 
-*Related: C-1971, N-361, N-10367*
+*Related: C-4316, N-361, N-10367*
 
 **A-1558.2** Military ID Card(s) Provided by Witness to Host
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:38:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host confirms receipt)
 
-*Related: C-1971, N-361*
+*Related: C-4316, N-361*
 
 **A-1558.3** Mitch's On-Air Recorded Testimonial Interview
 
@@ -111,7 +110,7 @@ Video Timestamp: 01:07:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full interview segment)
 
-*Related: C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-361, N-319, N-10367*
+*Related: C-4318, C-4316, C-4336, C-4347, C-4348, C-4351, N-361, N-319, N-10367*
 
 ---
 
@@ -125,7 +124,7 @@ Video Timestamp: 01:01:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (confirmed shown)
 
-*Related: C-1975, N-363, N-10367*
+*Related: C-4351, N-363, N-10367*
 
 **A-1559.2** Reference Photograph of Brian Harpole Cited as Comparison Image
 
@@ -135,7 +134,7 @@ Video Timestamp: 00:55:09–00:57:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced by witness; shown on screen per witness but display not detailed in transcript)
 
-*Related: C-1974, N-10367*
+*Related: C-4348, N-10367*
 
 **A-1559.3** Reference Photograph of Erika Kirk with Ponytail Cited as Comparison Image
 
@@ -145,7 +144,7 @@ Video Timestamp: 00:57:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (referenced by witness; display not detailed in transcript)
 
-*Related: C-1973, N-2, N-10367*
+*Related: C-4347, N-2, N-10367*
 
 ---
 
@@ -159,7 +158,7 @@ Video Timestamp: 00:01:18–00:03:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer prompt, single source)
 
-*Related: C-1978, N-10369*
+*Related: C-4276, N-10369*
 
 **A-1560.2** Photographs of Charlie Kirk's SUV Interior Showing Black Plastic/Tempered Glass-Like Fragments
 
@@ -169,7 +168,7 @@ Video Timestamp: 00:02:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (displayed on screen but not transcribed; host defers full release)
 
-*Related: C-1978, N-10369*
+*Related: C-4276, N-10369*
 
 ---
 
@@ -184,7 +183,7 @@ Video Timestamp: 00:18:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5307, N-3*
+*Related: C-4314, N-3*
 
 ---
 
@@ -197,7 +196,7 @@ Video Timestamp: 00:33:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5319, N-361*
+*Related: C-4328, N-361*
 
 ---
 
@@ -208,7 +207,7 @@ Video Timestamp: 00:52:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5332, N-361*
+*Related: C-4343, N-361*
 
 ---
 
@@ -221,7 +220,7 @@ Video Timestamp: 01:01:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5338, C-5339, N-3*
+*Related: C-4352, C-4353, N-3*
 
 ---
 
@@ -234,7 +233,7 @@ Video Timestamp: 00:08:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5290, N-40*
+*Related: C-4294, N-40*
 
 ---
 
@@ -249,7 +248,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.2, A-1558.3, C-1970, C-1971, C-1972, C-1973, C-1974, C-1975, N-10367*
+*Related: A-1558.1, A-1558.2, A-1558.3, C-4318, C-4316, C-4336, C-4347, C-4348, C-4351, N-10367*
 
 ---
 
@@ -262,7 +261,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1557.2, C-1976, C-1977, N-10368*
+*Related: A-1557.2, C-4306, C-4310, N-10368*
 
 ---
 
@@ -275,7 +274,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1559.1, C-1975, N-10367*
+*Related: A-1559.1, C-4351, N-10367*
 
 ---
 
@@ -288,7 +287,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1558.3, C-1972, N-361*
+*Related: A-1558.3, C-4336, N-361*
 
 ---
 
@@ -301,7 +300,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-1971, C-1972, C-1973, C-1974, C-1975, N-2, N-361, N-363, N-319*
+*Related: A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3, C-4316, C-4336, C-4347, C-4348, C-4351, N-2, N-361, N-363, N-319*
 
 ---
 
@@ -314,7 +313,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1557.1, A-1557.2, C-1969, C-1976, C-1977, N-362*
+*Related: A-1557.1, A-1557.2, C-4303, C-4306, C-4310, N-362*
 
 ---
 
@@ -327,7 +326,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1560.1, A-1560.2, C-1978, N-1*
+*Related: A-1560.1, A-1560.2, C-4276, N-1*
 
 ---
 
@@ -336,7 +335,7 @@ Investigative Pressure: Medium
 Node Type: Topic
 Investigation target: the host's claim that federal agents prevented the surgeon from returning to his operating room after Charlie Kirk was brought in, and that he placed a call presumably to DC, so the team could not clean the room before Erika Kirk arrived.
 
-*Related: C-5285*
+*Related: C-4289*
 
 ---
 
@@ -345,7 +344,7 @@ Investigation target: the host's claim that federal agents prevented the surgeon
 Node Type: Topic
 Investigation target: Mitch's account that his identity was passed to cartels after the 1990 tunnel operation, the resulting name change, debt and lawsuits, and the court documents he sent the host.
 
-*Related: C-5315, C-5317, C-5318, C-5319, C-5343, C-5346*
+*Related: C-4324, C-4326, C-4327, C-4328, C-4357, C-4360*
 
 ---
 
@@ -353,7 +352,7 @@ Investigation target: Mitch's account that his identity was passed to cartels af
 
 Subject of the SUV photographs, medical account and surrender discussion; the host's cover-up statement.
 
-*Related: C-5273, C-5276, C-5283, C-5284, C-5285, C-5287, C-5304, C-5335, C-5347*
+*Related: C-4277, C-4280, C-4287, C-4288, C-4289, C-4291, C-4311, C-4346, C-4361*
 
 ---
 
@@ -361,7 +360,7 @@ Subject of the SUV photographs, medical account and surrender discussion; the ho
 
 Referenced for her mother's move to Arizona and the hospital scene described by the host.
 
-*Related: C-5285, C-5337*
+*Related: C-4289, C-4350*
 
 ---
 
@@ -369,7 +368,7 @@ Referenced for her mother's move to Arizona and the hospital scene described by 
 
 Host; speaks of her emails, photos, investigation, call to Mitch and fundraising pledge.
 
-*Related: C-5272, C-5273, C-5274, C-5275, C-5276, C-5277, C-5278, C-5279, C-5280, C-5281, C-5282, C-5284, C-5286, C-5288, C-5289, C-5290, C-5291, C-5292, C-5293, C-5294, C-5295, C-5296, C-5297, C-5298, C-5299, C-5300, C-5305, C-5306, C-5307, C-5308, C-5309, C-5315, C-5319, C-5321, C-5332, C-5336, C-5337, C-5338, C-5339, C-5340, C-5341, C-5342, C-5343, C-5344, C-5345, C-5346, C-5347, C-5348*
+*Related: C-4275, C-4277, C-4278, C-4279, C-4280, C-4281, C-4282, C-4283, C-4284, C-4285, C-4286, C-4288, C-4290, C-4292, C-4293, C-4294, C-4295, C-4296, C-4297, C-4298, C-4299, C-4300, C-4301, C-4302, C-4304, C-4305, C-4312, C-4313, C-4314, C-4315, C-4317, C-4324, C-4328, C-4330, C-4343, C-4349, C-4350, C-4352, C-4353, C-4354, C-4355, C-4356, C-4357, C-4358, C-4359, C-4360, C-4361, C-4362*
 
 ---
 
@@ -377,7 +376,7 @@ Host; speaks of her emails, photos, investigation, call to Mitch and fundraising
 
 Pastor criticized by the host for an interview with a man who had gone to prison.
 
-*Related: C-5295*
+*Related: C-4299*
 
 ---
 
@@ -385,7 +384,7 @@ Pastor criticized by the host for an interview with a man who had gone to prison
 
 Named as having asked at the TPUSA event where a man's money comes from.
 
-*Related: C-5309*
+*Related: C-4317*
 
 ---
 
@@ -393,7 +392,7 @@ Named as having asked at the TPUSA event where a man's money comes from.
 
 Subject of the host's statements on evidence, prints, surrender footage and the surrender account.
 
-*Related: C-5275, C-5288, C-5289, C-5290, C-5291, C-5292, C-5293*
+*Related: C-4279, C-4292, C-4293, C-4294, C-4295, C-4296, C-4297*
 
 ---
 
@@ -401,7 +400,7 @@ Subject of the host's statements on evidence, prints, surrender footage and the 
 
 Named by the host as someone she says lied and is protected.
 
-*Related: C-5348*
+*Related: C-4362*
 
 ---
 
@@ -409,7 +408,7 @@ Named by the host as someone she says lied and is protected.
 
 Floated by the host as one possible person Mitch was kept from seeing.
 
-*Related: C-5340*
+*Related: C-4354*
 
 ---
 
@@ -417,7 +416,7 @@ Floated by the host as one possible person Mitch was kept from seeing.
 
 Named by the host for removing the camera behind Charlie Kirk's head.
 
-*Related: C-5283, C-5284*
+*Related: C-4287, C-4288*
 
 ---
 
@@ -425,7 +424,7 @@ Named by the host for removing the camera behind Charlie Kirk's head.
 
 Reused for the host's call-sign and transponder claim.
 
-*Related: C-5338*
+*Related: C-4352*
 
 ---
 
@@ -433,7 +432,7 @@ Reused for the host's call-sign and transponder claim.
 
 Reused for the host's statements on the evidence against Tyler Robinson and the surgeon's account.
 
-*Related: C-5275, C-5276*
+*Related: C-4279, C-4280*
 
 ---
 
@@ -441,7 +440,7 @@ Reused for the host's statements on the evidence against Tyler Robinson and the 
 
 Reused for the rooftop eyewitness's description of the shooter and weapon.
 
-*Related: C-5277, C-5278, C-5279*
+*Related: C-4281, C-4282, C-4283*
 
 ---
 
@@ -449,7 +448,7 @@ Reused for the rooftop eyewitness's description of the shooter and weapon.
 
 Reused for federal removal of hospital footage and exclusion of the surgeon.
 
-*Related: C-5285, C-5286*
+*Related: C-4289, C-4290*
 
 ---
 
@@ -457,7 +456,7 @@ Reused for federal removal of hospital footage and exclusion of the surgeon.
 
 Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.
 
-*Related: C-5294, C-5295*
+*Related: C-4298, C-4299*
 
 ---
 
@@ -465,7 +464,7 @@ Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.
 
 Reused for the host's mention of being sued by a transatlantic president.
 
-*Related: C-5342*
+*Related: C-4356*
 
 ---
 
@@ -473,7 +472,7 @@ Reused for the host's mention of being sued by a transatlantic president.
 
 Reused for the missing Tyler Robinson surrender footage and the host's account of the surrender.
 
-*Related: C-5289, C-5290, C-5291, C-5292, C-5293*
+*Related: C-4293, C-4294, C-4295, C-4296, C-4297*
 
 ---
 
@@ -481,7 +480,7 @@ Reused for the missing Tyler Robinson surrender footage and the host's account o
 
 Reused for Mitch's account of the September 9 JTF building encounter and its aftermath.
 
-*Related: C-5308, C-5320, C-5321, C-5322, C-5326, C-5327, C-5328, C-5329, C-5330, C-5331, C-5332, C-5333, C-5334, C-5336, C-5341*
+*Related: C-4315, C-4329, C-4330, C-4331, C-4335, C-4337, C-4338, C-4339, C-4341, C-4342, C-4343, C-4344, C-4345, C-4349, C-4355*
 
 ---
 
@@ -489,7 +488,7 @@ Reused for Mitch's account of the September 9 JTF building encounter and its aft
 
 Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.
 
-*Related: C-5310, C-5311, C-5312, C-5313, C-5314, C-5316*
+*Related: C-4319, C-4320, C-4321, C-4322, C-4323, C-4325*
 
 ---
 
@@ -497,7 +496,7 @@ Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.
 
 Reused for the Candlewood hotel stay and lobby encounter.
 
-*Related: C-5323, C-5324, C-5325*
+*Related: C-4332, C-4333, C-4334*
 
 ---
 
@@ -505,7 +504,7 @@ Reused for the Candlewood hotel stay and lobby encounter.
 
 Reused for Terryl Farnsworth's camera removal.
 
-*Related: C-5283, C-5284*
+*Related: C-4287, C-4288*
 
 ---
 
@@ -513,7 +512,7 @@ Reused for Terryl Farnsworth's camera removal.
 
 Reused for bomb-dog failure, federal direction to the weapon and prints.
 
-*Related: C-5272, C-5280, C-5281, C-5282, C-5288*
+*Related: C-4275, C-4284, C-4285, C-4286, C-4292*
 
 ---
 
@@ -521,7 +520,7 @@ Reused for bomb-dog failure, federal direction to the weapon and prints.
 
 Reused for the non-impounded hospital transport vehicle.
 
-*Related: C-5287*
+*Related: C-4291*
 
 ---
 
@@ -529,7 +528,7 @@ Reused for the non-impounded hospital transport vehicle.
 
 Reused for the call-sign switch claim.
 
-*Related: C-5338, C-5339, C-5340*
+*Related: C-4352, C-4353, C-4354*
 
 ---
 
@@ -537,7 +536,7 @@ Reused for the call-sign switch claim.
 
 Reused for the question of Erika Kirk's presence and connection to Fort Huachuca.
 
-*Related: C-5337*
+*Related: C-4350*
 
 ---
 
@@ -545,7 +544,7 @@ Reused for the question of Erika Kirk's presence and connection to Fort Huachuca
 
 Reused for the host's claims about military infiltration of faith and TPUSA.
 
-*Related: C-5296, C-5297, C-5304, C-5306*
+*Related: C-4300, C-4301, C-4311, C-4313*
 
 ---
 
@@ -553,7 +552,7 @@ Reused for the host's claims about military infiltration of faith and TPUSA.
 
 Reused for the Fort Huachuca flight data discussion.
 
-*Related: C-5338, C-5339*
+*Related: C-4352, C-4353*
 
 ---
 
@@ -561,7 +560,7 @@ Reused for the Fort Huachuca flight data discussion.
 
 Reused for the uncontacted rooftop eyewitness.
 
-*Related: C-5277*
+*Related: C-4281*
 
 ---
 
@@ -569,13 +568,13 @@ Reused for the uncontacted rooftop eyewitness.
 
 Reused for the weapon recovery and eyewitness description.
 
-*Related: C-5278, C-5280, C-5282*
+*Related: C-4282, C-4284, C-4286*
 
 ---
 
 ## V. Claim Register
 
-**C-1969** Fort Huachuca Functions as Army Military Intelligence (MIT) Training Installation
+**C-4303** Fort Huachuca Functions as Army Military Intelligence (MIT) Training Installation
 
 Claim Timestamp: 00:12:00
 
@@ -589,7 +588,7 @@ Investigative Direction: Obtain official DoD documentation confirming Fort Huach
 
 ---
 
-**C-1970** "Mitch" Subject to ~35-Year Gag Order Related to 1990 JTF6 Drug Tunnel Discovery
+**C-4318** "Mitch" Subject to ~35-Year Gag Order Related to 1990 JTF6 Drug Tunnel Discovery
 
 Claim Timestamp: 00:26:10–00:37:00
 
@@ -603,7 +602,7 @@ Investigative Direction: Review any court filings or legal correspondence refere
 
 ---
 
-**C-1971** "Mitch" Physically Present at Fort Huachuca on September 8–9, 2025
+**C-4316** "Mitch" Physically Present at Fort Huachuca on September 8–9, 2025
 
 Claim Timestamp: 00:19:30
 
@@ -618,7 +617,7 @@ Investigative Direction: Obtain original metadata records; verify hotel reservat
 
 ---
 
-**C-1972** "Mitch" Says He Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers
+**C-4336** "Mitch" Says He Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers
 
 Claim Timestamp: 00:44:46–00:50:12
 
@@ -633,7 +632,7 @@ Investigative Direction: Cross-reference Fort Huachuca visitor logs for Septembe
 
 ---
 
-**C-1973** "Mitch" Identifies Woman at Candlewood Inn & Suites on September 8, 2025 as Resembling Erika Kirk (95–99% Confidence)
+**C-4347** "Mitch" Identifies Woman at Candlewood Inn & Suites on September 8, 2025 as Resembling Erika Kirk (95–99% Confidence)
 
 Claim Timestamp: 00:55:09–00:57:28
 
@@ -648,7 +647,7 @@ Investigative Direction: Obtain independent corroborating surveillance or visito
 
 ---
 
-**C-1974** "Mitch" Identifies Man at JTF Building on September 9, 2025 as Resembling Brian Harpole (95–99% Confidence)
+**C-4348** "Mitch" Identifies Man at JTF Building on September 9, 2025 as Resembling Brian Harpole (95–99% Confidence)
 
 Claim Timestamp: 00:55:09–00:57:28
 
@@ -663,7 +662,7 @@ Investigative Direction: Verify witness's stated capacity for facial recognition
 
 ---
 
-**C-1975** "Mitch" Identifies Congressman-Type Figure at Fort Huachuca on September 9, 2025 as Mark Amodei (95% Confidence)
+**C-4351** "Mitch" Identifies Congressman-Type Figure at Fort Huachuca on September 9, 2025 as Mark Amodei (95% Confidence)
 
 Claim Timestamp: 01:01:18
 
@@ -678,7 +677,7 @@ Investigative Direction: Cross-check Congressman Amodei's official schedule and 
 
 ---
 
-**C-1976** Fort Huachuca Class Taught by Bruce Bevins on Infiltrating Christian Organizations via Covert Psychological Operations
+**C-4306** Fort Huachuca Class Taught by Bruce Bevins on Infiltrating Christian Organizations via Covert Psychological Operations
 
 Claim Timestamp: 00:14:48–00:17:53
 
@@ -693,7 +692,7 @@ Investigative Direction: Identify Bruce Bevins's official military role and cour
 
 ---
 
-**C-1977** Fort Huachuca Military Students Described Overnight Deception Training Exercises Against Civilians in Tucson
+**C-4310** Fort Huachuca Military Students Described Overnight Deception Training Exercises Against Civilians in Tucson
 
 Claim Timestamp: 00:16:38–00:17:14
 
@@ -708,7 +707,7 @@ Investigative Direction: Identify the two named students (currently redacted) an
 
 ---
 
-**C-1978** Black Plastic / Tempered Glass-Like Fragments Visible in Post-Shooting Photographs of Charlie Kirk's SUV Interior
+**C-4276** Black Plastic / Tempered Glass-Like Fragments Visible in Post-Shooting Photographs of Charlie Kirk's SUV Interior
 
 Claim Timestamp: 00:01:18–00:02:51
 
@@ -723,7 +722,7 @@ Investigative Direction: Release and forensic-analyze the original high-resoluti
 
 ---
 
-**C-1979** "Mitch" Says Multiple Federal and Local Law Enforcement Officers Surrounded Him Outside JTF Building on September 9, 2025
+**C-4340** "Mitch" Says Multiple Federal and Local Law Enforcement Officers Surrounded Him Outside JTF Building on September 9, 2025
 
 Claim Timestamp: 00:50:12–00:53:59
 
@@ -738,7 +737,7 @@ Investigative Direction: Obtain any contemporaneous bodycam footage or police re
 
 ---
 
-**C-5272** Flood of law-enforcement and military emails objecting to the bomb-dog account
+**C-4275** Flood of law-enforcement and military emails objecting to the bomb-dog account
 
 Claim Timestamp: 00:00:00
 
@@ -753,7 +752,7 @@ Investigative Direction: Ask the host to publish or characterize a sample of the
 
 ---
 
-**C-5273** Host cautions SUV fragments do not prove rigging
+**C-4277** Host cautions SUV fragments do not prove rigging
 
 Claim Timestamp: 00:02:07
 
@@ -764,12 +763,12 @@ Transcript Snippet: And I want to say that we can't necessarily extrapolate that
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10369
-Supports: C-1978
+Supports: C-4276
 Investigative Direction: Compare the original high-resolution SUV photographs against reference images of phone glass, hard candy and vehicle trim.
 
 ---
 
-**C-5274** Host withholding remaining SUV photos to protect federal sources
+**C-4278** Host withholding remaining SUV photos to protect federal sources
 
 Claim Timestamp: 00:02:51
 
@@ -784,7 +783,7 @@ Investigative Direction: Ask the host which photographs remain unreleased and wh
 
 ---
 
-**C-5275** Host says there is no evidence against Tyler Robinson beyond untimestamped messages
+**C-4279** Host says there is no evidence against Tyler Robinson beyond untimestamped messages
 
 Claim Timestamp: 00:03:34
 
@@ -799,7 +798,7 @@ Investigative Direction: Review the Utah charging documents and any public filin
 
 ---
 
-**C-5276** Surgeon never confirmed a .30-06 or a steel neck
+**C-4280** Surgeon never confirmed a .30-06 or a steel neck
 
 Claim Timestamp: 00:04:13
 
@@ -814,7 +813,7 @@ Investigative Direction: Obtain the surgeon's own public statements or interview
 
 ---
 
-**C-5277** Lone rooftop eyewitness not contacted by lawyers or investigators
+**C-4281** Lone rooftop eyewitness not contacted by lawyers or investigators
 
 Claim Timestamp: 00:04:13
 
@@ -829,7 +828,7 @@ Investigative Direction: Check court filings and defense and prosecution witness
 
 ---
 
-**C-5278** Rooftop eyewitness, a gun-range instructor, says the weapon looked like a .223
+**C-4282** Rooftop eyewitness, a gun-range instructor, says the weapon looked like a .223
 
 Claim Timestamp: 00:04:13
 
@@ -844,7 +843,7 @@ Investigative Direction: Interview the witness on the record, confirm his instru
 
 ---
 
-**C-5279** Rooftop figure wore black tactical gear and a face mask and looked professional
+**C-4283** Rooftop figure wore black tactical gear and a face mask and looked professional
 
 Claim Timestamp: 00:05:09
 
@@ -859,7 +858,7 @@ Investigative Direction: Compare the eyewitness's description with the clothing 
 
 ---
 
-**C-5280** Bomb dogs were unable to find the weapon in the field where it was found
+**C-4284** Bomb dogs were unable to find the weapon in the field where it was found
 
 Claim Timestamp: 00:05:09
 
@@ -874,7 +873,7 @@ Investigative Direction: Obtain K-9 deployment logs and incident reports for the
 
 ---
 
-**C-5281** Federal agents directed local officers to the weapon
+**C-4285** Federal agents directed local officers to the weapon
 
 Claim Timestamp: 00:05:09
 
@@ -889,7 +888,7 @@ Investigative Direction: Request the recovery report, officer statements and evi
 
 ---
 
-**C-5282** Dogs were not given the weapon's scent to trace it back to the roof
+**C-4286** Dogs were not given the weapon's scent to trace it back to the roof
 
 Claim Timestamp: 00:05:09
 
@@ -904,7 +903,7 @@ Investigative Direction: Ask the investigating agencies whether any scent-trail 
 
 ---
 
-**C-5283** Terryl Farnsworth raced to remove the camera behind Charlie's head
+**C-4287** Terryl Farnsworth raced to remove the camera behind Charlie's head
 
 Claim Timestamp: 00:05:57
 
@@ -919,7 +918,7 @@ Investigative Direction: Review event footage and statements from Farnsworth on 
 
 ---
 
-**C-5284** Host's reading of why the camera was removed
+**C-4288** Host's reading of why the camera was removed
 
 Claim Timestamp: 00:05:57
 
@@ -930,12 +929,12 @@ Transcript Snippet: when I imagine why he might have done that, I think it's bec
 Anchored Artifacts: 
 Mentions: N-261, N-1, N-3
 Related Nodes: N-10346
-Supports: C-5283
+Supports: C-4287
 Investigative Direction: Obtain the camera's retained footage and compare it with the medical findings; ask Farnsworth for his stated reason.
 
 ---
 
-**C-5285** Federal agents prevented the surgeon from returning to the operating room
+**C-4289** Federal agents prevented the surgeon from returning to the operating room
 
 Claim Timestamp: 00:06:40
 
@@ -950,7 +949,7 @@ Investigative Direction: Identify the surgeon and hospital staff who could confi
 
 ---
 
-**C-5286** Federal agents removed the hospital surveillance footage
+**C-4290** Federal agents removed the hospital surveillance footage
 
 Claim Timestamp: 00:07:19
 
@@ -965,7 +964,7 @@ Investigative Direction: Request the hospital's records of any footage seizure o
 
 ---
 
-**C-5287** Vehicle that took Charlie to the hospital was not impounded
+**C-4291** Vehicle that took Charlie to the hospital was not impounded
 
 Claim Timestamp: 00:07:19
 
@@ -980,7 +979,7 @@ Investigative Direction: Obtain evidence-hold and impound records for the transp
 
 ---
 
-**C-5288** Host confirms multiple sets of prints on the recovered weapon
+**C-4292** Host confirms multiple sets of prints on the recovered weapon
 
 Claim Timestamp: 00:07:19
 
@@ -991,12 +990,12 @@ Transcript Snippet: There were multiple sets of prints that were on the gun that
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10360
-Supports: C-1283
+Supports: C-756
 Investigative Direction: Obtain the latent-print and DNA reports filed by the Utah crime lab for the recovered rifle.
 
 ---
 
-**C-5289** Footage of Tyler Robinson turning himself in is apparently missing
+**C-4293** Footage of Tyler Robinson turning himself in is apparently missing
 
 Claim Timestamp: 00:08:04
 
@@ -1011,7 +1010,7 @@ Investigative Direction: File a records request for the station and sheriff's of
 
 ---
 
-**C-5290** Local Utah news told the surrender footage had expired
+**C-4294** Local Utah news told the surrender footage had expired
 
 Claim Timestamp: 00:08:04
 
@@ -1026,7 +1025,7 @@ Investigative Direction: Identify the Utah outlet and the records request, and o
 
 ---
 
-**C-5291** Host says the parents-turned-him-in story is false
+**C-4295** Host says the parents-turned-him-in story is false
 
 Claim Timestamp: 00:08:04
 
@@ -1041,7 +1040,7 @@ Investigative Direction: Compare the host's sources with the public account from
 
 ---
 
-**C-5292** Host says Robinson was told to come in peacefully or doors would be broken down
+**C-4296** Host says Robinson was told to come in peacefully or doors would be broken down
 
 Claim Timestamp: 00:08:04
 
@@ -1056,7 +1055,7 @@ Investigative Direction: Seek the sheriff's operational plan and communications 
 
 ---
 
-**C-5293** Police officers say they were told not to look at him and to avoid cameras
+**C-4297** Police officers say they were told not to look at him and to avoid cameras
 
 Claim Timestamp: 00:08:04
 
@@ -1071,7 +1070,7 @@ Investigative Direction: Identify officers present at intake and obtain any writ
 
 ---
 
-**C-5294** Host says Calvary Chapel installs former pedophiles and drug traffickers as lead pastors
+**C-4298** Host says Calvary Chapel installs former pedophiles and drug traffickers as lead pastors
 
 Claim Timestamp: 00:09:14
 
@@ -1086,7 +1085,7 @@ Investigative Direction: List the specific Calvary Chapel pastors the host has n
 
 ---
 
-**C-5295** Rob McCoy interview with a man who went to prison and was given access to children
+**C-4299** Rob McCoy interview with a man who went to prison and was given access to children
 
 Claim Timestamp: 00:10:03
 
@@ -1101,7 +1100,7 @@ Investigative Direction: Locate the interview the host refers to and identify th
 
 ---
 
-**C-5296** Host says many conservative media companies are run by former military intelligence
+**C-4300** Host says many conservative media companies are run by former military intelligence
 
 Claim Timestamp: 00:11:00
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Ask the host to name the companies and executives, then
 
 ---
 
-**C-5297** Host says she has argued that faith has been infiltrated by the military
+**C-4301** Host says she has argued that faith has been infiltrated by the military
 
 Claim Timestamp: 00:11:00
 
@@ -1131,7 +1130,7 @@ Investigative Direction: Compile the host's earlier statements on military infil
 
 ---
 
-**C-5298** Host describes Fort Huachuca as an intelligence training hub where civilians can become assets
+**C-4302** Host describes Fort Huachuca as an intelligence training hub where civilians can become assets
 
 Claim Timestamp: 00:11:38
 
@@ -1142,12 +1141,12 @@ Transcript Snippet: Civilians can be turned into intelligence assets on this bas
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10368
-Supports: C-1969
+Supports: C-4303
 Investigative Direction: Obtain Fort Huachuca's published mission and course catalog and any program open to civilians.
 
 ---
 
-**C-5299** Email: two recently baptized Christians started a gym near Fort Huachuca in May 2013
+**C-4304** Email: two recently baptized Christians started a gym near Fort Huachuca in May 2013
 
 Claim Timestamp: 00:13:05
 
@@ -1162,7 +1161,7 @@ Investigative Direction: Identify the gym owners and the gym, and confirm the bu
 
 ---
 
-**C-5300** Email: a founding-member couple allegedly staged a hostile takeover of the gym
+**C-4305** Email: a founding-member couple allegedly staged a hostile takeover of the gym
 
 Claim Timestamp: 00:13:59
 
@@ -1177,7 +1176,7 @@ Investigative Direction: Check Arizona Corporation Commission filings and any ci
 
 ---
 
-**C-5301** Email: a distressed soldier called Bruce Bevins the most evil man she had met
+**C-4307** Email: a distressed soldier called Bruce Bevins the most evil man she had met
 
 Claim Timestamp: 00:15:35
 
@@ -1192,7 +1191,7 @@ Investigative Direction: Identify the soldier and Bevins's official role, and co
 
 ---
 
-**C-5302** Email: writer recalled an incident with Bevins's wife
+**C-4308** Email: writer recalled an incident with Bevins's wife
 
 Claim Timestamp: 00:15:35
 
@@ -1207,7 +1206,7 @@ Investigative Direction: Ask the emailer to describe the incident with Bevins's 
 
 ---
 
-**C-5303** Email: writer wonders whether the gym's destruction was a training exercise
+**C-4309** Email: writer wonders whether the gym's destruction was a training exercise
 
 Claim Timestamp: 00:15:35
 
@@ -1222,7 +1221,7 @@ Investigative Direction: Treat as the emailer's speculation; seek documentary ev
 
 ---
 
-**C-5304** Email: some of Charlie's trusted people may have been trained operatives who infiltrated TPUSA
+**C-4311** Email: some of Charlie's trusted people may have been trained operatives who infiltrated TPUSA
 
 Claim Timestamp: 00:17:14
 
@@ -1237,7 +1236,7 @@ Investigative Direction: Ask the emailer which TPUSA individuals they have in mi
 
 ---
 
-**C-5305** Host cannot confirm the Bevins allegations and has never heard of him
+**C-4312** Host cannot confirm the Bevins allegations and has never heard of him
 
 Claim Timestamp: 00:17:53
 
@@ -1248,12 +1247,12 @@ Transcript Snippet: Now, I obviously cannot confirm just yet. I'm sure after thi
 Anchored Artifacts: A-1557.2
 Mentions: N-362, N-3
 Related Nodes: N-10368
-Qualifies: C-1976
+Qualifies: C-4306
 Investigative Direction: Verify Bevins's identity and role through Army and Fort Huachuca records before treating the email as corroborated.
 
 ---
 
-**C-5306** Host says all roads lead to the front door of Turning Point USA Faith
+**C-4313** Host says all roads lead to the front door of Turning Point USA Faith
 
 Claim Timestamp: 00:17:53
 
@@ -1268,7 +1267,7 @@ Investigative Direction: List the specific planes, people and TPUSA Faith links 
 
 ---
 
-**C-5307** Host asks former Fort Huachuca course participants to email moretips
+**C-4314** Host asks former Fort Huachuca course participants to email moretips
 
 Claim Timestamp: 00:18:39
 
@@ -1283,7 +1282,7 @@ Investigative Direction: Record any tips received through the address and their 
 
 ---
 
-**C-5308** Host says wall-to-wall panic followed mention of Fort Huachuca
+**C-4315** Host says wall-to-wall panic followed mention of Fort Huachuca
 
 Claim Timestamp: 00:18:39
 
@@ -1298,7 +1297,7 @@ Investigative Direction: Collect the articles and statements published after the
 
 ---
 
-**C-5309** Tucker Carlson asked where a man's money comes from at the TPUSA event
+**C-4317** Tucker Carlson asked where a man's money comes from at the TPUSA event
 
 Claim Timestamp: 00:23:53
 
@@ -1312,7 +1311,7 @@ Investigative Direction: Find the event recording and identify who Carlson was r
 
 ---
 
-**C-5310** Mitch says he was on a JTF6 border mission assigned from 10th Mountain
+**C-4319** Mitch says he was on a JTF6 border mission assigned from 10th Mountain
 
 Claim Timestamp: 00:26:10
 
@@ -1327,7 +1326,7 @@ Investigative Direction: Obtain Mitch's DD-214 and unit assignment records and t
 
 ---
 
-**C-5311** Mitch says his team placed about 80 sensors along the border
+**C-4320** Mitch says his team placed about 80 sensors along the border
 
 Claim Timestamp: 00:27:05
 
@@ -1342,7 +1341,7 @@ Investigative Direction: Cross-check with historical JTF-6 sensor deployment rec
 
 ---
 
-**C-5312** Mitch says he triangulated the signals to an underground tunnel and passed on the location
+**C-4321** Mitch says he triangulated the signals to an underground tunnel and passed on the location
 
 Claim Timestamp: 00:29:17
 
@@ -1357,7 +1356,7 @@ Investigative Direction: Search press and law-enforcement records for the 1990 D
 
 ---
 
-**C-5313** Mitch says a photo found on the Mexican side showed a Border Patrol commander posing with Mexican and US military
+**C-4322** Mitch says a photo found on the Mexican side showed a Border Patrol commander posing with Mexican and US military
 
 Claim Timestamp: 00:29:17
 
@@ -1372,7 +1371,7 @@ Investigative Direction: Obtain the photographs and the records of how they were
 
 ---
 
-**C-5314** Mitch says the government believed 60 to 80 percent of cocaine came through Douglas, Arizona
+**C-4323** Mitch says the government believed 60 to 80 percent of cocaine came through Douglas, Arizona
 
 Claim Timestamp: 00:30:50
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Check historical DEA and JTF-6 estimates of cocaine flo
 
 ---
 
-**C-5315** Host's summary: Mitch's name was fed to cartels, forcing a name change and debt; Mitch agrees
+**C-4324** Host's summary: Mitch's name was fed to cartels, forcing a name change and debt; Mitch agrees
 
 Claim Timestamp: 00:32:08
 
@@ -1402,7 +1401,7 @@ Investigative Direction: Obtain the court filings, name-change records and the g
 
 ---
 
-**C-5316** Mitch says he incinerated about a ton of cocaine plus guns and money
+**C-4325** Mitch says he incinerated about a ton of cocaine plus guns and money
 
 Claim Timestamp: 00:33:02
 
@@ -1417,7 +1416,7 @@ Investigative Direction: Locate the seizure and destruction records for the 1990
 
 ---
 
-**C-5317** Mitch says a stranger with his personal information approached him in Naco, Arizona and a Border Patrol agent intervened
+**C-4326** Mitch says a stranger with his personal information approached him in Naco, Arizona and a Border Patrol agent intervened
 
 Claim Timestamp: 00:33:02
 
@@ -1432,7 +1431,7 @@ Investigative Direction: Look for Border Patrol incident records and any report 
 
 ---
 
-**C-5318** Mitch says photos from the Mexican side showed how his information reached the cartels
+**C-4327** Mitch says photos from the Mexican side showed how his information reached the cartels
 
 Claim Timestamp: 00:33:59
 
@@ -1447,7 +1446,7 @@ Investigative Direction: Obtain the briefing record and the photographs, and the
 
 ---
 
-**C-5319** Mitch says he has court documents and cases; host says he sent them to her
+**C-4328** Mitch says he has court documents and cases; host says he sent them to her
 
 Claim Timestamp: 00:33:59
 
@@ -1462,7 +1461,7 @@ Investigative Direction: Obtain the case captions and docket numbers from the ho
 
 ---
 
-**C-5320** Mitch went to Fort Huachuca to get the original records and learn why the FBI was not updated on his status
+**C-4329** Mitch went to Fort Huachuca to get the original records and learn why the FBI was not updated on his status
 
 Claim Timestamp: 00:35:09
 
@@ -1477,7 +1476,7 @@ Investigative Direction: Obtain the Fort Huachuca CID reports and Mitch's record
 
 ---
 
-**C-5321** Host says the gag order expired in May and prompted the trip
+**C-4330** Host says the gag order expired in May and prompted the trip
 
 Claim Timestamp: 00:36:31
 
@@ -1488,12 +1487,12 @@ Transcript Snippet: And finally in May this of this year this this uh it expires
 Anchored Artifacts: A-1558.3
 Mentions: N-361, N-3
 Related Nodes: N-10326
-Supports: C-1882, C-1970
+Supports: C-3823, C-4318
 Investigative Direction: Obtain the original NDA and its stated end date from Mitch and the issuing agency.
 
 ---
 
-**C-5322** Mitch says anyone with ID, insurance and a purpose can typically get onto the base
+**C-4331** Mitch says anyone with ID, insurance and a purpose can typically get onto the base
 
 Claim Timestamp: 00:37:09
 
@@ -1508,7 +1507,7 @@ Investigative Direction: Confirm Fort Huachuca's visitor access policy and the g
 
 ---
 
-**C-5323** Mitch says the Candlewood hotel was the barracks he stayed in during his AIT training
+**C-4332** Mitch says the Candlewood hotel was the barracks he stayed in during his AIT training
 
 Claim Timestamp: 00:38:10
 
@@ -1523,7 +1522,7 @@ Investigative Direction: Confirm the Candlewood Suites property's history as con
 
 ---
 
-**C-5324** Mitch describes a man in the lobby with a professional military sheen
+**C-4333** Mitch describes a man in the lobby with a professional military sheen
 
 Claim Timestamp: 00:38:10
 
@@ -1538,7 +1537,7 @@ Investigative Direction: Request the hotel lobby and check-in security footage f
 
 ---
 
-**C-5325** Mitch says the man and woman left in a shiny green GSA-type truck
+**C-4334** Mitch says the man and woman left in a shiny green GSA-type truck
 
 Claim Timestamp: 00:41:42
 
@@ -1553,7 +1552,7 @@ Investigative Direction: Check Fort Huachuca motor-pool and GSA fleet records an
 
 ---
 
-**C-5326** Mitch says 10th Mountain personnel at a coffee shop told him they were there for JTF
+**C-4335** Mitch says 10th Mountain personnel at a coffee shop told him they were there for JTF
 
 Claim Timestamp: 00:43:50
 
@@ -1568,7 +1567,7 @@ Investigative Direction: Identify which 10th Mountain elements were at Fort Huac
 
 ---
 
-**C-5327** Mitch says the JTF building was a temporary setup with no gate guard
+**C-4337** Mitch says the JTF building was a temporary setup with no gate guard
 
 Claim Timestamp: 00:44:46
 
@@ -1579,12 +1578,12 @@ Transcript Snippet: it was obviously a a temporary setup for this new command do
 Anchored Artifacts: A-1558.3
 Mentions: N-361
 Related Nodes: N-10326
-Supports: C-1885
+Supports: C-3833
 Investigative Direction: Obtain imagery or construction and lease records for the temporary command site.
 
 ---
 
-**C-5328** Mitch says the civilian-dressed group left in a GSA vehicle escorted by officers
+**C-4338** Mitch says the civilian-dressed group left in a GSA vehicle escorted by officers
 
 Claim Timestamp: 00:45:54
 
@@ -1599,7 +1598,7 @@ Investigative Direction: Obtain base vehicle dispatch and VIP-escort logs for th
 
 ---
 
-**C-5329** Mitch says GSA reserves extra-shiny vehicles for VIP visitors
+**C-4339** Mitch says GSA reserves extra-shiny vehicles for VIP visitors
 
 Claim Timestamp: 00:47:14
 
@@ -1614,7 +1613,7 @@ Investigative Direction: Confirm GSA fleet practice and the fleet assignment at 
 
 ---
 
-**C-5330** Mitch says another GSA vehicle pulled up and he saw who got in it
+**C-4341** Mitch says another GSA vehicle pulled up and he saw who got in it
 
 Claim Timestamp: 00:50:12
 
@@ -1629,7 +1628,7 @@ Investigative Direction: Ask Mitch whom he saw get in the vehicle and obtain bas
 
 ---
 
-**C-5331** Mitch says officers mentioned a bomb threat and wanted to check his vehicle
+**C-4342** Mitch says officers mentioned a bomb threat and wanted to check his vehicle
 
 Claim Timestamp: 00:50:12
 
@@ -1644,7 +1643,7 @@ Investigative Direction: Obtain the police and CID reports for any bomb-threat r
 
 ---
 
-**C-5332** Mitch says he was taken to the CID building, recorded, and given a report number
+**C-4343** Mitch says he was taken to the CID building, recorded, and given a report number
 
 Claim Timestamp: 00:52:46
 
@@ -1655,12 +1654,12 @@ Transcript Snippet: They did give me a report number to go ahead and and you you
 Anchored Artifacts: A-2745.2
 Mentions: N-361, N-3
 Related Nodes: N-10326
-Supports: C-1889
+Supports: C-3852
 Investigative Direction: Request the incident report under that number from Fort Huachuca CID or the provost marshal.
 
 ---
 
-**C-5333** Mitch says CID answered none of his questions and gave him no documentation
+**C-4344** Mitch says CID answered none of his questions and gave him no documentation
 
 Claim Timestamp: 00:52:46
 
@@ -1675,7 +1674,7 @@ Investigative Direction: File a FOIA or Privacy Act request for Mitch's CID reco
 
 ---
 
-**C-5334** Mitch says officers repeatedly cited 24 hours and told him to stay off base
+**C-4345** Mitch says officers repeatedly cited 24 hours and told him to stay off base
 
 Claim Timestamp: 00:52:46
 
@@ -1690,7 +1689,7 @@ Investigative Direction: Seek the barment or visitor-restriction record issued t
 
 ---
 
-**C-5335** Mitch says he learned of Charlie Kirk's shooting after a stop in Salt Lake City
+**C-4346** Mitch says he learned of Charlie Kirk's shooting after a stop in Salt Lake City
 
 Claim Timestamp: 00:53:59
 
@@ -1705,7 +1704,7 @@ Investigative Direction: Check Mitch's airline itinerary and boarding records fo
 
 ---
 
-**C-5336** Host says she confirmed the location and meeting with people currently at Fort Huachuca
+**C-4349** Host says she confirmed the location and meeting with people currently at Fort Huachuca
 
 Claim Timestamp: 00:56:25
 
@@ -1716,12 +1715,12 @@ Transcript Snippet: I confirmed the location with other people that are that are
 Anchored Artifacts: A-1558.1
 Mentions: N-361, N-3
 Related Nodes: N-10326
-Supports: C-1971
+Supports: C-4316
 Investigative Direction: Ask the host to document who on base confirmed the location and what they confirmed, without exposing sources.
 
 ---
 
-**C-5337** Host says Erika Kirk has said her mother moved to Arizona after getting involved with the military
+**C-4350** Host says Erika Kirk has said her mother moved to Arizona after getting involved with the military
 
 Claim Timestamp: 00:59:04
 
@@ -1736,7 +1735,7 @@ Investigative Direction: Find Erika Kirk's public statements on her mother's mov
 
 ---
 
-**C-5338** Host says a call sign confirmed a heavy-duty person at Fort Huachuca who turned off the transponder
+**C-4352** Host says a call sign confirmed a heavy-duty person at Fort Huachuca who turned off the transponder
 
 Claim Timestamp: 01:01:18
 
@@ -1747,12 +1746,12 @@ Transcript Snippet: We were able to confirm based on a call sign that there was 
 Anchored Artifacts: A-2746.1
 Mentions: N-3
 Related Nodes: N-10086, N-10364, N-10671
-Supports: C-1906
+Supports: C-3962
 Investigative Direction: Obtain flight-tracking archives and FAA or military records for the call sign at Fort Huachuca on September 9, 2025.
 
 ---
 
-**C-5339** Host says the call sign changed at a certain time, suggesting a handoff to a congressman
+**C-4353** Host says the call sign changed at a certain time, suggesting a handoff to a congressman
 
 Claim Timestamp: 01:01:18
 
@@ -1763,12 +1762,12 @@ Transcript Snippet: that call sign did change at a certain time which lets us kn
 Anchored Artifacts: A-2746.1
 Mentions: N-3
 Related Nodes: N-10364, N-10671
-Supports: C-1906
+Supports: C-3962
 Investigative Direction: Document the call-sign change time from flight-tracking data and the registered operator before and after it.
 
 ---
 
-**C-5340** Host floats Kash Patel as a possible unseen person (speculation)
+**C-4354** Host floats Kash Patel as a possible unseen person (speculation)
 
 Claim Timestamp: 01:01:18
 
@@ -1783,7 +1782,7 @@ Investigative Direction: Treat as speculation; compare the FBI director's public
 
 ---
 
-**C-5341** Host believes officers surrounded Mitch to keep him from seeing who walked out
+**C-4355** Host believes officers surrounded Mitch to keep him from seeing who walked out
 
 Claim Timestamp: 01:02:04
 
@@ -1798,7 +1797,7 @@ Investigative Direction: Treat as the host's inference; seek body-camera or inci
 
 ---
 
-**C-5342** Host says she is being sued by a transatlantic president
+**C-4356** Host says she is being sued by a transatlantic president
 
 Claim Timestamp: 01:02:04
 
@@ -1813,7 +1812,7 @@ Investigative Direction: Check the court docket for the lawsuit the host refers 
 
 ---
 
-**C-5343** Host pledges to help Mitch raise money for lawsuits against the federal government
+**C-4357** Host pledges to help Mitch raise money for lawsuits against the federal government
 
 Claim Timestamp: 01:02:04
 
@@ -1828,7 +1827,7 @@ Investigative Direction: Watch for the fundraiser's launch and verify its benefi
 
 ---
 
-**C-5344** Host Says 51,000 Emails Sat Unanswered in the Tip Inbox
+**C-4358** Host Says 51,000 Emails Sat Unanswered in the Tip Inbox
 
 Claim Timestamp: 01:05:05
 
@@ -1842,7 +1841,7 @@ Investigative Direction: Ask the host about the size of the tip inbox backlog.
 
 ---
 
-**C-5345** Host says she called four minutes after the email was sent
+**C-4359** Host says she called four minutes after the email was sent
 
 Claim Timestamp: 01:05:18
 
@@ -1856,7 +1855,7 @@ Investigative Direction: Check the email timestamp and call log if the host choo
 
 ---
 
-**C-5346** Host says she will set up a GiveSendGo for Mitch and his family
+**C-4360** Host says she will set up a GiveSendGo for Mitch and his family
 
 Claim Timestamp: 01:10:14
 
@@ -1871,7 +1870,7 @@ Investigative Direction: Confirm the fundraiser's URL, beneficiary and disbursem
 
 ---
 
-**C-5347** Host says she believes the government was involved in the killing and the cover-up
+**C-4361** Host says she believes the government was involved in the killing and the cover-up
 
 Claim Timestamp: 01:11:41
 
@@ -1885,7 +1884,7 @@ Investigative Direction: Treat as the host's stated belief; identify the specifi
 
 ---
 
-**C-5348** Host says Josh Hammer lied and is protected
+**C-4362** Host says Josh Hammer lied and is protected
 
 Claim Timestamp: 01:13:10
 
@@ -1903,9 +1902,9 @@ Investigative Direction: Identify the specific statement by Josh Hammer the host
 
 The artifact, node, and claim registers are mutually cross-referenced. Key structural relationships:
 
-- **N-10367 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-1971 through C-1975 and C-1979.
-- **N-10368 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-1969, C-1976, and C-1977.
-- **N-10369 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-1978.
+- **N-10367 (Fort Huachuca Eyewitness Encounter)** is anchored by artifacts A-1558.1, A-1558.3, A-1559.1, A-1559.2, A-1559.3 and supports claims C-4316 through C-4351 and C-4340.
+- **N-10368 (Bruce Bevins Covert Training Class)** is anchored by A-1557.1 and A-1557.2 and supports claims C-4303, C-4306, and C-4310.
+- **N-10369 (SUV Black Plastic Fragmentation)** is anchored by A-1560.1 and A-1560.2 and supports claim C-4276.
 - **N-361 ("Mitch")** is the central person node, linked to six claims and three artifacts.
 - **N-2 (Erika Kirk)** and **N-1 (Charlie Kirk)** are reused from prior episodes.
 
@@ -2066,8 +2065,8 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown**: A-1559.2 (Brian Harpole reference photo) and A-1559.3 (Erika Kirk reference photo with ponytail) – host references these as identification comparisons but the on-screen display is not detailed in the transcript.
 - **Transcript ambiguity**: A-1560.2 (Charlie Kirk SUV photos) – host announces intent to display at ~02:51 but the transcript does not include transcriptions of any photo contents.
-- **Single-source testimony**: A-1557.2 (gym owner email) – sole source for claims C-1976 and C-1977; host explicitly qualifies as "allegedly."
-- **Host-conducted verification only**: C-1971 – EXIF metadata verification was performed by host and her team, not by an independent forensic source within this episode.
-- **Requires human verification**: Identification confidence percentages for C-1973, C-1974, and C-1975 are witness self-assessments and should be treated as testimonial rather than forensic identification.
+- **Single-source testimony**: A-1557.2 (gym owner email) – sole source for claims C-4306 and C-4310; host explicitly qualifies as "allegedly."
+- **Host-conducted verification only**: C-4316 – EXIF metadata verification was performed by host and her team, not by an independent forensic source within this episode.
+- **Requires human verification**: Identification confidence percentages for C-4347, C-4348, and C-4351 are witness self-assessments and should be treated as testimonial rather than forensic identification.
 - **Name preservation**: "Bruce Bevins" preserved exactly as named in email; "Mitch" preserved as host-assigned pseudonym; "Captain Neff" preserved exactly as named in witness testimony; "Mark Amodei" identified from host's on-air correction via production staff.
 - **Previously inscribed data points (recap only)**: References to the rooftop eyewitness not contacted, bomb-dog failure, federal direction to local officers regarding the weapon, multiple sets of prints on the weapon, and missing Tyler Robinson surrender footage were re-stated in this episode but are anchored to artifacts previously inscribed in earlier episodes and are not re-anchored here.

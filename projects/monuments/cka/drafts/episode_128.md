@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep128): N-10777
   - Tip-minted Nodes (reintro-ep128): N-11143, N-11305
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14712–C-14796
+  - Claim Range: C-10950–C-11059
   - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-153, N-165, N-209, N-224, N-253, N-591, N-607, N-689, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
  - New Nodes Introduced: N-10732, N-10733, N-10734, N-10737, N-10738, N-10739
  - Hole-minted Nodes (wave3): N-507, N-508, N-509, N-510
@@ -42,7 +42,7 @@
 ### Episode 128 Ledger Summary
 
 - **Artifact Families Introduced:** A-2153, A-2154, A-2155, A-2156, A-2157, A-2158, A-2159, A-2160, A-2161, A-2162, A-2163
-- **Claim Range:** C-3058–C-3082
+- **Claim Range:** C-10953–C-11037
 - **New People Nodes Introduced:** none (Wave 2: local ids removed)
 - **New Investigation Targets Introduced:** N-10732, N-10733, N-10734, N-10735, N-10736, N-10737, N-10738, N-10739
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:03:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3058, C-3059, N-10734*
+*Related: C-10953, C-10957, N-10734*
 
 **A-2153.2** Brigadier General Blaine Holt segment on Newsmax (spine-impact rejection)
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3059, N-10734*
+*Related: C-10957, N-10734*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:08:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3060, C-3061, N-10735*
+*Related: C-10961, C-10963, N-10735*
 
 ---
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:12:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3062, N-10736*
+*Related: C-10970, N-10736*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:16:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (appearance not independently verified by analyst)
 
-*Related: C-3063, N-10738*
+*Related: C-10981, N-10738*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:17:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host claims to have confirmed)
 
-*Related: C-3064*
+*Related: C-10983*
 
 **A-2157.2** Weber State University graduation record (criminal justice, 2008)
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:17:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3065*
+*Related: C-10984*
 
 **A-2157.3** Utah Department of Public Safety post-training photo, May 20, 2013 (with Beau Mason)
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:20:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3066, C-3069*
+*Related: C-10991, C-10992*
 
 **A-2157.4** 2016 RNC convention article – Jennifer Faumuina as volunteer trooper (Ohio)
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:18:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3067*
+*Related: C-10986*
 
 **A-2157.5** 2023 sergeant swearing-in photo (with Beau Mason)
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:20:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3068, C-3070*
+*Related: C-10987, C-10993*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:19:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3071, N-10733*
+*Related: C-10990, N-10733*
 
 **A-2158.2** Andrew Zenger appointed CEO of Timpanogos Hospital – August 18, 2025
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3072, N-10733*
+*Related: C-10996, N-10733*
 
 **A-2158.3** Judge Tony Graf appointed – May 2025
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3073, N-10733*
+*Related: C-10997, N-10733*
 
 **A-2158.4** Utah medical examiner appointment – July 2024
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:21:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3074, N-10733*
+*Related: C-10998, N-10733*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:22:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3075*
+*Related: C-11001*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:24:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3076, C-3077*
+*Related: C-11003, C-11004*
 
 **A-2160.2** Adult Friends for Youth / Sid Rosen reference within same article set
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3078*
+*Related: C-11007*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:31:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3079, N-10737*
+*Related: C-11015, N-10737*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 00:36:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-3080, N-10732*
+*Related: C-11025, N-10732*
 
 **A-2162.2** Second Blake Neff statement – revised to Salt Lake City, no hotel name recalled
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:36:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-3080, C-3081, N-10732*
+*Related: C-11025, C-11026, N-10732*
 
 ---
 
@@ -316,7 +316,7 @@ Video Timestamp: 00:41:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud on air)
 
-*Related: C-3082, N-10739*
+*Related: C-11037, N-10739*
 
 ---
 
@@ -329,7 +329,7 @@ Video Timestamp: 00:10:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14724, N-10090, N-153, N-3*
+*Related: C-10966, N-10090, N-153, N-3*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:14:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14731, C-14732, C-14734, C-14735, N-10019, N-10727, N-3, N-11402*
+*Related: C-10974, C-10975, C-10977, C-10978, N-10019, N-10727, N-3, N-11402*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:22:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14746, N-10738, N-3, N-505*
+*Related: C-11002, N-10738, N-3, N-505*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:26:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14752, C-14753, N-1, N-10249, N-253, N-3*
+*Related: C-11011, C-11012, N-1, N-10249, N-253, N-3*
 
 ---
 
@@ -383,7 +383,7 @@ Video Timestamp: 00:38:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14770, N-10732, N-3*
+*Related: C-11032, N-10732, N-3*
 
 ---
 
@@ -396,7 +396,7 @@ Video Timestamp: 00:41:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14776, C-14777, N-10435, N-10739, N-14, N-2, N-3*
+*Related: C-11039, C-11040, N-10435, N-10739, N-14, N-2, N-3*
 
 ---
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:48:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14783, C-14784, N-10257, N-10271, N-3, N-40, N-11402, N-11405*
+*Related: C-11046, C-11047, N-10257, N-10271, N-3, N-40, N-11402, N-11405*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:49:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14787, C-14788, N-10249, N-10346, N-10383, N-11, N-3*
+*Related: C-11050, C-11051, N-10249, N-10346, N-10383, N-11, N-3*
 
 ---
 
@@ -437,7 +437,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14791, N-1, N-10539, N-2, N-3*
+*Related: C-11054, N-1, N-10539, N-2, N-3*
 
 ---
 
@@ -450,7 +450,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14791, N-1, N-10539, N-2, N-3*
+*Related: C-11054, N-1, N-10539, N-2, N-3*
 
 ---
 
@@ -465,31 +465,31 @@ Reused; first introduced in episode 15.
 
 First named by the host at 00:08:44 in episode 128. Aliases: Beau Mason, Beau "Bo" Mason.
 
-*Related: C-3061, C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076*
+*Related: C-10963, C-10981, C-10983, C-10984, C-10991, C-10986, C-10987, C-10992, C-10993, C-10990, C-11003*
 
 **N-505** Jennifer Faumuina
 
 Named by the host at 00:15:24 in episode 128; first introduced in episode 126.
 
-*Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3071, C-3076, C-3077*
+*Related: C-10981, C-10983, C-10984, C-10991, C-10986, C-10987, C-10992, C-10993, C-10990, C-11003, C-11004*
 
 **N-509** Misiona Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
-*Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077, C-3078*
+*Related: C-10981, C-10983, C-10984, C-10991, C-10986, C-10987, C-10992, C-10993, C-11003, C-11004, C-11007*
 
 **N-508** Sapena Faumuina
 
 First named by the host at 00:23:06 in episode 128.
 
-*Related: C-3063, C-3064, C-3065, C-3066, C-3067, C-3068, C-3069, C-3070, C-3076, C-3077*
+*Related: C-10981, C-10983, C-10984, C-10991, C-10986, C-10987, C-10992, C-10993, C-11003, C-11004*
 
 **N-510** Sid Rosen
 
 First named by the host at 00:24:14 in episode 128.
 
-*Related: C-3078*
+*Related: C-11007*
 
 
 
@@ -503,7 +503,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2162.1, A-2162.2, C-3080, C-3081*
+*Related: A-2162.1, A-2162.2, C-11025, C-11026*
 
 ---
 
@@ -516,7 +516,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2158.1, A-2158.2, A-2158.3, A-2158.5, C-3071, C-3072, C-3073, C-3074*
+*Related: A-2158.1, A-2158.2, A-2158.3, A-2158.5, C-10990, C-10996, C-10997, C-10998*
 
 ---
 
@@ -529,7 +529,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2153.1, A-2153.2, C-3058, C-3059*
+*Related: A-2153.1, A-2153.2, C-10953, C-10957*
 
 ---
 
@@ -542,7 +542,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2154.1, C-3060*
+*Related: A-2154.1, C-10961*
 
 ---
 
@@ -555,7 +555,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2155.1, C-3062*
+*Related: A-2155.1, C-10970*
 
 ---
 
@@ -568,7 +568,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2161.1, C-3079*
+*Related: A-2161.1, C-11015*
 
 ---
 
@@ -581,7 +581,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2156.1, C-3063*
+*Related: A-2156.1, C-10981*
 
 ---
 
@@ -594,7 +594,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2163.1, C-3082*
+*Related: A-2163.1, C-11037*
 
 ---
 
@@ -602,7 +602,7 @@ Investigative Pressure: Low
 
 Charlie Kirk; the victim, discussed throughout.
 
-*Related: C-14715, C-14716, C-14718, C-14743, C-14752, C-14754, C-14755, C-14757, C-14761, C-14767, C-14768, C-14785, C-14791, C-14792, C-14793, C-14794*
+*Related: C-10954, C-10955, C-10958, C-10995, C-11011, C-11013, C-11014, C-11017, C-11021, C-11029, C-11030, C-11048, C-11054, C-11055, C-11056, C-11057*
 
 ---
 
@@ -610,7 +610,7 @@ Charlie Kirk; the victim, discussed throughout.
 
 Erika Kirk; subject of O'Neill's remarks and the host's loyalty thesis.
 
-*Related: C-14717, C-14777, C-14791, C-14793, C-14794*
+*Related: C-10956, C-11040, C-11054, C-11056, C-11057*
 
 ---
 
@@ -618,7 +618,7 @@ Erika Kirk; subject of O'Neill's remarks and the host's loyalty thesis.
 
 Host; speaks for herself throughout.
 
-*Related: C-14712, C-14713, C-14714, C-14717, C-14721, C-14722, C-14723, C-14724, C-14725, C-14726, C-14730, C-14731, C-14732, C-14733, C-14734, C-14735, C-14736, C-14737, C-14738, C-14739, C-14740, C-14741, C-14742, C-14743, C-14744, C-14745, C-14746, C-14747, C-14748, C-14749, C-14750, C-14751, C-14752, C-14753, C-14754, C-14755, C-14759, C-14760, C-14761, C-14767, C-14768, C-14769, C-14770, C-14771, C-14772, C-14773, C-14774, C-14776, C-14777, C-14778, C-14779, C-14780, C-14781, C-14782, C-14783, C-14784, C-14785, C-14786, C-14787, C-14788, C-14789, C-14790, C-14791, C-14792, C-14793, C-14794, C-14795, C-14796*
+*Related: C-10950, C-10951, C-10952, C-10956, C-10962, C-10964, C-10965, C-10966, C-10967, C-10968, C-10973, C-10974, C-10975, C-10976, C-10977, C-10978, C-10979, C-10980, C-10982, C-10985, C-10988, C-10989, C-10994, C-10995, C-10999, C-11000, C-11002, C-11005, C-11006, C-11008, C-11009, C-11010, C-11011, C-11012, C-11013, C-11014, C-11019, C-11020, C-11021, C-11029, C-11030, C-11031, C-11032, C-11033, C-11034, C-11035, C-11036, C-11039, C-11040, C-11041, C-11042, C-11043, C-11044, C-11045, C-11046, C-11047, C-11048, C-11049, C-11050, C-11051, C-11052, C-11053, C-11054, C-11055, C-11056, C-11057, C-11058, C-11059*
 
 ---
 
@@ -626,7 +626,7 @@ Host; speaks for herself throughout.
 
 JD Vance; the host speculates his expected arrival shaped where staff stayed.
 
-*Related: C-14769*
+*Related: C-11031*
 
 ---
 
@@ -634,7 +634,7 @@ JD Vance; the host speculates his expected arrival shaped where staff stayed.
 
 Donald Trump; named in the host's opening remarks.
 
-*Related: C-14713*
+*Related: C-10951*
 
 ---
 
@@ -642,7 +642,7 @@ Donald Trump; named in the host's opening remarks.
 
 Frank Turek; his Shawn Ryan Show CPR account is the subject of the host's rebuttal.
 
-*Related: C-14756, C-14757, C-14758, C-14759, C-14761, C-14762*
+*Related: C-11016, C-11017, C-11018, C-11019, C-11021, C-11022*
 
 ---
 
@@ -650,7 +650,7 @@ Frank Turek; his Shawn Ryan Show CPR account is the subject of the host's rebutt
 
 Tyler Bowyer; named in a viewer comment and in the host's loyalty thesis.
 
-*Related: C-14788, C-14793*
+*Related: C-11051, C-11056*
 
 ---
 
@@ -658,7 +658,7 @@ Tyler Bowyer; named in a viewer comment and in the host's loyalty thesis.
 
 Andrew Kolvet; the host discusses his firing of a staffer and his reply to his brother's post.
 
-*Related: C-14714, C-14772, C-14773, C-14774, C-14775, C-14776, C-14777*
+*Related: C-10952, C-11034, C-11035, C-11036, C-11038, C-11039, C-11040*
 
 ---
 
@@ -666,7 +666,7 @@ Andrew Kolvet; the host discusses his firing of a staffer and his reply to his b
 
 Tucker Carlson; one of three people the host says confirmed Charlie opposed the Iran war.
 
-*Related: C-14792*
+*Related: C-11055*
 
 ---
 
@@ -674,7 +674,7 @@ Tucker Carlson; one of three people the host says confirmed Charlie opposed the 
 
 Benjamin Netanyahu; named in the host's opening remarks.
 
-*Related: C-14712*
+*Related: C-10950*
 
 ---
 
@@ -682,7 +682,7 @@ Benjamin Netanyahu; named in the host's opening remarks.
 
 Tyler Robinson; the accused.
 
-*Related: C-14717, C-14720, C-14721, C-14726, C-14783, C-14786, C-14789*
+*Related: C-10956, C-10960, C-10962, C-10968, C-11046, C-11049, C-11052*
 
 ---
 
@@ -690,7 +690,7 @@ Tyler Robinson; the accused.
 
 Spencer Cox; his September 12 clothing statement.
 
-*Related: C-14721, C-14722*
+*Related: C-10962, C-10964*
 
 ---
 
@@ -698,7 +698,7 @@ Spencer Cox; his September 12 clothing statement.
 
 Megyn Kelly; interviewed Dan Bongino on September 15.
 
-*Related: C-14727, C-14728*
+*Related: C-10969, C-10971*
 
 ---
 
@@ -706,7 +706,7 @@ Megyn Kelly; interviewed Dan Bongino on September 15.
 
 Kash Patel; stood beside Cox, named as having reported the screwdriver and as having replaced the Salt Lake City FBI head.
 
-*Related: C-14727, C-14744*
+*Related: C-10969, C-10999*
 
 ---
 
@@ -714,7 +714,7 @@ Kash Patel; stood beside Cox, named as having reported the screwdriver and as ha
 
 Benny Johnson; one of the influencers the host says later received sharp footage.
 
-*Related: C-14730*
+*Related: C-10973*
 
 ---
 
@@ -722,7 +722,7 @@ Benny Johnson; one of the influencers the host says later received sharp footage
 
 Ben Shapiro; subject of the lunch question.
 
-*Related: C-14779*
+*Related: C-11042*
 
 ---
 
@@ -730,7 +730,7 @@ Ben Shapiro; subject of the lunch question.
 
 Robert Bohls; FBI Salt Lake City head from September 2, 2025.
 
-*Related: C-14744, C-14745*
+*Related: C-10999, C-11000*
 
 ---
 
@@ -738,7 +738,7 @@ Robert Bohls; FBI Salt Lake City head from September 2, 2025.
 
 Robert O'Neill; former SEAL sniper interviewed on Newsmax.
 
-*Related: C-14715, C-14716, C-14717, C-14718, C-14719, C-14720, C-14724, C-14785*
+*Related: C-10954, C-10955, C-10956, C-10958, C-10959, C-10960, C-10966, C-11048*
 
 ---
 
@@ -746,7 +746,7 @@ Robert O'Neill; former SEAL sniper interviewed on Newsmax.
 
 Blake Neff; his hotel statements.
 
-*Related: C-14763, C-14764, C-14765, C-14766, C-14768*
+*Related: C-11023, C-11024, C-11027, C-11028, C-11030*
 
 ---
 
@@ -754,7 +754,7 @@ Blake Neff; his hotel statements.
 
 Howard Lutnick; named in the host's opening remarks.
 
-*Related: C-14713*
+*Related: C-10951*
 
 ---
 
@@ -762,7 +762,7 @@ Howard Lutnick; named in the host's opening remarks.
 
 Joe Kent; named as confirming Charlie's Iran war opposition.
 
-*Related: C-14792*
+*Related: C-11055*
 
 ---
 
@@ -770,7 +770,7 @@ Joe Kent; named as confirming Charlie's Iran war opposition.
 
 Shawn Ryan; host of the show on which Turek spoke.
 
-*Related: C-14762*
+*Related: C-11022*
 
 ---
 
@@ -778,7 +778,7 @@ Shawn Ryan; host of the show on which Turek spoke.
 
 Courtney Love; the host relays her Mormon mafia remarks.
 
-*Related: C-14752, C-14753*
+*Related: C-11011, C-11012*
 
 ---
 
@@ -786,7 +786,7 @@ Courtney Love; the host relays her Mormon mafia remarks.
 
 Brian Harpole; his no-CPR account.
 
-*Related: C-14756, C-14758, C-14759, C-14760*
+*Related: C-11016, C-11018, C-11019, C-11020*
 
 ---
 
@@ -794,7 +794,7 @@ Brian Harpole; his no-CPR account.
 
 Bret Weinstein; named as confirming Charlie's Iran war opposition.
 
-*Related: C-14792*
+*Related: C-11055*
 
 ---
 
@@ -802,7 +802,7 @@ Bret Weinstein; named as confirming Charlie's Iran war opposition.
 
 Graham Allen; one of the influencers the host says received sharp footage.
 
-*Related: C-14730*
+*Related: C-10973*
 
 ---
 
@@ -810,7 +810,7 @@ Graham Allen; one of the influencers the host says received sharp footage.
 
 Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the transcript says only Lieutenant Colonel Kolvet).
 
-*Related: C-14714, C-14774, C-14775*
+*Related: C-10952, C-11036, C-11038*
 
 ---
 
@@ -818,7 +818,7 @@ Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the tra
 
 Turning Point USA; its team's lodging and staff.
 
-*Related: C-14763, C-14768, C-14771, C-14772, C-14786*
+*Related: C-11023, C-11030, C-11033, C-11034, C-11049*
 
 ---
 
@@ -826,7 +826,7 @@ Turning Point USA; its team's lodging and staff.
 
 Robinson Outfit Change Discrepancy; clothing questions.
 
-*Related: C-14722, C-14731*
+*Related: C-10964, C-10974*
 
 ---
 
@@ -834,7 +834,7 @@ Robinson Outfit Change Discrepancy; clothing questions.
 
 Decoy Boy Operation Analysis; the host's decoy theory.
 
-*Related: C-14733*
+*Related: C-10976*
 
 ---
 
@@ -842,7 +842,7 @@ Decoy Boy Operation Analysis; the host's decoy theory.
 
 Existing topic reused for the claims below.
 
-*Related: C-14724, C-14725, C-14726, C-14727, C-14790*
+*Related: C-10966, C-10967, C-10968, C-10969, C-11053*
 
 ---
 
@@ -850,7 +850,7 @@ Existing topic reused for the claims below.
 
 LDS Church; context for the host's Mormon territory remark.
 
-*Related: C-14755*
+*Related: C-11014*
 
 ---
 
@@ -858,7 +858,7 @@ LDS Church; context for the host's Mormon territory remark.
 
 Existing topic reused for the claims below.
 
-*Related: C-14752, C-14753, C-14755, C-14788*
+*Related: C-11011, C-11012, C-11014, C-11051*
 
 ---
 
@@ -866,7 +866,7 @@ Existing topic reused for the claims below.
 
 Flock LPR FOIA Investigation; camera network context.
 
-*Related: C-14783*
+*Related: C-11046*
 
 ---
 
@@ -874,7 +874,7 @@ Flock LPR FOIA Investigation; camera network context.
 
 Existing topic reused for the claims below.
 
-*Related: C-14783*
+*Related: C-11046*
 
 ---
 
@@ -882,7 +882,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14787*
+*Related: C-11050*
 
 ---
 
@@ -890,7 +890,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14781*
+*Related: C-11044*
 
 ---
 
@@ -898,7 +898,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14787, C-14793*
+*Related: C-11050, C-11056*
 
 ---
 
@@ -906,7 +906,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14777*
+*Related: C-11040*
 
 ---
 
@@ -914,7 +914,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14791, C-14792*
+*Related: C-11054, C-11055*
 
 ---
 
@@ -922,7 +922,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14759*
+*Related: C-11019*
 
 ---
 
@@ -930,7 +930,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14762*
+*Related: C-11022*
 
 ---
 
@@ -938,7 +938,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14757, C-14761*
+*Related: C-11017, C-11021*
 
 ---
 
@@ -946,7 +946,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14756, C-14760*
+*Related: C-11016, C-11020*
 
 ---
 
@@ -954,7 +954,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14764*
+*Related: C-11024*
 
 ---
 
@@ -962,7 +962,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14735, C-14736, C-14737*
+*Related: C-10978, C-10979, C-10980*
 
 ---
 
@@ -970,7 +970,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14729, C-14730*
+*Related: C-10972, C-10973*
 
 ---
 
@@ -978,7 +978,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14779, C-14780*
+*Related: C-11042, C-11043*
 
 ---
 
@@ -986,7 +986,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14725*
+*Related: C-10967*
 
 ---
 
@@ -994,7 +994,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14726*
+*Related: C-10968*
 
 ---
 
@@ -1002,7 +1002,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14781*
+*Related: C-11044*
 
 ---
 
@@ -1010,7 +1010,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14792*
+*Related: C-11055*
 
 ---
 
@@ -1018,7 +1018,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14790*
+*Related: C-11053*
 
 ---
 
@@ -1026,7 +1026,7 @@ Existing topic reused for the claims below.
 
 Existing topic reused for the claims below.
 
-*Related: C-14742*
+*Related: C-10994*
 
 ---
 
@@ -1034,7 +1034,7 @@ Existing topic reused for the claims below.
 
 First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
-*Related: C-14712*
+*Related: C-10950*
 
 ---
 
@@ -1042,7 +1042,7 @@ First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
 Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.
 
-*Related: C-14718, C-14719, C-14720*
+*Related: C-10958, C-10959, C-10960*
 
 ---
 
@@ -1051,7 +1051,7 @@ Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by
 Node Type: Topic
 The host's account, from her own source, that the rooftop runner wore a black jacket, tactical gear and a backpack, with her theory that the object called a towel was a jacket and that the items were dropped near a bus stop by Fulton Library.
 
-*Related: C-14731, C-14732, C-14733, C-14734, C-14735, C-14784*
+*Related: C-10974, C-10975, C-10976, C-10977, C-10978, C-11047*
 
 ---
 
@@ -1060,7 +1060,7 @@ The host's account, from her own source, that the rooftop runner wore a black ja
 Node Type: Topic
 The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, which the host describes from news articles: an alleged gang initiation beating, manslaughter charges against three youths and conflicting accounts about his gang and church ties.
 
-*Related: C-14747, C-14748, C-14749, C-14750, C-14751*
+*Related: C-11005, C-11006, C-11008, C-11009, C-11010*
 
 ---
 
@@ -1069,7 +1069,7 @@ The 1995 Hawaii death of Misiona Faumuina, an uncle of Sgt. Jennifer Faumuina, w
 Node Type: Topic
 The Franklin credit union scandal in Omaha, Nebraska, which the host describes as a widely debated conspiracy theory over a $40 million fraud with claims of abuse by politicians and satanic ritual abuse.
 
-*Related: C-14782*
+*Related: C-11045*
 
 ---
 
@@ -1078,13 +1078,13 @@ The Franklin credit union scandal in Omaha, Nebraska, which the host describes a
 Node Type: Topic
 The host's question why Utah's statewide camera network has produced no clear footage of Tyler Robinson on the day, his route on the rooftop or the shot itself.
 
-*Related: C-14783*
+*Related: C-11046*
 
 ---
 
 ## V. Claim Register
 
-**C-3058** O'Neill's on-camera assessment that Charlie's shirt did not move as expected from a bullet impact
+**C-10953** O'Neill's on-camera assessment that Charlie's shirt did not move as expected from a bullet impact
 
 Claim Timestamp: 00:03:29
 
@@ -1099,7 +1099,7 @@ Investigative Direction: Obtain the full unedited Newsmax segment and any forens
 
 ---
 
-**C-3059** General Holt's rejection of the "spine impact" ballistics sub-narrative
+**C-10957** General Holt's rejection of the "spine impact" ballistics sub-narrative
 
 Claim Timestamp: 00:05:31
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Locate the official forensic pathology report and compa
 
 ---
 
-**C-3060** Governor Cox stated that the assassin changed clothes on the rooftop
+**C-10961** Governor Cox stated that the assassin changed clothes on the rooftop
 
 Claim Timestamp: 00:08:44
 
@@ -1129,7 +1129,7 @@ Investigative Direction: Request the official briefing transcript or unedited vi
 
 ---
 
-**C-3061** Host Says Kash Patel and Beau Mason Did Not Intervene During Governor Cox's Clothing Statement
+**C-10963** Host Says Kash Patel and Beau Mason Did Not Intervene During Governor Cox's Clothing Statement
 
 Claim Timestamp: 00:09:39
 
@@ -1144,7 +1144,7 @@ Investigative Direction: Inspect full uncut briefing video for any clarifying re
 
 ---
 
-**C-3062** Dan Bongino described the rooftop footage as "very grainy"
+**C-10970** Dan Bongino described the rooftop footage as "very grainy"
 
 Claim Timestamp: 00:12:43
 
@@ -1159,7 +1159,7 @@ Investigative Direction: Compare the publicly released footage metadata against 
 
 ---
 
-**C-3063** Host Says Sgt. Jennifer Faumuina Appeared on Netflix's Worst Roommate Ever Referencing JTTF Work
+**C-10981** Host Says Sgt. Jennifer Faumuina Appeared on Netflix's Worst Roommate Ever Referencing JTTF Work
 
 Claim Timestamp: 00:16:37
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Confirm the Netflix episode metadata, Faumuina's on-scr
 
 ---
 
-**C-3064** Host Says Jennifer Faumuina Played Basketball at a Hawaii Private School in 2003
+**C-10983** Host Says Jennifer Faumuina Played Basketball at a Hawaii Private School in 2003
 
 Claim Timestamp: 00:17:10
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Identify the specific school and roster, and cross-refe
 
 ---
 
-**C-3065** Host Says Jennifer Faumuina Graduated from Weber State University in 2008
+**C-10984** Host Says Jennifer Faumuina Graduated from Weber State University in 2008
 
 Claim Timestamp: 00:17:20
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Confirm against Weber State graduation records or alumn
 
 ---
 
-**C-3066** Jennifer Faumuina completed Utah DPS post-training on May 20, 2013
+**C-10991** Jennifer Faumuina completed Utah DPS post-training on May 20, 2013
 
 Claim Timestamp: 00:19:40
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Verify through DPS academy records and class photograph
 
 ---
 
-**C-3067** Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio
+**C-10986** Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio
 
 Claim Timestamp: 00:17:45
 
@@ -1234,7 +1234,7 @@ Investigative Direction: Confirm the original article, deployment list, and cred
 
 ---
 
-**C-3068** Host Says Jennifer Faumuina Appears in Utah DPS Paid Records Beginning in 2018
+**C-10987** Host Says Jennifer Faumuina Appears in Utah DPS Paid Records Beginning in 2018
 
 Claim Timestamp: 00:18:15
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Request Utah state salary records to verify employment 
 
 ---
 
-**C-3069** Faumuina and Beau Mason Photographed Together on May 20, 2013
+**C-10992** Faumuina and Beau Mason Photographed Together on May 20, 2013
 
 Claim Timestamp: 00:19:40
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Verify the photograph and underlying academy/class reco
 
 ---
 
-**C-3070** Host Says Faumuina and Beau Mason Were Photographed Together at Her 2023 Sergeant Swearing-In
+**C-10993** Host Says Faumuina and Beau Mason Were Photographed Together at Her 2023 Sergeant Swearing-In
 
 Claim Timestamp: 00:20:05
 
@@ -1279,7 +1279,7 @@ Investigative Direction: Confirm the date and ceremony through Utah DPS press re
 
 ---
 
-**C-3071** Host Says Beau Mason Was Appointed Utah DPS Commissioner on June 19, 2025
+**C-10990** Host Says Beau Mason Was Appointed Utah DPS Commissioner on June 19, 2025
 
 Claim Timestamp: 00:19:15
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Verify appointment through the official Utah governor's
 
 ---
 
-**C-3072** Host Says Andrew Zenger Was Appointed Timpanogos Hospital CEO on August 18, 2025
+**C-10996** Host Says Andrew Zenger Was Appointed Timpanogos Hospital CEO on August 18, 2025
 
 Claim Timestamp: 00:20:36
 
@@ -1309,7 +1309,7 @@ Investigative Direction: Confirm via hospital press releases and board minutes.
 
 ---
 
-**C-3073** Host Says Judge Tony Graf Was Appointed in May 2025
+**C-10997** Host Says Judge Tony Graf Was Appointed in May 2025
 
 Claim Timestamp: 00:21:14
 
@@ -1324,7 +1324,7 @@ Investigative Direction: Verify the appointment date, court, and appointing auth
 
 ---
 
-**C-3074** Host Says Robert Bohls Assumed Leadership of FBI Salt Lake City on September 2, 2025
+**C-10998** Host Says Robert Bohls Assumed Leadership of FBI Salt Lake City on September 2, 2025
 
 Claim Timestamp: 00:21:14
 
@@ -1339,7 +1339,7 @@ Investigative Direction: Confirm via FBI press releases and internal personnel a
 
 ---
 
-**C-3075** Robert Bohls began his career at the Provo Police Department in the early 2000s
+**C-11001** Robert Bohls began his career at the Provo Police Department in the early 2000s
 
 Claim Timestamp: 00:22:12
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Cross-reference Provo PD rosters and 2004 article conte
 
 ---
 
-**C-3076** Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating
+**C-11003** Misiona Faumuina died in 1995 in Hawaii from injuries sustained in a gang-related beating
 
 Claim Timestamp: 00:23:20
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Obtain original Honolulu-area news archives and Hawaii 
 
 ---
 
-**C-3077** Misiona Faumuina was characterized in 1995 press coverage as a devout Mormon
+**C-11004** Misiona Faumuina was characterized in 1995 press coverage as a devout Mormon
 
 Claim Timestamp: 00:24:14
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Retrieve original newspaper articles and any LDS Church
 
 ---
 
-**C-3078** Sid Rosen headed the "Adult Friends for Youth" organization
+**C-11007** Sid Rosen headed the "Adult Friends for Youth" organization
 
 Claim Timestamp: 00:25:35
 
@@ -1399,7 +1399,7 @@ Investigative Direction: Verify the organization and Rosen's role through Hawaii
 
 ---
 
-**C-3079** Frank Turek characterizes the CPR/Harpole divergence as emphasis rather than contradiction
+**C-11015** Frank Turek characterizes the CPR/Harpole divergence as emphasis rather than contradiction
 
 Claim Timestamp: 00:31:07
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Obtain the unedited podcast audio and any hospital reco
 
 ---
 
-**C-3080** Blake Neff revised his hotel-location statement from Orem to Salt Lake City
+**C-11025** Blake Neff revised his hotel-location statement from Orem to Salt Lake City
 
 Claim Timestamp: 00:36:15
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Compare both statements against travel itineraries, exp
 
 ---
 
-**C-3081** Blake Neff could not name the Salt Lake City hotel where the Turning Point team stayed
+**C-11026** Blake Neff could not name the Salt Lake City hotel where the Turning Point team stayed
 
 Claim Timestamp: 00:36:56
 
@@ -1444,7 +1444,7 @@ Investigative Direction: Cross-check with travel booking records, expense report
 
 ---
 
-**C-3082** Lt. Col. Kolvet Posts That He Never Worked at Fort Huachuca
+**C-11037** Lt. Col. Kolvet Posts That He Never Worked at Fort Huachuca
 
 Claim Timestamp: 00:41:03
 
@@ -1459,7 +1459,7 @@ Investigative Direction: Verify the post's text and timestamps; check Andrew Kol
 
 ---
 
-**C-14712** Host Says Netanyahu and Ben-Gvir Openly Rooted for Argentina Against Spain
+**C-10950** Host Says Netanyahu and Ben-Gvir Openly Rooted for Argentina Against Spain
 
 Claim Timestamp: 00:00:01
 
@@ -1475,7 +1475,7 @@ Investigative Direction: Locate the public statements or posts by Ben-Gvir and N
 
 ---
 
-**C-14713** Host Says Lutnick and Trump Got Involved With the US Team
+**C-10951** Host Says Lutnick and Trump Got Involved With the US Team
 
 Claim Timestamp: 00:00:50
 
@@ -1491,7 +1491,7 @@ Investigative Direction: Identify what involvement by Lutnick and Trump with the
 
 ---
 
-**C-14714** Host Says Kolvet's Big Brother, a Lieutenant Colonel, Defended Him on X This Weekend
+**C-10952** Host Says Kolvet's Big Brother, a Lieutenant Colonel, Defended Him on X This Weekend
 
 Claim Timestamp: 00:01:46
 
@@ -1502,13 +1502,13 @@ Transcript Snippet: Andrew Kolvet's big brother, Lieutenant Colonel in the milit
 Anchored Artifacts: A-2163.1
 Mentions: N-14, N-689, N-3
 Related Nodes: N-10739
-Supports: C-8152
+Supports: C-4752
 Tags: relevance:context
 Investigative Direction: Pull the brother's X post and its date, and confirm his rank and identity against Army records or earlier public statements.
 
 ---
 
-**C-14715** O'Neill Says Nobody Gave Kirk First Aid and Staff Were Pulling SIM Cards From Cameras
+**C-10954** O'Neill Says Nobody Gave Kirk First Aid and Staff Were Pulling SIM Cards From Cameras
 
 Claim Timestamp: 00:03:29
 
@@ -1524,7 +1524,7 @@ Investigative Direction: Compare with the UVU and bystander video of the first m
 
 ---
 
-**C-14716** O'Neill Says He Was Told the Scene Was Paved Over a Couple Days Later
+**C-10955** O'Neill Says He Was Told the Scene Was Paved Over a Couple Days Later
 
 Claim Timestamp: 00:03:29
 
@@ -1535,13 +1535,13 @@ Transcript Snippet: I've been told they paved it over a couple days later
 Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1
 Related Nodes: N-10734
-Supports: C-1386
+Supports: C-1465
 Tags: relevance:core
 Investigative Direction: Obtain UVU or contractor records of when the paving at the scene was done.
 
 ---
 
-**C-14717** O'Neill Says Erika's Quick Forgiveness of the Alleged Shooter Implies It Was Him
+**C-10956** O'Neill Says Erika's Quick Forgiveness of the Alleged Shooter Implies It Was Him
 
 Claim Timestamp: 00:03:29
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Review Erika Kirk's memorial remarks about forgiving th
 
 ---
 
-**C-14718** General Holt Says Something Exploded on Kirk
+**C-10958** General Holt Says Something Exploded on Kirk
 
 Claim Timestamp: 00:05:31
 
@@ -1573,7 +1573,7 @@ Investigative Direction: Ask Holt what he saw that supports an explosion and com
 
 ---
 
-**C-14719** Holt Says the Justice Department Solved the Case in About Eight Hot Seconds
+**C-10959** Holt Says the Justice Department Solved the Case in About Eight Hot Seconds
 
 Claim Timestamp: 00:06:17
 
@@ -1589,7 +1589,7 @@ Investigative Direction: Pin down the time between the shooting and the first DO
 
 ---
 
-**C-14720** Holt Says a Kid Who Never Killed Would Not Be Sent Onto a Roof With a .30-06
+**C-10960** Holt Says a Kid Who Never Killed Would Not Be Sent Onto a Roof With a .30-06
 
 Claim Timestamp: 00:06:17
 
@@ -1605,7 +1605,7 @@ Investigative Direction: Review Robinson's firearms and hunting history in the c
 
 ---
 
-**C-14721** Host Says Cox Described the Clothing Change After Robinson Was Arrested and His Texts Seized
+**C-10962** Host Says Cox Described the Clothing Change After Robinson Was Arrested and His Texts Seized
 
 Claim Timestamp: 00:08:44
 
@@ -1621,7 +1621,7 @@ Investigative Direction: Compare the dates of Robinson's arrest and the text mes
 
 ---
 
-**C-14722** Host Says the Change Cox Described Was From a Maroon Shirt to a Long-Sleeve Shirt With an American Flag
+**C-10964** Host Says the Change Cox Described Was From a Maroon Shirt to a Long-Sleeve Shirt With an American Flag
 
 Claim Timestamp: 00:09:39
 
@@ -1637,7 +1637,7 @@ Investigative Direction: Check the charging documents and photos for the two gar
 
 ---
 
-**C-14723** Host Says She Previously Got a Time Zone Wrong by Using a Website That Gave UTC
+**C-10965** Host Says She Previously Got a Time Zone Wrong by Using a Website That Gave UTC
 
 Claim Timestamp: 00:09:39
 
@@ -1648,13 +1648,13 @@ Transcript Snippet: Let me get a time zone calculation incorrect, right? After d
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes:
-Supports: C-12353
+Supports: C-2895
 Tags: relevance:context
 Investigative Direction: Locate the host's original post and the later correction to see which time was affected.
 
 ---
 
-**C-14724** Host Says O'Neill Said the Screwdriver Could Not Take the Gun Apart
+**C-10966** Host Says O'Neill Said the Screwdriver Could Not Take the Gun Apart
 
 Claim Timestamp: 00:10:43
 
@@ -1665,13 +1665,13 @@ Transcript Snippet: He he says, "This isn't even the right screwdriver to take a
 Anchored Artifacts: A-3338.1
 Mentions: N-153, N-3
 Related Nodes: N-10090
-Supports: C-1243
+Supports: C-644
 Tags: relevance:core
 Investigative Direction: Obtain the full Newsmax interview and compare with the evidence photo of the screwdriver and the rifle's fasteners.
 
 ---
 
-**C-14725** Host Says the Rooftop Man Neither Assembled nor Disassembled His Rifle on Losee
+**C-10967** Host Says the Rooftop Man Neither Assembled nor Disassembled His Rifle on Losee
 
 Claim Timestamp: 00:11:17
 
@@ -1687,7 +1687,7 @@ Investigative Direction: Review the investigative record on where and when the r
 
 ---
 
-**C-14726** Host Speculates the Screwdriver Was Planted Because It Carried Robinson's DNA
+**C-10968** Host Speculates the Screwdriver Was Planted Because It Carried Robinson's DNA
 
 Claim Timestamp: 00:11:17
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Obtain the FBI DNA report on the screwdriver and its ch
 
 ---
 
-**C-14727** Megyn Kelly Says Patel Said a Screwdriver With DNA Was Found on the Roof, Then the Rifle Was Found Assembled
+**C-10969** Megyn Kelly Says Patel Said a Screwdriver With DNA Was Found on the Roof, Then the Rifle Was Found Assembled
 
 Claim Timestamp: 00:11:48
 
@@ -1714,13 +1714,13 @@ Transcript Snippet: Cash said that they found his what we presume was his screwd
 Anchored Artifacts: A-2155.1
 Mentions: N-46, N-69
 Related Nodes: N-10736, N-10090
-Supports: C-1140
+Supports: C-125
 Tags: relevance:core
 Investigative Direction: Locate Patel's original statement about the screwdriver and DNA and the date it was made.
 
 ---
 
-**C-14728** Bongino Says He Was Hesitant to Go Into Specifics on the Video and Where the Gun Was
+**C-10971** Bongino Says He Was Hesitant to Go Into Specifics on the Video and Where the Gun Was
 
 Claim Timestamp: 00:12:43
 
@@ -1736,7 +1736,7 @@ Investigative Direction: Review Bongino's other September 15 appearance for what
 
 ---
 
-**C-14729** Bongino Says He Has Been on That Roof and the Distant Camera Is Clearly Not the Best Video
+**C-10972** Bongino Says He Has Been on That Roof and the Distant Camera Is Clearly Not the Best Video
 
 Claim Timestamp: 00:12:43
 
@@ -1752,7 +1752,7 @@ Investigative Direction: Establish when Bongino visited the roof and which camer
 
 ---
 
-**C-14730** Host Says Sharp Footage Reached Benny Johnson and Graham Allen 10 Months Later
+**C-10973** Host Says Sharp Footage Reached Benny Johnson and Graham Allen 10 Months Later
 
 Claim Timestamp: 00:13:41
 
@@ -1768,7 +1768,7 @@ Investigative Direction: Identify when and by whom the footage was shown to the 
 
 ---
 
-**C-14731** Host's Source Says the Rooftop Man Wore a Black Jacket and Tactical Gear
+**C-10974** Host's Source Says the Rooftop Man Wore a Black Jacket and Tactical Gear
 
 Claim Timestamp: 00:14:25
 
@@ -1784,7 +1784,7 @@ Investigative Direction: Obtain the source's original recording and statement an
 
 ---
 
-**C-14732** Host Says the Object Called a Towel in the Footage Was Likely a Black Jacket
+**C-10975** Host Says the Object Called a Towel in the Footage Was Likely a Black Jacket
 
 Claim Timestamp: 00:14:25
 
@@ -1800,7 +1800,7 @@ Investigative Direction: Enhance the released rooftop frames and compare with th
 
 ---
 
-**C-14733** Host Theorizes the Rooftop Runner Was a Decoy Who Fired No Shot
+**C-10976** Host Theorizes the Rooftop Runner Was a Decoy Who Fired No Shot
 
 Claim Timestamp: 00:14:25
 
@@ -1811,13 +1811,13 @@ Transcript Snippet: I think it's much more likely that rooftop man was just a de
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11402, N-10032
-Supports: C-12114
+Supports: C-1470
 Tags: relevance:core
 Investigative Direction: Compare the runner's timeline against the shot time and the recovery location of the rifle. (Theory of the host, not a finding.)
 
 ---
 
-**C-14734** Host Says She Is Told the Source Described a Backpack and Was Never Contacted
+**C-10977** Host Says She Is Told the Source Described a Backpack and Was Never Contacted
 
 Claim Timestamp: 00:15:24
 
@@ -1833,7 +1833,7 @@ Investigative Direction: Ask the FBI and Utah investigators for contact logs of 
 
 ---
 
-**C-14735** Host Theorizes the Runner Dumped Gloves, Jacket and Backpack Near a Bus Stop by Fulton Library
+**C-10978** Host Theorizes the Runner Dumped Gloves, Jacket and Backpack Near a Bus Stop by Fulton Library
 
 Claim Timestamp: 00:15:24
 
@@ -1849,7 +1849,7 @@ Investigative Direction: Map the location of the recovered items against the bus
 
 ---
 
-**C-14736** Host Says Faumuina's Office Recovered the Abandoned Items
+**C-10979** Host Says Faumuina's Office Recovered the Abandoned Items
 
 Claim Timestamp: 00:15:42
 
@@ -1865,7 +1865,7 @@ Investigative Direction: Obtain the evidence log showing who recovered the backp
 
 ---
 
-**C-14737** Host Says Faumuina Answered I Don't Recall on Signing Off on the FBI Not Testing the Backpack and Gloves
+**C-10980** Host Says Faumuina Answered I Don't Recall on Signing Off on the FBI Not Testing the Backpack and Gloves
 
 Claim Timestamp: 00:15:42
 
@@ -1881,7 +1881,7 @@ Investigative Direction: Pull Faumuina's testimony or interview where she said s
 
 ---
 
-**C-14738** Host Says Faumuina Was Raised in Hawaii, Studied at Weber State and Weber Was Founded by the Mormon Church
+**C-10982** Host Says Faumuina Was Raised in Hawaii, Studied at Weber State and Weber Was Founded by the Mormon Church
 
 Claim Timestamp: 00:16:37
 
@@ -1897,7 +1897,7 @@ Investigative Direction: Check Weber State alumni and institutional history for 
 
 ---
 
-**C-14739** Host Says the RNC Article Is the Only Record Found Confirming Faumuina Was a State Trooper
+**C-10985** Host Says the RNC Article Is the Only Record Found Confirming Faumuina Was a State Trooper
 
 Claim Timestamp: 00:17:38
 
@@ -1913,7 +1913,7 @@ Investigative Direction: Request Utah DPS employment history and certification r
 
 ---
 
-**C-14740** Host Says No Article Mentions Faumuina Before 2018 and She Appears to Have Held a Part-Time Weber State Job
+**C-10988** Host Says No Article Mentions Faumuina Before 2018 and She Appears to Have Held a Part-Time Weber State Job
 
 Claim Timestamp: 00:18:29
 
@@ -1929,7 +1929,7 @@ Investigative Direction: Request Weber State employment records and Utah POST ce
 
 ---
 
-**C-14741** Host Says Faumuina Is Paid Very Well From 2018
+**C-10989** Host Says Faumuina Is Paid Very Well From 2018
 
 Claim Timestamp: 00:18:29
 
@@ -1945,7 +1945,7 @@ Investigative Direction: Check the Utah state salary database for Faumuina's pay
 
 ---
 
-**C-14742** Host Says Utah's Medical Examiner Is Newer, Appointed July 2024
+**C-10994** Host Says Utah's Medical Examiner Is Newer, Appointed July 2024
 
 Claim Timestamp: 00:20:19
 
@@ -1961,7 +1961,7 @@ Investigative Direction: Confirm the appointment date and appointee through the 
 
 ---
 
-**C-14743** Host Says Many New Faces and Appointments Came to Utah Before the Assassination
+**C-10995** Host Says Many New Faces and Appointments Came to Utah Before the Assassination
 
 Claim Timestamp: 00:20:19
 
@@ -1977,7 +1977,7 @@ Investigative Direction: Build a table of Utah and federal appointments from 202
 
 ---
 
-**C-14744** Host Says Patel Fired the Salt Lake City FBI Head and Installed Bohls From Virginia
+**C-10999** Host Says Patel Fired the Salt Lake City FBI Head and Installed Bohls From Virginia
 
 Claim Timestamp: 00:21:14
 
@@ -1988,13 +1988,13 @@ Transcript Snippet: Kash Patel fires the person that was heading up the FBI Salt
 Anchored Artifacts: A-2158.5
 Mentions: N-133, N-69, N-3
 Related Nodes: N-10733
-Supports: C-1329
+Supports: C-1121
 Tags: relevance:core
 Investigative Direction: Confirm the prior Salt Lake City special agent in charge, the date he left and Bowles's previous posting.
 
 ---
 
-**C-14745** Host Says Bohls Had Almost 20 Years in the FBI Across the United States
+**C-11000** Host Says Bohls Had Almost 20 Years in the FBI Across the United States
 
 Claim Timestamp: 00:21:14
 
@@ -2010,7 +2010,7 @@ Investigative Direction: Check FBI biographies and press releases for Bowles's c
 
 ---
 
-**C-14746** Host Says Faumuina Said on a Podcast That Her Sister Is a Utah Social Worker
+**C-11002** Host Says Faumuina Said on a Podcast That Her Sister Is a Utah Social Worker
 
 Claim Timestamp: 00:22:12
 
@@ -2026,7 +2026,7 @@ Investigative Direction: Identify the podcast and the date of the appearance.
 
 ---
 
-**C-14747** Host Says Three Youths Were Charged With Second-Degree Manslaughter in the 1995 Case
+**C-11005** Host Says Three Youths Were Charged With Second-Degree Manslaughter in the 1995 Case
 
 Claim Timestamp: 00:24:14
 
@@ -2042,7 +2042,7 @@ Investigative Direction: Obtain Hawaii court records for the 1995 case and the c
 
 ---
 
-**C-14748** Host Says Misiona Faumuina Was Part of Adult Friends for Youth, Run by Sid Rosen
+**C-11006** Host Says Misiona Faumuina Was Part of Adult Friends for Youth, Run by Sid Rosen
 
 Claim Timestamp: 00:24:14
 
@@ -2058,7 +2058,7 @@ Investigative Direction: Retrieve the article and any Hawaii nonprofit filings f
 
 ---
 
-**C-14749** Host Says Sid Rosen Is Connected to Egypt and Israel but Declines to Elaborate
+**C-11008** Host Says Sid Rosen Is Connected to Egypt and Israel but Declines to Elaborate
 
 Claim Timestamp: 00:25:35
 
@@ -2074,7 +2074,7 @@ Investigative Direction: Ask the host for the basis of the Egypt and Israel conn
 
 ---
 
-**C-14750** Host Says Faumuina's Father Later Claimed the Gang Was Upset About His Brother's Mormon Mission
+**C-11009** Host Says Faumuina's Father Later Claimed the Gang Was Upset About His Brother's Mormon Mission
 
 Claim Timestamp: 00:25:35
 
@@ -2090,7 +2090,7 @@ Investigative Direction: Locate the later articles and the father's quoted words
 
 ---
 
-**C-14751** Host Says Ward Members Denied Misiona Faumuina Was in a Gang While His Older Brother Did Not
+**C-11010** Host Says Ward Members Denied Misiona Faumuina Was in a Gang While His Older Brother Did Not
 
 Claim Timestamp: 00:25:35
 
@@ -2106,7 +2106,7 @@ Investigative Direction: Retrieve the 1995 and later articles with the ward memb
 
 ---
 
-**C-14752** Host Says Courtney Love Called the Mormon Mafia an Extension of the Zionist Mafia
+**C-11011** Host Says Courtney Love Called the Mormon Mafia an Extension of the Zionist Mafia
 
 Claim Timestamp: 00:26:25
 
@@ -2117,13 +2117,13 @@ Transcript Snippet: She kept saying it is an extension of the Zionist mafia, the
 Anchored Artifacts: A-3341.1
 Mentions: N-253, N-1, N-3
 Related Nodes: N-10249
-Supports: C-1705
+Supports: C-2852
 Tags: relevance:tangential
 Investigative Direction: Review the host's messages with Courtney Love for the date and the exact words about the Mormon mafia.
 
 ---
 
-**C-14753** Host Says Rereading Love's Messages She Thinks Love Knew What She Was Talking About
+**C-11012** Host Says Rereading Love's Messages She Thinks Love Knew What She Was Talking About
 
 Claim Timestamp: 00:26:25
 
@@ -2139,7 +2139,7 @@ Investigative Direction: Ask the host to release the Love messages or describe w
 
 ---
 
-**C-14754** Host Says She Has Not Abandoned Her Sense That Israel Was Involved in the Assassination
+**C-11013** Host Says She Has Not Abandoned Her Sense That Israel Was Involved in the Assassination
 
 Claim Timestamp: 00:26:25
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Ask the host for the specific evidence tying Israel to 
 
 ---
 
-**C-14755** Host Says the Assassination Took Place in Mormon Territory and Promises Connections Tomorrow
+**C-11014** Host Says the Assassination Took Place in Mormon Territory and Promises Connections Tomorrow
 
 Claim Timestamp: 00:27:21
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Watch the next episode for the promised connections and
 
 ---
 
-**C-14756** Turek Says No CPR Was Done for Most of the Ride and Harpole Is Correct
+**C-11016** Turek Says No CPR Was Done for Most of the Ride and Harpole Is Correct
 
 Claim Timestamp: 00:31:07
 
@@ -2182,13 +2182,13 @@ Transcript Snippet: Brian is correct that most of the ride we weren't doing any 
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-266
 Related Nodes: N-10737, N-10699
-Supports: C-4709
+Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Obtain the unedited Shawn Ryan audio and compare with Harpole's sworn statements.
 
 ---
 
-**C-14757** Turek Says He Tried CPR for 20 to 30 Seconds Near the End After Eight or Nine Minutes
+**C-11017** Turek Says He Tried CPR for 20 to 30 Seconds Near the End After Eight or Nine Minutes
 
 Claim Timestamp: 00:31:07
 
@@ -2199,13 +2199,13 @@ Transcript Snippet: We got to be nearing like 8 or 9 minutes, and he's not breat
 Anchored Artifacts: A-2161.1
 Mentions: N-7, N-1
 Related Nodes: N-10687, N-10737
-Supports: C-4708
+Supports: C-10093
 Tags: relevance:core
 Investigative Direction: Compare with the ambulance and hospital arrival times and the length of the ride in dispatch logs.
 
 ---
 
-**C-14758** Turek Suggests Harpole Was Preoccupied as They Pulled Into the Parking Lot
+**C-11018** Turek Suggests Harpole Was Preoccupied as They Pulled Into the Parking Lot
 
 Claim Timestamp: 00:32:13
 
@@ -2221,7 +2221,7 @@ Investigative Direction: Compare Harpole's account of the last minute of the rid
 
 ---
 
-**C-14759** Turek Says Harpole Has a Lawsuit Against the Host and Probably Cannot Talk About It
+**C-11019** Turek Says Harpole Has a Lawsuit Against the Host and Probably Cannot Talk About It
 
 Claim Timestamp: 00:32:13
 
@@ -2237,7 +2237,7 @@ Investigative Direction: Check the Harpole docket and any protective orders that
 
 ---
 
-**C-14760** Host Says Harpole Told Them He Was Focused on Working the Whole Time
+**C-11020** Host Says Harpole Told Them He Was Focused on Working the Whole Time
 
 Claim Timestamp: 00:34:10
 
@@ -2248,13 +2248,13 @@ Transcript Snippet: He told us he just got to work the whole time. That was his 
 Anchored Artifacts: 
 Mentions: N-266, N-3
 Related Nodes: N-10699
-Supports: C-2968
+Supports: C-10327
 Tags: relevance:core
 Investigative Direction: Compare Harpole's interview and deposition statements about what he was doing in the car.
 
 ---
 
-**C-14761** Host Says the Account Was That the Door Stayed Open Because Kirk's Legs Were Too Long
+**C-11021** Host Says the Account Was That the Door Stayed Open Because Kirk's Legs Were Too Long
 
 Claim Timestamp: 00:34:10
 
@@ -2265,13 +2265,13 @@ Transcript Snippet: because we were told the door was open because Charlie's leg
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10687
-Supports: C-13071
+Supports: C-10332
 Tags: relevance:core
 Investigative Direction: Identify who first said the door was open because of Kirk's legs and compare with the layout of the vehicle seats.
 
 ---
 
-**C-14762** Host Says Harpole Spoke for Three Hours on the Shawn Ryan Show
+**C-11022** Host Says Harpole Spoke for Three Hours on the Shawn Ryan Show
 
 Claim Timestamp: 00:35:18
 
@@ -2287,7 +2287,7 @@ Investigative Direction: Check the Shawn Ryan Show episode length and date.
 
 ---
 
-**C-14763** Host Says the Entire Turning Point Team Stayed in Salt Lake City
+**C-11023** Host Says the Entire Turning Point Team Stayed in Salt Lake City
 
 Claim Timestamp: 00:36:05
 
@@ -2303,7 +2303,7 @@ Investigative Direction: Obtain the TPUSA group booking, folio or expense record
 
 ---
 
-**C-14764** Interviewer Recalls Neff Said He Stayed at a Hotel in Orem and Left Once for Food
+**C-11024** Interviewer Recalls Neff Said He Stayed at a Hotel in Orem and Left Once for Food
 
 Claim Timestamp: 00:36:05
 
@@ -2319,7 +2319,7 @@ Investigative Direction: Obtain the first interview recording or notes and compa
 
 ---
 
-**C-14765** Neff Says He Took the Orem Question to Mean Utah Versus Returning to Phoenix
+**C-11027** Neff Says He Took the Orem Question to Mean Utah Versus Returning to Phoenix
 
 Claim Timestamp: 00:36:56
 
@@ -2335,7 +2335,7 @@ Investigative Direction: Compare with Neff's flight and return travel records fo
 
 ---
 
-**C-14766** Neff Says Everyone Stayed in Basically the Same Hotel, in Salt Lake He Thinks
+**C-11028** Neff Says Everyone Stayed in Basically the Same Hotel, in Salt Lake He Thinks
 
 Claim Timestamp: 00:36:56
 
@@ -2351,7 +2351,7 @@ Investigative Direction: Get TPUSA's lodging list for the trip and the hotel's g
 
 ---
 
-**C-14767** Host Says the Salt Lake Stay Is Confirmed by Where the Team Bought Clothes, About 50 Miles Out
+**C-11029** Host Says the Salt Lake Stay Is Confirmed by Where the Team Bought Clothes, About 50 Miles Out
 
 Claim Timestamp: 00:36:56
 
@@ -2367,7 +2367,7 @@ Investigative Direction: Identify the clothing purchases (stores, times, cardhol
 
 ---
 
-**C-14768** Host Says Neff Flew With Charlie but Did Not Go to the Event and Other Staff Also Flew Into Salt Lake
+**C-11030** Host Says Neff Flew With Charlie but Did Not Go to the Event and Other Staff Also Flew Into Salt Lake
 
 Claim Timestamp: 00:38:14
 
@@ -2383,7 +2383,7 @@ Investigative Direction: Obtain the flight manifest and TPUSA's travel list for 
 
 ---
 
-**C-14769** Host Floats That Salt Lake Was the Hub Because the Vice President Was Expected to Fly In
+**C-11031** Host Floats That Salt Lake Was the Hub Because the Vice President Was Expected to Fly In
 
 Claim Timestamp: 00:38:14
 
@@ -2399,7 +2399,7 @@ Investigative Direction: Check the Vice President's September 10 and 11 schedule
 
 ---
 
-**C-14770** Host Asks Hotel Workers Who Saw the Turning Point Group to Email moretips@candaceowens.com
+**C-11032** Host Asks Hotel Workers Who Saw the Turning Point Group to Email moretips@candaceowens.com
 
 Claim Timestamp: 00:38:14
 
@@ -2415,7 +2415,7 @@ Investigative Direction: Record the tip volume and whether a hotel is later iden
 
 ---
 
-**C-14771** Host Says the Feds' Hotel Is Known but Turning Point's Is Not and TPUSA Staff Do Not Know
+**C-11033** Host Says the Feds' Hotel Is Known but Turning Point's Is Not and TPUSA Staff Do Not Know
 
 Claim Timestamp: 00:39:09
 
@@ -2431,7 +2431,7 @@ Investigative Direction: Obtain the FBI hotel booking records and TPUSA group lo
 
 ---
 
-**C-14772** Host Says Kolvet Fired the Person Under Him, Letting Her Confirm More of His Lies
+**C-11034** Host Says Kolvet Fired the Person Under Him, Letting Her Confirm More of His Lies
 
 Claim Timestamp: 00:39:40
 
@@ -2447,7 +2447,7 @@ Investigative Direction: Identify the staffer, the date of the firing and the st
 
 ---
 
-**C-14773** Host Says Kolvet Claims His Show Is Doing Great While Hers Is Crashing
+**C-11035** Host Says Kolvet Claims His Show Is Doing Great While Hers Is Crashing
 
 Claim Timestamp: 00:39:40
 
@@ -2463,7 +2463,7 @@ Investigative Direction: Compare public viewership figures for both shows over t
 
 ---
 
-**C-14774** Host Says No One Has Accused Andrew Kolvet or His Brother of Being at Fort Huachuca
+**C-11036** Host Says No One Has Accused Andrew Kolvet or His Brother of Being at Fort Huachuca
 
 Claim Timestamp: 00:40:21
 
@@ -2479,7 +2479,7 @@ Investigative Direction: Find the account the Lt. Col. was replying to and what 
 
 ---
 
-**C-14775** Lt. Col. Kolvet Says Two of His Three Days at Huachuca Were Travel Days for MP Training
+**C-11038** Lt. Col. Kolvet Says Two of His Three Days at Huachuca Were Travel Days for MP Training
 
 Claim Timestamp: 00:41:03
 
@@ -2495,7 +2495,7 @@ Investigative Direction: Verify the unit, dates and orders for the trip through 
 
 ---
 
-**C-14776** Host Says Andrew Kolvet Replied That He Cannot Even Say Huachuca
+**C-11039** Host Says Andrew Kolvet Replied That He Cannot Even Say Huachuca
 
 Claim Timestamp: 00:41:03
 
@@ -2511,7 +2511,7 @@ Investigative Direction: Pull Andrew Kolvet's reply on X with its date.
 
 ---
 
-**C-14777** Host Says She Believes Andrew Kolvet Has Heard of Fort Huachuca Given Where He Lives and Erika's Family
+**C-11040** Host Says She Believes Andrew Kolvet Has Heard of Fort Huachuca Given Where He Lives and Erika's Family
 
 Claim Timestamp: 00:41:49
 
@@ -2527,7 +2527,7 @@ Investigative Direction: Check Kolvet's residence history and earlier public men
 
 ---
 
-**C-14778** Host Says Fort Huachuca Is a Massive Intel Base Directing the Border Joint Task Force
+**C-11041** Host Says Fort Huachuca Is a Massive Intel Base Directing the Border Joint Task Force
 
 Claim Timestamp: 00:41:49
 
@@ -2543,7 +2543,7 @@ Investigative Direction: Check the Army's description of Fort Huachuca's tenants
 
 ---
 
-**C-14779** Host Says Her Team Found Who Told People He Was at Lunch With Ben Shapiro
+**C-11042** Host Says Her Team Found Who Told People He Was at Lunch With Ben Shapiro
 
 Claim Timestamp: 00:45:25
 
@@ -2559,7 +2559,7 @@ Investigative Direction: Wait for the promised identification this week and chec
 
 ---
 
-**C-14780** Host Says the Person Is Willing to Go on Record and She Will Name Him This Week
+**C-11043** Host Says the Person Is Willing to Go on Record and She Will Name Him This Week
 
 Claim Timestamp: 00:46:11
 
@@ -2575,7 +2575,7 @@ Investigative Direction: Check the following episodes of this week for the promi
 
 ---
 
-**C-14781** Host Says Omaha Was One of the Egyptian Plane Stops
+**C-11044** Host Says Omaha Was One of the Egyptian Plane Stops
 
 Claim Timestamp: 00:46:11
 
@@ -2591,7 +2591,7 @@ Investigative Direction: Review the Egyptian aircraft flight logs for Omaha stop
 
 ---
 
-**C-14782** Host Describes the Franklin Scandal as a $40 Million Fraud With Abuse and Satanic Ritual Abuse Claims
+**C-11045** Host Describes the Franklin Scandal as a $40 Million Fraud With Abuse and Satanic Ritual Abuse Claims
 
 Claim Timestamp: 00:46:11
 
@@ -2607,7 +2607,7 @@ Investigative Direction: Consult court records and the Nebraska legislative repo
 
 ---
 
-**C-14783** Host Says Utah Has Cameras Statewide Yet No Clear Shot of Tyler Robinson
+**C-11046** Host Says Utah Has Cameras Statewide Yet No Clear Shot of Tyler Robinson
 
 Claim Timestamp: 00:48:01
 
@@ -2623,7 +2623,7 @@ Investigative Direction: Request the camera inventory and retained footage for U
 
 ---
 
-**C-14784** Host Says There Is No Video of the Shot Being Taken and She Believes the Rooftop Man Never Took It
+**C-11047** Host Says There Is No Video of the Shot Being Taken and She Believes the Rooftop Man Never Took It
 
 Claim Timestamp: 00:48:01
 
@@ -2634,13 +2634,13 @@ Transcript Snippet: we can't even get a video of him taking the shot. And that's
 Anchored Artifacts: A-3344.1
 Mentions: N-3
 Related Nodes: N-11402
-Supports: C-12114
+Supports: C-1470
 Tags: relevance:core
 Investigative Direction: Check whether any recorded video or audio places the rooftop man at the moment of the shot. (Belief of the host, not a finding.)
 
 ---
 
-**C-14785** Host Says She Agrees With O'Neill That It Looks Like an Explosion Under the Shirt
+**C-11048** Host Says She Agrees With O'Neill That It Looks Like an Explosion Under the Shirt
 
 Claim Timestamp: 00:48:43
 
@@ -2651,13 +2651,13 @@ Transcript Snippet: And I agree with Robert O'Neill, it looks like an explosion 
 Anchored Artifacts: A-2153.1
 Mentions: N-153, N-1, N-3
 Related Nodes: N-10734
-Supports: C-3058
+Supports: C-10953
 Tags: relevance:core
 Investigative Direction: Commission an independent forensic analysis of the shirt motion in the published footage.
 
 ---
 
-**C-14786** Host Says She Has a Deep Sense of Which TPUSA Person Will Claim to Have Seen Robinson
+**C-11049** Host Says She Has a Deep Sense of Which TPUSA Person Will Claim to Have Seen Robinson
 
 Claim Timestamp: 00:49:37
 
@@ -2673,7 +2673,7 @@ Investigative Direction: Monitor trial filings and witness lists for any TPUSA e
 
 ---
 
-**C-14787** Viewer Comment Says the Farnsworths Took Down the Cameras and Go Way Back
+**C-11050** Viewer Comment Says the Farnsworths Took Down the Cameras and Go Way Back
 
 Claim Timestamp: 00:49:37
 
@@ -2689,7 +2689,7 @@ Investigative Direction: Obtain records of who removed the cameras at the site a
 
 ---
 
-**C-14788** Viewer Comment Says the Web Around the Tyler Bowyer Family Is Mormon and Host Calls It Generational
+**C-11051** Viewer Comment Says the Web Around the Tyler Bowyer Family Is Mormon and Host Calls It Generational
 
 Claim Timestamp: 00:49:37
 
@@ -2705,7 +2705,7 @@ Investigative Direction: Check public records on the Bowyer family's religious a
 
 ---
 
-**C-14789** Host Says She Would Testify for the Prosecution or the Defense
+**C-11052** Host Says She Would Testify for the Prosecution or the Defense
 
 Claim Timestamp: 00:50:21
 
@@ -2721,7 +2721,7 @@ Investigative Direction: Watch the witness lists in the Robinson case for any su
 
 ---
 
-**C-14790** Viewer Comment Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired
+**C-11053** Viewer Comment Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired
 
 Claim Timestamp: 00:51:15
 
@@ -2732,13 +2732,13 @@ Transcript Snippet: The screwdriver that apparently can't even unscrew the weapo
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10090, N-11143
-Supports: C-1243
+Supports: C-644
 Tags: relevance:core
 Investigative Direction: Test the recovered screwdriver against the rifle's fasteners.
 
 ---
 
-**C-14791** Viewer Comment Says Erika Said We Do Not Know How Charlie Would Feel About the Iran War
+**C-11054** Viewer Comment Says Erika Said We Do Not Know How Charlie Would Feel About the Iran War
 
 Claim Timestamp: 00:51:15
 
@@ -2754,7 +2754,7 @@ Investigative Direction: Locate the clip, its date and the exact words Erika Kir
 
 ---
 
-**C-14792** Host Says Tucker, Weinstein and Kent Confirmed Charlie Fought Hard Behind the Scenes Against the Iran War
+**C-11055** Host Says Tucker, Weinstein and Kent Confirmed Charlie Fought Hard Behind the Scenes Against the Iran War
 
 Claim Timestamp: 00:51:15
 
@@ -2765,13 +2765,13 @@ Transcript Snippet: Tucker, Bret Weinstein, Joe Kent have all confirmed that he 
 Anchored Artifacts: 
 Mentions: N-22, N-591, N-209, N-1, N-3
 Related Nodes: N-10539, N-11128
-Supports: C-2526
+Supports: C-7248
 Tags: relevance:core
 Investigative Direction: Collect the specific statements by Carlson, Weinstein and Kent and their dates.
 
 ---
 
-**C-14793** Host Says Erika Was Loyal to Bowyer, the Farnsworths and Her Mother While Married to Charlie
+**C-11056** Host Says Erika Was Loyal to Bowyer, the Farnsworths and Her Mother While Married to Charlie
 
 Claim Timestamp: 00:52:08
 
@@ -2787,7 +2787,7 @@ Investigative Direction: Trace Erika Kirk's relationships and roles with Bowyer 
 
 ---
 
-**C-14794** Host Says Erika Brought In People Charlie Hated and Said They Were His Friends
+**C-11057** Host Says Erika Brought In People Charlie Hated and Said They Were His Friends
 
 Claim Timestamp: 00:52:08
 
@@ -2803,7 +2803,7 @@ Investigative Direction: List the individuals the host means and document Charli
 
 ---
 
-**C-14795** Host Says the Pale of Settlement Emigrants Left Russia After Coordinating the Tsar's Assassination
+**C-11058** Host Says the Pale of Settlement Emigrants Left Russia After Coordinating the Tsar's Assassination
 
 Claim Timestamp: 00:52:53
 
@@ -2819,7 +2819,7 @@ Investigative Direction: Consult historians on the emigration from the Pale of S
 
 ---
 
-**C-14796** Host Says She Does Not Employ Anyone to Go After Critics or Team Up Behind the Scenes
+**C-11059** Host Says She Does Not Employ Anyone to Go After Critics or Team Up Behind the Scenes
 
 Claim Timestamp: 00:53:34
 

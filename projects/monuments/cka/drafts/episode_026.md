@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10d): N-841, N-842, N-843, N-844, N-845, N-11226
   - Hole-minted Nodes (reintro-ep026): N-594, N-10482, N-10587, N-10630, N-10715
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9513–C-9583
+  - Claim Range: C-2317–C-2406
   - New Nodes Introduced: N-221, N-223, N-224, N-10224, N-10225, N-10227
   - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-222, N-10628, N-10226, N-10338, N-11227
   - (see registers)
@@ -37,7 +37,7 @@
 ### Episode 26 Ledger Summary
 
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
-- **Claim Range:** C-1598–C-1616
+- **Claim Range:** C-2320–C-2363
 - **New People Nodes Introduced:** N-221, N-190, N-159, N-106, N-222, N-223, N-60, N-14, N-56, N-224, N-17
 - **New Investigation Target Nodes Introduced:** N-10224, N-10225, N-10226, N-10227
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -62,7 +62,7 @@ Video Timestamp: 00:03:45–00:04:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1598, C-1599, N-10224*
+*Related: C-2320, C-2317, N-10224*
 
 **A-1333.2** UVU event request email (mid-July 2025) – referenced verbally by host; shown on screen per host narration but content not transcribed in captions
 
@@ -73,7 +73,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; visual content not captured in caption transcript
 
-*Related: C-1599, N-10224*
+*Related: C-2317, N-10224*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:11:41–00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1600, N-223*
+*Related: C-2333, N-223*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:30:49–00:31:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1601*
+*Related: C-2362*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:18:25–00:18:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1602, C-1603, N-221, N-222*
+*Related: C-2346, C-2348, N-221, N-222*
 
 **A-1336.2** Brett Cooper audio clip commenting on Ted Cruz tweets
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:19:39–00:20:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1604, C-1605, N-221, N-106*
+*Related: C-2349, C-2351, N-221, N-106*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:20:51–00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1606, N-221, N-56*
+*Related: C-2353, N-221, N-56*
 
 **A-1337.2** X posts alleging Brett Cooper and her mother engage in witchcraft
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:23:37–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1607, N-221*
+*Related: C-2356, N-221*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:24:28–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1608, N-221, N-224*
+*Related: C-2357, N-221, N-224*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:36:07–00:39:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1609, C-1610, N-190, N-159, N-17, N-2, N-1*
+*Related: C-2369, C-2373, N-190, N-159, N-17, N-2, N-1*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:47:44–00:48:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1611, N-60*
+*Related: C-2389, N-60*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:50:03–00:50:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1612, C-1613, N-14, N-223*
+*Related: C-2395, C-2396, N-14, N-223*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:14:20–00:15:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1614, N-223*
+*Related: C-2340, N-223*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:45:19–00:46:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1615, N-190, N-2, N-1*
+*Related: C-2384, N-190, N-2, N-1*
 
 ---
 
@@ -248,7 +248,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-190, N-10225, N-10226*
+*Related: C-2363, N-190, N-10225, N-10226*
 
 **A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration
 
@@ -259,7 +259,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-10225*
+*Related: C-2363, N-10225*
 
 ---
 
@@ -272,7 +272,7 @@ Video Timestamp: 00:12:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9529*
+*Related: C-2336*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:21:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9541, C-9542*
+*Related: C-2354, C-2355*
 
 ---
 
@@ -300,7 +300,7 @@ Video Timestamp: 00:27:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9546*
+*Related: C-2361*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:54:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9574*
+*Related: C-2397*
 
 ---
 
@@ -328,7 +328,7 @@ Video Timestamp: 00:58:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9577*
+*Related: C-2400*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:58:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9578*
+*Related: C-2401*
 
 ---
 
@@ -356,7 +356,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-1598, C-1599, C-1615, N-10224, N-10225*
+*Related: A-1333.1, A-1339.1, A-1343.1, A-1344.2, C-2320, C-2317, C-2384, N-10224, N-10225*
 
 **N-10000** Turning Point USA
 *(Existing – referenced in scheduling and phone call discussion)*
@@ -365,7 +365,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1339.1, A-1343.1, C-1609, C-1610, C-1615*
+*Related: A-1339.1, A-1343.1, C-2369, C-2373, C-2384*
 
 **N-221** Brett Cooper
 
@@ -376,7 +376,7 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-106, N-222, N-56, N-224*
+*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-2346, C-2348, C-2349, C-2351, C-2353, C-2356, C-2357, N-106, N-222, N-56, N-224*
 
 **N-190** Mikey McCoy
 
@@ -387,7 +387,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-17, N-2, N-10225, N-10226, N-10227*
+*Related: A-1339.1, A-1343.1, A-1344.1, C-2369, C-2373, C-2384, C-2363, N-17, N-2, N-10225, N-10226, N-10227*
 
 **N-159** Blake Neff
 
@@ -398,7 +398,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, C-1609, C-1610, N-190, N-17, N-2*
+*Related: A-1339.1, C-2369, C-2373, N-190, N-17, N-2*
 
 **N-106** Ted Cruz
 
@@ -409,7 +409,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1336.2, C-1604, C-1605, N-221*
+*Related: A-1336.2, C-2349, C-2351, N-221*
 
 **N-222** Randy Fine
 
@@ -420,7 +420,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1336.1, C-1602, N-221*
+*Related: A-1336.1, C-2346, N-221*
 
 **N-223** Zohran Mamdani
 
@@ -431,7 +431,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1334.1, A-1341.1, A-1342.1, C-1600, C-1613, C-1614*
+*Related: A-1334.1, A-1341.1, A-1342.1, C-2333, C-2396, C-2340*
 
 **N-60** Laura Loomer
 
@@ -442,7 +442,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1340.1, C-1611*
+*Related: A-1340.1, C-2389*
 
 **N-56** Arynne Wexler
 
@@ -453,7 +453,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1337.1, C-1606, N-221*
+*Related: A-1337.1, C-2353, N-221*
 
 **N-224** Shawn Ryan
 
@@ -464,7 +464,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1338.1, C-1608, N-221*
+*Related: A-1338.1, C-2357, N-221*
 
 **N-17** Rob McCoy
 
@@ -475,7 +475,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1339.1, C-1609, C-1610, N-190, N-159*
+*Related: A-1339.1, C-2369, C-2373, N-190, N-159*
 
 ---
 
@@ -488,7 +488,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1614*
+*Related: C-2340*
 
 ---
 
@@ -503,7 +503,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1333.1, A-1333.2, C-1598, C-1599, N-1*
+*Related: A-1333.1, A-1333.2, C-2320, C-2317, N-1*
 
 **N-10225** Equipment Box / First-Aid Anomaly at UVU Scene
 
@@ -514,7 +514,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1344.1, A-1344.2, C-1616, N-1, N-190*
+*Related: A-1344.1, A-1344.2, C-2363, N-1, N-190*
 
 **N-10226** Mikey McCoy Phone Call Sequence Anomaly
 
@@ -525,7 +525,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1344.1, C-1610, N-190, N-159, N-17, N-2*
+*Related: A-1339.1, A-1344.1, C-2373, N-190, N-159, N-17, N-2*
 
 **N-10227** YouTube Scheduling Order Anomaly
 
@@ -536,7 +536,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1343.1, C-1615, N-190, N-2*
+*Related: A-1343.1, C-2384, N-190, N-2*
 
 ---
 
@@ -544,7 +544,7 @@ Investigative Pressure: Medium
 
 Erika Kirk; subject of the call and interview claims.
 
-*Related: C-9554, C-9555, C-9557, C-9567*
+*Related: C-2372, C-2374, C-2376, C-2387*
 
 ---
 
@@ -552,7 +552,7 @@ Erika Kirk; subject of the call and interview claims.
 
 Host; speaks for herself throughout.
 
-*Related: C-9513, C-9514, C-9515, C-9517, C-9518, C-9519, C-9522, C-9523, C-9524, C-9530, C-9531, C-9535, C-9546, C-9547, C-9559, C-9562, C-9563, C-9564, C-9567, C-9568, C-9574, C-9575, C-9577, C-9578, C-9579, C-9580, C-9581, C-9582, C-9583*
+*Related: C-2318, C-2319, C-2321, C-2323, C-2324, C-2325, C-2328, C-2329, C-2330, C-2337, C-2338, C-2343, C-2361, C-2364, C-2378, C-2381, C-2382, C-2383, C-2387, C-2388, C-2397, C-2398, C-2400, C-2401, C-2402, C-2403, C-2404, C-2405, C-2406*
 
 ---
 
@@ -560,7 +560,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; subject of host claims on posts and the Epstein remark.
 
-*Related: C-9520, C-9533, C-9534, C-9535, C-9574*
+*Related: C-2326, C-2341, C-2342, C-2343, C-2397*
 
 ---
 
@@ -568,7 +568,7 @@ Donald Trump; subject of host claims on posts and the Epstein remark.
 
 Frank Turek (host says "Frank Turek"); named as a witness at the hospital.
 
-*Related: C-9561*
+*Related: C-2380*
 
 ---
 
@@ -576,7 +576,7 @@ Frank Turek (host says "Frank Turek"); named as a witness at the hospital.
 
 Jeffrey Epstein; named in the host's Trump comments.
 
-*Related: C-9535, C-9574*
+*Related: C-2343, C-2397*
 
 ---
 
@@ -584,7 +584,7 @@ Jeffrey Epstein; named in the host's Trump comments.
 
 Tucker Carlson; named in claims on Kirk, Cooper and the RJC event.
 
-*Related: C-9523, C-9535, C-9537, C-9539, C-9540*
+*Related: C-2329, C-2343, C-2345, C-2350, C-2352*
 
 ---
 
@@ -592,7 +592,7 @@ Tucker Carlson; named in claims on Kirk, Cooper and the RJC event.
 
 Benjamin Netanyahu; named in Cooper's Randy Fine remark.
 
-*Related: C-9538*
+*Related: C-2347*
 
 ---
 
@@ -600,7 +600,7 @@ Benjamin Netanyahu; named in Cooper's Randy Fine remark.
 
 Bill Ackman (transcribed "Bill Ackman"); named for his reported $1.75 million against Mamdani.
 
-*Related: C-9525*
+*Related: C-2331*
 
 ---
 
@@ -608,7 +608,7 @@ Bill Ackman (transcribed "Bill Ackman"); named for his reported $1.75 million ag
 
 Sigmund Freud (host says "Sigmund Freud"); subject of the host's gaslighting claim.
 
-*Related: C-9575, C-9576*
+*Related: C-2398, C-2399*
 
 ---
 
@@ -616,7 +616,7 @@ Sigmund Freud (host says "Sigmund Freud"); subject of the host's gaslighting cla
 
 Josh Hammer; subject of claims on his clip and signaling.
 
-*Related: C-9572, C-9573*
+*Related: C-2393, C-2394*
 
 ---
 
@@ -624,7 +624,7 @@ Josh Hammer; subject of claims on his clip and signaling.
 
 Kash Patel; named in the host's claim about his reported anger.
 
-*Related: C-9583*
+*Related: C-2406*
 
 ---
 
@@ -632,7 +632,7 @@ Kash Patel; named in the host's claim about his reported anger.
 
 Jack Posobiec (transcribed "Jack Posobiec"); named in the YouTube channel list.
 
-*Related: C-9566*
+*Related: C-2386*
 
 ---
 
@@ -640,14 +640,14 @@ Jack Posobiec (transcribed "Jack Posobiec"); named in the YouTube channel list.
 
 Ben Shapiro; named in the YouTube channel list.
 
-*Related: C-9566*
+*Related: C-2386*
 
 ---
 
 **N-98** Robert Shillman
 Bob Shillman (host says "Bob Shillman"); the donor the host says took $2 million from Kirk.
 
-*Related: C-9540*
+*Related: C-2352*
 
 ---
 
@@ -655,7 +655,7 @@ Bob Shillman (host says "Bob Shillman"); the donor the host says took $2 million
 
 Michael Knowles (host says "Michael Knowles"); named as a friend of Ted Cruz.
 
-*Related: C-9542*
+*Related: C-2355*
 
 ---
 
@@ -663,7 +663,7 @@ Michael Knowles (host says "Michael Knowles"); named as a friend of Ted Cruz.
 
 Vivek Ramaswamy (transcribed "Vik Ramoswami"); said not to have worn an Israeli pin.
 
-*Related: C-9530*
+*Related: C-2337*
 
 ---
 
@@ -671,7 +671,7 @@ Vivek Ramaswamy (transcribed "Vik Ramoswami"); said not to have worn an Israeli 
 
 Susie Wiles; the host says she eulogized Kirk.
 
-*Related: C-9519, C-9520*
+*Related: C-2325, C-2326*
 
 ---
 
@@ -679,7 +679,7 @@ Susie Wiles; the host says she eulogized Kirk.
 
 Camera Operator (UVU Event, 2025-09-10); the host's "camera boy" who removed cameras.
 
-*Related: C-9549*
+*Related: C-2366*
 
 ---
 
@@ -687,7 +687,7 @@ Camera Operator (UVU Event, 2025-09-10); the host's "camera boy" who removed cam
 
 Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.
 
-*Related: C-9535, C-9539, C-9541*
+*Related: C-2343, C-2350, C-2354*
 
 ---
 
@@ -695,7 +695,7 @@ Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.
 
 Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
-*Related: C-9567*
+*Related: C-2387*
 
 ---
 
@@ -703,7 +703,7 @@ Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
 Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's three-calls claim.
 
-*Related: C-9558*
+*Related: C-2377*
 
 ---
 
@@ -711,7 +711,7 @@ Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's thre
 
 Jordan Peterson; subject of a viewer comment.
 
-*Related: C-9577*
+*Related: C-2400*
 
 ---
 
@@ -719,7 +719,7 @@ Jordan Peterson; subject of a viewer comment.
 
 Existing topic reused for memorial claims.
 
-*Related: C-9520, C-9565*
+*Related: C-2326, C-2385*
 
 ---
 
@@ -727,7 +727,7 @@ Existing topic reused for memorial claims.
 
 Utah Valley University; venue of the September 10 event.
 
-*Related: C-9513, C-9518*
+*Related: C-2318, C-2324*
 
 ---
 
@@ -735,7 +735,7 @@ Utah Valley University; venue of the September 10 event.
 
 The Pentagon; named in the host's 9/11 comments.
 
-*Related: C-9568*
+*Related: C-2388*
 
 ---
 
@@ -743,7 +743,7 @@ The Pentagon; named in the host's 9/11 comments.
 
 APAC; named in the viewer comment about a TPUSA takeover.
 
-*Related: C-9578*
+*Related: C-2401*
 
 ---
 
@@ -751,7 +751,7 @@ APAC; named in the viewer comment about a TPUSA takeover.
 
 Riverbend Ranch; the sponsor in the ad read.
 
-*Related: C-9546*
+*Related: C-2361*
 
 ---
 
@@ -759,7 +759,7 @@ Riverbend Ranch; the sponsor in the ad read.
 
 Existing topic reused for hospital arrival and lockdown claims.
 
-*Related: C-9560, C-9561*
+*Related: C-2379, C-2380*
 
 ---
 
@@ -767,7 +767,7 @@ Existing topic reused for hospital arrival and lockdown claims.
 
 Existing topic reused for call-log claims.
 
-*Related: C-9562, C-9563*
+*Related: C-2381, C-2382*
 
 ---
 
@@ -775,7 +775,7 @@ Existing topic reused for call-log claims.
 
 Existing topic reused for the succession plan claim.
 
-*Related: C-9521*
+*Related: C-2327*
 
 ---
 
@@ -783,7 +783,7 @@ Existing topic reused for the succession plan claim.
 
 Existing topic reused for Mikey McCoy's movement claims.
 
-*Related: C-9556, C-9579, C-9580*
+*Related: C-2375, C-2402, C-2403*
 
 ---
 
@@ -791,7 +791,7 @@ Existing topic reused for Mikey McCoy's movement claims.
 
 Existing topic reused for the Wiles eulogy claim.
 
-*Related: C-9520*
+*Related: C-2326*
 
 ---
 
@@ -799,7 +799,7 @@ Existing topic reused for the Wiles eulogy claim.
 
 Existing topic reused for the Kash Patel claim.
 
-*Related: C-9583*
+*Related: C-2406*
 
 ---
 
@@ -807,7 +807,7 @@ Existing topic reused for the Kash Patel claim.
 
 Existing topic reused for the transparency claim.
 
-*Related: C-9562*
+*Related: C-2381*
 
 ---
 
@@ -815,7 +815,7 @@ Existing topic reused for the transparency claim.
 
 Existing topic reused for the McCoy succession plan claims.
 
-*Related: C-9521, C-9522*
+*Related: C-2327, C-2328*
 
 ---
 
@@ -823,7 +823,7 @@ Existing topic reused for the McCoy succession plan claims.
 
 Existing topic reused for the Israeli cell phone cover-up claim.
 
-*Related: C-9582*
+*Related: C-2405*
 
 ---
 
@@ -831,7 +831,7 @@ Existing topic reused for the Israeli cell phone cover-up claim.
 
 Existing topic reused for the Epstein donors claim.
 
-*Related: C-9574*
+*Related: C-2397*
 
 ---
 
@@ -839,7 +839,7 @@ Existing topic reused for the Epstein donors claim.
 
 Existing topic reused for the post-shooting call claims.
 
-*Related: C-9554, C-9555, C-9557, C-9558, C-9563*
+*Related: C-2372, C-2374, C-2376, C-2377, C-2382*
 
 ---
 
@@ -847,7 +847,7 @@ Existing topic reused for the post-shooting call claims.
 
 Existing topic reused for the call length claim.
 
-*Related: C-9557*
+*Related: C-2376*
 
 ---
 
@@ -855,7 +855,7 @@ Existing topic reused for the call length claim.
 
 Existing topic reused for the Trump posting claims.
 
-*Related: C-9533, C-9534*
+*Related: C-2341, C-2342*
 
 ---
 
@@ -863,7 +863,7 @@ Existing topic reused for the Trump posting claims.
 
 Existing topic reused for the Loomer 5150 claim.
 
-*Related: C-9569*
+*Related: C-2390*
 
 ---
 
@@ -871,7 +871,7 @@ Existing topic reused for the Loomer 5150 claim.
 
 Existing topic reused for the Loomer identity claims.
 
-*Related: C-9570, C-9571*
+*Related: C-2391, C-2392*
 
 ---
 
@@ -879,7 +879,7 @@ Existing topic reused for the Loomer identity claims.
 
 Existing topic reused for Blake Neff's movement claims.
 
-*Related: C-9552, C-9553*
+*Related: C-2370, C-2371*
 
 ---
 
@@ -887,7 +887,7 @@ Existing topic reused for Blake Neff's movement claims.
 
 Republican Jewish Coalition; event Cooper watched.
 
-*Related: C-9537*
+*Related: C-2345*
 
 ---
 
@@ -895,7 +895,7 @@ Republican Jewish Coalition; event Cooper watched.
 
 Existing topic reused for the first-aid claims.
 
-*Related: C-9547, C-9550*
+*Related: C-2364, C-2367*
 
 ---
 
@@ -905,7 +905,7 @@ First named by the host at 00:09:05 in episode 26. Former New York governor who 
 
 Aliases: Cuomo
 
-*Related: C-9524, C-9527*
+*Related: C-2330, C-2334*
 
 ---
 
@@ -913,7 +913,7 @@ Aliases: Cuomo
 
 First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.
 
-*Related: C-9526*
+*Related: C-2332*
 
 ---
 
@@ -923,7 +923,7 @@ First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder "Joe 
 
 Aliases: Joe Gebbia
 
-*Related: C-9526*
+*Related: C-2332*
 
 ---
 
@@ -933,7 +933,7 @@ First named by the host at 00:56:15 in episode 26 (transcribed "Jeffrey Masson" 
 
 Aliases: Jeffrey Masson; Jeffrey Masson
 
-*Related: C-9575, C-9576*
+*Related: C-2398, C-2399*
 
 ---
 
@@ -943,7 +943,7 @@ First named by the host at 00:54:27 in episode 26 (transcribed "Theodor Herzl").
 
 Aliases: Theodor Herzl
 
-*Related: C-9575*
+*Related: C-2398*
 
 ---
 
@@ -952,7 +952,7 @@ Aliases: Theodor Herzl
 Node Type: Topic
 Donations the host lists against Zohran Mamdani in the 2025 NYC mayoral race: Bill Ackman $1.75 million, Michael Bloomberg $8.3 million, Joe Gebbia $3.1 million and the Tisch family $1.2 million.
 
-*Related: C-9524, C-9525, C-9526*
+*Related: C-2330, C-2331, C-2332*
 
 ---
 
@@ -961,13 +961,13 @@ Donations the host lists against Zohran Mamdani in the 2025 NYC mayoral race: Bi
 Node Type: Topic
 The host's statement, prompted by a viewer comment, that APAC has already taken over or been taking over Turning Point USA, with evidence promised but not yet given.
 
-*Related: C-9578*
+*Related: C-2401*
 
 ---
 
 ## V. Claim Register
 
-**C-1598** Standard TPUSA Advance-Planning Timeline
+**C-2320** Standard TPUSA Advance-Planning Timeline
 
 Claim Timestamp: 00:03:45–00:04:20
 
@@ -981,7 +981,7 @@ Investigative Direction: Obtain the full October 2023 TPUSA email thread and cro
 
 ---
 
-**C-1599** Host Says UVU Request Timing Deviated From Standard TPUSA Planning
+**C-2317** Host Says UVU Request Timing Deviated From Standard TPUSA Planning
 
 Claim Timestamp: 00:02:39–00:03:30
 
@@ -998,7 +998,7 @@ Optional Flag: Artifact referenced verbally by host; visual content of email not
 
 ---
 
-**C-1600** Mamdani Foreign-Trip Debate Response
+**C-2333** Mamdani Foreign-Trip Debate Response
 
 Claim Timestamp: 00:11:41–00:12:31
 
@@ -1012,7 +1012,7 @@ Investigative Direction: Locate the full unedited debate transcript or video to 
 
 ---
 
-**C-1601** CNN Characterizations of Candace Owens
+**C-2362** CNN Characterizations of Candace Owens
 
 Claim Timestamp: 00:30:49–00:31:25
 
@@ -1027,7 +1027,7 @@ Investigative Direction: Identify the named CNN panelists and confirm the origin
 
 ---
 
-**C-1602** Brett Cooper Commentary on Randy Fine
+**C-2346** Brett Cooper Commentary on Randy Fine
 
 Claim Timestamp: 00:18:25–00:18:57
 
@@ -1041,7 +1041,7 @@ Investigative Direction: Locate the original Brett Cooper video for full context
 
 ---
 
-**C-1603** Host Concurs with Brett Cooper on Randy Fine
+**C-2348** Host Concurs with Brett Cooper on Randy Fine
 
 Claim Timestamp: 00:18:57–00:19:30
 
@@ -1055,7 +1055,7 @@ Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 ---
 
-**C-1604** Brett Cooper Commentary on Ted Cruz
+**C-2349** Brett Cooper Commentary on Ted Cruz
 
 Claim Timestamp: 00:19:39–00:20:14
 
@@ -1069,7 +1069,7 @@ Investigative Direction: Verify the cited Ted Cruz tweets in their original form
 
 ---
 
-**C-1605** Host Says Brett Cooper Is a Voice of Gen Z Who Should Be Heard
+**C-2351** Host Says Brett Cooper Is a Voice of Gen Z Who Should Be Heard
 
 Claim Timestamp: 00:20:14–00:20:30
 
@@ -1083,7 +1083,7 @@ Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 ---
 
-**C-1606** Wexler "White Candace" Post
+**C-2353** Wexler "White Candace" Post
 
 Claim Timestamp: 00:20:51–00:21:20
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Verify the original Wexler post, account status (active
 
 ---
 
-**C-1607** Witchcraft Allegation Posts Targeting Brett Cooper
+**C-2356** Witchcraft Allegation Posts Targeting Brett Cooper
 
 Claim Timestamp: 00:23:37–00:24:10
 
@@ -1111,7 +1111,7 @@ Investigative Direction: Identify the original poster accounts and verify the or
 
 ---
 
-**C-1608** Brett Cooper Shawn Ryan Appearance
+**C-2357** Brett Cooper Shawn Ryan Appearance
 
 Claim Timestamp: 00:23:55
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Locate the full Shawn Ryan Show episode for complete co
 
 ---
 
-**C-1609** Blake Neff Recounts Mikey McCoy's Actions
+**C-2369** Blake Neff Recounts Mikey McCoy's Actions
 
 Claim Timestamp: 00:36:07–00:39:39
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Confirm publication date and outlet of the Blake Neff i
 
 ---
 
-**C-1610** Host Disputes Mikey McCoy Phone Call Account
+**C-2373** Host Disputes Mikey McCoy Phone Call Account
 
 Claim Timestamp: 00:39:39–00:43:20
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Obtain and analyze the post-shooting footage showing Mi
 
 ---
 
-**C-1611** Laura Loomer Pentagon Press Pass Headline
+**C-2389** Laura Loomer Pentagon Press Pass Headline
 
 Claim Timestamp: 00:47:44–00:48:10
 
@@ -1169,7 +1169,7 @@ Investigative Direction: Verify the original outlet, publication date, and Penta
 
 ---
 
-**C-1612** Josh Hammer 9/11 Anniversary Commentary
+**C-2395** Josh Hammer 9/11 Anniversary Commentary
 
 Claim Timestamp: 00:50:03–00:50:59
 
@@ -1183,7 +1183,7 @@ Investigative Direction: Verify the original Josh Hammer segment and identify th
 
 ---
 
-**C-1613** Host Rejects Josh Hammer Framing
+**C-2396** Host Rejects Josh Hammer Framing
 
 Claim Timestamp: 00:51:00–00:52:10
 
@@ -1197,7 +1197,7 @@ Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 ---
 
-**C-1614** CNN Exit Poll Jewish Vote Share
+**C-2340** CNN Exit Poll Jewish Vote Share
 
 Claim Timestamp: 00:14:20–00:15:05
 
@@ -1211,7 +1211,7 @@ Investigative Direction: Obtain the full CNN exit poll crosstabs and methodology
 
 ---
 
-**C-1615** YouTube Channel First-Scheduled Post Selection
+**C-2384** YouTube Channel First-Scheduled Post Selection
 
 Claim Timestamp: 00:45:19–00:46:08
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Independently verify YouTube scheduling metadata for th
 
 ---
 
-**C-1616** Host Allegation of Equipment Box and Absence of First Aid
+**C-2363** Host Allegation of Equipment Box and Absence of First Aid
 
 Claim Timestamp: 00:31:22
 
@@ -1241,7 +1241,7 @@ Investigative Direction: Obtain and analyze the full UVU scene footage from mult
 
 ---
 
-**C-9513** UVU Approval as First Stop Unprecedented in Host's Tour Experience
+**C-2318** UVU Approval as First Stop Unprecedented in Host's Tour Experience
 
 Claim Timestamp: 00:02:39
 
@@ -1252,13 +1252,13 @@ Transcript Snippet: That has never happened in the history of my having done cam
 Anchored Artifacts: A-1333.2
 Mentions: N-1, N-3
 Related Nodes: N-10224, N-10012
-Supports: C-6567
+Supports: C-2281
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's campus-tour approval records for fall 2025 and compare request-to-approval intervals for other stops with UVU's.
 
 ---
 
-**C-9514** Host and Kirk Toured Together in April 2024 and Split Stops
+**C-2319** Host and Kirk Toured Together in April 2024 and Split Stops
 
 Claim Timestamp: 00:02:39
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Obtain the April 2024 tour schedule showing which stops
 
 ---
 
-**C-9515** Oct 2023 Email Lists UNC, Pittsburgh and Alabama as Pending Spring Events
+**C-2321** Oct 2023 Email Lists UNC, Pittsburgh and Alabama as Pending Spring Events
 
 Claim Timestamp: 00:03:45
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Obtain the full October 2023 email and compare it with 
 
 ---
 
-**C-9516** TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall
+**C-2322** TPUSA Does Not Approve Events Instantly; Spring Requests Roll to Fall
 
 Claim Timestamp: 00:04:40
 
@@ -1306,7 +1306,7 @@ Investigative Direction: Obtain TPUSA event-planning SOPs or former tour staff a
 
 ---
 
-**C-9517** Host Says UVU Approval Speed Points to Inside Job and TPUSA Involvement
+**C-2323** Host Says UVU Approval Speed Points to Inside Job and TPUSA Involvement
 
 Claim Timestamp: 00:04:40
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Obtain TPUSA and UVU correspondence on the request and 
 
 ---
 
-**C-9518** Second Utah Stop Planned Ten Days After September 10
+**C-2324** Second Utah Stop Planned Ten Days After September 10
 
 Claim Timestamp: 00:05:44
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Obtain the fall 2025 tour schedule, including the secon
 
 ---
 
-**C-9519** Host Says Apparent Plan Was to Kill Kirk and Take Over His Brand
+**C-2325** Host Says Apparent Plan Was to Kill Kirk and Take Over His Brand
 
 Claim Timestamp: 00:05:44
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Identify the source of Kirk's own words on faltering on
 
 ---
 
-**C-9520** Susie Wiles Eulogized Kirk; Host Calls Memorial an Effective Trump Rally
+**C-2326** Susie Wiles Eulogized Kirk; Host Calls Memorial an Effective Trump Rally
 
 Claim Timestamp: 00:06:59
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Obtain the memorial speaker list and transcript of the 
 
 ---
 
-**C-9521** Host Says McCoy Told Americans Kirk Wrote a Succession Plan in Notebooks
+**C-2327** Host Says McCoy Told Americans Kirk Wrote a Succession Plan in Notebooks
 
 Claim Timestamp: 00:06:59
 
@@ -1381,13 +1381,13 @@ Transcript Snippet: it just so happened that Charlie Kirk kept notebooks and dia
 Anchored Artifacts: 
 Mentions: N-17, N-1, N-190
 Related Nodes: N-10218, N-10194
-Supports: C-1585
+Supports: C-2263
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's original statement and any notebook pages or provenance for the succession plan.
 
 ---
 
-**C-9522** Host Says Notebooks Were Never Going to Be Open to the Public
+**C-2328** Host Says Notebooks Were Never Going to Be Open to the Public
 
 Claim Timestamp: 00:07:56
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Ask TPUSA for access to or custody records of the noteb
 
 ---
 
-**C-9523** Host Says Kirk Is Portrayed as Wanting Anger at Tucker and Silence on His Murder
+**C-2329** Host Says Kirk Is Portrayed as Wanting Anger at Tucker and Silence on His Murder
 
 Claim Timestamp: 00:09:05
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Identify who has publicly stated that Kirk would want t
 
 ---
 
-**C-9524** Mamdani Beat Cuomo Despite Money; Republicans Earlier Called Cuomo Corrupt
+**C-2330** Mamdani Beat Cuomo Despite Money; Republicans Earlier Called Cuomo Corrupt
 
 Claim Timestamp: 00:09:05
 
@@ -1435,7 +1435,7 @@ Investigative Direction: Check certified NYC mayoral results and the dated Repub
 
 ---
 
-**C-9525** Host Says Bill Ackman Gave $1.75 Million Against Mamdani
+**C-2331** Host Says Bill Ackman Gave $1.75 Million Against Mamdani
 
 Claim Timestamp: 00:10:00
 
@@ -1451,7 +1451,7 @@ Investigative Direction: Check super PAC and campaign finance filings for Ackman
 
 ---
 
-**C-9526** Host Lists Bloomberg, Gebbia and Tisch Family Spending Against Mamdani
+**C-2332** Host Lists Bloomberg, Gebbia and Tisch Family Spending Against Mamdani
 
 Claim Timestamp: 00:10:00
 
@@ -1467,7 +1467,7 @@ Investigative Direction: Check NYC Campaign Finance Board and super PAC filings 
 
 ---
 
-**C-9527** Debate Clip: Cuomo Says He Would Go to Israel First
+**C-2334** Debate Clip: Cuomo Says He Would Go to Israel First
 
 Claim Timestamp: 00:11:41
 
@@ -1483,7 +1483,7 @@ Investigative Direction: Locate the unedited mayoral debate video and confirm wh
 
 ---
 
-**C-9528** Debate Clip: Candidate Says Fourth Trip to Israel, Fifth to Ukraine
+**C-2335** Debate Clip: Candidate Says Fourth Trip to Israel, Fifth to Ukraine
 
 Claim Timestamp: 00:11:41
 
@@ -1499,7 +1499,7 @@ Investigative Direction: Locate the unedited debate video to identify the candid
 
 ---
 
-**C-9529** Debate Clip: Mamdani Answer on Israel's Right to Exist
+**C-2336** Debate Clip: Mamdani Answer on Israel's Right to Exist
 
 Claim Timestamp: 00:12:31
 
@@ -1515,7 +1515,7 @@ Investigative Direction: Locate the unedited debate video and compare the exact 
 
 ---
 
-**C-9530** Host Says Only Ramaswamy Skipped the Israeli Flag Pin in Presidential Debates
+**C-2337** Host Says Only Ramaswamy Skipped the Israeli Flag Pin in Presidential Debates
 
 Claim Timestamp: 00:13:26
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Review debate footage and photographs for which candida
 
 ---
 
-**C-9531** Host Says NYC Has Largest Jewish Population Outside Israel; Mamdani Took a Large Share
+**C-2338** Host Says NYC Has Largest Jewish Population Outside Israel; Mamdani Took a Large Share
 
 Claim Timestamp: 00:14:08
 
@@ -1547,7 +1547,7 @@ Investigative Direction: Check city Jewish population estimates and the exit-pol
 
 ---
 
-**C-9532** Mark Says Exit Poll Shows Israel Was a Factor for Many Voters
+**C-2339** Mark Says Exit Poll Shows Israel Was a Factor for Many Voters
 
 Claim Timestamp: 00:14:08
 
@@ -1563,7 +1563,7 @@ Investigative Direction: Obtain the CNN exit poll crosstabs for the Israel-relat
 
 ---
 
-**C-9533** Host Says Trump Posted 900 Percent More About Defeating Mamdani Than Finding Kirk's Killer
+**C-2341** Host Says Trump Posted 900 Percent More About Defeating Mamdani Than Finding Kirk's Killer
 
 Claim Timestamp: 00:15:05
 
@@ -1579,7 +1579,7 @@ Investigative Direction: Count Trump's Truth Social posts on Mamdani and on the 
 
 ---
 
-**C-9534** Host Says Trump Sent No Message About Investigating Kirk's Murder
+**C-2342** Host Says Trump Sent No Message About Investigating Kirk's Murder
 
 Claim Timestamp: 00:15:05
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Search Trump's Truth Social posts since September 10 fo
 
 ---
 
-**C-9535** Host Says MAGA Fractured When Trump Said "Epstein, Who?"
+**C-2343** Host Says MAGA Fractured When Trump Said "Epstein, Who?"
 
 Claim Timestamp: 00:16:26
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Locate Trump's dated "Epstein, who?" remark in the orig
 
 ---
 
-**C-9536** Host Says Brett Cooper Encouraged New Yorkers to Vote Against Mamdani
+**C-2344** Host Says Brett Cooper Encouraged New Yorkers to Vote Against Mamdani
 
 Claim Timestamp: 00:16:55
 
@@ -1627,7 +1627,7 @@ Investigative Direction: Locate Cooper's pre-election video urging New Yorkers t
 
 ---
 
-**C-9537** Host Says Cooper Watched the Republican Jewish Coalition Event Targeting Tucker
+**C-2345** Host Says Cooper Watched the Republican Jewish Coalition Event Targeting Tucker
 
 Claim Timestamp: 00:16:55
 
@@ -1643,7 +1643,7 @@ Investigative Direction: Locate the Republican Jewish Coalition event recording 
 
 ---
 
-**C-9538** Cooper Clip: Fine Bragged About Not Washing Hands After Netanyahu, Went to Anger Management
+**C-2347** Cooper Clip: Fine Bragged About Not Washing Hands After Netanyahu, Went to Anger Management
 
 Claim Timestamp: 00:18:25
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Verify Fine's handshake remark and anger-management rep
 
 ---
 
-**C-9539** Cooper Clip: Quotes Two Ted Cruz Tweets on "Nazi"
+**C-2350** Cooper Clip: Quotes Two Ted Cruz Tweets on "Nazi"
 
 Claim Timestamp: 00:19:39
 
@@ -1675,7 +1675,7 @@ Investigative Direction: Locate both Ted Cruz tweets and their dates on X.
 
 ---
 
-**C-9540** Host Says Shillman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance
+**C-2352** Host Says Shillman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance
 
 Claim Timestamp: 00:20:14
 
@@ -1691,7 +1691,7 @@ Investigative Direction: Obtain donor records or statements confirming a $2 mill
 
 ---
 
-**C-9541** Ted Cruz Reply Tweet Says He Does Not Know "This Angry Lady"
+**C-2354** Ted Cruz Reply Tweet Says He Does Not Know "This Angry Lady"
 
 Claim Timestamp: 00:21:52
 
@@ -1707,7 +1707,7 @@ Investigative Direction: Locate the Ted Cruz tweet on X and confirm its wording 
 
 ---
 
-**C-9542** Host Says Cruz Appeared in Lady Ballers and Is Friends With Knowles
+**C-2355** Host Says Cruz Appeared in Lady Ballers and Is Friends With Knowles
 
 Claim Timestamp: 00:21:52
 
@@ -1723,7 +1723,7 @@ Investigative Direction: Check Lady Ballers cast credits for Cruz and Cooper.
 
 ---
 
-**C-9543** Cooper Clip: Her Mother Spoke Through Mediums to Her First Husband
+**C-2358** Cooper Clip: Her Mother Spoke Through Mediums to Her First Husband
 
 Claim Timestamp: 00:24:28
 
@@ -1739,7 +1739,7 @@ Investigative Direction: Locate the full Shawn Ryan episode featuring Cooper.
 
 ---
 
-**C-9544** Host Says Cooper's Twin Brother Died of a Heart Attack and Surviving Brother Is Hospitalized
+**C-2359** Host Says Cooper's Twin Brother Died of a Heart Attack and Surviving Brother Is Hospitalized
 
 Claim Timestamp: 00:25:20
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Locate the full Shawn Ryan episode and confirm what Coo
 
 ---
 
-**C-9545** Host Calls Israel-First Critics of Cooper "Descendants of Boleviks"
+**C-2360** Host Calls Israel-First Critics of Cooper "Descendants of Boleviks"
 
 Claim Timestamp: 00:26:44
 
@@ -1771,7 +1771,7 @@ Investigative Direction: None: sweeping assertion about a group; record only as 
 
 ---
 
-**C-9546** Riverbend Ranch Sponsor Read: 850 Bulls to 260 Ranches
+**C-2361** Riverbend Ranch Sponsor Read: 850 Bulls to 260 Ranches
 
 Claim Timestamp: 00:27:22
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Verify the figures against Riverbend Ranch's own materi
 
 ---
 
-**C-9547** Host Says Kirk Was Given No First Aid After the Shot
+**C-2364** Host Says Kirk Was Given No First Aid After the Shot
 
 Claim Timestamp: 00:31:27
 
@@ -1798,13 +1798,13 @@ Transcript Snippet: Charlie was never rendered any first aid immediately.
 Anchored Artifacts: A-1344.1
 Mentions: N-1, N-3
 Related Nodes: N-10225, N-11100
-Supports: C-6529
+Supports: C-1971
 Tags: relevance:core
 Investigative Direction: Obtain the multi-angle footage and security team accounts of the first minute after the shot.
 
 ---
 
-**C-9548** Host Says a Security Guard Lifted Kirk Rather Than Him Falling From the Chair
+**C-2365** Host Says a Security Guard Lifted Kirk Rather Than Him Falling From the Chair
 
 Claim Timestamp: 00:32:32
 
@@ -1820,7 +1820,7 @@ Investigative Direction: Obtain the back and side footage and identify the guard
 
 ---
 
-**C-9549** Host Says Equipment Boxes Flanked Kirk and Asks If the Box Was Still There Later
+**C-2366** Host Says Equipment Boxes Flanked Kirk and Asks If the Box Was Still There Later
 
 Claim Timestamp: 00:33:30
 
@@ -1836,7 +1836,7 @@ Investigative Direction: Review post-shooting footage around the camera removal 
 
 ---
 
-**C-9550** Host Says Security Huddled 20 to 30 Seconds Without Opening Their Bag
+**C-2367** Host Says Security Huddled 20 to 30 Seconds Without Opening Their Bag
 
 Claim Timestamp: 00:34:34
 
@@ -1847,13 +1847,13 @@ Transcript Snippet: He doesn't they don't even open their bag and try to adminis
 Anchored Artifacts: A-1344.1
 Mentions: N-1
 Related Nodes: N-10225, N-11100
-Supports: C-6529
+Supports: C-1971
 Tags: relevance:core
 Investigative Direction: Obtain the security contract and footage timing of the first 30 seconds on the ground.
 
 ---
 
-**C-9551** Host Says Mikey McCoy Never Lowered His Hand Until Out of View
+**C-2368** Host Says Mikey McCoy Never Lowered His Hand Until Out of View
 
 Claim Timestamp: 00:35:15
 
@@ -1864,13 +1864,13 @@ Transcript Snippet: he never stops this move for a single second.
 Anchored Artifacts: A-1344.1
 Mentions: N-190
 Related Nodes: N-10226
-Supports: C-1463
+Supports: C-1738
 Tags: relevance:core
 Investigative Direction: Obtain the full-length footage of Mikey McCoy's path and posture after the shot.
 
 ---
 
-**C-9552** Blake Neff: He and Mikey Left Before Being Shot and Did Not Abandon Charlie
+**C-2370** Blake Neff: He and Mikey Left Before Being Shot and Did Not Abandon Charlie
 
 Claim Timestamp: 00:36:07
 
@@ -1886,7 +1886,7 @@ Investigative Direction: Obtain Neff's full interview and the video of his and M
 
 ---
 
-**C-9553** Blake Neff: Ran 15 to 20 Seconds Then Saw Mikey, Thinks He Was Ahead
+**C-2371** Blake Neff: Ran 15 to 20 Seconds Then Saw Mikey, Thinks He Was Ahead
 
 Claim Timestamp: 00:36:50
 
@@ -1902,7 +1902,7 @@ Investigative Direction: Compare Neff's account with footage tracking both men's
 
 ---
 
-**C-9554** Blake Neff: Mikey Became Like a General Directing a Battle After the Call
+**C-2372** Blake Neff: Mikey Became Like a General Directing a Battle After the Call
 
 Claim Timestamp: 00:38:24
 
@@ -1918,7 +1918,7 @@ Investigative Direction: Obtain Neff's full interview and statements from others
 
 ---
 
-**C-9555** Blake Neff: Mikey Told Staff Erika Would Hear of the Death Only From Him
+**C-2374** Blake Neff: Mikey Told Staff Erika Would Hear of the Death Only From Him
 
 Claim Timestamp: 00:39:39
 
@@ -1934,7 +1934,7 @@ Investigative Direction: Obtain Neff's full interview and ask other staff presen
 
 ---
 
-**C-9556** Host Says Mikey Moved as if He Knew Where He Was Going With Blake Nowhere in View
+**C-2375** Host Says Mikey Moved as if He Knew Where He Was Going With Blake Nowhere in View
 
 Claim Timestamp: 00:40:23
 
@@ -1950,7 +1950,7 @@ Investigative Direction: Obtain wide footage tracking both men's movements from 
 
 ---
 
-**C-9557** Host Says Blake's Account Implies a 15-Second Call With Erika
+**C-2376** Host Says Blake's Account Implies a 15-Second Call With Erika
 
 Claim Timestamp: 00:41:08
 
@@ -1966,7 +1966,7 @@ Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk coverin
 
 ---
 
-**C-9558** Host Says Mikey Made Three Calls Including One to His Wife Who Screamed at the Office
+**C-2377** Host Says Mikey Made Three Calls Including One to His Wife Who Screamed at the Office
 
 Claim Timestamp: 00:42:27
 
@@ -1982,7 +1982,7 @@ Investigative Direction: Identify the host's source and obtain call logs for the
 
 ---
 
-**C-9559** Host Says TPUSA Is Engaged in a Cover-Up and Asks Why the Event Was Confirmed So Quickly
+**C-2378** Host Says TPUSA Is Engaged in a Cover-Up and Asks Why the Event Was Confirmed So Quickly
 
 Claim Timestamp: 00:42:37
 
@@ -1998,7 +1998,7 @@ Investigative Direction: Obtain TPUSA and UVU records on the event request and c
 
 ---
 
-**C-9560** Host Says Blake Neff Said They Reached the Hospital Within 25 Minutes
+**C-2379** Host Says Blake Neff Said They Reached the Hospital Within 25 Minutes
 
 Claim Timestamp: 00:43:22
 
@@ -2014,7 +2014,7 @@ Investigative Direction: Locate Neff's statement on arrival time and compare wit
 
 ---
 
-**C-9561** Host Says Hospital Was Locked Down but Admitted Mikey and TPUSA Staff
+**C-2380** Host Says Hospital Was Locked Down but Admitted Mikey and TPUSA Staff
 
 Claim Timestamp: 00:43:22
 
@@ -2030,7 +2030,7 @@ Investigative Direction: Obtain hospital access logs and security records for wh
 
 ---
 
-**C-9562** Host Says Parties Claim Releasing Call Logs and Video Would Hurt the Case
+**C-2381** Host Says Parties Claim Releasing Call Logs and Video Would Hurt the Case
 
 Claim Timestamp: 00:43:22
 
@@ -2046,7 +2046,7 @@ Investigative Direction: Identify who has stated that releasing call logs or foo
 
 ---
 
-**C-9563** Host Says They Are Lying About the Phone Calls and Their Timing
+**C-2382** Host Says They Are Lying About the Phone Calls and Their Timing
 
 Claim Timestamp: 00:44:29
 
@@ -2062,7 +2062,7 @@ Investigative Direction: Obtain the call logs for the calls described by Neff an
 
 ---
 
-**C-9564** Host Says Stage Was Set to Make Mikey the New Charlie
+**C-2383** Host Says Stage Was Set to Make Mikey the New Charlie
 
 Claim Timestamp: 00:44:29
 
@@ -2073,13 +2073,13 @@ Transcript Snippet: the feeling I'm getting that they were positioning Mikey to 
 Anchored Artifacts: 
 Mentions: N-190, N-3
 Related Nodes: N-10227
-Supports: C-6553
+Supports: C-2262
 Tags: relevance:core
 Investigative Direction: Document statements and role changes that elevated Mikey McCoy after September 10.
 
 ---
 
-**C-9565** Host Says No Scheduled Posts Went Up on Kirk's YouTube Until After the Memorial
+**C-2385** Host Says No Scheduled Posts Went Up on Kirk's YouTube Until After the Memorial
 
 Claim Timestamp: 00:45:19
 
@@ -2095,7 +2095,7 @@ Investigative Direction: Obtain the YouTube channel upload and scheduling histor
 
 ---
 
-**C-9566** Host Describes Prior Channel Order Before the Gap: Ben, Jack Posobiec, Then It Stops
+**C-2386** Host Describes Prior Channel Order Before the Gap: Ben, Jack Posobiec, Then It Stops
 
 Claim Timestamp: 00:45:19
 
@@ -2111,7 +2111,7 @@ Investigative Direction: Capture the channel's upload list as of the date the sc
 
 ---
 
-**C-9567** Host Says Jesse Watters Interview With Erika Kirk Was About to Air
+**C-2387** Host Says Jesse Watters Interview With Erika Kirk Was About to Air
 
 Claim Timestamp: 00:46:08
 
@@ -2127,7 +2127,7 @@ Investigative Direction: Locate the Fox News airing date and transcript of the W
 
 ---
 
-**C-9568** Host Says the Pro-Israel Crowd Is Signaling Another 9/11
+**C-2388** Host Says the Pro-Israel Crowd Is Signaling Another 9/11
 
 Claim Timestamp: 00:46:55
 
@@ -2143,7 +2143,7 @@ Investigative Direction: None: speculative assertion about a group; record only 
 
 ---
 
-**C-9569** Host Says Laura Loomer Has Been on Multiple Psych 5150 Holds
+**C-2390** Host Says Laura Loomer Has Been on Multiple Psych 5150 Holds
 
 Claim Timestamp: 00:47:44
 
@@ -2159,7 +2159,7 @@ Investigative Direction: Check court or police records or Loomer's own statement
 
 ---
 
-**C-9570** Host Says Loomer Chained Herself to Twitter Headquarters Wearing a Star of David in 2018
+**C-2391** Host Says Loomer Chained Herself to Twitter Headquarters Wearing a Star of David in 2018
 
 Claim Timestamp: 00:47:44
 
@@ -2175,7 +2175,7 @@ Investigative Direction: Check contemporaneous news coverage of the 2018 Twitter
 
 ---
 
-**C-9571** Host Says Loomer Is Not Jewish and Has No Bat Mitzvah Pictures
+**C-2392** Host Says Loomer Is Not Jewish and Has No Bat Mitzvah Pictures
 
 Claim Timestamp: 00:48:25
 
@@ -2191,7 +2191,7 @@ Investigative Direction: Check Loomer's public statements on her background; no 
 
 ---
 
-**C-9572** Host Says Josh Hammer and Others Are Signaling Another 9/11
+**C-2393** Host Says Josh Hammer and Others Are Signaling Another 9/11
 
 Claim Timestamp: 00:49:15
 
@@ -2207,7 +2207,7 @@ Investigative Direction: Review the full Hammer segment for any explicit referen
 
 ---
 
-**C-9573** Hammer Clip: Calls Mamdani a Marx-Quoting Hamas-Loving Red-Green Alliance Sicko
+**C-2394** Hammer Clip: Calls Mamdani a Marx-Quoting Hamas-Loving Red-Green Alliance Sicko
 
 Claim Timestamp: 00:49:15
 
@@ -2223,7 +2223,7 @@ Investigative Direction: Locate the original Hammer segment and confirm his word
 
 ---
 
-**C-9574** Host Says a Story Reported Trump Was Protecting Some of His Donors on Epstein
+**C-2397** Host Says a Story Reported Trump Was Protecting Some of His Donors on Epstein
 
 Claim Timestamp: 00:54:27
 
@@ -2239,7 +2239,7 @@ Investigative Direction: Identify the story the host refers to and its publicati
 
 ---
 
-**C-9575** Host Recommends Masson's Assault on Truth and a Freud Book as Starting Reading on Zionism
+**C-2398** Host Recommends Masson's Assault on Truth and a Freud Book as Starting Reading on Zionism
 
 Claim Timestamp: 00:56:15
 
@@ -2255,7 +2255,7 @@ Investigative Direction: None: reading recommendation recorded as said on air.
 
 ---
 
-**C-9576** Host Says Freud Mainstreamed Gaslighting People He Harmed, Per Masson
+**C-2399** Host Says Freud Mainstreamed Gaslighting People He Harmed, Per Masson
 
 Claim Timestamp: 00:56:15
 
@@ -2271,7 +2271,7 @@ Investigative Direction: Check Masson's published work on Freud and his role at 
 
 ---
 
-**C-9577** Host Says She Did Not Know Jordan Peterson Got Sick in Israel
+**C-2400** Host Says She Did Not Know Jordan Peterson Got Sick in Israel
 
 Claim Timestamp: 00:58:11
 
@@ -2287,7 +2287,7 @@ Investigative Direction: None: host states no knowledge; a viewer comment prompt
 
 ---
 
-**C-9578** Host Says APAC Takeover of Turning Point USA May Already Have Happened
+**C-2401** Host Says APAC Takeover of Turning Point USA May Already Have Happened
 
 Claim Timestamp: 00:58:59
 
@@ -2303,7 +2303,7 @@ Investigative Direction: Obtain donor, board and staffing records at TPUSA showi
 
 ---
 
-**C-9579** Host Says the Plotters Planned It Perfectly, So the Phone Call and Walk-Away Look Unnatural
+**C-2402** Host Says the Plotters Planned It Perfectly, So the Phone Call and Walk-Away Look Unnatural
 
 Claim Timestamp: 00:59:46
 
@@ -2319,7 +2319,7 @@ Investigative Direction: Obtain footage and call records for a behavioral compar
 
 ---
 
-**C-9580** Host Says Everything on September 10 Looks Like a Military Operation
+**C-2403** Host Says Everything on September 10 Looks Like a Military Operation
 
 Claim Timestamp: 01:00:40
 
@@ -2335,7 +2335,7 @@ Investigative Direction: None: interpretive assertion; would require the evidenc
 
 ---
 
-**C-9581** Host Says Some of Kirk's Allies at His Company and the White House Would Have Had to Know
+**C-2404** Host Says Some of Kirk's Allies at His Company and the White House Would Have Had to Know
 
 Claim Timestamp: 01:00:40
 
@@ -2351,7 +2351,7 @@ Investigative Direction: None: conditional inference by the host; no evidence of
 
 ---
 
-**C-9582** Host Says 12 Israeli Cell Phones Are Being Covered Up
+**C-2405** Host Says 12 Israeli Cell Phones Are Being Covered Up
 
 Claim Timestamp: 01:01:45
 
@@ -2362,13 +2362,13 @@ Transcript Snippet: the covering up of the 12 Israeli cell phones because if it 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10222
-Supports: C-1594
+Supports: C-2295
 Tags: relevance:core
 Investigative Direction: Obtain the underlying phone-location data and official responses regarding the reported Israeli devices at UVU.
 
 ---
 
-**C-9583** Host Says Kash Patel Is Frantic and Shouting at People
+**C-2406** Host Says Kash Patel Is Frantic and Shouting at People
 
 Claim Timestamp: 01:01:45
 

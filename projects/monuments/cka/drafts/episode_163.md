@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (catchup-2026-10-19): N-953, N-956, N-11419, N-11420, N-11421
   - Reused Nodes Appearing: N-955, N-954, N-1, N-2, N-3, N-4, N-5, N-7, N-10, N-17, N-58, N-146, N-159, N-190, N-224, N-266, N-270, N-271, N-277, N-341, N-367, N-487, N-492, N-504, N-595, N-897, N-10000, N-10198, N-10272, N-10338, N-10537, N-10651, N-10681, N-10683, N-10694, N-10715, N-10730, N-10737, N-10765, N-10821, N-10839, N-10840, N-10874, N-10881, N-10886, N-11009, N-11208, N-11218, N-11233, N-11263, N-11310, N-11321, N-11356
-  - Claim Range: C-15152–C-15238
+  - Claim Range: C-14056–C-14142
   - (see registers)
 
 # Episode 163 Analysis
@@ -42,7 +42,7 @@ Video Timestamp: 00:03:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15157, C-15158, C-15159, C-15160, N-159, N-190, N-17, N-2*
+*Related: C-14061, C-14062, C-14063, C-14064, N-159, N-190, N-17, N-2*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15162, C-15163, C-15164, N-953, N-954, N-492, N-367, N-11321*
+*Related: C-14066, C-14067, C-14068, N-953, N-954, N-492, N-367, N-11321*
 
 **A-3373.2** Map of the security team the host asks her producer to pull up, showing Blake Gibson and Blake Harreff
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:18:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15183, N-955, N-897, N-11321*
+*Related: C-14087, N-955, N-897, N-11321*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:10:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15170, C-15171, N-159, N-367, N-504, N-271*
+*Related: C-14074, C-14075, N-159, N-367, N-504, N-271*
 
 **A-3374.2** Map walkthrough of the route from behind the Hall of Flags through the L1 employee lot and admin lot to the roundabout of white vehicles
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:11:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15173, C-15174, N-11009, N-11419*
+*Related: C-14077, C-14078, N-11009, N-11419*
 
 **A-3374.3** Labeled slideshow identifying Mikey McCoy, Nate Walker, Blake Gibson, Christopher Rhoades, Danny Philip, Blake Neff and Blake Harreff and the two-vehicle split
 
@@ -95,7 +95,7 @@ Video Timestamp: 00:12:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15175, C-15176, C-15177, N-190, N-504, N-955, N-953, N-367, N-159, N-897, N-11419*
+*Related: C-14079, C-14080, C-14081, N-190, N-504, N-955, N-953, N-367, N-159, N-897, N-11419*
 
 **A-3374.4** UVU videos of the group walking from behind the Hall of Flags across the employee lot to the admissions lot tree line
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:14:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15178, N-504, N-190, N-367, N-159, N-953*
+*Related: C-14082, N-504, N-190, N-367, N-159, N-953*
 
 **A-3374.5** UVU video of the group splitting into two white vehicles that pull away
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:16:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15179, N-190, N-159, N-367, N-11419*
+*Related: C-14083, N-190, N-159, N-367, N-11419*
 
 **A-3374.6** Still with the two cars circled: Mikey McCoy's car on the left, the security car on the right
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:44:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15228, C-15229, N-190, N-159, N-367, N-953, N-897, N-955, N-11419*
+*Related: C-14132, C-14133, N-190, N-159, N-367, N-953, N-897, N-955, N-11419*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:17:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15180, C-15181, N-1, N-5, N-11218, N-11208*
+*Related: C-14084, C-14085, N-1, N-5, N-11218, N-11208*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:29:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15197, C-15198, C-15199, C-15200, C-15201, N-7, N-11420, N-492, N-270, N-487, N-266*
+*Related: C-14101, C-14102, C-14103, C-14104, C-14105, N-7, N-11420, N-492, N-270, N-487, N-266*
 
 **A-3376.2** Excerpt the host reads on stopping the bleeding, switching to CPR, the empty emergency room and the pulse
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:31:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15202, C-15203, C-15207, C-15208, C-15209, C-15210, N-7, N-11420, N-10737*
+*Related: C-14106, C-14107, C-14111, C-14112, C-14113, C-14114, N-7, N-11420, N-10737*
 
 **A-3376.3** Excerpt the host reads on Turek embracing Dan Flood, the jurisdiction claim and Dan's text
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:36:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15213, C-15214, N-7, N-270, N-11420, N-10272*
+*Related: C-14117, C-14118, N-7, N-270, N-11420, N-10272*
 
 **A-3376.4** Excerpt the host reads on Mikey McCoy's arrival, the plane for Erika, the call with J.D. Vance and the surgeon announcing the death
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:37:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15217, C-15218, C-15219, N-7, N-190, N-2, N-4, N-11420*
+*Related: C-14121, C-14122, C-14123, N-7, N-190, N-2, N-4, N-11420*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:32:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15204, C-15205, C-15206, N-266, N-224, N-492, N-487, N-7, N-10681*
+*Related: C-14108, C-14109, C-14110, N-266, N-224, N-492, N-487, N-7, N-10681*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:46:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15231, N-2, N-10, N-1*
+*Related: C-14135, N-2, N-10, N-1*
 
 ---
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:45:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15230, N-159, N-2*
+*Related: C-14134, N-159, N-2*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:18:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15182, N-11419*
+*Related: C-14086, N-11419*
 
 **A-3380.2** Host verbal request for anyone who can connect her with Christopher Rhoades (more tips at candaceowens.com)
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:24:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15195, C-15237, N-953*
+*Related: C-14099, C-14141, N-953*
 
 **A-3380.3** Host verbal request for confirmation of the fire captain who performed CPR at Timpanogos (more tips@candaceowens.com)
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:41:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15226, C-15227, N-10874*
+*Related: C-14130, C-14131, N-10874*
 
 **A-3380.4** Host verbal merch plug inviting viewers to join the decentralized intelligence agency and crediting overseas sleuths, including in Latvia
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:52:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15235, C-15236, N-10886, N-10881*
+*Related: C-14139, C-14140, N-10886, N-10881*
 
 ---
 
@@ -278,360 +278,360 @@ Confidence Level: High
 
 Victim; subject of the car-ride, hospital and driver segments.
 
-*Related: C-15181, C-15191, C-15198, C-15202, C-15204, C-15231*
+*Related: C-14085, C-14095, C-14102, C-14106, C-14108, C-14135*
 
 **N-2** Erika Kirk
 
 Widow; Mikey McCoy's and the surgeon's calls to her are compared, and her AmFest "grift" slip is replayed.
 
-*Related: C-15157, C-15160, C-15217, C-15219, C-15220, C-15223, C-15231, C-15234*
+*Related: C-14061, C-14064, C-14121, C-14123, C-14124, C-14127, C-14135, C-14138*
 
 **N-3** Candace Owens
 
 Host.
 
-*Related: C-15153, C-15154, C-15195, C-15238*
+*Related: C-14057, C-14058, C-14099, C-14142*
 
 **N-4** JD Vance
 
 Turek's book says Mikey McCoy was on the phone with him from the hospital.
 
-*Related: C-15217*
+*Related: C-14121*
 
 **N-5** Donald Trump
 
 Fox 5 anchor in the played clip says he called Charlie instrumental to his reelection.
 
-*Related: C-15181*
+*Related: C-14085*
 
 **N-7** Frank Turek
 
 Author of "The War on Reality", whose account of the car ride and hospital the host reads and disputes.
 
-*Related: C-15197, C-15198, C-15202, C-15207, C-15213, C-15215, C-15217, C-15224*
+*Related: C-14101, C-14102, C-14106, C-14111, C-14117, C-14119, C-14121, C-14128*
 
 **N-10** Caleb Chilcutt
 
 UVU chapter president Erika Kirk introduced at AmFest 2025 in the replayed clip.
 
-*Related: C-15231*
+*Related: C-14135*
 
 **N-17** Rob McCoy
 
 Mikey McCoy's father, whom Blake Neff says Mikey called after the shooting.
 
-*Related: C-15158*
+*Related: C-14062*
 
 **N-58** Brandon Tatum
 
 Host of the show where the host says Turek changed when Dan Flood showed him the text.
 
-*Related: C-15215*
+*Related: C-14119*
 
 **N-146** Theo Von
 
 Host says her episode with him passed 2 million views.
 
-*Related: C-15233*
+*Related: C-14137*
 
 **N-159** Blake Neff
 
 Target of the episode's opening; his account of Mikey McCoy and his movements on September 10 are examined.
 
-*Related: C-15152, C-15153, C-15155, C-15157, C-15168, C-15170, C-15177, C-15220, C-15230*
+*Related: C-14056, C-14057, C-14059, C-14061, C-14072, C-14074, C-14081, C-14124, C-14134*
 
 **N-190** Mikey McCoy
 
 Charlie's chief of staff; his statement, his role as "general" and his federal escort to the hospital are examined.
 
-*Related: C-15157, C-15160, C-15161, C-15165, C-15167, C-15175, C-15177, C-15217, C-15221*
+*Related: C-14061, C-14064, C-14065, C-14069, C-14071, C-14079, C-14081, C-14121, C-14125*
 
 **N-224** Shawn Ryan
 
 Host of the show on which Brian Harpole gave the account the host plays (transcribed "Shawn Ryan").
 
-*Related: C-15204*
+*Related: C-14108*
 
 **N-277** Tim Dillon
 
 Host recommends him alongside Theo Von as someone to watch for a laugh.
 
-*Related: C-15233*
+*Related: C-14137*
 
 **N-266** Brian Harpole
 
 Security lead; his account of the ride is contrasted with Turek's book; host says Christopher Rhoades works with him and that he sued her.
 
-*Related: C-15193, C-15203, C-15204, C-15212, C-15238*
+*Related: C-14097, C-14107, C-14108, C-14116, C-14142*
 
 **N-270** Dan Flood
 
 Head of Charlie's security per Turek's book; the text he showed Turek is questioned.
 
-*Related: C-15200, C-15213, C-15214, C-15215*
+*Related: C-14104, C-14117, C-14118, C-14119*
 
 **N-271** Jeff Long
 
 UVU police chief the host thinks appears in the footage, and party to the text Dan Flood showed Turek.
 
-*Related: C-15171, C-15215*
+*Related: C-14075, C-14119*
 
 **N-341** Victor Marx
 
 Host says he had already posted that Charlie was dead before Mikey McCoy's group arrived.
 
-*Related: C-15222*
+*Related: C-14126*
 
 **N-367** Danny Philip
 
 Assistant who drove Blake Neff; walked to and rode in the first white vehicle.
 
-*Related: C-15155, C-15164, C-15168, C-15170, C-15176, C-15177, C-15190*
+*Related: C-14059, C-14068, C-14072, C-14074, C-14080, C-14081, C-14094*
 
 **N-487** Rick Cutler
 
 "Rick" in Turek's book and Harpole's account, in the back seat praying.
 
-*Related: C-15199, C-15205, C-15206*
+*Related: C-14103, C-14109, C-14110*
 
 **N-492** Justin Davis
 
 Drove the Lincoln Navigator per the host's map and drove the SUV to the hospital per Turek and Harpole.
 
-*Related: C-15164, C-15200, C-15205*
+*Related: C-14068, C-14104, C-14109*
 
 **N-504** Nate Walker
 
 Assistant who walked with the group and rode in the first white vehicle; host says he went to the rooftop with the driver before the shot.
 
-*Related: C-15170, C-15177, C-15178, C-15188, C-15190*
+*Related: C-14074, C-14081, C-14082, C-14092, C-14094*
 
 **N-595** Druski
 
 Host says Erika Kirk forgave the killer but not Druski.
 
-*Related: C-15234*
+*Related: C-14138*
 
 **N-897** Blake Harreff
 
 Security member (transcribed Harris, Harref, Haruff, Haroff) who rode in the second white vehicle and later returned in scrubs.
 
-*Related: C-15172, C-15177, C-15183, C-15186*
+*Related: C-14076, C-14081, C-14087, C-14090*
 
 **N-953** Christopher Rhoades
 
 First named by the host at 00:06:55 in episode 163 (as "Christopher", Charlie's driver), and identified in full at 00:23:19; the host spells the surname r-h-o-a-d-e-s. Not the same-named member of TPUSA's FRG security team.
 Aliases (transcript): Christopher Rhoades; Christopher Rhoades; Chris Rhoades.
 
-*Related: C-15163, C-15172, C-15187, C-15188, C-15191, C-15192, C-15193, C-15194, C-15195, C-15237*
+*Related: C-14067, C-14076, C-14091, C-14092, C-14095, C-14096, C-14097, C-14098, C-14099, C-14141*
 
 **N-954** Alex Faria
 
 First named by the host at 00:06:55 in episode 163 as the driver of the Jeep Wagoneer security vehicle.
 
-*Related: C-15163*
+*Related: C-14067*
 
 **N-955** Blake Gibson
 
 First named by the host at 00:11:07 in episode 163 as a security member who rode in the second white vehicle and later returned in scrubs.
 
-*Related: C-15172, C-15175, C-15177, C-15183, C-15186*
+*Related: C-14076, C-14079, C-14081, C-14087, C-14090*
 
 **N-956** La Fieta Assisi
 
 First named by the host at 00:07:45 in episode 163 as the ICAC officer who took Mikey McCoy's statement; the host says she goes by "Fia" and has since left her position. Spelling unconfirmed.
 Aliases (transcript): Fia Assisi.
 
-*Related: C-15166*
+*Related: C-14070*
 
 **N-10000** Turning Point USA
 
 Organization whose new FRG security team includes a same-named Christopher Rhoades.
 
-*Related: C-15192*
+*Related: C-14096*
 
 **N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)
 
 Blake Neff's account of Mikey McCoy's quivering lip and "general" role.
 
-*Related: C-15157, C-15159*
+*Related: C-14061, C-14063*
 
 **N-10338** Mikey McCoy Post-Shooting Phone Call Sequence
 
 Calls to Erika Kirk and Rob McCoy, and the call after the ICAC statement.
 
-*Related: C-15158, C-15167*
+*Related: C-14062, C-14071*
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
 
 Host on Harpole suing her instead of answering her text.
 
-*Related: C-15238*
+*Related: C-14142*
 
 **N-10683** Brian Harpole ER Story Plausibility
 
 Host recalls Harpole found the room and prepared Charlie for the defibrillator.
 
-*Related: C-15212*
+*Related: C-14116*
 
 **N-10694** Dan Flood Role and Behavior Assessment
 
 Turek's book on Dan Flood's limited jurisdiction.
 
-*Related: C-15213*
+*Related: C-14117*
 
 **N-10730** Frank Turek FaceTime Story Inconsistency
 
 Book says Turek's phone stayed live in his pocket with his son and daughter-in-law listening.
 
-*Related: C-15198*
+*Related: C-14102*
 
 **N-10821** Christopher Pre-Shot Location Anomaly
 
 Host says the driver went to the rooftop with Nate Walker just before the shot.
 
-*Related: C-15188*
+*Related: C-14092*
 
 **N-10840** UVU Ambulance Denial Discrepancy
 
 Book's ambulance heading away from the hospital mid-route.
 
-*Related: C-15201*
+*Related: C-14105*
 
 **N-11233** Mikey McCoy Identity and Family Ties Inquiry
 
 Mikey McCoy's age and 2023 promotion.
 
-*Related: C-15161*
+*Related: C-14065*
 
 **N-11356** Druski Skit Mocking Erika Kirk Controversy
 
 Host says Erika Kirk cannot forgive Druski.
 
-*Related: C-15234*
+*Related: C-14138*
 
 **N-10272** Harpole–Flood Text Attribution Discrepancy
 
 Turek's shifting account of when Dan Flood showed him the Chief Long text.
 
-*Related: C-15214, C-15215, C-15216*
+*Related: C-14118, C-14119, C-14120*
 
 **N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
 
 Host says she received a different tip about the necklace.
 
-*Related: C-15224, C-15225*
+*Related: C-14128, C-14129*
 
 **N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Harpole's Shawn Ryan account replayed here.
 
-*Related: C-15204*
+*Related: C-14108*
 
 **N-10715** Blake Neff September 10th Movement Discrepancy
 
 Host's questions about where Blake Neff and Danny Philip went before returning near 1:00 p.m.
 
-*Related: C-15155, C-15156, C-15168*
+*Related: C-14059, C-14060, C-14072*
 
 **N-10737** CPR Narrative Contradiction (Turek / Harpole)
 
 Book's "all three of us" bleeding-control and CPR lines vs Harpole's account.
 
-*Related: C-15202, C-15203, C-15207*
+*Related: C-14106, C-14107, C-14111*
 
 **N-10765** Timpanogos Hospital Evacuation Tip
 
 Host says it has been alleged the hospital was cleared a couple of hours before.
 
-*Related: C-15208, C-15211*
+*Related: C-14112, C-14115*
 
 **N-10839** Independent Review of UVU Security Failures
 
 Review the host says revealed a fire captain doing CPR.
 
-*Related: C-15210*
+*Related: C-14114*
 
 **N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 Host's search for the fire captain; down to two possibilities.
 
-*Related: C-15210, C-15226, C-15227*
+*Related: C-14114, C-14130, C-14131*
 
 **N-10881** Elephant Clipping Campaign
 
 Host's jab at Blake Neff's rant and at Turek's book title.
 
-*Related: C-15235*
+*Related: C-14139*
 
 **N-10886** Latvia
 
 Host credits Latvian sleuths for information on "the Latvian nerd".
 
-*Related: C-15235*
+*Related: C-14139*
 
 **N-11009** Hall of Flags Activity Question
 
 The group walk began from the employee lot behind the Hall of Flags.
 
-*Related: C-15173*
+*Related: C-14077*
 
 **N-11208** Timpanogos Hospital Group Arrival Question
 
 Fox 5 footage of the first group arriving about 1:10 p.m.
 
-*Related: C-15180, C-15181, C-15184*
+*Related: C-14084, C-14085, C-14088*
 
 **N-11218** Timpanogos Regional Hospital
 
 Destination of the first white vehicle.
 
-*Related: C-15180, C-15208*
+*Related: C-14084, C-14112*
 
 **N-11263** Utah Internet Crimes Against Children Task Force
 
 Unit of the officer who the host says took Mikey McCoy's statement.
 
-*Related: C-15165, C-15166*
+*Related: C-14069, C-14070*
 
 **N-11310** Security Team Timpanogos Scrubs Question
 
 Why Harreff and Gibson returned in scrubs and the driver did not.
 
-*Related: C-15186, C-15187, C-15189*
+*Related: C-14090, C-14091, C-14093*
 
 **N-11321** Kirk Security Team Name Identification
 
 Identification of Charlie's driver and the security members in the footage.
 
-*Related: C-15163, C-15172, C-15191*
+*Related: C-14067, C-14076, C-14095*
 
 **N-11419** Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)
 
 Node Type: Topic
 The host's account that, just before 1:00 p.m. on September 10, Mikey McCoy, Blake Neff, Danny Philip and Nate Walker, and separately security members Blake Harreff, Blake Gibson and driver Christopher Rhoades, were walked to a lineup of unmarked white vehicles near the UVU roundabout and driven off by what she describes as federal officers; the first car is seen arriving at Timpanogos about 1:10 p.m., and the destination of the second is unknown.
 
-*Related: C-15169, C-15174, C-15177, C-15179, C-15180, C-15182, C-15183, C-15184, C-15185, C-15228, C-15229, A-3374.2*
+*Related: C-14073, C-14078, C-14081, C-14083, C-14084, C-14086, C-14087, C-14088, C-14089, C-14132, C-14133, A-3374.2*
 
 **N-11420** Frank Turek "The War on Reality" Book Account
 
 Node Type: Topic
 Frank Turek's book, which the host says was published on September 8, 2026, and whose account of the car ride, CPR, Dan Flood's jurisdiction and the surgeon's announcement she compares with Brian Harpole's and Blake Neff's accounts.
 
-*Related: C-15197, C-15198, C-15202, C-15207, C-15213, C-15217, A-3376.1*
+*Related: C-14101, C-14102, C-14106, C-14111, C-14117, C-14121, A-3376.1*
 
 **N-11421** FRG Security
 
 Node Type: Organization
 Security firm the host describes as Turning Point USA's new security team, which employs a different man named Christopher Rhoades.
 
-*Related: C-15192*
+*Related: C-14096*
 
 ---
 
 ## 5. Claim Register
 
-**C-15152** Host Says Blake Neff's Rant Insisted She Hates White Women
+**C-14056** Host Says Blake Neff's Rant Insisted She Hates White Women
 
 Claim Timestamp: 00:00:22
 
@@ -647,7 +647,7 @@ Investigative Direction: Recording of the Blake Neff X space from the day before
 
 ---
 
-**C-15153** Host Says Neff Called Her Wretched, Nasty and Illiterate
+**C-14057** Host Says Neff Called Her Wretched, Nasty and Illiterate
 
 Claim Timestamp: 00:01:45
 
@@ -663,7 +663,7 @@ Investigative Direction: The X space recording and Blake Neff's subsequent X pos
 
 ---
 
-**C-15154** Host Says She Is 9 Months Pregnant
+**C-14058** Host Says She Is 9 Months Pregnant
 
 Claim Timestamp: 00:02:05
 
@@ -679,7 +679,7 @@ Investigative Direction: Host's later birth announcement.
 
 ---
 
-**C-15155** Host Questions Why Danny Philip Drove Neff Like an Uber With Neff in the Back Seat
+**C-14059** Host Questions Why Danny Philip Drove Neff Like an Uber With Neff in the Back Seat
 
 Claim Timestamp: 00:02:45
 
@@ -690,13 +690,13 @@ Transcript Snippet: why was Danny Philip driving Blake like he was in an Uber ri
 Anchored Artifacts:
 Mentions: N-159, N-367
 Related Nodes: N-10715
-Supports: C-14812
+Supports: C-12665
 Tags: relevance:core
 Investigative Direction: Rental records for the second Denali and Neff's own account of his travel that day.
 
 ---
 
-**C-15156** Host Asks Why Neff and Philip Did Not Drive Straight to the Hospital
+**C-14060** Host Asks Why Neff and Philip Did Not Drive Straight to the Hospital
 
 Claim Timestamp: 00:03:00
 
@@ -712,7 +712,7 @@ Investigative Direction: UVU footage and phone location data for Neff and Philip
 
 ---
 
-**C-15157** In Neff's Clip, Mikey McCoy's Lip Quivered and He Called Erika Within a Minute
+**C-14061** In Neff's Clip, Mikey McCoy's Lip Quivered and He Called Erika Within a Minute
 
 Claim Timestamp: 00:03:52
 
@@ -723,13 +723,13 @@ Transcript Snippet: What I'll always remember is the way his lip was quivering, 
 Anchored Artifacts: A-3372.1
 Mentions: N-159, N-190, N-2
 Related Nodes: N-10198
-Supports: C-3390
+Supports: C-12691
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log for September 10 (time of first call to Erika Kirk).
 
 ---
 
-**C-15158** In Neff's Clip, Mikey McCoy Called His Father Rob McCoy to Rally Pastors
+**C-14062** In Neff's Clip, Mikey McCoy Called His Father Rob McCoy to Rally Pastors
 
 Claim Timestamp: 00:04:40
 
@@ -745,7 +745,7 @@ Investigative Direction: Mikey McCoy's and Rob McCoy's call records for Septembe
 
 ---
 
-**C-15159** In Neff's Clip, Mikey Became "Like a General" Directing People to the Hospital
+**C-14063** In Neff's Clip, Mikey Became "Like a General" Directing People to the Hospital
 
 Claim Timestamp: 00:05:08
 
@@ -761,7 +761,7 @@ Investigative Direction: UVU scene footage of Mikey McCoy after the shooting.
 
 ---
 
-**C-15160** In Neff's Clip, Mikey Said Erika Would Hear the News Only From Him
+**C-14064** In Neff's Clip, Mikey Said Erika Would Hear the News Only From Him
 
 Claim Timestamp: 00:05:31
 
@@ -777,7 +777,7 @@ Investigative Direction: Erika Kirk's call log showing who told her of the death
 
 ---
 
-**C-15161** Host Says Mikey McCoy Is in His Early 20s and Became Chief of Staff in 2023
+**C-14065** Host Says Mikey McCoy Is in His Early 20s and Became Chief of Staff in 2023
 
 Claim Timestamp: 00:05:45
 
@@ -793,7 +793,7 @@ Investigative Direction: TPUSA staff announcements and Mikey McCoy's public bio.
 
 ---
 
-**C-15162** Host Says the Team Had Three More Black Rental SUVs Available
+**C-14066** Host Says the Team Had Three More Black Rental SUVs Available
 
 Claim Timestamp: 00:06:45
 
@@ -809,7 +809,7 @@ Investigative Direction: Rental agreements for the TPUSA vehicles at UVU on Sept
 
 ---
 
-**C-15163** Host Says Christopher Drove the Departed Denali and Alex Faria the Jeep Wagoneer
+**C-14067** Host Says Christopher Drove the Departed Denali and Alex Faria the Jeep Wagoneer
 
 Claim Timestamp: 00:06:55
 
@@ -825,7 +825,7 @@ Investigative Direction: Rental and driver assignment records for the security v
 
 ---
 
-**C-15164** Host Says Justin Davis Drove the Navigator and Danny Philip the Second Denali
+**C-14068** Host Says Justin Davis Drove the Navigator and Danny Philip the Second Denali
 
 Claim Timestamp: 00:07:06
 
@@ -841,7 +841,7 @@ Investigative Direction: Rental and driver assignment records for the TPUSA vehi
 
 ---
 
-**C-15165** Host Says Mikey McCoy Gave a Statement to a Woman From ICAC
+**C-14069** Host Says Mikey McCoy Gave a Statement to a Woman From ICAC
 
 Claim Timestamp: 00:07:25
 
@@ -852,13 +852,13 @@ Transcript Snippet: He actually gave an interview, a statement of sorts to a wom
 Anchored Artifacts:
 Mentions: N-190
 Related Nodes: N-11263
-Supports: C-3452
+Supports: C-13115
 Tags: relevance:core
 Investigative Direction: Utah ICAC Task Force records and the statement itself.
 
 ---
 
-**C-15166** Host Names the ICAC Officer and Says She Has Left Her Position
+**C-14070** Host Names the ICAC Officer and Says She Has Left Her Position
 
 Claim Timestamp: 00:07:45
 
@@ -874,7 +874,7 @@ Investigative Direction: Utah ICAC Task Force personnel roster and separation re
 
 ---
 
-**C-15167** Host Says Mikey Got Into an SUV After the Interview, Presumably to Make a Call
+**C-14071** Host Says Mikey Got Into an SUV After the Interview, Presumably to Make a Call
 
 Claim Timestamp: 00:08:00
 
@@ -890,7 +890,7 @@ Investigative Direction: Mikey McCoy's call log for the period after the ICAC st
 
 ---
 
-**C-15168** Host Says Neff and Philip Reappeared at the Scene Just Before 1:00 p.m.
+**C-14072** Host Says Neff and Philip Reappeared at the Scene Just Before 1:00 p.m.
 
 Claim Timestamp: 00:09:05
 
@@ -906,7 +906,7 @@ Investigative Direction: Time-stamped UVU footage of Neff and Philip between the
 
 ---
 
-**C-15169** Host Says the Group Was Escorted by Apparent Federal Officers Into Different Vehicles
+**C-14073** Host Says the Group Was Escorted by Apparent Federal Officers Into Different Vehicles
 
 Claim Timestamp: 00:09:38
 
@@ -922,7 +922,7 @@ Investigative Direction: Identity of the agencies and drivers of the white vehic
 
 ---
 
-**C-15170** Footage Shows Neff Returning to the Scene With Danny Philip and Nate Walker
+**C-14074** Footage Shows Neff Returning to the Scene With Danny Philip and Nate Walker
 
 Claim Timestamp: 00:10:00
 
@@ -938,7 +938,7 @@ Investigative Direction: Original unenhanced UVU footage and its time code.
 
 ---
 
-**C-15171** Host Says the Officer With Them Might Be Chief Jeff Long
+**C-14075** Host Says the Officer With Them Might Be Chief Jeff Long
 
 Claim Timestamp: 00:10:40
 
@@ -954,7 +954,7 @@ Investigative Direction: UVU police records of Chief Long's location near 1:00 p
 
 ---
 
-**C-15172** Host Says Neff, Philip, Walker, Harreff, Gibson and the Driver Walked Toward the Back Lot
+**C-14076** Host Says Neff, Philip, Walker, Harreff, Gibson and the Driver Walked Toward the Back Lot
 
 Claim Timestamp: 00:11:07
 
@@ -970,7 +970,7 @@ Investigative Direction: UVU footage of the employee lot near 1:00 p.m.
 
 ---
 
-**C-15173** Host Says the Walk Began From an Employee Lot Behind the Hall of Flags
+**C-14077** Host Says the Walk Began From an Employee Lot Behind the Hall of Flags
 
 Claim Timestamp: 00:11:22
 
@@ -986,7 +986,7 @@ Investigative Direction: UVU campus map and lot camera footage.
 
 ---
 
-**C-15174** Host Says Unmarked White Vehicles Are a Federal Officer Practice
+**C-14078** Host Says Unmarked White Vehicles Are a Federal Officer Practice
 
 Claim Timestamp: 00:11:40
 
@@ -1002,7 +1002,7 @@ Investigative Direction: Registration of the white vehicles parked at the UVU ro
 
 ---
 
-**C-15175** Slideshow Identifies Mikey McCoy, Nate Walker, Blake Gibson and Chris Rhoades
+**C-14079** Slideshow Identifies Mikey McCoy, Nate Walker, Blake Gibson and Chris Rhoades
 
 Claim Timestamp: 00:12:52
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Original footage frames behind the slideshow labels.
 
 ---
 
-**C-15176** Host Says Danny Philip Is Identifiable by His Backpack
+**C-14080** Host Says Danny Philip Is Identifiable by His Backpack
 
 Claim Timestamp: 00:13:13
 
@@ -1029,13 +1029,13 @@ Transcript Snippet: That is Danny, very easily identified because of his his bac
 Anchored Artifacts: A-3374.3
 Mentions: N-367
 Related Nodes:
-Supports: C-7645
+Supports: C-12588
 Tags: relevance:core
 Investigative Direction: Compare with earlier UVU footage of Danny Philip's backpack.
 
 ---
 
-**C-15177** Host Says the Group Split Into Two White Vehicles Driven by Officers
+**C-14081** Host Says the Group Split Into Two White Vehicles Driven by Officers
 
 Claim Timestamp: 00:13:50
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Identity of the officers driving each white vehicle.
 
 ---
 
-**C-15178** Footage Shows Nate Walker Run Up to Mikey, Who Puts an Arm Around Him
+**C-14082** Footage Shows Nate Walker Run Up to Mikey, Who Puts an Arm Around Him
 
 Claim Timestamp: 00:14:58
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Original UVU employee-lot footage.
 
 ---
 
-**C-15179** Footage Shows Mikey, Neff and Philip Getting Into a White Vehicle With a Federal Officer
+**C-14083** Footage Shows Mikey, Neff and Philip Getting Into a White Vehicle With a Federal Officer
 
 Claim Timestamp: 00:16:05
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Roundabout camera footage and vehicle plates.
 
 ---
 
-**C-15180** Host Says Local News Caught the First Group Arriving at Timpanogos About 1:10 p.m.
+**C-14084** Host Says Local News Caught the First Group Arriving at Timpanogos About 1:10 p.m.
 
 Claim Timestamp: 00:17:37
 
@@ -1094,13 +1094,13 @@ Transcript Snippet: we can confirm that they went straight to Timpanogos Hospita
 Anchored Artifacts: A-3375.1
 Mentions: N-190, N-159, N-504, N-367
 Related Nodes: N-11218, N-11208, N-11419
-Supports: C-14825
+Supports: C-12686
 Tags: relevance:core
 Investigative Direction: Fox 5 Atlanta raw feed time code.
 
 ---
 
-**C-15181** Fox 5 Clip Says Kirk's Representatives Confirmed He Was Shot and Treated at the Hospital
+**C-14085** Fox 5 Clip Says Kirk's Representatives Confirmed He Was Shot and Treated at the Hospital
 
 Claim Timestamp: 00:18:15
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Fox 5 Atlanta broadcast archive for September 10.
 
 ---
 
-**C-15182** Host Asks for Tips Identifying the Officer Who Drove the Group to Timpanogos
+**C-14086** Host Asks for Tips Identifying the Officer Who Drove the Group to Timpanogos
 
 Claim Timestamp: 00:18:25
 
@@ -1132,7 +1132,7 @@ Investigative Direction: Tip responses; agency assignment records for Timpanogos
 
 ---
 
-**C-15183** Host Asks Where the Second Car With the Security Members Went
+**C-14087** Host Asks Where the Second Car With the Security Members Went
 
 Claim Timestamp: 00:18:46
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Security members' own accounts and phone location data 
 
 ---
 
-**C-15184** Host Says the Security Members Are Not Seen Arriving at the Hospital
+**C-14088** Host Says the Security Members Are Not Seen Arriving at the Hospital
 
 Claim Timestamp: 00:19:22
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Timpanogos entrance footage after 1:10 p.m.
 
 ---
 
-**C-15185** Host Says the Security Members' Rental Cars Were Left at UVU
+**C-14089** Host Says the Security Members' Rental Cars Were Left at UVU
 
 Claim Timestamp: 00:19:40
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Rental return records and UVU impound or evidence logs.
 
 ---
 
-**C-15186** Host Says Harreff and Gibson Returned Wearing Scrubs That Evening
+**C-14090** Host Says Harreff and Gibson Returned Wearing Scrubs That Evening
 
 Claim Timestamp: 00:20:12
 
@@ -1191,13 +1191,13 @@ Transcript Snippet: Remember Blake Harreff um and Blake Gibson are going to come
 Anchored Artifacts:
 Mentions: N-897, N-955
 Related Nodes: N-11310
-Supports: C-3552
+Supports: C-12881
 Tags: relevance:core
 Investigative Direction: Evening UVU footage and Timpanogos scrubs issue records.
 
 ---
 
-**C-15187** Host Says Christopher Rhoades Did Not Change Into Scrubs
+**C-14091** Host Says Christopher Rhoades Did Not Change Into Scrubs
 
 Claim Timestamp: 00:20:29
 
@@ -1213,7 +1213,7 @@ Investigative Direction: Evening UVU footage of Christopher Rhoades.
 
 ---
 
-**C-15188** Host Says Rhoades Went to the Rooftop With Nate Walker Just Before the Shot
+**C-14092** Host Says Rhoades Went to the Rooftop With Nate Walker Just Before the Shot
 
 Claim Timestamp: 00:20:33
 
@@ -1224,13 +1224,13 @@ Transcript Snippet: Christopher Rhoades, as we know, is the one who mysteriously
 Anchored Artifacts:
 Mentions: N-953, N-504
 Related Nodes: N-10821
-Supports: C-3369
+Supports: C-12672
 Tags: relevance:core
 Investigative Direction: Sorensen building rooftop access logs and footage before 12:23 p.m.
 
 ---
 
-**C-15189** Host Wonders Whether the Scrubs Came From Federal Officers Rather Than Hospital Staff
+**C-14093** Host Wonders Whether the Scrubs Came From Federal Officers Rather Than Hospital Staff
 
 Claim Timestamp: 00:20:50
 
@@ -1246,7 +1246,7 @@ Investigative Direction: Timpanogos supply records for scrubs issued on Septembe
 
 ---
 
-**C-15190** Host Says Nate Walker Had Just Started and Danny Philip Started in May
+**C-14094** Host Says Nate Walker Had Just Started and Danny Philip Started in May
 
 Claim Timestamp: 00:21:40
 
@@ -1262,7 +1262,7 @@ Investigative Direction: TPUSA employment start dates for Walker and Philip.
 
 ---
 
-**C-15191** Host Says Her Team Identified Charlie's Driver as Christopher Rhoades
+**C-14095** Host Says Her Team Identified Charlie's Driver as Christopher Rhoades
 
 Claim Timestamp: 00:23:19
 
@@ -1278,7 +1278,7 @@ Investigative Direction: Rental agreements and security-contractor rosters for S
 
 ---
 
-**C-15192** Host Says a Different Christopher Rhoades Works for TPUSA's New FRG Security Team
+**C-14096** Host Says a Different Christopher Rhoades Works for TPUSA's New FRG Security Team
 
 Claim Timestamp: 00:23:28
 
@@ -1294,7 +1294,7 @@ Investigative Direction: FRG security staff listing.
 
 ---
 
-**C-15193** Host Says Rhoades Appears to Be From Texas and Works With Brian Harpole
+**C-14097** Host Says Rhoades Appears to Be From Texas and Works With Brian Harpole
 
 Claim Timestamp: 00:23:45
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Texas private-security licensing records and Harpole's 
 
 ---
 
-**C-15194** Host Says Rhoades Was the Hardest Person the Show Has Tried to Identify
+**C-14098** Host Says Rhoades Was the Hardest Person the Show Has Tried to Identify
 
 Claim Timestamp: 00:24:00
 
@@ -1326,7 +1326,7 @@ Investigative Direction: Public records searches for Christopher Rhoades in priv
 
 ---
 
-**C-15195** Host Asks for Tips Connecting Her With Christopher Rhoades
+**C-14099** Host Asks for Tips Connecting Her With Christopher Rhoades
 
 Claim Timestamp: 00:24:26
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Tip responses.
 
 ---
 
-**C-15196** Host Says She Can Verify the Group Was Not Rushing to the Hospital
+**C-14100** Host Says She Can Verify the Group Was Not Rushing to the Hospital
 
 Claim Timestamp: 00:24:40
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Timeline from the shot to the 1:10 p.m. hospital arriva
 
 ---
 
-**C-15197** Host Says Frank Turek Published "The War on Reality" on September 8, 2026
+**C-14101** Host Says Frank Turek Published "The War on Reality" on September 8, 2026
 
 Claim Timestamp: 00:28:18
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Publisher listing and publication date of the book.
 
 ---
 
-**C-15198** Turek's Book Says His Son and Daughter-in-Law Heard Everything Live on His Phone
+**C-14102** Turek's Book Says His Son and Daughter-in-Law Heard Everything Live on His Phone
 
 Claim Timestamp: 00:29:28
 
@@ -1390,7 +1390,7 @@ Investigative Direction: Turek's call records for September 10.
 
 ---
 
-**C-15199** Turek's Book Names Charlie's Security in the SUV as Justin, Dan, Brian and Rick
+**C-14103** Turek's Book Names Charlie's Security in the SUV as Justin, Dan, Brian and Rick
 
 Claim Timestamp: 00:29:45
 
@@ -1406,7 +1406,7 @@ Investigative Direction: Compare with Harpole's and the independent review's lis
 
 ---
 
-**C-15200** Turek's Book Puts Justin Driving and Dan in the Passenger Seat With Directions
+**C-14104** Turek's Book Puts Justin Driving and Dan in the Passenger Seat With Directions
 
 Claim Timestamp: 00:30:00
 
@@ -1422,7 +1422,7 @@ Investigative Direction: Footage of the SUV departure and arrival at Timpanogos.
 
 ---
 
-**C-15201** Turek's Book Says an Ambulance Passed Them Heading Away From the Hospital
+**C-14105** Turek's Book Says an Ambulance Passed Them Heading Away From the Hospital
 
 Claim Timestamp: 00:30:35
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Orem/Provo EMS dispatch logs for ambulances en route to
 
 ---
 
-**C-15202** Turek's Book Says All Three in the Back Tried to Stop the Bleeding
+**C-14106** Turek's Book Says All Three in the Back Tried to Stop the Bleeding
 
 Claim Timestamp: 00:31:00
 
@@ -1454,7 +1454,7 @@ Investigative Direction: Turek's earlier interviews on the ride; Harpole's accou
 
 ---
 
-**C-15203** Host Says the Book Contradicts Harpole's Account That Only He Worked on the Wound
+**C-14107** Host Says the Book Contradicts Harpole's Account That Only He Worked on the Wound
 
 Claim Timestamp: 00:31:25
 
@@ -1465,13 +1465,13 @@ Transcript Snippet: this is actually, I would say, in stark contrast to Brian Ha
 Anchored Artifacts: A-3376.2
 Mentions: N-266, N-7
 Related Nodes: N-10737
-Supports: C-7259
+Supports: C-10672
 Tags: relevance:core
 Investigative Direction: Side-by-side of Harpole's Shawn Ryan account and the book text.
 
 ---
 
-**C-15204** In Harpole's Clip, Charlie's Leg Kept the Door From Closing as He Did the Medical
+**C-14108** In Harpole's Clip, Charlie's Leg Kept the Door From Closing as He Did the Medical
 
 Claim Timestamp: 00:32:33
 
@@ -1487,7 +1487,7 @@ Investigative Direction: Shawn Ryan Show full interview.
 
 ---
 
-**C-15205** In Harpole's Clip, Justin Drove 60 to 100 and Rick Held Him
+**C-14109** In Harpole's Clip, Justin Drove 60 to 100 and Rick Held Him
 
 Claim Timestamp: 00:32:50
 
@@ -1503,7 +1503,7 @@ Investigative Direction: Traffic camera or vehicle telematics for the route to T
 
 ---
 
-**C-15206** In Harpole's Clip, Frank and Rick Were Praying While He Worked
+**C-14110** In Harpole's Clip, Frank and Rick Were Praying While He Worked
 
 Claim Timestamp: 00:33:16
 
@@ -1519,7 +1519,7 @@ Investigative Direction: Rick Cutler's own account of the ride.
 
 ---
 
-**C-15207** Turek's Book Says He Switched to CPR
+**C-14111** Turek's Book Says He Switched to CPR
 
 Claim Timestamp: 00:33:58
 
@@ -1530,13 +1530,13 @@ Transcript Snippet: All three of us were in the back are are still trying to sto
 Anchored Artifacts: A-3376.2
 Mentions: N-7, N-266
 Related Nodes: N-11420, N-10737
-Supports: C-3546
+Supports: C-12858
 Tags: relevance:core
 Investigative Direction: Timpanogos intake notes on CPR in progress at arrival.
 
 ---
 
-**C-15208** Turek's Book Describes an Apparently Empty Emergency Room
+**C-14112** Turek's Book Describes an Apparently Empty Emergency Room
 
 Claim Timestamp: 00:34:25
 
@@ -1552,7 +1552,7 @@ Investigative Direction: Timpanogos ER census and staffing for September 10.
 
 ---
 
-**C-15209** Turek's Book Says the Medical Team Got a Pulse and Rushed Him to an OR
+**C-14113** Turek's Book Says the Medical Team Got a Pulse and Rushed Him to an OR
 
 Claim Timestamp: 00:34:38
 
@@ -1568,7 +1568,7 @@ Investigative Direction: Timpanogos medical record of return of pulse.
 
 ---
 
-**C-15210** Host Says the Book Omits the Fire Captain Who Did CPR Per the Independent Review
+**C-14114** Host Says the Book Omits the Fire Captain Who Did CPR Per the Independent Review
 
 Claim Timestamp: 00:34:52
 
@@ -1579,13 +1579,13 @@ Transcript Snippet: You had no recall or mention of a fire captain doing CPR, wh
 Anchored Artifacts: A-3376.2
 Mentions: N-7
 Related Nodes: N-10874, N-10839
-Supports: C-3623
+Supports: C-13853
 Tags: relevance:core
 Investigative Direction: Independent review's fire-captain passage and the fire department's run report.
 
 ---
 
-**C-15211** Host Says It Is Alleged Timpanogos Was Cleared Out Hours Before
+**C-14115** Host Says It Is Alleged Timpanogos Was Cleared Out Hours Before
 
 Claim Timestamp: 00:35:05
 
@@ -1601,7 +1601,7 @@ Investigative Direction: Timpanogos patient-transfer and diversion records for S
 
 ---
 
-**C-15212** Host Recalls Harpole Found the Room, Cut the Shirt and Readied the Defibrillator
+**C-14116** Host Recalls Harpole Found the Room, Cut the Shirt and Readied the Defibrillator
 
 Claim Timestamp: 00:35:50
 
@@ -1612,13 +1612,13 @@ Transcript Snippet: I remember learning that that was actually what Brian did. T
 Anchored Artifacts:
 Mentions: N-266
 Related Nodes: N-10683
-Supports: C-9232
+Supports: C-13856
 Tags: relevance:core
 Investigative Direction: Timpanogos staff accounts of who moved Charlie to the trauma room.
 
 ---
 
-**C-15213** Turek's Book Says Dan Flood's Team Only Had Jurisdiction Over Charlie's Immediate Area
+**C-14117** Turek's Book Says Dan Flood's Team Only Had Jurisdiction Over Charlie's Immediate Area
 
 Claim Timestamp: 00:36:15
 
@@ -1634,7 +1634,7 @@ Investigative Direction: TPUSA–UVU security agreement and the independent revi
 
 ---
 
-**C-15214** Turek's Book Says Local Police Were to Secure Rooftops and Dan Later Showed Him a Text
+**C-14118** Turek's Book Says Local Police Were to Secure Rooftops and Dan Later Showed Him a Text
 
 Claim Timestamp: 00:36:40
 
@@ -1650,7 +1650,7 @@ Investigative Direction: Full Flood–Long text thread from September 8–10.
 
 ---
 
-**C-15215** Host Says Turek Told Tatum Dan Showed Him the Text at the Hospital, Then a Couple of Days Later
+**C-14119** Host Says Turek Told Tatum Dan Showed Him the Text at the Hospital, Then a Couple of Days Later
 
 Claim Timestamp: 00:37:10
 
@@ -1666,7 +1666,7 @@ Investigative Direction: Full Brandon Tatum interview with Turek.
 
 ---
 
-**C-15216** Host Says No One at the Hospital Could Yet Have Known the Shot Came From a Rooftop
+**C-14120** Host Says No One at the Hospital Could Yet Have Known the Shot Came From a Rooftop
 
 Claim Timestamp: 00:37:25
 
@@ -1682,7 +1682,7 @@ Investigative Direction: Time stamp of the first law-enforcement statement on th
 
 ---
 
-**C-15217** Turek's Book Says Mikey Had Sent a Plane for Erika and Was on the Phone With J.D. Vance
+**C-14121** Turek's Book Says Mikey Had Sent a Plane for Erika and Was on the Phone With J.D. Vance
 
 Claim Timestamp: 00:37:58
 
@@ -1693,13 +1693,13 @@ Transcript Snippet: Mikey has already sent a plane to get Erika and is on the ph
 Anchored Artifacts: A-3376.4
 Mentions: N-7, N-190, N-2, N-4
 Related Nodes: N-11420
-Supports: C-9041
+Supports: C-11393
 Tags: relevance:core
 Investigative Direction: Mikey McCoy's call log and the charter record for Erika Kirk's flight.
 
 ---
 
-**C-15218** Turek's Book Says the Surgeon Announced the Death About 30 Minutes After Arrival
+**C-14122** Turek's Book Says the Surgeon Announced the Death About 30 Minutes After Arrival
 
 Claim Timestamp: 00:38:08
 
@@ -1715,7 +1715,7 @@ Investigative Direction: Time of death in the Timpanogos record.
 
 ---
 
-**C-15219** Turek's Book Says the Surgeon Demanded to Talk to Erika on the Phone
+**C-14123** Turek's Book Says the Surgeon Demanded to Talk to Erika on the Phone
 
 Claim Timestamp: 00:38:25
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Erika Kirk's call log for the call from the hospital.
 
 ---
 
-**C-15220** Host Says Turek's Account Conflicts With Neff's of Mikey Telling Erika
+**C-14124** Host Says Turek's Account Conflicts With Neff's of Mikey Telling Erika
 
 Claim Timestamp: 00:38:35
 
@@ -1747,7 +1747,7 @@ Investigative Direction: Erika Kirk's own account of who told her.
 
 ---
 
-**C-15221** Host Says by Her Timeline Mikey Was Not Present for the Surgeon's Announcement
+**C-14125** Host Says by Her Timeline Mikey Was Not Present for the Surgeon's Announcement
 
 Claim Timestamp: 00:39:00
 
@@ -1763,7 +1763,7 @@ Investigative Direction: Time of the surgeon's announcement vs the 1:10 p.m. arr
 
 ---
 
-**C-15222** Host Says Victor Marx Had Already Posted That Charlie Was Dead
+**C-14126** Host Says Victor Marx Had Already Posted That Charlie Was Dead
 
 Claim Timestamp: 00:39:15
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Time stamp of Victor Marx's post.
 
 ---
 
-**C-15223** Host Says She Was Told the Surgeon Called Erika With the News
+**C-14127** Host Says She Was Told the Surgeon Called Erika With the News
 
 Claim Timestamp: 00:39:40
 
@@ -1795,7 +1795,7 @@ Investigative Direction: Surgeon's and Erika Kirk's call records.
 
 ---
 
-**C-15224** Host Says Turek Said He Told the Feds He Would Take Charlie's Necklace From the Car
+**C-14128** Host Says Turek Said He Told the Feds He Would Take Charlie's Necklace From the Car
 
 Claim Timestamp: 00:40:55
 
@@ -1806,13 +1806,13 @@ Transcript Snippet: Frank then tells the story that he's the one who told the fe
 Anchored Artifacts:
 Mentions: N-7, N-1
 Related Nodes: N-10537
-Supports: C-11760
+Supports: C-13006
 Tags: relevance:core
 Investigative Direction: FBI evidence log for the SUV contents.
 
 ---
 
-**C-15225** Host Says a Tip Gives a Different Version of the Necklace Events at the Hospital
+**C-14129** Host Says a Tip Gives a Different Version of the Necklace Events at the Hospital
 
 Claim Timestamp: 00:41:00
 
@@ -1828,7 +1828,7 @@ Investigative Direction: The tip and any corroborating hospital accounts.
 
 ---
 
-**C-15226** Host Asks for Tips on the Fire Captain Who Did CPR at Timpanogos
+**C-14130** Host Asks for Tips on the Fire Captain Who Did CPR at Timpanogos
 
 Claim Timestamp: 00:41:25
 
@@ -1839,13 +1839,13 @@ Transcript Snippet: if you know who the fire chief was, the fire captain, pardon
 Anchored Artifacts: A-3380.3
 Mentions: N-1
 Related Nodes: N-10874
-Supports: C-9235
+Supports: C-13861
 Tags: relevance:core
 Investigative Direction: Tip responses; fire department run reports for Station 2.
 
 ---
 
-**C-15227** Host Says Her Team Is Down to Two Possibilities for the Fire Captain
+**C-14131** Host Says Her Team Is Down to Two Possibilities for the Fire Captain
 
 Claim Timestamp: 00:42:00
 
@@ -1861,7 +1861,7 @@ Investigative Direction: Station 2 shift roster for September 10.
 
 ---
 
-**C-15228** Still Shows Mikey, Neff and Philip's Car on the Left, Escorted by an Officer
+**C-14132** Still Shows Mikey, Neff and Philip's Car on the Left, Escorted by an Officer
 
 Claim Timestamp: 00:44:25
 
@@ -1877,7 +1877,7 @@ Investigative Direction: Roundabout footage and plate lookups.
 
 ---
 
-**C-15229** Host Says the Security Car Went Around the Roundabout the Opposite Way
+**C-14133** Host Says the Security Car Went Around the Roundabout the Opposite Way
 
 Claim Timestamp: 00:44:55
 
@@ -1893,7 +1893,7 @@ Investigative Direction: Campus exit camera footage for the second white vehicle
 
 ---
 
-**C-15230** A Viewer Comment Lists Slips by Andrew, Erika and Blake
+**C-14134** A Viewer Comment Lists Slips by Andrew, Erika and Blake
 
 Claim Timestamp: 00:46:00
 
@@ -1909,7 +1909,7 @@ Investigative Direction: Source clips of each slip.
 
 ---
 
-**C-15231** Clip Shows Erika Kirk Saying "Grift" When Introducing Caleb Chilcutt at AmFest 2025
+**C-14135** Clip Shows Erika Kirk Saying "Grift" When Introducing Caleb Chilcutt at AmFest 2025
 
 Claim Timestamp: 00:46:45
 
@@ -1925,7 +1925,7 @@ Investigative Direction: Full AmFest 2025 video.
 
 ---
 
-**C-15232** Host Says She Remains Grateful to the Audience on Episode 400
+**C-14136** Host Says She Remains Grateful to the Audience on Episode 400
 
 Claim Timestamp: 00:47:31
 
@@ -1941,7 +1941,7 @@ Investigative Direction: Later episode announcements.
 
 ---
 
-**C-15233** Host Says Her Theo Von Episode Passed 2 Million Views in 2 Days
+**C-14137** Host Says Her Theo Von Episode Passed 2 Million Views in 2 Days
 
 Claim Timestamp: 00:48:03
 
@@ -1957,7 +1957,7 @@ Investigative Direction: YouTube view count for the episode.
 
 ---
 
-**C-15234** Host Says Erika Forgave the Killer but Cannot Forgive Druski
+**C-14138** Host Says Erika Forgave the Killer but Cannot Forgive Druski
 
 Claim Timestamp: 00:50:55
 
@@ -1973,7 +1973,7 @@ Investigative Direction: Erika Kirk's public statements on the killer and on Dru
 
 ---
 
-**C-15235** Host Says Latvian Sleuths Sent Her Background on "the Latvian Nerd"
+**C-14139** Host Says Latvian Sleuths Sent Her Background on "the Latvian Nerd"
 
 Claim Timestamp: 00:52:55
 
@@ -1989,7 +1989,7 @@ Investigative Direction: The Latvian tips and public records on the person.
 
 ---
 
-**C-15236** Host Invites Viewers to Join the Decentralized Intelligence Agency via Merch
+**C-14140** Host Invites Viewers to Join the Decentralized Intelligence Agency via Merch
 
 Claim Timestamp: 00:53:26
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Merch store listing.
 
 ---
 
-**C-15237** Host Repeats She Wants Information on Christopher Rhoades
+**C-14141** Host Repeats She Wants Information on Christopher Rhoades
 
 Claim Timestamp: 00:54:03
 
@@ -2021,7 +2021,7 @@ Investigative Direction: Tip responses.
 
 ---
 
-**C-15238** Host Says Harpole Sued Instead of Answering Her Text
+**C-14142** Host Says Harpole Sued Instead of Answering Her Text
 
 Claim Timestamp: 00:54:35
 
@@ -2208,10 +2208,10 @@ Confidence: high
 - Unresolved name: "Alex Faria" (00:06:35) kept as transcribed (N-954); the transcript reads "Alex Faria, yeah, flood", possibly a garbled "and Dan Flood", so the vehicle–driver pairing is Medium confidence.
 - Host misspeak: at 00:09:59 she says "Danny McCoy" and corrects herself to Danny Philip; at 00:46:23 she says "president of UVM" while the clip says Utah Valley University.
 - Unresolved: "Mice to Down" (00:47:31, the Theo Von episode title) and "Krystandis cups" (00:47:01, viewer comment) left as transcribed.
-- "Blake Gibson" (N-955) and "Alex Faria" (N-954) appear in earlier episodes' claims (C-14900, C-14806) without person nodes; minted here as placeholders; integrator should check for a later-minted id.
+- "Blake Gibson" (N-955) and "Alex Faria" (N-954) appear in earlier episodes' claims (C-12891, C-12657) without person nodes; minted here as placeholders; integrator should check for a later-minted id.
 - Rick in Turek's book and Harpole's clip is mapped to N-487 Rick Cutler, Justin to N-492 Justin Davis, Dan to N-270 Dan Flood and Brian to N-266 Brian Harpole, following earlier episodes' identifications.
-- Not shown: Blake Neff's X space and his X post calling the host illiterate (verbal reference only, C-15152, C-15153); Victor Marx's post (C-15222); the necklace tip (C-15225).
+- Not shown: Blake Neff's X space and his X post calling the host illiterate (verbal reference only, C-14056, C-14057); Victor Marx's post (C-14126); the necklace tip (C-14129).
 - Theo Von / Tim Dillon clip (00:48:30) played as entertainment; no claim admitted.
-- DIA: the hit at 00:53:26 ("decentralized intelligent agency") is a merch plug; recorded as a DIA beat (C-15236, A-3380.4, M-12). The C-15237 request for Rhoades information at 00:54:03 has no tip-line keyword and reuses A-3380.2.
+- DIA: the hit at 00:53:26 ("decentralized intelligent agency") is a merch plug; recorded as a DIA beat (C-14140, A-3380.4, M-12). The C-14141 request for Rhoades information at 00:54:03 has no tip-line keyword and reuses A-3380.2.
 - Rejected claims (opinion or rhetorical): "who ordained him [Mikey]" (00:22:50); "That would make sense for his wife to receive an escort" (00:22:14); "Turning Point 2.0 is nothing like Turning Point USA 1.0" (00:51:17); viewer comments praising the host (00:47:01-00:53:00); characterizations of Blake Neff as "flamboyant" (00:51:48); sponsor reads (PDS Debt, Fatty15, Tax Network USA, StopBox, American Financing).
-- Cross-episode links left out: C-15169/C-15177 federal escort vs C-10541 (ep 152, ICAC as a federal control mechanism), as a different proposition; C-15215 vs C-3625 (ep 160, Turek on Tatum on roofs), which concerns the roofs, not when the text was shown.
+- Cross-episode links left out: C-14073/C-14081 federal escort vs C-13126 (ep 152, ICAC as a federal control mechanism), as a different proposition; C-14119 vs C-13867 (ep 160, Turek on Tatum on roofs), which concerns the roofs, not when the text was shown.

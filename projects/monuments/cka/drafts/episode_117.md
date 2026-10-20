@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-684, N-685, N-686, N-687, N-10991
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-11, N-14, N-17, N-40, N-55, N-99, N-159, N-181, N-190, N-261, N-266, N-331, N-341, N-343, N-440, N-450, N-460, N-520, N-10000, N-10100, N-10107, N-10110, N-10186, N-10307, N-10325, N-10346, N-10383, N-10387, N-10395, N-10401, N-10411, N-10421, N-10507, N-10537, N-10605, N-10614, N-10678, N-10768, N-10888, N-10913, N-10923, N-10797, N-10832, N-10840, N-10989, N-688, N-689, N-690, N-10729, N-10816, N-10988, N-10687, N-10698, N-10990, N-10987
-  - Claim Range: C-4653–C-4721
+  - Claim Range: C-10038–C-10106
   - (see registers)
 
 ## 2. Executive Summary
@@ -53,7 +53,7 @@ Video Timestamp: 00:02:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4654, C-4656, N-7, N-190, N-2, N-10537*
+*Related: C-10039, C-10041, N-7, N-190, N-2, N-10537*
 
 **A-2677.3** Clip of Andrew Kolvet on Laura Ingraham's show on the necklace's origin and removal
 
@@ -64,7 +64,7 @@ Video Timestamp: 00:02:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4655, N-14, N-690, N-2, N-1*
+*Related: C-10040, N-14, N-690, N-2, N-1*
 
 ---
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:05:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4657, C-4661, C-4662, C-4663, C-4664, C-4665, N-10768*
+*Related: C-10042, C-10046, C-10047, C-10048, C-10049, C-10050, N-10768*
 
 **A-2678.2** Science article on PETN's low water solubility and high soil absorption (shown)
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:06:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4658, N-10768, N-10107*
+*Related: C-10043, N-10768, N-10107*
 
 ---
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4659, C-4660, N-684, N-685, N-10107*
+*Related: C-10044, C-10045, N-684, N-685, N-10107*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4668, N-1, N-10987*
+*Related: C-10053, N-1, N-10987*
 
 **A-2680.2** Stills from fall 2024 "You're Being Brainwashed" tour stops (Wisconsin–Madison September 5, North Texas September 11, Pittsburgh September 18, Nevada–Reno October 8, then October 11 and October 30) comparing mic placement (shown)
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:12:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4670, N-1, N-10987*
+*Related: C-10055, N-1, N-10987*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:27:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4669, C-4698, C-4699, C-4700, N-261, N-3, N-10991*
+*Related: C-10054, C-10083, C-10084, C-10085, N-261, N-3, N-10991*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:12:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4667, C-4671, N-10987, N-10307*
+*Related: C-10052, C-10056, N-10987, N-10307*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:15:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4674, C-4675, C-4676, N-181, N-686, N-261, N-7, N-1, N-10987*
+*Related: C-10059, C-10060, C-10061, N-181, N-686, N-261, N-7, N-1, N-10987*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:17:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4677, N-687, N-686*
+*Related: C-10062, N-687, N-686*
 
 **A-2684.2** Dr. Philip Goldsberry's 2013 bio on the Soter Global Ministries website (shown)
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:19:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4679, C-4683, N-687, N-10989*
+*Related: C-10064, C-10068, N-687, N-10989*
 
 **A-2684.3** Current Soter Global Ministries website timeline of its Eastern European work (shown and read aloud)
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:20:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4680, C-4681, C-4684, N-10989, N-10401*
+*Related: C-10065, C-10066, C-10069, N-10989, N-10401*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:23:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4688, C-4689, C-4690, C-4692, C-4693, C-4694, C-4695, C-4696, N-2, N-11, N-17, N-450, N-14, N-689, N-460, N-687, N-10401, N-10186*
+*Related: C-10073, C-10074, C-10075, C-10077, C-10078, C-10079, C-10080, C-10081, N-2, N-11, N-17, N-450, N-14, N-689, N-460, N-687, N-10401, N-10186*
 
 **A-2685.2** 2013 photo of Tyler Bowyer with a Ukrainian orphan named Natalia (shown)
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:24:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4691, N-11, N-10401*
+*Related: C-10076, N-11, N-10401*
 
 ---
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:39:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4708, N-7, N-1, N-10737*
+*Related: C-10093, N-7, N-1, N-10737*
 
 **A-2686.2** Clip of Brian Harpole saying CPR was not performed during the drive
 
@@ -249,7 +249,7 @@ Video Timestamp: 00:40:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4709, N-266, N-7, N-10737*
+*Related: C-10094, N-266, N-7, N-10737*
 
 **A-2686.3** Clip of Rob McCoy on stage saying Frank Turek gave Charlie Kirk CPR
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:41:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4710, N-17, N-7, N-10737*
+*Related: C-10095, N-17, N-7, N-10737*
 
 ---
 
@@ -275,7 +275,7 @@ Video Timestamp: 00:44:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4712, N-2, N-10680*
+*Related: C-10097, N-2, N-10680*
 
 **A-2687.2** Reply citing handwriting analysis of the "scratch out effect" (shown)
 
@@ -286,7 +286,7 @@ Video Timestamp: 00:45:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4712, N-2, N-10680*
+*Related: C-10097, N-2, N-10680*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:49:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4713, N-10107*
+*Related: C-10098, N-10107*
 
 **A-2688.2** Viewer comment (Christie Rafferty) asking who decided Charlie Kirk would wear a white shirt instead of black (read aloud)
 
@@ -323,7 +323,7 @@ Video Timestamp: 00:55:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4719, N-14, N-2*
+*Related: C-10104, N-14, N-2*
 
 **A-2688.4** Viewer comment (Avery) suggesting the hats taken from the table be tested for explosive residue (read aloud)
 
@@ -347,7 +347,7 @@ Video Timestamp: 00:53:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4715, N-2, N-10923, N-10888*
+*Related: C-10100, N-2, N-10923, N-10888*
 
 ---
 
@@ -362,7 +362,7 @@ Video Timestamp: 00:54:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4716, N-2, N-10913*
+*Related: C-10101, N-2, N-10913*
 
 ---
 
@@ -372,181 +372,181 @@ Confidence Level: Low
 
 The assassination victim. His necklace, his wireless mic placement on September 10 and the 2024 tour, his night-before texts, and the handling of his phone, handheld mic and shirt are examined.
 
-*Related: C-4653, C-4654, C-4655, C-4656, C-4661, C-4667, C-4668, C-4669, C-4670, C-4671, C-4673, C-4674, C-4676, C-4687, C-4698, C-4700, C-4702, C-4703, C-4704, C-4705, C-4707, C-4708, C-4710, C-4718, C-4720, A-2677.1, A-2677.3, A-2680.1, A-2680.2, A-2683.1, A-2686.1, A-2688.2, A-2688.4*
+*Related: C-10038, C-10039, C-10040, C-10041, C-10046, C-10052, C-10053, C-10054, C-10055, C-10056, C-10058, C-10059, C-10061, C-10072, C-10083, C-10085, C-10087, C-10088, C-10089, C-10090, C-10092, C-10093, C-10095, C-10103, C-10105, A-2677.1, A-2677.3, A-2680.1, A-2680.2, A-2683.1, A-2686.1, A-2688.2, A-2688.4*
 
 **N-2** Erika Kirk
 
 Received Charlie Kirk's necklace and phone, and her Romanian Angels Project, pageant background and signature are raised. She is the subject of the "emotional asset" email and the bounty video.
 
-*Related: C-4655, C-4656, C-4666, C-4678, C-4682, C-4686, C-4687, C-4689, C-4692, C-4697, C-4705, C-4712, C-4715, C-4716, C-4719, C-4720, A-2677.1, A-2677.2, A-2677.3, A-2685.1, A-2687.1, A-2687.2, A-2688.3, A-2689.1, A-2690.1*
+*Related: C-10040, C-10041, C-10051, C-10063, C-10067, C-10071, C-10072, C-10074, C-10077, C-10082, C-10090, C-10097, C-10100, C-10101, C-10104, C-10105, A-2677.1, A-2677.2, A-2677.3, A-2685.1, A-2687.1, A-2687.2, A-2688.3, A-2689.1, A-2690.1*
 
 **N-3** Candace Owens
 
 Host. She relays her phone call with Terryl Farnsworth, her own TPUSA tour experience with ambulances, her audience numbers and the Harpole filing against her.
 
-*Related: C-4665, C-4669, C-4698, C-4714, C-4717, A-2681.1*
+*Related: C-10050, C-10054, C-10083, C-10099, C-10102, A-2681.1*
 
 **N-5** Donald Trump
 
 Named as the person the host says called Erika Kirk on September 10 and asked Charlie Kirk to stop raising Epstein questions; former co-owner of the Miss Universe organization.
 
-*Related: C-4678, C-4707, C-4719, C-4720*
+*Related: C-10063, C-10092, C-10104, C-10105*
 
 **N-7** Frank Turek
 
 Apparent speaker in the necklace clip and in the CPR clip. Seen in Sam Parker's video near the mic-up, and the subject of the scrubs account.
 
-*Related: C-4654, C-4675, C-4708, C-4709, C-4710, C-4711, A-2677.2, A-2683.1, A-2686.1, A-2686.2, A-2686.3*
+*Related: C-10039, C-10060, C-10093, C-10094, C-10095, C-10096, A-2677.2, A-2683.1, A-2686.1, A-2686.2, A-2686.3*
 
 **N-9** Jeffrey Epstein
 
 The host links his network to the assassination as her opinion, and cites the timing of his death and his emails about the Rothschilds.
 
-*Related: C-4686, C-4687, C-4706, C-4707*
+*Related: C-10071, C-10072, C-10091, C-10092*
 
 **N-11** Tyler Bowyer
 
 Transcript spelling "Tyler Bowyer" at 20:37. On the connecting-themes spreadsheet for his Romania, Russia and Ukraine ties; the host says he hired those around Charlie Kirk.
 
-*Related: C-4672, C-4673, C-4685, C-4690, C-4691, C-4694, A-2685.1, A-2685.2*
+*Related: C-10057, C-10058, C-10070, C-10075, C-10076, C-10079, A-2685.1, A-2685.2*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47). Speaks about the necklace in the Laura Ingraham clip; his brother Curtis is said to be stationed in Romania.
 
-*Related: C-4655, C-4693, C-4719, A-2677.3, A-2685.1, A-2688.3*
+*Related: C-10040, C-10078, C-10104, A-2677.3, A-2685.1, A-2688.3*
 
 **N-17** Rob McCoy
 
 Says on stage that Turek gave CPR; the host says he adopted a girl from Russia in 2006.
 
-*Related: C-4695, C-4710, A-2685.1, A-2686.3*
+*Related: C-10080, C-10095, A-2685.1, A-2686.3*
 
 **N-40** Tyler Robinson
 
 The accused. The host cites the missing GSR test, Erika Kirk's quick forgiveness of him, and the shirt evidence his defense should seek.
 
-*Related: C-4663, C-4666, C-4702*
+*Related: C-10048, C-10051, C-10087*
 
 **N-55** Josh Hammer
 
 Named as having called Charlie Kirk the night before he died.
 
-*Related: C-4704*
+*Related: C-10089*
 
 **N-99** Alex Clark
 
 Said by the host's source to have appeared in a Mark Burnett Productions dating show.
 
-*Related: C-4721*
+*Related: C-10106*
 
 **N-159** Blake Neff
 
 Transcript spelling "Blakey Naft" (04:43). Named as on the plane with Charlie Kirk and among staff who the host says did not call 911.
 
-*Related: C-4656, C-4718*
+*Related: C-10041, C-10103*
 
 **N-181** Sam Parker
 
 X user whose video identifies Philip Goldsberry Jr. and the Rode Wireless Pro.
 
-*Related: C-4674, C-4675, C-4676, A-2683.1*
+*Related: C-10059, C-10060, C-10061, A-2683.1*
 
 **N-190** Mikey McCoy
 
 Named as on the plane with Charlie Kirk and given the necklace for Erika Kirk; said by Turek to have helped at the hospital; among staff who the host says did not call 911.
 
-*Related: C-4656, C-4711, C-4718, A-2677.2*
+*Related: C-10041, C-10096, C-10103, A-2677.2*
 
 **N-261** Terryl Farnsworth
 
 Transcript spellings "Terryl Farnsworth", "Terryl Farnsworth", "Carol Farnsworth", "Turrell Farnsworth" and "Terrel". CEO of Visual Impulse and head of the AV team; the host relays his phone statements on the live stream and the mic redundancy.
 
-*Related: C-4653, C-4664, C-4669, C-4672, C-4674, C-4675, C-4698, C-4699, C-4700, A-2681.1, A-2683.1*
+*Related: C-10038, C-10049, C-10054, C-10057, C-10059, C-10060, C-10083, C-10084, C-10085, A-2681.1, A-2683.1*
 
 **N-266** Brian Harpole
 
 Transcript spelling "Ryan Harpole" (55:02). Says no CPR was done in the car; his filing against the host asserts a 911 call.
 
-*Related: C-4709, C-4710, C-4717, A-2686.2*
+*Related: C-10094, C-10095, C-10102, A-2686.2*
 
 **N-331** Andrew Sypher
 
 Transcript spelling "Andrew Cypher". Named among TPUSA staff who the host says did not call 911.
 
-*Related: C-4718*
+*Related: C-10103*
 
 **N-341** Victor Marx
 
 Said to describe his wife Eileen as a mentor to Erika Kirk.
 
-*Related: C-4697*
+*Related: C-10082*
 
 **N-343** Eileen Marx
 
 Described by Victor Marx as a mentor to Erika Kirk.
 
-*Related: C-4697*
+*Related: C-10082*
 
 **N-440** Mark Burnett
 
 His production company is named in the Alex Clark dating-show claim.
 
-*Related: C-4721*
+*Related: C-10106*
 
 **N-450** Greg Laurie
 
 Pastor whose Harvest church the host says is in court over trafficking accusations from Romania; toured with Erika Kirk.
 
-*Related: C-4692, A-2685.1*
+*Related: C-10077, A-2685.1*
 
 **N-460** Nelda Buckman
 
 Called TPUSA's biggest donor and said to be extensively involved in anti-trafficking work.
 
-*Related: C-4696, A-2685.1*
+*Related: C-10081, A-2685.1*
 
 **N-520** Rothschild Family
 
 Named as the people Epstein said in his emails he worked for.
 
-*Related: C-4706*
+*Related: C-10091*
 
 **N-684** Dan Merrell
 
 First named by the host at 00:06:08 in episode 117. The professional paver brought in to pave the crime scene, interviewed by Jimmy Rex.
 
-*Related: C-4659, C-4660, A-2679.1*
+*Related: C-10044, C-10045, A-2679.1*
 
 **N-685** Jimmy Rex
 
 First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Merrell.
 
-*Related: C-4659, C-4660, A-2679.1*
+*Related: C-10044, C-10045, A-2679.1*
 
 **N-686** Philip Goldsberry Jr.
 
 First named by the host at 00:14:08 in episode 117. Member of Terryl Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Philip Goldsberry Jr..
 
-*Related: C-4674, C-4675, C-4676, C-4677, C-4683, A-2683.1, A-2684.1*
+*Related: C-10059, C-10060, C-10061, C-10062, C-10068, A-2683.1, A-2684.1*
 
 **N-687** Dr. Philip Goldsberry
 
 First named by the host at 00:17:32 in episode 117. Arizona pastor, father of Philip Goldsberry Jr., co-founder and board chairman of Soter Global Ministries. Aliases: Philip Goldsberry Sr.; Phil Goldsberry.
 
-*Related: C-4677, C-4679, C-4680, C-4683, A-2684.1, A-2684.2, A-2685.1*
+*Related: C-10062, C-10064, C-10065, C-10068, A-2684.1, A-2684.2, A-2685.1*
 
 **N-688** Otto Busher
 
 First named by the host at 00:18:27 in episode 117. Transcript spelling "Colonel Otto Busher"; a US military colonel the host says partnered with Erika Kirk's Romanian Angels and was accused online of trafficking. The correct spelling is unverified.
 
-*Related: C-4682, C-4689*
+*Related: C-10067, C-10074*
 
 **N-689** Curtis Kolvet
 
 First named by the host at 00:24:24 in episode 117. Andrew Kolvet's brother ("Andrew Corbett's brother, Curtis"), said to be a lieutenant colonel stationed in Romania. Surname inferred from the brother relationship.
 
-*Related: C-4693, A-2685.1*
+*Related: C-10078, A-2685.1*
 
 **N-690** Laura Ingraham
 
@@ -558,246 +558,246 @@ First named by the host at 00:38:48 in episode 117 (transcript spelling "Laura I
 
 The organization whose AV team, staff, donors and evidence handling are questioned.
 
-*Related: C-4665, C-4673, C-4696, C-4701, C-4703, C-4718*
+*Related: C-10050, C-10058, C-10081, C-10086, C-10088, C-10103*
 
 **N-10100** TPUSA SD Card Removal
 
 Farnsworth's removal of the back-camera SD card is restated.
 
-*Related: C-4653, C-4664*
+*Related: C-10038, C-10049*
 
 **N-10107** Crime Scene Pavers
 
 The paving and soil excavation of the scene, including the paver's account.
 
-*Related: C-4657, C-4658, C-4659, C-4660, C-4713, A-2678.2, A-2679.1, A-2688.1*
+*Related: C-10042, C-10043, C-10044, C-10045, C-10098, A-2678.2, A-2679.1, A-2688.1*
 
 **N-10110** Tyler Robinson Evidence Gaps
 
 The missing GSR test and the lack of footage or eyewitnesses of a shot from the building.
 
-*Related: C-4662, C-4663*
+*Related: C-10047, C-10048*
 
 **N-10186** Plane 888 / Maxfield Plane Investigation
 
 The host says plane 888 was formerly registered in Romania.
 
-*Related: C-4688, A-2685.1*
+*Related: C-10073, A-2685.1*
 
 **N-10307** TPUSA Phoenix Livestream Verification Question
 
 Farnsworth's "ops back in Phoenix" live stream and the AV email's broadcast reasoning.
 
-*Related: C-4671, C-4700, C-4701, A-2682.1*
+*Related: C-10056, C-10085, C-10086, A-2682.1*
 
 **N-10325** Global Trafficking Angle in Kirk Assassination
 
 The host's opinion linking the assassination to the Epstein network.
 
-*Related: C-4706, C-4707*
+*Related: C-10091, C-10092*
 
 **N-10346** Terryl Farnsworth Camera Removal Justification
 
 The camera removal and selfie video right after the shooting.
 
-*Related: C-4653*
+*Related: C-10038*
 
 **N-10383** Farnsworth Family Political-Military Network
 
 The Farnsworth and Bowyer families' long ties.
 
-*Related: C-4672*
+*Related: C-10057*
 
 **N-10387** Tyler Bowyer Investigation Question
 
 Bowyer's hiring role around Charlie Kirk.
 
-*Related: C-4673*
+*Related: C-10058*
 
 **N-10395** Tyler Bowyer 2011 Romania Activities
 
 Restated: Bowyer went to Romania in 2011 to work with the Romanian government.
 
-*Related: C-4690*
+*Related: C-10075*
 
 **N-10401** Romania / Eastern Europe Trafficking Cluster
 
 The connecting-themes cluster, extended in this episode with Soter Global Ministries and the Goldsberrys.
 
-*Related: C-4680, C-4681, C-4682, C-4684, C-4685, C-4688, C-4689, C-4691, C-4693, C-4694, C-4695, A-2684.3, A-2685.1, A-2685.2*
+*Related: C-10065, C-10066, C-10067, C-10069, C-10070, C-10073, C-10074, C-10076, C-10078, C-10079, C-10080, A-2684.3, A-2685.1, A-2685.2*
 
 **N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster
 
 Greg Laurie's church litigation over Romania.
 
-*Related: C-4692*
+*Related: C-10077*
 
 **N-10421** Buckman–TPUSA Donor Relationship Investigation
 
 Nelda Buckman as TPUSA's biggest donor.
 
-*Related: C-4696*
+*Related: C-10081*
 
 **N-10507** Charlie Kirk Phone Access Question
 
 The phone given to Erika Kirk instead of being held in evidence.
 
-*Related: C-4705*
+*Related: C-10090*
 
 **N-10537** Charlie Kirk Necklace / Magnet Clasp Examination
 
 The necklace accounts and its position next to the mic.
 
-*Related: C-4654, C-4655, C-4656, C-4676, A-2677.1, A-2677.2*
+*Related: C-10039, C-10040, C-10041, C-10061, A-2677.1, A-2677.2*
 
 **N-10605** Erika Kirk–Victor Marx Relationship Verification
 
 Eileen Marx as mentor to Erika Kirk.
 
-*Related: C-4697*
+*Related: C-10082*
 
 **N-10614** TPUSA Faith Department / Adjacent Charity Biographical Pattern
 
 Dr. Philip Goldsberry's pastor background and charity.
 
-*Related: C-4677, C-4679*
+*Related: C-10062, C-10064*
 
 **N-10678** SUV Floorboard Shard Mic Identification
 
 The shattered black plastic or glass in the SUV.
 
-*Related: C-4661*
+*Related: C-10046*
 
 **N-10680** Erika Signature Change Discrepancy
 
 The post on Erika Kirk's scratched-out signature.
 
-*Related: C-4712, A-2687.1, A-2687.2*
+*Related: C-10097, A-2687.1, A-2687.2*
 
 **N-10687** Frank Turek CPR Claim Verification
 
 Turek's and McCoy's accounts that Turek gave CPR.
 
-*Related: C-4708, C-4710*
+*Related: C-10093, C-10095*
 
 **N-10688** Frank Turek Clothing Disposal
 
 The scrubs account and the clothes worn in the vehicle.
 
-*Related: C-4711*
+*Related: C-10096*
 
 **N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 The host's sourced claim that Erika Kirk used the same modeling office as a woman close to Epstein.
 
-*Related: C-4686*
+*Related: C-10071*
 
 **N-10707** Missing Charlie's Shirt Investigation Target
 
 The white Freedom shirt not listed as evidence.
 
-*Related: C-4702, A-2688.2*
+*Related: C-10087, A-2688.2*
 
 **N-10729** 911 Call Identification Gap
 
 The 911 call asserted in Harpole's filing and the staff who did not call.
 
-*Related: C-4717, C-4718*
+*Related: C-10102, C-10103*
 
 **N-10737** CPR Narrative Contradiction (Turek / Harpole)
 
 The opposing CPR clips aired back to back.
 
-*Related: C-4708, C-4709, C-4710, A-2686.1, A-2686.2, A-2686.3*
+*Related: C-10093, C-10094, C-10095, A-2686.1, A-2686.2, A-2686.3*
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
 The host's central rigged-mic theory, recapped and extended.
 
-*Related: C-4656, C-4657, C-4658, C-4662, C-4668, A-2678.1, A-2678.2, A-2688.4*
+*Related: C-10041, C-10042, C-10043, C-10047, C-10053, A-2678.1, A-2678.2, A-2688.4*
 
 **N-10797** Terryl Farnsworth Google-Hack Contradiction
 
 Farnsworth's stated reasons for not sending the video file.
 
-*Related: C-4699*
+*Related: C-10084*
 
 **N-10816** Charlie Kirk September 9, 2025 Text Messages
 
 The night-before group text and trans-threat message.
 
-*Related: C-4704*
+*Related: C-10089*
 
 **N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
 Anti-trafficking and adoption ties around TPUSA figures.
 
-*Related: C-4695, C-4696*
+*Related: C-10080, C-10081*
 
 **N-10840** UVU Ambulance Denial Discrepancy
 
 No ambulance on standby at the event.
 
-*Related: C-4665*
+*Related: C-10050*
 
 **N-10888** Department of War
 
 Said by the host to have artificially boosted Erika Kirk after the WHCD.
 
-*Related: C-4715, A-2689.1*
+*Related: C-10100, A-2689.1*
 
 **N-10987** Charlie Kirk Inside-Shirt Rode Mic Placement
 
 Node Type: Topic
 Investigation target: why Charlie Kirk's Rode Wireless Pro transmitter was worn inside his shirt, with the magnetic clasp outside, on September 10. The host dates the inside placement to October 8, 2024 on the "You're Being Brainwashed" tour, after the wireless redundancy was added and earlier stops had it outside the shirt. She identifies Philip Goldsberry Jr. as the technician who fitted it, and audio professionals told her the placement makes no audio sense.
 
-*Related: C-4667, C-4668, C-4669, C-4670, C-4671, C-4674, C-4675, C-4676, C-4698, A-2680.1, A-2680.2, A-2682.1, A-2683.1, N-686, N-261*
+*Related: C-10052, C-10053, C-10054, C-10055, C-10056, C-10059, C-10060, C-10061, C-10083, A-2680.1, A-2680.2, A-2682.1, A-2683.1, N-686, N-261*
 
 **N-10988** Miss Universe Organization
 
 Node Type: Organization
 The pageant organization the host says Trump co-owned with NBC Universal. She says Erika Kirk won a 2006 teen crown under it and that her pageant years fall within the co-ownership.
 
-*Related: C-4678, C-4720, N-5, N-2*
+*Related: C-10063, C-10105, N-5, N-2*
 
 **N-10989** Soter Global Ministries
 
 Node Type: Organization
 Transcript spellings "Soder Global Ministries" and "Soteria Global Ministries". Charity co-founded in 2006 by Dr. Philip Goldsberry, who chairs its board. According to its website, as read by the host, it provided medical care and training in orphanages, clinics and schools in Albania, Romania and Ukraine. She says it taught about human trafficking and visited a shelter for trafficking victims, and filed formal paperwork in 2010.
 
-*Related: C-4679, C-4680, C-4681, C-4683, C-4684, A-2684.2, A-2684.3, N-687*
+*Related: C-10064, C-10065, C-10066, C-10068, C-10069, A-2684.2, A-2684.3, N-687*
 
 **N-10990** Black Sea Rotational Force
 
 Node Type: Organization
 US Marine rotational force the host says set up a base in Romania in 2010 that was later accused of trafficking and prostituting children. She ties it to Erika Kirk's Romanian Angels partnership with Colonel "Otto Busher."
 
-*Related: C-4681, C-4682, C-4689, N-688*
+*Related: C-10066, C-10067, C-10074, N-688*
 
 **N-10991** Visual Impulse
 
 Node Type: Organization
 Audio-visual company run by Terryl Farnsworth as CEO, long-time AV provider for Charlie Kirk and Turning Point USA; Philip Goldsberry Jr. is on its team.
 
-*Related: C-4698, C-4700, A-2681.1, N-261*
+*Related: C-10083, C-10085, A-2681.1, N-261*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the email the host says describes Erika Kirk as an "emotional asset" after the White House Correspondents' Dinner shooting. In this episode the host says it shows the WHCD messaging was staged and that the Department of War was artificially boosting Erika Kirk. She urges FOIA requests.
 
-*Related: C-4715, A-2689.1, N-2, N-10888*
+*Related: C-10100, A-2689.1, N-2, N-10888*
 
 **N-10913** Erika Kirk WHCD Exit Video Staging Question
 
 Node Type: Topic
 Investigation target: who recorded the viral video of Erika Kirk leaving the White House Correspondents' Dinner. In this episode the host says her $10,000 bounty has still not identified the person, and that it was not the CNN reporter who posted it on Instagram.
 
-*Related: C-4716, A-2690.1, N-2*
+*Related: C-10101, A-2690.1, N-2*
 
 ## 5. Claim Register
 
-**C-4653** Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting
+**C-10038** Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting
 
 Claim Timestamp: 00:00:01
 
@@ -812,7 +812,7 @@ Investigative Direction: Obtain UVU and police video of the stage area after the
 
 ---
 
-**C-4654** Clip: Charlie Kirk's necklace was found draped over a bag in the car, and police had been looking for it
+**C-10039** Clip: Charlie Kirk's necklace was found draped over a bag in the car, and police had been looking for it
 
 Claim Timestamp: 00:02:02
 
@@ -823,12 +823,12 @@ Transcript Snippet: I got into the car and I pulled out my bag and draped over m
 Anchored Artifacts: A-2677.2
 Mentions: N-7, N-1
 Related Nodes: N-10537
-Supports: C-1962
+Supports: C-4213
 Investigative Direction: Identify the source interview for the clip, and request police evidence logs showing whether the necklace was sought, logged or released.
 
 ---
 
-**C-4655** Clip: Andrew Kolvet says the necklace was ripped off during life-saving efforts and Erika Kirk now wears it
+**C-10040** Clip: Andrew Kolvet says the necklace was ripped off during life-saving efforts and Erika Kirk now wears it
 
 Claim Timestamp: 00:02:02
 
@@ -843,7 +843,7 @@ Investigative Direction: Locate the full broadcast of the Kolvet interview and c
 
 ---
 
-**C-4656** Host theorizes the necklace was sought and returned to the widow because it would carry explosive residue
+**C-10041** Host theorizes the necklace was sought and returned to the widow because it would carry explosive residue
 
 Claim Timestamp: 00:04:43
 
@@ -858,7 +858,7 @@ Investigative Direction: Request chain-of-custody records for the necklace and a
 
 ---
 
-**C-4657** Host says the rigged-mic theory would explain why bomb dogs were kept away and the scene was paved over
+**C-10042** Host says the rigged-mic theory would explain why bomb dogs were kept away and the scene was paved over
 
 Claim Timestamp: 00:05:27
 
@@ -873,7 +873,7 @@ Investigative Direction: Obtain police and federal K-9 deployment records for th
 
 ---
 
-**C-4658** Article: PETN's low water solubility and high soil absorption would require digging out the soil
+**C-10043** Article: PETN's low water solubility and high soil absorption would require digging out the soil
 
 Claim Timestamp: 00:06:08
 
@@ -888,7 +888,7 @@ Investigative Direction: Identify the cited article and check its PETN soil-sorp
 
 ---
 
-**C-4659** Paver Dan Merrell Says a Government Team Dug Out 8 to 10 Inches of Soil Before He Arrived
+**C-10044** Paver Dan Merrell Says a Government Team Dug Out 8 to 10 Inches of Soil Before He Arrived
 
 Claim Timestamp: 00:06:08
 
@@ -903,7 +903,7 @@ Investigative Direction: Obtain UVU facilities and contractor records for the ex
 
 ---
 
-**C-4660** Clip: about 10 inches of dirt had been excavated around the scene
+**C-10045** Clip: about 10 inches of dirt had been excavated around the scene
 
 Claim Timestamp: 00:06:50
 
@@ -918,7 +918,7 @@ Investigative Direction: Obtain Merrill's photographs with metadata and compare 
 
 ---
 
-**C-4661** Shattered black plastic or glass appears throughout the SUV that carried Charlie Kirk
+**C-10046** Shattered black plastic or glass appears throughout the SUV that carried Charlie Kirk
 
 Claim Timestamp: 00:07:34
 
@@ -929,12 +929,12 @@ Transcript Snippet: Why there appears to be shattered black plastic or glass all
 Anchored Artifacts: A-2678.1
 Mentions: N-1
 Related Nodes: N-10678
-Supports: C-1978
+Supports: C-4276
 Investigative Direction: Request evidence photographs and the evidence inventory for the transport SUV, and any lab analysis of the fragments.
 
 ---
 
-**C-4662** No Footage or Eyewitness Shows a Shot Fired From the Losee Building
+**C-10047** No Footage or Eyewitness Shows a Shot Fired From the Losee Building
 
 Claim Timestamp: 00:07:34
 
@@ -949,7 +949,7 @@ Investigative Direction: Review the prosecution's discovery and released video f
 
 ---
 
-**C-4663** Federal agents did not perform a GSR test on Tyler Robinson
+**C-10048** Federal agents did not perform a GSR test on Tyler Robinson
 
 Claim Timestamp: 00:07:34
 
@@ -964,7 +964,7 @@ Investigative Direction: Check the charging documents, discovery and court filin
 
 ---
 
-**C-4664** Farnsworth removed the SD card from the back camera at the crime scene
+**C-10049** Farnsworth removed the SD card from the back camera at the crime scene
 
 Claim Timestamp: 00:08:29
 
@@ -979,7 +979,7 @@ Investigative Direction: Obtain police body-camera footage and evidence logs cov
 
 ---
 
-**C-4665** No ambulance was on standby at the UVU event, unlike the host's own TPUSA tour events
+**C-10050** No ambulance was on standby at the UVU event, unlike the host's own TPUSA tour events
 
 Claim Timestamp: 00:08:29
 
@@ -994,7 +994,7 @@ Investigative Direction: Obtain the UVU event security and medical plan and TPUS
 
 ---
 
-**C-4666** Erika Kirk forgave Tyler Robinson faster than she forgave Druski
+**C-10051** Erika Kirk forgave Tyler Robinson faster than she forgave Druski
 
 Claim Timestamp: 00:09:19
 
@@ -1009,7 +1009,7 @@ Investigative Direction: Compare the dates and wording of Erika Kirk's public st
 
 ---
 
-**C-4667** Audio professionals emailed the show that an inside-the-shirt mic placement makes no sense
+**C-10052** Audio professionals emailed the show that an inside-the-shirt mic placement makes no sense
 
 Claim Timestamp: 00:09:48
 
@@ -1024,7 +1024,7 @@ Investigative Direction: Preserve the emails received and ask independent audio 
 
 ---
 
-**C-4668** On September 10 the Rode mic was placed inside Charlie Kirk's shirt with the magnetic clasp outside
+**C-10053** On September 10 the Rode mic was placed inside Charlie Kirk's shirt with the magnetic clasp outside
 
 Claim Timestamp: 00:09:48
 
@@ -1039,7 +1039,7 @@ Investigative Direction: Analyse high-resolution UVU footage and stills of the m
 
 ---
 
-**C-4669** The wireless mic redundancy began after the host stopped touring with Charlie Kirk, as Farnsworth admitted to her
+**C-10054** The wireless mic redundancy began after the host stopped touring with Charlie Kirk, as Farnsworth admitted to her
 
 Claim Timestamp: 00:10:56
 
@@ -1054,7 +1054,7 @@ Investigative Direction: Review footage of Charlie Kirk's campus events before a
 
 ---
 
-**C-4670** On the fall 2024 tour the mic moved from outside to inside Charlie Kirk's shirt from October 8
+**C-10055** On the fall 2024 tour the mic moved from outside to inside Charlie Kirk's shirt from October 8
 
 Claim Timestamp: 00:12:03
 
@@ -1069,7 +1069,7 @@ Investigative Direction: Collect footage from each fall 2024 tour stop and log t
 
 ---
 
-**C-4671** AV professional's email: two mics only make sense if one fed a broadcast or live stream
+**C-10056** AV professional's email: two mics only make sense if one fed a broadcast or live stream
 
 Claim Timestamp: 00:12:50
 
@@ -1084,7 +1084,7 @@ Investigative Direction: Determine whether any broadcast or live-stream recordin
 
 ---
 
-**C-4672** Farnsworth has run Charlie Kirk's AV team for over 10 years and grew up with Tyler Bowyer's family
+**C-10057** Farnsworth has run Charlie Kirk's AV team for over 10 years and grew up with Tyler Bowyer's family
 
 Claim Timestamp: 00:14:08
 
@@ -1099,7 +1099,7 @@ Investigative Direction: Check Visual Impulse's corporate filings and TPUSA vend
 
 ---
 
-**C-4673** Tyler Bowyer hired the people around Charlie Kirk
+**C-10058** Tyler Bowyer hired the people around Charlie Kirk
 
 Claim Timestamp: 00:14:08
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Interview current and former TPUSA staff and review hir
 
 ---
 
-**C-4674** Philip Goldsberry Jr. was the AV technician who mic'd Charlie Kirk
+**C-10059** Philip Goldsberry Jr. was the AV technician who mic'd Charlie Kirk
 
 Claim Timestamp: 00:14:08
 
@@ -1129,7 +1129,7 @@ Investigative Direction: Confirm the technician's identity from event crew lists
 
 ---
 
-**C-4675** Video analysis: the dual charging cases identify the mic as a Rode Wireless Pro
+**C-10060** Video analysis: the dual charging cases identify the mic as a Rode Wireless Pro
 
 Claim Timestamp: 00:15:55
 
@@ -1144,7 +1144,7 @@ Investigative Direction: Compare the equipment visible in the footage with Rode 
 
 ---
 
-**C-4676** Goldsberry secured the mic under Charlie Kirk's shirt next to the necklace
+**C-10061** Goldsberry secured the mic under Charlie Kirk's shirt next to the necklace
 
 Claim Timestamp: 00:15:55
 
@@ -1159,7 +1159,7 @@ Investigative Direction: Frame-by-frame analysis of the mic-up and shooting foot
 
 ---
 
-**C-4677** Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a pastor in Arizona who studied psychology
+**C-10062** Goldsberry Jr.'s father, Dr. Philip Goldsberry, is a pastor in Arizona who studied psychology
 
 Claim Timestamp: 00:17:32
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Verify Dr. Goldsberry's ministry, credentials and famil
 
 ---
 
-**C-4678** Erika Kirk won a teen pageant crown in 2006 under the Trump Miss Universe organization
+**C-10063** Erika Kirk won a teen pageant crown in 2006 under the Trump Miss Universe organization
 
 Claim Timestamp: 00:17:32
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Check pageant records for the title Erika Kirk (then Fr
 
 ---
 
-**C-4679** Dr. Philip Goldsberry co-founded a charity working in Eastern Europe in 2006
+**C-10064** Dr. Philip Goldsberry co-founded a charity working in Eastern Europe in 2006
 
 Claim Timestamp: 00:17:32
 
@@ -1204,7 +1204,7 @@ Investigative Direction: Obtain Soter Global Ministries' founding documents, IRS
 
 ---
 
-**C-4680** Soter Global Ministries provided medical care to orphanages in Ukraine and Romania
+**C-10065** Soter Global Ministries provided medical care to orphanages in Ukraine and Romania
 
 Claim Timestamp: 00:18:27
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Review Soter Global Ministries' annual reports and Form
 
 ---
 
-**C-4681** Soter filed formal paperwork in 2010, the year the Black Sea Rotational Force set up in Romania
+**C-10066** Soter filed formal paperwork in 2010, the year the Black Sea Rotational Force set up in Romania
 
 Claim Timestamp: 00:18:27
 
@@ -1234,7 +1234,7 @@ Investigative Direction: Check state incorporation and IRS determination dates f
 
 ---
 
-**C-4682** Erika Kirk's Romanian Angels partnered with a colonel accused online of trafficking through the base
+**C-10067** Erika Kirk's Romanian Angels partnered with a colonel accused online of trafficking through the base
 
 Claim Timestamp: 00:18:27
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Identify the officer's correct name and command, find t
 
 ---
 
-**C-4683** Dr. Goldsberry is chairman of the board of Soter Global Ministries
+**C-10068** Dr. Goldsberry is chairman of the board of Soter Global Ministries
 
 Claim Timestamp: 00:19:52
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Check archived versions of the Soter website and its cu
 
 ---
 
-**C-4684** Soter's website lists Balkan and Ukrainian work including human trafficking education and a shelter visit
+**C-10069** Soter's website lists Balkan and Ukrainian work including human trafficking education and a shelter visit
 
 Claim Timestamp: 00:20:37
 
@@ -1279,7 +1279,7 @@ Investigative Direction: Archive the website timeline and cross-check it against
 
 ---
 
-**C-4685** Tyler Bowyer did missionary work in the same region in 2005–2006
+**C-10070** Tyler Bowyer did missionary work in the same region in 2005–2006
 
 Claim Timestamp: 00:20:37
 
@@ -1294,7 +1294,7 @@ Investigative Direction: Confirm the dates and location of Bowyer's mission serv
 
 ---
 
-**C-4686** Host hears Erika Kirk used the same modeling office as a woman close to Epstein
+**C-10071** Host hears Erika Kirk used the same modeling office as a woman close to Epstein
 
 Claim Timestamp: 00:21:30
 
@@ -1309,7 +1309,7 @@ Investigative Direction: Identify the agency and the woman referred to, and chec
 
 ---
 
-**C-4687** Epstein went down almost to the day of Charlie and Erika Kirk's first date
+**C-10072** Epstein went down almost to the day of Charlie and Erika Kirk's first date
 
 Claim Timestamp: 00:21:30
 
@@ -1324,7 +1324,7 @@ Investigative Direction: Compare the documented date of Epstein's death with the
 
 ---
 
-**C-4688** Plane 888 was formerly registered in Romania and its owners help trafficking victims
+**C-10073** Plane 888 was formerly registered in Romania and its owners help trafficking victims
 
 Claim Timestamp: 00:23:15
 
@@ -1339,7 +1339,7 @@ Investigative Direction: Pull FAA and Romanian civil aviation registry history f
 
 ---
 
-**C-4689** Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base
+**C-10074** Erika Kirk began the Romanian Angels Project in late 2012 on a US Marine base
 
 Claim Timestamp: 00:23:15
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Obtain records of the Romanian Angels Project and any M
 
 ---
 
-**C-4690** Tyler Bowyer went to Romania in 2011 to work with the Romanian government
+**C-10075** Tyler Bowyer went to Romania in 2011 to work with the Romanian government
 
 Claim Timestamp: 00:23:15
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Check Bowyer's own statements, university records and a
 
 ---
 
-**C-4691** Tyler Bowyer posted a 2013 photo with a Ukrainian orphan named Natalia
+**C-10076** Tyler Bowyer posted a 2013 photo with a Ukrainian orphan named Natalia
 
 Claim Timestamp: 00:23:15
 
@@ -1380,12 +1380,12 @@ Transcript Snippet: 2013, Tyler Bowyer posts a photo of himself with a Ukrainian
 Anchored Artifacts: A-2685.2
 Mentions: N-11
 Related Nodes: N-10401
-Supports: C-2027
+Supports: C-4750
 Investigative Direction: Archive the original 2013 post and identify the adoption or hosting program involved.
 
 ---
 
-**C-4692** Greg Laurie's Harvest church is in court over accusations of trafficking from Romania
+**C-10077** Greg Laurie's Harvest church is in court over accusations of trafficking from Romania
 
 Claim Timestamp: 00:24:24
 
@@ -1396,12 +1396,12 @@ Transcript Snippet: they are currently being taken through the court system beca
 Anchored Artifacts: A-2685.1
 Mentions: N-450, N-2
 Related Nodes: N-10411
-Supports: C-2087
+Supports: C-5042
 Investigative Direction: Review the dockets of the lawsuits against Harvest Christian Fellowship and Laurie's public statements on them.
 
 ---
 
-**C-4693** Andrew Kolvet's brother Curtis was recently stationed in Romania as a lieutenant colonel
+**C-10078** Andrew Kolvet's brother Curtis was recently stationed in Romania as a lieutenant colonel
 
 Claim Timestamp: 00:24:24
 
@@ -1416,7 +1416,7 @@ Investigative Direction: Confirm the officer's identity, rank and assignment thr
 
 ---
 
-**C-4694** Tyler Bowyer holds a Russian studies degree and lived in Russia for two years
+**C-10079** Tyler Bowyer holds a Russian studies degree and lived in Russia for two years
 
 Claim Timestamp: 00:25:09
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Verify Bowyer's degree with his university and the date
 
 ---
 
-**C-4695** Rob McCoy adopted a 12-year-old girl named Natalia from Russia in 2006
+**C-10080** Rob McCoy adopted a 12-year-old girl named Natalia from Russia in 2006
 
 Claim Timestamp: 00:25:09
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Check McCoy's public biography and statements for the a
 
 ---
 
-**C-4696** TPUSA's biggest donor Nelda Buckman is extensively involved in anti-trafficking work
+**C-10081** TPUSA's biggest donor Nelda Buckman is extensively involved in anti-trafficking work
 
 Claim Timestamp: 00:25:09
 
@@ -1461,7 +1461,7 @@ Investigative Direction: Review Buckman's foundation filings and TPUSA donor dis
 
 ---
 
-**C-4697** Victor Marx says his wife Eileen is like a mentor to Erika Kirk
+**C-10082** Victor Marx says his wife Eileen is like a mentor to Erika Kirk
 
 Claim Timestamp: 00:26:17
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Locate the Victor Marx statement and any public appeara
 
 ---
 
-**C-4698** Farnsworth told the host his team was trying something new, so he began attending events
+**C-10083** Farnsworth told the host his team was trying something new, so he began attending events
 
 Claim Timestamp: 00:27:01
 
@@ -1491,7 +1491,7 @@ Investigative Direction: Obtain Visual Impulse's event staffing logs for 2024–
 
 ---
 
-**C-4699** Farnsworth said he did not know how to send a video file, then that he feared Google would hack him
+**C-10084** Farnsworth said he did not know how to send a video file, then that he feared Google would hack him
 
 Claim Timestamp: 00:27:01
 
@@ -1506,7 +1506,7 @@ Investigative Direction: Seek any recording or notes of the call and Farnsworth'
 
 ---
 
-**C-4700** Farnsworth said the event was live-streamed to "the ops back in Phoenix," not to TPUSA headquarters
+**C-10085** Farnsworth said the event was live-streamed to "the ops back in Phoenix," not to TPUSA headquarters
 
 Claim Timestamp: 00:27:50
 
@@ -1521,7 +1521,7 @@ Investigative Direction: Obtain streaming-platform logs and network records for 
 
 ---
 
-**C-4701** Current and former TPUSA employees were told it was live-streamed but no one knows where
+**C-10086** Current and former TPUSA employees were told it was live-streamed but no one knows where
 
 Claim Timestamp: 00:27:50
 
@@ -1536,7 +1536,7 @@ Investigative Direction: Subpoena or request TPUSA's streaming accounts and inte
 
 ---
 
-**C-4702** Charlie Kirk's white Freedom shirt is not listed as evidence in the court hearing
+**C-10087** Charlie Kirk's white Freedom shirt is not listed as evidence in the court hearing
 
 Claim Timestamp: 00:30:04
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Review the evidence lists in the Robinson case filings 
 
 ---
 
-**C-4703** The bloodied handheld mic was given to TPUSA, which displays it in a glass case to raise money
+**C-10088** The bloodied handheld mic was given to TPUSA, which displays it in a glass case to raise money
 
 Claim Timestamp: 00:31:04
 
@@ -1566,7 +1566,7 @@ Investigative Direction: Request the property-release record for the microphone 
 
 ---
 
-**C-4704** Night before: Charlie Kirk told a group text "keep the money" and texted that he feared a trans person would kill him
+**C-10089** Night before: Charlie Kirk told a group text "keep the money" and texted that he feared a trans person would kill him
 
 Claim Timestamp: 00:31:04
 
@@ -1581,7 +1581,7 @@ Investigative Direction: Seek the full September 9 text threads through subpoena
 
 ---
 
-**C-4705** Charlie Kirk's phone was given to Erika Kirk instead of being held as evidence
+**C-10090** Charlie Kirk's phone was given to Erika Kirk instead of being held as evidence
 
 Claim Timestamp: 00:32:03
 
@@ -1596,7 +1596,7 @@ Investigative Direction: Request the property-release records for the phone and 
 
 ---
 
-**C-4706** Epstein said in his emails that he worked for the Rothschilds
+**C-10091** Epstein said in his emails that he worked for the Rothschilds
 
 Claim Timestamp: 00:36:19
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Locate the specific emails in the released Epstein file
 
 ---
 
-**C-4707** Trump called Charlie Kirk and asked him to stop raising questions about Epstein
+**C-10092** Trump called Charlie Kirk and asked him to stop raising questions about Epstein
 
 Claim Timestamp: 00:37:15
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Seek corroboration from people around Charlie Kirk at t
 
 ---
 
-**C-4708** Frank Turek says they gave Charlie Kirk CPR in the car
+**C-10093** Frank Turek says they gave Charlie Kirk CPR in the car
 
 Claim Timestamp: 00:39:34
 
@@ -1641,7 +1641,7 @@ Investigative Direction: Compare Turek's account with hospital intake records an
 
 ---
 
-**C-4709** Brian Harpole says no CPR was done in the car because he had to stop the bleeding
+**C-10094** Brian Harpole says no CPR was done in the car because he had to stop the bleeding
 
 Claim Timestamp: 00:40:19
 
@@ -1656,7 +1656,7 @@ Investigative Direction: Set Harpole's interview against Turek's statements and 
 
 ---
 
-**C-4710** Rob McCoy says Frank Turek was covered in blood because he was giving Charlie Kirk CPR
+**C-10095** Rob McCoy says Frank Turek was covered in blood because he was giving Charlie Kirk CPR
 
 Claim Timestamp: 00:41:14
 
@@ -1671,7 +1671,7 @@ Investigative Direction: Locate the full McCoy appearance and compare it with ph
 
 ---
 
-**C-4711** Turek says hospital staff gave them scrubs because they were covered in blood
+**C-10096** Turek says hospital staff gave them scrubs because they were covered in blood
 
 Claim Timestamp: 00:41:14
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Seek hospital records or staff accounts of clothing cha
 
 ---
 
-**C-4712** Post: Erika Kirk's signature shows a "scratch out" stroke associated with negating one's identity
+**C-10097** Post: Erika Kirk's signature shows a "scratch out" stroke associated with negating one's identity
 
 Claim Timestamp: 00:45:38
 
@@ -1701,7 +1701,7 @@ Investigative Direction: Compare public examples of Erika Kirk's signature over 
 
 ---
 
-**C-4713** The paver had never heard of a "paver emergency"
+**C-10098** The paver had never heard of a "paver emergency"
 
 Claim Timestamp: 00:49:54
 
@@ -1716,7 +1716,7 @@ Investigative Direction: Obtain the work order and call-out record showing who r
 
 ---
 
-**C-4714** About 90,000 people were watching the show live nine months after the assassination
+**C-10099** About 90,000 people were watching the show live nine months after the assassination
 
 Claim Timestamp: 00:52:07
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Check YouTube live concurrent-viewer statistics for the
 
 ---
 
-**C-4715** An email shows the Department of War artificially boosted Erika Kirk as an "emotional asset"
+**C-10100** An email shows the Department of War artificially boosted Erika Kirk as an "emotional asset"
 
 Claim Timestamp: 00:53:39
 
@@ -1746,7 +1746,7 @@ Investigative Direction: File FOIA requests with the Department of War and the W
 
 ---
 
-**C-4716** The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video
+**C-10101** The $10,000 Bounty Has Still Not Identified Who Recorded the Erika Kirk WHCD Video
 
 Claim Timestamp: 00:54:23
 
@@ -1757,12 +1757,12 @@ Transcript Snippet: We put out a $10,000 bounty. We still can't find out who rec
 Anchored Artifacts: A-2690.1
 Mentions: N-2
 Related Nodes: N-10913
-Supports: C-3745
+Supports: C-8578
 Investigative Direction: Archive the bounty terms and any tips received, and trace the earliest upload and original file metadata of the video.
 
 ---
 
-**C-4717** Harpole's filing asserts a 911 call that the host has not found in the released recordings
+**C-10102** Harpole's filing asserts a 911 call that the host has not found in the released recordings
 
 Claim Timestamp: 00:55:02
 
@@ -1777,7 +1777,7 @@ Investigative Direction: Compare the complaint's 911 allegation with the full se
 
 ---
 
-**C-4718** The TPUSA staff did not try to help Charlie Kirk or call 911
+**C-10103** The TPUSA staff did not try to help Charlie Kirk or call 911
 
 Claim Timestamp: 00:55:02
 
@@ -1792,7 +1792,7 @@ Investigative Direction: Review event video and 911 call logs to establish where
 
 ---
 
-**C-4719** Trump was the one who called Erika Kirk within hours of the shooting
+**C-10104** Trump was the one who called Erika Kirk within hours of the shooting
 
 Claim Timestamp: 00:55:47
 
@@ -1807,7 +1807,7 @@ Investigative Direction: Locate the Kolvet interview and Erika Kirk's own accoun
 
 ---
 
-**C-4720** Trump co-owned the Miss Universe organization with NBC Universal during Erika Kirk's pageant years
+**C-10105** Trump co-owned the Miss Universe organization with NBC Universal during Erika Kirk's pageant years
 
 Claim Timestamp: 00:55:47
 
@@ -1822,7 +1822,7 @@ Investigative Direction: Match the dates of Erika Kirk's pageant titles against 
 
 ---
 
-**C-4721** Alex Clark appeared in a Mark Burnett Productions dating show
+**C-10106** Alex Clark appeared in a Mark Burnett Productions dating show
 
 Claim Timestamp: 00:55:47
 
@@ -2006,9 +2006,9 @@ Confidence: high
 
 ## 7. Optional Flags
 
-- **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
+- **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-10101, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-10052/C-10056, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terryl Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
-- **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
+- **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-4213). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
 - **Name matching**: "Tyler Bowyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-331 Andrew Sypher. "Blakey Naft" mapped to N-159 Blake Neff. "Ryan Harpole" mapped to N-266 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-261. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-688) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-689) on the brother relationship alone. "Laura Ingraham" is minted as Laura Ingraham (N-690); she has no row in nodes.tsv.
 - **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Druski", no row in nodes.tsv; staging episode 084 mints him as N-684); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Loesch", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
 - **Transcription ambiguities**: "Losee building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
@@ -2023,7 +2023,7 @@ Confidence: high
   - The relayed theory that charities act as scouts for military trafficking operations (57:57), which the host says she cannot verify
   - "Who were these ops?" and the other rhetorical questions about the live stream
 - **Minor factual beats not inscribed**: Turek's children being on FaceTime during the drive; the Sept 5 Wisconsin stop with no mic; Blake Neff tweeting and Dana Loesch calling critics "demonic"; Tucker Carlson's speech on Epstein; the Mossad "directors, producers" clip from a prior episode; the book-club pick "Make Him a Sandwich" (M-18 not logged as an occurrence).
-- **Cross-episode links**: Supports C-1962 (necklace on Turek's bag), C-1978 (SUV fragments), C-2027 (Bowyer and Natalia), C-2087 (Harvest lawsuits) and C-3745 (the $10,000 bounty). C-4708–C-4710 restate the Turek/Harpole CPR conflict, but every indexed CPR claim (C-2968 onward) is from a later episode, so no link was made. Same-episode Contradicts between C-4708/C-4710 and C-4709 were left implicit because they are all in this episode.
+- **Cross-episode links**: Supports C-4213 (necklace on Turek's bag), C-4276 (SUV fragments), C-4750 (Bowyer and Natalia), C-5042 (Harvest lawsuits) and C-8578 (the $10,000 bounty). C-10093–C-10095 restate the Turek/Harpole CPR conflict, but every indexed CPR claim (C-10327 onward) is from a later episode, so no link was made. Same-episode Contradicts between C-10093/C-10095 and C-10094 were left implicit because they are all in this episode.
 - **Skeleton meme quote**: the existing M-55 occurrence (00:47:15) is kept verbatim from the skeleton. Its quote runs across the transcript's "## Comments." heading and is cut off mid-word ("yesterda"), so it is not an exact transcript span; the integrator may want to trim it.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 1:00:51, which is used.
 - **Sponsor reads** (Pre-Born, Neemie/Nimi Skin Care, tnusa) and the merch and book-club promotion are excluded.

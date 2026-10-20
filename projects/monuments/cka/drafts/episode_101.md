@@ -15,7 +15,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-607, N-608, N-609, N-610, N-613, N-10913, N-10915, N-10918
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-22, N-30, N-69, N-159, N-193, N-212, N-220, N-222, N-224, N-266, N-370, N-580, N-590, N-603, N-10000, N-10026, N-10070, N-10081, N-10083, N-10194, N-10341, N-10447, N-10583, N-10637, N-10638, N-10651, N-10662, N-10664, N-298, N-10862, N-614, N-10916, N-10917, N-10914, N-611, N-612, N-10919
-  - Claim Range: C-3949–C-4004
+  - Claim Range: C-8986–C-9041
   - (see registers)
 
 ## 2. Executive Summary
@@ -37,7 +37,7 @@ Video Timestamp: 00:00:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3950, N-159, N-3*
+*Related: C-8987, N-159, N-3*
 
 ---
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:00:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3951, N-2, N-3, N-10913*
+*Related: C-8988, N-2, N-3, N-10913*
 
 **A-2556.2** Host verbal restatement of the $10,000 bounty for information on the video of Erika Kirk leaving the dinner (not shown)
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:05:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3956, N-2, N-3, N-10913*
+*Related: C-8993, N-2, N-3, N-10913*
 
 **A-2556.3** Host verbal reference to the direct tips received in response to the 10K bounty (not shown)
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:11:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3964, C-3965, N-3, N-10913*
+*Related: C-9001, C-9002, N-3, N-10913*
 
 **A-2556.4** Host verbal renewal of the 10K "no questions asked" offer to members of the digital teams that received the video, with the tip line (20:38–21:21; not shown)
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:20:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3974, N-3, N-10913*
+*Related: C-9011, N-3, N-10913*
 
 **A-2556.5** Host verbal closing request for White House Correspondents' Dinner tips, with the tip line (47:36–48:17; not shown)
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:47:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4004, N-3, N-10913*
+*Related: C-9041, N-3, N-10913*
 
 ---
 
@@ -109,7 +109,7 @@ Video Timestamp: 00:03:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3952, C-3953, C-3955, N-10914, N-10662*
+*Related: C-8989, C-8990, C-8992, N-10914, N-10662*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:06:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3957, N-2*
+*Related: C-8994, N-2*
 
 **A-2558.2** Viral clip of Erika Kirk leaving the dinner after shots were fired (played)
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:06:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3958, C-3967, C-3968, C-3969, C-3970, N-2, N-370, N-10913, N-10637, N-10638*
+*Related: C-8995, C-9004, C-9005, C-9006, C-9007, N-2, N-370, N-10913, N-10637, N-10638*
 
 **A-2558.3** Clip of Erika Kirk's speech describing the dinner seating and wine bottles (played)
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:09:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3963, N-2*
+*Related: C-9000, N-2*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3959, N-607, N-2*
+*Related: C-8996, N-607, N-2*
 
 **A-2559.2** Mikhaila Peterson post on the video (read aloud)
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3960, N-608, N-2*
+*Related: C-8997, N-608, N-2*
 
 **A-2559.3** Ian Miles Cheong post blaming the host (read aloud)
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:07:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3961, N-603, N-2, N-3*
+*Related: C-8998, N-603, N-2, N-3*
 
 **A-2559.4** "Bible in Context" account post blaming the host and Tucker Carlson (read aloud)
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:08:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3962, N-3, N-22, N-5*
+*Related: C-8999, N-3, N-22, N-5*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:11:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3965, C-3966, C-3967, C-3968, N-10913, N-10000*
+*Related: C-9002, C-9003, C-9004, C-9005, N-10913, N-10000*
 
 **A-2560.2** Still image from a second tipster's previously unseen angle of the exit video (described; host says it was checked and is not AI)
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:12:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3969, N-10913*
+*Related: C-9006, N-10913*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3971, N-222, N-10915*
+*Related: C-9008, N-222, N-10915*
 
 **A-2561.2** Andrew Kolvet post on the ballroom (read aloud)
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3972, N-14, N-10915*
+*Related: C-9009, N-14, N-10915*
 
 **A-2561.3** Meghan McCain post on the ballroom (read aloud)
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:16:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3973, N-590, N-10915*
+*Related: C-9010, N-590, N-10915*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:22:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3976, C-3977, C-3978, C-3979, C-3980, N-580, N-22, N-298, N-609, N-610, N-10083, N-10916, N-10917, N-10918*
+*Related: C-9013, C-9014, C-9015, C-9016, C-9017, N-580, N-22, N-298, N-609, N-610, N-10083, N-10916, N-10917, N-10918*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:28:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3986, C-3987, N-611, N-30, N-220*
+*Related: C-9023, C-9024, N-611, N-30, N-220*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:29:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3988, C-3989, C-3990, C-3991, C-3992, C-3993, N-10070, N-611, N-613*
+*Related: C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, N-10070, N-611, N-613*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:36:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3995, N-2, N-266*
+*Related: C-9032, N-2, N-266*
 
 ---
 ## 4. Node Register
@@ -320,312 +320,312 @@ Confidence Level: Low
 
 The CEO-succession video the host has asked to see for 35 days is attributed to him. The host also says he was skilled at mimicking voices.
 
-*Related: C-3949, C-4000, C-4001*
+*Related: C-8986, C-9037, C-9038*
 
 **N-2** Erika Kirk
 
 Her viral "I just want to go home" exit from the White House Correspondents' Dinner is the subject of the host's bounty. The episode also covers her pre-dinner video, her speech, and the host's questions about the surgeon quote, the three-way call and the CEO video.
 
-*Related: C-3949, C-3951, C-3956, C-3957, C-3958, C-3959, C-3960, C-3961, C-3963, C-3964, C-3967, C-3968, C-3970, C-3995, C-3997, C-3998, C-3999, C-4000, A-2556.1, A-2556.2, A-2558.1, A-2558.2, A-2558.3, A-2559.1, A-2559.2, A-2559.3, A-2565.1*
+*Related: C-8986, C-8988, C-8993, C-8994, C-8995, C-8996, C-8997, C-8998, C-9000, C-9001, C-9004, C-9005, C-9007, C-9032, C-9034, C-9035, C-9036, C-9037, A-2556.1, A-2556.2, A-2558.1, A-2558.2, A-2558.3, A-2559.1, A-2559.2, A-2559.3, A-2565.1*
 
 **N-3** Candace Owens
 
 Host. She posts and renews the 10K bounty, relays the tips, and recounts her past conversation with Andrew Kolvet and what Erika Kirk told her.
 
-*Related: C-3950, C-3951, C-3956, C-3961, C-3962, C-3964, C-3974, C-3982, C-3983, C-3984, C-3985, C-3994, C-3995, C-3997, C-4001, C-4002, C-4003, C-4004, A-2555.1, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2559.3, A-2559.4*
+*Related: C-8987, C-8988, C-8993, C-8998, C-8999, C-9001, C-9011, C-9019, C-9020, C-9021, C-9022, C-9031, C-9032, C-9034, C-9038, C-9039, C-9040, C-9041, A-2555.1, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2559.3, A-2559.4*
 
 **N-5** Donald Trump
 
 Named in the ballroom talking point. Thomas Massie says Miriam Adelson has given him over $200 million, and the host says he is teaming up with AIPAC against Massie.
 
-*Related: C-3962, C-3971, C-3973, C-3975, C-3980, A-2559.4*
+*Related: C-8999, C-9008, C-9010, C-9012, C-9017, A-2559.4*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Cole", "Andrew Kolvet" and "Andrew Kolvet that". He posted the ballroom line. The host says he works with Jessica Reed Kraus and once asked her if she was a witch. She also says there is evidence he was in contact with Brian Harpole.
 
-*Related: C-3972, C-3981, C-3982, C-3996, C-3998, C-3999, A-2561.2*
+*Related: C-9009, C-9018, C-9019, C-9033, C-9035, C-9036, A-2561.2*
 
 **N-22** Tucker Carlson
 
 Interviewed Thomas Massie on his show and was blamed alongside the host in the "Bible in Context" post.
 
-*Related: C-3962, C-3976, C-3977, A-2559.4, A-2562.1*
+*Related: C-8999, C-9013, C-9014, A-2559.4, A-2562.1*
 
 **N-30** George (Candace's husband)
 
 Subject of the AI-generated silk-shirt photo posted by House Inhabit.
 
-*Related: C-3986, C-3987, A-2563.1*
+*Related: C-9023, C-9024, A-2563.1*
 
 **N-69** Kash Patel
 
 The host says his emails were hacked the day after Alexis Wilkins' thread about her.
 
-*Related: C-3985*
+*Related: C-9022*
 
 **N-159** Blake Neff
 
 Shared a screen grab that the host says showed progress bars on her episodes.
 
-*Related: C-3950, A-2555.1*
+*Related: C-8987, A-2555.1*
 
 **N-193** David Horowitz
 
 The host says he wrote a piece about her and died shortly afterwards.
 
-*Related: C-3984*
+*Related: C-9021*
 
 **N-212** Alexis Wilkins
 
 Posted a thread tying the host to Russia, General Flynn and the Catholic Church.
 
-*Related: C-3985*
+*Related: C-9022*
 
 **N-220** Milo Yiannopoulos
 
 Referred to as "Milo"; depicted with the host's husband in the AI photo.
 
-*Related: C-3986, C-3987, A-2563.1*
+*Related: C-9023, C-9024, A-2563.1*
 
 **N-222** Randy Fine
 
 Posted the ballroom line after the WHCD shooting.
 
-*Related: C-3971, A-2561.1*
+*Related: C-9008, A-2561.1*
 
 **N-224** Shawn Ryan
 
 The host believes Brian Harpole went on his show without TPUSA's permission.
 
-*Related: C-3997*
+*Related: C-9034*
 
 **N-266** Brian Harpole
 
 Erika Kirk told the host lawsuits against him were being prepared. The host also cites possible contact between him and Kolvet, and his Shawn Ryan appearance.
 
-*Related: C-3995, C-3996, C-3997, A-2565.1*
+*Related: C-9032, C-9033, C-9034, A-2565.1*
 
 **N-298** Miriam Adelson
 
 Named by Thomas Massie as a funder of MAGA Kentucky who has given over $200 million to the president.
 
-*Related: C-3978, C-3979, C-3980, A-2562.1*
+*Related: C-9015, C-9016, C-9017, A-2562.1*
 
 **N-370** Sara Sidner
 
 Transcript spelling "Sara Sidner". The CNN reporter who first posted the exit video; the host doubts she recorded it.
 
-*Related: C-3970, A-2558.2*
+*Related: C-9007, A-2558.2*
 
 **N-580** Thomas Massie
 
 Kentucky congressman who says $10 million, mostly from the Israeli lobby, has been spent against him.
 
-*Related: C-3975, C-3976, C-3977, C-3978, C-3979, C-3980, A-2562.1*
+*Related: C-9012, C-9013, C-9014, C-9015, C-9016, C-9017, A-2562.1*
 
 **N-590** Meghan McCain
 
 Posted the ballroom line after the WHCD shooting.
 
-*Related: C-3973, A-2561.3*
+*Related: C-9010, A-2561.3*
 
 **N-607** Graham Allen
 
 First named by the host at 00:07:24 in episode 101. Posted that viewers could hear Erika Kirk say she wanted to go home and asked people to pray for her.
 
-*Related: C-3959, A-2559.1*
+*Related: C-8996, A-2559.1*
 
 **N-608** Mikhaila Peterson
 
 First named by the host at 00:07:24 in episode 101. Posted that the Erika Kirk video showed "what PTSD looks like." Aliases: Mikhaila Peterson.
 
-*Related: C-3960, A-2559.2*
+*Related: C-8997, A-2559.2*
 
 **N-603** Ian Miles Cheong
 
 First named by the host at 00:07:24 in episode 101. Posted that the host's "conspiracy theorizing and attacks on Erika Kirk" led to the incident.
 
-*Related: C-3961, A-2559.3*
+*Related: C-8998, A-2559.3*
 
 **N-609** Paul Singer
 
 First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.
 
-*Related: C-3979, A-2562.1*
+*Related: C-9016, A-2562.1*
 
 **N-610** John Paulson
 
 First named by the host at 00:23:39 in episode 101. Named by Thomas Massie as one of three funders of the MAGA Kentucky PAC.
 
-*Related: C-3979, A-2562.1*
+*Related: C-9016, A-2562.1*
 
 **N-611** Jessica Reed Kraus
 
 First named by the host at 00:26:58 in episode 101. Influencer known as House Inhabit. The host says she works with Andrew Kolvet, posted an AI photo of the host's husband, and is the subject of a Daily Mail article on her marriage. Aliases: House Inhabit; House Inhabit; House Inhabit.
 
-*Related: C-3981, C-3986, C-3988, C-3989, C-3990, C-3991, C-3992, C-3993, A-2563.1, A-2564.1*
+*Related: C-9018, C-9023, C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, A-2563.1, A-2564.1*
 
 **N-612** Dennis Prager
 
 First named by the host at 00:26:58 in episode 101. The host says he wrote publicly about her and then fell down the stairs.
 
-*Related: C-3983*
+*Related: C-9020*
 
 **N-613** Ashley St. Clair
 
 First named by the host at 00:29:01 in episode 101. Former friend of Jessica Reed Kraus who described being present when Kraus found her husband's number on an escort-review site.
 
-*Related: C-3989, C-3990, A-2564.1*
+*Related: C-9026, C-9027, A-2564.1*
 
 **N-614** Cardi B
 
 First named by the host at 00:46:47 in episode 101. Rapper whose X exchange with the host the host says inspired her book "Make Him a Sandwich."
 
-*Related: C-4003*
+*Related: C-9040*
 
 **N-10000** Turning Point USA
 
 The person alleged to have recorded the exit video appears to have worked with TPUSA. The host repeats her questions for TPUSA leadership.
 
-*Related: C-3949, C-3966, C-3981, C-3995, C-3997, A-2560.1*
+*Related: C-8986, C-9003, C-9018, C-9032, C-9034, A-2560.1*
 
 **N-10026** Israel
 
 The country the host says is behind the Show Faith by Works propaganda effort and the outside spending against Thomas Massie.
 
-*Related: C-3952, C-3954, C-3978*
+*Related: C-8989, C-8991, C-9015*
 
 **N-10070** Daily Mail
 
 Published the article on Jessica Reed Kraus's marriage and the escort-review allegation.
 
-*Related: C-3988, C-3991, C-3992, C-3993, A-2564.1*
+*Related: C-9025, C-9028, C-9029, C-9030, A-2564.1*
 
 **N-10081** Israel Influence on US Politics
 
 The FARA propaganda spending and the Israeli-lobby money in Thomas Massie's primary.
 
-*Related: C-3954, C-3975, C-3978*
+*Related: C-8991, C-9012, C-9015*
 
 **N-10083** AIPAC
 
 Named by the host as teaming up with Trump against Massie, and by Massie as a source of the outside money.
 
-*Related: C-3975, C-3978, A-2562.1*
+*Related: C-9012, C-9015, A-2562.1*
 
 **N-10194** TPUSA Succession Plan Disclosure Timeline
 
 The 35-day-old request to see footage of Charlie Kirk naming Erika Kirk as chairman and CEO.
 
-*Related: C-3949, C-4000*
+*Related: C-8986, C-9037*
 
 **N-10341** Andrew Kolvet Surgeon Bullet Description
 
 The host calls the "steel neck" surgeon quote the biggest lie.
 
-*Related: C-3998*
+*Related: C-9035*
 
 **N-10447** Three-Way Surgeon Call / "Superman Neck" HIPAA Discrepancy
 
 The host contrasts Erika Kirk's "Andrew went rogue" account with Erika initiating a three-way call.
 
-*Related: C-3998, C-3999*
+*Related: C-9035, C-9036*
 
 **N-10583** Aspen Donor Audio Integrity Question
 
 Donors are said to say the CEO-succession video is AI.
 
-*Related: C-4000*
+*Related: C-9037*
 
 **N-10637** WHCD Incident Reconstruction
 
 The White House Correspondents' Dinner shooting and Erika Kirk's exit.
 
-*Related: C-3958, C-3962, A-2558.2*
+*Related: C-8995, C-8999, A-2558.2*
 
 **N-10638** Sara Sidner Original Video Source Verification
 
 The host doubts that Sidner recorded the exit video and suspects it was sent to her.
 
-*Related: C-3970, A-2558.2*
+*Related: C-9007, A-2558.2*
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
 
 The host cites evidence of possible contact between Kolvet and Harpole through military-bro YouTubers.
 
-*Related: C-3996*
+*Related: C-9033*
 
 **N-10662** 2025 FARA Propaganda Timeline Convergence
 
 The Show Faith by Works filing and the increased Israeli propaganda spend.
 
-*Related: C-3952, C-3953, C-3954, C-3955, A-2557.1*
+*Related: C-8989, C-8990, C-8991, C-8992, A-2557.1*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 The CEO-appointment footage that the host says has not been produced.
 
-*Related: C-3949, C-4000, C-4001*
+*Related: C-8986, C-9037, C-9038*
 
 **N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Erika Kirk told the host Harpole's Shawn Ryan appearance was unauthorized.
 
-*Related: C-3997*
+*Related: C-9034*
 
 **N-10913** Erika Kirk WHCD Exit Video Staging Question
 
 Node Type: Topic
 Investigation target: whether the viral video of Erika Kirk saying "I just want to go home" as she left the 2026 White House Correspondents' Dinner after shots were fired was staged. The host's $10,000 bounty produced a tip from a person in politics who offered a sworn affidavit and named the alleged recorder. That person is described as a freelancing political operative who had done work with Turning Point USA and was positioned in advance. The tipster says the clip was shared among digital media teams to make it go viral. A second tipster holds an unseen 30-second angle. The host says she will withhold the operative's name until it is confirmed.
 
-*Related: C-3951, C-3956, C-3964, C-3965, C-3966, C-3967, C-3968, C-3969, C-3974, C-4004, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2558.2, A-2560.1, A-2560.2, N-2, N-10638*
+*Related: C-8988, C-8993, C-9001, C-9002, C-9003, C-9004, C-9005, C-9006, C-9011, C-9041, A-2556.1, A-2556.2, A-2556.3, A-2556.4, A-2556.5, A-2558.2, A-2560.1, A-2560.2, N-2, N-10638*
 
 **N-10914** Show Faith by Works LLC
 
 Node Type: Organization
 FARA-registered entity that the host describes as a propaganda arm of the Israeli Foreign Ministry. Its filing includes a detailed plan aimed at evangelical Christians. Part of that plan is a mobile VR "October 7th experience" trailer to be set up in church parking lots, built with Hollywood set designers and paired with biblical calls to action.
 
-*Related: C-3952, C-3953, C-3955, A-2557.1, N-10662*
+*Related: C-8989, C-8990, C-8992, A-2557.1, N-10662*
 
 **N-10915** White House Ballroom Talking-Point Convergence
 
 Node Type: Topic
 Investigation target: the near-simultaneous posts by Randy Fine, Andrew Kolvet, Meghan McCain and others after the White House Correspondents' Dinner shooting, each saying the shooting showed why President Trump needs a White House ballroom. The host argues the uniform messaging suggests coordination.
 
-*Related: C-3971, C-3972, C-3973, A-2561.1, A-2561.2, A-2561.3, N-222, N-14, N-590*
+*Related: C-9008, C-9009, C-9010, A-2561.1, A-2561.2, A-2561.3, N-222, N-14, N-590*
 
 **N-10916** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Investigation target: the roughly $10 million spent against Representative Thomas Massie in his Republican primary in Kentucky. Massie says at least 95% of it came from the Israeli lobby, including the RJC, AIPAC and a PAC called MAGA Kentucky funded by Miriam Adelson, Paul Singer and John Paulson. He says the race has narrowed to a single-point lead.
 
-*Related: C-3975, C-3976, C-3977, C-3978, C-3979, A-2562.1, N-580*
+*Related: C-9012, C-9013, C-9014, C-9015, C-9016, A-2562.1, N-580*
 
 **N-10917** Republican Jewish Coalition
 
 Node Type: Organization
 Named by Thomas Massie as one of the Israeli-lobby proxies funding opposition to him.
 
-*Related: C-3978, A-2562.1*
+*Related: C-9015, A-2562.1*
 
 **N-10918** MAGA Kentucky
 
 Node Type: Organization
 PAC that Thomas Massie says was funded jointly by Miriam Adelson, Paul Singer and John Paulson to oppose him, and that he calls "neither MAGA nor Kentucky."
 
-*Related: C-3979, A-2562.1, N-298, N-609, N-610*
+*Related: C-9016, A-2562.1, N-298, N-609, N-610*
 
 **N-10919** Andrew Kolvet / House Inhabit PR Collaboration Question
 
 Node Type: Topic
 Investigation target: the host's allegation that Andrew Kolvet works with Jessica Reed Kraus (House Inhabit) and other YouTubers, using them as part of TPUSA's PR effort. She says Kraus is one of the people attacking her husband.
 
-*Related: C-3981, C-3986, N-14, N-611*
+*Related: C-9018, C-9023, N-14, N-611*
 
 ## 5. Claim Register
 
-**C-3949** 35 days since the host asked to see footage of Charlie Kirk naming Erika Kirk chairman and CEO
+**C-8986** 35 days since the host asked to see footage of Charlie Kirk naming Erika Kirk chairman and CEO
 
 Claim Timestamp: 00:00:01
 
@@ -640,7 +640,7 @@ Investigative Direction: Request the full, unedited source video of the Aspen re
 
 ---
 
-**C-3950** Blake Neff shared a screen grab showing progress bars on Candace episodes
+**C-8987** Blake Neff shared a screen grab showing progress bars on Candace episodes
 
 Claim Timestamp: 00:00:01
 
@@ -654,7 +654,7 @@ Investigative Direction: Archive Blake Neff's original post and its image at ful
 
 ---
 
-**C-3951** Bounty Posted for Footage or Information on the Erika Kirk "Go Home" Video
+**C-8988** Bounty Posted for Footage or Information on the Erika Kirk "Go Home" Video
 
 Claim Timestamp: 00:00:54
 
@@ -665,12 +665,12 @@ Transcript Snippet: about a week ago, little over a week ago, we put up a bounty
 Anchored Artifacts: A-2556.1
 Mentions: N-2, N-3
 Related Nodes: N-10913
-Supports: C-3745
+Supports: C-8578
 Investigative Direction: Archive the original bounty announcement (episode and posts) and its stated terms.
 
 ---
 
-**C-3952** Show Faith by Works LLC is a FARA-registered propaganda arm of the Israeli Foreign Ministry
+**C-8989** Show Faith by Works LLC is a FARA-registered propaganda arm of the Israeli Foreign Ministry
 
 Claim Timestamp: 00:01:56
 
@@ -684,7 +684,7 @@ Investigative Direction: Pull the Show Faith by Works LLC registration statement
 
 ---
 
-**C-3953** The FARA filing states a goal of providing the "October 7th experience" at churches
+**C-8990** The FARA filing states a goal of providing the "October 7th experience" at churches
 
 Claim Timestamp: 00:01:56
 
@@ -694,12 +694,12 @@ Transcript Snippet: their stated goal to provide the October 7th experience. The
 
 Anchored Artifacts: A-2557.1
 Related Nodes: N-10914, N-10662
-Supports: C-2862
+Supports: C-8837
 Investigative Direction: Locate the exact wording of the "October 7th experience" in the filing's attached plan and its intended venues.
 
 ---
 
-**C-3954** Israel is increasing its propaganda spend to about $750 million
+**C-8991** Israel is increasing its propaganda spend to about $750 million
 
 Claim Timestamp: 00:02:40
 
@@ -713,7 +713,7 @@ Investigative Direction: Identify the news report and underlying Israeli budget 
 
 ---
 
-**C-3955** FARA filing describes a mobile VR trailer built with Hollywood set designers
+**C-8992** FARA filing describes a mobile VR trailer built with Hollywood set designers
 
 Claim Timestamp: 00:04:14
 
@@ -723,12 +723,12 @@ Transcript Snippet: They're going to build this trailer. They're going to use Ho
 
 Anchored Artifacts: A-2557.1
 Related Nodes: N-10914, N-10662
-Supports: C-2862
+Supports: C-8837
 Investigative Direction: Obtain the full slide deck attached to the FARA filing and any vendor contracts for the trailer build.
 
 ---
 
-**C-3956** DIA: $10,000 bounty for information on the Erika Kirk exit video
+**C-8993** DIA: $10,000 bounty for information on the Erika Kirk exit video
 
 Claim Timestamp: 00:05:41
 
@@ -739,12 +739,12 @@ Transcript Snippet: Last week we put out a bounty. I was not playing around. I s
 Anchored Artifacts: A-2556.2
 Mentions: N-2, N-3
 Related Nodes: N-10913
-Supports: C-3745
+Supports: C-8578
 Investigative Direction: Archive the bounty announcement and record any payouts made under it.
 
 ---
 
-**C-3957** Pre-dinner video showed Erika Kirk inside sheer curtains
+**C-8994** Pre-dinner video showed Erika Kirk inside sheer curtains
 
 Claim Timestamp: 00:06:50
 
@@ -758,7 +758,7 @@ Investigative Direction: Identify who produced and first posted the pre-dinner v
 
 ---
 
-**C-3958** Viral video showed Erika Kirk saying "I just want to go home" after shots were fired
+**C-8995** Viral video showed Erika Kirk saying "I just want to go home" after shots were fired
 
 Claim Timestamp: 00:06:50
 
@@ -773,7 +773,7 @@ Investigative Direction: Establish the earliest upload of the clip, its metadata
 
 ---
 
-**C-3959** Graham Allen posted that Erika Kirk could be heard saying she wanted to go home
+**C-8996** Graham Allen posted that Erika Kirk could be heard saying she wanted to go home
 
 Claim Timestamp: 00:07:24
 
@@ -787,7 +787,7 @@ Investigative Direction: Archive Graham Allen's post with its timestamp relative
 
 ---
 
-**C-3960** Mikhaila Peterson posted that the video showed what PTSD looks like
+**C-8997** Mikhaila Peterson posted that the video showed what PTSD looks like
 
 Claim Timestamp: 00:07:24
 
@@ -801,7 +801,7 @@ Investigative Direction: Archive Mikhaila Peterson's post with its date.
 
 ---
 
-**C-3961** Ian Miles Cheong posted that the host's attacks on Erika Kirk "led to this"
+**C-8998** Ian Miles Cheong posted that the host's attacks on Erika Kirk "led to this"
 
 Claim Timestamp: 00:08:38
 
@@ -815,7 +815,7 @@ Investigative Direction: Archive Ian Miles Cheong's post with its timestamp.
 
 ---
 
-**C-3962** "Bible in Context" post blamed the host and Tucker Carlson for the WHCD shooting
+**C-8999** "Bible in Context" post blamed the host and Tucker Carlson for the WHCD shooting
 
 Claim Timestamp: 00:08:50
 
@@ -830,7 +830,7 @@ Investigative Direction: Archive the "Bible in Context" post and identify the ac
 
 ---
 
-**C-3963** Erika Kirk said every 10-person table at the dinner had 10 bottles of wine
+**C-9000** Erika Kirk said every 10-person table at the dinner had 10 bottles of wine
 
 Claim Timestamp: 00:10:30
 
@@ -844,7 +844,7 @@ Investigative Direction: Locate the full speech recording and its venue and date
 
 ---
 
-**C-3964** DIA: the 10K bounty produced direct tips on who recorded the video
+**C-9001** DIA: the 10K bounty produced direct tips on who recorded the video
 
 Claim Timestamp: 00:11:18
 
@@ -859,7 +859,7 @@ Investigative Direction: Document the tip intake (dates, channels) and any vetti
 
 ---
 
-**C-3965** First tipster works in politics, offered a sworn affidavit and named the recorder
+**C-9002** First tipster works in politics, offered a sworn affidavit and named the recorder
 
 Claim Timestamp: 00:11:18
 
@@ -874,7 +874,7 @@ Investigative Direction: Obtain the signed affidavit, if executed, and independe
 
 ---
 
-**C-3966** The alleged recorder appears to have worked with Turning Point USA
+**C-9003** The alleged recorder appears to have worked with Turning Point USA
 
 Claim Timestamp: 00:12:03
 
@@ -888,7 +888,7 @@ Investigative Direction: Once the name is released, check TPUSA vendor, contract
 
 ---
 
-**C-3967** Tipster alleges an operative was positioned in advance to film the exit
+**C-9004** Tipster alleges an operative was positioned in advance to film the exit
 
 Claim Timestamp: 00:12:52
 
@@ -903,7 +903,7 @@ Investigative Direction: Obtain venue credential lists and hotel security footag
 
 ---
 
-**C-3968** Tipster alleges the moment was staged and spread through digital media teams
+**C-9005** Tipster alleges the moment was staged and spread through digital media teams
 
 Claim Timestamp: 00:12:52
 
@@ -918,7 +918,7 @@ Investigative Direction: Trace the earliest shares of the clip across accounts a
 
 ---
 
-**C-3969** Second tipster sent a still from a previously unseen angle
+**C-9006** Second tipster sent a still from a previously unseen angle
 
 Claim Timestamp: 00:12:52
 
@@ -932,7 +932,7 @@ Investigative Direction: Obtain the full 30-second video with original metadata 
 
 ---
 
-**C-3970** Sara Sidner of CNN first posted the video but stopped short of saying she recorded it
+**C-9007** Sara Sidner of CNN first posted the video but stopped short of saying she recorded it
 
 Claim Timestamp: 00:13:49
 
@@ -943,12 +943,12 @@ Transcript Snippet: I I didn't buy that Sara Sidner of uh of CNN, who initially 
 Anchored Artifacts: A-2558.2
 Mentions: N-370, N-2
 Related Nodes: N-10638, N-10913
-Supports: C-2793
+Supports: C-8577
 Investigative Direction: Ask CNN and Sidner for the clip's provenance and the original file's metadata.
 
 ---
 
-**C-3971** Randy Fine posted that no one should complain about a White House ballroom again
+**C-9008** Randy Fine posted that no one should complain about a White House ballroom again
 
 Claim Timestamp: 00:16:21
 
@@ -963,7 +963,7 @@ Investigative Direction: Archive Fine's post with its timestamp relative to the 
 
 ---
 
-**C-3972** Andrew Kolvet posted that the shooting is why the president needs the ballroom
+**C-9009** Andrew Kolvet posted that the shooting is why the president needs the ballroom
 
 Claim Timestamp: 00:16:21
 
@@ -978,7 +978,7 @@ Investigative Direction: Archive Kolvet's post with its exact wording and timest
 
 ---
 
-**C-3973** Meghan McCain posted she did not want to hear more about Trump's ballroom
+**C-9010** Meghan McCain posted she did not want to hear more about Trump's ballroom
 
 Claim Timestamp: 00:16:21
 
@@ -993,7 +993,7 @@ Investigative Direction: Archive McCain's post and compare its timing with the o
 
 ---
 
-**C-3974** DIA: 10K "no questions asked" offered to members of the digital teams
+**C-9011** DIA: 10K "no questions asked" offered to members of the digital teams
 
 Claim Timestamp: 00:20:38
 
@@ -1008,7 +1008,7 @@ Investigative Direction: Track responses to the renewed offer and the identities
 
 ---
 
-**C-3975** Trump is teaming up with AIPAC to unseat Thomas Massie
+**C-9012** Trump is teaming up with AIPAC to unseat Thomas Massie
 
 Claim Timestamp: 00:21:42
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Review Trump's public statements and endorsements in th
 
 ---
 
-**C-3976** Massie says he has a single-point lead and $10 million has been spent against him
+**C-9013** Massie says he has a single-point lead and $10 million has been spent against him
 
 Claim Timestamp: 00:22:49
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Check FEC independent-expenditure reports for the race 
 
 ---
 
-**C-3977** Massie's previous primaries were won by margins of 81, 76 and 75 points
+**C-9014** Massie's previous primaries were won by margins of 81, 76 and 75 points
 
 Claim Timestamp: 00:22:49
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Compare with certified Kentucky primary results for Mas
 
 ---
 
-**C-3978** Massie says at least 95% of the money against him came from the Israeli lobby
+**C-9015** Massie says at least 95% of the money against him came from the Israeli lobby
 
 Claim Timestamp: 00:23:39
 
@@ -1068,7 +1068,7 @@ Investigative Direction: Total FEC-reported independent expenditures in the race
 
 ---
 
-**C-3979** Adelson, Singer and Paulson jointly funded a PAC called MAGA Kentucky
+**C-9016** Adelson, Singer and Paulson jointly funded a PAC called MAGA Kentucky
 
 Claim Timestamp: 00:23:39
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Pull MAGA Kentucky's FEC filings for its donor list and
 
 ---
 
-**C-3980** Miriam Adelson has given over $200 million to the president
+**C-9017** Miriam Adelson has given over $200 million to the president
 
 Claim Timestamp: 00:24:27
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Total Adelson's FEC-reported contributions to Trump-ali
 
 ---
 
-**C-3981** Andrew Kolvet has been working with Jessica Reed Kraus (House Inhabit)
+**C-9018** Andrew Kolvet has been working with Jessica Reed Kraus (House Inhabit)
 
 Claim Timestamp: 00:26:58
 
@@ -1113,7 +1113,7 @@ Investigative Direction: Identify the earlier revelation the host refers to and 
 
 ---
 
-**C-3982** Andrew Kolvet once asked the host whether she was a witch
+**C-9019** Andrew Kolvet once asked the host whether she was a witch
 
 Claim Timestamp: 00:26:58
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Seek call records or Kolvet's account of the conversati
 
 ---
 
-**C-3983** Dennis Prager wrote publicly about the host and then fell down the stairs
+**C-9020** Dennis Prager wrote publicly about the host and then fell down the stairs
 
 Claim Timestamp: 00:26:58
 
@@ -1141,7 +1141,7 @@ Investigative Direction: Date Prager's published piece about the host and the re
 
 ---
 
-**C-3984** David Horowitz wrote a piece about the host and died shortly after
+**C-9021** David Horowitz wrote a piece about the host and died shortly after
 
 Claim Timestamp: 00:26:58
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Date Horowitz's piece and his death.
 
 ---
 
-**C-3985** Kash Patel's emails were hacked the day after Alexis Wilkins' thread about the host
+**C-9022** Kash Patel's emails were hacked the day after Alexis Wilkins' thread about the host
 
 Claim Timestamp: 00:28:23
 
@@ -1169,7 +1169,7 @@ Investigative Direction: Compare the date of Wilkins' thread with public reporti
 
 ---
 
-**C-3986** House Inhabit posted a fake AI photo of the host's husband in a silk shirt with Milo
+**C-9023** House Inhabit posted a fake AI photo of the host's husband in a silk shirt with Milo
 
 Claim Timestamp: 00:28:23
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Archive the post and run AI-image provenance analysis o
 
 ---
 
-**C-3987** Milo had never met the host's husband in London
+**C-9024** Milo had never met the host's husband in London
 
 Claim Timestamp: 00:28:23
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Seek statements from Milo Yiannopoulos and George Farme
 
 ---
 
-**C-3988** Daily Mail ran a spread on Jessica Reed Kraus's marriage and escort claims
+**C-9025** Daily Mail ran a spread on Jessica Reed Kraus's marriage and escort claims
 
 Claim Timestamp: 00:29:01
 
@@ -1213,7 +1213,7 @@ Investigative Direction: Archive the Daily Mail article with its publication dat
 
 ---
 
-**C-3989** Jessica Reed Kraus attacked Ashley St. Clair at 3:00 a.m.
+**C-9026** Jessica Reed Kraus attacked Ashley St. Clair at 3:00 a.m.
 
 Claim Timestamp: 00:29:01
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Archive Kraus's posts about St. Clair with timestamps.
 
 ---
 
-**C-3990** Ashley St. Clair says she was with Kraus when Kraus found her husband on an escort-review site
+**C-9027** Ashley St. Clair says she was with Kraus when Kraus found her husband on an escort-review site
 
 Claim Timestamp: 00:29:49
 
@@ -1241,7 +1241,7 @@ Investigative Direction: Archive St. Clair's public account and her statement to
 
 ---
 
-**C-3991** Daily Mail confirmed the review was real and the number was the husband's
+**C-9028** Daily Mail confirmed the review was real and the number was the husband's
 
 Claim Timestamp: 00:30:36
 
@@ -1256,7 +1256,7 @@ Investigative Direction: Review the Daily Mail's stated verification method and 
 
 ---
 
-**C-3992** Kraus did not deny the incident but disputed its characterization
+**C-9029** Kraus did not deny the incident but disputed its characterization
 
 Claim Timestamp: 00:30:36
 
@@ -1271,7 +1271,7 @@ Investigative Direction: Obtain Kraus's full statement to the Daily Mail and the
 
 ---
 
-**C-3993** Kraus's husband confirmed the number was his
+**C-9030** Kraus's husband confirmed the number was his
 
 Claim Timestamp: 00:31:51
 
@@ -1286,7 +1286,7 @@ Investigative Direction: Confirm the husband's quoted statement in the Daily Mai
 
 ---
 
-**C-3994** The channel needs 12,000 more YouTube subscribers to reach 6 million
+**C-9031** The channel needs 12,000 more YouTube subscribers to reach 6 million
 
 Claim Timestamp: 00:36:02
 
@@ -1300,7 +1300,7 @@ Investigative Direction: Check archived subscriber counts for the channel on May
 
 ---
 
-**C-3995** Erika Kirk told the host lawsuits against Brian Harpole were being prepared
+**C-9032** Erika Kirk told the host lawsuits against Brian Harpole were being prepared
 
 Claim Timestamp: 00:36:02
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Search court dockets for any suit by Erika Kirk or TPUS
 
 ---
 
-**C-3996** Evidence suggests Andrew Kolvet may have been in contact with Brian Harpole
+**C-9033** Evidence suggests Andrew Kolvet may have been in contact with Brian Harpole
 
 Claim Timestamp: 00:36:02
 
@@ -1330,7 +1330,7 @@ Investigative Direction: Review the evidence shown in the prior episode and any 
 
 ---
 
-**C-3997** Brian Harpole went on Shawn Ryan without TPUSA's permission, per Erika Kirk
+**C-9034** Brian Harpole went on Shawn Ryan without TPUSA's permission, per Erika Kirk
 
 Claim Timestamp: 00:37:12
 
@@ -1345,7 +1345,7 @@ Investigative Direction: Ask TPUSA and Harpole whether the appearance was cleare
 
 ---
 
-**C-3998** The surgeon "steel neck" statement was a lie
+**C-9035** The surgeon "steel neck" statement was a lie
 
 Claim Timestamp: 00:37:12
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Obtain a statement from the treating surgeon on what, i
 
 ---
 
-**C-3999** Erika Kirk said Kolvet "went rogue" though she initiated a three-way call
+**C-9036** Erika Kirk said Kolvet "went rogue" though she initiated a three-way call
 
 Claim Timestamp: 00:37:12
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Obtain call logs showing who initiated the call with th
 
 ---
 
-**C-4000** Donors say the CEO-appointment video is AI and Charlie never said it
+**C-9037** Donors say the CEO-appointment video is AI and Charlie never said it
 
 Claim Timestamp: 00:38:15
 
@@ -1390,7 +1390,7 @@ Investigative Direction: Identify and interview the donors present at the Aspen 
 
 ---
 
-**C-4001** Charlie Kirk was skilled at mimicking voices
+**C-9038** Charlie Kirk was skilled at mimicking voices
 
 Claim Timestamp: 00:39:44
 
@@ -1405,7 +1405,7 @@ Investigative Direction: Collect recordings of Charlie Kirk doing impressions an
 
 ---
 
-**C-4002** A boycott call made the show's best merch sales day
+**C-9039** A boycott call made the show's best merch sales day
 
 Claim Timestamp: 00:41:55
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Compare the merch store's daily sales data with the dat
 
 ---
 
-**C-4003** "Make Him a Sandwich" started from an X exchange with Cardi B
+**C-9040** "Make Him a Sandwich" started from an X exchange with Cardi B
 
 Claim Timestamp: 00:46:47
 
@@ -1433,7 +1433,7 @@ Investigative Direction: Archive the original X exchange between the host and Ca
 
 ---
 
-**C-4004** DIA: closing request for WHCD tips with the 10K offer
+**C-9041** DIA: closing request for WHCD tips with the 10K offer
 
 Claim Timestamp: 00:47:36
 
@@ -1671,11 +1671,11 @@ Confidence: high
 
 ## 7. Optional Flags
 
-- **DIA beats**: five beats received the full treatment (claim, verbal-reference artifact, M-12 occurrence): 00:00:54 (C-3951, A-2556.1), 00:05:41 (C-3956, A-2556.2), 00:11:18 (C-3964, A-2556.3), 00:20:38–00:21:21 (C-3974, A-2556.4; "More tips at candaceowens. com" at 21:21) and 00:47:36–00:48:17 (C-4004, A-2556.5; "More tips at candaceowens. com" at 48:17). The 21:21 and 48:17 tip-line hits are each treated as part of the offer they close, not as separate beats. The "10K bounty" mention at 11:18 ("So, we put out that 10K bounty") is in the same beat as the payoff. Related beats without a keyword hit were not given an M-12 occurrence: the host's possible partial payment to the second tipster (13:49, "I might be out a couple of thousand dollars") and the viewer comment "let's gamble" with the host's reply (39:44–40:21). The CIA / Candace Intelligence Agency phrase does not air, so M-14 is not used.
+- **DIA beats**: five beats received the full treatment (claim, verbal-reference artifact, M-12 occurrence): 00:00:54 (C-8988, A-2556.1), 00:05:41 (C-8993, A-2556.2), 00:11:18 (C-9001, A-2556.3), 00:20:38–00:21:21 (C-9011, A-2556.4; "More tips at candaceowens. com" at 21:21) and 00:47:36–00:48:17 (C-9041, A-2556.5; "More tips at candaceowens. com" at 48:17). The 21:21 and 48:17 tip-line hits are each treated as part of the offer they close, not as separate beats. The "10K bounty" mention at 11:18 ("So, we put out that 10K bounty") is in the same beat as the payoff. Related beats without a keyword hit were not given an M-12 occurrence: the host's possible partial payment to the second tipster (13:49, "I might be out a couple of thousand dollars") and the viewer comment "let's gamble" with the host's reply (39:44–40:21). The CIA / Candace Intelligence Agency phrase does not air, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2556.1–A-2556.5 (bounty and tip-line beats) and A-2560.1 (the first tipster's account; the operative's name is withheld). A-2560.2 (second tipster's still) may have been shown; the transcript only says it was sent and checked.
 - **Name matching**: "Andrew Cole" (14:37), "Andrew Kolvet" (16:21), "Andrew Kolvet that"/"Andrew Kolvet" (26:58 onward) and "Andrew Kolvet" (32:44) are all mapped to N-14. "Sara Sidner" maps to N-370 Sara Sidner. "Mikhaila Peterson" ("vilified for her father") is taken to be Mikhaila Peterson (N-608); her father (Jordan Peterson) is not named, so he is not cited. "House Inhabit"/"House Inhabit" is kept as written and aliased to N-611 Jessica Reed Kraus (House Inhabit). "Milo" is matched to N-220 Milo Yiannopoulos. "Taro" (17:46, "Get the camera behind Charlie's head") is probably the existing node for Terryl Farnsworth, but the line is sarcasm, so it is not inscribed. "General Flynn" (26:58) is not matched to any node (nodes.tsv has only Conrad Flynn and David Flynn) and is not cited. "Ian" and "Baron" in a viewer comment (40:21) are probably Ian Carroll and Baron Coleman but are not cited.
 - **Transcription ambiguities**: "this Tommy Robinson story" and "Katie Hopkins trying to free Tommy Robinson" (26:16) probably refer to Tyler Robinson and the official Charlie Kirk case narrative. They are kept as written and not inscribed. "Mercel's and hot cells" (14:37) is unclear. "Daily Hit Mail" (30:36) is kept as written. "Standis cup" (36:02) is presumably a Stanley-style merch cup. "Dr. Stephanie Van Watson" is in a sponsor read and is excluded.
 - **Not inscribed as claims (admission test)**: the host's speculation that Andrew Kolvet might have texted someone to get the shot and that "someone sold her grief" (14:37); "my every instinct is that the video was staged" (opinion, though the tipster allegations are inscribed); the forecast that proof of staging would be "really bad" for MAGA (18:34); the question of why Trump needs a ballroom when he holds events at Mar-a-Lago and did not need one after Butler (17:05); "Israel is at war with American minds"/"America's occupied" (21:42, 25:30); the host's call to vote for Massie; Massie's description of Christians United for Israel as "another wing of AIPAC and RJC" (characterization); insults of Graham Allen, Jessica Reed Kraus and Blake Neff ("Chex Mix maniac" was Neff's insult of the host); the Matilda Wormwood and "nobody puts baby in the corner" bits; the claim that Kraus's co-workers called her a "manic drunk" (attributed hearsay without an artifact); the host's statement that she is "completely embarrassed" to have supported Trump; and grief reflections about Charlie Kirk.
-- **Possible cross-episode links left out**: C-3998 (steel neck "lie") is related to C-1941/C-2619 (Kolvet posted the surgeon "man of steel" quote) but does not contradict that the post existed, so it is not linked. C-4000 (donors say the video is AI) may be in tension with C-2181 (ep 61, an Aspen donor recalls Charlie saying Erika would "know what to do"), but it is not the same proposition, so it is not linked. C-3975–C-3980 (Massie primary) are related to the ep 78 Turning Point Action / Massie claims (C-2467, C-2474) but make different propositions. C-3995 (Erika said lawsuits against Harpole were being prepared) is the reverse of C-2810 (Harpole's suit against the host) and is not linked.
-- **Sponsor reads** (Nimi skincare, PDS Debt, Fatty 15) and the subscriber/Standis-cup merch promotion are excluded, apart from the subscriber count (C-3994) and the merch-boycott sales claim (C-4002).
+- **Possible cross-episode links left out**: C-9035 (steel neck "lie") is related to C-4080/C-7706 (Kolvet posted the surgeon "man of steel" quote) but does not contradict that the post existed, so it is not linked. C-9037 (donors say the video is AI) may be in tension with C-5512 (ep 61, an Aspen donor recalls Charlie saying Erika would "know what to do"), but it is not the same proposition, so it is not linked. C-9012–C-9017 (Massie primary) are related to the ep 78 Turning Point Action / Massie claims (C-7044, C-7047) but make different propositions. C-9032 (Erika said lawsuits against Harpole were being prepared) is the reverse of C-8636 (Harpole's suit against the host) and is not linked.
+- **Sponsor reads** (Nimi skincare, PDS Debt, Fatty 15) and the subscriber/Standis-cup merch promotion are excluded, apart from the subscriber count (C-9031) and the merch-boycott sales claim (C-9039).
 - **Meta**: the skeleton's Video Timestamp Range (00:56:29) has been corrected to the transcript duration, 00:48:38.

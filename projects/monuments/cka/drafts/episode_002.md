@@ -17,9 +17,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep002): N-10037, N-10056, N-10097, N-10104, N-10106, N-10165, N-10268, N-10342, N-10345, N-10350, N-10446, N-10754
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-10643–C-10716
+  - Claim Range: C-57–C-153
   - Artifact Families Introduced: A-1081, A-1082, A-1083, A-1084, A-1085, A-1086, A-1087, A-1088, A-1089, A-1090, A-1091, A-1092, A-1093, A-1094, A-2515
-  - Claim Range: C-1125-C-1143, C-3720
   - New Nodes Introduced: N-36, N-37, N-38, N-39, N-40, N-41, N-42, N-43, N-44, N-45, N-46, N-47, N-48, N-49, N-50, N-51, N-52, N-53, N-10011, N-10012, N-10013, N-10014, N-10015, N-10016, N-10017, N-10018, N-10019, N-10020, N-10021, N-10022, N-10023, N-10024, N-10025, N-10027, N-10028
   - Reused Nodes Appearing: N-1, N-2, N-3, N-10000, N-10005, N-10006, N-9, N-22, N-5, N-27, N-10026
 
@@ -34,7 +33,7 @@ CKA seq 2 presents host commentary on the Charlie Kirk assassination investigati
 **A-1081.1** Brief clip of Erika Kirk's public remarks after Charlie Kirk's death, played on screen.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:00:59–00:01:41
-*Related: C-3630, N-3, N-2, N-1*
+*Related: C-57, N-3, N-2, N-1*
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Confidence: high
 
@@ -45,7 +44,7 @@ Confidence: high
 **A-1082.1** Clip of Netanyahu on Fox News less than 24 hours after Kirk's death, holding up the May 2 letter and describing a phone call and Israel invitation.
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:07:02–00:08:46
-*Related: C-3631, C-1125, C-1129, N-36, N-10006*
+*Related: C-65, C-67, C-82, N-36, N-10006*
 Transcript Snippet: he said he wrote me a letter on on May 2nd this year. ... A few weeks before the tragedy yesterday, I I called him and I spoke to him and I said, "Please come to Israel."
 Confidence: high
 
@@ -56,7 +55,7 @@ Confidence: high
 **A-1083.1** Physical letter held up by Netanyahu on Fox News, dated May 2, containing quoted Israel/Judeo-Christian support sentences.
 Event Timestamp: 2025-05-02
 Video Timestamp: 00:07:26–00:07:33
-*Related: C-1125, C-1126, N-1, N-36*
+*Related: C-67, C-72, N-1, N-36*
 Transcript Snippet: One of my greatest joys as a Christian is advocating for Israel and forming alliances to defend Judeo-Christian civilization.
 Confidence: high
 
@@ -67,7 +66,7 @@ Confidence: high
 **A-1084.1** Clip of Charlie Kirk speaking with Megyn Kelly ~1 month before his death, describing pressure regarding Israel criticism and event guest lists.
 Event Timestamp: 2025-08
 Video Timestamp: 00:10:51–00:12:33
-*Related: C-1127, N-1, N-46, N-22, N-39*
+*Related: C-73, N-1, N-46, N-22, N-39*
 Transcript Snippet: My moral character is now being put into question… It feels like a pattern of behavior similar to what my grandparents saw in 1930s Germany online.
 Confidence: high
 
@@ -78,7 +77,7 @@ Confidence: high
 **A-1085.1** Clip of Greta Van Susteren asking Netanyahu to address internet rumors that Israel was behind Kirk's assassination.
 Event Timestamp: 2025-09
 Video Timestamp: 00:25:47–00:27:10
-*Related: C-1131, N-36, N-44, N-10026*
+*Related: C-101, N-36, N-44, N-10026*
 Transcript Snippet: Some of the internet rumors that somehow Israel is behind the Charlie Kirk um murder. ... I want you to, you know, make a statement.
 Confidence: high
 
@@ -89,7 +88,7 @@ Confidence: high
 **A-1086.1** Clip played of Charlie Kirk stating that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.
 Event Timestamp: pre-2025-09-10
 Video Timestamp: 00:30:28–00:32:08
-*Related: C-1132, N-1, N-9, N-47, N-48, N-10015*
+*Related: C-105, N-1, N-9, N-47, N-48, N-10015*
 Transcript Snippet: Epstein was playing a part. Epstein was a larer… Members of Congress are actively being blackmailed.
 Confidence: high
 
@@ -100,7 +99,7 @@ Confidence: high
 **A-1087.1** Clip of Michael Savage disputing FBI narrative that the Mauser rifle was disassembled on the rooftop and reassembled in the woods.
 Event Timestamp: 2025-09
 Video Timestamp: 00:35:36–00:37:03
-*Related: C-1139, C-1140, N-43, N-10014, N-10020*
+*Related: C-124, C-125, N-43, N-10014, N-10020*
 Transcript Snippet: There's no rifle in his hand… They claim he removed the barrel from the mouser and fit the receiver and stock in his backpack…
 Confidence: high
 
@@ -111,21 +110,21 @@ Confidence: high
 **A-1088.1** TMZ video at 8:07 AM showing a man in maroon t-shirt and light shorts walking near UVU campus before the shooting.
 Event Timestamp: 2025-09-10T08:07
 Video Timestamp: 00:39:49–00:40:07
-*Related: C-1133, N-40, N-10011, N-10012, N-10028*
+*Related: C-114, N-40, N-10011, N-10012, N-10028*
 Transcript Snippet: which shows a man at 8:07 a. m., so hours before the shooting, wearing a maroon t-shirt and light shorts, ... hands in his pockets, that is just walking outside of university grounds.
 Confidence: high
 
 **A-1088.2** TMZ doorbell camera footage at 11:49 AM showing a person in a different outfit, reportedly limping.
 Event Timestamp: 2025-09-10T11:49
 Video Timestamp: 00:41:53–00:42:22
-*Related: C-1135, N-40, N-10011, N-10019*
+*Related: C-117, N-40, N-10011, N-10019*
 Transcript Snippet: So, this is 11:49 a. m. Charlie Kirk has not yet been shot. ... you are going to see someone who appears to be limping.
 Confidence: high
 
 **A-1088.3** TMZ backyard running footage at 12:29 PM showing a person allegedly running after the shooting.
 Event Timestamp: 2025-09-10T12:29
 Video Timestamp: 00:45:00–00:45:19
-*Related: C-1138, N-40, N-10011, N-10024*
+*Related: C-123, N-40, N-10011, N-10024*
 Transcript Snippet: Then at 12:29 p. m., um, we have TMZ showing us that the there's a person running through the backyard.
 Confidence: medium
 Uncertainty: Footage described as very grainy; feds have not confirmed it shows Robinson.
@@ -137,28 +136,28 @@ Uncertainty: Footage described as very grainy; feds have not confirmed it shows 
 **A-1089.1** Governor Cox statement: Robinson arrived at UVU campus in gray Dodge Challenger at 8:29 AM in maroon shirt.
 Event Timestamp: 2025-09-12
 Video Timestamp: 00:40:45–00:41:04
-*Related: C-1134, N-40, N-41, N-10012, N-10024*
+*Related: C-115, N-40, N-41, N-10012, N-10024*
 Transcript Snippet: Investigators identified Robinson arriving on UVU campus in a gray Dodge Challenger at approximately 8:29 a.m.
 Confidence: high
 
 **A-1089.2** Governor Cox statement that Robinson's roommate is transitioning male-to-female and cooperating.
 Event Timestamp: 2025-09
 Video Timestamp: 00:51:19–00:52:17
-*Related: C-1141, N-40, N-41, N-10021*
+*Related: C-135, N-40, N-41, N-10021*
 Transcript Snippet: His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.
 Confidence: high
 
 **A-1089.3** Governor Cox statement that Robinson has not confessed and is not cooperating with authorities.
 Event Timestamp: 2025-09
 Video Timestamp: 00:51:02–00:51:10
-*Related: C-1142, N-40, N-41, N-45, N-10021*
+*Related: C-133, N-40, N-41, N-45, N-10021*
 Transcript Snippet: he has not confessed to um to authorities. He he is he is uh he is not cooperating.
 Confidence: high
 
 **A-1089.4** Governor Cox statement summarizing Discord messages about rifle drop point, outfit change, and engraved bullets.
 Event Timestamp: 2025-09
 Video Timestamp: 00:53:03–00:54:07
-*Related: C-1140, N-40, N-41, N-10013, N-10019*
+*Related: C-125, N-40, N-41, N-10013, N-10019*
 Transcript Snippet: a need to retrieve a rifle from a drop point, leaving the rifle in a bush, ... a message referring to having left the rifle wrapped in a towel.
 Confidence: high
 
@@ -169,7 +168,7 @@ Confidence: high
 **A-1090.1** Discord spokesperson statement that they found no evidence the suspect planned the incident or promoted violence on Discord.
 Event Timestamp: 2025-09
 Video Timestamp: 00:54:19–00:54:36
-*Related: C-1143, N-10013, N-40*
+*Related: C-141, N-10013, N-40*
 Transcript Snippet: Discord identified a Discord account associated with the suspect, but have found no evidence that the suspect planned this incident.
 Confidence: high
 
@@ -180,7 +179,7 @@ Confidence: high
 **A-1091.1** Tweet by Bill Ackman (transcribed as 'Aman') saying he was privileged to share a meal with Charlie Kirk, presented as contradictory to host narrative.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:47–00:18:58
-*Related: C-1137, N-37, N-10016*
+*Related: C-86, N-37, N-10016*
 Transcript Snippet: I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer. He was a giant of a man.
 Confidence: medium
 Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire named in same Hamptons discussion).
@@ -192,7 +191,7 @@ Uncertainty: Transcript spells 'Aman'; flag for likely Bill Ackman (billionaire 
 **A-1092.1** Text messages sent by Candace Owens to Seth Dillon about the Hamptons meeting, described by host as shown on screen.
 Event Timestamp: 2025-09
 Video Timestamp: 00:18:41–00:19:36
-*Related: C-1137, N-3, N-38, N-37, N-36, N-10016, N-10018*
+*Related: C-86, N-3, N-38, N-37, N-36, N-10016, N-10018*
 Transcript Snippet: You were present when Aman lost his mind on Charlie and when BB invited him to Israel and Charlie refused.
 Confidence: high
 
@@ -203,14 +202,14 @@ Confidence: high
 **A-1093.1** Photo of rifle found in woods wrapped in dark towel, fully assembled.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:45:42–00:46:01
-*Related: C-1139, N-10014, N-40, N-10020*
+*Related: C-124, N-10014, N-40, N-10020*
 Transcript Snippet: The weapon, they say, was found in the woods and it was wrapped by a dark towel.
 Confidence: medium
 
 **A-1093.2** Photo of screwdriver reportedly found on the roof.
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:46:15–00:46:32
-*Related: C-1140, N-10014, N-10020*
+*Related: C-125, N-10014, N-10020*
 Transcript Snippet: A screwdriver was found on the roof… he undid perhaps undid this gun while he was on the rooftop.
 Confidence: medium
 
@@ -231,7 +230,7 @@ Confidence: medium
 
 **A-2515.1** Host reading recommendations: David Bakan, Shlomo Sand and Abraham Poliak (verbal reference; no displayed artifact)
 Video Timestamp: 01:02:29–01:07:08
-*Related: C-3720, N-50, N-51, N-52, N-53*
+*Related: C-147, N-50, N-51, N-52, N-53*
 Transcript Snippet: I would recommend you read David Bakan,
 Confidence: medium
 
@@ -246,7 +245,7 @@ Video Timestamp: 00:05:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10646, N-1, N-3*
+*Related: C-61, N-1, N-3*
 
 ---
 
@@ -259,7 +258,7 @@ Video Timestamp: 00:09:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10654, N-1, N-3, N-5, N-10056*
+*Related: C-71, N-1, N-3, N-5, N-10056*
 
 ---
 
@@ -272,7 +271,7 @@ Video Timestamp: 00:43:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10690, C-10691, N-1, N-3, N-10020, N-10024, N-10754*
+*Related: C-119, C-120, N-1, N-3, N-10020, N-10024, N-10754*
 
 ---
 
@@ -287,7 +286,7 @@ Video Timestamp: 01:08:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10715, N-3*
+*Related: C-151, N-3*
 
 ---
 
@@ -300,7 +299,7 @@ Video Timestamp: 00:59:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10707, N-1, N-2, N-10268*
+*Related: C-142, N-1, N-2, N-10268*
 
 ---
 
@@ -311,7 +310,7 @@ Confidence Level: High
 Node Type: Person
 Subject of the assassination investigation; central to all claims about pressure, spiritual transformation, and Israel relationship.
 
-*Related: A-1081.1, A-1082.1, A-1083.1, A-1084.1, A-1086.1, A-1091.1, C-3630, C-1125, C-1126, C-1127, C-1130, C-1132, C-3631, C-1128, C-1129, C-1136*
+*Related: A-1081.1, A-1082.1, A-1083.1, A-1084.1, A-1086.1, A-1091.1, C-57, C-67, C-72, C-73, C-84, C-105, C-65, C-79, C-82, C-118*
 
 Confidence: high
 
@@ -322,7 +321,7 @@ Confidence: high
 Node Type: Person
 Host of the episode; sources many second-hand claims about the Hamptons meeting and family interactions.
 
-*Related: A-1092.1, C-1128, C-1130, C-1137, C-3630, C-1126*
+*Related: A-1092.1, C-79, C-84, C-86, C-57, C-72*
 
 Confidence: high
 
@@ -333,7 +332,7 @@ Confidence: high
 Node Type: Person
 Charlie Kirk's widow; subject of the widow remarks clip and quoted recollection of meeting attendees.
 
-*Related: A-1081.1, C-3630*
+*Related: A-1081.1, C-57*
 
 Confidence: high
 
@@ -344,7 +343,7 @@ Confidence: high
 Node Type: Person
 Israeli PM; subject of Fox News and Greta interview clips; alleged instigator of pressure on Kirk.
 
-*Related: A-1082.1, A-1083.1, A-1085.1, A-1092.1, C-3631, C-1125, C-1126, C-1129, C-1131, C-1130*
+*Related: A-1082.1, A-1083.1, A-1085.1, A-1092.1, C-65, C-67, C-72, C-82, C-101, C-84*
 
 Confidence: high
 
@@ -355,7 +354,7 @@ Confidence: high
 Node Type: Person
 Billionaire allegedly present at Hamptons meeting; host claims he staged intervention against Kirk.
 
-*Related: A-1091.1, A-1092.1, C-1128, C-1137, C-1129*
+*Related: A-1091.1, A-1092.1, C-79, C-86, C-82*
 
 Confidence: medium
 Uncertainty: Transcript spells 'Aman'; likely Bill Ackman (billionaire, Epstein context, later named in same discussion).
@@ -367,7 +366,7 @@ Uncertainty: Transcript spells 'Aman'; likely Bill Ackman (billionaire, Epstein 
 Node Type: Person
 Reportedly present at Hamptons meeting; subject of host's unanswered text exchange.
 
-*Related: A-1092.1, C-1137, C-1128, C-1129*
+*Related: A-1092.1, C-86, C-79, C-82*
 
 Confidence: medium
 
@@ -378,7 +377,7 @@ Confidence: medium
 Node Type: Person
 Speaker at Turning Point USA America Fest; subject of pressure allegations and Bill Ackman complaint.
 
-*Related: A-1084.1, C-1127*
+*Related: A-1084.1, C-73*
 
 Confidence: high
 
@@ -389,7 +388,7 @@ Confidence: high
 Node Type: Person
 Libertarian commentator invited to America Fest; subject of Israel-lobby pressure allegations.
 
-*Related: A-1084.1, C-1127*
+*Related: A-1084.1, C-73*
 
 Confidence: high
 
@@ -400,7 +399,7 @@ Confidence: high
 Node Type: Person
 Named suspect in Charlie Kirk assassination; subject of multiple official statements and physical evidence claims.
 
-*Related: A-1088.1, A-1088.2, A-1088.3, A-1089.1, A-1089.2, A-1089.3, A-1089.4, A-1090.1, A-1093.1, A-1093.2, A-1094.1, C-1133, C-1134, C-1135, C-1138, C-1139, C-1141, C-1142, C-1143*
+*Related: A-1088.1, A-1088.2, A-1088.3, A-1089.1, A-1089.2, A-1089.3, A-1089.4, A-1090.1, A-1093.1, A-1093.2, A-1094.1, C-114, C-115, C-117, C-123, C-124, C-135, C-133, C-141*
 
 Confidence: high
 
@@ -411,7 +410,7 @@ Confidence: high
 Node Type: Person
 Governor of Utah; press conference source for multiple investigation claims.
 
-*Related: A-1089.1, A-1089.2, A-1089.3, A-1089.4, C-1134, C-1141, C-1142*
+*Related: A-1089.1, A-1089.2, A-1089.3, A-1089.4, C-115, C-135, C-133*
 
 Confidence: high
 
@@ -422,7 +421,7 @@ Confidence: high
 Node Type: Person
 Person briefly arrested and labeled a 'decoy' by host; allegedly signaled he shot Charlie Kirk.
 
-*Related: A-1081.1, C-3630*
+*Related: A-1081.1, C-57*
 
 Confidence: medium
 
@@ -435,7 +434,7 @@ Confidence: medium
 Node Type: Person
 Commentator whose clip is played disputing FBI rifle narrative.
 
-*Related: A-1087.1, C-1139*
+*Related: A-1087.1, C-124*
 
 Confidence: high
 
@@ -446,7 +445,7 @@ Confidence: high
 Node Type: Person
 Interviewer who asked Netanyahu about Israel-involvement rumors.
 
-*Related: A-1085.1, C-1131*
+*Related: A-1085.1, C-101*
 
 Confidence: high
 
@@ -457,7 +456,7 @@ Confidence: high
 Node Type: Person
 Reporter whose reporting on Robinson's acquaintances is referenced by Governor Cox.
 
-*Related: A-1089.3, C-1142*
+*Related: A-1089.3, C-133*
 
 Confidence: medium
 
@@ -470,7 +469,7 @@ Confidence: medium
 Node Type: Person
 Interviewer who spoke with Charlie Kirk about Israel pressure ~1 month before his death.
 
-*Related: A-1084.1, C-1127*
+*Related: A-1084.1, C-73*
 
 Confidence: high
 
@@ -481,7 +480,7 @@ Confidence: high
 Node Type: Person
 Subject of Charlie Kirk clip alleging blackmail operation run by Israeli/American/Saudi intelligence.
 
-*Related: A-1086.1, C-1132*
+*Related: A-1086.1, C-105*
 
 Confidence: high
 
@@ -492,7 +491,7 @@ Confidence: high
 Node Type: Person
 Named in Charlie Kirk clip as Epstein associate; father described as Israeli intelligence spy.
 
-*Related: A-1086.1, C-1132*
+*Related: A-1086.1, C-105*
 
 Confidence: high
 Uncertainty: Transcript spells 'Galain'; clearly Ghislaine Maxwell.
@@ -504,7 +503,7 @@ Uncertainty: Transcript spells 'Galain'; clearly Ghislaine Maxwell.
 Node Type: Person
 Ghislaine Maxwell's father; described by host and Charlie Kirk clip as Israeli intelligence operative.
 
-*Related: A-1086.1, C-1132*
+*Related: A-1086.1, C-105*
 
 Confidence: medium
 
@@ -515,7 +514,7 @@ Confidence: medium
 Node Type: Person
 Reporter who asked Bill Ackman to dispute the Hamptons narrative; Ackman reportedly declined.
 
-*Related: C-1128*
+*Related: C-79*
 
 Confidence: high
 
@@ -526,7 +525,7 @@ Confidence: high
 Node Type: Person
 President whose account tweeted a photo of Charlie Kirk with US and Israeli flags.
 
-*Related: A-1081.1, C-3630*
+*Related: A-1081.1, C-57*
 
 Confidence: high
 
@@ -539,7 +538,7 @@ Confidence: high
 Node Type: Person
 Subject of host reading recommendations; framed by host as father of modern gaslighting rather than modern psychology.
 
-*Related: A-1081.1, C-3630*
+*Related: A-1081.1, C-57*
 
 Confidence: high
 Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
@@ -553,7 +552,7 @@ Uncertainty: Transcript spells 'Sigman'; clearly Sigmund Freud.
 Node Type: Person
 Author recommended by host on Freud and Jewish mystical tradition history.
 
-*Related: A-2515.1, C-3720*
+*Related: A-2515.1, C-147*
 
 Confidence: medium
 
@@ -566,7 +565,7 @@ Confidence: medium
 Node Type: Person
 Tel Aviv University historian; author of 'The Invention of the Jewish People' recommended by host.
 
-*Related: A-2515.1, C-3720*
+*Related: A-2515.1, C-147*
 
 Confidence: high
 Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
@@ -580,7 +579,7 @@ Uncertainty: Transcript spells 'Schlommo'; canonical Shlomo Sand.
 Node Type: Person
 Author referenced by host as having traced Ashkenazi origins to the Khazars and won awards for it.
 
-*Related: A-2515.1, C-3720*
+*Related: A-2515.1, C-147*
 
 Confidence: low
 Uncertainty: Transcript 'Abraham Poliak'; canonical name uncertain (possibly Arthur Koestler 'The Thirteenth Tribe' or similar).
@@ -605,7 +604,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Network where Netanyahu appeared twice within 24 hours of Kirk's death.
 
-*Related: A-1082.1, A-1085.1, C-3631*
+*Related: A-1082.1, A-1085.1, C-65*
 
 ---
 
@@ -615,7 +614,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Press source of multiple surveillance video timestamps (8:07 AM, 11:49 AM, 12:29 PM).
 
-*Related: A-1088.1, A-1088.2, A-1088.3, C-1133, C-1135, C-1138*
+*Related: A-1088.1, A-1088.2, A-1088.3, C-114, C-117, C-123*
 
 ---
 
@@ -625,7 +624,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Site of the September 10 shooting; source of campus surveillance referenced by Governor Cox.
 
-*Related: A-1088.1, A-1089.1, C-1133, C-1134*
+*Related: A-1088.1, A-1089.1, C-114, C-115*
 
 ---
 
@@ -635,7 +634,7 @@ Node Type: Organization
 Organization Kind: platform_or_initiative
 Messaging platform at center of contradictory statements: Cox claims Discord messages discussed rifle drop, while Discord says no evidence of planning.
 
-*Related: A-1089.4, A-1090.1, C-1140, C-1143*
+*Related: A-1089.4, A-1090.1, C-125, C-141*
 
 ---
 
@@ -645,7 +644,7 @@ Node Type: Organization
 Organization Kind: government_agency
 Lead federal agency in Kirk investigation; subject of host and Savage skepticism over rifle narrative.
 
-*Related: A-1087.1, A-1093.1, A-1093.2, A-1094.1, C-1139, C-1140*
+*Related: A-1087.1, A-1093.1, A-1093.2, A-1094.1, C-124, C-125*
 
 ---
 
@@ -655,7 +654,7 @@ Node Type: Organization
 Organization Kind: government_agency
 Israeli intelligence agency referenced in Charlie Kirk clip as alleged creator of Epstein blackmail operation.
 
-*Related: A-1086.1, C-1132*
+*Related: A-1086.1, C-105*
 Uncertainty: Transcript spells 'Mossad'; canonical Mossad.
 
 ---
@@ -668,7 +667,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Investigation thread on alleged Bill Ackman-led intervention against Kirk weeks before his death.
 
-*Related: A-1091.1, A-1092.1, C-1128, C-1137*
+*Related: A-1091.1, A-1092.1, C-79, C-86*
 
 ---
 
@@ -689,7 +688,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Discrepancy between Netanyahu's framing of the May 2 letter and host's claim that it actually expressed concern over Israel influence.
 
-*Related: A-1083.1, C-1125, C-1126*
+*Related: A-1083.1, C-67, C-72*
 
 ---
 
@@ -699,7 +698,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Alleged phone call where Netanyahu invited Kirk to Israel weeks before his death; host frames it as a threat under pressure.
 
-*Related: A-1082.1, A-1092.1, C-1129, C-1130*
+*Related: A-1082.1, A-1092.1, C-82, C-84*
 
 ---
 
@@ -709,7 +708,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Discrepancy between surveillance outfits (maroon vs black) and the 33-hour re-donning of the original outfit.
 
-*Related: A-1088.1, A-1088.2, A-1089.4, A-1094.1, C-1135*
+*Related: A-1088.1, A-1088.2, A-1089.4, A-1094.1, C-117*
 
 ---
 
@@ -719,7 +718,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 FBI narrative that the Mauser was disassembled on the rooftop, carried in backpack, and found reassembled in woods.
 
-*Related: A-1087.1, A-1093.1, A-1093.2, C-1139, C-1140*
+*Related: A-1087.1, A-1093.1, A-1093.2, C-124, C-125*
 
 ---
 
@@ -729,7 +728,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Discrepancy between reported father/pastor-led turn-in and Governor Cox's statement that Robinson has not confessed.
 
-*Related: A-1089.2, A-1089.3, C-1141, C-1142*
+*Related: A-1089.2, A-1089.3, C-135, C-133*
 
 ---
 
@@ -749,7 +748,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Allegation that Jeffrey Epstein was created by Israeli/American/Saudi intelligence for blackmail operations.
 
-*Related: A-1086.1, C-1132*
+*Related: A-1086.1, C-105*
 
 ---
 
@@ -759,7 +758,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Composite timeline constructed from TMZ footage, Governor Cox statements, and FBI evidence about Kirk shooting.
 
-*Related: A-1088.1, A-1088.2, A-1088.3, A-1089.1, C-1133, C-1134, C-1136, C-1138, C-1143*
+*Related: A-1088.1, A-1088.2, A-1088.3, A-1089.1, C-114, C-115, C-118, C-123, C-141*
 
 ---
 
@@ -769,7 +768,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host's broader narrative pattern of Israel-aligned actors pressuring conservative commentators critical of Israeli policy.
 
-*Related: A-1084.1, C-1127*
+*Related: A-1084.1, C-73*
 
 ---
 
@@ -779,7 +778,7 @@ Node Type: Place
 Place Kind: country
 Subject of Netanyahu phone invitation, May 2 letter, and Greta Van Susteren interview.
 
-*Related: A-1082.1, A-1083.1, A-1085.1, C-1131*
+*Related: A-1082.1, A-1083.1, A-1085.1, C-101*
 
 ---
 
@@ -799,7 +798,7 @@ Node Type: Place
 Place Kind: venue
 UVU campus in Orem, Utah; site of the September 10, 2025 shooting.
 
-*Related: A-1088.1, A-1089.1, C-1133*
+*Related: A-1088.1, A-1089.1, C-114*
 
 ---
 
@@ -807,7 +806,7 @@ UVU campus in Orem, Utah; site of the September 10, 2025 shooting.
 
 Kanye West; the host says she reached out to him about the song Power after Kirk's death.
 
-*Related: C-10644*
+*Related: C-59*
 
 ---
 
@@ -815,7 +814,7 @@ Kanye West; the host says she reached out to him about the song Power after Kirk
 
 Existing topic reused; Bill Ackman's response to the host's account of the Hamptons meeting.
 
-*Related: C-10658, C-10661, C-10665, C-10699*
+*Related: C-77, C-81, C-88, C-131*
 
 ---
 
@@ -823,7 +822,7 @@ Existing topic reused; Bill Ackman's response to the host's account of the Hampt
 
 Existing topic reused; dispute over how Netanyahu and others portray Kirk's stance on Israel.
 
-*Related: C-10653, C-10654, C-10676*
+*Related: C-70, C-71, C-99*
 
 ---
 
@@ -831,7 +830,7 @@ Existing topic reused; dispute over how Netanyahu and others portray Kirk's stan
 
 Existing topic reused; George Zinn's arrest and the timing of the in-custody announcement.
 
-*Related: C-10693*
+*Related: C-122*
 
 ---
 
@@ -839,7 +838,7 @@ Existing topic reused; George Zinn's arrest and the timing of the in-custody ann
 
 Existing topic reused; claims that Charlie Kirk was moving toward Catholicism.
 
-*Related: C-10670, C-10671, C-10672*
+*Related: C-93, C-94, C-95*
 
 ---
 
@@ -847,7 +846,7 @@ Existing topic reused; claims that Charlie Kirk was moving toward Catholicism.
 
 Existing topic reused; Kirk's reported sense of being morally blackmailed by donors.
 
-*Related: C-10656, C-10673, C-10677, C-10683*
+*Related: C-75, C-96, C-100, C-108*
 
 ---
 
@@ -855,7 +854,7 @@ Existing topic reused; Kirk's reported sense of being morally blackmailed by don
 
 Existing topic reused; question of why only grainy campus footage was released.
 
-*Related: C-10696*
+*Related: C-128*
 
 ---
 
@@ -863,7 +862,7 @@ Existing topic reused; question of why only grainy campus footage was released.
 
 Existing topic reused; pressure over who could speak at AmFest.
 
-*Related: C-10655, C-10657, C-10659, C-10674, C-10675, C-10707*
+*Related: C-74, C-76, C-78, C-97, C-98, C-142*
 
 ---
 
@@ -871,7 +870,7 @@ Existing topic reused; pressure over who could speak at AmFest.
 
 Existing topic reused; the funding offer from Netanyahu to Turning Point USA.
 
-*Related: C-10663*
+*Related: C-85*
 
 ---
 
@@ -879,7 +878,7 @@ Existing topic reused; the funding offer from Netanyahu to Turning Point USA.
 
 Existing topic reused; Seth Dillon's role at the Hamptons meeting.
 
-*Related: C-10666, C-10667, C-10668*
+*Related: C-89, C-90, C-91*
 
 ---
 
@@ -887,7 +886,7 @@ Existing topic reused; Seth Dillon's role at the Hamptons meeting.
 
 Existing topic reused; Kirk's Catholic practice and trajectory.
 
-*Related: C-10670, C-10671, C-10672*
+*Related: C-93, C-94, C-95*
 
 ---
 
@@ -895,7 +894,7 @@ Existing topic reused; Kirk's Catholic practice and trajectory.
 
 Existing topic reused; the Hamptons meeting and the Netanyahu funding offer.
 
-*Related: C-10660, C-10664*
+*Related: C-80, C-87*
 
 ---
 
@@ -903,13 +902,13 @@ Existing topic reused; the Hamptons meeting and the Netanyahu funding offer.
 
 Existing topic reused; analysis of the shooter's movement across the rooftop.
 
-*Related: C-10690, C-10691*
+*Related: C-119, C-120*
 
 ---
 
 ## 5. Claim Register
 
-**C-3630** Erika Kirk Addressed Nation with Public Remarks
+**C-57** Erika Kirk Addressed Nation with Public Remarks
 
 Claim Timestamp: 00:01:41
 Claim: In a clip the host plays, Erika Kirk says that the movement her husband built will not die and frames his mission as continuing after his death.
@@ -921,7 +920,7 @@ Investigative Direction: Obtain full unedited version of Erika Kirk's remarks an
 
 ---
 
-**C-3631** Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death
+**C-65** Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death
 
 Claim Timestamp: 00:07:05
 Claim: The host says Netanyahu appeared on Fox News less than 24 hours after Kirk's death, and plays a clip in which he discusses Kirk and quotes a letter Kirk wrote him.
@@ -934,7 +933,7 @@ Investigative Direction: Verify timestamps of Netanyahu's two Fox News appearanc
 
 ---
 
-**C-1125** Kirk Wrote Netanyahu a Letter on May 2
+**C-67** Kirk Wrote Netanyahu a Letter on May 2
 
 Claim Timestamp: 00:07:45
 Claim: Netanyahu claimed on Fox News that Charlie Kirk wrote him a letter on May 2 expressing support for Israel.
@@ -947,7 +946,7 @@ Investigative Direction: Obtain full text of the May 2 letter and verify against
 
 ---
 
-**C-1126** May 2 Letter Actually Expressed Concern Over Israel Influence
+**C-72** May 2 Letter Actually Expressed Concern Over Israel Influence
 
 Claim Timestamp: 00:10:35
 Claim: Host asserts the May 2 letter actually expressed concerns about Israel influence on American politics, contradicting Netanyahu's framing.
@@ -955,14 +954,14 @@ Transcript Snippet: Charlie was concerned about Israel and their influence on Am
 Anchored Artifacts: A-1083.1
 Mentions: N-1, N-3, N-36
 Related Nodes: N-10017
-Contradicts: C-1125
+Contradicts: C-67
 Confidence: medium
 Uncertainty: Host's framing is an assertion; full letter text not shown in episode.
 Investigative Direction: Compare full letter text against Netanyahu's quoted excerpt to determine actual content.
 
 ---
 
-**C-1127** Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death
+**C-73** Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death
 
 Claim Timestamp: 00:11:53
 Claim: In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he has been treated unfairly by some over Israel, after Kelly notes he was attacked for having Dave Smith at a Turning Point event, saying his moral character is being put into question.
@@ -975,7 +974,7 @@ Investigative Direction: Verify exact date of Megyn Kelly interview and guest li
 
 ---
 
-**C-1128** Bill Ackman Staged Intervention Against Kirk in Hamptons
+**C-79** Bill Ackman Staged Intervention Against Kirk in Hamptons
 
 Claim Timestamp: 00:15:24
 Claim: The host says she is told that Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
@@ -989,7 +988,7 @@ Investigative Direction: Identify attendees and obtain statements from Seth Dill
 
 ---
 
-**C-1129** Host Says Netanyahu Called Kirk and Invited Him to Israel
+**C-82** Host Says Netanyahu Called Kirk and Invited Him to Israel
 
 Claim Timestamp: 00:16:23
 Claim: The host says that at the time of the Hamptons meeting Netanyahu was called and Kirk was invited to Israel.
@@ -1003,7 +1002,7 @@ Investigative Direction: Cross-reference Netanyahu's Fox News statement with tex
 Tags: open_source_investigation
 ---
 
-**C-1130** Kirk Declined Netanyahu's Israel Funding and Invitation
+**C-84** Kirk Declined Netanyahu's Israel Funding and Invitation
 
 Claim Timestamp: 00:17:13
 Claim: Host asserts Kirk declined the Israel trip and funding that Netanyahu would have provided.
@@ -1017,7 +1016,7 @@ Investigative Direction: Confirm with attendees or document evidence of declined
 
 ---
 
-**C-1131** Van Susteren Asked Netanyahu About Israel Involvement
+**C-101** Van Susteren Asked Netanyahu About Israel Involvement
 
 Claim Timestamp: 00:26:45
 Claim: Greta Van Susteren asked Netanyahu on air to address internet rumors that Israel was behind Kirk's assassination.
@@ -1030,7 +1029,7 @@ Investigative Direction: Verify full interview and surrounding context of the qu
 
 ---
 
-**C-1132** Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset
+**C-105** Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset
 
 Claim Timestamp: 00:29:11
 Claim: In a clip the host plays, Charlie Kirk refers to Epstein's friend Ghislaine and her father Robert Maxwell, whom he calls "obviously a spy of the Israeli intelligence agencies", says intel agencies want blackmail on powerful people, and says Epstein was a creation of either Mossad, Israeli, American or Saudi intelligence, or maybe just a hired gun.
@@ -1044,7 +1043,7 @@ Investigative Direction: Identify original source clip and verify exact wording 
 
 ---
 
-**C-1133** Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt
+**C-114** Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt
 
 Claim Timestamp: 00:39:49
 Claim: The host says TMZ has footage, which she shows, of a man at 8:07 AM on September 10, wearing a maroon shirt, walking outside university grounds near the UVU campus.
@@ -1057,7 +1056,7 @@ Investigative Direction: Obtain timestamped original TMZ footage and verify chai
 
 ---
 
-**C-1134** Governor Cox Stated Robinson Arrived at 8:29 AM
+**C-115** Governor Cox Stated Robinson Arrived at 8:29 AM
 
 Claim Timestamp: 00:40:45
 Claim: Governor Cox stated Robinson arrived at UVU campus at 8:29 AM in a gray Dodge Challenger wearing maroon shirt and shorts.
@@ -1070,7 +1069,7 @@ Investigative Direction: Compare Cox's statement against UVU surveillance and TM
 
 ---
 
-**C-1135** Host Says Doorbell Cam at 11:49 AM Showed Person in Different Outfit
+**C-117** Host Says Doorbell Cam at 11:49 AM Showed Person in Different Outfit
 
 Claim Timestamp: 00:41:53
 Claim: The host says TMZ released doorbell-camera footage at 11:49 AM on September 10, which she shows, of the shooter in a different outfit and appearing to limp.
@@ -1084,7 +1083,7 @@ Investigative Direction: Obtain doorbell camera source and chain of custody; ver
 
 ---
 
-**C-1136** Host Says Kirk Was Shot at 12:23 PM on September 10
+**C-118** Host Says Kirk Was Shot at 12:23 PM on September 10
 
 Claim Timestamp: 00:42:47
 Claim: The host says Charlie Kirk was shot at 12:23 PM on September 10, 2025.
@@ -1099,7 +1098,7 @@ Investigative Direction: Cross-reference official timeline and autopsy report.
 Tags: open_source_investigation
 ---
 
-**C-1137** Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative
+**C-86** Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative
 
 Claim Timestamp: 00:18:22
 Claim: The host says she is waiting for Bill Ackman or anyone at the Hamptons meeting to go on record disputing her account, and that Seth Dillon, whom she says is normally quick to respond, had not yet responded to her text messages.
@@ -1112,7 +1111,7 @@ Investigative Direction: Independently verify non-response by reaching out to Se
 
 ---
 
-**C-1138** TMZ Backyard Running Footage at 12:29 PM
+**C-123** TMZ Backyard Running Footage at 12:29 PM
 
 Claim Timestamp: 00:45:00
 Claim: TMZ released footage at 12:29 PM showing a person allegedly running through a backyard after the Kirk shooting.
@@ -1126,7 +1125,7 @@ Investigative Direction: Obtain original TMZ footage; verify timestamp and ident
 
 ---
 
-**C-1139** Host Says Rifle Was Found in Woods Wrapped in Dark Towel
+**C-124** Host Says Rifle Was Found in Woods Wrapped in Dark Towel
 
 Claim Timestamp: 00:45:42
 Claim: The host says authorities say the weapon was found in the woods wrapped in a dark towel, and that the photo they gave of it showed it fully assembled.
@@ -1139,7 +1138,7 @@ Investigative Direction: Obtain FBI evidence photos and chain of custody for rec
 
 ---
 
-**C-1140** Screwdriver Found on Roof
+**C-125** Screwdriver Found on Roof
 
 Claim Timestamp: 00:46:15
 Claim: The host says she has been told that a screwdriver was found on the roof.
@@ -1151,7 +1150,7 @@ Investigative Direction: Confirm with FBI evidence inventory and forensics repor
 
 ---
 
-**C-1141** Governor Cox Says Robinson's Roommate Is Transitioning and Cooperating
+**C-135** Governor Cox Says Robinson's Roommate Is Transitioning and Cooperating
 
 Claim Timestamp: 00:51:19
 Claim: In a clip the host plays, Governor Cox says he can confirm that Robinson's roommate was a boyfriend transitioning from male to female and that he is cooperating with authorities.
@@ -1164,7 +1163,7 @@ Investigative Direction: Verify Cox's press conference transcript and corroborat
 
 ---
 
-**C-1142** Robinson Has Not Confessed to Authorities
+**C-133** Robinson Has Not Confessed to Authorities
 
 Claim Timestamp: 00:51:02
 Claim: Governor Cox stated that Robinson has not confessed to authorities and is not cooperating.
@@ -1177,7 +1176,7 @@ Investigative Direction: Verify with subsequent FBI/AG press releases.
 
 ---
 
-**C-1143** Discord States No Evidence of Planning on Platform
+**C-141** Discord States No Evidence of Planning on Platform
 
 Claim Timestamp: 00:54:19
 Claim: Discord issued a statement saying they found no evidence that the suspect planned the incident or promoted violence on Discord.
@@ -1190,7 +1189,7 @@ Investigative Direction: Obtain full Discord statement and any subsequent update
 
 ---
 
-**C-3633** Host identifies show community as Decentralized Intelligence Agency
+**C-152** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 01:08:52
 Claim: The host invites viewers who have information to send tips and says those who want to join "our movement of the decentralized intelligence agency" can support the show.
@@ -1204,7 +1203,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 ---
 
 
-**C-3720** Host recommends David Bakan, Shlomo Sand and Abraham Poliak to viewers
+**C-147** Host recommends David Bakan, Shlomo Sand and Abraham Poliak to viewers
 
 Claim Timestamp: 01:02:29
 Claim: The host recommends reading David Bakan's book on Sigmund Freud and the Jewish mystical tradition, Shlomo Sand's The Invention of the Jewish People, and Abraham Poliak (transcript: "Abraham Poliak"), whom she says won awards for tracing Ashkenazi Jews to the Khazars.
@@ -1216,7 +1215,7 @@ Investigative Direction: Confirm the titles and authors recommended and the awar
 
 ---
 
-**C-10643** Host Says She Spoke With a Priest and Went to Confession
+**C-58** Host Says She Spoke With a Priest and Went to Confession
 
 Claim Timestamp: 00:03:19
 
@@ -1231,7 +1230,7 @@ Investigative Direction: Identify the priest only if the host volunteers it; oth
 
 ---
 
-**C-10644** Host Says She Reached Out to Kanye West About the Song Power
+**C-59** Host Says She Reached Out to Kanye West About the Song Power
 
 Claim Timestamp: 00:03:51
 
@@ -1246,7 +1245,7 @@ Investigative Direction: Ask the host to show the message to Kanye West and any 
 
 ---
 
-**C-10645** Host Says She Told Viewers Kirk Was Going Through a Spiritual Transformation
+**C-60** Host Says She Told Viewers Kirk Was Going Through a Spiritual Transformation
 
 Claim Timestamp: 00:04:44
 
@@ -1262,7 +1261,7 @@ Investigative Direction: Locate the earlier episode where the host first hinted 
 
 ---
 
-**C-10646** Host Says She Will Show Kirk's Favorite Lyrics From the Text Thread
+**C-61** Host Says She Will Show Kirk's Favorite Lyrics From the Text Thread
 
 Claim Timestamp: 00:05:09
 
@@ -1277,7 +1276,7 @@ Investigative Direction: Obtain the full text thread with date stamps to confirm
 
 ---
 
-**C-10647** Host Says Kirk Was Fighting for Custody of Himself at the End
+**C-62** Host Says Kirk Was Fighting for Custody of Himself at the End
 
 Claim Timestamp: 00:06:00
 
@@ -1293,7 +1292,7 @@ Investigative Direction: Ask for the messages or conversations from which the ho
 
 ---
 
-**C-10648** Host Says Netanyahu Tweeted First About Kirk's Death
+**C-63** Host Says Netanyahu Tweeted First About Kirk's Death
 
 Claim Timestamp: 00:06:17
 
@@ -1308,7 +1307,7 @@ Investigative Direction: Compare the time stamp of Netanyahu's first post about 
 
 ---
 
-**C-10649** Host Says Erika Kirk Did Not Mention Netanyahu in Her Speech
+**C-64** Host Says Erika Kirk Did Not Mention Netanyahu in Her Speech
 
 Claim Timestamp: 00:06:43
 
@@ -1323,7 +1322,7 @@ Investigative Direction: Check the full transcript of Erika Kirk's remarks for a
 
 ---
 
-**C-10650** Netanyahu Refers to Kirk's 2019 Visit and a Lunch With Kirk and Erika
+**C-66** Netanyahu Refers to Kirk's 2019 Visit and a Lunch With Kirk and Erika
 
 Claim Timestamp: 00:07:22
 
@@ -1339,7 +1338,7 @@ Investigative Direction: Verify the 2019 Israel visit and lunch from Fox News fo
 
 ---
 
-**C-10651** Netanyahu Says He Phoned Kirk a Few Weeks Before the Shooting
+**C-68** Netanyahu Says He Phoned Kirk a Few Weeks Before the Shooting
 
 Claim Timestamp: 00:07:54
 
@@ -1355,7 +1354,7 @@ Investigative Direction: Obtain phone records or an Israeli or TPUSA scheduling 
 
 ---
 
-**C-10652** Netanyahu Says Kirk Was Excited to Walk in the Footsteps of Jesus
+**C-69** Netanyahu Says Kirk Was Excited to Walk in the Footsteps of Jesus
 
 Claim Timestamp: 00:08:14
 
@@ -1371,7 +1370,7 @@ Investigative Direction: Compare with Kirk's own public statements about visitin
 
 ---
 
-**C-10653** Netanyahu Blames Radical Islamists and Ultra-Progressives
+**C-70** Netanyahu Blames Radical Islamists and Ultra-Progressives
 
 Claim Timestamp: 00:08:48
 
@@ -1387,7 +1386,7 @@ Investigative Direction: Compare with the facts later released about the suspect
 
 ---
 
-**C-10654** Host Says Trump's Account Posted Kirk With American and Israeli Flags
+**C-71** Host Says Trump's Account Posted Kirk With American and Israeli Flags
 
 Claim Timestamp: 00:09:39
 
@@ -1403,7 +1402,7 @@ Investigative Direction: Locate the original post on Trump's account and archive
 
 ---
 
-**C-10655** Host Says Kirk Was Told He Could Not Invite Certain People
+**C-74** Host Says Kirk Was Told He Could Not Invite Certain People
 
 Claim Timestamp: 00:13:00
 
@@ -1414,13 +1413,13 @@ Transcript Snippet: but flat out telling him that he was not allowed to invite c
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10025, N-10268
-Supports: C-1127
+Supports: C-73
 Tags: relevance:core
 Investigative Direction: Identify who told Kirk which speakers to exclude; request messages or emails from TPUSA staff and donors.
 
 ---
 
-**C-10656** Host Says Donors Threatened to Pull Money and Kirk Got Nasty Texts About Tucker and Candace
+**C-75** Host Says Donors Threatened to Pull Money and Kirk Got Nasty Texts About Tucker and Candace
 
 Claim Timestamp: 00:13:11
 
@@ -1431,13 +1430,13 @@ Transcript Snippet: They were threatening to pull out money. Uh Charlie was gett
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-22
 Related Nodes: N-10000, N-10025, N-10106
-Supports: C-1127
+Supports: C-73
 Tags: relevance:core
 Investigative Direction: Obtain the text messages the host says she can release and corroborate with donor communications to TPUSA.
 
 ---
 
-**C-10657** Host Says Dave Smith Is Jewish and Was Targeted for Debating Israel at AmFest
+**C-76** Host Says Dave Smith Is Jewish and Was Targeted for Debating Israel at AmFest
 
 Claim Timestamp: 00:13:29
 
@@ -1453,7 +1452,7 @@ Investigative Direction: Check the AmFest 2025 programming and any donor complai
 
 ---
 
-**C-10658** Host Says Ackman Was on Kirk About Tucker Carlson's Comments
+**C-77** Host Says Ackman Was on Kirk About Tucker Carlson's Comments
 
 Claim Timestamp: 00:14:11
 
@@ -1469,7 +1468,7 @@ Investigative Direction: Obtain Ackman's communications with Kirk or TPUSA after
 
 ---
 
-**C-10659** Host Says Tucker Carlson Asked Where Ackman's Money Comes From
+**C-78** Host Says Tucker Carlson Asked Where Ackman's Money Comes From
 
 Claim Timestamp: 00:14:21
 
@@ -1485,7 +1484,7 @@ Investigative Direction: Check the video of Carlson's AmFest remarks for the exa
 
 ---
 
-**C-10660** Host Says Threats Were Made at the Hamptons and Ackman Was Very Upset
+**C-80** Host Says Threats Were Made at the Hamptons and Ackman Was Very Upset
 
 Claim Timestamp: 00:15:40
 
@@ -1496,13 +1495,13 @@ Transcript Snippet: Uh, Bill Ackman was very upset and threats were made.
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-1
 Related Nodes: N-10016, N-10446
-Supports: C-1128
+Supports: C-79
 Tags: relevance:core
 Investigative Direction: Identify attendees of the Hamptons meeting and obtain their account or contemporaneous messages.
 
 ---
 
-**C-10661** Host Says Ackman Claimed Receipts and Did Not Provide Them
+**C-81** Host Says Ackman Claimed Receipts and Did Not Provide Them
 
 Claim Timestamp: 00:16:08
 
@@ -1518,7 +1517,7 @@ Investigative Direction: Ask Blumenthal for the exchange with Ackman and ask Ack
 
 ---
 
-**C-10662** Host Says She Was Invited Elsewhere Under Pressure and It Felt Like a Threat
+**C-83** Host Says She Was Invited Elsewhere Under Pressure and It Felt Like a Threat
 
 Claim Timestamp: 00:16:55
 
@@ -1534,7 +1533,7 @@ Investigative Direction: Ask the host to say who invited her, to where and when,
 
 ---
 
-**C-10663** Host Says Kirk Was Offered a Ton of Money
+**C-85** Host Says Kirk Was Offered a Ton of Money
 
 Claim Timestamp: 00:17:18
 
@@ -1545,13 +1544,13 @@ Transcript Snippet: Um, and I know that Charlie was offered a ton of money in th
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-36
 Related Nodes: N-10342, N-10018
-Supports: C-1130
+Supports: C-84
 Tags: relevance:core
 Investigative Direction: Identify the source of the offer and the amount; obtain messages sent after the meeting that reference it.
 
 ---
 
-**C-10664** Host Says Messages Sent After the Hamptons Meeting Are Solid
+**C-87** Host Says Messages Sent After the Hamptons Meeting Are Solid
 
 Claim Timestamp: 00:18:23
 
@@ -1562,13 +1561,13 @@ Transcript Snippet: it's solid. Okay, there were conversations that took place, 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10016, N-10446
-Supports: C-1128
+Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain the messages sent immediately after the meeting that the host says are circulating and verify their date and sender.
 
 ---
 
-**C-10665** Ackman Tweeted He Shared a Meal With Kirk This Summer
+**C-88** Ackman Tweeted He Shared a Meal With Kirk This Summer
 
 Claim Timestamp: 00:19:14
 
@@ -1584,7 +1583,7 @@ Investigative Direction: Archive the Ackman tweet with its timestamp and compare
 
 ---
 
-**C-10666** Host Texted Dillon That He Was Present When Ackman Lost His Mind and Netanyahu Invited Kirk
+**C-89** Host Texted Dillon That He Was Present When Ackman Lost His Mind and Netanyahu Invited Kirk
 
 Claim Timestamp: 00:19:40
 
@@ -1595,13 +1594,13 @@ Transcript Snippet: You were present when Aman lost his mind on Charlie and when
 Anchored Artifacts: A-1092.1
 Mentions: N-3, N-38, N-37, N-36, N-1
 Related Nodes: N-10345, N-10016
-Supports: C-1128
+Supports: C-79
 Tags: relevance:core
 Investigative Direction: Ask Dillon whether he attended the Hamptons meeting and whether he disputes the host's description.
 
 ---
 
-**C-10667** Host Says Dillon Placed Frantic Calls to Turning Point USA
+**C-90** Host Says Dillon Placed Frantic Calls to Turning Point USA
 
 Claim Timestamp: 00:20:09
 
@@ -1617,7 +1616,7 @@ Investigative Direction: Ask TPUSA staff and Dillon about calls between them in 
 
 ---
 
-**C-10668** Host Says Meeting Attendees Are Coordinating a Response and Will Not Go on Record
+**C-91** Host Says Meeting Attendees Are Coordinating a Response and Will Not Go on Record
 
 Claim Timestamp: 00:20:23
 
@@ -1633,7 +1632,7 @@ Investigative Direction: Identify the two other attendees the host says she cont
 
 ---
 
-**C-10669** Host Says Attendees Know Someone Is Leaking
+**C-92** Host Says Attendees Know Someone Is Leaking
 
 Claim Timestamp: 00:20:31
 
@@ -1649,7 +1648,7 @@ Investigative Direction: Identify the leak source through the host's sources; ch
 
 ---
 
-**C-10670** Host Says Kirk Was Praying the Rosary
+**C-93** Host Says Kirk Was Praying the Rosary
 
 Claim Timestamp: 00:21:09
 
@@ -1665,7 +1664,7 @@ Investigative Direction: Identify witnesses or objects (rosary, Mass attendance 
 
 ---
 
-**C-10671** Host Says Kirk Went to Mass and She Urged Him to Make the Last Step
+**C-94** Host Says Kirk Went to Mass and She Urged Him to Make the Last Step
 
 Claim Timestamp: 00:21:29
 
@@ -1681,7 +1680,7 @@ Investigative Direction: Ask for the message thread of that conversation; identi
 
 ---
 
-**C-10672** Host Says Kirk Replied That She Was Speaking About Mary
+**C-95** Host Says Kirk Replied That She Was Speaking About Mary
 
 Claim Timestamp: 00:21:43
 
@@ -1697,7 +1696,7 @@ Investigative Direction: Obtain the text or voice exchange to confirm the wordin
 
 ---
 
-**C-10673** Host Says She Knew Which Donors Were Pressuring Kirk and Why
+**C-96** Host Says She Knew Which Donors Were Pressuring Kirk and Why
 
 Claim Timestamp: 00:22:23
 
@@ -1713,7 +1712,7 @@ Investigative Direction: Ask the host to name the donors and release the message
 
 ---
 
-**C-10674** Host Says Donors Insisted on Speakers Kirk Did Not Want
+**C-97** Host Says Donors Insisted on Speakers Kirk Did Not Want
 
 Claim Timestamp: 00:22:39
 
@@ -1729,7 +1728,7 @@ Investigative Direction: Identify the speakers and the donors involved; compare 
 
 ---
 
-**C-10675** Host Says Kirk Was Miked the Entire Time at Events
+**C-98** Host Says Kirk Was Miked the Entire Time at Events
 
 Claim Timestamp: 00:23:04
 
@@ -1745,7 +1744,7 @@ Investigative Direction: Ask TPUSA to confirm whether audio of Kirk's pre-stage 
 
 ---
 
-**C-10676** Host Says There Is No Evidence Israel Was Involved in the Assassination
+**C-99** Host Says There Is No Evidence Israel Was Involved in the Assassination
 
 Claim Timestamp: 00:24:13
 
@@ -1761,7 +1760,7 @@ Investigative Direction: Record the host's later statements on Israeli involveme
 
 ---
 
-**C-10677** Host Says Kirk Felt He Had Effectively Been Blackmailed After the Meeting
+**C-100** Host Says Kirk Felt He Had Effectively Been Blackmailed After the Meeting
 
 Claim Timestamp: 00:25:05
 
@@ -1777,7 +1776,7 @@ Investigative Direction: Obtain Kirk's post-meeting messages that the host says 
 
 ---
 
-**C-10678** Netanyahu Calls the Rumors Insane and Says Israel Also Changes the Orbit of the Moon
+**C-102** Netanyahu Calls the Rumors Insane and Says Israel Also Changes the Orbit of the Moon
 
 Claim Timestamp: 00:26:55
 
@@ -1793,7 +1792,7 @@ Investigative Direction: Obtain the full video of the interview and its airdate 
 
 ---
 
-**C-10679** Netanyahu Says the Perpetrator Has Just Been Found
+**C-103** Netanyahu Says the Perpetrator Has Just Been Found
 
 Claim Timestamp: 00:27:14
 
@@ -1809,7 +1808,7 @@ Investigative Direction: Match against the interview airdate and the status of t
 
 ---
 
-**C-10680** Netanyahu Compares the Rumors to Medieval Accusations Against Jews
+**C-104** Netanyahu Compares the Rumors to Medieval Accusations Against Jews
 
 Claim Timestamp: 00:27:47
 
@@ -1825,7 +1824,7 @@ Investigative Direction: Check the full interview for the exact wording; compare
 
 ---
 
-**C-10681** Kirk Clip: People Who Met Epstein Found Him Unimpressive in Finance
+**C-106** Kirk Clip: People Who Met Epstein Found Him Unimpressive in Finance
 
 Claim Timestamp: 00:29:52
 
@@ -1841,7 +1840,7 @@ Investigative Direction: Identify the original Kirk broadcast and the videos or 
 
 ---
 
-**C-10682** Kirk Clip: Epstein Was a Creation of Mossad, Israeli, American or Saudi Intelligence or a Hired Gun
+**C-107** Kirk Clip: Epstein Was a Creation of Mossad, Israeli, American or Saudi Intelligence or a Hired Gun
 
 Claim Timestamp: 00:30:16
 
@@ -1852,13 +1851,13 @@ Transcript Snippet: Israeli intelligence, American intelligence, Saudi intellige
 Anchored Artifacts: A-1086.1
 Mentions: N-1, N-9
 Related Nodes: N-10023, N-10015
-Qualifies: C-1132
+Qualifies: C-105
 Tags: relevance:context
 Investigative Direction: Identify the original Kirk broadcast and date; the clip lists several possible sponsors, which narrows the Israeli-only claim.
 
 ---
 
-**C-10683** Kirk Clip: Members of Congress Are Actively Being Blackmailed
+**C-108** Kirk Clip: Members of Congress Are Actively Being Blackmailed
 
 Claim Timestamp: 00:30:28
 
@@ -1874,7 +1873,7 @@ Investigative Direction: Identify the original broadcast and any evidence Kirk c
 
 ---
 
-**C-10684** Host Says She Knows Who Exerted Pressure on Kirk and Sees Messages From Would-Be Replacements
+**C-109** Host Says She Knows Who Exerted Pressure on Kirk and Sees Messages From Would-Be Replacements
 
 Claim Timestamp: 00:32:12
 
@@ -1890,7 +1889,7 @@ Investigative Direction: Ask the host to identify the senders and release the me
 
 ---
 
-**C-10685** Savage Says the FBI's Rifle Disassembly Claim Is Implausible
+**C-110** Savage Says the FBI's Rifle Disassembly Claim Is Implausible
 
 Claim Timestamp: 00:37:03
 
@@ -1906,7 +1905,7 @@ Investigative Direction: Obtain the FBI's stated account of the rifle's disassem
 
 ---
 
-**C-10686** Savage Says the Photo of the Rifle in the Woods Shows the Barrel Installed
+**C-111** Savage Says the Photo of the Rifle in the Woods Shows the Barrel Installed
 
 Claim Timestamp: 00:37:21
 
@@ -1917,13 +1916,13 @@ Transcript Snippet: And by the way, the photo of the rifle allegedly left in the
 Anchored Artifacts: A-1087.1
 Mentions: N-43
 Related Nodes: N-10020, N-10014
-Supports: C-1139
+Supports: C-124
 Tags: relevance:core
 Investigative Direction: Obtain the FBI photo of the recovered rifle and the evidence log describing its condition when found.
 
 ---
 
-**C-10687** Host Says the FBI Has Said It Is Looking for Another Person
+**C-112** Host Says the FBI Has Said It Is Looking for Another Person
 
 Claim Timestamp: 00:38:20
 
@@ -1939,7 +1938,7 @@ Investigative Direction: Find the FBI statement or briefing in which this was sa
 
 ---
 
-**C-10688** Host Says the Book Chaos Shows Governments Hide Things by Flooding Information
+**C-113** Host Says the Book Chaos Shows Governments Hide Things by Flooding Information
 
 Claim Timestamp: 00:38:41
 
@@ -1954,7 +1953,7 @@ Investigative Direction: No case evidence to check; treat as the host's interpre
 
 ---
 
-**C-10689** Host Says TMZ Footage at 8:07 Conflicts With Cox's 8:29 Arrival
+**C-116** Host Says TMZ Footage at 8:07 Conflicts With Cox's 8:29 Arrival
 
 Claim Timestamp: 00:41:09
 
@@ -1970,7 +1969,7 @@ Investigative Direction: Obtain the original TMZ video with metadata and the UVU
 
 ---
 
-**C-10690** Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks
+**C-119** Footage Shows a Figure Running Across the Rooftop as the Crowd Ducks
 
 Claim Timestamp: 00:43:04
 
@@ -1986,7 +1985,7 @@ Investigative Direction: Obtain the original rooftop footage with metadata and v
 
 ---
 
-**C-10691** Host Says Immediate Rooftop Movement Conflicts With the Disassembly Narrative
+**C-120** Host Says Immediate Rooftop Movement Conflicts With the Disassembly Narrative
 
 Claim Timestamp: 00:43:42
 
@@ -1997,13 +1996,13 @@ Transcript Snippet: is that their narrative is that he disassembled the gun and 
 Anchored Artifacts: A-3093.1
 Mentions: N-3
 Related Nodes: N-10020, N-10754
-Supports: C-1140
+Supports: C-125
 Tags: relevance:core
 Investigative Direction: Obtain the official timeline of disassembly and the frame-by-frame rooftop footage.
 
 ---
 
-**C-10692** Host Says Hunters and Gun Owners Told Her the Disassembly Did Not Happen
+**C-121** Host Says Hunters and Gun Owners Told Her the Disassembly Did Not Happen
 
 Claim Timestamp: 00:44:03
 
@@ -2019,7 +2018,7 @@ Investigative Direction: Collect expert firearms analyses of the Mauser's field-
 
 ---
 
-**C-10693** Host Says Zinn Was Arrested and Signaled He Shot Kirk, and a Suspect in Custody Was Announced at 12:52
+**C-122** Host Says Zinn Was Arrested and Signaled He Shot Kirk, and a Suspect in Custody Was Announced at 12:52
 
 Claim Timestamp: 00:44:29
 
@@ -2035,7 +2034,7 @@ Investigative Direction: Obtain police dispatch logs, arrest records and video f
 
 ---
 
-**C-10694** FBI Photos Show the Suspect in a Stairwell in a Second Outfit
+**C-126** FBI Photos Show the Suspect in a Stairwell in a Second Outfit
 
 Claim Timestamp: 00:46:45
 
@@ -2051,7 +2050,7 @@ Investigative Direction: Obtain the original FBI release with date and camera lo
 
 ---
 
-**C-10695** Host Infers From the Stairwell Photos That No Weapon Was in His Pant Leg
+**C-127** Host Infers From the Stairwell Photos That No Weapon Was in His Pant Leg
 
 Claim Timestamp: 00:46:51
 
@@ -2067,7 +2066,7 @@ Investigative Direction: Review the stairwell photos in full resolution to see w
 
 ---
 
-**C-10696** Host Says There Are Many Cameras on the UVU Campus but Only Grainy Images Were Released
+**C-128** Host Says There Are Many Cameras on the UVU Campus but Only Grainy Images Were Released
 
 Claim Timestamp: 00:47:06
 
@@ -2083,7 +2082,7 @@ Investigative Direction: Obtain the UVU camera inventory and the authorities' re
 
 ---
 
-**C-10697** Host Says Robinson Was Reported Wearing the Maroon Outfit When Apprehended 33 Hours Later
+**C-129** Host Says Robinson Was Reported Wearing the Maroon Outfit When Apprehended 33 Hours Later
 
 Claim Timestamp: 00:48:49
 
@@ -2099,7 +2098,7 @@ Investigative Direction: Obtain the arrest report or booking photo describing wh
 
 ---
 
-**C-10698** Host Recounts the Story That Robinson's Father Turned Him In After Speaking With a Pastor
+**C-130** Host Recounts the Story That Robinson's Father Turned Him In After Speaking With a Pastor
 
 Claim Timestamp: 00:49:26
 
@@ -2115,7 +2114,7 @@ Investigative Direction: Identify the pastor and the official account of how Rob
 
 ---
 
-**C-10699** Host Says Ackman's Money Is Now Going to Robinson's Father
+**C-131** Host Says Ackman's Money Is Now Going to Robinson's Father
 
 Claim Timestamp: 00:49:39
 
@@ -2131,7 +2130,7 @@ Investigative Direction: Check whether Ackman or any other party announced a rew
 
 ---
 
-**C-10700** Cox Says Robinson's Online Acquaintances Joked Until He Admitted It Was Him
+**C-132** Cox Says Robinson's Online Acquaintances Joked Until He Admitted It Was Him
 
 Claim Timestamp: 00:50:50
 
@@ -2147,7 +2146,7 @@ Investigative Direction: Obtain the original reporting and any messages in which
 
 ---
 
-**C-10701** Cox Says the People Around Robinson Are Cooperating
+**C-134** Cox Says the People Around Robinson Are Cooperating
 
 Claim Timestamp: 00:51:08
 
@@ -2163,7 +2162,7 @@ Investigative Direction: Identify who is cooperating from court filings and stat
 
 ---
 
-**C-10702** Cox Says the Roommate Showed Investigators Discord Messages and Let Them Photograph the Screen
+**C-136** Cox Says the Roommate Showed Investigators Discord Messages and Let Them Photograph the Screen
 
 Claim Timestamp: 00:52:42
 
@@ -2179,7 +2178,7 @@ Investigative Direction: Obtain the investigators' photos of the roommate's scre
 
 ---
 
-**C-10703** Cox Says Discord Messages Told of a Rifle Drop Point, a Bush and a Towel
+**C-137** Cox Says Discord Messages Told of a Rifle Drop Point, a Bush and a Towel
 
 Claim Timestamp: 00:53:03
 
@@ -2190,13 +2189,13 @@ Transcript Snippet: The content of these messages included messages affiliated w
 Anchored Artifacts: A-1089.4
 Mentions: N-41, N-40
 Related Nodes: N-10013, N-10020
-Supports: C-1139
+Supports: C-124
 Tags: relevance:core
 Investigative Direction: Obtain the message exhibits from the charging documents and compare timestamps with the shooting timeline.
 
 ---
 
-**C-10704** Cox Says Messages Mentioned Engraving Bullets, a Scope and a Unique Rifle
+**C-138** Cox Says Messages Mentioned Engraving Bullets, a Scope and a Unique Rifle
 
 Claim Timestamp: 00:53:22
 
@@ -2212,7 +2211,7 @@ Investigative Direction: Compare with the ammunition and engravings described in
 
 ---
 
-**C-10705** Cox Says Messages Mentioned Changing Outfits
+**C-139** Cox Says Messages Mentioned Changing Outfits
 
 Claim Timestamp: 00:53:35
 
@@ -2228,7 +2227,7 @@ Investigative Direction: Obtain the message with its timestamp to place the outf
 
 ---
 
-**C-10706** Host Says a Classmate Called Robinson Remarkably Tidy and Found the Outfit Reversion Strange
+**C-140** Host Says a Classmate Called Robinson Remarkably Tidy and Found the Outfit Reversion Strange
 
 Claim Timestamp: 00:53:58
 
@@ -2244,7 +2243,7 @@ Investigative Direction: Identify the classmate through the host's source and co
 
 ---
 
-**C-10707** Viewer Says She Met Erika Kirk at AmFest 2023 Without Knowing Who She Was
+**C-142** Viewer Says She Met Erika Kirk at AmFest 2023 Without Knowing Who She Was
 
 Claim Timestamp: 00:59:33
 
@@ -2260,7 +2259,7 @@ Investigative Direction: Treat as an unverified viewer anecdote; no document ava
 
 ---
 
-**C-10708** Host Says Someone at the University Stood Up and Cheered When Kirk Was Shot
+**C-143** Host Says Someone at the University Stood Up and Cheered When Kirk Was Shot
 
 Claim Timestamp: 01:00:48
 
@@ -2276,7 +2275,7 @@ Investigative Direction: Find video or eyewitness accounts of anyone cheering at
 
 ---
 
-**C-10709** Host Says an Underground Communist Movement Is in All Schools
+**C-144** Host Says an Underground Communist Movement Is in All Schools
 
 Claim Timestamp: 01:00:53
 
@@ -2291,7 +2290,7 @@ Investigative Direction: Sweeping assertion with no evidence offered; no case re
 
 ---
 
-**C-10710** Host Recommends The Assault on Truth for Newcomers
+**C-145** Host Recommends The Assault on Truth for Newcomers
 
 Claim Timestamp: 01:01:49
 
@@ -2306,7 +2305,7 @@ Investigative Direction: Identify the book and edition the host means; no case r
 
 ---
 
-**C-10711** Host Says Freud Covered for Parents Who Raped Their Toddlers
+**C-146** Host Says Freud Covered for Parents Who Raped Their Toddlers
 
 Claim Timestamp: 01:02:17
 
@@ -2321,7 +2320,7 @@ Investigative Direction: Historical claim about Freud and the seduction theory; 
 
 ---
 
-**C-10712** Host Says Shlomo Sand Is a Professor Historian at Tel Aviv University
+**C-148** Host Says Shlomo Sand Is a Professor Historian at Tel Aviv University
 
 Claim Timestamp: 01:03:07
 
@@ -2331,13 +2330,13 @@ Transcript Snippet: He was uh I believe a professor historian at Tel Aviv Univer
 
 Anchored Artifacts: 
 Mentions: N-3, N-52
-Supports: C-3720
+Supports: C-147
 Tags: relevance:tangential
 Investigative Direction: Check Sand's university affiliation; host hedges with "I believe."
 
 ---
 
-**C-10713** Host Says the Authors She Recommends Are Jewish and Some Were in the IDF
+**C-149** Host Says the Authors She Recommends Are Jewish and Some Were in the IDF
 
 Claim Timestamp: 01:03:17
 
@@ -2347,13 +2346,13 @@ Transcript Snippet: um were written by Jewish authors cuz that makes you aware o
 
 Anchored Artifacts: 
 Mentions: N-3, N-51, N-52
-Supports: C-3720
+Supports: C-147
 Tags: relevance:tangential
 Investigative Direction: Check each author's biography and military service; no case record to check.
 
 ---
 
-**C-10714** Host Says Ashkenazi Jewish Authors Wrote That They Were Khazars and She Has Covered It Extensively
+**C-150** Host Says Ashkenazi Jewish Authors Wrote That They Were Khazars and She Has Covered It Extensively
 
 Claim Timestamp: 01:07:02
 
@@ -2363,13 +2362,13 @@ Transcript Snippet: and they said they were the Khazars. So, you know, I've cove
 
 Anchored Artifacts: 
 Mentions: N-3, N-53
-Supports: C-3720
+Supports: C-147
 Tags: relevance:tangential
 Investigative Direction: Check the earlier episodes the host refers to and the scholarship on the Khazar hypothesis; no case record to check.
 
 ---
 
-**C-10715** Host Asks Viewers to Send Information to the Tips Address
+**C-151** Host Asks Viewers to Send Information to the Tips Address
 
 Claim Timestamp: 01:08:46
 
@@ -2379,13 +2378,13 @@ Transcript Snippet: If you have any more information, please send them to tips@c
 
 Anchored Artifacts: A-3094.1
 Mentions: N-3
-Supports: C-3633
+Supports: C-152
 Tags: relevance:core
 Investigative Direction: Record tip volume and any follow-up in later episodes where the host cites emailed tips.
 
 ---
 
-**C-10716** Host Says Her Operation Is Entirely Independent and Takes Money From Nobody
+**C-153** Host Says Her Operation Is Entirely Independent and Takes Money From Nobody
 
 Claim Timestamp: 01:09:02
 

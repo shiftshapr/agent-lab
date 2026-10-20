@@ -27,8 +27,8 @@
           "ref": "A-2301.1",
           "description": "Footage: Terryl accessing his laptop with an SD card after removing it from a camera at the crime scene",
           "related_claims": [
-            "C-3313",
-            "C-3314"
+            "C-12356",
+            "C-12357"
           ],
           "related_nodes": [
             "N-10141"
@@ -45,7 +45,7 @@
           "ref": "A-2301.2",
           "description": "Footage: Terryl showing his laptop screen to Philip Goldsberry at the crime scene",
           "related_claims": [
-            "C-3314"
+            "C-12357"
           ],
           "related_nodes": [
             "N-10141"
@@ -69,7 +69,7 @@
           "ref": "A-2302.1",
           "description": "Audio: Ana Kasparian's question to Candace regarding Terryl never providing the original SD card to investigators",
           "related_claims": [
-            "C-3315"
+            "C-12360"
           ],
           "related_nodes": [],
           "tags": [],
@@ -90,7 +90,7 @@
           "ref": "A-2303.1",
           "description": "Email: Anonymous federal court employee stating that in every federal court they have worked in, video and photo evidence is never altered",
           "related_claims": [
-            "C-3319"
+            "C-12381"
           ],
           "related_nodes": [
             "N-10811"
@@ -115,7 +115,7 @@
           "ref": "A-2304.1",
           "description": "Audio: David Hull testimony stating investigators did not receive the physical SD card from Terryl",
           "related_claims": [
-            "C-3316"
+            "C-12383"
           ],
           "related_nodes": [
             "N-10810"
@@ -132,7 +132,7 @@
           "ref": "A-2304.2",
           "description": "Audio: Sergeant Mark Bricker (SBI) testimony stating the Utah County Attorney's Office created the 20-minute sizzle reel",
           "related_claims": [
-            "C-3317"
+            "C-12384"
           ],
           "related_nodes": [
             "N-10810",
@@ -158,8 +158,8 @@
           "ref": "A-2305.1",
           "description": "Video: 20-minute sizzle reel shown in court with modified (decreased) aspect ratio",
           "related_claims": [
-            "C-3318",
-            "C-3320"
+            "C-12380",
+            "C-12385"
           ],
           "related_nodes": [
             "N-10811"
@@ -176,8 +176,8 @@
           "ref": "A-2305.2",
           "description": "Video: Slow-motion replay of the modified aspect-ratio footage",
           "related_claims": [
-            "C-3318",
-            "C-3320"
+            "C-12380",
+            "C-12385"
           ],
           "related_nodes": [
             "N-10811"
@@ -201,7 +201,7 @@
           "ref": "A-2306.1",
           "description": "Audio: Andrew Kolvet claiming Candace \"conceded the whole debate very early on multiple times\"",
           "related_claims": [
-            "C-3321"
+            "C-12386"
           ],
           "related_nodes": [
             "N-159"
@@ -218,7 +218,7 @@
           "ref": "A-2306.2",
           "description": "Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism",
           "related_claims": [
-            "C-3322"
+            "C-12395"
           ],
           "related_nodes": [
             "N-159",
@@ -236,7 +236,7 @@
           "ref": "A-2306.3",
           "description": "Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019",
           "related_claims": [
-            "C-3323"
+            "C-12407"
           ],
           "related_nodes": [
             "N-159"
@@ -253,8 +253,8 @@
           "ref": "A-2306.4",
           "description": "Audio: Andrew Kolvet recounting Candace saying she would \"burn down that organization\" if the wrong people took over TPUSA",
           "related_claims": [
-            "C-3324",
-            "C-3325"
+            "C-12428",
+            "C-12435"
           ],
           "related_nodes": [],
           "tags": [],
@@ -277,7 +277,7 @@
           "ref": "A-2307.1",
           "description": "Video: Charlie Kirk in November 2023 stating \"Candace is on our team\" and rejecting a critic who asked why Candace still speaks at AmFest",
           "related_claims": [
-            "C-3323"
+            "C-12407"
           ],
           "related_nodes": [
             "N-1",
@@ -303,8 +303,8 @@
           "ref": "A-2308.1",
           "description": "Text messages between Candace and Andrew Kolvet dated September 11–14, 2025, discussing BB Netanyahu's letter, Charlie's text messages to Dan Flood, and a \"government hit\" framing",
           "related_claims": [
-            "C-3324",
-            "C-3325"
+            "C-12428",
+            "C-12435"
           ],
           "related_nodes": [],
           "tags": [],
@@ -319,7 +319,7 @@
           "ref": "A-2308.2",
           "description": "Call log showing a 17-minute call between Candace and Andrew Kolvet on September 14, 2025",
           "related_claims": [
-            "C-3325"
+            "C-12435"
           ],
           "related_nodes": [],
           "tags": [],
@@ -342,8 +342,8 @@
           "ref": "A-2309.1",
           "description": "Displayed comments from prior episode and current episode (Amy, Medina, Roll Tide in Vegas, Seven Sheets, Bigfoot Believer, Impact CPA, Capital T for Truth, Autumn, Thumbelina's Grace, Suburban Style, Simon Webster, Pri)",
           "related_claims": [
-            "C-3313",
-            "C-3323"
+            "C-12356",
+            "C-12407"
           ],
           "related_nodes": [],
           "tags": [],
@@ -364,9 +364,9 @@
           "ref": "A-2797.1",
           "description": "Host verbal reference to metadata on Terryl Farnsworth's self-recorded video (not shown)",
           "related_claims": [
-            "C-6101",
-            "C-6102",
-            "C-6103"
+            "C-12367",
+            "C-12368",
+            "C-12369"
           ],
           "related_nodes": [
             "N-3"
@@ -391,7 +391,7 @@
           "ref": "A-2798.1",
           "description": "Host verbal reference to the previously presented 4K court image of the maroon-shirted man (described, not shown here)",
           "related_claims": [
-            "C-6110"
+            "C-12376"
           ],
           "related_nodes": [
             "N-3"
@@ -408,7 +408,7 @@
           "ref": "A-2798.2",
           "description": "Host verbal reference to an email correcting the term 'compressed' to 'aspect ratio decreased' (not shown)",
           "related_claims": [
-            "C-6111"
+            "C-12378"
           ],
           "related_nodes": [
             "N-3"
@@ -433,8 +433,8 @@
           "ref": "A-2799.1",
           "description": "Audio played from the Kolvet/Neff show of Andrew Wilson and a co-host discussing the steakhouse receipt and exculpatory evidence",
           "related_claims": [
-            "C-6115",
-            "C-6116"
+            "C-12387",
+            "C-12388"
           ],
           "related_nodes": [
             "N-3"
@@ -459,10 +459,10 @@
           "ref": "A-2800.1",
           "description": "Audio played from the Kolvet/Neff show of Kolvet describing the host as difficult to work with and a cancelled event",
           "related_claims": [
-            "C-6137",
-            "C-6138",
-            "C-6139",
-            "C-6140"
+            "C-12411",
+            "C-12412",
+            "C-12413",
+            "C-12414"
           ],
           "related_nodes": [
             "N-3"
@@ -487,7 +487,7 @@
           "ref": "A-2801.1",
           "description": "Host verbal reference to 2018 text messages from Charlie Kirk predicting his own death (not shown)",
           "related_claims": [
-            "C-6134"
+            "C-12408"
           ],
           "related_nodes": [
             "N-3"
@@ -515,8 +515,8 @@
         "A-2304.2"
       ],
       "related_claims": [
-        "C-3315",
-        "C-3316"
+        "C-12360",
+        "C-12383"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -538,9 +538,9 @@
         "A-2305.2"
       ],
       "related_claims": [
-        "C-3317",
-        "C-3318",
-        "C-3320"
+        "C-12384",
+        "C-12380",
+        "C-12385"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -560,7 +560,7 @@
         "A-2301.2"
       ],
       "related_claims": [
-        "C-3314"
+        "C-12357"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -582,8 +582,8 @@
         "A-2308.1"
       ],
       "related_claims": [
-        "C-3324",
-        "C-3325"
+        "C-12428",
+        "C-12435"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -616,7 +616,7 @@
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3322"
+        "C-12395"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -633,30 +633,30 @@
       "description": "Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6091",
-        "C-6093",
-        "C-6109",
-        "C-6115",
-        "C-6116",
-        "C-6123",
-        "C-6137",
-        "C-6138",
-        "C-6139",
-        "C-6145",
-        "C-6146",
-        "C-6147",
-        "C-6149",
-        "C-6150",
-        "C-6151",
-        "C-6152",
-        "C-6153",
-        "C-6154",
-        "C-6155",
-        "C-6156",
-        "C-6157",
-        "C-6158",
-        "C-6159",
-        "C-6161"
+        "C-12354",
+        "C-12358",
+        "C-12375",
+        "C-12387",
+        "C-12388",
+        "C-12396",
+        "C-12411",
+        "C-12412",
+        "C-12413",
+        "C-12419",
+        "C-12420",
+        "C-12421",
+        "C-12424",
+        "C-12425",
+        "C-12426",
+        "C-12427",
+        "C-12429",
+        "C-12430",
+        "C-12431",
+        "C-12432",
+        "C-12433",
+        "C-12434",
+        "C-12436",
+        "C-12439"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -674,9 +674,9 @@
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6151",
-        "C-6154",
-        "C-6156"
+        "C-12426",
+        "C-12430",
+        "C-12432"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -694,7 +694,7 @@
       "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
       "related_artifacts": [],
       "related_claims": [
-        "C-6094"
+        "C-12359"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -712,20 +712,20 @@
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6093",
-        "C-6095",
-        "C-6097",
-        "C-6098",
-        "C-6100",
-        "C-6101",
-        "C-6102",
-        "C-6103",
-        "C-6104",
-        "C-6105",
-        "C-6106",
-        "C-6107",
-        "C-6108",
-        "C-6109"
+        "C-12358",
+        "C-12361",
+        "C-12363",
+        "C-12364",
+        "C-12366",
+        "C-12367",
+        "C-12368",
+        "C-12369",
+        "C-12370",
+        "C-12371",
+        "C-12372",
+        "C-12373",
+        "C-12374",
+        "C-12375"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -743,7 +743,7 @@
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
       "related_artifacts": [],
       "related_claims": [
-        "C-6152"
+        "C-12427"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -761,35 +761,35 @@
       "description": "Charlie Kirk (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
-        "C-3313",
-        "C-3314",
-        "C-3323",
-        "C-3324",
-        "C-6092",
-        "C-6100",
-        "C-6101",
-        "C-6108",
-        "C-6127",
-        "C-6129",
-        "C-6130",
-        "C-6131",
-        "C-6132",
-        "C-6133",
-        "C-6134",
-        "C-6135",
-        "C-6136",
-        "C-6138",
-        "C-6143",
-        "C-6146",
-        "C-6149",
-        "C-6151",
-        "C-6152",
-        "C-6154",
-        "C-6156",
-        "C-6161",
-        "C-6166",
-        "C-6167",
-        "C-6170"
+        "C-12356",
+        "C-12357",
+        "C-12407",
+        "C-12428",
+        "C-12355",
+        "C-12366",
+        "C-12367",
+        "C-12374",
+        "C-12400",
+        "C-12402",
+        "C-12403",
+        "C-12404",
+        "C-12405",
+        "C-12406",
+        "C-12408",
+        "C-12409",
+        "C-12410",
+        "C-12412",
+        "C-12417",
+        "C-12420",
+        "C-12424",
+        "C-12426",
+        "C-12427",
+        "C-12430",
+        "C-12432",
+        "C-12439",
+        "C-12443",
+        "C-12444",
+        "C-12447"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -806,14 +806,14 @@
       "description": "Erika Kirk (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
-        "C-3325",
-        "C-6096",
-        "C-6107",
-        "C-6108",
-        "C-6109",
-        "C-6132",
-        "C-6158",
-        "C-6162"
+        "C-12435",
+        "C-12362",
+        "C-12373",
+        "C-12374",
+        "C-12375",
+        "C-12405",
+        "C-12434",
+        "C-12438"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -830,16 +830,16 @@
       "description": "Blake Neff (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
-        "C-3321",
-        "C-3322",
-        "C-6091",
-        "C-6115",
-        "C-6128",
-        "C-6129",
-        "C-6130",
-        "C-6131",
-        "C-6133",
-        "C-6147"
+        "C-12386",
+        "C-12395",
+        "C-12354",
+        "C-12387",
+        "C-12401",
+        "C-12402",
+        "C-12403",
+        "C-12404",
+        "C-12406",
+        "C-12421"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -856,8 +856,8 @@
       "description": "First named by the host at 00:18:29 in episode 144.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3317",
-        "C-3320"
+        "C-12384",
+        "C-12385"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -890,8 +890,8 @@
       "description": "First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6099",
-        "C-6114"
+        "C-12365",
+        "C-12382"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -909,83 +909,83 @@
       "description": "Host; speaks for herself throughout.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6091",
-        "C-6092",
-        "C-6093",
-        "C-6094",
-        "C-6095",
-        "C-6096",
-        "C-6097",
-        "C-6098",
-        "C-6099",
-        "C-6100",
-        "C-6101",
-        "C-6102",
-        "C-6103",
-        "C-6104",
-        "C-6105",
-        "C-6106",
-        "C-6107",
-        "C-6108",
-        "C-6109",
-        "C-6110",
-        "C-6111",
-        "C-6112",
-        "C-6113",
-        "C-6114",
-        "C-6117",
-        "C-6118",
-        "C-6119",
-        "C-6120",
-        "C-6121",
-        "C-6122",
-        "C-6123",
-        "C-6124",
-        "C-6125",
-        "C-6126",
-        "C-6127",
-        "C-6128",
-        "C-6129",
-        "C-6130",
-        "C-6131",
-        "C-6132",
-        "C-6133",
-        "C-6134",
-        "C-6135",
-        "C-6136",
-        "C-6137",
-        "C-6138",
-        "C-6139",
-        "C-6140",
-        "C-6141",
-        "C-6142",
-        "C-6143",
-        "C-6144",
-        "C-6145",
-        "C-6147",
-        "C-6148",
-        "C-6149",
-        "C-6150",
-        "C-6151",
-        "C-6152",
-        "C-6153",
-        "C-6154",
-        "C-6155",
-        "C-6156",
-        "C-6157",
-        "C-6158",
-        "C-6159",
-        "C-6160",
-        "C-6161",
-        "C-6162",
-        "C-6163",
-        "C-6164",
-        "C-6165",
-        "C-6166",
-        "C-6167",
-        "C-6168",
-        "C-6169",
-        "C-6170"
+        "C-12354",
+        "C-12355",
+        "C-12358",
+        "C-12359",
+        "C-12361",
+        "C-12362",
+        "C-12363",
+        "C-12364",
+        "C-12365",
+        "C-12366",
+        "C-12367",
+        "C-12368",
+        "C-12369",
+        "C-12370",
+        "C-12371",
+        "C-12372",
+        "C-12373",
+        "C-12374",
+        "C-12375",
+        "C-12376",
+        "C-12378",
+        "C-12379",
+        "C-12377",
+        "C-12382",
+        "C-12389",
+        "C-12390",
+        "C-12391",
+        "C-12392",
+        "C-12393",
+        "C-12394",
+        "C-12396",
+        "C-12397",
+        "C-12398",
+        "C-12399",
+        "C-12400",
+        "C-12401",
+        "C-12402",
+        "C-12403",
+        "C-12404",
+        "C-12405",
+        "C-12406",
+        "C-12408",
+        "C-12409",
+        "C-12410",
+        "C-12411",
+        "C-12412",
+        "C-12413",
+        "C-12414",
+        "C-12415",
+        "C-12416",
+        "C-12417",
+        "C-12418",
+        "C-12419",
+        "C-12421",
+        "C-12422",
+        "C-12424",
+        "C-12425",
+        "C-12426",
+        "C-12427",
+        "C-12429",
+        "C-12430",
+        "C-12431",
+        "C-12432",
+        "C-12433",
+        "C-12434",
+        "C-12436",
+        "C-12437",
+        "C-12439",
+        "C-12438",
+        "C-12440",
+        "C-12441",
+        "C-12442",
+        "C-12443",
+        "C-12444",
+        "C-12445",
+        "C-12446",
+        "C-12447"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1002,7 +1002,7 @@
       "description": "Named by Kolvet as hosting Charlie's show the Monday after the shooting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6146"
+        "C-12420"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1019,8 +1019,8 @@
       "description": "Kanye West; the host's France trip with him is the cancelled-event story.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6139",
-        "C-6141"
+        "C-12413",
+        "C-12415"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1037,7 +1037,7 @@
       "description": "The host's husband, who she says became close to Charlie during their engagement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6135"
+        "C-12409"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1054,7 +1054,7 @@
       "description": "Radio host Charlie Kirk admired, per the host.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6170"
+        "C-12447"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1071,11 +1071,11 @@
       "description": "Accused; the host disputes that he fired the shot and discusses his campus presence.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6110",
-        "C-6163",
-        "C-6164",
-        "C-6166",
-        "C-6168"
+        "C-12376",
+        "C-12440",
+        "C-12441",
+        "C-12443",
+        "C-12445"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1092,7 +1092,7 @@
       "description": "Named by the host regarding what he said about political discussions with Tyler.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6168"
+        "C-12445"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1109,8 +1109,8 @@
       "description": "Named in the burn-down exchange and the host's rejection of a Shapiro takeover theory.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6147",
-        "C-6148"
+        "C-12421",
+        "C-12422"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1127,7 +1127,7 @@
       "description": "Whom the host says she asked to sub for her at the cancelled event.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6144"
+        "C-12418"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1144,7 +1144,7 @@
       "description": "Named by the host as the person Kolvet said had Netanyahu's letter on Charlie's laptop.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6151"
+        "C-12426"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1161,15 +1161,15 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6128",
-        "C-6129",
-        "C-6130",
-        "C-6131",
-        "C-6132",
-        "C-6133",
-        "C-6134",
-        "C-6135",
-        "C-6136"
+        "C-12401",
+        "C-12402",
+        "C-12403",
+        "C-12404",
+        "C-12405",
+        "C-12406",
+        "C-12408",
+        "C-12409",
+        "C-12410"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1186,7 +1186,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6165"
+        "C-12442"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1203,7 +1203,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6163"
+        "C-12440"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1220,7 +1220,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6097"
+        "C-12363"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1237,11 +1237,11 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6120",
-        "C-6164",
-        "C-6166",
-        "C-6167",
-        "C-6168"
+        "C-12392",
+        "C-12441",
+        "C-12443",
+        "C-12444",
+        "C-12445"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1258,10 +1258,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6103",
-        "C-6105",
-        "C-6106",
-        "C-6109"
+        "C-12369",
+        "C-12371",
+        "C-12372",
+        "C-12375"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1278,7 +1278,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6110"
+        "C-12376"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1295,7 +1295,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6096"
+        "C-12362"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1312,8 +1312,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6152",
-        "C-6153"
+        "C-12427",
+        "C-12429"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1330,11 +1330,11 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6093",
-        "C-6100",
-        "C-6107",
-        "C-6108",
-        "C-6109"
+        "C-12358",
+        "C-12366",
+        "C-12373",
+        "C-12374",
+        "C-12375"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1351,13 +1351,13 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6115",
-        "C-6116",
-        "C-6117",
-        "C-6118",
-        "C-6119",
-        "C-6121",
-        "C-6122"
+        "C-12387",
+        "C-12388",
+        "C-12389",
+        "C-12390",
+        "C-12391",
+        "C-12393",
+        "C-12394"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1374,7 +1374,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6148"
+        "C-12422"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1391,7 +1391,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6154"
+        "C-12430"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1408,7 +1408,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6104"
+        "C-12370"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1425,7 +1425,7 @@
       "description": "First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terryl Farnsworth to get the footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6104"
+        "C-12370"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1442,7 +1442,7 @@
       "description": "First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6116"
+        "C-12388"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1459,9 +1459,9 @@
       "description": "Host's use of the metadata on Terryl Farnsworth's self-recorded video to place his filming end at about 12:26 and the start of camera removal near 12:28, bearing on whether police could have instructed him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6101",
-        "C-6102",
-        "C-6103"
+        "C-12367",
+        "C-12368",
+        "C-12369"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1478,9 +1478,9 @@
       "description": "Dispute over what the host said about nationalism and Hitler in a 2018 appearance, how Kolvet characterized it, and Andrew Wilson's on-air pushback.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6123",
-        "C-6126",
-        "C-6127"
+        "C-12396",
+        "C-12399",
+        "C-12400"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1497,11 +1497,11 @@
       "description": "Kolvet's account that the host cancelled a TPUSA event the day before to go to France with Kanye West, and the host's account that it was the only cancellation, in late 2022, with Charlie's approval.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6139",
-        "C-6140",
-        "C-6141",
-        "C-6143",
-        "C-6144"
+        "C-12413",
+        "C-12414",
+        "C-12415",
+        "C-12417",
+        "C-12418"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1518,11 +1518,11 @@
       "description": "Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's version about wrong people taking over TPUSA and the host's version about foreign involvement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6145",
-        "C-6147",
-        "C-6157",
-        "C-6161",
-        "C-6162"
+        "C-12419",
+        "C-12421",
+        "C-12433",
+        "C-12439",
+        "C-12438"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1534,8 +1534,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3313",
-      "ref": "C-3313",
+      "@id": "C-12356",
+      "ref": "C-12356",
       "label": "Host Says Terryl Accessed an SD Card on His Laptop at the Crime Scene",
       "claim": "The host says the episode footage looks very much like Terryl Farnsworth inserting an SD card into his laptop and accessing it within approximately 10 minutes of Charlie Kirk being hit.",
       "anchored_artifacts": [
@@ -1556,8 +1556,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3314",
-      "ref": "C-3314",
+      "@id": "C-12357",
+      "ref": "C-12357",
       "label": "Host Says Footage Shows Terryl Showing Laptop Content to Philip Goldsberry Shortly After the Shooting",
       "claim": "The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsberry approximately 10 minutes after Charlie Kirk was hit.",
       "anchored_artifacts": [
@@ -1577,8 +1577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3315",
-      "ref": "C-3315",
+      "@id": "C-12360",
+      "ref": "C-12360",
       "label": "In Clip Host Plays, Ana Kasparian Says Terryl Never Provided the Original SD Card to Investigators",
       "claim": "In a clip the host plays, Ana Kasparian says, based on preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.",
       "anchored_artifacts": [
@@ -1598,8 +1598,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3316",
-      "ref": "C-3316",
+      "@id": "C-12383",
+      "ref": "C-12383",
       "label": "Host Says Lead Investigator David Hull Did Not Receive the SD Cards",
       "claim": "The host says lead investigator David Hull, who she says did not receive the SD cards, informed the preliminary hearing of the chain of custody.",
       "anchored_artifacts": [
@@ -1617,8 +1617,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3317",
-      "ref": "C-3317",
+      "@id": "C-12384",
+      "ref": "C-12384",
       "label": "Host Says Hearing Testimony Named the Utah County Attorney's Office as Maker of the Sizzle Reel",
       "claim": "The host says a witness at the preliminary hearing testified that the Utah County Attorney's Office created the 20-minute sizzle reel, and in a clip she plays the witness says he did not prepare the video compilation and that the Utah County Attorney's Office did.",
       "anchored_artifacts": [
@@ -1637,8 +1637,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3318",
-      "ref": "C-3318",
+      "@id": "C-12380",
+      "ref": "C-12380",
       "label": "Host Says the 20-Minute Sizzle Reel Has a Decreased (Modified) Aspect Ratio",
       "claim": "The host says the aspect ratio of the 20-minute sizzle reel shown at the preliminary hearing was decreased relative to the source footage, and she demonstrates this on the episode at normal speed and in slow motion.",
       "anchored_artifacts": [
@@ -1655,8 +1655,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3319",
-      "ref": "C-3319",
+      "@id": "C-12381",
+      "ref": "C-12381",
       "label": "Anonymous federal-court employee stated federal courts do not alter video evidence",
       "claim": "Per an email from an anonymous federal-court employee read on air, video and photo evidence is never altered in any federal court the employee has worked in, because alteration would prejudice the jury.",
       "anchored_artifacts": [
@@ -1672,8 +1672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3320",
-      "ref": "C-3320",
+      "@id": "C-12385",
+      "ref": "C-12385",
       "label": "Host Says the Prosecution or Possibly the FBI, Not Likely the Court, Decreased the Aspect Ratio",
       "claim": "The host says the prosecution (Utah County Attorney's Office) potentially decreased the aspect ratio, that maybe it was the FBI, that somebody did, and that an emailer told her it was highly unlikely the court did it.",
       "anchored_artifacts": [
@@ -1689,8 +1689,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3321",
-      "ref": "C-3321",
+      "@id": "C-12386",
+      "ref": "C-12386",
       "label": "Andrew Kolvet claimed Candace conceded the debate",
       "claim": "On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded the debate early and repeatedly and predicted the loss would \"age well\" for him.",
       "anchored_artifacts": [
@@ -1707,8 +1707,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3322",
-      "ref": "C-3322",
+      "@id": "C-12395",
+      "ref": "C-12395",
       "label": "Andrew Wilson defended Candace on the Hitler-clip interpretation",
       "claim": "On the Kolvet/Neff podcast, Andrew Wilson said that after reviewing the clip it seemed to him Candace was making a comparison to nationalism rather than apologetics for Hitler, and he pushed back on Andrew Kolvet's framing.",
       "anchored_artifacts": [
@@ -1726,8 +1726,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3323",
-      "ref": "C-3323",
+      "@id": "C-12407",
+      "ref": "C-12407",
       "label": "Charlie Kirk stated in November 2023 that Candace is \"on our team\"",
       "claim": "In a clip the host plays and dates to November 2023, Charlie Kirk says Candace is \"on our team\" and that he told a critic asking about her AmFest appearance to \"lose my number.\"",
       "anchored_artifacts": [
@@ -1743,8 +1743,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3324",
-      "ref": "C-3324",
+      "@id": "C-12428",
+      "ref": "C-12428",
       "label": "Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood",
       "claim": "The host says that in phone conversations around September 12-14, 2025, Andrew Kolvet told her about the Bill Ackman summit, Benjamin Netanyahu's letter, and Charlie Kirk's text messages to Dan Flood and Kolvet the night before; she shows a call log and text messages.",
       "anchored_artifacts": [
@@ -1767,10 +1767,10 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3774",
-      "ref": "C-3774",
-      "label": "Bill Ackman is the 'Bill Ackman' of the summit named in C-3324 (revises C-3324)",
-      "claim": "C-3324 spells the summit host 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
+      "@id": "C-12423",
+      "ref": "C-12423",
+      "label": "Bill Ackman is the 'Bill Ackman' of the summit named in C-12428 (revises C-12428)",
+      "claim": "C-12428 spells the summit host 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.",
       "anchored_artifacts": [
         "A-2308.1",
         "A-2308.2"
@@ -1780,11 +1780,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:50:09",
-      "investigative_direction": "Read with C-3324; match the text-message exports under the corrected spelling Bill Ackman.",
+      "investigative_direction": "Read with C-12428; match the text-message exports under the corrected spelling Bill Ackman.",
       "transcript_snippet": "on the 12th, you were the one that was telling me about the Bill Ackman summit.",
       "confidence": "medium",
       "revises_claim_refs": [
-        "C-3324"
+        "C-12428"
       ],
       "mentions_person_refs": [
         "N-37",
@@ -1793,8 +1793,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3325",
-      "ref": "C-3325",
+      "@id": "C-12435",
+      "ref": "C-12435",
       "label": "Host Says Kolvet Told Her on September 14, 2025 That the TPUSA Board Had Voted In Erika Kirk",
       "claim": "The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.",
       "anchored_artifacts": [
@@ -1814,8 +1814,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6091",
-      "ref": "C-6091",
+      "@id": "C-12354",
+      "ref": "C-12354",
       "label": "Host Says Kolvet Debate Guest Wilson Was Debated Last Friday",
       "claim": "The host says she debated Andrew Wilson last Friday and that Andrew Kolvet then had Wilson on the Kolvet and Blake Neff show.",
       "anchored_artifacts": [],
@@ -1833,8 +1833,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6092",
-      "ref": "C-6092",
+      "@id": "C-12355",
+      "ref": "C-12355",
       "label": "Host Says Journalists Work With Influencers to Imply She Is the Assassin",
       "claim": "The host alleges that journalists are working with a ring of influencers to insert stories implying she is the true assassin of Charlie Kirk.",
       "anchored_artifacts": [],
@@ -1850,8 +1850,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6093",
-      "ref": "C-6093",
+      "@id": "C-12358",
+      "ref": "C-12358",
       "label": "Host Recalls Kolvet Said Terryl Worried About Hat Thieves",
       "claim": "The host says Andrew Kolvet told the audience that Terryl Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.",
       "anchored_artifacts": [],
@@ -1863,7 +1863,7 @@
       "investigative_direction": "Obtain Kolvet's original on-air statement about hats and compare it with Farnsworth's own explanation to the host.",
       "transcript_snippet": "we were told by Andrew Kolvet that he was worried about people stealing hats.",
       "supports_claim_refs": [
-        "C-3294"
+        "C-12228"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -1873,8 +1873,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6094",
-      "ref": "C-6094",
+      "@id": "C-12359",
+      "ref": "C-12359",
       "label": "Host Says She Interviewed With Ana Kasparian the Day Before",
       "claim": "The host says she joined Ana Kasparian's program for an interview the day before this episode, where Kasparian asked about the SD card.",
       "anchored_artifacts": [
@@ -1894,8 +1894,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6095",
-      "ref": "C-6095",
+      "@id": "C-12361",
+      "ref": "C-12361",
       "label": "Host Cites Utah Definition of Evidence Tampering",
       "claim": "The host says the Utah code defines tampering with evidence as altering, destroying, concealing or removing an item with the purpose of impairing its veracity or availability in a proceeding or investigation, and that this could be charged as a felony in Utah.",
       "anchored_artifacts": [],
@@ -1912,8 +1912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6096",
-      "ref": "C-6096",
+      "@id": "C-12362",
+      "ref": "C-12362",
       "label": "Host Says Prosecution Inferred From Videos at Preliminary Hearing",
       "claim": "The host says Erika Kirk's prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.",
       "anchored_artifacts": [],
@@ -1931,8 +1931,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6097",
-      "ref": "C-6097",
+      "@id": "C-12363",
+      "ref": "C-12363",
       "label": "Host Says It Is Undisputed Terryl Removed a Physical Object",
       "claim": "The host says it is not in dispute that Terryl Farnsworth removed a physical object from the crime scene and then went behind the tent and put it in his pocket.",
       "anchored_artifacts": [],
@@ -1950,8 +1950,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6098",
-      "ref": "C-6098",
+      "@id": "C-12364",
+      "ref": "C-12364",
       "label": "Host Says Footage Was Zoomed In When Given to Her Nine Days Later",
       "claim": "The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says she does not know whether he zoomed in the camera footage and sent a Google link to the SBI.",
       "anchored_artifacts": [],
@@ -1963,7 +1963,7 @@
       "investigative_direction": "Obtain the original back-camera file with metadata and compare it with the version the host received.",
       "transcript_snippet": "What we can say for certain is that he had zoomed in by the time he presented it to me nine nine days later.",
       "supports_claim_refs": [
-        "C-3293"
+        "C-12223"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -1972,8 +1972,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6099",
-      "ref": "C-6099",
+      "@id": "C-12365",
+      "ref": "C-12365",
       "label": "Host Says Hull Placed Lead Investigators on Scene Around 1:30",
       "claim": "The host says David Hull testified, as she believes he said, that the lead investigators arrived on the scene around 1:30.",
       "anchored_artifacts": [
@@ -1993,8 +1993,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6100",
-      "ref": "C-6100",
+      "@id": "C-12366",
+      "ref": "C-12366",
       "label": "Host Says Terryl Declared Charlie Dead in a Selfie Video",
       "claim": "The host says Terryl Farnsworth declared in a selfie video that Charlie Kirk was dead within about two minutes of the shooting, which she uses to argue he knew it was a crime scene.",
       "anchored_artifacts": [],
@@ -2006,7 +2006,7 @@
       "investigative_direction": "Review the selfie video and its metadata for the time and wording of the declaration.",
       "transcript_snippet": "he declared, you'll recall in a selfie video, that Charlie was dead.",
       "supports_claim_refs": [
-        "C-4653"
+        "C-10038"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -2016,8 +2016,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6101",
-      "ref": "C-6101",
+      "@id": "C-12367",
+      "ref": "C-12367",
       "label": "Host Says Terryl's Selfie Video Metadata Runs to Just After 12:26",
       "claim": "The host says metadata on Terryl Farnsworth's self-recorded video shows he filmed himself until just after 12:26, with Charlie Kirk struck at 12:23.",
       "anchored_artifacts": [
@@ -2038,8 +2038,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6102",
-      "ref": "C-6102",
+      "@id": "C-12368",
+      "ref": "C-12368",
       "label": "Host Says Terryl Began Taking the Camera Down Around 12:28",
       "claim": "The host says it was almost precisely 12:28 when Terryl Farnsworth began taking the camera down, leaving about a minute and a half for any officer to tell him to secure the footage.",
       "anchored_artifacts": [
@@ -2059,8 +2059,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6103",
-      "ref": "C-6103",
+      "@id": "C-12369",
+      "ref": "C-12369",
       "label": "Host Says Police Instruction Is Hardly Possible in the Time Window",
       "claim": "The host says it is hardly possible that law enforcement officers on the scene told Terryl Farnsworth to secure the footage, given the metadata timeline.",
       "anchored_artifacts": [
@@ -2075,7 +2075,7 @@
       "investigative_direction": "Ask investigators whether any officer instructed Farnsworth, and obtain body-camera logs from the first minutes.",
       "transcript_snippet": "it's hardly possible that law enforcement officers on the scene told him to secure the footage",
       "contradicts_claim_refs": [
-        "C-1366"
+        "C-1363"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -2084,8 +2084,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6104",
-      "ref": "C-6104",
+      "@id": "C-12370",
+      "ref": "C-12370",
       "label": "Host Rules Out Allan Robertson as Having Told Terryl",
       "claim": "The host says Allan Robertson can be ruled out as the one who told Terryl to get the footage: she says he was visiting from Utah State University, undercover to check protesters, and would not have known who Terryl was.",
       "anchored_artifacts": [],
@@ -2097,7 +2097,7 @@
       "investigative_direction": "Confirm Robertson's role and location from USU police records and the host's earlier reporting.",
       "transcript_snippet": "Allan Robertson, we determined, was just visiting from Utah State University. He was undercover because he was there to check out the protesters ahead of the event.",
       "supports_claim_refs": [
-        "C-3199"
+        "C-11702"
       ],
       "mentions_person_refs": [
         "N-749",
@@ -2107,8 +2107,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6105",
-      "ref": "C-6105",
+      "@id": "C-12371",
+      "ref": "C-12371",
       "label": "Host Says She Was Told Terryl Was Told the Opposite",
       "claim": "The host says she was told, allegedly, that Terryl Farnsworth was told to do the exact opposite and not disturb the crime scene.",
       "anchored_artifacts": [],
@@ -2120,7 +2120,7 @@
       "investigative_direction": "Identify the host's source and any witness who gave Farnsworth that instruction.",
       "transcript_snippet": "And I was told, and I will say allegedly here, that actually Terryl was told to do the exact opposite.",
       "contradicts_claim_refs": [
-        "C-4611"
+        "C-9996"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -2129,8 +2129,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6106",
-      "ref": "C-6106",
+      "@id": "C-12372",
+      "ref": "C-12372",
       "label": "Host Says Terryl Never Claimed Police Told Him",
       "claim": "The host says Terryl Farnsworth never claimed police told him to take the footage and that this narrative came only from Tyler Bowyer.",
       "anchored_artifacts": [],
@@ -2142,7 +2142,7 @@
       "investigative_direction": "Compare Bowyer's public statements with Farnsworth's account to the host.",
       "transcript_snippet": "this narrative uh of the police told him to do that. Terryl himself never made that claim.",
       "supports_claim_refs": [
-        "C-4606"
+        "C-9991"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -2152,8 +2152,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6107",
-      "ref": "C-6107",
+      "@id": "C-12373",
+      "ref": "C-12373",
       "label": "Host Says Terryl Named Only Erika as Someone He Spoke To",
       "claim": "The host says the only person Terryl Farnsworth mentioned speaking to was Erika Kirk, without saying when, and that she is not suggesting Erika directed him.",
       "anchored_artifacts": [],
@@ -2165,7 +2165,7 @@
       "investigative_direction": "Ask Farnsworth and Erika Kirk about the timing and content of that conversation.",
       "transcript_snippet": "I'm just asserting that factually the only person that he mentioned to me that he spoke to was Erika.",
       "supports_claim_refs": [
-        "C-4606"
+        "C-9991"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -2175,8 +2175,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6108",
-      "ref": "C-6108",
+      "@id": "C-12374",
+      "ref": "C-12374",
       "label": "Host Says Terryl Said He Wanted to Spare Erika Seeing Charlie Die in 4K",
       "claim": "The host says her understanding was that Terryl Farnsworth acted on his own volition because he did not want Erika Kirk to have to see Charlie Kirk die in 4K.",
       "anchored_artifacts": [],
@@ -2196,8 +2196,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6109",
-      "ref": "C-6109",
+      "@id": "C-12375",
+      "ref": "C-12375",
       "label": "Host Lists Three Conflicting Explanations for Taking the Footage",
       "claim": "The host says Tyler Bowyer said police told Terryl, Terryl said he acted on his own volition to protect Erika, and Andrew Kolvet said it was about hat thieves.",
       "anchored_artifacts": [],
@@ -2219,8 +2219,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6110",
-      "ref": "C-6110",
+      "@id": "C-12376",
+      "ref": "C-12376",
       "label": "Host Says Maroon Man in Court Footage Looks Wider Than Tyler Robinson",
       "claim": "The host says the maroon-shirted man in the 4K court footage looks a lot wider than Tyler Robinson and that influencers shown it failed to mention this.",
       "anchored_artifacts": [
@@ -2241,8 +2241,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6111",
-      "ref": "C-6111",
+      "@id": "C-12378",
+      "ref": "C-12378",
       "label": "Host Says Emailer Corrected Compressed to Aspect Ratio Decreased",
       "claim": "The host says an email told her the technically correct description of what was done to the court footage is that its aspect ratio was decreased, not that it was compressed.",
       "anchored_artifacts": [
@@ -2261,8 +2261,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6112",
-      "ref": "C-6112",
+      "@id": "C-12379",
+      "ref": "C-12379",
       "label": "Host Says Her Government Source Confirmed the Footage Was Modified",
       "claim": "The host says the footage shown in court was in effect modified and that her government source confirmed it.",
       "anchored_artifacts": [
@@ -2276,7 +2276,7 @@
       "investigative_direction": "Seek the court exhibit original and ask the source on record, or a second source, to confirm.",
       "transcript_snippet": "The footage that you saw in court that I saw in court was in effect modified. My government source confirmed that.",
       "supports_claim_refs": [
-        "C-3318"
+        "C-12380"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2284,8 +2284,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6113",
-      "ref": "C-6113",
+      "@id": "C-12377",
+      "ref": "C-12377",
       "label": "Host Denies Using AI After a Lawyer Accused Her",
       "claim": "The host says an online Canadian lawyer claimed she used AI and was lying about the footage, and that she did not use AI.",
       "anchored_artifacts": [
@@ -2305,8 +2305,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6114",
-      "ref": "C-6114",
+      "@id": "C-12382",
+      "ref": "C-12382",
       "label": "Host Says Hull Testified Bricker Gathered All UVU Surveillance",
       "claim": "The host says David Hull testified that on September 10 Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.",
       "anchored_artifacts": [
@@ -2328,8 +2328,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6115",
-      "ref": "C-6115",
+      "@id": "C-12387",
+      "ref": "C-12387",
       "label": "Wilson Says Hundreds of DMs Called the Steakhouse Receipt a Fraud",
       "claim": "Andrew Wilson says on the Kolvet/Neff show that he received hundreds of DMs from people who did not know the steakhouse receipt was a complete phony fraud.",
       "anchored_artifacts": [
@@ -2343,7 +2343,7 @@
       "investigative_direction": "Establish what evidence Wilson relies on for calling the receipt fraudulent.",
       "transcript_snippet": "I got hundreds of DMs, for instance, from people who didn't know that the steakhouse receipt was a complete phony fraud",
       "contradicts_claim_refs": [
-        "C-2004"
+        "C-4521"
       ],
       "mentions_person_refs": [
         "N-18",
@@ -2353,8 +2353,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6116",
-      "ref": "C-6116",
+      "@id": "C-12388",
+      "ref": "C-12388",
       "label": "Podcast Speaker Relays Burkhart: Defense Would Present Exculpatory Evidence",
       "claim": "A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Burkhart told him a defense with exculpatory evidence such as a steakhouse receipt would present it at the preliminary hearing.",
       "anchored_artifacts": [
@@ -2374,8 +2374,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6117",
-      "ref": "C-6117",
+      "@id": "C-12389",
+      "ref": "C-12389",
       "label": "Host Says the FBI Took a Statement From the Restaurant Owner",
       "claim": "The host says the FBI is aware of the steakhouse receipt and took a statement from the restaurant owner (transcribed as 'Odor').",
       "anchored_artifacts": [],
@@ -2392,8 +2392,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6118",
-      "ref": "C-6118",
+      "@id": "C-12390",
+      "ref": "C-12390",
       "label": "Host Says She Spoke to the Steakhouse Owner",
       "claim": "The host says she spoke to the owner of the restaurant and that this undercuts claims that the receipt story is fabricated.",
       "anchored_artifacts": [],
@@ -2410,8 +2410,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6119",
-      "ref": "C-6119",
+      "@id": "C-12391",
+      "ref": "C-12391",
       "label": "Host Says the Server Has Given an Interview and a Receipt Exists",
       "claim": "The host says the server has given an interview and that there is a receipt.",
       "anchored_artifacts": [],
@@ -2428,8 +2428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6120",
-      "ref": "C-6120",
+      "@id": "C-12392",
+      "ref": "C-12392",
       "label": "Host Says Defense Reported Missing Discovery at the April Hearing",
       "claim": "The host says that at the April hearing the defense kept saying it had not been granted discovery and wanted an extension on the preliminary hearing to go through material.",
       "anchored_artifacts": [],
@@ -2446,8 +2446,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6121",
-      "ref": "C-6121",
+      "@id": "C-12393",
+      "ref": "C-12393",
       "label": "Host Says Podcasters Found the Receipt and the FBI Was Contacted",
       "claim": "The host says the receipt was found by podcasters who stumbled on it while investigating, and that the FBI was contacted.",
       "anchored_artifacts": [],
@@ -2464,8 +2464,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6122",
-      "ref": "C-6122",
+      "@id": "C-12394",
+      "ref": "C-12394",
       "label": "Host Says the Meal Was Paid by Debit Card and the Owner Pulled the Receipt",
       "claim": "The host says the restaurant owner pulled the receipt, that it shows what the person ate, and that it was paid for on a debit card.",
       "anchored_artifacts": [],
@@ -2477,7 +2477,7 @@
       "investigative_direction": "Obtain the receipt and card-issuer record under legal process, and confirm the cardholder.",
       "transcript_snippet": "We can verify that the owner pulled the receipt. We can verify what the person ate, that there is a receipt, and that it was paid for on a debit card.",
       "supports_claim_refs": [
-        "C-2004"
+        "C-4521"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2485,8 +2485,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6123",
-      "ref": "C-6123",
+      "@id": "C-12396",
+      "ref": "C-12396",
       "label": "Kolvet Says the Host Said Hitler Was Great If He Stayed in Germany",
       "claim": "Andrew Kolvet says on the Kolvet/Neff show that the host had an event where she basically said Hitler was great if he had just stayed in Germany.",
       "anchored_artifacts": [
@@ -2506,8 +2506,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6124",
-      "ref": "C-6124",
+      "@id": "C-12397",
+      "ref": "C-12397",
       "label": "Podcast Speaker Says She Became Obsessed With Jews in 2023 and 2024",
       "claim": "A speaker on the Kolvet/Neff show says that in 2023 and 2024 the host became obsessed with Jews all the time.",
       "anchored_artifacts": [
@@ -2524,8 +2524,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6125",
-      "ref": "C-6125",
+      "@id": "C-12398",
+      "ref": "C-12398",
       "label": "Podcast Speaker Links the Christchurch Shooter to the Host",
       "claim": "A speaker on the Kolvet/Neff show says he thinks it was the Christchurch shooter in New Zealand who said he was inspired by the host.",
       "anchored_artifacts": [
@@ -2542,8 +2542,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6126",
-      "ref": "C-6126",
+      "@id": "C-12399",
+      "ref": "C-12399",
       "label": "Host Says Her Hitler Comment Was About Nationalism, Not Support",
       "claim": "The host says she was asked about nationalism and replied that it is not attributable to Hitler because he had ambitions outside Germany.",
       "anchored_artifacts": [
@@ -2557,7 +2557,7 @@
       "investigative_direction": "Compare the host's full answer on the original clip with Kolvet's paraphrase.",
       "transcript_snippet": "I said well it's not attributable to Adolf Hitler because Adolf Hitler if he had just wanted to stay in Germany and make Germany great we wouldn't have an issue with that.",
       "contradicts_claim_refs": [
-        "C-6123"
+        "C-12396"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2565,8 +2565,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6127",
-      "ref": "C-6127",
+      "@id": "C-12400",
+      "ref": "C-12400",
       "label": "Host Says the 2018 Nationalism Event Was With Charlie and BuzzFeed Pulled It Later",
       "claim": "The host says her nationalism remarks were made in 2018 on stage with Charlie Kirk with journalists in the room and no objection, and that BuzzFeed pulled the clip months later.",
       "anchored_artifacts": [],
@@ -2584,8 +2584,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6128",
-      "ref": "C-6128",
+      "@id": "C-12401",
+      "ref": "C-12401",
       "label": "Neff Says He Has Never Met Candace Owens",
       "claim": "Blake Neff says on the Kolvet/Neff show that he has never met Candace Owens and does not know her.",
       "anchored_artifacts": [
@@ -2605,8 +2605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6129",
-      "ref": "C-6129",
+      "@id": "C-12402",
+      "ref": "C-12402",
       "label": "Neff Says He Met Donors, Family and Team but Not Candace",
       "claim": "Blake Neff says that in close to three years with Charlie Kirk he met donors, family members and team but does not know Candace.",
       "anchored_artifacts": [
@@ -2627,8 +2627,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6130",
-      "ref": "C-6130",
+      "@id": "C-12403",
+      "ref": "C-12403",
       "label": "Kolvet Says He Tweeted That Her Foundational Lie Is Friendship With Charlie",
       "claim": "Andrew Kolvet says he tweeted that her central foundational lie is that she and Charlie were friends, asking for proof from the last 12 months, then 18 and 24 months, and that he thinks she showed something at 22 months and he was community noted.",
       "anchored_artifacts": [
@@ -2649,8 +2649,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6131",
-      "ref": "C-6131",
+      "@id": "C-12404",
+      "ref": "C-12404",
       "label": "Kolvet Says They Were Friends in 2018 and Part of 2019 but It Ended Badly",
       "claim": "Andrew Kolvet says he thinks Charlie Kirk and Candace Owens were friends in 2018 and part of 2019 and that it did not end well.",
       "anchored_artifacts": [
@@ -2671,8 +2671,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6132",
-      "ref": "C-6132",
+      "@id": "C-12405",
+      "ref": "C-12405",
       "label": "Host Says Charlie and Erika Attended Her Wedding in Late 2019",
       "claim": "The host says Charlie and Erika Kirk were at her wedding at the end of 2019, which she uses to rebut the claim the friendship ended badly.",
       "anchored_artifacts": [],
@@ -2684,7 +2684,7 @@
       "investigative_direction": "Obtain wedding photos or guest records showing the Kirks present.",
       "transcript_snippet": "why were Charlie and Erika at my wedding at the end of 2019?",
       "contradicts_claim_refs": [
-        "C-6131"
+        "C-12404"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2694,8 +2694,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6133",
-      "ref": "C-6133",
+      "@id": "C-12406",
+      "ref": "C-12406",
       "label": "Host Says Neff's Cited Clip Is Charlie Discussing Their Friendship in November 2023",
       "claim": "The host says the clip of Blake Neff mentioned on the Kolvet/Neff show is Charlie Kirk discussing their friendship in November 2023.",
       "anchored_artifacts": [
@@ -2709,7 +2709,7 @@
       "investigative_direction": "Date the Charlie Kirk clip from its original broadcast.",
       "transcript_snippet": "that clip that he's referring to is Charlie discussing our friendship in November of 2023.",
       "supports_claim_refs": [
-        "C-3323"
+        "C-12407"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2719,8 +2719,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6134",
-      "ref": "C-6134",
+      "@id": "C-12408",
+      "ref": "C-12408",
       "label": "Host Says She Showed Texts of Charlie Predicting His Own Death in 2018",
       "claim": "The host says that after Charlie's death she showed people text messages from 2018 in which Charlie predicted his own death, including 'Be my David'.",
       "anchored_artifacts": [
@@ -2734,8 +2734,8 @@
       "investigative_direction": "Authenticate the 2018 text messages with metadata.",
       "transcript_snippet": "I showed people text messages of Charlie predicting his own death in 2018",
       "supports_claim_refs": [
-        "C-2201",
-        "C-1468"
+        "C-5637",
+        "C-1781"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2744,8 +2744,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6135",
-      "ref": "C-6135",
+      "@id": "C-12409",
+      "ref": "C-12409",
       "label": "Host Says Her Husband George Traveled With Charlie During Their Engagement",
       "claim": "The host says her husband George became close to Charlie Kirk and that they traveled around with Charlie the whole year of their engagement.",
       "anchored_artifacts": [],
@@ -2764,8 +2764,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6136",
-      "ref": "C-6136",
+      "@id": "C-12410",
+      "ref": "C-12410",
       "label": "Host Says She Was Fired From the Daily Wire in March 2024",
       "claim": "The host says she was fired from the Daily Wire in March 2024 and that this pushes the friendship timeline Kolvet and Neff dispute to 2024.",
       "anchored_artifacts": [
@@ -2787,8 +2787,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6137",
-      "ref": "C-6137",
+      "@id": "C-12411",
+      "ref": "C-12411",
       "label": "Kolvet Says Candace Became More Difficult to Work With",
       "claim": "Andrew Kolvet says on the Kolvet/Neff show that the host became more and more difficult to work with and had more issues with the team.",
       "anchored_artifacts": [
@@ -2806,8 +2806,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6138",
-      "ref": "C-6138",
+      "@id": "C-12412",
+      "ref": "C-12412",
       "label": "Kolvet Says Charlie Offered the Host a Job Right on Meeting Her",
       "claim": "Andrew Kolvet says Charlie Kirk offered the host a job basically right on meeting her.",
       "anchored_artifacts": [
@@ -2826,8 +2826,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6139",
-      "ref": "C-6139",
+      "@id": "C-12413",
+      "ref": "C-12413",
       "label": "Kolvet Says She Cancelled an Event the Day Before and Went to France With Kanye",
       "claim": "Andrew Kolvet says he thinks the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.",
       "anchored_artifacts": [
@@ -2848,8 +2848,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6140",
-      "ref": "C-6140",
+      "@id": "C-12414",
+      "ref": "C-12414",
       "label": "Host Says It Was the Only Event She Cancelled, in Late 2022",
       "claim": "The host says it was the only time she cancelled an event with Turning Point USA and dates it to late 2022.",
       "anchored_artifacts": [
@@ -2863,7 +2863,7 @@
       "investigative_direction": "Confirm the event date and cancellation against TPUSA scheduling.",
       "transcript_snippet": "That is the only time that I canled an event with Turning Point USA.",
       "supports_claim_refs": [
-        "C-6139"
+        "C-12413"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2871,8 +2871,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6141",
-      "ref": "C-6141",
+      "@id": "C-12415",
+      "ref": "C-12415",
       "label": "Host Says She Wore a White Lives Matter Shirt in France",
       "claim": "The host says she went to France and wore the White Lives Matter shirt on a trip she says was not planned.",
       "anchored_artifacts": [],
@@ -2889,8 +2889,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6142",
-      "ref": "C-6142",
+      "@id": "C-12416",
+      "ref": "C-12416",
       "label": "Host Says She Had Just Released a Black Lives Matter Documentary",
       "claim": "The host says she had just released a documentary on Black Lives Matter and had stumped on many college campuses for TPUSA, raising money.",
       "anchored_artifacts": [],
@@ -2905,8 +2905,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6143",
-      "ref": "C-6143",
+      "@id": "C-12417",
+      "ref": "C-12417",
       "label": "Host Says Charlie Told Her She Had to Go and Asked for a Substitute",
       "claim": "The host says Charlie Kirk told her of course she had to go to France and to get a substitute speaker.",
       "anchored_artifacts": [],
@@ -2924,8 +2924,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6144",
-      "ref": "C-6144",
+      "@id": "C-12418",
+      "ref": "C-12418",
       "label": "Host Says She Asked Michael Knowles to Sub for Her",
       "claim": "The host says she called Michael Knowles and asked him to substitute for her at the cancelled TPUSA event.",
       "anchored_artifacts": [],
@@ -2943,8 +2943,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6145",
-      "ref": "C-6145",
+      "@id": "C-12419",
+      "ref": "C-12419",
       "label": "Kolvet Says Candace Told Him She Would Burn Down TPUSA",
       "claim": "Andrew Kolvet says that about five or six days after the shooting the host told him that if the wrong people took over the organization she would burn it down.",
       "anchored_artifacts": [
@@ -2964,8 +2964,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6146",
-      "ref": "C-6146",
+      "@id": "C-12420",
+      "ref": "C-12420",
       "label": "Kolvet Says JD Vance Hosted the Show the Monday After",
       "claim": "Andrew Kolvet says JD Vance hosted Charlie's show on the Monday after Charlie was killed on a Wednesday.",
       "anchored_artifacts": [
@@ -2984,8 +2984,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6147",
-      "ref": "C-6147",
+      "@id": "C-12421",
+      "ref": "C-12421",
       "label": "Kolvet Says He Assumed She Meant If the Jews Take Over",
       "claim": "Andrew Kolvet says he assumed the burn-it-down remark meant if the Jews took over, and Blake Neff raises Ben Shapiro as the name people threw out.",
       "anchored_artifacts": [
@@ -3007,8 +3007,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6148",
-      "ref": "C-6148",
+      "@id": "C-12422",
+      "ref": "C-12422",
       "label": "Host Says She Rejected the Idea That Shapiro Wanted to Take Over TPUSA",
       "claim": "The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, that this is on record, and that she now has a different opinion.",
       "anchored_artifacts": [],
@@ -3026,8 +3026,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6149",
-      "ref": "C-6149",
+      "@id": "C-12424",
+      "ref": "C-12424",
       "label": "Host Says Kolvet Spoke With Her Every Day About a Foreign Angle",
       "claim": "The host says she spoke to Andrew Kolvet on the phone every day and that they discussed a potential foreign angle in Charlie Kirk's assassination.",
       "anchored_artifacts": [
@@ -3048,8 +3048,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6150",
-      "ref": "C-6150",
+      "@id": "C-12425",
+      "ref": "C-12425",
       "label": "Host Says the Call Log Shows a 17-Minute Call on September 14, 2025",
       "claim": "The host says the call log shows she and Andrew Kolvet spoke for 17 minutes on September 14, 2025 (she first says August 14th and then corrects to September).",
       "anchored_artifacts": [
@@ -3069,8 +3069,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6151",
-      "ref": "C-6151",
+      "@id": "C-12426",
+      "ref": "C-12426",
       "label": "Host Says Kolvet Told Her Mikey McCoy Had Netanyahu's Letter on Charlie's Laptop",
       "claim": "The host says Kolvet told her Mikey McCoy had the Netanyahu letter on Charlie's laptop and that in it Charlie said he was pulling away from the Israel cause.",
       "anchored_artifacts": [
@@ -3084,8 +3084,8 @@
       "investigative_direction": "Authenticate the September 2025 messages and ask Kolvet and McCoy about the letter.",
       "transcript_snippet": "telling me that Mikey McCoy had this letter on Charlie's laptop and you told me basically that Charlie in this letter said to that he was kind of pulling away from the Israel cause.",
       "supports_claim_refs": [
-        "C-4240",
-        "C-4315"
+        "C-9516",
+        "C-9591"
       ],
       "mentions_person_refs": [
         "N-190",
@@ -3097,8 +3097,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6152",
-      "ref": "C-6152",
+      "@id": "C-12427",
+      "ref": "C-12427",
       "label": "Host Says Kolvet Told Her About Plural Night-Before Texts of Charlie Fearing Death",
       "claim": "The host says Kolvet told her about text messages, plural, to Dan Flood and to Kolvet the night before in which Charlie thought he was going to be killed.",
       "anchored_artifacts": [
@@ -3112,7 +3112,7 @@
       "investigative_direction": "Preserve the Kolvet and Flood message threads from September 9-10, 2025.",
       "transcript_snippet": "You were the one that told me about the text messages. Notice I'm saying plural text messages to Dan Flood and to yourself the night before that Charlie thought that he was going to be killed.",
       "supports_claim_refs": [
-        "C-4237"
+        "C-9513"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -3123,8 +3123,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6153",
-      "ref": "C-6153",
+      "@id": "C-12429",
+      "ref": "C-12429",
       "label": "Host Says Kolvet Could Not Say Who 'They' Were",
       "claim": "The host says she asked Kolvet who 'they' were and he said he did not know, and that he never said it was the left.",
       "anchored_artifacts": [
@@ -3144,8 +3144,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6154",
-      "ref": "C-6154",
+      "@id": "C-12430",
+      "ref": "C-12430",
       "label": "Host Says Kolvet Told Her Charlie Declined to Host Netanyahu",
       "claim": "The host says Kolvet told her Charlie declined to have Netanyahu on his show and was growing increasingly agitated with Israeli involvement.",
       "anchored_artifacts": [
@@ -3160,7 +3160,7 @@
       "investigative_direction": "Ask Kolvet to confirm the show-refusal account and obtain the booking correspondence.",
       "transcript_snippet": "how Charlie declined to have BB Netanyahu on his show and he was growing um increasingly more agitated with Israeli involvement and willing to walk away from this.",
       "supports_claim_refs": [
-        "C-3025"
+        "C-10760"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3171,8 +3171,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6155",
-      "ref": "C-6155",
+      "@id": "C-12431",
+      "ref": "C-12431",
       "label": "Host Says She Texted Kolvet 'This Was a Government Hit' on September 11",
       "claim": "The host says that in a September 11 text she wrote that this was a government hit and that they needed answers, and that Kolvet replied he was in and out of sleep too.",
       "anchored_artifacts": [
@@ -3192,8 +3192,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6156",
-      "ref": "C-6156",
+      "@id": "C-12432",
+      "ref": "C-12432",
       "label": "Host Says She Texted That Netanyahu Was Lying About the Letter",
       "claim": "The host says she texted Kolvet on September 11 that Netanyahu was lying about the contents of a letter Charlie wrote him, and that she knew of it because Kolvet had told her.",
       "anchored_artifacts": [
@@ -3215,8 +3215,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6157",
-      "ref": "C-6157",
+      "@id": "C-12433",
+      "ref": "C-12433",
       "label": "Host Says Her 'Burn It Down' Meant If Foreign Involvement Were True",
       "claim": "The host says her remark meant that if the account was true and there was foreign involvement, they would burn this place to the ground.",
       "anchored_artifacts": [
@@ -3231,7 +3231,7 @@
       "investigative_direction": "Compare with the host's contemporaneous texts and Kolvet's recollection.",
       "transcript_snippet": "if this is true and there is foreign involvement, like we will burn this place to the ground.",
       "qualifies_claim_refs": [
-        "C-6145"
+        "C-12419"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3240,8 +3240,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6158",
-      "ref": "C-6158",
+      "@id": "C-12434",
+      "ref": "C-12434",
       "label": "Host Says She Replied 'Thank God' When Told the Board Voted In Erika",
       "claim": "The host says that when Kolvet told her on the 14th the board had voted in Erika, her reply was 'Thank God', which she says Kolvet left out.",
       "anchored_artifacts": [
@@ -3262,8 +3262,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6159",
-      "ref": "C-6159",
+      "@id": "C-12436",
+      "ref": "C-12436",
       "label": "Host Calls Kolvet Her Number One Source on the Israeli Narrative",
       "claim": "The host says Andrew Kolvet was her number one source on the information that led her to see an Israeli angle.",
       "anchored_artifacts": [
@@ -3283,8 +3283,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6160",
-      "ref": "C-6160",
+      "@id": "C-12437",
+      "ref": "C-12437",
       "label": "Host Says the Show Runs Six Weeks On and One Week Off",
       "claim": "The host says her team adopted a six-weeks-on, one-week-off structure to break and check the timeline.",
       "anchored_artifacts": [],
@@ -3299,8 +3299,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6161",
-      "ref": "C-6161",
+      "@id": "C-12439",
+      "ref": "C-12439",
       "label": "Host Says She Told Kolvet to Use Her as His Dragon",
       "claim": "The host says she told Andrew Kolvet to use her as his dragon because she was angry if Charlie lost his life to this.",
       "anchored_artifacts": [
@@ -3321,8 +3321,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6162",
-      "ref": "C-6162",
+      "@id": "C-12438",
+      "ref": "C-12438",
       "label": "Host Says She Thought Erika Taking Over Was Great but Now Does Not",
       "claim": "The host says she thought everything was great when Erika took over but now thinks it is not great.",
       "anchored_artifacts": [],
@@ -3334,7 +3334,7 @@
       "investigative_direction": "Compare with the host's earlier statements welcoming Erika's leadership.",
       "transcript_snippet": "And then I thought everything was great because Erika took over and now I'm going oh my gosh no it actually isn't great.",
       "revises_claim_refs": [
-        "C-6158"
+        "C-12434"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3343,8 +3343,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6163",
-      "ref": "C-6163",
+      "@id": "C-12440",
+      "ref": "C-12440",
       "label": "Host Says Her Show Revealed the Dairy Queen Photo",
       "claim": "The host says her show revealed the Dairy Queen photo, so they know Tyler Robinson was around campus that day.",
       "anchored_artifacts": [],
@@ -3356,7 +3356,7 @@
       "investigative_direction": "Verify the photo's timestamp and origin.",
       "transcript_snippet": "we were the ones that obviously revealed the Dairy Queen photo, so we know he was around campus that day.",
       "supports_claim_refs": [
-        "C-1186"
+        "C-403"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -3365,8 +3365,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6164",
-      "ref": "C-6164",
+      "@id": "C-12441",
+      "ref": "C-12441",
       "label": "Host Says Her Source Said Tyler Dumped Clothes in a Cemetery",
       "claim": "The host says the story she got was that Tyler Robinson was dumping clothes in a cemetery.",
       "anchored_artifacts": [],
@@ -3384,8 +3384,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6165",
-      "ref": "C-6165",
+      "@id": "C-12442",
+      "ref": "C-12442",
       "label": "Host Says She Is Open to Multiple Maroon-Shirted People",
       "claim": "The host says she is open to thinking that multiple people were wearing maroon shirts.",
       "anchored_artifacts": [],
@@ -3402,8 +3402,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6166",
-      "ref": "C-6166",
+      "@id": "C-12443",
+      "ref": "C-12443",
       "label": "Host Says She Is at 0 Percent That Tyler Robinson Fired From the Rooftop",
       "claim": "The host says she is at 0 percent that Tyler Robinson shot and killed Charlie Kirk from the Losee Center rooftop.",
       "anchored_artifacts": [],
@@ -3422,8 +3422,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6167",
-      "ref": "C-6167",
+      "@id": "C-12444",
+      "ref": "C-12444",
       "label": "Host Says She Does Not Know a Shot Was Fired",
       "claim": "The host says she does not know whether a shot was fired and does not believe a shot was fired from the Losee Center.",
       "anchored_artifacts": [],
@@ -3441,8 +3441,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6168",
-      "ref": "C-6168",
+      "@id": "C-12445",
+      "ref": "C-12445",
       "label": "Host Says Lance Said They Never Discussed Charlie or LGBTQ Issues",
       "claim": "The host says Lance Twiggs said he was not political and that he and Tyler never talked about LGBTQ issues, which she says conflicts with the political-motive narrative.",
       "anchored_artifacts": [
@@ -3463,8 +3463,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6169",
-      "ref": "C-6169",
+      "@id": "C-12446",
+      "ref": "C-12446",
       "label": "Host Says TPUSA Is Spending Money While She Spent Zero",
       "claim": "The host says TPUSA is angry and spending money to have people try to destroy her, while her side has spent zero dollars trying to get anyone to go after them.",
       "anchored_artifacts": [],
@@ -3479,8 +3479,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6170",
-      "ref": "C-6170",
+      "@id": "C-12447",
+      "ref": "C-12447",
       "label": "Host Says Charlie Loved Rush Limbaugh and Wanted Three Hours of Radio",
       "claim": "The host says Charlie Kirk loved Rush Limbaugh and wanted one day to do the same three hours of radio every day, which she calls one of his lifelong goals.",
       "anchored_artifacts": [],

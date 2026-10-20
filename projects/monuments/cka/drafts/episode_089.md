@@ -14,7 +14,7 @@
   - Hole-minted Nodes (reintro-ep089): N-10741
   - Tip-minted Nodes (reintro-ep089): N-679
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8635–C-8688
+  - Claim Range: C-7953–C-8019
   - New Nodes Introduced: N-10590, N-10591, N-10592
   - Hole-minted Nodes (wave3): N-419
   - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-145, N-178, N-244, N-298, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-165, N-705, N-10630, N-11191, N-11192, N-11145, N-10589, N-10588
@@ -42,7 +42,7 @@ Video Timestamp: 00:04:12–00:12:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2669, C-2670, C-2680, C-2681, N-3, N-10587*
+*Related: C-7955, C-7964, C-7965, C-7960, N-3, N-10587*
 
 ---
 
@@ -56,7 +56,7 @@ Video Timestamp: 00:23:45–00:24:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2671, N-3*
+*Related: C-7982, N-3*
 
 ---
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:25:38–00:26:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2672, N-10592*
+*Related: C-7984, N-10592*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:26:31–00:28:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (full text read aloud on air)
 
-*Related: C-2673*
+*Related: C-7985*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:33:58–00:35:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played on air)
 
-*Related: C-2674, N-10590*
+*Related: C-8004, N-10590*
 
 ---
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:29:16–00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-witness recounting; second-hand via Charlie Kirk; Kolb named as corroborator)
 
-*Related: C-2675, C-2676, N-10588, N-10589*
+*Related: C-7990, C-7993, N-10588, N-10589*
 
 ---
 
@@ -126,7 +126,7 @@ Video Timestamp: 00:41:36–00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (commenter identities partially self-attested)
 
-*Related: C-2678, N-10591*
+*Related: C-7979, N-10591*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:19:06–00:21:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (responses paraphrased and partially quoted on air)
 
-*Related: C-2678, C-2679, N-10587, N-10591*
+*Related: C-7979, C-7980, N-10587, N-10591*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:31:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-2677, N-10588*
+*Related: C-7996, N-10588*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:17:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8651, C-8652, N-3*
+*Related: C-7973, C-7974, N-3*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:18:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8653, N-3*
+*Related: C-7975, N-3*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:21:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8657, N-3*
+*Related: C-7981, N-3*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:38:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8681, C-8682, N-3*
+*Related: C-8012, C-8013, N-3*
 
 ---
 
@@ -214,7 +214,7 @@ Confidence Level: Medium
 
 First named by the host at 00:26:31 in episode 89.
 
-*Related: C-2672, C-2673*
+*Related: C-7984, C-7985*
 
 
 **N-10587** Trump Truth Social Post Pattern Question
@@ -226,7 +226,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1939.1, A-1946.1, C-2669, C-2679, C-2680*
+*Related: A-1939.1, A-1946.1, C-7955, C-7980, C-7965*
 
 ---
 
@@ -239,7 +239,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1944.1, A-1947.1, C-2676, C-2677*
+*Related: A-1944.1, A-1947.1, C-7993, C-7996*
 
 ---
 
@@ -252,7 +252,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1944.1, C-2675, C-2676*
+*Related: A-1944.1, C-7990, C-7993*
 
 ---
 
@@ -265,7 +265,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1943.1, C-2674*
+*Related: A-1943.1, C-8004*
 
 ---
 
@@ -278,7 +278,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1945.1, A-1946.1, C-2678*
+*Related: A-1945.1, A-1946.1, C-7979*
 
 ---
 
@@ -291,7 +291,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1941.1, C-2672*
+*Related: A-1941.1, C-7984*
 
 ---
 
@@ -299,7 +299,7 @@ Investigative Pressure: Low
 
 Charlie Kirk, whose killing and private account of the Adelson meeting the host discusses.
 
-*Related: C-8636, C-8637, C-8639, C-8640, C-8642, C-8643, C-8644, C-8645, C-8646, C-8648, C-8649, C-8650, C-8652, C-8653, C-8655, C-8658, C-8659, C-8660, C-8661, C-8663, C-8664, C-8665, C-8666, C-8667, C-8668, C-8669, C-8670, C-8671, C-8673, C-8676, C-8679, C-8683, C-8684, C-8686, C-8688*
+*Related: C-7954, C-7956, C-7958, C-7959, C-7962, C-7963, C-7966, C-7967, C-7968, C-7970, C-7971, C-7972, C-7974, C-7975, C-7977, C-7983, C-7986, C-7987, C-7988, C-7991, C-7992, C-7994, C-7995, C-7997, C-7998, C-7999, C-8000, C-8001, C-8003, C-8007, C-8010, C-8014, C-8015, C-8017, C-8019*
 
 ---
 
@@ -307,7 +307,7 @@ Charlie Kirk, whose killing and private account of the Adelson meeting the host 
 
 Host; speaks for herself throughout.
 
-*Related: C-8635, C-8636, C-8637, C-8638, C-8640, C-8641, C-8643, C-8645, C-8646, C-8647, C-8648, C-8649, C-8650, C-8651, C-8653, C-8654, C-8655, C-8656, C-8657, C-8658, C-8659, C-8660, C-8661, C-8662, C-8663, C-8664, C-8665, C-8666, C-8667, C-8668, C-8669, C-8670, C-8671, C-8672, C-8673, C-8674, C-8676, C-8677, C-8678, C-8679, C-8680, C-8681, C-8682, C-8683, C-8684, C-8685, C-8686, C-8687, C-8688*
+*Related: C-7953, C-7954, C-7956, C-7957, C-7959, C-7961, C-7963, C-7967, C-7968, C-7969, C-7970, C-7971, C-7972, C-7973, C-7975, C-7976, C-7977, C-7978, C-7981, C-7983, C-7986, C-7987, C-7988, C-7989, C-7991, C-7992, C-7994, C-7995, C-7997, C-7998, C-7999, C-8000, C-8001, C-8002, C-8003, C-8005, C-8007, C-8008, C-8009, C-8010, C-8011, C-8012, C-8013, C-8014, C-8015, C-8016, C-8017, C-8018, C-8019*
 
 ---
 
@@ -315,7 +315,7 @@ Host; speaks for herself throughout.
 
 President Donald Trump, subject of the host's open letter and of the Truth Social post.
 
-*Related: C-8635, C-8637, C-8638, C-8639, C-8641, C-8642, C-8643, C-8644, C-8647, C-8648, C-8649, C-8650, C-8652, C-8653, C-8654, C-8655, C-8656, C-8658, C-8661, C-8662, C-8664, C-8666, C-8667, C-8668, C-8669, C-8670, C-8675, C-8676, C-8683, C-8685, C-8688*
+*Related: C-7953, C-7956, C-7957, C-7958, C-7961, C-7962, C-7963, C-7966, C-7969, C-7970, C-7971, C-7972, C-7974, C-7975, C-7976, C-7977, C-7978, C-7983, C-7988, C-7989, C-7992, C-7995, C-7997, C-7998, C-7999, C-8000, C-8006, C-8007, C-8014, C-8016, C-8019*
 
 ---
 
@@ -323,7 +323,7 @@ President Donald Trump, subject of the host's open letter and of the Truth Socia
 
 Jeffrey Epstein, named in a played clip's phrase about an Epstein class table.
 
-*Related: C-8637, C-8638, C-8642, C-8651, C-8652, C-8654, C-8662, C-8682*
+*Related: C-7956, C-7957, C-7962, C-7973, C-7974, C-7976, C-7989, C-8013*
 
 ---
 
@@ -331,7 +331,7 @@ Jeffrey Epstein, named in a played clip's phrase about an Epstein class table.
 
 Andrew Kolvet (transcribed Kolb), named by the host as a witness to the alleged Adelson-Trump meeting.
 
-*Related: C-8644, C-8663, C-8665, C-8666*
+*Related: C-7966, C-7991, C-7994, C-7995*
 
 ---
 
@@ -339,7 +339,7 @@ Andrew Kolvet (transcribed Kolb), named by the host as a witness to the alleged 
 
 Tucker Carlson, target of the post and author of the letter read on air.
 
-*Related: C-8637, C-8638, C-8639, C-8640, C-8659, C-8660, C-8661, C-8674, C-8675, C-8682*
+*Related: C-7956, C-7957, C-7958, C-7959, C-7986, C-7987, C-7988, C-8005, C-8006, C-8013*
 
 ---
 
@@ -347,7 +347,7 @@ Tucker Carlson, target of the post and author of the letter read on air.
 
 Benjamin Netanyahu, whom the host says Trump defers to.
 
-*Related: C-8649, C-8650, C-8653*
+*Related: C-7971, C-7972, C-7975*
 
 ---
 
@@ -355,7 +355,7 @@ Benjamin Netanyahu, whom the host says Trump defers to.
 
 Megyn Kelly, one of the four critics named in the post.
 
-*Related: C-8637, C-8638, C-8641, C-8662, C-8682*
+*Related: C-7956, C-7957, C-7961, C-7989, C-8013*
 
 ---
 
@@ -363,7 +363,7 @@ Megyn Kelly, one of the four critics named in the post.
 
 Laura Loomer, who claims credit for the post and is characterized by the host.
 
-*Related: C-8671, C-8672, C-8673, C-8674, C-8675*
+*Related: C-8001, C-8002, C-8003, C-8005, C-8006*
 
 ---
 
@@ -371,7 +371,7 @@ Laura Loomer, who claims credit for the post and is characterized by the host.
 
 Brigitte Macron, whom the post compares favorably with the host.
 
-*Related: C-8641*
+*Related: C-7961*
 
 ---
 
@@ -379,7 +379,7 @@ Brigitte Macron, whom the post compares favorably with the host.
 
 Alex Jones, one of the four critics named in the post.
 
-*Related: C-8637, C-8638, C-8642, C-8654, C-8662, C-8682*
+*Related: C-7956, C-7957, C-7962, C-7976, C-7989, C-8013*
 
 ---
 
@@ -387,7 +387,7 @@ Alex Jones, one of the four critics named in the post.
 
 Ben Shapiro, named in a played voter clip.
 
-*Related: C-8651*
+*Related: C-7973*
 
 ---
 
@@ -395,7 +395,7 @@ Ben Shapiro, named in a played voter clip.
 
 Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.
 
-*Related: C-8644*
+*Related: C-7966*
 
 ---
 
@@ -403,7 +403,7 @@ Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.
 
 Howard Lutnick, named in a played voter clip.
 
-*Related: C-8652*
+*Related: C-7974*
 
 ---
 
@@ -411,7 +411,7 @@ Howard Lutnick, named in a played voter clip.
 
 Jared Kushner, named by the host in connection with boardroom deals.
 
-*Related: C-8648*
+*Related: C-7970*
 
 ---
 
@@ -419,7 +419,7 @@ Jared Kushner, named by the host in connection with boardroom deals.
 
 Mark Levin, named in a played voter clip.
 
-*Related: C-8651*
+*Related: C-7973*
 
 ---
 
@@ -427,7 +427,7 @@ Mark Levin, named in a played voter clip.
 
 Miriam Adelson, the donor in the host's account of the alleged meeting.
 
-*Related: C-8650, C-8664, C-8669*
+*Related: C-7972, C-7992, C-7999*
 
 ---
 
@@ -435,7 +435,7 @@ Miriam Adelson, the donor in the host's account of the alleged meeting.
 
 Joe Biden, discussed in the host's comment on dementia.
 
-*Related: C-8685*
+*Related: C-8016*
 
 ---
 
@@ -443,7 +443,7 @@ Joe Biden, discussed in the host's comment on dementia.
 
 Sheldon Adelson, whose gambling fortune the host references.
 
-*Related: C-8669*
+*Related: C-7999*
 
 ---
 
@@ -451,7 +451,7 @@ Sheldon Adelson, whose gambling fortune the host references.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8639, C-8688*
+*Related: C-7958, C-8019*
 
 ---
 
@@ -459,7 +459,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8653, C-8659, C-8660, C-8661, C-8676, C-8684*
+*Related: C-7975, C-7986, C-7987, C-7988, C-8007, C-8015*
 
 ---
 
@@ -467,7 +467,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8648*
+*Related: C-7970*
 
 ---
 
@@ -475,7 +475,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8646*
+*Related: C-7968*
 
 ---
 
@@ -483,7 +483,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8643, C-8655, C-8683*
+*Related: C-7963, C-7977, C-8014*
 
 ---
 
@@ -491,7 +491,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8637, C-8645, C-8646, C-8649, C-8655, C-8658, C-8660, C-8679*
+*Related: C-7956, C-7967, C-7968, C-7971, C-7977, C-7983, C-7987, C-8010*
 
 ---
 
@@ -499,7 +499,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8671*
+*Related: C-8001*
 
 ---
 
@@ -507,7 +507,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8673*
+*Related: C-8003*
 
 ---
 
@@ -515,7 +515,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8642*
+*Related: C-7962*
 
 ---
 
@@ -523,7 +523,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8658*
+*Related: C-7983*
 
 ---
 
@@ -531,7 +531,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8650, C-8679*
+*Related: C-7972, C-8010*
 
 ---
 
@@ -539,7 +539,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8676*
+*Related: C-8007*
 
 ---
 
@@ -547,7 +547,7 @@ Topic or entity referenced by the new claims in this supplement.
 
 Topic or entity referenced by the new claims in this supplement.
 
-*Related: C-8645*
+*Related: C-7967*
 
 ---
 
@@ -556,7 +556,7 @@ Topic or entity referenced by the new claims in this supplement.
 Node Type: Organization
 Anti-abortion ultrasound network promoted by the host in a sponsor read at 00:21:03 in episode 89.
 
-*Related: C-8657*
+*Related: C-7981*
 
 ---
 
@@ -565,13 +565,13 @@ Anti-abortion ultrasound network promoted by the host in a sponsor read at 00:21
 Node Type: Topic
 The host's repeated assertion at 00:36:11-00:37:09 that a cult claiming to be Jewish, tied to Sabbatianism and Frankism, is emerging; recorded as said.
 
-*Related: C-8677, C-8678*
+*Related: C-8008, C-8009*
 
 ---
 
 ## 5. Claim Register
 
-**C-2669** Trump Truth Social Post Targeted Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones with "low IQ" / "nutjob" / "troublemaker" Language
+**C-7955** Trump Truth Social Post Targeted Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones with "low IQ" / "nutjob" / "troublemaker" Language
 
 Claim Timestamp: 00:04:12–00:12:28
 
@@ -584,7 +584,7 @@ Investigative Direction: Obtain the original Truth Social post via archived scre
 
 ---
 
-**C-2670** Trump Truth Social Post Described the United States as "the Hottest Country Anywhere in the World"
+**C-7964** Trump Truth Social Post Described the United States as "the Hottest Country Anywhere in the World"
 
 Claim Timestamp: 00:11:20–00:12:28
 
@@ -597,7 +597,7 @@ Investigative Direction: Verify the exact wording against the archived Truth Soc
 
 ---
 
-**C-2671** CNN Compiled a Montage Showing Trump Previously Praising Candace Owens and Megyn Kelly
+**C-7982** CNN Compiled a Montage Showing Trump Previously Praising Candace Owens and Megyn Kelly
 
 Claim Timestamp: 00:23:45–00:24:40
 
@@ -609,7 +609,7 @@ Investigative Direction: Identify and verify the source clips used in the CNN co
 
 ---
 
-**C-2672** Megyn Kelly Stated on Piers Morgan That Netanyahu Was Seated as an Equal to Trump in the Situation Room
+**C-7984** Megyn Kelly Stated on Piers Morgan That Netanyahu Was Seated as an Equal to Trump in the Situation Room
 
 Claim Timestamp: 00:25:38–00:26:31
 
@@ -622,7 +622,7 @@ Investigative Direction: Locate the full Piers Morgan interview segment and veri
 
 ---
 
-**C-2673** Tucker Carlson Published a Letter Alleging Israel Has "a Storied History of Blackmailing US Presidents," Citing an Alleged Clinton-Lewinsky Recording Used to Free Jonathan Pollard
+**C-7985** Tucker Carlson Published a Letter Alleging Israel Has "a Storied History of Blackmailing US Presidents," Citing an Alleged Clinton-Lewinsky Recording Used to Free Jonathan Pollard
 
 Claim Timestamp: 00:26:31–00:28:46
 
@@ -635,7 +635,7 @@ Investigative Direction: Retrieve the original Carlson newsletter post and verif
 
 ---
 
-**C-2674** Laura Loomer Publicly Claimed Credit for Trump's Truth Social Post Targeting Tucker Carlson
+**C-8004** Laura Loomer Publicly Claimed Credit for Trump's Truth Social Post Targeting Tucker Carlson
 
 Claim Timestamp: 00:33:58–00:35:23
 
@@ -648,7 +648,7 @@ Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, R
 
 ---
 
-**C-2675** Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation
+**C-7990** Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation
 
 Claim Timestamp: 00:29:16–00:31:16
 
@@ -661,11 +661,11 @@ Investigative Direction: Identify and interview Andrew Kolvet directly; cross-re
 
 ---
 
-**C-2676** Charlie Kirk Reported That Trump Said He Would Take Adelson's Money and Betray Her
+**C-7993** Charlie Kirk Reported That Trump Said He Would Take Adelson's Money and Betray Her
 
 Claim Timestamp: 00:30:06–00:31:16
 
-Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump stated during the meeting described in C-2675 that he intended to "take her money and then I'll f her over."
+Claim: Per Candace Owens's recounting of Charlie Kirk's account, Donald Trump stated during the meeting described in C-7990 that he intended to "take her money and then I'll f her over."
 
 Anchored Artifacts: A-1944.1
 Mentions: N-3, N-1, N-5, N-298
@@ -674,7 +674,7 @@ Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; revi
 
 ---
 
-**C-2677** Donald Trump Jr. Publicly Stated His Father Was Satisfied with the Butler Investigation Conclusion Despite His Own Dissatisfaction
+**C-7996** Donald Trump Jr. Publicly Stated His Father Was Satisfied with the Butler Investigation Conclusion Despite His Own Dissatisfaction
 
 Claim Timestamp: 00:31:16–00:32:11
 
@@ -687,7 +687,7 @@ Investigative Direction: Locate the original on-stage footage or transcript; cro
 
 ---
 
-**C-2678** Social-Media Responses Host Reads Show MAGA Supporters Turning Against Trump
+**C-7979** Social-Media Responses Host Reads Show MAGA Supporters Turning Against Trump
 
 Claim Timestamp: 00:19:20
 
@@ -700,7 +700,7 @@ Investigative Direction: Quantify sentiment shift using archived social-media da
 
 ---
 
-**C-2679** A Recurring Social-Media Response Claimed "Charlie Would Be on This List if They Hadn't Killed Him"
+**C-7980** A Recurring Social-Media Response Claimed "Charlie Would Be on This List if They Hadn't Killed Him"
 
 Claim Timestamp: 00:20:14–00:21:03
 
@@ -713,7 +713,7 @@ Investigative Direction: Locate the originating posts and timestamps; assess spr
 
 ---
 
-**C-2680** Trump Simultaneously Cited CNN Polls and Labeled CNN "Fake News" in A-1939.1
+**C-7965** Trump Simultaneously Cited CNN Polls and Labeled CNN "Fake News" in A-1939.1
 
 Claim Timestamp: 00:11:20–00:12:28
 
@@ -726,7 +726,7 @@ Investigative Direction: Verify exact wording in the archived post and identify 
 
 ---
 
-**C-2681** Trump's Truth Social Post Asserted That Brigitte Macron Is "a Far More Beautiful Woman Than Candace"
+**C-7960** Trump's Truth Social Post Asserted That Brigitte Macron Is "a Far More Beautiful Woman Than Candace"
 
 Claim Timestamp: 00:09:01–00:09:34
 
@@ -739,7 +739,7 @@ Investigative Direction: Verify exact wording against the archived post.
 
 ---
 
-**C-8635** Host Says She Was on Break and Returned to Respond to Trump
+**C-7953** Host Says She Was on Break and Returned to Respond to Trump
 
 Claim Timestamp: 00:00:01
 
@@ -754,7 +754,7 @@ Investigative Direction: Compare the show schedule and break announcement with t
 
 ---
 
-**C-8636** Host Says Whoever Killed Charlie Was Right That He Could Command a Crowd
+**C-7954** Host Says Whoever Killed Charlie Was Right That He Could Command a Crowd
 
 Claim Timestamp: 00:02:36
 
@@ -769,7 +769,7 @@ Investigative Direction: Ask the host which evidence supports a decision-maker a
 
 ---
 
-**C-8637** Trump Post Said the Four Critics Think a Nuclear Iran Is Wonderful
+**C-7956** Trump Post Said the Four Critics Think a Nuclear Iran Is Wonderful
 
 Claim Timestamp: 00:04:12
 
@@ -785,7 +785,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 ---
 
-**C-8638** Trump Post Said the Critics Were Thrown Off TV and Lost Their Shows
+**C-7957** Trump Post Said the Critics Were Thrown Off TV and Lost Their Shows
 
 Claim Timestamp: 00:04:12
 
@@ -800,7 +800,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 ---
 
-**C-8639** Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist
+**C-7958** Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist
 
 Claim Timestamp: 00:07:19
 
@@ -816,7 +816,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 ---
 
-**C-8640** Host Says Charlie Kirk Did Not Go to College
+**C-7959** Host Says Charlie Kirk Did Not Go to College
 
 Claim Timestamp: 00:08:10
 
@@ -831,7 +831,7 @@ Investigative Direction: Check Kirk's published biography for his education hist
 
 ---
 
-**C-8641** Trump Post Said Candace Accused the First Lady of France of Being a Man and May Win Money
+**C-7961** Trump Post Said Candace Accused the First Lady of France of Being a Man and May Win Money
 
 Claim Timestamp: 00:09:01
 
@@ -841,13 +841,13 @@ Transcript Snippet: crazy Candace Owens who accuses the highly respected first l
 
 Anchored Artifacts: A-1939.1
 Mentions: N-3, N-46, N-82, N-5
-Supports: C-2681
+Supports: C-7960
 Tags: relevance:context
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading.
 
 ---
 
-**C-8642** Trump Post Said Alex Jones Went Bankrupt and Lost His Fortune as He Should Have
+**C-7962** Trump Post Said Alex Jones Went Bankrupt and Lost His Fortune as He Should Have
 
 Claim Timestamp: 00:10:25
 
@@ -863,7 +863,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 ---
 
-**C-8643** Host Says the Base Revolted Over the Epstein Files
+**C-7963** Host Says the Base Revolted Over the Epstein Files
 
 Claim Timestamp: 00:10:25
 
@@ -879,7 +879,7 @@ Investigative Direction: Compare dated polling and social-media sentiment on the
 
 ---
 
-**C-8644** Trump Post Said He Does Not Return Their Calls
+**C-7966** Trump Post Said He Does Not Return Their Calls
 
 Claim Timestamp: 00:11:20
 
@@ -894,7 +894,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 ---
 
-**C-8645** Host Says the US Just Killed 150 Schoolgirls
+**C-7967** Host Says the US Just Killed 150 Schoolgirls
 
 Claim Timestamp: 00:12:28
 
@@ -910,7 +910,7 @@ Investigative Direction: Compare the host's figure with official and independent
 
 ---
 
-**C-8646** Host Says the Administration Lied About Six Servicemen and Had to Be Leaked To
+**C-7968** Host Says the Administration Lied About Six Servicemen and Had to Be Leaked To
 
 Claim Timestamp: 00:12:28
 
@@ -926,7 +926,7 @@ Investigative Direction: Find the CBS News report and the official statements on
 
 ---
 
-**C-8647** Host Tells Trump He Belongs to the Epstein Class
+**C-7969** Host Tells Trump He Belongs to the Epstein Class
 
 Claim Timestamp: 00:13:22
 
@@ -941,7 +941,7 @@ Investigative Direction: This is characterization; ask the host what Trump-Epste
 
 ---
 
-**C-8648** Host Refers to Boardroom Deals With Jared Kushner and a Trump Gaza Hotel
+**C-7970** Host Refers to Boardroom Deals With Jared Kushner and a Trump Gaza Hotel
 
 Claim Timestamp: 00:13:22
 
@@ -957,7 +957,7 @@ Investigative Direction: Identify any public reporting on a Kushner-linked Gaza 
 
 ---
 
-**C-8649** Host Says Trump Sat on the Side While Netanyahu Convinced Him Iran Was an Imminent Threat
+**C-7971** Host Says Trump Sat on the Side While Netanyahu Convinced Him Iran Was an Imminent Threat
 
 Claim Timestamp: 00:16:05
 
@@ -968,13 +968,13 @@ Transcript Snippet: suddenly reduced to sitting on the side in the situation roo
 Anchored Artifacts: 
 Mentions: N-36, N-5, N-3
 Related Nodes: N-10592, N-10541
-Supports: C-2672
+Supports: C-7984
 Tags: relevance:context
 Investigative Direction: Find the official situation-room photographs and attendee records for the Iran briefing.
 
 ---
 
-**C-8650** Host Says Netanyahu Is Trump's Master and Adelson Lights the Fire
+**C-7972** Host Says Netanyahu Is Trump's Master and Adelson Lights the Fire
 
 Claim Timestamp: 00:16:57
 
@@ -990,7 +990,7 @@ Investigative Direction: This is the host's characterization; look for documente
 
 ---
 
-**C-8651** Played MAGA Voter Clip Says Half the Movement Is Not on Shapiro and Levin's Team
+**C-7973** Played MAGA Voter Clip Says Half the Movement Is Not on Shapiro and Levin's Team
 
 Claim Timestamp: 00:17:14
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Identify the clip's speaker and source video.
 
 ---
 
-**C-8652** Played Clip Calls Trump Corrupt and Rejects Lutnick and the Epstein Class Table
+**C-7974** Played Clip Calls Trump Corrupt and Rejects Lutnick and the Epstein Class Table
 
 Claim Timestamp: 00:17:14
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Identify the speaker; check the insider-trading reporti
 
 ---
 
-**C-8653** Played Clip Says the Last President to Tell Israel No Was JFK
+**C-7975** Played Clip Says the Last President to Tell Israel No Was JFK
 
 Claim Timestamp: 00:18:18
 
@@ -1036,7 +1036,7 @@ Investigative Direction: Identify the speaker; treat the JFK remark as the speak
 
 ---
 
-**C-8654** Read Reply Says Alex Jones Had Trump on When No Media Company Would
+**C-7976** Read Reply Says Alex Jones Had Trump on When No Media Company Would
 
 Claim Timestamp: 00:19:06
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Find Trump's early appearances on Alex Jones's show and
 
 ---
 
-**C-8655** Read Responses Blame the Epstein Files and the Iran War for the Split
+**C-7977** Read Responses Blame the Epstein Files and the Iran War for the Split
 
 Claim Timestamp: 00:19:06
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Locate the original replies on Truth Social.
 
 ---
 
-**C-8656** Read Responses Call for Trump to Resign or Face the 25th
+**C-7978** Read Responses Call for Trump to Resign or Face the 25th
 
 Claim Timestamp: 00:19:06
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Locate the original replies on Truth Social.
 
 ---
 
-**C-8657** Sponsor Read Says Pre-Born Rescued Over 80,000 Babies Last Year
+**C-7981** Sponsor Read Says Pre-Born Rescued Over 80,000 Babies Last Year
 
 Claim Timestamp: 00:21:03
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Check Pre-Born's published annual figures against the s
 
 ---
 
-**C-8658** Host Says Trump Promised No New Wars and Lower Gas Prices
+**C-7983** Host Says Trump Promised No New Wars and Lower Gas Prices
 
 Claim Timestamp: 00:24:40
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Compile Trump's 2024 campaign statements on new wars an
 
 ---
 
-**C-8659** Carlson Letter Lists Dark Money, Extortion, Physical Threats and Assassination
+**C-7986** Carlson Letter Lists Dark Money, Extortion, Physical Threats and Assassination
 
 Claim Timestamp: 00:27:13
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Retrieve the original letter and test each listed tacti
 
 ---
 
-**C-8660** Carlson Letter Says Israel's Priority Is That Operation Epic Fury Not Stop
+**C-7987** Carlson Letter Says Israel's Priority Is That Operation Epic Fury Not Stop
 
 Claim Timestamp: 00:27:13
 
@@ -1146,7 +1146,7 @@ Investigative Direction: Retrieve the original letter; identify what Operation E
 
 ---
 
-**C-8661** Carlson Letter Raises Clinton-Style Blackmail of Trump but Admits No Knowledge
+**C-7988** Carlson Letter Raises Clinton-Style Blackmail of Trump but Admits No Knowledge
 
 Claim Timestamp: 00:27:13
 
@@ -1157,13 +1157,13 @@ Transcript Snippet: That could mean Clinton-style blackmail against Trump or som
 Anchored Artifacts: A-1942.1
 Mentions: N-22, N-5, N-3
 Related Nodes: N-10026
-Qualifies: C-2673
+Qualifies: C-7985
 Tags: relevance:context
 Investigative Direction: Retrieve the original letter; the letter itself marks this as unestablished.
 
 ---
 
-**C-8662** Carlson Letter Says It Was Written After Trump Attacked the Four
+**C-7989** Carlson Letter Says It Was Written After Trump Attacked the Four
 
 Claim Timestamp: 00:28:09
 
@@ -1173,13 +1173,13 @@ Transcript Snippet: We decided to write this after Trump published a Truth Socia
 
 Anchored Artifacts: A-1942.1
 Mentions: N-3, N-5, N-22, N-46, N-93
-Supports: C-2669
+Supports: C-7955
 Tags: relevance:context
 Investigative Direction: Confirm the letter's publication time against the post's time.
 
 ---
 
-**C-8663** Host Says Things Are No Longer the Same Between Her and Andrew Kolvet and She Does Not Believe Him
+**C-7991** Host Says Things Are No Longer the Same Between Her and Andrew Kolvet and She Does Not Believe Him
 
 Claim Timestamp: 00:29:16
 
@@ -1194,7 +1194,7 @@ Investigative Direction: Ask Kolvet to confirm or deny that he told the host thi
 
 ---
 
-**C-8664** Host Says Adelson's $100 Million to Trump Was Announced Around July 2024
+**C-7992** Host Says Adelson's $100 Million to Trump Was Announced Around July 2024
 
 Claim Timestamp: 00:29:16
 
@@ -1205,13 +1205,13 @@ Transcript Snippet: before where was announced that Miriam Adelson gave Trump $1
 Anchored Artifacts: A-1944.1
 Mentions: N-298, N-5, N-3
 Related Nodes: N-10589
-Supports: C-7107
+Supports: C-6768
 Tags: relevance:context
 Investigative Direction: Check FEC filings and press reports for the date and amount of Adelson-linked contributions in 2024.
 
 ---
 
-**C-8665** Host Places Charlie's Telling of the Story Around May
+**C-7994** Host Places Charlie's Telling of the Story Around May
 
 Claim Timestamp: 00:30:06
 
@@ -1222,13 +1222,13 @@ Transcript Snippet: And the reason that Charlie told me the story and again I co
 Anchored Artifacts: A-1944.1
 Mentions: N-1, N-3
 Related Nodes: N-10589
-Supports: C-2675
+Supports: C-7990
 Tags: relevance:core
 Investigative Direction: Check the host's own messages or notes from spring 2024 for the date of the discussion.
 
 ---
 
-**C-8666** Host Says Only Charlie and Andrew Were Present When Trump Made the Remark
+**C-7995** Host Says Only Charlie and Andrew Were Present When Trump Made the Remark
 
 Claim Timestamp: 00:30:06
 
@@ -1239,13 +1239,13 @@ Transcript Snippet: That nobody else was there but Andrew and Charlie when Trump
 Anchored Artifacts: A-1944.1
 Mentions: N-1, N-14, N-5, N-3
 Related Nodes: N-10589
-Supports: C-2676
+Supports: C-7993
 Tags: relevance:core
 Investigative Direction: Only the two named witnesses are asserted present; ask Kolvet directly.
 
 ---
 
-**C-8667** Host Says Butler Happened a Few Weeks After the Meeting
+**C-7997** Host Says Butler Happened a Few Weeks After the Meeting
 
 Claim Timestamp: 00:31:16
 
@@ -1261,7 +1261,7 @@ Investigative Direction: Reconcile the host's date of May with the public July 1
 
 ---
 
-**C-8668** Host Says Trump Seems Disinterested in Who Fired the Butler Shot
+**C-7998** Host Says Trump Seems Disinterested in Who Fired the Butler Shot
 
 Claim Timestamp: 00:31:16
 
@@ -1277,7 +1277,7 @@ Investigative Direction: Collect Trump's public statements and executive actions
 
 ---
 
-**C-8669** Host Wonders Whether Trump's Remark Reached the Adelsons and Calls Them Gangsters
+**C-7999** Host Wonders Whether Trump's Remark Reached the Adelsons and Calls Them Gangsters
 
 Claim Timestamp: 00:32:11
 
@@ -1293,7 +1293,7 @@ Investigative Direction: This is the host's speculation and characterization; no
 
 ---
 
-**C-8670** Host Says Everyone Noted a Shift in Trump Since Butler
+**C-8000** Host Says Everyone Noted a Shift in Trump Since Butler
 
 Claim Timestamp: 00:32:11
 
@@ -1309,7 +1309,7 @@ Investigative Direction: Define the shift and compare Trump's positions before a
 
 ---
 
-**C-8671** Host Says Loomer Was Committed Multiple Times by Her Own Family
+**C-8001** Host Says Loomer Was Committed Multiple Times by Her Own Family
 
 Claim Timestamp: 00:33:08
 
@@ -1325,7 +1325,7 @@ Investigative Direction: Look for court or medical records; none was shown.
 
 ---
 
-**C-8672** Host Says Loomer Chained Herself to Twitter Headquarters in a Yellow Star
+**C-8002** Host Says Loomer Chained Herself to Twitter Headquarters in a Yellow Star
 
 Claim Timestamp: 00:33:08
 
@@ -1335,13 +1335,13 @@ Transcript Snippet: she once chained herself to X to to Twitter headquarters. It
 
 Anchored Artifacts: 
 Mentions: N-60, N-3
-Supports: C-5120
+Supports: C-3570
 Tags: relevance:tangential
 Investigative Direction: Find contemporaneous news coverage of the protest.
 
 ---
 
-**C-8673** Host Says Loomer Is Not Jewish and Was Not Bat Mitzvahed
+**C-8003** Host Says Loomer Is Not Jewish and Was Not Bat Mitzvahed
 
 Claim Timestamp: 00:33:08
 
@@ -1357,7 +1357,7 @@ Investigative Direction: Ask Loomer about her religion; the host offers no recor
 
 ---
 
-**C-8674** Loomer Clip Says Carlson's Content Will Cost Republicans the House and Senate
+**C-8005** Loomer Clip Says Carlson's Content Will Cost Republicans the House and Senate
 
 Claim Timestamp: 00:33:58
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Retrieve the original Loomer video to confirm her wordi
 
 ---
 
-**C-8675** Loomer Clip Says Trump Called Carlson a Third Rate Podcaster Today
+**C-8006** Loomer Clip Says Trump Called Carlson a Third Rate Podcaster Today
 
 Claim Timestamp: 00:35:23
 
@@ -1387,7 +1387,7 @@ Investigative Direction: Compare to the post text read earlier, which says the f
 
 ---
 
-**C-8676** Host Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon
+**C-8007** Host Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon
 
 Claim Timestamp: 00:36:11
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Check the executive order on glyphosate and white phosp
 
 ---
 
-**C-8677** Host Says Rabbis Write That She Is Right About Sabbatianism and Frankism
+**C-8008** Host Says Rabbis Write That She Is Right About Sabbatianism and Frankism
 
 Claim Timestamp: 00:36:11
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Ask the host for the messages or senders; none was show
 
 ---
 
-**C-8678** Host Says a Cult Claiming to Be Jewish Is Emerging
+**C-8009** Host Says a Cult Claiming to Be Jewish Is Emerging
 
 Claim Timestamp: 00:37:09
 
@@ -1435,7 +1435,7 @@ Investigative Direction: This is a sweeping group assertion; ask the host who is
 
 ---
 
-**C-8679** Host Says the First Casualty of the Iranian War Was Charlie Kirk, Sacrificed by a Death Cult
+**C-8010** Host Says the First Casualty of the Iranian War Was Charlie Kirk, Sacrificed by a Death Cult
 
 Claim Timestamp: 00:37:09
 
@@ -1451,7 +1451,7 @@ Investigative Direction: The host labels this her opinion; ask what record ties 
 
 ---
 
-**C-8680** Host Says She Faces Many Threats to Sue Over Her Opinion
+**C-8011** Host Says She Faces Many Threats to Sue Over Her Opinion
 
 Claim Timestamp: 00:37:55
 
@@ -1466,7 +1466,7 @@ Investigative Direction: Identify the threatened suits; none was named.
 
 ---
 
-**C-8681** Host Says New Hat Reads MACA for Make America Christian Again
+**C-8012** Host Says New Hat Reads MACA for Make America Christian Again
 
 Claim Timestamp: 00:38:09
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Check the merch listing for the product name.
 
 ---
 
-**C-8682** Host Calls the Four Critics the Four Horsemen of MAGA and Corrects a Merch Typo
+**C-8013** Host Calls the Four Critics the Four Horsemen of MAGA and Corrects a Merch Typo
 
 Claim Timestamp: 00:38:58
 
@@ -1496,7 +1496,7 @@ Investigative Direction: Check the merch listing for the corrected spelling.
 
 ---
 
-**C-8683** Host Says She Does Not Know What in the Epstein Files Has Trump So Scared
+**C-8014** Host Says She Does Not Know What in the Epstein Files Has Trump So Scared
 
 Claim Timestamp: 00:42:36
 
@@ -1512,7 +1512,7 @@ Investigative Direction: The host marks this as speculation; the release status 
 
 ---
 
-**C-8684** Host Says Politicians Send Money Overseas and Are Beholden to Israel
+**C-8015** Host Says Politicians Send Money Overseas and Are Beholden to Israel
 
 Claim Timestamp: 00:43:43
 
@@ -1528,7 +1528,7 @@ Investigative Direction: Sweeping assertion; no data given. Compare to lobbying 
 
 ---
 
-**C-8685** Host Says Biden Had Dementia but Trump Betrayed Us in His Right Mind
+**C-8016** Host Says Biden Had Dementia but Trump Betrayed Us in His Right Mind
 
 Claim Timestamp: 00:45:19
 
@@ -1543,7 +1543,7 @@ Investigative Direction: Opinion about two public figures; no medical record is 
 
 ---
 
-**C-8686** Host Says Charlie Was Betrayed by the People Closest to Him
+**C-8017** Host Says Charlie Was Betrayed by the People Closest to Him
 
 Claim Timestamp: 00:46:09
 
@@ -1558,7 +1558,7 @@ Investigative Direction: Ask the host which specific people are meant; none was 
 
 ---
 
-**C-8687** Host Says This Week's Research Is Converting Inklings Into Fact
+**C-8018** Host Says This Week's Research Is Converting Inklings Into Fact
 
 Claim Timestamp: 00:46:09
 
@@ -1573,7 +1573,7 @@ Investigative Direction: Check the following episode for the findings she says s
 
 ---
 
-**C-8688** Host Says Trump's Advisers Will Feed Him Fake Polls and Fox News
+**C-8019** Host Says Trump's Advisers Will Feed Him Fake Polls and Fox News
 
 Claim Timestamp: 00:48:29
 

@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-691, N-692, N-693, N-694, N-695, N-696, N-697, N-10992, N-10993, N-10994, N-10995, N-10996
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-11, N-14, N-28, N-36, N-47, N-69, N-85, N-190, N-217, N-266, N-361, N-378, N-433, N-569, N-592, N-10000, N-10014, N-10075, N-10085, N-10202, N-10324, N-10367, N-10370, N-10373, N-10401, N-10417, N-10472, N-10519, N-10524, N-10532, N-10574, N-10586, N-10671, N-10698, N-10700, N-10888, N-10899, N-10923, N-10701
-  - Claim Range: C-3753, C-4722–C-4770
+  - Claim Range: C-10107–C-10156
   - (see registers)
 
 ## 2. Executive Summary
@@ -38,7 +38,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4722, C-4733, C-4755, C-4769, N-5, N-85, N-378, N-10324*
+*Related: C-10107, C-10118, C-10140, C-10155, N-5, N-85, N-378, N-10324*
 
 ---
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:11:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4740, N-433, N-10671, N-10700, N-10888*
+*Related: C-10125, N-433, N-10671, N-10700, N-10888*
 
 **A-2692.2** Host verbal reference to the FBI's denial of her request for three days of someone's schedule as too complicated (not shown)
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:43:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4765, N-69, N-10014, N-10700*
+*Related: C-10151, N-69, N-10014, N-10700*
 
 ---
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:11:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4741, C-4742, N-592, N-692, N-433, N-10888*
+*Related: C-10126, C-10127, N-592, N-692, N-433, N-10888*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:18:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4749, C-4750, C-4751, N-695, N-696, N-10993, N-10995*
+*Related: C-10134, C-10135, C-10136, N-695, N-696, N-10993, N-10995*
 
 ---
 
@@ -101,7 +101,7 @@ Video Timestamp: 00:27:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4759, C-4761, N-217, N-10996*
+*Related: C-10144, C-10146, N-217, N-10996*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:27:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4759, N-10996*
+*Related: C-10144, N-10996*
 
 **A-2696.2** Viewer comment by James the least on the White House Epstein files "crash out" (read aloud)
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:48:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4769, N-5, N-36*
+*Related: C-10155, N-5, N-36*
 
 **A-2696.3** Viewer comment by Anna on Jeffrey Epstein's grandparents (read aloud)
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:49:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4770, N-9*
+*Related: C-10156, N-9*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:34:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (excerpt shown; full article withheld on air)
 
-*Related: C-3753, N-3*
+*Related: C-10148, N-3*
 
 ---
 
@@ -162,353 +162,353 @@ Confidence Level: Medium (excerpt shown; full article withheld on air)
 
 His first date with Erika Kirk is dated against the Epstein scandal; the host discusses Trump's calls to him over Epstein, his trust in those around him and the explosive theory.
 
-*Related: C-4724, C-4725, C-4733, C-4734, C-4766, C-4767, C-4768*
+*Related: C-10109, C-10110, C-10118, C-10119, C-10152, C-10153, C-10154*
 
 **N-2** Erika Kirk
 
 Subject of the Next Model Management questions, the Fort Huachuca sighting, the alibi dispute and the alleged Department of War amplification campaign.
 
-*Related: C-4725, C-4728, C-4729, C-4731, C-4738, C-4739, C-4758, C-4767, C-4768*
+*Related: C-10110, C-10113, C-10114, C-10116, C-10123, C-10124, C-10143, C-10153, C-10154*
 
 **N-3** Candace Owens
 
 Host; corrects two of her own earlier statements and reads the Ratajkowski article.
 
-*Related: C-3753, A-2522.1*
+*Related: C-10148, A-2522.1*
 
 **N-5** Donald Trump
 
 His Situation Room meeting on the Epstein files, his Epstein relationship, his calls to Charlie Kirk and his pardon of the Blackwater guards are discussed.
 
-*Related: C-4722, C-4727, C-4732, C-4733, C-4742, C-4745, C-4746, C-4747, C-4755, C-4757, C-4769, A-2691.1, A-2696.2*
+*Related: C-10107, C-10112, C-10117, C-10118, C-10127, C-10130, C-10131, C-10132, C-10140, C-10142, C-10155, A-2691.1, A-2696.2*
 
 **N-9** Jeffrey Epstein
 
 Central figure; the host argues his network re-emerged around the Charlie Kirk story.
 
-*Related: C-4722, C-4723, C-4725, C-4726, C-4727, C-4728, C-4729, C-4730, C-4732, C-4770, A-2696.3*
+*Related: C-10107, C-10108, C-10110, C-10111, C-10112, C-10113, C-10114, C-10115, C-10117, C-10156, A-2696.3*
 
 **N-11** Tyler Bowyer
 
 Named by the host as someone whose life she did not know about while working at TPUSA.
 
-*Related: C-4767*
+*Related: C-10153*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Kolvet", "Andrew Kolvet" and "Andrew Kobach". Said to have been at the White House executive office building while airing a pre-recorded show, and named in the alibi dispute.
 
-*Related: C-4723, C-4724, C-4739*
+*Related: C-10108, C-10109, C-10124*
 
 **N-28** Mitt Romney
 
 Named as having become friends with Netanyahu at the Boston Consulting Group.
 
-*Related: C-4736*
+*Related: C-10121*
 
 **N-36** Benjamin Netanyahu
 
 Transcript "Bibi Netanyahu"; named in the Boston Consulting Group link and as "BB" in a viewer comment.
 
-*Related: C-4736, A-2696.2*
+*Related: C-10121, A-2696.2*
 
 **N-47** Ghislaine Maxwell
 
 Party to the defamation lawsuit whose unsealing the host says began the 2018 Epstein exposure.
 
-*Related: C-4725, C-4726*
+*Related: C-10110, C-10111*
 
 **N-69** Kash Patel
 
 Guest on the pre-recorded Charlie Kirk Show episode; the host criticizes the FBI under him for denying her FOIA request.
 
-*Related: C-4724, C-4765, A-2692.2*
+*Related: C-10109, C-10151, A-2692.2*
 
 **N-85** Pam Bondi
 
 Named for the "binder episode" and as no longer in the White House.
 
-*Related: C-4722, C-4769, A-2691.1*
+*Related: C-10107, C-10155, A-2691.1*
 
 **N-190** Mikey McCoy
 
 Transcript "Mikey McCormick"; named as Elizabeth Kravchuk's husband.
 
-*Related: C-4759*
+*Related: C-10144*
 
 **N-217** Elizabeth McCoy
 
 Transcript "Elizabeth Kravchuk". The host says she is a wealthy Ukrainian whose family ministry rescues orphans in Ukraine.
 
-*Related: C-4759, C-4760, C-4761, A-2695.1*
+*Related: C-10144, C-10145, C-10146, A-2695.1*
 
 **N-266** Brian Harpole
 
 Mitch Snow believes he saw him at the Fort Huachuca meeting; the host says he has not given a clear alibi.
 
-*Related: C-4737, C-4739*
+*Related: C-10122, C-10124*
 
 **N-361** Mitch Snow
 
 Fort Huachuca eyewitness whose sightings of Harpole and Erika Kirk are restated.
 
-*Related: C-4734, C-4737, C-4738*
+*Related: C-10119, C-10122, C-10123*
 
 **N-378** Dan Bongino
 
 The host believes he was an obvious source for the New York Times article.
 
-*Related: C-4755, A-2691.1*
+*Related: C-10140, A-2691.1*
 
 **N-433** Bradley Hansell
 
 Transcript "Bradley Hansell", "Bradley Hansell" and "Bradley Hansell". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.
 
-*Related: C-4735, C-4736, C-4738, C-4740, C-4741, C-4756, C-4758, A-2692.1, A-2693.1*
+*Related: C-10120, C-10121, C-10123, C-10125, C-10126, C-10141, C-10143, A-2692.1, A-2693.1*
 
 **N-569** Faith Kates
 
 Described as a close Epstein friend who ran Next Model Management and supported him after his 2009 arrest.
 
-*Related: C-4728, C-4730*
+*Related: C-10113, C-10115*
 
 **N-592** Pete Hegseth
 
 Secretary of Defense (War) at the top of the org chart; the host mentions rumors that he might be fired.
 
-*Related: C-4740, C-4741, C-4758, A-2693.1*
+*Related: C-10125, C-10126, C-10143, A-2693.1*
 
 **N-10000** Turning Point USA
 
 The host says Erika Kirk reaches high schools through its chapters and that it should answer the Next Model Management question.
 
-*Related: C-4731, C-4758*
+*Related: C-10116, C-10143*
 
 **N-10014** Federal Bureau of Investigation
 
 The host says it denied her request for three days of someone's schedule.
 
-*Related: C-4765, A-2692.2*
+*Related: C-10151, A-2692.2*
 
 **N-10075** White House
 
 Site of the Situation Room meeting and of Kolvet's reported visit.
 
-*Related: C-4722, C-4723*
+*Related: C-10107, C-10108*
 
 **N-10085** Exit Wound / Bullet Trajectory Discrepancy
 
 The host's explosive-under-the-chest theory, based on how Charlie Kirk's body moved.
 
-*Related: C-4766*
+*Related: C-10152*
 
 **N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 The host criticizes the FBI's handling of her FOIA request.
 
-*Related: C-4765*
+*Related: C-10151*
 
 **N-10324** Epstein Files Release Status
 
 The administration's handling and partial release of the Epstein files.
 
-*Related: C-4722, C-4723, C-4725, C-4733, C-4755, A-2691.1*
+*Related: C-10107, C-10108, C-10110, C-10118, C-10140, A-2691.1*
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's lobby sighting is restated.
 
-*Related: C-4738*
+*Related: C-10123*
 
 **N-10370** Fort Huachuca Morning Meeting Investigation
 
 The meeting Mitch Snow says he stumbled on.
 
-*Related: C-4737*
+*Related: C-10122*
 
 **N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 Mitch Snow believes he saw Harpole at the meeting.
 
-*Related: C-4737*
+*Related: C-10122*
 
 **N-10401** Romania / Eastern Europe Trafficking Cluster
 
 Eastern European trafficking in the Epstein and DynCorp accounts.
 
-*Related: C-4727, C-4751*
+*Related: C-10112, C-10136*
 
 **N-10417** Fort Huachuca Erika Presence Investigation
 
 Mitch Snow's identification of Erika Kirk by her eyes.
 
-*Related: C-4738*
+*Related: C-10123*
 
 **N-10472** Fort Huachuca Alibi Investigation
 
 The host says no clear alibis have been provided.
 
-*Related: C-4739*
+*Related: C-10124*
 
 **N-10519** Erika Kirk Next Model Management Involvement
 
 Erika Kirk's presence at the Next Model Management offices.
 
-*Related: C-4728, C-4729*
+*Related: C-10113, C-10114*
 
 **N-10524** Faith Kates – Epstein Relationship Scope
 
 Kates' support of Epstein after 2009.
 
-*Related: C-4730*
+*Related: C-10115*
 
 **N-10532** Next Model Management / Erika Kirk Connection
 
 The host's call for Turning Point USA to address the connection.
 
-*Related: C-4728*
+*Related: C-10113*
 
 **N-10574** Romney–Netanyahu–Utah Connection Network
 
 The Boston Consulting Group link is restated.
 
-*Related: C-4736*
+*Related: C-10121*
 
 **N-10586** Pam Bondi Dismissal Context Question
 
 Bondi is no longer in the White House.
 
-*Related: C-4769*
+*Related: C-10155*
 
 **N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The SAM 702 flight route and the FOIA request on it.
 
-*Related: C-4734, C-4735, C-4740, A-2692.1*
+*Related: C-10119, C-10120, C-10125, A-2692.1*
 
 **N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 Workers' allegation that Erika Kirk was the point of contact for the model apartment.
 
-*Related: C-4729*
+*Related: C-10114*
 
 **N-10700** Pending FOIA Requests
 
 The host's FOIA requests to the Department of War and FBI.
 
-*Related: C-4740, C-4757, C-4765, A-2692.1, A-2692.2*
+*Related: C-10125, C-10142, C-10151, A-2692.1, A-2692.2*
 
 **N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Kolvet's executive office building visit and the pre-recorded Kash Patel show.
 
-*Related: C-4723, C-4724*
+*Related: C-10108, C-10109*
 
 **N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 The Situation Room meeting on the Epstein files.
 
-*Related: C-4722*
+*Related: C-10107*
 
 **N-10888** Department of War
 
 Organization whose org chart, intelligence office and alleged messaging campaign are discussed.
 
-*Related: C-4735, C-4740, C-4741, C-4742, C-4758, A-2692.1, A-2693.1*
+*Related: C-10120, C-10125, C-10126, C-10127, C-10143, A-2692.1, A-2693.1*
 
 **N-10899** Paramount Tactical
 
 Transcript "Paramount not so Tactical"; said that the alibi photo children were not Erika Kirk's.
 
-*Related: C-4739*
+*Related: C-10124*
 
 **N-691** Virginia Giuffre
 
 First named by the host at 00:02:29 in episode 118 (as "Virginia"; full name at 00:06:38). Party to the defamation lawsuit with Ghislaine Maxwell; Trump says he employed her at Mar-a-Lago.
 
-*Related: C-4725, C-4726, C-4732*
+*Related: C-10110, C-10111, C-10117*
 
 **N-692** Stephen Feinberg
 
 First named by the host at 00:11:06 in episode 118. Aliases: Steven Feinberg. Deputy Secretary of Defense, co-founder of Cerberus Capital Management.
 
-*Related: C-4741, C-4742, C-4743, C-4747, C-4754, C-4756, C-4758, A-2693.1*
+*Related: C-10126, C-10127, C-10128, C-10132, C-10139, C-10141, C-10143, A-2693.1*
 
 **N-693** Betsy DeVos
 
 First named by the host at 00:16:00 in episode 118. Trump's first-term Secretary of Education and sister of Erik Prince.
 
-*Related: C-4746*
+*Related: C-10131*
 
 **N-694** Erik Prince
 
 First named by the host at 00:16:00 in episode 118. Founder of Blackwater.
 
-*Related: C-4746*
+*Related: C-10131*
 
 **N-695** Kathryn Bolkovac
 
 First named by the host at 00:17:45 in episode 118. Aliases: Catherine Bolkovac. DynCorp investigator in Bosnia who exposed the trafficking scandal.
 
-*Related: C-4749, C-4750, C-4751, C-4753, C-4754, A-2694.1*
+*Related: C-10134, C-10135, C-10136, C-10138, C-10139, A-2694.1*
 
 **N-696** Ben Johnston
 
 First named by the host at 00:18:41 in episode 118. DynCorp employee who filed similar reports and was fired.
 
-*Related: C-4750, A-2694.1*
+*Related: C-10135, A-2694.1*
 
 **N-697** Emily Ratajkowski
 
 First named by the host at 00:33:21 in episode 118. Author of the essay "Mother Effer" in The Cut.
 
-*Related: C-4762, C-4763, C-4764, A-2522.1*
+*Related: C-10147, C-10149, C-10150, A-2522.1*
 
 **N-10992** Cerberus Capital Management
 
 Node Type: Organization
 Private investment firm the host says Stephen Feinberg co-founded in 1992, with about 70 billion in assets under management. She says it bought DynCorp in 2010 and owned it for ten years, and that Feinberg says he has divested from it.
 
-*Related: C-4743, C-4747, C-4754, C-4756, N-692, N-10993*
+*Related: C-10128, C-10132, C-10139, C-10141, N-692, N-10993*
 
 **N-10993** DynCorp
 
 Node Type: Organization
 Private military contractor the host says was owned by Cerberus Capital Management from 2010 to 2020. She ties it to the 1990s Bosnia sex-trafficking scandal exposed by Kathryn Bolkovac.
 
-*Related: C-4747, C-4748, C-4749, C-4750, C-4752, C-4753, C-4754, A-2694.1, N-10992, N-10995*
+*Related: C-10132, C-10133, C-10134, C-10135, C-10137, C-10138, C-10139, A-2694.1, N-10992, N-10995*
 
 **N-10994** Blackwater
 
 Node Type: Organization
 Private military company founded by Erik Prince. The host uses it to illustrate the private military business, citing $2 billion in government contracts from 1997 to 2010 and the Iraq convoy shooting whose convicted guards Trump pardoned.
 
-*Related: C-4744, C-4745, C-4746, N-694*
+*Related: C-10129, C-10130, C-10131, N-694*
 
 **N-10995** DynCorp Bosnia Sex-Trafficking Scandal
 
 Node Type: Topic
 Investigation target: the 1990s scandal, exposed in the early 2000s and made into a 2010 film, in which DynCorp employees serving with the UN International Police Task Force in Bosnia were accused of buying underage women and facilitating sex trafficking. The host says victims came from Ukraine, Croatia, Bosnia and Romania, that whistleblowers Kathryn Bolkovac and Ben Johnston were fired, and that contractors were shielded by immunity.
 
-*Related: C-4748, C-4749, C-4750, C-4751, C-4752, C-4753, A-2694.1, N-695, N-696, N-10993*
+*Related: C-10133, C-10134, C-10135, C-10136, C-10137, C-10138, A-2694.1, N-695, N-696, N-10993*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the communication the host says listed Erika Kirk as an "emotional asset" after the White House Correspondents' Dinner shooting. In this episode she says the Department of War office headed by Hegseth, Feinberg and Hansel orchestrated messaging to make Erika the number one trend by morning.
 
-*Related: C-4758, N-2, N-433, N-692*
+*Related: C-10143, N-2, N-433, N-692*
 
 **N-10996** Good Call Ministries
 
 Node Type: Organization
 Ministry, shown on air as "The Good Call Ministries Rescue Operations," that the host says belongs to the family of Elizabeth (Kravchuk) McCoy and rescues orphans in Ukraine.
 
-*Related: C-4759, C-4760, C-4761, A-2695.1, A-2696.1, N-217*
+*Related: C-10144, C-10145, C-10146, A-2695.1, A-2696.1, N-217*
 
 ## 5. Claim Register
 
-**C-4722** New York Times reports Trump met top officials in the Situation Room over the Epstein files
+**C-10107** New York Times reports Trump met top officials in the Situation Room over the Epstein files
 
 Claim Timestamp: 00:00:01
 
@@ -523,7 +523,7 @@ Investigative Direction: Retrieve the New York Times article and any official ac
 
 ---
 
-**C-4723** Kolvet was at the White House executive office building the day before the Epstein files release
+**C-10108** Kolvet was at the White House executive office building the day before the Epstein files release
 
 Claim Timestamp: 00:00:49
 
@@ -534,12 +534,12 @@ Transcript Snippet: But the day before Andrew Kolvet was mysteriously seen at th
 Anchored Artifacts: 
 Mentions: N-14, N-9
 Related Nodes: N-10701, N-10075, N-10324
-Supports: C-2422
+Supports: C-6833
 Investigative Direction: White House and EEOB visitor logs for the day before the Epstein files release.
 
 ---
 
-**C-4724** Kolvet pre-recorded a Charlie Kirk Show episode with Kash Patel to appear to be in Arizona
+**C-10109** Kolvet pre-recorded a Charlie Kirk Show episode with Kash Patel to appear to be in Arizona
 
 Claim Timestamp: 00:00:49
 
@@ -550,12 +550,12 @@ Transcript Snippet: What I mean is essentially he pre-recorded a Charlie Kirk sh
 Anchored Artifacts: 
 Mentions: N-14, N-69, N-1
 Related Nodes: N-10701
-Supports: C-2421
+Supports: C-6828
 Investigative Direction: Charlie Kirk Show production records and broadcast metadata for that episode.
 
 ---
 
-**C-4725** Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal breaking
+**C-10110** Charlie and Erika Kirk's first date in August 2018 coincided with the Epstein scandal breaking
 
 Claim Timestamp: 00:02:29
 
@@ -570,7 +570,7 @@ Investigative Direction: Kirk wedding and dating accounts versus the court docke
 
 ---
 
-**C-4726** Miami Herald Epstein exposé was published in November 2018
+**C-10111** Miami Herald Epstein exposé was published in November 2018
 
 Claim Timestamp: 00:03:41
 
@@ -585,7 +585,7 @@ Investigative Direction: Miami Herald "Perversion of Justice" publication date.
 
 ---
 
-**C-4727** Epstein's trafficking network was embedded in pageantry and modeling
+**C-10112** Epstein's trafficking network was embedded in pageantry and modeling
 
 Claim Timestamp: 00:03:41
 
@@ -600,7 +600,7 @@ Investigative Direction: Court records and reporting on Epstein's links to model
 
 ---
 
-**C-4728** Erika Kirk spent time at Next Model Management, run by Epstein friend Faith Kates
+**C-10113** Erika Kirk spent time at Next Model Management, run by Epstein friend Faith Kates
 
 Claim Timestamp: 00:05:03
 
@@ -615,7 +615,7 @@ Investigative Direction: Next Model Management staff records and the host's sour
 
 ---
 
-**C-4729** Former Next workers allege Erika Kirk was point of contact for the model apartment
+**C-10114** Former Next workers allege Erika Kirk was point of contact for the model apartment
 
 Claim Timestamp: 00:05:03
 
@@ -630,7 +630,7 @@ Investigative Direction: Interviews with the former Next Model Management worker
 
 ---
 
-**C-4730** Faith Kates supported Epstein after his 2009 arrest
+**C-10115** Faith Kates supported Epstein after his 2009 arrest
 
 Claim Timestamp: 00:05:53
 
@@ -645,7 +645,7 @@ Investigative Direction: Epstein estate emails and flight records involving Kate
 
 ---
 
-**C-4731** Erika Kirk speaks at high schools through Turning Point USA chapters
+**C-10116** Erika Kirk speaks at high schools through Turning Point USA chapters
 
 Claim Timestamp: 00:06:38
 
@@ -660,7 +660,7 @@ Investigative Direction: TPUSA high school chapter program and Erika Kirk's scho
 
 ---
 
-**C-4732** Trump and Epstein fell out over a real estate deal
+**C-10117** Trump and Epstein fell out over a real estate deal
 
 Claim Timestamp: 00:06:38
 
@@ -675,7 +675,7 @@ Investigative Direction: Reporting on the Trump–Epstein bidding dispute over t
 
 ---
 
-**C-4733** Trump called Charlie Kirk upset about criticism of the Epstein network
+**C-10118** Trump called Charlie Kirk upset about criticism of the Epstein network
 
 Claim Timestamp: 00:07:45
 
@@ -690,7 +690,7 @@ Investigative Direction: The New York Times account and Charlie Kirk Show staff 
 
 ---
 
-**C-4734** SAM 702 stopped in Tucson for about 4 hours on September 8 before overnighting at Fort Huachuca
+**C-10119** SAM 702 stopped in Tucson for about 4 hours on September 8 before overnighting at Fort Huachuca
 
 Claim Timestamp: 00:08:29
 
@@ -705,7 +705,7 @@ Investigative Direction: ADS-B flight data and Air Force mission records for SAM
 
 ---
 
-**C-4735** Bradley Hansell's office organized the SAM 702 flight
+**C-10120** Bradley Hansell's office organized the SAM 702 flight
 
 Claim Timestamp: 00:08:29
 
@@ -716,12 +716,12 @@ Transcript Snippet: Now, the person whose office organized that plane is the Und
 Anchored Artifacts: 
 Mentions: N-433
 Related Nodes: N-10671, N-10888
-Supports: C-2909
+Supports: C-9620
 Investigative Direction: Department of War travel and mission-request records for SAM 702.
 
 ---
 
-**C-4736** Hansell Worked at the Boston Consulting Group, Where Romney and Netanyahu Became Friends
+**C-10121** Hansell Worked at the Boston Consulting Group, Where Romney and Netanyahu Became Friends
 
 Claim Timestamp: 00:08:29
 
@@ -732,12 +732,12 @@ Transcript Snippet: about how he used to work for the Boston Consulting Group, w
 Anchored Artifacts: 
 Mentions: N-433, N-28, N-36
 Related Nodes: N-10574
-Supports: C-2913, C-2930
+Supports: C-9623, C-9612
 Investigative Direction: Hansel's official biography and BCG employment records.
 
 ---
 
-**C-4737** Mitch Snow believes he saw Brian Harpole at the Fort Huachuca meeting
+**C-10122** Mitch Snow believes he saw Brian Harpole at the Fort Huachuca meeting
 
 Claim Timestamp: 00:09:33
 
@@ -752,7 +752,7 @@ Investigative Direction: Fort Huachuca visitor and meeting records for September
 
 ---
 
-**C-4738** Mitch Snow saw Erika Kirk in the Fort Huachuca hotel lobby on September 8
+**C-10123** Mitch Snow saw Erika Kirk in the Fort Huachuca hotel lobby on September 8
 
 Claim Timestamp: 00:09:33
 
@@ -767,7 +767,7 @@ Investigative Direction: Base lodging registers and gate logs for September 8, 2
 
 ---
 
-**C-4739** Paramount Tactical said the alibi children were not Erika Kirk's
+**C-10124** Paramount Tactical said the alibi children were not Erika Kirk's
 
 Claim Timestamp: 00:10:20
 
@@ -778,12 +778,12 @@ Transcript Snippet: Or Paramount not so Tactical said, "No, they're not Erika's.
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-266
 Related Nodes: N-10899, N-10472
-Supports: C-2906
+Supports: C-9135
 Investigative Direction: Paramount Tactical's statements and the original alibi photograph.
 
 ---
 
-**C-4740** Host's FOIA request on SAM 702 was placed at number 3,500 under a burden exception
+**C-10125** Host's FOIA request on SAM 702 was placed at number 3,500 under a burden exception
 
 Claim Timestamp: 00:11:06
 
@@ -798,7 +798,7 @@ Investigative Direction: The FOIA acknowledgment letter and tracking number.
 
 ---
 
-**C-4741** Stephen Feinberg Sits Between Hansell and Hegseth as Deputy Secretary of Defense
+**C-10126** Stephen Feinberg Sits Between Hansell and Hegseth as Deputy Secretary of Defense
 
 Claim Timestamp: 00:11:06
 
@@ -813,7 +813,7 @@ Investigative Direction: The official Department of War organizational chart.
 
 ---
 
-**C-4742** Feinberg is the wealthiest person in the Trump administration
+**C-10127** Feinberg is the wealthiest person in the Trump administration
 
 Claim Timestamp: 00:12:04
 
@@ -828,7 +828,7 @@ Investigative Direction: Feinberg's financial disclosure filings and published n
 
 ---
 
-**C-4743** Feinberg co-founded Cerberus Capital Management in 1992
+**C-10128** Feinberg co-founded Cerberus Capital Management in 1992
 
 Claim Timestamp: 00:12:59
 
@@ -843,7 +843,7 @@ Investigative Direction: Cerberus corporate history and SEC Form ADV filings.
 
 ---
 
-**C-4744** Blackwater received $2 billion in government contracts from 1997 to 2010
+**C-10129** Blackwater received $2 billion in government contracts from 1997 to 2010
 
 Claim Timestamp: 00:14:58
 
@@ -858,7 +858,7 @@ Investigative Direction: Federal contract databases and congressional reports on
 
 ---
 
-**C-4745** Four Blackwater guards were convicted and Trump pardoned them
+**C-10130** Four Blackwater guards were convicted and Trump pardoned them
 
 Claim Timestamp: 00:16:00
 
@@ -873,7 +873,7 @@ Investigative Direction: Court records for the Nisour Square convictions and the
 
 ---
 
-**C-4746** Betsy DeVos is the sister of Blackwater founder Erik Prince
+**C-10131** Betsy DeVos is the sister of Blackwater founder Erik Prince
 
 Claim Timestamp: 00:16:00
 
@@ -888,7 +888,7 @@ Investigative Direction: Public biographies of DeVos and Prince.
 
 ---
 
-**C-4747** Feinberg owned DynCorp from 2010 to 2020 while joining the Trump administration in 2017
+**C-10132** Feinberg owned DynCorp from 2010 to 2020 while joining the Trump administration in 2017
 
 Claim Timestamp: 00:16:49
 
@@ -903,7 +903,7 @@ Investigative Direction: DynCorp ownership filings and Feinberg's 2017 Intellige
 
 ---
 
-**C-4748** DynCorp scandal ran from the 1990s and became a film in 2010
+**C-10133** DynCorp scandal ran from the 1990s and became a film in 2010
 
 Claim Timestamp: 00:17:45
 
@@ -918,7 +918,7 @@ Investigative Direction: Release records for the film "The Whistleblower" and th
 
 ---
 
-**C-4749** Kathryn Bolkovac found DynCorp employees buying underage women in Bosnia
+**C-10134** Kathryn Bolkovac found DynCorp employees buying underage women in Bosnia
 
 Claim Timestamp: 00:17:45
 
@@ -933,7 +933,7 @@ Investigative Direction: Bolkovac's book and the UK employment tribunal ruling i
 
 ---
 
-**C-4750** Ben Johnston filed similar reports and both whistleblowers were fired
+**C-10135** Ben Johnston filed similar reports and both whistleblowers were fired
 
 Claim Timestamp: 00:18:41
 
@@ -948,7 +948,7 @@ Investigative Direction: Johnston's lawsuit filings in Texas and the Bolkovac tr
 
 ---
 
-**C-4751** Trafficked women came from Ukraine, Croatia, Bosnia and Romania
+**C-10136** Trafficked women came from Ukraine, Croatia, Bosnia and Romania
 
 Claim Timestamp: 00:18:41
 
@@ -963,7 +963,7 @@ Investigative Direction: Bolkovac's book and UN/OSCE trafficking reports on Bosn
 
 ---
 
-**C-4752** Trafficked women were lured with beautician jobs and had their passports taken
+**C-10137** Trafficked women were lured with beautician jobs and had their passports taken
 
 Claim Timestamp: 00:20:09
 
@@ -978,7 +978,7 @@ Investigative Direction: Human Rights Watch's 2002 Bosnia trafficking report and
 
 ---
 
-**C-4753** DynCorp contractors enjoyed immunity and the company kept its US contracts
+**C-10138** DynCorp contractors enjoyed immunity and the company kept its US contracts
 
 Claim Timestamp: 00:21:39
 
@@ -993,7 +993,7 @@ Investigative Direction: Status of Forces agreements for Bosnia and DynCorp fede
 
 ---
 
-**C-4754** DynCorp was sold to Cerberus in 2010, the year the film came out
+**C-10139** DynCorp was sold to Cerberus in 2010, the year the film came out
 
 Claim Timestamp: 00:21:39
 
@@ -1008,7 +1008,7 @@ Investigative Direction: The 2010 Cerberus–DynCorp acquisition filing and the 
 
 ---
 
-**C-4755** Host believes Dan Bongino was a source for the New York Times article
+**C-10140** Host believes Dan Bongino was a source for the New York Times article
 
 Claim Timestamp: 00:22:26
 
@@ -1023,7 +1023,7 @@ Investigative Direction: The New York Times article's attributions; Bongino's pu
 
 ---
 
-**C-4756** Feinberg says he divested from Cerberus but ties remain unclear
+**C-10141** Feinberg says he divested from Cerberus but ties remain unclear
 
 Claim Timestamp: 00:23:22
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Feinberg's ethics agreement and OGE Form 278 disclosure
 
 ---
 
-**C-4757** Host is told the administration is trying to make FOIA requests harder
+**C-10142** Host is told the administration is trying to make FOIA requests harder
 
 Claim Timestamp: 00:23:22
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Recent DOJ/OIP FOIA guidance and executive orders on cl
 
 ---
 
-**C-4758** Department of War offices orchestrated messaging to make Erika Kirk the top trend
+**C-10143** Department of War offices orchestrated messaging to make Erika Kirk the top trend
 
 Claim Timestamp: 00:25:18
 
@@ -1068,7 +1068,7 @@ Investigative Direction: The underlying email and its distribution list, sought 
 
 ---
 
-**C-4759** Elizabeth Kravchuk McCoy's family ministry rescues orphans in Ukraine
+**C-10144** Elizabeth Kravchuk McCoy's family ministry rescues orphans in Ukraine
 
 Claim Timestamp: 00:26:20
 
@@ -1083,7 +1083,7 @@ Investigative Direction: The ministry's nonprofit filings and Eliza McCoy's fami
 
 ---
 
-**C-4760** Host hears SUVs escort Kravchuk's family in Ukraine
+**C-10145** Host hears SUVs escort Kravchuk's family in Ukraine
 
 Claim Timestamp: 00:26:20
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Travel records and the host's source for the escort cla
 
 ---
 
-**C-4761** Good Call Ministries website describes Ukraine orphan relief
+**C-10146** Good Call Ministries website describes Ukraine orphan relief
 
 Claim Timestamp: 00:27:04
 
@@ -1113,7 +1113,7 @@ Investigative Direction: Archived copies of the ministry website and its financi
 
 ---
 
-**C-4762** Ratajkowski separated from her husband within a year of giving birth
+**C-10147** Ratajkowski separated from her husband within a year of giving birth
 
 Claim Timestamp: 00:34:14
 
@@ -1128,7 +1128,7 @@ Investigative Direction: Public reporting on Ratajkowski's separation and divorc
 
 ---
 
-**C-3753** Host shows an excerpt of Emily Ratajkowski's article "Mother Effer" in The Cut
+**C-10148** Host shows an excerpt of Emily Ratajkowski's article "Mother Effer" in The Cut
 
 Claim Timestamp: 00:34:14
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Retrieve the article from The Cut and confirm the excer
 
 ---
 
-**C-4763** Ratajkowski's essay says she embodied a "villain" after her divorce
+**C-10149** Ratajkowski's essay says she embodied a "villain" after her divorce
 
 Claim Timestamp: 00:35:30
 
@@ -1158,7 +1158,7 @@ Investigative Direction: Compare with the published text in The Cut.
 
 ---
 
-**C-4764** Ratajkowski's essay quotes a friend on her school drop-off appearance
+**C-10150** Ratajkowski's essay quotes a friend on her school drop-off appearance
 
 Claim Timestamp: 00:36:41
 
@@ -1173,7 +1173,7 @@ Investigative Direction: Compare with the published text in The Cut.
 
 ---
 
-**C-4765** FBI denied the host's request for three days of someone's schedule
+**C-10151** FBI denied the host's request for three days of someone's schedule
 
 Claim Timestamp: 00:43:47
 
@@ -1188,7 +1188,7 @@ Investigative Direction: The FBI FOIA denial letter and request number.
 
 ---
 
-**C-4766** Host considers an explosive under Charlie Kirk's chest a viable theory
+**C-10152** Host considers an explosive under Charlie Kirk's chest a viable theory
 
 Claim Timestamp: 00:45:07
 
@@ -1203,7 +1203,7 @@ Investigative Direction: Autopsy and medical examiner findings; high-resolution 
 
 ---
 
-**C-4767** Charlie Kirk saved himself for marriage and Erika was his first real relationship
+**C-10153** Charlie Kirk saved himself for marriage and Erika was his first real relationship
 
 Claim Timestamp: 00:45:31
 
@@ -1218,7 +1218,7 @@ Investigative Direction: Charlie Kirk's own public statements on dating and marr
 
 ---
 
-**C-4768** Erika Kirk brought pastors into Charlie Kirk's faith life
+**C-10154** Erika Kirk brought pastors into Charlie Kirk's faith life
 
 Claim Timestamp: 00:47:10
 
@@ -1233,7 +1233,7 @@ Investigative Direction: TPUSA Faith staffing and speaker records after 2021.
 
 ---
 
-**C-4769** The New York Times account covers the start of the Trump administration, before the Iran rift
+**C-10155** The New York Times account covers the start of the Trump administration, before the Iran rift
 
 Claim Timestamp: 00:48:32
 
@@ -1248,7 +1248,7 @@ Investigative Direction: The dates of the events described in the New York Times
 
 ---
 
-**C-4770** Three of Jeffrey Epstein's four grandparents were born in Russia
+**C-10156** Three of Jeffrey Epstein's four grandparents were born in Russia
 
 Claim Timestamp: 00:49:17
 
@@ -1391,12 +1391,12 @@ Confidence: high
 
 ## 7. Optional Flags
 
-- **Artifacts verbally referenced but not shown**: A-2691.1 (New York Times Epstein files article), A-2692.1 (SAM 702 FOIA response), A-2692.2 (FBI FOIA denial) and A-2694.1 (Kathryn Bolkovac's book). A-2694.1 is a host verbal reference kept as an anchor for C-4749–C-4751.
+- **Artifacts verbally referenced but not shown**: A-2691.1 (New York Times Epstein files article), A-2692.1 (SAM 702 FOIA response), A-2692.2 (FBI FOIA denial) and A-2694.1 (Kathryn Bolkovac's book). A-2694.1 is a host verbal reference kept as an anchor for C-10134–C-10136.
 - **No DIA beats**: The keyword scan found only "tip" at 00:45:31 ("that's a very um kind tip"), which refers to a viewer's monetary tip, not a request for information; the other hits are substrings of "multiple". The host's thanks at 00:49:17 to viewers "that sent me these stories" has none of the DIA keywords and is not treated as a tip-line beat. No M-12 or M-14 occurrence.
-- **Self-corrections without a linkable prior claim**: C-4725 corrects the host's previous-episode statement that Erika entered Charlie's life in the same month as Epstein's death. C-4741 corrects her earlier statement that Hansel reports directly to Hegseth. Neither prior statement is in claims_index.tsv (episode 117 has no indexed claims), so no Revises link was added. The integrator may link them once episode 117 claims are minted.
-- **Cross-episode links**: C-4723 Supports C-2422, C-4724 Supports C-2421, C-4735 Supports C-2909, C-4736 Supports C-2913 and C-2930, and C-4739 Supports C-2906. Possible links left out: C-4723 vs C-2420 (that claim puts Kolvet and McCoy in the West Wing; here it is the executive office building and McCoy is not named), and C-4728/C-4729 vs C-2427 (ep 76, a different proposition about non-response). C-2981 and C-2985 (ep 122) restate C-4729 and C-4723 but are later episodes, so they are not linked.
-- **Name matching**: "Andrew Kolvet" (00:49, 01:42), "Andrew Kolvet" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-190 Mikey McCoy and N-217 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hansell / Hansel / Hansell" are mapped to N-433. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-695). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-692). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
-- **Transcription ambiguities**: "Turning Points USA Club of America" (likely TPUSA Club America) kept as spoken. "our F U SUVs" (26:20) is unclear and kept verbatim. "lorettopubs. org" (43:08) is an ad fragment. The host gives two different Iraq casualty figures (17 killed, then corrected to 14 killed and 20 injured); C-4745 uses the corrected figure. The host says Blackwater contracts ran "between 1997 and 2010" as spoken.
+- **Self-corrections without a linkable prior claim**: C-10110 corrects the host's previous-episode statement that Erika entered Charlie's life in the same month as Epstein's death. C-10126 corrects her earlier statement that Hansel reports directly to Hegseth. Neither prior statement is in claims_index.tsv (episode 117 has no indexed claims), so no Revises link was added. The integrator may link them once episode 117 claims are minted.
+- **Cross-episode links**: C-10108 Supports C-6833, C-10109 Supports C-6828, C-10120 Supports C-9620, C-10121 Supports C-9623 and C-9612, and C-10124 Supports C-9135. Possible links left out: C-10108 vs C-6825 (that claim puts Kolvet and McCoy in the West Wing; here it is the executive office building and McCoy is not named), and C-10113/C-10114 vs C-6863 (ep 76, a different proposition about non-response). C-10439 and C-10495 (ep 122) restate C-10114 and C-10108 but are later episodes, so they are not linked.
+- **Name matching**: "Andrew Kolvet" (00:49, 01:42), "Andrew Kolvet" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-9136). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-190 Mikey McCoy and N-217 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hansell / Hansel / Hansell" are mapped to N-433. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-695). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-692). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
+- **Transcription ambiguities**: "Turning Points USA Club of America" (likely TPUSA Club America) kept as spoken. "our F U SUVs" (26:20) is unclear and kept verbatim. "lorettopubs. org" (43:08) is an ad fragment. The host gives two different Iraq casualty figures (17 killed, then corrected to 14 killed and 20 injured); C-10130 uses the corrected figure. The host says Blackwater contracts ran "between 1997 and 2010" as spoken.
 - **Unminted names**: Nat Rothschild (12:59, joke about his boat), Bill Clinton (20:09), Gaddafi, Robin Thicke and Ben Johnston's employer locations are named in passing with no claim, so no nodes were added. Viewer handles (Gnome 2024, Israel Texas, Little bird, Naby, Sarah Bryant, James the least, Tony Hill, Anna, RN Explorer, El Sassinator) are not person nodes.
 - **Not inscribed as claims (admission test)**: Several statements are opinion, rhetoric or speculation:
   - The Situation Room "is not for" a pedophile; Epstein as a "national security concern"
@@ -1413,5 +1413,5 @@ Confidence: high
   - Kash Patel "makes my skin crawl"
   - The country "run by satanic people"
   - Speculation that Epstein's grandparents were linked to the groups that assassinated the Tsar
-- **Minor factual beats not inscribed**: the plan to file a FOIA request on Kolvet's White House meeting (00:01:42); Ratajkowski being 35 and describing a traumatic birth; the host not knowing about Tyler Bowyer or Andrew Kolvet while at TPUSA (kept only as Mentions on C-4767); Tony Hill's comment on Corey Lewandowski and the host's Thomas Crooks remark (so neither gets a node row); and the aubergine/eggplant and "joined up" cursive asides.
+- **Minor factual beats not inscribed**: the plan to file a FOIA request on Kolvet's White House meeting (00:01:42); Ratajkowski being 35 and describing a traumatic birth; the host not knowing about Tyler Bowyer or Andrew Kolvet while at TPUSA (kept only as Mentions on C-10153); Tony Hill's comment on Corey Lewandowski and the host's Thomas Crooks remark (so neither gets a node row); and the aubergine/eggplant and "joined up" cursive asides.
 - **Sponsor reads** (Pre-Born, Fatty15) and the merch close are excluded. The transcript has empty marks at 29:23–31:21 and 42:08.

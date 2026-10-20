@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep129): N-10745, N-10765, N-10771, N-10820
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11561–C-11634
+  - Claim Range: C-11060–C-11157
   - New Nodes Introduced: N-10742, N-10743
   - Reused Nodes Appearing: N-1, N-2, N-367, N-487, N-504, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-545, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
   - (see registers)
@@ -134,7 +134,7 @@ Video Timestamp: 00:26:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (article read/displayed on air; specific quoted phrases)
 
-*Related: C-3083, C-3084, C-3086, C-3089, N-10743*
+*Related: C-11104, C-11107, C-11125, C-11065, N-10743*
 
 **A-2164.2** Daily Mail article body – Erika's reported "compassion" and "overwhelming sadness" toward Tyler Robinson at his Utah courtroom appearance
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:28:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3085, N-2*
+*Related: C-11110, N-2*
 
 **A-2164.3** Daily Mail article body – Erika's reported statements that she will not give Candace "an ounce of her energy"; comparisons to political opponents and to Tyler Robinson
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:36:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3086, N-2*
+*Related: C-11125, N-2*
 
 **A-2165** SUV Interior Photo Bundle
 
@@ -166,7 +166,7 @@ Video Timestamp: 00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-3087, C-3089, C-3104, N-10740*
+*Related: C-11062, C-11065, C-11146, N-10740*
 
 **A-2165.2** Side-by-side comparison photographs – recreation by host's team of nitrile glove appearance in a comparable door compartment
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:05:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (host's own experiment; not external evidence)
 
-*Related: C-3088, C-3090, N-10740*
+*Related: C-11064, C-11063, N-10740*
 
 **A-2165.3** Second never-before-seen photograph of the backseat object previously described by some as a burned shirt, with clearer letter/color detail visible
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:09:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image displayed)
 
-*Related: C-3091, N-10740*
+*Related: C-11069, N-10740*
 
 **A-2166** Hospital Arrival Media Bundle
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3094, C-3095*
+*Related: C-11092, C-11071*
 
 **A-2166.2** Local news live footage (cited as Fox 5 Atlanta newsroom feed out of Utah) of group walking into Timpanogos Regional Hospital; timing anchored to Donald Trump tweet posted at 1:02 PM local time
 
@@ -208,7 +208,7 @@ Video Timestamp: 00:18:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (news segment displayed; Trump tweet quoted)
 
-*Related: C-3094, C-3095*
+*Related: C-11092, C-11071*
 
 **A-2167** Mikey McCoy Call Logs Bundle
 
@@ -220,7 +220,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (logs displayed)
 
-*Related: C-3092, C-3093, C-3096, N-10742*
+*Related: C-11088, C-11084, C-11073, N-10742*
 
 **A-2168** Blake Neff Audio Bundle
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:13:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3092, C-3097*
+*Related: C-11088, C-11082*
 
 **A-2169** Sandy Hook Comparison Rhetoric Bundle
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:42:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3098, C-3099, N-10741*
+*Related: C-11130, C-11131, N-10741*
 
 **A-2169.2** Tim Pool X post comparing amplification of Charlie Kirk conspiracy claims on social media to the destruction of Alex Jones; asking why YouTube is boosting such videos
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:43:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3100, N-10741*
+*Related: C-11133, N-10741*
 
 **A-2169.3** Blake Neff Twitter Space audio comparing Candace Owens's coverage to Alex Jones's Sandy Hook coverage, specifically citing the 10-month sustained duration
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:45:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3101, N-10741*
+*Related: C-11134, N-10741*
 
 **A-2169.4** Viva Frei clip on the Charlie Kirk Show invoking "Sandy Hook 2.0" framing of conspiracy theories around Kirk's death
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:48:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3102, N-10741*
+*Related: C-11139, N-10741*
 
 **A-2169.5** Pre-death Charlie Kirk audio clip criticizing the Alex Jones verdict as "patient zero for lawfare strategies" and warning against using it as a censorship blueprint
 
@@ -284,7 +284,7 @@ Video Timestamp: 00:50:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3103, N-1, N-10741*
+*Related: C-11142, N-1, N-10741*
 
 **A-2169.6** Pre-death Charlie Kirk X post: "The lawsuits against Jones have always been about finding a way to censor and destroy a person the left hates, and then using that blueprint on everybody else."
 
@@ -294,7 +294,7 @@ Video Timestamp: 00:54:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (post text quoted)
 
-*Related: C-3103, C-3104, N-1, N-10741*
+*Related: C-11142, C-11146, N-1, N-10741*
 
 **A-2170** Viewer Comment Bundle
 
@@ -306,7 +306,7 @@ Video Timestamp: 01:01:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer speculation)
 
-*Related: C-3105, N-10740*
+*Related: C-11153, N-10740*
 
 **A-2170.2** YouTube comment from "Aunt Leash": glove appears melted on tip of one finger and side of another; suggests nitrile would protect against chemical burns from explosive residue but not flames; poses question whether Charlie's shirt was burned in the SUV
 
@@ -316,7 +316,7 @@ Video Timestamp: 01:03:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer speculation)
 
-*Related: C-3106, N-10740*
+*Related: C-11157, N-10740*
 
 ---
 
@@ -331,7 +331,7 @@ Video Timestamp: 00:31:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11601, C-11602, N-2, N-3, N-10743*
+*Related: C-11114, C-11115, N-2, N-3, N-10743*
 
 ---
 
@@ -344,7 +344,7 @@ Video Timestamp: 00:33:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11606, N-2, N-3, N-10743*
+*Related: C-11119, N-2, N-3, N-10743*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:57:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11627*
+*Related: C-11148*
 
 ---
 
@@ -374,7 +374,7 @@ Video Timestamp: 00:59:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11629, C-11630, N-60, N-3, N-97, N-266, N-10651*
+*Related: C-11150, C-11151, N-60, N-3, N-97, N-266, N-10651*
 
 ---
 
@@ -389,7 +389,7 @@ Video Timestamp: 01:02:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11633, N-3, N-11218*
+*Related: C-11155, N-3, N-11218*
 
 ---
 
@@ -402,7 +402,7 @@ Video Timestamp: 01:02:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11634, N-3, N-10000*
+*Related: C-11156, N-3, N-10000*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 2
 Episode Count: ≥1
 Investigative Pressure: High
 
-*Related: A-2169.5, A-2169.6, C-3103, C-3104*
+*Related: A-2169.5, A-2169.6, C-11142, C-11146*
 
 **N-367** Danny Philip
 
@@ -428,7 +428,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2167.1, A-2166.2, A-2166.1, C-3092, C-3094, C-3095, C-3096*
+*Related: A-2167.1, A-2166.2, A-2166.1, C-11088, C-11092, C-11071, C-11073*
 
 ---
 
@@ -441,7 +441,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2165.1, A-2165.2, A-2165.3, A-2170.1, A-2170.2, C-3087, C-3088, C-3090, C-3091, C-3105, C-3106*
+*Related: A-2165.1, A-2165.2, A-2165.3, A-2170.1, A-2170.2, C-11062, C-11064, C-11063, C-11069, C-11153, C-11157*
 
 **N-10741** Sandy Hook Comparison Rhetoric
 
@@ -452,7 +452,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2169.1, A-2169.2, A-2169.3, A-2169.4, A-2169.5, A-2169.6, C-3098, C-3099, C-3100, C-3101, C-3102, C-3103, C-3104*
+*Related: A-2169.1, A-2169.2, A-2169.3, A-2169.4, A-2169.5, A-2169.6, C-11130, C-11131, C-11133, C-11134, C-11139, C-11142, C-11146*
 
 **N-10742** Mikey McCoy Call Timeline Discrepancy
 
@@ -463,7 +463,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2167.1, A-2168.1, C-3092, C-3093, C-3096, C-3097*
+*Related: A-2167.1, A-2168.1, C-11088, C-11084, C-11073, C-11082*
 
 **N-10743** Daily Mail Article Source Identity
 
@@ -474,7 +474,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2164.1, A-2164.2, A-2164.3, C-3083, N-2*
+*Related: A-2164.1, A-2164.2, A-2164.3, C-11104, N-2*
 
 ---
 
@@ -482,7 +482,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-11561, C-11563, C-11564, C-11565, C-11566, C-11567, C-11577, C-11581, C-11584, C-11586, C-11587, C-11588, C-11590, C-11591, C-11592, C-11593, C-11597, C-11599, C-11601, C-11602, C-11604, C-11605, C-11606, C-11607, C-11608, C-11609, C-11610, C-11611, C-11616, C-11617, C-11618, C-11628, C-11629, C-11630, C-11631, C-11632, C-11633, C-11634, A-3141.1, A-3141.2, A-3143.1, A-3144.1, A-3144.2*
+*Related: C-11060, C-11066, C-11067, C-11068, C-11070, C-11072, C-11085, C-11090, C-11094, C-11096, C-11097, C-11098, C-11100, C-11101, C-11102, C-11103, C-11109, C-11112, C-11114, C-11115, C-11117, C-11118, C-11119, C-11120, C-11121, C-11122, C-11123, C-11124, C-11132, C-11135, C-11136, C-11149, C-11150, C-11151, C-11152, C-11154, C-11155, C-11156, A-3141.1, A-3141.2, A-3143.1, A-3144.1, A-3144.2*
 
 ---
 
@@ -490,7 +490,7 @@ Host; speaks for herself throughout.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11572, C-11573, C-11574, C-11577, C-11578, C-11581, C-11585, C-11586, C-11587, C-11588, C-11589, C-11591, C-11595, C-11598, C-11600, C-11601, C-11602, C-11603, C-11606, C-11612, C-11613, C-11614, C-11615, C-11617, C-11618, A-3141.1, A-3141.2*
+*Related: C-11078, C-11079, C-11080, C-11085, C-11086, C-11090, C-11095, C-11096, C-11097, C-11098, C-11099, C-11101, C-11106, C-11111, C-11113, C-11114, C-11115, C-11116, C-11119, C-11126, C-11127, C-11128, C-11129, C-11135, C-11136, A-3141.1, A-3141.2*
 
 ---
 
@@ -498,14 +498,14 @@ Existing node reused for new claims in this episode.
 
 Andrew Kolvet (spelled Kolb, Kolburt in the transcript); TPUSA spokesperson the host says is directing attacks and holds a stake in the Charlie Kirk Show company.
 
-*Related: C-11591, C-11605, C-11615*
+*Related: C-11101, C-11118, C-11129*
 
 ---
 
 **N-15** Justin Streiff
 Justin Streiff, TPUSA COO; the host says he and Erika gave her the Danny Philip call account.
 
-*Related: C-11581*
+*Related: C-11090*
 
 ---
 
@@ -513,7 +513,7 @@ Justin Streiff, TPUSA COO; the host says he and Erika gave her the Danny Philip 
 
 Rob McCoy, Mikey McCoy's father, called after the shooting.
 
-*Related: C-11579*
+*Related: C-11087*
 
 ---
 
@@ -521,7 +521,7 @@ Rob McCoy, Mikey McCoy's father, called after the shooting.
 
 Benjamin Netanyahu; the host says she first heard 'woke Reich' from him.
 
-*Related: C-11590*
+*Related: C-11100*
 
 ---
 
@@ -529,7 +529,7 @@ Benjamin Netanyahu; the host says she first heard 'woke Reich' from him.
 
 Tyler Robinson; subject of the Daily Mail courtroom account and the host's evidence doubts.
 
-*Related: C-11598, C-11599, C-11600, C-11616*
+*Related: C-11111, C-11112, C-11113, C-11132*
 
 ---
 
@@ -537,7 +537,7 @@ Tyler Robinson; subject of the Daily Mail courtroom account and the host's evide
 
 Laura Loomer; the host cites a count of her posts about the host.
 
-*Related: C-11629, C-11630, A-3143.1*
+*Related: C-11150, C-11151, A-3143.1*
 
 ---
 
@@ -545,7 +545,7 @@ Laura Loomer; the host cites a count of her posts about the host.
 
 Alex Jones; subject of the Sandy Hook verdict comparisons and Kirk's remarks.
 
-*Related: C-11619, C-11620, C-11624, C-11625, C-11626*
+*Related: C-11137, C-11138, C-11144, C-11145, C-11147*
 
 ---
 
@@ -553,7 +553,7 @@ Alex Jones; subject of the Sandy Hook verdict comparisons and Kirk's remarks.
 
 Ben Shapiro; the host says his lawyer retweets Laura Loomer and sues the host for Brian Harpole.
 
-*Related: C-11630, A-3143.1*
+*Related: C-11151, A-3143.1*
 
 ---
 
@@ -561,7 +561,7 @@ Ben Shapiro; the host says his lawyer retweets Laura Loomer and sues the host fo
 
 Blake Neff; his audio and Twitter Space remarks are discussed.
 
-*Related: C-11568, C-11569, C-11570, C-11571, C-11575, C-11576, C-11580, C-11582, C-11583, C-11617*
+*Related: C-11074, C-11075, C-11076, C-11077, C-11081, C-11083, C-11089, C-11091, C-11093, C-11135*
 
 ---
 
@@ -569,7 +569,7 @@ Blake Neff; his audio and Twitter Space remarks are discussed.
 
 Matt Walsh; the host says his in-person event appearance was cancelled at Erika's urging.
 
-*Related: C-11586, C-11587*
+*Related: C-11096, C-11097*
 
 ---
 
@@ -577,7 +577,7 @@ Matt Walsh; the host says his in-person event appearance was cancelled at Erika'
 
 Mikey McCoy; the host reviews his post-shooting call sequence.
 
-*Related: C-11567, C-11568, C-11571, C-11572, C-11573, C-11574, C-11575, C-11576, C-11577, C-11579, C-11580, C-11581, C-11583*
+*Related: C-11072, C-11074, C-11077, C-11078, C-11079, C-11080, C-11081, C-11083, C-11085, C-11087, C-11089, C-11090, C-11093*
 
 ---
 
@@ -585,7 +585,7 @@ Mikey McCoy; the host reviews his post-shooting call sequence.
 
 Jesse Watters; the host believes Erika told him she knew.
 
-*Related: C-11578*
+*Related: C-11086*
 
 ---
 
@@ -593,7 +593,7 @@ Jesse Watters; the host believes Erika told him she knew.
 
 Elizabeth McCoy, Mikey McCoy's wife, whom the host says he called first.
 
-*Related: C-11572, C-11574, C-11579*
+*Related: C-11078, C-11080, C-11087*
 
 ---
 
@@ -601,7 +601,7 @@ Elizabeth McCoy, Mikey McCoy's wife, whom the host says he called first.
 
 Butch Hibbs; the host places Danny Philip next to him on Charlie's right.
 
-*Related: C-11571*
+*Related: C-11077*
 
 ---
 
@@ -609,7 +609,7 @@ Butch Hibbs; the host places Danny Philip next to him on Charlie's right.
 
 Brian Harpole; the host says he said he cut the shirt and that he is suing the host.
 
-*Related: C-11565, C-11630, A-3143.1*
+*Related: C-11068, C-11151, A-3143.1*
 
 ---
 
@@ -617,7 +617,7 @@ Brian Harpole; the host says he said he cut the shirt and that he is suing the h
 
 Bari Weiss; the host says Erika told her she was certain Robinson killed her husband.
 
-*Related: C-11600*
+*Related: C-11113*
 
 ---
 
@@ -625,7 +625,7 @@ Bari Weiss; the host says Erika told her she was certain Robinson killed her hus
 
 Baron Coleman; his coverage of the group's hospital walk-in is cited.
 
-*Related: C-11583*
+*Related: C-11093*
 
 ---
 
@@ -633,7 +633,7 @@ Baron Coleman; his coverage of the group's hospital walk-in is cited.
 
 Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on conspiracy theories.
 
-*Related: C-11621, C-11622*
+*Related: C-11140, C-11141*
 
 ---
 
@@ -641,7 +641,7 @@ Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on 
 
 Johnnie Moore; the host says he is dropping digital assassin articles at her.
 
-*Related: C-11584*
+*Related: C-11094*
 
 ---
 
@@ -649,7 +649,7 @@ Johnnie Moore; the host says he is dropping digital assassin articles at her.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11568, C-11583*
+*Related: C-11074, C-11093*
 
 ---
 
@@ -657,7 +657,7 @@ Existing node reused for new claims in this episode.
 
 Tracy Martin; the host's guess for the Daily Mail family friend.
 
-*Related: C-11597*
+*Related: C-11109*
 
 ---
 
@@ -665,7 +665,7 @@ Tracy Martin; the host's guess for the Daily Mail family friend.
 
 Turning Point USA; subject of the advertiser calls and Sandy Hook framing claims.
 
-*Related: C-11561, C-11584, C-11591, C-11592, C-11593, C-11634, A-3144.2*
+*Related: C-11060, C-11094, C-11101, C-11102, C-11103, C-11156, A-3144.2*
 
 ---
 
@@ -673,7 +673,7 @@ Turning Point USA; subject of the advertiser calls and Sandy Hook framing claims
 
 Daily Mail; outlet that published the Erika article and, per the host, got the Aspen clip access.
 
-*Related: C-11594, C-11595*
+*Related: C-11105, C-11106*
 
 ---
 
@@ -681,7 +681,7 @@ Daily Mail; outlet that published the Erika article and, per the host, got the A
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11599, C-11622*
+*Related: C-11112, C-11141*
 
 ---
 
@@ -689,7 +689,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11607*
+*Related: C-11120*
 
 ---
 
@@ -697,7 +697,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11581*
+*Related: C-11090*
 
 ---
 
@@ -705,7 +705,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11611*
+*Related: C-11124*
 
 ---
 
@@ -713,7 +713,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11600*
+*Related: C-11113*
 
 ---
 
@@ -721,7 +721,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11598*
+*Related: C-11111*
 
 ---
 
@@ -729,7 +729,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11572, C-11574, C-11577*
+*Related: C-11078, C-11080, C-11085*
 
 ---
 
@@ -737,7 +737,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11590*
+*Related: C-11100*
 
 ---
 
@@ -745,7 +745,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11564, C-11566*
+*Related: C-11067, C-11070*
 
 ---
 
@@ -753,7 +753,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11630, A-3143.1*
+*Related: C-11151, A-3143.1*
 
 ---
 
@@ -761,7 +761,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11594, C-11595*
+*Related: C-11105, C-11106*
 
 ---
 
@@ -769,7 +769,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11565*
+*Related: C-11068*
 
 ---
 
@@ -777,7 +777,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11565*
+*Related: C-11068*
 
 ---
 
@@ -785,7 +785,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11569, C-11575*
+*Related: C-11075, C-11081*
 
 ---
 
@@ -793,7 +793,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11596*
+*Related: C-11108*
 
 ---
 
@@ -801,7 +801,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11632*
+*Related: C-11154*
 
 ---
 
@@ -809,7 +809,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11563, C-11564*
+*Related: C-11066, C-11067*
 
 ---
 
@@ -817,7 +817,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11580*
+*Related: C-11089*
 
 ---
 
@@ -825,7 +825,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11573, C-11578*
+*Related: C-11079, C-11086*
 
 ---
 
@@ -833,7 +833,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11592*
+*Related: C-11102*
 
 ---
 
@@ -841,7 +841,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11594*
+*Related: C-11105*
 
 ---
 
@@ -849,7 +849,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11585, C-11586, C-11587, C-11588, C-11589*
+*Related: C-11095, C-11096, C-11097, C-11098, C-11099*
 
 ---
 
@@ -857,7 +857,7 @@ Existing node reused for new claims in this episode.
 
 The New York Times; source of Erika's account of the Mikey call.
 
-*Related: C-11573, C-11578, C-11625*
+*Related: C-11079, C-11086, C-11145*
 
 ---
 
@@ -865,7 +865,7 @@ The New York Times; source of Erika's account of the Mikey call.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11603, C-11604, C-11609, C-11615*
+*Related: C-11116, C-11117, C-11122, C-11129*
 
 ---
 
@@ -873,7 +873,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11568*
+*Related: C-11074*
 
 ---
 
@@ -881,7 +881,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-11582, C-11583*
+*Related: C-11091, C-11093*
 
 ---
 
@@ -889,7 +889,7 @@ Existing node reused for new claims in this episode.
 
 Timpanogos Regional Hospital; site of the arrival and the reported computer shutdown.
 
-*Related: C-11562, C-11632, C-11633, A-3144.1*
+*Related: C-11061, C-11154, C-11155, A-3144.1*
 
 ---
 
@@ -898,13 +898,13 @@ Timpanogos Regional Hospital; site of the arrival and the reported computer shut
 Node Type: Organization
 Company the host says received the freedom shirt profits, in which she says Charlie told her Andrew Kolvet owned a piece.
 
-*Related: C-11604, C-11605, C-11615*
+*Related: C-11117, C-11118, C-11129*
 
 ---
 
 ## 5. Claim Register
 
-**C-3083** Daily Mail attributes Erika's private characterization of Candace Owens ("that b*tch", "ugliest person in the world", "soulless ghoul") to a "family friend"
+**C-11104** Daily Mail attributes Erika's private characterization of Candace Owens ("that b*tch", "ugliest person in the world", "soulless ghoul") to a "family friend"
 
 Claim Timestamp: 00:26:13
 
@@ -919,7 +919,7 @@ Investigative Direction: Identify the family friend (host speculates Tracy Marti
 
 ---
 
-**C-3084** Turning Point USA declined to provide comment when sought by the Daily Mail
+**C-11107** Turning Point USA declined to provide comment when sought by the Daily Mail
 
 Claim Timestamp: 00:27:48
 
@@ -933,7 +933,7 @@ Investigative Direction: Confirm with the Daily Mail reporter or via FOIA-equiva
 
 ---
 
-**C-3085** Daily Mail reports Erika felt "compassion" and "overwhelming sadness" for Tyler Robinson at his courtroom appearance
+**C-11110** Daily Mail reports Erika felt "compassion" and "overwhelming sadness" for Tyler Robinson at his courtroom appearance
 
 Claim Timestamp: 00:28:34
 
@@ -947,7 +947,7 @@ Investigative Direction: Cross-reference against courtroom reporting and any Eri
 
 ---
 
-**C-3086** Daily Mail reports Erika would rather not give Candace "an ounce of her energy" and "likes even Tyler Robinson more than she likes Candace"
+**C-11125** Daily Mail reports Erika would rather not give Candace "an ounce of her energy" and "likes even Tyler Robinson more than she likes Candace"
 
 Claim Timestamp: 00:36:27
 
@@ -961,7 +961,7 @@ Investigative Direction: Verify quoted statements with original article; identif
 
 ---
 
-**C-3087** New photograph shows an unidentified object in the left rear door compartment of the SUV that multiple independent observers identify as a glove
+**C-11062** New photograph shows an unidentified object in the left rear door compartment of the SUV that multiple independent observers identify as a glove
 
 Claim Timestamp: 00:03:30
 
@@ -976,7 +976,7 @@ Investigative Direction: Forensic analysis of the original photograph; chain-of-
 
 ---
 
-**C-3088** Host's team reproduced a comparable appearance using nitrile gloves placed in a car door compartment for side-by-side comparison
+**C-11064** Host's team reproduced a comparable appearance using nitrile gloves placed in a car door compartment for side-by-side comparison
 
 Claim Timestamp: 00:05:21
 
@@ -990,7 +990,7 @@ Investigative Direction: Treat as illustrative comparison only; not independent 
 
 ---
 
-**C-3089** The glove-like object in A-2165.1 is located on the left rear door – the same side where the host identifies Rick Cutler's seating position
+**C-11065** The glove-like object in A-2165.1 is located on the left rear door – the same side where the host identifies Rick Cutler's seating position
 
 Claim Timestamp: 00:06:20
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Verify Rick Cutler's seating position against prior swo
 
 ---
 
-**C-3090** Multiple observers (host's husband, Baron Coleman, others) independently identified the door object as a glove without prior context
+**C-11063** Multiple observers (host's husband, Baron Coleman, others) independently identified the door object as a glove without prior context
 
 Claim Timestamp: 00:03:30
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Methodology is informal and unsystematic; results shoul
 
 ---
 
-**C-3091** Host Presents Second New Photograph She Says Shows a Clearer View of the Backseat Object
+**C-11069** Host Presents Second New Photograph She Says Shows a Clearer View of the Backseat Object
 
 Claim Timestamp: 00:09:02
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Forensic image analysis; chain-of-custody verification;
 
 ---
 
-**C-3092** Host Says Mikey McCoy's Call Logs Show a Sequence: Call to Rob McCoy, Three-Way Merge with Elizabeth McCoy, 10-Minute Call with Danny Philip
+**C-11088** Host Says Mikey McCoy's Call Logs Show a Sequence: Call to Rob McCoy, Three-Way Merge with Elizabeth McCoy, 10-Minute Call with Danny Philip
 
 Claim Timestamp: 00:16:48
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Obtain authenticated call records (subpoena or court-or
 
 ---
 
-**C-3093** Blake Neff's audio account describes Mikey McCoy calling Erika within approximately one minute of the event
+**C-11084** Blake Neff's audio account describes Mikey McCoy calling Erika within approximately one minute of the event
 
 Claim Timestamp: 00:14:58
 
@@ -1057,7 +1057,7 @@ Claim: In a clip the host plays, Blake Neff describes Mikey McCoy as immediately
 
 Anchored Artifacts: A-2168.1
 Mentions: N-190, N-159, N-2
-Contradicts: C-1932, C-3092
+Contradicts: C-4104, C-11088
 
 Related Nodes: N-10742
 
@@ -1065,7 +1065,7 @@ Investigative Direction: Reconcile with phone log evidence (which suggests Eliza
 
 ---
 
-**C-3094** Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time
+**C-11092** Local news captured the group walking into Timpanogos Regional Hospital at approximately 1:02 PM local time
 
 Claim Timestamp: 00:18:17
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Obtain unedited newsroom feed; cross-reference internal
 
 ---
 
-**C-3095** Host Says Blake Neff Arrived at the Hospital in the Second SUV with Danny Philip
+**C-11071** Host Says Blake Neff Arrived at the Hospital in the Second SUV with Danny Philip
 
 Claim Timestamp: 00:10:36
 
@@ -1095,7 +1095,7 @@ Investigative Direction: Verify rental records for both SUVs (previously describ
 
 ---
 
-**C-3096** Host Says Danny Philip and Mikey McCoy Were Both at the September 10 Event and Were Party to a 10-Minute Call in the Aftermath
+**C-11073** Host Says Danny Philip and Mikey McCoy Were Both at the September 10 Event and Were Party to a 10-Minute Call in the Aftermath
 
 Claim Timestamp: 00:11:37
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Subpoena call detail records; obtain Danny Philip's tes
 
 ---
 
-**C-3097** Blake Neff's audio account includes recollection of Mikey McCoy calling his father Rob McCoy immediately after the shooting
+**C-11082** Blake Neff's audio account includes recollection of Mikey McCoy calling his father Rob McCoy immediately after the shooting
 
 Claim Timestamp: 00:14:48
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Confirm against authenticated phone records.
 
 ---
 
-**C-3098** Seth Dillon publicly argued the Alex Jones verdict was based on false accusations against specific people, not on questioning official narratives
+**C-11130** Seth Dillon publicly argued the Alex Jones verdict was based on false accusations against specific people, not on questioning official narratives
 
 Claim Timestamp: 00:42:49
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Verify the precise quoted text against Seth Dillon's X 
 
 ---
 
-**C-3099** Seth Dillon's framing distinguishes First Amendment protection of criticism from liability for false accusations against identified persons
+**C-11131** Seth Dillon's framing distinguishes First Amendment protection of criticism from liability for false accusations against identified persons
 
 Claim Timestamp: 00:42:49
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Cross-reference against the actual Alex Jones appellate
 
 ---
 
-**C-3100** Tim Pool publicly questioned why YouTube is algorithmically amplifying Charlie Kirk conspiracy-claim videos while historically demonetizing COVID-related content
+**C-11133** Tim Pool publicly questioned why YouTube is algorithmically amplifying Charlie Kirk conspiracy-claim videos while historically demonetizing COVID-related content
 
 Claim Timestamp: 00:43:43
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Verify quoted text against Tim Pool's X account; assess
 
 ---
 
-**C-3101** Blake Neff publicly compared Candace Owens's sustained 10-month coverage of the Kirk investigation to the Alex Jones/Sandy Hook coverage pattern
+**C-11134** Blake Neff publicly compared Candace Owens's sustained 10-month coverage of the Kirk investigation to the Alex Jones/Sandy Hook coverage pattern
 
 Claim Timestamp: 00:45:35
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Obtain full unedited Twitter Space audio; document exac
 
 ---
 
-**C-3102** Viva Frei publicly invoked the "Sandy Hook 2.0" framing for conspiracy theories about Kirk's death on the Charlie Kirk Show
+**C-11139** Viva Frei publicly invoked the "Sandy Hook 2.0" framing for conspiracy theories about Kirk's death on the Charlie Kirk Show
 
 Claim Timestamp: 00:48:02
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Confirm segment on Charlie Kirk Show's platform archive
 
 ---
 
-**C-3103** Charlie Kirk publicly criticized the Alex Jones verdict and warned it would be used as a censorship blueprint against others
+**C-11142** Charlie Kirk publicly criticized the Alex Jones verdict and warned it would be used as a censorship blueprint against others
 
 Claim Timestamp: 00:50:38
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Verify the quoted segment against Charlie Kirk Show arc
 
 ---
 
-**C-3104** Charlie Kirk publicly argued the Alex Jones lawsuit was about censorship rather than Sandy Hook justice
+**C-11146** Charlie Kirk publicly argued the Alex Jones lawsuit was about censorship rather than Sandy Hook justice
 
 Claim Timestamp: 00:54:20
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Confirm the post against Charlie Kirk's X archive; date
 
 ---
 
-**C-3105** A viewer ("Honey butter") hypothesizes the glove object could be a denatured-alcohol scrub glove used on Charlie's body
+**C-11153** A viewer ("Honey butter") hypothesizes the glove object could be a denatured-alcohol scrub glove used on Charlie's body
 
 Claim Timestamp: 01:01:22
 
@@ -1244,7 +1244,7 @@ Investigative Direction: Viewer speculation; not investigative evidence; useful 
 
 ---
 
-**C-3106** A viewer ("Aunt Leash") hypothesizes the glove appears melted at finger/side locations, suggesting exposure to flames rather than chemical residue
+**C-11157** A viewer ("Aunt Leash") hypothesizes the glove appears melted at finger/side locations, suggesting exposure to flames rather than chemical residue
 
 Claim Timestamp: 01:03:13
 
@@ -1258,7 +1258,7 @@ Investigative Direction: Viewer speculation; photograph enhancement / chain-of-c
 
 ---
 
-**C-11561** Host Says Turning Point Equates Conspiracy Theories About Charlie's Death With Sandy Hook and Wants One Person Bankrupted
+**C-11060** Host Says Turning Point Equates Conspiracy Theories About Charlie's Death With Sandy Hook and Wants One Person Bankrupted
 
 Claim Timestamp: 00:00:51
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Collect TPUSA and Charlie Kirk Show statements that use
 
 ---
 
-**C-11562** Host Puts the Ride to the Hospital at About Seven Minutes
+**C-11061** Host Puts the Ride to the Hospital at About Seven Minutes
 
 Claim Timestamp: 00:01:46
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Compare the 911 call and dispatch times, the vehicle's 
 
 ---
 
-**C-11563** Host Says the Door in the New Photo Is Relatively Clean With Blood Only at the Handle
+**C-11066** Host Says the Door in the New Photo Is Relatively Clean With Blood Only at the Handle
 
 Claim Timestamp: 00:06:20
 
@@ -1306,7 +1306,7 @@ Investigative Direction: Obtain the full-resolution original of the door photogr
 
 ---
 
-**C-11564** Host Says the Door Photo Was Taken in the Immediate Aftermath Before the Car Was Cleaned
+**C-11067** Host Says the Door Photo Was Taken in the Immediate Aftermath Before the Car Was Cleaned
 
 Claim Timestamp: 00:06:20
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Check the EXIF data and the photo's source to date it; 
 
 ---
 
-**C-11565** Host Says Brian Harpole Said He Cut Charlie's Shirt and Asks Whose Scissors He Used
+**C-11068** Host Says Brian Harpole Said He Cut Charlie's Shirt and Asks Whose Scissors He Used
 
 Claim Timestamp: 00:08:11
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Locate Harpole's own statement on who cut the shirt and
 
 ---
 
-**C-11566** Host Says the Feds Had the SUV Released, Towed, Cleaned and Resold Quickly Instead of Impounded
+**C-11070** Host Says the Feds Had the SUV Released, Towed, Cleaned and Resold Quickly Instead of Impounded
 
 Claim Timestamp: 00:09:02
 
@@ -1354,7 +1354,7 @@ Investigative Direction: Obtain the rental company, tow and resale records for t
 
 ---
 
-**C-11567** Host Says Danny Philip Started Full-Time in May After Graduating
+**C-11072** Host Says Danny Philip Started Full-Time in May After Graduating
 
 Claim Timestamp: 00:10:36
 
@@ -1364,13 +1364,13 @@ Transcript Snippet: New as in started working full-time in May after he graduate
 
 Anchored Artifacts: 
 Mentions: N-367, N-190, N-3
-Supports: C-5867
+Supports: C-10713
 Tags: relevance:core
 Investigative Direction: Check Philip's graduation date and TPUSA hiring paperwork or payroll start date.
 
 ---
 
-**C-11568** Host Says Mikey McCoy Rented Two SUVs in Salt Lake City, Blake Neff and Danny Philip in One
+**C-11074** Host Says Mikey McCoy Rented Two SUVs in Salt Lake City, Blake Neff and Danny Philip in One
 
 Claim Timestamp: 00:11:37
 
@@ -1381,13 +1381,13 @@ Transcript Snippet: So two SUVs were rented by Mikey McCoy in Salt Lake City.
 Anchored Artifacts: 
 Mentions: N-190, N-159, N-367, N-504, N-1
 Related Nodes: N-11061
-Supports: C-5862
+Supports: C-10705
 Tags: relevance:core
 Investigative Direction: Obtain the rental agreements for both SUVs and the passenger assignments for each leg of the day.
 
 ---
 
-**C-11569** Host Says Blake Neff Does Not Remember Where He and Danny Went in Salt Lake City
+**C-11075** Host Says Blake Neff Does Not Remember Where He and Danny Went in Salt Lake City
 
 Claim Timestamp: 00:11:37
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Ask Neff and Philip for their movements that morning an
 
 ---
 
-**C-11570** Host Believes Danny Philip Drove the Second SUV but Did Not Fact-Check It
+**C-11076** Host Believes Danny Philip Drove the Second SUV but Did Not Fact-Check It
 
 Claim Timestamp: 00:11:37
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Identify the source of the driver detail and check it a
 
 ---
 
-**C-11571** Host Says Danny and Blake Stood on Opposite Sides of the Tent When the Shot Rang Out
+**C-11077** Host Says Danny and Blake Stood on Opposite Sides of the Tent When the Shot Rang Out
 
 Claim Timestamp: 00:12:29
 
@@ -1433,7 +1433,7 @@ Investigative Direction: Verify each man's position against the stage footage an
 
 ---
 
-**C-11572** Host Says Mikey Immediately Phoned His Wife Elizabeth After the Shot
+**C-11078** Host Says Mikey Immediately Phoned His Wife Elizabeth After the Shot
 
 Claim Timestamp: 00:12:29
 
@@ -1444,13 +1444,13 @@ Transcript Snippet: Mikey, as we know, immediately presses his phone to his ear 
 Anchored Artifacts: A-2167.1
 Mentions: N-190, N-217, N-2
 Related Nodes: N-10338
-Supports: C-2294
+Supports: C-6107
 Tags: relevance:core
 Investigative Direction: Obtain authenticated call detail records for Mikey McCoy's phone for 12:23 to 12:35 Utah time.
 
 ---
 
-**C-11573** Host Recounts Erika's New York Times Account That Mikey Called Her Within Seconds of 11:23
+**C-11079** Host Recounts Erika's New York Times Account That Mikey Called Her Within Seconds of 11:23
 
 Claim Timestamp: 00:12:29
 
@@ -1466,7 +1466,7 @@ Investigative Direction: Obtain the New York Times interview text and compare it
 
 ---
 
-**C-11574** Host Says Months Later They Learned Mikey Called His Wife First and Erika Was Added 3 Minutes Later
+**C-11080** Host Says Months Later They Learned Mikey Called His Wife First and Erika Was Added 3 Minutes Later
 
 Claim Timestamp: 00:13:40
 
@@ -1477,13 +1477,13 @@ Transcript Snippet: Um then we found out months later that actually no, Mikey ca
 Anchored Artifacts: A-2167.1
 Mentions: N-190, N-217, N-2
 Related Nodes: N-10338, N-10742
-Supports: C-1933, C-2294
+Supports: C-4105, C-6107
 Tags: relevance:core
 Investigative Direction: Obtain the call detail record showing when the merge to Erika's number occurred.
 
 ---
 
-**C-11575** Host Says Blake and Mikey Were Back Together and Coordinating by 12:25
+**C-11081** Host Says Blake and Mikey Were Back Together and Coordinating by 12:25
 
 Claim Timestamp: 00:13:40
 
@@ -1499,7 +1499,7 @@ Investigative Direction: Obtain footage placing Neff and McCoy together at 12:25
 
 ---
 
-**C-11576** Neff Audio Says He Called His Mother Right After the Shooting
+**C-11083** Neff Audio Says He Called His Mother Right After the Shooting
 
 Claim Timestamp: 00:14:48
 
@@ -1515,7 +1515,7 @@ Investigative Direction: Obtain Neff's phone records for the call to his mother 
 
 ---
 
-**C-11577** Host Says Mikey's Call With Erika Lasted Less Than Two Minutes
+**C-11085** Host Says Mikey's Call With Erika Lasted Less Than Two Minutes
 
 Claim Timestamp: 00:15:44
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Verify the length of the Mikey-to-Erika call in the cal
 
 ---
 
-**C-11578** Host Says Erika Told Jesse Watters and the New York Times She Knew It
+**C-11086** Host Says Erika Told Jesse Watters and the New York Times She Knew It
 
 Claim Timestamp: 00:15:44
 
@@ -1547,7 +1547,7 @@ Investigative Direction: Check the Jesse Watters interview and the New York Time
 
 ---
 
-**C-11579** Host Says Danny Philip Called Mikey After Mikey Ended His Calls and They Stayed on for 10 Minutes
+**C-11087** Host Says Danny Philip Called Mikey After Mikey Ended His Calls and They Stayed on for 10 Minutes
 
 Claim Timestamp: 00:16:34
 
@@ -1563,7 +1563,7 @@ Investigative Direction: Obtain the call detail record showing which number plac
 
 ---
 
-**C-11580** Host Says Danny, Blake and Mikey Ran the Same Direction, Got Into the Same Car and Parked Next to Each Other
+**C-11089** Host Says Danny, Blake and Mikey Ran the Same Direction, Got Into the Same Car and Parked Next to Each Other
 
 Claim Timestamp: 00:17:26
 
@@ -1579,7 +1579,7 @@ Investigative Direction: Resolve which SUV each man entered using footage and st
 
 ---
 
-**C-11581** Host Floats That Justin Streiff and Erika Lied About Mikey Being on the Phone With Danny Philip
+**C-11090** Host Floats That Justin Streiff and Erika Lied About Mikey Being on the Phone With Danny Philip
 
 Claim Timestamp: 00:17:26
 
@@ -1595,7 +1595,7 @@ Investigative Direction: Identify what Streiff and Erika told the host about thi
 
 ---
 
-**C-11582** Host Says Blake Neff Put the Arrival at 25 Minutes Later and She Forgives It
+**C-11091** Host Says Blake Neff Put the Arrival at 25 Minutes Later and She Forgives It
 
 Claim Timestamp: 00:17:26
 
@@ -1606,13 +1606,13 @@ Transcript Snippet: Blake says they arrived 25 minutes later. I'm going to forgi
 Anchored Artifacts: A-2166.2
 Mentions: N-159
 Related Nodes: N-11208
-Supports: C-9560
+Supports: C-2379
 Tags: relevance:core
 Investigative Direction: Compare Neff's stated 25-minute estimate with the broadcast time stamp and the 911 and hospital arrival logs.
 
 ---
 
-**C-11583** Host Says the Live Feed Shows the Group Walking Casually and Not Shaken
+**C-11093** Host Says the Live Feed Shows the Group Walking Casually and Not Shaken
 
 Claim Timestamp: 00:18:17
 
@@ -1628,7 +1628,7 @@ Investigative Direction: Obtain the unedited newsroom feed and review the men's 
 
 ---
 
-**C-11584** Host Says Johnnie Moore Is Dropping Digital Assassin Articles Aimed at Her
+**C-11094** Host Says Johnnie Moore Is Dropping Digital Assassin Articles Aimed at Her
 
 Claim Timestamp: 00:21:05
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Identify the specific digital assassin articles the hos
 
 ---
 
-**C-11585** Host Says Erika Calls People's Priests
+**C-11095** Host Says Erika Calls People's Priests
 
 Claim Timestamp: 00:22:00
 
@@ -1655,13 +1655,13 @@ Transcript Snippet: She's nasty behind the scenes. She calls people's priests.
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10956
-Supports: C-4394
+Supports: C-9778
 Tags: relevance:core
 Investigative Direction: Identify the priests contacted and obtain their accounts of the calls.
 
 ---
 
-**C-11586** Host Says Erika Took Credit for Having Matt Walsh Cancel an In-Person Catholics for Catholics Appearance
+**C-11096** Host Says Erika Took Credit for Having Matt Walsh Cancel an In-Person Catholics for Catholics Appearance
 
 Claim Timestamp: 00:22:00
 
@@ -1677,7 +1677,7 @@ Investigative Direction: Ask Catholics for Catholics organizers and Walsh's team
 
 ---
 
-**C-11587** Host Says Walsh Turned His Appearance Into a Video Message Because Erika Was Upset
+**C-11097** Host Says Walsh Turned His Appearance Into a Video Message Because Erika Was Upset
 
 Claim Timestamp: 00:22:49
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Obtain the event program showing Walsh's original and f
 
 ---
 
-**C-11588** Host Says the White House Was Making Phone Calls Because Erika Does Not Like Her
+**C-11098** Host Says the White House Was Making Phone Calls Because Erika Does Not Like Her
 
 Claim Timestamp: 00:22:49
 
@@ -1709,7 +1709,7 @@ Investigative Direction: Ask the event organizers and recipients of calls who ca
 
 ---
 
-**C-11589** Host Says Erika Called the Catholics for Catholics Event a Woke Reich Event
+**C-11099** Host Says Erika Called the Catholics for Catholics Event a Woke Reich Event
 
 Claim Timestamp: 00:22:49
 
@@ -1725,7 +1725,7 @@ Investigative Direction: Identify the people Erika told and obtain their account
 
 ---
 
-**C-11590** Host Says She First Heard 'Woke Reich' From Netanyahu and Charlie Never Used It
+**C-11100** Host Says She First Heard 'Woke Reich' From Netanyahu and Charlie Never Used It
 
 Claim Timestamp: 00:23:37
 
@@ -1741,7 +1741,7 @@ Investigative Direction: Find the recording or witnesses of Netanyahu using the 
 
 ---
 
-**C-11591** Host Says Erika Has Directed the Attacks Against Her With Kolvet Since the Beginning
+**C-11101** Host Says Erika Has Directed the Attacks Against Her With Kolvet Since the Beginning
 
 Claim Timestamp: 00:23:37
 
@@ -1757,7 +1757,7 @@ Investigative Direction: Obtain messages or accounts from people who received di
 
 ---
 
-**C-11592** Host Says TPUSA Now Makes Personal and Public Calls to Her Advertisers to Be Dropped
+**C-11102** Host Says TPUSA Now Makes Personal and Public Calls to Her Advertisers to Be Dropped
 
 Claim Timestamp: 00:24:33
 
@@ -1773,7 +1773,7 @@ Investigative Direction: Identify advertisers who received calls and the TPUSA p
 
 ---
 
-**C-11593** Host Says She Has Never Called Influencers or Asked People to Skip TPUSA Events
+**C-11103** Host Says She Has Never Called Influencers or Asked People to Skip TPUSA Events
 
 Claim Timestamp: 00:24:33
 
@@ -1789,7 +1789,7 @@ Investigative Direction: This is a denial that could only be tested through the 
 
 ---
 
-**C-11594** Host Says TPUSA Gave the Daily Mail Special Access to the Unedited Aspen Clip the Public Has Not Seen
+**C-11105** Host Says TPUSA Gave the Daily Mail Special Access to the Unedited Aspen Clip the Public Has Not Seen
 
 Claim Timestamp: 00:27:02
 
@@ -1800,13 +1800,13 @@ Transcript Snippet: They gave them special access to see the unedited clip that 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10070, N-10664, N-10936
-Supports: C-4183
+Supports: C-9330
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail's Aspen article and ask the reporter and TPUSA how and when the clip was shown.
 
 ---
 
-**C-11595** Host Says the Daily Mail Journalist Told the World Charlie Picked Erika to Run the Company
+**C-11106** Host Says the Daily Mail Journalist Told the World Charlie Picked Erika to Run the Company
 
 Claim Timestamp: 00:27:02
 
@@ -1822,7 +1822,7 @@ Investigative Direction: Compare the Daily Mail's description with the audio, th
 
 ---
 
-**C-11596** Host Says the Article Lists a Family Friend as Source Initially and Elsewhere a Family Member
+**C-11108** Host Says the Article Lists a Family Friend as Source Initially and Elsewhere a Family Member
 
 Claim Timestamp: 00:27:48
 
@@ -1837,7 +1837,7 @@ Investigative Direction: Compare each attribution in the article text to determi
 
 ---
 
-**C-11597** Host Guesses the Family Friend Is Tracy Martin
+**C-11109** Host Guesses the Family Friend Is Tracy Martin
 
 Claim Timestamp: 00:27:48
 
@@ -1853,7 +1853,7 @@ Investigative Direction: Treat as the host's speculation; ask the Daily Mail rep
 
 ---
 
-**C-11598** Daily Mail Says Court Was the First Time Erika Faced Tyler Robinson, Per Two Sources
+**C-11111** Daily Mail Says Court Was the First Time Erika Faced Tyler Robinson, Per Two Sources
 
 Claim Timestamp: 00:28:34
 
@@ -1869,7 +1869,7 @@ Investigative Direction: Check court records and courtroom reporting for the dat
 
 ---
 
-**C-11599** Host Says She Has Seen No Convincing Evidence Tyler Robinson Committed the Crime
+**C-11112** Host Says She Has Seen No Convincing Evidence Tyler Robinson Committed the Crime
 
 Claim Timestamp: 00:29:33
 
@@ -1885,7 +1885,7 @@ Investigative Direction: Compare against the evidence disclosed at the prelimina
 
 ---
 
-**C-11600** Host Says Erika Told Bari Weiss She Was Certain Robinson Killed Her Husband
+**C-11113** Host Says Erika Told Bari Weiss She Was Certain Robinson Killed Her Husband
 
 Claim Timestamp: 00:31:57
 
@@ -1901,7 +1901,7 @@ Investigative Direction: Check the CBS town hall transcript for Erika's statemen
 
 ---
 
-**C-11601** Daily Mail Quotes a Family Member Saying the Bridge Between Erika and Candace Is Blown Up
+**C-11114** Daily Mail Quotes a Family Member Saying the Bridge Between Erika and Candace Is Blown Up
 
 Claim Timestamp: 00:31:57
 
@@ -1917,7 +1917,7 @@ Investigative Direction: Verify the quotation in the original Daily Mail article
 
 ---
 
-**C-11602** Daily Mail Quotes the Family Member Saying Candace Made This Her Identity for Attention and Money
+**C-11115** Daily Mail Quotes the Family Member Saying Candace Made This Her Identity for Attention and Money
 
 Claim Timestamp: 00:31:57
 
@@ -1933,7 +1933,7 @@ Investigative Direction: Verify the quotation in the original Daily Mail article
 
 ---
 
-**C-11603** Host Says Erika Filed Three Trademarks Three Weeks After the Assassination
+**C-11116** Host Says Erika Filed Three Trademarks Three Weeks After the Assassination
 
 Claim Timestamp: 00:32:48
 
@@ -1944,13 +1944,13 @@ Transcript Snippet: It took just 3 weeks after Charlie's assassination for Erika
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-11014
-Supports: C-4588
+Supports: C-9973
 Tags: relevance:core
 Investigative Direction: Search USPTO records for trademark applications by Erika Kirk with filing dates in late September 2025.
 
 ---
 
-**C-11604** Host Says Freedom Shirt Profits Went to Charlie Kirk Show LLC Not the Charitable Arm
+**C-11117** Host Says Freedom Shirt Profits Went to Charlie Kirk Show LLC Not the Charitable Arm
 
 Claim Timestamp: 00:32:48
 
@@ -1966,7 +1966,7 @@ Investigative Direction: Obtain the seller of record for the shirts, the LLC's a
 
 ---
 
-**C-11605** Host Says Charlie Once Told Her Kolvet Owned a Piece of the Charlie Kirk Show Company
+**C-11118** Host Says Charlie Once Told Her Kolvet Owned a Piece of the Charlie Kirk Show Company
 
 Claim Timestamp: 00:33:38
 
@@ -1982,7 +1982,7 @@ Investigative Direction: Check Utah and Arizona business filings for the LLC's m
 
 ---
 
-**C-11606** Daily Mail Quotes Erika as Offended Candace Would Use Her Husband's Death to Make a Buck
+**C-11119** Daily Mail Quotes Erika as Offended Candace Would Use Her Husband's Death to Make a Buck
 
 Claim Timestamp: 00:33:38
 
@@ -1998,7 +1998,7 @@ Investigative Direction: Verify the quotation in the original Daily Mail article
 
 ---
 
-**C-11607** Host Says She Was Already Being Sued by the President of France
+**C-11120** Host Says She Was Already Being Sued by the President of France
 
 Claim Timestamp: 00:33:38
 
@@ -2009,13 +2009,13 @@ Transcript Snippet: I was already being sued by the president of France.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10270
-Supports: C-7885
+Supports: C-1296
 Tags: relevance:context
 Investigative Direction: Check the Delaware court docket for the Macron filing date against September 2025.
 
 ---
 
-**C-11608** Host Says Her Ad Agreements Were Signed Through Q1 and No Advertisers or Rates Were Added After Charlie Died
+**C-11121** Host Says Her Ad Agreements Were Signed Through Q1 and No Advertisers or Rates Were Added After Charlie Died
 
 Claim Timestamp: 00:34:47
 
@@ -2030,7 +2030,7 @@ Investigative Direction: Only the host's ad contracts could confirm this; the cl
 
 ---
 
-**C-11609** Host Says Her Show Sold Nothing With Charlie's Face After His Death
+**C-11122** Host Says Her Show Sold Nothing With Charlie's Face After His Death
 
 Claim Timestamp: 00:35:29
 
@@ -2046,7 +2046,7 @@ Investigative Direction: Check the show's merchandise store archive for the peri
 
 ---
 
-**C-11610** Host Says Her Tribute Episode, Her Biggest by Views, Carried Zero Ads
+**C-11123** Host Says Her Tribute Episode, Her Biggest by Views, Carried Zero Ads
 
 Claim Timestamp: 00:35:29
 
@@ -2056,13 +2056,13 @@ Transcript Snippet: our biggest episode by views ever, we sold um and consequent
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Supports: C-9631
+Supports: C-2470
 Tags: relevance:context
 Investigative Direction: Watch the tribute episode for ad reads and check platform ad insertion records.
 
 ---
 
-**C-11611** Host Says Her Show Was Already Top 10 Globally Above the Charlie Kirk Podcast and Averages Over a Million Views
+**C-11124** Host Says Her Show Was Already Top 10 Globally Above the Charlie Kirk Podcast and Averages Over a Million Views
 
 Claim Timestamp: 00:35:29
 
@@ -2078,7 +2078,7 @@ Investigative Direction: Check podcast chart history for August 2025 and YouTube
 
 ---
 
-**C-11612** Host Says Erika Began Doing Pageants at About Age 12
+**C-11126** Host Says Erika Began Doing Pageants at About Age 12
 
 Claim Timestamp: 00:38:14
 
@@ -2093,7 +2093,7 @@ Investigative Direction: Check Erika's pageant history records and the earlier e
 
 ---
 
-**C-11613** Host Says Erika Walked Out in a White Pantsuit With Sparklers at the Memorial
+**C-11127** Host Says Erika Walked Out in a White Pantsuit With Sparklers at the Memorial
 
 Claim Timestamp: 00:38:14
 
@@ -2108,7 +2108,7 @@ Investigative Direction: Review memorial footage and photographs for Erika's ent
 
 ---
 
-**C-11614** Host Says Erika and Others Clinked Glasses and Celebrated at a Restaurant After the Memorial
+**C-11128** Host Says Erika and Others Clinked Glasses and Celebrated at a Restaurant After the Memorial
 
 Claim Timestamp: 00:38:14
 
@@ -2123,7 +2123,7 @@ Investigative Direction: Locate the photographs and dated reports of the post-me
 
 ---
 
-**C-11615** Host Says Erika Said on a Zoom Call That 50,000 Shirts Sold Into the LLC
+**C-11129** Host Says Erika Said on a Zoom Call That 50,000 Shirts Sold Into the LLC
 
 Claim Timestamp: 00:39:02
 
@@ -2139,7 +2139,7 @@ Investigative Direction: Identify the Zoom call, its date and attendees, and obt
 
 ---
 
-**C-11616** Host Says the Same Influencers Began Raising Sandy Hook as Soon as the Tyler Robinson Trial Began
+**C-11132** Host Says the Same Influencers Began Raising Sandy Hook as Soon as the Tyler Robinson Trial Began
 
 Claim Timestamp: 00:42:49
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Build a dated list of influencer posts invoking Sandy H
 
 ---
 
-**C-11617** Blake Neff Audio Says the Host Targets Erika, Turning Point and Their Family Members for a Theory With Nothing Behind It
+**C-11135** Blake Neff Audio Says the Host Targets Erika, Turning Point and Their Family Members for a Theory With Nothing Behind It
 
 Claim Timestamp: 00:45:35
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Obtain the full Twitter Space recording and its date an
 
 ---
 
-**C-11618** Host Says They Are Putting People on Their Show to Say Erika Is Like the Sandy Hook Parents
+**C-11136** Host Says They Are Putting People on Their Show to Say Erika Is Like the Sandy Hook Parents
 
 Claim Timestamp: 00:47:17
 
@@ -2187,7 +2187,7 @@ Investigative Direction: Identify the guests and broadcasts that made the Erika-
 
 ---
 
-**C-11619** Host Says Alex Jones Has Apologized and Called What He Said Wrong
+**C-11137** Host Says Alex Jones Has Apologized and Called What He Said Wrong
 
 Claim Timestamp: 00:47:17
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Find Jones's public apology statements and dates.
 
 ---
 
-**C-11620** Host Says Alex Jones Was Sued for Emotional Harassment and Lost $1.4 Billion
+**C-11138** Host Says Alex Jones Was Sued for Emotional Harassment and Lost $1.4 Billion
 
 Claim Timestamp: 00:47:17
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Check the Connecticut and Texas judgments against the $
 
 ---
 
-**C-11621** Viva Frei Says Exploding Microphones and Israel Did It Theories Are Unsubstantiated
+**C-11140** Viva Frei Says Exploding Microphones and Israel Did It Theories Are Unsubstantiated
 
 Claim Timestamp: 00:48:42
 
@@ -2235,7 +2235,7 @@ Investigative Direction: Obtain the full Charlie Kirk Show segment with its date
 
 ---
 
-**C-11622** Viva Frei Concedes Issues With the Prosecution, Investigation and Evidence
+**C-11141** Viva Frei Concedes Issues With the Prosecution, Investigation and Evidence
 
 Claim Timestamp: 00:48:42
 
@@ -2251,7 +2251,7 @@ Investigative Direction: Obtain the segment and the specific issues Viva Frei re
 
 ---
 
-**C-11623** Kirk Audio Says a Judge Tossed Maddow's OAN Claim Under Free Speech Provisions
+**C-11143** Kirk Audio Says a Judge Tossed Maddow's OAN Claim Under Free Speech Provisions
 
 Claim Timestamp: 00:51:27
 
@@ -2267,7 +2267,7 @@ Investigative Direction: Check the OAN v. Maddow ruling and its date and grounds
 
 ---
 
-**C-11624** Kirk Audio Says Commentators Silent on Alex Jones Is Very Telling
+**C-11144** Kirk Audio Says Commentators Silent on Alex Jones Is Very Telling
 
 Claim Timestamp: 00:52:17
 
@@ -2283,7 +2283,7 @@ Investigative Direction: Obtain the full broadcast with its date to confirm the 
 
 ---
 
-**C-11625** Kirk Audio Cites Sandy Hook Families' Lawyers Saying the Verdict Would Signal to Conspiracy Purveyors
+**C-11145** Kirk Audio Cites Sandy Hook Families' Lawyers Saying the Verdict Would Signal to Conspiracy Purveyors
 
 Claim Timestamp: 00:52:17
 
@@ -2299,7 +2299,7 @@ Investigative Direction: Find the original New York Times article quoted by Kirk
 
 ---
 
-**C-11626** Kirk Tweet Says Lawyers Are Trying to Seize Jones's Personal Social Media Accounts in Bankruptcy
+**C-11147** Kirk Tweet Says Lawyers Are Trying to Seize Jones's Personal Social Media Accounts in Bankruptcy
 
 Claim Timestamp: 00:54:20
 
@@ -2315,7 +2315,7 @@ Investigative Direction: Confirm the post on Kirk's X account and its date, and 
 
 ---
 
-**C-11627** Viewer Comment Says a 1993 Documentary Conspiracy of Silence Was Pulled From Discovery Channel
+**C-11148** Viewer Comment Says a 1993 Documentary Conspiracy of Silence Was Pulled From Discovery Channel
 
 Claim Timestamp: 00:57:02
 
@@ -2329,7 +2329,7 @@ Investigative Direction: Check broadcast histories for the documentary's schedul
 
 ---
 
-**C-11628** Host Says Black Magic Is Extraordinarily Real and Hollywood Made People Think It Was Hocus Pocus
+**C-11149** Host Says Black Magic Is Extraordinarily Real and Hollywood Made People Think It Was Hocus Pocus
 
 Claim Timestamp: 00:57:02
 
@@ -2344,7 +2344,7 @@ Investigative Direction: Not independently checkable; recorded as an assertion b
 
 ---
 
-**C-11629** Host Reads a Tweet Counting 591 Laura Loomer Posts About Her
+**C-11150** Host Reads a Tweet Counting 591 Laura Loomer Posts About Her
 
 Claim Timestamp: 00:59:46
 
@@ -2359,7 +2359,7 @@ Investigative Direction: Count Loomer's posts mentioning the host over a defined
 
 ---
 
-**C-11630** Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Brian Harpole
+**C-11151** Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Brian Harpole
 
 Claim Timestamp: 00:59:46
 
@@ -2375,7 +2375,7 @@ Investigative Direction: Check the docket of the Harpole filing for counsel of r
 
 ---
 
-**C-11631** Host Says She Has Had to Increase Her Security Because of Death Threats
+**C-11152** Host Says She Has Had to Increase Her Security Because of Death Threats
 
 Claim Timestamp: 01:00:38
 
@@ -2390,7 +2390,7 @@ Investigative Direction: Only the host's security arrangements and any police re
 
 ---
 
-**C-11632** Host Says Hospital Staff Told Her Their Computers Were Shut Down for Six Hours
+**C-11154** Host Says Hospital Staff Told Her Their Computers Were Shut Down for Six Hours
 
 Claim Timestamp: 01:02:06
 
@@ -2406,7 +2406,7 @@ Investigative Direction: Ask the hospital and its IT provider for network or out
 
 ---
 
-**C-11633** Host Asks for Tips and More Photos From Timpanogos and Offers to Accept Federal Whistleblowers
+**C-11155** Host Asks for Tips and More Photos From Timpanogos and Offers to Accept Federal Whistleblowers
 
 Claim Timestamp: 01:02:06
 
@@ -2422,7 +2422,7 @@ Investigative Direction: Review the tip inbox for submissions about Timpanogos p
 
 ---
 
-**C-11634** Host Asks Turning Point Employees to Reach Out With What They Are Hearing
+**C-11156** Host Asks Turning Point Employees to Reach Out With What They Are Hearing
 
 Claim Timestamp: 01:02:06
 

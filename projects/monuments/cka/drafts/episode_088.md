@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep088): N-10594, N-10710, N-10729
   - Tip-minted Nodes (reintro-ep088): N-10936, N-11135
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8563–C-8634
+  - Claim Range: C-7866–C-7952
   - New Nodes Introduced: N-10583, N-10584, N-10585, N-10586
   - Reused Nodes Appearing: N-411, N-10582, N-9, N-15, N-36, N-40, N-47, N-69, N-186, N-190, N-217, N-237, N-330, N-361, N-410, N-484, N-485, N-489, N-10000, N-10006, N-10015, N-10023, N-10324, N-10338, N-10339, N-10340, N-10365, N-10431, N-10437, N-10471, N-10478, N-10479, N-10483, N-10516, N-10539, N-10573, N-10578, N-10649, N-10661, N-10664, N-10898, N-10905, N-10968, N-11129, N-418, N-10711, N-10975, N-11092, N-10620, N-11142
   - (see registers)
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2654, N-10585*
+*Related: C-7871, N-10585*
 
 **A-1927.2** Reference attributing Navy O-6 reserve status to Ahmed Qureshi (via Baron Coleman)
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2655, N-10585*
+*Related: C-7866, N-10585*
 
 **A-1927.3** Mitch Snow observation of a meeting concluding at Fort Huachuca the day before the event, with multiple O-6s present
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:01:20–00:03:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2655, N-10585*
+*Related: C-7866, N-10585*
 
 ---
 
@@ -86,7 +86,7 @@ Video Timestamp: 00:11:54–00:12:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (host flags potential editing)
 
-*Related: C-2656, C-2657, C-2668, N-1, N-2, N-10583, N-10584*
+*Related: C-7883, C-7880, C-7885, N-1, N-2, N-10583, N-10584*
 
 **A-1928.2** TPUSA's use of audio-only (no video) version as Erika's walkout music at AmFest
 
@@ -96,7 +96,7 @@ Video Timestamp: 00:11:11–00:11:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video played; audio presented)
 
-*Related: C-2656, N-2, N-10583*
+*Related: C-7883, N-2, N-10583*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:08:58–00:10:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2657, N-2, N-10583, N-10584*
+*Related: C-7880, N-2, N-10583, N-10584*
 
 ---
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:35:35–00:35:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2658, N-2, N-10582*
+*Related: C-7906, N-2, N-10582*
 
 ---
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:36:46–00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio); host flags jump cut
 
-*Related: C-2659, C-2667, N-2, N-10582*
+*Related: C-7908, C-7917, N-2, N-10582*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:16:55–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2661, N-2, N-10583*
+*Related: C-7889, N-2, N-10583*
 
 **A-1932.2** Blake Neff speech at Arizona State University defending Erika's CEO role and insisting Charlie repeatedly said "Erika will take over for me"
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:14:16–00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2660, N-2, N-10583*
+*Related: C-7887, N-2, N-10583*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:25:06–00:28:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2662, N-2, N-10582*
+*Related: C-7899, N-2, N-10582*
 
 ---
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:34:02–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not displayed)
 
-*Related: C-2663, N-2, N-10582*
+*Related: C-7903, N-2, N-10582*
 
 ---
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:44:55–00:46:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2664, C-2665, N-10586*
+*Related: C-7926, C-7927, N-10586*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:19:47–00:20:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2666, N-2, N-10583*
+*Related: C-7896, N-2, N-10583*
 
 ---
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:06:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8572, N-3*
+*Related: C-7877, N-3*
 
 ---
 
@@ -284,7 +284,7 @@ Video Timestamp: 00:35:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8592, N-3*
+*Related: C-7905, N-3*
 
 ---
 
@@ -297,7 +297,7 @@ Video Timestamp: 00:39:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8598, N-3*
+*Related: C-7913, N-3*
 
 ---
 
@@ -312,7 +312,7 @@ Video Timestamp: 00:39:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8599, N-3*
+*Related: C-7914, N-3*
 
 ---
 
@@ -325,7 +325,7 @@ Video Timestamp: 00:39:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8600, C-8601, C-8602, C-8603, C-8604, N-3*
+*Related: C-7915, C-7916, C-7918, C-7919, C-7920, N-3*
 
 ---
 
@@ -340,7 +340,7 @@ Video Timestamp: 00:43:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8609, N-3*
+*Related: C-7925, N-3*
 
 ---
 
@@ -353,7 +353,7 @@ Video Timestamp: 00:52:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8625, C-8626, C-8627, N-3*
+*Related: C-7943, C-7944, C-7945, N-3*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:59:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8633, N-3*
+*Related: C-7951, N-3*
 
 ---
 
@@ -378,7 +378,7 @@ Confidence Level: High
 
 Subject of the assassination; the host reports what he said about women as CEOs, the night-before fear and the Aspen succession statement.
 
-*Related: C-8567, C-8568, C-8570, C-8571, C-8572, C-8573, C-8574, C-8576, C-8577, C-8578, C-8579, C-8585, C-8586, C-8587, C-8592, C-8620, C-8621, C-8625, C-8626, C-8627, C-8628, C-8629, C-8630, C-8631*
+*Related: C-7872, C-7873, C-7875, C-7876, C-7877, C-7878, C-7879, C-7882, C-7884, C-7886, C-7888, C-7895, C-7897, C-7898, C-7905, C-7938, C-7939, C-7943, C-7944, C-7945, C-7946, C-7947, C-7948, C-7949*
 
 ---
 
@@ -386,7 +386,7 @@ Subject of the assassination; the host reports what he said about women as CEOs,
 
 Widow and TPUSA CEO; the host questions her Sept 10 whereabouts, her childhood account and the Aspen succession statement.
 
-*Related: C-8569, C-8570, C-8571, C-8572, C-8573, C-8574, C-8575, C-8576, C-8577, C-8578, C-8579, C-8587, C-8588, C-8589, C-8590, C-8591, C-8592, C-8593, C-8594, C-8595, C-8596, C-8597, C-8598, C-8599, C-8600, C-8601, C-8602, C-8603, C-8604, C-8605, C-8607, C-8608, C-8609, C-8623, C-8626, C-8627, C-8632, C-8633*
+*Related: C-7874, C-7875, C-7876, C-7877, C-7878, C-7879, C-7881, C-7882, C-7884, C-7886, C-7888, C-7898, C-7900, C-7901, C-7902, C-7904, C-7905, C-7907, C-7909, C-7910, C-7911, C-7912, C-7913, C-7914, C-7915, C-7916, C-7918, C-7919, C-7920, C-7921, C-7923, C-7924, C-7925, C-7941, C-7944, C-7945, C-7950, C-7951*
 
 ---
 
@@ -394,7 +394,7 @@ Widow and TPUSA CEO; the host questions her Sept 10 whereabouts, her childhood a
 
 Host; speaks for herself throughout.
 
-*Related: C-8563, C-8564, C-8565, C-8566, C-8567, C-8568, C-8569, C-8570, C-8571, C-8572, C-8573, C-8574, C-8575, C-8576, C-8577, C-8578, C-8579, C-8580, C-8581, C-8582, C-8583, C-8584, C-8585, C-8586, C-8587, C-8588, C-8589, C-8590, C-8591, C-8592, C-8593, C-8595, C-8596, C-8597, C-8598, C-8599, C-8600, C-8601, C-8602, C-8603, C-8604, C-8605, C-8606, C-8607, C-8608, C-8609, C-8612, C-8613, C-8614, C-8615, C-8616, C-8617, C-8618, C-8619, C-8620, C-8621, C-8622, C-8623, C-8624, C-8625, C-8626, C-8627, C-8628, C-8629, C-8630, C-8631, C-8632, C-8633, C-8634*
+*Related: C-7867, C-7868, C-7869, C-7870, C-7872, C-7873, C-7874, C-7875, C-7876, C-7877, C-7878, C-7879, C-7881, C-7882, C-7884, C-7886, C-7888, C-7890, C-7891, C-7892, C-7893, C-7894, C-7895, C-7897, C-7898, C-7900, C-7901, C-7902, C-7904, C-7905, C-7907, C-7910, C-7911, C-7912, C-7913, C-7914, C-7915, C-7916, C-7918, C-7919, C-7920, C-7921, C-7922, C-7923, C-7924, C-7925, C-7930, C-7931, C-7932, C-7933, C-7934, C-7935, C-7936, C-7937, C-7938, C-7939, C-7940, C-7941, C-7942, C-7943, C-7944, C-7945, C-7946, C-7947, C-7948, C-7949, C-7950, C-7951, C-7952*
 
 ---
 
@@ -402,7 +402,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; issued the statement firing Pam Bondi and is named in the host's Swalwell and speechwriter claims.
 
-*Related: C-8610, C-8611, C-8612, C-8617, C-8625, C-8626*
+*Related: C-7928, C-7929, C-7930, C-7935, C-7943, C-7944*
 
 ---
 
@@ -410,14 +410,14 @@ Donald Trump; issued the statement firing Pam Bondi and is named in the host's S
 
 Jeffrey Epstein; the host discusses the December 23 release, the deepfake video and her claim that he is alive.
 
-*Related: C-8612, C-8613, C-8614, C-8615*
+*Related: C-7930, C-7931, C-7932, C-7933*
 
 ---
 
 **N-15** Justin Streiff
 Justin Streiff, TPUSA COO; the host says she expected him to run things behind the scenes.
 
-*Related: C-8571*
+*Related: C-7876*
 
 ---
 
@@ -425,7 +425,7 @@ Justin Streiff, TPUSA COO; the host says she expected him to run things behind t
 
 Benjamin Netanyahu; the host mocks his first-to-tweet and Fox denial.
 
-*Related: C-8567, C-8568*
+*Related: C-7872, C-7873*
 
 ---
 
@@ -433,7 +433,7 @@ Benjamin Netanyahu; the host mocks his first-to-tweet and Fox denial.
 
 Tyler Robinson; accused; the host disputes DNA and firing claims about the rifle.
 
-*Related: C-8581, C-8583, C-8584*
+*Related: C-7891, C-7893, C-7894*
 
 ---
 
@@ -441,7 +441,7 @@ Tyler Robinson; accused; the host disputes DNA and firing claims about the rifle
 
 Ghislaine Maxwell; named in the host's New York Post remark.
 
-*Related: C-8616*
+*Related: C-7934*
 
 ---
 
@@ -449,7 +449,7 @@ Ghislaine Maxwell; named in the host's New York Post remark.
 
 Kash Patel; FBI director; named for the detention pause, number 33 and the Epstein files.
 
-*Related: C-8563, C-8582, C-8612, C-8613*
+*Related: C-7867, C-7892, C-7930, C-7931*
 
 ---
 
@@ -457,7 +457,7 @@ Kash Patel; FBI director; named for the detention pause, number 33 and the Epste
 
 Pam Bondi; dismissed as Attorney General.
 
-*Related: C-8610, C-8611, C-8612, C-8617*
+*Related: C-7928, C-7929, C-7930, C-7935*
 
 ---
 
@@ -465,7 +465,7 @@ Pam Bondi; dismissed as Attorney General.
 
 Blake Neff; TPUSA figure whose X reply and ASU remarks the host discusses.
 
-*Related: C-8579, C-8580, C-8581, C-8588*
+*Related: C-7888, C-7890, C-7891, C-7900*
 
 ---
 
@@ -473,7 +473,7 @@ Blake Neff; TPUSA figure whose X reply and ASU remarks the host discusses.
 
 Stacy Sheridan; the host speculates she or someone asked for the Charlie loved Erika line.
 
-*Related: C-8627*
+*Related: C-7945*
 
 ---
 
@@ -481,7 +481,7 @@ Stacy Sheridan; the host speculates she or someone asked for the Charlie loved E
 
 Mikey McCoy (Michael McCoy); Charlie's aide whose calls on September 10 the host and Erika describe.
 
-*Related: C-8588, C-8593, C-8594, C-8623, C-8624*
+*Related: C-7900, C-7907, C-7909, C-7941, C-7942*
 
 ---
 
@@ -489,7 +489,7 @@ Mikey McCoy (Michael McCoy); Charlie's aide whose calls on September 10 the host
 
 Jesse Watters; interviewer in the Erika clip.
 
-*Related: C-8594, C-8595, C-8596*
+*Related: C-7909, C-7910, C-7911*
 
 ---
 
@@ -497,7 +497,7 @@ Jesse Watters; interviewer in the Erika clip.
 
 Elizabeth McCoy; Mikey McCoy's wife, whom he called first per the host.
 
-*Related: C-8623, C-8624*
+*Related: C-7941, C-7942*
 
 ---
 
@@ -505,7 +505,7 @@ Elizabeth McCoy; Mikey McCoy's wife, whom he called first per the host.
 
 Glenn Beck; interviewer to whom Erika said she had Charlie's phone.
 
-*Related: C-8570*
+*Related: C-7875*
 
 ---
 
@@ -513,7 +513,7 @@ Glenn Beck; interviewer to whom Erika said she had Charlie's phone.
 
 Baron Coleman; credited by the host for the O-6 reveal.
 
-*Related: C-8564*
+*Related: C-7868*
 
 ---
 
@@ -521,7 +521,7 @@ Baron Coleman; credited by the host for the O-6 reveal.
 
 Mitch Snow; eyewitness who saw a meeting end at Fort Huachuca.
 
-*Related: C-8565*
+*Related: C-7869*
 
 ---
 
@@ -529,7 +529,7 @@ Mitch Snow; eyewitness who saw a meeting end at Fort Huachuca.
 
 Zachariah Qureshi (Qureshi); detained decoy boy number two.
 
-*Related: C-8563, C-8564*
+*Related: C-7867, C-7868*
 
 ---
 
@@ -537,7 +537,7 @@ Zachariah Qureshi (Qureshi); detained decoy boy number two.
 
 Ahmed Qureshi (Ahmed Qureshi); father of Zachariah and co-founder of the Built app.
 
-*Related: C-8564, C-8566*
+*Related: C-7868, C-7870*
 
 ---
 
@@ -545,7 +545,7 @@ Ahmed Qureshi (Ahmed Qureshi); father of Zachariah and co-founder of the Built a
 
 Blake Lively; party in the lawsuit against Justin Baldoni.
 
-*Related: C-8634*
+*Related: C-7952*
 
 ---
 
@@ -553,7 +553,7 @@ Blake Lively; party in the lawsuit against Justin Baldoni.
 
 Justin Baldoni; defendant in the Lively lawsuit.
 
-*Related: C-8634*
+*Related: C-7952*
 
 ---
 
@@ -561,7 +561,7 @@ Justin Baldoni; defendant in the Lively lawsuit.
 
 Lori Frantzve, Erika Kirk's mother; subject of the host's whereabouts investigation.
 
-*Related: C-8598, C-8603, C-8605, C-8607, C-8632*
+*Related: C-7913, C-7919, C-7921, C-7923, C-7950*
 
 ---
 
@@ -569,7 +569,7 @@ Lori Frantzve, Erika Kirk's mother; subject of the host's whereabouts investigat
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8585, C-8606*
+*Related: C-7895, C-7922*
 
 ---
 
@@ -577,7 +577,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8568*
+*Related: C-7873*
 
 ---
 
@@ -585,7 +585,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8616*
+*Related: C-7934*
 
 ---
 
@@ -593,7 +593,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8615*
+*Related: C-7933*
 
 ---
 
@@ -601,7 +601,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8612, C-8613, C-8614*
+*Related: C-7930, C-7931, C-7932*
 
 ---
 
@@ -609,7 +609,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8594, C-8623*
+*Related: C-7909, C-7941*
 
 ---
 
@@ -617,7 +617,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8624*
+*Related: C-7942*
 
 ---
 
@@ -625,7 +625,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8570, C-8629*
+*Related: C-7875, C-7947*
 
 ---
 
@@ -633,7 +633,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8565*
+*Related: C-7869*
 
 ---
 
@@ -641,7 +641,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8576, C-8586*
+*Related: C-7882, C-7897*
 
 ---
 
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8630, C-8631*
+*Related: C-7948, C-7949*
 
 ---
 
@@ -657,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8595, C-8607*
+*Related: C-7910, C-7923*
 
 ---
 
@@ -665,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8597*
+*Related: C-7912*
 
 ---
 
@@ -673,7 +673,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8591*
+*Related: C-7904*
 
 ---
 
@@ -681,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8589, C-8591, C-8598*
+*Related: C-7901, C-7904, C-7913*
 
 ---
 
@@ -689,7 +689,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8575*
+*Related: C-7881*
 
 ---
 
@@ -697,7 +697,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8585*
+*Related: C-7895*
 
 ---
 
@@ -705,7 +705,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8566*
+*Related: C-7870*
 
 ---
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8563*
+*Related: C-7867*
 
 ---
 
@@ -721,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8586*
+*Related: C-7897*
 
 ---
 
@@ -729,7 +729,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8584, C-8619, C-8620*
+*Related: C-7894, C-7937, C-7938*
 
 ---
 
@@ -737,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8569*
+*Related: C-7874*
 
 ---
 
@@ -745,7 +745,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8634*
+*Related: C-7952*
 
 ---
 
@@ -753,7 +753,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8573, C-8577*
+*Related: C-7878, C-7884*
 
 ---
 
@@ -761,7 +761,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8621*
+*Related: C-7939*
 
 ---
 
@@ -769,7 +769,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8581, C-8583*
+*Related: C-7891, C-7893*
 
 ---
 
@@ -777,7 +777,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8588*
+*Related: C-7900*
 
 ---
 
@@ -785,7 +785,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8616*
+*Related: C-7934*
 
 ---
 
@@ -793,7 +793,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8592, C-8593*
+*Related: C-7905, C-7907*
 
 ---
 
@@ -801,7 +801,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8572, C-8573, C-8579, C-8580*
+*Related: C-7877, C-7878, C-7888, C-7890*
 
 ---
 
@@ -809,7 +809,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8592, C-8593*
+*Related: C-7905, C-7907*
 
 ---
 
@@ -817,7 +817,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8622*
+*Related: C-7940*
 
 ---
 
@@ -825,7 +825,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8587*
+*Related: C-7898*
 
 ---
 
@@ -833,7 +833,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8582*
+*Related: C-7892*
 
 ---
 
@@ -841,7 +841,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8621*
+*Related: C-7939*
 
 ---
 
@@ -849,7 +849,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8563*
+*Related: C-7867*
 
 ---
 
@@ -857,7 +857,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.
 
-*Related: C-8617, C-8618*
+*Related: C-7935, C-7936*
 
 ---
 
@@ -865,7 +865,7 @@ First named by the host at 00:46:55 in episode 88. Congressman the host says Tru
 
 First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.
 
-*Related: C-8618*
+*Related: C-7936*
 
 ---
 
@@ -875,7 +875,7 @@ First named by the host at 00:46:55 in episode 88. Woman the host calls the Chin
 
 First named by the host at 00:42:15 in episode 88.
 
-*Related: C-2667*
+*Related: C-7917*
 
 
 ### Investigation Targets
@@ -889,7 +889,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1930.1, A-1931.1, A-1933.1, A-1934.1, C-2658, C-2659, C-2662, C-2663, C-2667, N-2*
+*Related: A-1930.1, A-1931.1, A-1933.1, A-1934.1, C-7906, C-7908, C-7899, C-7903, C-7917, N-2*
 
 **N-10583** Aspen Donor Audio Integrity Question
 
@@ -900,7 +900,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1928.1, A-1928.2, A-1929.1, A-1932.1, A-1932.2, A-1936.1, C-2656, C-2657, C-2660, C-2661, C-2666, N-2*
+*Related: A-1928.1, A-1928.2, A-1929.1, A-1932.1, A-1932.2, A-1936.1, C-7883, C-7880, C-7887, C-7889, C-7896, N-2*
 
 **N-10584** Aspen Donor Event Memory Discrepancy
 
@@ -911,7 +911,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1928.1, A-1929.1, A-1937.1, C-2657, C-2668, N-2*
+*Related: A-1928.1, A-1929.1, A-1937.1, C-7880, C-7885, N-2*
 
 **N-10585** Qureshi Family Military / Fort Huachuca Connections
 
@@ -922,7 +922,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1927.1, A-1927.2, A-1927.3, A-1927.4, C-2654, C-2655*
+*Related: A-1927.1, A-1927.2, A-1927.3, A-1927.4, C-7871, C-7866*
 
 **N-10586** Pam Bondi Dismissal Context Question
 
@@ -933,13 +933,13 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1935.1, C-2664, C-2665*
+*Related: A-1935.1, C-7926, C-7927*
 
 ---
 
 ## 5. Claim Register
 
-**C-2654** Tour Qureshi trained at Fort Huachuca using reconnaissance drones
+**C-7871** Tour Qureshi trained at Fort Huachuca using reconnaissance drones
 
 Claim Timestamp: 00:02:40
 
@@ -949,7 +949,7 @@ Anchored Artifacts: A-1927.1
 Related Nodes: N-10585
 Investigative Direction: Preserve and verify Tour Qureshi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
-**C-2655** "BILT" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability
+**C-7866** "BILT" app co-founded by Ahmed Qureshi has 3D mission-prep visualization capability
 
 Claim Timestamp: 00:01:20–00:03:02
 
@@ -960,7 +960,7 @@ Mentions: N-411
 Related Nodes: N-10585
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
-**C-2656** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
+**C-7883** TPUSA used the audio-only Aspen CEO-successor audio as Erika's AmFest walkout music
 
 Claim Timestamp: 00:11:11–00:11:54
 
@@ -971,7 +971,7 @@ Mentions: N-2
 Related Nodes: N-10583
 Investigative Direction: Obtain and review the AmFest event footage to confirm the audio-only nature of the walkout and trace the audio's source.
 
-**C-2657** Erika Kirk publicly claimed Charlie told Aspen donors he wanted her to take over TPUSA
+**C-7880** Erika Kirk publicly claimed Charlie told Aspen donors he wanted her to take over TPUSA
 
 Claim Timestamp: 00:08:58–00:10:21
 
@@ -982,7 +982,7 @@ Mentions: N-2, N-1, N-46
 Related Nodes: N-10583, N-10584
 Investigative Direction: Cross-reference Erika's Megyn Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
-**C-2658** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
+**C-7906** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
 
 Claim Timestamp: 00:35:35–00:35:50
 
@@ -993,7 +993,7 @@ Mentions: N-2
 Related Nodes: N-10582
 Investigative Direction: Retrieve the original NY Times article and verify the precise language used (hospital room vs. clinic vs. treatment center) and the timestamp.
 
-**C-2659** Erika Kirk told Jesse Watters she was at her mother's doctor's appointment when she got the news
+**C-7908** Erika Kirk told Jesse Watters she was at her mother's doctor's appointment when she got the news
 
 Claim Timestamp: 00:36:46–00:37:30
 
@@ -1004,7 +1004,7 @@ Mentions: N-2, N-211, N-1
 Related Nodes: N-10582
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
-**C-2660** Blake Neff publicly insisted Charlie repeatedly said he wanted Erika as his successor
+**C-7887** Blake Neff publicly insisted Charlie repeatedly said he wanted Erika as his successor
 
 Claim Timestamp: 00:14:16–00:15:40
 
@@ -1015,7 +1015,7 @@ Mentions: N-2, N-159, N-1
 Related Nodes: N-10583
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
-**C-2661** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
+**C-7889** Blake Neff refused to release the Aspen video and characterized Candace as a "psychopathic predator"
 
 Claim Timestamp: 00:16:55–00:17:45
 
@@ -1026,7 +1026,7 @@ Mentions: N-3, N-159
 Related Nodes: N-10583
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
-**C-2662** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit
+**C-7899** Erika Kirk described her mother as an entrepreneur blueprint at the NYT Book Summit
 
 Claim Timestamp: 00:25:06–00:28:12
 
@@ -1037,7 +1037,7 @@ Mentions: N-2
 Related Nodes:
 Investigative Direction: Verify the question asked and Erika's full answer; cross-reference with earlier statements about her mother's background (single mother vs. stepfather present).
 
-**C-2663** Erika Kirk posted an Instagram video of her mother in frail state on Sept 8, 2025
+**C-7903** Erika Kirk posted an Instagram video of her mother in frail state on Sept 8, 2025
 
 Claim Timestamp: 00:34:02–00:35:00
 
@@ -1048,7 +1048,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10582
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
-**C-2664** Per Trump Statement Host Reads, Pam Bondi Is Leaving as Attorney General
+**C-7926** Per Trump Statement Host Reads, Pam Bondi Is Leaving as Attorney General
 
 Claim Timestamp: 00:44:55–00:46:02
 
@@ -1059,7 +1059,7 @@ Mentions: N-5, N-85
 Related Nodes: N-10586
 Investigative Direction: Retrieve the original Truth Social / X post to verify exact language and timestamp.
 
-**C-2665** Per Trump Statement Host Reads, Todd Blanche Named Acting Attorney General
+**C-7927** Per Trump Statement Host Reads, Todd Blanche Named Acting Attorney General
 
 Claim Timestamp: 00:44:55–00:46:02
 
@@ -1070,7 +1070,7 @@ Mentions: N-5, N-535
 Related Nodes: N-10586
 Investigative Direction: Verify the formal appointment and any subsequent Senate-confirmation process.
 
-**C-2666** Erika publicly promised TPUSA had decades of unused Charlie Kirk content
+**C-7896** Erika publicly promised TPUSA had decades of unused Charlie Kirk content
 
 Claim Timestamp: 00:19:47–00:20:41
 
@@ -1081,7 +1081,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10583
 Investigative Direction: Obtain the original interview clip in full; cross-reference against the actual volume of TPUSA content releases since the date of the statement.
 
-**C-2667** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025
+**C-7917** Multiple witnesses placed Erika Kirk without her mother on Sept 10, 2025
 
 Claim Timestamp: 00:40:55–00:44:53
 
@@ -1092,7 +1092,7 @@ Mentions: N-2, N-418
 Related Nodes: N-10582
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
-**C-2668** 3 of 4 Aspen event attendees contacted by host investigation did not recall Charlie naming Erika
+**C-7885** 3 of 4 Aspen event attendees contacted by host investigation did not recall Charlie naming Erika
 
 Claim Timestamp: 00:12:38–00:13:33
 
@@ -1105,7 +1105,7 @@ Investigative Direction: Preserve the host's outreach logs (with consent); cross
 
 ---
 
-**C-8563** Host Says Zachariah Qureshi Was Detained and Kash Patel Halted the Investigation for 90 Minutes
+**C-7867** Host Says Zachariah Qureshi Was Detained and Kash Patel Halted the Investigation for 90 Minutes
 
 Claim Timestamp: 00:01:20
 
@@ -1121,7 +1121,7 @@ Investigative Direction: Obtain the detention report, any release paperwork and 
 
 ---
 
-**C-8564** Host Says Baron Coleman Revealed Qureshi's Father Is a Navy O-6 in the Reserves
+**C-7868** Host Says Baron Coleman Revealed Qureshi's Father Is a Navy O-6 in the Reserves
 
 Claim Timestamp: 00:01:20
 
@@ -1137,7 +1137,7 @@ Investigative Direction: Check Navy Reserve officer listings and any public biog
 
 ---
 
-**C-8565** Host Says Mitch Snow Saw a Meeting End at Fort Huachuca the Day Before With Many O-6s
+**C-7869** Host Says Mitch Snow Saw a Meeting End at Fort Huachuca the Day Before With Many O-6s
 
 Claim Timestamp: 00:01:20
 
@@ -1153,7 +1153,7 @@ Investigative Direction: Obtain Mitch Snow's account in his own words and any ba
 
 ---
 
-**C-8566** Host Says the BILT App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way
+**C-7870** Host Says the BILT App Could Show Which Hospital Door to Use but She Cannot Say It Was Used That Way
 
 Claim Timestamp: 00:01:20
 
@@ -1169,7 +1169,7 @@ Investigative Direction: Verify the app's feature set from product documentation
 
 ---
 
-**C-8567** Host Says Netanyahu Tweeted That He Was Praying for Charlie Before the US President
+**C-7872** Host Says Netanyahu Tweeted That He Was Praying for Charlie Before the US President
 
 Claim Timestamp: 00:03:52
 
@@ -1179,13 +1179,13 @@ Transcript Snippet: As soon as he gets shot, you should tweet, even before the p
 
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
-Supports: C-1296
+Supports: C-837
 Tags: relevance:context
 Investigative Direction: Compare the timestamps of Netanyahu's post and the president's post using archived copies.
 
 ---
 
-**C-8568** Host Says Netanyahu Went on Fox the Next Day to Deny Killing Charlie
+**C-7873** Host Says Netanyahu Went on Fox the Next Day to Deny Killing Charlie
 
 Claim Timestamp: 00:03:52
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Identify the Fox appearance and its date and verify wha
 
 ---
 
-**C-8569** Host Says in December She Did Not Think Erika Was Part of Any Plot
+**C-7874** Host Says in December She Did Not Think Erika Was Part of Any Plot
 
 Claim Timestamp: 00:04:47
 
@@ -1217,7 +1217,7 @@ Investigative Direction: Compare the host's December episodes with this statemen
 
 ---
 
-**C-8570** Host Says Erika's First Verifiable Public Lie Was the Glenn Beck Phone and Texts Claim
+**C-7875** Host Says Erika's First Verifiable Public Lie Was the Glenn Beck Phone and Texts Claim
 
 Claim Timestamp: 00:04:47
 
@@ -1228,13 +1228,13 @@ Transcript Snippet: she publicly told Glenn Beck that she had Charlie's phone, a
 Anchored Artifacts: 
 Mentions: N-2, N-237, N-1, N-3
 Related Nodes: N-10340
-Supports: C-2377
+Supports: C-6549
 Tags: relevance:core
 Investigative Direction: Review the Glenn Beck interview and compare Erika's phone and texts statements with the texts the host says exist.
 
 ---
 
-**C-8571** Host Says She Never Doubted Charlie Wanted Erika as CEO and Expected Streiff to Run Things
+**C-7876** Host Says She Never Doubted Charlie Wanted Erika as CEO and Expected Streiff to Run Things
 
 Claim Timestamp: 00:05:30
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Check the host's earlier episodes for any statement abo
 
 ---
 
-**C-8572** Host Says Erika's Side Produced a Printed Transcript of Charlie Naming Her Successor
+**C-7877** Host Says Erika's Side Produced a Printed Transcript of Charlie Naming Her Successor
 
 Claim Timestamp: 00:06:19
 
@@ -1260,13 +1260,13 @@ Transcript Snippet: they pulled out a piece of paper, which they had printed out
 Anchored Artifacts: A-2945.1
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10936
-Supports: C-5540
+Supports: C-5396
 Tags: relevance:core
 Investigative Direction: Ask the participants in the December 15 meeting what was printed and whether a copy exists.
 
 ---
 
-**C-8573** Host Says Erika Confirmed Before the Meeting That a Video Exists of Charlie Naming Her
+**C-7878** Host Says Erika Confirmed Before the Meeting That a Video Exists of Charlie Naming Her
 
 Claim Timestamp: 00:07:00
 
@@ -1282,7 +1282,7 @@ Investigative Direction: Find where and when Erika or TPUSA first said the video
 
 ---
 
-**C-8574** Host Says Charlie Repeatedly Told Audiences Women Should Not Aspire to Be CEOs
+**C-7879** Host Says Charlie Repeatedly Told Audiences Women Should Not Aspire to Be CEOs
 
 Claim Timestamp: 00:07:00
 
@@ -1297,7 +1297,7 @@ Investigative Direction: Compile dated clips of Charlie making this argument, in
 
 ---
 
-**C-8575** Host Says Erika Had a Stepfather and Her Father Was Present, Not a Single-Mother Home
+**C-7881** Host Says Erika Had a Stepfather and Her Father Was Present, Not a Single-Mother Home
 
 Claim Timestamp: 00:10:21
 
@@ -1313,7 +1313,7 @@ Investigative Direction: Document Erika's childhood household through records an
 
 ---
 
-**C-8576** Host Says the Aspen Investor Meeting Ran August 15 to 17, Three Weeks Before Charlie Died
+**C-7882** Host Says the Aspen Investor Meeting Ran August 15 to 17, Three Weeks Before Charlie Died
 
 Claim Timestamp: 00:10:21
 
@@ -1324,13 +1324,13 @@ Transcript Snippet: took place from August 15th to the 17th in Aspen. So this wa
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10431
-Supports: C-5548
+Supports: C-5404
 Tags: relevance:core
 Investigative Direction: Obtain the attendee list, agenda and venue records for the August 15 to 17 Aspen event.
 
 ---
 
-**C-8577** Played Audio Has a Voice Saying It Appoints Its Wife to Run Turning Point USA
+**C-7884** Played Audio Has a Voice Saying It Appoints Its Wife to Run Turning Point USA
 
 Claim Timestamp: 00:11:54
 
@@ -1346,7 +1346,7 @@ Investigative Direction: Obtain the full original recording with metadata and ha
 
 ---
 
-**C-8578** Host Says the Aspen Audio Is Clearly Edited
+**C-7886** Host Says the Aspen Audio Is Clearly Edited
 
 Claim Timestamp: 00:12:38
 
@@ -1362,7 +1362,7 @@ Investigative Direction: Commission forensic audio analysis of the clip for spli
 
 ---
 
-**C-8579** Host Says She Publicly Asked Blake Neff to Release the Aspen Video
+**C-7888** Host Says She Publicly Asked Blake Neff to Release the Aspen Video
 
 Claim Timestamp: 00:15:40
 
@@ -1378,7 +1378,7 @@ Investigative Direction: Preserve the host's X reply and Neff's reply with times
 
 ---
 
-**C-8580** Neff's Reply Says TPUSA Has Not Bothered Playing the Video and the AmFest Audio Was Not Enough
+**C-7890** Neff's Reply Says TPUSA Has Not Bothered Playing the Video and the AmFest Audio Was Not Enough
 
 Claim Timestamp: 00:16:55
 
@@ -1394,7 +1394,7 @@ Investigative Direction: Preserve Neff's original post and ask TPUSA whether the
 
 ---
 
-**C-8581** Neff's Reply Cites DNA on a Rifle and Tyler Robinson's Family Turning Him In
+**C-7891** Neff's Reply Cites DNA on a Rifle and Tyler Robinson's Family Turning Him In
 
 Claim Timestamp: 00:16:55
 
@@ -1410,7 +1410,7 @@ Investigative Direction: Check the charging documents and court record for what 
 
 ---
 
-**C-8582** Host Says 33 Is a Freemason Degree and Kash Patel Kept Saying It
+**C-7892** Host Says 33 Is a Freemason Degree and Kash Patel Kept Saying It
 
 Claim Timestamp: 00:17:45
 
@@ -1426,7 +1426,7 @@ Investigative Direction: Collect Patel's public uses of the number 33 with dates
 
 ---
 
-**C-8583** Host Says Five Other Sets of DNA Were Found on the Rifle and TPUSA Does Not Tell the Public
+**C-7893** Host Says Five Other Sets of DNA Were Found on the Rifle and TPUSA Does Not Tell the Public
 
 Claim Timestamp: 00:17:45
 
@@ -1442,7 +1442,7 @@ Investigative Direction: Obtain the lab reports from the court record listing ev
 
 ---
 
-**C-8584** Host Says There Is No Evidence the Rifle Was Fired
+**C-7894** Host Says There Is No Evidence the Rifle Was Fired
 
 Claim Timestamp: 00:17:45
 
@@ -1458,7 +1458,7 @@ Investigative Direction: Obtain firearms examiner reports on whether the barrel 
 
 ---
 
-**C-8585** Host Says TPUSA Shares Outdated Charlie Videos Misrepresenting His Iran War Views
+**C-7895** Host Says TPUSA Shares Outdated Charlie Videos Misrepresenting His Iran War Views
 
 Claim Timestamp: 00:17:45
 
@@ -1474,7 +1474,7 @@ Investigative Direction: Collect the posts and their community notes with dates 
 
 ---
 
-**C-8586** Host Says She Has Done Many Aspen Donor Events and Never Heard the Succession Question
+**C-7897** Host Says She Has Done Many Aspen Donor Events and Never Heard the Succession Question
 
 Claim Timestamp: 00:21:33
 
@@ -1490,7 +1490,7 @@ Investigative Direction: Ask other donors and TPUSA event staff how often succes
 
 ---
 
-**C-8587** Host Theorizes TPUSA Prepared Audio So Erika's Appointment Would Not Look Planned
+**C-7898** Host Theorizes TPUSA Prepared Audio So Erika's Appointment Would Not Look Planned
 
 Claim Timestamp: 00:23:31
 
@@ -1506,7 +1506,7 @@ Investigative Direction: This is the host's theory; test it by establishing when
 
 ---
 
-**C-8588** Host Tells Blake Neff That No One Called 911 After Charlie Was Shot
+**C-7900** Host Tells Blake Neff That No One Called 911 After Charlie Was Shot
 
 Claim Timestamp: 00:31:46
 
@@ -1517,13 +1517,13 @@ Transcript Snippet: Mikey calls his wife and you call your mom and no one calls 
 Anchored Artifacts: 
 Mentions: N-3, N-159, N-190, N-1
 Related Nodes: N-10729
-Supports: C-1932
+Supports: C-4104
 Tags: relevance:core
 Investigative Direction: Obtain the 911 call records for the UVU address and compare with the host's phone sequence reporting.
 
 ---
 
-**C-8589** Host Says Erika Has Herself Talked About Her Mother's Lyme Disease
+**C-7901** Host Says Erika Has Herself Talked About Her Mother's Lyme Disease
 
 Claim Timestamp: 00:32:34
 
@@ -1539,7 +1539,7 @@ Investigative Direction: Find Erika's own public statements about her mother's L
 
 ---
 
-**C-8590** Host Says the Chief Fundraiser Recorded Erika Grieving
+**C-7902** Host Says the Chief Fundraiser Recorded Erika Grieving
 
 Claim Timestamp: 00:32:34
 
@@ -1554,7 +1554,7 @@ Investigative Direction: Identify the recording, who made it and where it was pu
 
 ---
 
-**C-8591** Host Says Erika Had Not Posted Her Mother in Years Before the September 8 Video
+**C-7904** Host Says Erika Had Not Posted Her Mother in Years Before the September 8 Video
 
 Claim Timestamp: 00:34:02
 
@@ -1570,7 +1570,7 @@ Investigative Direction: Review Erika's Instagram archive for earlier posts feat
 
 ---
 
-**C-8592** NYT Wrote That Erika Planned to Go to Utah but Her Mother Had Treatment in Phoenix
+**C-7905** NYT Wrote That Erika Planned to Go to Utah but Her Mother Had Treatment in Phoenix
 
 Claim Timestamp: 00:35:00
 
@@ -1586,7 +1586,7 @@ Investigative Direction: Retrieve the original New York Times article and verify
 
 ---
 
-**C-8593** NYT Quoted Erika Saying She Knew the Words Before McCoy Screamed Them
+**C-7907** NYT Quoted Erika Saying She Knew the Words Before McCoy Screamed Them
 
 Claim Timestamp: 00:35:50
 
@@ -1602,7 +1602,7 @@ Investigative Direction: Retrieve the original article and compare with the Watt
 
 ---
 
-**C-8594** Erika Told Watters Mikey Called Within Seconds and She Sprinted Out of the Treatment Center
+**C-7909** Erika Told Watters Mikey Called Within Seconds and She Sprinted Out of the Treatment Center
 
 Claim Timestamp: 00:36:46
 
@@ -1618,7 +1618,7 @@ Investigative Direction: Compare with Mikey McCoy's call log and the 834 ms styl
 
 ---
 
-**C-8595** Erika Told Watters She Collapsed in the Parking Lot
+**C-7910** Erika Told Watters She Collapsed in the Parking Lot
 
 Claim Timestamp: 00:37:30
 
@@ -1634,7 +1634,7 @@ Investigative Direction: Look for witnesses, security cameras and staff accounts
 
 ---
 
-**C-8596** Host Says the Watters Interview Contains Many Jump Cuts
+**C-7911** Host Says the Watters Interview Contains Many Jump Cuts
 
 Claim Timestamp: 00:37:30
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Obtain the full unedited recording of the interview for
 
 ---
 
-**C-8597** Host Says the Facility Is an IV Therapy and Holistic Clinic, Not a Hospital
+**C-7912** Host Says the Facility Is an IV Therapy and Holistic Clinic, Not a Hospital
 
 Claim Timestamp: 00:39:34
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Identify the facility, its licence type and services th
 
 ---
 
-**C-8598** Host Says Records Show Erika's Mother Was Treated at the Facility on September 8
+**C-7913** Host Says Records Show Erika's Mother Was Treated at the Facility on September 8
 
 Claim Timestamp: 00:39:53
 
@@ -1676,13 +1676,13 @@ Transcript Snippet: she went in for a treatment 2 days earlier on September 8th 
 Anchored Artifacts: A-2947.1
 Mentions: N-3, N-2, N-489
 Related Nodes: N-10483
-Qualifies: C-3804
+Qualifies: C-7534
 Tags: relevance:core
-Investigative Direction: Flag (clinic vs hospital): C-3804 (ep84) says Erika's mother was not in the hospital Sept 8-10; this claim places her at a treatment facility on Sept 8, and ep68/ep76 call it a Lyme-treatment clinic (C-10031, C-10287). Read as clinic, not hospital, so linked Qualifies rather than Contradicts. Authenticate the records through lawful channels.
+Investigative Direction: Flag (clinic vs hospital): C-7534 (ep84) says Erika's mother was not in the hospital Sept 8-10; this claim places her at a treatment facility on Sept 8, and ep68/ep76 call it a Lyme-treatment clinic (C-6114, C-6885). Read as clinic, not hospital, so linked Qualifies rather than Contradicts. Authenticate the records through lawful channels.
 
 ---
 
-**C-8599** Host Asks for Tips on the Parking Lot Collapse via moretips Address
+**C-7914** Host Asks for Tips on the Parking Lot Collapse via moretips Address
 
 Claim Timestamp: 00:39:53
 
@@ -1698,7 +1698,7 @@ Investigative Direction: Count and verify the tips received against named source
 
 ---
 
-**C-8600** Host Says Nurses and Their Contacts Texted That Erika Was at the Facility and Collapsed
+**C-7915** Host Says Nurses and Their Contacts Texted That Erika Was at the Facility and Collapsed
 
 Claim Timestamp: 00:39:53
 
@@ -1714,7 +1714,7 @@ Investigative Direction: Obtain the texts and sender identities with consent.
 
 ---
 
-**C-8601** Host Says Some Texts Said Nurses Had to Carry Erika Inside
+**C-7916** Host Says Some Texts Said Nurses Had to Carry Erika Inside
 
 Claim Timestamp: 00:39:53
 
@@ -1730,7 +1730,7 @@ Investigative Direction: Ask the facility and the original senders whether any s
 
 ---
 
-**C-8602** Host Says Every Nurse Account Traced Back to Someone Else
+**C-7918** Host Says Every Nurse Account Traced Back to Someone Else
 
 Claim Timestamp: 00:40:55
 
@@ -1746,7 +1746,7 @@ Investigative Direction: Map the chain of who told whom to find any first-hand w
 
 ---
 
-**C-8603** Host Says the Final Version Had Erika in a Meeting With the Lead Doctor, Not Her Mother
+**C-7919** Host Says the Final Version Had Erika in a Meeting With the Lead Doctor, Not Her Mother
 
 Claim Timestamp: 00:41:37
 
@@ -1757,13 +1757,13 @@ Transcript Snippet: Erika was there, but she was in a meeting with the lead doct
 Anchored Artifacts: A-2949.1
 Mentions: N-3, N-2, N-489
 Related Nodes: N-10582
-Supports: C-2667
+Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Identify the doctor and obtain his or his office's account and appointment records.
 
 ---
 
-**C-8604** Host Says the Doctor and His Wife Told Friends Erika Was in Their Office With a Friend
+**C-7920** Host Says the Doctor and His Wife Told Friends Erika Was in Their Office With a Friend
 
 Claim Timestamp: 00:42:15
 
@@ -1774,13 +1774,13 @@ Transcript Snippet: told friends that Erika was in their office with a friend.
 Anchored Artifacts: A-2949.1
 Mentions: N-3, N-2
 Related Nodes: N-10582
-Supports: C-2667
+Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Interview the friends who heard this and document the dates.
 
 ---
 
-**C-8605** Host Says a Dassel, Minnesota Woman Claims She Was With Lori When the News Arrived
+**C-7921** Host Says a Dassel, Minnesota Woman Claims She Was With Lori When the News Arrived
 
 Claim Timestamp: 00:42:15
 
@@ -1791,13 +1791,13 @@ Transcript Snippet: a woman from Dassel, Minnesota, who has claimed that she, an
 Anchored Artifacts: 
 Mentions: N-3, N-489, N-2
 Related Nodes: N-10582
-Supports: C-2667
+Supports: C-7917
 Tags: relevance:core
 Investigative Direction: Seek the woman's response to the host's request for comment and any corroboration.
 
 ---
 
-**C-8606** Host Says She Can Establish Connections Between TPUSA and the Doctor's Wife
+**C-7922** Host Says She Can Establish Connections Between TPUSA and the Doctor's Wife
 
 Claim Timestamp: 00:43:04
 
@@ -1813,7 +1813,7 @@ Investigative Direction: Publish or document the connection if the host can supp
 
 ---
 
-**C-8607** Host Says She Does Not Believe Erika Was With Her Mother and Calls the Story Pre-Sold
+**C-7923** Host Says She Does Not Believe Erika Was With Her Mother and Calls the Story Pre-Sold
 
 Claim Timestamp: 00:43:53
 
@@ -1829,7 +1829,7 @@ Investigative Direction: Seek written statements from witnesses and facility rec
 
 ---
 
-**C-8608** Host Says No Eyewitness to a Woman Collapsing in the Parking Lot Has Come Forward
+**C-7924** Host Says No Eyewitness to a Woman Collapsing in the Parking Lot Has Come Forward
 
 Claim Timestamp: 00:43:53
 
@@ -1845,7 +1845,7 @@ Investigative Direction: Canvass the parking lot's users and businesses and requ
 
 ---
 
-**C-8609** Host Asks for Information at the moretips Address
+**C-7925** Host Asks for Information at the moretips Address
 
 Claim Timestamp: 00:43:53
 
@@ -1861,7 +1861,7 @@ Investigative Direction: Track what arrives through the tip line.
 
 ---
 
-**C-8610** Trump Statement Says Murders Fell to Their Lowest Level Since 1900
+**C-7928** Trump Statement Says Murders Fell to Their Lowest Level Since 1900
 
 Claim Timestamp: 00:44:55
 
@@ -1877,7 +1877,7 @@ Investigative Direction: Compare with FBI and CDC homicide data for 2025.
 
 ---
 
-**C-8611** Trump Statement Says Bondi Will Move to a Private-Sector Job to Be Announced
+**C-7929** Trump Statement Says Bondi Will Move to a Private-Sector Job to Be Announced
 
 Claim Timestamp: 00:44:55
 
@@ -1893,7 +1893,7 @@ Investigative Direction: Track whether and when the new job is announced.
 
 ---
 
-**C-8612** Host Says Bondi Was Not Fired Over Epstein Because She and Trump Protected the Files Together
+**C-7930** Host Says Bondi Was Not Fired Over Epstein Because She and Trump Protected the Files Together
 
 Claim Timestamp: 00:44:55
 
@@ -1909,7 +1909,7 @@ Investigative Direction: Compare the stated reasons for the dismissal with repor
 
 ---
 
-**C-8613** Host Says the December 23 Epstein Release Included a Deepfake Video of His Cell
+**C-7931** Host Says the December 23 Epstein Release Included a Deepfake Video of His Cell
 
 Claim Timestamp: 00:46:02
 
@@ -1925,7 +1925,7 @@ Investigative Direction: Identify the video in the release and any analysis that
 
 ---
 
-**C-8614** Host Says They Removed the Fake Video and Refused to Comment
+**C-7932** Host Says They Removed the Fake Video and Refused to Comment
 
 Claim Timestamp: 00:46:02
 
@@ -1941,7 +1941,7 @@ Investigative Direction: Find the DOJ statement or the removal record.
 
 ---
 
-**C-8615** Host Asserts Epstein Is Alive in an Israeli Operation
+**C-7933** Host Asserts Epstein Is Alive in an Israeli Operation
 
 Claim Timestamp: 00:46:02
 
@@ -1957,7 +1957,7 @@ Investigative Direction: Unsupported on air; the host offers the New York Post p
 
 ---
 
-**C-8616** Host Calls the New York Post a Mossad Outfit
+**C-7934** Host Calls the New York Post a Mossad Outfit
 
 Claim Timestamp: 00:46:02
 
@@ -1973,7 +1973,7 @@ Investigative Direction: Unsupported on air; no ownership or sourcing evidence i
 
 ---
 
-**C-8617** Host Says Trump Fired Bondi Because He Believes She Tipped Off Swalwell
+**C-7935** Host Says Trump Fired Bondi Because He Believes She Tipped Off Swalwell
 
 Claim Timestamp: 00:46:55
 
@@ -1989,7 +1989,7 @@ Investigative Direction: Locate the articles the host says contain this account 
 
 ---
 
-**C-8618** Host Says the FBI Was Preparing Documents on Swalwell's Relationship With Christine Fang
+**C-7936** Host Says the FBI Was Preparing Documents on Swalwell's Relationship With Christine Fang
 
 Claim Timestamp: 00:46:55
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Check public reporting on the FBI's handling of the Fan
 
 ---
 
-**C-8619** Commenter Says the JFK Model Was Run Again; Host Adds Bullet Comparison Point
+**C-7937** Commenter Says the JFK Model Was Run Again; Host Adds Bullet Comparison Point
 
 Claim Timestamp: 00:50:14
 
@@ -2021,7 +2021,7 @@ Investigative Direction: Review the history of bullet comparative analysis (CBLA
 
 ---
 
-**C-8620** Host Says There Is No Evidence Charlie Was Even Shot
+**C-7938** Host Says There Is No Evidence Charlie Was Even Shot
 
 Claim Timestamp: 00:50:14
 
@@ -2037,7 +2037,7 @@ Investigative Direction: Obtain the autopsy report and trauma records to test th
 
 ---
 
-**C-8621** Host Says the Account of What Was Found in Charlie's Body Keeps Changing
+**C-7939** Host Says the Account of What Was Found in Charlie's Body Keeps Changing
 
 Claim Timestamp: 00:50:52
 
@@ -2053,7 +2053,7 @@ Investigative Direction: Obtain the autopsy and ATF reports describing the fragm
 
 ---
 
-**C-8622** Host Says the Defense Has Requested the ATF Files
+**C-7940** Host Says the Defense Has Requested the ATF Files
 
 Claim Timestamp: 00:50:52
 
@@ -2069,7 +2069,7 @@ Investigative Direction: Check the docket for the defense's ATF discovery reques
 
 ---
 
-**C-8623** Host Says Mikey Called His Wife First and Three-Wayed Erika Minutes Later
+**C-7941** Host Says Mikey Called His Wife First and Three-Wayed Erika Minutes Later
 
 Claim Timestamp: 00:51:27
 
@@ -2080,13 +2080,13 @@ Transcript Snippet: Mikey called his wife. It seems like it like they were kind 
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-2, N-217
 Related Nodes: N-10338
-Supports: C-1932, C-5266
+Supports: C-4104, C-4269
 Tags: relevance:core
 Investigative Direction: Obtain the call detail records for the relevant numbers.
 
 ---
 
-**C-8624** Host Says Elizabeth McCoy Was Left Out of the Initial Narrative
+**C-7942** Host Says Elizabeth McCoy Was Left Out of the Initial Narrative
 
 Claim Timestamp: 00:51:27
 
@@ -2102,7 +2102,7 @@ Investigative Direction: Compare the earliest accounts of the call sequence with
 
 ---
 
-**C-8625** Host Says Charlie Used to Ask Trump's Speechwriter to Save a Sentence
+**C-7943** Host Says Charlie Used to Ask Trump's Speechwriter to Save a Sentence
 
 Claim Timestamp: 00:52:06
 
@@ -2117,7 +2117,7 @@ Investigative Direction: Ask former speechwriters about this practice.
 
 ---
 
-**C-8626** Host Says Trump Did Not Write the Line That Charlie Loved Erika
+**C-7944** Host Says Trump Did Not Write the Line That Charlie Loved Erika
 
 Claim Timestamp: 00:52:06
 
@@ -2132,7 +2132,7 @@ Investigative Direction: Identify the speech and the drafting process.
 
 ---
 
-**C-8627** Host Speculates Stacy Sheridan Asked for the Charlie Loved Erika Line
+**C-7945** Host Speculates Stacy Sheridan Asked for the Charlie Loved Erika Line
 
 Claim Timestamp: 00:53:08
 
@@ -2147,7 +2147,7 @@ Investigative Direction: This is a guess; ask the White House speechwriting offi
 
 ---
 
-**C-8628** Host Reads That Charlie Said on the Iced Coffee Hour He Wanted to Be Remembered for Courage and Faith
+**C-7946** Host Reads That Charlie Said on the Iced Coffee Hour He Wanted to Be Remembered for Courage and Faith
 
 Claim Timestamp: 00:57:05
 
@@ -2162,7 +2162,7 @@ Investigative Direction: Locate the episode and timestamp of the Iced Coffee Hou
 
 ---
 
-**C-8629** Host Says Charlie Said the Night Before That They Were Going to Kill Him
+**C-7947** Host Says Charlie Said the Night Before That They Were Going to Kill Him
 
 Claim Timestamp: 00:57:45
 
@@ -2173,13 +2173,13 @@ Transcript Snippet: And then like when he actually the night before said they're
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10340
-Supports: C-6825
+Supports: C-4543
 Tags: relevance:core
 Investigative Direction: Obtain the texts the host references.
 
 ---
 
-**C-8630** Host Says Attendees Recalled a North Carolina Donor Asking How He Would Do It All
+**C-7948** Host Says Attendees Recalled a North Carolina Donor Asking How He Would Do It All
 
 Claim Timestamp: 00:57:45
 
@@ -2195,7 +2195,7 @@ Investigative Direction: Identify the donor and obtain her recollection.
 
 ---
 
-**C-8631** Host Says Charlie Answered With Steve Jobs and Hiring Lieutenants
+**C-7949** Host Says Charlie Answered With Steve Jobs and Hiring Lieutenants
 
 Claim Timestamp: 00:57:45
 
@@ -2211,7 +2211,7 @@ Investigative Direction: Compare to the audio and to Erika's account.
 
 ---
 
-**C-8632** Host Says She Thinks They Are Close to Pinning Down Lori's Whereabouts
+**C-7950** Host Says She Thinks They Are Close to Pinning Down Lori's Whereabouts
 
 Claim Timestamp: 00:59:25
 
@@ -2227,7 +2227,7 @@ Investigative Direction: Await publication of the findings.
 
 ---
 
-**C-8633** Host Asks for Tips on Erika's Whereabouts at the moretips Address Again
+**C-7951** Host Asks for Tips on Erika's Whereabouts at the moretips Address Again
 
 Claim Timestamp: 00:59:25
 
@@ -2243,7 +2243,7 @@ Investigative Direction: Track what arrives through the tip line.
 
 ---
 
-**C-8634** Host Says Judge Liman Threw Out a Portion of the Lively Case Against Baldoni
+**C-7952** Host Says Judge Liman Threw Out a Portion of the Lively Case Against Baldoni
 
 Claim Timestamp: 00:59:25
 
@@ -2416,4 +2416,4 @@ Confidence: high
 
 ## Optional Flags
 
-- **Clinic vs hospital (C-8598 / C-3804):** C-8598 says Erika's mother had a treatment on Sept 8 at a facility; C-3804 (ep84) says she was not in the hospital Sept 8-10. Treated as a clinic visit (ep68 C-10031, ep76 C-10287), so the edge is Qualifies, not Contradicts. Revisit if the records show a hospital.
+- **Clinic vs hospital (C-7913 / C-7534):** C-7913 says Erika's mother had a treatment on Sept 8 at a facility; C-7534 (ep84) says she was not in the hospital Sept 8-10. Treated as a clinic visit (ep68 C-6114, ep76 C-6885), so the edge is Qualifies, not Contradicts. Revisit if the records show a hospital.

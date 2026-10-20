@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep097): N-10651, N-10695
   - Tip-minted Nodes (reintro-ep097): N-11137
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10354–C-10422
+  - Claim Range: C-8635–C-8727
   - Tip-minted Nodes (reintro-ep097): N-785
   - Reused Nodes Appearing: N-10643, N-10645, N-10646, N-10647, N-10649, N-5, N-9, N-30, N-36, N-60, N-82, N-87, N-190, N-195, N-209, N-224, N-261, N-271, N-278, N-280, N-319, N-551, N-600, N-10012, N-10023, N-10083, N-10272, N-10341, N-10358, N-10373, N-10437, N-10546, N-10552, N-10641, N-10664, N-10681, N-10812, N-10840, N-10862, N-10899, N-10900, N-11001, N-11013, N-10650, N-432
  - New Nodes Introduced: N-10644, N-10648
@@ -42,7 +42,6 @@
 **Episode 97 Ledger Summary**
 
 - Artifact Families Introduced: A-2015, A-2016, A-2017, A-2018, A-2019, A-2020, A-2021, A-2022, A-2023, A-2024, A-2025, A-2026, A-2027, A-2028, A-2029
-- Claim Range: C-2810 – C-2833
 - New People Nodes Introduced: none (Wave 2: local ids removed)
 - New Investigation Target Nodes Introduced: N-10643, N-10644, N-10645, N-10646, N-10647, N-10648, N-10649, N-10650
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
@@ -71,7 +70,7 @@ Video Timestamp: 00:12:40 – 00:13:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2810, C-2811, N-3*
+*Related: C-8636, C-8637, N-3*
 
 **A-2015.2** Grievance alleging Candace accused Harpole of criminal negligence regarding ambulance absence
 
@@ -81,7 +80,7 @@ Video Timestamp: 00:03:20 – 00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2812, N-3*
+*Related: C-8640, N-3*
 
 **A-2015.3** Grievance re: "Charlie's Angels or Demons" episode alleging implication of security team complicity
 
@@ -91,7 +90,7 @@ Video Timestamp: 00:07:04 – 00:08:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2813*
+*Related: C-8644*
 
 **A-2015.4** Grievance re: "The Great Exodus from Utah" episode alleging failure-to-render-aid via medical bag and lying about drone availability
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:09:16 – 00:12:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2814*
+*Related: C-8648*
 
 **A-2015.5** Point 29 – assertion that Harpole is a private citizen and not a limited-purpose public figure
 
@@ -111,7 +110,7 @@ Video Timestamp: 00:14:44 – 00:15:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2815, N-10644*
+*Related: C-8655, N-10644*
 
 **A-2015.6** Point 28 – citation of Harpole's November 17 Shawn Ryan appearance as defensive response to "Owens and other conspiracy theorists"
 
@@ -121,7 +120,7 @@ Video Timestamp: 00:16:29 – 00:17:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2816, C-2817*
+*Related: C-8657, C-8658*
 
 **A-2015.7** Point 50/59 – explanation that Harpole did not respond to Candace's texts to avoid giving her exclusive content
 
@@ -131,7 +130,7 @@ Video Timestamp: 00:23:57 – 00:25:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2819*
+*Related: C-8671*
 
 **A-2015.8** Points 54-55 – embedded text messages from Candace Owens to Brian Harpole
 
@@ -141,7 +140,7 @@ Video Timestamp: 00:22:23 – 00:23:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, N-3*
+*Related: C-8669, N-3*
 
 **A-2015.9** Point 63 – allegation that Candace's "Fort Huachuca confirmed" X post claimed proof that Snow was telling the truth about Harpole
 
@@ -151,7 +150,7 @@ Video Timestamp: 00:29:59 – 00:31:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2822, C-2823, N-3*
+*Related: C-8678, C-8679, N-3*
 
 ---
 
@@ -167,7 +166,7 @@ Video Timestamp: 00:18:21 – 00:19:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2820, N-3*
+*Related: C-8662, N-3*
 
 ---
 
@@ -183,7 +182,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, C-2819, N-3*
+*Related: C-8669, C-8671, N-3*
 
 **A-2017.2** Second message (Dec 19 follow-up): "Hi Brian, just again reaching out in case you want to clarify your whereabouts on the morning of September 9th. I'm only interested in the truth."
 
@@ -193,7 +192,7 @@ Video Timestamp: 00:22:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, N-3, N-10643*
+*Related: C-8669, N-3, N-10643*
 
 **A-2017.3** Third message: "Hey Brian, reaching out again to see if you'd be willing to speak about the morning of the 9th... I oddly cannot get you to confirm or deny if you were there."
 
@@ -203,7 +202,7 @@ Video Timestamp: 00:23:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2818, C-2819, N-3*
+*Related: C-8669, C-8671, N-3*
 
 ---
 
@@ -219,7 +218,7 @@ Video Timestamp: 00:19:10 – 00:19:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2820, N-3*
+*Related: C-8662, N-3*
 
 ---
 
@@ -235,7 +234,7 @@ Video Timestamp: 00:26:41 – 00:27:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2821, N-10646*
+*Related: C-8674, N-10646*
 
 **A-2019.2** Chief Long reply: "I got you covered."
 
@@ -245,7 +244,7 @@ Video Timestamp: 00:27:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2821, N-10646*
+*Related: C-8674, N-10646*
 
 ---
 
@@ -261,7 +260,7 @@ Video Timestamp: 00:29:59 – 00:31:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2822, C-2823, N-3*
+*Related: C-8678, C-8679, N-3*
 
 ---
 
@@ -277,7 +276,7 @@ Video Timestamp: 00:43:04 – 00:43:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2825, C-2826, C-2827, N-2, N-3*
+*Related: C-8686, C-8689, C-8687, N-2, N-3*
 
 ---
 
@@ -293,7 +292,7 @@ Video Timestamp: 00:55:26 – 00:56:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2832*
+*Related: C-8711*
 
 ---
 
@@ -309,7 +308,7 @@ Video Timestamp: 00:51:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, N-3, N-785*---
+*Related: C-8701, C-8702, N-3, N-785*---
 
 ### **A-2024** Lawler-Gottheimer House Resolution Bundle
 
@@ -323,7 +322,7 @@ Video Timestamp: 00:51:15 – 00:54:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2828, C-2829, C-2830, C-2831, N-3*
+*Related: C-8701, C-8702, C-8705, C-8709, N-3*
 
 ---
 
@@ -387,7 +386,7 @@ Video Timestamp: 00:10:08 – 00:10:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2824, N-10645*
+*Related: C-8650, N-10645*
 
 ---
 
@@ -418,7 +417,7 @@ Video Timestamp: 00:29:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10382, C-10383, N-3, N-361*
+*Related: C-8676, C-8677, N-3, N-361*
 
 ---
 
@@ -431,7 +430,7 @@ Video Timestamp: 01:11:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10419, C-10420, N-3, N-266*
+*Related: C-8724, C-8725, N-3, N-266*
 
 ---
 
@@ -449,19 +448,19 @@ Streamer; first named in A-2023.1.
 
 First named by the host at 00:50:06 in episode 97.
 
-*Related: C-2828, C-2829, C-2830, C-2831, C-2832*
+*Related: C-8701, C-8702, C-8705, C-8709, C-8711*
 
 **N-427** Mike Lawler
 
 First named by the host at 00:50:06 in episode 97.
 
-*Related: C-2828, C-2829, C-2830, C-2831, C-2832*
+*Related: C-8701, C-8702, C-8705, C-8709, C-8711*
 
 **N-379** Josef Mengele
 
 Named by the host at 00:53:42 in episode 97; first introduced in episode 65.
 
-*Related: C-2828, C-2829, C-2830, C-2831, C-2832*
+*Related: C-8701, C-8702, C-8705, C-8709, C-8711*
 
 
 
@@ -475,7 +474,7 @@ Claim Count: (reused – not recounted)
 Episode Count: (reused – not recounted)
 Investigative Pressure: High
 
-*Related: A-2015.1, A-2015.2, A-2027.1, C-2812, N-3, N-10650*
+*Related: A-2015.1, A-2015.2, A-2027.1, C-8640, N-3, N-10650*
 
 ### Investigation Targets
 
@@ -488,7 +487,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2015.9, A-2017.2, A-2020.1, C-2818, C-2819, C-2822*
+*Related: A-2015.9, A-2017.2, A-2020.1, C-8669, C-8671, C-8678*
 
 **N-10644** Harpole Limited-Purpose Public Figure Status
 
@@ -499,7 +498,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2015.5, A-2015.6, C-2815, C-2816, C-2817*
+*Related: A-2015.5, A-2015.6, C-8655, C-8657, C-8658*
 
 **N-10645** UVU Drone Authorization Records
 
@@ -510,7 +509,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2015.4, A-2028.1, A-2029.1, C-2824*
+*Related: A-2015.4, A-2028.1, A-2029.1, C-8650*
 
 **N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
 
@@ -521,7 +520,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2015.*, A-2019.*, C-2821*
+*Related: A-2015.*, A-2019.*, C-8674*
 
 **N-10647** Erika Kirk Murder Allegation Accuracy
 
@@ -532,7 +531,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2021.1, C-2825, C-2826, N-2, N-3*
+*Related: A-2021.1, C-8686, C-8689, N-2, N-3*
 
 **N-10648** House Resolution Characterization Accuracy
 
@@ -543,7 +542,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2023.1, A-2024.1, A-2022.1, C-2828, C-2829, C-2830, C-2831, C-2832, N-3*
+*Related: A-2023.1, A-2024.1, A-2022.1, C-8701, C-8702, C-8705, C-8709, C-8711, N-3*
 
 **N-10649** Candace-Erika December 15 Private Meeting Revelations
 
@@ -565,7 +564,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2015.2, C-2812, N-1*
+*Related: A-2015.2, C-8640, N-1*
 
 ---
 
@@ -573,7 +572,7 @@ Investigative Pressure: Medium
 
 Widow and TPUSA CEO; the host disputes her April 29 statement and her account of the Aspen audio.
 
-*Related: C-10354, C-10390, C-10391, C-10392, C-10393, C-10394, C-10395, C-10398, C-10399, C-10415*
+*Related: C-8635, C-8688, C-8690, C-8691, C-8692, C-8693, C-8694, C-8697, C-8698, C-8720*
 
 ---
 
@@ -581,7 +580,7 @@ Widow and TPUSA CEO; the host disputes her April 29 statement and her account of
 
 Host; speaks for herself throughout.
 
-*Related: C-10354, C-10355, C-10356, C-10357, C-10358, C-10359, C-10360, C-10363, C-10365, C-10366, C-10367, C-10368, C-10369, C-10370, C-10371, C-10372, C-10373, C-10374, C-10375, C-10376, C-10377, C-10378, C-10379, C-10380, C-10381, C-10382, C-10383, C-10384, C-10385, C-10386, C-10387, C-10388, C-10389, C-10390, C-10391, C-10392, C-10393, C-10394, C-10395, C-10396, C-10397, C-10398, C-10399, C-10400, C-10401, C-10402, C-10403, C-10404, C-10405, C-10406, C-10407, C-10408, C-10411, C-10412, C-10413, C-10414, C-10415, C-10416, C-10418, C-10419, C-10420, C-10421, C-10422*
+*Related: C-8635, C-8638, C-8639, C-8641, C-8642, C-8643, C-8645, C-8649, C-8652, C-8653, C-8654, C-8656, C-8659, C-8660, C-8661, C-8663, C-8664, C-8665, C-8666, C-8667, C-8668, C-8670, C-8672, C-8673, C-8675, C-8676, C-8677, C-8680, C-8681, C-8682, C-8683, C-8684, C-8685, C-8688, C-8690, C-8691, C-8692, C-8693, C-8694, C-8695, C-8696, C-8697, C-8698, C-8699, C-8700, C-8703, C-8704, C-8706, C-8707, C-8708, C-8710, C-8712, C-8716, C-8717, C-8718, C-8719, C-8720, C-8721, C-8723, C-8724, C-8725, C-8726, C-8727*
 
 ---
 
@@ -589,7 +588,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; the host cites his Epstein remark and says he signaled lawsuits to Erika.
 
-*Related: C-10406, C-10412, C-10415*
+*Related: C-8708, C-8717, C-8720*
 
 ---
 
@@ -597,7 +596,7 @@ Donald Trump; the host cites his Epstein remark and says he signaled lawsuits to
 
 Frank Turek; the host plays his clip about team drones and Provo airspace.
 
-*Related: C-10364, C-10371*
+*Related: C-8651, C-8661*
 
 ---
 
@@ -605,7 +604,7 @@ Frank Turek; the host plays his clip about team drones and Provo airspace.
 
 Jeffrey Epstein; the host says the resolution's 'satanic pedophile' line refers to him and his protectors.
 
-*Related: C-10404, C-10405, C-10406*
+*Related: C-8706, C-8707, C-8708*
 
 ---
 
@@ -613,7 +612,7 @@ Jeffrey Epstein; the host says the resolution's 'satanic pedophile' line refers 
 
 TPUSA spokesperson; the host describes his request to defend security, his private chat with her and her claim McCoy pointed to him.
 
-*Related: C-10369, C-10393, C-10396, C-10397, C-10398, C-10399, C-10400, C-10401*
+*Related: C-8659, C-8692, C-8695, C-8696, C-8697, C-8698, C-8699, C-8700*
 
 ---
 
@@ -621,7 +620,7 @@ TPUSA spokesperson; the host describes his request to defend security, his priva
 
 The host's husband, whom she says she must consult about the response to the lawsuit.
 
-*Related: C-10388, C-10416*
+*Related: C-8684, C-8721*
 
 ---
 
@@ -629,7 +628,7 @@ The host's husband, whom she says she must consult about the response to the law
 
 Netanyahu; the host says his picture appears in the lawsuit.
 
-*Related: C-10366*
+*Related: C-8653*
 
 ---
 
@@ -637,7 +636,7 @@ Netanyahu; the host says his picture appears in the lawsuit.
 
 Laura Loomer; the host says Harpole's lawyer retweeted her and that she made a trust claim.
 
-*Related: C-10413, C-10414*
+*Related: C-8718, C-8719*
 
 ---
 
@@ -645,7 +644,7 @@ Laura Loomer; the host says Harpole's lawyer retweeted her and that she made a t
 
 Brigitte Macron; the host cites a filing asserting UK dual citizenship.
 
-*Related: C-10385, C-10413*
+*Related: C-8681, C-8718*
 
 ---
 
@@ -653,7 +652,7 @@ Brigitte Macron; the host cites a filing asserting UK dual citizenship.
 
 Jimmy Kimmel; target of Melania Trump's post.
 
-*Related: C-10410*
+*Related: C-8714*
 
 ---
 
@@ -661,7 +660,7 @@ Jimmy Kimmel; target of Melania Trump's post.
 
 Mikey McCoy; the host says he sent her a message about Kolvet and announced the death by video.
 
-*Related: C-10362, C-10400*
+*Related: C-8647, C-8699*
 
 ---
 
@@ -669,7 +668,7 @@ Mikey McCoy; the host says he sent her a message about Kolvet and announced the 
 
 Dr. Lee Trotter; the host says Erika lied about his words.
 
-*Related: C-10392*
+*Related: C-8691*
 
 ---
 
@@ -677,7 +676,7 @@ Dr. Lee Trotter; the host says Erika lied about his words.
 
 Joe Kent; the host says Erika's team attacked him for asking about foreign influence.
 
-*Related: C-10391*
+*Related: C-8690*
 
 ---
 
@@ -685,7 +684,7 @@ Joe Kent; the host says Erika's team attacked him for asking about foreign influ
 
 Shawn Ryan, host of the podcast on which Harpole appeared on November 17.
 
-*Related: C-10368, C-10372, C-10380*
+*Related: C-8656, C-8663, C-8673*
 
 ---
 
@@ -693,7 +692,7 @@ Shawn Ryan, host of the podcast on which Harpole appeared on November 17.
 
 Terryl Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.
 
-*Related: C-10360, C-10361, C-10362, C-10389*
+*Related: C-8645, C-8646, C-8647, C-8685*
 
 ---
 
@@ -701,7 +700,7 @@ Terryl Farnsworth, head of the AV team; the host says he announced the death by 
 
 Brian Harpole, Kirk security team member and plaintiff in the lawsuit against the host.
 
-*Related: C-10355, C-10356, C-10357, C-10358, C-10359, C-10360, C-10363, C-10366, C-10368, C-10370, C-10371, C-10372, C-10373, C-10375, C-10376, C-10377, C-10378, C-10379, C-10380, C-10381, C-10389, C-10417, C-10418, C-10419, C-10421*
+*Related: C-8638, C-8639, C-8641, C-8642, C-8643, C-8645, C-8649, C-8653, C-8656, C-8660, C-8661, C-8663, C-8664, C-8666, C-8667, C-8668, C-8670, C-8672, C-8673, C-8675, C-8685, C-8722, C-8723, C-8724, C-8726*
 
 ---
 
@@ -709,7 +708,7 @@ Brian Harpole, Kirk security team member and plaintiff in the lawsuit against th
 
 Dan Flood; the host says the rooftop text chain was his and that she messaged him once.
 
-*Related: C-10370, C-10371, C-10377, C-10380*
+*Related: C-8660, C-8661, C-8668, C-8673*
 
 ---
 
@@ -717,7 +716,7 @@ Dan Flood; the host says the rooftop text chain was his and that she messaged hi
 
 UVU police chief; correspondent in the Flood text chain the host discusses.
 
-*Related: C-10380*
+*Related: C-8673*
 
 ---
 
@@ -725,7 +724,7 @@ UVU police chief; correspondent in the Flood text chain the host discusses.
 
 Bari Weiss; the host says a private chat mocked her insinuations.
 
-*Related: C-10396*
+*Related: C-8695*
 
 ---
 
@@ -733,7 +732,7 @@ Bari Weiss; the host says a private chat mocked her insinuations.
 
 White House press secretary; speaker in the briefing clip.
 
-*Related: C-10409*
+*Related: C-8713*
 
 ---
 
@@ -741,7 +740,7 @@ White House press secretary; speaker in the briefing clip.
 
 Captain Neff; named in the host's December 23 post as questioning Mitch.
 
-*Related: C-10384*
+*Related: C-8680*
 
 ---
 
@@ -749,7 +748,7 @@ Captain Neff; named in the host's December 23 post as questioning Mitch.
 
 Baron Coleman; speaker in the clip contesting Erika's claim.
 
-*Related: C-10390*
+*Related: C-8688*
 
 ---
 
@@ -757,7 +756,7 @@ Baron Coleman; speaker in the clip contesting Erika's claim.
 
 Mitch Snow, the Fort Huachuca witness at the center of the Harpole dispute.
 
-*Related: C-10373, C-10374, C-10375, C-10376, C-10377, C-10379, C-10381, C-10382, C-10383, C-10384, C-10420*
+*Related: C-8664, C-8665, C-8666, C-8667, C-8668, C-8672, C-8675, C-8676, C-8677, C-8680, C-8725*
 
 ---
 
@@ -765,7 +764,7 @@ Mitch Snow, the Fort Huachuca witness at the center of the Harpole dispute.
 
 Kim Klacik; the host recounts her earlier lawsuit against the host.
 
-*Related: C-10386*
+*Related: C-8682*
 
 ---
 
@@ -773,7 +772,7 @@ Kim Klacik; the host recounts her earlier lawsuit against the host.
 
 Aubrey Laitsch; the host says Kolvet cannot show what Laitsch gave her.
 
-*Related: C-10400, C-10401*
+*Related: C-8699, C-8700*
 
 ---
 
@@ -781,7 +780,7 @@ Aubrey Laitsch; the host says Kolvet cannot show what Laitsch gave her.
 
 Melania Trump; author of the post criticizing Kimmel.
 
-*Related: C-10410*
+*Related: C-8714*
 
 ---
 
@@ -789,7 +788,7 @@ Melania Trump; author of the post criticizing Kimmel.
 
 UVU; its drone authorization form is cited by a viewer.
 
-*Related: C-10417*
+*Related: C-8722*
 
 ---
 
@@ -797,7 +796,7 @@ UVU; its drone authorization form is cited by a viewer.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10405*
+*Related: C-8707*
 
 ---
 
@@ -805,7 +804,7 @@ Existing topic reused for new claims in this episode.
 
 AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.
 
-*Related: C-10402*
+*Related: C-8703*
 
 ---
 
@@ -813,7 +812,7 @@ AIPAC; the host says Lawler and Gottheimer take over a million dollars from it.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10380*
+*Related: C-8673*
 
 ---
 
@@ -821,7 +820,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10393*
+*Related: C-8692*
 
 ---
 
@@ -829,7 +828,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10392, C-10393*
+*Related: C-8691, C-8692*
 
 ---
 
@@ -837,7 +836,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10373, C-10374, C-10381, C-10382, C-10383, C-10384, C-10418, C-10419, C-10420, C-10421*
+*Related: C-8664, C-8665, C-8675, C-8676, C-8677, C-8680, C-8723, C-8724, C-8725, C-8726*
 
 ---
 
@@ -845,7 +844,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10394*
+*Related: C-8693*
 
 ---
 
@@ -853,7 +852,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10391*
+*Related: C-8690*
 
 ---
 
@@ -861,7 +860,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10401*
+*Related: C-8700*
 
 ---
 
@@ -869,7 +868,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10390, C-10396, C-10397*
+*Related: C-8688, C-8695, C-8696*
 
 ---
 
@@ -877,7 +876,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10355, C-10356, C-10375, C-10376, C-10387, C-10414, C-10415*
+*Related: C-8638, C-8639, C-8666, C-8667, C-8683, C-8719, C-8720*
 
 ---
 
@@ -885,7 +884,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10394, C-10395*
+*Related: C-8693, C-8694*
 
 ---
 
@@ -893,7 +892,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10372*
+*Related: C-8663*
 
 ---
 
@@ -901,7 +900,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10363*
+*Related: C-8649*
 
 ---
 
@@ -909,7 +908,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10361, C-10389*
+*Related: C-8646, C-8685*
 
 ---
 
@@ -917,7 +916,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10357*
+*Related: C-8641*
 
 ---
 
@@ -925,7 +924,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10372*
+*Related: C-8663*
 
 ---
 
@@ -933,7 +932,7 @@ Existing topic reused for new claims in this episode.
 
 Paramount Tactical, Gary Melton's channel; the host says it relayed the warning about Harpole suing.
 
-*Related: C-10375*
+*Related: C-8666*
 
 ---
 
@@ -941,7 +940,7 @@ Paramount Tactical, Gary Melton's channel; the host says it relayed the warning 
 
 Daily Wire; the host says Harpole's lawyer is the one it used against her in arbitration.
 
-*Related: C-10356*
+*Related: C-8639*
 
 ---
 
@@ -949,7 +948,7 @@ Daily Wire; the host says Harpole's lawyer is the one it used against her in arb
 
 Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a relay of the lawsuit warning.
 
-*Related: C-10375*
+*Related: C-8666*
 
 ---
 
@@ -957,7 +956,7 @@ Valhalla VFT, a separate YouTuber the host calls the Valhalla guy; named as a re
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10358*
+*Related: C-8642*
 
 ---
 
@@ -965,7 +964,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10357*
+*Related: C-8641*
 
 ---
 
@@ -973,7 +972,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 01:08:34 in episode 97 (spelled Sarelson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.
 
-*Related: C-10414*
+*Related: C-8719*
 
 ---
 
@@ -982,13 +981,13 @@ First named by the host at 01:08:34 in episode 97 (spelled Sarelson; at 01:13:25
 Node Type: Topic
 The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terryl Farnsworth's footage, text messages and testimony from Erika Kirk.
 
-*Related: C-10388, C-10389, C-10416*
+*Related: C-8684, C-8685, C-8721*
 
 ---
 
 ## V. Claim Register
 
-**C-2810** Harpole Filed 69-Page Defamation Lawsuit Against Candace Owens
+**C-8636** Harpole Filed 69-Page Defamation Lawsuit Against Candace Owens
 
 Claim Timestamp: 00:01:13
 
@@ -1002,7 +1001,7 @@ Investigative Direction: Obtain the filed complaint and PACER docket to verify t
 
 ---
 
-**C-2811** Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction
+**C-8637** Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction
 
 Claim Timestamp: 00:01:23
 
@@ -1017,7 +1016,7 @@ Investigative Direction: Obtain the pre-filing email; verify whether it containe
 
 ---
 
-**C-2812** Lawsuit Alleges Candace Accused Harpole of Criminal Negligence Regarding Ambulance
+**C-8640** Lawsuit Alleges Candace Accused Harpole of Criminal Negligence Regarding Ambulance
 
 Claim Timestamp: 00:03:20
 
@@ -1032,7 +1031,7 @@ Investigative Direction: Compare the quoted podcast passage against the actual t
 
 ---
 
-**C-2813** Lawsuit Alleges "Charlie's Angels or Demons" Episode Implied Security Team Had Insider Knowledge
+**C-8644** Lawsuit Alleges "Charlie's Angels or Demons" Episode Implied Security Team Had Insider Knowledge
 
 Claim Timestamp: 00:07:04
 
@@ -1047,7 +1046,7 @@ Investigative Direction: Locate and review the "Charlie's Angels or Demons" epis
 
 ---
 
-**C-2814** Lawsuit Alleges Candace Falsely Accused Harpole of Failing to Render Aid via Medical Bag and Lying About Drone Availability
+**C-8648** Lawsuit Alleges Candace Falsely Accused Harpole of Failing to Render Aid via Medical Bag and Lying About Drone Availability
 
 Claim Timestamp: 00:09:16
 
@@ -1062,7 +1061,7 @@ Investigative Direction: Review "The Great Exodus from Utah" episode transcript;
 
 ---
 
-**C-2815** Lawsuit Asserts Harpole Is a Private Citizen
+**C-8655** Lawsuit Asserts Harpole Is a Private Citizen
 
 Claim Timestamp: 00:14:11
 
@@ -1077,7 +1076,7 @@ Investigative Direction: Review defamation caselaw on limited-purpose public fig
 
 ---
 
-**C-2816** Lawsuit Cites November 17 Shawn Ryan Appearance as Defensive Response
+**C-8657** Lawsuit Cites November 17 Shawn Ryan Appearance as Defensive Response
 
 Claim Timestamp: 00:16:29
 
@@ -1092,7 +1091,7 @@ Investigative Direction: Confirm the air date of Harpole's Shawn Ryan appearance
 
 ---
 
-**C-2817** Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance
+**C-8658** Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance
 
 Claim Timestamp: 00:16:46
 
@@ -1107,7 +1106,7 @@ Investigative Direction: Audit Candace's prior episode transcripts and show note
 
 ---
 
-**C-2818** Candace Says Harpole Left Her Text Messages Unanswered
+**C-8669** Candace Says Harpole Left Her Text Messages Unanswered
 
 Claim Timestamp: 00:22:23
 
@@ -1122,7 +1121,7 @@ Investigative Direction: Cross-reference the embedded text messages against phon
 
 ---
 
-**C-2819** Lawsuit Claims Harpole's Non-Response Was Intended to Avoid Giving Candace Exclusive Content
+**C-8671** Lawsuit Claims Harpole's Non-Response Was Intended to Avoid Giving Candace Exclusive Content
 
 Claim Timestamp: 00:23:57
 
@@ -1137,7 +1136,7 @@ Investigative Direction: Assess credibility of this litigation rationale against
 
 ---
 
-**C-2820** Candace Publicly Defended Harpole and the TPUSA Security Team Against Hand-Signal Conspiracies in September
+**C-8662** Candace Publicly Defended Harpole and the TPUSA Security Team Against Hand-Signal Conspiracies in September
 
 Claim Timestamp: 00:18:21
 
@@ -1152,7 +1151,7 @@ Investigative Direction: Locate the September 2025 episode in which Candace defe
 
 ---
 
-**C-2821** Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole
+**C-8674** Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole
 
 Claim Timestamp: 00:27:53
 
@@ -1167,7 +1166,7 @@ Investigative Direction: Compare the original Shawn Ryan audio against the lawsu
 
 ---
 
-**C-2822** Candace's December 23 X Post Confirmed Fort Huachuca but Did Not Confirm Snow's Identification of Harpole
+**C-8678** Candace's December 23 X Post Confirmed Fort Huachuca but Did Not Confirm Snow's Identification of Harpole
 
 Claim Timestamp: 00:29:59
 
@@ -1182,7 +1181,7 @@ Investigative Direction: Obtain original X post screenshot and verify text again
 
 ---
 
-**C-2823** Lawsuit Simultaneously Accuses Candace of Confirming Snow's Claim While Including Her Explicit Non-Confirmation
+**C-8679** Lawsuit Simultaneously Accuses Candace of Confirming Snow's Claim While Including Her Explicit Non-Confirmation
 
 Claim Timestamp: 00:29:59
 
@@ -1197,7 +1196,7 @@ Investigative Direction: Identify the specific X post passages cited by the laws
 
 ---
 
-**C-2824** Host Says Harpole's Drone Statement Conflicts with Frank Turek's Account
+**C-8650** Host Says Harpole's Drone Statement Conflicts with Frank Turek's Account
 
 Claim Timestamp: 00:10:08
 
@@ -1212,7 +1211,7 @@ Investigative Direction: Obtain full audio of Turek's drone statements and cross
 
 ---
 
-**C-2825** Erika Kirk Publicly Claimed Candace Accused Her of Killing Charlie
+**C-8686** Erika Kirk Publicly Claimed Candace Accused Her of Killing Charlie
 
 Claim Timestamp: 00:42:15
 
@@ -1227,7 +1226,7 @@ Investigative Direction: Locate Erika Kirk's original statement on video or soci
 
 ---
 
-**C-2826** Candace States She Does Not Believe Erika Kirk Murdered Charlie Kirk
+**C-8689** Candace States She Does Not Believe Erika Kirk Murdered Charlie Kirk
 
 Claim Timestamp: 00:44:39
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Audit Candace's prior podcast transcripts and X posts f
 
 ---
 
-**C-2827** Baron Coleman Questioned Erika's Claim That Candace Had Accused Her
+**C-8687** Baron Coleman Questioned Erika's Claim That Candace Had Accused Her
 
 Claim Timestamp: 00:43:04
 
@@ -1257,7 +1256,7 @@ Investigative Direction: Locate Coleman's full segment for additional context.
 
 ---
 
-**C-2828** Lawler and Gottheimer Introduced Bipartisan House Resolution Condemning Candace Owens
+**C-8701** Lawler and Gottheimer Introduced Bipartisan House Resolution Condemning Candace Owens
 
 Claim Timestamp: 00:50:32
 
@@ -1272,7 +1271,7 @@ Investigative Direction: Obtain the full resolution text from Congress.gov and v
 
 ---
 
-**C-2829** Resolution Alleges Candace Accused Israel of Controlling the United States Government
+**C-8702** Resolution Alleges Candace Accused Israel of Controlling the United States Government
 
 Claim Timestamp: 00:52:10
 
@@ -1287,7 +1286,7 @@ Investigative Direction: Audit Candace's prior commentary for any statement matc
 
 ---
 
-**C-2830** Resolution Alleges Candace Claimed Satanic Pedophiles Work for Israel
+**C-8705** Resolution Alleges Candace Claimed Satanic Pedophiles Work for Israel
 
 Claim Timestamp: 00:52:50
 
@@ -1302,7 +1301,7 @@ Investigative Direction: Review Candace's commentary on Epstein, Israeli intelli
 
 ---
 
-**C-2831** Resolution References Candace's Josef Mengele Commentary
+**C-8709** Resolution References Candace's Josef Mengele Commentary
 
 Claim Timestamp: 00:53:42
 
@@ -1317,7 +1316,7 @@ Investigative Direction: Locate Candace's July 2024 statements about Mengele and
 
 ---
 
-**C-2832** Auschwitz Memorial Podcast Acknowledged Myths About Mengele's Twin Experiments
+**C-8711** Auschwitz Memorial Podcast Acknowledged Myths About Mengele's Twin Experiments
 
 Claim Timestamp: 00:55:26
 
@@ -1332,7 +1331,7 @@ Investigative Direction: Obtain original Auschwitz Memorial podcast episode for 
 
 ---
 
-**C-2833** Charlie Kirk's May 2, 2024 Tweet Denied the Legal Existence of Hate Speech
+**C-8715** Charlie Kirk's May 2, 2024 Tweet Denied the Legal Existence of Hate Speech
 
 Claim Timestamp: 01:01:07
 
@@ -1346,7 +1345,7 @@ Investigative Direction: Verify the post's date, persistence, and any replies or
 
 ---
 
-**C-10354** Host Says Erika Wrongly Claimed the Host Accused Her of Murder
+**C-8635** Host Says Erika Wrongly Claimed the Host Accused Her of Murder
 
 Claim Timestamp: 00:00:01
 
@@ -1357,13 +1356,13 @@ Transcript Snippet: She essentially put a target on my back by wrongly asserting
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10647
-Supports: C-2826
+Supports: C-8689
 Tags: relevance:core
 Investigative Direction: Locate Erika Kirk's April 29 statement and compare its exact wording to the host's prior published statements.
 
 ---
 
-**C-10355** Host Says Harpole Never Sent a Retraction Demand or Spoke to Her Before
+**C-8638** Host Says Harpole Never Sent a Retraction Demand or Spoke to Her Before
 
 Claim Timestamp: 00:01:23
 
@@ -1374,13 +1373,13 @@ Transcript Snippet: You never communicated with me, you never spoke, you never i
 Anchored Artifacts: A-2015.1
 Mentions: N-3, N-266
 Related Nodes: N-10651
-Supports: C-2811
+Supports: C-8637
 Tags: relevance:core
 Investigative Direction: Obtain the pre-filing email and the host's lawyers' correspondence log to confirm that no earlier retraction request exists.
 
 ---
 
-**C-10356** Host Says Harpole's Lawyer Is the Lawyer the Daily Wire Used Against Her
+**C-8639** Host Says Harpole's Lawyer Is the Lawyer the Daily Wire Used Against Her
 
 Claim Timestamp: 00:02:22
 
@@ -1396,7 +1395,7 @@ Investigative Direction: Compare counsel of record in the Harpole complaint with
 
 ---
 
-**C-10357** Host Says Ambulances Were Standard at Her TPUSA Events With Harpole's Team
+**C-8641** Host Says Ambulances Were Standard at Her TPUSA Events With Harpole's Team
 
 Claim Timestamp: 00:04:44
 
@@ -1412,7 +1411,7 @@ Investigative Direction: Collect event run-of-show or medical-staffing documents
 
 ---
 
-**C-10358** Host Says Kirk Texted His Security the Night Before That He Expected to Be Killed
+**C-8642** Host Says Kirk Texted His Security the Night Before That He Expected to Be Killed
 
 Claim Timestamp: 00:04:44
 
@@ -1423,13 +1422,13 @@ Transcript Snippet: texts you guys the night before and says, "I think I'm going
 Anchored Artifacts: A-2015.2
 Mentions: N-3, N-1, N-266
 Related Nodes: N-10650, N-11013
-Supports: C-5114
+Supports: C-3565
 Tags: relevance:core
 Investigative Direction: Obtain the night-before text thread and its recipients; ask security leadership to confirm or deny receipt.
 
 ---
 
-**C-10359** Host Says the Term Criminal Negligence Did Not Come From Her Podcast
+**C-8643** Host Says the Term Criminal Negligence Did Not Come From Her Podcast
 
 Claim Timestamp: 00:05:52
 
@@ -1445,7 +1444,7 @@ Investigative Direction: Search the episode transcripts cited in the complaint f
 
 ---
 
-**C-10360** Host Says the Charlie's Angels or Demons Episode Never Named Harpole
+**C-8645** Host Says the Charlie's Angels or Demons Episode Never Named Harpole
 
 Claim Timestamp: 00:07:04
 
@@ -1461,7 +1460,7 @@ Investigative Direction: Review the full episode transcript for any reference to
 
 ---
 
-**C-10361** Host Says Farnsworth Announced Kirk Dead by Selfie Video Two Minutes After the Shot
+**C-8646** Host Says Farnsworth Announced Kirk Dead by Selfie Video Two Minutes After the Shot
 
 Claim Timestamp: 00:07:04
 
@@ -1477,7 +1476,7 @@ Investigative Direction: Obtain Farnsworth's selfie video with its original uplo
 
 ---
 
-**C-10362** Host Says Mikey McCoy and Farnsworth Filmed Themselves Announcing the Death
+**C-8647** Host Says Mikey McCoy and Farnsworth Filmed Themselves Announcing the Death
 
 Claim Timestamp: 00:07:04
 
@@ -1493,7 +1492,7 @@ Investigative Direction: Identify any video in which Mikey McCoy announces the d
 
 ---
 
-**C-10363** Host Says Her Medical Bag Line Was Only a Description
+**C-8649** Host Says Her Medical Bag Line Was Only a Description
 
 Claim Timestamp: 00:09:16
 
@@ -1509,7 +1508,7 @@ Investigative Direction: Compare the quoted line with the full 'The Great Exodus
 
 ---
 
-**C-10364** Turek Audio Says Kirk's Team Had Drones Up and Texted Crowd Video
+**C-8651** Turek Audio Says Kirk's Team Had Drones Up and Texted Crowd Video
 
 Claim Timestamp: 00:10:55
 
@@ -1520,13 +1519,13 @@ Transcript Snippet: we're driving in, Megan, and his team has drones up um looki
 Anchored Artifacts: A-2028.1
 Mentions: N-7, N-1
 Related Nodes: N-10645
-Supports: C-1753
+Supports: C-3110
 Tags: relevance:core
 Investigative Direction: Obtain the original Turek interview audio and the drone footage or text messages he describes.
 
 ---
 
-**C-10365** Host Says a Drone-Training Pilot Told Her Drones Can Be Flown in Provo
+**C-8652** Host Says a Drone-Training Pilot Told Her Drones Can Be Flown in Provo
 
 Claim Timestamp: 00:10:55
 
@@ -1537,13 +1536,13 @@ Transcript Snippet: Yeah, you can't fly in Provo airspace meaning around airport
 Anchored Artifacts: A-2028.1
 Mentions: N-3
 Related Nodes: N-10645
-Contradicts: C-4947
+Contradicts: C-3018
 Tags: relevance:core
 Investigative Direction: Check FAA Part 107 airspace authorization records for the UVU campus and any waiver requests filed for the event.
 
 ---
 
-**C-10366** Host Says the Lawsuit Opens With Strong Support for Israel and a Netanyahu Picture
+**C-8653** Host Says the Lawsuit Opens With Strong Support for Israel and a Netanyahu Picture
 
 Claim Timestamp: 00:12:40
 
@@ -1559,7 +1558,7 @@ Investigative Direction: Read the opening paragraphs and exhibits of the complai
 
 ---
 
-**C-10367** Host Says the Lawsuit Mentions the Moon Landing and She Believes It Was Fake
+**C-8654** Host Says the Lawsuit Mentions the Moon Landing and She Believes It Was Fake
 
 Claim Timestamp: 00:12:40
 
@@ -1575,7 +1574,7 @@ Investigative Direction: Read paragraph 19 of the complaint to confirm the moon-
 
 ---
 
-**C-10368** Host States the Limited-Purpose Public Figure Rule and Says Harpole Fits It
+**C-8656** Host States the Limited-Purpose Public Figure Rule and Says Harpole Fits It
 
 Claim Timestamp: 00:15:36
 
@@ -1586,13 +1585,13 @@ Transcript Snippet: private citizens can indeed become limited purpose public fi
 Anchored Artifacts: A-2015.5
 Mentions: N-3, N-266, N-224
 Related Nodes: N-10644
-Contradicts: C-2815
+Contradicts: C-8655
 Tags: relevance:context
 Investigative Direction: Have a defamation lawyer assess Harpole's status under Tennessee or Utah limited-purpose public figure case law.
 
 ---
 
-**C-10369** Host Says Kolvet Asked Her to Defend the Security Team Publicly
+**C-8659** Host Says Kolvet Asked Her to Defend the Security Team Publicly
 
 Claim Timestamp: 00:17:25
 
@@ -1603,13 +1602,13 @@ Transcript Snippet: And Andrew asked me if I would be willing to say something p
 Anchored Artifacts: A-2016.1
 Mentions: N-3, N-14
 Related Nodes: 
-Supports: C-2820
+Supports: C-8662
 Tags: relevance:core
 Investigative Direction: Obtain the host's phone log and the text exchange with Kolvet from that day.
 
 ---
 
-**C-10370** Host Says She Defended Harpole and Flood Without Naming Them
+**C-8660** Host Says She Defended Harpole and Flood Without Naming Them
 
 Claim Timestamp: 00:17:25
 
@@ -1620,13 +1619,13 @@ Transcript Snippet: I went through great lengths to defend both Brian Harpole an
 Anchored Artifacts: A-2018.1
 Mentions: N-3, N-266, N-270
 Related Nodes: 
-Supports: C-2817
+Supports: C-8658
 Tags: relevance:core
 Investigative Direction: Audit September 2025 episodes for any naming of Harpole or Flood.
 
 ---
 
-**C-10371** Host Recounts Early Hand-Signal Theories About Turek, Flood and Harpole
+**C-8661** Host Recounts Early Hand-Signal Theories About Turek, Flood and Harpole
 
 Claim Timestamp: 00:17:25
 
@@ -1642,7 +1641,7 @@ Investigative Direction: Identify the original posts that circulated the hand-si
 
 ---
 
-**C-10372** Host Says Harpole's Shawn Ryan Interview Made Her Look Again
+**C-8663** Host Says Harpole's Shawn Ryan Interview Made Her Look Again
 
 Claim Timestamp: 00:19:10
 
@@ -1658,7 +1657,7 @@ Investigative Direction: Compare the Shawn Ryan interview statements with the in
 
 ---
 
-**C-10373** Host Says She First Raised the Fort Huachuca Sighting on November 8
+**C-8664** Host Says She First Raised the Fort Huachuca Sighting on November 8
 
 Claim Timestamp: 00:20:00
 
@@ -1674,7 +1673,7 @@ Investigative Direction: Locate the episode that first mentioned the Fort Huachu
 
 ---
 
-**C-10374** Host Says the Solo Episode Naming the Sighting Caused Mass Panic
+**C-8665** Host Says the Solo Episode Naming the Sighting Caused Mass Panic
 
 Claim Timestamp: 00:20:00
 
@@ -1690,7 +1689,7 @@ Investigative Direction: Confirm the air date of the solo episode and the sequen
 
 ---
 
-**C-10375** Host Says Paramount Tactical and the Valhalla Guy Warned That Harpole Would Sue
+**C-8666** Host Says Paramount Tactical and the Valhalla Guy Warned That Harpole Would Sue
 
 Claim Timestamp: 00:20:46
 
@@ -1706,7 +1705,7 @@ Investigative Direction: Obtain the messages the host received from the intermed
 
 ---
 
-**C-10376** Host Says Harpole Told Others to Say He Would Sue if She Interviewed Mitch
+**C-8667** Host Says Harpole Told Others to Say He Would Sue if She Interviewed Mitch
 
 Claim Timestamp: 00:21:29
 
@@ -1722,7 +1721,7 @@ Investigative Direction: Identify the intermediaries and any written message con
 
 ---
 
-**C-10377** Host Says She Sent Harpole Four Messages and Flood One
+**C-8668** Host Says She Sent Harpole Four Messages and Flood One
 
 Claim Timestamp: 00:21:29
 
@@ -1733,13 +1732,13 @@ Transcript Snippet: I sent Brian Harpole I think a total of four messages and I 
 Anchored Artifacts: A-2015.8
 Mentions: N-3, N-266, N-270, N-361
 Related Nodes: 
-Supports: C-6799
+Supports: C-4514
 Tags: relevance:core
 Investigative Direction: Obtain the full message log to Harpole and Flood and compare the count with the three messages quoted on air.
 
 ---
 
-**C-10378** Host Says the Lawsuit Admits Harpole Received Her Messages and Chose Not to Reply
+**C-8670** Host Says the Lawsuit Admits Harpole Received Her Messages and Chose Not to Reply
 
 Claim Timestamp: 00:23:03
 
@@ -1750,13 +1749,13 @@ Transcript Snippet: He's acknowledging he received these messages and he chose n
 Anchored Artifacts: A-2017.3
 Mentions: N-3, N-266
 Related Nodes: 
-Supports: C-2818
+Supports: C-8669
 Tags: relevance:core
 Investigative Direction: Read points 54 to 59 of the complaint to confirm the acknowledgment of receipt.
 
 ---
 
-**C-10379** Host Says a Yes or No From Harpole Would Not Have Stopped Her Hosting Mitch
+**C-8672** Host Says a Yes or No From Harpole Would Not Have Stopped Her Hosting Mitch
 
 Claim Timestamp: 00:25:05
 
@@ -1772,7 +1771,7 @@ Investigative Direction: Compare the host's outreach messages with the complaint
 
 ---
 
-**C-10380** Host Says Harpole Presented the Flood-Long Chain Using 'I'
+**C-8673** Host Says Harpole Presented the Flood-Long Chain Using 'I'
 
 Claim Timestamp: 00:25:54
 
@@ -1783,13 +1782,13 @@ Transcript Snippet: You presented this text chain as if it was yours. In fact, y
 Anchored Artifacts: A-2019.1
 Mentions: N-3, N-266, N-224, N-271, N-270
 Related Nodes: N-10272
-Supports: C-1762
+Supports: C-3214
 Tags: relevance:core
 Investigative Direction: Compare the Shawn Ryan audio with the Flood and Long messages to find the exact wording used.
 
 ---
 
-**C-10381** Host Says the Lawsuit Misstates That She Confirmed Mitch's Identification of Harpole
+**C-8675** Host Says the Lawsuit Misstates That She Confirmed Mitch's Identification of Harpole
 
 Claim Timestamp: 00:28:54
 
@@ -1800,13 +1799,13 @@ Transcript Snippet: I went through a great many pains to repeatedly assert publi
 Anchored Artifacts: A-2015.9
 Mentions: N-3, N-266, N-361
 Related Nodes: N-10373
-Supports: C-2823
+Supports: C-8679
 Tags: relevance:core
 Investigative Direction: Compile every on-air statement by the host on whether Harpole was identified and compare them to the complaint's characterization.
 
 ---
 
-**C-10382** Host Plays Her Interview Line That She Cannot Confirm Who Mitch Saw
+**C-8676** Host Plays Her Interview Line That She Cannot Confirm Who Mitch Saw
 
 Claim Timestamp: 00:29:07
 
@@ -1817,13 +1816,13 @@ Transcript Snippet: I obviously can't confirm that you saw who you say you saw. 
 Anchored Artifacts: A-3076.1
 Mentions: N-3, N-361
 Related Nodes: N-10373
-Supports: C-2822
+Supports: C-8678
 Tags: relevance:core
 Investigative Direction: Obtain the full Mitch Snow interview and verify the clip is in context and its date.
 
 ---
 
-**C-10383** Host Says in the Interview That She Confirmed Mitch's Route and Meeting With Metadata
+**C-8677** Host Says in the Interview That She Confirmed Mitch's Route and Meeting With Metadata
 
 Claim Timestamp: 00:29:07
 
@@ -1839,7 +1838,7 @@ Investigative Direction: Obtain the metadata files and the identities of the For
 
 ---
 
-**C-10384** Host's X Post Says Mitch Was Taken Outside and Questioned by Captain Neff
+**C-8680** Host's X Post Says Mitch Was Taken Outside and Questioned by Captain Neff
 
 Claim Timestamp: 00:29:59
 
@@ -1850,13 +1849,13 @@ Transcript Snippet: Remember, Mitch said he was at first taken outside by Captai
 Anchored Artifacts: A-2020.1
 Mentions: N-3, N-361, N-319
 Related Nodes: N-10373
-Supports: C-5390
+Supports: C-4407
 Tags: relevance:core
 Investigative Direction: Obtain the incident report and any base logs naming Captain Neff on the morning described.
 
 ---
 
-**C-10385** Host Says Brigitte Macron Claimed She Was a UK Dual Citizen
+**C-8681** Host Says Brigitte Macron Claimed She Was a UK Dual Citizen
 
 Claim Timestamp: 00:31:04
 
@@ -1872,7 +1871,7 @@ Investigative Direction: Locate the Macron filing language on citizenship and th
 
 ---
 
-**C-10386** Host Says Klacik Folded in Discovery
+**C-8682** Host Says Klacik Folded in Discovery
 
 Claim Timestamp: 00:32:15
 
@@ -1888,7 +1887,7 @@ Investigative Direction: Pull the docket and any settlement or dismissal record 
 
 ---
 
-**C-10387** Host Says Harpole's Lawyer Had Been in Contact With Her Lawyers for Two Years
+**C-8683** Host Says Harpole's Lawyer Had Been in Contact With Her Lawyers for Two Years
 
 Claim Timestamp: 00:33:47
 
@@ -1904,7 +1903,7 @@ Investigative Direction: Ask the host's counsel for correspondence with Harpole'
 
 ---
 
-**C-10388** Host Says She Received the Lawsuit a Couple of Hours Before Recording
+**C-8684** Host Says She Received the Lawsuit a Couple of Hours Before Recording
 
 Claim Timestamp: 00:33:47
 
@@ -1920,7 +1919,7 @@ Investigative Direction: Check the docket filing time and the service record aga
 
 ---
 
-**C-10389** Host Says Farnsworth Has Never-Seen Footage She Would Subpoena
+**C-8685** Host Says Farnsworth Has Never-Seen Footage She Would Subpoena
 
 Claim Timestamp: 00:34:51
 
@@ -1936,7 +1935,7 @@ Investigative Direction: Seek the footage through discovery or a subpoena in the
 
 ---
 
-**C-10390** Coleman Audio Says Erika's Side Cited a Laughing-Face Text Joke
+**C-8688** Coleman Audio Says Erika's Side Cited a Laughing-Face Text Joke
 
 Claim Timestamp: 00:43:04
 
@@ -1952,7 +1951,7 @@ Investigative Direction: Obtain the full text exchange and its recipient, and Er
 
 ---
 
-**C-10391** Host Says Erika's Team Attacked Joe Kent for Asking About Foreign Influence
+**C-8690** Host Says Erika's Team Attacked Joe Kent for Asking About Foreign Influence
 
 Claim Timestamp: 00:44:39
 
@@ -1968,7 +1967,7 @@ Investigative Direction: Collect posts by Erika Kirk's team attacking Joe Kent a
 
 ---
 
-**C-10392** Host Says Erika Lied About Dr. Lee Trotter's Words
+**C-8691** Host Says Erika Lied About Dr. Lee Trotter's Words
 
 Claim Timestamp: 00:45:35
 
@@ -1979,13 +1978,13 @@ Transcript Snippet: Her lying about Dr. Lee Trotter's words. That is significant
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-195
 Related Nodes: N-10358
-Supports: C-5187
+Supports: C-4180
 Tags: relevance:core
 Investigative Direction: Compare Erika Kirk's attributions to Dr. Trotter with his own statements.
 
 ---
 
-**C-10393** Host Says Erika Colluded With Kolvet on the Man of Steel Statement and Denied It
+**C-8692** Host Says Erika Colluded With Kolvet on the Man of Steel Statement and Denied It
 
 Claim Timestamp: 00:45:35
 
@@ -2001,7 +2000,7 @@ Investigative Direction: Obtain the host's December 15 meeting notes or recordin
 
 ---
 
-**C-10394** Host Says Donors Tell Her the AmFest Audio Claim Is a Lie
+**C-8693** Host Says Donors Tell Her the AmFest Audio Claim Is a Lie
 
 Claim Timestamp: 00:45:35
 
@@ -2012,13 +2011,13 @@ Transcript Snippet: Donors literally telling me that she is lying about the audi
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10664, N-10437
-Supports: C-2694
+Supports: C-8029
 Tags: relevance:core
 Investigative Direction: Identify the donors present at the Aspen event and obtain on-record statements about whether Kirk named Erika.
 
 ---
 
-**C-10395** Host Says TPUSA Has Not Released the Video of Charlie Naming Erika CEO
+**C-8694** Host Says TPUSA Has Not Released the Video of Charlie Naming Erika CEO
 
 Claim Timestamp: 00:46:23
 
@@ -2034,7 +2033,7 @@ Investigative Direction: Request the original recording with metadata and the ve
 
 ---
 
-**C-10396** Host Says Kolvet Treats a Private Chat Mocking Weiss as a Statement by Her
+**C-8695** Host Says Kolvet Treats a Private Chat Mocking Weiss as a Statement by Her
 
 Claim Timestamp: 00:46:23
 
@@ -2050,7 +2049,7 @@ Investigative Direction: Obtain the full private chat between the host and Kolve
 
 ---
 
-**C-10397** Host Gives Permission to Release the Entire Chat With Kolvet
+**C-8696** Host Gives Permission to Release the Entire Chat With Kolvet
 
 Claim Timestamp: 00:47:14
 
@@ -2066,7 +2065,7 @@ Investigative Direction: Request that Kolvet or TPUSA publish the full chat and 
 
 ---
 
-**C-10398** Host Says Kolvet Insinuated She Went Into the December 15 Meeting Convinced of Erika's Guilt
+**C-8697** Host Says Kolvet Insinuated She Went Into the December 15 Meeting Convinced of Erika's Guilt
 
 Claim Timestamp: 00:47:14
 
@@ -2082,7 +2081,7 @@ Investigative Direction: Obtain the December 15 meeting notes and any recording,
 
 ---
 
-**C-10399** Host Says She Told Erika Someone at TPUSA Pointed Her Toward Kolvet
+**C-8698** Host Says She Told Erika Someone at TPUSA Pointed Her Toward Kolvet
 
 Claim Timestamp: 00:48:00
 
@@ -2098,7 +2097,7 @@ Investigative Direction: Ask Erika Kirk whether the host made this disclosure on
 
 ---
 
-**C-10400** Host Says Mikey McCoy Sent the Message About Kolvet Through a Third Party
+**C-8699** Host Says Mikey McCoy Sent the Message About Kolvet Through a Third Party
 
 Claim Timestamp: 00:48:52
 
@@ -2114,7 +2113,7 @@ Investigative Direction: Identify the third-party intermediary and obtain the me
 
 ---
 
-**C-10401** Host Says Kolvet Was Her Number One Early Source and Cannot Show What Aubrey Gave Her
+**C-8700** Host Says Kolvet Was Her Number One Early Source and Cannot Show What Aubrey Gave Her
 
 Claim Timestamp: 00:48:52
 
@@ -2130,7 +2129,7 @@ Investigative Direction: Ask Kolvet to specify the information attributed to Aub
 
 ---
 
-**C-10402** Host Says Lawler and Gottheimer Take More Than a Million Dollars From AIPAC
+**C-8703** Host Says Lawler and Gottheimer Take More Than a Million Dollars From AIPAC
 
 Claim Timestamp: 00:52:10
 
@@ -2146,7 +2145,7 @@ Investigative Direction: Check FEC and OpenSecrets records for AIPAC-linked cont
 
 ---
 
-**C-10403** Resolution Text Alleges Candace Cast Doubt on Holocaust Survivors
+**C-8704** Resolution Text Alleges Candace Cast Doubt on Holocaust Survivors
 
 Claim Timestamp: 00:52:10
 
@@ -2162,7 +2161,7 @@ Investigative Direction: Obtain the full resolution text and its cited sources f
 
 ---
 
-**C-10404** Host Says Satanic Pedophiles Working for Israel Refers to the Epstein Class
+**C-8706** Host Says Satanic Pedophiles Working for Israel Refers to the Epstein Class
 
 Claim Timestamp: 00:52:50
 
@@ -2178,7 +2177,7 @@ Investigative Direction: Locate the host's original statement and compare it wit
 
 ---
 
-**C-10405** Host Says Epstein Was a Satanic Pedophile Who Worked for Israel
+**C-8707** Host Says Epstein Was a Satanic Pedophile Who Worked for Israel
 
 Claim Timestamp: 00:52:50
 
@@ -2194,7 +2193,7 @@ Investigative Direction: Identify public records on Epstein's alleged intelligen
 
 ---
 
-**C-10406** Host Says Trump Asked 'What Are We Still Talking About' on Epstein
+**C-8708** Host Says Trump Asked 'What Are We Still Talking About' on Epstein
 
 Claim Timestamp: 00:52:50
 
@@ -2210,7 +2209,7 @@ Investigative Direction: Locate the Trump remark and its date and context.
 
 ---
 
-**C-10407** Host Says the Resolution Accuses Her of Claiming Jews Kill Christian Children
+**C-8710** Host Says the Resolution Accuses Her of Claiming Jews Kill Christian Children
 
 Claim Timestamp: 00:53:42
 
@@ -2226,7 +2225,7 @@ Investigative Direction: Search the host's transcripts for the alleged statement
 
 ---
 
-**C-10408** Host Says Florida Police Visit People Over Tweets
+**C-8712** Host Says Florida Police Visit People Over Tweets
 
 Claim Timestamp: 00:57:59
 
@@ -2242,7 +2241,7 @@ Investigative Direction: Identify specific Florida cases of police visits over s
 
 ---
 
-**C-10409** Leavitt Audio Says Commentators' Rhetoric Inspires Political Violence
+**C-8713** Leavitt Audio Says Commentators' Rhetoric Inspires Political Violence
 
 Claim Timestamp: 00:58:44
 
@@ -2258,7 +2257,7 @@ Investigative Direction: Obtain the White House briefing transcript with date.
 
 ---
 
-**C-10410** Host Reads Melania Trump's Post Calling Kimmel's Joke Hateful
+**C-8714** Host Reads Melania Trump's Post Calling Kimmel's Joke Hateful
 
 Claim Timestamp: 00:59:40
 
@@ -2274,7 +2273,7 @@ Investigative Direction: Retrieve the original Melania Trump post and its date.
 
 ---
 
-**C-10411** Host Says Charlie Laughed Off South Park's Master Debater Episode
+**C-8716** Host Says Charlie Laughed Off South Park's Master Debater Episode
 
 Claim Timestamp: 01:01:07
 
@@ -2290,7 +2289,7 @@ Investigative Direction: Locate the South Park episode and Kirk's public reactio
 
 ---
 
-**C-10412** Host Says the US Bombed 150 Schoolgirls in Iran and Lied About It
+**C-8717** Host Says the US Bombed 150 Schoolgirls in Iran and Lied About It
 
 Claim Timestamp: 01:06:42
 
@@ -2301,13 +2300,13 @@ Transcript Snippet: when you guys just like randomly dropped a bomb on 150 schoo
 Anchored Artifacts: 
 Mentions: N-3, N-5
 Related Nodes: 
-Supports: C-7121
+Supports: C-6786
 Tags: relevance:tangential
 Investigative Direction: Check official US and Iranian accounts of the strike and the later statements about it.
 
 ---
 
-**C-10413** Host Says Loomer Claimed She Was Hiding Money in a Trust
+**C-8718** Host Says Loomer Claimed She Was Hiding Money in a Trust
 
 Claim Timestamp: 01:08:34
 
@@ -2318,13 +2317,13 @@ Transcript Snippet: This was like Laura Loomer hiding money in a trust. She She 
 Anchored Artifacts: 
 Mentions: N-3, N-60, N-82
 Related Nodes: 
-Supports: C-8759
+Supports: C-8553
 Tags: relevance:tangential
 Investigative Direction: Locate Loomer's posts on the trust claim and the host's financial structure records.
 
 ---
 
-**C-10414** Host Says Harpole's Lawyer Matt Sarelson Was Retweeting Laura Loomer
+**C-8719** Host Says Harpole's Lawyer Matt Sarelson Was Retweeting Laura Loomer
 
 Claim Timestamp: 01:08:34
 
@@ -2340,7 +2339,7 @@ Investigative Direction: Review the lawyer's public posting history for Loomer r
 
 ---
 
-**C-10415** Host Says Trump Was Signaling to Erika That She Should Sue People
+**C-8720** Host Says Trump Was Signaling to Erika That She Should Sue People
 
 Claim Timestamp: 01:09:37
 
@@ -2356,7 +2355,7 @@ Investigative Direction: Find the Trump remarks urging lawsuits and whether they
 
 ---
 
-**C-10416** Host Says Getting to Discovery Costs Hundreds of Thousands of Dollars
+**C-8721** Host Says Getting to Discovery Costs Hundreds of Thousands of Dollars
 
 Claim Timestamp: 01:09:37
 
@@ -2372,7 +2371,7 @@ Investigative Direction: Ask the host's counsel for a budget estimate; the figur
 
 ---
 
-**C-10417** Viewer Comment Cites UVU's Drone Authorization Form
+**C-8722** Viewer Comment Cites UVU's Drone Authorization Form
 
 Claim Timestamp: 01:11:10
 
@@ -2388,7 +2387,7 @@ Investigative Direction: Request the UVU drone authorization form records for th
 
 ---
 
-**C-10418** Host Says Harpole Has Not Given Her an Alibi for the Morning of September 9
+**C-8723** Host Says Harpole Has Not Given Her an Alibi for the Morning of September 9
 
 Claim Timestamp: 01:11:50
 
@@ -2404,7 +2403,7 @@ Investigative Direction: Ask Harpole's counsel for dated receipts, location data
 
 ---
 
-**C-10419** Host Says Flights She Has Left Dallas in the Afternoon
+**C-8724** Host Says Flights She Has Left Dallas in the Afternoon
 
 Claim Timestamp: 01:11:50
 
@@ -2420,7 +2419,7 @@ Investigative Direction: Obtain the flight records the host refers to and verify
 
 ---
 
-**C-10420** Host Says Mitch Placed the Meeting's End at 7:30 and Flights Could Reach Dallas by 10
+**C-8725** Host Says Mitch Placed the Meeting's End at 7:30 and Flights Could Reach Dallas by 10
 
 Claim Timestamp: 01:11:50
 
@@ -2436,7 +2435,7 @@ Investigative Direction: Identify the specific flights the host means and check 
 
 ---
 
-**C-10421** Host Says She Was Wrong About Harpole
+**C-8726** Host Says She Was Wrong About Harpole
 
 Claim Timestamp: 01:12:38
 
@@ -2447,13 +2446,13 @@ Transcript Snippet: I was sympathetic to you and I was wrong about you is what I
 Anchored Artifacts: 
 Mentions: N-3, N-266
 Related Nodes: N-10373
-Qualifies: C-2820
+Qualifies: C-8662
 Tags: relevance:core
 Investigative Direction: Compare this statement with her September 2025 defense of the security team and with later episodes on Harpole.
 
 ---
 
-**C-10422** Host Says She Was Smeared and Blocked From Travelling to Australia in 2023-2024
+**C-8727** Host Says She Was Smeared and Blocked From Travelling to Australia in 2023-2024
 
 Claim Timestamp: 01:13:25
 
@@ -2464,7 +2463,7 @@ Transcript Snippet: they smeared me, tried to stop me from being able to travel 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: 
-Supports: C-7946
+Supports: C-2601
 Tags: relevance:tangential
 Investigative Direction: Review Australian visa decisions and related correspondence; the host gives no documents on air.
 

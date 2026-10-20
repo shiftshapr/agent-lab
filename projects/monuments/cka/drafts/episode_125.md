@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-732, N-733, N-735, N-737, N-11058, N-11060
   - Hole-minted Nodes (reintro-ep125): N-10850
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5853–C-5919
+  - Claim Range: C-10695–C-10771
   - New Nodes Introduced: N-10716
   - Reused Nodes Appearing: N-11, N-10715, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10074, N-10193, N-10338, N-10340, N-10342, N-10403, N-10446, N-10456, N-10528, N-10532, N-10681, N-10712, N-10730, N-10815, N-10990, N-10714, N-10748, N-734, N-11059, N-11061, N-736, N-11057
   - Hole-minted Nodes (wave1b): N-367
@@ -43,7 +43,7 @@ Video Timestamp: 00:01:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3017, N-1, N-10714*
+*Related: C-10698, N-1, N-10714*
 
 **A-2129.2** Photograph: unidentified burnt object left in backseat of SUV
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:01:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3017, N-10714*
+*Related: C-10698, N-10714*
 
 **A-2130** Burn Test Replication Bundle
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:06:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (informal replication; not forensic match)
 
-*Related: C-3017, N-10714*
+*Related: C-10698, N-10714*
 
 **A-2131** Viewer Tip Bundle (T-Shirt Identification)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:03:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (unverified poster identity)
 
-*Related: C-3017, N-10714*
+*Related: C-10698, N-10714*
 
 **A-2131.2** Email from self-identified plastic surgery nurse identifying object as melted polyester shirt with charred skin
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:04:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (unverified sender identity; anonymous)
 
-*Related: C-3017, N-10714*
+*Related: C-10698, N-10714*
 
 **A-2132** Blake Neff Social Media Post Bundle
 
@@ -111,7 +111,7 @@ Video Timestamp: 00:13:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3018, C-3019, C-3020, N-10715*
+*Related: C-10707, C-10708, C-10711, N-10715*
 
 **A-2134** Bank of America Merrill Lynch Network Visual Guide Bundle
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:24:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-compiled; underlying claims require separate verification)
 
-*Related: C-3021, C-3022, C-3023, C-3024, N-10716, N-11*
+*Related: C-10720, C-10727, C-10731, C-10732, N-10716, N-11*
 
 **A-2135** Andrew Kolvet Tweet Bundle
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:41:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3025, N-1*
+*Related: C-10760, N-1*
 
 **A-2136** NCRI Report Bundle
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:33:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3026, N-2*
+*Related: C-10747, N-2*
 
 **A-2137** Top Viewer Comments Bundle (Previous Episode)
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:19:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5873, C-5872, N-3, N-502, N-1*
+*Related: C-10719, C-10718, N-3, N-502, N-1*
 
 ---
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:20:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5874, N-3, N-1, N-502*
+*Related: C-10721, N-3, N-1, N-502*
 
 ---
 
@@ -258,7 +258,7 @@ Video Timestamp: 00:30:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5887, N-3*
+*Related: C-10737, N-3*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:30:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5888, N-3*
+*Related: C-10738, N-3*
 
 ---
 
@@ -284,7 +284,7 @@ Video Timestamp: 00:31:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5891, N-3*
+*Related: C-10741, N-3*
 
 ---
 
@@ -297,7 +297,7 @@ Video Timestamp: 00:50:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5918, N-3, N-2, N-27*
+*Related: C-10770, N-3, N-2, N-27*
 
 ---
 
@@ -307,13 +307,13 @@ Confidence Level: Low
 
 First named by the host at 00:19:38 in episode 125.
 
-*Related: C-3021, A-2134.1*
+*Related: C-10720, A-2134.1*
 
 **N-503** Eliot Spitzer
 
 First named by the host at 00:21:23 in episode 125.
 
-*Related: C-3021*
+*Related: C-10720*
 
 
 **N-10714** Unidentified Burnt Object in Charlie Kirk's SUV
@@ -325,7 +325,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2129.2, A-2130.1, A-2131.1, A-2131.2, C-3017, N-1*
+*Related: A-2129.2, A-2130.1, A-2131.1, A-2131.2, C-10698, N-1*
 
 **N-10715** Blake Neff September 10th Movement Discrepancy
 
@@ -336,7 +336,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2133.1, C-3019, C-3020*
+*Related: A-2133.1, C-10708, C-10711*
 
 **N-10716** Bank of America Merrill Lynch Personnel Network
 
@@ -347,7 +347,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2134.1, C-3021, C-3022, C-3023, C-3024, N-11*
+*Related: A-2134.1, C-10720, C-10727, C-10731, C-10732, N-11*
 
 ---
 
@@ -360,7 +360,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2133.1, A-2134.1, C-3020, C-3021, C-3022*
+*Related: A-2133.1, A-2134.1, C-10711, C-10720, C-10727*
 
 ---
 
@@ -369,7 +369,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-3023*
+*Related: C-10731*
 
 ---
 
@@ -377,7 +377,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host reports statements, hiring and texts involving him.
 
-*Related: C-5854, C-5855, C-5856, C-5857, C-5858, C-5859, C-5862, C-5863, C-5864, C-5866, C-5867, C-5868, C-5870, C-5871, C-5873, C-5874, C-5876, C-5889, C-5893, C-5894, C-5901, C-5903, C-5905, C-5906, C-5907, C-5908, C-5909, C-5910, C-5912, C-5917, C-5918, A-2783.1, A-2783.2*
+*Related: C-10696, C-10697, C-10699, C-10700, C-10701, C-10702, C-10705, C-10706, C-10709, C-10712, C-10713, C-10714, C-10716, C-10717, C-10719, C-10721, C-10723, C-10739, C-10743, C-10744, C-10752, C-10754, C-10756, C-10757, C-10758, C-10759, C-10761, C-10762, C-10764, C-10769, C-10770, A-2783.1, A-2783.2*
 
 ---
 
@@ -385,7 +385,7 @@ Subject of the assassination; the host reports statements, hiring and texts invo
 
 Widow and TPUSA CEO; the host reports her phone calls, concessions and past connections.
 
-*Related: C-5883, C-5897, C-5899, C-5903, C-5904, C-5915, C-5916, C-5918, A-2785.1*
+*Related: C-10733, C-10748, C-10750, C-10754, C-10755, C-10767, C-10768, C-10770, A-2785.1*
 
 ---
 
@@ -393,7 +393,7 @@ Widow and TPUSA CEO; the host reports her phone calls, concessions and past conn
 
 Host; speaks for herself.
 
-*Related: C-5853, C-5855, C-5856, C-5859, C-5860, C-5871, C-5872, C-5873, C-5874, C-5876, C-5880, C-5887, C-5888, C-5891, C-5892, C-5895, C-5897, C-5898, C-5899, C-5900, C-5902, C-5903, C-5905, C-5906, C-5910, C-5917, C-5918, C-5919, A-2783.1, A-2783.2, A-2784.1, A-2784.2, A-2784.3, A-2785.1*
+*Related: C-10695, C-10697, C-10699, C-10702, C-10703, C-10717, C-10718, C-10719, C-10721, C-10723, C-10728, C-10737, C-10738, C-10741, C-10742, C-10745, C-10748, C-10749, C-10750, C-10751, C-10753, C-10754, C-10756, C-10757, C-10762, C-10769, C-10770, C-10771, A-2783.1, A-2783.2, A-2784.1, A-2784.2, A-2784.3, A-2785.1*
 
 ---
 
@@ -401,7 +401,7 @@ Host; speaks for herself.
 
 Donald Trump; a commenter cites his address to the nation.
 
-*Related: C-5919*
+*Related: C-10771*
 
 ---
 
@@ -409,7 +409,7 @@ Donald Trump; a commenter cites his address to the nation.
 
 Frank Turek; the host questions his FaceTime and restaurantology accounts.
 
-*Related: C-5862, C-5889, C-5890, C-5891, C-5913, C-5914*
+*Related: C-10705, C-10739, C-10740, C-10741, C-10765, C-10766*
 
 ---
 
@@ -417,7 +417,7 @@ Frank Turek; the host questions his FaceTime and restaurantology accounts.
 
 Jeffrey Epstein; subject of the Bank of America suit and the Brunel firm remark.
 
-*Related: C-5884, C-5885, C-5886, C-5916*
+*Related: C-10734, C-10735, C-10736, C-10768*
 
 ---
 
@@ -425,7 +425,7 @@ Jeffrey Epstein; subject of the Bank of America suit and the Brunel firm remark.
 
 TPUSA spokesperson; the host's alleged source on the Netanyahu offer and subject of his tweet.
 
-*Related: C-5856, C-5894, C-5896, C-5902, C-5904, C-5905, C-5906, C-5909, C-5910, C-5911, C-5912*
+*Related: C-10699, C-10744, C-10746, C-10753, C-10755, C-10756, C-10757, C-10761, C-10762, C-10763, C-10764*
 
 ---
 
@@ -433,7 +433,7 @@ TPUSA spokesperson; the host's alleged source on the Netanyahu offer and subject
 
 Pastor Rob McCoy; named in the host's list of Eastern European ties.
 
-*Related: C-5881*
+*Related: C-10729*
 
 ---
 
@@ -441,7 +441,7 @@ Pastor Rob McCoy; named in the host's list of Eastern European ties.
 
 Tucker Carlson; the host says he recommended Neff and is listed with her in a document.
 
-*Related: C-5858, C-5900*
+*Related: C-10701, C-10751*
 
 ---
 
@@ -449,7 +449,7 @@ Tucker Carlson; the host says he recommended Neff and is listed with her in a do
 
 Kanye West; the host refers to the Kanye moment and Erika's alleged role.
 
-*Related: C-5917, C-5918, A-2785.1*
+*Related: C-10769, C-10770, A-2785.1*
 
 ---
 
@@ -457,7 +457,7 @@ Kanye West; the host refers to the Kanye moment and Erika's alleged role.
 
 Benjamin Netanyahu; subject of the alleged TPUSA offer and show refusal.
 
-*Related: C-5903, C-5904, C-5906, C-5907, C-5909*
+*Related: C-10754, C-10755, C-10757, C-10758, C-10761*
 
 ---
 
@@ -465,7 +465,7 @@ Benjamin Netanyahu; subject of the alleged TPUSA offer and show refusal.
 
 Bill Ackman; the host says Netanyahu called at his house.
 
-*Related: C-5903*
+*Related: C-10754*
 
 ---
 
@@ -473,7 +473,7 @@ Bill Ackman; the host says Netanyahu called at his house.
 
 Tyler Robinson; defendant whose trial date the host ties to the NCRI report.
 
-*Related: C-5895*
+*Related: C-10745*
 
 ---
 
@@ -481,7 +481,7 @@ Tyler Robinson; defendant whose trial date the host ties to the NCRI report.
 
 Ben Shapiro; subject of the lunch lead.
 
-*Related: C-5892*
+*Related: C-10742*
 
 ---
 
@@ -489,7 +489,7 @@ Ben Shapiro; subject of the lunch lead.
 
 John Mappin; husband of Irina Mappin.
 
-*Related: C-5880*
+*Related: C-10728*
 
 ---
 
@@ -497,7 +497,7 @@ John Mappin; husband of Irina Mappin.
 
 Irina Mappin (transcript Irina; node alias Irina Mappin); told the host about Russian speakers at the memorial.
 
-*Related: C-5880*
+*Related: C-10728*
 
 ---
 
@@ -505,7 +505,7 @@ Irina Mappin (transcript Irina; node alias Irina Mappin); told the host about Ru
 
 Blake Neff; X Space audio subject and critic of the host.
 
-*Related: C-5856, C-5857, C-5858, C-5859, C-5861, C-5864, C-5865, C-5887, C-5888, C-5891, C-5898*
+*Related: C-10699, C-10700, C-10701, C-10702, C-10704, C-10709, C-10710, C-10737, C-10738, C-10741, C-10749*
 
 ---
 
@@ -513,7 +513,7 @@ Blake Neff; X Space audio subject and critic of the host.
 
 Mikey McCoy; rented the SUVs and appears in the call logs.
 
-*Related: C-5862, C-5866, C-5889*
+*Related: C-10705, C-10712, C-10739*
 
 ---
 
@@ -521,7 +521,7 @@ Mikey McCoy; rented the SUVs and appears in the call logs.
 
 Elizabeth McCoy; named with her Ukrainian family.
 
-*Related: C-5881*
+*Related: C-10729*
 
 ---
 
@@ -529,7 +529,7 @@ Elizabeth McCoy; named with her Ukrainian family.
 
 Andrew K. Smith; interviewer of Kirk's last interview before UVU.
 
-*Related: C-5863*
+*Related: C-10706*
 
 ---
 
@@ -537,7 +537,7 @@ Andrew K. Smith; interviewer of Kirk's last interview before UVU.
 
 Baron Coleman; told the host the shirt was 100% polyester.
 
-*Related: C-5855*
+*Related: C-10697*
 
 ---
 
@@ -545,7 +545,7 @@ Baron Coleman; told the host the shirt was 100% polyester.
 
 Johnnie Moore; Kolvet's former partner and NCRI board member per the host.
 
-*Related: C-5894*
+*Related: C-10744*
 
 ---
 
@@ -553,7 +553,7 @@ Johnnie Moore; Kolvet's former partner and NCRI board member per the host.
 
 Jean-Luc Brunel; founder of the modeling firm the host mentions.
 
-*Related: C-5916*
+*Related: C-10768*
 
 ---
 
@@ -561,7 +561,7 @@ Jean-Luc Brunel; founder of the modeling firm the host mentions.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5857*
+*Related: C-10700*
 
 ---
 
@@ -569,7 +569,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5902, C-5909*
+*Related: C-10753, C-10761*
 
 ---
 
@@ -577,7 +577,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5903, C-5905*
+*Related: C-10754, C-10756*
 
 ---
 
@@ -585,7 +585,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5862, C-5863, C-5868, C-5887*
+*Related: C-10705, C-10706, C-10714, C-10737*
 
 ---
 
@@ -593,7 +593,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5866*
+*Related: C-10712*
 
 ---
 
@@ -601,7 +601,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5866*
+*Related: C-10712*
 
 ---
 
@@ -609,7 +609,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5908, C-5912*
+*Related: C-10759, C-10764*
 
 ---
 
@@ -617,7 +617,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5904, C-5910, C-5911*
+*Related: C-10755, C-10762, C-10763*
 
 ---
 
@@ -625,7 +625,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5917, C-5918*
+*Related: C-10769, C-10770*
 
 ---
 
@@ -633,7 +633,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5903, C-5905*
+*Related: C-10754, C-10756*
 
 ---
 
@@ -641,7 +641,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5906, C-5907, C-5909*
+*Related: C-10757, C-10758, C-10761*
 
 ---
 
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5881*
+*Related: C-10729*
 
 ---
 
@@ -657,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5916*
+*Related: C-10768*
 
 ---
 
@@ -665,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5897*
+*Related: C-10748*
 
 ---
 
@@ -673,7 +673,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5892*
+*Related: C-10742*
 
 ---
 
@@ -681,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5890, C-5913, C-5914*
+*Related: C-10740, C-10765, C-10766*
 
 ---
 
@@ -689,7 +689,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5892*
+*Related: C-10742*
 
 ---
 
@@ -697,7 +697,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5893, C-5894, C-5895, C-5896, C-5897*
+*Related: C-10743, C-10744, C-10745, C-10746, C-10748*
 
 ---
 
@@ -705,7 +705,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5887*
+*Related: C-10737*
 
 ---
 
@@ -713,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-5883*
+*Related: C-10733*
 
 ---
 
@@ -721,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.
 
-*Related: C-5858*
+*Related: C-10701*
 
 ---
 
@@ -729,7 +729,7 @@ First named by the host at 00:09:26 in episode 125. Employer of Blake Neff befor
 
 First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGovern). Works in gifts and fundraising at Turning Point USA per the host.
 
-*Related: C-5862, C-5889*
+*Related: C-10705, C-10739*
 
 ---
 
@@ -737,7 +737,7 @@ First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGove
 
 First named by the host at 00:19:38 in episode 125. Subject of the 2019 check dispute.
 
-*Related: C-5871*
+*Related: C-10717*
 
 ---
 
@@ -745,7 +745,7 @@ First named by the host at 00:19:38 in episode 125. Subject of the 2019 check di
 
 First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phillip). Father of Danny Philip.
 
-*Related: C-5882*
+*Related: C-10730*
 
 ---
 
@@ -753,7 +753,7 @@ First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phil
 
 First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the host.
 
-*Related: C-5883*
+*Related: C-10733*
 
 ---
 
@@ -761,7 +761,7 @@ First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the 
 
 First named by the host at 00:25:34 in episode 125. Epstein associate whose wealth Bank of America Merrill Lynch managed per the host.
 
-*Related: C-5884*
+*Related: C-10734*
 
 ---
 
@@ -770,7 +770,7 @@ First named by the host at 00:25:34 in episode 125. Epstein associate whose weal
 Node Type: Topic
 The host's account of Blake Neff's career: Fox News departure, Stew Peters, Marine Corps war gaming and hiring by Charlie Kirk.
 
-*Related: C-5857, C-5858, C-5861*
+*Related: C-10700, C-10701, C-10704*
 
 ---
 
@@ -779,7 +779,7 @@ The host's account of Blake Neff's career: Fox News departure, Stew Peters, Mari
 Node Type: Topic
 The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was lying to her about money, during the Perlmutter dispute and a smear campaign.
 
-*Related: C-5872, C-5873, C-5874, C-5876*
+*Related: C-10718, C-10719, C-10721, C-10723*
 
 ---
 
@@ -788,7 +788,7 @@ The host's account that Thomas Patrick emailed her in 2019 that Charlie Kirk was
 Node Type: Topic
 The host's claims that many Turning Point people and relatives speak Russian or have Russian and Ukrainian ties.
 
-*Related: C-5879, C-5880, C-5881*
+*Related: C-10726, C-10728, C-10729*
 
 ---
 
@@ -797,7 +797,7 @@ The host's claims that many Turning Point people and relatives speak Russian or 
 Node Type: Topic
 The Epstein victims' suit against Bank of America, the $170 million transfers and the settlement as described by the host.
 
-*Related: C-5884, C-5885, C-5886*
+*Related: C-10734, C-10735, C-10736*
 
 ---
 
@@ -806,13 +806,13 @@ The Epstein victims' suit against Bank of America, the $170 million transfers an
 Node Type: Topic
 Who was in the restaurantology event green room and whether Frank Turek was there or in the second SUV.
 
-*Related: C-5889, C-5890, C-5891*
+*Related: C-10739, C-10740, C-10741*
 
 ---
 
 ## 5. Claim Register
 
-**C-3017** Host Says Object in SUV Backseat Consistent with Melted Polyester Shirt
+**C-10698** Host Says Object in SUV Backseat Consistent with Melted Polyester Shirt
 
 Claim Timestamp: 00:06:36
 
@@ -825,7 +825,7 @@ Related Nodes: N-10714
 
 Investigative Direction: Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis.
 
-**C-3018** Host Says Blake Neff Was on Private Jet to Salt Lake City September 10th
+**C-10707** Host Says Blake Neff Was on Private Jet to Salt Lake City September 10th
 
 Claim Timestamp: 00:11:50
 
@@ -837,7 +837,7 @@ Mentions: N-1, N-159
 
 Investigative Direction: Flight manifests, airport records, and witness corroboration would verify the passenger list.
 
-**C-3019** Blake Neff Unable to Recall Second SUV Destination or Occupants
+**C-10708** Blake Neff Unable to Recall Second SUV Destination or Occupants
 
 Claim Timestamp: 00:14:07
 
@@ -850,7 +850,7 @@ Related Nodes: N-10715
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
-**C-3020** Clip Has Blake Neff Acknowledging Danny Philip as Possible SUV Passenger
+**C-10711** Clip Has Blake Neff Acknowledging Danny Philip as Possible SUV Passenger
 
 Claim Timestamp: 00:15:25
 
@@ -863,7 +863,7 @@ Related Nodes: N-10715
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
-**C-3021** Host Says Danny Philip Is Grandson of Thomas Patrick
+**C-10720** Host Says Danny Philip Is Grandson of Thomas Patrick
 
 Claim Timestamp: 00:20:15
 
@@ -876,7 +876,7 @@ Related Nodes: N-10716
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
-**C-3022** Host Says Stephen Phillip Worked at Bank of America Merrill Lynch Chicago
+**C-10727** Host Says Stephen Phillip Worked at Bank of America Merrill Lynch Chicago
 
 Claim Timestamp: 00:22:15
 
@@ -889,7 +889,7 @@ Related Nodes: N-10716
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
-**C-3023** Host Says Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch
+**C-10731** Host Says Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch
 
 Claim Timestamp: 00:24:41
 
@@ -902,7 +902,7 @@ Related Nodes: N-10716
 
 Investigative Direction: Corporate directories, employment records, public board listings would verify the employment claim.
 
-**C-3024** Host Says Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago
+**C-10732** Host Says Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago
 
 Claim Timestamp: 00:24:41
 
@@ -915,7 +915,7 @@ Related Nodes: N-10716
 
 Investigative Direction: Employment records, military transition records, and public corporate directories would verify the claim.
 
-**C-3025** Andrew Kolvet Conceded Charlie Kirk Declined Having Netanyahu on Show
+**C-10760** Andrew Kolvet Conceded Charlie Kirk Declined Having Netanyahu on Show
 
 Claim Timestamp: 00:41:46
 
@@ -927,7 +927,7 @@ Mentions: N-1, N-14, N-3, N-36
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.
 
-**C-3026** NCRI Published "Permission to Kill" Report Targeting Candace Owens
+**C-10747** NCRI Published "Permission to Kill" Report Targeting Candace Owens
 
 Claim Timestamp: 00:33:25
 
@@ -941,7 +941,7 @@ Investigative Direction: Obtain the full NCRI report text; review methodology an
 
 ---
 
-**C-5853** Emails From Fashion, Sewing and Medical Senders Identified Object as Shirt Remains
+**C-10695** Emails From Fashion, Sewing and Medical Senders Identified Object as Shirt Remains
 
 Claim Timestamp: 00:02:30
 
@@ -952,12 +952,12 @@ Transcript Snippet: people in the fashion industry reaching out, a ton of them, 
 Anchored Artifacts: A-2131.1
 Mentions: N-3
 Related Nodes: N-10714
-Supports: C-3017
+Supports: C-10698
 Investigative Direction: Review the full set of received emails and verify the senders' stated occupations before treating the pattern as independent expertise.
 
 ---
 
-**C-5854** Emailed Nurse Says Object Is Kirk's Shirt and Charred Skin
+**C-10696** Emailed Nurse Says Object Is Kirk's Shirt and Charred Skin
 
 Claim Timestamp: 00:04:31
 
@@ -968,12 +968,12 @@ Transcript Snippet: What is the charred burned thing on the ground? It is his sh
 Anchored Artifacts: A-2131.2
 Mentions: N-1
 Related Nodes: N-10714
-Supports: C-3017
+Supports: C-10698
 Investigative Direction: Verify the sender's credentials and have a burn specialist or textile forensic examiner assess the photograph; the recovered object itself would settle it.
 
 ---
 
-**C-5855** Coleman Says Kirk's Shirt Was 100% Polyester
+**C-10697** Coleman Says Kirk's Shirt Was 100% Polyester
 
 Claim Timestamp: 00:05:55
 
@@ -988,7 +988,7 @@ Investigative Direction: Obtain the shirt's brand and fabric composition from ev
 
 ---
 
-**C-5856** Host Says Critics Shifted From 'Secretly Loved Charlie' to 'Secretly Hated Charlie'
+**C-10699** Host Says Critics Shifted From 'Secretly Loved Charlie' to 'Secretly Hated Charlie'
 
 Claim Timestamp: 00:08:45
 
@@ -1002,7 +1002,7 @@ Investigative Direction: Compare dated public statements by Kolvet and Neff befo
 
 ---
 
-**C-5857** Blake Neff Hired in 2022 After Leaving Fox News
+**C-10700** Blake Neff Hired in 2022 After Leaving Fox News
 
 Claim Timestamp: 00:09:26
 
@@ -1017,7 +1017,7 @@ Investigative Direction: Neff's employment history (Fox News departure, hiring d
 
 ---
 
-**C-5858** Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him
+**C-10701** Neff Worked for Stew Peters Then Joined Charlie After Tucker Carlson Recommended Him
 
 Claim Timestamp: 00:09:26
 
@@ -1032,7 +1032,7 @@ Investigative Direction: Neff's own account of how he was hired; statements by C
 
 ---
 
-**C-5859** Neff Tweeted He Briefly Turned on Candace and Called MASH Theory Enough
+**C-10702** Neff Tweeted He Briefly Turned on Candace and Called MASH Theory Enough
 
 Claim Timestamp: 00:10:11
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Retrieve Neff's original post from X with its timestamp
 
 ---
 
-**C-5860** MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center
+**C-10703** MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center
 
 Claim Timestamp: 00:10:11
 
@@ -1060,7 +1060,7 @@ Investigative Direction: UVU building directory and campus map for the Losee Cen
 
 ---
 
-**C-5861** Host Says Neff Supported Marine Corps War Gaming Before Removal
+**C-10704** Host Says Neff Supported Marine Corps War Gaming Before Removal
 
 Claim Timestamp: 00:11:15
 
@@ -1075,7 +1075,7 @@ Investigative Direction: Neff's biography, Marine Corps or contractor records of
 
 ---
 
-**C-5862** Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern
+**C-10705** Mikey McCoy Rented Two SUVs; First Carried Charlie, McCoy, Turek and McGovern
 
 Claim Timestamp: 00:11:42
 
@@ -1090,7 +1090,7 @@ Investigative Direction: Salt Lake City rental agreement(s) in McCoy's name and 
 
 ---
 
-**C-5863** Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview
+**C-10706** Kirk Flew Into Salt Lake City, Not Provo, for Restaurant Event and Andrew Smith Interview
 
 Claim Timestamp: 00:11:42
 
@@ -1101,12 +1101,12 @@ Transcript Snippet: He does this this restaurant event and does his last intervi
 Anchored Artifacts: 
 Mentions: N-1, N-264
 Related Nodes: N-10074
-Supports: C-3735
+Supports: C-2909
 Investigative Direction: Flight records for the September 10 charter, and the published Andrew K. Smith interview with its recording date and location.
 
 ---
 
-**C-5864** Neff Says He Is a Key Witness to Charlie's Life, Not to the Murder
+**C-10709** Neff Says He Is a Key Witness to Charlie's Life, Not to the Murder
 
 Claim Timestamp: 00:14:07
 
@@ -1121,7 +1121,7 @@ Investigative Direction: Whether investigators or the Utah prosecutors interview
 
 ---
 
-**C-5865** Neff Says SUV Parked and Marked Time Until the Utah Valley Event
+**C-10710** Neff Says SUV Parked and Marked Time Until the Utah Valley Event
 
 Claim Timestamp: 00:14:43
 
@@ -1136,7 +1136,7 @@ Investigative Direction: Phone location data, SUV telematics and rental records 
 
 ---
 
-**C-5866** McCoy Was on the Phone With Danny Philip Before and After the Shooting
+**C-10712** McCoy Was on the Phone With Danny Philip Before and After the Shooting
 
 Claim Timestamp: 00:16:38
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Mikey McCoy's carrier call detail records for September
 
 ---
 
-**C-5867** Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff
+**C-10713** Danny Philip Graduated College in May 2025 and Was Hired Straight Out for Charlie's Staff
 
 Claim Timestamp: 00:16:38
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Turning Point USA hiring and payroll records for Philip
 
 ---
 
-**C-5868** Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City
+**C-10714** Danny Philip Was Charlie's Assistant, Interned the Prior Summer, and Flew Private to Salt Lake City
 
 Claim Timestamp: 00:17:27
 
@@ -1176,12 +1176,12 @@ Transcript Snippet: Danny Phillip, Charlie Kirk's assistant, that's a pretty big
 Anchored Artifacts: 
 Mentions: N-367, N-1
 Related Nodes: N-10074
-Supports: C-3020
+Supports: C-10711
 Investigative Direction: Philip's job title and start date, the flight manifest for the September 10 charter, and his internship dates.
 
 ---
 
-**C-5869** Danny Philip's LinkedIn Says Ohio State; He Was in the Turning Point Chapter
+**C-10715** Danny Philip's LinkedIn Says Ohio State; He Was in the Turning Point Chapter
 
 Claim Timestamp: 00:18:11
 
@@ -1195,7 +1195,7 @@ Investigative Direction: Philip's LinkedIn profile as archived, Ohio State regis
 
 ---
 
-**C-5870** Turning Point Staff Told Host Philip Was a Family Friend
+**C-10716** Turning Point Staff Told Host Philip Was a Family Friend
 
 Claim Timestamp: 00:18:54
 
@@ -1209,7 +1209,7 @@ Investigative Direction: Identify the Turning Point staff who said so and ask wh
 
 ---
 
-**C-5871** Host Says 2019 Dispute With Charlie Over Ike Perlmutter Check Involved Forces Pulling Them Apart
+**C-10717** Host Says 2019 Dispute With Charlie Over Ike Perlmutter Check Involved Forces Pulling Them Apart
 
 Claim Timestamp: 00:19:38
 
@@ -1223,7 +1223,7 @@ Investigative Direction: Earlier episode statements on the Perlmutter check, and
 
 ---
 
-**C-5872** Host Says Anti-Semitism Smear Began at the Same Time Thomas Patrick Emailed Her
+**C-10718** Host Says Anti-Semitism Smear Began at the Same Time Thomas Patrick Emailed Her
 
 Claim Timestamp: 00:19:38
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Dated media coverage of the 2019 smear and the date of 
 
 ---
 
-**C-5873** Thomas Patrick Emailed Host That Charlie Was Lying to Her About Money
+**C-10719** Thomas Patrick Emailed Host That Charlie Was Lying to Her About Money
 
 Claim Timestamp: 00:19:38
 
@@ -1249,12 +1249,12 @@ Transcript Snippet: Thomas Patrick personally informed me via email that Charlie
 Anchored Artifacts: A-2783.1
 Mentions: N-502, N-1, N-3, N-367
 Related Nodes: N-11058
-Supports: C-3021
+Supports: C-10720
 Investigative Direction: The host's email from Patrick (headers, date, full text) and Patrick's relationship to Danny Philip.
 
 ---
 
-**C-5874** Host Kept Texts With Charlie About Patrick's Email
+**C-10721** Host Kept Texts With Charlie About Patrick's Email
 
 Claim Timestamp: 00:20:25
 
@@ -1269,7 +1269,7 @@ Investigative Direction: The text thread with timestamps and the Patrick email i
 
 ---
 
-**C-5875** Patrick Was Escorted Out of Merrill Lynch in 2003 Over an Alleged Spitzer Smear Campaign
+**C-10722** Patrick Was Escorted Out of Merrill Lynch in 2003 Over an Alleged Spitzer Smear Campaign
 
 Claim Timestamp: 00:21:23
 
@@ -1279,12 +1279,12 @@ Transcript Snippet: he was unceremoniously escorted out of his office for a scan
 
 Anchored Artifacts: 
 Mentions: N-502, N-503
-Supports: C-3021
+Supports: C-10720
 Investigative Direction: Contemporary 2003 press coverage of Patrick's exit from Merrill Lynch and the Spitzer allegations.
 
 ---
 
-**C-5876** Host Says Patrick Played a Big Role in Convincing Her Charlie Was Moving Behind Her Back
+**C-10723** Host Says Patrick Played a Big Role in Convincing Her Charlie Was Moving Behind Her Back
 
 Claim Timestamp: 00:21:23
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Patrick's communications with the host and with Kirk or
 
 ---
 
-**C-5877** Bank of America Acquired Merrill Lynch in 2008
+**C-10724** Bank of America Acquired Merrill Lynch in 2008
 
 Claim Timestamp: 00:22:09
 
@@ -1313,7 +1313,7 @@ Investigative Direction: Public record: Bank of America's 2008-2009 acquisition 
 
 ---
 
-**C-5878** Bowyer's Father Cleaned His LinkedIn and Graduated From Arizona State
+**C-10725** Bowyer's Father Cleaned His LinkedIn and Graduated From Arizona State
 
 Claim Timestamp: 00:22:09
 
@@ -1324,12 +1324,12 @@ Transcript Snippet: And he has cleaned the internet of his LinkedIn, graduated f
 Anchored Artifacts: 
 Mentions: N-11
 Related Nodes: N-10716
-Supports: C-3023
+Supports: C-10731
 Investigative Direction: Archived copies of the father's LinkedIn profile and Arizona State alumni or degree records.
 
 ---
 
-**C-5879** Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father
+**C-10726** Tyler Bowyer Speaks Russian and Majored in Russian Studies, as Did Philip's Father
 
 Claim Timestamp: 00:22:09
 
@@ -1340,12 +1340,12 @@ Transcript Snippet: you know, Tyler speaks Russian, majored in Russian studies, 
 Anchored Artifacts: 
 Mentions: N-11, N-367, N-735
 Related Nodes: N-11059
-Supports: C-3022
+Supports: C-10727
 Investigative Direction: Bowyer's educational record and public statements on Russian language ability; Stephen Phillip's degree.
 
 ---
 
-**C-5880** Irina Mappin Told Host Everyone at the Memorial Event Was Speaking Russian
+**C-10728** Irina Mappin Told Host Everyone at the Memorial Event Was Speaking Russian
 
 Claim Timestamp: 00:23:00
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Direct confirmation from Irina Mappin and a VIP guest l
 
 ---
 
-**C-5881** Host Says Elizabeth McCoy Has a Ukrainian Family and Rob McCoy Adopted a Girl From Russia
+**C-10729** Host Says Elizabeth McCoy Has a Ukrainian Family and Rob McCoy Adopted a Girl From Russia
 
 Claim Timestamp: 00:23:00
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Family statements, church or adoption announcements by 
 
 ---
 
-**C-5882** Stephen Phillip Was a Vice President at Bank of America Merrill Lynch Chicago
+**C-10730** Stephen Phillip Was a Vice President at Bank of America Merrill Lynch Chicago
 
 Claim Timestamp: 00:23:55
 
@@ -1386,12 +1386,12 @@ Transcript Snippet: you've got Stephen Phillip, that's going to be Daniel Philli
 Anchored Artifacts: A-2134.1
 Mentions: N-735, N-367
 Related Nodes: N-10716
-Supports: C-3022
+Supports: C-10727
 Investigative Direction: Bank of America Merrill Lynch directory or FINRA broker records for Stephen Phillip, and his stated job title.
 
 ---
 
-**C-5883** Erika's Cousin Dennis Frantzve Showed Her Around Romania With the Black Sea Rotational Force
+**C-10733** Erika's Cousin Dennis Frantzve Showed Her Around Romania With the Black Sea Rotational Force
 
 Claim Timestamp: 00:24:41
 
@@ -1402,12 +1402,12 @@ Transcript Snippet: Erika's cousin who showed her around Romania, the Black Sea 
 Anchored Artifacts: A-2134.1
 Mentions: N-736, N-2
 Related Nodes: N-10990, N-10716
-Supports: C-3024
+Supports: C-10732
 Investigative Direction: Romania trip records, Erika Kirk's own accounts of the visit, and Dennis Frantzve's military and employment history.
 
 ---
 
-**C-5884** Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case
+**C-10734** Bank of America Was Sued Over Managing Leon Black's Wealth in the Epstein Case
 
 Claim Timestamp: 00:25:34
 
@@ -1422,7 +1422,7 @@ Investigative Direction: Court filings in the Epstein victims' suit against Bank
 
 ---
 
-**C-5885** Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It
+**C-10735** Bank of America Moved $170 Million to Epstein and Was Sued for Not Flagging It
 
 Claim Timestamp: 00:26:18
 
@@ -1437,7 +1437,7 @@ Investigative Direction: The complaint and docket in the Epstein victims' case a
 
 ---
 
-**C-5886** Host Says Bank of America Settled for About $79 Million
+**C-10736** Host Says Bank of America Settled for About $79 Million
 
 Claim Timestamp: 00:26:18
 
@@ -1452,7 +1452,7 @@ Investigative Direction: Settlement amount and date in court filings or press re
 
 ---
 
-**C-5887** Host Asks for Tips on Rented Dodge Challengers Around Salt Lake City, Provo and Las Vegas
+**C-10737** Host Asks for Tips on Rented Dodge Challengers Around Salt Lake City, Provo and Las Vegas
 
 Claim Timestamp: 00:30:07
 
@@ -1467,7 +1467,7 @@ Investigative Direction: Rental company records for Dodge Challengers checked ou
 
 ---
 
-**C-5888** Host Asks Public for Sightings of a Confused Bald Man on September 10
+**C-10738** Host Asks Public for Sightings of a Confused Bald Man on September 10
 
 Claim Timestamp: 00:30:53
 
@@ -1482,7 +1482,7 @@ Investigative Direction: Witness sightings and dashcam or roadside video from Or
 
 ---
 
-**C-5889** Host Says Green Room Had Charlie, McGovern, McCoy and a Cousin; Unclear if Turek Was There
+**C-10739** Host Says Green Room Had Charlie, McGovern, McCoy and a Cousin; Unclear if Turek Was There
 
 Claim Timestamp: 00:30:53
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Event staff, photos or video from the restaurantology e
 
 ---
 
-**C-5890** Host Says Turek Admits Leaving the Event Early and Keeps Changing His Story
+**C-10740** Host Says Turek Admits Leaving the Event Early and Keeps Changing His Story
 
 Claim Timestamp: 00:31:43
 
@@ -1512,7 +1512,7 @@ Investigative Direction: Turek's dated interviews and posts about the restaurant
 
 ---
 
-**C-5891** Host Asks Whether Anyone Saw Turek at the Event or in the Car With Neff
+**C-10741** Host Asks Whether Anyone Saw Turek at the Event or in the Car With Neff
 
 Claim Timestamp: 00:31:43
 
@@ -1527,7 +1527,7 @@ Investigative Direction: Attendee accounts and photos placing Turek at the event
 
 ---
 
-**C-5892** Host Says She Has a Huge Lead on Who Ben Shapiro Lunched With in LA on September 10
+**C-10742** Host Says She Has a Huge Lead on Who Ben Shapiro Lunched With in LA on September 10
 
 Claim Timestamp: 00:31:43
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Restaurant reservation, receipt or witness records for 
 
 ---
 
-**C-5893** NCRI Released a Christ-Is-King Report During Lent That Charlie Kirk Criticized
+**C-10743** NCRI Released a Christ-Is-King Report During Lent That Charlie Kirk Criticized
 
 Claim Timestamp: 00:32:32
 
@@ -1557,7 +1557,7 @@ Investigative Direction: The original NCRI report with its date, and any Kirk pu
 
 ---
 
-**C-5894** Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board
+**C-10744** Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board
 
 Claim Timestamp: 00:32:32
 
@@ -1572,7 +1572,7 @@ Investigative Direction: NCRI board listings from the report date and Moore's bu
 
 ---
 
-**C-5895** Host Says Permission to Kill Was Published on the First Day of the Robinson Trial
+**C-10745** Host Says Permission to Kill Was Published on the First Day of the Robinson Trial
 
 Claim Timestamp: 00:32:32
 
@@ -1583,12 +1583,12 @@ Transcript Snippet: this report that was published about me accusing me on the d
 Anchored Artifacts: A-2136.1
 Mentions: N-3, N-40
 Related Nodes: N-10815
-Supports: C-3026
+Supports: C-10747
 Investigative Direction: Publication date of the NCRI report against the trial calendar.
 
 ---
 
-**C-5896** Host Says Kolvet Was Pushing the NCRI Report
+**C-10746** Host Says Kolvet Was Pushing the NCRI Report
 
 Claim Timestamp: 00:32:32
 
@@ -1599,12 +1599,12 @@ Transcript Snippet: I'm sure, even though Andrew Kolvet was pushing this report,
 Anchored Artifacts: A-2136.1
 Mentions: N-14
 Related Nodes: N-10815
-Supports: C-3026
+Supports: C-10747
 Investigative Direction: Kolvet's posts and broadcasts sharing the NCRI report, with timestamps.
 
 ---
 
-**C-5897** Host Says Many Media Groups, Including Politico, Asked Her to Comment on the NCRI Report
+**C-10748** Host Says Many Media Groups, Including Politico, Asked Her to Comment on the NCRI Report
 
 Claim Timestamp: 00:33:25
 
@@ -1619,7 +1619,7 @@ Investigative Direction: The press inquiries received by the host's team and the
 
 ---
 
-**C-5898** Host Says Neff Called Her a Knife-Wielding Psychopath on the Subway
+**C-10749** Host Says Neff Called Her a Knife-Wielding Psychopath on the Subway
 
 Claim Timestamp: 00:34:32
 
@@ -1633,7 +1633,7 @@ Investigative Direction: Neff's original post or broadcast containing the phrase
 
 ---
 
-**C-5899** Host Says Erika Phoned Priests to Tell Them Not to Attend an Event She Was At
+**C-10750** Host Says Erika Phoned Priests to Tell Them Not to Attend an Event She Was At
 
 Claim Timestamp: 00:35:20
 
@@ -1647,7 +1647,7 @@ Investigative Direction: Statements from the priests or event organizers who rec
 
 ---
 
-**C-5900** Host Says She and Tucker Carlson Are Named in a Document About Taking Them Down With Tens of Millions
+**C-10751** Host Says She and Tucker Carlson Are Named in a Document About Taking Them Down With Tens of Millions
 
 Claim Timestamp: 00:37:48
 
@@ -1661,7 +1661,7 @@ Investigative Direction: Identify the document the host means (transcript spelli
 
 ---
 
-**C-5901** Host Says Charlie Opposed the Idea That Speech Equals Violence
+**C-10752** Host Says Charlie Opposed the Idea That Speech Equals Violence
 
 Claim Timestamp: 00:38:34
 
@@ -1675,7 +1675,7 @@ Investigative Direction: Kirk's public statements on speech and violence.
 
 ---
 
-**C-5902** Host Says Her Source Was Kolvet and She Has Not Changed Her Story
+**C-10753** Host Says Her Source Was Kolvet and She Has Not Changed Her Story
 
 Claim Timestamp: 00:39:37
 
@@ -1686,12 +1686,12 @@ Transcript Snippet: I have maintained, I think since September, it might be Octo
 Anchored Artifacts: 
 Mentions: N-3, N-14
 Related Nodes: N-10018
-Supports: C-1562
+Supports: C-2134
 Investigative Direction: The host's earlier on-air statements naming Kolvet as source, compared with this account.
 
 ---
 
-**C-5903** Host Says Erika Conceded Netanyahu Called at Ackman's House
+**C-10754** Host Says Erika Conceded Netanyahu Called at Ackman's House
 
 Claim Timestamp: 00:39:37
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Erika Kirk's account of the meeting, Bill Ackman's stat
 
 ---
 
-**C-5904** Host Says Kolvet Told Her Netanyahu Offered to Take Turning Point to the Next Level
+**C-10755** Host Says Kolvet Told Her Netanyahu Offered to Take Turning Point to the Next Level
 
 Claim Timestamp: 00:39:37
 
@@ -1717,12 +1717,12 @@ Transcript Snippet: that's not what Andrew Kolvet told me. He He me that BB offe
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-2
 Related Nodes: N-10342
-Supports: C-1562, C-1819, C-1937
+Supports: C-2134, C-3477, C-4118
 Investigative Direction: Direct confirmation or denial from Kolvet, Erika Kirk and others present at the Hamptons gathering.
 
 ---
 
-**C-5905** Host Says Kolvet Called the Hampton Summit an Intervention
+**C-10756** Host Says Kolvet Called the Hampton Summit an Intervention
 
 Claim Timestamp: 00:40:20
 
@@ -1733,12 +1733,12 @@ Transcript Snippet: And Charlie said no. That's all he said. And Charlie said no
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
 Related Nodes: N-10446, N-10027
-Supports: C-1128
+Supports: C-79
 Investigative Direction: Attendee accounts of the Hamptons summit and Kolvet's own description of it.
 
 ---
 
-**C-5906** Host Says Kolvet Told Her Charlie Declined to Have Netanyahu on His Show
+**C-10757** Host Says Kolvet Told Her Charlie Declined to Have Netanyahu on His Show
 
 Claim Timestamp: 00:40:20
 
@@ -1749,12 +1749,12 @@ Transcript Snippet: But he also communicated communicated to me that Charlie had
 Anchored Artifacts: A-2135.1
 Mentions: N-14, N-1, N-36, N-3
 Related Nodes: N-10456
-Supports: C-3025, C-2235
+Supports: C-10760, C-5837
 Investigative Direction: Kirk Show booking records and Kolvet's tweet conceding the decline.
 
 ---
 
-**C-5907** Host Says Netanyahu Was Relegated to Smaller Influencers Because Charlie Would Not Have Him On
+**C-10758** Host Says Netanyahu Was Relegated to Smaller Influencers Because Charlie Would Not Have Him On
 
 Claim Timestamp: 00:41:07
 
@@ -1765,12 +1765,12 @@ Transcript Snippet: But instead, he was relegated to smaller influencers because
 Anchored Artifacts: 
 Mentions: N-36, N-1
 Related Nodes: N-10456
-Supports: C-3722
+Supports: C-271
 Investigative Direction: Netanyahu's media appearances in summer 2025 and any Kirk Show invitations declined.
 
 ---
 
-**C-5908** Host Says Charlie Texted the Night Before That He Was Done With Israel
+**C-10759** Host Says Charlie Texted the Night Before That He Was Done With Israel
 
 Claim Timestamp: 00:41:07
 
@@ -1785,7 +1785,7 @@ Investigative Direction: The text thread in question, with sender, recipients an
 
 ---
 
-**C-5909** Kolvet's Tweet: Netanyahu Was Politely Declined on the Show and Kirk Took His Call After a Letter
+**C-10761** Kolvet's Tweet: Netanyahu Was Politely Declined on the Show and Kirk Took His Call After a Letter
 
 Claim Timestamp: 00:41:46
 
@@ -1796,12 +1796,12 @@ Transcript Snippet: Yes, we politely declined having Netanyahu on the show. So w
 Anchored Artifacts: A-2135.1
 Mentions: N-14, N-36, N-1
 Related Nodes: N-10456, N-10018
-Supports: C-3025
+Supports: C-10760
 Investigative Direction: The original Kolvet tweet thread with timestamp, compared with the text read on air.
 
 ---
 
-**C-5910** Host Says a Kolvet Family Friend Wrote That He Lost Out on Millions When Charlie Said No
+**C-10762** Host Says a Kolvet Family Friend Wrote That He Lost Out on Millions When Charlie Said No
 
 Claim Timestamp: 00:42:32
 
@@ -1812,12 +1812,12 @@ Transcript Snippet: it was confirmed from a family friend of Andrew Klavan who w
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
 Related Nodes: N-10342
-Supports: C-1819
+Supports: C-3477
 Investigative Direction: The friend's email to the host, with identity verification, and Kolvet's response.
 
 ---
 
-**C-5911** Host Says Kolvet Vented About the Lost Income After Returning to California
+**C-10763** Host Says Kolvet Vented About the Lost Income After Returning to California
 
 Claim Timestamp: 00:42:32
 
@@ -1828,12 +1828,12 @@ Transcript Snippet: And the fact that he lost out on some residual income came f
 Anchored Artifacts: 
 Mentions: N-14
 Related Nodes: N-10342
-Supports: C-1819
+Supports: C-3477
 Investigative Direction: Travel records and witnesses for Kolvet's return to California, and the friend's account.
 
 ---
 
-**C-5912** Host Says Kolvet Knew the Night Before That Charlie Feared Being Killed and Was Abandoning the Pro-Israel Cause
+**C-10764** Host Says Kolvet Knew the Night Before That Charlie Feared Being Killed and Was Abandoning the Pro-Israel Cause
 
 Claim Timestamp: 00:43:28
 
@@ -1848,7 +1848,7 @@ Investigative Direction: The night-before text thread and its recipients.
 
 ---
 
-**C-5913** Host Says Turek Claims He Was FaceTiming Grown Sons at 12:23
+**C-10765** Host Says Turek Claims He Was FaceTiming Grown Sons at 12:23
 
 Claim Timestamp: 00:47:07
 
@@ -1863,7 +1863,7 @@ Investigative Direction: Turek's own interviews on the FaceTime call, phone reco
 
 ---
 
-**C-5914** Host Says Turek Changed His Account of Being on the FaceTime Call
+**C-10766** Host Says Turek Changed His Account of Being on the FaceTime Call
 
 Claim Timestamp: 00:48:27
 
@@ -1878,7 +1878,7 @@ Investigative Direction: Turek's earlier and later statements about the FaceTime
 
 ---
 
-**C-5915** Host Says Erika Also Had Amnesia About How She Knew Tyler Bowyer
+**C-10767** Host Says Erika Also Had Amnesia About How She Knew Tyler Bowyer
 
 Claim Timestamp: 00:49:10
 
@@ -1892,7 +1892,7 @@ Investigative Direction: Erika Kirk's statements on when and how she met Bowyer,
 
 ---
 
-**C-5916** Host Says Erika Was Hanging Out at the Modeling Firm Founded by Jean-Luc Brunel
+**C-10768** Host Says Erika Was Hanging Out at the Modeling Firm Founded by Jean-Luc Brunel
 
 Claim Timestamp: 00:49:57
 
@@ -1907,7 +1907,7 @@ Investigative Direction: Erika Kirk's modeling-agency history and the agency's B
 
 ---
 
-**C-5917** Host Says Charlie Hired Her Organically and Handlers Appeared After the Kanye Moment
+**C-10769** Host Says Charlie Hired Her Organically and Handlers Appeared After the Kanye Moment
 
 Claim Timestamp: 00:50:46
 
@@ -1922,7 +1922,7 @@ Investigative Direction: Hiring history of Kirk's staff and who joined his circl
 
 ---
 
-**C-5918** Host Says She Has Proof Erika Claimed to Have People Inside the Kanye Situation
+**C-10770** Host Says She Has Proof Erika Claimed to Have People Inside the Kanye Situation
 
 Claim Timestamp: 00:50:46
 
@@ -1937,7 +1937,7 @@ Investigative Direction: The proof itself (message or recording), its date and p
 
 ---
 
-**C-5919** Commenter Says Trump's Address to the Nation Is Thursday at 9 p.m.
+**C-10771** Commenter Says Trump's Address to the Nation Is Thursday at 9 p.m.
 
 Claim Timestamp: 00:53:10
 

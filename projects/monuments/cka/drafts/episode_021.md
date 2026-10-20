@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep021): N-209, N-329, N-10323, N-10353
   - Tip-minted Nodes (reintro-ep021): N-660
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6512–C-6551
+  - Claim Range: C-1945–C-1997
   - (see registers)
 
 ## 6. Meme Register
@@ -94,7 +94,6 @@ Confidence: high
 - Analysis date: 2026-03-11
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
-  - Claim Range: C-1514–C-1526
   - New Nodes Introduced: N-199, N-10200
   - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131
@@ -123,7 +122,7 @@ Video Timestamp: 00:05:35–00:07:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud by host)
 
-*Related: C-1515, N-10200*
+*Related: C-1952, N-10200*
 
 **A-1283.2** Updated TPUSA Wikipedia entry – Rob McCoy as TPUSA Faith co-founder
 
@@ -133,7 +132,7 @@ Video Timestamp: 00:03:03–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content and timestamp read aloud by host)
 
-*Related: C-1514, C-1524, N-17, N-10200*
+*Related: C-1947, C-1949, N-17, N-10200*
 
 **A-1284** Wikipedia Citation Source Article Bundle
 
@@ -145,7 +144,7 @@ Video Timestamp: 00:04:30–00:05:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host describes having clicked and read the article; not displayed)
 
-*Related: C-1516, C-1517, N-17, N-10200*
+*Related: C-1950, C-1951, N-17, N-10200*
 
 **A-1285** Trump Truth Social Post Bundle
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:15:35–00:17:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (content read aloud verbatim)
 
-*Related: C-1518, N-5 (Donald Trump, existing), N-10202*
+*Related: C-1962, N-5 (Donald Trump, existing), N-10202*
 
 **A-1286** New York Times Article Bundle (verbally referenced, not shown)
 
@@ -169,7 +168,7 @@ Video Timestamp: 00:20:44–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (content paraphrased; not read or displayed)
 
-*Related: C-1519, C-1520, N-10202*
+*Related: C-1966, C-1967, N-10202*
 
 **A-1287** Megyn Kelly / Donald Trump Jr. Interview Clip Bundle
 
@@ -181,7 +180,7 @@ Video Timestamp: 00:32:12–00:35:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode)
 
-*Related: C-1522, C-1523, C-1525, N-46, N-10202*
+*Related: C-1980, C-1978, C-1984, N-46, N-10202*
 
 **A-1288** Norman Finkelstein Interview Trailer Bundle
 
@@ -193,7 +192,7 @@ Video Timestamp: 00:39:19–00:42:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1526, N-199*
+*Related: C-1988, N-199*
 
 **A-1289** Charlie Kirk Day Proclamation Bundle (verbally referenced, not shown)
 
@@ -205,7 +204,7 @@ Video Timestamp: 00:13:10–00:15:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (referenced but not displayed)
 
-*Related: C-1521, N-5 (Donald Trump, existing), N-1*
+*Related: C-1959, N-5 (Donald Trump, existing), N-1*
 
 ---
 
@@ -218,7 +217,7 @@ Video Timestamp: 00:11:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6518, N-5, N-1, N-3*
+*Related: C-1956, N-5, N-1, N-3*
 
 ---
 
@@ -231,7 +230,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6523, N-5, N-1, N-755*
+*Related: C-1963, N-5, N-1, N-755*
 
 ---
 
@@ -244,7 +243,7 @@ Video Timestamp: 00:27:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6529, N-1, N-3*
+*Related: C-1971, N-1, N-3*
 
 ---
 
@@ -257,7 +256,7 @@ Video Timestamp: 00:29:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6530, N-99, N-14, N-2*
+*Related: C-1972, N-99, N-14, N-2*
 
 ---
 
@@ -272,7 +271,7 @@ Video Timestamp: 00:53:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6548, N-47, N-48*
+*Related: C-1994, N-47, N-48*
 
 ---
 
@@ -287,7 +286,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1283.2, A-1284.1, C-1514, C-1516, C-1517, C-1524, N-10200*
+*Related: A-1283.2, A-1284.1, C-1947, C-1950, C-1951, C-1949, N-10200*
 
 **N-46** Megyn Kelly
 
@@ -298,7 +297,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1287.1, C-1522, C-1523, C-1525*
+*Related: A-1287.1, C-1980, C-1978, C-1984*
 
 **N-199** Norman Finkelstein
 
@@ -309,7 +308,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1288.1, C-1526*
+*Related: A-1288.1, C-1988*
 
 **N-10200** TPUSA Wikipedia Rob McCoy Co-Founder Discrepancy
 
@@ -320,7 +319,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1283.1, A-1283.2, A-1284.1, C-1514, C-1515, C-1516, C-1517, C-1524, N-1, N-17*
+*Related: A-1283.1, A-1283.2, A-1284.1, C-1947, C-1952, C-1950, C-1951, C-1949, N-1, N-17*
 
 **N-10201** Charlie Kirk Burial / Funeral Narrative Discrepancy
 
@@ -342,7 +341,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1285.1, A-1286.1, A-1287.1, C-1518, C-1519, C-1520, C-1522, C-1525*
+*Related: A-1285.1, A-1286.1, A-1287.1, C-1962, C-1966, C-1967, C-1980, C-1984*
 
 ---
 
@@ -351,7 +350,7 @@ Investigative Pressure: Medium
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
 
-*Related: C-1520, C-1526*
+*Related: C-1967, C-1988*
 
 ---
 
@@ -359,7 +358,7 @@ White House chief of staff. Host questions her as a Kirk eulogist and names her 
 
 Subject of the assassination; the host recounts his childhood, instructions, donors and burial.
 
-*Related: C-6512, C-6513, C-6514, C-6515, C-6516, C-6518, C-6519, C-6520, C-6523, C-6524, C-6525, C-6528, C-6529, C-6530, C-6531, C-6532, C-6534, C-6535, C-6545, C-6546, C-6547*
+*Related: C-1945, C-1946, C-1948, C-1953, C-1954, C-1956, C-1957, C-1958, C-1963, C-1964, C-1965, C-1970, C-1971, C-1972, C-1973, C-1974, C-1976, C-1977, C-1991, C-1992, C-1993*
 
 ---
 
@@ -367,7 +366,7 @@ Subject of the assassination; the host recounts his childhood, instructions, don
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6519, C-6534, C-6540*
+*Related: C-1957, C-1976, C-1985*
 
 ---
 
@@ -375,7 +374,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6533, C-6534, C-6547*
+*Related: C-1975, C-1976, C-1993*
 
 ---
 
@@ -383,7 +382,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6550*
+*Related: C-1996*
 
 ---
 
@@ -391,7 +390,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6531*
+*Related: C-1973*
 
 ---
 
@@ -399,7 +398,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6517*
+*Related: C-1955*
 
 ---
 
@@ -407,7 +406,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6520*
+*Related: C-1958*
 
 ---
 
@@ -415,7 +414,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6532*
+*Related: C-1974*
 
 ---
 
@@ -423,7 +422,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6530*
+*Related: C-1972*
 
 ---
 
@@ -431,7 +430,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-6514*
+*Related: C-1948*
 
 ---
 
@@ -439,7 +438,7 @@ Existing topic reused for new claims in this episode.
 
 TPUSA spokesperson; the host relays his account of Charlie's instructions and the Alex Clark interview.
 
-*Related: C-6527, C-6528, C-6530, C-6533*
+*Related: C-1969, C-1970, C-1972, C-1975*
 
 ---
 
@@ -447,7 +446,7 @@ TPUSA spokesperson; the host relays his account of Charlie's instructions and th
 
 Named by the host regarding Israel investments.
 
-*Related: C-6540*
+*Related: C-1985*
 
 ---
 
@@ -455,7 +454,7 @@ Named by the host regarding Israel investments.
 
 Host says he is missing from the Charlie Kirk Show.
 
-*Related: C-6527, C-6528*
+*Related: C-1969, C-1970*
 
 ---
 
@@ -463,7 +462,7 @@ Host says he is missing from the Charlie Kirk Show.
 
 Widow and TPUSA CEO; named in the Don Jr. clip and in the Wikipedia timing.
 
-*Related: C-6516, C-6530, C-6536*
+*Related: C-1954, C-1972, C-1979*
 
 ---
 
@@ -471,7 +470,7 @@ Widow and TPUSA CEO; named in the Don Jr. clip and in the Wikipedia timing.
 
 Official whose inquiry the host urges to continue.
 
-*Related: C-6526*
+*Related: C-1968*
 
 ---
 
@@ -479,7 +478,7 @@ Official whose inquiry the host urges to continue.
 
 Named in a viewer comment about the Wikipedia creator.
 
-*Related: C-6549*
+*Related: C-1995*
 
 ---
 
@@ -487,7 +486,7 @@ Named in a viewer comment about the Wikipedia creator.
 
 Host.
 
-*Related: C-6512, C-6513, C-6515, C-6518, C-6521, C-6522, C-6523, C-6526, C-6529, C-6531, C-6532, C-6534, C-6535, C-6539, C-6541, C-6542, C-6543, C-6544, C-6545, C-6546, C-6547, C-6549, C-6550, C-6551*
+*Related: C-1945, C-1946, C-1953, C-1956, C-1960, C-1961, C-1963, C-1968, C-1971, C-1973, C-1974, C-1976, C-1977, C-1983, C-1986, C-1987, C-1989, C-1990, C-1991, C-1992, C-1993, C-1995, C-1996, C-1997*
 
 ---
 
@@ -495,7 +494,7 @@ Host.
 
 Subject of the Megyn Kelly clip and the host's open address.
 
-*Related: C-6535, C-6536, C-6537, C-6538, C-6539, C-6540*
+*Related: C-1977, C-1979, C-1981, C-1982, C-1983, C-1985*
 
 ---
 
@@ -503,7 +502,7 @@ Subject of the Megyn Kelly clip and the host's open address.
 
 DNI named alongside Joe Kent.
 
-*Related: C-6526*
+*Related: C-1968*
 
 ---
 
@@ -511,7 +510,7 @@ DNI named alongside Joe Kent.
 
 Charged suspect; the host disputes that he acted alone.
 
-*Related: C-6519, C-6520*
+*Related: C-1957, C-1958*
 
 ---
 
@@ -519,7 +518,7 @@ Charged suspect; the host disputes that he acted alone.
 
 Named in the viewer comment on Maxwell textbooks.
 
-*Related: C-6548*
+*Related: C-1994*
 
 ---
 
@@ -527,7 +526,7 @@ Named in the viewer comment on Maxwell textbooks.
 
 Ghislaine Maxwell's father, discussed regarding textbook publishing.
 
-*Related: C-6548*
+*Related: C-1994*
 
 ---
 
@@ -535,7 +534,7 @@ Ghislaine Maxwell's father, discussed regarding textbook publishing.
 
 President; subject of the AI photo, memorial speech story and Epstein remark.
 
-*Related: C-6518, C-6523, C-6538*
+*Related: C-1956, C-1963, C-1982*
 
 ---
 
@@ -543,7 +542,7 @@ President; subject of the AI photo, memorial speech story and Epstein remark.
 
 Named by the host regarding Israel investments.
 
-*Related: C-6540*
+*Related: C-1985*
 
 ---
 
@@ -551,7 +550,7 @@ Named by the host regarding Israel investments.
 
 FBI director; host says he limits the Kirk case team and attended the memorial.
 
-*Related: C-6524, C-6525*
+*Related: C-1964, C-1965*
 
 ---
 
@@ -559,14 +558,14 @@ FBI director; host says he limits the Kirk case team and attended the memorial.
 
 Named in the host's remarks about Don Jr., Trump and the Maxwell textbook comment.
 
-*Related: C-6538, C-6548*
+*Related: C-1982, C-1994*
 
 ---
 
 **N-98** Robert Shillman
 Donor the host says withdrew 2 million dollars from TPUSA (transcript: Bob Shillman).
 
-*Related: C-6533*
+*Related: C-1975*
 
 ---
 
@@ -574,7 +573,7 @@ Donor the host says withdrew 2 million dollars from TPUSA (transcript: Bob Shill
 
 Interviewer of Kolvet and Erika Kirk, per the host.
 
-*Related: C-6530*
+*Related: C-1972*
 
 ---
 
@@ -583,7 +582,7 @@ Interviewer of Kolvet and Erika Kirk, per the host.
 Node Type: Topic
 The host's claims that Kirk received no first aid after being shot and her account of Kolvet's explanation that Kirk had told them not to help him if shot in the neck.
 
-*Related: C-6528, C-6529*
+*Related: C-1970, C-1971*
 
 ---
 
@@ -592,7 +591,7 @@ The host's claims that Kirk received no first aid after being shot and her accou
 Node Type: Topic
 The host's recollection that Charlie Kirk told her TPUSA had found a person to clean up Wikipedia pages, and her question who made the McCoy edit.
 
-*Related: C-6515*
+*Related: C-1953*
 
 ---
 
@@ -600,13 +599,13 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
-*Related: C-6523*
+*Related: C-1963*
 
 ---
 
 # V. Claim Register
 
-**C-1514** Host Says TPUSA Wikipedia Entry Was Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith
+**C-1947** Host Says TPUSA Wikipedia Entry Was Updated at 10:34 PM ET on September 11, 2025 to Add Rob McCoy as Co-Founder of TPUSA Faith
 
 Claim Timestamp: 00:03:03
 
@@ -621,7 +620,7 @@ Investigative Direction: Obtain Wikipedia edit history (revision IDs, editor acc
 
 ---
 
-**C-1515** Pre-Existing 2021 Wikipedia Entry Stated Charlie Kirk Founded TPUSA Faith Alone
+**C-1952** Pre-Existing 2021 Wikipedia Entry Stated Charlie Kirk Founded TPUSA Faith Alone
 
 Claim Timestamp: 00:05:35
 
@@ -636,7 +635,7 @@ Investigative Direction: Retrieve archived snapshots of the TPUSA Wikipedia arti
 
 ---
 
-**C-1516** Citation Source for McCoy Co-Founder Claim Is Dated November 24, 2024 with Additional September 2025 Citations
+**C-1950** Citation Source for McCoy Co-Founder Claim Is Dated November 24, 2024 with Additional September 2025 Citations
 
 Claim Timestamp: 00:04:30
 
@@ -651,7 +650,7 @@ Investigative Direction: Locate and verify the cited article(s) by date and cont
 
 ---
 
-**C-1517** November 24, 2024 Citation Article Does Not State McCoy Was Co-Founder or Chairman
+**C-1951** November 24, 2024 Citation Article Does Not State McCoy Was Co-Founder or Chairman
 
 Claim Timestamp: 00:04:30
 
@@ -666,7 +665,7 @@ Investigative Direction: Obtain the cited article directly and check for the phr
 
 ---
 
-**C-1518** Trump's Only "Investigation" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder
+**C-1962** Trump's Only "Investigation" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder
 
 Claim Timestamp: 00:15:35
 
@@ -681,7 +680,7 @@ Investigative Direction: Retrieve the full archive of Trump's Truth Social posts
 
 ---
 
-**C-1519** New York Times Article Reported Kash Patel Was Alarmed by Joe Kent's Inquiry About the Kirk Investigation
+**C-1966** New York Times Article Reported Kash Patel Was Alarmed by Joe Kent's Inquiry About the Kirk Investigation
 
 Claim Timestamp: 00:20:44
 
@@ -696,7 +695,7 @@ Investigative Direction: Locate the NYT article by date, headline, and quoted ma
 
 ---
 
-**C-1520** Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry
+**C-1967** Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry
 
 Claim Timestamp: 00:21:37
 
@@ -711,7 +710,7 @@ Investigative Direction: Confirm via the NYT article whether these named officia
 
 ---
 
-**C-1521** Host Says Trump Established October 14 as a National Day of Remembrance for Charlie Kirk
+**C-1959** Host Says Trump Established October 14 as a National Day of Remembrance for Charlie Kirk
 
 Claim Timestamp: 00:13:10
 
@@ -725,7 +724,7 @@ Investigative Direction: Locate the relevant proclamation in the Federal Registe
 
 ---
 
-**C-1522** Don Trump Jr. Expressed Confidence in the FBI Kirk Investigation in a Megyn Kelly Interview
+**C-1980** Don Trump Jr. Expressed Confidence in the FBI Kirk Investigation in a Megyn Kelly Interview
 
 Claim Timestamp: 00:34:10
 
@@ -740,7 +739,7 @@ Investigative Direction: Obtain the full Megyn Kelly interview clip and surround
 
 ---
 
-**C-1523** Don Trump Jr. Initially Deflected Before Being Pressed and Expressing Confidence
+**C-1978** Don Trump Jr. Initially Deflected Before Being Pressed and Expressing Confidence
 
 Claim Timestamp: 00:33:08
 
@@ -754,7 +753,7 @@ Investigative Direction: Confirm sequence of statements in the unedited intervie
 
 ---
 
-**C-1524** Host Rejects Wikipedia Characterization of Rob McCoy as TPUSA Faith Co-Founder
+**C-1949** Host Rejects Wikipedia Characterization of Rob McCoy as TPUSA Faith Co-Founder
 
 Claim Timestamp: 00:04:25
 
@@ -769,7 +768,7 @@ Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents,
 
 ---
 
-**C-1525** Host Characterizes Don Trump Jr.'s Confidence Statement as Inconsistent With What He Would Say If He Believed the Official Narrative
+**C-1984** Host Characterizes Don Trump Jr.'s Confidence Statement as Inconsistent With What He Would Say If He Believed the Official Narrative
 
 Claim Timestamp: 00:37:35
 
@@ -784,7 +783,7 @@ Investigative Direction: This is interpretive host commentary; falsifiable only 
 
 ---
 
-**C-1526** Norman Finkelstein Trailer Characterizes Gaza Treatment and "Jewish Supremacist" Money Influence
+**C-1988** Norman Finkelstein Trailer Characterizes Gaza Treatment and "Jewish Supremacist" Money Influence
 
 Claim Timestamp: 00:40:50
 
@@ -798,7 +797,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 ---
 
-**C-6512** Host Says Charlie Was a Gifted Child Whose Parents Refused ADHD Medication
+**C-1945** Host Says Charlie Was a Gifted Child Whose Parents Refused ADHD Medication
 
 Claim Timestamp: 00:01:24
 
@@ -813,7 +812,7 @@ Investigative Direction: Ask the Kirk family or early associates to confirm the 
 
 ---
 
-**C-6513** Host Believes Charlie Was Assigned Life Handlers After Gifted Schooling
+**C-1946** Host Believes Charlie Was Assigned Life Handlers After Gifted Schooling
 
 Claim Timestamp: 00:01:24
 
@@ -828,7 +827,7 @@ Investigative Direction: No document is cited; the claim is speculation and woul
 
 ---
 
-**C-6514** Wikipedia Entry Text Says McCoy Co-Chaired TPUSA Faith and Inspired Kirk
+**C-1948** Wikipedia Entry Text Says McCoy Co-Chaired TPUSA Faith and Inspired Kirk
 
 Claim Timestamp: 00:03:03
 
@@ -839,13 +838,13 @@ Transcript Snippet: McCoy is the co-chairman of TPUs faith, aligned with the Chr
 Anchored Artifacts: A-1283.2
 Mentions: N-17, N-1
 Related Nodes: N-10353
-Supports: C-1514
+Supports: C-1947
 Tags: relevance:core
 Investigative Direction: Pull the revision of the TPUSA Wikipedia article saved on 11 September 2025 and compare the exact wording and cited sources with what the host read.
 
 ---
 
-**C-6515** Host Says Charlie Told Her TPUSA Had Found Someone to Clean Up Wikipedia Pages
+**C-1953** Host Says Charlie Told Her TPUSA Had Found Someone to Clean Up Wikipedia Pages
 
 Claim Timestamp: 00:06:48
 
@@ -861,7 +860,7 @@ Investigative Direction: Search the host's saved messages with Charlie Kirk for 
 
 ---
 
-**C-6516** Host Says Erika Kirk Had Not Yet Been Announced as Chair and CEO When the Edit Was Made
+**C-1954** Host Says Erika Kirk Had Not Yet Been Announced as Chair and CEO When the Edit Was Made
 
 Claim Timestamp: 00:08:58
 
@@ -877,7 +876,7 @@ Investigative Direction: Compare the Wikipedia edit timestamp of 10:34 PM ET on 
 
 ---
 
-**C-6517** Host Says McCoy Is Paid by TPUSA Faith for Upcoming Pastor Summits
+**C-1955** Host Says McCoy Is Paid by TPUSA Faith for Upcoming Pastor Summits
 
 Claim Timestamp: 00:08:58
 
@@ -893,7 +892,7 @@ Investigative Direction: Request TPUSA Faith contracts, speaker agreements or IR
 
 ---
 
-**C-6518** Host Says Trump Posted an AI Photo of Himself and Charlie With a Star of David
+**C-1956** Host Says Trump Posted an AI Photo of Himself and Charlie With a Star of David
 
 Claim Timestamp: 00:11:02
 
@@ -908,7 +907,7 @@ Investigative Direction: Locate the original Truth Social post, its date and the
 
 ---
 
-**C-6519** Host Says Pro-Israel Figures Were the Most Insistent That Questions About Charlie's Death Stop
+**C-1957** Host Says Pro-Israel Figures Were the Most Insistent That Questions About Charlie's Death Stop
 
 Claim Timestamp: 00:11:02
 
@@ -924,7 +923,7 @@ Investigative Direction: Survey public statements by prominent pro-Israel commen
 
 ---
 
-**C-6520** Host Says the Evidence Is Overwhelming That Robinson Did Not Act Alone, Fire the Shot or Use a .30-06
+**C-1958** Host Says the Evidence Is Overwhelming That Robinson Did Not Act Alone, Fire the Shot or Use a .30-06
 
 Claim Timestamp: 00:12:23
 
@@ -940,7 +939,7 @@ Investigative Direction: Compare the host's cited evidence with the charging doc
 
 ---
 
-**C-6521** Host Says TPUSA Clears About a Hundred Million Dollars a Year
+**C-1960** Host Says TPUSA Clears About a Hundred Million Dollars a Year
 
 Claim Timestamp: 00:13:10
 
@@ -955,7 +954,7 @@ Investigative Direction: Check TPUSA's Form 990 filings for total annual revenue
 
 ---
 
-**C-6522** Host Says the Feds Probably Killed Martin Luther King Jr.
+**C-1961** Host Says the Feds Probably Killed Martin Luther King Jr.
 
 Claim Timestamp: 00:14:41
 
@@ -970,7 +969,7 @@ Investigative Direction: Off-topic historical assertion recorded as said; no doc
 
 ---
 
-**C-6523** Host Says Trump Told a Memorial Story About Charlie and Brilyn Hollyhand Although Trump Was Not There
+**C-1963** Host Says Trump Told a Memorial Story About Charlie and Brilyn Hollyhand Although Trump Was Not There
 
 Claim Timestamp: 00:18:15
 
@@ -985,7 +984,7 @@ Investigative Direction: Compare the transcript of Trump's memorial speech with 
 
 ---
 
-**C-6524** Host Says Kash Patel Attended Charlie's Memorial
+**C-1964** Host Says Kash Patel Attended Charlie's Memorial
 
 Claim Timestamp: 00:19:09
 
@@ -1000,7 +999,7 @@ Investigative Direction: Check the memorial attendee list and event footage for 
 
 ---
 
-**C-6525** Host Says Patel Limits the Kirk Case to a Very Small Team at the FBI
+**C-1965** Host Says Patel Limits the Kirk Case to a Very Small Team at the FBI
 
 Claim Timestamp: 00:19:58
 
@@ -1016,7 +1015,7 @@ Investigative Direction: Request FBI organizational records or congressional tes
 
 ---
 
-**C-6526** Host Says She Suspects Foreign Entities Were Involved and Is Getting Close
+**C-1968** Host Says She Suspects Foreign Entities Were Involved and Is Getting Close
 
 Claim Timestamp: 00:22:45
 
@@ -1032,7 +1031,7 @@ Investigative Direction: Ask the host to identify the evidence behind the suspic
 
 ---
 
-**C-6527** Host Says Mikey McCoy and Kolvet Were Absent From the Charlie Kirk Show
+**C-1969** Host Says Mikey McCoy and Kolvet Were Absent From the Charlie Kirk Show
 
 Claim Timestamp: 00:26:49
 
@@ -1047,7 +1046,7 @@ Investigative Direction: Check the Charlie Kirk Show episode listing and host ro
 
 ---
 
-**C-6528** Host Relays Kolvet's Account That Charlie Said Not to Help Him If Shot in the Neck
+**C-1970** Host Relays Kolvet's Account That Charlie Said Not to Help Him If Shot in the Neck
 
 Claim Timestamp: 00:26:49
 
@@ -1063,7 +1062,7 @@ Investigative Direction: Find Kolvet's original statement and who heard Charlie 
 
 ---
 
-**C-6529** Host Says Charlie Was Given No First Aid and the Wound Was Not Secured
+**C-1971** Host Says Charlie Was Given No First Aid and the Wound Was Not Secured
 
 Claim Timestamp: 00:27:36
 
@@ -1079,7 +1078,7 @@ Investigative Direction: Review the close-up videos and medical records and inte
 
 ---
 
-**C-6530** Host Says Alex Clark Released an Interview in Which Kolvet Said Charlie and Erika Were Committed Evangelicals
+**C-1972** Host Says Alex Clark Released an Interview in Which Kolvet Said Charlie and Erika Were Committed Evangelicals
 
 Claim Timestamp: 00:29:08
 
@@ -1090,13 +1089,13 @@ Transcript Snippet: Alex Clark released that interview with her and Andrew Kolve
 Anchored Artifacts: A-2821.1
 Mentions: N-99, N-14, N-2, N-1
 Related Nodes: N-10350
-Supports: C-1255
+Supports: C-695
 Tags: relevance:context
 Investigative Direction: Locate the Alex Clark interview and check what Kolvet and Erika Kirk said about Catholicism.
 
 ---
 
-**C-6531** Host Says Operation Mocking Pastor Figures Denied the Catholic Point
+**C-1973** Host Says Operation Mocking Pastor Figures Denied the Catholic Point
 
 Claim Timestamp: 00:29:08
 
@@ -1107,13 +1106,13 @@ Transcript Snippet: operation mocking pastor or mocking evangelical influencer w
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10139
-Supports: C-1255
+Supports: C-695
 Tags: relevance:context
 Investigative Direction: Collect the public denials from evangelical influencers and compare dates with the host's earlier statements.
 
 ---
 
-**C-6532** Host Says Charlie Had a Catholic Funeral Mass and Is Buried in a Catholic Cemetery
+**C-1974** Host Says Charlie Had a Catholic Funeral Mass and Is Buried in a Catholic Cemetery
 
 Claim Timestamp: 00:29:08
 
@@ -1129,7 +1128,7 @@ Investigative Direction: Check parish and cemetery records, the funeral program 
 
 ---
 
-**C-6533** Host Says Bob Shillman Took $2 Million Away and TPUSA Brought In 70 Million Last Year
+**C-1975** Host Says Bob Shillman Took $2 Million Away and TPUSA Brought In 70 Million Last Year
 
 Claim Timestamp: 00:30:22
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Obtain TPUSA's Form 990 and donor records for the year 
 
 ---
 
-**C-6534** Host Says Donors Are Pressuring TPUSA Staff to Maintain That Charlie Died Pro-Israel
+**C-1976** Host Says Donors Are Pressuring TPUSA Staff to Maintain That Charlie Died Pro-Israel
 
 Claim Timestamp: 00:30:22
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Identify the sources the host says she is hearing from 
 
 ---
 
-**C-6535** Host Says Don Jr. Helped Build Turning Point USA and Did Campus Events With Her and Charlie
+**C-1977** Host Says Don Jr. Helped Build Turning Point USA and Did Campus Events With Her and Charlie
 
 Claim Timestamp: 00:32:12
 
@@ -1176,7 +1175,7 @@ Investigative Direction: Check TPUSA campus event schedules and photos from 2016
 
 ---
 
-**C-6536** Don Jr. Says He Has Spoken to Erika and Others and Does Have Confidence
+**C-1979** Don Jr. Says He Has Spoken to Erika and Others and Does Have Confidence
 
 Claim Timestamp: 00:33:50
 
@@ -1192,7 +1191,7 @@ Investigative Direction: Obtain the unedited Kelly interview and ask Don Jr. whi
 
 ---
 
-**C-6537** Don Jr. Says a Cottage Industry Profiteers Off Conspiracy Theories
+**C-1981** Don Jr. Says a Cottage Industry Profiteers Off Conspiracy Theories
 
 Claim Timestamp: 00:34:48
 
@@ -1207,7 +1206,7 @@ Investigative Direction: Obtain the full clip and ask which accounts or claims D
 
 ---
 
-**C-6538** Host Says Don Jr. Was Vocal About the Epstein Files Until His Father Asked If They Were Still Talking About Epstein
+**C-1982** Host Says Don Jr. Was Vocal About the Epstein Files Until His Father Asked If They Were Still Talking About Epstein
 
 Claim Timestamp: 00:35:31
 
@@ -1222,7 +1221,7 @@ Investigative Direction: Compare Don Jr.'s public posts on the Epstein files ove
 
 ---
 
-**C-6539** Host Recounts Fishing With Don Jr. in British Columbia
+**C-1983** Host Recounts Fishing With Don Jr. in British Columbia
 
 Claim Timestamp: 00:36:46
 
@@ -1237,7 +1236,7 @@ Investigative Direction: Personal anecdote recorded as said; trip dates would be
 
 ---
 
-**C-6540** Host Says Jared and Ivanka's Israel Investments Explain Trump Family Silence
+**C-1985** Host Says Jared and Ivanka's Israel Investments Explain Trump Family Silence
 
 Claim Timestamp: 00:38:46
 
@@ -1253,7 +1252,7 @@ Investigative Direction: Review disclosures of Kushner and Ivanka Trump investme
 
 ---
 
-**C-6541** Host Says Finkelstein Interview Will Be Released on Friday
+**C-1986** Host Says Finkelstein Interview Will Be Released on Friday
 
 Claim Timestamp: 00:39:19
 
@@ -1268,7 +1267,7 @@ Investigative Direction: Compare the release date of the Finkelstein interview w
 
 ---
 
-**C-6542** Host Says She Had Finkelstein on Her Show After October 7 While at the Daily Wire
+**C-1987** Host Says She Had Finkelstein on Her Show After October 7 While at the Daily Wire
 
 Claim Timestamp: 00:40:13
 
@@ -1283,7 +1282,7 @@ Investigative Direction: Locate the Daily Wire episode with Finkelstein and chec
 
 ---
 
-**C-6543** Host Says She and Her Husband Travel With Priests
+**C-1989** Host Says She and Her Husband Travel With Priests
 
 Claim Timestamp: 00:46:07
 
@@ -1298,7 +1297,7 @@ Investigative Direction: Personal statement recorded as said; no document is cit
 
 ---
 
-**C-6544** Host Says a TPUSA Employee Dreamed of Six Snakes Around a Colleague Before the Shooting
+**C-1990** Host Says a TPUSA Employee Dreamed of Six Snakes Around a Colleague Before the Shooting
 
 Claim Timestamp: 00:48:45
 
@@ -1313,7 +1312,7 @@ Investigative Direction: Anecdote from unnamed email recorded as said; unverifia
 
 ---
 
-**C-6545** Host Says Dreams Suggest Six People Betrayed Charlie
+**C-1991** Host Says Dreams Suggest Six People Betrayed Charlie
 
 Claim Timestamp: 00:49:42
 
@@ -1328,7 +1327,7 @@ Investigative Direction: Speculation from dreams recorded as said; no evidentiar
 
 ---
 
-**C-6546** Host Says Charlie Knew His Life Would Be Short and That She Would Defend Him
+**C-1992** Host Says Charlie Knew His Life Would Be Short and That She Would Defend Him
 
 Claim Timestamp: 00:50:36
 
@@ -1343,7 +1342,7 @@ Investigative Direction: Look for Charlie's messages or recorded remarks indicat
 
 ---
 
-**C-6547** Host Says the Big Jewish Donors at TPUSA Pressured Charlie
+**C-1993** Host Says the Big Jewish Donors at TPUSA Pressured Charlie
 
 Claim Timestamp: 00:51:23
 
@@ -1354,13 +1353,13 @@ Transcript Snippet: the big donors, the Jewish donors at Turning Point USA who a
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10047
-Supports: C-1258
+Supports: C-715
 Tags: relevance:context
 Investigative Direction: Compare with Charlie's own messages about donor pressure referenced in earlier episodes, and TPUSA donor records.
 
 ---
 
-**C-6548** Host Says Ghislaine Maxwell's Father Began Maxwell Macmillan, Which Published Textbooks
+**C-1994** Host Says Ghislaine Maxwell's Father Began Maxwell Macmillan, Which Published Textbooks
 
 Claim Timestamp: 00:53:20
 
@@ -1375,7 +1374,7 @@ Investigative Direction: Verify Robert Maxwell's ownership of Macmillan Publishe
 
 ---
 
-**C-6549** Host Says a Clip Showed an Israeli Leader Training People to Edit Wikipedia
+**C-1995** Host Says a Clip Showed an Israeli Leader Training People to Edit Wikipedia
 
 Claim Timestamp: 00:53:20
 
@@ -1391,7 +1390,7 @@ Investigative Direction: Identify the clip the host refers to and the speaker, t
 
 ---
 
-**C-6550** Host Says Israel Is Buying Bots and Wants TikTok to Isolate Opinion
+**C-1996** Host Says Israel Is Buying Bots and Wants TikTok to Isolate Opinion
 
 Claim Timestamp: 00:54:40
 
@@ -1407,7 +1406,7 @@ Investigative Direction: Identify the reporting the host refers to when she says
 
 ---
 
-**C-6551** Host Says Feminism Was a Government Initiative Sponsored by Children of Bolsheviks
+**C-1997** Host Says Feminism Was a Government Initiative Sponsored by Children of Bolsheviks
 
 Claim Timestamp: 00:55:42
 
@@ -1426,9 +1425,9 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 
 - **Claim failed admission test** – The host's claim that Charlie Kirk had a Catholic funeral mass and is buried in a Catholic cemetery (timestamps ~29:08–34:00) is not supported by any artifact in this episode. It fails the Artifact Anchor Test and is therefore not inscribed as a claim; the underlying discrepancy is preserved as investigation target **N-10201** for external verification.
 
-- **Artifact verbally referenced but not shown** – **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1519, C-1520, C-1521) depend on these references and carry the same flag.
+- **Artifact verbally referenced but not shown** – **A-1286.1** (NYT article about Kash Patel / Joe Kent) and **A-1289.1** (Charlie Kirk Day proclamation) are referenced by the host but neither displayed on screen nor read aloud. Subsequent claims (C-1966, C-1967, C-1959) depend on these references and carry the same flag.
 
-- **Artifact verbally referenced but not displayed in full** – **A-1284.1** (the November 24, 2024 Wikipedia citation source article) is described by the host as having been clicked and read, but its text is not displayed or read aloud in the episode. C-1517 depends on the host's characterization of its content.
+- **Artifact verbally referenced but not displayed in full** – **A-1284.1** (the November 24, 2024 Wikipedia citation source article) is described by the host as having been clicked and read, but its text is not displayed or read aloud in the episode. C-1951 depends on the host's characterization of its content.
 
 - **Name uncertainty** – The transcript spells "Susie Wiles" (likely Susie Wiles, Trump's chief of staff), "Kolvet" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
 
@@ -1453,6 +1452,6 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 - [x] No reuse of IDs from previous episodes; ledger continuation respected
 - [x] Artifact families represent single evidentiary sources
 - [x] Speculative framing (assassination premise, "demons," MLK Jr. parallel, "life handlers," "foreign entities," "six people who betrayed him") excluded from Claim Register
-- [x] Host interpretive stances against artifact content (Lane-class) inscribed as separate claims where artifact-anchored (C-1524, C-1525)
+- [x] Host interpretive stances against artifact content (Lane-class) inscribed as separate claims where artifact-anchored (C-1949, C-1984)
 
 ---

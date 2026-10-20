@@ -16,10 +16,9 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
   - Hole-minted Nodes (reintro-ep011): N-272, N-10146, N-10147, N-10319, N-10566, N-10633, N-10634, N-10713, N-10768
   - Tip-minted Nodes (reintro-ep011): N-10987, N-11009, N-11012, N-11053, N-11139, N-11217, N-11274
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (ep11-restore-2026-10-20): C-15571–C-15621
+  - Claim Range: C-948–C-1071
   - Tip-minted Nodes (supplement_2026-10g): N-11372, N-11373, N-11374
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13822–C-13870
   - New Nodes Introduced: N-125, N-126, N-128, N-129, N-130, N-10141, N-10142, N-10143, N-10144, N-10145
   - Reused Nodes Appearing: N-41, N-49, N-75, N-10011, N-10012, N-10021, N-10022, N-10028, N-10029, N-10038, N-10047, N-10048, N-10051, N-10060, N-10138, N-10343, N-10000, N-10034, N-10042, N-10043, N-10044, N-10077, N-10094
 - Episode Number: Monument Ep 11 (Batch 1), N-11
@@ -31,7 +30,6 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1171, A-1172, A-1173, A-1174, A-1175, A-1176, A-1177, A-1178, A-1179, A-1180, A-1181, A-1182
-  - Claim Range: C-1297–C-1320
   - New Nodes Introduced (people): N-125, N-126, N-61, N-128, N-129, N-130
   - New Nodes Introduced (investigation targets): N-10141, N-10142, N-10143, N-10144, N-10145
   - Existing Nodes Reused: Tyler Robinson, Nate Brooksby, Lance, Tiffany Peterson Barker, Lance's family, Robinson family, Governor Cox, Taylor Hansen, Tyler Bowyer (Turning Point USA), Max Blumenthal, "Shamway" neighbor
@@ -62,7 +60,7 @@ Video Timestamp: 00:02:45–00:03:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1297, C-1298, Tyler Robinson node*
+*Related: C-959, C-956, Tyler Robinson node*
 
 ### A-1172 Brooksby Press Conference Clip Bundle
 
@@ -74,7 +72,7 @@ Video Timestamp: 00:03:50–00:04:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1299, C-1300, N-125, Nate Brooksby node*
+*Related: C-971, C-996, N-125, Nate Brooksby node*
 
 **A-1172.2** Brooksby press-conference audio clip – statement that during the call Tyler had "suicidal ideations" and was being directed to a remote Washington County area; parents convinced him otherwise.
 
@@ -84,7 +82,7 @@ Video Timestamp: 00:04:50–00:05:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1301, C-1306, Nate Brooksby node*
+*Related: C-973, C-969, Nate Brooksby node*
 
 **A-1172.3** Brooksby press-conference audio clip – statement that Tyler came in willingly because he was "fearful of a SWAT team hit" and being shot by law enforcement; negotiation included a "delicate and as soft as possible" reception.
 
@@ -94,7 +92,7 @@ Video Timestamp: 00:05:30–00:06:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1302, C-1306, Nate Brooksby node*
+*Related: C-976, C-969, Nate Brooksby node*
 
 ### A-1173 Lance/Tyler Instagram Photo Bundle
 
@@ -106,7 +104,7 @@ Video Timestamp: 00:07:30–00:07:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1303, Lance node, Tyler Robinson node*
+*Related: C-980, Lance node, Tyler Robinson node*
 
 **A-1173.2** Lance's Instagram post including a photo of Tyler with a mustache; presented as evidence of the romantic relationship.
 
@@ -116,7 +114,7 @@ Video Timestamp: 00:07:50–00:08:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1303, Lance node, Tyler Robinson node*
+*Related: C-980, Lance node, Tyler Robinson node*
 
 ### A-1174 Mike Mitchell Retirement Post Bundle
 
@@ -128,7 +126,7 @@ Video Timestamp: 00:16:00–00:16:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1304, C-1305, N-125, Nate Brooksby node*
+*Related: C-1002, C-1003, N-125, Nate Brooksby node*
 
 ### A-1175 Food Court Photo Bundle
 
@@ -140,7 +138,7 @@ Video Timestamp: 00:25:00–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host acknowledges image is from anonymous source)
 
-*Related: C-1316, N-126, Tyler Robinson node, N-10144*
+*Related: C-1008, N-126, Tyler Robinson node, N-10144*
 
 ### A-1176 TMZ Surveillance Footage Bundle
 
@@ -152,7 +150,7 @@ Video Timestamp: 00:28:00–00:29:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1307, C-1314, N-61, N-10144*
+*Related: C-1014, C-1038, N-61, N-10144*
 
 ### A-1177 Phil Lyman Kayleigh McEnany Interview Bundle
 
@@ -164,7 +162,7 @@ Video Timestamp: 00:28:00–00:29:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1307, C-1308, N-61, N-129, N-10144*
+*Related: C-1014, C-1018, N-61, N-129, N-10144*
 
 ### A-1178 Phil Lyman Alex Jones Clip Bundle
 
@@ -176,7 +174,7 @@ Video Timestamp: 00:30:00–00:32:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1309, N-61, N-10144*
+*Related: C-1022, N-61, N-10144*
 
 ### A-1179 Phil Lyman Local Utah News Bundle
 
@@ -188,7 +186,7 @@ Video Timestamp: 00:32:30–00:33:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1310, N-61, N-10144*
+*Related: C-1025, N-61, N-10144*
 
 ### A-1180 Phil Lyman Instagram Video Bundle
 
@@ -200,7 +198,7 @@ Video Timestamp: 00:34:00–00:35:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1311, N-61, N-10144*
+*Related: C-1026, N-61, N-10144*
 
 ### A-1181 Shane Lyman Instagram Bundle
 
@@ -212,7 +210,7 @@ Video Timestamp: 00:41:00–00:41:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1312, C-1313, N-128, N-61, N-10144*
+*Related: C-1046, C-1047, N-128, N-61, N-10144*
 
 **A-1181.2** Shane Lyman's Instagram post showing side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host notes she could not identify two of the individuals on his friends list.
 
@@ -222,7 +220,7 @@ Video Timestamp: 00:42:00–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1313, N-128, N-61, N-10144*
+*Related: C-1047, N-128, N-61, N-10144*
 
 ### A-1182 Viewer Comments Bundle
 
@@ -234,7 +232,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1317*
+*Related: C-1059*
 
 **A-1182.2** Comment from "Caitlyn Derrian" describing the host as a model of real journalism.
 
@@ -244,7 +242,7 @@ Video Timestamp: 00:49:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1318*
+*Related: C-1055*
 
 **A-1182.3** Comment from "Kristen Theoret" stating the people closest to Charlie are simply moving on and that the host is the only one capable of unraveling the truth.
 
@@ -254,7 +252,7 @@ Video Timestamp: 00:51:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1319*
+*Related: C-1063*
 
 **A-1182.4** Comment from "Bitsy" stating "The whole world is a stage … it's all lies."
 
@@ -264,7 +262,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1320*
+*Related: C-1066*
 
 **A-1182.5** Comment from "Miranda Allen" offering prayers for protection over investigators.
 
@@ -274,7 +272,7 @@ Video Timestamp: 00:51:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1320*
+*Related: C-1066*
 
 **A-1182.6** Comment from "Cassie" stating many social-media figures have lost credibility by not asking questions about the shooting.
 
@@ -284,7 +282,7 @@ Video Timestamp: 00:52:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1319*
+*Related: C-1063*
 
 **A-1182.7** Comment from "Kaya" stating "It's 1963 all over again" and referencing Ian being mentioned.
 
@@ -294,7 +292,7 @@ Video Timestamp: 00:53:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1319, C-1315, N-130*
+*Related: C-1063, C-1041, N-130*
 
 ---
 
@@ -307,7 +305,7 @@ Video Timestamp: 00:01:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13823, C-13822, C-13824, C-13825, C-13826, C-13828, C-13827, C-13829, C-13830, C-13831, C-13832, C-13834, C-13835, C-13841, C-13836, C-13837, C-13840, N-3*
+*Related: C-949, C-948, C-950, C-951, C-952, C-954, C-953, C-955, C-957, C-958, C-960, C-962, C-963, C-970, C-964, C-965, C-968, N-3*
 
 ---
 
@@ -320,7 +318,7 @@ Video Timestamp: 00:26:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13846, N-3*
+*Related: C-1011, N-3*
 
 ---
 
@@ -333,7 +331,7 @@ Video Timestamp: 00:49:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13863, N-3*
+*Related: C-1062, N-3*
 
 ---
 
@@ -346,7 +344,7 @@ Video Timestamp: 00:49:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13867, C-13868, N-3*
+*Related: C-1068, C-1069, N-3*
 
 ---
 
@@ -359,7 +357,7 @@ Video Timestamp: 00:14:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15580, C-15581, C-15582, N-40, N-11139*
+*Related: C-986, C-987, C-988, N-40, N-11139*
 
 ---
 
@@ -374,7 +372,7 @@ Video Timestamp: 00:20:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15595, C-15596, N-3, N-125*
+*Related: C-1004, C-1005, N-3, N-125*
 
 **A-3419.2** Host verbal request that the tips address be kept for actual tips while she asks the public to identify the people in the Lyman nephew's photos (verbal call for tips)
 
@@ -385,7 +383,7 @@ Video Timestamp: 00:47:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15621, N-3, N-128*
+*Related: C-1054, N-3, N-128*
 
 ---
 
@@ -398,7 +396,7 @@ Video Timestamp: 00:37:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15604, C-15605, N-3, N-61, N-10042*
+*Related: C-1033, C-1034, N-3, N-61, N-10042*
 
 ---
 
@@ -411,7 +409,7 @@ Video Timestamp: 00:42:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15614, N-3, N-61, N-128, N-10144*
+*Related: C-1045, N-3, N-61, N-128, N-10144*
 
 ---
 
@@ -424,7 +422,7 @@ Video Timestamp: 00:39:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15608, C-15609, C-15610, C-15611, C-15612, C-15613, C-15615, C-15616, C-15617, C-15618, N-126, N-61, N-11, N-41, N-973*
+*Related: C-1037, C-1039, C-1040, C-1042, C-1043, C-1044, C-1048, C-1049, C-1050, C-1051, N-126, N-61, N-11, N-41, N-973*
 
 ---
 
@@ -439,7 +437,7 @@ Video Timestamp: 00:46:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15621, N-128, N-61, N-1*
+*Related: C-1054, N-128, N-61, N-1*
 
 ---
 
@@ -454,7 +452,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1174.1, C-1304, C-1305, Nate Brooksby node, Tyler Robinson node*
+*Related: A-1174.1, C-1002, C-1003, Nate Brooksby node, Tyler Robinson node*
 
 **N-126** "Nick" (UVU Student – Pseudonym)
 
@@ -465,7 +463,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1175.1, C-1316, C-1317, C-1318, C-1319, C-1320, N-61, N-10144*
+*Related: A-1175.1, C-1008, C-1059, C-1055, C-1063, C-1066, N-61, N-10144*
 
 **N-128** Shaner Broderick
 
@@ -476,7 +474,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1181.1, A-1181.2, C-1312, C-1313, N-61*
+*Related: A-1181.1, A-1181.2, C-1046, C-1047, N-61*
 
 **N-129** Kayleigh McEnany
 Interviewer; conducted the on-camera interview with Phil Lyman in which he described his car in the driveway of the TMZ footage house.
@@ -486,7 +484,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1177.1, C-1307, N-61*
+*Related: A-1177.1, C-1014, N-61*
 
 **N-130** Ian Carroll
 
@@ -497,7 +495,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1314, C-1315, N-61, N-10144*
+*Related: C-1038, C-1041, N-61, N-10144*
 
 **N-10141** Mike Mitchell Public Record Anomaly
 
@@ -508,7 +506,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1174.1, C-1305, N-125, Nate Brooksby node*
+*Related: A-1174.1, C-1003, N-125, Nate Brooksby node*
 
 **N-10142** Brooksby Suicide Narrative Discrepancy
 
@@ -519,7 +517,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1172.2, A-1172.3, C-1301, C-1302, C-1306, Nate Brooksby node, Tyler Robinson node*
+*Related: A-1172.2, A-1172.3, C-973, C-976, C-969, Nate Brooksby node, Tyler Robinson node*
 
 **N-10143** Robinson Apartment Staging Allegation
 
@@ -530,7 +528,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1303, Lance node, Tyler Robinson node, Robinson family node*
+*Related: C-980, Lance node, Tyler Robinson node, Robinson family node*
 
 **N-10144** Phil Lyman Proximity and Behavior Investigation
 
@@ -541,7 +539,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1176.1, A-1177.1, A-1178.1, A-1179.1, A-1180.1, A-1181.1, A-1181.2, C-1307, C-1308, C-1309, C-1310, C-1311, C-1320, N-126, N-61, N-128, N-130*
+*Related: A-1176.1, A-1177.1, A-1178.1, A-1179.1, A-1180.1, A-1181.1, A-1181.2, C-1014, C-1018, C-1022, C-1025, C-1026, C-1066, N-126, N-61, N-128, N-130*
 
 **N-10145** UVU Campus Familiarity Question
 
@@ -552,7 +550,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1302, Tyler Robinson node*
+*Related: C-976, Tyler Robinson node*
 
 ---
 
@@ -569,7 +567,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; discussed in Lyman's clips and the microphone theory.
 
-*Related: C-13829, C-13836, C-13839, C-13846, C-13853, C-13865, C-13867, C-13868, C-13869*
+*Related: C-955, C-964, C-967, C-1011, C-1020, C-1065, C-1068, C-1069, C-1070*
 
 ---
 
@@ -577,7 +575,7 @@ Subject of the assassination; discussed in Lyman's clips and the microphone theo
 
 Host; speaks for herself throughout.
 
-*Related: A-3280.1, A-3281.1, A-3282.1, A-3283.1, C-13822, C-13823, C-13824, C-13857, C-13858, C-13859, C-13860, C-13861, C-13862, C-13864, C-13865, C-13866, C-13867, C-13868, C-13869, C-13870*
+*Related: A-3280.1, A-3281.1, A-3282.1, A-3283.1, C-948, C-949, C-950, C-1027, C-1056, C-1057, C-1058, C-1060, C-1061, C-1064, C-1065, C-1067, C-1068, C-1069, C-1070, C-1071*
 
 ---
 
@@ -585,7 +583,7 @@ Host; speaks for herself throughout.
 
 Charged suspect; the subject of the source's account of his surrender, innocence and background.
 
-*Related: C-13822, C-13825, C-13826, C-13827, C-13828, C-13829, C-13830, C-13831, C-13832, C-13833, C-13834, C-13835, C-13836, C-13837, C-13838, C-13839, C-13840, C-13841, C-13856*
+*Related: C-948, C-951, C-952, C-953, C-954, C-955, C-957, C-958, C-960, C-961, C-962, C-963, C-964, C-965, C-966, C-967, C-968, C-970, C-1024*
 
 ---
 
@@ -593,7 +591,7 @@ Charged suspect; the subject of the source's account of his surrender, innocence
 
 Utah governor; Phil Lyman's opponent in the gubernatorial race.
 
-*Related: C-13844*
+*Related: C-1009*
 
 ---
 
@@ -601,7 +599,7 @@ Utah governor; Phil Lyman's opponent in the gubernatorial race.
 
 Journalist the host credits with publishing articles on the case last week.
 
-*Related: C-13864*
+*Related: C-1064*
 
 ---
 
@@ -609,7 +607,7 @@ Journalist the host credits with publishing articles on the case last week.
 
 Utah politician whose proximity to the scene and contacts with the host's team are examined.
 
-*Related: C-13844, C-13845, C-13848, C-13849, C-13850, C-13851, C-13852, C-13853, C-13854, C-13855, C-13856, C-13857, C-13858, C-13859, C-13866*
+*Related: C-1009, C-1010, C-1013, C-1015, C-1016, C-1017, C-1019, C-1020, C-1021, C-1023, C-1024, C-1027, C-1056, C-1057, C-1067*
 
 ---
 
@@ -617,7 +615,7 @@ Utah politician whose proximity to the scene and contacts with the host's team a
 
 Witness who appeared on Good Morning America; the host discusses her footage and her Lyman connection.
 
-*Related: C-13846, C-13847, C-13848, C-13863*
+*Related: C-1011, C-1012, C-1013, C-1062*
 
 ---
 
@@ -625,7 +623,7 @@ Witness who appeared on Good Morning America; the host discusses her footage and
 
 Interviewer in the clip where Lyman describes the scene and the recovered rifle.
 
-*Related: C-13854, C-13855, C-13856*
+*Related: C-1021, C-1023, C-1024*
 
 ---
 
@@ -633,7 +631,7 @@ Interviewer in the clip where Lyman describes the scene and the recovered rifle.
 
 Washington County sheriff; the host plays his press-conference account.
 
-*Related: C-13842, C-13843, C-13862*
+*Related: C-972, C-974, C-1061*
 
 ---
 
@@ -641,7 +639,7 @@ Washington County sheriff; the host plays his press-conference account.
 
 Source of the neighborhood surveillance footage showing the shooter.
 
-*Related: C-13850*
+*Related: C-1016*
 
 ---
 
@@ -649,7 +647,7 @@ Source of the neighborhood surveillance footage showing the shooter.
 
 Site of the shooting; Robinson was reportedly not a student.
 
-*Related: C-13838*
+*Related: C-966*
 
 ---
 
@@ -657,7 +655,7 @@ Site of the shooting; Robinson was reportedly not a student.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13825*
+*Related: C-951*
 
 ---
 
@@ -665,7 +663,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13832, C-13833, C-13834*
+*Related: C-960, C-961, C-962*
 
 ---
 
@@ -673,7 +671,7 @@ Existing topic reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-13837, C-13839*
+*Related: C-965, C-967*
 
 ---
 
@@ -681,7 +679,7 @@ Existing place reused for new claims in this episode.
 
 Brooksby's office; the retired friend's call came to him.
 
-*Related: C-13843*
+*Related: C-974*
 
 ---
 
@@ -689,7 +687,7 @@ Brooksby's office; the retired friend's call came to him.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13830, C-13831*
+*Related: C-957, C-958*
 
 ---
 
@@ -697,7 +695,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13865*
+*Related: C-1065*
 
 ---
 
@@ -705,7 +703,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13823, C-13860, C-13864, C-13870*
+*Related: C-949, C-1058, C-1064, C-1071*
 
 ---
 
@@ -713,7 +711,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13824, C-13840*
+*Related: C-950, C-968*
 
 ---
 
@@ -721,7 +719,7 @@ Existing topic reused for new claims in this episode.
 
 Show on which Barker appeared; the host relays how she was booked.
 
-*Related: C-13846, C-13848, C-13863*
+*Related: C-1011, C-1013, C-1062*
 
 ---
 
@@ -729,7 +727,7 @@ Show on which Barker appeared; the host relays how she was booked.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13826*
+*Related: C-952*
 
 ---
 
@@ -737,7 +735,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13850, C-13851, C-13857*
+*Related: C-1016, C-1017, C-1027*
 
 ---
 
@@ -745,7 +743,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13855*
+*Related: C-1023*
 
 ---
 
@@ -753,7 +751,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13839*
+*Related: C-967*
 
 ---
 
@@ -761,7 +759,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13825, C-13836*
+*Related: C-951, C-964*
 
 ---
 
@@ -769,7 +767,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13830*
+*Related: C-957*
 
 ---
 
@@ -777,7 +775,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13867, C-13868*
+*Related: C-1068, C-1069*
 
 ---
 
@@ -785,7 +783,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13867, C-13868, C-13869*
+*Related: C-1068, C-1069, C-1070*
 
 ---
 
@@ -793,7 +791,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13867, C-13869*
+*Related: C-1068, C-1070*
 
 ---
 
@@ -801,7 +799,7 @@ Existing topic reused for new claims in this episode.
 
 School the host says accepted Robinson.
 
-*Related: C-13838*
+*Related: C-966*
 
 ---
 
@@ -810,7 +808,7 @@ School the host says accepted Robinson.
 Node Type: Topic
 The host's source's account that the rifle is a custom-made family heirloom inherited by Tyler Robinson as the firstborn son, and that he is not a gun enthusiast.
 
-*Related: C-13827, C-13828*
+*Related: C-953, C-954*
 
 ---
 
@@ -819,7 +817,7 @@ The host's source's account that the rifle is a custom-made family heirloom inhe
 Node Type: Topic
 Where the photo of the person in a black suit and dark sunglasses in the UVU food court came from, per the host: sent by Nick, who learned it came from Tiffany Barker's mother.
 
-*Related: C-13847*
+*Related: C-1012*
 
 ---
 
@@ -828,7 +826,7 @@ Where the photo of the person in a black suit and dark sunglasses in the UVU foo
 Node Type: Topic
 The host's stated gut instinct that the assassination was a military operation, based on what she has seen, lingering questions and further leads.
 
-*Related: C-13860*
+*Related: C-1058*
 
 ---
 
@@ -836,7 +834,7 @@ The host's stated gut instinct that the assassination was a military operation, 
 
 Existing topic reused for new claims in this episode: Brooksby's surrender account versus the host's source.
 
-*Related: C-15571, C-15572, C-15573*
+*Related: C-975, C-977, C-978*
 
 ---
 
@@ -845,7 +843,7 @@ Existing topic reused for new claims in this episode: Brooksby's surrender accou
 Node Type: Topic
 The host's report, via a third party, that federal agents told Tyler Robinson's parents their lives could be at risk if they spoke out and persuaded the family to go into witness protection.
 
-*Related: C-15574*
+*Related: C-979*
 
 ---
 
@@ -853,7 +851,7 @@ The host's report, via a third party, that federal agents told Tyler Robinson's 
 
 Tyler Robinson's roommate and, per the Instagram posts the host shows, his boyfriend; the host questions his quick clearance and the apartment staging.
 
-*Related: C-15576, C-15577, C-15584, C-15585, C-15586, C-15587*
+*Related: C-982, C-983, C-990, C-991, C-992, C-993*
 
 ---
 
@@ -861,7 +859,7 @@ Tyler Robinson's roommate and, per the Instagram posts the host shows, his boyfr
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15579*
+*Related: C-985*
 
 ---
 
@@ -869,7 +867,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15580, C-15581, C-15582*
+*Related: C-986, C-987, C-988*
 
 ---
 
@@ -877,7 +875,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15576, C-15577*
+*Related: C-982, C-983*
 
 ---
 
@@ -885,7 +883,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15580*
+*Related: C-986*
 
 ---
 
@@ -893,7 +891,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15581*
+*Related: C-987*
 
 ---
 
@@ -901,7 +899,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused; the host asks the public to identify the nephew's two companions.
 
-*Related: C-15621*
+*Related: C-1054*
 
 ---
 
@@ -909,7 +907,7 @@ Existing topic reused; the host asks the public to identify the nephew's two com
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15584, C-15587*
+*Related: C-990, C-993*
 
 ---
 
@@ -917,7 +915,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15585*
+*Related: C-991*
 
 ---
 
@@ -925,7 +923,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused; the host says Mike Mitchell is involved in the LDS church.
 
-*Related: C-15592*
+*Related: C-999*
 
 ---
 
@@ -933,7 +931,7 @@ Existing organization reused; the host says Mike Mitchell is involved in the LDS
 
 Existing organization reused; the host says TPUSA accepted the narrative, and Nick reports Lyman speaking with Tyler Bowyer about a TPUSA event at USU.
 
-*Related: C-15598, C-15611, C-15612*
+*Related: C-1007, C-1042, C-1043*
 
 ---
 
@@ -941,7 +939,7 @@ Existing organization reused; the host says TPUSA accepted the narrative, and Ni
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15603*
+*Related: C-1032*
 
 ---
 
@@ -949,7 +947,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15604*
+*Related: C-1033*
 
 ---
 
@@ -957,7 +955,7 @@ Existing topic reused for new claims in this episode.
 
 First named at 00:45:30 in episode 11, in the host's relay of Nick's account that Phil Lyman said he had already given his photos to Taylor Hansen. Identity not established from the transcript.
 
-*Related: C-15617, A-3422.1*
+*Related: C-1050, A-3422.1*
 
 ---
 
@@ -965,13 +963,13 @@ First named at 00:45:30 in episode 11, in the host's relay of Nick's account tha
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-15619*
+*Related: C-1052*
 
 ---
 
 ## V. Claim Register
 
-**C-1297** Host Says Tyler Robinson Uses "Car" Rather Than "Vehicle" in 2022 Police Bodycam Footage
+**C-959** Host Says Tyler Robinson Uses "Car" Rather Than "Vehicle" in 2022 Police Bodycam Footage
 
 Claim Timestamp: 00:04:00
 Claim: The host says Tyler Robinson refers to it as his car, not his vehicle, in the 2022 police bodycam footage she plays, in which his mother is said to have to "shuttle over from where she's at to her car", which she contrasts with the vocabulary of the federal text messages.
@@ -980,7 +978,7 @@ Mentions: N-40
 Related Nodes:
 Investigative Direction: Obtain the original 2022 bodycam video and full transcript; compare against the released federal text messages.
 
-**C-1298** Host Says Robinson Saying "Car" Rather Than "Vehicle" Is How Most English Speakers Talk
+**C-956** Host Says Robinson Saying "Car" Rather Than "Vehicle" Is How Most English Speakers Talk
 
 Claim Timestamp: 00:03:25
 Claim: Host states (via commentary on A-1171.1) that Robinson's everyday use of "car" rather than "vehicle" is typical of ordinary American English speakers.
@@ -990,7 +988,7 @@ Related Nodes:
 Investigative Direction: Independent corpus sampling of Robinson's other recorded speech; comparison with general American English usage.
 *Note: This is a host interpretive claim layered on the same artifact.*
 
-**C-1299** Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was
+**C-971** Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was
 
 Claim Timestamp: 00:09:06
 Claim: In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.
@@ -998,7 +996,7 @@ Anchored Artifacts: A-1172.1
 Mentions: N-272, N-125
 Investigative Direction: Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a "retired Washington County deputy").
 
-**C-1300** Brooksby Says He Withheld the Retired Deputy's Identity to Protect Him
+**C-996** Brooksby Says He Withheld the Retired Deputy's Identity to Protect Him
 
 Claim Timestamp: 00:17:27
 Claim: Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as "retired law enforcement"; he argued that the court documents were what ultimately revealed the title.
@@ -1006,7 +1004,7 @@ Anchored Artifacts: A-1172.1, A-1174.1
 Mentions: N-272, N-125
 Investigative Direction: Pull the cited court documents and compare Brooksby's public statements with the actual filed text.
 
-**C-1301** Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call
+**C-973** Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call
 
 Claim Timestamp: 00:09:48
 Claim: In a clip the host plays, Nate Brooksby says that during the initial call "some information was provided" about Tyler "potentially having some suicidal ideations" and a remote area of Washington County, and that the parents convinced him not to do that.
@@ -1015,7 +1013,7 @@ Mentions: N-272, N-40
 Related Nodes: N-10142
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
 
-**C-1302** Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement
+**C-976** Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement
 
 Claim Timestamp: 00:10:42
 Claim: In a clip the host plays, Brooksby says Tyler's arrival at his office was treated "as delicate and as soft as possible" because he was "fearful of a SWAT team hit" on his house or of being shot by law enforcement.
@@ -1024,7 +1022,7 @@ Mentions: N-272, N-40
 Related Nodes: N-10142
 Investigative Direction: Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.
 
-**C-1303** Lance's Instagram posts establish a romantic relationship with Tyler Robinson
+**C-980** Lance's Instagram posts establish a romantic relationship with Tyler Robinson
 
 Claim Timestamp: 00:12:21
 Claim: Host presents Lance's Halloween-era Instagram caption ("I forgot to post my boyfriend is the best. Love you.") and a photo of Tyler with a mustache as evidence that Tyler and Lance were in a romantic relationship.
@@ -1033,7 +1031,7 @@ Mentions: N-40, N-54
 Related Nodes: N-10143
 Investigative Direction: Recover archived versions of Lance's Instagram handle (host notes it has since been removed); cross-reference with any retained screenshots in the investigative file.
 
-**C-1304** Mike Mitchell retired from the Washington County Sheriff's Office after 24+ years
+**C-1002** Mike Mitchell retired from the Washington County Sheriff's Office after 24+ years
 
 Claim Timestamp: 00:20:00
 Claim: Per the retirement-celebration post the host shows, Detective Mike Mitchell served Washington County for "over 24 years … starting in the jail back in 1999."
@@ -1041,7 +1039,7 @@ Anchored Artifacts: A-1174.1
 Mentions: N-125
 Investigative Direction: Verify against Washington County personnel records and any prior news coverage of Mitchell's career.
 
-**C-1305** The retirement-celebration post is the only public trace of Mike Mitchell
+**C-1003** The retirement-celebration post is the only public trace of Mike Mitchell
 
 Claim Timestamp: 00:20:25
 Claim: The host says that despite a career of 25 years in the police force she could not find a single trace of Mike Mitchell in old newspapers, and presents the retirement post as the only trace of him she could find.
@@ -1050,7 +1048,7 @@ Mentions: N-125
 Related Nodes: N-10141
 Investigative Direction: Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.
 
-**C-1306** Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source
+**C-969** Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source
 
 Claim Timestamp: 00:08:45
 Claim: The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.
@@ -1059,7 +1057,7 @@ Mentions: N-272, N-40
 Related Nodes: N-10142
 Investigative Direction: Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.
 
-**C-1307** Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By
+**C-1014** Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By
 
 Claim Timestamp: 00:28:00–00:29:30
 Claim: In his Kayleigh McEnany interview, Phil Lyman says the driveway is his aunt's and that he parked his gray CRV there probably 10 minutes before the shooter walked by; McEnany puts his 11:30 a.m. parking and the 11:49 a.m. footage at 19 minutes apart, and the host restates the 19 minutes.
@@ -1068,7 +1066,7 @@ Mentions: N-61, N-129
 Related Nodes: N-10144
 Investigative Direction: Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.
 
-**C-1308** Host Says Lyman's Family Owns Twelve Homes in the Area
+**C-1018** Host Says Lyman's Family Owns Twelve Homes in the Area
 
 Claim Timestamp: 00:29:30–00:30:00
 Claim: In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; the host says his family owns twelve homes right there.
@@ -1077,7 +1075,7 @@ Mentions: N-61, N-129
 Related Nodes: N-10144
 Investigative Direction: Pull county property records for the relevant street and verify ownership chain.
 
-**C-1309** Phil Lyman publicly described "two goth girls" as unfrightened near the shooting scene on Alex Jones
+**C-1022** Phil Lyman publicly described "two goth girls" as unfrightened near the shooting scene on Alex Jones
 
 Claim Timestamp: 00:31:25
 Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, hearing a loud bang, seeing people ducking behind concrete retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
@@ -1086,7 +1084,7 @@ Mentions: N-61, N-93
 Related Nodes: N-10144
 Investigative Direction: Obtain the unedited Alex Jones segment and any witness statements regarding the two individuals described.
 
-**C-1310** Phil Lyman stated on local Utah news that he was backstage with Charlie Kirk before the shooting
+**C-1025** Phil Lyman stated on local Utah news that he was backstage with Charlie Kirk before the shooting
 
 Claim Timestamp: 00:33:40
 Claim: In a local Utah news interview the host plays, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to "meet some of my friends" away from the stage.
@@ -1095,7 +1093,7 @@ Mentions: N-61, N-1
 Related Nodes: N-10144
 Investigative Direction: Obtain the unedited local Utah news segment; compare timeline with the Alex Jones account.
 
-**C-1311** Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a "200 yard kill shot"
+**C-1026** Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a "200 yard kill shot"
 
 Claim Timestamp: 00:34:00–00:35:30
 Claim: In his own Instagram video, Phil Lyman stated he was heading back from Salt Lake to Blanding on the night of the shooting, wanted to swing by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
@@ -1104,7 +1102,7 @@ Mentions: N-61, N-1
 Related Nodes: N-10144
 Investigative Direction: Confirm upload timestamp and metadata on Instagram; obtain the original unedited video if still available.
 
-**C-1312** Shane Lyman publicly retraced the shooter's steps near his grandmother's house
+**C-1046** Shane Lyman publicly retraced the shooter's steps near his grandmother's house
 
 Claim Timestamp: 00:43:15
 Claim: Shane Lyman [Shaner Broderick]'s Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking "pictures in the exact place that the security cameras caught him"; the image showed Converse-brand footprints.
@@ -1113,7 +1111,7 @@ Mentions: N-128
 Related Nodes: N-10144
 Investigative Direction: Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman.
 
-**C-1313** Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals
+**C-1047** Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals
 
 Claim Timestamp: 00:43:55
 Claim: Shane Lyman [Shaner Broderick]'s Instagram post showed side-by-side photos of Shane and three friends on a staircase; the host states she could not find two of the individuals on his friends list.
@@ -1122,7 +1120,7 @@ Mentions: N-128
 Related Nodes: N-10144
 Investigative Direction: Identify the two friends via cross-reference with Shane's social graph or via direct outreach.
 
-**C-1314** Phil Lyman Asked for Nick's Address, Came to His Home and Asked About the Host's Investigation
+**C-1038** Phil Lyman Asked for Nick's Address, Came to His Home and Asked About the Host's Investigation
 
 Claim Timestamp: 00:39:58
 Claim: Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.
@@ -1132,7 +1130,7 @@ Related Nodes: N-10144
 Investigative Direction: Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
-**C-1315** Nick Says Phil Lyman Offered Independent Investigator Ian Carroll a Tour of the Area
+**C-1041** Nick Says Phil Lyman Offered Independent Investigator Ian Carroll a Tour of the Area
 
 Claim Timestamp: 00:41:10
 Claim: Per Nick's account as relayed by the host, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
@@ -1142,7 +1140,7 @@ Related Nodes: N-10144
 Investigative Direction: Confirm via Ian Carroll's own public statements and any travel/timeline records.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
-**C-1316** Nick supplied the black-suit food-court photo to host
+**C-1008** Nick supplied the black-suit food-court photo to host
 
 Claim Timestamp: 00:25:00–00:25:20
 Claim: Host states that Nick sent the food-court photo of a person in a black suit and dark sunglasses with a strap hanging from a bag into the tips box early in the investigation.
@@ -1151,7 +1149,7 @@ Mentions: N-126
 Related Nodes:
 Investigative Direction: Recover the original image and metadata; identify the individual depicted.
 
-**C-1317** Host acknowledges Marzy's keyholing-fragmentation bullet theory as new information
+**C-1059** Host acknowledges Marzy's keyholing-fragmentation bullet theory as new information
 
 Claim Timestamp: 00:49:30
 Claim: Host states she was previously unaware of "keyholing" and acknowledges Marzy's comment about intentionally keyholed rounds for tumbling/fragmentation damage as new to her.
@@ -1160,7 +1158,7 @@ Related Nodes:
 Investigative Direction: Independent forensic review of recovered bullet(s) for keyholing signatures.
 *Note: Host concurrence claim on a viewer-comment artifact.*
 
-**C-1318** Host concurs with Caitlyn Derrian's characterization of her journalism
+**C-1055** Host concurs with Caitlyn Derrian's characterization of her journalism
 
 Claim Timestamp: 00:49:16
 Claim: Host reads Caitlyn Derrian's supportive comment calling her a true model of real journalism and responds, "Yeah. I mean, my insatiable thirst is to figure out what happened that day."
@@ -1169,7 +1167,7 @@ Related Nodes:
 Investigative Direction: N/A – rhetorical/statement of self-positioning, recorded for traceability only.
 *Optional Flag: Claim failed admission test for investigation; inscribed as a concurrence artifact only.*
 
-**C-1319** Host concurs with multiple commenters that the people closest to Charlie are not investigating
+**C-1063** Host concurs with multiple commenters that the people closest to Charlie are not investigating
 
 Claim Timestamp: 00:51:53
 Claim: Host agrees with Kristen Theoret's and Cassie's comments that the people closest to Charlie Kirk are moving on and not asking questions about the shooting, and also reads Kaya's comment ("It's 1963 all over again. They don't like people asking questions.").
@@ -1179,7 +1177,7 @@ Related Nodes:
 Investigative Direction: Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk.
 *Note: Host concurrence claims on viewer-comment artifacts.*
 
-**C-1320** Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators
+**C-1066** Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators
 
 Claim Timestamp: 00:52:44
 Claim: Host concurs with Bitsy's comment about a "stage" narrative; responding to Miranda Allen's comment offering prayers, she says she really believes praying protection over the people trying to discover what happened is significant.
@@ -1191,7 +1189,7 @@ Investigative Direction: N/A – rhetorical/statement of self-positioning.
 
 ---
 
-**C-13822** Host Says Tyler Robinson Is Not Suicidal According to Her Source
+**C-948** Host Says Tyler Robinson Is Not Suicidal According to Her Source
 
 Claim Timestamp: 00:00:14
 
@@ -1202,13 +1200,13 @@ Transcript Snippet: I genuinely&nbsp;&nbsp; wanted to get the information out as
 Anchored Artifacts: A-3280.1
 Mentions: N-3, N-40
 Related Nodes: N-10142
-Contradicts: C-1301
+Contradicts: C-973
 Tags: relevance:core
 Investigative Direction: Compare Washington County Sheriff's Office and court records of the surrender call (the 'suicidal ideations' remark) against the host's source. Ask whether the source can document the family's account.
 
 ---
 
-**C-13823** Host Says a Vetted Source Contacted Her Last Week With Answers to Lingering Questions
+**C-949** Host Says a Vetted Source Contacted Her Last Week With Answers to Lingering Questions
 
 Claim Timestamp: 00:01:09
 
@@ -1224,7 +1222,7 @@ Investigative Direction: The source is unnamed and nothing was shown. Ask the ho
 
 ---
 
-**C-13824** Host Alleges Feds Withheld Dairy Queen Information and Are Watching the Dairy Queen
+**C-950** Host Alleges Feds Withheld Dairy Queen Information and Are Watching the Dairy Queen
 
 Claim Timestamp: 00:01:53
 
@@ -1240,7 +1238,7 @@ Investigative Direction: Ask the host to say what the 'withheld' information is.
 
 ---
 
-**C-13825** Host Says Robinson Has Never Confessed and Is Still Pleading Innocence
+**C-951** Host Says Robinson Has Never Confessed and Is Still Pleading Innocence
 
 Claim Timestamp: 00:02:17
 
@@ -1251,13 +1249,13 @@ Transcript Snippet: First and foremost,&nbsp; Tyler Robinson has never confessed
 Anchored Artifacts: A-3280.1
 Mentions: N-40
 Related Nodes: N-10566, N-10021
-Supports: C-1142
+Supports: C-133
 Tags: relevance:core
 Investigative Direction: Check the charging documents and court filings for any confession or admission. Check Robinson's plea status and any statements by his defense counsel.
 
 ---
 
-**C-13826** Source Says Robinson Was Bewildered by the Idea He Carved the Casings and Does Not Dispute the Gun Is His
+**C-952** Source Says Robinson Was Bewildered by the Idea He Carved the Casings and Does Not Dispute the Gun Is His
 
 Claim Timestamp: 00:02:29
 
@@ -1273,7 +1271,7 @@ Investigative Direction: Compare with the casing engraving evidence in the charg
 
 ---
 
-**C-13827** Source Says Robinson Is Not a Gun Enthusiast and Does Not Hunt Like His Brothers
+**C-953** Source Says Robinson Is Not a Gun Enthusiast and Does Not Hunt Like His Brothers
 
 Claim Timestamp: 00:02:42
 
@@ -1289,7 +1287,7 @@ Investigative Direction: Check hunting and fishing licence records, firearm purc
 
 ---
 
-**C-13828** Source Says the Rifle Is a Custom-Made Family Heirloom Inherited by the Firstborn Son
+**C-954** Source Says the Rifle Is a Custom-Made Family Heirloom Inherited by the Firstborn Son
 
 Claim Timestamp: 00:02:50
 
@@ -1305,7 +1303,7 @@ Investigative Direction: Look for the rifle's make, serial number and ownership 
 
 ---
 
-**C-13829** Source Says the Robinson Family Are Fans of Charlie Kirk and Trump
+**C-955** Source Says the Robinson Family Are Fans of Charlie Kirk and Trump
 
 Claim Timestamp: 00:03:17
 
@@ -1320,7 +1318,7 @@ Investigative Direction: Check Robinson family voter registration, donations and
 
 ---
 
-**C-13830** Source Says Robinson Did Not Author the Federal Text Messages
+**C-957** Source Says Robinson Did Not Author the Federal Text Messages
 
 Claim Timestamp: 00:03:36
 
@@ -1336,7 +1334,7 @@ Investigative Direction: Request the forensic extraction reports for the message
 
 ---
 
-**C-13831** Host Says Robinson Does Not Use the Word Vehicle According to the Source
+**C-958** Host Says Robinson Does Not Use the Word Vehicle According to the Source
 
 Claim Timestamp: 00:03:49
 
@@ -1352,7 +1350,7 @@ Investigative Direction: Review a larger sample of Robinson's recorded and writt
 
 ---
 
-**C-13832** Source Says Robinson's Parents Do Not Believe Their Son Committed the Crime
+**C-960** Source Says Robinson's Parents Do Not Believe Their Son Committed the Crime
 
 Claim Timestamp: 00:04:51
 
@@ -1368,7 +1366,7 @@ Investigative Direction: Look for public statements by the Robinson parents or t
 
 ---
 
-**C-13833** Host Says the Media Story Was That the Father Realized His Son Was Guilty and Phoned a Friend to Persuade Him to Surrender
+**C-961** Host Says the Media Story Was That the Father Realized His Son Was Guilty and Phoned a Friend to Persuade Him to Surrender
 
 Claim Timestamp: 00:05:11
 
@@ -1384,7 +1382,7 @@ Investigative Direction: Trace the original media and official source for the fa
 
 ---
 
-**C-13834** Source Says the Family Friend, a Former Detective, Told the Family Tyler Had Been Identified as the Shooter
+**C-962** Source Says the Family Friend, a Former Detective, Told the Family Tyler Had Been Identified as the Shooter
 
 Claim Timestamp: 00:05:44
 
@@ -1395,13 +1393,13 @@ Transcript Snippet: That quote unquote family friend&nbsp;&nbsp; uh who we learn
 Anchored Artifacts: A-3280.1
 Mentions: N-40
 Related Nodes: N-10022
-Supports: C-1152
+Supports: C-187
 Tags: relevance:core
 Investigative Direction: Identify the retired deputy or detective through court records and the sheriff's office. Compare the call timeline with Brooksby's press-conference account (A-1172.1).
 
 ---
 
-**C-13835** Source Says the Friend Told Tyler to Turn Himself In Peaceably or Face a SWAT Arrest
+**C-963** Source Says the Friend Told Tyler to Turn Himself In Peaceably or Face a SWAT Arrest
 
 Claim Timestamp: 00:06:28
 
@@ -1412,13 +1410,13 @@ Transcript Snippet: Either you turn&nbsp; yourself in and everything is peaceabl
 Anchored Artifacts: A-3280.1
 Mentions: N-40
 Related Nodes: N-10142
-Supports: C-1302
+Supports: C-976
 Tags: relevance:core
 Investigative Direction: Compare with Brooksby's statement that Tyler was 'fearful of a SWAT team hit' (A-1172.3) and with the surrender timeline in the charging documents and sheriff's logs.
 
 ---
 
-**C-13836** Source Says Robinson Was Called Over, Was Bewildered and Disputed Having Murdered Charlie Kirk
+**C-964** Source Says Robinson Was Called Over, Was Bewildered and Disputed Having Murdered Charlie Kirk
 
 Claim Timestamp: 00:06:42
 
@@ -1434,7 +1432,7 @@ Investigative Direction: Look for sworn statements from the family friend, the p
 
 ---
 
-**C-13837** Source Says Robinson Has Never Stepped Foot on the UVU Campus
+**C-965** Source Says Robinson Has Never Stepped Foot on the UVU Campus
 
 Claim Timestamp: 00:06:50
 
@@ -1450,7 +1448,7 @@ Investigative Direction: Check Robinson's phone location history, parking and ID
 
 ---
 
-**C-13838** Host Says Robinson Was Accepted to Utah State University, Not Utah Valley
+**C-966** Host Says Robinson Was Accepted to Utah State University, Not Utah Valley
 
 Claim Timestamp: 00:06:55
 
@@ -1466,7 +1464,7 @@ Investigative Direction: Check university admissions and enrollment records, sub
 
 ---
 
-**C-13839** Host Says Robinson's Familiarity With the UVU Rooftops and Kirk's Seating Position Is Unexplained
+**C-967** Host Says Robinson's Familiarity With the UVU Rooftops and Kirk's Seating Position Is Unexplained
 
 Claim Timestamp: 00:07:16
 
@@ -1482,7 +1480,7 @@ Investigative Direction: Review the prosecution's account of how Robinson access
 
 ---
 
-**C-13840** Source Says Robinson Was Nearby the Campus That Day and Host Wonders if This Explains the Dairy Queen Photo
+**C-968** Source Says Robinson Was Nearby the Campus That Day and Host Wonders if This Explains the Dairy Queen Photo
 
 Claim Timestamp: 00:08:03
 
@@ -1498,7 +1496,7 @@ Investigative Direction: Compare with the Dairy Queen 6:38 photo timestamp recon
 
 ---
 
-**C-13841** Host Says Robinson Went to the Station So He Would Not Risk Being Shot by Police Swarming His Home
+**C-970** Host Says Robinson Went to the Station So He Would Not Risk Being Shot by Police Swarming His Home
 
 Claim Timestamp: 00:08:46
 
@@ -1514,7 +1512,7 @@ Investigative Direction: Compare with Brooksby's press-conference account and th
 
 ---
 
-**C-13842** Brooksby Clip: He Said It Was Not Unusual for the Retired Friend to Call Him
+**C-972** Brooksby Clip: He Said It Was Not Unusual for the Retired Friend to Call Him
 
 Claim Timestamp: 00:09:20
 
@@ -1530,7 +1528,7 @@ Investigative Direction: Obtain the unedited clip and the call logs for the 8:02
 
 ---
 
-**C-13843** Brooksby Clip: Friend Knows the Family Through Religious Association and Was Trying to Get Tyler to Come In
+**C-974** Brooksby Clip: Friend Knows the Family Through Religious Association and Was Trying to Get Tyler to Come In
 
 Claim Timestamp: 00:09:50
 
@@ -1546,7 +1544,7 @@ Investigative Direction: Obtain the unedited press-conference audio to confirm w
 
 ---
 
-**C-13844** Host Says Nick Told Her on Day Two He Worked on Phil Lyman's Gubernatorial Campaign
+**C-1009** Host Says Nick Told Her on Day Two He Worked on Phil Lyman's Gubernatorial Campaign
 
 Claim Timestamp: 00:25:48
 
@@ -1562,7 +1560,7 @@ Investigative Direction: Check Utah campaign finance and staff filings for Lyman
 
 ---
 
-**C-13845** Host Says Nick Cold-Called Her With Phil Lyman on the Phone Around Day Three
+**C-1010** Host Says Nick Cold-Called Her With Phil Lyman on the Phone Around Day Three
 
 Claim Timestamp: 00:26:03
 
@@ -1578,7 +1576,7 @@ Investigative Direction: Obtain phone records or messages showing the call. Ask 
 
 ---
 
-**C-13846** Host Says Tiffany Barker Gave Information but Never Sent Footage Showing She Was There
+**C-1011** Host Says Tiffany Barker Gave Information but Never Sent Footage Showing She Was There
 
 Claim Timestamp: 00:26:58
 
@@ -1594,7 +1592,7 @@ Investigative Direction: Ask Barker to share the original files with metadata. C
 
 ---
 
-**C-13847** Host Says Nick Learned the Black-Suit Food-Court Photo Came From Tiffany Barker's Mother
+**C-1012** Host Says Nick Learned the Black-Suit Food-Court Photo Came From Tiffany Barker's Mother
 
 Claim Timestamp: 00:27:35
 
@@ -1610,7 +1608,7 @@ Investigative Direction: Trace the photo's origin through the earliest social me
 
 ---
 
-**C-13848** Host Says Barker Told Her Phil Lyman Put Her on Good Morning America and Her Sister Ran With Him
+**C-1013** Host Says Barker Told Her Phil Lyman Put Her on Good Morning America and Her Sister Ran With Him
 
 Claim Timestamp: 00:27:57
 
@@ -1621,13 +1619,13 @@ Transcript Snippet: Well, then I told you she&nbsp; told us actually Phil Lyman 
 Anchored Artifacts: 
 Mentions: N-75, N-61
 Related Nodes: N-10060, N-10144
-Supports: C-1245
+Supports: C-669
 Tags: relevance:core
 Investigative Direction: Check Utah election filings for Lyman's 2024 running mate. Ask ABC / Good Morning America how the Barker segment was booked.
 
 ---
 
-**C-13849** Host Says Phil Lyman Was Very Involved in the Immediate Communications About the Shooting
+**C-1015** Host Says Phil Lyman Was Very Involved in the Immediate Communications About the Shooting
 
 Claim Timestamp: 00:28:17
 
@@ -1643,7 +1641,7 @@ Investigative Direction: Ask the host for the source of this. Look for Lyman's p
 
 ---
 
-**C-13850** Host Says the TMZ Footage Shows the Shooter Walking Past the House Twice and Lyman Says He Just Missed Him
+**C-1016** Host Says the TMZ Footage Shows the Shooter Walking Past the House Twice and Lyman Says He Just Missed Him
 
 Claim Timestamp: 00:28:28
 
@@ -1659,7 +1657,7 @@ Investigative Direction: Obtain the TMZ neighborhood-camera footage with its ori
 
 ---
 
-**C-13851** McEnany Clip Puts Lyman's Parking at 11:30 and the Footage at 11:49, While Lyman Says About 10 Minutes
+**C-1017** McEnany Clip Puts Lyman's Parking at 11:30 and the Footage at 11:49, While Lyman Says About 10 Minutes
 
 Claim Timestamp: 00:28:54
 
@@ -1675,7 +1673,7 @@ Investigative Direction: Reconcile the two numbers by timestamping the TMZ foota
 
 ---
 
-**C-13852** Lyman Clip: Driveway Is His Aunt's, and He Returned There With a Friend After the Shooting
+**C-1019** Lyman Clip: Driveway Is His Aunt's, and He Returned There With a Friend After the Shooting
 
 Claim Timestamp: 00:29:38
 
@@ -1691,7 +1689,7 @@ Investigative Direction: Identify the property owner and the date and time of Ly
 
 ---
 
-**C-13853** Lyman Clip: He Got Up at 6:00 to Drive Up and Meet Charlie and Had Not Been to Bed Since
+**C-1020** Lyman Clip: He Got Up at 6:00 to Drive Up and Meet Charlie and Had Not Been to Bed Since
 
 Claim Timestamp: 00:30:09
 
@@ -1707,7 +1705,7 @@ Investigative Direction: Compare with his stated drive from Blanding and with hi
 
 ---
 
-**C-13854** Lyman Clip: Someone Told Him There Was Video of the Shooter Coming Off the Roof and Driving Away With an Individual
+**C-1021** Lyman Clip: Someone Told Him There Was Video of the Shooter Coming Off the Roof and Driving Away With an Individual
 
 Claim Timestamp: 00:31:22
 
@@ -1723,7 +1721,7 @@ Investigative Direction: Ask Lyman who showed or described this video and obtain
 
 ---
 
-**C-13855** Lyman Clip: He Does Not Believe the Recovered .30-06 Was Ever on the Roof
+**C-1023** Lyman Clip: He Does Not Believe the Recovered .30-06 Was Ever on the Roof
 
 Claim Timestamp: 00:31:39
 
@@ -1739,7 +1737,7 @@ Investigative Direction: Compare with the FBI's chain of custody and photographs
 
 ---
 
-**C-13856** Lyman Clip: He Says He Is Not Saying Robinson Was Not on the Roof or Did Not Pull a Trigger
+**C-1024** Lyman Clip: He Says He Is Not Saying Robinson Was Not on the Roof or Did Not Pull a Trigger
 
 Claim Timestamp: 00:31:47
 
@@ -1755,7 +1753,7 @@ Investigative Direction: Obtain the unedited Alex Jones segment. Clarify with Ly
 
 ---
 
-**C-13857** Host Says Combining Lyman's Clips She Is Unclear Where He Was When the Shots Rang Out
+**C-1027** Host Says Combining Lyman's Clips She Is Unclear Where He Was When the Shots Rang Out
 
 Claim Timestamp: 00:34:33
 
@@ -1771,7 +1769,7 @@ Investigative Direction: Place Lyman using event video, photographs and his phon
 
 ---
 
-**C-13858** Host Says She Hopes Lyman Will Send Her Videos and That He May No Longer Want to Help
+**C-1056** Host Says She Hopes Lyman Will Send Her Videos and That He May No Longer Want to Help
 
 Claim Timestamp: 00:49:16
 
@@ -1787,7 +1785,7 @@ Investigative Direction: Ask the host or Lyman's office whether the request was 
 
 ---
 
-**C-13859** Host Says Lyman Inserted Himself Into the Story and Now Claims to Be Under Attack When Asked Basic Questions
+**C-1057** Host Says Lyman Inserted Himself Into the Story and Now Claims to Be Under Attack When Asked Basic Questions
 
 Claim Timestamp: 00:49:16
 
@@ -1799,11 +1797,11 @@ Anchored Artifacts:
 Mentions: N-3, N-61
 Related Nodes: N-10144
 Tags: relevance:core
-Investigative Direction: Look for Lyman's public statements responding to questions about the case, and for the Nick visit described elsewhere (C-1314).
+Investigative Direction: Look for Lyman's public statements responding to questions about the case, and for the Nick visit described elsewhere (C-1038).
 
 ---
 
-**C-13860** Host Says Her Gut Instinct Is That This Was a Military Operation
+**C-1058** Host Says Her Gut Instinct Is That This Was a Military Operation
 
 Claim Timestamp: 00:49:16
 
@@ -1819,7 +1817,7 @@ Investigative Direction: Ask the host which leads she is working on and which fa
 
 ---
 
-**C-13861** Host Says the Mitchell Name in That Area Kept Coming Up for the Air Force
+**C-1060** Host Says the Mitchell Name in That Area Kept Coming Up for the Air Force
 
 Claim Timestamp: 00:50:35
 
@@ -1835,7 +1833,7 @@ Investigative Direction: Check Utah and Washington County Air Force and Hill AFB
 
 ---
 
-**C-13862** Host Says Brooksby Showed Nervous Energy by Volunteering That the Call Was Not Unusual
+**C-1061** Host Says Brooksby Showed Nervous Energy by Volunteering That the Call Was Not Unusual
 
 Claim Timestamp: 00:51:00
 
@@ -1851,7 +1849,7 @@ Investigative Direction: Review the unedited press-conference video and compare 
 
 ---
 
-**C-13863** Host Says Barker Repeatedly Asked Her to Send Viewers to Her Instagram to Explain Why They Went Early
+**C-1062** Host Says Barker Repeatedly Asked Her to Send Viewers to Her Instagram to Explain Why They Went Early
 
 Claim Timestamp: 00:51:20
 
@@ -1867,7 +1865,7 @@ Investigative Direction: Review Barker's Instagram explanation and her timeline 
 
 ---
 
-**C-13864** Host Says Max Blumenthal Published a Bunch of Articles Last Week With More Coming
+**C-1064** Host Says Max Blumenthal Published a Bunch of Articles Last Week With More Coming
 
 Claim Timestamp: 00:52:05
 
@@ -1883,7 +1881,7 @@ Investigative Direction: List Blumenthal's Grayzone articles for the week of Sep
 
 ---
 
-**C-13865** Host Says Those Close to Charlie Could Name the Donors Who Were Pressuring Him
+**C-1065** Host Says Those Close to Charlie Could Name the Donors Who Were Pressuring Him
 
 Claim Timestamp: 00:52:29
 
@@ -1894,13 +1892,13 @@ Transcript Snippet: They could at the&nbsp;&nbsp; very least name the donors, ge
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10047
-Supports: C-10673
+Supports: C-96
 Tags: relevance:core
 Investigative Direction: Compile the donor names reported in Kirk's texts and in reporting about the pressure campaign. Ask TPUSA staff whether they will comment.
 
 ---
 
-**C-13866** Host Says She Called Ian to Say Lyman Is Unlikely to Give Him a Tour Because It Went Sideways With Nick
+**C-1067** Host Says She Called Ian to Say Lyman Is Unlikely to Give Him a Tour Because It Went Sideways With Nick
 
 Claim Timestamp: 00:53:55
 
@@ -1911,13 +1909,13 @@ Transcript Snippet: And I called&nbsp; Ian. I was like, "Hey, Ian, just letting 
 Anchored Artifacts: 
 Mentions: N-3, N-130, N-126, N-61
 Related Nodes: N-10144
-Supports: C-1315
+Supports: C-1041
 Tags: relevance:context
 Investigative Direction: Ask Ian Carroll whether Lyman offered him a tour and whether the host called him. Confirm the identity of 'Ian'.
 
 ---
 
-**C-13867** Host Says the Side Angle Shows the Microphone Still on Kirk Afterward, Not Struck Off
+**C-1068** Host Says the Side Angle Shows the Microphone Still on Kirk Afterward, Not Struck Off
 
 Claim Timestamp: 00:54:27
 
@@ -1933,7 +1931,7 @@ Investigative Direction: Obtain the original UVU event video from multiple angle
 
 ---
 
-**C-13868** Host Says Anything Slung Into Kirk With That Force Would Have Knocked the Microphone Off, and It Did Not
+**C-1069** Host Says Anything Slung Into Kirk With That Force Would Have Knocked the Microphone Off, and It Did Not
 
 Claim Timestamp: 00:54:50
 
@@ -1949,7 +1947,7 @@ Investigative Direction: Ask a weapons or ballistics expert how a microphone wou
 
 ---
 
-**C-13869** Host Says Kirk Being Miked After He Sat Down Has Never Happened to Her at a TPUSA Event
+**C-1070** Host Says Kirk Being Miked After He Sat Down Has Never Happened to Her at a TPUSA Event
 
 Claim Timestamp: 00:55:15
 
@@ -1960,13 +1958,13 @@ Transcript Snippet: I do think it's very weird&nbsp;&nbsp; that he was miked aft
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10987, N-11053
-Supports: C-10675
+Supports: C-98
 Tags: relevance:core
 Investigative Direction: Review the event video of the microphone being placed on Kirk and the sound crew's account. Compare with other TPUSA events.
 
 ---
 
-**C-13870** Host Says Many Things Were Being Done for the First Time That Day and She Plans to Reveal Them
+**C-1071** Host Says Many Things Were Being Done for the First Time That Day and She Plans to Reveal Them
 
 Claim Timestamp: 00:55:37
 
@@ -1982,7 +1980,7 @@ Investigative Direction: Hold the host to specifics: list each 'first time' item
 
 ---
 
-**C-15571** Brooksby Clip: Friend Drove Tyler and His Parents to His Office Within the Hour
+**C-975** Brooksby Clip: Friend Drove Tyler and His Parents to His Office Within the Hour
 
 Claim Timestamp: 00:10:30
 
@@ -1998,7 +1996,7 @@ Investigative Direction: Washington County Sheriff's Office intake records and b
 
 ---
 
-**C-15572** Brooksby Clip: Tyler Knew Capture Was Inevitable Given His Picture and the Gun in the News
+**C-977** Brooksby Clip: Tyler Knew Capture Was Inevitable Given His Picture and the Gun in the News
 
 Claim Timestamp: 00:10:45
 
@@ -2014,7 +2012,7 @@ Investigative Direction: Timing of the FBI's public release of the suspect image
 
 ---
 
-**C-15573** Host Says Brooksby's Suicidal and Fear-of-Being-Shot Accounts Cannot Both Be True
+**C-978** Host Says Brooksby's Suicidal and Fear-of-Being-Shot Accounts Cannot Both Be True
 
 Claim Timestamp: 00:11:20
 
@@ -2025,13 +2023,13 @@ Transcript Snippet: Was he suicidal and wanting to die or was he worried about d
 Anchored Artifacts: A-1172.2, A-1172.3
 Mentions: N-272, N-40, N-3
 Related Nodes: N-10142, N-11012
-Supports: C-1306
+Supports: C-969
 Tags: relevance:core
 Investigative Direction: Compare Brooksby's full press-conference statements with the probable cause affidavit and any later court testimony on Tyler Robinson's state when he surrendered.
 
 ---
 
-**C-15574** Host Says Feds Told Robinson's Parents Their Lives Were at Risk and Convinced Them to Enter Witness Protection
+**C-979** Host Says Feds Told Robinson's Parents Their Lives Were at Risk and Convinced Them to Enter Witness Protection
 
 Claim Timestamp: 00:11:45
 
@@ -2047,7 +2045,7 @@ Investigative Direction: Any statement from the Robinson family or their counsel
 
 ---
 
-**C-15575** Host Says Robinson's Father Had No Idea Tyler Was Gay and Is Learning It Through the Media
+**C-981** Host Says Robinson's Father Had No Idea Tyler Was Gay and Is Learning It Through the Media
 
 Claim Timestamp: 00:12:30
 
@@ -2063,7 +2061,7 @@ Investigative Direction: Statements by the Robinson family or their counsel; the
 
 ---
 
-**C-15576** Host Says Robinson's Parents Thought Lance Was Only His Roommate and Tyler Kept Mentioning a Girl
+**C-982** Host Says Robinson's Parents Thought Lance Was Only His Roommate and Tyler Kept Mentioning a Girl
 
 Claim Timestamp: 00:12:38
 
@@ -2079,7 +2077,7 @@ Investigative Direction: Statements by the Robinson family; the host's opinion t
 
 ---
 
-**C-15577** Host Says Tyler's Instagram Handle Has Been Taken Down and Did Not Carry His Name
+**C-983** Host Says Tyler's Instagram Handle Has Been Taken Down and Did Not Carry His Name
 
 Claim Timestamp: 00:13:20
 
@@ -2095,7 +2093,7 @@ Investigative Direction: Archived captures of Lance Twiggs's Instagram posts and
 
 ---
 
-**C-15578** Host Says She Was Told Tyler Is Highly Intelligent and Had a Perfect High-School GPA
+**C-984** Host Says She Was Told Tyler Is Highly Intelligent and Had a Perfect High-School GPA
 
 Claim Timestamp: 00:13:44
 
@@ -2111,7 +2109,7 @@ Investigative Direction: Washington County School District academic records as r
 
 ---
 
-**C-15579** Host Says the Confession Texts Are Absurd for Someone of Tyler's Intelligence and Were Likely Offered by Feds
+**C-985** Host Says the Confession Texts Are Absurd for Someone of Tyler's Intelligence and Were Likely Offered by Feds
 
 Claim Timestamp: 00:14:00
 
@@ -2122,13 +2120,13 @@ Transcript Snippet: apparently whoever offered those messages, likely feds, didn
 Anchored Artifacts:
 Mentions: N-40
 Related Nodes: N-10077, N-10038
-Supports: C-1224
+Supports: C-571
 Tags: relevance:core
 Investigative Direction: Forensic extraction reports for the Robinson-Twiggs messages produced in discovery (N-10713); the defense's challenge to their provenance.
 
 ---
 
-**C-15580** Host Says the Robinson Family Says the Blurry Stairs Image Is Definitively Not Tyler
+**C-986** Host Says the Robinson Family Says the Blurry Stairs Image Is Definitively Not Tyler
 
 Claim Timestamp: 00:14:15
 
@@ -2144,7 +2142,7 @@ Investigative Direction: Unblurred original surveillance frames from UVU; FBI Sa
 
 ---
 
-**C-15581** Host Says the Stairs Figure Looks Narrower, Taller and Slighter Than Robinson
+**C-987** Host Says the Stairs Figure Looks Narrower, Taller and Slighter Than Robinson
 
 Claim Timestamp: 00:14:32
 
@@ -2160,7 +2158,7 @@ Investigative Direction: Photogrammetric height estimate from the stairwell stil
 
 ---
 
-**C-15582** Host Says the Image Was Intentionally Blurred and the Footage Never Released
+**C-988** Host Says the Image Was Intentionally Blurred and the Footage Never Released
 
 Claim Timestamp: 00:14:55
 
@@ -2171,13 +2169,13 @@ Transcript Snippet: They also never gave us the footage at all because in order 
 Anchored Artifacts: A-3418.1
 Mentions: N-3
 Related Nodes: N-11139
-Supports: C-4881
+Supports: C-353
 Tags: relevance:core
 Investigative Direction: FOIA or court discovery for the native UVU surveillance video behind the FBI stills.
 
 ---
 
-**C-15583** Host Says the Robinson Family Believes Tyler's Apartment Was Staged After His Arrest
+**C-989** Host Says the Robinson Family Believes Tyler's Apartment Was Staged After His Arrest
 
 Claim Timestamp: 00:15:05
 
@@ -2193,7 +2191,7 @@ Investigative Direction: Search-warrant return and evidence photos from the apar
 
 ---
 
-**C-15584** Host Says Lance's Family Told Her They Own the Apartment, Receive Rent and Never Met Tyler
+**C-990** Host Says Lance's Family Told Her They Own the Apartment, Receive Rent and Never Met Tyler
 
 Claim Timestamp: 00:15:12
 
@@ -2204,13 +2202,13 @@ Transcript Snippet: Hey, we own that apartment. They pay rent to us. I've never 
 Anchored Artifacts:
 Mentions: N-54, N-40
 Related Nodes: N-10034
-Supports: C-1170, C-13542
+Supports: C-216, C-226
 Tags: relevance:core
 Investigative Direction: County property records for the St. George unit; lease or rent records.
 
 ---
 
-**C-15585** Host Says Department Insiders Told Her the Raid Was Kept Hush-Hush and Lance Was Cleared Immediately
+**C-991** Host Says Department Insiders Told Her the Raid Was Kept Hush-Hush and Lance Was Cleared Immediately
 
 Claim Timestamp: 00:15:34
 
@@ -2221,13 +2219,13 @@ Transcript Snippet: And I was told by other people in the department that they w
 Anchored Artifacts:
 Mentions: N-54, N-3
 Related Nodes: N-10044, N-10029
-Supports: C-1181
+Supports: C-338
 Tags: relevance:core
 Investigative Direction: Search-warrant filings and police reports for the apartment raid; any official statement on Lance Twiggs's status.
 
 ---
 
-**C-15586** Host Says the Robinson Family Found a Furry Bed Placed in Tyler's Room
+**C-992** Host Says the Robinson Family Found a Furry Bed Placed in Tyler's Room
 
 Claim Timestamp: 00:15:50
 
@@ -2243,7 +2241,7 @@ Investigative Direction: Police evidence photos of the bedroom at the time of th
 
 ---
 
-**C-15587** Host Says the Lance Family and Robinson Family Accounts Match
+**C-993** Host Says the Lance Family and Robinson Family Accounts Match
 
 Claim Timestamp: 00:16:15
 
@@ -2254,13 +2252,13 @@ Transcript Snippet: I will say that it matches. It kind of seems like they're ag
 Anchored Artifacts: A-3280.1
 Mentions: N-54, N-40
 Related Nodes: N-10034
-Supports: C-4867
+Supports: C-335
 Tags: relevance:core
 Investigative Direction: Direct statements from both families; note the Robinson account reaches the host through a third party.
 
 ---
 
-**C-15588** Host Says the Media and Sheriff's Department Went to Unusual Lengths to Protect the Friend's Identity
+**C-994** Host Says the Media and Sheriff's Department Went to Unusual Lengths to Protect the Friend's Identity
 
 Claim Timestamp: 00:16:45
 
@@ -2276,7 +2274,7 @@ Investigative Direction: Court filings naming the retired deputy; media coverage
 
 ---
 
-**C-15589** Brooksby Clip: The Caller Was a Retired Detective Who Worked for Him for Many Years
+**C-995** Brooksby Clip: The Caller Was a Retired Detective Who Worked for Him for Many Years
 
 Claim Timestamp: 00:17:25
 
@@ -2292,7 +2290,7 @@ Investigative Direction: Charging documents and probable cause statement in Stat
 
 ---
 
-**C-15590** Host Says Brooksby Answered That the Friend Had Been Off the Force About Three Years
+**C-997** Host Says Brooksby Answered That the Friend Had Been Off the Force About Three Years
 
 Claim Timestamp: 00:18:30
 
@@ -2308,7 +2306,7 @@ Investigative Direction: Full press-conference Q&A recording to confirm Brooksby
 
 ---
 
-**C-15591** Host Names the Retired Friend as Former Deputy Mike Mitchell and Says Her Team Tried to Reach Him
+**C-998** Host Names the Retired Friend as Former Deputy Mike Mitchell and Says Her Team Tried to Reach Him
 
 Claim Timestamp: 00:18:45
 
@@ -2324,7 +2322,7 @@ Investigative Direction: Washington County Sheriff's Office personnel records; c
 
 ---
 
-**C-15592** Host Says Mitchell Knows Tyler Through the Boy Scouts and the LDS Church
+**C-999** Host Says Mitchell Knows Tyler Through the Boy Scouts and the LDS Church
 
 Claim Timestamp: 00:19:10
 
@@ -2336,11 +2334,11 @@ Anchored Artifacts:
 Mentions: N-125, N-40
 Related Nodes: N-10094, N-10141
 Tags: relevance:core
-Investigative Direction: Local Scouting or ward records; Brooksby's statement that the friend knows the family "through religious association" (C-13843).
+Investigative Direction: Local Scouting or ward records; Brooksby's statement that the friend knows the family "through religious association" (C-974).
 
 ---
 
-**C-15593** Host Says Her Team Confirmed Mitchell Lives Near the Robinsons
+**C-1000** Host Says Her Team Confirmed Mitchell Lives Near the Robinsons
 
 Claim Timestamp: 00:19:25
 
@@ -2356,7 +2354,7 @@ Investigative Direction: Brooksby's description of the friend as a "family frien
 
 ---
 
-**C-15594** Host Says the Retirement Post Shows Mitchell Retired Last January, So Brooksby Lied a Little
+**C-1001** Host Says the Retirement Post Shows Mitchell Retired Last January, So Brooksby Lied a Little
 
 Claim Timestamp: 00:19:40
 
@@ -2372,7 +2370,7 @@ Investigative Direction: Date of the Washington County Sheriff's Office retireme
 
 ---
 
-**C-15595** Host Asks for Tips on Mike Mitchell From People Who Know Him Through Scouts or Church
+**C-1004** Host Asks for Tips on Mike Mitchell From People Who Know Him Through Scouts or Church
 
 Claim Timestamp: 00:20:40
 
@@ -2388,7 +2386,7 @@ Investigative Direction: Tips received at the tips address on Mitchell.
 
 ---
 
-**C-15596** Host Says Her Team Is Four People and Asks That Theories Go to Social Media, Not the Tips Box
+**C-1005** Host Says Her Team Is Four People and Asks That Theories Go to Social Media, Not the Tips Box
 
 Claim Timestamp: 00:20:55
 
@@ -2399,13 +2397,13 @@ Transcript Snippet: we are it's we're very small team. There's literally four of
 Anchored Artifacts: A-3419.1
 Mentions: N-3
 Related Nodes:
-Supports: C-13815
+Supports: C-940
 Tags: relevance:context, dia
 Investigative Direction: Statements from the show's staff on team size.
 
 ---
 
-**C-15597** Host Says She Is the Only Person Publicly Demanding a Further Investigation
+**C-1006** Host Says She Is the Only Person Publicly Demanding a Further Investigation
 
 Claim Timestamp: 00:21:47
 
@@ -2421,7 +2419,7 @@ Investigative Direction: Public statements by Kirk associates and officials call
 
 ---
 
-**C-15598** Host Says Turning Point USA Has Accepted the Narrative and Is Just Keeping His Show Going
+**C-1007** Host Says Turning Point USA Has Accepted the Narrative and Is Just Keeping His Show Going
 
 Claim Timestamp: 00:22:05
 
@@ -2437,7 +2435,7 @@ Investigative Direction: TPUSA public statements on the investigation after Sept
 
 ---
 
-**C-15599** Host Says Lyman's Proximity Is Not Conclusive and May Be a Strange Coincidence
+**C-1028** Host Says Lyman's Proximity Is Not Conclusive and May Be a Strange Coincidence
 
 Claim Timestamp: 00:35:51
 
@@ -2449,11 +2447,11 @@ Anchored Artifacts:
 Mentions: N-61
 Related Nodes: N-10144, N-10146
 Tags: relevance:core
-Investigative Direction: None required; this hedge frames claims C-15600 to C-15621.
+Investigative Direction: None required; this hedge frames claims C-1029 to C-1054.
 
 ---
 
-**C-15600** Host Says Lyman, Tiffany Barker and a Shamway Neighbor Kept Urging Her to Look Into Governor Cox
+**C-1029** Host Says Lyman, Tiffany Barker and a Shamway Neighbor Kept Urging Her to Look Into Governor Cox
 
 Claim Timestamp: 00:36:15
 
@@ -2469,7 +2467,7 @@ Investigative Direction: The host's emails and messages from Barker and the Sham
 
 ---
 
-**C-15601** Host Says Nothing in Her Investigation Has Raised Questions About Governor Cox on That Day
+**C-1030** Host Says Nothing in Her Investigation Has Raised Questions About Governor Cox on That Day
 
 Claim Timestamp: 00:36:50
 
@@ -2485,7 +2483,7 @@ Investigative Direction: Cox's published schedule for September 10, 2025.
 
 ---
 
-**C-15602** Host Says Lyman Is Pushing Cox Because Cox Is His Political Rival
+**C-1031** Host Says Lyman Is Pushing Cox Because Cox Is His Political Rival
 
 Claim Timestamp: 00:37:10
 
@@ -2501,7 +2499,7 @@ Investigative Direction: The 2024 Utah Republican gubernatorial primary between 
 
 ---
 
-**C-15603** Host Says the Witness Who Spotted the Shooter on the Roof and the Hall of Flags Witness Are Military
+**C-1032** Host Says the Witness Who Spotted the Shooter on the Roof and the Hall of Flags Witness Are Military
 
 Claim Timestamp: 00:37:20
 
@@ -2517,7 +2515,7 @@ Investigative Direction: Identities and service records of the rooftop spotter a
 
 ---
 
-**C-15604** Host Says a Paid Live Tip Said the Shooter Was With a Woman and Changed Clothes on Cut Footage
+**C-1033** Host Says a Paid Live Tip Said the Shooter Was With a Woman and Changed Clothes on Cut Footage
 
 Claim Timestamp: 00:37:45
 
@@ -2533,7 +2531,7 @@ Investigative Direction: The live-chat record of the paid message; any neighborh
 
 ---
 
-**C-15605** Host Says the House the Tipster Named Is Owned by a Lyman
+**C-1034** Host Says the House the Tipster Named Is Owned by a Lyman
 
 Claim Timestamp: 00:38:10
 
@@ -2549,7 +2547,7 @@ Investigative Direction: Utah County property records for the named house; wheth
 
 ---
 
-**C-15606** Host Says She Cannot Find Who Phil Lyman's Parents Are
+**C-1035** Host Says She Cannot Find Who Phil Lyman's Parents Are
 
 Claim Timestamp: 00:38:50
 
@@ -2565,7 +2563,7 @@ Investigative Direction: Published obituaries and biographies of the Lyman famil
 
 ---
 
-**C-15607** Host Says Nick Did Not Know Who Lyman's Parents Are, and She Had Shared Nothing With Him
+**C-1036** Host Says Nick Did Not Know Who Lyman's Parents Are, and She Had Shared Nothing With Him
 
 Claim Timestamp: 00:39:10
 
@@ -2581,7 +2579,7 @@ Investigative Direction: Nick's own account.
 
 ---
 
-**C-15608** Host Says Nick, a 20-Year-Old Lyman Super Fan, Called Her Uneasy After Lyman Showed Up at His House
+**C-1037** Host Says Nick, a 20-Year-Old Lyman Super Fan, Called Her Uneasy After Lyman Showed Up at His House
 
 Claim Timestamp: 00:39:40
 
@@ -2597,7 +2595,7 @@ Investigative Direction: Nick's messages from Lyman; Lyman's own account of the 
 
 ---
 
-**C-15609** Host Says She Had Shared Nothing With Nick That Lyman Could Ask About
+**C-1039** Host Says She Had Shared Nothing With Nick That Lyman Could Ask About
 
 Claim Timestamp: 00:40:40
 
@@ -2613,7 +2611,7 @@ Investigative Direction: Host's message history with Nick.
 
 ---
 
-**C-15610** Host Says Ian Carroll Publicized His Utah Trip and Is Not Collaborating With Her
+**C-1040** Host Says Ian Carroll Publicized His Utah Trip and Is Not Collaborating With Her
 
 Claim Timestamp: 00:41:00
 
@@ -2629,7 +2627,7 @@ Investigative Direction: Ian Carroll's public posts announcing his Utah trip.
 
 ---
 
-**C-15611** Nick Says Lyman Told Him He and Tyler Bowyer of TPUSA Have Been Speaking
+**C-1042** Nick Says Lyman Told Him He and Tyler Bowyer of TPUSA Have Been Speaking
 
 Claim Timestamp: 00:41:30
 
@@ -2645,7 +2643,7 @@ Investigative Direction: Communications between Phil Lyman and Tyler Bowyer; Bow
 
 ---
 
-**C-15612** Nick Says Lyman Intimated Cox Would Not Look Good at an Upcoming TPUSA Event at USU
+**C-1043** Nick Says Lyman Intimated Cox Would Not Look Good at an Upcoming TPUSA Event at USU
 
 Claim Timestamp: 00:41:50
 
@@ -2661,7 +2659,7 @@ Investigative Direction: The TPUSA Utah State University event schedule (autumn 
 
 ---
 
-**C-15613** Nick Says Lyman Took a Phone Call Idling in His Driveway and Nick Called the Host Panicking
+**C-1044** Nick Says Lyman Took a Phone Call Idling in His Driveway and Nick Called the Host Panicking
 
 Claim Timestamp: 00:42:09
 
@@ -2677,7 +2675,7 @@ Investigative Direction: Nick's call log with the host; Lyman's own account.
 
 ---
 
-**C-15614** Host Says an Early Tip Said Lyman and His Family Keep Popping Up and Pointed to the Nephew's Route Tour
+**C-1045** Host Says an Early Tip Said Lyman and His Family Keep Popping Up and Pointed to the Nephew's Route Tour
 
 Claim Timestamp: 00:42:45
 
@@ -2693,7 +2691,7 @@ Investigative Direction: The original tips-box message and its date.
 
 ---
 
-**C-15615** Host Says She Asked Nick Whether Lyman Had Sent Him Any Images or Videos
+**C-1048** Host Says She Asked Nick Whether Lyman Had Sent Him Any Images or Videos
 
 Claim Timestamp: 00:44:35
 
@@ -2709,7 +2707,7 @@ Investigative Direction: Any photos or video Lyman took on September 10, 2025, w
 
 ---
 
-**C-15616** Nick Says Lyman Refused to Share His Photos and Asked Whose Side He Was On
+**C-1049** Nick Says Lyman Refused to Share His Photos and Asked Whose Side He Was On
 
 Claim Timestamp: 00:45:05
 
@@ -2725,7 +2723,7 @@ Investigative Direction: Text messages between Lyman and Nick.
 
 ---
 
-**C-15617** Nick Says Lyman Called and Shouted at Him, Saying He Already Gave His Photos to Taylor Hansen
+**C-1050** Nick Says Lyman Called and Shouted at Him, Saying He Already Gave His Photos to Taylor Hansen
 
 Claim Timestamp: 00:45:35
 
@@ -2741,7 +2739,7 @@ Investigative Direction: Identify Taylor Hansen and whether he or she holds Lyma
 
 ---
 
-**C-15618** Host Says She Asked Nick to Withdraw From On-the-Ground Work
+**C-1051** Host Says She Asked Nick to Withdraw From On-the-Ground Work
 
 Claim Timestamp: 00:45:50
 
@@ -2757,7 +2755,7 @@ Investigative Direction: Host's messages to Nick.
 
 ---
 
-**C-15619** Host Says She Asked Lyman and His Nephew to Identify the People in the Photo and Shane Made His Profile Private
+**C-1052** Host Says She Asked Lyman and His Nephew to Identify the People in the Photo and Shane Made His Profile Private
 
 Claim Timestamp: 00:46:25
 
@@ -2773,7 +2771,7 @@ Investigative Direction: Archived captures of Shaner Broderick's Instagram befor
 
 ---
 
-**C-15620** Host Says Phil Lyman Left Her Message Unanswered
+**C-1053** Host Says Phil Lyman Left Her Message Unanswered
 
 Claim Timestamp: 00:46:45
 
@@ -2789,7 +2787,7 @@ Investigative Direction: The host's message to Lyman and its read receipt; the s
 
 ---
 
-**C-15621** Host Asks the Two Friends in the Photos to Come Forward and Says the Nephew Posted That His Uncle Was With Charlie
+**C-1054** Host Asks the Two Friends in the Photos to Come Forward and Says the Nephew Posted That His Uncle Was With Charlie
 
 Claim Timestamp: 00:46:55
 
@@ -2868,7 +2866,7 @@ Confidence: high
 
 - **Source testimony without corroborating artifact**: Several host-relayed claims regarding Tyler Robinson (no confession, bewilderment at casings, family disbelief of guilt, fear-of-being-shot motive, federal warning about witness protection, father's prior unawareness of Tyler's sexuality, never setting foot on UVU campus, being nearby the campus) are presented as coming from a single "vetted source" whose communication is not displayed or played in the episode. These claims should not be promoted beyond this episode without independent corroboration. Not inscribed as claims in the present register, per the artifact-first principle.
 
-- **Nick's account of Phil Lyman visit**: Anchored only to host-relayed source testimony. Flagged at C-1314 and C-1315. Requires independent corroboration (doorbell footage, text logs, written statement from Nick).
+- **Nick's account of Phil Lyman visit**: Anchored only to host-relayed source testimony. Flagged at C-1038 and C-1041. Requires independent corroboration (doorbell footage, text logs, written statement from Nick).
 
 - **Transcript ambiguity – "L0y Center"**: Host refers to the UVU "Losee Center" (the building from which the alleged shot was taken). Name uncertain (likely "Losee Center" per common references; preserved as transcribed).
 

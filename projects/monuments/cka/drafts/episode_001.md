@@ -18,9 +18,8 @@
   - Hole-minted Nodes (reintro-ep001): N-82, N-10026
   - Tip-minted Nodes (reintro-ep001): N-11322
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13446–C-13490
+  - Claim Range: C-1–C-56
   - Artifact Families Introduced: A-1077, A-1078, A-1079, A-1080, A-2514
-  - Claim Range: C-1115-C-1124, C-3719
   - New Nodes Introduced: N-30, N-31, N-32, N-33, N-34, N-35, N-10002, N-10003, N-10004, N-10005, N-10006, N-10007, N-10008, N-10009, N-10010
   - Reused Nodes Appearing: N-1, N-2, N-14, N-27, N-10000, N-3, N-5
 
@@ -31,21 +30,21 @@
 **A-1077.1** Backstage celebration clip of 'Charlie dance' after Kanye West's tweet about Candace.
 Event Timestamp: 2022-05-01
 Video Timestamp: 00:10:29–00:10:44
-*Related: C-1115, C-1116, N-1, N-3, N-27*
+*Related: C-24, C-26, N-1, N-3, N-27*
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Confidence: high
 
 **A-1077.2** Road trip audio/video from North/South Carolina during hurricane-driven 8-hour drive to DC.
 Event Timestamp: 2018
 Video Timestamp: 00:12:44–00:12:56
-*Related: C-1117, N-1, N-3*
+*Related: C-28, N-1, N-3*
 Transcript Snippet: Every single song was sung. We were always me and Charlie were always singing in cars.
 Confidence: medium
 
 **A-1077.3** Video of Charlie Kirk being chased out of a Philadelphia restaurant by Antifa; water and egg thrown.
 Event Timestamp: 2018-2019
 Video Timestamp: 00:16:07–00:16:30
-*Related: C-1118, N-1, N-3*
+*Related: C-37, N-1, N-3*
 Transcript Snippet: The infamous day that we got chased out of a Philadelphia restaurant by Antifa…
 Confidence: high
 
@@ -63,7 +62,7 @@ Confidence: medium
 **A-1078.1** Photo of Charlie Kirk wearing Yeezys given to him by Kanye West.
 Event Timestamp: 2022
 Video Timestamp: 00:11:28–00:11:40
-*Related: C-1115, N-1, N-27*
+*Related: C-24, N-1, N-27*
 Transcript Snippet: He was wearing a pair of Yeezys that Kanye gave him and he looked really cool.
 Confidence: high
 
@@ -81,14 +80,14 @@ Confidence: high
 **A-1079.2** Text chain where Charlie approves of Candace's then-boyfriend George (now husband) after one evening together.
 Event Timestamp: 2018-2019
 Video Timestamp: 00:18:09–00:18:19
-*Related: C-1119, N-1, N-3, N-30*
+*Related: C-42, N-1, N-3, N-30*
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Confidence: high
 
 **A-1079.3** Text chain joking about convincing Erika Frantzve to take the Kirk last name as a 'practical decision'.
 Event Timestamp: 2019-2020
 Video Timestamp: 00:18:31–00:18:51
-*Related: C-1120, N-1, N-3, N-2*
+*Related: C-45, N-1, N-3, N-2*
 Transcript Snippet: Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... "Marry me. It's a logistics thing."
 Confidence: high
 
@@ -99,14 +98,14 @@ Confidence: high
 **A-1080.1** Kanye West's 'Power' played as the touring hype song before stage events and during #MeToo prep montage.
 Event Timestamp: 2018-2022
 Video Timestamp: 00:09:59–00:10:06
-*Related: C-1121, N-1, N-3, N-27, N-10008*
+*Related: C-22, N-1, N-3, N-27, N-10008*
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Confidence: high
 
 **A-1080.2** Host recounts YWLS conference press scrum during concurrent 'him too' / #MeToo controversy.
 Event Timestamp: 2018
 Video Timestamp: 00:14:20–00:14:35
-*Related: C-1123, N-1, N-3, N-14, N-31, N-32, N-35, N-10008*
+*Related: C-34, N-1, N-3, N-14, N-31, N-32, N-35, N-10008*
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Confidence: high
 
@@ -116,7 +115,7 @@ Confidence: high
 
 **A-2514.1** Host anecdote that Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate (verbal reference; no displayed artifact)
 Video Timestamp: 00:08:00–00:08:34
-*Related: C-3719, N-1, N-33, N-34*
+*Related: C-18, N-1, N-33, N-34*
 Transcript Snippet: Don and Eric got him a gift certificate. I think it was for his birthday to a fancy suit place to go get fitted.
 Confidence: medium
 
@@ -133,7 +132,7 @@ Video Timestamp: 00:05:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13455, N-3, N-1*
+*Related: C-12, N-3, N-1*
 
 ---
 
@@ -148,7 +147,7 @@ Video Timestamp: 00:09:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13463, N-3, N-1, N-27*
+*Related: C-21, N-3, N-1, N-27*
 
 ---
 
@@ -163,7 +162,7 @@ Video Timestamp: 00:10:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13464, N-3, N-27, N-10004*
+*Related: C-23, N-3, N-27, N-10004*
 
 ---
 
@@ -174,7 +173,7 @@ Confidence Level: Low
 Node Type: Person
 Subject of memorial tribute; deceased founder of Turning Point USA; central figure across the series.
 
-*Related: A-1077.1, A-1077.2, A-1077.3, A-1077.4, A-1078.1, A-1079.1, A-1079.2, A-1079.3, C-1115, C-1116, C-1117, C-1118, C-1119, C-1120, C-1121, C-1122*
+*Related: A-1077.1, A-1077.2, A-1077.3, A-1077.4, A-1078.1, A-1079.1, A-1079.2, A-1079.3, C-24, C-26, C-28, C-37, C-42, C-45, C-22, C-7*
 
 ---
 
@@ -183,7 +182,7 @@ Subject of memorial tribute; deceased founder of Turning Point USA; central figu
 Node Type: Person
 Host of the series; close personal/professional partner of Charlie Kirk from 2017 onward.
 
-*Related: A-1077.1, A-1077.2, A-1077.3, A-1077.4, A-1079.1, A-1079.2, A-1079.3, C-1115, C-1117, C-1118, C-1119, C-1120, C-1121, C-1122*
+*Related: A-1077.1, A-1077.2, A-1077.3, A-1077.4, A-1079.1, A-1079.2, A-1079.3, C-24, C-28, C-37, C-42, C-45, C-22, C-7*
 
 ---
 
@@ -192,7 +191,7 @@ Host of the series; close personal/professional partner of Charlie Kirk from 201
 Node Type: Person
 Candace Owens' husband; met in the UK; Charlie Kirk approved of him after one evening.
 
-*Related: A-1079.2, C-1119*
+*Related: A-1079.2, C-42*
 Uncertainty: Surname not stated in transcript.
 
 ---
@@ -202,7 +201,7 @@ Uncertainty: Surname not stated in transcript.
 Node Type: Person
 Charlie Kirk's wife; subject of the 'Kirk vs Frantzve' name plan text chain.
 
-*Related: A-1079.3, C-1120*
+*Related: A-1079.3, C-45*
 
 ---
 
@@ -211,7 +210,7 @@ Charlie Kirk's wife; subject of the 'Kirk vs Frantzve' name plan text chain.
 Node Type: Person
 Conservative radio host referenced as Charlie Kirk's admired figure and aspirational model for a national show.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1077.1, A-1078.1, A-1080.1, C-24*
 
 
 
@@ -222,7 +221,7 @@ Conservative radio host referenced as Charlie Kirk's admired figure and aspirati
 Node Type: Person
 Joined an early TPUSA event with Candace and Charlie when the original headliner dropped out.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1077.1, A-1078.1, A-1080.1, C-24*
 
 
 
@@ -233,7 +232,7 @@ Joined an early TPUSA event with Candace and Charlie when the original headliner
 Node Type: Person
 Mentioned as having pressed Charlie to buy better-fitting suits along with Eric Trump.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1077.1, A-1078.1, A-1080.1, C-24*
 
 
 
@@ -244,7 +243,7 @@ Mentioned as having pressed Charlie to buy better-fitting suits along with Eric 
 Node Type: Person
 Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
 
-*Related: A-2514.1, C-3719*
+*Related: A-2514.1, C-18*
 
 
 
@@ -255,7 +254,7 @@ Co-gifted Charlie Kirk a suit-fitting gift certificate with Don Jr.
 Node Type: Person
 Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source of 'Power' hype song.
 
-*Related: A-1077.1, A-1078.1, A-1080.1, C-1115, C-1121, C-1116*
+*Related: A-1077.1, A-1078.1, A-1080.1, C-24, C-22, C-26*
 
 ---
 
@@ -264,7 +263,7 @@ Tweeted 'I love the way Candace Owens thinks'; gave Charlie Kirk Yeezys; source 
 Node Type: Person
 Turning Point figure who stood with Charlie Kirk during the 'him too' press incident.
 
-*Related: A-1080.2, C-1123, A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1080.2, C-34, A-1077.1, A-1078.1, A-1080.1, C-24*
 
 
 
@@ -275,7 +274,7 @@ Turning Point figure who stood with Charlie Kirk during the 'him too' press inci
 Node Type: Person
 Charlie's assistant at Turning Point during the #MeToo press moment.
 
-*Related: A-1080.2, C-1123, A-1077.1, A-1078.1, A-1080.1, C-1115*
+*Related: A-1080.2, C-34, A-1077.1, A-1078.1, A-1080.1, C-24*
 Uncertainty: Last name not given in transcript.
 
 
@@ -298,7 +297,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Host asserts the personal/professional friendship with Charlie Kirk was never broken despite public pressure (Blexit, Israel, Kanye).
 
-*Related: A-1077.1, A-1077.2, A-1077.3, A-1079.2, A-1079.3, C-1119, C-1120*
+*Related: A-1077.1, A-1077.2, A-1077.3, A-1079.2, A-1079.3, C-42, C-45*
 
 ---
 
@@ -308,7 +307,7 @@ Node Type: Topic
 Topic Kind: event
 Kanye West's public tweet praising Candace Owens; celebrated by Charlie and Candace as 'manifested' via repeated listening to 'Power.'
 
-*Related: A-1077.1, A-1080.1, C-1115, C-1121, C-1116*
+*Related: A-1077.1, A-1080.1, C-24, C-22, C-26*
 
 ---
 
@@ -328,7 +327,7 @@ Node Type: Organization
 Organization Kind: advocacy_organization
 Founded by Charlie Kirk; current 501(c)(3); described as the biggest conservative student organization in the world per host.
 
-*Related: C-1122*
+*Related: C-7*
 
 ---
 
@@ -338,7 +337,7 @@ Node Type: Organization
 Organization Kind: media_outlet
 Charlie's rule was 'never say no to Fox News'; described as 4 hits/day including 4am Fox and Friends First.
 
-*Related: C-1124*
+*Related: C-9*
 
 ---
 
@@ -348,7 +347,7 @@ Node Type: Organization
 Organization Kind: political_party
 Charlie Kirk at age 23 told Candace he planned to take control of the RNC.
 
-*Related: C-1122*
+*Related: C-7*
 
 ---
 
@@ -358,7 +357,7 @@ Node Type: Organization
 Organization Kind: conference
 Conference concurrent with the 'him too' / #MeToo press incident; reporters swooped in on Candace's statements.
 
-*Related: C-1123, C-1124, A-1080.2*
+*Related: C-34, C-9, A-1080.2*
 Uncertainty: Acronym not expanded in transcript.
 
 ---
@@ -369,7 +368,7 @@ Node Type: Place
 Place Kind: city
 Site of Antifa incident at a restaurant where Charlie and Candace were chased out.
 
-*Related: A-1077.3, C-1118*
+*Related: A-1077.3, C-37*
 
 ---
 
@@ -379,7 +378,7 @@ Node Type: Place
 Place Kind: venue
 Site of first planning session between Charlie and Candace at Macaroni Grill restaurant.
 
-*Related: C-1122*
+*Related: C-7*
 
 ---
 
@@ -387,7 +386,7 @@ Site of first planning session between Charlie and Candace at Macaroni Grill res
 
 Named by the host as the caller about Brigitte Macron for whom Charlie Kirk was the intermediary.
 
-*Related: C-13483*
+*Related: C-49*
 
 ---
 
@@ -395,7 +394,7 @@ Named by the host as the caller about Brigitte Macron for whom Charlie Kirk was 
 
 The subject of the call the host says Trump made through Charlie Kirk.
 
-*Related: C-13483*
+*Related: C-49*
 
 ---
 
@@ -403,7 +402,7 @@ The subject of the call the host says Trump made through Charlie Kirk.
 
 The host says she and Charlie travelled there, and that her position on Israel did not end their friendship.
 
-*Related: C-13467, C-13485, C-13486*
+*Related: C-29, C-51, C-52*
 
 ---
 
@@ -411,7 +410,7 @@ The host says she and Charlie travelled there, and that her position on Israel d
 
 The movement the host says she started with Charlie by her side.
 
-*Related: C-13476*
+*Related: C-40*
 
 ---
 
@@ -419,7 +418,7 @@ The movement the host says she started with Charlie by her side.
 
 Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.
 
-*Related: C-13468*
+*Related: C-30*
 
 ---
 
@@ -428,7 +427,7 @@ Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 
 Node Type: Topic
 The host says young women at Turning Point threatened to quit, and some quit, over her 2018 Me Too comments.
 
-*Related: C-13470, C-13471*
+*Related: C-32, C-33*
 
 ---
 
@@ -437,13 +436,13 @@ The host says young women at Turning Point threatened to quit, and some quit, ov
 Node Type: Topic
 The host says Charlie Kirk was the intermediary when Trump called her about Brigitte Macron, and that Trump-world used Charlie as the channel for calls to her.
 
-*Related: C-13483, C-13484*
+*Related: C-49, C-50*
 
 ---
 
 ## 5. Claim Register
 
-**C-1115** Kanye tweet about Candace was celebrated backstage
+**C-24** Kanye tweet about Candace was celebrated backstage
 
 Claim Timestamp: 00:10:29
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
@@ -457,7 +456,7 @@ Investigative Direction: Verify the exact date of the Kanye tweet and cross-refe
 Tags: open_source_investigation
 ---
 
-**C-1116** Charlie's relationship with Kanye included gift of Yeezys
+**C-26** Charlie's relationship with Kanye included gift of Yeezys
 
 Claim Timestamp: 00:11:28
 Claim: The host says Kanye West gave Charlie Kirk a pair of Yeezys and shows a photo of Charlie wearing them.
@@ -471,7 +470,7 @@ Investigative Direction: Verify the Yeezys gift claim against Kanye West's publi
 
 ---
 
-**C-1117** Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane
+**C-28** Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane
 
 Claim Timestamp: 00:12:40
 Claim: The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina.
@@ -484,7 +483,7 @@ Investigative Direction: Cross-reference hurricane event dates in NC/SC to narro
 Tags: open_source_investigation
 ---
 
-**C-1123** YWLS conference reporters pressed Candace during 'him too' controversy
+**C-34** YWLS conference reporters pressed Candace during 'him too' controversy
 
 Claim Timestamp: 00:14:20
 Claim: The host says that while the YWLS conference ran at the same time as the 'him too' backlash, reporters who already hated them swooped in asking whether Charlie supported her statements, and that, with her standing behind Charlie and Andrew Kolvet, Charlie held the line.
@@ -498,7 +497,7 @@ Investigative Direction: Identify YWLS conference date/location and contemporane
 Tags: open_source_investigation
 ---
 
-**C-1124** Charlie's 'never say no to Fox News' media rule
+**C-9** Charlie's 'never say no to Fox News' media rule
 
 Claim Timestamp: 00:03:29
 Claim: The host says Charlie Kirk's rule was never to say no to Fox News, and that they did as many as four Fox hits a day, up at 4:00 a.m. for 'Fox and Friends First.'
@@ -512,7 +511,7 @@ Investigative Direction: Corroborate via TPUSA staff schedules or published Fox 
 Tags: open_source_investigation
 ---
 
-**C-1118** Charlie was egged by Antifa at a Philadelphia restaurant
+**C-37** Charlie was egged by Antifa at a Philadelphia restaurant
 
 Claim Timestamp: 00:15:20
 Claim: The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment.
@@ -525,7 +524,7 @@ Investigative Direction: Identify the restaurant and date via news reports of th
 
 ---
 
-**C-1119** Charlie Approved of George After One Evening
+**C-42** Charlie Approved of George After One Evening
 
 Claim Timestamp: 00:17:28
 Claim: After a single evening with George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
@@ -538,7 +537,7 @@ Investigative Direction: Verify the UK trip date and the text chain contents aga
 
 ---
 
-**C-1120** Candace joked Erika should marry Charlie for the last name upgrade
+**C-45** Candace joked Erika should marry Charlie for the last name upgrade
 
 Claim Timestamp: 00:18:31
 Claim: The host says she joked that Erika Frantzve should marry Charlie Kirk because 'Mrs. Erika Kirk' sounds better than 'Frantzve,' and a shown text exchange between Charlie and Candace says her last name is 'dumb' and 'Marry me. It's a logistics thing.'
@@ -551,7 +550,7 @@ Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzv
 
 ---
 
-**C-1121** Host Says Kanye's Power Was the TPUSA Tour Hype Song
+**C-22** Host Says Kanye's Power Was the TPUSA Tour Hype Song
 
 Claim Timestamp: 00:09:59
 Claim: The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before they went on stage.
@@ -564,7 +563,7 @@ Investigative Direction: Verify through other tour-event footage whether 'Power'
 
 ---
 
-**C-1122** Charlie intended to take over the RNC at age 23
+**C-7** Charlie intended to take over the RNC at age 23
 
 Claim Timestamp: 00:03:02
 Claim: At age 23, Charlie Kirk told Candace Owens during a Macaroni Grill planning session that he planned to take over the RNC.
@@ -579,7 +578,7 @@ Investigative Direction: Cross-reference any other contemporaneous accounts of t
 Tags: open_source_investigation
 ---
 
-**C-3719** Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate
+**C-18** Don Jr. and Eric Trump gave Charlie Kirk a suit-fitting gift certificate
 
 Claim Timestamp: 00:08:10
 Claim: The host recounts that Don Jr., and she thinks Eric Trump, teased Charlie Kirk about his ill-fitting suits and eventually gave him a gift certificate, she believes for his birthday, to a fancy suit place to get fitted.
@@ -591,7 +590,7 @@ Investigative Direction: Corroborate the gift anecdote with any public statement
 
 ---
 
-**C-13446** Host Says 150,000 Watched and the Stream Crashed
+**C-1** Host Says 150,000 Watched and the Stream Crashed
 
 Claim Timestamp: 00:00:06
 
@@ -606,7 +605,7 @@ Investigative Direction: Platform viewership or outage records for the broadcast
 
 ---
 
-**C-13447** Host Says She Did Not Want the Moment of His Death to Be the Last Image of Charlie
+**C-2** Host Says She Did Not Want the Moment of His Death to Be the Last Image of Charlie
 
 Claim Timestamp: 00:00:20
 
@@ -622,7 +621,7 @@ Investigative Direction: The host's own statement of purpose; compare with the f
 
 ---
 
-**C-13448** Host Says She Met Charlie in 2017 When TPUSA Was Very Young
+**C-3** Host Says She Met Charlie in 2017 When TPUSA Was Very Young
 
 Claim Timestamp: 00:01:18
 
@@ -638,7 +637,7 @@ Investigative Direction: Dated public records of her first appearances with TPUS
 
 ---
 
-**C-13449** Host Says Charlie Hired Her on the Spot at a Florida Conference
+**C-4** Host Says Charlie Hired Her on the Spot at a Florida Conference
 
 Claim Timestamp: 00:01:42
 
@@ -654,7 +653,7 @@ Investigative Direction: Identify the Florida conference and the date of her TPU
 
 ---
 
-**C-13450** Host Says Their First Planning Session Was at the Chicago O'Hare Macaroni Grill
+**C-5** Host Says Their First Planning Session Was at the Chicago O'Hare Macaroni Grill
 
 Claim Timestamp: 00:02:06
 
@@ -665,13 +664,13 @@ Transcript Snippet: He flips over this little paper menu as we're waiting for ou
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10010, N-10000
-Supports: C-1122
+Supports: C-7
 Tags: relevance:tangential
 Investigative Direction: Travel records of that first trip would place both at O'Hare; the menu itself is not shown.
 
 ---
 
-**C-13451** Host Says Charlie Wrote That TPUSA Was a 501(c)(3) at the Time
+**C-6** Host Says Charlie Wrote That TPUSA Was a 501(c)(3) at the Time
 
 Claim Timestamp: 00:02:42
 
@@ -687,7 +686,7 @@ Investigative Direction: IRS filings for Turning Point USA would show its tax st
 
 ---
 
-**C-13452** Host Says Charlie Adored Rush Limbaugh and Wanted a Show Like His
+**C-8** Host Says Charlie Adored Rush Limbaugh and Wanted a Show Like His
 
 Claim Timestamp: 00:03:13
 
@@ -702,7 +701,7 @@ Investigative Direction: Charlie's earlier interviews on Limbaugh would corrobor
 
 ---
 
-**C-13453** Host Says Her Rule Was That the Team Should Not Drink
+**C-10** Host Says Her Rule Was That the Team Should Not Drink
 
 Claim Timestamp: 00:03:54
 
@@ -717,7 +716,7 @@ Investigative Direction: Former TPUSA staff could confirm whether the no-drinkin
 
 ---
 
-**C-13454** Host Says Charlie's Motto Was They Could Always Outwork Their Opponents
+**C-11** Host Says Charlie's Motto Was They Could Always Outwork Their Opponents
 
 Claim Timestamp: 00:04:07
 
@@ -732,7 +731,7 @@ Investigative Direction: Public Charlie Kirk speeches using the phrase would cor
 
 ---
 
-**C-13455** Host Says She Told Charlie Her Goal Was 50,000 Instagram Followers
+**C-12** Host Says She Told Charlie Her Goal Was 50,000 Instagram Followers
 
 Claim Timestamp: 00:05:18
 
@@ -747,7 +746,7 @@ Investigative Direction: The text itself, with its date, would confirm the follo
 
 ---
 
-**C-13456** Host Says Charlie Was Already Running a California Campus Tour When He Hired Her
+**C-13** Host Says Charlie Was Already Running a California Campus Tour When He Hired Her
 
 Claim Timestamp: 00:05:29
 
@@ -763,7 +762,7 @@ Investigative Direction: Campus event calendars for UCLA, Stanford and Berkeley 
 
 ---
 
-**C-13457** Host Says a Bigger Name Messaged That They Would Not Share the Stage With the New Girl
+**C-14** Host Says a Bigger Name Messaged That They Would Not Share the Stage With the New Girl
 
 Claim Timestamp: 00:06:07
 
@@ -778,7 +777,7 @@ Investigative Direction: The headliner is unnamed; the host or the original tick
 
 ---
 
-**C-13458** Host Says Charlie Chose to Do the Event Without the Headliner Rather Than Drop Her
+**C-15** Host Says Charlie Chose to Do the Event Without the Headliner Rather Than Drop Her
 
 Claim Timestamp: 00:07:00
 
@@ -793,7 +792,7 @@ Investigative Direction: Event records from the California tour would show who s
 
 ---
 
-**C-13459** Host Says Dave Rubin Joined That Event
+**C-16** Host Says Dave Rubin Joined That Event
 
 Claim Timestamp: 00:07:12
 
@@ -808,7 +807,7 @@ Investigative Direction: Event programs or press from the early California tour 
 
 ---
 
-**C-13460** Host Says She and Charlie Flew Around the World for Two Years on Hundreds of Flights
+**C-17** Host Says She and Charlie Flew Around the World for Two Years on Hundreds of Flights
 
 Claim Timestamp: 00:07:16
 
@@ -823,7 +822,7 @@ Investigative Direction: Airline itineraries or TPUSA travel expense records for
 
 ---
 
-**C-13461** Host Says Charlie Was Frugal and Aware His Salary Came From Donors
+**C-19** Host Says Charlie Was Frugal and Aware His Salary Came From Donors
 
 Claim Timestamp: 00:08:15
 
@@ -833,13 +832,13 @@ Transcript Snippet: they're like, you know, Charlie, I know you're very frugal. 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-33, N-34
-Supports: C-3719
+Supports: C-18
 Tags: relevance:context
 Investigative Direction: Charlie Kirk's reported TPUSA compensation in public filings would test the frugality account.
 
 ---
 
-**C-13462** Host Says Charlie Took Up Running 10 Miles a Day After Getting Into Kanye
+**C-20** Host Says Charlie Took Up Running 10 Miles a Day After Getting Into Kanye
 
 Claim Timestamp: 00:09:44
 
@@ -854,7 +853,7 @@ Investigative Direction: Charlie's running habit is attested elsewhere; the host
 
 ---
 
-**C-13463** Host Says Charlie Texted That Power Was His New Favorite Song
+**C-21** Host Says Charlie Texted That Power Was His New Favorite Song
 
 Claim Timestamp: 00:09:52
 
@@ -865,13 +864,13 @@ Transcript Snippet: He's like, "Yes, it's my new f it's my new favorite song." A
 Anchored Artifacts: A-3265.1
 Mentions: N-3, N-1, N-27
 Related Nodes: N-10004
-Supports: C-1121
+Supports: C-22
 Tags: relevance:tangential
 Investigative Direction: The text itself would confirm Charlie's wording and date.
 
 ---
 
-**C-13464** Host Says Kanye Tweeted That He Loved the Way Candace Owens Thinks
+**C-23** Host Says Kanye Tweeted That He Loved the Way Candace Owens Thinks
 
 Claim Timestamp: 00:10:16
 
@@ -882,13 +881,13 @@ Transcript Snippet: Suddenly, Kanye West tweets, "I love the way Candace Owens t
 Anchored Artifacts: A-3266.1
 Mentions: N-3, N-1, N-27
 Related Nodes: N-10004
-Supports: C-1115
+Supports: C-24
 Tags: relevance:context
 Investigative Direction: Kanye West's archived tweets would date the post; the draft's Event Timestamp for the backstage clip says May 2022.
 
 ---
 
-**C-13465** Host Says Charlie Repeatedly Texted Her Photos Asking Whether He Looked Cool
+**C-25** Host Says Charlie Repeatedly Texted Her Photos Asking Whether He Looked Cool
 
 Claim Timestamp: 00:11:01
 
@@ -903,7 +902,7 @@ Investigative Direction: The screen recording shown would confirm the exchange.
 
 ---
 
-**C-13466** Host Says Charlie Drilled Her on Debates by Playing a Protester
+**C-27** Host Says Charlie Drilled Her on Debates by Playing a Protester
 
 Claim Timestamp: 00:11:40
 
@@ -918,7 +917,7 @@ Investigative Direction: Second-hand accounts from TPUSA staff of their debate p
 
 ---
 
-**C-13467** Host Says They Travelled to All 50 States, Canada, the UK and Israel
+**C-29** Host Says They Travelled to All 50 States, Canada, the UK and Israel
 
 Claim Timestamp: 00:13:27
 
@@ -934,7 +933,7 @@ Investigative Direction: Dated event listings for Charlie Kirk and Candace Owens
 
 ---
 
-**C-13468** Host Says They Printed a Justice for Brett Kavanaugh T-Shirt
+**C-30** Host Says They Printed a Justice for Brett Kavanaugh T-Shirt
 
 Claim Timestamp: 00:13:32
 
@@ -949,7 +948,7 @@ Investigative Direction: Contemporary TPUSA merchandise listings or photos would
 
 ---
 
-**C-13469** Host Says She Immediately Called the Me Too Movement Awful
+**C-31** Host Says She Immediately Called the Me Too Movement Awful
 
 Claim Timestamp: 00:13:49
 
@@ -965,7 +964,7 @@ Investigative Direction: Her 2017 to 2018 posts and interviews on Me Too would d
 
 ---
 
-**C-13470** Host Says Young Women at TPUSA Threatened to Quit Over Her Statements
+**C-32** Host Says Young Women at TPUSA Threatened to Quit Over Her Statements
 
 Claim Timestamp: 00:14:09
 
@@ -981,7 +980,7 @@ Investigative Direction: TPUSA staff from 2018 could confirm the reaction in the
 
 ---
 
-**C-13471** Host Says Some of the Young Women Did Quit
+**C-33** Host Says Some of the Young Women Did Quit
 
 Claim Timestamp: 00:14:16
 
@@ -997,7 +996,7 @@ Investigative Direction: Departures from TPUSA in 2018 would identify the staff 
 
 ---
 
-**C-13472** Host Says People Demanded Charlie Fire Her and He Refused
+**C-35** Host Says People Demanded Charlie Fire Her and He Refused
 
 Claim Timestamp: 00:14:41
 
@@ -1007,13 +1006,13 @@ Transcript Snippet: People, you've got to fire her. How could she say this? And 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Supports: C-1123
+Supports: C-34
 Tags: relevance:context
 Investigative Direction: Press coverage of calls for her dismissal in 2018 and any TPUSA statement would test the account.
 
 ---
 
-**C-13473** Host Says She, Charlie and Sarah Played Kanye as Hype Music Before the Event
+**C-36** Host Says She, Charlie and Sarah Played Kanye as Hype Music Before the Event
 
 Claim Timestamp: 00:15:12
 
@@ -1024,13 +1023,13 @@ Transcript Snippet: Just literally me, Charlie, and uh Sarah, who was his assist
 Anchored Artifacts: A-1080.1
 Mentions: N-3, N-1, N-35, N-27
 Related Nodes: N-10008
-Supports: C-1121
+Supports: C-22
 Tags: relevance:tangential
 Investigative Direction: The clip shown would date the prep session; Sarah's surname is not given.
 
 ---
 
-**C-13474** Host Says Antifa Assembled Quickly After Learning Which Restaurant They Were At
+**C-38** Host Says Antifa Assembled Quickly After Learning Which Restaurant They Were At
 
 Claim Timestamp: 00:15:41
 
@@ -1041,13 +1040,13 @@ Transcript Snippet: We were just amazed at how quickly they had assembled once t
 Anchored Artifacts: A-1077.3
 Mentions: N-3, N-1
 Related Nodes: N-10009
-Supports: C-1118
+Supports: C-37
 Tags: relevance:context
 Investigative Direction: News reports and restaurant staff accounts of the Philadelphia incident would test how the crowd learned the location.
 
 ---
 
-**C-13475** Clip Shows the Host and Charlie Bantering With a Protester Over a Sign
+**C-39** Clip Shows the Host and Charlie Bantering With a Protester Over a Sign
 
 Claim Timestamp: 00:16:34
 
@@ -1062,7 +1061,7 @@ Investigative Direction: The host says she does not know which campus event it i
 
 ---
 
-**C-13476** Host Says Charlie Was by Her Side When She Started Blexit
+**C-40** Host Says Charlie Was by Her Side When She Started Blexit
 
 Claim Timestamp: 00:17:03
 
@@ -1078,7 +1077,7 @@ Investigative Direction: Blexit launch coverage from 2018 would show whether and
 
 ---
 
-**C-13477** Host Says Charlie Was There the Night She Met Her Husband in the UK
+**C-41** Host Says Charlie Was There the Night She Met Her Husband in the UK
 
 Claim Timestamp: 00:17:10
 
@@ -1088,13 +1087,13 @@ Transcript Snippet: Um he was also there the night that I met my husband which w
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-30
-Supports: C-1119
+Supports: C-42
 Tags: relevance:tangential
 Investigative Direction: Event records for a Charlie Kirk and Candace Owens UK appearance would date the evening.
 
 ---
 
-**C-13478** Host Says Charlie Asked Whether Marrying George Would Be Good for Her Brand
+**C-43** Host Says Charlie Asked Whether Marrying George Would Be Good for Her Brand
 
 Claim Timestamp: 00:17:28
 
@@ -1109,7 +1108,7 @@ Investigative Direction: The corresponding text exchange would show his wording.
 
 ---
 
-**C-13479** Host Says Charlie Was by Her Side the Day She Married George
+**C-44** Host Says Charlie Was by Her Side the Day She Married George
 
 Claim Timestamp: 00:17:54
 
@@ -1124,7 +1123,7 @@ Investigative Direction: Wedding photos or guest lists would confirm Charlie Kir
 
 ---
 
-**C-13480** Host Says Charlie Texted That He and Erika Would Be the Power Couple of the Century
+**C-46** Host Says Charlie Texted That He and Erika Would Be the Power Couple of the Century
 
 Claim Timestamp: 00:18:42
 
@@ -1134,13 +1133,13 @@ Transcript Snippet: "It's going to be the power couple of the century. I need to
 
 Anchored Artifacts: A-1079.3
 Mentions: N-3, N-1, N-2
-Supports: C-1120
+Supports: C-45
 Tags: relevance:context
 Investigative Direction: The text chain itself, with dates, would show when Charlie wrote it relative to the Kirk and Frantzve wedding.
 
 ---
 
-**C-13481** Host Says Charlie Really Loved Erika From the Texts She Reread
+**C-47** Host Says Charlie Really Loved Erika From the Texts She Reread
 
 Claim Timestamp: 00:19:12
 
@@ -1155,7 +1154,7 @@ Investigative Direction: The texts themselves would show how Charlie wrote about
 
 ---
 
-**C-13482** Host Says She and Charlie Never Stopped Being Friends
+**C-48** Host Says She and Charlie Never Stopped Being Friends
 
 Claim Timestamp: 00:19:26
 
@@ -1171,7 +1170,7 @@ Investigative Direction: Later episodes' texts and accounts of the 2023 to 2025 
 
 ---
 
-**C-13483** Host Says Charlie Was the Intermediary When Trump Called About Brigitte
+**C-49** Host Says Charlie Was the Intermediary When Trump Called About Brigitte
 
 Claim Timestamp: 00:19:57
 
@@ -1187,7 +1186,7 @@ Investigative Direction: The host's phone logs and messages with Charlie around 
 
 ---
 
-**C-13484** Host Says They Would Never Send Anyone Else to Call Her Because Charlie Was Like a Brother
+**C-50** Host Says They Would Never Send Anyone Else to Call Her Because Charlie Was Like a Brother
 
 Claim Timestamp: 00:20:05
 
@@ -1203,7 +1202,7 @@ Investigative Direction: Her call records and the identities of those who used C
 
 ---
 
-**C-13485** Host Says People Wrongly Thought Her Israel Position Ended Her Friendship With Charlie
+**C-51** Host Says People Wrongly Thought Her Israel Position Ended Her Friendship With Charlie
 
 Claim Timestamp: 00:20:13
 
@@ -1219,7 +1218,7 @@ Investigative Direction: Public commentary on the Owens and Kirk split and later
 
 ---
 
-**C-13486** Host Says She Told Charlie There Was No Room for Movement on Israel
+**C-52** Host Says She Told Charlie There Was No Room for Movement on Israel
 
 Claim Timestamp: 00:20:33
 
@@ -1235,7 +1234,7 @@ Investigative Direction: Who asked Charlie to relay her position, and when, is t
 
 ---
 
-**C-13487** Host Says Charlie Was Going Through a Spiritual Transformation
+**C-53** Host Says Charlie Was Going Through a Spiritual Transformation
 
 Claim Timestamp: 00:21:05
 
@@ -1251,7 +1250,7 @@ Investigative Direction: The host does not say what the transformation was; her 
 
 ---
 
-**C-13488** Host Says Charlie Was Under a Lot of Pressure From People Now Speaking About Him
+**C-54** Host Says Charlie Was Under a Lot of Pressure From People Now Speaking About Him
 
 Claim Timestamp: 00:21:20
 
@@ -1267,7 +1266,7 @@ Investigative Direction: The host does not name those pressuring him here; later
 
 ---
 
-**C-13489** Host Says Those Pressuring Charlie Would Have Let Him Lose Everything Over Modifying an Opinion
+**C-55** Host Says Those Pressuring Charlie Would Have Let Him Lose Everything Over Modifying an Opinion
 
 Claim Timestamp: 00:21:37
 
@@ -1283,7 +1282,7 @@ Investigative Direction: Identify which opinion and which donors or allies are m
 
 ---
 
-**C-13490** Host Says She Has Seen the Footage of the Shooting and Will Never Unsee It
+**C-56** Host Says She Has Seen the Footage of the Shooting and Will Never Unsee It
 
 Claim Timestamp: 00:22:00
 

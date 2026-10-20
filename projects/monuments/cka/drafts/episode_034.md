@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-707, N-11006, N-11007
   - Hole-minted Nodes (reintro-ep034): N-266, N-267, N-271, N-10267, N-10427, N-10496, N-10645, N-10762
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-4916–C-4974
+  - Claim Range: C-2981–C-3049
   - New Nodes Introduced: N-10259, N-10260, N-10261, N-10262, N-10263
   - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-188, N-209, N-224, N-757, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-329, N-10264, N-10662, N-708, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
   - (see registers)
@@ -35,7 +35,6 @@
 
 ### Episode 34 Ledger Summary
 - Artifact Families Introduced: A-1425, A-1426, A-1427, A-1428, A-1429, A-1430, A-1431, A-1432, A-1433, A-1434
-- Claim Range: C-1735–C-1744
 - New Nodes Introduced (People):  
 - New Nodes Introduced (Investigation Targets): N-10259, N-10260, N-10261, N-10262, N-10263, N-10264
 - Existing Nodes Reused (referenced, IDs presumed in earlier episodes): Charlie Kirk, Erika Kirk, Mikey McCoy, Kash Patel, Joe Kent, Tulsi Gabbard, Tim Pool (referred to in transcript as "Tim P"), Ryan Matta, Phil Lyman, Elizabeth Lane, Megyn Kelly
@@ -58,7 +57,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 07:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1735, N-10259, A-1425.2–A-1425.5*
+- *Related: C-2989, N-10259, A-1425.2–A-1425.5*
 
 **A-1425.2** Silver 2025 Toyota RAV4 – Utah plate T09-2Zs
 - Event Timestamp: 2025 (rental period)
@@ -66,7 +65,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 07:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1735, N-10259, A-1425.1, A-1425.3*
+- *Related: C-2989, N-10259, A-1425.1, A-1425.3*
 
 **A-1425.3** White 2023 Toyota RAV4 – Utah plate T9-12-KM
 - Event Timestamp: 2025
@@ -74,7 +73,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 07:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1735, N-10259, A-1425.2, A-1425.4*
+- *Related: C-2989, N-10259, A-1425.2, A-1425.4*
 
 **A-1425.4** Black 2025 Toyota 4Runner – Utah plate Z-923-DA
 - Event Timestamp: 2025
@@ -82,7 +81,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 07:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1735, N-10259, A-1425.3, A-1425.5*
+- *Related: C-2989, N-10259, A-1425.3, A-1425.5*
 
 **A-1425.5** Gray/silver 2025 Toyota 4Runner – Utah plate Z349-AAA
 - Event Timestamp: 2025
@@ -90,7 +89,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 07:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1735, N-10259, A-1425.4*
+- *Related: C-2989, N-10259, A-1425.4*
 
 ---
 
@@ -102,7 +101,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 12:01
 - Discovery Timestamp: 2025-11-18 (episode date)
 - Confidence Level: High
-- *Related: C-1736, N-10261, A-1427.1*
+- *Related: C-2995, N-10261, A-1427.1*
 
 ---
 
@@ -114,7 +113,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 13:45
 - Discovery Timestamp: 2025-11-18 (aired on episode)
 - Confidence Level: Medium (recording conditions not specified; identities partially anonymized)
-- *Related: C-1736, N-10261, A-1426.1*
+- *Related: C-2995, N-10261, A-1426.1*
 
 ---
 
@@ -126,7 +125,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 23:53
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1737, , A-1428.2*
+- *Related: C-3015, , A-1428.2*
 
 **A-1428.2** Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorensen Center / Losee Center
 - Event Timestamp: Prior to 2025-09-10 (date unspecified in transcript; "on Monday before this correspondence went to Chief Long")
@@ -134,7 +133,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 26:12
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High (text quoted verbatim)
-- *Related: C-1737, , A-1428.1*
+- *Related: C-3015, , A-1428.1*
 
 ---
 
@@ -146,7 +145,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 32:53
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1738, A-1429.2*
+- *Related: C-3021, A-1429.2*
 
 **A-1429.2** Blake Neff phone-call screenshot – call to his mother, 45-second duration, initiated at 11:24 Arizona time (≡ 12:24 Utah time)
 - Event Timestamp: 2025-09-10 (date of shooting)
@@ -154,7 +153,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 36:37
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High (screenshot displayed)
-- *Related: C-1739, N-10262, A-1429.1*
+- *Related: C-3028, N-10262, A-1429.1*
 
 ---
 
@@ -166,7 +165,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 38:58
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High
-- *Related: C-1740, A-1431.1*
+- *Related: C-3031, A-1431.1*
 
 ---
 
@@ -178,7 +177,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 42:02
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High (displayed)
-- *Related: C-1741, N-10264, A-1430.1*
+- *Related: C-3034, N-10264, A-1430.1*
 
 ---
 
@@ -190,7 +189,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 01:55
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High
-- *Related: C-1742, A-1425.x*
+- *Related: C-2982, A-1425.x*
 
 ---
 
@@ -202,7 +201,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 03:02
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: High
-- *Related: C-1743, A-1425.x*
+- *Related: C-2983, A-1425.x*
 
 ---
 
@@ -214,7 +213,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Video Timestamp: 20:20
 - Discovery Timestamp: 2025-11-18
 - Confidence Level: Medium
-- *Related: C-1744, N-10263*
+- *Related: C-3009, N-10263*
 
 ---
 
@@ -227,7 +226,7 @@ Video Timestamp: 00:01:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4916*
+*Related: C-2981*
 
 ---
 
@@ -240,7 +239,7 @@ Video Timestamp: 00:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4918, C-4919, C-4967*
+*Related: C-2985, C-2986, C-3042*
 
 ---
 
@@ -253,7 +252,7 @@ Video Timestamp: 00:06:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4921*
+*Related: C-2988*
 
 ---
 
@@ -266,7 +265,7 @@ Video Timestamp: 00:09:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4923*
+*Related: C-2991*
 
 ---
 
@@ -279,7 +278,7 @@ Video Timestamp: 00:18:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4938, C-4939*
+*Related: C-3007, C-3008*
 
 ---
 
@@ -294,7 +293,7 @@ Video Timestamp: 00:17:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4936*
+*Related: C-3005*
 
 ---
 
@@ -307,7 +306,7 @@ Video Timestamp: 00:21:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4940*
+*Related: C-3010*
 
 ---
 
@@ -322,7 +321,7 @@ Video Timestamp: 00:51:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4968*
+*Related: C-3043*
 
 ---
 
@@ -335,7 +334,7 @@ Video Timestamp: 00:51:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4968, C-4969*
+*Related: C-3043, C-3044*
 
 ---
 
@@ -348,7 +347,7 @@ Video Timestamp: 00:45:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4962, C-4963, C-4964*
+*Related: C-3037, C-3038, C-3039*
 
 ---
 
@@ -361,7 +360,7 @@ Video Timestamp: 00:51:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4970*
+*Related: C-3045*
 
 ---
 
@@ -376,7 +375,7 @@ Cluster of five rental vehicles identified by plate (A-1425.x); alleged connecti
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: High
-- *Related: A-1425.1–A-1425.5, C-1735*
+- *Related: A-1425.1–A-1425.5, C-2989*
 
 **N-10260** Federal Military Aircraft Escort Protocol Verification
 Claim by host (citing "a high government source") that foreign military jets cannot land on U.S. soil without federal escort and tracking. No documentary artifact supplied.
@@ -393,7 +392,7 @@ Reports by a UVU student (and reportedly a professor) of a man on the Losee Cent
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1426.1, A-1427.1, C-1736*
+- *Related: A-1426.1, A-1427.1, C-2995*
 
 **N-10262** Post-Shooting Phone Call Timing Sequence
 Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his mother (A-1429.2) and his narrative in A-1429.1 about Mikey McCoy's calls to Erika and to Rob McCoy.
@@ -401,7 +400,7 @@ Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his 
 - Claim Count: 2
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1429.1, A-1429.2, C-1738, C-1739, *
+- *Related: A-1429.1, A-1429.2, C-3021, C-3028, *
 
 **N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
@@ -409,7 +408,7 @@ The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assas
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: High
-- *Related: A-1434.1, C-1744, *
+- *Related: A-1434.1, C-3009, *
 
 **N-10264** Calvary Chapel Pro-Israel Coordination
 Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's "Stand with Israel" / "Why Jews are hated" framing (A-1431.1).
@@ -417,7 +416,7 @@ Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magaz
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1430.1, A-1431.1, C-1740, C-1741, *
+- *Related: A-1430.1, A-1431.1, C-3031, C-3034, *
 
 ---
 
@@ -425,7 +424,7 @@ Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magaz
 
 Host; speaks for herself throughout.
 
-*Related: C-4916, C-4917, C-4918, C-4919, C-4920, C-4921, C-4922, C-4923, C-4924, C-4925, C-4926, C-4927, C-4929, C-4935, C-4936, C-4937, C-4938, C-4939, C-4940, C-4945, C-4946, C-4956, C-4957, C-4958, C-4959, C-4960, C-4962, C-4963, C-4964, C-4965, C-4966, C-4967, C-4968, C-4969, C-4970, C-4971, C-4972, C-4973, C-4974*
+*Related: C-2981, C-2984, C-2985, C-2986, C-2987, C-2988, C-2990, C-2991, C-2992, C-2993, C-2994, C-2996, C-2998, C-3004, C-3005, C-3006, C-3007, C-3008, C-3010, C-3016, C-3017, C-3029, C-3030, C-3032, C-3033, C-3035, C-3037, C-3038, C-3039, C-3040, C-3041, C-3042, C-3043, C-3044, C-3045, C-3046, C-3047, C-3048, C-3049*
 
 ---
 
@@ -433,7 +432,7 @@ Host; speaks for herself throughout.
 
 Turning Point USA; subject of the filing deadline update.
 
-*Related: C-4916*
+*Related: C-2981*
 
 ---
 
@@ -441,7 +440,7 @@ Turning Point USA; subject of the filing deadline update.
 
 TPUSA Financial Filing Anomaly Investigation; existing topic reused for new claims in this episode.
 
-*Related: C-4916*
+*Related: C-2981*
 
 ---
 
@@ -449,7 +448,7 @@ TPUSA Financial Filing Anomaly Investigation; existing topic reused for new clai
 
 Charlie Kirk; subject of the assassination, whose memory, security and donor friction the host discusses.
 
-*Related: C-4917, C-4920, C-4928, C-4941, C-4945, C-4950, C-4956, C-4962, C-4963, C-4964, C-4971, C-4972*
+*Related: C-2984, C-2987, C-2997, C-3011, C-3016, C-3022, C-3029, C-3037, C-3038, C-3039, C-3046, C-3047*
 
 ---
 
@@ -457,7 +456,7 @@ Charlie Kirk; subject of the assassination, whose memory, security and donor fri
 
 SUBTT Flight Tracking Question; existing topic reused for new claims in this episode.
 
-*Related: C-4917, C-4922*
+*Related: C-2984, C-2990*
 
 ---
 
@@ -465,7 +464,7 @@ SUBTT Flight Tracking Question; existing topic reused for new claims in this epi
 
 Egyptian Air Force SU-BTT Provo Mission Question; existing topic reused for new claims in this episode.
 
-*Related: C-4917*
+*Related: C-2984*
 
 ---
 
@@ -473,7 +472,7 @@ Egyptian Air Force SU-BTT Provo Mission Question; existing topic reused for new 
 
 Egyptian Military Plane Tracking Investigation; existing topic reused for new claims in this episode.
 
-*Related: C-4918, C-4919, C-4920, C-4965, C-4967*
+*Related: C-2985, C-2986, C-2987, C-3040, C-3042*
 
 ---
 
@@ -481,7 +480,7 @@ Egyptian Military Plane Tracking Investigation; existing topic reused for new cl
 
 Kash Patel; named in the host's escort question and the Kent and Gabbard remark.
 
-*Related: C-4919, C-4924*
+*Related: C-2986, C-2992*
 
 ---
 
@@ -489,7 +488,7 @@ Kash Patel; named in the host's escort question and the Kent and Gabbard remark.
 
 Erika Kirk; the host says Egyptian planes followed her and Neff says Mikey McCoy called her first.
 
-*Related: C-4920, C-4953, C-4954, C-4957, C-4965*
+*Related: C-2987, C-3025, C-3026, C-3030, C-3040*
 
 ---
 
@@ -497,7 +496,7 @@ Erika Kirk; the host says Egyptian planes followed her and Neff says Mikey McCoy
 
 Duncan Aviation Rental Vehicle Investigation; existing topic reused for new claims in this episode.
 
-*Related: C-4921*
+*Related: C-2988*
 
 ---
 
@@ -505,7 +504,7 @@ Duncan Aviation Rental Vehicle Investigation; existing topic reused for new clai
 
 SUBND Flight Tracking Question; existing topic reused for new claims in this episode.
 
-*Related: C-4922, C-4974*
+*Related: C-2990, C-3049*
 
 ---
 
@@ -513,7 +512,7 @@ SUBND Flight Tracking Question; existing topic reused for new claims in this epi
 
 TMZ; distributor of the footage with cars in the driveway.
 
-*Related: C-4923, C-4926, C-4938, C-4939*
+*Related: C-2991, C-2994, C-3007, C-3008*
 
 ---
 
@@ -521,7 +520,7 @@ TMZ; distributor of the footage with cars in the driveway.
 
 Doorbell-Cam Footage Provenance; existing topic reused for new claims in this episode.
 
-*Related: C-4923*
+*Related: C-2991*
 
 ---
 
@@ -529,7 +528,7 @@ Doorbell-Cam Footage Provenance; existing topic reused for new claims in this ep
 
 Joe Kent; named with Tulsi Gabbard in the host's remark about the dispute with Patel.
 
-*Related: C-4924*
+*Related: C-2992*
 
 ---
 
@@ -537,7 +536,7 @@ Joe Kent; named with Tulsi Gabbard in the host's remark about the dispute with P
 
 Tulsi Gabbard; named with Joe Kent in the host's remark.
 
-*Related: C-4924*
+*Related: C-2992*
 
 ---
 
@@ -545,7 +544,7 @@ Tulsi Gabbard; named with Joe Kent in the host's remark.
 
 Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute; existing topic reused for new claims in this episode.
 
-*Related: C-4924*
+*Related: C-2992*
 
 ---
 
@@ -553,7 +552,7 @@ Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute; existing topic reused fo
 
 Utah Valley University; denied footage requests and site of the roof sightings.
 
-*Related: C-4925, C-4927, C-4931, C-4942, C-4944, C-4946*
+*Related: C-2993, C-2996, C-3000, C-3012, C-3014, C-3017*
 
 ---
 
@@ -561,7 +560,7 @@ Utah Valley University; denied footage requests and site of the roof sightings.
 
 Campus Footage Release Strategy Question; existing topic reused for new claims in this episode.
 
-*Related: C-4925*
+*Related: C-2993*
 
 ---
 
@@ -569,7 +568,7 @@ Campus Footage Release Strategy Question; existing topic reused for new claims i
 
 Lead-up Footage Absence; existing topic reused for new claims in this episode.
 
-*Related: C-4925, C-4926, C-4939*
+*Related: C-2993, C-2994, C-3008*
 
 ---
 
@@ -577,7 +576,7 @@ Lead-up Footage Absence; existing topic reused for new claims in this episode.
 
 Two-Person Theory (Maroon vs Stairs); existing topic reused for new claims in this episode.
 
-*Related: C-4926*
+*Related: C-2994*
 
 ---
 
@@ -585,7 +584,7 @@ Two-Person Theory (Maroon vs Stairs); existing topic reused for new claims in th
 
 Federal Bureau of Investigation; operator of the tip line the student used.
 
-*Related: C-4928*
+*Related: C-2997*
 
 ---
 
@@ -593,7 +592,7 @@ Federal Bureau of Investigation; operator of the tip line the student used.
 
 Eyewitness Roof-Description Discrepancy; existing topic reused for new claims in this episode.
 
-*Related: C-4930*
+*Related: C-2999*
 
 ---
 
@@ -601,7 +600,7 @@ Eyewitness Roof-Description Discrepancy; existing topic reused for new claims in
 
 Tyler Robinson Rooftop Access Timeline; existing topic reused for new claims in this episode.
 
-*Related: C-4932, C-4937*
+*Related: C-3001, C-3006*
 
 ---
 
@@ -609,7 +608,7 @@ Tyler Robinson Rooftop Access Timeline; existing topic reused for new claims in 
 
 Other Angle Rooftop Footage Existence; existing topic reused for new claims in this episode.
 
-*Related: C-4937*
+*Related: C-3006*
 
 ---
 
@@ -617,7 +616,7 @@ Other Angle Rooftop Footage Existence; existing topic reused for new claims in t
 
 Phil Lyman; the host links a house footage to him.
 
-*Related: C-4938, C-4939*
+*Related: C-3007, C-3008*
 
 ---
 
@@ -625,7 +624,7 @@ Phil Lyman; the host links a house footage to him.
 
 Ryan Matta; supplied the parking lot footage of the alleged shooter.
 
-*Related: C-4938, C-4939*
+*Related: C-3007, C-3008*
 
 ---
 
@@ -633,7 +632,7 @@ Ryan Matta; supplied the parking lot footage of the alleged shooter.
 
 Phil Lyman Location Discrepancy; existing topic reused for new claims in this episode.
 
-*Related: C-4938*
+*Related: C-3007*
 
 ---
 
@@ -641,7 +640,7 @@ Phil Lyman Location Discrepancy; existing topic reused for new claims in this ep
 
 Brian Harpole; Kirk security member whose interview and texts the host critiques.
 
-*Related: C-4941, C-4942, C-4943, C-4947, C-4948, C-4949*
+*Related: C-3011, C-3012, C-3013, C-3018, C-3019, C-3020*
 
 ---
 
@@ -649,7 +648,7 @@ Brian Harpole; Kirk security member whose interview and texts the host critiques
 
 First named by the host at 00:23:53 in episode 34. Interviewer of Brian Harpole in the interview the host critiques.
 
-*Related: C-4941*
+*Related: C-3011*
 
 ---
 
@@ -657,7 +656,7 @@ First named by the host at 00:23:53 in episode 34. Interviewer of Brian Harpole 
 
 TPUSA Rooftop Security Decision-Making Discrepancy; existing topic reused for new claims in this episode.
 
-*Related: C-4941, C-4942, C-4943, C-4945*
+*Related: C-3011, C-3012, C-3013, C-3016*
 
 ---
 
@@ -665,7 +664,7 @@ TPUSA Rooftop Security Decision-Making Discrepancy; existing topic reused for ne
 
 Jeff Long; UVU police chief whom Harpole's texts and interview concern.
 
-*Related: C-4942, C-4943, C-4946*
+*Related: C-3012, C-3013, C-3017*
 
 ---
 
@@ -673,7 +672,7 @@ Jeff Long; UVU police chief whom Harpole's texts and interview concern.
 
 Losee Center Gun Verification Gap; existing topic reused for new claims in this episode.
 
-*Related: C-4944*
+*Related: C-3014*
 
 ---
 
@@ -681,7 +680,7 @@ Losee Center Gun Verification Gap; existing topic reused for new claims in this 
 
 TPUSA Drone Disclosure Discrepancy; existing topic reused for new claims in this episode.
 
-*Related: C-4947, C-4948*
+*Related: C-3018, C-3019*
 
 ---
 
@@ -689,7 +688,7 @@ TPUSA Drone Disclosure Discrepancy; existing topic reused for new claims in this
 
 TPUSA Drone Story Discrepancy; existing topic reused for new claims in this episode.
 
-*Related: C-4947*
+*Related: C-3018*
 
 ---
 
@@ -697,7 +696,7 @@ TPUSA Drone Story Discrepancy; existing topic reused for new claims in this epis
 
 UVU Drone Authorization Records; existing topic reused for new claims in this episode.
 
-*Related: C-4947, C-4948, C-4949*
+*Related: C-3018, C-3019, C-3020*
 
 ---
 
@@ -705,7 +704,7 @@ UVU Drone Authorization Records; existing topic reused for new claims in this ep
 
 Orem Police Department; the department Harpole says has an active drone unit.
 
-*Related: C-4948, C-4949*
+*Related: C-3019, C-3020*
 
 ---
 
@@ -713,7 +712,7 @@ Orem Police Department; the department Harpole says has an active drone unit.
 
 Blake Neff; TPUSA employee whose account of the shooting and call log the host reviews.
 
-*Related: C-4950, C-4951, C-4952, C-4953, C-4954, C-4955, C-4956, C-4957*
+*Related: C-3022, C-3023, C-3024, C-3025, C-3026, C-3027, C-3029, C-3030*
 
 ---
 
@@ -721,7 +720,7 @@ Blake Neff; TPUSA employee whose account of the shooting and call log the host r
 
 Mikey McCoy; subject of Neff's account of calls to Erika and his father.
 
-*Related: C-4950, C-4951, C-4952, C-4953, C-4954, C-4955, C-4956, C-4957*
+*Related: C-3022, C-3023, C-3024, C-3025, C-3026, C-3027, C-3029, C-3030*
 
 ---
 
@@ -729,7 +728,7 @@ Mikey McCoy; subject of Neff's account of calls to Erika and his father.
 
 Mikey McCoy Post-Shooting Phone Call Sequence; existing topic reused for new claims in this episode.
 
-*Related: C-4950, C-4951, C-4953, C-4954, C-4955, C-4956, C-4957*
+*Related: C-3022, C-3023, C-3025, C-3026, C-3027, C-3029, C-3030*
 
 ---
 
@@ -737,7 +736,7 @@ Mikey McCoy Post-Shooting Phone Call Sequence; existing topic reused for new cla
 
 Mikey McCoy Behavior Discrepancy (September 10, 2025); existing topic reused for new claims in this episode.
 
-*Related: C-4952*
+*Related: C-3024*
 
 ---
 
@@ -745,7 +744,7 @@ Mikey McCoy Behavior Discrepancy (September 10, 2025); existing topic reused for
 
 Mikey McCoy Phone Call Sequence Anomaly; existing topic reused for new claims in this episode.
 
-*Related: C-4953*
+*Related: C-3025*
 
 ---
 
@@ -753,7 +752,7 @@ Mikey McCoy Phone Call Sequence Anomaly; existing topic reused for new claims in
 
 Rob McCoy; pastor in Jerusalem remarks and recipient of Mikey McCoy's call.
 
-*Related: C-4955, C-4956, C-4958, C-4961*
+*Related: C-3027, C-3029, C-3032, C-3036*
 
 ---
 
@@ -761,7 +760,7 @@ Rob McCoy; pastor in Jerusalem remarks and recipient of Mikey McCoy's call.
 
 Mikey McCoy Phone Call Sequence; existing topic reused for new claims in this episode.
 
-*Related: C-4955*
+*Related: C-3027*
 
 ---
 
@@ -769,7 +768,7 @@ Mikey McCoy Phone Call Sequence; existing topic reused for new claims in this ep
 
 Tucker Carlson; subject of McCoy's remarks and the July donor reaction.
 
-*Related: C-4958, C-4959, C-4962, C-4963, C-4964*
+*Related: C-3032, C-3033, C-3037, C-3038, C-3039*
 
 ---
 
@@ -777,7 +776,7 @@ Tucker Carlson; subject of McCoy's remarks and the July donor reaction.
 
 Calvary Chapel Network Infiltration Question; existing topic reused for new claims in this episode.
 
-*Related: C-4959, C-4960*
+*Related: C-3033, C-3035*
 
 ---
 
@@ -785,7 +784,7 @@ Calvary Chapel Network Infiltration Question; existing topic reused for new clai
 
 Benjamin Netanyahu; the host says he is involved in Calvary Chapel churches.
 
-*Related: C-4960, C-4961*
+*Related: C-3035, C-3036*
 
 ---
 
@@ -793,7 +792,7 @@ Benjamin Netanyahu; the host says he is involved in Calvary Chapel churches.
 
 Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.
 
-*Related: C-4961*
+*Related: C-3036*
 
 ---
 
@@ -801,7 +800,7 @@ Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.
 
 Calvary Chapel Institutional Abuse Pattern; existing topic reused for new claims in this episode.
 
-*Related: C-4961*
+*Related: C-3036*
 
 ---
 
@@ -809,7 +808,7 @@ Calvary Chapel Institutional Abuse Pattern; existing topic reused for new claims
 
 Donor Intimidation of Charlie Kirk; existing topic reused for new claims in this episode.
 
-*Related: C-4962, C-4963, C-4964*
+*Related: C-3037, C-3038, C-3039*
 
 ---
 
@@ -817,7 +816,7 @@ Donor Intimidation of Charlie Kirk; existing topic reused for new claims in this
 
 Israel Lobby Pressure on Conservative Figures; existing topic reused for new claims in this episode.
 
-*Related: C-4962, C-4966*
+*Related: C-3037, C-3041*
 
 ---
 
@@ -825,7 +824,7 @@ Israel Lobby Pressure on Conservative Figures; existing topic reused for new cla
 
 Megyn Kelly; the host says she holds clear mic'd footage of Charlie and Tucker.
 
-*Related: C-4963*
+*Related: C-3038*
 
 ---
 
@@ -833,7 +832,7 @@ Megyn Kelly; the host says she holds clear mic'd footage of Charlie and Tucker.
 
 First named by the host at 00:45:45 in episode 34 (spelled Churnick in the transcript). Donor the host says yelled and took away a million dollars after Tucker Carlson's speech.
 
-*Related: C-4964*
+*Related: C-3039*
 
 ---
 
@@ -842,7 +841,7 @@ First named by the host at 00:45:45 in episode 34 (spelled Churnick in the trans
 Node Type: Topic
 The host's identification of the donor she says yelled and withdrew a million dollars after Charlie Kirk let Tucker Carlson speak at the July 2025 TPUSA event.
 
-*Related: C-4964*
+*Related: C-3039*
 
 ---
 
@@ -850,7 +849,7 @@ The host's identification of the donor she says yelled and withdrew a million do
 
 Egyptian Planes Investigation; existing topic reused for new claims in this episode.
 
-*Related: C-4965*
+*Related: C-3040*
 
 ---
 
@@ -858,7 +857,7 @@ Egyptian Planes Investigation; existing topic reused for new claims in this epis
 
 First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's remark about the Israel exception to foreign-agent registration.
 
-*Related: C-4966*
+*Related: C-3041*
 
 ---
 
@@ -866,7 +865,7 @@ First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's 
 
 2025 FARA Propaganda Timeline Convergence; existing topic reused for new claims in this episode.
 
-*Related: C-4966*
+*Related: C-3041*
 
 ---
 
@@ -875,7 +874,7 @@ First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's 
 Node Type: Topic
 Viewer tips and the host's request for footage about many vehicles reportedly parked at the alleged shooter's home between September 4 and September 10, 2025, and whether they match the five rented vehicles.
 
-*Related: C-4968, C-4969*
+*Related: C-3043, C-3044*
 
 ---
 
@@ -883,7 +882,7 @@ Viewer tips and the host's request for footage about many vehicles reportedly pa
 
 Tim Pool; transcript says Tim P; subject of a viewer comment and the host's clip remark.
 
-*Related: C-4970*
+*Related: C-3045*
 
 ---
 
@@ -891,7 +890,7 @@ Tim Pool; transcript says Tim P; subject of a viewer comment and the host's clip
 
 Duncan Aviation; FBO linked to the rented vehicles and SU-BND transponder activity.
 
-*Related: C-4974*
+*Related: C-3049*
 
 ---
 
@@ -899,13 +898,13 @@ Duncan Aviation; FBO linked to the rented vehicles and SU-BND transponder activi
 
 Egyptian Plane Transponding Correlation; existing topic reused for new claims in this episode.
 
-*Related: C-4974*
+*Related: C-3049*
 
 ---
 
 ## V. Claim Register
 
-**C-1735** Host Says Five Rental Vehicles Tied to Duncan Aviation and the "Egyptian" Arrival Chain Were Identified by License Plate
+**C-2989** Host Says Five Rental Vehicles Tied to Duncan Aviation and the "Egyptian" Arrival Chain Were Identified by License Plate
 
 Claim Timestamp: 00:07:12
 Claim: The host says five specific rental vehicles with documented license plates are the verified rental fleet associated with the Duncan Aviation / "Egyptian" group.
@@ -914,7 +913,7 @@ Mentions: N-260
 Related Nodes: N-10259
 Investigative Direction: Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.
 
-**C-1736** A UVU Student Told CNN He Saw a Man on or Near the Losee Center Roof Twice in Two Weeks
+**C-2995** A UVU Student Told CNN He Saw a Man on or Near the Losee Center Roof Twice in Two Weeks
 
 Claim Timestamp: 00:12:01
 Claim: Per the CNN article the host shows, a UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Losee Center roof twice, the last time at noon the Wednesday before the shooting.
@@ -922,7 +921,7 @@ Anchored Artifacts: A-1426.1, A-1427.1
 Related Nodes: N-10261
 Investigative Direction: Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.
 
-**C-1737** Harpole Says He Texted UVU Police Chief About Rooftop Access and Got "I Got You Covered"; Host Says He Did Not Follow Up
+**C-3015** Harpole Says He Texted UVU Police Chief About Rooftop Access and Got "I Got You Covered"; Host Says He Did Not Follow Up
 
 Claim Timestamp: 00:25:02
 Claim: In a clip the host plays, Brian Harpole, one of Charlie Kirk's long-term security team members, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
@@ -931,7 +930,7 @@ Mentions: N-1, N-266, N-271
 Related Nodes:
 Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
-**C-1738** Blake Neff Says He Was Next to Mikey McCoy When the Shot Was Fired
+**C-3021** Blake Neff Says He Was Next to Mikey McCoy When the Shot Was Fired
 
 Claim Timestamp: 00:32:25
 Claim: In a clip the host plays, Blake Neff says he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
@@ -940,7 +939,7 @@ Mentions: N-159, N-190
 Related Nodes: N-10262
 Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
-**C-1739** Per Blake Neff's Screenshot the Host Shows, His Call to His Mother Began at 11:24 Arizona Time and Lasted 45 Seconds
+**C-3028** Per Blake Neff's Screenshot the Host Shows, His Call to His Mother Began at 11:24 Arizona Time and Lasted 45 Seconds
 
 Claim Timestamp: 00:36:37
 Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother began at 11:24 and lasted 45 seconds; the host says that because Neff is now in Arizona this means 12:24 Utah time, and Mark says the time shown is when the call was initiated.
@@ -949,7 +948,7 @@ Mentions: N-159, N-67, N-3
 Related Nodes: N-10262
 Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
-**C-1740** Audience Questioner at Jerusalem Event With Rob McCoy Says Carlson and Owens Are Hijacking the Christian Message
+**C-3031** Audience Questioner at Jerusalem Event With Rob McCoy Says Carlson and Owens Are Hijacking the Christian Message
 
 Claim Timestamp: 00:38:58
 Claim: In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question.
@@ -958,7 +957,7 @@ Mentions: N-22, N-3, N-1, N-17
 Related Nodes: N-10264
 Investigative Direction: Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.
 
-**C-1741** Host Shows Calvary Chapel Magazine Cover With "Stand with Israel" and "Why Jews Are Hated" Article, Interior Featuring IDF Soldiers
+**C-3034** Host Shows Calvary Chapel Magazine Cover With "Stand with Israel" and "Why Jews Are Hated" Article, Interior Featuring IDF Soldiers
 
 Claim Timestamp: 00:41:07
 Claim: The host shows what she says is this month's Calvary Chapel magazine cover, sent to her by someone, featuring "Stand with Israel" and a "Why Jews are hated" subtitle, and says the interior includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
@@ -966,7 +965,7 @@ Anchored Artifacts: A-1431.1
 Related Nodes: N-10264
 Investigative Direction: Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.
 
-**C-1742** Host Reads Eyal Yakoby Post Calling the Rental-Plate Disclosure "Doxing"
+**C-2982** Host Reads Eyal Yakoby Post Calling the Rental-Plate Disclosure "Doxing"
 
 Claim Timestamp: 00:01:55
 Claim: The host reads a post on X she attributes to Eyal Yakoby characterizing the rental-plate disclosure as "doxing" and describing it as "unparalleled levels of insanity" and "truly dangerous."
@@ -975,7 +974,7 @@ Mentions:
 Related Nodes: N-10259
 Investigative Direction: Verify the post URL; document whether the post remains public; identify Eyal Yakoby's institutional affiliations.
 
-**C-1743** Host Reads Arynne Wexler Post Saying Candace Started Her Career by Doxing Teenagers
+**C-2983** Host Reads Arynne Wexler Post Saying Candace Started Her Career by Doxing Teenagers
 
 Claim Timestamp: 00:03:02
 Claim: The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'
@@ -984,7 +983,7 @@ Mentions: N-3, N-56
 Related Nodes:
 Investigative Direction: Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged "doxing teenagers" claim.
 
-**C-1744** Host Says Plane Owned by Turning Point USA Donor T.W. Lewis Flew Scottsdale to Provo
+**C-3009** Host Says Plane Owned by Turning Point USA Donor T.W. Lewis Flew Scottsdale to Provo
 
 Claim Timestamp: 00:20:20
 Claim: The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor T.W. Lewis, whose foundation website she says lists TPUSA as a recipient.
@@ -994,7 +993,7 @@ Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obt
 
 ---
 
-**C-4916** Host Says TPUSA Extended Filing Deadline Was November 15
+**C-2981** Host Says TPUSA Extended Filing Deadline Was November 15
 
 Claim Timestamp: 00:01:11
 
@@ -1009,7 +1008,7 @@ Investigative Direction: Check the IRS tax-exempt filing database for a TPUSA re
 
 ---
 
-**C-4917** Host Says SU-BTT Landed in Utah Six Days Before the Assassination With 12 to 14 Egyptians
+**C-2984** Host Says SU-BTT Landed in Utah Six Days Before the Assassination With 12 to 14 Egyptians
 
 Claim Timestamp: 00:03:02
 
@@ -1020,12 +1019,12 @@ Transcript Snippet: SU-BTT, landed into Utah 6 days before Charlie Kirk's assass
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10207, N-10204
-Supports: C-1551
+Supports: C-2139
 Investigative Direction: Obtain Provo airport arrival records and CBP or customs declarations for SU-BTT on September 4, 2025, and any passenger count.
 
 ---
 
-**C-4918** Host Relays State Department Source: Foreign Military Jets Landing in the US Require Federal Escort
+**C-2985** Host Relays State Department Source: Foreign Military Jets Landing in the US Require Federal Escort
 
 Claim Timestamp: 00:04:15
 
@@ -1040,7 +1039,7 @@ Investigative Direction: Ask the State Department and FAA for the published prot
 
 ---
 
-**C-4919** Host Says the Government Is Immediately Aware and Provides an Escort; Asks Who the Agents Were
+**C-2986** Host Says the Government Is Immediately Aware and Provides an Escort; Asks Who the Agents Were
 
 Claim Timestamp: 00:04:58
 
@@ -1051,12 +1050,12 @@ Transcript Snippet: The government is immediately aware that this military equip
 Anchored Artifacts: A-2715.1
 Mentions: N-3, N-69
 Related Nodes: N-10260, N-10253
-Supports: C-4918
+Supports: C-2985
 Investigative Direction: Seek records identifying the federal agency and agents that met SU-BTT in Provo, such as CBP, State Department Diplomatic Security or escort logs.
 
 ---
 
-**C-4920** Host Says Charlie Kirk Had a Photographic Memory and Loved Learning About Military Planes
+**C-2987** Host Says Charlie Kirk Had a Photographic Memory and Loved Learning About Military Planes
 
 Claim Timestamp: 00:04:58
 
@@ -1071,7 +1070,7 @@ Investigative Direction: Ask Charlie Kirk's family, staff and friends whether he
 
 ---
 
-**C-4921** Host Says Viewers Corrected Her Reading of the Letter N and the Number Nine in Plates
+**C-2988** Host Says Viewers Corrected Her Reading of the Letter N and the Number Nine in Plates
 
 Claim Timestamp: 00:06:09
 
@@ -1082,12 +1081,12 @@ Transcript Snippet: informed me that I apparently do not know the difference bet
 Anchored Artifacts: A-2716.1
 Mentions: N-3
 Related Nodes: N-10259, N-10256
-Revises: C-1727
+Revises: C-2940
 Investigative Direction: Compare the plates read on the earlier episode against the corrected plates read here and against rental company records.
 
 ---
 
-**C-4922** Host Says the Egyptians Did Not Leave on SU-BTT and Waited for SU-BND to Take Them Home
+**C-2990** Host Says the Egyptians Did Not Leave on SU-BTT and Waited for SU-BND to Take Them Home
 
 Claim Timestamp: 00:09:06
 
@@ -1098,12 +1097,12 @@ Transcript Snippet: they weren't even on the plane on the way out. They waited f
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10207, N-10208
-Supports: C-1552
+Supports: C-2142
 Investigative Direction: Compare SU-BTT's departure passenger records from Provo with SU-BND's departure records to see who boarded each.
 
 ---
 
-**C-4923** Host Floats That Cars in the Driveway of the TMZ Footage Could Be the Rented Vehicles
+**C-2991** Host Floats That Cars in the Driveway of the TMZ Footage Could Be the Rented Vehicles
 
 Claim Timestamp: 00:09:06
 
@@ -1118,7 +1117,7 @@ Investigative Direction: Obtain an unblurred copy of the original footage and co
 
 ---
 
-**C-4924** Host Says Press Reported Kent and Gabbard Were Warring With Patel's FBI
+**C-2992** Host Says Press Reported Kent and Gabbard Were Warring With Patel's FBI
 
 Claim Timestamp: 00:10:12
 
@@ -1133,7 +1132,7 @@ Investigative Direction: Locate the press reports describing the dispute among K
 
 ---
 
-**C-4925** Host Says UVU Has Denied Every Request to Release Footage From the Day and the Days Before
+**C-2993** Host Says UVU Has Denied Every Request to Release Footage From the Day and the Days Before
 
 Claim Timestamp: 00:10:12
 
@@ -1148,7 +1147,7 @@ Investigative Direction: File or review public records requests to UVU for campu
 
 ---
 
-**C-4926** Host Suspects the Released Footage Was Recorded Before September 10 and Staged
+**C-2994** Host Suspects the Released Footage Was Recorded Before September 10 and Staged
 
 Claim Timestamp: 00:10:59
 
@@ -1163,7 +1162,7 @@ Investigative Direction: Request metadata and original files for the TMZ and UVU
 
 ---
 
-**C-4927** Host Says Students and Allegedly a Professor Reported Seeing Someone on the Roof a Week Earlier
+**C-2996** Host Says Students and Allegedly a Professor Reported Seeing Someone on the Roof a Week Earlier
 
 Claim Timestamp: 00:12:01
 
@@ -1174,12 +1173,12 @@ Transcript Snippet: There were students and allegedly a professor who reported s
 Anchored Artifacts: A-1426.1
 Mentions: N-3
 Related Nodes: N-10261, N-10012
-Supports: C-1736
+Supports: C-2995
 Investigative Direction: Identify the professor and students through UVU staff and student contacts, and ask CNN whether it holds interview notes.
 
 ---
 
-**C-4928** CNN Article Says Student Reported Rooftop Sightings to FBI Tip Line and Heard Nothing Back
+**C-2997** CNN Article Says Student Reported Rooftop Sightings to FBI Tip Line and Heard Nothing Back
 
 Claim Timestamp: 00:12:01
 
@@ -1190,12 +1189,12 @@ Transcript Snippet: He told CNN that he reported his observations to the FBI tip
 Anchored Artifacts: A-1426.1
 Mentions: N-1
 Related Nodes: N-10261, N-10014
-Supports: C-1736
+Supports: C-2995
 Investigative Direction: Request FBI tip line records for the student's report and ask CNN for the original article text and date.
 
 ---
 
-**C-4929** Host Says a Viewer Tip Included a September 11 Recording of a Student Interviewed by Another Student
+**C-2998** Host Says a Viewer Tip Included a September 11 Recording of a Student Interviewed by Another Student
 
 Claim Timestamp: 00:13:00
 
@@ -1210,7 +1209,7 @@ Investigative Direction: Obtain the original recording and file metadata from th
 
 ---
 
-**C-4930** Student in the Recording Says He Cannot Definitively Say the Man He Saw Is the Man in the Photos
+**C-2999** Student in the Recording Says He Cannot Definitively Say the Man He Saw Is the Man in the Photos
 
 Claim Timestamp: 00:14:29
 
@@ -1225,7 +1224,7 @@ Investigative Direction: Re-interview the student and show him the released phot
 
 ---
 
-**C-4931** Student in the Recording Says the Man Hopped a Railing Off the CS Building Concourse and Walked the Ledge
+**C-3000** Student in the Recording Says the Man Hopped a Railing Off the CS Building Concourse and Walked the Ledge
 
 Claim Timestamp: 00:15:25
 
@@ -1240,7 +1239,7 @@ Investigative Direction: Walk the CS building concourse and Losee Center roof ar
 
 ---
 
-**C-4932** Student in the Recording Bets the Shooter Reached the Losee Center Roof via the CS Concourse
+**C-3001** Student in the Recording Bets the Shooter Reached the Losee Center Roof via the CS Concourse
 
 Claim Timestamp: 00:15:25
 
@@ -1255,7 +1254,7 @@ Investigative Direction: Obtain UVU building plans and access logs for the CS co
 
 ---
 
-**C-4933** Student Says a Professor Asked the Man on the Roof if He Was Okay and Walked Away
+**C-3002** Student Says a Professor Asked the Man on the Roof if He Was Okay and Walked Away
 
 Claim Timestamp: 00:16:04
 
@@ -1266,12 +1265,12 @@ Transcript Snippet: he comes from below and he shouts up, but the guy he asks li
 Anchored Artifacts: A-1427.1
 Mentions: 
 Related Nodes: N-10261
-Supports: C-4927
+Supports: C-2996
 Investigative Direction: Identify the professor through UVU faculty records for the CS building and ask what he saw.
 
 ---
 
-**C-4934** Student Says It Was Definitely the Same Man Both Times, Hopping the Railing Each Time
+**C-3003** Student Says It Was Definitely the Same Man Both Times, Hopping the Railing Each Time
 
 Claim Timestamp: 00:16:44
 
@@ -1282,12 +1281,12 @@ Transcript Snippet: The second time I saw him do the same thing. He hopped the r
 Anchored Artifacts: A-1427.1
 Mentions: 
 Related Nodes: N-10261
-Supports: C-1736
+Supports: C-2995
 Investigative Direction: Take a signed statement from the student giving dates, times and clothing for each sighting.
 
 ---
 
-**C-4935** Host Says She Has Identified the Student Whose Name CNN Did Not Publish
+**C-3004** Host Says She Has Identified the Student Whose Name CNN Did Not Publish
 
 Claim Timestamp: 00:16:44
 
@@ -1302,7 +1301,7 @@ Investigative Direction: Ask the host's team for the student's identity and whet
 
 ---
 
-**C-4936** Host Asks Students Who Saw Someone on the Rooftop in the Week Before to Send Tips
+**C-3005** Host Asks Students Who Saw Someone on the Rooftop in the Week Before to Send Tips
 
 Claim Timestamp: 00:17:33
 
@@ -1317,7 +1316,7 @@ Investigative Direction: Review the tip inbox for rooftop-sighting reports dated
 
 ---
 
-**C-4937** Host Says Every Rooftop Lead Brings Her to a Military Person and No More Footage Has Been Released
+**C-3006** Host Says Every Rooftop Lead Brings Her to a Military Person and No More Footage Has Been Released
 
 Claim Timestamp: 00:17:33
 
@@ -1332,7 +1331,7 @@ Investigative Direction: Document which rooftop leads the host traced and the mi
 
 ---
 
-**C-4938** Host Says Viewer Emails Note a Possible RAV 4 in Each Piece of Shooter Footage
+**C-3007** Host Says Viewer Emails Note a Possible RAV 4 in Each Piece of Shooter Footage
 
 Claim Timestamp: 00:18:28
 
@@ -1347,7 +1346,7 @@ Investigative Direction: Enhance each clip and compare any RAV 4 to the white 20
 
 ---
 
-**C-4939** Host Says Only Four Pieces of Footage of the Alleged Shooter Have Been Seen
+**C-3008** Host Says Only Four Pieces of Footage of the Alleged Shooter Have Been Seen
 
 Claim Timestamp: 00:18:28
 
@@ -1362,7 +1361,7 @@ Investigative Direction: Compile an inventory of all released shooter footage an
 
 ---
 
-**C-4940** Host Asks Insiders and Viewers for More Tips About the Plane Passengers
+**C-3010** Host Asks Insiders and Viewers for More Tips About the Plane Passengers
 
 Claim Timestamp: 00:21:15
 
@@ -1377,7 +1376,7 @@ Investigative Direction: Review the tip inbox for submissions about the T.W. Lew
 
 ---
 
-**C-4941** Host Describes Brian Harpole as Long-Term Kirk Security Who Ran to Charlie After the Shot
+**C-3011** Host Describes Brian Harpole as Long-Term Kirk Security Who Ran to Charlie After the Shot
 
 Claim Timestamp: 00:23:53
 
@@ -1392,7 +1391,7 @@ Investigative Direction: Obtain the Harpole interview recording and event video 
 
 ---
 
-**C-4942** Host Says Harpole Attributes the Lack of Rooftop Security to UVU Police Chief Jeff Long
+**C-3012** Host Says Harpole Attributes the Lack of Rooftop Security to UVU Police Chief Jeff Long
 
 Claim Timestamp: 00:24:53
 
@@ -1407,7 +1406,7 @@ Investigative Direction: Obtain UVU police and TPUSA advance-team documents allo
 
 ---
 
-**C-4943** Harpole Says His Message Asked for Controlled Roof Access or One of His Guys Posted There
+**C-3013** Harpole Says His Message Asked for Controlled Roof Access or One of His Guys Posted There
 
 Claim Timestamp: 00:24:53
 
@@ -1422,7 +1421,7 @@ Investigative Direction: Obtain the full text thread between Harpole and Long wi
 
 ---
 
-**C-4944** Harpole Says the Sorensen Center Was the Building in Front of the Losee Center
+**C-3014** Harpole Says the Sorensen Center Was the Building in Front of the Losee Center
 
 Claim Timestamp: 00:24:53
 
@@ -1437,7 +1436,7 @@ Investigative Direction: Check the UVU campus map for the position of the Sorens
 
 ---
 
-**C-4945** Host Says Charlie Spent Millions a Year on Security
+**C-3016** Host Says Charlie Spent Millions a Year on Security
 
 Claim Timestamp: 00:26:59
 
@@ -1452,7 +1451,7 @@ Investigative Direction: Check TPUSA financial filings and contracts for securit
 
 ---
 
-**C-4946** Host Says Jeff Long Has a Very Extensive Military Career
+**C-3017** Host Says Jeff Long Has a Very Extensive Military Career
 
 Claim Timestamp: 00:26:59
 
@@ -1467,7 +1466,7 @@ Investigative Direction: Obtain Jeff Long's official biography and service recor
 
 ---
 
-**C-4947** Harpole Says TPUSA Spent Thousands on Drones but Could Not Fly Them in Provo Airspace
+**C-3018** Harpole Says TPUSA Spent Thousands on Drones but Could Not Fly Them in Provo Airspace
 
 Claim Timestamp: 00:29:05
 
@@ -1482,7 +1481,7 @@ Investigative Direction: Request FAA airspace authorization records for the UVU 
 
 ---
 
-**C-4948** Harpole Says UVU and Its Police Lacked Drones but Orem PD Has an Active Drone Unit
+**C-3019** Harpole Says UVU and Its Police Lacked Drones but Orem PD Has an Active Drone Unit
 
 Claim Timestamp: 00:29:59
 
@@ -1497,7 +1496,7 @@ Investigative Direction: Ask Orem PD whether its drone unit was requested for th
 
 ---
 
-**C-4949** Harpole Says Orem PD Told Him It Had a Mutual Aid Agreement With the School
+**C-3020** Harpole Says Orem PD Told Him It Had a Mutual Aid Agreement With the School
 
 Claim Timestamp: 00:29:59
 
@@ -1508,12 +1507,12 @@ Transcript Snippet: Do you have anou or a mutual aid agreement with the school? 
 Anchored Artifacts: A-1428.1
 Mentions: N-266
 Related Nodes: N-10129, N-10645
-Supports: C-4948
+Supports: C-3019
 Investigative Direction: Obtain the Orem PD and UVU mutual aid agreement and any call logs from September 2025.
 
 ---
 
-**C-4950** Neff Says He and Mikey McCoy Both Reacted by Getting Away From the Scene
+**C-3022** Neff Says He and Mikey McCoy Both Reacted by Getting Away From the Scene
 
 Claim Timestamp: 00:32:53
 
@@ -1528,7 +1527,7 @@ Investigative Direction: Review scene video and ask other staff to confirm where
 
 ---
 
-**C-4951** Neff Says He Ran 15 to 20 Seconds, Realized There Was No Second Shot and Stopped
+**C-3023** Neff Says He Ran 15 to 20 Seconds, Realized There Was No Second Shot and Stopped
 
 Claim Timestamp: 00:32:53
 
@@ -1543,7 +1542,7 @@ Investigative Direction: Reconcile Neff's 15 to 20 second run with scene video t
 
 ---
 
-**C-4952** Neff Says Mikey McCoy's Lip Was Quivering
+**C-3024** Neff Says Mikey McCoy's Lip Was Quivering
 
 Claim Timestamp: 00:34:05
 
@@ -1558,7 +1557,7 @@ Investigative Direction: Compare with any video or photographs of Mikey McCoy in
 
 ---
 
-**C-4953** Neff Says Mikey McCoy Said He Needed to Call Erika and Began Calling Her
+**C-3025** Neff Says Mikey McCoy Said He Needed to Call Erika and Began Calling Her
 
 Claim Timestamp: 00:34:05
 
@@ -1573,7 +1572,7 @@ Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk for Sep
 
 ---
 
-**C-4954** Neff Says He Does Not Want to Disclose How Mikey McCoy's Call to Erika Unfolded
+**C-3026** Neff Says He Does Not Want to Disclose How Mikey McCoy's Call to Erika Unfolded
 
 Claim Timestamp: 00:34:05
 
@@ -1588,7 +1587,7 @@ Investigative Direction: Ask Neff and McCoy through counsel or TPUSA what was sa
 
 ---
 
-**C-4955** Neff Says Mikey McCoy Then Called His Father Rob McCoy and Asked Him to Rally Pastor Friends
+**C-3027** Neff Says Mikey McCoy Then Called His Father Rob McCoy and Asked Him to Rally Pastor Friends
 
 Claim Timestamp: 00:34:05
 
@@ -1603,7 +1602,7 @@ Investigative Direction: Obtain Rob McCoy's call log and the pastors he contacte
 
 ---
 
-**C-4956** Host Says Charlie Was Shot at 12:23 and the Three Calls Fall Within About Two Minutes
+**C-3029** Host Says Charlie Was Shot at 12:23 and the Three Calls Fall Within About Two Minutes
 
 Claim Timestamp: 00:36:37
 
@@ -1618,7 +1617,7 @@ Investigative Direction: Cross-check with carrier records for McCoy, Neff and Er
 
 ---
 
-**C-4957** Host Says Neff Is Now Confirming Mikey McCoy Called Erika First
+**C-3030** Host Says Neff Is Now Confirming Mikey McCoy Called Erika First
 
 Claim Timestamp: 00:36:37
 
@@ -1629,12 +1628,12 @@ Transcript Snippet: because he's now confirming he called her first.
 Anchored Artifacts: A-1429.2
 Mentions: N-190, N-2, N-159, N-3
 Related Nodes: N-10262, N-10338
-Supports: C-4953
+Supports: C-3025
 Investigative Direction: Compare to earlier accounts from Mikey McCoy or TPUSA about whom he called first.
 
 ---
 
-**C-4958** Rob McCoy Answers That Young People Were Raised by Caesar and Blames Secularism in Schools
+**C-3032** Rob McCoy Answers That Young People Were Raised by Caesar and Blames Secularism in Schools
 
 Claim Timestamp: 00:39:46
 
@@ -1649,7 +1648,7 @@ Investigative Direction: Obtain the uncut event recording and a full transcript 
 
 ---
 
-**C-4959** Host Says Calvary Chapel Pastors Were Behind Many Attacks on Her and Tucker Carlson This Year
+**C-3033** Host Says Calvary Chapel Pastors Were Behind Many Attacks on Her and Tucker Carlson This Year
 
 Claim Timestamp: 00:40:39
 
@@ -1664,7 +1663,7 @@ Investigative Direction: Catalogue public statements by Calvary Chapel pastors a
 
 ---
 
-**C-4960** Host Says Netanyahu Is Involved in Calvary Chapel Churches and Promises to Cover It Tomorrow
+**C-3035** Host Says Netanyahu Is Involved in Calvary Chapel Churches and Promises to Cover It Tomorrow
 
 Claim Timestamp: 00:42:02
 
@@ -1679,7 +1678,7 @@ Investigative Direction: Check the next episode and Calvary Chapel public record
 
 ---
 
-**C-4961** Host Says Bob Coy of Fort Lauderdale Was in a Scandal Involving Sexual Abuse
+**C-3036** Host Says Bob Coy of Fort Lauderdale Was in a Scandal Involving Sexual Abuse
 
 Claim Timestamp: 00:42:02
 
@@ -1694,7 +1693,7 @@ Investigative Direction: Review court records and contemporaneous news reports o
 
 ---
 
-**C-4962** Host Says Charlie Told Tucker Carlson to Go Max and Donors Melted Down After the July Speech
+**C-3037** Host Says Charlie Told Tucker Carlson to Go Max and Donors Melted Down After the July Speech
 
 Claim Timestamp: 00:45:45
 
@@ -1705,12 +1704,12 @@ Transcript Snippet: Charlie told Tucker Carlson to go Max. Tucker Carlson went M
 Anchored Artifacts: 
 Mentions: N-1, N-22, N-3
 Related Nodes: N-10047, N-10025
-Supports: C-1559, C-1560, C-1670
+Supports: C-2121, C-2122, C-2655
 Investigative Direction: Review the video of Tucker Carlson's July 2025 speech and donor accounts of the reaction.
 
 ---
 
-**C-4963** Host Says Megyn Kelly Has Clear Mic'd Footage and Audio of the Donors Who Freaked Out
+**C-3038** Host Says Megyn Kelly Has Clear Mic'd Footage and Audio of the Donors Who Freaked Out
 
 Claim Timestamp: 00:45:45
 
@@ -1721,12 +1720,12 @@ Transcript Snippet: Obviously, Megyn Kelly happened to have that footage, but th
 Anchored Artifacts: A-2721.1
 Mentions: N-46, N-1, N-22, N-3
 Related Nodes: N-10047
-Supports: C-1670
+Supports: C-2655
 Investigative Direction: Ask Megyn Kelly's team whether the donor audio exists and obtain it.
 
 ---
 
-**C-4964** Host Names Joyce Churnick as the Woman Who Yelled and Took Away a Million Dollars After Tucker's Speech
+**C-3039** Host Names Joyce Churnick as the Woman Who Yelled and Took Away a Million Dollars After Tucker's Speech
 
 Claim Timestamp: 00:45:45
 
@@ -1741,7 +1740,7 @@ Investigative Direction: Confirm the donor's name spelling and the donation amou
 
 ---
 
-**C-4965** Host Says She Has an Indication Why the Egyptian Planes Followed Erika Kirk
+**C-3040** Host Says She Has an Indication Why the Egyptian Planes Followed Erika Kirk
 
 Claim Timestamp: 00:49:25
 
@@ -1752,12 +1751,12 @@ Transcript Snippet: I have an indication as to why. Uh, of course, I want to tho
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10253, N-10496
-Supports: C-1720
+Supports: C-2917
 Investigative Direction: Watch for the follow-up disclosure and test it against the documented flight overlaps.
 
 ---
 
-**C-4966** Host Says JFK Tried to End the Israel Exception to Foreign Agent Registration and Was Shot
+**C-3041** Host Says JFK Tried to End the Israel Exception to Foreign Agent Registration and Was Shot
 
 Claim Timestamp: 00:49:25
 
@@ -1772,7 +1771,7 @@ Investigative Direction: Review historical records of the Kennedy administration
 
 ---
 
-**C-4967** Host Says Federal Government Escorted the Plane and Everyone Played Dumb When She Raised It
+**C-3042** Host Says Federal Government Escorted the Plane and Everyone Played Dumb When She Raised It
 
 Claim Timestamp: 00:51:06
 
@@ -1783,12 +1782,12 @@ Transcript Snippet: the federal government would escort it and then everyone wou
 Anchored Artifacts: A-2715.1
 Mentions: N-3
 Related Nodes: N-10260, N-10253
-Supports: C-4918
+Supports: C-2985
 Investigative Direction: Identify which officials were asked about the flight and the content of their responses.
 
 ---
 
-**C-4968** Host Says Viewer Tips Report Many Vehicles at the Alleged Shooter's Home the Week Before
+**C-3043** Host Says Viewer Tips Report Many Vehicles at the Alleged Shooter's Home the Week Before
 
 Claim Timestamp: 00:51:06
 
@@ -1803,7 +1802,7 @@ Investigative Direction: Interview neighbors and request Ring or doorbell footag
 
 ---
 
-**C-4969** Host Asks for Footage of the Five Rental Vehicles Between September 4 and September 10
+**C-3044** Host Asks for Footage of the Five Rental Vehicles Between September 4 and September 10
 
 Claim Timestamp: 00:51:51
 
@@ -1818,7 +1817,7 @@ Investigative Direction: Collect and verify any submitted doorbell or traffic fo
 
 ---
 
-**C-4970** Host Says She Saw an X Clip of Tim P Saying People Investigate for Clicks
+**C-3045** Host Says She Saw an X Clip of Tim P Saying People Investigate for Clicks
 
 Claim Timestamp: 00:51:51
 
@@ -1833,7 +1832,7 @@ Investigative Direction: Locate the clip on X, its date and full context.
 
 ---
 
-**C-4971** Host Says Selling T-Shirts of What Charlie Died in Made $70 Million
+**C-3046** Host Says Selling T-Shirts of What Charlie Died in Made $70 Million
 
 Claim Timestamp: 00:52:52
 
@@ -1848,7 +1847,7 @@ Investigative Direction: Identify who sold the shirts and verify the $70 million
 
 ---
 
-**C-4972** Host Says She Has Not Sold Anything With Charlie's Face or Name
+**C-3047** Host Says She Has Not Sold Anything With Charlie's Face or Name
 
 Claim Timestamp: 00:52:52
 
@@ -1863,7 +1862,7 @@ Investigative Direction: Review the host's online store inventory for items bear
 
 ---
 
-**C-4973** Host Says Unsigned Copies of Her Book Are Available at Make Him a Sandwich Dot Com
+**C-3048** Host Says Unsigned Copies of Her Book Are Available at Make Him a Sandwich Dot Com
 
 Claim Timestamp: 00:52:52
 
@@ -1878,7 +1877,7 @@ Investigative Direction: Check the site for unsigned copies and the listing.
 
 ---
 
-**C-4974** Host Previews a Picture Explaining Why SU-BND May Have Transponded Without Moving at Duncan Aviation
+**C-3049** Host Previews a Picture Explaining Why SU-BND May Have Transponded Without Moving at Duncan Aviation
 
 Claim Timestamp: 00:54:21
 
@@ -1889,7 +1888,7 @@ Transcript Snippet: as we take a look at this picture of why this SU-BND jet mig
 Anchored Artifacts: 
 Mentions: N-3, N-260
 Related Nodes: N-10208, N-10549
-Supports: C-1719
+Supports: C-2924
 Investigative Direction: Watch the next episode for the picture and test it against ADS-B and FBO records.
 
 ---
@@ -2052,7 +2051,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1739*
+*Related: C-3028*
 
 ### People
 
@@ -2062,7 +2061,7 @@ Cluster of five rental vehicles identified by plate (A-1425.x); alleged connecti
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: High
-- *Related: A-1425.1–A-1425.5, C-1735*
+- *Related: A-1425.1–A-1425.5, C-2989*
 
 **N-10260** Federal Military Aircraft Escort Protocol Verification
 Claim by host (citing "a high government source") that foreign military jets cannot land on U.S. soil without federal escort and tracking. No documentary artifact supplied.
@@ -2079,7 +2078,7 @@ Reports by a UVU student (and reportedly a professor) of a man on the Losee Cent
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1426.1, A-1427.1, C-1736*
+- *Related: A-1426.1, A-1427.1, C-2995*
 
 **N-10262** Post-Shooting Phone Call Timing Sequence
 Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his mother (A-1429.2) and his narrative in A-1429.1 about Mikey McCoy's calls to Erika and to Rob McCoy.
@@ -2087,7 +2086,7 @@ Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his 
 - Claim Count: 2
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1429.1, A-1429.2, C-1738, C-1739*
+- *Related: A-1429.1, A-1429.2, C-3021, C-3028*
 
 **N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
@@ -2095,7 +2094,7 @@ The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assas
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: High
-- *Related: A-1434.1, C-1744*
+- *Related: A-1434.1, C-3009*
 
 **N-10264** Calvary Chapel Pro-Israel Coordination
 Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magazine's "Stand with Israel" / "Why Jews are hated" framing (A-1431.1).
@@ -2103,6 +2102,6 @@ Convergence of Rob McCoy's Jerusalem remarks (A-1430.1) and Calvary Chapel magaz
 - Claim Count: 1
 - Episode Count: 1
 - Investigative Pressure: Medium
-- *Related: A-1430.1, A-1431.1, C-1740, C-1741*
+- *Related: A-1430.1, A-1431.1, C-3031, C-3034*
 
 ---

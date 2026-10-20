@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-640, N-642, N-643, N-644, N-645, N-646, N-647, N-10945, N-10946, N-10947
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-22, N-27, N-30, N-36, N-69, N-82, N-101, N-159, N-160, N-163, N-201, N-209, N-213, N-224, N-266, N-317, N-341, N-361, N-130, N-437, N-580, N-592, N-594, N-632, N-10000, N-10068, N-10070, N-10075, N-10083, N-10270, N-10367, N-10373, N-10538, N-10546, N-10551, N-10605, N-10637, N-10643, N-10664, N-10666, N-10700, N-10916, N-10923, N-10671, N-10887, N-641, N-639
-  - Claim Range: C-4267–C-4321
+  - Claim Range: C-9543–C-9597
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4267, N-632, N-82, N-10945*
+*Related: C-9543, N-632, N-82, N-10945*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:06:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4274, C-4275, N-10068, N-10700, N-10923, N-592*
+*Related: C-9550, C-9551, N-10068, N-10700, N-10923, N-592*
 
 **A-2610.2** Host verbal reference to the White House's denial and her follow-up email copying Steven Cheung (not shown)
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:05:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4271, C-4272, C-4273, N-160, N-10923*
+*Related: C-9547, C-9548, C-9549, N-160, N-10923*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:09:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4280, C-4281, C-4282, C-4284, N-10671, N-69*
+*Related: C-9556, C-9557, C-9558, C-9560, N-10671, N-69*
 
 **A-2611.2** Host verbal reference to Pete Hegseth's September 9 schedule and photographs of his meeting with Singapore's Minister of Defense (not shown)
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:12:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4283, N-592*
+*Related: C-9559, N-592*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:13:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4286, N-640, N-592*
+*Related: C-9562, N-640, N-592*
 
 **A-2612.2** Gabrielle Cuccia's X thread on Vine & Fig Tree (read aloud)
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:15:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4287, C-4288, C-4289, C-4290, C-4291, C-4292, C-4293, C-4294, C-4295, C-4296, C-4297, C-4298, C-4300, C-4301, C-4302, N-640, N-641, N-642, N-10946, N-10947*
+*Related: C-9563, C-9564, C-9565, C-9566, C-9567, C-9568, C-9569, C-9570, C-9571, C-9572, C-9573, C-9574, C-9576, C-9577, C-9578, N-640, N-641, N-642, N-10946, N-10947*
 
 **A-2612.3** Screenshots of the VFT Dropbox folders and documents posted by Cuccia (shown)
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:23:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4291, C-4301, N-640, N-10946*
+*Related: C-9567, C-9577, N-640, N-10946*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:30:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4304, N-3, N-30*
+*Related: C-9580, N-3, N-30*
 
 **A-2613.2** Natalie Jean Beisner's tweet about the host's daughter (shown)
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:31:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4304, N-646*
+*Related: C-9580, N-646*
 
 **A-2613.3** Natalie Jean Beisner's Instagram profile (shown)
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:31:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4305, C-4306, N-646*
+*Related: C-9581, C-9582, N-646*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:37:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4312, N-14, N-159, N-580, N-1*
+*Related: C-9588, N-14, N-159, N-580, N-1*
 
 **A-2614.2** Raphael Schreiber's tweet to Andrew Kolvet (read aloud)
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:39:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4313, C-4314, N-647, N-14, N-580, N-10538*
+*Related: C-9589, C-9590, N-647, N-14, N-580, N-10538*
 
 ---
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:45:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4317, N-2, N-341*
+*Related: C-9593, N-2, N-341*
 
 **A-2615.2** Viewer comment (Sean Kadkhoui) asking about the leaker to Erika Kirk from Kanye West's circle (read aloud)
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:46:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4318, N-2, N-27*
+*Related: C-9594, N-2, N-27*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:07:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4276, N-82, N-10270*
+*Related: C-9552, N-82, N-10270*
 
 **A-2616.2** Host verbal reference to Brian Harpole's lawsuit on why he did the Shawn Ryan interview (not shown)
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:08:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4277, N-266, N-224*
+*Related: C-9553, N-266, N-224*
 
 ---
 
@@ -244,394 +244,394 @@ Confidence Level: Low
 
 The VFT report attributes distrust of his assassination narrative to foreign propaganda. Kolvet and Neff speak for his private views on Thomas Massie, and the host cites his September 9 message abandoning the pro-Israel cause.
 
-*Related: C-4294, C-4295, C-4308, C-4310, C-4311, C-4312, C-4315, A-2614.1*
+*Related: C-9570, C-9571, C-9584, C-9586, C-9587, C-9588, C-9591, A-2614.1*
 
 **N-2** Erika Kirk
 
 Subject of the "I Want to Go Home" amplification email, the alleged AI appointment video, and viewer comments on Victor Marx and a leaker in Kanye West's circle.
 
-*Related: C-4270, C-4278, C-4308, C-4310, C-4317, C-4318, A-2615.1, A-2615.2*
+*Related: C-9546, C-9554, C-9584, C-9586, C-9593, C-9594, A-2615.1, A-2615.2*
 
 **N-3** Candace Owens
 
 Host; pursues FOIA requests and is named in the VFT reports. She disputes statements about herself in lawsuit filings and responds to a tweet about her daughter.
 
-*Related: C-4272, C-4276, C-4277, C-4279, C-4285, C-4292, C-4298, C-4304, C-4315, A-2613.1*
+*Related: C-9548, C-9552, C-9553, C-9555, C-9561, C-9568, C-9574, C-9580, C-9591, A-2613.1*
 
 **N-4** JD Vance
 
 Transcript spelling "J. D. Vance". The VFT data reportedly compiles information about his 2028 run.
 
-*Related: C-4300*
+*Related: C-9576*
 
 **N-5** Donald Trump
 
 The host refers to repeated assassination attempts on him and alleges insider trading around his announcements and meme coins.
 
-*Related: C-4268, C-4269, C-4320*
+*Related: C-9544, C-9545, C-9596*
 
 **N-14** Andrew Kolvet
 
 Says on The Charlie Kirk Show that Charlie Kirk was privately frustrated with Thomas Massie. Raphael Schreiber's tweet says he had apologized to Massie's office in March.
 
-*Related: C-4311, C-4313, C-4314, A-2614.1, A-2614.2*
+*Related: C-9587, C-9589, C-9590, A-2614.1, A-2614.2*
 
 **N-22** Tucker Carlson
 
 Named among the accounts profiled in the VFT reports.
 
-*Related: C-4292*
+*Related: C-9568*
 
 **N-27** Kanye West
 
 Referred to as "Kanye". A viewer asks about a leaker to Erika Kirk from his circle.
 
-*Related: C-4318, A-2615.2*
+*Related: C-9594, A-2615.2*
 
 **N-30** George (Candace's husband)
 
 Appears in the host's Messi jersey tweet ("Husband, it's a Messi jersey").
 
-*Related: C-4304, A-2613.1*
+*Related: C-9580, A-2613.1*
 
 **N-36** Benjamin Netanyahu
 
 Referred to as "BB"; the host says he went on Fox News the day after the assassination and said he did not kill Charlie Kirk.
 
-*Related: C-4316*
+*Related: C-9592*
 
 **N-69** Kash Patel
 
 The host says there is no indication of where he was on September 9 and links the SAM plane to Las Vegas, where he is from.
 
-*Related: C-4284, A-2611.1*
+*Related: C-9560, A-2611.1*
 
 **N-82** Brigitte Macron
 
 Her doll sits in the host's studio in the Hollywood Reporter headline. Her lawsuit filing is said to call the host a UK–US dual citizen.
 
-*Related: C-4267, C-4276, A-2609.1, A-2616.1*
+*Related: C-9543, C-9552, A-2609.1, A-2616.1*
 
 **N-101** Michael Knowles
 
 VFT internal comments reportedly contemplate getting him to publish on behalf of VFT.
 
-*Related: C-4296*
+*Related: C-9572*
 
 **N-159** Blake Neff
 
 Called "Blakey" in the host's countdown. On The Charlie Kirk Show he says Charlie Kirk would have grown more frustrated with Massie, including over Epstein.
 
-*Related: C-4308, C-4312, A-2614.1*
+*Related: C-9584, C-9588, A-2614.1*
 
 **N-160** Steven Cheung
 
 The host says she copied him on her follow-up to the White House and that he was copied on the original email.
 
-*Related: C-4273, A-2610.2*
+*Related: C-9549, A-2610.2*
 
 **N-163** Matt Walsh
 
 VFT internal comments reportedly contemplate getting him to publish on behalf of VFT.
 
-*Related: C-4296*
+*Related: C-9572*
 
 **N-201** Nick Fuentes
 
 Profiled in the VFT reports; internal comments reportedly suggest undermining his Christian identity.
 
-*Related: C-4292, C-4296*
+*Related: C-9568, C-9572*
 
 **N-209** Joe Kent
 
 VFT collected polling on his resignation; the host says TPUSA joined in smearing him as a leaker.
 
-*Related: C-4293, C-4299*
+*Related: C-9569, C-9575*
 
 **N-213** Nick Shirley
 
 Named in the Cuccia thread; the host suggests he may be intentionally platformed.
 
-*Related: C-4290*
+*Related: C-9566*
 
 **N-224** Shawn Ryan
 
 Brian Harpole's interview on his podcast is cited in Harpole's lawsuit.
 
-*Related: C-4277, A-2616.2*
+*Related: C-9553, A-2616.2*
 
 **N-266** Brian Harpole
 
 His lawsuit, alibi flight and the Fort Huachuca sighting by Mitch Snow are revisited.
 
-*Related: C-4277, C-4278, C-4279, C-4281, A-2616.2*
+*Related: C-9553, C-9554, C-9555, C-9557, A-2616.2*
 
 **N-317** Hodge Twins
 
 Named among the accounts profiled in the VFT reports.
 
-*Related: C-4292*
+*Related: C-9568*
 
 **N-341** Victor Marx
 
 Transcript spelling "Victor Marx". A viewer comment says he and Erika Kirk are close.
 
-*Related: C-4317, A-2615.1*
+*Related: C-9593, A-2615.1*
 
 **N-361** Mitch Snow
 
 His account of seeing Brian Harpole at Fort Huachuca is restated; the host says she confirmed his presence but not his identification.
 
-*Related: C-4278, C-4279*
+*Related: C-9554, C-9555*
 
 **N-130** Ian Carroll
 
 Named among the accounts profiled in the VFT reports.
 
-*Related: C-4292*
+*Related: C-9568*
 
 **N-437** Johnnie Moore
 
 Named by the host as on the NCRI "Christ is King" report.
 
-*Related: C-4298*
+*Related: C-9574*
 
 **N-580** Thomas Massie
 
 Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schreiber tweet and the AIPAC spending allegation.
 
-*Related: C-4310, C-4311, C-4312, C-4313, C-4314, C-4319, A-2614.1, A-2614.2*
+*Related: C-9586, C-9587, C-9588, C-9589, C-9590, C-9595, A-2614.1, A-2614.2*
 
 **N-592** Pete Hegseth
 
 The host says the NSA redirected her FOIA to his office. She rules him out of the SAM 702 flight because of his Singapore meeting, and Cuccia criticized his Pentagon press rules.
 
-*Related: C-4275, C-4282, C-4283, C-4286, A-2610.1, A-2611.1, A-2611.2, A-2612.1*
+*Related: C-9551, C-9558, C-9559, C-9562, A-2610.1, A-2611.1, A-2611.2, A-2612.1*
 
 **N-594** Jordan Peterson
 
 Named by the host as on the NCRI "Christ is King" report.
 
-*Related: C-4298*
+*Related: C-9574*
 
 **N-10000** Turning Point USA
 
 Accused by the host of using "the ghost of Charlie Kirk" against Massie and of offering private screenings of the alleged AI video.
 
-*Related: C-4299, C-4308, C-4309, C-4313, C-4314, C-4315*
+*Related: C-9575, C-9584, C-9585, C-9589, C-9590, C-9591*
 
 **N-10068** NSA
 
 First agency to respond to the host's FOIA request, redirecting it to the Office of the Secretary of War and/or the Joint Staff.
 
-*Related: C-4274, A-2610.1*
+*Related: C-9550, A-2610.1*
 
 **N-10070** Daily Mail
 
 The host says TPUSA has been reaching out to Daily Mail reporters about the alleged AI video.
 
-*Related: C-4309*
+*Related: C-9585*
 
 **N-10075** White House
 
 Site of the weekend shooting incident and of the VFT meeting with Sebastian Gorka.
 
-*Related: C-4269, C-4287*
+*Related: C-9545, C-9563*
 
 **N-10083** AIPAC
 
 The host says AIPAC spent money to remove Thomas Massie.
 
-*Related: C-4319*
+*Related: C-9595*
 
 **N-10270** Macron Defamation Lawsuit Delaware Venue Question
 
 Linked to the host's statement that Brigitte Macron's filing wrongly calls her a dual citizen.
 
-*Related: C-4276, A-2616.1*
+*Related: C-9552, A-2616.1*
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's account, which the host says she confirmed apart from his identification of Harpole.
 
-*Related: C-4278, C-4279*
+*Related: C-9554, C-9555*
 
 **N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 The host restates that she still cannot confirm Snow's identification of Harpole.
 
-*Related: C-4278, C-4279*
+*Related: C-9554, C-9555*
 
 **N-10538** Turning Point Action / Thomas Massie Disavowal Incident
 
 Schreiber's tweet says Kolvet blamed the RINO video on an intern and apologized.
 
-*Related: C-4313, C-4314, A-2614.2*
+*Related: C-9589, C-9590, A-2614.2*
 
 **N-10546** Joe Kent Resignation Aftermath Pattern
 
 VFT reportedly collected polling and response data around Kent's resignation.
 
-*Related: C-4293*
+*Related: C-9569*
 
 **N-10551** Joe Kent Leak Accusation Chain
 
 The host says Kent is being called a leaker for investigating the assassination.
 
-*Related: C-4299*
+*Related: C-9575*
 
 **N-10605** Erika Kirk–Victor Marx Relationship Verification
 
 A viewer comment asserts the two are close.
 
-*Related: C-4317*
+*Related: C-9593*
 
 **N-10637** WHCD Incident Reconstruction
 
 The White House Correspondents' Dinner shooting is the context for the amplification email and the host's FOIA requests.
 
-*Related: C-4270, C-4271*
+*Related: C-9546, C-9547*
 
 **N-10643** Harpole Fort Huachuca Alibi Question
 
 The host restates Harpole's 2:30 p.m. Texas–Salt Lake City alibi flight and offers the SAM plane as an alternative.
 
-*Related: C-4281*
+*Related: C-9557*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 The host's countdown asks TPUSA to release the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO, whose audio was played at AmFest.
 
-*Related: C-4308, C-4309, C-4310*
+*Related: C-9584, C-9585, C-9586*
 
 **N-10666** Nick Shirley Background and Backing Verification
 
 The host suggests Shirley's naming in the Cuccia thread points to outside platforming.
 
-*Related: C-4290*
+*Related: C-9566*
 
 **N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The host recaps the SAM 702 route and timing and says she has filed a FOIA request about who was aboard.
 
-*Related: C-4280, C-4282, C-4283, C-4284, C-4285, A-2611.1*
+*Related: C-9556, C-9558, C-9559, C-9560, C-9561, A-2611.1*
 
 **N-10700** Pending FOIA Requests
 
 The NSA's redirect and the new SAM 702 request are added to the host's FOIA trail.
 
-*Related: C-4274, C-4285, A-2610.1*
+*Related: C-9550, C-9561, A-2610.1*
 
 **N-10815** NCRI Report Provenance and Authorship
 
 The host names NCRI as a group VFT suggested collaborating with and as the author of the "Christ is King" report featuring her face.
 
-*Related: C-4297, C-4298*
+*Related: C-9573, C-9574*
 
 **N-10887** Las Vegas
 
 The host says the SAM plane flies around Las Vegas, where Kash Patel is from.
 
-*Related: C-4284*
+*Related: C-9560*
 
 **N-632** Hunter Biden
 
 First named by the host at 00:00:01 in episode 109. Guest on the host's previous episode; the subject of the Hollywood Reporter headline.
 
-*Related: C-4267, A-2609.1*
+*Related: C-9543, A-2609.1*
 
 **N-639** Ryan Routh
 
 First named by the host at 00:02:27 in episode 109. The would-be assassin in the golf-course attempt on Donald Trump. Aliases: Ryan Ruth (transcript spelling).
 
-*Related: C-4268*
+*Related: C-9544*
 
 **N-640** Gabrielle Cuccia
 
 First named by the host at 00:13:30 in episode 109. Former Pentagon chief correspondent ("Gabby") who published the X thread on Vine & Fig Tree. Aliases: Gabrielle Cuccia.
 
-*Related: C-4286, C-4287, C-4288, C-4289, C-4291, C-4301, C-4302, A-2612.1, A-2612.2, A-2612.3*
+*Related: C-9562, C-9563, C-9564, C-9565, C-9567, C-9577, C-9578, A-2612.1, A-2612.2, A-2612.3*
 
 **N-641** Sebastian Gorka
 
 First named by the host at 00:15:42 in episode 109. White House official who, per the Cuccia thread, met VFT at the White House and for whom the AI video was to be made.
 
-*Related: C-4287, C-4288, C-4289, C-4302, C-4303, A-2612.2*
+*Related: C-9563, C-9564, C-9565, C-9578, C-9579, A-2612.2*
 
 **N-642** Shawn Chenoweth
 
 First named by the host at 00:15:42 in episode 109. Described by the host as director of cognitive advantage at the National Security Council and identified by Cuccia, per the host, as the third party who contacted her.
 
-*Related: C-4288, A-2612.2*
+*Related: C-9564, A-2612.2*
 
 **N-643** Jackson Hinkle
 
 First named by the host at 00:17:38 in episode 109. Named among the accounts profiled in the VFT reports.
 
-*Related: C-4292*
+*Related: C-9568*
 
 **N-644** Mario Nawfal
 
 First named by the host at 00:17:38 in episode 109. Named among the accounts profiled in the VFT reports.
 
-*Related: C-4292*
+*Related: C-9568*
 
 **N-645** Joel Finkelstein
 
 First named by the host at 00:21:20 in episode 109. Named in the Cuccia thread as founder of NCRI.
 
-*Related: C-4297*
+*Related: C-9573*
 
 **N-646** Natalie Jean Beisner
 
 First named by the host at 00:30:23 in episode 109. Posted the tweet about the host's 3-year-old daughter; the host describes her as an actress. Aliases: Natalie Beisner.
 
-*Related: C-4304, C-4305, C-4306, A-2613.2, A-2613.3*
+*Related: C-9580, C-9581, C-9582, A-2613.2, A-2613.3*
 
 **N-647** Raphael Schreiber
 
 First named by the host at 00:39:16 in episode 109. Described as legislative director for Thomas Massie; tweeted at Andrew Kolvet about the March 12, 2026 apology call.
 
-*Related: C-4313, C-4314, A-2614.2*
+*Related: C-9589, C-9590, A-2614.2*
 
 **N-10945** The Hollywood Reporter
 
 Node Type: Organization
 Entertainment trade publication that ran the headline "How Hunter Biden ended up in Candace Owens' home studio next to her Brigitte Macron doll," which the host shows at the top of the episode.
 
-*Related: C-4267, A-2609.1, N-632*
+*Related: C-9543, A-2609.1, N-632*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the internal email that, according to the host, asked for Erika Kirk's "I Want to Go Home" clip from the night of the White House Correspondents' Dinner shooting to be artificially boosted. The host says it described her as an emotional asset, sought to make the clip number one overnight and asked for surrogates to push it, about an hour after the shooting. The White House denied only that the White House Military Office drafted it, and the NSA redirected the host's FOIA request to the Office of the Secretary of War and/or the Joint Staff.
 
-*Related: C-4270, C-4271, C-4272, C-4273, C-4274, C-4275, A-2610.1, A-2610.2, N-160, N-2*
+*Related: C-9546, C-9547, C-9548, C-9549, C-9550, C-9551, A-2610.1, A-2610.2, N-160, N-2*
 
 **N-10946** Vine & Fig Tree
 
 Node Type: Organization
 Pro-Israel organization ("VFT") that Gabrielle Cuccia says has ties to the administration and met Sebastian Gorka at the White House. According to her thread, it commissioned a script for an AI-generated video for the NSC and kept reports profiling conservative and dissident-right accounts as susceptible to foreign influence. Its Dropbox reportedly held material on burner profiles, burner ad accounts, troll content briefs and audience segmentation.
 
-*Related: C-4287, C-4288, C-4289, C-4291, C-4292, C-4293, C-4294, C-4295, C-4296, C-4297, C-4300, C-4301, A-2612.2, A-2612.3, N-640, N-641*
+*Related: C-9563, C-9564, C-9565, C-9567, C-9568, C-9569, C-9570, C-9571, C-9572, C-9573, C-9576, C-9577, A-2612.2, A-2612.3, N-640, N-641*
 
 **N-10947** National Security Council
 
 Node Type: Organization
 The host says Shawn Chenoweth is its director of cognitive advantage. According to Cuccia's thread, the VFT AI-generated video was to be made on behalf of the NSC and Sebastian Gorka.
 
-*Related: C-4288, C-4289, A-2612.2, N-642*
+*Related: C-9564, C-9565, A-2612.2, N-642*
 
 **N-10916** Thomas Massie Kentucky Primary Outside Spending
 
 Node Type: Topic
 Investigation target: the outside money the host says AIPAC spent to remove Thomas Massie, whom the host implies lost his race. Also includes TPUSA's public and private positions on the race.
 
-*Related: C-4319, N-580, N-10083*
+*Related: C-9595, N-580, N-10083*
 
 ## 5. Claim Register
 
-**C-4267** Hollywood Reporter ran a headline on Hunter Biden in the host's studio next to her Brigitte Macron doll
+**C-9543** Hollywood Reporter ran a headline on Hunter Biden in the host's studio next to her Brigitte Macron doll
 
 Claim Timestamp: 00:00:01
 
@@ -646,7 +646,7 @@ Investigative Direction: Locate the Hollywood Reporter article by its headline a
 
 ---
 
-**C-4268** Second assassination attempt on Trump took place on a golf course, by Ryan Routh
+**C-9544** Second assassination attempt on Trump took place on a golf course, by Ryan Routh
 
 Claim Timestamp: 00:02:27
 
@@ -661,7 +661,7 @@ Investigative Direction: Federal charging documents and trial record in the Ryan
 
 ---
 
-**C-4269** Another White House shooting incident this weekend; the perpetrator fired and was killed
+**C-9545** Another White House shooting incident this weekend; the perpetrator fired and was killed
 
 Claim Timestamp: 00:03:18
 
@@ -676,7 +676,7 @@ Investigative Direction: Secret Service and Metropolitan Police incident reports
 
 ---
 
-**C-4270** Internal email requested artificial boosting of Erika Kirk's "I Want to Go Home" clip about an hour after the shooting
+**C-9546** Internal email requested artificial boosting of Erika Kirk's "I Want to Go Home" clip about an hour after the shooting
 
 Claim Timestamp: 00:04:25
 
@@ -691,7 +691,7 @@ Investigative Direction: Obtain the email and its distribution list and headers 
 
 ---
 
-**C-4271** White House denied only that the White House Military Office drafted the email
+**C-9547** White House denied only that the White House Military Office drafted the email
 
 Claim Timestamp: 00:05:12
 
@@ -706,7 +706,7 @@ Investigative Direction: The White House press office's written reply to the hos
 
 ---
 
-**C-4272** Multiple DOD offices have access to the distribution lists
+**C-9548** Multiple DOD offices have access to the distribution lists
 
 Claim Timestamp: 00:05:12
 
@@ -721,7 +721,7 @@ Investigative Direction: DOD and White House Communications Agency documentation
 
 ---
 
-**C-4273** Steven Cheung was copied on the original email and did not answer the follow-up
+**C-9549** Steven Cheung was copied on the original email and did not answer the follow-up
 
 Claim Timestamp: 00:05:12
 
@@ -736,7 +736,7 @@ Investigative Direction: The host's sent follow-up and any White House reply; th
 
 ---
 
-**C-4274** NSA responded to the FOIA request by redirecting it to the Office of the Secretary of War and/or the Joint Staff
+**C-9550** NSA responded to the FOIA request by redirecting it to the Office of the Secretary of War and/or the Joint Staff
 
 Claim Timestamp: 00:06:15
 
@@ -751,7 +751,7 @@ Investigative Direction: The NSA FOIA response letter and case number, and the t
 
 ---
 
-**C-4275** Host reads the NSA redirect as pointing to Pete Hegseth's office
+**C-9551** Host reads the NSA redirect as pointing to Pete Hegseth's office
 
 Claim Timestamp: 00:07:05
 
@@ -766,7 +766,7 @@ Investigative Direction: The Office of the Secretary of War's eventual FOIA resp
 
 ---
 
-**C-4276** Host denies being a UK–US dual citizen as stated in Brigitte Macron's lawsuit filing
+**C-9552** Host denies being a UK–US dual citizen as stated in Brigitte Macron's lawsuit filing
 
 Claim Timestamp: 00:07:53
 
@@ -781,7 +781,7 @@ Investigative Direction: The Macron complaint's party-citizenship allegations in
 
 ---
 
-**C-4277** Host says she never mentioned Harpole until 2 days after his viral Shawn Ryan interview, contrary to his lawsuit
+**C-9553** Host says she never mentioned Harpole until 2 days after his viral Shawn Ryan interview, contrary to his lawsuit
 
 Claim Timestamp: 00:08:43
 
@@ -792,12 +792,12 @@ Transcript Snippet: when I had never so much as mentioned Brian Harpole on the s
 Anchored Artifacts: A-2616.2
 Mentions: N-266, N-224, N-3
 Related Nodes:
-Supports: C-2817
+Supports: C-8658
 Investigative Direction: Compare the host's episode archive dates with the Shawn Ryan Show release date for the Harpole interview and the lawsuit's allegations.
 
 ---
 
-**C-4278** Mitch Snow says he saw Brian Harpole walking out of a meeting at Fort Huachuca
+**C-9554** Mitch Snow says he saw Brian Harpole walking out of a meeting at Fort Huachuca
 
 Claim Timestamp: 00:08:43
 
@@ -812,7 +812,7 @@ Investigative Direction: Fort Huachuca visitor and meeting attendance logs for S
 
 ---
 
-**C-4279** Host confirmed Snow's presence and the police call but not his identification
+**C-9555** Host confirmed Snow's presence and the police call but not his identification
 
 Claim Timestamp: 00:09:42
 
@@ -827,7 +827,7 @@ Investigative Direction: Fort Huachuca military police call logs and the attende
 
 ---
 
-**C-4280** Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.
+**C-9556** Air Force plane left Fort Huachuca at 11:43 a.m. on September 9 and landed in El Paso at 1:31 p.m.
 
 Claim Timestamp: 00:09:42
 
@@ -842,7 +842,7 @@ Investigative Direction: ADS-B and FAA flight records for the aircraft using cal
 
 ---
 
-**C-4281** Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City
+**C-9557** Harpole's alibi was a 2:30 p.m. flight from Texas to Salt Lake City
 
 Claim Timestamp: 00:09:42
 
@@ -857,7 +857,7 @@ Investigative Direction: Airline manifest and boarding records for Harpole's Sep
 
 ---
 
-**C-4282** The plane then flew El Paso to Andrews using call sign SAM 702
+**C-9558** The plane then flew El Paso to Andrews using call sign SAM 702
 
 Claim Timestamp: 00:10:53
 
@@ -872,7 +872,7 @@ Investigative Direction: USAF 89th Airlift Wing mission records and passenger ma
 
 ---
 
-**C-4283** Pete Hegseth was in Washington at 3:00 p.m. on September 9 greeting Singapore's Minister of Defense
+**C-9559** Pete Hegseth was in Washington at 3:00 p.m. on September 9 greeting Singapore's Minister of Defense
 
 Claim Timestamp: 00:12:02
 
@@ -887,7 +887,7 @@ Investigative Direction: The Department of War public schedule and photos of the
 
 ---
 
-**C-4284** No indication where Kash Patel was on September 9
+**C-9560** No indication where Kash Patel was on September 9
 
 Claim Timestamp: 00:12:02
 
@@ -902,7 +902,7 @@ Investigative Direction: FBI Director public schedule and travel records for Sep
 
 ---
 
-**C-4285** Host filed a FOIA request about the SAM flight
+**C-9561** Host filed a FOIA request about the SAM flight
 
 Claim Timestamp: 00:12:46
 
@@ -917,7 +917,7 @@ Investigative Direction: The FOIA request and its tracking number with the Air F
 
 ---
 
-**C-4286** Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules
+**C-9562** Gabrielle Cuccia was fired as Pentagon chief correspondent after criticizing Hegseth's press rules
 
 Claim Timestamp: 00:13:30
 
@@ -932,7 +932,7 @@ Investigative Direction: Cuccia's employer's statement on her departure and the 
 
 ---
 
-**C-4287** Cuccia: VFT is a pro-Israel organization that met Sebastian Gorka at the White House
+**C-9563** Cuccia: VFT is a pro-Israel organization that met Sebastian Gorka at the White House
 
 Claim Timestamp: 00:15:42
 
@@ -947,7 +947,7 @@ Investigative Direction: White House visitor logs for VFT representatives and Go
 
 ---
 
-**C-4288** Cuccia was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT
+**C-9564** Cuccia was asked through a third party, identified as NSC's Shawn Chenoweth, to script write for VFT
 
 Claim Timestamp: 00:15:42
 
@@ -962,7 +962,7 @@ Investigative Direction: NSC staff directory for a director of cognitive advanta
 
 ---
 
-**C-4289** The script was for an AI-generated video on behalf of the White House, NSC and Gorka
+**C-9565** The script was for an AI-generated video on behalf of the White House, NSC and Gorka
 
 Claim Timestamp: 00:16:30
 
@@ -977,7 +977,7 @@ Investigative Direction: Cuccia's correspondence with the third party and any pu
 
 ---
 
-**C-4290** Cuccia thread names Nick Shirley as having benefited from the same approach
+**C-9566** Cuccia thread names Nick Shirley as having benefited from the same approach
 
 Claim Timestamp: 00:16:30
 
@@ -992,7 +992,7 @@ Investigative Direction: The full Cuccia thread text and any VFT documents refer
 
 ---
 
-**C-4291** Cuccia was given a Dropbox of VFT research with seven folders
+**C-9567** Cuccia was given a Dropbox of VFT research with seven folders
 
 Claim Timestamp: 00:16:30
 
@@ -1007,7 +1007,7 @@ Investigative Direction: Authenticate the Dropbox contents and metadata (authors
 
 ---
 
-**C-4292** VFT reports profile dissident-right accounts, including the host, as vulnerable to foreign influence
+**C-9568** VFT reports profile dissident-right accounts, including the host, as vulnerable to foreign influence
 
 Claim Timestamp: 00:17:38
 
@@ -1022,7 +1022,7 @@ Investigative Direction: The VFT reports in the Dropbox folders and their stated
 
 ---
 
-**C-4293** VFT collected polling on Joe Kent's resignation
+**C-9569** VFT collected polling on Joe Kent's resignation
 
 Claim Timestamp: 00:17:38
 
@@ -1037,7 +1037,7 @@ Investigative Direction: The Joe Kent polling file in the VFT Dropbox and the po
 
 ---
 
-**C-4294** VFT report blames distrust of the Kirk assassination narrative on Russian, Iranian and Pakistani propaganda
+**C-9570** VFT report blames distrust of the Kirk assassination narrative on Russian, Iranian and Pakistani propaganda
 
 Claim Timestamp: 00:17:38
 
@@ -1052,7 +1052,7 @@ Investigative Direction: The Charlie Kirk report in the VFT Dropbox and the data
 
 ---
 
-**C-4295** VFT Kirk report calls the distrust "an urgent national security threat"
+**C-9571** VFT Kirk report calls the distrust "an urgent national security threat"
 
 Claim Timestamp: 00:18:21
 
@@ -1067,7 +1067,7 @@ Investigative Direction: The exact passage in the VFT report and whether any gov
 
 ---
 
-**C-4296** VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish
+**C-9572** VFT internal comments: undermine Fuentes's Christian identity; get Matt Walsh or Michael Knowles to publish
 
 Claim Timestamp: 00:21:20
 
@@ -1082,7 +1082,7 @@ Investigative Direction: The internal comment threads in the Dropbox and any out
 
 ---
 
-**C-4297** VFT comments suggest collaborating with NCRI, founded by Joel Finkelstein
+**C-9573** VFT comments suggest collaborating with NCRI, founded by Joel Finkelstein
 
 Claim Timestamp: 00:21:20
 
@@ -1097,7 +1097,7 @@ Investigative Direction: NCRI's corporate records and any partnership or contact
 
 ---
 
-**C-4298** NCRI published the "Christ is King" report featuring the host's face, with Johnnie Moore and Jordan Peterson
+**C-9574** NCRI published the "Christ is King" report featuring the host's face, with Johnnie Moore and Jordan Peterson
 
 Claim Timestamp: 00:21:20
 
@@ -1112,7 +1112,7 @@ Investigative Direction: The NCRI "Christ is King" report's author list, partner
 
 ---
 
-**C-4299** TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination
+**C-9575** TPUSA joined in smearing Joe Kent as a leaker for investigating the assassination
 
 Claim Timestamp: 00:21:20
 
@@ -1127,7 +1127,7 @@ Investigative Direction: TPUSA and Charlie Kirk Show posts and segments about Jo
 
 ---
 
-**C-4300** VFT data compiles information on JD Vance's 2028 run and advises politicians
+**C-9576** VFT data compiles information on JD Vance's 2028 run and advises politicians
 
 Claim Timestamp: 00:22:35
 
@@ -1142,7 +1142,7 @@ Investigative Direction: The VFT 2028 file and any VFT engagements with campaign
 
 ---
 
-**C-4301** VFT documents discuss burner profiles, burner ad accounts and troll content briefs
+**C-9577** VFT documents discuss burner profiles, burner ad accounts and troll content briefs
 
 Claim Timestamp: 00:23:55
 
@@ -1157,7 +1157,7 @@ Investigative Direction: Platform takedown records for burner accounts and ad ac
 
 ---
 
-**C-4302** Cuccia points to the White House's 16-page counterterrorism strategy touted by Gorka
+**C-9578** Cuccia points to the White House's 16-page counterterrorism strategy touted by Gorka
 
 Claim Timestamp: 00:23:55
 
@@ -1172,7 +1172,7 @@ Investigative Direction: Compare the text of the White House counterterrorism st
 
 ---
 
-**C-4303** Host says Gorka was not cleared in the first administration over ties to British intelligence
+**C-9579** Host says Gorka was not cleared in the first administration over ties to British intelligence
 
 Claim Timestamp: 00:24:59
 
@@ -1187,7 +1187,7 @@ Investigative Direction: Reporting and records on Gorka's security clearance sta
 
 ---
 
-**C-4304** Natalie Jean Beisner tweeted about the host's 3-year-old daughter after her Messi jersey post
+**C-9580** Natalie Jean Beisner tweeted about the host's 3-year-old daughter after her Messi jersey post
 
 Claim Timestamp: 00:31:07
 
@@ -1202,7 +1202,7 @@ Investigative Direction: Archive of Beisner's X post and its timestamp.
 
 ---
 
-**C-4305** Beisner's Instagram has more posts about the host than the host's own profile
+**C-9581** Beisner's Instagram has more posts about the host than the host's own profile
 
 Claim Timestamp: 00:31:07
 
@@ -1217,7 +1217,7 @@ Investigative Direction: An archived capture of Beisner's Instagram grid on the 
 
 ---
 
-**C-4306** Host says Beisner is an actress and may have changed her name
+**C-9582** Host says Beisner is an actress and may have changed her name
 
 Claim Timestamp: 00:32:12
 
@@ -1232,7 +1232,7 @@ Investigative Direction: IMDb and SAG-AFTRA listings and any public name-change 
 
 ---
 
-**C-4307** Host says her team already found interesting things about Beisner
+**C-9583** Host says her team already found interesting things about Beisner
 
 Claim Timestamp: 00:33:53
 
@@ -1247,7 +1247,7 @@ Investigative Direction: A follow-up segment presenting the findings.
 
 ---
 
-**C-4308** Day 54 without TPUSA releasing the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO
+**C-9584** Day 54 without TPUSA releasing the alleged AI video of Charlie Kirk appointing Erika Kirk as CEO
 
 Claim Timestamp: 00:34:11
 
@@ -1262,7 +1262,7 @@ Investigative Direction: TPUSA's release, or refusal to release, of the full vid
 
 ---
 
-**C-4309** TPUSA reaching out to Daily Mail reporters with offers of private screenings
+**C-9585** TPUSA reaching out to Daily Mail reporters with offers of private screenings
 
 Claim Timestamp: 00:34:11
 
@@ -1277,7 +1277,7 @@ Investigative Direction: Daily Mail reporting referencing a TPUSA screening of t
 
 ---
 
-**C-4310** Audio of the appointment was played as Erika Kirk's walkout music at AmFest
+**C-9586** Audio of the appointment was played as Erika Kirk's walkout music at AmFest
 
 Claim Timestamp: 00:35:01
 
@@ -1292,7 +1292,7 @@ Investigative Direction: AmFest program footage of Erika Kirk's walkout and the 
 
 ---
 
-**C-4311** Charlie Kirk repeatedly called Thomas Massie one of his favorite congressmen
+**C-9587** Charlie Kirk repeatedly called Thomas Massie one of his favorite congressmen
 
 Claim Timestamp: 00:35:51
 
@@ -1303,12 +1303,12 @@ Transcript Snippet: Charlie, who was very clear that Thomas Massie was one of hi
 Anchored Artifacts:
 Mentions: N-1, N-580, N-14, N-159
 Related Nodes: N-10000
-Supports: C-2469
+Supports: C-7046
 Investigative Direction: Archived Charlie Kirk Show and social video clips in which Kirk praises Massie.
 
 ---
 
-**C-4312** Kolvet says Charlie Kirk was privately frustrated by Massie's big beautiful bill vote
+**C-9588** Kolvet says Charlie Kirk was privately frustrated by Massie's big beautiful bill vote
 
 Claim Timestamp: 00:37:01
 
@@ -1323,7 +1323,7 @@ Investigative Direction: The full Charlie Kirk Show episode and any contemporane
 
 ---
 
-**C-4313** Schreiber: Kolvet Called Massie's Office on March 12, 2026 to Apologize for TPUSA's RINO Video
+**C-9589** Schreiber: Kolvet Called Massie's Office on March 12, 2026 to Apologize for TPUSA's RINO Video
 
 Claim Timestamp: 00:39:16
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Massie office phone logs for March 12, 2026 and the TPU
 
 ---
 
-**C-4314** Schreiber: Kolvet Said TPUSA Would Stay Out of the Race and He Personally Wanted Massie to Win
+**C-9590** Schreiber: Kolvet Said TPUSA Would Stay Out of the Race and He Personally Wanted Massie to Win
 
 Claim Timestamp: 00:39:16
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Kolvet's response to Schreiber and any TPUSA spending i
 
 ---
 
-**C-4315** Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause
+**C-9591** Charlie Kirk announced the day before he died he was abandoning the pro-Israel cause
 
 Claim Timestamp: 00:40:10
 
@@ -1364,12 +1364,12 @@ Transcript Snippet: In fact, he announced that the day before he died. He was le
 Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10000
-Supports: C-2874
+Supports: C-8851
 Investigative Direction: The original September 9, 2025 message and its recipients.
 
 ---
 
-**C-4316** Netanyahu went on Fox News the day after the assassination to deny involvement
+**C-9592** Netanyahu went on Fox News the day after the assassination to deny involvement
 
 Claim Timestamp: 00:40:55
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Fox News interview archive for September 11, 2025.
 
 ---
 
-**C-4317** Viewer comment: Erika Kirk and Victor Marx are close
+**C-9593** Viewer comment: Erika Kirk and Victor Marx are close
 
 Claim Timestamp: 00:45:41
 
@@ -1399,7 +1399,7 @@ Investigative Direction: Public appearances and posts showing contact between Er
 
 ---
 
-**C-4318** Erika Kirk had someone in Kanye West's circle leaking to her
+**C-9594** Erika Kirk had someone in Kanye West's circle leaking to her
 
 Claim Timestamp: 00:46:31
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Communications between Erika Kirk and members of Kanye 
 
 ---
 
-**C-4319** AIPAC spent money to remove Thomas Massie
+**C-9595** AIPAC spent money to remove Thomas Massie
 
 Claim Timestamp: 00:47:37
 
@@ -1429,7 +1429,7 @@ Investigative Direction: FEC independent-expenditure filings by AIPAC-affiliated
 
 ---
 
-**C-4320** Host alleges insider trading on Trump announcements and meme coins
+**C-9596** Host alleges insider trading on Trump announcements and meme coins
 
 Claim Timestamp: 00:49:00
 
@@ -1444,7 +1444,7 @@ Investigative Direction: SEC and CFTC trading-pattern data around major Trump an
 
 ---
 
-**C-4321** Host will be off air next week for a family trip to St. Petersburg
+**C-9597** Host will be off air next week for a family trip to St. Petersburg
 
 Claim Timestamp: 00:50:02
 
@@ -1643,7 +1643,7 @@ Confidence: high
 - **Name matching**: "Ryan Ruth" is minted as N-639 Ryan Routh. "Victor Marx" is N-341 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-645 and is not matched to the existing Norman Finkelstein node. "Shawn Chenoweth", "Raphael Schreiber" and "Cuccia" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
 - **Cross-staging reuse**: N-10923 uses the exact title from staging episode 104 ("White House Military Office "I Want to Go Home" Amplification Email"). Staging episode 105 names the same email "White House Military Office Erika Kirk Amplification Email", so the integrator should merge the two. N-10916 reuses the title "Thomas Massie Kentucky Primary Outside Spending" from staging. M-95 reuses the title "Emotional Response Asset" from another staging episode.
 - **New meme M-104**: the host's Brigitte Macron doll ("Brigitte Bardot") also appears in episode 107's transcript, which suggests a running bit. The integrator should check whether 107 mints it under a different title.
-- **Possible cross-episode link left out**: C-4281 (Harpole's alibi flight from Texas at "2:30 in the afternoon") differs from C-2904 (ep 102: "1:49 PM Dallas to Salt Lake City"). Because the host does not present it as a correction, no edge was added.
+- **Possible cross-episode link left out**: C-9557 (Harpole's alibi flight from Texas at "2:30 in the afternoon") differs from C-9124 (ep 102: "1:49 PM Dallas to Salt Lake City"). Because the host does not present it as a correction, no edge was added.
 - **Transcription ambiguities**: "I Want to Go Home click clip", "compiled by the FT" (VFT), "funded with NCRI", "grow up to be a mega" (MAGA) and "I bending the knee" are kept as written. The clip at 37:01 does not label speakers; attributing the frustration lines to Kolvet and the Epstein lines to Neff relies on the host's later comments (38:34, 47:37). A short audio bite ("Ah, it's me. Power. Unlimited power at AmFest", 35:01) may be a played clip; it is not registered as an artifact.
 - **Not inscribed as claims (admission test)**: the following fail the falsifiability or rhetoric test:
   - "assassination attempts are going to continue until his ballroom is fully funded"

@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep076): N-152, N-592, N-10528, N-10532, N-10541, N-10698
   - Tip-minted Nodes (reintro-ep076): N-736, N-10929, N-10990, N-11192
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10227–C-10298
+  - Claim Range: C-6810–C-6899
   - New Nodes Introduced: N-569, N-570, N-571, N-572, N-10519, N-10522, N-10523, N-10524
   - Reused Nodes Appearing: N-1, N-2, N-557, N-5, N-11, N-131, N-361, N-437, N-440, N-489, N-520, N-529, N-545, N-688, N-712, N-10000, N-10075, N-10116, N-10395, N-10401, N-10417, N-10473, N-10476, N-10477, N-10486, N-10502, N-10988, N-11164, N-11165, N-11166, N-11180, N-11248, N-10520, N-10521
 
@@ -37,7 +37,7 @@
 
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
-- **Claim Range:** C-2419–C-2436
+- **Claim Range:** C-6818–C-6887
 - **New Nodes Introduced:** N-569, N-570, N-571, N-572, N-10519, N-10520, N-10521, N-10522, N-10523, N-10524
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-557 (Lynn Forester de Rothschild)
 
@@ -65,7 +65,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (read aloud; underlying email source not independently shown)
 
-*Related: C-2419, N-9, N-570*
+*Related: C-6818, N-9, N-570*
 
 ---
 
@@ -79,7 +79,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (tweet quoted in full)
 
-*Related: C-2420, C-2421, C-2422, N-1, N-2, N-14, N-190, N-159*
+*Related: C-6825, C-6828, C-6833, N-1, N-2, N-14, N-190, N-159*
 
 ---
 
@@ -93,7 +93,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clip played in-episode)
 
-*Related: C-2434, N-571*
+*Related: C-6822, N-571*
 
 ---
 
@@ -109,7 +109,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific emails referenced by host; bar mitzvah email specifically cited)
 
-*Related: C-2423, C-2424, N-9, N-569*
+*Related: C-6854, C-6858, N-9, N-569*
 
 ---
 
@@ -123,7 +123,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host asserts "says it right there" but underlying email not independently displayed)
 
-*Related: C-2425, N-9, N-557, N-572*
+*Related: C-6868, N-9, N-557, N-572*
 
 ---
 
@@ -137,7 +137,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host cites "someone read a background"; underlying document not displayed)
 
-*Related: C-2426, N-557, N-572*
+*Related: C-6870, N-557, N-572*
 
 ---
 
@@ -151,7 +151,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (specific inquiry and recipient described; response status confirmed)
 
-*Related: C-2427, N-2, N-14, N-10519*
+*Related: C-6863, N-2, N-14, N-10519*
 
 ---
 
@@ -165,7 +165,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific timestamp asserted; article itself not displayed)
 
-*Related: C-2428, N-10521*
+*Related: C-6882, N-10521*
 
 ---
 
@@ -179,7 +179,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (timestamp and content specific)
 
-*Related: C-2429, N-2, N-10521*
+*Related: C-6886, N-2, N-10521*
 
 ---
 
@@ -197,7 +197,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clips played)
 
-*Related: C-2430, C-2435, C-2436, N-10521*
+*Related: C-6879, C-6883, C-6887, N-10521*
 
 ---
 
@@ -211,7 +211,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clip played; date attribution inferred by host)
 
-*Related: C-2431, N-7, N-10521*
+*Related: C-6878, N-7, N-10521*
 
 ---
 
@@ -225,7 +225,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (clip played; host notes it was subsequently removed from the Twitter stream but remains on Rumble)
 
-*Related: C-2432, N-1, N-159*
+*Related: C-6873, N-1, N-159*
 
 ---
 
@@ -239,7 +239,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host reports producer relay; underlying message not shown)
 
-*Related: C-2433, N-159, A-1820.1*
+*Related: C-6899, N-159, A-1820.1*
 
 ---
 
@@ -252,7 +252,7 @@ Video Timestamp: 00:12:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10239, N-10522, N-14, N-190, N-3, N-69*
+*Related: C-6824, N-10522, N-14, N-190, N-3, N-69*
 
 ---
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:12:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10240, C-10241, N-10075, N-10522, N-131, N-152, N-3, N-69, N-857*
+*Related: C-6826, C-6827, N-10075, N-10522, N-131, N-152, N-3, N-69, N-857*
 
 ---
 
@@ -280,7 +280,7 @@ Video Timestamp: 00:14:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10243, N-10522, N-14, N-3*
+*Related: C-6830, N-10522, N-14, N-3*
 
 ---
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:15:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10247, N-10988, N-3, N-9*
+*Related: C-6835, N-10988, N-3, N-9*
 
 ---
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10252, C-10253, N-10401, N-10528, N-10988, N-3, N-9*
+*Related: C-6840, C-6841, N-10401, N-10528, N-10988, N-3, N-9*
 
 ---
 
@@ -319,7 +319,7 @@ Video Timestamp: 00:22:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10266, C-10268, C-10269, N-10519, N-10532, N-10698, N-2, N-3, N-569, N-9*
+*Related: C-6855, C-6857, C-6859, N-10519, N-10532, N-10698, N-2, N-3, N-569, N-9*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:23:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10270, C-10271, C-10272, N-10519, N-10532, N-2, N-569, N-9*
+*Related: C-6860, C-6861, C-6862, N-10519, N-10532, N-2, N-569, N-9*
 
 ---
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:26:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10276, N-10502, N-2, N-3*
+*Related: C-6867, N-10502, N-2, N-3*
 
 ---
 
@@ -356,7 +356,7 @@ Video Timestamp: 00:38:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10287, C-10290, C-10291, C-10292, C-10293, C-10294, C-10295, N-1, N-10473, N-10476, N-10477, N-10521, N-2, N-3, N-489, N-7*
+*Related: C-6885, C-6890, C-6891, C-6892, C-6893, C-6894, C-6895, N-1, N-10473, N-10476, N-10477, N-10521, N-2, N-3, N-489, N-7*
 
 ---
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:40:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10288, C-10289, N-1, N-10473, N-10477, N-2*
+*Related: C-6888, C-6889, N-1, N-10473, N-10477, N-2*
 
 ---
 
@@ -384,7 +384,7 @@ Claim Count: 6
 Episode Count: 76 (cumulative across series)
 Investigative Pressure: High
 
-*Related: A-1816.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, A-1820.1, C-2428, C-2429, C-2430, C-2431, C-2432, C-2435, C-2436, N-10521*
+*Related: A-1816.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, A-1820.1, C-6882, C-6886, C-6879, C-6878, C-6873, C-6883, C-6887, N-10521*
 
 ---
 
@@ -397,7 +397,7 @@ Claim Count: 4
 Episode Count: 76 (cumulative)
 Investigative Pressure: High
 
-*Related: A-1815.1, A-1817.1, A-1820.1, C-2427, C-2429, C-2432, N-10519, N-10520, N-10521*
+*Related: A-1815.1, A-1817.1, A-1820.1, C-6863, C-6886, C-6873, N-10519, N-10520, N-10521*
 
 ---
 
@@ -410,7 +410,7 @@ Claim Count: 3
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1809.1, A-1812.1, A-1812.2, A-1813.1, A-1814.1, C-2419, C-2423, C-2424, C-2425*
+*Related: A-1809.1, A-1812.1, A-1812.2, A-1813.1, A-1814.1, C-6818, C-6854, C-6858, C-6868*
 
 ---
 
@@ -423,7 +423,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-9, N-10519*
+*Related: A-1812.1, A-1812.2, C-6854, C-6858, N-9, N-10519*
 
 ---
 
@@ -436,7 +436,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1809.1, C-2419, N-9*
+*Related: A-1809.1, C-6818, N-9*
 
 ---
 
@@ -449,7 +449,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1811.1, C-2434*
+*Related: A-1811.1, C-6822*
 
 ---
 
@@ -462,7 +462,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1810.1, C-2420, C-2421, N-10522*
+*Related: A-1810.1, C-6825, C-6828, N-10522*
 
 ---
 
@@ -475,7 +475,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1810.1, C-2420, N-14*
+*Related: A-1810.1, C-6825, N-14*
 
 ---
 
@@ -488,7 +488,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1820.1, A-1821.1, C-2432, C-2433, N-2, N-1*
+*Related: A-1820.1, A-1821.1, C-6873, C-6899, N-2, N-1*
 
 ---
 
@@ -501,7 +501,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1819.1, C-2431, N-10521*
+*Related: A-1819.1, C-6878, N-10521*
 
 ---
 
@@ -529,7 +529,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1815.1, C-2427, N-2, N-569*
+*Related: A-1815.1, C-6863, N-2, N-569*
 
 ---
 
@@ -555,7 +555,7 @@ Claim Count: 4
 Episode Count: Multiple (cumulative)
 Investigative Pressure: High
 
-*Related: A-1816.1, A-1817.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, C-2428, C-2429, C-2430, C-2431, C-2435, C-2436, N-1, N-2, N-7*
+*Related: A-1816.1, A-1817.1, A-1818.1, A-1818.2, A-1818.3, A-1819.1, C-6882, C-6886, C-6879, C-6878, C-6883, C-6887, N-1, N-2, N-7*
 
 ---
 
@@ -568,7 +568,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1810.1, C-2420, C-2421, C-2422, N-14, N-190*
+*Related: A-1810.1, C-6825, C-6828, C-6833, N-14, N-190*
 
 ---
 
@@ -581,7 +581,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1814.1, C-2426, N-557*
+*Related: A-1814.1, C-6870, N-557*
 
 ---
 
@@ -594,7 +594,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-569, N-9*
+*Related: A-1812.1, A-1812.2, C-6854, C-6858, N-569, N-9*
 
 ---
 
@@ -602,7 +602,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-10227, C-10230, C-10234, C-10235, C-10236, C-10237, C-10238, C-10239, C-10240, C-10241, C-10243, C-10244, C-10245, C-10247, C-10252, C-10253, C-10268, C-10276, C-10279, C-10280, C-10281, C-10282, C-10295, C-10296, C-10297, C-10298*
+*Related: C-6810, C-6813, C-6817, C-6819, C-6820, C-6821, C-6823, C-6824, C-6826, C-6827, C-6830, C-6831, C-6832, C-6835, C-6840, C-6841, C-6857, C-6867, C-6872, C-6874, C-6875, C-6876, C-6895, C-6896, C-6897, C-6898*
 
 ---
 
@@ -610,7 +610,7 @@ Host; speaks for herself throughout.
 
 President Trump; named by the host as the Air Force Academy appointer, a pageant-world figure and the Apprentice link.
 
-*Related: C-10227, C-10245, C-10246, C-10248, C-10263, C-10264*
+*Related: C-6810, C-6832, C-6834, C-6836, C-6851, C-6852*
 
 ---
 
@@ -618,7 +618,7 @@ President Trump; named by the host as the Air Force Academy appointer, a pageant
 
 TPUSA figure whose Romania trip and ASU regent appointment the host places in 2010 and 2011.
 
-*Related: C-10256, C-10258, C-10259*
+*Related: C-6844, C-6846, C-6847*
 
 ---
 
@@ -626,7 +626,7 @@ TPUSA figure whose Romania trip and ASU regent appointment the host places in 20
 
 FBI director; the guest on the January 29 Kirk Show episode the host says was pre-recorded.
 
-*Related: C-10239, C-10241*
+*Related: C-6824, C-6827*
 
 ---
 
@@ -634,7 +634,7 @@ FBI director; the guest on the January 29 Kirk Show episode the host says was pr
 
 White House chief of staff named by the host's sources as a possible occupant of the West Wing offices.
 
-*Related: C-10240*
+*Related: C-6826*
 
 ---
 
@@ -644,7 +644,7 @@ Transcribed as James Blair; named by the host's sources as a possible occupant o
 
 Aliases: James Blair (transcript spelling)
 
-*Related: C-10240*
+*Related: C-6826*
 
 ---
 
@@ -652,7 +652,7 @@ Aliases: James Blair (transcript spelling)
 
 Fort Huachuca witness whom the host says she is now leaning toward believing.
 
-*Related: C-10280, C-10297*
+*Related: C-6874, C-6897*
 
 ---
 
@@ -660,7 +660,7 @@ Fort Huachuca witness whom the host says she is now leaning toward believing.
 
 Named by the host as the link between Kairos and Mark Burnett.
 
-*Related: C-10265*
+*Related: C-6853*
 
 ---
 
@@ -668,7 +668,7 @@ Named by the host as the link between Kairos and Mark Burnett.
 
 Producer the host says Erika floated around and who ran The Apprentice.
 
-*Related: C-10263, C-10265*
+*Related: C-6851, C-6853*
 
 ---
 
@@ -678,7 +678,7 @@ Transcribed Lori Frantzve; the host says Charlie met her at a clinic appointment
 
 Aliases: Lori Frantzve (transcript spelling)
 
-*Related: C-10287*
+*Related: C-6885*
 
 ---
 
@@ -686,7 +686,7 @@ Aliases: Lori Frantzve (transcript spelling)
 
 The host says Epstein worked directly for the Rothschilds.
 
-*Related: C-10277*
+*Related: C-6869*
 
 ---
 
@@ -696,7 +696,7 @@ Paris modeling agent (MC2) the host ties to Epstein's modeling-agency traffickin
 
 Aliases: John Luke Brunel (transcript spelling)
 
-*Related: C-10251*
+*Related: C-6839*
 
 ---
 
@@ -704,7 +704,7 @@ Aliases: John Luke Brunel (transcript spelling)
 
 Neighbors reportedly saw the Kirk children with her husband.
 
-*Related: C-10296*
+*Related: C-6896*
 
 ---
 
@@ -712,7 +712,7 @@ Neighbors reportedly saw the Kirk children with her husband.
 
 Transcribed Lynn Forester de Rothschild; the host says she is president of the Corcoran Group.
 
-*Related: C-10277*
+*Related: C-6869*
 
 ---
 
@@ -720,7 +720,7 @@ Transcribed Lynn Forester de Rothschild; the host says she is president of the C
 
 Defense Secretary to whom the Air Force Academy board reports, per the host.
 
-*Related: C-10228*
+*Related: C-6811*
 
 ---
 
@@ -730,7 +730,7 @@ Colonel the host links to the Constanta Marine rotation and later trafficking ac
 
 Aliases: Colonel Otto Busher; Colonel Otto Busher (transcript spellings)
 
-*Related: C-10255, C-10261*
+*Related: C-6843, C-6849*
 
 ---
 
@@ -738,7 +738,7 @@ Aliases: Colonel Otto Busher; Colonel Otto Busher (transcript spellings)
 
 Compared by the host to Erika and linked to her mother's alleged MK Ultra involvement.
 
-*Related: C-10298*
+*Related: C-6898*
 
 ---
 
@@ -748,7 +748,7 @@ Erika Kirk's cousin, transcribed Dennis Frantzve, whom the host names as leading
 
 Aliases: Dennis Frantzve (transcript spelling)
 
-*Related: C-10254*
+*Related: C-6842*
 
 ---
 
@@ -756,7 +756,7 @@ Aliases: Dennis Frantzve (transcript spelling)
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-10232, C-10245*
+*Related: C-6815, C-6832*
 
 ---
 
@@ -764,7 +764,7 @@ Existing organization reused for new claims in this episode.
 
 Existing place reused for new claims in this episode.
 
-*Related: C-10240, C-10245*
+*Related: C-6826, C-6832*
 
 ---
 
@@ -772,7 +772,7 @@ Existing place reused for new claims in this episode.
 
 Existing topic reused for the host's MK Ultra aside.
 
-*Related: C-10298*
+*Related: C-6898*
 
 ---
 
@@ -780,7 +780,7 @@ Existing topic reused for the host's MK Ultra aside.
 
 Existing topic reused for the Bowyer Constanta claim (the host dates it 2010 here).
 
-*Related: C-10256*
+*Related: C-6844*
 
 ---
 
@@ -788,7 +788,7 @@ Existing topic reused for the Bowyer Constanta claim (the host dates it 2010 her
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10249, C-10253, C-10255, C-10261*
+*Related: C-6837, C-6841, C-6843, C-6849*
 
 ---
 
@@ -796,7 +796,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10280, C-10281, C-10297*
+*Related: C-6874, C-6875, C-6897*
 
 ---
 
@@ -804,7 +804,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10287, C-10288, C-10289, C-10291, C-10292, C-10293*
+*Related: C-6885, C-6888, C-6889, C-6891, C-6892, C-6893*
 
 ---
 
@@ -812,7 +812,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10292, C-10293, C-10294*
+*Related: C-6892, C-6893, C-6894*
 
 ---
 
@@ -820,7 +820,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10282, C-10283, C-10288, C-10289, C-10290, C-10295*
+*Related: C-6876, C-6877, C-6888, C-6889, C-6890, C-6895*
 
 ---
 
@@ -828,7 +828,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10296*
+*Related: C-6896*
 
 ---
 
@@ -836,7 +836,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10273, C-10274, C-10275, C-10276*
+*Related: C-6864, C-6865, C-6866, C-6867*
 
 ---
 
@@ -844,7 +844,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the 2010 Romania claims.
 
-*Related: C-10253*
+*Related: C-6841*
 
 ---
 
@@ -852,7 +852,7 @@ Existing topic reused for the 2010 Romania claims.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10266, C-10268, C-10270*
+*Related: C-6855, C-6857, C-6860*
 
 ---
 
@@ -860,7 +860,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the host's Epstein Fury remark.
 
-*Related: C-10234*
+*Related: C-6817*
 
 ---
 
@@ -868,7 +868,7 @@ Existing topic reused for the host's Epstein Fury remark.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10251, C-10269*
+*Related: C-6839, C-6859*
 
 ---
 
@@ -876,7 +876,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10227, C-10228, C-10229, C-10233*
+*Related: C-6810, C-6811, C-6812, C-6816*
 
 ---
 
@@ -884,7 +884,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for the pageant ownership claim.
 
-*Related: C-10246, C-10247, C-10252*
+*Related: C-6834, C-6835, C-6840*
 
 ---
 
@@ -892,7 +892,7 @@ Existing organization reused for the pageant ownership claim.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-10254, C-10255, C-10256, C-10260*
+*Related: C-6842, C-6843, C-6844, C-6848*
 
 ---
 
@@ -900,7 +900,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for the Burnett link claim.
 
-*Related: C-10265*
+*Related: C-6853*
 
 ---
 
@@ -908,7 +908,7 @@ Existing organization reused for the Burnett link claim.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-10260, C-10261*
+*Related: C-6848, C-6849*
 
 ---
 
@@ -916,7 +916,7 @@ Existing organization reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-10260*
+*Related: C-6848*
 
 ---
 
@@ -924,7 +924,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for the cease and desist reference.
 
-*Related: C-10282*
+*Related: C-6876*
 
 ---
 
@@ -932,7 +932,7 @@ Existing topic reused for the cease and desist reference.
 
 Existing topic reused for the host's Frankist claim about Epstein.
 
-*Related: C-10238*
+*Related: C-6823*
 
 ---
 
@@ -940,7 +940,7 @@ Existing topic reused for the host's Frankist claim about Epstein.
 
 First named by the host at 00:12:57 in episode 76. White House official named by the host's sources as a possible occupant of the West Wing offices.
 
-*Related: C-10240*
+*Related: C-6826*
 
 ---
 
@@ -948,7 +948,7 @@ First named by the host at 00:12:57 in episode 76. White House official named by
 
 First named by the host at 00:16:53 in episode 76. Retail executive the host says handed Epstein the keys to a casting role for Victoria's Secret.
 
-*Related: C-10250*
+*Related: C-6838*
 
 ---
 
@@ -957,7 +957,7 @@ First named by the host at 00:16:53 in episode 76. Retail executive the host say
 Node Type: Organization
 University where, per the host, Tyler Bowyer became a regent and Erika Kirk finished college, and which Epstein funded through the Origins Project from 2010.
 
-*Related: C-10257, C-10258, C-10259, C-10278*
+*Related: C-6845, C-6846, C-6847, C-6871*
 
 ---
 
@@ -966,13 +966,13 @@ University where, per the host, Tyler Bowyer became a regent and Erika Kirk fini
 Node Type: Organization
 College where the host says Erika Kirk is slated to speak and students object.
 
-*Related: C-10279*
+*Related: C-6872*
 
 ---
 
 ## V. Claim Register
 
-**C-2419** Epstein–Mette-Marit 2012 Email Discussed Lab-Designed Humans
+**C-6818** Epstein–Mette-Marit 2012 Email Discussed Lab-Designed Humans
 
 Claim Timestamp: 00:07:04–00:07:57
 
@@ -984,7 +984,7 @@ Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein fi
 
 ---
 
-**C-2420** Kolvet and McCoy in the West Wing During Fake-Live Kirk Show
+**C-6825** Kolvet and McCoy in the West Wing During Fake-Live Kirk Show
 
 Claim Timestamp: 00:12:57–00:13:53
 
@@ -997,7 +997,7 @@ Investigative Direction: Obtain independent White House visitor logs for January
 
 ---
 
-**C-2421** Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live
+**C-6828** Kirk Show Kash Patel Episode Was Pre-Recorded, Not Live
 
 Claim Timestamp: 00:13:53
 
@@ -1010,7 +1010,7 @@ Investigative Direction: Compare the episode's audio/video metadata against the 
 
 ---
 
-**C-2422** Host Says Epstein Files Were Released Day After West Wing Meeting
+**C-6833** Host Says Epstein Files Were Released Day After West Wing Meeting
 
 Claim Timestamp: 00:15:55
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Confirm the official release date of the Epstein files 
 
 ---
 
-**C-2423** Faith Kates–Epstein Email Volume Cited at ~4,000 Messages
+**C-6854** Faith Kates–Epstein Email Volume Cited at ~4,000 Messages
 
 Claim Timestamp: 00:22:10
 
@@ -1036,7 +1036,7 @@ Investigative Direction: Search the publicly released Epstein email corpus for K
 
 ---
 
-**C-2424** Epstein Invited to Kates Son's Bar Mitzvah
+**C-6858** Epstein Invited to Kates Son's Bar Mitzvah
 
 Claim Timestamp: 00:22:37
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Locate the specific Epstein-files email containing the 
 
 ---
 
-**C-2425** Host Says Corcoran Group Is Referenced Across Epstein's Emails
+**C-6868** Host Says Corcoran Group Is Referenced Across Epstein's Emails
 
 Claim Timestamp: 00:27:39–00:28:26
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Search Epstein-files email corpus for Corcoran/Lynn For
 
 ---
 
-**C-2426** Host Says Background Document Lists Lynn Forester de Rothschild as Corcoran Group President with Multiple Aliases
+**C-6870** Host Says Background Document Lists Lynn Forester de Rothschild as Corcoran Group President with Multiple Aliases
 
 Claim Timestamp: 00:28:26
 
@@ -1074,7 +1074,7 @@ Investigative Direction: Verify Lynn Forester de Rothschild's Corcoran role via 
 
 ---
 
-**C-2427** No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours
+**C-6863** No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours
 
 Claim Timestamp: 00:24:35–00:26:09
 
@@ -1087,7 +1087,7 @@ Investigative Direction: Confirm the email log; await response or non-response s
 
 ---
 
-**C-2428** Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8
+**C-6882** Jezebel Article on Charlie Kirk Witch's Curse Published 9:49 AM AZ Sept 8
 
 Claim Timestamp: 00:38:58
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Obtain the Jezebel article URL with timestamp metadata;
 
 ---
 
-**C-2429** Erika Kirk Tweet Ephesians 4:5 Posted One Hour After Jezebel Article
+**C-6886** Erika Kirk Tweet Ephesians 4:5 Posted One Hour After Jezebel Article
 
 Claim Timestamp: 00:39:00
 
@@ -1113,7 +1113,7 @@ Investigative Direction: Obtain Erika Kirk's tweet via Wayback Machine or X API;
 
 ---
 
-**C-2430** Host Says Charlie Kirk Watched Second Half of Bears-Vikings Game on September 8
+**C-6879** Host Says Charlie Kirk Watched Second Half of Bears-Vikings Game on September 8
 
 Claim Timestamp: 00:36:30–00:38:17
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game 
 
 ---
 
-**C-2431** Frank Turek Describes Last Walk with Charlie on Monday Night
+**C-6878** Frank Turek Describes Last Walk with Charlie on Monday Night
 
 Claim Timestamp: 00:35:28–00:36:30
 
@@ -1139,7 +1139,7 @@ Investigative Direction: Obtain full Turek interview; verify the date and conten
 
 ---
 
-**C-2432** Blake Neff on The Charlie Kirk Show: Erika Said Charlie Wouldn't Undo His Death
+**C-6873** Blake Neff on The Charlie Kirk Show: Erika Said Charlie Wouldn't Undo His Death
 
 Claim Timestamp: 00:33:37–00:34:25
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Obtain the full Rumble-hosted Charlie Kirk episode; ver
 
 ---
 
-**C-2433** Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut
+**C-6899** Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut
 
 Claim Timestamp: 00:55:30–00:56:41
 
@@ -1163,7 +1163,7 @@ Investigative Direction: Compare the Twitter stream version to the Rumble-hosted
 
 ---
 
-**C-2434** Father Ripperger Describes Occult Pedigree Families from 1500s–1600s
+**C-6822** Father Ripperger Describes Occult Pedigree Families from 1500s–1600s
 
 Claim Timestamp: 00:10:14–00:11:17
 
@@ -1175,7 +1175,7 @@ Investigative Direction: Obtain the full Ripperger clip and surrounding podcast 
 
 ---
 
-**C-2435** Host Says Charlie Kirk Appeared Live From His Home Studio at 10:00 AM on September 8
+**C-6883** Host Says Charlie Kirk Appeared Live From His Home Studio at 10:00 AM on September 8
 
 Claim Timestamp: 00:38:58
 
@@ -1189,7 +1189,7 @@ Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show
 
 ---
 
-**C-2436** Host Says Charlie Kirk Appeared on The Ingraham Angle 4:00-5:00 PM AZ on September 8
+**C-6887** Host Says Charlie Kirk Appeared on The Ingraham Angle 4:00-5:00 PM AZ on September 8
 
 Claim Timestamp: 00:39:30
 
@@ -1202,7 +1202,7 @@ Investigative Direction: Obtain the September 8, 2025 Ingraham Angle episode and
 
 ---
 
-**C-10227** Trump Appoints Erika Kirk to Air Force Academy Board
+**C-6810** Trump Appoints Erika Kirk to Air Force Academy Board
 
 Claim Timestamp: 00:01:43
 
@@ -1218,7 +1218,7 @@ Investigative Direction: Obtain the White House or Air Force Academy announcemen
 
 ---
 
-**C-10228** Host Says Board Has 15 Other Members Advising Hegseth
+**C-6811** Host Says Board Has 15 Other Members Advising Hegseth
 
 Claim Timestamp: 00:01:43
 
@@ -1234,7 +1234,7 @@ Investigative Direction: Check the Board of Visitors roster and its charter for 
 
 ---
 
-**C-10229** Host Lists Board Duties as Annual Report on Morale, Finances and Academics
+**C-6812** Host Lists Board Duties as Annual Report on Morale, Finances and Academics
 
 Claim Timestamp: 00:02:39
 
@@ -1250,7 +1250,7 @@ Investigative Direction: Compare against the statutory duties of the Air Force A
 
 ---
 
-**C-10230** Host Says Charlie Allegedly Said Erika Would Be President One Day
+**C-6813** Host Says Charlie Allegedly Said Erika Would Be President One Day
 
 Claim Timestamp: 00:03:27
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Ask TPUSA for the recording or document in which Kirk i
 
 ---
 
-**C-10231** Host Says Charlie Planned to Attend West Point
+**C-6814** Host Says Charlie Planned to Attend West Point
 
 Claim Timestamp: 00:04:12
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Check Kirk's earlier biographical interviews for the We
 
 ---
 
-**C-10232** Host Says TPUSA Took In 100 Million Dollars a Year
+**C-6815** Host Says TPUSA Took In 100 Million Dollars a Year
 
 Claim Timestamp: 00:04:12
 
@@ -1296,7 +1296,7 @@ Investigative Direction: Check TPUSA Form 990 revenue figures against the $100 m
 
 ---
 
-**C-10233** Host Says Charlie Earned the Same Board Appointment in March 2025
+**C-6816** Host Says Charlie Earned the Same Board Appointment in March 2025
 
 Claim Timestamp: 00:04:12
 
@@ -1312,7 +1312,7 @@ Investigative Direction: Find the March 2025 appointment notice for Charlie Kirk
 
 ---
 
-**C-10234** Host Says Epstein Fury Strikes on Iran Distract From Epstein Files
+**C-6817** Host Says Epstein Fury Strikes on Iran Distract From Epstein Files
 
 Claim Timestamp: 00:05:06
 
@@ -1328,7 +1328,7 @@ Investigative Direction: Compare the dates of the strikes with the Epstein files
 
 ---
 
-**C-10235** Host Says Abortion and Population Messaging Were Always Eugenics
+**C-6819** Host Says Abortion and Population Messaging Were Always Eugenics
 
 Claim Timestamp: 00:07:57
 
@@ -1343,7 +1343,7 @@ Investigative Direction: Record as the host's opinion; compare with Sanger's pub
 
 ---
 
-**C-10236** Host Says Fertility Problems and IVF Are By Design
+**C-6820** Host Says Fertility Problems and IVF Are By Design
 
 Claim Timestamp: 00:08:41
 
@@ -1358,7 +1358,7 @@ Investigative Direction: No documentary basis aired; test against published fert
 
 ---
 
-**C-10237** Host Says People Are Summoning Demons and Making Blood Sacrifices
+**C-6821** Host Says People Are Summoning Demons and Making Blood Sacrifices
 
 Claim Timestamp: 00:09:29
 
@@ -1373,7 +1373,7 @@ Investigative Direction: No evidence aired; the claim is recorded as stated.
 
 ---
 
-**C-10238** Host Says Epstein Practiced Frankist Mystical Judaism With Occult Rituals
+**C-6823** Host Says Epstein Practiced Frankist Mystical Judaism With Occult Rituals
 
 Claim Timestamp: 00:11:17
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Ask the host for any Epstein document or witness tying 
 
 ---
 
-**C-10239** Host Says White House Viewers Reported Kolvet and McCoy With Women in West Wing
+**C-6824** Host Says White House Viewers Reported Kolvet and McCoy With Women in West Wing
 
 Claim Timestamp: 00:12:14
 
@@ -1400,13 +1400,13 @@ Transcript Snippet: Andrew Kolvet Mikey McVoy and a couple of women uh look like
 Anchored Artifacts: A-3065.1
 Mentions: N-14, N-190, N-69, N-3
 Related Nodes: N-10522
-Supports: C-2420
+Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Request White House visitor logs and the identity of the host's correspondents.
 
 ---
 
-**C-10240** Host Quotes Sources Listing Senior Staff Offices Near the Lobby
+**C-6826** Host Quotes Sources Listing Senior Staff Offices Near the Lobby
 
 Claim Timestamp: 00:12:57
 
@@ -1422,7 +1422,7 @@ Investigative Direction: Verify the West Wing layout and who maintains offices o
 
 ---
 
-**C-10241** Host Says Cabinet Meeting Had Let Out 15 Minutes Earlier
+**C-6827** Host Says Cabinet Meeting Had Let Out 15 Minutes Earlier
 
 Claim Timestamp: 00:12:57
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Check the January 29, 2026 cabinet meeting schedule and
 
 ---
 
-**C-10242** Tweet Said White House People Think Kolvet Wanted Public to Believe He Was in Arizona
+**C-6829** Tweet Said White House People Think Kolvet Wanted Public to Believe He Was in Arizona
 
 Claim Timestamp: 00:13:53
 
@@ -1449,13 +1449,13 @@ Transcript Snippet: People in the White House and Donald on the World think Andr
 Anchored Artifacts: A-1810.1
 Mentions: N-14
 Related Nodes: N-10522
-Supports: C-2420
+Supports: C-6825
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the White House sources who asked her to release the information.
 
 ---
 
-**C-10243** Host Replied on January 29 Asking Why Kolvet Was in the White House
+**C-6830** Host Replied on January 29 Asking Why Kolvet Was in the White House
 
 Claim Timestamp: 00:14:37
 
@@ -1471,7 +1471,7 @@ Investigative Direction: Locate the host's January 29, 2026 reply on X and its t
 
 ---
 
-**C-10244** Host Says Kolvet Often Misses Shows but This One Was Pre-Recorded as Live
+**C-6831** Host Says Kolvet Often Misses Shows but This One Was Pre-Recorded as Live
 
 Claim Timestamp: 00:14:37
 
@@ -1482,13 +1482,13 @@ Transcript Snippet: Sometimes when traveling, Andrew even calls in for a segment
 Anchored Artifacts: A-1810.1
 Mentions: N-14, N-3
 Related Nodes: N-10522
-Supports: C-2421
+Supports: C-6828
 Tags: relevance:core
 Investigative Direction: Compare the episode audio metadata with the stated air time.
 
 ---
 
-**C-10245** Host Says TPUSA Normally Promotes Its White House Access
+**C-6832** Host Says TPUSA Normally Promotes Its White House Access
 
 Claim Timestamp: 00:15:10
 
@@ -1504,7 +1504,7 @@ Investigative Direction: Survey TPUSA posts from White House visits to test the 
 
 ---
 
-**C-10246** Host Says Trump Co-Owned Miss America With NBC Universal When Erika Was Crowned
+**C-6834** Host Says Trump Co-Owned Miss America With NBC Universal When Erika Was Crowned
 
 Claim Timestamp: 00:15:55
 
@@ -1520,7 +1520,7 @@ Investigative Direction: Verify which pageant Erika won (the host also says Miss
 
 ---
 
-**C-10247** Host Cites a 1997 Pageant Company Lawsuit Placing Epstein at a Meeting
+**C-6835** Host Cites a 1997 Pageant Company Lawsuit Placing Epstein at a Meeting
 
 Claim Timestamp: 00:15:55
 
@@ -1536,7 +1536,7 @@ Investigative Direction: Identify the 1997 case from court dockets and read the 
 
 ---
 
-**C-10248** Host Says Trump Never Denied Hanging Out With Epstein
+**C-6836** Host Says Trump Never Denied Hanging Out With Epstein
 
 Claim Timestamp: 00:15:55
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Collect Trump's statements on Epstein and the photo rec
 
 ---
 
-**C-10249** Host Says Epstein Trafficked Eastern European Women Through Modeling Agencies
+**C-6837** Host Says Epstein Trafficked Eastern European Women Through Modeling Agencies
 
 Claim Timestamp: 00:16:53
 
@@ -1567,7 +1567,7 @@ Investigative Direction: Cite court records and survivor testimony on Epstein's 
 
 ---
 
-**C-10250** Host Says Wexner Handed Epstein the Keys and He Cast for Victoria's Secret
+**C-6838** Host Says Wexner Handed Epstein the Keys and He Cast for Victoria's Secret
 
 Claim Timestamp: 00:16:53
 
@@ -1582,7 +1582,7 @@ Investigative Direction: Review court filings on Epstein's role with L Brands an
 
 ---
 
-**C-10251** Host Says Brunel Killed Himself and MC2 Had a Tel Aviv Office
+**C-6839** Host Says Brunel Killed Himself and MC2 Had a Tel Aviv Office
 
 Claim Timestamp: 00:16:53
 
@@ -1598,7 +1598,7 @@ Investigative Direction: Check corporate records for MC2 offices in Tel Aviv.
 
 ---
 
-**C-10252** Host Says Epstein Emails Show Him Handpicking Pageant Girls
+**C-6840** Host Says Epstein Emails Show Him Handpicking Pageant Girls
 
 Claim Timestamp: 00:17:44
 
@@ -1614,7 +1614,7 @@ Investigative Direction: Find the Epstein emails mentioning pageants and Miss No
 
 ---
 
-**C-10253** Host Says Epstein Began Procuring Models From Romania in 2010
+**C-6841** Host Says Epstein Began Procuring Models From Romania in 2010
 
 Claim Timestamp: 00:18:25
 
@@ -1630,7 +1630,7 @@ Investigative Direction: Search the Epstein email corpus for Romania model reque
 
 ---
 
-**C-10254** Host Says Erika's Cousin Led the Black Sea Rotational Force in 2010
+**C-6842** Host Says Erika's Cousin Led the Black Sea Rotational Force in 2010
 
 Claim Timestamp: 00:18:38
 
@@ -1641,13 +1641,13 @@ Transcript Snippet: the Black Sea Rotational Force in Constanta, Romania, is bei
 Anchored Artifacts: 
 Mentions: N-736, N-2
 Related Nodes: N-10990
-Supports: C-8146
+Supports: C-4745
 Tags: relevance:core
 Investigative Direction: Check Marine Corps records for the 2010 BSRF commander.
 
 ---
 
-**C-10255** Host Says the Romania Base Was Later Accused of Prostituting Children Under Col Otto Busher
+**C-6843** Host Says the Romania Base Was Later Accused of Prostituting Children Under Col Otto Busher
 
 Claim Timestamp: 00:18:38
 
@@ -1663,7 +1663,7 @@ Investigative Direction: Find the accusation source and any investigation of the
 
 ---
 
-**C-10256** Host Says Tyler Bowyer Partied With Romanian Models in Constanta in 2010
+**C-6844** Host Says Tyler Bowyer Partied With Romanian Models in Constanta in 2010
 
 Claim Timestamp: 00:18:38
 
@@ -1679,7 +1679,7 @@ Investigative Direction: Reconcile the 2010 date with earlier statements dating 
 
 ---
 
-**C-10257** Host Says Epstein Started Funding ASU's Origins Project in 2010
+**C-6845** Host Says Epstein Started Funding ASU's Origins Project in 2010
 
 Claim Timestamp: 00:18:38
 
@@ -1695,7 +1695,7 @@ Investigative Direction: Check ASU and Origins Project donor records for Epstein
 
 ---
 
-**C-10258** Host Says Bowyer Was Unusually Placed on ASU Board of Regents in May 2011
+**C-6846** Host Says Bowyer Was Unusually Placed on ASU Board of Regents in May 2011
 
 Claim Timestamp: 00:19:25
 
@@ -1711,7 +1711,7 @@ Investigative Direction: Obtain the governor's 2011 appointment record for Bowye
 
 ---
 
-**C-10259** Host Says Erika Enrolled at ASU in 2011 and Won Miss Arizona USA Two Months Later
+**C-6847** Host Says Erika Enrolled at ASU in 2011 and Won Miss Arizona USA Two Months Later
 
 Claim Timestamp: 00:19:25
 
@@ -1727,7 +1727,7 @@ Investigative Direction: Check ASU enrollment dates and the Miss Arizona USA 201
 
 ---
 
-**C-10260** Host Says Erika Partnered With the Black Sea Rotational Force on Romanian Angels
+**C-6848** Host Says Erika Partnered With the Black Sea Rotational Force on Romanian Angels
 
 Claim Timestamp: 00:19:25
 
@@ -1738,13 +1738,13 @@ Transcript Snippet: we know she is going to establish this working partnership w
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10990, N-11165, N-11166
-Supports: C-8146
+Supports: C-4745
 Tags: relevance:core
 Investigative Direction: Obtain Everyday Heroes filings and Marine Corps press items on the project.
 
 ---
 
-**C-10261** Host Says Erika Worked With Colonel Busher Later Accused of Trafficking Through Tel Aviv
+**C-6849** Host Says Erika Worked With Colonel Busher Later Accused of Trafficking Through Tel Aviv
 
 Claim Timestamp: 00:19:25
 
@@ -1755,13 +1755,13 @@ Transcript Snippet: She's working with uh Colonel Otto Busher, that same colonel
 Anchored Artifacts: 
 Mentions: N-688, N-2
 Related Nodes: N-11165, N-10401
-Supports: C-8147
+Supports: C-4746
 Tags: relevance:core
 Investigative Direction: Identify the source and status of any accusation against the colonel.
 
 ---
 
-**C-10262** Host Says Erika Tweeted She Was an LA Casting Director in 2014 to 2015
+**C-6850** Host Says Erika Tweeted She Was an LA Casting Director in 2014 to 2015
 
 Claim Timestamp: 00:21:19
 
@@ -1776,7 +1776,7 @@ Investigative Direction: Retrieve the archived tweets from 2014 and 2015.
 
 ---
 
-**C-10263** Host Says Erika Was Around Mark Burnett, Who Ran Trump's Apprentice
+**C-6851** Host Says Erika Was Around Mark Burnett, Who Ran Trump's Apprentice
 
 Claim Timestamp: 00:21:19
 
@@ -1791,7 +1791,7 @@ Investigative Direction: Find photos, credits or posts putting Erika with Burnet
 
 ---
 
-**C-10264** Host Believes Erika Knew Trump Before She Met Charlie
+**C-6852** Host Believes Erika Knew Trump Before She Met Charlie
 
 Claim Timestamp: 00:21:19
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Seek any record of an Erika and Trump meeting before 20
 
 ---
 
-**C-10265** Host Says Kairos Company Works With Burnett Through Johnnie Moore
+**C-6853** Host Says Kairos Company Works With Burnett Through Johnnie Moore
 
 Claim Timestamp: 00:21:19
 
@@ -1817,13 +1817,13 @@ Transcript Snippet: Kairos company is working with Mark Burnett's via Johnnie Mo
 Anchored Artifacts: 
 Mentions: N-437, N-440
 Related Nodes: N-11164
-Supports: C-2071
+Supports: C-4911
 Tags: relevance:context
 Investigative Direction: Check Kairos and Burnett business filings and Moore's roles.
 
 ---
 
-**C-10266** Host Says Tipster Reported Kates Stepped Down Over Epstein Involvement
+**C-6855** Host Says Tipster Reported Kates Stepped Down Over Epstein Involvement
 
 Claim Timestamp: 00:22:10
 
@@ -1839,7 +1839,7 @@ Investigative Direction: Confirm Kates' departure date and stated reason from Ne
 
 ---
 
-**C-10267** Host Says Kates Told Epstein After His Arrest She Would Never Betray Him
+**C-6856** Host Says Kates Told Epstein After His Arrest She Would Never Betray Him
 
 Claim Timestamp: 00:22:10
 
@@ -1855,7 +1855,7 @@ Investigative Direction: Find the post-2008 or post-2019 Kates email in the Epst
 
 ---
 
-**C-10268** Host Says Tipster Told Her Erika Was Involved With Next Model Management
+**C-6857** Host Says Tipster Told Her Erika Was Involved With Next Model Management
 
 Claim Timestamp: 00:22:10
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Corroborate through Next Model staff or contracts.
 
 ---
 
-**C-10269** Host Says Next Model Had Many Eastern European Girls Around the Office
+**C-6859** Host Says Next Model Had Many Eastern European Girls Around the Office
 
 Claim Timestamp: 00:22:57
 
@@ -1887,7 +1887,7 @@ Investigative Direction: Seek former Next staff accounts and the Epstein emails 
 
 ---
 
-**C-10270** Host Says Four Sources Confirmed Erika Took Meetings at Next Model Management
+**C-6860** Host Says Four Sources Confirmed Erika Took Meetings at Next Model Management
 
 Claim Timestamp: 00:23:37
 
@@ -1903,7 +1903,7 @@ Investigative Direction: Obtain visitor logs or testimony from Next staff; ask E
 
 ---
 
-**C-10271** Host Says Sources Did Not See Erika Meet Epstein but Say He Was Always There
+**C-6861** Host Says Sources Did Not See Erika Meet Epstein but Say He Was Always There
 
 Claim Timestamp: 00:23:37
 
@@ -1919,7 +1919,7 @@ Investigative Direction: Test against Epstein visitor and travel records for the
 
 ---
 
-**C-10272** Host Says Sources Did Not Know the Purpose of Erika's Meetings
+**C-6862** Host Says Sources Did Not Know the Purpose of Erika's Meetings
 
 Claim Timestamp: 00:23:37
 
@@ -1935,7 +1935,7 @@ Investigative Direction: Ask Erika Kirk's office for the nature of the meetings.
 
 ---
 
-**C-10273** Host Says Erika Got a New York Corcoran Real Estate License in 2018
+**C-6864** Host Says Erika Got a New York Corcoran Real Estate License in 2018
 
 Claim Timestamp: 00:26:56
 
@@ -1946,13 +1946,13 @@ Transcript Snippet: she also unusually receives her New York real estate license
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10502, N-10520
-Supports: C-2353
+Supports: C-6480
 Tags: relevance:core
 Investigative Direction: Check New York Department of State license records.
 
 ---
 
-**C-10274** Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files
+**C-6865** Host Says Erika's Corcoran Start Was Under Pam Liebman of the Epstein Files
 
 Claim Timestamp: 00:26:56
 
@@ -1968,7 +1968,7 @@ Investigative Direction: Verify Lehman's Corcoran role and the Epstein files ref
 
 ---
 
-**C-10275** Host Says No Completed Erika Deals Can Be Found
+**C-6866** Host Says No Completed Erika Deals Can Be Found
 
 Claim Timestamp: 00:26:56
 
@@ -1979,13 +1979,13 @@ Transcript Snippet: we can't find any real estate deals that Erika completed in 
 Anchored Artifacts: 
 Mentions: N-2
 Related Nodes: N-10502, N-10520
-Supports: C-2351
+Supports: C-6467
 Tags: relevance:core
 Investigative Direction: Request Corcoran sales records and listings credited to Erika Kirk.
 
 ---
 
-**C-10276** Host Says Agents Told Her You Cannot Just Get a License and Work for Corcoran
+**C-6867** Host Says Agents Told Her You Cannot Just Get a License and Work for Corcoran
 
 Claim Timestamp: 00:26:56
 
@@ -2001,7 +2001,7 @@ Investigative Direction: Interview Corcoran agents about hiring requirements.
 
 ---
 
-**C-10277** Host Says Epstein Was Working Directly for the Rothschilds
+**C-6869** Host Says Epstein Was Working Directly for the Rothschilds
 
 Claim Timestamp: 00:27:39
 
@@ -2012,13 +2012,13 @@ Transcript Snippet: Jeffrey Epstein is working directly for the Rothschilds.
 Anchored Artifacts: A-1814.1
 Mentions: N-9, N-520
 Related Nodes: N-520
-Supports: C-2352
+Supports: C-6470
 Tags: relevance:context
 Investigative Direction: Provide the Epstein email or filing establishing the employment.
 
 ---
 
-**C-10278** Host Says Erika's Summa Cum Laude Cannot Be Confirmed and Was Removed From Her Bio
+**C-6871** Host Says Erika's Summa Cum Laude Cannot Be Confirmed and Was Removed From Her Bio
 
 Claim Timestamp: 00:31:46
 
@@ -2034,7 +2034,7 @@ Investigative Direction: Ask ASU to confirm Erika Kirk's degree and honors; comp
 
 ---
 
-**C-10279** Host Says Erika Is Set to Speak at Hillsdale and Students Object
+**C-6872** Host Says Erika Is Set to Speak at Hillsdale and Students Object
 
 Claim Timestamp: 00:31:46
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Check the Hillsdale event schedule and any student stat
 
 ---
 
-**C-10280** Host Says She Is Leaning Toward Mitch on the September 8 Sighting
+**C-6874** Host Says She Is Leaning Toward Mitch on the September 8 Sighting
 
 Claim Timestamp: 00:34:25
 
@@ -2061,13 +2061,13 @@ Transcript Snippet: I'm leaning towards Mitch. Allegedly, Erika he saw her on Se
 Anchored Artifacts: 
 Mentions: N-361, N-2, N-3
 Related Nodes: N-10417
-Supports: C-1973
+Supports: C-4347
 Tags: relevance:core
 Investigative Direction: Obtain the Candlewood Suites footage and other records for September 8.
 
 ---
 
-**C-10281** Host Says Fort Huachuca Story Caused Mass Panic and Paid Attacks
+**C-6875** Host Says Fort Huachuca Story Caused Mass Panic and Paid Attacks
 
 Claim Timestamp: 00:34:25
 
@@ -2083,7 +2083,7 @@ Investigative Direction: Seek ad spend, contractor payments or coordinated posti
 
 ---
 
-**C-10282** Host Says Erika Claimed She Was Making Dinner but No One Confirms It
+**C-6876** Host Says Erika Claimed She Was Making Dinner but No One Confirms It
 
 Claim Timestamp: 00:34:25
 
@@ -2094,13 +2094,13 @@ Transcript Snippet: Erika's claim before they sent me a cease and desist was tha
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
 Related Nodes: N-10477, N-11180
-Supports: C-6790
+Supports: C-4503
 Tags: relevance:core
 Investigative Direction: Obtain the original Erika statement and any corroborating witnesses or texts.
 
 ---
 
-**C-10283** Host Says Turek Mentioned Dinner With Family but Not Erika or a Wife
+**C-6877** Host Says Turek Mentioned Dinner With Family but Not Erika or a Wife
 
 Claim Timestamp: 00:34:25
 
@@ -2111,13 +2111,13 @@ Transcript Snippet: Frank Turek does make the claim that Charlie had dinner with
 Anchored Artifacts: 
 Mentions: N-7, N-2, N-1
 Related Nodes: N-10477
-Supports: C-2431
+Supports: C-6878
 Tags: relevance:core
 Investigative Direction: Ask Turek who was at the Monday dinner.
 
 ---
 
-**C-10284** Charlie in Clip Says He Posted About the Bears Leading by 14 in His Group Chat
+**C-6880** Charlie in Clip Says He Posted About the Bears Leading by 14 in His Group Chat
 
 Claim Timestamp: 00:36:30
 
@@ -2133,7 +2133,7 @@ Investigative Direction: Obtain the group chat message and its timestamp.
 
 ---
 
-**C-10285** Charlie in Clip Says He Was Screaming at the TV and Woke Everyone
+**C-6881** Charlie in Clip Says He Was Screaming at the TV and Woke Everyone
 
 Claim Timestamp: 00:37:35
 
@@ -2149,7 +2149,7 @@ Investigative Direction: Establish when the clip aired and whether it matches Se
 
 ---
 
-**C-10286** Host Says Erika Broke a Years-Long Twitter Silence With the Bible Verse
+**C-6884** Host Says Erika Broke a Years-Long Twitter Silence With the Bible Verse
 
 Claim Timestamp: 00:38:58
 
@@ -2160,13 +2160,13 @@ Transcript Snippet: Exactly 1 hour later to the minute, Erika breaks her years-l
 Anchored Artifacts: A-1817.1
 Mentions: N-2
 Related Nodes: N-10521
-Supports: C-2429
+Supports: C-6886
 Tags: relevance:core
 Investigative Direction: Review Erika's posting history on X before September 8.
 
 ---
 
-**C-10287** Host Says Charlie Met Lori Frantzve at a Clinic Appointment at 10:45 a.m.
+**C-6885** Host Says Charlie Met Lori Frantzve at a Clinic Appointment at 10:45 a.m.
 
 Claim Timestamp: 00:38:58
 
@@ -2182,7 +2182,7 @@ Investigative Direction: Identify the clinic and source for the alleged meeting.
 
 ---
 
-**C-10288** Host Says Erika Claims to Have Arrived Home at 5:24
+**C-6888** Host Says Erika Claims to Have Arrived Home at 5:24
 
 Claim Timestamp: 00:40:08
 
@@ -2198,7 +2198,7 @@ Investigative Direction: Obtain Erika's stated timeline source and any phone loc
 
 ---
 
-**C-10289** Host Says Charlie Allegedly Texted at 5:41 Asking What Time Dinner Was
+**C-6889** Host Says Charlie Allegedly Texted at 5:41 Asking What Time Dinner Was
 
 Claim Timestamp: 00:40:08
 
@@ -2214,7 +2214,7 @@ Investigative Direction: Request the original text messages with metadata.
 
 ---
 
-**C-10290** Host Has a Strong Inkling Charlie Was Home Alone With the Kids
+**C-6890** Host Has a Strong Inkling Charlie Was Home Alone With the Kids
 
 Claim Timestamp: 00:41:03
 
@@ -2230,7 +2230,7 @@ Investigative Direction: Seek neighbor or caregiver accounts of who was home tha
 
 ---
 
-**C-10291** Host Places Charlie Shouting at the Challenge Around 7:16 and Waking GG
+**C-6891** Host Places Charlie Shouting at the Challenge Around 7:16 and Waking GG
 
 Claim Timestamp: 00:41:03
 
@@ -2241,13 +2241,13 @@ Transcript Snippet: uh around when is when is he shouting at the challenge aroun
 Anchored Artifacts: A-3071.1, A-1818.2
 Mentions: N-1, N-7
 Related Nodes: N-10473
-Qualifies: C-2431
+Qualifies: C-6878
 Tags: relevance:core
 Investigative Direction: Match the Bears game clock with the challenge play and GG's wake-up in Turek's account.
 
 ---
 
-**C-10292** Host Says the Game Ended at 8:30 So Turek Could Not Have Walked at 8:00
+**C-6892** Host Says the Game Ended at 8:30 So Turek Could Not Have Walked at 8:00
 
 Claim Timestamp: 00:42:19
 
@@ -2258,13 +2258,13 @@ Transcript Snippet: That game ended at 8:30, so he definitely was not walking wi
 Anchored Artifacts: A-3071.1
 Mentions: N-7, N-1
 Related Nodes: N-10473, N-10476
-Qualifies: C-2431
+Qualifies: C-6878
 Tags: relevance:core
 Investigative Direction: Check the game end time and Turek's stated times for the walk.
 
 ---
 
-**C-10293** Host Says Charlie Was Seen at 9:00 With His Bodyguard and a Tall Man Who Was Not Turek
+**C-6893** Host Says Charlie Was Seen at 9:00 With His Bodyguard and a Tall Man Who Was Not Turek
 
 Claim Timestamp: 00:42:19
 
@@ -2280,7 +2280,7 @@ Investigative Direction: Identify the neighbors who saw the walk and the tall ma
 
 ---
 
-**C-10294** Host Says Locals Did Not See Turek on the Walk but Saw Charlie Chat With a Neighbor
+**C-6894** Host Says Locals Did Not See Turek on the Walk but Saw Charlie Chat With a Neighbor
 
 Claim Timestamp: 00:42:19
 
@@ -2296,7 +2296,7 @@ Investigative Direction: Interview the neighbor Charlie spoke with.
 
 ---
 
-**C-10295** Host Says No One Can Confirm Seeing Erika Anywhere on September 8
+**C-6895** Host Says No One Can Confirm Seeing Erika Anywhere on September 8
 
 Claim Timestamp: 00:43:08
 
@@ -2312,7 +2312,7 @@ Investigative Direction: Canvass neighbors and store staff and check card or loc
 
 ---
 
-**C-10296** Host Says Neighbors Saw the Kids With Tracy Martin's Husband
+**C-6896** Host Says Neighbors Saw the Kids With Tracy Martin's Husband
 
 Claim Timestamp: 00:43:08
 
@@ -2328,7 +2328,7 @@ Investigative Direction: Ask Tracy Martin's husband when he was with the childre
 
 ---
 
-**C-10297** Host Says She Held Back Mitch's Erika Sighting When the Campaign Turned Aggressive
+**C-6897** Host Says She Held Back Mitch's Erika Sighting When the Campaign Turned Aggressive
 
 Claim Timestamp: 00:44:00
 
@@ -2344,7 +2344,7 @@ Investigative Direction: Compare the dates of the first Fort Huachuca mention, t
 
 ---
 
-**C-10298** Host Says Kamala Harris' Mother Was Potentially Tied to MK Ultra
+**C-6898** Host Says Kamala Harris' Mother Was Potentially Tied to MK Ultra
 
 Claim Timestamp: 00:52:08
 
@@ -2527,7 +2527,7 @@ Confidence: high
 - **Lori France vs. Lori Faye:** Transcript contains both. "Lori Faye" appears in the timeline reconstruction at 00:39:30.
 
 ### Artifact Verbally Referenced but Not Displayed
-- 1997 pageant lawsuit referencing Epstein's presence at a meeting (C-1997-lawsuit not inscribed due to no anchor; flagged for human verification).
+- 1997 pageant lawsuit referencing Epstein's presence at a meeting (C-4484-lawsuit not inscribed due to no anchor; flagged for human verification).
 - Text messages between Erika Kirk and Charlie Kirk on September 8 (alleged dinner texts) referenced but not shown. Flag for human verification.
 - "Someone read a background on Lynn Forester de Rothschild" (A-1814.1) – underlying background document not displayed; only cited.
 - Specific Epstein–Kates emails (A-1812.1, A-1812.2) – referenced but not displayed; sample email containing the bar mitzvah invitation not shown.
@@ -2559,7 +2559,7 @@ Confidence: high
 ## Ledger Continuation Footer
 
 - **New Artifact Families:** A-1809 through A-1821 (13 families)
-- **New Claim IDs:** C-2419 through C-2436 (18 claims)
+- **New Claim IDs:** C-6818 through C-6887 (18 claims)
 - **New People Nodes:** N-9 through N-572 (10 nodes)
 - **New Investigation Target Nodes:** N-10519 through N-10524 (6 nodes)
 - **Existing Nodes Reused:** N-1, N-2, N-557

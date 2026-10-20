@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep058): N-529, N-10428, N-10472
   - Tip-minted Nodes (reintro-ep058): N-724, N-771, N-11126
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9830–C-9912
+  - Claim Range: C-5142–C-5242
   - New Nodes Introduced: N-459, N-460, N-461, N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-10418, N-10419, N-10420, N-10421, N-10423
   - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-237, N-278, N-325, N-361, N-450, N-451, N-456, N-752, N-800, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
   - (see registers)
@@ -161,7 +161,7 @@ Video Timestamp: 00:03:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2108, C-2110, N-459, N-462, N-463, N-464, N-465, N-466, N-10417, N-10418*
+*Related: C-5147, C-5159, N-459, N-462, N-463, N-464, N-465, N-466, N-10417, N-10418*
 
 **A-1635.2** November Renaissance Kickstarter Campaign Page (Publicly Available Remnant)
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2108, C-2109, C-2110, N-459, N-10418*
+*Related: C-5147, C-5160, C-5159, N-459, N-10418*
 
 **A-1635.3** Clayton Haugen Director Audio Clip (Nanotechnology / Mind-as-Hard-Drive Concept Pitch)
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:08:16–00:10:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2109, N-459, N-10418*
+*Related: C-5160, N-459, N-10418*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:16:13–00:18:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2112, N-2, N-10419*
+*Related: C-5178, N-2, N-10419*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:18:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2113, N-2, N-10419*
+*Related: C-5180, N-2, N-10419*
 
 ---
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:20:05–00:21:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2114, N-460, N-461, N-10421*
+*Related: C-5184, N-460, N-461, N-10421*
 
 **A-1638.2** Nelda Buckman Daily Wire Plus Interview (January 2026) on Relationship with Erika
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:21:00–00:22:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2115, N-2, N-460, N-10421*
+*Related: C-5186, N-2, N-460, N-10421*
 
 **A-1638.3** Baron Coleman / "Mommy Sleuth" Plane Tracking Research (Charlie/Erika Plane Visiting New Braunfels TX and Idaho)
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2117, N-2, N-10421*
+*Related: C-5182, N-2, N-10421*
 
 ---
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:21:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2116, N-460, N-10423*
+*Related: C-5188, N-460, N-10423*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 00:24:52–00:27:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2118, C-2119, N-460, N-10420*
+*Related: C-5212, C-5221, N-460, N-10420*
 
 ---
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:36:23–00:39:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2118, N-201, N-10424*
+*Related: C-5212, N-201, N-10424*
 
 **A-1641.2** Nick Fuentes Follow-Up Clip Reframing Epstein Issue as "Political Blackmail" Rather Than Pedophilia
 
@@ -295,7 +295,7 @@ Video Timestamp: 00:42:23–00:44:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2119, N-201, N-10424*
+*Related: C-5221, N-201, N-10424*
 
 ---
 
@@ -309,7 +309,7 @@ Video Timestamp: 00:53:05–00:55:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2120, N-469, N-10422*
+*Related: C-5228, N-469, N-10422*
 
 **A-1642.2** Sisbear Comment: Whistleblower Sabrina Wallace, DARPA Biosonar Testing on Children
 
@@ -332,7 +332,7 @@ Video Timestamp: 00:03:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9835, N-14, N-2, N-3*
+*Related: C-5148, N-14, N-2, N-3*
 
 ---
 
@@ -345,7 +345,7 @@ Video Timestamp: 00:13:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9853, C-9910, N-2, N-3*
+*Related: C-5169, C-5240, N-2, N-3*
 
 ---
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:14:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9854, C-9855, C-9856, C-9857, C-9858, N-17, N-237, N-3, N-325, N-42, N-450, N-451, N-61*
+*Related: C-5170, C-5171, C-5172, C-5173, C-5174, N-17, N-237, N-3, N-325, N-42, N-450, N-451, N-61*
 
 ---
 
@@ -373,7 +373,7 @@ Video Timestamp: 00:47:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9897, N-201, N-3*
+*Related: C-5226, N-201, N-3*
 
 ---
 
@@ -386,7 +386,7 @@ Video Timestamp: 00:58:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9906, N-1, N-3*
+*Related: C-5236, N-1, N-3*
 
 ---
 
@@ -401,7 +401,7 @@ Video Timestamp: 01:01:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9911, N-3*
+*Related: C-5241, N-3*
 
 ---
 
@@ -417,7 +417,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-10418*
+*Related: A-1635.1, A-1635.2, A-1635.3, C-5147, C-5160, C-5159, N-10418*
 
 **N-460** Nelda Buckman
 
@@ -428,7 +428,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-2114, C-2115, C-2116, C-2118, N-461, N-10420, N-10421, N-10423*
+*Related: A-1638.1, A-1638.2, A-1639.1, A-1640.1, C-5184, C-5186, C-5188, C-5212, N-461, N-10420, N-10421, N-10423*
 
 **N-461** Karl Buckman
 
@@ -439,7 +439,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.1, C-2114, N-460, N-10421*
+*Related: A-1638.1, C-5184, N-460, N-10421*
 
 **N-201** Nick Fuentes
 
@@ -450,7 +450,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, N-220, N-468, N-10424*
+*Related: A-1641.1, A-1641.2, C-5212, C-5221, N-220, N-468, N-10424*
 
 **N-462** Don Frye
 
@@ -461,7 +461,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10417, N-10418*
+*Related: A-1635.1, C-5147, N-10417, N-10418*
 
 **N-463** Peyton McCormick
 
@@ -472,7 +472,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10417, N-10418*
+*Related: A-1635.1, C-5147, N-10417, N-10418*
 
 **N-464** Chantal Thuy
 
@@ -483,7 +483,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10418*
+*Related: A-1635.1, C-5147, N-10418*
 
 **N-465** Price Mitchum
 
@@ -494,7 +494,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10418*
+*Related: A-1635.1, C-5147, N-10418*
 
 **N-466** Priscilla Ann Nu'ul
 
@@ -505,7 +505,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1635.1, C-2108, N-10418*
+*Related: A-1635.1, C-5147, N-10418*
 
 **N-467** Sabrina Wallace
 
@@ -527,7 +527,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2123, N-201, N-10424*
+*Related: C-5217, N-201, N-10424*
 
 **N-468** Farris Wilks
 
@@ -538,7 +538,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2122, N-201, N-10424*
+*Related: C-5216, N-201, N-10424*
 
 **N-145** Marjorie Taylor Greene
 
@@ -560,7 +560,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1642.1, C-2120, N-10422*
+*Related: A-1642.1, C-5228, N-10422*
 
 **N-330** Baron Coleman
 
@@ -571,7 +571,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.3, C-2117, N-10421*
+*Related: A-1638.3, C-5182, N-10421*
 
 **N-263** Mommy Sleuth (Nellie)
 
@@ -582,7 +582,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1638.3, A-1640.1, C-2117, C-2118, N-10420, N-10421*
+*Related: A-1638.3, A-1640.1, C-5182, C-5212, N-10420, N-10421*
 
 ---
 
@@ -595,7 +595,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1635.1, A-1635.2, C-2108, C-2111, N-2, N-459, N-462, N-463*
+*Related: A-1635.1, A-1635.2, C-5147, C-5164, N-2, N-459, N-462, N-463*
 
 **N-10418** November Renaissance Film Production Investigation
 
@@ -606,7 +606,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1635.1, A-1635.2, A-1635.3, C-2108, C-2109, C-2110, N-459, N-462, N-463, N-464, N-465, N-466*
+*Related: A-1635.1, A-1635.2, A-1635.3, C-5147, C-5160, C-5159, N-459, N-462, N-463, N-464, N-465, N-466*
 
 **N-10419** Erika China Residence Discrepancy
 
@@ -617,7 +617,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1636.1, A-1637.1, C-2112, C-2113, N-2*
+*Related: A-1636.1, A-1637.1, C-5178, C-5180, N-2*
 
 **N-10420** Courage House Nevada Investigation
 
@@ -628,7 +628,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1640.1, C-2118, C-2119, N-460, N-263*
+*Related: A-1640.1, C-5212, C-5221, N-460, N-263*
 
 **N-10421** Buckman–TPUSA Donor Relationship Investigation
 
@@ -639,7 +639,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1638.1, A-1638.2, A-1638.3, C-2114, C-2115, C-2117, N-460, N-461, N-330, N-263*
+*Related: A-1638.1, A-1638.2, A-1638.3, C-5184, C-5186, C-5182, N-460, N-461, N-330, N-263*
 
 **N-10422** GATE / Gifted Education Program Investigation
 
@@ -650,7 +650,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1642.1, A-1642.2, C-2120, N-467, N-469*
+*Related: A-1642.1, A-1642.2, C-5228, N-467, N-469*
 
 **N-10423** Identity Crisis Documentary Production Investigation
 
@@ -661,7 +661,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1639.1, C-2116, N-460*
+*Related: A-1639.1, C-5188, N-460*
 
 **N-10424** Nick Fuentes Federal Informant Allegation
 
@@ -672,7 +672,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1641.1, A-1641.2, C-2118, C-2119, C-2121, C-2122, C-2123, N-201, N-220, N-468, N-145*
+*Related: A-1641.1, A-1641.2, C-5212, C-5221, C-5215, C-5216, C-5217, N-201, N-220, N-468, N-145*
 
 ---
 
@@ -680,7 +680,7 @@ Investigative Pressure: Medium
 
 Widow and TPUSA chairman and CEO; subject of the Fort Huachuca sighting, the alibi video and the China statement.
 
-*Related: C-9830, C-9831, C-9834, C-9835, C-9836, C-9837, C-9838, C-9845, C-9848, C-9849, C-9851, C-9852, C-9853, C-9862, C-9863, C-9864, C-9910*
+*Related: C-5142, C-5143, C-5146, C-5148, C-5149, C-5150, C-5151, C-5158, C-5163, C-5165, C-5167, C-5168, C-5169, C-5179, C-5185, C-5187, C-5240*
 
 ---
 
@@ -688,7 +688,7 @@ Widow and TPUSA chairman and CEO; subject of the Fort Huachuca sighting, the ali
 
 Host; speaks for herself throughout.
 
-*Related: C-9830, C-9831, C-9832, C-9833, C-9834, C-9835, C-9836, C-9837, C-9838, C-9843, C-9844, C-9845, C-9846, C-9847, C-9848, C-9849, C-9850, C-9851, C-9852, C-9853, C-9854, C-9855, C-9856, C-9857, C-9859, C-9860, C-9861, C-9863, C-9864, C-9865, C-9866, C-9867, C-9868, C-9869, C-9870, C-9871, C-9872, C-9873, C-9874, C-9875, C-9876, C-9877, C-9878, C-9879, C-9880, C-9881, C-9882, C-9883, C-9884, C-9885, C-9886, C-9887, C-9888, C-9890, C-9891, C-9895, C-9896, C-9897, C-9898, C-9901, C-9902, C-9903, C-9904, C-9905, C-9906, C-9908, C-9909, C-9910, C-9911, C-9912*
+*Related: C-5142, C-5143, C-5144, C-5145, C-5146, C-5148, C-5149, C-5150, C-5151, C-5156, C-5157, C-5158, C-5161, C-5162, C-5163, C-5165, C-5166, C-5167, C-5168, C-5169, C-5170, C-5171, C-5172, C-5173, C-5175, C-5176, C-5177, C-5185, C-5187, C-5189, C-5190, C-5191, C-5192, C-5193, C-5194, C-5195, C-5196, C-5197, C-5198, C-5199, C-5200, C-5201, C-5202, C-5203, C-5204, C-5205, C-5206, C-5207, C-5208, C-5209, C-5210, C-5211, C-5213, C-5218, C-5219, C-5224, C-5225, C-5226, C-5227, C-5231, C-5232, C-5233, C-5234, C-5235, C-5236, C-5238, C-5239, C-5240, C-5241, C-5242*
 
 ---
 
@@ -696,7 +696,7 @@ Host; speaks for herself throughout.
 
 Persistent investigation into Erika's claimed Fort Huachuca alibi.
 
-*Related: C-9830, C-9832, C-9834, C-9835, C-9845, C-9848, C-9853, C-9910*
+*Related: C-5142, C-5144, C-5146, C-5148, C-5158, C-5163, C-5169, C-5240*
 
 ---
 
@@ -704,7 +704,7 @@ Persistent investigation into Erika's claimed Fort Huachuca alibi.
 
 Eyewitness who says he saw people at Fort Huachuca; the host defends his credibility.
 
-*Related: C-9832, C-9848, C-9850*
+*Related: C-5144, C-5163, C-5166*
 
 ---
 
@@ -712,7 +712,7 @@ Eyewitness who says he saw people at Fort Huachuca; the host defends his credibi
 
 Turning Point USA; focus of the host's chart and the Montgomery and Vallely claims.
 
-*Related: C-9832, C-9853, C-9859, C-9908, C-9909*
+*Related: C-5144, C-5169, C-5175, C-5238, C-5239*
 
 ---
 
@@ -720,7 +720,7 @@ Turning Point USA; focus of the host's chart and the Montgomery and Vallely clai
 
 Allegations about Fort Huachuca covert-operations classes.
 
-*Related: C-9833*
+*Related: C-5145*
 
 ---
 
@@ -728,7 +728,7 @@ Allegations about Fort Huachuca covert-operations classes.
 
 Question about Christian Zionist infiltration of TPUSA Faith.
 
-*Related: C-9833*
+*Related: C-5145*
 
 ---
 
@@ -736,7 +736,7 @@ Question about Christian Zionist infiltration of TPUSA Faith.
 
 TPUSA spokesperson; the host recounts his Fort Huachuca response and his call about Ben Shapiro and AmFest.
 
-*Related: C-9834, C-9835, C-9845, C-9868, C-9869*
+*Related: C-5146, C-5148, C-5158, C-5192, C-5193*
 
 ---
 
@@ -744,7 +744,7 @@ TPUSA spokesperson; the host recounts his Fort Huachuca response and his call ab
 
 Erika's September 8 alibi topic.
 
-*Related: C-9835*
+*Related: C-5148*
 
 ---
 
@@ -752,7 +752,7 @@ Erika's September 8 alibi topic.
 
 Question of what happened at Fort Huachuca on September 9.
 
-*Related: C-9849, C-9851*
+*Related: C-5165, C-5167*
 
 ---
 
@@ -760,7 +760,7 @@ Question of what happened at Fort Huachuca on September 9.
 
 Mitch Snow's Fort Huachuca eyewitness encounter.
 
-*Related: C-9850*
+*Related: C-5166*
 
 ---
 
@@ -768,7 +768,7 @@ Mitch Snow's Fort Huachuca eyewitness encounter.
 
 Fort Huachuca sighting verification topic.
 
-*Related: C-9852*
+*Related: C-5168*
 
 ---
 
@@ -776,7 +776,7 @@ Fort Huachuca sighting verification topic.
 
 Man arrested after the shooting; appears as a strand on the host's chart.
 
-*Related: C-9854*
+*Related: C-5170*
 
 ---
 
@@ -784,7 +784,7 @@ Man arrested after the shooting; appears as a strand on the host's chart.
 
 Liberty University; a strand on the host's chart.
 
-*Related: C-9854*
+*Related: C-5170*
 
 ---
 
@@ -792,7 +792,7 @@ Liberty University; a strand on the host's chart.
 
 Romania and Eastern Europe trafficking cluster.
 
-*Related: C-9854, C-9855*
+*Related: C-5170, C-5171*
 
 ---
 
@@ -800,7 +800,7 @@ Romania and Eastern Europe trafficking cluster.
 
 Decoy boy operation analysis.
 
-*Related: C-9854*
+*Related: C-5170*
 
 ---
 
@@ -808,7 +808,7 @@ Decoy boy operation analysis.
 
 Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.
 
-*Related: C-9855*
+*Related: C-5171*
 
 ---
 
@@ -816,7 +816,7 @@ Pastor of Harvest Christian Fellowship; the host links TPUSA Faith to him.
 
 Former megachurch pastor accused in a Romanian children case, named by the host.
 
-*Related: C-9855*
+*Related: C-5171*
 
 ---
 
@@ -824,7 +824,7 @@ Former megachurch pastor accused in a Romanian children case, named by the host.
 
 Harvest Christian Fellowship Romanian abuse lawsuit cluster.
 
-*Related: C-9855*
+*Related: C-5171*
 
 ---
 
@@ -832,7 +832,7 @@ Harvest Christian Fellowship Romanian abuse lawsuit cluster.
 
 Pastor; the host recaps his reported attempt to rehabilitate an abuser.
 
-*Related: C-9856*
+*Related: C-5172*
 
 ---
 
@@ -840,7 +840,7 @@ Pastor; the host recaps his reported attempt to rehabilitate an abuser.
 
 Operation Underground founder; central to the host's recap and her past donations.
 
-*Related: C-9857, C-9858, C-9880*
+*Related: C-5173, C-5174, C-5204*
 
 ---
 
@@ -848,14 +848,14 @@ Operation Underground founder; central to the host's recap and her past donation
 
 Utah politician; the host recaps his visit to Ballard.
 
-*Related: C-9857*
+*Related: C-5173*
 
 ---
 
 **N-11167** Operation Underground Railroad
 Operation Underground; discussed in the host's recap.
 
-*Related: C-9857, C-9858, C-9880*
+*Related: C-5173, C-5174, C-5204*
 
 ---
 
@@ -863,7 +863,7 @@ Operation Underground; discussed in the host's recap.
 
 Phil Lyman proximity investigation.
 
-*Related: C-9857*
+*Related: C-5173*
 
 ---
 
@@ -871,7 +871,7 @@ Phil Lyman proximity investigation.
 
 Media figure; the host says he funded Operation Underground.
 
-*Related: C-9858*
+*Related: C-5174*
 
 ---
 
@@ -879,7 +879,7 @@ Media figure; the host says he funded Operation Underground.
 
 Retired Army general on the TPUSA advisory board.
 
-*Related: C-9859, C-9860*
+*Related: C-5175, C-5176*
 
 ---
 
@@ -887,7 +887,7 @@ Retired Army general on the TPUSA advisory board.
 
 Everyday Heroes Foundation, which Erika says she founded.
 
-*Related: C-9862*
+*Related: C-5179*
 
 ---
 
@@ -895,7 +895,7 @@ Everyday Heroes Foundation, which Erika says she founded.
 
 Erika's China timeline discrepancy topic.
 
-*Related: C-9862*
+*Related: C-5179*
 
 ---
 
@@ -903,7 +903,7 @@ Erika's China timeline discrepancy topic.
 
 Daily Wire; source of the Buckman interview.
 
-*Related: C-9864*
+*Related: C-5187*
 
 ---
 
@@ -911,7 +911,7 @@ Daily Wire; source of the Buckman interview.
 
 Daily Wire co-founder; the host alleges he pressured Kirk's donors over her AmFest slot.
 
-*Related: C-9865, C-9866, C-9868, C-9869*
+*Related: C-5189, C-5190, C-5192, C-5193*
 
 ---
 
@@ -919,7 +919,7 @@ Daily Wire co-founder; the host alleges he pressured Kirk's donors over her AmFe
 
 Subject of the assassination; the host relays what he told her about donor pressure, his schooling and his predictions.
 
-*Related: C-9865, C-9866, C-9869, C-9885, C-9901, C-9906, C-9908*
+*Related: C-5189, C-5190, C-5193, C-5209, C-5231, C-5236, C-5238*
 
 ---
 
@@ -927,7 +927,7 @@ Subject of the assassination; the host relays what he told her about donor press
 
 AmFest speaker removal pattern.
 
-*Related: C-9865, C-9866, C-9867, C-9868*
+*Related: C-5189, C-5190, C-5191, C-5192*
 
 ---
 
@@ -935,7 +935,7 @@ AmFest speaker removal pattern.
 
 Ben Shapiro hostile takeover pattern.
 
-*Related: C-9865*
+*Related: C-5189*
 
 ---
 
@@ -943,7 +943,7 @@ Ben Shapiro hostile takeover pattern.
 
 Journalist; the host says donors fed her information.
 
-*Related: C-9867*
+*Related: C-5191*
 
 ---
 
@@ -951,7 +951,7 @@ Journalist; the host says donors fed her information.
 
 Convicted sex offender; subject of the Fuentes clips and the host's discussion of his charity donations.
 
-*Related: C-9881, C-9888, C-9889*
+*Related: C-5205, C-5213, C-5214*
 
 ---
 
@@ -959,7 +959,7 @@ Convicted sex offender; subject of the Fuentes clips and the host's discussion o
 
 MK Ultra, cited by the host.
 
-*Related: C-9882*
+*Related: C-5206*
 
 ---
 
@@ -967,7 +967,7 @@ MK Ultra, cited by the host.
 
 Operation Paperclip, cited by the host.
 
-*Related: C-9882*
+*Related: C-5206*
 
 ---
 
@@ -975,7 +975,7 @@ Operation Paperclip, cited by the host.
 
 UVU president; the host says she stepped down and was absent on September 10.
 
-*Related: C-9884, C-9885, C-9886*
+*Related: C-5208, C-5209, C-5210*
 
 ---
 
@@ -983,7 +983,7 @@ UVU president; the host says she stepped down and was absent on September 10.
 
 Utah Valley University.
 
-*Related: C-9884, C-9885, C-9886*
+*Related: C-5208, C-5209, C-5210*
 
 ---
 
@@ -991,7 +991,7 @@ Utah Valley University.
 
 Utah Valley University campus.
 
-*Related: C-9885*
+*Related: C-5209*
 
 ---
 
@@ -999,7 +999,7 @@ Utah Valley University campus.
 
 Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to him.
 
-*Related: C-9888*
+*Related: C-5213*
 
 ---
 
@@ -1007,7 +1007,7 @@ Modeling agent linked to Epstein; the host says he flew 12-year-old triplets to 
 
 Epstein as Israeli intelligence asset allegation.
 
-*Related: C-9889, C-9892*
+*Related: C-5214, C-5220*
 
 ---
 
@@ -1015,7 +1015,7 @@ Epstein as Israeli intelligence asset allegation.
 
 Rocket scientist and occultist the host cites as a Crowley student.
 
-*Related: C-9896*
+*Related: C-5225*
 
 ---
 
@@ -1023,7 +1023,7 @@ Rocket scientist and occultist the host cites as a Crowley student.
 
 Occultist cited by the host.
 
-*Related: C-9896*
+*Related: C-5225*
 
 ---
 
@@ -1031,7 +1031,7 @@ Occultist cited by the host.
 
 Project Looking Glass allegation.
 
-*Related: C-9898*
+*Related: C-5227*
 
 ---
 
@@ -1039,7 +1039,7 @@ Project Looking Glass allegation.
 
 Air Force reservist the host says co-founded TPUSA.
 
-*Related: C-9909*
+*Related: C-5239*
 
 ---
 
@@ -1047,7 +1047,7 @@ Air Force reservist the host says co-founded TPUSA.
 
 First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Peyton McCormick.
 
-*Related: C-9841*
+*Related: C-5153*
 
 ---
 
@@ -1055,7 +1055,7 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Peyton McCormick.
 
-*Related: C-9841*
+*Related: C-5153*
 
 ---
 
@@ -1063,7 +1063,7 @@ First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan Mc
 
 First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.
 
-*Related: C-9912*
+*Related: C-5242*
 
 ---
 
@@ -1072,7 +1072,7 @@ First named by the host at 01:02:10 in episode 58 as the interviewer in an inter
 Node Type: Organization
 Defense contracting firm the host says employs Clayton Haugen in marketing.
 
-*Related: C-9839*
+*Related: C-5152*
 
 ---
 
@@ -1081,7 +1081,7 @@ Defense contracting firm the host says employs Clayton Haugen in marketing.
 Node Type: Organization
 Occult organization the host says was founded by the avowed Satanist who co-wrote a book with Paul Vallely.
 
-*Related: C-9860, C-9861*
+*Related: C-5176, C-5177*
 
 ---
 
@@ -1090,7 +1090,7 @@ Occult organization the host says was founded by the avowed Satanist who co-wrot
 Node Type: Organization
 Foster-care nonprofit with regional chapters, including Austin Angels and New Jersey Angels, that the host says Nelda Buckman works with.
 
-*Related: C-9871*
+*Related: C-5195*
 
 ---
 
@@ -1099,7 +1099,7 @@ Foster-care nonprofit with regional chapters, including Austin Angels and New Je
 Node Type: Organization
 Nonprofit behind Courage House Nevada, whose founder the host quotes about the site being hard to leave.
 
-*Related: C-9873, C-9877*
+*Related: C-5197, C-5201*
 
 ---
 
@@ -1108,7 +1108,7 @@ Nonprofit behind Courage House Nevada, whose founder the host quotes about the s
 Node Type: Organization
 Private school the host says offered her an all-expenses place after a gifted program test.
 
-*Related: C-9903*
+*Related: C-5233*
 
 ---
 
@@ -1117,13 +1117,13 @@ Private school the host says offered her an all-expenses place after a gifted pr
 Node Type: Place
 Cold War underground base in Greenland the host says was built to launch missiles.
 
-*Related: C-9905*
+*Related: C-5235*
 
 ---
 
 ## 5. Claim Register
 
-**C-2108** Host Says November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections
+**C-5147** Host Says November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections
 
 Claim Timestamp: 00:03:23–00:05:24
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Obtain independent verification of military service rec
 
 ---
 
-**C-2109** Per Kickstarter Text the Host Reads, November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations
+**C-5160** Per Kickstarter Text the Host Reads, November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations
 
 Claim Timestamp: 00:07:34
 
@@ -1153,7 +1153,7 @@ Investigative Direction: Obtain and archive the full Kickstarter campaign text a
 
 ---
 
-**C-2110** Host Says Erika Was Cast as "Evelyn Mathis" in the November Renaissance Kickstarter Campaign
+**C-5159** Host Says Erika Was Cast as "Evelyn Mathis" in the November Renaissance Kickstarter Campaign
 
 Claim Timestamp: 00:07:10
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Archive the Kickstarter remnant directly and verify the
 
 ---
 
-**C-2111** Three Independently-Sourced Fort Huachuca-Affiliated Individuals Report Having Seen Erika at the Base
+**C-5164** Three Independently-Sourced Fort Huachuca-Affiliated Individuals Report Having Seen Erika at the Base
 
 Claim Timestamp: 00:11:15–00:14:14
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Obtain sworn statements or on-record confirmation from 
 
 ---
 
-**C-2112** Erika Said on a Podcast She Lived in China Working with Sex Trafficking Victims
+**C-5178** Erika Said on a Podcast She Lived in China Working with Sex Trafficking Victims
 
 Claim Timestamp: 00:16:13–00:18:00
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Identify and archive the original podcast episode; obta
 
 ---
 
-**C-2113** Turning Point Executive Justin Streiff Stated Erika Never Lived in China
+**C-5180** Turning Point Executive Justin Streiff Stated Erika Never Lived in China
 
 Claim Timestamp: 00:18:15
 
@@ -1213,7 +1213,7 @@ Related Nodes: N-10419
 
 Investigative Direction: Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
-**C-3742** Host Says Justin Streiff Told Her Erika Never Lived in China
+**C-5181** Host Says Justin Streiff Told Her Erika Never Lived in China
 
 Claim Timestamp: 00:18:18
 
@@ -1224,13 +1224,13 @@ Transcript Snippet: And he replied that she never lived in China.
 Anchored Artifacts: A-1637.1
 Mentions: N-15, N-2, N-3
 Related Nodes: N-10419
-Revises: C-2113
+Revises: C-5180
 Confidence: medium
-Investigative Direction: Read with C-2113; request the reply under the corrected spelling Justin Streiff.
+Investigative Direction: Read with C-5180; request the reply under the corrected spelling Justin Streiff.
 
 ---
 
-**C-2114** Host Says Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus
+**C-5184** Host Says Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus
 
 Claim Timestamp: 00:20:05–00:21:00
 
@@ -1245,7 +1245,7 @@ Investigative Direction: Obtain Daily Wire's article text and any Turning Point 
 
 ---
 
-**C-2115** Nelda Buckman Described Close Post-Assassination Relationship with Erika Including Private Florida Meeting
+**C-5186** Nelda Buckman Described Close Post-Assassination Relationship with Erika Including Private Florida Meeting
 
 Claim Timestamp: 00:21:00–00:22:00
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Obtain the full Daily Wire Plus interview text; verify 
 
 ---
 
-**C-2116** Host Says Nelda Buckman Is Executive Producer of the Identity Crisis Documentary
+**C-5188** Host Says Nelda Buckman Is Executive Producer of the Identity Crisis Documentary
 
 Claim Timestamp: 00:21:46
 
@@ -1275,7 +1275,7 @@ Investigative Direction: Verify Buckman's credit against the film's production f
 
 ---
 
-**C-2117** Plane Formerly Used by Charlie, Now Used by Erika, Has Visited New Braunfels TX and Idaho
+**C-5182** Plane Formerly Used by Charlie, Now Used by Erika, Has Visited New Braunfels TX and Idaho
 
 Claim Timestamp: 00:18:20
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Obtain tail-number records and cross-reference flight l
 
 ---
 
-**C-2118** Nick Fuentes Publicly Stated Epstein Conduct with "Barely Legal Teens" Was "Not Really Pedophilia"
+**C-5212** Nick Fuentes Publicly Stated Epstein Conduct with "Barely Legal Teens" Was "Not Really Pedophilia"
 
 Claim Timestamp: 00:36:23–00:39:06
 
@@ -1305,7 +1305,7 @@ Investigative Direction: Obtain the unedited source clip with timestamp and chan
 
 ---
 
-**C-2119** Nick Fuentes Reframed the Epstein Issue as Blackmail for Israel Rather Than Pedophilia
+**C-5221** Nick Fuentes Reframed the Epstein Issue as Blackmail for Israel Rather Than Pedophilia
 
 Claim Timestamp: 00:42:23–00:44:18
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Obtain unedited source clip and verify the framing in t
 
 ---
 
-**C-2120** Nika Commenter Reports Memory Blackout Ages 4–10 at Fort Hood and Attendance at Schools Linked via Aspen Education Group
+**C-5228** Nika Commenter Reports Memory Blackout Ages 4–10 at Fort Hood and Attendance at Schools Linked via Aspen Education Group
 
 Claim Timestamp: 00:53:05–00:55:26
 
@@ -1336,7 +1336,7 @@ Investigative Direction: Verify Aspen Education Group corporate lineage; obtain 
 ---
 
 
-**C-2121** Host Asserts Nick Fuentes Led People Into the Capitol With a Bullhorn and Was Not Arrested
+**C-5215** Host Asserts Nick Fuentes Led People Into the Capitol With a Bullhorn and Was Not Arrested
 
 Claim Timestamp: 00:39:06
 Claim: The host asserts that Nick Fuentes led people into the Capitol with a bullhorn, told them to ignore police and storm the barriers as if acting on federal instructions, and was not arrested, which she offers as evidence that he is a federal informant.
@@ -1349,7 +1349,7 @@ Investigative Direction: Obtain footage of the Capitol breach the host describes
 
 ---
 
-**C-2122** Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Farris Wilks' Partner
+**C-5216** Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Farris Wilks' Partner
 
 Claim Timestamp: 00:39:06
 Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and Farris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.
@@ -1362,7 +1362,7 @@ Investigative Direction: Identify the reporter and obtain the documents; confirm
 
 ---
 
-**C-2123** Host Says Milo Yiannopoulos Told Nick Fuentes the Night Before the Capitol Breach That a Federal Trap Was Planned
+**C-5217** Host Says Milo Yiannopoulos Told Nick Fuentes the Night Before the Capitol Breach That a Federal Trap Was Planned
 
 Claim Timestamp: 00:39:06
 Claim: The host says it is known "for a fact" that Milo Yiannopoulos informed Nick Fuentes the night before he led people into the Capitol that a federal trap was happening, and that Fuentes still went with a bullhorn.
@@ -1375,7 +1375,7 @@ Investigative Direction: Locate Yiannopoulos's own statement about the warning t
 
 ---
 
-**C-3657** Host elevates mommy sleuth crowd investigators
+**C-5183** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:19:20
 Claim: The host gives a shout-out to "the mommy sleuth who did the work" tracing the plane's visits, saying "these mommy sleuth hit different."
@@ -1388,7 +1388,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-9830** Host Says Erika Disputes the Stationed Witness Account
+**C-5142** Host Says Erika Disputes the Stationed Witness Account
 
 Claim Timestamp: 00:00:30
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Obtain Erika's or TPUSA's on-record denial of the sight
 
 ---
 
-**C-9831** Host Says Erika Shot a Teaser for a Short Film at or Near Fort Huachuca
+**C-5143** Host Says Erika Shot a Teaser for a Short Film at or Near Fort Huachuca
 
 Claim Timestamp: 00:00:45
 
@@ -1420,7 +1420,7 @@ Investigative Direction: Locate the teaser footage and verify filming locations 
 
 ---
 
-**C-9832** Host Says TPUSA Deployed Mitch Snow's Family Drama to Deny the Sighting
+**C-5144** Host Says TPUSA Deployed Mitch Snow's Family Drama to Deny the Sighting
 
 Claim Timestamp: 00:01:55
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Collect the TPUSA-side posts and statements about Mitch
 
 ---
 
-**C-9833** Host Says Agents Were Taught to Pose as Christians and Infiltrate Christian Organizations
+**C-5145** Host Says Agents Were Taught to Pose as Christians and Infiltrate Christian Organizations
 
 Claim Timestamp: 00:02:10
 
@@ -1447,13 +1447,13 @@ Transcript Snippet: how they were uh teaching courses to their agents on how to 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10368, N-10209
-Supports: C-1976
+Supports: C-4306
 Tags: relevance:context
 Investigative Direction: Obtain the course syllabus or first-hand accounts of the Fort Huachuca class on infiltrating Christian organizations.
 
 ---
 
-**C-9834** Host Characterizes Kolvet's Fort Response as Feigned Confusion
+**C-5146** Host Characterizes Kolvet's Fort Response as Feigned Confusion
 
 Claim Timestamp: 00:02:45
 
@@ -1469,7 +1469,7 @@ Investigative Direction: Retrieve Kolvet's actual on-air or posted statement and
 
 ---
 
-**C-9835** Host Says Kolvet Answered With a Photo of Erika and Her Children on the Wrong Date
+**C-5148** Host Says Kolvet Answered With a Photo of Erika and Her Children on the Wrong Date
 
 Claim Timestamp: 00:03:30
 
@@ -1485,7 +1485,7 @@ Investigative Direction: Identify the post, its date and the date metadata on th
 
 ---
 
-**C-9836** Host Says Sources Knew Erika and Worked With Her on a Film From 2010 to 2013
+**C-5149** Host Says Sources Knew Erika and Worked With Her on a Film From 2010 to 2013
 
 Claim Timestamp: 00:03:45
 
@@ -1501,7 +1501,7 @@ Investigative Direction: Obtain the sources' names or documents showing the 2010
 
 ---
 
-**C-9837** Host Says Erika Pursued the Stage and Pageants
+**C-5150** Host Says Erika Pursued the Stage and Pageants
 
 Claim Timestamp: 00:04:40
 
@@ -1517,7 +1517,7 @@ Investigative Direction: Check Erika's pageant and acting credits in public biog
 
 ---
 
-**C-9838** Host Says Haugen Was the Person Erika Was Closest To
+**C-5151** Host Says Haugen Was the Person Erika Was Closest To
 
 Claim Timestamp: 00:05:00
 
@@ -1533,7 +1533,7 @@ Investigative Direction: Ask the sources for the basis of the closeness claim; l
 
 ---
 
-**C-9839** Host Says Haugen Does Marketing for Dillon Aerospace
+**C-5152** Host Says Haugen Does Marketing for Dillon Aerospace
 
 Claim Timestamp: 00:05:30
 
@@ -1549,7 +1549,7 @@ Investigative Direction: Verify Haugen's employment through LinkedIn or company 
 
 ---
 
-**C-9840** Host Says Don Frye Graduated Sierra Vista High and Trained in Judo at Fort Huachuca
+**C-5155** Host Says Don Frye Graduated Sierra Vista High and Trained in Judo at Fort Huachuca
 
 Claim Timestamp: 00:05:50
 
@@ -1565,7 +1565,7 @@ Investigative Direction: Check Frye's published biography for the Sierra Vista s
 
 ---
 
-**C-9841** Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
+**C-5153** Host Says Peyton McCormick Is Linked to Colonel Pete and Lt. Col. Allan McCormick
 
 Claim Timestamp: 00:05:39
 
@@ -1581,7 +1581,7 @@ Investigative Direction: Confirm the family relationships and Allan McCormick's 
 
 ---
 
-**C-9842** Host Says Peyton McCormick Was Miss Teen USA in 2006
+**C-5154** Host Says Peyton McCormick Was Miss Teen USA in 2006
 
 Claim Timestamp: 00:05:45
 
@@ -1597,7 +1597,7 @@ Investigative Direction: Check Miss Teen USA 2006 titleholder records; the trans
 
 ---
 
-**C-9843** Host Says Chantal Thuy's Father Worked on AI at IBM
+**C-5156** Host Says Chantal Thuy's Father Worked on AI at IBM
 
 Claim Timestamp: 00:06:00
 
@@ -1613,7 +1613,7 @@ Investigative Direction: Identify Thuy's father and verify the IBM employment cl
 
 ---
 
-**C-9844** Host Says Price Mitchum Was Placed on a Psychiatric 5150 Hold
+**C-5157** Host Says Price Mitchum Was Placed on a Psychiatric 5150 Hold
 
 Claim Timestamp: 00:06:22
 
@@ -1629,7 +1629,7 @@ Investigative Direction: Public 5150 holds are confidential medical events; look
 
 ---
 
-**C-9845** Host Says the Poster Proves Erika Knew Fort Huachuca and Faults Kolvet's Contrary Claim
+**C-5158** Host Says the Poster Proves Erika Knew Fort Huachuca and Faults Kolvet's Contrary Claim
 
 Claim Timestamp: 00:06:37
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Find Kolvet's original statement about Erika's familiar
 
 ---
 
-**C-9846** Host Says Kickstarter Comments Show the Film Was Promised for 2013 but Not Delivered
+**C-5161** Host Says Kickstarter Comments Show the Film Was Promised for 2013 but Not Delivered
 
 Claim Timestamp: 00:08:30
 
@@ -1661,7 +1661,7 @@ Investigative Direction: Archive the Kickstarter comment thread and delivery est
 
 ---
 
-**C-9847** Host Says the Project Posted Updates Until 2017 but Was Never Released
+**C-5162** Host Says the Project Posted Updates Until 2017 but Was Never Released
 
 Claim Timestamp: 00:10:40
 
@@ -1677,7 +1677,7 @@ Investigative Direction: Capture the dated Kickstarter update log to confirm the
 
 ---
 
-**C-9848** Host Says Her Sources Are Friends of Erika and Say She Knows the Space
+**C-5163** Host Says Her Sources Are Friends of Erika and Say She Knows the Space
 
 Claim Timestamp: 00:10:55
 
@@ -1693,7 +1693,7 @@ Investigative Direction: Seek on-record confirmation from the sources; their fri
 
 ---
 
-**C-9849** Host Says the Deleted Post Said Erika Was Seen the Day Before, September 9
+**C-5165** Host Says the Deleted Post Said Erika Was Seen the Day Before, September 9
 
 Claim Timestamp: 00:11:35
 
@@ -1709,7 +1709,7 @@ Investigative Direction: Recover the deleted post from archives or screenshots a
 
 ---
 
-**C-9850** Host Says the Original Poster Has Nothing to Do With Mitch Snow
+**C-5166** Host Says the Original Poster Has Nothing to Do With Mitch Snow
 
 Claim Timestamp: 00:12:00
 
@@ -1725,7 +1725,7 @@ Investigative Direction: Ask the host to disclose how independence from Mitch Sn
 
 ---
 
-**C-9851** Host Says a Chat Participant Said There Was an Order to Lower Drones That Day
+**C-5167** Host Says a Chat Participant Said There Was an Order to Lower Drones That Day
 
 Claim Timestamp: 00:12:25
 
@@ -1741,7 +1741,7 @@ Investigative Direction: Identify the chat and the order; check Fort Huachuca ai
 
 ---
 
-**C-9852** Host Says She Confirmed the Witnesses Are Real and Stationed at Fort Huachuca
+**C-5168** Host Says She Confirmed the Witnesses Are Real and Stationed at Fort Huachuca
 
 Claim Timestamp: 00:12:55
 
@@ -1757,7 +1757,7 @@ Investigative Direction: Request documentation of the verification method, such 
 
 ---
 
-**C-9853** Host Says Erika Sent a Video About the Alibi That Missed What She Asked For
+**C-5169** Host Says Erika Sent a Video About the Alibi That Missed What She Asked For
 
 Claim Timestamp: 00:13:20
 
@@ -1773,7 +1773,7 @@ Investigative Direction: Obtain the video Erika sent and the host's example requ
 
 ---
 
-**C-9854** Host Presents a Chart of Recurring Themes From Liberty University to Eastern Europe
+**C-5170** Host Presents a Chart of Recurring Themes From Liberty University to Eastern Europe
 
 Claim Timestamp: 00:14:30
 
@@ -1789,7 +1789,7 @@ Investigative Direction: Publish the chart nodes with sources so each strand can
 
 ---
 
-**C-9855** Host Says Greg Laurie's Church Is Accused of Trafficking Children From Romania
+**C-5171** Host Says Greg Laurie's Church Is Accused of Trafficking Children From Romania
 
 Claim Timestamp: 00:14:50
 
@@ -1800,14 +1800,14 @@ Transcript Snippet: Turning Point Faith working with this Pastor Greg Laurie, wh
 Anchored Artifacts: A-3037
 Mentions: N-450, N-451, N-3
 Related Nodes: N-10411, N-10401
-Supports: C-8151
-Supports: C-7944
+Supports: C-4751
+Supports: C-2598
 Tags: relevance:context
 Investigative Direction: Pull the court docket of the Harvest Christian Fellowship Romania litigation for the allegations and status.
 
 ---
 
-**C-9856** Host Recaps Rob McCoy Trying to Rehabilitate a Past Child Abuser
+**C-5172** Host Recaps Rob McCoy Trying to Rehabilitate a Past Child Abuser
 
 Claim Timestamp: 00:15:10
 
@@ -1817,13 +1817,13 @@ Transcript Snippet: We had Rob McCoy trying to rehabilitate um a person who had 
 
 Anchored Artifacts: A-3037
 Mentions: N-17, N-3
-Supports: C-8162
+Supports: C-4761
 Tags: relevance:context
 Investigative Direction: Locate the McCoy interview and the offender's court record referenced earlier in the series.
 
 ---
 
-**C-9857** Host Recaps Phil Lyman Seeing Tim Ballard the Day After
+**C-5173** Host Recaps Phil Lyman Seeing Tim Ballard the Day After
 
 Claim Timestamp: 00:15:20
 
@@ -1834,13 +1834,13 @@ Transcript Snippet: We talked about Tim Ballard, Operation Underground, how Phil
 Anchored Artifacts: A-3037
 Mentions: N-325, N-61, N-3
 Related Nodes: N-11167, N-10144
-Supports: C-8166
+Supports: C-4766
 Tags: relevance:core
 Investigative Direction: Corroborate Lyman's meeting with Ballard on September 11, 2025 through schedules, photos or statements.
 
 ---
 
-**C-9858** Host Says Glenn Beck Funded Operation Underground and It Ended in Scandal
+**C-5174** Host Says Glenn Beck Funded Operation Underground and It Ended in Scandal
 
 Claim Timestamp: 00:15:25
 
@@ -1851,13 +1851,13 @@ Transcript Snippet: Glenn Beck had funded that Operation Under Underground, whic
 Anchored Artifacts: A-3037
 Mentions: N-237, N-325
 Related Nodes: N-11167
-Supports: C-8164
+Supports: C-4763
 Tags: relevance:context
 Investigative Direction: Review the public filings and lawsuits against Operation Underground and Beck's reported funding.
 
 ---
 
-**C-9859** Host Corrects That Paul Vallely Is on the Advisory Board, Not the Board
+**C-5175** Host Corrects That Paul Vallely Is on the Advisory Board, Not the Board
 
 Claim Timestamp: 00:15:40
 
@@ -1868,13 +1868,13 @@ Transcript Snippet: I think on that episode I said he was on the board, I meant 
 Anchored Artifacts: 
 Mentions: N-800, N-3
 Related Nodes: N-10000
-Supports: C-8245
+Supports: C-4864
 Tags: relevance:context
 Investigative Direction: Check the TPUSA advisory board listing for Vallely and archived versions of the site.
 
 ---
 
-**C-9860** Host Says Vallely Ran Psychological Operations and Co-Wrote a Book With the Founder of the Temple of Set
+**C-5176** Host Says Vallely Ran Psychological Operations and Co-Wrote a Book With the Founder of the Temple of Set
 
 Claim Timestamp: 00:15:55
 
@@ -1885,13 +1885,13 @@ Transcript Snippet: We got this retired Army general who actually ran psychologi
 Anchored Artifacts: 
 Mentions: N-800, N-3
 Related Nodes: N-11238
-Supports: C-8246
+Supports: C-4865
 Tags: relevance:context
 Investigative Direction: Verify Vallely's psychological operations command history and the book's co-author credit.
 
 ---
 
-**C-9861** Host Says the Co-Author Was Credibly Accused by Police of Harming a Child and Not Charged
+**C-5177** Host Says the Co-Author Was Credibly Accused by Police of Harming a Child and Not Charged
 
 Claim Timestamp: 00:16:08
 
@@ -1907,7 +1907,7 @@ Investigative Direction: Obtain the police report and the declination decision f
 
 ---
 
-**C-9862** Clip Shows Erika Saying She Created Everyday Heroes Like You to Fund Grassroots Groups
+**C-5179** Clip Shows Erika Saying She Created Everyday Heroes Like You to Fund Grassroots Groups
 
 Claim Timestamp: 00:17:00
 
@@ -1923,7 +1923,7 @@ Investigative Direction: Check Everyday Heroes Foundation incorporation, filings
 
 ---
 
-**C-9863** Host Says a Visit to the Biggest Donor Would Not Itself Be a Scandal
+**C-5185** Host Says a Visit to the Biggest Donor Would Not Itself Be a Scandal
 
 Claim Timestamp: 00:20:15
 
@@ -1934,13 +1934,13 @@ Transcript Snippet: going to see your biggest donor wouldn't exactly be a scanda
 Anchored Artifacts: A-1638.3
 Mentions: N-2, N-3
 Related Nodes: N-10421
-Qualifies: C-2117
+Qualifies: C-5182
 Tags: relevance:context
 Investigative Direction: Treat the plane movements as unproven wrongdoing; the open question is the donors' other ties.
 
 ---
 
-**C-9864** Nelda Buckman Is Quoted Saying She and Erika Talked About Womanhood
+**C-5187** Nelda Buckman Is Quoted Saying She and Erika Talked About Womanhood
 
 Claim Timestamp: 00:21:17
 
@@ -1956,7 +1956,7 @@ Investigative Direction: Retrieve the Daily Wire Plus interview text to confirm 
 
 ---
 
-**C-9865** Host Says Shapiro Was Upset She Called Him Out and That Charlie Had Her Back
+**C-5189** Host Says Shapiro Was Upset She Called Him Out and That Charlie Had Her Back
 
 Claim Timestamp: 00:22:01
 
@@ -1972,7 +1972,7 @@ Investigative Direction: Find Charlie Kirk's public post of support on the day o
 
 ---
 
-**C-9866** Host Says Charlie Told Her Ben Pressured His Donors Over Her AmFest Slot
+**C-5190** Host Says Charlie Told Her Ben Pressured His Donors Over Her AmFest Slot
 
 Claim Timestamp: 00:22:23
 
@@ -1983,13 +1983,13 @@ Transcript Snippet: that Ben started putting pressure on Charlie's donors uh and
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10268
-Supports: C-6656
+Supports: C-2791
 Tags: relevance:context
 Investigative Direction: Obtain the text messages or the donor's identity the host says Charlie referred to; only Charlie's account via the host is offered.
 
 ---
 
-**C-9867** Host Says Donors Were Also Feeding Information to Bari Weiss
+**C-5191** Host Says Donors Were Also Feeding Information to Bari Weiss
 
 Claim Timestamp: 00:22:51
 
@@ -2005,7 +2005,7 @@ Investigative Direction: Ask the host for the source of the Weiss information fl
 
 ---
 
-**C-9868** Host Says Kolvet Called to Say Ben Would Be Allowed to Buy a Place at AmFest
+**C-5192** Host Says Kolvet Called to Say Ben Would Be Allowed to Buy a Place at AmFest
 
 Claim Timestamp: 00:22:59
 
@@ -2021,7 +2021,7 @@ Investigative Direction: Locate AmFest 2024 speaker lists and any sponsorship te
 
 ---
 
-**C-9869** Host Says Kolvet Told Her Charlie Had to Do an Interview With Ben About the Documentary
+**C-5193** Host Says Kolvet Told Her Charlie Had to Do an Interview With Ben About the Documentary
 
 Claim Timestamp: 00:23:50
 
@@ -2037,7 +2037,7 @@ Investigative Direction: Find the Kirk and Shapiro interview tied to Identity Cr
 
 ---
 
-**C-9870** Host Says She Is Not Claiming Nelda Buckman Applied the Pressure
+**C-5194** Host Says She Is Not Claiming Nelda Buckman Applied the Pressure
 
 Claim Timestamp: 00:23:58
 
@@ -2048,13 +2048,13 @@ Transcript Snippet: I'm not saying that she necessarily was the person who put t
 Anchored Artifacts: 
 Mentions: N-460, N-1, N-3
 Related Nodes: N-10421, N-10423
-Qualifies: C-2116
+Qualifies: C-5188
 Tags: relevance:context
 Investigative Direction: No evidence offered linking Buckman to the donor pressure; identify the donor before drawing a link.
 
 ---
 
-**C-9871** Host Says Nelda Buckman Works With National Angels Chapters
+**C-5195** Host Says Nelda Buckman Works With National Angels Chapters
 
 Claim Timestamp: 00:24:25
 
@@ -2070,7 +2070,7 @@ Investigative Direction: Check National Angels board and donor listings for Buck
 
 ---
 
-**C-9872** Host Says Nelda Buckman May Be the Largest Donor to Courage House Nevada
+**C-5196** Host Says Nelda Buckman May Be the Largest Donor to Courage House Nevada
 
 Claim Timestamp: 00:25:05
 
@@ -2086,7 +2086,7 @@ Investigative Direction: Verify Courage House donor listings and filings for Buc
 
 ---
 
-**C-9873** Host Says Courage House Bought a 40-Acre Washoe County Property in April 2025
+**C-5197** Host Says Courage House Bought a 40-Acre Washoe County Property in April 2025
 
 Claim Timestamp: 00:25:20
 
@@ -2102,7 +2102,7 @@ Investigative Direction: Obtain the Washoe County deed and sale date for the 40-
 
 ---
 
-**C-9874** Host Says Courage House Is a Psychiatric Residential Treatment Facility
+**C-5198** Host Says Courage House Is a Psychiatric Residential Treatment Facility
 
 Claim Timestamp: 00:25:48
 
@@ -2118,7 +2118,7 @@ Investigative Direction: Check Nevada licensing records for the facility's PRTF 
 
 ---
 
-**C-9875** Host Says the Campus Has Capacity for 18 Children Across Three Cottages
+**C-5199** Host Says the Campus Has Capacity for 18 Children Across Three Cottages
 
 Claim Timestamp: 00:26:15
 
@@ -2134,7 +2134,7 @@ Investigative Direction: Check the permit documents for the number and type of b
 
 ---
 
-**C-9876** Host Says Courage House Is in a Confidential Secure Location
+**C-5200** Host Says Courage House Is in a Confidential Secure Location
 
 Claim Timestamp: 00:26:55
 
@@ -2150,7 +2150,7 @@ Investigative Direction: Confirm through the Washoe County deed that the address
 
 ---
 
-**C-9877** Host Says the Founder Said the Site Is Chosen Because It Is Hard for Girls to Leave or Be Found
+**C-5201** Host Says the Founder Said the Site Is Chosen Because It Is Hard for Girls to Leave or Be Found
 
 Claim Timestamp: 00:27:10
 
@@ -2166,7 +2166,7 @@ Investigative Direction: Retrieve the local news report to read the founder's fu
 
 ---
 
-**C-9878** Host Says the Website Implies Residents Could Be as Young as Four to Six
+**C-5202** Host Says the Website Implies Residents Could Be as Young as Four to Six
 
 Claim Timestamp: 00:27:50
 
@@ -2182,7 +2182,7 @@ Investigative Direction: Capture the website text and compare with the facility'
 
 ---
 
-**C-9879** Host Says Courage House Welcomes Nevada's Law Letting Girls Stay Until 21
+**C-5203** Host Says Courage House Welcomes Nevada's Law Letting Girls Stay Until 21
 
 Claim Timestamp: 00:28:05
 
@@ -2198,7 +2198,7 @@ Investigative Direction: Verify the Nevada statute on extended foster-care age a
 
 ---
 
-**C-9880** Host Says She Used to Donate Annually to Operation Underground
+**C-5204** Host Says She Used to Donate Annually to Operation Underground
 
 Claim Timestamp: 00:28:40
 
@@ -2214,7 +2214,7 @@ Investigative Direction: Host's own giving record; no outside verification neede
 
 ---
 
-**C-9881** Host Says Epstein Donated to Schools and Charities, Some Probably Trafficking Charities
+**C-5205** Host Says Epstein Donated to Schools and Charities, Some Probably Trafficking Charities
 
 Claim Timestamp: 00:29:50
 
@@ -2229,7 +2229,7 @@ Investigative Direction: Pull Epstein's foundation filings and recipients list a
 
 ---
 
-**C-9882** Host Says the Precursor to MK Ultra Took Place With Nazi Scientists Brought Over in Operation Paperclip
+**C-5206** Host Says the Precursor to MK Ultra Took Place With Nazi Scientists Brought Over in Operation Paperclip
 
 Claim Timestamp: 00:30:25
 
@@ -2245,7 +2245,7 @@ Investigative Direction: Historians' accounts of MK Ultra and Paperclip place th
 
 ---
 
-**C-9883** Host Says She Believes White Walkers Are Among Us
+**C-5207** Host Says She Believes White Walkers Are Among Us
 
 Claim Timestamp: 00:31:10
 
@@ -2260,7 +2260,7 @@ Investigative Direction: Opinion presented as belief; no checkable record offere
 
 ---
 
-**C-9884** Host Says Astrid Tuminez Has Just Stepped Down as UVU President
+**C-5208** Host Says Astrid Tuminez Has Just Stepped Down as UVU President
 
 Claim Timestamp: 00:31:40
 
@@ -2276,7 +2276,7 @@ Investigative Direction: Check the UVU announcement and its date.
 
 ---
 
-**C-9885** Host Says Tuminez Was Not at UVU on the Day of the Assassination
+**C-5209** Host Says Tuminez Was Not at UVU on the Day of the Assassination
 
 Claim Timestamp: 00:31:50
 
@@ -2292,7 +2292,7 @@ Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and tra
 
 ---
 
-**C-9886** Host Says Tuminez Was Involved in CIA Color Revolution Work and Was a Fostered Philippine Child
+**C-5210** Host Says Tuminez Was Involved in CIA Color Revolution Work and Was a Fostered Philippine Child
 
 Claim Timestamp: 00:32:00
 
@@ -2308,7 +2308,7 @@ Investigative Direction: Check Tuminez's published biography and memoir for her 
 
 ---
 
-**C-9887** Host Says Hollywood Was Founded by Viennese Directors Who Engaged in Pedophilia
+**C-5211** Host Says Hollywood Was Founded by Viennese Directors Who Engaged in Pedophilia
 
 Claim Timestamp: 00:35:40
 
@@ -2323,7 +2323,7 @@ Investigative Direction: Film historians' accounts of Vienna emigre directors; t
 
 ---
 
-**C-9888** Host Says Epstein Was Accused of Flying In 12-Year-Old Triplets Via Jean-Luc Brunel
+**C-5213** Host Says Epstein Was Accused of Flying In 12-Year-Old Triplets Via Jean-Luc Brunel
 
 Claim Timestamp: 00:36:40
 
@@ -2338,7 +2338,7 @@ Investigative Direction: Search the unsealed Giuffre and Maxwell filings and the
 
 ---
 
-**C-9889** Fuentes Clip Calls Epstein a Jewish Spy Probably Working With Israel
+**C-5214** Fuentes Clip Calls Epstein a Jewish Spy Probably Working With Israel
 
 Claim Timestamp: 00:37:30
 
@@ -2354,7 +2354,7 @@ Investigative Direction: Obtain the unedited source stream for Fuentes's wording
 
 ---
 
-**C-9890** Host Says Fuentes Said He Received a Quarter Million in Bitcoin From a Frenchman Who Killed Himself
+**C-5218** Host Says Fuentes Said He Received a Quarter Million in Bitcoin From a Frenchman Who Killed Himself
 
 Claim Timestamp: 00:40:25
 
@@ -2370,7 +2370,7 @@ Investigative Direction: Trace the Bitcoin donation and the suicide letter throu
 
 ---
 
-**C-9891** Host Says Fuentes's Lawyer Goes Off Record When Asked If He Is an Informant
+**C-5219** Host Says Fuentes's Lawyer Goes Off Record When Asked If He Is an Informant
 
 Claim Timestamp: 00:40:45
 
@@ -2386,7 +2386,7 @@ Investigative Direction: Find the interview in which the lawyer was asked and th
 
 ---
 
-**C-9892** Fuentes Clip Says Girls Were Trafficked to Acquire Blackmail to Sell to Israel
+**C-5220** Fuentes Clip Says Girls Were Trafficked to Acquire Blackmail to Sell to Israel
 
 Claim Timestamp: 00:41:45
 
@@ -2402,7 +2402,7 @@ Investigative Direction: Source the original Fuentes stream, then compare with o
 
 ---
 
-**C-9893** Fuentes Clip Says Marjorie Greene Framed Epstein as About Female Victims
+**C-5222** Fuentes Clip Says Marjorie Greene Framed Epstein as About Female Victims
 
 Claim Timestamp: 00:42:50
 
@@ -2418,7 +2418,7 @@ Investigative Direction: Find Greene's statement Fuentes refers to and its date.
 
 ---
 
-**C-9894** Fuentes Clip Says He Is Done With Gen X Obsessed With Satanic Pedophile Elite
+**C-5223** Fuentes Clip Says He Is Done With Gen X Obsessed With Satanic Pedophile Elite
 
 Claim Timestamp: 00:43:50
 
@@ -2434,7 +2434,7 @@ Investigative Direction: Confirm the clip's exact text and date from the source 
 
 ---
 
-**C-9895** Host Says Fuentes Told Her People From Sub-Saharan Africa Do Not Have High IQs
+**C-5224** Host Says Fuentes Told Her People From Sub-Saharan Africa Do Not Have High IQs
 
 Claim Timestamp: 00:44:20
 
@@ -2450,7 +2450,7 @@ Investigative Direction: Check the host's interview with Fuentes for the exchang
 
 ---
 
-**C-9896** Host Asks Whether Jack Parsons, Who Established the Apollo Program, Did Occult Sexual Rituals
+**C-5225** Host Asks Whether Jack Parsons, Who Established the Apollo Program, Did Occult Sexual Rituals
 
 Claim Timestamp: 00:45:10
 
@@ -2465,7 +2465,7 @@ Investigative Direction: Parsons is documented as a JPL co-founder and Thelema f
 
 ---
 
-**C-9897** Host Plays Fuentes Screaming After She Asked About Marriage
+**C-5226** Host Plays Fuentes Screaming After She Asked About Marriage
 
 Claim Timestamp: 00:47:20
 
@@ -2481,7 +2481,7 @@ Investigative Direction: Check the source of the shouting clip and date to see w
 
 ---
 
-**C-9898** Host Says Project Looking Glass Was Real and the CIA Hides Technology
+**C-5227** Host Says Project Looking Glass Was Real and the CIA Hides Technology
 
 Claim Timestamp: 00:52:25
 
@@ -2492,13 +2492,13 @@ Transcript Snippet: how dare she talk about Project Looking Glass, which was rea
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10413
-Supports: C-5429
+Supports: C-5076
 Tags: relevance:tangential
 Investigative Direction: No documentation offered; look for declassified or primary records on any Project Looking Glass.
 
 ---
 
-**C-9899** Nika Comment Says Her Father Was a Doctor Next to a Bio Lab at the Army Hospital
+**C-5229** Nika Comment Says Her Father Was a Doctor Next to a Bio Lab at the Army Hospital
 
 Claim Timestamp: 00:53:15
 
@@ -2514,7 +2514,7 @@ Investigative Direction: Commenter claim; Fort Hood hospital records would be ne
 
 ---
 
-**C-9900** Nika Comment Reports Lights Breaking and Cabinets Slamming When She Is Upset
+**C-5230** Nika Comment Reports Lights Breaking and Cabinets Slamming When She Is Upset
 
 Claim Timestamp: 00:54:10
 
@@ -2530,7 +2530,7 @@ Investigative Direction: Commenter anecdote; not verifiable.
 
 ---
 
-**C-9901** Host Says Charlie Said He Thought He Was a Time Traveler and Went to a Special School
+**C-5231** Host Says Charlie Said He Thought He Was a Time Traveler and Went to a Special School
 
 Claim Timestamp: 00:54:50
 
@@ -2541,13 +2541,13 @@ Transcript Snippet: He said he thought he was a time traveler. He went to a spec
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10422
-Supports: C-2104
+Supports: C-5068
 Tags: relevance:context
 Investigative Direction: Re-read the text messages the host has cited and any record of Charlie's schooling.
 
 ---
 
-**C-9902** Host Says She Was Placed in the Extraordinary Learners Program in Third Grade
+**C-5232** Host Says She Was Placed in the Extraordinary Learners Program in Third Grade
 
 Claim Timestamp: 00:55:35
 
@@ -2563,7 +2563,7 @@ Investigative Direction: Host's own schooling record; the program name could be 
 
 ---
 
-**C-9903** Host Says She Was Offered an All-Expenses Paid Place at King Low Heywood School
+**C-5233** Host Says She Was Offered an All-Expenses Paid Place at King Low Heywood School
 
 Claim Timestamp: 00:55:50
 
@@ -2579,7 +2579,7 @@ Investigative Direction: Host's anecdote; check King Low Heywood Thomas School's
 
 ---
 
-**C-9904** Host Says Gifted Programs Are Probably Meant to Identify and Track Kids for Government Work
+**C-5234** Host Says Gifted Programs Are Probably Meant to Identify and Track Kids for Government Work
 
 Claim Timestamp: 00:56:40
 
@@ -2595,7 +2595,7 @@ Investigative Direction: Speculative; FOIA GATE program records could test it.
 
 ---
 
-**C-9905** Host Says Greenland Has a Cold War Underground Military Base Built to Launch Missiles
+**C-5235** Host Says Greenland Has a Cold War Underground Military Base Built to Launch Missiles
 
 Claim Timestamp: 00:57:55
 
@@ -2611,7 +2611,7 @@ Investigative Direction: Check Camp Century history; the 1959 Project Iceworm sc
 
 ---
 
-**C-9906** Host Says Charlie Predicted Devastation From a War Involving Missiles
+**C-5236** Host Says Charlie Predicted Devastation From a War Involving Missiles
 
 Claim Timestamp: 00:58:25
 
@@ -2626,7 +2626,7 @@ Investigative Direction: Retrieve the text message(s) from the earlier episode a
 
 ---
 
-**C-9907** Sisbear Comment Says Sabrina Wallace Claims DARPA Tested Biosonar on Children
+**C-5237** Sisbear Comment Says Sabrina Wallace Claims DARPA Tested Biosonar on Children
 
 Claim Timestamp: 01:00:45
 
@@ -2642,7 +2642,7 @@ Investigative Direction: Find Wallace's public statements and any DARPA document
 
 ---
 
-**C-9908** Host Says Charlie Was DARPA Tested and Tracked by the Military
+**C-5238** Host Says Charlie Was DARPA Tested and Tracked by the Military
 
 Claim Timestamp: 01:01:00
 
@@ -2658,7 +2658,7 @@ Investigative Direction: Ask the host to produce the proof of military tracking 
 
 ---
 
-**C-9909** Host Says Turning Point Was Established in Part by Bill Montgomery From the Air Force
+**C-5239** Host Says Turning Point Was Established in Part by Bill Montgomery From the Air Force
 
 Claim Timestamp: 01:01:15
 
@@ -2669,13 +2669,13 @@ Transcript Snippet: turning point was established in part by Bill Montgomery who
 Anchored Artifacts: 
 Mentions: N-456, N-3
 Related Nodes: N-10000
-Supports: C-5424
+Supports: C-5071
 Tags: relevance:core
 Investigative Direction: Check Montgomery's military service record and TPUSA founding documents.
 
 ---
 
-**C-9910** Host Says She Will Pursue the Fort Huachuca Alibi and Update by Monday
+**C-5240** Host Says She Will Pursue the Fort Huachuca Alibi and Update by Monday
 
 Claim Timestamp: 01:01:45
 
@@ -2691,7 +2691,7 @@ Investigative Direction: Watch the Monday live episode for the promised update a
 
 ---
 
-**C-9911** Host Asks for Fort Huachuca Tips at the Candace Owens Tips Address
+**C-5241** Host Asks for Fort Huachuca Tips at the Candace Owens Tips Address
 
 Claim Timestamp: 01:02:00
 
@@ -2707,7 +2707,7 @@ Investigative Direction: Check that incoming tips are logged and followed up on 
 
 ---
 
-**C-9912** Host Says Myron Gaines Interview Drops the Next Day
+**C-5242** Host Says Myron Gaines Interview Drops the Next Day
 
 Claim Timestamp: 01:02:10
 

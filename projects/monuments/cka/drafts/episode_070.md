@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep070): N-10510, N-10816
   - Tip-minted Nodes (reintro-ep070): N-734
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8376–C-8432
+  - Claim Range: C-6245–C-6314
   - New Nodes Introduced: N-551, N-10494
   - Reused Nodes Appearing: N-10496, N-10492, N-10493, N-10495, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-186, N-270, N-312, N-10000, N-10004, N-10018, N-10026, N-10027, N-10075, N-10117, N-10122, N-10268, N-10290, N-10316, N-10317, N-10340, N-10342, N-10386, N-10422, N-10446, N-10456, N-10483, N-10548, N-10549, N-10560, N-10905, N-11038, N-11186, N-10806
   - (see registers)
@@ -160,7 +160,7 @@ Video Timestamp: 00:00:55–00:01:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2314, C-2315, N-2*
+*Related: C-6245, C-6246, N-2*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:09:50–00:10:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read-aloud quote, full article not displayed)
 
-*Related: C-2316, N-2, N-1*
+*Related: C-6260, N-2, N-1*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:12:11–00:12:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2317, N-2, N-1*
+*Related: C-6265, N-2, N-1*
 
 **A-1746.2** Erika Kirk segment describing flight to Utah and going "straight to the hospital"
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:19:42–00:20:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2318, N-2*
+*Related: C-6284, N-2*
 
 ---
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2319, C-2320, C-2321, C-2322, N-551, N-493, N-10492*
+*Related: C-6288, C-6290, C-6292, C-6291, N-551, N-493, N-10492*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:33:22–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2323, C-2324, N-277, N-2*
+*Related: C-6298, C-6299, N-277, N-2*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:35:13–00:36:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2325, N-10492*
+*Related: C-6300, N-10492*
 
 ---
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:38:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8420, N-3*
+*Related: C-6301, N-3*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:12:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8393, C-8394, C-8395, C-8396, C-8422*
+*Related: C-6266, C-6267, C-6268, C-6269, C-6303*
 
 ---
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:18:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8409, C-8410*
+*Related: C-6282, C-6283*
 
 ---
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:44:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8429, C-8430*
+*Related: C-6311, C-6312*
 
 ---
 
@@ -309,7 +309,7 @@ Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8432*
+*Related: C-6314*
 
 ---
 
@@ -322,7 +322,7 @@ Video Timestamp: 00:40:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8424*
+*Related: C-6305*
 
 ---
 
@@ -337,7 +337,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-493, N-10492*
+*Related: A-1747.1, C-6288, C-6290, C-6292, C-6291, N-493, N-10492*
 
 **N-493** Marina Minas
 
@@ -348,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1747.1, C-2322, N-551*
+*Related: A-1747.1, C-6291, N-551*
 
 **N-277** Tim Dillon
 
@@ -359,7 +359,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1748.1, C-2323, C-2324, N-2*
+*Related: A-1748.1, C-6298, C-6299, N-2*
 
 **N-10492** TPUSA Post-Charlie Loyalty-Test Termination Pattern
 
@@ -370,7 +370,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-551, N-493*
+*Related: A-1747.1, A-1749.1, C-6290, C-6292, C-6291, C-6300, N-551, N-493*
 
 **N-10493** Pierre / French Donor Investigation
 
@@ -392,7 +392,7 @@ Claim Count: 1 (artifact side only)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1746.2, C-2318, N-2*
+*Related: A-1746.2, C-6284, N-2*
 
 **N-10495** BB Netanyahu Hamptons Dinner Allegation
 
@@ -422,7 +422,7 @@ Investigative Pressure: Low (host-flagged, unverified)
 
 Subject of the assassination; the host recounts his private messages, meetings and fears.
 
-*Related: C-8377, C-8378, C-8379, C-8380, C-8381, C-8382, C-8383, C-8386, C-8387, C-8388, C-8389, C-8390, C-8391, C-8392, C-8394, C-8395, C-8397, C-8398, C-8399, C-8402, C-8403, C-8406, C-8408, C-8415, C-8417, C-8419, C-8421, C-8425, C-8429*
+*Related: C-6248, C-6249, C-6250, C-6251, C-6252, C-6253, C-6254, C-6257, C-6258, C-6259, C-6261, C-6262, C-6263, C-6264, C-6267, C-6268, C-6270, C-6271, C-6272, C-6275, C-6276, C-6279, C-6281, C-6293, C-6295, C-6297, C-6302, C-6306, C-6311*
 
 ---
 
@@ -430,7 +430,7 @@ Subject of the assassination; the host recounts his private messages, meetings a
 
 Widow and TPUSA CEO; the open letter addresses her accounts of September 10, Pierre and the Hamptons dinner.
 
-*Related: C-8376, C-8377, C-8382, C-8384, C-8385, C-8386, C-8387, C-8389, C-8390, C-8392, C-8393, C-8394, C-8401, C-8402, C-8403, C-8404, C-8405, C-8409, C-8410, C-8411, C-8412, C-8416, C-8422, C-8429, C-8430*
+*Related: C-6247, C-6248, C-6253, C-6255, C-6256, C-6257, C-6258, C-6261, C-6262, C-6264, C-6266, C-6267, C-6274, C-6275, C-6276, C-6277, C-6278, C-6282, C-6283, C-6285, C-6286, C-6294, C-6303, C-6311, C-6312*
 
 ---
 
@@ -438,7 +438,7 @@ Widow and TPUSA CEO; the open letter addresses her accounts of September 10, Pie
 
 Host; speaks for herself throughout.
 
-*Related: C-8376, C-8377, C-8378, C-8379, C-8380, C-8381, C-8382, C-8383, C-8384, C-8385, C-8386, C-8387, C-8388, C-8389, C-8390, C-8391, C-8392, C-8393, C-8394, C-8395, C-8396, C-8397, C-8398, C-8399, C-8400, C-8401, C-8402, C-8403, C-8404, C-8405, C-8406, C-8407, C-8408, C-8409, C-8410, C-8411, C-8412, C-8413, C-8415, C-8416, C-8417, C-8418, C-8419, C-8420, C-8421, C-8422, C-8423, C-8424, C-8425, C-8426, C-8427, C-8428, C-8429, C-8430, C-8431, C-8432*
+*Related: C-6247, C-6248, C-6249, C-6250, C-6251, C-6252, C-6253, C-6254, C-6255, C-6256, C-6257, C-6258, C-6259, C-6261, C-6262, C-6263, C-6264, C-6266, C-6267, C-6268, C-6269, C-6270, C-6271, C-6272, C-6273, C-6274, C-6275, C-6276, C-6277, C-6278, C-6279, C-6280, C-6281, C-6282, C-6283, C-6285, C-6286, C-6287, C-6293, C-6294, C-6295, C-6296, C-6297, C-6301, C-6302, C-6303, C-6304, C-6305, C-6306, C-6308, C-6309, C-6310, C-6311, C-6312, C-6313, C-6314*
 
 ---
 
@@ -446,14 +446,14 @@ Host; speaks for herself throughout.
 
 TPUSA spokesperson; the host cites his accounts of the tarmac, the Netanyahu offer and the podcast refusal.
 
-*Related: C-8385, C-8402, C-8406, C-8411, C-8412, C-8424, C-8430*
+*Related: C-6256, C-6275, C-6279, C-6285, C-6286, C-6305, C-6312*
 
 ---
 
 **N-15** Justin Streiff
 TPUSA chief operating officer (Justin Streiff); the host says he lied about not knowing Pierre.
 
-*Related: C-8393, C-8394, C-8396, C-8422*
+*Related: C-6266, C-6267, C-6269, C-6303*
 
 ---
 
@@ -461,7 +461,7 @@ TPUSA chief operating officer (Justin Streiff); the host says he lied about not 
 
 TPUSA executive; the 'Tyler' the host says she suspected.
 
-*Related: C-8383*
+*Related: C-6254*
 
 ---
 
@@ -469,7 +469,7 @@ TPUSA executive; the 'Tyler' the host says she suspected.
 
 Person the host says she warned Charlie Kirk about in 2019.
 
-*Related: C-8383*
+*Related: C-6254*
 
 ---
 
@@ -477,7 +477,7 @@ Person the host says she warned Charlie Kirk about in 2019.
 
 Person the host says she warned Charlie Kirk about and who received his night-before text.
 
-*Related: C-8382, C-8430*
+*Related: C-6253, C-6312*
 
 ---
 
@@ -485,7 +485,7 @@ Person the host says she warned Charlie Kirk about and who received his night-be
 
 Named by the host in her account of her 2019 resignation and the post-tweet hires.
 
-*Related: C-8378, C-8381*
+*Related: C-6249, C-6252*
 
 ---
 
@@ -493,7 +493,7 @@ Named by the host in her account of her 2019 resignation and the post-tweet hire
 
 Subject of the alleged TPUSA next-level offer and the podcast refusal.
 
-*Related: C-8401, C-8402, C-8403, C-8405, C-8406*
+*Related: C-6274, C-6275, C-6276, C-6278, C-6279*
 
 ---
 
@@ -501,7 +501,7 @@ Subject of the alleged TPUSA next-level offer and the podcast refusal.
 
 Named by the host as being presented as a friend of Charlie Kirk.
 
-*Related: C-8419*
+*Related: C-6297*
 
 ---
 
@@ -509,7 +509,7 @@ Named by the host as being presented as a friend of Charlie Kirk.
 
 Named by the host as one of Charlie Kirk's real friends later attacked.
 
-*Related: C-8419*
+*Related: C-6297*
 
 ---
 
@@ -517,7 +517,7 @@ Named by the host as one of Charlie Kirk's real friends later attacked.
 
 Named by the host as defending Charlie Kirk and pressing Megyn Kelly.
 
-*Related: C-8417, C-8419*
+*Related: C-6295, C-6297*
 
 ---
 
@@ -525,7 +525,7 @@ Named by the host as defending Charlie Kirk and pressing Megyn Kelly.
 
 Named by the host in the Ben Shapiro exchange.
 
-*Related: C-8417*
+*Related: C-6295*
 
 ---
 
@@ -533,7 +533,7 @@ Named by the host in the Ben Shapiro exchange.
 
 The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the transcript).
 
-*Related: C-8400*
+*Related: C-6273*
 
 ---
 
@@ -541,7 +541,7 @@ The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the trans
 
 Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).
 
-*Related: C-8379, C-8380*
+*Related: C-6250, C-6251*
 
 ---
 
@@ -549,7 +549,7 @@ Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confir
 
 Organization at the center of the open letter and the firings.
 
-*Related: C-8376, C-8377, C-8381, C-8383, C-8385, C-8396, C-8405, C-8407, C-8414, C-8415, C-8419, C-8421, C-8424, C-8425, C-8426, C-8428, C-8431*
+*Related: C-6247, C-6248, C-6252, C-6254, C-6256, C-6269, C-6278, C-6280, C-6289, C-6293, C-6297, C-6302, C-6305, C-6306, C-6308, C-6310, C-6313*
 
 ---
 
@@ -557,7 +557,7 @@ Organization at the center of the open letter and the firings.
 
 Place the host links to the Pierre deal, AmFest funding and the assassination.
 
-*Related: C-8400, C-8408, C-8417, C-8418*
+*Related: C-6273, C-6281, C-6295, C-6296*
 
 ---
 
@@ -565,7 +565,7 @@ Place the host links to the Pierre deal, AmFest funding and the assassination.
 
 Place of the dinner at which the host says Netanyahu made his offer.
 
-*Related: C-8402, C-8404*
+*Related: C-6275, C-6277*
 
 ---
 
@@ -573,7 +573,7 @@ Place of the dinner at which the host says Netanyahu made his offer.
 
 Place; the host says it never answered her French Foreign Legion inquiry.
 
-*Related: C-8399*
+*Related: C-6272*
 
 ---
 
@@ -581,7 +581,7 @@ Place; the host says it never answered her French Foreign Legion inquiry.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8378, C-8381*
+*Related: C-6249, C-6252*
 
 ---
 
@@ -589,7 +589,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8403*
+*Related: C-6276*
 
 ---
 
@@ -597,7 +597,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for the host's account of Charlie Kirk's fear.
 
-*Related: C-8389*
+*Related: C-6261*
 
 ---
 
@@ -605,7 +605,7 @@ Existing organization reused for the host's account of Charlie Kirk's fear.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8389*
+*Related: C-6261*
 
 ---
 
@@ -613,7 +613,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the AmFest pay-to-play claim.
 
-*Related: C-8418*
+*Related: C-6296*
 
 ---
 
@@ -621,7 +621,7 @@ Existing topic reused for the AmFest pay-to-play claim.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8399*
+*Related: C-6272*
 
 ---
 
@@ -629,7 +629,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8399, C-8408*
+*Related: C-6272, C-6281*
 
 ---
 
@@ -637,7 +637,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8395, C-8400*
+*Related: C-6268, C-6273*
 
 ---
 
@@ -645,7 +645,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8430*
+*Related: C-6312*
 
 ---
 
@@ -653,7 +653,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8401, C-8402*
+*Related: C-6274, C-6275*
 
 ---
 
@@ -661,7 +661,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8417*
+*Related: C-6295*
 
 ---
 
@@ -669,7 +669,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8390*
+*Related: C-6262*
 
 ---
 
@@ -677,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8402, C-8404*
+*Related: C-6275, C-6277*
 
 ---
 
@@ -685,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8406*
+*Related: C-6279*
 
 ---
 
@@ -693,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8410*
+*Related: C-6283*
 
 ---
 
@@ -701,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8431*
+*Related: C-6313*
 
 ---
 
@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8411, C-8412*
+*Related: C-6285, C-6286*
 
 ---
 
@@ -717,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8413*
+*Related: C-6287*
 
 ---
 
@@ -725,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8411, C-8412*
+*Related: C-6285, C-6286*
 
 ---
 
@@ -733,7 +733,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8382, C-8387, C-8388, C-8389, C-8429, C-8430*
+*Related: C-6253, C-6258, C-6259, C-6261, C-6311, C-6312*
 
 ---
 
@@ -741,7 +741,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8387, C-8388, C-8429*
+*Related: C-6258, C-6259, C-6311*
 
 ---
 
@@ -749,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8392*
+*Related: C-6264*
 
 ---
 
@@ -757,7 +757,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization; the host's 'Shaffer security' in the transcript.
 
-*Related: C-8382*
+*Related: C-6253*
 
 ---
 
@@ -765,7 +765,7 @@ Existing organization; the host's 'Shaffer security' in the transcript.
 
 Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.
 
-*Related: C-8396*
+*Related: C-6269*
 
 ---
 
@@ -774,7 +774,7 @@ Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Ta
 Node Type: Topic
 The host's account of her May 2019 resignation as TPUSA communications director and her stated reason, that Charlie Kirk lied to her about money.
 
-*Related: C-8377, C-8378*
+*Related: C-6248, C-6249*
 
 ---
 
@@ -783,7 +783,7 @@ The host's account of her May 2019 resignation as TPUSA communications director 
 Node Type: Topic
 The host's account of a fundraising lunch between Charlie Kirk and 'Ike' at Mar-a-Lago that she says he concealed from her and then denied in an elevator.
 
-*Related: C-8379, C-8380*
+*Related: C-6250, C-6251*
 
 ---
 
@@ -792,13 +792,13 @@ The host's account of a fundraising lunch between Charlie Kirk and 'Ike' at Mar-
 Node Type: Topic
 The arms-sales affair the host connects to Pierre Falcone when guessing the identity of the donor Pierre.
 
-*Related: C-8400*
+*Related: C-6273*
 
 ---
 
 ## 5. Claim Register
 
-**C-2314** Erika Kirk publicly requested "full transparency" in Trace Gallagher interview
+**C-6245** Erika Kirk publicly requested "full transparency" in Trace Gallagher interview
 
 Claim Timestamp: 00:00:55–00:01:55
 
@@ -808,7 +808,7 @@ Anchored Artifacts: A-1744.1
 Mentions: N-2
 Investigative Direction: Obtain unedited Gallagher interview footage and compare the played clip to the full broadcast.
 
-**C-2315** Host rejects Erika Kirk's transparency plea as inconsistent with prior actions
+**C-6246** Host rejects Erika Kirk's transparency plea as inconsistent with prior actions
 
 Claim Timestamp: 00:01:56–00:02:48
 
@@ -818,7 +818,7 @@ Anchored Artifacts: A-1744.1
 Mentions: N-2, N-3
 Investigative Direction: Compare TPUSA public statements over time against the footage-release history to assess whether Erika's stated goal of transparency aligns with prior organizational behavior.
 
-**C-2316** NYT article contains Erika's "adrenal glands were just going off" quote
+**C-6260** NYT article contains Erika's "adrenal glands were just going off" quote
 
 Claim Timestamp: 00:09:50–00:10:21
 
@@ -828,7 +828,7 @@ Anchored Artifacts: A-1745.1
 Mentions: N-1, N-2
 Investigative Direction: Locate and verify the original NYT article containing this quote; confirm publication date and surrounding context.
 
-**C-2317** Erika told Jesse Watters she sent Charlie to sleep in daughter's room
+**C-6265** Erika told Jesse Watters she sent Charlie to sleep in daughter's room
 
 Claim Timestamp: 00:11:32
 
@@ -838,7 +838,7 @@ Anchored Artifacts: A-1746.1
 Mentions: N-1, N-2, N-211
 Investigative Direction: Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.
 
-**C-2318** Erika told Jesse Watters she landed in Utah and went straight to the hospital
+**C-6284** Erika told Jesse Watters she landed in Utah and went straight to the hospital
 
 Claim Timestamp: 00:19:42–00:20:30
 
@@ -849,7 +849,7 @@ Mentions: N-2, N-211
 Related Nodes: N-10494
 Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.
 
-**C-2319** Aubrey Laitsch publicly identified herself as former TPUSA PR manager, recently terminated
+**C-6288** Aubrey Laitsch publicly identified herself as former TPUSA PR manager, recently terminated
 
 Claim Timestamp: 00:24:02–00:28:28
 
@@ -859,7 +859,7 @@ Anchored Artifacts: A-1747.1
 Mentions: N-551
 Investigative Direction: Verify Laitsch's employment dates and termination date via TPUSA / ATK records.
 
-**C-2320** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
+**C-6290** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
 
 Claim Timestamp: 00:26:00
 
@@ -870,7 +870,7 @@ Mentions: N-493, N-551, N-14
 Related Nodes: N-10492
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
-**C-2321** Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent
+**C-6292** Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent
 
 Claim Timestamp: 00:27:35
 
@@ -881,7 +881,7 @@ Mentions: N-551, N-1
 Related Nodes: N-10492
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Laitsch's stated belief; seek additional former-employee testimony.
 
-**C-2322** Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting
+**C-6291** Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting
 
 Claim Timestamp: 00:26:00
 
@@ -891,7 +891,7 @@ Anchored Artifacts: A-1747.1
 Mentions: N-493, N-551, N-14
 Investigative Direction: Verify Marina Minas's title and organizational role via TPUSA public records.
 
-**C-2323** Tim Dillon clip describes political performance as "fake"
+**C-6298** Tim Dillon clip describes political performance as "fake"
 
 Claim Timestamp: 00:33:22–00:35:00
 
@@ -901,7 +901,7 @@ Anchored Artifacts: A-1748.1
 Mentions: N-277
 Investigative Direction: Identify the source episode of the Dillon clip and capture the full surrounding context.
 
-**C-2324** Tim Dillon clip names Erika Kirk as "the only person I trust"
+**C-6299** Tim Dillon clip names Erika Kirk as "the only person I trust"
 
 Claim Timestamp: 00:34:39
 
@@ -911,7 +911,7 @@ Anchored Artifacts: A-1748.1
 Mentions: N-2, N-277
 Investigative Direction: Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.
 
-**C-2325** Host references Purge Fallout GoFundMe supporting fired TPUSA employees
+**C-6300** Host references Purge Fallout GoFundMe supporting fired TPUSA employees
 
 Claim Timestamp: 00:35:13–00:36:03
 
@@ -924,7 +924,7 @@ Investigative Direction: Verify the GoFundMe campaign directly; identify the eig
 ---
 
 
-**C-3662** Host identifies show community as Decentralized Intelligence Agency
+**C-6307** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:42:30
 Claim: The host says the decentralized intelligence agency has brought us to this moment, that it was the work of everybody, and that everybody had a piece of the puzzle she pulled together on the podcast.
@@ -937,7 +937,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-8376** Host Says TPUSA Watches Her Show and Relays It to Erika
+**C-6247** Host Says TPUSA Watches Her Show and Relays It to Erika
 
 Claim Timestamp: 00:02:48
 
@@ -953,7 +953,7 @@ Investigative Direction: Hard to test directly; former staff such as Aubrey Lait
 
 ---
 
-**C-8377** Host Dates Her Resignation as TPUSA Communications Director to May 1
+**C-6248** Host Dates Her Resignation as TPUSA Communications Director to May 1
 
 Claim Timestamp: 00:03:38
 
@@ -969,7 +969,7 @@ Investigative Direction: Compare the host's announced departure date and wording
 
 ---
 
-**C-8378** Host Says She Left Over Charlie Lying About Money, Not Antisemitism or Kanye
+**C-6249** Host Says She Left Over Charlie Lying About Money, Not Antisemitism or Kanye
 
 Claim Timestamp: 00:03:38
 
@@ -985,7 +985,7 @@ Investigative Direction: Look for contemporaneous press accounts of the host's 2
 
 ---
 
-**C-8379** Host Says Charlie Met Ike Perlmutter at Mar-a-Lago in a Concealed Fundraising Meeting
+**C-6250** Host Says Charlie Met Ike Perlmutter at Mar-a-Lago in a Concealed Fundraising Meeting
 
 Claim Timestamp: 00:05:03
 
@@ -1001,7 +1001,7 @@ Investigative Direction: Ike Perlmutter is confirmed by the HappyScribe transcri
 
 ---
 
-**C-8380** Host Says Charlie Denied Hearing From Ike Though They Lunched the Day Before
+**C-6251** Host Says Charlie Denied Hearing From Ike Though They Lunched the Day Before
 
 Claim Timestamp: 00:05:03
 
@@ -1017,7 +1017,7 @@ Investigative Direction: Seek corroboration (calendar entries, photos, staff) of
 
 ---
 
-**C-8381** Host Says Post-Kanye Hires Were Hijacking Charlie's Ambition
+**C-6252** Host Says Post-Kanye Hires Were Hijacking Charlie's Ambition
 
 Claim Timestamp: 00:06:26
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Identify which staff or advisers joined TPUSA after the
 
 ---
 
-**C-8382** Host Says She Warned Charlie About Shaffer Security and Dan Flood
+**C-6253** Host Says She Warned Charlie About Shaffer Security and Dan Flood
 
 Claim Timestamp: 00:06:26
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Obtain the host's text messages to Charlie Kirk warning
 
 ---
 
-**C-8383** Host Says She Suspected Stacy Sheridan and Tyler Were Involved in the Money Deception
+**C-6254** Host Says She Suspected Stacy Sheridan and Tyler Were Involved in the Money Deception
 
 Claim Timestamp: 00:06:26
 
@@ -1065,7 +1065,7 @@ Investigative Direction: Establish who 'Tyler' is (the host elsewhere discusses 
 
 ---
 
-**C-8384** Host Says Erika Lied to Her Face in a Four-Hour Hotel Meeting
+**C-6255** Host Says Erika Lied to Her Face in a Four-Hour Hotel Meeting
 
 Claim Timestamp: 00:07:49
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Pin down the date and location of the four-hour hotel m
 
 ---
 
-**C-8385** Host Says Every Attack on Her Was Done With Erika's Blessing
+**C-6256** Host Says Every Attack on Her Was Done With Erika's Blessing
 
 Claim Timestamp: 00:07:49
 
@@ -1096,7 +1096,7 @@ Investigative Direction: Look for documents, payments or messages showing Erika 
 
 ---
 
-**C-8386** Host Says TPUSA Allies Falsely Said She and Charlie Had Not Spoken Since 2019
+**C-6257** Host Says TPUSA Allies Falsely Said She and Charlie Had Not Spoken Since 2019
 
 Claim Timestamp: 00:07:49
 
@@ -1111,7 +1111,7 @@ Investigative Direction: Compare TPUSA-aligned public statements that the two ha
 
 ---
 
-**C-8387** Host Says Erika Has Charlie's Phone and the Host Has Revealed Only Part of His Messages
+**C-6258** Host Says Erika Has Charlie's Phone and the Host Has Revealed Only Part of His Messages
 
 Claim Timestamp: 00:09:16
 
@@ -1127,7 +1127,7 @@ Investigative Direction: Establish custody of Charlie Kirk's phone after Septemb
 
 ---
 
-**C-8388** Host Says Unreleased Charlie Messages Are Precise and Feel Prophetic
+**C-6259** Host Says Unreleased Charlie Messages Are Precise and Feel Prophetic
 
 Claim Timestamp: 00:09:16
 
@@ -1143,7 +1143,7 @@ Investigative Direction: The host has not released these messages; ask her team 
 
 ---
 
-**C-8389** Host Says Charlie Called a Priest and Expressed Fear of Being Killed in Writing
+**C-6261** Host Says Charlie Called a Priest and Expressed Fear of Being Killed in Writing
 
 Claim Timestamp: 00:10:21
 
@@ -1159,7 +1159,7 @@ Investigative Direction: Identify the priest and the dates of any call, and obta
 
 ---
 
-**C-8390** Host Says She and Charlie Shared Astral Projection and Gifted-Program Experiences
+**C-6262** Host Says She and Charlie Shared Astral Projection and Gifted-Program Experiences
 
 Claim Timestamp: 00:10:21
 
@@ -1175,7 +1175,7 @@ Investigative Direction: No documentary record is offered; this is the host's re
 
 ---
 
-**C-8391** Host Says She Pulled Her Kids From School Days Before the Assassination
+**C-6263** Host Says She Pulled Her Kids From School Days Before the Assassination
 
 Claim Timestamp: 00:11:23
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Ask for school withdrawal dates or other dated records 
 
 ---
 
-**C-8392** Host Says Erika Said Charlie Grabbed His Wedding Band the Next Morning
+**C-6264** Host Says Erika Said Charlie Grabbed His Wedding Band the Next Morning
 
 Claim Timestamp: 00:11:23
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Locate the interview (the host's source for the wedding
 
 ---
 
-**C-8393** Host Says She Has Written Proof Justin Streiff and Erika Lied About Knowing Pierre
+**C-6266** Host Says She Has Written Proof Justin Streiff and Erika Lied About Knowing Pierre
 
 Claim Timestamp: 00:12:18
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Obtain the written exchange in which Streiff denied kno
 
 ---
 
-**C-8394** Host Says Streiff Personally Met Pierre and Erika Met Him After Charlie's Death
+**C-6267** Host Says Streiff Personally Met Pierre and Erika Met Him After Charlie's Death
 
 Claim Timestamp: 00:12:18
 
@@ -1233,13 +1233,13 @@ Transcript Snippet: You've personally met with Pierre. Um, Erika, you've met wit
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-15, N-2, N-1
 Related Nodes: N-10493
-Supports: C-1815
+Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Seek calendars, travel or visitor records showing a meeting between Erika Kirk or Streiff and a donor named Pierre after September 10.
 
 ---
 
-**C-8395** Host Says a Multi-Billion Dollar Deal With French-Born Pierre Was on the Table
+**C-6268** Host Says a Multi-Billion Dollar Deal With French-Born Pierre Was on the Table
 
 Claim Timestamp: 00:13:09
 
@@ -1250,13 +1250,13 @@ Transcript Snippet: there was a deal on the table with Pierre who yes is from Fr
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-1
 Related Nodes: N-10493, N-10317
-Supports: C-1815
+Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Obtain the host's documents on the deal; confirm Pierre's identity and compare with TPUSA donor and pledge records.
 
 ---
 
-**C-8396** Host Says Pierre Spoke by Phone With Justin Streiff and Don Orrico in Tampa
+**C-6269** Host Says Pierre Spoke by Phone With Justin Streiff and Don Orrico in Tampa
 
 Claim Timestamp: 00:13:09
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Identification as Don Orrico (Florida-based major-gifts
 
 ---
 
-**C-8397** Host Says Pierre Knew Charlie Was Dead Before the Public and Was Not Yet a Donor
+**C-6270** Host Says Pierre Knew Charlie Was Dead Before the Public and Was Not Yet a Donor
 
 Claim Timestamp: 00:13:09
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Establish when Pierre first learned of the shooting (ca
 
 ---
 
-**C-8398** Host Says the Pierre Deal Went Through After Charlie Died
+**C-6271** Host Says the Pierre Deal Went Through After Charlie Died
 
 Claim Timestamp: 00:13:09
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Check TPUSA financial statements and donor disclosures 
 
 ---
 
-**C-8399** Host Says the White House Never Answered Her Question on the French Foreign Legion
+**C-6272** Host Says the White House Never Answered Her Question on the French Foreign Legion
 
 Claim Timestamp: 00:14:13
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Obtain the host's inquiry to the White House and any re
 
 ---
 
-**C-8400** Host Guesses the Donor Is Pierre Falcone of Angolagate
+**C-6273** Host Guesses the Donor Is Pierre Falcone of Angolagate
 
 Claim Timestamp: 00:15:43
 
@@ -1331,13 +1331,13 @@ Transcript Snippet: My best guess is that it was Pierre Falcone all along of Ang
 Anchored Artifacts: 
 Mentions: N-3, N-312
 Related Nodes: N-11186, N-10317, N-10026
-Supports: C-6832
+Supports: C-4550
 Tags: relevance:core
 Investigative Direction: Verify whether Pierre Falcone had any contact with TPUSA officials after September 10; the host offers only a guess here.
 
 ---
 
-**C-8401** Host Says Erika Lied to Cover for Netanyahu's Tracks
+**C-6274** Host Says Erika Lied to Cover for Netanyahu's Tracks
 
 Claim Timestamp: 00:16:03
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Identify which of Erika Kirk's statements the host says
 
 ---
 
-**C-8402** Host Says Andrew Said Netanyahu Offered to Take TPUSA to the Next Level in the Hamptons
+**C-6275** Host Says Andrew Said Netanyahu Offered to Take TPUSA to the Next Level in the Hamptons
 
 Claim Timestamp: 00:16:03
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Seek attendee lists, photos or staff accounts of the Ha
 
 ---
 
-**C-8403** Host Says Erika Described Netanyahu's Call as About a Letter Charlie Wrote
+**C-6276** Host Says Erika Described Netanyahu's Call as About a Letter Charlie Wrote
 
 Claim Timestamp: 00:16:03
 
@@ -1385,7 +1385,7 @@ Investigative Direction: Locate Erika Kirk's public statement about the Netanyah
 
 ---
 
-**C-8404** Host Says Erika Let Influencers Claim the Hamptons Dinner Never Happened
+**C-6277** Host Says Erika Let Influencers Claim the Hamptons Dinner Never Happened
 
 Claim Timestamp: 00:17:02
 
@@ -1401,7 +1401,7 @@ Investigative Direction: Collect the influencer posts denying the Hamptons dinne
 
 ---
 
-**C-8405** Host Says Nobody Addressed Netanyahu's Call and Calls the Response a Psychological Operation
+**C-6278** Host Says Nobody Addressed Netanyahu's Call and Calls the Response a Psychological Operation
 
 Claim Timestamp: 00:17:02
 
@@ -1417,7 +1417,7 @@ Investigative Direction: No evidence is offered; test by identifying who coordin
 
 ---
 
-**C-8406** Host Says Charlie Declined to Host Netanyahu on His Podcast, per Andrew
+**C-6279** Host Says Charlie Declined to Host Netanyahu on His Podcast, per Andrew
 
 Claim Timestamp: 00:17:49
 
@@ -1433,7 +1433,7 @@ Investigative Direction: Ask Kolvet or show staff to confirm whether a Netanyahu
 
 ---
 
-**C-8407** Host Says Turning Point Was Worth and Pulled In About $100 Million
+**C-6280** Host Says Turning Point Was Worth and Pulled In About $100 Million
 
 Claim Timestamp: 00:17:49
 
@@ -1449,7 +1449,7 @@ Investigative Direction: Check TPUSA Form 990 and audited financials for annual 
 
 ---
 
-**C-8408** Host Says France and Israel Are Involved in Charlie Kirk's Assassination
+**C-6281** Host Says France and Israel Are Involved in Charlie Kirk's Assassination
 
 Claim Timestamp: 00:18:49
 
@@ -1465,7 +1465,7 @@ Investigative Direction: This is the host's inference; no evidence is shown. Tes
 
 ---
 
-**C-8409** Host Says She Has Strong Evidence Erika Lied About Her Whereabouts on September 10
+**C-6282** Host Says She Has Strong Evidence Erika Lied About Her Whereabouts on September 10
 
 Claim Timestamp: 00:18:49
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Obtain the evidence the host says contradicts Erika Kir
 
 ---
 
-**C-8410** Host Says Erika's Account Was That She Accompanied Her Mother to Treatment
+**C-6283** Host Says Erika's Account Was That She Accompanied Her Mother to Treatment
 
 Claim Timestamp: 00:18:49
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Find where Erika Kirk made the statement about her moth
 
 ---
 
-**C-8411** Host Says Andrew Described Embracing and Crying With Erika on the Tarmac
+**C-6285** Host Says Andrew Described Embracing and Crying With Erika on the Tarmac
 
 Claim Timestamp: 00:19:42
 
@@ -1508,13 +1508,13 @@ Transcript Snippet: Andrew told me that when he deplaned, you guys embraced on t
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
 Related Nodes: N-10548, N-10560
-Supports: C-5554
+Supports: C-5410
 Tags: relevance:core
 Investigative Direction: Compare with Kolvet's public statements and airport or aircraft records for arrival times on the tarmac.
 
 ---
 
-**C-8412** Host Says Erika Confirmed the Planes So She Must Have Waited an Hour for Andrew
+**C-6286** Host Says Erika Confirmed the Planes So She Must Have Waited an Hour for Andrew
 
 Claim Timestamp: 00:19:42
 
@@ -1530,7 +1530,7 @@ Investigative Direction: Pull tail numbers and landing and wheels-down times for
 
 ---
 
-**C-8413** Host Asks Who Took Off From Delaware and Who Stayed on the Second Transponding Plane
+**C-6287** Host Asks Who Took Off From Delaware and Who Stayed on the Second Transponding Plane
 
 Claim Timestamp: 00:19:42
 
@@ -1546,7 +1546,7 @@ Investigative Direction: Examine ADS-B and transponder logs for the Egyptian air
 
 ---
 
-**C-8414** Laitsch Says She Worked Nonstop on September 10 and Went Over 48 Hours Without Sleep During the Memorial
+**C-6289** Laitsch Says She Worked Nonstop on September 10 and Went Over 48 Hours Without Sleep During the Memorial
 
 Claim Timestamp: 00:25:10
 
@@ -1562,7 +1562,7 @@ Investigative Direction: Corroborate Laitsch's workload with TPUSA staff and pre
 
 ---
 
-**C-8415** Host Says TPUSA Raised a Quarter of a Billion Dollars
+**C-6293** Host Says TPUSA Raised a Quarter of a Billion Dollars
 
 Claim Timestamp: 00:29:05
 
@@ -1578,7 +1578,7 @@ Investigative Direction: Check TPUSA donation totals reported after September 10
 
 ---
 
-**C-8416** Host Says the Firings Targeted Staff Not Loyal to Erika or Doubting September 10
+**C-6294** Host Says the Firings Targeted Staff Not Loyal to Erika or Doubting September 10
 
 Claim Timestamp: 00:29:05
 
@@ -1594,7 +1594,7 @@ Investigative Direction: Collect accounts from other fired employees about the s
 
 ---
 
-**C-8417** Host Says Ben Shapiro Pressing Megyn Kelly Was Her First Red Flag
+**C-6295** Host Says Ben Shapiro Pressing Megyn Kelly Was Her First Red Flag
 
 Claim Timestamp: 00:31:26
 
@@ -1610,7 +1610,7 @@ Investigative Direction: This is the host's inference from Shapiro's public cond
 
 ---
 
-**C-8418** Host Says AmFest Looked Pay-to-Play With Israel Paying
+**C-6296** Host Says AmFest Looked Pay-to-Play With Israel Paying
 
 Claim Timestamp: 00:31:39
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Obtain AmFest sponsor, speaker-fee and ticketing record
 
 ---
 
-**C-8419** Host Says Loomer and Shapiro Were Cast as Charlie's Friends While His Real Friends Were Attacked
+**C-6297** Host Says Loomer and Shapiro Were Cast as Charlie's Friends While His Real Friends Were Attacked
 
 Claim Timestamp: 00:31:39
 
@@ -1642,7 +1642,7 @@ Investigative Direction: Compare Charlie Kirk's public statements about Loomer, 
 
 ---
 
-**C-8420** Host Appeals for Tips About Pierre at the Tip Address
+**C-6301** Host Appeals for Tips About Pierre at the Tip Address
 
 Claim Timestamp: 00:38:47
 
@@ -1658,7 +1658,7 @@ Investigative Direction: Follow up on tips received about the donor Pierre and v
 
 ---
 
-**C-8421** Host Says Charlie Was Completely and Utterly Infiltrated
+**C-6302** Host Says Charlie Was Completely and Utterly Infiltrated
 
 Claim Timestamp: 00:38:47
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Wait for the promised material the following week and t
 
 ---
 
-**C-8422** Host Says Erika and Justin Streiff Know Exactly Who Pierre Is
+**C-6303** Host Says Erika and Justin Streiff Know Exactly Who Pierre Is
 
 Claim Timestamp: 00:39:39
 
@@ -1685,13 +1685,13 @@ Transcript Snippet: Erika and Justin Streiff know exactly who Pierre is. Justin 
 Anchored Artifacts: A-2931.1
 Mentions: N-3, N-2, N-15
 Related Nodes: N-10493
-Supports: C-1815
+Supports: C-3475
 Tags: relevance:core
 Investigative Direction: Same as the earlier Pierre claims: obtain the written proof and records of meetings.
 
 ---
 
-**C-8423** Host Plugs Free Streaming of What a Woman Is Until 9 p.m. Eastern
+**C-6304** Host Plugs Free Streaming of What a Woman Is Until 9 p.m. Eastern
 
 Claim Timestamp: 00:39:39
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Verify the promotion on the host's website for the stat
 
 ---
 
-**C-8424** Host Says Andrew Told Her It Was Supposed to Be Her
+**C-6305** Host Says Andrew Told Her It Was Supposed to Be Her
 
 Claim Timestamp: 00:40:26
 
@@ -1722,7 +1722,7 @@ Investigative Direction: Ask Kolvet about the remark and its context; the host d
 
 ---
 
-**C-8425** Host Says Influencers Took Money to Attack Her to Keep Her From Processing Charlie's Death
+**C-6306** Host Says Influencers Took Money to Attack Her to Keep Her From Processing Charlie's Death
 
 Claim Timestamp: 00:41:39
 
@@ -1738,7 +1738,7 @@ Investigative Direction: Look for payment records or disclosures tying influence
 
 ---
 
-**C-8426** Host Says TPUSA Now Relies on Lawyers and Legal Letters
+**C-6308** Host Says TPUSA Now Relies on Lawyers and Legal Letters
 
 Claim Timestamp: 00:42:45
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Tally legal letters or demands TPUSA has sent to the ho
 
 ---
 
-**C-8427** Host Says Laitsch's Fiance Was Fired Too
+**C-6309** Host Says Laitsch's Fiance Was Fired Too
 
 Claim Timestamp: 00:43:34
 
@@ -1770,7 +1770,7 @@ Investigative Direction: Confirm the fiance's employment and dismissal with Lait
 
 ---
 
-**C-8428** Host Says Turning Point Made $250 Million in a Couple of Months
+**C-6310** Host Says Turning Point Made $250 Million in a Couple of Months
 
 Claim Timestamp: 00:43:34
 
@@ -1786,7 +1786,7 @@ Investigative Direction: Compare with TPUSA's reported post-assassination fundra
 
 ---
 
-**C-8429** Host Says Charlie's Texts Went by iMessage Unless Deleted Before Handover to Erika
+**C-6311** Host Says Charlie's Texts Went by iMessage Unless Deleted Before Handover to Erika
 
 Claim Timestamp: 00:44:20
 
@@ -1802,7 +1802,7 @@ Investigative Direction: A forensic examination of the iMessage database on Char
 
 ---
 
-**C-8430** Host Says Flood and Kolvet Would Have Told Erika About the Text
+**C-6312** Host Says Flood and Kolvet Would Have Told Erika About the Text
 
 Claim Timestamp: 00:45:38
 
@@ -1818,7 +1818,7 @@ Investigative Direction: Ask Flood and Kolvet whether they received the text and
 
 ---
 
-**C-8431** Host Says TPUSA Announced a Halftime Show She Will Not Watch
+**C-6313** Host Says TPUSA Announced a Halftime Show She Will Not Watch
 
 Claim Timestamp: 00:45:38
 
@@ -1834,7 +1834,7 @@ Investigative Direction: Check TPUSA's announcement and the dates of the alterna
 
 ---
 
-**C-8432** Host Confirms a Commenter's Remphan Star Reading of Acts 7:43
+**C-6314** Host Confirms a Commenter's Remphan Star Reading of Acts 7:43
 
 Claim Timestamp: 00:46:39
 

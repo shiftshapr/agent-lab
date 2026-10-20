@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep023): N-10242, N-10253, N-10266, N-10436
   - Tip-minted Nodes (reintro-ep023): N-710, N-11094, N-11129, N-11171
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12262–C-12349
+  - Claim Range: C-2065–C-2177
   - New Nodes Introduced: N-205, N-207, N-208, N-10208, N-10211, N-10212, N-10213, N-10214, N-10215
   - Reused Nodes Appearing: N-209, N-10207, N-10209, N-2, N-38, N-39, N-40, N-55, N-69, N-98, N-167, N-193, N-199, N-201, N-228, N-325, N-329, N-10000, N-10012, N-10018, N-10026, N-10031, N-10033, N-10056, N-10063, N-10074, N-10094, N-10115, N-10125, N-10131, N-10202, N-10342, N-10345, N-10355, N-10398, N-10673, N-11059, N-10210, N-10218
   N-1, N-41, N-11
@@ -187,7 +187,7 @@ Confidence: high
 ### Episode 23 Ledger Summary
 
 - **Artifact Families Introduced:** A-1301, A-1302, A-1303, A-1304, A-1305, A-1306, A-1307, A-1308, A-1309, A-1310, A-1311, A-1312
-- **Claim Range:** C-1545 – C-1567, C-3748
+- **Claim Range:** C-2074 – C-2092, C-2162
 - **New Nodes Introduced:**N-205, N-207, N-208, N-209, N-10207, N-10208, N-10209, N-10210, N-10211, N-10212, N-10213, N-10214
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-41 (Governor Cox)
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:09:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-1, N-17, N-205, N-10207*
+*Related: C-2074, N-1, N-17, N-205, N-10207*
 
 **A-1301.2** SUBTT arrival April 1, 2023, St. Louis, MO (via Paris from Cairo)
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:17:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-17, N-205, N-10207*
+*Related: C-2074, N-17, N-205, N-10207*
 
 **A-1301.3** SUBTT arrival April 13, 2023, Kansas (Cairo → Wichita)
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:18:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-17, N-205, N-10207*
+*Related: C-2074, N-17, N-205, N-10207*
 
 **A-1301.4** SUBTT arrival February 9, 2024, Omaha/Lincoln, NE (via Paris from Cairo)
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:20:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, C-1548, N-1, N-190, N-10207, N-10211*
+*Related: C-2074, C-2107, N-1, N-190, N-10207, N-10211*
 
 **A-1301.5** SUBTT arrival March 29, 2024, Wichita, KS (2:19 PM local)
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:23:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-10207*
+*Related: C-2074, N-10207*
 
 **A-1301.6** SUBTT arrival April 19, 2024, Provo, UT (via Salt Lake City)
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-10207*
+*Related: C-2074, N-10207*
 
 **A-1301.7** SUBTT arrival July 20, 2025, Omaha/Lincoln, NE
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:35:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-10207, N-10211*
+*Related: C-2074, N-10207, N-10211*
 
 **A-1301.8** SUBTT arrival August 17, 2025, Lincoln, NE (per host)
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:38:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-10207, N-10211*
+*Related: C-2074, N-10207, N-10211*
 
 **A-1301.9** SUBTT arrival September 4, 2025, Provo, UT (12:46 PM local) – described as "full plane"
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:39:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, C-1551, N-10207*
+*Related: C-2074, C-2139, N-10207*
 
 ---
 
@@ -307,7 +307,7 @@ Video Timestamp: 00:09:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1546, N-17, N-205, N-10208*
+*Related: C-2081, N-17, N-205, N-10208*
 
 **A-1302.2** SUBND arrival April 19, 2024, Provo, UT (via Salt Lake City)
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1546, N-10208*
+*Related: C-2081, N-10208*
 
 **A-1302.3** SUBND arrival May 23, 2025, Provo, UT – described by host as possible maintenance stop
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:26:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1546, C-1550, N-10208*
+*Related: C-2081, C-2114, N-10208*
 
 **A-1302.4** SUBND departure September 13, 2025, Provo → Canada → Paris → Cairo (3 days post-assassination)
 
@@ -337,7 +337,7 @@ Video Timestamp: 00:40:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1546, C-1552, N-10208*
+*Related: C-2081, C-2142, N-10208*
 
 ---
 
@@ -351,7 +351,7 @@ Video Timestamp: 00:20:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1548, N-1, N-190, N-10211*
+*Related: C-2107, N-1, N-190, N-10211*
 
 ---
 
@@ -365,7 +365,7 @@ Video Timestamp: 00:20:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1547, N-190, N-10212*
+*Related: C-2105, N-190, N-10212*
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:26:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1549, N-205, N-10209, N-10214*
+*Related: C-2115, N-205, N-10209, N-10214*
 
 ---
 
@@ -395,7 +395,7 @@ Video Timestamp: 00:59:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1564, N-10209*
+*Related: C-2168, N-10209*
 
 **A-1306.2** "Jill" comment criticizing Pastor Jack Hibbs's silence regarding Charlie Kirk
 
@@ -405,7 +405,7 @@ Video Timestamp: 00:59:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1564, N-208, N-10209*
+*Related: C-2168, N-208, N-10209*
 
 **A-1306.3** "Alpaca Renee" comment expressing support and citing Jeremiah 29:11
 
@@ -415,7 +415,7 @@ Video Timestamp: 00:59:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1564*
+*Related: C-2168*
 
 **A-1306.4** "Voiceless" comment suggesting Google Trends correlation analysis
 
@@ -425,7 +425,7 @@ Video Timestamp: 01:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1553, C-1564*
+*Related: C-2173, C-2168*
 
 **A-1306.5** "Tim Morgan" comment referencing Sean Feucht financial mismanagement and Sean Feucht / Pastor McCoy "Courageous Christianity Tour" honoring Charlie
 
@@ -435,7 +435,7 @@ Video Timestamp: 01:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1549, C-1565, N-17, N-205, N-10209*
+*Related: C-2115, C-2174, N-17, N-205, N-10209*
 
 **A-1306.6** Unattributed live-chat comment reporting that Charlie Kirk did fly into Salt Lake City for a "Restaurantology Summit" interview
 
@@ -445,7 +445,7 @@ Video Timestamp: 00:59:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1561, N-10215*
+*Related: C-2167, N-10215*
 
 *Flag: Poster name not captured in transcript*
 
@@ -461,7 +461,7 @@ Video Timestamp: 00:13:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1549, C-1566, N-17, N-205, N-66, N-10209, N-10210*
+*Related: C-2115, C-2086, N-17, N-205, N-66, N-10209, N-10210*
 
 ---
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:29:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1558, N-207, N-10214*
+*Related: C-2118, N-207, N-10214*
 
 ---
 
@@ -489,7 +489,7 @@ Video Timestamp: 00:42:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1554, C-1555, C-1561, N-10215*
+*Related: C-2144, C-2145, C-2167, N-10215*
 
 ---
 
@@ -503,7 +503,7 @@ Video Timestamp: 00:17:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1556, N-17, N-10213*
+*Related: C-2096, N-17, N-10213*
 
 ---
 
@@ -517,7 +517,7 @@ Video Timestamp: 00:37:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1557, N-1, N-36, N-10209*
+*Related: C-2132, N-1, N-36, N-10209*
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -533,7 +533,7 @@ Video Timestamp: 00:32:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1559, C-1560, N-1, N-22, N-10209*
+*Related: C-2121, C-2122, N-1, N-22, N-10209*
 
 *Flag: Speech referenced but specific clip not displayed within this episode*
 
@@ -550,7 +550,7 @@ Video Timestamp: 00:40:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12322*
+*Related: C-2143*
 
 ---
 
@@ -563,7 +563,7 @@ Video Timestamp: 00:05:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12269, C-12271, C-12272, C-12273, C-12274, C-12276, C-12277, C-12281, C-12283, C-12284, C-12289, C-12293, C-12299*
+*Related: C-2073, C-2076, C-2077, C-2078, C-2079, C-2082, C-2083, C-2088, C-2090, C-2091, C-2098, C-2102, C-2110*
 
 ---
 
@@ -578,7 +578,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12279, C-12280*
+*Related: C-2085, C-2087*
 
 ---
 
@@ -591,7 +591,7 @@ Video Timestamp: 00:14:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12285, C-12286, C-12288*
+*Related: C-2093, C-2094, C-2097*
 
 ---
 
@@ -604,7 +604,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12328, C-12329*
+*Related: C-2151, C-2152*
 
 ---
 
@@ -626,7 +626,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1301.1, A-1301.2, A-1302.1, A-1306.5, A-1310.1, C-1549, C-1556, C-1565, N-205, N-10209, N-10213*
+*Related: A-1301.1, A-1301.2, A-1302.1, A-1306.5, A-1310.1, C-2115, C-2096, C-2174, N-205, N-10209, N-10213*
 
 ---
 
@@ -639,7 +639,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1303.1, A-1304.1, C-1547, C-1548, N-10212*
+*Related: A-1303.1, A-1304.1, C-2105, C-2107, N-10212*
 
 ---
 
@@ -652,7 +652,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1301.1, A-1301.2, A-1302.1, A-1305.1, A-1306.5, A-1307.1, C-1549, C-1565, C-1566, N-17, N-10209, N-10214*
+*Related: A-1301.1, A-1301.2, A-1302.1, A-1305.1, A-1306.5, A-1307.1, C-2115, C-2174, C-2086, N-17, N-10209, N-10214*
 
 ---
 
@@ -665,7 +665,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1312.1, C-1559, C-1560, N-10209*
+*Related: A-1312.1, C-2121, C-2122, N-10209*
 
 ---
 
@@ -678,7 +678,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1562, N-1, N-36, N-10209*
+*Related: C-2134, N-1, N-36, N-10209*
 
 *Flag: Host's claim of confirmatory capacity; no displayed confirmation artifact*
 
@@ -693,7 +693,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1307.1, C-1566, N-205, N-10210*
+*Related: A-1307.1, C-2086, N-205, N-10210*
 
 ---
 
@@ -706,7 +706,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1311.1, C-1557, C-1562, N-1, N-14, N-10209*
+*Related: A-1311.1, C-2132, C-2134, N-1, N-14, N-10209*
 
 ---
 
@@ -719,7 +719,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1308.1, C-1558, N-10214*
+*Related: A-1308.1, C-2118, N-10214*
 
 ---
 
@@ -732,7 +732,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1306.2, C-1564, N-10209*
+*Related: A-1306.2, C-2168, N-10209*
 
 ---
 
@@ -745,7 +745,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1545, C-1546, N-10207, N-10208*
+*Related: C-2074, C-2081, N-10207, N-10208*
 
 ---
 
@@ -758,7 +758,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1548*
+*Related: C-2107*
 
 ---
 
@@ -771,7 +771,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9, C-1545, C-1548, C-1551, C-1561, N-1, N-17, N-205, N-209*
+*Related: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9, C-2074, C-2107, C-2139, C-2167, N-1, N-17, N-205, N-209*
 
 ---
 
@@ -784,7 +784,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1302.1, A-1302.2, A-1302.3, A-1302.4, C-1546, C-1550, C-1552, N-1, N-209*
+*Related: A-1302.1, A-1302.2, A-1302.3, A-1302.4, C-2081, C-2114, C-2142, N-1, N-209*
 
 ---
 
@@ -797,7 +797,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1305.1, A-1306.2, A-1306.5, A-1307.1, A-1311.1, A-1312.1, C-1549, C-1557, C-1559, C-1560, C-1562, C-1564, C-1565, C-1566, N-1, N-17, N-205, N-41, N-22, N-14, N-36, N-208, N-10210, N-10212*
+*Related: A-1305.1, A-1306.2, A-1306.5, A-1307.1, A-1311.1, A-1312.1, C-2115, C-2132, C-2121, C-2122, C-2134, C-2168, C-2174, C-2086, N-1, N-17, N-205, N-41, N-22, N-14, N-36, N-208, N-10210, N-10212*
 
 ---
 
@@ -810,7 +810,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1307.1, C-1566, N-205, N-66, N-10209*
+*Related: A-1307.1, C-2086, N-205, N-66, N-10209*
 
 ---
 
@@ -823,7 +823,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1301.4, A-1301.7, A-1301.8, A-1303.1, C-1548, N-1, N-190*
+*Related: A-1301.4, A-1301.7, A-1301.8, A-1303.1, C-2107, N-1, N-190*
 
 ---
 
@@ -836,7 +836,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1304.1, C-1547, C-1563, N-190, N-10209, N-10214*
+*Related: A-1304.1, C-2105, C-2136, N-190, N-10209, N-10214*
 
 ---
 
@@ -849,7 +849,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1310.1, C-1556, N-17, N-41, N-11*
+*Related: A-1310.1, C-2096, N-17, N-41, N-11*
 
 ---
 
@@ -862,7 +862,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1305.1, A-1308.1, C-1549, C-1558, N-205, N-207, N-10212*
+*Related: A-1305.1, A-1308.1, C-2115, C-2118, N-205, N-207, N-10212*
 
 ---
 
@@ -871,7 +871,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-1567*
+*Related: C-2092*
 
 ---
 
@@ -879,7 +879,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host cites his X posts, event schedule, donor pressure and what he knew.
 
-*Related: C-12262, C-12263, C-12264, C-12265, C-12268, C-12272, C-12275, C-12276, C-12295, C-12298, C-12299, C-12300, C-12301, C-12306, C-12309, C-12312, C-12314, C-12315, C-12316, C-12317, C-12321, C-12322, C-12323, C-12326, C-12327, C-12333, C-12337, C-12338, C-12340, C-12341, C-12342*
+*Related: C-2065, C-2066, C-2067, C-2068, C-2072, C-2077, C-2080, C-2082, C-2104, C-2109, C-2110, C-2111, C-2112, C-2120, C-2125, C-2128, C-2130, C-2131, C-2133, C-2135, C-2141, C-2143, C-2146, C-2149, C-2150, C-2156, C-2160, C-2161, C-2164, C-2165, C-2166*
 
 ---
 
@@ -887,7 +887,7 @@ Subject of the assassination; the host cites his X posts, event schedule, donor 
 
 Widow and TPUSA CEO; the host floats that a Scottsdale plane may have picked her up.
 
-*Related: C-12324*
+*Related: C-2147*
 
 ---
 
@@ -895,7 +895,7 @@ Widow and TPUSA CEO; the host floats that a Scottsdale plane may have picked her
 
 Host; speaks for herself throughout.
 
-*Related: C-12262, C-12263, C-12264, C-12265, C-12266, C-12267, C-12268, C-12269, C-12270, C-12271, C-12272, C-12274, C-12275, C-12276, C-12277, C-12278, C-12285, C-12286, C-12287, C-12293, C-12294, C-12295, C-12296, C-12304, C-12309, C-12310, C-12317, C-12318, C-12319, C-12328, C-12329, C-12330, C-12335, C-12336, C-12341, C-12342, C-12343, C-12345, C-12347, C-12348, C-12349*
+*Related: C-2065, C-2066, C-2067, C-2068, C-2070, C-2071, C-2072, C-2073, C-2075, C-2076, C-2077, C-2079, C-2080, C-2082, C-2083, C-2084, C-2093, C-2094, C-2095, C-2102, C-2103, C-2104, C-2106, C-2117, C-2125, C-2126, C-2135, C-2137, C-2138, C-2151, C-2152, C-2153, C-2158, C-2159, C-2165, C-2166, C-2169, C-2171, C-2175, C-2176, C-2177*
 
 ---
 
@@ -903,7 +903,7 @@ Host; speaks for herself throughout.
 
 Named by the host as angry after Carlson's speech and as rowdy at the Hamptons meeting.
 
-*Related: C-12311, C-12315*
+*Related: C-2127, C-2131*
 
 ---
 
@@ -911,7 +911,7 @@ Named by the host as angry after Carlson's speech and as rowdy at the Hamptons m
 
 Comedian the host says spoke at the July 11, 2025 TPUSA event criticizing Israel.
 
-*Related: C-12305*
+*Related: C-2119*
 
 ---
 
@@ -919,7 +919,7 @@ Comedian the host says spoke at the July 11, 2025 TPUSA event criticizing Israel
 
 Accused shooter; the host says he was not on campus and mocks the 33 numerology.
 
-*Related: C-12263, C-12334*
+*Related: C-2066, C-2157*
 
 ---
 
@@ -927,7 +927,7 @@ Accused shooter; the host says he was not on campus and mocks the 33 numerology.
 
 Named by the host as angry after Carlson's July 11 speech.
 
-*Related: C-12311*
+*Related: C-2127*
 
 ---
 
@@ -935,14 +935,14 @@ Named by the host as angry after Carlson's July 11 speech.
 
 FBI director the host says blocks Gabbard and Kent and whom Kirk championed.
 
-*Related: C-12302, C-12333, C-12334*
+*Related: C-2113, C-2156, C-2157*
 
 ---
 
 **N-98** Robert Shillman
 Donor named by the host as Bob Shillman, angry after Carlson's speech.
 
-*Related: C-12312*
+*Related: C-2128*
 
 ---
 
@@ -950,7 +950,7 @@ Donor named by the host as Bob Shillman, angry after Carlson's speech.
 
 Project Veritas founder the host says was ousted in a takeover Kirk backed.
 
-*Related: C-12274, C-12275, C-12276*
+*Related: C-2079, C-2080, C-2082*
 
 ---
 
@@ -958,7 +958,7 @@ Project Veritas founder the host says was ousted in a takeover Kirk backed.
 
 Founder of the Freedom Center where the host, Kirk and O'Keefe met.
 
-*Related: C-12275*
+*Related: C-2080*
 
 ---
 
@@ -966,7 +966,7 @@ Founder of the Freedom Center where the host, Kirk and O'Keefe met.
 
 Interview guest announced for release after this episode.
 
-*Related: C-12348, C-12349*
+*Related: C-2176, C-2177*
 
 ---
 
@@ -974,7 +974,7 @@ Interview guest announced for release after this episode.
 
 Named in the host's 2024 backstage exchange with Bowyer about a debate.
 
-*Related: C-12309*
+*Related: C-2125*
 
 ---
 
@@ -982,7 +982,7 @@ Named in the host's 2024 backstage exchange with Bowyer about a debate.
 
 One of the guests the host says PragerU wanted her to platform.
 
-*Related: C-12345*
+*Related: C-2171*
 
 ---
 
@@ -990,7 +990,7 @@ One of the guests the host says PragerU wanted her to platform.
 
 One of the guests the host says PragerU wanted her to platform.
 
-*Related: C-12345*
+*Related: C-2171*
 
 ---
 
@@ -998,7 +998,7 @@ One of the guests the host says PragerU wanted her to platform.
 
 Named by the host as able to pull the plane manifests.
 
-*Related: C-12302*
+*Related: C-2113*
 
 ---
 
@@ -1006,7 +1006,7 @@ Named by the host as able to pull the plane manifests.
 
 Subject of Kirk's 2023 corruption accusations per the host.
 
-*Related: C-12272*
+*Related: C-2077*
 
 ---
 
@@ -1014,7 +1014,7 @@ Subject of Kirk's 2023 corruption accusations per the host.
 
 Organization whose events, staff and money the host ties to the plane visits.
 
-*Related: C-12263, C-12264, C-12269, C-12272, C-12274, C-12294, C-12295, C-12303, C-12307, C-12308, C-12309, C-12310, C-12318, C-12326, C-12327, C-12328, C-12329, C-12338*
+*Related: C-2066, C-2067, C-2073, C-2077, C-2079, C-2103, C-2104, C-2116, C-2123, C-2124, C-2125, C-2126, C-2137, C-2149, C-2150, C-2151, C-2152, C-2161*
 
 ---
 
@@ -1022,7 +1022,7 @@ Organization whose events, staff and money the host ties to the plane visits.
 
 Site of the shooting; the host says its president majored in Soviet studies.
 
-*Related: C-12330*
+*Related: C-2153*
 
 ---
 
@@ -1030,7 +1030,7 @@ Site of the shooting; the host says its president majored in Soviet studies.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-12316*
+*Related: C-2133*
 
 ---
 
@@ -1038,7 +1038,7 @@ Existing topic reused for new claims in this episode.
 
 Place; subject of Bowyer's pro-Israel statement and the host's sweeping claims.
 
-*Related: C-12273, C-12310, C-12335, C-12336*
+*Related: C-2078, C-2126, C-2158, C-2159*
 
 ---
 
@@ -1046,7 +1046,7 @@ Place; subject of Bowyer's pro-Israel statement and the host's sweeping claims.
 
 Existing topic reused for the 33 numerology claim.
 
-*Related: C-12334*
+*Related: C-2157*
 
 ---
 
@@ -1054,7 +1054,7 @@ Existing topic reused for the 33 numerology claim.
 
 Existing topic reused for the Carlson speech and donor anger claims.
 
-*Related: C-12306, C-12311, C-12312*
+*Related: C-2120, C-2127, C-2128*
 
 ---
 
@@ -1062,7 +1062,7 @@ Existing topic reused for the Carlson speech and donor anger claims.
 
 Existing topic reused for claims on Kirk's Israel position.
 
-*Related: C-12306, C-12310, C-12340*
+*Related: C-2120, C-2126, C-2164*
 
 ---
 
@@ -1070,7 +1070,7 @@ Existing topic reused for claims on Kirk's Israel position.
 
 Place named in the host's closing claim.
 
-*Related: C-12349*
+*Related: C-2177*
 
 ---
 
@@ -1078,7 +1078,7 @@ Place named in the host's closing claim.
 
 Place where both Egyptian planes met in April 2024 and September 2025.
 
-*Related: C-12268, C-12300, C-12320*
+*Related: C-2072, C-2111, C-2140*
 
 ---
 
@@ -1086,7 +1086,7 @@ Place where both Egyptian planes met in April 2024 and September 2025.
 
 Organization the host characterizes as a real estate empire and as TPUSA's real character.
 
-*Related: C-12304, C-12308*
+*Related: C-2117, C-2124*
 
 ---
 
@@ -1094,7 +1094,7 @@ Organization the host characterizes as a real estate empire and as TPUSA's real 
 
 Existing topic reused for the Soviet studies claims.
 
-*Related: C-12330, C-12331*
+*Related: C-2153, C-2154*
 
 ---
 
@@ -1102,7 +1102,7 @@ Existing topic reused for the Soviet studies claims.
 
 Place of Kirk's University of Utah event.
 
-*Related: C-12301*
+*Related: C-2112*
 
 ---
 
@@ -1110,7 +1110,7 @@ Place of Kirk's University of Utah event.
 
 Organization the host says pushed guests to her.
 
-*Related: C-12343, C-12345*
+*Related: C-2169, C-2171*
 
 ---
 
@@ -1118,7 +1118,7 @@ Organization the host says pushed guests to her.
 
 Existing topic reused for the Patel claim.
 
-*Related: C-12333*
+*Related: C-2156*
 
 ---
 
@@ -1126,7 +1126,7 @@ Existing topic reused for the Patel claim.
 
 Existing topic reused for the Mikey McCoy succession claim.
 
-*Related: C-12326*
+*Related: C-2149*
 
 ---
 
@@ -1134,7 +1134,7 @@ Existing topic reused for the Mikey McCoy succession claim.
 
 Existing topic reused for the Che Ahn claim.
 
-*Related: C-12280*
+*Related: C-2087*
 
 ---
 
@@ -1142,7 +1142,7 @@ Existing topic reused for the Che Ahn claim.
 
 Existing topic reused for the plane claims.
 
-*Related: C-12262, C-12265, C-12266, C-12267, C-12302*
+*Related: C-2065, C-2068, C-2070, C-2071, C-2113*
 
 ---
 
@@ -1150,7 +1150,7 @@ Existing topic reused for the plane claims.
 
 Existing topic reused for the Delaware routing claims.
 
-*Related: C-12291, C-12297*
+*Related: C-2100, C-2108*
 
 ---
 
@@ -1158,7 +1158,7 @@ Existing topic reused for the Delaware routing claims.
 
 Existing topic reused for the Netanyahu claims.
 
-*Related: C-12316*
+*Related: C-2133*
 
 ---
 
@@ -1166,7 +1166,7 @@ Existing topic reused for the Netanyahu claims.
 
 Existing topic reused for the Dillon claim.
 
-*Related: C-12311, C-12315*
+*Related: C-2127, C-2131*
 
 ---
 
@@ -1174,7 +1174,7 @@ Existing topic reused for the Dillon claim.
 
 Existing topic reused for the manifest claim.
 
-*Related: C-12302*
+*Related: C-2113*
 
 ---
 
@@ -1182,7 +1182,7 @@ Existing topic reused for the manifest claim.
 
 Existing topic reused for TPUSA Faith events and personnel.
 
-*Related: C-12273, C-12277, C-12281, C-12283, C-12299, C-12344, C-12346*
+*Related: C-2078, C-2083, C-2088, C-2090, C-2110, C-2170, C-2172*
 
 ---
 
@@ -1190,7 +1190,7 @@ Existing topic reused for TPUSA Faith events and personnel.
 
 Existing topic reused for the military shooting musing.
 
-*Related: C-12287*
+*Related: C-2095*
 
 ---
 
@@ -1198,7 +1198,7 @@ Existing topic reused for the military shooting musing.
 
 Existing topic reused for the intervention claim.
 
-*Related: C-12314, C-12315*
+*Related: C-2130, C-2131*
 
 ---
 
@@ -1206,7 +1206,7 @@ Existing topic reused for the intervention claim.
 
 Existing topic reused for the Russian speaker claims.
 
-*Related: C-12331, C-12332*
+*Related: C-2154, C-2155*
 
 ---
 
@@ -1214,7 +1214,7 @@ Existing topic reused for the Russian speaker claims.
 
 Existing topic reused for the August 17 plane claim.
 
-*Related: C-12319*
+*Related: C-2138*
 
 ---
 
@@ -1222,7 +1222,7 @@ Existing topic reused for the August 17 plane claim.
 
 Existing topic reused for the 33 lodge claim.
 
-*Related: C-12334*
+*Related: C-2157*
 
 ---
 
@@ -1230,7 +1230,7 @@ Existing topic reused for the 33 lodge claim.
 
 Existing topic reused for the funding opacity claims.
 
-*Related: C-12317, C-12318*
+*Related: C-2135, C-2137*
 
 ---
 
@@ -1238,7 +1238,7 @@ Existing topic reused for the funding opacity claims.
 
 First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rallies the host reads that Sean Feucht took part in.
 
-*Related: C-12280*
+*Related: C-2087*
 
 ---
 
@@ -1246,7 +1246,7 @@ First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rall
 
 First named by the host at 00:52:25 in episode 23. Named by the host as the Israeli link in Congo and the diamond trade.
 
-*Related: C-12336*
+*Related: C-2159*
 
 ---
 
@@ -1255,7 +1255,7 @@ First named by the host at 00:52:25 in episode 23. Named by the host as the Isra
 Node Type: Organization
 Organization founded by James O'Keefe; the host says he was ousted in a January takeover that Kirk publicly supported and that people involved were tied to TPUSA.
 
-*Related: C-12274, C-12276*
+*Related: C-2079, C-2082*
 
 ---
 
@@ -1264,7 +1264,7 @@ Organization founded by James O'Keefe; the host says he was ousted in a January 
 Node Type: Topic
 The March 2023 shooting at Covenant Elementary School in Nashville that the host places during the first TPUSA Faith Pastor Summit and says the feds covered up.
 
-*Related: C-12283, C-12284, C-12289*
+*Related: C-2090, C-2091, C-2098*
 
 ---
 
@@ -1273,7 +1273,7 @@ The March 2023 shooting at Covenant Elementary School in Nashville that the host
 Node Type: Topic
 The two planes the host says flew out of Scottsdale on the day of the shooting, including N102DZ to Salt Lake City, and the open question of who was aboard.
 
-*Related: C-12322, C-12323, C-12324, C-12325*
+*Related: C-2143, C-2146, C-2147, C-2148*
 
 ---
 
@@ -1282,13 +1282,13 @@ The two planes the host says flew out of Scottsdale on the day of the shooting, 
 Node Type: Topic
 The host's claim that each Egyptian plane visit in 2023 coincided with a TPUSA Faith Kingdom to the Capital event headed by Sean Feucht.
 
-*Related: C-12281, C-12282, C-12290, C-12292, C-12293*
+*Related: C-2088, C-2089, C-2099, C-2101, C-2102*
 
 ---
 
 # V. Claim Register
 
-**C-1545** Host Says SUBTT (Falcon 7X) Was Tracked Into U.S. Cities in 2022-2025, Repeatedly Landing Near TPUSA / TPUSA Faith / Charlie Kirk Events
+**C-2074** Host Says SUBTT (Falcon 7X) Was Tracked Into U.S. Cities in 2022-2025, Repeatedly Landing Near TPUSA / TPUSA Faith / Charlie Kirk Events
 
 Claim Timestamp: 00:05:35
 Claim: The host says Flightradar tracking data she presents shows the Egyptian-registered Falcon 7X tail number SUBTT making multiple U.S. arrivals between 2022 and September 2025 in locations including St. Louis, Kansas, Lincoln (NE), Wichita, and Provo, in temporal proximity to TPUSA, TPUSA Faith, or Charlie Kirk events.
@@ -1299,7 +1299,7 @@ Investigative Direction: Pull official Flightradar / ADS-B archives for SUBTT ac
 
 ---
 
-**C-1546** Host Says SUBND (Gulfstream 4) Was Tracked Into U.S. Cities in 2023-2025 With a Pattern of Extended Stays and Post-Event Departures
+**C-2081** Host Says SUBND (Gulfstream 4) Was Tracked Into U.S. Cities in 2023-2025 With a Pattern of Extended Stays and Post-Event Departures
 
 Claim Timestamp: 00:09:38
 Claim: The host says Flightradar tracking data she presents shows the Egyptian-registered Gulfstream 4 tail number SUBND arriving in St. Louis on February 21, 2023 (remaining until May), arriving in Provo on April 19, 2024, arriving in Provo on May 23, 2025, and departing Provo on September 13, 2025 via Canada and Paris back to Cairo.
@@ -1310,7 +1310,7 @@ Investigative Direction: Verify Flightradar archive for SUBND on each cited date
 
 ---
 
-**C-1547** Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024
+**C-2105** Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024
 
 Claim Timestamp: 00:19:50
 Claim: The host says Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, saying she has the internal TPUSA email and so it is a fact.
@@ -1321,7 +1321,7 @@ Investigative Direction: Obtain the referenced internal TPUSA email through open
 
 ---
 
-**C-1548** TPUSA UNL Chapter Launch Display Date Conflict Between Host Assertion (February 2024) and Director Mark's Correction (May 2025)
+**C-2107** TPUSA UNL Chapter Launch Display Date Conflict Between Host Assertion (February 2024) and Director Mark's Correction (May 2025)
 
 Claim Timestamp: 00:20:57
 Claim: The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while director Mark later corrects the date to May 2025, as the host relays. Both assertions are recorded as competing host-side positions against a single artifact.
@@ -1332,7 +1332,7 @@ Investigative Direction: Re-examine the original Instagram post metadata (post d
 
 ---
 
-**C-1549** Sean Feucht publicly accused of fraud, embezzlement, and financial mismanagement by multiple organizations in June 2025
+**C-2115** Sean Feucht publicly accused of fraud, embezzlement, and financial mismanagement by multiple organizations in June 2025
 
 Claim Timestamp: 00:26:47
 Claim: The episode references a June 2025 article documenting multiple organizational allegations against Sean Feucht, including use of business credit cards for personal expenses, diversion of donations to personal accounts, inflated vendor payments, ministry funds used to rent his personal Montana cabin for board meetings, and ownership of multiple high-value properties.
@@ -1343,7 +1343,7 @@ Investigative Direction: Retrieve the cited article directly; confirm each enume
 
 ---
 
-**C-1550** SUBND May 23, 2025 Provo Arrival Described by Host as Possible Maintenance Stop
+**C-2114** SUBND May 23, 2025 Provo Arrival Described by Host as Possible Maintenance Stop
 
 Claim Timestamp: 00:26:10
 Claim: The host says the May 23, 2025 Provo arrival of SUBND appeared to be a "legitimate maintenance stop" based on test-flying activity around that time, adding "I don't know for certain".
@@ -1353,7 +1353,7 @@ Investigative Direction: Verify against FAA / airport maintenance logs whether a
 
 ---
 
-**C-1551** SUBTT Arrived in Provo on September 4, 2025 as a "Full Plane"
+**C-2139** SUBTT Arrived in Provo on September 4, 2025 as a "Full Plane"
 
 Claim Timestamp: 00:39:39
 Claim: The episode presents that SUBTT landed in Provo on September 4, 2025 at 12:46 PM and that, per a "person overseas who had intimate knowledge," the plane was full on arrival.
@@ -1363,7 +1363,7 @@ Investigative Direction: Cross-reference Provo airport manifest or charter opera
 
 ---
 
-**C-1552** Host Says SUBND Departed Provo on September 13, 2025 via Canada, Paris, and Cairo
+**C-2142** Host Says SUBND Departed Provo on September 13, 2025 via Canada, Paris, and Cairo
 
 Claim Timestamp: 00:40:05
 Claim: The host says the SUBND plane left Provo on September 13, 2025, three days after Charlie Kirk's assassination, routing through Canada and Paris back to Cairo.
@@ -1374,7 +1374,7 @@ Investigative Direction: Verify against Flightradar archives; obtain Canadian / 
 
 ---
 
-**C-1553** Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025
+**C-2173** Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025
 
 Claim Timestamp: 01:01:33
 Claim: The host states that the tail number of one of the planes, which she believes is the blue plane, was Googled from Israel on September 8, 2025, two days before the assassination, in response to a live-chat comment suggesting Google Trends correlation.
@@ -1386,7 +1386,7 @@ Investigative Direction: Verify via Google Trends / search-source attribution wh
 
 ---
 
-**C-1554** Host Says N102DZ Flew Scottsdale to Salt Lake City at 7:12 AM on Day of Assassination
+**C-2144** Host Says N102DZ Flew Scottsdale to Salt Lake City at 7:12 AM on Day of Assassination
 
 Claim Timestamp: 00:42:24
 Claim: The host says N102DZ (G5 private jet) departed Scottsdale for Salt Lake City at 7:12 AM local time on the day of Charlie Kirk's assassination and landed at 9:23 AM local.
@@ -1397,7 +1397,7 @@ Investigative Direction: Pull Flightradar / FAA archives for N102DZ on September
 
 ---
 
-**C-1555** Host Says N102DZ Left Salt Lake City Around 1:00 PM on Day of Assassination, Then Turned Around After 15 Minutes in Scottsdale
+**C-2145** Host Says N102DZ Left Salt Lake City Around 1:00 PM on Day of Assassination, Then Turned Around After 15 Minutes in Scottsdale
 
 Claim Timestamp: 00:43:20
 Claim: The host says N102DZ left Salt Lake City and headed to Scottsdale at about 1:00 PM local on September 10, 2025, was on the ground in Scottsdale for only about 15 minutes, and then turned around and flew out again.
@@ -1407,7 +1407,7 @@ Investigative Direction: Verify the second-leg flight path; cross-check with Fli
 
 ---
 
-**C-1556** Host Says Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter
+**C-2096** Host Says Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter
 
 Claim Timestamp: 00:16:00
 Claim: The host says that on November 7, 2018 a former Marine machine gunner opened fire at the Borderline Bar and Grill in Thousand Oaks, CA, killing 11 patrons and himself, and that the victims included other Marines and veterans.
@@ -1418,7 +1418,7 @@ Investigative Direction: Confirm event details against contemporaneous news cove
 
 ---
 
-**C-1557** Netanyahu Publicly Stated He Invited Charlie Kirk to Israel Approximately Two Weeks Before Assassination
+**C-2132** Netanyahu Publicly Stated He Invited Charlie Kirk to Israel Approximately Two Weeks Before Assassination
 
 Claim Timestamp: 00:36:19
 Claim: The episode reports that Israeli Prime Minister Bibi Netanyahu publicly stated he had called Charlie Kirk approximately two weeks before the assassination and invited him to Israel.
@@ -1431,7 +1431,7 @@ Investigative Direction: Locate the cited Netanyahu public statement (interview,
 
 ---
 
-**C-1558** Host Says News Story Reports Plumber Found 500 Envelopes of Cash at Joel Osteen's Megachurch
+**C-2118** Host Says News Story Reports Plumber Found 500 Envelopes of Cash at Joel Osteen's Megachurch
 
 Claim Timestamp: 00:28:45
 Claim: The host says a news story she brings up reports that a plumber repairing a toilet at Joel Osteen's megachurch found about 500 envelopes of cash in a wall (she first recalls almost a million dollars), and she characterizes Osteen's excuse as saying the church had money missing.
@@ -1444,7 +1444,7 @@ Investigative Direction: Retrieve the underlying news article; verify the exact 
 
 ---
 
-**C-1559** Host Says Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service
+**C-2121** Host Says Tucker Carlson Gave a Speech at TPUSA Conference on July 11, 2025 Addressing Epstein, Israel, and Foreign Military Service
 
 Claim Timestamp: 00:31:35
 Claim: The host says Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 in which he referenced Jeffrey Epstein, said people who serve in foreign armies should probably have their citizenship stripped, "something along those lines," and mused on Bill Ackman's wealth.
@@ -1457,7 +1457,7 @@ Investigative Direction: Obtain the Tucker Carlson TPUSA July 11, 2025 speech (v
 
 ---
 
-**C-1560** TPUSA Donor Confrontation with Charlie Kirk Immediately Following Tucker Carlson July 11, 2025 Speech
+**C-2122** TPUSA Donor Confrontation with Charlie Kirk Immediately Following Tucker Carlson July 11, 2025 Speech
 
 Claim Timestamp: 00:32:39
 Claim: The host says she knows for a fact that when Tucker came off stage after his July 11, 2025 speech, a woman donor she has not named instantly started yelling at Charlie, and that Charlie then got the full donor squeeze: "you are not allowed to be anti-Israel."
@@ -1470,7 +1470,7 @@ Investigative Direction: Locate first-person testimony, contemporaneous social-m
 
 ---
 
-**C-1561** Live-Chat Comment Reports Charlie Kirk Did Fly into Salt Lake City for a "Restaurantology Summit" Interview
+**C-2167** Live-Chat Comment Reports Charlie Kirk Did Fly into Salt Lake City for a "Restaurantology Summit" Interview
 
 Claim Timestamp: 00:59:11
 Claim: The host paraphrases an unattributed live-chat comment reporting that Charlie Kirk did in fact fly into Salt Lake City on September 10, 2025 for an interview with "Restaurantology Summit," and accepts the comment as resolving the N102DZ SLC mystery.
@@ -1483,7 +1483,7 @@ Investigative Direction: Verify existence of a Charlie Kirk "Restaurantology Sum
 
 ---
 
-**C-1562** Host Asserts Netanyahu Offered to Fund TPUSA and Andrew Kolvet Can Confirm
+**C-2134** Host Asserts Netanyahu Offered to Fund TPUSA and Andrew Kolvet Can Confirm
 
 Claim Timestamp: 00:37:15
 Claim: The host states that Netanyahu invited Charlie to Israel and Charlie declined, that Netanyahu offered to "fund Turning Point to the next level," and that Andrew Kolvet should be able to confirm the offer.
@@ -1496,7 +1496,7 @@ Investigative Direction: Obtain direct confirmation from Andrew Kolvet (public s
 
 ---
 
-**C-1563** Host Asserts Charlie Kirk Did Not Know the Source of TPUSA Funding and Created DOGE to Trace It
+**C-2136** Host Asserts Charlie Kirk Did Not Know the Source of TPUSA Funding and Created DOGE to Trace It
 
 Claim Timestamp: 00:37:20
 Claim: The host states it is true that Charlie Kirk did not know where the money was coming from or going to, and that this is why he established DOGE.
@@ -1509,7 +1509,7 @@ Investigative Direction: Locate any direct statement from Charlie Kirk regarding
 
 ---
 
-**C-1564** Live-Chat Critics Condemn TPUSA-Affiliated Pastors and Christian Zionist Silence After Charlie Kirk Assassination
+**C-2168** Live-Chat Critics Condemn TPUSA-Affiliated Pastors and Christian Zionist Silence After Charlie Kirk Assassination
 
 Claim Timestamp: 00:59:11
 Claim: The episode reads aloud live-chat comments, one voicing support for the host because 'the Zionists want to call you vermin', and one saying Pastor Jack Hibbs has not said nearly enough and condemning Christian Zionist loyalty replacing loyalty to "God, the church, and the truth."
@@ -1520,7 +1520,7 @@ Investigative Direction: Verify each named pastor / figure's public silence or s
 
 ---
 
-**C-1565** Sean Feucht and Rob McCoy Reportedly Planning "Courageous Christianity Tour" Honoring Charlie Kirk
+**C-2174** Sean Feucht and Rob McCoy Reportedly Planning "Courageous Christianity Tour" Honoring Charlie Kirk
 
 Claim Timestamp: 01:01:33
 Claim: Live-chat comment "Tim Morgan" states that Sean Feucht and Pastor McCoy are planning a "Courageous Christianity Tour" to honor Charlie Kirk.
@@ -1531,7 +1531,7 @@ Investigative Direction: Verify the existence and details of any announced "Cour
 
 ---
 
-**C-1566** NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership
+**C-2086** NAR (New Apostolic Reformation) Research Connection to TPUSA Faith Leadership
 
 Claim Timestamp: 00:11:38
 Claim: The host says Sean Feucht's biography says he grew up in a New Apostolic Reformation (NAR) church, and that X user Village Crazy Lady told her to look into NAR, saying something is going on if you start talking about Rob McCoy; the host says NAR is somehow going to be relevant, noting it is an early phase of the investigation.
@@ -1542,7 +1542,7 @@ Investigative Direction: Pull and analyze Village Crazy Lady's pinned NAR resear
 
 ---
 
-**C-1567** Sub-Claim: Host Asserts Rob McCoy Identified as Charlie Kirk's Pastor
+**C-2092** Sub-Claim: Host Asserts Rob McCoy Identified as Charlie Kirk's Pastor
 
 Claim Timestamp: 00:14:58
 Claim: The host states that Rob McCoy was in Nashville when the trans shooting happened and was close to Charlie Kirk when he was shot, that he says "I was his pastor," and that she says McCoy has terrible luck, adding she does not mean he shot anybody.
@@ -1555,7 +1555,7 @@ Investigative Direction: Locate any public statement by Rob McCoy identifying hi
 
 ---
 
-**C-3748** Host says people around Charlie Kirk are lying about where he was on his faith journey
+**C-2162** Host says people around Charlie Kirk are lying about where he was on his faith journey
 
 Claim Timestamp: 00:54:03
 
@@ -1570,7 +1570,7 @@ Investigative Direction: Compare TPUSA and family statements on Charlie Kirk's f
 
 ---
 
-**C-12262** Host Says Irrefutable Proof of Foreign Actors Is Coming in This Episode
+**C-2065** Host Says Irrefutable Proof of Foreign Actors Is Coming in This Episode
 
 Claim Timestamp: 00:00:00
 
@@ -1586,7 +1586,7 @@ Investigative Direction: Compare the proof the host presents later in the episod
 
 ---
 
-**C-12263** Host Says Kirk Was Taken Out by Something Bigger Than TPUSA and Robinson Never Set Foot on Campus
+**C-2066** Host Says Kirk Was Taken Out by Something Bigger Than TPUSA and Robinson Never Set Foot on Campus
 
 Claim Timestamp: 00:00:49
 
@@ -1597,13 +1597,13 @@ Transcript Snippet: certainly much bigger than Tyler Robinson on the Loews rooft
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-40
 Related Nodes: N-10000
-Supports: C-9403
+Supports: C-2004
 Tags: relevance:core
 Investigative Direction: Review UVU campus access logs, camera footage and the charging documents on how and when Robinson reached the campus.
 
 ---
 
-**C-12264** Host Says Emails Claiming Kirk Is Alive Reflect TPUSA's Lack of Drive to Find the Killer
+**C-2067** Host Says Emails Claiming Kirk Is Alive Reflect TPUSA's Lack of Drive to Find the Killer
 
 Claim Timestamp: 00:01:44
 
@@ -1619,7 +1619,7 @@ Investigative Direction: Compare TPUSA's public statements and funded actions on
 
 ---
 
-**C-12265** Host Recaps That the Egyptian Military Plane Departed the Morning of the Assassination
+**C-2068** Host Recaps That the Egyptian Military Plane Departed the Morning of the Assassination
 
 Claim Timestamp: 00:02:30
 
@@ -1630,13 +1630,13 @@ Transcript Snippet: obviously recognizing that it was not normal that this milit
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10207, N-10253
-Supports: C-1532
+Supports: C-2015
 Tags: relevance:core
 Investigative Direction: Obtain the ADS-B departure record for SUBTT from Provo on September 10, 2025 and its local departure time.
 
 ---
 
-**C-12266** Host Admits She First Mistook the Plane's Departure for the Afternoon and Says the Debunk Was Wrong
+**C-2070** Host Admits She First Mistook the Plane's Departure for the Afternoon and Says the Debunk Was Wrong
 
 Claim Timestamp: 00:03:22
 
@@ -1647,13 +1647,13 @@ Transcript Snippet: Now, I made the mistake of thinking it had departed in the a
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10207, N-10253
-Supports: C-9411
+Supports: C-2016
 Tags: relevance:core
 Investigative Direction: Compare the host's original tweet, the correcting post and the Flightradar time-zone display for SUBTT on September 10, 2025.
 
 ---
 
-**C-12267** Host's Foreign Source Says About 18 Arrived on the Plane and Far Fewer Left
+**C-2071** Host's Foreign Source Says About 18 Arrived on the Plane and Far Fewer Left
 
 Claim Timestamp: 00:03:22
 
@@ -1664,13 +1664,13 @@ Transcript Snippet: They were estimating like approximately 18 people were on th
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10207, N-10253
-Supports: C-9413, C-1551
+Supports: C-2019, C-2139
 Tags: relevance:core
 Investigative Direction: Obtain passenger and crew declarations for the SUBTT arrival and departure at Provo, and identify the overseas source through the host.
 
 ---
 
-**C-12268** Host Says a Live Commenter and Her Check Show SUBTT Was in Utah a Year Earlier With Kirk
+**C-2072** Host Says a Live Commenter and Her Check Show SUBTT Was in Utah a Year Earlier With Kirk
 
 Claim Timestamp: 00:04:07
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Pull the Flightradar archive for SUBTT in April 2024 an
 
 ---
 
-**C-12269** Host Says SUBTT Was Near a TPUSA Event in the Same City Nearly Every Time It Came to America
+**C-2073** Host Says SUBTT Was Near a TPUSA Event in the Same City Nearly Every Time It Came to America
 
 Claim Timestamp: 00:04:51
 
@@ -1697,13 +1697,13 @@ Transcript Snippet: There was something happening at Turning Point USA that was 
 Anchored Artifacts: A-3198.1
 Mentions: N-3
 Related Nodes: N-10207, N-10208, N-10000
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Build a dated list of all U.S. arrivals of SUBTT and SUBND and test each against TPUSA's event calendar to measure the actual overlap rate versus chance.
 
 ---
 
-**C-12270** Host Gives SUBND as a Gulfstream 4 and SUBTT as a Falcon 7X, Each Holding 12 to 16
+**C-2075** Host Gives SUBND as a Gulfstream 4 and SUBTT as a Falcon 7X, Each Holding 12 to 16
 
 Claim Timestamp: 00:06:29
 
@@ -1719,7 +1719,7 @@ Investigative Direction: Check the Egyptian civil and military registry and manu
 
 ---
 
-**C-12271** Host Says Flightradar Only Goes Back to 2022 and Shows Four SUBTT Visits That Year
+**C-2076** Host Says Flightradar Only Goes Back to 2022 and Shows Four SUBTT Visits That Year
 
 Claim Timestamp: 00:07:17
 
@@ -1735,7 +1735,7 @@ Investigative Direction: Obtain FAA and customs overflight and landing records f
 
 ---
 
-**C-12272** Host Says Kirk's 2023 X Feed Accused Ukraine and Zelensky of Corruption and Money Laundering
+**C-2077** Host Says Kirk's 2023 X Feed Accused Ukraine and Zelensky of Corruption and Money Laundering
 
 Claim Timestamp: 00:07:17
 
@@ -1751,7 +1751,7 @@ Investigative Direction: Retrieve Kirk's 2023 X posts about Ukraine and Zelensky
 
 ---
 
-**C-12273** Host Says Rob McCoy Hosted the First TPUSA Faith Pastors Tour of Israel in January
+**C-2078** Host Says Rob McCoy Hosted the First TPUSA Faith Pastors Tour of Israel in January
 
 Claim Timestamp: 00:08:42
 
@@ -1767,7 +1767,7 @@ Investigative Direction: Find TPUSA Faith announcements, itinerary and attendee 
 
 ---
 
-**C-12274** Host Says the Same People Who Took Over Project Veritas Were Involved With TPUSA
+**C-2079** Host Says the Same People Who Took Over Project Veritas Were Involved With TPUSA
 
 Claim Timestamp: 00:08:42
 
@@ -1783,7 +1783,7 @@ Investigative Direction: Compare Project Veritas board and donor changes in earl
 
 ---
 
-**C-12275** Host Says She, Kirk and O'Keefe Met at the Same David Horowitz Freedom Center Event
+**C-2080** Host Says She, Kirk and O'Keefe Met at the Same David Horowitz Freedom Center Event
 
 Claim Timestamp: 00:08:42
 
@@ -1799,7 +1799,7 @@ Investigative Direction: Locate the Horowitz Freedom Center event and its date t
 
 ---
 
-**C-12276** Host Says O'Keefe Was Ousted and Kirk Publicly Backed What Looked Like a Hostile Takeover
+**C-2082** Host Says O'Keefe Was Ousted and Kirk Publicly Backed What Looked Like a Hostile Takeover
 
 Claim Timestamp: 00:09:38
 
@@ -1815,7 +1815,7 @@ Investigative Direction: Find Kirk's public statement on the Project Veritas lea
 
 ---
 
-**C-12277** Host Says Sean Feucht Was Announced as the TPUSA Faith Contributor on February 27
+**C-2083** Host Says Sean Feucht Was Announced as the TPUSA Faith Contributor on February 27
 
 Claim Timestamp: 00:09:38
 
@@ -1831,7 +1831,7 @@ Investigative Direction: Retrieve the TPUSA Faith announcement of Feucht's role 
 
 ---
 
-**C-12278** Host Says Viewers Emailed That Feucht Was the Man Cheering After the Shooting and He Denied It
+**C-2084** Host Says Viewers Emailed That Feucht Was the Man Cheering After the Shooting and He Denied It
 
 Claim Timestamp: 00:10:36
 
@@ -1847,7 +1847,7 @@ Investigative Direction: Find Feucht's denial video and compare the cheering man
 
 ---
 
-**C-12279** Host Reads Feucht's Biography as Born in Montana and Son of a Dermatologist
+**C-2085** Host Reads Feucht's Biography as Born in Montana and Son of a Dermatologist
 
 Claim Timestamp: 00:10:36
 
@@ -1863,7 +1863,7 @@ Investigative Direction: Check Feucht's Wikipedia entry and published biographie
 
 ---
 
-**C-12280** Host Reads That Feucht Took Part in NAR Apostle Che Ahn's Prayer Rallies
+**C-2087** Host Reads That Feucht Took Part in NAR Apostle Che Ahn's Prayer Rallies
 
 Claim Timestamp: 00:11:43
 
@@ -1874,13 +1874,13 @@ Transcript Snippet: He was a part of the NAR Apostle Che Ahn's prayer rallies, i
 Anchored Artifacts: A-3199.1
 Mentions: N-205, N-907
 Related Nodes: N-10210, N-10242
-Supports: C-1566
+Supports: C-2086
 Tags: relevance:context
 Investigative Direction: Check Feucht's biography and Harvest Rock Church or Che Ahn materials for his participation in the rallies.
 
 ---
 
-**C-12281** Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capitol Tour
+**C-2088** Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capitol Tour
 
 Claim Timestamp: 00:13:18
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Retrieve the tour announcement and event calendar; the 
 
 ---
 
-**C-12282** Host Says the Plane Reached St. Louis and Feucht and TPUSA Faith Held the First Tour Event at the Capitol
+**C-2089** Host Says the Plane Reached St. Louis and Feucht and TPUSA Faith Held the First Tour Event at the Capitol
 
 Claim Timestamp: 00:13:18
 
@@ -1912,7 +1912,7 @@ Investigative Direction: Confirm the date, city and venue of the first Kingdom t
 
 ---
 
-**C-12283** Host Says the First TPUSA Faith Pastor Summit Was in Nashville Headed by McCoy
+**C-2090** Host Says the First TPUSA Faith Pastor Summit Was in Nashville Headed by McCoy
 
 Claim Timestamp: 00:14:15
 
@@ -1928,7 +1928,7 @@ Investigative Direction: Find summit announcements and program for the Nashville
 
 ---
 
-**C-12284** Host Says a Trans Shooting Happened While the Pastors Were in Nashville and Feds Covered It Up
+**C-2091** Host Says a Trans Shooting Happened While the Pastors Were in Nashville and Feds Covered It Up
 
 Claim Timestamp: 00:14:15
 
@@ -1944,7 +1944,7 @@ Investigative Direction: Compare the summit dates with the Covenant School shoot
 
 ---
 
-**C-12285** Host Relays a Tip That Rob McCoy Was the Nearby Pastor of the 2018 Thousand Oaks Shooting
+**C-2093** Host Relays a Tip That Rob McCoy Was the Nearby Pastor of the 2018 Thousand Oaks Shooting
 
 Claim Timestamp: 00:14:58
 
@@ -1960,7 +1960,7 @@ Investigative Direction: Ask the tipster for corroboration and check local repor
 
 ---
 
-**C-12286** Host's Tipster Says McCoy Was Very Close With the Shooter's Mother
+**C-2094** Host's Tipster Says McCoy Was Very Close With the Shooter's Mother
 
 Claim Timestamp: 00:14:58
 
@@ -1976,7 +1976,7 @@ Investigative Direction: Seek independent confirmation (church records, local re
 
 ---
 
-**C-12287** Host Muses That Seemingly Random Shootings Involving Army Veterans May Involve the Military
+**C-2095** Host Muses That Seemingly Random Shootings Involving Army Veterans May Involve the Military
 
 Claim Timestamp: 00:15:52
 
@@ -1992,7 +1992,7 @@ Investigative Direction: Test the pattern against a defined list of mass shootin
 
 ---
 
-**C-12288** Host's Tipster Says the Victims' Family Got Upset With McCoy
+**C-2097** Host's Tipster Says the Victims' Family Got Upset With McCoy
 
 Claim Timestamp: 00:17:04
 
@@ -2008,7 +2008,7 @@ Investigative Direction: Verify with the victims' families or contemporaneous Th
 
 ---
 
-**C-12289** Host Dates the Covenant Elementary School Shooting in Nashville to March 27
+**C-2098** Host Dates the Covenant Elementary School Shooting in Nashville to March 27
 
 Claim Timestamp: 00:17:04
 
@@ -2024,7 +2024,7 @@ Investigative Direction: Confirm date against Metro Nashville Police records for
 
 ---
 
-**C-12290** Host Says TPUSA Faith Co-Chaired by McCoy Kicked Off Its Tour With a Feucht Event in Jefferson City on April 2
+**C-2099** Host Says TPUSA Faith Co-Chaired by McCoy Kicked Off Its Tour With a Feucht Event in Jefferson City on April 2
 
 Claim Timestamp: 00:17:04
 
@@ -2040,7 +2040,7 @@ Investigative Direction: Confirm the Jefferson City event date and venue and com
 
 ---
 
-**C-12291** Host Says SUBTT Left on April 6 Through Delaware Back to Cairo
+**C-2100** Host Says SUBTT Left on April 6 Through Delaware Back to Cairo
 
 Claim Timestamp: 00:17:56
 
@@ -2051,13 +2051,13 @@ Transcript Snippet: April 6th, it leaves and it always goes through Delaware whe
 Anchored Artifacts: A-1301.2
 Mentions: 
 Related Nodes: N-10266, N-10207
-Supports: C-1533
+Supports: C-2024
 Tags: relevance:core
 Investigative Direction: Check Flightradar and FAA records for SUBTT departures routed via Wilmington, Delaware.
 
 ---
 
-**C-12292** Host Says Feucht Led a TPUSA Faith Kingdom to the Capitol Event in Topeka on April 23 Near the Plane's Kansas Stay
+**C-2101** Host Says Feucht Led a TPUSA Faith Kingdom to the Capitol Event in Topeka on April 23 Near the Plane's Kansas Stay
 
 Claim Timestamp: 00:17:56
 
@@ -2073,7 +2073,7 @@ Investigative Direction: Confirm the Topeka event date and compare with SUBTT's 
 
 ---
 
-**C-12293** Host Says Every Time the Plane Was Here She Can Pin a TPUSA Faith Event
+**C-2102** Host Says Every Time the Plane Was Here She Can Pin a TPUSA Faith Event
 
 Claim Timestamp: 00:19:39
 
@@ -2084,13 +2084,13 @@ Transcript Snippet: Literally, every time this plane is here, I can pin a TPUSA 
 Anchored Artifacts: A-3198.1
 Mentions: N-3
 Related Nodes: N-11330, N-10207, N-10208
-Supports: C-1545
+Supports: C-2074
 Tags: relevance:core
 Investigative Direction: Compare the plane visit dates with a complete TPUSA Faith event calendar to see whether the overlaps exceed chance.
 
 ---
 
-**C-12294** Host Says Her Last Speech for TPUSA Was in June 2024
+**C-2103** Host Says Her Last Speech for TPUSA Was in June 2024
 
 Claim Timestamp: 00:19:39
 
@@ -2106,7 +2106,7 @@ Investigative Direction: Check TPUSA event programs for the host's June 2024 app
 
 ---
 
-**C-12295** Host Says Kirk's Campus Tour Was Announced February 8, 2024 and She Was Doing It With Him
+**C-2104** Host Says Kirk's Campus Tour Was Announced February 8, 2024 and She Was Doing It With Him
 
 Claim Timestamp: 00:19:39
 
@@ -2122,7 +2122,7 @@ Investigative Direction: Retrieve the tour announcement and compare with the pla
 
 ---
 
-**C-12296** Host Says SUBTT Stayed in Lincoln, Nebraska for a Mysterious Five Days
+**C-2106** Host Says SUBTT Stayed in Lincoln, Nebraska for a Mysterious Five Days
 
 Claim Timestamp: 00:20:27
 
@@ -2138,7 +2138,7 @@ Investigative Direction: Obtain Lincoln Airport FBO and ramp records for SUBTT f
 
 ---
 
-**C-12297** Host Says SUBTT Stayed in Wilmington for Two Days Before Returning to Cairo on the 16th
+**C-2108** Host Says SUBTT Stayed in Wilmington for Two Days Before Returning to Cairo on the 16th
 
 Claim Timestamp: 00:22:39
 
@@ -2149,13 +2149,13 @@ Transcript Snippet: stays in Wilmington for 2 days and then heads back to Cairo 
 Anchored Artifacts: A-1301.4
 Mentions: 
 Related Nodes: N-10266, N-10207
-Supports: C-1533
+Supports: C-2024
 Tags: relevance:core
 Investigative Direction: Check Flightradar and Wilmington airport records for SUBTT between February 14 and 16, 2024.
 
 ---
 
-**C-12298** Host Says Kirk Spoke at the University of Kansas on April 3 the Week the Plane Was in Wichita
+**C-2109** Host Says Kirk Spoke at the University of Kansas on April 3 the Week the Plane Was in Wichita
 
 Claim Timestamp: 00:22:39
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Confirm Kirk's University of Kansas event date and SUBT
 
 ---
 
-**C-12299** Host Says Kirk Was in Omaha on April 9 Speaking at the Lord of Hosts Church
+**C-2110** Host Says Kirk Was in Omaha on April 9 Speaking at the Lord of Hosts Church
 
 Claim Timestamp: 00:23:41
 
@@ -2187,7 +2187,7 @@ Investigative Direction: Find Lord of Hosts Church event listings for April 9, 2
 
 ---
 
-**C-12300** Host Says Both Egyptian Planes Were in Provo Together in April 2024
+**C-2111** Host Says Both Egyptian Planes Were in Provo Together in April 2024
 
 Claim Timestamp: 00:23:41
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Verify both tails at Provo in April 2024 from Flightrad
 
 ---
 
-**C-12301** Host Says Kirk Held a Prove Me Wrong Event at the University of Utah While the Planes Were There
+**C-2112** Host Says Kirk Held a Prove Me Wrong Event at the University of Utah While the Planes Were There
 
 Claim Timestamp: 00:24:52
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Confirm the University of Utah event date and compare w
 
 ---
 
-**C-12302** Host Says Gabbard and Kent Are Reportedly Blocked by Patel and Could Pull the Manifests
+**C-2113** Host Says Gabbard and Kent Are Reportedly Blocked by Patel and Could Pull the Manifests
 
 Claim Timestamp: 00:24:52
 
@@ -2235,7 +2235,7 @@ Investigative Direction: Ask ODNI and the FBI whether manifest requests for SU-B
 
 ---
 
-**C-12303** Host Says Even Former TPUSA Workers Say Something Is Not Right With Feucht
+**C-2116** Host Says Even Former TPUSA Workers Say Something Is Not Right With Feucht
 
 Claim Timestamp: 00:26:47
 
@@ -2246,13 +2246,13 @@ Transcript Snippet: by the way, even people who formally worked at Turning Point
 Anchored Artifacts: A-1305.1
 Mentions: N-205
 Related Nodes: N-10000
-Supports: C-1549
+Supports: C-2115
 Tags: relevance:context
 Investigative Direction: Identify the former TPUSA staff and obtain their statements on Feucht.
 
 ---
 
-**C-12304** Host Says Cash Property Purchases Above Value in the Mormon Church Struck Her as Money Laundering
+**C-2117** Host Says Cash Property Purchases Above Value in the Mormon Church Struck Her as Money Laundering
 
 Claim Timestamp: 00:27:49
 
@@ -2268,7 +2268,7 @@ Investigative Direction: Examine Utah property records and Church real estate fi
 
 ---
 
-**C-12305** Host Says Dave Smith Spoke on Stage and the Crowd Cheered Criticism of Israel
+**C-2119** Host Says Dave Smith Spoke on Stage and the Crowd Cheered Criticism of Israel
 
 Claim Timestamp: 00:31:21
 
@@ -2284,7 +2284,7 @@ Investigative Direction: Obtain the video of the July 11, 2025 TPUSA session wit
 
 ---
 
-**C-12306** Host Says Kirk Told Tucker Backstage to Go Hard at Israel
+**C-2120** Host Says Kirk Told Tucker Backstage to Go Hard at Israel
 
 Claim Timestamp: 00:31:21
 
@@ -2300,7 +2300,7 @@ Investigative Direction: Seek confirmation from Carlson or backstage staff and a
 
 ---
 
-**C-12307** Host Says Tyler Bowyer Hired Every Person Around Charlie
+**C-2123** Host Says Tyler Bowyer Hired Every Person Around Charlie
 
 Claim Timestamp: 00:32:39
 
@@ -2316,7 +2316,7 @@ Investigative Direction: Compare TPUSA staff hiring and org records with the hos
 
 ---
 
-**C-12308** Host Says TPUSA Is a Mormon Organization, Not a Christian One
+**C-2124** Host Says TPUSA Is a Mormon Organization, Not a Christian One
 
 Claim Timestamp: 00:32:39
 
@@ -2332,7 +2332,7 @@ Investigative Direction: Compare TPUSA leadership and donor religious affiliatio
 
 ---
 
-**C-12309** Host Says She Asked Bowyer Backstage in 2024 Why Kirk Did Not Just Debate Nick Fuentes
+**C-2125** Host Says She Asked Bowyer Backstage in 2024 Why Kirk Did Not Just Debate Nick Fuentes
 
 Claim Timestamp: 00:32:39
 
@@ -2348,7 +2348,7 @@ Investigative Direction: Identify others present at the 2024 backstage exchange 
 
 ---
 
-**C-12310** Host Says Bowyer Told Her TPUSA Will Always Be Pro-Israel
+**C-2126** Host Says Bowyer Told Her TPUSA Will Always Be Pro-Israel
 
 Claim Timestamp: 00:33:42
 
@@ -2364,7 +2364,7 @@ Investigative Direction: Ask Bowyer or witnesses about the exchange and look for
 
 ---
 
-**C-12311** Host Says Josh Hammer and Seth Dillon Were Angry After Carlson's Speech
+**C-2127** Host Says Josh Hammer and Seth Dillon Were Angry After Carlson's Speech
 
 Claim Timestamp: 00:34:42
 
@@ -2380,7 +2380,7 @@ Investigative Direction: Collect Hammer's and Dillon's public posts and statemen
 
 ---
 
-**C-12312** Host Says Bob Shillman Was Angry and the Vibe Was That It Could Never Happen Again
+**C-2128** Host Says Bob Shillman Was Angry and the Vibe Was That It Could Never Happen Again
 
 Claim Timestamp: 00:34:42
 
@@ -2391,13 +2391,13 @@ Transcript Snippet: Bob Shillman is angry. And they're basically saying, Charlie
 Anchored Artifacts: A-1312.1
 Mentions: N-98, N-1
 Related Nodes: N-10033
-Supports: C-1560
+Supports: C-2122
 Tags: relevance:core
 Investigative Direction: Identify the donors and obtain any messages to Kirk from July 11 to 13, 2025.
 
 ---
 
-**C-12313** Host Says the Plane Returned Nine Days After the Speech and Stayed in Lincoln Six Days
+**C-2129** Host Says the Plane Returned Nine Days After the Speech and Stayed in Lincoln Six Days
 
 Claim Timestamp: 00:34:42
 
@@ -2413,7 +2413,7 @@ Investigative Direction: Obtain Omaha and Lincoln airport records for SUBTT for 
 
 ---
 
-**C-12314** Host Says Kirk Described the Hamptons Meeting as an Intervention Over His Views on Israel
+**C-2130** Host Says Kirk Described the Hamptons Meeting as an Intervention Over His Views on Israel
 
 Claim Timestamp: 00:35:32
 
@@ -2424,13 +2424,13 @@ Transcript Snippet: Charlie himself described it as an intervention that was sta
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10673
-Supports: C-1128
+Supports: C-79
 Tags: relevance:core
 Investigative Direction: Obtain the messages in which Kirk used the word intervention and identify the recipients.
 
 ---
 
-**C-12315** Host Says Attendees Said Seth Dillon Was Rowdy and Pushing Kirk on Israel and Accuses Him of Lying
+**C-2131** Host Says Attendees Said Seth Dillon Was Rowdy and Pushing Kirk on Israel and Accuses Him of Lying
 
 Claim Timestamp: 00:35:32
 
@@ -2441,13 +2441,13 @@ Transcript Snippet: People that were there said Seth Dillon was rowdy and pushin
 Anchored Artifacts: 
 Mentions: N-38, N-1
 Related Nodes: N-10345, N-10673
-Supports: C-9425
+Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Interview attendees and compare with Dillon's published account of the Hamptons meeting.
 
 ---
 
-**C-12316** Host Says Netanyahu Left Out That Kirk Declined His Invitation
+**C-2133** Host Says Netanyahu Left Out That Kirk Declined His Invitation
 
 Claim Timestamp: 00:36:19
 
@@ -2458,13 +2458,13 @@ Transcript Snippet: and he invited him to Israel and the part that he left out w
 Anchored Artifacts: 
 Mentions: N-36, N-1
 Related Nodes: N-10018, N-10342
-Supports: C-1130
+Supports: C-84
 Tags: relevance:core
 Investigative Direction: Obtain Netanyahu's public statement on the call and any record from Kirk's side of his answer.
 
 ---
 
-**C-12317** Host Says a Money Laundering Operation Could Have Been Happening Under Kirk's Nose
+**C-2135** Host Says a Money Laundering Operation Could Have Been Happening Under Kirk's Nose
 
 Claim Timestamp: 00:37:15
 
@@ -2475,13 +2475,13 @@ Transcript Snippet: That sounds to me like a very sophisticated money laundering
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-11171, N-10212
-Supports: C-1563
+Supports: C-2136
 Tags: relevance:context
 Investigative Direction: Review TPUSA, TPUSA Action and affiliate filings, donor flows and any audit work done under the internal DOGE effort.
 
 ---
 
-**C-12318** Host Says TPUSA Insiders Told Her the Money Looked Funny, Coming In and Going Out Fast
+**C-2137** Host Says TPUSA Insiders Told Her the Money Looked Funny, Coming In and Going Out Fast
 
 Claim Timestamp: 00:38:00
 
@@ -2492,13 +2492,13 @@ Transcript Snippet: And then my Turning Point insiders tell me the money was ind
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10212, N-11171
-Supports: C-1563
+Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA financial statements and banking flow data; test the insiders' description.
 
 ---
 
-**C-12319** Host Says After the Hamptons Retreat the Plane Again Went Straight to Lincoln, Nebraska
+**C-2138** Host Says After the Hamptons Retreat the Plane Again Went Straight to Lincoln, Nebraska
 
 Claim Timestamp: 00:38:48
 
@@ -2514,7 +2514,7 @@ Investigative Direction: Obtain Omaha and Lincoln airport records for SUBTT from
 
 ---
 
-**C-12320** Host Says SUBTT Came Through Minot, North Dakota Before Provo on September 4
+**C-2140** Host Says SUBTT Came Through Minot, North Dakota Before Provo on September 4
 
 Claim Timestamp: 00:39:39
 
@@ -2525,13 +2525,13 @@ Transcript Snippet: It comes in on September 4th, it heads to Minot, North Dakot
 Anchored Artifacts: A-1301.9
 Mentions: 
 Related Nodes: N-10207, N-10074
-Supports: C-9416
+Supports: C-2025
 Tags: relevance:core
 Investigative Direction: Verify the Minot stop and Provo landing time from Flightradar and customs records.
 
 ---
 
-**C-12321** Host Says the Plane Was Not Full When It Departed the Morning of the Assassination
+**C-2141** Host Says the Plane Was Not Full When It Departed the Morning of the Assassination
 
 Claim Timestamp: 00:39:39
 
@@ -2542,13 +2542,13 @@ Transcript Snippet: And it was not a full plane when it departs the morning that
 Anchored Artifacts: A-1301.9
 Mentions: N-1
 Related Nodes: N-10207
-Supports: C-1551
+Supports: C-2139
 Tags: relevance:core
 Investigative Direction: Obtain crew and passenger declarations for the SUBTT departure on September 10, 2025.
 
 ---
 
-**C-12322** Host Says Two Planes From Scottsdale Scrambled Right After Kirk Was Shot
+**C-2143** Host Says Two Planes From Scottsdale Scrambled Right After Kirk Was Shot
 
 Claim Timestamp: 00:41:35
 
@@ -2564,7 +2564,7 @@ Investigative Direction: Pull FAA and Flightradar histories for the Scottsdale a
 
 ---
 
-**C-12323** Host Says Kirk Was Shot at 12:23
+**C-2146** Host Says Kirk Was Shot at 12:23
 
 Claim Timestamp: 00:43:20
 
@@ -2580,7 +2580,7 @@ Investigative Direction: Compare against the official time of the shooting from 
 
 ---
 
-**C-12324** Host Floats That the Scottsdale Plane May Have Picked Up Erika Kirk
+**C-2147** Host Floats That the Scottsdale Plane May Have Picked Up Erika Kirk
 
 Claim Timestamp: 00:43:20
 
@@ -2596,7 +2596,7 @@ Investigative Direction: Obtain the N102DZ operator, passenger list and Erika Ki
 
 ---
 
-**C-12325** Host Says Mikey McCoy and His Wife Were Reportedly at the Event
+**C-2148** Host Says Mikey McCoy and His Wife Were Reportedly at the Event
 
 Claim Timestamp: 00:43:20
 
@@ -2612,7 +2612,7 @@ Investigative Direction: Compare with Mikey McCoy's own accounts of where he and
 
 ---
 
-**C-12326** Host Says TPUSA Staff Felt Mikey McCoy Was Being Positioned to Take Over From Kirk
+**C-2149** Host Says TPUSA Staff Felt Mikey McCoy Was Being Positioned to Take Over From Kirk
 
 Claim Timestamp: 00:47:01
 
@@ -2628,7 +2628,7 @@ Investigative Direction: Find TPUSA staff willing to describe succession plannin
 
 ---
 
-**C-12327** Host Says Kirk Was Veering From a Predetermined Course for TPUSA
+**C-2150** Host Says Kirk Was Veering From a Predetermined Course for TPUSA
 
 Claim Timestamp: 00:47:01
 
@@ -2644,7 +2644,7 @@ Investigative Direction: Compare Kirk's late-2025 stated positions and plans wit
 
 ---
 
-**C-12328** Host Says a Tipster Raised Embezzlement With Bowyer and Described His Maricopa County Politics
+**C-2151** Host Says a Tipster Raised Embezzlement With Bowyer and Described His Maricopa County Politics
 
 Claim Timestamp: 00:47:01
 
@@ -2660,7 +2660,7 @@ Investigative Direction: Ask the tipster for documentation and check Arizona rec
 
 ---
 
-**C-12329** Host Says the Tipster Alleged Bowyer Was Hooking Up With Young Male Interns and Staff
+**C-2152** Host Says the Tipster Alleged Bowyer Was Hooking Up With Young Male Interns and Staff
 
 Claim Timestamp: 00:47:01
 
@@ -2676,7 +2676,7 @@ Investigative Direction: Request the proof the tipster says he has and any HR co
 
 ---
 
-**C-12330** Host Says the UVU President Majored in Soviet Studies
+**C-2153** Host Says the UVU President Majored in Soviet Studies
 
 Claim Timestamp: 00:48:15
 
@@ -2687,13 +2687,13 @@ Transcript Snippet: Uh even the president of UVU majored majored in Soviet studi
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10012, N-10115
-Supports: C-10790
+Supports: C-1179
 Tags: relevance:context
 Investigative Direction: Check the UVU president's published biography and degree history.
 
 ---
 
-**C-12331** Host Says Tyler Bowyer Majored in Soviet Studies and Is a Fluent Russian Speaker
+**C-2154** Host Says Tyler Bowyer Majored in Soviet Studies and Is a Fluent Russian Speaker
 
 Claim Timestamp: 00:48:15
 
@@ -2709,7 +2709,7 @@ Investigative Direction: Check Bowyer's education and language background throug
 
 ---
 
-**C-12332** Host Says Bowyer Was Involved With Ukrainian Orphanages and Posted About Helping Russian-Speaking Orphans Years Ago
+**C-2155** Host Says Bowyer Was Involved With Ukrainian Orphanages and Posted About Helping Russian-Speaking Orphans Years Ago
 
 Claim Timestamp: 00:48:15
 
@@ -2725,7 +2725,7 @@ Investigative Direction: Find Bowyer's old posts and the organizations involved,
 
 ---
 
-**C-12333** Host Says Kirk Had Patel on His Show and Fought for Him as FBI Director
+**C-2156** Host Says Kirk Had Patel on His Show and Fought for Him as FBI Director
 
 Claim Timestamp: 00:50:17
 
@@ -2741,7 +2741,7 @@ Investigative Direction: Find Kirk Show episodes with Patel and Kirk's public ad
 
 ---
 
-**C-12334** Host Says 33 Numerology Signals Show a High-Level Assassination
+**C-2157** Host Says 33 Numerology Signals Show a High-Level Assassination
 
 Claim Timestamp: 00:50:17
 
@@ -2757,7 +2757,7 @@ Investigative Direction: Check the factual basis of the 33 pairings (file number
 
 ---
 
-**C-12335** Host Says Israel Is Probably Involved in the Border and Definitely Involved in All the Wars
+**C-2158** Host Says Israel Is Probably Involved in the Border and Definitely Involved in All the Wars
 
 Claim Timestamp: 00:51:43
 
@@ -2773,7 +2773,7 @@ Investigative Direction: No specific records are cited; it would require documen
 
 ---
 
-**C-12336** Host Cites Dan Gertler as an Example of Israel's Role in Congo and the Diamond Trade
+**C-2159** Host Cites Dan Gertler as an Example of Israel's Role in Congo and the Diamond Trade
 
 Claim Timestamp: 00:52:25
 
@@ -2789,7 +2789,7 @@ Investigative Direction: Check public sanctions and Congo mining records on Gert
 
 ---
 
-**C-12337** Host Says Evangelical Influencers and Megachurch Leaders Are Mum and Want It Known as Just a Trans Shooter
+**C-2160** Host Says Evangelical Influencers and Megachurch Leaders Are Mum and Want It Known as Just a Trans Shooter
 
 Claim Timestamp: 00:52:25
 
@@ -2805,7 +2805,7 @@ Investigative Direction: Survey statements by the major evangelical influencers 
 
 ---
 
-**C-12338** Host Says Israel Acted Weird in the Hours After the Assassination
+**C-2161** Host Says Israel Acted Weird in the Hours After the Assassination
 
 Claim Timestamp: 00:53:14
 
@@ -2821,7 +2821,7 @@ Investigative Direction: Compile the timeline of TPUSA public statements and pos
 
 ---
 
-**C-12339** Host Says the Attacks on Tucker Carlson Are Because He Attacks Christian Zionism
+**C-2163** Host Says the Attacks on Tucker Carlson Are Because He Attacks Christian Zionism
 
 Claim Timestamp: 00:54:03
 
@@ -2837,7 +2837,7 @@ Investigative Direction: Review the attacks on Carlson and the stated reasons.
 
 ---
 
-**C-12340** Host Says They Are Angry at Kirk Because He Might Get Off the Christian Zionist Reservation
+**C-2164** Host Says They Are Angry at Kirk Because He Might Get Off the Christian Zionist Reservation
 
 Claim Timestamp: 00:54:03
 
@@ -2848,13 +2848,13 @@ Transcript Snippet: They're angry at at at Charlie because it's looking like he 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10209, N-10056
-Supports: C-9428
+Supports: C-2042
 Tags: relevance:core
 Investigative Direction: Compare with the messages in which the host says Kirk wanted to leave the pro-Israel cause.
 
 ---
 
-**C-12341** Host Says She Has Messages With Charlie She Has Not Revealed
+**C-2165** Host Says She Has Messages With Charlie She Has Not Revealed
 
 Claim Timestamp: 00:54:48
 
@@ -2870,7 +2870,7 @@ Investigative Direction: Ask the host to publish the unreleased messages with me
 
 ---
 
-**C-12342** Host Says Kirk Knew He Would Die Young and That She Would Be the One to Fight for Him
+**C-2166** Host Says Kirk Knew He Would Die Young and That She Would Be the One to Fight for Him
 
 Claim Timestamp: 00:55:42
 
@@ -2881,13 +2881,13 @@ Transcript Snippet: He knew he was going to die. He knew he said from the time h
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: 
-Supports: C-6546
+Supports: C-1992
 Tags: relevance:core
 Investigative Direction: Compare with dated messages or witnesses who heard Kirk say his life would be short.
 
 ---
 
-**C-12343** Host Says PragerU Was Pushing Her to Interview Pastor Jack Hibbs
+**C-2169** Host Says PragerU Was Pushing Her to Interview Pastor Jack Hibbs
 
 Claim Timestamp: 00:59:59
 
@@ -2903,7 +2903,7 @@ Investigative Direction: Find PragerU's outreach to the host and any interview o
 
 ---
 
-**C-12344** Host Says Hibbs Was Also Part of TPUSA Faith Events
+**C-2170** Host Says Hibbs Was Also Part of TPUSA Faith Events
 
 Claim Timestamp: 00:59:59
 
@@ -2919,7 +2919,7 @@ Investigative Direction: Check TPUSA Faith event rosters for Hibbs appearances.
 
 ---
 
-**C-12345** Host Says She Now Believes She Had Handlers Directing Her Toward Hibbs, Rose and Ballard
+**C-2171** Host Says She Now Believes She Had Handlers Directing Her Toward Hibbs, Rose and Ballard
 
 Claim Timestamp: 00:59:59
 
@@ -2935,7 +2935,7 @@ Investigative Direction: Ask the host to identify the handlers and show the comm
 
 ---
 
-**C-12346** Host Says TPUSA Keeps Working With Feucht Despite the Allegations
+**C-2172** Host Says TPUSA Keeps Working With Feucht Despite the Allegations
 
 Claim Timestamp: 01:00:49
 
@@ -2946,13 +2946,13 @@ Transcript Snippet: It doesn't matter. We're just going to keep on continuing wo
 Anchored Artifacts: 
 Mentions: N-205, N-17, N-208
 Related Nodes: N-10398
-Supports: C-1549
+Supports: C-2115
 Tags: relevance:context
 Investigative Direction: Check TPUSA Faith event schedules after June 2025 for continued Feucht involvement.
 
 ---
 
-**C-12347** Host Says There Has Definitely Been an Infiltration With Christian Zionists at the Helm
+**C-2175** Host Says There Has Definitely Been an Infiltration With Christian Zionists at the Helm
 
 Claim Timestamp: 01:01:33
 
@@ -2968,7 +2968,7 @@ Investigative Direction: Evaluate against the documented donor, staff and event 
 
 ---
 
-**C-12348** Host Says the Finkelstein Interview Releases at 7 p.m. Eastern in About 30 Minutes
+**C-2176** Host Says the Finkelstein Interview Releases at 7 p.m. Eastern in About 30 Minutes
 
 Claim Timestamp: 01:02:13
 
@@ -2979,13 +2979,13 @@ Transcript Snippet: That interview is going to release at 7:00 p. m. Eastern, so
 Anchored Artifacts: 
 Mentions: N-199, N-3
 Related Nodes: 
-Supports: C-9446
+Supports: C-2064
 Tags: relevance:context
 Investigative Direction: Check the interview's upload time on October 31, 2025.
 
 ---
 
-**C-12349** Host Says Gaza Has Been an Effective Holocaust Since 1948 by the Legal Definition
+**C-2177** Host Says Gaza Has Been an Effective Holocaust Since 1948 by the Legal Definition
 
 Claim Timestamp: 01:02:13
 
@@ -3008,17 +3008,17 @@ Investigative Direction: Not testable from this episode; it is the host's charac
 - A-1311.1 (Netanyahu public statement): Referenced as public, but specific video clip / transcript not displayed in this episode.
 
 **Flag – Transcript ambiguity / date conflict:**
-- A-1303.1: Host displays a TPUSA UNL Instagram post and dates it February 11, 2024; director Mark corrects to May 2025 in the live segment. Both positions recorded in C-1548.
+- A-1303.1: Host displays a TPUSA UNL Instagram post and dates it February 11, 2024; director Mark corrects to May 2025 in the live segment. Both positions recorded in C-2107.
 
 **Flag – Possible transcription error / verbal correction in real time:**
-- Initial host claim that SUBND departed "3 hours after Charlie was assassinated" was corrected in real time by producer Marcus to "3 days after." The 3-day figure is inscribed in C-1552.
+- Initial host claim that SUBND departed "3 hours after Charlie was assassinated" was corrected in real time by producer Marcus to "3 days after." The 3-day figure is inscribed in C-2142.
 
 **Flag – Poster name not captured in transcript:**
 - A-1306.6: The live-chat comment reporting that Charlie flew into SLC for "Restaurantology Summit" was attributed by the host to "somebody made a comment" without naming the poster.
 
 **Flag – Requires human verification:**
-- C-1553 (tail-number Google search from Israel on September 8, 2025): Source of host's claim not displayed; independent reproduction from Google Trends archives advisable.
-- C-1554 / C-1555 / C-1561 (N102DZ chain): Reconciliation between N102DZ passenger identity and Charlie Kirk's actual SLC itinerary on September 10, 2025 still partially unresolved pending verification of the "Restaurantology Summit" interview.
+- C-2173 (tail-number Google search from Israel on September 8, 2025): Source of host's claim not displayed; independent reproduction from Google Trends archives advisable.
+- C-2144 / C-2145 / C-2167 (N102DZ chain): Reconciliation between N102DZ passenger identity and Charlie Kirk's actual SLC itinerary on September 10, 2025 still partially unresolved pending verification of the "Restaurantology Summit" interview.
 
 **Flag – Claim failed admission test (not inscribed as artifact-backed claim):**
 - Host's framing claims that "foreign actors" killed Charlie Kirk, that TPUSA has been subjected to a "hostile takeover," that Christian Zionists are "at the helm" of an "infiltration," and that Turning Point was "taken out by something much bigger than Turning Point USA" are framing premises not anchored to displayed artifacts within this episode. Recorded in investigative pressure on N-10209 but not inscribed as artifact-backed claims.
@@ -3038,7 +3038,7 @@ Investigative Direction: Not testable from this episode; it is the host's charac
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted
 - [x] Formatting consistent
-- [x] No IDs reused from prior episodes (starts at A-1301, C-1545, N-17, N-10207 per ledger continuation)
+- [x] No IDs reused from prior episodes (starts at A-1301, C-2074, N-17, N-10207 per ledger continuation)
 
 ---
 
@@ -3055,7 +3055,7 @@ Confidence: high
 
 ---
 
-**C-3647** Host identifies show community as Decentralized Intelligence Agency
+**C-2069** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:02:30
 Claim: The host says the answer to the centralized intelligence agency is the decentralized intelligence agency, and that people must decentralize themselves to plug out of what she calls an utterly demonic system.

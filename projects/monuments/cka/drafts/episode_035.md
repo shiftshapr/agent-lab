@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep035): N-10289, N-10316, N-10530, N-10672, N-10699, N-10862
   - Tip-minted Nodes (reintro-ep035): N-10911, N-11061
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-7978–C-8065
+  - Claim Range: C-3050–C-3151
   - New Nodes Introduced: N-265, N-10265, N-10269
   - Reused Nodes Appearing: N-2, N-266, N-267, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-186, N-190, N-217, N-277, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-268, N-10341, N-10266
   - (see registers)
@@ -125,7 +125,7 @@ Video Timestamp: 00:05:32–00:21:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read with stated redactions; source identity withheld)
 
-*Related: C-1745, C-1746, C-1747, C-1748, C-1749, N-10265, N-10266*
+*Related: C-3052, C-3056, C-3087, C-3067, C-3068, N-10265, N-10266*
 
 **A-1436** Flight Pattern Timeline Bundle
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:02:32–00:05:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1745, C-1746, N-10266*
+*Related: C-3052, C-3056, N-10266*
 
 **A-1436.2** Host-compiled timeline of "green planes" (planes that scrambled after the shooting) including Cessna Citation Scottsdale-Provo-Santa Barbara-Scottsdale; Beachcraft Scottsdale departure; 15–16-passenger flight (Charlie's plane) routing Salt Lake City–Provo–Scottsdale; Santa Barbara departure 2:19 PM local
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:19:00–00:20:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1747, N-10266*
+*Related: C-3087, N-10266*
 
 **A-1437** DOJ 1997 Directory Reference
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:10:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-asserted verification)
 
-*Related: C-1748, N-10265*
+*Related: C-3067, N-10265*
 
 **A-1438** SATYS Wilmington Hangar Bundle
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:12:23–00:13:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1749, C-1750, N-10269*
+*Related: C-3068, C-3073, N-10269*
 
 **A-1439** DRBA January 2024 Resolution
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:13:22–00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1750, N-10269*
+*Related: C-3073, N-10269*
 
 **A-1440** FBI December 5, 2024 Press Release
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:17:46–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1751, N-265, N-10265*
+*Related: C-3075, N-265, N-10265*
 
 **A-1441** Frank Turek Interview Bundle
 
@@ -217,7 +217,7 @@ Video Timestamp: 00:31:42–00:32:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1752, N-7, N-10267*
+*Related: C-3082, N-7, N-10267*
 
 **A-1442** Brian Harpole Interview Bundle
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:30:52–00:31:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1753, N-266, N-10267*
+*Related: C-3110, N-266, N-10267*
 
 **A-1442.2** Brian Harpole on Shawn Ryan repeating the "3,000 lbs of energy" / "C6 vertebra" bullet-trajectory description
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:33:46–00:36:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1754, N-266*
+*Related: C-3106, N-266*
 
 **A-1443** Joe Rogan / Theo Von Conversation Bundle
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:36:19–00:41:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1755, N-268, N-146*
+*Related: C-3115, N-268, N-146*
 
 **A-1444** Tim Pool Video Bundle
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:42:03–00:44:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1756, N-2, N-267*
+*Related: C-3132, N-2, N-267*
 
 **A-1444.2** Tim Pool clip stating he was told he couldn't come to AmFest and speculating it was due to his statements on stopping funding Israel and not giving money to Ukraine
 
@@ -273,7 +273,7 @@ Video Timestamp: 00:44:03–00:44:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1757, N-267, N-10268*
+*Related: C-3133, N-267, N-10268*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:30:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8025, N-3*
+*Related: C-3105, N-3*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:32:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8032, N-3*
+*Related: C-3114, N-3*
 
 ---
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:28:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8016, N-3*
+*Related: C-3096, N-3*
 
 ---
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:52:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8060, N-3*
+*Related: C-3146, N-3*
 
 ---
 
@@ -342,7 +342,7 @@ Video Timestamp: 00:48:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8054, N-3*
+*Related: C-3140, N-3*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:51:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8055, C-8056, N-3*
+*Related: C-3141, C-3142, N-3*
 
 ---
 
@@ -368,7 +368,7 @@ Video Timestamp: 00:52:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8061, C-8062, N-3*
+*Related: C-3147, C-3148, N-3*
 
 ---
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:54:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8065, N-3*
+*Related: C-3151, N-3*
 
 ---
 
@@ -408,7 +408,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1440.1, C-1751*
+*Related: A-1440.1, C-3075*
 
 **N-266** Brian Harpole
 
@@ -419,7 +419,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1442.1, A-1442.2, C-1753, C-1754, N-10267*
+*Related: A-1442.1, A-1442.2, C-3110, C-3106, N-10267*
 
 **N-7** Frank Turek
 
@@ -430,7 +430,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1441.1, C-1752, N-10267*
+*Related: A-1441.1, C-3082, N-10267*
 
 **N-267** Tim Pool
 
@@ -441,7 +441,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1444.1, A-1444.2, C-1756, C-1757*
+*Related: A-1444.1, A-1444.2, C-3132, C-3133*
 
 **N-268** Joe Rogan
 
@@ -452,7 +452,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1443.1, C-1755*
+*Related: A-1443.1, C-3115*
 
 **N-146** Theo Von
 
@@ -463,7 +463,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1443.1, C-1755*
+*Related: A-1443.1, C-3115*
 
 **N-10265** 920 North King Street / 1 Rodney Square Federal Facility
 
@@ -474,7 +474,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1435.1, A-1437.1, A-1440.1, C-1748, C-1749, C-1751*
+*Related: A-1435.1, A-1437.1, A-1440.1, C-3067, C-3068, C-3075*
 
 **N-10266** SUBTT Wilmington Visit Pattern
 
@@ -485,7 +485,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1435.1, A-1436.1, A-1436.3, C-1745, C-1746, C-1747*
+*Related: A-1435.1, A-1436.1, A-1436.3, C-3052, C-3056, C-3087*
 
 **N-10267** TPUSA Drone Disclosure Discrepancy
 
@@ -496,7 +496,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1441.1, A-1442.1, C-1752, C-1753*
+*Related: A-1441.1, A-1442.1, C-3082, C-3110*
 
 **N-10268** AmFest Speaker Removal Pattern
 
@@ -507,7 +507,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1444.2, C-1757*
+*Related: A-1444.2, C-3133*
 
 **N-10269** Wilmington Airport Hangar Federal Connection
 
@@ -518,7 +518,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1438.1, A-1439.1, C-1749, C-1750*
+*Related: A-1438.1, A-1439.1, C-3068, C-3073*
 
 ---
 
@@ -526,7 +526,7 @@ Investigative Pressure: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-7978, C-7979, C-7980, C-7981, C-7982, C-7983, C-7984, C-7985, C-7986, C-7987, C-7988, C-7989, C-7990, C-7991, C-7992, C-7993, C-7994, C-7995, C-7996, C-7997, C-7998, C-7999, C-8000, C-8001, C-8002, C-8003, C-8004, C-8005, C-8006, C-8007, C-8008, C-8009, C-8010, C-8011, C-8012, C-8013, C-8014, C-8015, C-8016, C-8017, C-8018, C-8019, C-8020, C-8021, C-8022, C-8023, C-8024, C-8025, C-8026, C-8027, C-8031, C-8032, C-8033, C-8034, C-8035, C-8036, C-8037, C-8039, C-8040, C-8041, C-8043, C-8044, C-8045, C-8046, C-8047, C-8048, C-8049, C-8050, C-8051, C-8052, C-8053, C-8054, C-8055, C-8056, C-8057, C-8058, C-8059, C-8060, C-8061, C-8062, C-8063, C-8064, C-8065*
+*Related: C-3050, C-3051, C-3053, C-3055, C-3054, C-3057, C-3058, C-3059, C-3060, C-3061, C-3062, C-3063, C-3064, C-3065, C-3066, C-3069, C-3070, C-3071, C-3072, C-3074, C-3076, C-3077, C-3078, C-3079, C-3080, C-3081, C-3083, C-3084, C-3085, C-3086, C-3088, C-3089, C-3090, C-3091, C-3092, C-3093, C-3094, C-3095, C-3096, C-3097, C-3098, C-3099, C-3100, C-3101, C-3102, C-3103, C-3104, C-3105, C-3107, C-3108, C-3113, C-3114, C-3116, C-3117, C-3118, C-3119, C-3121, C-3123, C-3124, C-3125, C-3127, C-3128, C-3129, C-3130, C-3131, C-3134, C-3135, C-3136, C-3137, C-3138, C-3139, C-3140, C-3141, C-3142, C-3143, C-3144, C-3145, C-3146, C-3147, C-3148, C-3149, C-3150, C-3151*
 
 ---
 
@@ -534,7 +534,7 @@ Host; speaks for herself throughout.
 
 Widow and TPUSA CEO; named as a passenger the host lists and as next of kin for the autopsy.
 
-*Related: C-7978, C-8022, C-8033*
+*Related: C-3050, C-3102, C-3116*
 
 ---
 
@@ -542,7 +542,7 @@ Widow and TPUSA CEO; named as a passenger the host lists and as next of kin for 
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7978, C-8064*
+*Related: C-3050, C-3150*
 
 ---
 
@@ -550,7 +550,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7979, C-8007*
+*Related: C-3051, C-3086*
 
 ---
 
@@ -558,7 +558,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7980, C-8007, C-8014, C-8020*
+*Related: C-3053, C-3086, C-3094, C-3100*
 
 ---
 
@@ -567,7 +567,7 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 The dispute over whether SUBTT's Wilmington stops were routine maintenance, including X users citing a Falcon maintenance arrangement dating to 1999 and the email's rebuttal based on the Dassault center closure and the SATYS timeline.
 
-*Related: C-7984, C-7996, C-7997, C-7999*
+*Related: C-3058, C-3072, C-3074, C-3077*
 
 ---
 
@@ -575,7 +575,7 @@ The dispute over whether SUBTT's Wilmington stops were routine maintenance, incl
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-7984, C-8000, C-8001, C-8003, C-8004, C-8006, C-8011*
+*Related: C-3058, C-3078, C-3079, C-3081, C-3083, C-3085, C-3091*
 
 ---
 
@@ -584,7 +584,7 @@ Existing organization reused for new claims in this episode.
 Node Type: Topic
 The insider email's claim that federal or local-plated vehicles tied to 920 North King Street met SUBTT at Wilmington airport and moved people or assets under diplomatic cover.
 
-*Related: C-7986, C-7987, C-7988, C-7989, C-7990, C-8005*
+*Related: C-3060, C-3061, C-3062, C-3063, C-3064, C-3084*
 
 ---
 
@@ -592,7 +592,7 @@ The insider email's claim that federal or local-plated vehicles tied to 920 Nort
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7993, C-8001, C-8011*
+*Related: C-3069, C-3079, C-3091*
 
 ---
 
@@ -600,7 +600,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8000*
+*Related: C-3078*
 
 ---
 
@@ -608,7 +608,7 @@ Existing topic reused for new claims in this episode.
 
 FBI Director; the host says she knows why he is out.
 
-*Related: C-8009*
+*Related: C-3089*
 
 ---
 
@@ -616,7 +616,7 @@ FBI Director; the host says she knows why he is out.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8009*
+*Related: C-3089*
 
 ---
 
@@ -624,7 +624,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8010, C-8013, C-8044, C-8045*
+*Related: C-3090, C-3093, C-3128, C-3129*
 
 ---
 
@@ -632,7 +632,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8012, C-8035, C-8036*
+*Related: C-3092, C-3118, C-3119*
 
 ---
 
@@ -640,7 +640,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8013, C-8046, C-8050, C-8058*
+*Related: C-3093, C-3130, C-3136, C-3144*
 
 ---
 
@@ -648,7 +648,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8014, C-8015, C-8016, C-8017, C-8019, C-8021, C-8022*
+*Related: C-3094, C-3095, C-3096, C-3097, C-3099, C-3101, C-3102*
 
 ---
 
@@ -656,7 +656,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8016, C-8023, C-8024, C-8025, C-8032, C-8047, C-8048, C-8049, C-8054*
+*Related: C-3096, C-3103, C-3104, C-3105, C-3114, C-3131, C-3134, C-3135, C-3140*
 
 ---
 
@@ -664,7 +664,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8018*
+*Related: C-3098*
 
 ---
 
@@ -672,7 +672,7 @@ Existing topic reused for new claims in this episode.
 
 The host assumes he coordinated Charlie's plane and says he probably called Elizabeth McCoy.
 
-*Related: C-8019, C-8023, C-8024*
+*Related: C-3099, C-3103, C-3104*
 
 ---
 
@@ -680,7 +680,7 @@ The host assumes he coordinated Charlie's plane and says he probably called Eliz
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8019, C-8023, C-8024*
+*Related: C-3099, C-3103, C-3104*
 
 ---
 
@@ -688,7 +688,7 @@ Existing topic reused for new claims in this episode.
 
 TPUSA spokesperson; his wife is on the host's passenger list and a viewer cites his vertebra remark.
 
-*Related: C-8022, C-8054*
+*Related: C-3102, C-3140*
 
 ---
 
@@ -696,7 +696,7 @@ TPUSA spokesperson; his wife is on the host's passenger list and a viewer cites 
 
 Named in the host's list of known passengers as the chief finance person.
 
-*Related: C-8022*
+*Related: C-3102*
 
 ---
 
@@ -704,7 +704,7 @@ Named in the host's list of known passengers as the chief finance person.
 
 Elizabeth McCoy, who the host says ran out of TPUSA headquarters when she heard the news.
 
-*Related: C-8022, C-8023, C-8024*
+*Related: C-3102, C-3103, C-3104*
 
 ---
 
@@ -712,7 +712,7 @@ Elizabeth McCoy, who the host says ran out of TPUSA headquarters when she heard 
 
 Named in the host's list of passengers who came from Arizona.
 
-*Related: C-8022*
+*Related: C-3102*
 
 ---
 
@@ -720,7 +720,7 @@ Named in the host's list of passengers who came from Arizona.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8026*
+*Related: C-3107*
 
 ---
 
@@ -728,7 +728,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8028*
+*Related: C-3109*
 
 ---
 
@@ -736,7 +736,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8031*
+*Related: C-3113*
 
 ---
 
@@ -744,7 +744,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8033*
+*Related: C-3116*
 
 ---
 
@@ -752,7 +752,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8033*
+*Related: C-3116*
 
 ---
 
@@ -760,7 +760,7 @@ Existing topic reused for new claims in this episode.
 
 Interviewer of Brian Harpole in the clip.
 
-*Related: C-8034*
+*Related: C-3117*
 
 ---
 
@@ -768,7 +768,7 @@ Interviewer of Brian Harpole in the clip.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8034*
+*Related: C-3117*
 
 ---
 
@@ -776,7 +776,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8035, C-8036*
+*Related: C-3118, C-3119*
 
 ---
 
@@ -784,7 +784,7 @@ Existing topic reused for new claims in this episode.
 
 Named in the Rogan and Von clip and the host's remark on protection of Epstein.
 
-*Related: C-8038, C-8039*
+*Related: C-3122, C-3123*
 
 ---
 
@@ -792,7 +792,7 @@ Named in the Rogan and Von clip and the host's remark on protection of Epstein.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8038, C-8039*
+*Related: C-3122, C-3123*
 
 ---
 
@@ -800,7 +800,7 @@ Existing topic reused for new claims in this episode.
 
 Subject of the Macron story discussed with the Rogan and Von clip.
 
-*Related: C-8040, C-8041, C-8043, C-8061*
+*Related: C-3124, C-3125, C-3127, C-3147*
 
 ---
 
@@ -808,7 +808,7 @@ Subject of the Macron story discussed with the Rogan and Von clip.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8040, C-8042, C-8061, C-8063, C-8064*
+*Related: C-3124, C-3126, C-3147, C-3149, C-3150*
 
 ---
 
@@ -816,7 +816,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8041, C-8043*
+*Related: C-3125, C-3127*
 
 ---
 
@@ -824,7 +824,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8041, C-8043*
+*Related: C-3125, C-3127*
 
 ---
 
@@ -832,7 +832,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8051*
+*Related: C-3137*
 
 ---
 
@@ -840,7 +840,7 @@ Existing topic reused for new claims in this episode.
 
 Cited by the host on psychopathy.
 
-*Related: C-8053*
+*Related: C-3139*
 
 ---
 
@@ -848,7 +848,7 @@ Cited by the host on psychopathy.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8054*
+*Related: C-3140*
 
 ---
 
@@ -856,7 +856,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8055, C-8056*
+*Related: C-3141, C-3142*
 
 ---
 
@@ -864,7 +864,7 @@ Existing topic reused for new claims in this episode.
 
 Comedian whose clip the host showed, which drew a copyright claim.
 
-*Related: C-8060*
+*Related: C-3146*
 
 ---
 
@@ -872,7 +872,7 @@ Comedian whose clip the host showed, which drew a copyright claim.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8060*
+*Related: C-3146*
 
 ---
 
@@ -880,7 +880,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8062*
+*Related: C-3148*
 
 ---
 
@@ -888,7 +888,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused for new claims in this episode.
 
-*Related: C-8062*
+*Related: C-3148*
 
 ---
 
@@ -896,7 +896,7 @@ Existing organization reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8065*
+*Related: C-3151*
 
 ---
 
@@ -904,13 +904,13 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-8065*
+*Related: C-3151*
 
 ---
 
 ## 5. Claim Register
 
-**C-1745** Host Says SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025
+**C-3052** Host Says SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025
 
 Claim Timestamp: 00:02:32–00:05:00
 
@@ -924,7 +924,7 @@ Investigative Direction: Cross-reference host's timeline against independent ADS
 
 ---
 
-**C-1746** Host Says SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM
+**C-3056** Host Says SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM
 
 Claim Timestamp: 00:04:05
 
@@ -938,7 +938,7 @@ Investigative Direction: Verify overnight ground time via independent flight tra
 
 ---
 
-**C-1747** Anonymous Email the Host Reads Says SUBTT Made Multi-Day Wilmington Stays in November 2022
+**C-3087** Anonymous Email the Host Reads Says SUBTT Made Multi-Day Wilmington Stays in November 2022
 
 Claim Timestamp: 00:19:00–00:20:40
 
@@ -952,7 +952,7 @@ Investigative Direction: Verify against independent historical ADS-B / FAA recor
 
 ---
 
-**C-1748** Host Reads Email Saying June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404
+**C-3067** Host Reads Email Saying June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404
 
 Claim Timestamp: 00:10:45
 
@@ -966,7 +966,7 @@ Investigative Direction: Obtain the cited DOJ directory and confirm page 675 dir
 
 ---
 
-**C-1749** Email Host Reads Says DEA and Secret Service Are Listed at 920 North King Street
+**C-3068** Email Host Reads Says DEA and Secret Service Are Listed at 920 North King Street
 
 Claim Timestamp: 00:10:45–00:12:23
 
@@ -980,7 +980,7 @@ Investigative Direction: Verify via direct lookups of each agency's published Wi
 
 ---
 
-**C-1750** Email Host Reads Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar
+**C-3073** Email Host Reads Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar
 
 Claim Timestamp: 00:12:23–00:13:22
 
@@ -994,7 +994,7 @@ Investigative Direction: Locate SATYS press release and Delaware outlet coverage
 
 ---
 
-**C-1751** Per Email Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATYS
+**C-3075** Per Email Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATYS
 
 Claim Timestamp: 00:13:22–00:14:22
 
@@ -1008,7 +1008,7 @@ Investigative Direction: Obtain the DRBA resolution document directly from DRBA 
 
 ---
 
-**C-1752** Per FBI Press Release Host Reads, Wray Cited Partnerships in Wilmington December 2024
+**C-3082** Per FBI Press Release Host Reads, Wray Cited Partnerships in Wilmington December 2024
 
 Claim Timestamp: 00:16:58
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Locate and review the FBI press release directly; verif
 
 ---
 
-**C-1753** Frank Turek Stated Charlie's Team Had Drones Operating at the Event
+**C-3110** Frank Turek Stated Charlie's Team Had Drones Operating at the Event
 
 Claim Timestamp: 00:31:42–00:32:39
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Obtain the full Megyn Kelly / Frank Turek interview cli
 
 ---
 
-**C-1754** Brian Harpole Stated TPUSA Did Not Have Drones at the Event
+**C-3106** Brian Harpole Stated TPUSA Did Not Have Drones at the Event
 
 Claim Timestamp: 00:30:52–00:31:42
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Obtain the full Shawn Ryan / Brian Harpole interview cl
 
 ---
 
-**C-1755** Brian Harpole Repeated the 3,000 lbs of Energy Bullet-Trajectory Description
+**C-3115** Brian Harpole Repeated the 3,000 lbs of Energy Bullet-Trajectory Description
 
 Claim Timestamp: 00:33:46–00:36:45
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Obtain the full interview clip; confirm exact wording a
 
 ---
 
-**C-1756** Tim Pool Characterized Candace Owens's Podcast Narrative as "Conspiracy Drama"
+**C-3132** Tim Pool Characterized Candace Owens's Podcast Narrative as "Conspiracy Drama"
 
 Claim Timestamp: 00:43:10
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Locate Tim Pool's original video and timestamp the quot
 
 ---
 
-**C-1757** Tim Pool Stated He Was Told He Could Not Come to AmFest
+**C-3133** Tim Pool Stated He Was Told He Could Not Come to AmFest
 
 Claim Timestamp: 00:43:35
 
@@ -1096,7 +1096,7 @@ Investigative Direction: Locate Tim Pool's original video and confirm AmFest / A
 
 ---
 
-**C-1758** Joe Rogan and Theo Von Asserted Conspiracies Are Real and Common
+**C-3120** Joe Rogan and Theo Von Asserted Conspiracies Are Real and Common
 
 Claim Timestamp: 00:36:19–00:41:35
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Identify the specific Rogan episode by number and date;
 
 ---
 
-**C-7978** Tip Arrived Before Host Linked Egyptian Planes to Erika and Charlie
+**C-3050** Tip Arrived Before Host Linked Egyptian Planes to Erika and Charlie
 
 Claim Timestamp: 00:00:00
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Obtain the original email with its received date and co
 
 ---
 
-**C-7979** Host Says SUBTT Repeatedly Stayed Days in Delaware
+**C-3051** Host Says SUBTT Repeatedly Stayed Days in Delaware
 
 Claim Timestamp: 00:01:03
 
@@ -1142,7 +1142,7 @@ Investigative Direction: Pull the full SUBTT flight history from independent ADS
 
 ---
 
-**C-7980** Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier
+**C-3053** Plane Departing Provo on Sept 10 Was the One That Brought the Egyptians Six Days Earlier
 
 Claim Timestamp: 00:02:32
 
@@ -1153,13 +1153,13 @@ Transcript Snippet: the plane that had initially carried over the 12 or 14 quote
 Anchored Artifacts: A-1436.1
 Mentions: N-3
 Related Nodes: N-10266, N-10074
-Supports: C-1551
+Supports: C-2139
 Tags: relevance:core
 Investigative Direction: Compare the September 4 Provo arrival record for SUBTT with the September 10 departure record to confirm it is the same airframe and passenger count.
 
 ---
 
-**C-7981** Wilmington Landing About 2.5 Hours Before the Shooting
+**C-3055** Wilmington Landing About 2.5 Hours Before the Shooting
 
 Claim Timestamp: 00:03:51
 
@@ -1170,13 +1170,13 @@ Transcript Snippet: Charlie's going to get shot at 12:23. This plane has landed 
 Anchored Artifacts: A-1436.1
 Mentions: N-1, N-3
 Related Nodes: N-10266
-Supports: C-1745
+Supports: C-3052
 Tags: relevance:core
 Investigative Direction: Check the SUBTT wheels-down time at Wilmington against the shooting time established in the official timeline.
 
 ---
 
-**C-7982** Host Says Tip Was Confirmed by Federal Agency and State Department Contacts
+**C-3054** Host Says Tip Was Confirmed by Federal Agency and State Department Contacts
 
 Claim Timestamp: 00:02:32
 
@@ -1192,7 +1192,7 @@ Investigative Direction: Ask the host to identify the agencies and offices consu
 
 ---
 
-**C-7983** Host Says Tip Was Vetted to the Highest Levels of Government
+**C-3057** Host Says Tip Was Vetted to the Highest Levels of Government
 
 Claim Timestamp: 00:04:57
 
@@ -1208,7 +1208,7 @@ Investigative Direction: Request the names, roles or agencies of the vetting sou
 
 ---
 
-**C-7984** Email Says Maintenance Was Not the Reason for SUBTT Wilmington Stops
+**C-3058** Email Says Maintenance Was Not the Reason for SUBTT Wilmington Stops
 
 Claim Timestamp: 00:06:16
 
@@ -1224,7 +1224,7 @@ Investigative Direction: Obtain Wilmington airport and hangar service records fo
 
 ---
 
-**C-7985** Email Says Non-Public Movement Data Was Empty, Implying a Diplomatic Arrival
+**C-3059** Email Says Non-Public Movement Data Was Empty, Implying a Diplomatic Arrival
 
 Claim Timestamp: 00:06:16
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Ask CBP, FAA and Wilmington airport authorities how dip
 
 ---
 
-**C-7986** Email Says an Unnamed Entity Uses Vehicles at the Airport for Covert Handoffs
+**C-3060** Email Says an Unnamed Entity Uses Vehicles at the Airport for Covert Handoffs
 
 Claim Timestamp: 00:07:20
 
@@ -1256,7 +1256,7 @@ Investigative Direction: Identify the redacted entity from the original email an
 
 ---
 
-**C-7987** Email Says Only Federal Vehicles Can Access Private Gates for Government Planes
+**C-3061** Email Says Only Federal Vehicles Can Access Private Gates for Government Planes
 
 Claim Timestamp: 00:07:20
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Obtain Wilmington airport security and tenant rules on 
 
 ---
 
-**C-7988** Email Says Vehicles Tied to 920 North King Street Arrived and Left in SUBTT's Window
+**C-3062** Email Says Vehicles Tied to 920 North King Street Arrived and Left in SUBTT's Window
 
 Claim Timestamp: 00:07:20
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Seek airport gate logs, camera footage or witness state
 
 ---
 
-**C-7989** Email Says Federal Vehicles Pass Through King Street
+**C-3063** Email Says Federal Vehicles Pass Through King Street
 
 Claim Timestamp: 00:08:41
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Check the fleet and parking arrangements at 920 North K
 
 ---
 
-**C-7990** Email Says Vehicles Swap Diplomatic Plates for Local Plates
+**C-3064** Email Says Vehicles Swap Diplomatic Plates for Local Plates
 
 Claim Timestamp: 00:08:41
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Seek Delaware DMV or toll-camera plate records for vehi
 
 ---
 
-**C-7991** Email Says a Meeting Not in a Car Took Place With SUBTT
+**C-3065** Email Says a Meeting Not in a Car Took Place With SUBTT
 
 Claim Timestamp: 00:08:41
 
@@ -1336,7 +1336,7 @@ Investigative Direction: Look for any record of where SUBTT passengers went afte
 
 ---
 
-**C-7992** Email Says No Evidence Can Be Shown but Insiders Would Confirm
+**C-3066** Email Says No Evidence Can Be Shown but Insiders Would Confirm
 
 Claim Timestamp: 00:09:48
 
@@ -1352,7 +1352,7 @@ Investigative Direction: Seek on-record or documentary confirmation from any ins
 
 ---
 
-**C-7993** Host Says Secret Service's 2025 Field Office List Still Shows Wilmington
+**C-3069** Host Says Secret Service's 2025 Field Office List Still Shows Wilmington
 
 Claim Timestamp: 00:10:45
 
@@ -1363,13 +1363,13 @@ Transcript Snippet: In the Secret Service case, the AY's own 2025 field office l
 Anchored Artifacts: A-1437.1
 Mentions: N-3
 Related Nodes: N-10265, N-10911
-Supports: C-1749
+Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Retrieve the Secret Service 2025 field office list and the DEA directory entry for Wilmington and compare addresses and suite numbers.
 
 ---
 
-**C-7994** Email Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space
+**C-3070** Email Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space
 
 Claim Timestamp: 00:10:45
 
@@ -1380,13 +1380,13 @@ Transcript Snippet: That means the suites that the Department of Justice owned i
 Anchored Artifacts: A-1437.1
 Mentions: N-3
 Related Nodes: N-10265
-Supports: C-1748
+Supports: C-3067
 Tags: relevance:core
 Investigative Direction: Review GSA lease and building tenant records for 920 North King Street from 1997 to date.
 
 ---
 
-**C-7995** Email Compares 920 North King Street to 33 Thomas Street
+**C-3071** Email Compares 920 North King Street to 33 Thomas Street
 
 Claim Timestamp: 00:11:57
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Compare photographs of both buildings; the resemblance 
 
 ---
 
-**C-7996** Email Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999
+**C-3072** Email Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999
 
 Claim Timestamp: 00:12:08
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Locate the original X posts and any documentation of a 
 
 ---
 
-**C-7997** Email Says the Wilmington Dassault Falcon Center Shut Down Around 2021
+**C-3074** Email Says the Wilmington Dassault Falcon Center Shut Down Around 2021
 
 Claim Timestamp: 00:12:23
 
@@ -1429,13 +1429,13 @@ Transcript Snippet: Wilmington used to have a Dissult Falcon authorized center b
 Anchored Artifacts: A-1438.1
 Mentions: N-3
 Related Nodes: N-10269, N-11160
-Supports: C-1750
+Supports: C-3073
 Tags: relevance:core
 Investigative Direction: Confirm the closure date through Dassault Falcon service-center listings and Wilmington airport tenant records.
 
 ---
 
-**C-7998** Email Says DRBA Operates on Federally Regulated Waterways With a Chain to the President
+**C-3076** Email Says DRBA Operates on Federally Regulated Waterways With a Chain to the President
 
 Claim Timestamp: 00:13:22
 
@@ -1446,13 +1446,13 @@ Transcript Snippet: The chain here that would report from the people who control
 Anchored Artifacts: A-1439.1
 Mentions: N-3
 Related Nodes: N-10269
-Supports: C-1751
+Supports: C-3075
 Tags: relevance:context
 Investigative Direction: Review DRBA's enabling compact and federal oversight to test whether its airport lease decisions fall under any federal chain of authority.
 
 ---
 
-**C-7999** Email Says SUBTT Traveled to France Before the SATYS Deal Existed
+**C-3077** Email Says SUBTT Traveled to France Before the SATYS Deal Existed
 
 Claim Timestamp: 00:14:22
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Line up SUBTT's France stops and Wilmington stops again
 
 ---
 
-**C-8000** Email Says Google Lists 920 North King Street as FBI Versus the Public Address
+**C-3078** Email Says Google Lists 920 North King Street as FBI Versus the Public Address
 
 Claim Timestamp: 00:15:33
 
@@ -1479,13 +1479,13 @@ Transcript Snippet: you will likely get 920 North King Street with the label Fed
 Anchored Artifacts: A-1437.1
 Mentions: N-3
 Related Nodes: N-10265, N-10289, N-10014
-Supports: C-1749
+Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Archive current and historical Google Business and FBI field office listings for both Wilmington addresses.
 
 ---
 
-**C-8001** Email Says the Site Is a Joint DOJ and DHS Location With Three Agencies
+**C-3079** Email Says the Site Is a Joint DOJ and DHS Location With Three Agencies
 
 Claim Timestamp: 00:15:50
 
@@ -1496,13 +1496,13 @@ Transcript Snippet: this actually seems to be a joint DOJ DHS site which verifia
 Anchored Artifacts: A-1437.1
 Mentions: N-3
 Related Nodes: N-10265, N-10911, N-10014
-Supports: C-1749
+Supports: C-3068
 Tags: relevance:core
 Investigative Direction: Survey federal multi-agency leased suites through GSA and agency directories to test whether the arrangement is unusual.
 
 ---
 
-**C-8002** Email Says Three-Agency Single Suites Are Not Common
+**C-3080** Email Says Three-Agency Single Suites Are Not Common
 
 Claim Timestamp: 00:16:45
 
@@ -1518,7 +1518,7 @@ Investigative Direction: Ask former federal law enforcement officials and GSA st
 
 ---
 
-**C-8003** Email Reads Wray's Mention of Partners as a Sign the Space Is Not Purely FBI
+**C-3081** Email Reads Wray's Mention of Partners as a Sign the Space Is Not Purely FBI
 
 Claim Timestamp: 00:16:45
 
@@ -1529,13 +1529,13 @@ Transcript Snippet: They chose to mention partners. They didn't say that he met 
 Anchored Artifacts: A-1440.1
 Mentions: N-265, N-3
 Related Nodes: N-10265, N-10014
-Supports: C-1752
+Supports: C-3082
 Tags: relevance:context
 Investigative Direction: Read the December 5, 2024 FBI release in full to see where Wray met the partners and whom the release names.
 
 ---
 
-**C-8004** Wray Quote on Law Enforcement and Private Sector Working Together
+**C-3083** Wray Quote on Law Enforcement and Private Sector Working Together
 
 Claim Timestamp: 00:17:46
 
@@ -1546,13 +1546,13 @@ Transcript Snippet: We have an entire generation of law enforcement and the priv
 Anchored Artifacts: A-1440.1
 Mentions: N-265, N-3
 Related Nodes: N-10014, N-10265
-Supports: C-1752
+Supports: C-3082
 Tags: relevance:context
 Investigative Direction: Locate the FBI release and confirm the exact wording and location context of Wray's remarks.
 
 ---
 
-**C-8005** Email Says Federal SUVs Moved From the Airport to 920 North King Street Within an Hour
+**C-3084** Email Says Federal SUVs Moved From the Airport to 920 North King Street Within an Hour
 
 Claim Timestamp: 00:17:46
 
@@ -1568,7 +1568,7 @@ Investigative Direction: Seek camera, toll or witness evidence of vehicle moveme
 
 ---
 
-**C-8006** Email Says the FBI Spoke of Key Partners in Wilmington the Year the Hangar Reactivated
+**C-3085** Email Says the FBI Spoke of Key Partners in Wilmington the Year the Hangar Reactivated
 
 Claim Timestamp: 00:18:59
 
@@ -1579,13 +1579,13 @@ Transcript Snippet: The FBI also publicly talks about key partners in Wilmington
 Anchored Artifacts: A-1440.1, A-1438.1
 Mentions: N-3
 Related Nodes: N-10014, N-10269
-Supports: C-1752
+Supports: C-3082
 Tags: relevance:context
 Investigative Direction: Confirm that the December 2024 FBI release concerns Wilmington and check the hangar reactivation date.
 
 ---
 
-**C-8007** Email Says SUBTT Also Landed in Remote Non-Diplomatic Cities
+**C-3086** Email Says SUBTT Also Landed in Remote Non-Diplomatic Cities
 
 Claim Timestamp: 00:18:59
 
@@ -1601,7 +1601,7 @@ Investigative Direction: Compile the dated SUBTT stops in each listed city from 
 
 ---
 
-**C-8008** Email Says Wilmington Is a Terminal Point Pointing to 920 North King Street
+**C-3088** Email Says Wilmington Is a Terminal Point Pointing to 920 North King Street
 
 Claim Timestamp: 00:20:41
 
@@ -1617,7 +1617,7 @@ Investigative Direction: Test alternative explanations such as maintenance, fuel
 
 ---
 
-**C-8009** Host Says Kash Patel Is Out and Links It to the Email
+**C-3089** Host Says Kash Patel Is Out and Links It to the Email
 
 Claim Timestamp: 00:21:30
 
@@ -1633,7 +1633,7 @@ Investigative Direction: Establish what the host means by out, with the dated FB
 
 ---
 
-**C-8010** Host Says Charlie's Murder Had to Be Approved by Friends
+**C-3090** Host Says Charlie's Murder Had to Be Approved by Friends
 
 Claim Timestamp: 00:21:30
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Ask the host which friends she means and what evidence 
 
 ---
 
-**C-8011** Host Says the Email Checks Out as Explaining the Egyptian Plane in Wilmington
+**C-3091** Host Says the Email Checks Out as Explaining the Egyptian Plane in Wilmington
 
 Claim Timestamp: 00:22:40
 
@@ -1665,7 +1665,7 @@ Investigative Direction: Demand documentary proof tying SUBTT's passengers to th
 
 ---
 
-**C-8012** Host Alleges Government Is Spending Hundreds of Millions on a Psychological Operation
+**C-3092** Host Alleges Government Is Spending Hundreds of Millions on a Psychological Operation
 
 Claim Timestamp: 00:22:40
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Request any contracts, grants or budget lines the host 
 
 ---
 
-**C-8013** Host Says Charlie Found Something Out and It Cost Him His Life
+**C-3093** Host Says Charlie Found Something Out and It Cost Him His Life
 
 Claim Timestamp: 00:23:41
 
@@ -1697,7 +1697,7 @@ Investigative Direction: Identify what Charlie Kirk is alleged to have learned, 
 
 ---
 
-**C-8014** Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.
+**C-3094** Cessna Citation Flew Scottsdale to Provo Departing 8:00 a.m.
 
 Claim Timestamp: 00:27:09
 
@@ -1708,13 +1708,13 @@ Transcript Snippet: That's the one that departed from Scottsdale at 8 o'clock a.
 Anchored Artifacts: A-1436.2
 Mentions: N-3
 Related Nodes: N-10263, N-10074
-Supports: C-1725, C-1744
+Supports: C-2937, C-3009
 Tags: relevance:core
 Investigative Direction: Match the tail number and manifest of this flight, which the host later ties to T.W. Lewis, with FAA and FlightAware history.
 
 ---
 
-**C-8015** Cessna Citation Returned to Scottsdale at 12:44 p.m.
+**C-3095** Cessna Citation Returned to Scottsdale at 12:44 p.m.
 
 Claim Timestamp: 00:27:09
 
@@ -1725,13 +1725,13 @@ Transcript Snippet: Landed into Santa Barbara and immediately departed for Scott
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-1
 Related Nodes: N-10263
-Supports: C-1725
+Supports: C-2937
 Tags: relevance:core
 Investigative Direction: Check the Santa Barbara turnaround time and passengers using airport and FBO records.
 
 ---
 
-**C-8016** Host Says TPUSA Is Featured on T.W. Lewis's Foundation Website as a Partner
+**C-3096** Host Says TPUSA Is Featured on T.W. Lewis's Foundation Website as a Partner
 
 Claim Timestamp: 00:28:10
 
@@ -1747,7 +1747,7 @@ Investigative Direction: Archive the foundation website and check Form 990 filin
 
 ---
 
-**C-8017** Host Says a Beechcraft Left Scottsdale at 12:27 p.m.
+**C-3097** Host Says a Beechcraft Left Scottsdale at 12:27 p.m.
 
 Claim Timestamp: 00:28:10
 
@@ -1763,7 +1763,7 @@ Investigative Direction: Identify the tail number, operator and passengers for t
 
 ---
 
-**C-8018** Host Says Charlie's 15-16 Seat Plane First Took Him to Salt Lake City
+**C-3098** Host Says Charlie's 15-16 Seat Plane First Took Him to Salt Lake City
 
 Claim Timestamp: 00:28:10
 
@@ -1774,13 +1774,13 @@ Transcript Snippet: That was Charlie's plane that day. First took him to Salt La
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-1
 Related Nodes: N-11061
-Supports: C-1554
+Supports: C-2144
 Tags: relevance:core
 Investigative Direction: Compare with the N102DZ flight records and the Restaurantology interview schedule.
 
 ---
 
-**C-8019** Host Assumes Mikey McCoy Coordinated Sending Charlie's Plane to Scottsdale
+**C-3099** Host Assumes Mikey McCoy Coordinated Sending Charlie's Plane to Scottsdale
 
 Claim Timestamp: 00:28:10
 
@@ -1791,13 +1791,13 @@ Transcript Snippet: I'm assuming this might have been what Mikey McCoy coordinat
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-190
 Related Nodes: N-10338, N-10263
-Supports: C-1555
+Supports: C-2145
 Tags: relevance:core
 Investigative Direction: Obtain the charter or ownership record, the passenger manifest and any records of who arranged the post-shooting routing.
 
 ---
 
-**C-8020** Host Says the Plane Landed in Provo at 3:31 p.m.
+**C-3100** Host Says the Plane Landed in Provo at 3:31 p.m.
 
 Claim Timestamp: 00:28:10
 
@@ -1813,7 +1813,7 @@ Investigative Direction: Identify which aircraft landed in Provo at 3:31 p.m. an
 
 ---
 
-**C-8021** Host Says a Santa Barbara Departure at 2:19 p.m. Was Notably Late
+**C-3101** Host Says a Santa Barbara Departure at 2:19 p.m. Was Notably Late
 
 Claim Timestamp: 00:28:10
 
@@ -1824,13 +1824,13 @@ Transcript Snippet: The last plane that we have here is one that departed Santa 
 Anchored Artifacts: A-1436.2
 Mentions: N-3, N-1
 Related Nodes: N-10263
-Supports: C-1725
+Supports: C-2937
 Tags: relevance:core
 Investigative Direction: Identify the aircraft and passengers on the 2:19 p.m. Santa Barbara departure.
 
 ---
 
-**C-8022** Host Lists Known Passengers From Arizona and Possibly Santa Barbara
+**C-3102** Host Lists Known Passengers From Arizona and Possibly Santa Barbara
 
 Claim Timestamp: 00:29:34
 
@@ -1846,7 +1846,7 @@ Investigative Direction: Match each named person to a specific flight with manif
 
 ---
 
-**C-8023** Host Recounts Elizabeth McCoy Running Out of TPUSA Headquarters
+**C-3103** Host Recounts Elizabeth McCoy Running Out of TPUSA Headquarters
 
 Claim Timestamp: 00:29:34
 
@@ -1862,7 +1862,7 @@ Investigative Direction: Identify the source and timing of the account and compa
 
 ---
 
-**C-8024** Host Speculates Mikey Called Elizabeth and HQ Is 30 Minutes From the Airport
+**C-3104** Host Speculates Mikey Called Elizabeth and HQ Is 30 Minutes From the Airport
 
 Claim Timestamp: 00:30:25
 
@@ -1878,7 +1878,7 @@ Investigative Direction: Compare phone records with the 12:23 shooting time and 
 
 ---
 
-**C-8025** Host Asks for Tips on Who Left TPUSA Headquarters and When
+**C-3105** Host Asks for Tips on Who Left TPUSA Headquarters and When
 
 Claim Timestamp: 00:30:25
 
@@ -1894,7 +1894,7 @@ Investigative Direction: Collect and verify tips received through the tip line a
 
 ---
 
-**C-8026** Host Says Frank Turek Carried Charlie Into the SUV and Was in the Hospital
+**C-3107** Host Says Frank Turek Carried Charlie Into the SUV and Was in the Hospital
 
 Claim Timestamp: 00:30:52
 
@@ -1910,7 +1910,7 @@ Investigative Direction: Compare Turek's accounts of the SUV and hospital with o
 
 ---
 
-**C-8027** Host Says Viewers Emailed That Harpole's Drone Claim Was a Lie
+**C-3108** Host Says Viewers Emailed That Harpole's Drone Claim Was a Lie
 
 Claim Timestamp: 00:30:52
 
@@ -1921,13 +1921,13 @@ Transcript Snippet: A lot of people, a lot of you emailed us and said that was a
 Anchored Artifacts: A-1442.1
 Mentions: N-266, N-3
 Related Nodes: N-10267
-Supports: C-1754
+Supports: C-3106
 Tags: relevance:context
 Investigative Direction: Review the viewer emails and early TPUSA interviews they cite.
 
 ---
 
-**C-8028** Turek Says It Was His First Campus Event With Charlie
+**C-3109** Turek Says It Was His First Campus Event With Charlie
 
 Claim Timestamp: 00:30:52
 
@@ -1943,7 +1943,7 @@ Investigative Direction: Obtain the full Megyn Kelly interview clip to confirm c
 
 ---
 
-**C-8029** Turek Says Thousands Were Present an Hour Before the Event
+**C-3111** Turek Says Thousands Were Present an Hour Before the Event
 
 Claim Timestamp: 00:31:42
 
@@ -1959,7 +1959,7 @@ Investigative Direction: Compare with crowd estimates from official and independ
 
 ---
 
-**C-8030** Turek Says He Told Charlie He Did Not Like the Place Because of the Buildings
+**C-3112** Turek Says He Told Charlie He Did Not Like the Place Because of the Buildings
 
 Claim Timestamp: 00:31:42
 
@@ -1975,7 +1975,7 @@ Investigative Direction: Obtain the full clip and ask Turek whether he raised th
 
 ---
 
-**C-8031** Host Concludes Harpole Lied About Drones
+**C-3113** Host Concludes Harpole Lied About Drones
 
 Claim Timestamp: 00:31:42
 
@@ -1986,14 +1986,14 @@ Transcript Snippet: His team had drones. They were texting him footage when he w
 Anchored Artifacts: A-1441.1, A-1442.1
 Mentions: N-266, N-7, N-3, N-1
 Related Nodes: N-10267, N-10427
-Supports: C-1753
-Contradicts: C-1754
+Supports: C-3110
+Contradicts: C-3106
 Tags: relevance:core
 Investigative Direction: Obtain drone logs, FAA airspace restrictions and TPUSA security records for September 10, 2025; reconcile with Harpole's statement that drones were not allowed.
 
 ---
 
-**C-8032** Host Says Her List of Verifiable TPUSA Lies Now Runs Two Pages
+**C-3114** Host Says Her List of Verifiable TPUSA Lies Now Runs Two Pages
 
 Claim Timestamp: 00:32:39
 
@@ -2009,7 +2009,7 @@ Investigative Direction: Publish the list with each item's source so every entry
 
 ---
 
-**C-8033** Host Says Only Next of Kin Can Release the Autopsy Report Under Utah Policy
+**C-3116** Host Says Only Next of Kin Can Release the Autopsy Report Under Utah Policy
 
 Claim Timestamp: 00:34:46
 
@@ -2020,13 +2020,13 @@ Transcript Snippet: the only person that can actually release his autopsy report
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-1
 Related Nodes: N-10155, N-10229
-Supports: C-1343
+Supports: C-1162
 Tags: relevance:core
 Investigative Direction: Review the Utah statute on autopsy report release and any waiver or request Erika Kirk has filed.
 
 ---
 
-**C-8034** Host Says Feds Send a Security Person to Avoid Being Caught Lying
+**C-3117** Host Says Feds Send a Security Person to Avoid Being Caught Lying
 
 Claim Timestamp: 00:34:46
 
@@ -2042,7 +2042,7 @@ Investigative Direction: Identify which lies the host attributes to the feds and
 
 ---
 
-**C-8035** Host Says Charlie Was Not Shot by a 300 6
+**C-3118** Host Says Charlie Was Not Shot by a 300 6
 
 Claim Timestamp: 00:34:46
 
@@ -2053,13 +2053,13 @@ Transcript Snippet: If what he is saying is true, Charlie wasn't shot by a 300 6
 Anchored Artifacts: A-1442.2
 Mentions: N-3, N-266, N-1
 Related Nodes: N-10180, N-10085
-Supports: C-1755
+Supports: C-3115
 Tags: relevance:core
 Investigative Direction: Compare the autopsy findings, recovered bullet and ATF analysis with the caliber alleged.
 
 ---
 
-**C-8036** Host Frames Two Options: 150-Yard Bullet Pinging Off or a Smaller Caliber
+**C-3119** Host Frames Two Options: 150-Yard Bullet Pinging Off or a Smaller Caliber
 
 Claim Timestamp: 00:35:35
 
@@ -2070,13 +2070,13 @@ Transcript Snippet: that bullet came out from 150 yards, 3,000 lbs of energy, an
 Anchored Artifacts: A-1442.2
 Mentions: N-3, N-266, N-1
 Related Nodes: N-10180, N-10085
-Supports: C-1755
+Supports: C-3115
 Tags: relevance:core
 Investigative Direction: Obtain the wound path from the autopsy, shot distance data and ballistic energy calculations for the alleged rifle and cartridge.
 
 ---
 
-**C-8037** Host Calls the Killing a Conspiracy
+**C-3121** Host Calls the Killing a Conspiracy
 
 Claim Timestamp: 00:36:19
 
@@ -2086,13 +2086,13 @@ Transcript Snippet: I was so happy to hear Joe Rogan spell out and acknowledge t
 
 Anchored Artifacts: A-1443.1
 Mentions: N-3, N-268
-Supports: C-1758
+Supports: C-3120
 Tags: relevance:context
 Investigative Direction: Identify the Rogan and Theo Von episode and timestamp.
 
 ---
 
-**C-8038** Clip Says the Government Cites National Security Over the Epstein Files
+**C-3122** Clip Says the Government Cites National Security Over the Epstein Files
 
 Claim Timestamp: 00:37:53
 
@@ -2108,7 +2108,7 @@ Investigative Direction: Identify the speaker and episode; the claim is rhetoric
 
 ---
 
-**C-8039** Host Says Epstein Is Protected Because Those People Rule Us
+**C-3123** Host Says Epstein Is Protected Because Those People Rule Us
 
 Claim Timestamp: 00:38:28
 
@@ -2124,7 +2124,7 @@ Investigative Direction: Treat as an opinion about Epstein; no sourcing is given
 
 ---
 
-**C-8040** Host Says the Macron Story Was About Pedophiles in Power
+**C-3124** Host Says the Macron Story Was About Pedophiles in Power
 
 Claim Timestamp: 00:38:28
 
@@ -2140,7 +2140,7 @@ Investigative Direction: Treat as the host's characterization; no new Macron evi
 
 ---
 
-**C-8041** Clip: Speaker Says the Macrons Are Threatening a $50 Million Lawsuit
+**C-3125** Clip: Speaker Says the Macrons Are Threatening a $50 Million Lawsuit
 
 Claim Timestamp: 00:39:11
 
@@ -2156,7 +2156,7 @@ Investigative Direction: Compare with the Macron complaint filed in Delaware and
 
 ---
 
-**C-8042** Clip Remarks on the Age Gap Between Macron and His Teacher
+**C-3126** Clip Remarks on the Age Gap Between Macron and His Teacher
 
 Claim Timestamp: 00:39:57
 
@@ -2172,7 +2172,7 @@ Investigative Direction: Public records on the Macrons' ages; the remark is come
 
 ---
 
-**C-8043** Host Says Being Sued Shows the Psychopathology of the Macrons
+**C-3127** Host Says Being Sued Shows the Psychopathology of the Macrons
 
 Claim Timestamp: 00:39:57
 
@@ -2188,7 +2188,7 @@ Investigative Direction: Review the Macron defamation filing and the host's evid
 
 ---
 
-**C-8044** Host Says the Decision Was Made to Execute Charlie Publicly
+**C-3128** Host Says the Decision Was Made to Execute Charlie Publicly
 
 Claim Timestamp: 00:41:23
 
@@ -2204,7 +2204,7 @@ Investigative Direction: Ask the host what evidence indicates a decision-maker c
 
 ---
 
-**C-8045** Host Says They Wanted Us to See It and Then Spent Money on a Campaign Against It
+**C-3129** Host Says They Wanted Us to See It and Then Spent Money on a Campaign Against It
 
 Claim Timestamp: 00:41:35
 
@@ -2220,7 +2220,7 @@ Investigative Direction: Request evidence of any funded messaging campaign; none
 
 ---
 
-**C-8046** Host Says Donors Were Getting Very Angry With Charlie
+**C-3130** Host Says Donors Were Getting Very Angry With Charlie
 
 Claim Timestamp: 00:42:03
 
@@ -2236,7 +2236,7 @@ Investigative Direction: Identify the donors and dated communications showing an
 
 ---
 
-**C-8047** Host Says Tim Pool Was Cut From AmFest Over Anti-Israel Rhetoric
+**C-3131** Host Says Tim Pool Was Cut From AmFest Over Anti-Israel Rhetoric
 
 Claim Timestamp: 00:42:03
 
@@ -2247,13 +2247,13 @@ Transcript Snippet: Tim P, who is always invited to speak at Turning Point USA's
 Anchored Artifacts: A-1444.2
 Mentions: N-267, N-3
 Related Nodes: N-10268, N-10000
-Supports: C-1757
+Supports: C-3133
 Tags: relevance:context
 Investigative Direction: Ask TPUSA for its AmFest speaker decisions and Pool's account of the invitation.
 
 ---
 
-**C-8048** Host Says an Infiltration Is Happening at TPUSA
+**C-3134** Host Says an Infiltration Is Happening at TPUSA
 
 Claim Timestamp: 00:44:03
 
@@ -2269,7 +2269,7 @@ Investigative Direction: Ask the host to specify who infiltrated TPUSA and by wh
 
 ---
 
-**C-8049** Host Says Not Being Invited to AmFest Happened to Her the Year Before
+**C-3135** Host Says Not Being Invited to AmFest Happened to Her the Year Before
 
 Claim Timestamp: 00:44:03
 
@@ -2285,7 +2285,7 @@ Investigative Direction: Compare with the host's earlier account that donors dem
 
 ---
 
-**C-8050** Host Says Disfavored Speakers Are Listed and Financial Threats Follow
+**C-3136** Host Says Disfavored Speakers Are Listed and Financial Threats Follow
 
 Claim Timestamp: 00:44:03
 
@@ -2296,13 +2296,13 @@ Transcript Snippet: you get put on a list, threat, financial threats are made an
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10047
-Supports: C-4912
+Supports: C-386
 Tags: relevance:core
 Investigative Direction: Seek the donor communications and dated threats that the host's sources describe.
 
 ---
 
-**C-8051** Host Says Her Pre-Assassination Vision Made Her Pull Her Kids From School
+**C-3137** Host Says Her Pre-Assassination Vision Made Her Pull Her Kids From School
 
 Claim Timestamp: 00:48:56
 
@@ -2318,7 +2318,7 @@ Investigative Direction: Locate the episode where the host first described the v
 
 ---
 
-**C-8052** Host Says Children Are at Risk in Government Schools and Feels There Are Sleeper Cells Across the Nation
+**C-3138** Host Says Children Are at Risk in Government Schools and Feels There Are Sleeper Cells Across the Nation
 
 Claim Timestamp: 00:48:56
 
@@ -2333,7 +2333,7 @@ Investigative Direction: No evidence is offered on air; treat as the host's opin
 
 ---
 
-**C-8053** Host Says Powerful Figures Were Made Psychopaths Through Experiments
+**C-3139** Host Says Powerful Figures Were Made Psychopaths Through Experiments
 
 Claim Timestamp: 00:48:56
 
@@ -2348,7 +2348,7 @@ Investigative Direction: Ask the host for the book club source she cites; no doc
 
 ---
 
-**C-8054** Viewer Says Kolvet's Miracle Vertebra Claim Ended Their TPUSA Donations
+**C-3140** Viewer Says Kolvet's Miracle Vertebra Claim Ended Their TPUSA Donations
 
 Claim Timestamp: 00:50:13
 
@@ -2364,7 +2364,7 @@ Investigative Direction: Locate Kolvet's on-air statements about the vertebra in
 
 ---
 
-**C-8055** Viewer Says Calvary Global Network Branched Off Calvary Chapel Association in 2017
+**C-3141** Viewer Says Calvary Global Network Branched Off Calvary Chapel Association in 2017
 
 Claim Timestamp: 00:51:08
 
@@ -2380,7 +2380,7 @@ Investigative Direction: Verify the Calvary Global Network founding date from it
 
 ---
 
-**C-8056** Viewer Says Thousand Oaks Is Part of Calvary Global Network
+**C-3142** Viewer Says Thousand Oaks Is Part of Calvary Global Network
 
 Claim Timestamp: 00:51:08
 
@@ -2396,7 +2396,7 @@ Investigative Direction: Verify church affiliations in Thousand Oaks with Calvar
 
 ---
 
-**C-8057** Host Says She Always Warned Charlie About Certain People
+**C-3143** Host Says She Always Warned Charlie About Certain People
 
 Claim Timestamp: 00:51:08
 
@@ -2411,7 +2411,7 @@ Investigative Direction: Identify the people and dated messages in which the hos
 
 ---
 
-**C-8058** Host Says Charlie Equated More Dollars With Success and Not Threat
+**C-3144** Host Says Charlie Equated More Dollars With Success and Not Threat
 
 Claim Timestamp: 00:52:04
 
@@ -2427,7 +2427,7 @@ Investigative Direction: Compare with donor correspondence and TPUSA fundraising
 
 ---
 
-**C-8059** Host Says She Will Not Vote Until Told What Happened to Charlie
+**C-3145** Host Says She Will Not Vote Until Told What Happened to Charlie
 
 Claim Timestamp: 00:52:04
 
@@ -2442,7 +2442,7 @@ Investigative Direction: None required; a stated personal position.
 
 ---
 
-**C-8060** Host Says Kash Patel's Girlfriend Filed a Copyright Claim Over Music in the Tim Dillon Clip
+**C-3146** Host Says Kash Patel's Girlfriend Filed a Copyright Claim Over Music in the Tim Dillon Clip
 
 Claim Timestamp: 00:52:47
 
@@ -2458,7 +2458,7 @@ Investigative Direction: Obtain the copyright claim notice and identify the clip
 
 ---
 
-**C-8061** Host Says Viewers Linked the Killing to Her Brigitte Macron Reporting
+**C-3147** Host Says Viewers Linked the Killing to Her Brigitte Macron Reporting
 
 Claim Timestamp: 00:52:47
 
@@ -2474,7 +2474,7 @@ Investigative Direction: Treat as viewer speculation; look for any documentary l
 
 ---
 
-**C-8062** Host Says an MK Ultra Experiment Looked Like Prisoner 2093 Could Be a Macron Relative
+**C-3148** Host Says an MK Ultra Experiment Looked Like Prisoner 2093 Could Be a Macron Relative
 
 Claim Timestamp: 00:52:47
 
@@ -2490,7 +2490,7 @@ Investigative Direction: Locate the earlier episode on prisoner 2093 and clarify
 
 ---
 
-**C-8063** Host Says the French Purchase of the Hangar Makes the French Angle Odd
+**C-3149** Host Says the French Purchase of the Hangar Makes the French Angle Odd
 
 Claim Timestamp: 00:52:47
 
@@ -2501,13 +2501,13 @@ Transcript Snippet: But this French angle is weird. I will say that this like no
 Anchored Artifacts: A-1438.1
 Mentions: N-3
 Related Nodes: N-10269, N-10316
-Supports: C-1750
+Supports: C-3073
 Tags: relevance:core
 Investigative Direction: Trace SATYS ownership and any ties to French state entities, and compare the deal dates with SUBTT's France trips.
 
 ---
 
-**C-8064** Host Says the Evidence Suggests a Multinational or International Operation
+**C-3150** Host Says the Evidence Suggests a Multinational or International Operation
 
 Claim Timestamp: 00:54:10
 
@@ -2523,7 +2523,7 @@ Investigative Direction: Ask the host to list the evidence supporting an interna
 
 ---
 
-**C-8065** Host Says a Viewer's DOGE Follow-Up Motive Could Be Right
+**C-3151** Host Says a Viewer's DOGE Follow-Up Motive Could Be Right
 
 Claim Timestamp: 00:54:10
 

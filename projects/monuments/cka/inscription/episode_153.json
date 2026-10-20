@@ -27,13 +27,13 @@
           "ref": "A-2384.1",
           "description": "Notice of Claim – Kirk Family v. State of Utah, UVU Police Department, Chief Jeffrey Long, Astrid Tuminez, and Presently Unknown Others",
           "related_claims": [
-            "C-3466",
-            "C-3474",
-            "C-3475",
-            "C-3476",
-            "C-3477",
-            "C-3491",
-            "C-3492"
+            "C-13181",
+            "C-13212",
+            "C-13213",
+            "C-13214",
+            "C-13215",
+            "C-13224",
+            "C-13226"
           ],
           "related_nodes": [
             "N-2",
@@ -62,9 +62,9 @@
           "ref": "A-2385.1",
           "description": "Associated Press article – \"Utah Valley University is launching an independent external review of the fatal shooting of prominent conservative activist Charlie Kirk on its campus earlier this month.\"",
           "related_claims": [
-            "C-3467",
-            "C-3468",
-            "C-3489"
+            "C-13186",
+            "C-13187",
+            "C-13190"
           ],
           "related_nodes": [
             "N-10833"
@@ -90,8 +90,8 @@
           "ref": "A-2386.1",
           "description": "Clip – Brian Harpole reading security team credentials on the Shawn Ryan show (Blake, combat-proven Marine; SEALs; world-renowned jiu-jitsu people; 22 years SWAT; 30-year cop and SWAT commander; 20-year Marine; professional athletes with tactical careers)",
           "related_claims": [
-            "C-3469",
-            "C-3470"
+            "C-13194",
+            "C-13189"
           ],
           "related_nodes": [
             "N-1"
@@ -117,9 +117,9 @@
           "ref": "A-2387.1",
           "description": "Text message exchange between Dan Flood and UVU Chief Jeffrey Long regarding Sorenson Student Center roof access",
           "related_claims": [
-            "C-3471",
-            "C-3472",
-            "C-3473"
+            "C-13229",
+            "C-13235",
+            "C-13233"
           ],
           "related_nodes": [
             "N-10835"
@@ -145,7 +145,7 @@
           "ref": "A-2388.1",
           "description": "Still image showing Sorensen Center staircase leading to walkway above Charlie Kirk's seating position",
           "related_claims": [
-            "C-3471"
+            "C-13229"
           ],
           "related_nodes": [],
           "tags": [],
@@ -169,11 +169,11 @@
           "ref": "A-2389.1",
           "description": "Bodycam footage dated May 31, 2022 – Tyler Robinson traffic-stop interaction, St. George Police Department",
           "related_claims": [
-            "C-3478",
-            "C-3479",
-            "C-3480",
-            "C-3483",
-            "C-3484"
+            "C-13248",
+            "C-13250",
+            "C-13263",
+            "C-13259",
+            "C-13260"
           ],
           "related_nodes": [
             "N-10834",
@@ -192,7 +192,7 @@
           "ref": "A-2389.2",
           "description": "Scripps News headline – \"Scripps News obtains video of accused Charlie Kirk shooter after the 2022 car crash\"",
           "related_claims": [
-            "C-3480"
+            "C-13263"
           ],
           "related_nodes": [
             "N-10834",
@@ -219,7 +219,7 @@
           "ref": "A-2390.1",
           "description": "Sky News / NY Post article – Tyler Robinson described as wearing \"an eerily similar hat and sunglasses\" as in the 2022 footage",
           "related_claims": [
-            "C-3480"
+            "C-13263"
           ],
           "related_nodes": [],
           "tags": [],
@@ -243,8 +243,8 @@
           "ref": "A-2391.1",
           "description": "Bio information – Jim Spencer, founder of Scripps News (formerly Newsy, founded 2022), teaches digital media and journalism at UT Austin since 2018",
           "related_claims": [
-            "C-3481",
-            "C-3482"
+            "C-13264",
+            "C-13265"
           ],
           "related_nodes": [
             "N-10834"
@@ -270,8 +270,8 @@
           "ref": "A-2392.1",
           "description": "Information regarding Nelda Buckman's 2022 donation of a 2,300 sq ft building – Buckman Center – to UT Austin for mixed media and artists",
           "related_claims": [
-            "C-3485",
-            "C-3486"
+            "C-13217",
+            "C-13218"
           ],
           "related_nodes": [],
           "tags": [],
@@ -295,7 +295,7 @@
           "ref": "A-3356.1",
           "description": "Host verbal reference to the tip email address (verbal call for tips on the 2022 bodycam source)",
           "related_claims": [
-            "C-15044"
+            "C-13273"
           ],
           "related_nodes": [
             "N-3"
@@ -320,7 +320,7 @@
           "ref": "A-3357.1",
           "description": "Host verbal reference to a tips email address (verbal call for tips from Scripps or St. George insiders)",
           "related_claims": [
-            "C-15045"
+            "C-13274"
           ],
           "related_nodes": [
             "N-3"
@@ -345,7 +345,7 @@
           "ref": "A-3358.1",
           "description": "Still image shown by the host of Richard Bracie on the rooftop",
           "related_claims": [
-            "C-15017"
+            "C-13238"
           ],
           "related_nodes": [
             "N-3"
@@ -375,9 +375,9 @@
         "A-2388.1"
       ],
       "related_claims": [
-        "C-3466",
-        "C-3470",
-        "C-3490"
+        "C-13181",
+        "C-13189",
+        "C-13210"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -397,8 +397,8 @@
         "A-2385.1"
       ],
       "related_claims": [
-        "C-3466",
-        "C-3489"
+        "C-13181",
+        "C-13190"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -423,12 +423,12 @@
         "A-2391.1"
       ],
       "related_claims": [
-        "C-3478",
-        "C-3479",
-        "C-3480",
-        "C-3481",
-        "C-3482",
-        "C-3483"
+        "C-13248",
+        "C-13250",
+        "C-13263",
+        "C-13264",
+        "C-13265",
+        "C-13259"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -448,9 +448,9 @@
         "A-2387.1"
       ],
       "related_claims": [
-        "C-3471",
-        "C-3472",
-        "C-3473"
+        "C-13229",
+        "C-13235",
+        "C-13233"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -469,12 +469,12 @@
         "A-2384.1"
       ],
       "related_claims": [
-        "C-3474",
-        "C-3475",
-        "C-3476",
-        "C-3477",
-        "C-3485",
-        "C-3486"
+        "C-13212",
+        "C-13213",
+        "C-13214",
+        "C-13215",
+        "C-13217",
+        "C-13218"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -493,8 +493,8 @@
         "A-2389.1"
       ],
       "related_claims": [
-        "C-3487",
-        "C-3488"
+        "C-13204",
+        "C-13220"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -513,8 +513,8 @@
         "A-2384.1"
       ],
       "related_claims": [
-        "C-3492",
-        "C-3493"
+        "C-13226",
+        "C-13241"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -536,8 +536,8 @@
         "A-2385.1"
       ],
       "related_claims": [
-        "C-3467",
-        "C-3489"
+        "C-13186",
+        "C-13190"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -557,90 +557,90 @@
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14979",
-        "C-14980",
-        "C-14981",
-        "C-14982",
-        "C-14983",
-        "C-14984",
-        "C-14985",
-        "C-14986",
-        "C-14987",
-        "C-14988",
-        "C-14989",
-        "C-14990",
-        "C-14991",
-        "C-14992",
-        "C-14993",
-        "C-14994",
-        "C-14995",
-        "C-14996",
-        "C-14997",
-        "C-14998",
-        "C-14999",
-        "C-15000",
-        "C-15001",
-        "C-15002",
-        "C-15003",
-        "C-15004",
-        "C-15005",
-        "C-15006",
-        "C-15007",
-        "C-15008",
-        "C-15009",
-        "C-15010",
-        "C-15011",
-        "C-15012",
-        "C-15013",
-        "C-15014",
-        "C-15015",
-        "C-15016",
-        "C-15017",
-        "C-15018",
-        "C-15019",
-        "C-15020",
-        "C-15021",
-        "C-15022",
-        "C-15023",
-        "C-15024",
-        "C-15025",
-        "C-15026",
-        "C-15027",
-        "C-15028",
-        "C-15029",
-        "C-15030",
-        "C-15031",
-        "C-15032",
-        "C-15033",
-        "C-15034",
-        "C-15035",
-        "C-15036",
-        "C-15037",
-        "C-15038",
-        "C-15039",
-        "C-15040",
-        "C-15041",
-        "C-15042",
-        "C-15043",
-        "C-15044",
-        "C-15045",
-        "C-15046",
-        "C-15047",
-        "C-15048",
-        "C-15049",
-        "C-15050",
-        "C-15051",
-        "C-15052",
-        "C-15053",
-        "C-15054",
-        "C-15055",
-        "C-15056",
-        "C-15057",
-        "C-15058",
-        "C-15059",
-        "C-15060",
-        "C-15061",
-        "C-15062"
+        "C-13180",
+        "C-13182",
+        "C-13183",
+        "C-13184",
+        "C-13185",
+        "C-13188",
+        "C-13191",
+        "C-13192",
+        "C-13193",
+        "C-13195",
+        "C-13196",
+        "C-13197",
+        "C-13198",
+        "C-13199",
+        "C-13200",
+        "C-13201",
+        "C-13202",
+        "C-13203",
+        "C-13205",
+        "C-13206",
+        "C-13207",
+        "C-13208",
+        "C-13209",
+        "C-13211",
+        "C-13216",
+        "C-13219",
+        "C-13221",
+        "C-13222",
+        "C-13223",
+        "C-13225",
+        "C-13227",
+        "C-13228",
+        "C-13230",
+        "C-13231",
+        "C-13232",
+        "C-13234",
+        "C-13236",
+        "C-13237",
+        "C-13238",
+        "C-13239",
+        "C-13240",
+        "C-13242",
+        "C-13243",
+        "C-13244",
+        "C-13245",
+        "C-13246",
+        "C-13247",
+        "C-13249",
+        "C-13251",
+        "C-13252",
+        "C-13253",
+        "C-13254",
+        "C-13255",
+        "C-13256",
+        "C-13257",
+        "C-13258",
+        "C-13261",
+        "C-13262",
+        "C-13266",
+        "C-13267",
+        "C-13268",
+        "C-13269",
+        "C-13270",
+        "C-13271",
+        "C-13272",
+        "C-13273",
+        "C-13274",
+        "C-13275",
+        "C-13276",
+        "C-13277",
+        "C-13278",
+        "C-13279",
+        "C-13280",
+        "C-13281",
+        "C-13282",
+        "C-13283",
+        "C-13284",
+        "C-13285",
+        "C-13286",
+        "C-13287",
+        "C-13288",
+        "C-13289",
+        "C-13290",
+        "C-13291"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -658,7 +658,7 @@
       "description": "TPUSA senior field representative. The UVU independent review names her as directing the courtyard and fountain booking.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3487"
+        "C-13204"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -675,17 +675,17 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15024",
-        "C-15025",
-        "C-15026",
-        "C-15030",
-        "C-15031",
-        "C-15034",
-        "C-15036",
-        "C-15041",
-        "C-15042",
-        "C-15043",
-        "C-15046"
+        "C-13246",
+        "C-13247",
+        "C-13249",
+        "C-13254",
+        "C-13255",
+        "C-13258",
+        "C-13262",
+        "C-13270",
+        "C-13271",
+        "C-13272",
+        "C-13275"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -703,8 +703,8 @@
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15010",
-        "C-15012"
+        "C-13228",
+        "C-13231"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -722,9 +722,9 @@
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15010",
-        "C-15012",
-        "C-15014"
+        "C-13228",
+        "C-13231",
+        "C-13234"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -742,10 +742,10 @@
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
       "related_artifacts": [],
       "related_claims": [
-        "C-15010",
-        "C-15011",
-        "C-15016",
-        "C-15023"
+        "C-13228",
+        "C-13230",
+        "C-13237",
+        "C-13245"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -763,13 +763,13 @@
       "description": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14996",
-        "C-15003",
-        "C-15010",
-        "C-15011",
-        "C-15015",
-        "C-15018",
-        "C-15019"
+        "C-13203",
+        "C-13216",
+        "C-13228",
+        "C-13230",
+        "C-13236",
+        "C-13239",
+        "C-13240"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -787,22 +787,22 @@
       "description": "Turning Point USA; subject of the notice and the PR-strike thesis.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14979",
-        "C-14983",
-        "C-14984",
-        "C-14985",
-        "C-14988",
-        "C-14992",
-        "C-14993",
-        "C-14994",
-        "C-14995",
-        "C-15000",
-        "C-15002",
-        "C-15008",
-        "C-15009",
-        "C-15020",
-        "C-15023",
-        "C-15037"
+        "C-13180",
+        "C-13185",
+        "C-13188",
+        "C-13191",
+        "C-13195",
+        "C-13199",
+        "C-13200",
+        "C-13201",
+        "C-13202",
+        "C-13208",
+        "C-13211",
+        "C-13225",
+        "C-13227",
+        "C-13242",
+        "C-13245",
+        "C-13266"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -819,15 +819,15 @@
       "description": "Utah Valley University; defendant in the notice.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14990",
-        "C-14992",
-        "C-14993",
-        "C-14994",
-        "C-14995",
-        "C-14996",
-        "C-14997",
-        "C-15002",
-        "C-15005"
+        "C-13197",
+        "C-13199",
+        "C-13200",
+        "C-13201",
+        "C-13202",
+        "C-13203",
+        "C-13205",
+        "C-13211",
+        "C-13221"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -844,7 +844,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15010"
+        "C-13228"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -861,7 +861,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15041"
+        "C-13270"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -878,7 +878,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15001"
+        "C-13209"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -895,7 +895,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14988"
+        "C-13195"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -912,7 +912,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15010"
+        "C-13228"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -929,9 +929,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15037",
-        "C-15038",
-        "C-15039"
+        "C-13266",
+        "C-13267",
+        "C-13268"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -948,21 +948,21 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14986",
-        "C-14987",
-        "C-14990",
-        "C-14991",
-        "C-14996",
-        "C-15002",
-        "C-15011",
-        "C-15012",
-        "C-15013",
-        "C-15014",
-        "C-15015",
-        "C-15016",
-        "C-15017",
-        "C-15018",
-        "C-15019"
+        "C-13192",
+        "C-13193",
+        "C-13197",
+        "C-13198",
+        "C-13203",
+        "C-13211",
+        "C-13230",
+        "C-13231",
+        "C-13232",
+        "C-13234",
+        "C-13236",
+        "C-13237",
+        "C-13238",
+        "C-13239",
+        "C-13240"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -979,10 +979,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15006",
-        "C-15007",
-        "C-15008",
-        "C-15021"
+        "C-13222",
+        "C-13223",
+        "C-13225",
+        "C-13243"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -999,13 +999,13 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15024",
-        "C-15025",
-        "C-15033",
-        "C-15040",
-        "C-15041",
-        "C-15042",
-        "C-15043"
+        "C-13246",
+        "C-13247",
+        "C-13257",
+        "C-13269",
+        "C-13270",
+        "C-13271",
+        "C-13272"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1022,8 +1022,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15059",
-        "C-15060"
+        "C-13288",
+        "C-13289"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1040,9 +1040,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15011",
-        "C-15012",
-        "C-15013"
+        "C-13230",
+        "C-13231",
+        "C-13232"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1059,8 +1059,8 @@
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15060",
-        "C-15061"
+        "C-13289",
+        "C-13290"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1077,8 +1077,8 @@
       "description": "Existing organization reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14980",
-        "C-15051"
+        "C-13182",
+        "C-13280"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1095,10 +1095,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15052",
-        "C-15053",
-        "C-15054",
-        "C-15055"
+        "C-13281",
+        "C-13282",
+        "C-13283",
+        "C-13284"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1115,7 +1115,7 @@
       "description": "Mike Mitchell; the host asks whether he mentored Robinson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15046"
+        "C-13275"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1132,8 +1132,8 @@
       "description": "John Mappin; praised by the host as a loyal friend.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15049",
-        "C-15050"
+        "C-13278",
+        "C-13279"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1150,8 +1150,8 @@
       "description": "Irina Mappin; named with John Mappin as a loyal friend.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15049",
-        "C-15050"
+        "C-13278",
+        "C-13279"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1168,7 +1168,7 @@
       "description": "Andrew Wilson; the host says he missed the state's evidence.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15054"
+        "C-13283"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1185,23 +1185,23 @@
       "description": "Widow and TPUSA CEO; the host discusses her role in the wrongful death notice and her shifting stance on Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14981",
-        "C-14982",
-        "C-14996",
-        "C-15003",
-        "C-15010",
-        "C-15011",
-        "C-15012",
-        "C-15014",
-        "C-15015",
-        "C-15016",
-        "C-15018",
-        "C-15019",
-        "C-15023",
-        "C-15056",
-        "C-15057",
-        "C-15059",
-        "C-15060"
+        "C-13183",
+        "C-13184",
+        "C-13203",
+        "C-13216",
+        "C-13228",
+        "C-13230",
+        "C-13231",
+        "C-13234",
+        "C-13236",
+        "C-13237",
+        "C-13239",
+        "C-13240",
+        "C-13245",
+        "C-13285",
+        "C-13286",
+        "C-13288",
+        "C-13289"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1218,7 +1218,7 @@
       "description": "Ana Kasparian; the host says she appeared on her show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15056"
+        "C-13285"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1235,9 +1235,9 @@
       "description": "Tucker Carlson; the host recalls Erika at his house in May 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15010",
-        "C-15012",
-        "C-15059"
+        "C-13228",
+        "C-13231",
+        "C-13288"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1254,7 +1254,7 @@
       "description": "Terryl Farnsworth; the host's 'Tricky Terryl'.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15057"
+        "C-13286"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1271,10 +1271,10 @@
       "description": "Baron Coleman; will substitute-host the host's show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15052",
-        "C-15053",
-        "C-15054",
-        "C-15057"
+        "C-13281",
+        "C-13282",
+        "C-13283",
+        "C-13286"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1291,7 +1291,7 @@
       "description": "Pope Leo XIV; named in the Vatican-China ad read.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15022"
+        "C-13244"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1308,10 +1308,10 @@
       "description": "Nelda Buckman; TPUSA's top donor, UT Austin donor.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15037",
-        "C-15038",
-        "C-15039",
-        "C-15040"
+        "C-13266",
+        "C-13267",
+        "C-13268",
+        "C-13269"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1328,7 +1328,7 @@
       "description": "Max Blumenthal; the host says he revealed the fellowship contract.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15061"
+        "C-13290"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1345,7 +1345,7 @@
       "description": "Officer Christopher Bagley; sent to monitor the rooftop.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15015"
+        "C-13236"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1362,7 +1362,7 @@
       "description": "Laura Loomer; named in a personal anecdote about footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15028"
+        "C-13252"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1379,8 +1379,8 @@
       "description": "Astrid Tuminez; former UVU president who allegedly denied extra officers.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15003",
-        "C-15004"
+        "C-13216",
+        "C-13219"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1397,7 +1397,7 @@
       "description": "Macklemore; mentioned in the Sheeran comment reply.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15047"
+        "C-13276"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1414,7 +1414,7 @@
       "description": "Ed Sheeran; mentioned in the comment reply.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15047"
+        "C-13276"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1431,8 +1431,8 @@
       "description": "First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15024",
-        "C-15025"
+        "C-13246",
+        "C-13247"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1449,7 +1449,7 @@
       "description": "First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15040"
+        "C-13269"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1466,7 +1466,7 @@
       "description": "First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15062"
+        "C-13291"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1483,8 +1483,8 @@
       "description": "The host's theory that the release of the 2022 bodycam footage was planned to imprint a match with the UVU-campus footage, with an individual trained to mimic Robinson's gait, hat and sunglasses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-15042",
-        "C-15043"
+        "C-13271",
+        "C-13272"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1501,11 +1501,11 @@
       "description": "The dispute over who chose the UVU amphitheater, what UVU said about traffic control on the August 25 Teams call, and who controlled tickets.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14997",
-        "C-14998",
-        "C-14999",
-        "C-15000",
-        "C-15009"
+        "C-13205",
+        "C-13206",
+        "C-13207",
+        "C-13208",
+        "C-13227"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1517,8 +1517,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3466",
-      "ref": "C-3466",
+      "@id": "C-13181",
+      "ref": "C-13181",
       "label": "Notice of Claim Filed Against Utah, UVU PD, Chief Long, Tuminez, and Unknown Others",
       "claim": "The host says Charlie Kirk's family has filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently \"unknown\" involved in Charlie Kirk's death.",
       "anchored_artifacts": [
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3467",
-      "ref": "C-3467",
+      "@id": "C-13186",
+      "ref": "C-13186",
       "label": "Article the Host Reads Says UVU Launched Independent External Review September 22, 2025",
       "claim": "Per an Associated Press article the host shows, published September 22, 2025, Utah Valley University announced on Monday an independent external review of the fatal shooting of Charlie Kirk on its campus; the host remarks 'just 12 days after Charlie is hit.'",
       "anchored_artifacts": [
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3468",
-      "ref": "C-3468",
+      "@id": "C-13187",
+      "ref": "C-13187",
       "label": "Tuminez Quoted on Review Purpose",
       "claim": "Per the Associated Press article the host shows, Astrid Tuminez stated UVU \"will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education.\"",
       "anchored_artifacts": [
@@ -1576,8 +1576,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3469",
-      "ref": "C-3469",
+      "@id": "C-13194",
+      "ref": "C-13194",
       "label": "Clip Has Shawn Ryan Reading Harpole's Security Team Credentials",
       "claim": "In a clip from the Shawn Ryan show that the host plays, Shawn Ryan reads statements from Brian Harpole's team describing the security team as including a combat-proven Marine, SEALs, 22 years on SWAT, a 30-year cop and SWAT commander and world-renowned jiu-jitsu practitioners; the host says Harpole submitted these credentials to Ryan.",
       "anchored_artifacts": [
@@ -1594,8 +1594,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3470",
-      "ref": "C-3470",
+      "@id": "C-13189",
+      "ref": "C-13189",
       "label": "Host Says Charlie's Security Team Comprised 12 Members",
       "claim": "The host says Charlie Kirk had a total of 12 security members at the UVU event.",
       "anchored_artifacts": [
@@ -1611,8 +1611,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3471",
-      "ref": "C-3471",
+      "@id": "C-13229",
+      "ref": "C-13229",
       "label": "Text Message Identified Sorenson Staircase Roof Access",
       "claim": "Per the text message the host shows, Dan Flood told Chief Jeffrey Long that a student group said there is student roof access pretty close to where CK will be set up and that the Sorenson Student Center has a couple of staircases that go up to the walkways on the roof.",
       "anchored_artifacts": [
@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3472",
-      "ref": "C-3472",
+      "@id": "C-13235",
+      "ref": "C-13235",
       "label": "Chief Long Responded \"I got you covered\"",
       "claim": "Per the text message the host shows, Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message \"I got you covered.\"",
       "anchored_artifacts": [
@@ -1652,8 +1652,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3473",
-      "ref": "C-3473",
+      "@id": "C-13233",
+      "ref": "C-13233",
       "label": "Notice of Claim Omits \"I was told students have access above us\" Line",
       "claim": "The host says the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line \"I was told students have access above us,\" which she says narrows the rooftop reference to the specific walkway above Charlie's head.",
       "anchored_artifacts": [
@@ -1674,8 +1674,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3474",
-      "ref": "C-3474",
+      "@id": "C-13212",
+      "ref": "C-13212",
       "label": "Notice of Claim Alleges Six Officers Assigned to Outdoor Event",
       "claim": "The notice of claim alleges UVU assigned only six campus police officers to the outdoor tour event that ultimately attracted approximately 3,000 attendees.",
       "anchored_artifacts": [
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3475",
-      "ref": "C-3475",
+      "@id": "C-13213",
+      "ref": "C-13213",
       "label": "Notice of Claim Cites Approximately 3,000 Attendees",
       "claim": "The notice of claim states the UVU event attracted approximately 3,000 attendees.",
       "anchored_artifacts": [
@@ -1706,8 +1706,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3476",
-      "ref": "C-3476",
+      "@id": "C-13214",
+      "ref": "C-13214",
       "label": "Notice of Claim Alleges Long Requested Additional Officers",
       "claim": "The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.",
       "anchored_artifacts": [
@@ -1726,8 +1726,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3477",
-      "ref": "C-3477",
+      "@id": "C-13215",
+      "ref": "C-13215",
       "label": "Notice of Claim Alleges Request for Additional Officers Denied",
       "claim": "The notice of claim alleges that the request for additional officers was denied.",
       "anchored_artifacts": [
@@ -1742,8 +1742,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3478",
-      "ref": "C-3478",
+      "@id": "C-13248",
+      "ref": "C-13248",
       "label": "Host Says Bodycam Footage Was Released Seven Days After Suspect Identification",
       "claim": "The host says the 2022 bodycam footage of Tyler Robinson was released seven days after the public found out Tyler Robinson was the suspect.",
       "anchored_artifacts": [
@@ -1762,8 +1762,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3479",
-      "ref": "C-3479",
+      "@id": "C-13250",
+      "ref": "C-13250",
       "label": "Host Says Bodycam Footage Is Dated May 31, 2022",
       "claim": "The host says the bodycam footage of Tyler Robinson is dated May 31, 2022, approximately three and a half years before it was released.",
       "anchored_artifacts": [
@@ -1782,8 +1782,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3480",
-      "ref": "C-3480",
+      "@id": "C-13263",
+      "ref": "C-13263",
       "label": "Bodycam Footage Released by Scripps News",
       "claim": "The host says the 2022 bodycam footage was released by Scripps News and shows the headline \"Scripps News obtains video of accused Charlie Kirk shooter after 2022 car crash.\"",
       "anchored_artifacts": [
@@ -1802,8 +1802,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3481",
-      "ref": "C-3481",
+      "@id": "C-13264",
+      "ref": "C-13264",
       "label": "Host Says Scripps News Was Founded in 2022 by Jim Spencer",
       "claim": "The host says Scripps News, formerly Newsy, became a thing in 2022, the same year as the incident, and that its founder is a man named Jim Spencer.",
       "anchored_artifacts": [
@@ -1821,8 +1821,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3482",
-      "ref": "C-3482",
+      "@id": "C-13265",
+      "ref": "C-13265",
       "label": "Host Says Jim Spencer Has Taught Digital Media at UT Austin Since 2018",
       "claim": "The host says Jim Spencer teaches digital media and journalism at UT Austin and has done so since 2018, citing his bio on the site.",
       "anchored_artifacts": [
@@ -1840,8 +1840,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3483",
-      "ref": "C-3483",
+      "@id": "C-13259",
+      "ref": "C-13259",
       "label": "Host Says Bodycam Footage Was Recorded by St. George Police Department",
       "claim": "The host says the May 31, 2022 bodycam footage was recorded by an officer in the St. George Police Department.",
       "anchored_artifacts": [
@@ -1857,8 +1857,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3484",
-      "ref": "C-3484",
+      "@id": "C-13260",
+      "ref": "C-13260",
       "label": "Host Says Tyler Robinson Was 19 at Time of 2022 Incident",
       "claim": "The host says Tyler Robinson was 19 years old at the time of the 2022 traffic incident.",
       "anchored_artifacts": [
@@ -1876,8 +1876,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3485",
-      "ref": "C-3485",
+      "@id": "C-13217",
+      "ref": "C-13217",
       "label": "Host Says UVU Has Approximately 50,000 Students",
       "claim": "The host says UVU has a total of 50,000 students.",
       "anchored_artifacts": [],
@@ -1890,8 +1890,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3486",
-      "ref": "C-3486",
+      "@id": "C-13218",
+      "ref": "C-13218",
       "label": "Host Says UVU Has 24 Police Officers",
       "claim": "The host says UVU has a grand total of 24 police officers available to cover its campus.",
       "anchored_artifacts": [],
@@ -1904,8 +1904,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3487",
-      "ref": "C-3487",
+      "@id": "C-13204",
+      "ref": "C-13204",
       "label": "Host Says Event Was Scheduled at Amphitheater After Maycee Crofts Demand on August 25, 2025",
       "claim": "The host says she is told that on August 25, 2025, TPUSA events committee employee Maycee Crofts insisted during a Microsoft Teams call that the event be held in the amphitheater, and that UVU acquiesced; she says this is not in the filing.",
       "anchored_artifacts": [
@@ -1922,8 +1922,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3488",
-      "ref": "C-3488",
+      "@id": "C-13220",
+      "ref": "C-13220",
       "label": "Host Says UVU EMS Was on Scene with First Responders",
       "claim": "The host says UVU's state-certified emergency medical services were present beside the vehicle with medical bags in hand.",
       "anchored_artifacts": [],
@@ -1936,8 +1936,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3489",
-      "ref": "C-3489",
+      "@id": "C-13190",
+      "ref": "C-13190",
       "label": "Host Says UVU Independent Review Findings Were Expected Imminently",
       "claim": "The host says she was told the findings of UVU's independent external review of security failures were going to be released on Friday, though she does not know if that will now be bumped.",
       "anchored_artifacts": [
@@ -1953,8 +1953,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3490",
-      "ref": "C-3490",
+      "@id": "C-13210",
+      "ref": "C-13210",
       "label": "Host Says Charlie's Security Arrived at 9:00 AM Morning of Event",
       "claim": "The host says members of Charlie's security team first arrived on the UVU campus at 9:00 AM on the morning of September 10, 2025.",
       "anchored_artifacts": [],
@@ -1968,8 +1968,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3491",
-      "ref": "C-3491",
+      "@id": "C-13224",
+      "ref": "C-13224",
       "label": "Notice of Claim Alleges UVU Failed to Maintain Secure Perimeter",
       "claim": "The notice of claim alleges UVU parties could have created and maintained a secure perimeter with controlled ingress/egress points and security screenings.",
       "anchored_artifacts": [
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3492",
-      "ref": "C-3492",
+      "@id": "C-13226",
+      "ref": "C-13226",
       "label": "Notice of Claim Alleges UVU Could Have Restricted Attendee Numbers",
       "claim": "The notice of claim alleges UVU parties had the power and authority to impose attendee-number restrictions.",
       "anchored_artifacts": [
@@ -2000,8 +2000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3493",
-      "ref": "C-3493",
+      "@id": "C-13241",
+      "ref": "C-13241",
       "label": "Notice of Claim Concludes with State-Created Danger and Wrongful Death Claims",
       "claim": "The notice of claim concludes that \"the UVU party's omissions, actions and misconduct led to Mr. Kirk's death\" and asserts both a state-created danger claim under the U.S. Constitution's due process clause and a traditional wrongful death claim under Utah law.",
       "anchored_artifacts": [
@@ -2017,13 +2017,13 @@
         "N-1"
       ],
       "contradicts_claim_refs": [
-        "C-3494"
+        "C-13293"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-14979",
-      "ref": "C-14979",
+      "@id": "C-13180",
+      "ref": "C-13180",
       "label": "Host Says Wall-to-Wall Coverage and Influencers Are Spinning the Notice as a Widow's Fight",
       "claim": "The host says there is wall-to-wall coverage of the Kirk family's pending wrongful death suit against the state of Utah and others, and that TPUSA's usual orbit of influencers is spinning it as an aggrieved widow's fight for justice, which she calls another PR game.",
       "anchored_artifacts": [],
@@ -2043,8 +2043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14980",
-      "ref": "C-14980",
+      "@id": "C-13182",
+      "ref": "C-13182",
       "label": "Host Says the Notice of Claim Is a Mandatory Step Before Suing the Government",
       "claim": "The host says a notice of claim is a mandatory prerequisite for this kind of suit, giving the government a chance to concede or settle before litigation.",
       "anchored_artifacts": [],
@@ -2058,7 +2058,7 @@
       "investigative_direction": "Check the Utah Governmental Immunity Act notice requirements and the claim deadline.",
       "transcript_snippet": "It's it's a mandatory prerequisite for this kind of a lawsuit that you first have to assert your intent to sue the government",
       "supports_claim_refs": [
-        "C-3466"
+        "C-13181"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2066,8 +2066,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14981",
-      "ref": "C-14981",
+      "@id": "C-13183",
+      "ref": "C-13183",
       "label": "Host Says Charlie's Parents Urged Erika to Sue Utah Since About December",
       "claim": "The host says she has known since approximately last December that it was Charlie Kirk's parents who were encouraging Erika Kirk to file a wrongful death lawsuit against the state of Utah.",
       "anchored_artifacts": [],
@@ -2088,8 +2088,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14982",
-      "ref": "C-14982",
+      "@id": "C-13184",
+      "ref": "C-13184",
       "label": "Host Says Erika Was Not Keen to Sue When She Was Told in December",
       "claim": "The host says she was told at that time that suing was not something Erika herself was keen to do.",
       "anchored_artifacts": [],
@@ -2109,8 +2109,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14983",
-      "ref": "C-14983",
+      "@id": "C-13185",
+      "ref": "C-13185",
       "label": "Host Says TPUSA Pulled in a Quarter Billion Last Year",
       "claim": "The host says Charlie Kirk was CEO and chairman of an organization that pulled in a quarter billion last year.",
       "anchored_artifacts": [],
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14984",
-      "ref": "C-14984",
+      "@id": "C-13188",
+      "ref": "C-13188",
       "label": "Host Says the Independent Review Will Be Devastating to TPUSA's Security Apparatus",
       "claim": "The host says she was told the independent review's findings would be devastating to Turning Point USA and its security apparatus because the reviewers would have gathered communications.",
       "anchored_artifacts": [],
@@ -2146,7 +2146,7 @@
       "investigative_direction": "Obtain the review when released and compare its findings with the host's source.",
       "transcript_snippet": "and that the findings were actually going to be devastating to Turning Point USA to their security apparatus because obviously they would have been gathering communications.",
       "supports_claim_refs": [
-        "C-3489"
+        "C-13190"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2154,8 +2154,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14985",
-      "ref": "C-14985",
+      "@id": "C-13191",
+      "ref": "C-13191",
       "label": "Host Says the Filing Came Two Days Before the Review and Influencers Are Blaming the Campus",
       "claim": "The host says the notice came on Wednesday, two days before the review was due, and that TPUSA is drumming up noise with influencers blaming the campus for the security failures.",
       "anchored_artifacts": [],
@@ -2171,7 +2171,7 @@
       "investigative_direction": "Compare the date the review was actually released with the notice date.",
       "transcript_snippet": "Two days before the review gets released, suddenly Turning Point USA is drumming up noise and influencers are blaming the campus for the security failures.",
       "supports_claim_refs": [
-        "C-3489"
+        "C-13190"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2179,8 +2179,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14986",
-      "ref": "C-14986",
+      "@id": "C-13192",
+      "ref": "C-13192",
       "label": "Host Says She Never Saw 12 Security People Brought to a Campus Event With Charlie",
       "claim": "The host says that in all her time doing college campuses with Charlie she never saw 12 security people brought for a campus of this size.",
       "anchored_artifacts": [],
@@ -2194,7 +2194,7 @@
       "investigative_direction": "Compare with security staffing at earlier tour stops.",
       "transcript_snippet": "I've never seen this in the history of me doing college campuses with Charlie that 12 security people would have been brought with him for a campus of this size.",
       "supports_claim_refs": [
-        "C-3470"
+        "C-13189"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2203,8 +2203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14987",
-      "ref": "C-14987",
+      "@id": "C-13193",
+      "ref": "C-13193",
       "label": "Host Says Charlie's Security Were Not Police but Former SEALs, Marines, Army Snipers and SWAT Commanders",
       "claim": "The host says the security team members were not police officers but highly trained military: former Navy SEALs, Marines, Army snipers and SWAT commanders who worked at the highest levels of government.",
       "anchored_artifacts": [],
@@ -2218,7 +2218,7 @@
       "investigative_direction": "Verify the team roster and service records against the Harpole interview.",
       "transcript_snippet": "highly trained military, former Navy Seals, former Marines, Army snipers, SWAT commanders who worked for the highest levels of government.",
       "supports_claim_refs": [
-        "C-3469"
+        "C-13194"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2227,8 +2227,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14988",
-      "ref": "C-14988",
+      "@id": "C-13195",
+      "ref": "C-13195",
       "label": "Host Says She Brought Her Own Security Team to Every Tour Event After Working for TPUSA",
       "claim": "The host says she worked for Turning Point USA and, on every tour she went on thereafter, brought her own security team to each event.",
       "anchored_artifacts": [],
@@ -2248,8 +2248,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14989",
-      "ref": "C-14989",
+      "@id": "C-13196",
+      "ref": "C-13196",
       "label": "Host Says She Requested Bomb Dogs at a Recent Event",
       "claim": "The host says that at a recent event she asked the local police to supply bomb dogs, as an example of security liaising with local police.",
       "anchored_artifacts": [],
@@ -2266,8 +2266,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14990",
-      "ref": "C-14990",
+      "@id": "C-13197",
+      "ref": "C-13197",
       "label": "Host Says Local Police Respond With Limits and Security Must Source Its Own Resources or Cancel",
       "claim": "The host says that after security asks for items such as drones or a rooftop observer, local police come back with limitations, and the team must then source the items itself or decline to hold the event.",
       "anchored_artifacts": [],
@@ -2287,8 +2287,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14991",
-      "ref": "C-14991",
+      "@id": "C-13198",
+      "ref": "C-13198",
       "label": "Host Says Security Should Be Sent Days Ahead of an Event",
       "claim": "The host says a contracted security team would minimally be sent days ahead to make preparations and would not arrive blind to a campus.",
       "anchored_artifacts": [],
@@ -2302,7 +2302,7 @@
       "investigative_direction": "Obtain the security team's travel and site-visit records for September 2025.",
       "transcript_snippet": "Minimally, you would send them days ahead to make preparations, right?",
       "supports_claim_refs": [
-        "C-3490"
+        "C-13210"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2310,8 +2310,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14992",
-      "ref": "C-14992",
+      "@id": "C-13199",
+      "ref": "C-13199",
       "label": "Notice Says TPUSA Planned Its Largest Ever Campus Tour",
       "claim": "The host reads that the eight-page notice, in section B on page three, says Turning Point USA planned its largest ever campus tour in 2025, and she notes it avoids giving a precise date.",
       "anchored_artifacts": [
@@ -2333,8 +2333,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14993",
-      "ref": "C-14993",
+      "@id": "C-13200",
+      "ref": "C-13200",
       "label": "Host Recalls Saying Last Fall the Event Came Together in a Couple of Weeks",
       "claim": "The host recalls that she herself, as a former TPUSA speaker who had toured, said last fall that she had never seen an event planned like this, that it came together in a couple of weeks, and that planning normally begins about five months ahead.",
       "anchored_artifacts": [],
@@ -2349,7 +2349,7 @@
       "investigative_direction": "Identify the woman and compare UVU approval dates with a normal tour booking lead time.",
       "transcript_snippet": "I've never seen an event planned like this. This one came together in a couple of weeks.",
       "supports_claim_refs": [
-        "C-9721"
+        "C-2671"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2357,8 +2357,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14994",
-      "ref": "C-14994",
+      "@id": "C-13201",
+      "ref": "C-13201",
       "label": "Host Says UVU Granted This Event Immediately and Nobody Knows Who Filed for It",
       "claim": "The host says that despite the usual administrative resistance over insurance and ambulances, this event was granted immediately, and that it is not known who filed for it.",
       "anchored_artifacts": [],
@@ -2373,7 +2373,7 @@
       "investigative_direction": "Obtain the UVU event request, its filer and approval dates.",
       "transcript_snippet": "But this one granted immediately. We don't know who filed for it.",
       "supports_claim_refs": [
-        "C-9721"
+        "C-2671"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2381,8 +2381,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14995",
-      "ref": "C-14995",
+      "@id": "C-13202",
+      "ref": "C-13202",
       "label": "Notice Says Local Chapter Advocacy Made UVU the First Stop and Cites Known Risks",
       "claim": "The host reads that the notice says the local TPUSA chapter's advocacy gave UVU the honor of being the first stop on the fall tour against a well-known backdrop of risk, and paraphrases it as citing the Trump rooftop sniper incident as a risk UVU should have recognized.",
       "anchored_artifacts": [
@@ -2399,7 +2399,7 @@
       "investigative_direction": "Read the filed notice for the exact risk examples it cites.",
       "transcript_snippet": "didn't you know that President Trump uh there was a rooftop sniper?",
       "supports_claim_refs": [
-        "C-9513"
+        "C-2318"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2407,8 +2407,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14996",
-      "ref": "C-14996",
+      "@id": "C-13203",
+      "ref": "C-13203",
       "label": "Notice Says UVU Police Did Not Conduct a Risk Assessment or Hold a Security Briefing",
       "claim": "The host reads the first negligence point: UVU police did not conduct a meaningful risk assessment and UVU did not hold a security briefing at which rooftop risks, already communicated to Chief Long, could be passed to other officers.",
       "anchored_artifacts": [
@@ -2431,8 +2431,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14997",
-      "ref": "C-14997",
+      "@id": "C-13205",
+      "ref": "C-13205",
       "label": "Host Says UVU Told Crofts on the Teams Call There Would Be No Traffic Control at the Amphitheater",
       "claim": "The host says she is told that on the August 25 Teams call UVU said the event should not be in the amphitheater because there is no traffic control and that the university could not shut the amphitheater down, and that this is not in the filing.",
       "anchored_artifacts": [],
@@ -2447,8 +2447,8 @@
       "investigative_direction": "Recover the Teams call recording or notes and the attendee list.",
       "transcript_snippet": "So, you have UVU on the call and they say, \"No, you shouldn't do it in the amphitheater because there's no traffic control.\"",
       "supports_claim_refs": [
-        "C-5010",
-        "C-1676"
+        "C-3191",
+        "C-2669"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2457,8 +2457,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14998",
-      "ref": "C-14998",
+      "@id": "C-13206",
+      "ref": "C-13206",
       "label": "Host Says Charlie Loved the Amphitheater at a March 2025 Tennessee Event",
       "claim": "The host says the reason for the amphitheater demand was that Charlie had recently done an event in Tennessee in March 2025 where he loved the amphitheater.",
       "anchored_artifacts": [],
@@ -2472,7 +2472,7 @@
       "investigative_direction": "Identify the March 2025 Tennessee event and venue.",
       "transcript_snippet": "Charlie had recently done an event in Tennessee and he did, by the way, that's fact. In March of 2025 where he loved the amphitheater",
       "supports_claim_refs": [
-        "C-10984"
+        "C-3451"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2481,8 +2481,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14999",
-      "ref": "C-14999",
+      "@id": "C-13207",
+      "ref": "C-13207",
       "label": "Host Says the Notice Does Not Dispute That TPUSA Requested the Amphitheater",
       "claim": "The host says the notice does not suggest TPUSA did not request the amphitheater; it argues only that UVU gave TPUSA what it asked for.",
       "anchored_artifacts": [
@@ -2504,8 +2504,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15000",
-      "ref": "C-15000",
+      "@id": "C-13208",
+      "ref": "C-13208",
       "label": "Host Says TPUSA Went In Knowing There Would Be No Traffic Control Yet Sold Tickets",
       "claim": "The host says TPUSA went into the event knowing there would be no traffic control, and questions why it would run a ticketed event if anyone could walk up.",
       "anchored_artifacts": [],
@@ -2520,7 +2520,7 @@
       "investigative_direction": "Obtain the ticketing records and any TPUSA acknowledgement of the no-traffic-control warning.",
       "transcript_snippet": "they they went into this knowing that there would be no traffic control.",
       "supports_claim_refs": [
-        "C-5010"
+        "C-3191"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2528,8 +2528,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15001",
-      "ref": "C-15001",
+      "@id": "C-13209",
+      "ref": "C-13209",
       "label": "Host Says Charlie Told His Security Team the Night Before That He Feared Being Killed",
       "claim": "The host says Charlie notified his security team the night before the event that he was worried he was going to be killed.",
       "anchored_artifacts": [],
@@ -2543,7 +2543,7 @@
       "investigative_direction": "Obtain the night-before messages and the recipient list; the host elsewhere names Kolvet and Flood as recipients.",
       "transcript_snippet": "Charlie notified his security team the night before that he was worried that he was going to be killed.",
       "supports_claim_refs": [
-        "C-6825"
+        "C-4543"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2552,8 +2552,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15002",
-      "ref": "C-15002",
+      "@id": "C-13211",
+      "ref": "C-13211",
       "label": "Host Says Police Dealt Mostly With the TPUSA Student Club Until 9 a.m. on Event Day",
       "claim": "The host says that until security arrived at 9:00 a.m. the police were mostly in contact with the TPUSA campus club, which was managing everything.",
       "anchored_artifacts": [],
@@ -2569,7 +2569,7 @@
       "investigative_direction": "Obtain UVU PD correspondence with the campus club and with TPUSA staff before September 10.",
       "transcript_snippet": "the TPUSA club is managing everything until 9:00 a. m. that morning.",
       "supports_claim_refs": [
-        "C-3490"
+        "C-13210"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2577,8 +2577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15003",
-      "ref": "C-15003",
+      "@id": "C-13216",
+      "ref": "C-13216",
       "label": "Notice Says Six Officers Were Only 25 Percent of the UVU Police Force",
       "claim": "The host reads that the notice says Chief Long asked then-president Tuminez to allocate more than six officers, which were only 25 percent of the UVU police force, and the request was denied.",
       "anchored_artifacts": [
@@ -2594,7 +2594,7 @@
       "investigative_direction": "Obtain the UVU PD roster and the Long-Tuminez exchange.",
       "transcript_snippet": "which represented only 25% of the UVU police force. But this request was denied.",
       "supports_claim_refs": [
-        "C-3477"
+        "C-13215"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2604,8 +2604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15004",
-      "ref": "C-15004",
+      "@id": "C-13219",
+      "ref": "C-13219",
       "label": "Host Argues Six Officers Was an Oversupply Relative to 50,000 Students and 24 Officers",
       "claim": "The host says that on 24 officers and 50,000 students, six officers would cover 12,500 students, so the event was oversupplied and denying more protected the other roughly 47,000 students.",
       "anchored_artifacts": [
@@ -2621,8 +2621,8 @@
       "investigative_direction": "Verify enrollment and sworn officer count and whether other officers were on duty elsewhere.",
       "transcript_snippet": "So worked out as an equation, six police officers would have covered 12,500 students based on their availability",
       "supports_claim_refs": [
-        "C-3485",
-        "C-3486"
+        "C-13217",
+        "C-13218"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2631,8 +2631,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15005",
-      "ref": "C-15005",
+      "@id": "C-13221",
+      "ref": "C-13221",
       "label": "Host Says Many Attendees Were Adults, Not Students",
       "claim": "The host says that, from the crowd, the people at the event were not even students and that there were so many adults, which she found bizarre.",
       "anchored_artifacts": [],
@@ -2651,8 +2651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15006",
-      "ref": "C-15006",
+      "@id": "C-13222",
+      "ref": "C-13222",
       "label": "Notice Says No First Responders Were Made Available; Host Says That Is Untrue",
       "claim": "The host says the notice alleges no first responders were made available and that this is not true.",
       "anchored_artifacts": [
@@ -2673,8 +2673,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15007",
-      "ref": "C-15007",
+      "@id": "C-13223",
+      "ref": "C-13223",
       "label": "Host Says UVU EMS Followed Charlie to the Car but Security Drove Off Instead",
       "claim": "The host says UVU's state-certified EMS followed Charlie to the car with medical bags, and that Charlie's team chose to get in the vehicle and move on rather than have him treated and stabilized on the spot.",
       "anchored_artifacts": [],
@@ -2689,7 +2689,7 @@
       "investigative_direction": "Review scene video and EMS reports for contact between EMS and the vehicle.",
       "transcript_snippet": "Charlie's team chose to get into the vehicle and to move on rather than to have him treated and stabilized uh right there",
       "supports_claim_refs": [
-        "C-3488"
+        "C-13220"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2698,8 +2698,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15008",
-      "ref": "C-15008",
+      "@id": "C-13225",
+      "ref": "C-13225",
       "label": "Host Says TPUSA Was Given the Address and Security Protocols and Told an Ambulance Was on Standby",
       "claim": "The host says, \"Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that,\" and that TPUSA is now saying UVU did not do it, washing its hands of something she knows they have always done.",
       "anchored_artifacts": [],
@@ -2719,8 +2719,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15009",
-      "ref": "C-15009",
+      "@id": "C-13227",
+      "ref": "C-13227",
       "label": "Host Says TPUSA Controlled the Tickets",
       "claim": "The host says Turning Point USA was the party that controlled the tickets, rebutting the notice's claim that UVU could have restricted attendee numbers.",
       "anchored_artifacts": [
@@ -2737,7 +2737,7 @@
       "investigative_direction": "Obtain ticket platform records and the ticketing agreement.",
       "transcript_snippet": "Turning Point USA are the ones that controlled the tickets.",
       "contradicts_claim_refs": [
-        "C-3492"
+        "C-13226"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2745,8 +2745,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15010",
-      "ref": "C-15010",
+      "@id": "C-13228",
+      "ref": "C-13228",
       "label": "Host Says Harpole Misrepresented the Flood-Long Text Thread as His Own",
       "claim": "The host says Brian Harpole misrepresented on the Shawn Ryan show the text exchange between Dan Flood and Chief Long as his own, though he was not on the thread.",
       "anchored_artifacts": [
@@ -2763,8 +2763,8 @@
       "investigative_direction": "Compare the Shawn Ryan transcript with the thread participants.",
       "transcript_snippet": "This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan",
       "supports_claim_refs": [
-        "C-1762",
-        "C-2821"
+        "C-3214",
+        "C-8674"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2776,8 +2776,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15011",
-      "ref": "C-15011",
+      "@id": "C-13230",
+      "ref": "C-13230",
       "label": "Host Says the Thread Asked for Either Controlled Access or One of TPUSA's Guys on the Roof",
       "claim": "The host says the thread asks for either controlled access to the roof walkways or permission for one of TPUSA's security to be there, and describes it as an either-or request.",
       "anchored_artifacts": [
@@ -2794,7 +2794,7 @@
       "investigative_direction": "Obtain the original thread with metadata.",
       "transcript_snippet": "it would be nice to either have it controlled access or allow one of my guys to be there as well if possible.",
       "supports_claim_refs": [
-        "C-1763"
+        "C-3215"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2804,8 +2804,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15012",
-      "ref": "C-15012",
+      "@id": "C-13231",
+      "ref": "C-13231",
       "label": "Host Says Her Outlet Broke in November That the Thread Referred to the Walkway Above Charlie",
       "claim": "The host says her outlet reported in November, after Harpole's Shawn Ryan appearance, that the thread referred to the walkway above Charlie's head, reachable by a staircase from the lower level of Sorenson.",
       "anchored_artifacts": [
@@ -2822,7 +2822,7 @@
       "investigative_direction": "Locate the November 2025 episode and compare the map with the campus layout.",
       "transcript_snippet": "So, we broke a story back in November following Brian Harpole's appearance in Shawn Ryan that this message thread is specifically referring to, as it sounds, the walkway above Charlie's head.",
       "supports_claim_refs": [
-        "C-6695"
+        "C-3997"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2832,8 +2832,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15013",
-      "ref": "C-15013",
+      "@id": "C-13232",
+      "ref": "C-13232",
       "label": "Host Says the Concern Was People Throwing Things Down From the Hall of Flags Roof",
       "claim": "The host says those on the text thread were worried students walking up the stairs and over Charlie's head could throw things such as water bottles down on him, and that the roof is the Hall of Flags roof, beneath which Charlie sat.",
       "anchored_artifacts": [
@@ -2850,8 +2850,8 @@
       "investigative_direction": "Ask Flood and Long what concern prompted the thread.",
       "transcript_snippet": "that you could have an incident where uh someone's throwing water bottles, throwing water on Charlie.",
       "supports_claim_refs": [
-        "C-5036",
-        "C-6593"
+        "C-3219",
+        "C-2313"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2860,8 +2860,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15014",
-      "ref": "C-15014",
+      "@id": "C-13234",
+      "ref": "C-13234",
       "label": "Host Says the Text Concerned the Area Above Harpole's Group, Not the Losee Center or Other Rooftops",
       "claim": "The host says that with the omitted line restored the text clearly concerns a specific area right above Charlie's team and has nothing to do with the Losee Center or any other rooftop.",
       "anchored_artifacts": [
@@ -2878,7 +2878,7 @@
       "investigative_direction": "Verify the roof geometry between Sorenson, the Hall of Flags and the Losee Center.",
       "transcript_snippet": "has nothing to do with the Losee Center or any other rooftop, but rather an area right above you guys",
       "supports_claim_refs": [
-        "C-3473"
+        "C-13233"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2887,8 +2887,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15015",
-      "ref": "C-15015",
+      "@id": "C-13236",
+      "ref": "C-13236",
       "label": "Host Says Officer Bagley Was Sent to Monitor the Rooftop Traffic",
       "claim": "The host says Officer Bagley was sent to monitor the rooftop traffic control, one of the two things Flood asked for, and so Chief Long did have them covered.",
       "anchored_artifacts": [],
@@ -2902,11 +2902,11 @@
       "investigative_direction": "Obtain UVU PD assignment logs for Bagley on September 10.",
       "transcript_snippet": "Officer Bagley was sent to monitor the rooftop traffic control.",
       "contradicts_claim_refs": [
-        "C-15019"
+        "C-13240"
       ],
       "supports_claim_refs": [
-        "C-3472",
-        "C-10521"
+        "C-13235",
+        "C-13095"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2917,8 +2917,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15016",
-      "ref": "C-15016",
+      "@id": "C-13237",
+      "ref": "C-13237",
       "label": "Host Says Members of Charlie's Security Team Were Also Allowed on the Roof",
       "claim": "The host says members of Charlie's own security team were allowed on the roof as well, so both options in Flood's request were met.",
       "anchored_artifacts": [],
@@ -2932,7 +2932,7 @@
       "investigative_direction": "Obtain roof access logs and names of the security members on the roof.",
       "transcript_snippet": "And additionally, members of Charlie's security team were allowed up there as well.",
       "contradicts_claim_refs": [
-        "C-15019"
+        "C-13240"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2942,8 +2942,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15017",
-      "ref": "C-15017",
+      "@id": "C-13238",
+      "ref": "C-13238",
       "label": "Host Says a Still Shows Richard Bracie on the Rooftop and Moving Right After the Shot",
       "claim": "The host says a still shows a security team member she names Richard Bracie on the rooftop and that, right after the explosive goes off, he moves across, having already been given access.",
       "anchored_artifacts": [
@@ -2964,8 +2964,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15018",
-      "ref": "C-15018",
+      "@id": "C-13239",
+      "ref": "C-13239",
       "label": "Notice Says Long's Text Led TPUSA to Believe UVU Had a Plan for Rooftop Risks",
       "claim": "The host reads the notice as saying Chief Long's 'got you covered' led TPUSA to reasonably conclude UVU had a plan to address the identified risk and similar risks.",
       "anchored_artifacts": [
@@ -2982,7 +2982,7 @@
       "investigative_direction": "Read page six of the filed notice.",
       "transcript_snippet": "led TPUSA to reasonably conclude that UVU had a plan to address the identified risk and other similar risks",
       "supports_claim_refs": [
-        "C-3472"
+        "C-13235"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2991,8 +2991,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15019",
-      "ref": "C-15019",
+      "@id": "C-13240",
+      "ref": "C-13240",
       "label": "Notice Says Long's Text Did Not Let TPUSA Take Steps to Secure Rooftops",
       "claim": "The host reads the notice as saying Chief Long's text did not invite or even allow Turning Point USA to take any steps to secure the risk of unsecured rooftops.",
       "anchored_artifacts": [
@@ -3015,8 +3015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15020",
-      "ref": "C-15020",
+      "@id": "C-13242",
+      "ref": "C-13242",
       "label": "Host Says the Filing Is a Preemptive PR Strike Ahead of a Damaging Review",
       "claim": "The host says she maintains the notice is a preemptive PR strike to distract the public from what she is told will be a devastating blow to TPUSA's shortcomings.",
       "anchored_artifacts": [],
@@ -3032,8 +3032,8 @@
       "investigative_direction": "Compare the review's findings and release date with the notice date.",
       "transcript_snippet": "I maintain my position that this is a preemptive PR strike meant to distract the public from what I am told is going to be a devastating blow",
       "supports_claim_refs": [
-        "C-14984",
-        "C-14985"
+        "C-13188",
+        "C-13191"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3041,8 +3041,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15021",
-      "ref": "C-15021",
+      "@id": "C-13243",
+      "ref": "C-13243",
       "label": "Host Says She Hopes the Review Explains Why No Ambulance Was on Standby",
       "claim": "The host says the review may answer why there was no ambulance on standby and may show fuller communications with the team.",
       "anchored_artifacts": [],
@@ -3062,8 +3062,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15022",
-      "ref": "C-15022",
+      "@id": "C-13244",
+      "ref": "C-13244",
       "label": "Host Reads an Ad Saying the Vatican Made a Secret 2018 Deal With the Chinese Communist Party",
       "claim": "In a sponsor read, the host says the Vatican entered a secretive deal with the Chinese Communist Party in 2018, that bishops are disappearing, and that Beijing appoints loyalist bishops; she says Pope Leo has declined to comment.",
       "anchored_artifacts": [],
@@ -3081,8 +3081,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15023",
-      "ref": "C-15023",
+      "@id": "C-13245",
+      "ref": "C-13245",
       "label": "Host Says Dan Flood Provided Security to Erika After the Shooting",
       "claim": "The host says Dan Flood was providing security to Erika in the immediate aftermath and was with her at the White House.",
       "anchored_artifacts": [],
@@ -3103,8 +3103,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15024",
-      "ref": "C-15024",
+      "@id": "C-13246",
+      "ref": "C-13246",
       "label": "Host Says Zack Costello Compared Robinson's Finger Posture in UVU Footage With 2022 Footage",
       "claim": "The host credits YouTuber Zack Costello with noticing that Tyler Robinson in the released UVU-campus footage held his fingers in his pockets in a particular way.",
       "anchored_artifacts": [],
@@ -3125,8 +3125,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15025",
-      "ref": "C-15025",
+      "@id": "C-13247",
+      "ref": "C-13247",
       "label": "Host Says Costello Saw the Same Finger Posture in the 2022 Footage",
       "claim": "The host says Costello thought it reminiscent of the 2022 footage of Robinson, who also had his fingers in his pocket that way.",
       "anchored_artifacts": [],
@@ -3148,8 +3148,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15026",
-      "ref": "C-15026",
+      "@id": "C-13249",
+      "ref": "C-13249",
       "label": "Host Says the 2022 Footage Should Not Exist",
       "claim": "The host says the bodycam footage, three and a half years old yet available to be released instantly, should not exist because police do not keep routine traffic-stop footage.",
       "anchored_artifacts": [
@@ -3166,7 +3166,7 @@
       "investigative_direction": "Request retention schedules from St. George PD and Utah records laws.",
       "transcript_snippet": "because the footage should not exist.",
       "supports_claim_refs": [
-        "C-3479"
+        "C-13250"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3175,8 +3175,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15027",
-      "ref": "C-15027",
+      "@id": "C-13251",
+      "ref": "C-13251",
       "label": "Host Says States Have Laws Requiring Automatic Deletion of Routine Bodycam Footage",
       "claim": "The host says each state has laws governing automatic deletion of bodycam footage, typically on a short time frame for noncriminal interactions.",
       "anchored_artifacts": [],
@@ -3195,8 +3195,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15028",
-      "ref": "C-15028",
+      "@id": "C-13252",
+      "ref": "C-13252",
       "label": "Host Says Loomer's Side Tried to Find Footage of Her Husband's Fender Bender",
       "claim": "The host says Laura Loomer's side was desperate to find footage of her husband hitting somebody's bumper in a parking lot, and that the other driver later shook them down for 6K.",
       "anchored_artifacts": [],
@@ -3214,8 +3214,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15029",
-      "ref": "C-15029",
+      "@id": "C-13253",
+      "ref": "C-13253",
       "label": "Host Says Utah Routine Footage Is Typically Purged Within 60 to 90 Days",
       "claim": "The host says she looked up Utah law and that bodycam footage without an arrest, citation, use of force or citizen complaint is typically purged between 60 and 90 days to manage storage costs.",
       "anchored_artifacts": [],
@@ -3235,8 +3235,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15030",
-      "ref": "C-15030",
+      "@id": "C-13254",
+      "ref": "C-13254",
       "label": "Host Says No Citations or Arrests in 2022 and the Footage Did Not Capture the Accident",
       "claim": "The host says no citations were issued, nobody was arrested and the body camera did not capture the accident in Robinson's 2022 incident.",
       "anchored_artifacts": [
@@ -3259,8 +3259,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15031",
-      "ref": "C-15031",
+      "@id": "C-13255",
+      "ref": "C-13255",
       "label": "Host Says Robinson Spoke to an Officer and Was Handed a Report Number",
       "claim": "The host says Robinson spoke to an officer and was given an instant report number, and both drivers exchanged insurance.",
       "anchored_artifacts": [
@@ -3282,8 +3282,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15032",
-      "ref": "C-15032",
+      "@id": "C-13256",
+      "ref": "C-13256",
       "label": "Host Says There Was No Ambulance, Paramedics or Injury Claim in 2022",
       "claim": "The host says there was no ambulance, no paramedics and nobody pretending to be hurt, so the incident was beyond routine.",
       "anchored_artifacts": [
@@ -3304,8 +3304,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15033",
-      "ref": "C-15033",
+      "@id": "C-13257",
+      "ref": "C-13257",
       "label": "Host Says Someone Must Have Ordered the Footage and Held It for Three Years",
       "claim": "The host says the retention implies someone ordered the footage and held on to it for three years, and that this is the question.",
       "anchored_artifacts": [
@@ -3327,8 +3327,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15034",
-      "ref": "C-15034",
+      "@id": "C-13258",
+      "ref": "C-13258",
       "label": "Host Says Robinson Was Completely Unknown in 2022",
       "claim": "The host says there was no dispute going to court and that Tyler Robinson was completely unknown in 2022.",
       "anchored_artifacts": [],
@@ -3342,7 +3342,7 @@
       "investigative_direction": "Obtain any 2022 records requests naming Robinson.",
       "transcript_snippet": "Tyler Robinson was completely unknown in 2022.",
       "supports_claim_refs": [
-        "C-3484"
+        "C-13260"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3351,8 +3351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15035",
-      "ref": "C-15035",
+      "@id": "C-13261",
+      "ref": "C-13261",
       "label": "Host Says Both Drivers Were Cooperative and There Was No Lawsuit",
       "claim": "The host says both drivers were cooperative and there was no subsequent lawsuit or fight, so no reason to request the footage.",
       "anchored_artifacts": [
@@ -3373,8 +3373,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15036",
-      "ref": "C-15036",
+      "@id": "C-13262",
+      "ref": "C-13262",
       "label": "Played Clip Has a Driver Describing the Other Car Turning In and Being T-Boned",
       "claim": "In the played 2022 Tyler Robinson bodycam clip a driver tells the officer the other vehicle pulled out or turned in and that he T-boned into its side.",
       "anchored_artifacts": [
@@ -3396,8 +3396,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15037",
-      "ref": "C-15037",
+      "@id": "C-13266",
+      "ref": "C-13266",
       "label": "Host Says TPUSA's Number One Donor Has a Strong Tie to UT Austin",
       "claim": "The host says Turning Point USA has a strong tie to UT Austin through its number one donor, Nelda Buckman.",
       "anchored_artifacts": [
@@ -3414,7 +3414,7 @@
       "investigative_direction": "Verify Buckman donation records to UT Austin and TPUSA.",
       "transcript_snippet": "Turning Point USA has a very strong tie to UT Austin in the form of their number one donor uh Nelda Buckman.",
       "supports_claim_refs": [
-        "C-10514"
+        "C-13086"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3423,8 +3423,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15038",
-      "ref": "C-15038",
+      "@id": "C-13267",
+      "ref": "C-13267",
       "label": "Host Hedges That TPUSA Shared a Plane With Its Top Donor",
       "claim": "The host says she vaguely believes TPUSA was sharing a plane with the donor and asks to be corrected.",
       "anchored_artifacts": [],
@@ -3444,8 +3444,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15039",
-      "ref": "C-15039",
+      "@id": "C-13268",
+      "ref": "C-13268",
       "label": "Host Says Buckman Donated a 2,300 Square Foot Building to UT Austin in 2022",
       "claim": "The host says the donor gave a 2,300 square foot building to UT Austin in 2022 for mixed media and artists, called the Buckman Center.",
       "anchored_artifacts": [
@@ -3467,8 +3467,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15040",
-      "ref": "C-15040",
+      "@id": "C-13269",
+      "ref": "C-13269",
       "label": "Host Suggests Jim Spencer's UT Austin Role and Buckman's Donation Are a Lead on the Footage",
       "claim": "The host suggests the UT Austin link, through Scripps founder Jim Spencer and donor Buckman, is a side lead TPUSA could use its resources to explore on how Scripps obtained the video, and that Buckman might help reach out to Spencer.",
       "anchored_artifacts": [
@@ -3486,7 +3486,7 @@
       "investigative_direction": "Ask Scripps how it obtained the video; no documented link between Spencer and Buckman is shown.",
       "transcript_snippet": "Help us all figure out how they got a hold of this obscure video.",
       "supports_claim_refs": [
-        "C-3482"
+        "C-13265"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3496,8 +3496,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15041",
-      "ref": "C-15041",
+      "@id": "C-13270",
+      "ref": "C-13270",
       "label": "Host Says Media Showed Robinson in Maroon Though He Normally Wore Blue",
       "claim": "The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that it seems some decoys were going to wear the maroon shirt.",
       "anchored_artifacts": [],
@@ -3518,8 +3518,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15042",
-      "ref": "C-15042",
+      "@id": "C-13271",
+      "ref": "C-13271",
       "label": "Host Theorizes the 2022 Footage Release Was Planned and an Individual Trained to Mimic Robinson's Walk",
       "claim": "The host theorizes that those behind it already planned to release the footage and had trained an individual to mimic the way Robinson walks, to imprint on the public a match with the campus footage.",
       "anchored_artifacts": [],
@@ -3540,8 +3540,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15043",
-      "ref": "C-15043",
+      "@id": "C-13272",
+      "ref": "C-13272",
       "label": "NY Post Said Robinson Wore an Eerily Similar Hat and Sunglasses in the 2022 Footage",
       "claim": "The host reads that the New York Post wrote that Robinson wore a hat and sunglasses in the 2022 footage eerily similar to what he wore while on the run, and says this imprints that he is the man.",
       "anchored_artifacts": [
@@ -3564,8 +3564,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15044",
-      "ref": "C-15044",
+      "@id": "C-13273",
+      "ref": "C-13273",
       "label": "Host Asks for Tips on How Scripps Got the 2022 Footage",
       "claim": "The host asks viewers with information on who held the footage and why to send tips to the candaceowens.com address.",
       "anchored_artifacts": [
@@ -3587,8 +3587,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15045",
-      "ref": "C-15045",
+      "@id": "C-13274",
+      "ref": "C-13274",
       "label": "Host Gives the Tip Email for Scripps and St. George Insiders",
       "claim": "The host asks anyone who works for Scripps or St. George to send tips to a candaceowens.com tips address.",
       "anchored_artifacts": [
@@ -3610,8 +3610,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15046",
-      "ref": "C-15046",
+      "@id": "C-13275",
+      "ref": "C-13275",
       "label": "Host Asks Whether Mike Mitchell Was Robinson's Mentor",
       "claim": "The host asks whether Mike Mitchell was Robinson's mentor and whether Robinson might have confided to him about being pulled over.",
       "anchored_artifacts": [],
@@ -3632,8 +3632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15047",
-      "ref": "C-15047",
+      "@id": "C-13276",
+      "ref": "C-13276",
       "label": "Host Says the 'Perisio' Lobby Operates Like Termites",
       "claim": "In reply to comments on the Macklemore and Ed Sheeran dispute, the host says the 'Perisio' lobby operates like termites and has to destroy.",
       "anchored_artifacts": [],
@@ -3652,8 +3652,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15048",
-      "ref": "C-15048",
+      "@id": "C-13277",
+      "ref": "C-13277",
       "label": "Host Says People Who Worship Baal Love Human Sacrifice and Killing Children",
       "claim": "The host says, replying to a comment, that people who 'worship ball' (Baal) like human sacrifice, have bloodlust and love killing children.",
       "anchored_artifacts": [],
@@ -3670,8 +3670,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15049",
-      "ref": "C-15049",
+      "@id": "C-13278",
+      "ref": "C-13278",
       "label": "Host Says John and Irina Mappin Have Been Fantastic Friends",
       "claim": "The host says John Mappin is a quintessential Englishman and that he and Irina have been fantastic friends to her, especially during this time.",
       "anchored_artifacts": [],
@@ -3683,7 +3683,7 @@
       "investigative_direction": "Context only.",
       "transcript_snippet": "him and Irina have just been fantastic friends to us especially throughout this time.",
       "supports_claim_refs": [
-        "C-1392"
+        "C-1493"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3693,8 +3693,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15050",
-      "ref": "C-15050",
+      "@id": "C-13279",
+      "ref": "C-13279",
       "label": "Host Says the Mappins Have Been Loyal to Charlie's Memory",
       "claim": "The host says the Mappins have been extremely loyal to Charlie and to making sure he does not die in vain.",
       "anchored_artifacts": [],
@@ -3706,7 +3706,7 @@
       "investigative_direction": "Context only.",
       "transcript_snippet": "They have been extremely loyal to Charlie and making sure that um his he does not die in vain",
       "supports_claim_refs": [
-        "C-1392"
+        "C-1493"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3717,8 +3717,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15051",
-      "ref": "C-15051",
+      "@id": "C-13280",
+      "ref": "C-13280",
       "label": "Host Says the Notice Was Delivered to the Utah Attorney General's Office",
       "claim": "The host says the filing was delivered to the office of the attorney general of Utah.",
       "anchored_artifacts": [
@@ -3735,7 +3735,7 @@
       "investigative_direction": "Confirm receipt with the Utah Attorney General.",
       "transcript_snippet": "it's from the office of the attorney general or was a given delivered to the office of the attorney general rather um of Utah.",
       "supports_claim_refs": [
-        "C-3466"
+        "C-13181"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3743,8 +3743,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15052",
-      "ref": "C-15052",
+      "@id": "C-13281",
+      "ref": "C-13281",
       "label": "Host Says Baron Coleman Will Host Her Principal Show During Maternity Leave",
       "claim": "The host says Baron Coleman will take over her principal show while she is on maternity leave.",
       "anchored_artifacts": [],
@@ -3764,8 +3764,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15053",
-      "ref": "C-15053",
+      "@id": "C-13282",
+      "ref": "C-13282",
       "label": "Host Says Coleman's Show Runs Monday Through Wednesday While She Is Off Air",
       "claim": "The host says the show will run Monday through Wednesday while she is off air.",
       "anchored_artifacts": [],
@@ -3785,8 +3785,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15054",
-      "ref": "C-15054",
+      "@id": "C-13283",
+      "ref": "C-13283",
       "label": "Host Plans a Joint Episode With Coleman Reviewing the State's Evidence",
       "claim": "The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence, an opportunity she says was sorely missed by the incredibly insincere and disingenuous Andrew Wilson.",
       "anchored_artifacts": [],
@@ -3807,8 +3807,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15055",
-      "ref": "C-15055",
+      "@id": "C-13284",
+      "ref": "C-13284",
       "label": "Host Says Her Baby Is a Few Weeks Away",
       "claim": "The host says it is a few more weeks until her baby comes.",
       "anchored_artifacts": [],
@@ -3827,8 +3827,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15056",
-      "ref": "C-15056",
+      "@id": "C-13285",
+      "ref": "C-13285",
       "label": "Host Says She Went on Ana Kasparian's Show to Explain What Is Wrong With the Case",
       "claim": "The host says she went on Ana Kasparian's show and explained many things wrong with the case, to a different audience.",
       "anchored_artifacts": [],
@@ -3846,8 +3846,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15057",
-      "ref": "C-15057",
+      "@id": "C-13286",
+      "ref": "C-13286",
       "label": "Host Says Coleman Will Keep Track of Tricky Terryl",
       "claim": "The host says Coleman will keep track of 'Tricky Terryl', whom she says bothers everyone and gets away with a lot.",
       "anchored_artifacts": [],
@@ -3866,8 +3866,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15058",
-      "ref": "C-15058",
+      "@id": "C-13287",
+      "ref": "C-13287",
       "label": "Host Says Utah Has a Steep History of Satanic Abuse Claims",
       "claim": "The host says there have been many satanic abuse claims in Utah and that the Kirk case seems to arrive at that theme again.",
       "anchored_artifacts": [],
@@ -3884,8 +3884,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15059",
-      "ref": "C-15059",
+      "@id": "C-13288",
+      "ref": "C-13288",
       "label": "Host Says Erika Was Ranting About Israel at Tucker's the Night Before in May 2025",
       "claim": "The host says that when she was at Tucker Carlson's in May 2025, Erika was there the night before ranting about Israel and pushing Charlie in an anti-Israel direction.",
       "anchored_artifacts": [],
@@ -3899,9 +3899,9 @@
       "investigative_direction": "Compare with Tucker's account of the dinner.",
       "transcript_snippet": "Erika was there the night before ranting about Israel like and like pushing Charlie in that anti-Israel direction.",
       "supports_claim_refs": [
-        "C-4516",
-        "C-4587",
-        "C-5834"
+        "C-9901",
+        "C-9972",
+        "C-10289"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3912,8 +3912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15060",
-      "ref": "C-15060",
+      "@id": "C-13289",
+      "ref": "C-13289",
       "label": "Host Says Erika Went from Anti-Israel to Pro-Israel Since May",
       "claim": "The host says Erika has switched since May from talking about Israel as the others did to being very pro-Israel and partnered with the International Fellowship of Christians and Jews.",
       "anchored_artifacts": [],
@@ -3934,8 +3934,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15061",
-      "ref": "C-15061",
+      "@id": "C-13290",
+      "ref": "C-13290",
       "label": "Host Says Max Blumenthal Revealed the TPUSA Fellowship Contract",
       "claim": "The host says the contract with the fellowship was revealed by Max Blumenthal.",
       "anchored_artifacts": [],
@@ -3955,8 +3955,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-15062",
-      "ref": "C-15062",
+      "@id": "C-13291",
+      "ref": "C-13291",
       "label": "Host Says Charlie Introduced Her to Rodney Stark's Work",
       "claim": "The host says the book club is reading Bearing False Witness by Rodney Stark, an author Charlie introduced to her, and that How the West Won was the first book Charlie told her to read.",
       "anchored_artifacts": [],

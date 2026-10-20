@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep031): N-277, N-580, N-10252, N-10264, N-10465, N-10818
   - Tip-minted Nodes (reintro-ep031): N-614, N-714, N-10916, N-10989
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-6597–C-6676
+  - Claim Range: C-2723–C-2815
   - New Nodes Introduced: N-249, N-10246, N-10247
   - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-190, N-205, N-208, N-227, N-246, N-247, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-377, N-10268, N-10817, N-298
   - (see registers)
@@ -255,7 +255,7 @@ Video Timestamp: 00:00:01–00:00:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1693, N-1*
+*Related: C-2723, N-1*
 
 ---
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:02:06–00:03:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1682, C-1683, N-7*
+*Related: C-2725, C-2726, N-7*
 
 ---
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:06:39–00:08:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1685, N-249, N-10247*
+*Related: C-2737, N-249, N-10247*
 
 ---
 
@@ -297,7 +297,7 @@ Video Timestamp: 00:09:22–00:10:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1684, N-249*
+*Related: C-2739, N-249*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:12:54–00:13:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1686, C-1687, C-1689, N-249, Rob McCoy (likely-existing node), N-10247*
+*Related: C-2745, C-2744, C-2746, N-249, Rob McCoy (likely-existing node), N-10247*
 
 **A-1394.2** Thomas Camino Narrative on Bryce Eddy Show – Claims of False Conviction
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:13:55–00:17:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1688, N-249*
+*Related: C-2748, N-249*
 
 ---
 
@@ -335,7 +335,7 @@ Video Timestamp: 00:40:32–00:42:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1690, Tucker Carlson (likely-existing node)*
+*Related: C-2793, Tucker Carlson (likely-existing node)*
 
 ---
 
@@ -349,7 +349,7 @@ Video Timestamp: 00:46:40–00:49:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1691, N-212, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
+*Related: C-2801, N-212, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
 
 ---
 
@@ -427,7 +427,7 @@ Video Timestamp: 00:56:01–00:57:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1692*
+*Related: C-2810*
 
 **A-1398.5** Today's Comment: "Mint Julip" – Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adelson"
 
@@ -497,7 +497,7 @@ Video Timestamp: 00:58:13–00:59:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (alt content present in transcript; preserves spelling)
 
-*Related: C-1691, N-10247*
+*Related: C-2801, N-10247*
 
 **A-1398.12** Today's Comment: "Silicon Valley" – Self-Promotion of Historical Thriller Novel; Mention of Owens' Book Club
 
@@ -520,7 +520,7 @@ Video Timestamp: 00:08:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6608, N-249, N-3*
+*Related: C-2738, N-249, N-3*
 
 ---
 
@@ -533,7 +533,7 @@ Video Timestamp: 00:18:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6619, C-6620, C-6621, C-6622, C-6623, C-6624, C-6625, C-6626, C-6627, C-6628, C-6629, N-10246, N-3*
+*Related: C-2754, C-2755, C-2756, C-2757, C-2758, C-2759, C-2760, C-2761, C-2762, C-2763, C-2764, N-10246, N-3*
 
 ---
 
@@ -548,7 +548,7 @@ Video Timestamp: 00:25:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6634, N-10247, N-3*
+*Related: C-2769, N-10247, N-3*
 
 ---
 
@@ -561,7 +561,7 @@ Video Timestamp: 00:31:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6647, N-205, N-3*
+*Related: C-2782, N-205, N-3*
 
 ---
 
@@ -574,7 +574,7 @@ Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6664, N-247, N-212, N-3*
+*Related: C-2800, N-247, N-212, N-3*
 
 ---
 
@@ -587,7 +587,7 @@ Video Timestamp: 00:55:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6670, C-6671, N-67, N-3*
+*Related: C-2807, C-2808, N-67, N-3*
 
 ---
 
@@ -604,7 +604,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1391.1, C-1682, C-1683, N-1*
+*Related: A-1391.1, C-2725, C-2726, N-1*
 
 ---
 
@@ -617,7 +617,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-1684, C-1685, C-1686, C-1687, C-1688, N-10247, Rob McCoy (likely-existing node)*
+*Related: A-1392.1, A-1393.1, A-1394.1, A-1394.2, C-2739, C-2737, C-2745, C-2744, C-2748, N-10247, Rob McCoy (likely-existing node)*
 
 ---
 
@@ -630,7 +630,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1396.1, C-1691, Kash Patel (likely-existing node), N-10247*
+*Related: A-1396.1, C-2801, Kash Patel (likely-existing node), N-10247*
 
 ---
 
@@ -677,7 +677,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host describes his reported pressure from donors, his Epstein segments and his friendships.
 
-*Related: C-6597, C-6598, C-6599, C-6604, C-6605, C-6606, C-6639, C-6642, C-6643, C-6646, C-6656, C-6660, C-6667, C-6673*
+*Related: C-2724, C-2727, C-2728, C-2733, C-2734, C-2735, C-2774, C-2777, C-2778, C-2781, C-2791, C-2796, C-2804, C-2811*
 
 ---
 
@@ -685,7 +685,7 @@ Subject of the assassination; the host describes his reported pressure from dono
 
 Host; speaks for herself throughout.
 
-*Related: C-6597, C-6598, C-6599, C-6601, C-6602, C-6603, C-6604, C-6605, C-6606, C-6607, C-6608, C-6611, C-6612, C-6619, C-6620, C-6621, C-6622, C-6623, C-6624, C-6625, C-6626, C-6627, C-6628, C-6629, C-6630, C-6631, C-6632, C-6633, C-6634, C-6635, C-6636, C-6637, C-6638, C-6639, C-6640, C-6641, C-6642, C-6644, C-6645, C-6646, C-6647, C-6648, C-6649, C-6650, C-6651, C-6652, C-6653, C-6654, C-6655, C-6656, C-6657, C-6658, C-6660, C-6661, C-6662, C-6663, C-6664, C-6665, C-6666, C-6667, C-6668, C-6669, C-6670, C-6671, C-6672, C-6673, C-6674, C-6675, C-6676*
+*Related: C-2724, C-2727, C-2728, C-2730, C-2731, C-2732, C-2733, C-2734, C-2735, C-2736, C-2738, C-2742, C-2743, C-2754, C-2755, C-2756, C-2757, C-2758, C-2759, C-2760, C-2761, C-2762, C-2763, C-2764, C-2765, C-2766, C-2767, C-2768, C-2769, C-2770, C-2771, C-2772, C-2773, C-2774, C-2775, C-2776, C-2777, C-2779, C-2780, C-2781, C-2782, C-2783, C-2784, C-2785, C-2786, C-2787, C-2788, C-2789, C-2790, C-2791, C-2792, C-2794, C-2796, C-2797, C-2798, C-2799, C-2800, C-2802, C-2803, C-2804, C-2805, C-2806, C-2807, C-2808, C-2809, C-2811, C-2812, C-2813, C-2814*
 
 ---
 
@@ -693,7 +693,7 @@ Host; speaks for herself throughout.
 
 Named by the host in connection with the Epstein emails and the 'what files' remark.
 
-*Related: C-6649*
+*Related: C-2784*
 
 ---
 
@@ -701,7 +701,7 @@ Named by the host in connection with the Epstein emails and the 'what files' rem
 
 Convicted sex offender; the host links Kirk's Epstein segments, the released emails and modeling agencies to him.
 
-*Related: C-6642, C-6643, C-6645, C-6649, C-6650*
+*Related: C-2777, C-2778, C-2780, C-2784, C-2785*
 
 ---
 
@@ -709,7 +709,7 @@ Convicted sex offender; the host links Kirk's Epstein segments, the released ema
 
 Pastor of Calvary Chapel Chino Hills; the host ties him to Thomas Camino, the home fellowship program and Potter's Field Ministries.
 
-*Related: C-6611, C-6612, C-6613, C-6620, C-6635, C-6637*
+*Related: C-2742, C-2743, C-2747, C-2755, C-2770, C-2772*
 
 ---
 
@@ -717,7 +717,7 @@ Pastor of Calvary Chapel Chino Hills; the host ties him to Thomas Camino, the ho
 
 Interviewed in the played clip refusing to denounce the host; also named in the Operation Mocking Pastor and AmFest passages.
 
-*Related: C-6638, C-6640, C-6643, C-6657, C-6658, C-6659*
+*Related: C-2773, C-2775, C-2778, C-2792, C-2794, C-2795*
 
 ---
 
@@ -725,7 +725,7 @@ Interviewed in the played clip refusing to denounce the host; also named in the 
 
 Named by the host regarding pressure to denounce him and his claims about Diddy being blackmailed by the feds.
 
-*Related: C-6631, C-6655*
+*Related: C-2766, C-2790*
 
 ---
 
@@ -733,7 +733,7 @@ Named by the host regarding pressure to denounce him and his claims about Diddy 
 
 The host says he is being tried for crimes against humanity.
 
-*Related: C-6651*
+*Related: C-2786*
 
 ---
 
@@ -741,7 +741,7 @@ The host says he is being tried for crimes against humanity.
 
 The accused shooter; the host says she does not believe he acted alone.
 
-*Related: C-6605*
+*Related: C-2734*
 
 ---
 
@@ -749,7 +749,7 @@ The accused shooter; the host says she does not believe he acted alone.
 
 The host presents her as pressed to choose between her career and Tucker Carlson.
 
-*Related: C-6657*
+*Related: C-2792*
 
 ---
 
@@ -757,7 +757,7 @@ The host presents her as pressed to choose between her career and Tucker Carlson
 
 FBI director whose girlfriend Alexis Wilkins is the subject of the Schaefer lawsuit and the Dillon clip.
 
-*Related: C-6661, C-6664*
+*Related: C-2797, C-2800*
 
 ---
 
@@ -765,7 +765,7 @@ FBI director whose girlfriend Alexis Wilkins is the subject of the Schaefer laws
 
 The host's lawsuit co-party; the host says Tim Dillon is included in it.
 
-*Related: C-6644, C-6665*
+*Related: C-2779, C-2802*
 
 ---
 
@@ -773,14 +773,14 @@ The host's lawsuit co-party; the host says Tim Dillon is included in it.
 
 The host says Bondi called the Epstein matter a Democrat hoax.
 
-*Related: C-6650*
+*Related: C-2785*
 
 ---
 
 **N-98** Robert Shillman
 Donor the host names (spelled Bob Shillman) when she asks why millions came from one person.
 
-*Related: C-6666*
+*Related: C-2803*
 
 ---
 
@@ -788,7 +788,7 @@ Donor the host names (spelled Bob Shillman) when she asks why millions came from
 
 The host says releasing his call logs would not endanger the case.
 
-*Related: C-6604*
+*Related: C-2733*
 
 ---
 
@@ -796,7 +796,7 @@ The host says releasing his call logs would not endanger the case.
 
 Transcript renders him as Sean Fo; the host cites a September 30 article on mismanagement of funds.
 
-*Related: C-6647*
+*Related: C-2782*
 
 ---
 
@@ -804,7 +804,7 @@ Transcript renders him as Sean Fo; the host cites a September 30 article on mism
 
 Calvary Chapel pastor the host says hosts 5 a.m. calls against her and Tucker Carlson.
 
-*Related: C-6639, C-6640*
+*Related: C-2774, C-2775*
 
 ---
 
@@ -812,7 +812,7 @@ Calvary Chapel pastor the host says hosts 5 a.m. calls against her and Tucker Ca
 
 The host says she posted a video about not having dreams and called the host a liar in her own way.
 
-*Related: C-6602, C-6660*
+*Related: C-2731, C-2796*
 
 ---
 
@@ -820,7 +820,7 @@ The host says she posted a video about not having dreams and called the host a l
 
 Jack Hibbs' brother, whom the host says was everywhere before and after the assassination.
 
-*Related: C-6639*
+*Related: C-2774*
 
 ---
 
@@ -828,7 +828,7 @@ Jack Hibbs' brother, whom the host says was everywhere before and after the assa
 
 Defendant in the lawsuit the host says concerns a joke.
 
-*Related: C-6664*
+*Related: C-2800*
 
 ---
 
@@ -836,7 +836,7 @@ Defendant in the lawsuit the host says concerns a joke.
 
 Comedian whose clip is played; the host says he is included in her Macron lawsuit.
 
-*Related: C-6665*
+*Related: C-2802*
 
 ---
 
@@ -844,7 +844,7 @@ Comedian whose clip is played; the host says he is included in her Macron lawsui
 
 A commenter asks if she was the donor who yelled at Charlie; the host says no and that she is trying to remove Massie.
 
-*Related: C-6673, C-6674*
+*Related: C-2811, C-2812*
 
 ---
 
@@ -852,7 +852,7 @@ A commenter asks if she was the donor who yelled at Charlie; the host says no an
 
 Named by the host in the Macron investigation passage.
 
-*Related: C-6644*
+*Related: C-2779*
 
 ---
 
@@ -860,7 +860,7 @@ Named by the host in the Macron investigation passage.
 
 The host says Miriam Adelson is trying to remove him.
 
-*Related: C-6674*
+*Related: C-2812*
 
 ---
 
@@ -868,7 +868,7 @@ The host says Miriam Adelson is trying to remove him.
 
 The host says her book starts and ends with Cardi B.
 
-*Related: C-6669*
+*Related: C-2806*
 
 ---
 
@@ -876,7 +876,7 @@ The host says her book starts and ends with Cardi B.
 
 The host names him as the founder of Calvary Chapel.
 
-*Related: C-6641*
+*Related: C-2776*
 
 ---
 
@@ -885,7 +885,7 @@ The host names him as the founder of Calvary Chapel.
 Node Type: Organization
 TPUSA; the host calls it an $80 million company and links a donor to it.
 
-*Related: C-6601, C-6606, C-6654, C-6666*
+*Related: C-2730, C-2735, C-2789, C-2803*
 
 ---
 
@@ -894,7 +894,7 @@ TPUSA; the host calls it an $80 million company and links a donor to it.
 Node Type: Topic
 Existing topic reused.
 
-*Related: C-6655*
+*Related: C-2790*
 
 ---
 
@@ -903,7 +903,7 @@ Existing topic reused.
 Node Type: Topic
 Existing topic reused for the host's pavers remark.
 
-*Related: C-6672*
+*Related: C-2809*
 
 ---
 
@@ -912,7 +912,7 @@ Existing topic reused for the host's pavers remark.
 Node Type: Topic
 Existing topic reused for the host's Calvary Chapel remark.
 
-*Related: C-6638*
+*Related: C-2773*
 
 ---
 
@@ -921,7 +921,7 @@ Existing topic reused for the host's Calvary Chapel remark.
 Node Type: Topic
 Existing topic reused for the McCoy lies claim.
 
-*Related: C-6637*
+*Related: C-2772*
 
 ---
 
@@ -930,7 +930,7 @@ Existing topic reused for the McCoy lies claim.
 Node Type: Topic
 Existing topic reused for the call log claim.
 
-*Related: C-6604*
+*Related: C-2733*
 
 ---
 
@@ -939,7 +939,7 @@ Existing topic reused for the call log claim.
 Node Type: Topic
 Existing topic reused for the infiltration claim.
 
-*Related: C-6636*
+*Related: C-2771*
 
 ---
 
@@ -948,7 +948,7 @@ Existing topic reused for the infiltration claim.
 Node Type: Topic
 Existing topic reused for the Wilkins and Schaefer claims.
 
-*Related: C-6661, C-6664*
+*Related: C-2797, C-2800*
 
 ---
 
@@ -957,7 +957,7 @@ Existing topic reused for the Wilkins and Schaefer claims.
 Node Type: Topic
 Existing topic reused for the TPUSA Faith pivot claim.
 
-*Related: C-6636*
+*Related: C-2771*
 
 ---
 
@@ -966,7 +966,7 @@ Existing topic reused for the TPUSA Faith pivot claim.
 Node Type: Topic
 Existing topic reused for the McCoy CFO claim.
 
-*Related: C-6635*
+*Related: C-2770*
 
 ---
 
@@ -975,7 +975,7 @@ Existing topic reused for the McCoy CFO claim.
 Node Type: Topic
 Existing topic reused for the Egyptian planes announcement.
 
-*Related: C-6652*
+*Related: C-2787*
 
 ---
 
@@ -984,7 +984,7 @@ Existing topic reused for the Egyptian planes announcement.
 Node Type: Topic
 Existing topic reused for the Calvary Chapel founding remark.
 
-*Related: C-6676*
+*Related: C-2814*
 
 ---
 
@@ -993,7 +993,7 @@ Existing topic reused for the Calvary Chapel founding remark.
 Node Type: Topic
 Existing topic reused for the donor demand claim.
 
-*Related: C-6656*
+*Related: C-2791*
 
 ---
 
@@ -1002,7 +1002,7 @@ Existing topic reused for the donor demand claim.
 Node Type: Topic
 Existing topic reused for the Macron lawsuit claims.
 
-*Related: C-6644, C-6665*
+*Related: C-2779, C-2802*
 
 ---
 
@@ -1011,7 +1011,7 @@ Existing topic reused for the Macron lawsuit claims.
 Node Type: Topic
 Existing topic reused for the Epstein emails claim.
 
-*Related: C-6649, C-6650*
+*Related: C-2784, C-2785*
 
 ---
 
@@ -1020,7 +1020,7 @@ Existing topic reused for the Epstein emails claim.
 Node Type: Topic
 Existing topic reused for the TPUSA Faith claims.
 
-*Related: C-6636, C-6646*
+*Related: C-2771, C-2781*
 
 ---
 
@@ -1029,7 +1029,7 @@ Existing topic reused for the TPUSA Faith claims.
 Node Type: Topic
 Existing topic reused for the Kelly claim.
 
-*Related: C-6657*
+*Related: C-2792*
 
 ---
 
@@ -1038,7 +1038,7 @@ Existing topic reused for the Kelly claim.
 Node Type: Topic
 Existing topic reused for the DOGE committee claim.
 
-*Related: C-6604*
+*Related: C-2733*
 
 ---
 
@@ -1047,7 +1047,7 @@ Existing topic reused for the DOGE committee claim.
 Node Type: Topic
 Existing topic reused for the Chuck Smith claim.
 
-*Related: C-6641*
+*Related: C-2776*
 
 ---
 
@@ -1056,7 +1056,7 @@ Existing topic reused for the Chuck Smith claim.
 Node Type: Topic
 Existing topic reused for the Butch Hibbs claim.
 
-*Related: C-6639*
+*Related: C-2774*
 
 ---
 
@@ -1065,7 +1065,7 @@ Existing topic reused for the Butch Hibbs claim.
 Node Type: Topic
 Existing topic reused for the Jack Hibbs claim.
 
-*Related: C-6640*
+*Related: C-2775*
 
 ---
 
@@ -1074,7 +1074,7 @@ Existing topic reused for the Jack Hibbs claim.
 Node Type: Topic
 Existing topic reused for the Adelson and Massie claim.
 
-*Related: C-6674*
+*Related: C-2812*
 
 ---
 
@@ -1083,7 +1083,7 @@ Existing topic reused for the Adelson and Massie claim.
 Node Type: Organization
 Existing organization reused for the orphanage remark.
 
-*Related: C-6626*
+*Related: C-2761*
 
 ---
 
@@ -1091,7 +1091,7 @@ Existing organization reused for the orphanage remark.
 
 First named by the host at 00:19:19 in episode 31. Pompano Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.
 
-*Related: C-6620*
+*Related: C-2755*
 
 ---
 
@@ -1099,7 +1099,7 @@ First named by the host at 00:19:19 in episode 31. Pompano Beach, Florida Calvar
 
 First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.
 
-*Related: C-6624*
+*Related: C-2759*
 
 ---
 
@@ -1107,7 +1107,7 @@ First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel
 
 First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Iglesias) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.
 
-*Related: C-6625*
+*Related: C-2760*
 
 ---
 
@@ -1115,7 +1115,7 @@ First named by the host at 00:19:19 in episode 31. Named by the host (spelled An
 
 First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North Country Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.
 
-*Related: C-6625*
+*Related: C-2760*
 
 ---
 
@@ -1123,7 +1123,7 @@ First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of N
 
 First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.
 
-*Related: C-6627*
+*Related: C-2762*
 
 ---
 
@@ -1131,7 +1131,7 @@ First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor 
 
 First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).
 
-*Related: C-6629*
+*Related: C-2764*
 
 ---
 
@@ -1139,7 +1139,7 @@ First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor 
 
 First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.
 
-*Related: C-6630, C-6631*
+*Related: C-2765, C-2766*
 
 ---
 
@@ -1147,7 +1147,7 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 First named by the host at 00:25:17 in episode 31. Former Potter's Field Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kinney and Kenzie Kinney in the transcript).
 
-*Related: C-6634*
+*Related: C-2769*
 
 ---
 
@@ -1156,13 +1156,13 @@ First named by the host at 00:25:17 in episode 31. Former Potter's Field Ignite 
 Node Type: Topic
 Dispute between Thomas Camino's podcast account of a false conviction and the 1995 LA Times report, the host's account of a 1990 probation and the victim's email.
 
-*Related: C-6608, C-6609, C-6610, C-6614, C-6615, C-6616, C-6617, C-6618*
+*Related: C-2738, C-2740, C-2741, C-2749, C-2750, C-2751, C-2752, C-2753*
 
 ---
 
 ## 5. Claim Register
 
-**C-1682** Frank Turek Stated Candace Is Launching Accusations Without Evidence
+**C-2725** Frank Turek Stated Candace Is Launching Accusations Without Evidence
 
 Claim Timestamp: 00:02:06
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Obtain full CBN News clip and verify exact wording; cro
 
 ---
 
-**C-1683** Frank Turek Invited J. Warner Wallace onto His Podcast Two Weeks After Kirk's Death
+**C-2726** Frank Turek Invited J. Warner Wallace onto His Podcast Two Weeks After Kirk's Death
 
 Claim Timestamp: 00:02:06
 
@@ -1186,7 +1186,7 @@ Investigative Direction: Locate and verify Frank Turek's podcast and the Wallace
 
 ---
 
-**C-1684** Thomas Michael Camino Sentenced to 8 Years in 1995 for Child Molestation via Lost-Cat Lure
+**C-2739** Thomas Michael Camino Sentenced to 8 Years in 1995 for Child Molestation via Lost-Cat Lure
 
 Claim Timestamp: 00:09:22
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Retrieve original LA Times 1995 article and California 
 
 ---
 
-**C-1685** Adult Victim of Thomas Camino (Age 8 in 1995) Emailed Owens Recounting the Incident
+**C-2737** Adult Victim of Thomas Camino (Age 8 in 1995) Emailed Owens Recounting the Incident
 
 Claim Timestamp: 00:08:10
 
@@ -1211,7 +1211,7 @@ Investigative Direction: Verify sender identity, confirm testimony record in Peo
 
 ---
 
-**C-1686** Rob McCoy Describes a Roughly 20-Year Friendship With Thomas Camino
+**C-2745** Rob McCoy Describes a Roughly 20-Year Friendship With Thomas Camino
 
 Claim Timestamp: 00:12:54
 
@@ -1223,7 +1223,7 @@ Investigative Direction: Obtain full unedited Bryce Eddy Show episode; verify Sk
 
 ---
 
-**C-1687** Host Says Rob McCoy Placed Thomas Camino in Home Fellowship Program With Access to Children
+**C-2744** Host Says Rob McCoy Placed Thomas Camino in Home Fellowship Program With Access to Children
 
 Claim Timestamp: 00:11:36
 
@@ -1236,7 +1236,7 @@ Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal 
 
 ---
 
-**C-1688** Thomas Camino Asserted on the Podcast That He Was Falsely Convicted
+**C-2748** Thomas Camino Asserted on the Podcast That He Was Falsely Convicted
 
 Claim Timestamp: 00:13:55
 
@@ -1248,7 +1248,7 @@ Investigative Direction: Cross-check appellate court findings against Camino's n
 
 ---
 
-**C-1689** Rob McCoy Calls Criticism of Camino "Gossip and Slander"
+**C-2746** Rob McCoy Calls Criticism of Camino "Gossip and Slander"
 
 Claim Timestamp: 00:12:54
 
@@ -1261,7 +1261,7 @@ Investigative Direction: Locate original 2022 mothers' posts or complaints; veri
 
 ---
 
-**C-1690** Tucker Carlson Refused to Denounce Candace Owens When Pressed by a British Reporter
+**C-2793** Tucker Carlson Refused to Denounce Candace Owens When Pressed by a British Reporter
 
 Claim Timestamp: 00:40:32
 
@@ -1273,7 +1273,7 @@ Investigative Direction: Identify the original interview (outlet, date, reporter
 
 ---
 
-**C-1691** Tim Dillon Produced a Comedy Segment on Kash Patel's Girlfriend Alexis Wilkins
+**C-2801** Tim Dillon Produced a Comedy Segment on Kash Patel's Girlfriend Alexis Wilkins
 
 Claim Timestamp: 00:46:40
 
@@ -1286,7 +1286,7 @@ Investigative Direction: Identify Tim Dillon's show and episode date; verify Wil
 
 ---
 
-**C-1692** A Viewer Commented That Security Guards at the Kirk Event Appeared to Coordinate a Hand-Off
+**C-2810** A Viewer Commented That Security Guards at the Kirk Event Appeared to Coordinate a Hand-Off
 
 Claim Timestamp: 00:56:01
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Obtain and analyze all available footage of the immedia
 
 ---
 
-**C-1693** Throwback PragerU Clip of Owens and Kirk Discussing Foxhole Allies
+**C-2723** Throwback PragerU Clip of Owens and Kirk Discussing Foxhole Allies
 
 Claim Timestamp: 00:00:01
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Identify the original PragerU episode and air date; loc
 
 ---
 
-**C-1694** Commenter "Mama Diaz" Reported a Calvary Chapel Pastor Calling for Burning Bibles Depicting Palestine
+**C-2815** Commenter "Mama Diaz" Reported a Calvary Chapel Pastor Calling for Burning Bibles Depicting Palestine
 
 Claim Timestamp: 00:59:30
 
@@ -1322,7 +1322,7 @@ Investigative Direction: Identify the specific Calvary Chapel and pastor; locate
 
 ---
 
-**C-6597** Host Describes Frank Turek as Pastor Next to Charlie at the Shooting
+**C-2724** Host Describes Frank Turek as Pastor Next to Charlie at the Shooting
 
 Claim Timestamp: 00:01:20
 
@@ -1337,7 +1337,7 @@ Investigative Direction: Compare the host's description with UVU event video and
 
 ---
 
-**C-6598** Turek Says Charlie Named Candace as Someone He Mentored and Never Spoke Ill of Her
+**C-2727** Turek Says Charlie Named Candace as Someone He Mentored and Never Spoke Ill of Her
 
 Claim Timestamp: 00:02:06
 
@@ -1352,7 +1352,7 @@ Investigative Direction: Obtain the full CBN News interview and ask Turek when a
 
 ---
 
-**C-6599** Turek Says Claims Such as a Dream That Charlie Told Her Something Are Not Evidence
+**C-2728** Turek Says Claims Such as a Dream That Charlie Told Her Something Are Not Evidence
 
 Claim Timestamp: 00:02:06
 
@@ -1362,13 +1362,13 @@ Transcript Snippet: I had a dream that that Charlie told me this, that's not evi
 
 Anchored Artifacts: A-1391.1
 Mentions: N-7, N-1, N-3
-Supports: C-1682
+Supports: C-2725
 Tags: relevance:context
 Investigative Direction: Obtain the full CBN News interview to confirm Turek's wording and what episode of the host's show he is referring to.
 
 ---
 
-**C-6600** Turek Says Prosecutors Rarely Reveal What They Have
+**C-2729** Turek Says Prosecutors Rarely Reveal What They Have
 
 Claim Timestamp: 00:03:01
 
@@ -1378,13 +1378,13 @@ Transcript Snippet: The prosecution rarely tells you anything they have, much le
 
 Anchored Artifacts: A-1391.1
 Mentions: N-7
-Supports: C-1683
+Supports: C-2726
 Tags: relevance:context
 Investigative Direction: Obtain the Turek and Wallace podcast episode and compare its claims about prosecutorial disclosure with the Utah County charging documents and discovery to date.
 
 ---
 
-**C-6601** Host Says She Has Presented Second-by-Second Timelines, Webs of People and a List of TPUSA Lies
+**C-2730** Host Says She Has Presented Second-by-Second Timelines, Webs of People and a List of TPUSA Lies
 
 Claim Timestamp: 00:03:56
 
@@ -1400,7 +1400,7 @@ Investigative Direction: Compile the host's published timelines and her list of 
 
 ---
 
-**C-6602** Host Says Stuckey Posted a Video Saying She Does Not Have Dreams Like Candace
+**C-2731** Host Says Stuckey Posted a Video Saying She Does Not Have Dreams Like Candace
 
 Claim Timestamp: 00:03:56
 
@@ -1415,7 +1415,7 @@ Investigative Direction: Locate Stuckey's video from the days before 2025-11-13 
 
 ---
 
-**C-6603** Host Says She Personally Invited Frank Turek onto Her Show
+**C-2732** Host Says She Personally Invited Frank Turek onto Her Show
 
 Claim Timestamp: 00:03:56
 
@@ -1430,7 +1430,7 @@ Investigative Direction: Ask the host's team for the invitation and any reply fr
 
 ---
 
-**C-6604** Host Says Releasing Mikey McCoy's Call Logs Would Not Endanger the Case
+**C-2733** Host Says Releasing Mikey McCoy's Call Logs Would Not Endanger the Case
 
 Claim Timestamp: 00:05:19
 
@@ -1441,13 +1441,13 @@ Transcript Snippet: We should not pretend like somehow the case would be put at 
 Anchored Artifacts: 
 Mentions: N-190, N-1, N-3
 Related Nodes: N-10193, N-10434
-Supports: C-1563
+Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Request Mikey McCoy's call logs for September 10, 2025 and ask TPUSA to describe the DOGE committee Kirk reportedly planned.
 
 ---
 
-**C-6605** Host Says She Does Not Believe Tyler Robinson Acted Alone
+**C-2734** Host Says She Does Not Believe Tyler Robinson Acted Alone
 
 Claim Timestamp: 00:05:19
 
@@ -1462,7 +1462,7 @@ Investigative Direction: Test the lone-shooter account against the Utah charging
 
 ---
 
-**C-6606** Host Says She Has Found Lies by Kirk's Friends and They Refuse to Respond
+**C-2735** Host Says She Has Found Lies by Kirk's Friends and They Refuse to Respond
 
 Claim Timestamp: 00:05:19
 
@@ -1478,7 +1478,7 @@ Investigative Direction: List the specific statements the host calls lies and ma
 
 ---
 
-**C-6607** Host Says Turek Has Not Come Up in the Investigation or Been Caught in Any Lies
+**C-2736** Host Says Turek Has Not Come Up in the Investigation or Been Caught in Any Lies
 
 Claim Timestamp: 00:05:19
 
@@ -1493,7 +1493,7 @@ Investigative Direction: Compare with earlier episodes that questioned Turek's a
 
 ---
 
-**C-6608** Host Says Camino Was Placed on Probation in 1990 After a No-Contest Plea
+**C-2738** Host Says Camino Was Placed on Probation in 1990 After a No-Contest Plea
 
 Claim Timestamp: 00:08:17
 
@@ -1509,7 +1509,7 @@ Investigative Direction: Pull the 1990 California court record for Camino; note 
 
 ---
 
-**C-6609** LA Times Article Says Camino's Lawyer Reported He Was Now Admitting Guilt
+**C-2740** LA Times Article Says Camino's Lawyer Reported He Was Now Admitting Guilt
 
 Claim Timestamp: 00:09:22
 
@@ -1520,13 +1520,13 @@ Transcript Snippet: Kamino's lawyer said his client, who had previously maintain
 Anchored Artifacts: A-1393.1
 Mentions: N-249
 Related Nodes: N-11106
-Contradicts: C-1688
+Contradicts: C-2748
 Tags: relevance:context
 Investigative Direction: Retrieve the 1995 LA Times article and the sentencing transcript to check the lawyer's statement and whether Camino pleaded or went to trial.
 
 ---
 
-**C-6610** Article Says Prosecutors Described Camino Luring Girls to a Riverbed and a Basement
+**C-2741** Article Says Prosecutors Described Camino Luring Girls to a Riverbed and a Basement
 
 Claim Timestamp: 00:10:22
 
@@ -1537,13 +1537,13 @@ Transcript Snippet: Prosecutors said he approached young girls, lured them into 
 Anchored Artifacts: A-1393.1
 Mentions: N-249
 Related Nodes: N-11106
-Supports: C-1684
+Supports: C-2739
 Tags: relevance:context
 Investigative Direction: Retrieve the article and the Orange County Superior Court file for the 1994 incidents.
 
 ---
 
-**C-6611** Host Says Mothers Raised Objections Online in 2022 to Camino's Home Fellowship Access
+**C-2742** Host Says Mothers Raised Objections Online in 2022 to Camino's Home Fellowship Access
 
 Claim Timestamp: 00:11:11
 
@@ -1554,13 +1554,13 @@ Transcript Snippet: until some mothers went online remembered exactly what had h
 Anchored Artifacts: 
 Mentions: N-17, N-249, N-3
 Related Nodes: N-10246
-Supports: C-1687
+Supports: C-2744
 Tags: relevance:context
 Investigative Direction: Find the 2022 online posts by the mothers and any Calvary Chapel Chino Hills statement on the home fellowship program.
 
 ---
 
-**C-6612** Host Suggests Rob McCoy's Father Worked in Navy Intelligence
+**C-2743** Host Suggests Rob McCoy's Father Worked in Navy Intelligence
 
 Claim Timestamp: 00:11:11
 
@@ -1575,7 +1575,7 @@ Investigative Direction: Verify Rob McCoy's father's career and any Navy intelli
 
 ---
 
-**C-6613** McCoy Says He Pulled an Advertisement for the Home Fellowship
+**C-2747** McCoy Says He Pulled an Advertisement for the Home Fellowship
 
 Claim Timestamp: 00:12:54
 
@@ -1586,13 +1586,13 @@ Transcript Snippet: So I pulled that um I guess I guess it was a advertisement f
 Anchored Artifacts: A-1394.1
 Mentions: N-17, N-249
 Related Nodes: N-10246
-Supports: C-1689
+Supports: C-2746
 Tags: relevance:context
 Investigative Direction: Locate the pulled home fellowship advertisement and compare its dates with the 2022 objections.
 
 ---
 
-**C-6614** Camino Says the Key Girl Was Filmed Being Asked Leading Questions
+**C-2749** Camino Says the Key Girl Was Filmed Being Asked Leading Questions
 
 Claim Timestamp: 00:14:49
 
@@ -1608,7 +1608,7 @@ Investigative Direction: Obtain the trial transcript and the recorded interview 
 
 ---
 
-**C-6615** Camino Says Police Lined Up 16 Men and Searched His Home for 17 Items
+**C-2750** Camino Says Police Lined Up 16 Men and Searched His Home for 17 Items
 
 Claim Timestamp: 00:14:49
 
@@ -1624,7 +1624,7 @@ Investigative Direction: Obtain the search warrant return from the Orange County
 
 ---
 
-**C-6616** Camino Says His Lawyer Relayed Footprint and Palm Print Evidence and a Plea Offer
+**C-2751** Camino Says His Lawyer Relayed Footprint and Palm Print Evidence and a Plea Offer
 
 Claim Timestamp: 00:15:45
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Obtain the trial exhibits and forensic reports to check
 
 ---
 
-**C-6617** Camino Says He Had No Record Before the Conviction
+**C-2752** Camino Says He Had No Record Before the Conviction
 
 Claim Timestamp: 00:15:45
 
@@ -1651,13 +1651,13 @@ Transcript Snippet: didn't have a record.
 Anchored Artifacts: A-1394.2
 Mentions: N-249
 Related Nodes: N-11106
-Contradicts: C-6608
+Contradicts: C-2738
 Tags: relevance:context
 Investigative Direction: Compare Camino's statement with the 1990 Manhattan Beach court record.
 
 ---
 
-**C-6618** Camino Says the Appeals Court Found Two Legal Violations but Dismissed as Harmless
+**C-2753** Camino Says the Appeals Court Found Two Legal Violations but Dismissed as Harmless
 
 Claim Timestamp: 00:15:45
 
@@ -1673,7 +1673,7 @@ Investigative Direction: Retrieve the California Court of Appeal opinion in Peop
 
 ---
 
-**C-6619** Host Says Calvary Chapel Has a Long History of Claims of Placing Pedophiles in Positions of Power
+**C-2754** Host Says Calvary Chapel Has a Long History of Claims of Placing Pedophiles in Positions of Power
 
 Claim Timestamp: 00:18:21
 
@@ -1689,7 +1689,7 @@ Investigative Direction: Compile court records, lawsuits and press reports on ea
 
 ---
 
-**C-6620** Host Says Calvary Chapel Pompano Beach Founder Bob Coy Was Accused of Molesting a 4-Year-Old
+**C-2755** Host Says Calvary Chapel Pompano Beach Founder Bob Coy Was Accused of Molesting a 4-Year-Old
 
 Claim Timestamp: 00:19:19
 
@@ -1705,7 +1705,7 @@ Investigative Direction: Search Florida court and news records for the accusatio
 
 ---
 
-**C-6621** Host Says a Calvary Chapel Woodlands Lead Pastor Was Arrested in 2024 in a Sting
+**C-2756** Host Says a Calvary Chapel Woodlands Lead Pastor Was Arrested in 2024 in a Sting
 
 Claim Timestamp: 00:19:19
 
@@ -1721,7 +1721,7 @@ Investigative Direction: Identify the pastor and arrest report and check the cha
 
 ---
 
-**C-6622** Host Says a Calvary Chapel Cary Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations
+**C-2757** Host Says a Calvary Chapel Cary Lead Pastor Resigned Amid Incest and Fund-Misuse Allegations
 
 Claim Timestamp: 00:19:19
 
@@ -1737,7 +1737,7 @@ Investigative Direction: Identify the church and pastor (the transcript renders 
 
 ---
 
-**C-6623** Host Says the Lead Pastor of Calvary Chapel Mission Viejo Was Convicted of Abusing Two Girls
+**C-2758** Host Says the Lead Pastor of Calvary Chapel Mission Viejo Was Convicted of Abusing Two Girls
 
 Claim Timestamp: 00:19:19
 
@@ -1753,7 +1753,7 @@ Investigative Direction: Identify the pastor and locate the Orange County convic
 
 ---
 
-**C-6624** Host Says Calvary Chapel Solid Rock Pastor Jason James Taylor Was Arrested in a Trafficking Sting
+**C-2759** Host Says Calvary Chapel Solid Rock Pastor Jason James Taylor Was Arrested in a Trafficking Sting
 
 Claim Timestamp: 00:19:19
 
@@ -1769,7 +1769,7 @@ Investigative Direction: Locate Minnesota task force press releases and court re
 
 ---
 
-**C-6625** Host Says a Post Falls, Idaho Lawsuit Alleges Calvary Chapel Concealed a Known Predator
+**C-2760** Host Says a Post Falls, Idaho Lawsuit Alleges Calvary Chapel Concealed a Known Predator
 
 Claim Timestamp: 00:20:11
 
@@ -1785,7 +1785,7 @@ Investigative Direction: Retrieve the Idaho civil complaint and the criminal jud
 
 ---
 
-**C-6626** Host Says Calvary Chapel Churches Keep Getting Involved in Orphanages
+**C-2761** Host Says Calvary Chapel Churches Keep Getting Involved in Orphanages
 
 Claim Timestamp: 00:21:14
 
@@ -1801,7 +1801,7 @@ Investigative Direction: Map Calvary Chapel affiliated orphanage programs and an
 
 ---
 
-**C-6627** Host Says a Former Calvary Chapel Pastor in Virginia, Doug DeAndrea, Pleaded Guilty to Child Sex Abuse
+**C-2762** Host Says a Former Calvary Chapel Pastor in Virginia, Doug DeAndrea, Pleaded Guilty to Child Sex Abuse
 
 Claim Timestamp: 00:21:14
 
@@ -1817,7 +1817,7 @@ Investigative Direction: Locate the Virginia court records for the pastor (the t
 
 ---
 
-**C-6628** Host Says a Calvary Chapel Fort Lauderdale Employee Was Arrested in 2019 Over Child Abuse Images
+**C-2763** Host Says a Calvary Chapel Fort Lauderdale Employee Was Arrested in 2019 Over Child Abuse Images
 
 Claim Timestamp: 00:21:14
 
@@ -1833,7 +1833,7 @@ Investigative Direction: Identify the 2019 arrest record for the Fort Lauderdale
 
 ---
 
-**C-6629** Host Says an Oregon Calvary Chapel Pastor Confessed to Abusing His Daughters and Later Murdered an 82-Year-Old
+**C-2764** Host Says an Oregon Calvary Chapel Pastor Confessed to Abusing His Daughters and Later Murdered an 82-Year-Old
 
 Claim Timestamp: 00:21:14
 
@@ -1849,7 +1849,7 @@ Investigative Direction: Identify the pastor (the transcript spells the name Jef
 
 ---
 
-**C-6630** Host Recounts a Man Who Said the Feds Run a Cartel and Was Diddy's Sex Slave
+**C-2765** Host Recounts a Man Who Said the Feds Run a Cartel and Was Diddy's Sex Slave
 
 Claim Timestamp: 00:22:47
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Identify the man and the shooting incident the host mea
 
 ---
 
-**C-6631** Host Says Kanye Said Diddy Was Blackmailed by the Feds to Keep Others in Line
+**C-2766** Host Says Kanye Said Diddy Was Blackmailed by the Feds to Keep Others in Line
 
 Claim Timestamp: 00:23:32
 
@@ -1879,7 +1879,7 @@ Investigative Direction: Locate the Kanye West interview or episode the host des
 
 ---
 
-**C-6632** Host Says the Calvary Church Association Funded Potter's Field Ministries in Whitefish, Montana
+**C-2767** Host Says the Calvary Church Association Funded Potter's Field Ministries in Whitefish, Montana
 
 Claim Timestamp: 00:23:32
 
@@ -1895,7 +1895,7 @@ Investigative Direction: Retrieve Montana nonprofit filings and Form 990s for Po
 
 ---
 
-**C-6633** Host Says Potter's Field Came Under a 2019 Scandal Over Where Donor Money Went
+**C-2768** Host Says Potter's Field Came Under a 2019 Scandal Over Where Donor Money Went
 
 Claim Timestamp: 00:24:54
 
@@ -1911,7 +1911,7 @@ Investigative Direction: Locate the 2019 local press coverage of the Potter's Fi
 
 ---
 
-**C-6634** Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Field Program
+**C-2769** Host Reads a Whistleblower's Estimate That About 500 Children Were in the Potter's Field Program
 
 Claim Timestamp: 00:25:58
 
@@ -1927,7 +1927,7 @@ Investigative Direction: Locate the original news report quoting Kenzie Kinney a
 
 ---
 
-**C-6635** Host Says Potter's Field Brought In Rob McCoy as CFO and Its Money Went into His Church
+**C-2770** Host Says Potter's Field Brought In Rob McCoy as CFO and Its Money Went into His Church
 
 Claim Timestamp: 00:27:02
 
@@ -1943,7 +1943,7 @@ Investigative Direction: Obtain Potter's Field dissolution filings and Calvary C
 
 ---
 
-**C-6636** Host Says TPUSA Faith Reads Like an Infiltration after the Organization Pivoted to Faith
+**C-2771** Host Says TPUSA Faith Reads Like an Infiltration after the Organization Pivoted to Faith
 
 Claim Timestamp: 00:27:02
 
@@ -1959,7 +1959,7 @@ Investigative Direction: Establish dates for TPUSA Faith's formation, leadership
 
 ---
 
-**C-6637** Host Says She Has Caught Rob McCoy in Multiple Lies
+**C-2772** Host Says She Has Caught Rob McCoy in Multiple Lies
 
 Claim Timestamp: 00:27:02
 
@@ -1975,7 +1975,7 @@ Investigative Direction: List the specific McCoy statements the host says are fa
 
 ---
 
-**C-6638** Host Says Calvary Chapel Pastors Were the Number One Offenders in Operation Mocking Pastor
+**C-2773** Host Says Calvary Chapel Pastors Were the Number One Offenders in Operation Mocking Pastor
 
 Claim Timestamp: 00:27:02
 
@@ -1991,7 +1991,7 @@ Investigative Direction: Collect the pastors' sermons and statements about Owens
 
 ---
 
-**C-6639** Host Says Butch Hibbs Was Everywhere before and after the Assassination
+**C-2774** Host Says Butch Hibbs Was Everywhere before and after the Assassination
 
 Claim Timestamp: 00:28:18
 
@@ -2002,13 +2002,13 @@ Transcript Snippet: his brother Butch Hibbs, who was just everywhere um uh befor
 Anchored Artifacts: 
 Mentions: N-208, N-246, N-1, N-3
 Related Nodes: N-10817
-Supports: C-1674
+Supports: C-2691
 Tags: relevance:core
 Investigative Direction: Gather UVU event footage and photographs of Butch Hibbs from September 10 and the days after and log where and when he appears.
 
 ---
 
-**C-6640** Host Says Jack Hibbs Is Hosting 5 A.M. Calls Against Her and Tucker Carlson
+**C-2775** Host Says Jack Hibbs Is Hosting 5 A.M. Calls Against Her and Tucker Carlson
 
 Claim Timestamp: 00:28:18
 
@@ -2024,7 +2024,7 @@ Investigative Direction: Obtain the 5 a.m. call invitations or recordings and th
 
 ---
 
-**C-6641** Host Points to CIA Implications in the Origins of Calvary Chapel under Chuck Smith
+**C-2776** Host Points to CIA Implications in the Origins of Calvary Chapel under Chuck Smith
 
 Claim Timestamp: 00:28:18
 
@@ -2040,7 +2040,7 @@ Investigative Direction: Review documented histories of Chuck Smith and the Jesu
 
 ---
 
-**C-6642** Host Says Kirk Was Hitting Hard on Epstein and Sensed Pressure from High Up to Stop
+**C-2777** Host Says Kirk Was Hitting Hard on Epstein and Sensed Pressure from High Up to Stop
 
 Claim Timestamp: 00:29:12
 
@@ -2055,7 +2055,7 @@ Investigative Direction: Review Kirk's Epstein segments in the months before Sep
 
 ---
 
-**C-6643** Host Says Kirk Told Tucker Carlson to Go Max against Epstein
+**C-2778** Host Says Kirk Told Tucker Carlson to Go Max against Epstein
 
 Claim Timestamp: 00:29:12
 
@@ -2070,7 +2070,7 @@ Investigative Direction: Find the message or recording in which Kirk told Carlso
 
 ---
 
-**C-6644** Host Says the Macron Investigation Includes a Fed-Level Coverup and a Never-Before-Seen Lawsuit
+**C-2779** Host Says the Macron Investigation Includes a Fed-Level Coverup and a Never-Before-Seen Lawsuit
 
 Claim Timestamp: 00:30:06
 
@@ -2086,7 +2086,7 @@ Investigative Direction: Obtain the Delaware complaint and compare its filing, v
 
 ---
 
-**C-6645** Host Says Epstein Had Financial Tentacles in Modeling and Movie Agencies
+**C-2780** Host Says Epstein Had Financial Tentacles in Modeling and Movie Agencies
 
 Claim Timestamp: 00:31:08
 
@@ -2101,7 +2101,7 @@ Investigative Direction: Review released Epstein financial records and court fil
 
 ---
 
-**C-6646** Host Says TPUSA Faith Took Off as Kirk Spoke Daily about Trafficking of Children in Ukraine
+**C-2781** Host Says TPUSA Faith Took Off as Kirk Spoke Daily about Trafficking of Children in Ukraine
 
 Claim Timestamp: 00:31:08
 
@@ -2117,7 +2117,7 @@ Investigative Direction: Pull Kirk's posts and show segments on Ukraine and TPUS
 
 ---
 
-**C-6647** Host Says a September 30 Article Accused Sean Feucht of Mismanaging Funds
+**C-2782** Host Says a September 30 Article Accused Sean Feucht of Mismanaging Funds
 
 Claim Timestamp: 00:32:31
 
@@ -2132,7 +2132,7 @@ Investigative Direction: Identify the September 30 article, confirm the person i
 
 ---
 
-**C-6648** Host Says the Churches Involved Have Too Many Military Men from Powerful Military Families
+**C-2783** Host Says the Churches Involved Have Too Many Military Men from Powerful Military Families
 
 Claim Timestamp: 00:33:06
 
@@ -2148,7 +2148,7 @@ Investigative Direction: Compile staff and board biographies for the named churc
 
 ---
 
-**C-6649** Host Says the Trump Administration Seems to Have Been Hiding Epstein Emails
+**C-2784** Host Says the Trump Administration Seems to Have Been Hiding Epstein Emails
 
 Claim Timestamp: 00:33:26
 
@@ -2164,7 +2164,7 @@ Investigative Direction: Review the Epstein email releases around November 12-13
 
 ---
 
-**C-6650** Host Says Pam Bondi Called the Epstein Matter a Democrat Hoax
+**C-2785** Host Says Pam Bondi Called the Epstein Matter a Democrat Hoax
 
 Claim Timestamp: 00:33:26
 
@@ -2180,7 +2180,7 @@ Investigative Direction: Locate Bondi's statements calling the Epstein matter a 
 
 ---
 
-**C-6651** Host Says Netanyahu Is Being Tried for Crimes Against Humanity
+**C-2786** Host Says Netanyahu Is Being Tried for Crimes Against Humanity
 
 Claim Timestamp: 00:36:27
 
@@ -2195,7 +2195,7 @@ Investigative Direction: Check the status of ICC proceedings against Netanyahu; 
 
 ---
 
-**C-6652** Host Says Her Egyptian Planes Findings Were Taken to Government First
+**C-2787** Host Says Her Egyptian Planes Findings Were Taken to Government First
 
 Claim Timestamp: 00:36:27
 
@@ -2211,7 +2211,7 @@ Investigative Direction: Ask the host which agency or office received the materi
 
 ---
 
-**C-6653** Host Says the Government Seems Implicated in Trying to Stop Her from Getting the Truth
+**C-2788** Host Says the Government Seems Implicated in Trying to Stop Her from Getting the Truth
 
 Claim Timestamp: 00:36:27
 
@@ -2226,7 +2226,7 @@ Investigative Direction: Identify the specific instances of government obstructi
 
 ---
 
-**C-6654** Host Says TPUSA Is an $80 Million Company
+**C-2789** Host Says TPUSA Is an $80 Million Company
 
 Claim Timestamp: 00:37:24
 
@@ -2242,7 +2242,7 @@ Investigative Direction: Check TPUSA's Form 990 revenue figures and net assets f
 
 ---
 
-**C-6655** Host Says She Was Pressed to Call Kanye Hitler and an Anti-Semite and Refused
+**C-2790** Host Says She Was Pressed to Call Kanye Hitler and an Anti-Semite and Refused
 
 Claim Timestamp: 00:38:58
 
@@ -2258,7 +2258,7 @@ Investigative Direction: Identify who pressed the host on Kanye and when, and co
 
 ---
 
-**C-6656** Host Says Donors Demanded Charlie Not Let Her Speak at AmFest and He Said No
+**C-2791** Host Says Donors Demanded Charlie Not Let Her Speak at AmFest and He Said No
 
 Claim Timestamp: 00:38:58
 
@@ -2269,13 +2269,13 @@ Transcript Snippet: We demand as donors that you do not let her speak at Afest.
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10268
-Supports: C-1185
+Supports: C-361
 Tags: relevance:core
 Investigative Direction: Identify the donors and the communication in which they made the demand, and compare with AmFest 2024 speaker lists.
 
 ---
 
-**C-6657** Host Presents Megyn Kelly as Pressed to Choose between Her Career and Tucker Carlson
+**C-2792** Host Presents Megyn Kelly as Pressed to Choose between Her Career and Tucker Carlson
 
 Claim Timestamp: 00:39:45
 
@@ -2291,7 +2291,7 @@ Investigative Direction: Locate Kelly's own accounts of any such ultimatum and t
 
 ---
 
-**C-6658** Tucker Carlson Says He Loves Candace and That Getting to the Truth Is His Animating Motive
+**C-2794** Tucker Carlson Says He Loves Candace and That Getting to the Truth Is His Animating Motive
 
 Claim Timestamp: 00:41:21
 
@@ -2301,13 +2301,13 @@ Transcript Snippet: not about Candace, whom I love, comma, but about all people,
 
 Anchored Artifacts: A-1395.1
 Mentions: N-22, N-3
-Supports: C-1690
+Supports: C-2793
 Tags: relevance:context
 Investigative Direction: Identify the original interview (outlet, date and interviewer) and confirm the quote in full.
 
 ---
 
-**C-6659** Tucker Carlson Says He Will Not Accept a Government Statement without Asking Questions
+**C-2795** Tucker Carlson Says He Will Not Accept a Government Statement without Asking Questions
 
 Claim Timestamp: 00:42:14
 
@@ -2322,7 +2322,7 @@ Investigative Direction: Identify the statement Carlson refers to and the interv
 
 ---
 
-**C-6660** Host Says Stuckey Called Her a Liar in Her Own Way and Said Prying Is Not Biblical
+**C-2796** Host Says Stuckey Called Her a Liar in Her Own Way and Said Prying Is Not Biblical
 
 Claim Timestamp: 00:43:17
 
@@ -2337,7 +2337,7 @@ Investigative Direction: Locate Stuckey's video and the host's earlier response 
 
 ---
 
-**C-6661** Host Says Alexis Wilkins Comes from a Family of Freemasons with a Spotty Background
+**C-2797** Host Says Alexis Wilkins Comes from a Family of Freemasons with a Spotty Background
 
 Claim Timestamp: 00:45:12
 
@@ -2353,7 +2353,7 @@ Investigative Direction: Locate biographical sources on Wilkins' family and any 
 
 ---
 
-**C-6662** Host Says Alexis Wilkins Is a Member of Calvary Chapel in Chino Hills
+**C-2798** Host Says Alexis Wilkins Is a Member of Calvary Chapel in Chino Hills
 
 Claim Timestamp: 00:45:12
 
@@ -2364,13 +2364,13 @@ Transcript Snippet: She's also a member of the Calvary Chapel Church in Californ
 Anchored Artifacts: 
 Mentions: N-212, N-3
 Related Nodes: N-10246
-Supports: C-1691
+Supports: C-2801
 Tags: relevance:context
 Investigative Direction: Confirm Wilkins' church membership through church records or her own public statements.
 
 ---
 
-**C-6663** Host Says the Babylon Bee Guy Is Also Involved in Calvary Chapel
+**C-2799** Host Says the Babylon Bee Guy Is Also Involved in Calvary Chapel
 
 Claim Timestamp: 00:45:12
 
@@ -2386,7 +2386,7 @@ Investigative Direction: Identify the person (the host does not name him) and ve
 
 ---
 
-**C-6664** Host Says the Lawsuit against Elijah Schaffer Is About a Joke and Cites His Anti-Israel Rhetoric
+**C-2800** Host Says the Lawsuit against Elijah Schaffer Is About a Joke and Cites His Anti-Israel Rhetoric
 
 Claim Timestamp: 00:45:12
 
@@ -2402,7 +2402,7 @@ Investigative Direction: Retrieve the complaint against Schaefer and check what 
 
 ---
 
-**C-6665** Host Says Tim Dillon Is Already Included in Her Lawsuit with Brigitte Macron
+**C-2802** Host Says Tim Dillon Is Already Included in Her Lawsuit with Brigitte Macron
 
 Claim Timestamp: 00:49:22
 
@@ -2418,7 +2418,7 @@ Investigative Direction: Check the Macron complaint's list of defendants and quo
 
 ---
 
-**C-6666** Host Asks Why Millions of Dollars Came from One Person, Bob Shillman
+**C-2803** Host Asks Why Millions of Dollars Came from One Person, Bob Shillman
 
 Claim Timestamp: 00:52:57
 
@@ -2434,7 +2434,7 @@ Investigative Direction: Establish the donor identity (the transcript spells him
 
 ---
 
-**C-6667** Host Says Everyone Else Sold Charlie T-Shirts
+**C-2804** Host Says Everyone Else Sold Charlie T-Shirts
 
 Claim Timestamp: 00:53:46
 
@@ -2449,7 +2449,7 @@ Investigative Direction: Compile merchandise sold by TPUSA and others after Sept
 
 ---
 
-**C-6668** Host Says Vietnam Was Kissinger's War and Always a War against Christians
+**C-2805** Host Says Vietnam Was Kissinger's War and Always a War against Christians
 
 Claim Timestamp: 00:53:46
 
@@ -2464,7 +2464,7 @@ Investigative Direction: Historical claim recorded as said; test against standar
 
 ---
 
-**C-6669** Host Says Her Book Starts and Ends with Cardi B and Pre-Orders Have Shipped
+**C-2806** Host Says Her Book Starts and Ends with Cardi B and Pre-Orders Have Shipped
 
 Claim Timestamp: 00:54:48
 
@@ -2479,7 +2479,7 @@ Investigative Direction: Check the book's table of contents and shipping status.
 
 ---
 
-**C-6670** Host Says the Guards Do Not Actually Hand Anything Off on Clear Footage
+**C-2807** Host Says the Guards Do Not Actually Hand Anything Off on Clear Footage
 
 Claim Timestamp: 00:55:40
 
@@ -2489,13 +2489,13 @@ Transcript Snippet: So, we actually did look really close on clear footage and i
 
 Anchored Artifacts: A-2830.1
 Mentions: N-67, N-3
-Contradicts: C-1692
+Contradicts: C-2810
 Tags: relevance:core
 Investigative Direction: Obtain the multi-angle footage and run a frame-by-frame review of the guards' hands in the first seconds after the shot.
 
 ---
 
-**C-6671** Host Says It Is Unclear What the Guards Are Doing When Hidden on the Ground
+**C-2808** Host Says It Is Unclear What the Guards Are Doing When Hidden on the Ground
 
 Claim Timestamp: 00:55:40
 
@@ -2510,7 +2510,7 @@ Investigative Direction: Find footage from other angles that shows the guards at
 
 ---
 
-**C-6672** Host Says Pavers Were Put Down Almost Immediately and the Area Releveled
+**C-2809** Host Says Pavers Were Put Down Almost Immediately and the Area Releveled
 
 Claim Timestamp: 00:55:40
 
@@ -2521,13 +2521,13 @@ Transcript Snippet: we know they then put down pavers almost immediately and rel
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10107
-Supports: C-1263
+Supports: C-732
 Tags: relevance:core
 Investigative Direction: Obtain the UVU construction and paving records, dates and contractor invoices for the courtyard work.
 
 ---
 
-**C-6673** Host Says the Donor Who Yelled at Charlie Was Not Miriam Adelson
+**C-2811** Host Says the Donor Who Yelled at Charlie Was Not Miriam Adelson
 
 Claim Timestamp: 00:57:01
 
@@ -2542,7 +2542,7 @@ Investigative Direction: Identify the donor who confronted Kirk; the host says t
 
 ---
 
-**C-6674** Host Says Miriam Adelson Is Trying to Remove Thomas Massie
+**C-2812** Host Says Miriam Adelson Is Trying to Remove Thomas Massie
 
 Claim Timestamp: 00:57:01
 
@@ -2558,7 +2558,7 @@ Investigative Direction: Check federal election filings for Adelson-linked spend
 
 ---
 
-**C-6675** Host Says the Donor's Name Is Saved in Her Phone
+**C-2813** Host Says the Donor's Name Is Saved in Her Phone
 
 Claim Timestamp: 00:57:01
 
@@ -2573,7 +2573,7 @@ Investigative Direction: Ask the host to disclose the donor's name on the follow
 
 ---
 
-**C-6676** Host Says the Calvary Church Was Born after JFK Was Killed and Filled with LBJ's Military Men
+**C-2814** Host Says the Calvary Church Was Born after JFK Was Killed and Filled with LBJ's Military Men
 
 Claim Timestamp: 00:59:18
 

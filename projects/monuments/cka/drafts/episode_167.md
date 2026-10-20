@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (daily-2026-10-20): N-971, N-972, N-11445, N-11446, N-11447
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-27, N-40, N-41, N-68, N-82, N-277, N-330, N-352, N-353, N-592, N-876, N-957, N-962, N-963, N-970, N-10000, N-10006, N-10012, N-10013, N-10074, N-10167, N-10533, N-10637, N-10827, N-10832, N-10880, N-10882, N-10886, N-10889, N-10891, N-10915, N-10923, N-10925, N-11110, N-11111, N-11218, N-11297, N-11313, N-11426, N-11434, N-11435, N-11443
-  - Claim Range: C-15494–C-15570
+  - Claim Range: C-14398–C-14474
   - (see registers)
 
 # Episode 167 Analysis
@@ -41,7 +41,7 @@ Video Timestamp: 00:02:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15497, N-10827*
+*Related: C-14401, N-10827*
 
 **A-3409.2** Host verbal reference to an emailed tip that Blake Wynn's father was raided in 2004
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15533, N-352, N-972, N-11445*
+*Related: C-14437, N-352, N-972, N-11445*
 
 **A-3409.3** Host verbal request for tips on the Timpanogos Hospital board members, at the "more tips" email
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:20:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15545, N-11218, N-11447*
+*Related: C-14449, N-11218, N-11447*
 
 **A-3409.4** Host verbal reference to many emails from parents at a school where Erika Kirk is scheduled to speak
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:32:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15559, N-2, N-11297*
+*Related: C-14463, N-2, N-11297*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:04:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15503, N-2, N-10000*
+*Related: C-14407, N-2, N-10000*
 
 ---
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:06:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15509, C-15510, C-15511, C-15512, C-15513, C-15514, N-11, N-10827, N-10167*
+*Related: C-14413, C-14414, C-14415, C-14416, C-14417, C-14418, N-11, N-10827, N-10167*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:11:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15518, C-15519, C-15520, C-15521, C-15522, C-15523, C-15524, C-15525, N-330, N-10880, N-10013, N-11446*
+*Related: C-14422, C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, N-330, N-10880, N-10013, N-11446*
 
 **A-3412.2** Discord message about a missing "$10 incentive" for the "AL" White House Correspondents' Dinner clip
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:15:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15529, C-15530, C-15531, N-10013, N-10880, N-10923, N-10637*
+*Related: C-14433, C-14434, C-14435, N-10013, N-10880, N-10923, N-10637*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:18:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15533, C-15534, C-15535, C-15536, C-15537, C-15538, N-972, N-353, N-11445*
+*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, N-972, N-353, N-11445*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:20:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15541, C-15542, C-15543, N-957, N-11218, N-11447*
+*Related: C-14445, C-14446, C-14447, N-957, N-11218, N-11447*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:26:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15551, N-962, N-5*
+*Related: C-14455, N-962, N-5*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:27:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15555, C-15556, C-15557, N-277, N-962, N-592, N-970, N-11443*
+*Related: C-14459, C-14460, C-14461, N-277, N-962, N-592, N-970, N-11443*
 
 ---
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:32:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15560, C-15561, C-15562, C-15563, N-2, N-11297*
+*Related: C-14464, C-14465, C-14466, C-14467, N-2, N-11297*
 
 ---
 
@@ -207,276 +207,276 @@ Confidence Level: Medium
 
 Assassination victim. His statue's vandalism, the hospital he was taken to and the White House calls he received are discussed.
 
-*Related: C-15499, C-15501, C-15505, C-15507, C-15517, C-15539, C-15541, C-15564, C-15565*
+*Related: C-14403, C-14405, C-14409, C-14411, C-14421, C-14443, C-14445, C-14468, C-14469*
 
 **N-2** Erika Kirk
 
 TPUSA CEO. The host covers the clipping campaign promoting her, her WHCD clip and her scheduled school chapel appearance.
 
-*Related: C-15501, C-15503, C-15507, C-15517, C-15519, C-15520, C-15521, C-15522, C-15523, C-15524, C-15525, C-15526, C-15527, C-15528, C-15529, C-15532, C-15558, C-15559, C-15560, C-15561, C-15562, C-15563, C-15564*
+*Related: C-14405, C-14407, C-14411, C-14421, C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, C-14430, C-14431, C-14432, C-14433, C-14436, C-14462, C-14463, C-14464, C-14465, C-14466, C-14467, C-14468*
 
 **N-3** Candace Owens
 
 Host.
 
-*Related: C-15495, C-15497, C-15515, C-15545, C-15567*
+*Related: C-14399, C-14401, C-14419, C-14449, C-14471*
 
 **N-5** Donald Trump
 
 The host says he pardoned Tyler Bowyer and was embarrassed by Zacharia's credentials. She says there are suggestions he will remove cabinet members.
 
-*Related: C-15500, C-15549, C-15551, C-15569*
+*Related: C-14404, C-14453, C-14455, C-14473*
 
 **N-11** Tyler Bowyer
 
 Turning Point Action figure. The host says he had the statue erected and reads his direct messages about the vandalism.
 
-*Related: C-15499, C-15500, C-15501, C-15509, C-15510, C-15511, C-15512, C-15513, C-15514*
+*Related: C-14403, C-14404, C-14405, C-14413, C-14414, C-14415, C-14416, C-14417, C-14418*
 
 **N-27** Kanye West
 
 The host identifies the intro voice as from his song "Stars".
 
-*Related: C-15568*
+*Related: C-14472*
 
 **N-40** Tyler Robinson
 
 Accused shooter, referred to sarcastically in the comments segment.
 
-*Related: C-15566*
+*Related: C-14470*
 
 **N-41** Spencer Cox
 
 Utah governor. The host says his office has not answered whether he met Val Peterson on September 10.
 
-*Related: C-15546, C-15547*
+*Related: C-14450, C-14451*
 
 **N-68** Schuyler
 
 Show staffer who supplies the song title.
 
-*Related: C-15568*
+*Related: C-14472*
 
 **N-82** Brigitte Macron
 
 Subject of the host's "Brigitte doll" parody bit.
 
-*Related: C-15516*
+*Related: C-14420*
 
 **N-277** Tim Dillon
 
 Comedian whose segment on Zacharia and the execution plan the host plays.
 
-*Related: C-15553, C-15554, C-15555, C-15556, C-15557, C-15569*
+*Related: C-14457, C-14458, C-14459, C-14460, C-14461, C-14473*
 
 **N-330** Baron Coleman
 
 The host says he found the February Discord relic. She will join him while on leave.
 
-*Related: C-15518, C-15520, C-15567, C-15570*
+*Related: C-14422, C-14424, C-14471, C-14474*
 
 **N-352** Blake Wynn
 
 Erika Kirk's friend. The host ties his firm Enclave and Key to the clipping of Erika's WHCD clip and reports a tip about his father.
 
-*Related: C-15527, C-15528, C-15532, C-15533*
+*Related: C-14431, C-14432, C-14436, C-14437*
 
 **N-353** Steve Wynn
 
 Casino developer; the 2004 article names Kenny Wynn as his brother.
 
-*Related: C-15534*
+*Related: C-14438*
 
 **N-592** Pete Hegseth
 
 The host alleges he lied about bombing Iranian schools and cites his plan for a live execution.
 
-*Related: C-15548, C-15554, C-15556*
+*Related: C-14452, C-14458, C-14460*
 
 **N-876** Jean-Michel Trogneux
 
 Named in the host's Brigitte doll parody.
 
-*Related: C-15516*
+*Related: C-14420*
 
 **N-957** Val Peterson
 
 UVU vice president of facilities. The host reports his former hospital and airport board seats.
 
-*Related: C-15540, C-15541, C-15542, C-15543, C-15546*
+*Related: C-14444, C-14445, C-14446, C-14447, C-14450*
 
 **N-962** Katie Zacharia
 
 Outgoing White House press secretary.
 
-*Related: C-15494, C-15549, C-15550, C-15551, C-15552, C-15553, C-15554, C-15555*
+*Related: C-14398, C-14453, C-14454, C-14455, C-14456, C-14457, C-14458, C-14459*
 
 **N-963** Charles Peterson
 
 Val Peterson's brother, referred to as "another alleged innocent until proven guilty".
 
-*Related: C-15540*
+*Related: C-14444*
 
 **N-970** Nidal Malik Hasan
 
 Referred to as "the Fort Hood shooter" in the Tim Dillon clip.
 
-*Related: C-15557*
+*Related: C-14461*
 
 **N-10000** Turning Point USA
 
-*Related: C-15503, C-15504, C-15506, C-15507, C-15565*
+*Related: C-14407, C-14408, C-14410, C-14411, C-14469*
 
 **N-10006** Fox News
 
 The host says Zacharia is going back to Fox News.
 
-*Related: C-15552*
+*Related: C-14456*
 
 **N-10012** Utah Valley University
 
-*Related: C-15540*
+*Related: C-14444*
 
 **N-10013** Discord
 
 Platform where the clipping messages were found.
 
-*Related: C-15519, C-15529, A-3412.1, A-3412.2*
+*Related: C-14423, C-14433, A-3412.1, A-3412.2*
 
 **N-10074** Provo, Utah
 
 Val Peterson once sat on the Provo airport board.
 
-*Related: C-15542*
+*Related: C-14446*
 
 **N-10167** Tyler Bowyer X Defense Pattern
 
 Bowyer's DMs defending the organization.
 
-*Related: C-15509, C-15511*
+*Related: C-14413, C-14415*
 
 **N-10533** Club America High School Pushback
 
-*Related: C-15558*
+*Related: C-14462*
 
 **N-10637** WHCD Incident Reconstruction
 
-*Related: C-15504, C-15526, C-15527, C-15529*
+*Related: C-14408, C-14430, C-14431, C-14433*
 
 **N-10827** Statue Vandalism Investigation
 
-*Related: C-15496, C-15497, C-15498, C-15499, C-15505, C-15506, C-15508, C-15509, C-15510, C-15511, C-15512, C-15513, C-15514, C-15515, C-15565*
+*Related: C-14400, C-14401, C-14402, C-14403, C-14409, C-14410, C-14412, C-14413, C-14414, C-14415, C-14416, C-14417, C-14418, C-14419, C-14469*
 
 **N-10832** Trafficking-Pattern Claim (TPUSA / Kirk Circle)
 
-*Related: C-15533, C-15539*
+*Related: C-14437, C-14443*
 
 **N-10880** Monster Lab / Clippet
 
-*Related: C-15517, C-15518, C-15519, C-15520, C-15521, C-15522, C-15523, C-15524, C-15525, C-15528, C-15529, C-15530*
+*Related: C-14421, C-14422, C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, C-14432, C-14433, C-14434*
 
 **N-10882** Enclave and Key
 
-*Related: C-15528, C-15532*
+*Related: C-14432, C-14436*
 
 **N-10886** Latvia
 
-*Related: C-15519*
+*Related: C-14423*
 
 **N-10889** Atlantic Elephant Clipping Expose
 
-*Related: C-15517*
+*Related: C-14421*
 
 **N-10891** Erika Kirk September 15 2025 Google Drive Clip Seed
 
-*Related: C-15532, C-15566*
+*Related: C-14436, C-14470*
 
 **N-10915** White House Ballroom Talking-Point Convergence
 
-*Related: C-15504*
+*Related: C-14408*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
-*Related: C-15526, C-15531, C-15532*
+*Related: C-14430, C-14435, C-14436*
 
 **N-10925** Turning Point Action
 
-*Related: C-15499, C-15513*
+*Related: C-14403, C-14417*
 
 **N-11110** Erika Kirk and Tyler Bowyer First-Meeting Account
 
-*Related: C-15501*
+*Related: C-14405*
 
 **N-11111** Tyler Bowyer Legal and Debt History Claims
 
-*Related: C-15500*
+*Related: C-14404*
 
 **N-11218** Timpanogos Regional Hospital
 
-*Related: C-15541, C-15543, C-15544, C-15545*
+*Related: C-14445, C-14447, C-14448, C-14449*
 
 **N-11297** TPUSA Mandatory Student Attendance at Erika Kirk Events
 
-*Related: C-15558, C-15559, C-15560, C-15561, C-15562, C-15563*
+*Related: C-14462, C-14463, C-14464, C-14465, C-14466, C-14467*
 
 **N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting
 
-*Related: C-15495, C-15496, C-15567, C-15570*
+*Related: C-14399, C-14400, C-14471, C-14474*
 
 **N-11426** Val Peterson September 10 Whereabouts
 
-*Related: C-15546, C-15547*
+*Related: C-14450, C-14451*
 
 **N-11434** Katie Zacharia Lawyer Credential Question
 
-*Related: C-15494, C-15549, C-15550, C-15555*
+*Related: C-14398, C-14453, C-14454, C-14459*
 
 **N-11435** Turning Point Action Funds Depletion Email
 
-*Related: C-15513*
+*Related: C-14417*
 
 **N-11443** Fort Hood Shooter Execution Livestream Question
 
-*Related: C-15553, C-15554, C-15557*
+*Related: C-14457, C-14458, C-14461*
 
 **N-971** Jussie Smollett
 
 First named by the host at 00:03:05 in episode 167 ("Jussie Smollett"), as an analogy for a staged hate crime.
 
-*Related: C-15502*
+*Related: C-14406*
 
 **N-972** Kenneth "Kenny" Wynn
 
 First named by the host at 00:17:30 in episode 167. Brother of Steve Wynn; the host says he is Blake Wynn's father. Transcribed as "Kenneth Wynn", "Kenny Wynn", "Kenny Wynn".
 
-*Related: C-15533, C-15534, C-15535, C-15536, A-3413.1*
+*Related: C-14437, C-14438, C-14439, C-14440, A-3413.1*
 
 **N-11445** Kenneth Wynn 2004 Child Pornography Investigation
 
 Node Type: Topic
 The 2004 federal (ICE Operation Predator) child pornography investigation in which Kenny Wynn's home computer was reportedly seized. The host raises it as part of a child-abuse pattern in the TPUSA orbit.
 
-*Related: C-15533, C-15534, C-15535, C-15536, C-15537, C-15538, A-3413.1, N-972, N-352*
+*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, A-3413.1, N-972, N-352*
 
 **N-11446** Monster Lab Erika Kirk Name Ban
 
 Node Type: Topic
 Discord messages in which Monster Lab clippers were allegedly told to delete messages, not use Erika Kirk's name, and use "EK", with bans for mentioning her. Surfaced by Baron Coleman via a misspelled "Ekka Kirk" message.
 
-*Related: C-15519, C-15520, C-15521, C-15522, C-15523, C-15524, C-15525, A-3412.1, N-10880*
+*Related: C-14423, C-14424, C-14425, C-14426, C-14427, C-14428, C-14429, A-3412.1, N-10880*
 
 **N-11447** Timpanogos Hospital Board Membership Question
 
 Node Type: Topic
 Who sits or sat on the board of Timpanogos Regional Hospital, where Charlie Kirk was taken, given Val Peterson's former seat. The host says the membership is not public.
 
-*Related: C-15541, C-15543, C-15544, C-15545, A-3414.1, N-957, N-11218*
+*Related: C-14445, C-14447, C-14448, C-14449, A-3414.1, N-957, N-11218*
 
 ---
 
 ## 5. Claim Register
 
-**C-15494** Host Says Press Secretary Katie Zacharia Is Out
+**C-14398** Host Says Press Secretary Katie Zacharia Is Out
 
 Claim Timestamp: 00:00:06
 
@@ -492,7 +492,7 @@ Investigative Direction: White House announcements and press coverage of Zachari
 
 ---
 
-**C-15495** Host Says Four Episodes Remain Before Her Maternity Leave
+**C-14399** Host Says Four Episodes Remain Before Her Maternity Leave
 
 Claim Timestamp: 00:01:35
 
@@ -508,7 +508,7 @@ Investigative Direction: The show's episode schedule over the following week.
 
 ---
 
-**C-15496** Host Says She Received a Statue Update on Thursday
+**C-14400** Host Says She Received a Statue Update on Thursday
 
 Claim Timestamp: 00:01:55
 
@@ -524,7 +524,7 @@ Investigative Direction: The source and date of the Tyler Bowyer DM exchange sho
 
 ---
 
-**C-15497** Host Credits a Sleuth in Alaska Named Jenny
+**C-14401** Host Credits a Sleuth in Alaska Named Jenny
 
 Claim Timestamp: 00:02:02
 
@@ -540,7 +540,7 @@ Investigative Direction: The show's tip correspondence about the statue update.
 
 ---
 
-**C-15498** Host Says She Messaged an Instagram Account Following the Statue Story
+**C-14402** Host Says She Messaged an Instagram Account Following the Statue Story
 
 Claim Timestamp: 00:02:22
 
@@ -556,7 +556,7 @@ Investigative Direction: The Instagram account referenced and its posts on the s
 
 ---
 
-**C-15499** Host Says Tyler Bowyer Had the Statue Erected on the One-Year Anniversary
+**C-14403** Host Says Tyler Bowyer Had the Statue Erected on the One-Year Anniversary
 
 Claim Timestamp: 00:02:35
 
@@ -567,13 +567,13 @@ Transcript Snippet: Turning Point Actions Tyler Bowyer is the one who had the Ch
 Anchored Artifacts:
 Mentions: N-11, N-1
 Related Nodes: N-10925, N-10827
-Supports: C-15448
+Supports: C-14352
 Tags: relevance:core
 Investigative Direction: TPUSA and Turning Point Action announcements of the statue unveiling in September 2026.
 
 ---
 
-**C-15500** Host Alleges Bowyer Is a Sexual Deviant Pardoned by Trump
+**C-14404** Host Alleges Bowyer Is a Sexual Deviant Pardoned by Trump
 
 Claim Timestamp: 00:02:47
 
@@ -584,13 +584,13 @@ Transcript Snippet: is a sexual deviant who would potentially even be in federal
 Anchored Artifacts:
 Mentions: N-11, N-5
 Related Nodes: N-11111
-Supports: C-15441
+Supports: C-14345
 Tags: relevance:context
 Investigative Direction: The November 2025 presidential pardon list for the 2020 alternate electors and the Arizona fake-elector case docket.
 
 ---
 
-**C-15501** Host Says Bowyer Introduced Erika to Charlie
+**C-14405** Host Says Bowyer Introduced Erika to Charlie
 
 Claim Timestamp: 00:03:07
 
@@ -606,7 +606,7 @@ Investigative Direction: Erika Kirk's and TPUSA's public accounts of how she met
 
 ---
 
-**C-15502** Host Says Jussie Smollett Hired Two Nigerian Actors to Stage a Hate Crime
+**C-14406** Host Says Jussie Smollett Hired Two Nigerian Actors to Stage a Hate Crime
 
 Claim Timestamp: 00:03:22
 
@@ -622,7 +622,7 @@ Investigative Direction: The Smollett trial record (Cook County, 2021) on the Os
 
 ---
 
-**C-15503** In a Clip the Host Plays, a Speaker Urges People to Go to tpusa.com
+**C-14407** In a Clip the Host Plays, a Speaker Urges People to Go to tpusa.com
 
 Claim Timestamp: 00:04:05
 
@@ -638,7 +638,7 @@ Investigative Direction: Erika Kirk's September 12, 2025 public address and its 
 
 ---
 
-**C-15504** Host Says TPUSA Repeated Its Formula After the WHCD
+**C-14408** Host Says TPUSA Repeated Its Formula After the WHCD
 
 Claim Timestamp: 00:04:18
 
@@ -654,7 +654,7 @@ Investigative Direction: TPUSA emails and social posts in the days after the WHC
 
 ---
 
-**C-15505** Host Says Red Paint Was Placed Where Charlie Bled Out
+**C-14409** Host Says Red Paint Was Placed Where Charlie Bled Out
 
 Claim Timestamp: 00:04:55
 
@@ -670,7 +670,7 @@ Investigative Direction: Photos of the vandalized statue and the police report.
 
 ---
 
-**C-15506** Host Says TPUSA Refuses to Release Details on the Suspect
+**C-14410** Host Says TPUSA Refuses to Release Details on the Suspect
 
 Claim Timestamp: 00:05:04
 
@@ -681,13 +681,13 @@ Transcript Snippet: it sure is weird that they're refusing to release any furthe
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10000, N-10827
-Supports: C-15450
+Supports: C-14354
 Tags: relevance:core
 Investigative Direction: Phoenix police report on the vandalism and any TPUSA statement on suspect descriptions.
 
 ---
 
-**C-15507** Host Says Erika Is CEO and Chairwoman of TPUSA
+**C-14411** Host Says Erika Is CEO and Chairwoman of TPUSA
 
 Claim Timestamp: 00:05:10
 
@@ -703,7 +703,7 @@ Investigative Direction: TPUSA's officer listings and board announcements.
 
 ---
 
-**C-15508** Host Says Over a Month Has Passed With No Footage From the Campus
+**C-14412** Host Says Over a Month Has Passed With No Footage From the Campus
 
 Claim Timestamp: 00:05:31
 
@@ -719,7 +719,7 @@ Investigative Direction: The date of the vandalism and TPUSA headquarters' camer
 
 ---
 
-**C-15509** Host Says a Viewer DMed Tyler Bowyer About the Statue
+**C-14413** Host Says a Viewer DMed Tyler Bowyer About the Statue
 
 Claim Timestamp: 00:06:08
 
@@ -735,7 +735,7 @@ Investigative Direction: The original DM screenshots and the viewer who sent the
 
 ---
 
-**C-15510** Per the DMs the Host Shows, Bowyer Says Masked Gang Bangers Covered Their Plate
+**C-14414** Per the DMs the Host Shows, Bowyer Says Masked Gang Bangers Covered Their Plate
 
 Claim Timestamp: 00:06:40
 
@@ -751,7 +751,7 @@ Investigative Direction: Phoenix police case file on the statue vandalism.
 
 ---
 
-**C-15511** Per the DMs, Bowyer Asks How More Cameras Would Help
+**C-14415** Per the DMs, Bowyer Asks How More Cameras Would Help
 
 Claim Timestamp: 00:07:07
 
@@ -767,7 +767,7 @@ Investigative Direction: The DM screenshots and any TPUSA surveillance footage o
 
 ---
 
-**C-15512** Host Says the Police Hit a Dead End
+**C-14416** Host Says the Police Hit a Dead End
 
 Claim Timestamp: 00:07:29
 
@@ -783,7 +783,7 @@ Investigative Direction: Phoenix police case status for the statue vandalism.
 
 ---
 
-**C-15513** Per the DMs, the Viewer Jabs Bowyer About Running Out of Financial Resources
+**C-14417** Per the DMs, the Viewer Jabs Bowyer About Running Out of Financial Resources
 
 Claim Timestamp: 00:07:44
 
@@ -799,7 +799,7 @@ Investigative Direction: The Turning Point Action funds email and the organizati
 
 ---
 
-**C-15514** Per the DMs, Bowyer Says He Worked With the Statue's Artist
+**C-14418** Per the DMs, Bowyer Says He Worked With the Statue's Artist
 
 Claim Timestamp: 00:07:53
 
@@ -815,7 +815,7 @@ Investigative Direction: The statue's commissioning records and the sculptor's s
 
 ---
 
-**C-15515** Host Sarcastically Declares the Statue Case Closed
+**C-14419** Host Sarcastically Declares the Statue Case Closed
 
 Claim Timestamp: 00:10:06
 
@@ -831,7 +831,7 @@ Investigative Direction: Whether any police or TPUSA statement has closed the va
 
 ---
 
-**C-15516** Host Says, as a Parody, Someone Bleached Her Brigitte Doll
+**C-14420** Host Says, as a Parody, Someone Bleached Her Brigitte Doll
 
 Claim Timestamp: 00:10:19
 
@@ -847,7 +847,7 @@ Investigative Direction: None needed; the host presents it as satire (she later 
 
 ---
 
-**C-15517** Host Says Monster Lab Appears Created to Support Erika's Image After the Assassination
+**C-14421** Host Says Monster Lab Appears Created to Support Erika's Image After the Assassination
 
 Claim Timestamp: 00:11:05
 
@@ -858,13 +858,13 @@ Transcript Snippet: this entire website, Monster Lab, which appears to have been
 Anchored Artifacts:
 Mentions: N-2, N-1
 Related Nodes: N-10880, N-10889
-Supports: C-3691
+Supports: C-13937
 Tags: relevance:core
 Investigative Direction: Wayback Machine captures of the Monster Lab domain and The Atlantic's reporting.
 
 ---
 
-**C-15518** Host Says Baron Coleman Found a February Campaign Relic
+**C-14422** Host Says Baron Coleman Found a February Campaign Relic
 
 Claim Timestamp: 00:11:37
 
@@ -880,7 +880,7 @@ Investigative Direction: The original Discord server archive Coleman used.
 
 ---
 
-**C-15519** Host Says the Latvian Operator Gave Strict Instructions to Clippers
+**C-14423** Host Says the Latvian Operator Gave Strict Instructions to Clippers
 
 Claim Timestamp: 00:11:43
 
@@ -896,7 +896,7 @@ Investigative Direction: Monster Lab Discord rules channel and the operator's id
 
 ---
 
-**C-15520** In a Clip, a Message About the "Erika Kirk AmFest" Campaign Survived Because Her Name Was Misspelled
+**C-14424** In a Clip, a Message About the "Erika Kirk AmFest" Campaign Survived Because Her Name Was Misspelled
 
 Claim Timestamp: 00:12:20
 
@@ -912,7 +912,7 @@ Investigative Direction: The Discord message itself, its server and its author.
 
 ---
 
-**C-15521** In the Clip, the Payment Message Is Dated February 22, 2026
+**C-14425** In the Clip, the Payment Message Is Dated February 22, 2026
 
 Claim Timestamp: 00:12:32
 
@@ -928,7 +928,7 @@ Investigative Direction: The message timestamp and AmericaFest 2025 dates.
 
 ---
 
-**C-15522** In the Clip, the User Is Told to Delete the Message and Not Use Her Name
+**C-14426** In the Clip, the User Is Told to Delete the Message and Not Use Her Name
 
 Claim Timestamp: 00:12:52
 
@@ -944,7 +944,7 @@ Investigative Direction: The Discord replies and the moderator accounts that pos
 
 ---
 
-**C-15523** In the Clip, Saying the Campaign Is for Erika Gets You Kicked Out
+**C-14427** In the Clip, Saying the Campaign Is for Erika Gets You Kicked Out
 
 Claim Timestamp: 00:13:05
 
@@ -960,7 +960,7 @@ Investigative Direction: The Discord thread and server rules.
 
 ---
 
-**C-15524** In the Clip, Moderators Use a Stop Emoji and the Code "EK"
+**C-14428** In the Clip, Moderators Use a Stop Emoji and the Code "EK"
 
 Claim Timestamp: 00:13:35
 
@@ -976,7 +976,7 @@ Investigative Direction: The Discord messages showing the emoji reactions and "E
 
 ---
 
-**C-15525** In the Clip, Users Are Told They Will Be Banned for Naming Erika Kirk
+**C-14429** In the Clip, Users Are Told They Will Be Banned for Naming Erika Kirk
 
 Claim Timestamp: 00:13:44
 
@@ -992,7 +992,7 @@ Investigative Direction: Discord moderation logs and ban records for the campaig
 
 ---
 
-**C-15526** Host Recalls the WHCD-Night Email Telling Officials to Promote Erika's Clip
+**C-14430** Host Recalls the WHCD-Night Email Telling Officials to Promote Erika's Clip
 
 Claim Timestamp: 00:14:46
 
@@ -1003,13 +1003,13 @@ Transcript Snippet: the email that went out on the night of the White House corr
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10923, N-10637
-Supports: C-4270
+Supports: C-9546
 Tags: relevance:core
 Investigative Direction: FOIA responses for the White House Military Office / Department of War email.
 
 ---
 
-**C-15527** Host Says Blake Wynn Was by Erika's Side for "I Just Want to Go Home"
+**C-14431** Host Says Blake Wynn Was by Erika's Side for "I Just Want to Go Home"
 
 Claim Timestamp: 00:15:00
 
@@ -1025,7 +1025,7 @@ Investigative Direction: Full footage of Erika Kirk leaving the WHCD and who fil
 
 ---
 
-**C-15528** Host Says Blake Wynn's Enclave and Key Made Erika Clips Go Viral via Monster Lab
+**C-14432** Host Says Blake Wynn's Enclave and Key Made Erika Clips Go Viral via Monster Lab
 
 Claim Timestamp: 00:15:20
 
@@ -1036,13 +1036,13 @@ Transcript Snippet: Blake's company, Enclave and Key, is exactly the company tha
 Anchored Artifacts:
 Mentions: N-352, N-2
 Related Nodes: N-10882, N-10880
-Supports: C-15077
+Supports: C-13981
 Tags: relevance:core
 Investigative Direction: Enclave and Key's client agreements with Monster Lab and The Atlantic's reporting.
 
 ---
 
-**C-15529** Per the Discord Message the Host Shows, Clippers Were Owed a $10 Incentive for the "AL" WHCD Clip
+**C-14433** Per the Discord Message the Host Shows, Clippers Were Owed a $10 Incentive for the "AL" WHCD Clip
 
 Claim Timestamp: 00:15:45
 
@@ -1058,7 +1058,7 @@ Investigative Direction: The Discord message, its date and the "anti-left" campa
 
 ---
 
-**C-15530** Host Says the AL Campaign Is Called Anti-Left
+**C-14434** Host Says the AL Campaign Is Called Anti-Left
 
 Claim Timestamp: 00:15:52
 
@@ -1074,7 +1074,7 @@ Investigative Direction: Monster Lab campaign listings archived for spring 2026.
 
 ---
 
-**C-15531** Host Says the Discord Message Lines Up With the Amplification Email
+**C-14435** Host Says the Discord Message Lines Up With the Amplification Email
 
 Claim Timestamp: 00:16:38
 
@@ -1085,13 +1085,13 @@ Transcript Snippet: it lines up exactly with the email that we intercepted which
 Anchored Artifacts: A-3412.2
 Mentions:
 Related Nodes: N-10923
-Supports: C-4120
+Supports: C-9267
 Tags: relevance:core
 Investigative Direction: The intercepted email's distribution list and any matching Monster Lab payout records.
 
 ---
 
-**C-15532** Host Says Enclave and Key Plausibly Funded the $10 Incentive
+**C-14436** Host Says Enclave and Key Plausibly Funded the $10 Incentive
 
 Claim Timestamp: 00:16:55
 
@@ -1102,13 +1102,13 @@ Transcript Snippet: Blake's enclaving key which had already been providing the G
 Anchored Artifacts:
 Mentions: N-352, N-2
 Related Nodes: N-10882, N-10891, N-10923
-Supports: C-3688
+Supports: C-13915
 Tags: relevance:core
 Investigative Direction: Monster Lab campaign funding records and Enclave and Key payments.
 
 ---
 
-**C-15533** Tip Says Blake Wynn's Father, Kenny Wynn, Was Raided in 2004
+**C-14437** Tip Says Blake Wynn's Father, Kenny Wynn, Was Raided in 2004
 
 Claim Timestamp: 00:17:44
 
@@ -1124,7 +1124,7 @@ Investigative Direction: Public records on Blake Wynn's parentage and the 2004 L
 
 ---
 
-**C-15534** Per the Article, Kenny Wynn, Steve Wynn's Brother, Was Subject of a Child Pornography Probe
+**C-14438** Per the Article, Kenny Wynn, Steve Wynn's Brother, Was Subject of a Child Pornography Probe
 
 Claim Timestamp: 00:18:01
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Las Vegas Sun, February 26 and March 4, 2004; ICE recor
 
 ---
 
-**C-15535** Per the Article, Wynn's Name Was Found on a Child Porn Website by Operation Predator
+**C-14439** Per the Article, Wynn's Name Was Found on a Child Porn Website by Operation Predator
 
 Claim Timestamp: 00:18:15
 
@@ -1156,7 +1156,7 @@ Investigative Direction: The search warrant application and the Regpay investiga
 
 ---
 
-**C-15536** Per the Article, Authorities Seized a Computer From Wynn's Home
+**C-14440** Per the Article, Authorities Seized a Computer From Wynn's Home
 
 Claim Timestamp: 00:18:27
 
@@ -1172,7 +1172,7 @@ Investigative Direction: Search warrant return and any later charging decision.
 
 ---
 
-**C-15537** Per the Article, Operation Predator Began in July Under ICE
+**C-14441** Per the Article, Operation Predator Began in July Under ICE
 
 Claim Timestamp: 00:18:39
 
@@ -1188,7 +1188,7 @@ Investigative Direction: ICE's July 2003 Operation Predator announcement.
 
 ---
 
-**C-15538** Per the Article, Operation Predator Led to More Than 1,700 Arrests
+**C-14442** Per the Article, Operation Predator Led to More Than 1,700 Arrests
 
 Claim Timestamp: 00:18:51
 
@@ -1204,7 +1204,7 @@ Investigative Direction: ICE Operation Predator statistics for early 2004.
 
 ---
 
-**C-15539** Host Says Charlie Was Getting White House Calls About the Epstein Scandal
+**C-14443** Host Says Charlie Was Getting White House Calls About the Epstein Scandal
 
 Claim Timestamp: 00:19:12
 
@@ -1215,13 +1215,13 @@ Transcript Snippet: Definitely makes you think about what he was going through g
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10832
-Supports: C-15357
+Supports: C-14261
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's phone records and accounts of White House contacts in summer 2025.
 
 ---
 
-**C-15540** Host Says Val Peterson Is UVU's VP of Facilities, a Utah House Rep and a Brigadier General
+**C-14444** Host Says Val Peterson Is UVU's VP of Facilities, a Utah House Rep and a Brigadier General
 
 Claim Timestamp: 00:19:36
 
@@ -1237,7 +1237,7 @@ Investigative Direction: UVU staff directory and Utah House member biography.
 
 ---
 
-**C-15541** Host Says Val Peterson Sat on the Timpanogos Hospital Board
+**C-14445** Host Says Val Peterson Sat on the Timpanogos Hospital Board
 
 Claim Timestamp: 00:20:05
 
@@ -1253,7 +1253,7 @@ Investigative Direction: Val Peterson's Utah legislature biography and UVU profi
 
 ---
 
-**C-15542** Host Says Val Peterson Also Sat on the Provo Airport Board
+**C-14446** Host Says Val Peterson Also Sat on the Provo Airport Board
 
 Claim Timestamp: 00:20:13
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Provo Municipal Airport advisory board records.
 
 ---
 
-**C-15543** Host Says Peterson Left the Hospital Board in 2019
+**C-14447** Host Says Peterson Left the Hospital Board in 2019
 
 Claim Timestamp: 00:20:22
 
@@ -1285,7 +1285,7 @@ Investigative Direction: Timpanogos Regional Hospital governing board records.
 
 ---
 
-**C-15544** Host Says the Timpanogos Board Membership Is Not Public
+**C-14448** Host Says the Timpanogos Board Membership Is Not Public
 
 Claim Timestamp: 00:20:30
 
@@ -1301,7 +1301,7 @@ Investigative Direction: HCA Healthcare / MountainStar disclosures of Timpanogos
 
 ---
 
-**C-15545** DIA: Host Asks for Tips on the Timpanogos Board
+**C-14449** DIA: Host Asks for Tips on the Timpanogos Board
 
 Claim Timestamp: 00:20:39
 
@@ -1317,7 +1317,7 @@ Investigative Direction: Tips received at moretips@candaceowens.com.
 
 ---
 
-**C-15546** Host Says Two Reliable Sources Put Val Peterson With Governor Cox on September 10
+**C-14450** Host Says Two Reliable Sources Put Val Peterson With Governor Cox on September 10
 
 Claim Timestamp: 00:21:09
 
@@ -1328,13 +1328,13 @@ Transcript Snippet: we have been informed as I told you by two extremely reliabl
 Anchored Artifacts:
 Mentions: N-957, N-41
 Related Nodes: N-11426
-Supports: C-15426
+Supports: C-14330
 Tags: relevance:core
 Investigative Direction: Cox's September 10, 2025 calendar and golf course records.
 
 ---
 
-**C-15547** Host Says Cox's Office Has Not Responded
+**C-14451** Host Says Cox's Office Has Not Responded
 
 Claim Timestamp: 00:21:18
 
@@ -1350,7 +1350,7 @@ Investigative Direction: The show's inquiry and any reply from the governor's of
 
 ---
 
-**C-15548** Host Alleges Hegseth Lied About Bombing Iranian Schools
+**C-14452** Host Alleges Hegseth Lied About Bombing Iranian Schools
 
 Claim Timestamp: 00:25:20
 
@@ -1366,7 +1366,7 @@ Investigative Direction: Department of War statements and reporting on strikes o
 
 ---
 
-**C-15549** Host Says Zacharia's Exit Was Tied to Trump's Embarrassment
+**C-14453** Host Says Zacharia's Exit Was Tied to Trump's Embarrassment
 
 Claim Timestamp: 00:25:38
 
@@ -1382,7 +1382,7 @@ Investigative Direction: News reports on the reasons for Zacharia's departure.
 
 ---
 
-**C-15550** Host Says Zacharia Answered "I Went to China" When Asked Where She Passed the Bar
+**C-14454** Host Says Zacharia Answered "I Went to China" When Asked Where She Passed the Bar
 
 Claim Timestamp: 00:26:02
 
@@ -1393,13 +1393,13 @@ Transcript Snippet: where she passed the bar exam when she said that, you know, 
 Anchored Artifacts:
 Mentions: N-962
 Related Nodes: N-11434
-Supports: C-15380
+Supports: C-14284
 Tags: relevance:context
 Investigative Direction: The White House briefing video and transcript.
 
 ---
 
-**C-15551** Host Says Zacharia Tweeted Praise of Trump on October 16
+**C-14455** Host Says Zacharia Tweeted Praise of Trump on October 16
 
 Claim Timestamp: 00:26:12
 
@@ -1415,7 +1415,7 @@ Investigative Direction: Zacharia's X account, October 16, 2026.
 
 ---
 
-**C-15552** Host Says Zacharia Is Going Back to Fox News
+**C-14456** Host Says Zacharia Is Going Back to Fox News
 
 Claim Timestamp: 00:26:27
 
@@ -1431,7 +1431,7 @@ Investigative Direction: Fox News announcements on Zacharia's return.
 
 ---
 
-**C-15553** Host Says Tim Dillon Shared Her View of the Public-Execution Push
+**C-14457** Host Says Tim Dillon Shared Her View of the Public-Execution Push
 
 Claim Timestamp: 00:26:57
 
@@ -1447,7 +1447,7 @@ Investigative Direction: The Tim Dillon Show episode covering both topics.
 
 ---
 
-**C-15554** Host Cites Hegseth's Plan for a Live Execution
+**C-14458** Host Cites Hegseth's Plan for a Live Execution
 
 Claim Timestamp: 00:27:33
 
@@ -1458,13 +1458,13 @@ Transcript Snippet: Pete Hegseth's plan for a live execution
 Anchored Artifacts:
 Mentions: N-592, N-277, N-962
 Related Nodes: N-11443
-Supports: C-15475
+Supports: C-14379
 Tags: relevance:context
 Investigative Direction: Hegseth's announcement and Trump's later Truth Social post.
 
 ---
 
-**C-15555** In a Clip the Host Plays, Tim Dillon Says Zacharia Was Pulled After a Disastrous Start
+**C-14459** In a Clip the Host Plays, Tim Dillon Says Zacharia Was Pulled After a Disastrous Start
 
 Claim Timestamp: 00:27:50
 
@@ -1480,7 +1480,7 @@ Investigative Direction: The Tim Dillon Show episode.
 
 ---
 
-**C-15556** In the Clip, Dillon Predicts Democratic Investigations Into Crypto and Hegseth
+**C-14460** In the Clip, Dillon Predicts Democratic Investigations Into Crypto and Hegseth
 
 Claim Timestamp: 00:28:35
 
@@ -1496,7 +1496,7 @@ Investigative Direction: 2026 midterm results and subsequent congressional inves
 
 ---
 
-**C-15557** In the Clip, Dillon Says the Fort Hood Shooter Was to Be Executed on Livestream
+**C-14461** In the Clip, Dillon Says the Fort Hood Shooter Was to Be Executed on Livestream
 
 Claim Timestamp: 00:30:03
 
@@ -1512,7 +1512,7 @@ Investigative Direction: Department of War and Army statements on Hasan's execut
 
 ---
 
-**C-15558** Host Says Erika's Club America School Visits Are Administratively Forced
+**C-14462** Host Says Erika's Club America School Visits Are Administratively Forced
 
 Claim Timestamp: 00:31:19
 
@@ -1523,13 +1523,13 @@ Transcript Snippet: this frankly bizarre pursuit of middle school audiences now 
 Anchored Artifacts:
 Mentions: N-2
 Related Nodes: N-10533, N-11297
-Supports: C-15362
+Supports: C-14266
 Tags: relevance:core
 Investigative Direction: School invitations and TPUSA booking records for Erika Kirk school appearances.
 
 ---
 
-**C-15559** Host Says Parents at a School Have Emailed Her About an Erika Kirk Appearance
+**C-14463** Host Says Parents at a School Have Emailed Her About an Erika Kirk Appearance
 
 Claim Timestamp: 00:32:08
 
@@ -1545,7 +1545,7 @@ Investigative Direction: The parent emails and the school's event announcement.
 
 ---
 
-**C-15560** Host Says the Event Is a Pre-K Through 12 Veterans Day Assembly
+**C-14464** Host Says the Event Is a Pre-K Through 12 Veterans Day Assembly
 
 Claim Timestamp: 00:32:20
 
@@ -1561,7 +1561,7 @@ Investigative Direction: The school's event calendar.
 
 ---
 
-**C-15561** Host Says a Christian School Is Billing Erika as a Chapel Special Guest
+**C-14465** Host Says a Christian School Is Billing Erika as a Chapel Special Guest
 
 Claim Timestamp: 00:32:27
 
@@ -1577,7 +1577,7 @@ Investigative Direction: The school's flyer and chapel schedule.
 
 ---
 
-**C-15562** Per the Flyer, Veterans and Active Military Are Invited to the Chapel With Erika Kirk
+**C-14466** Per the Flyer, Veterans and Active Military Are Invited to the Chapel With Erika Kirk
 
 Claim Timestamp: 00:32:52
 
@@ -1593,7 +1593,7 @@ Investigative Direction: The unredacted flyer.
 
 ---
 
-**C-15563** Host Says Parents May Opt Their Children Out or Attend
+**C-14467** Host Says Parents May Opt Their Children Out or Attend
 
 Claim Timestamp: 00:33:18
 
@@ -1609,7 +1609,7 @@ Investigative Direction: The school's parent communication on the assembly.
 
 ---
 
-**C-15564** Host Says Erika Was a Reality TV Casting Director
+**C-14468** Host Says Erika Was a Reality TV Casting Director
 
 Claim Timestamp: 00:33:53
 
@@ -1625,7 +1625,7 @@ Investigative Direction: Erika Kirk's employment history and IMDb credits.
 
 ---
 
-**C-15565** A Viewer Comment the Host Reads Says TPUSA Offered a $10,000 Statue Reward but None for Charlie's Killer
+**C-14469** A Viewer Comment the Host Reads Says TPUSA Offered a $10,000 Statue Reward but None for Charlie's Killer
 
 Claim Timestamp: 00:38:30
 
@@ -1636,13 +1636,13 @@ Transcript Snippet: It's interesting how Turning Point USA immediately offered a
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10000, N-10827
-Supports: C-15454
+Supports: C-14358
 Tags: relevance:core
 Investigative Direction: TPUSA's reward announcements after the vandalism and after the assassination.
 
 ---
 
-**C-15566** Host Says Tyler Robinson Was Forgiven 11 Days On, After the Clipping Campaign Began
+**C-14470** Host Says Tyler Robinson Was Forgiven 11 Days On, After the Clipping Campaign Began
 
 Claim Timestamp: 00:38:39
 
@@ -1658,7 +1658,7 @@ Investigative Direction: The date of Erika Kirk's memorial forgiveness remarks a
 
 ---
 
-**C-15567** Host Says She Will Join Baron Coleman During Her Leave
+**C-14471** Host Says She Will Join Baron Coleman During Her Leave
 
 Claim Timestamp: 00:39:54
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Show episodes during the host's leave.
 
 ---
 
-**C-15568** Host Says the Intro Voice Is From Ye's "Stars"
+**C-14472** Host Says the Intro Voice Is From Ye's "Stars"
 
 Claim Timestamp: 00:41:28
 
@@ -1690,7 +1690,7 @@ Investigative Direction: The lyrics of Ye's "Stars".
 
 ---
 
-**C-15569** Host Says There Are Suggestions Trump Will Remove Cabinet Members
+**C-14473** Host Says There Are Suggestions Trump Will Remove Cabinet Members
 
 Claim Timestamp: 00:42:14
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Cabinet departures in late 2026.
 
 ---
 
-**C-15570** Host Says Baron Merch Including a Substitute Teacher Crew Neck Is on the Website
+**C-14474** Host Says Baron Merch Including a Substitute Teacher Crew Neck Is on the Website
 
 Claim Timestamp: 00:43:26
 
@@ -1948,18 +1948,18 @@ Confidence: high
 - MISTRANSCRIPTION: "Ye" -> "Ye" (00:41:04, 00:41:37) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=2464 (N-27).
 - MISTRANSCRIPTION: "moretips@candaceowens.com" -> "moretips@candaceowens.com" (00:20:28) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1228. "candaceowens.com" / "canwens.com" / "candaceowens.com" -> "candaceowens.com" (00:10:08, 00:10:38, 00:43:09).
 - MISTRANSCRIPTION: "burgadier general" -> "brigadier general" (00:19:22); "Mids" -> "Midterms" (00:30:24, in the clip). Not used in snippets.
-- UNRESOLVED: "Bobby Sauce at take naps" (00:02:22). This may be Bobby Sausalito (an existing node), who covered the statue story in earlier episodes (C-3434, and ep 166), but the handle could not be confirmed, so it is kept as transcribed and no person is cited.
+- UNRESOLVED: "Bobby Sauce at take naps" (00:02:22). This may be Bobby Sausalito (an existing node), who covered the statue story in earlier episodes (C-13018, and ep 166), but the handle could not be confirmed, so it is kept as transcribed and no person is cited.
 - UNRESOLVED: "Jenny", a sleuth in Alaska (00:01:51), and the commenters (Laura Love, "er heart", Joseph, Golf Mammy, Tiffany Hiyama, Fatimma, Char, Sam, Audra) are private viewers. No nodes minted.
 - UNRESOLVED: "Matt, I'm getting emails" (00:32:52) may be "Man,". Not used.
 - Attribution: the 00:11:58–00:14:39 clip narrator is not named on air. The host introduces it right after saying Baron Coleman found the relic, so it is attributed as "apparently Baron Coleman". The interjection ">> That's uh AL chat." (00:13:35) is an off-mic correction from another speaker. The ">> The best way you can do that is going to tpusa.com" clip (00:03:38) speaker is unnamed; the host's reply ("my husband's public assassination") implies Erika Kirk.
 - Attribution: the Tim Dillon clip runs from 00:27:48 to about 00:30:16. The ">> Just like just that's what probably happened" at 00:29:53 marks the host's return.
-- Factual note: C-15521. The clip says AmFest was in "December of 2026", but a February 22, 2026 message implies December 2025. Kept as said.
-- Factual note: C-15500. The host says "federal charges" over the Arizona elector business. Bowyer's Arizona fake-elector charges were state charges, and Trump's November 2025 pardon was federal. Kept as said.
-- Factual note: C-15534 to C-15538. The 2004 coverage the search found reports no charges filed against Kenny Wynn (Las Vegas Sun, March 4, 2004). The claims attribute everything to the article and source and do not state guilt.
-- Factual note: Kenny Wynn as Blake Wynn's father is the host's tip. It is consistent with C-10606 (Blake Wynn is Steve Wynn's nephew), but the parentage is not independently verified.
-- Satire: C-15515 (case closed), C-15516 and the 00:44:42 "we did file police report" (Brigitte doll) are parody bits mirroring the statue story. They are recorded as said, not as factual reports.
+- Factual note: C-14425. The clip says AmFest was in "December of 2026", but a February 22, 2026 message implies December 2025. Kept as said.
+- Factual note: C-14404. The host says "federal charges" over the Arizona elector business. Bowyer's Arizona fake-elector charges were state charges, and Trump's November 2025 pardon was federal. Kept as said.
+- Factual note: C-14438 to C-14442. The 2004 coverage the search found reports no charges filed against Kenny Wynn (Las Vegas Sun, March 4, 2004). The claims attribute everything to the article and source and do not state guilt.
+- Factual note: Kenny Wynn as Blake Wynn's father is the host's tip. It is consistent with C-13918 (Blake Wynn is Steve Wynn's nephew), but the parentage is not independently verified.
+- Satire: C-14419 (case closed), C-14420 and the 00:44:42 "we did file police report" (Brigitte doll) are parody bits mirroring the statue story. They are recorded as said, not as factual reports.
 - Not a DIA beat: "head to candaceowens.com and buy a stand cup" (00:10:38) and "go to candaceowens.com, get some merch" (00:43:09) are merch plugs. The viewer comment on TPUSA's $10,000 reward (00:38:27) is a TPUSA reward, not the host's bounty.
 - DIA beats recorded: 00:02:02 sleuth shout-out, 00:17:44 emailed tip, 00:20:39 tips request, 00:32:08 parent emails.
 - Ads skipped (PDS Debt, Kikoff, Pure Talk, Tax Network USA, American Financing). Not claims.
 - Rejected claims (admission test): wishing for Laura Loomer or Erika Kirk as press secretary (00:00:40, 00:30:55); "I do feel like we are at the end of the Trump administration" (00:27:18); Dillon's satire on ad-supported executions (00:29:01); "the devil overplayed his hand" and the administration is falling apart (00:34:54); Erika "dressed the nation again" like Janet Jackson (00:17:23); "Arizona has like two 2600 block cameras" posed as a hypothetical (00:09:07); the Zacharia/Erika "same lab" comment and the SNL advice (00:37:32); Dean Martin, Homecoming and Bible-verse comments; the Baron/Brigitte "investigate" joke (00:42:38); the latte mug plug (00:43:39).
-- Cross-episode links left out: C-15510 to C-15514 (Bowyer's DMs) are new material with no prior claim. C-15541 to C-15544 (Peterson's board seats) have no earlier claim in claims_index.tsv. C-15526 could also support C-4128 / C-4193 (the "emotional asset" email wording); only C-4270 is linked.
+- Cross-episode links left out: C-14414 to C-14418 (Bowyer's DMs) are new material with no prior claim. C-14445 to C-14448 (Peterson's board seats) have no earlier claim in claims_index.tsv. C-14430 could also support C-9275 / C-9340 (the "emotional asset" email wording); only C-9546 is linked.

@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10f): N-921, N-922, N-923, N-924, N-11359, N-11360
   - Tip-minted Nodes (reintro-ep131): N-11204
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-13120–C-13192
+  - Claim Range: C-11256–C-11353
   - Hole-minted Nodes (wave3): N-511
   - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-554, N-792, N-793, N-867, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156
   - (see registers)
@@ -47,7 +47,7 @@ Confidence: high
 Video Timestamp: 00:19:05
 Speaker: N-3
 Quote: So, what did we do? We put out a bounty.
-Context: DIA tip-line payoff: the lunch bounty from ep124 (C-3764) is answered with a tip on who Ben Shapiro was with (C-3767, A-2524.1).
+Context: DIA tip-line payoff: the lunch bounty from ep124 (C-10678) is answered with a tip on who Ben Shapiro was with (C-11298, A-2524.1).
 Tags: tips_network, dia_tip_line, bounty, transcript_backfill
 Confidence: high
 
@@ -56,7 +56,7 @@ Confidence: high
 Video Timestamp: 00:26:05
 Speaker: N-3
 Quote: But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.
-Context: DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-3769, A-2524.3).
+Context: DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-11311, A-2524.3).
 Tags: tips_network, dia_tip_line, bounty, transcript_backfill
 Confidence: high
 
@@ -80,7 +80,7 @@ Confidence: high
 Video Timestamp: 01:00:06
 Speaker: N-3
 Quote: Of course, the CIA hats, essential.
-Context: CIA hat merch plug (existing claim C-3664).
+Context: CIA hat merch plug (existing claim C-11353).
 Tags: merch, cia_hat
 Confidence: high
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3117, C-3118, C-3119, C-3120, C-3121, C-3122, C-3123, N-1, N-2, N-3*
+*Related: C-11273, C-11274, C-11275, C-11276, C-11277, C-11281, C-11279, N-1, N-2, N-3*
 
 **A-2180.2** Older Charlie Kirk Text – "The War Is On / Snakes in the Garden"
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:15:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3124, N-1, N-3*
+*Related: C-11288, N-1, N-3*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:18:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3125, C-3126, N-97 (Ben Shapiro), N-10748*
+*Related: C-11295, C-11296, N-97 (Ben Shapiro), N-10748*
 
 ---
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:06:03
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3127, N-Steve Bannon (existing), N-Ben Shapiro (existing)*
+*Related: C-11262, N-Steve Bannon (existing), N-Ben Shapiro (existing)*
 
 ---
 
@@ -150,7 +150,7 @@ Video Timestamp: 00:33:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3128, N-2*
+*Related: C-11322, N-2*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3129, C-3130, C-3131, C-3132, N-1*
+*Related: C-11328, C-11329, C-11330, C-11331, N-1*
 
 ---
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:41:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3133*
+*Related: C-11338*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:44:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3134, C-3135*
+*Related: C-11341, C-11343*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous source)
 
-*Related: C-3136, C-3137, N-1, N-2*
+*Related: C-11334, C-11335, N-1, N-2*
 
 ---
 
@@ -216,14 +216,14 @@ Confidence Level: Low (anonymous source)
 Video Timestamp: 01:00:06
 Transcript Snippet: ...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...
 Confidence: medium
-*Related: C-3664, N-3*
+*Related: C-11353, N-3*
 
 ---
 
 
 **A-2524** Ben Shapiro Lunch-Bounty Payoff and $25,000 Security-Call Bounty (host on air)
 
-**A-2524.1** Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname "Jabitch"/"Jabach"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)
+**A-2524.1** Host's on-air report that the lunch bounty (C-10678) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname "Jabitch"/"Jabach"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -231,7 +231,7 @@ Video Timestamp: 00:19:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (tip described, source not shown)
 
-*Related: C-3767, N-3, N-97, N-10748*
+*Related: C-11298, N-3, N-97, N-10748*
 
 **A-2524.2** Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (biography cited, not shown)
 
-*Related: C-3768, N-3, N-97, N-10748*
+*Related: C-11310, N-3, N-97, N-10748*
 
 **A-2524.3** Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:26:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3769, N-3, N-1, N-97, N-10748*
+*Related: C-11311, N-3, N-1, N-97, N-10748*
 
 ---
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:08:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13129, C-13130, N-3*
+*Related: C-11266, C-11267, N-3*
 
 ---
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:12:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13142, N-3*
+*Related: C-11286, N-3*
 
 ---
 
@@ -290,7 +290,7 @@ Video Timestamp: 00:27:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13164, N-3*
+*Related: C-11314, N-3*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:32:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13167, C-13191, N-3*
+*Related: C-11317, C-11351, N-3*
 
 ---
 
@@ -316,7 +316,7 @@ Video Timestamp: 00:50:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13190, N-3*
+*Related: C-11350, N-3*
 
 ---
 
@@ -326,7 +326,7 @@ Confidence Level: Low
 
 First named by the host at 00:43:01 in episode 131.
 
-*Related: C-3133, C-3134, C-3135, C-3136*
+*Related: C-11338, C-11341, C-11343, C-11334*
 
 
 **N-10748** Ben Shapiro 9/10 Lunch Meeting Identification
@@ -346,7 +346,7 @@ Investigative Pressure: High
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13126, C-13128, C-13129, C-13130, C-13132, C-13133, C-13134, C-13136, C-13137, C-13138, C-13139, C-13140, C-13141, C-13143, C-13144, C-13145, C-13146, C-13147, C-13150, C-13153, C-13182, C-13185, C-13189, C-13190*
+*Related: C-11263, C-11265, C-11266, C-11267, C-11269, C-11270, C-11271, C-11278, C-11280, C-11282, C-11283, C-11284, C-11285, C-11287, C-11289, C-11290, C-11291, C-11292, C-11297, C-11301, C-11340, C-11345, C-11349, C-11350*
 
 ---
 
@@ -354,7 +354,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13148, C-13167, C-13169, C-13171, C-13172, C-13173, C-13174, C-13182, C-13187, C-13191*
+*Related: C-11293, C-11317, C-11319, C-11321, C-11323, C-11324, C-11325, C-11340, C-11347, C-11351*
 
 ---
 
@@ -362,7 +362,7 @@ Reused node cited by new claims in this episode.
 
 Host; speaks for herself throughout.
 
-*Related: C-13120, C-13121, C-13122, C-13123, C-13124, C-13125, C-13126, C-13127, C-13128, C-13129, C-13130, C-13131, C-13132, C-13133, C-13134, C-13135, C-13136, C-13137, C-13138, C-13139, C-13140, C-13141, C-13142, C-13143, C-13144, C-13145, C-13146, C-13147, C-13148, C-13149, C-13151, C-13152, C-13153, C-13154, C-13155, C-13156, C-13157, C-13158, C-13159, C-13160*
+*Related: C-11256, C-11257, C-11258, C-11259, C-11260, C-11261, C-11263, C-11264, C-11265, C-11266, C-11267, C-11268, C-11269, C-11270, C-11271, C-11272, C-11278, C-11280, C-11282, C-11283, C-11284, C-11285, C-11286, C-11287, C-11289, C-11290, C-11291, C-11292, C-11293, C-11294, C-11299, C-11300, C-11301, C-11302, C-11303, C-11304, C-11305, C-11306, C-11307, C-11308*
 
 ---
 
@@ -370,7 +370,7 @@ Host; speaks for herself throughout.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13129, C-13130, C-13131, C-13134, C-13142, C-13148, C-13165, C-13166, C-13175, C-13191*
+*Related: C-11266, C-11267, C-11268, C-11271, C-11286, C-11293, C-11315, C-11316, C-11326, C-11351*
 
 ---
 
@@ -378,7 +378,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13127, C-13138, C-13149*
+*Related: C-11264, C-11282, C-11294*
 
 ---
 
@@ -386,7 +386,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13140, C-13189, C-13190*
+*Related: C-11284, C-11349, C-11350*
 
 ---
 
@@ -394,7 +394,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13145, C-13149*
+*Related: C-11290, C-11294*
 
 ---
 
@@ -402,7 +402,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13156*
+*Related: C-11304*
 
 ---
 
@@ -410,7 +410,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13143*
+*Related: C-11287*
 
 ---
 
@@ -418,7 +418,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13124, C-13126, C-13127, C-13128, C-13129, C-13130, C-13135, C-13142, C-13145, C-13147, C-13148, C-13149, C-13150, C-13151, C-13152, C-13153, C-13162, C-13163*
+*Related: C-11260, C-11263, C-11264, C-11265, C-11266, C-11267, C-11272, C-11286, C-11290, C-11292, C-11293, C-11294, C-11297, C-11299, C-11300, C-11301, C-11312, C-11313*
 
 ---
 
@@ -426,7 +426,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13177*
+*Related: C-11332*
 
 ---
 
@@ -434,7 +434,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13173*
+*Related: C-11324*
 
 ---
 
@@ -442,7 +442,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13165*
+*Related: C-11315*
 
 ---
 
@@ -450,7 +450,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13124, C-13126*
+*Related: C-11260, C-11263*
 
 ---
 
@@ -458,7 +458,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13124, C-13125*
+*Related: C-11260, C-11261*
 
 ---
 
@@ -466,7 +466,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13167, C-13168, C-13169, C-13170, C-13171, C-13191*
+*Related: C-11317, C-11318, C-11319, C-11320, C-11321, C-11351*
 
 ---
 
@@ -474,7 +474,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13131*
+*Related: C-11268*
 
 ---
 
@@ -482,7 +482,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13157, C-13158*
+*Related: C-11305, C-11306*
 
 ---
 
@@ -490,7 +490,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13157*
+*Related: C-11305*
 
 ---
 
@@ -498,7 +498,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13123*
+*Related: C-11259*
 
 ---
 
@@ -506,7 +506,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13129, C-13130, C-13132, C-13134*
+*Related: C-11266, C-11267, C-11269, C-11271*
 
 ---
 
@@ -514,7 +514,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13189*
+*Related: C-11349*
 
 ---
 
@@ -522,7 +522,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13144*
+*Related: C-11289*
 
 ---
 
@@ -530,7 +530,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13165, C-13166*
+*Related: C-11315, C-11316*
 
 ---
 
@@ -538,7 +538,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13154*
+*Related: C-11302*
 
 ---
 
@@ -546,7 +546,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13142*
+*Related: C-11286*
 
 ---
 
@@ -554,7 +554,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13154*
+*Related: C-11302*
 
 ---
 
@@ -562,7 +562,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13189, C-13190*
+*Related: C-11349, C-11350*
 
 ---
 
@@ -570,7 +570,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13127*
+*Related: C-11264*
 
 ---
 
@@ -578,7 +578,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13124, C-13128*
+*Related: C-11260, C-11265*
 
 ---
 
@@ -586,7 +586,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13161*
+*Related: C-11309*
 
 ---
 
@@ -594,7 +594,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13135*
+*Related: C-11272*
 
 ---
 
@@ -602,7 +602,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13122*
+*Related: C-11258*
 
 ---
 
@@ -610,7 +610,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13150*
+*Related: C-11297*
 
 ---
 
@@ -618,7 +618,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13192*
+*Related: C-11352*
 
 ---
 
@@ -626,7 +626,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13165, C-13166, C-13167, C-13174, C-13175, C-13191*
+*Related: C-11315, C-11316, C-11317, C-11325, C-11326, C-11351*
 
 ---
 
@@ -634,7 +634,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13167, C-13191*
+*Related: C-11317, C-11351*
 
 ---
 
@@ -642,7 +642,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13170*
+*Related: C-11320*
 
 ---
 
@@ -650,7 +650,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13168*
+*Related: C-11318*
 
 ---
 
@@ -658,7 +658,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13188*
+*Related: C-11348*
 
 ---
 
@@ -666,7 +666,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13125*
+*Related: C-11261*
 
 ---
 
@@ -674,7 +674,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13156*
+*Related: C-11304*
 
 ---
 
@@ -682,7 +682,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13155, C-13156, C-13157, C-13159, C-13160*
+*Related: C-11303, C-11304, C-11305, C-11307, C-11308*
 
 ---
 
@@ -690,7 +690,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13186*
+*Related: C-11346*
 
 ---
 
@@ -698,7 +698,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13157, C-13158*
+*Related: C-11305, C-11306*
 
 ---
 
@@ -706,7 +706,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13157, C-13158*
+*Related: C-11305, C-11306*
 
 ---
 
@@ -714,7 +714,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-13182, C-13183*
+*Related: C-11340, C-11342*
 
 ---
 
@@ -722,7 +722,7 @@ Reused node cited by new claims in this episode.
 
 First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach in the transcript; the host's spelling is unverified). Omaha-based man the host says was allegedly with Ben Shapiro on September 10, 2025.
 
-*Related: C-13152, C-13154, C-13155, C-13159, C-13160, C-13162*
+*Related: C-11300, C-11302, C-11303, C-11307, C-11308, C-11312*
 
 ---
 
@@ -730,7 +730,7 @@ First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach i
 
 First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whose 2022 death the host compares to the Kirk case.
 
-*Related: C-13178, C-13179, C-13180, C-13181, C-13183, C-13184*
+*Related: C-11333, C-11336, C-11337, C-11339, C-11342, C-11344*
 
 ---
 
@@ -738,7 +738,7 @@ First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whos
 
 First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discussed in the host's Twitch comparison.
 
-*Related: C-13181, C-13184*
+*Related: C-11339, C-11344*
 
 ---
 
@@ -746,7 +746,7 @@ First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discu
 
 First named by the host at 00:38:55 in episode 131. Talk show host on whose show Twitch worked.
 
-*Related: C-13178*
+*Related: C-11333*
 
 ---
 
@@ -754,7 +754,7 @@ First named by the host at 00:38:55 in episode 131. Talk show host on whose show
 
 Organization
 
-*Related: C-13160, C-13161*
+*Related: C-11308, C-11309*
 
 ---
 
@@ -763,13 +763,13 @@ Organization
 Node Type: Place
 Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 p.m. on September 10, 2025.
 
-*Related: C-13153*
+*Related: C-11301*
 
 ---
 
 ## 5. Claim Register
 
-**C-3117** November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign
+**C-11273** November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign
 
 Claim Timestamp: 00:09:55
 
@@ -783,7 +783,7 @@ Investigative Direction: Obtain carrier records or device extractions to verify 
 
 ---
 
-**C-3118** Charlie Kirk Text – "Don't Resign Because It's What They Want"
+**C-11274** Charlie Kirk Text – "Don't Resign Because It's What They Want"
 
 Claim Timestamp: 00:10:44
 
@@ -797,7 +797,7 @@ Investigative Direction: Verify exact wording against device-extracted SMS recor
 
 ---
 
-**C-3119** Charlie Kirk Text – "C-Level Hit" Characterization
+**C-11275** Charlie Kirk Text – "C-Level Hit" Characterization
 
 Claim Timestamp: 00:10:44
 
@@ -811,7 +811,7 @@ Investigative Direction: Verify exact wording against device-extracted SMS recor
 
 ---
 
-**C-3120** Charlie Kirk Text Identifies Jeremy Boreing By Name
+**C-11276** Charlie Kirk Text Identifies Jeremy Boreing By Name
 
 Claim Timestamp: 00:10:44
 
@@ -825,7 +825,7 @@ Investigative Direction: Verify name spelling against device-extracted SMS recor
 
 ---
 
-**C-3121** Charlie Kirk Text Identifies Marissa Streit By Name
+**C-11277** Charlie Kirk Text Identifies Marissa Streit By Name
 
 Claim Timestamp: 00:10:44
 
@@ -839,7 +839,7 @@ Investigative Direction: Verify name spelling against device-extracted SMS recor
 
 ---
 
-**C-3122** Charlie Kirk Text – "We Are on the Same Team. Screw These People"
+**C-11281** Charlie Kirk Text – "We Are on the Same Team. Screw These People"
 
 Claim Timestamp: 00:12:20
 
@@ -853,7 +853,7 @@ Investigative Direction: Verify exact wording against device-extracted SMS recor
 
 ---
 
-**C-3123** Text Documents Candace Owens 40-Weeks Pregnant and Charlie Kirk Flight Assistance
+**C-11279** Text Documents Candace Owens 40-Weeks Pregnant and Charlie Kirk Flight Assistance
 
 Claim Timestamp: 00:11:44
 
@@ -867,7 +867,7 @@ Investigative Direction: Verify against device-extracted SMS records and any fli
 
 ---
 
-**C-3124** Host Shows Older Charlie Kirk Text: "The War Is On / Snakes in the Garden"
+**C-11288** Host Shows Older Charlie Kirk Text: "The War Is On / Snakes in the Garden"
 
 Claim Timestamp: 00:15:27
 
@@ -881,7 +881,7 @@ Investigative Direction: Verify date and full context of the exchange against de
 
 ---
 
-**C-3125** Ben Shapiro States Security Was on Phone with Charlie's Security During Shooting
+**C-11295** Ben Shapiro States Security Was on Phone with Charlie's Security During Shooting
 
 Claim Timestamp: 00:18:20
 
@@ -896,7 +896,7 @@ Investigative Direction: Obtain the original Ben Shapiro audio segment in full; 
 
 ---
 
-**C-3126** Ben Shapiro States He Was at a "Breakfast/Lunch" Meeting in LA on 9/10
+**C-11296** Ben Shapiro States He Was at a "Breakfast/Lunch" Meeting in LA on 9/10
 
 Claim Timestamp: 00:18:20
 
@@ -911,7 +911,7 @@ Investigative Direction: Obtain the full original Ben Shapiro statement; cross-r
 
 ---
 
-**C-3127** Steve Bannon Describes Ben Shapiro as "A Cancer" at AmFest
+**C-11262** Steve Bannon Describes Ben Shapiro as "A Cancer" at AmFest
 
 Claim Timestamp: 00:06:03
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain the full AmFest segment; verify exact wording.
 
 ---
 
-**C-3128** Tracy Martin Denies Being Daily Mail Source on Paramount Tactical
+**C-11322** Tracy Martin Denies Being Daily Mail Source on Paramount Tactical
 
 Claim Timestamp: 00:33:45
 
@@ -940,7 +940,7 @@ Investigative Direction: Obtain the full Paramount Tactical segment; cross-refer
 
 ---
 
-**C-3129** Rob O'Neill States Screwdriver on Rooftop Inconsistent with Theory
+**C-11328** Rob O'Neill States Screwdriver on Rooftop Inconsistent with Theory
 
 Claim Timestamp: 00:37:41
 
@@ -954,7 +954,7 @@ Investigative Direction: Obtain full Newsmax segment; cross-reference with offic
 
 ---
 
-**C-3130** Rob O'Neill States 30-06 Bullet Damage Should Be Greater Than Observed
+**C-11329** Rob O'Neill States 30-06 Bullet Damage Should Be Greater Than Observed
 
 Claim Timestamp: 00:37:41
 
@@ -968,7 +968,7 @@ Investigative Direction: Cross-reference with official autopsy report (if releas
 
 ---
 
-**C-3131** Rob O'Neill States Bullet Trajectory Was Left-to-Right, Not Front-to-Back
+**C-11330** Rob O'Neill States Bullet Trajectory Was Left-to-Right, Not Front-to-Back
 
 Claim Timestamp: 00:37:41
 
@@ -982,7 +982,7 @@ Investigative Direction: Cross-reference with official autopsy report (if releas
 
 ---
 
-**C-3132** Rob O'Neill States Text Messages Looked Like "English Was a Second Language"
+**C-11331** Rob O'Neill States Text Messages Looked Like "English Was a Second Language"
 
 Claim Timestamp: 00:37:41
 
@@ -996,7 +996,7 @@ Investigative Direction: Obtain full Newsmax segment; cross-reference with publi
 
 ---
 
-**C-3133** Allison Holker Claims Discovery of Hidden Substances After Husband's Death
+**C-11338** Allison Holker Claims Discovery of Hidden Substances After Husband's Death
 
 Claim Timestamp: 00:41:38
 
@@ -1011,7 +1011,7 @@ Investigative Direction: Obtain the full Holker interview segment; cross-referen
 
 ---
 
-**C-3134** Twitch Family Claims They Were Asked to Sign NDAs to Attend Memorial
+**C-11341** Twitch Family Claims They Were Asked to Sign NDAs to Attend Memorial
 
 Claim Timestamp: 00:44:07
 
@@ -1026,7 +1026,7 @@ Investigative Direction: Obtain the full CBS / Gayle King segment; obtain any do
 
 ---
 
-**C-3135** Twitch Family States They Could Not See Him or Participate Without NDA
+**C-11343** Twitch Family States They Could Not See Him or Participate Without NDA
 
 Claim Timestamp: 00:45:40
 
@@ -1041,7 +1041,7 @@ Investigative Direction: Obtain the full CBS / Gayle King segment; cross-referen
 
 ---
 
-**C-3136** YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erika Cases
+**C-11334** YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erika Cases
 
 Claim Timestamp: 00:39:35
 
@@ -1056,7 +1056,7 @@ Investigative Direction: Independent verification of each parallel item against 
 
 ---
 
-**C-3137** YouTube Comment States Allison Holker Grew Up in Orem, Utah; Graduated Timpanogos High School 2006
+**C-11335** YouTube Comment States Allison Holker Grew Up in Orem, Utah; Graduated Timpanogos High School 2006
 
 Claim Timestamp: 00:39:35
 
@@ -1072,7 +1072,7 @@ Investigative Direction: Independent verification against public records or alum
 ---
 
 
-**C-3664** Host Plugs CIA Hats Merch
+**C-11353** Host Plugs CIA Hats Merch
 
 Claim Timestamp: 01:00:06
 Claim: The host plugs the "CIA hats" merch, calling them essential.
@@ -1085,26 +1085,26 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
-**C-3767** Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot
+**C-11298** Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot
 
 Claim Timestamp: 00:19:05
 
-Claim: The host says the bounty she put out on who Ben Shapiro was with at "breakfast or lunch" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.
+Claim: The host says the bounty she put out on who Ben Shapiro was with at "breakfast or lunch" (C-10678) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.
 
 Transcript Snippet: So, what did we do? We put out a bounty.
 
 Anchored Artifacts: A-2524.1
 Mentions: N-3, N-97, N-1, N-921
 Related Nodes: N-10748
-Supports: C-3764
-Qualifies: C-3126
+Supports: C-10678
+Qualifies: C-11296
 Confidence: low
 Uncertainty: Single anonymous tip as relayed by the host; the host says "allegedly" and could not confirm the meal itself. The named companion has no person node (person band full, awaiting Daveed).
 Investigative Direction: Corroborate the companion's Los Angeles whereabouts on September 10, 2025 against the canceled Reagan Library event schedule and any public sightings.
 
 ---
 
-**C-3768** Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha
+**C-11310** Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha
 
 Claim Timestamp: 00:25:07
 
@@ -1121,7 +1121,7 @@ Investigative Direction: Obtain the cited professional biography and the Jewish 
 
 ---
 
-**C-3769** Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team
+**C-11311** Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team
 
 Claim Timestamp: 00:26:05
 
@@ -1133,11 +1133,11 @@ Anchored Artifacts: A-2524.3
 Mentions: N-3, N-1, N-97
 Related Nodes: N-10748
 Confidence: high
-Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).
+Investigative Direction: Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-11295).
 
 ---
 
-**C-13120** Host Says Toxoplasma Gondii Can Make Humans Believe They Love Their Cats
+**C-11256** Host Says Toxoplasma Gondii Can Make Humans Believe They Love Their Cats
 
 Claim Timestamp: 00:02:02
 
@@ -1152,7 +1152,7 @@ Investigative Direction: Check the medical literature on T. gondii and human beh
 
 ---
 
-**C-13121** Host Says Tongue-Snatching Isopods Replace a Fish's Tongue
+**C-11257** Host Says Tongue-Snatching Isopods Replace a Fish's Tongue
 
 Claim Timestamp: 00:02:52
 
@@ -1167,7 +1167,7 @@ Investigative Direction: Check marine biology sources on Cymothoa exigua; the ho
 
 ---
 
-**C-13122** Host Says Canaanites Were Baal Worshipers Modeling Themselves After Nimrod
+**C-11258** Host Says Canaanites Were Baal Worshipers Modeling Themselves After Nimrod
 
 Claim Timestamp: 00:04:31
 
@@ -1183,7 +1183,7 @@ Investigative Direction: Review the previous episode's sourcing for the Canaanit
 
 ---
 
-**C-13123** Host Says Justin Bieber Broke Free From Contracts That Were Costing Him His Soul
+**C-11259** Host Says Justin Bieber Broke Free From Contracts That Were Costing Him His Soul
 
 Claim Timestamp: 00:04:31
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Look for public reporting on any change in Bieber's man
 
 ---
 
-**C-13124** Host Says Ben Shapiro Tried to Take Over Breitbart After Andrew Breitbart Died
+**C-11260** Host Says Ben Shapiro Tried to Take Over Breitbart After Andrew Breitbart Died
 
 Claim Timestamp: 00:05:22
 
@@ -1209,13 +1209,13 @@ Transcript Snippet: Ben attempted to take over Andrew's company. And when that f
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-389, N-390
 Related Nodes: N-10386
-Supports: C-2020
+Supports: C-4663
 Tags: relevance:context
 Investigative Direction: Compare with Shapiro's March 2016 departure from Breitbart News and contemporaneous accounts by Bannon and Breitbart executives.
 
 ---
 
-**C-13125** Host Says Andrew Breitbart Died Young Under Very Suspicious Circumstances
+**C-11261** Host Says Andrew Breitbart Died Young Under Very Suspicious Circumstances
 
 Claim Timestamp: 00:05:22
 
@@ -1226,13 +1226,13 @@ Transcript Snippet: after Andrew Breitbart died I should mention young and under
 Anchored Artifacts: 
 Mentions: N-3, N-390
 Related Nodes: N-11119
-Supports: C-6934
+Supports: C-4668
 Tags: relevance:context
 Investigative Direction: Obtain the Los Angeles County coroner's report on Breitbart's March 2012 death.
 
 ---
 
-**C-13126** Bannon Clip Says Shapiro Will Make a Move on Turning Point Out of Envy of Charlie
+**C-11263** Bannon Clip Says Shapiro Will Make a Move on Turning Point Out of Envy of Charlie
 
 Claim Timestamp: 00:06:15
 
@@ -1242,13 +1242,13 @@ Transcript Snippet: mark my word, he will make a move on Turning Point because h
 
 Anchored Artifacts: A-2182.1
 Mentions: N-389, N-97, N-1, N-3
-Supports: C-6931
+Supports: C-4665
 Tags: relevance:context
 Investigative Direction: Obtain the full AmFest December 2025 recording of Bannon's remarks and check whether the sentence is in the original audio.
 
 ---
 
-**C-13127** Host Says Daily Wire Executives Were Fixated on Tucker Carlson
+**C-11264** Host Says Daily Wire Executives Were Fixated on Tucker Carlson
 
 Claim Timestamp: 00:06:15
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Review Daily Wire programming about Carlson during the 
 
 ---
 
-**C-13128** Host Says Charlie Looked Up to Ben Until Ben Became Envious in 2018
+**C-11265** Host Says Charlie Looked Up to Ben Until Ben Became Envious in 2018
 
 Claim Timestamp: 00:07:08
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Look for 2018 communications or public remarks showing 
 
 ---
 
-**C-13129** Host Says Kolvet Pretends Charlie and She Were Never Friends and Claims Charlie and Ben Were Friends
+**C-11266** Host Says Kolvet Pretends Charlie and She Were Never Friends and Claims Charlie and Ben Were Friends
 
 Claim Timestamp: 00:08:02
 
@@ -1291,13 +1291,13 @@ Transcript Snippet: his attempt to pretend that Charlie and me were never friend
 Anchored Artifacts: A-3247.1
 Mentions: N-3, N-14, N-1, N-97
 Related Nodes: N-10003
-Supports: C-5972
+Supports: C-11213
 Tags: relevance:core
 Investigative Direction: Collect Kolvet's public statements on the Kirk and Owens friendship and set them against the messages the host reads in this episode.
 
 ---
 
-**C-13130** Kolvet Tweet Says Candace Was Not Friends With Charlie and Ben Was
+**C-11267** Kolvet Tweet Says Candace Was Not Friends With Charlie and Ben Was
 
 Claim Timestamp: 00:08:02
 
@@ -1313,7 +1313,7 @@ Investigative Direction: Retrieve the original tweet and its timestamp from X to
 
 ---
 
-**C-13131** Host Says She Showed Carrie Prejean Boller the Messages in Spain
+**C-11268** Host Says She Showed Carrie Prejean Boller the Messages in Spain
 
 Claim Timestamp: 00:08:02
 
@@ -1328,7 +1328,7 @@ Investigative Direction: Ask Carrie Prejean Boller to confirm the Spain meeting 
 
 ---
 
-**C-13132** Host Says Charlie Gave Her the Most Emotional Support During the Christ Is King Attacks
+**C-11269** Host Says Charlie Gave Her the Most Emotional Support During the Christ Is King Attacks
 
 Claim Timestamp: 00:08:02
 
@@ -1339,13 +1339,13 @@ Transcript Snippet: Charlie was the single person just so you guys know who prov
 Anchored Artifacts: A-2180.1
 Mentions: N-3, N-1
 Related Nodes: N-10003
-Supports: C-1259
+Supports: C-719
 Tags: relevance:core
 Investigative Direction: Compare with the November 15, 2023 thread and the public clips of Kirk defending the host.
 
 ---
 
-**C-13133** Host Says Charlie Was Also Attacked and Called Anti-Semitic After October 7
+**C-11270** Host Says Charlie Was Also Attacked and Called Anti-Semitic After October 7
 
 Claim Timestamp: 00:09:37
 
@@ -1360,7 +1360,7 @@ Investigative Direction: Collect public accusations of anti-Semitism against Kir
 
 ---
 
-**C-13134** Host Says Kolvet Claimed Charlie Was Terrified of Her and Not Friends Since 2019
+**C-11271** Host Says Kolvet Claimed Charlie Was Terrified of Her and Not Friends Since 2019
 
 Claim Timestamp: 00:09:46
 
@@ -1376,7 +1376,7 @@ Investigative Direction: Find the Kolvet statement on the Charlie Kirk Show or X
 
 ---
 
-**C-13135** Host Says a Coordinated Inside Effort After October 7 Pressured and Smeared Dissenters at Daily Wire
+**C-11272** Host Says a Coordinated Inside Effort After October 7 Pressured and Smeared Dissenters at Daily Wire
 
 Claim Timestamp: 00:09:46
 
@@ -1392,7 +1392,7 @@ Investigative Direction: Obtain internal Daily Wire messages from October to Nov
 
 ---
 
-**C-13136** Charlie Sent a Tweet Defending the Host at the Start of the Thread
+**C-11278** Charlie Sent a Tweet Defending the Host at the Start of the Thread
 
 Claim Timestamp: 00:10:44
 
@@ -1402,13 +1402,13 @@ Transcript Snippet: I am genuinely confused why asking questions and quoting Bib
 
 Anchored Artifacts: A-2180.1
 Mentions: N-1, N-3
-Supports: C-3117
+Supports: C-11273
 Tags: relevance:core
 Investigative Direction: Compare with Kirk's public X post from November 15, 2023.
 
 ---
 
-**C-13137** Charlie Text Says He Has Told All the Jews Who Try It to Go to Hell
+**C-11280** Charlie Text Says He Has Told All the Jews Who Try It to Go to Hell
 
 Claim Timestamp: 00:11:44
 
@@ -1423,7 +1423,7 @@ Investigative Direction: Verify exact wording against device-extracted SMS recor
 
 ---
 
-**C-13138** Charlie Text Says Very Few Are Willing to Stand Up to the Cabal
+**C-11282** Charlie Text Says Very Few Are Willing to Stand Up to the Cabal
 
 Claim Timestamp: 00:12:34
 
@@ -1438,7 +1438,7 @@ Investigative Direction: Verify against device-extracted SMS records; identify t
 
 ---
 
-**C-13139** Charlie Text Says It Is So Transactional and He Is Called a Hamas Agent
+**C-11283** Charlie Text Says It Is So Transactional and He Is Called a Hamas Agent
 
 Claim Timestamp: 00:12:34
 
@@ -1453,7 +1453,7 @@ Investigative Direction: Verify against device-extracted SMS records; find the p
 
 ---
 
-**C-13140** Host Says Her Talks With Charlie Covered Zionism, Speech Pressure and Seth Dillon
+**C-11284** Host Says Her Talks With Charlie Covered Zionism, Speech Pressure and Seth Dillon
 
 Claim Timestamp: 00:12:34
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Obtain the Kirk and Owens messages that name Seth Dillo
 
 ---
 
-**C-13141** Host Says She and Charlie Met at YWLN and Discussed Daily Wire's Legal Posture
+**C-11285** Host Says She and Charlie Met at YWLN and Discussed Daily Wire's Legal Posture
 
 Claim Timestamp: 00:13:59
 
@@ -1483,7 +1483,7 @@ Investigative Direction: Identify the event (likely a Young Women's Leadership S
 
 ---
 
-**C-13142** Host Says Text Messages With Andrew Show Ben Shapiro Squeezed Donors Over Her AmFest 2024 Slot
+**C-11286** Host Says Text Messages With Andrew Show Ben Shapiro Squeezed Donors Over Her AmFest 2024 Slot
 
 Claim Timestamp: 00:14:22
 
@@ -1494,13 +1494,13 @@ Transcript Snippet: that Ben Shapiro was squ- squeezing their donors and trying 
 Anchored Artifacts: A-3248.1
 Mentions: N-3, N-97, N-14
 Related Nodes: N-10268
-Supports: C-6656
+Supports: C-2791
 Tags: relevance:core
 Investigative Direction: Obtain the host's text messages with Kolvet from late 2024 and identify which donors were reported as pressured.
 
 ---
 
-**C-13143** Host Says the President Asked Charlie to Call Her About Brigitte Macron
+**C-11287** Host Says the President Asked Charlie to Call Her About Brigitte Macron
 
 Claim Timestamp: 00:14:39
 
@@ -1510,13 +1510,13 @@ Transcript Snippet: the president of the United States comes to you and asks you
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-82
-Supports: C-4976
+Supports: C-3153
 Tags: relevance:context
 Investigative Direction: Obtain Kirk's call records for the date of the call and any White House scheduling for that day.
 
 ---
 
-**C-13144** Host Says Everyone Knew Charlie Was Under Pressure From Pro-Israel Donors Since October 7
+**C-11289** Host Says Everyone Knew Charlie Was Under Pressure From Pro-Israel Donors Since October 7
 
 Claim Timestamp: 00:15:27
 
@@ -1527,13 +1527,13 @@ Transcript Snippet: everyone also knew that he was under pressure from pro-Israe
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10033
-Supports: C-9313
+Supports: C-1142
 Tags: relevance:core
 Investigative Direction: Identify the donors and the dates of the pressure, using donor correspondence or named sources.
 
 ---
 
-**C-13145** Host Says Charlie Was Disgusted by How Ben Shapiro Treated Friends and Enemies
+**C-11290** Host Says Charlie Was Disgusted by How Ben Shapiro Treated Friends and Enemies
 
 Claim Timestamp: 00:15:27
 
@@ -1548,7 +1548,7 @@ Investigative Direction: Look for Kirk's own statements on Shapiro before 2025, 
 
 ---
 
-**C-13146** Host Says Charlie Snapped Under 24 Hours Before His Death and Texted Several People He Was Done
+**C-11291** Host Says Charlie Snapped Under 24 Hours Before His Death and Texted Several People He Was Done
 
 Claim Timestamp: 00:15:27
 
@@ -1558,13 +1558,13 @@ Transcript Snippet: less than 24 hours before he died, Charlie snapped. He did a
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Supports: C-9311, C-9356
+Supports: C-1140, C-1557
 Tags: relevance:core
 Investigative Direction: Obtain the messages from September 9 to 10, 2025 and their recipients; note that earlier episodes put the announcement at under 48 hours.
 
 ---
 
-**C-13147** Host Says Ben Shapiro Sat in Charlie's Studio With a Million Dollars in Hand
+**C-11292** Host Says Ben Shapiro Sat in Charlie's Studio With a Million Dollars in Hand
 
 Claim Timestamp: 00:17:07
 
@@ -1574,13 +1574,13 @@ Transcript Snippet: Ben of all people is sitting in his studio, in Charlie's stu
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-1
-Supports: C-5971
+Supports: C-11212
 Tags: relevance:core
 Investigative Direction: Obtain the date and the record of any donation or payment from Shapiro to TPUSA.
 
 ---
 
-**C-13148** Host Says Kolvet and Erika Let Ben Shapiro Open the Event and Kolvet Lied About the Friendship
+**C-11293** Host Says Kolvet and Erika Let Ben Shapiro Open the Event and Kolvet Lied About the Friendship
 
 Claim Timestamp: 00:17:07
 
@@ -1590,13 +1590,13 @@ Transcript Snippet: Allowed him to open at his event. His wife as well allowed t
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2, N-97, N-1
-Supports: C-10085
+Supports: C-6444
 Tags: relevance:core
 Investigative Direction: Obtain the run of show and speaker approvals for the event, and ask whether speeches were pre-submitted.
 
 ---
 
-**C-13149** Host Says TPUSA Knew Ben's Speech Would Attack Charlie's Real Friends
+**C-11294** Host Says TPUSA Knew Ben's Speech Would Attack Charlie's Real Friends
 
 Claim Timestamp: 00:17:07
 
@@ -1611,7 +1611,7 @@ Investigative Direction: Obtain the pre-submitted speech text and the TPUSA appr
 
 ---
 
-**C-13150** Ben Shapiro Says He Knows Charlie Was Alive in the Car Only Because His Security Told Him
+**C-11297** Ben Shapiro Says He Knows Charlie Was Alive in the Car Only Because His Security Told Him
 
 Claim Timestamp: 00:18:20
 
@@ -1622,13 +1622,13 @@ Transcript Snippet: I know that only because my security was talking to his secu
 Anchored Artifacts: A-2181.1
 Mentions: N-97, N-1
 Related Nodes: N-10712, N-10748
-Supports: C-7306
+Supports: C-10900
 Tags: relevance:core
 Investigative Direction: Identify Shapiro's security personnel and Kirk's security in the car and obtain their phone records.
 
 ---
 
-**C-13151** Host Says the Bounty Drew an Instant Response Which Her Team Verified
+**C-11299** Host Says the Bounty Drew an Instant Response Which Her Team Verified
 
 Claim Timestamp: 00:19:05
 
@@ -1644,7 +1644,7 @@ Investigative Direction: Ask the host what verification steps were taken and whe
 
 ---
 
-**C-13152** Host Says She Has a Strong Guess About the Unidentified Woman but Will Not Say
+**C-11300** Host Says She Has a Strong Guess About the Unidentified Woman but Will Not Say
 
 Claim Timestamp: 00:20:02
 
@@ -1660,7 +1660,7 @@ Investigative Direction: Ask the host's source for the woman's identity; this ca
 
 ---
 
-**C-13153** Host Says Ben Was in Los Angeles for a 6 p.m. Reagan Library Event Later Canceled
+**C-11301** Host Says Ben Was in Los Angeles for a 6 p.m. Reagan Library Event Later Canceled
 
 Claim Timestamp: 00:20:02
 
@@ -1676,7 +1676,7 @@ Investigative Direction: Obtain the Reagan Library event listing and its cancell
 
 ---
 
-**C-13154** Host Says Gary Javitch Is in His Mid-70s and Has Lived in Omaha for Decades
+**C-11302** Host Says Gary Javitch Is in His Mid-70s and Has Lived in Omaha for Decades
 
 Claim Timestamp: 00:20:50
 
@@ -1692,7 +1692,7 @@ Investigative Direction: Check public biographies, Omaha Jewish community public
 
 ---
 
-**C-13155** Host Says Gary Javitch Has Been Executive Director of B'nai B'rith International for Years
+**C-11303** Host Says Gary Javitch Has Been Executive Director of B'nai B'rith International for Years
 
 Claim Timestamp: 00:20:50
 
@@ -1708,7 +1708,7 @@ Investigative Direction: Check B'nai B'rith International's officer and board li
 
 ---
 
-**C-13156** Host Says B'nai B'rith Is the Jewish Freemasonic Lodge Founded by German Jews
+**C-11304** Host Says B'nai B'rith Is the Jewish Freemasonic Lodge Founded by German Jews
 
 Claim Timestamp: 00:21:42
 
@@ -1719,13 +1719,13 @@ Transcript Snippet: B'nai B'rith is the Jewish Freemasonic lodge.
 Anchored Artifacts: 
 Mentions: N-3, N-50
 Related Nodes: N-11130, N-11129
-Supports: C-7839
+Supports: C-1240
 Tags: relevance:tangential
 Investigative Direction: Check B'nai B'rith's founding history (1843, New York) and Freud's membership; locate the cited Freud correspondence in David Bakan's book.
 
 ---
 
-**C-13157** Host Says the ADL Spun Out of B'nai B'rith After Leo Frank Murdered Mary Phagan
+**C-11305** Host Says the ADL Spun Out of B'nai B'rith After Leo Frank Murdered Mary Phagan
 
 Claim Timestamp: 00:22:33
 
@@ -1736,13 +1736,13 @@ Transcript Snippet: B'nai B'rith then spun into the Anti-Defamation League.
 Anchored Artifacts: 
 Mentions: N-3, N-792, N-793
 Related Nodes: N-11130, N-11153, N-11156
-Supports: C-7838, C-7841
+Supports: C-1239, C-1242
 Tags: relevance:tangential
 Investigative Direction: Check the ADL's 1913 founding history and the trial record in State v. Frank; the host states Frank's guilt as fact, which the historical record contests.
 
 ---
 
-**C-13158** Host Says the Leo Frank Jury Consisted of Jews and the ADL Lobbies Annually on It
+**C-11306** Host Says the Leo Frank Jury Consisted of Jews and the ADL Lobbies Annually on It
 
 Claim Timestamp: 00:22:33
 
@@ -1758,7 +1758,7 @@ Investigative Direction: Consult the 1913 jury list and historical scholarship o
 
 ---
 
-**C-13159** Host Says Gary Javitch Chaired the B'nai B'rith International Board and Won a 2019 Award
+**C-11307** Host Says Gary Javitch Chaired the B'nai B'rith International Board and Won a 2019 Award
 
 Claim Timestamp: 00:23:22
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Check B'nai B'rith International annual reports and awa
 
 ---
 
-**C-13160** Host Says a 2022 Report Named Gary Javitch Director of the Omaha B'nai B'rith Chapter
+**C-11308** Host Says a 2022 Report Named Gary Javitch Director of the Omaha B'nai B'rith Chapter
 
 Claim Timestamp: 00:24:20
 
@@ -1790,7 +1790,7 @@ Investigative Direction: Locate the 2022 report and the Chabad Lubavitch of Nebr
 
 ---
 
-**C-13161** Host Says a Man in Jail Plotted Her Murder in a Chat With 20 Others Who Did Not Warn Her
+**C-11309** Host Says a Man in Jail Plotted Her Murder in a Chat With 20 Others Who Did Not Warn Her
 
 Claim Timestamp: 00:24:20
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Identify the case through court dockets and FBI press r
 
 ---
 
-**C-13162** Host Says She Cannot Say Why Ben Has Omaha Ties and Draws No Further Conclusion
+**C-11312** Host Says She Cannot Say Why Ben Has Omaha Ties and Draws No Further Conclusion
 
 Claim Timestamp: 00:26:05
 
@@ -1822,7 +1822,7 @@ Investigative Direction: Look up Jewish Federation of Omaha event and donor list
 
 ---
 
-**C-13163** Host Says Turning Point Lied for a Half-Million-Dollar Check
+**C-11313** Host Says Turning Point Lied for a Half-Million-Dollar Check
 
 Claim Timestamp: 00:26:05
 
@@ -1837,7 +1837,7 @@ Investigative Direction: Ask what the half-million-dollar check was, who paid it
 
 ---
 
-**C-13164** Host Asks for Tips at moretips@candaceowens.com After the Gary Segment
+**C-11314** Host Asks for Tips at moretips@candaceowens.com After the Gary Segment
 
 Claim Timestamp: 00:27:10
 
@@ -1852,7 +1852,7 @@ Investigative Direction: Track tip-line submissions that follow this call.
 
 ---
 
-**C-13165** Host Says Kolvet Blamed Her for the Hit Piece When It Went Wrong
+**C-11315** Host Says Kolvet Blamed Her for the Hit Piece When It Went Wrong
 
 Claim Timestamp: 00:30:27
 
@@ -1863,13 +1863,13 @@ Transcript Snippet: blamed me for the hit piece against me when it went wrong.
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-330
 Related Nodes: N-10743, N-10070
-Supports: C-3110
+Supports: C-11224
 Tags: relevance:core
 Investigative Direction: Retrieve Kolvet's post and the Daily Mail article and compare them.
 
 ---
 
-**C-13166** Host Says the Daily Mail Article Is Still Up and Cannot Be Retracted
+**C-11316** Host Says the Daily Mail Article Is Still Up and Cannot Be Retracted
 
 Claim Timestamp: 00:31:18
 
@@ -1880,13 +1880,13 @@ Transcript Snippet: for clarity the article is still up because he's lying.
 Anchored Artifacts: 
 Mentions: N-3, N-14
 Related Nodes: N-10070, N-10743
-Supports: C-5988
+Supports: C-11233
 Tags: relevance:core
 Investigative Direction: Check the Daily Mail page history and correspondence requesting a correction.
 
 ---
 
-**C-13167** Host Says Emails Gave Concrete Proof the Story Came From an Erika Family Friend
+**C-11317** Host Says Emails Gave Concrete Proof the Story Came From an Erika Family Friend
 
 Claim Timestamp: 00:32:08
 
@@ -1897,13 +1897,13 @@ Transcript Snippet: We received a flurry of emails of people who presented proof
 Anchored Artifacts: A-3250.1
 Mentions: N-3, N-545, N-2
 Related Nodes: N-10743, N-10745
-Supports: C-5981
+Supports: C-11222
 Tags: relevance:core
 Investigative Direction: Obtain the emails and the proof offered, and ask the Daily Mail whether the source was Tracy Martin.
 
 ---
 
-**C-13168** Host Says Tracy Martin Gave Quotes to Us Magazine
+**C-11318** Host Says Tracy Martin Gave Quotes to Us Magazine
 
 Claim Timestamp: 00:32:08
 
@@ -1919,7 +1919,7 @@ Investigative Direction: Find the Us Weekly articles quoting Martin.
 
 ---
 
-**C-13169** Host Says Tracy Martin Falsely Claimed the Host Shouted and Cursed on a Call
+**C-11319** Host Says Tracy Martin Falsely Claimed the Host Shouted and Cursed on a Call
 
 Claim Timestamp: 00:32:08
 
@@ -1934,7 +1934,7 @@ Investigative Direction: Ask Tracy Martin for her account; no recording is state
 
 ---
 
-**C-13170** Host Says Tracy Martin Went on Paramount Tactical Before the Emails Arrived
+**C-11320** Host Says Tracy Martin Went on Paramount Tactical Before the Emails Arrived
 
 Claim Timestamp: 00:32:57
 
@@ -1950,7 +1950,7 @@ Investigative Direction: Check the date of the Paramount Tactical show against t
 
 ---
 
-**C-13171** Host Says Videos Show Erika Rapping to Gangster Music While Partying
+**C-11321** Host Says Videos Show Erika Rapping to Gangster Music While Partying
 
 Claim Timestamp: 00:32:57
 
@@ -1965,7 +1965,7 @@ Investigative Direction: Locate and date any such videos.
 
 ---
 
-**C-13172** Host Says Erika Named Her and Accused Her of Accusing Erika of Killing Her Husband
+**C-11323** Host Says Erika Named Her and Accused Her of Accusing Erika of Killing Her Husband
 
 Claim Timestamp: 00:34:31
 
@@ -1980,7 +1980,7 @@ Investigative Direction: Identify the Erika appearance and transcript; check whe
 
 ---
 
-**C-13173** Host Says Erika's Questions Were Pre-Approved by Bari Weiss
+**C-11324** Host Says Erika's Questions Were Pre-Approved by Bari Weiss
 
 Claim Timestamp: 00:34:31
 
@@ -1990,13 +1990,13 @@ Transcript Snippet: questions that were pre-approved uh by Bari Weiss
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-278
-Supports: C-1922
+Supports: C-3985
 Tags: relevance:core
 Investigative Direction: Obtain CBS town hall production records on question approval.
 
 ---
 
-**C-13174** Host Says the Article Was Meant to Show Erika Was Strong and Backfired
+**C-11325** Host Says the Article Was Meant to Show Erika Was Strong and Backfired
 
 Claim Timestamp: 00:36:07
 
@@ -2012,7 +2012,7 @@ Investigative Direction: Ask the host's source for who commissioned the article.
 
 ---
 
-**C-13175** Host Says TPUSA Claims She Was Behind an Article Calling Herself Names
+**C-11326** Host Says TPUSA Claims She Was Behind an Article Calling Herself Names
 
 Claim Timestamp: 00:36:07
 
@@ -2023,13 +2023,13 @@ Transcript Snippet: they're saying I was behind the article calling myself the B
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10743
-Supports: C-3083
+Supports: C-11104
 Tags: relevance:context
 Investigative Direction: Compare the Daily Mail quotes with Kolvet's statement.
 
 ---
 
-**C-13176** Host Promises Next Week Will Be Explosive
+**C-11327** Host Promises Next Week Will Be Explosive
 
 Claim Timestamp: 00:36:58
 
@@ -2044,7 +2044,7 @@ Investigative Direction: Review the episodes of the following week against the p
 
 ---
 
-**C-13177** Host Says the Suspect's Texts Looked Like Google Translate
+**C-11332** Host Says the Suspect's Texts Looked Like Google Translate
 
 Claim Timestamp: 00:37:41
 
@@ -2059,7 +2059,7 @@ Investigative Direction: Obtain the full text exchange and have a linguist asses
 
 ---
 
-**C-13178** Host Says Twitch Worked on Ellen's Show and Died by Suicide in a Hotel Room
+**C-11333** Host Says Twitch Worked on Ellen's Show and Died by Suicide in a Hotel Room
 
 Claim Timestamp: 00:38:55
 
@@ -2074,7 +2074,7 @@ Investigative Direction: Check public reporting on Boss's death in December 2022
 
 ---
 
-**C-13179** Host Says Twitch Checked Into a Motel on Monday and Was Found Dead Tuesday
+**C-11336** Host Says Twitch Checked Into a Motel on Monday and Was Found Dead Tuesday
 
 Claim Timestamp: 00:40:01
 
@@ -2089,7 +2089,7 @@ Investigative Direction: Check the LAPD and coroner records for the date and the
 
 ---
 
-**C-13180** Host Says Staff Saw No Distress or Heard No Gunfire and Twitch Left a Note
+**C-11337** Host Says Staff Saw No Distress or Heard No Gunfire and Twitch Left a Note
 
 Claim Timestamp: 00:40:45
 
@@ -2104,7 +2104,7 @@ Investigative Direction: Review the TMZ report and the coroner's and police stat
 
 ---
 
-**C-13181** Host Says Twitch Died Without a Will and Allison Holker Was Granted Half the Estate
+**C-11339** Host Says Twitch Died Without a Will and Allison Holker Was Granted Half the Estate
 
 Claim Timestamp: 00:43:01
 
@@ -2119,7 +2119,7 @@ Investigative Direction: Check the Los Angeles Superior Court probate docket.
 
 ---
 
-**C-13182** Host Says Erika Made Family at Charlie's Catholic Burial Sign NDAs
+**C-11340** Host Says Erika Made Family at Charlie's Catholic Burial Sign NDAs
 
 Claim Timestamp: 00:43:01
 
@@ -2135,7 +2135,7 @@ Investigative Direction: Identify the host's source and obtain a copy of any NDA
 
 ---
 
-**C-13183** Twitch Family Says the NDA Demand Was Tied to a Magazine Story Blamed on the Grandfather
+**C-11342** Twitch Family Says the NDA Demand Was Tied to a Magazine Story Blamed on the Grandfather
 
 Claim Timestamp: 00:44:07
 
@@ -2151,7 +2151,7 @@ Investigative Direction: Review the full CBS segment.
 
 ---
 
-**C-13184** Host Says Holker Released a Book in February 2024 About Addiction and Past Abuse
+**C-11344** Host Says Holker Released a Book in February 2024 About Addiction and Past Abuse
 
 Claim Timestamp: 00:46:09
 
@@ -2166,7 +2166,7 @@ Investigative Direction: Check the book's publication date and the family's publ
 
 ---
 
-**C-13185** Host Says She Released SUV Photos and Texts, Including Charlie Leaving the Pro-Israel Cause
+**C-11345** Host Says She Released SUV Photos and Texts, Including Charlie Leaving the Pro-Israel Cause
 
 Claim Timestamp: 00:49:33
 
@@ -2176,13 +2176,13 @@ Transcript Snippet: from photos inside of the SUV um to releasing text messages,
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Supports: C-9356
+Supports: C-1557
 Tags: relevance:core
 Investigative Direction: Compile the host's prior releases of SUV photos and Kirk texts.
 
 ---
 
-**C-13186** Host Says the Preliminary Hearing Forced No Retraction and Raised More Questions
+**C-11346** Host Says the Preliminary Hearing Forced No Retraction and Raised More Questions
 
 Claim Timestamp: 00:49:33
 
@@ -2198,7 +2198,7 @@ Investigative Direction: Compare hearing testimony with the host's earlier claim
 
 ---
 
-**C-13187** Host Says About $40 Million Was Raised in One Night
+**C-11347** Host Says About $40 Million Was Raised in One Night
 
 Claim Timestamp: 00:50:46
 
@@ -2208,13 +2208,13 @@ Transcript Snippet: us literally raising $40 million, approximately $40 million 
 
 Anchored Artifacts: 
 Mentions: N-3, N-2
-Supports: C-8074
+Supports: C-3913
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA fundraising reports for the event.
 
 ---
 
-**C-13188** Host Says T-Shirts Went Into a For-Profit Business
+**C-11348** Host Says T-Shirts Went Into a For-Profit Business
 
 Claim Timestamp: 00:50:58
 
@@ -2230,7 +2230,7 @@ Investigative Direction: Identify the business that sold the shirts and its owne
 
 ---
 
-**C-13189** Host Says Seth Dillon Pressured Charlie in the Hamptons
+**C-11349** Host Says Seth Dillon Pressured Charlie in the Hamptons
 
 Claim Timestamp: 00:50:58
 
@@ -2246,7 +2246,7 @@ Investigative Direction: Gather accounts from attendees of the Hamptons retreat.
 
 ---
 
-**C-13190** Host Says Seth Dillon Morally Blackmailed Her and She Has Messages
+**C-11350** Host Says Seth Dillon Morally Blackmailed Her and She Has Messages
 
 Claim Timestamp: 00:50:58
 
@@ -2262,7 +2262,7 @@ Investigative Direction: Obtain the messages the host says she holds.
 
 ---
 
-**C-13191** Host Says Tracy Martin Was Behind the Daily Mail Article as She Is Told
+**C-11351** Host Says Tracy Martin Was Behind the Daily Mail Article as She Is Told
 
 Claim Timestamp: 00:51:59
 
@@ -2273,13 +2273,13 @@ Transcript Snippet: if Tracy Martin was the one who, as I'm told, was behind thi
 Anchored Artifacts: A-3250.1
 Mentions: N-3, N-545, N-14, N-2
 Related Nodes: N-10743, N-10745
-Supports: C-11597
+Supports: C-11109
 Tags: relevance:core
 Investigative Direction: Ask the Daily Mail whether and to whom it sent the comment request.
 
 ---
 
-**C-13192** Host Says Sandy Hook Talk Signals a Lawsuit
+**C-11352** Host Says Sandy Hook Talk Signals a Lawsuit
 
 Claim Timestamp: 00:54:39
 
@@ -2290,7 +2290,7 @@ Transcript Snippet: the typical people are starting to talk about Sandy Hook I w
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10741
-Supports: C-6004
+Supports: C-11251
 Tags: relevance:context
 Investigative Direction: Look for any filed or threatened suit.
 

@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep071): N-10503, N-10674
   - Tip-minted Nodes (reintro-ep071): N-804, N-805, N-11188
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14310–C-14385
+  - Claim Range: C-6315–C-6415
   - New Nodes Introduced:  N-552, N-553, N-554, N-555, N-10497, N-10498, N-10499, N-10500
   - Reused Nodes Appearing: N-5, N-22, N-36, N-49, N-55, N-97, N-99, N-116, N-361, N-364, N-523, N-10000, N-10016, N-10018, N-10027, N-10134, N-10209, N-10326, N-10342, N-10345, N-10367, N-10372, N-10378, N-10412, N-10435, N-10446, N-10456, N-10486, N-10495, N-10510, N-10539, N-10911, N-11079, N-11080, N-11165, N-11235, N-11283
   - (see registers), N-11
@@ -191,7 +191,7 @@ Confidence: high
 
 Artifact Families Introduced: A-1750, A-1751, A-1752, A-1753, A-1754, A-1755, A-1756, A-1757, A-1758, A-1759, A-1760, A-1761, A-1762
 
-Claim Range: C-2326–C-2350
+Claim Range: C-6316–C-6404
 
 New Nodes Introduced:  N-552, N-553, N-554, N-555, N-10497, N-10498, N-10499, N-10500
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:05:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2326, N-555*
+*Related: C-6316, N-555*
 
 **A-1751** Andrew Kolvet Interview Clip Bundle
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:08:37–00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2327, C-2328, C-2329, N-555*
+*Related: C-6322, C-6323, C-6324, N-555*
 
 **A-1752** TPUSA Halftime YouTube Screenshot Bundle
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2330, N-10499*
+*Related: C-6325, N-10499*
 
 **A-1753** Top YouTube Live Streams Reference Bundle
 
@@ -257,7 +257,7 @@ Video Timestamp: 00:11:41–00:12:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2331, C-2332, N-10499*
+*Related: C-6327, C-6328, N-10499*
 
 **A-1754** Erika Kirk Widow Address Video Bundle
 
@@ -269,7 +269,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2333, N-2*
+*Related: C-6330, N-2*
 
 **A-1755** Candace "Letter to Erika" Video Bundle
 
@@ -281,7 +281,7 @@ Video Timestamp: 00:16:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2334, N-2*
+*Related: C-6331, N-2*
 
 **A-1756** TPUSA Halftime Show Page Bundle
 
@@ -293,7 +293,7 @@ Video Timestamp: 00:16:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2335, N-10499*
+*Related: C-6332, N-10499*
 
 **A-1757** Thomas Martin Online Profiles Bundle
 
@@ -305,7 +305,7 @@ Video Timestamp: 00:20:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2336, N-552, N-10497*
+*Related: C-6346, N-552, N-10497*
 
 **A-1757.2** Thomas Martin ZoomInfo Listing (Deputy Chief Patrol Agent, DHS)
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:22:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2337, N-552, N-10497*
+*Related: C-6349, N-552, N-10497*
 
 **A-1758** 1985 Times Union Article Bundle
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:22:02–00:24:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2338, C-2339, N-552, N-10497*
+*Related: C-6350, C-6351, N-552, N-10497*
 
 **A-1759** Tracy Martin Text Messages Bundle
 
@@ -339,7 +339,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2340, C-2341, N-545, N-553, N-10498*
+*Related: C-6356, C-6357, N-545, N-553, N-10498*
 
 **A-1760** Religious Liberty Commission Hearing Bundle
 
@@ -351,7 +351,7 @@ Video Timestamp: 00:30:34–00:40:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2342, C-2343, C-2344, C-2345, N-554, N-10500*
+*Related: C-6365, C-6376, C-6381, C-6382, N-554, N-10500*
 
 **A-1760.2** Carrie Prejean Boller Questioning of Seth Dillon at Religious Liberty Commission Hearing
 
@@ -361,7 +361,7 @@ Video Timestamp: 00:31:24–00:32:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2346, N-554*
+*Related: C-6368, N-554*
 
 **A-1761** Tyler Bowyer Tweet Bundle
 
@@ -373,7 +373,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2347, N-10499, N-11*
+*Related: C-6335, N-10499, N-11*
 
 **A-1762** Comments Section Read Bundle
 
@@ -385,7 +385,7 @@ Video Timestamp: 00:43:33–00:50:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2348, C-2349, C-2350*
+*Related: C-6408, C-6403, C-6404*
 
 ---
 
@@ -398,7 +398,7 @@ Video Timestamp: 00:16:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14319, N-10499, N-99*
+*Related: C-6334, N-10499, N-99*
 
 ---
 
@@ -411,7 +411,7 @@ Video Timestamp: 00:18:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14322, C-14323, C-14324, N-10326, N-10367, N-10372, N-10435, N-11283, N-2, N-361, N-364*
+*Related: C-6338, C-6339, C-6340, N-10326, N-10367, N-10372, N-10435, N-11283, N-2, N-361, N-364*
 
 ---
 
@@ -424,7 +424,7 @@ Video Timestamp: 00:20:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14329, N-10497, N-545, N-552*
+*Related: C-6345, N-10497, N-545, N-552*
 
 ---
 
@@ -439,7 +439,7 @@ Video Timestamp: 00:24:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14334, N-10497, N-552*
+*Related: C-6354, N-10497, N-552*
 
 ---
 
@@ -452,7 +452,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14336, N-10498, N-10503, N-2, N-545, N-553*
+*Related: C-6358, N-10498, N-10503, N-2, N-545, N-553*
 
 ---
 
@@ -465,7 +465,7 @@ Video Timestamp: 00:28:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14337, C-14338, C-14339, C-14341, C-14342, N-1, N-10412, N-10539, N-10674, N-11079, N-2, N-36, N-5*
+*Related: C-6359, C-6360, C-6361, C-6363, C-6364, N-1, N-10412, N-10539, N-10674, N-11079, N-2, N-36, N-5*
 
 ---
 
@@ -478,7 +478,7 @@ Video Timestamp: 00:36:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14361, C-14362, N-1, N-10016, N-10345, N-3, N-38*
+*Related: C-6388, C-6389, N-1, N-10016, N-10345, N-3, N-38*
 
 ---
 
@@ -491,7 +491,7 @@ Video Timestamp: 00:49:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14379, C-14380, N-1, N-2, N-3, N-11394*
+*Related: C-6409, C-6410, N-1, N-2, N-3, N-11394*
 
 ---
 
@@ -504,7 +504,7 @@ Video Timestamp: 00:50:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14381, C-14383, C-14384, N-1, N-3, N-11395*
+*Related: C-6411, C-6413, C-6414, N-1, N-3, N-11395*
 
 ---
 
@@ -519,7 +519,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14385, N-10497, N-552, N-939*
+*Related: C-6415, N-10497, N-552, N-939*
 
 ---
 
@@ -534,7 +534,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1759.1, C-2340, C-2341, N-552, N-553, N-10497, N-10498*
+*Related: A-1759.1, C-6356, C-6357, N-552, N-553, N-10497, N-10498*
 
 **N-552** Thomas Martin (Tucson Border Patrol Director)
 
@@ -545,7 +545,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-545, N-10497*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-6346, C-6349, C-6350, C-6351, N-545, N-10497*
 
 **N-553** Tracy Martin's Daughter (Unnamed)
 
@@ -556,7 +556,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-545, N-2, N-10498*
+*Related: A-1759.1, C-6356, C-6357, N-545, N-2, N-10498*
 
 **N-554** Carrie Prejean Boller
 
@@ -567,7 +567,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1760.2, C-2346*
+*Related: A-1760.2, C-6368*
 
 **N-555** Brian Kilmeade
 
@@ -578,7 +578,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1750.1, A-1751.1, C-2327, C-2328, C-2329*
+*Related: A-1750.1, A-1751.1, C-6322, C-6323, C-6324*
 
 **N-10497** Thomas Martin Identity Verification
 
@@ -589,7 +589,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1757.1, A-1757.2, A-1758.1, C-2336, C-2337, C-2338, C-2339, N-545, N-552*
+*Related: A-1757.1, A-1757.2, A-1758.1, C-6346, C-6349, C-6350, C-6351, N-545, N-552*
 
 **N-10498** Tracy's Daughter Erika Assistant Status Verification
 
@@ -600,7 +600,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1759.1, C-2340, C-2341, N-545, N-553, N-2*
+*Related: A-1759.1, C-6356, C-6357, N-545, N-553, N-2*
 
 **N-10499** TPUSA Halftime Viewership Authenticity
 
@@ -611,7 +611,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1751.1, A-1752.1, A-1753.1, A-1756.1, A-1761.1, C-2327, C-2328, C-2329, C-2330, C-2335, C-2347*
+*Related: A-1751.1, A-1752.1, A-1753.1, A-1756.1, A-1761.1, C-6322, C-6323, C-6324, C-6325, C-6332, C-6335*
 
 **N-10500** Hamptons Meeting Characterization Evolution
 
@@ -622,7 +622,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1760.1, C-2343, C-2344, C-2345, N-554*
+*Related: A-1760.1, C-6376, C-6381, C-6382, N-554*
 
 ---
 
@@ -631,7 +631,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-2347*
+*Related: C-6335*
 
 ---
 
@@ -639,7 +639,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the case; his Iran advice, Hamptons experience and 2018 messages with the host are discussed.
 
-*Related: C-14338, C-14339, C-14340, C-14341, C-14342, C-14343, C-14345, C-14352, C-14354, C-14355, C-14356, C-14361, C-14362, C-14365, C-14366, C-14367, C-14371, C-14375, C-14376, C-14377, C-14380, C-14381, C-14383, C-14384*
+*Related: C-6360, C-6361, C-6362, C-6363, C-6364, C-6366, C-6369, C-6377, C-6379, C-6380, C-6383, C-6388, C-6389, C-6392, C-6393, C-6394, C-6398, C-6402, C-6405, C-6406, C-6410, C-6411, C-6413, C-6414*
 
 ---
 
@@ -647,7 +647,7 @@ Subject of the case; his Iran advice, Hamptons experience and 2018 messages with
 
 Subject of the Instagram purge, Fort Huachuca sighting and friendship claims.
 
-*Related: C-14321, C-14322, C-14326, C-14327, C-14331, C-14336, C-14337, C-14342, C-14369, C-14380*
+*Related: C-6337, C-6338, C-6342, C-6343, C-6348, C-6358, C-6359, C-6364, C-6396, C-6410*
 
 ---
 
@@ -655,7 +655,7 @@ Subject of the Instagram purge, Fort Huachuca sighting and friendship claims.
 
 The host; speaks of her own reporting, hearing clip responses and relationship with Charlie.
 
-*Related: C-14316, C-14349, C-14350, C-14351, C-14359, C-14360, C-14361, C-14373, C-14374, C-14375, C-14376, C-14378, C-14380, C-14381, C-14383, C-14384*
+*Related: C-6326, C-6373, C-6374, C-6375, C-6386, C-6387, C-6388, C-6400, C-6401, C-6402, C-6405, C-6407, C-6410, C-6411, C-6413, C-6414*
 
 ---
 
@@ -663,7 +663,7 @@ The host; speaks of her own reporting, hearing clip responses and relationship w
 
 Named as having tweeted about the alternative halftime show and as persuaded by Kirk to limit Iran action.
 
-*Related: C-14311, C-14339, C-14341*
+*Related: C-6318, C-6361, C-6363*
 
 ---
 
@@ -671,7 +671,7 @@ Named as having tweeted about the alternative halftime show and as persuaded by 
 
 TPUSA spokesperson; accused of PR campaign against Snow and quoted on Netanyahu offer.
 
-*Related: C-14321, C-14370*
+*Related: C-6337, C-6397*
 
 ---
 
@@ -679,7 +679,7 @@ TPUSA spokesperson; accused of PR campaign against Snow and quoted on Netanyahu 
 
 Recalled for his Student Action Summit remarks and for describing Kirk's Iran stance and feelings.
 
-*Related: C-14318, C-14340, C-14366*
+*Related: C-6333, C-6362, C-6393*
 
 ---
 
@@ -687,7 +687,7 @@ Recalled for his Student Action Summit remarks and for describing Kirk's Iran st
 
 Subject of the Hamptons call, the next-level offer and the radio show refusal.
 
-*Related: C-14338, C-14364, C-14368, C-14369, C-14370, C-14371*
+*Related: C-6360, C-6391, C-6395, C-6396, C-6397, C-6398*
 
 ---
 
@@ -695,7 +695,7 @@ Subject of the Hamptons call, the next-level offer and the radio show refusal.
 
 Hearing witness on the Hamptons meeting and Christ Is King; participant in the Hamptons.
 
-*Related: C-14345, C-14346, C-14347, C-14348, C-14349, C-14350, C-14351, C-14352, C-14353, C-14354, C-14355, C-14356, C-14357, C-14358, C-14359, C-14360, C-14362, C-14363, C-14367, C-14372*
+*Related: C-6369, C-6370, C-6371, C-6372, C-6373, C-6374, C-6375, C-6377, C-6378, C-6379, C-6380, C-6383, C-6384, C-6385, C-6386, C-6387, C-6389, C-6390, C-6394, C-6399*
 
 ---
 
@@ -703,7 +703,7 @@ Hearing witness on the Hamptons meeting and Christ Is King; participant in the H
 
 Recipient of Kirk's stress in a conversation about the Hamptons.
 
-*Related: C-14365*
+*Related: C-6392*
 
 ---
 
@@ -711,7 +711,7 @@ Recipient of Kirk's stress in a conversation about the Hamptons.
 
 Credited by the host with breaking the heated Hamptons confrontation story.
 
-*Related: C-14343*
+*Related: C-6366*
 
 ---
 
@@ -719,7 +719,7 @@ Credited by the host with breaking the heated Hamptons confrontation story.
 
 Hamptons attendee; host says Dillon, not Hammer, was fired up.
 
-*Related: C-14372*
+*Related: C-6399*
 
 ---
 
@@ -727,7 +727,7 @@ Hamptons attendee; host says Dillon, not Hammer, was fired up.
 
 Named in the hearing clip as having fired the host from the Daily Wire.
 
-*Related: C-14349*
+*Related: C-6373*
 
 ---
 
@@ -735,7 +735,7 @@ Named in the hearing clip as having fired the host from the Daily Wire.
 
 TPUSA personality who tweeted a triumphant view-count post.
 
-*Related: C-14319*
+*Related: C-6334*
 
 ---
 
@@ -743,7 +743,7 @@ TPUSA personality who tweeted a triumphant view-count post.
 
 Named by the host as one of the chiefs of pressing Kirk in the Hamptons.
 
-*Related: C-14345*
+*Related: C-6369*
 
 ---
 
@@ -751,7 +751,7 @@ Named by the host as one of the chiefs of pressing Kirk in the Hamptons.
 
 Eyewitness whose Fort Huachuca account the host says remains unchanged.
 
-*Related: C-14321, C-14322, C-14323, C-14324*
+*Related: C-6337, C-6338, C-6339, C-6340*
 
 ---
 
@@ -759,7 +759,7 @@ Eyewitness whose Fort Huachuca account the host says remains unchanged.
 
 The person Snow said he saw a lookalike of at Fort Huachuca.
 
-*Related: C-14322*
+*Related: C-6338*
 
 ---
 
@@ -767,7 +767,7 @@ The person Snow said he saw a lookalike of at Fort Huachuca.
 
 Named by the host as controlling halftime booking with the NFL.
 
-*Related: C-14310*
+*Related: C-6315*
 
 ---
 
@@ -775,7 +775,7 @@ Named by the host as controlling halftime booking with the NFL.
 
 Performer in the TPUSA halftime show.
 
-*Related: C-14315*
+*Related: C-6321*
 
 ---
 
@@ -783,7 +783,7 @@ Performer in the TPUSA halftime show.
 
 Headliner of the NFL halftime show.
 
-*Related: C-14310, C-14312, C-14314*
+*Related: C-6315, C-6319, C-6320*
 
 ---
 
@@ -791,7 +791,7 @@ Headliner of the NFL halftime show.
 
 Organization whose halftime show and finances are discussed.
 
-*Related: C-14311, C-14313, C-14314, C-14376, C-14377*
+*Related: C-6318, C-6317, C-6320, C-6405, C-6406*
 
 ---
 
@@ -799,7 +799,7 @@ Organization whose halftime show and finances are discussed.
 
 Investigation target for the August 2025 Hamptons meeting.
 
-*Related: C-14343, C-14344, C-14345, C-14353, C-14355, C-14356, C-14357, C-14361, C-14362, C-14363, C-14365, C-14366, C-14368, C-14372*
+*Related: C-6366, C-6367, C-6369, C-6378, C-6380, C-6383, C-6384, C-6388, C-6389, C-6390, C-6392, C-6393, C-6395, C-6399*
 
 ---
 
@@ -807,7 +807,7 @@ Investigation target for the August 2025 Hamptons meeting.
 
 Topic of a reported Netanyahu call to Kirk.
 
-*Related: C-14364*
+*Related: C-6391*
 
 ---
 
@@ -815,7 +815,7 @@ Topic of a reported Netanyahu call to Kirk.
 
 Place of the August 2025 retreat.
 
-*Related: C-14343, C-14352*
+*Related: C-6366, C-6377*
 
 ---
 
@@ -823,7 +823,7 @@ Place of the August 2025 retreat.
 
 The retreat itself, its attendees and format.
 
-*Related: C-14352, C-14354*
+*Related: C-6377, C-6379*
 
 ---
 
@@ -831,7 +831,7 @@ The retreat itself, its attendees and format.
 
 Topic area touching the host's Christian Zionism criticism.
 
-*Related: C-14351*
+*Related: C-6375*
 
 ---
 
@@ -839,7 +839,7 @@ Topic area touching the host's Christian Zionism criticism.
 
 Meeting alleged at Fort Huachuca.
 
-*Related: C-14323*
+*Related: C-6339*
 
 ---
 
@@ -847,7 +847,7 @@ Meeting alleged at Fort Huachuca.
 
 Topic of the alleged offer to take TPUSA to the next level.
 
-*Related: C-14369, C-14370*
+*Related: C-6396, C-6397*
 
 ---
 
@@ -855,7 +855,7 @@ Topic of the alleged offer to take TPUSA to the next level.
 
 Dillon's role in the Hamptons confrontation.
 
-*Related: C-14358, C-14359, C-14360, C-14362*
+*Related: C-6385, C-6386, C-6387, C-6389*
 
 ---
 
@@ -863,7 +863,7 @@ Dillon's role in the Hamptons confrontation.
 
 Snow's eyewitness encounter at the base.
 
-*Related: C-14322, C-14323, C-14324*
+*Related: C-6338, C-6339, C-6340*
 
 ---
 
@@ -871,7 +871,7 @@ Snow's eyewitness encounter at the base.
 
 Check on Phillips' presence at the base.
 
-*Related: C-14322*
+*Related: C-6338*
 
 ---
 
@@ -879,7 +879,7 @@ Check on Phillips' presence at the base.
 
 Topic of the PR response to Snow.
 
-*Related: C-14321*
+*Related: C-6337*
 
 ---
 
@@ -887,7 +887,7 @@ Topic of the PR response to Snow.
 
 The 126-post deletion.
 
-*Related: C-14337, C-14342*
+*Related: C-6359, C-6364*
 
 ---
 
@@ -895,7 +895,7 @@ The 126-post deletion.
 
 Where Erika was at Fort Huachuca.
 
-*Related: C-14322*
+*Related: C-6338*
 
 ---
 
@@ -903,7 +903,7 @@ Where Erika was at Fort Huachuca.
 
 Conflicting accounts of the funding offer.
 
-*Related: C-14369, C-14370*
+*Related: C-6396, C-6397*
 
 ---
 
@@ -911,7 +911,7 @@ Conflicting accounts of the funding offer.
 
 Topic of Kirk declining to host Netanyahu.
 
-*Related: C-14371*
+*Related: C-6398*
 
 ---
 
@@ -919,7 +919,7 @@ Topic of Kirk declining to host Netanyahu.
 
 Verification topic on Tracy Martin and her husband.
 
-*Related: C-14326, C-14327, C-14328*
+*Related: C-6342, C-6343, C-6344*
 
 ---
 
@@ -927,7 +927,7 @@ Verification topic on Tracy Martin and her husband.
 
 Allegation of a Netanyahu call/presence during the Hamptons.
 
-*Related: C-14364, C-14368*
+*Related: C-6391, C-6395*
 
 ---
 
@@ -935,7 +935,7 @@ Allegation of a Netanyahu call/presence during the Hamptons.
 
 Investigation of the assistant being kept from the event.
 
-*Related: C-14336*
+*Related: C-6358*
 
 ---
 
@@ -943,7 +943,7 @@ Investigation of the assistant being kept from the event.
 
 Authenticity question on the TPUSA show.
 
-*Related: C-14311, C-14313, C-14314, C-14315*
+*Related: C-6318, C-6317, C-6320, C-6321*
 
 ---
 
@@ -951,7 +951,7 @@ Authenticity question on the TPUSA show.
 
 Kirk's June 2025 stance on Iran.
 
-*Related: C-14338, C-14339, C-14340, C-14341*
+*Related: C-6360, C-6361, C-6362, C-6363*
 
 ---
 
@@ -959,7 +959,7 @@ Kirk's June 2025 stance on Iran.
 
 The alleged June 18 meeting.
 
-*Related: C-14338, C-14341, C-14342*
+*Related: C-6360, C-6363, C-6364*
 
 ---
 
@@ -967,7 +967,7 @@ The alleged June 18 meeting.
 
 Agency named in the contract and border patrol claims.
 
-*Related: C-14331*
+*Related: C-6348*
 
 ---
 
@@ -975,7 +975,7 @@ Agency named in the contract and border patrol claims.
 
 The June 2025 strikes on Iran.
 
-*Related: C-14339*
+*Related: C-6361*
 
 ---
 
@@ -983,7 +983,7 @@ The June 2025 strikes on Iran.
 
 Event where Tucker Carlson spoke.
 
-*Related: C-14318*
+*Related: C-6333*
 
 ---
 
@@ -991,7 +991,7 @@ Event where Tucker Carlson spoke.
 
 Organization named with Tracy Martin.
 
-*Related: C-14327*
+*Related: C-6343*
 
 ---
 
@@ -999,7 +999,7 @@ Organization named with Tracy Martin.
 
 Body that held the hearing.
 
-*Related: C-14346, C-14347, C-14348, C-14349, C-14350*
+*Related: C-6370, C-6371, C-6372, C-6373, C-6374*
 
 ---
 
@@ -1007,7 +1007,7 @@ Body that held the hearing.
 
 Related to donors angry after the SAS speech.
 
-*Related: C-14318*
+*Related: C-6333*
 
 ---
 
@@ -1015,7 +1015,7 @@ Related to donors angry after the SAS speech.
 
 Unit Snow said he encountered.
 
-*Related: C-14323, C-14324, C-14325*
+*Related: C-6339, C-6340, C-6341*
 
 ---
 
@@ -1023,7 +1023,7 @@ Unit Snow said he encountered.
 
 First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA halftime show.
 
-*Related: C-14315*
+*Related: C-6321*
 
 ---
 
@@ -1031,7 +1031,7 @@ First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA ha
 
 First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in Buffalo, New York whom she says is not the Tucson Thomas Martin.
 
-*Related: C-14333, C-14385*
+*Related: C-6353, C-6415*
 
 ---
 
@@ -1040,7 +1040,7 @@ First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in
 Node Type: Organization
 League that, per the host, partnered with Jay-Z to book the Super Bowl halftime show.
 
-*Related: C-14310, C-14313*
+*Related: C-6315, C-6317*
 
 ---
 
@@ -1049,7 +1049,7 @@ League that, per the host, partnered with Jay-Z to book the Super Bowl halftime 
 Node Type: Topic
 The NFL halftime performance headlined by Bad Bunny, its booking, and the counter-programmed TPUSA show.
 
-*Related: C-14310, C-14311, C-14312*
+*Related: C-6315, C-6318, C-6319*
 
 ---
 
@@ -1058,7 +1058,7 @@ The NFL halftime performance headlined by Bad Bunny, its booking, and the counte
 Node Type: Topic
 The 1985 trial in Tucson of church workers charged with concealing illegal aliens, as described in the Times Union article the host reads.
 
-*Related: C-14332*
+*Related: C-6352*
 
 ---
 
@@ -1067,7 +1067,7 @@ The 1985 trial in Tucson of church workers charged with concealing illegal alien
 Node Type: Topic
 The claimed phenomenon of street lights turning off or flickering when a person approaches, which the host cites in support of her and Erika's accounts of lights going out around Charlie.
 
-*Related: C-14379, C-14380*
+*Related: C-6409, C-6410*
 
 ---
 
@@ -1076,13 +1076,13 @@ The claimed phenomenon of street lights turning off or flickering when a person 
 Node Type: Topic
 The host's 2018 written exchange with Charlie Kirk about his third eye and what she thinks it led to.
 
-*Related: C-14381, C-14382, C-14383, C-14384*
+*Related: C-6411, C-6412, C-6413, C-6414*
 
 ---
 
 ## V. Claim Register
 
-**C-2326** Host Says Nielsen Super Bowl Viewership Increased During Halftime
+**C-6316** Host Says Nielsen Super Bowl Viewership Increased During Halftime
 
 Claim Timestamp: 00:05:06
 
@@ -1095,7 +1095,7 @@ Investigative Direction: Obtain primary Nielsen release or interim report to con
 
 ---
 
-**C-2327** Kolvet Initial Six Million Concurrent YouTube Claim
+**C-6322** Kolvet Initial Six Million Concurrent YouTube Claim
 
 Claim Timestamp: 00:08:37–00:09:39
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Cross-reference Kolvet's interview statement against an
 
 ---
 
-**C-2328** Kolvet Ten Million Concurrent Across Social Claim
+**C-6323** Kolvet Ten Million Concurrent Across Social Claim
 
 Claim Timestamp: 00:08:37–00:09:39
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Verify whether the 10M figure is supported by any third
 
 ---
 
-**C-2329** Kolvet Twenty Million Total Across Social Claim
+**C-6324** Kolvet Twenty Million Total Across Social Claim
 
 Claim Timestamp: 00:08:37–00:09:39
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Verify the 20M aggregate figure against partner broadca
 
 ---
 
-**C-2330** TPUSA Halftime YouTube Screenshot Metrics
+**C-6325** TPUSA Halftime YouTube Screenshot Metrics
 
 Claim Timestamp: 00:10:39
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Archive the YouTube page and timestamp the screenshot f
 
 ---
 
-**C-2331** India Moon Mission Top YouTube Live Stream
+**C-6327** India Moon Mission Top YouTube Live Stream
 
 Claim Timestamp: 00:11:41–00:12:58
 
@@ -1168,7 +1168,7 @@ Investigative Direction: Verify the 8M figure against YouTube's official records
 
 ---
 
-**C-2332** 2022 World Cup Second on YouTube Live Streams List
+**C-6328** 2022 World Cup Second on YouTube Live Streams List
 
 Claim Timestamp: 00:11:41–00:12:58
 
@@ -1182,7 +1182,7 @@ Investigative Direction: Verify the 6.1M figure against YouTube's official recor
 
 ---
 
-**C-2333** Erika Kirk Widow Address View Counts
+**C-6330** Erika Kirk Widow Address View Counts
 
 Claim Timestamp: 00:15:10
 
@@ -1196,7 +1196,7 @@ Investigative Direction: Verify current YouTube view and comment counts on the C
 
 ---
 
-**C-2334** Candace "Letter to Erika" View Counts
+**C-6331** Candace "Letter to Erika" View Counts
 
 Claim Timestamp: 00:16:12
 
@@ -1210,7 +1210,7 @@ Investigative Direction: Verify current YouTube view and comment counts on Canda
 
 ---
 
-**C-2335** TPUSA Halftime Show View-to-Comment Ratio
+**C-6332** TPUSA Halftime Show View-to-Comment Ratio
 
 Claim Timestamp: 00:16:12
 
@@ -1224,7 +1224,7 @@ Investigative Direction: Re-check current YouTube view and comment counts; compu
 
 ---
 
-**C-2336** Thomas Martin LinkedIn Profile
+**C-6346** Thomas Martin LinkedIn Profile
 
 Claim Timestamp: 00:20:59
 
@@ -1239,7 +1239,7 @@ Investigative Direction: Attempt to retrieve LinkedIn snapshot via archive; cros
 
 ---
 
-**C-2337** Thomas Martin ZoomInfo DHS Profile
+**C-6349** Thomas Martin ZoomInfo DHS Profile
 
 Claim Timestamp: 00:21:27
 
@@ -1254,7 +1254,7 @@ Investigative Direction: Retrieve ZoomInfo archive; cross-check federal personne
 
 ---
 
-**C-2338** Thomas Martin as 1985 Border Patrol Agent
+**C-6350** Thomas Martin as 1985 Border Patrol Agent
 
 Claim Timestamp: 00:22:02–00:24:12
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Obtain full text of the 1985 Times Union article and ve
 
 ---
 
-**C-2339** Thomas Martin 1985 Memo on Church Invasions
+**C-6351** Thomas Martin 1985 Memo on Church Invasions
 
 Claim Timestamp: 00:22:02–00:24:12
 
@@ -1284,7 +1284,7 @@ Investigative Direction: Obtain full text and verify direct quote attribution.
 
 ---
 
-**C-2340** Tracy's Daughter Scheduled at UVU September 10
+**C-6356** Tracy's Daughter Scheduled at UVU September 10
 
 Claim Timestamp: 00:24:52
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Authenticate text messages; verify daughter's attendanc
 
 ---
 
-**C-2341** Host Says Tracy's Bad Feeling Stopped Daughter from UVU
+**C-6357** Host Says Tracy's Bad Feeling Stopped Daughter from UVU
 
 Claim Timestamp: 00:24:52
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Authenticate text messages; cross-reference with daught
 
 ---
 
-**C-2342** Seth Dillon Religious Liberty Commission Testimony
+**C-6365** Seth Dillon Religious Liberty Commission Testimony
 
 Claim Timestamp: 00:30:34–00:40:02
 
@@ -1329,7 +1329,7 @@ Investigative Direction: Obtain official hearing transcript or recording.
 
 ---
 
-**C-2343** Seth Dillon Hamptons "Save the West" Characterization
+**C-6376** Seth Dillon Hamptons "Save the West" Characterization
 
 Claim Timestamp: 00:33:44–00:36:06
 
@@ -1344,7 +1344,7 @@ Investigative Direction: Cross-reference with prior Hamptons participants' publi
 
 ---
 
-**C-2344** Host Says Seth Dillon Is Adjusting His Story on Hamptons Debate
+**C-6381** Host Says Seth Dillon Is Adjusting His Story on Hamptons Debate
 
 Claim Timestamp: 00:35:13–00:36:06
 
@@ -1359,7 +1359,7 @@ Investigative Direction: Compare admission against earlier public statements by 
 
 ---
 
-**C-2345** Seth Dillon Charlie-Originated Debate Claim
+**C-6382** Seth Dillon Charlie-Originated Debate Claim
 
 Claim Timestamp: 00:35:13–00:36:06
 
@@ -1374,7 +1374,7 @@ Investigative Direction: Cross-reference with Charlie Kirk's own public statemen
 
 ---
 
-**C-2346** Host Says Carrie Prejean Boller Questioned Seth Dillon
+**C-6368** Host Says Carrie Prejean Boller Questioned Seth Dillon
 
 Claim Timestamp: 00:31:24–00:32:50
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Obtain full hearing transcript.
 
 ---
 
-**C-2347** Tyler Bowyer TPUSA Concurrent Stream Tweet
+**C-6335** Tyler Bowyer TPUSA Concurrent Stream Tweet
 
 Claim Timestamp: 00:17:44
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Archive the original tweet and any associated image; ve
 
 ---
 
-**C-2348** AO Comment on Erika Lights Flickering Confirmation
+**C-6408** AO Comment on Erika Lights Flickering Confirmation
 
 Claim Timestamp: 00:48:30
 
@@ -1418,7 +1418,7 @@ Investigative Direction: Locate the referenced clip of Erika Kirk speaking to Me
 
 ---
 
-**C-2349** GN2176 Book Comparison Comment
+**C-6403** GN2176 Book Comparison Comment
 
 Claim Timestamp: 00:44:50
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Verify any actual book project matching this descriptio
 
 ---
 
-**C-2350** Charlie Kirk Parents Have Not Reached Out to Candace
+**C-6404** Charlie Kirk Parents Have Not Reached Out to Candace
 
 Claim Timestamp: 00:45:37
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Verify through any other public statements from Charlie
 
 ---
 
-**C-14310** Host Says Jay-Z Controls Halftime Booking and Booked Bad Bunny
+**C-6315** Host Says Jay-Z Controls Halftime Booking and Booked Bad Bunny
 
 Claim Timestamp: 00:04:14
 
@@ -1462,7 +1462,7 @@ Investigative Direction: NFL or Roc Nation announcements and reporting on who se
 
 ---
 
-**C-14311** Host Says TPUSA Announced an Alternative Halftime Show and Trump Tweeted
+**C-6318** Host Says TPUSA Announced an Alternative Halftime Show and Trump Tweeted
 
 Claim Timestamp: 00:06:31
 
@@ -1478,7 +1478,7 @@ Investigative Direction: TPUSA announcement of the alternative show and the Trum
 
 ---
 
-**C-14312** Host Says Bad Bunny Did Not Wear a Dress at the Super Bowl
+**C-6319** Host Says Bad Bunny Did Not Wear a Dress at the Super Bowl
 
 Claim Timestamp: 00:06:55
 
@@ -1494,7 +1494,7 @@ Investigative Direction: Broadcast footage of the halftime performance.
 
 ---
 
-**C-14313** Host Says TPUSA's Counter-Programming Failed to Draw Viewers From the NFL
+**C-6317** Host Says TPUSA's Counter-Programming Failed to Draw Viewers From the NFL
 
 Claim Timestamp: 00:05:06
 
@@ -1504,13 +1504,13 @@ Transcript Snippet: This means uh that the I would say unnecessary Super Bowl po
 
 Anchored Artifacts: A-1750.1
 Related Nodes: N-10000, N-10510, N-11391
-Supports: C-2326
+Supports: C-6316
 Tags: relevance:context
 Investigative Direction: Nielsen's final halftime and game figures compared with TPUSA's claimed audience.
 
 ---
 
-**C-14314** Host Says the TPUSA Show Was Pre-Recorded a Couple of Weeks Earlier
+**C-6320** Host Says the TPUSA Show Was Pre-Recorded a Couple of Weeks Earlier
 
 Claim Timestamp: 00:07:13
 
@@ -1526,7 +1526,7 @@ Investigative Direction: TPUSA production schedule and the show's recording date
 
 ---
 
-**C-14315** Host Names Kid Rock and Lee Brice as TPUSA Show Performers
+**C-6321** Host Names Kid Rock and Lee Brice as TPUSA Show Performers
 
 Claim Timestamp: 00:07:13
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Official TPUSA show lineup.
 
 ---
 
-**C-14316** Host Says Her Own Stream Had 95,000 Concurrent Viewers as a Benchmark
+**C-6326** Host Says Her Own Stream Had 95,000 Concurrent Viewers as a Benchmark
 
 Claim Timestamp: 00:10:39
 
@@ -1558,7 +1558,7 @@ Investigative Direction: The episode's own concurrent and final view counts afte
 
 ---
 
-**C-14317** Host Says TPUSA Wants Viewers to Believe It Is Second on YouTube's Concurrent List
+**C-6329** Host Says TPUSA Wants Viewers to Believe It Is Second on YouTube's Concurrent List
 
 Claim Timestamp: 00:11:41
 
@@ -1569,13 +1569,13 @@ Transcript Snippet: Turning Point wants you to believe that they're number two n
 Anchored Artifacts: A-1753.1
 Mentions: N-14
 Related Nodes: N-10499
-Supports: C-2327
+Supports: C-6322
 Tags: relevance:context
 Investigative Direction: YouTube's all-time peak concurrent viewership rankings and any TPUSA entry.
 
 ---
 
-**C-14318** Host Recalls Tucker Carlson Questioning Donor Wealth at SAS
+**C-6333** Host Recalls Tucker Carlson Questioning Donor Wealth at SAS
 
 Claim Timestamp: 00:16:12
 
@@ -1591,7 +1591,7 @@ Investigative Direction: Video of Tucker Carlson's Student Action Summit July 20
 
 ---
 
-**C-14319** Host Says Alex Clark Tweeted a Triumphant Post Citing 100 Million Views
+**C-6334** Host Says Alex Clark Tweeted a Triumphant Post Citing 100 Million Views
 
 Claim Timestamp: 00:17:34
 
@@ -1607,7 +1607,7 @@ Investigative Direction: Alex Clark's X post and its attached figure, with times
 
 ---
 
-**C-14320** Host Says Bowyer's Tweet Used a Moment From Bad Bunny's Performance
+**C-6336** Host Says Bowyer's Tweet Used a Moment From Bad Bunny's Performance
 
 Claim Timestamp: 00:17:44
 
@@ -1618,13 +1618,13 @@ Transcript Snippet: he shows something he probably likes if I'm guessing um this
 Anchored Artifacts: A-1761.1
 Mentions: N-11, N-805
 Related Nodes: N-10499
-Supports: C-2347
+Supports: C-6335
 Tags: relevance:context
 Investigative Direction: Archive of Bowyer's original post and the attached media.
 
 ---
 
-**C-14321** Host Says Snow Faced Andrew's and Erika's PR Machine Digging Up His Past
+**C-6337** Host Says Snow Faced Andrew's and Erika's PR Machine Digging Up His Past
 
 Claim Timestamp: 00:18:31
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Public statements by TPUSA or Kolvet about Snow's credi
 
 ---
 
-**C-14322** Host Says Snow Has Not Changed His Account of Seeing Erika at Fort Huachuca on the 8th
+**C-6338** Host Says Snow Has Not Changed His Account of Seeing Erika at Fort Huachuca on the 8th
 
 Claim Timestamp: 00:18:31
 
@@ -1656,7 +1656,7 @@ Investigative Direction: Hotel and base access records for September 8, 2025 and
 
 ---
 
-**C-14323** Host Says Snow Walked Into the End of a Briefing for the Joint Task Force Southern Border
+**C-6339** Host Says Snow Walked Into the End of a Briefing for the Joint Task Force Southern Border
 
 Claim Timestamp: 00:18:31
 
@@ -1672,7 +1672,7 @@ Investigative Direction: Fort Huachuca building-use records and JTF Southern Bor
 
 ---
 
-**C-14324** Host Relays Snow's Exchange With a Man Wearing a JTF Patch
+**C-6340** Host Relays Snow's Exchange With a Man Wearing a JTF Patch
 
 Claim Timestamp: 00:19:21
 
@@ -1688,7 +1688,7 @@ Investigative Direction: Snow's detailed account and the unit's official status 
 
 ---
 
-**C-14325** Host Says the Joint Task Force Was Initially Formed in Tucson
+**C-6341** Host Says the Joint Task Force Was Initially Formed in Tucson
 
 Claim Timestamp: 00:19:21
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Official history of Joint Task Force Six and Joint Task
 
 ---
 
-**C-14326** Host Says Tracy Martin Has Been Erika's Best Friend for Over 15 Years
+**C-6342** Host Says Tracy Martin Has Been Erika's Best Friend for Over 15 Years
 
 Claim Timestamp: 00:19:21
 
@@ -1719,7 +1719,7 @@ Investigative Direction: Public photos, posts and statements showing the friends
 
 ---
 
-**C-14327** Host Says Erika Modeled for Tracy's Clothing Brands and Tracy Mentions Romanian Angels
+**C-6343** Host Says Erika Modeled for Tracy's Clothing Brands and Tracy Mentions Romanian Angels
 
 Claim Timestamp: 00:20:09
 
@@ -1735,7 +1735,7 @@ Investigative Direction: Tracy Martin's brand pages and Romanian Angels material
 
 ---
 
-**C-14328** Host Says Tracy's Husband Thomas Martin Is Involved in Fitness and Ran Gyms
+**C-6344** Host Says Tracy's Husband Thomas Martin Is Involved in Fitness and Ran Gyms
 
 Claim Timestamp: 00:20:09
 
@@ -1751,7 +1751,7 @@ Investigative Direction: Business registrations for the Martins' gyms.
 
 ---
 
-**C-14329** Host Relays a Tip That a Thomas Martin Is a Border Patrol Director and Southern Command Chief of Staff in Tucson
+**C-6345** Host Relays a Tip That a Thomas Martin Is a Border Patrol Director and Southern Command Chief of Staff in Tucson
 
 Claim Timestamp: 00:20:09
 
@@ -1767,7 +1767,7 @@ Investigative Direction: Federal personnel directories or CBP press releases nam
 
 ---
 
-**C-14330** Host Says This Thomas Martin Has Wiped His Public Presence
+**C-6347** Host Says This Thomas Martin Has Wiped His Public Presence
 
 Claim Timestamp: 00:20:59
 
@@ -1783,7 +1783,7 @@ Investigative Direction: Web archive snapshots of the LinkedIn profile and other
 
 ---
 
-**C-14331** Host Says Erika's Mother Has Extensive Contracts With DHS
+**C-6348** Host Says Erika's Mother Has Extensive Contracts With DHS
 
 Claim Timestamp: 00:20:59
 
@@ -1799,7 +1799,7 @@ Investigative Direction: Federal contract databases (USAspending, SAM.gov) for t
 
 ---
 
-**C-14332** Host Reads 1985 Article on the Tucson Sanctuary Movement Trial
+**C-6352** Host Reads 1985 Article on the Tucson Sanctuary Movement Trial
 
 Claim Timestamp: 00:22:02
 
@@ -1814,7 +1814,7 @@ Investigative Direction: Full text of the Times Union article of October 21, 198
 
 ---
 
-**C-14333** Host Says the Tucson Thomas Martin Is Not Thomas G. Martin of Buffalo
+**C-6353** Host Says the Tucson Thomas Martin Is Not Thomas G. Martin of Buffalo
 
 Claim Timestamp: 00:24:12
 
@@ -1830,7 +1830,7 @@ Investigative Direction: Border Patrol assignment records distinguishing the two
 
 ---
 
-**C-14334** Host Asks for Tips on the Tucson Thomas Martin
+**C-6354** Host Asks for Tips on the Tucson Thomas Martin
 
 Claim Timestamp: 00:24:12
 
@@ -1846,7 +1846,7 @@ Investigative Direction: Submitted tips on Thomas Martin's career and colleagues
 
 ---
 
-**C-14335** Host Says This Thomas Martin Lived in Tucson Until at Least 2011 and Worked With Southern Command
+**C-6355** Host Says This Thomas Martin Lived in Tucson Until at Least 2011 and Worked With Southern Command
 
 Claim Timestamp: 00:24:12
 
@@ -1862,7 +1862,7 @@ Investigative Direction: The 2011 record the host cites and any later Southern C
 
 ---
 
-**C-14336** Host Says a Source Reports Tracy's Daughter Is Erika's Assistant
+**C-6358** Host Says a Source Reports Tracy's Daughter Is Erika's Assistant
 
 Claim Timestamp: 00:24:52
 
@@ -1878,7 +1878,7 @@ Investigative Direction: TPUSA or Erika Kirk staff listings, event credentials o
 
 ---
 
-**C-14337** Host Says Erika Deleted 126 Instagram Posts on June 19
+**C-6359** Host Says Erika Deleted 126 Instagram Posts on June 19
 
 Claim Timestamp: 00:28:22
 
@@ -1894,7 +1894,7 @@ Investigative Direction: Instagram archive captures before and after June 19, 20
 
 ---
 
-**C-14338** Host Says Charlie Confronted Netanyahu's Side at the White House on June 18
+**C-6360** Host Says Charlie Confronted Netanyahu's Side at the White House on June 18
 
 Claim Timestamp: 00:28:22
 
@@ -1910,7 +1910,7 @@ Investigative Direction: White House visitor logs and schedules for June 18, 202
 
 ---
 
-**C-14339** Host Says Charlie Convinced Trump to Limit Iran Action, Leading to Midnight Hammer
+**C-6361** Host Says Charlie Convinced Trump to Limit Iran Action, Leading to Midnight Hammer
 
 Claim Timestamp: 00:28:22
 
@@ -1926,7 +1926,7 @@ Investigative Direction: Reporting on Kirk's role in advising Trump before the J
 
 ---
 
-**C-14340** Host Says Tucker Carlson Has Spoken Publicly About Charlie Speaking Up on Iran
+**C-6362** Host Says Tucker Carlson Has Spoken Publicly About Charlie Speaking Up on Iran
 
 Claim Timestamp: 00:29:53
 
@@ -1942,7 +1942,7 @@ Investigative Direction: Specific Tucker Carlson broadcast clips where he recoun
 
 ---
 
-**C-14341** Host Says Charlie Argued the Base Would Hate Escalation and That It Be Kept Limited
+**C-6363** Host Says Charlie Argued the Base Would Hate Escalation and That It Be Kept Limited
 
 Claim Timestamp: 00:29:53
 
@@ -1958,7 +1958,7 @@ Investigative Direction: Accounts from attendees of the June 18 meeting.
 
 ---
 
-**C-14342** Host Says Erika Deleted the Posts the Day After Charlie's Win
+**C-6364** Host Says Erika Deleted the Posts the Day After Charlie's Win
 
 Claim Timestamp: 00:29:53
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Date-stamped Instagram captures and the June 18 meeting
 
 ---
 
-**C-14343** Host Says Max Blumenthal Broke the Story of a Heated Hamptons Confrontation
+**C-6366** Host Says Max Blumenthal Broke the Story of a Heated Hamptons Confrontation
 
 Claim Timestamp: 00:30:34
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Max Blumenthal's original report and its sourcing.
 
 ---
 
-**C-14344** Host Says Participants Issued Clean Buttoned-Up Statements Denying the Confrontation
+**C-6367** Host Says Participants Issued Clean Buttoned-Up Statements Denying the Confrontation
 
 Claim Timestamp: 00:30:34
 
@@ -2005,7 +2005,7 @@ Investigative Direction: The participants' statements and their dates.
 
 ---
 
-**C-14345** Host Says Dillon and Natasha Were Chiefs of Pressing Charlie in the Hamptons
+**C-6369** Host Says Dillon and Natasha Were Chiefs of Pressing Charlie in the Hamptons
 
 Claim Timestamp: 00:31:24
 
@@ -2016,13 +2016,13 @@ Transcript Snippet: him and Natasha were the chiefs of pressing Charlie uh Charl
 Anchored Artifacts: 
 Mentions: N-38, N-116, N-1
 Related Nodes: N-10016
-Supports: C-9425
+Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Attendee accounts of who pressed Kirk and on what.
 
 ---
 
-**C-14346** Host Says Witnesses at the Commission Hearing Testify Under Oath
+**C-6370** Host Says Witnesses at the Commission Hearing Testify Under Oath
 
 Claim Timestamp: 00:31:24
 
@@ -2038,7 +2038,7 @@ Investigative Direction: Commission rules on witness oaths and the hearing recor
 
 ---
 
-**C-14347** Host Says Dillon Was a Leading Voice Calling Christ Is King Anti-Semitic
+**C-6371** Host Says Dillon Was a Leading Voice Calling Christ Is King Anti-Semitic
 
 Claim Timestamp: 00:31:24
 
@@ -2054,7 +2054,7 @@ Investigative Direction: Dillon's public statements on the phrase 'Christ is Kin
 
 ---
 
-**C-14348** Clip: Witness Says 'Christ Is King' Could Be Anti-Semitic Depending on Context
+**C-6372** Clip: Witness Says 'Christ Is King' Could Be Anti-Semitic Depending on Context
 
 Claim Timestamp: 00:32:13
 
@@ -2070,7 +2070,7 @@ Investigative Direction: Official hearing video at the stated moment.
 
 ---
 
-**C-14349** Clip: Prejean Boller Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic
+**C-6373** Clip: Prejean Boller Says Ben Shapiro Fired Candace Over 'Christ Is King'; Dillon Says He Never Called It Anti-Semitic
 
 Claim Timestamp: 00:32:13
 
@@ -2086,7 +2086,7 @@ Investigative Direction: Hearing video and the circumstances of Owens' departure
 
 ---
 
-**C-14350** Clip: Witness Says He Calls Candace an Anti-Semite Because She Said Way Worse
+**C-6374** Clip: Witness Says He Calls Candace an Anti-Semite Because She Said Way Worse
 
 Claim Timestamp: 00:32:50
 
@@ -2102,7 +2102,7 @@ Investigative Direction: Hearing video and the statements by Owens the witness r
 
 ---
 
-**C-14351** Host Denies Equating Zionists and Jews and Says She Attacks Christian Zionists
+**C-6375** Host Denies Equating Zionists and Jews and Says She Attacks Christian Zionists
 
 Claim Timestamp: 00:32:50
 
@@ -2118,7 +2118,7 @@ Investigative Direction: Host's own prior statements distinguishing Zionists fro
 
 ---
 
-**C-14352** Clip: Dillon Says Charlie Called the Hamptons Retreat
+**C-6377** Clip: Dillon Says Charlie Called the Hamptons Retreat
 
 Claim Timestamp: 00:33:44
 
@@ -2134,7 +2134,7 @@ Investigative Direction: Invitations and organizer records for the August 2025 H
 
 ---
 
-**C-14353** Clip: Dillon Denies the Hamptons Intervention Characterization
+**C-6378** Clip: Dillon Denies the Hamptons Intervention Characterization
 
 Claim Timestamp: 00:34:27
 
@@ -2150,7 +2150,7 @@ Investigative Direction: Kirk's own contemporaneous descriptions of the meeting 
 
 ---
 
-**C-14354** Clip: Dillon Says About 30 People Were Handpicked by Charlie and He Held the Microphone
+**C-6379** Clip: Dillon Says About 30 People Were Handpicked by Charlie and He Held the Microphone
 
 Claim Timestamp: 00:34:27
 
@@ -2166,7 +2166,7 @@ Investigative Direction: Attendee list and the invitation process.
 
 ---
 
-**C-14355** Clip: Dillon Says Charlie Told the Room Weak Support for Israel Could Be Ruinous
+**C-6380** Clip: Dillon Says Charlie Told the Room Weak Support for Israel Could Be Ruinous
 
 Claim Timestamp: 00:34:27
 
@@ -2182,7 +2182,7 @@ Investigative Direction: Other attendees' accounts of Kirk's remarks on Israel a
 
 ---
 
-**C-14356** Clip: Dillon Cites His Own Experience of Being Targeted for Criticizing Critics of Israel
+**C-6383** Clip: Dillon Cites His Own Experience of Being Targeted for Criticizing Critics of Israel
 
 Claim Timestamp: 00:35:13
 
@@ -2198,7 +2198,7 @@ Investigative Direction: Dillon's description of the episode and any contemporan
 
 ---
 
-**C-14357** Clip: Dillon Says Many Attendees Made Statements That the Account Was Mischaracterized
+**C-6384** Clip: Dillon Says Many Attendees Made Statements That the Account Was Mischaracterized
 
 Claim Timestamp: 00:35:13
 
@@ -2214,7 +2214,7 @@ Investigative Direction: The statements by attendees, with names and dates.
 
 ---
 
-**C-14358** Clip: Dillon Says He and His Family Were Targeted and Someone Was Arrested in Texas
+**C-6385** Clip: Dillon Says He and His Family Were Targeted and Someone Was Arrested in Texas
 
 Claim Timestamp: 00:36:06
 
@@ -2230,7 +2230,7 @@ Investigative Direction: Texas court or police records of an arrest tied to thre
 
 ---
 
-**C-14359** Clip: Dillon Says the Host Put His Face on a Poster Implying He Had a Role in the Murder
+**C-6386** Clip: Dillon Says the Host Put His Face on a Poster Implying He Had a Role in the Murder
 
 Claim Timestamp: 00:36:06
 
@@ -2241,13 +2241,13 @@ Transcript Snippet: She put my face on a movie poster for I know what you did la
 Anchored Artifacts: A-1760.1
 Mentions: N-38, N-3, N-1
 Related Nodes: N-10345
-Supports: C-1639
+Supports: C-2504
 Tags: relevance:context
 Investigative Direction: The host's earlier thumbnail and its context.
 
 ---
 
-**C-14360** Host Acknowledges Making the 'I Know What You Did Last Summer' Thumbnail
+**C-6387** Host Acknowledges Making the 'I Know What You Did Last Summer' Thumbnail
 
 Claim Timestamp: 00:36:06
 
@@ -2263,7 +2263,7 @@ Investigative Direction: The thumbnail and the episode it accompanied.
 
 ---
 
-**C-14361** Host Says Charlie Himself Described the Hamptons as Moral Blackmail
+**C-6388** Host Says Charlie Himself Described the Hamptons as Moral Blackmail
 
 Claim Timestamp: 00:36:06
 
@@ -2274,13 +2274,13 @@ Transcript Snippet: I never said that he was blackmailed. Charlie described what
 Anchored Artifacts: A-3318.1
 Mentions: N-1, N-3
 Related Nodes: N-10016
-Supports: C-1258, C-1292, C-11966
+Supports: C-715, C-847, C-454
 Tags: relevance:core
 Investigative Direction: The specific Kirk clips in which he uses the phrase 'morally blackmailed'.
 
 ---
 
-**C-14362** Host Says Charlie Felt Morally Blackmailed Because of What Dillon Did
+**C-6389** Host Says Charlie Felt Morally Blackmailed Because of What Dillon Did
 
 Claim Timestamp: 00:37:15
 
@@ -2291,13 +2291,13 @@ Transcript Snippet: And he felt he was being morally blackmailed because of what
 Anchored Artifacts: A-3318.1
 Mentions: N-1, N-38
 Related Nodes: N-10016, N-10345
-Supports: C-9425
+Supports: C-2037
 Tags: relevance:core
 Investigative Direction: Kirk's statements naming who pressed him in the Hamptons.
 
 ---
 
-**C-14363** Host Says Dillon Earlier Called the Hamptons a Lovely Spirited Debate and Now Admits It Got Heated
+**C-6390** Host Says Dillon Earlier Called the Hamptons a Lovely Spirited Debate and Now Admits It Got Heated
 
 Claim Timestamp: 00:37:19
 
@@ -2308,13 +2308,13 @@ Transcript Snippet: So first, Seth Dillon's perspective was it was just a nice l
 Anchored Artifacts: A-1760.1
 Mentions: N-38
 Related Nodes: N-10500, N-10016
-Supports: C-2344
+Supports: C-6381
 Tags: relevance:core
 Investigative Direction: Dillon's earlier public statements on the Hamptons meeting versus the hearing testimony.
 
 ---
 
-**C-14364** Host Says Nobody Addresses That Netanyahu Called During the Hamptons Meeting
+**C-6391** Host Says Nobody Addresses That Netanyahu Called During the Hamptons Meeting
 
 Claim Timestamp: 00:37:44
 
@@ -2325,13 +2325,13 @@ Transcript Snippet: No one even wanted to touch the fact that BB Netanyahu calle
 Anchored Artifacts: 
 Mentions: N-36
 Related Nodes: N-10495, N-10018
-Supports: C-1129
+Supports: C-82
 Tags: relevance:core
 Investigative Direction: Phone records or eyewitness accounts of a Netanyahu call during the August 2025 Hamptons retreat.
 
 ---
 
-**C-14365** Host Says Charlie's Hamptons Stress Spilled Into His Conversation With Megyn Kelly
+**C-6392** Host Says Charlie's Hamptons Stress Spilled Into His Conversation With Megyn Kelly
 
 Claim Timestamp: 00:37:52
 
@@ -2342,13 +2342,13 @@ Transcript Snippet: He was so stressed about what happened in the Hamptons that 
 Anchored Artifacts: 
 Mentions: N-1, N-46
 Related Nodes: N-10016
-Supports: C-1162, C-9485
+Supports: C-254, C-2227
 Tags: relevance:core
 Investigative Direction: Megyn Kelly's account of her August 6 conversation with Kirk.
 
 ---
 
-**C-14366** Host Credits Tucker Carlson for Telling the Truth About How Charlie Felt
+**C-6393** Host Credits Tucker Carlson for Telling the Truth About How Charlie Felt
 
 Claim Timestamp: 00:38:06
 
@@ -2364,7 +2364,7 @@ Investigative Direction: Tucker Carlson's public descriptions of Kirk's state of
 
 ---
 
-**C-14367** Host Says Participants Had Claimed Charlie Never Flinched on Israel
+**C-6394** Host Says Participants Had Claimed Charlie Never Flinched on Israel
 
 Claim Timestamp: 00:38:06
 
@@ -2380,7 +2380,7 @@ Investigative Direction: Earlier statements by the participants about Kirk's pos
 
 ---
 
-**C-14368** Host Says She Reported the Hamptons From Eyewitness Accounts
+**C-6395** Host Says She Reported the Hamptons From Eyewitness Accounts
 
 Claim Timestamp: 00:38:06
 
@@ -2396,7 +2396,7 @@ Investigative Direction: The eyewitnesses' identities and accounts.
 
 ---
 
-**C-14369** Host Says Erika Denies Netanyahu Offered to Take TPUSA to the Next Level
+**C-6396** Host Says Erika Denies Netanyahu Offered to Take TPUSA to the Next Level
 
 Claim Timestamp: 00:38:06
 
@@ -2412,7 +2412,7 @@ Investigative Direction: Erika Kirk's own statement denying the offer, with date
 
 ---
 
-**C-14370** Host Says Kolvet Said Netanyahu Did Offer to Take TPUSA to the Next Level
+**C-6397** Host Says Kolvet Said Netanyahu Did Offer to Take TPUSA to the Next Level
 
 Claim Timestamp: 00:39:07
 
@@ -2423,13 +2423,13 @@ Transcript Snippet: Andrew Kolvet says that he did offer to take Turning Point t
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-2
 Related Nodes: N-10342, N-10446
-Supports: C-5012
+Supports: C-3193
 Tags: relevance:core
 Investigative Direction: Kolvet's on-air statement and its date.
 
 ---
 
-**C-14371** Host Says Charlie Did Not Want Netanyahu on His Radio Show
+**C-6398** Host Says Charlie Did Not Want Netanyahu on His Radio Show
 
 Claim Timestamp: 00:39:07
 
@@ -2445,7 +2445,7 @@ Investigative Direction: Booking correspondence between Netanyahu's office and K
 
 ---
 
-**C-14372** Host Says It Was Seth Dillon, Not Josh Hammer, Who Got Fired Up in the Room
+**C-6399** Host Says It Was Seth Dillon, Not Josh Hammer, Who Got Fired Up in the Room
 
 Claim Timestamp: 00:40:02
 
@@ -2456,13 +2456,13 @@ Transcript Snippet: Not Josh Hammer. I will say it wasn't Josh Hammer. I got all
 Anchored Artifacts: 
 Mentions: N-55, N-38
 Related Nodes: N-10016
-Supports: C-9329
+Supports: C-1517
 Tags: relevance:core
 Investigative Direction: Attendee accounts distinguishing Dillon's and Hammer's roles.
 
 ---
 
-**C-14373** Host Says Subscription Tiers Were Merged Into One Club Candace Tier
+**C-6400** Host Says Subscription Tiers Were Merged Into One Club Candace Tier
 
 Claim Timestamp: 00:43:33
 
@@ -2477,7 +2477,7 @@ Investigative Direction: The site's current pricing page.
 
 ---
 
-**C-14374** Host Says 'Why Are You Gay?' Merch Is Available
+**C-6401** Host Says 'Why Are You Gay?' Merch Is Available
 
 Claim Timestamp: 00:43:33
 
@@ -2492,7 +2492,7 @@ Investigative Direction: The merchandise page.
 
 ---
 
-**C-14375** Host Says Her Relationship With Charlie Was Genuine and Like a Kid Brother
+**C-6402** Host Says Her Relationship With Charlie Was Genuine and Like a Kid Brother
 
 Claim Timestamp: 00:44:19
 
@@ -2507,7 +2507,7 @@ Investigative Direction: Contemporaneous texts and public statements about their
 
 ---
 
-**C-14376** Host Says She Has Met Charlie's Parents a Handful of Times and Never a Sister
+**C-6405** Host Says She Has Met Charlie's Parents a Handful of Times and Never a Sister
 
 Claim Timestamp: 00:45:37
 
@@ -2518,13 +2518,13 @@ Transcript Snippet: Like I have met them maybe a handful of times in the early T
 Anchored Artifacts: A-1762.1
 Mentions: N-1, N-3
 Related Nodes: N-10000
-Supports: C-2350
+Supports: C-6404
 Tags: relevance:context
 Investigative Direction: Event records and photos of the host with Kirk family members.
 
 ---
 
-**C-14377** Host Says Those Around Charlie Have a Potential Billion-Dollar Motive
+**C-6406** Host Says Those Around Charlie Have a Potential Billion-Dollar Motive
 
 Claim Timestamp: 00:46:56
 
@@ -2540,7 +2540,7 @@ Investigative Direction: Financial and succession documents showing what changed
 
 ---
 
-**C-14378** Host Says Any Upscrolled Account Under Her Name Is Not Hers
+**C-6407** Host Says Any Upscrolled Account Under Her Name Is Not Hers
 
 Claim Timestamp: 00:47:30
 
@@ -2555,7 +2555,7 @@ Investigative Direction: Platform verification status.
 
 ---
 
-**C-14379** Host Reads That 'Street Light Interference' Is a Named Phenomenon
+**C-6409** Host Reads That 'Street Light Interference' Is a Named Phenomenon
 
 Claim Timestamp: 00:49:21
 
@@ -2570,7 +2570,7 @@ Investigative Direction: Scientific literature or reputable sources on the claim
 
 ---
 
-**C-14380** Host Says Both She and Erika Reported Lights Going Out Around Charlie
+**C-6410** Host Says Both She and Erika Reported Lights Going Out Around Charlie
 
 Claim Timestamp: 00:49:21
 
@@ -2581,13 +2581,13 @@ Transcript Snippet: Like, like Erika's telling the truth, I'm telling the truth.
 Anchored Artifacts: A-3319.1
 Mentions: N-1, N-2, N-3
 Related Nodes: N-11394
-Supports: C-2348
+Supports: C-6408
 Tags: relevance:context
 Investigative Direction: Erika Kirk's Megyn Kelly interview clip and the host's earlier recollection.
 
 ---
 
-**C-14381** Host Says Charlie Spoke to Her About His Third Eye in 2018 and She Has It in Writing
+**C-6411** Host Says Charlie Spoke to Her About His Third Eye in 2018 and She Has It in Writing
 
 Claim Timestamp: 00:50:07
 
@@ -2603,7 +2603,7 @@ Investigative Direction: The 2018 message exchange between the host and Kirk.
 
 ---
 
-**C-14382** Host Says the Government Is Trying to Poison Pineal Glands via Fluoride
+**C-6412** Host Says the Government Is Trying to Poison Pineal Glands via Fluoride
 
 Claim Timestamp: 00:50:07
 
@@ -2618,7 +2618,7 @@ Investigative Direction: Peer-reviewed studies on fluoride and pineal gland calc
 
 ---
 
-**C-14383** Host Guesses a Coach Introducing the Third-Eye Practice Led Charlie to Christian Faith
+**C-6413** Host Guesses a Coach Introducing the Third-Eye Practice Led Charlie to Christian Faith
 
 Claim Timestamp: 00:50:47
 
@@ -2634,7 +2634,7 @@ Investigative Direction: The coach's identity and Kirk's account of his conversi
 
 ---
 
-**C-14384** Host Says Charlie Had a Bad Experience and She Will Show the Messages Another Time
+**C-6414** Host Says Charlie Had a Bad Experience and She Will Show the Messages Another Time
 
 Claim Timestamp: 00:50:47
 
@@ -2650,7 +2650,7 @@ Investigative Direction: The messages themselves, if later shown.
 
 ---
 
-**C-14385** Host Asks Again for Tips on the Tucson Thomas Martin
+**C-6415** Host Asks Again for Tips on the Tucson Thomas Martin
 
 Claim Timestamp: 00:51:30
 

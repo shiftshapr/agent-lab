@@ -27,9 +27,9 @@
           "ref": "A-1587.1",
           "description": "Email from Maggie Wegner to Candace Owens describing Daily Wire audition approach",
           "related_claims": [
-            "C-2016",
-            "C-2017",
-            "C-2024"
+            "C-4643",
+            "C-4645",
+            "C-4644"
           ],
           "related_nodes": [
             "N-388",
@@ -56,7 +56,7 @@
           "ref": "A-1588.1",
           "description": "Text message from Maggie Wegner to Daily Wire producer declining the audition role",
           "related_claims": [
-            "C-2018"
+            "C-4653"
           ],
           "related_nodes": [
             "N-388",
@@ -83,7 +83,7 @@
           "ref": "A-1589.1",
           "description": "AI-generated video sample for proposed Daily Wire show mocking Candace Owens",
           "related_claims": [
-            "C-2017"
+            "C-4645"
           ],
           "related_nodes": [
             "N-388",
@@ -110,8 +110,8 @@
           "ref": "A-1590.1",
           "description": "Ben Shapiro's public resignation statement from Breitbart News (read aloud)",
           "related_claims": [
-            "C-2019",
-            "C-2025"
+            "C-4674",
+            "C-4676"
           ],
           "related_nodes": [
             "N-390",
@@ -143,7 +143,7 @@
           "ref": "A-1591.1",
           "description": "Audio clip of Steve Bannon speaking at Amfest about Ben Shapiro",
           "related_claims": [
-            "C-2020"
+            "C-4663"
           ],
           "related_nodes": [
             "N-389",
@@ -171,8 +171,8 @@
           "ref": "A-1592.1",
           "description": "News article reporting sentencing of Austin Smith for petition signature fraud (content read aloud)",
           "related_claims": [
-            "C-2021",
-            "C-2022"
+            "C-4708",
+            "C-4710"
           ],
           "related_nodes": [
             "N-395",
@@ -200,7 +200,7 @@
           "ref": "A-1593.1",
           "description": "Text messages from Charlie Kirk describing older Jewish man (\"oracle\") and his visions of death",
           "related_claims": [
-            "C-2023"
+            "C-4702"
           ],
           "related_nodes": [
             "N-1",
@@ -272,9 +272,9 @@
           "ref": "A-2842.1",
           "description": "Host verbal reference to many text messages with Charlie Kirk about his vivid dreams and expectation of dying young (not shown beyond the one message at 00:44:48)",
           "related_claims": [
-            "C-6962",
-            "C-6963",
-            "C-6964"
+            "C-4698",
+            "C-4699",
+            "C-4700"
           ],
           "related_nodes": [
             "N-1",
@@ -300,7 +300,7 @@
           "ref": "A-2843.1",
           "description": "Host verbal reference to a text in which Charlie Kirk wrote he was not allowed to go anywhere without security (not shown)",
           "related_claims": [
-            "C-6965"
+            "C-4701"
           ],
           "related_nodes": [
             "N-1",
@@ -328,7 +328,7 @@
           "ref": "A-2844.1",
           "description": "Maggie Wegner's Instagram page shown on screen with the handle maggswegner",
           "related_claims": [
-            "C-6976"
+            "C-4715"
           ],
           "related_nodes": [
             "N-3",
@@ -354,7 +354,7 @@
           "ref": "A-2845.1",
           "description": "Host verbal reference to viewers' tips as a crowd effort she calls decentralizing intelligence (verbal call-out, no address given)",
           "related_claims": [
-            "C-6982"
+            "C-4723"
           ],
           "related_nodes": [
             "N-1",
@@ -383,10 +383,10 @@
         "A-1589.1"
       ],
       "related_claims": [
-        "C-2016",
-        "C-2017",
-        "C-2018",
-        "C-2024"
+        "C-4643",
+        "C-4645",
+        "C-4653",
+        "C-4644"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -408,7 +408,7 @@
         "A-1591.1"
       ],
       "related_claims": [
-        "C-2020"
+        "C-4663"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -432,8 +432,8 @@
         "A-1591.1"
       ],
       "related_claims": [
-        "C-2020",
-        "C-2025"
+        "C-4663",
+        "C-4676"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -477,7 +477,7 @@
         "A-1590.1"
       ],
       "related_claims": [
-        "C-2019"
+        "C-4674"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -501,7 +501,7 @@
         "A-1590.1"
       ],
       "related_claims": [
-        "C-2019"
+        "C-4674"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -524,8 +524,8 @@
         "A-1592.1"
       ],
       "related_claims": [
-        "C-2021",
-        "C-2022"
+        "C-4708",
+        "C-4710"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -566,7 +566,7 @@
         "A-1593.1"
       ],
       "related_claims": [
-        "C-2023"
+        "C-4702"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -609,10 +609,10 @@
         "A-1589.1"
       ],
       "related_claims": [
-        "C-2016",
-        "C-2017",
-        "C-2018",
-        "C-2024"
+        "C-4643",
+        "C-4645",
+        "C-4653",
+        "C-4644"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -635,9 +635,9 @@
         "A-1591.1"
       ],
       "related_claims": [
-        "C-2019",
-        "C-2020",
-        "C-2025"
+        "C-4674",
+        "C-4663",
+        "C-4676"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -704,7 +704,7 @@
         "A-1593.1"
       ],
       "related_claims": [
-        "C-2023"
+        "C-4702"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -727,8 +727,8 @@
         "A-1592.1"
       ],
       "related_claims": [
-        "C-2021",
-        "C-2022"
+        "C-4708",
+        "C-4710"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -773,29 +773,29 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6906",
-        "C-6908",
-        "C-6909",
-        "C-6927",
-        "C-6928",
-        "C-6929",
-        "C-6931",
-        "C-6938",
-        "C-6949",
-        "C-6950",
-        "C-6961",
-        "C-6962",
-        "C-6963",
-        "C-6964",
-        "C-6965",
-        "C-6966",
-        "C-6967",
-        "C-6968",
-        "C-6969",
-        "C-6974",
-        "C-6975",
-        "C-6981",
-        "C-6982"
+        "C-4635",
+        "C-4637",
+        "C-4638",
+        "C-4660",
+        "C-4661",
+        "C-4662",
+        "C-4665",
+        "C-4672",
+        "C-4685",
+        "C-4686",
+        "C-4697",
+        "C-4698",
+        "C-4699",
+        "C-4700",
+        "C-4701",
+        "C-4703",
+        "C-4704",
+        "C-4705",
+        "C-4706",
+        "C-4713",
+        "C-4714",
+        "C-4720",
+        "C-4723"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -843,8 +843,8 @@
       "description": "SAS Epstein remarks / donor freakout; later hosts Brian Cole parents interview.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6907",
-        "C-6911"
+        "C-4636",
+        "C-4640"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -862,27 +862,27 @@
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6908",
-        "C-6909",
-        "C-6910",
-        "C-6911",
-        "C-6912",
-        "C-6913",
-        "C-6917",
-        "C-6928",
-        "C-6929",
-        "C-6930",
-        "C-6931",
-        "C-6932",
-        "C-6938",
-        "C-6939",
-        "C-6940",
-        "C-6941",
-        "C-6944",
-        "C-6945",
-        "C-6946",
-        "C-6950",
-        "C-6951"
+        "C-4637",
+        "C-4638",
+        "C-4639",
+        "C-4640",
+        "C-4641",
+        "C-4642",
+        "C-4649",
+        "C-4661",
+        "C-4662",
+        "C-4664",
+        "C-4665",
+        "C-4666",
+        "C-4672",
+        "C-4673",
+        "C-4675",
+        "C-4677",
+        "C-4680",
+        "C-4681",
+        "C-4682",
+        "C-4686",
+        "C-4687"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -900,7 +900,7 @@
       "description": "Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6951"
+        "C-4687"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -918,55 +918,55 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6903",
-        "C-6904",
-        "C-6905",
-        "C-6907",
-        "C-6909",
-        "C-6911",
-        "C-6913",
-        "C-6915",
-        "C-6917",
-        "C-6918",
-        "C-6919",
-        "C-6920",
-        "C-6921",
-        "C-6922",
-        "C-6923",
-        "C-6924",
-        "C-6925",
-        "C-6927",
-        "C-6928",
-        "C-6931",
-        "C-6932",
-        "C-6938",
-        "C-6950",
-        "C-6951",
-        "C-6952",
-        "C-6953",
-        "C-6954",
-        "C-6955",
-        "C-6956",
-        "C-6957",
-        "C-6959",
-        "C-6960",
-        "C-6961",
-        "C-6962",
-        "C-6963",
-        "C-6964",
-        "C-6965",
-        "C-6966",
-        "C-6967",
-        "C-6969",
-        "C-6970",
-        "C-6973",
-        "C-6975",
-        "C-6976",
-        "C-6978",
-        "C-6979",
-        "C-6980",
-        "C-6981",
-        "C-6982"
+        "C-4632",
+        "C-4633",
+        "C-4634",
+        "C-4636",
+        "C-4638",
+        "C-4640",
+        "C-4642",
+        "C-4647",
+        "C-4649",
+        "C-4650",
+        "C-4651",
+        "C-4652",
+        "C-4654",
+        "C-4655",
+        "C-4656",
+        "C-4657",
+        "C-4658",
+        "C-4660",
+        "C-4661",
+        "C-4665",
+        "C-4666",
+        "C-4672",
+        "C-4686",
+        "C-4687",
+        "C-4688",
+        "C-4689",
+        "C-4690",
+        "C-4691",
+        "C-4692",
+        "C-4693",
+        "C-4695",
+        "C-4696",
+        "C-4697",
+        "C-4698",
+        "C-4699",
+        "C-4700",
+        "C-4701",
+        "C-4703",
+        "C-4704",
+        "C-4706",
+        "C-4707",
+        "C-4712",
+        "C-4714",
+        "C-4715",
+        "C-4717",
+        "C-4718",
+        "C-4719",
+        "C-4720",
+        "C-4723"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -984,7 +984,7 @@
       "description": "Named as opening Amfest just before Shapiro's speech.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6913"
+        "C-4642"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1001,15 +1001,15 @@
       "description": "The host recounts his 2022 tweet and the pressure on her to condemn him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6903",
-        "C-6909",
-        "C-6952",
-        "C-6955",
-        "C-6956",
-        "C-6957",
-        "C-6958",
-        "C-6959",
-        "C-6960"
+        "C-4632",
+        "C-4638",
+        "C-4688",
+        "C-4691",
+        "C-4692",
+        "C-4693",
+        "C-4694",
+        "C-4695",
+        "C-4696"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1026,7 +1026,7 @@
       "description": "Host says she is suing people.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6980"
+        "C-4719"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1043,7 +1043,7 @@
       "description": "Named with Dan Flood in the host's account of Charlie's early security.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6965"
+        "C-4701"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1060,7 +1060,7 @@
       "description": "Named with Brian Harpole in the host's account of Charlie's early security.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6965"
+        "C-4701"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1077,10 +1077,10 @@
       "description": "Former Daily Wire CEO, named for the town hall and the Kanye conference room.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6922",
-        "C-6923",
-        "C-6959",
-        "C-6960"
+        "C-4655",
+        "C-4656",
+        "C-4695",
+        "C-4696"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1097,7 +1097,7 @@
       "description": "Named in the host's reading of the Baldoni lawsuit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6926"
+        "C-4659"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1114,7 +1114,7 @@
       "description": "Named in the host's reading of the Baldoni lawsuit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6926"
+        "C-4659"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1131,7 +1131,7 @@
       "description": "Subject of the host's reading of his lawsuit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6926"
+        "C-4659"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1148,7 +1148,7 @@
       "description": "Subject of the Daily Wire episode the host cites as a firing reason.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6924"
+        "C-4657"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1165,15 +1165,15 @@
       "description": "Organization at the center of the Bowyer, DOGE and missing-money claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6906",
-        "C-6931",
-        "C-6949",
-        "C-6964",
-        "C-6970",
-        "C-6972",
-        "C-6973",
-        "C-6974",
-        "C-6975"
+        "C-4635",
+        "C-4665",
+        "C-4685",
+        "C-4700",
+        "C-4707",
+        "C-4711",
+        "C-4712",
+        "C-4713",
+        "C-4714"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1190,7 +1190,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6909"
+        "C-4638"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1207,7 +1207,7 @@
       "description": "Existing topic reused for the AI sample's bee lines.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6919"
+        "C-4651"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1224,7 +1224,7 @@
       "description": "Existing topic reused for the Amfest slot claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6913"
+        "C-4642"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1241,7 +1241,7 @@
       "description": "Existing topic reused for the suing claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6980"
+        "C-4719"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1258,7 +1258,7 @@
       "description": "Existing topic reused for the suing claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6980"
+        "C-4719"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1275,8 +1275,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6911",
-        "C-6912"
+        "C-4640",
+        "C-4641"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1293,10 +1293,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6904",
-        "C-6915",
-        "C-6932",
-        "C-6953"
+        "C-4633",
+        "C-4647",
+        "C-4666",
+        "C-4689"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1313,7 +1313,7 @@
       "description": "Existing topic reused for the gifted school link.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6966"
+        "C-4703"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1330,7 +1330,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6926"
+        "C-4659"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1347,20 +1347,20 @@
       "description": "The host's former employer.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6903",
-        "C-6904",
-        "C-6907",
-        "C-6913",
-        "C-6922",
-        "C-6923",
-        "C-6924",
-        "C-6932",
-        "C-6944",
-        "C-6945",
-        "C-6953",
-        "C-6957",
-        "C-6959",
-        "C-6960"
+        "C-4632",
+        "C-4633",
+        "C-4636",
+        "C-4642",
+        "C-4655",
+        "C-4656",
+        "C-4657",
+        "C-4666",
+        "C-4680",
+        "C-4681",
+        "C-4689",
+        "C-4693",
+        "C-4695",
+        "C-4696"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1377,9 +1377,9 @@
       "description": "Campaign arm of TPUSA; Austin Smith's employer and the missing-money tip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6905",
-        "C-6972",
-        "C-6973"
+        "C-4634",
+        "C-4711",
+        "C-4712"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1396,9 +1396,9 @@
       "description": "The reasons the host says Jeremy Boreing and the Daily Wire gave at the company town hall for firing her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6922",
-        "C-6923",
-        "C-6924"
+        "C-4655",
+        "C-4656",
+        "C-4657"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1415,13 +1415,13 @@
       "description": "The host's account of being pressured to condemn Kanye West after his 2022 tweet, her refusal and the change to her Daily Wire contract.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6952",
-        "C-6955",
-        "C-6956",
-        "C-6957",
-        "C-6958",
-        "C-6959",
-        "C-6960"
+        "C-4688",
+        "C-4691",
+        "C-4692",
+        "C-4693",
+        "C-4694",
+        "C-4695",
+        "C-4696"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1438,8 +1438,8 @@
       "description": "The host's stated belief that Ben Shapiro may know more than the public about Charlie Kirk's death and may expect to benefit from it.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6928",
-        "C-6929"
+        "C-4661",
+        "C-4662"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1456,10 +1456,10 @@
       "description": "The host's account of Andrew Breitbart's 2012 death, the autopsy and the death of a forensic technician, none of it shown.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6933",
-        "C-6934",
-        "C-6935",
-        "C-6936"
+        "C-4667",
+        "C-4668",
+        "C-4669",
+        "C-4670"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1476,7 +1476,7 @@
       "description": "The host's account that Charlie Kirk wrote he was not allowed to go anywhere without security in TPUSA's early years.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6965"
+        "C-4701"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1493,9 +1493,9 @@
       "description": "The French cattle depopulation comment and the host's farmland and chicken feed remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6977",
-        "C-6978",
-        "C-6979"
+        "C-4716",
+        "C-4717",
+        "C-4718"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1512,8 +1512,8 @@
       "description": "The host's claim that Hollywood was founded by gangs and may still be run by one, and her description of gang-like tactics against her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6925",
-        "C-6954"
+        "C-4658",
+        "C-4690"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1525,8 +1525,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2016",
-      "ref": "C-2016",
+      "@id": "C-4643",
+      "ref": "C-4643",
       "label": "Maggie Wegner Auditioned for Daily Wire Solo Show Two Days After Ben Shapiro's Amfest Speech",
       "claim": "Per an email from Maggie Wegner that the host reads, a Daily Wire producer contacted her about 2 days after Ben Shapiro's Amfest speech to audition her for a solo show presented as a comedy show making fun of the right and the left, with Candace Owens and Tucker Carlson brought up immediately.",
       "anchored_artifacts": [
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2017",
-      "ref": "C-2017",
+      "@id": "C-4645",
+      "ref": "C-4645",
       "label": "Audition Script and AI Video Content Targeted Candace Owens",
       "claim": "Per an email from Maggie Wegner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, \"So when Candace or Tucker says something crazy, we would want you to make fun of it.\"",
       "anchored_artifacts": [
@@ -1569,8 +1569,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2018",
-      "ref": "C-2018",
+      "@id": "C-4653",
+      "ref": "C-4653",
       "label": "Maggie Wegner Declined the Audition Role",
       "claim": "Per a text message the host shows, Maggie Wegner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.",
       "anchored_artifacts": [
@@ -1588,8 +1588,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2019",
-      "ref": "C-2019",
+      "@id": "C-4674",
+      "ref": "C-4674",
       "label": "Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016",
       "claim": "Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her; the host dates the resignation to March 13, 2016.",
       "anchored_artifacts": [
@@ -1610,8 +1610,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2020",
-      "ref": "C-2020",
+      "@id": "C-4663",
+      "ref": "C-4663",
       "label": "Steve Bannon Publicly Described Ben Shapiro's Pattern of Attempted Hostile Takeovers",
       "claim": "Steve Bannon stated at Amfest that Ben Shapiro \"tried to take over Breitbart,\" \"tried to take over David Horowitz's [organization],\" and predicted he \"will make a move on Turning Point.\"",
       "anchored_artifacts": [
@@ -1631,8 +1631,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2021",
-      "ref": "C-2021",
+      "@id": "C-4708",
+      "ref": "C-4708",
       "label": "Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud",
       "claim": "Per a news article the host reads, Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.",
       "anchored_artifacts": [
@@ -1651,8 +1651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2022",
-      "ref": "C-2022",
+      "@id": "C-4710",
+      "ref": "C-4710",
       "label": "Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices",
       "claim": "Per a news article the host reads, Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.",
       "anchored_artifacts": [
@@ -1670,8 +1670,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2023",
-      "ref": "C-2023",
+      "@id": "C-4702",
+      "ref": "C-4702",
       "label": "Host Says Charlie Kirk's 'Oracle' Figure All But Confirmed His Premonition of Dying Young",
       "claim": "The host says Charlie Kirk saw an older Jewish man from Chicago, matched with him, if memory serves, through a school for the gifted, who all but confirmed Charlie's visions that he would die young and told him his death would save humanity; she shows a text in which Charlie writes that the man says he is 'being shaped for a time to save humanity'.",
       "anchored_artifacts": [
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2024",
-      "ref": "C-2024",
+      "@id": "C-4644",
+      "ref": "C-4644",
       "label": "Email the Host Reads Describes Daily Wire Producer as in \"Panic Mode\" During Casting",
       "claim": "Per an email the host reads, the Daily Wire producer who contacted Maggie Wegner was in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her.",
       "anchored_artifacts": [
@@ -1710,8 +1710,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2025",
-      "ref": "C-2025",
+      "@id": "C-4676",
+      "ref": "C-4676",
       "label": "Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death",
       "claim": "Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News two weeks before Andrew Breitbart's death, which the host elsewhere dates to March 1, 2012.",
       "anchored_artifacts": [
@@ -1731,8 +1731,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3655",
-      "ref": "C-3655",
+      "@id": "C-4721",
+      "ref": "C-4721",
       "label": "Host invokes decentralized intelligence (near-DIA framing)",
       "claim": "The host uses near-DIA wording (\"decentralized intelligence\") to describe crowd-sourced investigative capacity, without the full agency brand line in this beat.",
       "anchored_artifacts": [],
@@ -1748,8 +1748,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3656",
-      "ref": "C-3656",
+      "@id": "C-4722",
+      "ref": "C-4722",
       "label": "Host elevates mommy sleuth crowd investigators",
       "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators sending tips, framed as part of the crowd intelligence effort.",
       "anchored_artifacts": [],
@@ -1765,8 +1765,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6903",
-      "ref": "C-6903",
+      "@id": "C-4632",
+      "ref": "C-4632",
       "label": "Host Says Kanye Was Right in 2022 About Blackballing of Opponents",
       "claim": "The host says Kanye West in 2022 said he would go \"deathcon 3\" on Jewish people, and that he was right about the blackballing of anyone who opposes a specific agenda.",
       "anchored_artifacts": [],
@@ -1780,7 +1780,7 @@
       "investigative_direction": "Locate the original Kanye West tweet and its date to confirm the wording the host paraphrases.",
       "transcript_snippet": "And he told us that when he woke up, he was a little bit sleepy tonight, but when he woke up, he had plans cuz he was going to go deathcon 3 on Jewish people.",
       "supports_claim_refs": [
-        "C-1681"
+        "C-2715"
       ],
       "mentions_person_refs": [
         "N-27",
@@ -1789,8 +1789,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6904",
-      "ref": "C-6904",
+      "@id": "C-4633",
+      "ref": "C-4633",
       "label": "Host Says She Has Fought the Daily Wire for Two Years and Public Knows Little",
       "claim": "The host says she has spent two years effectively fighting the Daily Wire after leaving her job, and that 90 to 99 percent of what she has gone through is unknown to the public.",
       "anchored_artifacts": [],
@@ -1810,8 +1810,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6905",
-      "ref": "C-6905",
+      "@id": "C-4634",
+      "ref": "C-4634",
       "label": "Host Says Tyler Bowyer Hired Austin Smith and Is the Lynchpin",
       "claim": "The host says Austin Smith, the Turning Point Action former employee just sentenced in Arizona, was also hired by Tyler Bowyer, whom she calls the lynchpin.",
       "anchored_artifacts": [],
@@ -1833,8 +1833,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6906",
-      "ref": "C-6906",
+      "@id": "C-4635",
+      "ref": "C-4635",
       "label": "Host Says Bowyer Runs TPUSA and Staffed Nearly Everyone Around Charlie",
       "claim": "The host says Tyler Bowyer has been running Turning Point USA and staffed nearly everyone who surrounded Charlie Kirk, and that he should be investigated more thoroughly.",
       "anchored_artifacts": [],
@@ -1855,8 +1855,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6907",
-      "ref": "C-6907",
+      "@id": "C-4636",
+      "ref": "C-4636",
       "label": "Host Says She Scooped the Daily Wire Show the Day Before",
       "claim": "The host says that the previous day her show scooped a Daily Wire news show designed to mock her and Tucker Carlson, and that some Daily Wire fan accounts hoped it was fake.",
       "anchored_artifacts": [],
@@ -1871,7 +1871,7 @@
       "investigative_direction": "Compare the previous episode's report with any Daily Wire announcement of the show.",
       "transcript_snippet": "It was yesterday, just yesterday, that we scooped the Daily Wire's cringe news show designed quite literally with the intention to mock me and Tucker Carlson.",
       "supports_claim_refs": [
-        "C-2013"
+        "C-4615"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1880,8 +1880,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6908",
-      "ref": "C-6908",
+      "@id": "C-4637",
+      "ref": "C-4637",
       "label": "Host Says Shapiro Was Not a Friend of Charlie Kirk",
       "claim": "The host says Ben Shapiro was not a friend of Charlie Kirk and that Charlie Kirk's assassination has catalyzed a certain derangement in Shapiro.",
       "anchored_artifacts": [],
@@ -1901,8 +1901,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6909",
-      "ref": "C-6909",
+      "@id": "C-4638",
+      "ref": "C-4638",
       "label": "Host Says Shapiro Worked Behind the Scenes to Stop Charlie's and Her Rise",
       "claim": "The host says that once Shapiro saw Charlie Kirk as a threat, after the Kanye West tweet, he worked behind the scenes to complicate and stop Charlie's rise and hers.",
       "anchored_artifacts": [],
@@ -1925,8 +1925,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6910",
-      "ref": "C-6910",
+      "@id": "C-4639",
+      "ref": "C-4639",
       "label": "Host Says Shapiro Pressures Christians Financially to Go After Other Christians",
       "claim": "The host says Shapiro's strategy is to find Christians and pressure them, usually through financial means, to go after other Christians when he gets angry.",
       "anchored_artifacts": [
@@ -1948,8 +1948,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6911",
-      "ref": "C-6911",
+      "@id": "C-4640",
+      "ref": "C-4640",
       "label": "Host Says Shapiro Demanded Megyn Kelly's Allegiance Against Her and Tucker",
       "claim": "The host says that at the end of last year Shapiro stepped onto Megyn Kelly's tour stage and demanded her allegiance against the host and Tucker Carlson, and that Kelly did not submit.",
       "anchored_artifacts": [],
@@ -1971,8 +1971,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6912",
-      "ref": "C-6912",
+      "@id": "C-4641",
+      "ref": "C-4641",
       "label": "Host Says Shapiro Directs Attacks on Megyn Kelly Through Stooges",
       "claim": "The host says Megyn Kelly has been under attack by Shapiro's stooges since, and that Shapiro is directing the attacks from behind the scenes.",
       "anchored_artifacts": [],
@@ -1992,8 +1992,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6913",
-      "ref": "C-6913",
+      "@id": "C-4642",
+      "ref": "C-4642",
       "label": "Host Says Shapiro Paid for a Prime Amfest Slot Right After Erika Kirk",
       "claim": "The host says Shapiro paid money for a prime speaking slot at Amfest, taking the stage just after Erika Kirk opened, and used it to attack the host, Tucker Carlson and Megyn Kelly.",
       "anchored_artifacts": [],
@@ -2017,8 +2017,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6914",
-      "ref": "C-6914",
+      "@id": "C-4646",
+      "ref": "C-4646",
       "label": "Host Reads Maggie's Account That She Tried to Rewrite the Script and Could Not",
       "claim": "The host reads Maggie Wegner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by someone whose name is blacked out to contact a second person, who told her not to send the audition tape.",
       "anchored_artifacts": [
@@ -2039,8 +2039,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6915",
-      "ref": "C-6915",
+      "@id": "C-4647",
+      "ref": "C-4647",
       "label": "Maggie Says She Was Told Not to Share the AI Video After the Host Said She Knew",
       "claim": "The host reads Maggie Wegner's email saying she was told not to share the AI video the day after the host announced on air that she knew about the planned show, and that she told the producer she had not leaked it.",
       "anchored_artifacts": [
@@ -2063,8 +2063,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6916",
-      "ref": "C-6916",
+      "@id": "C-4648",
+      "ref": "C-4648",
       "label": "Maggie Says She Attached Proof of the Call and the Producer's Text",
       "claim": "The host reads Maggie Wegner's email saying she attached the AI video, the text she sent the producer, and proof of the call, plus photos from the studio showing the show filming.",
       "anchored_artifacts": [
@@ -2085,8 +2085,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6917",
-      "ref": "C-6917",
+      "@id": "C-4649",
+      "ref": "C-4649",
       "label": "Host Says Ben Wanted the AI Video Sent Around Following Amfest",
       "claim": "The host says the AI video sample was sent to young women to see if they would audition and that Ben Shapiro wanted it sent around following Amfest.",
       "anchored_artifacts": [
@@ -2108,8 +2108,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6918",
-      "ref": "C-6918",
+      "@id": "C-4650",
+      "ref": "C-4650",
       "label": "AI Sample Is Hosted by a Character Named Gossy Gossworthy",
       "claim": "The AI sample shown by the host includes a character who welcomes viewers to \"The More You Know No\" and introduces herself as host \"Gossy Gossworthy\".",
       "anchored_artifacts": [
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6919",
-      "ref": "C-6919",
+      "@id": "C-4651",
+      "ref": "C-4651",
       "label": "Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson",
       "claim": "In an AI sample video the host plays, which she says was sent to young women to audition for a show, the lines include coded talk of bees and end by asking how Kyle Robinson could be the bee that stung, because bees die when they sting and he is alive.",
       "anchored_artifacts": [
@@ -2153,8 +2153,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6920",
-      "ref": "C-6920",
+      "@id": "C-4652",
+      "ref": "C-4652",
       "label": "Host Says Maggie Did Not Get the Job After Refusing to Mock Her",
       "claim": "The host says Maggie Wegner did not get the job because she went back to the producer and said it did not feel true to what she believed to make fun of Candace.",
       "anchored_artifacts": [
@@ -2170,7 +2170,7 @@
       "investigative_direction": "Confirm with Maggie Wegner that she was not offered the role and obtain the producer's reply.",
       "transcript_snippet": "she didn't get the job because she went back to them and she wrote and said, 'I feel uncomfortable doing this.",
       "supports_claim_refs": [
-        "C-2018"
+        "C-4653"
       ],
       "mentions_person_refs": [
         "N-388",
@@ -2179,8 +2179,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6921",
-      "ref": "C-6921",
+      "@id": "C-4654",
+      "ref": "C-4654",
       "label": "Host Says the Casting Required Willingness to Attack Her",
       "claim": "The host says the Daily Wire's message to would-be hosts amounts to a star-making show offer on the condition that they attack Candace Owens, and that this is what they were casting for.",
       "anchored_artifacts": [
@@ -2202,8 +2202,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6922",
-      "ref": "C-6922",
+      "@id": "C-4655",
+      "ref": "C-4655",
       "label": "Host Says Boreing Cited Her Stance That Genocide Is Always Wrong as a Reason She Was Fired",
       "claim": "The host says Jeremy Boreing, in the company town hall, named her public position that genocide is always wrong as a reason she was fired from the Daily Wire.",
       "anchored_artifacts": [],
@@ -2218,7 +2218,7 @@
       "investigative_direction": "Obtain the full town hall video and transcript and compare Boreing's stated reasons with the host's account.",
       "transcript_snippet": "the clearly immoral and impractical stance that I publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.",
       "supports_claim_refs": [
-        "C-1982"
+        "C-4381"
       ],
       "mentions_person_refs": [
         "N-366",
@@ -2227,8 +2227,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6923",
-      "ref": "C-6923",
+      "@id": "C-4656",
+      "ref": "C-4656",
       "label": "Host Says Boreing Also Cited Her View That Pornography Harms Men",
       "claim": "The host says then-CEO Jeremy Boreing gave her position that pornography is harming men as another reason for her firing at the companywide town hall.",
       "anchored_artifacts": [],
@@ -2243,7 +2243,7 @@
       "investigative_direction": "Obtain the town hall transcript and check what Boreing said about pornography.",
       "transcript_snippet": "pornography is harming men. That was another reason that was expressed by then CEO Jeremy in the companywide town",
       "supports_claim_refs": [
-        "C-1982"
+        "C-4381"
       ],
       "mentions_person_refs": [
         "N-366",
@@ -2252,8 +2252,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6924",
-      "ref": "C-6924",
+      "@id": "C-4657",
+      "ref": "C-4657",
       "label": "Host Says Her Michael Jackson Hollywood-Gang Remark Was Another Firing Reason",
       "claim": "The host says another reason given for her firing was that, while speaking about Michael Jackson in a Daily Wire episode, she insinuated it is plausible that Hollywood is being run by a gang.",
       "anchored_artifacts": [],
@@ -2274,8 +2274,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6925",
-      "ref": "C-6925",
+      "@id": "C-4658",
+      "ref": "C-4658",
       "label": "Host Says Hollywood Was Started by Gangs Including Jewish Mafiosos",
       "claim": "The host says Hollywood was in fact started by gangs, including Jewish mafiosos and bootleggers, so it is not beyond possibility that it is still run by a gang.",
       "anchored_artifacts": [],
@@ -2294,8 +2294,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6926",
-      "ref": "C-6926",
+      "@id": "C-4659",
+      "ref": "C-4659",
       "label": "Host Says the Baldoni Lawsuit Showed a Hostile Takeover of His Movie Rights",
       "claim": "The host says that after reading Justin Baldoni's lawsuit she concluded that Ryan Reynolds and Blake Lively were sent to get the rights to his movie, which she calls a hostile takeover.",
       "anchored_artifacts": [],
@@ -2316,8 +2316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6927",
-      "ref": "C-6927",
+      "@id": "C-4660",
+      "ref": "C-4660",
       "label": "Host Says Charlie Wanted Out of the Gang and Was Killed",
       "claim": "The host says that if there is an entertainment gang that she and Charlie Kirk unwittingly joined, she has been getting jumped out for two years, and that Charlie, who wanted out, was killed.",
       "anchored_artifacts": [],
@@ -2337,8 +2337,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6928",
-      "ref": "C-6928",
+      "@id": "C-4661",
+      "ref": "C-4661",
       "label": "Host Says Shapiro May Know More Than the Public About Charlie's Death",
       "claim": "The host says Shapiro's behaviour since the assassination leads her to believe he may know more than the public knows about Charlie Kirk's death, and that she feels this in her soul.",
       "anchored_artifacts": [],
@@ -2359,8 +2359,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6929",
-      "ref": "C-6929",
+      "@id": "C-4662",
+      "ref": "C-4662",
       "label": "Host Says Shapiro Acts as if Charlie's Company Was Promised to Him",
       "claim": "The host says Shapiro is behaving as though Charlie's company was promised to him 3,000 years ago and that he assumed he would somehow benefit from Charlie's death.",
       "anchored_artifacts": [],
@@ -2381,8 +2381,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6930",
-      "ref": "C-6930",
+      "@id": "C-4664",
+      "ref": "C-4664",
       "label": "Bannon Says in the Clip That He Ran Shapiro Out of Breitbart",
       "claim": "In the Amfest clip, Steve Bannon says Ben Shapiro tried to take over Breitbart and that he, Bannon, ran him out of there.",
       "anchored_artifacts": [
@@ -2404,8 +2404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6931",
-      "ref": "C-6931",
+      "@id": "C-4665",
+      "ref": "C-4665",
       "label": "Bannon Says Shapiro Has Always Been Envious of Charlie Kirk",
       "claim": "In the Amfest clip, Steve Bannon says Shapiro will make a move on Turning Point because he has always been envious of Charlie Kirk, and the host calls it fact.",
       "anchored_artifacts": [
@@ -2430,8 +2430,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6932",
-      "ref": "C-6932",
+      "@id": "C-4666",
+      "ref": "C-4666",
       "label": "Host Says Shapiro's Lawsuit Aimed to Bankrupt Her Company Before It Started",
       "claim": "The host says Shapiro tried to take over many companies hostilely, including hers before it got started, and that the lawsuit after she was fired was meant to bankrupt them before they could start.",
       "anchored_artifacts": [],
@@ -2452,8 +2452,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6933",
-      "ref": "C-6933",
+      "@id": "C-4667",
+      "ref": "C-4667",
       "label": "Host Says Andrew Breitbart Died March 1, 2012 Aged 43 of an Apparent Heart Attack",
       "claim": "The host says Andrew Breitbart dropped dead on March 1, 2012 of an apparent heart attack at age 43, and calls it another mysterious political death.",
       "anchored_artifacts": [],
@@ -2472,8 +2472,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6934",
-      "ref": "C-6934",
+      "@id": "C-4668",
+      "ref": "C-4668",
       "label": "Host Says Breitbart Was Stepping on Toes and Claimed Information Before He Died",
       "claim": "The host says Andrew Breitbart was stepping on some toes and saying he had some information shortly before he died.",
       "anchored_artifacts": [],
@@ -2492,8 +2492,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6935",
-      "ref": "C-6935",
+      "@id": "C-4669",
+      "ref": "C-4669",
       "label": "Host Says a Forensic Technician on Breitbart's Autopsy Died of Arsenic Poisoning",
       "claim": "The host says a forensic technician involved in Breitbart's autopsy, named Michael Cormier, aged 61, also died, from military-grade arsenic poisoning.",
       "anchored_artifacts": [],
@@ -2513,8 +2513,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6936",
-      "ref": "C-6936",
+      "@id": "C-4670",
+      "ref": "C-4670",
       "label": "Host Says Cormier's Wife Disputes That He Poisoned Himself",
       "claim": "The host says Michael Cormier's wife says he would not have poisoned himself with military arsenic.",
       "anchored_artifacts": [],
@@ -2533,8 +2533,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6937",
-      "ref": "C-6937",
+      "@id": "C-4671",
+      "ref": "C-4671",
       "label": "Host Says an Internal War Over Breitbart's Direction Followed His Death",
       "claim": "The host says that after Breitbart died there was an internal war over the direction of the company, as Steve Bannon describes.",
       "anchored_artifacts": [],
@@ -2554,8 +2554,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6938",
-      "ref": "C-6938",
+      "@id": "C-4672",
+      "ref": "C-4672",
       "label": "Host Says Breitbart Chiefs Told Her and Charlie the Daily Wire Founding Story",
       "claim": "The host says the story of how Shapiro started the Daily Wire on scandal was told directly to her and Charlie Kirk by chiefs at Breitbart at a corporate retreat in New Mexico.",
       "anchored_artifacts": [],
@@ -2577,8 +2577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6939",
-      "ref": "C-6939",
+      "@id": "C-4673",
+      "ref": "C-4673",
       "label": "Host Says Shapiro and Fields Both Left Breitbart on March 13, 2016",
       "claim": "The host says that on March 13, 2016 Ben Shapiro and Michelle Fields both decided to leave Breitbart and made public statements.",
       "anchored_artifacts": [
@@ -2600,8 +2600,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6940",
-      "ref": "C-6940",
+      "@id": "C-4675",
+      "ref": "C-4675",
       "label": "Shapiro Statement Says He Met Breitbart at 17 and Stayed His Friend",
       "claim": "In the resignation statement read by the host, Shapiro says he met Andrew Breitbart at 17 and remained his friend until his death.",
       "anchored_artifacts": [
@@ -2623,8 +2623,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6941",
-      "ref": "C-6941",
+      "@id": "C-4677",
+      "ref": "C-4677",
       "label": "Shapiro Statement Says Bannon's Breitbart Betrayed Andrew's Legacy",
       "claim": "The statement as read says that, in Shapiro's opinion, Breitbart News under Steve Bannon's chairmanship put a stake through the heart of Andrew Breitbart's legacy, and that Bannon is a bully who sold out the mission to back Trump.",
       "anchored_artifacts": [
@@ -2647,8 +2647,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6942",
-      "ref": "C-6942",
+      "@id": "C-4678",
+      "ref": "C-4678",
       "label": "Shapiro Statement Says Fields's Account Was Backed by Tape, Witness and Video",
       "claim": "The statement as read says Michelle Fields's account of the incident with Corey Lewandowski was backed by audio tape, eyewitness testimony from Ben Terris of the Washington Post, bruises and a videotape.",
       "anchored_artifacts": [
@@ -2670,8 +2670,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6943",
-      "ref": "C-6943",
+      "@id": "C-4679",
+      "ref": "C-4679",
       "label": "Shapiro Statement Says Breitbart Ran a Conspiracy Theory That Fields Misidentified Lewandowski",
       "claim": "The statement as read says Breitbart undermined Fields by running, as its lead story, a poorly evidenced theory that Fields and Terris had misidentified Lewandowski.",
       "anchored_artifacts": [
@@ -2693,8 +2693,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6944",
-      "ref": "C-6944",
+      "@id": "C-4680",
+      "ref": "C-4680",
       "label": "Host Says Shapiro Promoted the Daily Wire the Very Next Day and It Worked",
       "claim": "The host says that the day after his resignation Shapiro promoted the Daily Wire and that people left Breitbart News to follow the Daily Wire.",
       "anchored_artifacts": [
@@ -2716,8 +2716,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6945",
-      "ref": "C-6945",
+      "@id": "C-4681",
+      "ref": "C-4681",
       "label": "Host Says Shapiro Had Quietly Built the Daily Wire Since Late 2015 Without Traction",
       "claim": "The host, relaying what Breitbart executives told her, says Shapiro had begun quietly building the Daily Wire at the end of 2015 but lacked traction, so a scandal was needed.",
       "anchored_artifacts": [],
@@ -2737,8 +2737,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6946",
-      "ref": "C-6946",
+      "@id": "C-4682",
+      "ref": "C-4682",
       "label": "Host Says Shapiro and Jamie Weinstein Decided to Cook Up a Scandal",
       "claim": "The host says, relaying Breitbart executives, that Shapiro and his best friend Jamie Weinstein decided to cook up a scandal around the Fields story to help the Daily Wire.",
       "anchored_artifacts": [],
@@ -2759,8 +2759,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6947",
-      "ref": "C-6947",
+      "@id": "C-4683",
+      "ref": "C-4683",
       "label": "Host Says Jamie Weinstein Is Michelle Fields's Husband",
       "claim": "The host says it was told to her that Jamie Weinstein is Michelle Fields's husband.",
       "anchored_artifacts": [],
@@ -2780,8 +2780,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6948",
-      "ref": "C-6948",
+      "@id": "C-4684",
+      "ref": "C-4684",
       "label": "Host Says Fields's Bruises Were Later Shown Not to Match Where Lewandowski Touched Her",
       "claim": "The host says it was later proved, when the tape was released, that Fields's bruises were not where Lewandowski touched her, and that Breitbart never recovered from the scandal.",
       "anchored_artifacts": [],
@@ -2801,8 +2801,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6949",
-      "ref": "C-6949",
+      "@id": "C-4685",
+      "ref": "C-4685",
       "label": "Host Says Neocons Are Staging a Hostile Takeover of Charlie's Legacy",
       "claim": "The host says that, as with Breitbart, neocons are staging a hostile takeover of the dead Charlie Kirk's legacy and brand at Turning Point USA.",
       "anchored_artifacts": [],
@@ -2822,8 +2822,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6950",
-      "ref": "C-6950",
+      "@id": "C-4686",
+      "ref": "C-4686",
       "label": "Host Says Shapiro Used His Contact List to Have Donors Pressure Charlie",
       "claim": "The host says Shapiro blackballed her through his contact list, having donors put pressure on Charlie Kirk.",
       "anchored_artifacts": [],
@@ -2837,7 +2837,7 @@
       "investigative_direction": "Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds.",
       "transcript_snippet": "the very person who blackalled me through his contact list having donors put pressure on Charlie Kirk because that's how he moves.",
       "supports_claim_refs": [
-        "C-5384"
+        "C-4400"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2847,8 +2847,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6951",
-      "ref": "C-6951",
+      "@id": "C-4687",
+      "ref": "C-4687",
       "label": "Host Says Shapiro Also Went After Horowitz's Freedom Center, Her and the Babylon Bee",
       "claim": "The host says Shapiro's takeover pattern also covered David Horowitz's Freedom Center, the host's own business and the Babylon Bee.",
       "anchored_artifacts": [],
@@ -2862,7 +2862,7 @@
       "investigative_direction": "Ask Horowitz Freedom Center and Babylon Bee principals about any takeover attempts.",
       "transcript_snippet": "He is telling you the truth about what happened with David Har, which is Freedom Center, me, the Babylon B.",
       "supports_claim_refs": [
-        "C-2020"
+        "C-4663"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2872,8 +2872,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6952",
-      "ref": "C-6952",
+      "@id": "C-4688",
+      "ref": "C-4688",
       "label": "Kanye Told the Host He Felt Finally Free After Burning Everything Down",
       "claim": "The host says Kanye West, after he burned everything to the ground, told her he felt like he was finally free, which she compares to leaving a gang.",
       "anchored_artifacts": [],
@@ -2893,8 +2893,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6953",
-      "ref": "C-6953",
+      "@id": "C-4689",
+      "ref": "C-4689",
       "label": "Host Describes Her Former Employer Pursuing Her in Court and Contacting Donors",
       "claim": "The host says an employer should not stalk someone for two years after they quit, following them, chasing them in the courtroom, trying to bankrupt them, calling people, reaching out to donors and interfering with sponsorships.",
       "anchored_artifacts": [],
@@ -2909,7 +2909,7 @@
       "investigative_direction": "Document specific contacts to sponsors and donors with names, dates and the docket of each proceeding.",
       "transcript_snippet": "They shouldn't be following you, uh chasing you in the courtroom from every infraction, trying to bankrupt you, calling people, uh reaching out to donors, uh trying to stop business relationships getting in the way of sponsorships.",
       "supports_claim_refs": [
-        "C-5374"
+        "C-4389"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2917,8 +2917,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6954",
-      "ref": "C-6954",
+      "@id": "C-4690",
+      "ref": "C-4690",
       "label": "Host Says Mafia-Like Groups Try to Break People With Psychiatric Holds and Drugs",
       "claim": "The host says the people organised like a mafia against her aim to emotionally break victims, put them on a psychiatric hold like Britney Spears, get them on drugs and threaten to take their children.",
       "anchored_artifacts": [],
@@ -2937,8 +2937,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6955",
-      "ref": "C-6955",
+      "@id": "C-4691",
+      "ref": "C-4691",
       "label": "Host Says Kanye's Deathcon 3 Tweet Cost Her Many Millions",
       "claim": "The host says Kanye West's Death Con 3 tweet cost her many millions of dollars.",
       "anchored_artifacts": [],
@@ -2958,8 +2958,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6956",
-      "ref": "C-6956",
+      "@id": "C-4692",
+      "ref": "C-4692",
       "label": "Host Says She Did Not Retweet or Like Kanye's Tweet",
       "claim": "The host says she was not with Kanye when he tweeted, did not retweet it and did not like it.",
       "anchored_artifacts": [],
@@ -2979,8 +2979,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6957",
-      "ref": "C-6957",
+      "@id": "C-4693",
+      "ref": "C-4693",
       "label": "Host Says She Was Peer and Employer Pressured to Condemn Kanye",
       "claim": "The host says she was peer and employer pressured to put out a statement against Kanye West and was brought into a conference room after she had just signed a larger multi-year deal with the Daily Wire.",
       "anchored_artifacts": [],
@@ -3001,8 +3001,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6958",
-      "ref": "C-6958",
+      "@id": "C-4694",
+      "ref": "C-4694",
       "label": "Host Says Kanye Lost Adidas and Gap Contracts",
       "claim": "The host says Kanye West lost his Adidas and Gap contracts after the tweet.",
       "anchored_artifacts": [],
@@ -3021,8 +3021,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6959",
-      "ref": "C-6959",
+      "@id": "C-4695",
+      "ref": "C-4695",
       "label": "Host Says She Refused to Condemn Kanye and Was Yelled At",
       "claim": "The host says she refused to condemn Kanye West because she was not there and he is her friend, and that voices were raised at her in the conference room.",
       "anchored_artifacts": [],
@@ -3043,8 +3043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6960",
-      "ref": "C-6960",
+      "@id": "C-4696",
+      "ref": "C-4696",
       "label": "Host Says Her Contract Was Changed to Pay Less After She Refused",
       "claim": "The host says that after she refused to condemn Kanye the Daily Wire said they would change the contract so she would be paid less than the original years, and she accepted losing the money.",
       "anchored_artifacts": [],
@@ -3065,8 +3065,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6961",
-      "ref": "C-6961",
+      "@id": "C-4697",
+      "ref": "C-4697",
       "label": "Host Says the Strategy Mocks Her for Dreaming Charlie Was Betrayed",
       "claim": "The host says the Daily Wire strategy seems to be mocking her for having a dream that Charlie Kirk was betrayed.",
       "anchored_artifacts": [],
@@ -3081,7 +3081,7 @@
       "investigative_direction": "Compare the show's content with the host's dream account to see what is being mocked.",
       "transcript_snippet": "this whole strategy seems to be mocking me for having a dream that Charlie was betrayed.",
       "supports_claim_refs": [
-        "C-5087"
+        "C-3534"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3090,8 +3090,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6962",
-      "ref": "C-6962",
+      "@id": "C-4698",
+      "ref": "C-4698",
       "label": "Host Says She Has Many Messages With Charlie About His Vivid Dreams",
       "claim": "The host says she has many messages with Charlie Kirk about his dreams, that he believed them, and that he had such dreams since he was a kid.",
       "anchored_artifacts": [
@@ -3113,8 +3113,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6963",
-      "ref": "C-6963",
+      "@id": "C-4699",
+      "ref": "C-4699",
       "label": "Host Says She Consulted a Priest After Rereading Charlie's Messages",
       "claim": "The host says she consulted a priest because she felt she needed spiritual guidance after rereading messages in which Charlie was convinced he would die young.",
       "anchored_artifacts": [
@@ -3136,8 +3136,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6964",
-      "ref": "C-6964",
+      "@id": "C-4700",
+      "ref": "C-4700",
       "label": "Host Says Charlie Repeatedly Said He Would Die Young and TPUSA Would Be Involved",
       "claim": "The host says Charlie Kirk repeatedly told her in messages that he would die young and that Turning Point was going to be involved.",
       "anchored_artifacts": [
@@ -3154,7 +3154,7 @@
       "investigative_direction": "Obtain the messages showing Kirk linking his expected death to Turning Point.",
       "transcript_snippet": "just telling me that repeatedly he was going to die young and that Turning Point was going to be involved as I showed you.",
       "supports_claim_refs": [
-        "C-2023"
+        "C-4702"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3163,8 +3163,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6965",
-      "ref": "C-6965",
+      "@id": "C-4701",
+      "ref": "C-4701",
       "label": "Host Says Charlie Texted That He Was Not Allowed Anywhere Without Security",
       "claim": "The host says she found a message in which Charlie Kirk wrote that he was not allowed to go anywhere without security, at a time when Turning Point was in its infancy and lacked big money, and she links this in retrospect to security, which Dan Flood and Brian Harpole came out of.",
       "anchored_artifacts": [
@@ -3188,8 +3188,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6966",
-      "ref": "C-6966",
+      "@id": "C-4703",
+      "ref": "C-4703",
       "label": "Host Dates the Oracle Conversation to Early 2018 Before the Kanye Tweet",
       "claim": "The host says Charlie's older Jewish contact from Chicago, whom Charlie called like the oracle, all but confirmed his death premonition, saying his death would save humanity, in early 2018 before the Kanye tweet.",
       "anchored_artifacts": [
@@ -3206,7 +3206,7 @@
       "investigative_direction": "Obtain the texts from early 2018 and any identification of the older man.",
       "transcript_snippet": "This was in 2018, early 2018. Okay.",
       "supports_claim_refs": [
-        "C-2023"
+        "C-4702"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3216,8 +3216,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6967",
-      "ref": "C-6967",
+      "@id": "C-4704",
+      "ref": "C-4704",
       "label": "Host Says Charlie Felt Like a Time Traveler Who Had to Find Her",
       "claim": "The host says Charlie told the older man he felt like a time traveler who had to come back and find her for some reason, and the man explained that we are all prisms of light, some meant to refract, and that Charlie and she were refracting.",
       "anchored_artifacts": [
@@ -3240,8 +3240,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6968",
-      "ref": "C-6968",
+      "@id": "C-4705",
+      "ref": "C-4705",
       "label": "Text Message Reads: He Won't Tell You What He Saw, Just That I'm There and It's Bad",
       "claim": "In the text read by the host, Charlie wrote that the older man will not tell what he saw and has not told Charlie intentionally, just that Charlie is there and it is bad.",
       "anchored_artifacts": [
@@ -3257,7 +3257,7 @@
       "investigative_direction": "Obtain the original text thread and date.",
       "transcript_snippet": "He won't tell you what he saw. He hasn't told me intentionally, just that I'm there and it's bad.",
       "supports_claim_refs": [
-        "C-2023"
+        "C-4702"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3266,8 +3266,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6969",
-      "ref": "C-6969",
+      "@id": "C-4706",
+      "ref": "C-4706",
       "label": "Host Says Charlie Was Betrayed by People Closest to Him",
       "claim": "The host says she feels as strongly about her dream that Charlie was betrayed by people closest to him as Charlie did about believing he would die; she calls it a knowing, not a dream, \"like a prophecy\".",
       "anchored_artifacts": [],
@@ -3281,7 +3281,7 @@
       "investigative_direction": "The host offers no specific betrayal here; identify any documentary evidence that the people closest to Kirk acted against him.",
       "transcript_snippet": "I feel as strongly about the dream that I had that Charlie was betrayed by people closest to him.",
       "supports_claim_refs": [
-        "C-5087"
+        "C-3534"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3290,8 +3290,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6970",
-      "ref": "C-6970",
+      "@id": "C-4707",
+      "ref": "C-4707",
       "label": "Host Says One Person Told Her on Record That Bowyer Offered Jobs for Favors",
       "claim": "The host says one person told her on record that Tyler Bowyer would offer people a job at Turning Point USA if they did something for him, and that the person says he was offered a job by Bowyer; she adds the word allegedly.",
       "anchored_artifacts": [],
@@ -3312,8 +3312,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6971",
-      "ref": "C-6971",
+      "@id": "C-4709",
+      "ref": "C-4709",
       "label": "Article Says Austin Smith Dropped His 2024 Re-election Bid and Resigned",
       "claim": "The article as read says Austin Smith represented an Arizona House district in the Phoenix suburbs for one term, dropped his re-election bid in 2024 when questions arose about nominating petition signatures, and resigned then.",
       "anchored_artifacts": [
@@ -3334,8 +3334,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6972",
-      "ref": "C-6972",
+      "@id": "C-4711",
+      "ref": "C-4711",
       "label": "Article Says Turning Point Action Is the Campaign Arm of TPUSA",
       "claim": "The article as read describes Turning Point Action as the campaign arm of Turning Point USA, which has become a major force in Arizona Republican politics, and the host says the fraud happened while Smith was at Turning Point Action.",
       "anchored_artifacts": [
@@ -3358,8 +3358,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6973",
-      "ref": "C-6973",
+      "@id": "C-4712",
+      "ref": "C-4712",
       "label": "Host Says an Early Tip Said Money Was Missing From Turning Point Action",
       "claim": "The host says one of the early tips from someone inside Turning Point USA was that a lot of money was missing from Turning Point Action, that she is working to confirm it and has another strong lead.",
       "anchored_artifacts": [],
@@ -3380,8 +3380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6974",
-      "ref": "C-6974",
+      "@id": "C-4713",
+      "ref": "C-4713",
       "label": "Host Says Charlie Was Establishing a DOGE at TPUSA",
       "claim": "The host says that Charlie Kirk was establishing a DOGE, tying it to the missing-money tip.",
       "anchored_artifacts": [],
@@ -3396,7 +3396,7 @@
       "investigative_direction": "Obtain the September 2025 internal memo and DOGE records.",
       "transcript_snippet": "And we know Charlie was establishing this Doge.",
       "supports_claim_refs": [
-        "C-5092"
+        "C-3541"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -3404,8 +3404,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6975",
-      "ref": "C-6975",
+      "@id": "C-4714",
+      "ref": "C-4714",
       "label": "Host Says Charlie Found Something Out About His Organization Shortly Before Death",
       "claim": "The host says she thinks Charlie Kirk found something out about his organization very shortly before he died and that each day brings her closer to knowing what it was.",
       "anchored_artifacts": [],
@@ -3419,7 +3419,7 @@
       "investigative_direction": "Identify what Kirk learned in the days before September 10, 2025, via staff accounts and his communications.",
       "transcript_snippet": "I think Charlie found something out about his organization very shortly before he died.",
       "supports_claim_refs": [
-        "C-5093"
+        "C-3542"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3428,8 +3428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6976",
-      "ref": "C-6976",
+      "@id": "C-4715",
+      "ref": "C-4715",
       "label": "Host Shows Maggie Wegner's Instagram Handle",
       "claim": "The host shows Maggie Wegner's Instagram page, gives the handle as maggswegner and encourages viewers to follow it.",
       "anchored_artifacts": [
@@ -3451,8 +3451,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6977",
-      "ref": "C-6977",
+      "@id": "C-4716",
+      "ref": "C-4716",
       "label": "French Channel Comment Reports Cattle Culling for Lumpy Skin Disease",
       "claim": "The comment as read says France is culling cattle herds, called cattle depopulation, supposedly to eliminate lumpy skin disease, which affects cattle but is not dangerous to humans, and the writer likens it to sacrifices.",
       "anchored_artifacts": [
@@ -3470,8 +3470,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6978",
-      "ref": "C-6978",
+      "@id": "C-4717",
+      "ref": "C-4717",
       "label": "Host Says Similar Cattle Actions Are Aimed at Taking Farmland",
       "claim": "The host says similar things are happening in the United States and that they want all the farmland, which is why farmers and ranchers are fighting the government.",
       "anchored_artifacts": [
@@ -3492,8 +3492,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6979",
-      "ref": "C-6979",
+      "@id": "C-4718",
+      "ref": "C-4718",
       "label": "Host Says Poisoned Chicken Feed Story Was Big Pharma, Maybe Purdue",
       "claim": "The host says a story years ago about poisoned chicken feed that stopped hens laying involved a company she thinks may be Purdue, and that big pharma controls what the chickens eat.",
       "anchored_artifacts": [
@@ -3514,8 +3514,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6980",
-      "ref": "C-6980",
+      "@id": "C-4719",
+      "ref": "C-4719",
       "label": "Host Says Macron Is Suing People Over Crimes She Alleges From Before Transition",
       "claim": "The host says Macron is suing people for knowing the truth about crimes that she committed when she was a man, and calls it dystopian.",
       "anchored_artifacts": [],
@@ -3536,8 +3536,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6981",
-      "ref": "C-6981",
+      "@id": "C-4720",
+      "ref": "C-4720",
       "label": "Host Says Child Sex Trafficking Keeps Coming Up in the Kirk Story",
       "claim": "The host says, responding to a top English comment, that the story has way too much child sex trafficking in it and that everyone is involved with the charity.",
       "anchored_artifacts": [
@@ -3557,8 +3557,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6982",
-      "ref": "C-6982",
+      "@id": "C-4723",
+      "ref": "C-4723",
       "label": "Host Says Viewer Tips Are Solving the Mystery of September 10",
       "claim": "The host says viewers' tips from all over the world, which she calls decentralizing intelligence, are what is solving the mystery of what happened to Charlie Kirk on September 10th.",
       "anchored_artifacts": [
@@ -3572,7 +3572,7 @@
       "investigative_direction": "Catalogue which tips have been independently verified and which findings came from them.",
       "transcript_snippet": "is what is solving the mystery of what happened to Charlie Kirk on September 10th.",
       "supports_claim_refs": [
-        "C-3655"
+        "C-4721"
       ],
       "mentions_person_refs": [
         "N-3",

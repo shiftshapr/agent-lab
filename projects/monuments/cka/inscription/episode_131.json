@@ -27,13 +27,13 @@
           "ref": "A-2180.1",
           "description": "November 15, 2023 Thread – Daily Wire / Christ is King Pressure Campaign",
           "related_claims": [
-            "C-3117",
-            "C-3118",
-            "C-3119",
-            "C-3120",
-            "C-3121",
-            "C-3122",
-            "C-3123"
+            "C-11273",
+            "C-11274",
+            "C-11275",
+            "C-11276",
+            "C-11277",
+            "C-11281",
+            "C-11279"
           ],
           "related_nodes": [
             "N-1",
@@ -53,7 +53,7 @@
           "ref": "A-2180.2",
           "description": "Older Charlie Kirk Text – \"The War Is On / Snakes in the Garden\"",
           "related_claims": [
-            "C-3124"
+            "C-11288"
           ],
           "related_nodes": [
             "N-1",
@@ -80,8 +80,8 @@
           "ref": "A-2181.1",
           "description": "Ben Shapiro Statement on Security Contact and Breakfast/Lunch Meeting (9/10)",
           "related_claims": [
-            "C-3125",
-            "C-3126"
+            "C-11295",
+            "C-11296"
           ],
           "related_nodes": [
             "N-97",
@@ -108,7 +108,7 @@
           "ref": "A-2182.1",
           "description": "Steve Bannon at AmFest – \"Ben Shapiro Is Like a Cancer\"",
           "related_claims": [
-            "C-3127"
+            "C-11262"
           ],
           "related_nodes": [],
           "tags": [],
@@ -132,7 +132,7 @@
           "ref": "A-2183.1",
           "description": "Tracy Martin on Paramount Tactical – Denial of Daily Mail Source",
           "related_claims": [
-            "C-3128"
+            "C-11322"
           ],
           "related_nodes": [
             "N-2"
@@ -158,10 +158,10 @@
           "ref": "A-2184.1",
           "description": "Rob O'Neill on Newsmax – Screwdriver, Bullet Trajectory, and Text-Message Analysis",
           "related_claims": [
-            "C-3129",
-            "C-3130",
-            "C-3131",
-            "C-3132"
+            "C-11328",
+            "C-11329",
+            "C-11330",
+            "C-11331"
           ],
           "related_nodes": [
             "N-1"
@@ -187,7 +187,7 @@
           "ref": "A-2185.1",
           "description": "Allison Holker Interview – Discovery of Hidden Substances After Husband's Death",
           "related_claims": [
-            "C-3133"
+            "C-11338"
           ],
           "related_nodes": [],
           "tags": [],
@@ -211,8 +211,8 @@
           "ref": "A-2186.1",
           "description": "Twitch Family Interview – NDA Requirement to Attend Memorial",
           "related_claims": [
-            "C-3134",
-            "C-3135"
+            "C-11341",
+            "C-11343"
           ],
           "related_nodes": [],
           "tags": [],
@@ -236,8 +236,8 @@
           "ref": "A-2188.1",
           "description": "Viewer Comment Asserting Parallels Between Twitch/Allison and Charlie/Erica Cases",
           "related_claims": [
-            "C-3136",
-            "C-3137"
+            "C-11334",
+            "C-11335"
           ],
           "related_nodes": [
             "N-1",
@@ -264,7 +264,7 @@
           "ref": "A-2490.1",
           "description": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
           "related_claims": [
-            "C-3664"
+            "C-11353"
           ],
           "related_nodes": [
             "N-3"
@@ -286,9 +286,9 @@
           "@type": "Artifact",
           "@id": "A-2524.1",
           "ref": "A-2524.1",
-          "description": "Host's on-air report that the lunch bounty (C-3764) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)",
+          "description": "Host's on-air report that the lunch bounty (C-10678) was answered: a tip, which she says was verified, that Ben Shapiro was with a man she names as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified) and an unidentified woman when Charlie Kirk was shot (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3767"
+            "C-11298"
           ],
           "related_nodes": [
             "N-3",
@@ -308,7 +308,7 @@
           "ref": "A-2524.2",
           "description": "Host reads from the alleged companion's professional biography: National Council of AIPAC, president of the Nebraska chapter of AIPAC, twin brother on the AIPAC board, and Ben Shapiro's donations to the Jewish Federation of Omaha (verbal reference; biography not displayed)",
           "related_claims": [
-            "C-3768"
+            "C-11310"
           ],
           "related_nodes": [
             "N-3",
@@ -328,7 +328,7 @@
           "ref": "A-2524.3",
           "description": "Host's on-air $25,000 bounty for whoever can say who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, with tips to moretips@candaceowens.com (verbal reference; no displayed artifact)",
           "related_claims": [
-            "C-3769"
+            "C-11311"
           ],
           "related_nodes": [
             "N-3",
@@ -357,8 +357,8 @@
           "ref": "A-3247.1",
           "description": "Host verbal reference to a Kolvet tweet saying Candace was not friends with Charlie and Ben was (not shown)",
           "related_claims": [
-            "C-13129",
-            "C-13130"
+            "C-11266",
+            "C-11267"
           ],
           "related_nodes": [
             "N-3"
@@ -383,7 +383,7 @@
           "ref": "A-3248.1",
           "description": "Host verbal reference to her text messages with Andrew saying Ben Shapiro squeezed donors over AmFest 2024 (not shown)",
           "related_claims": [
-            "C-13142"
+            "C-11286"
           ],
           "related_nodes": [
             "N-3"
@@ -408,7 +408,7 @@
           "ref": "A-3249.1",
           "description": "Host verbal call for tips to moretips@candaceowens.com",
           "related_claims": [
-            "C-13164"
+            "C-11314"
           ],
           "related_nodes": [
             "N-3"
@@ -433,8 +433,8 @@
           "ref": "A-3250.1",
           "description": "Host verbal reference to unsolicited emails that she says present proof the Daily Mail story came from an Erika family friend (not shown)",
           "related_claims": [
-            "C-13167",
-            "C-13191"
+            "C-11317",
+            "C-11351"
           ],
           "related_nodes": [
             "N-3"
@@ -459,7 +459,7 @@
           "ref": "A-3251.1",
           "description": "Host verbal reference to her messages about Seth Dillon's pressure (not shown)",
           "related_claims": [
-            "C-13190"
+            "C-11350"
           ],
           "related_nodes": [
             "N-3"
@@ -501,30 +501,30 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13126",
-        "C-13128",
-        "C-13129",
-        "C-13130",
-        "C-13132",
-        "C-13133",
-        "C-13134",
-        "C-13136",
-        "C-13137",
-        "C-13138",
-        "C-13139",
-        "C-13140",
-        "C-13141",
-        "C-13143",
-        "C-13144",
-        "C-13145",
-        "C-13146",
-        "C-13147",
-        "C-13150",
-        "C-13153",
-        "C-13182",
-        "C-13185",
-        "C-13189",
-        "C-13190"
+        "C-11263",
+        "C-11265",
+        "C-11266",
+        "C-11267",
+        "C-11269",
+        "C-11270",
+        "C-11271",
+        "C-11278",
+        "C-11280",
+        "C-11282",
+        "C-11283",
+        "C-11284",
+        "C-11285",
+        "C-11287",
+        "C-11289",
+        "C-11290",
+        "C-11291",
+        "C-11292",
+        "C-11297",
+        "C-11301",
+        "C-11340",
+        "C-11345",
+        "C-11349",
+        "C-11350"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -542,16 +542,16 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13148",
-        "C-13167",
-        "C-13169",
-        "C-13171",
-        "C-13172",
-        "C-13173",
-        "C-13174",
-        "C-13182",
-        "C-13187",
-        "C-13191"
+        "C-11293",
+        "C-11317",
+        "C-11319",
+        "C-11321",
+        "C-11323",
+        "C-11324",
+        "C-11325",
+        "C-11340",
+        "C-11347",
+        "C-11351"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -569,46 +569,46 @@
       "description": "Victor's stepfather; pled guilty to international drug smuggling conspiracy",
       "related_artifacts": [],
       "related_claims": [
-        "C-13120",
-        "C-13121",
-        "C-13122",
-        "C-13123",
-        "C-13124",
-        "C-13125",
-        "C-13126",
-        "C-13127",
-        "C-13128",
-        "C-13129",
-        "C-13130",
-        "C-13131",
-        "C-13132",
-        "C-13133",
-        "C-13134",
-        "C-13135",
-        "C-13136",
-        "C-13137",
-        "C-13138",
-        "C-13139",
-        "C-13140",
-        "C-13141",
-        "C-13142",
-        "C-13143",
-        "C-13144",
-        "C-13145",
-        "C-13146",
-        "C-13147",
-        "C-13148",
-        "C-13149",
-        "C-13151",
-        "C-13152",
-        "C-13153",
-        "C-13154",
-        "C-13155",
-        "C-13156",
-        "C-13157",
-        "C-13158",
-        "C-13159",
-        "C-13160"
+        "C-11256",
+        "C-11257",
+        "C-11258",
+        "C-11259",
+        "C-11260",
+        "C-11261",
+        "C-11263",
+        "C-11264",
+        "C-11265",
+        "C-11266",
+        "C-11267",
+        "C-11268",
+        "C-11269",
+        "C-11270",
+        "C-11271",
+        "C-11272",
+        "C-11278",
+        "C-11280",
+        "C-11282",
+        "C-11283",
+        "C-11284",
+        "C-11285",
+        "C-11286",
+        "C-11287",
+        "C-11289",
+        "C-11290",
+        "C-11291",
+        "C-11292",
+        "C-11293",
+        "C-11294",
+        "C-11299",
+        "C-11300",
+        "C-11301",
+        "C-11302",
+        "C-11303",
+        "C-11304",
+        "C-11305",
+        "C-11306",
+        "C-11307",
+        "C-11308"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -626,24 +626,24 @@
       "description": "Atlantic: Servius manages Shapiro clipping campaign listed at $30k prior month on Monster Lab.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13124",
-        "C-13126",
-        "C-13127",
-        "C-13128",
-        "C-13129",
-        "C-13130",
-        "C-13135",
-        "C-13142",
-        "C-13145",
-        "C-13147",
-        "C-13148",
-        "C-13149",
-        "C-13150",
-        "C-13151",
-        "C-13152",
-        "C-13153",
-        "C-13162",
-        "C-13163"
+        "C-11260",
+        "C-11263",
+        "C-11264",
+        "C-11265",
+        "C-11266",
+        "C-11267",
+        "C-11272",
+        "C-11286",
+        "C-11290",
+        "C-11292",
+        "C-11293",
+        "C-11294",
+        "C-11297",
+        "C-11299",
+        "C-11300",
+        "C-11301",
+        "C-11312",
+        "C-11313"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -709,8 +709,8 @@
       "description": "Former Breitbart chairman referenced via Amfest audio clip describing Ben Shapiro's pattern of attempted hostile takeovers of conservative organizations.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13124",
-        "C-13126"
+        "C-11260",
+        "C-11263"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -728,12 +728,12 @@
       "description": "Erika Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13167",
-        "C-13168",
-        "C-13169",
-        "C-13170",
-        "C-13171",
-        "C-13191"
+        "C-11317",
+        "C-11318",
+        "C-11319",
+        "C-11320",
+        "C-11321",
+        "C-11351"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -751,10 +751,10 @@
       "description": "First named by the host at 00:43:01 in episode 131.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3133",
-        "C-3134",
-        "C-3135",
-        "C-3136"
+        "C-11338",
+        "C-11341",
+        "C-11343",
+        "C-11334"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -771,16 +771,16 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13129",
-        "C-13130",
-        "C-13131",
-        "C-13134",
-        "C-13142",
-        "C-13148",
-        "C-13165",
-        "C-13166",
-        "C-13175",
-        "C-13191"
+        "C-11266",
+        "C-11267",
+        "C-11268",
+        "C-11271",
+        "C-11286",
+        "C-11293",
+        "C-11315",
+        "C-11316",
+        "C-11326",
+        "C-11351"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -797,9 +797,9 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13127",
-        "C-13138",
-        "C-13149"
+        "C-11264",
+        "C-11282",
+        "C-11294"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -816,9 +816,9 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13140",
-        "C-13189",
-        "C-13190"
+        "C-11284",
+        "C-11349",
+        "C-11350"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -835,8 +835,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13145",
-        "C-13149"
+        "C-11290",
+        "C-11294"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -853,7 +853,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13156"
+        "C-11304"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -870,7 +870,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13143"
+        "C-11287"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -887,7 +887,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13177"
+        "C-11332"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -904,7 +904,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13173"
+        "C-11324"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -921,7 +921,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13165"
+        "C-11315"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -938,8 +938,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13124",
-        "C-13125"
+        "C-11260",
+        "C-11261"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -956,7 +956,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13131"
+        "C-11268"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -973,8 +973,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13157",
-        "C-13158"
+        "C-11305",
+        "C-11306"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -991,7 +991,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13157"
+        "C-11305"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1008,7 +1008,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13123"
+        "C-11259"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1025,10 +1025,10 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13129",
-        "C-13130",
-        "C-13132",
-        "C-13134"
+        "C-11266",
+        "C-11267",
+        "C-11269",
+        "C-11271"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1045,7 +1045,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13189"
+        "C-11349"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1062,7 +1062,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13144"
+        "C-11289"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1079,8 +1079,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13165",
-        "C-13166"
+        "C-11315",
+        "C-11316"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1097,7 +1097,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13154"
+        "C-11302"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1114,7 +1114,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13142"
+        "C-11286"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1131,7 +1131,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13154"
+        "C-11302"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1148,8 +1148,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13189",
-        "C-13190"
+        "C-11349",
+        "C-11350"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1166,7 +1166,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13127"
+        "C-11264"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1183,8 +1183,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13124",
-        "C-13128"
+        "C-11260",
+        "C-11265"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1201,7 +1201,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13161"
+        "C-11309"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1218,7 +1218,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13135"
+        "C-11272"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1235,7 +1235,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13122"
+        "C-11258"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1252,7 +1252,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13150"
+        "C-11297"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1269,7 +1269,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13192"
+        "C-11352"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1286,12 +1286,12 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13165",
-        "C-13166",
-        "C-13167",
-        "C-13174",
-        "C-13175",
-        "C-13191"
+        "C-11315",
+        "C-11316",
+        "C-11317",
+        "C-11325",
+        "C-11326",
+        "C-11351"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1308,8 +1308,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13167",
-        "C-13191"
+        "C-11317",
+        "C-11351"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1326,7 +1326,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13170"
+        "C-11320"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1343,7 +1343,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13168"
+        "C-11318"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1360,7 +1360,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13188"
+        "C-11348"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1377,7 +1377,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13125"
+        "C-11261"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1394,7 +1394,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13156"
+        "C-11304"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1411,11 +1411,11 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13155",
-        "C-13156",
-        "C-13157",
-        "C-13159",
-        "C-13160"
+        "C-11303",
+        "C-11304",
+        "C-11305",
+        "C-11307",
+        "C-11308"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1432,7 +1432,7 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13186"
+        "C-11346"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1449,8 +1449,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13157",
-        "C-13158"
+        "C-11305",
+        "C-11306"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1467,8 +1467,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13157",
-        "C-13158"
+        "C-11305",
+        "C-11306"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1485,8 +1485,8 @@
       "description": "Reused node cited by new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13182",
-        "C-13183"
+        "C-11340",
+        "C-11342"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1503,12 +1503,12 @@
       "description": "First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach in the transcript; the host's spelling is unverified). Omaha-based man the host says was allegedly with Ben Shapiro on September 10, 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13152",
-        "C-13154",
-        "C-13155",
-        "C-13159",
-        "C-13160",
-        "C-13162"
+        "C-11300",
+        "C-11302",
+        "C-11303",
+        "C-11307",
+        "C-11308",
+        "C-11312"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1525,12 +1525,12 @@
       "description": "First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whose 2022 death the host compares to the Kirk case.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13178",
-        "C-13179",
-        "C-13180",
-        "C-13181",
-        "C-13183",
-        "C-13184"
+        "C-11333",
+        "C-11336",
+        "C-11337",
+        "C-11339",
+        "C-11342",
+        "C-11344"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1547,8 +1547,8 @@
       "description": "First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discussed in the host's Twitch comparison.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13181",
-        "C-13184"
+        "C-11339",
+        "C-11344"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1565,7 +1565,7 @@
       "description": "First named by the host at 00:38:55 in episode 131. Talk show host on whose show Twitch worked.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13178"
+        "C-11333"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1582,8 +1582,8 @@
       "description": "Organization",
       "related_artifacts": [],
       "related_claims": [
-        "C-13160",
-        "C-13161"
+        "C-11308",
+        "C-11309"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1600,7 +1600,7 @@
       "description": "Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 p.m. on September 10, 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-13153"
+        "C-11301"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1612,8 +1612,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3117",
-      "ref": "C-3117",
+      "@id": "C-11273",
+      "ref": "C-11273",
       "label": "November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign",
       "claim": "Introducing a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens, dated when Ben Shapiro began his attacks on her, the host says there was a coordinated effort from inside the Daily Wire after October 7 to privately pressure and smear anyone not repeating the narrative on Israel, beginning the Christ is King scandal.",
       "anchored_artifacts": [
@@ -1631,8 +1631,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3118",
-      "ref": "C-3118",
+      "@id": "C-11274",
+      "ref": "C-11274",
       "label": "Charlie Kirk Text – \"Don't Resign Because It's What They Want\"",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing to Candace Owens: \"Don't resign because it's what they want.\"",
       "anchored_artifacts": [
@@ -1649,8 +1649,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3119",
-      "ref": "C-3119",
+      "@id": "C-11275",
+      "ref": "C-11275",
       "label": "Charlie Kirk Text – \"C-Level Hit\" Characterization",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing: \"This is a C-level hit against you because they think they can provoke you\" and \"That's why this is all coordinated.\"",
       "anchored_artifacts": [
@@ -1667,8 +1667,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3120",
-      "ref": "C-3120",
+      "@id": "C-11276",
+      "ref": "C-11276",
       "label": "Charlie Kirk Text Identifies Jeremy Boreing By Name",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing: \"Jeremy Boreing [transcript spelling], who knew exactly what Jeremy was, 100% workshopped this. This is not Ben acting alone. This is a hit.\"",
       "anchored_artifacts": [
@@ -1686,8 +1686,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3121",
-      "ref": "C-3121",
+      "@id": "C-11277",
+      "ref": "C-11277",
       "label": "Charlie Kirk Text Identifies Marissa Streit By Name",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing: \"Marissa Streit [text spelling], she's part of the tribe. Do not listen to her.\"",
       "anchored_artifacts": [
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3122",
-      "ref": "C-3122",
+      "@id": "C-11281",
+      "ref": "C-11281",
       "label": "Charlie Kirk Text – \"We Are on the Same Team. Screw These People\"",
       "claim": "The November 15, 2023 thread contains Charlie Kirk writing: \"Thank you. We are on the same team. Screw these people\" and later: \"Absolutely. We are on the same team. People are waking up and it is finally happening.\"",
       "anchored_artifacts": [
@@ -1723,8 +1723,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3123",
-      "ref": "C-3123",
+      "@id": "C-11279",
+      "ref": "C-11279",
       "label": "Text Documents Candace Owens 40-Weeks Pregnant and Charlie Kirk Flight Assistance",
       "claim": "The November 15, 2023 thread documents Candace Owens as 40 weeks pregnant and Charlie Kirk assisting her to find a last-second flight (\"Btw to the flight work out, okay?\").",
       "anchored_artifacts": [
@@ -1741,8 +1741,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3124",
-      "ref": "C-3124",
+      "@id": "C-11288",
+      "ref": "C-11288",
       "label": "Host Shows Older Charlie Kirk Text: \"The War Is On / Snakes in the Garden\"",
       "claim": "Per an older text the host shows and presents as from Charlie Kirk, dated before November 15, 2023, the message reads: \"Yep, the war is on. Snakes in the garden, they are not our friends. Time to fight.\"",
       "anchored_artifacts": [
@@ -1759,8 +1759,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3125",
-      "ref": "C-3125",
+      "@id": "C-11295",
+      "ref": "C-11295",
       "label": "Ben Shapiro States Security Was on Phone with Charlie's Security During Shooting",
       "claim": "In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie Kirk's security while Charlie was still in the back of the car; the host describes Shapiro's security as former Israeli IDF members and says this was during the critical 7 minutes while Charlie was fighting for his life.",
       "anchored_artifacts": [
@@ -1779,8 +1779,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3126",
-      "ref": "C-3126",
+      "@id": "C-11296",
+      "ref": "C-11296",
       "label": "Ben Shapiro States He Was at a \"Breakfast/Lunch\" Meeting in LA on 9/10",
       "claim": "In an audio clip played in the episode, Ben Shapiro states that at the time Charlie Kirk was shot, he was in Los Angeles at a \"sort of a breakfast/lunch meeting with somebody.\"",
       "anchored_artifacts": [
@@ -1799,8 +1799,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3127",
-      "ref": "C-3127",
+      "@id": "C-11262",
+      "ref": "C-11262",
       "label": "Steve Bannon Describes Ben Shapiro as \"A Cancer\" at AmFest",
       "claim": "In an audio clip from AmFest in December 2025, Steve Bannon states: \"Ben Shapiro is like a cancer and that cancer spreads … He tried to take over Breitbart and I ran him out of there. He tried to take over David Horowitz's who was his mentor.\"",
       "anchored_artifacts": [
@@ -1818,8 +1818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3128",
-      "ref": "C-3128",
+      "@id": "C-11322",
+      "ref": "C-11322",
       "label": "Tracy Martin Denies Being Daily Mail Source on Paramount Tactical",
       "claim": "In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: \"Absolutely not. No, absolutely not\" in response to a question about whether she was the person the Daily Mail contacted and provided information from.",
       "anchored_artifacts": [
@@ -1835,8 +1835,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3129",
-      "ref": "C-3129",
+      "@id": "C-11328",
+      "ref": "C-11328",
       "label": "Rob O'Neill States Screwdriver on Rooftop Inconsistent with Theory",
       "claim": "In a Newsmax audio clip, Rob O'Neill states that the screwdriver left on the rooftop \"probably wouldn't have worked to take it apart or put it together in the first place,\" and questions how the suspect \"jumped off the roof and put it back together without the screwdriver.\"",
       "anchored_artifacts": [
@@ -1852,8 +1852,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3130",
-      "ref": "C-3130",
+      "@id": "C-11329",
+      "ref": "C-11329",
       "label": "Rob O'Neill States 30-06 Bullet Damage Should Be Greater Than Observed",
       "claim": "In a Newsmax audio clip, Rob O'Neill states that a 30-06 round \"would do a lot more than that\" against a human spine based on his ballistic gel experience.",
       "anchored_artifacts": [
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3131",
-      "ref": "C-3131",
+      "@id": "C-11330",
+      "ref": "C-11330",
       "label": "Rob O'Neill States Bullet Trajectory Was Left-to-Right, Not Front-to-Back",
       "claim": "In a Newsmax audio clip, Rob O'Neill states the shot \"went left to right, not from front to back,\" and asserts an exit wound on Charlie Kirk's left-hand side.",
       "anchored_artifacts": [
@@ -1887,8 +1887,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3132",
-      "ref": "C-3132",
+      "@id": "C-11331",
+      "ref": "C-11331",
       "label": "Rob O'Neill States Text Messages Looked Like \"English Was a Second Language\"",
       "claim": "In a Newsmax audio clip, Rob O'Neill characterizes the suspect's post-shooting text messages as appearing \"like English was a second language,\" noting the suspect \"started texting someone like English was a second language.\"",
       "anchored_artifacts": [
@@ -1904,8 +1904,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3133",
-      "ref": "C-3133",
+      "@id": "C-11338",
+      "ref": "C-11338",
       "label": "Allison Holker Claims Discovery of Hidden Substances After Husband's Death",
       "claim": "In an audio clip played in the episode, Allison Holker says that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things\" in the closet \"that I did not know existed\"; the host says she reportedly found substances hidden in his shoe boxes, even though the autopsy found no drugs or alcohol in his system.",
       "anchored_artifacts": [
@@ -1922,8 +1922,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3134",
-      "ref": "C-3134",
+      "@id": "C-11341",
+      "ref": "C-11341",
       "label": "Twitch Family Claims They Were Asked to Sign NDAs to Attend Memorial",
       "claim": "In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating \"We need you guys to sign non-disclosure agreements\" in order to attend his funeral.",
       "anchored_artifacts": [
@@ -1940,8 +1940,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3135",
-      "ref": "C-3135",
+      "@id": "C-11343",
+      "ref": "C-11343",
       "label": "Twitch Family States They Could Not See Him or Participate Without NDA",
       "claim": "In a CBS / Gayle King audio clip, Twitch's family members state: \"If you don't sign, you will not be able to see him and you will not be able to participate.\"",
       "anchored_artifacts": [
@@ -1958,8 +1958,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3136",
-      "ref": "C-3136",
+      "@id": "C-11334",
+      "ref": "C-11334",
       "label": "YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erika Cases",
       "claim": "A YouTube comment the host reads, which she says she saw the day before, lists similarities with the Twitch / Allison Holker case, including: \"Mormon wife who chased him at dancing events until he marries her,\" \"The family iced out,\" \"Mysterious death,\" \"His family asked to sign an NDA to attend the memorial,\" and \"The wife back at work and in business mode a few days later making deals and publishing books.\"",
       "anchored_artifacts": [
@@ -1978,8 +1978,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3137",
-      "ref": "C-3137",
+      "@id": "C-11335",
+      "ref": "C-11335",
       "label": "YouTube Comment States Allison Holker Grew Up in Orem, Utah; Graduated Timpanogos High School 2006",
       "claim": "A YouTube comment the host reads, which she says she saw the day before, states that Allison Holker \"grew up in Orem, Utah, and graduated from Timpanogos High School in 2006.\"",
       "anchored_artifacts": [
@@ -1995,8 +1995,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3664",
-      "ref": "C-3664",
+      "@id": "C-11353",
+      "ref": "C-11353",
       "label": "Host Plugs CIA Hats Merch",
       "claim": "The host plugs the \"CIA hats\" merch, calling them essential.",
       "anchored_artifacts": [
@@ -2014,10 +2014,10 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3767",
-      "ref": "C-3767",
+      "@id": "C-11298",
+      "ref": "C-11298",
       "label": "Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot",
-      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
+      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-10678) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
       "anchored_artifacts": [
         "A-2524.1"
       ],
@@ -2031,10 +2031,10 @@
       "confidence": "low",
       "uncertainty_note": "Single anonymous tip as relayed by the host; the host says \"allegedly\" and could not confirm the meal itself. The named companion has no person node (person band full, awaiting Daveed).",
       "supports_claim_refs": [
-        "C-3764"
+        "C-10678"
       ],
       "qualifies_claim_refs": [
-        "C-3126"
+        "C-11296"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2045,8 +2045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3768",
-      "ref": "C-3768",
+      "@id": "C-11310",
+      "ref": "C-11310",
       "label": "Host says the alleged companion led AIPAC's Nebraska chapter and that Ben Shapiro donates to the Jewish Federation of Omaha",
       "claim": "Reading from what she calls his professional biography, the host says the alleged companion served on the National Council of AIPAC, was president of the Nebraska chapter of AIPAC, and has a twin brother on the AIPAC board. She adds that Ben Shapiro and his wife have donated a \"life and legacy\" amount to the Jewish Federation of Omaha for years, an organization where the companion is a host and donor.",
       "anchored_artifacts": [
@@ -2069,8 +2069,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3769",
-      "ref": "C-3769",
+      "@id": "C-11311",
+      "ref": "C-11311",
       "label": "Host offers a $25,000 bounty for who in Charlie Kirk's car was speaking to Ben Shapiro's security team",
       "claim": "The host announces a second bounty of $25,000 for anyone who can tell her who in Charlie Kirk's car was speaking to whom on Ben Shapiro's security team, promises to protect the source's identity, and directs tips to moretips@candaceowens.com.",
       "anchored_artifacts": [
@@ -2081,7 +2081,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:05",
-      "investigative_direction": "Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-3125).",
+      "investigative_direction": "Track tip-line submissions; match any named occupant of the SUV against the transport timeline and Ben Shapiro's own account (C-11295).",
       "transcript_snippet": "But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.",
       "confidence": "high",
       "mentions_person_refs": [
@@ -2092,8 +2092,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13120",
-      "ref": "C-13120",
+      "@id": "C-11256",
+      "ref": "C-11256",
       "label": "Host Says Toxoplasma Gondii Can Make Humans Believe They Love Their Cats",
       "claim": "The host says overexposure to the cat parasite toxoplasmosis (T. gondii) can convince humans that they are in love with their cats, to the point that some want to quit their jobs and stay home with the animals.",
       "anchored_artifacts": [],
@@ -2110,8 +2110,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13121",
-      "ref": "C-13121",
+      "@id": "C-11257",
+      "ref": "C-11257",
       "label": "Host Says Tongue-Snatching Isopods Replace a Fish's Tongue",
       "claim": "The host says parasites called tongue-snatching isopods enter a fish through its gills, attach to the base of the tongue, and replace the tongue entirely.",
       "anchored_artifacts": [],
@@ -2128,8 +2128,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13122",
-      "ref": "C-13122",
+      "@id": "C-11258",
+      "ref": "C-11258",
       "label": "Host Says Canaanites Were Baal Worshipers Modeling Themselves After Nimrod",
       "claim": "The host says she showed the previous day that the Canaanites were literal Baal worshipers who modeled themselves after Nimrod and are permanently at war with the creator.",
       "anchored_artifacts": [],
@@ -2148,8 +2148,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13123",
-      "ref": "C-13123",
+      "@id": "C-11259",
+      "ref": "C-11259",
       "label": "Host Says Justin Bieber Broke Free From Contracts That Were Costing Him His Soul",
       "claim": "The host says Justin Bieber has simplified his life after breaking free from contracts that were costing him his soul, and that he finally looks like he has his creative spark back.",
       "anchored_artifacts": [],
@@ -2167,8 +2167,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13124",
-      "ref": "C-13124",
+      "@id": "C-11260",
+      "ref": "C-11260",
       "label": "Host Says Ben Shapiro Tried to Take Over Breitbart After Andrew Breitbart Died",
       "claim": "The host says Steve Bannon explained that after Andrew Breitbart died, Ben Shapiro attempted to take over Breitbart's company and, when that failed, plotted to take down the company.",
       "anchored_artifacts": [],
@@ -2182,7 +2182,7 @@
       "investigative_direction": "Compare with Shapiro's March 2016 departure from Breitbart News and contemporaneous accounts by Bannon and Breitbart executives.",
       "transcript_snippet": "Ben attempted to take over Andrew's company. And when that failed he plotted to take down the company",
       "supports_claim_refs": [
-        "C-2020"
+        "C-4663"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2193,8 +2193,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13125",
-      "ref": "C-13125",
+      "@id": "C-11261",
+      "ref": "C-11261",
       "label": "Host Says Andrew Breitbart Died Young Under Very Suspicious Circumstances",
       "claim": "The host says Andrew Breitbart died young and under very suspicious circumstances.",
       "anchored_artifacts": [],
@@ -2208,7 +2208,7 @@
       "investigative_direction": "Obtain the Los Angeles County coroner's report on Breitbart's March 2012 death.",
       "transcript_snippet": "after Andrew Breitbart died I should mention young and under very suspicious circumstances",
       "supports_claim_refs": [
-        "C-6934"
+        "C-4668"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2217,8 +2217,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13126",
-      "ref": "C-13126",
+      "@id": "C-11263",
+      "ref": "C-11263",
       "label": "Bannon Clip Says Shapiro Will Make a Move on Turning Point Out of Envy of Charlie",
       "claim": "In the AmFest clip, Steve Bannon says that Ben Shapiro will make a move on Turning Point because he has always been envious of Charlie Kirk. The host says she has marked those words.",
       "anchored_artifacts": [
@@ -2232,7 +2232,7 @@
       "investigative_direction": "Obtain the full AmFest December 2025 recording of Bannon's remarks and check whether the sentence is in the original audio.",
       "transcript_snippet": "mark my word, he will make a move on Turning Point because he's always been envious of Charlie Kirk.",
       "supports_claim_refs": [
-        "C-6931"
+        "C-4665"
       ],
       "mentions_person_refs": [
         "N-389",
@@ -2243,8 +2243,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13127",
-      "ref": "C-13127",
+      "@id": "C-11264",
+      "ref": "C-11264",
       "label": "Host Says Daily Wire Executives Were Fixated on Tucker Carlson",
       "claim": "The host says that when she worked at The Daily Wire the executives were bizarrely focused on Tucker Carlson, as if in competition, while Tucker never spoke about Ben.",
       "anchored_artifacts": [],
@@ -2265,8 +2265,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13128",
-      "ref": "C-13128",
+      "@id": "C-11265",
+      "ref": "C-11265",
       "label": "Host Says Charlie Looked Up to Ben Until Ben Became Envious in 2018",
       "claim": "The host says Charlie Kirk first looked up to Ben Shapiro, and that in 2018, once Ben became envious, the relationship switched and Ben began making trouble for Charlie behind the scenes.",
       "anchored_artifacts": [],
@@ -2287,8 +2287,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13129",
-      "ref": "C-13129",
+      "@id": "C-11266",
+      "ref": "C-11266",
       "label": "Host Says Kolvet Pretends Charlie and She Were Never Friends and Claims Charlie and Ben Were Friends",
       "claim": "The host says Andrew Kolvet is attempting to pretend that Charlie Kirk and the host were never friends and had an imaginary falling out, and is inverting reality by claiming Charlie and Ben Shapiro were friends.",
       "anchored_artifacts": [
@@ -2304,7 +2304,7 @@
       "investigative_direction": "Collect Kolvet's public statements on the Kirk and Owens friendship and set them against the messages the host reads in this episode.",
       "transcript_snippet": "his attempt to pretend that Charlie and me were never friends that Charlie and me had some imaginary falling out",
       "supports_claim_refs": [
-        "C-5972"
+        "C-11213"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2315,8 +2315,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13130",
-      "ref": "C-13130",
+      "@id": "C-11267",
+      "ref": "C-11267",
       "label": "Kolvet Tweet Says Candace Was Not Friends With Charlie and Ben Was",
       "claim": "The host says she watched Kolvet tweet the narrative that Candace was not friends with Charlie and that Ben was, and says that Charlie was the single person who gave her the most emotional support when the attacks began at the end of 2023.",
       "anchored_artifacts": [
@@ -2340,8 +2340,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13131",
-      "ref": "C-13131",
+      "@id": "C-11268",
+      "ref": "C-11268",
       "label": "Host Says She Showed Carrie Prejean Boller the Messages in Spain",
       "claim": "The host says she was sitting in Spain next to Carrie Prejean Boller, showing her the messages, when they were watching Kolvet tweet the friendship narrative, and that Prejean Boller's jaw was on the floor.",
       "anchored_artifacts": [],
@@ -2360,8 +2360,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13132",
-      "ref": "C-13132",
+      "@id": "C-11269",
+      "ref": "C-11269",
       "label": "Host Says Charlie Gave Her the Most Emotional Support During the Christ Is King Attacks",
       "claim": "The host says Charlie Kirk gave her more emotional support than anyone when the Zionist attacks began in earnest at the end of 2023, over the Christ is King scandal and her firing, kept her clear-minded and told her how to react.",
       "anchored_artifacts": [
@@ -2377,7 +2377,7 @@
       "investigative_direction": "Compare with the November 15, 2023 thread and the public clips of Kirk defending the host.",
       "transcript_snippet": "Charlie was the single person just so you guys know who provided me with the most emotional support",
       "supports_claim_refs": [
-        "C-1259"
+        "C-719"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2386,8 +2386,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13133",
-      "ref": "C-13133",
+      "@id": "C-11270",
+      "ref": "C-11270",
       "label": "Host Says Charlie Was Also Attacked and Called Anti-Semitic After October 7",
       "claim": "The host says that after October 7 the same people who attacked her also attacked Charlie Kirk and called him anti-Semitic.",
       "anchored_artifacts": [],
@@ -2405,8 +2405,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13134",
-      "ref": "C-13134",
+      "@id": "C-11271",
+      "ref": "C-11271",
       "label": "Host Says Kolvet Claimed Charlie Was Terrified of Her and Not Friends Since 2019",
       "claim": "The host says Andrew Kolvet is publicly saying Charlie Kirk was terrified of her, that they were not friends since 2019, and that Charlie was only managing the relationship.",
       "anchored_artifacts": [],
@@ -2427,8 +2427,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13135",
-      "ref": "C-13135",
+      "@id": "C-11272",
+      "ref": "C-11272",
       "label": "Host Says a Coordinated Inside Effort After October 7 Pressured and Smeared Dissenters at Daily Wire",
       "claim": "The host says that while she worked for Daily Wire, of which Ben Shapiro is part owner, there was an obvious coordinated effort from the inside after October 7 to privately pressure and smear anyone not repeating the narrative that Israel were the only victims.",
       "anchored_artifacts": [
@@ -2450,8 +2450,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13136",
-      "ref": "C-13136",
+      "@id": "C-11278",
+      "ref": "C-11278",
       "label": "Charlie Sent a Tweet Defending the Host at the Start of the Thread",
       "claim": "The host reads a tweet Charlie Kirk sent her at the start of the November 15, 2023 thread, defending her and saying there should be more room in the conservative movement for disagreement.",
       "anchored_artifacts": [
@@ -2465,7 +2465,7 @@
       "investigative_direction": "Compare with Kirk's public X post from November 15, 2023.",
       "transcript_snippet": "I am genuinely confused why asking questions and quoting Bible verses about peace warrants a call to resign from the Daily Wire.",
       "supports_claim_refs": [
-        "C-3117"
+        "C-11273"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2474,8 +2474,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13137",
-      "ref": "C-13137",
+      "@id": "C-11280",
+      "ref": "C-11280",
       "label": "Charlie Text Says He Has Told All the Jews Who Try It to Go to Hell",
       "claim": "The host reads Charlie Kirk's text saying that he has recently told all the Jews who try it, and tell him to stop, to go to hell. The host replies that it is an implicit threat.",
       "anchored_artifacts": [
@@ -2495,8 +2495,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13138",
-      "ref": "C-13138",
+      "@id": "C-11282",
+      "ref": "C-11282",
       "label": "Charlie Text Says Very Few Are Willing to Stand Up to the Cabal",
       "claim": "The host reads Charlie Kirk's text thanking her for her Tucker interview defense and saying very few of us are willing to stand up to the cabal right now.",
       "anchored_artifacts": [
@@ -2517,8 +2517,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13139",
-      "ref": "C-13139",
+      "@id": "C-11283",
+      "ref": "C-11283",
       "label": "Charlie Text Says It Is So Transactional and He Is Called a Hamas Agent",
       "claim": "The host reads Charlie Kirk's text saying it is so transactional, that he is repulsed, that for years he was called a Jewish shill and now they say he is a Hamas agent, and that the game has changed.",
       "anchored_artifacts": [
@@ -2538,8 +2538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13140",
-      "ref": "C-13140",
+      "@id": "C-11284",
+      "ref": "C-11284",
       "label": "Host Says Her Talks With Charlie Covered Zionism, Speech Pressure and Seth Dillon",
       "claim": "The host says her conversations with Charlie Kirk covered how Zionists were moving in on speech and bullying them, and included conversations about Seth Dillon and others who were name-calling and coordinating.",
       "anchored_artifacts": [],
@@ -2558,8 +2558,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13141",
-      "ref": "C-13141",
+      "@id": "C-11285",
+      "ref": "C-11285",
       "label": "Host Says She and Charlie Met at YWLN and Discussed Daily Wire's Legal Posture",
       "claim": "The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that she believes Andrew Klavan was present, if she recalls correctly, before she went on stage.",
       "anchored_artifacts": [],
@@ -2577,8 +2577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13142",
-      "ref": "C-13142",
+      "@id": "C-11286",
+      "ref": "C-11286",
       "label": "Host Says Text Messages With Andrew Show Ben Shapiro Squeezed Donors Over Her AmFest 2024 Slot",
       "claim": "The host says text messages she has with Andrew (Kolvet, per context) told her that Ben Shapiro was squeezing their donors to try to stop her speaking at AmFest at the end of 2024.",
       "anchored_artifacts": [
@@ -2594,7 +2594,7 @@
       "investigative_direction": "Obtain the host's text messages with Kolvet from late 2024 and identify which donors were reported as pressured.",
       "transcript_snippet": "that Ben Shapiro was squ- squeezing their donors and trying to get them to say that I couldn't speak at AmFest",
       "supports_claim_refs": [
-        "C-6656"
+        "C-2791"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2604,8 +2604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13143",
-      "ref": "C-13143",
+      "@id": "C-11287",
+      "ref": "C-11287",
       "label": "Host Says the President Asked Charlie to Call Her About Brigitte Macron",
       "claim": "The host says the president of the United States asked Charlie Kirk to call her about Brigitte Macron, because everyone knew Charlie and she were close.",
       "anchored_artifacts": [],
@@ -2617,7 +2617,7 @@
       "investigative_direction": "Obtain Kirk's call records for the date of the call and any White House scheduling for that day.",
       "transcript_snippet": "the president of the United States comes to you and asks you to call Candace about Brigitte Macron",
       "supports_claim_refs": [
-        "C-4976"
+        "C-3153"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2627,8 +2627,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13144",
-      "ref": "C-13144",
+      "@id": "C-11289",
+      "ref": "C-11289",
       "label": "Host Says Everyone Knew Charlie Was Under Pressure From Pro-Israel Donors Since October 7",
       "claim": "The host says everyone knew Charlie Kirk had been under pressure from pro-Israel donors since October 7, 2023.",
       "anchored_artifacts": [],
@@ -2642,7 +2642,7 @@
       "investigative_direction": "Identify the donors and the dates of the pressure, using donor correspondence or named sources.",
       "transcript_snippet": "everyone also knew that he was under pressure from pro-Israel donors since October 7th, 2023.",
       "supports_claim_refs": [
-        "C-9313"
+        "C-1142"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2651,8 +2651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13145",
-      "ref": "C-13145",
+      "@id": "C-11290",
+      "ref": "C-11290",
       "label": "Host Says Charlie Was Disgusted by How Ben Shapiro Treated Friends and Enemies",
       "claim": "The host says everyone knew Charlie Kirk never liked and was always disgusted by the way Ben Shapiro behaved and treated his friends and enemies, and that Ben would throw a friend like Megyn Kelly under the bus in four seconds over Israel.",
       "anchored_artifacts": [],
@@ -2672,8 +2672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13146",
-      "ref": "C-13146",
+      "@id": "C-11291",
+      "ref": "C-11291",
       "label": "Host Says Charlie Snapped Under 24 Hours Before His Death and Texted Several People He Was Done",
       "claim": "The host says that less than 24 hours before he died, Charlie Kirk snapped and abandoned the pro-Israel cause, that he was not joking in those messages, and that he texted multiple people that he was done and wanted to bring her back.",
       "anchored_artifacts": [],
@@ -2685,8 +2685,8 @@
       "investigative_direction": "Obtain the messages from September 9 to 10, 2025 and their recipients; note that earlier episodes put the announcement at under 48 hours.",
       "transcript_snippet": "less than 24 hours before he died, Charlie snapped. He did abandon the pro-Israel cause.",
       "supports_claim_refs": [
-        "C-9311",
-        "C-9356"
+        "C-1140",
+        "C-1557"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2695,8 +2695,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13147",
-      "ref": "C-13147",
+      "@id": "C-11292",
+      "ref": "C-11292",
       "label": "Host Says Ben Shapiro Sat in Charlie's Studio With a Million Dollars in Hand",
       "claim": "The host says that suddenly after the assassination Ben Shapiro was sitting in Charlie's studio with a million dollars in hand, attempting to buy his legacy, and that TPUSA allowed it.",
       "anchored_artifacts": [],
@@ -2708,7 +2708,7 @@
       "investigative_direction": "Obtain the date and the record of any donation or payment from Shapiro to TPUSA.",
       "transcript_snippet": "Ben of all people is sitting in his studio, in Charlie's studio with a million dollars in hand attempting to buy his legacy.",
       "supports_claim_refs": [
-        "C-5971"
+        "C-11212"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2718,8 +2718,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13148",
-      "ref": "C-13148",
+      "@id": "C-11293",
+      "ref": "C-11293",
       "label": "Host Says Kolvet and Erika Let Ben Shapiro Open the Event and Kolvet Lied About the Friendship",
       "claim": "The host says Andrew Kolvet lied that Ben and Charlie were friends and allowed Ben to open at his event, that Erika Kirk also allowed it by coming out first and then Ben, and that Ben would have had to pre-submit his speech.",
       "anchored_artifacts": [],
@@ -2731,7 +2731,7 @@
       "investigative_direction": "Obtain the run of show and speaker approvals for the event, and ask whether speeches were pre-submitted.",
       "transcript_snippet": "Allowed him to open at his event. His wife as well allowed that, right? She came out first and then Ben came out.",
       "supports_claim_refs": [
-        "C-10085"
+        "C-6444"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2743,8 +2743,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13149",
-      "ref": "C-13149",
+      "@id": "C-11294",
+      "ref": "C-11294",
       "label": "Host Says TPUSA Knew Ben's Speech Would Attack Charlie's Real Friends",
       "claim": "The host says that because Ben Shapiro had to pre-submit his speech, TPUSA knew he was going to attack Charlie's actual friends, naming herself, Tucker Carlson and Megyn Kelly.",
       "anchored_artifacts": [],
@@ -2765,8 +2765,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13150",
-      "ref": "C-13150",
+      "@id": "C-11297",
+      "ref": "C-11297",
       "label": "Ben Shapiro Says He Knows Charlie Was Alive in the Car Only Because His Security Told Him",
       "claim": "In the played clip, Ben Shapiro says that Charlie Kirk was apparently still alive when carried to a vehicle and that he knows this only because his security was talking to Charlie's security in the car.",
       "anchored_artifacts": [
@@ -2783,7 +2783,7 @@
       "investigative_direction": "Identify Shapiro's security personnel and Kirk's security in the car and obtain their phone records.",
       "transcript_snippet": "I know that only because my security was talking to his security in the car.",
       "supports_claim_refs": [
-        "C-7306"
+        "C-10900"
       ],
       "mentions_person_refs": [
         "N-97",
@@ -2792,8 +2792,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13151",
-      "ref": "C-13151",
+      "@id": "C-11299",
+      "ref": "C-11299",
       "label": "Host Says the Bounty Drew an Instant Response Which Her Team Verified",
       "claim": "The host says that after her bounty on who Ben was with, they heard back instantly, took time to verify that the person was authentic, and did everything possible to fact-check the information.",
       "anchored_artifacts": [
@@ -2815,8 +2815,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13152",
-      "ref": "C-13152",
+      "@id": "C-11300",
+      "ref": "C-11300",
       "label": "Host Says She Has a Strong Guess About the Unidentified Woman but Will Not Say",
       "claim": "The host says she has a strong guess as to who the unidentified woman with Ben Shapiro and Gary could be, but would rather not venture a guess unnecessarily.",
       "anchored_artifacts": [
@@ -2839,8 +2839,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13153",
-      "ref": "C-13153",
+      "@id": "C-11301",
+      "ref": "C-11301",
       "label": "Host Says Ben Was in Los Angeles for a 6 p.m. Reagan Library Event Later Canceled",
       "claim": "The host says Ben Shapiro was in Los Angeles because he was scheduled to appear later that evening at 6:00 p.m. at the Ronald Reagan Presidential Library in Simi Valley, and that the event was canceled because Charlie was shot.",
       "anchored_artifacts": [],
@@ -2862,8 +2862,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13154",
-      "ref": "C-13154",
+      "@id": "C-11302",
+      "ref": "C-11302",
       "label": "Host Says Gary Javitch Is in His Mid-70s and Has Lived in Omaha for Decades",
       "claim": "The host says Gary Javitch is in his mid-70s, has lived in Omaha, Nebraska for the last few decades and got one of his degrees there in the 1990s.",
       "anchored_artifacts": [
@@ -2887,8 +2887,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13155",
-      "ref": "C-13155",
+      "@id": "C-11303",
+      "ref": "C-11303",
       "label": "Host Says Gary Javitch Has Been Executive Director of B'nai B'rith International for Years",
       "claim": "The host says Gary Javitch has been the executive director of B'nai B'rith International for years.",
       "anchored_artifacts": [
@@ -2911,8 +2911,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13156",
-      "ref": "C-13156",
+      "@id": "C-11304",
+      "ref": "C-11304",
       "label": "Host Says B'nai B'rith Is the Jewish Freemasonic Lodge Founded by German Jews",
       "claim": "The host says B'nai B'rith is the Jewish Freemasonic lodge, was founded by German Jews, and that Sigmund Freud belonged to it and denigrated goyim in correspondence, for example 'That joke is much too good for goyim'.",
       "anchored_artifacts": [],
@@ -2927,7 +2927,7 @@
       "investigative_direction": "Check B'nai B'rith's founding history (1843, New York) and Freud's membership; locate the cited Freud correspondence in David Bakan's book.",
       "transcript_snippet": "B'nai B'rith is the Jewish Freemasonic lodge.",
       "supports_claim_refs": [
-        "C-7839"
+        "C-1240"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2936,8 +2936,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13157",
-      "ref": "C-13157",
+      "@id": "C-11305",
+      "ref": "C-11305",
       "label": "Host Says the ADL Spun Out of B'nai B'rith After Leo Frank Murdered Mary Phagan",
       "claim": "The host says B'nai B'rith spun into the Anti-Defamation League when Leo Frank, president of the Atlanta B'nai B'rith chapter and owner of a factory, assaulted and murdered 13-year-old Mary Phagan, and that Frank was convicted despite blaming a Black janitor.",
       "anchored_artifacts": [],
@@ -2953,8 +2953,8 @@
       "investigative_direction": "Check the ADL's 1913 founding history and the trial record in State v. Frank; the host states Frank's guilt as fact, which the historical record contests.",
       "transcript_snippet": "B'nai B'rith then spun into the Anti-Defamation League.",
       "supports_claim_refs": [
-        "C-7838",
-        "C-7841"
+        "C-1239",
+        "C-1242"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2964,8 +2964,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13158",
-      "ref": "C-13158",
+      "@id": "C-11306",
+      "ref": "C-11306",
       "label": "Host Says the Leo Frank Jury Consisted of Jews and the ADL Lobbies Annually on It",
       "claim": "The host says Leo Frank was convicted by a jury that consisted of Jews, and that every year the ADL lobbies and claims anti-Semitism caused his conviction where there was none.",
       "anchored_artifacts": [],
@@ -2986,8 +2986,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13159",
-      "ref": "C-13159",
+      "@id": "C-11307",
+      "ref": "C-11307",
       "label": "Host Says Gary Javitch Chaired the B'nai B'rith International Board and Won a 2019 Award",
       "claim": "The host says Gary Javitch served on the B'nai B'rith International board as executive board chair in 2011, 2016, 2017, 2018 and 2019, and received the inaugural President's Award in 2019.",
       "anchored_artifacts": [
@@ -3010,8 +3010,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13160",
-      "ref": "C-13160",
+      "@id": "C-11308",
+      "ref": "C-11308",
       "label": "Host Says a 2022 Report Named Gary Javitch Director of the Omaha B'nai B'rith Chapter",
       "claim": "The host says a 2022 report identified Gary Javitch as the director of the local B'nai B'rith chapter in Omaha, and that he is also the director of Chabad Lubavitch of Nebraska.",
       "anchored_artifacts": [
@@ -3035,8 +3035,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13161",
-      "ref": "C-13161",
+      "@id": "C-11309",
+      "ref": "C-11309",
       "label": "Host Says a Man in Jail Plotted Her Murder in a Chat With 20 Others Who Did Not Warn Her",
       "claim": "The host says a man now in jail plotted her murder in a chat with 20 other Jews, that none of them notified her, that the FBI got involved, and that he is in jail because she mentioned the history of Chabad Lubavitch and the Brooklyn tomb that presidents visit.",
       "anchored_artifacts": [],
@@ -3056,8 +3056,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13162",
-      "ref": "C-13162",
+      "@id": "C-11312",
+      "ref": "C-11312",
       "label": "Host Says She Cannot Say Why Ben Has Omaha Ties and Draws No Further Conclusion",
       "claim": "The host says she does not know the extent or reason of Ben Shapiro's ties to Omaha, notes Gary is involved in the Jewish Federation of Omaha as a host and donor, and says that is all she knows.",
       "anchored_artifacts": [
@@ -3080,8 +3080,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13163",
-      "ref": "C-13163",
+      "@id": "C-11313",
+      "ref": "C-11313",
       "label": "Host Says Turning Point Lied for a Half-Million-Dollar Check",
       "claim": "The host says TPUSA lies without bottom, and that if they will lie about the Ben and Charlie relationship for a half-million-dollar check, they betrayed Charlie.",
       "anchored_artifacts": [],
@@ -3100,8 +3100,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13164",
-      "ref": "C-13164",
+      "@id": "C-11314",
+      "ref": "C-11314",
       "label": "Host Asks for Tips at moretips@candaceowens.com After the Gary Segment",
       "claim": "The host asks anyone with information to send an email to moretips@candaceowens.com, as a DIA tip-line call.",
       "anchored_artifacts": [
@@ -3120,8 +3120,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13165",
-      "ref": "C-13165",
+      "@id": "C-11315",
+      "ref": "C-11315",
       "label": "Host Says Kolvet Blamed Her for the Hit Piece When It Went Wrong",
       "claim": "The host says Andrew Kolvet, whom Baron Coleman accurately called a liar, blamed her for the Daily Mail hit piece when it went wrong, which she calls a DARVO tactic.",
       "anchored_artifacts": [],
@@ -3136,7 +3136,7 @@
       "investigative_direction": "Retrieve Kolvet's post and the Daily Mail article and compare them.",
       "transcript_snippet": "blamed me for the hit piece against me when it went wrong.",
       "supports_claim_refs": [
-        "C-3110"
+        "C-11224"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3146,8 +3146,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13166",
-      "ref": "C-13166",
+      "@id": "C-11316",
+      "ref": "C-11316",
       "label": "Host Says the Daily Mail Article Is Still Up and Cannot Be Retracted",
       "claim": "The host says the Daily Mail article is still up because Kolvet is lying and TPUSA cannot get a retraction, and that no associate editor would risk a lawsuit by inventing quotes.",
       "anchored_artifacts": [],
@@ -3162,7 +3162,7 @@
       "investigative_direction": "Check the Daily Mail page history and correspondence requesting a correction.",
       "transcript_snippet": "for clarity the article is still up because he's lying.",
       "supports_claim_refs": [
-        "C-5988"
+        "C-11233"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3171,8 +3171,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13167",
-      "ref": "C-13167",
+      "@id": "C-11317",
+      "ref": "C-11317",
       "label": "Host Says Emails Gave Concrete Proof the Story Came From an Erika Family Friend",
       "claim": "The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, and that the friend was Tracy Martin, the person she had suspected.",
       "anchored_artifacts": [
@@ -3189,7 +3189,7 @@
       "investigative_direction": "Obtain the emails and the proof offered, and ask the Daily Mail whether the source was Tracy Martin.",
       "transcript_snippet": "We received a flurry of emails of people who presented proof concrete proof that the story did indeed come from a family friend of Erika",
       "supports_claim_refs": [
-        "C-5981"
+        "C-11222"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3199,8 +3199,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13168",
-      "ref": "C-13168",
+      "@id": "C-11318",
+      "ref": "C-11318",
       "label": "Host Says Tracy Martin Gave Quotes to Us Magazine",
       "claim": "The host says Tracy Martin has been doing the rounds in the press and giving quotes to Us magazine.",
       "anchored_artifacts": [],
@@ -3220,8 +3220,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13169",
-      "ref": "C-13169",
+      "@id": "C-11319",
+      "ref": "C-11319",
       "label": "Host Says Tracy Martin Falsely Claimed the Host Shouted and Cursed on a Call",
       "claim": "The host says Tracy Martin had a perfectly friendly phone call with her and then pretended the host was shouting and cursing her out, and that the host only told her how she felt about Erika and asked why she did not find Erika's lies strange.",
       "anchored_artifacts": [],
@@ -3240,8 +3240,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13170",
-      "ref": "C-13170",
+      "@id": "C-11320",
+      "ref": "C-11320",
       "label": "Host Says Tracy Martin Went on Paramount Tactical Before the Emails Arrived",
       "claim": "The host says that when she said she suspected Tracy Martin was the source, Martin tried to get ahead of it by going on Paramount Tactical's show, before the host had received emails naming her.",
       "anchored_artifacts": [],
@@ -3261,8 +3261,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13171",
-      "ref": "C-13171",
+      "@id": "C-11321",
+      "ref": "C-11321",
       "label": "Host Says Videos Show Erika Rapping to Gangster Music While Partying",
       "claim": "The host says Tracy Martin was friends with Erika Kirk when Erika was dating basketball players, and that videos exist of Erika rapping to gangster music while partying.",
       "anchored_artifacts": [],
@@ -3281,8 +3281,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13172",
-      "ref": "C-13172",
+      "@id": "C-11323",
+      "ref": "C-11323",
       "label": "Host Says Erika Named Her and Accused Her of Accusing Erika of Killing Her Husband",
       "claim": "The host says Erika Kirk came out, name-checked her and accused her of accusing Erika of killing her husband, which the host says was meant to invite hate toward her.",
       "anchored_artifacts": [],
@@ -3300,8 +3300,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13173",
-      "ref": "C-13173",
+      "@id": "C-11324",
+      "ref": "C-11324",
       "label": "Host Says Erika's Questions Were Pre-Approved by Bari Weiss",
       "claim": "The host says the questions in which Erika named her were pre-approved by Bari Weiss, which Erika knew would happen.",
       "anchored_artifacts": [],
@@ -3313,7 +3313,7 @@
       "investigative_direction": "Obtain CBS town hall production records on question approval.",
       "transcript_snippet": "questions that were pre-approved uh by Bari Weiss",
       "supports_claim_refs": [
-        "C-1922"
+        "C-3985"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3323,8 +3323,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13174",
-      "ref": "C-13174",
+      "@id": "C-11325",
+      "ref": "C-11325",
       "label": "Host Says the Article Was Meant to Show Erika Was Strong and Backfired",
       "claim": "The host says as she understands it, the Daily Mail article was an attempt to show the public that Erika was strong and not going to take it, which backfired, and that TPUSA then moved to DARVO tactics.",
       "anchored_artifacts": [],
@@ -3344,8 +3344,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13175",
-      "ref": "C-13175",
+      "@id": "C-11326",
+      "ref": "C-11326",
       "label": "Host Says TPUSA Claims She Was Behind an Article Calling Herself Names",
       "claim": "The host says that when she woke up they were saying she was behind the article calling herself the B-word and a soulless ghoul.",
       "anchored_artifacts": [],
@@ -3359,7 +3359,7 @@
       "investigative_direction": "Compare the Daily Mail quotes with Kolvet's statement.",
       "transcript_snippet": "they're saying I was behind the article calling myself the B-word? Calling myself a soulless ghoul?",
       "supports_claim_refs": [
-        "C-3083"
+        "C-11104"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3367,8 +3367,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13176",
-      "ref": "C-13176",
+      "@id": "C-11327",
+      "ref": "C-11327",
       "label": "Host Promises Next Week Will Be Explosive",
       "claim": "The host says she can guarantee that next week is going to be an explosive week.",
       "anchored_artifacts": [],
@@ -3385,8 +3385,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13177",
-      "ref": "C-13177",
+      "@id": "C-11332",
+      "ref": "C-11332",
       "label": "Host Says the Suspect's Texts Looked Like Google Translate",
       "claim": "The host agrees with Rob O'Neill that the suspect's texts read like English as a second language, saying they were too formal and looked like someone used Google Translate, which registered as strange to the public.",
       "anchored_artifacts": [
@@ -3406,8 +3406,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13178",
-      "ref": "C-13178",
+      "@id": "C-11333",
+      "ref": "C-11333",
       "label": "Host Says Twitch Worked on Ellen's Show and Died by Suicide in a Hotel Room",
       "claim": "The host says Twitch (Stephen Boss) was a DJ on Ellen DeGeneres' show who committed suicide, allegedly, in a hotel room.",
       "anchored_artifacts": [
@@ -3428,8 +3428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13179",
-      "ref": "C-13179",
+      "@id": "C-11336",
+      "ref": "C-11336",
       "label": "Host Says Twitch Checked Into a Motel on Monday and Was Found Dead Tuesday",
       "claim": "The host says Twitch died at a motel less than a mile from his home from a self-inflicted gunshot wound, checked in Monday, was found Tuesday by staff, was 40 and was pronounced dead after 11 a.m. She later corrects the year to 2022.",
       "anchored_artifacts": [
@@ -3449,8 +3449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13180",
-      "ref": "C-13180",
+      "@id": "C-11337",
+      "ref": "C-11337",
       "label": "Host Says Staff Saw No Distress or Heard No Gunfire and Twitch Left a Note",
       "claim": "The host says TMZ spoke to motel staff who said Twitch did not appear distressed and that no one heard gunfire, and that per law enforcement and news reports he left a note alluding to past challenges.",
       "anchored_artifacts": [
@@ -3470,8 +3470,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13181",
-      "ref": "C-13181",
+      "@id": "C-11339",
+      "ref": "C-11339",
       "label": "Host Says Twitch Died Without a Will and Allison Holker Was Granted Half the Estate",
       "claim": "The host says Twitch died without a will, that Allison Holker filed a petition for half his estate in April, and that a judge granted it under California law.",
       "anchored_artifacts": [],
@@ -3490,8 +3490,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13182",
-      "ref": "C-13182",
+      "@id": "C-11340",
+      "ref": "C-11340",
       "label": "Host Says Erika Made Family at Charlie's Catholic Burial Sign NDAs",
       "claim": "The host says she was told that at Charlie's Catholic mass burial, the day before the memorial event, Erika Kirk made her own family members and everyone present sign NDAs.",
       "anchored_artifacts": [],
@@ -3512,8 +3512,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13183",
-      "ref": "C-13183",
+      "@id": "C-11342",
+      "ref": "C-11342",
       "label": "Twitch Family Says the NDA Demand Was Tied to a Magazine Story Blamed on the Grandfather",
       "claim": "In the CBS clip, a Twitch family member says they were told they needed to sign NDAs because someone in the family had sold a story to a magazine, and that this was blamed on Twitch's grandfather.",
       "anchored_artifacts": [
@@ -3535,8 +3535,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13184",
-      "ref": "C-13184",
+      "@id": "C-11344",
+      "ref": "C-11344",
       "label": "Host Says Holker Released a Book in February 2024 About Addiction and Past Abuse",
       "claim": "The host says Allison Holker released a book in February 2024 saying Twitch was secretly struggling with addiction and past sexual abuse, that his family said they were blindsided, and that she released a children's book she said she co-authored with him just before he died.",
       "anchored_artifacts": [],
@@ -3555,8 +3555,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13185",
-      "ref": "C-13185",
+      "@id": "C-11345",
+      "ref": "C-11345",
       "label": "Host Says She Released SUV Photos and Texts, Including Charlie Leaving the Pro-Israel Cause",
       "claim": "The host says she showed photos from inside the SUV and text messages, including that Charlie said he was leaving the pro-Israel cause.",
       "anchored_artifacts": [],
@@ -3568,7 +3568,7 @@
       "investigative_direction": "Compile the host's prior releases of SUV photos and Kirk texts.",
       "transcript_snippet": "from photos inside of the SUV um to releasing text messages, you know, us being the one that showed he said he was leaving the pro-Israel cause.",
       "supports_claim_refs": [
-        "C-9356"
+        "C-1557"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3577,8 +3577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13186",
-      "ref": "C-13186",
+      "@id": "C-11346",
+      "ref": "C-11346",
       "label": "Host Says the Preliminary Hearing Forced No Retraction and Raised More Questions",
       "claim": "The host says nothing at the preliminary hearing forced her to retract anything, and that it led to even more questions.",
       "anchored_artifacts": [],
@@ -3597,8 +3597,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13187",
-      "ref": "C-13187",
+      "@id": "C-11347",
+      "ref": "C-11347",
       "label": "Host Says About $40 Million Was Raised in One Night",
       "claim": "The host says roughly $40 million was raised in one night as Erika posed next to the bloody (the sentence breaks off), a fact she says is forgotten.",
       "anchored_artifacts": [],
@@ -3610,7 +3610,7 @@
       "investigative_direction": "Obtain TPUSA fundraising reports for the event.",
       "transcript_snippet": "us literally raising $40 million, approximately $40 million in one night as Erika posed next to the bloody",
       "supports_claim_refs": [
-        "C-8074"
+        "C-3913"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3619,8 +3619,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13188",
-      "ref": "C-13188",
+      "@id": "C-11348",
+      "ref": "C-11348",
       "label": "Host Says T-Shirts Went Into a For-Profit Business",
       "claim": "The host says the T-shirts went into a for-profit business.",
       "anchored_artifacts": [],
@@ -3639,8 +3639,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13189",
-      "ref": "C-13189",
+      "@id": "C-11349",
+      "ref": "C-11349",
       "label": "Host Says Seth Dillon Pressured Charlie in the Hamptons",
       "claim": "The host says that if Seth Dillon had admitted he pressured Charlie Kirk in the Hamptons, as she says he does, no one would have thought anything was weird.",
       "anchored_artifacts": [],
@@ -3662,8 +3662,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13190",
-      "ref": "C-13190",
+      "@id": "C-11350",
+      "ref": "C-11350",
       "label": "Host Says Seth Dillon Morally Blackmailed Her and She Has Messages",
       "claim": "The host says she has been morally blackmailed by Seth Dillon, that she and Charlie spoke about it, and that she has messages to that effect.",
       "anchored_artifacts": [
@@ -3686,8 +3686,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13191",
-      "ref": "C-13191",
+      "@id": "C-11351",
+      "ref": "C-11351",
       "label": "Host Says Tracy Martin Was Behind the Daily Mail Article as She Is Told",
       "claim": "The host says that if Tracy Martin was behind the article, as she is told, there is a small chance that Kolvet did not receive the comment request, but that he could have asked Erika, who should have said yes because Erika knew.",
       "anchored_artifacts": [
@@ -3704,7 +3704,7 @@
       "investigative_direction": "Ask the Daily Mail whether and to whom it sent the comment request.",
       "transcript_snippet": "if Tracy Martin was the one who, as I'm told, was behind this article",
       "supports_claim_refs": [
-        "C-11597"
+        "C-11109"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3715,8 +3715,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-13192",
-      "ref": "C-13192",
+      "@id": "C-11352",
+      "ref": "C-11352",
       "label": "Host Says Sandy Hook Talk Signals a Lawsuit",
       "claim": "The host says that once the usual people started talking about Sandy Hook she realized they would go for this and want her hung.",
       "anchored_artifacts": [],
@@ -3730,7 +3730,7 @@
       "investigative_direction": "Look for any filed or threatened suit.",
       "transcript_snippet": "the typical people are starting to talk about Sandy Hook I was like oh they're they're going to go for this.",
       "supports_claim_refs": [
-        "C-6004"
+        "C-11251"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3750,7 +3750,7 @@
           "video_timestamp": "00:19:05",
           "speaker_node_ref": "N-3",
           "quote": "So, what did we do? We put out a bounty.",
-          "context": "DIA tip-line payoff: the lunch bounty from ep124 (C-3764) is answered with a tip on who Ben Shapiro was with (C-3767, A-2524.1).",
+          "context": "DIA tip-line payoff: the lunch bounty from ep124 (C-10678) is answered with a tip on who Ben Shapiro was with (C-11298, A-2524.1).",
           "confidence": "high",
           "tags": [
             "tips_network",
@@ -3764,7 +3764,7 @@
           "video_timestamp": "00:26:05",
           "speaker_node_ref": "N-3",
           "quote": "But I will put out another bounty similarly uh for $25,000 for the person who can tell me who in Charlie's car was speaking to who on Ben's security team.",
-          "context": "DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-3769, A-2524.3).",
+          "context": "DIA tip-line call: $25,000 bounty on the Kirk-car / Shapiro-security phone contact (C-11311, A-2524.3).",
           "confidence": "high",
           "tags": [
             "tips_network",
@@ -3822,7 +3822,7 @@
           "video_timestamp": "01:00:06",
           "speaker_node_ref": "N-3",
           "quote": "Of course, the CIA hats, essential.",
-          "context": "CIA hat merch plug (existing claim C-3664).",
+          "context": "CIA hat merch plug (existing claim C-11353).",
           "confidence": "high",
           "tags": [
             "merch",

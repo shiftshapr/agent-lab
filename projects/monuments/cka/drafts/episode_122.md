@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-815, N-816, N-11193, N-11195, N-11196, N-11197
-  - Claim Range (supplement_2026-10c): C-8821–C-8931
+  - Claim Range: C-10396–C-10523
   - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-131, N-266, N-520, N-529, N-557, N-569, N-582, N-607, N-686, N-687, N-689, N-691, N-730, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702, N-817
   - (see registers)
 
@@ -30,7 +30,6 @@
 
 **Episode Ledger Summary**
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
-- Claim Range: C-2969–C-2985
   - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10704
   - Reused Nodes Appearing: N-11, N-433
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens
@@ -59,7 +58,7 @@ Video Timestamp: 00:02:03–00:04:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-curated selection)
 
-*Related: C-2969, N-10696*
+*Related: C-10399, N-10696*
 
 **A-2104.2** Video clip of a man holding only a maroon shirt in the moments after the shot
 
@@ -69,7 +68,7 @@ Video Timestamp: 00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2970, N-10696*
+*Related: C-10405, N-10696*
 
 ---
 
@@ -83,7 +82,7 @@ Video Timestamp: 00:06:15
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2971*
+*Related: C-10407*
 
 **A-2105.2** Video clip of David Sprague and companion standing under umbrellas at the event
 
@@ -93,7 +92,7 @@ Video Timestamp: 00:07:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2972*
+*Related: C-10410*
 
 ---
 
@@ -107,7 +106,7 @@ Video Timestamp: 00:09:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2973, C-2974, C-2975*
+*Related: C-10416, C-10417, C-10418*
 
 ---
 
@@ -121,7 +120,7 @@ Video Timestamp: 00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2976, N-10697*
+*Related: C-10423, N-10697*
 
 **A-2107.2** Photograph allegedly showing James Rawlinson in Romania in 2023 wearing maroon beret
 
@@ -131,7 +130,7 @@ Video Timestamp: 00:13:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (identification alleged, not confirmed by subject)
 
-*Related: C-2977*
+*Related: C-10424*
 
 ---
 
@@ -145,7 +144,7 @@ Video Timestamp: 00:25:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (documentary broadcast)
 
-*Related: C-2978, N-10704*
+*Related: C-10449, N-10704*
 
 ---
 
@@ -159,7 +158,7 @@ Video Timestamp: 00:32:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2979, C-2980, N-10699*
+*Related: C-10462, C-10463, N-10699*
 
 ---
 
@@ -172,7 +171,7 @@ Video Timestamp: 00:01:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8822, N-3*
+*Related: C-10397, N-3*
 
 ---
 
@@ -185,7 +184,7 @@ Video Timestamp: 00:07:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8832, C-8833, C-8834, C-8835, N-3*
+*Related: C-10411, C-10412, C-10413, C-10414, N-3*
 
 ---
 
@@ -198,7 +197,7 @@ Video Timestamp: 00:21:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8858, C-8859, C-8860, N-3*
+*Related: C-10443, C-10444, C-10445, N-3*
 
 ---
 
@@ -213,7 +212,7 @@ Video Timestamp: 00:38:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8888, N-3*
+*Related: C-10476, N-3*
 
 ---
 
@@ -226,7 +225,7 @@ Video Timestamp: 00:48:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8916, N-3*
+*Related: C-10506, N-3*
 
 ---
 
@@ -239,7 +238,7 @@ Video Timestamp: 00:44:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8906, N-3*
+*Related: C-10496, N-3*
 
 ---
 
@@ -254,7 +253,7 @@ Video Timestamp: 00:55:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8922, N-3*
+*Related: C-10512, N-3*
 
 ---
 
@@ -267,7 +266,7 @@ Video Timestamp: 00:58:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8924, N-3*
+*Related: C-10514, N-3*
 
 ---
 
@@ -277,7 +276,7 @@ Confidence Level: Medium
 
 Host; speaks for herself throughout.
 
-*Related: C-8821, C-8822, C-8823, C-8824, C-8825, C-8826, C-8827, C-8828, C-8829, C-8830, C-8831, C-8832, C-8833, C-8834, C-8835, C-8836, C-8837, C-8838, C-8839, C-8841, C-8842, C-8843, C-8844, C-8845, C-8846, C-8848, C-8849, C-8850, C-8854, C-8857, C-8858, C-8859, C-8860, C-8861, C-8862, C-8863, C-8865, C-8866, C-8867, C-8868, C-8869, C-8870, C-8871, C-8872, C-8873, C-8874, C-8875, C-8876, C-8877, C-8878, C-8879, C-8880, C-8881, C-8882, C-8883, C-8884, C-8885, C-8886, C-8887, C-8888, C-8889, C-8890, C-8891, C-8892, C-8893, C-8894, C-8895, C-8896, C-8897, C-8898, C-8899, C-8900, C-8901, C-8902, C-8903, C-8904, C-8905, C-8906, C-8907, C-8908, C-8909, C-8911, C-8912, C-8913, C-8914, C-8915, C-8916, C-8917, C-8918, C-8919, C-8920, C-8921, C-8922, C-8923, C-8925, C-8926, C-8927, C-8928, C-8929, C-8930, C-8931*
+*Related: C-10396, C-10397, C-10398, C-10400, C-10401, C-10402, C-10403, C-10404, C-10406, C-10408, C-10409, C-10411, C-10412, C-10413, C-10414, C-10415, C-10419, C-10420, C-10421, C-10425, C-10426, C-10427, C-10428, C-10429, C-10430, C-10432, C-10433, C-10434, C-10438, C-10442, C-10443, C-10444, C-10445, C-10446, C-10447, C-10448, C-10451, C-10452, C-10453, C-10454, C-10455, C-10456, C-10457, C-10458, C-10459, C-10460, C-10461, C-10464, C-10465, C-10466, C-10467, C-10468, C-10469, C-10470, C-10471, C-10472, C-10473, C-10474, C-10475, C-10476, C-10477, C-10478, C-10479, C-10480, C-10481, C-10482, C-10483, C-10484, C-10485, C-10486, C-10487, C-10488, C-10490, C-10491, C-10492, C-10493, C-10494, C-10496, C-10497, C-10498, C-10499, C-10501, C-10502, C-10503, C-10504, C-10505, C-10506, C-10507, C-10508, C-10509, C-10510, C-10511, C-10512, C-10513, C-10517, C-10518, C-10519, C-10520, C-10521, C-10522, C-10523*
 
 ---
 
@@ -285,7 +284,7 @@ Host; speaks for herself throughout.
 
 Subject of the assassination; the host's claims about his circle, predictions and death.
 
-*Related: C-8821, C-8823, C-8824, C-8825, C-8830, C-8837, C-8843, C-8849, C-8863, C-8865, C-8866, C-8868, C-8872, C-8874, C-8875, C-8878, C-8879, C-8880, C-8884, C-8891, C-8920, C-8921, C-8922, C-8928, C-8929, C-8930*
+*Related: C-10396, C-10398, C-10400, C-10401, C-10408, C-10419, C-10427, C-10433, C-10448, C-10451, C-10452, C-10454, C-10458, C-10460, C-10461, C-10466, C-10467, C-10468, C-10472, C-10479, C-10510, C-10511, C-10512, C-10520, C-10521, C-10522*
 
 ---
 
@@ -293,7 +292,7 @@ Subject of the assassination; the host's claims about his circle, predictions an
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8821, C-8822, C-8825, C-8828, C-8843, C-8913*
+*Related: C-10396, C-10397, C-10401, C-10404, C-10427, C-10503*
 
 ---
 
@@ -301,7 +300,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8821, C-8824, C-8826, C-8827, C-8828, C-8843, C-8913*
+*Related: C-10396, C-10400, C-10402, C-10403, C-10404, C-10427, C-10503*
 
 ---
 
@@ -309,7 +308,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8823, C-8874*
+*Related: C-10398, C-10460*
 
 ---
 
@@ -317,7 +316,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8826*
+*Related: C-10402*
 
 ---
 
@@ -325,7 +324,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:05:36 in episode 122 (David Sprague; later James Norman Rawlinson Jr., also spelled James Rawlinson, David L. Rawlinson and James Rolleston in the transcript). Man who stood and cheered after the shot and whom the host links to the Utah National Guard and the 19th Special Forces.
 
-*Related: C-8829, C-8830, C-8831, C-8832, C-8833, C-8834, C-8835, C-8836, C-8840, C-8841, C-8842*
+*Related: C-10406, C-10408, C-10409, C-10411, C-10412, C-10413, C-10414, C-10415, C-10422, C-10425, C-10426*
 
 ---
 
@@ -334,7 +333,7 @@ First named by the host at 00:05:36 in episode 122 (David Sprague; later James N
 Node Type: Topic
 The host's inquiry into why David Sprague changed his name from James Norman Rawlinson Jr., his stated reasons and the host's inability to confirm his father's alleged crime.
 
-*Related: C-8832, C-8833, C-8834, C-8835, C-8841*
+*Related: C-10411, C-10412, C-10413, C-10414, C-10425*
 
 ---
 
@@ -342,7 +341,7 @@ The host's inquiry into why David Sprague changed his name from James Norman Raw
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8839, C-8844, C-8845, C-8847, C-8848, C-8898, C-8912*
+*Related: C-10421, C-10428, C-10429, C-10431, C-10432, C-10486, C-10502*
 
 ---
 
@@ -350,7 +349,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8840*
+*Related: C-10422*
 
 ---
 
@@ -358,7 +357,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8840, C-8908, C-8909, C-8910*
+*Related: C-10422, C-10498, C-10499, C-10500*
 
 ---
 
@@ -366,7 +365,7 @@ Existing node reused for new claims in this episode.
 
 Widow and TPUSA CEO; subject of the host's Next Model Management, real estate and Romania claims.
 
-*Related: C-8845, C-8857, C-8860, C-8863, C-8870, C-8888, C-8889, C-8890, C-8891, C-8892, C-8893, C-8894, C-8895, C-8896, C-8901, C-8902, C-8903, C-8904, C-8918, C-8931*
+*Related: C-10429, C-10442, C-10445, C-10448, C-10456, C-10476, C-10477, C-10478, C-10479, C-10480, C-10481, C-10482, C-10483, C-10484, C-10490, C-10491, C-10492, C-10493, C-10508, C-10523*
 
 ---
 
@@ -374,7 +373,7 @@ Widow and TPUSA CEO; subject of the host's Next Model Management, real estate an
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8846*
+*Related: C-10430*
 
 ---
 
@@ -382,7 +381,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8847*
+*Related: C-10431*
 
 ---
 
@@ -390,7 +389,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8847*
+*Related: C-10431*
 
 ---
 
@@ -398,7 +397,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8848, C-8849, C-8850, C-8851, C-8852, C-8853, C-8856, C-8862, C-8893, C-8897, C-8898, C-8900, C-8909*
+*Related: C-10432, C-10433, C-10434, C-10435, C-10436, C-10437, C-10441, C-10447, C-10481, C-10485, C-10486, C-10488, C-10499*
 
 ---
 
@@ -406,7 +405,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8849, C-8899, C-8900*
+*Related: C-10433, C-10487, C-10488*
 
 ---
 
@@ -414,7 +413,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8849, C-8900*
+*Related: C-10433, C-10488*
 
 ---
 
@@ -422,7 +421,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8850, C-8851, C-8852, C-8853, C-8854, C-8855, C-8860, C-8861*
+*Related: C-10434, C-10435, C-10436, C-10437, C-10438, C-10440, C-10445, C-10446*
 
 ---
 
@@ -430,7 +429,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8851*
+*Related: C-10435*
 
 ---
 
@@ -438,7 +437,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8851, C-8897*
+*Related: C-10435, C-10485*
 
 ---
 
@@ -446,7 +445,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel whom the host names as co-founder of a New York modeling agency.
 
-*Related: C-8854, C-8855*
+*Related: C-10438, C-10440*
 
 ---
 
@@ -454,7 +453,7 @@ First named by the host at 00:19:15 in episode 122. Brother of Jean-Luc Brunel w
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8854, C-8855, C-8860*
+*Related: C-10438, C-10440, C-10445*
 
 ---
 
@@ -462,7 +461,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8854, C-8855, C-8856, C-8857, C-8858, C-8860*
+*Related: C-10438, C-10440, C-10441, C-10442, C-10443, C-10445*
 
 ---
 
@@ -470,7 +469,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8856, C-8857*
+*Related: C-10441, C-10442*
 
 ---
 
@@ -479,7 +478,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The pending class action the host cites against Next Model Management and MC2 over underaged models placed in model apartments, with pay deductions of up to 70 percent.
 
-*Related: C-8858, C-8859, C-8860*
+*Related: C-10443, C-10444, C-10445*
 
 ---
 
@@ -487,7 +486,7 @@ The pending class action the host cites against Next Model Management and MC2 ov
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8862*
+*Related: C-10447*
 
 ---
 
@@ -495,7 +494,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8864*
+*Related: C-10450*
 
 ---
 
@@ -503,7 +502,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8864*
+*Related: C-10450*
 
 ---
 
@@ -511,7 +510,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8864, C-8897*
+*Related: C-10450, C-10485*
 
 ---
 
@@ -519,7 +518,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8867, C-8868, C-8870, C-8871, C-8872, C-8882, C-8883, C-8906, C-8921*
+*Related: C-10453, C-10454, C-10456, C-10457, C-10458, C-10470, C-10471, C-10496, C-10511*
 
 ---
 
@@ -528,7 +527,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The host's allegation that the Department of War deploys paid or affiliated people full-time in an information war against her and in defense of the official narrative.
 
-*Related: C-8867, C-8868, C-8869*
+*Related: C-10453, C-10454, C-10455*
 
 ---
 
@@ -536,7 +535,7 @@ The host's allegation that the Department of War deploys paid or affiliated peop
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8868, C-8869*
+*Related: C-10454, C-10455*
 
 ---
 
@@ -544,7 +543,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8869, C-8875, C-8914*
+*Related: C-10455, C-10461, C-10504*
 
 ---
 
@@ -552,7 +551,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8870, C-8882, C-8901*
+*Related: C-10456, C-10470, C-10490*
 
 ---
 
@@ -560,7 +559,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8871*
+*Related: C-10457*
 
 ---
 
@@ -568,7 +567,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8871*
+*Related: C-10457*
 
 ---
 
@@ -576,7 +575,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8873, C-8919, C-8926*
+*Related: C-10459, C-10509, C-10518*
 
 ---
 
@@ -584,7 +583,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8873*
+*Related: C-10459*
 
 ---
 
@@ -592,7 +591,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8876, C-8879, C-8920, C-8924*
+*Related: C-10464, C-10467, C-10510, C-10514*
 
 ---
 
@@ -600,7 +599,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8876, C-8877, C-8878, C-8881*
+*Related: C-10464, C-10465, C-10466, C-10469*
 
 ---
 
@@ -608,7 +607,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8877*
+*Related: C-10465*
 
 ---
 
@@ -616,7 +615,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8878, C-8879, C-8880, C-8930*
+*Related: C-10466, C-10467, C-10468, C-10522*
 
 ---
 
@@ -624,7 +623,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8883*
+*Related: C-10471*
 
 ---
 
@@ -632,7 +631,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8884, C-8885, C-8886, C-8887*
+*Related: C-10472, C-10473, C-10474, C-10475*
 
 ---
 
@@ -640,7 +639,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8884, C-8887*
+*Related: C-10472, C-10475*
 
 ---
 
@@ -649,7 +648,7 @@ Existing node reused for new claims in this episode.
 Node Type: Topic
 The host's claim that the family Sara Tewell married into controlled emergency dispatch and triage services and that its company partners with Carbyne.
 
-*Related: C-8885, C-8886*
+*Related: C-10473, C-10474*
 
 ---
 
@@ -657,7 +656,7 @@ The host's claim that the family Sara Tewell married into controlled emergency d
 
 First named by the host at 00:36:21 in episode 122. The host says he created Carbyne.
 
-*Related: C-8886*
+*Related: C-10474*
 
 ---
 
@@ -666,7 +665,7 @@ First named by the host at 00:36:21 in episode 122. The host says he created Car
 Node Type: Organization
 Emergency-communications company the host says was created by Ehud Barak and is in partnership with the dispatch company tied to Sara Tewell's family.
 
-*Related: C-8886*
+*Related: C-10474*
 
 ---
 
@@ -674,7 +673,7 @@ Emergency-communications company the host says was created by Ehud Barak and is 
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8889, C-8890, C-8891*
+*Related: C-10477, C-10478, C-10479*
 
 ---
 
@@ -682,7 +681,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8891*
+*Related: C-10479*
 
 ---
 
@@ -690,7 +689,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8891*
+*Related: C-10479*
 
 ---
 
@@ -698,7 +697,7 @@ Existing node reused for new claims in this episode.
 
 First named by the host at 00:38:54 in episode 122. The host says she is probably not Erika Kirk's blood cousin but was involved in real estate with that family.
 
-*Related: C-8892*
+*Related: C-10480*
 
 ---
 
@@ -706,7 +705,7 @@ First named by the host at 00:38:54 in episode 122. The host says she is probabl
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8892, C-8894, C-8895*
+*Related: C-10480, C-10482, C-10483*
 
 ---
 
@@ -714,7 +713,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8893*
+*Related: C-10481*
 
 ---
 
@@ -722,7 +721,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8893, C-8894, C-8895*
+*Related: C-10481, C-10482, C-10483*
 
 ---
 
@@ -730,7 +729,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8893*
+*Related: C-10481*
 
 ---
 
@@ -738,7 +737,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8897*
+*Related: C-10485*
 
 ---
 
@@ -746,7 +745,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8899*
+*Related: C-10487*
 
 ---
 
@@ -754,7 +753,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8903*
+*Related: C-10492*
 
 ---
 
@@ -762,7 +761,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8905, C-8910, C-8919*
+*Related: C-10494, C-10500, C-10509*
 
 ---
 
@@ -770,7 +769,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8905*
+*Related: C-10494*
 
 ---
 
@@ -778,7 +777,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8906*
+*Related: C-10496*
 
 ---
 
@@ -786,7 +785,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8907*
+*Related: C-10497*
 
 ---
 
@@ -794,7 +793,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8907*
+*Related: C-10497*
 
 ---
 
@@ -802,7 +801,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8908, C-8909*
+*Related: C-10498, C-10499*
 
 ---
 
@@ -810,7 +809,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8910*
+*Related: C-10500*
 
 ---
 
@@ -818,7 +817,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8910*
+*Related: C-10500*
 
 ---
 
@@ -826,7 +825,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8911, C-8912, C-8915*
+*Related: C-10501, C-10502, C-10505*
 
 ---
 
@@ -834,7 +833,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8917*
+*Related: C-10507*
 
 ---
 
@@ -842,7 +841,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8918*
+*Related: C-10508*
 
 ---
 
@@ -850,7 +849,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8919*
+*Related: C-10509*
 
 ---
 
@@ -858,7 +857,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8920, C-8922, C-8929*
+*Related: C-10510, C-10512, C-10521*
 
 ---
 
@@ -866,7 +865,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8922*
+*Related: C-10512*
 
 ---
 
@@ -874,7 +873,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8923*
+*Related: C-10513*
 
 ---
 
@@ -882,7 +881,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8923*
+*Related: C-10513*
 
 ---
 
@@ -890,7 +889,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8924*
+*Related: C-10514*
 
 ---
 
@@ -898,7 +897,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8925, C-8926*
+*Related: C-10517, C-10518*
 
 ---
 
@@ -906,7 +905,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8925*
+*Related: C-10517*
 
 ---
 
@@ -914,7 +913,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8925*
+*Related: C-10517*
 
 ---
 
@@ -922,7 +921,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8927*
+*Related: C-10519*
 
 ---
 
@@ -930,7 +929,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8930*
+*Related: C-10522*
 
 ---
 
@@ -938,7 +937,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8931*
+*Related: C-10523*
 
 ---
 
@@ -946,7 +945,7 @@ Existing node reused for new claims in this episode.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-8931*
+*Related: C-10523*
 
 ---
 
@@ -963,7 +962,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2104.1, A-2104.2, C-2969, C-2970*
+*Related: A-2104.1, A-2104.2, C-10399, C-10405*
 
 **N-10697** 19th Special Forces / Utah-Romania Deployment Pattern
 
@@ -974,7 +973,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2107.1, C-2976, N-41, N-11*
+*Related: A-2107.1, C-10423, N-41, N-11*
 
 **N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
@@ -985,7 +984,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2981, N-2*
+*Related: C-10439, N-2*
 
 **N-10699** Brian Harpole vs Frank Turek CPR Contradiction
 
@@ -996,7 +995,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2109.1, C-2979, C-2980*
+*Related: A-2109.1, C-10462, C-10463*
 
 **N-10700** Pending FOIA Requests
 
@@ -1007,7 +1006,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2982*
+*Related: C-10489*
 
 **N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
@@ -1018,7 +1017,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2985*
+*Related: C-10495*
 
 **N-10702** Lance Twiggs Maroon Shirt Identification
 
@@ -1029,7 +1028,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-2983*
+*Related: C-10515*
 
 **N-10703** Tyler Robinson Set-up Theory (Lance Twiggs as Actual Perpetrator)
 
@@ -1040,7 +1039,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-2984*
+*Related: C-10516*
 
 **N-10704** Mossad "Truman Show" Analogy Application
 
@@ -1051,7 +1050,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (interpretive framing)
 
-*Related: A-2108.1, C-2978*
+*Related: A-2108.1, C-10449*
 
 ---
 
@@ -1066,7 +1065,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 # V. Claim Register
 
-**C-2969** Host Says Photo Series Shows Multiple Young Men Wearing Maroon Shirts Alone in September 10 Audience
+**C-10399** Host Says Photo Series Shows Multiple Young Men Wearing Maroon Shirts Alone in September 10 Audience
 
 Claim Timestamp: 00:02:03
 
@@ -1079,7 +1078,7 @@ Investigative Direction: Cross-reference photographs with attendee registration,
 
 ---
 
-**C-2970** Video clip shows a man holding only a maroon shirt in the moments after the shooting
+**C-10405** Video clip shows a man holding only a maroon shirt in the moments after the shooting
 
 Claim Timestamp: 00:04:49
 
@@ -1091,7 +1090,7 @@ Investigative Direction: Obtain full uncirculated video footage from multiple an
 
 ---
 
-**C-2971** Video clip shows David Sprague standing and appearing to cheer after the shot
+**C-10407** Video clip shows David Sprague standing and appearing to cheer after the shot
 
 Claim Timestamp: 00:06:15
 
@@ -1104,7 +1103,7 @@ Investigative Direction: Cross-reference the clip with public statements by Rawl
 
 ---
 
-**C-2972** Video clip shows David Sprague and a companion standing under umbrellas at the event
+**C-10410** Video clip shows David Sprague and a companion standing under umbrellas at the event
 
 Claim Timestamp: 00:07:09
 
@@ -1117,7 +1116,7 @@ Investigative Direction: Identify the second individual and confirm umbrellas' p
 
 ---
 
-**C-2973** James Rawlinson Stated on X That He Served in the 19th Special Forces and Wore a Red Beret
+**C-10416** James Rawlinson Stated on X That He Served in the 19th Special Forces and Wore a Red Beret
 
 Claim Timestamp: 00:09:46
 
@@ -1130,7 +1129,7 @@ Investigative Direction: Verify Rawlinson's military service record against offi
 
 ---
 
-**C-2974** James Rawlinson stated on X that he has spoken to the FBI
+**C-10417** James Rawlinson stated on X that he has spoken to the FBI
 
 Claim Timestamp: 00:09:46
 
@@ -1143,7 +1142,7 @@ Investigative Direction: Cross-reference with FBI 302 forms, voluntary interview
 
 ---
 
-**C-2975** James Rawlinson stated on X that no ambulances were present at the event and the rifle sounded like a .22
+**C-10418** James Rawlinson stated on X that no ambulances were present at the event and the rifle sounded like a .22
 
 Claim Timestamp: 00:09:46
 
@@ -1156,7 +1155,7 @@ Investigative Direction: Compare against published video, ballistic evidence, an
 
 ---
 
-**C-2976** Article identifies Mihail Kogălniceanu air base in Constanta as a Task Force 82 / 82nd Airborne deployment location
+**C-10423** Article identifies Mihail Kogălniceanu air base in Constanta as a Task Force 82 / 82nd Airborne deployment location
 
 Claim Timestamp: 00:13:17
 
@@ -1168,7 +1167,7 @@ Investigative Direction: Confirm article source, date, and unit assignment throu
 
 ---
 
-**C-2977** A photograph allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret
+**C-10424** A photograph allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret
 
 Claim Timestamp: 00:13:17
 
@@ -1181,7 +1180,7 @@ Investigative Direction: Confirm identity with Rawlinson himself, military photo
 
 ---
 
-**C-2978** A 60 Minutes interview of former Mossad agents described Israeli operations as a "Truman Show" production
+**C-10449** A 60 Minutes interview of former Mossad agents described Israeli operations as a "Truman Show" production
 
 Claim Timestamp: 00:25:08
 
@@ -1193,7 +1192,7 @@ Investigative Direction: Locate the full 60 Minutes episode transcript and air d
 
 ---
 
-**C-2979** Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck
+**C-10462** Frank Turek stated on a podcast that no exit wound was visible on the back of Charlie Kirk's neck
 
 Claim Timestamp: 00:32:34
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Compare against the official autopsy report and Brian H
 
 ---
 
-**C-2980** Frank Turek stated on a podcast that CPR was performed on Charlie Kirk in the car
+**C-10463** Frank Turek stated on a podcast that CPR was performed on Charlie Kirk in the car
 
 Claim Timestamp: 00:32:34
 
@@ -1219,7 +1218,7 @@ Investigative Direction: Cross-reference against Brian Harpole's prior podcast s
 
 ---
 
-**C-2981** Host Says People With Direct Knowledge Claim Erika Kirk Ran Modeling Apartments at Next Model Management
+**C-10439** Host Says People With Direct Knowledge Claim Erika Kirk Ran Modeling Apartments at Next Model Management
 
 Claim Timestamp: 00:20:08–00:21:31
 
@@ -1233,7 +1232,7 @@ Investigative Direction: Obtain class action complaint, defendant discovery, and
 
 ---
 
-**C-2982** Pending FOIA requests filed by host's team include NSA, DHS/Secret Service/EOP, FBI, and travel logs
+**C-10489** Pending FOIA requests filed by host's team include NSA, DHS/Secret Service/EOP, FBI, and travel logs
 
 Claim Timestamp: 00:42:10
 
@@ -1247,7 +1246,7 @@ Investigative Direction: Verify FOIA request submissions via the agencies' track
 
 ---
 
-**C-2983** Lance Twiggs is alleged to be the maroon-shirted individual visible in audience footage
+**C-10515** Lance Twiggs is alleged to be the maroon-shirted individual visible in audience footage
 
 Claim Timestamp: 01:00:41
 
@@ -1261,7 +1260,7 @@ Investigative Direction: Obtain higher-resolution frame-by-frame comparison and 
 
 ---
 
-**C-2984** Host Believes Tyler Robinson Was Set Up by Lance Twiggs
+**C-10516** Host Believes Tyler Robinson Was Set Up by Lance Twiggs
 
 Claim Timestamp: 01:00:41
 
@@ -1275,7 +1274,7 @@ Investigative Direction: Examine public charging documents, defense filings, Rob
 
 ---
 
-**C-2985** Host Says Andrew Kolvet Appeared Live on the Charlie Kirk Show but Was in Washington D.C.
+**C-10495** Host Says Andrew Kolvet Appeared Live on the Charlie Kirk Show but Was in Washington D.C.
 
 Claim Timestamp: 00:44:23–00:46:13
 
@@ -1289,7 +1288,7 @@ Investigative Direction: Obtain Secret Service visitor logs, EEOB badge access r
 
 ---
 
-**C-8821** Host Says Army Regiments Appeared to Organize by Color in Plain Clothes
+**C-10396** Host Says Army Regiments Appeared to Organize by Color in Plain Clothes
 
 Claim Timestamp: 00:01:03
 
@@ -1300,13 +1299,13 @@ Transcript Snippet: And it did look to me like our army regiments were organizin
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10275, N-10311
-Supports: C-1844
+Supports: C-3679
 Tags: relevance:core
 Investigative Direction: Identify the maroon-shirted attendees from event footage and compare them with military rosters or unit assignments.
 
 ---
 
-**C-8822** Host Says Viewers Emailed That Undercover Overseas Units Organize by Color
+**C-10397** Host Says Viewers Emailed That Undercover Overseas Units Organize by Color
 
 Claim Timestamp: 00:01:03
 
@@ -1317,13 +1316,13 @@ Transcript Snippet: when we do things overseas and we're being we're undercover,
 Anchored Artifacts: A-2967.1
 Mentions: N-3
 Related Nodes: N-10275
-Supports: C-1855
+Supports: C-3681
 Tags: relevance:core
 Investigative Direction: Obtain the emails and verify the senders' service records and whether the practice they describe is documented doctrine.
 
 ---
 
-**C-8823** Host Says No One Will Convince Her the Deep State Did Not Organize the Assassination
+**C-10398** Host Says No One Will Convince Her the Deep State Did Not Organize the Assassination
 
 Claim Timestamp: 00:01:03
 
@@ -1339,7 +1338,7 @@ Investigative Direction: Treat as a stated belief; test it against the maroon-sh
 
 ---
 
-**C-8824** Host Says the Audience Had Too Many Older People and Too Few Students
+**C-10400** Host Says the Audience Had Too Many Older People and Too Few Students
 
 Claim Timestamp: 00:02:03
 
@@ -1355,7 +1354,7 @@ Investigative Direction: Compare audience age data from event footage, ticketing
 
 ---
 
-**C-8825** Host Says Many Attendees Wore Bright Hats and High Socks With Black Pants
+**C-10401** Host Says Many Attendees Wore Bright Hats and High Socks With Black Pants
 
 Claim Timestamp: 00:02:03
 
@@ -1371,7 +1370,7 @@ Investigative Direction: Review the host's folders of audience stills and test w
 
 ---
 
-**C-8826** Host Says UVU's School Colors Are Green and White, Not Maroon
+**C-10402** Host Says UVU's School Colors Are Green and White, Not Maroon
 
 Claim Timestamp: 00:03:24
 
@@ -1382,13 +1381,13 @@ Transcript Snippet: But nope, UVU's colors, it turns out, are green and white.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10012, N-10311
-Supports: C-1843
+Supports: C-3678
 Tags: relevance:context
 Investigative Direction: Check Utah Valley University's official brand colors and any maroon campus apparel.
 
 ---
 
-**C-8827** Host Says the Man Who Supplied Footage Was Suspect and His Son Wore Maroon
+**C-10403** Host Says the Man Who Supplied Footage Was Suspect and His Son Wore Maroon
 
 Claim Timestamp: 00:03:24
 
@@ -1404,7 +1403,7 @@ Investigative Direction: Identify the footage supplier (unnamed in this episode)
 
 ---
 
-**C-8828** Host Says the Solo Maroon-Shirted Men Had Athletic Builds
+**C-10404** Host Says the Solo Maroon-Shirted Men Had Athletic Builds
 
 Claim Timestamp: 00:04:06
 
@@ -1420,7 +1419,7 @@ Investigative Direction: Collect clear stills of each maroon-shirted man and com
 
 ---
 
-**C-8829** Host Says the Cheering Man Became a Distraction Point
+**C-10406** Host Says the Cheering Man Became a Distraction Point
 
 Claim Timestamp: 00:05:36
 
@@ -1436,7 +1435,7 @@ Investigative Direction: Trace how the cheering clip was amplified (accounts, da
 
 ---
 
-**C-8830** Host Reports the Cheering Man Said He Was Not Cheering Because Charlie Was Hurt
+**C-10408** Host Reports the Cheering Man Said He Was Not Cheering Because Charlie Was Hurt
 
 Claim Timestamp: 00:06:15
 
@@ -1447,13 +1446,13 @@ Transcript Snippet: He came out, he did an interview clarifying that he wasn't c
 Anchored Artifacts: A-2105.1
 Mentions: N-3, N-815, N-1
 Related Nodes: N-10696
-Supports: C-2971
+Supports: C-10407
 Tags: relevance:core
 Investigative Direction: Locate Sprag's interview and compare his explanation with the clip.
 
 ---
 
-**C-8831** Host Says Viewers Urged Looking Into the Umbrella Boys
+**C-10409** Host Says Viewers Urged Looking Into the Umbrella Boys
 
 Claim Timestamp: 00:06:15
 
@@ -1464,13 +1463,13 @@ Transcript Snippet: They who were emailing us saying you need to look into these
 Anchored Artifacts: A-2105.2
 Mentions: N-3, N-815
 Related Nodes: N-10696
-Supports: C-2972
+Supports: C-10410
 Tags: relevance:core
 Investigative Direction: Identify the companion and compare Sprag's stated age with public records.
 
 ---
 
-**C-8832** Host Says David Sprague's Birth Name Is James Norman Rawlinson Jr.
+**C-10411** Host Says David Sprague's Birth Name Is James Norman Rawlinson Jr.
 
 Claim Timestamp: 00:07:09
 
@@ -1486,7 +1485,7 @@ Investigative Direction: Obtain the court name-change record and compare it with
 
 ---
 
-**C-8833** Rawlinson Told the Host He Legally Changed His Name to Separate From His Father
+**C-10412** Rawlinson Told the Host He Legally Changed His Name to Separate From His Father
 
 Claim Timestamp: 00:07:09
 
@@ -1502,7 +1501,7 @@ Investigative Direction: Retrieve the name-change petition and its filing date f
 
 ---
 
-**C-8834** Rawlinson Told the Host His Father Got in Trouble for Child Abuse
+**C-10413** Rawlinson Told the Host His Father Got in Trouble for Child Abuse
 
 Claim Timestamp: 00:07:09
 
@@ -1518,7 +1517,7 @@ Investigative Direction: Search court and sex-offender registries for any matchi
 
 ---
 
-**C-8835** Host Could Not Find Any Registered Record of the Father's Alleged Crime
+**C-10414** Host Could Not Find Any Registered Record of the Father's Alleged Crime
 
 Claim Timestamp: 00:08:30
 
@@ -1534,7 +1533,7 @@ Investigative Direction: Search civil and military court records for the father;
 
 ---
 
-**C-8836** Host Says Rawlinson Joined Army Boot Camp in 2011 and Joined the Utah National Guard
+**C-10415** Host Says Rawlinson Joined Army Boot Camp in 2011 and Joined the Utah National Guard
 
 Claim Timestamp: 00:08:38
 
@@ -1550,7 +1549,7 @@ Investigative Direction: Request Rawlinson's service record (DD-214 or National 
 
 ---
 
-**C-8837** Host Says the 19th Special Forces Group Is Headquartered at Camp Williams, 20 Minutes From the Event
+**C-10419** Host Says the 19th Special Forces Group Is Headquartered at Camp Williams, 20 Minutes From the Event
 
 Claim Timestamp: 00:10:42
 
@@ -1566,7 +1565,7 @@ Investigative Direction: Confirm the unit's headquarters and the distance from C
 
 ---
 
-**C-8838** Host Says One Must Earn the Maroon Beret Before Becoming a Green Beret
+**C-10420** Host Says One Must Earn the Maroon Beret Before Becoming a Green Beret
 
 Claim Timestamp: 00:11:30
 
@@ -1582,7 +1581,7 @@ Investigative Direction: Verify Army qualification pathways for Special Forces c
 
 ---
 
-**C-8839** Host Says the 19th Special Forces Routinely Deploys to Romania
+**C-10421** Host Says the 19th Special Forces Routinely Deploys to Romania
 
 Claim Timestamp: 00:11:30
 
@@ -1598,7 +1597,7 @@ Investigative Direction: Check DoD and National Guard releases on 19th SFG rotat
 
 ---
 
-**C-8840** Host Says Curtis Kolvet, Kolvet's Brother, Was in Romania the Same Year as Rawlinson
+**C-10422** Host Says Curtis Kolvet, Kolvet's Brother, Was in Romania the Same Year as Rawlinson
 
 Claim Timestamp: 00:12:22
 
@@ -1609,13 +1608,13 @@ Transcript Snippet: Curtis Kolvet, Andrew Kolvet's brother, uh who was, I believ
 Anchored Artifacts: 
 Mentions: N-689, N-14, N-815
 Related Nodes: N-10697
-Supports: C-4693
+Supports: C-10078
 Tags: relevance:core
 Investigative Direction: Obtain Nevada National Guard deployment orders or press releases for Lt. Col. Curtis Kolvet and the dates of his Romania service.
 
 ---
 
-**C-8841** Host Says She Asked Rawlinson Five Times About Service in Romania and He Did Not Answer
+**C-10425** Host Says She Asked Rawlinson Five Times About Service in Romania and He Did Not Answer
 
 Claim Timestamp: 00:13:17
 
@@ -1631,7 +1630,7 @@ Investigative Direction: Obtain the host's message exchange with Rawlinson and R
 
 ---
 
-**C-8842** Host Says a Maroon Beret Would Place Rawlinson in the 82nd Airborne's Task Force 82
+**C-10426** Host Says a Maroon Beret Would Place Rawlinson in the 82nd Airborne's Task Force 82
 
 Claim Timestamp: 00:14:10
 
@@ -1642,13 +1641,13 @@ Transcript Snippet: he would particularly have been a part of the 82nd Airborne 
 Anchored Artifacts: A-2107.1
 Mentions: N-3, N-815
 Related Nodes: N-10697
-Supports: C-2976
+Supports: C-10423
 Tags: relevance:context
 Investigative Direction: Check whether National Guard soldiers wearing maroon berets were attached to Task Force 82 and what the unit's readiness standard is.
 
 ---
 
-**C-8843** Host Says Military Units in Plain Clothes Organized by Color Were at the Event
+**C-10427** Host Says Military Units in Plain Clothes Organized by Color Were at the Event
 
 Claim Timestamp: 00:15:00
 
@@ -1659,13 +1658,13 @@ Transcript Snippet: there were in fact military units that were in plain clothes
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10275, N-10311
-Supports: C-5098
+Supports: C-3547
 Tags: relevance:core
 Investigative Direction: Request unit rosters, orders or authorizations for any military personnel present at UVU on September 10.
 
 ---
 
-**C-8844** Host Says the Plane That Left After the Shooting Was Previously Registered in Romania
+**C-10428** Host Says the Plane That Left After the Shooting Was Previously Registered in Romania
 
 Claim Timestamp: 00:15:00
 
@@ -1676,13 +1675,13 @@ Transcript Snippet: we never got to learn who was aboard that plane, the plane t
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10401
-Supports: C-4688
+Supports: C-10073
 Tags: relevance:core
 Investigative Direction: Pull FAA registration history and passenger records for the aircraft the host calls Plane 888.
 
 ---
 
-**C-8845** Host Says Erika Kirk Set Up a Romanian Orphanage Charity With the Marines on That Base
+**C-10429** Host Says Erika Kirk Set Up a Romanian Orphanage Charity With the Marines on That Base
 
 Claim Timestamp: 00:15:00
 
@@ -1693,13 +1692,13 @@ Transcript Snippet: Erika herself setting up a charity in Romania orphanages wor
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10401
-Supports: C-4689
+Supports: C-10074
 Tags: relevance:core
 Investigative Direction: Obtain Romanian Angels project records and any Marine or Black Sea Rotational Force documentation of cooperation.
 
 ---
 
-**C-8846** Host Says Tyler Bowyer Lived in Romania, Partying With Models in Constanta
+**C-10430** Host Says Tyler Bowyer Lived in Romania, Partying With Models in Constanta
 
 Claim Timestamp: 00:16:07
 
@@ -1715,7 +1714,7 @@ Investigative Direction: Find the earlier Bowyer statements the host references 
 
 ---
 
-**C-8847** Host Says Philip Goldsberry Jr.'s Father Began a Global Ministry Working With Romanian Orphans
+**C-10431** Host Says Philip Goldsberry Jr.'s Father Began a Global Ministry Working With Romanian Orphans
 
 Claim Timestamp: 00:16:07
 
@@ -1726,13 +1725,13 @@ Transcript Snippet: We then learn his dad began a global ministry that worked wi
 Anchored Artifacts: 
 Mentions: N-686, N-687
 Related Nodes: N-10401
-Supports: C-4787
+Supports: C-10173
 Tags: relevance:core
 Investigative Direction: Obtain ministry filings and mission reports for Dr. Philip Goldsberry's Romania work.
 
 ---
 
-**C-8848** Host Says Epstein Trafficked Girls From Romania, Which Appears Most in His Emails
+**C-10432** Host Says Epstein Trafficked Girls From Romania, Which Appears Most in His Emails
 
 Claim Timestamp: 00:16:58
 
@@ -1748,7 +1747,7 @@ Investigative Direction: Run a country-frequency count on the released Epstein e
 
 ---
 
-**C-8849** Host Says Trump Was Upset With Charlie Over Talking About Epstein
+**C-10433** Host Says Trump Was Upset With Charlie Over Talking About Epstein
 
 Claim Timestamp: 00:16:58
 
@@ -1764,7 +1763,7 @@ Investigative Direction: Identify the source (the host does not say) for Trump's
 
 ---
 
-**C-8850** Host Says Jean-Luc Brunel Was Arrested at Charles de Gaulle in December 2020
+**C-10434** Host Says Jean-Luc Brunel Was Arrested at Charles de Gaulle in December 2020
 
 Claim Timestamp: 00:17:46
 
@@ -1780,7 +1779,7 @@ Investigative Direction: Check French judicial and press records for the date an
 
 ---
 
-**C-8851** Host Says Giuffre's Unsealed Case Quoted Epstein Bragging of Sleeping With 1,000 of Brunel's Girls
+**C-10435** Host Says Giuffre's Unsealed Case Quoted Epstein Bragging of Sleeping With 1,000 of Brunel's Girls
 
 Claim Timestamp: 00:17:46
 
@@ -1796,7 +1795,7 @@ Investigative Direction: Locate the specific unsealed Giuffre v. Maxwell filing 
 
 ---
 
-**C-8852** Host Says Brunel Flew 12-Year-Old Triplets to Epstein for His Birthday
+**C-10436** Host Says Brunel Flew 12-Year-Old Triplets to Epstein for His Birthday
 
 Claim Timestamp: 00:19:01
 
@@ -1812,7 +1811,7 @@ Investigative Direction: Locate the court or investigative document that describ
 
 ---
 
-**C-8853** Host Says Epstein Gave Brunel the Seed Money for MC2 in 2005
+**C-10437** Host Says Epstein Gave Brunel the Seed Money for MC2 in 2005
 
 Claim Timestamp: 00:19:15
 
@@ -1828,7 +1827,7 @@ Investigative Direction: Check financial records and court filings for Epstein's
 
 ---
 
-**C-8854** Host Says Brunel and His Brother Arnaud Founded a New York Agency Before MC2
+**C-10438** Host Says Brunel and His Brother Arnaud Founded a New York Agency Before MC2
 
 Claim Timestamp: 00:19:15
 
@@ -1844,7 +1843,7 @@ Investigative Direction: Check New York corporate records and press for the foun
 
 ---
 
-**C-8855** Host Says Next Model Management Spun Out of the Brunels' Next Model Corporation
+**C-10440** Host Says Next Model Management Spun Out of the Brunels' Next Model Corporation
 
 Claim Timestamp: 00:20:08
 
@@ -1860,7 +1859,7 @@ Investigative Direction: Obtain Next Model corporate formation records and owner
 
 ---
 
-**C-8856** Host Says Underage MC2 Models Were Housed in Apartments Owned by Epstein and His Brother
+**C-10441** Host Says Underage MC2 Models Were Housed in Apartments Owned by Epstein and His Brother
 
 Claim Timestamp: 00:20:08
 
@@ -1876,7 +1875,7 @@ Investigative Direction: Review court filings and property records identifying t
 
 ---
 
-**C-8857** Host Says Mark Epstein Owned a White Building on the Upper East Side in the 60s
+**C-10442** Host Says Mark Epstein Owned a White Building on the Upper East Side in the 60s
 
 Claim Timestamp: 00:20:08
 
@@ -1892,7 +1891,7 @@ Investigative Direction: Pull New York property records for Mark Epstein's Upper
 
 ---
 
-**C-8858** Host Says a Class Action Against Next Model Management and MC2 Is Pending
+**C-10443** Host Says a Class Action Against Next Model Management and MC2 Is Pending
 
 Claim Timestamp: 00:21:31
 
@@ -1908,7 +1907,7 @@ Investigative Direction: Identify the docket, court and filing date of the class
 
 ---
 
-**C-8859** Host Says Models Allege They Were Charged for Apartments Through Deducted Pay
+**C-10444** Host Says Models Allege They Were Charged for Apartments Through Deducted Pay
 
 Claim Timestamp: 00:22:19
 
@@ -1924,7 +1923,7 @@ Investigative Direction: Read the class action complaint for the specific pay-de
 
 ---
 
-**C-8860** Host Says the Lawsuit's Allegations Span Decades and Cover the Period Erika Allegedly Worked There
+**C-10445** Host Says the Lawsuit's Allegations Span Decades and Cover the Period Erika Allegedly Worked There
 
 Claim Timestamp: 00:22:19
 
@@ -1935,13 +1934,13 @@ Transcript Snippet: It also covers the time in which Erika was allegedly working
 Anchored Artifacts: A-2969.1
 Mentions: N-529, N-569, N-2, N-3
 Related Nodes: N-11194, N-10532
-Supports: C-4729
+Supports: C-10114
 Tags: relevance:core
 Investigative Direction: Compare the complaint's covered period with any documentation of Erika Kirk's dates at Next.
 
 ---
 
-**C-8861** Host Says Brunel's Model Agency Still Operates in Tel Aviv
+**C-10446** Host Says Brunel's Model Agency Still Operates in Tel Aviv
 
 Claim Timestamp: 00:23:08
 
@@ -1957,7 +1956,7 @@ Investigative Direction: Check whether an MC2 or Brunel-linked agency is registe
 
 ---
 
-**C-8862** Host Says the Rothschilds Were Jeffrey Epstein's Employers
+**C-10447** Host Says the Rothschilds Were Jeffrey Epstein's Employers
 
 Claim Timestamp: 00:23:08
 
@@ -1973,7 +1972,7 @@ Investigative Direction: Identify the documentary basis (the host cites none her
 
 ---
 
-**C-8863** Host Says She Does Not Believe Charlie's Relationship With Erika Was Ever Real
+**C-10448** Host Says She Does Not Believe Charlie's Relationship With Erika Was Ever Real
 
 Claim Timestamp: 00:24:08
 
@@ -1989,7 +1988,7 @@ Investigative Direction: Treat as stated belief; test against the Erika Kirk and
 
 ---
 
-**C-8864** Gold Apollo Clip: Speaker Says the Taiwan Company Had No Idea It Was Working With Mossad
+**C-10450** Gold Apollo Clip: Speaker Says the Taiwan Company Had No Idea It Was Working With Mossad
 
 Claim Timestamp: 00:25:08
 
@@ -2000,13 +1999,13 @@ Transcript Snippet: Gold Apollo had zero clue that they are working with the Mos
 Anchored Artifacts: A-2108.1
 Mentions: 
 Related Nodes: N-10979, N-10978, N-10015
-Supports: C-2978
+Supports: C-10449
 Tags: relevance:context
 Investigative Direction: Locate the 60 Minutes segment and verify the speakers' identities and the Gold Apollo statements.
 
 ---
 
-**C-8865** Host Says Charlie Kirk Lived the Truman Show, Surrounded by Infiltrators
+**C-10451** Host Says Charlie Kirk Lived the Truman Show, Surrounded by Infiltrators
 
 Claim Timestamp: 00:25:08
 
@@ -2017,13 +2016,13 @@ Transcript Snippet: he had no idea that he was living the Truman Show.
 Anchored Artifacts: A-2108.1
 Mentions: N-3, N-1
 Related Nodes: N-10704
-Supports: C-2978
+Supports: C-10449
 Tags: relevance:core
 Investigative Direction: List the people who entered Kirk's circle and when, and test the infiltration theory against employment and donor records.
 
 ---
 
-**C-8866** Host Says the Script Runs Back to Tel Aviv
+**C-10452** Host Says the Script Runs Back to Tel Aviv
 
 Claim Timestamp: 00:26:07
 
@@ -2039,7 +2038,7 @@ Investigative Direction: The host provides no document for this link; seek evide
 
 ---
 
-**C-8867** Host Says the Department of War Is Behind People Deployed Full-Time Against Her
+**C-10453** Host Says the Department of War Is Behind People Deployed Full-Time Against Her
 
 Claim Timestamp: 00:26:07
 
@@ -2055,7 +2054,7 @@ Investigative Direction: Seek contracts, task orders or payments tying DoD funds
 
 ---
 
-**C-8868** Host Says Graham Allen's Official Title Was Senior Consultant to the Department of War
+**C-10454** Host Says Graham Allen's Official Title Was Senior Consultant to the Department of War
 
 Claim Timestamp: 00:26:07
 
@@ -2071,7 +2070,7 @@ Investigative Direction: Request Department of War personnel or consulting recor
 
 ---
 
-**C-8869** Host Says Graham Allen Has Allegedly Moved to Arizona to Help TPUSA Full-Time
+**C-10455** Host Says Graham Allen Has Allegedly Moved to Arizona to Help TPUSA Full-Time
 
 Claim Timestamp: 00:26:07
 
@@ -2087,7 +2086,7 @@ Investigative Direction: Ask TPUSA and Allen to confirm or deny any relocation o
 
 ---
 
-**C-8870** Host Ties the Department of War to the 'Emotional Assets' Remark on the WHCD Night
+**C-10456** Host Ties the Department of War to the 'Emotional Assets' Remark on the WHCD Night
 
 Claim Timestamp: 00:26:07
 
@@ -2098,13 +2097,13 @@ Transcript Snippet: Department of War being the same department which referred t
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10888, N-10923
-Supports: C-4384
+Supports: C-9768
 Tags: relevance:core
 Investigative Direction: Obtain the email through the pending FOIA requests and confirm its origin and wording.
 
 ---
 
-**C-8871** Host Says the Department of War Paid Paramount Tactical, a Former Green Beret
+**C-10457** Host Says the Department of War Paid Paramount Tactical, a Former Green Beret
 
 Claim Timestamp: 00:26:07
 
@@ -2115,13 +2114,13 @@ Transcript Snippet: the same department which we've discovered paid Paramount no
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10899, N-10937, N-10888
-Supports: C-4203
+Supports: C-9350
 Tags: relevance:core
 Investigative Direction: Check USAspending or DoD disbursement records for the payments to the Paramount Tactical entity.
 
 ---
 
-**C-8872** Host Says the Killing Was a Military Operation
+**C-10458** Host Says the Killing Was a Military Operation
 
 Claim Timestamp: 00:27:33
 
@@ -2137,7 +2136,7 @@ Investigative Direction: Treat as the host's conclusion; identify the specific e
 
 ---
 
-**C-8873** Host Says Everyone Knows Tyler Robinson Did Not Do It
+**C-10459** Host Says Everyone Knows Tyler Robinson Did Not Do It
 
 Claim Timestamp: 00:27:33
 
@@ -2153,7 +2152,7 @@ Investigative Direction: Compare against the prosecution's evidence summary and 
 
 ---
 
-**C-8874** Host Says Charlie Was Taken Out Because a Global Trafficking Ring Had to Be Protected
+**C-10460** Host Says Charlie Was Taken Out Because a Global Trafficking Ring Had to Be Protected
 
 Claim Timestamp: 00:28:27
 
@@ -2169,7 +2168,7 @@ Investigative Direction: Identify the documentary basis for a trafficking-ring m
 
 ---
 
-**C-8875** Host Says Charlie Predicted He Would Die Young, Tied to TPUSA, Saving the World
+**C-10461** Host Says Charlie Predicted He Would Die Young, Tied to TPUSA, Saving the World
 
 Claim Timestamp: 00:28:27
 
@@ -2185,7 +2184,7 @@ Investigative Direction: Find the original Kirk statement (date, venue, recordin
 
 ---
 
-**C-8876** Host Says Harpole Twice Said on Podcasts That No CPR Was Done
+**C-10464** Host Says Harpole Twice Said on Podcasts That No CPR Was Done
 
 Claim Timestamp: 00:33:32
 
@@ -2196,13 +2195,13 @@ Transcript Snippet: Brian has twice gone onto podcasts and explained that they n
 Anchored Artifacts: A-2109.1
 Mentions: N-266, N-3
 Related Nodes: N-10699
-Supports: C-4709
+Supports: C-10094
 Tags: relevance:core
 Investigative Direction: Retrieve both Harpole podcast appearances and compare the exact words with Turek's.
 
 ---
 
-**C-8877** Host Says Turek Has Claimed on Multiple Shows That He Did CPR
+**C-10465** Host Says Turek Has Claimed on Multiple Shows That He Did CPR
 
 Claim Timestamp: 00:33:32
 
@@ -2213,13 +2212,13 @@ Transcript Snippet: Frank Turek has now gone on multiple shows and claimed that 
 Anchored Artifacts: A-2109.1
 Mentions: N-7, N-3
 Related Nodes: N-10699, N-10687
-Supports: C-4708
+Supports: C-10093
 Tags: relevance:core
 Investigative Direction: List each Turek appearance and the CPR wording used in each.
 
 ---
 
-**C-8878** Host Says CPR Required Charlie to Be Flat, Which She Says Contradicts His Position in the Car
+**C-10466** Host Says CPR Required Charlie to Be Flat, Which She Says Contradicts His Position in the Car
 
 Claim Timestamp: 00:33:32
 
@@ -2235,7 +2234,7 @@ Investigative Direction: Obtain a vehicle interior diagram and witness descripti
 
 ---
 
-**C-8879** Host Says Harpole Could Not Forget Getting Charlie Into a CPR Position on a 6-Minute Ride
+**C-10467** Host Says Harpole Could Not Forget Getting Charlie Into a CPR Position on a 6-Minute Ride
 
 Claim Timestamp: 00:34:29
 
@@ -2251,7 +2250,7 @@ Investigative Direction: Compare the host's 6-minute ride figure with the 8-minu
 
 ---
 
-**C-8880** Host Says It Was Impossible to Conduct CPR in the Cramped Car
+**C-10468** Host Says It Was Impossible to Conduct CPR in the Cramped Car
 
 Claim Timestamp: 00:34:29
 
@@ -2267,7 +2266,7 @@ Investigative Direction: Measure the interior of the same model SUV with a perso
 
 ---
 
-**C-8881** Host Says Frank Turek Has a Military Background
+**C-10469** Host Says Frank Turek Has a Military Background
 
 Claim Timestamp: 00:34:29
 
@@ -2283,7 +2282,7 @@ Investigative Direction: Check Turek's public biography for any military service
 
 ---
 
-**C-8882** Host Says the Email She Shared Was Real and the Department Will Not Confirm It via FOIA
+**C-10470** Host Says the Email She Shared Was Real and the Department Will Not Confirm It via FOIA
 
 Claim Timestamp: 00:35:29
 
@@ -2294,13 +2293,13 @@ Transcript Snippet: That email we shared with you was real.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10888, N-10923
-Supports: C-4193
+Supports: C-9340
 Tags: relevance:core
 Investigative Direction: Track the FOIA outcome and any authenticated copy of the email.
 
 ---
 
-**C-8883** Host Says It Is Plausible the Department of War Artificially Inflated Decoy and Media Witnesses
+**C-10471** Host Says It Is Plausible the Department of War Artificially Inflated Decoy and Media Witnesses
 
 Claim Timestamp: 00:35:29
 
@@ -2316,7 +2315,7 @@ Investigative Direction: Obtain the email and any DoD media-amplification taskin
 
 ---
 
-**C-8884** Host Says Sara Tewell Changed Her Story Three Times, Starting With a Chest Hit
+**C-10472** Host Says Sara Tewell Changed Her Story Three Times, Starting With a Chest Hit
 
 Claim Timestamp: 00:35:29
 
@@ -2327,13 +2326,13 @@ Transcript Snippet: the young woman that we showed you who changed her story thr
 Anchored Artifacts: 
 Mentions: N-730, N-1, N-3
 Related Nodes: N-10677
-Supports: C-2936, C-2937
+Supports: C-10246, C-10249
 Tags: relevance:core
 Investigative Direction: Transcribe all of Sara Tewell's interviews and compare the wording of each account.
 
 ---
 
-**C-8885** Host Says Sara Tewell's Married-Into Family Controlled Emergency Dispatch Services
+**C-10473** Host Says Sara Tewell's Married-Into Family Controlled Emergency Dispatch Services
 
 Claim Timestamp: 00:36:21
 
@@ -2349,7 +2348,7 @@ Investigative Direction: Identify the family, the company and its Utah dispatch 
 
 ---
 
-**C-8886** Host Says Tool's Family Company Partners With Carbyne, Created by Ehud Barak
+**C-10474** Host Says Tool's Family Company Partners With Carbyne, Created by Ehud Barak
 
 Claim Timestamp: 00:36:21
 
@@ -2365,7 +2364,7 @@ Investigative Direction: Verify Carbyne's founders and any partnership or contra
 
 ---
 
-**C-8887** Host Says No One in the Witness Tree Appears to Be an Unconnected Student
+**C-10475** Host Says No One in the Witness Tree Appears to Be an Unconnected Student
 
 Claim Timestamp: 00:36:21
 
@@ -2381,7 +2380,7 @@ Investigative Direction: Build the promised witness tree with each witness's aff
 
 ---
 
-**C-8888** Host Solicits Tips on Erika's Modeling Apartments at moretips and tips Addresses
+**C-10476** Host Solicits Tips on Erika's Modeling Apartments at moretips and tips Addresses
 
 Claim Timestamp: 00:38:01
 
@@ -2397,7 +2396,7 @@ Investigative Direction: Count and triage the tips received on Erika Kirk and Ne
 
 ---
 
-**C-8889** Host Says There Is Now Enough Evidence That Erika Ran Modeling Apartments
+**C-10477** Host Says There Is Now Enough Evidence That Erika Ran Modeling Apartments
 
 Claim Timestamp: 00:38:01
 
@@ -2408,13 +2407,13 @@ Transcript Snippet: I think there is now enough compelling evidence to suggest t
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10698, N-10501
-Supports: C-4729, C-5815
+Supports: C-10114, C-10269
 Tags: relevance:core
 Investigative Direction: Obtain the named sources' statements and any documents (leases, payments) tying Erika Kirk to the apartments.
 
 ---
 
-**C-8890** Host Says Her Sources' Timeline Predates Erika Getting Her License
+**C-10478** Host Says Her Sources' Timeline Predates Erika Getting Her License
 
 Claim Timestamp: 00:38:01
 
@@ -2430,7 +2429,7 @@ Investigative Direction: Compare the sources' dates with the New York licensing 
 
 ---
 
-**C-8891** Host Says Erika Got Her Real Estate License in the Same Month She Met Charlie
+**C-10479** Host Says Erika Got Her Real Estate License in the Same Month She Met Charlie
 
 Claim Timestamp: 00:38:01
 
@@ -2446,7 +2445,7 @@ Investigative Direction: Check New York Department of State licensing records an
 
 ---
 
-**C-8892** Host Says Nicole Rothstein Is Not Erika's Blood Cousin but Worked in Real Estate With That Family
+**C-10480** Host Says Nicole Rothstein Is Not Erika's Blood Cousin but Worked in Real Estate With That Family
 
 Claim Timestamp: 00:38:54
 
@@ -2462,7 +2461,7 @@ Investigative Direction: Identify Nicole Rothstein, her relation to Erika Kirk a
 
 ---
 
-**C-8893** Host Says Erika's Corcoran License Ties to Lynn de Rothschild per Epstein Emails
+**C-10481** Host Says Erika's Corcoran License Ties to Lynn de Rothschild per Epstein Emails
 
 Claim Timestamp: 00:38:54
 
@@ -2478,7 +2477,7 @@ Investigative Direction: Re-check the Epstein email for Lynn de Rothschild's rol
 
 ---
 
-**C-8894** Host Says Only Two Listings Have Been Found Under Erika's Name
+**C-10482** Host Says Only Two Listings Have Been Found Under Erika's Name
 
 Claim Timestamp: 00:39:40
 
@@ -2489,13 +2488,13 @@ Transcript Snippet: we only ever confined two listings that have ever gone up un
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10502, N-10520
-Supports: C-5825
+Supports: C-10279
 Tags: relevance:core
 Investigative Direction: Search Corcoran and MLS listing histories for any listing agent named Erika Frantzve or Kirk.
 
 ---
 
-**C-8895** Host Says Real Estate Insiders Say a New Agent Could Not Simply Work for Corcoran
+**C-10483** Host Says Real Estate Insiders Say a New Agent Could Not Simply Work for Corcoran
 
 Claim Timestamp: 00:39:40
 
@@ -2511,7 +2510,7 @@ Investigative Direction: Ask Corcoran about its hiring requirements for new agen
 
 ---
 
-**C-8896** Host Says Erika's Mother Works With the CIA in Tech and Erika Lies About Her Resume
+**C-10484** Host Says Erika's Mother Works With the CIA in Tech and Erika Lies About Her Resume
 
 Claim Timestamp: 00:39:40
 
@@ -2527,7 +2526,7 @@ Investigative Direction: The host gives no document; seek employment records for
 
 ---
 
-**C-8897** Host Says Mossad Agents Called Epstein Chronically Unqualified, Brought in by Robert Maxwell
+**C-10485** Host Says Mossad Agents Called Epstein Chronically Unqualified, Brought in by Robert Maxwell
 
 Claim Timestamp: 00:39:40
 
@@ -2543,7 +2542,7 @@ Investigative Direction: Find the interviews in the host's Epstein series that m
 
 ---
 
-**C-8898** Host Says Epstein Entered Blackmail and Trafficking of Young Women From the Eastern Corridor
+**C-10486** Host Says Epstein Entered Blackmail and Trafficking of Young Women From the Eastern Corridor
 
 Claim Timestamp: 00:40:38
 
@@ -2559,7 +2558,7 @@ Investigative Direction: Review Epstein case records on recruitment pipelines fr
 
 ---
 
-**C-8899** Host Says Trump Is Involved in Real Estate and the Modeling World via Pageants
+**C-10487** Host Says Trump Is Involved in Real Estate and the Modeling World via Pageants
 
 Claim Timestamp: 00:40:38
 
@@ -2575,7 +2574,7 @@ Investigative Direction: Confirm Trump's ownership history of Miss Universe-rela
 
 ---
 
-**C-8900** Host Says Trump Was Suddenly in the Situation Room Over Epstein
+**C-10488** Host Says Trump Was Suddenly in the Situation Room Over Epstein
 
 Claim Timestamp: 00:40:38
 
@@ -2591,7 +2590,7 @@ Investigative Direction: Obtain White House schedule and reporting on the Situat
 
 ---
 
-**C-8901** Host Says Her Team Filed FOIA With the NSA on the Erika Emotional Asset Email
+**C-10490** Host Says Her Team Filed FOIA With the NSA on the Erika Emotional Asset Email
 
 Claim Timestamp: 00:42:11
 
@@ -2602,13 +2601,13 @@ Transcript Snippet: we have one out to the NSA regarding that Erika emotional as
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10923, N-10700
-Supports: C-4407
+Supports: C-9791
 Tags: relevance:core
 Investigative Direction: Check the NSA FOIA portal response and the Department of War follow-up.
 
 ---
 
-**C-8902** Host Says Her Team Is Requesting Erika's WAVES Entries From DHS, Secret Service and the EOP
+**C-10491** Host Says Her Team Is Requesting Erika's WAVES Entries From DHS, Secret Service and the EOP
 
 Claim Timestamp: 00:42:11
 
@@ -2624,7 +2623,7 @@ Investigative Direction: Track the DHS, Secret Service and EOP FOIA responses fo
 
 ---
 
-**C-8903** Host Says Erika Was Put on the Air Force Board Though Unqualified
+**C-10492** Host Says Erika Was Put on the Air Force Board Though Unqualified
 
 Claim Timestamp: 00:42:11
 
@@ -2635,13 +2634,13 @@ Transcript Snippet: why Erika was put on that board, which she's not qualified f
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10929
-Supports: C-4112
+Supports: C-9259
 Tags: relevance:core
 Investigative Direction: Review the Air Force Academy Board of Visitors appointment record and member qualifications.
 
 ---
 
-**C-8904** Host Says Erika Made Personal Calls to Stop Events Where the Host Appears
+**C-10493** Host Says Erika Made Personal Calls to Stop Events Where the Host Appears
 
 Claim Timestamp: 00:43:06
 
@@ -2657,7 +2656,7 @@ Investigative Direction: Ask the venues and organizers the host has appeared at 
 
 ---
 
-**C-8905** Host Says the Kash Patel Schedule FOIA Has Drawn No Response
+**C-10494** Host Says the Kash Patel Schedule FOIA Has Drawn No Response
 
 Claim Timestamp: 00:43:06
 
@@ -2668,13 +2667,13 @@ Transcript Snippet: Um and we have not yet received a response.
 Anchored Artifacts: 
 Mentions: N-69, N-3
 Related Nodes: N-10971, N-10700
-Supports: C-4574
+Supports: C-9959
 Tags: relevance:core
 Investigative Direction: Check the FBI FOIA queue status for the request and any later release.
 
 ---
 
-**C-8906** Host Says Hansell Travel FOIA Was Denied and Placed at Number 3,534 in the Queue
+**C-10496** Host Says Hansell Travel FOIA Was Denied and Placed at Number 3,534 in the Queue
 
 Claim Timestamp: 00:44:23
 
@@ -2685,13 +2684,13 @@ Transcript Snippet: Moved to the back of the queue, right? We're number 3 534. I
 Anchored Artifacts: A-2971.1
 Mentions: N-433, N-3
 Related Nodes: N-10700, N-10888
-Supports: C-4531
+Supports: C-9916
 Tags: relevance:core
 Investigative Direction: Obtain the FOIA correspondence showing the denial and queue position.
 
 ---
 
-**C-8907** Host Says She Requested Flight Logs for an FBI Plane That Landed as Egyptian Planes Did in Nebraska
+**C-10497** Host Says She Requested Flight Logs for an FBI Plane That Landed as Egyptian Planes Did in Nebraska
 
 Claim Timestamp: 00:44:23
 
@@ -2702,13 +2701,13 @@ Transcript Snippet: it landed at the same time um as our Egyptian planes in Nebr
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10982, N-10276, N-10700
-Supports: C-4571
+Supports: C-9956
 Tags: relevance:core
 Investigative Direction: Match FAA/ADS-B data for the FBI plane with the Egyptian aircraft times and landing locations.
 
 ---
 
-**C-8908** Host Says Her Team Asked for Kolvet's White House Meeting the Day Before the Epstein Files Release
+**C-10498** Host Says Her Team Asked for Kolvet's White House Meeting the Day Before the Epstein Files Release
 
 Claim Timestamp: 00:45:23
 
@@ -2719,13 +2718,13 @@ Transcript Snippet: Um we are also asking the Secret Service and the DHS for And
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes: N-10701, N-10324
-Supports: C-4723
+Supports: C-10108
 Tags: relevance:core
 Investigative Direction: Track the Secret Service and DHS visitor-log FOIA responses for the date.
 
 ---
 
-**C-8909** Host Says the Epstein Files Were Dropped the Day After the EEOB Appearance
+**C-10499** Host Says the Epstein Files Were Dropped the Day After the EEOB Appearance
 
 Claim Timestamp: 00:45:23
 
@@ -2741,7 +2740,7 @@ Investigative Direction: Pin the exact date of the Charlie Kirk Show episode and
 
 ---
 
-**C-8910** Host Says Susie Wiles and J.D. Vance Have Offices in the EEOB
+**C-10500** Host Says Susie Wiles and J.D. Vance Have Offices in the EEOB
 
 Claim Timestamp: 00:46:13
 
@@ -2757,7 +2756,7 @@ Investigative Direction: Check EEOB office assignments and visitor logs for the 
 
 ---
 
-**C-8911** Host Says the French Foreign Legion Was on the Ground and No Authority Disputed It
+**C-10501** Host Says the French Foreign Legion Was on the Ground and No Authority Disputed It
 
 Claim Timestamp: 00:47:09
 
@@ -2768,13 +2767,13 @@ Transcript Snippet: I have always said also that the French Foreign Legion was t
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10290
-Supports: C-5125
+Supports: C-3576
 Tags: relevance:core
 Investigative Direction: Ask French and US authorities whether Legion personnel were in Utah on September 10.
 
 ---
 
-**C-8912** Host Says the French Foreign Legion Has Been Based on That Romanian Base
+**C-10502** Host Says the French Foreign Legion Has Been Based on That Romanian Base
 
 Claim Timestamp: 00:47:09
 
@@ -2790,7 +2789,7 @@ Investigative Direction: Check Foreign Legion deployments to Mihail Kogalniceanu
 
 ---
 
-**C-8913** Host Says She Believes the Maroon Boys Used Fake Names
+**C-10503** Host Says She Believes the Maroon Boys Used Fake Names
 
 Claim Timestamp: 00:47:09
 
@@ -2806,7 +2805,7 @@ Investigative Direction: Seek identifications of the maroon-shirted men and comp
 
 ---
 
-**C-8914** Host Says Recently Hired TPUSA Staff May Be Working for the US Military or NATO
+**C-10504** Host Says Recently Hired TPUSA Staff May Be Working for the US Military or NATO
 
 Claim Timestamp: 00:47:09
 
@@ -2822,7 +2821,7 @@ Investigative Direction: Compare TPUSA's recent hires with public military and N
 
 ---
 
-**C-8915** Host Says Joining the French Foreign Legion Gives a New Identity, Possibly Also in the US Military
+**C-10505** Host Says Joining the French Foreign Legion Gives a New Identity, Possibly Also in the US Military
 
 Claim Timestamp: 00:48:13
 
@@ -2838,7 +2837,7 @@ Investigative Direction: Check Foreign Legion anonymat rules and whether US mili
 
 ---
 
-**C-8916** Host Asks Viewers to Identify the Maroon Boys and Email Tips
+**C-10506** Host Asks Viewers to Identify the Maroon Boys and Email Tips
 
 Claim Timestamp: 00:48:13
 
@@ -2854,7 +2853,7 @@ Investigative Direction: Collect and triage the identifications submitted for th
 
 ---
 
-**C-8917** Host Says No Arrests for Scene Tampering Because It Would Mean Arresting FBI Agents Who Arrived Too Early
+**C-10507** Host Says No Arrests for Scene Tampering Because It Would Mean Arresting FBI Agents Who Arrived Too Early
 
 Claim Timestamp: 00:52:00
 
@@ -2870,7 +2869,7 @@ Investigative Direction: Obtain FBI arrival logs and the UVU incident timeline t
 
 ---
 
-**C-8918** Host Says Erika Replies When Project Constitution Is Wrong but Stays Quiet on Serious Matters
+**C-10508** Host Says Erika Replies When Project Constitution Is Wrong but Stays Quiet on Serious Matters
 
 Claim Timestamp: 00:52:00
 
@@ -2881,13 +2880,13 @@ Transcript Snippet: She'll always reply when Project Constitution gets something
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10897
-Supports: C-2427
+Supports: C-6863
 Tags: relevance:core
 Investigative Direction: Collect Erika Kirk's public replies to Project Constitution and any response to the host's inquiries.
 
 ---
 
-**C-8919** Host Says Kash Patel Holds the Hospital Tapes
+**C-10509** Host Says Kash Patel Holds the Hospital Tapes
 
 Claim Timestamp: 00:52:40
 
@@ -2898,13 +2897,13 @@ Transcript Snippet: we would be able to request anything inside because Kash Pat
 Anchored Artifacts: 
 Mentions: N-69, N-40, N-3
 Related Nodes: N-10239
-Supports: C-4630
+Supports: C-10015
 Tags: relevance:core
 Investigative Direction: Check defense discovery requests and FBI evidence logs for Timpanogos hospital footage.
 
 ---
 
-**C-8920** Host Hypothesizes Harpole's Defibrillator Story Prepares the Public for Chest Marks in the Autopsy
+**C-10510** Host Hypothesizes Harpole's Defibrillator Story Prepares the Public for Chest Marks in the Autopsy
 
 Claim Timestamp: 00:53:37
 
@@ -2920,7 +2919,7 @@ Investigative Direction: Read the autopsy report for chest findings and ask the 
 
 ---
 
-**C-8921** Host Says the Military Had Everything to Do With What Happened on September 10
+**C-10511** Host Says the Military Had Everything to Do With What Happened on September 10
 
 Claim Timestamp: 00:55:10
 
@@ -2936,7 +2935,7 @@ Investigative Direction: Treat as the host's stated opinion; seek documents show
 
 ---
 
-**C-8922** Host Suggests the St. Michael Pendant Could Have Caused an Injury Revealing a Lie
+**C-10512** Host Suggests the St. Michael Pendant Could Have Caused an Injury Revealing a Lie
 
 Claim Timestamp: 00:56:38
 
@@ -2952,7 +2951,7 @@ Investigative Direction: Examine autopsy photos and the pendant's condition for 
 
 ---
 
-**C-8923** Host Says a President Wants Her Bankrupted Over Brigitte Macron
+**C-10513** Host Says a President Wants Her Bankrupted Over Brigitte Macron
 
 Claim Timestamp: 00:57:38
 
@@ -2968,7 +2967,7 @@ Investigative Direction: Clarify which president the host means and any public s
 
 ---
 
-**C-8924** Viewer Comment Read: ER Nurse of 20 Years Says Harpole's Tale Did Not Happen
+**C-10514** Viewer Comment Read: ER Nurse of 20 Years Says Harpole's Tale Did Not Happen
 
 Claim Timestamp: 00:58:37
 
@@ -2979,13 +2978,13 @@ Transcript Snippet: I've been an ER nurse for over 20 years and the tale told by
 Anchored Artifacts: A-2972.2
 Mentions: N-266
 Related Nodes: N-10663
-Supports: C-2965
+Supports: C-10382
 Tags: relevance:context
 Investigative Direction: Treat as an unverified viewer comment; seek credentialed emergency physicians' assessments.
 
 ---
 
-**C-8925** Host Says Lance Twiggs Is Being Protected
+**C-10517** Host Says Lance Twiggs Is Being Protected
 
 Claim Timestamp: 01:00:41
 
@@ -2996,13 +2995,13 @@ Transcript Snippet: And Lance Twiggs is being protected. I believe it was Lance 
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: N-10168, N-10598
-Supports: C-2983
+Supports: C-10515
 Tags: relevance:core
 Investigative Direction: Request FBI and prosecution records about Twiggs's interviews and any protection arrangements.
 
 ---
 
-**C-8926** Host Says Twiggs Would Have Had Access to His Roommates' Belongings
+**C-10518** Host Says Twiggs Would Have Had Access to His Roommates' Belongings
 
 Claim Timestamp: 01:00:41
 
@@ -3013,13 +3012,13 @@ Transcript Snippet: He would have been able to access all of his roommates' stuf
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
 Related Nodes: N-10703
-Supports: C-2984
+Supports: C-10516
 Tags: relevance:core
 Investigative Direction: Check the living arrangement and access to Robinson's rifle or belongings in discovery.
 
 ---
 
-**C-8927** Host Says Operation Mockingbird Began With the Pentagon's Involvement in Media
+**C-10519** Host Says Operation Mockingbird Began With the Pentagon's Involvement in Media
 
 Claim Timestamp: 01:01:34
 
@@ -3035,7 +3034,7 @@ Investigative Direction: Review the Church Committee report and archives on Oper
 
 ---
 
-**C-8928** Host Says Everything About What Happened to Charlie Was Occult
+**C-10520** Host Says Everything About What Happened to Charlie Was Occult
 
 Claim Timestamp: 01:02:26
 
@@ -3051,7 +3050,7 @@ Investigative Direction: Recorded as the host's belief; no checkable document is
 
 ---
 
-**C-8929** Host Says She Believes Charlie Was Killed by an Explosive and Could Not Have Survived
+**C-10521** Host Says She Believes Charlie Was Killed by an Explosive and Could Not Have Survived
 
 Claim Timestamp: 01:05:30
 
@@ -3067,7 +3066,7 @@ Investigative Direction: Await autopsy and forensic evidence on the cause of dea
 
 ---
 
-**C-8930** Host Says Kirk Was Not Given the Medical Care in the Car That Is Claimed
+**C-10522** Host Says Kirk Was Not Given the Medical Care in the Car That Is Claimed
 
 Claim Timestamp: 01:05:30
 
@@ -3083,7 +3082,7 @@ Investigative Direction: Inventory SUV contents and compare to witness descripti
 
 ---
 
-**C-8931** Host Raises a Tip That Only a District Attorney Could Release the Microphone to Erika
+**C-10523** Host Raises a Tip That Only a District Attorney Could Release the Microphone to Erika
 
 Claim Timestamp: 01:05:30
 
@@ -3270,18 +3269,18 @@ Confidence: high
 - **Name uncertainty:** "James Rawlinson" vs "James Norman Rawlinson Jr." vs "David L. Rawlinson" – host uses inconsistent constructions; original birth name stated as "James Norman Rawlinson Jr."
 - **Name uncertainty:** "Andrew Kolvet" vs "Andrew Kolvet" – both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Kolvet's brother. Treat as the same person pending confirmation.
 - **Timestamp uncertainty:** Several artifact video timestamps estimated from chapter markers; precise frame times not confirmed.
-- **Claim failed admission test:** C-2981, C-2982, C-2983, C-2984, C-2985 – host assertions, beliefs, or interpretive claims without artifact anchors displayed in this episode.
+- **Claim failed admission test:** C-10439, C-10489, C-10515, C-10516, C-10495 – host assertions, beliefs, or interpretive claims without artifact anchors displayed in this episode.
 
 ---
 
 # VII. Output Quality Checklist
 
-- Every claim has at least one artifact anchor: **17 of 17 inscribed claims addressed; C-2969–C-2980 anchored; C-2981–C-2985 flagged as failing anchor test.**
+- Every claim has at least one artifact anchor: **17 of 17 inscribed claims addressed; C-10399–C-10463 anchored; C-10439–C-10495 flagged as failing anchor test.**
 - Every claim has at least one node: Verified.
 - Every artifact has a Related line: Verified.
 - Every node has a Related line: Verified.
 - No episode-wide artifact bundle; each top-level ID represents one evidentiary family: Verified.
 - People nodes use global people ledger; investigation targets use 1000+ series: Verified.
-- No speculative claims inscribed as evidence-backed without artifact anchor: C-2981–C-2985 explicitly flagged.
+- No speculative claims inscribed as evidence-backed without artifact anchor: C-10439–C-10495 explicitly flagged.
 - Names preserved exactly or uncertainty noted: Verified.
 - Formatting consistent with protocol: Verified.

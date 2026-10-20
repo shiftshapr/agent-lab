@@ -27,7 +27,7 @@
           "ref": "A-1557.1",
           "description": "Viewer Email Describing Fort Huachuca as Army Military Intelligence (MIT) Training Base",
           "related_claims": [
-            "C-1969"
+            "C-4303"
           ],
           "related_nodes": [
             "N-10368"
@@ -45,8 +45,8 @@
           "ref": "A-1557.2",
           "description": "Viewer Email – Gym Owners' Allegations Regarding Bruce Bevins Class on Infiltrating Christian Groups",
           "related_claims": [
-            "C-1976",
-            "C-1977"
+            "C-4306",
+            "C-4310"
           ],
           "related_nodes": [
             "N-362",
@@ -73,7 +73,7 @@
           "ref": "A-1558.1",
           "description": "18-Minute Selfie Video with EXIF Metadata Verifying Location and Time at Fort Huachuca on September 9, 2025",
           "related_claims": [
-            "C-1971"
+            "C-4316"
           ],
           "related_nodes": [
             "N-361",
@@ -92,7 +92,7 @@
           "ref": "A-1558.2",
           "description": "Military ID Card(s) Provided by Witness to Host",
           "related_claims": [
-            "C-1971"
+            "C-4316"
           ],
           "related_nodes": [
             "N-361"
@@ -110,12 +110,12 @@
           "ref": "A-1558.3",
           "description": "Mitch's On-Air Recorded Testimonial Interview",
           "related_claims": [
-            "C-1970",
-            "C-1971",
-            "C-1972",
-            "C-1973",
-            "C-1974",
-            "C-1975"
+            "C-4318",
+            "C-4316",
+            "C-4336",
+            "C-4347",
+            "C-4348",
+            "C-4351"
           ],
           "related_nodes": [
             "N-361",
@@ -143,7 +143,7 @@
           "ref": "A-1559.1",
           "description": "Photograph of Congressman Mark Amodei Displayed On-Screen and Shown to Mitch for Identification",
           "related_claims": [
-            "C-1975"
+            "C-4351"
           ],
           "related_nodes": [
             "N-363",
@@ -162,7 +162,7 @@
           "ref": "A-1559.2",
           "description": "Reference Photograph of Brian Harpole Cited as Comparison Image",
           "related_claims": [
-            "C-1974"
+            "C-4348"
           ],
           "related_nodes": [
             "N-10367"
@@ -180,7 +180,7 @@
           "ref": "A-1559.3",
           "description": "Reference Photograph of Erika Kirk with Ponytail Cited as Comparison Image",
           "related_claims": [
-            "C-1973"
+            "C-4347"
           ],
           "related_nodes": [
             "N-2",
@@ -207,7 +207,7 @@
           "ref": "A-1560.1",
           "description": "Viewer Email Asking About Black Plastic-Like Fragmentation Visible in Photos of Charlie Kirk's SUV Interior",
           "related_claims": [
-            "C-1978"
+            "C-4276"
           ],
           "related_nodes": [
             "N-10369"
@@ -225,7 +225,7 @@
           "ref": "A-1560.2",
           "description": "Photographs of Charlie Kirk's SUV Interior Showing Black Plastic/Tempered Glass-Like Fragments",
           "related_claims": [
-            "C-1978"
+            "C-4276"
           ],
           "related_nodes": [
             "N-1",
@@ -252,7 +252,7 @@
           "ref": "A-2744.1",
           "description": "Host verbal call for tips to moretips@candaceowens.com aimed at former Fort Huachuca course participants",
           "related_claims": [
-            "C-5307"
+            "C-4314"
           ],
           "related_nodes": [
             "N-3"
@@ -277,7 +277,7 @@
           "ref": "A-2745.1",
           "description": "Host verbal reference to court documents and court cases Mitch sent her (not shown)",
           "related_claims": [
-            "C-5319"
+            "C-4328"
           ],
           "related_nodes": [
             "N-361"
@@ -294,7 +294,7 @@
           "ref": "A-2745.2",
           "description": "Host verbal reference to the incident report number Mitch received from Fort Huachuca CID and gave to her (not shown)",
           "related_claims": [
-            "C-5332"
+            "C-4343"
           ],
           "related_nodes": [
             "N-361"
@@ -319,8 +319,8 @@
           "ref": "A-2746.1",
           "description": "Host verbal reference to flight call-sign data for Fort Huachuca on the morning of September 9, 2025 (not shown)",
           "related_claims": [
-            "C-5338",
-            "C-5339"
+            "C-4352",
+            "C-4353"
           ],
           "related_nodes": [
             "N-3"
@@ -345,7 +345,7 @@
           "ref": "A-2747.1",
           "description": "Host verbal reference to a local Utah news outlet's request for the Tyler Robinson surrender footage and the reply that it had expired (not shown)",
           "related_claims": [
-            "C-5290"
+            "C-4294"
           ],
           "related_nodes": [
             "N-40"
@@ -373,12 +373,12 @@
         "A-1558.3"
       ],
       "related_claims": [
-        "C-1970",
-        "C-1971",
-        "C-1972",
-        "C-1973",
-        "C-1974",
-        "C-1975"
+        "C-4318",
+        "C-4316",
+        "C-4336",
+        "C-4347",
+        "C-4348",
+        "C-4351"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -400,8 +400,8 @@
         "A-1557.2"
       ],
       "related_claims": [
-        "C-1976",
-        "C-1977"
+        "C-4306",
+        "C-4310"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -423,7 +423,7 @@
         "A-1559.1"
       ],
       "related_claims": [
-        "C-1975"
+        "C-4351"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -445,7 +445,7 @@
         "A-1558.3"
       ],
       "related_claims": [
-        "C-1972"
+        "C-4336"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -471,11 +471,11 @@
         "A-1559.3"
       ],
       "related_claims": [
-        "C-1971",
-        "C-1972",
-        "C-1973",
-        "C-1974",
-        "C-1975"
+        "C-4316",
+        "C-4336",
+        "C-4347",
+        "C-4348",
+        "C-4351"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -501,9 +501,9 @@
         "A-1557.2"
       ],
       "related_claims": [
-        "C-1969",
-        "C-1976",
-        "C-1977"
+        "C-4303",
+        "C-4306",
+        "C-4310"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -526,7 +526,7 @@
         "A-1560.2"
       ],
       "related_claims": [
-        "C-1978"
+        "C-4276"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -546,15 +546,15 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5273",
-        "C-5276",
-        "C-5283",
-        "C-5284",
-        "C-5285",
-        "C-5287",
-        "C-5304",
-        "C-5335",
-        "C-5347"
+        "C-4277",
+        "C-4280",
+        "C-4287",
+        "C-4288",
+        "C-4289",
+        "C-4291",
+        "C-4311",
+        "C-4346",
+        "C-4361"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -572,8 +572,8 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5285",
-        "C-5337"
+        "C-4289",
+        "C-4350"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -607,7 +607,7 @@
       "description": "Investigation target: the host's claim that federal agents prevented the surgeon from returning to his operating room after Charlie Kirk was brought in, and that he placed a call presumably to DC, so the team could not clean the room before Erika Kirk arrived.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5285"
+        "C-4289"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -624,12 +624,12 @@
       "description": "Investigation target: Mitch's account that his identity was passed to cartels after the 1990 tunnel operation, the resulting name change, debt and lawsuits, and the court documents he sent the host.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5315",
-        "C-5317",
-        "C-5318",
-        "C-5319",
-        "C-5343",
-        "C-5346"
+        "C-4324",
+        "C-4326",
+        "C-4327",
+        "C-4328",
+        "C-4357",
+        "C-4360"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -646,54 +646,54 @@
       "description": "Host; speaks of her emails, photos, investigation, call to Mitch and fundraising pledge.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5272",
-        "C-5273",
-        "C-5274",
-        "C-5275",
-        "C-5276",
-        "C-5277",
-        "C-5278",
-        "C-5279",
-        "C-5280",
-        "C-5281",
-        "C-5282",
-        "C-5284",
-        "C-5286",
-        "C-5288",
-        "C-5289",
-        "C-5290",
-        "C-5291",
-        "C-5292",
-        "C-5293",
-        "C-5294",
-        "C-5295",
-        "C-5296",
-        "C-5297",
-        "C-5298",
-        "C-5299",
-        "C-5300",
-        "C-5305",
-        "C-5306",
-        "C-5307",
-        "C-5308",
-        "C-5309",
-        "C-5315",
-        "C-5319",
-        "C-5321",
-        "C-5332",
-        "C-5336",
-        "C-5337",
-        "C-5338",
-        "C-5339",
-        "C-5340",
-        "C-5341",
-        "C-5342",
-        "C-5343",
-        "C-5344",
-        "C-5345",
-        "C-5346",
-        "C-5347",
-        "C-5348"
+        "C-4275",
+        "C-4277",
+        "C-4278",
+        "C-4279",
+        "C-4280",
+        "C-4281",
+        "C-4282",
+        "C-4283",
+        "C-4284",
+        "C-4285",
+        "C-4286",
+        "C-4288",
+        "C-4290",
+        "C-4292",
+        "C-4293",
+        "C-4294",
+        "C-4295",
+        "C-4296",
+        "C-4297",
+        "C-4298",
+        "C-4299",
+        "C-4300",
+        "C-4301",
+        "C-4302",
+        "C-4304",
+        "C-4305",
+        "C-4312",
+        "C-4313",
+        "C-4314",
+        "C-4315",
+        "C-4317",
+        "C-4324",
+        "C-4328",
+        "C-4330",
+        "C-4343",
+        "C-4349",
+        "C-4350",
+        "C-4352",
+        "C-4353",
+        "C-4354",
+        "C-4355",
+        "C-4356",
+        "C-4357",
+        "C-4358",
+        "C-4359",
+        "C-4360",
+        "C-4361",
+        "C-4362"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -710,7 +710,7 @@
       "description": "Pastor criticized by the host for an interview with a man who had gone to prison.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5295"
+        "C-4299"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -727,7 +727,7 @@
       "description": "Named as having asked at the TPUSA event where a man's money comes from.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5309"
+        "C-4317"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -744,13 +744,13 @@
       "description": "Subject of the host's statements on evidence, prints, surrender footage and the surrender account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5275",
-        "C-5288",
-        "C-5289",
-        "C-5290",
-        "C-5291",
-        "C-5292",
-        "C-5293"
+        "C-4279",
+        "C-4292",
+        "C-4293",
+        "C-4294",
+        "C-4295",
+        "C-4296",
+        "C-4297"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -767,7 +767,7 @@
       "description": "Named by the host as someone she says lied and is protected.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5348"
+        "C-4362"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -784,7 +784,7 @@
       "description": "Floated by the host as one possible person Mitch was kept from seeing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5340"
+        "C-4354"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -801,8 +801,8 @@
       "description": "Named by the host for removing the camera behind Charlie Kirk's head.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5283",
-        "C-5284"
+        "C-4287",
+        "C-4288"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -819,7 +819,7 @@
       "description": "Reused for the host's call-sign and transponder claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5338"
+        "C-4352"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -836,8 +836,8 @@
       "description": "Reused for the host's statements on the evidence against Tyler Robinson and the surgeon's account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5275",
-        "C-5276"
+        "C-4279",
+        "C-4280"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -854,9 +854,9 @@
       "description": "Reused for the rooftop eyewitness's description of the shooter and weapon.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5277",
-        "C-5278",
-        "C-5279"
+        "C-4281",
+        "C-4282",
+        "C-4283"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -873,8 +873,8 @@
       "description": "Reused for federal removal of hospital footage and exclusion of the surgeon.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5285",
-        "C-5286"
+        "C-4289",
+        "C-4290"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -891,8 +891,8 @@
       "description": "Reused for the host's statements on Calvary Chapel pastors and Rob McCoy.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5294",
-        "C-5295"
+        "C-4298",
+        "C-4299"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -909,7 +909,7 @@
       "description": "Reused for the host's mention of being sued by a transatlantic president.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5342"
+        "C-4356"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -926,11 +926,11 @@
       "description": "Reused for the missing Tyler Robinson surrender footage and the host's account of the surrender.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5289",
-        "C-5290",
-        "C-5291",
-        "C-5292",
-        "C-5293"
+        "C-4293",
+        "C-4294",
+        "C-4295",
+        "C-4296",
+        "C-4297"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -947,21 +947,21 @@
       "description": "Reused for Mitch's account of the September 9 JTF building encounter and its aftermath.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5308",
-        "C-5320",
-        "C-5321",
-        "C-5322",
-        "C-5326",
-        "C-5327",
-        "C-5328",
-        "C-5329",
-        "C-5330",
-        "C-5331",
-        "C-5332",
-        "C-5333",
-        "C-5334",
-        "C-5336",
-        "C-5341"
+        "C-4315",
+        "C-4329",
+        "C-4330",
+        "C-4331",
+        "C-4335",
+        "C-4337",
+        "C-4338",
+        "C-4339",
+        "C-4341",
+        "C-4342",
+        "C-4343",
+        "C-4344",
+        "C-4345",
+        "C-4349",
+        "C-4355"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -978,12 +978,12 @@
       "description": "Reused for Mitch's account of the 1990 Douglas, Arizona tunnel operation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5310",
-        "C-5311",
-        "C-5312",
-        "C-5313",
-        "C-5314",
-        "C-5316"
+        "C-4319",
+        "C-4320",
+        "C-4321",
+        "C-4322",
+        "C-4323",
+        "C-4325"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1000,9 +1000,9 @@
       "description": "Reused for the Candlewood hotel stay and lobby encounter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5323",
-        "C-5324",
-        "C-5325"
+        "C-4332",
+        "C-4333",
+        "C-4334"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1019,8 +1019,8 @@
       "description": "Reused for Terryl Farnsworth's camera removal.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5283",
-        "C-5284"
+        "C-4287",
+        "C-4288"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1037,11 +1037,11 @@
       "description": "Reused for bomb-dog failure, federal direction to the weapon and prints.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5272",
-        "C-5280",
-        "C-5281",
-        "C-5282",
-        "C-5288"
+        "C-4275",
+        "C-4284",
+        "C-4285",
+        "C-4286",
+        "C-4292"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1058,7 +1058,7 @@
       "description": "Reused for the non-impounded hospital transport vehicle.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5287"
+        "C-4291"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1075,9 +1075,9 @@
       "description": "Reused for the call-sign switch claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5338",
-        "C-5339",
-        "C-5340"
+        "C-4352",
+        "C-4353",
+        "C-4354"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1094,7 +1094,7 @@
       "description": "Reused for the question of Erika Kirk's presence and connection to Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5337"
+        "C-4350"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1111,10 +1111,10 @@
       "description": "Reused for the host's claims about military infiltration of faith and TPUSA.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5296",
-        "C-5297",
-        "C-5304",
-        "C-5306"
+        "C-4300",
+        "C-4301",
+        "C-4311",
+        "C-4313"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1131,8 +1131,8 @@
       "description": "Reused for the Fort Huachuca flight data discussion.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5338",
-        "C-5339"
+        "C-4352",
+        "C-4353"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1149,7 +1149,7 @@
       "description": "Reused for the uncontacted rooftop eyewitness.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5277"
+        "C-4281"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1166,9 +1166,9 @@
       "description": "Reused for the weapon recovery and eyewitness description.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5278",
-        "C-5280",
-        "C-5282"
+        "C-4282",
+        "C-4284",
+        "C-4286"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1180,8 +1180,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1969",
-      "ref": "C-1969",
+      "@id": "C-4303",
+      "ref": "C-4303",
       "label": "Fort Huachuca Functions as Army Military Intelligence (MIT) Training Installation",
       "claim": "An email the host reads states that Fort Huachuca is where soldiers go for their Army Military Intelligence (MIT) courses, the advanced job training they take after basic training.",
       "anchored_artifacts": [
@@ -1196,8 +1196,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1970",
-      "ref": "C-1970",
+      "@id": "C-4318",
+      "ref": "C-4318",
       "label": "\"Mitch\" Subject to ~35-Year Gag Order Related to 1990 JTF6 Drug Tunnel Discovery",
       "claim": "The host says, and guest witness \"Mitch\" agrees, that he was gagged by a non-disclosure order for 35 years (she first says 25, then corrects herself) after a JTF6 mission, assigned from 10th Mountain, in which he located a major cross-border drug tunnel in the Douglas, Arizona area.",
       "anchored_artifacts": [
@@ -1213,8 +1213,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1971",
-      "ref": "C-1971",
+      "@id": "C-4316",
+      "ref": "C-4316",
       "label": "\"Mitch\" Physically Present at Fort Huachuca on September 8–9, 2025",
       "claim": "The host says she confirmed with metadata that witness \"Mitch\" was physically present at Fort Huachuca on the evening of September 8, 2025 (Candlewood Inn & Suites) and the morning of September 9, 2025 (JTF command building), citing the photos and an 18-minute video he recorded on base and the military ID cards he sent her.",
       "anchored_artifacts": [
@@ -1234,8 +1234,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1972",
-      "ref": "C-1972",
+      "@id": "C-4336",
+      "ref": "C-4336",
       "label": "\"Mitch\" Says He Observed Meeting at JTF Building on September 9, 2025 Involving Congressman-Type Figure and Military Officers",
       "claim": "Guest witness \"Mitch\" says that while at the JTF command building on the morning of September 9, 2025, he observed a group including a man in a congressman-style suit with flag pin, accompanied by lieutenant colonels, a sergeant major, and civilians, escorted by military personnel, and that he was subsequently surrounded by police officers from different levels of government at a park bench outside.",
       "anchored_artifacts": [
@@ -1253,8 +1253,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1973",
-      "ref": "C-1973",
+      "@id": "C-4347",
+      "ref": "C-4347",
       "label": "\"Mitch\" Identifies Woman at Candlewood Inn & Suites on September 8, 2025 as Resembling Erika Kirk (95–99% Confidence)",
       "claim": "Witness \"Mitch\" states that a woman in a ponytail he saw in the lobby the night before the meeting, on September 8, 2025, matches a past photograph of Erika Kirk, citing her really rare eyes, and puts that match at 95 to 99%.",
       "anchored_artifacts": [
@@ -1274,8 +1274,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1974",
-      "ref": "C-1974",
+      "@id": "C-4348",
+      "ref": "C-4348",
       "label": "\"Mitch\" Identifies Man at JTF Building on September 9, 2025 as Resembling Brian Harpole (95–99% Confidence)",
       "claim": "Guest witness \"Mitch\" says the man who walked out of the JTF building on September 9, 2025 resembled Brian Harpole at 95-99% confidence, citing matching mannerisms, facial features, height, haircut, and gait.",
       "anchored_artifacts": [
@@ -1295,8 +1295,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1975",
-      "ref": "C-1975",
+      "@id": "C-4351",
+      "ref": "C-4351",
       "label": "\"Mitch\" Identifies Congressman-Type Figure at Fort Huachuca on September 9, 2025 as Mark Amodei (95% Confidence)",
       "claim": "After the host shows a reference photograph of Congressman Mark Amodei (R-NV) on air, guest witness \"Mitch\" says he identifies him at approximately 95% confidence as the congressman-style figure who walked closest to him at the JTF building on September 9, 2025.",
       "anchored_artifacts": [
@@ -1316,8 +1316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1976",
-      "ref": "C-1976",
+      "@id": "C-4306",
+      "ref": "C-4306",
       "label": "Fort Huachuca Class Taught by Bruce Bevins on Infiltrating Christian Organizations via Covert Psychological Operations",
       "claim": "A gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.",
       "anchored_artifacts": [
@@ -1335,8 +1335,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1977",
-      "ref": "C-1977",
+      "@id": "C-4310",
+      "ref": "C-4310",
       "label": "Fort Huachuca Military Students Described Overnight Deception Training Exercises Against Civilians in Tucson",
       "claim": "Per the same viewer email, two military students (names redacted by host) at the gym described an overnight field training mission in which they practiced deceiving civilians in Tucson – telling lies, maintaining false personas, and avoiding \"breaking character\" – at bars and public venues, with implications of sexual encounters with targets.",
       "anchored_artifacts": [
@@ -1351,8 +1351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1978",
-      "ref": "C-1978",
+      "@id": "C-4276",
+      "ref": "C-4276",
       "label": "Black Plastic / Tempered Glass-Like Fragments Visible in Post-Shooting Photographs of Charlie Kirk's SUV Interior",
       "claim": "Host confirms visual observation, prompted by a viewer question on X, of black plastic-like or tempered-glass-like fragments distributed across the rear floor of Charlie Kirk's SUV in post-shooting photographs, noting distinction from surrounding blood.",
       "anchored_artifacts": [
@@ -1371,8 +1371,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1979",
-      "ref": "C-1979",
+      "@id": "C-4340",
+      "ref": "C-4340",
       "label": "\"Mitch\" Says Multiple Federal and Local Law Enforcement Officers Surrounded Him Outside JTF Building on September 9, 2025",
       "claim": "Guest witness \"Mitch\" says that after personnel exited the JTF building, he was escorted to park benches outside, where he sat with Captain Neff, multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.",
       "anchored_artifacts": [
@@ -1391,8 +1391,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5272",
-      "ref": "C-5272",
+      "@id": "C-4275",
+      "ref": "C-4275",
       "label": "Flood of law-enforcement and military emails objecting to the bomb-dog account",
       "claim": "The host says that the previous day she received a flood of emails from law enforcement officers and military personnel who rejected the account that the bomb dogs missed the gun.",
       "anchored_artifacts": [],
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5273",
-      "ref": "C-5273",
+      "@id": "C-4277",
+      "ref": "C-4277",
       "label": "Host cautions SUV fragments do not prove rigging",
       "claim": "The host says the fragments in the SUV photos cannot be extrapolated into evidence that something broke on Charlie Kirk or was rigged, and that mundane explanations such as a broken phone are possible.",
       "anchored_artifacts": [],
@@ -1422,7 +1422,7 @@
       "investigative_direction": "Compare the original high-resolution SUV photographs against reference images of phone glass, hard candy and vehicle trim.",
       "transcript_snippet": "And I want to say that we can't necessarily extrapolate that from what we're looking at. It could be a thousand other things.",
       "supports_claim_refs": [
-        "C-1978"
+        "C-4276"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -1431,8 +1431,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5274",
-      "ref": "C-5274",
+      "@id": "C-4278",
+      "ref": "C-4278",
       "label": "Host withholding remaining SUV photos to protect federal sources",
       "claim": "The host says she is hesitant to release the rest of the SUV photographs because she does not want the federal officers who assisted her to be identified and fired.",
       "anchored_artifacts": [],
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5275",
-      "ref": "C-5275",
+      "@id": "C-4279",
+      "ref": "C-4279",
       "label": "Host says there is no evidence against Tyler Robinson beyond untimestamped messages",
       "claim": "The host says there is no evidence against Tyler Robinson outside of messages that are not timestamped, and that there is no confession.",
       "anchored_artifacts": [],
@@ -1468,8 +1468,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5276",
-      "ref": "C-5276",
+      "@id": "C-4280",
+      "ref": "C-4280",
       "label": "Surgeon never confirmed a .30-06 or a steel neck",
       "claim": "The host says the surgeon never confirmed or suggested that Charlie Kirk was shot with a .30-06 or that a steel neck stopped the bullet, and that he suggested a frangible bullet may have been used.",
       "anchored_artifacts": [],
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5277",
-      "ref": "C-5277",
+      "@id": "C-4281",
+      "ref": "C-4281",
       "label": "Lone rooftop eyewitness not contacted by lawyers or investigators",
       "claim": "The host says the lone confirmed eyewitness who saw the alleged shooter on the Losee Center rooftop before the shot has not been contacted by the lawyers or investigators on either side, even though the investigation phase before the May probable cause hearing is under way.",
       "anchored_artifacts": [],
@@ -1506,8 +1506,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5278",
-      "ref": "C-5278",
+      "@id": "C-4282",
+      "ref": "C-4282",
       "label": "Rooftop eyewitness, a gun-range instructor, says the weapon looked like a .223",
       "claim": "The host says the rooftop eyewitness is an instructor at a gun range who described the weapon he saw as looking more like a .223 and shorter than the one that was found.",
       "anchored_artifacts": [],
@@ -1525,8 +1525,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5279",
-      "ref": "C-5279",
+      "@id": "C-4283",
+      "ref": "C-4283",
       "label": "Rooftop figure wore black tactical gear and a face mask and looked professional",
       "claim": "The host says the rooftop eyewitness described the person he saw as wearing what seemed to be black tactical gear plus a face mask, and as looking like a professional.",
       "anchored_artifacts": [],
@@ -1543,8 +1543,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5280",
-      "ref": "C-5280",
+      "@id": "C-4284",
+      "ref": "C-4284",
       "label": "Bomb dogs were unable to find the weapon in the field where it was found",
       "claim": "The host says the bomb dogs were unable to locate the weapon in the field where it was eventually discovered, although they had crawled over that area.",
       "anchored_artifacts": [],
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5281",
-      "ref": "C-5281",
+      "@id": "C-4285",
+      "ref": "C-4285",
       "label": "Federal agents directed local officers to the weapon",
       "claim": "The host says that, rather than the dogs finding it, federal agents directed local officers to the weapon.",
       "anchored_artifacts": [],
@@ -1580,8 +1580,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5282",
-      "ref": "C-5282",
+      "@id": "C-4286",
+      "ref": "C-4286",
       "label": "Dogs were not given the weapon's scent to trace it back to the roof",
       "claim": "The host says the canines were not provided with the scent of the weapon once it was discovered, so the dogs did not trace it back to the top of the Losee Center.",
       "anchored_artifacts": [],
@@ -1599,8 +1599,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5283",
-      "ref": "C-5283",
+      "@id": "C-4287",
+      "ref": "C-4287",
       "label": "Terryl Farnsworth raced to remove the camera behind Charlie's head",
       "claim": "The host says Terryl Farnsworth raced to remove the camera that was directly behind Charlie Kirk's head, and that major question marks remain about it.",
       "anchored_artifacts": [],
@@ -1618,8 +1618,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5284",
-      "ref": "C-5284",
+      "@id": "C-4288",
+      "ref": "C-4288",
       "label": "Host's reading of why the camera was removed",
       "claim": "The host says that, in her own reading and not as a data point, the camera was removed because the story was going to be that a .30-06 hit Charlie Kirk, and the footage would have shown there was no tremendous damage to his neck.",
       "anchored_artifacts": [],
@@ -1631,7 +1631,7 @@
       "investigative_direction": "Obtain the camera's retained footage and compare it with the medical findings; ask Farnsworth for his stated reason.",
       "transcript_snippet": "when I imagine why he might have done that, I think it's because they were going to go with this story that a.30-06 hit Charlie Kirk.",
       "supports_claim_refs": [
-        "C-5283"
+        "C-4287"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5285",
-      "ref": "C-5285",
+      "@id": "C-4289",
+      "ref": "C-4289",
       "label": "Federal agents prevented the surgeon from returning to the operating room",
       "claim": "The host says federal agents prevented the surgeon from returning to his operating room, which startled him, and that he placed a call presumably to DC because he wanted the team back in to clean Charlie Kirk before Erika Kirk came in.",
       "anchored_artifacts": [],
@@ -1661,8 +1661,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5286",
-      "ref": "C-5286",
+      "@id": "C-4290",
+      "ref": "C-4290",
       "label": "Federal agents removed the hospital surveillance footage",
       "claim": "The host says federal agents removed the hospital surveillance footage.",
       "anchored_artifacts": [],
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5287",
-      "ref": "C-5287",
+      "@id": "C-4291",
+      "ref": "C-4291",
       "label": "Vehicle that took Charlie to the hospital was not impounded",
       "claim": "The host says the vehicle in which Charlie Kirk was transported to Timpanogos Hospital was not impounded by law enforcement.",
       "anchored_artifacts": [],
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5288",
-      "ref": "C-5288",
+      "@id": "C-4292",
+      "ref": "C-4292",
       "label": "Host confirms multiple sets of prints on the recovered weapon",
       "claim": "The host says she can confirm there were multiple sets of prints on the recovered gun, not only those of Tyler Robinson.",
       "anchored_artifacts": [],
@@ -1710,7 +1710,7 @@
       "investigative_direction": "Obtain the latent-print and DNA reports filed by the Utah crime lab for the recovered rifle.",
       "transcript_snippet": "There were multiple sets of prints that were on the gun that was recovered thanks to the instincts of the feds and not the noses of the dogs.",
       "supports_claim_refs": [
-        "C-1283"
+        "C-756"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -1719,8 +1719,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5289",
-      "ref": "C-5289",
+      "@id": "C-4293",
+      "ref": "C-4293",
       "label": "Footage of Tyler Robinson turning himself in is apparently missing",
       "claim": "The host says the footage of Tyler Robinson turning himself in is apparently missing.",
       "anchored_artifacts": [],
@@ -1738,8 +1738,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5290",
-      "ref": "C-5290",
+      "@id": "C-4294",
+      "ref": "C-4294",
       "label": "Local Utah news told the surrender footage had expired",
       "claim": "The host says that local Utah news requested the surrender footage and was told the footage had expired and the agency no longer has it, although she allows they may mean it was handed to investigators.",
       "anchored_artifacts": [
@@ -1759,8 +1759,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5291",
-      "ref": "C-5291",
+      "@id": "C-4295",
+      "ref": "C-4295",
       "label": "Host says the parents-turned-him-in story is false",
       "claim": "The host says, flagging it as her own reading, that her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.",
       "anchored_artifacts": [],
@@ -1778,8 +1778,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5292",
-      "ref": "C-5292",
+      "@id": "C-4296",
+      "ref": "C-4296",
       "label": "Host says Robinson was told to come in peacefully or doors would be broken down",
       "claim": "The host says that, according to her investigation, which she flags as her own reading, Tyler Robinson and his parents were told either the doors would be broken down or he would come in peacefully, and he chose the latter.",
       "anchored_artifacts": [],
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5293",
-      "ref": "C-5293",
+      "@id": "C-4297",
+      "ref": "C-4297",
       "label": "Police officers say they were told not to look at him and to avoid cameras",
       "claim": "The host says police officers who were present when Tyler Robinson came in told her they were told not to look at him and to avoid cameras.",
       "anchored_artifacts": [],
@@ -1816,8 +1816,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5294",
-      "ref": "C-5294",
+      "@id": "C-4298",
+      "ref": "C-4298",
       "label": "Host says Calvary Chapel installs former pedophiles and drug traffickers as lead pastors",
       "claim": "The host says that within Calvary Chapel in particular there is too much of a habit of establishing former pedophiles and drug traffickers as lead pastors of churches.",
       "anchored_artifacts": [],
@@ -1834,8 +1834,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5295",
-      "ref": "C-5295",
+      "@id": "C-4299",
+      "ref": "C-4299",
       "label": "Rob McCoy interview with a man who went to prison and was given access to children",
       "claim": "The host says Rob McCoy did an interview with somebody who apparently went on a rampage and went to prison, sort of laundering his reputation, and then gave him access to children again.",
       "anchored_artifacts": [],
@@ -1853,8 +1853,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5296",
-      "ref": "C-5296",
+      "@id": "C-4300",
+      "ref": "C-4300",
       "label": "Host says many conservative media companies are run by former military intelligence",
       "claim": "The host says there are many conservative media companies run by former military intelligence, naval intelligence or Mossad personnel who then speak about Judeo-Christian values.",
       "anchored_artifacts": [],
@@ -1871,8 +1871,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5297",
-      "ref": "C-5297",
+      "@id": "C-4301",
+      "ref": "C-4301",
       "label": "Host says she has argued that faith has been infiltrated by the military",
       "claim": "The host says she has been suggesting that faith has been infiltrated by the military and that people laughed.",
       "anchored_artifacts": [],
@@ -1889,8 +1889,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5298",
-      "ref": "C-5298",
+      "@id": "C-4302",
+      "ref": "C-4302",
       "label": "Host describes Fort Huachuca as an intelligence training hub where civilians can become assets",
       "claim": "The host says Fort Huachuca is a hub for intelligence training where civilians can be turned into intelligence assets and take courses to join the intelligence community.",
       "anchored_artifacts": [],
@@ -1902,7 +1902,7 @@
       "investigative_direction": "Obtain Fort Huachuca's published mission and course catalog and any program open to civilians.",
       "transcript_snippet": "Civilians can be turned into intelligence assets on this base. They can take courses to join the intelligence community",
       "supports_claim_refs": [
-        "C-1969"
+        "C-4303"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -1910,8 +1910,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5299",
-      "ref": "C-5299",
+      "@id": "C-4304",
+      "ref": "C-4304",
       "label": "Email: two recently baptized Christians started a gym near Fort Huachuca in May 2013",
       "claim": "The host paraphrases an emailer who says their story begins in May 2013, when two recently baptized Christians in Sierra Vista put their savings into starting a gym whose clientele included people associated with the base.",
       "anchored_artifacts": [
@@ -1930,8 +1930,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5300",
-      "ref": "C-5300",
+      "@id": "C-4305",
+      "ref": "C-4305",
       "label": "Email: a founding-member couple allegedly staged a hostile takeover of the gym",
       "claim": "According to the emailer as relayed by the host, a couple who invested in the gym and became founding members allegedly staged a hostile takeover of the company, and the owners almost lost everything and had to downsize.",
       "anchored_artifacts": [
@@ -1950,8 +1950,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5301",
-      "ref": "C-5301",
+      "@id": "C-4307",
+      "ref": "C-4307",
       "label": "Email: a distressed soldier called Bruce Bevins the most evil man she had met",
       "claim": "According to the emailer, the distressed female soldier described Bruce Bevins as the most evil man she had ever met.",
       "anchored_artifacts": [
@@ -1970,8 +1970,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5302",
-      "ref": "C-5302",
+      "@id": "C-4308",
+      "ref": "C-4308",
       "label": "Email: writer recalled an incident with Bevins's wife",
       "claim": "According to the emailer, hearing the name Bruce Bevins, the writer immediately remembered an incident involving Bevins's wife.",
       "anchored_artifacts": [
@@ -1990,8 +1990,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5303",
-      "ref": "C-5303",
+      "@id": "C-4309",
+      "ref": "C-4309",
       "label": "Email: writer wonders whether the gym's destruction was a training exercise",
       "claim": "According to the emailer, the writer wonders whether the infiltration and destruction of the gym was a training exercise or field assignment, and whether the distressed soldier was sent to the gym on assignment from Bevins.",
       "anchored_artifacts": [
@@ -2010,8 +2010,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5304",
-      "ref": "C-5304",
+      "@id": "C-4311",
+      "ref": "C-4311",
       "label": "Email: some of Charlie's trusted people may have been trained operatives who infiltrated TPUSA",
       "claim": "According to the emailer, the writer is now wondering whether instructors like Bruce Bevins trained some individuals before they infiltrated Christian organizations like Turning Point USA, in light of reports that some of Charlie Kirk's most trusted people may have been trained operatives.",
       "anchored_artifacts": [
@@ -2032,8 +2032,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5305",
-      "ref": "C-5305",
+      "@id": "C-4312",
+      "ref": "C-4312",
       "label": "Host cannot confirm the Bevins allegations and has never heard of him",
       "claim": "The host says she cannot yet confirm the allegations against Bruce Bevins and has never heard of him, while saying she expects more emails after the show.",
       "anchored_artifacts": [
@@ -2047,7 +2047,7 @@
       "investigative_direction": "Verify Bevins's identity and role through Army and Fort Huachuca records before treating the email as corroborated.",
       "transcript_snippet": "Now, I obviously cannot confirm just yet. I'm sure after this show, we're going to get a bunch of emails.",
       "qualifies_claim_refs": [
-        "C-1976"
+        "C-4306"
       ],
       "mentions_person_refs": [
         "N-362",
@@ -2056,8 +2056,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5306",
-      "ref": "C-5306",
+      "@id": "C-4313",
+      "ref": "C-4313",
       "label": "Host says all roads lead to the front door of Turning Point USA Faith",
       "claim": "The host says she has been telling viewers that all roads, including the Egyptian and Israeli planes, lead to the front door of Turning Point USA Faith, and that she feels the email is a big piece of the puzzle.",
       "anchored_artifacts": [],
@@ -2074,8 +2074,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5307",
-      "ref": "C-5307",
+      "@id": "C-4314",
+      "ref": "C-4314",
       "label": "Host asks former Fort Huachuca course participants to email moretips",
       "claim": "The host asks anyone who took part in the alleged Christian-infiltration exercises at Fort Huachuca and has second thoughts to email her off the record at moretips@candaceowens.com.",
       "anchored_artifacts": [
@@ -2094,8 +2094,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5308",
-      "ref": "C-5308",
+      "@id": "C-4315",
+      "ref": "C-4315",
       "label": "Host says wall-to-wall panic followed mention of Fort Huachuca",
       "claim": "The host says that since she mentioned Fort Huachuca and the alleged September 9 meeting there has been wall-to-wall panic, with unhinged articles.",
       "anchored_artifacts": [],
@@ -2112,8 +2112,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5309",
-      "ref": "C-5309",
+      "@id": "C-4317",
+      "ref": "C-4317",
       "label": "Tucker Carlson asked where a man's money comes from at the TPUSA event",
       "claim": "The host says Tucker Carlson asked at the Turning Point USA event the question \"Where does this guy's money come from?\"",
       "anchored_artifacts": [],
@@ -2129,8 +2129,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5310",
-      "ref": "C-5310",
+      "@id": "C-4319",
+      "ref": "C-4319",
       "label": "Mitch says he was on a JTF6 border mission assigned from 10th Mountain",
       "claim": "Mitch says he was part of a mission to the border for JTF6, assigned from 10th Mountain, after a Marine Corps unit there had an incident and was replaced by a less kinetic unit.",
       "anchored_artifacts": [
@@ -2149,8 +2149,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5311",
-      "ref": "C-5311",
+      "@id": "C-4320",
+      "ref": "C-4320",
       "label": "Mitch says his team placed about 80 sensors along the border",
       "claim": "Mitch says his team placed about 80 sensors along the border, and that he did the hard work of installing them while following a Border Patrol agent on horseback.",
       "anchored_artifacts": [
@@ -2169,8 +2169,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5312",
-      "ref": "C-5312",
+      "@id": "C-4321",
+      "ref": "C-4321",
       "label": "Mitch says he triangulated the signals to an underground tunnel and passed on the location",
       "claim": "Mitch says he and a Border Patrol agent realized the signals came from an underground tunnel, triangulated them within minutes, and handed the location off, which gave the probable cause needed for a warrant and a raid coordinated with Mexican authorities.",
       "anchored_artifacts": [
@@ -2189,8 +2189,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5313",
-      "ref": "C-5313",
+      "@id": "C-4322",
+      "ref": "C-4322",
       "label": "Mitch says a photo found on the Mexican side showed a Border Patrol commander posing with Mexican and US military",
       "claim": "Mitch says one of the commanders working with the Border Patrol was photographed posing in a photo found on the Mexican side after the tunnel was built, along with other Mexican and US military personnel, indicating prior collaboration.",
       "anchored_artifacts": [
@@ -2209,8 +2209,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5314",
-      "ref": "C-5314",
+      "@id": "C-4323",
+      "ref": "C-4323",
       "label": "Mitch says the government believed 60 to 80 percent of cocaine came through Douglas, Arizona",
       "claim": "Mitch says there was a lot of suspicion that the federal government knew 60 to 80 percent of the cocaine was coming through the Douglas, Arizona area, which is why the task force was called JTF6.",
       "anchored_artifacts": [
@@ -2229,8 +2229,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5315",
-      "ref": "C-5315",
+      "@id": "C-4324",
+      "ref": "C-4324",
       "label": "Host's summary: Mitch's name was fed to cartels, forcing a name change and debt; Mitch agrees",
       "claim": "The host summarizes that after the tunnel discovery Mitch was gagged while his life was destroyed, his name was fed to the cartels, he changed his name, his family fell into debt and he has fought lawsuits; Mitch agrees it is a fair depiction.",
       "anchored_artifacts": [
@@ -2250,8 +2250,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5316",
-      "ref": "C-5316",
+      "@id": "C-4325",
+      "ref": "C-4325",
       "label": "Mitch says he incinerated about a ton of cocaine plus guns and money",
       "claim": "Mitch says that at the border he got to incinerate about a ton of cocaine along with a bunch of guns and money.",
       "anchored_artifacts": [
@@ -2270,8 +2270,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5317",
-      "ref": "C-5317",
+      "@id": "C-4326",
+      "ref": "C-4326",
       "label": "Mitch says a stranger with his personal information approached him in Naco, Arizona and a Border Patrol agent intervened",
       "claim": "Mitch says that after the operation he was approached in Naco, Arizona by someone who had personal information about him, and that a Border Patrol agent recognized the danger and took him back to base.",
       "anchored_artifacts": [
@@ -2290,8 +2290,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5318",
-      "ref": "C-5318",
+      "@id": "C-4327",
+      "ref": "C-4327",
       "label": "Mitch says photos from the Mexican side showed how his information reached the cartels",
       "claim": "Mitch says that by the time of the briefing the photos from the Mexican side had reached the American side and investigators could piece together how his information was fed to the other side.",
       "anchored_artifacts": [
@@ -2310,8 +2310,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5319",
-      "ref": "C-5319",
+      "@id": "C-4328",
+      "ref": "C-4328",
       "label": "Mitch says he has court documents and cases; host says he sent them to her",
       "claim": "Mitch says he has the court documents and court cases about the matter, and the host says he has sent them to her.",
       "anchored_artifacts": [
@@ -2331,8 +2331,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5320",
-      "ref": "C-5320",
+      "@id": "C-4329",
+      "ref": "C-4329",
       "label": "Mitch went to Fort Huachuca to get the original records and learn why the FBI was not updated on his status",
       "claim": "Mitch says he went to Fort Huachuca to get the original records and to find out why the FBI was not updated on his status.",
       "anchored_artifacts": [
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5321",
-      "ref": "C-5321",
+      "@id": "C-4330",
+      "ref": "C-4330",
       "label": "Host says the gag order expired in May and prompted the trip",
       "claim": "The host says Mitch's gag order or non-disclosure agreement expired in May of this year, after which he decided to go to Fort Huachuca for the original paperwork.",
       "anchored_artifacts": [
@@ -2366,8 +2366,8 @@
       "investigative_direction": "Obtain the original NDA and its stated end date from Mitch and the issuing agency.",
       "transcript_snippet": "And finally in May this of this year this this uh it expires right this this gag order expires",
       "supports_claim_refs": [
-        "C-1882",
-        "C-1970"
+        "C-3823",
+        "C-4318"
       ],
       "mentions_person_refs": [
         "N-361",
@@ -2376,8 +2376,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5322",
-      "ref": "C-5322",
+      "@id": "C-4331",
+      "ref": "C-4331",
       "label": "Mitch says anyone with ID, insurance and a purpose can typically get onto the base",
       "claim": "Mitch says people typically can get onto the base as long as they have ID, insurance and a purpose for being there, and that he did.",
       "anchored_artifacts": [
@@ -2396,8 +2396,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5323",
-      "ref": "C-5323",
+      "@id": "C-4332",
+      "ref": "C-4332",
       "label": "Mitch says the Candlewood hotel was the barracks he stayed in during his AIT training",
       "claim": "Mitch says the hotel where he checked in was actually the barracks he had during his AIT training, since converted.",
       "anchored_artifacts": [
@@ -2416,8 +2416,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5324",
-      "ref": "C-5324",
+      "@id": "C-4333",
+      "ref": "C-4333",
       "label": "Mitch describes a man in the lobby with a professional military sheen",
       "claim": "Mitch says that while checking in he saw a man on the couch who looked like he had a professional military sheen, possibly ex-special forces, aged roughly 33 to 40, who was waiting on something.",
       "anchored_artifacts": [
@@ -2437,8 +2437,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5325",
-      "ref": "C-5325",
+      "@id": "C-4334",
+      "ref": "C-4334",
       "label": "Mitch says the man and woman left in a shiny green GSA-type truck",
       "claim": "Mitch says the man and the woman got into a big green truck parked out front that looked like a shiny GSA vehicle and drove off.",
       "anchored_artifacts": [
@@ -2458,8 +2458,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5326",
-      "ref": "C-5326",
+      "@id": "C-4335",
+      "ref": "C-4335",
       "label": "Mitch says 10th Mountain personnel at a coffee shop told him they were there for JTF",
       "claim": "Mitch says he ran into 10th Mountain personnel at a coffee shop on the base who said they were there for JTF, and that he thinks he bought them coffee.",
       "anchored_artifacts": [
@@ -2478,8 +2478,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5327",
-      "ref": "C-5327",
+      "@id": "C-4337",
+      "ref": "C-4337",
       "label": "Mitch says the JTF building was a temporary setup with no gate guard",
       "claim": "Mitch says the building he was directed to was obviously a temporary setup for a new command, had no gate guard, and he thinks it had some barbed wire around the field and building.",
       "anchored_artifacts": [
@@ -2493,7 +2493,7 @@
       "investigative_direction": "Obtain imagery or construction and lease records for the temporary command site.",
       "transcript_snippet": "it was obviously a a temporary setup for this new command down there. Um There was no gate guard.",
       "supports_claim_refs": [
-        "C-1885"
+        "C-3833"
       ],
       "mentions_person_refs": [
         "N-361"
@@ -2501,8 +2501,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5328",
-      "ref": "C-5328",
+      "@id": "C-4338",
+      "ref": "C-4338",
       "label": "Mitch says the civilian-dressed group left in a GSA vehicle escorted by officers",
       "claim": "Mitch says the congressman-dressed man and the people with him were escorted out by lieutenant colonels and the unit sergeant major and got into one of the GSA vehicles.",
       "anchored_artifacts": [
@@ -2521,8 +2521,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5329",
-      "ref": "C-5329",
+      "@id": "C-4339",
+      "ref": "C-4339",
       "label": "Mitch says GSA reserves extra-shiny vehicles for VIP visitors",
       "claim": "Mitch says that at any GSA motor pool a reserved set of extra-shiny, nearly new vehicles is kept for VIPs.",
       "anchored_artifacts": [
@@ -2541,8 +2541,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5330",
-      "ref": "C-5330",
+      "@id": "C-4341",
+      "ref": "C-4341",
       "label": "Mitch says another GSA vehicle pulled up and he saw who got in it",
       "claim": "Mitch says that while officers surrounded him a GSA vehicle, possibly the same one, pulled up to the building and he saw who got in it.",
       "anchored_artifacts": [
@@ -2562,8 +2562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5331",
-      "ref": "C-5331",
+      "@id": "C-4342",
+      "ref": "C-4342",
       "label": "Mitch says officers mentioned a bomb threat and wanted to check his vehicle",
       "claim": "Mitch says the officers interrogated him, mentioned a bomb threat and wanted to check his vehicle, saying that because he was special forces he must be some sort of threat.",
       "anchored_artifacts": [
@@ -2582,8 +2582,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5332",
-      "ref": "C-5332",
+      "@id": "C-4343",
+      "ref": "C-4343",
       "label": "Mitch says he was taken to the CID building, recorded, and given a report number",
       "claim": "Mitch says he was taken to the CID building, recorded, and given a report number, which he gave to the host.",
       "anchored_artifacts": [
@@ -2597,7 +2597,7 @@
       "investigative_direction": "Request the incident report under that number from Fort Huachuca CID or the provost marshal.",
       "transcript_snippet": "They did give me a report number to go ahead and and you you went ahead and I gave that to you.",
       "supports_claim_refs": [
-        "C-1889"
+        "C-3852"
       ],
       "mentions_person_refs": [
         "N-361",
@@ -2606,8 +2606,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5333",
-      "ref": "C-5333",
+      "@id": "C-4344",
+      "ref": "C-4344",
       "label": "Mitch says CID answered none of his questions and gave him no documentation",
       "claim": "Mitch says CID did not answer any of the questions he came with and did not give him the documentation he wanted.",
       "anchored_artifacts": [
@@ -2626,8 +2626,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5334",
-      "ref": "C-5334",
+      "@id": "C-4345",
+      "ref": "C-4345",
       "label": "Mitch says officers repeatedly cited 24 hours and told him to stay off base",
       "claim": "Mitch says officers kept repeating a 24-hour figure, looked for any excuse to hold him for 24 hours, and eventually told him to stay off the base for 24 hours.",
       "anchored_artifacts": [
@@ -2646,8 +2646,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5335",
-      "ref": "C-5335",
+      "@id": "C-4346",
+      "ref": "C-4346",
       "label": "Mitch says he learned of Charlie Kirk's shooting after a stop in Salt Lake City",
       "claim": "Mitch says he flew out after a night in Tucson with a stop in Salt Lake City, and that by the time they landed the news about Charlie Kirk was out.",
       "anchored_artifacts": [
@@ -2667,8 +2667,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5336",
-      "ref": "C-5336",
+      "@id": "C-4349",
+      "ref": "C-4349",
       "label": "Host says she confirmed the location and meeting with people currently at Fort Huachuca",
       "claim": "The host says she can confirm every step of where Mitch went and when, that a big meeting happened, and that she confirmed the location with other people currently at Fort Huachuca and with metadata, but cannot confirm who he saw.",
       "anchored_artifacts": [
@@ -2682,7 +2682,7 @@
       "investigative_direction": "Ask the host to document who on base confirmed the location and what they confirmed, without exposing sources.",
       "transcript_snippet": "I confirmed the location with other people that are that are on uh, Fort Huachuca currently.",
       "supports_claim_refs": [
-        "C-1971"
+        "C-4316"
       ],
       "mentions_person_refs": [
         "N-361",
@@ -2691,8 +2691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5337",
-      "ref": "C-5337",
+      "@id": "C-4350",
+      "ref": "C-4350",
       "label": "Host says Erika Kirk has said her mother moved to Arizona after getting involved with the military",
       "claim": "The host says Erika Kirk has been open that her mother moved to Arizona because she got involved with the military.",
       "anchored_artifacts": [],
@@ -2710,8 +2710,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5338",
-      "ref": "C-5338",
+      "@id": "C-4352",
+      "ref": "C-4352",
       "label": "Host says a call sign confirmed a heavy-duty person at Fort Huachuca who turned off the transponder",
       "claim": "The host says that, based on a call sign, she and her team confirmed that someone heavy duty was at Fort Huachuca that morning who made sure to turn off their transponder.",
       "anchored_artifacts": [
@@ -2727,7 +2727,7 @@
       "investigative_direction": "Obtain flight-tracking archives and FAA or military records for the call sign at Fort Huachuca on September 9, 2025.",
       "transcript_snippet": "We were able to confirm based on a call sign that there was somebody heavy duty that was at Fort Huachuca airbase Fort Huachuca, pardon. On that morning who made sure to turn off their transponder.",
       "supports_claim_refs": [
-        "C-1906"
+        "C-3962"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2735,8 +2735,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5339",
-      "ref": "C-5339",
+      "@id": "C-4353",
+      "ref": "C-4353",
       "label": "Host says the call sign changed at a certain time, suggesting a handoff to a congressman",
       "claim": "The host says the call sign did change at a certain time, which she says lets us know it could have been moved to a congressman.",
       "anchored_artifacts": [
@@ -2751,7 +2751,7 @@
       "investigative_direction": "Document the call-sign change time from flight-tracking data and the registered operator before and after it.",
       "transcript_snippet": "that call sign did change at a certain time which lets us know that then it could have been moved to a congressman.",
       "supports_claim_refs": [
-        "C-1906"
+        "C-3962"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2759,8 +2759,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5340",
-      "ref": "C-5340",
+      "@id": "C-4354",
+      "ref": "C-4354",
       "label": "Host floats Kash Patel as a possible unseen person (speculation)",
       "claim": "The host speculates that the person Mitch was blocked from seeing might be Kash Patel, adding that it could also not be him.",
       "anchored_artifacts": [],
@@ -2778,8 +2778,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5341",
-      "ref": "C-5341",
+      "@id": "C-4355",
+      "ref": "C-4355",
       "label": "Host believes officers surrounded Mitch to keep him from seeing who walked out",
       "claim": "The host says she believes the officers surrounded Mitch to make sure he could not see who was walking out.",
       "anchored_artifacts": [],
@@ -2797,8 +2797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5342",
-      "ref": "C-5342",
+      "@id": "C-4356",
+      "ref": "C-4356",
       "label": "Host says she is being sued by a transatlantic president",
       "claim": "The host says she is being sued by a transatlantic president overseas for trying to tell the truth.",
       "anchored_artifacts": [],
@@ -2815,8 +2815,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5343",
-      "ref": "C-5343",
+      "@id": "C-4357",
+      "ref": "C-4357",
       "label": "Host pledges to help Mitch raise money for lawsuits against the federal government",
       "claim": "The host tells Mitch she intends to help him raise money to go through lawsuits with the federal government.",
       "anchored_artifacts": [],
@@ -2834,8 +2834,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5344",
-      "ref": "C-5344",
+      "@id": "C-4358",
+      "ref": "C-4358",
       "label": "Host Says 51,000 Emails Sat Unanswered in the Tip Inbox",
       "claim": "The host tells Mitch there were literally 51,000 unanswered emails in that tip inbox.",
       "anchored_artifacts": [],
@@ -2851,8 +2851,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5345",
-      "ref": "C-5345",
+      "@id": "C-4359",
+      "ref": "C-4359",
       "label": "Host says she called four minutes after the email was sent",
       "claim": "The host says she called Mitch about four minutes after his email was sent, and that she handled it herself instead of sending it to her producer.",
       "anchored_artifacts": [],
@@ -2868,8 +2868,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5346",
-      "ref": "C-5346",
+      "@id": "C-4360",
+      "ref": "C-4360",
       "label": "Host says she will set up a GiveSendGo for Mitch and his family",
       "claim": "The host says she will set up a GiveSendGo fundraiser for Mitch and his family and has seen the legal paperwork showing what they have endured.",
       "anchored_artifacts": [],
@@ -2887,8 +2887,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5347",
-      "ref": "C-5347",
+      "@id": "C-4361",
+      "ref": "C-4361",
       "label": "Host says she believes the government was involved in the killing and the cover-up",
       "claim": "The host says she believes the government was involved in Charlie Kirk's killing and is involved in the cover-up.",
       "anchored_artifacts": [],
@@ -2904,8 +2904,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5348",
-      "ref": "C-5348",
+      "@id": "C-4362",
+      "ref": "C-4362",
       "label": "Host says Josh Hammer lied and is protected",
       "claim": "The host says Josh Hammer lied and that people with high-up military connections go out of their way to protect individuals like him.",
       "anchored_artifacts": [],

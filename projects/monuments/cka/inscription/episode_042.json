@@ -27,8 +27,8 @@
           "ref": "A-1501.1",
           "description": "Segment: \"Gina\" caller question on invitation mechanics",
           "related_claims": [
-            "C-1839",
-            "C-1840"
+            "C-3655",
+            "C-3660"
           ],
           "related_nodes": [
             "N-311",
@@ -50,9 +50,9 @@
           "ref": "A-1501.2",
           "description": "Segment: Blake Neff response – Erika Kirk direction and in-person rationale",
           "related_claims": [
-            "C-1839",
-            "C-1840",
-            "C-1841"
+            "C-3655",
+            "C-3660",
+            "C-3668"
           ],
           "related_nodes": [
             "N-159",
@@ -81,7 +81,7 @@
           "ref": "A-1502.1",
           "description": "Blake Neff prior statement: Phoenix live stream \"sincere\" invitation",
           "related_claims": [
-            "C-1842"
+            "C-3707"
           ],
           "related_nodes": [
             "N-159",
@@ -109,7 +109,7 @@
           "ref": "A-1503.1",
           "description": "Audio clip and read-aloud lyric excerpt of \"The Assassination of Candace Owens\"",
           "related_claims": [
-            "C-1843"
+            "C-3678"
           ],
           "related_nodes": [
             "N-304",
@@ -161,8 +161,8 @@
           "ref": "A-1505.1",
           "description": "Footage segment: young men alone wearing maroon shirts in crowd",
           "related_claims": [
-            "C-1844",
-            "C-1847"
+            "C-3679",
+            "C-3704"
           ],
           "related_nodes": [
             "N-10311",
@@ -182,8 +182,8 @@
           "ref": "A-1505.2",
           "description": "Footage segment: Jacob Kasparian not ducking after shot",
           "related_claims": [
-            "C-1848",
-            "C-1849"
+            "C-3689",
+            "C-3691"
           ],
           "related_nodes": [
             "N-307",
@@ -202,7 +202,7 @@
           "ref": "A-1505.3",
           "description": "Footage segment: Jacob Kasparian recording (grainy superimposition)",
           "related_claims": [
-            "C-1849"
+            "C-3691"
           ],
           "related_nodes": [
             "N-307",
@@ -221,7 +221,7 @@
           "ref": "A-1505.4",
           "description": "Jacob Kasparian earlier-day social media post (dyed blue shirt)",
           "related_claims": [
-            "C-1850"
+            "C-3690"
           ],
           "related_nodes": [
             "N-307",
@@ -240,9 +240,9 @@
           "ref": "A-1505.5",
           "description": "Adam Bartholomew live-stream footage (full event)",
           "related_claims": [
-            "C-1851",
-            "C-1852",
-            "C-1853"
+            "C-3695",
+            "C-3696",
+            "C-3698"
           ],
           "related_nodes": [
             "N-308",
@@ -262,7 +262,7 @@
           "ref": "A-1505.6",
           "description": "Video segment: a person holding a maroon shirt",
           "related_claims": [
-            "C-1847"
+            "C-3704"
           ],
           "related_nodes": [
             "N-10311"
@@ -288,7 +288,7 @@
           "ref": "A-1506.1",
           "description": "Tweet: \"Of course, it's not how you book a guest. We are not booking a guest…\"",
           "related_claims": [
-            "C-1854"
+            "C-3700"
           ],
           "related_nodes": [
             "N-159",
@@ -315,7 +315,7 @@
           "ref": "A-1507.1",
           "description": "Announcement of Charlie Kirk Show falling to #94 on Apple Podcasts",
           "related_claims": [
-            "C-1855"
+            "C-3681"
           ],
           "related_nodes": [
             "N-1",
@@ -342,7 +342,7 @@
           "ref": "A-1508.1",
           "description": "PBS News clip of Emmanuel Bierer describing UVU event",
           "related_claims": [
-            "C-1856"
+            "C-3713"
           ],
           "related_nodes": [
             "N-310",
@@ -369,9 +369,9 @@
           "ref": "A-1509.1",
           "description": "Host follow-up phone-call summary with side-angle roof video shooter",
           "related_claims": [
-            "C-1857",
-            "C-1858",
-            "C-1859"
+            "C-3714",
+            "C-3719",
+            "C-3715"
           ],
           "related_nodes": [
             "N-10314"
@@ -397,7 +397,7 @@
           "ref": "A-1510.1",
           "description": "Email quotes from current/former military personnel on maroon color conventions",
           "related_claims": [
-            "C-1860"
+            "C-3659"
           ],
           "related_nodes": [
             "N-10311"
@@ -423,7 +423,7 @@
           "ref": "A-1511.1",
           "description": "Tweet from Carrie Bartholomew confirming she was in courtyard during shot",
           "related_claims": [
-            "C-1852"
+            "C-3696"
           ],
           "related_nodes": [
             "N-309",
@@ -476,7 +476,7 @@
           "ref": "A-3205.1",
           "description": "Host reads the top viewer comment saying TPUSA took three months to respond then gave 24 hours",
           "related_claims": [
-            "C-12417"
+            "C-3652"
           ],
           "related_nodes": [
             "N-3"
@@ -493,7 +493,7 @@
           "ref": "A-3205.2",
           "description": "Host reads a viewer comment about a news station talking to memorial attendees for three hours",
           "related_claims": [
-            "C-12459"
+            "C-3712"
           ],
           "related_nodes": [
             "N-3"
@@ -510,8 +510,8 @@
           "ref": "A-3205.3",
           "description": "Host reads a viewer comment calling Blake Neff a man fired by Tucker Carlson for racist remarks",
           "related_claims": [
-            "C-12464",
-            "C-12465"
+            "C-3721",
+            "C-3722"
           ],
           "related_nodes": [
             "N-3"
@@ -528,7 +528,7 @@
           "ref": "A-3205.4",
           "description": "Host reads a viewer comment about a Bari Weiss interview of Erika Kirk on December 13",
           "related_claims": [
-            "C-12474"
+            "C-3732"
           ],
           "related_nodes": [
             "N-3"
@@ -553,8 +553,8 @@
           "ref": "A-3206.1",
           "description": "Host verbal reference to a TikTok user's claim about family footage and an FBI deletion request, and to footage he sent her (nothing shown)",
           "related_claims": [
-            "C-12438",
-            "C-12439"
+            "C-3683",
+            "C-3684"
           ],
           "related_nodes": [
             "N-3"
@@ -579,7 +579,7 @@
           "ref": "A-3207.1",
           "description": "Host verbal reference to the tip email address more tips at candaceowens.com (verbal call for tips)",
           "related_claims": [
-            "C-12450"
+            "C-3701"
           ],
           "related_nodes": [
             "N-3"
@@ -609,9 +609,9 @@
         "A-1512.1"
       ],
       "related_claims": [
-        "C-1839",
-        "C-1843",
-        "C-1855"
+        "C-3655",
+        "C-3678",
+        "C-3681"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -632,11 +632,11 @@
         "A-1506.1"
       ],
       "related_claims": [
-        "C-1839",
-        "C-1840",
-        "C-1841",
-        "C-1842",
-        "C-1854"
+        "C-3655",
+        "C-3660",
+        "C-3668",
+        "C-3707",
+        "C-3700"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -680,7 +680,7 @@
         "A-1503.1"
       ],
       "related_claims": [
-        "C-1843"
+        "C-3678"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -704,9 +704,9 @@
         "A-1505.4"
       ],
       "related_claims": [
-        "C-1848",
-        "C-1849",
-        "C-1850"
+        "C-3689",
+        "C-3691",
+        "C-3690"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -728,8 +728,8 @@
         "A-1505.5"
       ],
       "related_claims": [
-        "C-1851",
-        "C-1853"
+        "C-3695",
+        "C-3698"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -752,7 +752,7 @@
         "A-1511.1"
       ],
       "related_claims": [
-        "C-1852"
+        "C-3696"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -775,7 +775,7 @@
         "A-1508.1"
       ],
       "related_claims": [
-        "C-1856"
+        "C-3713"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -825,16 +825,16 @@
         "A-1511.1"
       ],
       "related_claims": [
-        "C-1844",
-        "C-1847",
-        "C-1848",
-        "C-1849",
-        "C-1850",
-        "C-1851",
-        "C-1852",
-        "C-1853",
-        "C-1854",
-        "C-1860"
+        "C-3679",
+        "C-3704",
+        "C-3689",
+        "C-3691",
+        "C-3690",
+        "C-3695",
+        "C-3696",
+        "C-3698",
+        "C-3700",
+        "C-3659"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -858,7 +858,7 @@
         "A-1507.1"
       ],
       "related_claims": [
-        "C-1855"
+        "C-3681"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -884,12 +884,12 @@
         "A-1512.1"
       ],
       "related_claims": [
-        "C-1839",
-        "C-1840",
-        "C-1841",
-        "C-1842",
-        "C-1854",
-        "C-1861"
+        "C-3655",
+        "C-3660",
+        "C-3668",
+        "C-3707",
+        "C-3700",
+        "C-3663"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -914,9 +914,9 @@
         "A-1509.1"
       ],
       "related_claims": [
-        "C-1857",
-        "C-1858",
-        "C-1859"
+        "C-3714",
+        "C-3719",
+        "C-3715"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -935,7 +935,7 @@
         "A-1508.1"
       ],
       "related_claims": [
-        "C-1856"
+        "C-3713"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -955,53 +955,53 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12417",
-        "C-12418",
-        "C-12421",
-        "C-12422",
-        "C-12423",
-        "C-12425",
-        "C-12426",
-        "C-12427",
-        "C-12428",
-        "C-12429",
-        "C-12430",
-        "C-12432",
-        "C-12433",
-        "C-12434",
-        "C-12436",
-        "C-12437",
-        "C-12438",
-        "C-12439",
-        "C-12440",
-        "C-12441",
-        "C-12445",
-        "C-12446",
-        "C-12447",
-        "C-12449",
-        "C-12450",
-        "C-12451",
-        "C-12452",
-        "C-12453",
-        "C-12455",
-        "C-12457",
-        "C-12458",
-        "C-12459",
-        "C-12460",
-        "C-12461",
-        "C-12462",
-        "C-12463",
-        "C-12465",
-        "C-12466",
-        "C-12467",
-        "C-12468",
-        "C-12469",
-        "C-12470",
-        "C-12471",
-        "C-12472",
-        "C-12473",
-        "C-12475",
-        "C-12476"
+        "C-3652",
+        "C-3654",
+        "C-3658",
+        "C-3661",
+        "C-3662",
+        "C-3665",
+        "C-3666",
+        "C-3667",
+        "C-3669",
+        "C-3670",
+        "C-3671",
+        "C-3673",
+        "C-3674",
+        "C-3675",
+        "C-3677",
+        "C-3680",
+        "C-3683",
+        "C-3684",
+        "C-3682",
+        "C-3685",
+        "C-3692",
+        "C-3693",
+        "C-3694",
+        "C-3699",
+        "C-3701",
+        "C-3702",
+        "C-3703",
+        "C-3705",
+        "C-3708",
+        "C-3710",
+        "C-3711",
+        "C-3712",
+        "C-3716",
+        "C-3717",
+        "C-3718",
+        "C-3720",
+        "C-3722",
+        "C-3724",
+        "C-3725",
+        "C-3726",
+        "C-3727",
+        "C-3728",
+        "C-3729",
+        "C-3730",
+        "C-3731",
+        "C-3733",
+        "C-3734"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1019,7 +1019,7 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12463"
+        "C-3720"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1037,11 +1037,11 @@
       "description": "TPUSA CEO whose direction of the response is disputed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12429",
-        "C-12430",
-        "C-12472",
-        "C-12474",
-        "C-12475"
+        "C-3670",
+        "C-3671",
+        "C-3730",
+        "C-3732",
+        "C-3733"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1058,7 +1058,7 @@
       "description": "Named by the host as a late-night tweeter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12431"
+        "C-3672"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1075,9 +1075,9 @@
       "description": "Subject of the comment about Neff's past employment and the host's planned inquiry.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12464",
-        "C-12465",
-        "C-12468"
+        "C-3721",
+        "C-3722",
+        "C-3726"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1094,7 +1094,7 @@
       "description": "The host's husband, whose scheduling for December 15 the host cites.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12432"
+        "C-3673"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1111,7 +1111,7 @@
       "description": "The person the host's remark about Tiffany Barker names (transcribed as Phil Lyman).",
       "related_artifacts": [],
       "related_claims": [
-        "C-12453"
+        "C-3705"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1128,7 +1128,7 @@
       "description": "Named in the host's aside.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12467"
+        "C-3725"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1145,7 +1145,7 @@
       "description": "Cited by the host as an example of how a witness got a news hit.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12453"
+        "C-3705"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1162,8 +1162,8 @@
       "description": "Subject of the comment and host remark about an interview of Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12474",
-        "C-12475"
+        "C-3732",
+        "C-3733"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1180,7 +1180,7 @@
       "description": "Source of the remark the host attributes to him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12468"
+        "C-3726"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1197,11 +1197,11 @@
       "description": "Organization at the center of the invitation dispute.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12417",
-        "C-12419",
-        "C-12426",
-        "C-12431",
-        "C-12473"
+        "C-3652",
+        "C-3656",
+        "C-3666",
+        "C-3672",
+        "C-3731"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1218,9 +1218,9 @@
       "description": "The host's theory that the maroon men were coordinated.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12446",
-        "C-12449",
-        "C-12450"
+        "C-3693",
+        "C-3699",
+        "C-3701"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1237,7 +1237,7 @@
       "description": "The Phoenix studio setting of the live stream.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12428"
+        "C-3669"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1254,8 +1254,8 @@
       "description": "The claims about his work for Tucker Carlson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12464",
-        "C-12465"
+        "C-3721",
+        "C-3722"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1272,8 +1272,8 @@
       "description": "The host reports that a TikTok user claimed that, after he submitted videos shot by a family member to the FBI, the FBI asked him to delete the footage. The host says she does not know whether it is true and that the same individual later sent her footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12438",
-        "C-12439"
+        "C-3683",
+        "C-3684"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1290,9 +1290,9 @@
       "description": "First named by the host at 00:17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12434",
-        "C-12435",
-        "C-12436"
+        "C-3675",
+        "C-3676",
+        "C-3677"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1304,8 +1304,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1839",
-      "ref": "C-1839",
+      "@id": "C-3655",
+      "ref": "C-3655",
       "label": "Blake Neff stated TPUSA invitation response was at direction and approval of Erika Kirk",
       "claim": "On the Charlie Kirk Show, Blake Neff stated that the invitation-response announcement and all related actions were taken at the request, direction, and approval of Erika Kirk.",
       "anchored_artifacts": [
@@ -1324,8 +1324,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1840",
-      "ref": "C-1840",
+      "@id": "C-3660",
+      "ref": "C-3660",
       "label": "Blake Neff stated it is \"intuitive\" that in-person attendance is critical for authenticity",
       "claim": "On the Charlie Kirk Show, Blake Neff stated, \"I think it's pretty intuitive that given what is being said ... it's critical to be in person if you want to be authentic and to be detailed.\"",
       "anchored_artifacts": [
@@ -1343,8 +1343,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1841",
-      "ref": "C-1841",
+      "@id": "C-3668",
+      "ref": "C-3668",
       "label": "Blake Neff's prior \"sincere\" Phoenix invitation did not require in-person attendance",
       "claim": "In his earlier invitation statement, which the host reads aloud, Blake Neff said that if Candace is available TPUSA \"would sincerely welcome her participation in that live stream at our studio in Phoenix\"; the host says this was not a demand to be there in person.",
       "anchored_artifacts": [
@@ -1363,8 +1363,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1842",
-      "ref": "C-1842",
+      "@id": "C-3707",
+      "ref": "C-3707",
       "label": "The Game's released track contains the question \"Who really killed Charlie Kirk?\"",
       "claim": "The Game's song \"The Assassination of Candace Owens\" (audio excerpt and lyric read) includes the line \"Who really killed Charlie Kirk?\"",
       "anchored_artifacts": [
@@ -1382,8 +1382,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1843",
-      "ref": "C-1843",
+      "@id": "C-3678",
+      "ref": "C-3678",
       "label": "UVU school colors are green and white, not maroon",
       "claim": "The host says that when she asked someone at UVU whether the school colors are maroon, he replied that they are green and white.",
       "anchored_artifacts": [],
@@ -1396,8 +1396,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1844",
-      "ref": "C-1844",
+      "@id": "C-3679",
+      "ref": "C-3679",
       "label": "Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts",
       "claim": "The host says footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.",
       "anchored_artifacts": [
@@ -1413,8 +1413,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1845",
-      "ref": "C-1845",
+      "@id": "C-3723",
+      "ref": "C-3723",
       "label": "Blake Neff X post states invitation was not guest booking and Candace declined",
       "claim": "Blake Neff posted on X that the invitation was \"not how you book a guest,\" that TPUSA \"never said that we were\" booking a guest, and that Candace \"was given the opportunity to join and declined.\"",
       "anchored_artifacts": [
@@ -1433,8 +1433,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1846",
-      "ref": "C-1846",
+      "@id": "C-3653",
+      "ref": "C-3653",
       "label": "Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts",
       "claim": "Per a tweet the host reads, The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior top-10 ranking and a prior #1 placement while Kirk was alive.",
       "anchored_artifacts": [
@@ -1452,8 +1452,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1847",
-      "ref": "C-1847",
+      "@id": "C-3704",
+      "ref": "C-3704",
       "label": "PBS featured Emmanuel Bierer as eyewitness in Salt Lake City",
       "claim": "The host says PBS and other networks featured Emmanuel Bierer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him.",
       "anchored_artifacts": [
@@ -1471,8 +1471,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1848",
-      "ref": "C-1848",
+      "@id": "C-3689",
+      "ref": "C-3689",
       "label": "Host Says Jacob Kasparian Did Not Duck After the Shot Went Off",
       "claim": "The host says UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.",
       "anchored_artifacts": [
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1849",
-      "ref": "C-1849",
+      "@id": "C-3691",
+      "ref": "C-3691",
       "label": "Jacob Kasparian recorded the event on his phone",
       "claim": "The host says footage and a grainy superimposed image she shows depict Jacob Kasparian recording the event on his phone.",
       "anchored_artifacts": [
@@ -1509,8 +1509,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1850",
-      "ref": "C-1850",
+      "@id": "C-3690",
+      "ref": "C-3690",
       "label": "Jacob Kasparian's earlier-day social media post depicted a different shirt",
       "claim": "The host says Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.",
       "anchored_artifacts": [
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1851",
-      "ref": "C-1851",
+      "@id": "C-3695",
+      "ref": "C-3695",
       "label": "Host Says Adam Bartholomew Live-Streamed the Entire UVU Event",
       "claim": "The host says Adam Bartholomew live-streamed the entire UVU event on September 10.",
       "anchored_artifacts": [
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1852",
-      "ref": "C-1852",
+      "@id": "C-3696",
+      "ref": "C-3696",
       "label": "Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot",
       "claim": "The host says Carrie Bartholomew posted a photo and a tweet confirming where she was when the shot went off; the tweet the host reads says \"When we thought laying in the courtyard that we were about to get shot in the back or in the head\". The host separately says Carrie was standing by the bush.",
       "anchored_artifacts": [
@@ -1567,8 +1567,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1853",
-      "ref": "C-1853",
+      "@id": "C-3698",
+      "ref": "C-3698",
       "label": "Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot",
       "claim": "The host says that in his livestream footage Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.",
       "anchored_artifacts": [
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1854",
-      "ref": "C-1854",
+      "@id": "C-3700",
+      "ref": "C-3700",
       "label": "Tyler Robinson was wearing a maroon shirt at the event",
       "claim": "The host says Tyler Robinson, the alleged shooter, notoriously was wearing a maroon shirt at the UVU event.",
       "anchored_artifacts": [],
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1855",
-      "ref": "C-1855",
+      "@id": "C-3681",
+      "ref": "C-3681",
       "label": "Multiple email correspondents state maroon is associated with airborne forces in multiple militaries",
       "claim": "In emails the host reads from people she says are past or present military, one writer says airborne forces wear maroon in the UK, the USA, France and dozens of other militaries, and another says undercover police and FBI units often use a \"color of the day\" or unit color as a signal to others on the same mission.",
       "anchored_artifacts": [
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1856",
-      "ref": "C-1856",
+      "@id": "C-3713",
+      "ref": "C-3713",
       "label": "Only two videos of the alleged shooter on the roof exist",
       "claim": "Per host recollection, there are only two videos showing the alleged shooter on the roof – one from the side showing a crouched figure holding a gun.",
       "anchored_artifacts": [
@@ -1636,8 +1636,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1857",
-      "ref": "C-1857",
+      "@id": "C-3714",
+      "ref": "C-3714",
       "label": "Roof video caller did not see subject take the shot and observed no recoil",
       "claim": "The host says the individual who shot one of the two roof videos told her in a follow-up call that he did not see the subject take the shot and saw no recoil.",
       "anchored_artifacts": [
@@ -1652,8 +1652,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1858",
-      "ref": "C-1858",
+      "@id": "C-3719",
+      "ref": "C-3719",
       "label": "Roof video caller reports no contact from Robinson's defense or federal authorities",
       "claim": "The host says the roof video caller told her that Tyler Robinson's defense lawyer had not reached out to him, and that federal authorities had not reached out since she called him.",
       "anchored_artifacts": [
@@ -1671,8 +1671,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1859",
-      "ref": "C-1859",
+      "@id": "C-3715",
+      "ref": "C-3715",
       "label": "Roof video caller reports firearms-instruction background",
       "claim": "The host says the roof video caller has experience with guns and teaches people to shoot.",
       "anchored_artifacts": [
@@ -1687,8 +1687,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1860",
-      "ref": "C-1860",
+      "@id": "C-3659",
+      "ref": "C-3659",
       "label": "Blake Neff Says Erika Kirk Heads This",
       "claim": "In a clip the host plays, Blake Neff says Erika Kirk 'heads this'.",
       "anchored_artifacts": [
@@ -1707,8 +1707,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1861",
-      "ref": "C-1861",
+      "@id": "C-3663",
+      "ref": "C-3663",
       "label": "Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15",
       "claim": "In a clip of The Charlie Kirk Show that the host plays, Blake Neff says a TPUSA response live stream is going forward and was announced for December 15 (2025).",
       "anchored_artifacts": [
@@ -1726,8 +1726,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12417",
-      "ref": "C-12417",
+      "@id": "C-3652",
+      "ref": "C-3652",
       "label": "Top Comment Says TPUSA Took Three Months to Respond Then Gave 24 Hours",
       "claim": "The host reads a top viewer comment saying that TPUSA took three months to respond and then gave the host 24 hours to respond to its invitation.",
       "anchored_artifacts": [
@@ -1749,8 +1749,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12418",
-      "ref": "C-12418",
+      "@id": "C-3654",
+      "ref": "C-3654",
       "label": "Caller Gina Says Invitation Tweet Posted at Midnight and Host Saw It Nine Hours Later",
       "claim": "Caller Gina tells Blake Neff on the Charlie Kirk Show that, as she understands it, the invitation to the host was tweeted at midnight and the host did not see it until about nine hours later.",
       "anchored_artifacts": [
@@ -1766,7 +1766,7 @@
       "investigative_direction": "Pull the timestamp of Neff's invitation post on X and compare it with when the host first responded publicly.",
       "transcript_snippet": "it was issued Blake I think at 12 on a tweet that you had but or midnight 12 not noon midnight and so it was like nine hours later before she even knew",
       "supports_claim_refs": [
-        "C-1832"
+        "C-3610"
       ],
       "mentions_person_refs": [
         "N-311",
@@ -1776,8 +1776,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12419",
-      "ref": "C-12419",
+      "@id": "C-3656",
+      "ref": "C-3656",
       "label": "Neff Says TPUSA Initially Thought No One Would Believe the Claims",
       "claim": "Blake Neff says TPUSA did not address the host's claims for a long time because it initially thought no one would believe a lot of what was said and remembered the friendship Charlie had with her.",
       "anchored_artifacts": [
@@ -1801,8 +1801,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12420",
-      "ref": "C-12420",
+      "@id": "C-3657",
+      "ref": "C-3657",
       "label": "Neff Says No Date Was Agreed When He Read the Statement",
       "claim": "Blake Neff says that when he read the initial statement on the show TPUSA had not yet agreed on a date and would announce one later.",
       "anchored_artifacts": [
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12421",
-      "ref": "C-12421",
+      "@id": "C-3658",
+      "ref": "C-3658",
       "label": "Neff Says Host Is Free to Attend in Person Once a Date Is Announced",
       "claim": "Blake Neff says that once TPUSA announced the date, the host was free to attend in person.",
       "anchored_artifacts": [
@@ -1846,8 +1846,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12422",
-      "ref": "C-12422",
+      "@id": "C-3661",
+      "ref": "C-3661",
       "label": "Neff Says Host Said Name the Time and Place and TPUSA Did",
       "claim": "Blake Neff says the host had said \"you name the time, you name the place,\" and that TPUSA did exactly that.",
       "anchored_artifacts": [
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12423",
-      "ref": "C-12423",
+      "@id": "C-3662",
+      "ref": "C-3662",
       "label": "Neff Says Host Had No Difficulty Finding the Scheduled Time",
       "claim": "Blake Neff says he does not think the host had any difficulty finding out TPUSA's scheduled time because everyone found it out quite quickly.",
       "anchored_artifacts": [
@@ -1892,8 +1892,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12424",
-      "ref": "C-12424",
+      "@id": "C-3664",
+      "ref": "C-3664",
       "label": "Host Says Kolvet Was Remote While Neff Said In Person Is Critical",
       "claim": "The host says that Andrew Kolvet was live streaming with Blake Neff and was not physically present while Neff said attendance must be in person to be authentic.",
       "anchored_artifacts": [
@@ -1915,8 +1915,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12425",
-      "ref": "C-12425",
+      "@id": "C-3665",
+      "ref": "C-3665",
       "label": "Host Says Her Most Viral Debates Were Never In Person",
       "claim": "The host says her most contentious and most viral debates have never been held in person.",
       "anchored_artifacts": [],
@@ -1935,8 +1935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12426",
-      "ref": "C-12426",
+      "@id": "C-3666",
+      "ref": "C-3666",
       "label": "Host Says Original Offer Set No In-Person or 24-Hour Requirement",
       "claim": "The host says TPUSA's original offer did not make in-person attendance a demand and did not say she had to respond within 24 hours.",
       "anchored_artifacts": [
@@ -1953,7 +1953,7 @@
       "investigative_direction": "Compare the original December 3 statement and TPUSA posts for any mention of an in-person condition or a deadline.",
       "transcript_snippet": "They never made in person a point of their demands. Um they never also said that I had to respond within 24 hours.",
       "supports_claim_refs": [
-        "C-1841"
+        "C-3668"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -1961,8 +1961,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12427",
-      "ref": "C-12427",
+      "@id": "C-3667",
+      "ref": "C-3667",
       "label": "Host Says Her Husband Ruled Out Monday",
       "claim": "The host says her husband instantly told her she could not do Monday.",
       "anchored_artifacts": [],
@@ -1982,8 +1982,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12428",
-      "ref": "C-12428",
+      "@id": "C-3669",
+      "ref": "C-3669",
       "label": "Neff's Earlier Statement Placed the Live Stream at TPUSA's Phoenix Studio",
       "claim": "In the earlier statement the host reads aloud, Blake Neff says TPUSA would sincerely welcome the host's participation in the live stream at its studio in Phoenix.",
       "anchored_artifacts": [
@@ -2000,7 +2000,7 @@
       "investigative_direction": "Obtain the original statement text and video to verify the wording.",
       "transcript_snippet": "If Candace is available, we would sincerely welcome her participation in that live stream at our studio in Phoenix.",
       "supports_claim_refs": [
-        "C-1841"
+        "C-3668"
       ],
       "mentions_person_refs": [
         "N-159",
@@ -2009,8 +2009,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12429",
-      "ref": "C-12429",
+      "@id": "C-3670",
+      "ref": "C-3670",
       "label": "Host Says Statement Called Critics Antifa Members and Erika Approved It",
       "claim": "The host says that, if Erika Kirk approved the statement as Neff stated, it was approved even though it referred to critics as Antifa members.",
       "anchored_artifacts": [],
@@ -2024,7 +2024,7 @@
       "investigative_direction": "Obtain the statement text and check whether it used the word Antifa for the host's audience.",
       "transcript_snippet": "she approved the statement that went out referring to people uh as Antifa members like making us akin to a basket of deplorables",
       "supports_claim_refs": [
-        "C-1839"
+        "C-3655"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12430",
-      "ref": "C-12430",
+      "@id": "C-3671",
+      "ref": "C-3671",
       "label": "Host Says She Would Join Especially If Erika Kirk Is There",
       "claim": "The host says she would especially like to make the December event work if Erika Kirk is going to be there, which she calls a game changer.",
       "anchored_artifacts": [],
@@ -2055,8 +2055,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12431",
-      "ref": "C-12431",
+      "@id": "C-3672",
+      "ref": "C-3672",
       "label": "Host Says Kolvet Is on the Road and Not Correcting Tone",
       "claim": "The host says TPUSA spokesperson Andrew Kolvet seems to be on the road and is not correcting the attitudes coming out, and that Tyler Bowyer has been late-night tweeting.",
       "anchored_artifacts": [],
@@ -2077,8 +2077,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12432",
-      "ref": "C-12432",
+      "@id": "C-3673",
+      "ref": "C-3673",
       "label": "Host Says Her Husband Cannot Make December 15",
       "claim": "The host says her husband George shut down the idea that she could make December 15 work immediately and for a valid reason.",
       "anchored_artifacts": [],
@@ -2098,8 +2098,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12433",
-      "ref": "C-12433",
+      "@id": "C-3674",
+      "ref": "C-3674",
       "label": "Host Says She Believes It Was a Deep State Assassination",
       "claim": "The host says she believes the Kirk killing was a deep state assassination and reasons from how the CIA organizes color revolutions abroad.",
       "anchored_artifacts": [],
@@ -2117,8 +2117,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12434",
-      "ref": "C-12434",
+      "@id": "C-3675",
+      "ref": "C-3675",
       "label": "Host Says Ukraine's 2014 Uprising and McCain Were a US Color Revolution",
       "claim": "The host asserts that the 2014 Ukrainian uprising against Yanukovich, in which John McCain addressed protesters, was a United States military color revolution rather than an authentic one.",
       "anchored_artifacts": [
@@ -2138,8 +2138,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12435",
-      "ref": "C-12435",
+      "@id": "C-3676",
+      "ref": "C-3676",
       "label": "Clip Has McCain Telling Ukrainians It Is Their Moment",
       "claim": "A clip the host identifies as John McCain addressing protesters in Ukraine includes the line \"People of Ukraine, this is your moment.\"",
       "anchored_artifacts": [
@@ -2158,8 +2158,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12436",
-      "ref": "C-12436",
+      "@id": "C-3677",
+      "ref": "C-3677",
       "label": "Host Says the Assassination Was as Organic as McCain Leading Ukraine",
       "claim": "The host says she believes the Kirk assassination was about as organic as John McCain leading the people of Ukraine, meaning she believes it was organized.",
       "anchored_artifacts": [
@@ -2173,7 +2173,7 @@
       "investigative_direction": "Treat as the host's belief; the analogy itself is not evidence.",
       "transcript_snippet": "that Charlie Kirk's assassination was about as organic as John McCain.",
       "supports_claim_refs": [
-        "C-12433"
+        "C-3674"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2183,8 +2183,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12437",
-      "ref": "C-12437",
+      "@id": "C-3680",
+      "ref": "C-3680",
       "label": "Host Says Three Men Shown Alone in Maroon After the Shot",
       "claim": "The host says footage shows a young man after the shot, another sitting under a tree after the shot and a third, all alone and wearing maroon, and other men in maroon including one in the bush.",
       "anchored_artifacts": [
@@ -2205,8 +2205,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12438",
-      "ref": "C-12438",
+      "@id": "C-3683",
+      "ref": "C-3683",
       "label": "Host Says a TikTok User Claimed the FBI Told Him to Delete Family Footage",
       "claim": "The host says a TikTok user claimed that someone in his family shot videos of the event and that the FBI asked him to delete the footage after he submitted it, and she says she does not know whether that is true.",
       "anchored_artifacts": [
@@ -2228,8 +2228,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12439",
-      "ref": "C-12439",
+      "@id": "C-3684",
+      "ref": "C-3684",
       "label": "Host Says the TikTok User Sent Her Footage That Showed Kasparian",
       "claim": "The host says that when she got in touch with the same individual he sent her the footage, and her eye gravitated to another man in maroon who was alone and did not duck.",
       "anchored_artifacts": [
@@ -2252,8 +2252,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12440",
-      "ref": "C-12440",
+      "@id": "C-3682",
+      "ref": "C-3682",
       "label": "Emailer Says Colors Let Military Observers Know Whom to Protect",
       "claim": "The host reads an emailer who says that in coordinated violent scenes people in identifiable colors help military observers know whom to protect or look for.",
       "anchored_artifacts": [
@@ -2269,7 +2269,7 @@
       "investigative_direction": "Ask military color-marking experts whether identifier colors are used this way; the emailer is unnamed.",
       "transcript_snippet": "especially in coordinated violent scenes, uh, making sure that people are in certain colors or in something that is identifiable is important so that military men can observe who to protect or who they're looking for",
       "supports_claim_refs": [
-        "C-1855"
+        "C-3681"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2277,8 +2277,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12441",
-      "ref": "C-12441",
+      "@id": "C-3685",
+      "ref": "C-3685",
       "label": "Host Says She Does Not Think Kasparian Shot Kirk",
       "claim": "The host says she does not think Jacob Kasparian shot Charlie Kirk and that she is only observing things she finds unusual.",
       "anchored_artifacts": [
@@ -2301,8 +2301,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12442",
-      "ref": "C-12442",
+      "@id": "C-3686",
+      "ref": "C-3686",
       "label": "Host Says Kasparian Attended the Event Alone",
       "claim": "The host says it is unusual that Jacob Kasparian attended the event alone.",
       "anchored_artifacts": [
@@ -2323,8 +2323,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12443",
-      "ref": "C-12443",
+      "@id": "C-3687",
+      "ref": "C-3687",
       "label": "Host Says Kasparian's Facebook Post Was at 8:42 or 7:42 a.m.",
       "claim": "The host says Kasparian's earlier Facebook post of himself in a different shirt is stamped either 8:42 a.m. or 7:42 a.m., and she is unsure whether Facebook adjusted the time zone.",
       "anchored_artifacts": [
@@ -2340,7 +2340,7 @@
       "investigative_direction": "Retrieve the original post with metadata to settle which time applies and the time zone.",
       "transcript_snippet": "he had posted himself earlier that day at either 8:42 a. m. or 7:42 a. m.",
       "qualifies_claim_refs": [
-        "C-1850"
+        "C-3690"
       ],
       "mentions_person_refs": [
         "N-307"
@@ -2348,8 +2348,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12444",
-      "ref": "C-12444",
+      "@id": "C-3688",
+      "ref": "C-3688",
       "label": "Host Says Kasparian Moved from High Ground to a Lower Rung Before the Shot",
       "claim": "The host says Kasparian was up high on the campus and was at a lower rung two minutes before Charlie Kirk was shot.",
       "anchored_artifacts": [
@@ -2371,8 +2371,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12445",
-      "ref": "C-12445",
+      "@id": "C-3692",
+      "ref": "C-3692",
       "label": "Host Says Kasparian's Family Posted Nothing About the Assassination",
       "claim": "The host says none of Kasparian's family members posted anything about the assassination that she could find, even though he is active online and it happened in their backyard.",
       "anchored_artifacts": [],
@@ -2386,7 +2386,7 @@
       "investigative_direction": "Social media audit; absence of posts is weak evidence about a private family.",
       "transcript_snippet": "None of his family members posted anything about Charlie's assassination. He is active.",
       "supports_claim_refs": [
-        "C-9800"
+        "C-3293"
       ],
       "mentions_person_refs": [
         "N-307",
@@ -2396,8 +2396,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12446",
-      "ref": "C-12446",
+      "@id": "C-3693",
+      "ref": "C-3693",
       "label": "Host Suspects Maroon Boys Were Tasked with Filming from Set Angles",
       "claim": "The host says she is beginning to suspect that the maroon-shirted men in general were tasked with taking footage from predetermined angles, and calls it a suspicion that may be wrong.",
       "anchored_artifacts": [
@@ -2419,8 +2419,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12447",
-      "ref": "C-12447",
+      "@id": "C-3694",
+      "ref": "C-3694",
       "label": "Host Says She Never Said Anything About Bartholomew Before",
       "claim": "The host says she had never said anything about Adam Bartholomew, had only reviewed his footage, and that online users were clocking him as suspicious.",
       "anchored_artifacts": [
@@ -2442,8 +2442,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12448",
-      "ref": "C-12448",
+      "@id": "C-3697",
+      "ref": "C-3697",
       "label": "Host Says Carrie Bartholomew Stood Almost Directly Near Kasparian",
       "claim": "The host says she learned by accident that Adam Bartholomew's wife Carrie was at the event, standing by the bush almost directly near Kasparian.",
       "anchored_artifacts": [
@@ -2459,7 +2459,7 @@
       "investigative_direction": "Locate both people in the same frame of the footage and photo.",
       "transcript_snippet": "his wife Carrie was there and she was standing by the bush actually almost directly near Jacob Kasparian.",
       "supports_claim_refs": [
-        "C-1852"
+        "C-3696"
       ],
       "mentions_person_refs": [
         "N-309",
@@ -2469,8 +2469,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12449",
-      "ref": "C-12449",
+      "@id": "C-3699",
+      "ref": "C-3699",
       "label": "Host Says All Footage Came from Maroon Boys and Was Algorithmically Boosted",
       "claim": "The host says she thinks all of the footage has come from the maroon-shirted men and that a lot of it was then algorithmically boosted.",
       "anchored_artifacts": [],
@@ -2485,7 +2485,7 @@
       "investigative_direction": "Map the earliest uploads of the main videos to the accounts of the people in maroon.",
       "transcript_snippet": "I think all of our footage has come from Maroon Boys and a lot of that footage uh was then algorithmically boosted.",
       "supports_claim_refs": [
-        "C-12446"
+        "C-3693"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2493,8 +2493,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12450",
-      "ref": "C-12450",
+      "@id": "C-3701",
+      "ref": "C-3701",
       "label": "Host Asks Viewers to Identify the Maroon Men at more tips",
       "claim": "The host asks viewers who recognize the maroon-shirted men she showed to email more tips (transcribed as 'candens.com'), and says she does not want general thoughts on the color.",
       "anchored_artifacts": [
@@ -2517,8 +2517,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12451",
-      "ref": "C-12451",
+      "@id": "C-3702",
+      "ref": "C-3702",
       "label": "Host Says Bierer Is a Former Oracle Engineer Believed from Germany",
       "claim": "The host says Emmanuel Bierer is a former employee of Oracle, a software engineer, and she believes from Germany.",
       "anchored_artifacts": [],
@@ -2538,8 +2538,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12452",
-      "ref": "C-12452",
+      "@id": "C-3703",
+      "ref": "C-3703",
       "label": "Host Says She Sees No Photos of Bierer at the Event",
       "claim": "The host says Bierer attended the event but that she does not see any photos of him there, and asks viewers for footage showing him.",
       "anchored_artifacts": [],
@@ -2553,7 +2553,7 @@
       "investigative_direction": "Request footage from attendees who recognize Bierer.",
       "transcript_snippet": "he attended the event but somehow I don't see any photos of him at the event",
       "supports_claim_refs": [
-        "C-1847"
+        "C-3704"
       ],
       "mentions_person_refs": [
         "N-310",
@@ -2562,8 +2562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12453",
-      "ref": "C-12453",
+      "@id": "C-3705",
+      "ref": "C-3705",
       "label": "Host Says Barker Said Her Friendship Got the Early News Hit",
       "claim": "The host says Tiffany Barker said that being friends with a political figure the transcript renders as Phil Lyman was the reason she got the news hit that morning.",
       "anchored_artifacts": [],
@@ -2577,7 +2577,7 @@
       "investigative_direction": "Verify the name in the HappyScribe transcript and the Barker interview source.",
       "transcript_snippet": "Oh, I was friends with uh, you know, Phil Lyman and that's the reason that I was able to get the news hit in the morning.",
       "supports_claim_refs": [
-        "C-1245"
+        "C-669"
       ],
       "mentions_person_refs": [
         "N-75",
@@ -2587,8 +2587,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12454",
-      "ref": "C-12454",
+      "@id": "C-3706",
+      "ref": "C-3706",
       "label": "Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked",
       "claim": "In the PBS clip Emmanuel Bierer says he heard a loud sound, did not think it could be happening, and that everyone ducked.",
       "anchored_artifacts": [
@@ -2609,8 +2609,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12455",
-      "ref": "C-12455",
+      "@id": "C-3708",
+      "ref": "C-3708",
       "label": "Host Says The Game Has Dropped the Mixtape with the Track",
       "claim": "The host says that The Game has now dropped his mixtape with the song The Assassination of Candace Owens on it.",
       "anchored_artifacts": [
@@ -2624,7 +2624,7 @@
       "investigative_direction": "Check the release date and platform of the mixtape.",
       "transcript_snippet": "The Game dropped his album, his mixtape with the song The Assassination of Candace Owens on it",
       "supports_claim_refs": [
-        "C-1826"
+        "C-3590"
       ],
       "mentions_person_refs": [
         "N-304",
@@ -2633,8 +2633,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12456",
-      "ref": "C-12456",
+      "@id": "C-3709",
+      "ref": "C-3709",
       "label": "Lyric Reads His Body Is Not Yet Settled in the Dirt",
       "claim": "The host reads a lyric from the second verse, \"his body is not yet settled in the dirt. Why are you carrying on like that?\"",
       "anchored_artifacts": [
@@ -2654,8 +2654,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12457",
-      "ref": "C-12457",
+      "@id": "C-3710",
+      "ref": "C-3710",
       "label": "Host Says Her Book Is on Amazon and Direct from Her Site at 20 Percent Off",
       "claim": "The host says her book Make Him a Sandwich is on Amazon, that buying direct at makehimasandwich.com gives 20 percent off, and that signed copies are available only at candaceowens.com.",
       "anchored_artifacts": [],
@@ -2672,8 +2672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12458",
-      "ref": "C-12458",
+      "@id": "C-3711",
+      "ref": "C-3711",
       "label": "Host Says Memberships to Club Candace and the Book Club Can Now Be Gifted",
       "claim": "The host says a membership to Club Candace or to the book club can now be gifted on her website.",
       "anchored_artifacts": [],
@@ -2690,8 +2690,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12459",
-      "ref": "C-12459",
+      "@id": "C-3712",
+      "ref": "C-3712",
       "label": "Commenter Says a News Station Heard Memorial Attendees for Three Hours with No Believers",
       "claim": "The host reads a commenter who says a news station at the Charlie Kirk memorial talked to attendees for three hours and none of them believed the FBI narrative.",
       "anchored_artifacts": [
@@ -2711,8 +2711,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12460",
-      "ref": "C-12460",
+      "@id": "C-3716",
+      "ref": "C-3716",
       "label": "Host Says the Side-Angle Filmer Recorded the Figure at 12:23",
       "claim": "The host says that when she called the person who shot the side-angle roof video she put it to him that he was recording the figure at 12:23.",
       "anchored_artifacts": [
@@ -2733,8 +2733,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12461",
-      "ref": "C-12461",
+      "@id": "C-3717",
+      "ref": "C-3717",
       "label": "Host Says the Filmer Earlier Said He Saw Someone in Tactical Gear",
       "claim": "The host says that the filmer had told her early on that the person in his video was not the person he saw and that he saw somebody in tactical gear.",
       "anchored_artifacts": [
@@ -2755,8 +2755,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12462",
-      "ref": "C-12462",
+      "@id": "C-3718",
+      "ref": "C-3718",
       "label": "Host Says the Filmer Says the Reassembling Claims Did Not Happen",
       "claim": "The host says the filmer told her he can say that claims of the shooter putting the gun back together did not happen.",
       "anchored_artifacts": [
@@ -2777,8 +2777,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12463",
-      "ref": "C-12463",
+      "@id": "C-3720",
+      "ref": "C-3720",
       "label": "Host Says Only Two People Filmed the Roof Figure and One Seems Unsubpoenaed",
       "claim": "The host says only two people have camera footage of the figure on the roof and asks how the side-angle filmer has not been subpoenaed into the court case.",
       "anchored_artifacts": [
@@ -2794,7 +2794,7 @@
       "investigative_direction": "Check the Robinson docket and witness lists for the filmer.",
       "transcript_snippet": "There's only two people that have cameras of this person on the roof and you are telling me that he hasn't been like automatically subpoenaed into the court case.",
       "qualifies_claim_refs": [
-        "C-1858"
+        "C-3719"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -2803,8 +2803,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12464",
-      "ref": "C-12464",
+      "@id": "C-3721",
+      "ref": "C-3721",
       "label": "Commenter Says Neff Was Fired by Tucker Carlson for Racist Remarks",
       "claim": "The host reads a commenter who says Blake Neff was fired by Tucker Carlson for racist remarks.",
       "anchored_artifacts": [
@@ -2826,8 +2826,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12465",
-      "ref": "C-12465",
+      "@id": "C-3722",
+      "ref": "C-3722",
       "label": "Host Says She Did Not Know Neff Used to Work for Tucker Carlson",
       "claim": "The host says she did not know that Blake Neff used to work for Tucker Carlson and says she will ask Carlson about him.",
       "anchored_artifacts": [
@@ -2850,8 +2850,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12466",
-      "ref": "C-12466",
+      "@id": "C-3724",
+      "ref": "C-3724",
       "label": "Host Says She Never Declined an Offer to Join the Live Stream",
       "claim": "The host says she never declined an offer to join the live stream, disputing Neff's post saying she was given the opportunity to join and declined.",
       "anchored_artifacts": [
@@ -2867,7 +2867,7 @@
       "investigative_direction": "Review the host's replies and any direct messages from December 3 to 5 for any refusal.",
       "transcript_snippet": "I never declined an offer to join your live stream.",
       "contradicts_claim_refs": [
-        "C-1845"
+        "C-3723"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2876,8 +2876,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12467",
-      "ref": "C-12467",
+      "@id": "C-3725",
+      "ref": "C-3725",
       "label": "Host Says Patel Thinks His Girlfriend's Music Is Sensational",
       "claim": "The host says the FBI is run by Kash Patel and that he thinks his girlfriend's music is sensational.",
       "anchored_artifacts": [],
@@ -2895,8 +2895,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12468",
-      "ref": "C-12468",
+      "@id": "C-3726",
+      "ref": "C-3726",
       "label": "Host Says According to Sosnick Tucker Is Her Only Friend",
       "claim": "The host says that according to Adam Sosnick, Tucker Carlson is her only friend.",
       "anchored_artifacts": [],
@@ -2908,7 +2908,7 @@
       "investigative_direction": "Compare with Sosnick's original remark.",
       "transcript_snippet": "According to Adam Sosnick, Tucker's my only friend.",
       "supports_claim_refs": [
-        "C-1800"
+        "C-3393"
       ],
       "mentions_person_refs": [
         "N-282",
@@ -2918,8 +2918,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12469",
-      "ref": "C-12469",
+      "@id": "C-3727",
+      "ref": "C-3727",
       "label": "Host Says BLM Was a Scam and Its Backers Bought Houses",
       "claim": "The host says BLM was a scam and that its people were buying themselves houses.",
       "anchored_artifacts": [],
@@ -2936,8 +2936,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12470",
-      "ref": "C-12470",
+      "@id": "C-3728",
+      "ref": "C-3728",
       "label": "Host Says She Will Livestream Her Live Response to TPUSA's Live Stream",
       "claim": "The host says she will live stream TPUSA's live stream and respond to it live.",
       "anchored_artifacts": [],
@@ -2956,8 +2956,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12471",
-      "ref": "C-12471",
+      "@id": "C-3729",
+      "ref": "C-3729",
       "label": "Host Says Neff's Introduction Was Ten Minutes on Her Character",
       "claim": "The host says the entire introduction to the live stream announcement was Neff speaking for ten minutes and assassinating her character.",
       "anchored_artifacts": [],
@@ -2977,8 +2977,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12472",
-      "ref": "C-12472",
+      "@id": "C-3730",
+      "ref": "C-3730",
       "label": "Host Says Neff Heavily Implies Erika Sanctioned the Statement",
       "claim": "The host says Neff heavily implies that Erika Kirk sanctioned the statement; she says he obviously did not write it himself and that, as CEO, it would follow that Erika would have read it.",
       "anchored_artifacts": [],
@@ -2992,7 +2992,7 @@
       "investigative_direction": "Ask TPUSA who drafted and who approved the statement.",
       "transcript_snippet": "I don't love the fact that he heavily implies that Erika sanctioned that he obviously didn't write it himself",
       "supports_claim_refs": [
-        "C-1839"
+        "C-3655"
       ],
       "mentions_person_refs": [
         "N-159",
@@ -3002,8 +3002,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12473",
-      "ref": "C-12473",
+      "@id": "C-3731",
+      "ref": "C-3731",
       "label": "Host Says TPUSA Campus Events Require Students to Submit Questions Ahead",
       "claim": "The host says that, based on a flurry of emails, the new format of TPUSA campus events is that students have to tell TPUSA ahead of time what they will ask.",
       "anchored_artifacts": [],
@@ -3022,8 +3022,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12474",
-      "ref": "C-12474",
+      "@id": "C-3732",
+      "ref": "C-3732",
       "label": "Commenter Says Bari Weiss Interviews Erika Kirk on December 13",
       "claim": "The host reads a commenter who says Bari Weiss is interviewing Erika Kirk on December 13.",
       "anchored_artifacts": [
@@ -3043,8 +3043,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12475",
-      "ref": "C-12475",
+      "@id": "C-3733",
+      "ref": "C-3733",
       "label": "Host Says She Saw News of Weiss Sitting Down with Erika",
       "claim": "The host says she saw some news about Bari Weiss sitting down with Erika Kirk, though she is unsure whether it is a New York Times or CBS event.",
       "anchored_artifacts": [],
@@ -3056,7 +3056,7 @@
       "investigative_direction": "Confirm the venue and date of the interview.",
       "transcript_snippet": "I saw some news about uh Barry sitting down with her.",
       "supports_claim_refs": [
-        "C-12474"
+        "C-3732"
       ],
       "mentions_person_refs": [
         "N-278",
@@ -3066,8 +3066,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12476",
-      "ref": "C-12476",
+      "@id": "C-3734",
+      "ref": "C-3734",
       "label": "Host Says Her Husband Said December 15 Absolutely Does Not Work",
       "claim": "The host says her husband said December 15 absolutely does not work when she went to him after seeing the text or tweet confirmation.",
       "anchored_artifacts": [],
@@ -3081,7 +3081,7 @@
       "investigative_direction": "Rests on the host's account.",
       "transcript_snippet": "he said December 15th absolutely does not work.",
       "supports_claim_refs": [
-        "C-12432"
+        "C-3673"
       ],
       "mentions_person_refs": [
         "N-3",

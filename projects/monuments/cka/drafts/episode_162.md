@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (catchup-2026-10-19): N-949, N-950, N-951, N-952, N-11412, N-11413, N-11414, N-11415, N-11416, N-11417, N-11418
   - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-8, N-11, N-14, N-17, N-30, N-40, N-46, N-60, N-97, N-130, N-159, N-223, N-224, N-259, N-266, N-270, N-271, N-351, N-352, N-615, N-710, N-751, N-10000, N-10012, N-10340, N-10356, N-10681, N-10839, N-10862, N-10864, N-10880, N-10881, N-10882, N-10883, N-10886, N-10887, N-10889, N-10891, N-10899, N-11087, N-11091, N-11215, N-11359
-  - Claim Range: C-15063–C-15151
+  - Claim Range: C-13967–C-14055
   - (see registers)
 
 # Episode 162 Analysis
@@ -43,7 +43,7 @@ Video Timestamp: 00:03:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15064, C-15065, C-15066, C-15067, N-1, N-2, N-3, N-159, N-11412*
+*Related: C-13968, C-13969, C-13970, C-13971, N-1, N-2, N-3, N-159, N-11412*
 
 **A-3359.2** Continuation of the X space audio in which another participant says Neff meant "marrying"
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:04:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15068, C-15069, N-1, N-2, N-159, N-11412*
+*Related: C-13972, C-13973, N-1, N-2, N-159, N-11412*
 
 ---
 
@@ -69,7 +69,7 @@ Video Timestamp: 00:06:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15073, N-11091, N-11412*
+*Related: C-13977, N-11091, N-11412*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15078, C-15079, C-15080, N-1, N-2, N-352, N-949*
+*Related: C-13982, C-13983, C-13984, N-1, N-2, N-352, N-949*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15082, C-15083, N-10880, N-11413*
+*Related: C-13986, C-13987, N-10880, N-11413*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:15:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15087, C-15088, N-950*
+*Related: C-13991, C-13992, N-950*
 
 **A-3363.2** Clip It LLC Wyoming filing record, added to the host's timeline
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:16:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15089, C-15090, N-10880, N-950, N-11414*
+*Related: C-13993, C-13994, N-10880, N-950, N-11414*
 
 **A-3363.3** Image of the house at the registered agent's address
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:16:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15091, N-11414, N-11415*
+*Related: C-13995, N-11414, N-11415*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:19:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15098, C-15099, C-15100, N-951, N-952, N-11415*
+*Related: C-14002, C-14003, C-14004, N-951, N-952, N-11415*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:28:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15109, C-15110, C-15111, N-224, N-266, N-271, N-10356, N-10681*
+*Related: C-14013, C-14014, C-14015, N-224, N-266, N-271, N-10356, N-10681*
 
 ---
 
@@ -173,7 +173,7 @@ Video Timestamp: 00:31:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15116, C-15117, N-14, N-271, N-11087*
+*Related: C-14020, C-14021, N-14, N-271, N-11087*
 
 ---
 
@@ -188,7 +188,7 @@ Video Timestamp: 00:35:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15125, C-15126, C-15127, N-1, N-8, N-751, N-10839, N-11215*
+*Related: C-14029, C-14030, C-14031, N-1, N-8, N-751, N-10839, N-11215*
 
 **A-3367.2** Independent review passage (page 73, per the host) on Robin Ebmeyer's absence on September 10
 
@@ -197,7 +197,7 @@ Video Timestamp: 00:35:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15128, N-751, N-10839*
+*Related: C-14032, N-751, N-10839*
 
 ---
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:37:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15131, C-15132, N-60, N-223*
+*Related: C-14035, C-14036, N-60, N-223*
 
 ---
 
@@ -227,7 +227,7 @@ Video Timestamp: 00:40:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15133, C-15134, C-15135, N-130, N-615, N-10899*
+*Related: C-14037, C-14038, C-14039, N-130, N-615, N-10899*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:47:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15146, N-14, N-46, N-11412*
+*Related: C-14050, N-14, N-46, N-11412*
 
 **A-3370.2** Viewer comment (Zammit) on a "grieving widow" trademark
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:49:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15147*
+*Related: C-14051*
 
 **A-3370.3** Viewer comment (Ali) quoting Erika Kirk on "heavy hitters"
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:49:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-15148, N-2*
+*Related: C-14052, N-2*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 00:45:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15141, N-10880, N-950*
+*Related: C-14045, N-10880, N-950*
 
 ---
 
@@ -289,163 +289,163 @@ Confidence Level: High
 
 Assassinated TPUSA founder; subject of Neff's "murdering Charlie" slip and recipient of the sneaker video.
 
-*Related: C-15066, C-15068, C-15079, C-15080, C-15126, C-15136, C-15149, A-3359.2, A-3359.1, A-3361.1, A-3367.1*
+*Related: C-13970, C-13972, C-13983, C-13984, C-14030, C-14040, C-14053, A-3359.2, A-3359.1, A-3361.1, A-3367.1*
 
 **N-2** Erika Kirk
 
 TPUSA CEO; host alleges her friend's firm supplied clips of her five days after the assassination; subject of viewer comments.
 
-*Related: C-15066, C-15068, C-15075, C-15077, C-15078, C-15104, C-15114, C-15143, C-15144, C-15148, C-15149, A-3359.2, A-3359.1, A-3361.1, A-3370.3*
+*Related: C-13970, C-13972, C-13979, C-13981, C-13982, C-14008, C-14018, C-14047, C-14048, C-14052, C-14053, A-3359.2, A-3359.1, A-3361.1, A-3370.3*
 
 **N-3** Candace Owens
 
 The host.
 
-*Related: C-15063, C-15065, C-15070, C-15071, C-15119, C-15122, C-15137, C-15138, C-15151, A-3359.1*
+*Related: C-13967, C-13969, C-13974, C-13975, C-14023, C-14026, C-14041, C-14042, C-14055, A-3359.1*
 
 **N-7** Frank Turek
 
 Host says he gave conflicting accounts of when he got the rooftop text message.
 
-*Related: C-15115*
+*Related: C-14019*
 
 **N-8** Maycee Crofts
 
 Per the independent review passage the host reads, insisted on the fountain courtyard and TPUSA-managed ticketing.
 
-*Related: C-15125, C-15126, C-15127, A-3367.1*
+*Related: C-14029, C-14030, C-14031, A-3367.1*
 
 **N-11** Tyler Bowyer
 
 Host says he was allegedly telling people TPUSA would get into housing (transcribed "Tyler Bowyer").
 
-*Related: C-15145*
+*Related: C-14049*
 
 **N-14** Andrew Kolvet
 
 Host recalls his "processing their guilt" remark and plays a clip of him blaming Chief Long (transcribed "Andrew Kolvet" at 00:31:40).
 
-*Related: C-15072, C-15116, C-15117, C-15146, A-3366.1, A-3370.1*
+*Related: C-13976, C-14020, C-14021, C-14050, A-3366.1, A-3370.1*
 
 **N-17** Rob McCoy
 
 Host says Erika gave her kids to Rob McCoy's wife while calling donors.
 
-*Related: C-15143*
+*Related: C-14047*
 
 **N-30** George (Candace's husband)
 
 Host says she is wearing George's clothes late in her pregnancy.
 
-*Related: C-15151*
+*Related: C-14055*
 
 **N-40** Tyler Robinson
 
 Named by the host in mocking the "acted alone" narrative.
 
-*Related: C-15105*
+*Related: C-14009*
 
 **N-46** Megyn Kelly
 
 Per the host and a viewer comment, corrected Kolvet's "guilt" to "grief".
 
-*Related: C-15072, C-15146, A-3370.1*
+*Related: C-13976, C-14050, A-3370.1*
 
 **N-60** Laura Loomer
 
 Posted the DMV credit card screen tweet the host mocks.
 
-*Related: C-15131, C-15132, A-3368.1*
+*Related: C-14035, C-14036, A-3368.1*
 
 **N-97** Ben Shapiro
 
 Host says Elephant Clipping became a go-to for him.
 
-*Related: C-15105*
+*Related: C-14009*
 
 **N-130** Ian Carroll
 
 Party to the X exchange with Gary Melton.
 
-*Related: C-15133, C-15134, C-15135, A-3369.1*
+*Related: C-14037, C-14038, C-14039, A-3369.1*
 
 **N-159** Blake Neff
 
 Spoke in an X space; host says he said Erika murdered Charlie.
 
-*Related: C-15063, C-15064, C-15065, C-15066, C-15067, C-15068, C-15069, C-15070, C-15074, C-15139, A-3359.2, A-3359.1*
+*Related: C-13967, C-13968, C-13969, C-13970, C-13971, C-13972, C-13973, C-13974, C-13978, C-14043, A-3359.2, A-3359.1*
 
 **N-223** Zohran Mamdani
 
 Named in Loomer's tweet (transcribed "Mamdani").
 
-*Related: C-15131, A-3368.1*
+*Related: C-14035, A-3368.1*
 
 **N-224** Shawn Ryan
 
 Host of the interview in which Harpole read the text correspondence.
 
-*Related: C-15108, C-15109, A-3365.1*
+*Related: C-14012, C-14013, A-3365.1*
 
 **N-259** Steven Crowder
 
 Host says Elephant Clipping became a go-to for him.
 
-*Related: C-15105*
+*Related: C-14009*
 
 **N-266** Brian Harpole
 
 Host says he misrepresented the Dan Flood text as his own; his Shawn Ryan clip is replayed; host says he is suing her.
 
-*Related: C-15108, C-15109, C-15110, C-15111, C-15112, C-15113, C-15122, A-3365.1*
+*Related: C-14012, C-14013, C-14014, C-14015, C-14016, C-14017, C-14026, A-3365.1*
 
 **N-270** Dan Flood
 
 Host says the text was his and he has not spoken publicly.
 
-*Related: C-15113, C-15118*
+*Related: C-14017, C-14022*
 
 **N-271** Jeff Long
 
 UVU Police Chief; host reports he has resigned and says TPUSA wrongly blamed him.
 
-*Related: C-15106, C-15107, C-15108, C-15109, C-15110, C-15111, C-15116, C-15117, C-15118, C-15119, C-15120, C-15121, C-15129, C-15130, A-3365.1, A-3366.1*
+*Related: C-14010, C-14011, C-14012, C-14013, C-14014, C-14015, C-14020, C-14021, C-14022, C-14023, C-14024, C-14025, C-14033, C-14034, A-3365.1, A-3366.1*
 
 **N-351** Matt Servius
 
 Name the host gave the Monster Lab operator in the prior episode; she now says it was wrong. Possibly the same individual as N-950.
 
-*Related: C-15084*
+*Related: C-13988*
 
 **N-352** Blake Wynn
 
 Host says his Las Vegas firm supplied the Erika and TPUSA clips; theory that his orbit supplied Erika's Kirk Force 1s.
 
-*Related: C-15075, C-15077, C-15078, C-15079, C-15081, C-15104, A-3361.1*
+*Related: C-13979, C-13981, C-13982, C-13983, C-13985, C-14008, A-3361.1*
 
 **N-615** Gary Melton
 
 Paramount Tactical; party to the X exchange with Ian Carroll.
 
-*Related: C-15133, C-15134, C-15135, A-3369.1*
+*Related: C-14037, C-14038, C-14039, A-3369.1*
 
 **N-710** Volodymyr Zelensky
 
 Host says Kolomoisky funded him into power.
 
-*Related: C-15102*
+*Related: C-14006*
 
 **N-751** Robin Ebmeyer
 
 UVU emergency management director; host says she has heard Ebmeyer is resigning or has resigned (transcribed "Ebmyer", "Edmire", "Edmyer").
 
-*Related: C-15123, C-15124, C-15125, C-15127, C-15128, C-15129, C-15130, A-3367.2, A-3367.1*
+*Related: C-14027, C-14028, C-14029, C-14031, C-14032, C-14033, C-14034, A-3367.2, A-3367.1*
 
 **N-949** Christine Fekete
 
 First named by the host at 00:10:57 in episode 162. Instagram comedian and political commentator, handle given as @what.the.fekete; credited with the theory that Blake Wynn gifted Erika's Kirk Force 1s. Spelling unconfirmed.
 
-*Related: C-15078, A-3361.1*
+*Related: C-13982, A-3361.1*
 
 **N-950** Matiss Tabuns
 
@@ -453,200 +453,200 @@ First named by the host at 00:14:33 in episode 162. Named by the host, per Latvi
 
 Aliases: Matiss; Matiss
 
-*Related: C-15084, C-15085, C-15086, C-15087, C-15088, C-15089, C-15090, C-15092, C-15097, C-15103, C-15140, C-15141, A-3363.2, A-3363.1, A-3371.1*
+*Related: C-13988, C-13989, C-13990, C-13991, C-13992, C-13993, C-13994, C-13996, C-14001, C-14007, C-14044, C-14045, A-3363.2, A-3363.1, A-3371.1*
 
 **N-951** Cindy Jackson
 
 First named by the host at 00:18:58 in episode 162. Wyoming registered agent the host says is the agent for Clip It LLC and who was named in Pandora Papers reporting.
 
-*Related: C-15092, C-15097, C-15098, C-15099, C-15100, A-3364.1*
+*Related: C-13996, C-14001, C-14002, C-14003, C-14004, A-3364.1*
 
 **N-952** Igor Kolomoisky
 
 First named by the host at 00:20:40 in episode 162. Ukrainian oligarch named in the article the host reads as linked to Ferrous LLC.
 
-*Related: C-15100, C-15101, C-15102, A-3364.1*
+*Related: C-14004, C-14005, C-14006, A-3364.1*
 
 **N-10000** Turning Point USA
 
 Organization the host says blamed Jeff Long and is tied to the clipping campaign.
 
-*Related: C-15075, C-15076, C-15107, C-15118, C-15120, C-15144, C-15145*
+*Related: C-13979, C-13980, C-14011, C-14022, C-14024, C-14048, C-14049*
 
 **N-10012** Utah Valley University
 
 Site of the resignations the host reports.
 
-*Related: C-15106, C-15123, C-15130*
+*Related: C-14010, C-14027, C-14034*
 
 **N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
 
 Host says the official account is that Erika did not know about threats the night before.
 
-*Related: C-15114*
+*Related: C-14018*
 
 **N-10356** Brian Harpole Dan Flood Text Misattribution
 
 Host says Harpole presented the Flood text as his own.
 
-*Related: C-15108, C-15112, C-15113, A-3365.1*
+*Related: C-14012, C-14016, C-14017, A-3365.1*
 
 **N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Harpole's Shawn Ryan clip replayed in this episode.
 
-*Related: C-15109, C-15110, C-15111, A-3365.1*
+*Related: C-14013, C-14014, C-14015, A-3365.1*
 
 **N-10839** Independent Review of UVU Security Failures
 
 Review the host cites on Harpole, Crofts and Ebmeyer.
 
-*Related: C-15107, C-15112, C-15121, C-15125, C-15126, C-15127, C-15128, A-3367.2, A-3367.1*
+*Related: C-14011, C-14016, C-14025, C-14029, C-14030, C-14031, C-14032, A-3367.2, A-3367.1*
 
 **N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
 
 Host says the review confirmed Harpole misrepresented things.
 
-*Related: C-15112*
+*Related: C-14016*
 
 **N-10880** Monster Lab / Clippet
 
 Clipping site the host says is now blocked in the U.S.; Clip It LLC is its Wyoming filing per the host.
 
-*Related: C-15063, C-15082, C-15083, C-15085, C-15089, C-15103, C-15104, C-15140, C-15141, A-3362.1, A-3363.2, A-3371.1*
+*Related: C-13967, C-13986, C-13987, C-13989, C-13993, C-14007, C-14008, C-14044, C-14045, A-3362.1, A-3363.2, A-3371.1*
 
 **N-10881** Elephant Clipping Campaign
 
 Campaign the host says became a go-to for Shapiro and Crowder.
 
-*Related: C-15076, C-15105, C-15142*
+*Related: C-13980, C-14009, C-14046*
 
 **N-10882** Enclave and Key
 
 Blake Wynn's firm; Atlantic reporting on drive deletions recalled.
 
-*Related: C-15075, C-15081*
+*Related: C-13979, C-13985*
 
 **N-10883** Anti-Candace Paid Clipping Campaign
 
 Host says the operator pays people to harass her; contrasts her own organic clips.
 
-*Related: C-15063, C-15138*
+*Related: C-13967, C-14042*
 
 **N-10886** Latvia
 
 Operator's home country per the host.
 
-*Related: C-15063, C-15084, C-15086*
+*Related: C-13967, C-13988, C-13990*
 
 **N-10887** Las Vegas
 
 Location of Wynn's firm and the TPUSA office the host recalls.
 
-*Related: C-15075, C-15144*
+*Related: C-13979, C-14048*
 
 **N-10889** Atlantic Elephant Clipping Expose
 
 Atlantic article the host cites on drive deletions and the September 15 start.
 
-*Related: C-15081, C-15142*
+*Related: C-13985, C-14046*
 
 **N-10891** Erika Kirk September 15 2025 Google Drive Clip Seed
 
 Host says per the Atlantic the campaign began September 15.
 
-*Related: C-15077, C-15104, C-15142, C-15143*
+*Related: C-13981, C-14008, C-14046, C-14047*
 
 **N-10899** Paramount Tactical
 
 Gary Melton's account in the Ian Carroll exchange.
 
-*Related: C-15133, C-15134, C-15135, A-3369.1*
+*Related: C-14037, C-14038, C-14039, A-3369.1*
 
 **N-10864** Vanity Fair Erika Kirk Profile (Clara Molot)
 
 Host cites it as saying the sun revolved around Charlie at TPUSA.
 
-*Related: C-15136*
+*Related: C-14040*
 
 **N-11087** TPUSA Notice of Intent to Sue UVU
 
 Host says Kolvet blamed Long after the Kirk family filed intent to sue.
 
-*Related: C-15116, A-3366.1*
+*Related: C-14020, A-3366.1*
 
 **N-11091** Wear Forbidden
 
 Account whose parody video the host plays.
 
-*Related: C-15073, A-3360.1*
+*Related: C-13977, A-3360.1*
 
 **N-11215** UVU Security Team Conduct and Ticket-Count Communication
 
 Host says TPUSA controlled tickets and told Long 600 people.
 
-*Related: C-15120, C-15126, A-3367.1*
+*Related: C-14024, C-14030, A-3367.1*
 
 **N-11359** Chabad Lubavitch
 
 Host ties Kolomoisky to Chabad-Lubavitch.
 
-*Related: C-15101*
+*Related: C-14005*
 
 **N-11412** Blake Neff "Murdering Charlie" Slip
 
 Node Type: Topic
 Blake Neff's X space remark that the host would "hate Erika for murdering Charlie", which another participant said meant "marrying"; framed by the host as a Freudian slip alongside Kolvet's "processing their guilt".
 
-*Related: C-15066, C-15068, C-15069, C-15072, C-15073, C-15146, A-3359.2, A-3359.1, A-3360.1, A-3370.1, N-159*
+*Related: C-13970, C-13972, C-13973, C-13976, C-13977, C-14050, A-3359.2, A-3359.1, A-3360.1, A-3370.1, N-159*
 
 **N-11413** Monster Lab U.S. Access Block
 
 Node Type: Topic
 The host's report that the Monster Lab site shows "Not available in your region" from the United States after her prior episode, while remaining visible via VPN from Latvia and other countries.
 
-*Related: C-15082, C-15083, C-15139, A-3362.1, N-10880*
+*Related: C-13986, C-13987, C-14043, A-3362.1, N-10880*
 
 **N-11414** Clip It LLC Wyoming Filing and Registered Agent
 
 Node Type: Topic
 The Clip It LLC Wyoming filing (May 28, 2025 per the host), connected by the host to Matiss Tabuns, and its registered agent address, which the host says belongs to an agent running nearly 3,000 businesses.
 
-*Related: C-15089, C-15090, C-15091, C-15092, C-15097, A-3363.2, A-3363.3, N-950, N-951*
+*Related: C-13993, C-13994, C-13995, C-13996, C-14001, A-3363.2, A-3363.3, N-950, N-951*
 
 **N-11415** Pandora Papers
 
 Node Type: Topic
 The 2021 ICIJ leak of about 12 million offshore financial records; the host links the Clip It LLC registered agent to Pandora Papers reporting on Wyoming registered agents.
 
-*Related: C-15091, C-15092, C-15093, C-15094, C-15095, C-15096, C-15097, C-15098, C-15099, C-15100, A-3363.3, A-3364.1, N-11416*
+*Related: C-13995, C-13996, C-13997, C-13998, C-13999, C-14000, C-14001, C-14002, C-14003, C-14004, A-3363.3, A-3364.1, N-11416*
 
 **N-11416** International Consortium of Investigative Journalists
 
 Node Type: Organization
 Journalism consortium the host says obtained the Pandora Papers records and estimated offshore holdings.
 
-*Related: C-15094, C-15095, C-15096, N-11415*
+*Related: C-13998, C-13999, C-14000, N-11415*
 
 **N-11417** UVU Post-Review Resignations
 
 Node Type: Topic
 The host's reports, from UVU sources, that Police Chief Jeff Long has resigned and that emergency management director Robin Ebmeyer is resigning or has resigned after the independent review, with circumstances unknown.
 
-*Related: C-15106, C-15119, C-15123, C-15129, C-15130, N-271, N-751*
+*Related: C-14010, C-14023, C-14027, C-14033, C-14034, N-271, N-751*
 
 **N-11418** TPUSA Las Vegas Office Opening
 
 Node Type: Topic
 The host's recollection that TPUSA, with Erika Kirk, opened an office in Las Vegas, possibly in March.
 
-*Related: C-15144, N-10887*
+*Related: C-14048, N-10887*
 
 ---
 
 ## 5. Claim Register
 
-**C-15063** Host says the Latvian Monster Lab operator pays people to harass her
+**C-13967** Host says the Latvian Monster Lab operator pays people to harass her
 
 Claim Timestamp: 00:00:52
 
@@ -662,7 +662,7 @@ Investigative Direction: Monster Lab campaign listings and payout records naming
 
 ---
 
-**C-15064** Blake Neff joined an X live space
+**C-13968** Blake Neff joined an X live space
 
 Claim Timestamp: 00:02:36
 
@@ -678,7 +678,7 @@ Investigative Direction: Recording of the X Space from the evening of October 6,
 
 ---
 
-**C-15065** Neff says people who worked with the host say she was awful to assistants
+**C-13969** Neff says people who worked with the host say she was awful to assistants
 
 Claim Timestamp: 00:03:08
 
@@ -694,7 +694,7 @@ Investigative Direction: Whether Neff has spoken to any former staff of the host
 
 ---
 
-**C-15066** Neff says the host would "hate Erika for murdering Charlie"
+**C-13970** Neff says the host would "hate Erika for murdering Charlie"
 
 Claim Timestamp: 00:03:25
 
@@ -710,7 +710,7 @@ Investigative Direction: Full X Space recording to confirm the exact wording.
 
 ---
 
-**C-15067** Neff says the host dislikes white women and pretty women
+**C-13971** Neff says the host dislikes white women and pretty women
 
 Claim Timestamp: 00:03:38
 
@@ -726,7 +726,7 @@ Investigative Direction: Full X Space recording.
 
 ---
 
-**C-15068** Another participant says Neff meant "marrying Charlie"
+**C-13972** Another participant says Neff meant "marrying Charlie"
 
 Claim Timestamp: 00:04:08
 
@@ -742,7 +742,7 @@ Investigative Direction: Identify the X Space participant who raised the slip; f
 
 ---
 
-**C-15069** Neff says he is pretty sure he said "marrying Charlie"
+**C-13973** Neff says he is pretty sure he said "marrying Charlie"
 
 Claim Timestamp: 00:04:15
 
@@ -758,7 +758,7 @@ Investigative Direction: Compare the recorded word in the X Space audio with Nef
 
 ---
 
-**C-15070** Host says Neff has admitted he has never met her
+**C-13974** Host says Neff has admitted he has never met her
 
 Claim Timestamp: 00:04:42
 
@@ -774,7 +774,7 @@ Investigative Direction: Neff's prior statement that he has never met the host.
 
 ---
 
-**C-15071** Host says her assistants stayed six and five years
+**C-13975** Host says her assistants stayed six and five years
 
 Claim Timestamp: 00:04:55
 
@@ -790,7 +790,7 @@ Investigative Direction: Employment records of the host's staff.
 
 ---
 
-**C-15072** Host recalls Kolvet's "processing their guilt" remark corrected by Megyn Kelly
+**C-13976** Host recalls Kolvet's "processing their guilt" remark corrected by Megyn Kelly
 
 Claim Timestamp: 00:05:30
 
@@ -806,7 +806,7 @@ Investigative Direction: The Megyn Kelly Show episode with Kolvet in September 2
 
 ---
 
-**C-15073** Wear Forbidden posted a video on the Neff slip
+**C-13977** Wear Forbidden posted a video on the Neff slip
 
 Claim Timestamp: 00:05:50
 
@@ -822,7 +822,7 @@ Investigative Direction: Wear Forbidden post and its date.
 
 ---
 
-**C-15074** Host says Neff's outbursts follow episodes that make TPUSA nervous
+**C-13978** Host says Neff's outbursts follow episodes that make TPUSA nervous
 
 Claim Timestamp: 00:06:58
 
@@ -838,7 +838,7 @@ Investigative Direction: Timeline of Neff posts against the host's episode dates
 
 ---
 
-**C-15075** Host says Blake Wynn's Las Vegas firm supplied the Erika and TPUSA clip files
+**C-13979** Host says Blake Wynn's Las Vegas firm supplied the Erika and TPUSA clip files
 
 Claim Timestamp: 00:07:26
 
@@ -849,13 +849,13 @@ Transcript Snippet: the files for clipping Erika Kirk and Turning Point USA were
 Anchored Artifacts:
 Mentions: N-2, N-352
 Related Nodes: N-10882, N-10887, N-10000
-Supports: C-10616
+Supports: C-13931
 Tags: relevance:core
 Investigative Direction: Enclave and Key corporate filings in the U.S. and Romania; Google Drive links in Monster Lab campaigns.
 
 ---
 
-**C-15076** Host asks who would pay a million dollars a month through Discord
+**C-13980** Host asks who would pay a million dollars a month through Discord
 
 Claim Timestamp: 00:08:55
 
@@ -866,13 +866,13 @@ Transcript Snippet: Who in their right mind would pay a million dollars a month 
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10881, N-10000
-Supports: C-3682
+Supports: C-13898
 Tags: relevance:context
 Investigative Direction: Monster Lab campaign budgets and payout records.
 
 ---
 
-**C-15077** Host says Erika's friend directed employees to market her on the Latvian-run site
+**C-13981** Host says Erika's friend directed employees to market her on the Latvian-run site
 
 Claim Timestamp: 00:10:05
 
@@ -888,7 +888,7 @@ Investigative Direction: Atlantic reporting and campaign drive timestamps for Se
 
 ---
 
-**C-15078** Commentator theorizes Blake Wynn gifted Erika's Kirk Force 1s
+**C-13982** Commentator theorizes Blake Wynn gifted Erika's Kirk Force 1s
 
 Claim Timestamp: 00:10:57
 
@@ -904,7 +904,7 @@ Investigative Direction: Origin of the custom sneakers; @what.the.fekete post.
 
 ---
 
-**C-15079** Host says Wynn gifted Charlie South Park sneakers shortly before his death
+**C-13983** Host says Wynn gifted Charlie South Park sneakers shortly before his death
 
 Claim Timestamp: 00:11:20
 
@@ -920,7 +920,7 @@ Investigative Direction: Date and source of the sneaker video; maker of the cust
 
 ---
 
-**C-15080** Sneaker video says shoes were mailed via a buddy
+**C-13984** Sneaker video says shoes were mailed via a buddy
 
 Claim Timestamp: 00:11:45
 
@@ -936,7 +936,7 @@ Investigative Direction: Confirm the speaker's identity and where the video was 
 
 ---
 
-**C-15081** Atlantic says videos were deleted from the Google Drive after the writer's inquiries
+**C-13985** Atlantic says videos were deleted from the Google Drive after the writer's inquiries
 
 Claim Timestamp: 00:12:25
 
@@ -947,13 +947,13 @@ Transcript Snippet: Uh the Atlantic article informed us that they moved to delet
 Anchored Artifacts:
 Mentions: N-352
 Related Nodes: N-10882, N-10889
-Supports: C-3689
+Supports: C-13923
 Tags: relevance:context
 Investigative Direction: The Atlantic article text; Google Drive access logs.
 
 ---
 
-**C-15082** Host says the Monster Lab site is now blocked in the United States
+**C-13986** Host says the Monster Lab site is now blocked in the United States
 
 Claim Timestamp: 00:12:52
 
@@ -969,7 +969,7 @@ Investigative Direction: Check the site from U.S. and non-U.S. addresses; geoblo
 
 ---
 
-**C-15083** Host says the site remains visible from other countries
+**C-13987** Host says the site remains visible from other countries
 
 Claim Timestamp: 00:13:20
 
@@ -985,7 +985,7 @@ Investigative Direction: Independent access tests from multiple regions.
 
 ---
 
-**C-15084** Host corrects that the operator is not named Mat Servius
+**C-13988** Host corrects that the operator is not named Mat Servius
 
 Claim Timestamp: 00:14:10
 
@@ -996,13 +996,13 @@ Transcript Snippet: We told you yesterday his name was Mat Servius. We were wron
 Anchored Artifacts:
 Mentions: N-351, N-950
 Related Nodes: N-10886
-Revises: C-10595
+Revises: C-13901
 Tags: relevance:context
 Investigative Direction: Atlantic article and Discord handles used by the operator.
 
 ---
 
-**C-15085** Host names the operator as Matiss Tabuns
+**C-13989** Host names the operator as Matiss Tabuns
 
 Claim Timestamp: 00:14:33
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Latvian business registry and Clip It LLC records listi
 
 ---
 
-**C-15086** Host says Tabuns is from Talsi and allegedly dropped out of high school
+**C-13990** Host says Tabuns is from Talsi and allegedly dropped out of high school
 
 Claim Timestamp: 00:14:48
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Talsi school records; statements from the Latvian sourc
 
 ---
 
-**C-15087** Host says Tabuns appears flush with cash on Instagram
+**C-13991** Host says Tabuns appears flush with cash on Instagram
 
 Claim Timestamp: 00:15:02
 
@@ -1050,7 +1050,7 @@ Investigative Direction: Tabuns' Instagram account and business registrations.
 
 ---
 
-**C-15088** Host says Tabuns is in his early 20s and shows a Vietnam video
+**C-13992** Host says Tabuns is in his early 20s and shows a Vietnam video
 
 Claim Timestamp: 00:15:15
 
@@ -1066,7 +1066,7 @@ Investigative Direction: Date and source of the Instagram video.
 
 ---
 
-**C-15089** Host says Clip It LLC was filed on May 28, 2025
+**C-13993** Host says Clip It LLC was filed on May 28, 2025
 
 Claim Timestamp: 00:15:55
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Wyoming Secretary of State filing for Clip It LLC.
 
 ---
 
-**C-15090** Host says Clip It LLC was filed in Wyoming
+**C-13994** Host says Clip It LLC was filed in Wyoming
 
 Claim Timestamp: 00:16:10
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Wyoming Secretary of State business search.
 
 ---
 
-**C-15091** Host says the registered agent runs nearly 3,000 businesses out of a run-down house
+**C-13995** Host says the registered agent runs nearly 3,000 businesses out of a run-down house
 
 Claim Timestamp: 00:16:28
 
@@ -1114,7 +1114,7 @@ Investigative Direction: Wyoming registry count of entities using that agent and
 
 ---
 
-**C-15092** Host says the agent is an 82-year-old woman named in the Pandora Papers
+**C-13996** Host says the agent is an 82-year-old woman named in the Pandora Papers
 
 Claim Timestamp: 00:16:45
 
@@ -1130,7 +1130,7 @@ Investigative Direction: Clip It LLC registered agent of record; ICIJ Pandora Pa
 
 ---
 
-**C-15093** Host says politicians and prime ministers resigned in 2021 over the Pandora Papers
+**C-13997** Host says politicians and prime ministers resigned in 2021 over the Pandora Papers
 
 Claim Timestamp: 00:17:05
 
@@ -1146,7 +1146,7 @@ Investigative Direction: ICIJ reporting on resignations following the Pandora Pa
 
 ---
 
-**C-15094** Host says about 12 million records were leaked and obtained by the ICIJ
+**C-13998** Host says about 12 million records were leaked and obtained by the ICIJ
 
 Claim Timestamp: 00:17:14
 
@@ -1162,7 +1162,7 @@ Investigative Direction: ICIJ Pandora Papers project page.
 
 ---
 
-**C-15095** Host says 35 world leaders and 330 politicians in 91 countries were implicated
+**C-13999** Host says 35 world leaders and 330 politicians in 91 countries were implicated
 
 Claim Timestamp: 00:17:42
 
@@ -1178,7 +1178,7 @@ Investigative Direction: ICIJ Pandora Papers summary figures.
 
 ---
 
-**C-15096** Host says the ICIJ estimated $6 to $32 trillion held offshore
+**C-14000** Host says the ICIJ estimated $6 to $32 trillion held offshore
 
 Claim Timestamp: 00:18:38
 
@@ -1194,7 +1194,7 @@ Investigative Direction: ICIJ published estimate of offshore holdings.
 
 ---
 
-**C-15097** Host names Cindy Jackson as the Pandora Papers registered agent used for Clip It LLC
+**C-14001** Host names Cindy Jackson as the Pandora Papers registered agent used for Clip It LLC
 
 Claim Timestamp: 00:18:58
 
@@ -1210,7 +1210,7 @@ Investigative Direction: Clip It LLC Wyoming filing showing the registered agent
 
 ---
 
-**C-15098** Host shows the 2022 article "The gatekeepers who help open America to oligarchs and scammers"
+**C-14002** Host shows the 2022 article "The gatekeepers who help open America to oligarchs and scammers"
 
 Claim Timestamp: 00:19:15
 
@@ -1226,7 +1226,7 @@ Investigative Direction: The ICIJ / partner article with that headline.
 
 ---
 
-**C-15099** Article says Jackson was gatekeeper for more than 350 companies
+**C-14003** Article says Jackson was gatekeeper for more than 350 companies
 
 Claim Timestamp: 00:19:49
 
@@ -1242,7 +1242,7 @@ Investigative Direction: Article text; compare with the host's "nearly 3,000 bus
 
 ---
 
-**C-15100** Article says Jackson represented companies tied to a convicted lawyer, a felon and a Ukrainian tycoon, including Ferrous LLC
+**C-14004** Article says Jackson represented companies tied to a convicted lawyer, a felon and a Ukrainian tycoon, including Ferrous LLC
 
 Claim Timestamp: 00:20:30
 
@@ -1258,7 +1258,7 @@ Investigative Direction: Wyoming filings for Ferrous LLC; article sourcing.
 
 ---
 
-**C-15101** Host says Kolomoisky is an Israeli-Ukrainian billionaire with Chabad ties
+**C-14005** Host says Kolomoisky is an Israeli-Ukrainian billionaire with Chabad ties
 
 Claim Timestamp: 00:21:02
 
@@ -1274,7 +1274,7 @@ Investigative Direction: Kolomoisky citizenship and community affiliations in pu
 
 ---
 
-**C-15102** Host says Kolomoisky funded Zelensky into power and nationalized bank money went missing
+**C-14006** Host says Kolomoisky funded Zelensky into power and nationalized bank money went missing
 
 Claim Timestamp: 00:21:15
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Reporting on PrivatBank nationalization and Kolomoisky'
 
 ---
 
-**C-15103** Host says Tabuns says the site has been up for one year
+**C-14007** Host says Tabuns says the site has been up for one year
 
 Claim Timestamp: 00:21:58
 
@@ -1301,13 +1301,13 @@ Transcript Snippet: And um according to him, he says it's been up for 1 year.
 Anchored Artifacts:
 Mentions: N-950
 Related Nodes: N-10880
-Supports: C-10603
+Supports: C-13912
 Tags: relevance:context
 Investigative Direction: Domain registration and archive history of the site.
 
 ---
 
-**C-15104** Host says one of the first clients was a friend of Erika marketing her five days after the assassination
+**C-14008** Host says one of the first clients was a friend of Erika marketing her five days after the assassination
 
 Claim Timestamp: 00:22:05
 
@@ -1318,13 +1318,13 @@ Transcript Snippet: one of his first clients on this monster website is going to
 Anchored Artifacts:
 Mentions: N-2, N-352
 Related Nodes: N-10880, N-10891
-Supports: C-3691
+Supports: C-13937
 Tags: relevance:core
 Investigative Direction: Monster Lab client list and campaign start dates.
 
 ---
 
-**C-15105** Host says Elephant Clipping became the go-to for Shapiro and Crowder
+**C-14009** Host says Elephant Clipping became the go-to for Shapiro and Crowder
 
 Claim Timestamp: 00:22:35
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Monster Lab campaign listings naming Shapiro or Crowder
 
 ---
 
-**C-15106** Host says she confirmed Chief Jeff Long has resigned
+**C-14010** Host says she confirmed Chief Jeff Long has resigned
 
 Claim Timestamp: 00:27:02
 
@@ -1356,7 +1356,7 @@ Investigative Direction: UVU announcement or personnel records on Long's departu
 
 ---
 
-**C-15107** Host says TPUSA and affiliates wrongly blamed Long for a year
+**C-14011** Host says TPUSA and affiliates wrongly blamed Long for a year
 
 Claim Timestamp: 00:27:35
 
@@ -1367,13 +1367,13 @@ Transcript Snippet: learned about how effectively Turning Point USA and their af
 Anchored Artifacts:
 Mentions: N-271
 Related Nodes: N-10000, N-10839
-Supports: C-9240
+Supports: C-13866
 Tags: relevance:core
 Investigative Direction: TPUSA public statements on Long compared with the independent review.
 
 ---
 
-**C-15108** Host says the public was led to believe the message was sent to Harpole
+**C-14012** Host says the public was led to believe the message was sent to Harpole
 
 Claim Timestamp: 00:28:00
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Original text thread between Dan Flood and Chief Long.
 
 ---
 
-**C-15109** Harpole says in a clip they have correspondence with the chief from the Monday before
+**C-14013** Harpole says in a clip they have correspondence with the chief from the Monday before
 
 Claim Timestamp: 00:28:25
 
@@ -1405,7 +1405,7 @@ Investigative Direction: Full Shawn Ryan Show episode and text timestamps.
 
 ---
 
-**C-15110** Harpole reads the message about student roof access near the event
+**C-14014** Harpole reads the message about student roof access near the event
 
 Claim Timestamp: 00:28:58
 
@@ -1421,7 +1421,7 @@ Investigative Direction: Original text message and building layout.
 
 ---
 
-**C-15111** Harpole says the chief's last reply was "I got you covered"
+**C-14015** Harpole says the chief's last reply was "I got you covered"
 
 Claim Timestamp: 00:29:40
 
@@ -1437,7 +1437,7 @@ Investigative Direction: Text thread showing the reply and its sender and recipi
 
 ---
 
-**C-15112** Host says the independent review confirmed Harpole misrepresented things
+**C-14016** Host says the independent review confirmed Harpole misrepresented things
 
 Claim Timestamp: 00:30:15
 
@@ -1453,7 +1453,7 @@ Investigative Direction: Independent review passages on the text exchange.
 
 ---
 
-**C-15113** Host says Dan Flood has not spoken about the message
+**C-14017** Host says Dan Flood has not spoken about the message
 
 Claim Timestamp: 00:30:38
 
@@ -1469,7 +1469,7 @@ Investigative Direction: Any public statement by Dan Flood.
 
 ---
 
-**C-15114** Host says the official account is that Erika did not know of threats the night before
+**C-14018** Host says the official account is that Erika did not know of threats the night before
 
 Claim Timestamp: 00:31:05
 
@@ -1485,7 +1485,7 @@ Investigative Direction: Erika Kirk's statements on prior threats; TPUSA interna
 
 ---
 
-**C-15115** Host says Turek gave conflicting accounts of when he got the text
+**C-14019** Host says Turek gave conflicting accounts of when he got the text
 
 Claim Timestamp: 00:31:20
 
@@ -1501,7 +1501,7 @@ Investigative Direction: Turek's recorded statements on when he received the mes
 
 ---
 
-**C-15116** Host says Kolvet blamed Long after the Kirk family filed intent to sue
+**C-14020** Host says Kolvet blamed Long after the Kirk family filed intent to sue
 
 Claim Timestamp: 00:31:38
 
@@ -1517,7 +1517,7 @@ Investigative Direction: Date of the Kolvet segment versus the notice of intent 
 
 ---
 
-**C-15117** Kolvet says in a clip that Long's "I got you covered" was not the case
+**C-14021** Kolvet says in a clip that Long's "I got you covered" was not the case
 
 Claim Timestamp: 00:32:18
 
@@ -1533,7 +1533,7 @@ Investigative Direction: Full Kolvet segment; text thread context on which roof 
 
 ---
 
-**C-15118** Host alleges TPUSA knew what the texts referred to and pretended otherwise for a year
+**C-14022** Host alleges TPUSA knew what the texts referred to and pretended otherwise for a year
 
 Claim Timestamp: 00:33:10
 
@@ -1549,7 +1549,7 @@ Investigative Direction: TPUSA internal access to the Flood text thread; dates o
 
 ---
 
-**C-15119** Host says Long was harassed and asks whether he will sue
+**C-14023** Host says Long was harassed and asks whether he will sue
 
 Claim Timestamp: 00:33:25
 
@@ -1565,7 +1565,7 @@ Investigative Direction: Any legal filing by Long.
 
 ---
 
-**C-15120** Host says TPUSA controlled the tickets and told Long 600 people
+**C-14024** Host says TPUSA controlled the tickets and told Long 600 people
 
 Claim Timestamp: 00:33:38
 
@@ -1576,13 +1576,13 @@ Transcript Snippet: we were controlling the tickets, and we told him there was g
 Anchored Artifacts:
 Mentions: N-271
 Related Nodes: N-10000, N-11215
-Supports: C-9244
+Supports: C-13871
 Tags: relevance:core
 Investigative Direction: Independent review on ticket counts and staffing changes on September 10.
 
 ---
 
-**C-15121** Host says Long called in more officers on the day
+**C-14025** Host says Long called in more officers on the day
 
 Claim Timestamp: 00:33:50
 
@@ -1598,7 +1598,7 @@ Investigative Direction: Independent review on UVU PD staffing adjustments.
 
 ---
 
-**C-15122** Host says Harpole is suing her
+**C-14026** Host says Harpole is suing her
 
 Claim Timestamp: 00:34:00
 
@@ -1614,7 +1614,7 @@ Investigative Direction: Harpole v. Owens court docket.
 
 ---
 
-**C-15123** Host says Robin Ebmeyer is resigning or has resigned
+**C-14027** Host says Robin Ebmeyer is resigning or has resigned
 
 Claim Timestamp: 00:34:18
 
@@ -1630,7 +1630,7 @@ Investigative Direction: UVU personnel records or announcement.
 
 ---
 
-**C-15124** Host identifies Ebmeyer as UVU emergency management director
+**C-14028** Host identifies Ebmeyer as UVU emergency management director
 
 Claim Timestamp: 00:34:30
 
@@ -1646,7 +1646,7 @@ Investigative Direction: UVU staff directory.
 
 ---
 
-**C-15125** Review says Ebmeyer was at the meeting where Crofts insisted on an outdoor venue
+**C-14029** Review says Ebmeyer was at the meeting where Crofts insisted on an outdoor venue
 
 Claim Timestamp: 00:34:42
 
@@ -1662,7 +1662,7 @@ Investigative Direction: Independent review section on the major events committe
 
 ---
 
-**C-15126** Review says Crofts insisted on the courtyard and preferred TPUSA ticketing via Phoenix
+**C-14030** Review says Crofts insisted on the courtyard and preferred TPUSA ticketing via Phoenix
 
 Claim Timestamp: 00:35:03
 
@@ -1678,7 +1678,7 @@ Investigative Direction: Independent review text and meeting minutes.
 
 ---
 
-**C-15127** Review says committee members including Ebmeyer kept expressing reservations
+**C-14031** Review says committee members including Ebmeyer kept expressing reservations
 
 Claim Timestamp: 00:35:18
 
@@ -1694,7 +1694,7 @@ Investigative Direction: Independent review text.
 
 ---
 
-**C-15128** Review says Ebmeyer was absent on September 10 on a pre-scheduled vacation
+**C-14032** Review says Ebmeyer was absent on September 10 on a pre-scheduled vacation
 
 Claim Timestamp: 00:35:34
 
@@ -1710,7 +1710,7 @@ Investigative Direction: Independent review page 73.
 
 ---
 
-**C-15129** Host corrects that Ebmeyer resigned rather than was let go
+**C-14033** Host corrects that Ebmeyer resigned rather than was let go
 
 Claim Timestamp: 00:36:18
 
@@ -1726,7 +1726,7 @@ Investigative Direction: UVU personnel records on the nature of the departures.
 
 ---
 
-**C-15130** Host says her UVU sources believe both were wronged
+**C-14034** Host says her UVU sources believe both were wronged
 
 Claim Timestamp: 00:36:55
 
@@ -1742,7 +1742,7 @@ Investigative Direction: Interviews with UVU staff.
 
 ---
 
-**C-15131** Loomer tweet says an NYC DMV card reader showed a Palestinian flag on October 7
+**C-14035** Loomer tweet says an NYC DMV card reader showed a Palestinian flag on October 7
 
 Claim Timestamp: 00:37:55
 
@@ -1758,7 +1758,7 @@ Investigative Direction: The original photo and the card terminal's standard dis
 
 ---
 
-**C-15132** Host says the screen shows card-reader accept and deny colors
+**C-14036** Host says the screen shows card-reader accept and deny colors
 
 Claim Timestamp: 00:38:30
 
@@ -1774,7 +1774,7 @@ Investigative Direction: Terminal model and its idle screen design.
 
 ---
 
-**C-15133** Gary Melton replies that following Ian Carroll says all he needs to know
+**C-14037** Gary Melton replies that following Ian Carroll says all he needs to know
 
 Claim Timestamp: 00:40:08
 
@@ -1790,7 +1790,7 @@ Investigative Direction: The X thread.
 
 ---
 
-**C-15134** Ian Carroll replies that Melton follows him
+**C-14038** Ian Carroll replies that Melton follows him
 
 Claim Timestamp: 00:40:20
 
@@ -1806,7 +1806,7 @@ Investigative Direction: The X thread and follow lists.
 
 ---
 
-**C-15135** Melton says he will fix it and has Carroll's phone number
+**C-14039** Melton says he will fix it and has Carroll's phone number
 
 Claim Timestamp: 00:40:40
 
@@ -1822,7 +1822,7 @@ Investigative Direction: The X thread.
 
 ---
 
-**C-15136** Host cites Vanity Fair saying the sun revolved around Charlie
+**C-14040** Host cites Vanity Fair saying the sun revolved around Charlie
 
 Claim Timestamp: 00:40:55
 
@@ -1838,7 +1838,7 @@ Investigative Direction: Vanity Fair profile text.
 
 ---
 
-**C-15137** Host says she is not funded by Qatari money
+**C-14041** Host says she is not funded by Qatari money
 
 Claim Timestamp: 00:44:05
 
@@ -1854,7 +1854,7 @@ Investigative Direction: Show ownership and revenue sources.
 
 ---
 
-**C-15138** Host says she does not use paid foreign clippers
+**C-14042** Host says she does not use paid foreign clippers
 
 Claim Timestamp: 00:44:10
 
@@ -1865,13 +1865,13 @@ Transcript Snippet: We don't use people and clippers in foreign countries to try
 Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10883
-Supports: C-10617
+Supports: C-13932
 Tags: relevance:context
 Investigative Direction: Show marketing spend; clipping campaign listings naming the host's show.
 
 ---
 
-**C-15139** Host says the Monster Lab block is a sign they are onto something
+**C-14043** Host says the Monster Lab block is a sign they are onto something
 
 Claim Timestamp: 00:44:38
 
@@ -1887,7 +1887,7 @@ Investigative Direction: Timing of the U.S. block relative to the prior episode.
 
 ---
 
-**C-15140** Host says she believes Tabuns is working on behalf of someone else
+**C-14044** Host says she believes Tabuns is working on behalf of someone else
 
 Claim Timestamp: 00:44:50
 
@@ -1903,7 +1903,7 @@ Investigative Direction: Clip It LLC beneficial ownership and funding sources.
 
 ---
 
-**C-15141** DIA: Host asks for tips on Tabuns
+**C-14045** DIA: Host asks for tips on Tabuns
 
 Claim Timestamp: 00:45:02
 
@@ -1919,7 +1919,7 @@ Investigative Direction: Tips received about Tabuns and Clip It LLC.
 
 ---
 
-**C-15142** Host says per the Atlantic the campaign began September 15
+**C-14046** Host says per the Atlantic the campaign began September 15
 
 Claim Timestamp: 00:45:22
 
@@ -1930,13 +1930,13 @@ Transcript Snippet: we can confirm that campaign um did begin according to The A
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10889, N-10891, N-10881
-Supports: C-3688
+Supports: C-13915
 Tags: relevance:core
 Investigative Direction: The Atlantic article and drive upload timestamps.
 
 ---
 
-**C-15143** Host says Erika gave her kids to Rob McCoy's wife while calling donors
+**C-14047** Host says Erika gave her kids to Rob McCoy's wife while calling donors
 
 Claim Timestamp: 00:45:50
 
@@ -1952,7 +1952,7 @@ Investigative Direction: Accounts of Erika Kirk's activities in the days after S
 
 ---
 
-**C-15144** Host recalls TPUSA opening a Las Vegas office with Erika, she thinks in March
+**C-14048** Host recalls TPUSA opening a Las Vegas office with Erika, she thinks in March
 
 Claim Timestamp: 00:46:10
 
@@ -1968,7 +1968,7 @@ Investigative Direction: TPUSA announcements of a Las Vegas office and its date.
 
 ---
 
-**C-15145** Host says Tyler Bowyer was allegedly telling people TPUSA would get into housing
+**C-14049** Host says Tyler Bowyer was allegedly telling people TPUSA would get into housing
 
 Claim Timestamp: 00:46:40
 
@@ -1984,7 +1984,7 @@ Investigative Direction: Sources of the Bowyer housing remark; TPUSA real estate
 
 ---
 
-**C-15146** A viewer comment dates Kolvet's "processing their guilt" remark to September 18, 2025
+**C-14050** A viewer comment dates Kolvet's "processing their guilt" remark to September 18, 2025
 
 Claim Timestamp: 00:47:26
 
@@ -2000,7 +2000,7 @@ Investigative Direction: The Megyn Kelly Show episode from September 18, 2025.
 
 ---
 
-**C-15147** A viewer comment says "grieving widow" has been trademarked since September 9, 2025
+**C-14051** A viewer comment says "grieving widow" has been trademarked since September 9, 2025
 
 Claim Timestamp: 00:49:02
 
@@ -2016,7 +2016,7 @@ Investigative Direction: USPTO search for "grieving widow" filings and their dat
 
 ---
 
-**C-15148** A viewer comment quotes Erika as saying "text me the names of the heavy hitters"
+**C-14052** A viewer comment quotes Erika as saying "text me the names of the heavy hitters"
 
 Claim Timestamp: 00:49:32
 
@@ -2032,7 +2032,7 @@ Investigative Direction: Source and context of the quoted Erika Kirk remark.
 
 ---
 
-**C-15149** Host says Erika's ultimate goal may have been the White House via Charlie
+**C-14053** Host says Erika's ultimate goal may have been the White House via Charlie
 
 Claim Timestamp: 00:50:00
 
@@ -2043,13 +2043,13 @@ Transcript Snippet: her closest shot at getting into the White House, which I th
 Anchored Artifacts:
 Mentions: N-2, N-1
 Related Nodes:
-Supports: C-10629
+Supports: C-13950
 Tags: relevance:core
 Investigative Direction: Erika Kirk's public statements on political ambitions.
 
 ---
 
-**C-15150** Host says America built a base in Romania because of corrupt leaders
+**C-14054** Host says America built a base in Romania because of corrupt leaders
 
 Claim Timestamp: 00:51:12
 
@@ -2065,7 +2065,7 @@ Investigative Direction: U.S. military presence in Romania and its stated ration
 
 ---
 
-**C-15151** Host says she is late in pregnancy and wearing George's clothes
+**C-14055** Host says she is late in pregnancy and wearing George's clothes
 
 Claim Timestamp: 00:52:28
 
@@ -2408,7 +2408,7 @@ Confidence: medium
 - Unresolved term: "TPO say official" (00:32:00, Kolvet clip) – unclear; not used in claims.
 - Speaker identity: the sneaker video at 00:11:45 is not identified on air as Blake Wynn; the host frames it in his context. The 00:31:55 clip is introduced by the host as Kolvet but the speaker is not named in the clip.
 - Number discrepancy: the host says the registered agent runs "nearly 3,000 businesses" (00:16:35), while the 2022 article she reads says "more than 350 companies" (00:19:52). She also calls the agent 82 years old, and the article gave 77 at the time.
-- Revises link C-15084 -> C-10595: the host explicitly says her prior-day name for the operator was wrong. Integrator may drop it if C-10595 is read as being only about the role.
+- Revises link C-13988 -> C-13901: the host explicitly says her prior-day name for the operator was wrong. Integrator may drop it if C-13901 is read as being only about the role.
 - Artifacts referenced but not shown: The Atlantic article (00:12:25, 00:45:22); the after-action / independent review shown only as read passages; the Vanity Fair article (00:40:55).
 - DIA scan: "More tips at candaceowens.com" (00:45:05) is a DIA beat. "candaceowens.com" at 00:51:58 is a merch plug, not a DIA beat. The Latvian emails that corrected the operator's name (00:14:15) and the UVU staff emails (00:27:02) are tips received but do not use the scanned phrases. "Got this tip" (00:13:15) refers to the VPN workaround and is not a request for tips.
 - Rejected claims (admission test): the host's characterization of the Andrew and Rachel Wilson types and TPUSA as gaudy or degenerate (00:08:02); "Turning Point doesn't feel clean anymore" (opinion); the Sheldon Adelson "purchasing the presidency vibe" (framing); the viewer comment that Erika is "nasty behind the scenes" (opinion); the Pentagon audit and Ukraine/Israel "laundromats" remarks (00:18:00, rhetoric); the host's statement that Laura Loomer is clinically insane (insult); the viewer suggestion that Gary Melton has a brain injury (insult); the Lady Lala comment about a Wyoming LLC and a search in Israel (unverifiable private anecdote); the viewer's dog and vet anecdote; the host's claim that Erika is frustrated she will not take over for Charlie (opinion).

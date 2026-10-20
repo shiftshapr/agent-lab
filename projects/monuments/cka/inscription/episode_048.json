@@ -27,7 +27,7 @@
           "ref": "A-1552.1",
           "description": "Andrew Kolvet X post containing attributed quotation about Charlie's neck",
           "related_claims": [
-            "C-1960"
+            "C-4179"
           ],
           "related_nodes": [
             "N-14",
@@ -53,8 +53,8 @@
           "ref": "A-1553.1",
           "description": "Turek interview audio describing vehicle being roped off as crime scene, FBI clearance, his computer bag between bucket seats below Charlie, and Charlie's cross/medallion necklace draped over the bag",
           "related_claims": [
-            "C-1961",
-            "C-1962"
+            "C-4212",
+            "C-4213"
           ],
           "related_nodes": [
             "N-7",
@@ -79,10 +79,10 @@
           "ref": "A-1554.1",
           "description": "Coleman video segment defining SAM call signs and displaying flight log data for August 25–26, 2025",
           "related_claims": [
-            "C-1963",
-            "C-1964",
-            "C-1965",
-            "C-1966"
+            "C-4230",
+            "C-4232",
+            "C-4233",
+            "C-4234"
           ],
           "related_nodes": [
             "N-330",
@@ -108,7 +108,7 @@
           "ref": "A-1555.1",
           "description": "Harpole interview clip stating UVU event intelligence gathering began August 24",
           "related_claims": [
-            "C-1967"
+            "C-4238"
           ],
           "related_nodes": [
             "N-266",
@@ -133,7 +133,7 @@
           "ref": "A-1556.1",
           "description": "Set of six interior photographs of the vehicle used to transport Charlie Kirk to Timpanogos Regional Hospital",
           "related_claims": [
-            "C-1968"
+            "C-4219"
           ],
           "related_nodes": [
             "N-1",
@@ -159,7 +159,7 @@
           "ref": "A-2738.1",
           "description": "Host verbal reference to a list of names of the officers involved in discovering the gun (names not shown or released)",
           "related_claims": [
-            "C-5207"
+            "C-4200"
           ],
           "related_nodes": [
             "N-3"
@@ -184,10 +184,10 @@
           "ref": "A-2739.1",
           "description": "Host verbal reference to a tip from a few police officers about a white Toyota RAV4 pulled over by an officer (nothing shown)",
           "related_claims": [
-            "C-5211",
-            "C-5212",
-            "C-5213",
-            "C-5214"
+            "C-4204",
+            "C-4205",
+            "C-4206",
+            "C-4207"
           ],
           "related_nodes": [
             "N-3"
@@ -212,7 +212,7 @@
           "ref": "A-2740.1",
           "description": "Host-displayed timeline showing the dates of Operation Valhalla Strike (host says she will show it on the timelines; contents described, not read out)",
           "related_claims": [
-            "C-5238"
+            "C-4241"
           ],
           "related_nodes": [
             "N-3"
@@ -237,9 +237,9 @@
           "ref": "A-2741.1",
           "description": "Host verbal reference to multiple emails from people currently stationed at Fort Huachuca (not shown)",
           "related_claims": [
-            "C-5241",
-            "C-5242",
-            "C-5243"
+            "C-4244",
+            "C-4245",
+            "C-4246"
           ],
           "related_nodes": [
             "N-3"
@@ -264,10 +264,10 @@
           "ref": "A-2742.1",
           "description": "Host verbal reference to her interview with Piers Morgan recorded the same morning (not shown)",
           "related_claims": [
-            "C-5255",
-            "C-5256",
-            "C-5257",
-            "C-5258"
+            "C-4258",
+            "C-4259",
+            "C-4260",
+            "C-4261"
           ],
           "related_nodes": [
             "N-3"
@@ -292,7 +292,7 @@
           "ref": "A-2743.1",
           "description": "Viewer question from Jake Riley read aloud by the host",
           "related_claims": [
-            "C-5261"
+            "C-4264"
           ],
           "related_nodes": [
             "N-3"
@@ -309,9 +309,9 @@
           "ref": "A-2743.2",
           "description": "Viewer comment from Derpy Derp read aloud by the host",
           "related_claims": [
-            "C-5265",
-            "C-5266",
-            "C-5267"
+            "C-4268",
+            "C-4269",
+            "C-4270"
           ],
           "related_nodes": [
             "N-3"
@@ -337,7 +337,7 @@
         "A-1552.1"
       ],
       "related_claims": [
-        "C-1960"
+        "C-4179"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -359,7 +359,7 @@
         "A-1552.1"
       ],
       "related_claims": [
-        "C-1960"
+        "C-4179"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -381,8 +381,8 @@
         "A-1553.1"
       ],
       "related_claims": [
-        "C-1961",
-        "C-1962"
+        "C-4212",
+        "C-4213"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -404,10 +404,10 @@
         "A-1554.1"
       ],
       "related_claims": [
-        "C-1963",
-        "C-1964",
-        "C-1965",
-        "C-1966"
+        "C-4230",
+        "C-4232",
+        "C-4233",
+        "C-4234"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -430,7 +430,7 @@
         "A-1555.1"
       ],
       "related_claims": [
-        "C-1967"
+        "C-4238"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -470,7 +470,7 @@
         "A-1552.1"
       ],
       "related_claims": [
-        "C-1960"
+        "C-4179"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -563,7 +563,7 @@
         "A-1554.1"
       ],
       "related_claims": [
-        "C-1964"
+        "C-4232"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -585,8 +585,8 @@
         "A-1554.1"
       ],
       "related_claims": [
-        "C-1965",
-        "C-1966"
+        "C-4233",
+        "C-4234"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -631,7 +631,7 @@
         "A-1555.1"
       ],
       "related_claims": [
-        "C-1967"
+        "C-4238"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -651,13 +651,13 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5187",
-        "C-5192",
-        "C-5193",
-        "C-5194",
-        "C-5196",
-        "C-5252",
-        "C-5268"
+        "C-4180",
+        "C-4185",
+        "C-4186",
+        "C-4187",
+        "C-4189",
+        "C-4255",
+        "C-4271"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -708,10 +708,10 @@
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5193",
-        "C-5194",
-        "C-5267",
-        "C-5268"
+        "C-4186",
+        "C-4187",
+        "C-4270",
+        "C-4271"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -729,82 +729,82 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5185",
-        "C-5186",
-        "C-5188",
-        "C-5189",
-        "C-5190",
-        "C-5191",
-        "C-5192",
-        "C-5195",
-        "C-5196",
-        "C-5197",
-        "C-5198",
-        "C-5199",
-        "C-5200",
-        "C-5201",
-        "C-5202",
-        "C-5203",
-        "C-5204",
-        "C-5205",
-        "C-5206",
-        "C-5207",
-        "C-5208",
-        "C-5209",
-        "C-5210",
-        "C-5211",
-        "C-5212",
-        "C-5213",
-        "C-5214",
-        "C-5215",
-        "C-5216",
-        "C-5217",
-        "C-5218",
-        "C-5219",
-        "C-5220",
-        "C-5221",
-        "C-5222",
-        "C-5223",
-        "C-5224",
-        "C-5225",
-        "C-5226",
-        "C-5227",
-        "C-5228",
-        "C-5234",
-        "C-5238",
-        "C-5239",
-        "C-5240",
-        "C-5241",
-        "C-5242",
-        "C-5243",
-        "C-5244",
-        "C-5245",
-        "C-5246",
-        "C-5247",
-        "C-5248",
-        "C-5249",
-        "C-5250",
-        "C-5251",
-        "C-5252",
-        "C-5253",
-        "C-5254",
-        "C-5255",
-        "C-5256",
-        "C-5257",
-        "C-5258",
-        "C-5259",
-        "C-5260",
-        "C-5261",
-        "C-5262",
-        "C-5263",
-        "C-5264",
-        "C-5265",
-        "C-5266",
-        "C-5267",
-        "C-5268",
-        "C-5269",
-        "C-5270",
-        "C-5271"
+        "C-4177",
+        "C-4178",
+        "C-4181",
+        "C-4182",
+        "C-4183",
+        "C-4184",
+        "C-4185",
+        "C-4188",
+        "C-4189",
+        "C-4190",
+        "C-4191",
+        "C-4192",
+        "C-4193",
+        "C-4194",
+        "C-4195",
+        "C-4196",
+        "C-4197",
+        "C-4198",
+        "C-4199",
+        "C-4200",
+        "C-4201",
+        "C-4202",
+        "C-4203",
+        "C-4204",
+        "C-4205",
+        "C-4206",
+        "C-4207",
+        "C-4209",
+        "C-4210",
+        "C-4211",
+        "C-4214",
+        "C-4215",
+        "C-4216",
+        "C-4217",
+        "C-4218",
+        "C-4221",
+        "C-4222",
+        "C-4223",
+        "C-4224",
+        "C-4225",
+        "C-4226",
+        "C-4236",
+        "C-4241",
+        "C-4242",
+        "C-4243",
+        "C-4244",
+        "C-4245",
+        "C-4246",
+        "C-4247",
+        "C-4248",
+        "C-4249",
+        "C-4250",
+        "C-4251",
+        "C-4252",
+        "C-4253",
+        "C-4254",
+        "C-4255",
+        "C-4256",
+        "C-4257",
+        "C-4258",
+        "C-4259",
+        "C-4260",
+        "C-4261",
+        "C-4262",
+        "C-4263",
+        "C-4264",
+        "C-4265",
+        "C-4266",
+        "C-4267",
+        "C-4268",
+        "C-4269",
+        "C-4270",
+        "C-4271",
+        "C-4272",
+        "C-4273",
+        "C-4274"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -822,9 +822,9 @@
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5215",
-        "C-5231",
-        "C-5269"
+        "C-4209",
+        "C-4229",
+        "C-4272"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -842,8 +842,8 @@
       "description": "Reused; first introduced in episode 15.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5215",
-        "C-5216"
+        "C-4209",
+        "C-4210"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -861,8 +861,8 @@
       "description": "Umbrella investigation thread encompassing all episode-13 evidence streams.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5215",
-        "C-5216"
+        "C-4209",
+        "C-4210"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -881,7 +881,7 @@
       "description": "Placed by the host with Donald Trump at a DC restaurant on the evening in question.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5269"
+        "C-4272"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -898,7 +898,7 @@
       "description": "Named by the host as another target of Netanyahu's name-check.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5253"
+        "C-4256"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -915,7 +915,7 @@
       "description": "Host says he name-checked her and Tucker Carlson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5253"
+        "C-4256"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -932,7 +932,7 @@
       "description": "Named as the alleged shooter in the Freya canine trace account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5208"
+        "C-4201"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -949,7 +949,7 @@
       "description": "Host says Patel answered by not answering on her show.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5262"
+        "C-4265"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -966,9 +966,9 @@
       "description": "Subject of the 'We got them' retraction and the host's outreach to the FBI.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5224",
-        "C-5262",
-        "C-5263"
+        "C-4222",
+        "C-4265",
+        "C-4266"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -985,7 +985,7 @@
       "description": "Host says Piers Morgan still believes Brigitte is a woman who hides photos.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5260"
+        "C-4263"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1002,7 +1002,7 @@
       "description": "Host says she told viewers he handed X to the military.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5250"
+        "C-4253"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1019,8 +1019,8 @@
       "description": "Subject of the three-way call and Blake Neff account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5266",
-        "C-5267"
+        "C-4269",
+        "C-4270"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1037,7 +1037,7 @@
       "description": "Named among those saying Candace is over.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5251"
+        "C-4254"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1054,11 +1054,11 @@
       "description": "Host's interview earlier that day; his JFK and Brigitte Macron views.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5255",
-        "C-5256",
-        "C-5257",
-        "C-5259",
-        "C-5260"
+        "C-4258",
+        "C-4259",
+        "C-4260",
+        "C-4262",
+        "C-4263"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1075,7 +1075,7 @@
       "description": "Interviewer in the Harpole clip played on air.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5236"
+        "C-4239"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1092,7 +1092,7 @@
       "description": "Named among those saying Candace is over.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5251"
+        "C-4254"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1109,7 +1109,7 @@
       "description": "Organization the host says wanted a private meeting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5252"
+        "C-4255"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1126,7 +1126,7 @@
       "description": "Site of the event; topography dispute over the gun recovery site.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5198"
+        "C-4191"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1143,7 +1143,7 @@
       "description": "Agency whose badge the RAV4 driver allegedly flashed; target of host outreach.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5213"
+        "C-4206"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1160,8 +1160,8 @@
       "description": "Host links Egyptian planes and Netanyahu remarks to Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5249",
-        "C-5253"
+        "C-4252",
+        "C-4256"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1178,7 +1178,7 @@
       "description": "Organization the host alleges was implicated in the JFK matter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5258"
+        "C-4261"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1195,12 +1195,12 @@
       "description": "Existing topic reused for the host's statements on federal conduct on the day.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5210",
-        "C-5223",
-        "C-5224",
-        "C-5225",
-        "C-5262",
-        "C-5264"
+        "C-4203",
+        "C-4221",
+        "C-4222",
+        "C-4223",
+        "C-4265",
+        "C-4267"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1217,7 +1217,7 @@
       "description": "Existing topic reused for the camera seizure claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5197"
+        "C-4190"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1234,8 +1234,8 @@
       "description": "Existing topic reused for SUBTV flight logs.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5248",
-        "C-5249"
+        "C-4251",
+        "C-4252"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1252,7 +1252,7 @@
       "description": "Existing topic reused for the host's French Legion evidence claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5263"
+        "C-4266"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1269,7 +1269,7 @@
       "description": "Existing topic reused for the security gift option.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5254"
+        "C-4257"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1286,7 +1286,7 @@
       "description": "Existing topic reused for the host's Israel link.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5249"
+        "C-4252"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1303,16 +1303,16 @@
       "description": "Existing topic reused for the eyewitness verification claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5227",
-        "C-5228",
-        "C-5230",
-        "C-5239",
-        "C-5240",
-        "C-5241",
-        "C-5242",
-        "C-5243",
-        "C-5244",
-        "C-5245"
+        "C-4225",
+        "C-4226",
+        "C-4228",
+        "C-4242",
+        "C-4243",
+        "C-4244",
+        "C-4245",
+        "C-4246",
+        "C-4247",
+        "C-4248"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1329,7 +1329,7 @@
       "description": "Existing topic reused for the intelligence base claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5242"
+        "C-4245"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1346,8 +1346,8 @@
       "description": "Existing topic reused for the possible attendance claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5246",
-        "C-5247"
+        "C-4249",
+        "C-4250"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1364,8 +1364,8 @@
       "description": "Existing topic reused for the Tokyo return flight claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5246",
-        "C-5247"
+        "C-4249",
+        "C-4250"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1382,9 +1382,9 @@
       "description": "Place reused for the SAM000 landing and the congressman link.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5233",
-        "C-5270",
-        "C-5271"
+        "C-4235",
+        "C-4273",
+        "C-4274"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1401,7 +1401,7 @@
       "description": "Agency whose bomb dogs the host says searched the gun area and found nothing before federally directed officers found the weapon.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5204"
+        "C-4197"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1418,8 +1418,8 @@
       "description": "Host's account of a canine called Freya who traced a scent from the base of the building to the Losee Center rooftop using a condensed scent trace rather than the recovered gun.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5208",
-        "C-5209"
+        "C-4201",
+        "C-4202"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1436,11 +1436,11 @@
       "description": "Host's repeated claim that online reaction against her is driven by military grade bots, including new accounts and identical messaging, and that X was handed to the military.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5217",
-        "C-5226",
-        "C-5227",
-        "C-5250",
-        "C-5251"
+        "C-4211",
+        "C-4224",
+        "C-4225",
+        "C-4253",
+        "C-4254"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1457,8 +1457,8 @@
       "description": "Host's claim that the person Harry believes he saw leaving the September 9 Fort Huachuca meeting was a Las Vegas congressman, and her speculation tying this to the Las Vegas stop of the SAM000 aircraft.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5270",
-        "C-5271"
+        "C-4273",
+        "C-4274"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1470,8 +1470,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1960",
-      "ref": "C-1960",
+      "@id": "C-4179",
+      "ref": "C-4179",
       "label": "Kolvet X Post Attributes \"Man of Steel\" Quotation to Surgeon",
       "claim": "Andrew Kolvet's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
       "anchored_artifacts": [
@@ -1491,8 +1491,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1961",
-      "ref": "C-1961",
+      "@id": "C-4212",
+      "ref": "C-4212",
       "label": "Turek States FBI Cleared Vehicle Before He Retrieved His Bag",
       "claim": "Frank Turek states on a podcast that the transport vehicle was roped off as a crime scene and that he could not access it until the FBI cleared it, at which point he retrieved his computer bag.",
       "anchored_artifacts": [
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1962",
-      "ref": "C-1962",
+      "@id": "C-4213",
+      "ref": "C-4213",
       "label": "Turek States Charlie's Necklace Was on His Bag in Vehicle",
       "claim": "Frank Turek states on a podcast that Charlie's necklace, bearing a cross and medallions, was draped over his computer bag inside the transport vehicle, and that when a cop said they had been looking for it, he said he had it and took it.",
       "anchored_artifacts": [
@@ -1529,8 +1529,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1963",
-      "ref": "C-1963",
+      "@id": "C-4230",
+      "ref": "C-4230",
       "label": "Coleman Identifies SAM000 as Rare, Highly Sensitive Call Sign",
       "claim": "Baron Coleman states that SAM000 is a rarely used Special Air Mission call sign reserved for highly sensitive passenger manifests where the White House or US Air Force wish to be deliberately vague about who is aboard.",
       "anchored_artifacts": [
@@ -1548,8 +1548,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1964",
-      "ref": "C-1964",
+      "@id": "C-4232",
+      "ref": "C-4232",
       "label": "Coleman States SAM000 Flight Originated at Andrews to Colorado Springs on August 25",
       "claim": "Baron Coleman states that on August 25, 2025, a flight using the SAM000 call sign operated from Joint Base Andrews toward Colorado Springs, the location of the 10th Special Forces Group.",
       "anchored_artifacts": [
@@ -1568,8 +1568,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1965",
-      "ref": "C-1965",
+      "@id": "C-4233",
+      "ref": "C-4233",
       "label": "Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
       "claim": "The host, showing a flight log after playing a Baron Coleman clip, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.",
       "anchored_artifacts": [
@@ -1588,8 +1588,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1966",
-      "ref": "C-1966",
+      "@id": "C-4234",
+      "ref": "C-4234",
       "label": "Host Shows Return Flight Colorado Springs to Andrews as SAM658",
       "claim": "The host, showing a flight log after playing a Baron Coleman clip, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.",
       "anchored_artifacts": [
@@ -1607,8 +1607,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1967",
-      "ref": "C-1967",
+      "@id": "C-4238",
+      "ref": "C-4238",
       "label": "Harpole States UVU Event Intelligence Gathering Began August 24",
       "claim": "Brian Harpole states in an interview that the hard conversations, information sharing and conference calls for the UVU event began on August 24, though the intelligence gathering started before that.",
       "anchored_artifacts": [
@@ -1627,8 +1627,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1968",
-      "ref": "C-1968",
+      "@id": "C-4219",
+      "ref": "C-4219",
       "label": "Owens Possesses Six Photographs of Transport Vehicle Interior",
       "claim": "Candace Owens states that she is in possession of six photographs depicting the interior of the vehicle used to transport Charlie Kirk to Timpanogos Regional Hospital, and that the team considered displaying one on the broadcast.",
       "anchored_artifacts": [
@@ -1647,8 +1647,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3654",
-      "ref": "C-3654",
+      "@id": "C-4220",
+      "ref": "C-4220",
       "label": "Host elevates mommy sleuth crowd investigators",
       "claim": "The host praises \"mommy sleuth(s)\" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.",
       "anchored_artifacts": [],
@@ -1664,8 +1664,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3758",
-      "ref": "C-3758",
+      "@id": "C-4208",
+      "ref": "C-4208",
       "label": "Host calls the Charlie Kirk case the most extreme cover-up she has seen, carried out by the feds",
       "claim": "The host says she has never seen a more extreme cover-up than the Charlie Kirk cover-up the feds are engaged in, and links it to reports, which it looks like Trump has confirmed, that Dan Bongino will step down from the FBI; she suggests Bongino may have realised how far the corruption goes.",
       "anchored_artifacts": [],
@@ -1685,8 +1685,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5185",
-      "ref": "C-5185",
+      "@id": "C-4177",
+      "ref": "C-4177",
       "label": "Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
       "claim": "The host says she was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation he had with the surgeon.",
       "anchored_artifacts": [],
@@ -1704,8 +1704,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5186",
-      "ref": "C-5186",
+      "@id": "C-4178",
+      "ref": "C-4178",
       "label": "Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
       "claim": "The host says the Kolvet tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.",
       "anchored_artifacts": [],
@@ -1723,8 +1723,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5187",
-      "ref": "C-5187",
+      "@id": "C-4180",
+      "ref": "C-4180",
       "label": "Host Says Dr. Trotter Never Said Charlie's Neck Stopped a .30-06 Bullet",
       "claim": "The host says that, per a source she trusts, Dr. Lee Trotter never once said Charlie Kirk's neck stopped a .30-06 bullet, and that the quotation Kolvet shared on X is not a direct quotation from the surgeon.",
       "anchored_artifacts": [],
@@ -1736,7 +1736,7 @@
       "investigative_direction": "Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Kolvet.",
       "transcript_snippet": "never once did Dr. Lee Trotter say that Charlie's neck was stopped uh Charlie's neck stopped a.30-06 bullet.",
       "qualifies_claim_refs": [
-        "C-1960"
+        "C-4179"
       ],
       "mentions_person_refs": [
         "N-195",
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5188",
-      "ref": "C-5188",
+      "@id": "C-4181",
+      "ref": "C-4181",
       "label": "Host Says She Did Not Speak to Trotter but Has Verified and Trusts Her Source",
       "claim": "The host says she did not speak directly to Dr. Lee Trotter but has verified and trusts the source of her account, and hedges the account with \"allegedly\".",
       "anchored_artifacts": [],
@@ -1765,8 +1765,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5189",
-      "ref": "C-5189",
+      "@id": "C-4182",
+      "ref": "C-4182",
       "label": "Host Says the Quotation Put Undue Stress on the Surgeon's Family and Staff",
       "claim": "The host says the circulated quotation put a lot of undue stress on the surgeon's family, many of whom she says have been wrongly implicated in a cover-up, and that flak falls on the surgeon, other doctors and the nurses.",
       "anchored_artifacts": [],
@@ -1784,8 +1784,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5190",
-      "ref": "C-5190",
+      "@id": "C-4183",
+      "ref": "C-4183",
       "label": "Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet",
       "claim": "The host says she was told that Dr. Lee Trotter, who hunts, communicated to Andrew Kolvet that a frangible bullet was likely used, and describes a frangible bullet as ammunition designed to disintegrate on a hard surface.",
       "anchored_artifacts": [],
@@ -1797,7 +1797,7 @@
       "investigative_direction": "Ask Kolvet and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.",
       "transcript_snippet": "What he communicated is that it was likely a frangible bullet that was used.",
       "qualifies_claim_refs": [
-        "C-1960"
+        "C-4179"
       ],
       "mentions_person_refs": [
         "N-195",
@@ -1807,8 +1807,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5191",
-      "ref": "C-5191",
+      "@id": "C-4184",
+      "ref": "C-4184",
       "label": "Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
       "claim": "The host says Kolvet also told the audience that the bullet ricocheted, which she says conflicts with the frangible-bullet account from people close to the surgeon, since a frangible round eliminates the risk of ricochet.",
       "anchored_artifacts": [],
@@ -1820,7 +1820,7 @@
       "investigative_direction": "Quote Kolvet's exact wording on ricochet from his X thread and compare with the wound description in any official report.",
       "transcript_snippet": "Well, Andrew also told us that the bullet did ricochet. So, what we have here is a conflict of statements.",
       "qualifies_claim_refs": [
-        "C-1960"
+        "C-4179"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -1829,8 +1829,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5192",
-      "ref": "C-5192",
+      "@id": "C-4185",
+      "ref": "C-4185",
       "label": "Host Says Two Unrelated Sources Reported a Call Placed to DC at the Hospital About Charlie's Body",
       "claim": "The host says one source who was in the hospital and a second unrelated source told her a call was placed to DC at the hospital and that it had something to do with Charlie's body, which she could not confirm earlier.",
       "anchored_artifacts": [],
@@ -1848,8 +1848,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5193",
-      "ref": "C-5193",
+      "@id": "C-4186",
+      "ref": "C-4186",
       "label": "Host Says Charlie Was Raced into Surgery and Still Had a Pulse",
       "claim": "The host says it is confirmed that Charlie was transported to Timpanogos Hospital and raced into surgery with a pulse, that Erika was not in the hospital, and that she regards conspiracy talk around this as shut down.",
       "anchored_artifacts": [],
@@ -1867,8 +1867,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5194",
-      "ref": "C-5194",
+      "@id": "C-4187",
+      "ref": "C-4187",
       "label": "Host Says Federal Officers Blocked the Surgeon from Returning to the Operating Room",
       "claim": "The host says that, allegedly, the surgeon wanted to clean Charlie up before his wife arrived but was blocked by federal officers already at the hospital who said no one was allowed to access the body.",
       "anchored_artifacts": [],
@@ -1887,8 +1887,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5195",
-      "ref": "C-5195",
+      "@id": "C-4188",
+      "ref": "C-4188",
       "label": "Host Says Her Source Believes the Surgeon Phoned Someone Political, Who Ordered the Feds to Stand Down",
       "claim": "The host says her source did not say the call went to DC but said it was likely to someone political and very high up, who then ordered the federal officers to stand down so the surgeon could prepare the body.",
       "anchored_artifacts": [],
@@ -1906,8 +1906,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5196",
-      "ref": "C-5196",
+      "@id": "C-4189",
+      "ref": "C-4189",
       "label": "Host Says the Hospital Standoff Occurred Two and a Half to Three Hours After the Shot",
       "claim": "The host says the reported standoff over access to the body took place about two and a half, maybe up to three, hours after Charlie was shot, while the manhunt was still under way.",
       "anchored_artifacts": [],
@@ -1925,8 +1925,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5197",
-      "ref": "C-5197",
+      "@id": "C-4190",
+      "ref": "C-4190",
       "label": "Host Says Feds at the Hospital Tried to Take Cameras Down and Seized Them",
       "claim": "The host says that, as the audience learned earlier, federal officers at the hospital were trying to take cameras down from inside the hospital and seized the cameras that day.",
       "anchored_artifacts": [],
@@ -1943,8 +1943,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5198",
-      "ref": "C-5198",
+      "@id": "C-4191",
+      "ref": "C-4191",
       "label": "Host Says Students Dispute the Wooded Area Description of Where the Gun Was Found",
       "claim": "The host says students told her the police description of a wooded area is wrong for the topography around UVU, and that the place the gun was found looks more like a median between two roads with some trees and bushes.",
       "anchored_artifacts": [],
@@ -1962,8 +1962,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5199",
-      "ref": "C-5199",
+      "@id": "C-4192",
+      "ref": "C-4192",
       "label": "Host Says the Gun Site Was Already Searched by Veteran Officers Before the Gun Was Found",
       "claim": "The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search, adding herself 'maybe that's what they did', and that they found nothing.",
       "anchored_artifacts": [],
@@ -1980,8 +1980,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5200",
-      "ref": "C-5200",
+      "@id": "C-4193",
+      "ref": "C-4193",
       "label": "Host Says Bomb Dogs Released in the Exact Area Found Nothing",
       "claim": "The host says bomb dogs were released in the exact area where the gun was later discovered and did not turn up anything, which she calls remarkably suspicious according to the police officers involved.",
       "anchored_artifacts": [],
@@ -1998,8 +1998,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5201",
-      "ref": "C-5201",
+      "@id": "C-4194",
+      "ref": "C-4194",
       "label": "Host Says a Dog's Sense of Smell Is Up to 100,000 Times a Human's",
       "claim": "The host states that a dog's sense of smell is up to 100,000 times that of a human.",
       "anchored_artifacts": [],
@@ -2016,8 +2016,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5202",
-      "ref": "C-5202",
+      "@id": "C-4195",
+      "ref": "C-4195",
       "label": "Host Says Over 19 Billion Dollars Has Been Spent on Explosive Detection Technology",
       "claim": "The host says over 19 billion dollars has been spent on research and development of technology to detect explosives and that no man-made technology comes close to a dog's scent.",
       "anchored_artifacts": [],
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5203",
-      "ref": "C-5203",
+      "@id": "C-4196",
+      "ref": "C-4196",
       "label": "Host Says Bomb Dogs Can Detect a Fired Weapon Up to a Week Later",
       "claim": "The host says dogs can pick up the scent of a fired weapon days after it was triggered and that a bomb dog can smell it up to a week or more, so a recently fired weapon would be easy for them.",
       "anchored_artifacts": [],
@@ -2052,8 +2052,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5204",
-      "ref": "C-5204",
+      "@id": "C-4197",
+      "ref": "C-4197",
       "label": "Host Says the Bomb Dogs Belonged to the Pleasant Grove Sheriff's Department",
       "claim": "The host says the bomb dogs used in the search belong to the sheriff's department in Pleasant Grove.",
       "anchored_artifacts": [],
@@ -2071,8 +2071,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5205",
-      "ref": "C-5205",
+      "@id": "C-4198",
+      "ref": "C-4198",
       "label": "Host Says Feds Directed Three Officers with Under a Year and a Half Combined to Re-Search",
       "claim": "The host says federal officers asked local officers how long they had been on the force and then directed three police officers who she is told had less than a year and a half on the force combined to check again in another spot.",
       "anchored_artifacts": [],
@@ -2089,8 +2089,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5206",
-      "ref": "C-5206",
+      "@id": "C-4199",
+      "ref": "C-4199",
       "label": "Host Says the Three Officers Found the Gun Where the Dogs Found Nothing",
       "claim": "The host says that after the dogs found nothing, the three federally directed police officers found the weapon in the area.",
       "anchored_artifacts": [],
@@ -2102,7 +2102,7 @@
       "investigative_direction": "Obtain the recovery report, scene photographs and the radio log for the discovery.",
       "transcript_snippet": "But lo and behold, these police officers, bam, there it is, the gun. We've got the weapon.",
       "supports_claim_refs": [
-        "C-5205"
+        "C-4198"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2110,8 +2110,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5207",
-      "ref": "C-5207",
+      "@id": "C-4200",
+      "ref": "C-4200",
       "label": "Host Says She Has the Officers' Names but Will Not Release Them Yet",
       "claim": "The host says she has the names of the officers involved in the gun discovery and does not intend to release them for now because she wants to reach out to them and research them.",
       "anchored_artifacts": [
@@ -2130,8 +2130,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5208",
-      "ref": "C-5208",
+      "@id": "C-4201",
+      "ref": "C-4201",
       "label": "Host Says Freya the Canine Sniffed Out the Route to the Losee Center Rooftop",
       "claim": "The host says Freya is a canine, distinct from the bomb dogs, who sniffed out the route to the rooftop of the Losee Center where Tyler Robinson allegedly took the shot.",
       "anchored_artifacts": [],
@@ -2149,8 +2149,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5209",
-      "ref": "C-5209",
+      "@id": "C-4202",
+      "ref": "C-4202",
       "label": "Host Says Freya Was Not Given the Gun but Ran a Condensed Scent Trace",
       "claim": "The host says Freya was not given an object such as the recovered gun but instead conducted what was described to her as a condensed scent trace from the bottom of the building back to the top.",
       "anchored_artifacts": [],
@@ -2167,8 +2167,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5210",
-      "ref": "C-5210",
+      "@id": "C-4203",
+      "ref": "C-4203",
       "label": "Host Says Multiple Officers Told Her the Feds Were Directing the Show",
       "claim": "The host says she hears from multiple officers involved in the hunt, who reached out from the start, that everything was weird and that the officers felt they were sent on wild goose hunts with the feds directing the show.",
       "anchored_artifacts": [],
@@ -2186,8 +2186,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5211",
-      "ref": "C-5211",
+      "@id": "C-4204",
+      "ref": "C-4204",
       "label": "Host Says She Received a Tip from Police Officers About a Traffic Stop and Wants to Confirm It",
       "claim": "The host says she received a tip some time ago from a few police officers, which she cannot confirm with her usual certainty, and that she confirmed she is speaking with people at the police department.",
       "anchored_artifacts": [
@@ -2206,8 +2206,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5212",
-      "ref": "C-5212",
+      "@id": "C-4205",
+      "ref": "C-4205",
       "label": "Host Says an Officer Stopped a Speeding Car Shortly After the Shot, Convinced It Was the Killer",
       "claim": "The host says an officer caught a speeding car shortly after the shot was fired and was convinced the driver was the killer.",
       "anchored_artifacts": [
@@ -2226,8 +2226,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5213",
-      "ref": "C-5213",
+      "@id": "C-4206",
+      "ref": "C-4206",
       "label": "Host Says the Driver of a White Toyota RAV4 Flashed an FBI Badge at the Window",
       "claim": "The host says the officer pulled over a white Toyota RAV4 and that when the officer reached the window the driver flashed an FBI badge.",
       "anchored_artifacts": [
@@ -2247,8 +2247,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5214",
-      "ref": "C-5214",
+      "@id": "C-4207",
+      "ref": "C-4207",
       "label": "Host Says the RAV4 Stop Was Within One to Two Hours of the Shot and Is Unconfirmed",
       "claim": "The host says she wants to confirm the story, that the stop would have been within about an hour and perhaps within two hours of the shot, and that an officer would likely have had a camera.",
       "anchored_artifacts": [
@@ -2262,7 +2262,7 @@
       "investigative_direction": "File a records request for body-camera video and CAD logs covering the first two hours after the shot.",
       "transcript_snippet": "a white Toyota RAV4 was pulled over and a federal badge was flashed letting that officer know that he or she was outranked.",
       "supports_claim_refs": [
-        "C-5213"
+        "C-4206"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2270,8 +2270,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5215",
-      "ref": "C-5215",
+      "@id": "C-4209",
+      "ref": "C-4209",
       "label": "Host Says Trump Said Bongino Wants to Get Back to His Show",
       "claim": "The host says Trump said he thinks Dan Bongino wants to get back to his show as he steps down as assistant director of the FBI.",
       "anchored_artifacts": [],
@@ -2283,7 +2283,7 @@
       "investigative_direction": "Locate Trump's remark and Bongino's own announcement for the stated reason for leaving.",
       "transcript_snippet": "Trump said that he thinks that Dan wants to get back to his show.",
       "supports_claim_refs": [
-        "C-3758"
+        "C-4208"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2293,8 +2293,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5216",
-      "ref": "C-5216",
+      "@id": "C-4210",
+      "ref": "C-4210",
       "label": "Host Says Bongino Has Been Effectively Silent on the Charlie Kirk Situation",
       "claim": "The host says Dan Bongino has been effectively silent on the Charlie Kirk situation and was not among those she says have been feeding the public trash.",
       "anchored_artifacts": [],
@@ -2306,7 +2306,7 @@
       "investigative_direction": "Review Bongino's public statements and show transcripts since September 10 for mentions of the Kirk case.",
       "transcript_snippet": "I have been wondering why Dan has been silent I would say effectively silent on the Charlie Kirk situation.",
       "supports_claim_refs": [
-        "C-3758"
+        "C-4208"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2315,8 +2315,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5217",
-      "ref": "C-5217",
+      "@id": "C-4211",
+      "ref": "C-4211",
       "label": "Host Says a Commenter She Clicked on Had Just Created an Account",
       "claim": "The host says that when she clicked on a commenting account she found it had just been created, which she cites as evidence of botted comment sections.",
       "anchored_artifacts": [],
@@ -2333,8 +2333,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5218",
-      "ref": "C-5218",
+      "@id": "C-4214",
+      "ref": "C-4214",
       "label": "Host Says the Transport Vehicle Was Towed to a Facility Around the Corner from the Hospital",
       "claim": "The host says the vehicle was towed to a towing facility just around the corner from the hospital.",
       "anchored_artifacts": [],
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5219",
-      "ref": "C-5219",
+      "@id": "C-4215",
+      "ref": "C-4215",
       "label": "Host Says a Second Tow Truck Took the Vehicle on Monday for Cleaning and Immediate Auction",
       "claim": "The host says that on Monday another tow truck came and took the car so that it could be cleaned and immediately put up for auction.",
       "anchored_artifacts": [],
@@ -2369,8 +2369,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5220",
-      "ref": "C-5220",
+      "@id": "C-4216",
+      "ref": "C-4216",
       "label": "Host Says the Vehicle Was a Brand New Rental, Which Makes the Quick Disposal Unusual",
       "claim": "The host says the vehicle was a rental, a brand new one that is big, and that a rental company would normally have the option to get it back and clean or recarpet it rather than give it up.",
       "anchored_artifacts": [],
@@ -2387,8 +2387,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5221",
-      "ref": "C-5221",
+      "@id": "C-4217",
+      "ref": "C-4217",
       "label": "Host Says the Rental Company Owner in California Said He Never Wanted the Vehicle Back",
       "claim": "The host says, allegedly, that the owner of the rental company was in California, received a phone call, and said he never wanted to see the vehicle at their facility again.",
       "anchored_artifacts": [],
@@ -2405,8 +2405,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5222",
-      "ref": "C-5222",
+      "@id": "C-4218",
+      "ref": "C-4218",
       "label": "Host Says No Insurance Adjusters Were Required Before the Vehicle Went to Auction",
       "claim": "The host says the speed at which the vehicle was given up for auction is unusual, especially because no insurance inspection was required or sent, though normally pictures and an insurance assessment would be expected.",
       "anchored_artifacts": [],
@@ -2423,8 +2423,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5223",
-      "ref": "C-5223",
+      "@id": "C-4221",
+      "ref": "C-4221",
       "label": "Host Says the Feds Sent US Marshals on a Wild Goose Chase to Cover Things Up",
       "claim": "The host says everything she knows tells her the feds went there to cover everything up, including sending US Marshals on a wild goose chase.",
       "anchored_artifacts": [],
@@ -2441,8 +2441,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5224",
-      "ref": "C-5224",
+      "@id": "C-4222",
+      "ref": "C-4222",
       "label": "Host Says Patel Announced \"We Got Them\" Then Retracted That It Was Not the Person",
       "claim": "The host says Kash Patel said \"We got them\" and then it turned out it was not the person and the FBI said it had made a mistake, which she presents as part of the effort to disrupt the first hours.",
       "anchored_artifacts": [],
@@ -2460,8 +2460,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5225",
-      "ref": "C-5225",
+      "@id": "C-4223",
+      "ref": "C-4223",
       "label": "Host Says Everyone There Says the Feds Seemed to Create Hurdles Rather Than Solve the Crime",
       "claim": "The host says everybody who was there that day says the feds were not acting right and did not seem to want to solve the crime but rather to create hurdles in the critical hours after the shot.",
       "anchored_artifacts": [],
@@ -2478,8 +2478,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5226",
-      "ref": "C-5226",
+      "@id": "C-4224",
+      "ref": "C-4224",
       "label": "Host Says She Saw Military Grade Bots After October 7th and When Australia Cancellation Was Sought",
       "claim": "The host says there are military grade bots online, that she saw them after October 7th and when people wanted her canceled from Australia, and that she recognizes the pattern of identical messaging.",
       "anchored_artifacts": [],
@@ -2496,8 +2496,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5227",
-      "ref": "C-5227",
+      "@id": "C-4225",
+      "ref": "C-4225",
       "label": "Host Says Botted Activity Increased After Fort Huachuca Coverage",
       "claim": "The host says her team recognized an increase in botted activity after it started speaking about Fort Huachuca, the Elvis guy and the Egyptian plane, all on the same day.",
       "anchored_artifacts": [],
@@ -2515,8 +2515,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5228",
-      "ref": "C-5228",
+      "@id": "C-4226",
+      "ref": "C-4226",
       "label": "Host Says Her Team Verified the Elvis Guy's Story with People Stationed at Fort Huachuca",
       "claim": "The host says that although some thought someone might be pulling her leg, her team was able to verify the eyewitness's story with people currently stationed at Fort Huachuca.",
       "anchored_artifacts": [],
@@ -2534,8 +2534,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5229",
-      "ref": "C-5229",
+      "@id": "C-4227",
+      "ref": "C-4227",
       "label": "Coleman Says Jet Is Used Exclusively by Presidential Family, Cabinet Officials and Pentagon Generals",
       "claim": "In the clip, Baron Coleman says the jet in question is used exclusively by very few people, namely presidential family members, cabinet officials and military generals such as the Joint Chiefs.",
       "anchored_artifacts": [
@@ -2554,8 +2554,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5230",
-      "ref": "C-5230",
+      "@id": "C-4228",
+      "ref": "C-4228",
       "label": "Coleman Says the Jet Was at the Location of the Alleged Meeting on the Morning of September 9",
       "claim": "In the clip, Baron Coleman says the special air mission jet was present at the location of the alleged meeting on the morning of September 9, one day before Charlie Kirk was killed.",
       "anchored_artifacts": [
@@ -2570,7 +2570,7 @@
       "investigative_direction": "Pull ADS-B and flight-plan records for the aircraft on September 8 to 10.",
       "transcript_snippet": "That particular jet was present at the location of this alleged meeting on the morning of September 9th, one day before the neutralization of Charlie Kirk.",
       "supports_claim_refs": [
-        "C-1905"
+        "C-3952"
       ],
       "mentions_person_refs": [
         "N-330",
@@ -2579,8 +2579,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5231",
-      "ref": "C-5231",
+      "@id": "C-4229",
+      "ref": "C-4229",
       "label": "Coleman Says the Jet Had Recently Flown Trump's Family from Bedminster",
       "claim": "In the clip, Baron Coleman says the jet had recently flown President Trump's family back from their summer home in Bedminster, New Jersey, after the Independence Day holiday.",
       "anchored_artifacts": [
@@ -2598,8 +2598,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5232",
-      "ref": "C-5232",
+      "@id": "C-4231",
+      "ref": "C-4231",
       "label": "Coleman Says Radio Call Sign Becomes Air Force One When the President Is Aboard",
       "claim": "In the clip, Baron Coleman says that when the president is aboard the radio call sign becomes Air Force One, but the filed ATC call sign is SAM plus numbers, and when the vice president is aboard it becomes Air Force Two with a SAM filing.",
       "anchored_artifacts": [
@@ -2616,8 +2616,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5233",
-      "ref": "C-5233",
+      "@id": "C-4235",
+      "ref": "C-4235",
       "label": "Mark Displays a SAM000 Flight Landing in Las Vegas at 4:48 p.m. on August 25",
       "claim": "On the show, Mark (the host's director) displays a flight log showing the aircraft flew into Las Vegas on August 25 and landed at 4:48 p.m. local time as SAM000.",
       "anchored_artifacts": [
@@ -2632,7 +2632,7 @@
       "investigative_direction": "Pull the raw flight log for the aircraft on August 25 and compare with Coleman's stated route from Andrews to Colorado Springs.",
       "transcript_snippet": "So on August 25th, it flies into Las Vegas, lands at 4:48 p. m. local time as SAM000.",
       "supports_claim_refs": [
-        "C-1964"
+        "C-4232"
       ],
       "mentions_person_refs": [
         "N-67"
@@ -2640,8 +2640,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5234",
-      "ref": "C-5234",
+      "@id": "C-4236",
+      "ref": "C-4236",
       "label": "Respondent in Clip Says SAM Designation Signals Very Important People Aboard While Reach Does Not",
       "claim": "A speaker the transcript does not identify, answering a question about whether the switch from a Reach to a SAM call sign means someone more important got on or off, says the special air mission designation is usually used when very high-ranking or important people are aboard, while a Reach call sign suggests someone who does not rise to that level.",
       "anchored_artifacts": [
@@ -2657,8 +2657,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5235",
-      "ref": "C-5235",
+      "@id": "C-4237",
+      "ref": "C-4237",
       "label": "Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots",
       "claim": "A speaker the transcript does not identify, answering the host's question about SAM and Reach call signs, says another call sign they have seen is Venus, which is a designator for an empty flight except for the pilots.",
       "anchored_artifacts": [
@@ -2674,8 +2674,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5236",
-      "ref": "C-5236",
+      "@id": "C-4239",
+      "ref": "C-4239",
       "label": "Harpole Says Intelligence Gathering Started Before the 24th and the Hard Conversations Started on the 24th",
       "claim": "In the clip, Brian Harpole says the process started before the 24th with intelligence gathering, while the hard conversations, information sharing, conference calls and data sheets started on the 24th of the prior month.",
       "anchored_artifacts": [
@@ -2689,7 +2689,7 @@
       "investigative_direction": "Ask Harpole's firm for the date of the first intelligence product and the first conference call.",
       "transcript_snippet": "it started before that with the the intelligence gathering and and all that, but the hard conversations, the sharing of information, the conference calls, the the data sheets.",
       "qualifies_claim_refs": [
-        "C-1967"
+        "C-4238"
       ],
       "mentions_person_refs": [
         "N-266"
@@ -2697,8 +2697,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5237",
-      "ref": "C-5237",
+      "@id": "C-4240",
+      "ref": "C-4240",
       "label": "Harpole Says His Firm Runs a Decentralized Command Model with Shared Intel on an App Timeline",
       "claim": "In the clip, Brian Harpole says his company uses an app timeline on which all intel is visible to every team member and describes it as a decentralized command model where anyone can make command decisions.",
       "anchored_artifacts": [
@@ -2715,8 +2715,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5238",
-      "ref": "C-5238",
+      "@id": "C-4241",
+      "ref": "C-4241",
       "label": "Host Says Operation Valhalla Strike Began August 24 and Ended August 27",
       "claim": "The host says Operation Valhalla Strike begins between civilians and the military on August 24, the same date Harpole gives, and ended on August 27, and says she is showing it on the timeline.",
       "anchored_artifacts": [
@@ -2736,8 +2736,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5239",
-      "ref": "C-5239",
+      "@id": "C-4242",
+      "ref": "C-4242",
       "label": "Host Says Harry Described an Undercover Fed or Secret Service Agent Blocking Him from Seeing Who Left the Meeting",
       "claim": "The host says that when she asked Harry whether the person could be a high-ranking fed, he said it was pretty clear they were trying to block him and that it could have been an undercover fed or secret serviceman.",
       "anchored_artifacts": [],
@@ -2756,8 +2756,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5240",
-      "ref": "C-5240",
+      "@id": "C-4243",
+      "ref": "C-4243",
       "label": "Host Says Harry Counted Many O-6s and Lieutenant Colonels, Indicating a Pentagon-Level Meeting",
       "claim": "The host says Harry said he saw this many O-6s and lieutenant colonels, which signifies a Pentagon-level meeting.",
       "anchored_artifacts": [],
@@ -2770,7 +2770,7 @@
       "investigative_direction": "Ask Harry for the number and insignia observed and compare with the Fort Huachuca JTF-SB attendance.",
       "transcript_snippet": "He was like I had this many 06s, lieutenant colonels signifies to be that this is like a Pentagon level meeting.",
       "supports_claim_refs": [
-        "C-1886"
+        "C-3836"
       ],
       "mentions_person_refs": [
         "N-360",
@@ -2779,8 +2779,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5241",
-      "ref": "C-5241",
+      "@id": "C-4244",
+      "ref": "C-4244",
       "label": "Host Says Multiple Emails from Currently Stationed Personnel Confirm Harry's Account",
       "claim": "The host says everything Harry has said has checked out and that she has multiple emails from people currently stationed at Fort Huachuca.",
       "anchored_artifacts": [
@@ -2800,8 +2800,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5242",
-      "ref": "C-5242",
+      "@id": "C-4245",
+      "ref": "C-4245",
       "label": "Host Relays That Fort Huachuca Is an Intelligence Base That Trains for Covert Missions, Not Jet Scrambles",
       "claim": "Relaying what stationed personnel emailed, the host says Fort Huachuca is not where jets are scrambled after a terrorist attack but where people in the intelligence community are trained for covert missions.",
       "anchored_artifacts": [
@@ -2821,8 +2821,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5243",
-      "ref": "C-5243",
+      "@id": "C-4246",
+      "ref": "C-4246",
       "label": "Host Says Stationed Personnel Confirmed the Building Harry Described",
       "claim": "The host says stationed personnel confirmed the building that Harry described.",
       "anchored_artifacts": [
@@ -2836,7 +2836,7 @@
       "investigative_direction": "Ask the personnel for on-record confirmation of the temporary JTF-SB headquarters location.",
       "transcript_snippet": "They confirmed that building that he said",
       "supports_claim_refs": [
-        "C-1885"
+        "C-3833"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2845,8 +2845,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5244",
-      "ref": "C-5244",
+      "@id": "C-4247",
+      "ref": "C-4247",
       "label": "Host Says the Eyewitness Had a 25-Year NDA That Ended Before He Stumbled into This Event",
       "claim": "The host says the eyewitness got out of a 25-year NDA and then stumbled into what could be another federal operation, which she says remains open.",
       "anchored_artifacts": [],
@@ -2864,8 +2864,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5245",
-      "ref": "C-5245",
+      "@id": "C-4248",
+      "ref": "C-4248",
       "label": "Host Says the Eyewitness Agreed to Come on the Show to Tell His Story",
       "claim": "The host says she asked the eyewitness whether he would come on and tell his story and that he said yes, and that she finds him credible and sincere.",
       "anchored_artifacts": [],
@@ -2883,8 +2883,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5246",
-      "ref": "C-5246",
+      "@id": "C-4249",
+      "ref": "C-4249",
       "label": "Host Says Harpole Landed in Los Angeles from Tokyo at 6:45 p.m. on the 7th Before Flying to Dallas",
       "claim": "The host says she now knows Brian Harpole's flight back from Tokyo, a direct flight landing in Los Angeles at 6:45 p.m. on the 7th, before continuing to Dallas early on the 8th, and that she had it wrong earlier.",
       "anchored_artifacts": [],
@@ -2903,8 +2903,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5247",
-      "ref": "C-5247",
+      "@id": "C-4250",
+      "ref": "C-4250",
       "label": "Host Says It Is Possible for Harpole to Have Attended the Fort Huachuca Meeting",
       "claim": "The host says that, given the flight timing, it is possible for Brian Harpole to have made the Fort Huachuca meeting.",
       "anchored_artifacts": [],
@@ -2923,8 +2923,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5248",
-      "ref": "C-5248",
+      "@id": "C-4251",
+      "ref": "C-4251",
       "label": "Host Says SUBTV Had the Longest Flight Logs of the Egyptian Planes and Logs Delayed to Tomorrow",
       "claim": "The host says her team almost finished work on one more plane, SUBTV, which had the longest flight logs of the Egyptian planes, and that publication on the website was bumped to the next day.",
       "anchored_artifacts": [],
@@ -2941,8 +2941,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5249",
-      "ref": "C-5249",
+      "@id": "C-4252",
+      "ref": "C-4252",
       "label": "Host Says Egyptian Planes Are Linked to Israel, Which She Says Explains the Backlash",
       "claim": "The host says she feels confident saying that the Egyptian planes are linked to Israel and that this fully explains the mass freak out against her.",
       "anchored_artifacts": [],
@@ -2961,8 +2961,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5250",
-      "ref": "C-5250",
+      "@id": "C-4253",
+      "ref": "C-4253",
       "label": "Host Says She Told Viewers Elon Musk Handed Over X to the Military",
       "claim": "The host says she has said on the show for a long time that Elon Musk handed over X to the military and speculates that freeing the bird may have meant putting it on an intelligence base.",
       "anchored_artifacts": [],
@@ -2980,8 +2980,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5251",
-      "ref": "C-5251",
+      "@id": "C-4254",
+      "ref": "C-4254",
       "label": "Host Says Tim Pool and Nick Fuentes Joined the Chorus That Candace Is Over",
       "claim": "The host says that, amid what she calls a botted wave saying she sold out, voices such as Tim Pool and Nick Fuentes are saying Candace is over.",
       "anchored_artifacts": [],
@@ -3000,8 +3000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5252",
-      "ref": "C-5252",
+      "@id": "C-4255",
+      "ref": "C-4255",
       "label": "Host Says TPUSA Wanted a Private Meeting and She Would Go on the Charlie Kirk Show for a Transparent Talk",
       "claim": "The host says it was Turning Point USA that wanted to bring the temperature down with a private meeting, and that she is willing to go on the Charlie Kirk Show to answer any questions transparently.",
       "anchored_artifacts": [],
@@ -3019,8 +3019,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5253",
-      "ref": "C-5253",
+      "@id": "C-4256",
+      "ref": "C-4256",
       "label": "Host Says Netanyahu Name-Checked Her and Tucker and Rhetoric Is Growing More Volatile",
       "claim": "The host says she feels everyone is signaling they want her and Tucker, that you do not want to be name-checked by Benjamin Netanyahu, and that rhetoric toward people who do not stand with Israel is growing increasingly volatile.",
       "anchored_artifacts": [],
@@ -3039,8 +3039,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5254",
-      "ref": "C-5254",
+      "@id": "C-4257",
+      "ref": "C-4257",
       "label": "Host Says She Added a Gift Option for Her Security at candaceowens.com/support",
       "claim": "The host says that after receiving many emails about her security, her team created a gift option at candaceowens.com/support to support security.",
       "anchored_artifacts": [],
@@ -3057,8 +3057,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5255",
-      "ref": "C-5255",
+      "@id": "C-4258",
+      "ref": "C-4258",
       "label": "Host Says She Sat Down with Piers Morgan That Morning",
       "claim": "The host says she sat down with Piers Morgan that morning, as they do at the end of every year.",
       "anchored_artifacts": [
@@ -3076,8 +3076,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5256",
-      "ref": "C-5256",
+      "@id": "C-4259",
+      "ref": "C-4259",
       "label": "Host Says Piers Morgan Suggested JFK Might Just Have Been Shot by Lee Harvey Oswald",
       "claim": "The host says Piers Morgan peaked when he said maybe JFK really was just shot by Lee Harvey Oswald, and that she objected to his strategy of dismissing any multi-person conspiracy.",
       "anchored_artifacts": [
@@ -3095,8 +3095,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5257",
-      "ref": "C-5257",
+      "@id": "C-4260",
+      "ref": "C-4260",
       "label": "Host Says the JFK Conspiracy Would Involve the Mafia, Cubans and LBJ",
       "claim": "The host says a JFK conspiracy would be multifaceted, with layers including people who plotted and people incentivized by money to stay quiet, and cites the mafia, Cubans and LBJ as involved parties.",
       "anchored_artifacts": [
@@ -3113,8 +3113,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5258",
-      "ref": "C-5258",
+      "@id": "C-4261",
+      "ref": "C-4261",
       "label": "Host Says AIPAC or Its Predecessor Under Another Name Was Implicated in the JFK Matter",
       "claim": "The host says AIPAC, or whatever its name was before it became AIPAC and changed its name, was implicated in the JFK matter.",
       "anchored_artifacts": [
@@ -3133,8 +3133,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5259",
-      "ref": "C-5259",
+      "@id": "C-4262",
+      "ref": "C-4262",
       "label": "Host Says Piers Morgan Always Bets Her and Never Pays Up",
       "claim": "The host says Piers Morgan is always betting her and never pays up.",
       "anchored_artifacts": [],
@@ -3150,8 +3150,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5260",
-      "ref": "C-5260",
+      "@id": "C-4263",
+      "ref": "C-4263",
       "label": "Host Says Piers Still Thinks Brigitte Macron Is a Woman Who Simply Hides Her Photos",
       "claim": "The host says Piers Morgan still thinks Brigitte Macron is a woman who just does not want to release any photos for 30 years.",
       "anchored_artifacts": [],
@@ -3168,8 +3168,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5261",
-      "ref": "C-5261",
+      "@id": "C-4264",
+      "ref": "C-4264",
       "label": "Host Says She Would Hand Over Her Evidence for Use in Court",
       "claim": "Answering a viewer question, the host says she would of course hand over the evidence she has found to be used in court.",
       "anchored_artifacts": [
@@ -3186,8 +3186,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5262",
-      "ref": "C-5262",
+      "@id": "C-4265",
+      "ref": "C-4265",
       "label": "Host Says She Reached Out to the FBI, Not Specifically to Patel, and Got Nothing",
       "claim": "The host says that when she says Patel she means she has reached out to the FBI, not specifically to him, and received nothing, and that he answered by not answering on Megyn Kelly.",
       "anchored_artifacts": [],
@@ -3206,8 +3206,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5263",
-      "ref": "C-5263",
+      "@id": "C-4266",
+      "ref": "C-4266",
       "label": "Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI",
       "claim": "The host says she called out to Kash Patel that she has evidence the French Legion was on the ground that day, adding that she means she reached out to the FBI, not to Patel specifically.",
       "anchored_artifacts": [],
@@ -3225,8 +3225,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5264",
-      "ref": "C-5264",
+      "@id": "C-4267",
+      "ref": "C-4267",
       "label": "Host Says the Police Officers Who Were There Believe the Feds Are Implicated",
       "claim": "The host says that the view that the feds are implicated is what the police officers who were there that day believe, and that nothing about that day makes sense except to influencers.",
       "anchored_artifacts": [],
@@ -3243,8 +3243,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5265",
-      "ref": "C-5265",
+      "@id": "C-4268",
+      "ref": "C-4268",
       "label": "Host Says the Meeting Lasted Four and a Half Hours",
       "claim": "Answering a commenter, the host says the meeting she described the previous day was a four and a half hour meeting and she had an hour to relate what was said.",
       "anchored_artifacts": [
@@ -3256,7 +3256,7 @@
       "investigative_direction": "Confirm the meeting length against attendee accounts.",
       "transcript_snippet": "It was 4 and 1/2 hour meeting.",
       "supports_claim_refs": [
-        "C-1924"
+        "C-4056"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3264,8 +3264,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5266",
-      "ref": "C-5266",
+      "@id": "C-4269",
+      "ref": "C-4269",
       "label": "Host Says It Is Suspicious That No One Mentioned the Mikey Call Was a Three-Way Call",
       "claim": "The host says it is remarkably suspicious that no one felt fit to mention it was a three-way call, which she says makes Blake Neff's story especially weird.",
       "anchored_artifacts": [
@@ -3277,7 +3277,7 @@
       "investigative_direction": "Obtain the call-detail records for the calls Mikey McCoy made after the shot.",
       "transcript_snippet": "I find it remarkably suspicious that no one has mentioned no one felt fit to mention that it was a three-way call.",
       "supports_claim_refs": [
-        "C-1933"
+        "C-4105"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3287,8 +3287,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5267",
-      "ref": "C-5267",
+      "@id": "C-4270",
+      "ref": "C-4270",
       "label": "Host Says Neff Describes Mikey With a Quivering Lip Saying He Has to Call Erika While Already on Phone",
       "claim": "The host says Blake Neff's story portrays Mikey as having a quivering lip and saying \"I have to call Erika\", and asks why he would say that to Neff if he was on the phone with his wife.",
       "anchored_artifacts": [
@@ -3300,7 +3300,7 @@
       "investigative_direction": "Compare Neff's published account with the call logs and ask Neff to clarify.",
       "transcript_snippet": "He's got a quivering lip and he looks at him and he says, \"I have to call Erika.\"",
       "supports_claim_refs": [
-        "C-1935"
+        "C-4101"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3311,8 +3311,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5268",
-      "ref": "C-5268",
+      "@id": "C-4271",
+      "ref": "C-4271",
       "label": "Host Says Erika Said on Her PR Blitz That Charlie Did Not Text Anybody and the Host Replied That Was Not Right",
       "claim": "The host says Erika Kirk, during her PR blitz, said that Charlie did not text anybody, and that the host responded at once that this was not right.",
       "anchored_artifacts": [],
@@ -3329,8 +3329,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5269",
-      "ref": "C-5269",
+      "@id": "C-4272",
+      "ref": "C-4272",
       "label": "Host Says She Found J.D. Vance with Donald Trump at a Restaurant in DC That Evening",
       "claim": "The host says that, when Baron Coleman asked where Trump and Vance were, she found J.D. Vance with Donald Trump at a restaurant that evening in DC at about 6:00 and that they were photographed.",
       "anchored_artifacts": [],
@@ -3348,8 +3348,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5270",
-      "ref": "C-5270",
+      "@id": "C-4273",
+      "ref": "C-4273",
       "label": "Host Says the Person Harry Believes He Saw Leaving the Meeting Was a Las Vegas Congressman",
       "claim": "The host says that, as viewers will learn in the near future, one of the congressmen Harry believes he saw coming out of the Fort Huachuca meeting happened to be a Las Vegas congressman.",
       "anchored_artifacts": [],
@@ -3369,8 +3369,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5271",
-      "ref": "C-5271",
+      "@id": "C-4274",
+      "ref": "C-4274",
       "label": "Host Speculates the Las Vegas Link Could Mean the Plane Dropped Off Somebody and Says She Cannot Confirm It",
       "claim": "The host wonders whether, when the flight turned back to Reach, the plane was dropping off somebody in Las Vegas, which could be how the people know each other, and says she cannot confirm it.",
       "anchored_artifacts": [],

@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep029): N-225, N-451, N-10251, N-10401, N-10573, N-10576, N-10887
   - Tip-minted Nodes (reintro-ep029): N-11064, N-11147
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-7911–C-7977
+  - Claim Range: C-2558–C-2639
   - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10239, N-10240, N-10241
   - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171, N-237, N-10242, N-10436, N-10447, N-11158, N-10434
   - (see registers)
@@ -38,7 +38,6 @@
 
 **Episode 29 Ledger Summary**
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378 (15 families)
-- Claim Range: C-1652 – C-1666 (15 claims)
 - New Person Nodes: N-236, N-237, N-238, N-239, N-240, N-7, N-38, N-241, N-242, N-227, N-243, N-244, N-22, N-245 (14 people)
 - New Investigation Target Nodes: N-10239, N-10240, N-10241, N-10242 (4 targets)
 - Existing Nodes Reused: N-1 (Charlie Kirk)
@@ -67,7 +66,7 @@ Video Timestamp: 00:12:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1652, N-240*
+*Related: C-2572, N-240*
 
 **A-1365** Lance Wallnau Seven Mountains Audio Bundle
 
@@ -79,7 +78,7 @@ Video Timestamp: 00:13:31–00:14:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1653, N-240*
+*Related: C-2576, N-240*
 
 **A-1366** Frank Turek NAR Critique Audio Bundle
 
@@ -91,7 +90,7 @@ Video Timestamp: 00:18:06–00:18:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1654, N-7*
+*Related: C-2583, N-7*
 
 **A-1367** Glenn Beck / Steve Baker Interview Bundle
 
@@ -103,7 +102,7 @@ Video Timestamp: 00:08:09–00:09:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-1655, N-236, N-237, N-238, N-10241*
+*Related: C-2567, N-236, N-237, N-238, N-10241*
 
 **A-1368** CIA Spokesperson Statement Bundle
 
@@ -115,7 +114,7 @@ Video Timestamp: 00:10:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (relayed via host; not directly displayed)
 
-*Related: C-1656, N-238, N-239, N-10241*
+*Related: C-2570, N-238, N-239, N-10241*
 
 **A-1369** Frank McCormick X Post Bundle
 
@@ -127,7 +126,7 @@ Video Timestamp: 00:30:25–00:31:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1657, N-242*
+*Related: C-2606, N-242*
 
 **A-1370** Charlie Kirk Text Message Bundle
 
@@ -139,7 +138,7 @@ Video Timestamp: 00:31:24–00:32:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed live on air)
 
-*Related: C-1658, N-1*
+*Related: C-2607, N-1*
 
 **A-1371** Seth Dillon Babylon Bee Tweet Bundle
 
@@ -151,7 +150,7 @@ Video Timestamp: 00:28:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1659, N-38*
+*Related: C-2599, N-38*
 
 **A-1372** Joel Berry Babylon Bee Tweet Bundle
 
@@ -163,7 +162,7 @@ Video Timestamp: 00:29:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1660, N-241*
+*Related: C-2602, N-241*
 
 **A-1373** Grok X Statement Bundle
 
@@ -175,7 +174,7 @@ Video Timestamp: 00:36:53–00:37:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1661, N-243*
+*Related: C-2617, N-243*
 
 **A-1374** Allie Beth Stuckey Audio Clip Bundle
 
@@ -187,7 +186,7 @@ Video Timestamp: 00:33:55–00:34:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (audio played)
 
-*Related: C-1662, N-227*
+*Related: C-2611, N-227*
 
 **A-1375** Mark Levin Audio Clip Bundle
 
@@ -199,7 +198,7 @@ Video Timestamp: 00:39:10–00:41:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1663, N-244, N-22*
+*Related: C-2621, N-244, N-22*
 
 **A-1376** Keri Smith Deprogrammed Audio Clip Bundle
 
@@ -211,7 +210,7 @@ Video Timestamp: 00:44:50–00:46:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1664, N-245*
+*Related: C-2626, N-245*
 
 **A-1377** BBC Borderline Article Bundle
 
@@ -223,7 +222,7 @@ Video Timestamp: 00:23:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline referenced; full article not shown)
 
-*Related: C-1665, N-10240*
+*Related: C-2595, N-10240*
 
 **A-1378** Timpanogos Tip Bundle
 
@@ -235,7 +234,7 @@ Video Timestamp: 00:01:46–00:03:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous tip; unverified)
 
-*Related: C-1666, N-10239*
+*Related: C-2559, N-10239*
 
 ---
 
@@ -250,7 +249,7 @@ Video Timestamp: 00:04:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7917, N-3*
+*Related: C-2565, N-3*
 
 ---
 
@@ -265,7 +264,7 @@ Video Timestamp: 00:12:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7924, N-3*
+*Related: C-2575, N-3*
 
 ---
 
@@ -280,7 +279,7 @@ Video Timestamp: 00:47:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7968, N-3*
+*Related: C-2630, N-3*
 
 ---
 
@@ -290,7 +289,7 @@ Confidence Level: Medium
 
 Subject of the assassination; the host speaks of his interest in the Seven Mountain Mandate, his funding questions and his shooting.
 
-*Related: C-7913, C-7915, C-7920, C-7925, C-7931, C-7932, C-7934, C-7949, C-7954, C-7955, C-7956, C-7963, C-7965, C-7968, C-7969, C-7971, C-7972, C-7976*
+*Related: C-2561, C-2563, C-2569, C-2577, C-2584, C-2585, C-2587, C-2605, C-2613, C-2614, C-2615, C-2624, C-2627, C-2630, C-2631, C-2633, C-2634, C-2638*
 
 ---
 
@@ -298,7 +297,7 @@ Subject of the assassination; the host speaks of his interest in the Seven Mount
 
 Host; speaks for herself throughout.
 
-*Related: C-7911, C-7912, C-7913, C-7914, C-7915, C-7916, C-7917, C-7918, C-7920, C-7922, C-7923, C-7927, C-7928, C-7932, C-7933, C-7935, C-7937, C-7938, C-7939, C-7940, C-7941, C-7943, C-7945, C-7946, C-7948, C-7949, C-7950, C-7951, C-7952, C-7953, C-7954, C-7955, C-7956, C-7957, C-7958, C-7959, C-7960, C-7963, C-7964, C-7966, C-7967, C-7968, C-7969, C-7970, C-7971, C-7972, C-7973, C-7974, C-7975, C-7976, C-7977*
+*Related: C-2558, C-2560, C-2561, C-2562, C-2563, C-2564, C-2565, C-2566, C-2569, C-2573, C-2574, C-2579, C-2580, C-2585, C-2586, C-2588, C-2590, C-2591, C-2592, C-2593, C-2594, C-2597, C-2600, C-2601, C-2604, C-2605, C-2608, C-2609, C-2610, C-2612, C-2613, C-2614, C-2615, C-2616, C-2618, C-2619, C-2620, C-2624, C-2625, C-2628, C-2629, C-2630, C-2631, C-2632, C-2633, C-2634, C-2635, C-2636, C-2637, C-2638, C-2639*
 
 ---
 
@@ -306,7 +305,7 @@ Host; speaks for herself throughout.
 
 Said by the host to have been surrounded by pastors before January 6.
 
-*Related: C-7923*
+*Related: C-2574*
 
 ---
 
@@ -314,7 +313,7 @@ Said by the host to have been surrounded by pastors before January 6.
 
 Pastor the host ties to Turning Point Faith, Wallnau and the Borderline shooter's family.
 
-*Related: C-7928, C-7933, C-7934, C-7939, C-7942*
+*Related: C-2580, C-2586, C-2587, C-2592, C-2596*
 
 ---
 
@@ -322,7 +321,7 @@ Pastor the host ties to Turning Point Faith, Wallnau and the Borderline shooter'
 
 Accused; the host says no clear image of him on campus has been shown.
 
-*Related: C-7970*
+*Related: C-2632*
 
 ---
 
@@ -330,7 +329,7 @@ Accused; the host says no clear image of him on campus has been shown.
 
 Pressed by Ben Shapiro on stage according to the host.
 
-*Related: C-7948*
+*Related: C-2604*
 
 ---
 
@@ -338,7 +337,7 @@ Pressed by Ben Shapiro on stage according to the host.
 
 The host's X source Mel, credited for work on the faith-military constellation.
 
-*Related: C-7935*
+*Related: C-2588*
 
 ---
 
@@ -346,7 +345,7 @@ The host's X source Mel, credited for work on the faith-military constellation.
 
 Topic the host says Elle Reeve pressed her about.
 
-*Related: C-7977*
+*Related: C-2639*
 
 ---
 
@@ -354,7 +353,7 @@ Topic the host says Elle Reeve pressed her about.
 
 Subject of the host's account of the Megyn Kelly stage exchange and Charlie's texts.
 
-*Related: C-7948, C-7949*
+*Related: C-2604, C-2605*
 
 ---
 
@@ -362,7 +361,7 @@ Subject of the host's account of the Megyn Kelly stage exchange and Charlie's te
 
 Host says she accused her of lying about giving no interviews.
 
-*Related: C-7975*
+*Related: C-2637*
 
 ---
 
@@ -370,7 +369,7 @@ Host says she accused her of lying about giving no interviews.
 
 Named by the host as appearing in the NAR article.
 
-*Related: C-7924*
+*Related: C-2575*
 
 ---
 
@@ -378,7 +377,7 @@ Named by the host as appearing in the NAR article.
 
 Las Vegas 2017 shooter per official account.
 
-*Related: C-7936*
+*Related: C-2589*
 
 ---
 
@@ -386,7 +385,7 @@ Las Vegas 2017 shooter per official account.
 
 Person the host says Allie Beth Stuckey is working with.
 
-*Related: C-7952*
+*Related: C-2610*
 
 ---
 
@@ -394,7 +393,7 @@ Person the host says Allie Beth Stuckey is working with.
 
 CNN interviewer, transcribed Elle Reeve.
 
-*Related: C-7977*
+*Related: C-2639*
 
 ---
 
@@ -402,7 +401,7 @@ CNN interviewer, transcribed Elle Reeve.
 
 Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgaard).
 
-*Related: C-7944*
+*Related: C-2598*
 
 ---
 
@@ -410,7 +409,7 @@ Named as a former megachurch pastor accused of trafficking children from Romania
 
 Organization at the center of the faith, funding, security and DOGE claims.
 
-*Related: C-7932, C-7933, C-7956, C-7957, C-7960, C-7961, C-7971, C-7972, C-7974*
+*Related: C-2585, C-2586, C-2615, C-2616, C-2620, C-2622, C-2633, C-2634, C-2636*
 
 ---
 
@@ -418,7 +417,7 @@ Organization at the center of the faith, funding, security and DOGE claims.
 
 Existing timeline topic reused.
 
-*Related: C-7915, C-7953, C-7954*
+*Related: C-2563, C-2612, C-2613*
 
 ---
 
@@ -426,7 +425,7 @@ Existing timeline topic reused.
 
 Place referenced in the host's characterisation of Joel Berry.
 
-*Related: C-7947*
+*Related: C-2603*
 
 ---
 
@@ -434,7 +433,7 @@ Place referenced in the host's characterisation of Joel Berry.
 
 Existing topic reused for the finances claims.
 
-*Related: C-7972, C-7974*
+*Related: C-2634, C-2636*
 
 ---
 
@@ -442,7 +441,7 @@ Existing topic reused for the finances claims.
 
 Existing topic reused.
 
-*Related: C-7970*
+*Related: C-2632*
 
 ---
 
@@ -450,7 +449,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7971*
+*Related: C-2633*
 
 ---
 
@@ -458,7 +457,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7912, C-7913*
+*Related: C-2560, C-2561*
 
 ---
 
@@ -466,7 +465,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7913*
+*Related: C-2561*
 
 ---
 
@@ -474,7 +473,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7931*
+*Related: C-2584*
 
 ---
 
@@ -482,7 +481,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7922, C-7923, C-7924, C-7931*
+*Related: C-2573, C-2574, C-2575, C-2584*
 
 ---
 
@@ -490,7 +489,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7957*
+*Related: C-2616*
 
 ---
 
@@ -498,7 +497,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7952*
+*Related: C-2610*
 
 ---
 
@@ -506,7 +505,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7948*
+*Related: C-2604*
 
 ---
 
@@ -514,7 +513,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7927*
+*Related: C-2579*
 
 ---
 
@@ -522,7 +521,7 @@ Existing topic reused.
 
 Existing topic reused for the Wednesday preview.
 
-*Related: C-7959*
+*Related: C-2619*
 
 ---
 
@@ -530,7 +529,7 @@ Existing topic reused for the Wednesday preview.
 
 Existing topic reused.
 
-*Related: C-7955, C-7969*
+*Related: C-2614, C-2631*
 
 ---
 
@@ -538,7 +537,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7927, C-7932, C-7933, C-7934, C-7973*
+*Related: C-2579, C-2585, C-2586, C-2587, C-2635*
 
 ---
 
@@ -546,7 +545,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7943, C-7944*
+*Related: C-2597, C-2598*
 
 ---
 
@@ -554,7 +553,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7948*
+*Related: C-2604*
 
 ---
 
@@ -562,7 +561,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7971*
+*Related: C-2633*
 
 ---
 
@@ -570,7 +569,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7928, C-7929, C-7930, C-7935*
+*Related: C-2580, C-2581, C-2582, C-2588*
 
 ---
 
@@ -578,7 +577,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7955*
+*Related: C-2614*
 
 ---
 
@@ -586,7 +585,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7914, C-7915, C-7917*
+*Related: C-2562, C-2563, C-2565*
 
 ---
 
@@ -594,7 +593,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7916*
+*Related: C-2564*
 
 ---
 
@@ -602,7 +601,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7956*
+*Related: C-2615*
 
 ---
 
@@ -610,7 +609,7 @@ Existing topic reused.
 
 Place of the 2017 shooting.
 
-*Related: C-7936, C-7937, C-7938*
+*Related: C-2589, C-2590, C-2591*
 
 ---
 
@@ -618,7 +617,7 @@ Place of the 2017 shooting.
 
 Existing topic reused.
 
-*Related: C-7949*
+*Related: C-2605*
 
 ---
 
@@ -626,7 +625,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7946*
+*Related: C-2601*
 
 ---
 
@@ -634,7 +633,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7918, C-7920, C-7922, C-7923, C-7924*
+*Related: C-2566, C-2569, C-2573, C-2574, C-2575*
 
 ---
 
@@ -642,7 +641,7 @@ Existing topic reused.
 
 Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in episode 29.
 
-*Related: C-7926*
+*Related: C-2578*
 
 ---
 
@@ -650,7 +649,7 @@ Founder of Youth With A Mission; first named in the Wallnau clip at 00:13:31 in 
 
 Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 2000 conversation.
 
-*Related: C-7926*
+*Related: C-2578*
 
 ---
 
@@ -658,7 +657,7 @@ Named in the Wallnau clip at 00:13:31 in episode 29 as the other party to the 20
 
 Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.
 
-*Related: C-7930*
+*Related: C-2582*
 
 ---
 
@@ -667,7 +666,7 @@ Father of Lance Wallnau; first named by the host at 00:17:09 in episode 29.
 Node Type: Topic
 Keri Smith's and others' claims that the host's show uses cult tactics, and the host's rebuttal.
 
-*Related: C-7964, C-7965, C-7966, C-7967*
+*Related: C-2625, C-2627, C-2628, C-2629*
 
 ---
 
@@ -676,7 +675,7 @@ Keri Smith's and others' claims that the host's show uses cult tactics, and the 
 Node Type: Topic
 Dispute over whether the host gave interviews after Charlie Kirk's death and what the CNN interview with Elle Reeve covered.
 
-*Related: C-7975, C-7976, C-7977*
+*Related: C-2637, C-2638, C-2639*
 
 ---
 
@@ -691,7 +690,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1367.1, C-1655*
+*Related: A-1367.1, C-2567*
 
 **N-237** Glenn Beck
 
@@ -702,7 +701,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1367.1, C-1655*
+*Related: A-1367.1, C-2567*
 
 **N-238** Shauni Kerkhoff
 
@@ -713,7 +712,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-10241*
+*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-10241*
 
 **N-239** Liz Lyons
 
@@ -724,7 +723,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1368.1, C-1656*
+*Related: A-1368.1, C-2570*
 
 **N-240** Lance Wallnau
 
@@ -735,7 +734,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-10242*
+*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-10242*
 
 **N-7** Frank Turek
 
@@ -746,7 +745,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1366.1, C-1654*
+*Related: A-1366.1, C-2583*
 
 **N-38** Seth Dillon
 
@@ -757,7 +756,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1371.1, C-1659*
+*Related: A-1371.1, C-2599*
 
 **N-241** Joel Berry
 
@@ -768,7 +767,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1372.1, C-1660*
+*Related: A-1372.1, C-2602*
 
 **N-242** Frank McCormick
 
@@ -779,7 +778,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1369.1, C-1657*
+*Related: A-1369.1, C-2606*
 
 **N-227** Allie Beth Stuckey
 
@@ -790,7 +789,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1374.1, C-1662*
+*Related: A-1374.1, C-2611*
 
 **N-243** Grok
 
@@ -801,7 +800,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1373.1, C-1661*
+*Related: A-1373.1, C-2617*
 
 **N-244** Mark Levin
 
@@ -812,7 +811,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1375.1, C-1663*
+*Related: A-1375.1, C-2621*
 
 **N-22** Tucker Carlson
 
@@ -823,7 +822,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1375.1, C-1663*
+*Related: A-1375.1, C-2621*
 
 **N-245** Keri Smith
 
@@ -834,7 +833,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1376.1, C-1664*
+*Related: A-1376.1, C-2626*
 
 ### Investigation Target Nodes
 
@@ -847,7 +846,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1378.1, C-1666*
+*Related: A-1378.1, C-2559*
 
 **N-10240** Borderline Bar Las Vegas Survivor Pattern
 
@@ -858,7 +857,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1377.1, C-1665*
+*Related: A-1377.1, C-2595*
 
 **N-10241** Shauni Rae Kerkhoff / Kerkhoff Identity Verification
 
@@ -869,7 +868,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1367.1, A-1368.1, C-1655, C-1656, N-238*
+*Related: A-1367.1, A-1368.1, C-2567, C-2570, N-238*
 
 **N-10242** Seven Mountain Mandate / NAR Influence on TPUSA Faith
 
@@ -880,7 +879,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1364.1, A-1365.1, C-1652, C-1653, N-240*
+*Related: A-1364.1, A-1365.1, C-2572, C-2576, N-240*
 
 ---
 
@@ -888,13 +887,13 @@ Investigative Pressure: Medium
 
 The host says Charlie established DOGE (transcribed "DOAJ") after realizing something was wrong with the money. Introduced here; ep54 calls it "DOVE".
 
-*Related: C-7971*
+*Related: C-2633*
 
 ---
 
 ## V. Claim Register
 
-**C-1652** Lance Wallnau's November 6, 2020 Facebook Post Urged "Stop the Steal"
+**C-2572** Lance Wallnau's November 6, 2020 Facebook Post Urged "Stop the Steal"
 
 Claim Timestamp: 00:12:07
 
@@ -907,7 +906,7 @@ Related Nodes: N-10242
 
 Investigative Direction: Retrieve and verify the original Facebook post via archive (e.g., Wayback Machine) or screenshot.
 
-**C-1653** Clip: Lance Wallnau Describes the Seven Mountain Mandate
+**C-2576** Clip: Lance Wallnau Describes the Seven Mountain Mandate
 
 Claim Timestamp: 00:13:31–00:14:22
 
@@ -920,7 +919,7 @@ Related Nodes: N-10242
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
-**C-1654** Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like
+**C-2583** Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like
 
 Claim Timestamp: 00:18:06–00:18:30
 
@@ -932,7 +931,7 @@ Mentions: N-7
 
 Investigative Direction: Retrieve the full source audio/podcast to verify exact wording and full context.
 
-**C-1655** Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper
+**C-2567** Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper
 
 Claim Timestamp: 00:08:09–00:09:40
 
@@ -945,7 +944,7 @@ Related Nodes: N-10241
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
-**C-1656** Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security
+**C-2570** Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security
 
 Claim Timestamp: 00:10:32
 
@@ -958,7 +957,7 @@ Related Nodes: N-10241
 
 Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kerkhoff" and "Kirkup" refer to the same individual.
 
-**C-1657** Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were "Digitally Fabricated"
+**C-2606** Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were "Digitally Fabricated"
 
 Claim Timestamp: 00:30:25–00:31:24
 
@@ -970,7 +969,7 @@ Mentions: N-242, N-3, N-1
 
 Investigative Direction: Retrieve the original X post and the underlying AI analysis to assess methodology and reliability.
 
-**C-1658** Text Messages Displayed On Air as Allegedly From Charlie Kirk
+**C-2607** Text Messages Displayed On Air as Allegedly From Charlie Kirk
 
 Claim Timestamp: 00:31:24–00:32:35
 
@@ -982,7 +981,7 @@ Mentions: N-1, N-3
 
 Investigative Direction: Forensic examination of the displayed text metadata, corroborating testimony, and chain-of-custody verification.
 
-**C-1659** Seth Dillon Tweeted Verse About Losing One's Soul
+**C-2599** Seth Dillon Tweeted Verse About Losing One's Soul
 
 Claim Timestamp: 00:28:07
 
@@ -994,7 +993,7 @@ Mentions: N-38, N-3
 
 Investigative Direction: Retrieve and verify the original tweet on Seth Dillon's X account.
 
-**C-1660** Joel Berry Tweeted That Candace/Tucker Gave the Right "Demoralization, Division, Confusion, and Conflict"
+**C-2602** Joel Berry Tweeted That Candace/Tucker Gave the Right "Demoralization, Division, Confusion, and Conflict"
 
 Claim Timestamp: 00:29:06
 
@@ -1006,7 +1005,7 @@ Mentions: N-241, N-3, N-22
 
 Investigative Direction: Retrieve and verify the original tweet on Joel Berry's X account.
 
-**C-1661** Grok Stated Candace Owens Accused Turning Point USA of Orchestrating Kirk's Assassination
+**C-2617** Grok Stated Candace Owens Accused Turning Point USA of Orchestrating Kirk's Assassination
 
 Claim Timestamp: 00:36:53–00:37:53
 
@@ -1018,7 +1017,7 @@ Mentions: N-243, N-3, N-1
 
 Investigative Direction: Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.
 
-**C-1662** Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence
+**C-2611** Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence
 
 Claim Timestamp: 00:33:16
 
@@ -1030,7 +1029,7 @@ Mentions: N-227, N-3
 
 Investigative Direction: Retrieve the full source video to verify exact wording and full context.
 
-**C-1663** Mark Levin Declined Tucker Carlson's Debate Request
+**C-2621** Mark Levin Declined Tucker Carlson's Debate Request
 
 Claim Timestamp: 00:39:10–00:41:45
 
@@ -1042,7 +1041,7 @@ Mentions: N-22, N-244
 
 Investigative Direction: Retrieve the full Mark Levin broadcast to verify exact wording and any additional context.
 
-**C-1664** Keri Smith (Deprogrammed) Said Candace Owens Exhibits "Cult Tactics" and "Cluster B Personality Disorder Behavior"
+**C-2626** Keri Smith (Deprogrammed) Said Candace Owens Exhibits "Cult Tactics" and "Cluster B Personality Disorder Behavior"
 
 Claim Timestamp: 00:44:50–00:46:29
 
@@ -1054,7 +1053,7 @@ Mentions: N-245, N-3
 
 Investigative Direction: Retrieve the full Deprogrammed episode to verify exact wording and complete reasoning.
 
-**C-1665** BBC Reported a Las Vegas Shooting Survivor Was Among the Dead at the Borderline Bar & Grill
+**C-2595** BBC Reported a Las Vegas Shooting Survivor Was Among the Dead at the Borderline Bar & Grill
 
 Claim Timestamp: 00:22:45
 
@@ -1066,7 +1065,7 @@ Related Nodes: N-10240
 
 Investigative Direction: Retrieve the original BBC article to verify the headline, the identity of the survivor, and the broader reporting.
 
-**C-1666** Feds Allegedly Seized Footage at Timpanogos Hospital on the Day of the Kirk Shooting
+**C-2559** Feds Allegedly Seized Footage at Timpanogos Hospital on the Day of the Kirk Shooting
 
 Claim Timestamp: 00:01:46–00:03:01
 
@@ -1081,7 +1080,7 @@ Investigative Direction: Verify via FOIA requests, hospital records, contemporan
 
 ---
 
-**C-7911** Host Says Only Zionists Seem to Believe the Fed Story
+**C-2558** Host Says Only Zionists Seem to Believe the Fed Story
 
 Claim Timestamp: 00:01:00
 
@@ -1096,7 +1095,7 @@ Investigative Direction: This is a sweeping group characterisation; it could onl
 
 ---
 
-**C-7912** Host Says Timpanogos Was Trauma Three While UV Hospital Was Trauma One
+**C-2560** Host Says Timpanogos Was Trauma Three While UV Hospital Was Trauma One
 
 Claim Timestamp: 00:01:46
 
@@ -1112,7 +1111,7 @@ Investigative Direction: Check the Utah trauma center designations for both hosp
 
 ---
 
-**C-7913** Host Says Others Told Her Charlie Was Definitely at UV Hospital
+**C-2561** Host Says Others Told Her Charlie Was Definitely at UV Hospital
 
 Claim Timestamp: 00:01:46
 
@@ -1128,7 +1127,7 @@ Investigative Direction: Identify the people who told the host this and compare 
 
 ---
 
-**C-7914** Host Says Nobody Has Shown Charlie Arriving at Timpanogos Despite News Cameras
+**C-2562** Host Says Nobody Has Shown Charlie Arriving at Timpanogos Despite News Cameras
 
 Claim Timestamp: 00:03:01
 
@@ -1144,7 +1143,7 @@ Investigative Direction: Identify the New York news crew present at Timpanogos a
 
 ---
 
-**C-7915** Host Says Nothing Fixes the Time Charlie Arrived at the Hospital
+**C-2563** Host Says Nothing Fixes the Time Charlie Arrived at the Hospital
 
 Claim Timestamp: 00:03:01
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Obtain the ambulance or vehicle arrival log, hospital i
 
 ---
 
-**C-7916** Host Says Feds Also Moved on Footage Outside the Hospital
+**C-2564** Host Says Feds Also Moved on Footage Outside the Hospital
 
 Claim Timestamp: 00:03:01
 
@@ -1171,13 +1170,13 @@ Transcript Snippet: the Feds moved to grab the footage inside of the hospital im
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10239, N-10576
-Supports: C-1666
+Supports: C-2559
 Tags: relevance:core
 Investigative Direction: Ask the hospital and any federal agency for evidence receipts and chain-of-custody records for exterior and interior video.
 
 ---
 
-**C-7917** Host Asks for Footage of the Black SUV at the Hospital via Tip Line
+**C-2565** Host Asks for Footage of the Black SUV at the Hospital via Tip Line
 
 Claim Timestamp: 00:04:10
 
@@ -1193,7 +1192,7 @@ Investigative Direction: Check what, if anything, was later received and publish
 
 ---
 
-**C-7918** Host Says Fed Strategy Is to Put Out a Sloppy Narrative
+**C-2566** Host Says Fed Strategy Is to Put Out a Sloppy Narrative
 
 Claim Timestamp: 00:04:43
 
@@ -1209,7 +1208,7 @@ Investigative Direction: Speculative generalization; not testable as stated beyo
 
 ---
 
-**C-7919** Baker Says His Federal Source Replied Holy F and She Is One of Us
+**C-2568** Baker Says His Federal Source Replied Holy F and She Is One of Us
 
 Claim Timestamp: 00:08:56
 
@@ -1220,13 +1219,13 @@ Transcript Snippet: After they looked at it for about 2 hours, the response that
 Anchored Artifacts: A-1367.1
 Mentions: N-236, N-237, N-238
 Related Nodes: N-10241
-Supports: C-1655
+Supports: C-2567
 Tags: relevance:context
 Investigative Direction: Ask Baker or Blaze Media to identify the agency level and the date he first pulled the thread; seek documentary support.
 
 ---
 
-**C-7920** Host Says Kirk Investigation May Sweep Up Same People as January 6
+**C-2569** Host Says Kirk Investigation May Sweep Up Same People as January 6
 
 Claim Timestamp: 00:09:40
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Predictive; track later charging, resignations or testi
 
 ---
 
-**C-7921** Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home
+**C-2571** Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home
 
 Claim Timestamp: 00:10:32
 
@@ -1258,7 +1257,7 @@ Investigative Direction: Ask Blaze News whether its editor visited the address a
 
 ---
 
-**C-7922** Host Says Four of Six January 6 Permits Went to Charismatic Christian Groups
+**C-2573** Host Says Four of Six January 6 Permits Went to Charismatic Christian Groups
 
 Claim Timestamp: 00:12:07
 
@@ -1274,7 +1273,7 @@ Investigative Direction: Check the National Park Service permit list for January
 
 ---
 
-**C-7923** Host Says Fifteen Pastors Surrounded Trump Before January 6 Saying the War Was Spiritual
+**C-2574** Host Says Fifteen Pastors Surrounded Trump Before January 6 Saying the War Was Spiritual
 
 Claim Timestamp: 00:12:07
 
@@ -1290,7 +1289,7 @@ Investigative Direction: Find the White House visitor logs or published photos f
 
 ---
 
-**C-7924** Host Cites Article Saying NAR Drove January 6 and Naming Wallnau and Feucht
+**C-2575** Host Cites Article Saying NAR Drove January 6 and Naming Wallnau and Feucht
 
 Claim Timestamp: 00:12:07
 
@@ -1306,7 +1305,7 @@ Investigative Direction: Identify the publication and author of the article, con
 
 ---
 
-**C-7925** Host Says Charlie Became Mesmerized by the Seven Mountain Mandate and Befriended Wallnau
+**C-2577** Host Says Charlie Became Mesmerized by the Seven Mountain Mandate and Befriended Wallnau
 
 Claim Timestamp: 00:13:31
 
@@ -1322,7 +1321,7 @@ Investigative Direction: Look for public photos, posts or event appearances of K
 
 ---
 
-**C-7926** Wallnau Clip Traces Mandate to a 2000 Talk with Loren Cunningham and Bill Bright
+**C-2578** Wallnau Clip Traces Mandate to a 2000 Talk with Loren Cunningham and Bill Bright
 
 Claim Timestamp: 00:13:31
 
@@ -1333,13 +1332,13 @@ Transcript Snippet: it started with a conversation I had in the year 2000. I had
 Anchored Artifacts: A-1365.1
 Mentions: N-240, N-796, N-797
 Related Nodes: N-10242
-Supports: C-1653
+Supports: C-2576
 Tags: relevance:context
 Investigative Direction: Locate the original Wallnau video and compare with other tellings of the Cunningham and Bright story.
 
 ---
 
-**C-7927** Host Says Turning Point Faith Keeps Coming Up Wherever She Investigates
+**C-2579** Host Says Turning Point Faith Keeps Coming Up Wherever She Investigates
 
 Claim Timestamp: 00:16:25
 
@@ -1355,7 +1354,7 @@ Investigative Direction: List the specific leads and sources the host has tied t
 
 ---
 
-**C-7928** Host Says Many Mainstream Pastors Come from High-Ranking Military Families
+**C-2580** Host Says Many Mainstream Pastors Come from High-Ranking Military Families
 
 Claim Timestamp: 00:16:25
 
@@ -1366,13 +1365,13 @@ Transcript Snippet: a lot of these mainstream pastors and preachers actually com
 Anchored Artifacts: 
 Mentions: N-7, N-17, N-3
 Related Nodes: N-10436
-Supports: C-1505
+Supports: C-1858
 Tags: relevance:context
 Investigative Direction: Check biographies of the named pastors against military service records and family history.
 
 ---
 
-**C-7929** Host Says Wallnau Graduated from a Military Academy
+**C-2581** Host Says Wallnau Graduated from a Military Academy
 
 Claim Timestamp: 00:17:09
 
@@ -1388,7 +1387,7 @@ Investigative Direction: Check Wallnau's published biography for the academy and
 
 ---
 
-**C-7930** Host Says Carl Wallnau Was an Air Force Major Who Served Under Patton
+**C-2582** Host Says Carl Wallnau Was an Air Force Major Who Served Under Patton
 
 Claim Timestamp: 00:17:09
 
@@ -1404,7 +1403,7 @@ Investigative Direction: Locate Carl Wallnau's service record or obituary and an
 
 ---
 
-**C-7931** Host Says Turek Did Not Warn Charlie About NAR Infiltration
+**C-2584** Host Says Turek Did Not Warn Charlie About NAR Infiltration
 
 Claim Timestamp: 00:18:06
 
@@ -1420,7 +1419,7 @@ Investigative Direction: Ask Turek or Kirk's associates whether any warning was 
 
 ---
 
-**C-7932** Host Relays Administration-Adjacent Person Asking When Turning Point Became Faith-Focused
+**C-2585** Host Relays Administration-Adjacent Person Asking When Turning Point Became Faith-Focused
 
 Claim Timestamp: 00:19:04
 
@@ -1436,7 +1435,7 @@ Investigative Direction: Compare Turning Point event agendas over time and ident
 
 ---
 
-**C-7933** Host Says Faith-Department Sources Say Wallnau Funded Turning Point Faith
+**C-2586** Host Says Faith-Department Sources Say Wallnau Funded Turning Point Faith
 
 Claim Timestamp: 00:19:04
 
@@ -1452,7 +1451,7 @@ Investigative Direction: Obtain donor or ministry records, Turning Point Faith b
 
 ---
 
-**C-7934** Host Says Wallnau Was Friends with McCoy, Toured with Turning Point Faith and Knew Charlie
+**C-2587** Host Says Wallnau Was Friends with McCoy, Toured with Turning Point Faith and Knew Charlie
 
 Claim Timestamp: 00:20:37
 
@@ -1468,7 +1467,7 @@ Investigative Direction: Check tour announcements for Turning Point Faith stops 
 
 ---
 
-**C-7935** Host Says Mel on X Has Done Good Work on the Faith-Military Constellation
+**C-2588** Host Says Mel on X Has Done Good Work on the Faith-Military Constellation
 
 Claim Timestamp: 00:20:37
 
@@ -1484,7 +1483,7 @@ Investigative Direction: Review Mel's X threads and which claims in them the hos
 
 ---
 
-**C-7936** Host Says 2017 Las Vegas Shooting Killed 58 and the Official Story Was Lone Gunman Paddock
+**C-2589** Host Says 2017 Las Vegas Shooting Killed 58 and the Official Story Was Lone Gunman Paddock
 
 Claim Timestamp: 00:21:31
 
@@ -1500,7 +1499,7 @@ Investigative Direction: Compare with the official casualty figures from the Las
 
 ---
 
-**C-7937** Host Says Conspiracy Theorists Had Ton of Evidence Las Vegas Was a Military Operation
+**C-2590** Host Says Conspiracy Theorists Had Ton of Evidence Las Vegas Was a Military Operation
 
 Claim Timestamp: 00:21:31
 
@@ -1516,7 +1515,7 @@ Investigative Direction: The host cites no specific evidence here; ask which evi
 
 ---
 
-**C-7938** Host Says About 40 Las Vegas Shooting Attendees Were at the Borderline Bar
+**C-2591** Host Says About 40 Las Vegas Shooting Attendees Were at the Borderline Bar
 
 Claim Timestamp: 00:21:31
 
@@ -1532,7 +1531,7 @@ Investigative Direction: Check contemporaneous reporting on how many Las Vegas s
 
 ---
 
-**C-7939** Host Says the Borderline Shooter's Family Knows Rob McCoy
+**C-2592** Host Says the Borderline Shooter's Family Knows Rob McCoy
 
 Claim Timestamp: 00:21:31
 
@@ -1548,7 +1547,7 @@ Investigative Direction: Look for McCoy's statements or local reporting on a con
 
 ---
 
-**C-7940** Host Says a Borderline Victim Was a 27-Year-Old Navy Veteran Who Survived Las Vegas
+**C-2593** Host Says a Borderline Victim Was a 27-Year-Old Navy Veteran Who Survived Las Vegas
 
 Claim Timestamp: 00:22:29
 
@@ -1564,7 +1563,7 @@ Investigative Direction: Confirm the victim's identity, age and service from 201
 
 ---
 
-**C-7941** Host Relays Survivor Saying the Group Was Having a Las Vegas Reunion
+**C-2594** Host Relays Survivor Saying the Group Was Having a Las Vegas Reunion
 
 Claim Timestamp: 00:22:29
 
@@ -1580,7 +1579,7 @@ Investigative Direction: Identify the survivor and the interview in which this w
 
 ---
 
-**C-7942** Host Says McCoy Was Elected Mayor of Thousand Oaks a Month After the Borderline Shooting
+**C-2596** Host Says McCoy Was Elected Mayor of Thousand Oaks a Month After the Borderline Shooting
 
 Claim Timestamp: 00:23:17
 
@@ -1596,7 +1595,7 @@ Investigative Direction: Check Thousand Oaks city council records for the date M
 
 ---
 
-**C-7943** Host Says She Posted Over the Weekend About Romanian Sex Trafficking Tied to a California Church
+**C-2597** Host Says She Posted Over the Weekend About Romanian Sex Trafficking Tied to a California Church
 
 Claim Timestamp: 00:23:17
 
@@ -1612,7 +1611,7 @@ Investigative Direction: Locate the host's X post from the weekend of November 8
 
 ---
 
-**C-7944** Host Names Paul Havsgaard as a Former Megachurch Pastor Accused of Trafficking Children from Romania
+**C-2598** Host Names Paul Havsgaard as a Former Megachurch Pastor Accused of Trafficking Children from Romania
 
 Claim Timestamp: 00:27:04
 
@@ -1623,13 +1622,13 @@ Transcript Snippet: there's been another megachurch pastor that was accused of t
 Anchored Artifacts: 
 Mentions: N-451
 Related Nodes: N-10401
-Supports: C-7943
+Supports: C-2597
 Tags: relevance:tangential
 Investigative Direction: Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account.
 
 ---
 
-**C-7945** Host Says Her Show Hit Number One Globally the Prior Week
+**C-2600** Host Says Her Show Hit Number One Globally the Prior Week
 
 Claim Timestamp: 00:28:07
 
@@ -1639,13 +1638,13 @@ Transcript Snippet: When my show hit number one globally last week, it was just 
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-1617
+Supports: C-2408
 Tags: relevance:tangential
 Investigative Direction: Check Podscribe or Spotify and Apple chart data for the week.
 
 ---
 
-**C-7946** Host Says Critics Went After Her Sponsors and Got Her Banned from Australia
+**C-2601** Host Says Critics Went After Her Sponsors and Got Her Banned from Australia
 
 Claim Timestamp: 00:28:07
 
@@ -1661,7 +1660,7 @@ Investigative Direction: Check Australian government records on her visa status 
 
 ---
 
-**C-7947** Host Alleges Joel Berry Cheered Child Deaths and Church Bombings and Denied Gaza Christians Are Human
+**C-2603** Host Alleges Joel Berry Cheered Child Deaths and Church Bombings and Denied Gaza Christians Are Human
 
 Claim Timestamp: 00:29:06
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Identify the specific Berry posts the host is character
 
 ---
 
-**C-7948** Host Says Shapiro Lied to and Pressured Megyn Kelly on Stage
+**C-2604** Host Says Shapiro Lied to and Pressured Megyn Kelly on Stage
 
 Claim Timestamp: 00:29:44
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Review the video of the stage exchange and identify the
 
 ---
 
-**C-7949** Host Says Her Screenshots Showed Charlie Felt Shapiro Had Prevented Him from Coming Up
+**C-2605** Host Says Her Screenshots Showed Charlie Felt Shapiro Had Prevented Him from Coming Up
 
 Claim Timestamp: 00:29:44
 
@@ -1704,13 +1703,13 @@ Transcript Snippet: showed you screenshots of what Charlie had said, said told y
 Anchored Artifacts: A-1370.1
 Mentions: N-97, N-1, N-3
 Related Nodes: N-11064
-Supports: C-1642
+Supports: C-2515
 Tags: relevance:core
 Investigative Direction: Obtain the full text thread and compare with Shapiro's and Daily Wire's account of the relationship.
 
 ---
 
-**C-7950** Host Says the Texts Were Pulled Live from Her Phone and Are Not Made Up
+**C-2608** Host Says the Texts Were Pulled Live from Her Phone and Are Not Made Up
 
 Claim Timestamp: 00:31:24
 
@@ -1720,13 +1719,13 @@ Transcript Snippet: Just looked up on my phone. These are not made up text messa
 
 Anchored Artifacts: A-1370.1
 Mentions: N-3
-Contradicts: C-1657
+Contradicts: C-2606
 Tags: relevance:core
 Investigative Direction: Forensic review of the original device thread and its metadata would settle authenticity.
 
 ---
 
-**C-7951** Host Says She Was Clear from the Start: No Fakeness and No Gayness
+**C-2609** Host Says She Was Clear from the Start: No Fakeness and No Gayness
 
 Claim Timestamp: 00:32:35
 
@@ -1741,7 +1740,7 @@ Investigative Direction: Catchphrase framing; no independent test beyond the evi
 
 ---
 
-**C-7952** Host Says Allie Beth Stuckey Is Working with Alyssa Cordova
+**C-2610** Host Says Allie Beth Stuckey Is Working with Alyssa Cordova
 
 Claim Timestamp: 00:32:54
 
@@ -1757,7 +1756,7 @@ Investigative Direction: Check Stuckey's and Cordova's public collaborations and
 
 ---
 
-**C-7953** Host Says She Did the Work Herself and People Sent Her Material for the Timeline
+**C-2612** Host Says She Did the Work Herself and People Sent Her Material for the Timeline
 
 Claim Timestamp: 00:34:48
 
@@ -1773,7 +1772,7 @@ Investigative Direction: Compare the published timeline's sources with the tip s
 
 ---
 
-**C-7954** Host Says People Praised Charlie Then Walked Away as He Bled Out
+**C-2613** Host Says People Praised Charlie Then Walked Away as He Bled Out
 
 Claim Timestamp: 00:34:48
 
@@ -1789,7 +1788,7 @@ Investigative Direction: Identify who the host means and match the statement to 
 
 ---
 
-**C-7955** Host Says Necks Do Not Stop a .30-06 Bullet
+**C-2614** Host Says Necks Do Not Stop a .30-06 Bullet
 
 Claim Timestamp: 00:35:35
 
@@ -1805,7 +1804,7 @@ Investigative Direction: Obtain the autopsy and forensic ballistics reports and 
 
 ---
 
-**C-7956** Host Says a Multimillion-Dollar Security Detail Would Not Forget an Ambulance Behind You
+**C-2615** Host Says a Multimillion-Dollar Security Detail Would Not Forget an Ambulance Behind You
 
 Claim Timestamp: 00:35:35
 
@@ -1816,13 +1815,13 @@ Transcript Snippet: when you spend millions of dollars on security on your secur
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10840, N-10000
-Supports: C-1616
+Supports: C-2363
 Tags: relevance:core
 Investigative Direction: Review Turning Point's security contract, event medical plan and UVU emergency-services approvals.
 
 ---
 
-**C-7957** Host Says She Worked for Turning Point and Knows the Timeline Does Not Make Sense
+**C-2616** Host Says She Worked for Turning Point and Knows the Timeline Does Not Make Sense
 
 Claim Timestamp: 00:35:35
 
@@ -1838,7 +1837,7 @@ Investigative Direction: Compare her recollection of normal advance planning wit
 
 ---
 
-**C-7958** Host Says Nothing in Grok's Account Is Real
+**C-2618** Host Says Nothing in Grok's Account Is Real
 
 Claim Timestamp: 00:37:53
 
@@ -1848,13 +1847,13 @@ Transcript Snippet: none of this is real. Like, you guys are exhausting, not jus
 
 Anchored Artifacts: A-1373.1
 Mentions: N-243, N-3
-Contradicts: C-1661
+Contradicts: C-2617
 Tags: relevance:core
 Investigative Direction: Compare the Grok post with the host's actual statements across the series.
 
 ---
 
-**C-7959** Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military
+**C-2619** Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military
 
 Claim Timestamp: 00:37:53
 
@@ -1870,7 +1869,7 @@ Investigative Direction: Check the Wednesday, November 12, 2025 episode for the 
 
 ---
 
-**C-7960** Host Says Turning Point Said It Is Not Canceling Tucker Carlson
+**C-2620** Host Says Turning Point Said It Is Not Canceling Tucker Carlson
 
 Claim Timestamp: 00:38:20
 
@@ -1886,7 +1885,7 @@ Investigative Direction: Find the Turning Point statement and the AmericaFest sp
 
 ---
 
-**C-7961** Levin Reads Tucker's Text Saying Turning Point Asked Him to Debate Levin in Scottsdale
+**C-2622** Levin Reads Tucker's Text Saying Turning Point Asked Him to Debate Levin in Scottsdale
 
 Claim Timestamp: 00:39:10
 
@@ -1897,13 +1896,13 @@ Transcript Snippet: The leadership at Turning Point has asked me to debate you a
 Anchored Artifacts: A-1375.1
 Mentions: N-244, N-22
 Related Nodes: N-10000
-Supports: C-1663
+Supports: C-2621
 Tags: relevance:context
 Investigative Direction: Check the Turning Point event program for a Levin and Carlson debate and the text's authenticity.
 
 ---
 
-**C-7962** Levin Says Tucker Attacked His Stepson Who Is Serving the Trump Administration
+**C-2623** Levin Says Tucker Attacked His Stepson Who Is Serving the Trump Administration
 
 Claim Timestamp: 00:41:45
 
@@ -1918,7 +1917,7 @@ Investigative Direction: Identify the stepson and the Carlson remarks Levin refe
 
 ---
 
-**C-7963** Host Calls Reactions a Full Zionist Crash Out Since Charlie Died
+**C-2624** Host Calls Reactions a Full Zionist Crash Out Since Charlie Died
 
 Claim Timestamp: 00:42:47
 
@@ -1933,7 +1932,7 @@ Investigative Direction: Sweeping group characterization; compare with the speci
 
 ---
 
-**C-7964** Host Says Keri Smith Claims Former Cult Mindset and Has Watched Ten Episodes
+**C-2625** Host Says Keri Smith Claims Former Cult Mindset and Has Watched Ten Episodes
 
 Claim Timestamp: 00:44:03
 
@@ -1949,7 +1948,7 @@ Investigative Direction: Check Smith's Deprogrammed episode for her stated backg
 
 ---
 
-**C-7965** Smith Says She Saw Charlie Kirk Get Shot in the Throat
+**C-2627** Smith Says She Saw Charlie Kirk Get Shot in the Throat
 
 Claim Timestamp: 00:45:46
 
@@ -1965,7 +1964,7 @@ Investigative Direction: Place the statement in the Deprogrammed episode and wha
 
 ---
 
-**C-7966** Host Says Smith Listed About Seven Signs of a Cult, Including Forced Teaming
+**C-2628** Host Says Smith Listed About Seven Signs of a Cult, Including Forced Teaming
 
 Claim Timestamp: 00:46:29
 
@@ -1981,7 +1980,7 @@ Investigative Direction: Watch the Deprogrammed episode and list each sign Smith
 
 ---
 
-**C-7967** Host Says Fed Operations Always Diagnose Dissenters Using Dark Triad Labels
+**C-2629** Host Says Fed Operations Always Diagnose Dissenters Using Dark Triad Labels
 
 Claim Timestamp: 00:46:29
 
@@ -1997,7 +1996,7 @@ Investigative Direction: Sweeping historical generalization; no specific instanc
 
 ---
 
-**C-7968** Host Says All Her Information Comes from the Tip Line
+**C-2630** Host Says All Her Information Comes from the Tip Line
 
 Claim Timestamp: 00:47:16
 
@@ -2012,7 +2011,7 @@ Investigative Direction: Audit the volume and sources of tip-line submissions an
 
 ---
 
-**C-7969** Host Repeats That a .30-06 Stopped by Charlie's Neck Would Be a Miracle
+**C-2631** Host Repeats That a .30-06 Stopped by Charlie's Neck Would Be a Miracle
 
 Claim Timestamp: 00:48:23
 
@@ -2023,13 +2022,13 @@ Transcript Snippet: like a.30-06 got stopped by Charlie's neck because miracle
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10319
-Supports: C-7955
+Supports: C-2614
 Tags: relevance:core
 Investigative Direction: Same as the earlier claim: ballistic and autopsy findings.
 
 ---
 
-**C-7970** Host Says No Clear Picture of Tyler Robinson on Campus Has Been Shown
+**C-2632** Host Says No Clear Picture of Tyler Robinson on Campus Has Been Shown
 
 Claim Timestamp: 00:53:52
 
@@ -2045,24 +2044,24 @@ Investigative Direction: Check the court record and discovery for any clear imag
 
 ---
 
-**C-7971** Host Says Charlie Established DOGE After Realizing Something Was Wrong and Made Enemies
+**C-2633** Host Says Charlie Established DOGE After Realizing Something Was Wrong and Made Enemies
 
 Claim Timestamp: 00:55:35
 
-Claim: The host says she thinks Charlie raised his head and realized something was wrong with the money, which is why he established DOGE (transcribed "DOAJ"; C-1563 has the host calling it "the internet DOGE"), and that he made real enemies.
+Claim: The host says she thinks Charlie raised his head and realized something was wrong with the money, which is why he established DOGE (transcribed "DOAJ"; C-2136 has the host calling it "the internet DOGE"), and that he made real enemies.
 
 Transcript Snippet: when Charlie raised his head and realized something was wrong, and that's why he established DOAJ
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10434, N-10132, N-10000, N-11171
-Supports: C-1563
+Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Obtain the internal memo and staff accounts of the DOGE department's creation and mandate.
 
 ---
 
-**C-7972** Host Says Charlie Suddenly Wondered Where the Money Was Coming From
+**C-2634** Host Says Charlie Suddenly Wondered Where the Money Was Coming From
 
 Claim Timestamp: 00:55:35
 
@@ -2073,13 +2072,13 @@ Transcript Snippet: It's not a small thing that Charlie suddenly was wondering a
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10078, N-10000
-Supports: C-1563
+Supports: C-2136
 Tags: relevance:core
 Investigative Direction: Find staff or donor testimony and communications showing Kirk raised funding questions.
 
 ---
 
-**C-7973** Host Repeats That Wallnau Was Putting Money into Turning Point Faith
+**C-2635** Host Repeats That Wallnau Was Putting Money into Turning Point Faith
 
 Claim Timestamp: 00:55:35
 
@@ -2090,13 +2089,13 @@ Transcript Snippet: It doesn't make me feel good knowing that he was putting mon
 Anchored Artifacts: 
 Mentions: N-240, N-3
 Related Nodes: N-10242, N-10398
-Supports: C-7933
+Supports: C-2586
 Tags: relevance:core
 Investigative Direction: Same as the earlier funding claim.
 
 ---
 
-**C-7974** Host Announces a Friday Guest on Turning Point's Finances
+**C-2636** Host Announces a Friday Guest on Turning Point's Finances
 
 Claim Timestamp: 00:55:35
 
@@ -2112,7 +2111,7 @@ Investigative Direction: Check the Friday, November 14, 2025 episode and guest.
 
 ---
 
-**C-7975** Host Says Alex Clark Said She Lied About Interviews Because of a CNN Interview
+**C-2637** Host Says Alex Clark Said She Lied About Interviews Because of a CNN Interview
 
 Claim Timestamp: 00:56:54
 
@@ -2123,13 +2122,13 @@ Transcript Snippet: Alex Clark figured out she rumbled me that I spoke to CNN in
 Anchored Artifacts: 
 Mentions: N-99, N-3
 Related Nodes: N-11159
-Supports: C-1651
+Supports: C-2538
 Tags: relevance:context
 Investigative Direction: Check the CNN interview air date and the host's earlier statements about interviews.
 
 ---
 
-**C-7976** Host Says She Did Not Offer a Single Interview After Charlie's Death
+**C-2638** Host Says She Did Not Offer a Single Interview After Charlie's Death
 
 Claim Timestamp: 00:56:54
 
@@ -2145,7 +2144,7 @@ Investigative Direction: Compare against the interview dates and the CNN booking
 
 ---
 
-**C-7977** Host Says Elle Reeve Never Mentioned Her Book and Pressed on Zionism and Brigitte Macron
+**C-2639** Host Says Elle Reeve Never Mentioned Her Book and Pressed on Zionism and Brigitte Macron
 
 Claim Timestamp: 00:56:54
 
@@ -2345,7 +2344,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty (N-238 / N-10241):** The episode alternates between "Shauni Rae Kerkhoff" (Steve Baker / Glenn Beck audio) and "Shauni Kerkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
-- **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-1666) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.
+- **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-2559) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.
 - **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.
 - **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother "storms" the Borderline Bar (host-corrected herself mid-sentence to "that Marine's mother"); (f) the claim that Charlie Kirk had established "DOAJ"; (g) the claim that Kash Patel "injected himself" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.
 - **Reading-aloud reliability (A-1369, A-1371, A-1372, A-1373):** X / Twitter posts and the Grok statement were quoted or paraphrased by the host; original post URLs and exact text were not displayed on screen in this transcript.
@@ -2357,7 +2356,6 @@ Confidence: high
 **Episode 29 Ledger Summary (repeat)**
 
 - Artifact Families Introduced: A-1364, A-1365, A-1366, A-1367, A-1368, A-1369, A-1370, A-1371, A-1372, A-1373, A-1374, A-1375, A-1376, A-1377, A-1378
-- Claim Range: C-1652 – C-1666
 - New Person Nodes: N-236 – N-245
 - New Investigation Target Nodes: N-10239 – N-10242
 - Existing Nodes Reused: N-1 (Charlie Kirk)

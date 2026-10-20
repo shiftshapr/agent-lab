@@ -27,8 +27,8 @@
           "ref": "A-2277.1",
           "description": "Debate Segment – Wilson's Opening Statement Read From Phone",
           "related_claims": [
-            "C-3277",
-            "C-3289"
+            "C-12139",
+            "C-12143"
           ],
           "related_nodes": [
             "N-10141",
@@ -48,7 +48,7 @@
           "ref": "A-2277.2",
           "description": "Debate Segment – Wilson's 75–85% Confidence Estimate",
           "related_claims": [
-            "C-3278"
+            "C-12149"
           ],
           "related_nodes": [
             "N-10141"
@@ -66,7 +66,7 @@
           "ref": "A-2277.3",
           "description": "Debate Segment – Wilson's Repeated Use of \"Positive Evidence\"",
           "related_claims": [
-            "C-3280"
+            "C-12153"
           ],
           "related_nodes": [
             "N-10141"
@@ -84,7 +84,7 @@
           "ref": "A-2277.4",
           "description": "Debate Segment – Wilson Unable to Name Any of Seven Charges",
           "related_claims": [
-            "C-3279"
+            "C-12172"
           ],
           "related_nodes": [
             "N-10141"
@@ -119,7 +119,7 @@
           "ref": "A-2277.6",
           "description": "Debate Segment – 16-Second Silence and Lance DNA Clip Moment",
           "related_claims": [
-            "C-3281"
+            "C-12124"
           ],
           "related_nodes": [
             "N-10141"
@@ -161,7 +161,7 @@
           "ref": "A-2278.1",
           "description": "\"Jars Wide Shut\" AI-Generated Video Depicting Erika Kirk Confronting Andrew Wilson",
           "related_claims": [
-            "C-3287"
+            "C-12182"
           ],
           "related_nodes": [
             "N-18"
@@ -187,7 +187,7 @@
           "ref": "A-2279.1",
           "description": "\"Stages of Debate Grief\" Five-Panel Meme",
           "related_claims": [
-            "C-3288"
+            "C-12185"
           ],
           "related_nodes": [],
           "tags": [],
@@ -211,7 +211,7 @@
           "ref": "A-2280.1",
           "description": "Rachel Wilson X Post – In-Ear Monitor Question",
           "related_claims": [
-            "C-3285"
+            "C-12189"
           ],
           "related_nodes": [],
           "tags": [],
@@ -227,7 +227,7 @@
           "ref": "A-2280.2",
           "description": "Rachel Wilson X Post – Acknowledging Owens Knew Case Details Better",
           "related_claims": [
-            "C-3284"
+            "C-12193"
           ],
           "related_nodes": [],
           "tags": [],
@@ -251,7 +251,7 @@
           "ref": "A-2281.1",
           "description": "Audio Clip – Steven Crowder Asking Andrew Wilson Whether He Was Provided Hair and Makeup",
           "related_claims": [
-            "C-3282"
+            "C-12191"
           ],
           "related_nodes": [
             "N-10141"
@@ -277,7 +277,7 @@
           "ref": "A-2282.1",
           "description": "Poly Market Screenshot Showing Conviction Odds Falling During Debate",
           "related_claims": [
-            "C-3283"
+            "C-12180"
           ],
           "related_nodes": [
             "N-10141"
@@ -303,7 +303,7 @@
           "ref": "A-2283.1",
           "description": "Andrew Wilson Retweet With Reply \"Picked a hell of a week\"",
           "related_claims": [
-            "C-3286"
+            "C-12171"
           ],
           "related_nodes": [
             "N-10141",
@@ -330,7 +330,7 @@
           "ref": "A-2792.1",
           "description": "Played debate clip in which Wilson asks the host whether she has evidence TPUSA or Erika Kirk participated in the murder and she answers that she never said so",
           "related_claims": [
-            "C-6049"
+            "C-12159"
           ],
           "related_nodes": [
             "N-3",
@@ -348,9 +348,9 @@
           "ref": "A-2792.2",
           "description": "Played debate clip in which Wilson asks about Officer Bagley and whether he planted the screwdriver, with the host's answer about the body cam",
           "related_claims": [
-            "C-6050",
-            "C-6051",
-            "C-6052"
+            "C-12160",
+            "C-12161",
+            "C-12162"
           ],
           "related_nodes": [
             "N-2",
@@ -369,10 +369,10 @@
           "ref": "A-2792.3",
           "description": "Played debate clip of the timeline and receipt exchange about the steakhouse visit",
           "related_claims": [
-            "C-6063",
-            "C-6064",
-            "C-6065",
-            "C-6067"
+            "C-12175",
+            "C-12176",
+            "C-12177",
+            "C-12179"
           ],
           "related_nodes": [
             "N-3",
@@ -398,7 +398,7 @@
           "ref": "A-2793.1",
           "description": "Clip played after Wilson's message reading in which a speaker says Charlie never messaged he would be murdered and 'I have his cell phone', which the host ties to Erika Kirk's December Glenn Beck interview",
           "related_claims": [
-            "C-6035"
+            "C-12142"
           ],
           "related_nodes": [
             "N-1",
@@ -424,7 +424,7 @@
           "ref": "A-2794.1",
           "description": "Viewer comment read by the host (credited to Jay Beam) quoting Wilson saying 'You could just not do what you are doing'",
           "related_claims": [
-            "C-6087"
+            "C-12205"
           ],
           "related_nodes": [
             "N-3",
@@ -450,12 +450,12 @@
           "ref": "A-2795.1",
           "description": "Host verbal reference to the Crucible team email chain with Wilson's side (not shown)",
           "related_claims": [
-            "C-6013",
-            "C-6014",
-            "C-6015",
-            "C-6016",
-            "C-6018",
-            "C-6024"
+            "C-12118",
+            "C-12119",
+            "C-12120",
+            "C-12121",
+            "C-12123",
+            "C-12130"
           ],
           "related_nodes": [
             "N-3",
@@ -474,10 +474,10 @@
           "ref": "A-2795.2",
           "description": "Host verbal reference to the debate contract and its terms (not shown)",
           "related_claims": [
-            "C-6020",
-            "C-6021",
-            "C-6029",
-            "C-6055"
+            "C-12126",
+            "C-12127",
+            "C-12135",
+            "C-12165"
           ],
           "related_nodes": [
             "N-3",
@@ -496,8 +496,8 @@
           "ref": "A-2795.3",
           "description": "Host verbal reference to her producer's texts with the anonymous number supplied for Wilson's team (not shown)",
           "related_claims": [
-            "C-6022",
-            "C-6023"
+            "C-12128",
+            "C-12129"
           ],
           "related_nodes": [
             "N-3",
@@ -523,7 +523,7 @@
           "ref": "A-2796.1",
           "description": "Host verbal reference to a Wilson tweet about Erika Kirk and her husband (not shown)",
           "related_claims": [
-            "C-6047"
+            "C-12157"
           ],
           "related_nodes": [
             "N-3",
@@ -550,7 +550,7 @@
         "A-2277.1"
       ],
       "related_claims": [
-        "C-3277"
+        "C-12139"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -573,8 +573,8 @@
         "A-2283.1"
       ],
       "related_claims": [
-        "C-3277",
-        "C-3286"
+        "C-12139",
+        "C-12171"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -613,12 +613,12 @@
       "description": "Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3277",
-        "C-3278",
-        "C-3279",
-        "C-3280",
-        "C-3281",
-        "C-3282"
+        "C-12139",
+        "C-12149",
+        "C-12172",
+        "C-12153",
+        "C-12124",
+        "C-12191"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -635,14 +635,14 @@
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6009",
-        "C-6033",
-        "C-6034",
-        "C-6035",
-        "C-6047",
-        "C-6049",
-        "C-6077",
-        "C-6080"
+        "C-12114",
+        "C-12141",
+        "C-12140",
+        "C-12142",
+        "C-12157",
+        "C-12159",
+        "C-12195",
+        "C-12198"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -660,20 +660,20 @@
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6032",
-        "C-6035",
-        "C-6036",
-        "C-6037",
-        "C-6038",
-        "C-6039",
-        "C-6042",
-        "C-6047",
-        "C-6049",
-        "C-6052",
-        "C-6053",
-        "C-6054",
-        "C-6070",
-        "C-6084"
+        "C-12138",
+        "C-12142",
+        "C-12144",
+        "C-12145",
+        "C-12146",
+        "C-12147",
+        "C-12151",
+        "C-12157",
+        "C-12159",
+        "C-12162",
+        "C-12163",
+        "C-12164",
+        "C-12184",
+        "C-12202"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -691,85 +691,85 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6008",
-        "C-6009",
-        "C-6010",
-        "C-6011",
-        "C-6012",
-        "C-6013",
-        "C-6014",
-        "C-6015",
-        "C-6016",
-        "C-6017",
-        "C-6018",
-        "C-6019",
-        "C-6020",
-        "C-6021",
-        "C-6022",
-        "C-6023",
-        "C-6024",
-        "C-6025",
-        "C-6026",
-        "C-6027",
-        "C-6028",
-        "C-6029",
-        "C-6030",
-        "C-6031",
-        "C-6032",
-        "C-6036",
-        "C-6037",
-        "C-6038",
-        "C-6039",
-        "C-6040",
-        "C-6041",
-        "C-6042",
-        "C-6043",
-        "C-6044",
-        "C-6045",
-        "C-6046",
-        "C-6047",
-        "C-6048",
-        "C-6049",
-        "C-6050",
-        "C-6051",
-        "C-6052",
-        "C-6053",
-        "C-6054",
-        "C-6055",
-        "C-6056",
-        "C-6057",
-        "C-6058",
-        "C-6059",
-        "C-6060",
-        "C-6061",
-        "C-6062",
-        "C-6063",
-        "C-6064",
-        "C-6065",
-        "C-6066",
-        "C-6067",
-        "C-6068",
-        "C-6069",
-        "C-6071",
-        "C-6072",
-        "C-6073",
-        "C-6074",
-        "C-6075",
-        "C-6076",
-        "C-6077",
-        "C-6078",
-        "C-6079",
-        "C-6080",
-        "C-6081",
-        "C-6082",
-        "C-6083",
-        "C-6084",
-        "C-6085",
-        "C-6086",
-        "C-6087",
-        "C-6088",
-        "C-6089",
-        "C-6090"
+        "C-12113",
+        "C-12114",
+        "C-12115",
+        "C-12116",
+        "C-12117",
+        "C-12118",
+        "C-12119",
+        "C-12120",
+        "C-12121",
+        "C-12122",
+        "C-12123",
+        "C-12125",
+        "C-12126",
+        "C-12127",
+        "C-12128",
+        "C-12129",
+        "C-12130",
+        "C-12131",
+        "C-12132",
+        "C-12133",
+        "C-12134",
+        "C-12135",
+        "C-12136",
+        "C-12137",
+        "C-12138",
+        "C-12144",
+        "C-12145",
+        "C-12146",
+        "C-12147",
+        "C-12148",
+        "C-12150",
+        "C-12151",
+        "C-12152",
+        "C-12154",
+        "C-12155",
+        "C-12156",
+        "C-12157",
+        "C-12158",
+        "C-12159",
+        "C-12160",
+        "C-12161",
+        "C-12162",
+        "C-12163",
+        "C-12164",
+        "C-12165",
+        "C-12166",
+        "C-12167",
+        "C-12168",
+        "C-12169",
+        "C-12170",
+        "C-12173",
+        "C-12174",
+        "C-12175",
+        "C-12176",
+        "C-12177",
+        "C-12178",
+        "C-12179",
+        "C-12181",
+        "C-12183",
+        "C-12186",
+        "C-12187",
+        "C-12188",
+        "C-12190",
+        "C-12192",
+        "C-12194",
+        "C-12195",
+        "C-12196",
+        "C-12197",
+        "C-12198",
+        "C-12199",
+        "C-12200",
+        "C-12201",
+        "C-12202",
+        "C-12203",
+        "C-12204",
+        "C-12205",
+        "C-12206",
+        "C-12207",
+        "C-12208"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -787,19 +787,19 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6046",
-        "C-6053",
-        "C-6059",
-        "C-6060",
-        "C-6061",
-        "C-6062",
-        "C-6063",
-        "C-6064",
-        "C-6065",
-        "C-6066",
-        "C-6067",
-        "C-6077",
-        "C-6088"
+        "C-12156",
+        "C-12163",
+        "C-12169",
+        "C-12170",
+        "C-12173",
+        "C-12174",
+        "C-12175",
+        "C-12176",
+        "C-12177",
+        "C-12178",
+        "C-12179",
+        "C-12195",
+        "C-12206"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -817,11 +817,11 @@
       "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6025",
-        "C-6028",
-        "C-6073",
-        "C-6075",
-        "C-6086"
+        "C-12131",
+        "C-12134",
+        "C-12188",
+        "C-12192",
+        "C-12204"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -839,10 +839,10 @@
       "description": "First named by the host at 00:39:29 in episode 140.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6071",
-        "C-6072",
-        "C-6074",
-        "C-6083"
+        "C-12186",
+        "C-12187",
+        "C-12190",
+        "C-12201"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -860,8 +860,8 @@
       "description": "Named as having retweeted Wilson and in the account of what Dan Flood did not tell Erika. Transcript spelling includes Kvette.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6037",
-        "C-6078"
+        "C-12145",
+        "C-12196"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -878,7 +878,7 @@
       "description": "Named in the claim that officials never said his DNA was on the rifle.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6057"
+        "C-12167"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -895,12 +895,12 @@
       "description": "Debate moderator; named as accepting the role, joining the FaceTime call and having a direct line to the producers.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6017",
-        "C-6019",
-        "C-6020",
-        "C-6022",
-        "C-6054",
-        "C-6074"
+        "C-12122",
+        "C-12125",
+        "C-12126",
+        "C-12128",
+        "C-12164",
+        "C-12190"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -917,8 +917,8 @@
       "description": "Named (transcript spelling Michael Knowles) as declining to moderate and as demanding a trust be set up.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6017",
-        "C-6077"
+        "C-12122",
+        "C-12195"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -935,7 +935,7 @@
       "description": "Named in the host's pledge to look after people who supported her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6081"
+        "C-12199"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -952,7 +952,7 @@
       "description": "Named (transcript spelling Blake Neff) as retweeting Wilson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6078"
+        "C-12196"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -969,7 +969,7 @@
       "description": "Named in the host's account of her unpaid annual debates.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6079"
+        "C-12197"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -986,8 +986,8 @@
       "description": "Named as the host of Erika Kirk's December interview in which she said she had Charlie's phone.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6035",
-        "C-6036"
+        "C-12142",
+        "C-12144"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1004,7 +1004,7 @@
       "description": "Named in the account of the Texas hosting offer.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6015"
+        "C-12120"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1021,7 +1021,7 @@
       "description": "Named as the source the host believes sent the message and who allegedly did not tell Erika.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6037"
+        "C-12145"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1038,7 +1038,7 @@
       "description": "Named as the office to which the host says she handed the Foreign Legion threat information.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6044"
+        "C-12154"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1055,8 +1055,8 @@
       "description": "Officer named in the played Q&A about the body cam and the screwdriver.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6050",
-        "C-6051"
+        "C-12160",
+        "C-12161"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1073,15 +1073,15 @@
       "description": "Organization the host says paid and backed Wilson.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6008",
-        "C-6010",
-        "C-6031",
-        "C-6047",
-        "C-6049",
-        "C-6078",
-        "C-6083",
-        "C-6084",
-        "C-6090"
+        "C-12113",
+        "C-12115",
+        "C-12137",
+        "C-12157",
+        "C-12159",
+        "C-12196",
+        "C-12201",
+        "C-12202",
+        "C-12208"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1098,7 +1098,7 @@
       "description": "Place named in the played exchange about who called the shots.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6045"
+        "C-12155"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1115,7 +1115,7 @@
       "description": "Topic tied to the planted-screwdriver exchange.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6050"
+        "C-12160"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1132,9 +1132,9 @@
       "description": "Topic tied to the in-ear monitor claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6071",
-        "C-6072",
-        "C-6074"
+        "C-12186",
+        "C-12187",
+        "C-12190"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1151,7 +1151,7 @@
       "description": "Topic tied to the Foreign Legion threat exchange.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6044"
+        "C-12154"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1168,7 +1168,7 @@
       "description": "Topic tied to the Converse sneakers identification testimony.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6066"
+        "C-12178"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1185,10 +1185,10 @@
       "description": "Topic tied to the receipt and owner account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6063",
-        "C-6064",
-        "C-6065",
-        "C-6067"
+        "C-12175",
+        "C-12176",
+        "C-12177",
+        "C-12179"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1205,7 +1205,7 @@
       "description": "Topic tied to the 'I have his cell phone' statement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6035"
+        "C-12142"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1222,9 +1222,9 @@
       "description": "Topic tied to the dismissal filing and charges.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6059",
-        "C-6060",
-        "C-6062"
+        "C-12169",
+        "C-12170",
+        "C-12174"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1241,8 +1241,8 @@
       "description": "Topic tied to the body cam remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6050",
-        "C-6051"
+        "C-12160",
+        "C-12161"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1259,7 +1259,7 @@
       "description": "Topic tied to the host's remarks on Wilson's focus on Israel and France.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6088"
+        "C-12206"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1276,8 +1276,8 @@
       "description": "Topic tied to the content of the September 9 message.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6033",
-        "C-6034"
+        "C-12141",
+        "C-12140"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1294,9 +1294,9 @@
       "description": "First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6025",
-        "C-6027",
-        "C-6029"
+        "C-12131",
+        "C-12133",
+        "C-12135"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1313,13 +1313,13 @@
       "description": "The anonymous 'Crucible team' that emailed the host's side for Wilson, the contract, escrow and Rogan-offer renegotiation, and the burner-phone contact.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6013",
-        "C-6014",
-        "C-6015",
-        "C-6016",
-        "C-6018",
-        "C-6022",
-        "C-6024"
+        "C-12118",
+        "C-12119",
+        "C-12120",
+        "C-12121",
+        "C-12123",
+        "C-12128",
+        "C-12130"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1336,13 +1336,13 @@
       "description": "Dispute over what Wilson's party was entitled to do at the host's home: the live-stream setup demand, the basement entrance, the live call-in from the playroom and the no-filming clause.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6020",
-        "C-6023",
-        "C-6024",
-        "C-6025",
-        "C-6026",
-        "C-6027",
-        "C-6029"
+        "C-12126",
+        "C-12129",
+        "C-12130",
+        "C-12131",
+        "C-12132",
+        "C-12133",
+        "C-12135"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1359,7 +1359,7 @@
       "description": "Utah's Rule 1102, which the host says permits hearsay at the preliminary hearing and underpins her point about inference from evidence.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6043"
+        "C-12152"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1376,9 +1376,9 @@
       "description": "The host's $300K payment from Wilson's offer, the demands that she donate it or set up a trust, and her stated plan to give to the Catholic Church.",
       "related_artifacts": [],
       "related_claims": [
-        "C-6076",
-        "C-6077",
-        "C-6081"
+        "C-12194",
+        "C-12195",
+        "C-12199"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1390,8 +1390,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3277",
-      "ref": "C-3277",
+      "@id": "C-12139",
+      "ref": "C-12139",
       "label": "Wilson Opened Debate by Reading From His Phone About \"Never-Before-Seen Messages,\" Per Clip Host Plays",
       "claim": "The host plays a clip in which Andrew Wilson, reading from his phone, opens the debate by saying he holds \"never before seen messages\" from Charlie Kirk to his security team dated September 9, 2025.",
       "anchored_artifacts": [
@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3278",
-      "ref": "C-3278",
+      "@id": "C-12149",
+      "ref": "C-12149",
       "label": "Wilson Stated 75–85% Likelihood That Tyler Robinson Killed Charlie Kirk",
       "claim": "In a clip the host plays, when asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered, \"Based on the evidence right now, um I don't know. I'd say 75 85%.\"",
       "anchored_artifacts": [
@@ -1430,8 +1430,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3279",
-      "ref": "C-3279",
+      "@id": "C-12172",
+      "ref": "C-12172",
       "label": "Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays",
       "claim": "In a clip the host plays from the debate, when challenged to name any of the seven charges Tyler Robinson faces, Andrew Wilson first said he thought Robinson had been charged with murder, which Owens said was incorrect, and then began listing \"aggravated murder\" as the first charge.",
       "anchored_artifacts": [
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3280",
-      "ref": "C-3280",
+      "@id": "C-12153",
+      "ref": "C-12153",
       "label": "Host Says Wilson Repeatedly Used the Phrase \"Positive Evidence\" During the Debate",
       "claim": "The host says that in the next phase of the debate Andrew Wilson kept saying the phrase \"positive evidence\", which she says seemed like a term he had just learned and wanted to use.",
       "anchored_artifacts": [
@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3281",
-      "ref": "C-3281",
+      "@id": "C-12124",
+      "ref": "C-12124",
       "label": "Patrick Bet-David (PBD) Moderated the Debate",
       "claim": "The discussion between Candace Owens and Andrew Wilson was moderated by Patrick Bet-David (PBD).",
       "anchored_artifacts": [
@@ -1485,8 +1485,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3282",
-      "ref": "C-3282",
+      "@id": "C-12191",
+      "ref": "C-12191",
       "label": "Host Says Crowder Was Apparently on the Phone With Wilson After the Debate",
       "claim": "The host says she guesses Steven Crowder was on the phone with Andrew Wilson right after the debate; in a clip she plays, Crowder asks Wilson whether they gave him makeup, and Wilson replies that he would have refused.",
       "anchored_artifacts": [
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3283",
-      "ref": "C-3283",
+      "@id": "C-12180",
+      "ref": "C-12180",
       "label": "Host Says Polymarket Odds on Tyler Robinson Conviction Dropped During the Debate",
       "claim": "The host says the Polymarket prediction market odds on a Tyler Robinson conviction fell during the debate, and she thinks they hit approximately 34% mid-debate.",
       "anchored_artifacts": [
@@ -1520,8 +1520,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3284",
-      "ref": "C-3284",
+      "@id": "C-12193",
+      "ref": "C-12193",
       "label": "Rachel Wilson Publicly Acknowledged That Owens Knew the Case Details Better",
       "claim": "Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.",
       "anchored_artifacts": [
@@ -1539,8 +1539,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3285",
-      "ref": "C-3285",
+      "@id": "C-12189",
+      "ref": "C-12189",
       "label": "Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers",
       "claim": "The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.",
       "anchored_artifacts": [
@@ -1557,8 +1557,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3286",
-      "ref": "C-3286",
+      "@id": "C-12171",
+      "ref": "C-12171",
       "label": "Wilson Retweeted Comment About Tyler Robinson Defense and Replied \"Picked a hell of a week\"",
       "claim": "Prior to the debate, Andrew Wilson retweeted a comment reading \"skimmed it. The Tyler Robinson dispense defense is on absolute life support\" and added the reply \"Picked a hell of a week.\"",
       "anchored_artifacts": [
@@ -1577,8 +1577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3287",
-      "ref": "C-3287",
+      "@id": "C-12182",
+      "ref": "C-12182",
       "label": "\"Jars Wide Shut\" AI Video by @whereforbidden Was Created Reacting to the Debate",
       "claim": "An AI-generated video titled \"Jars Wide Shut,\" depicting Erika Kirk confronting Andrew Wilson, was created by the X account @whereforbidden and circulated as a post-debate reaction.",
       "anchored_artifacts": [
@@ -1595,8 +1595,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3288",
-      "ref": "C-3288",
+      "@id": "C-12185",
+      "ref": "C-12185",
       "label": "\"Stages of Debate Grief\" Meme by @alpha_approved Was Created Reacting to the Debate",
       "claim": "The host reads a post from the X account @alpha_approved listing \"five stages of debate grief\" for Andrew Wilson, from denial (\"I totally won that debate\") to acceptance, as a reaction to the debate.",
       "anchored_artifacts": [
@@ -1612,8 +1612,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3289",
-      "ref": "C-3289",
+      "@id": "C-12143",
+      "ref": "C-12143",
       "label": "In Clip Host Plays, Erika Kirk Says \"I Have His Cell Phone\"",
       "claim": "In a clip the host plays, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and \"And I have his cell phone.\"",
       "anchored_artifacts": [
@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6008",
-      "ref": "C-6008",
+      "@id": "C-12113",
+      "ref": "C-12113",
       "label": "Host says TPUSA brought Wilson in to train its students to debate",
       "claim": "The host says Turning Point USA brought Andrew Wilson in to train its students how to debate and paid him to do so.",
       "anchored_artifacts": [],
@@ -1646,7 +1646,7 @@
       "investigative_direction": "Obtain TPUSA event schedules, invoices or student-chapter communications showing a Wilson debate-training engagement and any payment.",
       "transcript_snippet": "they brought that guy in to train Turning Point USA students how to debate.",
       "supports_claim_refs": [
-        "C-3241"
+        "C-11936"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1655,8 +1655,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6009",
-      "ref": "C-6009",
+      "@id": "C-12114",
+      "ref": "C-12114",
       "label": "Host says Charlie Kirk trained her to debate on campus trips",
       "claim": "The host says she was trained to debate by Charlie Kirk, over many hours of note-card practice while traveling to college campuses.",
       "anchored_artifacts": [],
@@ -1672,8 +1672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6010",
-      "ref": "C-6010",
+      "@id": "C-12115",
+      "ref": "C-12115",
       "label": "Host says Wilson visited TPUSA headquarters in June and afterwards began challenging her",
       "claim": "The host says Andrew Wilson went into TPUSA headquarters in June and came out acting as though he were a billionaire dropping her name. (At 00:32:30 she places the visit in May; see flags.)",
       "anchored_artifacts": [],
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6011",
-      "ref": "C-6011",
+      "@id": "C-12116",
+      "ref": "C-12116",
       "label": "Host says Wilson insisted on negotiating the debate terms publicly on X",
       "claim": "The host says Andrew Wilson demanded that the debate terms be negotiated publicly on X rather than by email, and refused to email until the format (a minimum of three and a half hours) was agreed, which took about a day and a half.",
       "anchored_artifacts": [],
@@ -1708,8 +1708,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6012",
-      "ref": "C-6012",
+      "@id": "C-12117",
+      "ref": "C-12117",
       "label": "Host says she agreed to Wilson's video guy, fact checkers and moderator choice",
       "claim": "The host says her side agreed that Wilson could bring a video person and his own fact checkers (a party of four) and pick the moderator, conceding almost every point.",
       "anchored_artifacts": [],
@@ -1725,8 +1725,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6013",
-      "ref": "C-6013",
+      "@id": "C-12118",
+      "ref": "C-12118",
       "label": "Host says Wilson's side emailed through an unnamed 'Crucible team'",
       "claim": "The host says her side received no names for the people on Wilson's email chain, who identified themselves only as the 'Crucible team', even though her side had listed all of its own names.",
       "anchored_artifacts": [
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6014",
-      "ref": "C-6014",
+      "@id": "C-12119",
+      "ref": "C-12119",
       "label": "Host says the Crucible team demanded a contract and an escrow account",
       "claim": "The host says the Crucible team asked for a contract and an escrow account for the funds, accepted her lawyer's account as the escrow, and her lawyer drafted a contract reflecting the publicly agreed terms.",
       "anchored_artifacts": [
@@ -1766,8 +1766,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6015",
-      "ref": "C-6015",
+      "@id": "C-12120",
+      "ref": "C-12120",
       "label": "Host says the Crucible team tried to void terms after a Joe Rogan hosting offer",
       "claim": "The host says the Crucible team emailed that Joe Rogan had made an offer to host the discussion in Texas, wrote that this 'changes everything', and proposed blowing up the negotiated terms.",
       "anchored_artifacts": [
@@ -1787,8 +1787,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6016",
-      "ref": "C-6016",
+      "@id": "C-12121",
+      "ref": "C-12121",
       "label": "Host says Wilson's side offered a luxury car to bring her to Texas",
       "claim": "The host says the Crucible team offered her a luxury car to accommodate her pregnancy for the trip to Texas, and she declined, holding to her conditions of no travel and no smoking.",
       "anchored_artifacts": [
@@ -1807,8 +1807,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6017",
-      "ref": "C-6017",
+      "@id": "C-12122",
+      "ref": "C-12122",
       "label": "Host says Michael Knowles declined to moderate, so Wilson asked PBD",
       "claim": "The host says Michael Knowles said he would not moderate, and Wilson then called Patrick Bet-David and asked him to moderate.",
       "anchored_artifacts": [],
@@ -1826,8 +1826,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6018",
-      "ref": "C-6018",
+      "@id": "C-12123",
+      "ref": "C-12123",
       "label": "Host says the Crucible team demanded a guaranteed 90-minute question session",
       "claim": "The host says the Crucible team tried to renegotiate agreed terms to give Wilson a guaranteed 90 minutes in which to question her, which she compares to a deposition, and that she refused.",
       "anchored_artifacts": [
@@ -1847,8 +1847,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6019",
-      "ref": "C-6019",
+      "@id": "C-12125",
+      "ref": "C-12125",
       "label": "Host says Wilson dropped the deposition demand on a Tuesday FaceTime with PBD",
       "claim": "The host says that on a Tuesday-evening FaceTime call with Bet-David present, Wilson changed tone and said he did not need to ask her questions or add that to the contract.",
       "anchored_artifacts": [],
@@ -1865,8 +1865,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6020",
-      "ref": "C-6020",
+      "@id": "C-12126",
+      "ref": "C-12126",
       "label": "Host says she explained her studio limits and the allowed monitoring arrangements",
       "claim": "The host says she told Wilson's side that filming was allowed only inside her small studio because her children live and homeschool in the house, and offered a control-room listening spot for his team.",
       "anchored_artifacts": [
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6021",
-      "ref": "C-6021",
+      "@id": "C-12127",
+      "ref": "C-12127",
       "label": "Host says the contract was officially signed on Thursday",
       "claim": "The host says the debate contract was officially signed on the Thursday before the Friday debate.",
       "anchored_artifacts": [
@@ -1904,8 +1904,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6022",
-      "ref": "C-6022",
+      "@id": "C-12128",
+      "ref": "C-12128",
       "label": "Host says the contact number given for Wilson's team appeared to be a burner phone",
       "claim": "The host says that after her producer asked Bet-David's team for a contact for Wilson, the number supplied appeared to be a burner phone whose user would not identify themselves.",
       "anchored_artifacts": [
@@ -1926,8 +1926,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6023",
-      "ref": "C-6023",
+      "@id": "C-12129",
+      "ref": "C-12129",
       "label": "Host says an anonymous contact demanded a desk, HDMI cable and power for a live stream in her home",
       "claim": "The host says the night before the debate the anonymous contact told her producer they would need a desk, an HDMI cable running from the studio to the control room, and power to set up a live stream for Wilson, and said they thought this was implied by the contract's live-stream wording.",
       "anchored_artifacts": [
@@ -1947,8 +1947,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6024",
-      "ref": "C-6024",
+      "@id": "C-12130",
+      "ref": "C-12130",
       "label": "Host says the live-stream request emails came at 9:15 p.m. and 11:15 p.m. the night before",
       "claim": "The host says Wilson's side emailed about the live-stream assumption at 9:15 p.m. the night before the debate, with a follow-up at 11:15 p.m., and never named the four people it was bringing.",
       "anchored_artifacts": [
@@ -1969,8 +1969,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6025",
-      "ref": "C-6025",
+      "@id": "C-12131",
+      "ref": "C-12131",
       "label": "Host says Wilson arrived with Steven Crowder's team including Gerald Morgan",
       "claim": "The host says Wilson turned up with Steven Crowder's team, naming Gerald Morgan as the person Wilson brought, and that this explained the secrecy.",
       "anchored_artifacts": [],
@@ -1990,8 +1990,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6026",
-      "ref": "C-6026",
+      "@id": "C-12132",
+      "ref": "C-12132",
       "label": "Host says Wilson's party was made to enter through the basement door",
       "claim": "The host says her side had Wilson's party enter through the back basement door instead of the front door she normally uses for guests.",
       "anchored_artifacts": [],
@@ -2009,8 +2009,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6027",
-      "ref": "C-6027",
+      "@id": "C-12133",
+      "ref": "C-12133",
       "label": "Host says Gerald did a live call-in from her children's playroom outside the studio",
       "claim": "The host says Gerald decided to do a live call-in from her children's playroom just outside the studio, despite her explaining that filming was limited to the studio.",
       "anchored_artifacts": [],
@@ -2028,8 +2028,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6028",
-      "ref": "C-6028",
+      "@id": "C-12134",
+      "ref": "C-12134",
       "label": "Host alleges Crowder's brand fell after he was caught berating his pregnant wife on a doorbell camera",
       "claim": "The host says Steven Crowder's brand \"sort of crashed and burned\" when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife, who was pregnant with twins, and that he never really recovered from that.",
       "anchored_artifacts": [],
@@ -2045,8 +2045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6029",
-      "ref": "C-6029",
+      "@id": "C-12135",
+      "ref": "C-12135",
       "label": "Host says the contract stipulated no filming outside the studio",
       "claim": "The host says one term of the contract stipulated no filming outside the studio, and that the live call-in violated it.",
       "anchored_artifacts": [
@@ -2066,8 +2066,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6030",
-      "ref": "C-6030",
+      "@id": "C-12136",
+      "ref": "C-12136",
       "label": "Host says she is moving out of the house in a couple of weeks",
       "claim": "The host says she is knowingly moving out of the house where the debate took place in a couple of weeks.",
       "anchored_artifacts": [],
@@ -2082,8 +2082,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6031",
-      "ref": "C-6031",
+      "@id": "C-12137",
+      "ref": "C-12137",
       "label": "Host says she wanted TPUSA to claim Wilson as its own but he refused",
       "claim": "The host says one of her proposed terms was that Turning Point USA publicly claim Wilson as its guy, and that Wilson refused and said he had nothing to do with the organization.",
       "anchored_artifacts": [],
@@ -2102,8 +2102,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6032",
-      "ref": "C-6032",
+      "@id": "C-12138",
+      "ref": "C-12138",
       "label": "Host says Wilson's opening showed TPUSA was backing him",
       "claim": "The host says that within the first three minutes of the debate, Wilson made clear that TPUSA was backing him by citing a never-before-seen message, which she says makes Erika Kirk look like a liar.",
       "anchored_artifacts": [],
@@ -2116,7 +2116,7 @@
       "investigative_direction": "Establish how Wilson obtained the message and whether TPUSA or Erika Kirk supplied it.",
       "transcript_snippet": "in the first three minutes of the debate, he makes it perfectly clear that Turning Point USA is backing him",
       "supports_claim_refs": [
-        "C-3277"
+        "C-12139"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2126,8 +2126,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6033",
-      "ref": "C-6033",
+      "@id": "C-12141",
+      "ref": "C-12141",
       "label": "Played message: Charlie Kirk told his security team to protect only one person because he feared the left",
       "claim": "In the message Wilson read aloud, Charlie Kirk replies to his security team, 'remind them that they are there for one person's security only because I'm somewhat worried the left is trying to kill me', in a message dated September 9, 2025.",
       "anchored_artifacts": [
@@ -2148,8 +2148,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6034",
-      "ref": "C-6034",
+      "@id": "C-12140",
+      "ref": "C-12140",
       "label": "Played message: security team said campus police and its own team would cover the event, with 11 on site",
       "claim": "In the message Wilson read, Charlie Kirk's security team wrote that law enforcement was supportive, that the next day's event would be covered by its team and campus police, with patrol units available and 11 on site.",
       "anchored_artifacts": [
@@ -2170,8 +2170,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6035",
-      "ref": "C-6035",
+      "@id": "C-12142",
+      "ref": "C-12142",
       "label": "Played clip: a speaker says Charlie never messaged that he would be murdered and 'I have his cell phone'",
       "claim": "In a clip played just after Wilson's reading, a speaker says Charlie and she promised never to live in fear, that he was not messaging people the day before saying he would be murdered, and 'I have his cell phone'. The host goes on to tie this to Erika Kirk's mid-December Glenn Beck appearance, which indicates the speaker is Erika Kirk rather than Wilson.",
       "anchored_artifacts": [
@@ -2185,10 +2185,10 @@
       "investigative_direction": "Identify the clip's source (the December 2025 Glenn Beck interview or the debate's played clips) and confirm the speaker.",
       "transcript_snippet": "He didn't. He didn't say that. And I have his cell phone.",
       "supports_claim_refs": [
-        "C-4057"
+        "C-9204"
       ],
       "revises_claim_refs": [
-        "C-3289"
+        "C-12143"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2199,8 +2199,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6036",
-      "ref": "C-6036",
+      "@id": "C-12144",
+      "ref": "C-12144",
       "label": "Host says Erika Kirk came to Nashville for a summit days after the Glenn Beck interview",
       "claim": "The host says that days after Erika Kirk's mid-December Glenn Beck appearance, Erika came to Nashville and they held a summit.",
       "anchored_artifacts": [],
@@ -2217,8 +2217,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6037",
-      "ref": "C-6037",
+      "@id": "C-12145",
+      "ref": "C-12145",
       "label": "Host says Erika told her the message was on Signal and auto-deleted",
       "claim": "The host says that at the Nashville meeting Erika Kirk told her the message was on Signal and that the team's Signal messages auto-delete, and that Erika did not know because, the host guesses, Dan Flood had not told her.",
       "anchored_artifacts": [],
@@ -2237,8 +2237,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6038",
-      "ref": "C-6038",
+      "@id": "C-12146",
+      "ref": "C-12146",
       "label": "Host says the message was actually sent by iMessage, not Signal",
       "claim": "The host says the message was actually sent by iMessage, that she told viewers Erika lied twice, and that she knows for a fact it was iMessage.",
       "anchored_artifacts": [],
@@ -2250,7 +2250,7 @@
       "investigative_direction": "Obtain the message with its originating-app metadata (iMessage versus Signal).",
       "transcript_snippet": "The message was actually sent on iMessage.",
       "supports_claim_refs": [
-        "C-4058"
+        "C-9205"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2259,8 +2259,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6039",
-      "ref": "C-6039",
+      "@id": "C-12147",
+      "ref": "C-12147",
       "label": "Host says TPUSA claims Erika was not told for four months while the host was told in September",
       "claim": "The host says the TPUSA side expects people to believe Erika was not told of the message for four months, although the host says someone told her about it in September.",
       "anchored_artifacts": [],
@@ -2278,8 +2278,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6040",
-      "ref": "C-6040",
+      "@id": "C-12148",
+      "ref": "C-12148",
       "label": "Host says Wilson promised to release the message on his show",
       "claim": "The host says Wilson has promised to release the message on his show as evidence, and that although it is supposed to be on Signal, she knows for a fact it was sent by iMessage.",
       "anchored_artifacts": [],
@@ -2298,8 +2298,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6041",
-      "ref": "C-6041",
+      "@id": "C-12150",
+      "ref": "C-12150",
       "label": "Host says Wilson wrongly claimed she said 'girl boss'",
       "claim": "In a played exchange, Wilson tells the host the term 'girl boss' came out of her mouth. The host says he raised it himself and that she never said it, and that he repeatedly asserted such false claims about the debate.",
       "anchored_artifacts": [
@@ -2319,8 +2319,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6042",
-      "ref": "C-6042",
+      "@id": "C-12151",
+      "ref": "C-12151",
       "label": "Host says Wilson shifted position to supporting Erika Kirk as CEO",
       "claim": "The host says she asked Wilson to explain how he shifted his position and now supports Erika Kirk being a CEO.",
       "anchored_artifacts": [
@@ -2339,8 +2339,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6043",
-      "ref": "C-6043",
+      "@id": "C-12152",
+      "ref": "C-12152",
       "label": "Host says Utah's 1102 rule allows hearsay at the preliminary hearing stage",
       "claim": "The host says the preliminary hearing repeatedly discussed Utah's Rule 1102, under which hearsay is allowed at that stage as probative, and that this lets people infer from the evidence outside the courtroom too.",
       "anchored_artifacts": [],
@@ -2357,8 +2357,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6044",
-      "ref": "C-6044",
+      "@id": "C-12154",
+      "ref": "C-12154",
       "label": "Host says she reported the Foreign Legion threat to officials and gave it to Tulsi Gabbard's office",
       "claim": "In a played exchange, the host says she reported the claimed Foreign Legion threat to the correct government officials and handed the information to Tulsi Gabbard's office.",
       "anchored_artifacts": [
@@ -2378,8 +2378,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6045",
-      "ref": "C-6045",
+      "@id": "C-12155",
+      "ref": "C-12155",
       "label": "Host says in the clip that she cannot say for certainty that Israel called the shots",
       "claim": "In a played exchange, the host says that we cannot say for certainty that Israel called the shots and this is how it happened, but that it is definitively, she thinks, a threat that a lot of people would like to see.",
       "anchored_artifacts": [
@@ -2398,8 +2398,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6046",
-      "ref": "C-6046",
+      "@id": "C-12156",
+      "ref": "C-12156",
       "label": "Host cites in the clip Robinson's Chick-fil-A stop as undercutting the LGBTQ-motive story",
       "claim": "In a played exchange, the host cites that Tyler Robinson stopped and ate at Chick-fil-A as, in her view, an odd lunch before killing Charlie Kirk over LGBTQ issues. The transcript does not name Robinson in the line itself.",
       "anchored_artifacts": [
@@ -2417,8 +2417,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6047",
-      "ref": "C-6047",
+      "@id": "C-12157",
+      "ref": "C-12157",
       "label": "Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is \"Too\" [Word Missing] to Kill Her Husband",
       "claim": "The host says that before going to TPUSA headquarters in May, Wilson tweeted that he thinks Erika Kirk is too (word missing in transcript) to kill her husband, and she asked in the debate what his positive evidence for that was.",
       "anchored_artifacts": [
@@ -2440,8 +2440,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6048",
-      "ref": "C-6048",
+      "@id": "C-12158",
+      "ref": "C-12158",
       "label": "Host says she told Wilson's side clips could be sent ahead and her side planned none",
       "claim": "The host says she told Wilson's side they could send clips ahead of time, that her side had none planned, and that fact checkers were meant only to resolve disputes about what was said.",
       "anchored_artifacts": [],
@@ -2457,8 +2457,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6049",
-      "ref": "C-6049",
+      "@id": "C-12159",
+      "ref": "C-12159",
       "label": "Played clip: Wilson asks if the host has evidence TPUSA or Erika participated in the murder; she says she never said so",
       "claim": "In a played exchange, Wilson asks whether the host has evidence that Erika Kirk or TPUSA participated in the murder of Charlie Kirk. The host answers that she has never said they participated, so she cannot claim evidence of it. The host says Wilson was trying to bait her into a defamation lawsuit.",
       "anchored_artifacts": [
@@ -2480,8 +2480,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6050",
-      "ref": "C-6050",
+      "@id": "C-12160",
+      "ref": "C-12160",
       "label": "Played clip: host says it is plausible the screwdriver was planted and doubts Officer Bagley's testimony",
       "claim": "In a played exchange, the host says she does not buy Officer Bagley's testimony that he did not check whether anyone had gone onto the rooftop before he got up there, and that it is at least plausible the screwdriver was planted.",
       "anchored_artifacts": [
@@ -2502,8 +2502,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6051",
-      "ref": "C-6051",
+      "@id": "C-12161",
+      "ref": "C-12161",
       "label": "Played clip: host says Bagley's body cam died at just the right time",
       "claim": "In a played exchange, the host says Officer Bagley's body cam died at just the right time.",
       "anchored_artifacts": [
@@ -2517,7 +2517,7 @@
       "investigative_direction": "Obtain body-cam metadata and the battery or recording-end logs for Bagley's camera.",
       "transcript_snippet": "What I can say strongly is that his uh cam died at just the right time.",
       "supports_claim_refs": [
-        "C-3042"
+        "C-10867"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2526,8 +2526,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6052",
-      "ref": "C-6052",
+      "@id": "C-12162",
+      "ref": "C-12162",
       "label": "Played clip: host says it is impossible for her to think Erika Kirk is not complicit somehow",
       "claim": "In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson asks whether that would make Erika complicit in his death, and the host replies that she did not say complicit in death and that he added those words.",
       "anchored_artifacts": [
@@ -2546,8 +2546,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6053",
-      "ref": "C-6053",
+      "@id": "C-12163",
+      "ref": "C-12163",
       "label": "Host says 'Erika, I forgive him' implies Tyler Robinson is guilty and he faces the death penalty",
       "claim": "The host says her point was that Erika Kirk's 'I forgive him' implies Tyler Robinson is guilty while he faces the death sentence, and that signaling guilt without more evidence than the public has may feel like wrongdoing.",
       "anchored_artifacts": [],
@@ -2564,8 +2564,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6054",
-      "ref": "C-6054",
+      "@id": "C-12164",
+      "ref": "C-12164",
       "label": "Host says Wilson played three Erika Kirk clips in a row despite saying he was not there for TPUSA",
       "claim": "The host says she called Wilson out for playing three clips of Erika Kirk in a row after saying he was not there on behalf of TPUSA.",
       "anchored_artifacts": [],
@@ -2584,8 +2584,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6055",
-      "ref": "C-6055",
+      "@id": "C-12165",
+      "ref": "C-12165",
       "label": "Host says no contract clause allowed Wilson to depose her or barred her from asking questions",
       "claim": "The host says there was no contract clause letting Wilson question her as in a deposition, which she refused immediately, and none preventing her from asking him questions.",
       "anchored_artifacts": [
@@ -2597,7 +2597,7 @@
       "investigative_direction": "Read the signed contract's question-and-response provisions.",
       "transcript_snippet": "There is absolutely no contract clause that I allowed him to sit me for deposition because I I refused it immediately.",
       "supports_claim_refs": [
-        "C-6018"
+        "C-12123"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2606,8 +2606,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6056",
-      "ref": "C-6056",
+      "@id": "C-12166",
+      "ref": "C-12166",
       "label": "Host says Wilson claimed she was not allowed to speak, producing the awkward silence",
       "claim": "The host says Wilson told her she was not allowed to speak, which led to the awkward silence during the debate.",
       "anchored_artifacts": [
@@ -2625,8 +2625,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6057",
-      "ref": "C-6057",
+      "@id": "C-12167",
+      "ref": "C-12167",
       "label": "Host says officials never said Lance's DNA was on the rifle, a point Wilson's clip tried to use",
       "claim": "The host says the clip Wilson waited for was apparently meant as a 'Lance bomb', that she had corrected herself early on, and that investigators never officially said Lance's DNA was on the rifle.",
       "anchored_artifacts": [
@@ -2645,8 +2645,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6058",
-      "ref": "C-6058",
+      "@id": "C-12168",
+      "ref": "C-12168",
       "label": "Host says she earned $41,863 during the 16-second silence",
       "claim": "The host says she made $41,863 during the 16-second silence.",
       "anchored_artifacts": [
@@ -2663,8 +2663,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6059",
-      "ref": "C-6059",
+      "@id": "C-12169",
+      "ref": "C-12169",
       "label": "Host says the dismissal filing dropped two days before the debate and she prepared on it",
       "claim": "The host says the most recent filing, the filing for dismissal, was released two days before the debate and that she marked it up and prepared to discuss it.",
       "anchored_artifacts": [],
@@ -2682,8 +2682,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6060",
-      "ref": "C-6060",
+      "@id": "C-12170",
+      "ref": "C-12170",
       "label": "Host says a talking point claimed Robinson's filing admitted the text messages were real, which she says is wrong",
       "claim": "The host says Wilson's side was circulating a wrong talking point that Tyler Robinson admitted in the filing that the text messages were real, and that people were lying about what the filing said.",
       "anchored_artifacts": [],
@@ -2702,8 +2702,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6061",
-      "ref": "C-6061",
+      "@id": "C-12173",
+      "ref": "C-12173",
       "label": "Played clip: host says aggravated murder is narrowly defined and carries a death sentence",
       "claim": "In a played exchange, the host says aggravated murder is narrowly defined and carries a death sentence, which is why it matters that Wilson could not name it.",
       "anchored_artifacts": [
@@ -2722,8 +2722,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6062",
-      "ref": "C-6062",
+      "@id": "C-12174",
+      "ref": "C-12174",
       "label": "Played clip: host lists the seven charges against Tyler Robinson",
       "claim": "In a played exchange, the host lists the seven charges as aggravated murder, felony discharge of a weapon, two counts of obstruction of justice, two counts of witness tampering, and a violence-in-front-of-a-minor charge.",
       "anchored_artifacts": [
@@ -2744,8 +2744,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6063",
-      "ref": "C-6063",
+      "@id": "C-12175",
+      "ref": "C-12175",
       "label": "Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's",
       "claim": "The host says she spoke to the owner, who told her he pulled the receipt and that it was Tyler Robinson's receipt, so she put the steakhouse visit on her timeline.",
       "anchored_artifacts": [
@@ -2759,7 +2759,7 @@
       "investigative_direction": "Obtain the receipt, the restaurant's records and the owner's on-record account.",
       "transcript_snippet": "I spoke to the owner. The owner told me that he pulled the receipt that it was Tyler Robinson's receipt.",
       "supports_claim_refs": [
-        "C-2003"
+        "C-4518"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2768,8 +2768,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6064",
-      "ref": "C-6064",
+      "@id": "C-12176",
+      "ref": "C-12176",
       "label": "Host says confirming the receipt would require someone matching it to Robinson's debit card",
       "claim": "The host says the next stage of the investigation would be someone confirming Robinson's debit card against the receipt, that she believes this will happen, and that she will remove the item from her timeline if it is debunked.",
       "anchored_artifacts": [
@@ -2789,8 +2789,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6065",
-      "ref": "C-6065",
+      "@id": "C-12177",
+      "ref": "C-12177",
       "label": "Host says the restaurant server contacted the FBI and recognized Robinson on the news",
       "claim": "The host says the server gave a first-person account of serving him, that they contacted the FBI, and that he shared his experience, recognized Tyler Robinson on the news, and gave an interview; she adds that she spoke to the owner.",
       "anchored_artifacts": [
@@ -2804,7 +2804,7 @@
       "investigative_direction": "Locate the owner's interview and any FBI report on the restaurant contact.",
       "transcript_snippet": "They contacted the FBI. He shared his experience. He recognized Tyler Robinson on the news. He gave an interview.",
       "supports_claim_refs": [
-        "C-2003"
+        "C-4518"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2813,8 +2813,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6066",
-      "ref": "C-6066",
+      "@id": "C-12178",
+      "ref": "C-12178",
       "label": "Host says the lead investigator tied two shirts together because both wore Converse sneakers, which Wilson called compelling",
       "claim": "The host says the lead investigator testified at the preliminary hearing that he identified the person in a maroon shirt on the stairs as the same person later in a black shirt because both wore Converse sneakers, and that Wilson called that compelling and tweeted it as part of the overwhelming evidence.",
       "anchored_artifacts": [],
@@ -2833,8 +2833,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6067",
-      "ref": "C-6067",
+      "@id": "C-12179",
+      "ref": "C-12179",
       "label": "Host says she has not called Visa or Mastercard to confirm the receipt",
       "claim": "The host says she has not called Visa or Mastercard to confirm the receipt beyond speaking to the people involved.",
       "anchored_artifacts": [
@@ -2854,8 +2854,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6068",
-      "ref": "C-6068",
+      "@id": "C-12181",
+      "ref": "C-12181",
       "label": "Host says Wilson claimed AI sources say he won and that a fact check followed",
       "claim": "The host says Wilson claimed that every AI source would say he won the debate, and that a fact check explained AI is scraping establishment sources.",
       "anchored_artifacts": [],
@@ -2871,8 +2871,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6069",
-      "ref": "C-6069",
+      "@id": "C-12183",
+      "ref": "C-12183",
       "label": "Host explains the 'Jars Wide Shut' title as a reference to Wilson failing to open a jar on a podcast",
       "claim": "The host says the video's title refers to an earlier moment when Wilson was disrespectful to a woman who could not open a jar and then could not open it himself while smoking, earning him the nickname 'pickle boy'.",
       "anchored_artifacts": [
@@ -2890,8 +2890,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6070",
-      "ref": "C-6070",
+      "@id": "C-12184",
+      "ref": "C-12184",
       "label": "AI video says Wilson said 'positive evidence' 47 times",
       "claim": "In the AI-generated 'Jars Wide Shut' video, the Erika Kirk character says Wilson said 'positive evidence' 47 times. This is dialogue in a parody video, not a verified count.",
       "anchored_artifacts": [
@@ -2903,7 +2903,7 @@
       "investigative_direction": "Count actual uses in the debate transcript; the count in the video is satire.",
       "transcript_snippet": "You said positive evidence 47 times.",
       "qualifies_claim_refs": [
-        "C-3280"
+        "C-12153"
       ],
       "mentions_person_refs": [
         "N-18",
@@ -2912,8 +2912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6071",
-      "ref": "C-6071",
+      "@id": "C-12186",
+      "ref": "C-12186",
       "label": "Host says the earpieces do not work beyond 15 feet of the control room",
       "claim": "The host says the in-ear monitors do not work beyond about 15 feet from the control room, and that Wilson reset his every time he got up.",
       "anchored_artifacts": [
@@ -2933,8 +2933,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6072",
-      "ref": "C-6072",
+      "@id": "C-12187",
+      "ref": "C-12187",
       "label": "Host says she sent one tweet and texted nobody during the debate",
       "claim": "The host says she texted nobody during the debate, sent one tweet during a break, and got up only once, contrary to the suggestion that she was fed answers.",
       "anchored_artifacts": [
@@ -2953,8 +2953,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6073",
-      "ref": "C-6073",
+      "@id": "C-12188",
+      "ref": "C-12188",
       "label": "Played audio: a speaker says Candace has a full stylist and makeup crew",
       "claim": "In the played post-debate phone call, a speaker asks Wilson whether he was given makeup and says the host has a full stylist and makeup crew.",
       "anchored_artifacts": [
@@ -2973,8 +2973,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6074",
-      "ref": "C-6074",
+      "@id": "C-12190",
+      "ref": "C-12190",
       "label": "Host says the earpieces carried only the producers' feed, shared by both sides, with PBD on a direct line",
       "claim": "The host says the earpieces she and Wilson shared carried only the producers' feed, that everyone heard the same thing, and that Bet-David had a direct line to the producers.",
       "anchored_artifacts": [
@@ -2995,8 +2995,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6075",
-      "ref": "C-6075",
+      "@id": "C-12192",
+      "ref": "C-12192",
       "label": "Host says her team has no wardrobe or full-time makeup staff",
       "claim": "The host says her team has no wardrobe, no full-time makeup artist or hair stylist, that her cousin does her hair, and that her makeup artist was off that day.",
       "anchored_artifacts": [
@@ -3008,7 +3008,7 @@
       "investigative_direction": "Ask the host's staff and Bet-David's team who provided hair and makeup on debate day.",
       "transcript_snippet": "And our makeup artist was actually off that day.",
       "contradicts_claim_refs": [
-        "C-6073"
+        "C-12188"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3016,8 +3016,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6076",
-      "ref": "C-6076",
+      "@id": "C-12194",
+      "ref": "C-12194",
       "label": "Host says she took Wilson's $300K offer",
       "claim": "The host says that after being told she was scared to take the money, she took the money, exactly what Wilson offered, 300k, and was then criticized for taking it.",
       "anchored_artifacts": [],
@@ -3029,7 +3029,7 @@
       "investigative_direction": "Obtain the signed contract and payment records for the $300,000.",
       "transcript_snippet": "Then I take the money. Exactly what he offers. 300k",
       "supports_claim_refs": [
-        "C-3238"
+        "C-11917"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3038,8 +3038,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6077",
-      "ref": "C-6077",
+      "@id": "C-12195",
+      "ref": "C-12195",
       "label": "Host says critics demanded she donate the winnings or set up a trust for Charlie Kirk's children",
       "claim": "The host says many people, including Michael Knowles, demanded she establish a trust for Charlie Kirk's children with the money, and she reads one post saying she should give it to Tyler Robinson's defense.",
       "anchored_artifacts": [],
@@ -3059,8 +3059,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6078",
-      "ref": "C-6078",
+      "@id": "C-12196",
+      "ref": "C-12196",
       "label": "Host says Blake Neff and Andrew Kolvet retweeted Wilson while he attacked her and offered more money",
       "claim": "The host says Blake Neff and Andrew Kolvet retweeted Wilson as he went after her and offered more and more money.",
       "anchored_artifacts": [],
@@ -3080,8 +3080,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6079",
-      "ref": "C-6079",
+      "@id": "C-12197",
+      "ref": "C-12197",
       "label": "Host says her annual debates with Piers Morgan are unpaid",
       "claim": "The host says she does her annual debates with Piers Morgan for free, as she did campus debates.",
       "anchored_artifacts": [],
@@ -3097,8 +3097,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6080",
-      "ref": "C-6080",
+      "@id": "C-12198",
+      "ref": "C-12198",
       "label": "Host says Charlie Kirk's children were multi-millionaires in his lifetime and more so after his death",
       "claim": "The host says Charlie Kirk's children were multi-millionaires while he was alive, and that their wealth grew after his death through trusts and fundraising.",
       "anchored_artifacts": [],
@@ -3114,8 +3114,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6081",
-      "ref": "C-6081",
+      "@id": "C-12199",
+      "ref": "C-12199",
       "label": "Host says she will give money to the Catholic Church and to people who supported her, including her sister",
       "claim": "The host says she will not take instruction on the winnings and plans to give money to the Catholic Church, the priests who supported her, and people who took care of her, such as her sister.",
       "anchored_artifacts": [],
@@ -3133,8 +3133,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6082",
-      "ref": "C-6082",
+      "@id": "C-12200",
+      "ref": "C-12200",
       "label": "Host says shirts, a sweatshirt and a mug with the debate catchphrase are on her website",
       "claim": "The host says shirts, a sweatshirt and a mug with her debate line are available on her website, along with a 'second favorite shirt' in maroon.",
       "anchored_artifacts": [],
@@ -3149,8 +3149,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6083",
-      "ref": "C-6083",
+      "@id": "C-12201",
+      "ref": "C-12201",
       "label": "Host says Wilson said on a stream that his wife went in and spoke to TPUSA executives",
       "claim": "The host says Wilson said on a stream that his wife went in and spoke to the executives at Turning Point USA.",
       "anchored_artifacts": [],
@@ -3169,8 +3169,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6084",
-      "ref": "C-6084",
+      "@id": "C-12202",
+      "ref": "C-12202",
       "label": "Host says Erika Kirk is shown hugging Andrew Wilson",
       "claim": "The host says Erika Kirk is shown hugging Andrew Wilson, which she cites as evidence of who is being brought into the organization.",
       "anchored_artifacts": [],
@@ -3182,7 +3182,7 @@
       "investigative_direction": "Find the photo or video of the hug and its date.",
       "transcript_snippet": "She's hugging Andrew Wilson.",
       "supports_claim_refs": [
-        "C-3239"
+        "C-11921"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3192,8 +3192,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6085",
-      "ref": "C-6085",
+      "@id": "C-12203",
+      "ref": "C-12203",
       "label": "Host says Wilson says he is dropping the message this week",
       "claim": "The host says Wilson says he is dropping the message this week.",
       "anchored_artifacts": [],
@@ -3205,7 +3205,7 @@
       "investigative_direction": "Check Wilson's show for a release during the week of August 17, 2026.",
       "transcript_snippet": "He says he's dropping it this week.",
       "supports_claim_refs": [
-        "C-6040"
+        "C-12148"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3214,8 +3214,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6086",
-      "ref": "C-6086",
+      "@id": "C-12204",
+      "ref": "C-12204",
       "label": "Host says she has never met Steven Crowder",
       "claim": "The host says she has never met Steven Crowder and that his obsession with her stems from her covering how he treated his wife.",
       "anchored_artifacts": [],
@@ -3231,8 +3231,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6087",
-      "ref": "C-6087",
+      "@id": "C-12205",
+      "ref": "C-12205",
       "label": "Host reads a comment quoting Wilson: 'You could just not do what you're doing and be okay'",
       "claim": "The host reads a viewer comment from Jay Beam saying it freaks the writer out that Wilson said, 'You could just not do what you're doing and be okay', calling it totally creepy and suggesting he realized on air that she was close to the truth.",
       "anchored_artifacts": [
@@ -3250,8 +3250,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6088",
-      "ref": "C-6088",
+      "@id": "C-12206",
+      "ref": "C-12206",
       "label": "Host says Wilson's debate claim was that the evidence is overwhelming",
       "claim": "The host says Wilson's debate claim was that the evidence is overwhelming that Tyler Robinson did it, and that he did not defend it.",
       "anchored_artifacts": [],
@@ -3263,7 +3263,7 @@
       "investigative_direction": "Check the debate's agreed resolution wording.",
       "transcript_snippet": "Your debate claim is the evidence is overwhelming that Tyler Robinson did it.",
       "supports_claim_refs": [
-        "C-3278"
+        "C-12149"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3273,8 +3273,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6089",
-      "ref": "C-6089",
+      "@id": "C-12207",
+      "ref": "C-12207",
       "label": "Host says Wilson claimed a bullet split in air and caused air under a shirt",
       "claim": "The host says Wilson said a bullet split in air and caused air under the shirt, which she says viewers including Air Force veterans have rejected.",
       "anchored_artifacts": [],
@@ -3290,8 +3290,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-6090",
-      "ref": "C-6090",
+      "@id": "C-12208",
+      "ref": "C-12208",
       "label": "Host says the next day's episode will bring more truth about TPUSA",
       "claim": "The host says that the next day's episode will sentence Turning Point USA to more truth, because it sent Wilson to her home without being forthright about whom he wanted to bring in violation of her no-filming rule.",
       "anchored_artifacts": [],

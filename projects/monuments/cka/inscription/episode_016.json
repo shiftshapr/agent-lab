@@ -27,7 +27,7 @@
           "ref": "A-1227.1",
           "description": "Mel tweet responding to Ashton Forbes about Telegram scams and Candace's text messages",
           "related_claims": [
-            "C-1387"
+            "C-1411"
           ],
           "related_nodes": [],
           "tags": [],
@@ -42,7 +42,7 @@
           "ref": "A-1227.2",
           "description": "Britta tweet accusing Candace of posting fake group-chat screenshots to back her narrative",
           "related_claims": [
-            "C-1387"
+            "C-1411"
           ],
           "related_nodes": [],
           "tags": [],
@@ -72,7 +72,7 @@
           "ref": "A-1227.4",
           "description": "Laura Loomer tweet dismissing Candace's reporting as \"postpartum psychotic rants\"",
           "related_claims": [
-            "C-1388"
+            "C-1415"
           ],
           "related_nodes": [
             "N-60"
@@ -104,7 +104,7 @@
           "ref": "A-1227.6",
           "description": "Nick Fuentes tweet questioning why Candace sat on the texts for four weeks before releasing them",
           "related_claims": [
-            "C-1389"
+            "C-1421"
           ],
           "related_nodes": [],
           "tags": [],
@@ -119,7 +119,7 @@
           "ref": "A-1227.7",
           "description": "The Quartering tweet asking what the texts actually prove, if real",
           "related_claims": [
-            "C-1390"
+            "C-1425"
           ],
           "related_nodes": [
             "N-157"
@@ -136,7 +136,7 @@
           "ref": "A-1227.8",
           "description": "Misfit Patriot tweet offering \"every shekele\" if texts are fake, with Community Notes update citing Andrew Kolvet's confirmation of the screen grab",
           "related_claims": [
-            "C-1391"
+            "C-1428"
           ],
           "related_nodes": [
             "N-14"
@@ -161,7 +161,7 @@
           "ref": "A-1228.1",
           "description": "Kolvet confirms the text-message screen grab is authentic (\"a text grab…that I had shared with people. So it is authentic\")",
           "related_claims": [
-            "C-1380"
+            "C-1431"
           ],
           "related_nodes": [
             "N-14"
@@ -178,7 +178,7 @@
           "ref": "A-1228.2",
           "description": "Kolvet states he shared the screen grab with \"some people in government\" within the first 33 hours and \"didn't know where it went from there\"",
           "related_claims": [
-            "C-1381"
+            "C-1433"
           ],
           "related_nodes": [
             "N-14"
@@ -195,7 +195,7 @@
           "ref": "A-1228.3",
           "description": "Blake (Charlie Kirk Show co-host) states he is an eyewitness to events and has been advised not to comment publicly",
           "related_claims": [
-            "C-1383"
+            "C-1435"
           ],
           "related_nodes": [
             "N-159"
@@ -212,7 +212,7 @@
           "ref": "A-1228.4",
           "description": "Kolvet describes Charlie's feelings about Israel as \"complicated,\" \"nuanced,\" and a \"wrestle that was going on for months,\" located between the BB Netanyahu letter and the text chain",
           "related_claims": [
-            "C-1382"
+            "C-1440"
           ],
           "related_nodes": [
             "N-14",
@@ -238,7 +238,7 @@
           "ref": "A-1229.1",
           "description": "O'Neill states the visible wound appeared to be an exit wound, not an entry wound (\"we saw an exit wound\")",
           "related_claims": [
-            "C-1384"
+            "C-1459"
           ],
           "related_nodes": [
             "N-153"
@@ -255,7 +255,7 @@
           "ref": "A-1229.2",
           "description": "O'Neill questions the right-to-left shirt movement as inconsistent with his experience shooting people",
           "related_claims": [
-            "C-1385"
+            "C-1461"
           ],
           "related_nodes": [
             "N-153"
@@ -272,7 +272,7 @@
           "ref": "A-1229.3",
           "description": "O'Neill states the crime scene was torn down and \"paved over\"",
           "related_claims": [
-            "C-1386"
+            "C-1465"
           ],
           "related_nodes": [
             "N-153"
@@ -297,7 +297,7 @@
           "ref": "A-1230.1",
           "description": "Conrad Flynn discusses Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting that his own wife's intuition \"is such that you don't ignore it\"",
           "related_claims": [
-            "C-1396"
+            "C-1407"
           ],
           "related_nodes": [
             "N-156",
@@ -323,9 +323,9 @@
           "ref": "A-1231.1",
           "description": "Mappin letter supporting Candace's investigation, asserting Charlie would have done the same for Candace, calling for authorities to share evidence with Candace's team, and stating few believe the official version",
           "related_claims": [
-            "C-1392",
-            "C-1394",
-            "C-1395"
+            "C-1493",
+            "C-1500",
+            "C-1492"
           ],
           "related_nodes": [
             "N-154",
@@ -343,7 +343,7 @@
           "ref": "A-1231.2",
           "description": "Mappin letter section stating \"we have been receiving calls from senior Republicans and from Turning Point donors who agree with her…they are terrified to voice their views publicly\"",
           "related_claims": [
-            "C-1393"
+            "C-1501"
           ],
           "related_nodes": [
             "N-154",
@@ -369,8 +369,8 @@
           "ref": "A-1232.1",
           "description": "Group text chain referencing \"Hey, Josh Hammer received this message\" and discussing Israel position changes",
           "related_claims": [
-            "C-1380",
-            "C-1382"
+            "C-1431",
+            "C-1440"
           ],
           "related_nodes": [
             "N-14",
@@ -397,7 +397,7 @@
           "ref": "A-1233.1",
           "description": "Comment by user \"Luna\" stating Charlie told Dr. Frank Turek \"they want him dead\" shortly before his death, and that Frank shared this on his podcast following Kirk's death",
           "related_claims": [
-            "C-1399"
+            "C-1507"
           ],
           "related_nodes": [
             "N-7"
@@ -422,7 +422,7 @@
           "ref": "A-1234.1",
           "description": "Josh Hammer, on a show the day before the episode, describes a Zoom call with Charlie Kirk the night before Kirk's death, calls Charlie a \"close friend,\" and discusses messaging for Kirk's campus tour and his book \"Israel and Civilization\"",
           "related_claims": [
-            "C-1397"
+            "C-1449"
           ],
           "related_nodes": [
             "N-14"
@@ -448,7 +448,7 @@
           "ref": "A-1235.1",
           "description": "Candace states three unnamed people (two with written communication, one a TPUSA donor) told her Charlie said \"I think they're going to kill me\" the day before his death",
           "related_claims": [
-            "C-1398"
+            "C-1445"
           ],
           "related_nodes": [
             "N-3",
@@ -467,7 +467,7 @@
           "ref": "A-1235.2",
           "description": "Candace states Lance Twiggs's family told her Lance was \"raided\" and \"angry about that raid\" and was \"instantly released back into their care within 6 hours\"",
           "related_claims": [
-            "C-1400"
+            "C-1480"
           ],
           "related_nodes": [
             "N-3"
@@ -485,7 +485,7 @@
           "ref": "A-1235.3",
           "description": "Candace states Lance's family reported the apartment locks were illegally changed after the raid without their knowledge",
           "related_claims": [
-            "C-1401"
+            "C-1483"
           ],
           "related_nodes": [
             "N-3"
@@ -503,7 +503,7 @@
           "ref": "A-1235.4",
           "description": "Candace states a vetted tip reports George Zinn told multiple nurses/doctors he did the Kirk event because he was being paid to, had not yet been paid, and did not know who would pay him",
           "related_claims": [
-            "C-1402"
+            "C-1486"
           ],
           "related_nodes": [
             "N-3"
@@ -521,7 +521,7 @@
           "ref": "A-1235.5",
           "description": "Candace states a tip indicates George Zinn has potential familial connections to a federal department",
           "related_claims": [
-            "C-1403"
+            "C-1471"
           ],
           "related_nodes": [
             "N-3",
@@ -548,7 +548,7 @@
           "ref": "A-3181.1",
           "description": "Text chain from 2023 between the host and her then-producer, shown on air as proof of a vivid dream",
           "related_claims": [
-            "C-12063"
+            "C-1404"
           ],
           "related_nodes": [
             "N-3"
@@ -573,9 +573,9 @@
           "ref": "A-3182.1",
           "description": "X post by Ashton Forbes (shown with a reply by Mel) saying Candace has no credibility, calling Telegram chats scams and calling her audience a cult",
           "related_claims": [
-            "C-12068",
-            "C-12069",
-            "C-12070"
+            "C-1410",
+            "C-1412",
+            "C-1413"
           ],
           "related_nodes": [
             "N-1",
@@ -606,7 +606,7 @@
           "ref": "A-3183.1",
           "description": "X post by Nick Fuentes saying Kirk had no choice but to lead the pro-Israel cause after a Jewish donor stopped giving millions",
           "related_claims": [
-            "C-12080"
+            "C-1426"
           ],
           "related_nodes": [
             "N-1",
@@ -633,8 +633,8 @@
           "ref": "A-3184.1",
           "description": "Audio of Josh Hammer on a show describing Kirk's letter to Netanyahu and reading its opening line",
           "related_claims": [
-            "C-12098",
-            "C-12099"
+            "C-1451",
+            "C-1452"
           ],
           "related_nodes": [
             "N-1",
@@ -662,11 +662,11 @@
           "ref": "A-3185.1",
           "description": "Host verbal reference to the package of messages and documents she sent to trusted people (not shown)",
           "related_claims": [
-            "C-12100",
-            "C-12101",
-            "C-12103",
-            "C-12104",
-            "C-12105"
+            "C-1453",
+            "C-1454",
+            "C-1456",
+            "C-1457",
+            "C-1458"
           ],
           "related_nodes": [
             "N-3",
@@ -694,7 +694,7 @@
           "ref": "A-3186.1",
           "description": "Viewer comment from Jennifer asking about the security team, drones and drill run-through",
           "related_claims": [
-            "C-12140"
+            "C-1504"
           ],
           "related_nodes": [
             "N-1",
@@ -713,7 +713,7 @@
           "ref": "A-3186.2",
           "description": "Viewer comment from Maheen Sadiki about the term Judeo-Christian",
           "related_claims": [
-            "C-12142"
+            "C-1506"
           ],
           "related_nodes": [
             "N-3"
@@ -738,7 +738,7 @@
           "ref": "A-3187.1",
           "description": "Host verbal reference to her decentralized 'CIA' network of viewers (verbal call to join)",
           "related_claims": [
-            "C-12144"
+            "C-1509"
           ],
           "related_nodes": [
             "N-3"
@@ -767,10 +767,10 @@
         "A-1228.4"
       ],
       "related_claims": [
-        "C-1380",
-        "C-1381",
-        "C-1382",
-        "C-1391"
+        "C-1431",
+        "C-1433",
+        "C-1440",
+        "C-1428"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -791,9 +791,9 @@
         "A-1229.3"
       ],
       "related_claims": [
-        "C-1384",
-        "C-1385",
-        "C-1386"
+        "C-1459",
+        "C-1461",
+        "C-1465"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -813,9 +813,9 @@
         "A-1231.2"
       ],
       "related_claims": [
-        "C-1392",
-        "C-1393",
-        "C-1395"
+        "C-1493",
+        "C-1501",
+        "C-1492"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -835,9 +835,9 @@
         "A-1231.2"
       ],
       "related_claims": [
-        "C-1392",
-        "C-1393",
-        "C-1395"
+        "C-1493",
+        "C-1501",
+        "C-1492"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -856,7 +856,7 @@
         "A-1233.1"
       ],
       "related_claims": [
-        "C-1399"
+        "C-1507"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -875,7 +875,7 @@
         "A-1230.1"
       ],
       "related_claims": [
-        "C-1396"
+        "C-1407"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -894,7 +894,7 @@
         "A-1227.7"
       ],
       "related_claims": [
-        "C-1390"
+        "C-1425"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -913,7 +913,7 @@
         "A-1227.4"
       ],
       "related_claims": [
-        "C-1388"
+        "C-1415"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -932,7 +932,7 @@
         "A-1228.3"
       ],
       "related_claims": [
-        "C-1383"
+        "C-1435"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -969,7 +969,7 @@
         "A-1234.1"
       ],
       "related_claims": [
-        "C-1397"
+        "C-1449"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -991,7 +991,7 @@
         "A-1235.5"
       ],
       "related_claims": [
-        "C-1403"
+        "C-1471"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1010,7 +1010,7 @@
         "A-1235.3"
       ],
       "related_claims": [
-        "C-1401"
+        "C-1483"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1049,7 +1049,7 @@
         "A-1235.4"
       ],
       "related_claims": [
-        "C-1402"
+        "C-1486"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1069,40 +1069,40 @@
       "description": "Deceased founder of Turning Point USA; subject of financial concerns expressed one week before his death; subject of the assassination investigation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12062",
-        "C-12064",
-        "C-12066",
-        "C-12069",
-        "C-12080",
-        "C-12081",
-        "C-12084",
-        "C-12085",
-        "C-12087",
-        "C-12088",
-        "C-12089",
-        "C-12090",
-        "C-12092",
-        "C-12093",
-        "C-12094",
-        "C-12096",
-        "C-12097",
-        "C-12098",
-        "C-12099",
-        "C-12106",
-        "C-12107",
-        "C-12108",
-        "C-12111",
-        "C-12112",
-        "C-12113",
-        "C-12114",
-        "C-12130",
-        "C-12131",
-        "C-12134",
-        "C-12137",
-        "C-12138",
-        "C-12139",
-        "C-12140",
-        "C-12143"
+        "C-1403",
+        "C-1405",
+        "C-1408",
+        "C-1412",
+        "C-1426",
+        "C-1427",
+        "C-1432",
+        "C-1434",
+        "C-1437",
+        "C-1439",
+        "C-1438",
+        "C-1441",
+        "C-1443",
+        "C-1444",
+        "C-1446",
+        "C-1448",
+        "C-1450",
+        "C-1451",
+        "C-1452",
+        "C-1460",
+        "C-1462",
+        "C-1463",
+        "C-1467",
+        "C-1468",
+        "C-1469",
+        "C-1470",
+        "C-1490",
+        "C-1491",
+        "C-1496",
+        "C-1499",
+        "C-1502",
+        "C-1503",
+        "C-1504",
+        "C-1508"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1120,65 +1120,65 @@
       "description": "Host of the Candace Kirk Archive series and primary investigator of claims presented in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12061",
-        "C-12062",
-        "C-12063",
-        "C-12064",
-        "C-12065",
-        "C-12066",
-        "C-12067",
-        "C-12068",
-        "C-12070",
-        "C-12073",
-        "C-12074",
-        "C-12075",
-        "C-12076",
-        "C-12077",
-        "C-12079",
-        "C-12081",
-        "C-12082",
-        "C-12083",
-        "C-12090",
-        "C-12091",
-        "C-12092",
-        "C-12094",
-        "C-12095",
-        "C-12096",
-        "C-12097",
-        "C-12100",
-        "C-12101",
-        "C-12102",
-        "C-12103",
-        "C-12104",
-        "C-12105",
-        "C-12110",
-        "C-12111",
-        "C-12112",
-        "C-12113",
-        "C-12114",
-        "C-12115",
-        "C-12117",
-        "C-12118",
-        "C-12119",
-        "C-12120",
-        "C-12122",
-        "C-12124",
-        "C-12126",
-        "C-12127",
-        "C-12128",
-        "C-12129",
-        "C-12130",
-        "C-12132",
-        "C-12133",
-        "C-12136",
-        "C-12137",
-        "C-12138",
-        "C-12139",
-        "C-12140",
-        "C-12141",
-        "C-12142",
-        "C-12144",
-        "C-12145"
+        "C-1402",
+        "C-1403",
+        "C-1404",
+        "C-1405",
+        "C-1406",
+        "C-1408",
+        "C-1409",
+        "C-1410",
+        "C-1413",
+        "C-1417",
+        "C-1418",
+        "C-1419",
+        "C-1420",
+        "C-1422",
+        "C-1424",
+        "C-1427",
+        "C-1429",
+        "C-1430",
+        "C-1441",
+        "C-1442",
+        "C-1443",
+        "C-1446",
+        "C-1447",
+        "C-1448",
+        "C-1450",
+        "C-1453",
+        "C-1454",
+        "C-1455",
+        "C-1456",
+        "C-1457",
+        "C-1458",
+        "C-1466",
+        "C-1467",
+        "C-1468",
+        "C-1469",
+        "C-1470",
+        "C-1472",
+        "C-1474",
+        "C-1475",
+        "C-1476",
+        "C-1477",
+        "C-1479",
+        "C-1482",
+        "C-1485",
+        "C-1487",
+        "C-1488",
+        "C-1489",
+        "C-1490",
+        "C-1494",
+        "C-1495",
+        "C-1498",
+        "C-1499",
+        "C-1502",
+        "C-1503",
+        "C-1504",
+        "C-1505",
+        "C-1506",
+        "C-1509",
+        "C-1510"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1212,8 +1212,8 @@
       "description": "July DC visit; Hamptons call offering to take TPUSA “to the next level”; Israel-pressure backdrop.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12098",
-        "C-12099"
+        "C-1451",
+        "C-1452"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1231,17 +1231,17 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12069",
-        "C-12109",
-        "C-12116",
-        "C-12117",
-        "C-12118",
-        "C-12119",
-        "C-12121",
-        "C-12122",
-        "C-12123",
-        "C-12124",
-        "C-12129"
+        "C-1412",
+        "C-1464",
+        "C-1473",
+        "C-1474",
+        "C-1475",
+        "C-1476",
+        "C-1478",
+        "C-1479",
+        "C-1481",
+        "C-1482",
+        "C-1489"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1259,9 +1259,9 @@
       "description": "Arrested for claiming to be the shooter on incident day; per host, told Utah Valley nurses he was paid.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12091",
-        "C-12115",
-        "C-12127"
+        "C-1442",
+        "C-1472",
+        "C-1487"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1279,10 +1279,10 @@
       "description": "Robinson's partner; recipient of FBI-released text chain",
       "related_artifacts": [],
       "related_claims": [
-        "C-12116",
-        "C-12121",
-        "C-12122",
-        "C-12125"
+        "C-1473",
+        "C-1478",
+        "C-1479",
+        "C-1484"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1300,7 +1300,7 @@
       "description": "JD Vance; named in the Mappin letter as the vice presidential nominee Kirk worked for.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12134"
+        "C-1496"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1317,7 +1317,7 @@
       "description": "Donald Trump; the host says his non-reaction upsets her.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12130"
+        "C-1490"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1334,7 +1334,7 @@
       "description": "Tyler Bowyer; the host says he impugns people asking questions.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12093"
+        "C-1444"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1351,7 +1351,7 @@
       "description": "Kanye West; the host says he was right about what it takes to leave.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12102"
+        "C-1455"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1368,8 +1368,8 @@
       "description": "The host's husband George, named in her account of when she first learned Kirk was betrayed and where she first saw him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12066",
-        "C-12132"
+        "C-1408",
+        "C-1494"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1386,7 +1386,7 @@
       "description": "Seth Dillon; the host says Britta used to work for him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12071"
+        "C-1414"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1403,7 +1403,7 @@
       "description": "Governor Spencer Cox; the host says his press conference misdescribed Lance's cooperation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12122"
+        "C-1479"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1420,7 +1420,7 @@
       "description": "Megyn Kelly; the host says she is being abused over the host's content.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12076"
+        "C-1420"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1437,7 +1437,7 @@
       "description": "Max Blumenthal; named as a recipient of the host's package.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12105"
+        "C-1458"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1454,7 +1454,7 @@
       "description": "Sigmund Freud; subject of the host's book club book.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12145"
+        "C-1510"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1471,11 +1471,11 @@
       "description": "Josh Hammer; the host says he spread lies about Kirk and Israel, and is heard describing Kirk's letter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12083",
-        "C-12096",
-        "C-12097",
-        "C-12098",
-        "C-12099"
+        "C-1430",
+        "C-1448",
+        "C-1450",
+        "C-1451",
+        "C-1452"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1492,7 +1492,7 @@
       "description": "Brigitte Macron; named in Loomer's post about lawsuits.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12073"
+        "C-1417"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1509,7 +1509,7 @@
       "description": "Alex Clark; named with Bowyer in the host's call for the free-speech memo.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12093"
+        "C-1444"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1526,8 +1526,8 @@
       "description": "Elon Musk; named by the host and by Forbes.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12061",
-        "C-12068"
+        "C-1402",
+        "C-1410"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1544,7 +1544,7 @@
       "description": "Mike Mitchell; the detective whose tip the host says drove the raid.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12123"
+        "C-1481"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1561,7 +1561,7 @@
       "description": "Tate Brothers; Andrew Tate named as a recipient of the host's package.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12105"
+        "C-1458"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1578,11 +1578,11 @@
       "description": "Nick Fuentes; author of posts the host reads.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12078",
-        "C-12079",
-        "C-12080",
-        "C-12081",
-        "C-12095"
+        "C-1423",
+        "C-1424",
+        "C-1426",
+        "C-1427",
+        "C-1447"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1599,7 +1599,7 @@
       "description": "Piers Morgan; host of the show on which O'Neill appeared.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12106"
+        "C-1460"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1616,8 +1616,8 @@
       "description": "Britta Weidner; author of posts the host reads.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12071",
-        "C-12075"
+        "C-1414",
+        "C-1419"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1634,7 +1634,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12121"
+        "C-1478"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1651,7 +1651,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12099"
+        "C-1452"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1668,7 +1668,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12117"
+        "C-1474"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1685,8 +1685,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12091",
-        "C-12115"
+        "C-1442",
+        "C-1472"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1703,7 +1703,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12122"
+        "C-1479"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1720,7 +1720,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12124"
+        "C-1482"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1737,8 +1737,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12113",
-        "C-12126"
+        "C-1469",
+        "C-1485"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1755,8 +1755,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12121",
-        "C-12125"
+        "C-1478",
+        "C-1484"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1773,9 +1773,9 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12118",
-        "C-12119",
-        "C-12120"
+        "C-1475",
+        "C-1476",
+        "C-1477"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1792,7 +1792,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12090"
+        "C-1441"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1809,7 +1809,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12109"
+        "C-1464"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1826,8 +1826,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12107",
-        "C-12108"
+        "C-1462",
+        "C-1463"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1844,7 +1844,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12135"
+        "C-1497"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1861,7 +1861,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12132"
+        "C-1494"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1878,7 +1878,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12132"
+        "C-1494"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1895,10 +1895,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12085",
-        "C-12110",
-        "C-12128",
-        "C-12129"
+        "C-1434",
+        "C-1466",
+        "C-1488",
+        "C-1489"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1915,7 +1915,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12141"
+        "C-1505"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1932,7 +1932,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12124"
+        "C-1482"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1949,8 +1949,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12088",
-        "C-12089"
+        "C-1439",
+        "C-1438"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1967,7 +1967,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12123"
+        "C-1481"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1984,7 +1984,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12093"
+        "C-1444"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2001,10 +2001,10 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12100",
-        "C-12103",
-        "C-12104",
-        "C-12105"
+        "C-1453",
+        "C-1456",
+        "C-1457",
+        "C-1458"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2021,8 +2021,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12096",
-        "C-12097"
+        "C-1448",
+        "C-1450"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2039,14 +2039,14 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12067",
-        "C-12068",
-        "C-12069",
-        "C-12079",
-        "C-12080",
-        "C-12083",
-        "C-12084",
-        "C-12095"
+        "C-1409",
+        "C-1410",
+        "C-1412",
+        "C-1424",
+        "C-1426",
+        "C-1430",
+        "C-1432",
+        "C-1447"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2063,7 +2063,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12073"
+        "C-1417"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2080,7 +2080,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12064"
+        "C-1405"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2097,7 +2097,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12076"
+        "C-1420"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2114,7 +2114,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12078"
+        "C-1423"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2131,7 +2131,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12086"
+        "C-1436"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2148,7 +2148,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12121"
+        "C-1478"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2165,7 +2165,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12072"
+        "C-1416"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2182,7 +2182,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12084"
+        "C-1432"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2199,7 +2199,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12116"
+        "C-1473"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2216,7 +2216,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12117"
+        "C-1474"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2233,7 +2233,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12114"
+        "C-1470"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2250,8 +2250,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12094",
-        "C-12143"
+        "C-1446",
+        "C-1508"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2268,7 +2268,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12070"
+        "C-1413"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2285,9 +2285,9 @@
       "description": "First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12068",
-        "C-12069",
-        "C-12070"
+        "C-1410",
+        "C-1412",
+        "C-1413"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2304,7 +2304,7 @@
       "description": "Investigation target: the host's statement that she holds the names of everyone on Charlie Kirk's security team, including people the earlier investigation could not identify.",
       "related_artifacts": [],
       "related_claims": [
-        "C-12140"
+        "C-1504"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2316,8 +2316,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1380",
-      "ref": "C-1380",
+      "@id": "C-1431",
+      "ref": "C-1431",
       "label": "Kolvet confirmed text chain authentic",
       "claim": "Turning Point USA spokesperson Andrew Kolvet, on the Charlie Kirk Show, confirmed the text-message screen grab released by Candace Owens is authentic and was originally shared by him with others.",
       "anchored_artifacts": [
@@ -2336,8 +2336,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1381",
-      "ref": "C-1381",
+      "@id": "C-1433",
+      "ref": "C-1433",
       "label": "Kolvet shared screen grab with government figures within 33 hours",
       "claim": "Andrew Kolvet stated he shared the text-message screen grab with \"a few people in government\" within the first 33 hours after Kirk's death, before the suspect was publicly identified.",
       "anchored_artifacts": [
@@ -2353,8 +2353,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1382",
-      "ref": "C-1382",
+      "@id": "C-1440",
+      "ref": "C-1440",
       "label": "Kolvet describes Kirk's Israel position as complicated / ongoing wrestle",
       "claim": "Andrew Kolvet characterized Kirk's feelings about Israel as \"complicated\" and \"nuanced,\" stating a \"wrestle\" had been ongoing for months, located between the BB Netanyahu letter and the text chain.",
       "anchored_artifacts": [
@@ -2373,8 +2373,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1383",
-      "ref": "C-1383",
+      "@id": "C-1435",
+      "ref": "C-1435",
       "label": "Blake (Charlie Kirk Show co-host) identifies as eyewitness",
       "claim": "Blake, co-host of the Charlie Kirk Show, publicly identified himself as an eyewitness to events and stated he had been advised not to comment publicly to avoid compromising any trial.",
       "anchored_artifacts": [
@@ -2390,8 +2390,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1384",
-      "ref": "C-1384",
+      "@id": "C-1459",
+      "ref": "C-1459",
       "label": "O'Neill identifies visible wound as exit wound",
       "claim": "Former Navy SEAL Robert J. O'Neill, on the Piers Morgan Show, stated the wound visible in the Charlie Kirk video appeared to be an exit wound rather than an entry wound.",
       "anchored_artifacts": [
@@ -2408,8 +2408,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1385",
-      "ref": "C-1385",
+      "@id": "C-1461",
+      "ref": "C-1461",
       "label": "O'Neill questions right-to-left shirt movement",
       "claim": "Robert J. O'Neill questioned why Kirk's shirt moved the way it did and why it moved right to left, saying the shirts of people he had shot did not move like that.",
       "anchored_artifacts": [
@@ -2426,8 +2426,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1386",
-      "ref": "C-1386",
+      "@id": "C-1465",
+      "ref": "C-1465",
       "label": "O'Neill states crime scene was torn down and paved over",
       "claim": "Robert J. O'Neill asked whether the crime scene was torn down immediately, and said the whole crime scene is now gone, that they \"paved over it,\" with nothing to see.",
       "anchored_artifacts": [
@@ -2443,8 +2443,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1387",
-      "ref": "C-1387",
+      "@id": "C-1411",
+      "ref": "C-1411",
       "label": "Britta Asked Whether Candace Was Posting Fake Group-Chat Screenshots",
       "claim": "A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.",
       "anchored_artifacts": [
@@ -2454,7 +2454,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:08:09",
-      "investigative_direction": "Cross-reference the Britta accusation against the Kolvet confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.",
+      "investigative_direction": "Cross-reference the Britta accusation against the Kolvet confirmation (C-1431) to determine whether Britta publicly retracted or updated her position.",
       "mentions_person_refs": [
         "N-3",
         "N-864"
@@ -2462,8 +2462,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1388",
-      "ref": "C-1388",
+      "@id": "C-1415",
+      "ref": "C-1415",
       "label": "Laura Loomer dismissed Candace's reporting as postpartum psychotic rants",
       "claim": "Laura Loomer publicly dismissed Candace Owens's text-messages reporting as \"postpartum psychotic rants\" and stated that even if the texts are real, it does not mean Israel killed Charlie Kirk.",
       "anchored_artifacts": [
@@ -2480,8 +2480,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1389",
-      "ref": "C-1389",
+      "@id": "C-1421",
+      "ref": "C-1421",
       "label": "Nick Fuentes questioned four-week delay in text release",
       "claim": "Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.",
       "anchored_artifacts": [
@@ -2498,8 +2498,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1390",
-      "ref": "C-1390",
+      "@id": "C-1425",
+      "ref": "C-1425",
       "label": "The Quartering questioned what the texts prove",
       "claim": "Per a post by The Quartering that the host reads, he publicly asked, assuming the released texts are real, what they actually prove beyond the fact that someone close to Kirk leaked them.",
       "anchored_artifacts": [
@@ -2508,7 +2508,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:01",
-      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-14).",
+      "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1440, N-14).",
       "mentions_person_refs": [
         "N-1",
         "N-157"
@@ -2516,8 +2516,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1391",
-      "ref": "C-1391",
+      "@id": "C-1428",
+      "ref": "C-1428",
       "label": "Community Notes confirmed Kolvet's screen-grab confirmation",
       "claim": "Per the Misfit Patriot tweet displayed, Community Notes added an update stating Andrew Kolvet confirmed the screen grab was real.",
       "anchored_artifacts": [
@@ -2533,8 +2533,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1392",
-      "ref": "C-1392",
+      "@id": "C-1493",
+      "ref": "C-1493",
       "label": "Mappins published public letter supporting Candace's investigation",
       "claim": "TPUSA donors John and Irina Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.",
       "anchored_artifacts": [
@@ -2553,8 +2553,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1393",
-      "ref": "C-1393",
+      "@id": "C-1501",
+      "ref": "C-1501",
       "label": "Mappin letter: senior Republicans and TPUSA donors privately agree but fear speaking",
       "claim": "The Mappin letter states the Mappins have been receiving calls from senior Republicans and Turning Point donors who agree with Candace but are \"terrified to voice their views publicly.\"",
       "anchored_artifacts": [
@@ -2571,8 +2571,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1394",
-      "ref": "C-1394",
+      "@id": "C-1500",
+      "ref": "C-1500",
       "label": "Mappin letter: few believe official version",
       "claim": "The Mappin letter states \"few people following the matter believe the official version\" and that a \"low minority believe that the current suspect is guilty.\"",
       "anchored_artifacts": [
@@ -2589,8 +2589,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1395",
-      "ref": "C-1395",
+      "@id": "C-1492",
+      "ref": "C-1492",
       "label": "Host Says Mappin Was the Donor Behind the First Turning Point UK Event",
       "claim": "Candace says the donor, John Mappin, made introductions that unlocked more donations for Kirk, and is the person Kirk had in mind when she said they needed to be in the UK and he said he knew somebody who could maybe set up an event to start Turning Point UK, which was where she first laid eyes on George (her husband).",
       "anchored_artifacts": [],
@@ -2607,8 +2607,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1396",
-      "ref": "C-1396",
+      "@id": "C-1407",
+      "ref": "C-1407",
       "label": "Flynn / Carlson discussed Pontius Pilate's wife as prophetic dreamer",
       "claim": "In a clip the host plays, writer/producer Conrad Flynn appears on Tucker Carlson's show and discusses the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.",
       "anchored_artifacts": [
@@ -2625,8 +2625,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1397",
-      "ref": "C-1397",
+      "@id": "C-1449",
+      "ref": "C-1449",
       "label": "Josh Hammer claimed Zoom call with Kirk night before death",
       "claim": "Josh Hammer, on a show the day before the episode, publicly claimed he spoke with Charlie Kirk on a Zoom call the night before Kirk's death, alongside \"a couple others,\" and that they discussed messaging for Kirk's campus tour.",
       "anchored_artifacts": [
@@ -2643,8 +2643,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1398",
-      "ref": "C-1398",
+      "@id": "C-1445",
+      "ref": "C-1445",
       "label": "Three unnamed people told Candace Charlie predicted his own death",
       "claim": "Candace Owens states three unnamed people (two with written communication, one a TPUSA donor) told her that Charlie Kirk expressed \"I think they're going to kill me\" the day before his death.",
       "anchored_artifacts": [
@@ -2661,8 +2661,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1399",
-      "ref": "C-1399",
+      "@id": "C-1507",
+      "ref": "C-1507",
       "label": "Frank Turek reported Kirk said \"they want him dead\"",
       "claim": "Per a Luna fan comment on the episode, Dr. Frank Turek reported on his podcast that Charlie Kirk, in a conversation about upping his security, said \"they want him dead.\"",
       "anchored_artifacts": [
@@ -2679,8 +2679,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1400",
-      "ref": "C-1400",
+      "@id": "C-1480",
+      "ref": "C-1480",
       "label": "Lance Twiggs was raided but released within 6 hours",
       "claim": "Per Lance Twiggs's family (via Candace), Lance was \"raided,\" was \"angry about that raid,\" and was \"instantly released back into their care within 6 hours.\"",
       "anchored_artifacts": [
@@ -2697,8 +2697,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1401",
-      "ref": "C-1401",
+      "@id": "C-1483",
+      "ref": "C-1483",
       "label": "Apartment locks illegally changed after raid",
       "claim": "Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family being informed.",
       "anchored_artifacts": [
@@ -2718,8 +2718,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1402",
-      "ref": "C-1402",
+      "@id": "C-1486",
+      "ref": "C-1486",
       "label": "George Zinn told medical staff he was being paid to claim responsibility",
       "claim": "Per a vetted tip relayed by Candace, George Zinn told multiple nurses and doctors that he claimed responsibility for Kirk's death because he was being paid to do so, had not yet been paid, and did not know the source of payment.",
       "anchored_artifacts": [
@@ -2738,8 +2738,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1403",
-      "ref": "C-1403",
+      "@id": "C-1471",
+      "ref": "C-1471",
       "label": "George Zinn has potential familial connections to a federal department",
       "claim": "Per a tip relayed by Candace, George Zinn has potential familial connections to a federal department.",
       "anchored_artifacts": [
@@ -2758,8 +2758,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12061",
-      "ref": "C-12061",
+      "@id": "C-1402",
+      "ref": "C-1402",
       "label": "Host Says Musk Gave X to the Military and Military Bot Farms Push War With Iran",
       "claim": "The host says she thinks Elon Musk clearly gave X away to the military, and that users now have to suffer military bot farms calling for war with Iran.",
       "anchored_artifacts": [],
@@ -2777,8 +2777,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12062",
-      "ref": "C-12062",
+      "@id": "C-1403",
+      "ref": "C-1403",
       "label": "Host Says She Has No Interest in Inheriting Kirk's Turning Point Empire",
       "claim": "The host says she has zero interest in Charlie Kirk's empire or in carrying on his torch, contrasting herself with the heirs of the TV show Succession.",
       "anchored_artifacts": [],
@@ -2796,8 +2796,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12063",
-      "ref": "C-12063",
+      "@id": "C-1404",
+      "ref": "C-1404",
       "label": "Host Shows 2023 Text Chain With Her Then-Producer as Proof of a Prior Vivid Dream",
       "claim": "The host says a text chain from 2023 with her then-producer shows she texted that the producer was pregnant before the producer knew, and offers it as an example of a vivid dream coming true.",
       "anchored_artifacts": [
@@ -2816,8 +2816,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12064",
-      "ref": "C-12064",
+      "@id": "C-1405",
+      "ref": "C-1405",
       "label": "Host Says a Weekend Dream Told Her Charlie Was Betrayed",
       "claim": "The host says that after a very vivid dream over the weekend she believes Charlie Kirk came to her and told her he was betrayed, though she does not know by whom.",
       "anchored_artifacts": [],
@@ -2837,8 +2837,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12065",
-      "ref": "C-12065",
+      "@id": "C-1406",
+      "ref": "C-1406",
       "label": "Host Predicts the Truth Will Soon Come Out With International Consequences",
       "claim": "The host says she felt in the dream that it is inevitable and soon will be revealed that the truth will come out and that it will have international consequences, and tells viewers to quote her.",
       "anchored_artifacts": [],
@@ -2855,8 +2855,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12066",
-      "ref": "C-12066",
+      "@id": "C-1408",
+      "ref": "C-1408",
       "label": "Host Says She Told Her Husband Through Tears That Charlie Was Betrayed",
       "claim": "The host says that almost from the moment she learned Charlie Kirk would not survive, she told her husband George through tears that Kirk had been betrayed.",
       "anchored_artifacts": [],
@@ -2875,8 +2875,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12067",
-      "ref": "C-12067",
+      "@id": "C-1409",
+      "ref": "C-1409",
       "label": "Host Says X Users Made Fake Messages to Argue Her Texts Could Be Faked",
       "claim": "The host says that after she released the text message, some X users tried to bargain with reality by creating fake messages themselves to show how easy it is to fake one.",
       "anchored_artifacts": [],
@@ -2895,8 +2895,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12068",
-      "ref": "C-12068",
+      "@id": "C-1410",
+      "ref": "C-1410",
       "label": "Ashton Forbes Posted That Candace Has No Credibility and Telegram Chats Are Scams",
       "claim": "The host reads a post by Ashton Forbes saying Candace Owens has no credibility, that Telegram group chat scams claim to be real people, and that he was briefly in touch with one 'Elon Musk'.",
       "anchored_artifacts": [
@@ -2919,8 +2919,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12069",
-      "ref": "C-12069",
+      "@id": "C-1412",
+      "ref": "C-1412",
       "label": "Ashton Forbes Posted That Even Real Texts Mean Nothing About Charlie's Death",
       "claim": "The host reads Ashton Forbes writing that, even if the text messages were real, they mean literally nothing related to Charlie's death, and that doubting the Tyler Robinson texts means these cannot be taken at face value.",
       "anchored_artifacts": [
@@ -2933,7 +2933,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:08:15",
-      "investigative_direction": "Pull the original post; compare with Andrew Kolvet's statement (C-1380 and C-1382) that the chain fits Kirk's known frustrations about Israel.",
+      "investigative_direction": "Pull the original post; compare with Andrew Kolvet's statement (C-1431 and C-1440) that the chain fits Kirk's known frustrations about Israel.",
       "transcript_snippet": "Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.",
       "mentions_person_refs": [
         "N-902",
@@ -2943,8 +2943,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12070",
-      "ref": "C-12070",
+      "@id": "C-1413",
+      "ref": "C-1413",
       "label": "Ashton Forbes Posted That Candace Is Building a Literal Cult",
       "claim": "The host reads Ashton Forbes writing that he finds it scary how Candace Owens is building a literal cult and that followers will soon be drinking Kool-Aid.",
       "anchored_artifacts": [
@@ -2966,8 +2966,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12071",
-      "ref": "C-12071",
+      "@id": "C-1414",
+      "ref": "C-1414",
       "label": "Host Says Britta Used to Work for Seth Dillon",
       "claim": "The host says that Britta, who she says posted asking whether Candace was posting fake group chat screenshots, used to work for Seth Dillon.",
       "anchored_artifacts": [],
@@ -2985,8 +2985,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12072",
-      "ref": "C-12072",
+      "@id": "C-1416",
+      "ref": "C-1416",
       "label": "Host Says Laura Loomer Is Legally Not Allowed to Own a Gun",
       "claim": "The host says Laura Loomer is legally not allowed to own a gun, and calls her a lunatic.",
       "anchored_artifacts": [],
@@ -3005,8 +3005,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12073",
-      "ref": "C-12073",
+      "@id": "C-1417",
+      "ref": "C-1417",
       "label": "Loomer Posted That Candace Will Be Sued by TPUSA and Macron's Wife",
       "claim": "The host reads a Laura Loomer post saying it will be hilarious when Candace Owens is sued by TPUSA in addition to Macron's wife.",
       "anchored_artifacts": [
@@ -3029,8 +3029,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12074",
-      "ref": "C-12074",
+      "@id": "C-1418",
+      "ref": "C-1418",
       "label": "Host Says She Called Her Release Week Blitzkrieg Week",
       "claim": "The host says she named her run of releases 'Blitzkrieg week' because she was dropping a bunch of bombs, and notes the term is used widely, including by an NFL team.",
       "anchored_artifacts": [],
@@ -3047,8 +3047,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12075",
-      "ref": "C-12075",
+      "@id": "C-1419",
+      "ref": "C-1419",
       "label": "Britta Posted That Candace Uses Nazi Terminology While Inciting Harassment of TPUSA Staff",
       "claim": "The host reads a Britta post saying Candace thinks it is cute to use Nazi terminology and a Turning Point pun while inciting harassment of TPUSA employees by implicating them in Charlie's death.",
       "anchored_artifacts": [
@@ -3068,8 +3068,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12076",
-      "ref": "C-12076",
+      "@id": "C-1420",
+      "ref": "C-1420",
       "label": "Host Says Megyn Kelly Is Being Abused Over the Host's Content",
       "claim": "The host says a poster told Megyn Kelly to stop making excuses for the host's behavior, and she says she does not know why Kelly is being abused.",
       "anchored_artifacts": [],
@@ -3080,7 +3080,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:10:55",
-      "investigative_direction": "Compare with the host's earlier claim (C-10771) that agents press Kelly to denounce her; find the original post.",
+      "investigative_direction": "Compare with the host's earlier claim (C-1153) that agents press Kelly to denounce her; find the original post.",
       "transcript_snippet": "I have no idea while why why Megyn Kelly is being just abused.",
       "mentions_person_refs": [
         "N-46",
@@ -3089,8 +3089,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12077",
-      "ref": "C-12077",
+      "@id": "C-1422",
+      "ref": "C-1422",
       "label": "Host Says the Washington Post Uses the Word Blitzkrieg for White House Events",
       "claim": "The host says the Washington Post uses the terminology blitzkrieg when describing events at the White House.",
       "anchored_artifacts": [],
@@ -3107,8 +3107,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12078",
-      "ref": "C-12078",
+      "@id": "C-1423",
+      "ref": "C-1423",
       "label": "Host Calls Nick Fuentes a Routine Federal Informant",
       "claim": "The host calls Nick Fuentes 'our routine federal informant' while introducing his post about the delay in releasing the texts.",
       "anchored_artifacts": [
@@ -3129,8 +3129,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12079",
-      "ref": "C-12079",
+      "@id": "C-1424",
+      "ref": "C-1424",
       "label": "Fuentes Asked Why She Censored the Other Names in the Chat",
       "claim": "The host reads Nick Fuentes asking why she sat on the texts for four weeks and then censored the other names in the chat.",
       "anchored_artifacts": [
@@ -3143,7 +3143,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:11:55",
-      "investigative_direction": "Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1377 (Josh Hammer named).",
+      "investigative_direction": "Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1352 (Josh Hammer named).",
       "transcript_snippet": "why did she sit on this for four weeks and then censor the other names?",
       "mentions_person_refs": [
         "N-201",
@@ -3152,8 +3152,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12080",
-      "ref": "C-12080",
+      "@id": "C-1426",
+      "ref": "C-1426",
       "label": "Fuentes Posted That Kirk Led the Pro-Israel Cause After a Donor Stopped Giving Millions",
       "claim": "The host reads a Nick Fuentes post saying Charlie Kirk said he had no choice but to lead the pro-Israel cause because a Jewish donor stopped giving him millions, and that his epiphany about Israel came after the payments stopped.",
       "anchored_artifacts": [
@@ -3169,7 +3169,7 @@
       "investigative_direction": "Pull the original Fuentes post and compare with the text chain wording on the lost donor money; identify the donor.",
       "transcript_snippet": "Charlie Kirk said he had no choice to lead the pro-Israel cause because a Jewish donor stopped giving him millions of dollars.",
       "supports_claim_refs": [
-        "C-1375"
+        "C-1349"
       ],
       "mentions_person_refs": [
         "N-201",
@@ -3178,8 +3178,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12081",
-      "ref": "C-12081",
+      "@id": "C-1427",
+      "ref": "C-1427",
       "label": "Host Says She Did Not Take Fuentes's Eulogy of Kirk Seriously",
       "claim": "The host says that, speaking of paying people to shill, she took none of Fuentes's attempt to eulogize Kirk seriously because that is \"the real Nick Fuentes\".",
       "anchored_artifacts": [],
@@ -3198,8 +3198,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12082",
-      "ref": "C-12082",
+      "@id": "C-1429",
+      "ref": "C-1429",
       "label": "Misfit Patriot Offered Every Shekel if the Texts Were Proven Real",
       "claim": "The host shows a post by an account called the misfit patriot offering to give Candace every single shekel Israel paid him for his posts if she could prove the text messages were real.",
       "anchored_artifacts": [
@@ -3218,8 +3218,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12083",
-      "ref": "C-12083",
+      "@id": "C-1430",
+      "ref": "C-1430",
       "label": "Host Says She Did Not Manufacture the Text Messages",
       "claim": "The host says she would have to be the dumbest person ever to try to manufacture text messages that would get her sued by every person not in the chat, and says she is not inclined toward tech.",
       "anchored_artifacts": [
@@ -3232,10 +3232,10 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:13:10",
-      "investigative_direction": "Kolvet's confirmation (C-1380) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.",
+      "investigative_direction": "Kolvet's confirmation (C-1431) already authenticates the screen grab; ask him or TPUSA whether the full chain matches the one the host released.",
       "transcript_snippet": "First off, I'm not even inclined towards tech, but also would have to be an absolute a to try to figure out how to manufacture text messages",
       "supports_claim_refs": [
-        "C-1380"
+        "C-1431"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3243,8 +3243,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12084",
-      "ref": "C-12084",
+      "@id": "C-1432",
+      "ref": "C-1432",
       "label": "Kolvet Says He Did Not Share the Screen Grab Publicly Because It Was a Private Exchange",
       "claim": "Andrew Kolvet says on the Charlie Kirk Show that he did not share the screen grab publicly because it was a private exchange that did not necessarily fit what was already public, and he did not want to betray his friend's trust.",
       "anchored_artifacts": [
@@ -3267,8 +3267,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12085",
-      "ref": "C-12085",
+      "@id": "C-1434",
+      "ref": "C-1434",
       "label": "Kolvet Acknowledges Criticism That TPUSA Is Not Investigating Every Lead",
       "claim": "Andrew Kolvet says one criticism TPUSA has received is that it does not care and is not investigating every lead, and says TPUSA wants justice for Charlie and no stone unturned.",
       "anchored_artifacts": [
@@ -3290,8 +3290,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12086",
-      "ref": "C-12086",
+      "@id": "C-1436",
+      "ref": "C-1436",
       "label": "Kolvet Says He Was Not an Eyewitness and Flew to Utah Immediately",
       "claim": "Andrew Kolvet says he was not an eyewitness, was not there, and flew to Utah immediately to be with the family and the team.",
       "anchored_artifacts": [
@@ -3312,8 +3312,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12087",
-      "ref": "C-12087",
+      "@id": "C-1437",
+      "ref": "C-1437",
       "label": "Kolvet Says He Will Not Impugn Anyone Asking Questions and Free Speech Is the North Star",
       "claim": "Andrew Kolvet says he is not personally going to impugn anybody's character who is asking questions and looking for answers, and that free speech must be TPUSA's north star.",
       "anchored_artifacts": [
@@ -3333,8 +3333,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12088",
-      "ref": "C-12088",
+      "@id": "C-1439",
+      "ref": "C-1439",
       "label": "Kolvet Says the Text Chain Is Consistent With Frustrations Kirk Voiced Publicly",
       "claim": "Andrew Kolvet says the text chain is consistent with public frustrations Kirk voiced many times and with what Kirk told friends in the wider movement.",
       "anchored_artifacts": [
@@ -3356,8 +3356,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12089",
-      "ref": "C-12089",
+      "@id": "C-1438",
+      "ref": "C-1438",
       "label": "Kolvet Says He and Blake Workshopped Kirk's Israel Answers for the Tour",
       "claim": "Andrew Kolvet says he and Blake Neff were in the trenches workshopping how Kirk would handle questions about Israel on the tour.",
       "anchored_artifacts": [
@@ -3380,8 +3380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12090",
-      "ref": "C-12090",
+      "@id": "C-1441",
+      "ref": "C-1441",
       "label": "Host Says She Never Stated That Israel Killed Charlie",
       "claim": "The host says the text message concerns people's feeling that Kirk's legacy is intentionally being hijacked by Israel, and that she never stated Israel killed Charlie.",
       "anchored_artifacts": [],
@@ -3401,8 +3401,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12091",
-      "ref": "C-12091",
+      "@id": "C-1442",
+      "ref": "C-1442",
       "label": "Host Says No Israeli Name Has Surfaced and Only One Jewish Person, George Zinn",
       "claim": "The host says no Israeli name has popped up in the investigation and that the only Jewish person who has, she thinks, is George Zinn, the decoy boy.",
       "anchored_artifacts": [],
@@ -3422,8 +3422,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12092",
-      "ref": "C-12092",
+      "@id": "C-1443",
+      "ref": "C-1443",
       "label": "Host Says an Underground Movement of Truth Tellers Includes Donors and Government Employees",
       "claim": "The host says an underground movement of truth tellers is working together to bring justice for Charlie, ranging from mom sleuths to government employees, personal assistants and Turning Point USA donors.",
       "anchored_artifacts": [],
@@ -3432,7 +3432,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:20:00",
-      "investigative_direction": "Ask the host for named, on-the-record members of each group; compare with the Mappin letter (C-1393).",
+      "investigative_direction": "Ask the host for named, on-the-record members of each group; compare with the Mappin letter (C-1501).",
       "transcript_snippet": "There is an underground movement of knights all around the world from mom sleuths to government employees like he said to personal assistants to turning point USA donors",
       "mentions_person_refs": [
         "N-3",
@@ -3441,8 +3441,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12093",
-      "ref": "C-12093",
+      "@id": "C-1444",
+      "ref": "C-1444",
       "label": "Host Says Bowyer Impugns Critics and Asks Kolvet to Send Bowyer and Alex Clark the Free-Speech Memo",
       "claim": "The host says TPUSA executives, naming Tyler Bowyer, would rather impugn the character of people doing what Kirk would have done, and asks Kolvet to make sure Bowyer and Alex Clark get the internal memo about free speech.",
       "anchored_artifacts": [],
@@ -3464,8 +3464,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12094",
-      "ref": "C-12094",
+      "@id": "C-1446",
+      "ref": "C-1446",
       "label": "Host Says Kirk Had Not Told Her Himself and Her Sources Spoke Off the Record",
       "claim": "The host says Charlie Kirk had not expressed to her that he thought he would be killed, and that she is relying on the testimony of three people whose conversations were off the record.",
       "anchored_artifacts": [
@@ -3481,7 +3481,7 @@
       "investigative_direction": "Ask the three sources, through the host, to go on the record or produce the written communication two of them reportedly hold.",
       "transcript_snippet": "He had not expressed that to me. So I am telling you this based off the testimony of three people",
       "supports_claim_refs": [
-        "C-1398"
+        "C-1445"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3490,8 +3490,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12095",
-      "ref": "C-12095",
+      "@id": "C-1447",
+      "ref": "C-1447",
       "label": "Host Says She Waited to Release the Texts Deliberately and Has More",
       "claim": "The host says she waited to reveal the text messages because she is not a child and has self-control, that time is on the side of truth, and that she has a lot more.",
       "anchored_artifacts": [
@@ -3504,7 +3504,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:22:15",
-      "investigative_direction": "Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1389).",
+      "investigative_direction": "Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1421).",
       "transcript_snippet": "the reason that I waited to reveal the text messages is because I'm not a child. Okay? Like I said, I have a lot more.",
       "mentions_person_refs": [
         "N-3"
@@ -3512,8 +3512,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12096",
-      "ref": "C-12096",
+      "@id": "C-1448",
+      "ref": "C-1448",
       "label": "Host Says Josh Hammer Spread Lies That Charlie Never Flinched on Israel",
       "claim": "The host says that since Charlie was shot, Josh Hammer has been spreading lies saying that Charlie never flinched on Israel, and that he did so hours before she released the chat.",
       "anchored_artifacts": [
@@ -3526,7 +3526,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:23:25",
-      "investigative_direction": "Collect Hammer's public statements since September 10 and compare with the chain in which he is a participant (C-1377).",
+      "investigative_direction": "Collect Hammer's public statements since September 10 and compare with the chain in which he is a participant (C-1352).",
       "transcript_snippet": "He has been spreading lies, saying that Charlie never flinched on Israel.",
       "mentions_person_refs": [
         "N-55",
@@ -3536,8 +3536,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12097",
-      "ref": "C-12097",
+      "@id": "C-1450",
+      "ref": "C-1450",
       "label": "Host Says the Group Chat With Josh Hammer Dates to About 48 Hours Before Kirk's Death",
       "claim": "The host says that Josh Hammer was on the text thread 48 hours before Kirk's death, while he was continuing the line that Kirk never flinched on Israel.",
       "anchored_artifacts": [
@@ -3553,7 +3553,7 @@
       "investigative_direction": "Establish the dates of the messages in the chain; the host's phrasing is ambiguous, so confirm what the 48 hours measures.",
       "transcript_snippet": "48 hours before Josh Hammer was on that text thread.",
       "supports_claim_refs": [
-        "C-1377"
+        "C-1352"
       ],
       "mentions_person_refs": [
         "N-55",
@@ -3563,8 +3563,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12098",
-      "ref": "C-12098",
+      "@id": "C-1451",
+      "ref": "C-1451",
       "label": "Hammer Said He Read Kirk's Letter to Netanyahu in June or July",
       "claim": "In the clip Josh Hammer says he read the letter Kirk wrote to the prime minister back in June or July.",
       "anchored_artifacts": [
@@ -3575,7 +3575,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:24:50",
-      "investigative_direction": "Compare with the claim that Netanyahu's office released the letter weeks after Kirk's death (C-1331); ask Hammer how he read it in June or July.",
+      "investigative_direction": "Compare with the claim that Netanyahu's office released the letter weeks after Kirk's death (C-1133); ask Hammer how he read it in June or July.",
       "transcript_snippet": "This letter that he wrote to the prime minister, Chris, I read back in June or July or so.",
       "mentions_person_refs": [
         "N-55",
@@ -3585,8 +3585,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12099",
-      "ref": "C-12099",
+      "@id": "C-1452",
+      "ref": "C-1452",
       "label": "Hammer Said the Letter Opens With Kirk Defending the State of Israel",
       "claim": "In the clip Josh Hammer says the first sentence of Kirk's letter to Netanyahu reads, in close paraphrase, that as a Christian one of his greatest joys is making friendships with the Jewish people and defending the state of Israel.",
       "anchored_artifacts": [
@@ -3599,7 +3599,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:25:05",
-      "investigative_direction": "Obtain the authenticated letter and check its opening line; compare with C-1331 and C-9305, which question its provenance.",
+      "investigative_direction": "Obtain the authenticated letter and check its opening line; compare with C-1133 and C-1134, which question its provenance.",
       "transcript_snippet": "As a Christian, one of my greatest joys in life is making friendships with the Jewish people and defending the state of Israel.",
       "mentions_person_refs": [
         "N-55",
@@ -3609,8 +3609,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12100",
-      "ref": "C-12100",
+      "@id": "C-1453",
+      "ref": "C-1453",
       "label": "Host Says She Sent a Life-Insurance Package to Trusted People",
       "claim": "The host says she sent a package of text messages, emails, private communications, videos and private legal documents to people she trusts, as a life insurance policy so that her enemies are known if anything happens to her.",
       "anchored_artifacts": [
@@ -3631,8 +3631,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12101",
-      "ref": "C-12101",
+      "@id": "C-1454",
+      "ref": "C-1454",
       "label": "Host Says People Are Trying to Bankrupt Her and Threatening Suits",
       "claim": "The host says people are trying to bankrupt her and her family and are threatening to sue.",
       "anchored_artifacts": [
@@ -3651,8 +3651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12102",
-      "ref": "C-12102",
+      "@id": "C-1455",
+      "ref": "C-1455",
       "label": "Host Says Kanye West Was Right About What It Takes to Leave",
       "claim": "The host says that looking back she now believes Kanye was right in what he said about fighting for custody of your own soul.",
       "anchored_artifacts": [],
@@ -3670,8 +3670,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12103",
-      "ref": "C-12103",
+      "@id": "C-1456",
+      "ref": "C-1456",
       "label": "Host Says She Gave Recipients Explicit Permission to Release Everything",
       "claim": "The host says that if anything happens to her the recipients of her package have her explicit permission to release it all.",
       "anchored_artifacts": [
@@ -3692,8 +3692,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12104",
-      "ref": "C-12104",
+      "@id": "C-1457",
+      "ref": "C-1457",
       "label": "Host Urges Everyone With a Platform to Do the Same",
       "claim": "The host recommends that every person with a platform who is scared do the same, sending everything to about eight trusted people.",
       "anchored_artifacts": [
@@ -3714,8 +3714,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12105",
-      "ref": "C-12105",
+      "@id": "C-1458",
+      "ref": "C-1458",
       "label": "Host Says She Sent Material to Journalists From Max Blumenthal to Andrew Tate",
       "claim": "The host says she sent text messages and screenshots to journalists and others, ranging from Max Blumenthal to Andrew Tate, who will not know where they came from.",
       "anchored_artifacts": [
@@ -3738,8 +3738,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12106",
-      "ref": "C-12106",
+      "@id": "C-1460",
+      "ref": "C-1460",
       "label": "O'Neill Said Kirk Was Obviously Dead Before He Hit the Ground",
       "claim": "Former Navy SEAL Robert J. O'Neill says on the Piers Morgan show that when he watched the video, Charlie Kirk was obviously dead before he hit the ground.",
       "anchored_artifacts": [
@@ -3760,8 +3760,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12107",
-      "ref": "C-12107",
+      "@id": "C-1462",
+      "ref": "C-1462",
       "label": "O'Neill Said Kirk Was Not Wearing Body Armor and the Shot Would Not Deflect That Way",
       "claim": "Robert J. O'Neill says Kirk was not wearing body armor and that a shot would not deflect off body armor that way.",
       "anchored_artifacts": [
@@ -3774,7 +3774,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:29:20",
-      "investigative_direction": "Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-9291).",
+      "investigative_direction": "Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-1116).",
       "transcript_snippet": "he wasn't wearing body armor. And two, it doesn't deflect like that off of body armor.",
       "mentions_person_refs": [
         "N-153",
@@ -3783,8 +3783,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12108",
-      "ref": "C-12108",
+      "@id": "C-1463",
+      "ref": "C-1463",
       "label": "O'Neill Said Interviewed Witnesses Described Right-to-Left Shots and Were Shut Down",
       "claim": "Robert J. O'Neill asks why people interviewed who said the shot came from their left to right, his right to left, were immediately shut down.",
       "anchored_artifacts": [
@@ -3797,7 +3797,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:29:30",
-      "investigative_direction": "Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1385).",
+      "investigative_direction": "Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1461).",
       "transcript_snippet": "people being interviewed saying, \"Yeah, they came from my left to right, from his right to left, immediately shut down.\"",
       "mentions_person_refs": [
         "N-153",
@@ -3806,8 +3806,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12109",
-      "ref": "C-12109",
+      "@id": "C-1464",
+      "ref": "C-1464",
       "label": "O'Neill Said 22-Year-Olds Do Not Send Their Lovers Soliloquies of Texts",
       "claim": "In a clip the host plays of Piers Morgan's show, former Navy SEAL Robert J. O'Neill says he is \"not even getting into\" the soliloquy of text messages that 22-year-olds do not send their transgender lover.",
       "anchored_artifacts": [
@@ -3823,7 +3823,7 @@
       "investigative_direction": "Compare the indictment text with Robinson's other messages and with linguistic analysis of the chain.",
       "transcript_snippet": "saliloquy of text messages that 22-year-olds don't send their translover",
       "supports_claim_refs": [
-        "C-1175"
+        "C-300"
       ],
       "mentions_person_refs": [
         "N-153",
@@ -3832,8 +3832,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12110",
-      "ref": "C-12110",
+      "@id": "C-1466",
+      "ref": "C-1466",
       "label": "Host Says the Feds Only Lie to Cover Their Own Tracks and Protect Their Bosses",
       "claim": "The host says the feds are lying and that they only lie to cover their own tracks, protecting themselves and their bosses.",
       "anchored_artifacts": [],
@@ -3847,7 +3847,7 @@
       "investigative_direction": "The host names no specific lie in this passage; map it to the specific statements she disputes later in the episode.",
       "transcript_snippet": "The feds only lie to cover their own tracks. They are protecting themselves and their bosses.",
       "supports_claim_refs": [
-        "C-6449"
+        "C-1325"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3855,8 +3855,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12111",
-      "ref": "C-12111",
+      "@id": "C-1467",
+      "ref": "C-1467",
       "label": "Host Says She Believes It Was a Military Hit With Foreign Actors and Literal Actors",
       "claim": "The host says she maintains that the killing was a military hit involving foreign actors and literal actors.",
       "anchored_artifacts": [],
@@ -3867,7 +3867,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:35:05",
-      "investigative_direction": "The host presents it as a belief; look for any evidence she cites later and compare with her C-10791 hunch about a military operation by people from overseas.",
+      "investigative_direction": "The host presents it as a belief; look for any evidence she cites later and compare with her C-1181 hunch about a military operation by people from overseas.",
       "transcript_snippet": "I actually believe that this was a military hit that involved foreign actors and also literal actors.",
       "mentions_person_refs": [
         "N-1",
@@ -3876,8 +3876,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12112",
-      "ref": "C-12112",
+      "@id": "C-1468",
+      "ref": "C-1468",
       "label": "Host Says the Day Ran Like the JFK Assassination With Multiple Decoys",
       "claim": "The host says she believes the day ran like something akin to the JFK assassination and that there were multiple decoys on the ground.",
       "anchored_artifacts": [],
@@ -3897,8 +3897,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12113",
-      "ref": "C-12113",
+      "@id": "C-1469",
+      "ref": "C-1469",
       "label": "Host Says the Stairs Man Did Not Kill Charlie and the Stairs Photo May Be From Another Day",
       "claim": "The host says she does not believe the person walking up the stairs killed Charlie, and suspects that the photo was not even taken on the same day.",
       "anchored_artifacts": [],
@@ -3919,8 +3919,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12114",
-      "ref": "C-12114",
+      "@id": "C-1470",
+      "ref": "C-1470",
       "label": "Host Says the Rooftop Runner Was Another Decoy and the Shot Did Not Come From the Losee Center",
       "claim": "The host says she does not believe the person who ran across the Losee Center rooftop killed Charlie, that this was another decoy, and that she does not believe the shot came from the Losee Center at all.",
       "anchored_artifacts": [],
@@ -3941,8 +3941,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12115",
-      "ref": "C-12115",
+      "@id": "C-1472",
+      "ref": "C-1472",
       "label": "Host Says There Were Four Decoys: Zinn, Staircase Guy, Maroon Shirt Guy and Losee Center Guy",
       "claim": "The host says that her view implies a total of four decoys, George Zinn, staircase guy, maroon shirt guy and Losee Center guy, none of whom she believes pulled the trigger.",
       "anchored_artifacts": [],
@@ -3963,8 +3963,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12116",
-      "ref": "C-12116",
+      "@id": "C-1473",
+      "ref": "C-1473",
       "label": "Host Says Lance Twiggs Is Likely the Maroon Shirt Walker, Thinner Than Robinson",
       "claim": "The host says it is much more likely that Lance Twiggs is the one walking in the maroon shirt, because his build is thinner and nothing like Tyler Robinson's, and that she is speculating.",
       "anchored_artifacts": [],
@@ -3985,8 +3985,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12117",
-      "ref": "C-12117",
+      "@id": "C-1474",
+      "ref": "C-1474",
       "label": "Host Speculates Robinson Was Driving Around Campus Assisting Costume Changes",
       "claim": "The host speculates that Tyler Robinson was involved and was driving around campus that day, assisting in costume changes and likely picking up clothing.",
       "anchored_artifacts": [],
@@ -4007,8 +4007,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12118",
-      "ref": "C-12118",
+      "@id": "C-1475",
+      "ref": "C-1475",
       "label": "Host Says Robinson Was Seen at Dairy Queen Dumping Clothing in the Cemetery",
       "claim": "The host says Tyler Robinson was seen at Dairy Queen and was seen dumping clothing in the cemetery beside it, as she says she previously reported.",
       "anchored_artifacts": [],
@@ -4028,8 +4028,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12119",
-      "ref": "C-12119",
+      "@id": "C-1476",
+      "ref": "C-1476",
       "label": "Host Says a First-Time Killer Would Not Sit Down for Dairy Queen After an Adrenaline Surge",
       "claim": "The host argues it makes no sense biologically that someone who had never killed would be high on adrenaline after a kill and decide to eat at Dairy Queen and write poetic text messages.",
       "anchored_artifacts": [],
@@ -4040,7 +4040,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:37:30",
-      "investigative_direction": "This is the host's inference; compare with the Dairy Queen photo time (C-1186) and any physiology expert comment.",
+      "investigative_direction": "This is the host's inference; compare with the Dairy Queen photo time (C-403) and any physiology expert comment.",
       "transcript_snippet": "Uh it's completely a nonsense to think that a person who had never killed anyone was high on adrenaline after a kill and decided to eat Dairy Queen.",
       "mentions_person_refs": [
         "N-40",
@@ -4049,8 +4049,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12120",
-      "ref": "C-12120",
+      "@id": "C-1477",
+      "ref": "C-1477",
       "label": "Host Says Officials Are Freaking Out About the Dairy Queen Leak Because It Disrupts Their Narrative",
       "claim": "The host says the Dairy Queen leak is one of many things that disrupt the official narrative and that this is why officials are freaking out about it.",
       "anchored_artifacts": [],
@@ -4069,8 +4069,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12121",
-      "ref": "C-12121",
+      "@id": "C-1478",
+      "ref": "C-1478",
       "label": "Host Guesses Lance Twiggs Is a Federal Asset, Perhaps Through Discord Work",
       "claim": "The host says she thinks Tyler Robinson's roommate, Lance Twiggs, is federally protected and ventures a guess that he is a federal asset of some description, perhaps through his online work on Discord chats.",
       "anchored_artifacts": [],
@@ -4092,8 +4092,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12122",
-      "ref": "C-12122",
+      "@id": "C-1479",
+      "ref": "C-1479",
       "label": "Host Says the Government Lied That Lance Came In Peacefully and Handed Over Everything",
       "claim": "The host says the government, implicating Governor Cox and others at the press conference the morning after Robinson was apprehended, lied when it said Lance came in peacefully and handed over everything.",
       "anchored_artifacts": [
@@ -4109,7 +4109,7 @@
       "investigative_direction": "Obtain the press conference transcript, the search warrant return and bodycam or interview logs showing what Lance handed over and when he was released.",
       "transcript_snippet": "the government lied when they said, uh, Lance, you know, I'm obviously paraphrasing here, he came in peacefully. He handed over everything.",
       "contradicts_claim_refs": [
-        "C-10702"
+        "C-136"
       ],
       "mentions_person_refs": [
         "N-41",
@@ -4120,8 +4120,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12123",
-      "ref": "C-12123",
+      "@id": "C-1481",
+      "ref": "C-1481",
       "label": "Host Says Investigators Were Going Off Mike Mitchell's Tip and Had No Confession",
       "claim": "The host says authorities were going off the tip from the mysterious detective Mike Mitchell and had no confession when they raided.",
       "anchored_artifacts": [],
@@ -4141,8 +4141,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12124",
-      "ref": "C-12124",
+      "@id": "C-1482",
+      "ref": "C-1482",
       "label": "Host Says the Feds Are Staging the Whole Operation, Including the Note Under the Keyboard",
       "claim": "The host says the feds are staging the entire operation, and that to get a conviction they need to say they found something in his house, such as the note under the keyboard, which she mocks as conveniently photographed and then destroyed.",
       "anchored_artifacts": [],
@@ -4163,8 +4163,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12125",
-      "ref": "C-12125",
+      "@id": "C-1484",
+      "ref": "C-1484",
       "label": "Host Says Lance Has Been in an Unknown Location Since the Raid",
       "claim": "The host says it seems Lance Twiggs has been in an unknown location since the raid, that she would imagine he was in witness protection for a bit, and that he does not seem to be speaking to his family.",
       "anchored_artifacts": [
@@ -4177,7 +4177,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:40:45",
-      "investigative_direction": "Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1400).",
+      "investigative_direction": "Check public sightings of Twiggs and any family statements about contact since the raid; compare with the family's account (C-1480).",
       "transcript_snippet": "Lance has similarly been in an unknown known location since the raid.",
       "mentions_person_refs": [
         "N-54"
@@ -4185,8 +4185,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12126",
-      "ref": "C-12126",
+      "@id": "C-1485",
+      "ref": "C-1485",
       "label": "Host Says She Never Thought the Maroon Shirt Person Was the Person With the Limp",
       "claim": "The host says she never for a second thought the person in the maroon shirt was the same as the person walking with the limp, and that the government has distracted the public with photos of different people.",
       "anchored_artifacts": [],
@@ -4201,7 +4201,7 @@
       "investigative_direction": "Compare gait, build and clothing in the maroon-shirt footage and the limping-person footage.",
       "transcript_snippet": "I never for a second thought the person that was in the maroon shirt was the same as the person that was walking with the limp.",
       "supports_claim_refs": [
-        "C-1183"
+        "C-348"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -4209,8 +4209,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12127",
-      "ref": "C-12127",
+      "@id": "C-1487",
+      "ref": "C-1487",
       "label": "Host Says It Would Be Interesting If the Feds Were Paying George Zinn",
       "claim": "The host says it would be very interesting if the feds were going to pay George Zinn, though she is not saying they are, and asks why Zinn would not know where the payment was coming from.",
       "anchored_artifacts": [],
@@ -4225,7 +4225,7 @@
       "investigative_direction": "Obtain any records of payment to Zinn and the tip source for his federal connections; the host says she has not yet confirmed the tip.",
       "transcript_snippet": "it would be very interesting if the feds were going to pay George. I'm not saying they are.",
       "supports_claim_refs": [
-        "C-1402"
+        "C-1486"
       ],
       "mentions_person_refs": [
         "N-42",
@@ -4234,8 +4234,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12128",
-      "ref": "C-12128",
+      "@id": "C-1488",
+      "ref": "C-1488",
       "label": "Host Says the Feds Questioned Other People They Have Not Disclosed",
       "claim": "The host says the feds questioned other people whom they did not disclose, and that these people have been told to be quiet about everything.",
       "anchored_artifacts": [],
@@ -4254,8 +4254,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12129",
-      "ref": "C-12129",
+      "@id": "C-1489",
+      "ref": "C-1489",
       "label": "Host Says the Silence Orders Are Because the Feds Do Not Want to Get Caught",
       "claim": "The host says the people being told to be silent are not being silenced to seek a conviction against Tyler Robinson but because the feds do not want to get caught.",
       "anchored_artifacts": [],
@@ -4269,7 +4269,7 @@
       "investigative_direction": "Identify any gag order, non-disclosure request or agency instruction to witnesses and compare with court dockets.",
       "transcript_snippet": "they are not asking everyone to be silent because they are seeking a conviction against Tyler Robinson. They are telling everybody to be silent because they don't want to get caught.",
       "supports_claim_refs": [
-        "C-6449"
+        "C-1325"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -4278,8 +4278,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12130",
-      "ref": "C-12130",
+      "@id": "C-1490",
+      "ref": "C-1490",
       "label": "Host Says Trump's Non-Reaction and Lack of Demands for Truth Upsets Her",
       "claim": "The host says Donald Trump has not reacted or made any demands for truth regarding the investigation, and that this deeply upsets her.",
       "anchored_artifacts": [],
@@ -4298,8 +4298,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12131",
-      "ref": "C-12131",
+      "@id": "C-1491",
+      "ref": "C-1491",
       "label": "Host Says the Mappin Donor Unlocked Another Level of Donations for Kirk",
       "claim": "The host says the donor behind the public letter, John Mappin, unlocked a whole other level of donations for Charlie Kirk through introductions he made for him.",
       "anchored_artifacts": [],
@@ -4317,8 +4317,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12132",
-      "ref": "C-12132",
+      "@id": "C-1494",
+      "ref": "C-1494",
       "label": "Host Says the Turning Point UK Event Was Where She First Saw Her Husband George",
       "claim": "The host says that the Turning Point UK event arranged through the donor was where she first laid eyes on George, her husband, and not when she spoke to him.",
       "anchored_artifacts": [],
@@ -4330,7 +4330,7 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "00:44:50",
-      "investigative_direction": "Compare with episode 9 claims on the UK trip and husband meeting (C-1267, C-1268). Note that draft claim C-1395 reads George here as Zinn, which the context does not support.",
+      "investigative_direction": "Compare with episode 9 claims on the UK trip and husband meeting (C-762, C-760). Note that draft claim C-1492 reads George here as Zinn, which the context does not support.",
       "transcript_snippet": "And that event was when I first laid eyes on George. Not when I spoke to him, but when I actually first laid eyes on him.",
       "mentions_person_refs": [
         "N-30",
@@ -4340,8 +4340,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12133",
-      "ref": "C-12133",
+      "@id": "C-1495",
+      "ref": "C-1495",
       "label": "Host Says Mappin Will Be the First of Many Donors to Make a Public Statement",
       "claim": "The host says she thinks the donor who issued the statement will be the first of many donors who might make a public statement.",
       "anchored_artifacts": [],
@@ -4359,8 +4359,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12134",
-      "ref": "C-12134",
+      "@id": "C-1496",
+      "ref": "C-1496",
       "label": "Mappin Letter Says Kirk Went Days Without Sleep to Make Vance the Vice Presidential Nominee",
       "claim": "The Mappin letter says Charlie Kirk did not sleep for several days and nights to ensure that JD Vance became the vice presidential nominee, a job promotion in contrast to investigating a friend's death.",
       "anchored_artifacts": [
@@ -4382,8 +4382,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12135",
-      "ref": "C-12135",
+      "@id": "C-1497",
+      "ref": "C-1497",
       "label": "Mappin Letter Says the Crime Scene Was Apparently Destroyed in Days",
       "claim": "The Mappin letter says the crime scene appears to have been completely destroyed in days and that plenty of evidence does not add up.",
       "anchored_artifacts": [
@@ -4399,7 +4399,7 @@
       "investigative_direction": "Obtain UVU work orders and photographs of the site showing when cleanup and paving occurred.",
       "transcript_snippet": "a crime scene apparently completely destroyed in days and plenty of evidence that simply does not add up.",
       "supports_claim_refs": [
-        "C-1386"
+        "C-1465"
       ],
       "mentions_person_refs": [
         "N-154",
@@ -4408,8 +4408,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12136",
-      "ref": "C-12136",
+      "@id": "C-1498",
+      "ref": "C-1498",
       "label": "Mappin Letter Calls for Authorities to Share Everything With Candace and Her Team",
       "claim": "The Mappin letter says the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything it knows with Candace and her selected team.",
       "anchored_artifacts": [
@@ -4430,8 +4430,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12137",
-      "ref": "C-12137",
+      "@id": "C-1499",
+      "ref": "C-1499",
       "label": "Mappin Letter Says Candace Is One of the Only Public Voices From Kirk's Closest Friends",
       "claim": "The Mappin letter says Candace's point that hers has been one of the only public voices from Charlie's closest friends questioning the communications and demanding clarity is well made.",
       "anchored_artifacts": [
@@ -4453,8 +4453,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12138",
-      "ref": "C-12138",
+      "@id": "C-1502",
+      "ref": "C-1502",
       "label": "Host Says She Told Viewers Charlie's Life Was Like the Truman Show",
       "claim": "The host says that she previously told viewers she felt Charlie's life was like the Truman Show.",
       "anchored_artifacts": [],
@@ -4472,8 +4472,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12139",
-      "ref": "C-12139",
+      "@id": "C-1503",
+      "ref": "C-1503",
       "label": "Host Says Critics Tried to Wipe Away Her Friendship With Kirk by Claiming They Had Not Spoken Since 2015",
       "claim": "The host says critics tried to erase her friendship with Charlie by saying she had not spoken to him since 2015.",
       "anchored_artifacts": [],
@@ -4482,7 +4482,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:54:25",
-      "investigative_direction": "Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-1222) and the Mappin letter's description of their friendship.",
+      "investigative_direction": "Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-555) and the Mappin letter's description of their friendship.",
       "transcript_snippet": "when they even tried to wipe away my friendship, like she hasn't spoken to him since 2015.",
       "mentions_person_refs": [
         "N-1",
@@ -4491,8 +4491,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12140",
-      "ref": "C-12140",
+      "@id": "C-1504",
+      "ref": "C-1504",
       "label": "Host Says She Has the Names of the Security Team, Including People Not Yet Identified",
       "claim": "In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people that 'we' couldn't identify.",
       "anchored_artifacts": [
@@ -4514,8 +4514,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12141",
-      "ref": "C-12141",
+      "@id": "C-1505",
+      "ref": "C-1505",
       "label": "Host Says Pastors Have Been Part of Spreading the Lies, as She Showed the Day Before",
       "claim": "The host says that, as she showed the previous day, pastors have been part of spreading these lies, and that it is not okay for pastors to use the Bible to lie.",
       "anchored_artifacts": [],
@@ -4529,7 +4529,7 @@
       "investigative_direction": "Review the pastor sermon clips from the prior episode and identify the pastors.",
       "transcript_snippet": "as I showed you yesterday, you know, pastors that have been a part of this like part of spreading these lies",
       "supports_claim_refs": [
-        "C-1378"
+        "C-1391"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -4537,8 +4537,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12142",
-      "ref": "C-12142",
+      "@id": "C-1506",
+      "ref": "C-1506",
       "label": "Host Agrees Judeo-Christian Is a Convenient Word for Israel and Values Are Not Shared",
       "claim": "The host reads a viewer comment saying the term Judeo-Christian seems a convenient word for Israel and that core values and views on Jesus are not shared, and says 'It definitively is not.'",
       "anchored_artifacts": [
@@ -4549,7 +4549,7 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "01:01:00",
-      "investigative_direction": "Opinion on religious terminology; compare with C-6466 on the Judeo-Christian chart the host says she sent Kirk.",
+      "investigative_direction": "Opinion on religious terminology; compare with C-1342 on the Judeo-Christian chart the host says she sent Kirk.",
       "transcript_snippet": "It seems to be a very convenient word for Israel. I don't think any of the core values or their views on Jesus are shared.\" It definitively is not.",
       "mentions_person_refs": [
         "N-3"
@@ -4557,8 +4557,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12143",
-      "ref": "C-12143",
+      "@id": "C-1508",
+      "ref": "C-1508",
       "label": "Host Agrees Kirk Knew He Was Going to Be Killed",
       "claim": "After a viewer comment that Frank Turek said Kirk told him 'they want him dead' and that this makes four sources, the host says Kirk knew he was going to be killed.",
       "anchored_artifacts": [
@@ -4574,7 +4574,7 @@
       "investigative_direction": "Obtain the Turek podcast clip and the three sources' written communication; compare dates against the claim that Kirk feared being killed the day before.",
       "transcript_snippet": "He knew. He would know. He knew he was going to be killed.",
       "supports_claim_refs": [
-        "C-1398"
+        "C-1445"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -4583,8 +4583,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12144",
-      "ref": "C-12144",
+      "@id": "C-1509",
+      "ref": "C-1509",
       "label": "Host Thanks Viewers Who Joined 'Our CIA, the Decentralized,' Which She Calls More of a Threat",
       "claim": "The host thanks viewers who signed up on her site, bought merchandise or joined 'our CIA, the decentralized,' and says a decentralized network is a bigger threat because it cannot be whacked the way a centralized one can.",
       "anchored_artifacts": [
@@ -4603,8 +4603,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-12145",
-      "ref": "C-12145",
+      "@id": "C-1510",
+      "ref": "C-1510",
       "label": "Host Says the Freud Book Club Book Is One They Will Not Reprint",
       "claim": "The host says that tonight's book club begins an introduction to Sigmund Freud and the Jewish Mystical Tradition, a book she says they will not reprint but is a must read.",
       "anchored_artifacts": [],
@@ -4616,7 +4616,7 @@
       "investigative_direction": "Check the book's print status with the publisher; the host asserts it will not be reprinted.",
       "transcript_snippet": "this book which they will not reprint but is a must readad Sigmund Freud and the Jewish mystical tradition.",
       "supports_claim_refs": [
-        "C-6506"
+        "C-1396"
       ],
       "mentions_person_refs": [
         "N-50",

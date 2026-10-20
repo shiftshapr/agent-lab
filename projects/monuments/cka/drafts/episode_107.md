@@ -15,12 +15,12 @@
   - Hole-minted Nodes (reintro-ep107): N-10700, N-10785
   - Tip-minted Nodes (reintro-ep107): N-10942
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5665–C-5778
+  - Claim Range: C-9360–C-9488
   - New Nodes Introduced: none
   - Reused Nodes Appearing: N-3, N-7, N-208, N-341, N-342, N-10601, N-10622, N-9, N-224, N-10000, N-10006, N-10026, N-10063, N-10398, N-10604, N-10605, N-10618, N-10923, N-343, N-348, N-344, N-349, N-725, N-726, N-727
   - Hole-minted Nodes (wave1): N-345, N-346, N-347
   - Tip-minted Nodes (wave1): N-10893
-  - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-3702..C-3716 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
+  - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-9362..C-9454 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
   - (see registers)
 
 # Episode Analysis Output Template
@@ -40,7 +40,7 @@ Video Timestamp: 00:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (host recount; post not displayed in transcript)
 
-*Related: C-3702, C-3703, N-341, N-343, N-10622*
+*Related: C-9362, C-9363, N-341, N-343, N-10622*
 
 ---
 
@@ -53,7 +53,7 @@ Video Timestamp: 00:06:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (audio played on air)
 
-*Related: C-3704, C-3709, N-341, N-349*
+*Related: C-9379, C-9406, N-341, N-349*
 
 ---
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (audio played on air)
 
-*Related: C-3705, N-345, N-341*
+*Related: C-9392, N-345, N-341*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (post read aloud)
 
-*Related: C-3706, N-347, N-346, N-341*
+*Related: C-9393, N-347, N-346, N-341*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:10:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (described by host)
 
-*Related: C-3707, N-341*
+*Related: C-9389, N-341*
 
 **A-2509.2** Website text shown on air: "a high-risk humanitarian who has rescued more than 45,000 women and children."
 
@@ -101,7 +101,7 @@ Video Timestamp: 01:13:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (text read on air)
 
-*Related: C-3708, C-3716, N-341, N-10893*
+*Related: C-9478, C-9454, N-341, N-10893*
 
 ---
 
@@ -114,7 +114,7 @@ Video Timestamp: 00:16:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (live interview audio)
 
-*Related: C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716, N-341*
+*Related: C-9406, C-9408, C-9428, C-9470, C-9435, C-9471, C-9472, C-9454, N-341*
 
 ---
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:30:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (stated on air; film not shown)
 
-*Related: C-3709, N-341*
+*Related: C-9406, N-341*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:23:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (stated on air)
 
-*Related: C-3710, N-341*
+*Related: C-9408, N-341*
 
 ---
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:00:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5665, C-5666*
+*Related: C-9360, C-9361*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:08:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5684, C-5685*
+*Related: C-9382, C-9383*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:08:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5686, C-5687*
+*Related: C-9384, C-9385*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:12:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5697, C-5704, C-5707*
+*Related: C-9398, C-9405, C-9410*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:18:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5700*
+*Related: C-9401*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:19:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5703*
+*Related: C-9404*
 
 ---
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:39:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5723*
+*Related: C-9426*
 
 ---
 
@@ -242,7 +242,7 @@ Video Timestamp: 00:41:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5724*
+*Related: C-9427*
 
 ---
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:56:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5749*
+*Related: C-9455*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 01:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5756*
+*Related: C-9462*
 
 ---
 
@@ -279,7 +279,7 @@ Video Timestamp: 01:04:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5759*
+*Related: C-9465*
 
 ---
 
@@ -292,7 +292,7 @@ Video Timestamp: 01:08:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5763*
+*Related: C-9469*
 
 ---
 
@@ -303,7 +303,7 @@ Video Timestamp: 01:35:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5775, C-5776*
+*Related: C-9485, C-9486*
 
 ---
 
@@ -313,68 +313,68 @@ Confidence Level: Medium
 
 Named by Victor Marx in his account of the 9/10 death announcement.
 
-*Related: C-3713*
+*Related: C-9435*
 
 **N-341** Victor Marx
 
 Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.
 
-*Related: A-2505.1, A-2506.1, A-2507.1, A-2508.1, A-2509.1, A-2509.2, A-2510.1, A-2512.1, C-3702, C-3703, C-3704, C-3705, C-3706, C-3707, C-3708, C-3709, C-3710, C-3711, C-3712, C-3713, C-3714, C-3715, C-3716*
+*Related: A-2505.1, A-2506.1, A-2507.1, A-2508.1, A-2509.1, A-2509.2, A-2510.1, A-2512.1, C-9362, C-9363, C-9379, C-9392, C-9393, C-9389, C-9478, C-9406, C-9408, C-9428, C-9470, C-9435, C-9471, C-9472, C-9454*
 
 **N-343** Eileen Marx
 
 Victor's wife; described as second-mother figure to Erika Kirk.
 
-*Related: A-2505.1, C-3703*
+*Related: A-2505.1, C-9363*
 
 **N-342** Corby Hall
 
 Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.
 
-*Related: C-3709*
+*Related: C-9406*
 
 **N-344** Melody Hall
 
 Corby Hall's wife; named by Victor Marx as someone he prayed for.
 
-*Related: C-3711*
+*Related: C-9428*
 
 **N-345** Holly Chalmers
 
 Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.
 
-*Related: A-2507.1, C-3705*
+*Related: A-2507.1, C-9392*
 
 **N-346** Victor Marx's son
 
 Wrote a letter to the board accusing his father of abusing him and his sister.
 
-*Related: A-2508.1, C-3706*
+*Related: A-2508.1, C-9393*
 
 **N-347** Victor Marx's daughter
 
 Posted on social media about abuse; later recanted; friends allege pressure.
 
-*Related: A-2508.1, C-3706*
+*Related: A-2508.1, C-9393*
 
 **N-348** Amir Tsarfati
 
 Pastor named by the host as also posting early about Charlie Kirk's death.
 
-*Related: C-3713*
+*Related: C-9435*
 
 **N-349** Gloyce Dean Kennedy
 
 Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.
 
-*Related: A-2506.1, C-3704, C-3709*
+*Related: A-2506.1, C-9379, C-9406*
 
 **N-10893** 45,000 Rescue Claim Discrepancy
 
 Node Type: Topic
 Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and children; Victor denied ever making that claim.
 
-*Related: A-2509.2, C-3708, C-3716*
+*Related: A-2509.2, C-9478, C-9454*
 
 ---
 
@@ -382,7 +382,7 @@ Website (victor2026.com) claimed Victor Marx rescued more than 45,000 women and 
 
 Subject of Marx's accounts of prayer, meeting at a California church, the falling-out question and the early death post, and of the host's remarks on his Aspen statement and his parents.
 
-*Related: C-5668, C-5681, C-5725, C-5726, C-5727, C-5728, C-5729, C-5730, C-5731, C-5732, C-5733, C-5734, C-5735, C-5737, C-5763, C-5773, C-5774, C-5775, C-5777*
+*Related: C-9365, C-9378, C-9429, C-9430, C-9431, C-9432, C-9433, C-9434, C-9436, C-9437, C-9438, C-9439, C-9440, C-9442, C-9469, C-9483, C-9484, C-9485, C-9487*
 
 ---
 
@@ -390,7 +390,7 @@ Subject of Marx's accounts of prayer, meeting at a California church, the fallin
 
 Subject of Marx's account of the text sent to her, her closeness with Eileen Marx, and the host's inference that she brought Marx into Charlie's orbit.
 
-*Related: C-5667, C-5725, C-5727, C-5734, C-5735, C-5739, C-5774, C-5775, C-5776, C-5777*
+*Related: C-9364, C-9429, C-9431, C-9439, C-9440, C-9444, C-9484, C-9485, C-9486, C-9487*
 
 ---
 
@@ -398,7 +398,7 @@ Subject of Marx's account of the text sent to her, her closeness with Eileen Mar
 
 Host; interviews Marx, concedes the Marine Corps correction, says she filed a FOIA request, and comments on Erika Kirk, Charlie's parents and her show's funding.
 
-*Related: C-5665, C-5666, C-5676, C-5698, C-5703, C-5704, C-5706, C-5707, C-5730, C-5735, C-5736, C-5749, C-5757, C-5763, C-5772, C-5773, C-5774, C-5775, C-5776, C-5777, C-5778*
+*Related: C-9360, C-9361, C-9373, C-9399, C-9404, C-9405, C-9409, C-9410, C-9434, C-9440, C-9441, C-9455, C-9463, C-9469, C-9482, C-9483, C-9484, C-9485, C-9486, C-9487, C-9488*
 
 ---
 
@@ -406,7 +406,7 @@ Host; interviews Marx, concedes the Marine Corps correction, says she filed a FO
 
 Named by the host in the Epstein comparison for trafficking charities that cite protecting identities.
 
-*Related: C-5753*
+*Related: C-9459*
 
 ---
 
@@ -414,7 +414,7 @@ Named by the host in the Epstein comparison for trafficking charities that cite 
 
 Named by the host as an early poster who took down a video saying an Israel channel reported Charlie's death first.
 
-*Related: C-5736*
+*Related: C-9441*
 
 ---
 
@@ -422,7 +422,7 @@ Named by the host as an early poster who took down a video saying an Israel chan
 
 Named when the host asks whether Marx said 45,000 on the Shawn Ryan show.
 
-*Related: C-5749*
+*Related: C-9455*
 
 ---
 
@@ -430,7 +430,7 @@ Named when the host asks whether Marx said 45,000 on the Shawn Ryan show.
 
 Organization where, per the host, Marx conducted prayers, and where Marx says he prayed for Charlie and three others.
 
-*Related: C-5690, C-5725*
+*Related: C-9388, C-9429*
 
 ---
 
@@ -438,7 +438,7 @@ Organization where, per the host, Marx conducted prayers, and where Marx says he
 
 Cited by Marx as an outlet where he said Hamas must stop firing and return hostages.
 
-*Related: C-5768*
+*Related: C-9477*
 
 ---
 
@@ -446,7 +446,7 @@ Cited by Marx as an outlet where he said Hamas must stop firing and return hosta
 
 Setting of Marx's post-October 7 trips, the rocket fire and the six-hour reinforcement timeline.
 
-*Related: C-5736, C-5765, C-5766*
+*Related: C-9441, C-9474, C-9475*
 
 ---
 
@@ -454,7 +454,7 @@ Setting of Marx's post-October 7 trips, the rocket fire and the six-hour reinfor
 
 Subject of Marx's account of entering Gaza and of the exchange on whether it is a genocide.
 
-*Related: C-5764, C-5767, C-5768*
+*Related: C-9473, C-9476, C-9477*
 
 ---
 
@@ -462,7 +462,7 @@ Subject of Marx's account of entering Gaza and of the exchange on whether it is 
 
 Structure of Turning Point USA Faith, discussed in the host's remarks on Charlie's Aspen statement and Erika Kirk's role.
 
-*Related: C-5775, C-5776, C-5777*
+*Related: C-9485, C-9486, C-9487*
 
 ---
 
@@ -470,7 +470,7 @@ Structure of Turning Point USA Faith, discussed in the host's remarks on Charlie
 
 Topic of Corby Hall's allegation and Marx's reply that he buys only for his own training.
 
-*Related: C-5688, C-5703, C-5769*
+*Related: C-9386, C-9404, C-9479*
 
 ---
 
@@ -478,7 +478,7 @@ Topic of Corby Hall's allegation and Marx's reply that he buys only for his own 
 
 Topic for the host's checks of Marx's background with family members.
 
-*Related: C-5697, C-5704*
+*Related: C-9398, C-9405*
 
 ---
 
@@ -486,7 +486,7 @@ Topic for the host's checks of Marx's background with family members.
 
 Topic for Marx's account of his relationships with Charlie, Erika and Eileen Marx.
 
-*Related: C-5667, C-5726, C-5727, C-5728, C-5729, C-5738, C-5739, C-5776, C-5777*
+*Related: C-9364, C-9430, C-9431, C-9432, C-9433, C-9443, C-9444, C-9486, C-9487*
 
 ---
 
@@ -494,7 +494,7 @@ Topic for Marx's account of his relationships with Charlie, Erika and Eileen Mar
 
 Topic for Marx's statements about IDF special operations access and his Charlie Kirk Show appearance.
 
-*Related: C-5685, C-5763*
+*Related: C-9383, C-9469*
 
 ---
 
@@ -502,7 +502,7 @@ Topic for Marx's statements about IDF special operations access and his Charlie 
 
 Topic for the timing and explanation of Marx's early Instagram posts about Charlie Kirk's death.
 
-*Related: C-5730, C-5731, C-5732, C-5733, C-5735, C-5736, C-5737*
+*Related: C-9434, C-9436, C-9437, C-9438, C-9440, C-9441, C-9442*
 
 ---
 
@@ -510,7 +510,7 @@ Topic for the timing and explanation of Marx's early Instagram posts about Charl
 
 Topic under which the host's new FOIA request for White House Correspondents Dinner emails falls.
 
-*Related: C-5666*
+*Related: C-9361*
 
 ---
 
@@ -518,7 +518,7 @@ Topic under which the host's new FOIA request for White House Correspondents Din
 
 Topic for the host's recap and Marx's answers about his biography and abuse narrative.
 
-*Related: C-5669, C-5670, C-5671, C-5672, C-5673, C-5674, C-5675, C-5676, C-5677, C-5682, C-5686, C-5687, C-5691, C-5694, C-5695, C-5696, C-5697, C-5701, C-5704, C-5706, C-5708, C-5711, C-5712, C-5713, C-5714, C-5718, C-5741, C-5742, C-5762, C-5772*
+*Related: C-9366, C-9367, C-9368, C-9369, C-9370, C-9371, C-9372, C-9373, C-9374, C-9380, C-9384, C-9385, C-9390, C-9395, C-9397, C-9396, C-9398, C-9402, C-9405, C-9409, C-9411, C-9414, C-9415, C-9416, C-9417, C-9421, C-9446, C-9447, C-9468, C-9482*
 
 ---
 
@@ -526,7 +526,7 @@ Topic for the host's recap and Marx's answers about his biography and abuse narr
 
 Topic of the White House email the host says the press team is not answering about.
 
-*Related: C-5665, C-5666*
+*Related: C-9360, C-9361*
 
 ---
 
@@ -534,7 +534,7 @@ Topic of the White House email the host says the press team is not answering abo
 
 Topic for Marx's account of the text reassuring Erika Kirk that they only wanted Charlie.
 
-*Related: C-5734*
+*Related: C-9439*
 
 ---
 
@@ -542,7 +542,7 @@ Topic for Marx's account of the text reassuring Erika Kirk that they only wanted
 
 First named by the host at 00:03:25 in episode 107. Described as Victor Marx's brother who pled guilty as a co-conspirator and took a plea deal for testifying against the stepfather.
 
-*Related: C-5671*
+*Related: C-9368*
 
 ---
 
@@ -550,7 +550,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 First named by the host at 00:03:25 in episode 107. Described as Victor Marx's biological father, a pimp, drug dealer and martial arts expert who spent time in a mental hospital.
 
-*Related: C-5672, C-5673*
+*Related: C-9369, C-9370*
 
 ---
 
@@ -558,7 +558,7 @@ First named by the host at 00:03:25 in episode 107. Described as Victor Marx's b
 
 First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's brother who tried to shoot Victor Marx in 2023 and later killed his girlfriend.
 
-*Related: C-5679, C-5680*
+*Related: C-9376, C-9377*
 
 ---
 
@@ -566,7 +566,7 @@ First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's b
 
 First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for Dr. James Dobson as an assistant.
 
-*Related: C-5741*
+*Related: C-9446*
 
 ---
 
@@ -574,7 +574,7 @@ First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for D
 
 First named by Victor Marx at 00:51:20 in episode 107. Marx says Eubank invited him to Burma.
 
-*Related: C-5743*
+*Related: C-9448*
 
 ---
 
@@ -583,7 +583,7 @@ First named by Victor Marx at 00:51:20 in episode 107. Marx says Eubank invited 
 Node Type: Organization
 Victor Marx's ministry, which the host says he and his brother began in 2003; Marx discusses its funding, missions, law-enforcement partnerships and counts of people helped.
 
-*Related: C-5678, C-5715, C-5721, C-5740, C-5743, C-5747, C-5750, C-5753, C-5754, C-5755, C-5756, C-5757*
+*Related: C-9375, C-9418, C-9424, C-9445, C-9448, C-9452, C-9456, C-9459, C-9460, C-9461, C-9462, C-9463*
 
 ---
 
@@ -592,7 +592,7 @@ Victor Marx's ministry, which the host says he and his brother began in 2003; Ma
 Node Type: Topic
 The practice, described by the host as 'retooling' prayer and by Marx as deliverance prayer, in which Marx says he uses Christ's authority to cast out demons, with sessions he says are recorded.
 
-*Related: C-5683, C-5689, C-5690, C-5719, C-5720, C-5721, C-5722, C-5723, C-5724, C-5725*
+*Related: C-9381, C-9387, C-9388, C-9422, C-9423, C-9424, C-9425, C-9426, C-9427, C-9429*
 
 ---
 
@@ -601,7 +601,7 @@ The practice, described by the host as 'retooling' prayer and by Marx as deliver
 Node Type: Topic
 The dispute between Holly Chalmers, who accuses Marx of kidnapping her across state lines and calls him a trafficker, and Marx, who says he rescued her from a pedophile boyfriend with HSI approval.
 
-*Related: C-5692, C-5693, C-5758, C-5759, C-5760, C-5761*
+*Related: C-9391, C-9394, C-9464, C-9465, C-9466, C-9467*
 
 ---
 
@@ -610,7 +610,7 @@ The dispute between Holly Chalmers, who accuses Marx of kidnapping her across st
 Node Type: Topic
 The dispute over whether Corby Hall threatened Marx, whether Corey filed statements with the FBI and local authorities, and whether the FBI and El Paso County Sheriff are seeking Hall or investigating Marx for guns.
 
-*Related: C-5698, C-5699, C-5700, C-5702, C-5703, C-5705, C-5770, C-5771*
+*Related: C-9399, C-9400, C-9401, C-9403, C-9404, C-9407, C-9480, C-9481*
 
 ---
 
@@ -619,7 +619,7 @@ The dispute over whether Corby Hall threatened Marx, whether Corey filed stateme
 Node Type: Topic
 Marx's account that he shot a man at age 7 under his stepfather's coercion, later called a sheriff's department about a 40-year-old cold case in Simpson County, Mississippi, and cannot identify the victim or site.
 
-*Related: C-5707, C-5709, C-5710, C-5716, C-5717*
+*Related: C-9410, C-9412, C-9413, C-9419, C-9420*
 
 ---
 
@@ -628,13 +628,13 @@ Marx's account that he shot a man at age 7 under his stepfather's coercion, late
 Node Type: Topic
 Marx's account of missions to Iraq beginning in 2015 at the Kurdistan government's invitation, including IDP camp aid and a rescue of a mother held nine years.
 
-*Related: C-5744, C-5745, C-5746, C-5748, C-5752, C-5754*
+*Related: C-9449, C-9450, C-9451, C-9453, C-9458, C-9460*
 
 ---
 
 ## 5. Claim Register
 
-**C-3702** Host Says Victor Marx Was First to Announce Kirk Death on Instagram About 1.5 Hours Before President
+**C-9362** Host Says Victor Marx Was First to Announce Kirk Death on Instagram About 1.5 Hours Before President
 
 Claim Timestamp: 00:01:24
 Claim: The host says Victor Marx was the first she could find to publicly announce Charlie Kirk's passing on social media, she believes on Instagram, approximately 1.5 hours before the U.S. president's announcement.
@@ -646,7 +646,7 @@ Investigative Direction: Verify Instagram timestamp via archived captures; cross
 
 ---
 
-**C-3703** Host Says Victor and Eileen Marx Were Welcomed into Erika Kirk's Home After Body Returned
+**C-9363** Host Says Victor and Eileen Marx Were Welcomed into Erika Kirk's Home After Body Returned
 
 Claim Timestamp: 00:01:24
 Claim: The host says Victor Marx and his wife Eileen were among the small circle of people welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
@@ -656,7 +656,7 @@ Investigative Direction: Verify via photographic evidence and corroboration from
 
 ---
 
-**C-3704** Victor Marx publicly narrated childhood abuse including cat beheading at age 3
+**C-9379** Victor Marx publicly narrated childhood abuse including cat beheading at age 3
 
 Claim Timestamp: 00:06:15
 Claim: Episode plays Victor Marx audio clip narrating that his stepfather forced him to behead a cat at age 3 and to shoot a man at age 7.
@@ -666,7 +666,7 @@ Investigative Direction: Cross-reference with documentary content, family corrob
 
 ---
 
-**C-3705** Holly Chalmers alleges Victor Marx is a trafficker
+**C-9392** Holly Chalmers alleges Victor Marx is a trafficker
 
 Claim Timestamp: 00:11:03
 Claim: Episode plays audio of Holly Chalmers stating she believes Victor Marx is a trafficker himself.
@@ -677,7 +677,7 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 
 ---
 
-**C-3706** Victor Marx's daughter publicly alleged paternal abuse
+**C-9393** Victor Marx's daughter publicly alleged paternal abuse
 
 Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; the host says she later recanted many of the allegations, which friends who emailed the show attribute to financial pressure, a claim the host says she cannot confirm.
@@ -687,7 +687,7 @@ Investigative Direction: Obtain original social media posts via archived capture
 
 ---
 
-**C-3707** Host Says Old Victor Marx Website Listed Him as Pastor
+**C-9389** Host Says Old Victor Marx Website Listed Him as Pastor
 
 Claim Timestamp: 00:10:09
 Claim: The host says Victor Marx's website previously listed him as 'husband, father, US Marine, pastor,' and that this was quietly removed.
@@ -697,7 +697,7 @@ Investigative Direction: Retrieve archived versions of Victor Marx's website via
 
 ---
 
-**C-3708** Host Shows Victor Marx Website Claiming Rescue of 45,000 Women and Children
+**C-9478** Host Shows Victor Marx Website Claiming Rescue of 45,000 Women and Children
 
 Claim Timestamp: 01:13:44
 Claim: Per the victor2026.com website text the host shows during the interview, Victor Marx 'rescued more than 45,000 women and children.'
@@ -709,7 +709,7 @@ Investigative Direction: Verify archived website content; cross-check against or
 
 ---
 
-**C-3709** Victor Marx stands by childhood abuse narrative on-air
+**C-9406** Victor Marx stands by childhood abuse narrative on-air
 
 Claim Timestamp: 00:23:09
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
@@ -720,7 +720,7 @@ Investigative Direction: Cross-reference with statements from family members and
 
 ---
 
-**C-3710** Victor Marx asserts 3-year Marine Corps service on DD-214
+**C-9408** Victor Marx asserts 3-year Marine Corps service on DD-214
 
 Claim Timestamp: 00:23:40
 Claim: Victor Marx states he served 3 years in the Marine Corps, correcting prior '2 years' framing, citing his DD-214.
@@ -731,7 +731,7 @@ Investigative Direction: Obtain certified DD-214 to verify service length and da
 
 ---
 
-**C-3711** Victor Marx Says He Prayed for Charlie Kirk and Others at TPUSA HQ
+**C-9428** Victor Marx Says He Prayed for Charlie Kirk and Others at TPUSA HQ
 
 Claim Timestamp: 00:42:11
 Claim: Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and, he thinks, three other people at Turning Point USA HQ offices.
@@ -741,7 +741,7 @@ Investigative Direction: Verify with Turning Point USA personnel and any session
 
 ---
 
-**C-3712** Victor Marx states he entered Gaza via special operations teams
+**C-9470** Victor Marx states he entered Gaza via special operations teams
 
 Claim Timestamp: 01:09:11
 Claim: Victor Marx, the guest, says in his interview with the host that he entered Gaza by virtue of special operations teams, to pray and to help injured Palestinian children.
@@ -752,7 +752,7 @@ Investigative Direction: Cross-reference with IDF/nonprofit invitation records a
 
 ---
 
-**C-3713** Victor Marx claims he determined Kirk dead from a single viewing of shooting video
+**C-9435** Victor Marx claims he determined Kirk dead from a single viewing of shooting video
 
 Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
@@ -764,7 +764,7 @@ Investigative Direction: Reconcile timeline of when Marx actually viewed the vid
 
 ---
 
-**C-3714** Victor Marx cites 6-hour IDF reinforcement delay on Oct 7
+**C-9471** Victor Marx cites 6-hour IDF reinforcement delay on Oct 7
 
 Claim Timestamp: 01:09:11
 Claim: Victor Marx states that IDF friends told him the Israeli government took six hours to send reinforcements during Oct 7 attacks.
@@ -774,7 +774,7 @@ Investigative Direction: Verify against official Israeli inquiry findings and ID
 
 ---
 
-**C-3715** Victor Marx states he helped 6,000 children in Israel post-Oct 7
+**C-9472** Victor Marx states he helped 6,000 children in Israel post-Oct 7
 
 Claim Timestamp: 01:09:11
 Claim: Victor Marx, the guest, says in his interview with the host that his team helped 6,000 children affected by the Hamas-Israel war, via an invitation from an Israel-based nonprofit.
@@ -784,7 +784,7 @@ Investigative Direction: Verify against partner nonprofit documentation and bene
 
 ---
 
-**C-3716** Victor Marx denies ever declaring 45,000 rescued, calls wording 'helped'
+**C-9454** Victor Marx denies ever declaring 45,000 rescued, calls wording 'helped'
 
 Claim Timestamp: 00:56:05
 Claim: Victor Marx, the guest, says in his interview with the host that he and his organization never stated or wrote that they rescued 45,000, and that they 'helped' rather than 'rescued' that number.
@@ -796,7 +796,7 @@ Investigative Direction: Compare original website text against archived snapshot
 
 ---
 
-**C-5665** White House press team has not answered about the email
+**C-9360** White House press team has not answered about the email
 
 Claim Timestamp: 00:00:01
 
@@ -811,7 +811,7 @@ Investigative Direction: Obtain the White House press office's responses or non-
 
 ---
 
-**C-5666** Host's team filed a FOIA request for White House Correspondents Dinner emails
+**C-9361** Host's team filed a FOIA request for White House Correspondents Dinner emails
 
 Claim Timestamp: 00:00:01
 
@@ -826,7 +826,7 @@ Investigative Direction: Obtain the FOIA request, its tracking number and the ag
 
 ---
 
-**C-5667** Marx said to have given Erika Kirk a bulletproof car
+**C-9364** Marx said to have given Erika Kirk a bulletproof car
 
 Claim Timestamp: 00:02:31
 
@@ -841,7 +841,7 @@ Investigative Direction: Ask Marx and Erika Kirk's team whether a vehicle was pr
 
 ---
 
-**C-5668** Marx announced a run for Colorado governor as a calling after the assassination
+**C-9365** Marx announced a run for Colorado governor as a calling after the assassination
 
 Claim Timestamp: 00:02:31
 
@@ -851,12 +851,12 @@ Transcript Snippet: Victor Marx announced that he was running for a governor of 
 
 Anchored Artifacts: 
 Mentions: N-341, N-1
-Supports: C-4013
+Supports: C-9160
 Investigative Direction: Compare Marx's campaign filing date and his own statements about the calling.
 
 ---
 
-**C-5669** Marx's birth name is Von Victor Kennedy
+**C-9366** Marx's birth name is Von Victor Kennedy
 
 Claim Timestamp: 00:02:31
 
@@ -871,7 +871,7 @@ Investigative Direction: Obtain birth or name-change records and compare with Ma
 
 ---
 
-**C-5670** Marx's stepfather served in army counterintelligence and pled guilty to a drug smuggling conspiracy
+**C-9367** Marx's stepfather served in army counterintelligence and pled guilty to a drug smuggling conspiracy
 
 Claim Timestamp: 00:03:25
 
@@ -886,7 +886,7 @@ Investigative Direction: Pull federal court records for the Kennedy marijuana co
 
 ---
 
-**C-5671** Marx's brother Mike Kennedy took a plea deal and testified against the stepfather
+**C-9368** Marx's brother Mike Kennedy took a plea deal and testified against the stepfather
 
 Claim Timestamp: 00:03:25
 
@@ -901,7 +901,7 @@ Investigative Direction: Locate the case docket and plea agreement naming Mike K
 
 ---
 
-**C-5672** Marx's biological father Karl Marx is described as a pimp, drug dealer and martial arts expert
+**C-9369** Marx's biological father Karl Marx is described as a pimp, drug dealer and martial arts expert
 
 Claim Timestamp: 00:03:25
 
@@ -916,7 +916,7 @@ Investigative Direction: Find public records, martial arts directories or interv
 
 ---
 
-**C-5673** Marx's biological father spent time in a mental hospital for homicidal tendencies
+**C-9370** Marx's biological father spent time in a mental hospital for homicidal tendencies
 
 Claim Timestamp: 00:03:25
 
@@ -931,7 +931,7 @@ Investigative Direction: Look for commitment or hospital records, or Marx's own 
 
 ---
 
-**C-5674** Marx's grandfather killed his grandmother in a public murder-suicide
+**C-9371** Marx's grandfather killed his grandmother in a public murder-suicide
 
 Claim Timestamp: 00:04:19
 
@@ -946,7 +946,7 @@ Investigative Direction: Search local news archives and death records for the in
 
 ---
 
-**C-5675** Marx lived in 17 homes and attended 14 schools by age 17
+**C-9372** Marx lived in 17 homes and attended 14 schools by age 17
 
 Claim Timestamp: 00:04:19
 
@@ -961,7 +961,7 @@ Investigative Direction: Compare with Marx's book and documentary accounts and s
 
 ---
 
-**C-5676** Host says Marx served two years in the Marine Corps before discharge
+**C-9373** Host says Marx served two years in the Marine Corps before discharge
 
 Claim Timestamp: 00:04:19
 
@@ -976,7 +976,7 @@ Investigative Direction: Obtain Marx's DD-214 for enlistment and separation date
 
 ---
 
-**C-5677** Marx married Eileen Breining Marx at 23 and has five children
+**C-9374** Marx married Eileen Breining Marx at 23 and has five children
 
 Claim Timestamp: 00:04:19
 
@@ -991,7 +991,7 @@ Investigative Direction: Check marriage records and Marx's published biography.
 
 ---
 
-**C-5678** Marx and his brother began All Things Possible Ministries in 2003
+**C-9375** Marx and his brother began All Things Possible Ministries in 2003
 
 Claim Timestamp: 00:05:19
 
@@ -1006,7 +1006,7 @@ Investigative Direction: Check IRS Form 990 and state incorporation filings for 
 
 ---
 
-**C-5679** Eileen's brother Kenneth Breining tried to shoot Marx in 2023
+**C-9376** Eileen's brother Kenneth Breining tried to shoot Marx in 2023
 
 Claim Timestamp: 00:05:19
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Obtain the sheriff's incident report and court file for
 
 ---
 
-**C-5680** Kenneth Breining later killed his own girlfriend
+**C-9377** Kenneth Breining later killed his own girlfriend
 
 Claim Timestamp: 00:05:19
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Obtain the homicide case record naming Kenneth Breining
 
 ---
 
-**C-5681** Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial
+**C-9378** Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial
 
 Claim Timestamp: 00:05:19
 
@@ -1044,12 +1044,12 @@ Transcript Snippet: he began teasing that run at memorial service for Charlie Ki
 
 Anchored Artifacts: 
 Mentions: N-341, N-1
-Supports: C-4013
+Supports: C-9160
 Investigative Direction: Check Marx's campaign filing date and the memorial service remarks.
 
 ---
 
-**C-5682** Marx Audio Describes Watching a Corpse Dismembered and Burned
+**C-9380** Marx Audio Describes Watching a Corpse Dismembered and Burned
 
 Claim Timestamp: 00:07:09
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Identify the source interview and test the account agai
 
 ---
 
-**C-5683** Marx audio says he has dealt with thousands of demons
+**C-9381** Marx audio says he has dealt with thousands of demons
 
 Claim Timestamp: 00:07:09
 
@@ -1079,7 +1079,7 @@ Investigative Direction: Identify the source of the audio and any recordings of 
 
 ---
 
-**C-5684** In a clip Marx says trauma care helped over 45,000 women and children
+**C-9382** In a clip Marx says trauma care helped over 45,000 women and children
 
 Claim Timestamp: 00:08:02
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Identify the source recording of the clip and compare i
 
 ---
 
-**C-5685** In a clip Marx says IDF special operations relationships took them places no one could go
+**C-9383** In a clip Marx says IDF special operations relationships took them places no one could go
 
 Claim Timestamp: 00:08:02
 
@@ -1105,12 +1105,12 @@ Transcript Snippet: because of our access and our relationships with the special
 Anchored Artifacts: A-2772.1
 Mentions: N-341
 Related Nodes: N-10618
-Supports: C-4011
+Supports: C-9158
 Investigative Direction: Identify the IDF units and dates of the visits Marx describes.
 
 ---
 
-**C-5686** In a clip Marx says he was diagnosed bipolar 2 and put on medications
+**C-9384** In a clip Marx says he was diagnosed bipolar 2 and put on medications
 
 Claim Timestamp: 00:08:02
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Confirm the speaker and source of the clip; medical rec
 
 ---
 
-**C-5687** In a clip Marx says on medications he was suicidal and more homicidal
+**C-9385** In a clip Marx says on medications he was suicidal and more homicidal
 
 Claim Timestamp: 00:08:52
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Identify the original recording and its date.
 
 ---
 
-**C-5688** Host recaps Corby Hall's claim that Marx tried to broker IDF gun deals
+**C-9386** Host recaps Corby Hall's claim that Marx tried to broker IDF gun deals
 
 Claim Timestamp: 00:08:52
 
@@ -1151,12 +1151,12 @@ Transcript Snippet: we hosted Corby Hall who claimed that Victor Marx was doing 
 Anchored Artifacts: 
 Mentions: N-342, N-341
 Related Nodes: N-10601
-Supports: C-2708
+Supports: C-8169
 Investigative Direction: Review the messages and documents Hall provided on the 50,000-gun request and any ATF or FFL records.
 
 ---
 
-**C-5689** Host says she confirmed Marx conducts a retooling prayer summoning demons on others besides the Halls
+**C-9387** Host says she confirmed Marx conducts a retooling prayer summoning demons on others besides the Halls
 
 Claim Timestamp: 00:08:52
 
@@ -1167,12 +1167,12 @@ Transcript Snippet: we have also confirmed that Victor Marx conducts this {quote
 Anchored Artifacts: 
 Mentions: N-341, N-342, N-344
 Related Nodes: N-11048
-Supports: C-2700
+Supports: C-8150
 Investigative Direction: Identify the other people prayed for and obtain any recordings Marx says he keeps of each session.
 
 ---
 
-**C-5690** Host told Marx conducted such prayers at Turning Point USA headquarters
+**C-9388** Host told Marx conducted such prayers at Turning Point USA headquarters
 
 Claim Timestamp: 00:08:52
 
@@ -1187,7 +1187,7 @@ Investigative Direction: Identify TPUSA staff who attended the sessions and any 
 
 ---
 
-**C-5691** Many people have accused Marx of abuse and he rebuts that they are troubled
+**C-9390** Many people have accused Marx of abuse and he rebuts that they are troubled
 
 Claim Timestamp: 00:10:09
 
@@ -1202,7 +1202,7 @@ Investigative Direction: List the accusers and the dates and venues of each alle
 
 ---
 
-**C-5692** Holly Chalmers accused Marx of kidnapping her across state lines
+**C-9391** Holly Chalmers accused Marx of kidnapping her across state lines
 
 Claim Timestamp: 00:10:09
 
@@ -1217,7 +1217,7 @@ Investigative Direction: Obtain any police or court filings by Holly Chalmers an
 
 ---
 
-**C-5693** Marx says he was rescuing Holly Chalmers from her pedophile boyfriend
+**C-9394** Marx says he was rescuing Holly Chalmers from her pedophile boyfriend
 
 Claim Timestamp: 00:11:03
 
@@ -1232,7 +1232,7 @@ Investigative Direction: Compare Marx's account with Canadian police records on 
 
 ---
 
-**C-5694** Marx's son wrote a letter to a board accusing his father of abusing him and his sister
+**C-9395** Marx's son wrote a letter to a board accusing his father of abusing him and his sister
 
 Claim Timestamp: 00:11:03
 
@@ -1247,7 +1247,7 @@ Investigative Direction: Identify the board and obtain the letter; ask the board
 
 ---
 
-**C-5695** Marx's CEO allegedly offered his daughter $55,000 as quiet money
+**C-9397** Marx's CEO allegedly offered his daughter $55,000 as quiet money
 
 Claim Timestamp: 00:12:37
 
@@ -1262,7 +1262,7 @@ Investigative Direction: Obtain the original post and ask the organization wheth
 
 ---
 
-**C-5696** Daughter's post says parents demanded the board letter be retracted or there would be consequences
+**C-9396** Daughter's post says parents demanded the board letter be retracted or there would be consequences
 
 Claim Timestamp: 00:12:23
 
@@ -1277,7 +1277,7 @@ Investigative Direction: Obtain the daughter's original social media post and th
 
 ---
 
-**C-5697** Marx family members told the show his stepfather backstory is untrue
+**C-9398** Marx family members told the show his stepfather backstory is untrue
 
 Claim Timestamp: 00:13:38
 
@@ -1292,7 +1292,7 @@ Investigative Direction: Identify and interview the family members and obtain an
 
 ---
 
-**C-5698** Host says Marx was invited to appear with Corby Hall and declined
+**C-9399** Host says Marx was invited to appear with Corby Hall and declined
 
 Claim Timestamp: 00:16:54
 
@@ -1303,12 +1303,12 @@ Transcript Snippet: We did invite you to come on the show with Corby, which we a
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342, N-3
 Related Nodes: N-11050
-Supports: C-2735, C-3883
+Supports: C-8258, C-8546
 Investigative Direction: Obtain the invitation messages sent to Marx and his declination.
 
 ---
 
-**C-5699** Marx says he told the host's staff not to have Corby Hall on because he is unstable
+**C-9400** Marx says he told the host's staff not to have Corby Hall on because he is unstable
 
 Claim Timestamp: 00:18:17
 
@@ -1323,7 +1323,7 @@ Investigative Direction: Compare Marx's claimed communications with the show's m
 
 ---
 
-**C-5700** Marx says Corey filed a statement with authorities and the FBI that Hall is homicidal
+**C-9401** Marx says Corey filed a statement with authorities and the FBI that Hall is homicidal
 
 Claim Timestamp: 00:18:17
 
@@ -1338,7 +1338,7 @@ Investigative Direction: Locate the statement Marx cites and any corresponding E
 
 ---
 
-**C-5701** Marx says his past homicidal thoughts were long ago
+**C-9402** Marx says his past homicidal thoughts were long ago
 
 Claim Timestamp: 00:19:19
 
@@ -1349,12 +1349,12 @@ Transcript Snippet: That was a long time ago and I'm thankful I didn't.
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-10785
-Supports: C-5687
+Supports: C-9385
 Investigative Direction: Compare with Marx's published accounts of when the thoughts occurred.
 
 ---
 
-**C-5702** Marx says the FBI and El Paso County Sheriff are seeking Corby Hall
+**C-9403** Marx says the FBI and El Paso County Sheriff are seeking Corby Hall
 
 Claim Timestamp: 00:19:19
 
@@ -1369,7 +1369,7 @@ Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to conf
 
 ---
 
-**C-5703** Host says she only received a message that the FBI was investigating Marx for gun running
+**C-9404** Host says she only received a message that the FBI was investigating Marx for gun running
 
 Claim Timestamp: 00:19:19
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Obtain the message from Corey and ask the FBI whether i
 
 ---
 
-**C-5704** Host says she spoke with Marx's family in Martinsville who call his stories fantastical
+**C-9405** Host says she spoke with Marx's family in Martinsville who call his stories fantastical
 
 Claim Timestamp: 00:21:05
 
@@ -1399,7 +1399,7 @@ Investigative Direction: Identify which relatives spoke to the show and obtain t
 
 ---
 
-**C-5705** Marx offers the name of the FBI agent in charge
+**C-9407** Marx offers the name of the FBI agent in charge
 
 Claim Timestamp: 00:23:09
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Request the agent's name from Marx and verify with the 
 
 ---
 
-**C-5706** Host concedes the two-year Marine Corps figure was wrong
+**C-9409** Host concedes the two-year Marine Corps figure was wrong
 
 Claim Timestamp: 00:24:54
 
@@ -1425,13 +1425,13 @@ Transcript Snippet: We said 2 years and he says it's three.
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-341
 Related Nodes: N-10785
-Supports: C-3710
-Revises: C-5676
+Supports: C-9408
+Revises: C-9373
 Investigative Direction: Compare against the DD-214 Marx cites.
 
 ---
 
-**C-5707** Host says Marx's family notes no news stories about a missing man in the rural community
+**C-9410** Host says Marx's family notes no news stories about a missing man in the rural community
 
 Claim Timestamp: 00:25:47
 
@@ -1446,7 +1446,7 @@ Investigative Direction: Search local newspapers and missing-persons databases f
 
 ---
 
-**C-5708** Marx says he did not grow up in Martinsville, Mississippi
+**C-9411** Marx says he did not grow up in Martinsville, Mississippi
 
 Claim Timestamp: 00:26:33
 
@@ -1461,7 +1461,7 @@ Investigative Direction: Ask Marx where he lived at ages 3 to 7 and compare with
 
 ---
 
-**C-5709** Marx says he did not know who the man was that he says he was forced to kill
+**C-9412** Marx says he did not know who the man was that he says he was forced to kill
 
 Claim Timestamp: 00:27:17
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Check the sheriff's department for any record of the ca
 
 ---
 
-**C-5710** Marx says he called a sheriff's department many years later rather than walking into a police station
+**C-9413** Marx says he called a sheriff's department many years later rather than walking into a police station
 
 Claim Timestamp: 00:27:59
 
@@ -1487,12 +1487,12 @@ Transcript Snippet: So, no, I did not walk into a police station. I called the s
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-11051
-Supports: C-2718
+Supports: C-8132
 Investigative Direction: Request any call log or case record from the sheriff's department Marx names.
 
 ---
 
-**C-5711** Marx says he has not suffered sexual abuse
+**C-9414** Marx says he has not suffered sexual abuse
 
 Claim Timestamp: 00:29:01
 
@@ -1507,7 +1507,7 @@ Investigative Direction: Compare with Marx's book and documentary descriptions o
 
 ---
 
-**C-5712** Marx says the abuse he suffered ran from age 3 to 7
+**C-9415** Marx says the abuse he suffered ran from age 3 to 7
 
 Claim Timestamp: 00:29:49
 
@@ -1522,7 +1522,7 @@ Investigative Direction: Compare the 3-to-7 timeline with his book, documentary 
 
 ---
 
-**C-5713** Marx says his sister appears in his documentary and corroborates the abuse
+**C-9416** Marx says his sister appears in his documentary and corroborates the abuse
 
 Claim Timestamp: 00:30:53
 
@@ -1537,7 +1537,7 @@ Investigative Direction: Watch the documentary and identify the sister and her s
 
 ---
 
-**C-5714** Marx says Charmaine is his half sister and daughter of the abuser
+**C-9417** Marx says Charmaine is his half sister and daughter of the abuser
 
 Claim Timestamp: 00:31:45
 
@@ -1552,7 +1552,7 @@ Investigative Direction: Identify Charmaine and ask whether she has spoken publi
 
 ---
 
-**C-5715** Marx says law enforcement train at his center and he has MOUs with them
+**C-9418** Marx says law enforcement train at his center and he has MOUs with them
 
 Claim Timestamp: 00:33:03
 
@@ -1567,7 +1567,7 @@ Investigative Direction: Request the MOUs and ask the agencies named to confirm.
 
 ---
 
-**C-5716** Marx says the killing is a 40-year-old cold case with no known victim or location
+**C-9419** Marx says the killing is a 40-year-old cold case with no known victim or location
 
 Claim Timestamp: 00:33:22
 
@@ -1578,12 +1578,12 @@ Transcript Snippet: it was 40 years old, we don't know where the house is, we do
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-11051
-Supports: C-2718
+Supports: C-8132
 Investigative Direction: Ask the sheriff's department whether a cold-case file exists and when Marx reported it.
 
 ---
 
-**C-5717** Marx Says He Was Brought to the Site at Night Near Mendenhall or Magee in Simpson County, Mississippi
+**C-9420** Marx Says He Was Brought to the Site at Night Near Mendenhall or Magee in Simpson County, Mississippi
 
 Claim Timestamp: 00:34:21
 
@@ -1598,7 +1598,7 @@ Investigative Direction: Contact the Simpson County Sheriff's Department about a
 
 ---
 
-**C-5718** Marx says he tried being a pastor but was not called to it
+**C-9421** Marx says he tried being a pastor but was not called to it
 
 Claim Timestamp: 00:35:11
 
@@ -1613,7 +1613,7 @@ Investigative Direction: Compare with older website text and ordination or churc
 
 ---
 
-**C-5719** Marx says Christ gave believers authority to cast out demons and he believes it
+**C-9422** Marx says Christ gave believers authority to cast out demons and he believes it
 
 Claim Timestamp: 00:37:00
 
@@ -1628,7 +1628,7 @@ Investigative Direction: Obtain Marx's films and teaching materials describing t
 
 ---
 
-**C-5720** Marx says his deliverance prayer began with youth prison ministry
+**C-9423** Marx says his deliverance prayer began with youth prison ministry
 
 Claim Timestamp: 00:38:03
 
@@ -1643,7 +1643,7 @@ Investigative Direction: Identify the facilities, dates and chaplaincy approvals
 
 ---
 
-**C-5721** Marx says he does not charge for deliverance and holds over 6,000 letters from kids
+**C-9424** Marx says he does not charge for deliverance and holds over 6,000 letters from kids
 
 Claim Timestamp: 00:38:03
 
@@ -1658,7 +1658,7 @@ Investigative Direction: Ask to inspect the letters and the ministry's donation 
 
 ---
 
-**C-5722** Marx says a prayer session averages 10 to 15 minutes and is not dramatic
+**C-9425** Marx says a prayer session averages 10 to 15 minutes and is not dramatic
 
 Claim Timestamp: 00:39:08
 
@@ -1673,7 +1673,7 @@ Investigative Direction: Compare with Melody Hall's own description of the praye
 
 ---
 
-**C-5723** Marx points to his free film The Unseen War
+**C-9426** Marx points to his free film The Unseen War
 
 Claim Timestamp: 00:39:58
 
@@ -1688,7 +1688,7 @@ Investigative Direction: Watch the film and compare its claims with Marx's on-ai
 
 ---
 
-**C-5724** Marx says every prayer session is recorded on audio or video
+**C-9427** Marx says every prayer session is recorded on audio or video
 
 Claim Timestamp: 00:41:09
 
@@ -1703,7 +1703,7 @@ Investigative Direction: Ask for the recordings of the sessions with Corby and M
 
 ---
 
-**C-5725** Marx says he prayed for Charlie only, not Erika, at Charlie's request
+**C-9429** Marx says he prayed for Charlie only, not Erika, at Charlie's request
 
 Claim Timestamp: 00:42:11
 
@@ -1714,12 +1714,12 @@ Transcript Snippet: Just Charlie. He asked me to.
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1, N-2
 Related Nodes: N-10000, N-11048
-Supports: C-3711
+Supports: C-9428
 Investigative Direction: Ask TPUSA staff who the three others were and whether sessions were recorded.
 
 ---
 
-**C-5726** Marx says he met Charlie Kirk at a small Hispanic church in California
+**C-9430** Marx says he met Charlie Kirk at a small Hispanic church in California
 
 Claim Timestamp: 00:42:11
 
@@ -1734,7 +1734,7 @@ Investigative Direction: Identify the church and event date through event listin
 
 ---
 
-**C-5727** Marx says Charlie was already married to Erika when they met
+**C-9431** Marx says Charlie was already married to Erika when they met
 
 Claim Timestamp: 00:43:17
 
@@ -1749,7 +1749,7 @@ Investigative Direction: Date the meeting against the Kirks' wedding date.
 
 ---
 
-**C-5728** Marx says he and Charlie never had a falling out
+**C-9432** Marx says he and Charlie never had a falling out
 
 Claim Timestamp: 00:43:58
 
@@ -1760,12 +1760,12 @@ Transcript Snippet: Yeah. No, we never had a falling out.
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
 Related Nodes: N-10605
-Contradicts: C-4009
+Contradicts: C-9156
 Investigative Direction: Ask TPUSA sources who relayed the falling-out account and compare with the Instagram follow history.
 
 ---
 
-**C-5729** Marx says Charlie Kirk's Instagram account still follows him
+**C-9433** Marx says Charlie Kirk's Instagram account still follows him
 
 Claim Timestamp: 00:43:58
 
@@ -1776,12 +1776,12 @@ Transcript Snippet: He still follows me. He was following me.
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
 Related Nodes: N-10605
-Contradicts: C-4009
+Contradicts: C-9156
 Investigative Direction: Check archived captures of Charlie Kirk's Instagram following list.
 
 ---
 
-**C-5730** Host says Marx's video preceded the announcement by about an hour and twenty minutes and matched the family finding out
+**C-9434** Host says Marx's video preceded the announcement by about an hour and twenty minutes and matched the family finding out
 
 Claim Timestamp: 00:43:58
 
@@ -1792,12 +1792,12 @@ Transcript Snippet: it would have been it to the you know, to the minute about t
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-341, N-1
 Related Nodes: N-10622
-Supports: C-3702
+Supports: C-9362
 Investigative Direction: Reconstruct the hospital notification time and the Instagram post time from archives.
 
 ---
 
-**C-5731** Marx says he got a text that Charlie was shot and it did not look good
+**C-9436** Marx says he got a text that Charlie was shot and it did not look good
 
 Claim Timestamp: 00:46:02
 
@@ -1812,7 +1812,7 @@ Investigative Direction: Identify the texter and obtain the message and its time
 
 ---
 
-**C-5732** Marx says his former special operations team viewed the video multiple times
+**C-9437** Marx says his former special operations team viewed the video multiple times
 
 Claim Timestamp: 00:46:02
 
@@ -1823,12 +1823,12 @@ Transcript Snippet: my team uh many who are former special operations guys in co
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1
 Related Nodes: N-10622
-Supports: C-3713
+Supports: C-9435
 Investigative Direction: Ask Marx to identify the team members and when each viewed the video.
 
 ---
 
-**C-5733** Marx says he posted that Charlie had passed, then pulled it down as premature
+**C-9438** Marx says he posted that Charlie had passed, then pulled it down as premature
 
 Claim Timestamp: 00:46:02
 
@@ -1839,12 +1839,12 @@ Transcript Snippet: I thought it was premature and I I pulled it down cuz it jus
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-1, N-7
 Related Nodes: N-10622
-Supports: C-3702
+Supports: C-9362
 Investigative Direction: Compare with the archived post and with the host's account of two posts.
 
 ---
 
-**C-5734** Marx says he texted Erika that nobody was going to kill her and they only wanted Charlie
+**C-9439** Marx says he texted Erika that nobody was going to kill her and they only wanted Charlie
 
 Claim Timestamp: 00:47:15
 
@@ -1859,7 +1859,7 @@ Investigative Direction: Obtain the text with its timestamp from Marx or Erika K
 
 ---
 
-**C-5735** Host says Marx first posted that Charlie was shot, then that he had passed
+**C-9440** Host says Marx first posted that Charlie was shot, then that he had passed
 
 Claim Timestamp: 00:47:56
 
@@ -1870,12 +1870,12 @@ Transcript Snippet: you did make a post initially saying he had been shot, pray 
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-341, N-1, N-2
 Related Nodes: N-10622
-Supports: C-3702
+Supports: C-9362
 Investigative Direction: Pull archived copies of both posts with their timestamps.
 
 ---
 
-**C-5736** Host says Jack Hibbs took down a video saying an Israel channel reported Charlie's death first
+**C-9441** Host says Jack Hibbs took down a video saying an Israel channel reported Charlie's death first
 
 Claim Timestamp: 00:47:56
 
@@ -1886,12 +1886,12 @@ Transcript Snippet: Jack Hibbs took down a video saying that actually there was 
 Anchored Artifacts: A-2510.1
 Mentions: N-3, N-208, N-348, N-341
 Related Nodes: N-10622, N-10026
-Supports: C-3713
+Supports: C-9435
 Investigative Direction: Obtain Jack Hibbs's removed video and identify the Israeli channel and time of its report.
 
 ---
 
-**C-5737** Marx says his first post asked for prayer and he relied on gut level from watching the video
+**C-9442** Marx says his first post asked for prayer and he relied on gut level from watching the video
 
 Claim Timestamp: 00:47:56
 
@@ -1906,7 +1906,7 @@ Investigative Direction: Compare with his earlier statement that he posted Charl
 
 ---
 
-**C-5738** Marx says his team went to relieve Charlie's first security team
+**C-9443** Marx says his team went to relieve Charlie's first security team
 
 Claim Timestamp: 00:50:07
 
@@ -1921,7 +1921,7 @@ Investigative Direction: Identify the security team members and Marx's team memb
 
 ---
 
-**C-5739** Marx says Eileen is like a second mom to Erika
+**C-9444** Marx says Eileen is like a second mom to Erika
 
 Claim Timestamp: 00:50:07
 
@@ -1936,7 +1936,7 @@ Investigative Direction: Ask Erika Kirk's office to confirm the relationship and
 
 ---
 
-**C-5740** Marx says his group did no physical operations in Eastern Europe
+**C-9445** Marx says his group did no physical operations in Eastern Europe
 
 Claim Timestamp: 00:51:20
 
@@ -1951,7 +1951,7 @@ Investigative Direction: Compare with his travel disclosures and ministry report
 
 ---
 
-**C-5741** Marx says he worked for Dr. James Dobson as an assistant
+**C-9446** Marx says he worked for Dr. James Dobson as an assistant
 
 Claim Timestamp: 00:51:20
 
@@ -1966,7 +1966,7 @@ Investigative Direction: Ask Focus on the Family or Dobson's organization to con
 
 ---
 
-**C-5742** Marx Says He Served in the Marine Corps Under President Reagan
+**C-9447** Marx Says He Served in the Marine Corps Under President Reagan
 
 Claim Timestamp: 00:51:20
 
@@ -1981,7 +1981,7 @@ Investigative Direction: Check Marx's DD-214 for his unit and assignment; the tr
 
 ---
 
-**C-5743** Marx says Dave Eubank invited him to Burma
+**C-9448** Marx says Dave Eubank invited him to Burma
 
 Claim Timestamp: 00:52:40
 
@@ -1996,7 +1996,7 @@ Investigative Direction: Ask Eubank's organization to confirm the invitation and
 
 ---
 
-**C-5744** Marx says the Kurdistan government gave an official invitation for his Iraq work
+**C-9449** Marx says the Kurdistan government gave an official invitation for his Iraq work
 
 Claim Timestamp: 00:52:59
 
@@ -2011,7 +2011,7 @@ Investigative Direction: Request the invitation documentation from Marx's minist
 
 ---
 
-**C-5745** Marx says his first trip to the Iraq hot zone was in early 2015
+**C-9450** Marx says his first trip to the Iraq hot zone was in early 2015
 
 Claim Timestamp: 00:52:59
 
@@ -2026,7 +2026,7 @@ Investigative Direction: Compare with travel records, photos and ministry report
 
 ---
 
-**C-5746** Marx says a Yazidi girl gave Eileen a phone belonging to an ISIS emir
+**C-9451** Marx says a Yazidi girl gave Eileen a phone belonging to an ISIS emir
 
 Claim Timestamp: 00:54:10
 
@@ -2041,7 +2041,7 @@ Investigative Direction: Ask Marx where the phone went and to whom it was turned
 
 ---
 
-**C-5747** Marx says his ministry never took governmental funding
+**C-9452** Marx says his ministry never took governmental funding
 
 Claim Timestamp: 00:54:10
 
@@ -2056,7 +2056,7 @@ Investigative Direction: Review the ministry's Form 990s and grant disclosures.
 
 ---
 
-**C-5748** Marx says rescuing women and children was not the focus of his work
+**C-9453** Marx says rescuing women and children was not the focus of his work
 
 Claim Timestamp: 00:54:10
 
@@ -2071,7 +2071,7 @@ Investigative Direction: Compare with the 45,000 'rescued' figure on the campaig
 
 ---
 
-**C-5749** Host says she believes Marx said 45,000 in a Shawn Ryan show clip
+**C-9455** Host says she believes Marx said 45,000 in a Shawn Ryan show clip
 
 Claim Timestamp: 00:56:05
 
@@ -2082,12 +2082,12 @@ Transcript Snippet: I'm pretty sure you said 45,000.
 Anchored Artifacts: A-2776.1
 Mentions: N-3, N-341, N-224
 Related Nodes: N-10893
-Contradicts: C-3716
+Contradicts: C-9454
 Investigative Direction: Watch the Shawn Ryan interview and check the exact phrasing Marx used about 45,000.
 
 ---
 
-**C-5750** Marx says his group has provided trauma relief and some have definitely been rescued
+**C-9456** Marx says his group has provided trauma relief and some have definitely been rescued
 
 Claim Timestamp: 00:56:05
 
@@ -2098,12 +2098,12 @@ Transcript Snippet: We've helped. We've provided trauma relief and some we've de
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-10893, N-11047
-Contradicts: C-3716
+Contradicts: C-9454
 Investigative Direction: Ask for documented counts of persons rescued versus assisted.
 
 ---
 
-**C-5751** Marx says he will not declare the total number rescued for security reasons
+**C-9457** Marx says he will not declare the total number rescued for security reasons
 
 Claim Timestamp: 00:57:22
 
@@ -2118,7 +2118,7 @@ Investigative Direction: Ask for any anonymized or audited count.
 
 ---
 
-**C-5752** Marx says his last mission rescued a mother held 9 years by ISIS
+**C-9458** Marx says his last mission rescued a mother held 9 years by ISIS
 
 Claim Timestamp: 00:57:22
 
@@ -2133,7 +2133,7 @@ Investigative Direction: Ask Marx for the documentation and the safe-house photo
 
 ---
 
-**C-5753** Marx says some organizations posing as counter-trafficking are actually traffickers
+**C-9459** Marx says some organizations posing as counter-trafficking are actually traffickers
 
 Claim Timestamp: 01:00:07
 
@@ -2148,7 +2148,7 @@ Investigative Direction: Ask Marx which organizations he means.
 
 ---
 
-**C-5754** Marx says he has operators with top clearances from CIA, Joint Task Force or Delta
+**C-9460** Marx says he has operators with top clearances from CIA, Joint Task Force or Delta
 
 Claim Timestamp: 01:00:27
 
@@ -2163,7 +2163,7 @@ Investigative Direction: Ask Marx to name the operators and verify through them.
 
 ---
 
-**C-5755** Marx says he has never been paid by any government
+**C-9461** Marx says he has never been paid by any government
 
 Claim Timestamp: 01:01:24
 
@@ -2178,7 +2178,7 @@ Investigative Direction: Review the ministry's financial filings for government 
 
 ---
 
-**C-5756** Marx says a Southeast Asia safe house sent a video unprompted in response to the allegations
+**C-9462** Marx says a Southeast Asia safe house sent a video unprompted in response to the allegations
 
 Claim Timestamp: 01:01:24
 
@@ -2193,7 +2193,7 @@ Investigative Direction: Obtain the video from Marx's social media and check its
 
 ---
 
-**C-5757** Marx offers to take the host to the Middle East and Southeast Asia under an NDA
+**C-9463** Marx offers to take the host to the Middle East and Southeast Asia under an NDA
 
 Claim Timestamp: 01:02:21
 
@@ -2208,7 +2208,7 @@ Investigative Direction: Ask whether the host accepts the invitation and the ter
 
 ---
 
-**C-5758** Marx says an HSI human trafficking specialist approved Holly's crossing and gave her temporary status
+**C-9464** Marx says an HSI human trafficking specialist approved Holly's crossing and gave her temporary status
 
 Claim Timestamp: 01:03:24
 
@@ -2223,7 +2223,7 @@ Investigative Direction: Ask HSI and CBP for records of the crossing and any par
 
 ---
 
-**C-5759** Marx says a Canadian couple posted a video of Holly telling the truth the day before
+**C-9465** Marx says a Canadian couple posted a video of Holly telling the truth the day before
 
 Claim Timestamp: 01:04:41
 
@@ -2238,7 +2238,7 @@ Investigative Direction: Locate the couple's video and check its post date.
 
 ---
 
-**C-5760** Marx Alleges Holly's Pedophile Groomed Her From 13 and Had Sex With Her at 15
+**C-9466** Marx Alleges Holly's Pedophile Groomed Her From 13 and Had Sex With Her at 15
 
 Claim Timestamp: 01:04:41
 
@@ -2253,7 +2253,7 @@ Investigative Direction: Check Canadian court and police records on the boyfrien
 
 ---
 
-**C-5761** Marx says people told Holly she could make millions by suing him for trafficking
+**C-9467** Marx says people told Holly she could make millions by suing him for trafficking
 
 Claim Timestamp: 01:05:43
 
@@ -2268,7 +2268,7 @@ Investigative Direction: Ask Marx for the source of this report and any document
 
 ---
 
-**C-5762** Marx says he made 123 visits to a trauma specialist
+**C-9468** Marx says he made 123 visits to a trauma specialist
 
 Claim Timestamp: 01:07:29
 
@@ -2283,7 +2283,7 @@ Investigative Direction: Compare with his book and talks where he gives the figu
 
 ---
 
-**C-5763** Host says Marx went on Charlie Kirk's show after October 7 and described IDF relationships
+**C-9469** Host says Marx went on Charlie Kirk's show after October 7 and described IDF relationships
 
 Claim Timestamp: 01:07:29
 
@@ -2294,12 +2294,12 @@ Transcript Snippet: You went on Charlie Kirk's show after October 7th. You've sa
 Anchored Artifacts: A-2778.1
 Mentions: N-3, N-341, N-1
 Related Nodes: N-10618
-Supports: C-4010, C-4011
+Supports: C-9157, C-9158
 Investigative Direction: Retrieve the Charlie Kirk Show episode and compare Marx's remarks.
 
 ---
 
-**C-5764** Marx says he went into the West Bank and Gaza to pray
+**C-9473** Marx says he went into the West Bank and Gaza to pray
 
 Claim Timestamp: 01:10:07
 
@@ -2310,12 +2310,12 @@ Transcript Snippet: I went into the West Bank and yes, I did go into Gaza by vir
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-10063
-Supports: C-3712
+Supports: C-9470
 Investigative Direction: Check travel records and the IDF coordination Marx describes.
 
 ---
 
-**C-5765** Marx says the delay was strange because it is a 20-minute helicopter flight
+**C-9474** Marx says the delay was strange because it is a 20-minute helicopter flight
 
 Claim Timestamp: 01:10:59
 
@@ -2326,12 +2326,12 @@ Transcript Snippet: It's a 20-minute flight by helicopter. It's a 45-minute driv
 Anchored Artifacts: A-2510.1
 Mentions: N-341
 Related Nodes: N-10026
-Supports: C-3714
+Supports: C-9471
 Investigative Direction: Check Israeli military timelines and the official inquiry findings on response times.
 
 ---
 
-**C-5766** Marx says over 2,000 rockets were fired at his team on the Israeli side
+**C-9475** Marx says over 2,000 rockets were fired at his team on the Israeli side
 
 Claim Timestamp: 01:10:59
 
@@ -2346,7 +2346,7 @@ Investigative Direction: Compare with rocket-fire logs for the dates and areas o
 
 ---
 
-**C-5767** Marx says what is happening in Gaza has turned into a genocide
+**C-9476** Marx says what is happening in Gaza has turned into a genocide
 
 Claim Timestamp: 01:11:53
 
@@ -2361,7 +2361,7 @@ Investigative Direction: Compare with Marx's prior public statements on Gaza.
 
 ---
 
-**C-5768** Marx says he told Fox that Hamas should stop firing and return the hostages
+**C-9477** Marx says he told Fox that Hamas should stop firing and return the hostages
 
 Claim Timestamp: 01:11:53
 
@@ -2376,7 +2376,7 @@ Investigative Direction: Find the Fox News appearance and Marx's online posts.
 
 ---
 
-**C-5769** Marx says he has an FFL and buys only for his training
+**C-9479** Marx says he has an FFL and buys only for his training
 
 Claim Timestamp: 01:14:27
 
@@ -2387,13 +2387,13 @@ Transcript Snippet: I have an FFL. I only buy stuff for our self for our trainin
 Anchored Artifacts: A-2510.1
 Mentions: N-341, N-342
 Related Nodes: N-10601
-Supports: C-2749
-Contradicts: C-2708
+Supports: C-8324
+Contradicts: C-8169
 Investigative Direction: Check ATF licensing records and the Fold AR communications Hall supplied.
 
 ---
 
-**C-5770** Marx says authorities contacted him asking where Corby Hall is
+**C-9480** Marx says authorities contacted him asking where Corby Hall is
 
 Claim Timestamp: 01:15:22
 
@@ -2408,7 +2408,7 @@ Investigative Direction: Ask the agencies named to confirm contacting Marx and H
 
 ---
 
-**C-5771** Marx says the FBI has contacted his team and there is an open investigation looking for Hall
+**C-9481** Marx says the FBI has contacted his team and there is an open investigation looking for Hall
 
 Claim Timestamp: 01:16:39
 
@@ -2423,7 +2423,7 @@ Investigative Direction: Ask the FBI and El Paso County Sheriff's Office to conf
 
 ---
 
-**C-5772** Marx points to voodoo rituals against boys as context for his story
+**C-9482** Marx points to voodoo rituals against boys as context for his story
 
 Claim Timestamp: 01:22:20
 
@@ -2438,7 +2438,7 @@ Investigative Direction: Ask Marx whether the abuse he describes involved ritual
 
 ---
 
-**C-5773** Marx suggests the host is being paid to discourage votes for him; host says she left politics after Charlie died
+**C-9483** Marx suggests the host is being paid to discourage votes for him; host says she left politics after Charlie died
 
 Claim Timestamp: 01:23:21
 
@@ -2452,7 +2452,7 @@ Investigative Direction: Compare the host's statements and funding disclosures.
 
 ---
 
-**C-5774** Host says Charlie's parents are in deep grief and acting as a widow might have
+**C-9484** Host says Charlie's parents are in deep grief and acting as a widow might have
 
 Claim Timestamp: 01:27:30
 
@@ -2466,7 +2466,7 @@ Investigative Direction: Identify the host's sources and any public statements b
 
 ---
 
-**C-5775** Host says Charlie said on stage in Aspen that his wife does a lot of work for TPUSA Faith
+**C-9485** Host says Charlie said on stage in Aspen that his wife does a lot of work for TPUSA Faith
 
 Claim Timestamp: 01:35:59
 
@@ -2481,7 +2481,7 @@ Investigative Direction: Locate the Aspen recording and the exact wording.
 
 ---
 
-**C-5776** Host says Erika Kirk was driving Turning Point Faith, explaining her closeness with Eileen Marx
+**C-9486** Host says Erika Kirk was driving Turning Point Faith, explaining her closeness with Eileen Marx
 
 Claim Timestamp: 01:35:59
 
@@ -2496,7 +2496,7 @@ Investigative Direction: Review TPUSA Faith leadership and event records for Eri
 
 ---
 
-**C-5777** Host infers Erika brought Marx and others around Charlie and pushed relationships
+**C-9487** Host infers Erika brought Marx and others around Charlie and pushed relationships
 
 Claim Timestamp: 01:36:38
 
@@ -2511,7 +2511,7 @@ Investigative Direction: Seek TPUSA staff or Kirk family accounts of who introdu
 
 ---
 
-**C-5778** Host says the show is funded exclusively by viewers and advertisers
+**C-9488** Host says the show is funded exclusively by viewers and advertisers
 
 Claim Timestamp: 01:37:26
 

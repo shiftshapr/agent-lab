@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-748, N-11069
   - Hole-minted Nodes (reintro-ep141): N-10805
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-6008–C-6090
+  - Claim Range: C-12113–C-12208
   - (see registers)
 
 ---
@@ -40,7 +40,6 @@
 **Episode 141 Ledger Summary**
 
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
-- Claim Range: C-3277–C-3289
   - New Nodes Introduced: N-10794, N-10795, N-10796
   - Reused Nodes Appearing: N-18, N-561, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
@@ -71,7 +70,7 @@ Video Timestamp: 00:18:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3277, C-3289, N-10794, N-10795*
+*Related: C-12139, C-12143, N-10794, N-10795*
 
 **A-2277.2** Debate Segment – Wilson's 75–85% Confidence Estimate
 
@@ -81,7 +80,7 @@ Video Timestamp: 00:22:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3278*
+*Related: C-12149*
 
 **A-2277.3** Debate Segment – Wilson's Repeated Use of "Positive Evidence"
 
@@ -91,7 +90,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3280*
+*Related: C-12153*
 
 **A-2277.4** Debate Segment – Wilson Unable to Name Any of Seven Charges
 
@@ -101,7 +100,7 @@ Video Timestamp: 00:44:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3279*
+*Related: C-12172*
 
 **A-2277.5** Debate Segment – Screwdriver and Timeline Discussion
 
@@ -121,7 +120,7 @@ Video Timestamp: 00:39:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3281*
+*Related: C-12124*
 
 **A-2277.7** Debate Segment – Wilson's False Attribution of "Girl Boss" to Owens
 
@@ -145,7 +144,7 @@ Video Timestamp: 01:01:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3287, N-18*
+*Related: C-12182, N-18*
 
 ---
 
@@ -159,7 +158,7 @@ Video Timestamp: 01:02:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3288*
+*Related: C-12185*
 
 ---
 
@@ -173,7 +172,7 @@ Video Timestamp: 01:04:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3285*
+*Related: C-12189*
 
 **A-2280.2** Rachel Wilson X Post – Acknowledging Owens Knew Case Details Better
 
@@ -183,7 +182,7 @@ Video Timestamp: 01:08:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3284*
+*Related: C-12193*
 
 ---
 
@@ -197,7 +196,7 @@ Video Timestamp: 01:06:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3282, N-18*
+*Related: C-12191, N-18*
 
 ---
 
@@ -211,7 +210,7 @@ Video Timestamp: 01:00:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3283*
+*Related: C-12180*
 
 ---
 
@@ -225,7 +224,7 @@ Video Timestamp: 00:42:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3286, N-10795, N-18*
+*Related: C-12171, N-10795, N-18*
 
 ---
 
@@ -238,7 +237,7 @@ Video Timestamp: 00:34:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6049, N-3, N-18*
+*Related: C-12159, N-3, N-18*
 
 ---
 
@@ -249,7 +248,7 @@ Video Timestamp: 00:35:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6050, C-6051, C-6052, N-2, N-3, N-506*
+*Related: C-12160, C-12161, C-12162, N-2, N-3, N-506*
 
 ---
 
@@ -260,7 +259,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6063, C-6064, C-6065, C-6067, N-3, N-40*
+*Related: C-12175, C-12176, C-12177, C-12179, N-3, N-40*
 
 ---
 
@@ -273,7 +272,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6035, N-1, N-2*
+*Related: C-12142, N-1, N-2*
 
 ---
 
@@ -286,7 +285,7 @@ Video Timestamp: 01:23:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6087, N-3, N-18*
+*Related: C-12205, N-3, N-18*
 
 ---
 
@@ -299,7 +298,7 @@ Video Timestamp: 00:03:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6013, C-6014, C-6015, C-6016, C-6018, C-6024, N-3, N-18, N-268*
+*Related: C-12118, C-12119, C-12120, C-12121, C-12123, C-12130, N-3, N-18, N-268*
 
 ---
 
@@ -310,7 +309,7 @@ Video Timestamp: 00:09:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-748*
+*Related: C-12126, C-12127, C-12135, C-12165, N-3, N-18, N-748*
 
 ---
 
@@ -321,7 +320,7 @@ Video Timestamp: 00:10:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6022, C-6023, N-3, N-18*
+*Related: C-12128, C-12129, N-3, N-18*
 
 ---
 
@@ -334,7 +333,7 @@ Video Timestamp: 00:32:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6047, N-3, N-18*
+*Related: C-12157, N-3, N-18*
 
 ---
 
@@ -349,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2277.1, C-3277*
+*Related: A-2277.1, C-12139*
 
 **N-10795** Wilson's Promised Release of "Never-Before-Seen Messages"
 
@@ -360,7 +359,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2277.1, A-2283.1, C-3277, C-3286*
+*Related: A-2277.1, A-2283.1, C-12139, C-12171*
 
 **N-10796** Turning Point USA Organizational State (Post-Debate)
 
@@ -380,7 +379,7 @@ Investigative Pressure: High
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
 
-*Related: C-3277, C-3278, C-3279, C-3280, C-3281, C-3282*
+*Related: C-12139, C-12149, C-12172, C-12153, C-12124, C-12191*
 
 ---
 
@@ -388,7 +387,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 Subject of the played message about his security and of the host's remarks on his training of her and his children's wealth.
 
-*Related: C-6009, C-6033, C-6034, C-6035, C-6047, C-6049, C-6077, C-6080*
+*Related: C-12114, C-12141, C-12140, C-12142, C-12157, C-12159, C-12195, C-12198*
 
 ---
 
@@ -396,7 +395,7 @@ Subject of the played message about his security and of the host's remarks on hi
 
 Subject of the host's account of the Signal-versus-iMessage message, the played phone clip and the host's remarks on her role.
 
-*Related: C-6032, C-6035, C-6036, C-6037, C-6038, C-6039, C-6042, C-6047, C-6049, C-6052, C-6053, C-6054, C-6070, C-6084*
+*Related: C-12138, C-12142, C-12144, C-12145, C-12146, C-12147, C-12151, C-12157, C-12159, C-12162, C-12163, C-12164, C-12184, C-12202*
 
 ---
 
@@ -404,7 +403,7 @@ Subject of the host's account of the Signal-versus-iMessage message, the played 
 
 Host; speaker of the debate recap and the account of the negotiation.
 
-*Related: C-6008, C-6009, C-6010, C-6011, C-6012, C-6013, C-6014, C-6015, C-6016, C-6017, C-6018, C-6019, C-6020, C-6021, C-6022, C-6023, C-6024, C-6025, C-6026, C-6027, C-6028, C-6029, C-6030, C-6031, C-6032, C-6036, C-6037, C-6038, C-6039, C-6040, C-6041, C-6042, C-6043, C-6044, C-6045, C-6046, C-6047, C-6048, C-6049, C-6050, C-6051, C-6052, C-6053, C-6054, C-6055, C-6056, C-6057, C-6058, C-6059, C-6060, C-6061, C-6062, C-6063, C-6064, C-6065, C-6066, C-6067, C-6068, C-6069, C-6071, C-6072, C-6073, C-6074, C-6075, C-6076, C-6077, C-6078, C-6079, C-6080, C-6081, C-6082, C-6083, C-6084, C-6085, C-6086, C-6087, C-6088, C-6089, C-6090*
+*Related: C-12113, C-12114, C-12115, C-12116, C-12117, C-12118, C-12119, C-12120, C-12121, C-12122, C-12123, C-12125, C-12126, C-12127, C-12128, C-12129, C-12130, C-12131, C-12132, C-12133, C-12134, C-12135, C-12136, C-12137, C-12138, C-12144, C-12145, C-12146, C-12147, C-12148, C-12150, C-12151, C-12152, C-12154, C-12155, C-12156, C-12157, C-12158, C-12159, C-12160, C-12161, C-12162, C-12163, C-12164, C-12165, C-12166, C-12167, C-12168, C-12169, C-12170, C-12173, C-12174, C-12175, C-12176, C-12177, C-12178, C-12179, C-12181, C-12183, C-12186, C-12187, C-12188, C-12190, C-12192, C-12194, C-12195, C-12196, C-12197, C-12198, C-12199, C-12200, C-12201, C-12202, C-12203, C-12204, C-12205, C-12206, C-12207, C-12208*
 
 ---
 
@@ -412,7 +411,7 @@ Host; speaker of the debate recap and the account of the negotiation.
 
 Named as having retweeted Wilson and in the account of what Dan Flood did not tell Erika. Transcript spelling includes Kvette.
 
-*Related: C-6037, C-6078*
+*Related: C-12145, C-12196*
 
 ---
 
@@ -420,7 +419,7 @@ Named as having retweeted Wilson and in the account of what Dan Flood did not te
 
 Defendant whose charges, receipt and evidence are debated.
 
-*Related: C-6046, C-6053, C-6059, C-6060, C-6061, C-6062, C-6063, C-6064, C-6065, C-6066, C-6067, C-6077, C-6088*
+*Related: C-12156, C-12163, C-12169, C-12170, C-12173, C-12174, C-12175, C-12176, C-12177, C-12178, C-12179, C-12195, C-12206*
 
 ---
 
@@ -428,7 +427,7 @@ Defendant whose charges, receipt and evidence are debated.
 
 Named in the claim that officials never said his DNA was on the rifle.
 
-*Related: C-6057*
+*Related: C-12167*
 
 ---
 
@@ -436,7 +435,7 @@ Named in the claim that officials never said his DNA was on the rifle.
 
 Debate moderator; named as accepting the role, joining the FaceTime call and having a direct line to the producers.
 
-*Related: C-6017, C-6019, C-6020, C-6022, C-6054, C-6074*
+*Related: C-12122, C-12125, C-12126, C-12128, C-12164, C-12190*
 
 ---
 
@@ -444,7 +443,7 @@ Debate moderator; named as accepting the role, joining the FaceTime call and hav
 
 Named (transcript spelling Michael Knowles) as declining to moderate and as demanding a trust be set up.
 
-*Related: C-6017, C-6077*
+*Related: C-12122, C-12195*
 
 ---
 
@@ -452,7 +451,7 @@ Named (transcript spelling Michael Knowles) as declining to moderate and as dema
 
 Named in the host's pledge to look after people who supported her.
 
-*Related: C-6081*
+*Related: C-12199*
 
 ---
 
@@ -460,7 +459,7 @@ Named in the host's pledge to look after people who supported her.
 
 Named (transcript spelling Blake Neff) as retweeting Wilson.
 
-*Related: C-6078*
+*Related: C-12196*
 
 ---
 
@@ -468,7 +467,7 @@ Named (transcript spelling Blake Neff) as retweeting Wilson.
 
 Named in the host's account of her unpaid annual debates.
 
-*Related: C-6079*
+*Related: C-12197*
 
 ---
 
@@ -476,7 +475,7 @@ Named in the host's account of her unpaid annual debates.
 
 Named as the host of Erika Kirk's December interview in which she said she had Charlie's phone.
 
-*Related: C-6035, C-6036*
+*Related: C-12142, C-12144*
 
 ---
 
@@ -484,7 +483,7 @@ Named as the host of Erika Kirk's December interview in which she said she had C
 
 Named in the account of Wilson's party and the post-debate call; the host says she has never met him.
 
-*Related: C-6025, C-6028, C-6073, C-6075, C-6086*
+*Related: C-12131, C-12134, C-12188, C-12192, C-12204*
 
 ---
 
@@ -492,7 +491,7 @@ Named in the account of Wilson's party and the post-debate call; the host says s
 
 Named in the account of the Texas hosting offer.
 
-*Related: C-6015*
+*Related: C-12120*
 
 ---
 
@@ -500,7 +499,7 @@ Named in the account of the Texas hosting offer.
 
 Named as the source the host believes sent the message and who allegedly did not tell Erika.
 
-*Related: C-6037*
+*Related: C-12145*
 
 ---
 
@@ -508,7 +507,7 @@ Named as the source the host believes sent the message and who allegedly did not
 
 Named as the office to which the host says she handed the Foreign Legion threat information.
 
-*Related: C-6044*
+*Related: C-12154*
 
 ---
 
@@ -516,7 +515,7 @@ Named as the office to which the host says she handed the Foreign Legion threat 
 
 Officer named in the played Q&A about the body cam and the screwdriver.
 
-*Related: C-6050, C-6051*
+*Related: C-12160, C-12161*
 
 ---
 
@@ -524,7 +523,7 @@ Officer named in the played Q&A about the body cam and the screwdriver.
 
 Named in the earpiece claims and as having spoken to TPUSA executives according to Wilson.
 
-*Related: C-6071, C-6072, C-6074, C-6083*
+*Related: C-12186, C-12187, C-12190, C-12201*
 
 ---
 
@@ -532,7 +531,7 @@ Named in the earpiece claims and as having spoken to TPUSA executives according 
 
 Organization the host says paid and backed Wilson.
 
-*Related: C-6008, C-6010, C-6031, C-6047, C-6049, C-6078, C-6083, C-6084, C-6090*
+*Related: C-12113, C-12115, C-12137, C-12157, C-12159, C-12196, C-12201, C-12202, C-12208*
 
 ---
 
@@ -540,7 +539,7 @@ Organization the host says paid and backed Wilson.
 
 Place named in the played exchange about who called the shots.
 
-*Related: C-6045*
+*Related: C-12155*
 
 ---
 
@@ -548,7 +547,7 @@ Place named in the played exchange about who called the shots.
 
 Topic tied to the planted-screwdriver exchange.
 
-*Related: C-6050*
+*Related: C-12160*
 
 ---
 
@@ -556,7 +555,7 @@ Topic tied to the planted-screwdriver exchange.
 
 Topic tied to the in-ear monitor claims.
 
-*Related: C-6071, C-6072, C-6074*
+*Related: C-12186, C-12187, C-12190*
 
 ---
 
@@ -564,7 +563,7 @@ Topic tied to the in-ear monitor claims.
 
 Topic tied to the Foreign Legion threat exchange.
 
-*Related: C-6044*
+*Related: C-12154*
 
 ---
 
@@ -572,7 +571,7 @@ Topic tied to the Foreign Legion threat exchange.
 
 Topic tied to the Converse sneakers identification testimony.
 
-*Related: C-6066*
+*Related: C-12178*
 
 ---
 
@@ -580,7 +579,7 @@ Topic tied to the Converse sneakers identification testimony.
 
 Topic tied to the receipt and owner account.
 
-*Related: C-6063, C-6064, C-6065, C-6067*
+*Related: C-12175, C-12176, C-12177, C-12179*
 
 ---
 
@@ -588,7 +587,7 @@ Topic tied to the receipt and owner account.
 
 Topic tied to the 'I have his cell phone' statement.
 
-*Related: C-6035*
+*Related: C-12142*
 
 ---
 
@@ -596,7 +595,7 @@ Topic tied to the 'I have his cell phone' statement.
 
 Topic tied to the dismissal filing and charges.
 
-*Related: C-6059, C-6060, C-6062*
+*Related: C-12169, C-12170, C-12174*
 
 ---
 
@@ -604,7 +603,7 @@ Topic tied to the dismissal filing and charges.
 
 Topic tied to the body cam remarks.
 
-*Related: C-6050, C-6051*
+*Related: C-12160, C-12161*
 
 ---
 
@@ -612,7 +611,7 @@ Topic tied to the body cam remarks.
 
 Topic tied to the host's remarks on Wilson's focus on Israel and France.
 
-*Related: C-6088*
+*Related: C-12206*
 
 ---
 
@@ -620,7 +619,7 @@ Topic tied to the host's remarks on Wilson's focus on Israel and France.
 
 Topic tied to the content of the September 9 message.
 
-*Related: C-6033, C-6034*
+*Related: C-12141, C-12140*
 
 ---
 
@@ -628,7 +627,7 @@ Topic tied to the content of the September 9 message.
 
 First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.
 
-*Related: C-6025, C-6027, C-6029*
+*Related: C-12131, C-12133, C-12135*
 
 ---
 
@@ -637,7 +636,7 @@ First named by the host at 00:13:18 in episode 141. Named as the person from Ste
 Node Type: Topic
 The anonymous 'Crucible team' that emailed the host's side for Wilson, the contract, escrow and Rogan-offer renegotiation, and the burner-phone contact.
 
-*Related: C-6013, C-6014, C-6015, C-6016, C-6018, C-6022, C-6024*
+*Related: C-12118, C-12119, C-12120, C-12121, C-12123, C-12128, C-12130*
 
 ---
 
@@ -646,7 +645,7 @@ The anonymous 'Crucible team' that emailed the host's side for Wilson, the contr
 Node Type: Topic
 Dispute over what Wilson's party was entitled to do at the host's home: the live-stream setup demand, the basement entrance, the live call-in from the playroom and the no-filming clause.
 
-*Related: C-6020, C-6023, C-6024, C-6025, C-6026, C-6027, C-6029*
+*Related: C-12126, C-12129, C-12130, C-12131, C-12132, C-12133, C-12135*
 
 ---
 
@@ -655,7 +654,7 @@ Dispute over what Wilson's party was entitled to do at the host's home: the live
 Node Type: Topic
 Utah's Rule 1102, which the host says permits hearsay at the preliminary hearing and underpins her point about inference from evidence.
 
-*Related: C-6043*
+*Related: C-12152*
 
 ---
 
@@ -664,13 +663,13 @@ Utah's Rule 1102, which the host says permits hearsay at the preliminary hearing
 Node Type: Topic
 The host's $300K payment from Wilson's offer, the demands that she donate it or set up a trust, and her stated plan to give to the Catholic Church.
 
-*Related: C-6076, C-6077, C-6081*
+*Related: C-12194, C-12195, C-12199*
 
 ---
 
 ## V. Claim Register
 
-**C-3277** Wilson Opened Debate by Reading From His Phone About "Never-Before-Seen Messages," Per Clip Host Plays
+**C-12139** Wilson Opened Debate by Reading From His Phone About "Never-Before-Seen Messages," Per Clip Host Plays
 
 Claim Timestamp: 00:18:36
 
@@ -683,7 +682,7 @@ Related Nodes: N-10794, N-10795
 
 Investigative Direction: Verify whether Wilson subsequently publishes the underlying message text and cross-reference its platform of origin (Signal vs. iMessage) against prior Owens claims and Erika Kirk's prior December 2025 Glenn Beck statements.
 
-**C-3278** Wilson Stated 75–85% Likelihood That Tyler Robinson Killed Charlie Kirk
+**C-12149** Wilson Stated 75–85% Likelihood That Tyler Robinson Killed Charlie Kirk
 
 Claim Timestamp: 00:22:37
 
@@ -695,7 +694,7 @@ Mentions: N-18, N-40, N-1
 
 Investigative Direction: Compare Wilson's stated confidence level against his debate claim that the evidence against Robinson is "overwhelming."
 
-**C-3279** Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays
+**C-12172** Wilson Named Murder, Then Aggravated Murder, When Asked for Robinson's Charges, Per Clip Host Plays
 
 Claim Timestamp: 00:44:42
 
@@ -707,7 +706,7 @@ Mentions: N-18, N-40
 
 Investigative Direction: Cross-reference the published charging instrument from the Utah case to verify the seven-count list and confirm which charge(s) Wilson named correctly versus incorrectly.
 
-**C-3280** Host Says Wilson Repeatedly Used the Phrase "Positive Evidence" During the Debate
+**C-12153** Host Says Wilson Repeatedly Used the Phrase "Positive Evidence" During the Debate
 
 Claim Timestamp: 00:29:04
 
@@ -719,7 +718,7 @@ Mentions: N-18
 
 Investigative Direction: Count exact repetitions in full debate transcript; this claim is repeated in internet memes (A-2279.1) which may be cross-referenced for the specific count (the meme states 47).
 
-**C-3281** Patrick Bet-David (PBD) Moderated the Debate
+**C-12124** Patrick Bet-David (PBD) Moderated the Debate
 
 Claim Timestamp: 00:08:15
 
@@ -731,7 +730,7 @@ Mentions: N-18, N-3, N-57
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
 
-**C-3282** Host Says Crowder Was Apparently on the Phone With Wilson After the Debate
+**C-12191** Host Says Crowder Was Apparently on the Phone With Wilson After the Debate
 
 Claim Timestamp: 01:06:45
 
@@ -743,7 +742,7 @@ Mentions: N-18, N-259
 
 Investigative Direction: Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.
 
-**C-3283** Host Says Polymarket Odds on Tyler Robinson Conviction Dropped During the Debate
+**C-12180** Host Says Polymarket Odds on Tyler Robinson Conviction Dropped During the Debate
 
 Claim Timestamp: 01:00:00
 
@@ -756,7 +755,7 @@ Related Nodes:
 
 Investigative Direction: Retrieve the full Poly Market time series for the relevant market to confirm the percentage trajectory during the debate window.
 
-**C-3284** Rachel Wilson Publicly Acknowledged That Owens Knew the Case Details Better
+**C-12193** Rachel Wilson Publicly Acknowledged That Owens Knew the Case Details Better
 
 Claim Timestamp: 01:08:14
 
@@ -769,7 +768,7 @@ Related Nodes:
 
 Investigative Direction: Retrieve the full text of Rachel Wilson's X post to confirm the exact wording and timestamp.
 
-**C-3285** Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers
+**C-12189** Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers
 
 Claim Timestamp: 01:05:37
 
@@ -782,7 +781,7 @@ Related Nodes:
 
 Investigative Direction: Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.
 
-**C-3286** Wilson Retweeted Comment About Tyler Robinson Defense and Replied "Picked a hell of a week"
+**C-12171** Wilson Retweeted Comment About Tyler Robinson Defense and Replied "Picked a hell of a week"
 
 Claim Timestamp: 00:42:35
 
@@ -795,7 +794,7 @@ Related Nodes: N-10795
 
 Investigative Direction: Retrieve the full X post with timestamp; identify the original poster; cross-reference with the dismissal filing released two days before the debate.
 
-**C-3287** "Jars Wide Shut" AI Video by @whereforbidden Was Created Reacting to the Debate
+**C-12182** "Jars Wide Shut" AI Video by @whereforbidden Was Created Reacting to the Debate
 
 Claim Timestamp: 01:01:26
 
@@ -808,7 +807,7 @@ Related Nodes:
 
 Investigative Direction: Identify original posting timestamp; verify whether @whereforbidden's content has prior documented activity in the series.
 
-**C-3288** "Stages of Debate Grief" Meme by @alpha_approved Was Created Reacting to the Debate
+**C-12185** "Stages of Debate Grief" Meme by @alpha_approved Was Created Reacting to the Debate
 
 Claim Timestamp: 01:02:50
 
@@ -821,7 +820,7 @@ Related Nodes:
 
 Investigative Direction: Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.
 
-**C-3289** In Clip Host Plays, Erika Kirk Says "I Have His Cell Phone"
+**C-12143** In Clip Host Plays, Erika Kirk Says "I Have His Cell Phone"
 
 Claim Timestamp: 00:19:49
 
@@ -836,7 +835,7 @@ Investigative Direction: Verify whether the cell phone referenced matches the de
 
 ---
 
-**C-6008** Host says TPUSA brought Wilson in to train its students to debate
+**C-12113** Host says TPUSA brought Wilson in to train its students to debate
 
 Claim Timestamp: 00:00:30
 
@@ -847,12 +846,12 @@ Transcript Snippet: they brought that guy in to train Turning Point USA students
 Anchored Artifacts: 
 Mentions: N-3, N-18
 Related Nodes: N-10000, N-10796
-Supports: C-3241
+Supports: C-11936
 Investigative Direction: Obtain TPUSA event schedules, invoices or student-chapter communications showing a Wilson debate-training engagement and any payment.
 
 ---
 
-**C-6009** Host says Charlie Kirk trained her to debate on campus trips
+**C-12114** Host says Charlie Kirk trained her to debate on campus trips
 
 Claim Timestamp: 00:01:40
 
@@ -866,7 +865,7 @@ Investigative Direction: Locate dated campus-tour footage or staff accounts of K
 
 ---
 
-**C-6010** Host says Wilson visited TPUSA headquarters in June and afterwards began challenging her
+**C-12115** Host says Wilson visited TPUSA headquarters in June and afterwards began challenging her
 
 Claim Timestamp: 00:01:50
 
@@ -881,7 +880,7 @@ Investigative Direction: Establish the date(s) of any Wilson visit to TPUSA head
 
 ---
 
-**C-6011** Host says Wilson insisted on negotiating the debate terms publicly on X
+**C-12116** Host says Wilson insisted on negotiating the debate terms publicly on X
 
 Claim Timestamp: 00:02:31
 
@@ -895,7 +894,7 @@ Investigative Direction: Review the public X exchange between Wilson and the hos
 
 ---
 
-**C-6012** Host says she agreed to Wilson's video guy, fact checkers and moderator choice
+**C-12117** Host says she agreed to Wilson's video guy, fact checkers and moderator choice
 
 Claim Timestamp: 00:03:20
 
@@ -909,7 +908,7 @@ Investigative Direction: Compare the publicly posted terms and the signed contra
 
 ---
 
-**C-6013** Host says Wilson's side emailed through an unnamed 'Crucible team'
+**C-12118** Host says Wilson's side emailed through an unnamed 'Crucible team'
 
 Claim Timestamp: 00:03:50
 
@@ -924,7 +923,7 @@ Investigative Direction: Obtain the email chain headers and signature blocks to 
 
 ---
 
-**C-6014** Host says the Crucible team demanded a contract and an escrow account
+**C-12119** Host says the Crucible team demanded a contract and an escrow account
 
 Claim Timestamp: 00:04:30
 
@@ -939,7 +938,7 @@ Investigative Direction: Obtain the draft and signed contract and any escrow cor
 
 ---
 
-**C-6015** Host says the Crucible team tried to void terms after a Joe Rogan hosting offer
+**C-12120** Host says the Crucible team tried to void terms after a Joe Rogan hosting offer
 
 Claim Timestamp: 00:05:20
 
@@ -954,7 +953,7 @@ Investigative Direction: Obtain the email and ask Rogan's team whether and when 
 
 ---
 
-**C-6016** Host says Wilson's side offered a luxury car to bring her to Texas
+**C-12121** Host says Wilson's side offered a luxury car to bring her to Texas
 
 Claim Timestamp: 00:05:54
 
@@ -969,7 +968,7 @@ Investigative Direction: Obtain the email containing the car offer and the host'
 
 ---
 
-**C-6017** Host says Michael Knowles declined to moderate, so Wilson asked PBD
+**C-12122** Host says Michael Knowles declined to moderate, so Wilson asked PBD
 
 Claim Timestamp: 00:06:30
 
@@ -983,7 +982,7 @@ Investigative Direction: Ask Bet-David's and Knowles' offices when Knowles decli
 
 ---
 
-**C-6018** Host says the Crucible team demanded a guaranteed 90-minute question session
+**C-12123** Host says the Crucible team demanded a guaranteed 90-minute question session
 
 Claim Timestamp: 00:06:50
 
@@ -998,7 +997,7 @@ Investigative Direction: Obtain the renegotiation email and the final contract t
 
 ---
 
-**C-6019** Host says Wilson dropped the deposition demand on a Tuesday FaceTime with PBD
+**C-12125** Host says Wilson dropped the deposition demand on a Tuesday FaceTime with PBD
 
 Claim Timestamp: 00:08:30
 
@@ -1012,7 +1011,7 @@ Investigative Direction: Ask Bet-David's team (the host names Tom and an executi
 
 ---
 
-**C-6020** Host says she explained her studio limits and the allowed monitoring arrangements
+**C-12126** Host says she explained her studio limits and the allowed monitoring arrangements
 
 Claim Timestamp: 00:09:00
 
@@ -1027,7 +1026,7 @@ Investigative Direction: Compare the contract's filming clause with the host's a
 
 ---
 
-**C-6021** Host says the contract was officially signed on Thursday
+**C-12127** Host says the contract was officially signed on Thursday
 
 Claim Timestamp: 00:09:56
 
@@ -1041,7 +1040,7 @@ Investigative Direction: Obtain the signed contract with signature dates.
 
 ---
 
-**C-6022** Host says the contact number given for Wilson's team appeared to be a burner phone
+**C-12128** Host says the contact number given for Wilson's team appeared to be a burner phone
 
 Claim Timestamp: 00:10:30
 
@@ -1056,7 +1055,7 @@ Investigative Direction: Have the producer preserve the text thread and number l
 
 ---
 
-**C-6023** Host says an anonymous contact demanded a desk, HDMI cable and power for a live stream in her home
+**C-12129** Host says an anonymous contact demanded a desk, HDMI cable and power for a live stream in her home
 
 Claim Timestamp: 00:11:10
 
@@ -1071,7 +1070,7 @@ Investigative Direction: Obtain the text thread and the contract's live-stream c
 
 ---
 
-**C-6024** Host says the live-stream request emails came at 9:15 p.m. and 11:15 p.m. the night before
+**C-12130** Host says the live-stream request emails came at 9:15 p.m. and 11:15 p.m. the night before
 
 Claim Timestamp: 00:12:08
 
@@ -1086,7 +1085,7 @@ Investigative Direction: Obtain the two emails with timestamps.
 
 ---
 
-**C-6025** Host says Wilson arrived with Steven Crowder's team including Gerald Morgan
+**C-12131** Host says Wilson arrived with Steven Crowder's team including Gerald Morgan
 
 Claim Timestamp: 00:13:18
 
@@ -1101,7 +1100,7 @@ Investigative Direction: Confirm the identities of the four-person party with Cr
 
 ---
 
-**C-6026** Host says Wilson's party was made to enter through the basement door
+**C-12132** Host says Wilson's party was made to enter through the basement door
 
 Claim Timestamp: 00:13:40
 
@@ -1116,7 +1115,7 @@ Investigative Direction: Ask the host's staff or Wilson's party to confirm the e
 
 ---
 
-**C-6027** Host says Gerald did a live call-in from her children's playroom outside the studio
+**C-12133** Host says Gerald did a live call-in from her children's playroom outside the studio
 
 Claim Timestamp: 00:14:15
 
@@ -1131,7 +1130,7 @@ Investigative Direction: Check Crowder's channel for any live call-in on debate 
 
 ---
 
-**C-6028** Host alleges Crowder's brand fell after he was caught berating his pregnant wife on a doorbell camera
+**C-12134** Host alleges Crowder's brand fell after he was caught berating his pregnant wife on a doorbell camera
 
 Claim Timestamp: 00:15:15
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Locate contemporaneous reporting and the footage the ho
 
 ---
 
-**C-6029** Host says the contract stipulated no filming outside the studio
+**C-12135** Host says the contract stipulated no filming outside the studio
 
 Claim Timestamp: 00:16:01
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Obtain the contract and read the filming clause.
 
 ---
 
-**C-6030** Host says she is moving out of the house in a couple of weeks
+**C-12136** Host says she is moving out of the house in a couple of weeks
 
 Claim Timestamp: 00:16:30
 
@@ -1174,7 +1173,7 @@ Investigative Direction: Confirm the move through later episodes or host stateme
 
 ---
 
-**C-6031** Host says she wanted TPUSA to claim Wilson as its own but he refused
+**C-12137** Host says she wanted TPUSA to claim Wilson as its own but he refused
 
 Claim Timestamp: 00:17:24
 
@@ -1189,7 +1188,7 @@ Investigative Direction: Locate the public negotiation posts on this term and an
 
 ---
 
-**C-6032** Host says Wilson's opening showed TPUSA was backing him
+**C-12138** Host says Wilson's opening showed TPUSA was backing him
 
 Claim Timestamp: 00:17:50
 
@@ -1200,12 +1199,12 @@ Transcript Snippet: in the first three minutes of the debate, he makes it perfec
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-2
 Related Nodes: N-10795, N-10796
-Supports: C-3277
+Supports: C-12139
 Investigative Direction: Establish how Wilson obtained the message and whether TPUSA or Erika Kirk supplied it.
 
 ---
 
-**C-6033** Played message: Charlie Kirk told his security team to protect only one person because he feared the left
+**C-12141** Played message: Charlie Kirk told his security team to protect only one person because he feared the left
 
 Claim Timestamp: 00:19:20
 
@@ -1220,7 +1219,7 @@ Investigative Direction: Obtain the original message with metadata and the secur
 
 ---
 
-**C-6034** Played message: security team said campus police and its own team would cover the event, with 11 on site
+**C-12140** Played message: security team said campus police and its own team would cover the event, with 11 on site
 
 Claim Timestamp: 00:18:56
 
@@ -1235,7 +1234,7 @@ Investigative Direction: Compare the stated '11 on site' with UVU and TPUSA secu
 
 ---
 
-**C-6035** Played clip: a speaker says Charlie never messaged that he would be murdered and 'I have his cell phone'
+**C-12142** Played clip: a speaker says Charlie never messaged that he would be murdered and 'I have his cell phone'
 
 Claim Timestamp: 00:19:40
 
@@ -1246,13 +1245,13 @@ Transcript Snippet: He didn't. He didn't say that. And I have his cell phone.
 Anchored Artifacts: A-2793.1
 Mentions: N-1, N-2, N-237, N-18
 Related Nodes: N-10507
-Supports: C-4057
-Revises: C-3289
+Supports: C-9204
+Revises: C-12143
 Investigative Direction: Identify the clip's source (the December 2025 Glenn Beck interview or the debate's played clips) and confirm the speaker.
 
 ---
 
-**C-6036** Host says Erika Kirk came to Nashville for a summit days after the Glenn Beck interview
+**C-12144** Host says Erika Kirk came to Nashville for a summit days after the Glenn Beck interview
 
 Claim Timestamp: 00:20:10
 
@@ -1266,7 +1265,7 @@ Investigative Direction: Confirm the date of the Nashville meeting from travel r
 
 ---
 
-**C-6037** Host says Erika told her the message was on Signal and auto-deleted
+**C-12145** Host says Erika told her the message was on Signal and auto-deleted
 
 Claim Timestamp: 00:20:25
 
@@ -1281,7 +1280,7 @@ Investigative Direction: Ask TPUSA and Erika Kirk which app carried the message 
 
 ---
 
-**C-6038** Host says the message was actually sent by iMessage, not Signal
+**C-12146** Host says the message was actually sent by iMessage, not Signal
 
 Claim Timestamp: 00:20:50
 
@@ -1292,12 +1291,12 @@ Transcript Snippet: The message was actually sent on iMessage.
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10794
-Supports: C-4058
+Supports: C-9205
 Investigative Direction: Obtain the message with its originating-app metadata (iMessage versus Signal).
 
 ---
 
-**C-6039** Host says TPUSA claims Erika was not told for four months while the host was told in September
+**C-12147** Host says TPUSA claims Erika was not told for four months while the host was told in September
 
 Claim Timestamp: 00:21:20
 
@@ -1312,7 +1311,7 @@ Investigative Direction: Identify who told the host in September and when Erika 
 
 ---
 
-**C-6040** Host says Wilson promised to release the message on his show
+**C-12148** Host says Wilson promised to release the message on his show
 
 Claim Timestamp: 00:21:53
 
@@ -1327,7 +1326,7 @@ Investigative Direction: Check Wilson's show after August 17, 2026 for the relea
 
 ---
 
-**C-6041** Host says Wilson wrongly claimed she said 'girl boss'
+**C-12150** Host says Wilson wrongly claimed she said 'girl boss'
 
 Claim Timestamp: 00:25:20
 
@@ -1342,7 +1341,7 @@ Investigative Direction: Check the debate transcript for who first said 'girl bo
 
 ---
 
-**C-6042** Host says Wilson shifted position to supporting Erika Kirk as CEO
+**C-12151** Host says Wilson shifted position to supporting Erika Kirk as CEO
 
 Claim Timestamp: 00:25:40
 
@@ -1356,7 +1355,7 @@ Investigative Direction: Find Wilson's earlier posts on women leading organizati
 
 ---
 
-**C-6043** Host says Utah's 1102 rule allows hearsay at the preliminary hearing stage
+**C-12152** Host says Utah's 1102 rule allows hearsay at the preliminary hearing stage
 
 Claim Timestamp: 00:27:32
 
@@ -1371,7 +1370,7 @@ Investigative Direction: Read Utah Rule of Evidence 1102 and the preliminary-hea
 
 ---
 
-**C-6044** Host says she reported the Foreign Legion threat to officials and gave it to Tulsi Gabbard's office
+**C-12154** Host says she reported the Foreign Legion threat to officials and gave it to Tulsi Gabbard's office
 
 Claim Timestamp: 00:29:20
 
@@ -1386,7 +1385,7 @@ Investigative Direction: Ask Gabbard's office whether it received such informati
 
 ---
 
-**C-6045** Host says in the clip that she cannot say for certainty that Israel called the shots
+**C-12155** Host says in the clip that she cannot say for certainty that Israel called the shots
 
 Claim Timestamp: 00:30:10
 
@@ -1401,7 +1400,7 @@ Investigative Direction: Compare with the host's earlier statements on Israeli i
 
 ---
 
-**C-6046** Host cites in the clip Robinson's Chick-fil-A stop as undercutting the LGBTQ-motive story
+**C-12156** Host cites in the clip Robinson's Chick-fil-A stop as undercutting the LGBTQ-motive story
 
 Claim Timestamp: 00:30:20
 
@@ -1415,7 +1414,7 @@ Investigative Direction: Establish from the hearing record or surveillance wheth
 
 ---
 
-**C-6047** Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is "Too" [Word Missing] to Kill Her Husband
+**C-12157** Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is "Too" [Word Missing] to Kill Her Husband
 
 Claim Timestamp: 00:32:30
 
@@ -1430,7 +1429,7 @@ Investigative Direction: Locate the tweet and its date; the transcript omits the
 
 ---
 
-**C-6048** Host says she told Wilson's side clips could be sent ahead and her side planned none
+**C-12158** Host says she told Wilson's side clips could be sent ahead and her side planned none
 
 Claim Timestamp: 00:33:30
 
@@ -1444,7 +1443,7 @@ Investigative Direction: Obtain the contract language on clips and fact checkers
 
 ---
 
-**C-6049** Played clip: Wilson asks if the host has evidence TPUSA or Erika participated in the murder; she says she never said so
+**C-12159** Played clip: Wilson asks if the host has evidence TPUSA or Erika participated in the murder; she says she never said so
 
 Claim Timestamp: 00:34:58
 
@@ -1459,7 +1458,7 @@ Investigative Direction: Check the host's prior episodes for any statement that 
 
 ---
 
-**C-6050** Played clip: host says it is plausible the screwdriver was planted and doubts Officer Bagley's testimony
+**C-12160** Played clip: host says it is plausible the screwdriver was planted and doubts Officer Bagley's testimony
 
 Claim Timestamp: 00:35:50
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Compare with Bagley's preliminary-hearing testimony on 
 
 ---
 
-**C-6051** Played clip: host says Bagley's body cam died at just the right time
+**C-12161** Played clip: host says Bagley's body cam died at just the right time
 
 Claim Timestamp: 00:36:10
 
@@ -1485,12 +1484,12 @@ Transcript Snippet: What I can say strongly is that his uh cam died at just the 
 Anchored Artifacts: A-2792.2
 Mentions: N-3, N-506
 Related Nodes: N-10725
-Supports: C-3042
+Supports: C-10867
 Investigative Direction: Obtain body-cam metadata and the battery or recording-end logs for Bagley's camera.
 
 ---
 
-**C-6052** Played clip: host says it is impossible for her to think Erika Kirk is not complicit somehow
+**C-12162** Played clip: host says it is impossible for her to think Erika Kirk is not complicit somehow
 
 Claim Timestamp: 00:36:40
 
@@ -1504,7 +1503,7 @@ Investigative Direction: Review the debate video for the exact exchange and the 
 
 ---
 
-**C-6053** Host says 'Erika, I forgive him' implies Tyler Robinson is guilty and he faces the death penalty
+**C-12163** Host says 'Erika, I forgive him' implies Tyler Robinson is guilty and he faces the death penalty
 
 Claim Timestamp: 00:37:00
 
@@ -1518,7 +1517,7 @@ Investigative Direction: Check the memorial remarks and the state's death-penalt
 
 ---
 
-**C-6054** Host says Wilson played three Erika Kirk clips in a row despite saying he was not there for TPUSA
+**C-12164** Host says Wilson played three Erika Kirk clips in a row despite saying he was not there for TPUSA
 
 Claim Timestamp: 00:38:00
 
@@ -1533,7 +1532,7 @@ Investigative Direction: Count the Erika Kirk clips played in the debate video.
 
 ---
 
-**C-6055** Host says no contract clause allowed Wilson to depose her or barred her from asking questions
+**C-12165** Host says no contract clause allowed Wilson to depose her or barred her from asking questions
 
 Claim Timestamp: 00:38:30
 
@@ -1543,12 +1542,12 @@ Transcript Snippet: There is absolutely no contract clause that I allowed him to
 
 Anchored Artifacts: A-2795.2
 Mentions: N-3, N-18
-Supports: C-6018
+Supports: C-12123
 Investigative Direction: Read the signed contract's question-and-response provisions.
 
 ---
 
-**C-6056** Host says Wilson claimed she was not allowed to speak, producing the awkward silence
+**C-12166** Host says Wilson claimed she was not allowed to speak, producing the awkward silence
 
 Claim Timestamp: 00:38:50
 
@@ -1562,7 +1561,7 @@ Investigative Direction: Review the debate video for the exact exchange and any 
 
 ---
 
-**C-6057** Host says officials never said Lance's DNA was on the rifle, a point Wilson's clip tried to use
+**C-12167** Host says officials never said Lance's DNA was on the rifle, a point Wilson's clip tried to use
 
 Claim Timestamp: 00:40:34
 
@@ -1576,7 +1575,7 @@ Investigative Direction: Compare with FBI lab reports and preliminary-hearing te
 
 ---
 
-**C-6058** Host says she earned $41,863 during the 16-second silence
+**C-12168** Host says she earned $41,863 during the 16-second silence
 
 Claim Timestamp: 00:41:21
 
@@ -1590,7 +1589,7 @@ Investigative Direction: Obtain the host's analytics for revenue across the live
 
 ---
 
-**C-6059** Host says the dismissal filing dropped two days before the debate and she prepared on it
+**C-12169** Host says the dismissal filing dropped two days before the debate and she prepared on it
 
 Claim Timestamp: 00:41:40
 
@@ -1605,7 +1604,7 @@ Investigative Direction: Identify the filing and its docket date.
 
 ---
 
-**C-6060** Host says a talking point claimed Robinson's filing admitted the text messages were real, which she says is wrong
+**C-12170** Host says a talking point claimed Robinson's filing admitted the text messages were real, which she says is wrong
 
 Claim Timestamp: 00:42:10
 
@@ -1620,7 +1619,7 @@ Investigative Direction: Read the dismissal filing for any statement on the auth
 
 ---
 
-**C-6061** Played clip: host says aggravated murder is narrowly defined and carries a death sentence
+**C-12173** Played clip: host says aggravated murder is narrowly defined and carries a death sentence
 
 Claim Timestamp: 00:46:00
 
@@ -1634,7 +1633,7 @@ Investigative Direction: Check the Utah aggravated-murder statute and the chargi
 
 ---
 
-**C-6062** Played clip: host lists the seven charges against Tyler Robinson
+**C-12174** Played clip: host lists the seven charges against Tyler Robinson
 
 Claim Timestamp: 00:47:09
 
@@ -1649,7 +1648,7 @@ Investigative Direction: Compare with the charging information filed against Rob
 
 ---
 
-**C-6063** Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's
+**C-12175** Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's
 
 Claim Timestamp: 00:49:30
 
@@ -1660,12 +1659,12 @@ Transcript Snippet: I spoke to the owner. The owner told me that he pulled the r
 Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
 Related Nodes: N-10381
-Supports: C-2003
+Supports: C-4518
 Investigative Direction: Obtain the receipt, the restaurant's records and the owner's on-record account.
 
 ---
 
-**C-6064** Host says confirming the receipt would require someone matching it to Robinson's debit card
+**C-12176** Host says confirming the receipt would require someone matching it to Robinson's debit card
 
 Claim Timestamp: 00:51:29
 
@@ -1680,7 +1679,7 @@ Investigative Direction: Seek the card transaction records through discovery or 
 
 ---
 
-**C-6065** Host says the restaurant server contacted the FBI and recognized Robinson on the news
+**C-12177** Host says the restaurant server contacted the FBI and recognized Robinson on the news
 
 Claim Timestamp: 00:52:07
 
@@ -1691,12 +1690,12 @@ Transcript Snippet: They contacted the FBI. He shared his experience. He recogni
 Anchored Artifacts: A-2792.3
 Mentions: N-3, N-40
 Related Nodes: N-10381
-Supports: C-2003
+Supports: C-4518
 Investigative Direction: Locate the owner's interview and any FBI report on the restaurant contact.
 
 ---
 
-**C-6066** Host says the lead investigator tied two shirts together because both wore Converse sneakers, which Wilson called compelling
+**C-12178** Host says the lead investigator tied two shirts together because both wore Converse sneakers, which Wilson called compelling
 
 Claim Timestamp: 00:52:30
 
@@ -1711,7 +1710,7 @@ Investigative Direction: Read the preliminary-hearing transcript on shoe identif
 
 ---
 
-**C-6067** Host says she has not called Visa or Mastercard to confirm the receipt
+**C-12179** Host says she has not called Visa or Mastercard to confirm the receipt
 
 Claim Timestamp: 00:53:04
 
@@ -1726,7 +1725,7 @@ Investigative Direction: Ask the host whether any card-network or bank verificat
 
 ---
 
-**C-6068** Host says Wilson claimed AI sources say he won and that a fact check followed
+**C-12181** Host says Wilson claimed AI sources say he won and that a fact check followed
 
 Claim Timestamp: 01:00:00
 
@@ -1740,7 +1739,7 @@ Investigative Direction: Find Wilson's post and the attached community note or f
 
 ---
 
-**C-6069** Host explains the 'Jars Wide Shut' title as a reference to Wilson failing to open a jar on a podcast
+**C-12183** Host explains the 'Jars Wide Shut' title as a reference to Wilson failing to open a jar on a podcast
 
 Claim Timestamp: 01:01:40
 
@@ -1754,7 +1753,7 @@ Investigative Direction: Locate the podcast clip the host refers to.
 
 ---
 
-**C-6070** AI video says Wilson said 'positive evidence' 47 times
+**C-12184** AI video says Wilson said 'positive evidence' 47 times
 
 Claim Timestamp: 01:01:50
 
@@ -1764,12 +1763,12 @@ Transcript Snippet: You said positive evidence 47 times.
 
 Anchored Artifacts: A-2278.1
 Mentions: N-18, N-2
-Qualifies: C-3280
+Qualifies: C-12153
 Investigative Direction: Count actual uses in the debate transcript; the count in the video is satire.
 
 ---
 
-**C-6071** Host says the earpieces do not work beyond 15 feet of the control room
+**C-12186** Host says the earpieces do not work beyond 15 feet of the control room
 
 Claim Timestamp: 01:03:20
 
@@ -1784,7 +1783,7 @@ Investigative Direction: Ask the production team for the equipment model and ran
 
 ---
 
-**C-6072** Host says she sent one tweet and texted nobody during the debate
+**C-12187** Host says she sent one tweet and texted nobody during the debate
 
 Claim Timestamp: 01:04:30
 
@@ -1799,7 +1798,7 @@ Investigative Direction: Check the host's X post timestamp and phone logs for th
 
 ---
 
-**C-6073** Played audio: a speaker says Candace has a full stylist and makeup crew
+**C-12188** Played audio: a speaker says Candace has a full stylist and makeup crew
 
 Claim Timestamp: 01:05:31
 
@@ -1813,7 +1812,7 @@ Investigative Direction: Identify the speaker and confirm the recording's date a
 
 ---
 
-**C-6074** Host says the earpieces carried only the producers' feed, shared by both sides, with PBD on a direct line
+**C-12190** Host says the earpieces carried only the producers' feed, shared by both sides, with PBD on a direct line
 
 Claim Timestamp: 01:05:50
 
@@ -1828,7 +1827,7 @@ Investigative Direction: Ask Bet-David's and the host's producers what the feed 
 
 ---
 
-**C-6075** Host says her team has no wardrobe or full-time makeup staff
+**C-12192** Host says her team has no wardrobe or full-time makeup staff
 
 Claim Timestamp: 01:07:10
 
@@ -1838,12 +1837,12 @@ Transcript Snippet: And our makeup artist was actually off that day.
 
 Anchored Artifacts: A-2281.1
 Mentions: N-3
-Contradicts: C-6073
+Contradicts: C-12188
 Investigative Direction: Ask the host's staff and Bet-David's team who provided hair and makeup on debate day.
 
 ---
 
-**C-6076** Host says she took Wilson's $300K offer
+**C-12194** Host says she took Wilson's $300K offer
 
 Claim Timestamp: 01:10:00
 
@@ -1854,12 +1853,12 @@ Transcript Snippet: Then I take the money. Exactly what he offers. 300k
 Anchored Artifacts: 
 Mentions: N-3, N-18
 Related Nodes: N-11069
-Supports: C-3238
+Supports: C-11917
 Investigative Direction: Obtain the signed contract and payment records for the $300,000.
 
 ---
 
-**C-6077** Host says critics demanded she donate the winnings or set up a trust for Charlie Kirk's children
+**C-12195** Host says critics demanded she donate the winnings or set up a trust for Charlie Kirk's children
 
 Claim Timestamp: 01:10:30
 
@@ -1874,7 +1873,7 @@ Investigative Direction: Collect the public posts making these demands.
 
 ---
 
-**C-6078** Host says Blake Neff and Andrew Kolvet retweeted Wilson while he attacked her and offered more money
+**C-12196** Host says Blake Neff and Andrew Kolvet retweeted Wilson while he attacked her and offered more money
 
 Claim Timestamp: 01:11:21
 
@@ -1889,7 +1888,7 @@ Investigative Direction: Review Neff's and Kolvet's accounts for the retweets an
 
 ---
 
-**C-6079** Host says her annual debates with Piers Morgan are unpaid
+**C-12197** Host says her annual debates with Piers Morgan are unpaid
 
 Claim Timestamp: 01:11:30
 
@@ -1903,7 +1902,7 @@ Investigative Direction: Check the dates and terms of the debates the host cites
 
 ---
 
-**C-6080** Host says Charlie Kirk's children were multi-millionaires in his lifetime and more so after his death
+**C-12198** Host says Charlie Kirk's children were multi-millionaires in his lifetime and more so after his death
 
 Claim Timestamp: 01:12:26
 
@@ -1917,7 +1916,7 @@ Investigative Direction: Review trust filings and fundraising totals for the Kir
 
 ---
 
-**C-6081** Host says she will give money to the Catholic Church and to people who supported her, including her sister
+**C-12199** Host says she will give money to the Catholic Church and to people who supported her, including her sister
 
 Claim Timestamp: 01:13:30
 
@@ -1932,7 +1931,7 @@ Investigative Direction: Watch for later statements or filings showing any donat
 
 ---
 
-**C-6082** Host says shirts, a sweatshirt and a mug with the debate catchphrase are on her website
+**C-12200** Host says shirts, a sweatshirt and a mug with the debate catchphrase are on her website
 
 Claim Timestamp: 01:17:06
 
@@ -1946,7 +1945,7 @@ Investigative Direction: Check the host's store for the listed products.
 
 ---
 
-**C-6083** Host says Wilson said on a stream that his wife went in and spoke to TPUSA executives
+**C-12201** Host says Wilson said on a stream that his wife went in and spoke to TPUSA executives
 
 Claim Timestamp: 01:19:23
 
@@ -1961,7 +1960,7 @@ Investigative Direction: Locate the stream where Wilson said this.
 
 ---
 
-**C-6084** Host says Erika Kirk is shown hugging Andrew Wilson
+**C-12202** Host says Erika Kirk is shown hugging Andrew Wilson
 
 Claim Timestamp: 01:19:40
 
@@ -1972,12 +1971,12 @@ Transcript Snippet: She's hugging Andrew Wilson.
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-18
 Related Nodes: N-10000
-Supports: C-3239
+Supports: C-11921
 Investigative Direction: Find the photo or video of the hug and its date.
 
 ---
 
-**C-6085** Host says Wilson says he is dropping the message this week
+**C-12203** Host says Wilson says he is dropping the message this week
 
 Claim Timestamp: 01:19:50
 
@@ -1988,12 +1987,12 @@ Transcript Snippet: He says he's dropping it this week.
 Anchored Artifacts: 
 Mentions: N-3, N-18
 Related Nodes: N-10795
-Supports: C-6040
+Supports: C-12148
 Investigative Direction: Check Wilson's show for a release during the week of August 17, 2026.
 
 ---
 
-**C-6086** Host says she has never met Steven Crowder
+**C-12204** Host says she has never met Steven Crowder
 
 Claim Timestamp: 01:21:00
 
@@ -2007,7 +2006,7 @@ Investigative Direction: Check for any past joint appearance or meeting.
 
 ---
 
-**C-6087** Host reads a comment quoting Wilson: 'You could just not do what you're doing and be okay'
+**C-12205** Host reads a comment quoting Wilson: 'You could just not do what you're doing and be okay'
 
 Claim Timestamp: 01:23:10
 
@@ -2021,7 +2020,7 @@ Investigative Direction: Find the quote in the debate video; it matches a line i
 
 ---
 
-**C-6088** Host says Wilson's debate claim was that the evidence is overwhelming
+**C-12206** Host says Wilson's debate claim was that the evidence is overwhelming
 
 Claim Timestamp: 01:23:50
 
@@ -2032,12 +2031,12 @@ Transcript Snippet: Your debate claim is the evidence is overwhelming that Tyler
 Anchored Artifacts: 
 Mentions: N-3, N-18, N-40
 Related Nodes: N-10805
-Supports: C-3278
+Supports: C-12149
 Investigative Direction: Check the debate's agreed resolution wording.
 
 ---
 
-**C-6089** Host says Wilson claimed a bullet split in air and caused air under a shirt
+**C-12207** Host says Wilson claimed a bullet split in air and caused air under a shirt
 
 Claim Timestamp: 01:24:54
 
@@ -2051,7 +2050,7 @@ Investigative Direction: Find the statement in the debate video and ask ballisti
 
 ---
 
-**C-6090** Host says the next day's episode will bring more truth about TPUSA
+**C-12208** Host says the next day's episode will bring more truth about TPUSA
 
 Claim Timestamp: 01:26:22
 

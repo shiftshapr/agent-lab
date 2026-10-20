@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11306, N-11307, N-11308, N-11309
-  - Claim Range (supplement_2026-10e): C-11702–C-11756
+  - Claim Range: C-11678–C-11750
   - Tip-minted Nodes (reintro-ep136): N-749
   - New Nodes Introduced: N-10774, N-10775
   - Hole-minted Nodes (wave3): N-556
@@ -37,7 +37,6 @@
 Episode 136 Ledger Summary
 
 - Artifact Families Introduced: A-2223, A-2224, A-2225, A-2226, A-2227, A-2228, A-2229, A-2230, A-2231, A-2232, A-2233, A-2234, A-2235
-- Claim Range: C-3193–C-3210
 - New Nodes Introduced (people): 
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 - New Nodes Introduced (investigation targets): N-10771, N-10772, N-10773, N-10774, N-10775
@@ -64,7 +63,7 @@ Video Timestamp: 00:03:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3193, N-1, N-10771*
+*Related: C-11681, N-1, N-10771*
 
 ---
 
@@ -78,7 +77,7 @@ Video Timestamp: 00:10:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3196, C-3197, N-10772*
+*Related: C-11692, C-11693, N-10772*
 
 **A-2224.2** Testimony excerpt: body cam footage ran 27 minutes 35 seconds and ended on the rooftop; Bagley states battery died
 
@@ -88,7 +87,7 @@ Video Timestamp: 00:12:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3195, N-10773*
+*Related: C-11694, N-10773*
 
 ---
 
@@ -102,7 +101,7 @@ Video Timestamp: 00:06:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3210*
+*Related: C-11706*
 
 ---
 
@@ -116,7 +115,7 @@ Video Timestamp: 00:13:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3194*
+*Related: C-11696*
 
 ---
 
@@ -130,7 +129,7 @@ Video Timestamp: 00:15:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3198, C-3199, C-3200, N-10772*
+*Related: C-11701, C-11702, C-11705, N-10772*
 
 ---
 
@@ -144,7 +143,7 @@ Video Timestamp: 00:16:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3201*
+*Related: C-11703*
 
 ---
 
@@ -158,7 +157,7 @@ Video Timestamp: 00:22:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3203, C-3204, N-10774*
+*Related: C-11715, C-11714, N-10774*
 
 ---
 
@@ -172,7 +171,7 @@ Video Timestamp: 00:34:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3205, N-10775*
+*Related: C-11727, N-10775*
 
 ---
 
@@ -186,7 +185,7 @@ Video Timestamp: 00:37:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3206, N-2*
+*Related: C-11732, N-2*
 
 ---
 
@@ -200,7 +199,7 @@ Video Timestamp: 00:38:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3207, N-1*
+*Related: C-11735, N-1*
 
 **A-2232.2** Archived clip in which Charlie Kirk states "This is Israel's war" and references a list of prior US military interventions
 
@@ -210,7 +209,7 @@ Video Timestamp: 00:39:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3208, N-1*
+*Related: C-11739, N-1*
 
 ---
 
@@ -224,7 +223,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3197, C-3195, N-10772, N-10773*
+*Related: C-11693, C-11694, N-10772, N-10773*
 
 ---
 
@@ -238,7 +237,7 @@ Video Timestamp: 00:16:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3199, C-3200*
+*Related: C-11702, C-11705*
 
 ---
 
@@ -252,7 +251,7 @@ Video Timestamp: 00:19:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbally referenced; not directly displayed)
 
-*Related: C-3202*
+*Related: C-11709*
 
 ---
 
@@ -265,7 +264,7 @@ Video Timestamp: 00:01:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11703, N-1, N-10771, N-3*
+*Related: C-11679, N-1, N-10771, N-3*
 
 ---
 
@@ -278,7 +277,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11707, N-10737, N-266, N-487*
+*Related: C-11684, N-10737, N-266, N-487*
 
 ---
 
@@ -291,7 +290,7 @@ Video Timestamp: 00:08:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11711, N-10681, N-10737, N-266, N-3*
+*Related: C-11689, N-10681, N-10737, N-266, N-3*
 
 ---
 
@@ -304,7 +303,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11720, N-10772, N-749*
+*Related: C-11707, N-10772, N-749*
 
 ---
 
@@ -319,7 +318,7 @@ Video Timestamp: 00:24:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11729, N-10774, N-3, N-749*
+*Related: C-11717, N-10774, N-3, N-749*
 
 ---
 
@@ -332,7 +331,7 @@ Video Timestamp: 00:25:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11730, N-3*
+*Related: C-11720, N-3*
 
 ---
 
@@ -345,7 +344,7 @@ Video Timestamp: 00:37:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11741, N-1, N-10000, N-10539, N-159, N-2, N-5*
+*Related: C-11733, N-1, N-10000, N-10539, N-159, N-2, N-5*
 
 ---
 
@@ -353,9 +352,9 @@ Confidence Level: Low
 
 **N-749** Allan Robertson
 
-Named by the host as the red-hat man on the Losee rooftop (C-3199).
+Named by the host as the red-hat man on the Losee rooftop (C-11702).
 
-*Related: C-3199*
+*Related: C-11702*
 
 ---
 
@@ -363,7 +362,7 @@ Named by the host as the red-hat man on the Losee rooftop (C-3199).
 
 First named by the host at 00:17:52 in episode 136.
 
-*Related: C-3198, C-3199, C-3200*
+*Related: C-11701, C-11702, C-11705*
 
 
 
@@ -376,7 +375,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2223.1, A-2225.1, C-3193*
+*Related: A-2223.1, A-2225.1, C-11681*
 
 ---
 
@@ -389,7 +388,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2224.1, A-2227.1, A-2233.1, A-2234.1, C-3196, C-3197, C-3198, C-3199, C-3200*
+*Related: A-2224.1, A-2227.1, A-2233.1, A-2234.1, C-11692, C-11693, C-11701, C-11702, C-11705*
 
 ---
 
@@ -402,7 +401,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2224.2, A-2233.1, C-3195*
+*Related: A-2224.2, A-2233.1, C-11694*
 
 ---
 
@@ -415,7 +414,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2229.1, C-3203, C-3204*
+*Related: A-2229.1, C-11715, C-11714*
 
 ---
 
@@ -428,7 +427,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2230.1, C-3205*
+*Related: A-2230.1, C-11727*
 
 ---
 
@@ -436,7 +435,7 @@ Investigative Pressure: Low
 
 Subject of the assassination; the host plays his archived Iran clips and recounts the gloves and car-ride facts.
 
-*Related: C-11702, C-11703, C-11704, C-11738, C-11741, C-11742, C-11743, C-11744, C-11745, C-11746, C-11748, C-11749*
+*Related: C-11678, C-11679, C-11680, C-11731, C-11733, C-11734, C-11736, C-11737, C-11738, C-11740, C-11742, C-11743*
 
 ---
 
@@ -444,7 +443,7 @@ Subject of the assassination; the host plays his archived Iran clips and recount
 
 Widow and TPUSA CEO; the host plays her clip on the Iran war and challenges her handling of the case.
 
-*Related: C-11741, C-11742, C-11751*
+*Related: C-11733, C-11734, C-11744*
 
 ---
 
@@ -452,7 +451,7 @@ Widow and TPUSA CEO; the host plays her clip on the Iran war and challenges her 
 
 Host; speaks for herself.
 
-*Related: C-11702, C-11703, C-11704, C-11709, C-11711, C-11712, C-11713, C-11716, C-11717, C-11718, C-11719, C-11724, C-11726, C-11727, C-11728, C-11729, C-11730, C-11731, C-11732, C-11733, C-11734, C-11735, C-11736, C-11737, C-11738, C-11739, C-11740, C-11746, C-11747, C-11748, C-11749, C-11750, C-11751, C-11752, C-11753, C-11754, C-11755, C-11756*
+*Related: C-11678, C-11679, C-11680, C-11686, C-11689, C-11690, C-11691, C-11698, C-11699, C-11700, C-11704, C-11712, C-11716, C-11718, C-11719, C-11717, C-11720, C-11721, C-11722, C-11723, C-11724, C-11725, C-11726, C-11728, C-11731, C-11729, C-11730, C-11740, C-11741, C-11742, C-11743, C-11745, C-11744, C-11746, C-11747, C-11748, C-11749, C-11750*
 
 ---
 
@@ -460,7 +459,7 @@ Host; speaks for herself.
 
 Donald Trump; the host criticizes his Iran war decisions and Epstein-file exposure.
 
-*Related: C-11739, C-11740, C-11741, C-11755*
+*Related: C-11729, C-11730, C-11733, C-11749*
 
 ---
 
@@ -468,7 +467,7 @@ Donald Trump; the host criticizes his Iran war decisions and Epstein-file exposu
 
 Frank Turek; the host pages him on the gloves and the yanking and banking phrase.
 
-*Related: C-11708, C-11710*
+*Related: C-11685, C-11688*
 
 ---
 
@@ -476,7 +475,7 @@ Frank Turek; the host pages him on the gloves and the yanking and banking phrase
 
 Jeffrey Epstein; named in the host's assertion about the Epstein files.
 
-*Related: C-11755*
+*Related: C-11749*
 
 ---
 
@@ -484,7 +483,7 @@ Jeffrey Epstein; named in the host's assertion about the Epstein files.
 
 TPUSA spokesperson (transcribed Kovat); named in the hotel and comment segments.
 
-*Related: C-11756*
+*Related: C-11750*
 
 ---
 
@@ -492,7 +491,7 @@ TPUSA spokesperson (transcribed Kovat); named in the hotel and comment segments.
 
 Benjamin Netanyahu (transcribed BBNet and Yahoo); the host alleges he pitched Trump on the Iran war.
 
-*Related: C-11739*
+*Related: C-11729*
 
 ---
 
@@ -500,7 +499,7 @@ Benjamin Netanyahu (transcribed BBNet and Yahoo); the host alleges he pitched Tr
 
 Tyler Robinson; defendant, subject of the DNA, 4K video and campus-presence claims.
 
-*Related: C-11712, C-11746, C-11751, C-11753*
+*Related: C-11690, C-11740, C-11744, C-11747*
 
 ---
 
@@ -508,7 +507,7 @@ Tyler Robinson; defendant, subject of the DNA, 4K video and campus-presence clai
 
 Lance Twiggs; the host says his DNA is on the screwdriver beside Robinson's.
 
-*Related: C-11712*
+*Related: C-11690*
 
 ---
 
@@ -516,7 +515,7 @@ Lance Twiggs; the host says his DNA is on the screwdriver beside Robinson's.
 
 Kash Patel; the host plays his statement on the 12:39 FBI arrival.
 
-*Related: C-11715, C-11716*
+*Related: C-11697, C-11698*
 
 ---
 
@@ -524,7 +523,7 @@ Kash Patel; the host plays his statement on the 12:39 FBI arrival.
 
 Blake Neff; the host cites his statement on Charlie and the Iran war and wonders about his hotel.
 
-*Related: C-11741, C-11756*
+*Related: C-11733, C-11750*
 
 ---
 
@@ -532,7 +531,7 @@ Blake Neff; the host cites his statement on Charlie and the Iran war and wonders
 
 Mikey McCoy; his arrival footage is the basis of the empty-pocket finding.
 
-*Related: C-11704*
+*Related: C-11680*
 
 ---
 
@@ -540,7 +539,7 @@ Mikey McCoy; his arrival footage is the basis of the empty-pocket finding.
 
 Terryl Farnsworth; named by the host in connection with the rooftop command question.
 
-*Related: C-11722*
+*Related: C-11710*
 
 ---
 
@@ -548,7 +547,7 @@ Terryl Farnsworth; named by the host in connection with the rooftop command ques
 
 Brian Harpole; his accounts of the car ride and ER are examined.
 
-*Related: C-11705, C-11706, C-11707, C-11710, C-11711*
+*Related: C-11682, C-11683, C-11684, C-11688, C-11689*
 
 ---
 
@@ -556,7 +555,7 @@ Brian Harpole; his accounts of the car ride and ER are examined.
 
 Rick Cutler; his role in the car and at the hospital is discussed.
 
-*Related: C-11705, C-11707, C-11708, C-11709*
+*Related: C-11682, C-11684, C-11685, C-11686*
 
 ---
 
@@ -564,7 +563,7 @@ Rick Cutler; his role in the car and at the hospital is discussed.
 
 Officer Christopher Bagley; his preliminary-hearing testimony is examined.
 
-*Related: C-11714, C-11715, C-11718, C-11721, C-11722*
+*Related: C-11695, C-11697, C-11700, C-11708, C-11710*
 
 ---
 
@@ -572,7 +571,7 @@ Officer Christopher Bagley; his preliminary-hearing testimony is examined.
 
 Turning Point USA; its reversal on Kirk's positions and staff hotel are at issue.
 
-*Related: C-11702, C-11741, C-11742, C-11746, C-11756*
+*Related: C-11678, C-11733, C-11734, C-11740, C-11750*
 
 ---
 
@@ -580,7 +579,7 @@ Turning Point USA; its reversal on Kirk's positions and staff hotel are at issue
 
 Federal Bureau of Investigation; its arrival timing and clothing custody are discussed.
 
-*Related: C-11709, C-11715, C-11716, C-11717*
+*Related: C-11686, C-11697, C-11698, C-11699*
 
 ---
 
@@ -588,7 +587,7 @@ Federal Bureau of Investigation; its arrival timing and clothing custody are dis
 
 Provo, Utah; the host cites the nearby FBI office there.
 
-*Related: C-11716, C-11717*
+*Related: C-11698, C-11699*
 
 ---
 
@@ -596,7 +595,7 @@ Provo, Utah; the host cites the nearby FBI office there.
 
 Existing topic reused for the McCoy recording claim.
 
-*Related: C-11704*
+*Related: C-11680*
 
 ---
 
@@ -604,7 +603,7 @@ Existing topic reused for the McCoy recording claim.
 
 Existing topic reused for the Epstein-files claim.
 
-*Related: C-11755*
+*Related: C-11749*
 
 ---
 
@@ -612,7 +611,7 @@ Existing topic reused for the Epstein-files claim.
 
 Existing topic reused for the rooftop access timeline claims.
 
-*Related: C-11713, C-11714*
+*Related: C-11691, C-11695*
 
 ---
 
@@ -620,7 +619,7 @@ Existing topic reused for the rooftop access timeline claims.
 
 Existing topic reused for Kirk's Iran war positions.
 
-*Related: C-11702, C-11738, C-11741, C-11742, C-11743, C-11744, C-11745*
+*Related: C-11678, C-11731, C-11733, C-11734, C-11736, C-11737, C-11738*
 
 ---
 
@@ -628,7 +627,7 @@ Existing topic reused for Kirk's Iran war positions.
 
 Existing topic reused for the Twiggs DNA claim.
 
-*Related: C-11712*
+*Related: C-11690*
 
 ---
 
@@ -636,7 +635,7 @@ Existing topic reused for the Twiggs DNA claim.
 
 Existing topic reused for the Shawn Ryan interview claim.
 
-*Related: C-11711*
+*Related: C-11689*
 
 ---
 
@@ -644,7 +643,7 @@ Existing topic reused for the Shawn Ryan interview claim.
 
 Existing topic reused for the hospital clothing claims.
 
-*Related: C-11708, C-11709*
+*Related: C-11685, C-11686*
 
 ---
 
@@ -652,7 +651,7 @@ Existing topic reused for the hospital clothing claims.
 
 Existing topic reused for the body-cam battery claim.
 
-*Related: C-11721*
+*Related: C-11708*
 
 ---
 
@@ -660,7 +659,7 @@ Existing topic reused for the body-cam battery claim.
 
 Existing topic reused for the TPUSA hotel claim.
 
-*Related: C-11756*
+*Related: C-11750*
 
 ---
 
@@ -668,7 +667,7 @@ Existing topic reused for the TPUSA hotel claim.
 
 Existing topic reused for the Harpole and Turek car-ride accounts.
 
-*Related: C-11705, C-11706, C-11707, C-11710, C-11711*
+*Related: C-11682, C-11683, C-11684, C-11688, C-11689*
 
 ---
 
@@ -676,7 +675,7 @@ Existing topic reused for the Harpole and Turek car-ride accounts.
 
 Existing topic reused for the inner-circle claim.
 
-*Related: C-11749*
+*Related: C-11743*
 
 ---
 
@@ -684,7 +683,7 @@ Existing topic reused for the inner-circle claim.
 
 US Central Command; its reported email asking for Iran ideas.
 
-*Related: C-11737*
+*Related: C-11728*
 
 ---
 
@@ -692,7 +691,7 @@ US Central Command; its reported email asking for Iran ideas.
 
 Existing topic reused for the Iran war claims.
 
-*Related: C-11738, C-11739, C-11740*
+*Related: C-11731, C-11729, C-11730*
 
 ---
 
@@ -701,7 +700,7 @@ Existing topic reused for the Iran war claims.
 Node Type: Topic
 The host's account of a member of her security detail who suffered a severe stroke during the Russia trip, had brain surgery in a Russian hospital, and is now seeking rehabilitation.
 
-*Related: C-11732, C-11733, C-11734, C-11735, C-11736*
+*Related: C-11722, C-11723, C-11724, C-11725, C-11726*
 
 ---
 
@@ -710,7 +709,7 @@ The host's account of a member of her security detail who suffered a severe stro
 Node Type: Organization
 Rehabilitation institute in Delray, Florida that the host names as the guard's next step and for which she asks viewers to help with funding.
 
-*Related: C-11736*
+*Related: C-11726*
 
 ---
 
@@ -719,7 +718,7 @@ Rehabilitation institute in Delray, Florida that the host names as the guard's n
 Node Type: Topic
 The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video of Tyler Robinson taking the shot, and the later shift to saying the 4K footage showed other things.
 
-*Related: C-11751, C-11752, C-11753, C-11754*
+*Related: C-11744, C-11746, C-11747, C-11748*
 
 ---
 
@@ -728,13 +727,13 @@ The dispute over whether TPUSA-aligned influencers claimed to have seen 4K video
 Node Type: Topic
 The Brady List website, a database of officers with documented credibility or misconduct issues, on which the host says Allan E. Robertson has an entry.
 
-*Related: C-11724, C-11725*
+*Related: C-11712, C-11713*
 
 ---
 
 ## V. Claim Register
 
-**C-3193** Host Says SUV Glove Pocket Was Empty When Charlie Kirk Exited the Vehicle at UVU
+**C-11681** Host Says SUV Glove Pocket Was Empty When Charlie Kirk Exited the Vehicle at UVU
 
 Claim Timestamp: 00:03:26
 
@@ -748,7 +747,7 @@ Investigative Direction: Cross-check the McCoy footage against police inventory 
 
 ---
 
-**C-3194** FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting
+**C-11696** FBI agents arrived at UVU at 12:39 PM, 16 minutes after the 12:23 PM shooting
 
 Claim Timestamp: 00:13:11
 
@@ -762,7 +761,7 @@ Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campu
 
 ---
 
-**C-3195** Officer Bagley's body cam ran 27 min 35 sec and ended on the Losi rooftop
+**C-11694** Officer Bagley's body cam ran 27 min 35 sec and ended on the Losi rooftop
 
 Claim Timestamp: 00:11:14
 
@@ -776,7 +775,7 @@ Investigative Direction: Obtain the body cam file metadata and manufacturer batt
 
 ---
 
-**C-3196** Officer Bagley could not identify the plainclothes man who went with him to the Losi rooftop
+**C-11692** Officer Bagley could not identify the plainclothes man who went with him to the Losi rooftop
 
 Claim Timestamp: 00:10:33
 
@@ -790,7 +789,7 @@ Investigative Direction: Cross-reference Bagley's testimony against UVU campus c
 
 ---
 
-**C-3197** Officer Bagley Testifies Plainclothes Man on Rooftop Had a Badge and a Handgun
+**C-11693** Officer Bagley Testifies Plainclothes Man on Rooftop Had a Badge and a Handgun
 
 Claim Timestamp: 00:10:33
 
@@ -804,7 +803,7 @@ Investigative Direction: Compare Bagley's badge-and-handgun description with the
 
 ---
 
-**C-3198** Host Says Bystander Footage at 12:47 PM Shows Officer Bagley and a Second Plainclothes Man on the Losi Rooftop
+**C-11701** Host Says Bystander Footage at 12:47 PM Shows Officer Bagley and a Second Plainclothes Man on the Losi Rooftop
 
 Claim Timestamp: 00:15:40
 
@@ -818,7 +817,7 @@ Investigative Direction: Authenticate the bystander clip's timestamp and origina
 
 ---
 
-**C-3199** Red-hat man on Losi rooftop identified as Allan Robertson of USU PD
+**C-11702** Red-hat man on Losi rooftop identified as Allan Robertson of USU PD
 
 Claim Timestamp: 00:16:28
 
@@ -832,7 +831,7 @@ Investigative Direction: Verify Robertson's identification through facial compar
 
 ---
 
-**C-3200** Blue-shirt man on Losi rooftop identified as Christopher Hawk
+**C-11705** Blue-shirt man on Losi rooftop identified as Christopher Hawk
 
 Claim Timestamp: 00:18:30
 
@@ -846,7 +845,7 @@ Investigative Direction: Verify Hawk's presence and role through credential reco
 
 ---
 
-**C-3201** Allan Robertson joined the USU police force the summer before the Kirk shooting
+**C-11703** Allan Robertson joined the USU police force the summer before the Kirk shooting
 
 Claim Timestamp: 00:16:47
 
@@ -860,7 +859,7 @@ Investigative Direction: Obtain the original Facebook post metadata (date, autho
 
 ---
 
-**C-3202** Host Says Allan Robertson Was a US Marine Corps Marksmanship Instructor at Camp Pendleton, 2009–2014
+**C-11709** Host Says Allan Robertson Was a US Marine Corps Marksmanship Instructor at Camp Pendleton, 2009–2014
 
 Claim Timestamp: 00:19:23
 
@@ -874,7 +873,7 @@ Investigative Direction: Pull archived versions of the LinkedIn profile and cros
 
 ---
 
-**C-3203** Host Says Brady List Website Has an Entry for Allan E. Robertson
+**C-11715** Host Says Brady List Website Has an Entry for Allan E. Robertson
 
 Claim Timestamp: 00:22:55
 
@@ -888,7 +887,7 @@ Investigative Direction: Obtain the underlying Brady disclosure record via CPRA 
 
 ---
 
-**C-3204** Host Says Brady List Website Lists San Bernardino PD as Not in Compliance with Brady Disclosure Obligations
+**C-11714** Host Says Brady List Website Lists San Bernardino PD as Not in Compliance with Brady Disclosure Obligations
 
 Claim Timestamp: 00:22:10
 
@@ -902,7 +901,7 @@ Investigative Direction: Verify the non-compliance notation through Brady List's
 
 ---
 
-**C-3205** US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran
+**C-11727** US Central Command officer emailed a request for creative and unconventional ideas to pressure Iran
 
 Claim Timestamp: 00:34:33
 
@@ -915,7 +914,7 @@ Investigative Direction: Obtain the original CNN article and any underlying Pent
 
 ---
 
-**C-3206** Erika Kirk Says Her Husband Is Not Here to Say Whether the US Should Be at War With Iran
+**C-11732** Erika Kirk Says Her Husband Is Not Here to Say Whether the US Should Be at War With Iran
 
 Claim Timestamp: 00:37:43
 
@@ -928,7 +927,7 @@ Investigative Direction: Locate the original media appearance (outlet, date, ful
 
 ---
 
-**C-3207** Charlie Kirk called war with Iran "pathologically insane" in archived footage
+**C-11735** Charlie Kirk called war with Iran "pathologically insane" in archived footage
 
 Claim Timestamp: 00:38:45
 
@@ -941,7 +940,7 @@ Investigative Direction: Locate the original source videos (date, outlet, full c
 
 ---
 
-**C-3208** Charlie Kirk stated "This is Israel's war" in archived footage
+**C-11739** Charlie Kirk stated "This is Israel's war" in archived footage
 
 Claim Timestamp: 00:39:31
 
@@ -954,7 +953,7 @@ Investigative Direction: Source the original archived segment to verify date, ve
 
 ---
 
-**C-3209** Frank Turek Describes "Yanking and Banking" Into the Hospital Parking Lot
+**C-11687** Frank Turek Describes "Yanking and Banking" Into the Hospital Parking Lot
 
 Claim Timestamp: 00:06:18
 
@@ -968,7 +967,7 @@ Investigative Direction: Obtain the full Frank Turek interview and clarify what 
 
 ---
 
-**C-3210** Nissi's analysis asserts Officer Bagley's testimony omits key interactions with the red-hat man
+**C-11706** Nissi's analysis asserts Officer Bagley's testimony omits key interactions with the red-hat man
 
 Claim Timestamp: 00:18:43
 
@@ -982,7 +981,7 @@ Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in 
 
 ---
 
-**C-11702** Host Says TPUSA Has Reversed Charlie's Positions
+**C-11678** Host Says TPUSA Has Reversed Charlie's Positions
 
 Claim Timestamp: 00:00:49
 
@@ -998,7 +997,7 @@ Investigative Direction: Compare TPUSA's current public statements with Kirk's d
 
 ---
 
-**C-11703** Host Says Gloves Were Left in Left Rear Door of Transport SUV
+**C-11679** Host Says Gloves Were Left in Left Rear Door of Transport SUV
 
 Claim Timestamp: 00:01:55
 
@@ -1009,13 +1008,13 @@ Transcript Snippet: Do not forget that in the SUV that transported Charlie to th
 Anchored Artifacts: A-3152.1
 Mentions: N-3, N-1
 Related Nodes: N-10771
-Supports: C-3087
+Supports: C-11062
 Tags: relevance:core
 Investigative Direction: Obtain the original photograph of the door compartment and the SUV's evidence inventory to establish what the object is.
 
 ---
 
-**C-11704** Host Says Sleuth Tip Revealed McCoy Recorded Kirk's Final Weeks
+**C-11680** Host Says Sleuth Tip Revealed McCoy Recorded Kirk's Final Weeks
 
 Claim Timestamp: 00:03:14
 
@@ -1031,7 +1030,7 @@ Investigative Direction: Obtain McCoy's full recording set for the week of Septe
 
 ---
 
-**C-11705** Host Says Harpole Was Not Seated on the Glove-Pocket Side
+**C-11682** Host Says Harpole Was Not Seated on the Glove-Pocket Side
 
 Claim Timestamp: 00:04:21
 
@@ -1042,13 +1041,13 @@ Transcript Snippet: Brian was definitively not sitting on that side of the car a
 Anchored Artifacts: 
 Mentions: N-266
 Related Nodes: N-10771, N-10737
-Supports: C-3089
+Supports: C-11065
 Tags: relevance:core
 Investigative Direction: Establish the seating chart of the SUV from the occupants' own accounts and any interior photographs.
 
 ---
 
-**C-11706** Host Says Harpole Told of a Nurse Wiping Blood From His Face
+**C-11683** Host Says Harpole Told of a Nurse Wiping Blood From His Face
 
 Claim Timestamp: 00:04:21
 
@@ -1064,7 +1063,7 @@ Investigative Direction: Locate the Harpole interview where the nurse account is
 
 ---
 
-**C-11707** Host Recounts Being Told Cutler Only Held Harpole in the Car
+**C-11684** Host Recounts Being Told Cutler Only Held Harpole in the Car
 
 Claim Timestamp: 00:05:31
 
@@ -1075,13 +1074,13 @@ Transcript Snippet: And we were told that Rick Cutler didn't do nothing but hold
 Anchored Artifacts: A-3153.1
 Mentions: N-487, N-266
 Related Nodes: N-10737
-Supports: C-2951
+Supports: C-10324
 Tags: relevance:core
 Investigative Direction: Compare Harpole's and Cutler's own recorded accounts of who did what during the ride.
 
 ---
 
-**C-11708** Host Says Cutler Allegedly Stripped Down His Clothes at the Hospital
+**C-11685** Host Says Cutler Allegedly Stripped Down His Clothes at the Hospital
 
 Claim Timestamp: 00:05:31
 
@@ -1097,7 +1096,7 @@ Investigative Direction: Ask hospital staff and the group to confirm who changed
 
 ---
 
-**C-11709** Host Says Feds Allegedly Took Cutler's Clothes Down to Boxer Briefs
+**C-11686** Host Says Feds Allegedly Took Cutler's Clothes Down to Boxer Briefs
 
 Claim Timestamp: 00:05:31
 
@@ -1113,7 +1112,7 @@ Investigative Direction: Request FBI evidence-receipt records for clothing taken
 
 ---
 
-**C-11710** Host Recounts Harpole's Gurney Account in the ER
+**C-11688** Host Recounts Harpole's Gurney Account in the ER
 
 Claim Timestamp: 00:07:24
 
@@ -1124,13 +1123,13 @@ Transcript Snippet: Particularly the portion where Brian Harpole grabs a gurnie,
 Anchored Artifacts: 
 Mentions: N-266, N-1
 Related Nodes: N-10737
-Supports: C-5785
+Supports: C-10231
 Tags: relevance:core
 Investigative Direction: Obtain ER staff statements and the hospital's trauma-bay record for who treated Kirk on arrival.
 
 ---
 
-**C-11711** Host Says Harpole Said He Was Doing the Medical in Shawn Ryan Interview
+**C-11689** Host Says Harpole Said He Was Doing the Medical in Shawn Ryan Interview
 
 Claim Timestamp: 00:08:10
 
@@ -1146,7 +1145,7 @@ Investigative Direction: Pull the Shawn Ryan interview and transcribe Harpole's 
 
 ---
 
-**C-11712** Host Says Screwdriver Carries Lance Twiggs's DNA Alongside Tyler Robinson's
+**C-11690** Host Says Screwdriver Carries Lance Twiggs's DNA Alongside Tyler Robinson's
 
 Claim Timestamp: 00:09:23
 
@@ -1162,7 +1161,7 @@ Investigative Direction: Review the FBI DNA report on the screwdriver (listed in
 
 ---
 
-**C-11713** Host Says It Is Unknown Whether the Screwdriver Works for the Gun
+**C-11691** Host Says It Is Unknown Whether the Screwdriver Works for the Gun
 
 Claim Timestamp: 00:09:23
 
@@ -1173,13 +1172,13 @@ Transcript Snippet: we still don't know um if that screwdriver even if a screwdr
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10343
-Supports: C-1243
+Supports: C-644
 Tags: relevance:core
 Investigative Direction: Obtain the rifle's disassembly specifications and the exhibit photographs of the screwdriver and screw heads.
 
 ---
 
-**C-11714** Host Says Bagley Testified to Reaching the Roof at 12:44 and Finding Screwdriver in Gravel
+**C-11695** Host Says Bagley Testified to Reaching the Roof at 12:44 and Finding Screwdriver in Gravel
 
 Claim Timestamp: 00:12:18
 
@@ -1190,13 +1189,13 @@ Transcript Snippet: he gets on to Losi building at 12:44. He discovers that scre
 Anchored Artifacts: 
 Mentions: N-506
 Related Nodes: N-10343
-Supports: C-7284
+Supports: C-10866
 Tags: relevance:core
 Investigative Direction: Compare the 12:44 arrival with the 12:47 bystander clip and with the preliminary-hearing transcript.
 
 ---
 
-**C-11715** Host Says Bagley Went Up After the FBI Had Arrived and Started Securing the Scene
+**C-11697** Host Says Bagley Went Up After the FBI Had Arrived and Started Securing the Scene
 
 Claim Timestamp: 00:13:11
 
@@ -1207,13 +1206,13 @@ Transcript Snippet: I want to underscore that officer Baggley went onto Losi roo
 Anchored Artifacts: A-2226.1
 Mentions: N-506
 Related Nodes: N-10772, N-10014
-Supports: C-3194
+Supports: C-11696
 Tags: relevance:core
 Investigative Direction: Obtain the scene access log and FBI arrival documents to test who was authorized on the rooftop at 12:44.
 
 ---
 
-**C-11716** Host Says the FBI's Nearest Field Office Is in Salt Lake City, a 50-Minute Drive
+**C-11698** Host Says the FBI's Nearest Field Office Is in Salt Lake City, a 50-Minute Drive
 
 Claim Timestamp: 00:13:11
 
@@ -1224,13 +1223,13 @@ Transcript Snippet: That is remarkably fast given the FBI um office is actually 
 Anchored Artifacts: A-2226.1
 Mentions: N-3
 Related Nodes: N-10014, N-10074
-Supports: C-8917
+Supports: C-10507
 Tags: relevance:core
 Investigative Direction: Obtain FBI office addresses and the dispatch/arrival logs for September 10 to test the 16-minute figure.
 
 ---
 
-**C-11717** Host Says the Nearby Provo Office Has Apparently Four Agents
+**C-11699** Host Says the Nearby Provo Office Has Apparently Four Agents
 
 Claim Timestamp: 00:13:11
 
@@ -1246,7 +1245,7 @@ Investigative Direction: Confirm the Provo FBI resident-agency headcount and loc
 
 ---
 
-**C-11718** Host Says the Bystander Clip Came From Footage Sent to Her on September 10th
+**C-11700** Host Says the Bystander Clip Came From Footage Sent to Her on September 10th
 
 Claim Timestamp: 00:14:58
 
@@ -1262,7 +1261,7 @@ Investigative Direction: Ask the host for the original submission, sender and me
 
 ---
 
-**C-11719** Host Says Robertson Appears Immediately in Charge in Early Footage
+**C-11704** Host Says Robertson Appears Immediately in Charge in Early Footage
 
 Claim Timestamp: 00:16:47
 
@@ -1278,7 +1277,7 @@ Investigative Direction: Review the early scene footage for Robertson giving dir
 
 ---
 
-**C-11720** Nissi Says Robertson Is Seen Walking Around Texting and Making Calls
+**C-11707** Nissi Says Robertson Is Seen Walking Around Texting and Making Calls
 
 Claim Timestamp: 00:18:43
 
@@ -1294,7 +1293,7 @@ Investigative Direction: Obtain the livestream source and review it for the red-
 
 ---
 
-**C-11721** Nissi Says Body Cameras Are Supposed to Last About 10 Hours
+**C-11708** Nissi Says Body Cameras Are Supposed to Last About 10 Hours
 
 Claim Timestamp: 00:18:43
 
@@ -1310,7 +1309,7 @@ Investigative Direction: Obtain the UVU police body-camera model specifications 
 
 ---
 
-**C-11722** Host Says Robertson Seems to Be Calling the Shots From Farnsworth to Bagley
+**C-11710** Host Says Robertson Seems to Be Calling the Shots From Farnsworth to Bagley
 
 Claim Timestamp: 00:19:23
 
@@ -1326,7 +1325,7 @@ Investigative Direction: Interview officers at the scene about who directed the 
 
 ---
 
-**C-11723** Host Says Robertson Was a San Bernardino Police Officer Just Before Utah
+**C-11711** Host Says Robertson Was a San Bernardino Police Officer Just Before Utah
 
 Claim Timestamp: 00:20:19
 
@@ -1342,7 +1341,7 @@ Investigative Direction: Obtain Robertson's San Bernardino PD employment dates t
 
 ---
 
-**C-11724** Host Describes the Brady List as a Prosecutor-Kept Database of Officer Credibility Issues
+**C-11712** Host Describes the Brady List as a Prosecutor-Kept Database of Officer Credibility Issues
 
 Claim Timestamp: 00:20:19
 
@@ -1358,7 +1357,7 @@ Investigative Direction: Verify the Brady List website's own description of what
 
 ---
 
-**C-11725** Host Says Not Every Officer Has an Entry on the Brady List
+**C-11713** Host Says Not Every Officer Has an Entry on the Brady List
 
 Claim Timestamp: 00:21:45
 
@@ -1374,7 +1373,7 @@ Investigative Direction: Search the Brady List site for officers from other depa
 
 ---
 
-**C-11726** Host Says San Bernardino PD Has a Lot of Corruption
+**C-11716** Host Says San Bernardino PD Has a Lot of Corruption
 
 Claim Timestamp: 00:22:55
 
@@ -1390,7 +1389,7 @@ Investigative Direction: Review public reporting, DOJ findings and court records
 
 ---
 
-**C-11727** Host Says Robertson Moved to Utah in August 2024
+**C-11718** Host Says Robertson Moved to Utah in August 2024
 
 Claim Timestamp: 00:24:38
 
@@ -1406,7 +1405,7 @@ Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showin
 
 ---
 
-**C-11728** Host Says It Is Plausible Robertson Was Involved in Something in San Bernardino
+**C-11719** Host Says It Is Plausible Robertson Was Involved in Something in San Bernardino
 
 Claim Timestamp: 00:24:53
 
@@ -1422,7 +1421,7 @@ Investigative Direction: Seek the underlying Brady disclosure or personnel recor
 
 ---
 
-**C-11729** Host Asks for Tips on Robertson at the Tip Line
+**C-11717** Host Asks for Tips on Robertson at the Tip Line
 
 Claim Timestamp: 00:24:30
 
@@ -1438,7 +1437,7 @@ Investigative Direction: Review incoming tips about Robertson for named, checkab
 
 ---
 
-**C-11730** Host Repeats the Tip Line Address
+**C-11720** Host Repeats the Tip Line Address
 
 Claim Timestamp: 00:25:07
 
@@ -1454,7 +1453,7 @@ Investigative Direction: Not applicable beyond tracking tip volume and follow-up
 
 ---
 
-**C-11731** Host Says It Is Plausible Robertson Found the Screwdriver and Is Not Named Because of Brady Issues
+**C-11721** Host Says It Is Plausible Robertson Found the Screwdriver and Is Not Named Because of Brady Issues
 
 Claim Timestamp: 00:28:22
 
@@ -1470,7 +1469,7 @@ Investigative Direction: Ask prosecutors whether Robertson is on any witness lis
 
 ---
 
-**C-11732** Host Says Her Security Guard Had a Severe Stroke and Brain Surgery
+**C-11722** Host Says Her Security Guard Had a Severe Stroke and Brain Surgery
 
 Claim Timestamp: 00:29:32
 
@@ -1486,7 +1485,7 @@ Investigative Direction: Not independently verifiable beyond the host's account;
 
 ---
 
-**C-11733** Host Says the Guard Spent Over Five Years Trying to Get a VA Appointment
+**C-11723** Host Says the Guard Spent Over Five Years Trying to Get a VA Appointment
 
 Claim Timestamp: 00:29:32
 
@@ -1502,7 +1501,7 @@ Investigative Direction: VA wait-time and appointment records for the veteran, w
 
 ---
 
-**C-11734** Host Says Russia's Ministry of Health Paid the Guard's Entire Hospital Bill
+**C-11724** Host Says Russia's Ministry of Health Paid the Guard's Entire Hospital Bill
 
 Claim Timestamp: 00:30:31
 
@@ -1518,7 +1517,7 @@ Investigative Direction: Obtain the hospital's billing statement or Ministry of 
 
 ---
 
-**C-11735** Host Says the Guard's Eyesight Returned After the Clot Was Removed
+**C-11725** Host Says the Guard's Eyesight Returned After the Clot Was Removed
 
 Claim Timestamp: 00:31:10
 
@@ -1534,7 +1533,7 @@ Investigative Direction: Medical records for the veteran with his consent.
 
 ---
 
-**C-11736** Host Appeals for Help Getting the Guard Into a Brain-Enhancement Institute in Florida
+**C-11726** Host Appeals for Help Getting the Guard Into a Brain-Enhancement Institute in Florida
 
 Claim Timestamp: 00:32:38
 
@@ -1550,7 +1549,7 @@ Investigative Direction: Confirm the institute's address, program cost and any c
 
 ---
 
-**C-11737** Host Cites a Second CNN Source on the Iran Ideas Request
+**C-11728** Host Cites a Second CNN Source on the Iran Ideas Request
 
 Claim Timestamp: 00:35:48
 
@@ -1566,7 +1565,7 @@ Investigative Direction: Obtain the CNN article and test the two sourcing paths 
 
 ---
 
-**C-11738** Host Says Charlie Was the First Casualty of the Iranian War
+**C-11731** Host Says Charlie Was the First Casualty of the Iranian War
 
 Claim Timestamp: 00:37:33
 
@@ -1577,13 +1576,13 @@ Transcript Snippet: we know that Charlie was the first casualty of the Iranian w
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-11128, N-10539
-Supports: C-8679
+Supports: C-8010
 Tags: relevance:core
 Investigative Direction: This is an inference; it would need documentary evidence of a link between Kirk's Iran stance and the shooting.
 
 ---
 
-**C-11739** Host Says Netanyahu Pitched Trump That Persia Could Be Taken in a Week
+**C-11729** Host Says Netanyahu Pitched Trump That Persia Could Be Taken in a Week
 
 Claim Timestamp: 00:36:09
 
@@ -1599,7 +1598,7 @@ Investigative Direction: Look for reporting on Netanyahu's private assessments t
 
 ---
 
-**C-11740** Host Says Trump Has Claimed About 55 Victories Over Iran in His Tweets
+**C-11730** Host Says Trump Has Claimed About 55 Victories Over Iran in His Tweets
 
 Claim Timestamp: 00:36:41
 
@@ -1615,7 +1614,7 @@ Investigative Direction: Count Trump's posts claiming victory over Iran and comp
 
 ---
 
-**C-11741** Host Says Blake Neff Said Charlie Would Support Trump on the Iran War
+**C-11733** Host Says Blake Neff Said Charlie Would Support Trump on the Iran War
 
 Claim Timestamp: 00:37:43
 
@@ -1631,7 +1630,7 @@ Investigative Direction: Locate Neff's statement (platform and date) and quote i
 
 ---
 
-**C-11742** Erika Says It Is Frustrating When People Speak for Charlie
+**C-11734** Erika Says It Is Frustrating When People Speak for Charlie
 
 Claim Timestamp: 00:37:43
 
@@ -1647,7 +1646,7 @@ Investigative Direction: Locate the original appearance and confirm the quote an
 
 ---
 
-**C-11743** Kirk Clip Calls War Against Iran a Profound Mistake
+**C-11736** Kirk Clip Calls War Against Iran a Profound Mistake
 
 Claim Timestamp: 00:38:45
 
@@ -1663,7 +1662,7 @@ Investigative Direction: Source the original clip (date, outlet) and confirm con
 
 ---
 
-**C-11744** Kirk Clip Says Iran Has No Bomb in 2025 and Questions Trusting US Intelligence
+**C-11737** Kirk Clip Says Iran Has No Bomb in 2025 and Questions Trusting US Intelligence
 
 Claim Timestamp: 00:38:45
 
@@ -1679,7 +1678,7 @@ Investigative Direction: Source the original clip and confirm the date and surro
 
 ---
 
-**C-11745** Kirk Clip Warns of a Regional Mess if Iran Retaliates
+**C-11738** Kirk Clip Warns of a Regional Mess if Iran Retaliates
 
 Claim Timestamp: 00:38:45
 
@@ -1695,7 +1694,7 @@ Investigative Direction: Source the original clip and confirm the date.
 
 ---
 
-**C-11746** Host Says Robinson Is Not Trans and Cannot Be Proven on Campus
+**C-11740** Host Says Robinson Is Not Trans and Cannot Be Proven on Campus
 
 Claim Timestamp: 00:39:31
 
@@ -1706,13 +1705,13 @@ Transcript Snippet: a trans furry who it turns out is not trans and um they can'
 Anchored Artifacts: 
 Mentions: N-40, N-1, N-3
 Related Nodes: N-10000
-Supports: C-6719
+Supports: C-4026
 Tags: relevance:core
 Investigative Direction: Compare the prosecution's exhibits placing Robinson on campus and any gender-identity evidence against the host's assertion.
 
 ---
 
-**C-11747** Host Says Israel Finances Migration Campaigns Into Europe While Blaming Arabs
+**C-11741** Host Says Israel Finances Migration Campaigns Into Europe While Blaming Arabs
 
 Claim Timestamp: 00:40:33
 
@@ -1728,7 +1727,7 @@ Investigative Direction: No evidence offered; would need documentary funding rec
 
 ---
 
-**C-11748** Host Says Iran Is Making Lego Videos About the Epstein Class and Kirk's Assassination
+**C-11742** Host Says Iran Is Making Lego Videos About the Epstein Class and Kirk's Assassination
 
 Claim Timestamp: 00:43:33
 
@@ -1744,7 +1743,7 @@ Investigative Direction: Locate the Lego videos and confirm their origin and con
 
 ---
 
-**C-11749** Host Says People in Charlie's Inner Circle Are Part of the Lies
+**C-11743** Host Says People in Charlie's Inner Circle Are Part of the Lies
 
 Claim Timestamp: 00:45:02
 
@@ -1760,7 +1759,7 @@ Investigative Direction: Identify the specific individuals and statements the ho
 
 ---
 
-**C-11750** Host Says She Did Not Have to Recant Any Statement After the Preliminary Hearing
+**C-11745** Host Says She Did Not Have to Recant Any Statement After the Preliminary Hearing
 
 Claim Timestamp: 00:46:38
 
@@ -1776,7 +1775,7 @@ Investigative Direction: Compare the host's pre-hearing claims with the hearing 
 
 ---
 
-**C-11751** Host Says the Preliminary Hearing Showed No 4K Video of Robinson Taking the Shot
+**C-11744** Host Says the Preliminary Hearing Showed No 4K Video of Robinson Taking the Shot
 
 Claim Timestamp: 00:46:30
 
@@ -1787,13 +1786,13 @@ Transcript Snippet: surely when we get to the preliminary hearing, they're just 
 Anchored Artifacts: 
 Mentions: N-2, N-40, N-3
 Related Nodes: N-11308
-Supports: C-3014
+Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing exhibit list and transcript for any video depicting the shot.
 
 ---
 
-**C-11752** Host Says TPUSA's Side Is Now Moving the Goalposts on the 4K Video
+**C-11746** Host Says TPUSA's Side Is Now Moving the Goalposts on the 4K Video
 
 Claim Timestamp: 00:47:08
 
@@ -1804,13 +1803,13 @@ Transcript Snippet: Now they're moving the goalpost and they're like well we mea
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11308
-Supports: C-7418
+Supports: C-11532
 Tags: relevance:core
 Investigative Direction: Gather the original statements by influencers and TPUSA about the 4K footage and compare their wording.
 
 ---
 
-**C-11753** Host Says the Original Claim Was 4K Footage of Him Taking the Shot
+**C-11747** Host Says the Original Claim Was 4K Footage of Him Taking the Shot
 
 Claim Timestamp: 00:47:08
 
@@ -1821,13 +1820,13 @@ Transcript Snippet: you said literally the words that came out of your mouth was
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-11308
-Supports: C-3014
+Supports: C-10653
 Tags: relevance:core
 Investigative Direction: Locate the original posts or broadcasts with the 4K claim and quote the speaker verbatim.
 
 ---
 
-**C-11754** Host Says She Recently Revealed the 4K Video
+**C-11748** Host Says She Recently Revealed the 4K Video
 
 Claim Timestamp: 00:47:08
 
@@ -1843,7 +1842,7 @@ Investigative Direction: Identify which video the host means and its source.
 
 ---
 
-**C-11755** Host Says Videos in the Epstein Files Allowed Trump to Be Controlled
+**C-11749** Host Says Videos in the Epstein Files Allowed Trump to Be Controlled
 
 Claim Timestamp: 00:49:13
 
@@ -1859,7 +1858,7 @@ Investigative Direction: No evidence offered; would need the release of the file
 
 ---
 
-**C-11756** Host Says Her Team Found Out Which Hotel TPUSA Staff Stayed In
+**C-11750** Host Says Her Team Found Out Which Hotel TPUSA Staff Stayed In
 
 Claim Timestamp: 00:49:13
 

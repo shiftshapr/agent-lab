@@ -18,9 +18,8 @@
   - Hole-minted Nodes (reintro-ep007): N-99, N-10094, N-10110, N-10297, N-10341
   - Tip-minted Nodes (reintro-ep007): N-10900, N-11116
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-10717–C-10770
+  - Claim Range: C-584–C-657
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
-  - Claim Range: C-1228-C-1244, C-3717
   - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10084, N-10086, N-10087, N-10088, N-10090, N-10091
   - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134, N-10083, N-10085, N-68
 ## 2. Executive Summary
@@ -33,13 +32,13 @@ Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then 
 
 **A-1134.1** Erika Kirk speech clip: Charlie blinked and saw his savior
 Video Timestamp: 00:04:04–00:04:26
-*Related: C-1228, N-1, N-2*
+*Related: C-585, N-1, N-2*
 Transcript Snippet: One moment Charlie was doing what he loved...he blinked and saw his savior in paradise.
 Confidence: high
 
 **A-1134.2** Erika Kirk forgiveness speech referenced
 Video Timestamp: 00:02:05–00:02:25
-*Related: C-1228, N-2*
+*Related: C-585, N-2*
 Transcript Snippet: But she arrived at forgiveness and she did it in front of the entire world.
 
 ---
@@ -49,7 +48,7 @@ Transcript Snippet: But she arrived at forgiveness and she did it in front of th
 **A-1135.1** Kolvet tweet re lack of exit wound called a miracle
 Event Timestamp: 2025-09-13
 Video Timestamp: 00:08:41–00:10:36
-*Related: C-1229, C-1230, N-14, N-10000*
+*Related: C-593, C-594, N-14, N-10000*
 Transcript Snippet: The fact that there wasn't an exit wound is probably another miracle.
 Confidence: high
 
@@ -59,7 +58,7 @@ Confidence: high
 
 **A-1136.1** Alex Jones X Live clip disputing miracle claim
 Video Timestamp: 00:13:01–00:14:14
-*Related: C-1231, N-93*
+*Related: C-596, N-93*
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Confidence: high
 
@@ -69,7 +68,7 @@ Confidence: high
 
 **A-1137.1** Kash Patel tweet: FBI commitment to thorough investigation
 Video Timestamp: 00:15:24–00:17:31
-*Related: C-1232, C-1233, N-69, N-10014*
+*Related: C-598, C-600, N-69, N-10014*
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Confidence: high
 
@@ -79,7 +78,7 @@ Confidence: high
 
 **A-1138.1** Derek Maxfield Instagram statement: ATC granted transponder shutdown permission
 Video Timestamp: 00:17:12–00:17:48
-*Related: C-1233, N-94, N-10014, N-10084*
+*Related: C-600, N-94, N-10014, N-10084*
 Transcript Snippet: they got permission to you know turn off services which are transponder services um and they got that permission from the air traffic controller.
 Confidence: medium
 
@@ -89,18 +88,18 @@ Confidence: medium
 
 **A-1139.1** Photo showing pipeline behind Charlie's seat
 Video Timestamp: 00:20:46–00:21:00
-*Related: C-1234, N-10012, N-10085*
+*Related: C-605, N-10012, N-10085*
 Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Confidence: medium
 
 **A-1139.2** Close-up of trap-door boxes at location
 Video Timestamp: 00:21:13–00:21:27
-*Related: C-1234, N-10012, N-10085*
+*Related: C-605, N-10012, N-10085*
 Transcript Snippet: You're observing those two little boxes, and they told me that that was a a trap door.
 
 **A-1139.3** Footage of area being repaved shortly after shooting
 Video Timestamp: 00:23:03–00:23:17
-*Related: C-1235, N-10012*
+*Related: C-609, N-10012*
 Transcript Snippet: They decided to instead pave that area, repave it.
 
 ---
@@ -109,7 +108,7 @@ Transcript Snippet: They decided to instead pave that area, repave it.
 
 **A-1140.1** Laura Loomer tweet reporting Candace to CIA over CIA-themed merch
 Video Timestamp: 00:27:15–00:28:40
-*Related: C-1236, N-60, N-10082*
+*Related: C-612, N-60, N-10082*
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Confidence: high
 
@@ -119,13 +118,13 @@ Confidence: high
 
 **A-1141.1** Awesome Jew tweet releasing exclusive text messages
 Video Timestamp: 00:30:06–00:31:25
-*Related: C-1237, N-96, N-1*
+*Related: C-617, N-96, N-1*
 Transcript Snippet: A close friend of Charlie Kirk shared these messages.
 Confidence: high
 
 **A-1141.2** Text messages between Charlie Kirk and friend re Candace statements
 Video Timestamp: 00:30:41–00:31:23
-*Related: C-1237, C-1238, N-1, N-3*
+*Related: C-617, C-620, N-1, N-3*
 Transcript Snippet: Candace needs to say two things...Israel is not committing a genocide.
 
 ---
@@ -134,12 +133,12 @@ Transcript Snippet: Candace needs to say two things...Israel is not committing a
 
 **A-1142.1** Candace Owens tweet: genocide is always wrong
 Video Timestamp: 00:31:50–00:32:07
-*Related: C-1239, N-3*
+*Related: C-621, N-3*
 Transcript Snippet: No government anywhere has a right to commit a genocide ever.
 
 **A-1142.2** Dave Rubin reply to Candace genocide tweet
 Video Timestamp: 00:32:22
-*Related: C-1239, N-32*
+*Related: C-621, N-32*
 Transcript Snippet: Dave Rubin instantly replied and said something about Israel.
 
 ---
@@ -148,12 +147,12 @@ Transcript Snippet: Dave Rubin instantly replied and said something about Israel
 
 **A-1143.1** Charlie Kirk town hall clip discussing antisemitism with Jen Z
 Video Timestamp: 00:37:37–00:41:08
-*Related: C-1240, N-1*
+*Related: C-630, N-1*
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 
 **A-1143.2** Charlie Kirk town hall clip discussing AIPAC
 Video Timestamp: 00:39:25–00:42:59
-*Related: C-1241, N-10083*
+*Related: C-631, N-10083*
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 
 ---
@@ -162,7 +161,7 @@ Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...
 
 **A-1144.1** Tucker Carlson clip on Charlie's gospel message and repentance
 Video Timestamp: 00:44:13–00:45:37
-*Related: C-1242, N-22*
+*Related: C-635, N-22*
 Transcript Snippet: Christianity calls upon you to change. Our core prayer...forgive us our sins.
 
 ---
@@ -171,17 +170,17 @@ Transcript Snippet: Christianity calls upon you to change. Our core prayer...for
 
 **A-1145.1** Comment re screwdriver reportedly found on roof
 Video Timestamp: 00:54:26–00:54:57
-*Related: C-1243, N-40*
+*Related: C-644, N-40*
 Transcript Snippet: They said they found it on the roof, even though you don't use a screwdriver to take that rifle apart.
 
 **A-1145.2** Comment expressing suspicion re Dr. Frank Turek
 Video Timestamp: 00:54:58–00:55:55
-*Related: C-1244, N-7*
+*Related: C-645, N-7*
 Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 
 **A-1145.3** Comment asking whether Jack Posobiec is trustworthy given his Navy intelligence background, read on air and answered by the host
 Video Timestamp: 00:48:31–00:49:57
-*Related: C-3717, N-3, N-95*
+*Related: C-639, N-3, N-95*
 Transcript Snippet: Candace, is Jack Posobiec trustworthy? I find it odd that a Navy intelligence officer
 
 ---
@@ -192,7 +191,7 @@ Transcript Snippet: Candace, is Jack Posobiec trustworthy? I find it odd that a 
 Video Timestamp: 00:27:08
 Transcript Snippet: ...ling a CIA line of merchandise that is called the Candace Intelligence Agency, which rips off the CIA name and logo. It is a federal felony to use the CIA seal without l...
 Confidence: high
-*Related: C-3639, N-3, N-60*
+*Related: C-611, N-3, N-60*
 
 ---
 
@@ -205,7 +204,7 @@ Video Timestamp: 00:05:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10721, N-3, N-42*
+*Related: C-589, N-3, N-42*
 
 ---
 
@@ -218,7 +217,7 @@ Video Timestamp: 00:20:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10731, N-3*
+*Related: C-606, N-3*
 
 ---
 
@@ -233,7 +232,7 @@ Video Timestamp: 00:45:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10753, N-3*
+*Related: C-637, N-3*
 
 ---
 
@@ -246,7 +245,7 @@ Video Timestamp: 00:55:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10761, C-10762*
+*Related: C-648, C-649*
 
 ---
 
@@ -259,7 +258,7 @@ Video Timestamp: 00:57:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10763, C-10764, N-14, N-2*
+*Related: C-650, C-651, N-14, N-2*
 
 ---
 
@@ -270,7 +269,7 @@ Confidence Level: Medium
 Node Type: Person
 Deceased founder of TPUSA; primary subject of investigation.
 
-*Related: A-1134.1, A-1141.2, A-1143.1, A-1143.2, C-1237, C-1240, C-1241, C-1228, C-1238, C-1242*
+*Related: A-1134.1, A-1141.2, A-1143.1, A-1143.2, C-617, C-630, C-631, C-585, C-620, C-635*
 
 ---
 
@@ -279,7 +278,7 @@ Deceased founder of TPUSA; primary subject of investigation.
 Node Type: Person
 Host of the episode and lead investigator.
 
-*Related: A-1140.1, A-1142.1, A-1142.2, C-1236, C-1239, C-1237, C-1238*
+*Related: A-1140.1, A-1142.1, A-1142.2, C-612, C-621, C-617, C-620*
 
 ---
 
@@ -288,7 +287,7 @@ Host of the episode and lead investigator.
 Node Type: Person
 Widow of Charlie Kirk; now leads TPUSA; delivered forgiveness speech.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: A-1134.1, A-1134.2, C-585*
 
 ---
 
@@ -297,7 +296,7 @@ Widow of Charlie Kirk; now leads TPUSA; delivered forgiveness speech.
 Node Type: Person
 FBI Director who issued the official investigation tweet.
 
-*Related: A-1137.1, C-1232, C-1233*
+*Related: A-1137.1, C-598, C-600*
 
 ---
 
@@ -306,7 +305,7 @@ FBI Director who issued the official investigation tweet.
 Node Type: Person
 TPUSA spokesperson who issued miracle/exit-wound statement.
 
-*Related: A-1135.1, C-1229, C-1230*
+*Related: A-1135.1, C-593, C-594*
 
 ---
 
@@ -315,7 +314,7 @@ TPUSA spokesperson who issued miracle/exit-wound statement.
 Node Type: Person
 Speaker at memorial; commented on Charlie's gospel message.
 
-*Related: A-1144.1, C-1242*
+*Related: A-1144.1, C-635*
 
 ---
 
@@ -324,7 +323,7 @@ Speaker at memorial; commented on Charlie's gospel message.
 Node Type: Person
 Commentator who responded to Kolvet statement on X Live.
 
-*Related: A-1136.1, C-1231*
+*Related: A-1136.1, C-596*
 
 ---
 
@@ -333,7 +332,7 @@ Commentator who responded to Kolvet statement on X Live.
 Node Type: Person
 Commentator who filed CIA complaint about Candace's merch.
 
-*Related: A-1140.1, C-1236*
+*Related: A-1140.1, C-612*
 
 ---
 
@@ -342,7 +341,7 @@ Commentator who filed CIA complaint about Candace's merch.
 Node Type: Person
 Owner of plane allegedly near shooting site; disputed FBI transponder claim.
 
-*Related: A-1138.1, C-1233*
+*Related: A-1138.1, C-600*
 
 ---
 
@@ -351,7 +350,7 @@ Owner of plane allegedly near shooting site; disputed FBI transponder claim.
 Node Type: Person
 Alleged shooter of Charlie Kirk; subject of investigation.
 
-*Related: A-1145.1, C-1243*
+*Related: A-1145.1, C-644*
 
 ---
 
@@ -360,7 +359,7 @@ Alleged shooter of Charlie Kirk; subject of investigation.
 Node Type: Person
 Individual located in crowd whose path host found suspicious.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: A-1134.1, A-1134.2, C-585*
 
 
 
@@ -371,7 +370,7 @@ Individual located in crowd whose path host found suspicious.
 Node Type: Person
 Commentator and former Navy intelligence officer; defended by host.
 
-*Related: C-3717*
+*Related: C-639*
 
 
 
@@ -382,7 +381,7 @@ Commentator and former Navy intelligence officer; defended by host.
 Node Type: Person
 Dr. who spoke at memorial; viewer raised suspicions about him.
 
-*Related: A-1145.2, C-1244*
+*Related: A-1145.2, C-645*
 
 ---
 
@@ -391,7 +390,7 @@ Dr. who spoke at memorial; viewer raised suspicions about him.
 Node Type: Person
 X account that released Charlie Kirk text messages.
 
-*Related: A-1141.1, A-1141.2, C-1237*
+*Related: A-1141.1, A-1141.2, C-617*
 
 ---
 
@@ -400,7 +399,7 @@ X account that released Charlie Kirk text messages.
 Node Type: Person
 Commentator who replied to Candace's genocide tweet.
 
-*Related: A-1142.2, C-1239*
+*Related: A-1142.2, C-621*
 
 ---
 
@@ -409,7 +408,7 @@ Commentator who replied to Candace's genocide tweet.
 Node Type: Person
 Daily Wire figure referenced re firing Candace.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: A-1134.1, A-1134.2, C-585*
 
 
 
@@ -420,7 +419,7 @@ Daily Wire figure referenced re firing Candace.
 Node Type: Person
 Referenced as part of Hamptons group also with Awesome Jew.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: A-1134.1, A-1134.2, C-585*
 
 
 
@@ -430,7 +429,7 @@ Referenced as part of Hamptons group also with Awesome Jew.
 Node Type: Person
 Donor alleged to have withdrawn millions from TPUSA.
 
-*Related: A-1134.1, A-1134.2, C-1228*
+*Related: A-1134.1, A-1134.2, C-585*
 
 
 
@@ -441,7 +440,7 @@ Donor alleged to have withdrawn millions from TPUSA.
 Node Type: Person
 Israeli PM alleged to have offered Charlie Kirk funding.
 
-*Related: A-1143.1, C-1240*
+*Related: A-1143.1, C-630*
 
 ---
 
@@ -451,7 +450,7 @@ Node Type: Organization
 Organization Kind: government_agency
 Central Intelligence Agency; subject of merch complaint.
 
-*Related: A-1140.1, C-1236*
+*Related: A-1140.1, C-612*
 
 ---
 
@@ -461,7 +460,7 @@ Node Type: Organization
 Organization Kind: nonprofit
 Conservative youth organization founded by Charlie Kirk.
 
-*Related: A-1135.1, C-1229*
+*Related: A-1135.1, C-593*
 
 ---
 
@@ -471,7 +470,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Site of Charlie Kirk shooting; alleged underground tunnel/pipeline owner.
 
-*Related: A-1139.1, A-1139.2, A-1139.3, C-1234, C-1235*
+*Related: A-1139.1, A-1139.2, A-1139.3, C-605, C-609*
 
 ---
 
@@ -483,7 +482,7 @@ Node Type: Organization
 Organization Kind: advocacy_group
 Pro-Israel lobbying organization discussed at Charlie's town hall.
 
-*Related: A-1143.2, C-1241, C-1240*
+*Related: A-1143.2, C-631, C-630*
 
 ---
 
@@ -495,7 +494,7 @@ Node Type: Organization
 Organization Kind: government_agency
 Federal Aviation Administration; consulted re transponder claim.
 
-*Related: A-1138.1, C-1233*
+*Related: A-1138.1, C-600*
 
 ---
 
@@ -505,7 +504,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Mismatch between expected high-velocity bullet behavior and reported no-exit-wound outcome.
 
-*Related: A-1135.1, A-1136.1, A-1139.1, C-1229, C-1230, C-1231*
+*Related: A-1135.1, A-1136.1, A-1139.1, C-593, C-594, C-596*
 
 ---
 
@@ -515,7 +514,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Dispute between FBI (lost signal) and plane owner (ATC-permitted shutdown).
 
-*Related: A-1137.1, A-1138.1, C-1233*
+*Related: A-1137.1, A-1138.1, C-600*
 
 ---
 
@@ -525,7 +524,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Hypothesis that underground access near Charlie's seat could explain no-exit-wound outcome.
 
-*Related: A-1139.1, A-1139.2, A-1139.3, C-1234*
+*Related: A-1139.1, A-1139.2, A-1139.3, C-605*
 
 ---
 
@@ -535,7 +534,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Allegation that Candace was reported to FBI and CIA over merch and rhetoric.
 
-*Related: A-1140.1, C-1236*
+*Related: A-1140.1, C-612*
 
 ---
 
@@ -545,7 +544,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Disputed narrative that Charlie and Candace had a breakup; host denies.
 
-*Related: A-1141.1, A-1141.2, C-1237, C-1238*
+*Related: A-1141.1, A-1141.2, C-617, C-620*
 
 ---
 
@@ -555,7 +554,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.
 
-*Related: A-1145.1, C-1243*
+*Related: A-1145.1, C-644*
 
 ---
 
@@ -565,7 +564,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Viewer-raised suspicion about Dr. Frank Turek's memorial speech and possible guilt.
 
-*Related: A-1145.2, C-1244*
+*Related: A-1145.2, C-645*
 
 ---
 
@@ -573,7 +572,7 @@ Viewer-raised suspicion about Dr. Frank Turek's memorial speech and possible gui
 
 Seth Dillon; one of the two men the host guesses supplied the texts.
 
-*Related: C-10739*
+*Related: C-618*
 
 ---
 
@@ -581,7 +580,7 @@ Seth Dillon; one of the two men the host guesses supplied the texts.
 
 Megyn Kelly; credited by the host with the under-30 Israel remark.
 
-*Related: C-10745*
+*Related: C-626*
 
 ---
 
@@ -589,7 +588,7 @@ Megyn Kelly; credited by the host with the under-30 Israel remark.
 
 Josh Hammer; the other man the host guesses supplied the texts.
 
-*Related: C-10739*
+*Related: C-618*
 
 ---
 
@@ -597,7 +596,7 @@ Josh Hammer; the other man the host guesses supplied the texts.
 
 Brian Mast; his congressional remark prompted the host's genocide tweet.
 
-*Related: C-10741*
+*Related: C-622*
 
 ---
 
@@ -605,7 +604,7 @@ Brian Mast; his congressional remark prompted the host's genocide tweet.
 
 Brigitte Macron; subject of the host's series plug.
 
-*Related: C-10755*
+*Related: C-640*
 
 ---
 
@@ -613,7 +612,7 @@ Brigitte Macron; subject of the host's series plug.
 
 Unidentified camera individual; the host says she recognized him and spoke with him.
 
-*Related: C-10723*
+*Related: C-591*
 
 ---
 
@@ -621,7 +620,7 @@ Unidentified camera individual; the host says she recognized him and spoke with 
 
 Alex Clark; host whose show Erika is said to be appearing on.
 
-*Related: C-10765, C-10770*
+*Related: C-652, C-657*
 
 ---
 
@@ -629,7 +628,7 @@ Alex Clark; host whose show Erika is said to be appearing on.
 
 Eric Bolling; the host says he claimed a breakup and had interviewed her in 2020.
 
-*Related: C-10735*
+*Related: C-613*
 
 ---
 
@@ -637,7 +636,7 @@ Eric Bolling; the host says he claimed a breakup and had interviewed her in 2020
 
 TMZ; received the witness's footage per the host.
 
-*Related: C-10729*
+*Related: C-603*
 
 ---
 
@@ -645,7 +644,7 @@ TMZ; received the witness's footage per the host.
 
 Federal Bureau of Investigation; Patel's agency and the body the host says she was reported to.
 
-*Related: C-10727, C-10734*
+*Related: C-599, C-610*
 
 ---
 
@@ -653,7 +652,7 @@ Federal Bureau of Investigation; Patel's agency and the body the host says she w
 
 Kirk Assassination Investigation Timeline; the host's planned minute-by-minute timeline.
 
-*Related: C-10720*
+*Related: C-588*
 
 ---
 
@@ -661,7 +660,7 @@ Kirk Assassination Investigation Timeline; the host's planned minute-by-minute t
 
 The Hamptons; location of the gathering the host mentions.
 
-*Related: C-10737*
+*Related: C-615*
 
 ---
 
@@ -669,7 +668,7 @@ The Hamptons; location of the gathering the host mentions.
 
 Decoy Boy Operation Analysis; topic covering Zinn's role.
 
-*Related: C-10721*
+*Related: C-589*
 
 ---
 
@@ -677,7 +676,7 @@ Decoy Boy Operation Analysis; topic covering Zinn's role.
 
 Building Donor Withdrawal Investigation; donor pulled funding and demanded name removal.
 
-*Related: C-10770*
+*Related: C-657*
 
 ---
 
@@ -685,7 +684,7 @@ Building Donor Withdrawal Investigation; donor pulled funding and demanded name 
 
 Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.
 
-*Related: C-10738, C-10751*
+*Related: C-616, C-634*
 
 ---
 
@@ -693,7 +692,7 @@ Donor Intimidation of Charlie Kirk; topic for pressure on Charlie.
 
 Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.
 
-*Related: C-10728*
+*Related: C-602*
 
 ---
 
@@ -701,7 +700,7 @@ Vacant-House / Decoy Shooter Theory; the vacant UVU-owned house.
 
 Caldera Engineering Valve Pattern; the witness's valve company.
 
-*Related: C-10729*
+*Related: C-603*
 
 ---
 
@@ -709,7 +708,7 @@ Caldera Engineering Valve Pattern; the witness's valve company.
 
 Good Morning America; where the children appeared.
 
-*Related: C-10754*
+*Related: C-638*
 
 ---
 
@@ -717,7 +716,7 @@ Good Morning America; where the children appeared.
 
 Gaza; context for the leaked thread and Israel remarks.
 
-*Related: C-10740, C-10756*
+*Related: C-619, C-641*
 
 ---
 
@@ -725,7 +724,7 @@ Gaza; context for the leaked thread and Israel remarks.
 
 Daily Mail; reported the host raged about not being invited.
 
-*Related: C-10760*
+*Related: C-647*
 
 ---
 
@@ -733,7 +732,7 @@ Daily Mail; reported the host raged about not being invited.
 
 Cameragate Investigation; camera removal after the shooting.
 
-*Related: C-10723*
+*Related: C-591*
 
 ---
 
@@ -741,7 +740,7 @@ Cameragate Investigation; camera removal after the shooting.
 
 Valve/Piping Industry Intelligence Connection; the host's valve remark.
 
-*Related: C-10730*
+*Related: C-604*
 
 ---
 
@@ -749,7 +748,7 @@ Valve/Piping Industry Intelligence Connection; the host's valve remark.
 
 LDS Church; the host's intelligence recruiting remark.
 
-*Related: C-10761*
+*Related: C-648*
 
 ---
 
@@ -757,7 +756,7 @@ LDS Church; the host's intelligence recruiting remark.
 
 Catholic Conversion Rumor; Charlie and Catholicism.
 
-*Related: C-10768, C-10769*
+*Related: C-655, C-656*
 
 ---
 
@@ -765,7 +764,7 @@ Catholic Conversion Rumor; Charlie and Catholicism.
 
 Tyler Robinson Evidence Gaps; the disappeared letter.
 
-*Related: C-10726*
+*Related: C-597*
 
 ---
 
@@ -773,7 +772,7 @@ Tyler Robinson Evidence Gaps; the disappeared letter.
 
 Hamptons Weekend Retreat; gathering context.
 
-*Related: C-10737*
+*Related: C-615*
 
 ---
 
@@ -781,7 +780,7 @@ Hamptons Weekend Retreat; gathering context.
 
 Operation Mocking Pastor; what the host says the $150 million funded.
 
-*Related: C-10766*
+*Related: C-653*
 
 ---
 
@@ -789,7 +788,7 @@ Operation Mocking Pastor; what the host says the $150 million funded.
 
 AmFest Speaker Removal Pattern; the host says she was blocked from speaking.
 
-*Related: C-10744*
+*Related: C-625*
 
 ---
 
@@ -797,7 +796,7 @@ AmFest Speaker Removal Pattern; the host says she was blocked from speaking.
 
 Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breakup claim.
 
-*Related: C-10735*
+*Related: C-613*
 
 ---
 
@@ -805,7 +804,7 @@ Eric Bolling / PBD Podcast Apology Incident; Bolling topic reused for his breaku
 
 Andrew Kolvet Surgeon Bullet Description; Kolvet statement.
 
-*Related: C-10725*
+*Related: C-595*
 
 ---
 
@@ -813,7 +812,7 @@ Andrew Kolvet Surgeon Bullet Description; Kolvet statement.
 
 Bibi Netanyahu TPUSA Funding Offer; alleged offer.
 
-*Related: C-10765, C-10767*
+*Related: C-652, C-654*
 
 ---
 
@@ -821,7 +820,7 @@ Bibi Netanyahu TPUSA Funding Offer; alleged offer.
 
 Daily Wire; the host's former employer.
 
-*Related: C-10746*
+*Related: C-627*
 
 ---
 
@@ -829,7 +828,7 @@ Daily Wire; the host's former employer.
 
 Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candace Owens; the funding claim.
 
-*Related: C-10766*
+*Related: C-653*
 
 ---
 
@@ -837,13 +836,13 @@ Alleged $150 Million Netanyahu-Funded Campaign Against Tucker Carlson and Candac
 
 Candace Owens Daily Wire Firing Reasons; her job loss.
 
-*Related: C-10746*
+*Related: C-627*
 
 ---
 
 ## 5. Claim Register
 
-**C-1228** Host Says Erika Kirk Publicly Forgave Charlie's Killer at Memorial
+**C-585** Host Says Erika Kirk Publicly Forgave Charlie's Killer at Memorial
 
 Claim Timestamp: 00:02:05
 Claim: The host says Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, which the host describes as a message of complete submission to Christ.
@@ -854,7 +853,7 @@ Investigative Direction: Verify the full text/transcript of Erika's speech again
 
 ---
 
-**C-1229** Kolvet stated lack of exit wound was a miracle
+**C-593** Kolvet stated lack of exit wound was a miracle
 
 Claim Timestamp: 00:08:41
 Claim: TPUSA spokesperson Andrew Kolvet publicly stated the absence of an exit wound was likely a miracle after speaking with the surgeon.
@@ -866,7 +865,7 @@ Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; 
 
 ---
 
-**C-1230** Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through
+**C-594** Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through
 
 Claim Timestamp: 00:08:48
 Claim: In a tweet the host reads, Andrew Kolvet says the surgeon who worked on Charlie told him the bullet 'absolutely should have gone through', which is very normal for a high-powered, high-velocity round.
@@ -878,7 +877,7 @@ Investigative Direction: Identify the surgeon and request confirmation; review a
 
 ---
 
-**C-1231** Clip Has Alex Jones Disputing the Miracle Claim on X Live
+**C-596** Clip Has Alex Jones Disputing the Miracle Claim on X Live
 
 Claim Timestamp: 00:12:19
 Claim: In a clip the host plays, Alex Jones says on X Live that a TPUSA spokesperson said Charlie Kirk was shot with a 30-06 that did not go through, and he disputes this by citing typical 30-06 ballistics.
@@ -890,7 +889,7 @@ Investigative Direction: Archive the original X Live broadcast.
 
 ---
 
-**C-1232** Kash Patel committed FBI to exhaustive investigation
+**C-598** Kash Patel committed FBI to exhaustive investigation
 
 Claim Timestamp: 00:15:24
 Claim: FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including the possibility of accomplices.
@@ -903,7 +902,7 @@ Investigative Direction: Retrieve the original Patel tweet and archive; cross-re
 Tags: open_source_investigation
 ---
 
-**C-1233** FBI and plane owner contradict each other on transponder
+**C-600** FBI and plane owner contradict each other on transponder
 
 Claim Timestamp: 00:17:00
 Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost signal; plane owner Derek Maxfield states ATC permission was granted to disable services.
@@ -917,7 +916,7 @@ Investigative Direction: Obtain FAA radar logs and ATC recordings for the releva
 
 ---
 
-**C-1234** Host Says Photos Show Pipeline and Access Points Near Charlie's Seat
+**C-605** Host Says Photos Show Pipeline and Access Points Near Charlie's Seat
 
 Claim Timestamp: 00:20:46
 Claim: The host says that old photos of where Charlie Kirk was seated show a large pipeline almost exactly behind where he was sitting, and that tipsters told her two small boxes nearby were a trap door, suggesting an underground area.
@@ -929,7 +928,7 @@ Investigative Direction: Obtain UVU facilities maps, irrigation system records, 
 
 ---
 
-**C-1235** Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting
+**C-609** Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting
 
 Claim Timestamp: 00:23:03
 Claim: The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking Schuyler to confirm the timing.
@@ -941,7 +940,7 @@ Investigative Direction: Obtain UVU maintenance logs and contractor records for 
 
 ---
 
-**C-1236** Laura Loomer reported Candace to CIA over CIA-themed merch
+**C-612** Laura Loomer reported Candace to CIA over CIA-themed merch
 
 Claim Timestamp: 00:27:15
 Claim: In a tweet the host reads, Laura Loomer tags the director of the CIA and says Candace Owens is 'likely breaking the law' with her 'Candace Intelligence Agency' merch, adding that it is a federal felony to use the CIA seal without license.
@@ -953,7 +952,7 @@ Investigative Direction: Archive the original Loomer tweet; check whether any fo
 
 ---
 
-**C-1237** Awesome Jew Released Charlie Kirk Text Messages the Host Dates to 2023
+**C-617** Awesome Jew Released Charlie Kirk Text Messages the Host Dates to 2023
 
 Claim Timestamp: 00:30:06
 Claim: An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.
@@ -966,7 +965,7 @@ Investigative Direction: Verify the actual date of the messages via metadata or 
 Tags: open_source_investigation
 ---
 
-**C-1238** Released text messages were from 2023, not recent
+**C-620** Released text messages were from 2023, not recent
 
 Claim Timestamp: 00:31:08
 Claim: Host asserts the released text messages dated to 2023 based on context (Brian Mast comment, AmFest dispute) and were undated to obscure that fact.
@@ -979,7 +978,7 @@ Investigative Direction: Cross-reference the content with public 2023 events; ob
 Tags: open_source_investigation
 ---
 
-**C-1239** Candace Says She Was Pressured to Retract Genocide Tweet
+**C-621** Candace Says She Was Pressured to Retract Genocide Tweet
 
 Claim Timestamp: 00:32:05
 Claim: After Candace tweeted 'genocide is always wrong' while at the Daily Wire, she says she was peer pressured to correct or apologize for the tweet, Dave Rubin instantly replied with something about Israel, and she and Charlie were inundated.
@@ -990,7 +989,7 @@ Investigative Direction: Archive original tweet and Rubin reply; identify any co
 
 ---
 
-**C-1240** Charlie Kirk said calling all critics antisemitic was destructive
+**C-630** Charlie Kirk said calling all critics antisemitic was destructive
 
 Claim Timestamp: 00:37:37
 Claim: In a clip the host plays, Charlie Kirk says that if you call everyone an antisemite if they do not take a puritanical view of the Netanyahu government, he thinks that is bad for everybody.
@@ -1002,7 +1001,7 @@ Investigative Direction: Verify the full town hall recording.
 
 ---
 
-**C-1241** Clip Has Audience Member Telling Kirk He Has a Huge Problem With AIPAC
+**C-631** Clip Has Audience Member Telling Kirk He Has a Huge Problem With AIPAC
 
 Claim Timestamp: 00:39:20
 Claim: In a clip the host plays of an audience Q&A, after Charlie Kirk invites him to chime in, an audience member says he has a huge problem with allowing a group that does not represent American interests to influence the people who are supposed to represent Americans.
@@ -1014,7 +1013,7 @@ Investigative Direction: Verify the full town hall recording and Charlie's subse
 
 ---
 
-**C-1242** Tucker Carlson framed Charlie's mission as gospel repentance
+**C-635** Tucker Carlson framed Charlie's mission as gospel repentance
 
 Claim Timestamp: 00:43:29
 Claim: In a clip the host plays from the night before, Tucker Carlson says Charlie Kirk was bringing the gospel to the country and was a political person, but that politics is not the final answer, that the gospel message begins with repentance and that the only real solution is Jesus.
@@ -1025,7 +1024,7 @@ Investigative Direction: Obtain the full Carlson memorial speech transcript.
 
 ---
 
-**C-1243** Screwdriver on roof reportedly doesn't fit the rifle
+**C-644** Screwdriver on roof reportedly doesn't fit the rifle
 
 Claim Timestamp: 00:54:31
 Claim: A viewer reports that authorities claimed a screwdriver was found on the roof, but that tool is not used to disassemble that model of rifle.
@@ -1037,7 +1036,7 @@ Investigative Direction: Identify the rifle model and required disassembly tools
 
 ---
 
-**C-1244** Dr. Frank Turek raised viewer suspicion after memorial speech
+**C-645** Dr. Frank Turek raised viewer suspicion after memorial speech
 
 Claim Timestamp: 00:54:58
 Claim: A viewer comment the host reads says something about Dr. Frank Turek isn't sitting right with the viewer, who is unsure whether he is having some unfounded guilt about not doing more; the host says many people had that feeling after his memorial speech.
@@ -1049,7 +1048,7 @@ Investigative Direction: Obtain the full Frank Turek memorial speech and biograp
 
 ---
 
-**C-3639** Host reads Laura Loomer tweet alleging the Candace Intelligence Agency CIA merch line infringes the CIA seal
+**C-611** Host reads Laura Loomer tweet alleging the Candace Intelligence Agency CIA merch line infringes the CIA seal
 
 Claim Timestamp: 00:27:08
 Claim: The host reads on air a Laura Loomer tweet asserting that the CIA-branded "Candace Intelligence Agency" merch line rips off the CIA name and logo, that using the CIA seal without license is a federal felony, and that the CIA can sue; the host calls Loomer "our resident psycho," frames the tweet as part of non-stop attacks, and replies that the merch predates Charlie Kirk's assassination and is a legal parody of the CIA.
@@ -1062,7 +1061,7 @@ Investigative Direction: Archive the original Loomer tweet (text, date, CIA dire
 
 ---
 
-**C-3640** Host elevates mommy sleuth crowd investigators
+**C-601** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:18:20
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
@@ -1075,7 +1074,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 ---
 
-**C-3717** Candace vouches for Jack Posobiec despite viewer doubts about his naval intelligence past
+**C-639** Candace vouches for Jack Posobiec despite viewer doubts about his naval intelligence past
 
 Claim Timestamp: 00:49:00
 Claim: Answering a viewer question, Candace says she knows Jack Posobiec, that he has always been solid with her, and that he was a naval intelligence officer who has never denied it.
@@ -1086,7 +1085,7 @@ Investigative Direction: Verify Posobiec's naval intelligence service record and
 
 ---
 
-**C-10717** Host tweeted Erika Kirk's memorial speech was the most consequential in American history
+**C-584** Host tweeted Erika Kirk's memorial speech was the most consequential in American history
 
 Claim Timestamp: 00:00:53
 
@@ -1104,7 +1103,7 @@ Investigative Direction: Archive the host's tweet about Erika Kirk's speech and 
 
 ---
 
-**C-10718** Host recounts meeting Erika Kirk at Del Frisco's in New York
+**C-586** Host recounts meeting Erika Kirk at Del Frisco's in New York
 
 Claim Timestamp: 00:02:51
 
@@ -1122,7 +1121,7 @@ Investigative Direction: Ask the host for the date of the New York meeting; chec
 
 ---
 
-**C-10719** Erika's speech said Charlie did not suffer
+**C-587** Erika's speech said Charlie did not suffer
 
 Claim Timestamp: 00:03:19
 
@@ -1140,7 +1139,7 @@ Investigative Direction: Obtain the full video of Erika Kirk's memorial speech a
 
 ---
 
-**C-10720** Host is building a minute-by-minute timeline of the post-shooting minutes
+**C-588** Host is building a minute-by-minute timeline of the post-shooting minutes
 
 Claim Timestamp: 00:05:04
 
@@ -1160,7 +1159,7 @@ Investigative Direction: Check the host's later episodes for the promised timeli
 
 ---
 
-**C-10721** Host located George Zinn in the crowd and finds his path suspicious
+**C-589** Host located George Zinn in the crowd and finds his path suspicious
 
 Claim Timestamp: 00:05:19
 
@@ -1180,7 +1179,7 @@ Investigative Direction: Obtain the viewer photo and the video showing Zinn on t
 
 ---
 
-**C-10722** Host believes people inside TPUSA betrayed Charlie
+**C-590** Host believes people inside TPUSA betrayed Charlie
 
 Claim Timestamp: 00:05:59
 
@@ -1200,7 +1199,7 @@ Investigative Direction: Identify who the host means; look for her later documen
 
 ---
 
-**C-10723** Host recognized the camera-removal man and reached out
+**C-591** Host recognized the camera-removal man and reached out
 
 Claim Timestamp: 00:07:06
 
@@ -1214,7 +1213,7 @@ Mentions: N-3, N-1
 
 Related Nodes: N-83, N-10076
 
-Supports: C-4902, C-1205
+Supports: C-376, C-501
 
 Tags: relevance:core
 
@@ -1222,7 +1221,7 @@ Investigative Direction: Identify the man, obtain the footage he showed the host
 
 ---
 
-**C-10724** Host says the footage showed no blood except on Charlie's left hand
+**C-592** Host says the footage showed no blood except on Charlie's left hand
 
 Claim Timestamp: 00:07:50
 
@@ -1236,7 +1235,7 @@ Mentions: N-3, N-1
 
 Related Nodes: N-10085
 
-Supports: C-1209
+Supports: C-516
 
 Tags: relevance:core
 
@@ -1244,7 +1243,7 @@ Investigative Direction: Obtain the behind-camera footage and have a forensic pa
 
 ---
 
-**C-10725** Kolvet statement says the bullet would likely have killed those behind Charlie and the coroner found it beneath the skin
+**C-595** Kolvet statement says the bullet would likely have killed those behind Charlie and the coroner found it beneath the skin
 
 Claim Timestamp: 00:09:35
 
@@ -1264,7 +1263,7 @@ Investigative Direction: Obtain Kolvet's original post and any coroner or autops
 
 ---
 
-**C-10726** Host says Robinson's letter has disappeared and his partner photographed it
+**C-597** Host says Robinson's letter has disappeared and his partner photographed it
 
 Claim Timestamp: 00:14:19
 
@@ -1284,7 +1283,7 @@ Investigative Direction: Ask prosecutors whether the original note is in evidenc
 
 ---
 
-**C-10727** Patel's tweet lists hand gestures and weapon transport among investigated theories
+**C-599** Patel's tweet lists hand gestures and weapon transport among investigated theories
 
 Claim Timestamp: 00:15:50
 
@@ -1304,7 +1303,7 @@ Investigative Direction: Retrieve Patel's original post and ask the FBI for any 
 
 ---
 
-**C-10728** Host says the house next door is vacant and owned by UVU
+**C-602** Host says the house next door is vacant and owned by UVU
 
 Claim Timestamp: 00:19:11
 
@@ -1324,7 +1323,7 @@ Investigative Direction: Pull county property records for the house, its ownersh
 
 ---
 
-**C-10729** Host says the TMZ witness runs a worldwide valve engineering company
+**C-603** Host says the TMZ witness runs a worldwide valve engineering company
 
 Claim Timestamp: 00:19:27
 
@@ -1338,7 +1337,7 @@ Mentions: N-3
 
 Related Nodes: N-10054, N-10011
 
-Supports: C-1218
+Supports: C-527
 
 Tags: relevance:core
 
@@ -1346,7 +1345,7 @@ Investigative Direction: Check corporate filings for the company, its ownership,
 
 ---
 
-**C-10730** Host says valves historically connect to the government and deep state
+**C-604** Host says valves historically connect to the government and deep state
 
 Claim Timestamp: 00:19:42
 
@@ -1360,7 +1359,7 @@ Mentions: N-3
 
 Related Nodes: N-10080
 
-Supports: C-1217
+Supports: C-526
 
 Tags: relevance:context
 
@@ -1368,7 +1367,7 @@ Investigative Direction: Identify the sources who told the host and any document
 
 ---
 
-**C-10731** Host says tipsters messaged her about an underground area and trap-door boxes
+**C-606** Host says tipsters messaged her about an underground area and trap-door boxes
 
 Claim Timestamp: 00:20:58
 
@@ -1382,7 +1381,7 @@ Mentions: N-3, N-1
 
 Related Nodes: N-10087, N-10012
 
-Supports: C-1234
+Supports: C-605
 
 Tags: relevance:core, DIA
 
@@ -1390,7 +1389,7 @@ Investigative Direction: Obtain the tip messages and UVU utility and site plans 
 
 ---
 
-**C-10732** Host theorizes Charlie could have been shot from beneath
+**C-607** Host theorizes Charlie could have been shot from beneath
 
 Claim Timestamp: 00:21:48
 
@@ -1410,7 +1409,7 @@ Investigative Direction: Obtain the autopsy wound trajectory and any ground-pene
 
 ---
 
-**C-10733** Host says a university-managed irrigation system runs beneath Charlie's seat
+**C-608** Host says a university-managed irrigation system runs beneath Charlie's seat
 
 Claim Timestamp: 00:22:35
 
@@ -1424,7 +1423,7 @@ Mentions: N-1, N-3
 
 Related Nodes: N-10012, N-10087
 
-Supports: C-1234
+Supports: C-605
 
 Tags: relevance:core
 
@@ -1432,7 +1431,7 @@ Investigative Direction: Obtain UVU irrigation plans for the amphitheater area.
 
 ---
 
-**C-10734** Host says she was reported to the FBI and the CIA
+**C-610** Host says she was reported to the FBI and the CIA
 
 Claim Timestamp: 00:23:36
 
@@ -1446,7 +1445,7 @@ Mentions: N-3
 
 Related Nodes: N-10014, N-10082, N-10088
 
-Supports: C-1236
+Supports: C-612
 
 Tags: relevance:context
 
@@ -1454,7 +1453,7 @@ Investigative Direction: Ask the host whether any agency contacted her and who f
 
 ---
 
-**C-10735** Host says Eric Bolling claimed a breakup and had interviewed her in 2020
+**C-613** Host says Eric Bolling claimed a breakup and had interviewed her in 2020
 
 Claim Timestamp: 00:28:56
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Pull the Bolling broadcast and the 2020 interview to ch
 
 ---
 
-**C-10736** Host denies ever having a falling out with Charlie Kirk
+**C-614** Host denies ever having a falling out with Charlie Kirk
 
 Claim Timestamp: 00:29:15
 
@@ -1488,7 +1487,7 @@ Mentions: N-3, N-1
 
 Related Nodes: N-10089
 
-Contradicts: C-1204
+Contradicts: C-462
 
 Tags: relevance:context
 
@@ -1496,7 +1495,7 @@ Investigative Direction: Compare the host's and Kirk's public appearances and me
 
 ---
 
-**C-10737** Host says she heard Awesome Jew was in the Hamptons with Bill Ackman's group
+**C-615** Host says she heard Awesome Jew was in the Hamptons with Bill Ackman's group
 
 Claim Timestamp: 00:29:20
 
@@ -1516,7 +1515,7 @@ Investigative Direction: Identify the attendee list of the Hamptons gathering an
 
 ---
 
-**C-10738** Host says the leaked texts show donors and Zionists tried to control Charlie's speech
+**C-616** Host says the leaked texts show donors and Zionists tried to control Charlie's speech
 
 Claim Timestamp: 00:30:01
 
@@ -1536,7 +1535,7 @@ Investigative Direction: Obtain the full unredacted thread with dates and sender
 
 ---
 
-**C-10739** Host guesses the Charlie friend is Seth Dillon or Josh Hammer
+**C-618** Host guesses the Charlie friend is Seth Dillon or Josh Hammer
 
 Claim Timestamp: 00:30:13
 
@@ -1554,7 +1553,7 @@ Investigative Direction: Ask the Awesome Jew account holder or the two named men
 
 ---
 
-**C-10740** Leaked thread has the friend demanding Candace say Israel is not committing genocide, and Charlie replying he is trying to help her
+**C-619** Leaked thread has the friend demanding Candace say Israel is not committing genocide, and Charlie replying he is trying to help her
 
 Claim Timestamp: 00:30:35
 
@@ -1574,7 +1573,7 @@ Investigative Direction: Obtain the original screenshots and verify authenticity
 
 ---
 
-**C-10741** Host says her genocide tweet answered Brian Mast's remark
+**C-622** Host says her genocide tweet answered Brian Mast's remark
 
 Claim Timestamp: 00:32:08
 
@@ -1586,7 +1585,7 @@ Anchored Artifacts: A-1142.1
 
 Mentions: N-3, N-64
 
-Supports: C-3721
+Supports: C-268
 
 Tags: relevance:context
 
@@ -1594,7 +1593,7 @@ Investigative Direction: Find the Mast statement in the Congressional record or 
 
 ---
 
-**C-10742** Host says Charlie's friend was reacting to her interview with a Zionist guest
+**C-623** Host says Charlie's friend was reacting to her interview with a Zionist guest
 
 Claim Timestamp: 00:32:43
 
@@ -1614,7 +1613,7 @@ Investigative Direction: Identify the guest and episode and date it against the 
 
 ---
 
-**C-10743** Host says she toured with Charlie in early 2024 and spoke at TPUSA in summer 2024
+**C-624** Host says she toured with Charlie in early 2024 and spoke at TPUSA in summer 2024
 
 Claim Timestamp: 00:33:00
 
@@ -1628,7 +1627,7 @@ Mentions: N-3, N-1
 
 Related Nodes: N-10000, N-10089
 
-Supports: C-1200, C-1223
+Supports: C-464, C-540
 
 Tags: relevance:context
 
@@ -1636,7 +1635,7 @@ Investigative Direction: Check TPUSA event schedules and recordings for the 2024
 
 ---
 
-**C-10744** Host says Charlie was peer pressured not to have her speak at AmFest
+**C-625** Host says Charlie was peer pressured not to have her speak at AmFest
 
 Claim Timestamp: 00:33:25
 
@@ -1656,7 +1655,7 @@ Investigative Direction: Obtain messages or witnesses about AmFest speaker lineu
 
 ---
 
-**C-10745** Host repeats Megyn Kelly saying nobody under 30 supports Israel
+**C-626** Host repeats Megyn Kelly saying nobody under 30 supports Israel
 
 Claim Timestamp: 00:33:58
 
@@ -1674,7 +1673,7 @@ Investigative Direction: Find polling on support for Israel among under-30 Ameri
 
 ---
 
-**C-10746** Host says her livelihood was threatened and she lost her job
+**C-627** Host says her livelihood was threatened and she lost her job
 
 Claim Timestamp: 00:34:16
 
@@ -1694,7 +1693,7 @@ Investigative Direction: Compare with the host's other accounts of her Daily Wir
 
 ---
 
-**C-10747** Clip exchange says cancelling Tucker Carlson would increase antisemitism
+**C-628** Clip exchange says cancelling Tucker Carlson would increase antisemitism
 
 Claim Timestamp: 00:36:58
 
@@ -1714,7 +1713,7 @@ Investigative Direction: Watch the full July 2025 town hall to confirm the speak
 
 ---
 
-**C-10748** Charlie says in the clip he loves Israel and has visited
+**C-629** Charlie says in the clip he loves Israel and has visited
 
 Claim Timestamp: 00:37:14
 
@@ -1734,7 +1733,7 @@ Investigative Direction: Watch the full town hall.
 
 ---
 
-**C-10749** Charlie says in the clip only about 20 members of Congress serve Americans without outside pull
+**C-632** Charlie says in the clip only about 20 members of Congress serve Americans without outside pull
 
 Claim Timestamp: 00:39:48
 
@@ -1754,7 +1753,7 @@ Investigative Direction: Watch the full town hall to confirm the speaker and the
 
 ---
 
-**C-10750** Host says a president suggested the AIPAC precursor register under FARA and was then shot
+**C-633** Host says a president suggested the AIPAC precursor register under FARA and was then shot
 
 Claim Timestamp: 00:40:37
 
@@ -1768,7 +1767,7 @@ Mentions: N-3
 
 Related Nodes: N-10083
 
-Supports: C-1241
+Supports: C-631
 
 Tags: relevance:context
 
@@ -1776,7 +1775,7 @@ Investigative Direction: Check the historical record on the pressure on the AIPA
 
 ---
 
-**C-10751** Host says what Charlie faced in 2025 mirrored her own 2024 pressure
+**C-634** Host says what Charlie faced in 2025 mirrored her own 2024 pressure
 
 Claim Timestamp: 00:41:53
 
@@ -1796,7 +1795,7 @@ Investigative Direction: Collect Charlie's public and private statements about p
 
 ---
 
-**C-10752** Host believes more people are involved who need forgiveness and has more to release
+**C-636** Host believes more people are involved who need forgiveness and has more to release
 
 Claim Timestamp: 00:45:07
 
@@ -1814,7 +1813,7 @@ Investigative Direction: Track which individuals or claims the host later names 
 
 ---
 
-**C-10753** Host asks for tips at the tip email address
+**C-637** Host asks for tips at the tip email address
 
 Claim Timestamp: 00:45:40
 
@@ -1826,7 +1825,7 @@ Anchored Artifacts: A-3098.1
 
 Mentions: N-3
 
-Supports: C-4901
+Supports: C-375
 
 Tags: relevance:core, DIA
 
@@ -1834,7 +1833,7 @@ Investigative Direction: The tip inbox itself; check the later episodes for tips
 
 ---
 
-**C-10754** Viewer says the children who spoke after the assassination sounded rehearsed
+**C-638** Viewer says the children who spoke after the assassination sounded rehearsed
 
 Claim Timestamp: 00:48:55
 
@@ -1854,7 +1853,7 @@ Investigative Direction: Obtain the Good Morning America segment and note any co
 
 ---
 
-**C-10755** Host plugs Becoming Brigitte series and says she is a dude
+**C-640** Host plugs Becoming Brigitte series and says she is a dude
 
 Claim Timestamp: 00:50:38
 
@@ -1872,7 +1871,7 @@ Investigative Direction: Treat as the host's assertion about Brigitte Macron; th
 
 ---
 
-**C-10756** Host says Charlie was the last prominent pro-Israel voice with presence across universities
+**C-641** Host says Charlie was the last prominent pro-Israel voice with presence across universities
 
 Claim Timestamp: 00:52:00
 
@@ -1892,7 +1891,7 @@ Investigative Direction: Compare with campus polling and TPUSA campus program da
 
 ---
 
-**C-10757** Host says nobody knows how the rifle moved from the roof to the woods and wants to see the tunnel network
+**C-642** Host says nobody knows how the rifle moved from the roof to the woods and wants to see the tunnel network
 
 Claim Timestamp: 00:52:26
 
@@ -1912,7 +1911,7 @@ Investigative Direction: Obtain the official timeline of the rifle's recovery an
 
 ---
 
-**C-10758** Host says UVU's website documents irrigation upkeep for the amphitheater
+**C-643** Host says UVU's website documents irrigation upkeep for the amphitheater
 
 Claim Timestamp: 00:53:15
 
@@ -1926,7 +1925,7 @@ Mentions: N-3
 
 Related Nodes: N-10012, N-10087
 
-Supports: C-1234
+Supports: C-605
 
 Tags: relevance:core
 
@@ -1934,7 +1933,7 @@ Investigative Direction: Capture the UVU facilities webpage and its maintenance 
 
 ---
 
-**C-10759** Host says her research has found nothing on Frank Turek
+**C-646** Host says her research has found nothing on Frank Turek
 
 Claim Timestamp: 00:55:31
 
@@ -1952,7 +1951,7 @@ Investigative Direction: Compare with later claims the host makes about Turek.
 
 ---
 
-**C-10760** Host says the Daily Mail reported she raged about not being invited to speak
+**C-647** Host says the Daily Mail reported she raged about not being invited to speak
 
 Claim Timestamp: 00:55:42
 
@@ -1966,7 +1965,7 @@ Mentions: N-3
 
 Related Nodes: N-10070
 
-Supports: C-1211, C-1201
+Supports: C-529, C-480
 
 Tags: relevance:context
 
@@ -1974,7 +1973,7 @@ Investigative Direction: Retrieve the Daily Mail article and compare with the ho
 
 ---
 
-**C-10761** Host says intelligence agencies recruit from the LDS church and apparently from UVU's campus
+**C-648** Host says intelligence agencies recruit from the LDS church and apparently from UVU's campus
 
 Claim Timestamp: 00:56:07
 
@@ -1994,7 +1993,7 @@ Investigative Direction: Find sources for LDS and UVU recruitment by intelligenc
 
 ---
 
-**C-10762** Host thinks a totally different weapon is the one to look for
+**C-649** Host thinks a totally different weapon is the one to look for
 
 Claim Timestamp: 00:56:17
 
@@ -2012,7 +2011,7 @@ Investigative Direction: Ask for the ballistics and chain of custody for the rec
 
 ---
 
-**C-10763** Viewer comment says Andrew said someone powerful called Erika to ask how much she knows
+**C-650** Viewer comment says Andrew said someone powerful called Erika to ask how much she knows
 
 Claim Timestamp: 00:57:01
 
@@ -2030,7 +2029,7 @@ Investigative Direction: Find the Charlie Kirk Show episode where Kolvet said th
 
 ---
 
-**C-10764** Host says Erika knows everything about Charlie
+**C-651** Host says Erika knows everything about Charlie
 
 Claim Timestamp: 00:57:13
 
@@ -2048,7 +2047,7 @@ Investigative Direction: Compare with Erika's later statements on what she knew.
 
 ---
 
-**C-10765** Host says Erika is going on Alex Clark's show to address Netanyahu money rumors
+**C-652** Host says Erika is going on Alex Clark's show to address Netanyahu money rumors
 
 Claim Timestamp: 00:57:38
 
@@ -2068,7 +2067,7 @@ Investigative Direction: Watch the Alex Clark interview and see how Erika addres
 
 ---
 
-**C-10766** Host says the $150 million she was told about funded Operation Mocking Pastor, not an offer to Charlie
+**C-653** Host says the $150 million she was told about funded Operation Mocking Pastor, not an offer to Charlie
 
 Claim Timestamp: 00:58:06
 
@@ -2082,7 +2081,7 @@ Mentions: N-3, N-36, N-22, N-1
 
 Related Nodes: N-10139, N-11004
 
-Supports: C-4906
+Supports: C-380
 
 Tags: relevance:core
 
@@ -2090,7 +2089,7 @@ Investigative Direction: Identify the host's source and any financial record of 
 
 ---
 
-**C-10767** Host says Netanyahu offered Charlie a boatload of money and he rejected it
+**C-654** Host says Netanyahu offered Charlie a boatload of money and he rejected it
 
 Claim Timestamp: 00:58:22
 
@@ -2110,7 +2109,7 @@ Investigative Direction: Ask Kirk's circle, Netanyahu's office and the Hamptons 
 
 ---
 
-**C-10768** Host says Charlie obviously did not convert to Catholicism
+**C-655** Host says Charlie obviously did not convert to Catholicism
 
 Claim Timestamp: 00:58:45
 
@@ -2130,7 +2129,7 @@ Investigative Direction: Check baptism or church records and statements by Charl
 
 ---
 
-**C-10769** Host says Erika Kirk was raised in a Catholic family
+**C-656** Host says Erika Kirk was raised in a Catholic family
 
 Claim Timestamp: 00:58:49
 
@@ -2150,7 +2149,7 @@ Investigative Direction: Check Erika Kirk's biography and church affiliation.
 
 ---
 
-**C-10770** Host says Bob Shillman took millions from TPUSA, wanted his name off the building, then reversed
+**C-657** Host says Bob Shillman took millions from TPUSA, wanted his name off the building, then reversed
 
 Claim Timestamp: 00:59:11
 
@@ -2164,7 +2163,7 @@ Mentions: N-98, N-3, N-1
 
 Related Nodes: N-10036, N-10000
 
-Supports: C-1174
+Supports: C-269
 
 Tags: relevance:core
 

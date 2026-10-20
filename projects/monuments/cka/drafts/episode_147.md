@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep147): N-10845
   - Tip-minted Nodes (reintro-ep147): N-954, N-11215
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-14797–C-14853
+  - Claim Range: C-12639–C-12734
   - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-135, N-202, N-270, N-330, N-485, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
  - New Nodes Introduced: N-10821, N-10822, N-10823, N-10824, N-10826
  - Reused Nodes Appearing: N-367, N-425, N-492, N-504
@@ -42,7 +42,6 @@
 ### Episode 147 Ledger Summary
 
 - Artifact Families Introduced: A-2327, A-2328, A-2329, A-2330, A-2331, A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, A-2338, A-2339, A-2340
-- Claim Range: C-3357–C-3386
 - New Nodes Introduced (People): none (N-40 Tyler Robinson is a reused person)
 - New Nodes Introduced (Investigation Targets): N-10820, N-10821, N-10822, N-10823, N-10824, N-10825, N-10826
 - Existing Nodes Reused: None specified in ledger (assumed N-1 through N-222 and N-10141 through N-10819 already populated from prior episodes)
@@ -67,13 +66,13 @@ Video Timestamp: 00:04:59–00:06:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3357, C-3358, C-3359, C-3360, C-3361, N-10826*
+*Related: C-12642, C-12645, C-12648, C-12646, C-12647, N-10826*
 
 **A-2327.1** Judge Graf Count 6 Ruling Audio (excerpt)
 
 Verbatim: "Standing alone, advising another person to risk request counsel and remain silent is lawful and does not establish witness tampering. The state relies however, on the context of the communication, including defendant's earlier alleged instruction to delete this exchange. Viewed together in the light most favorable to the state, those communications permit a reasonable inference that defendant intended to cause Twigs to withhold information from investigators."
 
-*Related: C-3358, C-3359, C-3360, N-10826*
+*Related: C-12645, C-12648, C-12646, N-10826*
 
 **A-2328** Court Audio – Arraignment / Plea Entry
 
@@ -85,7 +84,7 @@ Video Timestamp: 00:08:15–00:08:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3362, C-3363, N-40*
+*Related: C-12649, C-12650, N-40*
 
 **A-2329** 9/10 Exclusive Footage Bundle
 
@@ -97,31 +96,31 @@ Video Timestamp: 00:19:29–00:24:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (footage provenance not independently authenticated in episode)
 
-*Related: C-3364, C-3365, C-3366, C-3367, C-3368, C-3369, N-40, N-10820, N-10821, N-10822, N-10823*
+*Related: C-12677, C-12678, C-12679, C-12680, C-12669, C-12672, N-40, N-10820, N-10821, N-10822, N-10823*
 
 **A-2329.1** Vehicle-Approach Footage (Justin Davis sprint)
 
 Justin Davis running to and opening the passenger-side door of a vehicle he did not arrive in, alongside Blake Neff (also not a passenger of the vehicle).
 
-*Related: C-3364, C-3371, N-10822*
+*Related: C-12677, C-12684, N-10822*
 
 **A-2329.2** "Dip and Meet" Sequence (Danny / Mikey / Justin)
 
 Footage showing Mikey McCoy and Danny Philip running, meeting in front of Charlie's vehicle, and ducking down together with Justin Davis, as if in coordination.
 
-*Related: C-3365, C-3366, N-40, N-10820*
+*Related: C-12678, C-12679, N-40, N-10820*
 
 **A-2329.3** Backpack Ejection from Trunk
 
 Footage showing a backpack falling or being tossed from the trunk of the vehicle as it departs. Host speculates this is "Chris's bag."
 
-*Related: C-3367*
+*Related: C-12680*
 
 **A-2329.4** Pre-Shot Upstairs Clip (Chris + Nate Walker)
 
 Footage (originally surfaced on TikTok, sent to host via Baron Coleman) showing security member Christopher and Nate Walker walking upstairs toward the Sorensen building minutes before the shot.
 
-*Related: C-3369, C-3370, N-10821*
+*Related: C-12672, C-12673, N-10821*
 
 **A-2330** Vehicle Positioning Diagram (UVU 9/10)
 
@@ -133,7 +132,7 @@ Video Timestamp: 00:10:41–00:15:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (AI-generated; host acknowledges "we used AI here to demonstrate to you what the vehicles are")
 
-*Related: C-3371, C-3372, N-40, N-10820, N-10822*
+*Related: C-12684, C-12662, N-40, N-10820, N-10822*
 
 **A-2331** Security Team Photo
 
@@ -145,7 +144,7 @@ Video Timestamp: 00:11:32–00:12:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3373, N-10820*
+*Related: C-12659, N-10820*
 
 **A-2332** Matt Walsh X Post
 
@@ -157,7 +156,7 @@ Video Timestamp: 00:39:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3374, C-3375, N-10824*
+*Related: C-12698, C-12699, N-10824*
 
 **A-2333** Viva Frei X Post
 
@@ -169,7 +168,7 @@ Video Timestamp: 00:40:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (post not quoted verbatim; artifact verbally referenced)
 
-*Related: C-3376, N-10824*
+*Related: C-12701, N-10824*
 
 **A-2334** Graham Allen X Post
 
@@ -181,7 +180,7 @@ Video Timestamp: 00:40:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3377, N-10824*
+*Related: C-12702, N-10824*
 
 **A-2335** Blake Neff / Brandon Tatum Identical X Post
 
@@ -193,7 +192,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3378, N-10824*
+*Related: C-12703, N-10824*
 
 **A-2336** Court Audio – Defense Counsel Richard Novak Argument
 
@@ -205,7 +204,7 @@ Video Timestamp: 00:42:00–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3379, C-3380, C-3381, C-3382, N-40, N-10824, N-10825*
+*Related: C-12708, C-12711, C-12712, C-12714, N-40, N-10824, N-10825*
 
 **A-2337** Court Filing – August 11 Defense Filing (incl. page 32)
 
@@ -217,7 +216,7 @@ Video Timestamp: 00:47:55–00:49:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text read aloud; full filing not shown)
 
-*Related: C-3380, C-3381, C-3382, C-3383, N-40, N-10824, N-10825*
+*Related: C-12711, C-12712, C-12714, C-12715, N-40, N-10824, N-10825*
 
 **A-2338** Court Audio – Blake Neff Testimony
 
@@ -229,7 +228,7 @@ Video Timestamp: 00:28:14–00:31:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3384, C-3385, C-3386, N-40, N-10823*
+*Related: C-12687, C-12692, C-12717, N-40, N-10823*
 
 **A-2339** Read-Aloud Comments – Episode 146
 
@@ -241,7 +240,7 @@ Video Timestamp: 00:54:25–00:55:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3386, N-40, N-10823*
+*Related: C-12717, N-40, N-10823*
 
 **A-2340** Read-Aloud Comments – Episode 147
 
@@ -263,7 +262,7 @@ Confidence Level: High
 Video Timestamp: 01:03:55
 Transcript Snippet: ...e on the website. Also, while you're there, buy a CIA hat. It's great. I love when I see people out and they have the CIA hat out. Um and it is we know actua...
 Confidence: medium
-*Related: C-3668, N-3*
+*Related: C-12730, N-3*
 
 ---
 
@@ -278,7 +277,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14807, N-3, N-11321*
+*Related: C-12658, N-3, N-11321*
 
 ---
 
@@ -291,7 +290,7 @@ Video Timestamp: 00:12:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14809, N-492, N-3*
+*Related: C-12661, N-492, N-3*
 
 ---
 
@@ -301,7 +300,7 @@ Confidence Level: Medium
 
 Named by the host at 00:12:13 in episode 147; first introduced in episode 124.
 
-*Related: C-3364, C-3365, C-3367, C-3368, C-3372*
+*Related: C-12677, C-12678, C-12680, C-12669, C-12662*
 
 
 
@@ -314,7 +313,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2329.2, C-3365*
+*Related: A-2329.2, C-12678*
 
 ---
 
@@ -329,7 +328,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2329.1, A-2329.2, A-2329.3, A-2330, A-2331, C-3364, C-3365, C-3371, C-3372*
+*Related: A-2329.1, A-2329.2, A-2329.3, A-2330, A-2331, C-12677, C-12678, C-12684, C-12662*
 
 **N-10821** Christopher Pre-Shot Location Anomaly
 
@@ -340,7 +339,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2329.4, C-3369, C-3370*
+*Related: A-2329.4, C-12672, C-12673*
 
 **N-10822** Security Vehicle Keys Access Question
 
@@ -351,7 +350,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2329.1, A-2330, C-3364, C-3371*
+*Related: A-2329.1, A-2330, C-12677, C-12684*
 
 **N-10823** Security Vehicle Hospital Transport Absence
 
@@ -362,7 +361,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2329.1, A-2329.2, A-2338, A-2339, C-3384, C-3385, C-3386, N-40*
+*Related: A-2329.1, A-2329.2, A-2338, A-2339, C-12687, C-12692, C-12717, N-40*
 
 **N-10824** Political-Motivation X Outrage Cluster (Sept 1, 2026)
 
@@ -373,7 +372,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-3374, C-3375, C-3376, C-3377, C-3378*
+*Related: A-2332, A-2333, A-2334, A-2335, A-2336, A-2337, C-12698, C-12699, C-12701, C-12702, C-12703*
 
 **N-10825** Political Motivation Inference Chain (Hearsay Standard)
 
@@ -384,7 +383,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2336, A-2337, C-3379, C-3380, C-3381, C-3382, C-3383, N-40*
+*Related: A-2336, A-2337, C-12708, C-12711, C-12712, C-12714, C-12715, N-40*
 
 **N-10826** Defense Witness Tampering Count 6 Constitutional Question
 
@@ -395,7 +394,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2327, A-2327.1, C-3358, C-3359, C-3360, C-3361, N-40*
+*Related: A-2327, A-2327.1, C-12645, C-12648, C-12646, C-12647, N-40*
 
 ---
 
@@ -403,7 +402,7 @@ Investigative Pressure: High
 
 Subject of the assassination; the host reports his fears, predictions and the testimony about the security response.
 
-*Related: C-14806, C-14809, C-14810, C-14811, C-14813, C-14815, C-14816, C-14817, C-14819, C-14823, C-14826, C-14834, C-14836, C-14839, C-14841, C-14843, C-14844, C-14845, C-14846, C-14847, C-14851, C-14853*
+*Related: C-12657, C-12661, C-12663, C-12664, C-12666, C-12668, C-12670, C-12671, C-12675, C-12683, C-12689, C-12705, C-12707, C-12713, C-12718, C-12720, C-12721, C-12722, C-12723, C-12724, C-12728, C-12734*
 
 ---
 
@@ -411,7 +410,7 @@ Subject of the assassination; the host reports his fears, predictions and the te
 
 Widow and TPUSA CEO; the host says she has not acknowledged lies and is doing the opposite of what Kirk expressed.
 
-*Related: C-14824, C-14850, C-14851*
+*Related: C-12685, C-12727, C-12728*
 
 ---
 
@@ -419,7 +418,7 @@ Widow and TPUSA CEO; the host says she has not acknowledged lies and is doing th
 
 Member of Charlie Kirk's security team; first named by the host in this episode as riding in the lead security vehicle (intro moved from ep163, 2026-10-19).
 
-*Related: C-14806*
+*Related: C-12657*
 
 ---
 
@@ -427,7 +426,7 @@ Member of Charlie Kirk's security team; first named by the host in this episode 
 
 Host; speaks for herself throughout.
 
-*Related: A-3346, A-3347, C-14797, C-14798, C-14799, C-14800, C-14803, C-14805, C-14807, C-14814, C-14818, C-14819, C-14831, C-14833, C-14837, C-14840, C-14844, C-14845, C-14847, C-14848, C-14849, C-14850, C-14852, C-14853*
+*Related: A-3346, A-3347, C-12639, C-12640, C-12641, C-12643, C-12654, C-12656, C-12658, C-12667, C-12674, C-12675, C-12697, C-12704, C-12709, C-12716, C-12721, C-12722, C-12724, C-12725, C-12726, C-12727, C-12733, C-12734*
 
 ---
 
@@ -435,7 +434,7 @@ Host; speaks for herself throughout.
 
 Rob McCoy; Mikey McCoy's father, called by Mikey per Neff's testimony (rendered 'Rob McCoy' in the transcript).
 
-*Related: C-14829*
+*Related: C-12694*
 
 ---
 
@@ -443,7 +442,7 @@ Rob McCoy; Mikey McCoy's father, called by Mikey per Neff's testimony (rendered 
 
 Andrew Wilson; the host says TPUSA changed his opinions.
 
-*Related: C-14840*
+*Related: C-12716*
 
 ---
 
@@ -451,7 +450,7 @@ Andrew Wilson; the host says TPUSA changed his opinions.
 
 Defendant; the plea, the family's belief in his innocence and the defense arguments about political motive.
 
-*Related: C-14798, C-14799, C-14801, C-14802, C-14803, C-14804, C-14805, C-14831, C-14835, C-14836, C-14837, C-14838, C-14839, C-14847*
+*Related: C-12640, C-12641, C-12644, C-12653, C-12654, C-12655, C-12656, C-12697, C-12706, C-12707, C-12709, C-12710, C-12713, C-12724*
 
 ---
 
@@ -459,7 +458,7 @@ Defendant; the plea, the family's belief in his innocence and the defense argume
 
 Lance Twiggs; the recipient of the texts behind Counts 5 and 6 and the subject of the defense's description of his evidence.
 
-*Related: C-14804, C-14835, C-14838*
+*Related: C-12655, C-12706, C-12710*
 
 ---
 
@@ -467,7 +466,7 @@ Lance Twiggs; the recipient of the texts behind Counts 5 and 6 and the subject o
 
 Mike Mitchell; named in the claim that Robinson confessed to him.
 
-*Related: C-14802*
+*Related: C-12653*
 
 ---
 
@@ -475,7 +474,7 @@ Mike Mitchell; named in the claim that Robinson confessed to him.
 
 Judge who issued the bindover ruling.
 
-*Related: C-14800*
+*Related: C-12643*
 
 ---
 
@@ -483,7 +482,7 @@ Judge who issued the bindover ruling.
 
 Blake Neff; his testimony about the shot and the aftermath and the host's questions about his account.
 
-*Related: C-14812, C-14813, C-14822, C-14825, C-14826, C-14827, C-14828, C-14829, C-14830, C-14842*
+*Related: C-12665, C-12666, C-12682, C-12686, C-12689, C-12690, C-12693, C-12694, C-12696, C-12719*
 
 ---
 
@@ -491,7 +490,7 @@ Blake Neff; his testimony about the shot and the aftermath and the host's questi
 
 Matt Walsh; the host says she rebuked him over his post about the defense lawyer.
 
-*Related: C-14797, C-14832*
+*Related: C-12639, C-12700*
 
 ---
 
@@ -499,7 +498,7 @@ Matt Walsh; the host says she rebuked him over his post about the defense lawyer
 
 Mikey McCoy; his calls and movements after the shot, per Neff's testimony and the footage.
 
-*Related: C-14811, C-14822, C-14824, C-14825, C-14826, C-14827, C-14828, C-14829, C-14841*
+*Related: C-12664, C-12682, C-12685, C-12686, C-12689, C-12690, C-12693, C-12694, C-12718*
 
 ---
 
@@ -507,7 +506,7 @@ Mikey McCoy; his calls and movements after the shot, per Neff's testimony and th
 
 Lindsay Clancy; the host explains why she does not cover the case.
 
-*Related: C-14848*
+*Related: C-12725*
 
 ---
 
@@ -515,7 +514,7 @@ Lindsay Clancy; the host explains why she does not cover the case.
 
 Jack Hibbs; his statements about Israel are cited in the Patio comment and the 'so much blood' attribution.
 
-*Related: C-14846*
+*Related: C-12723*
 
 ---
 
@@ -523,7 +522,7 @@ Jack Hibbs; his statements about Israel are cited in the Patio comment and the '
 
 Brian Harpole; placed in the Navigator and cited for his no-threats statement.
 
-*Related: C-14808, C-14852, C-14853*
+*Related: C-12660, C-12733, C-12734*
 
 ---
 
@@ -531,7 +530,7 @@ Brian Harpole; placed in the Navigator and cited for his no-threats statement.
 
 Dan Flood; placed by the host in the Navigator.
 
-*Related: C-14808*
+*Related: C-12660*
 
 ---
 
@@ -539,7 +538,7 @@ Dan Flood; placed by the host in the Navigator.
 
 Baron Coleman; he received the TikTok clip and showed it to the host.
 
-*Related: C-14818*
+*Related: C-12674*
 
 ---
 
@@ -547,7 +546,7 @@ Baron Coleman; he received the TikTok clip and showed it to the host.
 
 Defense counsel whose probable-cause argument was clipped on X.
 
-*Related: C-14832, C-14834, C-14835, C-14836*
+*Related: C-12700, C-12705, C-12706, C-12707*
 
 ---
 
@@ -555,7 +554,7 @@ Defense counsel whose probable-cause argument was clipped on X.
 
 Justin Baldoni; cited with the Lively case as a past series.
 
-*Related: C-14849*
+*Related: C-12726*
 
 ---
 
@@ -563,7 +562,7 @@ Justin Baldoni; cited with the Lively case as a past series.
 
 Nate Walker; seen upstairs with Christopher and counted among those at the hospital.
 
-*Related: C-14818, C-14825*
+*Related: C-12674, C-12686*
 
 ---
 
@@ -571,7 +570,7 @@ Nate Walker; seen upstairs with Christopher and counted among those at the hospi
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14802, C-14803*
+*Related: C-12653, C-12654*
 
 ---
 
@@ -579,7 +578,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14846*
+*Related: C-12723*
 
 ---
 
@@ -587,7 +586,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14841*
+*Related: C-12718*
 
 ---
 
@@ -595,7 +594,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14816, C-14853*
+*Related: C-12670, C-12734*
 
 ---
 
@@ -603,7 +602,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14824, C-14829*
+*Related: C-12685, C-12694*
 
 ---
 
@@ -611,7 +610,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14844, C-14845*
+*Related: C-12721, C-12722*
 
 ---
 
@@ -619,7 +618,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14828*
+*Related: C-12693*
 
 ---
 
@@ -627,7 +626,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14798, C-14799, C-14802, C-14804*
+*Related: C-12640, C-12641, C-12653, C-12655*
 
 ---
 
@@ -635,7 +634,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14805*
+*Related: C-12656*
 
 ---
 
@@ -643,7 +642,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14852*
+*Related: C-12733*
 
 ---
 
@@ -651,7 +650,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14809*
+*Related: C-12661*
 
 ---
 
@@ -659,7 +658,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14812, C-14813, C-14822, C-14826, C-14827*
+*Related: C-12665, C-12666, C-12682, C-12689, C-12690*
 
 ---
 
@@ -667,7 +666,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14846*
+*Related: C-12723*
 
 ---
 
@@ -675,7 +674,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14842*
+*Related: C-12719*
 
 ---
 
@@ -683,7 +682,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14798*
+*Related: C-12640*
 
 ---
 
@@ -691,7 +690,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14810*
+*Related: C-12663*
 
 ---
 
@@ -699,7 +698,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14825*
+*Related: C-12686*
 
 ---
 
@@ -707,7 +706,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14819*
+*Related: C-12675*
 
 ---
 
@@ -715,7 +714,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-14840*
+*Related: C-12716*
 
 ---
 
@@ -723,7 +722,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: A-3346, C-14806, C-14807*
+*Related: A-3346, C-12657, C-12658*
 
 ---
 
@@ -732,13 +731,13 @@ Existing topic reused for new claims in this episode.
 Node Type: Topic
 The host's argument that the security detail parked its own vehicles in a way that blocked them in at UVU, while Kirk's vehicle could leave.
 
-*Related: C-14823*
+*Related: C-12683*
 
 ---
 
 ## V. Claim Register
 
-**C-3357** Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing
+**C-12642** Host Says Judge Graf Issued Bindover Ruling After Preliminary Hearing
 
 Claim Timestamp: 00:02:24
 
@@ -750,7 +749,7 @@ Mentions: N-40, N-135
 
 Investigative Direction: Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.
 
-**C-3358** Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)
+**C-12645** Host Says Judge Graf Declined to Dismiss Count 6 (Witness Tampering)
 
 Claim Timestamp: 00:04:11
 
@@ -763,7 +762,7 @@ Related Nodes: N-10826
 
 Investigative Direction: Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.
 
-**C-3359** In Ruling Clip Host Plays, Judge Says "Ask for a Lawyer and Stay Silent" Advice Is Lawful Standing Alone
+**C-12648** In Ruling Clip Host Plays, Judge Says "Ask for a Lawyer and Stay Silent" Advice Is Lawful Standing Alone
 
 Claim Timestamp: 00:05:54
 
@@ -775,7 +774,7 @@ Related Nodes: N-10826
 
 Investigative Direction: Compare this on-record concession against the state's preserved theory of the case and any superseding indictment.
 
-**C-3360** Host Says Count 5 Is Witness Tampering for the "Delete This Exchange" Message
+**C-12646** Host Says Count 5 Is Witness Tampering for the "Delete This Exchange" Message
 
 Claim Timestamp: 00:04:11
 
@@ -788,7 +787,7 @@ Related Nodes: N-10826
 
 Investigative Direction: Obtain the charging document to confirm the textual basis alleged for each count.
 
-**C-3361** Host Says Judge Tied Count 6 Survival to the Existence of Count 5
+**C-12647** Host Says Judge Tied Count 6 Survival to the Existence of Count 5
 
 Claim Timestamp: 00:04:11
 
@@ -801,7 +800,7 @@ Related Nodes: N-10826
 
 Investigative Direction: Determine whether the defense preserved this issue for trial and whether a motion to reconsider or to dismiss post-bindover was filed.
 
-**C-3362** In Arraignment Clip Host Plays, Tyler Robinson Pleads Not Guilty to All Counts
+**C-12649** In Arraignment Clip Host Plays, Tyler Robinson Pleads Not Guilty to All Counts
 
 Claim Timestamp: 00:08:25
 
@@ -813,7 +812,7 @@ Mentions: N-40
 
 Investigative Direction: Verify against the court's docket entry; track any subsequent plea amendments.
 
-**C-3363** In Arraignment Clip Host Plays, Defense Waives Reading of the Information
+**C-12650** In Arraignment Clip Host Plays, Defense Waives Reading of the Information
 
 Claim Timestamp: 00:08:25
 
@@ -825,7 +824,7 @@ Mentions: N-40
 
 Investigative Direction: Confirm docket entry; verify whether this waiver affects any future challenge to the sufficiency of the information.
 
-**C-3364** Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in
+**C-12677** Justin Davis sprinted to and opened the passenger door of a vehicle he did not arrive in
 
 Claim Timestamp: 00:20:06
 
@@ -838,7 +837,7 @@ Related Nodes: N-10822
 
 Investigative Direction: Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.
 
-**C-3365** Host Says Mikey McCoy and Danny Philip Met in a Coordinated Manner at Kirk's Vehicle
+**C-12678** Host Says Mikey McCoy and Danny Philip Met in a Coordinated Manner at Kirk's Vehicle
 
 Claim Timestamp: 00:21:00
 
@@ -851,7 +850,7 @@ Related Nodes: N-10820
 
 Investigative Direction: Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.
 
-**C-3366** Host Says Mikey McCoy's Hand Remained at His Ear Throughout the Post-Shot Sequence
+**C-12679** Host Says Mikey McCoy's Hand Remained at His Ear Throughout the Post-Shot Sequence
 
 Claim Timestamp: 00:21:22
 
@@ -864,7 +863,7 @@ Related Nodes: N-10820
 
 Investigative Direction: Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account.
 
-**C-3367** A backpack was ejected from the trunk of Kirk's vehicle
+**C-12680** A backpack was ejected from the trunk of Kirk's vehicle
 
 Claim Timestamp: 00:22:38
 
@@ -877,7 +876,7 @@ Related Nodes: N-10822
 
 Investigative Direction: Identify the bag's owner; obtain receipt / loss-property reports if any.
 
-**C-3368** Kirk communicated the night before 9/10 that he feared for his life
+**C-12669** Kirk communicated the night before 9/10 that he feared for his life
 
 Claim Timestamp: 00:16:16
 
@@ -890,7 +889,7 @@ Related Nodes:
 
 Investigative Direction: Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts).
 
-**C-3369** Host Says Christopher and Nate Walker Were Upstairs Near the Sorensen Building Minutes Before the Shot
+**C-12672** Host Says Christopher and Nate Walker Were Upstairs Near the Sorensen Building Minutes Before the Shot
 
 Claim Timestamp: 00:17:03
 
@@ -903,7 +902,7 @@ Related Nodes: N-10821
 
 Investigative Direction: Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.
 
-**C-3370** Host Says Christopher's Absence From the Vehicle Preceded the Shot by Minutes
+**C-12673** Host Says Christopher's Absence From the Vehicle Preceded the Shot by Minutes
 
 Claim Timestamp: 00:17:03
 
@@ -915,7 +914,7 @@ Related Nodes: N-10821, N-10822
 
 Investigative Direction: Cross-reference against security radio logs and Christopher's own timeline.
 
-**C-3371** Host Says Sources Told Her Three Security Vehicles Were Not Driven to the Hospital
+**C-12684** Host Says Sources Told Her Three Security Vehicles Were Not Driven to the Hospital
 
 Claim Timestamp: 00:26:16
 
@@ -928,7 +927,7 @@ Related Nodes: N-10820, N-10822, N-10823
 
 Investigative Direction: Identify the named sources; cross-reference against vehicle GPS / fleet logs and security team statements.
 
-**C-3372** Host Says UVU Security Vehicles Arrived Between 9:00 and 9:30 a.m. on 9/10
+**C-12662** Host Says UVU Security Vehicles Arrived Between 9:00 and 9:30 a.m. on 9/10
 
 Claim Timestamp: 00:12:54
 
@@ -941,7 +940,7 @@ Related Nodes: N-10820
 
 Investigative Direction: Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.
 
-**C-3373** Two security team members remain unidentified
+**C-12659** Two security team members remain unidentified
 
 Claim Timestamp: 00:12:13
 
@@ -954,7 +953,7 @@ Related Nodes: N-10820
 
 Investigative Direction: Cross-reference with TPUSA-published security team rosters, event staffing contracts, and 9/10 security team statements.
 
-**C-3374** Matt Walsh X post characterized defense counsel as justifying political assassination
+**C-12698** Matt Walsh X post characterized defense counsel as justifying political assassination
 
 Claim Timestamp: 00:39:42
 
@@ -967,7 +966,7 @@ Related Nodes: N-10824
 
 Investigative Direction: Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.
 
-**C-3375** Host Rejects Walsh's Framing of the Defense Argument
+**C-12699** Host Rejects Walsh's Framing of the Defense Argument
 
 Claim Timestamp: 00:39:42
 
@@ -980,7 +979,7 @@ Related Nodes: N-10824
 
 Investigative Direction: This is a host-stance claim; verification would require Walsh's reply or retraction.
 
-**C-3376** Viva Frei echoed the same political-assassination framing
+**C-12701** Viva Frei echoed the same political-assassination framing
 
 Claim Timestamp: 00:40:25
 
@@ -993,7 +992,7 @@ Related Nodes: N-10824
 
 Investigative Direction: Locate the specific post; verify timestamp.
 
-**C-3377** Graham Allen X post accused defense counsel of attacking Charlie Kirk in court
+**C-12702** Graham Allen X post accused defense counsel of attacking Charlie Kirk in court
 
 Claim Timestamp: 00:40:36
 
@@ -1006,7 +1005,7 @@ Related Nodes: N-10824
 
 Investigative Direction: Confirm the post remains on X; verify timestamp.
 
-**C-3378** Blake Neff and Brandon Tatum sent an identical X post about Novak
+**C-12703** Blake Neff and Brandon Tatum sent an identical X post about Novak
 
 Claim Timestamp: 00:40:50
 
@@ -1019,7 +1018,7 @@ Related Nodes: N-10824
 
 Investigative Direction: Confirm both posts remain on X; compare timestamps.
 
-**C-3379** Host Says Defense Counsel Framed His Argument as a Citation of the State's Own Theory
+**C-12708** Host Says Defense Counsel Framed His Argument as a Citation of the State's Own Theory
 
 Claim Timestamp: 00:44:15
 
@@ -1032,7 +1031,7 @@ Related Nodes: N-10824, N-10825
 
 Investigative Direction: Read Novak's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.
 
-**C-3380** Host Says State Is Pursuing Sentence Enhancement Based on Political Motivation
+**C-12711** Host Says State Is Pursuing Sentence Enhancement Based on Political Motivation
 
 Claim Timestamp: 00:45:58
 
@@ -1045,7 +1044,7 @@ Related Nodes: N-10825
 
 Investigative Direction: Obtain the state's sentencing-enhancement motion and the controlling Utah statute to verify the elements and the state's proffer.
 
-**C-3381** Host Says State Has Not Identified Specific Kirk Statements Alleged to Be "Hateful"
+**C-12712** Host Says State Has Not Identified Specific Kirk Statements Alleged to Be "Hateful"
 
 Claim Timestamp: 00:47:11
 
@@ -1058,7 +1057,7 @@ Related Nodes: N-10825
 
 Investigative Direction: Obtain the state's filing in full; enumerate the specific statements cited; compare against defense's enumeration.
 
-**C-3382** Defense page 32 asserts inference-upon-inference as to political motivation
+**C-12714** Defense page 32 asserts inference-upon-inference as to political motivation
 
 Claim Timestamp: 00:48:38
 
@@ -1071,7 +1070,7 @@ Related Nodes: N-10825
 
 Investigative Direction: Obtain page 32 directly; compare with the state's response and the preliminary-hearing transcript.
 
-**C-3383** Per Defense Filing Host Reads, State's Theory Turns in Part on Twiggs's Intermittent Non-Gender-Conforming Identification
+**C-12715** Per Defense Filing Host Reads, State's Theory Turns in Part on Twiggs's Intermittent Non-Gender-Conforming Identification
 
 Claim Timestamp: 00:48:38
 
@@ -1084,7 +1083,7 @@ Related Nodes: N-10825
 
 Investigative Direction: Obtain the state's proffer; obtain any statements or records from Twiggs or third parties regarding gender identification.
 
-**C-3384** Blake Neff's testimony describes a 20-second window from "active shooter" to "all clear"
+**C-12687** Blake Neff's testimony describes a 20-second window from "active shooter" to "all clear"
 
 Claim Timestamp: 00:28:14
 
@@ -1097,7 +1096,7 @@ Related Nodes: N-10823
 
 Investigative Direction: Obtain the full transcript of Neff's testimony; cross-reference against contemporaneous radio traffic and other security personnel.
 
-**C-3385** Blake Neff testified that Mikey McCoy called "Erika" from the scene
+**C-12692** Blake Neff testified that Mikey McCoy called "Erika" from the scene
 
 Claim Timestamp: 00:30:40
 
@@ -1105,13 +1104,13 @@ Claim: Blake Neff testified that Mikey McCoy, within approximately one minute of
 
 Anchored Artifacts: A-2338
 Mentions: N-190, N-2, N-159, N-17
-Contradicts: C-1932, C-3092
+Contradicts: C-4104, C-11088
 
 Related Nodes: N-10823
 
 Investigative Direction: Obtain Erika Kirk's call detail records; verify call timing and duration.
 
-**C-3386** "Mikey said there's so much blood" claim traces to Hibbs / Turek, not McCoy
+**C-12717** "Mikey said there's so much blood" claim traces to Hibbs / Turek, not McCoy
 
 Claim Timestamp: 00:54:25
 
@@ -1124,7 +1123,7 @@ Related Nodes: N-10823
 
 Investigative Direction: Obtain McCoy's complete media appearances; obtain Hibbs's and Turek's on-record statements with timestamps; obtain Erika Kirk's call-detail records (the call McCoy made to her per Neff testimony).
 
-**C-3387** Brian Harpole stated there were no threats the night before 9/10
+**C-12732** Brian Harpole stated there were no threats the night before 9/10
 
 Claim Timestamp: 01:04:00
 
@@ -1137,7 +1136,7 @@ Related Nodes:
 
 Investigative Direction: Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications.
 
-**C-3388** Mike Mitchell "confession" narrative is, per host, a foundational lie
+**C-12651** Mike Mitchell "confession" narrative is, per host, a foundational lie
 
 Claim Timestamp: 00:08:25
 
@@ -1150,7 +1149,7 @@ Related Nodes:
 
 Investigative Direction: Identify the original source(s) of the Mitchell-confession claim; obtain Mike Mitchell's own on-record account.
 
-**C-3389** Bill Ackman "million dollars" narrative was dropped
+**C-12652** Bill Ackman "million dollars" narrative was dropped
 
 Claim Timestamp: 00:08:25
 
@@ -1163,7 +1162,7 @@ Related Nodes:
 
 Investigative Direction: Locate the original source of the Ackman offer; obtain Ackman's own statement.
 
-**C-3390** Mikey McCoy allegedly appeared "profoundly freaked out" with "lip quivering" per Neff
+**C-12691** Mikey McCoy allegedly appeared "profoundly freaked out" with "lip quivering" per Neff
 
 Claim Timestamp: 00:29:56
 
@@ -1176,7 +1175,7 @@ Related Nodes:
 
 Investigative Direction: Obtain McCoy's own account; obtain contemporaneous video of McCoy in the immediate aftermath.
 
-**C-3391** McCoy made a "general directing a battle" pivot per Neff
+**C-12695** McCoy made a "general directing a battle" pivot per Neff
 
 Claim Timestamp: 00:31:39
 
@@ -1189,7 +1188,7 @@ Related Nodes:
 
 Investigative Direction: Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle.
 
-**C-3392** Neff Testified He Considered and Rejected Getting Into the SUV While Running
+**C-12688** Neff Testified He Considered and Rejected Getting Into the SUV While Running
 
 Claim Timestamp: 00:28:58
 
@@ -1204,7 +1203,7 @@ Investigative Direction: Cross-reference against his prior and subsequent statem
 
 ---
 
-**C-3667** Host identifies show community as Decentralized Intelligence Agency
+**C-12729** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 01:03:55
 Claim: The host, plugging a "CIA hat," says "we know actually the decentralized intelligence agency," adding that there is no nucleus and everybody is sharing in the background and discussing when to drop certain things.
@@ -1217,7 +1216,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3668** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-12730** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 01:03:55
 Claim: The host plugs a "CIA hat" as part of her merch and then says "it is we know actually the decentralized intelligence agency."
@@ -1230,7 +1229,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
-**C-3669** Host says DIA / crowd intel has no nucleus
+**C-12731** Host says DIA / crowd intel has no nucleus
 
 Claim Timestamp: 01:03:55
 Claim: The host says the decentralized intelligence agency has "no nucleus," that everybody is sharing in the background, and that they are all discussing when to drop certain things.
@@ -1243,7 +1242,7 @@ Investigative Direction: Keep as DIA structure metaphor claim alongside M-12 bra
 
 ---
 
-**C-14797** Host Says She Rebuked Matt Walsh on X Over a Disingenuous Narrative
+**C-12639** Host Says She Rebuked Matt Walsh on X Over a Disingenuous Narrative
 
 Claim Timestamp: 00:00:30
 
@@ -1259,7 +1258,7 @@ Investigative Direction: Capture the host's X reply to Walsh from the day before
 
 ---
 
-**C-14798** Host Says the Not-Guilty Plea Contradicts the Claim That Tyler's Father Turned Him In Over a Confession
+**C-12640** Host Says the Not-Guilty Plea Contradicts the Claim That Tyler's Father Turned Him In Over a Confession
 
 Claim Timestamp: 00:01:10
 
@@ -1270,13 +1269,13 @@ Transcript Snippet: runs counter to the extraordinary claims made by the Departm
 Anchored Artifacts: 
 Mentions: N-40, N-3, N-776
 Related Nodes: N-10888, N-10566
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Collect the original statements from the named influencers that the father turned Robinson in over a confession and compare them with the plea record.
 
 ---
 
-**C-14799** Host Says Tyler Told His Father He Was Not Guilty and His Father Believes Him
+**C-12641** Host Says Tyler Told His Father He Was Not Guilty and His Father Believes Him
 
 Claim Timestamp: 00:01:40
 
@@ -1287,13 +1286,13 @@ Transcript Snippet: Tyler told his father that he was not guilty. His father bel
 Anchored Artifacts: 
 Mentions: N-40, N-3, N-776
 Related Nodes: N-10566
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Identify the host's source for the father's account and look for any on-record statement by the Robinson family.
 
 ---
 
-**C-14800** Host Says Reliable Hearsay Was Permissible at the Bindover Stage
+**C-12643** Host Says Reliable Hearsay Was Permissible at the Bindover Stage
 
 Claim Timestamp: 00:02:30
 
@@ -1304,13 +1303,13 @@ Transcript Snippet: reliable hearsay is the standard. It was permissible at that
 Anchored Artifacts: 
 Mentions: N-3, N-135
 Related Nodes: N-10825
-Supports: C-7656
+Supports: C-12602
 Tags: relevance:context
 Investigative Direction: Check Utah Rule 1102 and the bindover order for the hearsay standard applied.
 
 ---
 
-**C-14801** Host Says the Defense Moved to Dismiss Only Three of the Seven Charges
+**C-12644** Host Says the Defense Moved to Dismiss Only Three of the Seven Charges
 
 Claim Timestamp: 00:02:40
 
@@ -1325,7 +1324,7 @@ Investigative Direction: Obtain the defense motion to dismiss and confirm which 
 
 ---
 
-**C-14802** Host Says Influencers Claimed Robinson Confessed to His Parents and That They Admitted It in Written Statements
+**C-12653** Host Says Influencers Claimed Robinson Confessed to His Parents and That They Admitted It in Written Statements
 
 Claim Timestamp: 00:08:55
 
@@ -1336,13 +1335,13 @@ Transcript Snippet: He confessed it to his parents when he got to his house. At 
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10566, N-10021
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Locate the written parental statements, if any exist in the court record, and the posts first making the claim.
 
 ---
 
-**C-14803** Host Says the Family Went to the Police Station After Being Told They Had No Other Choice
+**C-12654** Host Says the Family Went to the Police Station After Being Told They Had No Other Choice
 
 Claim Timestamp: 00:09:30
 
@@ -1353,13 +1352,13 @@ Transcript Snippet: Yes, he went with his son to the police station after they w
 Anchored Artifacts: 
 Mentions: N-40, N-3, N-776
 Related Nodes: N-10021
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Seek the probable-cause affidavit or police reports for the circumstances and timing of the surrender and any SWAT staging.
 
 ---
 
-**C-14804** Host Says Influencers Now Claim They Only Ever Said Robinson Confessed to Lance
+**C-12655** Host Says Influencers Now Claim They Only Ever Said Robinson Confessed to Lance
 
 Claim Timestamp: 00:09:50
 
@@ -1375,7 +1374,7 @@ Investigative Direction: Compare earlier posts and shows by the influencers with
 
 ---
 
-**C-14805** Host Says Robinson's Parents and Grandparents Do Not Believe He Is Guilty
+**C-12656** Host Says Robinson's Parents and Grandparents Do Not Believe He Is Guilty
 
 Claim Timestamp: 00:10:20
 
@@ -1391,7 +1390,7 @@ Investigative Direction: Find on-record statements from the parents and grandpar
 
 ---
 
-**C-14806** Host Says Alex Faria Rode in the Lead Black Jeep Wagoneer Security Vehicle
+**C-12657** Host Says Alex Faria Rode in the Lead Black Jeep Wagoneer Security Vehicle
 
 Claim Timestamp: 00:11:40
 
@@ -1407,7 +1406,7 @@ Investigative Direction: Match the named security members to vehicles using the 
 
 ---
 
-**C-14807** Host Solicits Tips to Identify Unidentified Security Team Members
+**C-12658** Host Solicits Tips to Identify Unidentified Security Team Members
 
 Claim Timestamp: 00:11:45
 
@@ -1423,7 +1422,7 @@ Investigative Direction: Check whether tips arrived identifying the men and whet
 
 ---
 
-**C-14808** Host Says Justin Davis Drove the Lincoln Navigator With Dan Flood and Brian Harpole Aboard
+**C-12660** Host Says Justin Davis Drove the Lincoln Navigator With Dan Flood and Brian Harpole Aboard
 
 Claim Timestamp: 00:12:30
 
@@ -1439,7 +1438,7 @@ Investigative Direction: Cross-check the vehicle assignments against Harpole's a
 
 ---
 
-**C-14809** Host Says Justin Davis Is the Driver Who Takes Charlie to the Hospital
+**C-12661** Host Says Justin Davis Is the Driver Who Takes Charlie to the Hospital
 
 Claim Timestamp: 00:12:40
 
@@ -1455,7 +1454,7 @@ Investigative Direction: Compare against testimony and hospital footage about wh
 
 ---
 
-**C-14810** Host Says the Core Security Team Traveled Separately From Charlie Kirk
+**C-12663** Host Says the Core Security Team Traveled Separately From Charlie Kirk
 
 Claim Timestamp: 00:13:20
 
@@ -1471,7 +1470,7 @@ Investigative Direction: Obtain security testimony on who traveled with Kirk and
 
 ---
 
-**C-14811** Host Says Kirk Arrived in a Denali With Mikey McCoy and a Driver Named Christopher
+**C-12664** Host Says Kirk Arrived in a Denali With Mikey McCoy and a Driver Named Christopher
 
 Claim Timestamp: 00:14:10
 
@@ -1487,7 +1486,7 @@ Investigative Direction: Identify Christopher's full name and role through TPUSA
 
 ---
 
-**C-14812** Host Says Danny Philip Drove the Second Denali With Blake Neff in the Back Seat
+**C-12665** Host Says Danny Philip Drove the Second Denali With Blake Neff in the Back Seat
 
 Claim Timestamp: 00:14:20
 
@@ -1503,7 +1502,7 @@ Investigative Direction: Confirm seating from arrival video and from Neff's and 
 
 ---
 
-**C-14813** Host Says Blake Neff Is Evasive About Who He Arrived With and What He Did in Salt Lake City
+**C-12666** Host Says Blake Neff Is Evasive About Who He Arrived With and What He Did in Salt Lake City
 
 Claim Timestamp: 00:14:50
 
@@ -1519,7 +1518,7 @@ Investigative Direction: Compare Neff's testimony and public statements about hi
 
 ---
 
-**C-14814** Host Says the Hyundai Palisade Was the TPUSA Vehicle Parked on the Far Right
+**C-12667** Host Says the Hyundai Palisade Was the TPUSA Vehicle Parked on the Far Right
 
 Claim Timestamp: 00:15:10
 
@@ -1535,7 +1534,7 @@ Investigative Direction: Identify the Palisade's driver and registration from vi
 
 ---
 
-**C-14815** Host Says Kirk Was in the Vehicle Within 45 Seconds, So Keys Would Have Had to Be Found
+**C-12668** Host Says Kirk Was in the Vehicle Within 45 Seconds, So Keys Would Have Had to Be Found
 
 Claim Timestamp: 00:15:50
 
@@ -1551,7 +1550,7 @@ Investigative Direction: Time the sequence from the shot to loading using the av
 
 ---
 
-**C-14816** Host Says People Are Now Claiming Kirk Told Security to Be on Him and No One Else
+**C-12670** Host Says People Are Now Claiming Kirk Told Security to Be on Him and No One Else
 
 Claim Timestamp: 00:16:40
 
@@ -1562,13 +1561,13 @@ Transcript Snippet: now they're saying that Charlie even took it a step further 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10320
-Supports: C-3368
+Supports: C-12669
 Tags: relevance:core
 Investigative Direction: Identify who is making the claim and when it first appeared.
 
 ---
 
-**C-14817** Host Says Christopher Was Charlie's Main Security Person
+**C-12671** Host Says Christopher Was Charlie's Main Security Person
 
 Claim Timestamp: 00:16:50
 
@@ -1584,7 +1583,7 @@ Investigative Direction: Confirm Christopher's role on Kirk's detail from securi
 
 ---
 
-**C-14818** Host Says the Upstairs Clip Reached Her via TikTok and Baron Coleman
+**C-12674** Host Says the Upstairs Clip Reached Her via TikTok and Baron Coleman
 
 Claim Timestamp: 00:17:30
 
@@ -1600,7 +1599,7 @@ Investigative Direction: Obtain the original TikTok post and uploader and verify
 
 ---
 
-**C-14819** Host Says She Has Never Seen This Much Security at a Single Campus Event
+**C-12675** Host Says She Has Never Seen This Much Security at a Single Campus Event
 
 Claim Timestamp: 00:18:55
 
@@ -1616,7 +1615,7 @@ Investigative Direction: Compare headcount of the security team at UVU with prio
 
 ---
 
-**C-14820** Host Says the Keys Were Apparently Waiting in the Car or Given to Justin Davis Beforehand
+**C-12676** Host Says the Keys Were Apparently Waiting in the Car or Given to Justin Davis Beforehand
 
 Claim Timestamp: 00:19:35
 
@@ -1632,7 +1631,7 @@ Investigative Direction: Ask Davis and Christopher where the keys were and who h
 
 ---
 
-**C-14821** Host Says Nobody Asked for Chris or the Keys and the Car Was Open and Ready
+**C-12681** Host Says Nobody Asked for Chris or the Keys and the Car Was Open and Ready
 
 Claim Timestamp: 00:22:45
 
@@ -1648,7 +1647,7 @@ Investigative Direction: Frame-by-frame review of the footage for any exchange o
 
 ---
 
-**C-14822** Host Says Blake Neff Leaves Danny Philip Out of His Account of the Day
+**C-12682** Host Says Blake Neff Leaves Danny Philip Out of His Account of the Day
 
 Claim Timestamp: 00:23:50
 
@@ -1664,7 +1663,7 @@ Investigative Direction: Compare each of Neff's retellings with the footage and 
 
 ---
 
-**C-14823** Host Says the Security Vehicles Blocked Themselves In
+**C-12683** Host Says the Security Vehicles Blocked Themselves In
 
 Claim Timestamp: 00:25:30
 
@@ -1680,7 +1679,7 @@ Investigative Direction: Review the parking footage to see who parked where and 
 
 ---
 
-**C-14824** Host Says Mikey McCoy as Chief of Staff Was Tasked With Updating Erika Kirk
+**C-12685** Host Says Mikey McCoy as Chief of Staff Was Tasked With Updating Erika Kirk
 
 Claim Timestamp: 00:27:20
 
@@ -1691,13 +1690,13 @@ Transcript Snippet: you're the his chief of staff and you are being tasked with 
 Anchored Artifacts: A-2338
 Mentions: N-190, N-2
 Related Nodes: N-10338
-Supports: C-1547
+Supports: C-2105
 Tags: relevance:core
 Investigative Direction: Check Neff's testimony and Erika Kirk's own accounts of who told her and when.
 
 ---
 
-**C-14825** Host Says Nate Walker, Blake Neff, Danny Philip and Mikey McCoy Arrived at the Hospital
+**C-12686** Host Says Nate Walker, Blake Neff, Danny Philip and Mikey McCoy Arrived at the Hospital
 
 Claim Timestamp: 00:27:40
 
@@ -1713,7 +1712,7 @@ Investigative Direction: Pull hospital arrival footage and testimony to confirm 
 
 ---
 
-**C-14826** Neff Testifies the Security Team Went Into Action and Got Charlie Out
+**C-12689** Neff Testifies the Security Team Went Into Action and Got Charlie Out
 
 Claim Timestamp: 00:29:05
 
@@ -1729,7 +1728,7 @@ Investigative Direction: Obtain the full transcript of the Neff testimony and th
 
 ---
 
-**C-14827** Neff Testifies He Was Not With Mikey and Believes He Was Ahead of Him
+**C-12690** Neff Testifies He Was Not With Mikey and Believes He Was Ahead of Him
 
 Claim Timestamp: 00:29:30
 
@@ -1745,7 +1744,7 @@ Investigative Direction: Compare against footage of Neff and McCoy in the first 
 
 ---
 
-**C-14828** Neff Testifies He Called His Mother After the Shooting
+**C-12693** Neff Testifies He Called His Mother After the Shooting
 
 Claim Timestamp: 00:30:50
 
@@ -1761,7 +1760,7 @@ Investigative Direction: Check Neff's call log for the time and duration of the 
 
 ---
 
-**C-14829** Neff Testifies Mikey Told His Father to Call All His Pastor Friends
+**C-12694** Neff Testifies Mikey Told His Father to Call All His Pastor Friends
 
 Claim Timestamp: 00:31:10
 
@@ -1777,7 +1776,7 @@ Investigative Direction: Check pastors' accounts for the time they first heard f
 
 ---
 
-**C-14830** Host Says Neff and Philip Had a Big SUV That Was Rented
+**C-12696** Host Says Neff and Philip Had a Big SUV That Was Rented
 
 Claim Timestamp: 00:32:00
 
@@ -1793,7 +1792,7 @@ Investigative Direction: Obtain rental records for the Denalis and identify who 
 
 ---
 
-**C-14831** Host Says Many People Tweeted the Same Claim About Robinson's Lawyer the Day Before
+**C-12697** Host Says Many People Tweeted the Same Claim About Robinson's Lawyer the Day Before
 
 Claim Timestamp: 00:39:05
 
@@ -1809,7 +1808,7 @@ Investigative Direction: Build a timeline of the posts to test whether they shar
 
 ---
 
-**C-14832** Host Says the Court Clip Was Sent Out for Many People to Share
+**C-12700** Host Says the Court Clip Was Sent Out for Many People to Share
 
 Claim Timestamp: 00:39:50
 
@@ -1825,7 +1824,7 @@ Investigative Direction: Trace the clip's first posting account and its spread.
 
 ---
 
-**C-14833** Host Predicts More Out-of-Context Clips Will Be Pushed to Outrage the Public
+**C-12704** Host Predicts More Out-of-Context Clips Will Be Pushed to Outrage the Public
 
 Claim Timestamp: 00:41:55
 
@@ -1841,7 +1840,7 @@ Investigative Direction: Track later clips in the case and compare their full co
 
 ---
 
-**C-14834** Novak Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups
+**C-12705** Novak Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups
 
 Claim Timestamp: 00:42:20
 
@@ -1857,7 +1856,7 @@ Investigative Direction: Obtain the full hearing transcript to verify the wordin
 
 ---
 
-**C-14835** Novak Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson
+**C-12706** Novak Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson
 
 Claim Timestamp: 00:42:45
 
@@ -1873,7 +1872,7 @@ Investigative Direction: Check the hearing record for what Twiggs's evidence con
 
 ---
 
-**C-14836** Novak Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up
+**C-12707** Novak Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up
 
 Claim Timestamp: 00:43:35
 
@@ -1889,7 +1888,7 @@ Investigative Direction: Read the defense filing on political expression and the
 
 ---
 
-**C-14837** Host Says at a Probable Cause Hearing the Defense Does Not Argue Guilt
+**C-12709** Host Says at a Probable Cause Hearing the Defense Does Not Argue Guilt
 
 Claim Timestamp: 00:44:25
 
@@ -1905,7 +1904,7 @@ Investigative Direction: Confirm with Utah procedure rules and the defense's fil
 
 ---
 
-**C-14838** Host Says the Defense Is Not Conceding Robinson Sent the Message
+**C-12710** Host Says the Defense Is Not Conceding Robinson Sent the Message
 
 Claim Timestamp: 00:45:30
 
@@ -1921,7 +1920,7 @@ Investigative Direction: Read the defense's motion on Count 6 to see whether any
 
 ---
 
-**C-14839** Host Says the Prosecution Argues Robinson Is a Member of the LGBTQ Community
+**C-12713** Host Says the Prosecution Argues Robinson Is a Member of the LGBTQ Community
 
 Claim Timestamp: 00:47:20
 
@@ -1937,7 +1936,7 @@ Investigative Direction: Check the political motivation filing for the statement
 
 ---
 
-**C-14840** Host Says Andrew Wilson Changed His Opinions After a Call From Turning Point USA
+**C-12716** Host Says Andrew Wilson Changed His Opinions After a Call From Turning Point USA
 
 Claim Timestamp: 00:51:40
 
@@ -1953,7 +1952,7 @@ Investigative Direction: Compare Wilson's earlier and later public statements on
 
 ---
 
-**C-14841** Host Says Mikey McCoy Turned Around for About 0.75 of a Second and Stayed Ahead of Charlie
+**C-12718** Host Says Mikey McCoy Turned Around for About 0.75 of a Second and Stayed Ahead of Charlie
 
 Claim Timestamp: 00:55:30
 
@@ -1964,13 +1963,13 @@ Transcript Snippet: it is literally a split second that Mikey turns around. I th
 Anchored Artifacts: A-2339
 Mentions: N-190, N-1, N-159
 Related Nodes: N-10198
-Supports: C-3386
+Supports: C-12717
 Tags: relevance:core
 Investigative Direction: Measure McCoy's head turn in frame-by-frame footage.
 
 ---
 
-**C-14842** Host Says Blake Neff Is the Most Community-Noted Employee of the Charlie Kirk Show
+**C-12719** Host Says Blake Neff Is the Most Community-Noted Employee of the Charlie Kirk Show
 
 Claim Timestamp: 00:56:20
 
@@ -1986,7 +1985,7 @@ Investigative Direction: Count Community Notes attached to Neff's posts compared
 
 ---
 
-**C-14843** Commenter Nick Quotes Kirk That Gut Instincts Are Usually Right and Host Agrees
+**C-12720** Commenter Nick Quotes Kirk That Gut Instincts Are Usually Right and Host Agrees
 
 Claim Timestamp: 00:56:30
 
@@ -2001,7 +2000,7 @@ Investigative Direction: Find the original Kirk statement and its date.
 
 ---
 
-**C-14844** Host Says Charlie Correctly Predicted His Death and Its Link to Turning Point USA
+**C-12721** Host Says Charlie Correctly Predicted His Death and Its Link to Turning Point USA
 
 Claim Timestamp: 00:57:10
 
@@ -2017,7 +2016,7 @@ Investigative Direction: Look for dated statements by Kirk linking his death to 
 
 ---
 
-**C-14845** Host Says Kirk Foresaw a Young Death the Moment He Signed
+**C-12722** Host Says Kirk Foresaw a Young Death the Moment He Signed
 
 Claim Timestamp: 00:57:25
 
@@ -2033,7 +2032,7 @@ Investigative Direction: Identify what was signed and the source of the statemen
 
 ---
 
-**C-14846** Host Says the People Kirk Argued With the Day Before Were the First to Know He Was Dead
+**C-12723** Host Says the People Kirk Argued With the Day Before Were the First to Know He Was Dead
 
 Claim Timestamp: 00:59:50
 
@@ -2049,7 +2048,7 @@ Investigative Direction: Identify who is meant and when each person first learne
 
 ---
 
-**C-14847** Host Says It Is Known the Person Facing Death Is Not the Individual Who Murdered Charlie
+**C-12724** Host Says It Is Known the Person Facing Death Is Not the Individual Who Murdered Charlie
 
 Claim Timestamp: 01:00:50
 
@@ -2064,7 +2063,7 @@ Investigative Direction: Ask the host for the basis; compare with the evidence r
 
 ---
 
-**C-14848** Host Says She Gave Her Verdict on Lindsay Clancy Before Trial
+**C-12725** Host Says She Gave Her Verdict on Lindsay Clancy Before Trial
 
 Claim Timestamp: 01:02:00
 
@@ -2079,7 +2078,7 @@ Investigative Direction: Locate the host's earlier statement on Clancy.
 
 ---
 
-**C-14849** Host Says She Covered Baldoni and the Kamala Chronicles Fully
+**C-12726** Host Says She Covered Baldoni and the Kamala Chronicles Fully
 
 Claim Timestamp: 01:02:10
 
@@ -2094,7 +2093,7 @@ Investigative Direction: Review the host's prior series for comparable depth.
 
 ---
 
-**C-14850** Host Says Erika Kirk Has Not Acknowledged the Lies She Told
+**C-12727** Host Says Erika Kirk Has Not Acknowledged the Lies She Told
 
 Claim Timestamp: 01:02:40
 
@@ -2109,7 +2108,7 @@ Investigative Direction: List the specific statements the host considers false a
 
 ---
 
-**C-14851** Host Says Erika Kirk Is Doing the Opposite of What Her Husband Expressed
+**C-12728** Host Says Erika Kirk Is Doing the Opposite of What Her Husband Expressed
 
 Claim Timestamp: 01:03:00
 
@@ -2124,7 +2123,7 @@ Investigative Direction: Specify which of Kirk's expressed wishes the host has i
 
 ---
 
-**C-14852** Host Says She Is Holding Material Back Because of the Brian Harpole Case
+**C-12733** Host Says She Is Holding Material Back Because of the Brian Harpole Case
 
 Claim Timestamp: 01:04:20
 
@@ -2140,7 +2139,7 @@ Investigative Direction: Check the docket for the Harpole case and the host's ea
 
 ---
 
-**C-14853** Host Says TPUSA-Side Voices Now Say Kirk Thought He Was Going to Die
+**C-12734** Host Says TPUSA-Side Voices Now Say Kirk Thought He Was Going to Die
 
 Claim Timestamp: 01:04:40
 
@@ -2151,7 +2150,7 @@ Transcript Snippet: they're like, "Oh, Charlie did think he was going to die."
 Anchored Artifacts: 
 Mentions: N-1, N-266, N-3
 Related Nodes: N-10320
-Supports: C-3368, C-11320
+Supports: C-12669, C-7278
 Tags: relevance:core
 Investigative Direction: Find the TPUSA-side statements that Kirk feared he would die and compare dates with Harpole's interview.
 
@@ -2364,10 +2363,10 @@ Confidence: high
 - **Name uncertainty (A-2327.1)**: Transcript renders "Lance Twiggs" as "Twiggs" in most locations; treat Twiggs / Twiggs as the same person.
 - **Transcript ambiguity (A-2327.1)**: The bench ruling transcript includes the phrase "to risk request counsel" which appears to be a transcription artifact for "to [a person to] request counsel" or similar. Flag for verification against the official court transcript.
 - **Artifact verbally referenced but not shown (A-2333)**: Viva Frei X post referenced by host but not quoted verbatim in the episode.
-- **Artifact verbally referenced but not shown (C-3387)**: Shawn Ryan interview with Brian Harpole is referenced by host in closing remarks but the relevant clip is not displayed in this episode.
-- **Artifact verbally referenced but not shown (C-3388, C-3389)**: "Mike Mitchell confession" and "Bill Ackman million dollars" narratives are characterized as lies by the host but the original source documents / posts are not displayed.
+- **Artifact verbally referenced but not shown (C-12732)**: Shawn Ryan interview with Brian Harpole is referenced by host in closing remarks but the relevant clip is not displayed in this episode.
+- **Artifact verbally referenced but not shown (C-12651, C-12652)**: "Mike Mitchell confession" and "Bill Ackman million dollars" narratives are characterized as lies by the host but the original source documents / posts are not displayed.
 - **Possible transcription error (A-2328)**: Transcript includes "I'm sorry. Waive reading of the information" – possible stutter or transcription artifact; preserve as appears.
-- **Claim failed admission test (C-3388, C-3389)**: These claims assert the negative ("there is no truth to that narrative") without an artifact in this episode displaying the original narrative. They are inscribed as host-stance claims anchored to host narration, not to displayed artifacts. Investigative verification needed.
+- **Claim failed admission test (C-12651, C-12652)**: These claims assert the negative ("there is no truth to that narrative") without an artifact in this episode displaying the original narrative. They are inscribed as host-stance claims anchored to host narration, not to displayed artifacts. Investigative verification needed.
 - **Requires human verification (A-2329)**: Footage provenance – host states clips are "exclusive" and "never-before-seen" but does not in this episode provide authentication metadata.
 - **Requires human verification (A-2330)**: Vehicle diagram is acknowledged as AI-generated; positions should be cross-checked against original photos / video of the UVU lot.
 - **Timestamp uncertainty (A-2329)**: "T minus 5" labeling referenced by host but full timestamp chain not provided.

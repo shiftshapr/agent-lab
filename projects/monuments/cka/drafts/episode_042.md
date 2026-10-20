@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10f): N-909, N-11335
   - Tip-minted Nodes (reintro-ep042): N-11057
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-12417–C-12476
+  - Claim Range: C-3652–C-3734
   - (see registers)
 
 # Episode 42 Analysis Record
@@ -37,7 +37,6 @@
 Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
-- Claim Range: C-1839–C-1861
   - New Nodes Introduced: N-308, N-309, N-311, N-10312, N-10313
   - Reused Nodes Appearing: N-2, N-10311, N-310, N-10315, N-307, N-10314, N-11, N-22, N-30, N-61, N-69, N-75, N-278, N-282, N-10000, N-10275, N-10307
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
@@ -66,7 +65,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, N-311, N-159, N-2, N-10313*
+*Related: C-3655, C-3660, N-311, N-159, N-2, N-10313*
 
 **A-1501.2** Segment: Blake Neff response – Erika Kirk direction and in-person rationale
 
@@ -76,7 +75,7 @@ Video Timestamp: 00:05:37–00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, C-1841, N-159, N-2, N-10313*
+*Related: C-3655, C-3660, C-3668, N-159, N-2, N-10313*
 
 **A-1502** TPUSA Phoenix Live Stream Announcement Bundle
 
@@ -88,7 +87,7 @@ Video Timestamp: 00:11:14–00:11:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1842, N-159, N-10313, N-2*
+*Related: C-3707, N-159, N-10313, N-2*
 
 **A-1503** The Game Song Bundle
 
@@ -100,7 +99,7 @@ Video Timestamp: 00:34:18–00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1843, N-304, N-2*
+*Related: C-3678, N-304, N-2*
 
 **A-1504** John McCain Ukraine Speech Clip Bundle
 
@@ -124,7 +123,7 @@ Video Timestamp: 00:20:45–00:21:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1844, C-1847, N-10311, N-307, N-308*
+*Related: C-3679, C-3704, N-10311, N-307, N-308*
 
 **A-1505.2** Footage segment: Jacob Kasparian not ducking after shot
 
@@ -134,7 +133,7 @@ Video Timestamp: 00:24:00–00:24:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1848, C-1849, N-307, N-10311*
+*Related: C-3689, C-3691, N-307, N-10311*
 
 **A-1505.3** Footage segment: Jacob Kasparian recording (grainy superimposition)
 
@@ -144,7 +143,7 @@ Video Timestamp: 00:25:00–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1849, N-307, N-10311*
+*Related: C-3691, N-307, N-10311*
 
 **A-1505.4** Jacob Kasparian earlier-day social media post (dyed blue shirt)
 
@@ -154,7 +153,7 @@ Video Timestamp: 00:24:50–00:25:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1850, N-307, N-10311*
+*Related: C-3690, N-307, N-10311*
 
 **A-1505.5** Adam Bartholomew live-stream footage (full event)
 
@@ -164,7 +163,7 @@ Video Timestamp: 00:26:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1851, C-1852, C-1853, N-308, N-309, N-10311*
+*Related: C-3695, C-3696, C-3698, N-308, N-309, N-10311*
 
 **A-1505.6** Video segment: a person holding a maroon shirt
 
@@ -174,7 +173,7 @@ Video Timestamp: 00:21:40–00:21:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1847, N-10311*
+*Related: C-3704, N-10311*
 
 **A-1506** Blake Neff X Post Bundle
 
@@ -186,7 +185,7 @@ Video Timestamp: 00:46:13–00:46:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1854, N-159, N-10313*
+*Related: C-3700, N-159, N-10313*
 
 **A-1507** Charlie Kirk Show Apple Podcasts Ranking Bundle
 
@@ -198,7 +197,7 @@ Video Timestamp: 00:02:41–00:03:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1855, N-10312*
+*Related: C-3681, N-10312*
 
 **A-1508** PBS Emmanuel Bierer Interview Bundle
 
@@ -210,7 +209,7 @@ Video Timestamp: 00:32:42–00:33:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1856, N-310, N-10315*
+*Related: C-3713, N-310, N-10315*
 
 **A-1509** Roof Shooter Video Follow-up Bundle
 
@@ -222,7 +221,7 @@ Video Timestamp: 00:44:21–00:45:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1857, C-1858, C-1859, N-10314*
+*Related: C-3714, C-3719, C-3715, N-10314*
 
 **A-1510** Anonymous Military Maroon Email Bundle
 
@@ -234,7 +233,7 @@ Video Timestamp: 00:22:10–00:23:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1860, N-10311*
+*Related: C-3659, N-10311*
 
 **A-1511** Carrie Bartholomew X Post Bundle
 
@@ -246,7 +245,7 @@ Video Timestamp: 00:27:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1852, N-309, N-308, N-10311*
+*Related: C-3696, N-309, N-308, N-10311*
 
 **A-1512** Audience Comment Bundle
 
@@ -273,7 +272,7 @@ Video Timestamp: 00:01:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12417, N-3*
+*Related: C-3652, N-3*
 
 ---
 
@@ -286,7 +285,7 @@ Video Timestamp: 00:43:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12459, N-3*
+*Related: C-3712, N-3*
 
 ---
 
@@ -299,7 +298,7 @@ Video Timestamp: 00:45:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12464, C-12465, N-3*
+*Related: C-3721, C-3722, N-3*
 
 ---
 
@@ -312,7 +311,7 @@ Video Timestamp: 00:49:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12474, N-3*
+*Related: C-3732, N-3*
 
 ---
 
@@ -325,7 +324,7 @@ Video Timestamp: 00:20:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12438, C-12439, N-3*
+*Related: C-3683, C-3684, N-3*
 
 ---
 
@@ -340,7 +339,7 @@ Video Timestamp: 00:28:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12450, N-3*
+*Related: C-3701, N-3*
 
 ---
 
@@ -356,7 +355,7 @@ Claim Count: 0
 Episode Count: 0 (entry-level carryover from prior episodes)
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1503.1, A-1507.1, A-1512.1, C-1839, C-1843, C-1855*
+*Related: A-1501.1, A-1501.2, A-1503.1, A-1507.1, A-1512.1, C-3655, C-3678, C-3681*
 
 **N-159** Blake Neff
 
@@ -367,7 +366,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.2, A-1502.1, A-1506.1, C-1839, C-1840, C-1841, C-1842, C-1854, N-10313*
+*Related: A-1501.2, A-1502.1, A-1506.1, C-3655, C-3660, C-3668, C-3707, C-3700, N-10313*
 
 **N-14** Andrew Kolvet
 
@@ -389,7 +388,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1503.1, C-1843, N-1*
+*Related: A-1503.1, C-3678, N-1*
 
 **N-307** Jacob Kasparian
 
@@ -400,7 +399,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.2, A-1505.3, A-1505.4, C-1848, C-1849, C-1850, N-10311*
+*Related: A-1505.2, A-1505.3, A-1505.4, C-3689, C-3691, C-3690, N-10311*
 
 **N-308** Adam Bartholomew
 
@@ -411,7 +410,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.5, C-1851, C-1853, N-309, N-10311*
+*Related: A-1505.5, C-3695, C-3698, N-309, N-10311*
 
 **N-309** Carrie Bartholomew
 
@@ -422,7 +421,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1511.1, C-1852, N-308, N-10311*
+*Related: A-1511.1, C-3696, N-308, N-10311*
 
 **N-310** Emmanuel Bierer
 
@@ -433,7 +432,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-1856, N-10315*
+*Related: A-1508.1, C-3713, N-10315*
 
 **N-311** "Gina" (Charlie Kirk Show caller)
 
@@ -455,7 +454,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-307, N-308, N-309*
+*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-3679, C-3704, C-3689, C-3691, C-3690, C-3695, C-3696, C-3698, C-3700, C-3659, N-307, N-308, N-309*
 
 **N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
 
@@ -466,7 +465,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1507.1, C-1855, N-1*
+*Related: A-1507.1, C-3681, N-1*
 
 **N-10313** TPUSA December 15 Live Stream Event Verification
 
@@ -477,7 +476,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-159, N-14, N-311, N-2*
+*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-3655, C-3660, C-3668, C-3707, C-3700, C-3663, N-159, N-14, N-311, N-2*
 
 **N-10314** Roof Shooter Video Witness Follow-up
 
@@ -488,7 +487,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1509.1, C-1857, C-1858, C-1859*
+*Related: A-1509.1, C-3714, C-3719, C-3715*
 
 **N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
@@ -499,7 +498,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-1856, N-310*
+*Related: A-1508.1, C-3713, N-310*
 
 ---
 
@@ -507,7 +506,7 @@ Investigative Pressure: Medium
 
 TPUSA CEO whose direction of the response is disputed.
 
-*Related: C-12429, C-12430, C-12472, C-12474, C-12475*
+*Related: C-3670, C-3671, C-3730, C-3732, C-3733*
 
 ---
 
@@ -515,7 +514,7 @@ TPUSA CEO whose direction of the response is disputed.
 
 Host, speaks for herself throughout.
 
-*Related: C-12417, C-12418, C-12421, C-12422, C-12423, C-12425, C-12426, C-12427, C-12428, C-12429, C-12430, C-12432, C-12433, C-12434, C-12436, C-12437, C-12438, C-12439, C-12440, C-12441, C-12445, C-12446, C-12447, C-12449, C-12450, C-12451, C-12452, C-12453, C-12455, C-12457, C-12458, C-12459, C-12460, C-12461, C-12462, C-12463, C-12465, C-12466, C-12467, C-12468, C-12469, C-12470, C-12471, C-12472, C-12473, C-12475, C-12476*
+*Related: C-3652, C-3654, C-3658, C-3661, C-3662, C-3665, C-3666, C-3667, C-3669, C-3670, C-3671, C-3673, C-3674, C-3675, C-3677, C-3680, C-3683, C-3684, C-3682, C-3685, C-3692, C-3693, C-3694, C-3699, C-3701, C-3702, C-3703, C-3705, C-3708, C-3710, C-3711, C-3712, C-3716, C-3717, C-3718, C-3720, C-3722, C-3724, C-3725, C-3726, C-3727, C-3728, C-3729, C-3730, C-3731, C-3733, C-3734*
 
 ---
 
@@ -523,7 +522,7 @@ Host, speaks for herself throughout.
 
 Named by the host as a late-night tweeter.
 
-*Related: C-12431*
+*Related: C-3672*
 
 ---
 
@@ -531,7 +530,7 @@ Named by the host as a late-night tweeter.
 
 Subject of the comment about Neff's past employment and the host's planned inquiry.
 
-*Related: C-12464, C-12465, C-12468*
+*Related: C-3721, C-3722, C-3726*
 
 ---
 
@@ -539,7 +538,7 @@ Subject of the comment about Neff's past employment and the host's planned inqui
 
 The host's husband, whose scheduling for December 15 the host cites.
 
-*Related: C-12432*
+*Related: C-3673*
 
 ---
 
@@ -547,7 +546,7 @@ The host's husband, whose scheduling for December 15 the host cites.
 
 Defendant whose court case the roof filmer has not been drawn into.
 
-*Related: C-12463*
+*Related: C-3720*
 
 ---
 
@@ -555,7 +554,7 @@ Defendant whose court case the roof filmer has not been drawn into.
 
 The person the host's remark about Tiffany Barker names (transcribed as Phil Lyman).
 
-*Related: C-12453*
+*Related: C-3705*
 
 ---
 
@@ -563,7 +562,7 @@ The person the host's remark about Tiffany Barker names (transcribed as Phil Lym
 
 Named in the host's aside.
 
-*Related: C-12467*
+*Related: C-3725*
 
 ---
 
@@ -571,7 +570,7 @@ Named in the host's aside.
 
 Cited by the host as an example of how a witness got a news hit.
 
-*Related: C-12453*
+*Related: C-3705*
 
 ---
 
@@ -579,7 +578,7 @@ Cited by the host as an example of how a witness got a news hit.
 
 Subject of the comment and host remark about an interview of Erika Kirk.
 
-*Related: C-12474, C-12475*
+*Related: C-3732, C-3733*
 
 ---
 
@@ -587,7 +586,7 @@ Subject of the comment and host remark about an interview of Erika Kirk.
 
 Source of the remark the host attributes to him.
 
-*Related: C-12468*
+*Related: C-3726*
 
 ---
 
@@ -595,7 +594,7 @@ Source of the remark the host attributes to him.
 
 Organization at the center of the invitation dispute.
 
-*Related: C-12417, C-12419, C-12426, C-12431, C-12473*
+*Related: C-3652, C-3656, C-3666, C-3672, C-3731*
 
 ---
 
@@ -603,7 +602,7 @@ Organization at the center of the invitation dispute.
 
 The host's theory that the maroon men were coordinated.
 
-*Related: C-12446, C-12449, C-12450*
+*Related: C-3693, C-3699, C-3701*
 
 ---
 
@@ -611,7 +610,7 @@ The host's theory that the maroon men were coordinated.
 
 The Phoenix studio setting of the live stream.
 
-*Related: C-12428*
+*Related: C-3669*
 
 ---
 
@@ -619,7 +618,7 @@ The Phoenix studio setting of the live stream.
 
 The claims about his work for Tucker Carlson.
 
-*Related: C-12464, C-12465*
+*Related: C-3721, C-3722*
 
 ---
 
@@ -628,7 +627,7 @@ The claims about his work for Tucker Carlson.
 Node Type: Topic
 The host reports that a TikTok user claimed that, after he submitted videos shot by a family member to the FBI, the FBI asked him to delete the footage. The host says she does not know whether it is true and that the same individual later sent her footage.
 
-*Related: C-12438, C-12439*
+*Related: C-3683, C-3684*
 
 ---
 
@@ -636,13 +635,13 @@ The host reports that a TikTok user claimed that, after he submitted videos shot
 
 First named by the host at 00:17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.
 
-*Related: C-12434, C-12435, C-12436*
+*Related: C-3675, C-3676, C-3677*
 
 ---
 
 ## V. Claim Register
 
-**C-1839** Blake Neff stated TPUSA invitation response was at direction and approval of Erika Kirk
+**C-3655** Blake Neff stated TPUSA invitation response was at direction and approval of Erika Kirk
 
 Claim Timestamp: 00:05:37
 
@@ -657,7 +656,7 @@ Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segmen
 
 ---
 
-**C-1840** Blake Neff stated it is "intuitive" that in-person attendance is critical for authenticity
+**C-3660** Blake Neff stated it is "intuitive" that in-person attendance is critical for authenticity
 
 Claim Timestamp: 00:06:44
 
@@ -672,7 +671,7 @@ Investigative Direction: Compare this stated rationale against any prior TPUSA l
 
 ---
 
-**C-1841** Blake Neff's prior "sincere" Phoenix invitation did not require in-person attendance
+**C-3668** Blake Neff's prior "sincere" Phoenix invitation did not require in-person attendance
 
 Claim Timestamp: 00:11:14
 
@@ -687,7 +686,7 @@ Investigative Direction: Obtain the original December 3 (approx.) Blake Neff sta
 
 ---
 
-**C-1842** The Game's released track contains the question "Who really killed Charlie Kirk?"
+**C-3707** The Game's released track contains the question "Who really killed Charlie Kirk?"
 
 Claim Timestamp: 00:34:18
 
@@ -701,7 +700,7 @@ Investigative Direction: Obtain the full released track and verify publication d
 
 ---
 
-**C-1843** UVU school colors are green and white, not maroon
+**C-3678** UVU school colors are green and white, not maroon
 
 Claim Timestamp: 00:20:07
 
@@ -715,7 +714,7 @@ Investigative Direction: Verify UVU official branding (athletics department, uni
 
 ---
 
-**C-1844** Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts
+**C-3679** Host Says UVU September 10 Footage Shows Numerous Young Men Alone Wearing Maroon Shirts
 
 Claim Timestamp: 00:20:45–00:21:55
 
@@ -730,7 +729,7 @@ Investigative Direction: Systematically catalog every maroon-shirted attendee vi
 
 ---
 
-**C-1845** Blake Neff X post states invitation was not guest booking and Candace declined
+**C-3723** Blake Neff X post states invitation was not guest booking and Candace declined
 
 Claim Timestamp: 00:46:13
 
@@ -745,7 +744,7 @@ Investigative Direction: Retrieve the original X post with timestamp and any rep
 
 ---
 
-**C-1846** Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts
+**C-3653** Per Tweet Host Reads, The Charlie Kirk Show Fell to #94 on Apple Podcasts
 
 Claim Timestamp: 00:02:41
 
@@ -760,7 +759,7 @@ Investigative Direction: Cross-reference third-party Apple Podcasts tracking ser
 
 ---
 
-**C-1847** PBS featured Emmanuel Bierer as eyewitness in Salt Lake City
+**C-3704** PBS featured Emmanuel Bierer as eyewitness in Salt Lake City
 
 Claim Timestamp: 00:32:42–00:33:55
 
@@ -775,7 +774,7 @@ Investigative Direction: Obtain the original PBS segment, identify the producer/
 
 ---
 
-**C-1848** Host Says Jacob Kasparian Did Not Duck After the Shot Went Off
+**C-3689** Host Says Jacob Kasparian Did Not Duck After the Shot Went Off
 
 Claim Timestamp: 00:24:00–00:24:45
 
@@ -790,7 +789,7 @@ Investigative Direction: Obtain the original full-length footage to confirm the 
 
 ---
 
-**C-1849** Jacob Kasparian recorded the event on his phone
+**C-3691** Jacob Kasparian recorded the event on his phone
 
 Claim Timestamp: 00:25:00–00:25:35
 
@@ -805,7 +804,7 @@ Investigative Direction: Obtain any phone-recorded footage from Jacob Kasparian 
 
 ---
 
-**C-1850** Jacob Kasparian's earlier-day social media post depicted a different shirt
+**C-3690** Jacob Kasparian's earlier-day social media post depicted a different shirt
 
 Claim Timestamp: 00:24:50–00:25:25
 
@@ -820,7 +819,7 @@ Investigative Direction: Obtain the original Facebook post with timestamp metada
 
 ---
 
-**C-1851** Host Says Adam Bartholomew Live-Streamed the Entire UVU Event
+**C-3695** Host Says Adam Bartholomew Live-Streamed the Entire UVU Event
 
 Claim Timestamp: 00:26:30–00:28:00
 
@@ -835,7 +834,7 @@ Investigative Direction: Obtain the full Adam Bartholomew livestream VOD and met
 
 ---
 
-**C-1852** Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot
+**C-3696** Carrie Bartholomew confirmed via tweet she was in the courtyard during the shot
 
 Claim Timestamp: 00:27:30–00:28:00
 
@@ -850,7 +849,7 @@ Investigative Direction: Retrieve the original Carrie Bartholomew tweet with ima
 
 ---
 
-**C-1853** Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot
+**C-3698** Host Says Adam Bartholomew Did Not Stop Livestreaming to Find His Wife After the Shot
 
 Claim Timestamp: 00:27:51–00:28:00
 
@@ -865,7 +864,7 @@ Investigative Direction: Review the full Bartholomew livestream timeline and any
 
 ---
 
-**C-1854** Tyler Robinson was wearing a maroon shirt at the event
+**C-3700** Tyler Robinson was wearing a maroon shirt at the event
 
 Claim Timestamp: 00:28:44
 
@@ -880,7 +879,7 @@ Investigative Direction: Cross-reference court filings and law enforcement exhib
 
 ---
 
-**C-1855** Multiple email correspondents state maroon is associated with airborne forces in multiple militaries
+**C-3681** Multiple email correspondents state maroon is associated with airborne forces in multiple militaries
 
 Claim Timestamp: 00:22:10–00:23:45
 
@@ -894,7 +893,7 @@ Investigative Direction: Cross-reference the email assertions against publicly a
 
 ---
 
-**C-1856** Only two videos of the alleged shooter on the roof exist
+**C-3713** Only two videos of the alleged shooter on the roof exist
 
 Claim Timestamp: 00:44:21
 
@@ -908,7 +907,7 @@ Investigative Direction: Catalog all publicly known September 10 roof footage an
 
 ---
 
-**C-1857** Roof video caller did not see subject take the shot and observed no recoil
+**C-3714** Roof video caller did not see subject take the shot and observed no recoil
 
 Claim Timestamp: 00:44:21–00:45:00
 
@@ -922,7 +921,7 @@ Investigative Direction: Obtain a sworn statement from the roof video caller and
 
 ---
 
-**C-1858** Roof video caller reports no contact from Robinson's defense or federal authorities
+**C-3719** Roof video caller reports no contact from Robinson's defense or federal authorities
 
 Claim Timestamp: 00:45:11
 
@@ -937,7 +936,7 @@ Investigative Direction: Verify via court subpoena records and FBI/subpoena logs
 
 ---
 
-**C-1859** Roof video caller reports firearms-instruction background
+**C-3715** Roof video caller reports firearms-instruction background
 
 Claim Timestamp: 00:44:21–00:45:00
 
@@ -951,7 +950,7 @@ Investigative Direction: Verify the caller's stated qualifications via credentia
 
 ---
 
-**C-1860** Blake Neff Says Erika Kirk Heads This
+**C-3659** Blake Neff Says Erika Kirk Heads This
 
 Claim Timestamp: 00:05:40
 
@@ -966,7 +965,7 @@ Investigative Direction: Obtain TPUSA corporate filings or official communicatio
 
 ---
 
-**C-1861** Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15
+**C-3663** Clip the Host Plays Has Blake Neff Saying TPUSA Response Live Stream Is Set for December 15
 
 Claim Timestamp: 00:07:32
 
@@ -981,7 +980,7 @@ Investigative Direction: Monitor TPUSA channels for confirmation and document th
 
 ---
 
-**C-12417** Top Comment Says TPUSA Took Three Months to Respond Then Gave 24 Hours
+**C-3652** Top Comment Says TPUSA Took Three Months to Respond Then Gave 24 Hours
 
 Claim Timestamp: 00:01:33
 
@@ -997,7 +996,7 @@ Investigative Direction: Establish from TPUSA's December 3 to 5 posts and the da
 
 ---
 
-**C-12418** Caller Gina Says Invitation Tweet Posted at Midnight and Host Saw It Nine Hours Later
+**C-3654** Caller Gina Says Invitation Tweet Posted at Midnight and Host Saw It Nine Hours Later
 
 Claim Timestamp: 00:04:20
 
@@ -1008,13 +1007,13 @@ Transcript Snippet: it was issued Blake I think at 12 on a tweet that you had bu
 Anchored Artifacts: A-1501.1
 Mentions: N-311, N-159, N-3
 Related Nodes: N-10313
-Supports: C-1832
+Supports: C-3610
 Tags: relevance:core
 Investigative Direction: Pull the timestamp of Neff's invitation post on X and compare it with when the host first responded publicly.
 
 ---
 
-**C-12419** Neff Says TPUSA Initially Thought No One Would Believe the Claims
+**C-3656** Neff Says TPUSA Initially Thought No One Would Believe the Claims
 
 Claim Timestamp: 00:05:37
 
@@ -1030,7 +1029,7 @@ Investigative Direction: Compare with TPUSA's earlier statements and staff messa
 
 ---
 
-**C-12420** Neff Says No Date Was Agreed When He Read the Statement
+**C-3657** Neff Says No Date Was Agreed When He Read the Statement
 
 Claim Timestamp: 00:05:37
 
@@ -1046,7 +1045,7 @@ Investigative Direction: Obtain the Wednesday show audio and any internal schedu
 
 ---
 
-**C-12421** Neff Says Host Is Free to Attend in Person Once a Date Is Announced
+**C-3658** Neff Says Host Is Free to Attend in Person Once a Date Is Announced
 
 Claim Timestamp: 00:05:37
 
@@ -1062,7 +1061,7 @@ Investigative Direction: Compare with the text of the original Wednesday stateme
 
 ---
 
-**C-12422** Neff Says Host Said Name the Time and Place and TPUSA Did
+**C-3661** Neff Says Host Said Name the Time and Place and TPUSA Did
 
 Claim Timestamp: 00:06:44
 
@@ -1078,7 +1077,7 @@ Investigative Direction: Find the host's earlier public statement or message usi
 
 ---
 
-**C-12423** Neff Says Host Had No Difficulty Finding the Scheduled Time
+**C-3662** Neff Says Host Had No Difficulty Finding the Scheduled Time
 
 Claim Timestamp: 00:06:44
 
@@ -1094,7 +1093,7 @@ Investigative Direction: Check whether TPUSA sent the host or her team any direc
 
 ---
 
-**C-12424** Host Says Kolvet Was Remote While Neff Said In Person Is Critical
+**C-3664** Host Says Kolvet Was Remote While Neff Said In Person Is Critical
 
 Claim Timestamp: 00:07:32
 
@@ -1110,7 +1109,7 @@ Investigative Direction: Watch the December 5 Charlie Kirk Show video to confirm
 
 ---
 
-**C-12425** Host Says Her Most Viral Debates Were Never In Person
+**C-3665** Host Says Her Most Viral Debates Were Never In Person
 
 Claim Timestamp: 00:09:13
 
@@ -1126,7 +1125,7 @@ Investigative Direction: List the host's past debates and their formats to confi
 
 ---
 
-**C-12426** Host Says Original Offer Set No In-Person or 24-Hour Requirement
+**C-3666** Host Says Original Offer Set No In-Person or 24-Hour Requirement
 
 Claim Timestamp: 00:10:16
 
@@ -1137,13 +1136,13 @@ Transcript Snippet: They never made in person a point of their demands. Um they 
 Anchored Artifacts: A-1502.1
 Mentions: N-3
 Related Nodes: N-10313, N-10000
-Supports: C-1841
+Supports: C-3668
 Tags: relevance:core
 Investigative Direction: Compare the original December 3 statement and TPUSA posts for any mention of an in-person condition or a deadline.
 
 ---
 
-**C-12427** Host Says Her Husband Ruled Out Monday
+**C-3667** Host Says Her Husband Ruled Out Monday
 
 Claim Timestamp: 00:10:16
 
@@ -1159,7 +1158,7 @@ Investigative Direction: This rests on the host's own account; confirm only thro
 
 ---
 
-**C-12428** Neff's Earlier Statement Placed the Live Stream at TPUSA's Phoenix Studio
+**C-3669** Neff's Earlier Statement Placed the Live Stream at TPUSA's Phoenix Studio
 
 Claim Timestamp: 00:11:14
 
@@ -1170,13 +1169,13 @@ Transcript Snippet: If Candace is available, we would sincerely welcome her part
 Anchored Artifacts: A-1502.1
 Mentions: N-159, N-3
 Related Nodes: N-10313, N-10307
-Supports: C-1841
+Supports: C-3668
 Tags: relevance:core
 Investigative Direction: Obtain the original statement text and video to verify the wording.
 
 ---
 
-**C-12429** Host Says Statement Called Critics Antifa Members and Erika Approved It
+**C-3670** Host Says Statement Called Critics Antifa Members and Erika Approved It
 
 Claim Timestamp: 00:12:38
 
@@ -1187,13 +1186,13 @@ Transcript Snippet: she approved the statement that went out referring to people
 Anchored Artifacts: 
 Mentions: N-2, N-3, N-159
 Related Nodes: N-10313
-Supports: C-1839
+Supports: C-3655
 Tags: relevance:core
 Investigative Direction: Obtain the statement text and check whether it used the word Antifa for the host's audience.
 
 ---
 
-**C-12430** Host Says She Would Join Especially If Erika Kirk Is There
+**C-3671** Host Says She Would Join Especially If Erika Kirk Is There
 
 Claim Timestamp: 00:14:19
 
@@ -1209,7 +1208,7 @@ Investigative Direction: Ask TPUSA whether Erika Kirk was to appear at the Decem
 
 ---
 
-**C-12431** Host Says Kolvet Is on the Road and Not Correcting Tone
+**C-3672** Host Says Kolvet Is on the Road and Not Correcting Tone
 
 Claim Timestamp: 00:14:19
 
@@ -1225,7 +1224,7 @@ Investigative Direction: Check Kolvet's public travel and Bowyer's posts around 
 
 ---
 
-**C-12432** Host Says Her Husband Cannot Make December 15
+**C-3673** Host Says Her Husband Cannot Make December 15
 
 Claim Timestamp: 00:15:18
 
@@ -1241,7 +1240,7 @@ Investigative Direction: This rests on the host's account; ask TPUSA what flexib
 
 ---
 
-**C-12433** Host Says She Believes It Was a Deep State Assassination
+**C-3674** Host Says She Believes It Was a Deep State Assassination
 
 Claim Timestamp: 00:16:54
 
@@ -1256,7 +1255,7 @@ Investigative Direction: Treat as the host's stated belief; nothing in this pass
 
 ---
 
-**C-12434** Host Says Ukraine's 2014 Uprising and McCain Were a US Color Revolution
+**C-3675** Host Says Ukraine's 2014 Uprising and McCain Were a US Color Revolution
 
 Claim Timestamp: 00:17:54
 
@@ -1271,7 +1270,7 @@ Investigative Direction: Treat as the host's sweeping historical assertion; asse
 
 ---
 
-**C-12435** Clip Has McCain Telling Ukrainians It Is Their Moment
+**C-3676** Clip Has McCain Telling Ukrainians It Is Their Moment
 
 Claim Timestamp: 00:18:45
 
@@ -1286,7 +1285,7 @@ Investigative Direction: Identify the source video and date of the McCain speech
 
 ---
 
-**C-12436** Host Says the Assassination Was as Organic as McCain Leading Ukraine
+**C-3677** Host Says the Assassination Was as Organic as McCain Leading Ukraine
 
 Claim Timestamp: 00:19:19
 
@@ -1296,13 +1295,13 @@ Transcript Snippet: that Charlie Kirk's assassination was about as organic as Jo
 
 Anchored Artifacts: A-1504.1
 Mentions: N-1, N-909, N-3
-Supports: C-12433
+Supports: C-3674
 Tags: relevance:core
 Investigative Direction: Treat as the host's belief; the analogy itself is not evidence.
 
 ---
 
-**C-12437** Host Says Three Men Shown Alone in Maroon After the Shot
+**C-3680** Host Says Three Men Shown Alone in Maroon After the Shot
 
 Claim Timestamp: 00:20:45
 
@@ -1318,7 +1317,7 @@ Investigative Direction: Catalog each frame the host showed and match the people
 
 ---
 
-**C-12438** Host Says a TikTok User Claimed the FBI Told Him to Delete Family Footage
+**C-3683** Host Says a TikTok User Claimed the FBI Told Him to Delete Family Footage
 
 Claim Timestamp: 00:23:23
 
@@ -1334,7 +1333,7 @@ Investigative Direction: Identify the TikTok user and preserve his submission re
 
 ---
 
-**C-12439** Host Says the TikTok User Sent Her Footage That Showed Kasparian
+**C-3684** Host Says the TikTok User Sent Her Footage That Showed Kasparian
 
 Claim Timestamp: 00:23:32
 
@@ -1350,7 +1349,7 @@ Investigative Direction: Obtain the original footage and its metadata from the i
 
 ---
 
-**C-12440** Emailer Says Colors Let Military Observers Know Whom to Protect
+**C-3682** Emailer Says Colors Let Military Observers Know Whom to Protect
 
 Claim Timestamp: 00:22:34
 
@@ -1361,13 +1360,13 @@ Transcript Snippet: especially in coordinated violent scenes, uh, making sure th
 Anchored Artifacts: A-1510.1
 Mentions: N-3
 Related Nodes: N-10311
-Supports: C-1855
+Supports: C-3681
 Tags: relevance:context
 Investigative Direction: Ask military color-marking experts whether identifier colors are used this way; the emailer is unnamed.
 
 ---
 
-**C-12441** Host Says She Does Not Think Kasparian Shot Kirk
+**C-3685** Host Says She Does Not Think Kasparian Shot Kirk
 
 Claim Timestamp: 00:23:55
 
@@ -1383,7 +1382,7 @@ Investigative Direction: Compare with the host's later statements about Kasparia
 
 ---
 
-**C-12442** Host Says Kasparian Attended the Event Alone
+**C-3686** Host Says Kasparian Attended the Event Alone
 
 Claim Timestamp: 00:23:55
 
@@ -1399,7 +1398,7 @@ Investigative Direction: Review crowd footage for companions of Kasparian.
 
 ---
 
-**C-12443** Host Says Kasparian's Facebook Post Was at 8:42 or 7:42 a.m.
+**C-3687** Host Says Kasparian's Facebook Post Was at 8:42 or 7:42 a.m.
 
 Claim Timestamp: 00:23:55
 
@@ -1410,13 +1409,13 @@ Transcript Snippet: he had posted himself earlier that day at either 8:42 a. m. 
 Anchored Artifacts: A-1505.4
 Mentions: N-307
 Related Nodes: N-10311
-Qualifies: C-1850
+Qualifies: C-3690
 Tags: relevance:core
 Investigative Direction: Retrieve the original post with metadata to settle which time applies and the time zone.
 
 ---
 
-**C-12444** Host Says Kasparian Moved from High Ground to a Lower Rung Before the Shot
+**C-3688** Host Says Kasparian Moved from High Ground to a Lower Rung Before the Shot
 
 Claim Timestamp: 00:23:55
 
@@ -1432,7 +1431,7 @@ Investigative Direction: Track Kasparian's position through crowd footage in the
 
 ---
 
-**C-12445** Host Says Kasparian's Family Posted Nothing About the Assassination
+**C-3692** Host Says Kasparian's Family Posted Nothing About the Assassination
 
 Claim Timestamp: 00:25:30
 
@@ -1443,13 +1442,13 @@ Transcript Snippet: None of his family members posted anything about Charlie's a
 Anchored Artifacts: 
 Mentions: N-307, N-1, N-3
 Related Nodes: N-10311
-Supports: C-9800
+Supports: C-3293
 Tags: relevance:context
 Investigative Direction: Social media audit; absence of posts is weak evidence about a private family.
 
 ---
 
-**C-12446** Host Suspects Maroon Boys Were Tasked with Filming from Set Angles
+**C-3693** Host Suspects Maroon Boys Were Tasked with Filming from Set Angles
 
 Claim Timestamp: 00:25:30
 
@@ -1465,7 +1464,7 @@ Investigative Direction: Identify each maroon-shirted attendee and test whether 
 
 ---
 
-**C-12447** Host Says She Never Said Anything About Bartholomew Before
+**C-3694** Host Says She Never Said Anything About Bartholomew Before
 
 Claim Timestamp: 00:26:12
 
@@ -1481,7 +1480,7 @@ Investigative Direction: Check the host's earlier episodes for any mention of Ba
 
 ---
 
-**C-12448** Host Says Carrie Bartholomew Stood Almost Directly Near Kasparian
+**C-3697** Host Says Carrie Bartholomew Stood Almost Directly Near Kasparian
 
 Claim Timestamp: 00:27:40
 
@@ -1492,13 +1491,13 @@ Transcript Snippet: his wife Carrie was there and she was standing by the bush a
 Anchored Artifacts: A-1511.1
 Mentions: N-309, N-308, N-307
 Related Nodes: N-10311
-Supports: C-1852
+Supports: C-3696
 Tags: relevance:core
 Investigative Direction: Locate both people in the same frame of the footage and photo.
 
 ---
 
-**C-12449** Host Says All Footage Came from Maroon Boys and Was Algorithmically Boosted
+**C-3699** Host Says All Footage Came from Maroon Boys and Was Algorithmically Boosted
 
 Claim Timestamp: 00:27:51
 
@@ -1509,13 +1508,13 @@ Transcript Snippet: I think all of our footage has come from Maroon Boys and a l
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10275, N-10311
-Supports: C-12446
+Supports: C-3693
 Tags: relevance:core
 Investigative Direction: Map the earliest uploads of the main videos to the accounts of the people in maroon.
 
 ---
 
-**C-12450** Host Asks Viewers to Identify the Maroon Men at more tips
+**C-3701** Host Asks Viewers to Identify the Maroon Men at more tips
 
 Claim Timestamp: 00:28:44
 
@@ -1531,7 +1530,7 @@ Investigative Direction: Reconcile tips received with the host's later identific
 
 ---
 
-**C-12451** Host Says Bierer Is a Former Oracle Engineer Believed from Germany
+**C-3702** Host Says Bierer Is a Former Oracle Engineer Believed from Germany
 
 Claim Timestamp: 00:31:33
 
@@ -1547,7 +1546,7 @@ Investigative Direction: Check public professional profiles for Bierer's employe
 
 ---
 
-**C-12452** Host Says She Sees No Photos of Bierer at the Event
+**C-3703** Host Says She Sees No Photos of Bierer at the Event
 
 Claim Timestamp: 00:31:33
 
@@ -1558,13 +1557,13 @@ Transcript Snippet: he attended the event but somehow I don't see any photos of 
 Anchored Artifacts: 
 Mentions: N-310, N-3
 Related Nodes: N-10315
-Supports: C-1847
+Supports: C-3704
 Tags: relevance:core
 Investigative Direction: Request footage from attendees who recognize Bierer.
 
 ---
 
-**C-12453** Host Says Barker Said Her Friendship Got the Early News Hit
+**C-3705** Host Says Barker Said Her Friendship Got the Early News Hit
 
 Claim Timestamp: 00:32:42
 
@@ -1575,13 +1574,13 @@ Transcript Snippet: Oh, I was friends with uh, you know, Phil Lyman and that's t
 Anchored Artifacts: 
 Mentions: N-75, N-61, N-3
 Related Nodes: N-10315
-Supports: C-1245
+Supports: C-669
 Tags: relevance:context
 Investigative Direction: Verify the name in the HappyScribe transcript and the Barker interview source.
 
 ---
 
-**C-12454** Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked
+**C-3706** Bierer Says in the Clip He Heard a Loud Sound and Everyone Ducked
 
 Claim Timestamp: 00:32:42
 
@@ -1597,7 +1596,7 @@ Investigative Direction: Obtain the full PBS segment and the date it aired.
 
 ---
 
-**C-12455** Host Says The Game Has Dropped the Mixtape with the Track
+**C-3708** Host Says The Game Has Dropped the Mixtape with the Track
 
 Claim Timestamp: 00:34:18
 
@@ -1607,13 +1606,13 @@ Transcript Snippet: The Game dropped his album, his mixtape with the song The As
 
 Anchored Artifacts: A-1503.1
 Mentions: N-304, N-3
-Supports: C-1826
+Supports: C-3590
 Tags: relevance:context
 Investigative Direction: Check the release date and platform of the mixtape.
 
 ---
 
-**C-12456** Lyric Reads His Body Is Not Yet Settled in the Dirt
+**C-3709** Lyric Reads His Body Is Not Yet Settled in the Dirt
 
 Claim Timestamp: 00:34:18
 
@@ -1628,7 +1627,7 @@ Investigative Direction: Verify the lyric against the released track.
 
 ---
 
-**C-12457** Host Says Her Book Is on Amazon and Direct from Her Site at 20 Percent Off
+**C-3710** Host Says Her Book Is on Amazon and Direct from Her Site at 20 Percent Off
 
 Claim Timestamp: 00:42:13
 
@@ -1643,7 +1642,7 @@ Investigative Direction: Check the store listing for the offer.
 
 ---
 
-**C-12458** Host Says Memberships to Club Candace and the Book Club Can Now Be Gifted
+**C-3711** Host Says Memberships to Club Candace and the Book Club Can Now Be Gifted
 
 Claim Timestamp: 00:42:49
 
@@ -1658,7 +1657,7 @@ Investigative Direction: Check the site for the gift feature.
 
 ---
 
-**C-12459** Commenter Says a News Station Heard Memorial Attendees for Three Hours with No Believers
+**C-3712** Commenter Says a News Station Heard Memorial Attendees for Three Hours with No Believers
 
 Claim Timestamp: 00:43:37
 
@@ -1673,7 +1672,7 @@ Investigative Direction: Identify the news station and obtain the unedited foota
 
 ---
 
-**C-12460** Host Says the Side-Angle Filmer Recorded the Figure at 12:23
+**C-3716** Host Says the Side-Angle Filmer Recorded the Figure at 12:23
 
 Claim Timestamp: 00:44:21
 
@@ -1689,7 +1688,7 @@ Investigative Direction: Obtain the video with metadata; the host does not say w
 
 ---
 
-**C-12461** Host Says the Filmer Earlier Said He Saw Someone in Tactical Gear
+**C-3717** Host Says the Filmer Earlier Said He Saw Someone in Tactical Gear
 
 Claim Timestamp: 00:44:21
 
@@ -1705,7 +1704,7 @@ Investigative Direction: Compare with earlier episodes where an eyewitness descr
 
 ---
 
-**C-12462** Host Says the Filmer Says the Reassembling Claims Did Not Happen
+**C-3718** Host Says the Filmer Says the Reassembling Claims Did Not Happen
 
 Claim Timestamp: 00:44:21
 
@@ -1721,7 +1720,7 @@ Investigative Direction: Ask the filmer directly what his video does and does no
 
 ---
 
-**C-12463** Host Says Only Two People Filmed the Roof Figure and One Seems Unsubpoenaed
+**C-3720** Host Says Only Two People Filmed the Roof Figure and One Seems Unsubpoenaed
 
 Claim Timestamp: 00:45:11
 
@@ -1732,13 +1731,13 @@ Transcript Snippet: There's only two people that have cameras of this person on 
 Anchored Artifacts: A-1509.1
 Mentions: N-40, N-3
 Related Nodes: N-10314
-Qualifies: C-1858
+Qualifies: C-3719
 Tags: relevance:core
 Investigative Direction: Check the Robinson docket and witness lists for the filmer.
 
 ---
 
-**C-12464** Commenter Says Neff Was Fired by Tucker Carlson for Racist Remarks
+**C-3721** Commenter Says Neff Was Fired by Tucker Carlson for Racist Remarks
 
 Claim Timestamp: 00:45:11
 
@@ -1754,7 +1753,7 @@ Investigative Direction: Check contemporaneous reporting on the circumstances of
 
 ---
 
-**C-12465** Host Says She Did Not Know Neff Used to Work for Tucker Carlson
+**C-3722** Host Says She Did Not Know Neff Used to Work for Tucker Carlson
 
 Claim Timestamp: 00:45:11
 
@@ -1770,7 +1769,7 @@ Investigative Direction: Ask Carlson or his office about Neff's tenure on his pr
 
 ---
 
-**C-12466** Host Says She Never Declined an Offer to Join the Live Stream
+**C-3724** Host Says She Never Declined an Offer to Join the Live Stream
 
 Claim Timestamp: 00:46:13
 
@@ -1781,13 +1780,13 @@ Transcript Snippet: I never declined an offer to join your live stream.
 Anchored Artifacts: A-1506.1
 Mentions: N-3, N-159
 Related Nodes: N-10313
-Contradicts: C-1845
+Contradicts: C-3723
 Tags: relevance:core
 Investigative Direction: Review the host's replies and any direct messages from December 3 to 5 for any refusal.
 
 ---
 
-**C-12467** Host Says Patel Thinks His Girlfriend's Music Is Sensational
+**C-3725** Host Says Patel Thinks His Girlfriend's Music Is Sensational
 
 Claim Timestamp: 00:47:18
 
@@ -1802,7 +1801,7 @@ Investigative Direction: Treat as the host's aside; Patel's public comments on t
 
 ---
 
-**C-12468** Host Says According to Sosnick Tucker Is Her Only Friend
+**C-3726** Host Says According to Sosnick Tucker Is Her Only Friend
 
 Claim Timestamp: 00:47:18
 
@@ -1812,13 +1811,13 @@ Transcript Snippet: According to Adam Sosnick, Tucker's my only friend.
 
 Anchored Artifacts: 
 Mentions: N-282, N-22, N-3
-Supports: C-1800
+Supports: C-3393
 Tags: relevance:tangential
 Investigative Direction: Compare with Sosnick's original remark.
 
 ---
 
-**C-12469** Host Says BLM Was a Scam and Its Backers Bought Houses
+**C-3727** Host Says BLM Was a Scam and Its Backers Bought Houses
 
 Claim Timestamp: 00:48:12
 
@@ -1833,7 +1832,7 @@ Investigative Direction: Treat as an off-topic assertion recorded as said.
 
 ---
 
-**C-12470** Host Says She Will Livestream Her Live Response to TPUSA's Live Stream
+**C-3728** Host Says She Will Livestream Her Live Response to TPUSA's Live Stream
 
 Claim Timestamp: 00:48:12
 
@@ -1849,7 +1848,7 @@ Investigative Direction: Check that a live response aired on December 15.
 
 ---
 
-**C-12471** Host Says Neff's Introduction Was Ten Minutes on Her Character
+**C-3729** Host Says Neff's Introduction Was Ten Minutes on Her Character
 
 Claim Timestamp: 00:49:14
 
@@ -1865,7 +1864,7 @@ Investigative Direction: Time the Wednesday segment to test the ten-minute claim
 
 ---
 
-**C-12472** Host Says Neff Heavily Implies Erika Sanctioned the Statement
+**C-3730** Host Says Neff Heavily Implies Erika Sanctioned the Statement
 
 Claim Timestamp: 00:49:14
 
@@ -1876,13 +1875,13 @@ Transcript Snippet: I don't love the fact that he heavily implies that Erika san
 Anchored Artifacts: 
 Mentions: N-159, N-2, N-3
 Related Nodes: N-10313
-Supports: C-1839
+Supports: C-3655
 Tags: relevance:core
 Investigative Direction: Ask TPUSA who drafted and who approved the statement.
 
 ---
 
-**C-12473** Host Says TPUSA Campus Events Require Students to Submit Questions Ahead
+**C-3731** Host Says TPUSA Campus Events Require Students to Submit Questions Ahead
 
 Claim Timestamp: 00:50:45
 
@@ -1898,7 +1897,7 @@ Investigative Direction: Collect the emails and any TPUSA event rules on questio
 
 ---
 
-**C-12474** Commenter Says Bari Weiss Interviews Erika Kirk on December 13
+**C-3732** Commenter Says Bari Weiss Interviews Erika Kirk on December 13
 
 Claim Timestamp: 00:51:07
 
@@ -1913,7 +1912,7 @@ Investigative Direction: Check CBS announcements for the Weiss interview date.
 
 ---
 
-**C-12475** Host Says She Saw News of Weiss Sitting Down with Erika
+**C-3733** Host Says She Saw News of Weiss Sitting Down with Erika
 
 Claim Timestamp: 00:51:18
 
@@ -1923,13 +1922,13 @@ Transcript Snippet: I saw some news about uh Barry sitting down with her.
 
 Anchored Artifacts: 
 Mentions: N-278, N-2, N-3
-Supports: C-12474
+Supports: C-3732
 Tags: relevance:context
 Investigative Direction: Confirm the venue and date of the interview.
 
 ---
 
-**C-12476** Host Says Her Husband Said December 15 Absolutely Does Not Work
+**C-3734** Host Says Her Husband Said December 15 Absolutely Does Not Work
 
 Claim Timestamp: 00:51:51
 
@@ -1940,7 +1939,7 @@ Transcript Snippet: he said December 15th absolutely does not work.
 Anchored Artifacts: 
 Mentions: N-3, N-30
 Related Nodes: N-10313
-Supports: C-12432
+Supports: C-3673
 Tags: relevance:context
 Investigative Direction: Rests on the host's account.
 

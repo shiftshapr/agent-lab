@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep139): N-202, N-10791, N-10793
   - Tip-minted Nodes (reintro-ep139): N-11262
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10f): C-13193–C-13279
+  - Claim Range: C-11908–C-12018
   - (see registers)
 
 # Episode 139 Analysis – Bride of Charlie
@@ -33,7 +33,6 @@
 - Analysis date: 2026-08-07
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
-  - Claim Range: C-3236–C-3258
   - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789
   - Reused Nodes Appearing: N-40, N-18, N-10790, N-7, N-14, N-82, N-97, N-241, N-270, N-776, N-10000, N-10011, N-10013, N-10014, N-10022, N-10034, N-10041, N-10043, N-10044, N-10063, N-10085, N-10112, N-10143, N-10168, N-10183, N-10253, N-10294, N-10369, N-10537, N-10598, N-10634, N-10660, N-10670, N-10679, N-10692, N-10711, N-10729, N-10740, N-10750, N-10780, N-10899, N-11053, N-11065, N-11149, N-11308
   - Existing Nodes Reused: N-1, N-2
@@ -58,7 +57,7 @@ Video Timestamp: 00:00:02–00:00:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3236, C-3237, N-10786, N-1*
+*Related: C-11908, C-11910, N-10786, N-1*
 
 ---
 
@@ -72,7 +71,7 @@ Video Timestamp: 00:03:25–00:04:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3237, C-3238*
+*Related: C-11910, C-11917*
 
 **A-2255.2** Wilson states he hugged Erika Kirk at TPUSA HQ
 
@@ -82,7 +81,7 @@ Video Timestamp: 00:04:12–00:05:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3239, N-2*
+*Related: C-11921, N-2*
 
 **A-2255.3** Wilson states Candace has presented no evidence of Israel/TPUSA/Erica conspiracy
 
@@ -92,7 +91,7 @@ Video Timestamp: 00:03:25–00:04:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3240, N-1*
+*Related: C-11918, N-1*
 
 ---
 
@@ -106,7 +105,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3241*
+*Related: C-11936*
 
 ---
 
@@ -120,7 +119,7 @@ Video Timestamp: 00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3242*
+*Related: C-11937*
 
 ---
 
@@ -134,7 +133,7 @@ Video Timestamp: 00:10:41–00:13:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3243*
+*Related: C-11935*
 
 ---
 
@@ -148,7 +147,7 @@ Video Timestamp: 00:28:00–00:30:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single photo)
 
-*Related: C-3244, N-10787*
+*Related: C-11981, N-10787*
 
 **A-2259.2** Gas-pump photo (Texas) – subject fueling with left hand
 
@@ -158,7 +157,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-10787*
+*Related: C-11982, N-10787*
 
 **A-2259.3** Selfie photos – taken with left hand
 
@@ -168,7 +167,7 @@ Video Timestamp: 00:29:04
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3245, N-10787*
+*Related: C-11982, N-10787*
 
 **A-2259.4** Childhood piano recital video ("My name is Lance Twiggs…") – watch on right hand; left hand turns page
 
@@ -178,7 +177,7 @@ Video Timestamp: 00:30:09–00:30:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (visible details)
 
-*Related: C-3246, N-10787*
+*Related: C-11984, N-10787*
 
 ---
 
@@ -192,7 +191,7 @@ Video Timestamp: 00:17:07–00:17:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3247, N-1*
+*Related: C-11949, N-1*
 
 ---
 
@@ -206,7 +205,7 @@ Video Timestamp: 00:26:49–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (blurry, but referenced as shown publicly)
 
-*Related: C-3248, N-10788, N-1*
+*Related: C-11975, N-10788, N-1*
 
 ---
 
@@ -220,7 +219,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3249, N-10789*
+*Related: C-11992, N-10789*
 
 **A-2262.2** Joel Berry X post – "$20 burritos for family of eight"
 
@@ -230,7 +229,7 @@ Video Timestamp: 00:37:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3250, N-10789*
+*Related: C-11994, N-10789*
 
 **A-2262.3** Joel Berry 2024 X post – "I'd like to go back to when I could afford groceries"
 
@@ -240,7 +239,7 @@ Video Timestamp: 00:41:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3251, N-10789*
+*Related: C-11998, N-10789*
 
 **A-2262.4** Matt Walsh reply to Joel Berry
 
@@ -250,7 +249,7 @@ Video Timestamp: 00:38:00–00:39:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3252, N-10789*
+*Related: C-11996, N-10789*
 
 **A-2262.5** Dan Crenshaw X post – "eat ramen"
 
@@ -260,7 +259,7 @@ Video Timestamp: 00:40:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3253, N-10789*
+*Related: C-11997, N-10789*
 
 **A-2262.6** Blake Neff X post – WEF chart claiming US spends least on food
 
@@ -270,7 +269,7 @@ Video Timestamp: 00:42:30–00:43:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3254, N-10789*
+*Related: C-12000, N-10789*
 
 ---
 
@@ -284,7 +283,7 @@ Video Timestamp: 00:44:21–00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3255, N-10789*
+*Related: C-12002, N-10789*
 
 **A-2263.2** Daily Wire trailer audio
 
@@ -294,7 +293,7 @@ Video Timestamp: 00:45:02–00:47:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3255, N-10789*
+*Related: C-12002, N-10789*
 
 ---
 
@@ -308,7 +307,7 @@ Video Timestamp: 00:49:52–00:51:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3256*
+*Related: C-12006*
 
 ---
 
@@ -322,7 +321,7 @@ Video Timestamp: 00:22:01–00:23:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud in full)
 
-*Related: C-3257, C-3258, N-10790*
+*Related: C-11963, C-11969, N-10790*
 
 ---
 
@@ -336,7 +335,7 @@ Video Timestamp: 00:25:03–00:25:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (live Wikipedia – may have changed)
 
-*Related: C-3259, N-10790*
+*Related: C-11970, N-10790*
 
 ---
 
@@ -351,7 +350,7 @@ Video Timestamp: 00:00:02
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13193, N-3, N-40, N-10786*
+*Related: C-11909, N-3, N-40, N-10786*
 
 ---
 
@@ -364,7 +363,7 @@ Video Timestamp: 00:19:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13234, N-3, N-40, N-10791*
+*Related: C-11958, N-3, N-40, N-10791*
 
 ---
 
@@ -379,7 +378,7 @@ Video Timestamp: 00:55:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13269, N-3, N-10000*
+*Related: C-12008, N-3, N-10000*
 
 **A-3254.2** Comment by Chewing the Void read aloud
 
@@ -390,7 +389,7 @@ Video Timestamp: 00:55:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13270, N-2, N-3*
+*Related: C-12009, N-2, N-3*
 
 ---
 
@@ -405,7 +404,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2254.1, C-3236, C-3237, N-40*
+*Related: A-2254.1, C-11908, C-11910, N-40*
 
 ---
 
@@ -418,7 +417,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2259.1, A-2259.2, A-2259.3, A-2259.4, C-3244, C-3245, C-3246, N-40*
+*Related: A-2259.1, A-2259.2, A-2259.3, A-2259.4, C-11981, C-11982, C-11984, N-40*
 
 ---
 
@@ -431,7 +430,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2261.1, C-3248, N-40*
+*Related: A-2261.1, C-11975, N-40*
 
 ---
 
@@ -444,7 +443,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Low (tangential to Kirk case)
 
-*Related: A-2262.1, A-2262.2, A-2262.3, A-2262.4, A-2262.5, A-2262.6, C-3249, C-3250, C-3251, C-3252, C-3253, C-3254*
+*Related: A-2262.1, A-2262.2, A-2262.3, A-2262.4, A-2262.5, A-2262.6, C-11992, C-11994, C-11998, C-11996, C-11997, C-12000*
 
 ---
 
@@ -457,7 +456,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2265.1, A-2266.1, C-3257, C-3258, C-3259*
+*Related: A-2265.1, A-2266.1, C-11963, C-11969, C-11970*
 
 ---
 
@@ -466,7 +465,7 @@ Investigative Pressure: Medium
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
 
-*Related: C-3238, C-3239, C-3240, C-3241, C-3242, C-3243*
+*Related: C-11917, C-11921, C-11918, C-11936, C-11937, C-11935*
 
 ---
 
@@ -474,7 +473,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 Subject of the assassination; the host describes the footage of the shot, his necklace and shirt.
 
-*Related: C-13210, C-13217, C-13218, C-13219, C-13220, C-13221, C-13222, C-13223*
+*Related: C-11930, C-11940, C-11941, C-11942, C-11943, C-11944, C-11945, C-11946*
 
 ---
 
@@ -482,7 +481,7 @@ Subject of the assassination; the host describes the footage of the shot, his ne
 
 Widow and TPUSA CEO; subject of the Rogan sparkler remark, the influencer chat and the 40 million fundraiser claims.
 
-*Related: C-13199, C-13202, C-13210, C-13214, C-13226, C-13270, C-13273*
+*Related: C-11916, C-11922, C-11930, C-11934, C-11950, C-12009, C-12012*
 
 ---
 
@@ -490,7 +489,7 @@ Widow and TPUSA CEO; subject of the Rogan sparkler remark, the influencer chat a
 
 Host; speaks for herself throughout.
 
-*Related: C-13193, C-13194, C-13195, C-13196, C-13197, C-13198, C-13199, C-13200, C-13201, C-13203, C-13204, C-13205, C-13206, C-13208, C-13209, C-13210, C-13211, C-13212, C-13213, C-13214, C-13215, C-13216, C-13217, C-13218, C-13219, C-13220, C-13221, C-13222, C-13223, C-13224, C-13225, C-13226, C-13228, C-13229, C-13230, C-13231, C-13232, C-13233, C-13234, C-13235, C-13236, C-13237, C-13238, C-13239, C-13240, C-13241, C-13242, C-13243, C-13244, C-13245, C-13246, C-13247, C-13248, C-13249, C-13250, C-13251, C-13252, C-13253, C-13254, C-13255, C-13256, C-13257, C-13258, C-13259, C-13260, C-13264, C-13266, C-13267, C-13268, C-13269, C-13270, C-13271, C-13272, C-13273, C-13274, C-13275, C-13276, C-13277, C-13278, C-13279*
+*Related: C-11909, C-11911, C-11912, C-11913, C-11914, C-11915, C-11916, C-11919, C-11920, C-11923, C-11924, C-11925, C-11926, C-11928, C-11929, C-11930, C-11931, C-11932, C-11933, C-11934, C-11938, C-11939, C-11940, C-11941, C-11942, C-11943, C-11944, C-11945, C-11946, C-11947, C-11948, C-11950, C-11952, C-11953, C-11954, C-11955, C-11956, C-11957, C-11958, C-11959, C-11960, C-11961, C-11962, C-11964, C-11965, C-11966, C-11967, C-11968, C-11971, C-11972, C-11973, C-11974, C-11976, C-11977, C-11978, C-11979, C-11980, C-11983, C-11985, C-11986, C-11987, C-11988, C-11989, C-11990, C-11991, C-12001, C-12004, C-12005, C-12007, C-12008, C-12009, C-12010, C-12011, C-12012, C-12013, C-12014, C-12015, C-12016, C-12017, C-12018*
 
 ---
 
@@ -498,7 +497,7 @@ Host; speaks for herself throughout.
 
 Frank Turek; the host lists him among TPUSA-linked people she has invited to discuss the case.
 
-*Related: C-13199*
+*Related: C-11916*
 
 ---
 
@@ -506,7 +505,7 @@ Frank Turek; the host lists him among TPUSA-linked people she has invited to dis
 
 TPUSA spokesperson; the host reads his post on working something out with Wilson.
 
-*Related: C-13199, C-13214, C-13215*
+*Related: C-11916, C-11934, C-11938*
 
 ---
 
@@ -514,7 +513,7 @@ TPUSA spokesperson; the host reads his post on working something out with Wilson
 
 Accused; the host disputes that he is the maroon-shirt person and discusses his handedness and housing.
 
-*Related: C-13193, C-13227, C-13228, C-13229, C-13230, C-13231, C-13232, C-13234, C-13236, C-13238, C-13241, C-13243, C-13250, C-13251, C-13258, C-13259*
+*Related: C-11909, C-11951, C-11952, C-11953, C-11954, C-11955, C-11956, C-11958, C-11960, C-11962, C-11966, C-11968, C-11978, C-11979, C-11989, C-11990*
 
 ---
 
@@ -522,7 +521,7 @@ Accused; the host disputes that he is the maroon-shirt person and discusses his 
 
 Tyler Robinson's roommate; subject of the DNA, handedness, alibi and federal-asset claims.
 
-*Related: C-13196, C-13235, C-13236, C-13237, C-13238, C-13239, C-13240, C-13241, C-13242, C-13245, C-13246, C-13247, C-13252, C-13253, C-13255, C-13256, C-13257, C-13258, C-13259, C-13260*
+*Related: C-11913, C-11959, C-11960, C-11961, C-11962, C-11964, C-11965, C-11966, C-11967, C-11972, C-11973, C-11974, C-11980, C-11983, C-11986, C-11987, C-11988, C-11989, C-11990, C-11991*
 
 ---
 
@@ -530,7 +529,7 @@ Tyler Robinson's roommate; subject of the DNA, handedness, alibi and federal-ass
 
 Brigitte Macron; host's recurring aside about her untracked days.
 
-*Related: C-13195*
+*Related: C-11912*
 
 ---
 
@@ -538,7 +537,7 @@ Brigitte Macron; host's recurring aside about her untracked days.
 
 Benny Johnson; invited by Erika Kirk to the preliminary hearing per the host and quoted on the evidence.
 
-*Related: C-13226, C-13227*
+*Related: C-11950, C-11951*
 
 ---
 
@@ -546,7 +545,7 @@ Benny Johnson; invited by Erika Kirk to the preliminary hearing per the host and
 
 Ben Shapiro; his post about the Daily Wire film is read.
 
-*Related: C-13265*
+*Related: C-12003*
 
 ---
 
@@ -554,7 +553,7 @@ Ben Shapiro; his post about the Daily Wire film is read.
 
 Blake Neff; named by the host as a TPUSA affiliate and as sharing the food chart.
 
-*Related: C-13199, C-13214, C-13264*
+*Related: C-11916, C-11934, C-12001*
 
 ---
 
@@ -562,7 +561,7 @@ Blake Neff; named by the host as a TPUSA affiliate and as sharing the food chart
 
 Matt Walsh; his grocery-price posts are read.
 
-*Related: C-13261*
+*Related: C-11993*
 
 ---
 
@@ -570,7 +569,7 @@ Matt Walsh; his grocery-price posts are read.
 
 Lindsay Clancy; subject of a viewer question the host answers.
 
-*Related: C-13271, C-13272*
+*Related: C-12010, C-12011*
 
 ---
 
@@ -578,7 +577,7 @@ Lindsay Clancy; subject of a viewer question the host answers.
 
 Joel Berry (listed as Joel Berry in the node list); his burrito posts are read.
 
-*Related: C-13262*
+*Related: C-11995*
 
 ---
 
@@ -586,7 +585,7 @@ Joel Berry (listed as Joel Berry in the node list); his burrito posts are read.
 
 Joe Rogan; host of the interview in which Wilson spoke.
 
-*Related: C-13202, C-13205, C-13206, C-13207*
+*Related: C-11922, C-11925, C-11926, C-11927*
 
 ---
 
@@ -594,7 +593,7 @@ Joe Rogan; host of the interview in which Wilson spoke.
 
 Dan Flood; the host says he pushed Kirk over to the side.
 
-*Related: C-13221*
+*Related: C-11944*
 
 ---
 
@@ -602,7 +601,7 @@ Dan Flood; the host says he pushed Kirk over to the side.
 
 Matt Robinson; the host recounts the dog bed discovery and disputes that he believed his son guilty.
 
-*Related: C-13241, C-13242, C-13243*
+*Related: C-11966, C-11967, C-11968*
 
 ---
 
@@ -610,7 +609,7 @@ Matt Robinson; the host recounts the dog bed discovery and disputes that he beli
 
 Turning Point USA; alleged backer of Wilson and subject of the fundraiser claim.
 
-*Related: C-13199, C-13200, C-13201, C-13209, C-13210, C-13216, C-13269, C-13273*
+*Related: C-11916, C-11919, C-11920, C-11929, C-11930, C-11939, C-12008, C-12012*
 
 ---
 
@@ -618,7 +617,7 @@ Turning Point USA; alleged backer of Wilson and subject of the fundraiser claim.
 
 TMZ; its cameras captured the maroon-shirt person per the host.
 
-*Related: C-13229*
+*Related: C-11953*
 
 ---
 
@@ -626,7 +625,7 @@ TMZ; its cameras captured the maroon-shirt person per the host.
 
 Discord; platform where the host says avatar personas are encouraged.
 
-*Related: C-13244*
+*Related: C-11971*
 
 ---
 
@@ -634,7 +633,7 @@ Discord; platform where the host says avatar personas are encouraged.
 
 Federal Bureau of Investigation; subject of the SUV, footage-blur and raid claims.
 
-*Related: C-13224, C-13254, C-13256, C-13278*
+*Related: C-11947, C-11985, C-11987, C-12017*
 
 ---
 
@@ -642,7 +641,7 @@ Federal Bureau of Investigation; subject of the SUV, footage-blur and raid claim
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13243*
+*Related: C-11968*
 
 ---
 
@@ -650,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13238, C-13239*
+*Related: C-11962, C-11964*
 
 ---
 
@@ -658,7 +657,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13247*
+*Related: C-11974*
 
 ---
 
@@ -666,7 +665,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13229, C-13230, C-13231, C-13232*
+*Related: C-11953, C-11954, C-11955, C-11956*
 
 ---
 
@@ -674,7 +673,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13255, C-13256*
+*Related: C-11986, C-11987*
 
 ---
 
@@ -682,7 +681,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13268*
+*Related: C-12007*
 
 ---
 
@@ -690,7 +689,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13218, C-13220, C-13222*
+*Related: C-11941, C-11943, C-11945*
 
 ---
 
@@ -698,7 +697,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13217*
+*Related: C-11940*
 
 ---
 
@@ -706,7 +705,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13241, C-13242*
+*Related: C-11966, C-11967*
 
 ---
 
@@ -714,7 +713,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13229*
+*Related: C-11953*
 
 ---
 
@@ -722,7 +721,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13244*
+*Related: C-11971*
 
 ---
 
@@ -730,7 +729,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13195*
+*Related: C-11912*
 
 ---
 
@@ -738,7 +737,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13195*
+*Related: C-11912*
 
 ---
 
@@ -746,7 +745,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13223*
+*Related: C-11946*
 
 ---
 
@@ -754,7 +753,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13219*
+*Related: C-11942*
 
 ---
 
@@ -762,7 +761,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13245, C-13246, C-13260*
+*Related: C-11972, C-11973, C-11991*
 
 ---
 
@@ -770,7 +769,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13257, C-13258, C-13259*
+*Related: C-11988, C-11989, C-11990*
 
 ---
 
@@ -778,7 +777,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13222*
+*Related: C-11945*
 
 ---
 
@@ -786,7 +785,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13268*
+*Related: C-12007*
 
 ---
 
@@ -794,7 +793,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13260*
+*Related: C-11991*
 
 ---
 
@@ -802,7 +801,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13225*
+*Related: C-11948*
 
 ---
 
@@ -810,7 +809,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13236*
+*Related: C-11960*
 
 ---
 
@@ -818,7 +817,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13225*
+*Related: C-11948*
 
 ---
 
@@ -826,7 +825,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13223, C-13224*
+*Related: C-11946, C-11947*
 
 ---
 
@@ -834,7 +833,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13225*
+*Related: C-11948*
 
 ---
 
@@ -842,7 +841,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13273, C-13274, C-13279*
+*Related: C-12012, C-12013, C-12018*
 
 ---
 
@@ -850,7 +849,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13233, C-13234*
+*Related: C-11957, C-11958*
 
 ---
 
@@ -858,7 +857,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13250, C-13251*
+*Related: C-11978, C-11979*
 
 ---
 
@@ -866,7 +865,7 @@ Existing topic reused for new claims in this episode.
 
 Paramount Tactical; the host says he is one of the only men in the influencer chat.
 
-*Related: C-13274*
+*Related: C-12013*
 
 ---
 
@@ -874,7 +873,7 @@ Paramount Tactical; the host says he is one of the only men in the influencer ch
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13210*
+*Related: C-11930*
 
 ---
 
@@ -882,7 +881,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13226*
+*Related: C-11950*
 
 ---
 
@@ -890,7 +889,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13228*
+*Related: C-11952*
 
 ---
 
@@ -898,7 +897,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13197, C-13201, C-13203, C-13209, C-13214, C-13215*
+*Related: C-11914, C-11920, C-11923, C-11929, C-11934, C-11938*
 
 ---
 
@@ -906,7 +905,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13196, C-13248, C-13249, C-13254, C-13276*
+*Related: C-11913, C-11976, C-11977, C-11985, C-12015*
 
 ---
 
@@ -915,7 +914,7 @@ Existing topic reused for new claims in this episode.
 First named by the host at 00:02:12 in episode 139.
 Host of the Whatever podcast who, per the host, relayed the first debate offers.
 
-*Related: C-13197*
+*Related: C-11914*
 
 ---
 
@@ -924,7 +923,7 @@ Host of the Whatever podcast who, per the host, relayed the first debate offers.
 First named by the host at 00:41:20 in episode 139.
 Former Texas congressman whose post about the burrito debate the host reads.
 
-*Related: C-13263*
+*Related: C-11999*
 
 ---
 
@@ -933,7 +932,7 @@ Former Texas congressman whose post about the burrito debate the host reads.
 First named by the host at 00:48:31 in episode 139.
 Rabbi shown in a street confrontation video in Iceland; the host criticizes him.
 
-*Related: C-13267*
+*Related: C-12005*
 
 ---
 
@@ -942,7 +941,7 @@ Rabbi shown in a street confrontation video in Iceland; the host criticizes him.
 Node Type: Topic
 The sequence of debate offers from Andrew Wilson and the Whatever podcast (50K, about 150K, 300K) and the host's counter-terms (500K, TPUSA on record, no smoking, live debate in her location).
 
-*Related: C-13197, C-13198, C-13208, C-13209, C-13211, C-13212, C-13213, C-13214, C-13216, C-13275*
+*Related: C-11914, C-11915, C-11928, C-11929, C-11931, C-11932, C-11933, C-11934, C-11939, C-12014*
 
 ---
 
@@ -951,13 +950,13 @@ The sequence of debate offers from Andrew Wilson and the Whatever podcast (50K, 
 Node Type: Topic
 Host claims that Lance Twiggs's DNA is on the towel and rifle, is less degraded than Tyler Robinson's, and that the Dremel used on the bullets was his.
 
-*Related: C-13235, C-13236, C-13237*
+*Related: C-11959, C-11960, C-11961*
 
 ---
 
 ## V. Claim Register
 
-**C-3236** Tip email hypothesizes "sniffer pooch" is French calque
+**C-11908** Tip email hypothesizes "sniffer pooch" is French calque
 
 Claim Timestamp: 00:00:02–00:00:55
 
@@ -972,7 +971,7 @@ Investigative Direction: Obtain forensic linguistic analysis comparing disputed 
 
 ---
 
-**C-3237** Host concurs with French-translation hypothesis
+**C-11910** Host concurs with French-translation hypothesis
 
 Claim Timestamp: 00:00:55
 
@@ -987,7 +986,7 @@ Investigative Direction: Compare full text-message corpus for additional French 
 
 ---
 
-**C-3238** Andrew Wilson claims to have offered $300K for debate
+**C-11917** Andrew Wilson claims to have offered $300K for debate
 
 Claim Timestamp: 00:03:25–00:04:12
 
@@ -1002,7 +1001,7 @@ Investigative Direction: Verify funding source of the $300K offer; obtain any fo
 
 ---
 
-**C-3239** Andrew Wilson Claims He Hugged Erika Kirk at TPUSA HQ
+**C-11921** Andrew Wilson Claims He Hugged Erika Kirk at TPUSA HQ
 
 Claim Timestamp: 00:04:12–00:05:52
 
@@ -1017,7 +1016,7 @@ Investigative Direction: Verify TPUSA HQ visit through visitor logs, Erika Kirk'
 
 ---
 
-**C-3240** Andrew Wilson claims Candace has produced no evidence of conspiracy
+**C-11918** Andrew Wilson claims Candace has produced no evidence of conspiracy
 
 Claim Timestamp: 00:03:25–00:04:59
 
@@ -1032,7 +1031,7 @@ Investigative Direction: Catalogue all Candace Owens public statements and shown
 
 ---
 
-**C-3241** Andrew Kolvet states Wilson was paid for one day of debate training
+**C-11936** Andrew Kolvet states Wilson was paid for one day of debate training
 
 Claim Timestamp: 00:13:00
 
@@ -1047,7 +1046,7 @@ Investigative Direction: Obtain TPUSA payment records or 1099 documentation for 
 
 ---
 
-**C-3242** Blake Neff recommends Wilson's Rogan appearance
+**C-11937** Blake Neff recommends Wilson's Rogan appearance
 
 Claim Timestamp: 00:13:00
 
@@ -1062,7 +1061,7 @@ Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior ampli
 
 ---
 
-**C-3243** Andrew Wilson debate clip displays verbal insults and personal attacks
+**C-11935** Andrew Wilson debate clip displays verbal insults and personal attacks
 
 Claim Timestamp: 00:10:41–00:13:00
 
@@ -1077,7 +1076,7 @@ Investigative Direction: Obtain full unedited debate recording to verify context
 
 ---
 
-**C-3244** Host Says Lance Twiggs Snowboarding Clip Shows Left-Hand Landing
+**C-11981** Host Says Lance Twiggs Snowboarding Clip Shows Left-Hand Landing
 
 Claim Timestamp: 00:28:00–00:30:00
 
@@ -1092,7 +1091,7 @@ Investigative Direction: Obtain additional Lance Twiggs photos/videos showing ha
 
 ---
 
-**C-3245** Host Says Lance Twiggs Fuels with Left Hand in Texas Photo
+**C-11982** Host Says Lance Twiggs Fuels with Left Hand in Texas Photo
 
 Claim Timestamp: 00:29:04
 
@@ -1107,7 +1106,7 @@ Investigative Direction: Verify photo metadata for date and location; obtain cor
 
 ---
 
-**C-3246** Host Says Lance Twiggs Childhood Piano Video Shows Watch on Right Hand and Left-Hand Page Turn
+**C-11984** Host Says Lance Twiggs Childhood Piano Video Shows Watch on Right Hand and Left-Hand Page Turn
 
 Claim Timestamp: 00:29:25
 
@@ -1122,7 +1121,7 @@ Investigative Direction: Confirm watch-hand convention and whether left-hand pag
 
 ---
 
-**C-3247** Benny Johnson states public has seen 1–2% of available evidence
+**C-11949** Benny Johnson states public has seen 1–2% of available evidence
 
 Claim Timestamp: 00:17:07–00:17:57
 
@@ -1137,7 +1136,7 @@ Investigative Direction: Obtain disclosure schedule from prosecution; identify w
 
 ---
 
-**C-3248** Host Says UVU Staircase Maroon-Shirt Person Used Left Hand for Phone and Left Pocket
+**C-11975** Host Says UVU Staircase Maroon-Shirt Person Used Left Hand for Phone and Left Pocket
 
 Claim Timestamp: 00:26:49–00:28:00
 
@@ -1152,7 +1151,7 @@ Investigative Direction: Obtain the "4K" influencer-shown version of this footag
 
 ---
 
-**C-3249** Matt Walsh posted that grocery prices are "insane" and rising
+**C-11992** Matt Walsh posted that grocery prices are "insane" and rising
 
 Claim Timestamp: 00:36:34
 
@@ -1167,7 +1166,7 @@ Investigative Direction: Cross-reference BLS food-at-home CPI data for verificat
 
 ---
 
-**C-3250** Joel Berry Posted That Burritos for 8 Cost Under $20
+**C-11994** Joel Berry Posted That Burritos for 8 Cost Under $20
 
 Claim Timestamp: 00:37:30
 
@@ -1182,7 +1181,7 @@ Investigative Direction: Request itemized receipt or recipe cost breakdown.
 
 ---
 
-**C-3251** Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era
+**C-11998** Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era
 
 Claim Timestamp: 00:41:00
 
@@ -1197,7 +1196,7 @@ Investigative Direction: Verify original tweet date and context.
 
 ---
 
-**C-3252** Per Post the Host Reads, Matt Walsh Told Joel Berry Republicans Were Inconsistent on Affordability
+**C-11996** Per Post the Host Reads, Matt Walsh Told Joel Berry Republicans Were Inconsistent on Affordability
 
 Claim Timestamp: 00:38:00–00:39:30
 
@@ -1212,7 +1211,7 @@ Investigative Direction: Compile post history of named Republicans regarding aff
 
 ---
 
-**C-3253** Dan Crenshaw posted "eat ramen" response to affordability concerns
+**C-11997** Dan Crenshaw posted "eat ramen" response to affordability concerns
 
 Claim Timestamp: 00:40:30
 
@@ -1227,7 +1226,7 @@ Investigative Direction: Verify post and current ramen retail prices for college
 
 ---
 
-**C-3254** Per Post the Host Reads, Blake Neff Shared WEF Chart Claiming US Spends Least on Food
+**C-12000** Per Post the Host Reads, Blake Neff Shared WEF Chart Claiming US Spends Least on Food
 
 Claim Timestamp: 00:42:30–00:43:30
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Community note referenced (cited pre-2020 data); obtain
 
 ---
 
-**C-3255** Host Plays Daily Wire Trailer That Ben Shapiro Introduced as Telling the Story of Radical Islam
+**C-12002** Host Plays Daily Wire Trailer That Ben Shapiro Introduced as Telling the Story of Radical Islam
 
 Claim Timestamp: 00:44:21–00:47:40
 
@@ -1257,7 +1256,7 @@ Investigative Direction: Verify release date, distribution, and producer credits
 
 ---
 
-**C-3256** Rabbi Shmuley Iceland video shows couple confronting him about Israel
+**C-12006** Rabbi Shmuley Iceland video shows couple confronting him about Israel
 
 Claim Timestamp: 00:49:52–00:51:05
 
@@ -1272,7 +1271,7 @@ Investigative Direction: Verify participants' identities and location.
 
 ---
 
-**C-3257** Email describes Luna as hellhound character popular in furry fandom
+**C-11963** Email describes Luna as hellhound character popular in furry fandom
 
 Claim Timestamp: 00:22:01–00:23:55
 
@@ -1286,7 +1285,7 @@ Investigative Direction: Cross-reference Helluva Boss character profile and Luna
 
 ---
 
-**C-3258** Host Says Luna Character Wears a Pentagram Necklace
+**C-11969** Host Says Luna Character Wears a Pentagram Necklace
 
 Claim Timestamp: 00:24:38
 
@@ -1300,7 +1299,7 @@ Investigative Direction: Obtain canonical Helluva Boss images showing Luna's nec
 
 ---
 
-**C-3259** Wikipedia describes Helluva Boss as following "Immediate Murder Professionals"
+**C-11970** Wikipedia describes Helluva Boss as following "Immediate Murder Professionals"
 
 Claim Timestamp: 00:25:03–00:25:30
 
@@ -1314,7 +1313,7 @@ Investigative Direction: Verify Wikipedia entry at time of access; check edit hi
 
 ---
 
-**C-13193** Host Says Tip Line Received Tip on Non-Native English Author
+**C-11909** Host Says Tip Line Received Tip on Non-Native English Author
 
 Claim Timestamp: 00:00:02
 
@@ -1330,7 +1329,7 @@ Investigative Direction: Review the tip-line email and the forensic-linguistics 
 
 ---
 
-**C-13194** Host Says a French Detective Dog Term Literally Means Sniffer Pooch
+**C-11911** Host Says a French Detective Dog Term Literally Means Sniffer Pooch
 
 Claim Timestamp: 00:00:55
 
@@ -1341,13 +1340,13 @@ Transcript Snippet: the way that they describe a canine, a detective dog, would 
 Anchored Artifacts: A-2254.1
 Mentions: N-3
 Related Nodes: N-10786
-Supports: C-3236
+Supports: C-11908
 Tags: relevance:context
 Investigative Direction: Check a French dictionary for the term the host means (rendered as "herl" in the transcript; see Doubts) and test whether it maps to "sniffer pooch".
 
 ---
 
-**C-13195** Host Says Brigitte Macron Still Cannot Be Tracked on the Days of the Egyptian Planes
+**C-11912** Host Says Brigitte Macron Still Cannot Be Tracked on the Days of the Egyptian Planes
 
 Claim Timestamp: 00:00:55
 
@@ -1363,7 +1362,7 @@ Investigative Direction: Treat as a recap of the host's earlier Macron schedule-
 
 ---
 
-**C-13196** Host Says Episode Is Named for New Information on Lance the 4K Influencers Did Not Share
+**C-11913** Host Says Episode Is Named for New Information on Lance the 4K Influencers Did Not Share
 
 Claim Timestamp: 00:00:55
 
@@ -1379,7 +1378,7 @@ Investigative Direction: Identify which influencers saw the 4K footage and obtai
 
 ---
 
-**C-13197** Host Says Whatever Podcast Host Brian Atlas Offered 50K Then About 150K for Her to Debate Wilson
+**C-11914** Host Says Whatever Podcast Host Brian Atlas Offered 50K Then About 150K for Her to Debate Wilson
 
 Claim Timestamp: 00:02:12
 
@@ -1395,7 +1394,7 @@ Investigative Direction: Obtain the offer messages between Atlas and the host's 
 
 ---
 
-**C-13198** Host Says She Dismissed the Debate Offer and Had Never Heard of Wilson
+**C-11915** Host Says She Dismissed the Debate Offer and Had Never Heard of Wilson
 
 Claim Timestamp: 00:02:12
 
@@ -1411,7 +1410,7 @@ Investigative Direction: Compare with Wilson's account on the Rogan show of how 
 
 ---
 
-**C-13199** Host Says She Has Asked Only for a Public Discussion With TPUSA, Not Money
+**C-11916** Host Says She Has Asked Only for a Public Discussion With TPUSA, Not Money
 
 Claim Timestamp: 00:02:12
 
@@ -1427,7 +1426,7 @@ Investigative Direction: Collect the host's earlier public invitations to TPUSA 
 
 ---
 
-**C-13200** Host Says She Has Offered TPUSA the Floor Repeatedly
+**C-11919** Host Says She Has Offered TPUSA the Floor Repeatedly
 
 Claim Timestamp: 00:03:25
 
@@ -1443,7 +1442,7 @@ Investigative Direction: List dated invitations from the host to TPUSA figures a
 
 ---
 
-**C-13201** Host Says Wilson Is Affiliated With TPUSA and Boosted by Its Orbit
+**C-11920** Host Says Wilson Is Affiliated With TPUSA and Boosted by Its Orbit
 
 Claim Timestamp: 00:03:25
 
@@ -1459,7 +1458,7 @@ Investigative Direction: Obtain TPUSA's description of Wilson's role and any pay
 
 ---
 
-**C-13202** Rogan Says It Would Have Been Better for Erika Kirk to Lay Low and Calls the Sparklers a Bad Idea
+**C-11922** Rogan Says It Would Have Been Better for Erika Kirk to Lay Low and Calls the Sparklers a Bad Idea
 
 Claim Timestamp: 00:05:00
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Locate the Rogan episode and confirm the exchange, and 
 
 ---
 
-**C-13203** Host Says Wilson Has a Manosphere Presence Debating Feminists
+**C-11923** Host Says Wilson Has a Manosphere Presence Debating Feminists
 
 Claim Timestamp: 00:05:52
 
@@ -1490,7 +1489,7 @@ Investigative Direction: Review Wilson's Whatever podcast appearances and his de
 
 ---
 
-**C-13204** Host Says Wilson Looks to Be About 50
+**C-11924** Host Says Wilson Looks to Be About 50
 
 Claim Timestamp: 00:06:42
 
@@ -1505,7 +1504,7 @@ Investigative Direction: Confirm Wilson's age from a public record.
 
 ---
 
-**C-13205** Host Says Wilson Is Trending on X for Lying to Rogan
+**C-11925** Host Says Wilson Is Trending on X for Lying to Rogan
 
 Claim Timestamp: 00:07:36
 
@@ -1520,7 +1519,7 @@ Investigative Direction: Capture the X trending data and the specific statements
 
 ---
 
-**C-13206** Host Says Wilson Tied Her to a Leftist Tour She Has Never Spoken To
+**C-11926** Host Says Wilson Tied Her to a Leftist Tour She Has Never Spoken To
 
 Claim Timestamp: 00:07:36
 
@@ -1535,7 +1534,7 @@ Investigative Direction: Find Wilson's exact words on the Rogan show about the t
 
 ---
 
-**C-13207** Host Says Wilson Accused the Tour of Money Laundering on Rogan Without a Fact Check
+**C-11927** Host Says Wilson Accused the Tour of Money Laundering on Rogan Without a Fact Check
 
 Claim Timestamp: 00:08:48
 
@@ -1550,7 +1549,7 @@ Investigative Direction: Locate the Rogan segment and check whether any evidence
 
 ---
 
-**C-13208** Host Counter-Offers 500K to Wilson
+**C-11928** Host Counter-Offers 500K to Wilson
 
 Claim Timestamp: 00:08:48
 
@@ -1566,7 +1565,7 @@ Investigative Direction: Record whether Wilson or TPUSA responds to the 500K cou
 
 ---
 
-**C-13209** Host Has a Hunch TPUSA or Affiliates Are Backing Wilson's Debate Request
+**C-11929** Host Has a Hunch TPUSA or Affiliates Are Backing Wilson's Debate Request
 
 Claim Timestamp: 00:08:48
 
@@ -1582,7 +1581,7 @@ Investigative Direction: Ask Wilson and TPUSA who funds the 300K offer and obtai
 
 ---
 
-**C-13210** Host Says TPUSA Raised 40 Million in One Night and Encased Charlie's Bloody Microphone at the Fundraiser
+**C-11930** Host Says TPUSA Raised 40 Million in One Night and Encased Charlie's Bloody Microphone at the Fundraiser
 
 Claim Timestamp: 00:08:48
 
@@ -1598,7 +1597,7 @@ Investigative Direction: Identify the fundraiser, obtain event footage showing t
 
 ---
 
-**C-13211** Host Says She Is Seven Months Pregnant and Wilson Must Travel to Her
+**C-11931** Host Says She Is Seven Months Pregnant and Wilson Must Travel to Her
 
 Claim Timestamp: 00:08:48
 
@@ -1614,7 +1613,7 @@ Investigative Direction: None needed beyond the host's own announced terms; reco
 
 ---
 
-**C-13212** Host Offers Live Debate With No Time Limit and Live Fact-Checking by Her Team
+**C-11932** Host Offers Live Debate With No Time Limit and Live Fact-Checking by Her Team
 
 Claim Timestamp: 00:08:48
 
@@ -1630,7 +1629,7 @@ Investigative Direction: Record the final agreed format if a debate is arranged.
 
 ---
 
-**C-13213** Host Bans Chain-Smoking at the Debate
+**C-11933** Host Bans Chain-Smoking at the Debate
 
 Claim Timestamp: 00:10:16
 
@@ -1646,7 +1645,7 @@ Investigative Direction: None; stated debate condition.
 
 ---
 
-**C-13214** Host Requires Neff, Kolvet or Erika Kirk to Publicly Claim Wilson First
+**C-11934** Host Requires Neff, Kolvet or Erika Kirk to Publicly Claim Wilson First
 
 Claim Timestamp: 00:10:16
 
@@ -1662,7 +1661,7 @@ Investigative Direction: Watch for public statements from Neff, Kolvet or Erika 
 
 ---
 
-**C-13215** Kolvet Posts That Perhaps TPUSA Should Work Something Out With Wilson
+**C-11938** Kolvet Posts That Perhaps TPUSA Should Work Something Out With Wilson
 
 Claim Timestamp: 00:13:00
 
@@ -1673,13 +1672,13 @@ Transcript Snippet: He's not quote unquote being paid, but seeing how much they 
 Anchored Artifacts: A-2256.1
 Mentions: N-14, N-18, N-3
 Related Nodes: N-11262
-Supports: C-3241
+Supports: C-11936
 Tags: relevance:context
 Investigative Direction: Capture the original post with its date and check for any follow-up from Kolvet or TPUSA.
 
 ---
 
-**C-13216** Host Wants TPUSA On Record That Wilson Represents It in the Debate
+**C-11939** Host Wants TPUSA On Record That Wilson Represents It in the Debate
 
 Claim Timestamp: 00:13:00
 
@@ -1695,7 +1694,7 @@ Investigative Direction: Watch for a TPUSA statement on Wilson's role.
 
 ---
 
-**C-13217** Host Does Not Believe Kirk Was Killed by a Lone Gunman or That a Weapon Was Fired From the Losee Rooftop
+**C-11940** Host Does Not Believe Kirk Was Killed by a Lone Gunman or That a Weapon Was Fired From the Losee Rooftop
 
 Claim Timestamp: 00:14:30
 
@@ -1711,7 +1710,7 @@ Investigative Direction: Compare the host's reading with the prosecution's balli
 
 ---
 
-**C-13218** Host Says Kirk's Shirt Was the First Thing to Move, Upward and Across His Chest
+**C-11941** Host Says Kirk's Shirt Was the First Thing to Move, Upward and Across His Chest
 
 Claim Timestamp: 00:15:13
 
@@ -1727,7 +1726,7 @@ Investigative Direction: Frame-by-frame review of the highest-quality footage of
 
 ---
 
-**C-13219** Host Says Kirk's Necklace Broke Before He Was Impacted
+**C-11942** Host Says Kirk's Necklace Broke Before He Was Impacted
 
 Claim Timestamp: 00:15:13
 
@@ -1743,7 +1742,7 @@ Investigative Direction: Frame-by-frame review of the necklace in the footage an
 
 ---
 
-**C-13220** Host Says Kirk Was Not Thrown Backward Despite Being Hit From the Front With 2,000 Pounds of Force
+**C-11943** Host Says Kirk Was Not Thrown Backward Despite Being Hit From the Front With 2,000 Pounds of Force
 
 Claim Timestamp: 00:15:13
 
@@ -1759,7 +1758,7 @@ Investigative Direction: Consult independent ballistics experts on the 30-06 rou
 
 ---
 
-**C-13221** Host Says Dan Flood Pushed Kirk Over to the Side in the Same Motion
+**C-11944** Host Says Dan Flood Pushed Kirk Over to the Side in the Same Motion
 
 Claim Timestamp: 00:15:13
 
@@ -1774,7 +1773,7 @@ Investigative Direction: Review the footage of Flood's movements at the moment o
 
 ---
 
-**C-13222** Host Says the Bullet Did Not Exit or Nearly Decapitate Kirk
+**C-11945** Host Says the Bullet Did Not Exit or Nearly Decapitate Kirk
 
 Claim Timestamp: 00:15:50
 
@@ -1790,7 +1789,7 @@ Investigative Direction: Obtain the autopsy report and ballistic findings on wou
 
 ---
 
-**C-13223** Host Says Black Shards Covered the Floor of the SUV That Took Kirk to the Hospital
+**C-11946** Host Says Black Shards Covered the Floor of the SUV That Took Kirk to the Hospital
 
 Claim Timestamp: 00:16:06
 
@@ -1806,7 +1805,7 @@ Investigative Direction: Obtain photographs, inventory and lab analysis of the s
 
 ---
 
-**C-13224** Host Says the FBI Rushed to Have the SUV Cleaned and Resold
+**C-11947** Host Says the FBI Rushed to Have the SUV Cleaned and Resold
 
 Claim Timestamp: 00:16:06
 
@@ -1822,7 +1821,7 @@ Investigative Direction: Obtain the SUV's title, sale and cleaning records and a
 
 ---
 
-**C-13225** Host Says a 911 Call Was Purged in Which Someone Is Allegedly Heard Saying Get That Off of Him
+**C-11948** Host Says a 911 Call Was Purged in Which Someone Is Allegedly Heard Saying Get That Off of Him
 
 Claim Timestamp: 00:16:06
 
@@ -1838,7 +1837,7 @@ Investigative Direction: File a records request for the 911 call log and audio r
 
 ---
 
-**C-13226** Host Says Erika Kirk Personally Invited Benny Johnson to the Preliminary Hearing
+**C-11950** Host Says Erika Kirk Personally Invited Benny Johnson to the Preliminary Hearing
 
 Claim Timestamp: 00:17:07
 
@@ -1854,7 +1853,7 @@ Investigative Direction: Confirm the invitation with Erika Kirk's office, Johnso
 
 ---
 
-**C-13227** Benny Johnson Says the Public Has Tyler Robinson's Texts and Family Interviews
+**C-11951** Benny Johnson Says the Public Has Tyler Robinson's Texts and Family Interviews
 
 Claim Timestamp: 00:17:07
 
@@ -1869,7 +1868,7 @@ Investigative Direction: Locate the Benny Johnson Show episode and identify the 
 
 ---
 
-**C-13228** Host Says Nothing From Tyler's Parents Has Been Seen and the Evidence Was Not Mentioned at the Preliminary Hearing
+**C-11952** Host Says Nothing From Tyler's Parents Has Been Seen and the Evidence Was Not Mentioned at the Preliminary Hearing
 
 Claim Timestamp: 00:17:57
 
@@ -1885,7 +1884,7 @@ Investigative Direction: Review the preliminary hearing transcript for any menti
 
 ---
 
-**C-13229** Host Says the Maroon-Shirt Person on the Stairs and in TMZ Footage Is Not Tyler Robinson
+**C-11953** Host Says the Maroon-Shirt Person on the Stairs and in TMZ Footage Is Not Tyler Robinson
 
 Claim Timestamp: 00:18:45
 
@@ -1896,13 +1895,13 @@ Transcript Snippet: I've made it clear that I believe the person who is walking 
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10043, N-10168, N-10011
-Supports: C-1183
+Supports: C-348
 Tags: relevance:core
 Investigative Direction: Compare the maroon-shirt person against verified images of Tyler Robinson and obtain the TMZ original footage.
 
 ---
 
-**C-13230** Host Maintains Tyler Robinson Never Stepped Onto the UVU Campus and Says Her Claim Is Not Debunked
+**C-11954** Host Maintains Tyler Robinson Never Stepped Onto the UVU Campus and Says Her Claim Is Not Debunked
 
 Claim Timestamp: 00:18:45
 
@@ -1913,13 +1912,13 @@ Transcript Snippet: I still believe what I reported back in October of last year
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10043
-Supports: C-6719, C-9403
+Supports: C-4026, C-2004
 Tags: relevance:core
 Investigative Direction: Obtain campus access, parking and vehicle records and verified imagery placing Tyler Robinson on campus on September 10, 2025.
 
 ---
 
-**C-13231** Host Says She Learned Tyler Was Around Campus That Day, Possibly Driving People
+**C-11955** Host Says She Learned Tyler Was Around Campus That Day, Possibly Driving People
 
 Claim Timestamp: 00:18:45
 
@@ -1930,13 +1929,13 @@ Transcript Snippet: I learned that he was around campus on that day. I don't kno
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10043
-Qualifies: C-13230
+Qualifies: C-11954
 Tags: relevance:core
 Investigative Direction: Identify the host's source for Robinson's presence near campus and any vehicle or phone-location records.
 
 ---
 
-**C-13232** Host Believes the Maroon-Shirt and Later Black-Shirt Staircase Figures Are Two Different People
+**C-11956** Host Believes the Maroon-Shirt and Later Black-Shirt Staircase Figures Are Two Different People
 
 Claim Timestamp: 00:18:45
 
@@ -1947,13 +1946,13 @@ Transcript Snippet: I believe those are two different people that we're seeing. 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10043
-Supports: C-1183
+Supports: C-348
 Tags: relevance:core
 Investigative Direction: Side-by-side comparison of the two staircase figures' build, gait and clothing from the best available footage.
 
 ---
 
-**C-13233** Host Says UVU Students Confirmed There Are No Cameras Outside the Parking Garage
+**C-11957** Host Says UVU Students Confirmed There Are No Cameras Outside the Parking Garage
 
 Claim Timestamp: 00:19:31
 
@@ -1969,7 +1968,7 @@ Investigative Direction: Obtain UVU's camera placement map and ask the students 
 
 ---
 
-**C-13234** Host Says the Garage Route Looks Chosen to Be Seen by Cameras, Shown on a Map
+**C-11958** Host Says the Garage Route Looks Chosen to Be Seen by Cameras, Shown on a Map
 
 Claim Timestamp: 00:19:31
 
@@ -1985,7 +1984,7 @@ Investigative Direction: Overlay UVU's camera locations on the campus map and me
 
 ---
 
-**C-13235** Host Says Lance's DNA Is on the Towel and on the Rifle
+**C-11959** Host Says Lance's DNA Is on the Towel and on the Rifle
 
 Claim Timestamp: 00:20:13
 
@@ -2001,7 +2000,7 @@ Investigative Direction: Obtain the lab reports and preliminary hearing testimon
 
 ---
 
-**C-13236** Host Says Lance's DNA on the Rifle Was Less Degraded and More Prominent Than Tyler's
+**C-11960** Host Says Lance's DNA on the Rifle Was Less Degraded and More Prominent Than Tyler's
 
 Claim Timestamp: 00:20:13
 
@@ -2017,7 +2016,7 @@ Investigative Direction: Obtain the DNA lab report quantifying degradation and c
 
 ---
 
-**C-13237** Host Says the Dremel Used to Carve the Bullets Belonged to Lance Twiggs
+**C-11961** Host Says the Dremel Used to Carve the Bullets Belonged to Lance Twiggs
 
 Claim Timestamp: 00:21:01
 
@@ -2033,7 +2032,7 @@ Investigative Direction: Obtain the search-warrant inventory and any purchase or
 
 ---
 
-**C-13238** Host Says Lance Had Behavioral Problems and Was Removed From Home Multiple Times
+**C-11962** Host Says Lance Had Behavioral Problems and Was Removed From Home Multiple Times
 
 Claim Timestamp: 00:21:01
 
@@ -2044,13 +2043,13 @@ Transcript Snippet: He dealt with a multitude of anger and behavioral issues in 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
 Related Nodes: N-10034
-Supports: C-1166
+Supports: C-217
 Tags: relevance:tangential, personal-background
 Investigative Direction: Seek on-record confirmation from family members; this is personal background about a private individual.
 
 ---
 
-**C-13239** Host Says Lance's Family Describes Dark Internet Interests and Alleged Overdoses
+**C-11964** Host Says Lance's Family Describes Dark Internet Interests and Alleged Overdoses
 
 Claim Timestamp: 00:22:01
 
@@ -2061,13 +2060,13 @@ Transcript Snippet: When your own family members are describing you as into dark
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: N-10034
-Supports: C-1167
+Supports: C-218
 Tags: relevance:tangential, personal-background
 Investigative Direction: Seek on-record confirmation; this is personal and medical background about a private individual.
 
 ---
 
-**C-13240** Host Says Lance Was Immersed in Furry Culture With a Persona Called Luna
+**C-11965** Host Says Lance Was Immersed in Furry Culture With a Persona Called Luna
 
 Claim Timestamp: 00:22:01
 
@@ -2083,7 +2082,7 @@ Investigative Direction: Identify the source of the persona claim; this is perso
 
 ---
 
-**C-13241** Host Says Matt Robinson Found a Dog Bed in Tyler's Room That Was Not Originally There
+**C-11966** Host Says Matt Robinson Found a Dog Bed in Tyler's Room That Was Not Originally There
 
 Claim Timestamp: 00:23:55
 
@@ -2099,7 +2098,7 @@ Investigative Direction: Identify the source of the dog bed account and check se
 
 ---
 
-**C-13242** Host Infers the Dog Bed Would Make More Sense as Lance's Bed
+**C-11967** Host Infers the Dog Bed Would Make More Sense as Lance's Bed
 
 Claim Timestamp: 00:23:55
 
@@ -2115,7 +2114,7 @@ Investigative Direction: Compare the dog bed's location and any room photographs
 
 ---
 
-**C-13243** Host Calls the Claim That Matt Robinson Believed His Son Guilty a Lie
+**C-11968** Host Calls the Claim That Matt Robinson Believed His Son Guilty a Lie
 
 Claim Timestamp: 00:23:55
 
@@ -2131,7 +2130,7 @@ Investigative Direction: Compare the host's source with public accounts of what 
 
 ---
 
-**C-13244** Host Says the Medical Examiner's Wife Encourages Online Avatar Personas on Discord
+**C-11971** Host Says the Medical Examiner's Wife Encourages Online Avatar Personas on Discord
 
 Claim Timestamp: 00:25:03
 
@@ -2147,7 +2146,7 @@ Investigative Direction: Verify the source for the claim; this concerns a privat
 
 ---
 
-**C-13245** Host Says Lance's September 10 Alibi Is That He Was Sleeping
+**C-11972** Host Says Lance's September 10 Alibi Is That He Was Sleeping
 
 Claim Timestamp: 00:25:03
 
@@ -2163,7 +2162,7 @@ Investigative Direction: Obtain Lance's statements to investigators and any phon
 
 ---
 
-**C-13246** Host Says It Is Unclear the Feds Verified Lance's Sleeping Alibi
+**C-11973** Host Says It Is Unclear the Feds Verified Lance's Sleeping Alibi
 
 Claim Timestamp: 00:26:06
 
@@ -2179,7 +2178,7 @@ Investigative Direction: Ask investigators or the court record whether Lance's p
 
 ---
 
-**C-13247** Host Recounts That Lance Said He Photographed the Keyboard Note and Then Burned It
+**C-11974** Host Recounts That Lance Said He Photographed the Keyboard Note and Then Burned It
 
 Claim Timestamp: 00:26:06
 
@@ -2190,13 +2189,13 @@ Transcript Snippet: the note that was handwritten, which Lance claims he found u
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: N-10041
-Supports: C-1177
+Supports: C-303
 Tags: relevance:core
 Investigative Direction: Obtain Lance's statement about the note and the chain of custody of the photograph.
 
 ---
 
-**C-13248** Host Says the 4K Footage Shows the Maroon-Shirt Person Holding His Phone in His Left Hand and Pocketing It on the Left
+**C-11976** Host Says the 4K Footage Shows the Maroon-Shirt Person Holding His Phone in His Left Hand and Pocketing It on the Left
 
 Claim Timestamp: 00:26:49
 
@@ -2212,7 +2211,7 @@ Investigative Direction: Obtain the 4K version from the influencers or the prose
 
 ---
 
-**C-13249** Host Says the Influencers Who Saw the 4K Footage Did Not Mention the Left-Hand Phone Detail
+**C-11977** Host Says the Influencers Who Saw the 4K Footage Did Not Mention the Left-Hand Phone Detail
 
 Claim Timestamp: 00:27:57
 
@@ -2228,7 +2227,7 @@ Investigative Direction: Ask the influencers who viewed the 4K footage what the 
 
 ---
 
-**C-13250** Host Says Tyler Robinson Is Not Left-Handed per His Legal Filings
+**C-11978** Host Says Tyler Robinson Is Not Left-Handed per His Legal Filings
 
 Claim Timestamp: 00:27:57
 
@@ -2244,7 +2243,7 @@ Investigative Direction: Find the specific legal filing that states Tyler Robins
 
 ---
 
-**C-13251** Host Says Facebook Photos Posted by Tyler's Mother Show He Is Right-Handed
+**C-11979** Host Says Facebook Photos Posted by Tyler's Mother Show He Is Right-Handed
 
 Claim Timestamp: 00:27:57
 
@@ -2260,7 +2259,7 @@ Investigative Direction: Collect the public Facebook photos and catalog hand use
 
 ---
 
-**C-13252** Host Says Public Photos Show Lance Is Left-Handed or Ambidextrous
+**C-11980** Host Says Public Photos Show Lance Is Left-Handed or Ambidextrous
 
 Claim Timestamp: 00:27:57
 
@@ -2276,7 +2275,7 @@ Investigative Direction: Catalog a larger set of dated photos of Lance for hand 
 
 ---
 
-**C-13253** Host Says Selfies of Lance Online Are Taken With His Left Hand
+**C-11983** Host Says Selfies of Lance Online Are Taken With His Left Hand
 
 Claim Timestamp: 00:29:04
 
@@ -2292,7 +2291,7 @@ Investigative Direction: Locate the selfies and confirm that the images are not 
 
 ---
 
-**C-13254** Host Says the Feds Wanted to Blur the Phone-and-Pocket Moment
+**C-11985** Host Says the Feds Wanted to Blur the Phone-and-Pocket Moment
 
 Claim Timestamp: 00:30:33
 
@@ -2308,7 +2307,7 @@ Investigative Direction: Compare the public clip with the 4K original and identi
 
 ---
 
-**C-13255** Host Says Police Offered Lance a Ride Home After Questioning and Dropped Him at His Parents' Residence
+**C-11986** Host Says Police Offered Lance a Ride Home After Questioning and Dropped Him at His Parents' Residence
 
 Claim Timestamp: 00:30:33
 
@@ -2319,13 +2318,13 @@ Transcript Snippet: they offered him a ride back home. That's a fact. He was the
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: N-10044
-Supports: C-1181
+Supports: C-338
 Tags: relevance:core
 Investigative Direction: Obtain police transport logs and Lance's statements on the night he was questioned.
 
 ---
 
-**C-13256** Host Says the Feds Moved Lance and His Father Into a Safe House at Federal Expense
+**C-11987** Host Says the Feds Moved Lance and His Father Into a Safe House at Federal Expense
 
 Claim Timestamp: 00:30:33
 
@@ -2341,7 +2340,7 @@ Investigative Direction: Seek confirmation from the FBI, Lance's family or court
 
 ---
 
-**C-13257** Host Says Lance Moved Into the Family-Owned Apartment in July 2022
+**C-11988** Host Says Lance Moved Into the Family-Owned Apartment in July 2022
 
 Claim Timestamp: 00:31:34
 
@@ -2352,13 +2351,13 @@ Transcript Snippet: Lance moved in to that apartment which is owned by his famil
 Anchored Artifacts: 
 Mentions: N-54, N-3
 Related Nodes: N-10634
-Supports: C-1170
+Supports: C-216
 Tags: relevance:context
 Investigative Direction: Obtain lease and property records for the apartment.
 
 ---
 
-**C-13258** Host Says Tyler Replaced a Departing Roommate in August 2023
+**C-11989** Host Says Tyler Replaced a Departing Roommate in August 2023
 
 Claim Timestamp: 00:31:34
 
@@ -2374,7 +2373,7 @@ Investigative Direction: Obtain lease records and roommate statements for 2022 t
 
 ---
 
-**C-13259** Host Says a Military Roommate Left in Late 2024 and Tyler and Lance Lived Alone From Early 2025
+**C-11990** Host Says a Military Roommate Left in Late 2024 and Tyler and Lance Lived Alone From Early 2025
 
 Claim Timestamp: 00:31:34
 
@@ -2390,7 +2389,7 @@ Investigative Direction: Verify the roommate's move-out date and military obliga
 
 ---
 
-**C-13260** Host Suspects Lance Could Have Been a Federal Asset Mixed Up in Something in His Online Communities
+**C-11991** Host Suspects Lance Could Have Been a Federal Asset Mixed Up in Something in His Online Communities
 
 Claim Timestamp: 00:32:53
 
@@ -2406,7 +2405,7 @@ Investigative Direction: Seek any court, FOIA or source documentation of a relat
 
 ---
 
-**C-13261** Matt Walsh Posts That Foreign Wars Should End and Grocery Prices Are Fueling Socialists
+**C-11993** Matt Walsh Posts That Foreign Wars Should End and Grocery Prices Are Fueling Socialists
 
 Claim Timestamp: 00:36:34
 
@@ -2422,7 +2421,7 @@ Investigative Direction: Verify the post text and date on X.
 
 ---
 
-**C-13262** Joel Berry Posts That the Affordability Crisis Is Really a Cooking Crisis
+**C-11995** Joel Berry Posts That the Affordability Crisis Is Really a Cooking Crisis
 
 Claim Timestamp: 00:37:30
 
@@ -2438,7 +2437,7 @@ Investigative Direction: Verify the post text and date on X.
 
 ---
 
-**C-13263** Dan Crenshaw Posts That the Market Sets Prices and Only Communists Care
+**C-11999** Dan Crenshaw Posts That the Market Sets Prices and Only Communists Care
 
 Claim Timestamp: 00:41:20
 
@@ -2454,7 +2453,7 @@ Investigative Direction: Verify the post text and date on X.
 
 ---
 
-**C-13264** Community Note Says Neff's Food-Spending Chart Relies on Pre-2020 Data
+**C-12001** Community Note Says Neff's Food-Spending Chart Relies on Pre-2020 Data
 
 Claim Timestamp: 00:43:07
 
@@ -2470,7 +2469,7 @@ Investigative Direction: Capture the community note and the chart's underlying d
 
 ---
 
-**C-13265** Shapiro Calls the Daily Wire Film Its Biggest and Funniest Ever
+**C-12003** Shapiro Calls the Daily Wire Film Its Biggest and Funniest Ever
 
 Claim Timestamp: 00:45:02
 
@@ -2486,7 +2485,7 @@ Investigative Direction: Verify the post text and the film's release details.
 
 ---
 
-**C-13266** Host Says the CIA and Israel Funded al-Qaeda
+**C-12004** Host Says the CIA and Israel Funded al-Qaeda
 
 Claim Timestamp: 00:47:40
 
@@ -2501,7 +2500,7 @@ Investigative Direction: No specific source given; identify what documents the h
 
 ---
 
-**C-13267** Host Says Rabbi Shmuley Constantly Harasses People and Threatens Lawsuits
+**C-12005** Host Says Rabbi Shmuley Constantly Harasses People and Threatens Lawsuits
 
 Claim Timestamp: 00:48:31
 
@@ -2516,7 +2515,7 @@ Investigative Direction: Identify the lawsuit threats the host refers to, if any
 
 ---
 
-**C-13268** Host Accuses the Gaza Humanitarian Fund of Playing Hunger Games With Gazans' Lives
+**C-12007** Host Accuses the Gaza Humanitarian Fund of Playing Hunger Games With Gazans' Lives
 
 Claim Timestamp: 00:51:05
 
@@ -2532,7 +2531,7 @@ Investigative Direction: Consult reporting and UN or NGO records on the Gaza Hum
 
 ---
 
-**C-13269** Viewer Comment Says TPUSA Is Yanking on Your Pocket and Banking on Your Faith
+**C-12008** Viewer Comment Says TPUSA Is Yanking on Your Pocket and Banking on Your Faith
 
 Claim Timestamp: 00:55:00
 
@@ -2548,7 +2547,7 @@ Investigative Direction: None; opinion comment read on air.
 
 ---
 
-**C-13270** Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cat-Beheading Logistics
+**C-12009** Viewer Comment Says Erika's Inner Circle Includes a Man Explaining Toddler Cat-Beheading Logistics
 
 Claim Timestamp: 00:55:37
 
@@ -2563,7 +2562,7 @@ Investigative Direction: Identify the television interview and the speaker the c
 
 ---
 
-**C-13271** Host Says Lindsay Clancy Is Not Guilty and the Doctors Should Be Imprisoned
+**C-12010** Host Says Lindsay Clancy Is Not Guilty and the Doctors Should Be Imprisoned
 
 Claim Timestamp: 00:55:37
 
@@ -2578,7 +2577,7 @@ Investigative Direction: Review the court record, expert testimony and medicatio
 
 ---
 
-**C-13272** Host Says Clancy Was on a Cocktail of 10 Pharmaceuticals
+**C-12011** Host Says Clancy Was on a Cocktail of 10 Pharmaceuticals
 
 Claim Timestamp: 00:56:49
 
@@ -2593,7 +2592,7 @@ Investigative Direction: Obtain the medication list from trial or medical record
 
 ---
 
-**C-13273** Host Says a Chat of 92 Influencers Is Defending Erika Kirk
+**C-12012** Host Says a Chat of 92 Influencers Is Defending Erika Kirk
 
 Claim Timestamp: 00:58:22
 
@@ -2609,7 +2608,7 @@ Investigative Direction: Obtain the chat's membership list and screenshots from 
 
 ---
 
-**C-13274** Host Says Paramount Tactical Is One of the Only Men in the Chat
+**C-12013** Host Says Paramount Tactical Is One of the Only Men in the Chat
 
 Claim Timestamp: 00:58:22
 
@@ -2625,7 +2624,7 @@ Investigative Direction: Obtain the chat's membership list and screenshots from 
 
 ---
 
-**C-13275** Host Says She Would Walk Into a Wilson Debate Trap
+**C-12014** Host Says She Would Walk Into a Wilson Debate Trap
 
 Claim Timestamp: 00:59:34
 
@@ -2641,7 +2640,7 @@ Investigative Direction: Record whether Wilson responds to the host's counter-te
 
 ---
 
-**C-13276** Host Says Intentionally Degraded Footage Is Released to the Public While Influencers See 4K
+**C-12015** Host Says Intentionally Degraded Footage Is Released to the Public While Influencers See 4K
 
 Claim Timestamp: 01:01:16
 
@@ -2657,7 +2656,7 @@ Investigative Direction: Compare resolution and provenance of the public footage
 
 ---
 
-**C-13277** Host Says She Will Release More Footage Soon
+**C-12016** Host Says She Will Release More Footage Soon
 
 Claim Timestamp: 01:01:16
 
@@ -2672,7 +2671,7 @@ Investigative Direction: Watch for the footage release in subsequent episodes.
 
 ---
 
-**C-13278** Host Says Critics Are Screaming for the FBI to Raid Her
+**C-12017** Host Says Critics Are Screaming for the FBI to Raid Her
 
 Claim Timestamp: 01:02:23
 
@@ -2688,7 +2687,7 @@ Investigative Direction: Identify who has publicly called for an FBI raid on the
 
 ---
 
-**C-13279** Host Says She Found a Group Chat That Is Together Posting Her Address
+**C-12018** Host Says She Found a Group Chat That Is Together Posting Her Address
 
 Claim Timestamp: 01:02:23
 
@@ -2940,6 +2939,6 @@ Confidence: high
 ## VII. Episode 139 Ledger Summary
 
 - **Artifact Families Introduced:** A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265, A-2266
-- **Claim Range:** C-3236–C-3259
+- **Claim Range:** C-11908–C-11970
 - **New Nodes Introduced:** N-10786, N-10787, N-10788, N-10789, N-10790
 - **Existing Nodes Reused:** N-1, N-2, N-40

@@ -27,9 +27,9 @@
           "ref": "A-2537.1",
           "description": "YouTuber Nicci's video comparing Terryl Farnsworth's shared back-camera footage with wide-angle back-camera shots from 2025 American Comeback Tour stops (played)",
           "related_claims": [
-            "C-3830",
-            "C-3831",
-            "C-3832"
+            "C-8493",
+            "C-8494",
+            "C-8495"
           ],
           "related_nodes": [
             "N-564",
@@ -58,8 +58,8 @@
           "ref": "A-2538.1",
           "description": "Opening of the host's September 19 FaceTime call with Terryl Farnsworth, showing him opening a file on his computer desktop (played, with freeze frame)",
           "related_claims": [
-            "C-3835",
-            "C-3838"
+            "C-8498",
+            "C-8501"
           ],
           "related_nodes": [
             "N-261",
@@ -87,8 +87,8 @@
           "ref": "A-2539.1",
           "description": "Stills (from Nicci) of Charlie Kirk seated on platforms at 2025 tour tabling events, including Utah (shown)",
           "related_claims": [
-            "C-3843",
-            "C-3844"
+            "C-8506",
+            "C-8507"
           ],
           "related_nodes": [
             "N-564",
@@ -107,7 +107,7 @@
           "ref": "A-2539.2",
           "description": "Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)",
           "related_claims": [
-            "C-3845"
+            "C-8508"
           ],
           "related_nodes": [
             "N-1",
@@ -133,13 +133,13 @@
           "ref": "A-2540.1",
           "description": "Host verbal reference to a tip about a late-2016 Scottsdale dinner on a pending gun patent (not shown)",
           "related_claims": [
-            "C-3847",
-            "C-3849",
-            "C-3850",
-            "C-3851",
-            "C-3852",
-            "C-3853",
-            "C-3854"
+            "C-8510",
+            "C-8512",
+            "C-8513",
+            "C-8514",
+            "C-8515",
+            "C-8516",
+            "C-8517"
           ],
           "related_nodes": [
             "N-489",
@@ -167,7 +167,7 @@
           "ref": "A-2541.1",
           "description": "Blake Neff X post accusing the host of misrepresenting the Robinson charging document (read aloud)",
           "related_claims": [
-            "C-3858"
+            "C-8521"
           ],
           "related_nodes": [
             "N-159",
@@ -187,7 +187,7 @@
           "ref": "A-2541.2",
           "description": "Daily Mail headline (and an MSN article) the host posted in reply to Neff",
           "related_claims": [
-            "C-3859"
+            "C-8522"
           ],
           "related_nodes": [
             "N-40",
@@ -206,7 +206,7 @@
           "ref": "A-2541.3",
           "description": "Tyler Robinson text message from the charging document about his father wanting photos of the rifle (shown/read)",
           "related_claims": [
-            "C-3860"
+            "C-8523"
           ],
           "related_nodes": [
             "N-40",
@@ -233,7 +233,7 @@
           "ref": "A-2542.1",
           "description": "Laura Loomer X post directed at the host (read aloud)",
           "related_claims": [
-            "C-3864"
+            "C-8527"
           ],
           "related_nodes": [
             "N-60",
@@ -253,8 +253,8 @@
           "ref": "A-2542.2",
           "description": "The Spectator 2019 article \"The Tale of Laura Loomer\" (quoted on screen)",
           "related_claims": [
-            "C-3866",
-            "C-3870"
+            "C-8529",
+            "C-8533"
           ],
           "related_nodes": [
             "N-60"
@@ -271,7 +271,7 @@
           "ref": "A-2542.3",
           "description": "Clip of Laura Loomer on Alex Jones's show (played)",
           "related_claims": [
-            "C-3871"
+            "C-8534"
           ],
           "related_nodes": [
             "N-60",
@@ -297,7 +297,7 @@
           "ref": "A-2543.1",
           "description": "Host verbal tip request on whether Charlie Kirk was cremated, with a source-protection pledge (no displayed artifact)",
           "related_claims": [
-            "C-3879"
+            "C-8542"
           ],
           "related_nodes": [
             "N-3",
@@ -316,7 +316,7 @@
           "ref": "A-2543.2",
           "description": "Viewer comment (Keeping faith with Father Joseph) offering footage, and the host's request to email it (read aloud)",
           "related_claims": [
-            "C-3880"
+            "C-8543"
           ],
           "related_nodes": [
             "N-3"
@@ -346,21 +346,21 @@
         "A-2543.1"
       ],
       "related_claims": [
-        "C-3827",
-        "C-3830",
-        "C-3838",
-        "C-3843",
-        "C-3844",
-        "C-3845",
-        "C-3854",
-        "C-3861",
-        "C-3862",
-        "C-3863",
-        "C-3864",
-        "C-3876",
-        "C-3877",
-        "C-3878",
-        "C-3879"
+        "C-8490",
+        "C-8493",
+        "C-8501",
+        "C-8506",
+        "C-8507",
+        "C-8508",
+        "C-8517",
+        "C-8524",
+        "C-8525",
+        "C-8526",
+        "C-8527",
+        "C-8539",
+        "C-8540",
+        "C-8541",
+        "C-8542"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -380,18 +380,18 @@
         "A-2542.1"
       ],
       "related_claims": [
-        "C-3834",
-        "C-3837",
-        "C-3852",
-        "C-3853",
-        "C-3854",
-        "C-3861",
-        "C-3862",
-        "C-3864",
-        "C-3875",
-        "C-3876",
-        "C-3877",
-        "C-3878"
+        "C-8497",
+        "C-8500",
+        "C-8515",
+        "C-8516",
+        "C-8517",
+        "C-8524",
+        "C-8525",
+        "C-8527",
+        "C-8538",
+        "C-8539",
+        "C-8540",
+        "C-8541"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -414,17 +414,17 @@
         "A-2543.2"
       ],
       "related_claims": [
-        "C-3830",
-        "C-3833",
-        "C-3835",
-        "C-3836",
-        "C-3840",
-        "C-3858",
-        "C-3862",
-        "C-3864",
-        "C-3869",
-        "C-3879",
-        "C-3880"
+        "C-8493",
+        "C-8496",
+        "C-8498",
+        "C-8499",
+        "C-8503",
+        "C-8521",
+        "C-8525",
+        "C-8527",
+        "C-8532",
+        "C-8542",
+        "C-8543"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -441,9 +441,9 @@
       "description": "The host says Laura Loomer speaks to him several times a day and questions his fitness, citing his post calling the host, Tucker Carlson and Megyn Kelly mentally ill.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3865",
-        "C-3867",
-        "C-3872"
+        "C-8528",
+        "C-8530",
+        "C-8535"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -460,8 +460,8 @@
       "description": "The host asserts he began his career in weapons trafficking and was brought into Iran-Contra.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3856",
-        "C-3857"
+        "C-8519",
+        "C-8520"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -478,7 +478,7 @@
       "description": "Transcript spelling \"Justin Streiff\". Named in the host's account of pressure to call her husband about whether she recorded the footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3840"
+        "C-8503"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -495,7 +495,7 @@
       "description": "Named among those Trump called mentally ill.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3872"
+        "C-8535"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -512,7 +512,7 @@
       "description": "Referred to as \"your husband\"; said to have been called by Justin Streiff about whether the host recorded the footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3840"
+        "C-8503"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -529,15 +529,15 @@
       "description": "Accused; his parents' alleged recognition of the rifle, his text messages and the continuance fight in his case are discussed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3838",
-        "C-3842",
-        "C-3858",
-        "C-3859",
-        "C-3860",
-        "C-3873",
-        "C-3874",
-        "C-3875",
-        "C-3881"
+        "C-8501",
+        "C-8505",
+        "C-8521",
+        "C-8522",
+        "C-8523",
+        "C-8536",
+        "C-8537",
+        "C-8538",
+        "C-8544"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -554,7 +554,7 @@
       "description": "Referred to as \"Governor Cox\"; viewers noted he appointed the judge in the Robinson case.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3873"
+        "C-8536"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -571,8 +571,8 @@
       "description": "Transcript spellings \"Megyn Kelly\" and \"Megyn Kelly\". Erika Kirk told her TPUSA has the Aspen video; named among those Trump called mentally ill.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3862",
-        "C-3872"
+        "C-8525",
+        "C-8535"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -589,7 +589,7 @@
       "description": "Said by the host to have introduced Epstein into the Iran-Contra affair.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3857"
+        "C-8520"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -606,8 +606,8 @@
       "description": "Transcript spelling \"Lance Twiggs\". His phone is cited as one secured by federal agents; recipient of the \"pooch\" message.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3838",
-        "C-3881"
+        "C-8501",
+        "C-8544"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -628,15 +628,15 @@
         "A-2542.3"
       ],
       "related_claims": [
-        "C-3864",
-        "C-3865",
-        "C-3866",
-        "C-3867",
-        "C-3868",
-        "C-3869",
-        "C-3870",
-        "C-3871",
-        "C-3872"
+        "C-8527",
+        "C-8528",
+        "C-8529",
+        "C-8530",
+        "C-8531",
+        "C-8532",
+        "C-8533",
+        "C-8534",
+        "C-8535"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -653,7 +653,7 @@
       "description": "The host says he is suing The Atlantic over a report that he is a drunk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3882"
+        "C-8545"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -672,7 +672,7 @@
         "A-2542.3"
       ],
       "related_claims": [
-        "C-3871"
+        "C-8534"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -691,10 +691,10 @@
         "A-2541.1"
       ],
       "related_claims": [
-        "C-3828",
-        "C-3858",
-        "C-3861",
-        "C-3862"
+        "C-8491",
+        "C-8521",
+        "C-8524",
+        "C-8525"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -711,8 +711,8 @@
       "description": "Named among TPUSA employees who did not call 911.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3828",
-        "C-3829"
+        "C-8491",
+        "C-8492"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -732,18 +732,18 @@
         "A-2538.1"
       ],
       "related_claims": [
-        "C-3827",
-        "C-3828",
-        "C-3829",
-        "C-3830",
-        "C-3832",
-        "C-3833",
-        "C-3834",
-        "C-3835",
-        "C-3836",
-        "C-3837",
-        "C-3839",
-        "C-3841"
+        "C-8490",
+        "C-8491",
+        "C-8492",
+        "C-8493",
+        "C-8495",
+        "C-8496",
+        "C-8497",
+        "C-8498",
+        "C-8499",
+        "C-8500",
+        "C-8502",
+        "C-8504"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -760,7 +760,7 @@
       "description": "Transcript spelling \"Xavier Boussard\". Credited by the host for journalism on Epstein's Iran-Contra link.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3857"
+        "C-8520"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -777,9 +777,9 @@
       "description": "The host says he wanted the Fold AR patent for Israel, was later sued by the patent holder in the tip, and declined to appear with Corby Hall.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3848",
-        "C-3855",
-        "C-3883"
+        "C-8511",
+        "C-8518",
+        "C-8546"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -796,8 +796,8 @@
       "description": "Fold AR patent holder whom Victor Marx sought to push out; scheduled for an interview the next day.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3848",
-        "C-3883"
+        "C-8511",
+        "C-8546"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -814,7 +814,7 @@
       "description": "The host says Erika Frantzve was dating him in late 2016.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3854"
+        "C-8517"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -833,10 +833,10 @@
         "A-2540.1"
       ],
       "related_claims": [
-        "C-3847",
-        "C-3849",
-        "C-3850",
-        "C-3851"
+        "C-8510",
+        "C-8512",
+        "C-8513",
+        "C-8514"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -855,12 +855,12 @@
         "A-2540.1"
       ],
       "related_claims": [
-        "C-3847",
-        "C-3849",
-        "C-3850",
-        "C-3851",
-        "C-3852",
-        "C-3853"
+        "C-8510",
+        "C-8512",
+        "C-8513",
+        "C-8514",
+        "C-8515",
+        "C-8516"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -880,9 +880,9 @@
         "A-2539.1"
       ],
       "related_claims": [
-        "C-3830",
-        "C-3831",
-        "C-3841"
+        "C-8493",
+        "C-8494",
+        "C-8504"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -899,7 +899,7 @@
       "description": "First named by the host at 00:36:45 in episode 095. Referred to as \"Melania\"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3867"
+        "C-8530"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -916,13 +916,13 @@
       "description": "Organization whose staff, camera setup, Aspen audio and tent recreation are discussed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3828",
-        "C-3842",
-        "C-3843",
-        "C-3844",
-        "C-3846",
-        "C-3862",
-        "C-3863"
+        "C-8491",
+        "C-8505",
+        "C-8506",
+        "C-8507",
+        "C-8509",
+        "C-8525",
+        "C-8526"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -939,7 +939,7 @@
       "description": "Asked Erika Kirk where Charlie Kirk is buried.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3876"
+        "C-8539"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -956,7 +956,7 @@
       "description": "Site where, per Nicci, the back camera was either zoomed that day or the footage cropped afterwards.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3832"
+        "C-8495"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -977,9 +977,9 @@
         "A-2541.3"
       ],
       "related_claims": [
-        "C-3858",
-        "C-3859",
-        "C-3860"
+        "C-8521",
+        "C-8522",
+        "C-8523"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -996,8 +996,8 @@
       "description": "The host ties Epstein to weapons trafficking and Iran-Contra via a former Mossad agent's testimony.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3856",
-        "C-3857"
+        "C-8519",
+        "C-8520"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1016,7 +1016,7 @@
         "A-2541.2"
       ],
       "related_claims": [
-        "C-3859"
+        "C-8522"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1035,8 +1035,8 @@
         "A-2541.3"
       ],
       "related_claims": [
-        "C-3860",
-        "C-3881"
+        "C-8523",
+        "C-8544"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1053,7 +1053,7 @@
       "description": "Streiff's call to the host's husband about whether she recorded the footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3840"
+        "C-8503"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1070,7 +1070,7 @@
       "description": "The host asks whether Charlie was buried after a Catholic funeral mass or cremated.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3878"
+        "C-8541"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1087,8 +1087,8 @@
       "description": "Terryl's stated reason (protecting Erika) for removing the camera.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3827",
-        "C-3837"
+        "C-8490",
+        "C-8500"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1105,7 +1105,7 @@
       "description": "The tent recreation for selfies is cited again.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3863"
+        "C-8526"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1122,8 +1122,8 @@
       "description": "600,000 files given to the defense in March and the continuance request.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3874",
-        "C-3875"
+        "C-8537",
+        "C-8538"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1140,7 +1140,7 @@
       "description": "The host urges the defense to obtain the unzoomed back-camera footage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3842"
+        "C-8505"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1157,8 +1157,8 @@
       "description": "Loomer's phone access to Trump and her role as adviser.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3865",
-        "C-3872"
+        "C-8528",
+        "C-8535"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1175,7 +1175,7 @@
       "description": "Recalled as Marx wanting the patent and pushing Corby Hall out.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3848"
+        "C-8511"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1192,7 +1192,7 @@
       "description": "Marx declined to join; the Corby Hall interview goes ahead.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3883"
+        "C-8546"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1209,7 +1209,7 @@
       "description": "The host says Marx wanted the patent for Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3848"
+        "C-8511"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1226,7 +1226,7 @@
       "description": "The host anticipates the judge refusing a continuance because Erika asserted her victim's rights.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3875"
+        "C-8538"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1243,7 +1243,7 @@
       "description": "The host says Loomer cannot own a gun in any of the 50 states.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3868"
+        "C-8531"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1260,8 +1260,8 @@
       "description": "Donors told the host Charlie never said the \"I appoint Erika\" line at Aspen.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3861",
-        "C-3862"
+        "C-8524",
+        "C-8525"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1280,9 +1280,9 @@
         "A-2543.1"
       ],
       "related_claims": [
-        "C-3877",
-        "C-3878",
-        "C-3879"
+        "C-8540",
+        "C-8541",
+        "C-8542"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1299,7 +1299,7 @@
       "description": "The body was reportedly moved a couple of times.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3877"
+        "C-8540"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1318,10 +1318,10 @@
         "A-2537.1"
       ],
       "related_claims": [
-        "C-3830",
-        "C-3831",
-        "C-3832",
-        "C-3841"
+        "C-8493",
+        "C-8494",
+        "C-8495",
+        "C-8504"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1338,9 +1338,9 @@
       "description": "The host's September 17 and 19 calls with Terryl.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3833",
-        "C-3834",
-        "C-3836"
+        "C-8496",
+        "C-8497",
+        "C-8499"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1359,8 +1359,8 @@
         "A-2538.1"
       ],
       "related_claims": [
-        "C-3835",
-        "C-3839"
+        "C-8498",
+        "C-8502"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1379,9 +1379,9 @@
         "A-2538.1"
       ],
       "related_claims": [
-        "C-3835",
-        "C-3836",
-        "C-3838"
+        "C-8498",
+        "C-8499",
+        "C-8501"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1398,8 +1398,8 @@
       "description": "Terryl's possession of the footage in Arizona.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3836",
-        "C-3839"
+        "C-8499",
+        "C-8502"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1416,7 +1416,7 @@
       "description": "Transcript spelling \"Wiyre Fy\". The host ties the new back camera to the sponsorship deal.",
       "related_artifacts": [],
       "related_claims": [
-        "C-3846"
+        "C-8509"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1435,14 +1435,14 @@
         "A-2540.1"
       ],
       "related_claims": [
-        "C-3847",
-        "C-3849",
-        "C-3850",
-        "C-3851",
-        "C-3852",
-        "C-3853",
-        "C-3854",
-        "C-3855"
+        "C-8510",
+        "C-8512",
+        "C-8513",
+        "C-8514",
+        "C-8515",
+        "C-8516",
+        "C-8517",
+        "C-8518"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1468,11 +1468,11 @@
         "A-2539.2"
       ],
       "related_claims": [
-        "C-3831",
-        "C-3843",
-        "C-3844",
-        "C-3845",
-        "C-3846"
+        "C-8494",
+        "C-8506",
+        "C-8507",
+        "C-8508",
+        "C-8509"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1488,8 +1488,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-3827",
-      "ref": "C-3827",
+      "@id": "C-8490",
+      "ref": "C-8490",
       "label": "Terryl took down the back footage about four minutes after Charlie was struck",
       "claim": "The host says Terryl raced to take down the back-camera footage minutes after Charlie Kirk was struck, which her team estimated at about four minutes.",
       "anchored_artifacts": [],
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3828",
-      "ref": "C-3828",
+      "@id": "C-8491",
+      "ref": "C-8491",
       "label": "No Turning Point employee called 911",
       "claim": "The host says none of the Turning Point USA employees, including Mikey McCoy, Blake Neff and Terryl, called 911.",
       "anchored_artifacts": [],
@@ -1527,8 +1527,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3829",
-      "ref": "C-3829",
+      "@id": "C-8492",
+      "ref": "C-8492",
       "label": "Terryl recorded a selfie video after the shooting",
       "claim": "The host says Terryl recorded himself in a selfie video after the shooting, which she calls perhaps the worst, almost worse than Mikey McCoy walking away.",
       "anchored_artifacts": [],
@@ -1538,7 +1538,7 @@
       "investigative_direction": "Archive the original selfie video with its metadata and posting time.",
       "transcript_snippet": "Terryl was perhaps the worst almost worse than Mikey walking away would be Terryl recording himself in a selfie video.",
       "supports_claim_refs": [
-        "C-1464"
+        "C-1767"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3830",
-      "ref": "C-3830",
+      "@id": "C-8493",
+      "ref": "C-8493",
       "label": "Nicci found the footage shown on FaceTime was likely edited",
       "claim": "The host says the YouTuber Nicci discovered that the back-camera footage Terryl showed her on FaceTime was likely edited.",
       "anchored_artifacts": [
@@ -1569,8 +1569,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3831",
-      "ref": "C-3831",
+      "@id": "C-8494",
+      "ref": "C-8494",
       "label": "Nicci Shows Back-Camera Shots From Other 2025 Tour Stops",
       "claim": "In a video by the YouTuber Nicci that the host plays, back-camera shots from American Comeback Tour stops are shown, including Florida State University on February 28, 2025 and the University of Southern California on March 3, 2025, as well as San Francisco, San Diego, Long Beach, Boise and Washington State.",
       "anchored_artifacts": [
@@ -1590,8 +1590,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3832",
-      "ref": "C-3832",
+      "@id": "C-8495",
+      "ref": "C-8495",
       "label": "UVU footage either zoomed that day or cropped afterwards",
       "claim": "Nicci's video says the back camera was always used as a wide-angle camera, yet the ground cannot be seen in the UVU footage Terryl shared. It concludes that either the camera was zoomed in that day or Terryl zoomed in afterwards and showed a cropped version.",
       "anchored_artifacts": [
@@ -1612,8 +1612,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3833",
-      "ref": "C-3833",
+      "@id": "C-8496",
+      "ref": "C-8496",
       "label": "Host phoned Terryl on September 17 after the takedown video went viral",
       "claim": "The host says she phoned Terryl on September 17 because footage of him taking down the camera was going viral, and that it took him two days to get back to her.",
       "anchored_artifacts": [],
@@ -1631,8 +1631,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3834",
-      "ref": "C-3834",
+      "@id": "C-8497",
+      "ref": "C-8497",
       "label": "Terryl agreed on September 19 to show the footage after citing Erika",
       "claim": "The host says Terryl was hesitant on September 17, saying he wanted to protect the footage and Erika Kirk, and that on September 19 he agreed to get on a call and show her the footage.",
       "anchored_artifacts": [],
@@ -1650,8 +1650,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3835",
-      "ref": "C-3835",
+      "@id": "C-8498",
+      "ref": "C-8498",
       "label": "The \"YOLO\" drive on Terryl's desktop is likely the camera's SD card",
       "claim": "Showing the opening of her FaceTime call, the host says she suspects the \"YOLO\" drive on Terryl's desktop is what he named the SD card, which she says he should not have had. She notes that Sony cameras automatically label a \"clip\" folder.",
       "anchored_artifacts": [
@@ -1672,8 +1672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3836",
-      "ref": "C-3836",
+      "@id": "C-8499",
+      "ref": "C-8499",
       "label": "Terryl never said he lacked the footage or had given the SD card to the feds",
       "claim": "The host says that in their September 17 and 19 conversations Terryl never told her he did not have the footage or the SD card, or that he had given the SD card to federal agents.",
       "anchored_artifacts": [],
@@ -1693,8 +1693,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3837",
-      "ref": "C-3837",
+      "@id": "C-8500",
+      "ref": "C-8500",
       "label": "Terryl said he removed the camera to protect Erika",
       "claim": "The host says Terryl told her he removed the SD card and took the camera down because he wanted to protect Erika Kirk and did not want her to see Charlie dying again, and that he had spoken with Erika about it.",
       "anchored_artifacts": [],
@@ -1712,8 +1712,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3838",
-      "ref": "C-3838",
+      "@id": "C-8501",
+      "ref": "C-8501",
       "label": "Charlie Kirk's phone was not given to the feds",
       "claim": "The host says it has been learned that Charlie Kirk's phone was not given to federal agents, though it should have been secured like Tyler Robinson's and Lance Twiggs's phones.",
       "anchored_artifacts": [
@@ -1734,8 +1734,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3839",
-      "ref": "C-3839",
+      "@id": "C-8502",
+      "ref": "C-8502",
       "label": "Terryl took the footage back to Scottsdale",
       "claim": "The host says that, based on her conversation with Terryl and the FaceTime video, he was able to take the footage back to Arizona and open it on his desktop in Scottsdale.",
       "anchored_artifacts": [
@@ -1755,8 +1755,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3840",
-      "ref": "C-3840",
+      "@id": "C-8503",
+      "ref": "C-8503",
       "label": "Justin Streiff was pressed to call the host's husband about whether she recorded the footage",
       "claim": "The host relays a producer's suggestion that federal agents learned of Terryl's footage from her show and pressured Justin Streiff to call her husband to ask whether she had recorded it. The host rejects the idea that agents only learned of it then.",
       "anchored_artifacts": [],
@@ -1775,8 +1775,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3841",
-      "ref": "C-3841",
+      "@id": "C-8504",
+      "ref": "C-8504",
       "label": "Host believes Terryl zoomed in to hide the ground",
       "claim": "The host agrees with Nicci that Terryl very likely zoomed in on the footage and says she believes he did so to obscure the view of the ground, adding that it has to be something that would solve Charlie's murder.",
       "anchored_artifacts": [
@@ -1796,8 +1796,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3842",
-      "ref": "C-3842",
+      "@id": "C-8505",
+      "ref": "C-8505",
       "label": "Turning Point has the unzoomed footage",
       "claim": "The host says Turning Point USA has the back-camera footage, that it should show the entire ground area, and that Tyler Robinson's defense should obtain it.",
       "anchored_artifacts": [],
@@ -1815,8 +1815,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3843",
-      "ref": "C-3843",
+      "@id": "C-8506",
+      "ref": "C-8506",
       "label": "Charlie sat on a chair on a raised platform, a new setup",
       "claim": "The host says that at the UVU event Charlie Kirk sat on a chair on a platform that put him above the table. She says that in years of tabling with him across the United States they were never on platforms.",
       "anchored_artifacts": [
@@ -1836,8 +1836,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3844",
-      "ref": "C-3844",
+      "@id": "C-8507",
+      "ref": "C-8507",
       "label": "The camera behind Charlie's head first appeared in 2025",
       "claim": "The host says her team could not find any tabling event before late 2024 with a camera directly behind Charlie Kirk's head, and that it appears to have arrived in 2025 with the American Comeback Tour.",
       "anchored_artifacts": [
@@ -1857,8 +1857,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3845",
-      "ref": "C-3845",
+      "@id": "C-8508",
+      "ref": "C-8508",
       "label": "No camera behind Charlie's head on the 2024 Brainwashed tour",
       "claim": "The host shows Brainwashed tour photos from March 7, 2024, the University of Wisconsin on September 5, 2024, and Northern Arizona University on October 15, 2024, and says none had a camera behind Charlie Kirk's head.",
       "anchored_artifacts": [
@@ -1877,8 +1877,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3846",
-      "ref": "C-3846",
+      "@id": "C-8509",
+      "ref": "C-8509",
       "label": "The new camera arrived with the Yrefy sponsorship deal",
       "claim": "The host says the rear camera angle seems to have arrived specifically with TPUSA's big sponsorship deal with \"Wiyre Fy\" (Yrefy).",
       "anchored_artifacts": [],
@@ -1894,8 +1894,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3847",
-      "ref": "C-3847",
+      "@id": "C-8510",
+      "ref": "C-8510",
       "label": "Lori Frantzve and Larry Guinta pursued a patent-pending interchangeable-caliber gun",
       "claim": "According to a tip relayed by the host, Lori Frantzve and Larry Guinta were interested in a patent-pending gun with interchangeable calibers, achieved by extending the cylinder. The host says the patent has since been approved.",
       "anchored_artifacts": [
@@ -1915,8 +1915,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3848",
-      "ref": "C-3848",
+      "@id": "C-8511",
+      "ref": "C-8511",
       "label": "Victor Marx wanted the Fold AR patent for Israel",
       "claim": "The host says Victor Marx wanted Corby Hall's Fold AR patent for Israel and sought to push Hall out so he would sell it.",
       "anchored_artifacts": [],
@@ -1935,8 +1935,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3849",
-      "ref": "C-3849",
+      "@id": "C-8512",
+      "ref": "C-8512",
       "label": "Lori and Larry met the patent holders at a Salt Lake City expo and offered their G-Tech angel investor",
       "claim": "According to the tip, Lori Frantzve and Larry Guinta met the patent holders at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. The tip says they offered to introduce them to G-Tech's angel investor. The host says \"allegedly\".",
       "anchored_artifacts": [
@@ -1956,8 +1956,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3850",
-      "ref": "C-3850",
+      "@id": "C-8513",
+      "ref": "C-8513",
       "label": "Late-2016 Scottsdale dinner with Lori, Larry and the would-be gun company owners",
       "claim": "According to the tip, a dinner was held in Scottsdale in late 2016 with Lori Frantzve, Larry Guinta and the two would-be company owners to discuss the patent, before the gun was manufactured.",
       "anchored_artifacts": [
@@ -1977,8 +1977,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3851",
-      "ref": "C-3851",
+      "@id": "C-8514",
+      "ref": "C-8514",
       "label": "Lori and Larry offered access to government contracts",
       "claim": "According to the tip, what Lori Frantzve and Larry Guinta offered in exchange for the patent was access to government contracts.",
       "anchored_artifacts": [
@@ -1998,8 +1998,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3852",
-      "ref": "C-3852",
+      "@id": "C-8515",
+      "ref": "C-8515",
       "label": "Erika Frantzve arrived unannounced at the dinner",
       "claim": "According to the tip, Erika Frantzve arrived unannounced and late at the Scottsdale dinner and joined the business discussion about the patent.",
       "anchored_artifacts": [
@@ -2018,8 +2018,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3853",
-      "ref": "C-3853",
+      "@id": "C-8516",
+      "ref": "C-8516",
       "label": "Lori said Erika was newly dating a man with big political connections",
       "claim": "According to the tip, Erika's mother said at the dinner that Erika was a couple of months into dating a man with very big political connections.",
       "anchored_artifacts": [
@@ -2039,8 +2039,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3854",
-      "ref": "C-3854",
+      "@id": "C-8517",
+      "ref": "C-8517",
       "label": "Erika was dating Cabot Phillips, not Charlie Kirk, at the time",
       "claim": "The host says the tipster assumed the boyfriend was Charlie Kirk, but by her team's timeline Erika was dating Cabot Phillips at that time.",
       "anchored_artifacts": [
@@ -2061,8 +2061,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3855",
-      "ref": "C-3855",
+      "@id": "C-8518",
+      "ref": "C-8518",
       "label": "The patent holder later had a lawsuit with Victor Marx",
       "claim": "The host says nothing came of the dinner and that the person involved with the patent later got into a lawsuit with Victor Marx, the outcome of which she has not yet established.",
       "anchored_artifacts": [],
@@ -2079,8 +2079,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3856",
-      "ref": "C-3856",
+      "@id": "C-8519",
+      "ref": "C-8519",
       "label": "Jeffrey Epstein began his career in weapons trafficking",
       "claim": "The host asserts that Jeffrey Epstein began his career in weapons trafficking.",
       "anchored_artifacts": [],
@@ -2097,8 +2097,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3857",
-      "ref": "C-3857",
+      "@id": "C-8520",
+      "ref": "C-8520",
       "label": "A former Mossad agent testified Robert Maxwell brought Epstein into Iran-Contra",
       "claim": "The host says a former Mossad agent testified that Epstein was introduced by Robert Maxwell and brought into the Iran-Contra affair, crediting Xavier Poussard's journalism.",
       "anchored_artifacts": [],
@@ -2117,8 +2117,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3858",
-      "ref": "C-3858",
+      "@id": "C-8521",
+      "ref": "C-8521",
       "label": "Blake Neff wrote that Robinson's parents recognized photos of the suspect, not the gun",
       "claim": "The host reads Blake Neff's X post saying the charging document shows Tyler Robinson's parents did not recognize the gun but recognized FBI-released photos of the suspect. The post says only then did they suspect the rifle was a match, after the FBI had announced finding a bolt-action rifle.",
       "anchored_artifacts": [
@@ -2139,8 +2139,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3859",
-      "ref": "C-3859",
+      "@id": "C-8522",
+      "ref": "C-8522",
       "label": "Daily Mail reported Robinson's father recognized a family heirloom in media reports",
       "claim": "The host says she replied to Neff with headlines including a Daily Mail story that Tyler Robinson's father realized his son was the shooter after seeing a family heirloom in media reports, and an MSN story that he had recognized the rifle.",
       "anchored_artifacts": [
@@ -2161,8 +2161,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3860",
-      "ref": "C-3860",
+      "@id": "C-8523",
+      "ref": "C-8523",
       "label": "Robinson message said the feds released a photo of the \"very unique\" rifle",
       "claim": "The host reads a Tyler Robinson text message from the charging document saying his dad wanted photos of the rifle and the feds had released a photo of it. She argues this made it fair for media to conclude his father recognized the rifle.",
       "anchored_artifacts": [
@@ -2182,8 +2182,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3861",
-      "ref": "C-3861",
+      "@id": "C-8524",
+      "ref": "C-8524",
       "label": "Donors say Charlie never named Erika his successor at Aspen",
       "claim": "The host says multiple donors told her Charlie Kirk never said \"I appoint Erika Kirk to be the CEO and chairman\" at Aspen, either on stage or at a smaller dinner of about 10 to 12 people. She says the donors believe the released audio is AI.",
       "anchored_artifacts": [],
@@ -2195,7 +2195,7 @@
       "investigative_direction": "Obtain the original Aspen recording with metadata for forensic audio analysis, and attendee statements.",
       "transcript_snippet": "They claim that he never said that in Aspen.",
       "supports_claim_refs": [
-        "C-2694"
+        "C-8029"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2204,8 +2204,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3862",
-      "ref": "C-3862",
+      "@id": "C-8525",
+      "ref": "C-8525",
       "label": "TPUSA declined to share the Aspen video and Neff called the host a psychopath",
       "claim": "The host says Erika Kirk told Megyn Kelly that TPUSA has the Aspen video, yet it declined to share it. She says Blake Neff instead accused her of being a psychopath, as with a knife on a subway, as the reason it could not be shared.",
       "anchored_artifacts": [],
@@ -2218,7 +2218,7 @@
       "investigative_direction": "Archive Neff's statement and Erika Kirk's Megyn Kelly interview remark on the video.",
       "transcript_snippet": "And you accused me of being a psychopath with with a with a gun or a knife rather on a subway and that's why you couldn't share it.",
       "supports_claim_refs": [
-        "C-2661"
+        "C-7889"
       ],
       "mentions_person_refs": [
         "N-159",
@@ -2229,8 +2229,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3863",
-      "ref": "C-3863",
+      "@id": "C-8526",
+      "ref": "C-8526",
       "label": "TPUSA put up a recreation of the tent Charlie died under for selfies",
       "claim": "The host says TPUSA put up a recreation of the tent Charlie Kirk died under for selfies.",
       "anchored_artifacts": [],
@@ -2243,7 +2243,7 @@
       "investigative_direction": "Collect AmFest photos and TPUSA event plans showing the tent recreation.",
       "transcript_snippet": "you you put up a tent uh a recreation of a tent that Charlie had died under for selfies.",
       "supports_claim_refs": [
-        "C-1991"
+        "C-4448"
       ],
       "mentions_person_refs": [
         "N-1"
@@ -2251,8 +2251,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3864",
-      "ref": "C-3864",
+      "@id": "C-8527",
+      "ref": "C-8527",
       "label": "Laura Loomer tweeted \"God hates you\" at the host",
       "claim": "The host reads Laura Loomer's tweet to her saying God gave Charlie to Erika because God hates the host, and says it drew about 6,000 replies.",
       "anchored_artifacts": [
@@ -2272,8 +2272,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3865",
-      "ref": "C-3865",
+      "@id": "C-8528",
+      "ref": "C-8528",
       "label": "Loomer says she speaks to Trump several times a day",
       "claim": "The host says that, according to Laura Loomer, she speaks to Donald Trump by phone multiple times a day, and that one of his first calls after attacking Iran was to her.",
       "anchored_artifacts": [],
@@ -2291,8 +2291,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3866",
-      "ref": "C-3866",
+      "@id": "C-8529",
+      "ref": "C-8529",
       "label": "2019 Spectator profile: Loomer described cocaine use and a suicide attempt",
       "claim": "The host quotes a 2019 Spectator article, \"The Tale of Laura Loomer,\" in which Loomer said she dealt with depression by using cocaine; the host adds that Loomer was 23. Loomer also said she once drove to a cliff in February and tried to kill herself.",
       "anchored_artifacts": [
@@ -2309,8 +2309,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3867",
-      "ref": "C-3867",
+      "@id": "C-8530",
+      "ref": "C-8530",
       "label": "People in Melania's circle say Loomer is the person most likely to harm Trump",
       "claim": "The host says that, as she understands it, people in Melania Trump's circle have said Laura Loomer would be the person most likely to harm Donald Trump.",
       "anchored_artifacts": [],
@@ -2327,8 +2327,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3868",
-      "ref": "C-3868",
+      "@id": "C-8531",
+      "ref": "C-8531",
       "label": "Laura Loomer is not allowed to own guns",
       "claim": "The host says Laura Loomer is not allowed to own guns, and later that there are 50 states in which she cannot own one.",
       "anchored_artifacts": [],
@@ -2345,8 +2345,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3869",
-      "ref": "C-3869",
+      "@id": "C-8532",
+      "ref": "C-8532",
       "label": "Loomer said she wants the host's children to suffer and live on the streets",
       "claim": "The host says Laura Loomer said the day before that she wants the host's children to suffer and live on the streets, and that Loomer is also attacking the host's lawyer and in-laws.",
       "anchored_artifacts": [],
@@ -2362,8 +2362,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3870",
-      "ref": "C-3870",
+      "@id": "C-8533",
+      "ref": "C-8533",
       "label": "Loomer told the Spectator she became addicted to social media",
       "claim": "The host quotes the Spectator article in which Loomer said, after losing Twitter access, that she became addicted to social media, substituted her lows with adrenaline rushes on Twitter, and had withdrawals when banned.",
       "anchored_artifacts": [
@@ -2380,8 +2380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3871",
-      "ref": "C-3871",
+      "@id": "C-8534",
+      "ref": "C-8534",
       "label": "Clip of Loomer on Alex Jones saying her life was ruined",
       "claim": "The host plays a clip of Laura Loomer on Alex Jones's show shouting that her life is ruined and that she does not want people calling her a conspiracy theorist.",
       "anchored_artifacts": [
@@ -2399,8 +2399,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3872",
-      "ref": "C-3872",
+      "@id": "C-8535",
+      "ref": "C-8535",
       "label": "Trump called Tucker Carlson, Megyn Kelly and the host mentally ill while taking Loomer's advice on Iran",
       "claim": "The host says the question to ask is whether Donald Trump is mentally fit if he makes a conscious decision to tweet out that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran.",
       "anchored_artifacts": [],
@@ -2421,8 +2421,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3873",
-      "ref": "C-3873",
+      "@id": "C-8536",
+      "ref": "C-8536",
       "label": "The Robinson judge was appointed by Governor Cox",
       "claim": "The host says many people looked into the judge in Tyler Robinson's case and found it suspicious that he was appointed by Governor Cox and lacked experience for a case of this size.",
       "anchored_artifacts": [],
@@ -2438,8 +2438,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3874",
-      "ref": "C-3874",
+      "@id": "C-8537",
+      "ref": "C-8537",
       "label": "600,000 files were dumped on the defense in March",
       "claim": "The host says prosecutors dumped 600,000 files on Tyler Robinson's defense in March, about seven months into the case, making a continuance reasonable.",
       "anchored_artifacts": [],
@@ -2451,7 +2451,7 @@
       "investigative_direction": "Review the court's discovery orders and the defense's continuance motion.",
       "transcript_snippet": "We looked they dumped 600,000 files on them in March.",
       "supports_claim_refs": [
-        "C-2615"
+        "C-7721"
       ],
       "mentions_person_refs": [
         "N-40"
@@ -2459,8 +2459,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3875",
-      "ref": "C-3875",
+      "@id": "C-8538",
+      "ref": "C-8538",
       "label": "Judge earlier assured the defense a trial date could be moved",
       "claim": "The host says the defense asked not to set a date until discovery was in hand, and the judge replied that the date could always be bumped. She says a refusal now, after Erika Kirk asserted her victim's rights, would be telling.",
       "anchored_artifacts": [],
@@ -2478,8 +2478,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3876",
-      "ref": "C-3876",
+      "@id": "C-8539",
+      "ref": "C-8539",
       "label": "Erika's \"one thing for my kids\" reply to Fox News on the burial location",
       "claim": "The host says that when Fox News asked Erika Kirk where Charlie Kirk was buried, she asked to keep one thing for her kids. The host disputes that reasoning.",
       "anchored_artifacts": [],
@@ -2492,7 +2492,7 @@
       "investigative_direction": "Archive the Fox News interview segment with its air date.",
       "transcript_snippet": "And they asked about where he was buried, and it was like, \"One thing for your kids, girl, you took us into the casket.",
       "supports_claim_refs": [
-        "C-1897"
+        "C-3904"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2501,8 +2501,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3877",
-      "ref": "C-3877",
+      "@id": "C-8540",
+      "ref": "C-8540",
       "label": "Erika moved Charlie's body a couple of times",
       "claim": "The host says she learned early on that Erika Kirk had moved Charlie Kirk's body a couple of times.",
       "anchored_artifacts": [],
@@ -2521,8 +2521,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3878",
-      "ref": "C-3878",
+      "@id": "C-8541",
+      "ref": "C-8541",
       "label": "Charlie's body first went to a burial and cremation service",
       "claim": "The host says Charlie Kirk's body was first taken to a burial plus cremation services provider and then somewhere else, and asks whether he was cremated after a Catholic funeral mass.",
       "anchored_artifacts": [],
@@ -2541,8 +2541,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3879",
-      "ref": "C-3879",
+      "@id": "C-8542",
+      "ref": "C-8542",
       "label": "Host asks for tips on whether Charlie Kirk was cremated and pledges source protection",
       "claim": "The host asks for tips at candaceowens.com on whether Charlie Kirk was cremated, says she will fully protect sources' identities, and says none of her sources has ever been outed.",
       "anchored_artifacts": [
@@ -2562,8 +2562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3880",
-      "ref": "C-3880",
+      "@id": "C-8543",
+      "ref": "C-8543",
       "label": "Viewer says they have footage that could change the investigation",
       "claim": "The host reads a viewer comment from \"Keeping faith with Father Joseph\" saying they have footage that could change the investigation, and asks them to email it to the show.",
       "anchored_artifacts": [
@@ -2580,8 +2580,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3881",
-      "ref": "C-3881",
+      "@id": "C-8544",
+      "ref": "C-8544",
       "label": "New sentences, including the \"pooch\" line, were added to Robinson's messages",
       "claim": "The host says that in the affidavits, ellipses in Tyler Robinson's previously released messages have been filled with added sentences. One, sent to Lance Twiggs, reads \"I hope that pooch has a bad sniffer.\"",
       "anchored_artifacts": [],
@@ -2599,8 +2599,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3882",
-      "ref": "C-3882",
+      "@id": "C-8545",
+      "ref": "C-8545",
       "label": "Kash Patel is suing The Atlantic over a report that he is a drunk",
       "claim": "The host says Kash Patel is suing, she thinks The Atlantic (\"is it The Atlantic\"), because it reported that he is a drunk.",
       "anchored_artifacts": [],
@@ -2615,8 +2615,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3883",
-      "ref": "C-3883",
+      "@id": "C-8546",
+      "ref": "C-8546",
       "label": "Victor Marx declined to join Corby Hall; Hall interview to air next day",
       "claim": "The host says Victor Marx did not want to join Corby Hall on the show, so she kept her appointment with Hall for an interview airing the next day. She says Marx had demanded to bring his wife and set terms of engagement.",
       "anchored_artifacts": [],

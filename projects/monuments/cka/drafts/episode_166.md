@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (catchup-2026-10-19): N-967, N-968, N-969, N-970, N-11434, N-11435, N-11436, N-11437, N-11438, N-11439, N-11440, N-11441, N-11442, N-11443, N-11444
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-592, N-898, N-957, N-959, N-962, N-963, N-10000, N-10012, N-10013, N-10062, N-10074, N-10388, N-10434, N-10533, N-10827, N-10874, N-10925, N-11313
-  - Claim Range: C-15402–C-15493
+  - Claim Range: C-14306–C-14397
   - (see registers)
 
 # Episode 166 Analysis
@@ -41,7 +41,7 @@ Video Timestamp: 00:01:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15405, N-41, N-11437*
+*Related: C-14309, N-41, N-11437*
 
 **A-3398.2** Host verbal reference to a sleuth who emailed the Taylor Dodd lead
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:14:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15438, N-967, N-11439*
+*Related: C-14342, N-967, N-11439*
 
 **A-3398.3** Host verbal request for tips on Tyler Clancy and on Cox promotions, at candaceowens.com, with a floated bounty
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:48:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15486, C-15487, C-15488, C-15489, N-959, N-41*
+*Related: C-14390, C-14391, C-14392, C-14393, N-959, N-41*
 
 **A-3398.4** Host verbal request for direct-knowledge tips on the fire captain who performed CPR
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:49:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15493, N-10874*
+*Related: C-14397, N-10874*
 
 ---
 
@@ -81,7 +81,7 @@ Video Timestamp: 00:02:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15406, C-15407, C-15420, C-15421, C-15422, C-15424, N-41, N-11437*
+*Related: C-14310, C-14311, C-14324, C-14325, C-14326, C-14328, N-41, N-11437*
 
 **A-3399.2** LinkedIn photo posted by the AV company that miked Cox at the Rally Connects Trade Show in Mona
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:08:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15423, N-41, N-11437*
+*Related: C-14327, N-41, N-11437*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:03:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15409, C-15410, N-959, N-2, N-10074*
+*Related: C-14313, C-14314, N-959, N-2, N-10074*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:07:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15418, C-15419, N-41, N-69, N-10012*
+*Related: C-14322, C-14323, N-41, N-69, N-10012*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:11:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15430, C-15431, C-15432, C-15433, C-15434, C-15435, C-15436, N-967, N-968, N-11439, N-11440, N-10013*
+*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-967, N-968, N-11439, N-11440, N-10013*
 
 **A-3402.2** Local news letter to the editor by a Bonners Ferry homeschool hub vice president, which the host says had "Club America" removed
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:14:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15439, C-15440, N-11439, N-10533*
+*Related: C-14343, C-14344, N-11439, N-10533*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:20:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15451, C-15452, C-15453, C-15454, N-11436, N-10827, N-10925*
+*Related: C-14355, C-14356, C-14357, C-14358, N-11436, N-10827, N-10925*
 
 **A-3403.2** Tyler Bowyer X post on Commit 100 after the vandalism
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:21:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15451, C-15456, N-11, N-11436, N-10827*
+*Related: C-14355, C-14360, N-11, N-11436, N-10827*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:22:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15404, C-15447, C-15457, N-11435, N-10925*
+*Related: C-14308, C-14351, C-14361, N-11435, N-10925*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:28:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15465, C-15466, N-962, N-11434*
+*Related: C-14369, C-14370, N-962, N-11434*
 
 **A-3405.2** Clip of Katie Zacharia interviewed by Jack Posobiec on the bar exam
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:30:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15467, C-15468, C-15469, C-15470, C-15471, C-15472, N-962, N-95, N-11434, N-11441, N-11442*
+*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-962, N-95, N-11434, N-11441, N-11442*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:36:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15476, N-1, N-11443*
+*Related: C-14380, N-1, N-11443*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:38:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-15478, C-15479, C-15480, N-5, N-970, N-11443*
+*Related: C-14382, C-14383, C-14384, N-5, N-970, N-11443*
 
 ---
 
@@ -254,7 +254,7 @@ Video Timestamp: 00:44:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15482, N-2, N-1, N-11444*
+*Related: C-14386, N-2, N-1, N-11444*
 
 **A-3408.2** Viewer comment (CPTNSL0) saying the bloodied bag was offered to Shawn Ryan
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:47:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-15484, N-224, N-266*
+*Related: C-14388, N-224, N-266*
 
 ---
 
@@ -275,318 +275,318 @@ Confidence Level: High
 
 Assassination victim. The episode covers his bloodied bag, the fire captain who performed CPR on him, his reported wish to fire Tyler Bowyer, and his death-penalty clip.
 
-*Related: C-15413, C-15416, C-15429, C-15442, C-15443, C-15444, C-15446, C-15448, C-15454, C-15476, C-15477, C-15482, C-15483, C-15487, C-15489, C-15491*
+*Related: C-14317, C-14320, C-14333, C-14346, C-14347, C-14348, C-14350, C-14352, C-14358, C-14380, C-14381, C-14386, C-14387, C-14391, C-14393, C-14395*
 
 **N-2** Erika Kirk
 
 TPUSA CEO. The host criticizes her Club America push and says Tyler Clancy allegedly picked her up at Provo Airport.
 
-*Related: C-15408, C-15409, C-15428, C-15446, C-15454, C-15482*
+*Related: C-14312, C-14313, C-14332, C-14350, C-14358, C-14386*
 
 **N-3** Candace Owens
 
 Host.
 
-*Related: C-15428, C-15481, C-15488, C-15493*
+*Related: C-14332, C-14385, C-14392, C-14397*
 
 **N-5** Donald Trump
 
 Posted on Truth Social that the Fort Hood shooter's execution would not be livestreamed.
 
-*Related: C-15478, C-15479, C-15480*
+*Related: C-14382, C-14383, C-14384*
 
 **N-7** Frank Turek
 
 The host deduces that the bloodied bag Tyler Clancy disposed of was his. She says he did not mention a fire captain giving CPR.
 
-*Related: C-15412, C-15413, C-15485, C-15491*
+*Related: C-14316, C-14317, C-14389, C-14395*
 
 **N-11** Tyler Bowyer
 
 Turning Point Action head. The host alleges Charlie wanted to fire him and links him to the statue unveiling and the Commit 100 push.
 
-*Related: C-15441, C-15442, C-15446, C-15448, C-15452, C-15456*
+*Related: C-14345, C-14346, C-14350, C-14352, C-14356, C-14360*
 
 **N-15** Justin Streiff
 
 The host says he denied the missing Turning Point Action money lead.
 
-*Related: C-15445, C-15458*
+*Related: C-14349, C-14362*
 
 **N-18** Andrew Wilson
 
 The host characterizes him as eager to watch the execution.
 
-*Related: C-15479*
+*Related: C-14383*
 
 **N-40** Tyler Robinson
 
 Accused shooter. The host says she does not believe he acted alone.
 
-*Related: C-15477*
+*Related: C-14381*
 
 **N-41** Spencer Cox
 
 Utah governor. The episode examines his corrected September 9–10 schedule, his clothing-change statement and his reported golf with Val Peterson.
 
-*Related: C-15405, C-15406, C-15407, C-15415, C-15416, C-15417, C-15418, C-15419, C-15420, C-15421, C-15422, C-15423, C-15424, C-15425, C-15426, C-15487*
+*Related: C-14309, C-14310, C-14311, C-14319, C-14320, C-14321, C-14322, C-14323, C-14324, C-14325, C-14326, C-14327, C-14328, C-14329, C-14330, C-14391*
 
 **N-69** Kash Patel
 
 Stood behind Cox during the September 12 clothing-change statement.
 
-*Related: C-15418*
+*Related: C-14322*
 
 **N-95** Jack Posobiec
 
 Interviewed Katie Zacharia on why she did not pass the bar.
 
-*Related: C-15467, C-15472*
+*Related: C-14371, C-14376*
 
 **N-190** Mikey McCoy
 
 The host says (transcribed "Mikey McCormick") that he told donors Charlie wanted to fire Tyler Bowyer.
 
-*Related: C-15442*
+*Related: C-14346*
 
 **N-224** Shawn Ryan
 
 A viewer comment says the bloodied bag was offered to him.
 
-*Related: C-15484*
+*Related: C-14388*
 
 **N-266** Brian Harpole
 
 The host separates his bag from the Clancy bag story and says he did not mention the fire captain.
 
-*Related: C-15485, C-15491*
+*Related: C-14389, C-14395*
 
 **N-330** Baron Coleman
 
 The host says she selected him to take over the show during her leave.
 
-*Related: C-15481*
+*Related: C-14385*
 
 **N-489** Lori Frantzve
 
 Erika Kirk's mother. The host (transcribed "Lori Frantzve") says she has worked with Tyler Bowyer since before Charlie.
 
-*Related: C-15446*
+*Related: C-14350*
 
 **N-592** Pete Hegseth
 
 The host says he announced the Fort Hood shooter would be executed on livestream.
 
-*Related: C-15475*
+*Related: C-14379*
 
 **N-898** Bobby Sausalito
 
 Transcribed "Bobby Sausalito". The host credits him with keeping the statue story alive.
 
-*Related: C-15459*
+*Related: C-14363*
 
 **N-10000** Turning Point USA
 
 The host alleges it scrubbed its Club America affiliation from the Taylor Dodd story.
 
-*Related: C-15403, C-15408, C-15411, C-15428, C-15437, C-15438, C-15439, C-15449, C-15450, C-15452, C-15458, C-15483*
+*Related: C-14307, C-14312, C-14315, C-14332, C-14341, C-14342, C-14343, C-14353, C-14354, C-14356, C-14362, C-14387*
 
 **N-10012** Utah Valley University
 
 Site of the shooting, referenced in Cox's clothing statement.
 
-*Related: C-15418*
+*Related: C-14322*
 
 **N-10013** Discord
 
 The source of the tip to ICAC in the Taylor Dodd case.
 
-*Related: C-15431*
+*Related: C-14335*
 
 **N-10062** Orem, Utah
 
 Possible location of the fire station of the captain who performed CPR.
 
-*Related: C-15490*
+*Related: C-14394*
 
 **N-10074** Provo, Utah
 
 Provo Airport pickup and the Provo police service channel.
 
-*Related: C-15409, C-15490*
+*Related: C-14313, C-14394*
 
 **N-10388** Missing Money from Turning Point Action
 
 The host revisits the lead that $10 million was missing.
 
-*Related: C-15443, C-15444, C-15445, C-15458*
+*Related: C-14347, C-14348, C-14349, C-14362*
 
 **N-10434** Charlie Kirk DOGE Pre-Death Establishment
 
 The host (transcribed "Osha") says Charlie established DOGE seven days before he died because money was missing.
 
-*Related: C-15443*
+*Related: C-14347*
 
 **N-10533** Club America High School Pushback
 
 The host's warning about Club America in schools, tied to the Taylor Dodd arrest.
 
-*Related: C-15428, C-15429, C-15440*
+*Related: C-14332, C-14333, C-14344*
 
 **N-10827** Statue Vandalism Investigation
 
 "Statugate": vandalism of the Charlie Kirk statue at TPUSA headquarters and the fundraising that followed.
 
-*Related: C-15448, C-15449, C-15450, C-15451, C-15452, C-15453, C-15454, C-15455, C-15456, C-15459*
+*Related: C-14352, C-14353, C-14354, C-14355, C-14356, C-14357, C-14358, C-14359, C-14360, C-14363*
 
 **N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction
 
 The host repeats her request to identify the fire captain who performed CPR.
 
-*Related: C-15488, C-15489, C-15490, C-15491, C-15492, C-15493*
+*Related: C-14392, C-14393, C-14394, C-14395, C-14396, C-14397*
 
 **N-10925** Turning Point Action
 
 The 501c4 arm. The host says it is out of money and pushed Commit 100 after the vandalism.
 
-*Related: C-15404, C-15441, C-15442, C-15443, C-15446, C-15447, C-15451, C-15452, C-15457, C-15459*
+*Related: C-14308, C-14345, C-14346, C-14347, C-14350, C-14351, C-14355, C-14356, C-14361, C-14363*
 
 **N-11313** Candace Owens Leave and Baron Coleman Substitute Hosting
 
 The host says Baron Coleman will take over the show.
 
-*Related: C-15481*
+*Related: C-14385*
 
 **N-962** Katie Zacharia
 
 First named by the host at 00:00:01 in episode 166. The new White House press secretary. Aliases: Katie Zacharia (transcript spelling); "Karine Jean-Pierre" at 00:27:02 and 00:27:35 is a mis-transcription or slip (see Optional Flags).
 
-*Related: C-15402, C-15460, C-15461, C-15462, C-15463, C-15464, C-15465, C-15466, C-15467, C-15468, C-15469, C-15470, C-15471, C-15472, C-15473, C-15474*
+*Related: C-14306, C-14364, C-14365, C-14366, C-14367, C-14368, C-14369, C-14370, C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, C-14377, C-14378*
 
 **N-959** Tyler Clancy
 
 First named by the host at 00:02:40 in episode 166. A Provo police officer and Utah House representative.
 
-*Related: C-15407, C-15408, C-15409, C-15410, C-15411, C-15412, C-15414, C-15420, C-15485, C-15486*
+*Related: C-14311, C-14312, C-14313, C-14314, C-14315, C-14316, C-14318, C-14324, C-14389, C-14390*
 
 **N-957** Val Peterson
 
 First named by the host at 00:07:34 in episode 166. The host's sources say he was with Governor Cox on September 10.
 
-*Related: C-15420, C-15421, C-15425, C-15426, C-15427*
+*Related: C-14324, C-14325, C-14329, C-14330, C-14331*
 
 **N-963** Charles Peterson
 
 First named by the host at 00:09:31 in episode 166. Val Peterson's brother ("Charles, Chuck"), whom the host says has legal issues.
 
-*Related: C-15427*
+*Related: C-14331*
 
 **N-967** Taylor Dodd
 
 First named by the host at 00:11:12 in episode 166. Former president of the Club America chapter in Bonners Ferry, Idaho, arrested on child sexually exploitative material charges, per the article the host reads. Alias: Todd (transcript, 00:11:12).
 
-*Related: C-15429, C-15430, C-15431, C-15432, C-15433, C-15434, C-15435, C-15436, C-15437, C-15438*
+*Related: C-14333, C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, C-14341, C-14342*
 
 **N-968** Brandon Blackmore
 
 First named by the host at 00:12:48 in episode 166. The officer whose report the Bonners Ferry Herald article cites in the Dodd case.
 
-*Related: C-15434*
+*Related: C-14338*
 
 **N-969** Anthony Scaramucci
 
 First named by the host at 00:27:02 in episode 166. The host cites him as a past press secretary.
 
-*Related: C-15460*
+*Related: C-14364*
 
 **N-970** Nidal Malik Hasan
 
 First named by the host at 00:38:18 in episode 166. The Fort Hood shooter, a former US Army major.
 
-*Related: C-15475, C-15478, C-15479, C-15480*
+*Related: C-14379, C-14382, C-14383, C-14384*
 
 **N-11434** Katie Zacharia Lawyer Credential Question
 
 Node Type: Topic
 Whether the new White House press secretary misrepresented herself as a lawyer and general counsel despite not passing the bar, and how credible her explanations are (Pepperdine president advice, China practice, "surprise baby").
 
-*Related: C-15402, C-15460, C-15461, C-15462, C-15463, C-15464, C-15465, C-15466, C-15467, C-15468, C-15469, C-15470, C-15471, C-15472, C-15473, C-15474, A-3405.1, A-3405.2*
+*Related: C-14306, C-14364, C-14365, C-14366, C-14367, C-14368, C-14369, C-14370, C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, C-14377, C-14378, A-3405.1, A-3405.2*
 
 **N-11435** Turning Point Action Funds Depletion Email
 
 Node Type: Topic
 Turning Point Action's October 2026 "we're broke" type email saying it burned through its financial resources on ballot chasing, which the host links to the missing-money lead and the statue fundraising.
 
-*Related: C-15404, C-15447, C-15457, C-15458, A-3404.1*
+*Related: C-14308, C-14351, C-14361, C-14362, A-3404.1*
 
 **N-11436** Commit 100 Ballot-Chasing Program
 
 Node Type: Topic
 Turning Point Action's program to chase 100 ballots in October, promoted via tpaction.com/100 after the statue vandalism.
 
-*Related: C-15404, C-15451, C-15452, C-15453, C-15456, A-3403.1, A-3403.2*
+*Related: C-14308, C-14355, C-14356, C-14357, C-14360, A-3403.1, A-3403.2*
 
 **N-11437** Governor Cox September 9–10, 2025 Schedule
 
 Node Type: Topic
 Governor Cox's published schedule for the week of September 8, 2025, whose entries the host says were mis-dated September 2 and 3 instead of September 9 and 10. It covers the Tyler Clancy meeting, the Rally Connects keynote in Mona, the Murray Park picnic and the reported golf with Val Peterson.
 
-*Related: C-15405, C-15406, C-15407, C-15420, C-15421, C-15422, C-15423, C-15424, C-15425, C-15426, A-3398.1, A-3399.1, A-3399.2*
+*Related: C-14309, C-14310, C-14311, C-14324, C-14325, C-14326, C-14327, C-14328, C-14329, C-14330, A-3398.1, A-3399.1, A-3399.2*
 
 **N-11438** Tyler Clancy Bloodied Bag Disposal
 
 Node Type: Topic
 The host's report that Officer Tyler Clancy disposed of a bloodied bag on September 10, which she deduces was Frank Turek's, and the differing accounts of why.
 
-*Related: C-15411, C-15412, C-15413, C-15414, C-15415, C-15485, C-15486*
+*Related: C-14315, C-14316, C-14317, C-14318, C-14319, C-14389, C-14390*
 
 **N-11439** Taylor Dodd Arrest and Club America Affiliation Scrub
 
 Node Type: Topic
 The arrest of former Bonners Ferry Club America chapter president Taylor Dodd on child sexually exploitative material charges, and the host's allegation that TPUSA scrubbed its affiliation online.
 
-*Related: C-15403, C-15429, C-15430, C-15431, C-15432, C-15433, C-15434, C-15435, C-15436, C-15437, C-15438, C-15439, C-15440, A-3398.2, A-3402.1, A-3402.2*
+*Related: C-14307, C-14333, C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, C-14341, C-14342, C-14343, C-14344, A-3398.2, A-3402.1, A-3402.2*
 
 **N-11440** Bonners Ferry Herald
 
 Node Type: Organization
 Local Idaho newspaper whose article on the Taylor Dodd arrest the host reads.
 
-*Related: C-15430, C-15431, A-3402.1*
+*Related: C-14334, C-14335, A-3402.1*
 
 **N-11441** Pepperdine University
 
 Node Type: Organization
 Katie Zacharia's law school. She says its president advised her on how to describe herself, and her father-in-law was an adjunct professor at Pepperdine Law.
 
-*Related: C-15463, C-15467*
+*Related: C-14367, C-14371*
 
 **N-11442** Jun He Law Firm
 
 Node Type: Organization
 Chinese law firm whose international practice division Katie Zacharia says employed her in China.
 
-*Related: C-15470, C-15471*
+*Related: C-14374, C-14375*
 
 **N-11443** Fort Hood Shooter Execution Livestream Question
 
 Node Type: Topic
 The announced plan to livestream the execution of Nidal Malik Hasan, the debate it set off, and Trump's Truth Social reversal.
 
-*Related: C-15475, C-15476, C-15478, C-15479, C-15480, A-3406.1, A-3407.1*
+*Related: C-14379, C-14380, C-14382, C-14383, C-14384, A-3406.1, A-3407.1*
 
 **N-11444** TPUSA AI Charlie and Never-Before-Seen Speeches Question
 
 Node Type: Topic
 Whether TPUSA planned to use an AI-generated Charlie Kirk for its promised "never before seen" Charlie speeches.
 
-*Related: C-15482, C-15483, A-3408.1*
+*Related: C-14386, C-14387, A-3408.1*
 
 ---
 
 ## 5. Claim Register
 
-**C-15402** Host Says Katie Zacharia Now Acknowledges She Is Not an Attorney
+**C-14306** Host Says Katie Zacharia Now Acknowledges She Is Not an Attorney
 
 Claim Timestamp: 00:00:08
 
@@ -602,7 +602,7 @@ Investigative Direction: Zacharia's public statements and interviews of October 
 
 ---
 
-**C-15403** Host Says TPUSA Tried to Scrub Its Affiliation From a Recent Arrest
+**C-14307** Host Says TPUSA Tried to Scrub Its Affiliation From a Recent Arrest
 
 Claim Timestamp: 00:00:40
 
@@ -618,7 +618,7 @@ Investigative Direction: Archived versions of the local article and TPUSA / Club
 
 ---
 
-**C-15404** Host Says Turning Point Action Is Sending "We're Broke" Emails
+**C-14308** Host Says Turning Point Action Is Sending "We're Broke" Emails
 
 Claim Timestamp: 00:00:52
 
@@ -634,7 +634,7 @@ Investigative Direction: The Turning Point Action donor email itself and Turning
 
 ---
 
-**C-15405** Viewer Tip to the Tip Line Flagged a Mistake in Cox's Published Schedule
+**C-14309** Viewer Tip to the Tip Line Flagged a Mistake in Cox's Published Schedule
 
 Claim Timestamp: 00:01:52
 
@@ -650,7 +650,7 @@ Investigative Direction: The governor's office's published schedule release for 
 
 ---
 
-**C-15406** Host Says Cox's Schedule Entries for September 2 and 3 Were Meant to Be September 9 and 10
+**C-14310** Host Says Cox's Schedule Entries for September 2 and 3 Were Meant to Be September 9 and 10
 
 Claim Timestamp: 00:02:22
 
@@ -666,7 +666,7 @@ Investigative Direction: The governor's office's confirmation of the dates, and 
 
 ---
 
-**C-15407** Host Says Tyler Clancy's Private Meeting With Cox Was on the Evening of September 9
+**C-14311** Host Says Tyler Clancy's Private Meeting With Cox Was on the Evening of September 9
 
 Claim Timestamp: 00:02:43
 
@@ -682,7 +682,7 @@ Investigative Direction: The governor's calendar and visitor log for September 9
 
 ---
 
-**C-15408** Host Says Clancy Allegedly Was Selected to Drive TPUSA Staff to the Airport to Pick Up Erika
+**C-14312** Host Says Clancy Allegedly Was Selected to Drive TPUSA Staff to the Airport to Pick Up Erika
 
 Claim Timestamp: 00:02:58
 
@@ -698,7 +698,7 @@ Investigative Direction: Provo Police Department dispatch and assignment records
 
 ---
 
-**C-15409** Radio Audio Has an Officer Saying He and Sergeant DePay Are En Route to Provo Airport
+**C-14313** Radio Audio Has an Officer Saying He and Sergeant DePay Are En Route to Provo Airport
 
 Claim Timestamp: 00:03:40
 
@@ -714,7 +714,7 @@ Investigative Direction: Provo police radio recordings for September 10, 2025, a
 
 ---
 
-**C-15410** Host Says the Radio Voice Sounds Like Clancy in Other Interviews
+**C-14314** Host Says the Radio Voice Sounds Like Clancy in Other Interviews
 
 Claim Timestamp: 00:03:53
 
@@ -730,7 +730,7 @@ Investigative Direction: Voice comparison with Clancy's public interviews, and t
 
 ---
 
-**C-15411** Host Says Officer Clancy Disposed of a Bloodied TPUSA-Affiliated Item
+**C-14315** Host Says Officer Clancy Disposed of a Bloodied TPUSA-Affiliated Item
 
 Claim Timestamp: 00:04:02
 
@@ -746,7 +746,7 @@ Investigative Direction: Provo police evidence and property logs for September 1
 
 ---
 
-**C-15412** Host Deduces the Bag Was Frank Turek's Because He Said He Told an Officer to Throw It Out
+**C-14316** Host Deduces the Bag Was Frank Turek's Because He Said He Told an Officer to Throw It Out
 
 Claim Timestamp: 00:04:15
 
@@ -762,7 +762,7 @@ Investigative Direction: Turek's interview in which he describes the bag, and Cl
 
 ---
 
-**C-15413** Turek Said Charlie's Body Had Been on Top of the Bag in the Car
+**C-14317** Turek Said Charlie's Body Had Been on Top of the Bag in the Car
 
 Claim Timestamp: 00:04:30
 
@@ -778,7 +778,7 @@ Investigative Direction: Turek's recorded interview, and the vehicle occupants' 
 
 ---
 
-**C-15414** Host Is Told Clancy Said He Threw the Bag Out on His Own Because It Was Left in His Car
+**C-14318** Host Is Told Clancy Said He Threw the Bag Out on His Own Because It Was Left in His Car
 
 Claim Timestamp: 00:04:55
 
@@ -794,7 +794,7 @@ Investigative Direction: Interviews with the people Clancy reportedly told, and 
 
 ---
 
-**C-15415** Host Doubts It Is Police Protocol to Toss a Blood-Covered Bag From a Murder Victim
+**C-14319** Host Doubts It Is Police Protocol to Toss a Blood-Covered Bag From a Murder Victim
 
 Claim Timestamp: 00:05:15
 
@@ -810,7 +810,7 @@ Investigative Direction: Provo Police Department evidence-handling policy.
 
 ---
 
-**C-15416** Host Says Utahns Say Governor Cox's "Boys" Were All Over the Kirk Case
+**C-14320** Host Says Utahns Say Governor Cox's "Boys" Were All Over the Kirk Case
 
 Claim Timestamp: 00:05:58
 
@@ -826,7 +826,7 @@ Investigative Direction: Personnel assignments in the state agencies on the case
 
 ---
 
-**C-15417** Host Says Cox Called It Politically Motivated Immediately, Without Evidence
+**C-14321** Host Says Cox Called It Politically Motivated Immediately, Without Evidence
 
 Claim Timestamp: 00:06:28
 
@@ -842,7 +842,7 @@ Investigative Direction: Cox's press conferences and statements of September 10�
 
 ---
 
-**C-15418** Host Says Cox Made the Rooftop Clothing-Change Claim on September 12 With Kash Patel Behind Him
+**C-14322** Host Says Cox Made the Rooftop Clothing-Change Claim on September 12 With Kash Patel Behind Him
 
 Claim Timestamp: 00:06:50
 
@@ -853,13 +853,13 @@ Transcript Snippet: He he reported that with Kash Patel behind him on September 
 Anchored Artifacts: A-3401.1
 Mentions: N-41, N-69
 Related Nodes: N-10012
-Supports: C-3060, C-3061
+Supports: C-10961, C-10963
 Tags: relevance:core
 Investigative Direction: Video of the September 12, 2025 press conference and the timeline of the surveillance footage review.
 
 ---
 
-**C-15419** Clip Has Cox Saying the Shooter Changed Clothes on the Roof and Back
+**C-14323** Clip Has Cox Saying the Shooter Changed Clothes on the Roof and Back
 
 Claim Timestamp: 00:07:05
 
@@ -870,13 +870,13 @@ Transcript Snippet: he has different clothing on and then he changes clothing on
 Anchored Artifacts: A-3401.1
 Mentions: N-41
 Related Nodes:
-Supports: C-3060
+Supports: C-10961
 Tags: relevance:core
 Investigative Direction: The charging documents and surveillance footage on the suspect's clothing.
 
 ---
 
-**C-15420** Host Asks Whether Cox Golfed With Val Peterson on September 10 After Seeing Clancy on September 9
+**C-14324** Host Asks Whether Cox Golfed With Val Peterson on September 10 After Seeing Clancy on September 9
 
 Claim Timestamp: 00:07:55
 
@@ -892,7 +892,7 @@ Investigative Direction: Golf-course tee-time records for the morning of Septemb
 
 ---
 
-**C-15421** Host Says Golf With Val Peterson Is Not on Cox's Official Schedule
+**C-14325** Host Says Golf With Val Peterson Is Not on Cox's Official Schedule
 
 Claim Timestamp: 00:08:10
 
@@ -908,7 +908,7 @@ Investigative Direction: The published schedule for September 10, 2025.
 
 ---
 
-**C-15422** Host Says Cox Keynoted the Rally Connects Trade Show in Mona at 9:00 a.m. on September 10
+**C-14326** Host Says Cox Keynoted the Rally Connects Trade Show in Mona at 9:00 a.m. on September 10
 
 Claim Timestamp: 00:08:18
 
@@ -924,7 +924,7 @@ Investigative Direction: The Rally Connects 2025 event program and attendee phot
 
 ---
 
-**C-15423** Host Says a LinkedIn Photo From the AV Company Corroborates Cox's Attendance
+**C-14327** Host Says a LinkedIn Photo From the AV Company Corroborates Cox's Attendance
 
 Claim Timestamp: 00:08:28
 
@@ -940,7 +940,7 @@ Investigative Direction: The LinkedIn post and its timestamp, and the AV company
 
 ---
 
-**C-15424** Host Says Cox's Next Event Was a DEQ Staff Picnic in Murray Park at 11:30 a.m.
+**C-14328** Host Says Cox's Next Event Was a DEQ Staff Picnic in Murray Park at 11:30 a.m.
 
 Claim Timestamp: 00:08:40
 
@@ -956,7 +956,7 @@ Investigative Direction: Utah DEQ records or photos of the September 10, 2025 st
 
 ---
 
-**C-15425** Host Suggests Any Golf With Val Peterson Was Before the 9:00 a.m. Event
+**C-14329** Host Suggests Any Golf With Val Peterson Was Before the 9:00 a.m. Event
 
 Claim Timestamp: 00:08:55
 
@@ -972,7 +972,7 @@ Investigative Direction: Golf-course tee sheets for early September 10, 2025, an
 
 ---
 
-**C-15426** Host Says Her Independent Sources Put Val Peterson With Cox on September 10
+**C-14330** Host Says Her Independent Sources Put Val Peterson With Cox on September 10
 
 Claim Timestamp: 00:09:13
 
@@ -988,7 +988,7 @@ Investigative Direction: The governor's office response to the host's inquiry, a
 
 ---
 
-**C-15427** Host Says Val Peterson's Brother Charles Has Legal Issues
+**C-14331** Host Says Val Peterson's Brother Charles Has Legal Issues
 
 Claim Timestamp: 00:09:43
 
@@ -1004,7 +1004,7 @@ Investigative Direction: Idaho court records for Charles Peterson.
 
 ---
 
-**C-15428** Host Alleges Sexual Deviants and Pastors With Checkered Backgrounds Work at TPUSA
+**C-14332** Host Alleges Sexual Deviants and Pastors With Checkered Backgrounds Work at TPUSA
 
 Claim Timestamp: 00:10:25
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Background checks and court records for TPUSA and TPUSA
 
 ---
 
-**C-15429** Host Says Former Bonners Ferry Club America President Taylor Dodd Spoke at Charlie Kirk's Vigil
+**C-14333** Host Says Former Bonners Ferry Club America President Taylor Dodd Spoke at Charlie Kirk's Vigil
 
 Claim Timestamp: 00:11:14
 
@@ -1036,7 +1036,7 @@ Investigative Direction: Local coverage or video of the Bonners Ferry Charlie Ki
 
 ---
 
-**C-15430** Bonners Ferry Herald Reports Dodd Arrested on Child Sexually Exploitative Material Charges
+**C-14334** Bonners Ferry Herald Reports Dodd Arrested on Child Sexually Exploitative Material Charges
 
 Claim Timestamp: 00:11:58
 
@@ -1052,7 +1052,7 @@ Investigative Direction: The Bonners Ferry Herald article and the Boundary Count
 
 ---
 
-**C-15431** Article Says Dodd Was Arrested in Early September on Seven Felony Counts After a Discord Tip to ICAC
+**C-14335** Article Says Dodd Was Arrested in Early September on Seven Felony Counts After a Discord Tip to ICAC
 
 Claim Timestamp: 00:12:18
 
@@ -1068,7 +1068,7 @@ Investigative Direction: The charging documents and the Idaho ICAC case referral
 
 ---
 
-**C-15432** Article Says the Images Were Downloaded in Early April
+**C-14336** Article Says the Images Were Downloaded in Early April
 
 Claim Timestamp: 00:12:43
 
@@ -1084,7 +1084,7 @@ Investigative Direction: The court documents in the Dodd case.
 
 ---
 
-**C-15433** Article Says Telegram and Threads Were Also Used to Buy and Download Images
+**C-14337** Article Says Telegram and Threads Were Also Used to Buy and Download Images
 
 Claim Timestamp: 00:12:55
 
@@ -1100,7 +1100,7 @@ Investigative Direction: The court documents in the Dodd case.
 
 ---
 
-**C-15434** Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone
+**C-14338** Officer Blackmore's Report Says 116 Images Were Allegedly Saved to Dodd's Phone
 
 Claim Timestamp: 00:13:05
 
@@ -1116,7 +1116,7 @@ Investigative Direction: The officer's probable-cause affidavit.
 
 ---
 
-**C-15435** Article Says the Ages Allegedly Ranged From 3 to 15
+**C-14339** Article Says the Ages Allegedly Ranged From 3 to 15
 
 Claim Timestamp: 00:13:20
 
@@ -1132,7 +1132,7 @@ Investigative Direction: The court documents in the Dodd case.
 
 ---
 
-**C-15436** Article Says Dodd Confessed and Wrote an Apology to His Parents
+**C-14340** Article Says Dodd Confessed and Wrote an Apology to His Parents
 
 Claim Timestamp: 00:13:35
 
@@ -1148,7 +1148,7 @@ Investigative Direction: The case file and the plea record.
 
 ---
 
-**C-15437** Host Says TPUSA Tried to Scrub Its Affiliation, Leaving Broken Links
+**C-14341** Host Says TPUSA Tried to Scrub Its Affiliation, Leaving Broken Links
 
 Claim Timestamp: 00:14:18
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Wayback Machine captures of Club America / TPUSA chapte
 
 ---
 
-**C-15438** Host Thanks a Sleuth Who Emailed the Dodd Lead
+**C-14342** Host Thanks a Sleuth Who Emailed the Dodd Lead
 
 Claim Timestamp: 00:14:26
 
@@ -1180,7 +1180,7 @@ Investigative Direction: The tip email and its source material.
 
 ---
 
-**C-15439** Host Alleges a Friend Scrubbed "Club America" From a Local News Article
+**C-14343** Host Alleges a Friend Scrubbed "Club America" From a Local News Article
 
 Claim Timestamp: 00:14:58
 
@@ -1196,7 +1196,7 @@ Investigative Direction: Archived versions of the letter to the editor, and the 
 
 ---
 
-**C-15440** Letter to the Editor Originally Named a Club America Homeschool Hub
+**C-14344** Letter to the Editor Originally Named a Club America Homeschool Hub
 
 Claim Timestamp: 00:15:15
 
@@ -1212,7 +1212,7 @@ Investigative Direction: Archived versions of the letter to the editor.
 
 ---
 
-**C-15441** Host Alleges Turning Point Action Is Run by "a Sexual Deviant", Tyler Bowyer
+**C-14345** Host Alleges Turning Point Action Is Run by "a Sexual Deviant", Tyler Bowyer
 
 Claim Timestamp: 00:16:24
 
@@ -1228,7 +1228,7 @@ Investigative Direction: The basis for the host's allegation, and court or polic
 
 ---
 
-**C-15442** Host Says Mikey McCoy Told Donors Charlie Wanted to Fire Bowyer
+**C-14346** Host Says Mikey McCoy Told Donors Charlie Wanted to Fire Bowyer
 
 Claim Timestamp: 00:16:30
 
@@ -1239,13 +1239,13 @@ Transcript Snippet: Charlie wanted to fire uh Tyler Bowyer before he passed. Tha
 Anchored Artifacts:
 Mentions: N-1, N-11, N-190
 Related Nodes: N-10925
-Supports: C-6276
+Supports: C-13634
 Tags: relevance:core
 Investigative Direction: The donors McCoy reportedly told, and Charlie Kirk's September 2025 personnel emails.
 
 ---
 
-**C-15443** Host Was Told Charlie Set Up DOGE Seven Days Before His Death Because Turning Point Action Money Was Missing
+**C-14347** Host Was Told Charlie Set Up DOGE Seven Days Before His Death Because Turning Point Action Money Was Missing
 
 Claim Timestamp: 00:16:45
 
@@ -1256,13 +1256,13 @@ Transcript Snippet: the reason that Charlie had established Osha, as I've said t
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10434, N-10388, N-10925
-Supports: C-4055
+Supports: C-9202
 Tags: relevance:core
 Investigative Direction: Charlie Kirk's September 2, 2025 email on the DOGE audit, and Turning Point Action's audited financials.
 
 ---
 
-**C-15444** Host's Sources Said $10 Million Was Missing and Charlie Wanted to Know Where It Went
+**C-14348** Host's Sources Said $10 Million Was Missing and Charlie Wanted to Know Where It Went
 
 Claim Timestamp: 00:17:00
 
@@ -1273,13 +1273,13 @@ Transcript Snippet: was that $10 million was missing. And Charlie wanted to know
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10388
-Supports: C-4055, C-4081
+Supports: C-9202, C-9228
 Tags: relevance:core
 Investigative Direction: Turning Point Action Form 990 and audit reports for 2024–2025.
 
 ---
 
-**C-15445** Host Says Justin Streiff Denied the Missing-Money Lead
+**C-14349** Host Says Justin Streiff Denied the Missing-Money Lead
 
 Claim Timestamp: 00:17:10
 
@@ -1295,7 +1295,7 @@ Investigative Direction: Streiff's response to the host on the record, and Turni
 
 ---
 
-**C-15446** Host Says Lori Frantzve and Tyler Bowyer Have Worked Together Since Before Charlie
+**C-14350** Host Says Lori Frantzve and Tyler Bowyer Have Worked Together Since Before Charlie
 
 Claim Timestamp: 00:17:45
 
@@ -1311,7 +1311,7 @@ Investigative Direction: Business filings and organizational records linking Lor
 
 ---
 
-**C-15447** Host Says Turning Point Action Says It Spent Its Money on Ballot Chasing
+**C-14351** Host Says Turning Point Action Says It Spent Its Money on Ballot Chasing
 
 Claim Timestamp: 00:18:15
 
@@ -1327,7 +1327,7 @@ Investigative Direction: FEC and IRS filings for Turning Point Action and its PA
 
 ---
 
-**C-15448** Host Says Tyler Bowyer Presented the Newly Erected Charlie Kirk Statue at Headquarters
+**C-14352** Host Says Tyler Bowyer Presented the Newly Erected Charlie Kirk Statue at Headquarters
 
 Claim Timestamp: 00:18:35
 
@@ -1343,7 +1343,7 @@ Investigative Direction: TPUSA posts and video of the statue unveiling.
 
 ---
 
-**C-15449** TPUSA Said the Statue Was Vandalized by the Left at 1:00 a.m.
+**C-14353** TPUSA Said the Statue Was Vandalized by the Left at 1:00 a.m.
 
 Claim Timestamp: 00:18:52
 
@@ -1354,13 +1354,13 @@ Transcript Snippet: they said over the weekend at 1:00 a.m. in the morning the s
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10827, N-10000
-Supports: C-3442, C-11757
+Supports: C-13047, C-13003
 Tags: relevance:core
 Investigative Direction: The Phoenix police report on the statue vandalism.
 
 ---
 
-**C-15450** Host Says TPUSA Would Not Share Surveillance Footage of the Vandalism
+**C-14354** Host Says TPUSA Would Not Share Surveillance Footage of the Vandalism
 
 Claim Timestamp: 00:19:08
 
@@ -1376,7 +1376,7 @@ Investigative Direction: TPUSA headquarters security footage, and police request
 
 ---
 
-**C-15451** Host Says the Only Thing TPUSA Shared Was Links to Donate to Ballot Chasing
+**C-14355** Host Says the Only Thing TPUSA Shared Was Links to Donate to Ballot Chasing
 
 Claim Timestamp: 00:19:45
 
@@ -1392,7 +1392,7 @@ Investigative Direction: TPUSA and Turning Point Action social posts in the 72 h
 
 ---
 
-**C-15452** Host Says TPUSA Directed People to the 501c4 Action Arm Rather Than the 501c3
+**C-14356** Host Says TPUSA Directed People to the 501c4 Action Arm Rather Than the 501c3
 
 Claim Timestamp: 00:20:20
 
@@ -1408,7 +1408,7 @@ Investigative Direction: The donation links in TPUSA's posts after the vandalism
 
 ---
 
-**C-15453** Clip Says the Commit 100 Program Surged After the Vandalism News
+**C-14357** Clip Says the Commit 100 Program Surged After the Vandalism News
 
 Claim Timestamp: 00:20:47
 
@@ -1419,13 +1419,13 @@ Transcript Snippet: After this news broke, uh the Commit 100 program that we've 
 Anchored Artifacts: A-3403.1
 Mentions:
 Related Nodes: N-11436, N-10827
-Supports: C-3436
+Supports: C-13052
 Tags: relevance:core
 Investigative Direction: The source broadcast of the clip, and Commit 100 sign-up numbers.
 
 ---
 
-**C-15454** Clip Says Friends of Charlie and Erika Put Up a $10,000 Reward
+**C-14358** Clip Says Friends of Charlie and Erika Put Up a $10,000 Reward
 
 Claim Timestamp: 00:21:28
 
@@ -1441,7 +1441,7 @@ Investigative Direction: The reward announcement, and police tip records.
 
 ---
 
-**C-15455** Host Says the Vandals Have Not Been Caught
+**C-14359** Host Says the Vandals Have Not Been Caught
 
 Claim Timestamp: 00:21:42
 
@@ -1457,7 +1457,7 @@ Investigative Direction: The Phoenix police case status on the statue vandalism.
 
 ---
 
-**C-15456** Bowyer Tweeted a Surge of Commit 100 Volunteers After the Vandalism
+**C-14360** Bowyer Tweeted a Surge of Commit 100 Volunteers After the Vandalism
 
 Claim Timestamp: 00:21:52
 
@@ -1468,13 +1468,13 @@ Transcript Snippet: After what the left did to our headquarters today, we have a
 Anchored Artifacts: A-3403.2
 Mentions: N-11
 Related Nodes: N-11436, N-10827
-Supports: C-3427
+Supports: C-13053
 Tags: relevance:core
 Investigative Direction: Bowyer's X post archive.
 
 ---
 
-**C-15457** Turning Point Action Email Says It Burned Through Its Financial Resources Faster Than Planned
+**C-14361** Turning Point Action Email Says It Burned Through Its Financial Resources Faster Than Planned
 
 Claim Timestamp: 00:22:48
 
@@ -1490,7 +1490,7 @@ Investigative Direction: The original email, and Turning Point Action's cash-on-
 
 ---
 
-**C-15458** Host Says TPUSA Employees Dispute Streiff's Denial
+**C-14362** Host Says TPUSA Employees Dispute Streiff's Denial
 
 Claim Timestamp: 00:23:30
 
@@ -1506,7 +1506,7 @@ Investigative Direction: Interviews with TPUSA staff, and Turning Point Action f
 
 ---
 
-**C-15459** Host Suspects the Statue Episode Was Meant as a Fundraiser Push
+**C-14363** Host Suspects the Statue Episode Was Meant as a Fundraiser Push
 
 Claim Timestamp: 00:23:50
 
@@ -1522,7 +1522,7 @@ Investigative Direction: The police vandalism report, the surveillance footage, 
 
 ---
 
-**C-15460** Host Says Being a Lawyer Is Not Required for Press Secretary, Citing Scaramucci
+**C-14364** Host Says Being a Lawyer Is Not Required for Press Secretary, Citing Scaramucci
 
 Claim Timestamp: 00:27:28
 
@@ -1538,7 +1538,7 @@ Investigative Direction: White House staff records. Scaramucci was White House C
 
 ---
 
-**C-15461** Host Says Zacharia Calls Her Lawyer Claim a Mix-Up
+**C-14365** Host Says Zacharia Calls Her Lawyer Claim a Mix-Up
 
 Claim Timestamp: 00:27:55
 
@@ -1554,7 +1554,7 @@ Investigative Direction: Zacharia's statements to Fox News, CBS News and Jack Po
 
 ---
 
-**C-15462** Host Says the Wall Street Journal Broke That Zacharia Did Not Pass the Bar
+**C-14366** Host Says the Wall Street Journal Broke That Zacharia Did Not Pass the Bar
 
 Claim Timestamp: 00:28:20
 
@@ -1570,7 +1570,7 @@ Investigative Direction: The Wall Street Journal report, and California State Ba
 
 ---
 
-**C-15463** Host Says Zacharia Was Told by Pepperdine's President She Could Call Herself a Lawyer
+**C-14367** Host Says Zacharia Was Told by Pepperdine's President She Could Call Herself a Lawyer
 
 Claim Timestamp: 00:28:30
 
@@ -1586,7 +1586,7 @@ Investigative Direction: Pepperdine University comment, and Zacharia's full stat
 
 ---
 
-**C-15464** Host Says Zacharia's LinkedIn Lists Her as a General Counsel
+**C-14368** Host Says Zacharia's LinkedIn Lists Her as a General Counsel
 
 Claim Timestamp: 00:28:52
 
@@ -1602,7 +1602,7 @@ Investigative Direction: Archived captures of Zacharia's LinkedIn profile.
 
 ---
 
-**C-15465** Supercut Has Zacharia Calling Herself a Former Corporate Lawyer in China for Three Years
+**C-14369** Supercut Has Zacharia Calling Herself a Former Corporate Lawyer in China for Three Years
 
 Claim Timestamp: 00:29:15
 
@@ -1618,7 +1618,7 @@ Investigative Direction: The source broadcasts of each supercut clip.
 
 ---
 
-**C-15466** Supercut Has Zacharia Saying "I Am a Lawyer" and Citing Her Research on Fauci
+**C-14370** Supercut Has Zacharia Saying "I Am a Lawyer" and Citing Her Research on Fauci
 
 Claim Timestamp: 00:29:22
 
@@ -1634,7 +1634,7 @@ Investigative Direction: The source broadcasts of the supercut clips.
 
 ---
 
-**C-15467** Zacharia Says Her Father-in-Law, a Pepperdine Law Adjunct, Introduced Her to Her Husband
+**C-14371** Zacharia Says Her Father-in-Law, a Pepperdine Law Adjunct, Introduced Her to Her Husband
 
 Claim Timestamp: 00:30:45
 
@@ -1650,7 +1650,7 @@ Investigative Direction: Pepperdine Law faculty records.
 
 ---
 
-**C-15468** Zacharia Says She Took the Bar Already Pre-Registered, Knowing They Would Move to China
+**C-14372** Zacharia Says She Took the Bar Already Pre-Registered, Knowing They Would Move to China
 
 Claim Timestamp: 00:31:05
 
@@ -1666,7 +1666,7 @@ Investigative Direction: California State Bar exam records for 2011.
 
 ---
 
-**C-15469** Zacharia Says the Bar Results Were Somewhat Inconsequential Because She Would Not Need the Bar in China
+**C-14373** Zacharia Says the Bar Results Were Somewhat Inconsequential Because She Would Not Need the Bar in China
 
 Claim Timestamp: 00:31:30
 
@@ -1682,7 +1682,7 @@ Investigative Direction: Her bar exam result record.
 
 ---
 
-**C-15470** Zacharia Says She Worked in Jun He Law Firm's International Practice Division
+**C-14374** Zacharia Says She Worked in Jun He Law Firm's International Practice Division
 
 Claim Timestamp: 00:31:50
 
@@ -1698,7 +1698,7 @@ Investigative Direction: JunHe Law Offices employment confirmation.
 
 ---
 
-**C-15471** Zacharia Says There Is No Chinese Bar and Her Law Degree Was Enough Credential
+**C-14375** Zacharia Says There Is No Chinese Bar and Her Law Degree Was Enough Credential
 
 Claim Timestamp: 00:32:10
 
@@ -1714,7 +1714,7 @@ Investigative Direction: PRC rules on foreign lawyers in Chinese firms.
 
 ---
 
-**C-15472** Zacharia Says She Did Not Retake the Bar Because of a "Surprise Baby"
+**C-14376** Zacharia Says She Did Not Retake the Bar Because of a "Surprise Baby"
 
 Claim Timestamp: 00:32:45
 
@@ -1730,7 +1730,7 @@ Investigative Direction: The timeline of Zacharia's return from China.
 
 ---
 
-**C-15473** Host Says Her Research Shows the Bar Is Given Twice a Year and Can Be Retaken
+**C-14377** Host Says Her Research Shows the Bar Is Given Twice a Year and Can Be Retaken
 
 Claim Timestamp: 00:33:40
 
@@ -1746,7 +1746,7 @@ Investigative Direction: State Bar of California exam schedule and retake rules.
 
 ---
 
-**C-15474** Host Says Having a Baby Does Not Preclude Taking the Bar
+**C-14378** Host Says Having a Baby Does Not Preclude Taking the Bar
 
 Claim Timestamp: 00:34:00
 
@@ -1762,7 +1762,7 @@ Investigative Direction: State bar eligibility and accommodation rules.
 
 ---
 
-**C-15475** Host Says Hegseth Announced the Fort Hood Shooter Would Be Executed on Livestream
+**C-14379** Host Says Hegseth Announced the Fort Hood Shooter Would Be Executed on Livestream
 
 Claim Timestamp: 00:34:50
 
@@ -1778,7 +1778,7 @@ Investigative Direction: Hegseth's statement and Department of War / Army releas
 
 ---
 
-**C-15476** Clip Has Charlie Kirk Saying He Would Oppose the Death Penalty in America for Now
+**C-14380** Clip Has Charlie Kirk Saying He Would Oppose the Death Penalty in America for Now
 
 Claim Timestamp: 00:36:38
 
@@ -1794,7 +1794,7 @@ Investigative Direction: The source episode of the clip and its date.
 
 ---
 
-**C-15477** Host Says in Her Opinion the Epstein Class Set Up Charlie's Assassination and Robinson Did Not Act Alone
+**C-14381** Host Says in Her Opinion the Epstein Class Set Up Charlie's Assassination and Robinson Did Not Act Alone
 
 Claim Timestamp: 00:38:08
 
@@ -1810,7 +1810,7 @@ Investigative Direction: Evidence at Robinson's preliminary hearing and trial on
 
 ---
 
-**C-15478** Host Says Trump's Truth Social Post Said Hasan's Execution Would Not Be Livestreamed
+**C-14382** Host Says Trump's Truth Social Post Said Hasan's Execution Would Not Be Livestreamed
 
 Claim Timestamp: 00:38:35
 
@@ -1826,7 +1826,7 @@ Investigative Direction: Trump's Truth Social post of October 2026.
 
 ---
 
-**C-15479** Host Says Trump's Post Called Hasan Scum but Noted People Would Rather Not Watch Him Die
+**C-14383** Host Says Trump's Post Called Hasan Scum but Noted People Would Rather Not Watch Him Die
 
 Claim Timestamp: 00:38:52
 
@@ -1842,7 +1842,7 @@ Investigative Direction: The text of the Truth Social post, and Andrew Wilson's 
 
 ---
 
-**C-15480** Host Says Trump's Post Lets Victims' Families View the Execution
+**C-14384** Host Says Trump's Post Lets Victims' Families View the Execution
 
 Claim Timestamp: 00:39:45
 
@@ -1858,7 +1858,7 @@ Investigative Direction: The text of the Truth Social post.
 
 ---
 
-**C-15481** Host Says She Selected Baron Coleman to Take Over the Show
+**C-14385** Host Says She Selected Baron Coleman to Take Over the Show
 
 Claim Timestamp: 00:42:25
 
@@ -1874,7 +1874,7 @@ Investigative Direction: Episodes hosted by Baron Coleman during the host's leav
 
 ---
 
-**C-15482** Viewer Comment Says Erika Kirk's Team Never Released the Promised Never-Before-Seen Charlie Episodes
+**C-14386** Viewer Comment Says Erika Kirk's Team Never Released the Promised Never-Before-Seen Charlie Episodes
 
 Claim Timestamp: 00:44:35
 
@@ -1890,7 +1890,7 @@ Investigative Direction: TPUSA announcements promising unreleased Charlie Kirk m
 
 ---
 
-**C-15483** Host Thinks TPUSA Was Going to Use an AI Charlie
+**C-14387** Host Thinks TPUSA Was Going to Use an AI Charlie
 
 Claim Timestamp: 00:45:05
 
@@ -1906,7 +1906,7 @@ Investigative Direction: TPUSA vendor contracts for AI voice or likeness service
 
 ---
 
-**C-15484** Viewer Comment Says the Bloodied Bag Was Offered to Shawn Ryan
+**C-14388** Viewer Comment Says the Bloodied Bag Was Offered to Shawn Ryan
 
 Claim Timestamp: 00:47:33
 
@@ -1917,13 +1917,13 @@ Transcript Snippet: The bloodied bag was offered to Shawn Ryan.
 Anchored Artifacts: A-3408.2
 Mentions: N-224
 Related Nodes:
-Supports: C-4776
+Supports: C-10162
 Tags: relevance:core
 Investigative Direction: The Shawn Ryan Show episode with Brian Harpole.
 
 ---
 
-**C-15485** Host Says Harpole's Bag Is Separate From the Bag in the Clancy Story, Which Matches Turek's
+**C-14389** Host Says Harpole's Bag Is Separate From the Bag in the Clancy Story, Which Matches Turek's
 
 Claim Timestamp: 00:47:40
 
@@ -1939,7 +1939,7 @@ Investigative Direction: Accounts from Harpole, Turek and Clancy of each bag's c
 
 ---
 
-**C-15486** Host Asks for Information on Tyler Clancy and Says They Sought His Comment Before Publishing
+**C-14390** Host Asks for Information on Tyler Clancy and Says They Sought His Comment Before Publishing
 
 Claim Timestamp: 00:48:07
 
@@ -1955,7 +1955,7 @@ Investigative Direction: Clancy's response to the host's request for comment.
 
 ---
 
-**C-15487** Host Says She Has a Tip on Another Timely Cox Promotion in October
+**C-14391** Host Says She Has a Tip on Another Timely Cox Promotion in October
 
 Claim Timestamp: 00:48:28
 
@@ -1971,7 +1971,7 @@ Investigative Direction: Utah state appointment and promotion records for Octobe
 
 ---
 
-**C-15488** Host Asks for Tips at candaceowens.com and Floats a Bounty
+**C-14392** Host Asks for Tips at candaceowens.com and Floats a Bounty
 
 Claim Timestamp: 00:48:37
 
@@ -1987,7 +1987,7 @@ Investigative Direction: The tip inbox, and any formal bounty announcement.
 
 ---
 
-**C-15489** Host Seeks the Identity of the Fire Captain Who Performed CPR on Charlie at the Hospital
+**C-14393** Host Seeks the Identity of the Fire Captain Who Performed CPR on Charlie at the Hospital
 
 Claim Timestamp: 00:48:45
 
@@ -1998,13 +1998,13 @@ Transcript Snippet: information pertaining to who the fire captain was who perfo
 Anchored Artifacts: A-3398.3
 Mentions: N-1
 Related Nodes: N-10874
-Supports: C-3622
+Supports: C-13858
 Tags: relevance:core
 Investigative Direction: The UVU Independent Review, and Orem / Provo Fire Department rosters and run reports for September 10, 2025.
 
 ---
 
-**C-15490** Host Believes the Fire Captain Was From Fire Station Two in Orem or Provo
+**C-14394** Host Believes the Fire Captain Was From Fire Station Two in Orem or Provo
 
 Claim Timestamp: 00:49:08
 
@@ -2020,7 +2020,7 @@ Investigative Direction: Orem Fire Station 2 and Provo Fire Station 2 shift reco
 
 ---
 
-**C-15491** Host Says Neither Turek Nor Harpole Mentioned the Fire Captain's CPR
+**C-14395** Host Says Neither Turek Nor Harpole Mentioned the Fire Captain's CPR
 
 Claim Timestamp: 00:49:28
 
@@ -2031,13 +2031,13 @@ Transcript Snippet: neither Frank Turek in his many iterations of what happened,
 Anchored Artifacts:
 Mentions: N-7, N-266
 Related Nodes: N-10874
-Supports: C-3623
+Supports: C-13853
 Tags: relevance:core
 Investigative Direction: Turek's and Harpole's interview transcripts.
 
 ---
 
-**C-15492** Host Is Told the Fire Captain Information Is Being Intentionally Hushed
+**C-14396** Host Is Told the Fire Captain Information Is Being Intentionally Hushed
 
 Claim Timestamp: 00:49:40
 
@@ -2053,7 +2053,7 @@ Investigative Direction: Redactions in the UVU Independent Review, and a public-
 
 ---
 
-**C-15493** Host Asks for Direct-Knowledge Tips on the Fire Captain
+**C-14397** Host Asks for Direct-Knowledge Tips on the Fire Captain
 
 Claim Timestamp: 00:49:56
 
@@ -2370,12 +2370,12 @@ Confidence: high
 - MISTRANSCRIPTION: "Katie Zacharia" -> "Katie Zacharia" (00:00:01) source: https://abc30.com/story/white-house-press-secretary-katie-zacharia-says-she-did-not-pass-bar-exam/19943822/
 - MISTRANSCRIPTION: "Karine Jean-Pierre" -> "Katie Zacharia" (00:27:02, 00:27:35) source: https://abc30.com/story/white-house-press-secretary-katie-zacharia-says-she-did-not-pass-bar-exam/19943822/. Context (the new press secretary, Pepperdine, the bar exam) makes clear the subject is Zacharia. It is unconfirmed whether the captions erred or the host misspoke; if she misspoke, the claim prose keeps her words with [Katie Zacharia].
 - MISTRANSCRIPTION: "Tyler Bowyer" -> "Tyler Bowyer" (00:16:22, 00:17:27, 00:18:02, 00:18:32, 00:20:12, 00:21:48) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (matches N-11. Existing correction rule covers only "Tyler Bowyer").
-- MISTRANSCRIPTION: "Mikey McCormick" -> "Mikey McCoy" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (same proposition as C-6276, "Mikey McCoy told people Charlie wanted to fire Tyler Bowyer"). Medium confidence.
-- MISTRANSCRIPTION: "Osha" -> "DOGE" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1005 (corpus: C-10995 Sept 2 DOGE email, N-10434 Charlie Kirk DOGE Pre-Death Establishment). Medium confidence.
+- MISTRANSCRIPTION: "Mikey McCormick" -> "Mikey McCoy" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=982 (same proposition as C-13634, "Mikey McCoy told people Charlie wanted to fire Tyler Bowyer"). Medium confidence.
+- MISTRANSCRIPTION: "Osha" -> "DOGE" (00:16:22) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1005 (corpus: C-3462 Sept 2 DOGE email, N-10434 Charlie Kirk DOGE Pre-Death Establishment). Medium confidence.
 - MISTRANSCRIPTION: "Lori Frantzve" -> "Lori Frantzve" (00:17:27, 00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1047 (N-489, Erika Kirk's mother).
 - MISTRANSCRIPTION: "Justin's Tribe" -> "Justin Streiff" (00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1082 (N-15).
 - MISTRANSCRIPTION: "Frank and Bank" -> "Frank Turek" (00:03:51) and "Frank Church" -> "Frank Turek" (00:05:43) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=231 (N-7). Medium confidence.
-- MISTRANSCRIPTION: "Bobby Sausalito" -> "Bobby Sausalito" (00:23:39) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1419 (N-898, who covered the statue story in C-3434 / C-3444).
+- MISTRANSCRIPTION: "Bobby Sausalito" -> "Bobby Sausalito" (00:23:39) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1419 (N-898, who covered the statue story in C-13018 / C-13019).
 - MISTRANSCRIPTION: "candaceowens.com" -> "candaceowens.com" (00:49:45) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=2985
 - MISTRANSCRIPTION: "Erika" -> "Erika" (00:02:40, 00:10:02, 00:17:27, 00:21:16, 00:44:11) source: https://www.youtube.com/watch?v=YPIYYHCNPbE (N-2).
 - Transcription ambiguity: "two second favorite church" / "second favorite church" (00:49:45, 00:50:20) is "shirts".
@@ -2383,13 +2383,13 @@ Confidence: high
 - Transcription ambiguity: "Erika's mother, Superfeed." (00:17:27) is unresolved; not used in claims.
 - Transcription ambiguity: "Taylor Dodd" is also given as "Todd" at 00:11:12. The spelling was not confirmed by a web search ("Taylor Dodd" Bonners Ferry returned nothing). Kept as transcribed. UNRESOLVED.
 - Unresolved names: "Officer Brandon Blackmore" (00:12:48) and "Sergeant DePay" (00:03:12, radio clip) are not verified and kept as transcribed. "Cora Nichols" (00:15:04) is a private letter writer and was not minted as a node.
-- Verified: "Rally Connects Trade Show" in Mona matches the governor's published schedule listing "Speak at Rally Connects 2025, Location: Mona, UT", which is dated Wednesday Sept. 3 within the Sept 8–14, 2025 schedule. That date error is consistent with C-15406. Source: https://governor.utah.gov/uncategorized/news-release-gov-spencer-j-cox-and-lt-gov-deidre-m-henderson-public-schedule-9-8-25-9-14-25
+- Verified: "Rally Connects Trade Show" in Mona matches the governor's published schedule listing "Speak at Rally Connects 2025, Location: Mona, UT", which is dated Wednesday Sept. 3 within the Sept 8–14, 2025 schedule. That date error is consistent with C-14310. Source: https://governor.utah.gov/uncategorized/news-release-gov-spencer-j-cox-and-lt-gov-deidre-m-henderson-public-schedule-9-8-25-9-14-25
 - Verified: "Jun He Law Firm" is the Chinese firm JunHe Law Offices.
-- Factual note: C-15460 says Anthony Scaramucci was press secretary. He was White House Communications Director. Kept as said.
-- Factual note: C-15478, the host's "would not be executed" conflicts with her own later description that only the livestream was cancelled and families may view the execution. Kept verbatim.
-- Attribution: the Commit 100 clip speaker (00:20:44) is not named on air. Prior claim C-3436 attributes the same remarks to Andrew Kolvet, but this episode does not name him, so no person is added to Mentions.
+- Factual note: C-14364 says Anthony Scaramucci was press secretary. He was White House Communications Director. Kept as said.
+- Factual note: C-14382, the host's "would not be executed" conflicts with her own later description that only the livestream was cancelled and families may view the execution. Kept verbatim.
+- Attribution: the Commit 100 clip speaker (00:20:44) is not named on air. Prior claim C-13052 attributes the same remarks to Andrew Kolvet, but this episode does not name him, so no person is added to Mentions.
 - Not a DIA beat: the $10,000 reward offered by "friends of Charlie and Erika" in the clip (00:21:16) is TPUSA's reward, not the host's bounty. "Go to candaceowens.com" (00:49:45) is a merch plug.
 - DIA beats recorded: 00:01:31 tip line payoff, 00:14:03 sleuth lead payoff, 00:48:07 tips request, 00:48:43 floated bounty, 00:49:45 tips request.
 - Ads skipped (Pre-Born, Wellness Company, Cozy Earth, American Financing, Field of Greens). Not claims.
 - Rejected claims (admission test): the host's opinions on Hegseth's toughness, abortion analogies, the "theocracy" argument, her reflections on PragerU / Daily Wire and being "intentionally blinded", her characterization of Brian Harpole as "an idiot", viewer comments of praise (Danielle on the Epstein files, Minter, TJ Curt, Lindsey Colome, Brooke Evans, Nurse B), and the book club / Skyler riff (00:50:20).
-- Possible cross-episode links left out: C-15407 to C-15414 likely restate or revise claims in episodes 164–165 (Clancy meeting first dated September 2), but those episodes have no minted claims in claims_index.tsv. The integrator should consider Revises from C-15407 to the episode 165 claim placing the Clancy meeting on September 2. Tyler Clancy and Val Peterson may be minted in parallel from episodes 164/165 and should be merged with N-959 / N-957.
+- Possible cross-episode links left out: C-14311 to C-14318 likely restate or revise claims in episodes 164–165 (Clancy meeting first dated September 2), but those episodes have no minted claims in claims_index.tsv. The integrator should consider Revises from C-14311 to the episode 165 claim placing the Clancy meeting on September 2. Tyler Clancy and Val Peterson may be minted in parallel from episodes 164/165 and should be merged with N-959 / N-957.

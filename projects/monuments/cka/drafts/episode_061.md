@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep061): N-542
   - Tip-minted Nodes (reintro-ep061): N-11180
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11114–C-11181
+  - Claim Range: C-5431–C-5522
   - New Nodes Introduced: N-480, N-481, N-482, N-483, N-486, N-10433, N-10435
   - Reused Nodes Appearing: N-3, N-484, N-10434, N-10436, N-10437, N-485, N-10432, N-11, N-27, N-32, N-159, N-217, N-237, N-266, N-270, N-359, N-10000, N-10132, N-10267, N-10340, N-10417, N-10427, N-10661, N-10925, N-11035
   - (see registers)
@@ -105,7 +105,7 @@ Video Timestamp: 00:06:17–00:15:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2158, C-2159, C-2160, C-2161, C-2162, C-2163, C-2164, C-2165, C-2169, N-1, N-2, N-486, N-41, N-10432, N-10433, N-10435, N-10436*
+*Related: C-5431, C-5460, C-5458, C-5453, C-5446, C-5447, C-5442, C-5437, C-5445, N-1, N-2, N-486, N-41, N-10432, N-10433, N-10435, N-10436*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:04:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2166, C-2167, N-277, N-10432, N-10433*
+*Related: C-5432, C-5433, N-277, N-10432, N-10433*
 
 ---
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:34:18–00:40:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2171, C-2172, C-2173, C-2174, C-2175, N-480, N-481, N-482*
+*Related: C-5482, C-5483, C-5484, C-5487, C-5490, N-480, N-481, N-482*
 
 ---
 
@@ -147,7 +147,7 @@ Video Timestamp: 00:42:09–00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2176, C-2177, N-480, N-481, N-482, N-483*
+*Related: C-5494, C-5495, N-480, N-481, N-482, N-483*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2178, N-484, N-485, N-486*
+*Related: C-5475, N-484, N-485, N-486*
 
 ---
 
@@ -189,7 +189,7 @@ Video Timestamp: 01:06:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2180, N-2, N-484, N-485*
+*Related: C-5511, N-2, N-484, N-485*
 
 ---
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:58:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single-source verbal recollection, donor unnamed)
 
-*Related: C-2181, N-1, N-2, N-10437*
+*Related: C-5512, N-1, N-2, N-10437*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11164, C-11165, N-3, N-481, N-882*
+*Related: C-5503, C-5504, N-3, N-481, N-882*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:58:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11171, N-3*
+*Related: C-5510, N-3*
 
 ---
 
@@ -244,7 +244,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1662.1, C-2166, C-2167*
+*Related: A-1662.1, C-5432, C-5433*
 
 ---
 
@@ -257,7 +257,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, A-1666.1, C-2171, C-2172, C-2173, C-2174, C-2175, N-481, N-482*
+*Related: A-1663.1, A-1664.1, A-1666.1, C-5482, C-5483, C-5484, C-5487, C-5490, N-481, N-482*
 
 ---
 
@@ -270,7 +270,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, N-480, N-482, N-17*
+*Related: A-1663.1, A-1664.1, C-5483, N-480, N-482, N-17*
 
 ---
 
@@ -283,7 +283,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1663.1, A-1664.1, C-2172, C-2174, C-2175, N-480*
+*Related: A-1663.1, A-1664.1, C-5483, C-5487, C-5490, N-480*
 
 ---
 
@@ -309,7 +309,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1665.1, A-1667.1, C-2178, C-2179, N-485, N-486*
+*Related: A-1665.1, A-1667.1, C-5475, C-5477, N-485, N-486*
 
 ---
 
@@ -322,7 +322,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1665.1, C-2178, N-484, N-486*
+*Related: A-1665.1, C-5475, N-484, N-486*
 
 ---
 
@@ -335,7 +335,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, A-1665.1, C-2178, N-484, N-485*
+*Related: A-1661.1, A-1665.1, C-5475, N-484, N-485*
 
 ---
 
@@ -348,7 +348,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1661.1, C-2170, N-10436*
+*Related: A-1661.1, C-5454, N-10436*
 
 ---
 
@@ -399,7 +399,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1661.1, A-1662.1, C-2158, C-2159, C-2160, C-2163, C-2164, C-2165, C-2166, C-2167, N-1, N-2, N-486, N-41, N-14, N-15, N-186*
+*Related: A-1661.1, A-1662.1, C-5431, C-5460, C-5458, C-5447, C-5442, C-5437, C-5432, C-5433, N-1, N-2, N-486, N-41, N-14, N-15, N-186*
 
 ---
 
@@ -412,7 +412,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, A-1662.1, C-2162, C-2167, N-10434*
+*Related: A-1661.1, A-1662.1, C-5446, C-5433, N-10434*
 
 ---
 
@@ -425,7 +425,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-2169, N-10433*
+*Related: A-1661.1, C-5445, N-10433*
 
 ---
 
@@ -437,7 +437,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1661.1, C-2161, N-1, N-2*
+*Related: A-1661.1, C-5453, N-1, N-2*
 
 ---
 
@@ -450,7 +450,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1661.1, C-2161, C-2170, N-17*
+*Related: A-1661.1, C-5453, C-5454, N-17*
 
 ---
 
@@ -463,7 +463,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1668.1, C-2181, N-1, N-2*
+*Related: A-1668.1, C-5512, N-1, N-2*
 
 ---
 
@@ -471,7 +471,7 @@ Investigative Pressure: Medium
 
 Subject of the assassination; the host discusses his DOGE, his night-before messages and his contract with her.
 
-*Related: C-11114, C-11126, C-11127, C-11136*
+*Related: C-5434, C-5452, C-5455, C-5466*
 
 ---
 
@@ -479,7 +479,7 @@ Subject of the assassination; the host discusses his DOGE, his night-before mess
 
 Widow and TPUSA CEO; the host discusses her statements about Charlie's night-before messages and the meeting with the host.
 
-*Related: C-11117, C-11118, C-11126, C-11127, C-11130, C-11131*
+*Related: C-5439, C-5440, C-5452, C-5455, C-5459, C-5461*
 
 ---
 
@@ -487,7 +487,7 @@ Widow and TPUSA CEO; the host discusses her statements about Charlie's night-bef
 
 Host; speaks for herself throughout.
 
-*Related: C-11114, C-11115, C-11116, C-11117, C-11118, C-11122, C-11123, C-11124, C-11125, C-11127, C-11128, C-11129, C-11130, C-11131, C-11132, C-11133, C-11134, C-11135, C-11136, C-11137, C-11138, C-11139, C-11140, C-11141, C-11142, C-11143, C-11144, C-11145, C-11146, C-11147, C-11148, C-11149, C-11150, C-11151, C-11152, C-11153, C-11154, C-11155, C-11156, C-11157, C-11158, C-11159, C-11160, C-11161, C-11162, C-11163, C-11164, C-11165, C-11166, C-11167, C-11168, C-11169, C-11170, C-11171, C-11172, C-11173, C-11174, C-11175, C-11176, C-11177, C-11178, C-11179, C-11180, C-11181*
+*Related: C-5434, C-5436, C-5438, C-5439, C-5440, C-5448, C-5449, C-5450, C-5451, C-5455, C-5456, C-5457, C-5459, C-5461, C-5462, C-5463, C-5464, C-5465, C-5466, C-5467, C-5468, C-5469, C-5470, C-5471, C-5472, C-5473, C-5474, C-5476, C-5478, C-5479, C-5480, C-5481, C-5485, C-5486, C-5488, C-5489, C-5491, C-5492, C-5493, C-5496, C-5497, C-5498, C-5499, C-5500, C-5501, C-5502, C-5503, C-5504, C-5505, C-5506, C-5507, C-5508, C-5509, C-5510, C-5513, C-5514, C-5515, C-5516, C-5517, C-5518, C-5519, C-5520, C-5521, C-5522*
 
 ---
 
@@ -495,7 +495,7 @@ Host; speaks for herself throughout.
 
 TPUSA executive whom the host says she called a sexual deviant.
 
-*Related: C-11128*
+*Related: C-5456*
 
 ---
 
@@ -503,7 +503,7 @@ TPUSA executive whom the host says she called a sexual deviant.
 
 Kanye West; the host recounts his call with Taylor Swift about the song lyric.
 
-*Related: C-11141, C-11142*
+*Related: C-5471, C-5472*
 
 ---
 
@@ -511,7 +511,7 @@ Kanye West; the host recounts his call with Taylor Swift about the song lyric.
 
 Dave Rubin; the host cites the previous day's Rubin matter.
 
-*Related: C-11178*
+*Related: C-5519*
 
 ---
 
@@ -519,7 +519,7 @@ Dave Rubin; the host cites the previous day's Rubin matter.
 
 Blake Neff; named by the host in an open invitation to TPUSA people.
 
-*Related: C-11174*
+*Related: C-5515*
 
 ---
 
@@ -527,7 +527,7 @@ Blake Neff; named by the host in an open invitation to TPUSA people.
 
 Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising role at TPUSA.
 
-*Related: C-11180*
+*Related: C-5521*
 
 ---
 
@@ -535,7 +535,7 @@ Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising 
 
 Glenn Beck; the host says Erika Kirk made her night-before statement to him.
 
-*Related: C-11126*
+*Related: C-5452*
 
 ---
 
@@ -543,7 +543,7 @@ Glenn Beck; the host says Erika Kirk made her night-before statement to him.
 
 Brian Harpole; named by the host as one of the sources of conflicting drone answers.
 
-*Related: C-11125*
+*Related: C-5451*
 
 ---
 
@@ -551,7 +551,7 @@ Brian Harpole; named by the host as one of the sources of conflicting drone answ
 
 Dan Flood; the host says TPUSA told her Charlie also messaged him the night before.
 
-*Related: C-11127*
+*Related: C-5455*
 
 ---
 
@@ -559,7 +559,7 @@ Dan Flood; the host says TPUSA told her Charlie also messaged him the night befo
 
 Kim Kardashian; the host says she released video receipts of the Kanye and Swift call.
 
-*Related: C-11141*
+*Related: C-5471*
 
 ---
 
@@ -567,7 +567,7 @@ Kim Kardashian; the host says she released video receipts of the Kanye and Swift
 
 Bella Hadid; named as the sister of Anwar Hadid.
 
-*Related: C-11169*
+*Related: C-5508*
 
 ---
 
@@ -575,7 +575,7 @@ Bella Hadid; named as the sister of Anwar Hadid.
 
 Turning Point USA; sender of the cease and desist letter and subject of the host's remarks.
 
-*Related: C-11119, C-11120, C-11121, C-11129, C-11132, C-11133, C-11134, C-11135, C-11137, C-11138, C-11174, C-11175, C-11176, C-11181*
+*Related: C-5441, C-5443, C-5444, C-5457, C-5462, C-5463, C-5464, C-5465, C-5467, C-5468, C-5515, C-5516, C-5517, C-5522*
 
 ---
 
@@ -583,7 +583,7 @@ Turning Point USA; sender of the cease and desist letter and subject of the host
 
 Existing topic reused for the DOGE claim in this episode.
 
-*Related: C-11114*
+*Related: C-5434*
 
 ---
 
@@ -591,7 +591,7 @@ Existing topic reused for the DOGE claim in this episode.
 
 Existing topic reused for the conflicting drone answers claim.
 
-*Related: C-11125*
+*Related: C-5451*
 
 ---
 
@@ -599,7 +599,7 @@ Existing topic reused for the conflicting drone answers claim.
 
 Existing topic reused for claims about Charlie's night-before messages.
 
-*Related: C-11126, C-11127*
+*Related: C-5452, C-5455*
 
 ---
 
@@ -607,7 +607,7 @@ Existing topic reused for claims about Charlie's night-before messages.
 
 Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Huachuca' is this Fort Huachuca question).
 
-*Related: C-11130, C-11131*
+*Related: C-5459, C-5461*
 
 ---
 
@@ -615,7 +615,7 @@ Existing topic reused for the host's requests about Erika Kirk's whereabouts (th
 
 Existing topic reused for the conflicting drone answers claim.
 
-*Related: C-11125*
+*Related: C-5451*
 
 ---
 
@@ -623,7 +623,7 @@ Existing topic reused for the conflicting drone answers claim.
 
 Existing topic for the Lively and Baldoni litigation, reused for the Swift texts claims.
 
-*Related: C-11139, C-11140, C-11143, C-11144, C-11145, C-11146*
+*Related: C-5469, C-5470, C-5473, C-5474, C-5476, C-5478*
 
 ---
 
@@ -631,7 +631,7 @@ Existing topic for the Lively and Baldoni litigation, reused for the Swift texts
 
 Turning Point Action; named in the letter as an affiliate whose people are the target of the host's allegations.
 
-*Related: C-11132*
+*Related: C-5462*
 
 ---
 
@@ -639,7 +639,7 @@ Turning Point Action; named in the letter as an affiliate whose people are the t
 
 Existing topic reused for the host's remarks on TPUSA firings.
 
-*Related: C-11172, C-11173*
+*Related: C-5513, C-5514*
 
 ---
 
@@ -647,7 +647,7 @@ Existing topic reused for the host's remarks on TPUSA firings.
 
 Existing topic reused for claims about the cease and desist letter and the host's response.
 
-*Related: C-11115, C-11116, C-11117, C-11118, C-11119, C-11120, C-11121, C-11122, C-11123, C-11124, C-11128, C-11129, C-11132, C-11135, C-11136, C-11137, C-11138, C-11171, C-11179, C-11180, C-11181*
+*Related: C-5436, C-5438, C-5439, C-5440, C-5441, C-5443, C-5444, C-5448, C-5449, C-5450, C-5456, C-5457, C-5462, C-5465, C-5466, C-5467, C-5468, C-5510, C-5520, C-5521, C-5522*
 
 ---
 
@@ -657,7 +657,7 @@ First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's pub
 
 Aliases: Tree
 
-*Related: C-11140*
+*Related: C-5470*
 
 ---
 
@@ -667,7 +667,7 @@ First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). 
 
 Aliases: Marc Anthony
 
-*Related: C-11159*
+*Related: C-5498*
 
 ---
 
@@ -675,7 +675,7 @@ Aliases: Marc Anthony
 
 First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.
 
-*Related: C-11164*
+*Related: C-5503*
 
 ---
 
@@ -685,7 +685,7 @@ First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Peltz'). 
 
 Aliases: Nelson Peltz
 
-*Related: C-11166*
+*Related: C-5505*
 
 ---
 
@@ -693,7 +693,7 @@ Aliases: Nelson Peltz
 
 First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.
 
-*Related: C-11167*
+*Related: C-5506*
 
 ---
 
@@ -701,7 +701,7 @@ First named by the host at 00:50:27 in episode 61. Hair stylist the host says ca
 
 First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.
 
-*Related: C-11168*
+*Related: C-5507*
 
 ---
 
@@ -711,7 +711,7 @@ First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). T
 
 Aliases: Anwar Hadid
 
-*Related: C-11169*
+*Related: C-5508*
 
 ---
 
@@ -720,7 +720,7 @@ Aliases: Anwar Hadid
 Node Type: Topic
 Brooklyn Beckham's public Instagram statement about his family and the host's account of the wedding dress, dance, seating and contract disputes.
 
-*Related: C-11147, C-11148, C-11149, C-11150, C-11151, C-11152, C-11153, C-11154, C-11155, C-11156, C-11157, C-11158, C-11159, C-11160, C-11161, C-11162, C-11163, C-11166, C-11170*
+*Related: C-5479, C-5480, C-5481, C-5485, C-5486, C-5488, C-5489, C-5491, C-5492, C-5493, C-5496, C-5497, C-5498, C-5499, C-5500, C-5501, C-5502, C-5505, C-5509*
 
 ---
 
@@ -729,13 +729,13 @@ Brooklyn Beckham's public Instagram statement about his family and the host's ac
 Node Type: Topic
 Lawsuit the host says Nicola Peltz brought against a mobile dog-grooming company after her Chihuahua died.
 
-*Related: C-11164, C-11165*
+*Related: C-5503, C-5504*
 
 ---
 
 ## 5. Claim Register
 
-**C-2158** TPUSA cease and desist letter sent approximately January 19–20, 2026
+**C-5431** TPUSA cease and desist letter sent approximately January 19–20, 2026
 
 Claim Timestamp: 00:00:05
 
@@ -750,7 +750,7 @@ Investigative Direction: Obtain a certified copy of the letter with counsel's si
 
 ---
 
-**C-2159** TPUSA demands cessation of statements implying TPUSA involvement in Kirk assassination
+**C-5460** TPUSA demands cessation of statements implying TPUSA involvement in Kirk assassination
 
 Claim Timestamp: 00:14:10–00:15:10
 
@@ -765,7 +765,7 @@ Investigative Direction: Compare the prohibited scope articulated in the letter 
 
 ---
 
-**C-2160** TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at "Fort Huachuca"
+**C-5458** TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at "Fort Huachuca"
 
 Claim Timestamp: 00:13:00–00:14:10
 
@@ -780,7 +780,7 @@ Investigative Direction: Identify the unnamed TPUSA employee, obtain the underly
 
 ---
 
-**C-2161** TPUSA alleges Owens claimed TPUSA Faith infiltrated by military operatives
+**C-5453** TPUSA alleges Owens claimed TPUSA Faith infiltrated by military operatives
 
 Claim Timestamp: 00:12:24–00:13:19
 
@@ -795,7 +795,7 @@ Investigative Direction: Identify the specific personnel Owens considers "milita
 
 ---
 
-**C-2162** TPUSA alleges Owens stated "definitely financial impropriety" at TPUSA
+**C-5446** TPUSA alleges Owens stated "definitely financial impropriety" at TPUSA
 
 Claim Timestamp: 00:10:50–00:11:31
 
@@ -810,7 +810,7 @@ Investigative Direction: Compare the TPUSA letter's characterization with Owens'
 
 ---
 
-**C-2163** TPUSA alleges Owens published a "list of lies" attributed to TPUSA
+**C-5447** TPUSA alleges Owens published a "list of lies" attributed to TPUSA
 
 Claim Timestamp: 00:10:50–00:11:31
 
@@ -825,7 +825,7 @@ Investigative Direction: Identify the specific published list and each underlyin
 
 ---
 
-**C-2164** TPUSA states 12-month non-disparagement obligation remains in effect post-termination
+**C-5442** TPUSA states 12-month non-disparagement obligation remains in effect post-termination
 
 Claim Timestamp: 00:09:53–00:10:50
 
@@ -840,7 +840,7 @@ Investigative Direction: Obtain the executed speaking agreement to verify the ex
 
 ---
 
-**C-2165** TPUSA alleges Owens declined retraction on December 15, 2025
+**C-5437** TPUSA alleges Owens declined retraction on December 15, 2025
 
 Claim Timestamp: 00:08:25–00:09:12
 
@@ -855,7 +855,7 @@ Investigative Direction: Obtain the December 15, 2025 communication and any prio
 
 ---
 
-**C-2166** Tim Dillon assessed TPUSA as primarily motivated by money
+**C-5432** Tim Dillon assessed TPUSA as primarily motivated by money
 
 Claim Timestamp: 00:04:39
 
@@ -870,7 +870,7 @@ Investigative Direction: Identify the original Tim Dillon episode and timestamp 
 
 ---
 
-**C-2167** Candace Owens concurs with Tim Dillon's money-motive assessment
+**C-5433** Candace Owens concurs with Tim Dillon's money-motive assessment
 
 Claim Timestamp: 00:04:39–00:06:17
 
@@ -885,7 +885,7 @@ Investigative Direction: Track whether TPUSA's subsequent filings cite financial
 
 ---
 
-**C-2168** Owens states speaking arrangement with TPUSA began ~2019–2020
+**C-5435** Owens states speaking arrangement with TPUSA began ~2019–2020
 
 Claim Timestamp: 00:06:17–00:07:37
 
@@ -900,7 +900,7 @@ Investigative Direction: Obtain the original contract and any amendments to veri
 
 ---
 
-**C-2169** TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025
+**C-5445** TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025
 
 Claim Timestamp: 00:10:35
 
@@ -915,7 +915,7 @@ Investigative Direction: Cross-reference with the cease and desist letter's stat
 
 ---
 
-**C-2170** Owens claims Rob McCoy defended a person who was imprisoned for child molestation
+**C-5454** Owens claims Rob McCoy defended a person who was imprisoned for child molestation
 
 Claim Timestamp: 00:12:24–00:13:19
 
@@ -930,7 +930,7 @@ Investigative Direction: Identify the specific individual and case to which Owen
 
 ---
 
-**C-2171** Brooklyn Beckham publicly states he does not wish to reconcile with his family
+**C-5482** Brooklyn Beckham publicly states he does not wish to reconcile with his family
 
 Claim Timestamp: 00:34:18
 
@@ -944,7 +944,7 @@ Investigative Direction: Obtain the original Stories frames before deletion if p
 
 ---
 
-**C-2172** Brooklyn claims Victoria Beckham cancelled making Nicola's wedding dress in the 11th hour
+**C-5483** Brooklyn claims Victoria Beckham cancelled making Nicola's wedding dress in the 11th hour
 
 Claim Timestamp: 00:36:14–00:37:33
 
@@ -958,7 +958,7 @@ Investigative Direction: Obtain any contemporaneous communications or receipts r
 
 ---
 
-**C-2173** Brooklyn claims family pressured him to sign away rights to his name before the wedding
+**C-5484** Brooklyn claims family pressured him to sign away rights to his name before the wedding
 
 Claim Timestamp: 00:36:14–00:37:33
 
@@ -972,7 +972,7 @@ Investigative Direction: Identify and obtain any proposed trademark or brand-rig
 
 ---
 
-**C-2174** Brooklyn claims mother called him "evil" at the wedding over seating
+**C-5487** Brooklyn claims mother called him "evil" at the wedding over seating
 
 Claim Timestamp: 00:38:04
 
@@ -986,7 +986,7 @@ Investigative Direction: Identify any wedding guests who can corroborate or rebu
 
 ---
 
-**C-2175** Brooklyn claims mother hijacked his first dance with his wife
+**C-5490** Brooklyn claims mother hijacked his first dance with his wife
 
 Claim Timestamp: 00:40:27–00:41:23
 
@@ -1000,7 +1000,7 @@ Investigative Direction: Compare the IG-stories allegation against the Vogue art
 
 ---
 
-**C-2176** Vogue reports first dance was to "Only Fools Rush In" performed by Lloyiso
+**C-5494** Vogue reports first dance was to "Only Fools Rush In" performed by Lloyiso
 
 Claim Timestamp: 00:42:09–00:43:16
 
@@ -1014,7 +1014,7 @@ Investigative Direction: Cross-reference with the original Vogue article text an
 
 ---
 
-**C-2177** Vogue reports Marc Anthony performed at late-night portion of wedding (11 p.m.)
+**C-5495** Vogue reports Marc Anthony performed at late-night portion of wedding (11 p.m.)
 
 Claim Timestamp: 00:42:09–00:43:16
 
@@ -1028,7 +1028,7 @@ Investigative Direction: Verify the 11 p.m. start time against any video of Marc
 
 ---
 
-**C-2178** Host Says Taylor Swift Text Message References Justin Baldoni's "Tiny Violin" (December 2024)
+**C-5475** Host Says Taylor Swift Text Message References Justin Baldoni's "Tiny Violin" (December 2024)
 
 Claim Timestamp: 00:28:30–00:29:09
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Obtain the full unredacted text thread exhibits from th
 
 ---
 
-**C-2179** Host Says Sony Executives Described Blake Lively as "Terrorist" in Text Messages
+**C-5477** Host Says Sony Executives Described Blake Lively as "Terrorist" in Text Messages
 
 Claim Timestamp: 00:29:09
 
@@ -1056,7 +1056,7 @@ Investigative Direction: Obtain the specific Sony executive text-message exhibit
 
 ---
 
-**C-2180** TPUSA reportedly fired approximately 40 (or 15) employees for leaking information
+**C-5511** TPUSA reportedly fired approximately 40 (or 15) employees for leaking information
 
 Claim Timestamp: 00:58:55
 
@@ -1071,7 +1071,7 @@ Investigative Direction: Verify the firings count through internal TPUSA communi
 
 ---
 
-**C-2181** Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would "Know What to Do"
+**C-5512** Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would "Know What to Do"
 
 Claim Timestamp: 00:58:55
 
@@ -1086,7 +1086,7 @@ Investigative Direction: Identify and obtain a recorded statement from the corro
 
 ---
 
-**C-11114** Host says she broke the story that Charlie Kirk established a DOGE seven days before he died
+**C-5434** Host says she broke the story that Charlie Kirk established a DOGE seven days before he died
 
 Claim Timestamp: 00:04:39
 
@@ -1097,13 +1097,13 @@ Transcript Snippet: So we obviously broke the story about Charlie establishing a
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-3
 Related Nodes: N-10434, N-10132
-Supports: C-5092
+Supports: C-3541
 Tags: relevance:core
 Investigative Direction: Obtain the internal TPUSA memo or email that requested the DOGE and its date, and compare with the host's earlier reporting.
 
 ---
 
-**C-11115** Host says her TPUSA contract was meant to run a couple more years and she moved to terminate it
+**C-5436** Host says her TPUSA contract was meant to run a couple more years and she moved to terminate it
 
 Claim Timestamp: 00:06:17
 
@@ -1119,7 +1119,7 @@ Investigative Direction: Obtain the executed speaking agreement and the terminat
 
 ---
 
-**C-11116** TPUSA letter says Owens told them she does not feel differently and thinks there are shady people at TPUSA
+**C-5438** TPUSA letter says Owens told them she does not feel differently and thinks there are shady people at TPUSA
 
 Claim Timestamp: 00:08:25
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Obtain the December 15, 2025 exchange in which the stat
 
 ---
 
-**C-11117** Host says she sat down with Erika Kirk and Justin Streiff in a discussion she appreciated
+**C-5439** Host says she sat down with Erika Kirk and Justin Streiff in a discussion she appreciated
 
 Claim Timestamp: 00:08:25
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Obtain the date, attendees and any notes or recording o
 
 ---
 
-**C-11118** Host says TPUSA conceded points to her in the Erika Kirk and Justin Streiff meeting
+**C-5440** Host says TPUSA conceded points to her in the Erika Kirk and Justin Streiff meeting
 
 Claim Timestamp: 00:09:12
 
@@ -1162,13 +1162,13 @@ Transcript Snippet: I came out and I told the truth and things that were answere
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-2, N-15
 Related Nodes: N-11180
-Supports: C-6778
+Supports: C-4491
 Tags: relevance:core
 Investigative Direction: Identify which specific points the host says were conceded and obtain any notes or recording of the meeting.
 
 ---
 
-**C-11119** TPUSA letter says it is calculating the full extent of accruing damages
+**C-5441** TPUSA letter says it is calculating the full extent of accruing damages
 
 Claim Timestamp: 00:09:12
 
@@ -1184,7 +1184,7 @@ Investigative Direction: Obtain any damages calculation or demand TPUSA later se
 
 ---
 
-**C-11120** TPUSA letter describes the scope of Owens's non-disparagement obligation
+**C-5443** TPUSA letter describes the scope of Owens's non-disparagement obligation
 
 Claim Timestamp: 00:09:53
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Compare the letter's description with the actual non-di
 
 ---
 
-**C-11121** TPUSA letter says its executives repeatedly offered information by phone, text and in person
+**C-5444** TPUSA letter says its executives repeatedly offered information by phone, text and in person
 
 Claim Timestamp: 00:09:53
 
@@ -1216,7 +1216,7 @@ Investigative Direction: Obtain call, text and meeting logs between Owens and TP
 
 ---
 
-**C-11122** Host says she is speaking to only one person at TPUSA
+**C-5448** Host says she is speaking to only one person at TPUSA
 
 Claim Timestamp: 00:10:50
 
@@ -1227,13 +1227,13 @@ Transcript Snippet: That's just not true. I mean, I'm speaking to one person at 
 Anchored Artifacts: A-1661.1
 Mentions: N-3
 Related Nodes: N-11180
-Contradicts: C-11121
+Contradicts: C-5444
 Tags: relevance:core
 Investigative Direction: Obtain the host's communications log with TPUSA and identify the single contact and the one meeting.
 
 ---
 
-**C-11123** TPUSA letter calls Owens's continued statements reckless, knowing and intentional
+**C-5449** TPUSA letter calls Owens's continued statements reckless, knowing and intentional
 
 Claim Timestamp: 00:10:50
 
@@ -1249,7 +1249,7 @@ Investigative Direction: Identify the specific statements TPUSA considers reckle
 
 ---
 
-**C-11124** Host says TPUSA corrected nothing on her list of lies and gave excuses such as Andrew went rogue
+**C-5450** Host says TPUSA corrected nothing on her list of lies and gave excuses such as Andrew went rogue
 
 Claim Timestamp: 00:11:31
 
@@ -1260,13 +1260,13 @@ Transcript Snippet: Which lie on our Turning Point USA list of lies did they cor
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-14
 Related Nodes: N-11180, N-10432
-Supports: C-6777
+Supports: C-4490
 Tags: relevance:core
 Investigative Direction: Compile the host's published list of lies and TPUSA's responses to each item, with dates.
 
 ---
 
-**C-11125** Host says TPUSA gave conflicting answers about the drones through Brian Harpole, Andrew Kolvet and its lawyer
+**C-5451** Host says TPUSA gave conflicting answers about the drones through Brian Harpole, Andrew Kolvet and its lawyer
 
 Claim Timestamp: 00:11:31
 
@@ -1282,7 +1282,7 @@ Investigative Direction: Compile each TPUSA statement on drones with its date an
 
 ---
 
-**C-11126** Host says Erika Kirk said Charlie never said the night before that he feared dying
+**C-5452** Host says Erika Kirk said Charlie never said the night before that he feared dying
 
 Claim Timestamp: 00:11:31
 
@@ -1298,7 +1298,7 @@ Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the
 
 ---
 
-**C-11127** Host says TPUSA then conceded Charlie had texted in a special app and also messaged Dan Flood
+**C-5455** Host says TPUSA then conceded Charlie had texted in a special app and also messaged Dan Flood
 
 Claim Timestamp: 00:12:24
 
@@ -1309,14 +1309,14 @@ Transcript Snippet: Yeah. No, he did. I didn't know cuz it was in a special, you
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-2, N-270, N-3
 Related Nodes: N-10340
-Supports: C-6778
-Contradicts: C-11126
+Supports: C-4491
+Contradicts: C-5452
 Tags: relevance:core
 Investigative Direction: Obtain the night-before messages themselves, the app used and TPUSA's written explanation of why it was not disclosed earlier.
 
 ---
 
-**C-11128** Host says she stands by calling Tyler Bowyer a sexual deviant
+**C-5456** Host says she stands by calling Tyler Bowyer a sexual deviant
 
 Claim Timestamp: 00:12:24
 
@@ -1327,13 +1327,13 @@ Transcript Snippet: I specifically said Tyler Bowyer was a sexual deviant. I sta
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-11
 Related Nodes: N-11180
-Supports: C-9604
+Supports: C-2435
 Tags: relevance:core
 Investigative Direction: Identify the evidence behind the host's characterization and any records TPUSA could cite to rebut it.
 
 ---
 
-**C-11129** Host says there are people at TPUSA who are not good people
+**C-5457** Host says there are people at TPUSA who are not good people
 
 Claim Timestamp: 00:12:24
 
@@ -1349,7 +1349,7 @@ Investigative Direction: Ask the host which individuals she means and what docum
 
 ---
 
-**C-11130** Host says she asked for something about Erika Kirk's whereabouts multiple times over weeks and got excuses
+**C-5459** Host says she asked for something about Erika Kirk's whereabouts multiple times over weeks and got excuses
 
 Claim Timestamp: 00:13:19
 
@@ -1365,7 +1365,7 @@ Investigative Direction: Obtain the dated request messages and TPUSA's replies t
 
 ---
 
-**C-11131** Host says TPUSA still has not sent what she asked for
+**C-5461** Host says TPUSA still has not sent what she asked for
 
 Claim Timestamp: 00:14:10
 
@@ -1381,7 +1381,7 @@ Investigative Direction: Obtain the exact request wording and what TPUSA sent in
 
 ---
 
-**C-11132** TPUSA letter says Owens has not ended a flood of allegations against TPUSA, Turning Point Action and Charlie Kirk Show staff
+**C-5462** TPUSA letter says Owens has not ended a flood of allegations against TPUSA, Turning Point Action and Charlie Kirk Show staff
 
 Claim Timestamp: 00:14:10
 
@@ -1397,7 +1397,7 @@ Investigative Direction: Locate the on-air or written admission the letter refer
 
 ---
 
-**C-11133** Host says TPUSA lying makes a cover-up a fair and reasonable assessment
+**C-5463** Host says TPUSA lying makes a cover-up a fair and reasonable assessment
 
 Claim Timestamp: 00:15:10
 
@@ -1413,7 +1413,7 @@ Investigative Direction: Compile the specific statements the host classes as lie
 
 ---
 
-**C-11134** Host says she has barely covered TPUSA's finances
+**C-5464** Host says she has barely covered TPUSA's finances
 
 Claim Timestamp: 00:16:11
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Compare with TPUSA Form 990 filings and audited financi
 
 ---
 
-**C-11135** Host says her coverage is about the backgrounds of the people taking over TPUSA
+**C-5465** Host says her coverage is about the backgrounds of the people taking over TPUSA
 
 Claim Timestamp: 00:18:21
 
@@ -1445,7 +1445,7 @@ Investigative Direction: Identify which individuals she regards as taking over T
 
 ---
 
-**C-11136** Host Says Kirk's Assassination Was an Unforeseeable Circumstance Under Her Contract
+**C-5466** Host Says Kirk's Assassination Was an Unforeseeable Circumstance Under Her Contract
 
 Claim Timestamp: 00:18:21
 
@@ -1461,7 +1461,7 @@ Investigative Direction: Obtain the contract's governing-law and force majeure p
 
 ---
 
-**C-11137** Host says she told her lawyer to ask TPUSA how much money it wants
+**C-5467** Host says she told her lawyer to ask TPUSA how much money it wants
 
 Claim Timestamp: 00:19:39
 
@@ -1477,7 +1477,7 @@ Investigative Direction: Obtain counsel's reply to the cease and desist letter a
 
 ---
 
-**C-11138** Host says she would start a GoFundMe to raise whatever sum TPUSA names
+**C-5468** Host says she would start a GoFundMe to raise whatever sum TPUSA names
 
 Claim Timestamp: 00:20:45
 
@@ -1493,7 +1493,7 @@ Investigative Direction: Watch for any GoFundMe launch and TPUSA's response to t
 
 ---
 
-**C-11139** Host says she has a chapter on Taylor Swift in Make Him a Sandwich
+**C-5469** Host says she has a chapter on Taylor Swift in Make Him a Sandwich
 
 Claim Timestamp: 00:24:22
 
@@ -1509,7 +1509,7 @@ Investigative Direction: Check the book chapter text for the claims about Swift 
 
 ---
 
-**C-11140** Host says Swift's publicist Tree told her to cut off Blake Lively
+**C-5470** Host says Swift's publicist Tree told her to cut off Blake Lively
 
 Claim Timestamp: 00:25:39
 
@@ -1525,7 +1525,7 @@ Investigative Direction: Look for reporting or court exhibits showing Swift's te
 
 ---
 
-**C-11141** Host says Kanye had video of Swift on the call and Kim Kardashian released receipts
+**C-5471** Host says Kanye had video of Swift on the call and Kim Kardashian released receipts
 
 Claim Timestamp: 00:26:30
 
@@ -1540,7 +1540,7 @@ Investigative Direction: Review the 2020 call footage released by Kim Kardashian
 
 ---
 
-**C-11142** Host says Swift's statement asked where the video was of Kanye saying he would call her that
+**C-5472** Host says Swift's statement asked where the video was of Kanye saying he would call her that
 
 Claim Timestamp: 00:26:30
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Compare Swift's 2016 statement text with the released c
 
 ---
 
-**C-11143** Host says Swift knew Lively would file harassment complaints to get the publishing rights
+**C-5473** Host says Swift knew Lively would file harassment complaints to get the publishing rights
 
 Claim Timestamp: 00:27:10
 
@@ -1571,7 +1571,7 @@ Investigative Direction: Review the message exhibits in the Lively and Baldoni d
 
 ---
 
-**C-11144** Host says Lively texted Swift about the script scene on the way to the apartment and Swift agreed to join
+**C-5474** Host says Lively texted Swift about the script scene on the way to the apartment and Swift agreed to join
 
 Claim Timestamp: 00:27:10
 
@@ -1587,7 +1587,7 @@ Investigative Direction: Review the message exhibits for the timing and wording 
 
 ---
 
-**C-11145** Host says Swift's fans would give Lively an effective majority
+**C-5476** Host says Swift's fans would give Lively an effective majority
 
 Claim Timestamp: 00:28:54
 
@@ -1603,7 +1603,7 @@ Investigative Direction: Locate the specific message exhibit containing the joke
 
 ---
 
-**C-11146** Host says Baldoni ended up in a hospital from stress
+**C-5478** Host says Baldoni ended up in a hospital from stress
 
 Claim Timestamp: 00:29:09
 
@@ -1619,7 +1619,7 @@ Investigative Direction: Look for public reporting or filings about Baldoni's ho
 
 ---
 
-**C-11147** Host says Brooklyn Beckham does not speak to his brothers, his sister or his parents
+**C-5479** Host says Brooklyn Beckham does not speak to his brothers, his sister or his parents
 
 Claim Timestamp: 00:31:42
 
@@ -1635,7 +1635,7 @@ Investigative Direction: Check public reporting on the Beckham family unfollows 
 
 ---
 
-**C-11148** Host says Nicola Peltz wanted Victoria Beckham to design her dress but it fell through and she wore Valentino Couture
+**C-5480** Host says Nicola Peltz wanted Victoria Beckham to design her dress but it fell through and she wore Valentino Couture
 
 Claim Timestamp: 00:31:42
 
@@ -1651,7 +1651,7 @@ Investigative Direction: Check reporting on the dress designer and the 2022 wedd
 
 ---
 
-**C-11149** Host says Brooklyn and Nicola held a second wedding last August without the Beckhams
+**C-5481** Host says Brooklyn and Nicola held a second wedding last August without the Beckhams
 
 Claim Timestamp: 00:33:13
 
@@ -1667,7 +1667,7 @@ Investigative Direction: Check reporting on the vow renewal and its guest list.
 
 ---
 
-**C-11150** Host says a receipt shows Nicola's dress was in the making for a year
+**C-5485** Host says a receipt shows Nicola's dress was in the making for a year
 
 Claim Timestamp: 00:36:14
 
@@ -1678,13 +1678,13 @@ Transcript Snippet: Somebody then pulled up a receipt and her dress was in the m
 Anchored Artifacts: A-1663.1
 Mentions: N-3, N-480, N-481, N-482
 Related Nodes: N-11289
-Contradicts: C-2172
+Contradicts: C-5483
 Tags: relevance:tangential
 Investigative Direction: Identify the receipt, who produced it, and what it documents about the dress commission.
 
 ---
 
-**C-11151** Brooklyn says his parents were adamant he sign before the wedding and his holdout affected a payday
+**C-5486** Brooklyn says his parents were adamant he sign before the wedding and his holdout affected a payday
 
 Claim Timestamp: 00:37:33
 
@@ -1700,7 +1700,7 @@ Investigative Direction: Identify the agreement, the parties and any payment ter
 
 ---
 
-**C-11152** Brooklyn says both sets of parents had their own table equally adjacent to the couple's
+**C-5488** Brooklyn says both sets of parents had their own table equally adjacent to the couple's
 
 Claim Timestamp: 00:38:22
 
@@ -1716,7 +1716,7 @@ Investigative Direction: Review wedding seating plans or guest accounts.
 
 ---
 
-**C-11153** Brooklyn says the night before the wedding family told him Nicola was not blood and not family
+**C-5489** Brooklyn says the night before the wedding family told him Nicola was not blood and not family
 
 Claim Timestamp: 00:39:09
 
@@ -1732,7 +1732,7 @@ Investigative Direction: Find guests who could confirm or rebut the alleged rema
 
 ---
 
-**C-11154** Brooklyn says attacks were sent to the press on his parents' orders and the host says no evidence was offered
+**C-5491** Brooklyn says attacks were sent to the press on his parents' orders and the host says no evidence was offered
 
 Claim Timestamp: 00:40:27
 
@@ -1748,7 +1748,7 @@ Investigative Direction: Identify the press items and social posts Brooklyn refe
 
 ---
 
-**C-11155** Brooklyn says his mother danced very inappropriately on him before 500 wedding guests
+**C-5492** Brooklyn says his mother danced very inappropriately on him before 500 wedding guests
 
 Claim Timestamp: 00:40:27
 
@@ -1764,7 +1764,7 @@ Investigative Direction: Review any wedding video of the dance.
 
 ---
 
-**C-11156** Host says Vogue shows the disputed dance was actually the couple's third dance
+**C-5493** Host says Vogue shows the disputed dance was actually the couple's third dance
 
 Claim Timestamp: 00:41:23
 
@@ -1775,13 +1775,13 @@ Transcript Snippet: I'll tell you what's going on, guys. This was actually their
 Anchored Artifacts: A-1664.1
 Mentions: N-3, N-480, N-482
 Related Nodes: N-11289
-Contradicts: C-2175
+Contradicts: C-5490
 Tags: relevance:tangential
 Investigative Direction: Compare the Vogue sequence with wedding video to establish the order of the dances.
 
 ---
 
-**C-11157** Vogue article says David Beckham and Brooklyn's brothers gave speeches
+**C-5496** Vogue article says David Beckham and Brooklyn's brothers gave speeches
 
 Claim Timestamp: 00:42:09
 
@@ -1797,7 +1797,7 @@ Investigative Direction: Check the Vogue article text for the speeches paragraph
 
 ---
 
-**C-11158** Host says attendees describe a first dance, a father dance, another dance and an 11 p.m. late-night set
+**C-5497** Host says attendees describe a first dance, a father dance, another dance and an 11 p.m. late-night set
 
 Claim Timestamp: 00:43:16
 
@@ -1813,7 +1813,7 @@ Investigative Direction: Identify the attendees and any video that establishes t
 
 ---
 
-**C-11159** Host says Marc Anthony called Victoria Beckham to the floor at 11 p.m.
+**C-5498** Host says Marc Anthony called Victoria Beckham to the floor at 11 p.m.
 
 Claim Timestamp: 00:43:16
 
@@ -1824,13 +1824,13 @@ Transcript Snippet: Marc Anthony said, "Now inviting the most beautiful woman to
 Anchored Artifacts: A-1664.1
 Mentions: N-3, N-881, N-482
 Related Nodes: N-11289
-Supports: C-2175
+Supports: C-5490
 Tags: relevance:tangential
 Investigative Direction: Review wedding video of Marc Anthony's late-night set.
 
 ---
 
-**C-11160** Brooklyn says his mother repeatedly invited women from his past to make them uncomfortable
+**C-5499** Brooklyn says his mother repeatedly invited women from his past to make them uncomfortable
 
 Claim Timestamp: 00:44:56
 
@@ -1846,7 +1846,7 @@ Investigative Direction: Identify the woman and the events referred to.
 
 ---
 
-**C-11161** Brooklyn says his parents rejected them for a week in London around his father's birthday
+**C-5500** Brooklyn says his parents rejected them for a week in London around his father's birthday
 
 Claim Timestamp: 00:45:59
 
@@ -1862,7 +1862,7 @@ Investigative Direction: Check reporting on the timing of David Beckham's 50th b
 
 ---
 
-**C-11162** Brooklyn says his mother refused to support Nicola's displaced dogs effort during the LA fires
+**C-5501** Brooklyn says his mother refused to support Nicola's displaced dogs effort during the LA fires
 
 Claim Timestamp: 00:47:11
 
@@ -1878,7 +1878,7 @@ Investigative Direction: Identify Nicola's LA fire dog effort and any request ma
 
 ---
 
-**C-11163** Host says Brooklyn sent his family a legal letter telling them to contact him through his lawyer
+**C-5502** Host says Brooklyn sent his family a legal letter telling them to contact him through his lawyer
 
 Claim Timestamp: 00:48:01
 
@@ -1894,7 +1894,7 @@ Investigative Direction: Look for reporting on the legal letter and its sender.
 
 ---
 
-**C-11164** Host says Nicola Peltz hired Marty Singer to sue a mobile dog grooming company after her Chihuahua died
+**C-5503** Host says Nicola Peltz hired Marty Singer to sue a mobile dog grooming company after her Chihuahua died
 
 Claim Timestamp: 00:49:30
 
@@ -1910,7 +1910,7 @@ Investigative Direction: Obtain the complaint and docket in the grooming company
 
 ---
 
-**C-11165** Host says the autopsy showed fluid on the brain typical of Chihuahuas
+**C-5504** Host says the autopsy showed fluid on the brain typical of Chihuahuas
 
 Claim Timestamp: 00:49:30
 
@@ -1926,7 +1926,7 @@ Investigative Direction: Obtain the autopsy report from the court file.
 
 ---
 
-**C-11166** Host says Nicola Peltz went through three wedding contracts and her father sued over one
+**C-5505** Host says Nicola Peltz went through three wedding contracts and her father sued over one
 
 Claim Timestamp: 00:50:27
 
@@ -1942,7 +1942,7 @@ Investigative Direction: Search court dockets for the wedding contract suits inv
 
 ---
 
-**C-11167** Host says hairstylist Justin Anderson called Nicola Peltz awful and his worst client
+**C-5506** Host says hairstylist Justin Anderson called Nicola Peltz awful and his worst client
 
 Claim Timestamp: 00:50:27
 
@@ -1957,7 +1957,7 @@ Investigative Direction: Locate Anderson's original statement and its context.
 
 ---
 
-**C-11168** Host Says Nicola Peltz's Relationship with Selena Gomez Has Fallen Apart
+**C-5507** Host Says Nicola Peltz's Relationship with Selena Gomez Has Fallen Apart
 
 Claim Timestamp: 00:51:35
 
@@ -1972,7 +1972,7 @@ Investigative Direction: Check public reporting on the Peltz and Gomez friendshi
 
 ---
 
-**C-11169** Host says Nicola Peltz dated Anwar Hadid and his family was relieved when it ended
+**C-5508** Host says Nicola Peltz dated Anwar Hadid and his family was relieved when it ended
 
 Claim Timestamp: 00:51:35
 
@@ -1987,7 +1987,7 @@ Investigative Direction: Check reporting on the relationship and the Hadid famil
 
 ---
 
-**C-11170** Host says David Beckham gave a toast about loving his family at a dinner with no cameras
+**C-5509** Host says David Beckham gave a toast about loving his family at a dinner with no cameras
 
 Claim Timestamp: 00:52:43
 
@@ -2003,7 +2003,7 @@ Investigative Direction: Ask the host for the date, venue and who was present.
 
 ---
 
-**C-11171** Host says Candace Owens kicks off her lawsuit era is trending on X
+**C-5510** Host says Candace Owens kicks off her lawsuit era is trending on X
 
 Claim Timestamp: 00:58:14
 
@@ -2019,7 +2019,7 @@ Investigative Direction: Capture the X trending topic page for that date.
 
 ---
 
-**C-11172** Host says more people are speaking and she is researching new information
+**C-5513** Host says more people are speaking and she is researching new information
 
 Claim Timestamp: 00:58:55
 
@@ -2035,7 +2035,7 @@ Investigative Direction: Ask the host which new sources have come forward and wh
 
 ---
 
-**C-11173** Host says she does not think the firings count was 40
+**C-5514** Host says she does not think the firings count was 40
 
 Claim Timestamp: 00:58:55
 
@@ -2051,7 +2051,7 @@ Investigative Direction: Obtain TPUSA headcount or termination records for the p
 
 ---
 
-**C-11174** Host says any TPUSA person, including Blake Neff and Andrew Kolvet, is welcome on her show
+**C-5515** Host says any TPUSA person, including Blake Neff and Andrew Kolvet, is welcome on her show
 
 Claim Timestamp: 01:01:13
 
@@ -2067,7 +2067,7 @@ Investigative Direction: Record any acceptance or refusal of the invitation by N
 
 ---
 
-**C-11175** Host says Andrew Kolvet texts people to do his dirty work
+**C-5516** Host says Andrew Kolvet texts people to do his dirty work
 
 Claim Timestamp: 01:01:13
 
@@ -2083,7 +2083,7 @@ Investigative Direction: Obtain the texts Kolvet allegedly sent to third parties
 
 ---
 
-**C-11176** Host says TPUSA said in the meeting she was kind of right about a lot but explained why
+**C-5517** Host says TPUSA said in the meeting she was kind of right about a lot but explained why
 
 Claim Timestamp: 01:01:13
 
@@ -2094,13 +2094,13 @@ Transcript Snippet: "Yeah, yeah, no, you were kind of right about a lot of that 
 Anchored Artifacts: A-1667.1
 Mentions: N-3
 Related Nodes: N-10000
-Supports: C-6778
+Supports: C-4491
 Tags: relevance:core
 Investigative Direction: Obtain notes or a recording of the meeting.
 
 ---
 
-**C-11177** Host says politics runs on blackmail, deceit and closeted homosexuals posing as family men
+**C-5518** Host says politics runs on blackmail, deceit and closeted homosexuals posing as family men
 
 Claim Timestamp: 01:02:43
 
@@ -2115,7 +2115,7 @@ Investigative Direction: No specific record is identifiable; treat as general op
 
 ---
 
-**C-11178** Host says the Dave Rubin matter the day before proved they hate her because she did right by them
+**C-5519** Host says the Dave Rubin matter the day before proved they hate her because she did right by them
 
 Claim Timestamp: 01:04:23
 
@@ -2130,7 +2130,7 @@ Investigative Direction: Review the prior episode's Dave Rubin segment.
 
 ---
 
-**C-11179** Host says a lawsuit would give her depositions, discovery and access to text messages for a timeline
+**C-5520** Host says a lawsuit would give her depositions, discovery and access to text messages for a timeline
 
 Claim Timestamp: 01:05:14
 
@@ -2146,7 +2146,7 @@ Investigative Direction: Watch any filed suit for discovery requests to TPUSA cu
 
 ---
 
-**C-11180** Host speculates Elizabeth McCoy is rising in the ranks and pushing for the cease and desist
+**C-5521** Host speculates Elizabeth McCoy is rising in the ranks and pushing for the cease and desist
 
 Claim Timestamp: 01:06:18
 
@@ -2162,7 +2162,7 @@ Investigative Direction: Verify Elizabeth McCoy's current role at TPUSA and any 
 
 ---
 
-**C-11181** Host says her response to TPUSA is that she is happy to pay them since they care about money
+**C-5522** Host says her response to TPUSA is that she is happy to pay them since they care about money
 
 Claim Timestamp: 01:06:18
 

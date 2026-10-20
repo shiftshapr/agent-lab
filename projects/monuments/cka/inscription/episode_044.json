@@ -27,10 +27,10 @@
           "ref": "A-1519.1",
           "description": "First-person narrative account (1990 Operation Catacomb / JTF-6 tunnel discovery and aftermath)",
           "related_claims": [
-            "C-1880",
-            "C-1881",
-            "C-1882",
-            "C-1883"
+            "C-3805",
+            "C-3809",
+            "C-3823",
+            "C-3817"
           ],
           "related_nodes": [
             "N-318",
@@ -50,10 +50,10 @@
           "ref": "A-1519.2",
           "description": "First-person narrative account (September 8–9, 2025 Fort Huachuca encounter)",
           "related_claims": [
-            "C-1884",
-            "C-1885",
-            "C-1886",
-            "C-1887"
+            "C-3829",
+            "C-3833",
+            "C-3836",
+            "C-3837"
           ],
           "related_nodes": [
             "N-318",
@@ -74,7 +74,7 @@
           "ref": "A-1519.3",
           "description": "Incident Report 861-1-2025-MPC446 (Fort Huachuca, September 9, 2025)",
           "related_claims": [
-            "C-1889"
+            "C-3852"
           ],
           "related_nodes": [
             "N-318",
@@ -94,7 +94,7 @@
           "ref": "A-1519.4",
           "description": "Candlewood Suites reservation at Fort Huachuca, September 8, 2025 ~5:37 PM",
           "related_claims": [
-            "C-1884"
+            "C-3829"
           ],
           "related_nodes": [
             "N-318",
@@ -113,8 +113,8 @@
           "ref": "A-1519.5",
           "description": "Supporting documents referenced but not displayed (army medal writeups; NDA 1990–May 2025; police records; high school graduation certificate)",
           "related_claims": [
-            "C-1882",
-            "C-1883"
+            "C-3823",
+            "C-3817"
           ],
           "related_nodes": [
             "N-318"
@@ -140,7 +140,7 @@
           "ref": "A-1520.1",
           "description": "Local TV news clip describing the 1990 Douglas, Arizona–Agua Prieta tunnel bust (joint task force discovery; $1M+ build; cocaine seizure)",
           "related_claims": [
-            "C-1880"
+            "C-3805"
           ],
           "related_nodes": [
             "N-10328",
@@ -167,7 +167,7 @@
           "ref": "A-1521.1",
           "description": "George H.W. Bush statement on crack cocaine seizure near the White House (war-on-drugs framing)",
           "related_claims": [
-            "C-1880"
+            "C-3805"
           ],
           "related_nodes": [
             "N-10328"
@@ -193,8 +193,8 @@
           "ref": "A-1522.1",
           "description": "Article reporting Arcadi Gaydamak sentenced in absentia for trafficking weapons; references Angola Gate, French intelligence background",
           "related_claims": [
-            "C-1891",
-            "C-1892"
+            "C-3864",
+            "C-3865"
           ],
           "related_nodes": [
             "N-313",
@@ -221,8 +221,8 @@
           "ref": "A-1523.1",
           "description": "Seven emails from viewers identifying \"Jonathan Schmidt\" as alleged Arcadi Gaydamak, claiming he works at Root Brands, was brought in by Clay Thomas, and has hired Ukrainian workers including Alex Smeirnoff",
           "related_claims": [
-            "C-1893",
-            "C-1894"
+            "C-3866",
+            "C-3882"
           ],
           "related_nodes": [
             "N-313",
@@ -253,8 +253,8 @@
           "ref": "A-1524.1",
           "description": "Tim Pool audio segment in which he calls Candace Owens an \"evil scumbag,\" \"degenerate,\" asserts she has no security, dismisses her concerns about assassination threats",
           "related_claims": [
-            "C-1895",
-            "C-1896"
+            "C-3885",
+            "C-3886"
           ],
           "related_nodes": [
             "N-267"
@@ -280,7 +280,7 @@
           "ref": "A-3116.1",
           "description": "Host verbal reference to opening the tips box and finding the Harry email first",
           "related_claims": [
-            "C-11034"
+            "C-3803"
           ],
           "related_nodes": [
             "N-3"
@@ -297,7 +297,7 @@
           "ref": "A-3116.2",
           "description": "Host verbal call for tips on the Jonathan Schmidt report to the more tips email address",
           "related_claims": [
-            "C-11091"
+            "C-3873"
           ],
           "related_nodes": [
             "N-3"
@@ -314,7 +314,7 @@
           "ref": "A-3116.3",
           "description": "Second verbal call for tips to the more tips email address",
           "related_claims": [
-            "C-11094"
+            "C-3877"
           ],
           "related_nodes": [
             "N-3"
@@ -354,7 +354,7 @@
           "ref": "A-3117.2",
           "description": "Viewer comment by Mary Ivat proposing a Candace Security Fund",
           "related_claims": [
-            "C-11112"
+            "C-3899"
           ],
           "related_nodes": [
             "N-3"
@@ -379,7 +379,7 @@
           "ref": "A-3118.1",
           "description": "Host verbal sponsor read for Pre-Born ultrasound donations",
           "related_claims": [
-            "C-11082"
+            "C-3861"
           ],
           "related_nodes": [
             "N-3"
@@ -409,16 +409,16 @@
         "A-1519.5"
       ],
       "related_claims": [
-        "C-1880",
-        "C-1881",
-        "C-1882",
-        "C-1883",
-        "C-1884",
-        "C-1885",
-        "C-1886",
-        "C-1887",
-        "C-1888",
-        "C-1889"
+        "C-3805",
+        "C-3809",
+        "C-3823",
+        "C-3817",
+        "C-3829",
+        "C-3833",
+        "C-3836",
+        "C-3837",
+        "C-3840",
+        "C-3852"
       ],
       "tags": [],
       "evidence_count": 5,
@@ -437,7 +437,7 @@
         "A-1519.2"
       ],
       "related_claims": [
-        "C-1887"
+        "C-3837"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -460,8 +460,8 @@
         "A-1519.3"
       ],
       "related_claims": [
-        "C-1888",
-        "C-1889"
+        "C-3840",
+        "C-3852"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -502,8 +502,8 @@
         "A-1524.1"
       ],
       "related_claims": [
-        "C-1895",
-        "C-1896"
+        "C-3885",
+        "C-3886"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -523,9 +523,9 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1891",
-        "C-1892",
-        "C-1893"
+        "C-3864",
+        "C-3865",
+        "C-3866"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -548,8 +548,8 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1893",
-        "C-1894"
+        "C-3866",
+        "C-3882"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -572,7 +572,7 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1894"
+        "C-3882"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -595,7 +595,7 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1894"
+        "C-3882"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -618,7 +618,7 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1894"
+        "C-3882"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -642,7 +642,7 @@
         "A-1520.1"
       ],
       "related_claims": [
-        "C-1881"
+        "C-3809"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -666,11 +666,11 @@
         "A-1519.4"
       ],
       "related_claims": [
-        "C-1884",
-        "C-1885",
-        "C-1886",
-        "C-1887",
-        "C-1888"
+        "C-3829",
+        "C-3833",
+        "C-3836",
+        "C-3837",
+        "C-3840"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -694,7 +694,7 @@
         "A-1519.3"
       ],
       "related_claims": [
-        "C-1889"
+        "C-3852"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -719,7 +719,7 @@
         "A-1521.1"
       ],
       "related_claims": [
-        "C-1880"
+        "C-3805"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -742,7 +742,7 @@
         "A-1519.2"
       ],
       "related_claims": [
-        "C-1887"
+        "C-3837"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -766,8 +766,8 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1893",
-        "C-1894"
+        "C-3866",
+        "C-3882"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -790,7 +790,7 @@
         "A-1523.1"
       ],
       "related_claims": [
-        "C-1894"
+        "C-3882"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -813,21 +813,21 @@
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11031",
-        "C-11032",
-        "C-11033",
-        "C-11064",
-        "C-11071",
-        "C-11075",
-        "C-11076",
-        "C-11077",
-        "C-11078",
-        "C-11099",
-        "C-11101",
-        "C-11102",
-        "C-11105",
-        "C-11109",
-        "C-11111"
+        "C-3800",
+        "C-3801",
+        "C-3802",
+        "C-3842",
+        "C-3849",
+        "C-3854",
+        "C-3855",
+        "C-3856",
+        "C-3857",
+        "C-3883",
+        "C-3887",
+        "C-3888",
+        "C-3891",
+        "C-3895",
+        "C-3898"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -845,52 +845,52 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11031",
-        "C-11032",
-        "C-11033",
-        "C-11034",
-        "C-11035",
-        "C-11052",
-        "C-11067",
-        "C-11068",
-        "C-11070",
-        "C-11072",
-        "C-11075",
-        "C-11077",
-        "C-11078",
-        "C-11079",
-        "C-11080",
-        "C-11081",
-        "C-11082",
-        "C-11083",
-        "C-11084",
-        "C-11087",
-        "C-11088",
-        "C-11089",
-        "C-11090",
-        "C-11091",
-        "C-11092",
-        "C-11093",
-        "C-11094",
-        "C-11095",
-        "C-11096",
-        "C-11097",
-        "C-11098",
-        "C-11099",
-        "C-11100",
-        "C-11101",
-        "C-11102",
-        "C-11103",
-        "C-11104",
-        "C-11105",
-        "C-11106",
-        "C-11107",
-        "C-11108",
-        "C-11109",
-        "C-11110",
-        "C-11111",
-        "C-11112",
-        "C-11113"
+        "C-3800",
+        "C-3801",
+        "C-3802",
+        "C-3803",
+        "C-3804",
+        "C-3825",
+        "C-3845",
+        "C-3846",
+        "C-3848",
+        "C-3850",
+        "C-3854",
+        "C-3856",
+        "C-3857",
+        "C-3858",
+        "C-3859",
+        "C-3860",
+        "C-3861",
+        "C-3862",
+        "C-3867",
+        "C-3870",
+        "C-3869",
+        "C-3871",
+        "C-3872",
+        "C-3873",
+        "C-3875",
+        "C-3876",
+        "C-3877",
+        "C-3878",
+        "C-3879",
+        "C-3880",
+        "C-3881",
+        "C-3883",
+        "C-3884",
+        "C-3887",
+        "C-3888",
+        "C-3889",
+        "C-3890",
+        "C-3891",
+        "C-3892",
+        "C-3893",
+        "C-3894",
+        "C-3895",
+        "C-3896",
+        "C-3898",
+        "C-3899",
+        "C-3900"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -908,7 +908,7 @@
       "description": "Named by the host as involved in Iran-Contra per her Epstein series.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11038"
+        "C-3808"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -925,7 +925,7 @@
       "description": "Researcher the host praises for focusing on the faith angle at TPUSA.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11106"
+        "C-3892"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -942,7 +942,7 @@
       "description": "FBI Director; the host says he is not interested in the French angle.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11105"
+        "C-3891"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -959,8 +959,8 @@
       "description": "Guest on a long episode in which, per the host, he defended her against Tim Pool's accusation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11101",
-        "C-11102"
+        "C-3887",
+        "C-3888"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -977,7 +977,7 @@
       "description": "Kirk's aide; the host says he was with Kirk in Korea, which fits Harry not seeing him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11075"
+        "C-3854"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -994,8 +994,8 @@
       "description": "Angolagate figure named as Gaydamak's partner.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11083",
-        "C-11084"
+        "C-3862",
+        "C-3867"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1012,7 +1012,7 @@
       "description": "Her office is the only one the host says responded to her threat report.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11089"
+        "C-3871"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1029,7 +1029,7 @@
       "description": "Researcher Harry says he would like to meet.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11080"
+        "C-3859"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1046,7 +1046,7 @@
       "description": "Named as helping present JTF-6 as a war on drugs.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11036"
+        "C-3806"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1063,10 +1063,10 @@
       "description": "Organization the host says hired former cartel weapons traffickers and was infiltrated via its faith structure.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11084",
-        "C-11106",
-        "C-11107",
-        "C-11108"
+        "C-3867",
+        "C-3892",
+        "C-3893",
+        "C-3894"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1083,8 +1083,8 @@
       "description": "Country the host says she has named in her reports of an assassination attempt coordination.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11088",
-        "C-11097"
+        "C-3869",
+        "C-3880"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1101,7 +1101,7 @@
       "description": "Existing topic reused for the host's remarks on Patel's disinterest.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11105"
+        "C-3891"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1118,7 +1118,7 @@
       "description": "Existing topic reused for the host's question about TPUSA and Pierre.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11084"
+        "C-3867"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1135,8 +1135,8 @@
       "description": "Existing topic reused for the government-cartel and cartel-involvement remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11052",
-        "C-11111"
+        "C-3825",
+        "C-3898"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1153,7 +1153,7 @@
       "description": "Existing topic reused for the host's reference to Kirk's day-before messages.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11109"
+        "C-3895"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1170,7 +1170,7 @@
       "description": "Existing topic reused for the host's contact with Gabbard's office.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11089"
+        "C-3871"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1187,12 +1187,12 @@
       "description": "Existing topic reused for Kirk's final Korea and Japan trip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11031",
-        "C-11032",
-        "C-11075",
-        "C-11076",
-        "C-11077",
-        "C-11078"
+        "C-3800",
+        "C-3801",
+        "C-3854",
+        "C-3855",
+        "C-3856",
+        "C-3857"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1209,7 +1209,7 @@
       "description": "Existing topic reused for the faith-infiltration remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11106"
+        "C-3892"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1226,7 +1226,7 @@
       "description": "Existing topic reused for the Poland-to-Mexico trafficking remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11108"
+        "C-3894"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1243,7 +1243,7 @@
       "description": "Existing topic reused for the faith-infiltration remark.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11106"
+        "C-3892"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1260,11 +1260,11 @@
       "description": "Existing topic reused for the host's French intelligence remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11088",
-        "C-11089",
-        "C-11097",
-        "C-11105",
-        "C-11113"
+        "C-3869",
+        "C-3871",
+        "C-3880",
+        "C-3891",
+        "C-3900"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1281,7 +1281,7 @@
       "description": "Existing topic reused for Falcone and Gaydamak's involvement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11083"
+        "C-3862"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1298,7 +1298,7 @@
       "description": "Organization advertised in the sponsor read.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11082"
+        "C-3861"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1315,10 +1315,10 @@
       "description": "First named by the host at 00:05:09 in episode 44. President who created JTF-6 and ran on a war on drugs; heard in a clip.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11036",
-        "C-11037",
-        "C-11039",
-        "C-11040"
+        "C-3806",
+        "C-3807",
+        "C-3810",
+        "C-3811"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1335,7 +1335,7 @@
       "description": "First named by the host at 00:05:09 in episode 44. President during Iran-Contra, mentioned for historical context.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11037"
+        "C-3807"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1352,9 +1352,9 @@
       "description": "The 1980s scandal the host cites as showing the CIA trafficked drugs and weapons and as a context for JTF-6 and Epstein.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11037",
-        "C-11038",
-        "C-11039"
+        "C-3807",
+        "C-3808",
+        "C-3810"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1371,12 +1371,12 @@
       "description": "The border command Harry says he served in during 1990 and its alleged continuation as JTF Southern Border at Fort Huachuca.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11036",
-        "C-11041",
-        "C-11042",
-        "C-11049",
-        "C-11058",
-        "C-11059"
+        "C-3806",
+        "C-3812",
+        "C-3813",
+        "C-3821",
+        "C-3832",
+        "C-3834"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1393,8 +1393,8 @@
       "description": "The host's claims about a Ukrainian influx and about dangerous people entering as refugees, raised alongside the Nashville Root Brands tips.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11092",
-        "C-11093"
+        "C-3875",
+        "C-3876"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1411,8 +1411,8 @@
       "description": "The host's statement that TPUSA hired former cartel weapons traffickers, including an alleged Poland-to-Mexico route.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11107",
-        "C-11108"
+        "C-3893",
+        "C-3894"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1429,7 +1429,7 @@
       "description": "A viewer-suggested security fund that the host says she may start.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11112"
+        "C-3899"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1446,13 +1446,13 @@
       "description": "The exchange in which Tim Pool's clip calls the host names and says she has no security, and the host's responses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11098",
-        "C-11099",
-        "C-11100",
-        "C-11101",
-        "C-11102",
-        "C-11103",
-        "C-11104"
+        "C-3881",
+        "C-3883",
+        "C-3884",
+        "C-3887",
+        "C-3888",
+        "C-3889",
+        "C-3890"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1469,8 +1469,8 @@
       "description": "Harry's account of passing through Salt Lake City airport on September 10, 2025 and learning of the shooting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11064",
-        "C-11065"
+        "C-3842",
+        "C-3843"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1482,8 +1482,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1880",
-      "ref": "C-1880",
+      "@id": "C-3805",
+      "ref": "C-3805",
       "label": "Harry Myers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb",
       "claim": "In a message from Harry that the host reads, a then-20-year-old military sensor operator assigned to JTF-6 says he planted sensors and pinpointed the location of the first discovered Sinaloa cartel underground rail tunnel, letting a Border Patrol agent seek a warrant to raid it; a news clip the host plays shows the tunnel ran from Douglas, Arizona to Agua Prieta, and the host dates the discovery to 1990.",
       "anchored_artifacts": [
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1881",
-      "ref": "C-1881",
+      "@id": "C-3809",
+      "ref": "C-3809",
       "label": "Photos on the Mexican side of the 1990 tunnel allegedly showed a JTF-6 commander posing with El Chapo and other U.S. officers",
       "claim": "Harry states photos recovered from the Mexican side of the tunnel depicted the JTF-6 commander, El Chapo, El Chapo's architect Felipe, other U.S. Marine officers, and Mexican law enforcement personnel.",
       "anchored_artifacts": [
@@ -1523,8 +1523,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1882",
-      "ref": "C-1882",
+      "@id": "C-3823",
+      "ref": "C-3823",
       "label": "Per Message Host Reads, Harry Was Placed Under an NDA Gag Order Dated 1990 to May 2025",
       "claim": "Per a message from Harry that the host reads verbatim, an NDA gag order dated 1990 to May 2025 prevented him from publicly discussing the 1990 tunnel incident until May 2025.",
       "anchored_artifacts": [
@@ -1541,8 +1541,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1883",
-      "ref": "C-1883",
+      "@id": "C-3817",
+      "ref": "C-3817",
       "label": "Harry received an army medal with writeups documenting his critical role in the 1990 mission",
       "claim": "Harry states he received an army medal and writeups mentioning his critical role in the tunnel mission, even though his superiors took credit.",
       "anchored_artifacts": [
@@ -1559,8 +1559,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1884",
-      "ref": "C-1884",
+      "@id": "C-3829",
+      "ref": "C-3829",
       "label": "Host Says Harry Checked Into Candlewood Suites at Fort Huachuca on September 8, 2025 at About 5:37 PM",
       "claim": "The host says Harry Myers told her he arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.",
       "anchored_artifacts": [
@@ -1579,8 +1579,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1885",
-      "ref": "C-1885",
+      "@id": "C-3833",
+      "ref": "C-3833",
       "label": "Harry entered a temporary JTF-SB headquarters on Fort Huachuca on September 9, 2025 at approximately 7:37 AM",
       "claim": "The host says Harry told her he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting.",
       "anchored_artifacts": [
@@ -1598,8 +1598,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1886",
-      "ref": "C-1886",
+      "@id": "C-3836",
+      "ref": "C-3836",
       "label": "Harry observed approximately 12–13 lieutenant colonels / colonels at the JTF-SB meeting on September 9, 2025",
       "claim": "The host says Harry told her he saw about 12 lieutenant colonels as the meeting he walked in on was concluding; later, after viewers in the chat corrected her that the ranks should be E5s and E6s, she says Harry described lieutenant colonels and colonels and estimates 12 to 13 were in the meeting.",
       "anchored_artifacts": [
@@ -1617,8 +1617,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1887",
-      "ref": "C-1887",
+      "@id": "C-3837",
+      "ref": "C-3837",
       "label": "Harry identified Brian Harpole among those exiting the JTF-SB meeting on September 9, 2025",
       "claim": "The host, saying 'allegedly' because she was not there, says Harry told her he is certain that Brian Harpole was one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and remembers him because of Charlie Kirk's assassination.",
       "anchored_artifacts": [
@@ -1638,8 +1638,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1888",
-      "ref": "C-1888",
+      "@id": "C-3840",
+      "ref": "C-3840",
       "label": "Host Says Harry Reports a \"Captain Neff\" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025",
       "claim": "The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as \"Captain Neff\" was approximately 36 years old with brown hair and was, best Harry could tell, commander of force protection.",
       "anchored_artifacts": [
@@ -1658,8 +1658,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1889",
-      "ref": "C-1889",
+      "@id": "C-3852",
+      "ref": "C-3852",
       "label": "Incident report 861-1-2025-MPC446 was generated in connection with Harry's September 9, 2025 encounter at Fort Huachuca",
       "claim": "The host says Harry told her that Captain Neff gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.",
       "anchored_artifacts": [
@@ -1678,8 +1678,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1890",
-      "ref": "C-1890",
+      "@id": "C-3863",
+      "ref": "C-3863",
       "label": "Arcadi Gaydamak was sentenced in absentia for trafficking weapons and is described as a former French intelligence agent",
       "claim": "The host says Arcadi Gaydamak did not show up for his court hearing and was just sentenced in absentia for trafficking weapons, and that, as she says one can see in an article, he was a French intelligence agent.",
       "anchored_artifacts": [
@@ -1695,8 +1695,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1891",
-      "ref": "C-1891",
+      "@id": "C-3864",
+      "ref": "C-3864",
       "label": "Arcadi Gaydamak was born in Russia and subsequently moved to Israel after Israeli statehood",
       "claim": "The host says Gaydamak was born in Russia and that when Israel became a nation he was \"first over there\".",
       "anchored_artifacts": [
@@ -1712,8 +1712,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1892",
-      "ref": "C-1892",
+      "@id": "C-3865",
+      "ref": "C-3865",
       "label": "Seven Viewer Emails the Host Describes Claim Arcadi Gaydamak Is Living in Nashville Under the Name \"Jonathan Schmidt\"",
       "claim": "The host says seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.",
       "anchored_artifacts": [
@@ -1732,8 +1732,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1893",
-      "ref": "C-1893",
+      "@id": "C-3866",
+      "ref": "C-3866",
       "label": "\"Jonathan Schmidt\" is alleged to work at Root Brands as a technology officer and to have hired Ukrainians including Alex Smeirnoff",
       "claim": "The host says tipsters claim that Jonathan Schmidt/Gaydamak works at Root Brands as a technology officer, was brought in by a businessman in town named Clay Thomas, and has brought in and secured jobs for Ukrainians, including Alex Smeirnoff, who he alleges are running from the war.",
       "anchored_artifacts": [
@@ -1756,8 +1756,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1894",
-      "ref": "C-1894",
+      "@id": "C-3882",
+      "ref": "C-3882",
       "label": "Tim Pool described Candace Owens as an \"evil scumbag,\" \"degenerate,\" and asserted she has no security",
       "claim": "In an audio clip played on the show, Tim Pool calls Candace Owens an \"evil scumbag\" and a \"degenerate,\" asserts she has no security, and dismisses her concerns about threats against her.",
       "anchored_artifacts": [
@@ -1774,8 +1774,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1895",
-      "ref": "C-1895",
+      "@id": "C-3885",
+      "ref": "C-3885",
       "label": "Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard",
       "claim": "In the audio clip, Tim Pool tells another speaker, \"You told me you went to her house and she's got a 4ft wall and one fat guy,\" and says no one is \"out for her\".",
       "anchored_artifacts": [
@@ -1792,8 +1792,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1896",
-      "ref": "C-1896",
+      "@id": "C-3886",
+      "ref": "C-3886",
       "label": "Tim Pool says bullets were fired at his property and strangers broke into his Maryland house",
       "claim": "In the same audio clip, Tim Pool contrasts his own situation with Candace Owens', saying bullets were fired at his property, that he had to go live in the middle of nowhere, and that strangers broke into his house in Maryland.",
       "anchored_artifacts": [
@@ -1812,8 +1812,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3653",
-      "ref": "C-3653",
+      "@id": "C-3897",
+      "ref": "C-3897",
       "label": "Host urges viewers to become DCIA units in their own communities",
       "claim": "The host urges viewers to \"become our own little CIA units or DCIA units in our own communities and share information,\" because the government cannot be trusted to take care of them.",
       "anchored_artifacts": [],
@@ -1829,8 +1829,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11031",
-      "ref": "C-11031",
+      "@id": "C-3800",
+      "ref": "C-3800",
       "label": "Host Says Kirk's Final Asia Trip Was His First, Korea Then Japan",
       "claim": "The host says that in the final days before the assassination Charlie Kirk made a first-time, quick trip to Asia, going first to Korea for a couple of days and then to Japan.",
       "anchored_artifacts": [],
@@ -1850,8 +1850,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11032",
-      "ref": "C-11032",
+      "@id": "C-3801",
+      "ref": "C-3801",
       "label": "Host Floats That the Asia Trip Timing Was Intentional",
       "claim": "The host says that, as a self-described conspiracy theorist, she might think the timing of Kirk's Asia trip was intentional because something was going on back home that they did not want him to see.",
       "anchored_artifacts": [],
@@ -1871,8 +1871,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11033",
-      "ref": "C-11033",
+      "@id": "C-3802",
+      "ref": "C-3802",
       "label": "Host Says She Prayed at Mass for a Piece of Evidence Before the Harry Tip Arrived",
       "claim": "The host says that on the Feast of the Immaculate Conception she prayed during mass for a piece of concrete evidence, such as proof of a planning session in the days before the assassination, to be delivered to her.",
       "anchored_artifacts": [],
@@ -1890,8 +1890,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11034",
-      "ref": "C-11034",
+      "@id": "C-3803",
+      "ref": "C-3803",
       "label": "Host Says Harry Tip Was the First Email She Opened in the Tips Box",
       "claim": "The host says that after mass she opened the tips box and the very first email she saw, from a young woman urging her to call an unnamed friend with urgent information, led her to call Harry within five minutes.",
       "anchored_artifacts": [
@@ -1912,8 +1912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11035",
-      "ref": "C-11035",
+      "@id": "C-3804",
+      "ref": "C-3804",
       "label": "Host Says She Fact-Checked Harry and Finds Him 100 Percent Honest",
       "claim": "The host says she has fact-checked the elements of Harry's story she could check, that descriptions of people rest on his memory, and that he is being 100 percent honest about where he was and why.",
       "anchored_artifacts": [],
@@ -1933,8 +1933,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11036",
-      "ref": "C-11036",
+      "@id": "C-3806",
+      "ref": "C-3806",
       "label": "Host Says JTF-6 Was Created at the Border by President George H.W. Bush as a War on Drugs",
       "claim": "The host says the 20-year-old Harry was attached to the brand new Joint Task Force Six, created down at the border by President George H.W. Bush and presented to the public as a war on drugs with the help of Colin Powell.",
       "anchored_artifacts": [],
@@ -1955,8 +1955,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11037",
-      "ref": "C-11037",
+      "@id": "C-3807",
+      "ref": "C-3807",
       "label": "Host Says Iran-Contra Showed the CIA Trafficked Drugs and Weapons in South America",
       "claim": "The host says the Iran-Contra affair, under Reagan with George H.W. Bush as vice president, was the scandal in which the public learned the CIA was trafficking drugs and weapons through South America.",
       "anchored_artifacts": [],
@@ -1976,8 +1976,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11038",
-      "ref": "C-11038",
+      "@id": "C-3808",
+      "ref": "C-3808",
       "label": "Host Says Epstein Was Also Involved in Iran-Contra per Her Series",
       "claim": "The host says that, if viewers have followed her Epstein series, they now know Jeffrey Epstein was also involved in the Iran-Contra scandal.",
       "anchored_artifacts": [],
@@ -1996,8 +1996,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11039",
-      "ref": "C-11039",
+      "@id": "C-3810",
+      "ref": "C-3810",
       "label": "Host Says Bush Campaigned in 1988 on Hitting Hard on Border Drugs",
       "claim": "The host says that after Iran-Contra, George H.W. Bush ran for president in 1988 and had to hit hard on drugs at the border and declare the White House would stop them flooding into America.",
       "anchored_artifacts": [],
@@ -2016,8 +2016,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11040",
-      "ref": "C-11040",
+      "@id": "C-3811",
+      "ref": "C-3811",
       "label": "Bush Clip Shows Crack Cocaine Said to Be Seized Across From the White House",
       "claim": "In the played clip, George H.W. Bush says the crack cocaine was seized a few days earlier by drug enforcement agents in a park just across the street from the White House.",
       "anchored_artifacts": [
@@ -2036,8 +2036,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11041",
-      "ref": "C-11041",
+      "@id": "C-3812",
+      "ref": "C-3812",
       "label": "Harry Says He Skipped the Chain of Command to Pinpoint the First Sinaloa Tunnel in Six Days",
       "claim": "Reading Harry's words, the host says that in six days he planted sensors, translated data, skipped the chain of command and pinpointed the first discovered Sinaloa cartel underground rail tunnel.",
       "anchored_artifacts": [
@@ -2059,8 +2059,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11042",
-      "ref": "C-11042",
+      "@id": "C-3813",
+      "ref": "C-3813",
       "label": "Harry Says Some Commanders Were Working With the Cartel",
       "claim": "Reading Harry's words, the host says he skipped command and a Border Patrol agent skipped his own command to seek a warrant directly, which avoided tipping off compromised commanders who were working with the cartel.",
       "anchored_artifacts": [
@@ -2082,8 +2082,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11043",
-      "ref": "C-11043",
+      "@id": "C-3814",
+      "ref": "C-3814",
       "label": "News Clip Describes a Reinforced Tunnel 30 Feet Down From a Douglas Warehouse to an Agua Prieta House",
       "claim": "In the played 1990 news clip, federal agents broke into a concrete-reinforced tunnel at a warehouse in Douglas, Arizona, walked about 100 yards through it 30 feet underground, and reached a house in Agua Prieta.",
       "anchored_artifacts": [
@@ -2101,8 +2101,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11044",
-      "ref": "C-11044",
+      "@id": "C-3815",
+      "ref": "C-3815",
       "label": "News Clip Says the Tunnel Cost at Least $1 Million and Ran 6 to 12 Months",
       "claim": "In the played news clip, federal agents say the tunnel cost at least a million dollars to build and had probably been in operation for 6 months to a year.",
       "anchored_artifacts": [
@@ -2120,8 +2120,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11045",
-      "ref": "C-11045",
+      "@id": "C-3816",
+      "ref": "C-3816",
       "label": "News Clip Says 2,000 Pounds of Cocaine Seized Headed for Southern California",
       "claim": "In the played news clip, the reporter says police seized 2,000 pounds of cocaine that came into the US through the tunnel and was headed for Southern California, with Mexican authorities also involved in the investigation and raid.",
       "anchored_artifacts": [
@@ -2139,8 +2139,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11046",
-      "ref": "C-11046",
+      "@id": "C-3818",
+      "ref": "C-3818",
       "label": "Host Says the News Clip Reported Pictures of U.S. Military Men in the House",
       "claim": "The host says that what the reporter in the news clip said was that there were pictures of United States military men in the Mexican house; the transcribed clip audio itself does not state this.",
       "anchored_artifacts": [
@@ -2158,8 +2158,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11047",
-      "ref": "C-11047",
+      "@id": "C-3819",
+      "ref": "C-3819",
       "label": "Harry Says His Identity Was Given to the Cartels Days After the Bust",
       "claim": "Reading Harry's words, the host says that in the immediate days after the bust, before the US side received the photos from Mexican authorities, his information was given to the cartels.",
       "anchored_artifacts": [
@@ -2180,8 +2180,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11048",
-      "ref": "C-11048",
+      "@id": "C-3820",
+      "ref": "C-3820",
       "label": "Harry Says a Cartel Member in Naco, Arizona Recited His Mother's Name and Address",
       "claim": "Reading Harry's words, the host says that on a follow-up mission to Naco, Arizona a cartel member approached him and confirmed his identity by reciting his mother's name, address, high school and friends, all items from his clearance packet. The transcript renders the town as 'Naco, Arizona'.",
       "anchored_artifacts": [
@@ -2202,8 +2202,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11049",
-      "ref": "C-11049",
+      "@id": "C-3821",
+      "ref": "C-3821",
       "label": "Harry Says His Clearance Packet Was in the Custody of the Commander Pictured With El Chapo",
       "claim": "Reading Harry's words, the host says the clearance packet that was compromised was supposed to be in the custody of the Joint Task Force 6 commander whose picture was with El Chapo.",
       "anchored_artifacts": [
@@ -2226,8 +2226,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11050",
-      "ref": "C-11050",
+      "@id": "C-3822",
+      "ref": "C-3822",
       "label": "Harry Says Army CID and a Tucson Prosecutor Debriefed Him and Promised Witness Protection",
       "claim": "Reading Harry's words, the host says that the next day he had a debrief with Army Criminal Investigation Division and a prosecutor from Tucson about how his ID became compromised, was told he would be put in witness protection, and had his orders restricted from counter-narcotics work and Border Patrol cooperation.",
       "anchored_artifacts": [
@@ -2248,8 +2248,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11051",
-      "ref": "C-11051",
+      "@id": "C-3824",
+      "ref": "C-3824",
       "label": "Harry Says Witness Protection Never Happened and a Deal Was Made With the Compromised Commander",
       "claim": "Reading Harry's account, the host says the witness protection entrance never happened, the ball was dropped, and from what was uncovered a deal was made with the compromised US Border Patrol agent commander.",
       "anchored_artifacts": [
@@ -2270,8 +2270,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11052",
-      "ref": "C-11052",
+      "@id": "C-3825",
+      "ref": "C-3825",
       "label": "Host Says the Government Was Working With the Cartels Per Harry's Story",
       "claim": "The host summarizes that Harry accidentally stumbled upon the fact that the government was implicated not in fighting the cartels but in working with them, and that his commander may have spitefully fed him to the cartels.",
       "anchored_artifacts": [
@@ -2294,8 +2294,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11053",
-      "ref": "C-11053",
+      "@id": "C-3826",
+      "ref": "C-3826",
       "label": "Host Says Harry Suffered Hacking, Abusive Litigation and Police Records That Vanished, Later Recovered by Clerks",
       "claim": "The host says that over 35 years Harry says he was hacked, harassed, hit with abusive litigation and attacked by narco attorneys, that police records for these events virtually disappeared, and that county clerks later dug them up so he now has all his paperwork.",
       "anchored_artifacts": [
@@ -2316,8 +2316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11054",
-      "ref": "C-11054",
+      "@id": "C-3827",
+      "ref": "C-3827",
       "label": "Host Says Harry Was Freed From the NDA in May 2025 and Has a New Name",
       "claim": "The host says that in May 2025 Harry Myers, who now has a new name she is not disclosing, was finally released from the 35-year military NDA.",
       "anchored_artifacts": [
@@ -2338,8 +2338,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11055",
-      "ref": "C-11055",
+      "@id": "C-3828",
+      "ref": "C-3828",
       "label": "Host Says Harry Traveled From Washington to Fort Huachuca for Answers About Why He Was Never Protected",
       "claim": "The host says Harry, now 56, decided to travel in person from his home in Washington to Fort Huachuca to find out why he was never protected and whether the FBI had been informed.",
       "anchored_artifacts": [],
@@ -2358,8 +2358,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11056",
-      "ref": "C-11056",
+      "@id": "C-3830",
+      "ref": "C-3830",
       "label": "Harry Says the Special Forces Man and a Young Woman Left the Lobby in a Green Pickup",
       "claim": "The host relays that in the Candlewood Suites lobby on September 8 Harry noticed a man he took for special forces and a young woman he did not recognize at the time, and that the two later got into a green pickup truck and drove off.",
       "anchored_artifacts": [
@@ -2380,8 +2380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11057",
-      "ref": "C-11057",
+      "@id": "C-3831",
+      "ref": "C-3831",
       "label": "Harry Says Soldiers With 10th Mountain Division Patches Met Him at a Sierra Vista Coffee Stop",
       "claim": "The host says that on September 9 Harry drove off base to get coffee in Sierra Vista after failing to find Army CID and ran into soldiers wearing 10th Mountain Division patches, which he recognized as his old unit.",
       "anchored_artifacts": [],
@@ -2400,8 +2400,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11058",
-      "ref": "C-11058",
+      "@id": "C-3832",
+      "ref": "C-3832",
       "label": "Harry Says the Soldiers Told Him JTF-6 Is Now JTF Southern Border and Gave Directions",
       "claim": "The host says the soldiers told Harry that the old Joint Task Force 6 is now continued as Joint Task Force Southern Border and gave him directions to the new command center.",
       "anchored_artifacts": [],
@@ -2421,8 +2421,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11059",
-      "ref": "C-11059",
+      "@id": "C-3834",
+      "ref": "C-3834",
       "label": "Harry Says the JTF-SB Element Was Borrowing a Building He Could Not Otherwise Have Found",
       "claim": "The host says the soldiers told Harry that JTF-SB was currently borrowing a building, and that Harry says there was no other way he would have discovered where it was.",
       "anchored_artifacts": [
@@ -2444,8 +2444,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11060",
-      "ref": "C-11060",
+      "@id": "C-3835",
+      "ref": "C-3835",
       "label": "Harry Says So Many Senior Officers Together Is Seen Only at the Pentagon or White House",
       "claim": "The host relays Harry's view that seeing about a dozen lieutenant colonels in one place is something you see only at the Pentagon or the White House, making it a very important meeting.",
       "anchored_artifacts": [
@@ -2466,8 +2466,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11061",
-      "ref": "C-11061",
+      "@id": "C-3838",
+      "ref": "C-3838",
       "label": "Harry Describes the Central Figure Leaving the Meeting With Brian Harpole",
       "claim": "The host relays that of three men who walked out, Harry identifies the most important person as having gray hair and glasses and being about 5 foot 10, with the man alongside him being Brian Harpole.",
       "anchored_artifacts": [
@@ -2490,8 +2490,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11062",
-      "ref": "C-11062",
+      "@id": "C-3839",
+      "ref": "C-3839",
       "label": "Harry Says the Staff Were Friendly Until the Men Left, Then Someone Hit the Panic Button",
       "claim": "The host says Harry told her the check-in officers were friendly and offered help, and that only after the man he believes was Brian Harpole came out did someone hit the panic button and two captains escort him out.",
       "anchored_artifacts": [
@@ -2513,8 +2513,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11063",
-      "ref": "C-11063",
+      "@id": "C-3841",
+      "ref": "C-3841",
       "label": "Harry Says the Base Commander Was Consulted Before He Was Sent Off Post",
       "claim": "Reading Harry's message, the host says that after the bomb-threat and gaslighting angles fell flat, the interrogators conferenced with the base commander and, after he assumed they verified he was not there to spy on the meeting, decided to send him off post.",
       "anchored_artifacts": [
@@ -2535,8 +2535,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11064",
-      "ref": "C-11064",
+      "@id": "C-3842",
+      "ref": "C-3842",
       "label": "Harry Says He Was Flying Through Salt Lake City When He Learned of Kirk's Shooting",
       "claim": "Reading Harry's message, the host says he returned his rental car the next morning, flew home with a stop in Salt Lake, and upon landing and turning on his phone his wife told him about Charlie Kirk.",
       "anchored_artifacts": [
@@ -2559,8 +2559,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11065",
-      "ref": "C-11065",
+      "@id": "C-3843",
+      "ref": "C-3843",
       "label": "Harry Says the Salt Lake Airport Was Not Very Crowded",
       "claim": "Reading Harry's message, the host says he noticed nothing helpful about the strange flights in the airport other than that the airport was not very crowded.",
       "anchored_artifacts": [
@@ -2581,8 +2581,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11066",
-      "ref": "C-11066",
+      "@id": "C-3844",
+      "ref": "C-3844",
       "label": "Harry Says They Debated Holding Him for 48 Hours",
       "claim": "The host says Harry told her that after seven hours the officers debated holding him for 48 hours over the perceived bomb threat or spy concern.",
       "anchored_artifacts": [
@@ -2603,8 +2603,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11067",
-      "ref": "C-11067",
+      "@id": "C-3845",
+      "ref": "C-3845",
       "label": "Host Says Both Harry and the Officers Were Wrong and the Encounter Was a Coincidence",
       "claim": "The host says Harry thought the treatment was cartel-related while the military thought he was a spy, and that both were wrong and the encounter was really just a coincidence.",
       "anchored_artifacts": [],
@@ -2624,8 +2624,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11068",
-      "ref": "C-11068",
+      "@id": "C-3846",
+      "ref": "C-3846",
       "label": "Host Wonders Whether Blake Neff Has Military Connections Like Captain Neff",
       "claim": "The host says she had not questioned it until now but it seems possible that Blake Neff has military connections too, as a brother or cousin of the Captain Neff who interrogated Harry, though she had thought of him only as the producer of the Charlie Kirk show.",
       "anchored_artifacts": [],
@@ -2644,8 +2644,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11069",
-      "ref": "C-11069",
+      "@id": "C-3847",
+      "ref": "C-3847",
       "label": "Harry Says Captain Neff Eventually Showed a Heart and Escorted Him Off Base",
       "claim": "The host relays that the interrogating captain was eventually a person with a heart who realized Harry was not part of any spy network and escorted him off the base.",
       "anchored_artifacts": [
@@ -2667,8 +2667,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11070",
-      "ref": "C-11070",
+      "@id": "C-3848",
+      "ref": "C-3848",
       "label": "Harry Says Such Meetings Are Held Ahead of an Operation",
       "claim": "The host quotes Harry saying he knows how these meetings work and that they are the meetings held ahead of an operation, with final confirmation meetings of the higher-ups held in a very isolated location.",
       "anchored_artifacts": [
@@ -2690,8 +2690,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11071",
-      "ref": "C-11071",
+      "@id": "C-3849",
+      "ref": "C-3849",
       "label": "Harry Says He Recognized the Meeting Attendees on Fox News and at the Memorial After the Assassination",
       "claim": "The host says Harry feels certain he recognized the people from the meeting in the days after the assassination, when many were on Fox News and in front of the camera at the stadium memorial eulogizing Kirk.",
       "anchored_artifacts": [
@@ -2713,8 +2713,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11072",
-      "ref": "C-11072",
+      "@id": "C-3850",
+      "ref": "C-3850",
       "label": "Host Says Harry Sent Her Documents Including a Diploma, Military Papers and Police Records",
       "claim": "The host says she has verified, and that Harry has sent her many documents, from his high school graduation certificate to military documents and police records, plus NDAs and court filings about the events of 35 years ago.",
       "anchored_artifacts": [
@@ -2736,8 +2736,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11073",
-      "ref": "C-11073",
+      "@id": "C-3851",
+      "ref": "C-3851",
       "label": "Harry Says There Would Be No Record Unless They Had Swarmed Him as a Bomb Threat",
       "claim": "The host says Harry told her there would have been no record of the encounter if they had not swarmed him as if he were a bomb threat, so there is now an actual incident report that he believes can be obtained by FOIA.",
       "anchored_artifacts": [
@@ -2753,7 +2753,7 @@
       "investigative_direction": "File the FOIA request for the incident report and the associated MP blotter entry.",
       "transcript_snippet": "He said there would have been no record for this if they didn't swarm me as if there was a bomb threat because now of course there is an actual incident report",
       "supports_claim_refs": [
-        "C-1889"
+        "C-3852"
       ],
       "mentions_person_refs": [
         "N-318"
@@ -2761,8 +2761,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11074",
-      "ref": "C-11074",
+      "@id": "C-3853",
+      "ref": "C-3853",
       "label": "Host Says Captain Neff Gave Harry the Incident Report Number",
       "claim": "The host says the report number 861-1-2025-MPC446 was given to Harry by the captain who commanded the interrogation, whom she calls Captain Neff.",
       "anchored_artifacts": [
@@ -2778,7 +2778,7 @@
       "investigative_direction": "Ask Fort Huachuca Provost Marshal whether the number is a valid MPC sequence format for 2025.",
       "transcript_snippet": "So that is the report number that was given to him by this captain commander Neff.",
       "supports_claim_refs": [
-        "C-1889"
+        "C-3852"
       ],
       "mentions_person_refs": [
         "N-318",
@@ -2787,8 +2787,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11075",
-      "ref": "C-11075",
+      "@id": "C-3854",
+      "ref": "C-3854",
       "label": "Host Says Harry Did Not See Dan Flood Which Fits Flood Being in Korea With Kirk",
       "claim": "The host says she asked Harry whether he saw Dan Flood, he said no, and she says that checks out because Dan Flood was with Charlie in Korea.",
       "anchored_artifacts": [],
@@ -2811,8 +2811,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11076",
-      "ref": "C-11076",
+      "@id": "C-3855",
+      "ref": "C-3855",
       "label": "Host Says Kirk Was at a Korea Event on September 6 and on CNN Japan on September 7",
       "claim": "The host says Kirk was in Korea doing an event on September 6 and was in Japan on September 7, speaking on CNN Japan.",
       "anchored_artifacts": [],
@@ -2831,8 +2831,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11077",
-      "ref": "C-11077",
+      "@id": "C-3856",
+      "ref": "C-3856",
       "label": "Host Asks Why Kirk Went to Japan a Day Before a College Campus Event",
       "claim": "The host questions why Kirk would go to Japan the day before a college campus event, given the long flight back.",
       "anchored_artifacts": [],
@@ -2852,8 +2852,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11078",
-      "ref": "C-11078",
+      "@id": "C-3857",
+      "ref": "C-3857",
       "label": "Host Speculates Kirk May Have Left Japan on the 9th After a 12-Hour Flight",
       "claim": "The host speculates that Kirk may have left Japan on September 9 for a roughly 12-hour flight home and says someone out there knows something.",
       "anchored_artifacts": [],
@@ -2873,8 +2873,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11079",
-      "ref": "C-11079",
+      "@id": "C-3858",
+      "ref": "C-3858",
       "label": "Host Says She Has a Terrifying Update About People Trying to Assassinate Her",
       "claim": "The host says she has a very terrifying update regarding people who have been trying to assassinate her.",
       "anchored_artifacts": [],
@@ -2886,7 +2886,7 @@
       "investigative_direction": "Ask the host to document the alleged attempts and the agencies informed; the later Gaydamak segment appears to be this update.",
       "transcript_snippet": "I have a very terrifying update for you um regarding people that have been trying to assassinate me.",
       "supports_claim_refs": [
-        "C-1781"
+        "C-3330"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2894,8 +2894,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11080",
-      "ref": "C-11080",
+      "@id": "C-3859",
+      "ref": "C-3859",
       "label": "Harry Says He Would Love to Meet Ian Carroll",
       "claim": "The host says Harry told her he would love to meet Ian Carroll and that she will make that happen.",
       "anchored_artifacts": [],
@@ -2914,8 +2914,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11081",
-      "ref": "C-11081",
+      "@id": "C-3860",
+      "ref": "C-3860",
       "label": "Host Says She Thinks the Feds Probably Already Knew About the Meeting",
       "claim": "The host says she does not expect the feds to be interested in this angle or the potential meeting, which she thinks they probably already knew about.",
       "anchored_artifacts": [],
@@ -2934,8 +2934,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11082",
-      "ref": "C-11082",
+      "@id": "C-3861",
+      "ref": "C-3861",
       "label": "Pre-Born Ad Read Says One Ultrasound Costs $28",
       "claim": "In a sponsor read, the host says one ultrasound is just $28 through Pre-Born and listeners can give ten times that amount.",
       "anchored_artifacts": [
@@ -2956,8 +2956,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11083",
-      "ref": "C-11083",
+      "@id": "C-3862",
+      "ref": "C-3862",
       "label": "Host Says Pierre Falcone Had a Partner, Arcadi Gaydamak, in Angolagate",
       "claim": "The host says Pierre Falcone had a partner named Arcadi Gaydamak (transcribed 'Gammock') and that both were involved in Angolagate, which she calls global trafficking at the highest levels of government.",
       "anchored_artifacts": [],
@@ -2971,7 +2971,7 @@
       "investigative_direction": "Cite the French Angolagate judgment naming Falcone and Gaydamak as co-defendants.",
       "transcript_snippet": "Pierre Falone had a partner named Arcadi Gammock didn't expect that to be relevant to anything but they were both involved in Angola Gate",
       "supports_claim_refs": [
-        "C-1869"
+        "C-3751"
       ],
       "mentions_person_refs": [
         "N-312",
@@ -2981,8 +2981,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11084",
-      "ref": "C-11084",
+      "@id": "C-3867",
+      "ref": "C-3867",
       "label": "Host Says She Asked Viewers About TPUSA Possibly Working With Pierre",
       "claim": "The host says that after the previous episode she asked whether anyone knew anything about Turning Point potentially working with this Pierre person, which prompted the flood of emails about Gaydamak.",
       "anchored_artifacts": [],
@@ -3004,8 +3004,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11085",
-      "ref": "C-11085",
+      "@id": "C-3868",
+      "ref": "C-3868",
       "label": "Tipsters Say Gaydamak Is From Israel and Has Been in Nashville Since June",
       "claim": "The host says the seven tipsters are certain at the very least that the man is from Israel.",
       "anchored_artifacts": [],
@@ -3025,8 +3025,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11086",
-      "ref": "C-11086",
+      "@id": "C-3874",
+      "ref": "C-3874",
       "label": "Tipsters Say Jonathan Schmidt Was Shopping for a Home in Brentwood",
       "claim": "The host says tipsters told her that the man using the name Jonathan Schmidt was shopping for a home in the Brentwood area, and she addresses real estate agents among her viewers.",
       "anchored_artifacts": [],
@@ -3045,8 +3045,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11087",
-      "ref": "C-11087",
+      "@id": "C-3870",
+      "ref": "C-3870",
       "label": "Host Says She Reached Out to Clay Thomas and Root Brands",
       "claim": "The host says she reached out to Clay Thomas and to Root Brands requesting information about the Russian-Israeli employee using the name Jonathan Schmidt and bringing in Ukrainians.",
       "anchored_artifacts": [],
@@ -3067,8 +3067,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11088",
-      "ref": "C-11088",
+      "@id": "C-3869",
+      "ref": "C-3869",
       "label": "Host Says She Told Authorities of an Assassination Attempt Coordination, Naming Israel and France",
       "claim": "The host says she has been telling the feds that there is an assassination attempt and coordination, and that she has named Israel and France.",
       "anchored_artifacts": [],
@@ -3083,7 +3083,7 @@
       "investigative_direction": "Ask the host for the dates and recipients of her reports to federal agencies.",
       "transcript_snippet": "I've been telling them that there's an assa like assassination attempt and coordination. I have said Israel, I have said France.",
       "supports_claim_refs": [
-        "C-1781"
+        "C-3330"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3091,8 +3091,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11089",
-      "ref": "C-11089",
+      "@id": "C-3871",
+      "ref": "C-3871",
       "label": "Host Says Tulsi Gabbard's Office Is the Only One That Responded to Her Threat Report",
       "claim": "The host says that she ran the threat concerning French intelligence agencies working with Israel to the only office that has responded, which is Tulsi Gabbard's office.",
       "anchored_artifacts": [],
@@ -3113,8 +3113,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11090",
-      "ref": "C-11090",
+      "@id": "C-3872",
+      "ref": "C-3872",
       "label": "Host Says Her Husband Already Contacted Authorities That Morning",
       "claim": "The host says she thinks her husband has already contacted the authorities about the Nashville tips after she told him to do so that morning.",
       "anchored_artifacts": [],
@@ -3131,8 +3131,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11091",
-      "ref": "C-11091",
+      "@id": "C-3873",
+      "ref": "C-3873",
       "label": "Host Asks Viewers to Email More Tips About Jonathan Schmidt",
       "claim": "The host asks anyone in Nashville who has seen the man using the name Jonathan Schmidt to email the show's tips address.",
       "anchored_artifacts": [
@@ -3155,8 +3155,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11092",
-      "ref": "C-11092",
+      "@id": "C-3875",
+      "ref": "C-3875",
       "label": "Host Says There Is a Major Influx of Ukrainians Building Up in Washington",
       "claim": "The host says she has heard that everywhere in America, including a major influx in Washington, there are Ukrainians who claim to be fleeing the war.",
       "anchored_artifacts": [],
@@ -3175,8 +3175,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11093",
-      "ref": "C-11093",
+      "@id": "C-3876",
+      "ref": "C-3876",
       "label": "Host Says Dangerous People Enter Other Countries as Refugees During Wars",
       "claim": "The host says it is during wars that the most dangerous people are allowed into other countries under the guise of being refugees, and that this is how they take over other countries.",
       "anchored_artifacts": [],
@@ -3195,8 +3195,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11094",
-      "ref": "C-11094",
+      "@id": "C-3877",
+      "ref": "C-3877",
       "label": "Host Again Asks Viewers to Email Tips About Jonathan Schmidt",
       "claim": "The host repeats her request that anyone who knows something about the man in Nashville email the tips address.",
       "anchored_artifacts": [
@@ -3219,8 +3219,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11095",
-      "ref": "C-11095",
+      "@id": "C-3878",
+      "ref": "C-3878",
       "label": "Host Says Gaydamak Is Supposed to Be a Billionaire and She Does Not Buy the Name Schmidt",
       "claim": "The host says that if this is the correct individual, he is supposed to be a billionaire, so it is odd he would be working, and she is not buying the name Jonathan Schmidt.",
       "anchored_artifacts": [],
@@ -3241,8 +3241,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11096",
-      "ref": "C-11096",
+      "@id": "C-3879",
+      "ref": "C-3879",
       "label": "Host Says She Does Not Believe the Man Is Legally Allowed in the Country",
       "claim": "The host says she does not believe the man is legally allowed to be in the country and urges ICE or Border Patrol agents to get involved.",
       "anchored_artifacts": [],
@@ -3262,8 +3262,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11097",
-      "ref": "C-11097",
+      "@id": "C-3880",
+      "ref": "C-3880",
       "label": "Host Says Her Assassination-Attempt Coordination Claim Involved Israel and French Intelligence",
       "claim": "The host says she was always telling the truth about the coordination of an assassination attempt which involved Israel and French intelligence agencies.",
       "anchored_artifacts": [],
@@ -3278,7 +3278,7 @@
       "investigative_direction": "Ask the host for the evidence tying a coordination to Israel and French intelligence beyond the tips she has described.",
       "transcript_snippet": "I was always telling the truth about the coordination of an assassination attempt uh which involved Israel and French intelligence agencies.",
       "supports_claim_refs": [
-        "C-1781"
+        "C-3330"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3286,8 +3286,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11098",
-      "ref": "C-11098",
+      "@id": "C-3881",
+      "ref": "C-3881",
       "label": "Host Says Tim Pool Is Signaling That She Has No Security, Which She Says Is Untrue",
       "claim": "The host says Tim Pool is trying to signal to the public that she does not have security, which she says is untrue, and that he is trying to get her harmed.",
       "anchored_artifacts": [],
@@ -3301,7 +3301,7 @@
       "investigative_direction": "Ask the host to describe her security arrangements; compare with Pool's statements about visiting her home.",
       "transcript_snippet": "now is trying to signal to the public that I don't have security which is untrue but he is trying to get me harmed.",
       "contradicts_claim_refs": [
-        "C-1894"
+        "C-3882"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3310,8 +3310,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11099",
-      "ref": "C-11099",
+      "@id": "C-3883",
+      "ref": "C-3883",
       "label": "Tim Pool Says Candace Puts People on a Thumbnail and Claims They Benefited From the Assassination",
       "claim": "In the played clip, Tim Pool says people fear she will put them on her thumbnail and claim they benefited from Charlie Kirk's assassination, which he says she is doing to him right now.",
       "anchored_artifacts": [
@@ -3334,8 +3334,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11100",
-      "ref": "C-11100",
+      "@id": "C-3884",
+      "ref": "C-3884",
       "label": "Tim Pool Says Conservatives DM Him Thanks but Lack the Courage to Call Her Out",
       "claim": "In the played clip, Tim Pool says many conservatives send him messages saying 'Good for you, Tim' but have no balls to call Candace Owens out themselves.",
       "anchored_artifacts": [
@@ -3357,8 +3357,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11101",
-      "ref": "C-11101",
+      "@id": "C-3887",
+      "ref": "C-3887",
       "label": "Host Says Tim Pool Accused Her of Benefiting From the Assassination on an Episode With Milo",
       "claim": "The host says that Tim Pool accused her, in a full episode with Milo Yiannopoulos that she showed and contextualized, of benefiting from Charlie Kirk's assassination, which is why he is in her thumbnail.",
       "anchored_artifacts": [],
@@ -3380,8 +3380,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11102",
-      "ref": "C-11102",
+      "@id": "C-3888",
+      "ref": "C-3888",
       "label": "Host Says Milo Defended Her in a Two-Hour Episode",
       "claim": "The host says that in a roughly two-hour episode with Milo Yiannopoulos, Milo defended her and explained she is not to blame for the lame excuses the feds have given regarding Kirk's assassination.",
       "anchored_artifacts": [],
@@ -3402,8 +3402,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11103",
-      "ref": "C-11103",
+      "@id": "C-3889",
+      "ref": "C-3889",
       "label": "Host Says Tim Pool Is Under Financial Pressure and Auditioning for Zionist Funding",
       "claim": "The host says Tim Pool is under financial pressure and is trying out for a Zionist to pay him, and that they will cut him a check.",
       "anchored_artifacts": [],
@@ -3423,8 +3423,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11104",
-      "ref": "C-11104",
+      "@id": "C-3890",
+      "ref": "C-3890",
       "label": "Host Says She Has Not Focused Her Content on Tim Pool and Mentions Him Only After His Attacks",
       "claim": "The host says she has not focused her content on Tim Pool and that any time his name has come up it was because he explicitly attacked her.",
       "anchored_artifacts": [],
@@ -3444,8 +3444,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11105",
-      "ref": "C-11105",
+      "@id": "C-3891",
+      "ref": "C-3891",
       "label": "Host Says Kash Patel Is Not Interested and the Feds Knew About the French Angle",
       "claim": "The host says Kash Patel is just not interested and that she struggles to believe the feds did not know about the French angle in the Charlie Kirk assassination, adding that they did know.",
       "anchored_artifacts": [],
@@ -3467,8 +3467,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11106",
-      "ref": "C-11106",
+      "@id": "C-3892",
+      "ref": "C-3892",
       "label": "Host Says the Faith Angle Was the Infiltration of Turning Point USA",
       "claim": "The host says she believes the faith angle was the infiltration at Turning Point USA, praising Village Crazy Lady's work focusing on it.",
       "anchored_artifacts": [],
@@ -3484,7 +3484,7 @@
       "investigative_direction": "Compare with TPUSA Faith's staffing and funding records and the earlier claims of military-linked pastors.",
       "transcript_snippet": "I do believe that the faith was the infiltration at Turning Point USA.",
       "supports_claim_refs": [
-        "C-6636"
+        "C-2771"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3493,8 +3493,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11107",
-      "ref": "C-11107",
+      "@id": "C-3893",
+      "ref": "C-3893",
       "label": "Host Says TPUSA Recently Hired Former Cartel Weapons Traffickers Who Found God",
       "claim": "The host says that in the last year Turning Point USA hired former cartel weapons traffickers who found God.",
       "anchored_artifacts": [],
@@ -3514,8 +3514,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11108",
-      "ref": "C-11108",
+      "@id": "C-3894",
+      "ref": "C-3894",
       "label": "Host Says the Former Traffickers Moved Weapons and Drugs From Poland Through to Mexico",
       "claim": "The host says the former traffickers were trafficking weapons and drugs from Poland through to Mexico before they found God.",
       "anchored_artifacts": [],
@@ -3536,8 +3536,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11109",
-      "ref": "C-11109",
+      "@id": "C-3895",
+      "ref": "C-3895",
       "label": "Host Says Charlie Messaged People the Day Before That 'They Are Going to Kill Me'",
       "claim": "The host says she wonders whether the silver-or-lead choice was presented to Charlie and whether that is why he was fearful the day before when he messaged people and said \"They are going to kill me\", and asks who he was referring to.",
       "anchored_artifacts": [],
@@ -3551,7 +3551,7 @@
       "investigative_direction": "Obtain the messages themselves, recipients and timestamps from the host's source or TPUSA.",
       "transcript_snippet": "I wonder if that's why he was fearful the day before when he messaged people and said, \"They are going to kill me.\"",
       "supports_claim_refs": [
-        "C-9358"
+        "C-1559"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -3560,8 +3560,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11110",
-      "ref": "C-11110",
+      "@id": "C-3896",
+      "ref": "C-3896",
       "label": "Host Says the Nation Is Infiltrated and Gangs Control a Lot",
       "claim": "The host says that as a nation we are infiltrated and have gangs that are controlling a lot.",
       "anchored_artifacts": [],
@@ -3578,8 +3578,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11111",
-      "ref": "C-11111",
+      "@id": "C-3898",
+      "ref": "C-3898",
       "label": "Host Floats That the Cartels Could Have Been Involved in the Assassination",
       "claim": "The host says maybe people are terrified because they have known all along that the cartels could have been involved in the assassination, adding that she does not know and is just following the facts.",
       "anchored_artifacts": [],
@@ -3599,8 +3599,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11112",
-      "ref": "C-11112",
+      "@id": "C-3899",
+      "ref": "C-3899",
       "label": "Host Says She May Start a Security Fund After a Viewer Suggestion",
       "claim": "The host says that after a viewer suggested a Candace Security Fund she may accept the offer and start a fund in the coming days or weeks.",
       "anchored_artifacts": [
@@ -3621,8 +3621,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11113",
-      "ref": "C-11113",
+      "@id": "C-3900",
+      "ref": "C-3900",
       "label": "Host Says the White House Has Been Silent on the French Intelligence Angle",
       "claim": "The host says the French intelligence angle and the lack of commentary from the White House have scared her and show how far-reaching this is.",
       "anchored_artifacts": [],

@@ -27,8 +27,8 @@
           "ref": "A-2566.1",
           "description": "Clip of Victor Marx's October 2023 live report from Israel on the Charlie Kirk Show",
           "related_claims": [
-            "C-4010",
-            "C-4011"
+            "C-9157",
+            "C-9158"
           ],
           "related_nodes": [
             "N-1",
@@ -56,8 +56,8 @@
           "ref": "A-2567.1",
           "description": "Excerpt of Brian Harpole's court filing against the host, read aloud",
           "related_claims": [
-            "C-4016",
-            "C-4017"
+            "C-9163",
+            "C-9164"
           ],
           "related_nodes": [
             "N-1",
@@ -78,7 +78,7 @@
           "ref": "A-2567.2",
           "description": "Colorado local media item of September 17 confirming Charlie Kirk was due at the college the day after UVU",
           "related_claims": [
-            "C-4018"
+            "C-9165"
           ],
           "related_nodes": [
             "N-1",
@@ -105,12 +105,12 @@
           "ref": "A-2568.1",
           "description": "September 10 flight data for tail number N582MM (Denver–Pierre, South Dakota–Chicago–Provo, then back to Pierre)",
           "related_claims": [
-            "C-4021",
-            "C-4022",
-            "C-4023",
-            "C-4024",
-            "C-4025",
-            "C-4026"
+            "C-9168",
+            "C-9169",
+            "C-9170",
+            "C-9171",
+            "C-9172",
+            "C-9173"
           ],
           "related_nodes": [
             "N-1",
@@ -140,7 +140,7 @@
           "ref": "A-2569.1",
           "description": "Email from a local correspondent on the first 911 call, read aloud",
           "related_claims": [
-            "C-4031"
+            "C-9178"
           ],
           "related_nodes": [
             "N-10920"
@@ -157,7 +157,7 @@
           "ref": "A-2569.2",
           "description": "Same email on mutual-aid officers knocking on locked classroom doors, read aloud",
           "related_claims": [
-            "C-4032"
+            "C-9179"
           ],
           "related_nodes": [
             "N-10920"
@@ -174,8 +174,8 @@
           "ref": "A-2569.3",
           "description": "CBS Colorado news segment interviewing roofer Delmer Martinez, with his footage",
           "related_claims": [
-            "C-4029",
-            "C-4033"
+            "C-9176",
+            "C-9180"
           ],
           "related_nodes": [
             "N-617",
@@ -203,7 +203,7 @@
           "ref": "A-2570.1",
           "description": "Live-chat comment from Miami2388 on the alibi photo of Erika Kirk's children",
           "related_claims": [
-            "C-4044"
+            "C-9191"
           ],
           "related_nodes": [
             "N-2",
@@ -222,9 +222,9 @@
           "ref": "A-2570.2",
           "description": "Clip of Gary Melton reading Erika Kirk's September 9 alibi live on his Paramount Tactical show",
           "related_claims": [
-            "C-4040",
-            "C-4041",
-            "C-4043"
+            "C-9187",
+            "C-9188",
+            "C-9190"
           ],
           "related_nodes": [
             "N-1",
@@ -250,8 +250,8 @@
           "ref": "A-2570.3",
           "description": "Photo of two children with on-screen metadata, presented on Melton's stream as proof Erika Kirk was with her kids",
           "related_claims": [
-            "C-4042",
-            "C-4044"
+            "C-9189",
+            "C-9191"
           ],
           "related_nodes": [
             "N-2",
@@ -272,7 +272,7 @@
           "ref": "A-2570.4",
           "description": "Gary Melton tweet saying the boy in the photo is not Erika Kirk's son",
           "related_claims": [
-            "C-4046"
+            "C-9193"
           ],
           "related_nodes": [
             "N-2",
@@ -300,8 +300,8 @@
           "ref": "A-2571.1",
           "description": "VFX LA website page on voice cloning (Skip Caray project for Fanatics Collectibles)",
           "related_claims": [
-            "C-4049",
-            "C-4050"
+            "C-9196",
+            "C-9197"
           ],
           "related_nodes": [
             "N-424",
@@ -321,7 +321,7 @@
           "ref": "A-2571.2",
           "description": "VFX LA demonstration video of an AI lip-sync of an Ariel commercial into French and German",
           "related_claims": [
-            "C-4052"
+            "C-9199"
           ],
           "related_nodes": [
             "N-10921"
@@ -362,7 +362,7 @@
           "ref": "A-2572.2",
           "description": "Viewer comment on donor-advised funds and the Waterstone lawsuit",
           "related_claims": [
-            "C-4055"
+            "C-9202"
           ],
           "related_nodes": [
             "N-1",
@@ -382,7 +382,7 @@
           "ref": "A-2572.3",
           "description": "Viewer comment (Allie) on Erika Kirk's Glenn Beck statement about night-before texts",
           "related_claims": [
-            "C-4057"
+            "C-9204"
           ],
           "related_nodes": [
             "N-1",
@@ -404,7 +404,7 @@
           "ref": "A-2572.4",
           "description": "Viewer comment (TJ Clark) from a self-described former Aurora police officer offering help with records requests",
           "related_claims": [
-            "C-4059"
+            "C-9206"
           ],
           "related_nodes": [
             "N-3",
@@ -422,7 +422,7 @@
           "ref": "A-2572.5",
           "description": "Viewer comment (Happy Coma) on which agency responded in Evergreen",
           "related_claims": [
-            "C-4061"
+            "C-9208"
           ],
           "related_nodes": [
             "N-10920"
@@ -447,7 +447,7 @@
           "ref": "A-2573.1",
           "description": "Host verbal reference to the tips email address, asking a former Aurora officer to send his information",
           "related_claims": [
-            "C-4059"
+            "C-9206"
           ],
           "related_nodes": [
             "N-3",
@@ -481,32 +481,32 @@
         "A-2572.3"
       ],
       "related_claims": [
-        "C-4007",
-        "C-4009",
-        "C-4010",
-        "C-4012",
-        "C-4013",
-        "C-4015",
-        "C-4016",
-        "C-4017",
-        "C-4018",
-        "C-4020",
-        "C-4021",
-        "C-4022",
-        "C-4023",
-        "C-4024",
-        "C-4025",
-        "C-4026",
-        "C-4027",
-        "C-4041",
-        "C-4043",
-        "C-4048",
-        "C-4051",
-        "C-4053",
-        "C-4054",
-        "C-4055",
-        "C-4057",
-        "C-4058"
+        "C-9154",
+        "C-9156",
+        "C-9157",
+        "C-9159",
+        "C-9160",
+        "C-9162",
+        "C-9163",
+        "C-9164",
+        "C-9165",
+        "C-9167",
+        "C-9168",
+        "C-9169",
+        "C-9170",
+        "C-9171",
+        "C-9172",
+        "C-9173",
+        "C-9174",
+        "C-9188",
+        "C-9190",
+        "C-9195",
+        "C-9198",
+        "C-9200",
+        "C-9201",
+        "C-9202",
+        "C-9204",
+        "C-9205"
       ],
       "tags": [],
       "evidence_count": 8,
@@ -530,22 +530,22 @@
         "A-2572.3"
       ],
       "related_claims": [
-        "C-4008",
-        "C-4014",
-        "C-4020",
-        "C-4039",
-        "C-4040",
-        "C-4041",
-        "C-4042",
-        "C-4043",
-        "C-4044",
-        "C-4046",
-        "C-4051",
-        "C-4054",
-        "C-4055",
-        "C-4056",
-        "C-4057",
-        "C-4058"
+        "C-9155",
+        "C-9161",
+        "C-9167",
+        "C-9186",
+        "C-9187",
+        "C-9188",
+        "C-9189",
+        "C-9190",
+        "C-9191",
+        "C-9193",
+        "C-9198",
+        "C-9201",
+        "C-9202",
+        "C-9203",
+        "C-9204",
+        "C-9205"
       ],
       "tags": [],
       "evidence_count": 6,
@@ -570,18 +570,18 @@
         "A-2573.1"
       ],
       "related_claims": [
-        "C-4005",
-        "C-4006",
-        "C-4012",
-        "C-4015",
-        "C-4016",
-        "C-4017",
-        "C-4039",
-        "C-4043",
-        "C-4044",
-        "C-4051",
-        "C-4057",
-        "C-4059"
+        "C-9152",
+        "C-9153",
+        "C-9159",
+        "C-9162",
+        "C-9163",
+        "C-9164",
+        "C-9186",
+        "C-9190",
+        "C-9191",
+        "C-9198",
+        "C-9204",
+        "C-9206"
       ],
       "tags": [],
       "evidence_count": 7,
@@ -598,8 +598,8 @@
       "description": "The host says he posted her face on a Time magazine cover calling her the most vile person of the year; his announcement is a reference point for Marx's earlier death announcement.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4005",
-        "C-4007"
+        "C-9152",
+        "C-9154"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -616,7 +616,7 @@
       "description": "Placed by the host on the Superfeed board with Lori Frantzve.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4056"
+        "C-9203"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -637,12 +637,12 @@
         "A-2572.3"
       ],
       "related_claims": [
-        "C-4039",
-        "C-4040",
-        "C-4042",
-        "C-4043",
-        "C-4053",
-        "C-4057"
+        "C-9186",
+        "C-9187",
+        "C-9189",
+        "C-9190",
+        "C-9200",
+        "C-9204"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -661,7 +661,7 @@
         "A-2570.2"
       ],
       "related_claims": [
-        "C-4043"
+        "C-9190"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -680,7 +680,7 @@
         "A-2568.1"
       ],
       "related_claims": [
-        "C-4021"
+        "C-9168"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -699,8 +699,8 @@
         "A-2570.2"
       ],
       "related_claims": [
-        "C-4020",
-        "C-4043"
+        "C-9167",
+        "C-9190"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -719,7 +719,7 @@
         "A-2572.3"
       ],
       "related_claims": [
-        "C-4057"
+        "C-9204"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -738,8 +738,8 @@
         "A-2567.1"
       ],
       "related_claims": [
-        "C-4016",
-        "C-4017"
+        "C-9163",
+        "C-9164"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -758,8 +758,8 @@
         "A-2567.1"
       ],
       "related_claims": [
-        "C-4016",
-        "C-4058"
+        "C-9163",
+        "C-9205"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -778,13 +778,13 @@
         "A-2566.1"
       ],
       "related_claims": [
-        "C-4006",
-        "C-4007",
-        "C-4008",
-        "C-4009",
-        "C-4010",
-        "C-4011",
-        "C-4013"
+        "C-9153",
+        "C-9154",
+        "C-9155",
+        "C-9156",
+        "C-9157",
+        "C-9158",
+        "C-9160"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -801,7 +801,7 @@
       "description": "Fort Huachuca eyewitness; the host says Gary Melton's guest, Mitch's son, inadvertently confirmed Mitch was there.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4045"
+        "C-9192"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -820,9 +820,9 @@
         "A-2571.1"
       ],
       "related_claims": [
-        "C-4047",
-        "C-4048",
-        "C-4049"
+        "C-9194",
+        "C-9195",
+        "C-9196"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -841,8 +841,8 @@
         "A-2572.2"
       ],
       "related_claims": [
-        "C-4055",
-        "C-4056"
+        "C-9202",
+        "C-9203"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -863,11 +863,11 @@
         "A-2570.4"
       ],
       "related_claims": [
-        "C-4040",
-        "C-4041",
-        "C-4042",
-        "C-4045",
-        "C-4046"
+        "C-9187",
+        "C-9188",
+        "C-9189",
+        "C-9192",
+        "C-9193"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -884,7 +884,7 @@
       "description": "First named by the host at 00:09:26 in episode 103. Founder of Charis Bible College, described by the host as former military.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4019"
+        "C-9166"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -903,9 +903,9 @@
         "A-2569.3"
       ],
       "related_claims": [
-        "C-4028",
-        "C-4029",
-        "C-4030"
+        "C-9175",
+        "C-9176",
+        "C-9177"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -924,7 +924,7 @@
         "A-2569.3"
       ],
       "related_claims": [
-        "C-4029"
+        "C-9176"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -943,9 +943,9 @@
         "A-2569.3"
       ],
       "related_claims": [
-        "C-4029",
-        "C-4033",
-        "C-4034"
+        "C-9176",
+        "C-9180",
+        "C-9181"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -964,7 +964,7 @@
         "A-2571.1"
       ],
       "related_claims": [
-        "C-4050"
+        "C-9197"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -981,7 +981,7 @@
       "description": "First named by the host at 00:53:58 in episode 103. The host's name for an Aurora theater shooting victim who, she says, had survived an earlier shooting at a food court in Canada; the host is unsure of the name.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4060"
+        "C-9207"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1001,14 +1001,14 @@
         "A-2571.1"
       ],
       "related_claims": [
-        "C-4009",
-        "C-4021",
-        "C-4022",
-        "C-4039",
-        "C-4047",
-        "C-4048",
-        "C-4049",
-        "C-4056"
+        "C-9156",
+        "C-9168",
+        "C-9169",
+        "C-9186",
+        "C-9194",
+        "C-9195",
+        "C-9196",
+        "C-9203"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1027,7 +1027,7 @@
         "A-2567.2"
       ],
       "related_claims": [
-        "C-4018"
+        "C-9165"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1046,9 +1046,9 @@
         "A-2566.1"
       ],
       "related_claims": [
-        "C-4010",
-        "C-4011",
-        "C-4012"
+        "C-9157",
+        "C-9158",
+        "C-9159"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1067,9 +1067,9 @@
         "A-2568.1"
       ],
       "related_claims": [
-        "C-4022",
-        "C-4025",
-        "C-4026"
+        "C-9169",
+        "C-9172",
+        "C-9173"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1088,8 +1088,8 @@
         "A-2572.3"
       ],
       "related_claims": [
-        "C-4057",
-        "C-4058"
+        "C-9204",
+        "C-9205"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1106,7 +1106,7 @@
       "description": "Mitch Snow's encounter, which the host says Melton's guest inadvertently corroborated.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4045"
+        "C-9192"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1125,8 +1125,8 @@
         "A-2572.2"
       ],
       "related_claims": [
-        "C-4055",
-        "C-4056"
+        "C-9202",
+        "C-9203"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1146,11 +1146,11 @@
         "A-2567.2"
       ],
       "related_claims": [
-        "C-4015",
-        "C-4016",
-        "C-4017",
-        "C-4018",
-        "C-4019"
+        "C-9162",
+        "C-9163",
+        "C-9164",
+        "C-9165",
+        "C-9166"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1169,7 +1169,7 @@
         "A-2570.2"
       ],
       "related_claims": [
-        "C-4040"
+        "C-9187"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1186,7 +1186,7 @@
       "description": "The host says the night-before message to Dan Flood was an iMessage, not Telegram.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4058"
+        "C-9205"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1208,12 +1208,12 @@
         "A-2570.4"
       ],
       "related_claims": [
-        "C-4040",
-        "C-4041",
-        "C-4042",
-        "C-4043",
-        "C-4044",
-        "C-4046"
+        "C-9187",
+        "C-9188",
+        "C-9189",
+        "C-9190",
+        "C-9191",
+        "C-9193"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -1233,8 +1233,8 @@
         "A-2573.1"
       ],
       "related_claims": [
-        "C-4014",
-        "C-4059"
+        "C-9161",
+        "C-9206"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1253,7 +1253,7 @@
         "A-2568.1"
       ],
       "related_claims": [
-        "C-4022"
+        "C-9169"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1270,8 +1270,8 @@
       "description": "Marx's early death announcement and reported falling out with Charlie Kirk.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4007",
-        "C-4009"
+        "C-9154",
+        "C-9156"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1288,7 +1288,7 @@
       "description": "The host asks how Marx came to be in Erika Kirk's immediate circle.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4008"
+        "C-9155"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1305,7 +1305,7 @@
       "description": "Marx has answered the host's message and she plans to set a time for him to appear.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4006"
+        "C-9153"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1324,8 +1324,8 @@
         "A-2566.1"
       ],
       "related_claims": [
-        "C-4010",
-        "C-4011"
+        "C-9157",
+        "C-9158"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1344,10 +1344,10 @@
         "A-2572.1"
       ],
       "related_claims": [
-        "C-4047",
-        "C-4051",
-        "C-4053",
-        "C-4054"
+        "C-9194",
+        "C-9198",
+        "C-9200",
+        "C-9201"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1367,10 +1367,10 @@
         "A-2570.4"
       ],
       "related_claims": [
-        "C-4040",
-        "C-4041",
-        "C-4045",
-        "C-4046"
+        "C-9187",
+        "C-9188",
+        "C-9192",
+        "C-9193"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1389,12 +1389,12 @@
         "A-2568.1"
       ],
       "related_claims": [
-        "C-4021",
-        "C-4022",
-        "C-4023",
-        "C-4024",
-        "C-4025",
-        "C-4026"
+        "C-9168",
+        "C-9169",
+        "C-9170",
+        "C-9171",
+        "C-9172",
+        "C-9173"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1416,19 +1416,19 @@
         "A-2572.5"
       ],
       "related_claims": [
-        "C-4027",
-        "C-4028",
-        "C-4029",
-        "C-4030",
-        "C-4031",
-        "C-4032",
-        "C-4033",
-        "C-4034",
-        "C-4035",
-        "C-4036",
-        "C-4037",
-        "C-4038",
-        "C-4061"
+        "C-9174",
+        "C-9175",
+        "C-9176",
+        "C-9177",
+        "C-9178",
+        "C-9179",
+        "C-9180",
+        "C-9181",
+        "C-9182",
+        "C-9183",
+        "C-9184",
+        "C-9185",
+        "C-9208"
       ],
       "tags": [],
       "evidence_count": 4,
@@ -1448,11 +1448,11 @@
         "A-2571.2"
       ],
       "related_claims": [
-        "C-4048",
-        "C-4049",
-        "C-4050",
-        "C-4052",
-        "C-4053"
+        "C-9195",
+        "C-9196",
+        "C-9197",
+        "C-9199",
+        "C-9200"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1469,7 +1469,7 @@
       "description": "Company the host says powers the Turning Point USA app and has Lori Frantzve and Tyler Bowyer on its board.",
       "related_artifacts": [],
       "related_claims": [
-        "C-4056"
+        "C-9203"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1481,8 +1481,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-4005",
-      "ref": "C-4005",
+      "@id": "C-9152",
+      "ref": "C-9152",
       "label": "Trump posted the host's face on a Time magazine cover calling her the most vile person of the year",
       "claim": "The host says President Trump suddenly posted her face on Time magazine calling her the most vile person of the year.",
       "anchored_artifacts": [],
@@ -1498,8 +1498,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4006",
-      "ref": "C-4006",
+      "@id": "C-9153",
+      "ref": "C-9153",
       "label": "Victor Marx answered the host's Instagram message; she will try to schedule him",
       "claim": "The host says Victor Marx replied to her Instagram message while she was in Italy and that she will try to set a time for him to appear on the show.",
       "anchored_artifacts": [],
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4007",
-      "ref": "C-4007",
+      "@id": "C-9154",
+      "ref": "C-9154",
       "label": "Victor Marx was the first documented public person to announce Charlie Kirk's death",
       "claim": "The host says Victor Marx was the first documented public person to post a video announcing Charlie Kirk had died, well before the President or anyone else, and asks who told him.",
       "anchored_artifacts": [],
@@ -1530,7 +1530,7 @@
       "investigative_direction": "Compare the posting timestamp of Marx's video with Trump's Truth Social announcement and other first public reports on September 10, 2025.",
       "transcript_snippet": "why was Victor Marx the first documented public person to do a video announcing that Charlie had passed long before the President of the United States or anybody else.",
       "supports_claim_refs": [
-        "C-2748"
+        "C-8316"
       ],
       "mentions_person_refs": [
         "N-341",
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4008",
-      "ref": "C-4008",
+      "@id": "C-9155",
+      "ref": "C-9155",
       "label": "Victor Marx hugged Erika Kirk in her home after she flew back to Arizona",
       "claim": "The host says Victor Marx was in Erika Kirk's immediate circle after the assassination and was in her home to hug her as soon as she flew back to Arizona.",
       "anchored_artifacts": [],
@@ -1553,7 +1553,7 @@
       "investigative_direction": "Identify the source and date of the photos or video showing Marx at the Kirk residence.",
       "transcript_snippet": "As soon as she flew back home to Arizona, he was there to offer her a hug in her home.",
       "supports_claim_refs": [
-        "C-2715"
+        "C-8124"
       ],
       "mentions_person_refs": [
         "N-341",
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4009",
-      "ref": "C-4009",
+      "@id": "C-9156",
+      "ref": "C-9156",
       "label": "Charlie Kirk and Victor Marx had a falling out and unfollowed each other",
       "claim": "According to the host's TPUSA insider sources, Charlie Kirk and Victor Marx had a serious falling out and stopped following each other on social media for a period of time.",
       "anchored_artifacts": [],
@@ -1582,8 +1582,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4010",
-      "ref": "C-4010",
+      "@id": "C-9157",
+      "ref": "C-9157",
       "label": "Marx's last public appearance with Charlie Kirk was an October 2023 report from Israel",
       "claim": "The host says it appears the last time Victor Marx appeared publicly with Charlie Kirk was in October 2023, when he reported on the Charlie Kirk Show from Israel shortly after October 7.",
       "anchored_artifacts": [
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4011",
-      "ref": "C-4011",
+      "@id": "C-9158",
+      "ref": "C-9158",
       "label": "Marx said his group's relationships with IDF special forces commanders are extensive",
       "claim": "In the October 2023 clip, Victor Marx says that his group's relationships with IDF special forces commanders are \"extensive\" and that they were being taken to places to report on what had happened.",
       "anchored_artifacts": [
@@ -1625,8 +1625,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4012",
-      "ref": "C-4012",
+      "@id": "C-9159",
+      "ref": "C-9159",
       "label": "Tips say pastors knew of Charlie Kirk's death early through IDF contacts",
       "claim": "The host says she received tips saying churchgoers were told that some pastors knew Charlie Kirk was dead before others because of their IDF contacts; she says she has not yet followed up these leads.",
       "anchored_artifacts": [],
@@ -1644,8 +1644,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4013",
-      "ref": "C-4013",
+      "@id": "C-9160",
+      "ref": "C-9160",
       "label": "Victor Marx is running for governor of Colorado, citing Charlie Kirk's death",
       "claim": "The host says Victor Marx is running for governor of Colorado and, by his own account, was inspired to run by Charlie Kirk's death.",
       "anchored_artifacts": [],
@@ -1661,8 +1661,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4014",
-      "ref": "C-4014",
+      "@id": "C-9161",
+      "ref": "C-9161",
       "label": "A friend of Erika Kirk was at the Aurora theater shooting",
       "claim": "The host repeats that a friend of Erika Kirk was present at the 2012 Aurora, Colorado, Dark Knight theater shooting; she says the friend's identity and involvement are still unknown.",
       "anchored_artifacts": [],
@@ -1674,7 +1674,7 @@
       "investigative_direction": "Locate Erika Kirk's original post about the friend and cross-check the Aurora victim and witness lists.",
       "transcript_snippet": "And we shouldn't forget here that Erika Kirk's friend was there. At the shooting in the movie theater.",
       "supports_claim_refs": [
-        "C-2151"
+        "C-5350"
       ],
       "mentions_person_refs": [
         "N-2"
@@ -1682,8 +1682,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4015",
-      "ref": "C-4015",
+      "@id": "C-9162",
+      "ref": "C-9162",
       "label": "No security plan was in place for Charlie Kirk's September 11 Charis Bible College event",
       "claim": "The host says Charlie Kirk's next stop after UVU was a barely publicized September 11 event at Charis Bible College in Colorado and that, as she earlier reported, no security plan was in place for it.",
       "anchored_artifacts": [],
@@ -1701,8 +1701,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4016",
-      "ref": "C-4016",
+      "@id": "C-9163",
+      "ref": "C-9163",
       "label": "Harpole's filing says he did not coordinate because he was not told of the Charis visit",
       "claim": "Brian Harpole's court filing, read by the host, states that he did not coordinate with Charis Bible College or the Woodland Police Department because he was not advised Charlie Kirk would visit, and that it was not uncommon for Charlie Kirk to visit universities with only Dan Flood.",
       "anchored_artifacts": [
@@ -1724,8 +1724,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4017",
-      "ref": "C-4017",
+      "@id": "C-9164",
+      "ref": "C-9164",
       "label": "Host disputes that single-guard university visits were common",
       "claim": "The host disputes Harpole's filing, saying that from three years of touring with Charlie Kirk she would describe a college event with only one security person as uncommon.",
       "anchored_artifacts": [
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4018",
-      "ref": "C-4018",
+      "@id": "C-9165",
+      "ref": "C-9165",
       "label": "Local media confirmed Charis Bible College planned to host Charlie Kirk the day after UVU",
       "claim": "The host shows a September 17 Colorado media item stating that the college had planned to host Charlie Kirk one day after his UVU stop.",
       "anchored_artifacts": [
@@ -1767,8 +1767,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4019",
-      "ref": "C-4019",
+      "@id": "C-9166",
+      "ref": "C-9166",
       "label": "Charis Bible College founder Andrew Wommack is former military",
       "claim": "The host says Charis Bible College was founded by Andrew Wommack and that he is former military.",
       "anchored_artifacts": [],
@@ -1785,8 +1785,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4020",
-      "ref": "C-4020",
+      "@id": "C-9167",
+      "ref": "C-9167",
       "label": "Charlie Kirk was due to meet Erika Kirk at Colorado State University in Fort Collins",
       "claim": "The host says that after Charis Bible College, Charlie Kirk was due to meet Erika Kirk at Colorado State University in Fort Collins, which she says Erika Kirk confirmed to Jesse Watters.",
       "anchored_artifacts": [],
@@ -1803,8 +1803,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4021",
-      "ref": "C-4021",
+      "@id": "C-9168",
+      "ref": "C-9168",
       "label": "N582MM became Charlie Kirk's main plane after Mikey McCoy became chief of staff",
       "claim": "The host says the plane with tail number N582MM, one TPUSA uses, became Charlie Kirk's main plane after Mikey McCoy became chief of staff, and that he switched to another plane only toward the end.",
       "anchored_artifacts": [
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4022",
-      "ref": "C-4022",
+      "@id": "C-9169",
+      "ref": "C-9169",
       "label": "Someone known to TPUSA flew N582MM to Provo after the shooting",
       "claim": "The host says that although Charlie Kirk did not take N582MM to Provo on September 10, someone known to Turning Point USA did, arriving after the shooting.",
       "anchored_artifacts": [
@@ -1848,8 +1848,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4023",
-      "ref": "C-4023",
+      "@id": "C-9170",
+      "ref": "C-9170",
       "label": "N582MM is tied to Paradise Jets, like the plane Charlie Kirk took that day",
       "claim": "The host says N582MM is still tied to Paradise Jets, as is the plane Charlie Kirk flew on September 10.",
       "anchored_artifacts": [
@@ -1868,8 +1868,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4024",
-      "ref": "C-4024",
+      "@id": "C-9171",
+      "ref": "C-9171",
       "label": "N582MM departed Denver at 11:58 a.m. and landed at Pierre at 12:56 p.m. Mountain Time",
       "claim": "The host says flight data shows N582MM departed Denver at 11:58 a.m. Mountain Time, 25 minutes before Charlie Kirk was shot, and landed at a military base in Pierre, South Dakota, at 12:56 p.m.",
       "anchored_artifacts": [
@@ -1888,8 +1888,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4025",
-      "ref": "C-4025",
+      "@id": "C-9172",
+      "ref": "C-9172",
       "label": "N582MM went Pierre–Chicago–Provo, landing at 6:57 p.m. and staying overnight",
       "claim": "The host says N582MM stayed in South Dakota about 50 minutes, flew to Chicago for an apparent pickup, then landed in Provo at 6:57 p.m. and stayed overnight.",
       "anchored_artifacts": [
@@ -1906,8 +1906,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4026",
-      "ref": "C-4026",
+      "@id": "C-9173",
+      "ref": "C-9173",
       "label": "After overnighting in Provo, N582MM returned to Pierre, South Dakota",
       "claim": "The host says that after staying overnight in Provo on September 10, N582MM flew back to Pierre, South Dakota.",
       "anchored_artifacts": [
@@ -1924,8 +1924,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4027",
-      "ref": "C-4027",
+      "@id": "C-9174",
+      "ref": "C-9174",
       "label": "The Evergreen High School shooting happened at almost the same minute as the Charlie Kirk shooting",
       "claim": "The host says another shooting took place at Evergreen High School in Colorado on September 10 at almost the exact minute Charlie Kirk was shot.",
       "anchored_artifacts": [],
@@ -1942,8 +1942,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4028",
-      "ref": "C-4028",
+      "@id": "C-9175",
+      "ref": "C-9175",
       "label": "Official account: Desmond Holly brought a .38 revolver to Evergreen High School at 12:21",
       "claim": "The host relays the official account that 16-year-old student Desmond Holly arrived at Evergreen High School with a Smith & Wesson .38 Special revolver at 12:21 and shot a 14-year-old student at close range inside the school.",
       "anchored_artifacts": [],
@@ -1960,8 +1960,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4029",
-      "ref": "C-4029",
+      "@id": "C-9176",
+      "ref": "C-9176",
       "label": "Holly shot Matthew Silverstone at South Olive Road and Buffalo Park Road; Delmer Martinez filmed it",
       "claim": "The host says Desmond Holly shot a second student, Matthew Silverstone, at the intersection of South Olive Road and Buffalo Park Road, and that roofer Delmer Martinez filmed the confrontation.",
       "anchored_artifacts": [
@@ -1982,8 +1982,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4030",
-      "ref": "C-4030",
+      "@id": "C-9177",
+      "ref": "C-9177",
       "label": "Sheriff's office says only deputies witnessed Holly shoot himself",
       "claim": "The host says the sheriff's office confirmed that only deputies witnessed Desmond Holly shoot himself, which happened out of the frame of Martinez's camera.",
       "anchored_artifacts": [],
@@ -2000,8 +2000,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4031",
-      "ref": "C-4031",
+      "@id": "C-9178",
+      "ref": "C-9178",
       "label": "The first Evergreen 911 call came in at 12:22 and the caller has never been identified",
       "claim": "According to an email the host reads, the first 911 call came in at 12:22, a minute after the first shot, calmly reporting \"something bad\" half a mile south of Evergreen Lake. The caller's identity, device and location have never been disclosed.",
       "anchored_artifacts": [
@@ -2017,8 +2017,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4032",
-      "ref": "C-4032",
+      "@id": "C-9179",
+      "ref": "C-9179",
       "label": "Jefferson County Sheriff's Office said mutual-aid officers, not its deputies, went door to door",
       "claim": "Per an email the host reads, the Jefferson County Sheriff's Office acknowledged in its October 10 update that officers from mutual-aid agencies, not its own deputies, knocked on classroom doors asking people to open up, without naming the agency.",
       "anchored_artifacts": [
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4033",
-      "ref": "C-4033",
+      "@id": "C-9180",
+      "ref": "C-9180",
       "label": "Martinez told CBS Colorado he was on a roofing job and pulled over after a police car sped past",
       "claim": "In the CBS Colorado segment, Delmer Martinez says he and a coworker were working a roofing job in Evergreen and were driving on Buffalo Park Road when a police officer sped past them, after which they stopped and he filmed.",
       "anchored_artifacts": [
@@ -2054,8 +2054,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4034",
-      "ref": "C-4034",
+      "@id": "C-9181",
+      "ref": "C-9181",
       "label": "Locals could not find the house or contractor Martinez was working for",
       "claim": "The host says locals searched and could not determine which house Martinez and his coworkers were roofing or which contractor employed them; no permit was found.",
       "anchored_artifacts": [],
@@ -2072,8 +2072,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4035",
-      "ref": "C-4035",
+      "@id": "C-9182",
+      "ref": "C-9182",
       "label": "Evergreen's assigned school resource officer was on medical leave; a Conifer deputy was filling in",
       "claim": "The host says Evergreen High School's assigned resource officer was on medical leave and that a deputy based at Conifer High School, 9 miles away, was covering both schools part-time.",
       "anchored_artifacts": [],
@@ -2087,8 +2087,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4036",
-      "ref": "C-4036",
+      "@id": "C-9183",
+      "ref": "C-9183",
       "label": "Initial reports said the SRO left Evergreen around 10:30 a.m. for a traffic crash",
       "claim": "The host says initial reporting stated the part-time resource officer left the Evergreen campus around 10:30 a.m. to respond to a nearby traffic crash.",
       "anchored_artifacts": [],
@@ -2102,8 +2102,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4037",
-      "ref": "C-4037",
+      "@id": "C-9184",
+      "ref": "C-9184",
       "label": "Sheriff revised the SRO timeline: he was heading to a crash from Conifer when the call came in",
       "claim": "The host says the sheriff's office revised the timeline: the deputy started at Conifer, spent about an hour at Evergreen, returned to Conifer, and was en route to a car crash when the Evergreen call came in.",
       "anchored_artifacts": [],
@@ -2117,8 +2117,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4038",
-      "ref": "C-4038",
+      "@id": "C-9185",
+      "ref": "C-9185",
       "label": "The crash the SRO was dispatched to has never been documented",
       "claim": "The host says the location of the crash the resource officer was dispatched to was never released, and there is no crash report number, location or other parties on record.",
       "anchored_artifacts": [],
@@ -2132,8 +2132,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4039",
-      "ref": "C-4039",
+      "@id": "C-9186",
+      "ref": "C-9186",
       "label": "Kolvet was moved away from PR and crisis PR brought in, per Erika Kirk",
       "claim": "The host says Andrew Kolvet was supposed to have been moved away from PR and that crisis PR was brought in, at least according to what Erika Kirk told her.",
       "anchored_artifacts": [],
@@ -2152,8 +2152,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4040",
-      "ref": "C-4040",
+      "@id": "C-9187",
+      "ref": "C-9187",
       "label": "Erika Kirk and Kolvet coordinated with Gary Melton to air a Fort Huachuca alibi",
       "claim": "The host alleges that Erika Kirk and Andrew Kolvet coordinated with Paramount Tactical's Gary Melton to put out an alibi for Erika Kirk's Fort Huachuca whereabouts.",
       "anchored_artifacts": [
@@ -2169,7 +2169,7 @@
       "investigative_direction": "Obtain the messages between Kolvet and Melton before the stream.",
       "transcript_snippet": "Erika coordinating with Andrew Kolvet to get an alibi for Fort Wat Chuca to this obscure YouTuber. Paramount Tactical, Gary Melton.",
       "supports_claim_refs": [
-        "C-2907"
+        "C-9136"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2179,8 +2179,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4041",
-      "ref": "C-4041",
+      "@id": "C-9188",
+      "ref": "C-9188",
       "label": "Melton read on air that Erika Kirk spent September 9 with Charlie Kirk, including at the office",
       "claim": "In the clip, Gary Melton reads that Erika Kirk woke up next to Charlie Kirk on September 9, went to the office with him all day, woke him from a nap before a Fox hit, and had dinner with him.",
       "anchored_artifacts": [
@@ -2195,7 +2195,7 @@
       "investigative_direction": "Check TPUSA office access logs and Fox booking records for Charlie Kirk on September 9, 2025.",
       "transcript_snippet": "She woke up next to Charlie on the 9th, went to the office with Charlie all day, woke him up from a nap before Fox hit, went to dinner with Charlie.",
       "supports_claim_refs": [
-        "C-1997"
+        "C-4484"
       ],
       "mentions_person_refs": [
         "N-615",
@@ -2205,8 +2205,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4042",
-      "ref": "C-4042",
+      "@id": "C-9189",
+      "ref": "C-9189",
       "label": "Clip Presents Photo Metadata Stamped September 9, 8:33 a.m. as Proof Erika Kirk Was with Her Kids",
       "claim": "In a clip from Melton's stream that the host plays, a photo of two children with metadata reading September 9, 8:33 a.m. is presented as proof, attributed to Andrew Kolvet, that Erika Kirk was with her children.",
       "anchored_artifacts": [
@@ -2220,7 +2220,7 @@
       "investigative_direction": "Obtain the original image file and its EXIF data, including device and location.",
       "transcript_snippet": "Says right at the top, September 9th, 8:33 a. m.",
       "supports_claim_refs": [
-        "C-2905"
+        "C-9134"
       ],
       "mentions_person_refs": [
         "N-615",
@@ -2230,8 +2230,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4043",
-      "ref": "C-4043",
+      "@id": "C-9190",
+      "ref": "C-9190",
       "label": "Erika Kirk never claimed she was at the office on September 9 and told Jesse Watters otherwise",
       "claim": "The host says Erika Kirk has never publicly claimed she was at the office with Charlie Kirk on September 9; she told Jesse Watters that Charlie Kirk was in the office all day. The host says she texted Kolvet and Justin Streiff about the discrepancy.",
       "anchored_artifacts": [
@@ -2255,8 +2255,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4044",
-      "ref": "C-4044",
+      "@id": "C-9191",
+      "ref": "C-9191",
       "label": "Sources who know the family say neither child in the photo is Erika Kirk's",
       "claim": "The host says people who know the Kirk children well told her that neither the boy nor the girl in the alibi photo is Erika Kirk's child.",
       "anchored_artifacts": [
@@ -2277,8 +2277,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4045",
-      "ref": "C-4045",
+      "@id": "C-9192",
+      "ref": "C-9192",
       "label": "Mitch Snow's son, on Melton's show, confirmed a police call about Mitch on the day",
       "claim": "The host says Gary Melton's guest, Mitch Snow's son, confirmed he received a phone call that day because police had been called, which she says inadvertently confirmed Mitch Snow was at Fort Huachuca.",
       "anchored_artifacts": [],
@@ -2297,8 +2297,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4046",
-      "ref": "C-4046",
+      "@id": "C-9193",
+      "ref": "C-9193",
       "label": "Melton tweeted that the boy is not Erika Kirk's son but her daughter is with another child",
       "claim": "The host shows a Gary Melton tweet saying the photo shows not Erika Kirk's son but her daughter with another child.",
       "anchored_artifacts": [
@@ -2313,7 +2313,7 @@
       "investigative_direction": "Archive Melton's tweet and the post he replied to.",
       "transcript_snippet": "Paramount Gary finally responds and says, \"It's not her son. It's her daughter with another child. Look, mystery solved.\"",
       "supports_claim_refs": [
-        "C-2906"
+        "C-9135"
       ],
       "mentions_person_refs": [
         "N-615",
@@ -2322,8 +2322,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4047",
-      "ref": "C-4047",
+      "@id": "C-9194",
+      "ref": "C-9194",
       "label": "Marcus Wada uses AI voices in TPUSA donor presentations",
       "claim": "The host says Marcus Wada is already using AI voices to narrate Turning Point USA presentations shown to donors.",
       "anchored_artifacts": [],
@@ -2336,7 +2336,7 @@
       "investigative_direction": "Obtain copies of TPUSA donor presentation videos and identify the voice-over source.",
       "transcript_snippet": "he that he's already actually incorporating AI voices into their presentations. They're going out to donors.",
       "supports_claim_refs": [
-        "C-2890"
+        "C-9057"
       ],
       "mentions_person_refs": [
         "N-424"
@@ -2344,8 +2344,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4048",
-      "ref": "C-4048",
+      "@id": "C-9195",
+      "ref": "C-9195",
       "label": "Marcus Wada met with Hollywood AI deepfake companies after Charlie Kirk's death",
       "claim": "The host says she can confirm that, at least after Charlie Kirk's death, Marcus Wada was meeting and communicating with Hollywood AI companies that specialize in deepfakes.",
       "anchored_artifacts": [],
@@ -2364,8 +2364,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4049",
-      "ref": "C-4049",
+      "@id": "C-9196",
+      "ref": "C-9196",
       "label": "The Hollywood AI company TPUSA met with is VFX LA",
       "claim": "The host names VFX Los Angeles (VFX LA) as the company brought into Turning Point USA through Marcus Wada; she says she cannot confirm it created any content for him.",
       "anchored_artifacts": [
@@ -2385,8 +2385,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4050",
-      "ref": "C-4050",
+      "@id": "C-9197",
+      "ref": "C-9197",
       "label": "VFX LA says it cloned deceased commentator Skip Caray's voice for Fanatics Collectibles",
       "claim": "VFX LA's website, shown by the host, says the company used a bespoke AI model to reproduce the voice of deceased baseball commentator Skip Caray for a Fanatics Collectibles project.",
       "anchored_artifacts": [
@@ -2405,8 +2405,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4051",
-      "ref": "C-4051",
+      "@id": "C-9198",
+      "ref": "C-9198",
       "label": "Donors present in Aspen say Charlie Kirk never made the \"I appoint Erika Kirk\" statement",
       "claim": "The host says donors who were present are convinced the \"I appoint Erika Kirk\" audio is AI and that Charlie Kirk never made the statement; she adds that people who work in AI emailed her to say the same.",
       "anchored_artifacts": [],
@@ -2418,7 +2418,7 @@
       "investigative_direction": "Obtain the original Aspen recording and any independent audio forensic analysis.",
       "transcript_snippet": "I had donors telling me that they are convinced that it is AI. They were They were there.",
       "supports_claim_refs": [
-        "C-2694"
+        "C-8029"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2428,8 +2428,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4052",
-      "ref": "C-4052",
+      "@id": "C-9199",
+      "ref": "C-9199",
       "label": "VFX LA's demo describes casting look-alike actors and training AI models for lip-sync deepfakes",
       "claim": "In the VFX LA demonstration video, the company says it mapped the original actors' likenesses, cast French look-alike actors, recorded training footage to train AI models, and cloned voices to produce broadcast-ready lip syncs.",
       "anchored_artifacts": [
@@ -2445,8 +2445,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4053",
-      "ref": "C-4053",
+      "@id": "C-9200",
+      "ref": "C-9200",
       "label": "Kolvet said TPUSA met with deepfake vendors offering Charlie Kirk content and declined",
       "claim": "The host says Andrew Kolvet acknowledged that TPUSA met with people who said they could make deepfakes of Charlie Kirk and that TPUSA declined.",
       "anchored_artifacts": [],
@@ -2465,8 +2465,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4054",
-      "ref": "C-4054",
+      "@id": "C-9201",
+      "ref": "C-9201",
       "label": "Erika Kirk says she watched a video of Charlie Kirk saying he chose her",
       "claim": "The host says Erika Kirk has said she watched a video of Charlie Kirk saying he chose her, while donors say that did not happen; the host asks whether she was shown a deepfake.",
       "anchored_artifacts": [],
@@ -2484,8 +2484,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4055",
-      "ref": "C-4055",
+      "@id": "C-9202",
+      "ref": "C-9202",
       "label": "Insider rumor: Turning Point Action was missing $10 million",
       "claim": "The host relays a rumor from people inside the organization that Turning Point Action was missing $10 million, and says Turning Point Action built a \"back door\" with connections to Erika Kirk's mother.",
       "anchored_artifacts": [
@@ -2505,8 +2505,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4056",
-      "ref": "C-4056",
+      "@id": "C-9203",
+      "ref": "C-9203",
       "label": "Superfeed, with Lori Frantzve and Tyler Bowyer on its board, powers the TPUSA app",
       "claim": "The host says Lori Frantzve sits on the board of a company with Tyler Bowyer, Superfeed, and that Superfeed powers the Turning Point USA app according to the app's download terms.",
       "anchored_artifacts": [],
@@ -2526,8 +2526,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4057",
-      "ref": "C-4057",
+      "@id": "C-9204",
+      "ref": "C-9204",
       "label": "Erika Kirk told Glenn Beck she has Charlie Kirk's phone and he sent no warning texts",
       "claim": "A viewer comment the host reads says Erika Kirk told Glenn Beck that Charlie Kirk wasn't texting people the day before that he was going to be killed; the host agrees, recalling Erika Kirk saying she has his phone and he never said that, and says the claim was wrong because Andrew Kolvet was one of the people he texted.",
       "anchored_artifacts": [
@@ -2541,7 +2541,7 @@
       "investigative_direction": "Compare the Glenn Beck interview transcript with Kolvet's and Dan Flood's received messages.",
       "transcript_snippet": "She said it with such attitude, right? She's like, \"I have his phone. Uh he never said that.\"",
       "supports_claim_refs": [
-        "C-2377"
+        "C-6549"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -2553,8 +2553,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4058",
-      "ref": "C-4058",
+      "@id": "C-9205",
+      "ref": "C-9205",
       "label": "Charlie Kirk's night-before message to Dan Flood was an iMessage, not Telegram",
       "claim": "The host says Erika Kirk's explanation that the messages were on Telegram and set to delete was inaccurate, because Charlie Kirk texted Dan Flood by iMessage.",
       "anchored_artifacts": [],
@@ -2567,7 +2567,7 @@
       "investigative_direction": "Obtain Dan Flood's iMessage thread with Charlie Kirk from September 9, 2025.",
       "transcript_snippet": "this is where this took place on Telegram uh that was inaccurate. And he actually texted Dan an iMessage.",
       "supports_claim_refs": [
-        "C-2273"
+        "C-6053"
       ],
       "mentions_person_refs": [
         "N-270",
@@ -2577,8 +2577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4059",
-      "ref": "C-4059",
+      "@id": "C-9206",
+      "ref": "C-9206",
       "label": "Host asks a former Aurora officer to send records help through the tips email",
       "claim": "The host asks a viewer who says he is a former Aurora police officer, and who offered help with local records requests, to email the tips address because she has questions about the Aurora theater shooting.",
       "anchored_artifacts": [
@@ -2598,8 +2598,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4060",
-      "ref": "C-4060",
+      "@id": "C-9207",
+      "ref": "C-9207",
       "label": "An Aurora theater victim had survived an earlier shooting at a Canadian food court",
       "claim": "The host says a woman shot in the Aurora theater, whom she believes was named Jessica Ghawi, had just survived another shooting at a food court in Canada, and calls the story strange.",
       "anchored_artifacts": [],
@@ -2614,8 +2614,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-4061",
-      "ref": "C-4061",
+      "@id": "C-9208",
+      "ref": "C-9208",
       "label": "Viewer says Clear Creek Sheriff's Office likely responded in Evergreen, which has no police department",
       "claim": "A viewer comment read by the host says the door-knocking officers were almost certainly from the Clear Creek Sheriff's Office working with others, that Evergreen has no police department of its own, and that State Patrol and Clear Creek responded.",
       "anchored_artifacts": [
@@ -2666,7 +2666,7 @@
           "video_timestamp": "00:53:58",
           "speaker_node_ref": "N-3",
           "quote": "Please do shoot us an email to more tips@canasown. com so I can have your information because uh I do have some questions about that.",
-          "context": "Host asks a former Aurora police officer to send his details to the tips inbox (A-2573.1, C-4059).",
+          "context": "Host asks a former Aurora police officer to send his details to the tips inbox (A-2573.1, C-9206).",
           "confidence": "high",
           "tags": [
             "tips",

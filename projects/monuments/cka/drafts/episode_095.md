@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-10907
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-159, N-190, N-261, N-283, N-341, N-342, N-364, N-387, N-489, N-564, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-600, N-10751, N-10812, N-10799
-  - Claim Range: C-3827–C-3883
+  - Claim Range: C-8490–C-8546
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3830, C-3831, C-3832, N-564, N-261, N-1, N-10799, N-10908*
+*Related: C-8493, C-8494, C-8495, N-564, N-261, N-1, N-10799, N-10908*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3835, C-3838, N-261, N-3, N-10808, N-10810*
+*Related: C-8498, C-8501, N-261, N-3, N-10808, N-10810*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:12:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3843, C-3844, N-564, N-1, N-10908*
+*Related: C-8506, C-8507, N-564, N-1, N-10908*
 
 **A-2539.2** Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3845, N-1, N-10908*
+*Related: C-8508, N-1, N-10908*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:15:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, N-489, N-387, N-2, N-10907*
+*Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, N-489, N-387, N-2, N-10907*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:27:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3858, N-159, N-3, N-40, N-10022*
+*Related: C-8521, N-159, N-3, N-40, N-10022*
 
 **A-2541.2** Daily Mail headline (and an MSN article) the host posted in reply to Neff
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:28:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3859, N-40, N-10070, N-10022*
+*Related: C-8522, N-40, N-10070, N-10022*
 
 **A-2541.3** Tyler Robinson text message from the charging document about his father wanting photos of the rifle (shown/read)
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:30:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3860, N-40, N-10077, N-10022*
+*Related: C-8523, N-40, N-10077, N-10022*
 
 ---
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:33:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3864, N-60, N-3, N-1, N-2*
+*Related: C-8527, N-60, N-3, N-1, N-2*
 
 **A-2542.2** The Spectator 2019 article "The Tale of Laura Loomer" (quoted on screen)
 
@@ -153,7 +153,7 @@ Video Timestamp: 00:35:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3866, C-3870, N-60*
+*Related: C-8529, C-8533, N-60*
 
 **A-2542.3** Clip of Laura Loomer on Alex Jones's show (played)
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:39:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3871, N-60, N-93*
+*Related: C-8534, N-60, N-93*
 
 ---
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:49:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3879, N-3, N-1, N-10751*
+*Related: C-8542, N-3, N-1, N-10751*
 
 **A-2543.2** Viewer comment (Keeping faith with Father Joseph) offering footage, and the host's request to email it (read aloud)
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:49:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3880, N-3*
+*Related: C-8543, N-3*
 
 ---
 ## 4. Node Register
@@ -199,348 +199,348 @@ Confidence Level: Low
 
 Assassination victim; his back-camera footage, tabling setup, Aspen successor audio and burial or cremation are discussed.
 
-*Related: C-3827, C-3830, C-3838, C-3843, C-3844, C-3845, C-3854, C-3861, C-3862, C-3863, C-3864, C-3876, C-3877, C-3878, C-3879, A-2537.1, A-2539.1, A-2539.2, A-2542.1, A-2543.1*
+*Related: C-8490, C-8493, C-8501, C-8506, C-8507, C-8508, C-8517, C-8524, C-8525, C-8526, C-8527, C-8539, C-8540, C-8541, C-8542, A-2537.1, A-2539.1, A-2539.2, A-2542.1, A-2543.1*
 
 **N-2** Erika Kirk
 
 Named by Terryl as the reason he removed the camera; the tip places her (as Erika Frantzve) at a 2016 gun-patent dinner; her Aspen succession claim, victim's-rights assertion and handling of Charlie's body are questioned.
 
-*Related: C-3834, C-3837, C-3852, C-3853, C-3854, C-3861, C-3862, C-3864, C-3875, C-3876, C-3877, C-3878, A-2540.1, A-2542.1*
+*Related: C-8497, C-8500, C-8515, C-8516, C-8517, C-8524, C-8525, C-8527, C-8538, C-8539, C-8540, C-8541, A-2540.1, A-2542.1*
 
 **N-3** Candace Owens
 
 Host; recounts her September 17 and 19 calls with Terryl Farnsworth, rebuts Blake Neff, and is the target of Laura Loomer's tweet.
 
-*Related: C-3830, C-3833, C-3835, C-3836, C-3840, C-3858, C-3862, C-3864, C-3869, C-3879, C-3880, A-2538.1, A-2541.1, A-2542.1, A-2543.1, A-2543.2*
+*Related: C-8493, C-8496, C-8498, C-8499, C-8503, C-8521, C-8525, C-8527, C-8532, C-8542, C-8543, A-2538.1, A-2541.1, A-2542.1, A-2543.1, A-2543.2*
 
 **N-5** Donald Trump
 
 The host says Laura Loomer speaks to him several times a day and questions his fitness, citing his post calling the host, Tucker Carlson and Megyn Kelly mentally ill.
 
-*Related: C-3865, C-3867, C-3872*
+*Related: C-8528, C-8530, C-8535*
 
 **N-9** Jeffrey Epstein
 
 The host asserts he began his career in weapons trafficking and was brought into Iran-Contra.
 
-*Related: C-3856, C-3857*
+*Related: C-8519, C-8520*
 
 **N-15** Justin Streiff
 Transcript spelling "Justin Streiff". Named in the host's account of pressure to call her husband about whether she recorded the footage.
 
-*Related: C-3840*
+*Related: C-8503*
 
 **N-22** Tucker Carlson
 
 Named among those Trump called mentally ill.
 
-*Related: C-3872*
+*Related: C-8535*
 
 **N-30** George (Candace's husband)
 
 Referred to as "your husband"; said to have been called by Justin Streiff about whether the host recorded the footage.
 
-*Related: C-3840*
+*Related: C-8503*
 
 **N-40** Tyler Robinson
 
 Accused; his parents' alleged recognition of the rifle, his text messages and the continuance fight in his case are discussed.
 
-*Related: C-3838, C-3842, C-3858, C-3859, C-3860, C-3873, C-3874, C-3875, C-3881*
+*Related: C-8501, C-8505, C-8521, C-8522, C-8523, C-8536, C-8537, C-8538, C-8544*
 
 **N-41** Spencer Cox
 
 Referred to as "Governor Cox"; viewers noted he appointed the judge in the Robinson case.
 
-*Related: C-3873*
+*Related: C-8536*
 
 **N-46** Megyn Kelly
 
 Transcript spellings "Megyn Kelly" and "Megyn Kelly". Erika Kirk told her TPUSA has the Aspen video; named among those Trump called mentally ill.
 
-*Related: C-3862, C-3872*
+*Related: C-8525, C-8535*
 
 **N-48** Robert Maxwell
 
 Said by the host to have introduced Epstein into the Iran-Contra affair.
 
-*Related: C-3857*
+*Related: C-8520*
 
 **N-54** Lance Twiggs
 
 Transcript spelling "Lance Twiggs". His phone is cited as one secured by federal agents; recipient of the "pooch" message.
 
-*Related: C-3838, C-3881*
+*Related: C-8501, C-8544*
 
 **N-60** Laura Loomer
 
 Her "God hates you" tweet, her 2019 Spectator profile, her firearm prohibition and her access to Trump are discussed.
 
-*Related: C-3864, C-3865, C-3866, C-3867, C-3868, C-3869, C-3870, C-3871, C-3872, A-2542.1, A-2542.2, A-2542.3*
+*Related: C-8527, C-8528, C-8529, C-8530, C-8531, C-8532, C-8533, C-8534, C-8535, A-2542.1, A-2542.2, A-2542.3*
 
 **N-69** Kash Patel
 
 The host says he is suing The Atlantic over a report that he is a drunk.
 
-*Related: C-3882*
+*Related: C-8545*
 
 **N-93** Alex Jones
 
 Host of the show on which the Loomer clip was recorded.
 
-*Related: C-3871, A-2542.3*
+*Related: C-8534, A-2542.3*
 
 **N-159** Blake Neff
 
 Transcript spellings "Blake enough" and "Blake Neff". Called the host dishonest on X about the Robinson charging document; she presses him on the Aspen video.
 
-*Related: C-3828, C-3858, C-3861, C-3862, A-2541.1*
+*Related: C-8491, C-8521, C-8524, C-8525, A-2541.1*
 
 **N-190** Mikey McCoy
 
 Named among TPUSA employees who did not call 911.
 
-*Related: C-3828, C-3829*
+*Related: C-8491, C-8492*
 
 **N-261** Terryl Farnsworth
 
 Transcript spellings "Terryl" and "Tarrio". Camera operator who took down the back camera, showed the host the footage over FaceTime and, she suspects, kept the SD card.
 
-*Related: C-3827, C-3828, C-3829, C-3830, C-3832, C-3833, C-3834, C-3835, C-3836, C-3837, C-3839, C-3841, A-2537.1, A-2538.1*
+*Related: C-8490, C-8491, C-8492, C-8493, C-8495, C-8496, C-8497, C-8498, C-8499, C-8500, C-8502, C-8504, A-2537.1, A-2538.1*
 
 **N-283** Xavier Poussard
 
 Transcript spelling "Xavier Boussard". Credited by the host for journalism on Epstein's Iran-Contra link.
 
-*Related: C-3857*
+*Related: C-8520*
 
 **N-341** Victor Marx
 
 The host says he wanted the Fold AR patent for Israel, was later sued by the patent holder in the tip, and declined to appear with Corby Hall.
 
-*Related: C-3848, C-3855, C-3883*
+*Related: C-8511, C-8518, C-8546*
 
 **N-342** Corby Hall
 
 Fold AR patent holder whom Victor Marx sought to push out; scheduled for an interview the next day.
 
-*Related: C-3848, C-3883*
+*Related: C-8511, C-8546*
 
 **N-364** Cabot Phillips
 
 The host says Erika Frantzve was dating him in late 2016.
 
-*Related: C-3854*
+*Related: C-8517*
 
 **N-387** Larry Guinta
 
 Transcript spelling "Larry Guinta". Erika Kirk's stepfather; at the 2016 gun-patent dinner per the tip.
 
-*Related: C-3847, C-3849, C-3850, C-3851, A-2540.1*
+*Related: C-8510, C-8512, C-8513, C-8514, A-2540.1*
 
 **N-489** Lori Frantzve
 
 Transcript spelling "Lori Frantzbe". Erika Kirk's mother; per the tip she pursued a pending gun patent in 2016 while promoting G-Tech Industries.
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, A-2540.1*
+*Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, A-2540.1*
 
 **N-564** Nicey (YouTuber)
 
 Transcript spellings "Nicci" and "Niecy". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.
 
-*Related: C-3830, C-3831, C-3841, A-2537.1, A-2539.1*
+*Related: C-8493, C-8494, C-8504, A-2537.1, A-2539.1*
 
 **N-600** Melania Trump
 
 First named by the host at 00:36:45 in episode 095. Referred to as "Melania"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.
 
-*Related: C-3867*
+*Related: C-8530*
 
 **N-10000** Turning Point USA
 
 Organization whose staff, camera setup, Aspen audio and tent recreation are discussed.
 
-*Related: C-3828, C-3842, C-3843, C-3844, C-3846, C-3862, C-3863*
+*Related: C-8491, C-8505, C-8506, C-8507, C-8509, C-8525, C-8526*
 
 **N-10006** Fox News
 
 Asked Erika Kirk where Charlie Kirk is buried.
 
-*Related: C-3876*
+*Related: C-8539*
 
 **N-10012** Utah Valley University
 
 Site where, per Nicci, the back camera was either zoomed that day or the footage cropped afterwards.
 
-*Related: C-3832*
+*Related: C-8495*
 
 **N-10022** Robinson Father Turn-In Narrative
 
 Whether Tyler Robinson's parents recognized the rifle or photos of the suspect.
 
-*Related: C-3858, C-3859, C-3860, A-2541.1, A-2541.2, A-2541.3*
+*Related: C-8521, C-8522, C-8523, A-2541.1, A-2541.2, A-2541.3*
 
 **N-10023** Epstein Israeli Intelligence Asset Allegation
 
 The host ties Epstein to weapons trafficking and Iran-Contra via a former Mossad agent's testimony.
 
-*Related: C-3856, C-3857*
+*Related: C-8519, C-8520*
 
 **N-10070** Daily Mail
 
 Published the family-heirloom headline the host cited to Neff.
 
-*Related: C-3859, A-2541.2*
+*Related: C-8522, A-2541.2*
 
 **N-10077** Robinson-Lance Text Chain Authenticity
 
 The rifle-photo message and newly added "pooch" line in Robinson's messages.
 
-*Related: C-3860, C-3881, A-2541.3*
+*Related: C-8523, C-8544, A-2541.3*
 
 **N-10300** Justin Streiff Post-Assassination Phone Call
 
 Streiff's call to the host's husband about whether she recorded the footage.
 
-*Related: C-3840*
+*Related: C-8503*
 
 **N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass
 
 The host asks whether Charlie was buried after a Catholic funeral mass or cremated.
 
-*Related: C-3878*
+*Related: C-8541*
 
 **N-10346** Terryl Farnsworth Camera Removal Justification
 
 Terryl's stated reason (protecting Erika) for removing the camera.
 
-*Related: C-3827, C-3837*
+*Related: C-8490, C-8500*
 
 **N-10376** AmFest Tent Recreation Approval Chain
 
 The tent recreation for selfies is cited again.
 
-*Related: C-3863*
+*Related: C-8526*
 
 **N-10570** Defense Discovery Dumping Strategy
 
 600,000 files given to the defense in March and the continuance request.
 
-*Related: C-3874, C-3875*
+*Related: C-8537, C-8538*
 
 **N-10581** Tyler Robinson Defense – Chain of Custody / Documents
 
 The host urges the defense to obtain the unzoomed back-camera footage.
 
-*Related: C-3842*
+*Related: C-8505*
 
 **N-10590** Laura Loomer Influence on Trump Policy Question
 
 Loomer's phone access to Trump and her role as adviser.
 
-*Related: C-3865, C-3872*
+*Related: C-8528, C-8535*
 
 **N-10600** Victor Marx 51% Fold AR Acquisition Attempt
 
 Recalled as Marx wanting the patent and pushing Corby Hall out.
 
-*Related: C-3848*
+*Related: C-8511*
 
 **N-10613** Victor Marx / Corby Hall On-Air Interview Proposal
 
 Marx declined to join; the Corby Hall interview goes ahead.
 
-*Related: C-3883*
+*Related: C-8546*
 
 **N-10618** Victor Marx IDF / Israeli Defense Group Connection
 
 The host says Marx wanted the patent for Israel.
 
-*Related: C-3848*
+*Related: C-8511*
 
 **N-10626** Erika Kirk Speedy Trial Motion (January 16)
 
 The host anticipates the judge refusing a continuance because Erika asserted her victim's rights.
 
-*Related: C-3875*
+*Related: C-8538*
 
 **N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 The host says Loomer cannot own a gun in any of the 50 states.
 
-*Related: C-3868*
+*Related: C-8531*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 Donors told the host Charlie never said the "I appoint Erika" line at Aspen.
 
-*Related: C-3861, C-3862*
+*Related: C-8524, C-8525*
 
 **N-10751** Charlie Kirk Cremation/Burial Status Verification
 
 The host asks whether Charlie Kirk was cremated.
 
-*Related: C-3877, C-3878, C-3879, A-2543.1*
+*Related: C-8540, C-8541, C-8542, A-2543.1*
 
 **N-10759** Kirk Burial / Cremation Status
 
 The body was reportedly moved a couple of times.
 
-*Related: C-3877*
+*Related: C-8540*
 
 **N-10799** Back-Camera Footage Discrepancy
 
 Nicci's finding that the shared footage was zoomed or cropped, hiding the ground.
 
-*Related: C-3830, C-3831, C-3832, C-3841, A-2537.1*
+*Related: C-8493, C-8494, C-8495, C-8504, A-2537.1*
 
 **N-10801** Terryl Post-Removal Communications
 
 The host's September 17 and 19 calls with Terryl.
 
-*Related: C-3833, C-3834, C-3836*
+*Related: C-8496, C-8497, C-8499*
 
 **N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
 The "YOLO" drive on Terryl's desktop in Scottsdale.
 
-*Related: C-3835, C-3839, A-2538.1*
+*Related: C-8498, C-8502, A-2538.1*
 
 **N-10810** SD Card Chain-of-Custody Investigation
 
 Whether the SD card was ever given to federal agents.
 
-*Related: C-3835, C-3836, C-3838, A-2538.1*
+*Related: C-8498, C-8499, C-8501, A-2538.1*
 
 **N-10812** Terryl Farnsworth Evidence-Handling Question
 
 Terryl's possession of the footage in Arizona.
 
-*Related: C-3836, C-3839*
+*Related: C-8499, C-8502*
 
 **N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 Transcript spelling "Wiyre Fy". The host ties the new back camera to the sponsorship deal.
 
-*Related: C-3846*
+*Related: C-8509*
 
 **N-10907** Lori Frantzve 2016 Gun Patent Dinner
 
 Node Type: Topic
 Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guinta met two holders of a pending patent for an interchangeable-caliber gun. The tip says they met at a Salt Lake City expo where Lori was promoting G-Tech Industries' EMP technology. They then held a dinner in Scottsdale, offered an introduction to their G-Tech angel investor and claimed access to government contracts. According to the tip, Erika Frantzve arrived unannounced, and her mother mentioned that Erika was dating a man with big political connections. The host says nothing came of the deal, the patent is now approved, and the patent holder later had a lawsuit with Victor Marx.
 
-*Related: C-3847, C-3849, C-3850, C-3851, C-3852, C-3853, C-3854, C-3855, A-2540.1, N-489, N-387, N-2*
+*Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, C-8517, C-8518, A-2540.1, N-489, N-387, N-2*
 
 **N-10908** Back-Camera and Platform Setup Introduction (2025 Tour)
 
 Node Type: Topic
 Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Yrefy sponsorship deal.
 
-*Related: C-3831, C-3843, C-3844, C-3845, C-3846, A-2537.1, A-2539.1, A-2539.2, N-1, N-564*
+*Related: C-8494, C-8506, C-8507, C-8508, C-8509, A-2537.1, A-2539.1, A-2539.2, N-1, N-564*
 
 ## 5. Claim Register
 
-**C-3827** Terryl took down the back footage about four minutes after Charlie was struck
+**C-8490** Terryl took down the back footage about four minutes after Charlie was struck
 
 Claim Timestamp: 00:01:22
 
@@ -555,7 +555,7 @@ Investigative Direction: Time-sync the viral video of the camera takedown agains
 
 ---
 
-**C-3828** No Turning Point employee called 911
+**C-8491** No Turning Point employee called 911
 
 Claim Timestamp: 00:02:17
 
@@ -570,7 +570,7 @@ Investigative Direction: Obtain Utah County and UVU 911 call logs for September 
 
 ---
 
-**C-3829** Terryl recorded a selfie video after the shooting
+**C-8492** Terryl recorded a selfie video after the shooting
 
 Claim Timestamp: 00:02:17
 
@@ -580,12 +580,12 @@ Transcript Snippet: Terryl was perhaps the worst almost worse than Mikey walking
 
 Anchored Artifacts: 
 Mentions: N-261, N-190
-Supports: C-1464
+Supports: C-1767
 Investigative Direction: Archive the original selfie video with its metadata and posting time.
 
 ---
 
-**C-3830** Nicci found the footage shown on FaceTime was likely edited
+**C-8493** Nicci found the footage shown on FaceTime was likely edited
 
 Claim Timestamp: 00:02:17
 
@@ -600,7 +600,7 @@ Investigative Direction: Obtain the original, unedited SD-card file and compare 
 
 ---
 
-**C-3831** Nicci Shows Back-Camera Shots From Other 2025 Tour Stops
+**C-8494** Nicci Shows Back-Camera Shots From Other 2025 Tour Stops
 
 Claim Timestamp: 00:02:17
 
@@ -615,7 +615,7 @@ Investigative Direction: Collect TPUSA livestream archives for each 2025 tour st
 
 ---
 
-**C-3832** UVU footage either zoomed that day or cropped afterwards
+**C-8495** UVU footage either zoomed that day or cropped afterwards
 
 Claim Timestamp: 00:03:36
 
@@ -630,7 +630,7 @@ Investigative Direction: Obtain the camera's recorded settings and the native fi
 
 ---
 
-**C-3833** Host phoned Terryl on September 17 after the takedown video went viral
+**C-8496** Host phoned Terryl on September 17 after the takedown video went viral
 
 Claim Timestamp: 00:04:30
 
@@ -645,7 +645,7 @@ Investigative Direction: Produce the host's call logs with Terryl Farnsworth for
 
 ---
 
-**C-3834** Terryl agreed on September 19 to show the footage after citing Erika
+**C-8497** Terryl agreed on September 19 to show the footage after citing Erika
 
 Claim Timestamp: 00:05:16
 
@@ -660,7 +660,7 @@ Investigative Direction: Obtain Terryl's messages with the host and with Erika K
 
 ---
 
-**C-3835** The "YOLO" drive on Terryl's desktop is likely the camera's SD card
+**C-8498** The "YOLO" drive on Terryl's desktop is likely the camera's SD card
 
 Claim Timestamp: 00:06:17
 
@@ -675,7 +675,7 @@ Investigative Direction: Have a forensic examiner review the FaceTime recording,
 
 ---
 
-**C-3836** Terryl never said he lacked the footage or had given the SD card to the feds
+**C-8499** Terryl never said he lacked the footage or had given the SD card to the feds
 
 Claim Timestamp: 00:07:29
 
@@ -690,7 +690,7 @@ Investigative Direction: Request FBI evidence logs showing whether and when the 
 
 ---
 
-**C-3837** Terryl said he removed the camera to protect Erika
+**C-8500** Terryl said he removed the camera to protect Erika
 
 Claim Timestamp: 00:08:21
 
@@ -705,7 +705,7 @@ Investigative Direction: Obtain Terryl's communications with Erika Kirk on Septe
 
 ---
 
-**C-3838** Charlie Kirk's phone was not given to the feds
+**C-8501** Charlie Kirk's phone was not given to the feds
 
 Claim Timestamp: 00:08:21
 
@@ -720,7 +720,7 @@ Investigative Direction: Request FBI and Utah evidence inventories listing devic
 
 ---
 
-**C-3839** Terryl took the footage back to Scottsdale
+**C-8502** Terryl took the footage back to Scottsdale
 
 Claim Timestamp: 00:09:05
 
@@ -735,7 +735,7 @@ Investigative Direction: Establish Terryl's travel from Utah to Arizona and the 
 
 ---
 
-**C-3840** Justin Streiff was pressed to call the host's husband about whether she recorded the footage
+**C-8503** Justin Streiff was pressed to call the host's husband about whether she recorded the footage
 
 Claim Timestamp: 00:09:05
 
@@ -750,7 +750,7 @@ Investigative Direction: Obtain the date and content of Justin Streiff's call to
 
 ---
 
-**C-3841** Host believes Terryl zoomed in to hide the ground
+**C-8504** Host believes Terryl zoomed in to hide the ground
 
 Claim Timestamp: 00:09:48
 
@@ -765,7 +765,7 @@ Investigative Direction: Subpoena the native back-camera file and compare its fi
 
 ---
 
-**C-3842** Turning Point has the unzoomed footage
+**C-8505** Turning Point has the unzoomed footage
 
 Claim Timestamp: 00:10:51
 
@@ -780,7 +780,7 @@ Investigative Direction: Defense subpoena to TPUSA for all camera media recorded
 
 ---
 
-**C-3843** Charlie sat on a chair on a raised platform, a new setup
+**C-8506** Charlie sat on a chair on a raised platform, a new setup
 
 Claim Timestamp: 00:11:36
 
@@ -795,7 +795,7 @@ Investigative Direction: Obtain TPUSA event-production specifications and stagin
 
 ---
 
-**C-3844** The camera behind Charlie's head first appeared in 2025
+**C-8507** The camera behind Charlie's head first appeared in 2025
 
 Claim Timestamp: 00:13:42
 
@@ -810,7 +810,7 @@ Investigative Direction: Crowdsource and date every TPUSA tabling video to find 
 
 ---
 
-**C-3845** No camera behind Charlie's head on the 2024 Brainwashed tour
+**C-8508** No camera behind Charlie's head on the 2024 Brainwashed tour
 
 Claim Timestamp: 00:14:37
 
@@ -825,7 +825,7 @@ Investigative Direction: Verify the dates and locations of the photos against TP
 
 ---
 
-**C-3846** The new camera arrived with the Yrefy sponsorship deal
+**C-8509** The new camera arrived with the Yrefy sponsorship deal
 
 Claim Timestamp: 00:15:38
 
@@ -839,7 +839,7 @@ Investigative Direction: Compare the Yrefy sponsorship contract dates and delive
 
 ---
 
-**C-3847** Lori Frantzve and Larry Guinta pursued a patent-pending interchangeable-caliber gun
+**C-8510** Lori Frantzve and Larry Guinta pursued a patent-pending interchangeable-caliber gun
 
 Claim Timestamp: 00:16:43
 
@@ -854,7 +854,7 @@ Investigative Direction: Search USPTO records for interchangeable-caliber revolv
 
 ---
 
-**C-3848** Victor Marx wanted the Fold AR patent for Israel
+**C-8511** Victor Marx wanted the Fold AR patent for Israel
 
 Claim Timestamp: 00:16:43
 
@@ -869,7 +869,7 @@ Investigative Direction: Obtain Marx–Hall correspondence on the proposed acqui
 
 ---
 
-**C-3849** Lori and Larry met the patent holders at a Salt Lake City expo and offered their G-Tech angel investor
+**C-8512** Lori and Larry met the patent holders at a Salt Lake City expo and offered their G-Tech angel investor
 
 Claim Timestamp: 00:18:04
 
@@ -884,7 +884,7 @@ Investigative Direction: Identify the 2016 Salt Lake City expo's exhibitor list 
 
 ---
 
-**C-3850** Late-2016 Scottsdale dinner with Lori, Larry and the would-be gun company owners
+**C-8513** Late-2016 Scottsdale dinner with Lori, Larry and the would-be gun company owners
 
 Claim Timestamp: 00:18:04
 
@@ -899,7 +899,7 @@ Investigative Direction: Interview the patent holders and identify the restauran
 
 ---
 
-**C-3851** Lori and Larry offered access to government contracts
+**C-8514** Lori and Larry offered access to government contracts
 
 Claim Timestamp: 00:18:04
 
@@ -914,7 +914,7 @@ Investigative Direction: Search federal contracting databases for awards to Lori
 
 ---
 
-**C-3852** Erika Frantzve arrived unannounced at the dinner
+**C-8515** Erika Frantzve arrived unannounced at the dinner
 
 Claim Timestamp: 00:19:11
 
@@ -929,7 +929,7 @@ Investigative Direction: Corroborate the tipster's account with the second paten
 
 ---
 
-**C-3853** Lori said Erika was newly dating a man with big political connections
+**C-8516** Lori said Erika was newly dating a man with big political connections
 
 Claim Timestamp: 00:19:11
 
@@ -944,7 +944,7 @@ Investigative Direction: Interview the tipster about the exact words used and th
 
 ---
 
-**C-3854** Erika was dating Cabot Phillips, not Charlie Kirk, at the time
+**C-8517** Erika was dating Cabot Phillips, not Charlie Kirk, at the time
 
 Claim Timestamp: 00:20:24
 
@@ -959,7 +959,7 @@ Investigative Direction: Establish dates of Erika Frantzve's relationship with C
 
 ---
 
-**C-3855** The patent holder later had a lawsuit with Victor Marx
+**C-8518** The patent holder later had a lawsuit with Victor Marx
 
 Claim Timestamp: 00:21:34
 
@@ -974,7 +974,7 @@ Investigative Direction: Search state and federal court dockets for litigation b
 
 ---
 
-**C-3856** Jeffrey Epstein began his career in weapons trafficking
+**C-8519** Jeffrey Epstein began his career in weapons trafficking
 
 Claim Timestamp: 00:22:26
 
@@ -989,7 +989,7 @@ Investigative Direction: Review published testimony and reporting on Epstein's e
 
 ---
 
-**C-3857** A former Mossad agent testified Robert Maxwell brought Epstein into Iran-Contra
+**C-8520** A former Mossad agent testified Robert Maxwell brought Epstein into Iran-Contra
 
 Claim Timestamp: 00:23:45
 
@@ -1004,7 +1004,7 @@ Investigative Direction: Locate the testimony referenced (likely Ari Ben-Menashe
 
 ---
 
-**C-3858** Blake Neff wrote that Robinson's parents recognized photos of the suspect, not the gun
+**C-8521** Blake Neff wrote that Robinson's parents recognized photos of the suspect, not the gun
 
 Claim Timestamp: 00:27:35
 
@@ -1019,7 +1019,7 @@ Investigative Direction: Compare the charging document's account with the FBI's 
 
 ---
 
-**C-3859** Daily Mail reported Robinson's father recognized a family heirloom in media reports
+**C-8522** Daily Mail reported Robinson's father recognized a family heirloom in media reports
 
 Claim Timestamp: 00:28:52
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Archive the Daily Mail and MSN articles with publicatio
 
 ---
 
-**C-3860** Robinson message said the feds released a photo of the "very unique" rifle
+**C-8523** Robinson message said the feds released a photo of the "very unique" rifle
 
 Claim Timestamp: 00:30:16
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Compare the message's timestamp with the time of the FB
 
 ---
 
-**C-3861** Donors say Charlie never named Erika his successor at Aspen
+**C-8524** Donors say Charlie never named Erika his successor at Aspen
 
 Claim Timestamp: 00:31:16
 
@@ -1060,12 +1060,12 @@ Transcript Snippet: They claim that he never said that in Aspen.
 Anchored Artifacts: 
 Mentions: N-1, N-2
 Related Nodes: N-10664
-Supports: C-2694
+Supports: C-8029
 Investigative Direction: Obtain the original Aspen recording with metadata for forensic audio analysis, and attendee statements.
 
 ---
 
-**C-3862** TPUSA declined to share the Aspen video and Neff called the host a psychopath
+**C-8525** TPUSA declined to share the Aspen video and Neff called the host a psychopath
 
 Claim Timestamp: 00:32:07
 
@@ -1076,12 +1076,12 @@ Transcript Snippet: And you accused me of being a psychopath with with a with a 
 Anchored Artifacts: 
 Mentions: N-159, N-2, N-46, N-3
 Related Nodes: N-10664, N-10000
-Supports: C-2661
+Supports: C-7889
 Investigative Direction: Archive Neff's statement and Erika Kirk's Megyn Kelly interview remark on the video.
 
 ---
 
-**C-3863** TPUSA put up a recreation of the tent Charlie died under for selfies
+**C-8526** TPUSA put up a recreation of the tent Charlie died under for selfies
 
 Claim Timestamp: 00:32:07
 
@@ -1092,12 +1092,12 @@ Transcript Snippet: you you put up a tent uh a recreation of a tent that Charlie
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10376, N-10000
-Supports: C-1991
+Supports: C-4448
 Investigative Direction: Collect AmFest photos and TPUSA event plans showing the tent recreation.
 
 ---
 
-**C-3864** Laura Loomer tweeted "God hates you" at the host
+**C-8527** Laura Loomer tweeted "God hates you" at the host
 
 Claim Timestamp: 00:33:51
 
@@ -1111,7 +1111,7 @@ Investigative Direction: Archive the post with its timestamp and reply count.
 
 ---
 
-**C-3865** Loomer says she speaks to Trump several times a day
+**C-8528** Loomer says she speaks to Trump several times a day
 
 Claim Timestamp: 00:35:03
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Locate Loomer's public statements on call frequency and
 
 ---
 
-**C-3866** 2019 Spectator profile: Loomer described cocaine use and a suicide attempt
+**C-8529** 2019 Spectator profile: Loomer described cocaine use and a suicide attempt
 
 Claim Timestamp: 00:35:40
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Retrieve the 2019 Spectator article and confirm the quo
 
 ---
 
-**C-3867** People in Melania's circle say Loomer is the person most likely to harm Trump
+**C-8530** People in Melania's circle say Loomer is the person most likely to harm Trump
 
 Claim Timestamp: 00:36:45
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Identify any on-record source from Melania Trump's staf
 
 ---
 
-**C-3868** Laura Loomer is not allowed to own guns
+**C-8531** Laura Loomer is not allowed to own guns
 
 Claim Timestamp: 00:36:45
 
@@ -1169,7 +1169,7 @@ Investigative Direction: Check NICS-disqualifying records such as involuntary co
 
 ---
 
-**C-3869** Loomer said she wants the host's children to suffer and live on the streets
+**C-8532** Loomer said she wants the host's children to suffer and live on the streets
 
 Claim Timestamp: 00:37:41
 
@@ -1183,7 +1183,7 @@ Investigative Direction: Archive Loomer's posts referencing the host's children,
 
 ---
 
-**C-3870** Loomer told the Spectator she became addicted to social media
+**C-8533** Loomer told the Spectator she became addicted to social media
 
 Claim Timestamp: 00:38:28
 
@@ -1197,7 +1197,7 @@ Investigative Direction: Retrieve the 2019 Spectator article and confirm the quo
 
 ---
 
-**C-3871** Clip of Loomer on Alex Jones saying her life was ruined
+**C-8534** Clip of Loomer on Alex Jones saying her life was ruined
 
 Claim Timestamp: 00:39:28
 
@@ -1211,7 +1211,7 @@ Investigative Direction: Identify the Infowars episode and air date of the clip.
 
 ---
 
-**C-3872** Trump called Tucker Carlson, Megyn Kelly and the host mentally ill while taking Loomer's advice on Iran
+**C-8535** Trump called Tucker Carlson, Megyn Kelly and the host mentally ill while taking Loomer's advice on Iran
 
 Claim Timestamp: 00:39:28
 
@@ -1226,7 +1226,7 @@ Investigative Direction: Archive the Truth Social post and its date.
 
 ---
 
-**C-3873** The Robinson judge was appointed by Governor Cox
+**C-8536** The Robinson judge was appointed by Governor Cox
 
 Claim Timestamp: 00:43:49
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Check the Utah judicial appointment record for the pres
 
 ---
 
-**C-3874** 600,000 files were dumped on the defense in March
+**C-8537** 600,000 files were dumped on the defense in March
 
 Claim Timestamp: 00:44:48
 
@@ -1251,12 +1251,12 @@ Transcript Snippet: We looked they dumped 600,000 files on them in March.
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10570
-Supports: C-2615
+Supports: C-7721
 Investigative Direction: Review the court's discovery orders and the defense's continuance motion.
 
 ---
 
-**C-3875** Judge earlier assured the defense a trial date could be moved
+**C-8538** Judge earlier assured the defense a trial date could be moved
 
 Claim Timestamp: 00:44:48
 
@@ -1271,7 +1271,7 @@ Investigative Direction: Obtain the hearing transcript in which the date was set
 
 ---
 
-**C-3876** Erika's "one thing for my kids" reply to Fox News on the burial location
+**C-8539** Erika's "one thing for my kids" reply to Fox News on the burial location
 
 Claim Timestamp: 00:47:03
 
@@ -1282,12 +1282,12 @@ Transcript Snippet: And they asked about where he was buried, and it was like, "
 Anchored Artifacts: 
 Mentions: N-2, N-1
 Related Nodes: N-10006, N-10751
-Supports: C-1897
+Supports: C-3904
 Investigative Direction: Archive the Fox News interview segment with its air date.
 
 ---
 
-**C-3877** Erika moved Charlie's body a couple of times
+**C-8540** Erika moved Charlie's body a couple of times
 
 Claim Timestamp: 00:47:03
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Obtain Utah and Arizona burial-transit permits and fune
 
 ---
 
-**C-3878** Charlie's body first went to a burial and cremation service
+**C-8541** Charlie's body first went to a burial and cremation service
 
 Claim Timestamp: 00:48:09
 
@@ -1317,7 +1317,7 @@ Investigative Direction: Identify the first funeral provider and check cremation
 
 ---
 
-**C-3879** Host asks for tips on whether Charlie Kirk was cremated and pledges source protection
+**C-8542** Host asks for tips on whether Charlie Kirk was cremated and pledges source protection
 
 Claim Timestamp: 00:49:03
 
@@ -1332,7 +1332,7 @@ Investigative Direction: Track tips received on the cremation question and corro
 
 ---
 
-**C-3880** Viewer says they have footage that could change the investigation
+**C-8543** Viewer says they have footage that could change the investigation
 
 Claim Timestamp: 00:49:43
 
@@ -1346,7 +1346,7 @@ Investigative Direction: Follow up on whether the footage was submitted and auth
 
 ---
 
-**C-3881** New sentences, including the "pooch" line, were added to Robinson's messages
+**C-8544** New sentences, including the "pooch" line, were added to Robinson's messages
 
 Claim Timestamp: 00:51:43
 
@@ -1361,7 +1361,7 @@ Investigative Direction: Compare the message text in the original charging docum
 
 ---
 
-**C-3882** Kash Patel is suing The Atlantic over a report that he is a drunk
+**C-8545** Kash Patel is suing The Atlantic over a report that he is a drunk
 
 Claim Timestamp: 00:52:39
 
@@ -1375,7 +1375,7 @@ Investigative Direction: Check federal and state dockets for a Patel v. The Atla
 
 ---
 
-**C-3883** Victor Marx declined to join Corby Hall; Hall interview to air next day
+**C-8546** Victor Marx declined to join Corby Hall; Hall interview to air next day
 
 Claim Timestamp: 00:54:47
 
@@ -1518,11 +1518,11 @@ Confidence: medium
 ## 7. Optional Flags
 
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
-- **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-3879, C-3880, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
+- **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-8542, C-8543, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
 - **Name matching**: "Nicci"/"Niecy" are mapped to N-564 Nicey (YouTuber). "Terryl" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-261 Terryl Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-159). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-489 and N-387. "Xavier Boussard" is mapped to N-283 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
 - **Transcription ambiguities**: "Wiyre Fy" is read as the Yrefy sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
-- **Tip reliability**: the 2016 dinner account (C-3847–C-3854) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
-- **Cross-episode links left out**: C-3872 may restate C-2774 (ep 94, Trump post mentioning "mentally ill") or C-2669 (ep 89). C-3848 may restate C-2707 or C-2752 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-3837 relates to C-1940 (ep 47, TPUSA defended the camera removal). C-3875 relates to C-2789 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.
+- **Tip reliability**: the 2016 dinner account (C-8510–C-8517) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
+- **Cross-episode links left out**: C-8535 may restate C-8434 (ep 94, Trump post mentioning "mentally ill") or C-7955 (ep 89). C-8511 may restate C-8168 or C-8332 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-8500 relates to C-4072 (ep 47, TPUSA defended the camera removal). C-8538 relates to C-8405 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.
 - **Not inscribed as claims (admission test)**:
   - The "boiling the frog" theory that TPUSA introduced the setup gradually
   - The idea that the zoomed-out footage "would solve Charlie's murder"

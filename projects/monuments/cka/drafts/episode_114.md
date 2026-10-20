@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-674, N-10969, N-10970
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-598, N-644, N-666, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-675
-  - Claim Range: C-3751, C-4483–C-4540
+  - Claim Range: C-9867–C-9925
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4483, C-4484, C-4485, N-22, N-644, N-378, N-69, N-104, N-265, N-5*
+*Related: C-9867, C-9868, C-9869, N-22, N-644, N-378, N-69, N-104, N-265, N-5*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:05:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4486, N-378, N-22, N-5*
+*Related: C-9871, N-378, N-22, N-5*
 
 **A-2647.2** November 21 Fox News article by Brooke Singman on the FBI's Crooks conclusion (shown in Bongino's video)
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:07:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4487, C-4488, N-674, N-378, N-104, N-10006, N-10014*
+*Related: C-9872, C-9873, N-674, N-378, N-104, N-10006, N-10014*
 
 **A-2647.3** Text exchange between Tucker Carlson and Dan Bongino (displayed and read in Bongino's video)
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:09:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4489, C-4490, N-378, N-22, N-69, N-5*
+*Related: C-9874, C-9875, N-378, N-22, N-69, N-5*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:16:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4494, C-4498, C-4499, C-4500, N-10968, N-10969, N-5, N-1, N-22, N-46, N-85, N-9*
+*Related: C-9879, C-9883, C-9884, C-9885, N-10968, N-10969, N-5, N-1, N-22, N-46, N-85, N-9*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:17:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4503, C-4504, C-4505, C-4510, C-4511, C-4512, C-4519, C-4520, C-4521, N-1, N-2, N-22, N-10000*
+*Related: C-9888, C-9889, C-9890, C-9895, C-9896, C-9897, C-9904, C-9905, C-9906, N-1, N-2, N-22, N-10000*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:20:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4508, N-2, N-666, N-10264, N-10970*
+*Related: C-9893, N-2, N-666, N-10264, N-10970*
 
 **A-2650.2** James Kaddis PragerU video (shown)
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4509, N-666, N-10131*
+*Related: C-9894, N-666, N-10131*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:25:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4513, C-4514, N-3, N-22, N-9, N-5, N-85*
+*Related: C-9898, C-9899, N-3, N-22, N-9, N-5, N-85*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4527, C-4528, C-4529, N-433, N-10671, N-10384*
+*Related: C-9912, C-9913, C-9914, N-433, N-10671, N-10384*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:45:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4531, C-4532, C-4533, C-4534, N-433, N-10700, N-10671, N-10888*
+*Related: C-9916, C-9917, C-9918, C-9919, N-433, N-10700, N-10671, N-10888*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:52:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4535, N-60, N-3*
+*Related: C-9920, N-60, N-3*
 
 ---
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:53:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4536, N-2*
+*Related: C-9921, N-2*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:56:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4537, N-22, N-10000*
+*Related: C-9922, N-22, N-10000*
 
 **A-2656.2** Viewer comment (Francesca) read on air asking why Charlie Kirk's parents are not speaking out
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:58:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4539, N-1*
+*Related: C-9924, N-1*
 
 ---
 
@@ -247,7 +247,7 @@ Video Timestamp: 01:00:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4540, N-3, N-1*
+*Related: C-9925, N-3, N-1*
 
 ---
 
@@ -257,392 +257,392 @@ Confidence Level: Low
 
 Subject of the July 12, 2025 Trump call, the Student Action Summit donor pressure, the Maine vacation and dinner with Tucker Carlson, and the Hamptons and Aspen events on the host's timeline.
 
-*Related: C-4493, C-4496, C-4497, C-4499, C-4500, C-4501, C-4502, C-4503, C-4504, C-4510, C-4511, C-4515, C-4516, C-4518, C-4519, C-4520, C-4521, C-4538, C-4539, C-4540, A-2648.1, A-2649.1, A-2656.2, A-2657.1*
+*Related: C-9878, C-9881, C-9882, C-9884, C-9885, C-9886, C-9887, C-9888, C-9889, C-9895, C-9896, C-9900, C-9901, C-9903, C-9904, C-9905, C-9906, C-9923, C-9924, C-9925, A-2648.1, A-2649.1, A-2656.2, A-2657.1*
 
 **N-2** Erika Kirk
 
 Her July 14 pro-Israel Calvary Chapel speech is set against Tucker Carlson's account of her anti-Israel views at a Maine dinner; her post-assassination conduct and Women's Leadership Summit remarks are criticised.
 
-*Related: C-4505, C-4507, C-4508, C-4511, C-4515, C-4516, C-4517, C-4518, C-4519, C-4521, C-4522, C-4523, C-4524, C-4530, C-4536, A-2649.1, A-2650.1, A-2655.1*
+*Related: C-9890, C-9892, C-9893, C-9896, C-9900, C-9901, C-9902, C-9903, C-9904, C-9906, C-9907, C-9908, C-9909, C-9915, C-9921, A-2649.1, A-2650.1, A-2655.1*
 
 **N-3** Candace Owens
 
 Host; recalls her July 2025 Maine interview with Tucker Carlson, reads her team's FOIA response, and appeals for Kirk family members to reach out.
 
-*Related: C-3751, C-4513, C-4514, C-4515, C-4518, C-4523, C-4526, C-4531, C-4535, C-4538, C-4540, A-2651.1, A-2654.1, A-2657.1*
+*Related: C-9870, C-9898, C-9899, C-9900, C-9903, C-9908, C-9911, C-9916, C-9920, C-9923, C-9925, A-2651.1, A-2654.1, A-2657.1*
 
 **N-5** Donald Trump
 
 According to Carlson's account, Bongino said Trump shut down the Butler investigation; the New York Times says Trump called Charlie Kirk on July 12, 2025 and scolded him.
 
-*Related: C-4483, C-4485, C-4486, C-4489, C-4490, C-4491, C-4492, C-4493, C-4494, C-4495, C-4497, C-4498, C-4499, C-4500, C-4525, A-2646.1, A-2647.1, A-2647.3, A-2648.1, A-2651.1*
+*Related: C-9867, C-9869, C-9871, C-9874, C-9875, C-9876, C-9877, C-9878, C-9879, C-9880, C-9882, C-9883, C-9884, C-9885, C-9910, A-2646.1, A-2647.1, A-2647.3, A-2648.1, A-2651.1*
 
 **N-6** Elizabeth Lane
 
 Cited by the host as having "clocked" Erika Kirk correctly in a long tweet.
 
-*Related: C-4522*
+*Related: C-9907*
 
 **N-9** Jeffrey Epstein
 
 The host says he worked for Israel; Trump's Truth Social post told supporters to stop focusing on him.
 
-*Related: C-4495, C-4498, C-4501, C-4504, C-4514, A-2648.1, A-2651.1*
+*Related: C-9880, C-9883, C-9886, C-9889, C-9899, A-2648.1, A-2651.1*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Kolvet" and "Andrew Kovets". The host says Trump spoke in front of him and Charlie Kirk, and that Erika told her Kolvet "went rogue."
 
-*Related: C-4493, C-4518, C-4523*
+*Related: C-9878, C-9903, C-9908*
 
 **N-22** Tucker Carlson
 
 Says in the Mario Nawfal interview that Bongino told him Trump shut down the Butler investigation; spoke at SAS on July 11, 2025; host recalls his remarks after her Maine interview.
 
-*Related: C-3751, C-4483, C-4484, C-4485, C-4486, C-4487, C-4489, C-4496, C-4497, C-4499, C-4501, C-4502, C-4504, C-4513, C-4515, C-4516, C-4537, A-2646.1, A-2647.1, A-2647.3, A-2648.1, A-2649.1, A-2651.1, A-2656.1*
+*Related: C-9870, C-9867, C-9868, C-9869, C-9871, C-9872, C-9874, C-9881, C-9882, C-9884, C-9886, C-9887, C-9889, C-9898, C-9900, C-9901, C-9922, A-2646.1, A-2647.1, A-2647.3, A-2648.1, A-2649.1, A-2651.1, A-2656.1*
 
 **N-36** Benjamin Netanyahu
 
 Referred to as "BB"; the host says he called Charlie Kirk offering to take Turning Point to the next level.
 
-*Related: C-4520*
+*Related: C-9905*
 
 **N-37** Bill Ackman
 
 Transcript spelling "Bill Ackman". Tucker Carlson questioned the source of his wealth at SAS; the host says he sponsored the Hamptons retreat.
 
-*Related: C-4502, C-4504, C-4519*
+*Related: C-9887, C-9889, C-9904*
 
 **N-46** Megyn Kelly
 
 Transcript spelling "Megyn Kelly". Named in the New York Times article among the supporters Trump was unhappy with.
 
-*Related: C-4499, C-4537, A-2648.1*
+*Related: C-9884, C-9922, A-2648.1*
 
 **N-60** Laura Loomer
 
 Called "Larry Loomer" by the host; subject of an X trend about confronting the host's show.
 
-*Related: C-4535, A-2654.1*
+*Related: C-9920, A-2654.1*
 
 **N-69** Kash Patel
 
 Named by Carlson as someone he called about the Crooks posts.
 
-*Related: C-3751, C-4489, A-2646.1, A-2647.3*
+*Related: C-9870, C-9874, A-2646.1, A-2647.3*
 
 **N-85** Pam Bondi
 
 The New York Times says Trump's July 12 Truth Social post defended her against criticism over Epstein.
 
-*Related: C-4498, C-4500, A-2648.1, A-2651.1*
+*Related: C-9883, C-9885, A-2648.1, A-2651.1*
 
 **N-97** Ben Shapiro
 
 Named by the host as invited to AmFest under Erika Kirk's stewardship.
 
-*Related: C-4524*
+*Related: C-9909*
 
 **N-99** Alex Clark
 
 The host says Erika Kirk okayed Clark calling the host a liar.
 
-*Related: C-4518*
+*Related: C-9903*
 
 **N-104** Thomas Matthew Crooks
 
 Transcript spellings "Thomas Crooks" and "Matthew Crooks". Carlson says the FBI lied about his social media history.
 
-*Related: C-3751, C-4484, C-4487, C-4488, A-2646.1, A-2647.2*
+*Related: C-9870, C-9868, C-9872, C-9873, A-2646.1, A-2647.2*
 
 **N-190** Mikey McCoy
 
 The host says he joined the Kirks' Maine vacation and that Katherine Locastro was once his assistant.
 
-*Related: C-4505, C-4511*
+*Related: C-9890, C-9896*
 
 **N-217** Elizabeth McCoy
 
 Transcript "Eliza and Elizabeth McCoy". Said to have joined the Kirks' Maine vacation for the first time.
 
-*Related: C-4511*
+*Related: C-9896*
 
 **N-265** Christopher Wray
 
 Transcript spelling "Chris Ray". Named by Carlson as heading the previous FBI administration.
 
-*Related: C-4484, A-2646.1*
+*Related: C-9868, A-2646.1*
 
 **N-266** Brian Harpole
 
 The host says she reached out to him for evidence and received a lawsuit instead.
 
-*Related: C-4526*
+*Related: C-9911*
 
 **N-278** Bari Weiss
 
 Transcript spelling "Bari Weiss". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have "brain rot."
 
-*Related: C-4517, C-4524*
+*Related: C-9902, C-9909*
 
 **N-298** Miriam Adelson
 
 Transcript spelling "Miriam Adelson". Cited in the host's Israel theme for Trump.
 
-*Related: C-4495*
+*Related: C-9880*
 
 **N-361** Mitch Snow
 
 The host says he stumbled on a meeting at Fort Huachuca and is convinced he saw Erika Kirk leaving a hotel there on September 8.
 
-*Related: C-4526, C-4530*
+*Related: C-9911, C-9915*
 
 **N-378** Dan Bongino
 
 Transcript spelling "Dan Bongino". According to Carlson, he said Trump shut down the Butler investigation; his response video and texts are played.
 
-*Related: C-3751, C-4483, C-4485, C-4486, C-4487, C-4489, C-4490, C-4494, A-2646.1, A-2647.1, A-2647.2, A-2647.3*
+*Related: C-9870, C-9867, C-9869, C-9871, C-9872, C-9874, C-9875, C-9879, A-2646.1, A-2647.1, A-2647.2, A-2647.3*
 
 **N-418** Derek Niekerk
 
 Transcript spelling "Derek Nerk". Named as a bodyguard on Erika Kirk's July 14 Long Beach flight.
 
-*Related: C-4505*
+*Related: C-9890*
 
 **N-433** Bradley Hansell
 
 Transcript spelling "Bradley Hansell". His September 2025 SAM702 trip around Fort Huachuca is the subject of the host's FOIA request.
 
-*Related: C-4525, C-4527, C-4528, C-4529, C-4531, C-4532, C-4533, A-2652.1, A-2653.1*
+*Related: C-9910, C-9912, C-9913, C-9914, C-9916, C-9917, C-9918, A-2652.1, A-2653.1*
 
 **N-644** Mario Nawfal
 
 First named by the host at 00:00:01 in episode 114. Interviewed Tucker Carlson in the viral clip about Butler. Aliases: Mario Nofl; Mario Knoff.
 
-*Related: C-4483, A-2646.1*
+*Related: C-9867, A-2646.1*
 
 **N-674** Brooke Singman
 
 First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brooke Singman.
 
-*Related: C-4487, A-2647.2*
+*Related: C-9872, A-2647.2*
 
 **N-598** Katherine Locastro
 
 First named by the host at 00:19:42 in episode 114. Young TPUSA employee, once Mikey McCoy's assistant, on Erika Kirk's July 14 Long Beach flight. Aliases: Katherine Loccastro.
 
-*Related: C-4505*
+*Related: C-9890*
 
 **N-675** Jonathan Barcelo
 
 First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.
 
-*Related: C-4505*
+*Related: C-9890*
 
 **N-666** James Kaddis
 
 First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.
 
-*Related: C-4505, C-4506, C-4509, A-2650.1, A-2650.2*
+*Related: C-9890, C-9891, C-9894, A-2650.1, A-2650.2*
 
 **N-10000** Turning Point USA
 
 Organization behind the Student Action Summit, the AmFest line-up and the UVU tour discussed on the timeline.
 
-*Related: C-4500, C-4503, C-4506, C-4524, C-4537, A-2649.1, A-2656.1*
+*Related: C-9885, C-9888, C-9891, C-9909, C-9922, A-2649.1, A-2656.1*
 
 **N-10006** Fox News
 
 Published the November 21 article Bongino cites.
 
-*Related: C-4487, A-2647.2*
+*Related: C-9872, A-2647.2*
 
 **N-10012** Utah Valley University
 
 Site of the first stop of Charlie Kirk's fall tour, requested July 18.
 
-*Related: C-4510*
+*Related: C-9895*
 
 **N-10014** Federal Bureau of Investigation
 
 Carlson says it lied about Crooks's social media history; it concluded Crooks acted alone.
 
-*Related: C-4484, C-4487, A-2647.2*
+*Related: C-9868, C-9872, A-2647.2*
 
 **N-10023** Epstein Israeli Intelligence Asset Allegation
 
 The host says Epstein trafficked weapons and people on behalf of Israel.
 
-*Related: C-4495, C-4514*
+*Related: C-9880, C-9899*
 
 **N-10111** Crooks Federal-Radar Question
 
 Carlson's account of Crooks's undisclosed social media posts.
 
-*Related: C-4484*
+*Related: C-9868*
 
 **N-10131** PragerU
 
 Hosts James Kaddis's "Egyptian pastor who supports Israel" video.
 
-*Related: C-4509, A-2650.2*
+*Related: C-9894, A-2650.2*
 
 **N-10264** Calvary Chapel Pro-Israel Coordination
 
 Erika Kirk's July 14 speech at Calvary Chapel after a pro-Israel introduction.
 
-*Related: C-4506, C-4508, A-2650.1*
+*Related: C-9891, C-9893, A-2650.1*
 
 **N-10268** AmFest Speaker Removal Pattern
 
 A viewer says Tucker Carlson was not invited this year; the host says Carlson and Megyn Kelly were pushed out.
 
-*Related: C-4537*
+*Related: C-9922*
 
 **N-10324** Epstein Files Release Status
 
 The New York Times piece on the White House reaction to the Epstein files.
 
-*Related: C-4494, C-4498*
+*Related: C-9879, C-9883*
 
 **N-10342** Bibi Netanyahu TPUSA Funding Offer
 
 The host restates that Netanyahu offered to take Turning Point to the next level and Charlie Kirk declined.
 
-*Related: C-4520*
+*Related: C-9905*
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's encounter is restated as context for Hansell's trip.
 
-*Related: C-4526, C-4530*
+*Related: C-9911, C-9915*
 
 **N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 The host says she still cannot definitively state that Snow saw Harpole.
 
-*Related: C-4526*
+*Related: C-9911*
 
 **N-10384** Davis-Monthan AFB September 9 Attendee Verification
 
 Hansell's stop at Davis-Monthan in Tucson before Fort Huachuca.
 
-*Related: C-4527, A-2652.1*
+*Related: C-9912, A-2652.1*
 
 **N-10398** Turning Point USA Faith Structure
 
 The host says James Kaddis runs Turning Point USA Faith.
 
-*Related: C-4506*
+*Related: C-9891*
 
 **N-10417** Fort Huachuca Erika Presence Investigation
 
 Mitch Snow's belief that he saw Erika Kirk leaving a hotel at Fort Huachuca on September 8.
 
-*Related: C-4530*
+*Related: C-9915*
 
 **N-10505** Erika Kirk Post-Assassination Conduct Composite
 
 The host's account of Erika Kirk's return to the office and her public demeanour.
 
-*Related: C-4522, C-4536*
+*Related: C-9907, C-9921*
 
 **N-10571** July 14, 2025 Long Beach Flight
 
 Erika Kirk's private flight to Long Beach with Locastro, Niekerk and Barcelo.
 
-*Related: C-4505*
+*Related: C-9890*
 
 **N-10588** Butler PA Investigation Closure Verification
 
 Carlson's claim that Trump shut down the investigation, against Bongino's "pending inactive" article.
 
-*Related: C-4483, C-4485, C-4486, C-4488, C-4490, C-4491*
+*Related: C-9867, C-9869, C-9871, C-9873, C-9875, C-9876*
 
 **N-10594** Aspen Donor Inconsistency
 
 The host says Erika Kirk went to the August 15 Aspen retreat but not the meeting itself.
 
-*Related: C-4521*
+*Related: C-9906*
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
 
 The host says reaching out to Harpole produced a lawsuit.
 
-*Related: C-4526*
+*Related: C-9911*
 
 **N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The passenger list for Hansell's SAM702 legs, especially Tucson to Fort Huachuca, sought by FOIA.
 
-*Related: C-4527, C-4528, C-4529, C-4531, C-4532, A-2652.1, A-2653.1*
+*Related: C-9912, C-9913, C-9914, C-9916, C-9917, A-2652.1, A-2653.1*
 
 **N-10673** Hamptons August 5–7 Intervention Event
 
 The host revisits the Hamptons retreat that Charlie Kirk called an intervention.
 
-*Related: C-4519*
+*Related: C-9904*
 
 **N-10675** Turning Point UVU Event Submission Chain
 
 The host says it is still unknown who submitted the July 18 UVU request.
 
-*Related: C-4510*
+*Related: C-9895*
 
 **N-10700** Pending FOIA Requests
 
 The SAM702 travel-log request now in a complex processing queue.
 
-*Related: C-4531, C-4532, C-4534, A-2653.1*
+*Related: C-9916, C-9917, C-9919, A-2653.1*
 
 **N-10724** Butler Shooting Insider Involvement Claim
 
 The host's theory that Butler was a real attempt not carried out by the person blamed, serving as a warning.
 
-*Related: C-4492*
+*Related: C-9877*
 
 **N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
 The UVU request came days after the SAS donor pressure and the Trump call.
 
-*Related: C-4510*
+*Related: C-9895*
 
 **N-10870** Yrefy / Yrefy Sponsorship Contracts and July 25 Addendum
 
 The host says Yrefy became the fall tour's number one sponsor through a contract addendum.
 
-*Related: C-4512*
+*Related: C-9897*
 
 **N-10888** Department of War
 
 Hansell's department; its FOIA office invoked unusual circumstances.
 
-*Related: C-4533, A-2653.1*
+*Related: C-9918, A-2653.1*
 
 **N-10968** The New York Times
 
 Node Type: Organization
 Newspaper that published the piece on the White House reaction to the Epstein files, reporting that Trump called Charlie Kirk and scolded him on July 12, 2025. The host says the piece was well sourced and believes Dan Bongino was one of its sources.
 
-*Related: C-4494, A-2648.1*
+*Related: C-9879, A-2648.1*
 
 **N-10969** Trump–Charlie Kirk July 12, 2025 Scolding Call
 
 Node Type: Topic
 Investigation target: the New York Times report that Donald Trump called Charlie Kirk on July 12, 2025, the day after Tucker Carlson's Student Action Summit speech, and scolded him over the event becoming "an Epstein grievance fest." The host asks who prompted the call and places it on her pre-assassination timeline.
 
-*Related: C-4496, C-4497, C-4500, A-2648.1*
+*Related: C-9881, C-9882, C-9885, A-2648.1*
 
 **N-10970** Erika Kirk July 2025 Israel Stance Discrepancy
 
 Node Type: Topic
 Investigation target: the contrast between Erika Kirk's pro-Israel July 14, 2025 Calvary Chapel speech and Tucker Carlson's account to the host, days later in Maine, that Erika had been "hardcore on the anti-Israel train" at dinner, and her later pro-Israel public positions.
 
-*Related: C-4508, C-4515, C-4516, C-4517, A-2650.1*
+*Related: C-9893, C-9900, C-9901, C-9902, A-2650.1*
 
 ## 5. Claim Register
 
-**C-4483** Tucker Carlson says Dan Bongino told him Trump shut down the Butler investigation
+**C-9867** Tucker Carlson says Dan Bongino told him Trump shut down the Butler investigation
 
 Claim Timestamp: 00:01:26
 
@@ -657,7 +657,7 @@ Investigative Direction: Obtain the Carlson–Bongino text exchanges Carlson say
 
 ---
 
-**C-4484** Carlson says he obtained Crooks social media posts the FBI said did not exist
+**C-9868** Carlson says he obtained Crooks social media posts the FBI said did not exist
 
 Claim Timestamp: 00:01:26
 
@@ -672,7 +672,7 @@ Investigative Direction: Compare the posts Carlson holds against FBI public stat
 
 ---
 
-**C-4485** Bongino told Carlson to "take it up with Trump" in early December
+**C-9869** Bongino told Carlson to "take it up with Trump" in early December
 
 Claim Timestamp: 00:03:24
 
@@ -687,7 +687,7 @@ Investigative Direction: Obtain the December call and text records between Carls
 
 ---
 
-**C-3751** Host says the Butler story terrified Dan Bongino and Kash Patel
+**C-9870** Host says the Butler story terrified Dan Bongino and Kash Patel
 
 Claim Timestamp: 00:04:34
 
@@ -702,7 +702,7 @@ Investigative Direction: Obtain Carlson's full account and Bongino's response; c
 
 ---
 
-**C-4486** Bongino says the claim that Trump shut down the Butler investigation is made up
+**C-9871** Bongino says the claim that Trump shut down the Butler investigation is made up
 
 Claim Timestamp: 00:07:15
 
@@ -717,7 +717,7 @@ Investigative Direction: Obtain FBI case-status records and any White House comm
 
 ---
 
-**C-4487** Fox News reported on November 21 that the FBI concluded Crooks acted alone
+**C-9872** Fox News reported on November 21 that the FBI concluded Crooks acted alone
 
 Claim Timestamp: 00:07:15
 
@@ -732,7 +732,7 @@ Investigative Direction: Retrieve the Fox News article of November 21 and the FB
 
 ---
 
-**C-4488** The Crooks case sits in "pending inactive" status
+**C-9873** The Crooks case sits in "pending inactive" status
 
 Claim Timestamp: 00:07:15
 
@@ -747,7 +747,7 @@ Investigative Direction: Request the FBI's case status for the Butler shooting i
 
 ---
 
-**C-4489** Bongino Texted Carlson to Ask the President for More Information
+**C-9874** Bongino Texted Carlson to Ask the President for More Information
 
 Claim Timestamp: 00:09:41
 
@@ -762,7 +762,7 @@ Investigative Direction: Obtain the complete text thread between Carlson and Bon
 
 ---
 
-**C-4490** Host says Bongino's text confirms unreleased Butler information exists
+**C-9875** Host says Bongino's text confirms unreleased Butler information exists
 
 Claim Timestamp: 00:10:28
 
@@ -777,7 +777,7 @@ Investigative Direction: Identify withheld Butler investigation records through 
 
 ---
 
-**C-4491** Trump did not fire the Secret Service agents who failed at Butler
+**C-9876** Trump did not fire the Secret Service agents who failed at Butler
 
 Claim Timestamp: 00:10:28
 
@@ -792,7 +792,7 @@ Investigative Direction: Check Secret Service personnel actions and disciplinary
 
 ---
 
-**C-4492** Host believes Butler was a real attempt meant as a warning
+**C-9877** Host believes Butler was a real attempt meant as a warning
 
 Claim Timestamp: 00:12:03
 
@@ -807,7 +807,7 @@ Investigative Direction: Review the full Butler forensic and investigative recor
 
 ---
 
-**C-4493** Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone
+**C-9878** Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone
 
 Claim Timestamp: 00:12:34
 
@@ -821,7 +821,7 @@ Investigative Direction: Ask Andrew Kolvet whether such a remark was made and wh
 
 ---
 
-**C-4494** The New York Times published a piece on the White House reaction to the Epstein files
+**C-9879** The New York Times published a piece on the White House reaction to the Epstein files
 
 Claim Timestamp: 00:14:37
 
@@ -836,7 +836,7 @@ Investigative Direction: Retrieve the New York Times article and its sourcing de
 
 ---
 
-**C-4495** Host says Epstein trafficked weapons and people on behalf of Israel
+**C-9880** Host says Epstein trafficked weapons and people on behalf of Israel
 
 Claim Timestamp: 00:14:37
 
@@ -851,7 +851,7 @@ Investigative Direction: Review released Epstein files and intelligence-related 
 
 ---
 
-**C-4496** Host's timeline says instructions to kill Kirk went out after Tucker spoke at SAS
+**C-9881** Host's timeline says instructions to kill Kirk went out after Tucker spoke at SAS
 
 Claim Timestamp: 00:16:11
 
@@ -866,7 +866,7 @@ Investigative Direction: Establish communications among TPUSA donors and staff b
 
 ---
 
-**C-4497** Tucker spoke at SAS on July 11 and Trump called Kirk on July 12
+**C-9882** Tucker spoke at SAS on July 11 and Trump called Kirk on July 12
 
 Claim Timestamp: 00:16:11
 
@@ -881,7 +881,7 @@ Investigative Direction: Confirm the SAS speaking schedule and White House call 
 
 ---
 
-**C-4498** Trump's July 12 Truth Social post defended Bondi and dismissed Epstein
+**C-9883** Trump's July 12 Truth Social post defended Bondi and dismissed Epstein
 
 Claim Timestamp: 00:16:11
 
@@ -896,7 +896,7 @@ Investigative Direction: Retrieve Trump's July 12, 2025 Truth Social post from t
 
 ---
 
-**C-4499** Trump told aides he was unhappy with Kirk, Carlson and Kelly
+**C-9884** Trump told aides he was unhappy with Kirk, Carlson and Kelly
 
 Claim Timestamp: 00:16:11
 
@@ -911,7 +911,7 @@ Investigative Direction: Seek confirmation from the article's sources or White H
 
 ---
 
-**C-4500** Trump called Kirk and scolded him over the "Epstein grievance fest"
+**C-9885** Trump called Kirk and scolded him over the "Epstein grievance fest"
 
 Claim Timestamp: 00:16:11
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain call records or testimony from Kirk's staff abou
 
 ---
 
-**C-4501** Charlie Kirk lost millions from pro-Israel donors over Tucker's Epstein remarks
+**C-9886** Charlie Kirk lost millions from pro-Israel donors over Tucker's Epstein remarks
 
 Claim Timestamp: 00:17:29
 
@@ -940,7 +940,7 @@ Investigative Direction: Compare TPUSA donor records and pledges before and afte
 
 ---
 
-**C-4502** Donors wanted Kirk to cancel Tucker over the Bill Ackman question
+**C-9887** Donors wanted Kirk to cancel Tucker over the Bill Ackman question
 
 Claim Timestamp: 00:17:29
 
@@ -954,7 +954,7 @@ Investigative Direction: Seek testimony from TPUSA staff or donors on post-speec
 
 ---
 
-**C-4503** The 2025 Student Action Summit ran July 11–13 in Tampa Bay
+**C-9888** The 2025 Student Action Summit ran July 11–13 in Tampa Bay
 
 Claim Timestamp: 00:17:29
 
@@ -969,7 +969,7 @@ Investigative Direction: Check the published 2025 SAS agenda.
 
 ---
 
-**C-4504** Tucker's SAS speech raised Epstein, foreign-army citizenship and Ackman's wealth
+**C-9889** Tucker's SAS speech raised Epstein, foreign-army citizenship and Ackman's wealth
 
 Claim Timestamp: 00:18:45
 
@@ -983,7 +983,7 @@ Investigative Direction: Review the full video of Carlson's July 11, 2025 SAS sp
 
 ---
 
-**C-4505** Erika Kirk flew privately to Long Beach on July 14 with Locastro, Niekerk and Barcelo
+**C-9890** Erika Kirk flew privately to Long Beach on July 14 with Locastro, Niekerk and Barcelo
 
 Claim Timestamp: 00:19:42
 
@@ -998,7 +998,7 @@ Investigative Direction: Obtain flight records for the July 14, 2025 Long Beach 
 
 ---
 
-**C-4506** Host says James Kaddis is Egyptian and runs Turning Point USA Faith
+**C-9891** Host says James Kaddis is Egyptian and runs Turning Point USA Faith
 
 Claim Timestamp: 00:19:42
 
@@ -1013,7 +1013,7 @@ Investigative Direction: Check TPUSA Faith leadership listings and Calvary Chape
 
 ---
 
-**C-4507** Erika Kirk did not attend the Student Action Summit
+**C-9892** Erika Kirk did not attend the Student Action Summit
 
 Claim Timestamp: 00:20:49
 
@@ -1027,7 +1027,7 @@ Investigative Direction: Review SAS 2025 event footage and attendee reports for 
 
 ---
 
-**C-4508** Erika Kirk's July 14 speech framed Israel's constant warfare as a call to arms
+**C-9893** Erika Kirk's July 14 speech framed Israel's constant warfare as a call to arms
 
 Claim Timestamp: 00:20:49
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary 
 
 ---
 
-**C-4509** James Kaddis made a PragerU video as an Egyptian pastor who supports Israel
+**C-9894** James Kaddis made a PragerU video as an Egyptian pastor who supports Israel
 
 Claim Timestamp: 00:21:49
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Locate the PragerU video and confirm the speaker's iden
 
 ---
 
-**C-4510** The UVU request went in on July 18 and its submitter is unknown
+**C-9895** The UVU request went in on July 18 and its submitter is unknown
 
 Claim Timestamp: 00:23:28
 
@@ -1068,12 +1068,12 @@ Transcript Snippet: Right after this on July 18th, uh that's when the request go
 Anchored Artifacts: A-2649.1
 Mentions: N-1
 Related Nodes: N-10675, N-10012, N-10863
-Supports: C-1675
+Supports: C-2668
 Investigative Direction: Obtain the UVU event request record and submitter identity.
 
 ---
 
-**C-4511** Charlie Kirk vacationed in Maine around July 20–30 with the McCoys
+**C-9896** Charlie Kirk vacationed in Maine around July 20–30 with the McCoys
 
 Claim Timestamp: 00:23:28
 
@@ -1087,7 +1087,7 @@ Investigative Direction: Check photo metadata of the Maine images and the McCoys
 
 ---
 
-**C-4512** Yrefy became the fall tour's number one sponsor via an addendum
+**C-9897** Yrefy became the fall tour's number one sponsor via an addendum
 
 Claim Timestamp: 00:23:28
 
@@ -1102,7 +1102,7 @@ Investigative Direction: Obtain the Yrefy sponsorship contract and addendum date
 
 ---
 
-**C-4513** Host went to Maine in July 2025 to tape Tucker Carlson's show
+**C-9898** Host went to Maine in July 2025 to tape Tucker Carlson's show
 
 Claim Timestamp: 00:25:20
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Check the release date of the host's interview on Tucke
 
 ---
 
-**C-4514** In the Maine interview the host said Epstein had worked for Israel since the 1980s
+**C-9899** In the Maine interview the host said Epstein had worked for Israel since the 1980s
 
 Claim Timestamp: 00:25:49
 
@@ -1131,7 +1131,7 @@ Investigative Direction: Review released Epstein records for documented foreign-
 
 ---
 
-**C-4515** Tucker told the host he had just had dinner with Charlie and Erika Kirk in Maine
+**C-9900** Tucker told the host he had just had dinner with Charlie and Erika Kirk in Maine
 
 Claim Timestamp: 00:27:15
 
@@ -1146,7 +1146,7 @@ Investigative Direction: Ask Tucker Carlson to confirm the date of the dinner; c
 
 ---
 
-**C-4516** Tucker said Erika Kirk was "hardcore on the anti-Israel train"
+**C-9901** Tucker said Erika Kirk was "hardcore on the anti-Israel train"
 
 Claim Timestamp: 00:28:29
 
@@ -1161,7 +1161,7 @@ Investigative Direction: Ask Tucker Carlson to confirm or deny the remark.
 
 ---
 
-**C-4517** After the assassination Erika Kirk appeared with Bari Weiss saying anti-Israel people have "brain rot"
+**C-9902** After the assassination Erika Kirk appeared with Bari Weiss saying anti-Israel people have "brain rot"
 
 Claim Timestamp: 00:28:47
 
@@ -1176,7 +1176,7 @@ Investigative Direction: Review the CBS / Bari Weiss town hall transcript for th
 
 ---
 
-**C-4518** Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar
+**C-9903** Erika Kirk had Kolvet deny the Catholic account and okayed Alex Clark calling the host a liar
 
 Claim Timestamp: 00:30:08
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Compare dates of Kolvet's denial and Clark's statement;
 
 ---
 
-**C-4519** The Hamptons retreat was an intervention Erika Kirk attended
+**C-9904** The Hamptons retreat was an intervention Erika Kirk attended
 
 Claim Timestamp: 00:33:05
 
@@ -1201,12 +1201,12 @@ Transcript Snippet: This is Charlie Summit that Charlie himself described as an 
 Anchored Artifacts: A-2649.1
 Mentions: N-1, N-2, N-37
 Related Nodes: N-10673
-Supports: C-1128
+Supports: C-79
 Investigative Direction: Obtain attendee lists and Charlie Kirk's own descriptions of the Hamptons event.
 
 ---
 
-**C-4520** Netanyahu offered to take TPUSA to the next level and Charlie declined
+**C-9905** Netanyahu offered to take TPUSA to the next level and Charlie declined
 
 Claim Timestamp: 00:33:05
 
@@ -1221,7 +1221,7 @@ Investigative Direction: Seek testimony from those aware of the Netanyahu call a
 
 ---
 
-**C-4521** Erika Kirk went to the August 15 Aspen retreat but not the meeting
+**C-9906** Erika Kirk went to the August 15 Aspen retreat but not the meeting
 
 Claim Timestamp: 00:33:45
 
@@ -1236,7 +1236,7 @@ Investigative Direction: Ask Aspen attendees whether Erika Kirk was in the room 
 
 ---
 
-**C-4522** Erika Kirk was back in the office within two days of the assassination
+**C-9907** Erika Kirk was back in the office within two days of the assassination
 
 Claim Timestamp: 00:38:10
 
@@ -1251,7 +1251,7 @@ Investigative Direction: Seek TPUSA staff accounts and building access records f
 
 ---
 
-**C-4523** Erika Kirk told the host that Andrew Kolvet went rogue
+**C-9908** Erika Kirk told the host that Andrew Kolvet went rogue
 
 Claim Timestamp: 00:39:05
 
@@ -1265,7 +1265,7 @@ Investigative Direction: Establish the date and context of the host's meeting wi
 
 ---
 
-**C-4524** Under Erika Kirk TPUSA deepened its partnership with the IFCJ and invited Weiss and Shapiro to AmFest
+**C-9909** Under Erika Kirk TPUSA deepened its partnership with the IFCJ and invited Weiss and Shapiro to AmFest
 
 Claim Timestamp: 00:40:29
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Check AmFest 2025 speaker lists and any TPUSA–IFCJ pa
 
 ---
 
-**C-4525** Bradley Hansell is Trump's under secretary for intelligence and security
+**C-9910** Bradley Hansell is Trump's under secretary for intelligence and security
 
 Claim Timestamp: 00:41:20
 
@@ -1290,12 +1290,12 @@ Transcript Snippet: he is Trump's appointed under secretary of defense for intel
 
 Anchored Artifacts: 
 Mentions: N-433, N-5
-Supports: C-2909
+Supports: C-9620
 Investigative Direction: Confirm Hansell's title and confirmation record.
 
 ---
 
-**C-4526** Reaching out to Brian Harpole produced a lawsuit rather than evidence
+**C-9911** Reaching out to Brian Harpole produced a lawsuit rather than evidence
 
 Claim Timestamp: 00:42:15
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Obtain Harpole's travel and location records for Septem
 
 ---
 
-**C-4527** Hansell flew Andrews–Colorado Springs–Tucson–Fort Huachuca, arriving September 8
+**C-9912** Hansell flew Andrews–Colorado Springs–Tucson–Fort Huachuca, arriving September 8
 
 Claim Timestamp: 00:42:15
 
@@ -1325,7 +1325,7 @@ Investigative Direction: Obtain the SAM702 manifest for the Tucson-to-Fort Huach
 
 ---
 
-**C-4528** The plane flew to El Paso on September 9 and stayed 4 hours 10 minutes
+**C-9913** The plane flew to El Paso on September 9 and stayed 4 hours 10 minutes
 
 Claim Timestamp: 00:43:16
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Pull ADS-B data for SAM702 on September 9, 2025.
 
 ---
 
-**C-4529** Hansell's 19-hour Fort Huachuca stop was the longest of the trip
+**C-9914** Hansell's 19-hour Fort Huachuca stop was the longest of the trip
 
 Claim Timestamp: 00:43:16
 
@@ -1355,7 +1355,7 @@ Investigative Direction: Obtain Fort Huachuca visitor and lodging records for Ha
 
 ---
 
-**C-4530** Mitch Snow is convinced he saw Erika Kirk leaving a Fort Huachuca hotel on September 8
+**C-9915** Mitch Snow is convinced he saw Erika Kirk leaving a Fort Huachuca hotel on September 8
 
 Claim Timestamp: 00:44:21
 
@@ -1370,7 +1370,7 @@ Investigative Direction: Obtain Fort Huachuca lodging registers for September 7�
 
 ---
 
-**C-4531** Host's team filed a FOIA request for Hansell's travel logs
+**C-9916** Host's team filed a FOIA request for Hansell's travel logs
 
 Claim Timestamp: 00:44:21
 
@@ -1385,7 +1385,7 @@ Investigative Direction: Track the FOIA request number and status.
 
 ---
 
-**C-4532** The FOIA office invoked unusual circumstances, including inter-agency consultation
+**C-9917** The FOIA office invoked unusual circumstances, including inter-agency consultation
 
 Claim Timestamp: 00:45:15
 
@@ -1400,7 +1400,7 @@ Investigative Direction: Ask the FOIA office which agencies are being consulted,
 
 ---
 
-**C-4533** Host says Hansell's flight was booked from his own office
+**C-9918** Host says Hansell's flight was booked from his own office
 
 Claim Timestamp: 00:46:37
 
@@ -1415,7 +1415,7 @@ Investigative Direction: Obtain the SAM702 mission request and booking office fr
 
 ---
 
-**C-4534** The request sits in a complex queue of about 3,534 open requests
+**C-9919** The request sits in a complex queue of about 3,534 open requests
 
 Claim Timestamp: 00:47:32
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Check the agency's annual FOIA report for its complex-q
 
 ---
 
-**C-4535** An X trend said Loomer confronted the host on her show
+**C-9920** An X trend said Loomer confronted the host on her show
 
 Claim Timestamp: 00:52:09
 
@@ -1443,7 +1443,7 @@ Investigative Direction: Archive the X trend text and compare it with the episod
 
 ---
 
-**C-4536** Erika Kirk was heckled as a "pedophile protector" at the Women's Leadership Summit
+**C-9921** Erika Kirk was heckled as a "pedophile protector" at the Women's Leadership Summit
 
 Claim Timestamp: 00:53:58
 
@@ -1458,7 +1458,7 @@ Investigative Direction: Obtain unedited footage of the Women's Leadership Summi
 
 ---
 
-**C-4537** Host says TPUSA was always going to push out Tucker Carlson and Megyn Kelly
+**C-9922** Host says TPUSA was always going to push out Tucker Carlson and Megyn Kelly
 
 Claim Timestamp: 00:56:19
 
@@ -1473,7 +1473,7 @@ Investigative Direction: Compare TPUSA 2025 and 2026 speaker lists and Carlson's
 
 ---
 
-**C-4538** Host disputes a US magazine report that Charlie was afraid to talk to her
+**C-9923** Host disputes a US magazine report that Charlie was afraid to talk to her
 
 Claim Timestamp: 00:57:49
 
@@ -1487,7 +1487,7 @@ Investigative Direction: Locate the magazine article and compare it with travel 
 
 ---
 
-**C-4539** Host says Charlie Kirk's parents were always fiercely private
+**C-9924** Host says Charlie Kirk's parents were always fiercely private
 
 Claim Timestamp: 00:58:44
 
@@ -1501,7 +1501,7 @@ Investigative Direction: Review public appearances and statements by Charlie Kir
 
 ---
 
-**C-4540** Host invites Kirk family members to reach out off the record
+**C-9925** Host invites Kirk family members to reach out off the record
 
 Claim Timestamp: 01:00:06
 
@@ -1697,10 +1697,10 @@ Confidence: medium
 
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) did not match the transcript front matter (1:02:38); it has been set to 00:00:00–01:02:38. The skeleton's Ledger Summary claim-range lines and its stray template heading were replaced per spec.
 - **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Kaddis PragerU video; "This is literally his Prageru video" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).
-- **DIA scan**: one keyword hit, "more tips@candice. com" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself ("Why would you guys give me more tips?"). It directly follows her appeal to Kirk family members to "Reach out ... I'd keep it all off record". It is treated as a DIA beat (C-4540, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. "candace Owens. com" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark "I've received so many emails about him" relays past tips without a request and is not inscribed.
+- **DIA scan**: one keyword hit, "more tips@candice. com" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself ("Why would you guys give me more tips?"). It directly follows her appeal to Kirk family members to "Reach out ... I'd keep it all off record". It is treated as a DIA beat (C-9925, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. "candace Owens. com" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark "I've received so many emails about him" relays past tips without a request and is not inscribed.
 - **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-418 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcelo"). "James Kaddis" / "James Kaddis" is minted as N-666 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansell" maps to N-433 Bradley Hansell. "Brooke Singman" (named by Bongino) is minted as N-674 Brooke Singman. "Chris Ray" maps to N-265 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
 - **Transcription ambiguities**: "Fort Huachuca" = Fort Huachuca; "ZAS" = SAS; "why Rei" = Yrefy; "Aster at the Aspen investor retreat" is kept as spoken; "FOI AFU" / "FOFU" / "fifu" are kept as spoken. The host's "Larry Loomer" is a deliberate nickname for Laura Loomer (N-60).
-- **Cross-episode links**: C-4510 Supports C-1675 (July 18 UVU request), C-4519 Supports C-1128 (Hamptons intervention), C-4525 Supports C-2909 (Hansell's title). Possible links left out: C-2111 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-2677 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).
-- **Not inscribed as claims (admission test)**: "Erika's a psychopath" and related characterisations; "Trump betrayed Charlie Kirk"; "Trump is very vain"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-4492); Bongino "is just lying" and the demeanour reading; "Kash Patel ... constantly looks like he is in a state of terror"; "Trump, I believe, said yes" (kept only as context in C-4520); "the organization died with Charlie"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.
+- **Cross-episode links**: C-9895 Supports C-2668 (July 18 UVU request), C-9904 Supports C-79 (Hamptons intervention), C-9910 Supports C-9620 (Hansell's title). Possible links left out: C-5164 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-7996 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).
+- **Not inscribed as claims (admission test)**: "Erika's a psychopath" and related characterisations; "Trump betrayed Charlie Kirk"; "Trump is very vain"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-9877); Bongino "is just lying" and the demeanour reading; "Kash Patel ... constantly looks like he is in a state of terror"; "Trump, I believe, said yes" (kept only as context in C-9905); "the organization died with Charlie"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.
 - **Minor beats not inscribed**: the host's sister on grief and memory loss; the host not answering calls or texts; the book club postponed to Monday; the "six million" mug merch; the host's daughter's fever; a viewer request about a TPUSA audit ("Leah files").
 - **Sponsor reads** (Preborn, Dose, Cozy Earth and a home-loan ad) are excluded.

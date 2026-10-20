@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-786, N-787, N-788, N-11146
   - Tip-minted Nodes (reintro-ep143): N-11091
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-7535–C-7598
+  - Claim Range: C-12279–C-12353
   - New Nodes Introduced: N-10809
   - Reused Nodes Appearing: N-2, N-159, N-125, N-261, N-10808, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-224, N-237, N-266, N-272, N-484, N-485, N-776, N-10000, N-10022, N-10100, N-10151, N-10270, N-10324, N-10340, N-10544, N-10651, N-10661, N-10741, N-10795, N-10799, N-10810, N-10862, N-11065, N-11068, N-785, N-11147
   - (see registers)
@@ -51,7 +51,7 @@ Confidence: high
 ### Episode 143 Ledger Summary
 
 - **Artifact Families Introduced:** A-2294, A-2295, A-2296, A-2297, A-2298, A-2299, A-2300
-- **Claim Range:** C-3302 – C-3312
+- **Claim Range:** C-12285 – C-12291
 - **New Nodes Introduced:** N-10808, N-10809
 - **Existing Nodes Reused:** N-2, N-125, N-40, N-159, N-261
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:18:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3308, N-159, N-40*
+*Related: C-12301, N-159, N-40*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:08:42–00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3302, C-3303, N-261, N-1*
+*Related: C-12285, C-12288, N-261, N-1*
 
 **A-2295.2** Video segment showing the yellow audience-facing camera falling/knocked to the floor shortly after Charlie is removed from the scene, coming to rest with its encompassed SD card on the ground.
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:13:38–00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3305, C-3304, N-261, N-1, A-2300*
+*Related: C-12293, C-12296, N-261, N-1, A-2300*
 
 **A-2295.3** Video segment showing Taral/Terryl stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.
 
@@ -204,7 +204,7 @@ Video Timestamp: 00:14:47–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3304, C-3305, N-261, N-1, A-2300*
+*Related: C-12296, C-12293, N-261, N-1, A-2300*
 
 ---
 
@@ -218,7 +218,7 @@ Video Timestamp: 00:32:32–00:33:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3306, N-125, N-40, N-1*
+*Related: C-12322, N-125, N-40, N-1*
 
 ---
 
@@ -232,7 +232,7 @@ Video Timestamp: 00:35:00–00:36:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3309, N-125, N-1, N-40*
+*Related: C-12328, N-125, N-1, N-40*
 
 ---
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:34:27–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3310, N-159, N-125*
+*Related: C-12327, N-159, N-125*
 
 ---
 
@@ -260,7 +260,7 @@ Video Timestamp: 00:41:34–00:42:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3311, N-40*
+*Related: C-12340, N-40*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:13:38–00:15:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3304, C-3305, N-261, N-1, A-2295.2, A-2295.3*
+*Related: C-12296, C-12293, N-261, N-1, A-2295.2, A-2295.3*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:36:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7576, C-7577*
+*Related: C-12330, C-12331*
 
 ---
 
@@ -302,7 +302,7 @@ Video Timestamp: 00:19:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7554*
+*Related: C-12304*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:13:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7547, C-7589*
+*Related: C-12295, C-12344*
 
 ---
 
@@ -328,7 +328,7 @@ Video Timestamp: 00:16:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7550, C-7551*
+*Related: C-12299, C-12300*
 
 ---
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7586*
+*Related: C-12341*
 
 **A-2892.2** Host reads viewer comment saying a downward-pointing camera would show the men handling Charlie
 
@@ -354,7 +354,7 @@ Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7588*
+*Related: C-12343*
 
 **A-2892.3** Host reads viewer comment asking whether Andrew Wilson has released the proof text
 
@@ -365,7 +365,7 @@ Video Timestamp: 00:51:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7597*
+*Related: C-12352*
 
 ---
 
@@ -378,7 +378,7 @@ Video Timestamp: 00:30:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7568, C-7569*
+*Related: C-12318, C-12319*
 
 ---
 
@@ -393,7 +393,7 @@ Claim Count: 6
 Episode Count: Multiple (including 143)
 Investigative Pressure: High
 
-*Related: A-2295.1, A-2295.2, A-2295.3, A-2296.1, A-2297.1, A-2300.1, C-3302, C-3303, C-3304, C-3305, C-3306, C-3309*
+*Related: A-2295.1, A-2295.2, A-2295.3, A-2296.1, A-2297.1, A-2300.1, C-12285, C-12288, C-12296, C-12293, C-12322, C-12328*
 
 ---
 
@@ -406,7 +406,7 @@ Claim Count: 2
 Episode Count: Multiple
 Investigative Pressure: Medium
 
-*Related: A-2294.1, A-2298.1, C-3308, C-3310*
+*Related: A-2294.1, A-2298.1, C-12301, C-12327*
 
 ---
 
@@ -419,7 +419,7 @@ Claim Count: 3
 Episode Count: 1 (in this ledger entry)
 Investigative Pressure: High
 
-*Related: A-2295.1, A-2295.2, A-2295.3, A-2300.1, C-3302, C-3303, C-3304*
+*Related: A-2295.1, A-2295.2, A-2295.3, A-2300.1, C-12285, C-12288, C-12296*
 
 ---
 
@@ -432,7 +432,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2295.1, C-3302, C-3303, N-261*
+*Related: A-2295.1, C-12285, C-12288, N-261*
 
 ---
 
@@ -445,7 +445,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2295.2, A-2295.3, A-2300.1, C-3304, C-3305, N-261*
+*Related: A-2295.2, A-2295.3, A-2300.1, C-12296, C-12293, N-261*
 
 ---
 
@@ -453,7 +453,7 @@ Investigative Pressure: Medium
 
 The organization the host criticizes.
 
-*Related: C-7536, C-7549, C-7552, C-7561, C-7563, C-7564, C-7565, C-7595*
+*Related: C-12280, C-12298, C-12302, C-12311, C-12313, C-12314, C-12315, C-12350*
 
 ---
 
@@ -461,7 +461,7 @@ The organization the host criticizes.
 
 Reused for the new identification claims.
 
-*Related: C-7566, C-7567, C-7568, C-7569, C-7570, C-7571, C-7574*
+*Related: C-12316, C-12317, C-12318, C-12319, C-12320, C-12321, C-12326*
 
 ---
 
@@ -469,7 +469,7 @@ Reused for the new identification claims.
 
 Reused for the card rationale claims.
 
-*Related: C-7545, C-7546*
+*Related: C-12292, C-12294*
 
 ---
 
@@ -477,7 +477,7 @@ Reused for the card rationale claims.
 
 Reused.
 
-*Related: C-7572, C-7573*
+*Related: C-12323, C-12324*
 
 ---
 
@@ -485,7 +485,7 @@ Reused.
 
 Reused.
 
-*Related: C-7560*
+*Related: C-12310*
 
 ---
 
@@ -493,7 +493,7 @@ Reused.
 
 Reused.
 
-*Related: C-7577, C-7578*
+*Related: C-12331, C-12332*
 
 ---
 
@@ -501,7 +501,7 @@ Reused.
 
 Reused for the Glenn Beck claims.
 
-*Related: C-7550, C-7551*
+*Related: C-12299, C-12300*
 
 ---
 
@@ -509,7 +509,7 @@ Reused for the Glenn Beck claims.
 
 Reused.
 
-*Related: C-7594*
+*Related: C-12349*
 
 ---
 
@@ -517,7 +517,7 @@ Reused.
 
 Reused.
 
-*Related: C-7558, C-7559*
+*Related: C-12308, C-12309*
 
 ---
 
@@ -525,7 +525,7 @@ Reused.
 
 Reused.
 
-*Related: C-7557*
+*Related: C-12307*
 
 ---
 
@@ -533,7 +533,7 @@ Reused.
 
 Reused.
 
-*Related: C-7596*
+*Related: C-12351*
 
 ---
 
@@ -541,7 +541,7 @@ Reused.
 
 Reused.
 
-*Related: C-7597*
+*Related: C-12352*
 
 ---
 
@@ -549,7 +549,7 @@ Reused.
 
 Reused.
 
-*Related: C-7588, C-7589*
+*Related: C-12343, C-12344*
 
 ---
 
@@ -557,7 +557,7 @@ Reused.
 
 Reused.
 
-*Related: C-7537, C-7538, C-7545, C-7586, C-7587*
+*Related: C-12281, C-12282, C-12292, C-12341, C-12342*
 
 ---
 
@@ -565,7 +565,7 @@ Reused.
 
 Reused.
 
-*Related: C-7559*
+*Related: C-12309*
 
 ---
 
@@ -573,7 +573,7 @@ Reused.
 
 Reused.
 
-*Related: C-7552, C-7556*
+*Related: C-12302, C-12306*
 
 ---
 
@@ -581,7 +581,7 @@ Reused.
 
 Reused.
 
-*Related: C-7547, C-7554, C-7556*
+*Related: C-12295, C-12304, C-12306*
 
 ---
 
@@ -589,7 +589,7 @@ Reused.
 
 The parody account.
 
-*Related: C-7593*
+*Related: C-12348*
 
 ---
 
@@ -597,7 +597,7 @@ The parody account.
 
 The family friend the host says quarterbacked the identification.
 
-*Related: C-7567, C-7568, C-7569, C-7570, C-7572, C-7573, C-7574*
+*Related: C-12317, C-12318, C-12319, C-12320, C-12323, C-12324, C-12326*
 
 ---
 
@@ -605,7 +605,7 @@ The family friend the host says quarterbacked the identification.
 
 His stated reason for the SD card removal.
 
-*Related: C-7545*
+*Related: C-12292*
 
 ---
 
@@ -613,7 +613,7 @@ His stated reason for the SD card removal.
 
 The debate opponent referenced throughout.
 
-*Related: C-7562, C-7566, C-7592, C-7597*
+*Related: C-12312, C-12316, C-12347, C-12352*
 
 ---
 
@@ -621,7 +621,7 @@ The debate opponent referenced throughout.
 
 The host criticizes her Glenn Beck statement and role in the Robinson narrative.
 
-*Related: C-7535, C-7537, C-7538, C-7540, C-7541, C-7542, C-7544, C-7545, C-7547, C-7548, C-7550, C-7551, C-7558, C-7559, C-7561, C-7562, C-7563, C-7564, C-7568, C-7586, C-7587, C-7589*
+*Related: C-12279, C-12281, C-12282, C-12284, C-12286, C-12287, C-12290, C-12292, C-12295, C-12297, C-12299, C-12300, C-12308, C-12309, C-12311, C-12312, C-12313, C-12314, C-12318, C-12341, C-12342, C-12344*
 
 ---
 
@@ -629,7 +629,7 @@ The host criticizes her Glenn Beck statement and role in the Robinson narrative.
 
 Interview at issue in the Harpole suit.
 
-*Related: C-7559*
+*Related: C-12309*
 
 ---
 
@@ -637,7 +637,7 @@ Interview at issue in the Harpole suit.
 
 His show where Erika made the night-before texts statement.
 
-*Related: C-7550*
+*Related: C-12299*
 
 ---
 
@@ -645,7 +645,7 @@ His show where Erika made the night-before texts statement.
 
 His lawsuit against the host.
 
-*Related: C-7558, C-7559*
+*Related: C-12308, C-12309*
 
 ---
 
@@ -653,7 +653,7 @@ His lawsuit against the host.
 
 Sheriff quoted on Mitchell's call.
 
-*Related: C-7568*
+*Related: C-12318*
 
 ---
 
@@ -661,7 +661,7 @@ Sheriff quoted on Mitchell's call.
 
 Host, speaks for herself throughout.
 
-*Related: C-7535, C-7536, C-7537, C-7538, C-7539, C-7541, C-7542, C-7543, C-7544, C-7545, C-7546, C-7549, C-7552, C-7555, C-7556, C-7557, C-7558, C-7559, C-7560, C-7562, C-7563, C-7564, C-7565, C-7566, C-7567, C-7570, C-7574, C-7575, C-7576, C-7577, C-7578, C-7579, C-7580, C-7581, C-7582, C-7583, C-7584, C-7585, C-7586, C-7587, C-7588, C-7589, C-7590, C-7591, C-7592, C-7593, C-7594, C-7595, C-7596, C-7597, C-7598*
+*Related: C-12279, C-12280, C-12281, C-12282, C-12283, C-12286, C-12287, C-12289, C-12290, C-12292, C-12294, C-12298, C-12302, C-12305, C-12306, C-12307, C-12308, C-12309, C-12310, C-12312, C-12313, C-12314, C-12315, C-12316, C-12317, C-12320, C-12326, C-12329, C-12330, C-12331, C-12332, C-12333, C-12334, C-12335, C-12336, C-12337, C-12338, C-12339, C-12341, C-12342, C-12343, C-12344, C-12345, C-12346, C-12347, C-12348, C-12349, C-12350, C-12351, C-12352, C-12353*
 
 ---
 
@@ -669,7 +669,7 @@ Host, speaks for herself throughout.
 
 Host answers a comment on his status.
 
-*Related: C-7594*
+*Related: C-12349*
 
 ---
 
@@ -677,7 +677,7 @@ Host answers a comment on his status.
 
 Host says she appeared on his show.
 
-*Related: C-7591*
+*Related: C-12346*
 
 ---
 
@@ -685,7 +685,7 @@ Host says she appeared on his show.
 
 Named by the host in connection with TPUSA remarks and Epstein promises.
 
-*Related: C-7552, C-7557, C-7561, C-7564, C-7565, C-7566, C-7567, C-7568, C-7578*
+*Related: C-12302, C-12307, C-12311, C-12314, C-12315, C-12316, C-12317, C-12318, C-12332*
 
 ---
 
@@ -693,7 +693,7 @@ Named by the host in connection with TPUSA remarks and Epstein promises.
 
 The defendant in the filings discussed.
 
-*Related: C-7552, C-7561, C-7564, C-7566, C-7567, C-7568*
+*Related: C-12302, C-12311, C-12314, C-12316, C-12317, C-12318*
 
 ---
 
@@ -701,7 +701,7 @@ The defendant in the filings discussed.
 
 The dismissal example.
 
-*Related: C-7557*
+*Related: C-12307*
 
 ---
 
@@ -709,7 +709,7 @@ The dismissal example.
 
 The dismissal example.
 
-*Related: C-7557*
+*Related: C-12307*
 
 ---
 
@@ -717,7 +717,7 @@ The dismissal example.
 
 His Fox and Friends account of the identification.
 
-*Related: C-7572, C-7574*
+*Related: C-12323, C-12326*
 
 ---
 
@@ -725,7 +725,7 @@ His Fox and Friends account of the identification.
 
 Named in the host's Epstein files remarks.
 
-*Related: C-7578*
+*Related: C-12332*
 
 ---
 
@@ -733,7 +733,7 @@ Named in the host's Epstein files remarks.
 
 The lawsuit venue argument.
 
-*Related: C-7560*
+*Related: C-12310*
 
 ---
 
@@ -741,7 +741,7 @@ The lawsuit venue argument.
 
 The Epstein files discussed as a Republican fault line.
 
-*Related: C-7577, C-7578*
+*Related: C-12331, C-12332*
 
 ---
 
@@ -750,7 +750,7 @@ The Epstein files discussed as a Republican fault line.
 Streamer whose praise of the host is played in the episode. First named by the host at 00:01:32 in episode 143.
 Aliases: Hasan
 
-*Related: C-7536, C-7575, C-7580*
+*Related: C-12280, C-12329, C-12334*
 
 ---
 
@@ -758,7 +758,7 @@ Aliases: Hasan
 
 Man visible washing his hands in the footage who the host says helped carry Charlie. First named by the host at 00:09:43 in episode 143.
 
-*Related: C-7543*
+*Related: C-12289*
 
 ---
 
@@ -766,7 +766,7 @@ Man visible washing his hands in the footage who the host says helped carry Char
 
 Tyler Robinson's father, whom the host's source says did not think his son was guilty. First named by the host at 00:30:06 in episode 143.
 
-*Related: C-7570*
+*Related: C-12320*
 
 ---
 
@@ -774,7 +774,7 @@ Tyler Robinson's father, whom the host's source says did not think his son was g
 
 Person the host says signed off the charging document. First named by the host at 00:30:06 in episode 143.
 
-*Related: C-7571*
+*Related: C-12321*
 
 ---
 
@@ -782,7 +782,7 @@ Person the host says signed off the charging document. First named by the host a
 
 Journalist whose article the host paraphrases. First named by the host at 00:36:06 in episode 143.
 
-*Related: C-7576*
+*Related: C-12330*
 
 ---
 
@@ -791,7 +791,7 @@ Journalist whose article the host paraphrases. First named by the host at 00:36:
 Node Type: Topic
 The host's allegation that TPUSA and affiliates are pushing the claim that she works in coordination with the left, citing Hasan Piker's praise, a Blake Neff tweet and Brandi Zadrozny's article.
 
-*Related: C-7536, C-7549, C-7563, C-7575, C-7576*
+*Related: C-12280, C-12298, C-12313, C-12329, C-12330*
 
 ---
 
@@ -800,13 +800,13 @@ The host's allegation that TPUSA and affiliates are pushing the claim that she w
 Node Type: Topic
 The host's assertion that January 6th was an event allegedly coordinated by federal actors to cause a left-right war, offered as a parallel to her view of the Kirk case.
 
-*Related: C-7580, C-7581, C-7582*
+*Related: C-12334, C-12335, C-12336*
 
 ---
 
 ## V. Claim Register
 
-**C-3302** Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
+**C-12285** Farnsworth Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
 
 Claim Timestamp: 00:08:42
 
@@ -819,7 +819,7 @@ Investigative Direction: Obtain original unedited video and corroborate timestam
 
 ---
 
-**C-3303** Farnsworth Subsequently Inserted That SD Card Into His Laptop
+**C-12288** Farnsworth Subsequently Inserted That SD Card Into His Laptop
 
 Claim Timestamp: 00:09:43
 
@@ -832,7 +832,7 @@ Investigative Direction: Recover laptop forensic artifacts (connection logs, fil
 
 ---
 
-**C-3304** Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
+**C-12296** Farnsworth Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:14:47
 
@@ -845,7 +845,7 @@ Investigative Direction: Identify whether the yellow camera's SD card was ever c
 
 ---
 
-**C-3305** The Yellow Audience-Facing Camera Fell to the Floor Approximately When Charlie Was Removed From the Scene
+**C-12293** The Yellow Audience-Facing Camera Fell to the Floor Approximately When Charlie Was Removed From the Scene
 
 Claim Timestamp: 00:13:38
 
@@ -858,7 +858,7 @@ Investigative Direction: Confirm camera-down timestamp via SBI/UPD evidence logs
 
 ---
 
-**C-3306** Trump Described a Close Acquaintance Who Recognized Tyler Robinson, Which the Host Says Is Mike Mitchell
+**C-12322** Trump Described a Close Acquaintance Who Recognized Tyler Robinson, Which the Host Says Is Mike Mitchell
 
 Claim Timestamp: 00:32:32
 
@@ -870,7 +870,7 @@ Investigative Direction: Cross-reference Trump's account against official law-en
 
 ---
 
-**C-3307** Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister
+**C-12325** Mike Mitchell Is Identified in Trump's Account as Both a Person Involved in Law Enforcement and a Person of Faith / Minister
 
 Claim Timestamp: 00:32:51
 
@@ -882,7 +882,7 @@ Investigative Direction: Verify Mike Mitchell's documented roles (Mormon ministe
 
 ---
 
-**C-3308** Blake Neff Publicly Asserted the Robinson Defense Does Not Contest Core Evidence
+**C-12301** Blake Neff Publicly Asserted the Robinson Defense Does Not Contest Core Evidence
 
 Claim Timestamp: 00:18:07
 
@@ -894,7 +894,7 @@ Investigative Direction: Obtain the actual defense filing and compare verbatim t
 
 ---
 
-**C-3309** Hasan Piker Publicly Praised Candace Owens for Undermining Effort to "Martyrize" Charlie Kirk
+**C-12328** Hasan Piker Publicly Praised Candace Owens for Undermining Effort to "Martyrize" Charlie Kirk
 
 Claim Timestamp: 00:35:00
 
@@ -906,7 +906,7 @@ Investigative Direction: Verify the full unedited Piker stream segment and times
 
 ---
 
-**C-3310** Blake Neff Publicly Characterized Candace Owens as a "Gift" to the Radical Left
+**C-12327** Blake Neff Publicly Characterized Candace Owens as a "Gift" to the Radical Left
 
 Claim Timestamp: 00:34:27
 
@@ -918,7 +918,7 @@ Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter per
 
 ---
 
-**C-3311** Host Plays Wear Forbidden Matrix-Parody Video Repeating "So What?" Against Tyler Robinson Case Argumentation Standards
+**C-12340** Host Plays Wear Forbidden Matrix-Parody Video Repeating "So What?" Against Tyler Robinson Case Argumentation Standards
 
 Claim Timestamp: 00:41:34
 
@@ -930,7 +930,7 @@ Investigative Direction: Confirm the original post URL and capture it before any
 
 ---
 
-**C-3312** Host's Government Source Places All SD Card and Laptop Activity Within ~10 Minutes of Charlie Kirk Being Struck
+**C-12291** Host's Government Source Places All SD Card and Laptop Activity Within ~10 Minutes of Charlie Kirk Being Struck
 
 Claim Timestamp: 00:10:57
 
@@ -943,7 +943,7 @@ Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI
 
 ---
 
-**C-7535** Host Says Blake Neff Is Telling Reporters She Is Just Jealous of Erika
+**C-12279** Host Says Blake Neff Is Telling Reporters She Is Just Jealous of Erika
 
 Claim Timestamp: 00:00:47
 
@@ -958,7 +958,7 @@ Investigative Direction: Identify the reporters Neff spoke to and obtain the pub
 
 ---
 
-**C-7536** Host Says TPUSA Is Pushing a Talking Point That She Works in Coordination With Hasan
+**C-12280** Host Says TPUSA Is Pushing a Talking Point That She Works in Coordination With Hasan
 
 Claim Timestamp: 00:01:32
 
@@ -974,7 +974,7 @@ Investigative Direction: Collect the TPUSA-side statements and articles that mak
 
 ---
 
-**C-7537** Host Says Terryl Lied to Her About Not Knowing How to Send a Clip
+**C-12281** Host Says Terryl Lied to Her About Not Knowing How to Send a Clip
 
 Claim Timestamp: 00:04:09
 
@@ -985,13 +985,13 @@ Transcript Snippet: yesterday I demonstrated to you all that Terryl lied to me. 
 Anchored Artifacts: 
 Mentions: N-3, N-261
 Related Nodes: N-10810
-Supports: C-4699, C-3291
+Supports: C-10084, C-12215
 Tags: relevance:core
 Investigative Direction: Compare the host's account of the conversation with Farnsworth with the Google Drive transmission records for the September 10 videos.
 
 ---
 
-**C-7538** Host Says She Was Told the Footage Is in the Purview of Law Enforcement
+**C-12282** Host Says She Was Told the Footage Is in the Purview of Law Enforcement
 
 Claim Timestamp: 00:06:40
 
@@ -1007,7 +1007,7 @@ Investigative Direction: Identify who made the statement and ask the SBI and Uta
 
 ---
 
-**C-7539** Host Says Police Cannot Demand a Phone or Footage Without a Warrant
+**C-12283** Host Says Police Cannot Demand a Phone or Footage Without a Warrant
 
 Claim Timestamp: 00:08:02
 
@@ -1022,7 +1022,7 @@ Investigative Direction: Check Utah and federal law on compelled production of p
 
 ---
 
-**C-7540** Host Says Terryl Was the First to Declare Charlie Dead
+**C-12284** Host Says Terryl Was the First to Declare Charlie Dead
 
 Claim Timestamp: 00:08:02
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Establish from witness statements and video who first p
 
 ---
 
-**C-7541** Host Says She Has Held the Footage Since October and Spoke to Terryl in September
+**C-12286** Host Says She Has Held the Footage Since October and Spoke to Terryl in September
 
 Claim Timestamp: 00:08:42
 
@@ -1049,13 +1049,13 @@ Transcript Snippet: Well, today we can share with you my very own October surpri
 Anchored Artifacts: A-2295.1
 Mentions: N-3, N-261
 Related Nodes: N-10808
-Supports: C-3300
+Supports: C-12241
 Tags: relevance:core
 Investigative Direction: Establish when and from whom the host obtained the footage and the date of her conversation with Farnsworth.
 
 ---
 
-**C-7542** Host Says She Learned He Opened His Laptop Right After Pocketing the Card
+**C-12287** Host Says She Learned He Opened His Laptop Right After Pocketing the Card
 
 Claim Timestamp: 00:08:42
 
@@ -1066,13 +1066,13 @@ Transcript Snippet: And what I learned is that after he pocketed that, he then p
 Anchored Artifacts: A-2295.1
 Mentions: N-3, N-261
 Related Nodes: N-10808
-Supports: C-3303
+Supports: C-12288
 Tags: relevance:core
 Investigative Direction: Identify the government-side source and check the footage timestamp against the laptop opening.
 
 ---
 
-**C-7543** Host Says Lane Schamberger Was Washing His Hands and Had Helped Carry Charlie to the Car
+**C-12289** Host Says Lane Schamberger Was Washing His Hands and Had Helped Carry Charlie to the Car
 
 Claim Timestamp: 00:09:43
 
@@ -1088,7 +1088,7 @@ Investigative Direction: Confirm Schamberger's role in carrying Charlie to the v
 
 ---
 
-**C-7544** Host Says the Footage Shows Terryl Texting and Then Sitting Facing the Other Way on His Laptop
+**C-12290** Host Says the Footage Shows Terryl Texting and Then Sitting Facing the Other Way on His Laptop
 
 Claim Timestamp: 00:09:43
 
@@ -1099,13 +1099,13 @@ Transcript Snippet: He picks up the laptop and what happens thereafter is he sit
 Anchored Artifacts: A-2295.1
 Mentions: N-3, N-261
 Related Nodes: N-10808
-Supports: C-3296
+Supports: C-12243
 Tags: relevance:core
 Investigative Direction: Obtain the full unedited footage and the phone records identifying who Farnsworth was texting and what was done on the laptop.
 
 ---
 
-**C-7545** Host Says Kolvet Told Them the Cards Were Taken Because People Can Be Evil
+**C-12292** Host Says Kolvet Told Them the Cards Were Taken Because People Can Be Evil
 
 Claim Timestamp: 00:11:42
 
@@ -1116,13 +1116,13 @@ Transcript Snippet: We were told from Andrew he was doing this because people ca
 Anchored Artifacts: A-2295.1
 Mentions: N-14, N-261, N-3
 Related Nodes: N-10100, N-10810
-Supports: C-3294, C-1369
+Supports: C-12228, C-1358
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's original statement and compare it with Bowyer's different account of why the cards were removed.
 
 ---
 
-**C-7546** Host Says They Were Told There Was Nothing Special About the Camera Behind Charlie's Head
+**C-12294** Host Says They Were Told There Was Nothing Special About the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:13:38
 
@@ -1138,7 +1138,7 @@ Investigative Direction: Identify who told the host the camera was unremarkable 
 
 ---
 
-**C-7547** Host Says Terryl's 1102 Statement Describes the Yellow Camera as Filming the Audience
+**C-12295** Host Says Terryl's 1102 Statement Describes the Yellow Camera as Filming the Audience
 
 Claim Timestamp: 00:13:38
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Obtain Farnsworth's statement and check what it says ab
 
 ---
 
-**C-7548** Host Says Terryl Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell
+**C-12297** Host Says Terryl Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell
 
 Claim Timestamp: 00:14:47
 
@@ -1165,13 +1165,13 @@ Transcript Snippet: So when Taral appears approximately 3 minutes later to take 
 Anchored Artifacts: A-2295.3
 Mentions: N-261, N-1
 Related Nodes: N-10809
-Supports: C-3304
+Supports: C-12296
 Tags: relevance:core
 Investigative Direction: Time-stamp the camera fall and Farnsworth's arrival in the original footage.
 
 ---
 
-**C-7549** Host Says TPUSA Is Asking Media Friends to Portray Her as a Digital Assassin
+**C-12298** Host Says TPUSA Is Asking Media Friends to Portray Her as a Digital Assassin
 
 Claim Timestamp: 00:15:55
 
@@ -1187,7 +1187,7 @@ Investigative Direction: Identify the articles and the TPUSA contacts that suppl
 
 ---
 
-**C-7550** Host Says Erika Told Glenn Beck That Charlie Was Not Texting Fears the Night Before
+**C-12299** Host Says Erika Told Glenn Beck That Charlie Was Not Texting Fears the Night Before
 
 Claim Timestamp: 00:16:33
 
@@ -1203,7 +1203,7 @@ Investigative Direction: Obtain the Glenn Beck interview and compare Erika's sta
 
 ---
 
-**C-7551** Host Says Erika Should Publicly Correct the Glenn Beck Statement
+**C-12300** Host Says Erika Should Publicly Correct the Glenn Beck Statement
 
 Claim Timestamp: 00:16:33
 
@@ -1219,7 +1219,7 @@ Investigative Direction: Check whether Erika Kirk or TPUSA has issued any correc
 
 ---
 
-**C-7552** Host Says Neff Repeatedly Misrepresents Court Filings and TPUSA Brings Influencers to Court
+**C-12302** Host Says Neff Repeatedly Misrepresents Court Filings and TPUSA Brings Influencers to Court
 
 Claim Timestamp: 00:18:07
 
@@ -1235,7 +1235,7 @@ Investigative Direction: Compare each Neff post about a Robinson filing with the
 
 ---
 
-**C-7553** Host Says Neff's Tweet Was Community Noted for Intentional Misrepresentation
+**C-12303** Host Says Neff's Tweet Was Community Noted for Intentional Misrepresentation
 
 Claim Timestamp: 00:18:07
 
@@ -1250,7 +1250,7 @@ Investigative Direction: Capture the tweet and its Community Note with timestamp
 
 ---
 
-**C-7554** Host Reads the Community Note: Preliminary Hearings Decide Only Probable Cause
+**C-12304** Host Reads the Community Note: Preliminary Hearings Decide Only Probable Cause
 
 Claim Timestamp: 00:19:08
 
@@ -1261,13 +1261,13 @@ Transcript Snippet: it says preliminary hearings decide only probable cause. Und
 Anchored Artifacts: A-2889.1
 Mentions: N-159
 Related Nodes: N-11068
-Supports: C-6043
+Supports: C-12152
 Tags: relevance:context
 Investigative Direction: Retrieve the full Community Note text and compare it with Utah Rule 1102 and the defense filing.
 
 ---
 
-**C-7555** Neff's Tweet Asks Why the Defense Did Not Raise Candace's Theories
+**C-12305** Neff's Tweet Asks Why the Defense Did Not Raise Candace's Theories
 
 Claim Timestamp: 00:19:08
 
@@ -1277,13 +1277,13 @@ Transcript Snippet: If there was any merit at all to any of the theories that Ca
 
 Anchored Artifacts: A-2294.1
 Mentions: N-159, N-3
-Supports: C-3308
+Supports: C-12301
 Tags: relevance:context
 Investigative Direction: Obtain the prosecution response and the defense filing to see which theories, if any, each addresses.
 
 ---
 
-**C-7556** Host Explains Preliminary Hearings Test Whether the Filing Is Defective, Not Guilt
+**C-12306** Host Explains Preliminary Hearings Test Whether the Filing Is Defective, Not Guilt
 
 Claim Timestamp: 00:20:00
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Check Utah criminal procedure on the purpose and standa
 
 ---
 
-**C-7557** Host Says Lively Sued With 13 Causes of Action and 10 Were Dismissed
+**C-12307** Host Says Lively Sued With 13 Causes of Action and 10 Were Dismissed
 
 Claim Timestamp: 00:21:25
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Check the court order on Baldoni's motion to dismiss fo
 
 ---
 
-**C-7558** Host Says She Filed a Dismissal Against Brian Harpole's Lawsuit
+**C-12308** Host Says She Filed a Dismissal Against Brian Harpole's Lawsuit
 
 Claim Timestamp: 00:21:25
 
@@ -1331,7 +1331,7 @@ Investigative Direction: Pull the Harpole complaint and the host's motion to dis
 
 ---
 
-**C-7559** Host Says Harpole Is Suing Her for Calling His Shawn Ryan Interview Unconvincing
+**C-12309** Host Says Harpole Is Suing Her for Calling His Shawn Ryan Interview Unconvincing
 
 Claim Timestamp: 00:22:24
 
@@ -1347,7 +1347,7 @@ Investigative Direction: Check the complaint for the Shawn Ryan interview claim 
 
 ---
 
-**C-7560** Host Says Her Macron Dismissal Argues Macron Should Not Be in That Court
+**C-12310** Host Says Her Macron Dismissal Argues Macron Should Not Be in That Court
 
 Claim Timestamp: 00:23:09
 
@@ -1363,7 +1363,7 @@ Investigative Direction: Read the motion to dismiss in the Delaware case for the
 
 ---
 
-**C-7561** Host Says TPUSA Has Treated Robinson as Guilty Since Erika Forgave Him on Stage
+**C-12311** Host Says TPUSA Has Treated Robinson as Guilty Since Erika Forgave Him on Stage
 
 Claim Timestamp: 00:24:13
 
@@ -1374,13 +1374,13 @@ Transcript Snippet: since the moment Erika forgave Tyler Robinson on the stage.
 Anchored Artifacts: 
 Mentions: N-2, N-40
 Related Nodes: N-10000
-Supports: C-1228
+Supports: C-585
 Tags: relevance:core
 Investigative Direction: Compile TPUSA and Erika Kirk public statements about Robinson's guilt after the memorial.
 
 ---
 
-**C-7562** Host Says She Has Never Accused Erika of Killing Her Husband
+**C-12312** Host Says She Has Never Accused Erika of Killing Her Husband
 
 Claim Timestamp: 00:24:57
 
@@ -1395,7 +1395,7 @@ Investigative Direction: Review the host's prior episodes and the debate transcr
 
 ---
 
-**C-7563** Host Says TPUSA Seems to Be Working With Journalists to Frame Her Complicit Remark
+**C-12313** Host Says TPUSA Seems to Be Working With Journalists to Frame Her Complicit Remark
 
 Claim Timestamp: 00:24:57
 
@@ -1411,7 +1411,7 @@ Investigative Direction: Identify the journalists and articles carrying this fra
 
 ---
 
-**C-7564** Host Says Erika Is Complicit in Seeding the Narrative That Robinson Was Guilty
+**C-12314** Host Says Erika Is Complicit in Seeding the Narrative That Robinson Was Guilty
 
 Claim Timestamp: 00:25:58
 
@@ -1427,7 +1427,7 @@ Investigative Direction: Compare Erika Kirk's public statements on Robinson with
 
 ---
 
-**C-7565** Host Says She Called the Vice President Complicit for Speaking About Robinson at TPUSA
+**C-12315** Host Says She Called the Vice President Complicit for Speaking About Robinson at TPUSA
 
 Claim Timestamp: 00:25:58
 
@@ -1443,7 +1443,7 @@ Investigative Direction: Review the vice president's remarks at the TPUSA event 
 
 ---
 
-**C-7566** Host Says No Proof Has Been Produced That Robinson's Parents Turned Him In
+**C-12316** Host Says No Proof Has Been Produced That Robinson's Parents Turned Him In
 
 Claim Timestamp: 00:30:06
 
@@ -1459,7 +1459,7 @@ Investigative Direction: Find the primary source for the claim that the parents 
 
 ---
 
-**C-7567** Host Says the Charging Document Does Not Show Whether the Hearsay Came From Mike Mitchell
+**C-12317** Host Says the Charging Document Does Not Show Whether the Hearsay Came From Mike Mitchell
 
 Claim Timestamp: 00:30:06
 
@@ -1475,7 +1475,7 @@ Investigative Direction: Read the charging document and probable-cause statement
 
 ---
 
-**C-7568** Host Quotes Sheriff Brooksby Saying Mike Mitchell Called to Say It Was Tyler
+**C-12318** Host Quotes Sheriff Brooksby Saying Mike Mitchell Called to Say It Was Tyler
 
 Claim Timestamp: 00:30:06
 
@@ -1486,13 +1486,13 @@ Transcript Snippet: Sheriff Brooksby was like, "I got a call from Mike Mitchell 
 Anchored Artifacts: A-2893.1
 Mentions: N-272, N-125, N-40
 Related Nodes: N-10022
-Supports: C-1766
+Supports: C-3227
 Tags: relevance:core
 Investigative Direction: Obtain Brooksby's original statement or interview and its date.
 
 ---
 
-**C-7569** Host Says Mike Mitchell Went to the Robinsons' House
+**C-12319** Host Says Mike Mitchell Went to the Robinsons' House
 
 Claim Timestamp: 00:30:06
 
@@ -1508,7 +1508,7 @@ Investigative Direction: Establish from the sheriff's statement and affidavits w
 
 ---
 
-**C-7570** Host Says Her Source Says Matt Robinson Did Not Think His Son Was Guilty
+**C-12320** Host Says Her Source Says Matt Robinson Did Not Think His Son Was Guilty
 
 Claim Timestamp: 00:30:06
 
@@ -1519,13 +1519,13 @@ Transcript Snippet: I had a source uh within the Robinson family orbit who was v
 Anchored Artifacts: 
 Mentions: N-3, N-776, N-125
 Related Nodes: N-10022
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Seek on-record confirmation from the Robinson family or counsel of what Matt Robinson said and when.
 
 ---
 
-**C-7571** Host Says the Charging Document Was Signed Off by Brian Davis
+**C-12321** Host Says the Charging Document Was Signed Off by Brian Davis
 
 Claim Timestamp: 00:32:19
 
@@ -1541,7 +1541,7 @@ Investigative Direction: Pull the charging document and confirm the signing pros
 
 ---
 
-**C-7572** Host Says Mike Mitchell Is Tyler's Boy Scout Leader and a Former Undercover Officer
+**C-12323** Host Says Mike Mitchell Is Tyler's Boy Scout Leader and a Former Undercover Officer
 
 Claim Timestamp: 00:32:32
 
@@ -1552,13 +1552,13 @@ Transcript Snippet: Mike Mitchell is not just his Boy Scout leader. He's not jus
 Anchored Artifacts: A-2296.1
 Mentions: N-125, N-40
 Related Nodes: N-10151
-Supports: C-1330
+Supports: C-1108
 Tags: relevance:core
 Investigative Direction: Verify Mitchell's scouting role and undercover assignments from employment records and the cited 1999 reporting.
 
 ---
 
-**C-7573** Host Says Mike Mitchell Is a Minister at the Mormon Church
+**C-12324** Host Says Mike Mitchell Is a Minister at the Mormon Church
 
 Claim Timestamp: 00:32:32
 
@@ -1574,7 +1574,7 @@ Investigative Direction: Confirm Mitchell's church role through church records o
 
 ---
 
-**C-7574** Host Says She Told Viewers the Same Mitchell Narrative Before Seeing Trump's Clip
+**C-12326** Host Says She Told Viewers the Same Mitchell Narrative Before Seeing Trump's Clip
 
 Claim Timestamp: 00:34:06
 
@@ -1585,13 +1585,13 @@ Transcript Snippet: and I had not even seen that, and I had told you guys this e
 Anchored Artifacts: A-2296.1
 Mentions: N-3, N-5, N-125
 Related Nodes: N-10022
-Supports: C-5041
+Supports: C-3224
 Tags: relevance:core
 Investigative Direction: Compare the host's earlier episodes on Mitchell with the Trump clip.
 
 ---
 
-**C-7575** Hasan Says in the Clip That Candace Blocked Him Years Ago
+**C-12329** Hasan Says in the Clip That Candace Blocked Him Years Ago
 
 Claim Timestamp: 00:36:06
 
@@ -1607,7 +1607,7 @@ Investigative Direction: Verify the full Piker stream and whether the host's acc
 
 ---
 
-**C-7576** Host Says the Zadrozny Article's Theme Is That She Ruined a Chance to Blame the Left
+**C-12330** Host Says the Zadrozny Article's Theme Is That She Ruined a Chance to Blame the Left
 
 Claim Timestamp: 00:36:06
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Obtain the Zadrozny article and compare its wording wit
 
 ---
 
-**C-7577** Host Says Republicans Were Fractured Over the Epstein Files
+**C-12331** Host Says Republicans Were Fractured Over the Epstein Files
 
 Claim Timestamp: 00:36:06
 
@@ -1639,7 +1639,7 @@ Investigative Direction: Check polling and reporting on Republican division over
 
 ---
 
-**C-7578** Host Says the Administration Ran on Epstein Files Promises Including Kash Patel
+**C-12332** Host Says the Administration Ran on Epstein Files Promises Including Kash Patel
 
 Claim Timestamp: 00:37:19
 
@@ -1655,7 +1655,7 @@ Investigative Direction: Collect the campaign and administration statements on r
 
 ---
 
-**C-7579** Host Says She Is Not Convinced the Killing Had Anything to Do With LGBTQ Rights
+**C-12333** Host Says She Is Not Convinced the Killing Had Anything to Do With LGBTQ Rights
 
 Claim Timestamp: 00:37:19
 
@@ -1670,7 +1670,7 @@ Investigative Direction: Compare against the motive evidence in the prosecution'
 
 ---
 
-**C-7580** Host Says January 6th May Have Been Federally Coordinated to Cause a Left-Right War
+**C-12334** Host Says January 6th May Have Been Federally Coordinated to Cause a Left-Right War
 
 Claim Timestamp: 00:37:19
 
@@ -1686,7 +1686,7 @@ Investigative Direction: Review the January 6 investigation findings on any fede
 
 ---
 
-**C-7581** Host Says People Were Encouraged to Enter the Capitol and Wrongly Arrested
+**C-12335** Host Says People Were Encouraged to Enter the Capitol and Wrongly Arrested
 
 Claim Timestamp: 00:38:37
 
@@ -1702,7 +1702,7 @@ Investigative Direction: Review court records and inspector general findings on 
 
 ---
 
-**C-7582** Host Says a Powerful Minority Allows Terrible Events to Seize Power, Like 9/11
+**C-12336** Host Says a Powerful Minority Allows Terrible Events to Seize Power, Like 9/11
 
 Claim Timestamp: 00:38:37
 
@@ -1718,7 +1718,7 @@ Investigative Direction: This is a sweeping assertion recorded as said; no singl
 
 ---
 
-**C-7583** Host Says She Believes the Federal Government Is Lying About the Killing
+**C-12337** Host Says She Believes the Federal Government Is Lying About the Killing
 
 Claim Timestamp: 00:38:37
 
@@ -1733,7 +1733,7 @@ Investigative Direction: Identify the specific federal statements the host consi
 
 ---
 
-**C-7584** Host Says She Is Conservative but Has Issues Calling Herself Republican
+**C-12338** Host Says She Is Conservative but Has Issues Calling Herself Republican
 
 Claim Timestamp: 00:40:50
 
@@ -1748,7 +1748,7 @@ Investigative Direction: None needed beyond the host's own statements.
 
 ---
 
-**C-7585** Host Says There Is Satanism on Both Sides of the Parties
+**C-12339** Host Says There Is Satanism on Both Sides of the Parties
 
 Claim Timestamp: 00:40:50
 
@@ -1763,7 +1763,7 @@ Investigative Direction: This is a sweeping assertion recorded as said; the host
 
 ---
 
-**C-7586** Host Says She Cannot Assert Evidence Tampering by Terryl
+**C-12341** Host Says She Cannot Assert Evidence Tampering by Terryl
 
 Claim Timestamp: 00:45:12
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Seek the legal standard for evidence tampering and who 
 
 ---
 
-**C-7587** Host Says Terryl Had Already Sent a Google Link to the SBI Over 8 Days Earlier
+**C-12342** Host Says Terryl Had Already Sent a Google Link to the SBI Over 8 Days Earlier
 
 Claim Timestamp: 00:45:12
 
@@ -1790,13 +1790,13 @@ Transcript Snippet: when you had already sent a Google link to the SBI and and w
 Anchored Artifacts: 
 Mentions: N-261, N-3
 Related Nodes: N-10810
-Supports: C-3290, C-3291
+Supports: C-12216, C-12215
 Tags: relevance:core
 Investigative Direction: Obtain SBI correspondence showing the date and content of the first Google link and compare with the September 10 transmissions.
 
 ---
 
-**C-7588** Host Says the Back-Camera Footage Matters Because It Would Show What Happened to Charlie
+**C-12343** Host Says the Back-Camera Footage Matters Because It Would Show What Happened to Charlie
 
 Claim Timestamp: 00:46:29
 
@@ -1812,7 +1812,7 @@ Investigative Direction: Compare the full back-camera view with what was given t
 
 ---
 
-**C-7589** Host Says Statement Lists Videos of 26 Minutes Plus Seconds Except One of 23 Minutes
+**C-12344** Host Says Statement Lists Videos of 26 Minutes Plus Seconds Except One of 23 Minutes
 
 Claim Timestamp: 00:46:29
 
@@ -1823,13 +1823,13 @@ Transcript Snippet: it tells you how long the videos that he gave were and all o
 Anchored Artifacts: A-2890.1
 Mentions: N-261, N-3
 Related Nodes: N-10799
-Supports: C-3295
+Supports: C-12233
 Tags: relevance:core
 Investigative Direction: Obtain the statement and the file metadata for each video provided to the SBI.
 
 ---
 
-**C-7590** Host Says She Lived in Dubrovnik for a Couple of Months When She Worked in Private Equity
+**C-12345** Host Says She Lived in Dubrovnik for a Couple of Months When She Worked in Private Equity
 
 Claim Timestamp: 00:47:23
 
@@ -1844,7 +1844,7 @@ Investigative Direction: Not related to the case; a biographical remark recorded
 
 ---
 
-**C-7591** Host Says She Appeared on Dave Smith's Show the Day Before
+**C-12346** Host Says She Appeared on Dave Smith's Show the Day Before
 
 Claim Timestamp: 00:48:21
 
@@ -1859,7 +1859,7 @@ Investigative Direction: Locate the Dave Smith episode and its air date.
 
 ---
 
-**C-7592** Host Says She Did Not Study Wilson's Earlier Debates
+**C-12347** Host Says She Did Not Study Wilson's Earlier Debates
 
 Claim Timestamp: 00:48:21
 
@@ -1874,7 +1874,7 @@ Investigative Direction: Cross-check with the host's earlier account of her deba
 
 ---
 
-**C-7593** Host Plugs the Stop Anti-Candacism Bug Featured in the Wear Forbidden Video
+**C-12348** Host Plugs the Stop Anti-Candacism Bug Featured in the Wear Forbidden Video
 
 Claim Timestamp: 00:48:21
 
@@ -1890,7 +1890,7 @@ Investigative Direction: Find the Wear Forbidden video and the merchandise listi
 
 ---
 
-**C-7594** Host Says Netanyahu Is Not Dead but Was Probably Hiding and Using AI
+**C-12349** Host Says Netanyahu Is Not Dead but Was Probably Hiding and Using AI
 
 Claim Timestamp: 00:50:06
 
@@ -1906,7 +1906,7 @@ Investigative Direction: The host says she has not explored the theory; no recor
 
 ---
 
-**C-7595** Host Says TPUSA Has Been Heavily Implying It Wants to Sue Her
+**C-12350** Host Says TPUSA Has Been Heavily Implying It Wants to Sue Her
 
 Claim Timestamp: 00:50:06
 
@@ -1922,7 +1922,7 @@ Investigative Direction: Collect TPUSA statements threatening or implying litiga
 
 ---
 
-**C-7596** Host Says the Kirk Case Is Followed More Than Sandy Hook Ever Was
+**C-12351** Host Says the Kirk Case Is Followed More Than Sandy Hook Ever Was
 
 Claim Timestamp: 00:50:58
 
@@ -1938,7 +1938,7 @@ Investigative Direction: Compare search and social metrics for the two events.
 
 ---
 
-**C-7597** Viewer Comment Read Says Wilson Has Not Released the Proof Text After 3 Days
+**C-12352** Viewer Comment Read Says Wilson Has Not Released the Proof Text After 3 Days
 
 Claim Timestamp: 00:51:49
 
@@ -1949,13 +1949,13 @@ Transcript Snippet: Did Andrew Wilson release the proof text yet? It's been 3 da
 Anchored Artifacts: A-2892.3
 Mentions: N-18, N-3
 Related Nodes: N-10795
-Supports: C-6085, C-6040
+Supports: C-12203, C-12148
 Tags: relevance:context
 Investigative Direction: Check whether Wilson published the promised message and when.
 
 ---
 
-**C-7598** Host Says the Show Takes Every Sixth Week Off, Starting Next Week
+**C-12353** Host Says the Show Takes Every Sixth Week Off, Starting Next Week
 
 Claim Timestamp: 00:52:29
 
@@ -1977,7 +1977,7 @@ Investigative Direction: Check the episode schedule for the following week.
 - **Artifact verbally referenced but not shown:** The host references an appearance by Erika Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
 - **Artifact verbally referenced but not shown:** The host references a Brandi Zadrozny article as the source of the "left-coordination" framing but does not display the article. Flagged as verbal-reference-only.
 - **Transcript truncation:** Ad-read sections [26:27–29:42] and [43:11–45:10] are truncated and contain sponsor copy only; no evidentiary content lost.
-- **Host concurrence:** Where the host concurs with or rejects the theses of read-aloud/displayed sources (A-2294, A-2297, A-2298), host stance is captured as the related C-3308 / C-3309 / C-3310 claims anchored to those same artifacts.
+- **Host concurrence:** Where the host concurs with or rejects the theses of read-aloud/displayed sources (A-2294, A-2297, A-2298), host stance is captured as the related C-12301 / C-12328 / C-12327 claims anchored to those same artifacts.
 
 ---
 

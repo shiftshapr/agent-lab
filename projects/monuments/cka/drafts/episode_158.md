@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11082, N-11083, N-11085, N-11087, N-11088, N-11089, N-11090
-  - Claim Range (supplement_2026-10): C-6286–C-6350
+  - Claim Range: C-13645–C-13721
   - New Nodes Introduced: N-10867, N-10868
   - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-190, N-237, N-278, N-217, N-266, N-7, N-496, N-159, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-211, N-224, N-330, N-522, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086, N-10864
   - (see registers)
@@ -39,7 +39,7 @@ Video Timestamp: 00:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted/read on air)
 
-*Related: C-3596, C-3597, C-3598, N-10864, N-10865, N-2, N-13*
+*Related: C-13645, C-13650, C-13651, N-10864, N-10865, N-2, N-13*
 
 ---
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:02:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium–High (visual as described by host)
 
-*Related: C-3596, N-10864, N-2*
+*Related: C-13645, N-10864, N-2*
 
 ---
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:17:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted from profile); Medium (host inference about PR mindset)
 
-*Related: C-3599, N-10866, N-2, N-217*
+*Related: C-13658, N-10866, N-2, N-217*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:20:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quote as read); Medium (wardrobe catalog as host compilation)
 
-*Related: C-3600, N-10864, N-2*
+*Related: C-13662, N-10864, N-2*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:26:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (DeGroote quote as read); Low–Medium (McCoy gatekeeping as host allegation)
 
-*Related: C-3601, N-10218, N-496, N-190, N-1, N-2*
+*Related: C-13671, N-10218, N-496, N-190, N-1, N-2*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:24:52
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as quoted in profile)
 
-*Related: C-3602, C-3603, N-22, N-14, N-10056, N-10864*
+*Related: C-13667, C-13675, N-22, N-14, N-10056, N-10864*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (headline/narrative as characterized); High (that host presents the flip as coordinated)
 
-*Related: C-3604, N-10867, N-3, N-30*
+*Related: C-13692, N-10867, N-3, N-30*
 
 ---
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:47:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (archive dates as host-stated; verify Wayback/primary); High (Ackman interest as asserted with deleted-tweet capture claim)
 
-*Related: C-3605, C-3606, N-10868, N-37, N-36, N-10860, N-10863*
+*Related: C-13705, C-13710, N-10868, N-37, N-36, N-10860, N-10863*
 
 ---
 
@@ -143,7 +143,7 @@ Video Timestamp: 00:32:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6315, N-13, N-1, N-2*
+*Related: C-13683, N-13, N-1, N-2*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:37:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6320, C-6321, N-3, N-10070*
+*Related: C-13688, C-13689, N-3, N-10070*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:43:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6332, C-6344, N-3, N-10868*
+*Related: C-13701, C-13714, N-3, N-10868*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 01:05:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6349, N-3, N-11091*
+*Related: C-13720, N-3, N-11091*
 
 ---
 
@@ -200,7 +200,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, C-3603, A-2462.1, N-10863*
+*Related: C-13671, C-13675, A-2462.1, N-10863*
 
 ---
 
@@ -212,7 +212,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3596, C-3597, C-3598, C-3599, C-3600, A-2459.1, N-10864, N-10865*
+*Related: C-13645, C-13650, C-13651, C-13658, C-13662, A-2459.1, N-10864, N-10865*
 
 ---
 
@@ -224,7 +224,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3604, A-2464.1, N-10867*
+*Related: C-13692, A-2464.1, N-10867*
 
 ---
 
@@ -236,7 +236,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3602, C-3603, A-2463.1*
+*Related: C-13667, C-13675, A-2463.1*
 
 ---
 
@@ -248,7 +248,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3604, N-10867*
+*Related: C-13692, N-10867*
 
 ---
 
@@ -260,7 +260,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-10868, N-10863*
+*Related: C-13705, N-10868, N-10863*
 
 ---
 
@@ -272,7 +272,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3606, A-2465.1, N-10868*
+*Related: C-13710, A-2465.1, N-10868*
 
 ---
 
@@ -284,7 +284,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3602, A-2463.1*
+*Related: C-13667, A-2463.1*
 
 ---
 
@@ -296,7 +296,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, N-10198, N-10218*
+*Related: C-13671, N-10198, N-10218*
 
 ---
 
@@ -308,7 +308,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601*
+*Related: C-13671*
 
 ---
 
@@ -320,7 +320,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3600*
+*Related: C-13662*
 
 ---
 
@@ -332,7 +332,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3599, A-2460.1*
+*Related: C-13658, A-2460.1*
 
 ---
 
@@ -368,7 +368,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, C-3607, A-2462.1*
+*Related: C-13671, C-13680, A-2462.1*
 
 ---
 
@@ -380,7 +380,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3596, N-10864*
+*Related: C-13645, N-10864*
 
 ---
 
@@ -392,7 +392,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3603, C-3598, N-10865*
+*Related: C-13675, C-13651, N-10865*
 
 ---
 
@@ -404,7 +404,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, N-190*
+*Related: C-13671, N-190*
 
 ---
 
@@ -416,7 +416,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3601, C-3607*
+*Related: C-13671, C-13680*
 
 ---
 
@@ -440,7 +440,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3596, N-10839*
+*Related: C-13645, N-10839*
 
 ---
 
@@ -452,7 +452,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-10868, N-10*
+*Related: C-13705, N-10868, N-10*
 
 ---
 
@@ -464,7 +464,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3605, N-10868*
+*Related: C-13705, N-10868*
 
 ---
 
@@ -477,7 +477,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3596, C-3597, A-2459.1, N-2, N-13*
+*Related: C-13645, C-13650, A-2459.1, N-2, N-13*
 
 ---
 
@@ -490,7 +490,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3597, C-3598, A-2459.1, N-10056, N-13*
+*Related: C-13650, C-13651, A-2459.1, N-10056, N-13*
 
 ---
 
@@ -503,7 +503,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3599, A-2460.1, N-2, N-217*
+*Related: C-13658, A-2460.1, N-2, N-217*
 
 ---
 
@@ -516,7 +516,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3604, A-2464.1, N-3, N-30*
+*Related: C-13692, A-2464.1, N-3, N-30*
 
 ---
 
@@ -529,7 +529,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3605, C-3606, A-2465.1, N-37, N-10860, N-10863*
+*Related: C-13705, C-13710, A-2465.1, N-37, N-10860, N-10863*
 
 ---
 
@@ -547,7 +547,7 @@ UVU TPUSA club president named in the independent review as the chapter contact 
 Node Type: Person
 Vanity Fair writer of the Erika Kirk profile the host reads as an unflattering portrait.
 
-*Related: C-3596*
+*Related: C-13645*
 
 ---
 
@@ -573,7 +573,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 Guest co-host in earlier episodes; the host says he had the scoop that the UVU review would be bad for TPUSA.
 
-*Related: C-6317*
+*Related: C-13685*
 
 ---
 
@@ -581,7 +581,7 @@ Guest co-host in earlier episodes; the host says he had the scoop that the UVU r
 
 Fox host; the host dates an Erika Kirk interview with him to November 5 as part of her outfit list.
 
-*Related: C-6300*
+*Related: C-13664*
 
 ---
 
@@ -589,7 +589,7 @@ Fox host; the host dates an Erika Kirk interview with him to November 5 as part 
 
 Podcaster on whose show the host says Brian Harpole gave the narrative the review debunks.
 
-*Related: C-6318*
+*Related: C-13686*
 
 ---
 
@@ -597,7 +597,7 @@ Podcaster on whose show the host says Brian Harpole gave the narrative the revie
 
 Named by the host among Erika Kirk's December appearances.
 
-*Related: C-6302*
+*Related: C-13666*
 
 ---
 
@@ -605,7 +605,7 @@ Named by the host among Erika Kirk's December appearances.
 
 Daily Mail; source of the headline the host reads about her being in crisis.
 
-*Related: C-6320, C-6321*
+*Related: C-13688, C-13689*
 
 ---
 
@@ -613,7 +613,7 @@ Daily Mail; source of the headline the host reads about her being in crisis.
 
 Organization the host links to attacks on her that she says double when Erika Kirk is in DC.
 
-*Related: C-6306, C-6343*
+*Related: C-13672, C-13715*
 
 ---
 
@@ -621,7 +621,7 @@ Organization the host links to attacks on her that she says double when Erika Ki
 
 Place at issue in the profile's account of Charlie's criticism and in the host's Gaza remarks.
 
-*Related: C-6310, C-6311, C-6348*
+*Related: C-13677, C-13678, C-13719*
 
 ---
 
@@ -629,7 +629,7 @@ Place at issue in the profile's account of Charlie's criticism and in the host's
 
 Existing topic reused for the review's debunking of Harpole's podcast narrative.
 
-*Related: C-6318*
+*Related: C-13686*
 
 ---
 
@@ -637,7 +637,7 @@ Existing topic reused for the review's debunking of Harpole's podcast narrative.
 
 Existing topic reused for the host's August 5 Hamptons phone call claim.
 
-*Related: C-6337*
+*Related: C-13707*
 
 ---
 
@@ -645,7 +645,7 @@ Existing topic reused for the host's August 5 Hamptons phone call claim.
 
 Place where the host says Charlie was on August 5, 2025.
 
-*Related: C-6337, C-6341*
+*Related: C-13707, C-13712*
 
 ---
 
@@ -653,7 +653,7 @@ Place where the host says Charlie was on August 5, 2025.
 
 Existing topic reused for the night-before vest recommendation claim.
 
-*Related: C-6307*
+*Related: C-13673*
 
 ---
 
@@ -662,7 +662,7 @@ Existing topic reused for the night-before vest recommendation claim.
 Node Type: Topic
 The profile's account that Charlie's office is preserved as a shrine, set against the host's claim that Mikey McCoy used Charlie's home office for interviews 12 days after the murder.
 
-*Related: C-6293, C-6294*
+*Related: C-13655, C-13656*
 
 ---
 
@@ -671,7 +671,7 @@ The profile's account that Charlie's office is preserved as a shrine, set agains
 Node Type: Topic
 The host's dated list of Erika Kirk's public appearances and outfits between September and December 2025, used to dispute the claim that the sparkly Amfest suit was the only thing that fit.
 
-*Related: C-6298, C-6299, C-6300, C-6301, C-6302*
+*Related: C-13661, C-13663, C-13664, C-13665, C-13666*
 
 ---
 
@@ -680,7 +680,7 @@ The host's dated list of Erika Kirk's public appearances and outfits between Sep
 Node Type: Topic
 The profile's and the host's account that TPUSA chased leaks to the host, fired employees suspected of being sources, and searched for a mole after the host's July tweets.
 
-*Related: C-6303, C-6304*
+*Related: C-13668, C-13669*
 
 ---
 
@@ -689,7 +689,7 @@ The profile's and the host's account that TPUSA chased leaks to the host, fired 
 Node Type: Topic
 DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.
 
-*Related: C-6307*
+*Related: C-13673*
 
 ---
 
@@ -698,7 +698,7 @@ DeGroote's account, read from the profile, that on the night before the assassin
 Node Type: Topic
 The host's claim, from a source, that the priest told people there were marital issues between Charlie and Erika Kirk.
 
-*Related: C-6309*
+*Related: C-13676*
 
 ---
 
@@ -707,7 +707,7 @@ The host's claim, from a source, that the priest told people there were marital 
 Node Type: Topic
 The host's account of a sloppily filed TPUSA notice that it intends to sue UVU despite not participating in the independent review.
 
-*Related: C-6316*
+*Related: C-13684*
 
 ---
 
@@ -716,7 +716,7 @@ The host's account of a sloppily filed TPUSA notice that it intends to sue UVU d
 Node Type: Topic
 The smear package's claim that George speaks Hebrew as proof he is a secret Zionist, and the host's explanation that he studied ancient Hebrew in Oxford's theology program.
 
-*Related: C-6326, C-6327*
+*Related: C-13695, C-13696*
 
 ---
 
@@ -725,7 +725,7 @@ The smear package's claim that George speaks Hebrew as proof he is a secret Zion
 Node Type: Topic
 The host's dispute of the smear's claimed MySpace, Flickr, Twitter and adult-site accounts, including the data-leak sourcing, archive dates and missing tattoos.
 
-*Related: C-6329, C-6330, C-6331, C-6333, C-6334, C-6335, C-6336, C-6339, C-6345, C-6346*
+*Related: C-13698, C-13699, C-13700, C-13702, C-13703, C-13704, C-13706, C-13709, C-13716, C-13717*
 
 ---
 
@@ -734,7 +734,7 @@ The host's dispute of the smear's claimed MySpace, Flickr, Twitter and adult-sit
 Node Type: Topic
 The host's prediction that judges and lawyers acting for the state, which she calls the black robe mafia, will be exposed.
 
-*Related: C-6347*
+*Related: C-13718*
 
 ---
 
@@ -743,13 +743,13 @@ The host's prediction that judges and lawyers acting for the state, which she ca
 Node Type: Organization
 Account whose parody video of a smear strategy meeting the host plays at the end of the episode.
 
-*Related: C-6349, C-6350*
+*Related: C-13720, C-13721*
 
 ---
 
 ## 5. Claim Register
 
-**C-3596** Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration
+**C-13645** Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration
 
 Claim Timestamp: 00:00:08
 
@@ -764,7 +764,7 @@ Investigative Direction: Archive the full Vanity Fair piece; list access dates; 
 
 ---
 
-**C-3597** Erika avoided basic political questions via heaven-focused / bandwidth framing
+**C-13650** Erika avoided basic political questions via heaven-focused / bandwidth framing
 
 Claim Timestamp: 00:06:51
 
@@ -779,7 +779,7 @@ Investigative Direction: Extract all on-record political Q&A from the profile; c
 
 ---
 
-**C-3598** Erika declined substantive Israel/BB answers despite CEO role
+**C-13651** Erika declined substantive Israel/BB answers despite CEO role
 
 Claim Timestamp: 00:10:44
 
@@ -790,11 +790,11 @@ Mentions: N-2, N-36
 
 Related Nodes: N-10056, N-10865
 
-Investigative Direction: Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-3603).
+Investigative Direction: Compile Erika Israel-related statements pre/post Sept 10; align with Carlson’s private-criticism quote (C-13675).
 
 ---
 
-**C-3599** Erika directed the Aloe Yoga clothing run the night/morning after the assassination
+**C-13658** Erika directed the Aloe Yoga clothing run the night/morning after the assassination
 
 Claim Timestamp: 00:17:23
 
@@ -809,7 +809,7 @@ Investigative Direction: Preserve profile text; archive Elizabeth McCoy thread; 
 
 ---
 
-**C-3600** “Only thing that fit” glitter-suit explanation conflicts with other public outfits
+**C-13662** “Only thing that fit” glitter-suit explanation conflicts with other public outfits
 
 Claim Timestamp: 00:22:20
 
@@ -824,7 +824,7 @@ Investigative Direction: Build dated outfit plate from primary video stills; kee
 
 ---
 
-**C-3601** Charlie and Erika had a will-signing appointment set for the Monday after the murder
+**C-13671** Charlie and Erika had a will-signing appointment set for the Monday after the murder
 
 Claim Timestamp: 00:26:24
 
@@ -839,7 +839,7 @@ Investigative Direction: Seek calendar/email primary for the appointment; separa
 
 ---
 
-**C-3602** Tucker Carlson told Andrew Kolvet not to focus on Candace; leadership is “wholly focused” on her
+**C-13667** Tucker Carlson told Andrew Kolvet not to focus on Candace; leadership is “wholly focused” on her
 
 Claim Timestamp: 00:24:52
 
@@ -854,7 +854,7 @@ Investigative Direction: Confirm quote context in published piece; note host’s
 
 ---
 
-**C-3603** Carlson says Erika was privately more critical of Israel than Charlie
+**C-13675** Carlson says Erika was privately more critical of Israel than Charlie
 
 Claim Timestamp: 00:28:36
 
@@ -869,7 +869,7 @@ Investigative Direction: Pair with on-record Erika statements; treat Carlson quo
 
 ---
 
-**C-3604** After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package
+**C-13692** After UVU review fallout, smear narrative flipped to a fabricated lesbian/Zionist package
 
 Claim Timestamp: 00:40:02
 
@@ -884,7 +884,7 @@ Investigative Direction: Archive primary smear posts/headlines; separate real 20
 
 ---
 
-**C-3605** Candace’s college YouTube project was first archived July 9, 2025 beside Netanyahu DC visit / July 10 UVU ask
+**C-13705** Candace’s college YouTube project was first archived July 9, 2025 beside Netanyahu DC visit / July 10 UVU ask
 
 Claim Timestamp: 00:47:45
 
@@ -899,7 +899,7 @@ Investigative Direction: Verify archive timestamps on primary archive.org (or eq
 
 ---
 
-**C-3606** Bill Ackman Amplified the Smear Package and Later Deleted the Tweet
+**C-13710** Bill Ackman Amplified the Smear Package and Later Deleted the Tweet
 
 Claim Timestamp: 00:49:14
 
@@ -914,7 +914,7 @@ Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates;
 
 ---
 
-**C-3607** Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed
+**C-13680** Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed
 
 Claim Timestamp: 00:31:10
 
@@ -929,7 +929,7 @@ Investigative Direction: Timestamp board vote vs public announce vs contemporane
 
 ---
 
-**C-6286** Host Says Her July 18 Tweet Predicted a Vanity Fair Spread of Erika With Her Children
+**C-13646** Host Says Her July 18 Tweet Predicted a Vanity Fair Spread of Erika With Her Children
 
 Claim Timestamp: 00:02:56
 
@@ -940,12 +940,12 @@ Transcript Snippet: Instead, they are going to put Erika in a spread for Vanity 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-159
 Related Nodes: N-10864
-Supports: C-3429
+Supports: C-13058
 Investigative Direction: Retrieve the host's July 18 tweet and its timestamp, and compare it with the profile's publication date and the July photo shoot.
 
 ---
 
-**C-6287** Host Describes Headline Photo With Charlie Bust, Toys, Louboutins and Kids' Shoes
+**C-13647** Host Describes Headline Photo With Charlie Bust, Toys, Louboutins and Kids' Shoes
 
 Claim Timestamp: 00:04:15
 
@@ -960,7 +960,7 @@ Investigative Direction: Obtain the published Vanity Fair photograph and caption
 
 ---
 
-**C-6288** Host Says Erika Attends Mass Every Sunday and Travels With a Priest
+**C-13648** Host Says Erika Attends Mass Every Sunday and Travels With a Priest
 
 Claim Timestamp: 00:05:48
 
@@ -975,7 +975,7 @@ Investigative Direction: Locate the profile passage and any other reporting that
 
 ---
 
-**C-6289** Profile Says Faith Came Up in Every Conversation but Politics Rarely Did
+**C-13649** Profile Says Faith Came Up in Every Conversation but Politics Rarely Did
 
 Claim Timestamp: 00:05:48
 
@@ -986,12 +986,12 @@ Transcript Snippet: came up in every single one of our conversations, but politi
 Anchored Artifacts: A-2459.1
 Mentions: N-13, N-2
 Related Nodes: N-10865
-Supports: C-3597
+Supports: C-13650
 Investigative Direction: Compare against the full Vanity Fair text to confirm the sentence and its context.
 
 ---
 
-**C-6290** Profile Says Writer First Met Erika at the Waldorf Astoria on White House Correspondents Dinner Morning
+**C-13653** Profile Says Writer First Met Erika at the Waldorf Astoria on White House Correspondents Dinner Morning
 
 Claim Timestamp: 00:12:25
 
@@ -1006,7 +1006,7 @@ Investigative Direction: Check the published profile for the meeting date and th
 
 ---
 
-**C-6291** Erika Tells Writer She Is Built Different and the World Will Not Break Her
+**C-13652** Erika Tells Writer She Is Built Different and the World Will Not Break Her
 
 Claim Timestamp: 00:12:14
 
@@ -1021,7 +1021,7 @@ Investigative Direction: Verify the quotation and its attribution in the publish
 
 ---
 
-**C-6292** Profile Says Erika Answered a Compliment on Her Rings With They Are Real Like My Hair
+**C-13654** Profile Says Erika Answered a Compliment on Her Rings With They Are Real Like My Hair
 
 Claim Timestamp: 00:13:14
 
@@ -1036,7 +1036,7 @@ Investigative Direction: Check the profile text for the exchange and its date.
 
 ---
 
-**C-6293** Profile Says Erika Works on the Couch in Charlie's Preserved Office and Only Mac May Sit in His Chair
+**C-13655** Profile Says Erika Works on the Couch in Charlie's Preserved Office and Only Mac May Sit in His Chair
 
 Claim Timestamp: 00:15:00
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Obtain the profile passage and any dated photographs of
 
 ---
 
-**C-6294** Host Says Mikey McCoy Took Fox Hits in Charlie's Home Office 12 Days After the Murder
+**C-13656** Host Says Mikey McCoy Took Fox Hits in Charlie's Home Office 12 Days After the Murder
 
 Claim Timestamp: 00:15:33
 
@@ -1062,12 +1062,12 @@ Transcript Snippet: 12 days after Charlie was murdered, Mikey McCoy was taking i
 Anchored Artifacts: 
 Mentions: N-190, N-1
 Related Nodes: N-11082, N-10198
-Contradicts: C-6293
+Contradicts: C-13655
 Investigative Direction: Date McCoy's Fox appearances and confirm the room they were filmed in from broadcast stills.
 
 ---
 
-**C-6295** Host Says Erika's Aloe Account Showed Purchases the Morning After Charlie Died
+**C-13657** Host Says Erika's Aloe Account Showed Purchases the Morning After Charlie Died
 
 Claim Timestamp: 00:16:22
 
@@ -1082,7 +1082,7 @@ Investigative Direction: Identify who found the account purchase and obtain the 
 
 ---
 
-**C-6296** Profile Says the Aloe Run Also Bought Plain Black Clothes for Others Including a Young Woman Who Vomited on Herself
+**C-13659** Profile Says the Aloe Run Also Bought Plain Black Clothes for Others Including a Young Woman Who Vomited on Herself
 
 Claim Timestamp: 00:17:23
 
@@ -1097,7 +1097,7 @@ Investigative Direction: Identify the staffer and the young woman named in the p
 
 ---
 
-**C-6297** Host Recounts Wife of Her Security Man Flying to Moscow in Cowboy Boots After His Stroke
+**C-13660** Host Recounts Wife of Her Security Man Flying to Moscow in Cowboy Boots After His Stroke
 
 Claim Timestamp: 00:19:44
 
@@ -1111,7 +1111,7 @@ Investigative Direction: Match this to the host's earlier episode about her secu
 
 ---
 
-**C-6298** Host Says Erika Has a Team Handling Hair, Makeup, Wardrobe and Stylists
+**C-13661** Host Says Erika Has a Team Handling Hair, Makeup, Wardrobe and Stylists
 
 Claim Timestamp: 00:21:33
 
@@ -1126,7 +1126,7 @@ Investigative Direction: Identify the stylists and staff credited at Erika's pub
 
 ---
 
-**C-6299** Host Says Amfest Was Held in Phoenix Where Erika Lives
+**C-13663** Host Says Amfest Was Held in Phoenix Where Erika Lives
 
 Claim Timestamp: 00:22:21
 
@@ -1141,7 +1141,7 @@ Investigative Direction: Confirm the Amfest venue, its date and Erika's residenc
 
 ---
 
-**C-6300** Host Lists Erika's Outfits From September 12 to November 5, 2025
+**C-13664** Host Lists Erika's Outfits From September 12 to November 5, 2025
 
 Claim Timestamp: 00:22:21
 
@@ -1152,12 +1152,12 @@ Transcript Snippet: Jesse Watters interview on November 5th. She was wearing a g
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-211
 Related Nodes: N-11083
-Supports: C-3600
+Supports: C-13662
 Investigative Direction: Build a dated plate from video stills of each named appearance.
 
 ---
 
-**C-6301** Host Lists Erika's Appearances From November 6 to December 10, 2025
+**C-13665** Host Lists Erika's Appearances From November 6 to December 10, 2025
 
 Claim Timestamp: 00:23:14
 
@@ -1168,12 +1168,12 @@ Transcript Snippet: The Sean Hannity interview on December 8th. The Fox and Frie
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-16, N-278
 Related Nodes: N-11083
-Supports: C-3600
+Supports: C-13662
 Investigative Direction: Confirm each broadcast date and outfit from network video.
 
 ---
 
-**C-6302** Host Says Erika Gave Caleb Chilcutt an Award on December 20 and Wore Different Outfits Through December 21
+**C-13666** Host Says Erika Gave Caleb Chilcutt an Award on December 20 and Wore Different Outfits Through December 21
 
 Claim Timestamp: 00:23:14
 
@@ -1184,12 +1184,12 @@ Transcript Snippet: Erika when she gave an award to Caleb Chilcutt the uh on Dec
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-10, N-522
 Related Nodes: N-11083
-Supports: C-3600
+Supports: C-13662
 Investigative Direction: Check dates of the Chilcutt award and the Minaj and Bream interviews against broadcast records.
 
 ---
 
-**C-6303** Profile Says TPUSA Spent a Year Chasing Leaks to Owens and Fired Employees Wrongly
+**C-13668** Profile Says TPUSA Spent a Year Chasing Leaks to Owens and Fired Employees Wrongly
 
 Claim Timestamp: 00:24:52
 
@@ -1200,12 +1200,12 @@ Transcript Snippet: Turning Point has spent the last year chasing internal leaks
 Anchored Artifacts: A-2459.1
 Mentions: N-3, N-13
 Related Nodes: N-11084
-Supports: C-2180
+Supports: C-5511
 Investigative Direction: Identify the employees and dates of the leak-related firings and compare with prior reports of about 40 firings.
 
 ---
 
-**C-6304** Profile Says Owens's July Tweets About the Photo Shoot Sent TPUSA Searching for a Mole
+**C-13669** Profile Says Owens's July Tweets About the Photo Shoot Sent TPUSA Searching for a Mole
 
 Claim Timestamp: 00:24:52
 
@@ -1216,12 +1216,12 @@ Transcript Snippet: when Owens's tweeted tweeted details about our photo shoot i
 Anchored Artifacts: A-2459.1
 Mentions: N-3, N-13
 Related Nodes: N-11084
-Supports: C-6286
+Supports: C-13646
 Investigative Direction: Compare the host's July 18 tweet with the date of the photo shoot and TPUSA's internal reaction.
 
 ---
 
-**C-6305** Profile Says Carlson Calls the Host a Very Humane and Decent Person, Upsetting Some at TPUSA
+**C-13670** Profile Says Carlson Calls the Host a Very Humane and Decent Person, Upsetting Some at TPUSA
 
 Claim Timestamp: 00:24:52
 
@@ -1232,12 +1232,12 @@ Transcript Snippet: Carlson says he loves Candace and calls her a very humane an
 Anchored Artifacts: A-2463.1
 Mentions: N-22, N-3
 Related Nodes: N-10864
-Supports: C-3602
+Supports: C-13667
 Investigative Direction: Confirm Carlson's quote with the writer or the published text.
 
 ---
 
-**C-6306** Host Alleges Erika Meets People in DC and Knows Attacks on Her Are Coming
+**C-13672** Host Alleges Erika Meets People in DC and Knows Attacks on Her Are Coming
 
 Claim Timestamp: 00:26:24
 
@@ -1252,7 +1252,7 @@ Investigative Direction: Seek dated schedule or travel records and the host's so
 
 ---
 
-**C-6307** Profile Says Night Before Charlie Discussed Bulletproof Glass Shields and Vests With Erika and Their Pastor
+**C-13673** Profile Says Night Before Charlie Discussed Bulletproof Glass Shields and Vests With Erika and Their Pastor
 
 Claim Timestamp: 00:27:56
 
@@ -1267,7 +1267,7 @@ Investigative Direction: Identify the pastor and the security team's written rec
 
 ---
 
-**C-6308** Host Says Erika Told Glenn Beck She Has Charlie's Phone and He Was Unconcerned About Death Threats
+**C-13674** Host Says Erika Told Glenn Beck She Has Charlie's Phone and He Was Unconcerned About Death Threats
 
 Claim Timestamp: 00:27:56
 
@@ -1277,12 +1277,12 @@ Transcript Snippet: Erika is going to tell um Glenn back in December that you kn
 
 Anchored Artifacts: 
 Mentions: N-2, N-237, N-1
-Supports: C-4057
+Supports: C-9204
 Investigative Direction: Check the December 2025 Glenn Beck interview video for the phone and death-threat statements.
 
 ---
 
-**C-6309** Host Says the Priest Has Told People There Were Marital Issues
+**C-13676** Host Says the Priest Has Told People There Were Marital Issues
 
 Claim Timestamp: 00:28:36
 
@@ -1297,7 +1297,7 @@ Investigative Direction: Identify the priest and the host's source; only the sou
 
 ---
 
-**C-6310** Profile Says Charlie Became Increasingly Willing to Criticize Israel in Gaza Under Donor Pressure
+**C-13677** Profile Says Charlie Became Increasingly Willing to Criticize Israel in Gaza Under Donor Pressure
 
 Claim Timestamp: 00:28:36
 
@@ -1312,7 +1312,7 @@ Investigative Direction: Check the published profile for the passage and its sou
 
 ---
 
-**C-6311** Erika Tells Writer People Can Question How Other Leaders Run Their Country
+**C-13678** Erika Tells Writer People Can Question How Other Leaders Run Their Country
 
 Claim Timestamp: 00:28:36
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Verify the quotation and context in the published profi
 
 ---
 
-**C-6312** Host Says Kolvet Told Her Erika Would Be CEO Within the First 48 Hours
+**C-13679** Host Says Kolvet Told Her Erika Would Be CEO Within the First 48 Hours
 
 Claim Timestamp: 00:30:49
 
@@ -1338,12 +1338,12 @@ Transcript Snippet: And I knew because Andrew Kolvet told me, even though he den
 Anchored Artifacts: 
 Mentions: N-14, N-3, N-2
 Related Nodes: N-10218
-Supports: C-3607, C-3325, C-4088
+Supports: C-13680, C-12435, C-9235
 Investigative Direction: Obtain the host's dated message or call record with Kolvet and any TPUSA statement of the vote date.
 
 ---
 
-**C-6313** DeGroote Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO
+**C-13682** DeGroote Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO
 
 Claim Timestamp: 00:31:32
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Confirm the quote in the published profile and request 
 
 ---
 
-**C-6314** Host Alleges DeGroote Was Behind the Scenes Wanting Her Crushed in the Media
+**C-13681** Host Alleges DeGroote Was Behind the Scenes Wanting Her Crushed in the Media
 
 Claim Timestamp: 00:31:18
 
@@ -1372,7 +1372,7 @@ Investigative Direction: Identify the earlier episode where the host first said 
 
 ---
 
-**C-6315** Writer Clara Molot Says Charlie Would Have Answered Every Political Question Quickly and Succinctly
+**C-13683** Writer Clara Molot Says Charlie Would Have Answered Every Political Question Quickly and Succinctly
 
 Claim Timestamp: 00:33:14
 
@@ -1383,12 +1383,12 @@ Transcript Snippet: He obviously was a political animal and would have answered 
 Anchored Artifacts: A-2805.1
 Mentions: N-13, N-1, N-2
 Related Nodes: N-10865
-Supports: C-3597
+Supports: C-13650
 Investigative Direction: Locate the source of the Molot audio and confirm it is her own recording or interview.
 
 ---
 
-**C-6316** Host Says TPUSA Filed a Sloppy Notice of Intent to Sue UVU Then Skipped the Independent Review
+**C-13684** Host Says TPUSA Filed a Sloppy Notice of Intent to Sue UVU Then Skipped the Independent Review
 
 Claim Timestamp: 00:36:47
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Obtain the notice of intent to sue and its filing date,
 
 ---
 
-**C-6317** Host Says Baron Coleman Had the Scoop That the UVU Review Would Be Very Bad for TPUSA
+**C-13685** Host Says Baron Coleman Had the Scoop That the UVU Review Would Be Very Bad for TPUSA
 
 Claim Timestamp: 00:36:47
 
@@ -1414,12 +1414,12 @@ Transcript Snippet: Baron actually had the scoop on that and that it was going t
 Anchored Artifacts: 
 Mentions: N-330, N-3
 Related Nodes: N-10839
-Supports: C-3489
+Supports: C-13190
 Investigative Direction: Find Coleman's earlier statement or post predicting the review's release and tone.
 
 ---
 
-**C-6318** Host Says the Review Dedicates Pages to Debunking Harpole's Narrative on the Shawn Ryan Podcast
+**C-13686** Host Says the Review Dedicates Pages to Debunking Harpole's Narrative on the Shawn Ryan Podcast
 
 Claim Timestamp: 00:36:47
 
@@ -1430,12 +1430,12 @@ Transcript Snippet: they dedicate pages to debunking Brian Harpole's narrative o
 Anchored Artifacts: 
 Mentions: N-266, N-224, N-3
 Related Nodes: N-10862, N-10839
-Supports: C-3589
+Supports: C-13582
 Investigative Direction: Read the review's pages on Harpole and the Shawn Ryan appearance and compare to the podcast transcript.
 
 ---
 
-**C-6319** Host Says Her Episode on the Independent Review Reached About 3 Million YouTube Views
+**C-13687** Host Says Her Episode on the Independent Review Reached About 3 Million YouTube Views
 
 Claim Timestamp: 00:37:37
 
@@ -1450,7 +1450,7 @@ Investigative Direction: Check the view count of the host's review episode on Yo
 
 ---
 
-**C-6320** Daily Mail Headline Says Candace Is in Crisis and Links Her to a Secret Military Location
+**C-13688** Daily Mail Headline Says Candace Is in Crisis and Links Her to a Secret Military Location
 
 Claim Timestamp: 00:37:37
 
@@ -1465,7 +1465,7 @@ Investigative Direction: Archive the Daily Mail article, its date and any named 
 
 ---
 
-**C-6321** Host Says She Has Never Been on a Military Base and Nobody in Her Family Served
+**C-13689** Host Says She Has Never Been on a Military Base and Nobody in Her Family Served
 
 Claim Timestamp: 00:38:33
 
@@ -1476,12 +1476,12 @@ Transcript Snippet: I've never in my life even been on a military base.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10070
-Contradicts: C-6320
+Contradicts: C-13688
 Investigative Direction: Check against the host's own earlier statements about base visits.
 
 ---
 
-**C-6322** Host Says Kolvet Said Charlie Pulled Back From Her Because She Got Too Crazy on Israel
+**C-13690** Host Says Kolvet Said Charlie Pulled Back From Her Because She Got Too Crazy on Israel
 
 Claim Timestamp: 00:39:21
 
@@ -1496,7 +1496,7 @@ Investigative Direction: Find Kolvet's original statement and its date; compare 
 
 ---
 
-**C-6323** Host Says She Is Banned From Australia for Alleged Hatred Toward Jews
+**C-13691** Host Says She Is Banned From Australia for Alleged Hatred Toward Jews
 
 Claim Timestamp: 00:39:21
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Check Australian government and press records on the vi
 
 ---
 
-**C-6324** Host Reads Smear Headlines: Cheating Lesbian Funded by a Zionist and Federal Agent With a Sex Tape
+**C-13693** Host Reads Smear Headlines: Cheating Lesbian Funded by a Zionist and Federal Agent With a Sex Tape
 
 Claim Timestamp: 00:40:02
 
@@ -1521,12 +1521,12 @@ Transcript Snippet: The federal agent promoting Candace Owens to become presiden
 Anchored Artifacts: A-2464.1
 Mentions: N-3
 Related Nodes: N-10867
-Supports: C-3604
+Supports: C-13692
 Investigative Direction: Archive the original posts and identify the author and platform.
 
 ---
 
-**C-6325** Host Says She Knows People Are Being Paid on Discord to Produce the Smears
+**C-13694** Host Says She Knows People Are Being Paid on Discord to Produce the Smears
 
 Claim Timestamp: 00:40:02
 
@@ -1541,7 +1541,7 @@ Investigative Direction: Identify the Discord channels and any payment records; 
 
 ---
 
-**C-6326** Smear Package Says George Speaks Hebrew as Proof He Is a Secret Zionist
+**C-13695** Smear Package Says George Speaks Hebrew as Proof He Is a Secret Zionist
 
 Claim Timestamp: 00:41:37
 
@@ -1556,7 +1556,7 @@ Investigative Direction: Archive the smear post and check what it actually says 
 
 ---
 
-**C-6327** Host Says George Studied Theology at Oxford, Chose Ancient Hebrew and Got a First
+**C-13696** Host Says George Studied Theology at Oxford, Chose Ancient Hebrew and Got a First
 
 Claim Timestamp: 00:42:07
 
@@ -1567,12 +1567,12 @@ Transcript Snippet: So George chose ancient Hebrew and he did well.
 Anchored Artifacts: 
 Mentions: N-30, N-3
 Related Nodes: N-11088
-Qualifies: C-6326
+Qualifies: C-13695
 Investigative Direction: Check Oxford theology course requirements and George's published degree classification.
 
 ---
 
-**C-6328** Host Says the College Video Was a Sophomore-Year Journalism Final on the Adderall Epidemic
+**C-13697** Host Says the College Video Was a Sophomore-Year Journalism Final on the Adderall Epidemic
 
 Claim Timestamp: 00:42:07
 
@@ -1587,7 +1587,7 @@ Investigative Direction: Obtain the video, its upload metadata and the course sy
 
 ---
 
-**C-6329** Host Says the Flickr Album Is Her Own Album From a 2015 Birthday Party
+**C-13698** Host Says the Flickr Album Is Her Own Album From a 2015 Birthday Party
 
 Claim Timestamp: 00:43:33
 
@@ -1602,7 +1602,7 @@ Investigative Direction: Compare the Flickr album with the host's Facebook album
 
 ---
 
-**C-6330** Host Says the Critics Found a College Twitter Account She Wishes She Could Access
+**C-13699** Host Says the Critics Found a College Twitter Account She Wishes She Could Access
 
 Claim Timestamp: 00:43:33
 
@@ -1617,7 +1617,7 @@ Investigative Direction: Identify the Twitter handle and its archive history.
 
 ---
 
-**C-6331** Host Says She Never Had a MySpace Account
+**C-13700** Host Says She Never Had a MySpace Account
 
 Claim Timestamp: 00:44:35
 
@@ -1632,7 +1632,7 @@ Investigative Direction: Check the MySpace archive capture the critics used and 
 
 ---
 
-**C-6332** Host Says the College Video Was Shot in Her Then-Boyfriend's Dorm in Massachusetts
+**C-13701** Host Says the College Video Was Shot in Her Then-Boyfriend's Dorm in Massachusetts
 
 Claim Timestamp: 00:44:35
 
@@ -1647,7 +1647,7 @@ Investigative Direction: View the video linked in the description and verify the
 
 ---
 
-**C-6333** Host Says the Smear Alleges Graphic Hookup Posts Across Four Accounts in Rhode Island
+**C-13702** Host Says the Smear Alleges Graphic Hookup Posts Across Four Accounts in Rhode Island
 
 Claim Timestamp: 00:45:20
 
@@ -1662,7 +1662,7 @@ Investigative Direction: Archive the smear post and the accounts it names.
 
 ---
 
-**C-6334** Host Says the Smear's Author Cites a Data Leak That Cannot Be Shown
+**C-13703** Host Says the Smear's Author Cites a Data Leak That Cannot Be Shown
 
 Claim Timestamp: 00:46:10
 
@@ -1677,7 +1677,7 @@ Investigative Direction: Ask the author which leak and which dataset; none has b
 
 ---
 
-**C-6335** Host Says the Smear Claims She Reactivated the Profile in 2022 While Pregnant
+**C-13704** Host Says the Smear Claims She Reactivated the Profile in 2022 While Pregnant
 
 Claim Timestamp: 00:46:10
 
@@ -1692,7 +1692,7 @@ Investigative Direction: Request account activity logs from the platform in ques
 
 ---
 
-**C-6336** Host Says the Supposed MySpace Page Was First Archived August 5, 2025
+**C-13706** Host Says the Supposed MySpace Page Was First Archived August 5, 2025
 
 Claim Timestamp: 00:47:45
 
@@ -1703,12 +1703,12 @@ Transcript Snippet: Look at the date on when they archived it. August 5th, 2025.
 Anchored Artifacts: A-2465.1
 Mentions: N-3
 Related Nodes: N-10868, N-11089
-Supports: C-3605
+Supports: C-13705
 Investigative Direction: Check the archive.org capture date of the MySpace page.
 
 ---
 
-**C-6337** Host Says on August 5 Charlie Was in the Hamptons When Netanyahu Phoned With an Offer
+**C-13707** Host Says on August 5 Charlie Was in the Hamptons When Netanyahu Phoned With an Offer
 
 Claim Timestamp: 00:48:56
 
@@ -1719,12 +1719,12 @@ Transcript Snippet: Charlie was in the Hamptons receiving a phone call from BBNe
 Anchored Artifacts: 
 Mentions: N-1, N-36
 Related Nodes: N-10342, N-10027
-Supports: C-1937, C-1160
+Supports: C-4118, C-253
 Investigative Direction: Corroborate the Netanyahu call and Charlie's refusal through attendees or phone records.
 
 ---
 
-**C-6338** Host Reads Ackman's Post: X Is Incredible Where the World's Experts Gather, on Candace the Plot Thickens
+**C-13708** Host Reads Ackman's Post: X Is Incredible Where the World's Experts Gather, on Candace the Plot Thickens
 
 Claim Timestamp: 00:48:56
 
@@ -1735,12 +1735,12 @@ Transcript Snippet: X is incredible where the world's experts gather and share t
 Anchored Artifacts: A-2465.1
 Mentions: N-37, N-3
 Related Nodes: N-10868
-Supports: C-3606
+Supports: C-13710
 Investigative Direction: Recover the deleted Ackman tweet from the host's capture or an archive.
 
 ---
 
-**C-6339** Host Says the Tweet Ackman Shared Says the Video and Flickr Account Are Hers via AI Voice Analysis
+**C-13709** Host Says the Tweet Ackman Shared Says the Video and Flickr Account Are Hers via AI Voice Analysis
 
 Claim Timestamp: 00:48:56
 
@@ -1755,7 +1755,7 @@ Investigative Direction: Identify the retweeted account and read its thread.
 
 ---
 
-**C-6340** Host Says Tucker Carlson Thinks Bill Ackman's Money Is Very Mysterious
+**C-13711** Host Says Tucker Carlson Thinks Bill Ackman's Money Is Very Mysterious
 
 Claim Timestamp: 00:50:25
 
@@ -1769,7 +1769,7 @@ Investigative Direction: Ask Carlson for the original remark; this is the host's
 
 ---
 
-**C-6341** Host Says the Page Was Archived When Charlie Was With Bill Ackman
+**C-13712** Host Says the Page Was Archived When Charlie Was With Bill Ackman
 
 Claim Timestamp: 00:50:25
 
@@ -1780,12 +1780,12 @@ Transcript Snippet: Why is Bill Ackman in particular interested in this thing th
 Anchored Artifacts: 
 Mentions: N-37, N-1
 Related Nodes: N-10868, N-10027
-Supports: C-1160
+Supports: C-253
 Investigative Direction: Date the Ackman and Hamptons meeting against the archive timestamp.
 
 ---
 
-**C-6342** Host Says She Has Since Received Contracts That She Will Show Next Episode
+**C-13713** Host Says She Has Since Received Contracts That She Will Show Next Episode
 
 Claim Timestamp: 00:51:10
 
@@ -1799,7 +1799,7 @@ Investigative Direction: Await the next episode and check whether the contracts 
 
 ---
 
-**C-6343** Host Says Department of War Attacks on Her Double When Erika Is in DC
+**C-13715** Host Says Department of War Attacks on Her Double When Erika Is in DC
 
 Claim Timestamp: 00:59:45
 
@@ -1810,12 +1810,12 @@ Transcript Snippet: when she's in DC, the uh, Department of War attacks against 
 Anchored Artifacts: 
 Mentions: N-2, N-3
 Related Nodes: N-10888
-Supports: C-6306
+Supports: C-13672
 Investigative Direction: Compare dated DC trips by Erika with the timing of hostile pieces about the host.
 
 ---
 
-**C-6344** Host Says Her College Video Has Her Playing a Police Officer Who Arrests an Adderall Dealer
+**C-13714** Host Says Her College Video Has Her Playing a Police Officer Who Arrests an Adderall Dealer
 
 Claim Timestamp: 00:57:49
 
@@ -1830,7 +1830,7 @@ Investigative Direction: View the video linked in the description to confirm its
 
 ---
 
-**C-6345** Host Says the Smear Included a Video of a Woman Whose Profile Says She Is Indian
+**C-13716** Host Says the Smear Included a Video of a Woman Whose Profile Says She Is Indian
 
 Claim Timestamp: 01:00:16
 
@@ -1845,7 +1845,7 @@ Investigative Direction: Archive the video and profile that the smear used.
 
 ---
 
-**C-6346** Host Says Fake Porn Cannot Pass Because Her Tattoos and Belly Ring Are Missing
+**C-13717** Host Says Fake Porn Cannot Pass Because Her Tattoos and Belly Ring Are Missing
 
 Claim Timestamp: 01:00:26
 
@@ -1860,7 +1860,7 @@ Investigative Direction: Compare the images with the host's past podcast descrip
 
 ---
 
-**C-6347** Host Predicts the Black Robe Mafia of Judges and Lawyers Will Be Exposed
+**C-13718** Host Predicts the Black Robe Mafia of Judges and Lawyers Will Be Exposed
 
 Claim Timestamp: 01:01:55
 
@@ -1875,7 +1875,7 @@ Investigative Direction: Identify the judges and lawyers she means; none is name
 
 ---
 
-**C-6348** Host Says She Got Fired for Saying Gaza Is a Genocide
+**C-13719** Host Says She Got Fired for Saying Gaza Is a Genocide
 
 Claim Timestamp: 01:04:55
 
@@ -1890,7 +1890,7 @@ Investigative Direction: Check the host's employment history and the stated reas
 
 ---
 
-**C-6349** Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person
+**C-13720** Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person
 
 Claim Timestamp: 01:05:52
 
@@ -1905,7 +1905,7 @@ Investigative Direction: Identify the Wear Forbidden account, the video's date a
 
 ---
 
-**C-6350** Host Says the Smear's Author Is an Andrew Wilson-Affiliated Old-School Person
+**C-13721** Host Says the Smear's Author Is an Andrew Wilson-Affiliated Old-School Person
 
 Claim Timestamp: 01:06:38
 

@@ -27,18 +27,18 @@
           "ref": "A-1539.1",
           "description": "Private 4-hour-30-minute meeting between Candace Owens, Erika Kirk, Justin Streiff, George (Candace's husband, opening portion), and cousin Mia",
           "related_claims": [
-            "C-1924",
-            "C-1925",
-            "C-1926",
-            "C-1927",
-            "C-1928",
-            "C-1937",
-            "C-1940",
-            "C-1944",
-            "C-1950",
-            "C-1951",
-            "C-1952",
-            "C-1953"
+            "C-4056",
+            "C-4062",
+            "C-4063",
+            "C-4064",
+            "C-4086",
+            "C-4118",
+            "C-4072",
+            "C-4136",
+            "C-4153",
+            "C-4158",
+            "C-4156",
+            "C-4173"
           ],
           "related_nodes": [
             "N-2",
@@ -70,8 +70,8 @@
           "ref": "A-1540.1",
           "description": "Briefing from lawyer involved in Tyler Robinson case stating they have nothing beyond the affidavit-stage evidence, with probable cause hearing scheduled for May",
           "related_claims": [
-            "C-1928",
-            "C-1929"
+            "C-4086",
+            "C-4091"
           ],
           "related_nodes": [
             "N-2",
@@ -112,8 +112,8 @@
           "ref": "A-1541.2",
           "description": "Public reply to Andrew Kolvet citing HIPAA violation concern; Andrew Kolvet response that he had \"full permission\"",
           "related_claims": [
-            "C-1939",
-            "C-1940"
+            "C-4076",
+            "C-4072"
           ],
           "related_nodes": [
             "N-217",
@@ -140,8 +140,8 @@
           "ref": "A-1542.1",
           "description": "Blake Neff interview clip describing Mikey McCoy's post-shooting reaction (quivering lip, call to Erika, call to his mother, call to father \"Rob McCoy\")",
           "related_claims": [
-            "C-1932",
-            "C-1933"
+            "C-4104",
+            "C-4105"
           ],
           "related_nodes": [
             "N-159",
@@ -169,11 +169,11 @@
           "ref": "A-1543.1",
           "description": "Mikey McCoy phone call logs provided by TPUSA during meeting – first call to wife Elizabeth McCoy (10 min), three-way with Erika at +3 min, three-way with father Rob McCoy 2 min later, brother callback 10 min",
           "related_claims": [
-            "C-1931",
-            "C-1932",
-            "C-1934",
-            "C-1935",
-            "C-1936"
+            "C-4093",
+            "C-4104",
+            "C-4099",
+            "C-4101",
+            "C-4109"
           ],
           "related_nodes": [
             "N-190",
@@ -217,10 +217,10 @@
           "ref": "A-1544.2",
           "description": "Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Sypher identified as head of field",
           "related_claims": [
-            "C-1941",
-            "C-1954",
-            "C-1956",
-            "C-1957"
+            "C-4080",
+            "C-4111",
+            "C-4149",
+            "C-4151"
           ],
           "related_nodes": [
             "N-46",
@@ -262,10 +262,10 @@
           "ref": "A-1545.2",
           "description": "Tim Pool current audio clip stating Candace uses the same security team as Charlie and Erika Kirk",
           "related_claims": [
-            "C-1942",
-            "C-1943",
-            "C-1944",
-            "C-1945"
+            "C-4081",
+            "C-4135",
+            "C-4136",
+            "C-4140"
           ],
           "related_nodes": [
             "N-267",
@@ -292,9 +292,9 @@
           "ref": "A-1546.1",
           "description": "New York Post article \"Inside Candace Owens's sadistic and dangerous world, monetizing baseless conspiracies\" alleging Daily Wire key-throwing incident, People magazine demand, husband's Qatari passport",
           "related_claims": [
-            "C-1946",
-            "C-1947",
-            "C-1948"
+            "C-4141",
+            "C-4128",
+            "C-4129"
           ],
           "related_nodes": [
             "N-10898",
@@ -321,7 +321,7 @@
           "ref": "A-1547.1",
           "description": "KAMYU local media September 2 mention of Charlie Kirk speaking at UVU courtyard",
           "related_claims": [
-            "C-1957"
+            "C-4151"
           ],
           "related_nodes": [
             "N-10343"
@@ -347,8 +347,8 @@
           "ref": "A-1548.1",
           "description": "TPUSA/UVU/BYU chapter social media graphic dated August 27 announcing event without location details",
           "related_claims": [
-            "C-1956",
-            "C-1958"
+            "C-4149",
+            "C-4152"
           ],
           "related_nodes": [
             "N-10343"
@@ -374,7 +374,7 @@
           "ref": "A-1549.1",
           "description": "Turkey Tom video authenticating Tyler Robinson Discord chat messaging style",
           "related_claims": [
-            "C-1949"
+            "C-4127"
           ],
           "related_nodes": [
             "N-328",
@@ -401,7 +401,7 @@
           "ref": "A-1550.1",
           "description": "Direct Charlie Kirk quotation: \"You better keep asking questions, because it's the only thing that keeps us free\"",
           "related_claims": [
-            "C-1959"
+            "C-4162"
           ],
           "related_nodes": [
             "N-1"
@@ -551,7 +551,7 @@
           "ref": "A-3291.1",
           "description": "Host verbal reference to the viral portion of Erika Kirk's Glenn Beck interview in which Erika says she has Charlie's phone and he sent no night-before text (not played)",
           "related_claims": [
-            "C-14009"
+            "C-4061"
           ],
           "related_nodes": [
             "N-1",
@@ -580,7 +580,7 @@
           "ref": "A-3292.1",
           "description": "Host verbal reference to her Friday appearance on the Jimmy Dore show where she clarified the sourcing of the night-before text (not played)",
           "related_claims": [
-            "C-14010"
+            "C-4065"
           ],
           "related_nodes": [
             "N-10340",
@@ -608,8 +608,8 @@
           "ref": "A-3293.1",
           "description": "Host verbal reference to Brian Harpole's interview on the Shawn Ryan show (not played)",
           "related_claims": [
-            "C-14024",
-            "C-14025"
+            "C-4083",
+            "C-4084"
           ],
           "related_nodes": [
             "N-10000",
@@ -638,7 +638,7 @@
           "ref": "A-3294.1",
           "description": "Host verbal reference to Blake Neff's call log showing a 45-second call to his mother (not shown)",
           "related_claims": [
-            "C-14039"
+            "C-4106"
           ],
           "related_nodes": [
             "N-10338",
@@ -665,8 +665,8 @@
           "ref": "A-3295.1",
           "description": "Host verbal reference to the previously shared Egyptian planes spreadsheet and a planned interactive timeline for the website (not shown)",
           "related_claims": [
-            "C-14047",
-            "C-14048"
+            "C-4119",
+            "C-4120"
           ],
           "related_nodes": [
             "N-1",
@@ -696,8 +696,8 @@
           "ref": "A-3296.1",
           "description": "Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zinn",
           "related_claims": [
-            "C-14070",
-            "C-14071"
+            "C-4154",
+            "C-4155"
           ],
           "related_nodes": [
             "N-639",
@@ -728,7 +728,7 @@
           "ref": "A-3297.1",
           "description": "Host verbal reference to Baron Coleman's video on the electrocution theory and Charlie Kirk's allegedly charred hands (not shown)",
           "related_claims": [
-            "C-14077"
+            "C-4164"
           ],
           "related_nodes": [
             "N-11380",
@@ -756,9 +756,9 @@
           "ref": "A-3298.1",
           "description": "Host verbal reference to Baron Coleman's video building on the host's Fort Huachuca (Fort Huachuca) research, including his suggestion about Vance (not shown)",
           "related_claims": [
-            "C-14078",
-            "C-14079",
-            "C-14080"
+            "C-4165",
+            "C-4166",
+            "C-4167"
           ],
           "related_nodes": [
             "N-10352",
@@ -788,12 +788,12 @@
         "A-1540.1"
       ],
       "related_claims": [
-        "C-1924",
-        "C-1925",
-        "C-1926",
-        "C-1927",
-        "C-1937",
-        "C-1952"
+        "C-4056",
+        "C-4062",
+        "C-4063",
+        "C-4064",
+        "C-4118",
+        "C-4156"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -817,7 +817,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1924"
+        "C-4056"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -840,10 +840,10 @@
         "A-1543.1"
       ],
       "related_claims": [
-        "C-1931",
-        "C-1932",
-        "C-1933",
-        "C-1934"
+        "C-4093",
+        "C-4104",
+        "C-4105",
+        "C-4099"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -867,9 +867,9 @@
         "A-1543.1"
       ],
       "related_claims": [
-        "C-1931",
-        "C-1935",
-        "C-1936"
+        "C-4093",
+        "C-4101",
+        "C-4109"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -892,7 +892,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1937"
+        "C-4118"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -916,8 +916,8 @@
         "A-1543.1"
       ],
       "related_claims": [
-        "C-1932",
-        "C-1933"
+        "C-4104",
+        "C-4105"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -941,8 +941,8 @@
         "A-1545.2"
       ],
       "related_claims": [
-        "C-1942",
-        "C-1943"
+        "C-4081",
+        "C-4135"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -964,7 +964,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1924"
+        "C-4056"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -986,7 +986,7 @@
         "A-1549.1"
       ],
       "related_claims": [
-        "C-1949"
+        "C-4127"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1008,7 +1008,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1950"
+        "C-4153"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1030,7 +1030,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1951"
+        "C-4158"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1052,7 +1052,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1951"
+        "C-4158"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1074,7 +1074,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1951"
+        "C-4158"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1116,7 +1116,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1953"
+        "C-4173"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1138,7 +1138,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1938"
+        "C-4114"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1160,7 +1160,7 @@
         "A-1544.2"
       ],
       "related_claims": [
-        "C-1954"
+        "C-4111"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1182,7 +1182,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1944"
+        "C-4136"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1204,7 +1204,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1937"
+        "C-4118"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1227,7 +1227,7 @@
         "A-1549.1"
       ],
       "related_claims": [
-        "C-1949"
+        "C-4127"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1244,7 +1244,7 @@
       "description": "Named PragerU contact (per host).",
       "related_artifacts": [],
       "related_claims": [
-        "C-3741"
+        "C-4115"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1371,8 +1371,8 @@
         "A-1540.1"
       ],
       "related_claims": [
-        "C-1928",
-        "C-1929"
+        "C-4086",
+        "C-4091"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1392,9 +1392,9 @@
         "A-1543.1"
       ],
       "related_claims": [
-        "C-1931",
-        "C-1932",
-        "C-1933"
+        "C-4093",
+        "C-4104",
+        "C-4105"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1418,8 +1418,8 @@
         "A-1543.1"
       ],
       "related_claims": [
-        "C-1935",
-        "C-1936"
+        "C-4101",
+        "C-4109"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1441,8 +1441,8 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1926",
-        "C-1927"
+        "C-4063",
+        "C-4064"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1465,8 +1465,8 @@
         "A-1541.2"
       ],
       "related_claims": [
-        "C-1939",
-        "C-1940"
+        "C-4076",
+        "C-4072"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1485,8 +1485,8 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1937",
-        "C-1938"
+        "C-4118",
+        "C-4114"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1511,9 +1511,9 @@
         "A-1548.1"
       ],
       "related_claims": [
-        "C-1956",
-        "C-1957",
-        "C-1958"
+        "C-4149",
+        "C-4151",
+        "C-4152"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1537,10 +1537,10 @@
         "A-1545.2"
       ],
       "related_claims": [
-        "C-1942",
-        "C-1943",
-        "C-1944",
-        "C-1945"
+        "C-4081",
+        "C-4135",
+        "C-4136",
+        "C-4140"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -1563,7 +1563,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1953"
+        "C-4173"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1585,7 +1585,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1938"
+        "C-4114"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1624,7 +1624,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1937"
+        "C-4118"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1664,7 +1664,7 @@
         "A-1551.7"
       ],
       "related_claims": [
-        "C-1952"
+        "C-4156"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -1687,7 +1687,7 @@
         "A-1546.1"
       ],
       "related_claims": [
-        "C-1948"
+        "C-4129"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1749,7 +1749,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1950"
+        "C-4153"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1771,7 +1771,7 @@
         "A-1539.1"
       ],
       "related_claims": [
-        "C-1951"
+        "C-4158"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1827,19 +1827,19 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14009",
-        "C-14026",
-        "C-14028",
-        "C-14038",
-        "C-14046",
-        "C-14048",
-        "C-14058",
-        "C-14061",
-        "C-14067",
-        "C-14069",
-        "C-14077",
-        "C-14083",
-        "C-14086"
+        "C-4061",
+        "C-4085",
+        "C-4088",
+        "C-4103",
+        "C-4117",
+        "C-4120",
+        "C-4133",
+        "C-4138",
+        "C-4146",
+        "C-4148",
+        "C-4164",
+        "C-4170",
+        "C-4174"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1874,9 +1874,9 @@
         "A-1546.1"
       ],
       "related_claims": [
-        "C-1946",
-        "C-1947",
-        "C-1948"
+        "C-4141",
+        "C-4128",
+        "C-4129"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1897,85 +1897,85 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14003",
-        "C-14004",
-        "C-14005",
-        "C-14006",
-        "C-14007",
-        "C-14008",
-        "C-14009",
-        "C-14010",
-        "C-14011",
-        "C-14012",
-        "C-14013",
-        "C-14014",
-        "C-14015",
-        "C-14016",
-        "C-14017",
-        "C-14018",
-        "C-14019",
-        "C-14020",
-        "C-14021",
-        "C-14022",
-        "C-14023",
-        "C-14024",
-        "C-14025",
-        "C-14026",
-        "C-14027",
-        "C-14028",
-        "C-14029",
-        "C-14030",
-        "C-14031",
-        "C-14032",
-        "C-14033",
-        "C-14034",
-        "C-14035",
-        "C-14037",
-        "C-14038",
-        "C-14039",
-        "C-14040",
-        "C-14041",
-        "C-14042",
-        "C-14043",
-        "C-14044",
-        "C-14045",
-        "C-14046",
-        "C-14047",
-        "C-14048",
-        "C-14049",
-        "C-14050",
-        "C-14051",
-        "C-14052",
-        "C-14053",
-        "C-14054",
-        "C-14055",
-        "C-14056",
-        "C-14057",
-        "C-14058",
-        "C-14059",
-        "C-14060",
-        "C-14061",
-        "C-14062",
-        "C-14063",
-        "C-14064",
-        "C-14065",
-        "C-14072",
-        "C-14073",
-        "C-14074",
-        "C-14075",
-        "C-14076",
-        "C-14077",
-        "C-14078",
-        "C-14079",
-        "C-14080",
-        "C-14081",
-        "C-14082",
-        "C-14083",
-        "C-14084",
-        "C-14085",
-        "C-14086",
-        "C-14087",
-        "C-14088"
+        "C-4054",
+        "C-4055",
+        "C-4057",
+        "C-4058",
+        "C-4059",
+        "C-4060",
+        "C-4061",
+        "C-4065",
+        "C-4066",
+        "C-4067",
+        "C-4068",
+        "C-4069",
+        "C-4070",
+        "C-4071",
+        "C-4073",
+        "C-4074",
+        "C-4075",
+        "C-4077",
+        "C-4078",
+        "C-4079",
+        "C-4082",
+        "C-4083",
+        "C-4084",
+        "C-4085",
+        "C-4087",
+        "C-4088",
+        "C-4089",
+        "C-4090",
+        "C-4092",
+        "C-4094",
+        "C-4096",
+        "C-4097",
+        "C-4098",
+        "C-4102",
+        "C-4103",
+        "C-4106",
+        "C-4107",
+        "C-4108",
+        "C-4110",
+        "C-4112",
+        "C-4113",
+        "C-4116",
+        "C-4117",
+        "C-4119",
+        "C-4120",
+        "C-4121",
+        "C-4122",
+        "C-4123",
+        "C-4124",
+        "C-4125",
+        "C-4126",
+        "C-4130",
+        "C-4131",
+        "C-4132",
+        "C-4133",
+        "C-4134",
+        "C-4137",
+        "C-4138",
+        "C-4139",
+        "C-4142",
+        "C-4143",
+        "C-4144",
+        "C-4157",
+        "C-4159",
+        "C-4161",
+        "C-4160",
+        "C-4163",
+        "C-4164",
+        "C-4165",
+        "C-4166",
+        "C-4167",
+        "C-4168",
+        "C-4169",
+        "C-4170",
+        "C-4171",
+        "C-4172",
+        "C-4174",
+        "C-4175",
+        "C-4176"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1993,7 +1993,7 @@
       "description": "Comments satire about Oxford Hebrew class shame and House Inhabit spin.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14053"
+        "C-4125"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2011,16 +2011,16 @@
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14026",
-        "C-14027",
-        "C-14028",
-        "C-14029",
-        "C-14031",
-        "C-14066",
-        "C-14067",
-        "C-14068",
-        "C-14070",
-        "C-14071"
+        "C-4085",
+        "C-4087",
+        "C-4088",
+        "C-4089",
+        "C-4092",
+        "C-4145",
+        "C-4146",
+        "C-4147",
+        "C-4154",
+        "C-4155"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2038,9 +2038,9 @@
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14017",
-        "C-14018",
-        "C-14019"
+        "C-4073",
+        "C-4074",
+        "C-4075"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2058,9 +2058,9 @@
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14024",
-        "C-14025",
-        "C-14063"
+        "C-4083",
+        "C-4084",
+        "C-4142"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2095,7 +2095,7 @@
       "description": "First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14070"
+        "C-4154"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2112,21 +2112,21 @@
       "description": "The roughly 4.5-hour private meeting between the host, Erika Kirk and Justin Streiff, and the surrounding dispute over why it was not livestreamed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14004",
-        "C-14005",
-        "C-14007",
-        "C-14008",
-        "C-14014",
-        "C-14026",
-        "C-14035",
-        "C-14058",
-        "C-14059",
-        "C-14065",
-        "C-14074",
-        "C-14075",
-        "C-14081",
-        "C-14082",
-        "C-14083"
+        "C-4055",
+        "C-4057",
+        "C-4059",
+        "C-4060",
+        "C-4069",
+        "C-4085",
+        "C-4098",
+        "C-4133",
+        "C-4134",
+        "C-4144",
+        "C-4161",
+        "C-4160",
+        "C-4168",
+        "C-4169",
+        "C-4170"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2143,7 +2143,7 @@
       "description": "A viewer theory, raised via a super chat and Baron Coleman's video, that Charlie Kirk was electrocuted and that his hands were charred, which the host rejects.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14077"
+        "C-4164"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2160,7 +2160,7 @@
       "description": "A rumor that the host socialized with TPUSA employees at Tucker Carlson's Christmas party, which the host denies.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14085"
+        "C-4172"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2177,8 +2177,8 @@
       "description": "Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincided with other political violence suspects and that George Zinn acted as a decoy.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14070",
-        "C-14071"
+        "C-4154",
+        "C-4155"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2195,8 +2195,8 @@
       "description": "Vice President; the host rejects a suggestion that he was on the Fort Huachuca base.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14079",
-        "C-14080"
+        "C-4166",
+        "C-4167"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2213,8 +2213,8 @@
       "description": "Host's friend; his Christmas party is the subject of a rumor.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14085",
-        "C-14088"
+        "C-4172",
+        "C-4176"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2231,7 +2231,7 @@
       "description": "Cited for his tweet about firing his manager.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14003"
+        "C-4054"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2248,7 +2248,7 @@
       "description": "Named by the host as someone whose demand she ignored.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14062"
+        "C-4139"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2265,9 +2265,9 @@
       "description": "Podcaster who interviewed Kolvet about Catholicism and the $150 million.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14006",
-        "C-14007",
-        "C-14044"
+        "C-4058",
+        "C-4059",
+        "C-4113"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2284,7 +2284,7 @@
       "description": "Named in a clip speaker's radicalization timing theory.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14070"
+        "C-4154"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2301,7 +2301,7 @@
       "description": "Named by the host regarding Tucker Carlson's Christmas party.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14085"
+        "C-4172"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2318,7 +2318,7 @@
       "description": "Named by the host regarding Qatar deals.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14088"
+        "C-4176"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2335,8 +2335,8 @@
       "description": "Host of the show where Brian Harpole gave an interview.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14024",
-        "C-14025"
+        "C-4083",
+        "C-4084"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2353,7 +2353,7 @@
       "description": "Interviewer in the viral Erika Kirk clip about Charlie's phone.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14009"
+        "C-4061"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2370,10 +2370,10 @@
       "description": "Recipient of a night-before text and subject of the message-attribution dispute.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14011",
-        "C-14012",
-        "C-14013",
-        "C-14063"
+        "C-4066",
+        "C-4067",
+        "C-4068",
+        "C-4142"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2390,10 +2390,10 @@
       "description": "Host of the CBS event whose questions the host says were planned.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14014",
-        "C-14015",
-        "C-14016",
-        "C-14074"
+        "C-4069",
+        "C-4070",
+        "C-4071",
+        "C-4161"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2410,7 +2410,7 @@
       "description": "Named by the host regarding a demand she ignored.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14062"
+        "C-4139"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2427,7 +2427,7 @@
       "description": "Host of the show where Candace clarified her text sourcing.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14010"
+        "C-4065"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2444,14 +2444,14 @@
       "description": "Organization at the center of the meeting.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14005",
-        "C-14008",
-        "C-14024",
-        "C-14025",
-        "C-14027",
-        "C-14048",
-        "C-14065",
-        "C-14085"
+        "C-4057",
+        "C-4060",
+        "C-4083",
+        "C-4084",
+        "C-4087",
+        "C-4120",
+        "C-4144",
+        "C-4172"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2468,8 +2468,8 @@
       "description": "Campus where the event took place.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14027",
-        "C-14067"
+        "C-4087",
+        "C-4146"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2486,7 +2486,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14046"
+        "C-4117"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2503,9 +2503,9 @@
       "description": "Place the host says Egyptian planes fly to and from.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14049",
-        "C-14050",
-        "C-14087"
+        "C-4121",
+        "C-4122",
+        "C-4175"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2522,7 +2522,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14071"
+        "C-4155"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2539,8 +2539,8 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14044",
-        "C-14045"
+        "C-4113",
+        "C-4116"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2557,7 +2557,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14031"
+        "C-4092"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2574,7 +2574,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14018"
+        "C-4074"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2591,7 +2591,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14047"
+        "C-4119"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2608,7 +2608,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14015"
+        "C-4070"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2625,7 +2625,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14023"
+        "C-4082"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2642,7 +2642,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14024"
+        "C-4083"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2659,7 +2659,7 @@
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14060"
+        "C-4137"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2676,9 +2676,9 @@
       "description": "Place discussed in the Qatar claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14053",
-        "C-14087",
-        "C-14088"
+        "C-4125",
+        "C-4175",
+        "C-4176"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2695,7 +2695,7 @@
       "description": "Organization the host links to Qatar's intermediary role.",
       "related_artifacts": [],
       "related_claims": [
-        "C-14087"
+        "C-4175"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -2707,8 +2707,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1924",
-      "ref": "C-1924",
+      "@id": "C-4056",
+      "ref": "C-4056",
       "label": "Private meeting with Erika and Justin Streiff lasted 4 hours 30 minutes",
       "claim": "The host says her private meeting with Erika Kirk and Justin Streiff, with George present for the beginning and her cousin Mia sitting a little away, lasted 4 hours and 30 minutes.",
       "anchored_artifacts": [
@@ -2727,8 +2727,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1925",
-      "ref": "C-1925",
+      "@id": "C-4062",
+      "ref": "C-4062",
       "label": "Host Says Erika Kirk Confirmed Possession of Charlie's Phone",
       "claim": "The host says a viral clip from Erika Kirk's Glenn Beck interview had Erika saying she had Charlie Kirk's phone and that Charlie never texted anybody the night before saying he thought they were going to kill him, and that in the meeting Erika said she is looking at his iMessages and that he, like everybody else, communicates on Signal and Telegram.",
       "anchored_artifacts": [
@@ -2749,8 +2749,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1926",
-      "ref": "C-1926",
+      "@id": "C-4063",
+      "ref": "C-4063",
       "label": "Erika confirmed Andrew Kolvet received pre-incident text",
       "claim": "The host says Erika Kirk acknowledged in their meeting that Andrew Kolvet received a message from Charlie Kirk the night before, which the host says Kolvet told her was \"they're going to kill me.\"",
       "anchored_artifacts": [
@@ -2770,8 +2770,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1927",
-      "ref": "C-1927",
+      "@id": "C-4064",
+      "ref": "C-4064",
       "label": "Erika stated Dan Flood's pre-incident text specified \"the left\"",
       "claim": "The host says that in their meeting Erika Kirk and Justin Streiff clarified that the message Dan Flood received from Charlie Kirk the night before said \"the left is going to kill me,\" which she says she cannot confirm because she did not see the message.",
       "anchored_artifacts": [
@@ -2793,8 +2793,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1928",
-      "ref": "C-1928",
+      "@id": "C-4086",
+      "ref": "C-4086",
       "label": "TPUSA case lawyer stated evidence base is at affidavit stage only",
       "claim": "The host says a lawyer involved in the case, whom Turning Point USA called into the meeting, told her they have nothing beyond the affidavit and will not know what investigators have until the May probable cause hearing.",
       "anchored_artifacts": [
@@ -2814,8 +2814,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1929",
-      "ref": "C-1929",
+      "@id": "C-4091",
+      "ref": "C-4091",
       "label": "Host Says Probable Cause Hearing Is Scheduled for May",
       "claim": "The host says a lawyer involved in the case told her the probable cause hearing, at which evidence will first be presented to a judge, is scheduled for May (recorded as May 2026).",
       "anchored_artifacts": [
@@ -2830,8 +2830,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1930",
-      "ref": "C-1930",
+      "@id": "C-4095",
+      "ref": "C-4095",
       "label": "Candace spoke with witness who filmed rooftop person at 12:23 pm",
       "claim": "The host says she spoke with a witness who filmed a person on the roof at 12:23 p.m., and that he did not see that person take the shot.",
       "anchored_artifacts": [
@@ -2849,8 +2849,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1931",
-      "ref": "C-1931",
+      "@id": "C-4093",
+      "ref": "C-4093",
       "label": "Host Says Rooftop-Filming Witness Described Smaller Gun, Black Tactical Gear, No Recoil",
       "claim": "The host says the witness who filmed the figure on the rooftop told her he described the subject as wearing black tactical gear, carrying a smaller gun, and exhibiting no recoil.",
       "anchored_artifacts": [
@@ -2865,8 +2865,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1932",
-      "ref": "C-1932",
+      "@id": "C-4104",
+      "ref": "C-4104",
       "label": "Mikey McCoy's first call was to wife Elizabeth McCoy",
       "claim": "The host says the call logs Turning Point USA showed her indicate that Mikey McCoy's first post-shooting call was to his wife, Elizabeth McCoy, and that he stayed on the phone with her for 10 minutes.",
       "anchored_artifacts": [
@@ -2885,8 +2885,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1933",
-      "ref": "C-1933",
+      "@id": "C-4105",
+      "ref": "C-4105",
       "label": "Host Says Mikey Three-Wayed Erika 3 Minutes After Shot and Father 2 Minutes Later",
       "claim": "The host says, citing call logs shown to her, that Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.",
       "anchored_artifacts": [
@@ -2907,8 +2907,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1934",
-      "ref": "C-1934",
+      "@id": "C-4099",
+      "ref": "C-4099",
       "label": "Host Says Mikey McCoy's Real First Name Is Michael",
       "claim": "The host says Mikey McCoy's real first name is Michael and that \"Mikey\" is not a middle-name substitute, which she says Mikey wanted the audience to know.",
       "anchored_artifacts": [
@@ -2924,8 +2924,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1935",
-      "ref": "C-1935",
+      "@id": "C-4101",
+      "ref": "C-4101",
       "label": "Blake Neff's account contradicts the call logs",
       "claim": "The host says Blake Neff's interview account - that Mikey's first call after the shooting was to Erika and that Mikey then called his father - is contradicted by call logs Turning Point USA showed her.",
       "anchored_artifacts": [
@@ -2946,13 +2946,13 @@
         "N-17"
       ],
       "contradicts_claim_refs": [
-        "C-1932"
+        "C-4104"
       ]
     },
     {
       "@type": "Claim",
-      "@id": "C-1936",
-      "ref": "C-1936",
+      "@id": "C-4109",
+      "ref": "C-4109",
       "label": "Elizabeth McCoy was removed from public narrative despite memorial/vacation visibility",
       "claim": "The host says Elizabeth McCoy was left out of what was said publicly about Mikey McCoy's call log, although she was \"main stage\" at the memorial, is close with Erika Kirk and went on vacation with her, and says she does not understand this disappearing act.",
       "anchored_artifacts": [
@@ -2973,8 +2973,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1937",
-      "ref": "C-1937",
+      "@id": "C-4118",
+      "ref": "C-4118",
       "label": "Three sources corroborated Bibi Netanyahu funding offer",
       "claim": "The host says three different sources who would have knowledge of it confirmed to her that Bibi Netanyahu did make an offer to fund Turning Point USA to the next level.",
       "anchored_artifacts": [
@@ -2993,8 +2993,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1938",
-      "ref": "C-1938",
+      "@id": "C-4114",
+      "ref": "C-4114",
       "label": "Andrew Kolvet told Candace Bibi offered to take TPUSA to next level",
       "claim": "The host says Andrew Kolvet told her verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and that Charlie turned that money down.",
       "anchored_artifacts": [
@@ -3015,8 +3015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-3741",
-      "ref": "C-3741",
+      "@id": "C-4115",
+      "ref": "C-4115",
       "label": "Host Says Some of the Paid Campaigns Attacking Her Are Paid by PragerU",
       "claim": "The host says she has the names of people in paid campaigns attacking her, that some are paid by PR firms and \"too many\" are paid by PragerU, and that she knows Marissa (N-334) there.",
       "anchored_artifacts": [],
@@ -3035,8 +3035,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1939",
-      "ref": "C-1939",
+      "@id": "C-4076",
+      "ref": "C-4076",
       "label": "Rob McCoy does not work for TPUSA in any capacity",
       "claim": "The host says she was surprised to learn that Rob McCoy does not work with Turning Point USA in any capacity, and that she had assumed he did because he called himself \"America's pastor\" at the memorial and his Wikipedia entry said he started Turning Point USA Faith.",
       "anchored_artifacts": [
@@ -3055,8 +3055,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1940",
-      "ref": "C-1940",
+      "@id": "C-4072",
+      "ref": "C-4072",
       "label": "Host Says TPUSA Defended Terryl Farnsworth's Camera Removal",
       "claim": "The host says Turning Point USA echoed and defended Terryl Farnsworth's account that they were trying something new that day: they normally livestream tour-stop events but not outdoor \"prove me wrong\" events, and the new livestream required Terryl.",
       "anchored_artifacts": [
@@ -3075,8 +3075,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1941",
-      "ref": "C-1941",
+      "@id": "C-4080",
+      "ref": "C-4080",
       "label": "Andrew Kolvet posted surgeon \"man of steel\" bullet description",
       "claim": "The host says Andrew Kolvet posted a tweet saying he spoke with the surgeon, and reads a quote she calls allegedly from the surgeon: Charlie Kirk's bone was so healthy and dense that he was \"like the man of steel\" and the bullet should have gone through and through.",
       "anchored_artifacts": [
@@ -3095,8 +3095,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1942",
-      "ref": "C-1942",
+      "@id": "C-4081",
+      "ref": "C-4081",
       "label": "Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet",
       "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that they did not know he was going to write the tweet or that he had called up the surgeon.",
       "anchored_artifacts": [
@@ -3115,8 +3115,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1943",
-      "ref": "C-1943",
+      "@id": "C-4135",
+      "ref": "C-4135",
       "label": "Tim Pool previously said Candace has no security",
       "claim": "Approximately one week prior, Tim Pool stated Candace Owens had no security beyond one guard and a 4-foot wall at a suburban residence.",
       "anchored_artifacts": [
@@ -3135,8 +3135,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1944",
-      "ref": "C-1944",
+      "@id": "C-4136",
+      "ref": "C-4136",
       "label": "Tim Pool now claims Candace uses same security as Charlie Kirk",
       "claim": "In a clip the host plays, Tim Pool says Candace Owens has used the same security personnel and security companies as Charlie and Erika Kirk.",
       "anchored_artifacts": [
@@ -3157,8 +3157,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1945",
-      "ref": "C-1945",
+      "@id": "C-4140",
+      "ref": "C-4140",
       "label": "Candace used different security from the start via Shafer Security",
       "claim": "Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shaffer Security, operated by Greg Shaffer, employing Dan Flood and Brian Harpole.",
       "anchored_artifacts": [
@@ -3180,8 +3180,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1946",
-      "ref": "C-1946",
+      "@id": "C-4141",
+      "ref": "C-4141",
       "label": "No cease and desist received from Charlie's security",
       "claim": "Candace has received no cease and desist from Charlie Kirk's security apparatus over security-related claims.",
       "anchored_artifacts": [
@@ -3199,8 +3199,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1947",
-      "ref": "C-1947",
+      "@id": "C-4128",
+      "ref": "C-4128",
       "label": "New York Post alleged Candace threw car keys at Daily Wire producer",
       "claim": "New York Post article reported an anonymous source claim that Candace threw her car keys at a Daily Wire producer in her first week.",
       "anchored_artifacts": [
@@ -3218,8 +3218,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1948",
-      "ref": "C-1948",
+      "@id": "C-4129",
+      "ref": "C-4129",
       "label": "Candace never drove her car to Daily Wire",
       "claim": "Candace Owens states she never drove her car to the Daily Wire during her tenure; she had a driver.",
       "anchored_artifacts": [
@@ -3237,8 +3237,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1949",
-      "ref": "C-1949",
+      "@id": "C-4127",
+      "ref": "C-4127",
       "label": "Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship",
       "claim": "Per Candace, her husband's Wikipedia page was changed to say he had a Qatari passport or citizenship, which she says is made up; she says he has never been to Qatar and does not think he has ever flown over it.",
       "anchored_artifacts": [
@@ -3257,8 +3257,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1950",
-      "ref": "C-1950",
+      "@id": "C-4153",
+      "ref": "C-4153",
       "label": "Clip Cites Turkey Tom Video on Robinson Discord Messaging Style",
       "claim": "In a clip the host plays, a speaker addressing Viva Frei points to a video by Turkey Tom in which, he says, someone authenticated as having been in the Discord chats with Tyler Robinson and his partner, and who apparently spent time with them at the apartment, said \"100%\" this is how they talked.",
       "anchored_artifacts": [
@@ -3276,8 +3276,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1951",
-      "ref": "C-1951",
+      "@id": "C-4158",
+      "ref": "C-4158",
       "label": "George Zinn allegedly told nurses he was paid to pose as shooter",
       "claim": "Per Candace, George Zinn, who was treated at Utah Valley, said he told the nurses that he was paid to do that.",
       "anchored_artifacts": [
@@ -3295,8 +3295,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1952",
-      "ref": "C-1952",
+      "@id": "C-4156",
+      "ref": "C-4156",
       "label": "Kash Patel allegedly angry at Gabbard and Kent over terrorist-angle probe",
       "claim": "In a clip the host plays, a speaker says that allegedly the rumors are that Kash Patel is getting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential terrorist angle to the Kirk case.",
       "anchored_artifacts": [
@@ -3316,8 +3316,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1953",
-      "ref": "C-1953",
+      "@id": "C-4173",
+      "ref": "C-4173",
       "label": "Erika confirmed Charlie was attending mass and reportedly planning conversion",
       "claim": "Answering a viewer's question about Charlie's journey to Catholicism, the host says Erika obviously confirmed it, that Charlie was going to mass, and that from what she has been told, which is third party, he was planning on signing up and starting that process.",
       "anchored_artifacts": [
@@ -3336,8 +3336,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1954",
-      "ref": "C-1954",
+      "@id": "C-4111",
+      "ref": "C-4111",
       "label": "Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet",
       "claim": "The host says Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.",
       "anchored_artifacts": [
@@ -3357,8 +3357,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1955",
-      "ref": "C-1955",
+      "@id": "C-4150",
+      "ref": "C-4150",
       "label": "Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field",
       "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Sypher as TPUSA's head of field.",
       "anchored_artifacts": [
@@ -3376,8 +3376,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1956",
-      "ref": "C-1956",
+      "@id": "C-4149",
+      "ref": "C-4149",
       "label": "Charlie Kirk Show segment asserted August 27 had full location",
       "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker says TPUSA had posted the UVU courtyard location on its website as early as August 27.",
       "anchored_artifacts": [
@@ -3392,8 +3392,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1957",
-      "ref": "C-1957",
+      "@id": "C-4151",
+      "ref": "C-4151",
       "label": "Candace identifies September 2 KAMYU as first public location mention",
       "claim": "The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KMYU said Charlie Kirk was speaking in the courtyard.",
       "anchored_artifacts": [
@@ -3411,8 +3411,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1958",
-      "ref": "C-1958",
+      "@id": "C-4152",
+      "ref": "C-4152",
       "label": "TPUSA/UVU/BYU August 27 graphic had no location details",
       "claim": "Per Candace, the August 27 TPUSA/UVU/BYU chapter graphic announcing the event contained no location details.",
       "anchored_artifacts": [
@@ -3427,8 +3427,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1959",
-      "ref": "C-1959",
+      "@id": "C-4162",
+      "ref": "C-4162",
       "label": "Charlie Kirk direct quotation on asking questions",
       "claim": "Candace reads a direct Charlie Kirk quotation: \"You better keep asking questions, because it's the only thing that keeps us free.\"",
       "anchored_artifacts": [
@@ -3444,8 +3444,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14003",
-      "ref": "C-14003",
+      "@id": "C-4054",
+      "ref": "C-4054",
       "label": "Host Cites Kanye West Tweet About Firing His Manager",
       "claim": "The host says Kanye West tweeted years ago that he had just fired his manager because he realized he could not be managed, and that she identifies with it.",
       "anchored_artifacts": [],
@@ -3463,8 +3463,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14004",
-      "ref": "C-14004",
+      "@id": "C-4055",
+      "ref": "C-4055",
       "label": "Host Says TPUSA Side Told Her There Were No Rules and Any Question Was Allowed",
       "claim": "The host says that in the 4 hour 30 minute meeting the TPUSA side told her she could ask any question on her mind, and that Justin Streiff and Erika Kirk were the TPUSA side present.",
       "anchored_artifacts": [],
@@ -3485,8 +3485,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14005",
-      "ref": "C-14005",
+      "@id": "C-4057",
+      "ref": "C-4057",
       "label": "Host Says Streiff and Erika Were Most Upset About Her Godforsaken Company Tweet",
       "claim": "The host says Justin Streiff opened by asking what the aim of the conversation was, and that he and Erika Kirk were most upset about her tweet calling TPUSA a godforsaken company that people should not give money to, which she concedes was aggressive.",
       "anchored_artifacts": [],
@@ -3508,8 +3508,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14006",
-      "ref": "C-14006",
+      "@id": "C-4058",
+      "ref": "C-4058",
       "label": "Host Says Alex Clark and Kolvet Podcast Interview Was Aimed at Her Without Naming Her",
       "claim": "The host says that after her Catholicism remark in the tribute, Alex Clark and Andrew Kolvet gave a podcast interview that was clearly aimed at her, and that they teased it without ever saying her name.",
       "anchored_artifacts": [],
@@ -3523,7 +3523,7 @@
       "investigative_direction": "Retrieve the Alex Clark and Kolvet interview and its promotional teases and check whether the host is named.",
       "transcript_snippet": "Alex Clark and Andrew Kolvet then jump onto a podcast, and they're doing that weird interview, which is clearly aimed at me.",
       "supports_claim_refs": [
-        "C-12022"
+        "C-692"
       ],
       "mentions_person_refs": [
         "N-99",
@@ -3533,8 +3533,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14007",
-      "ref": "C-14007",
+      "@id": "C-4059",
+      "ref": "C-4059",
       "label": "Host Says TPUSA Told Her Erika Never Authorized Anyone to Call the Catholicism Claim a Lie",
       "claim": "The host says TPUSA's answer in the meeting was that it was a crazy time, a new system had to be put in place, and Erika did not give any person the authority to say the Catholicism claim was a lie.",
       "anchored_artifacts": [],
@@ -3555,8 +3555,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14008",
-      "ref": "C-14008",
+      "@id": "C-4060",
+      "ref": "C-4060",
       "label": "Host Says TPUSA Described Itself as a Company of 650 Employees and Owned Miscommunications",
       "claim": "The host says Erika Kirk owned the miscommunications from various people at the company, explaining that TPUSA employs 650 people, everyone was emotional, and that anything posted on Twitter is assumed to come down from management.",
       "anchored_artifacts": [],
@@ -3577,8 +3577,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14009",
-      "ref": "C-14009",
+      "@id": "C-4061",
+      "ref": "C-4061",
       "label": "Host Says Erika Told Glenn Beck That Charlie Never Texted Anyone the Night Before",
       "claim": "The host says that in her Glenn Beck interview, in a portion that went viral, Erika Kirk said she had Charlie's phone and that Charlie never texted anybody the night before saying he thought they were going to kill him.",
       "anchored_artifacts": [
@@ -3594,7 +3594,7 @@
       "investigative_direction": "Locate the Glenn Beck interview clip and compare Erika Kirk's wording with her later acknowledgment of the Kolvet and Flood messages.",
       "transcript_snippet": "it was Erika saying that she had Charlie's phone, and that Charlie never texted anybody the night before saying that he thought that they were going to kill him.",
       "contradicts_claim_refs": [
-        "C-1926"
+        "C-4063"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3605,8 +3605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14010",
-      "ref": "C-14010",
+      "@id": "C-4065",
+      "ref": "C-4065",
       "label": "Host Says She Got the Text Claim Directly From Kolvet and Clarified on Jimmy Dore",
       "claim": "The host says that on the Jimmy Dore show she clarified that Andrew Kolvet told her he was one of the people who received the night-before text message, and that she got it directly from Kolvet and not from a source.",
       "anchored_artifacts": [
@@ -3629,8 +3629,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14011",
-      "ref": "C-14011",
+      "@id": "C-4066",
+      "ref": "C-4066",
       "label": "Host Says Her Dan Flood Text Came From Someone With Access to His Communications",
       "claim": "The host says a person who had access to Dan Flood's communications told her Flood similarly received a text message the night before, and that she never saw the message herself.",
       "anchored_artifacts": [],
@@ -3650,8 +3650,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14012",
-      "ref": "C-14012",
+      "@id": "C-4067",
+      "ref": "C-4067",
       "label": "Host Says TPUSA Checked Charlie's Records Only After Hearing Her Claim",
       "claim": "The host says Erika Kirk told her that when she heard the host say it, TPUSA went and looked and confirmed that Kolvet and Dan Flood each received a message the night before.",
       "anchored_artifacts": [],
@@ -3665,7 +3665,7 @@
       "investigative_direction": "Ask TPUSA when the review of Charlie Kirk's device was done and by whom.",
       "transcript_snippet": "they then went and looked, and yes, that what I said was true. Uh Andrew Kolvet received a message the night before, and Dan Flood received a message the night before.",
       "supports_claim_refs": [
-        "C-1926"
+        "C-4063"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -3676,8 +3676,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14013",
-      "ref": "C-14013",
+      "@id": "C-4068",
+      "ref": "C-4068",
       "label": "Host Says She Cannot Confirm Whether Flood's Text Said the Left or They",
       "claim": "The host says she cannot confirm Dan Flood's message said the left is going to kill me because she did not see it and was told it said they, so she has to trust TPUSA on the wording.",
       "anchored_artifacts": [],
@@ -3691,7 +3691,7 @@
       "investigative_direction": "Obtain the original Flood message from his device or from TPUSA to settle the wording.",
       "transcript_snippet": "I can't confirm that one way or the other. I have to trust them on that because I did not see that concrete message. I was told that it said they.",
       "qualifies_claim_refs": [
-        "C-1927"
+        "C-4064"
       ],
       "mentions_person_refs": [
         "N-270",
@@ -3700,8 +3700,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14014",
-      "ref": "C-14014",
+      "@id": "C-4069",
+      "ref": "C-4069",
       "label": "Host Says Erika Told Her She Did Not Ask Her to Stop Because She Was Learning From the Show",
       "claim": "The host says Erika Kirk told her the reason she did not ask the host to stop in the beginning was that she was actually learning things from the show, and that the host thinks Erika similarly felt Weiss was trying to create a moment.",
       "anchored_artifacts": [],
@@ -3723,8 +3723,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14015",
-      "ref": "C-14015",
+      "@id": "C-4070",
+      "ref": "C-4070",
       "label": "Host Says Bari Weiss Picked the Questions and the Event Was Planned",
       "claim": "The host says Bari Weiss picked the audience questions, which were not random, and that it was all very much planned by Weiss.",
       "anchored_artifacts": [],
@@ -3745,8 +3745,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14016",
-      "ref": "C-14016",
+      "@id": "C-4071",
+      "ref": "C-4071",
       "label": "Host Says Erika Knew the General Idea but Not the Specific Podcaster Question",
       "claim": "The host says Erika Kirk told her she knew the general idea that the event would mention the host and conspiracies, but was not given the specific podcaster Candace Owens question.",
       "anchored_artifacts": [],
@@ -3767,8 +3767,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14017",
-      "ref": "C-14017",
+      "@id": "C-4073",
+      "ref": "C-4073",
       "label": "Host Says Terryl Farnsworth Lied to Her Several Times",
       "claim": "The host says her skin crawled after she spoke to Terryl Farnsworth, the person who took the cameras down, that he lied to her several times, and that she told TPUSA she did not understand why he was there that day.",
       "anchored_artifacts": [],
@@ -3782,7 +3782,7 @@
       "investigative_direction": "Obtain the host's recorded exchange with Farnsworth and compare his statements with TPUSA's account of the livestream test.",
       "transcript_snippet": "my skin crawled after I spoke to Terryl Farnsworth, the person who took the cameras down. He lied to me several times.",
       "supports_claim_refs": [
-        "C-9302"
+        "C-1130"
       ],
       "mentions_person_refs": [
         "N-261",
@@ -3791,8 +3791,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14018",
-      "ref": "C-14018",
+      "@id": "C-4074",
+      "ref": "C-4074",
       "label": "Host Says Bowyer's Claim That Police Wanted the Camera Taken Down Is Not True",
       "claim": "The host says Tyler Bowyer tweeted that Terryl Farnsworth took the camera down because the police wanted it down and the footage secured, and that she told TPUSA she knows this is not true.",
       "anchored_artifacts": [],
@@ -3814,8 +3814,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14019",
-      "ref": "C-14019",
+      "@id": "C-4075",
+      "ref": "C-4075",
       "label": "Host Says TPUSA Told Her an Officer or Fed Asked Farnsworth to Secure Footage After the Cameras Were Down",
       "claim": "The host says TPUSA told her that after Farnsworth took the cameras down a police officer or fed asked him to secure the footage, which she says makes sense but is not a reason he took them down immediately.",
       "anchored_artifacts": [],
@@ -3835,8 +3835,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14020",
-      "ref": "C-14020",
+      "@id": "C-4077",
+      "ref": "C-4077",
       "label": "Host Says She Was Wrong That Rob McCoy Worked for TPUSA",
       "claim": "The host says she had assumed Rob McCoy worked for Turning Point USA and, learning he does not work with TPUSA in any capacity, says she was just wrong and will correct it.",
       "anchored_artifacts": [],
@@ -3850,10 +3850,10 @@
       "investigative_direction": "Check TPUSA and TPUSA Faith payroll, contract and filing records for any payments to Rob McCoy.",
       "transcript_snippet": "So, I guess, to be clear, we were just wrong about that and I will have a lot more to say about Rob McCoy",
       "supports_claim_refs": [
-        "C-1939"
+        "C-4076"
       ],
       "revises_claim_refs": [
-        "C-6517"
+        "C-1955"
       ],
       "mentions_person_refs": [
         "N-17",
@@ -3862,8 +3862,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14021",
-      "ref": "C-14021",
+      "@id": "C-4078",
+      "ref": "C-4078",
       "label": "Host Says McCoy Called Himself America's Pastor and Had Wikipedia Updated",
       "claim": "The host says Rob McCoy hit the stage at the memorial and said he was America's pastor, and that she assumes he had Wikipedia updated to say he started Turning Point USA Faith.",
       "anchored_artifacts": [],
@@ -3884,8 +3884,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14022",
-      "ref": "C-14022",
+      "@id": "C-4079",
+      "ref": "C-4079",
       "label": "Host Recalls Saying She Saw Footage With No Blood Before the Kolvet Tweet",
       "claim": "The host says she casually said on her show that she had seen the footage and there was no blood, and that Andrew Kolvet then put out a tweet about what happened with the bullet.",
       "anchored_artifacts": [],
@@ -3905,8 +3905,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14023",
-      "ref": "C-14023",
+      "@id": "C-4082",
+      "ref": "C-4082",
       "label": "Host Says Kolvet Was Not One of the People Who Got Into the Hospital",
       "claim": "The host says Andrew Kolvet was not one of the people who got into the hospital, so it is inappropriate and strange for the PR person to be calling the surgeon.",
       "anchored_artifacts": [],
@@ -3927,8 +3927,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14024",
-      "ref": "C-14024",
+      "@id": "C-4083",
+      "ref": "C-4083",
       "label": "Host Says TPUSA Did Not Approve or Know About Harpole's Shawn Ryan Interview",
       "claim": "The host says she believes TPUSA when it says it did not approve of Brian Harpole's Shawn Ryan interview and had no idea he was going on the show.",
       "anchored_artifacts": [
@@ -3952,8 +3952,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14025",
-      "ref": "C-14025",
+      "@id": "C-4084",
+      "ref": "C-4084",
       "label": "Host Says She Does Not Believe Harpole Works at TPUSA Anymore",
       "claim": "The host says she does not believe Brian Harpole works at Turning Point USA anymore.",
       "anchored_artifacts": [
@@ -3975,8 +3975,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14026",
-      "ref": "C-14026",
+      "@id": "C-4085",
+      "ref": "C-4085",
       "label": "Host Says She Told TPUSA She Wanted to Be Able to Say Tyler Robinson Shot Charlie",
       "claim": "The host says she told TPUSA she wanted to walk out of the meeting able to tell her audience that, despite things going on behind the scenes, Tyler Robinson shot Charlie Kirk.",
       "anchored_artifacts": [],
@@ -3998,8 +3998,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14027",
-      "ref": "C-14027",
+      "@id": "C-4087",
+      "ref": "C-4087",
       "label": "Host Says TPUSA Has Access to UVU Cameras",
       "claim": "The host says TPUSA has access to UVU cameras, so it is plausible they have seen clear footage of Tyler Robinson taking the shot, which she hoped to hear about.",
       "anchored_artifacts": [],
@@ -4021,8 +4021,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14028",
-      "ref": "C-14028",
+      "@id": "C-4088",
+      "ref": "C-4088",
       "label": "Host Says TPUSA Called Its Lawyer and What She Heard Did Not Make Her Confident Robinson Shot Charlie",
       "claim": "The host says that when she asked why TPUSA is confident in Tyler Robinson's guilt, they called a lawyer involved in the case, and what she got from the lawyer did not make her feel that Robinson shot Charlie Kirk.",
       "anchored_artifacts": [],
@@ -4036,7 +4036,7 @@
       "investigative_direction": "Identify the lawyer and the party he represents; compare with public filings in the case.",
       "transcript_snippet": "what I got from the lawyer did not make me feel that Tyler Robinson shot Charlie Kirk.",
       "supports_claim_refs": [
-        "C-1928"
+        "C-4086"
       ],
       "mentions_person_refs": [
         "N-40",
@@ -4046,8 +4046,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14029",
-      "ref": "C-14029",
+      "@id": "C-4089",
+      "ref": "C-4089",
       "label": "Host Says She Offered Not to Disclose Specifics if TPUSA Had Something Solid",
       "claim": "The host says she offered the lawyer that, if he told her TPUSA had the footage of Robinson taking the shot, she would not repeat the specifics to the audience but would say that TPUSA had something solid, and that he said they had nothing but the affidavit.",
       "anchored_artifacts": [],
@@ -4061,7 +4061,7 @@
       "investigative_direction": "Ask the lawyer to confirm the exchange; this can only be verified through the participants.",
       "transcript_snippet": "I'm not going to if you say, 'We've got the footage of him taking the shot.' I'm I promise I won't say that to the audience, but I will communicate to them that you have something that is solid.",
       "supports_claim_refs": [
-        "C-1928"
+        "C-4086"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4070,8 +4070,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14030",
-      "ref": "C-14030",
+      "@id": "C-4090",
+      "ref": "C-4090",
       "label": "Host Says the Lawyer Told Her Victims Like Erika Are Not Told Investigators' Findings Until May",
       "claim": "The host says the lawyer told her that information on what investigators have found is not shared with the victim, including Erika Kirk, at this stage and she will not know until the May hearing.",
       "anchored_artifacts": [],
@@ -4085,7 +4085,7 @@
       "investigative_direction": "Check Utah victim-rights procedure and the court calendar for the May hearing.",
       "transcript_snippet": "they don't actually share that information with the victim. They don't share that information with Erika.",
       "supports_claim_refs": [
-        "C-1929"
+        "C-4091"
       ],
       "mentions_person_refs": [
         "N-2",
@@ -4094,8 +4094,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14031",
-      "ref": "C-14031",
+      "@id": "C-4092",
+      "ref": "C-4092",
       "label": "Host Says She Does Not Believe Tyler Robinson Pulled the Trigger",
       "claim": "The host says she is very confident, opposite to her well-paid peers, that she does not believe Tyler Robinson pulled the trigger, until the state shows more than the affidavit.",
       "anchored_artifacts": [],
@@ -4116,8 +4116,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14032",
-      "ref": "C-14032",
+      "@id": "C-4094",
+      "ref": "C-4094",
       "label": "Host Says the Rooftop-Filming Witness Trains People to Shoot at a Range",
       "claim": "The host says the witness who filmed the person on the roof is not a random student but a man who trains people to shoot guns at a range.",
       "anchored_artifacts": [],
@@ -4131,7 +4131,7 @@
       "investigative_direction": "Identify the witness and verify his occupation and his video.",
       "transcript_snippet": "This is a guy who trains people to shoot guns at a range. He knows guns, okay?",
       "supports_claim_refs": [
-        "C-1930"
+        "C-4095"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -4139,8 +4139,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14033",
-      "ref": "C-14033",
+      "@id": "C-4096",
+      "ref": "C-4096",
       "label": "Host Says Both Video Witnesses Told Her Investigators Never Contacted Them",
       "claim": "The host says that both of the people who filmed videos that day told her they were not reached out to by investigators.",
       "anchored_artifacts": [],
@@ -4159,8 +4159,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14034",
-      "ref": "C-14034",
+      "@id": "C-4097",
+      "ref": "C-4097",
       "label": "Host Says TPUSA Side Replied Investigators Need Not Check the Witness Because the Video Speaks for Itself",
       "claim": "The host says the TPUSA side replied that investigators may not need to talk to the witness because their video will speak for itself, which she calls a good rebuttal while still not understanding their confidence.",
       "anchored_artifacts": [],
@@ -4179,8 +4179,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14035",
-      "ref": "C-14035",
+      "@id": "C-4098",
+      "ref": "C-4098",
       "label": "Host Says TPUSA Came to the Meeting With Paperwork Including Mikey's Call Logs",
       "claim": "The host says TPUSA brought Mikey McCoy's call logs and other paperwork to answer and explain certain things, which is why she calls the meeting productive.",
       "anchored_artifacts": [
@@ -4203,8 +4203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14036",
-      "ref": "C-14036",
+      "@id": "C-4100",
+      "ref": "C-4100",
       "label": "Blake Neff Clip Has Mikey Calling His Father and Telling Him to Call His Pastor Friends",
       "claim": "In the Blake Neff clip the host plays, Neff says Mikey McCoy immediately called his dad, Rob McCoy, and told him someone shot Charlie and he needed to call all of his pastor friends.",
       "anchored_artifacts": [
@@ -4227,8 +4227,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14037",
-      "ref": "C-14037",
+      "@id": "C-4102",
+      "ref": "C-4102",
       "label": "Host Says the Public Was Told Over and Over That Mikey's First Call Was to Erika",
       "claim": "The host says she feels the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had, as she put it, almost gone to a camp and trained.",
       "anchored_artifacts": [],
@@ -4249,8 +4249,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14038",
-      "ref": "C-14038",
+      "@id": "C-4103",
+      "ref": "C-4103",
       "label": "Host Says Mikey Did Not Follow the Reported Training and First Called His Wife",
       "claim": "The host says that despite accounts that Mikey was trained so that Charlie told him to go fast, Mikey did not do what was described; the first person he called was his wife, Elizabeth McCoy.",
       "anchored_artifacts": [],
@@ -4264,10 +4264,10 @@
       "investigative_direction": "Compare the call-log sequence with Kolvet's account of the emergency-call training.",
       "transcript_snippet": "Well, he didn't do that. Actually, the first person he called was his wife. He called Elizabeth McCoy.",
       "contradicts_claim_refs": [
-        "C-1499"
+        "C-1896"
       ],
       "supports_claim_refs": [
-        "C-1932"
+        "C-4104"
       ],
       "mentions_person_refs": [
         "N-190",
@@ -4278,8 +4278,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14039",
-      "ref": "C-14039",
+      "@id": "C-4106",
+      "ref": "C-4106",
       "label": "Host Says Neff's Call Log Shows a 45-Second Call to His Mother Ending Around 12:25",
       "claim": "The host says Blake Neff gave his call log, showing a 45-second call to his mother, which she says puts the end of that call at about 12:25 and possibly still in 12:24.",
       "anchored_artifacts": [
@@ -4301,8 +4301,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14040",
-      "ref": "C-14040",
+      "@id": "C-4107",
+      "ref": "C-4107",
       "label": "Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log",
       "claim": "The host says Mikey McCoy three-wayed a third person she declines to name, and adds that Danny McCoy is his brother in the military, with that contact being before the shot.",
       "anchored_artifacts": [],
@@ -4322,8 +4322,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14041",
-      "ref": "C-14041",
+      "@id": "C-4108",
+      "ref": "C-4108",
       "label": "Host Says Mikey Added Erika Only After Neff's Call to His Mother Ended",
       "claim": "The host says the call logs show Mikey McCoy added Erika to the call after Blake Neff ended his call with his mother, which she says contradicts Neff's account that Mikey called Erika first and then Neff called his mom.",
       "anchored_artifacts": [],
@@ -4337,8 +4337,8 @@
       "investigative_direction": "Align Mikey's and Neff's logs to the second against the shot time.",
       "transcript_snippet": "Mikey called Erika after Blake Neff ended that phone call with his mother.",
       "supports_claim_refs": [
-        "C-1935",
-        "C-1933"
+        "C-4101",
+        "C-4105"
       ],
       "mentions_person_refs": [
         "N-190",
@@ -4349,8 +4349,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14042",
-      "ref": "C-14042",
+      "@id": "C-4110",
+      "ref": "C-4110",
       "label": "Host Says Mikey's Brother Called Back a Minute After He Ended the Call With His Wife",
       "claim": "The host says Mikey McCoy ended the call with his wife and a minute later his brother called him back and they stayed on the phone for 10 minutes.",
       "anchored_artifacts": [],
@@ -4371,8 +4371,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14043",
-      "ref": "C-14043",
+      "@id": "C-4112",
+      "ref": "C-4112",
       "label": "Host Says Erika Told Her She Was Not Aware of the Netanyahu Offer",
       "claim": "The host says Erika Kirk said she was not aware of Bibi Netanyahu's offer to fund Turning Point to the next level, and that it may have been kept in the business lane at TPUSA.",
       "anchored_artifacts": [],
@@ -4393,8 +4393,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14044",
-      "ref": "C-14044",
+      "@id": "C-4113",
+      "ref": "C-4113",
       "label": "Host Says Kolvet Told Alex Clark the $150 Million Was Made Up",
       "claim": "The host says that in the sit-down with Alex Clark, Andrew Kolvet said there was not a $150 million and that it was made up.",
       "anchored_artifacts": [],
@@ -4408,7 +4408,7 @@
       "investigative_direction": "Retrieve the Alex Clark interview and compare Kolvet's wording with the host's account.",
       "transcript_snippet": "Andrew said, \"Oh, there was not a $150 million. That's made up.\"",
       "supports_claim_refs": [
-        "C-1256"
+        "C-704"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -4418,8 +4418,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14045",
-      "ref": "C-14045",
+      "@id": "C-4116",
+      "ref": "C-4116",
       "label": "Host Says She Never Said $150 Million",
       "claim": "The host says she never said $150 million, not once on her show, and that three sources with knowledge confirmed the Netanyahu offer.",
       "anchored_artifacts": [],
@@ -4434,7 +4434,7 @@
       "investigative_direction": "Search the host's published episodes for any use of the $150 million figure.",
       "transcript_snippet": "I never said $150 million ever, not once on this show.",
       "supports_claim_refs": [
-        "C-12030"
+        "C-702"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4443,8 +4443,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14046",
-      "ref": "C-14046",
+      "@id": "C-4117",
+      "ref": "C-4117",
       "label": "Host Says Netanyahu's Call to Charlie Was Never Denied and Netanyahu Himself Shared It",
       "claim": "The host says nobody has denied that Netanyahu called Charlie, and that Netanyahu shared the fact himself, so her source could just as well have been Netanyahu.",
       "anchored_artifacts": [],
@@ -4466,8 +4466,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14047",
-      "ref": "C-14047",
+      "@id": "C-4119",
+      "ref": "C-4119",
       "label": "Host Says People Misread a Spreadsheet Column as Erika's Exact Location",
       "claim": "The host says that when she shared the Egyptian planes spreadsheet, people assumed one column, which showed where the planes landed within plus or minus 3 days, was exactly where Erika had been, and that this was inaccurate.",
       "anchored_artifacts": [
@@ -4484,7 +4484,7 @@
       "investigative_direction": "Publish the spreadsheet and timeline with the date windows made explicit.",
       "transcript_snippet": "people assumed that that one of the columns, which was actually saying where the planes landed on that day, cuz it was plus or minus 3 days, was exactly where Erika had been on that day, and that was inaccurate.",
       "qualifies_claim_refs": [
-        "C-1720"
+        "C-2917"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4493,8 +4493,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14048",
-      "ref": "C-14048",
+      "@id": "C-4120",
+      "ref": "C-4120",
       "label": "Host Says the Egyptian Planes Were Tracking TPUSA Faith and Broader Events",
       "claim": "The host says she is certain the Egyptian planes are shady and were in fact tracking Turning Point USA Faith and broader events, that Erika and Charlie were at some of them, and that the pattern is undeniable.",
       "anchored_artifacts": [
@@ -4511,7 +4511,7 @@
       "investigative_direction": "Overlay the planes' landing dates with TPUSA event dates in the promised interactive timeline.",
       "transcript_snippet": "I'm certain that these Egyptian planes are incredibly shady and that they were in fact tracking Turning Point USA Faith Broader events.",
       "supports_claim_refs": [
-        "C-1545"
+        "C-2074"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4521,8 +4521,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14049",
-      "ref": "C-14049",
+      "@id": "C-4121",
+      "ref": "C-4121",
       "label": "Host Says the Egyptian Planes Fly In and Out of Israel With Their Transponders Off",
       "claim": "The host says that after connecting people on the planes to other Egyptian planes she realized the planes are flying in and out of Israel and turning their transponders off each time, and says she will present the evidence the next day.",
       "anchored_artifacts": [],
@@ -4542,8 +4542,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14050",
-      "ref": "C-14050",
+      "@id": "C-4122",
+      "ref": "C-4122",
       "label": "Host Says She Will Show How the Egyptian Planes Tie Back to Israel the Next Day",
       "claim": "The host says that she will show the next day how the Egyptian planes tie back to Israel and that there is no disproving it.",
       "anchored_artifacts": [],
@@ -4563,8 +4563,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14051",
-      "ref": "C-14051",
+      "@id": "C-4123",
+      "ref": "C-4123",
       "label": "Host Corrects That the Caller Was Another Charlie Assistant Named Danny, Not Danny McCoy",
       "claim": "The host says she should correct her earlier statement: the person on the call log was not Danny McCoy but Danny, another one of Charlie's assistants.",
       "anchored_artifacts": [],
@@ -4578,7 +4578,7 @@
       "investigative_direction": "Identify the assistant named Danny and confirm his role with TPUSA.",
       "transcript_snippet": "it is not Danny McCoy. It is Danny, another one of Charlie's assistants.",
       "revises_claim_refs": [
-        "C-14040"
+        "C-4107"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -4586,8 +4586,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14052",
-      "ref": "C-14052",
+      "@id": "C-4124",
+      "ref": "C-4124",
       "label": "Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close",
       "claim": "The host says the attacks on her have become hysterical, read like Candace Owens fan fiction, and that many viewers sense this is because she is getting close.",
       "anchored_artifacts": [],
@@ -4604,8 +4604,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14053",
-      "ref": "C-14053",
+      "@id": "C-4125",
+      "ref": "C-4125",
       "label": "Host Says Her Husband's Wikipedia Was Changed to Say He Was Qatari",
       "claim": "The host says her husband's Wikipedia page was changed to say he was a Qatari with a Qatari passport or citizenship, and that she knows he has never been to Qatar.",
       "anchored_artifacts": [],
@@ -4620,7 +4620,7 @@
       "investigative_direction": "Review the Wikipedia edit history for the page for the relevant edit and editor.",
       "transcript_snippet": "they changed my my husband's Wikipedia. It said that he was a Qatari, like he had a Qatari passport or citizenship.",
       "supports_claim_refs": [
-        "C-1949"
+        "C-4127"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4629,8 +4629,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14054",
-      "ref": "C-14054",
+      "@id": "C-4126",
+      "ref": "C-4126",
       "label": "Host Says the New York Post Article Says She Is Sadistic and Dangerous",
       "claim": "The host says the New York Post ran an article titled Inside Candace Owens's sadistic and dangerous world, monetizing baseless conspiracies, which she says she and her PR person laughed at.",
       "anchored_artifacts": [
@@ -4651,8 +4651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14055",
-      "ref": "C-14055",
+      "@id": "C-4130",
+      "ref": "C-4130",
       "label": "Host Says She Does Her Own Shows and the Post's Research Claim Is False",
       "claim": "The host says the New York Post's claim that she demanded others do her research is false, and that she has always done her own shows, cannot read a script and riffs.",
       "anchored_artifacts": [],
@@ -4666,7 +4666,7 @@
       "investigative_direction": "Obtain the Post article and its sourcing; compare with past Daily Wire accounts of her show preparation.",
       "transcript_snippet": "I have always always done my own shows. I I can't I can't read a script. I riff my shows.",
       "supports_claim_refs": [
-        "C-1948"
+        "C-4129"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -4674,8 +4674,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14056",
-      "ref": "C-14056",
+      "@id": "C-4131",
+      "ref": "C-4131",
       "label": "Host Says She Never Discussed a People Magazine Cover",
       "claim": "The host says the Post's claim that she demanded a huge studio and attempted to use their PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine.",
       "anchored_artifacts": [],
@@ -4694,8 +4694,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14057",
-      "ref": "C-14057",
+      "@id": "C-4132",
+      "ref": "C-4132",
       "label": "Host Says Her Team Came With Her When She Was Fired",
       "claim": "The host says the Post's source claim that her team hated her is false, because her team came with her when she was fired from the Daily Wire and her whole team is still with her.",
       "anchored_artifacts": [],
@@ -4714,8 +4714,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14058",
-      "ref": "C-14058",
+      "@id": "C-4133",
+      "ref": "C-4133",
       "label": "Host Says She Told Erika She Believes Charlie Was Betrayed by People Close to Him",
       "claim": "The host says she believes Charlie was betrayed by people close to him and asked Erika Kirk in the meeting how TPUSA can so confidently say nobody inside had anything to do with it.",
       "anchored_artifacts": [],
@@ -4736,8 +4736,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14059",
-      "ref": "C-14059",
+      "@id": "C-4134",
+      "ref": "C-4134",
       "label": "Host Says Erika Answered That the Charlie Circle Is All Her Family",
       "claim": "The host says Erika Kirk responded that she did not want to come across as a feminist and that the people around Charlie are all her family, to which the host replied that she knows people in that family and they are not good people.",
       "anchored_artifacts": [],
@@ -4758,8 +4758,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14060",
-      "ref": "C-14060",
+      "@id": "C-4137",
+      "ref": "C-4137",
       "label": "Tim Pool Says People Are Filing Legal Paperwork Against the Host",
       "claim": "In the clip, Tim Pool says people are filing legal paperwork against the host and that litigation will begin if she goes on her show and lies about the security.",
       "anchored_artifacts": [
@@ -4782,8 +4782,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14061",
-      "ref": "C-14061",
+      "@id": "C-4138",
+      "ref": "C-4138",
       "label": "Host Says She Told Charlie She Did Not Like the Security Apparatus",
       "claim": "The host says she told Charlie she did not like the security apparatus and got her own security from the very beginning, separate from his.",
       "anchored_artifacts": [],
@@ -4797,7 +4797,7 @@
       "investigative_direction": "Review any messages between the host and Charlie Kirk about security and the host's security contracts.",
       "transcript_snippet": "I told Charlie I did not like the security apparatus. I got my own security separate from Charlie from the very beginning, okay?",
       "supports_claim_refs": [
-        "C-1945"
+        "C-4140"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -4806,8 +4806,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14062",
-      "ref": "C-14062",
+      "@id": "C-4139",
+      "ref": "C-4139",
       "label": "Host Says She Ignored Demands to Correct From Brigitte Macron and Kim Klacik Because She Told the Truth",
       "claim": "The host says that if she ignored a demand to correct her statements, as she did with Brigitte Macron and Kim Klacik because she told the truth, then the sender would have grounds to file, but Charlie's security sent no such demand.",
       "anchored_artifacts": [],
@@ -4829,8 +4829,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14063",
-      "ref": "C-14063",
+      "@id": "C-4142",
+      "ref": "C-4142",
       "label": "Host Says Harpole's Shown Message Belonged to Flood and No Walk-Through Was Done",
       "claim": "The host says she accurately said the Brian Harpole message that was shown belonged to Dan Flood, and that they did not do a walk-through of the venue that day.",
       "anchored_artifacts": [],
@@ -4852,8 +4852,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14064",
-      "ref": "C-14064",
+      "@id": "C-4143",
+      "ref": "C-4143",
       "label": "Host Says There Is Something at Fort Huachuca That Caused a Panic",
       "claim": "The host says there is something at Fort Huachuca that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes.",
       "anchored_artifacts": [],
@@ -4873,8 +4873,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14065",
-      "ref": "C-14065",
+      "@id": "C-4144",
+      "ref": "C-4144",
       "label": "Host Says TPUSA Violated a Ceasefire by Airing the Case on Its Daily Show",
       "claim": "The host says she thought neither side was supposed to be doing live streams while talks were underway, that TPUSA's continued daily show was not communicated to her, that it felt like a ceasefire that got violated, and that the Charlie Kirk Show discussed the Tyler Robinson trial the day before.",
       "anchored_artifacts": [],
@@ -4895,8 +4895,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14066",
-      "ref": "C-14066",
+      "@id": "C-4145",
+      "ref": "C-4145",
       "label": "Kirk Show Speaker Reads Charging Document Saying Robinson Became More Political and Leaned Left",
       "claim": "A speaker on the Charlie Kirk Show reads from the charging document that Robinson's mother said Robinson had become more political over the last year, leaning left and becoming more pro-gay and trans rights oriented, and had begun dating his roommate.",
       "anchored_artifacts": [
@@ -4917,8 +4917,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14067",
-      "ref": "C-14067",
+      "@id": "C-4146",
+      "ref": "C-4146",
       "label": "Kirk Show Reading Says Robinson Called the UVU Event a Stupid Venue and Accused Kirk of Spreading Hate",
       "claim": "The Charlie Kirk Show reading of the charging document says that in one conversation before the shooting, Robinson said Charlie Kirk would hold an event at UVU, called it a stupid venue, and accused Kirk of spreading hate.",
       "anchored_artifacts": [
@@ -4941,8 +4941,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14068",
-      "ref": "C-14068",
+      "@id": "C-4147",
+      "ref": "C-4147",
       "label": "Kirk Show Speaker Says Easy Rooftop Access Shows Robinson Had a Plan",
       "claim": "A speaker on the Charlie Kirk Show says that when you see how easy the rooftop access is you realize Robinson had a plan he was going to take advantage of, and that he obviously knew how easy it was to get on the roof.",
       "anchored_artifacts": [
@@ -4964,8 +4964,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14069",
-      "ref": "C-14069",
+      "@id": "C-4148",
+      "ref": "C-4148",
       "label": "Kirk Show Speaker Says Charlie Sometimes Announced Outdoor Events 7 to 10 Days in Advance",
       "claim": "A speaker on the Charlie Kirk Show says that Andrew Sypher, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.",
       "anchored_artifacts": [
@@ -4987,8 +4987,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14070",
-      "ref": "C-14070",
+      "@id": "C-4154",
+      "ref": "C-4154",
       "label": "Clip Speaker Says Robinson Was Radicalized Around the Same Time as Crooks and Routh",
       "claim": "A speaker in the Kirk Show clip, addressed as Viva, says that Tyler Robinson was radicalized at about the same time as Thomas Crooks and Ryan Routh, and near the time of the alleged January 6 pipe bomber, a politically useful period.",
       "anchored_artifacts": [
@@ -5012,8 +5012,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14071",
-      "ref": "C-14071",
+      "@id": "C-4155",
+      "ref": "C-4155",
       "label": "Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan",
       "claim": "A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zinn knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.",
       "anchored_artifacts": [
@@ -5037,8 +5037,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14072",
-      "ref": "C-14072",
+      "@id": "C-4157",
+      "ref": "C-4157",
       "label": "Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid",
       "claim": "The host says she broke the story that the nurses at Utah Valley, which treated George Zinn, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.",
       "anchored_artifacts": [],
@@ -5052,7 +5052,7 @@
       "investigative_direction": "Locate the host's earlier episode with the nurse account and the source for it.",
       "transcript_snippet": "I broke the story that the nurses were told at Utah Valley, which treated George Zinn.",
       "supports_claim_refs": [
-        "C-1951"
+        "C-4158"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -5061,8 +5061,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14073",
-      "ref": "C-14073",
+      "@id": "C-4159",
+      "ref": "C-4159",
       "label": "Host Says It May Be the First Time Kolvet Said the Robinson Messages Seemed Weird",
       "claim": "The host says it might be the first time Andrew Kolvet has expressed that he thought the Robinson messages were weird initially, and that she welcomes TPUSA giving air to different perspectives.",
       "anchored_artifacts": [],
@@ -5083,8 +5083,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14074",
-      "ref": "C-14074",
+      "@id": "C-4161",
+      "ref": "C-4161",
       "label": "Host Says Megyn Kelly Offered to Ref the Conversation Before the Bari Weiss Moment",
       "claim": "The host says Megyn Kelly, who was initially going to ref the conversation when it was going to be livestreamed and before the Bari Weiss moment, offered to ref it.",
       "anchored_artifacts": [],
@@ -5105,8 +5105,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14075",
-      "ref": "C-14075",
+      "@id": "C-4160",
+      "ref": "C-4160",
       "label": "Host Says Blake Neff Fumbled the First Invite",
       "claim": "The host says her side had been trying to make the sit-down happen in the background since Blake Neff fumbled the first invite, and that public flak pushed TPUSA to fix it.",
       "anchored_artifacts": [],
@@ -5126,8 +5126,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14076",
-      "ref": "C-14076",
+      "@id": "C-4163",
+      "ref": "C-4163",
       "label": "Host Says Offers and Threats Were Made Over the Last Two Years and She Did Not Sell Out",
       "claim": "The host says that if she were going to sell out it would have happened in the last 2 years, that offers and threats were made, and that she would not stop investigating for the highest bidder.",
       "anchored_artifacts": [],
@@ -5144,8 +5144,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14077",
-      "ref": "C-14077",
+      "@id": "C-4164",
+      "ref": "C-4164",
       "label": "Host Says Charlie's Hands Were Not Charred When He Was Buried",
       "claim": "The host says that Baron Coleman's electrocution video shows hands that look charred in the photos, but that she can say Charlie's hands were not charred when he was buried, on the word of a person she trusts.",
       "anchored_artifacts": [
@@ -5168,8 +5168,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14078",
-      "ref": "C-14078",
+      "@id": "C-4165",
+      "ref": "C-4165",
       "label": "Host Says Coleman's Fort Huachuca Video Made Her Notice Things and Sparked Collaboration",
       "claim": "The host says she watched a video by Baron Coleman building on her Fort Huachuca work, it made her notice some things, and they started researching other elements, which is why they plan to collaborate.",
       "anchored_artifacts": [
@@ -5191,8 +5191,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14079",
-      "ref": "C-14079",
+      "@id": "C-4166",
+      "ref": "C-4166",
       "label": "Host Says Coleman Heavily Suggested JD Vance Could Have Been on the Base",
       "claim": "The host says Baron Coleman suggested in his episode, which she wants to shut down, that it could have been Vance on the base.",
       "anchored_artifacts": [
@@ -5215,8 +5215,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14080",
-      "ref": "C-14080",
+      "@id": "C-4167",
+      "ref": "C-4167",
       "label": "Host Says Video of Vance Shows He Could Not Have Been at the Base",
       "claim": "The host says she researched the Vance suggestion and found video of Vance, so it could not have been Vance on the base.",
       "anchored_artifacts": [
@@ -5239,8 +5239,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14081",
-      "ref": "C-14081",
+      "@id": "C-4168",
+      "ref": "C-4168",
       "label": "Host Says Neff's Offer Was Not a True Offer and Erika Went Through Megyn Kelly",
       "claim": "The host says the combined conversation was first meant to be live, that the offer Blake Neff made was not a true offer, and that Erika then communicated with Megyn Kelly and the host, with Kelly as intermediary.",
       "anchored_artifacts": [],
@@ -5262,8 +5262,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14082",
-      "ref": "C-14082",
+      "@id": "C-4169",
+      "ref": "C-4169",
       "label": "Host Says Streiff Proposed a Private Conversation to Lower the Temperature",
       "claim": "The host says Justin Streiff said the temperature was a little hot and proposed a private rather than live conversation, which she says brought the temperature down, though she says she was always open to live-streaming.",
       "anchored_artifacts": [],
@@ -5283,8 +5283,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14083",
-      "ref": "C-14083",
+      "@id": "C-4170",
+      "ref": "C-4170",
       "label": "Host Says She Told TPUSA Things She Has Not Yet Said Publicly to Fact-Check",
       "claim": "The host says that because the conversation was not live she was able to tell TPUSA things she had not yet said publicly so she could fact-check them, and that some relate to Charlie's research and 9/10.",
       "anchored_artifacts": [],
@@ -5304,8 +5304,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14084",
-      "ref": "C-14084",
+      "@id": "C-4171",
+      "ref": "C-4171",
       "label": "Host Says Erika Said She Did Not See the Night-Before Messages and Feds Were Not Discussed",
       "claim": "The host says they did not discuss whether the feds received the night-before messages, and that Erika said she did not see those messages.",
       "anchored_artifacts": [],
@@ -5325,8 +5325,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14085",
-      "ref": "C-14085",
+      "@id": "C-4172",
+      "ref": "C-4172",
       "label": "Host Says She Saw and Spoke to No TPUSA Employees at Tucker's Christmas Party",
       "claim": "The host says that, to her knowledge, she did not see or speak with any Turning Point USA employees at Tucker Carlson's Christmas party, which she attended because she has never had beef with Tucker or Marjorie Taylor Greene.",
       "anchored_artifacts": [],
@@ -5348,8 +5348,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14086",
-      "ref": "C-14086",
+      "@id": "C-4174",
+      "ref": "C-4174",
       "label": "Host Says She Had Catholicism Conversations With Charlie While He Was Attending Mass",
       "claim": "The host says Erika confirmed it and that they know Charlie was going to mass, that she herself had those conversations with him while he was attending mass, and that his plan to start the process is third-party information she cannot confirm.",
       "anchored_artifacts": [],
@@ -5363,7 +5363,7 @@
       "investigative_direction": "Ask Erika Kirk or the parish about Charlie's attendance and any conversion steps.",
       "transcript_snippet": "I can only speak on the fact that I wasn't lying. And that I was having those conversations with him while he was attending mass.",
       "supports_claim_refs": [
-        "C-12023"
+        "C-693"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -5373,8 +5373,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14087",
-      "ref": "C-14087",
+      "@id": "C-4175",
+      "ref": "C-4175",
       "label": "Host Says Qatar Said It Worked With Hamas Because Israel and the US Asked It To",
       "claim": "The host says Qatar recently said it works with Hamas because Israel and the United States asked it to act as intermediary, and that she tends to believe that.",
       "anchored_artifacts": [],
@@ -5395,8 +5395,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-14088",
-      "ref": "C-14088",
+      "@id": "C-4176",
+      "ref": "C-4176",
       "label": "Host Says Jared Kushner Was Recently Allowed to Do Deals in Qatar",
       "claim": "The host says Jared Kushner and Zionists are allowed to go to Qatar, which she says happened recently, and do deals, while she and Tucker are not.",
       "anchored_artifacts": [],

@@ -19,9 +19,8 @@
   - Hole-minted Nodes (reintro-ep003): N-10047, N-10077, N-10134, N-10138, N-10456
   - Tip-minted Nodes (reintro-ep003): N-11227
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13491–C-13599
+  - Claim Range: C-154–C-299
   - Artifact Families Introduced: A-1095, A-1096, A-1097, A-1098, A-1099, A-1100, A-1101, A-1102, A-1103, A-2516
-  - Claim Range: C-1144-C-1174, C-3721-C-3725
   - New Nodes Introduced: N-54, N-55, N-56, N-57, N-58, N-59, N-60, N-61, N-62, N-63, N-64, N-65, N-66, N-67, N-68, N-10029, N-10030, N-10031, N-10032, N-10033, N-10034, N-10035, N-10036
   - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-32, N-36, N-37, N-38, N-39, N-40, N-42, N-46, N-10000, N-10012, N-3, N-30, N-41, N-10037, N-10011, N-10016, N-10018, N-10019, N-10020, N-10022, N-10023, N-10026, N-10268, N-10342, N-10345
 
@@ -36,56 +35,56 @@ CKA seq 3 walks through the newly released probable cause indictment against Tyl
 **A-1095.1** Indictment probable cause statement overview: 33-hour surrender, DNA on trigger, clothing discard, deletion request, count six for children present
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:06:49–00:08:30
-*Related: C-1144, C-1145, N-40, N-10031*
+*Related: C-162, C-177, N-40, N-10031*
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Confidence: high
 
 **A-1095.2** UVU surveillance footage description: suspect entry 11:51am, black American-flag shirt, cap, sunglasses, unusual gait, 12:15pm rooftop drop
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:08:45–00:11:21
-*Related: C-1146, C-1147, N-40, N-10012*
+*Related: C-169, C-166, N-40, N-10012*
 Transcript Snippet: at approximately 11:51 a.m., the suspect had entered campus from the north
 Confidence: high
 
 **A-1095.3** Rifle recovery narrative: bolt-action rifle wrapped in towel, one spent round, three unspent rounds, found in wooded area northeast of campus
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:11:57–00:12:31
-*Related: C-1148, N-40*
+*Related: C-175, N-40*
 Transcript Snippet: investigators found a boltaction rifle wrapped in a towel
 Confidence: high
 
 **A-1095.4** Bullet casing inscriptions: 'Hey fascist catch', 'Oh Bella cow', 'if you read this you are gay Lmo'
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:12:40–00:12:58
-*Related: C-1149, N-40*
+*Related: C-176, N-40*
 Transcript Snippet: Hey fascist catch...Oh Bella cow...if you read this you are gay
 Confidence: high
 
 **A-1095.5** Robinson's mother statement: recognized shooter photo from news as resembling son, contacted husband
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:13:50–00:14:40
-*Related: C-1150, C-1153, N-40*
+*Related: C-179, C-181, N-40*
 Transcript Snippet: she saw the photo of the shooter in the news and thought that the shooter looked like her son
 Confidence: high
 
 **A-1095.6** Robinson's father statement: agreed shooter looked like son, rifle matched gift to Tyler, asked for photo, spoke by phone, implied self-harm
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:15:07–00:16:13
-*Related: C-1151, N-40*
+*Related: C-184, N-40*
 Transcript Snippet: he agreed that it looked like their son...the rifle that was given to his son as a gift
 Confidence: high
 
 **A-1095.7** Self-surrender narrative: family convinced Robinson not to self-harm, retired deputy sheriff family friend facilitated turn-in, parents accompanied
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:16:00–00:16:37
-*Related: C-1152, N-40*
+*Related: C-187, N-40*
 Transcript Snippet: convince Robinson to speak with a family friend who happens to be a retired deputy sheriff
 Confidence: high
 
 **A-1095.8** Tyler Robinson to Lance Twiggs text chain: 'Drop what you are doing and look under my keyboard', 'I had the opportunity to take out Charlie Kirk', 'they grabbed some crazy old dude'
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:20:02–00:26:59
-*Related: C-1154, C-1155, N-40, N-54, N-10030, N-67*
+*Related: C-194, C-193, N-40, N-54, N-10030, N-67*
 Transcript Snippet: Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk
 Confidence: high
 Uncertainty: Indictment does not give timestamps; host flags this as conspicuous.
@@ -93,7 +92,7 @@ Uncertainty: Indictment does not give timestamps; host flags this as conspicuous
 **A-1095.9** Roommate interview with police: roommate is biological male in romantic relationship with Robinson, provided text messages to police
 Event Timestamp: 2025-09-11
 Video Timestamp: 00:19:03–00:19:24
-*Related: C-1154, C-1156, N-40, N-54*
+*Related: C-194, C-182, N-40, N-54*
 Transcript Snippet: Police interviewed Robinson's roommate, a biological male who was involved in a romantic relationship
 Confidence: high
 
@@ -104,7 +103,7 @@ Confidence: high
 **A-1096.1** News article: 'Man arrested for allegedly faking confession to Charlie Kirk's killing'; booked on obstruction plus child abuse images on cell phone
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:04:03–00:04:16
-*Related: C-1157, C-1158, N-42, N-10032*
+*Related: C-156, C-157, N-42, N-10032*
 Transcript Snippet: Man arrested for allegedly faking confession to Charlie Kirk's killing. George Zinn...child abuse
 Confidence: high
 
@@ -115,7 +114,7 @@ Confidence: high
 **A-1097.1** On-scene arrest video clip of 71-year-old George Zinn claiming credit for Kirk shooting
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:03:26–00:03:33
-*Related: C-1157, N-42, N-10032*
+*Related: C-156, N-42, N-10032*
 Transcript Snippet: let's just take a look at this clip of him being arrested in the aftermath of the shooting
 Confidence: high
 
@@ -126,7 +125,7 @@ Confidence: high
 **A-1098.1** Bill Ackman's 955-word tweet response to Candace's Hamptons episode, includes meeting origin story, itinerary, denial of intervention framing
 Event Timestamp: 2025-09
 Video Timestamp: 00:45:41–00:51:31
-*Related: C-1159, C-1160, C-1161, N-37, N-10033, N-10037*
+*Related: C-243, C-253, C-283, N-37, N-10033, N-10037*
 Transcript Snippet: Amman's 955word response...this was not an intervention to blackmail Charlie into adopting certain views
 Confidence: high
 
@@ -137,7 +136,7 @@ Confidence: high
 **A-1099.1** Charlie Kirk on Megyn Kelly August 6, 2025 venting about being called antisemitic, pro-Israel camp losing propaganda war, Epstein-as-Mossad speculation, receiving texts calling him antisemite
 Event Timestamp: 2025-08-06
 Video Timestamp: 00:51:10–00:56:03
-*Related: C-1162, C-1163, N-1, N-46, N-10033*
+*Related: C-254, C-261, N-1, N-46, N-10033*
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Confidence: high
 
@@ -148,7 +147,7 @@ Confidence: high
 **A-1100.1** May 2025 letter from Charlie Kirk to Benjamin Netanyahu referenced by Bill Ackman as 'glowing'
 Event Timestamp: 2025-05
 Video Timestamp: 00:49:19–00:49:28
-*Related: C-1164, N-1, N-36, N-37*
+*Related: C-251, N-1, N-36, N-37*
 Transcript Snippet: the letter Charlie wrote him in May was just like a glowing
 Confidence: medium
 Uncertainty: Letter content not shown; only referenced.
@@ -160,7 +159,7 @@ Uncertainty: Letter content not shown; only referenced.
 **A-1101.1** Village Crazy Lady X thread breaking down Bill Ackman's itinerary; confirms August 4-5 Hamptons meeting
 Event Timestamp: 2025-09
 Video Timestamp: 00:50:24–00:51:07
-*Related: C-1160, N-37, N-66, N-10033*
+*Related: C-253, N-37, N-66, N-10033*
 Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Confidence: high
 
@@ -171,7 +170,7 @@ Confidence: high
 **A-1102.1** Arynne Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event
 Event Timestamp: 2025-08-04
 Video Timestamp: 00:41:59–00:42:29
-*Related: C-1160, N-56, N-37, N-10033*
+*Related: C-253, N-56, N-37, N-10033*
 Transcript Snippet: Arynne Wexler sent out some of the invitations...first day of the retreat of which there were smaller meetings
 Confidence: medium
 
@@ -182,7 +181,7 @@ Confidence: medium
 **A-1103.1** Laura Loomer tweet thread from week before Charlie's death pressuring him to distance from Tucker Carlson, threatening company ruin
 Event Timestamp: 2025-09
 Video Timestamp: 01:01:54–01:02:23
-*Related: C-1165, N-60, N-22, N-1*
+*Related: C-280, N-60, N-22, N-1*
 Transcript Snippet: she tweeted this whole thread about how Charlie Kirk had to distance himself from Tucker Carlson
 Confidence: medium
 
@@ -194,7 +193,7 @@ Confidence: medium
 Video Timestamp: 01:11:27
 Transcript Snippet: ...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...
 Confidence: medium
-*Related: C-3634, N-3*
+*Related: C-289, N-3*
 
 ---
 
@@ -203,31 +202,31 @@ Confidence: medium
 
 **A-2516.1** Host statement that her genocide tweet referred to Brian Mast's remarks (verbal reference; no displayed artifact)
 Video Timestamp: 00:56:04–00:56:22
-*Related: C-3721, N-64*
+*Related: C-268, N-64*
 Transcript Snippet: I was referring to Brian Mast's remarks, but even if I wasn't and I just tweeted genocide is always wrong,
 Confidence: medium
 
 **A-2516.2** Host statement that Netanyahu appeared on Patrick Bet-David's, Brandon Tatum's and the Nelk Boys' podcasts but not the Charlie Kirk Show (verbal reference; no displayed artifact)
 Video Timestamp: 00:57:59–00:58:24
-*Related: C-3722, N-1, N-36, N-57, N-58, N-59*
+*Related: C-271, N-1, N-36, N-57, N-58, N-59*
 Transcript Snippet: He went on to Brandon Tatum's podcast. He went on to the Nelk Boys podcast.
 Confidence: medium
 
 **A-2516.3** Host recollection of the Sarah Stockton ring debate among Hamptons attendees (verbal reference; no displayed artifact)
 Video Timestamp: 01:00:23–01:00:56
-*Related: C-3723, N-63, N-10000*
+*Related: C-278, N-63, N-10000*
 Transcript Snippet: I think her name was Sarah Stockton.
 Confidence: medium
 
 **A-2516.4** Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Moutsos, read on air (verbal reference; no displayed artifact)
 Video Timestamp: 01:12:13–01:12:37
-*Related: C-3724, N-41, N-42, N-61, N-62*
+*Related: C-291, N-41, N-42, N-61, N-62*
 Transcript Snippet: Eric Moutsos was the LEO and has dealt with Zinn in the past.
 Confidence: medium
 
 **A-2516.5** Host reference to Jamie Lee Curtis crying over the assassination (verbal reference; no displayed artifact)
 Video Timestamp: 01:15:12–01:15:31
-*Related: C-3725, N-65*
+*Related: C-298, N-65*
 Transcript Snippet: I'm going to show you guys tomorrow like Jamie Lee Curtis,
 Confidence: medium
 
@@ -244,7 +243,7 @@ Video Timestamp: 01:13:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13594*
+*Related: C-293*
 
 ---
 
@@ -257,7 +256,7 @@ Video Timestamp: 01:13:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13595*
+*Related: C-294*
 
 ---
 
@@ -270,7 +269,7 @@ Video Timestamp: 01:14:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13597*
+*Related: C-296*
 
 ---
 
@@ -285,7 +284,7 @@ Video Timestamp: 01:04:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13588, C-13589*
+*Related: C-285, C-286*
 
 ---
 
@@ -300,7 +299,7 @@ Video Timestamp: 01:01:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13584*
+*Related: C-279*
 
 ---
 
@@ -313,7 +312,7 @@ Video Timestamp: 00:29:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13536, C-13537, C-13538, C-13539, C-13540, C-13541, C-13542, C-13543, C-13593*
+*Related: C-215, C-219, C-221, C-222, C-223, C-225, C-226, C-228, C-292*
 
 ---
 
@@ -324,7 +323,7 @@ Confidence Level: Low
 Node Type: Person
 Deceased; subject of investigation.
 
-*Related: A-1099.1, A-1100.1, C-1162, C-1163, C-1164, C-1165, C-1174*
+*Related: A-1099.1, A-1100.1, C-254, C-261, C-251, C-280, C-269*
 
 ---
 
@@ -333,7 +332,7 @@ Deceased; subject of investigation.
 Node Type: Person
 Host of Candace Kirk Archive series.
 
-*Related: A-1095.1, A-1098.1, C-1144*
+*Related: A-1095.1, A-1098.1, C-162*
 
 
 
@@ -344,7 +343,7 @@ Host of Candace Kirk Archive series.
 Node Type: Person
 Indicted shooter.
 
-*Related: A-1095.1, A-1095.2, A-1095.3, A-1095.4, A-1095.5, A-1095.6, A-1095.7, A-1095.8, A-1095.9, C-1144, C-1145, C-1146, C-1147, C-1148, C-1149, C-1150, C-1151, C-1152, C-1153, C-1154, C-1155, C-1156, C-1170, C-1171, C-1172*
+*Related: A-1095.1, A-1095.2, A-1095.3, A-1095.4, A-1095.5, A-1095.6, A-1095.7, A-1095.8, A-1095.9, C-162, C-177, C-169, C-166, C-175, C-176, C-179, C-184, C-187, C-181, C-194, C-193, C-182, C-216, C-227, C-173*
 
 ---
 
@@ -353,7 +352,7 @@ Indicted shooter.
 Node Type: Person
 Robinson's romantic partner and roommate; provided text messages to police.
 
-*Related: A-1095.8, A-1095.9, C-1154, C-1156, C-1166, C-1167, C-1168, C-1169, C-1170, C-1171, C-1155*
+*Related: A-1095.8, A-1095.9, C-194, C-182, C-217, C-218, C-220, C-224, C-216, C-227, C-193*
 
 ---
 
@@ -362,7 +361,7 @@ Robinson's romantic partner and roommate; provided text messages to police.
 Node Type: Person
 71-year-old alleged decoy confessor; obstruction of justice and child abuse image charges.
 
-*Related: A-1096.1, A-1097.1, C-1157, C-1158*
+*Related: A-1096.1, A-1097.1, C-156, C-157*
 
 ---
 
@@ -371,7 +370,7 @@ Node Type: Person
 Node Type: Person
 Utah Governor; host flags earlier statements as inconsistent with indictment (light shorts/maroon shirt).
 
-*Related: A-1095.1, C-1172*
+*Related: A-1095.1, C-173*
 
 ---
 
@@ -380,7 +379,7 @@ Utah Governor; host flags earlier statements as inconsistent with indictment (li
 Node Type: Person
 Hedge fund manager; hosted Hamptons retreat; issued 955-word tweet response.
 
-*Related: A-1098.1, A-1101.1, A-1102.1, C-1159, C-1160, C-1161, C-1164*
+*Related: A-1098.1, A-1101.1, A-1102.1, C-243, C-253, C-283, C-251*
 
 ---
 
@@ -389,7 +388,7 @@ Hedge fund manager; hosted Hamptons retreat; issued 955-word tweet response.
 Node Type: Person
 Israeli Prime Minister; subject of Charlie Kirk May 2025 letter.
 
-*Related: A-1100.1, C-1164*
+*Related: A-1100.1, C-251*
 
 ---
 
@@ -398,7 +397,7 @@ Israeli Prime Minister; subject of Charlie Kirk May 2025 letter.
 Node Type: Person
 Reportedly pressed Charlie on Israel at Hamptons retreat.
 
-*Related: C-1173*
+*Related: C-239*
 
 ---
 
@@ -407,7 +406,7 @@ Reportedly pressed Charlie on Israel at Hamptons retreat.
 Node Type: Person
 Reportedly part of beehive pressuring Charlie about conference guests.
 
-*Related: C-1173*
+*Related: C-239*
 
 ---
 
@@ -416,7 +415,7 @@ Reportedly part of beehive pressuring Charlie about conference guests.
 Node Type: Person
 Speaker at America Fest; subject of pressure complaints.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 
 
@@ -427,7 +426,7 @@ Speaker at America Fest; subject of pressure complaints.
 Node Type: Person
 Subject of pressure campaign to distance from Charlie.
 
-*Related: A-1103.1, C-1165*
+*Related: A-1103.1, C-280*
 
 ---
 
@@ -436,7 +435,7 @@ Subject of pressure campaign to distance from Charlie.
 Node Type: Person
 Reportedly sent Hamptons retreat invitations.
 
-*Related: A-1102.1, C-1160*
+*Related: A-1102.1, C-253*
 
 ---
 
@@ -445,7 +444,7 @@ Reportedly sent Hamptons retreat invitations.
 Node Type: Person
 Interviewer of Charlie Kirk August 6, 2025.
 
-*Related: A-1099.1, C-1162*
+*Related: A-1099.1, C-254*
 
 ---
 
@@ -454,7 +453,7 @@ Interviewer of Charlie Kirk August 6, 2025.
 Node Type: Person
 Podcaster Netanyahu appeared on.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 
 
@@ -465,7 +464,7 @@ Podcaster Netanyahu appeared on.
 Node Type: Person
 Podcaster Netanyahu appeared on.
 
-*Related: A-2516.2, C-3722*
+*Related: A-2516.2, C-271*
 
 
 
@@ -476,7 +475,7 @@ Podcaster Netanyahu appeared on.
 Node Type: Person
 Podcast Netanyahu appeared on.
 
-*Related: A-2516.2, C-3722*
+*Related: A-2516.2, C-271*
 
 
 
@@ -487,7 +486,7 @@ Podcast Netanyahu appeared on.
 Node Type: Person
 Issued tweet thread pressuring Charlie to distance from Tucker.
 
-*Related: A-1103.1, C-1165*
+*Related: A-1103.1, C-280*
 
 ---
 
@@ -496,7 +495,7 @@ Issued tweet thread pressuring Charlie to distance from Tucker.
 Node Type: Person
 Republican candidate chosen by delegates who ran against Cox.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 
 
@@ -507,7 +506,7 @@ Republican candidate chosen by delegates who ran against Cox.
 Node Type: Person
 LEO commenter noted to have dealt with Zinn in the past.
 
-*Related: A-2516.4, C-3724*
+*Related: A-2516.4, C-291*
 
 
 
@@ -518,7 +517,7 @@ LEO commenter noted to have dealt with Zinn in the past.
 Node Type: Person
 Charlie's widow; one of two people Candace cites as able to silence her.
 
-*Related: A-1095.8, A-1095.9, C-1154*
+*Related: A-1095.8, A-1095.9, C-194*
 
 ---
 
@@ -527,7 +526,7 @@ Charlie's widow; one of two people Candace cites as able to silence her.
 Node Type: Person
 Hamptons attendee whose engagement ring generated drama.
 
-*Related: A-2516.3, C-3723*
+*Related: A-2516.3, C-278*
 
 
 
@@ -538,7 +537,7 @@ Hamptons attendee whose engagement ring generated drama.
 Node Type: Person
 Subject of Candace's prior Israel-pressure recollection.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 
 
@@ -549,7 +548,7 @@ Subject of Candace's prior Israel-pressure recollection.
 Node Type: Person
 Subject of a tweet Candace referenced about genocide.
 
-*Related: A-2516.1, C-3721*
+*Related: A-2516.1, C-268*
 
 
 
@@ -560,7 +559,7 @@ Subject of a tweet Candace referenced about genocide.
 Node Type: Person
 Mentioned as left-leaning figure moved by Kirk's death.
 
-*Related: A-2516.5, C-3725*
+*Related: A-2516.5, C-298*
 
 
 
@@ -580,7 +579,7 @@ Referenced in Charlie Kirk Mossad speculation.
 Node Type: Person
 X poster who broke down Bill Ackman's itinerary.
 
-*Related: A-1101.1, C-1160*
+*Related: A-1101.1, C-253*
 
 ---
 
@@ -600,7 +599,7 @@ In-house director on Candace Owens' show, called on air by first name (seq 27 ro
 Node Type: Person
 Producer referenced retrieving tweet screenshots.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 
 
@@ -611,7 +610,7 @@ Producer referenced retrieving tweet screenshots.
 Node Type: Person
 One of two people Candace cites as able to silence her.
 
-*Related: A-1095.5, C-1150*
+*Related: A-1095.5, C-179*
 
 ---
 
@@ -621,7 +620,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Shooting site; surveillance footage source.
 
-*Related: A-1095.2, C-1146, C-1147*
+*Related: A-1095.2, C-169, C-166*
 
 ---
 
@@ -631,7 +630,7 @@ Node Type: Organization
 Organization Kind: government_agency
 Robinson surrender location.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 ---
 
@@ -641,7 +640,7 @@ Node Type: Organization
 Organization Kind: nonprofit
 Charlie's organization; subject of donor pressure allegations.
 
-*Related: C-1174*
+*Related: C-269*
 
 ---
 
@@ -651,7 +650,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Indictment omits timestamps on Robinson-to-Lance texts; host flags as investigative gap.
 
-*Related: A-1095.8, C-1155, C-1154*
+*Related: A-1095.8, C-193, C-194*
 
 ---
 
@@ -661,7 +660,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Repeated 33-hour figure in indictment; host flags as suspicious signaling.
 
-*Related: A-1095.1, C-1144*
+*Related: A-1095.1, C-162*
 
 ---
 
@@ -671,7 +670,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 George Zinn decoy arrest analysis; potential distraction mechanism.
 
-*Related: A-1096.1, A-1097.1, C-1157, C-1158*
+*Related: A-1096.1, A-1097.1, C-156, C-157*
 
 ---
 
@@ -681,7 +680,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Pressure on Charlie regarding Israel and conference guests at August 4-5 Hamptons retreat.
 
-*Related: A-1098.1, A-1099.1, A-1101.1, A-1102.1, C-1160, C-1162, C-1163, C-1161, C-1173*
+*Related: A-1098.1, A-1099.1, A-1101.1, A-1102.1, C-253, C-254, C-261, C-283, C-239*
 
 ---
 
@@ -691,7 +690,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Family-sourced allegations re: Lance Twiggs behavioral history, drug use, deep-web activity.
 
-*Related: C-1166, C-1167, C-1168*
+*Related: C-217, C-218, C-220*
 
 ---
 
@@ -701,7 +700,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Neighbor reports of unusual vehicles at Robinson/Twigs residence before shooting.
 
-*Related: C-1171*
+*Related: C-227*
 
 ---
 
@@ -711,7 +710,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Top Jewish donors demanded name removed from TPUSA building 48 hours before Charlie's death; reversed after death.
 
-*Related: C-1174*
+*Related: C-269*
 
 ---
 
@@ -721,7 +720,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Conspicuous omissions in Bill Ackman's tweet response; BB Netanyahu not addressed.
 
-*Related: A-1098.1, C-1159*
+*Related: A-1098.1, C-243*
 
 ---
 
@@ -729,7 +728,7 @@ Conspicuous omissions in Bill Ackman's tweet response; BB Netanyahu not addresse
 
 Media outlet; the host says it provided the footage of the suspect walking with a limp.
 
-*Related: C-13504*
+*Related: C-172*
 
 ---
 
@@ -737,7 +736,7 @@ Media outlet; the host says it provided the footage of the suspect walking with 
 
 Existing topic reused for the intervention claims.
 
-*Related: C-13559, C-13563*
+*Related: C-246, C-250*
 
 ---
 
@@ -745,7 +744,7 @@ Existing topic reused for the intervention claims.
 
 Existing topic reused for the host's account of invitations to Israel.
 
-*Related: C-13556, C-13562, C-13564, C-13578, C-13579*
+*Related: C-242, C-249, C-252, C-272, C-273*
 
 ---
 
@@ -753,7 +752,7 @@ Existing topic reused for the host's account of invitations to Israel.
 
 Existing topic reused for the disposed-clothes and outfit-change texts.
 
-*Related: C-13512, C-13525*
+*Related: C-189, C-204*
 
 ---
 
@@ -761,7 +760,7 @@ Existing topic reused for the disposed-clothes and outfit-change texts.
 
 Existing topic reused; the host notes the indictment no longer implies the rifle was taken apart.
 
-*Related: C-13501*
+*Related: C-168*
 
 ---
 
@@ -769,7 +768,7 @@ Existing topic reused; the host notes the indictment no longer implies the rifle
 
 Existing topic reused for the parents' account of the surrender.
 
-*Related: C-13509, C-13510, C-13511, C-13512, C-13529, C-13530, C-13531*
+*Related: C-185, C-186, C-188, C-189, C-208, C-209, C-210*
 
 ---
 
@@ -777,7 +776,7 @@ Existing topic reused for the parents' account of the surrender.
 
 Existing topic reused for the clip's Epstein-Mossad speculation.
 
-*Related: C-13567*
+*Related: C-257*
 
 ---
 
@@ -785,7 +784,7 @@ Existing topic reused for the clip's Epstein-Mossad speculation.
 
 Existing place reused for claims about Israel.
 
-*Related: C-13565, C-13566, C-13568, C-13569, C-13570, C-13573, C-13575, C-13576, C-13582*
+*Related: C-255, C-256, C-258, C-259, C-260, C-264, C-266, C-267, C-276*
 
 ---
 
@@ -793,7 +792,7 @@ Existing place reused for claims about Israel.
 
 Existing topic reused for donor pressure and financial threats.
 
-*Related: C-13546, C-13548, C-13549, C-13577, C-13581*
+*Related: C-231, C-233, C-234, C-270, C-275*
 
 ---
 
@@ -801,7 +800,7 @@ Existing topic reused for donor pressure and financial threats.
 
 Existing topic reused for the text chain and the host's authenticity doubts.
 
-*Related: C-13516, C-13517, C-13518, C-13519, C-13520, C-13521, C-13522, C-13523, C-13524, C-13525, C-13526, C-13527, C-13528, C-13529, C-13532, C-13533, C-13534, C-13594, C-13595, C-13596, C-13597, C-13598*
+*Related: C-195, C-196, C-197, C-198, C-199, C-200, C-201, C-202, C-203, C-204, C-205, C-206, C-207, C-208, C-211, C-212, C-213, C-293, C-294, C-295, C-296, C-297*
 
 ---
 
@@ -809,7 +808,7 @@ Existing topic reused for the text chain and the host's authenticity doubts.
 
 Existing topic reused for the weekend retreat claims.
 
-*Related: C-13491, C-13550, C-13551, C-13561, C-13563, C-13583, C-13587*
+*Related: C-154, C-235, C-236, C-248, C-250, C-277, C-284*
 
 ---
 
@@ -817,7 +816,7 @@ Existing topic reused for the weekend retreat claims.
 
 Existing topic reused for the engraved-bullet texts and viewer doubts.
 
-*Related: C-13527, C-13597, C-13598*
+*Related: C-206, C-296, C-297*
 
 ---
 
@@ -825,7 +824,7 @@ Existing topic reused for the engraved-bullet texts and viewer doubts.
 
 Existing topic reused for pressure over AmericaFest speakers.
 
-*Related: C-13548*
+*Related: C-233*
 
 ---
 
@@ -833,7 +832,7 @@ Existing topic reused for pressure over AmericaFest speakers.
 
 Existing topic reused for the unaddressed funding question.
 
-*Related: C-13562*
+*Related: C-249*
 
 ---
 
@@ -841,7 +840,7 @@ Existing topic reused for the unaddressed funding question.
 
 Existing topic reused for the Dillon exchange at the retreat.
 
-*Related: C-13547, C-13552*
+*Related: C-232, C-237*
 
 ---
 
@@ -849,7 +848,7 @@ Existing topic reused for the Dillon exchange at the retreat.
 
 Existing topic reused for Netanyahu skipping the Charlie Kirk Show.
 
-*Related: C-13578, C-13579*
+*Related: C-272, C-273*
 
 ---
 
@@ -857,7 +856,7 @@ Existing topic reused for Netanyahu skipping the Charlie Kirk Show.
 
 Existing topic reused for the host's hostile takeover framing.
 
-*Related: C-13580*
+*Related: C-274*
 
 ---
 
@@ -866,13 +865,13 @@ Existing topic reused for the host's hostile takeover framing.
 Node Type: Topic
 Bill Ackman's reported offer of a million dollars for information about the person who assassinated Charlie Kirk, as cited against the host by Laura Loomer in the host's account.
 
-*Related: C-13588, C-13589*
+*Related: C-285, C-286*
 
 ---
 
 ## 5. Claim Register
 
-**C-1144** Per Probable Cause Statement, Robinson Surrendered 33 Hours After Shooting
+**C-162** Per Probable Cause Statement, Robinson Surrendered 33 Hours After Shooting
 
 Claim Timestamp: 00:07:02
 Claim: Per the probable cause statement the host reads, Tyler James Robinson surrendered to the Washington County Sheriff's Office on September 11, 2025, approximately 33 hours after the shooting.
@@ -885,7 +884,7 @@ Investigative Direction: Verify surrender timestamp via sheriff's office records
 
 ---
 
-**C-1145** Per Probable Cause Statement, DNA Consistent with Robinson Was on Rifle Trigger
+**C-177** Per Probable Cause Statement, DNA Consistent with Robinson Was on Rifle Trigger
 
 Claim Timestamp: 00:12:50
 Claim: Per the probable cause statement the host reads, DNA consistent with Robinson was found on the rifle trigger and other parts of the rifle, plus the fired cartridge casing, two of three unfired cartridges and the towel.
@@ -897,7 +896,7 @@ Investigative Direction: Obtain forensic lab reports for chain of custody and ma
 
 ---
 
-**C-1146** Per Probable Cause Statement, Suspect Entered Campus at 11:51am in Dark American-Flag Shirt
+**C-169** Per Probable Cause Statement, Suspect Entered Campus at 11:51am in Dark American-Flag Shirt
 
 Claim Timestamp: 00:09:27
 Claim: Per the probable cause statement the host reads, UVU surveillance showed the suspect entering campus from the north at approximately 11:51am wearing a black shirt with an American flag, a dark cap and large sunglasses.
@@ -910,7 +909,7 @@ Investigative Direction: Compare indictment description to actual surveillance v
 
 ---
 
-**C-1147** Per Probable Cause Statement, Suspect Was on Roof by 12:15pm
+**C-166** Per Probable Cause Statement, Suspect Was on Roof by 12:15pm
 
 Claim Timestamp: 00:08:11
 Claim: Per the probable cause statement the host reads, a surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm; the host adds that, by her timeline, this is about eight minutes before the 12:23pm shot.
@@ -923,7 +922,7 @@ Investigative Direction: Cross-check roof timestamp against shot-time audio fore
 
 ---
 
-**C-1148** Per Probable Cause Statement, Bolt-Action Rifle Wrapped in Towel Was Found in Wooded Area
+**C-175** Per Probable Cause Statement, Bolt-Action Rifle Wrapped in Towel Was Found in Wooded Area
 
 Claim Timestamp: 00:11:57
 Claim: Per the probable cause statement the host reads, investigators found a bolt-action rifle wrapped in a towel in a wooded area at the northeast end of campus, with one spent round and three unspent rounds, and no shell casings were found on the roof.
@@ -935,7 +934,7 @@ Investigative Direction: Obtain crime scene photos and forensic report; verify r
 
 ---
 
-**C-1149** Per Probable Cause Statement, Cartridges Bore Inscriptions
+**C-176** Per Probable Cause Statement, Cartridges Bore Inscriptions
 
 Claim Timestamp: 00:12:40
 Claim: Per the probable cause statement the host reads, inscriptions on the cartridges read 'Hey fascist catch', 'Oh Bella cow', and 'if you read this you are gay Lmo'.
@@ -947,7 +946,7 @@ Investigative Direction: Request close-up images and chain of custody for the ca
 
 ---
 
-**C-1150** Robinson mother recognized shooter from news photo
+**C-179** Robinson mother recognized shooter from news photo
 
 Claim Timestamp: 00:13:50
 Claim: Per the probable cause statement the host reads, Robinson's mother told police she saw the news photo of the shooter on September 11 and thought it looked like her son; she called her son, then expressed concern to her husband.
@@ -959,7 +958,7 @@ Investigative Direction: Verify timing of news publication vs. mother's call via
 
 ---
 
-**C-1151** Robinson father matched rifle to gifted weapon
+**C-184** Robinson father matched rifle to gifted weapon
 
 Claim Timestamp: 00:15:07
 Claim: Per the probable cause statement the host reads, Robinson's father reported that he agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo of that rifle and Robinson did not respond.
@@ -971,7 +970,7 @@ Investigative Direction: Verify gift provenance, family communications, and any 
 
 ---
 
-**C-1152** Per Probable Cause Statement, Family Friend Retired Deputy Facilitated Surrender
+**C-187** Per Probable Cause Statement, Family Friend Retired Deputy Facilitated Surrender
 
 Claim Timestamp: 00:16:00
 Claim: Per the probable cause statement the host reads, Robinson's parents convinced him not to harm himself, and a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.
@@ -983,7 +982,7 @@ Investigative Direction: Confirm retired deputy's identity and role in surrender
 
 ---
 
-**C-1153** Robinson shifted politically left over last year
+**C-181** Robinson shifted politically left over last year
 
 Claim Timestamp: 00:14:26
 Claim: Per the probable cause statement the host reads, Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.
@@ -995,7 +994,7 @@ Investigative Direction: Compare against Robinson's social media history and fam
 
 ---
 
-**C-1154** Per Probable Cause Statement, Robinson Texted Lance About Keyboard Note
+**C-194** Per Probable Cause Statement, Robinson Texted Lance About Keyboard Note
 
 Claim Timestamp: 00:20:02
 Claim: Per the probable cause statement the host reads, Robinson texted his roommate Lance Twiggs 'Drop what you are doing and look under my keyboard', and Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
@@ -1008,7 +1007,7 @@ Investigative Direction: Verify text and note timestamps and original device scr
 
 ---
 
-**C-1155** Indictment omits timestamps on Tyler-Lance texts
+**C-193** Indictment omits timestamps on Tyler-Lance texts
 
 Claim Timestamp: 00:19:22
 Claim: The host says the indictment's text-message excerpt gives no time for the September 10, 2025 exchanges, and that from their content the messages must have been sent after Charlie Kirk was shot.
@@ -1022,7 +1021,7 @@ Investigative Direction: Obtain unredacted text logs with metadata from discover
 Tags: open_source_investigation
 ---
 
-**C-1156** Robinson dated roommate, biological male transitioning
+**C-182** Robinson dated roommate, biological male transitioning
 
 Claim Timestamp: 00:14:33
 Claim: Per the probable cause statement the host reads, Robinson's mother told police he began dating his roommate, a biological male transitioning genders.
@@ -1034,7 +1033,7 @@ Investigative Direction: Verify roommate's stated identity and timeline.
 
 ---
 
-**C-1157** George Zinn arrested for obstruction after decoy confession
+**C-156** George Zinn arrested for obstruction after decoy confession
 
 Claim Timestamp: 00:03:33
 Claim: The host says George Zinn, a 71-year-old man, jumped up after the Kirk shooting implying he did it, was arrested, and now faces obstruction of justice charges.
@@ -1047,7 +1046,7 @@ Investigative Direction: Obtain arrest affidavit and court records.
 
 ---
 
-**C-1158** Article Says Zinn Booked on Child Abuse Image Charge
+**C-157** Article Says Zinn Booked on Child Abuse Image Charge
 
 Claim Timestamp: 00:04:04
 Claim: Per the article the host reads, George Zinn, accused of obstructing justice, was also booked in connection with images on his cell phone related to child abuse following the obstruction arrest.
@@ -1060,7 +1059,7 @@ Investigative Direction: Confirm booking details and court filings; verify devic
 
 ---
 
-**C-1159** Bill Ackman issued 955-word tweet response
+**C-243** Bill Ackman issued 955-word tweet response
 
 Claim Timestamp: 00:45:41
 Claim: The host says Bill Ackman published a 955-word tweet response which, as she reads it, denies that the Hamptons retreat was an intervention to blackmail Charlie.
@@ -1073,7 +1072,7 @@ Investigative Direction: Verify tweet length, content, and any deletions or foll
 
 ---
 
-**C-1160** Hamptons retreat held August 4-5, 2025
+**C-253** Hamptons retreat held August 4-5, 2025
 
 Claim Timestamp: 00:50:24
 Claim: The host says, crediting Village Crazy Lady on X, that Bill Ackman's tweet confirmed he hosted his meeting with Charlie Kirk on August 4th and 5th in the Hamptons.
@@ -1087,7 +1086,7 @@ Investigative Direction: Cross-reference attendee statements with published itin
 Tags: open_source_investigation
 ---
 
-**C-1161** Host Says Attendees Report Bill Ackman Told Them Not to Own Property
+**C-283** Host Says Attendees Report Bill Ackman Told Them Not to Own Property
 
 Claim Timestamp: 01:03:58
 Claim: The host says that, per other people who were at the Hamptons and are talking about it, Bill Ackman gave a presentation telling attendees they should not own property and should instead invest in stocks; she adds that this is what he allegedly said.
@@ -1101,7 +1100,7 @@ Investigative Direction: Identify and corroborate attendees; request presentatio
 
 ---
 
-**C-1162** Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6
+**C-254** Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6
 
 Claim Timestamp: 00:51:10
 Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.
@@ -1114,7 +1113,7 @@ Investigative Direction: Verify full clip and dates against Megyn Kelly show arc
 
 ---
 
-**C-1163** Charlie received text messages calling him antisemite
+**C-261** Charlie received text messages calling him antisemite
 
 Claim Timestamp: 00:54:16
 Claim: Charlie Kirk stated on the August 6 Megyn Kelly show that he had received text messages calling him an antisemite.
@@ -1127,7 +1126,7 @@ Investigative Direction: Obtain the cited text messages and verify attribution.
 
 ---
 
-**C-1164** Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing
+**C-251** Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing
 
 Claim Timestamp: 00:49:19
 Claim: The host sarcastically mimics the portrayal of the letter Charlie Kirk wrote Benjamin Netanyahu in May as glowing and passionate ('Love you BB'), and says she finds it weird no one addresses the substance of the claims.
@@ -1140,7 +1139,7 @@ Investigative Direction: Locate published or archived version of the May letter.
 
 ---
 
-**C-1165** Host Says an X User Pressured Charlie to Distance From Tucker Carlson
+**C-280** Host Says an X User Pressured Charlie to Distance From Tucker Carlson
 
 Claim Timestamp: 01:01:54
 Claim: The host says an X user she does not name, saying only that she goes by 'the gay who's straight', tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.
@@ -1152,7 +1151,7 @@ Investigative Direction: Retrieve the tweet thread and verify dates.
 
 ---
 
-**C-1166** Host Says Lance Twiggs's Family Told Her He Was Kicked Out Junior Year
+**C-217** Host Says Lance Twiggs's Family Told Her He Was Kicked Out Junior Year
 
 Claim Timestamp: 00:30:35
 Claim: The host says Lance Twiggs's family members told her, and she stresses it is allegedly what they say, that Lance's parents kicked him out of their home in junior year of high school because he was problematic.
@@ -1166,7 +1165,7 @@ Investigative Direction: Corroborate with other family members or contemporaneou
 
 ---
 
-**C-1167** Host Says Lance Twiggs's Family Told Her of Christmas Vodka Overdose
+**C-218** Host Says Lance Twiggs's Family Told Her of Christmas Vodka Overdose
 
 Claim Timestamp: 00:31:02
 Claim: The host says Lance Twiggs's family members told her, as allegations, that Lance almost overdosed by drinking a bottle of vodka at Christmas approximately three years ago and that the family feared they could not care for him.
@@ -1179,7 +1178,7 @@ Investigative Direction: Request medical/ER records and corroborating family tes
 
 ---
 
-**C-1168** Host Says Lance Twiggs's Family Told Her He Showed Up on Drugs at Easter
+**C-220** Host Says Lance Twiggs's Family Told Her He Showed Up on Drugs at Easter
 
 Claim Timestamp: 00:31:31
 Claim: The host says Lance Twiggs's family members told her that Lance showed up on drugs on this past Easter Sunday, spouting political statements, and that they felt he could not be around children.
@@ -1192,7 +1191,7 @@ Investigative Direction: Corroborate with multiple family members.
 
 ---
 
-**C-1169** Lance Twiggs turned 22 in August 2025
+**C-224** Lance Twiggs turned 22 in August 2025
 
 Claim Timestamp: 00:32:39
 Claim: Lance Twiggs turned 22 in August 2025 according to his family.
@@ -1204,7 +1203,7 @@ Investigative Direction: Verify against state ID or DOB records.
 
 ---
 
-**C-1170** Host Says Lance Twiggs's Family Told Her Tyler Paid Rent on Their Home
+**C-216** Host Says Lance Twiggs's Family Told Her Tyler Paid Rent on Their Home
 
 Claim Timestamp: 00:29:52
 Claim: The host says Lance Twiggs's family members told her, as allegations she relays exclusively, that the house Tyler Robinson lived in with Lance is owned by them and that Tyler Robinson pays rent to them.
@@ -1216,7 +1215,7 @@ Investigative Direction: Verify property ownership via county records; obtain le
 
 ---
 
-**C-1171** Host Relays Rumor of Unusual Traffic at Residence Before Shooting
+**C-227** Host Relays Rumor of Unusual Traffic at Residence Before Shooting
 
 Claim Timestamp: 00:33:24
 Claim: The host says people who live in the neighborhood have been writing to her about unusual traffic, with a lot of unrecognized cars, at the house Tyler Robinson and Lance Twiggs shared in the days or weeks before the shooting, that a Twiggs family member told her they were hearing the same thing, and that she is still pinning down the timeline.
@@ -1229,7 +1228,7 @@ Investigative Direction: Pull traffic camera footage and license plate reader da
 
 ---
 
-**C-1172** Host Says Governor Cox Statements Conflict with Indictment on Prior Outfit
+**C-173** Host Says Governor Cox Statements Conflict with Indictment on Prior Outfit
 
 Claim Timestamp: 00:10:40
 Claim: The host says Governor Cox previously described a suspect in light shorts and a maroon shirt, implying the person was scouting the venue, and that the indictment describes only a single suspect in a black American-flag outfit and omits the prior outfit detail.
@@ -1241,7 +1240,7 @@ Investigative Direction: Compare Cox's earlier press statements to indictment ti
 
 ---
 
-**C-1173** Seth Dillon and Josh Hammer pressured Charlie at retreat
+**C-239** Seth Dillon and Josh Hammer pressured Charlie at retreat
 
 Claim Timestamp: 00:42:46
 Claim: Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.
@@ -1255,7 +1254,7 @@ Investigative Direction: Interview multiple attendees; obtain any recorded retre
 
 ---
 
-**C-1174** Top Jewish donors pulled funding and demanded name removal from building
+**C-269** Top Jewish donors pulled funding and demanded name removal from building
 
 Claim Timestamp: 00:57:19
 Claim: The host says people contacting her report that, within 48 hours before Charlie's death, his top Jewish donors were pulling funding and demanding their name be removed from a building they had donated to Turning Point, and that once he was killed they said to put it back on the building.
@@ -1270,7 +1269,7 @@ Investigative Direction: Identify donors; obtain internal TPUSA communications; 
 Tags: calls_for_tips
 ---
 
-**C-3634** Host Thanks Viewers for Buying CIA Hats
+**C-289** Host Thanks Viewers for Buying CIA Hats
 
 Claim Timestamp: 01:11:27
 Claim: The host thanks viewers who went to her website and bought a hat, "one of our CIA hats", and a t-shirt to support the show.
@@ -1284,7 +1283,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 ---
 
 
-**C-3721** Host says her genocide tweet referred to Brian Mast remarks
+**C-268** Host says her genocide tweet referred to Brian Mast remarks
 
 Claim Timestamp: 00:56:16
 Claim: The host says her tweet that genocide is always wrong referred to Brian Mast's remarks (transcript: "Brian Mast"), and that the statement stands even if it had not.
@@ -1296,7 +1295,7 @@ Investigative Direction: Locate the Brian Mast remarks the tweet responded to an
 
 ---
 
-**C-3722** Netanyahu podcast blitz skipped the Charlie Kirk Show
+**C-271** Netanyahu podcast blitz skipped the Charlie Kirk Show
 
 Claim Timestamp: 00:58:04
 Claim: The host says Netanyahu did a podcast blitz in America, appearing on Patrick Bet-David's, Brandon Tatum's and the Nelk Boys' podcasts, and asks why he did not appear on the Charlie Kirk Show.
@@ -1308,7 +1307,7 @@ Investigative Direction: Build a timeline of Netanyahu's 2025 US podcast appeara
 
 ---
 
-**C-3723** Hamptons Attendee Ring Debate Around Sarah Stock
+**C-278** Hamptons Attendee Ring Debate Around Sarah Stock
 
 Claim Timestamp: 01:00:30
 Claim: The host recalls an online debate over a recently engaged woman she believes was named Sarah Stockton [Sarah Stock], whose ring was mocked as too small, and says those Hamptons attendees never mentioned being there for a Turning Point weekend.
@@ -1321,7 +1320,7 @@ Investigative Direction: Identify the attendee's posts from the Hamptons weekend
 
 ---
 
-**C-3724** Viewer comment: Eric Moutsos was the LEO who dealt with Zinn
+**C-291** Viewer comment: Eric Moutsos was the LEO who dealt with Zinn
 
 Claim Timestamp: 01:12:24
 Claim: A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Moutsos was the LEO and has dealt with Zinn in the past.
@@ -1333,7 +1332,7 @@ Investigative Direction: Verify any law enforcement record linking Eric Moutsos 
 
 ---
 
-**C-3725** Jamie Lee Curtis cited as cross-partisan mourner
+**C-298** Jamie Lee Curtis cited as cross-partisan mourner
 
 Claim Timestamp: 01:15:23
 Claim: The host says the global response crossed political lines and that she will show Jamie Lee Curtis, whom she describes as on the left, crying over it.
@@ -1345,7 +1344,7 @@ Investigative Direction: Locate the Jamie Lee Curtis clip the host promised to s
 
 ---
 
-**C-13491** Host Says TPUSA Employees Are Contacting Her About Pre-Hamptons Changes
+**C-154** Host Says TPUSA Employees Are Contacting Her About Pre-Hamptons Changes
 
 Claim Timestamp: 00:01:10
 
@@ -1361,7 +1360,7 @@ Investigative Direction: Identify the employees through the host's sources and c
 
 ---
 
-**C-13492** Host Says Zinn Created a Distraction Right After Kirk Was Shot
+**C-155** Host Says Zinn Created a Distraction Right After Kirk Was Shot
 
 Claim Timestamp: 00:03:05
 
@@ -1377,7 +1376,7 @@ Investigative Direction: Review the arrest video and witness statements to estab
 
 ---
 
-**C-13493** Zinn Was Evasive About Giving Police His Cell Phone
+**C-158** Zinn Was Evasive About Giving Police His Cell Phone
 
 Claim Timestamp: 00:04:19
 
@@ -1393,7 +1392,7 @@ Investigative Direction: Obtain the arrest affidavit and booking report to confi
 
 ---
 
-**C-13494** Host Says Blackmail Operations Target People Who Are Into Children
+**C-159** Host Says Blackmail Operations Target People Who Are Into Children
 
 Claim Timestamp: 00:05:22
 
@@ -1409,7 +1408,7 @@ Investigative Direction: This is an inference rather than a record; it could onl
 
 ---
 
-**C-13495** Host Says Zinn Gave Past Interviews About September 11th and al-Qaeda
+**C-160** Host Says Zinn Gave Past Interviews About September 11th and al-Qaeda
 
 Claim Timestamp: 00:05:45
 
@@ -1425,7 +1424,7 @@ Investigative Direction: Locate the interviews or recordings of Zinn that discus
 
 ---
 
-**C-13496** Host Says Governor Cox May Be Source of Miscommunication About the Case
+**C-161** Host Says Governor Cox May Be Source of Miscommunication About the Case
 
 Claim Timestamp: 00:06:19
 
@@ -1436,13 +1435,13 @@ Transcript Snippet: I think a lot of the miscommunication is perhaps coming from
 Anchored Artifacts: 
 Mentions: N-41, N-3
 Related Nodes: 
-Supports: C-1172
+Supports: C-173
 Tags: relevance:core
 Investigative Direction: Compare each of Cox's press statements about the suspect, the outfit and the timeline with the probable cause statement and release a statement-by-statement comparison.
 
 ---
 
-**C-13497** Indictment Says Robinson Hid the Gun, Discarded Clothing and Told Roommate to Delete Messages
+**C-163** Indictment Says Robinson Hid the Gun, Discarded Clothing and Told Roommate to Delete Messages
 
 Claim Timestamp: 00:07:22
 
@@ -1458,7 +1457,7 @@ Investigative Direction: Obtain the full probable cause statement and the recove
 
 ---
 
-**C-13498** Indictment Charges Count Six Because Children Were Present
+**C-164** Indictment Charges Count Six Because Children Were Present
 
 Claim Timestamp: 00:07:22
 
@@ -1474,7 +1473,7 @@ Investigative Direction: Pull the charging document to confirm the count, the st
 
 ---
 
-**C-13499** Indictment Says an Officer Looked Up and Recognized a Rifle Sound From the Roof
+**C-165** Indictment Says an Officer Looked Up and Recognized a Rifle Sound From the Roof
 
 Claim Timestamp: 00:07:42
 
@@ -1490,7 +1489,7 @@ Investigative Direction: Identify the officer and obtain the incident report and
 
 ---
 
-**C-13500** Indictment Says Camera Showed Suspect Low Crawling Into a Prone Position and Fleeing Northeast
+**C-167** Indictment Says Camera Showed Suspect Low Crawling Into a Prone Position and Fleeing Northeast
 
 Claim Timestamp: 00:08:50
 
@@ -1506,7 +1505,7 @@ Investigative Direction: Obtain the roof camera video and its embedded timestamp
 
 ---
 
-**C-13501** Host Says Indictment No Longer Implies the Rifle Was Taken Apart
+**C-168** Host Says Indictment No Longer Implies the Rifle Was Taken Apart
 
 Claim Timestamp: 00:09:09
 
@@ -1522,7 +1521,7 @@ Investigative Direction: Compare the indictment's description of the rifle and t
 
 ---
 
-**C-13502** Indictment Says Suspect Walked With Little Bend in His Right Leg
+**C-170** Indictment Says Suspect Walked With Little Bend in His Right Leg
 
 Claim Timestamp: 00:09:52
 
@@ -1538,7 +1537,7 @@ Investigative Direction: Review the full campus surveillance video and a gait an
 
 ---
 
-**C-13503** Host Says Only Screenshots of the Suspect Have Been Released and Both Legs Appear to Bend
+**C-171** Host Says Only Screenshots of the Suspect Have Been Released and Both Legs Appear to Bend
 
 Claim Timestamp: 00:10:12
 
@@ -1554,7 +1553,7 @@ Investigative Direction: Request release of the complete UVU surveillance video 
 
 ---
 
-**C-13504** Host Says Footage of Suspect Walking With a Limp Came From TMZ
+**C-172** Host Says Footage of Suspect Walking With a Limp Came From TMZ
 
 Claim Timestamp: 00:10:20
 
@@ -1570,7 +1569,7 @@ Investigative Direction: Identify the original source and capture time of the TM
 
 ---
 
-**C-13505** Indictment Says Suspect Climbed Down and Dropped the Item in a Controlled Fall
+**C-174** Indictment Says Suspect Climbed Down and Dropped the Item in a Controlled Fall
 
 Claim Timestamp: 00:11:32
 
@@ -1586,7 +1585,7 @@ Investigative Direction: Review the camera angle showing the descent and any wit
 
 ---
 
-**C-13506** Indictment Says Police Could Not Immediately Locate the Shooter and Published Surveillance Photos
+**C-178** Indictment Says Police Could Not Immediately Locate the Shooter and Published Surveillance Photos
 
 Claim Timestamp: 00:13:15
 
@@ -1602,7 +1601,7 @@ Investigative Direction: Confirm the dates and times of the FBI and Utah public 
 
 ---
 
-**C-13507** Mother Says She Called Robinson and He Said He Was Home Sick
+**C-180** Mother Says She Called Robinson and He Said He Was Home Sick
 
 Claim Timestamp: 00:13:56
 
@@ -1618,7 +1617,7 @@ Investigative Direction: Check phone records for the mother's call and the son's
 
 ---
 
-**C-13508** Indictment Says Robinson Called the UVU Venue Stupid and Accused Kirk of Spreading Hate
+**C-183** Indictment Says Robinson Called the UVU Venue Stupid and Accused Kirk of Spreading Hate
 
 Claim Timestamp: 00:14:56
 
@@ -1634,7 +1633,7 @@ Investigative Direction: Obtain the mother's police interview and any dated comm
 
 ---
 
-**C-13509** Indictment Says Robinson Implied He Was the Shooter and Could Not Go to Jail
+**C-185** Indictment Says Robinson Implied He Was the Shooter and Could Not Go to Jail
 
 Claim Timestamp: 00:15:47
 
@@ -1650,7 +1649,7 @@ Investigative Direction: Obtain the father's interview and the sheriff's account
 
 ---
 
-**C-13510** Indictment Says Robinson Told His Parents There Was Too Much Evil and Kirk Spread Too Much Hate
+**C-186** Indictment Says Robinson Told His Parents There Was Too Much Evil and Kirk Spread Too Much Hate
 
 Claim Timestamp: 00:15:54
 
@@ -1666,7 +1665,7 @@ Investigative Direction: Obtain the parents' statements to investigators and any
 
 ---
 
-**C-13511** Indictment Says Robinson Was Told to Bring in the Clothes He Used
+**C-188** Indictment Says Robinson Was Told to Bring in the Clothes He Used
 
 Claim Timestamp: 00:16:25
 
@@ -1682,7 +1681,7 @@ Investigative Direction: Establish who gave this instruction (the parents or the
 
 ---
 
-**C-13512** Indictment Says Robinson Replied He Had Disposed of Clothes in a Different Area
+**C-189** Indictment Says Robinson Replied He Had Disposed of Clothes in a Different Area
 
 Claim Timestamp: 00:16:42
 
@@ -1698,7 +1697,7 @@ Investigative Direction: Find any search records for the disposal location and c
 
 ---
 
-**C-13513** Host Says Classmates and Neighbors Were Shocked at Robinson's Involvement
+**C-190** Host Says Classmates and Neighbors Were Shocked at Robinson's Involvement
 
 Claim Timestamp: 00:17:10
 
@@ -1714,7 +1713,7 @@ Investigative Direction: Interview classmates and neighbors on the record about 
 
 ---
 
-**C-13514** Host Says Sources Close to the Case Say Robinson Could Not Have Acted Alone
+**C-191** Host Says Sources Close to the Case Say Robinson Could Not Have Acted Alone
 
 Claim Timestamp: 00:18:06
 
@@ -1730,7 +1729,7 @@ Investigative Direction: Ask the sources for the specific facts behind the wider
 
 ---
 
-**C-13515** Host Says Lance Twiggs Was Allegedly Arrested or Taken In the Same Day
+**C-192** Host Says Lance Twiggs Was Allegedly Arrested or Taken In the Same Day
 
 Claim Timestamp: 00:18:39
 
@@ -1746,7 +1745,7 @@ Investigative Direction: Check Washington County and Utah County booking and cus
 
 ---
 
-**C-13516** Host Says the Note's Wording Is Structurally Odd
+**C-195** Host Says the Note's Wording Is Structurally Odd
 
 Claim Timestamp: 00:20:18
 
@@ -1762,7 +1761,7 @@ Investigative Direction: Obtain the photograph of the note that the indictment s
 
 ---
 
-**C-13517** Indictment Says Police Found a Photograph of the Note
+**C-196** Indictment Says Police Found a Photograph of the Note
 
 Claim Timestamp: 00:20:31
 
@@ -1778,7 +1777,7 @@ Investigative Direction: Request the photograph, its metadata and the device it 
 
 ---
 
-**C-13518** Indictment Quotes Robinson Saying He Still Had to Grab His Rifle
+**C-197** Indictment Quotes Robinson Saying He Still Had to Grab His Rifle
 
 Claim Timestamp: 00:20:53
 
@@ -1794,7 +1793,7 @@ Investigative Direction: Obtain the timestamped message log to place this text r
 
 ---
 
-**C-13519** Indictment Quotes Robinson Admitting to Lance He Was the Shooter
+**C-198** Indictment Quotes Robinson Admitting to Lance He Was the Shooter
 
 Claim Timestamp: 00:21:05
 
@@ -1810,7 +1809,7 @@ Investigative Direction: Obtain the unredacted message log with timestamps to ve
 
 ---
 
-**C-13520** Indictment Quotes Robinson Saying Police Grabbed a Crazy Old Dude and He Had a Rifle Drop Point
+**C-199** Indictment Quotes Robinson Saying Police Grabbed a Crazy Old Dude and He Had a Rifle Drop Point
 
 Claim Timestamp: 00:21:15
 
@@ -1826,7 +1825,7 @@ Investigative Direction: Match the wording to the first police detention (George
 
 ---
 
-**C-13521** Indictment Quotes Robinson Giving Hatred as His Reason
+**C-200** Indictment Quotes Robinson Giving Hatred as His Reason
 
 Claim Timestamp: 00:21:35
 
@@ -1842,7 +1841,7 @@ Investigative Direction: Compare this message with the motive Robinson reportedl
 
 ---
 
-**C-13522** Indictment Quotes Robinson Saying He Planned the Shooting for a Bit Over a Week
+**C-201** Indictment Quotes Robinson Saying He Planned the Shooting for a Bit Over a Week
 
 Claim Timestamp: 00:21:52
 
@@ -1858,7 +1857,7 @@ Investigative Direction: Cross-check the one-week planning claim with purchase, 
 
 ---
 
-**C-13523** Indictment Quotes Robinson Saying a Squad Car Was Parked Right by the Rifle
+**C-202** Indictment Quotes Robinson Saying a Squad Car Was Parked Right by the Rifle
 
 Claim Timestamp: 00:21:58
 
@@ -1874,7 +1873,7 @@ Investigative Direction: Establish where the rifle was recovered and where patro
 
 ---
 
-**C-13524** Indictment Quotes Robinson on Grandpa's Rifle and Its Serial Number
+**C-203** Indictment Quotes Robinson on Grandpa's Rifle and Its Serial Number
 
 Claim Timestamp: 00:22:21
 
@@ -1890,7 +1889,7 @@ Investigative Direction: Trace the rifle's make, serial number and ownership his
 
 ---
 
-**C-13525** Indictment Quotes Robinson Saying He Left Something Called Prince in a Bush Where He Changed Outfits
+**C-204** Indictment Quotes Robinson Saying He Left Something Called Prince in a Bush Where He Changed Outfits
 
 Claim Timestamp: 00:22:26
 
@@ -1906,7 +1905,7 @@ Investigative Direction: Identify what Prince refers to and where the outfit cha
 
 ---
 
-**C-13526** Host Says the Texts Show Robinson Knew Police Had Detained an Old Man, Which Lets the Timeline Be Plotted
+**C-205** Host Says the Texts Show Robinson Knew Police Had Detained an Old Man, Which Lets the Timeline Be Plotted
 
 Claim Timestamp: 00:23:48
 
@@ -1917,13 +1916,13 @@ Transcript Snippet: Monitoring the situation cuz this is going to give us a time
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-3
 Related Nodes: N-10030, N-10077
-Supports: C-1155
+Supports: C-193
 Tags: relevance:core
 Investigative Direction: Plot the first public reports of the old man's detention and the similar-clothing interview against the lockdown timeline to bracket the message times.
 
 ---
 
-**C-13527** Indictment Quotes Robinson Referring to Engraved Bullets and Messages as Mostly a Meme
+**C-206** Indictment Quotes Robinson Referring to Engraved Bullets and Messages as Mostly a Meme
 
 Claim Timestamp: 00:24:26
 
@@ -1939,7 +1938,7 @@ Investigative Direction: Compare the quoted text with the casing inscriptions an
 
 ---
 
-**C-13528** Indictment Quotes Robinson Telling Lance to Delete the Exchange
+**C-207** Indictment Quotes Robinson Telling Lance to Delete the Exchange
 
 Claim Timestamp: 00:24:57
 
@@ -1955,7 +1954,7 @@ Investigative Direction: Obtain Lance's device extraction to confirm what was de
 
 ---
 
-**C-13529** Indictment Quotes Robinson Saying the Feds Released a Unique Photo of the Rifle and His Dad Was Calling
+**C-208** Indictment Quotes Robinson Saying the Feds Released a Unique Photo of the Rifle and His Dad Was Calling
 
 Claim Timestamp: 00:25:10
 
@@ -1971,7 +1970,7 @@ Investigative Direction: Establish when the FBI released the rifle photo and com
 
 ---
 
-**C-13530** Indictment Quotes Robinson Saying He Will Turn Himself In Willingly and His Dad Is Diehard MAGA
+**C-209** Indictment Quotes Robinson Saying He Will Turn Himself In Willingly and His Dad Is Diehard MAGA
 
 Claim Timestamp: 00:26:36
 
@@ -1987,7 +1986,7 @@ Investigative Direction: Compare the message time with the surrender timeline an
 
 ---
 
-**C-13531** Indictment Quotes Robinson Saying a Neighbor Who Is a Deputy Was There
+**C-210** Indictment Quotes Robinson Saying a Neighbor Who Is a Deputy Was There
 
 Claim Timestamp: 00:26:41
 
@@ -2003,7 +2002,7 @@ Investigative Direction: Identify the deputy and reconcile the neighbor in the t
 
 ---
 
-**C-13532** Indictment Quotes Robinson Telling Lance to Ask for a Lawyer and Stay Silent
+**C-211** Indictment Quotes Robinson Telling Lance to Ask for a Lawyer and Stay Silent
 
 Claim Timestamp: 00:26:59
 
@@ -2019,7 +2018,7 @@ Investigative Direction: Obtain Lance's police interview and any attorney contac
 
 ---
 
-**C-13533** Mark Herman Says the Excerpts Look Cherry-Picked
+**C-212** Mark Herman Says the Excerpts Look Cherry-Picked
 
 Claim Timestamp: 00:27:27
 
@@ -2035,7 +2034,7 @@ Investigative Direction: Compare the indictment's excerpts to the full message l
 
 ---
 
-**C-13534** Host Says the Messages Are Clearly Doctored
+**C-213** Host Says the Messages Are Clearly Doctored
 
 Claim Timestamp: 00:27:38
 
@@ -2046,13 +2045,13 @@ Transcript Snippet: Yeah, these messages are clearly doctorred is what I would s
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-3
 Related Nodes: N-10077, N-10030
-Supports: C-1155
+Supports: C-193
 Tags: relevance:core
 Investigative Direction: Demand the complete, timestamped message log and compare it with the excerpts in the probable cause statement.
 
 ---
 
-**C-13535** Host Says Media Coverage of Lance Is Limited to His Being Cooperative
+**C-214** Host Says Media Coverage of Lance Is Limited to His Being Cooperative
 
 Claim Timestamp: 00:28:33
 
@@ -2068,7 +2067,7 @@ Investigative Direction: Obtain Lance's police interview, the date of his device
 
 ---
 
-**C-13536** Host Says Lance Twiggs's Family Reached Out Through the Tip Box
+**C-215** Host Says Lance Twiggs's Family Reached Out Through the Tip Box
 
 Claim Timestamp: 00:29:07
 
@@ -2084,7 +2083,7 @@ Investigative Direction: This depends on the host's private tip box; the identit
 
 ---
 
-**C-13537** Family Says Extended Relatives Could Not Keep Lance After High School
+**C-219** Family Says Extended Relatives Could Not Keep Lance After High School
 
 Claim Timestamp: 00:31:20
 
@@ -2100,7 +2099,7 @@ Investigative Direction: Corroborate with other relatives; this is personal hist
 
 ---
 
-**C-13538** Family Says Lance Had Become Increasingly Radical and Dangerous
+**C-221** Family Says Lance Had Become Increasingly Radical and Dangerous
 
 Claim Timestamp: 00:31:47
 
@@ -2116,7 +2115,7 @@ Investigative Direction: Seek corroboration from multiple relatives and any docu
 
 ---
 
-**C-13539** Lance's Family Says They Do Not Buy the Current Story and Think More People Are Involved
+**C-222** Lance's Family Says They Do Not Buy the Current Story and Think More People Are Involved
 
 Claim Timestamp: 00:32:07
 
@@ -2132,7 +2131,7 @@ Investigative Direction: Ask the family for the specific facts behind the belief
 
 ---
 
-**C-13540** Family Says Lance Was Deep Web and Always on His Devices
+**C-223** Family Says Lance Was Deep Web and Always on His Devices
 
 Claim Timestamp: 00:32:15
 
@@ -2148,7 +2147,7 @@ Investigative Direction: Obtain the forensic report on Lance's devices and any b
 
 ---
 
-**C-13541** Family Says Lance Was Doing Plumbing Work With a Relative
+**C-225** Family Says Lance Was Doing Plumbing Work With a Relative
 
 Claim Timestamp: 00:32:55
 
@@ -2164,7 +2163,7 @@ Investigative Direction: Low priority; confirm employment with the relative if i
 
 ---
 
-**C-13542** Family Says Tyler and Lance Lived Together for a Year and Family Had Not Met Tyler
+**C-226** Family Says Tyler and Lance Lived Together for a Year and Family Had Not Met Tyler
 
 Claim Timestamp: 00:33:01
 
@@ -2180,7 +2179,7 @@ Investigative Direction: Check lease and utility records for the townhome and as
 
 ---
 
-**C-13543** Neighbors Reportedly Saw Many Different License Plates and Parking Trouble at the House
+**C-228** Neighbors Reportedly Saw Many Different License Plates and Parking Trouble at the House
 
 Claim Timestamp: 00:34:44
 
@@ -2196,7 +2195,7 @@ Investigative Direction: Interview neighbors on the record and obtain any camera
 
 ---
 
-**C-13544** Host Says There Are Very Clearly More People Involved
+**C-229** Host Says There Are Very Clearly More People Involved
 
 Claim Timestamp: 00:35:14
 
@@ -2212,7 +2211,7 @@ Investigative Direction: This is the host's conclusion; test it by identifying a
 
 ---
 
-**C-13545** Host Says She Does Not Take Money From Donors
+**C-230** Host Says She Does Not Take Money From Donors
 
 Claim Timestamp: 00:36:51
 
@@ -2228,7 +2227,7 @@ Investigative Direction: Review the host's disclosed funding and sponsorship to 
 
 ---
 
-**C-13546** Host Says Donors Are Making Frantic Calls to Get the Situation Under Control
+**C-231** Host Says Donors Are Making Frantic Calls to Get the Situation Under Control
 
 Claim Timestamp: 00:40:17
 
@@ -2244,7 +2243,7 @@ Investigative Direction: Identify the donors and callers named by the host's sou
 
 ---
 
-**C-13547** Host Says Seth Dillon Is Making Frantic Calls
+**C-232** Host Says Seth Dillon Is Making Frantic Calls
 
 Claim Timestamp: 00:40:32
 
@@ -2260,7 +2259,7 @@ Investigative Direction: Ask Seth Dillon and the recipients of any such calls to
 
 ---
 
-**C-13548** Host Says Kirk Faced Financial Threats Over His Shifting Stance on Israel and Guests
+**C-233** Host Says Kirk Faced Financial Threats Over His Shifting Stance on Israel and Guests
 
 Claim Timestamp: 00:40:32
 
@@ -2276,7 +2275,7 @@ Investigative Direction: Identify the donors and amounts at issue and obtain cor
 
 ---
 
-**C-13549** Host Says She Told Donors No to Their Money
+**C-234** Host Says She Told Donors No to Their Money
 
 Claim Timestamp: 00:41:04
 
@@ -2292,7 +2291,7 @@ Investigative Direction: Identify when and to whom the host declined funding; th
 
 ---
 
-**C-13550** Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Arynne Wexler Sent Invitations
+**C-235** Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Arynne Wexler Sent Invitations
 
 Claim Timestamp: 00:41:32
 
@@ -2308,7 +2307,7 @@ Investigative Direction: Identify the attendees and obtain the invitation list, 
 
 ---
 
-**C-13551** Host Says Kirk Told the Retreat It Was Wrong He Could Not Publicly Criticize Israel
+**C-236** Host Says Kirk Told the Retreat It Was Wrong He Could Not Publicly Criticize Israel
 
 Claim Timestamp: 00:42:12
 
@@ -2324,7 +2323,7 @@ Investigative Direction: Interview other attendees to corroborate the content of
 
 ---
 
-**C-13552** Host Says Seth Dillon Allegedly Answered That Calling for Netanyahu to Resign Would Be Antisemitic
+**C-237** Host Says Seth Dillon Allegedly Answered That Calling for Netanyahu to Resign Would Be Antisemitic
 
 Claim Timestamp: 00:42:19
 
@@ -2335,13 +2334,13 @@ Transcript Snippet: and Seth Dillon then allegedly he pipes up and goes back and
 Anchored Artifacts: 
 Mentions: N-38, N-36, N-1
 Related Nodes: N-10345, N-10033
-Supports: C-1173
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Ask Seth Dillon and other attendees about the exchange; the host calls the example a paraphrase.
 
 ---
 
-**C-13553** Host Says Josh Hammer Was Upset After Charlie Left
+**C-238** Host Says Josh Hammer Was Upset After Charlie Left
 
 Claim Timestamp: 00:42:42
 
@@ -2352,13 +2351,13 @@ Transcript Snippet: I heard that after Charlie left Josh Hammer was upset.
 Anchored Artifacts: 
 Mentions: N-55, N-1
 Related Nodes: N-10033
-Supports: C-1173
+Supports: C-239
 Tags: relevance:core
 Investigative Direction: Ask Josh Hammer and attendees to confirm his reaction; the host says she heard it.
 
 ---
 
-**C-13554** Host Offers Josh Hammer a Seat on Her Platform to Dispute Her Account
+**C-240** Host Offers Josh Hammer a Seat on Her Platform to Dispute Her Account
 
 Claim Timestamp: 00:43:05
 
@@ -2374,7 +2373,7 @@ Investigative Direction: Check whether Hammer or Dillon accept or decline the in
 
 ---
 
-**C-13555** Host Says She Is Not Linking the Israel Pressure Narrative to the Utah Shooting
+**C-241** Host Says She Is Not Linking the Israel Pressure Narrative to the Utah Shooting
 
 Claim Timestamp: 00:43:56
 
@@ -2390,7 +2389,7 @@ Investigative Direction: Track whether the host later ties the Hamptons pressure
 
 ---
 
-**C-13556** Host Says Netanyahu's Invitation Call and Similar Invites Felt Like a Veiled Threat to Her
+**C-242** Host Says Netanyahu's Invitation Call and Similar Invites Felt Like a Veiled Threat to Her
 
 Claim Timestamp: 00:44:17
 
@@ -2401,13 +2400,13 @@ Transcript Snippet: has been a lace threat when I was going off the reservation 
 Anchored Artifacts: 
 Mentions: N-36, N-3
 Related Nodes: N-10018
-Supports: C-10662
+Supports: C-83
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the callers, dates and the person she was told to speak to, and compare with Netanyahu's account of inviting Kirk.
 
 ---
 
-**C-13557** Host Says She Never Said Ackman Blackmailed Charlie Kirk
+**C-244** Host Says She Never Said Ackman Blackmailed Charlie Kirk
 
 Claim Timestamp: 00:45:55
 
@@ -2418,13 +2417,13 @@ Transcript Snippet: Everybody watched my episode yesterday. Okay. I never said t
 Anchored Artifacts: A-1098.1
 Mentions: N-37, N-1, N-3
 Related Nodes: N-10037
-Qualifies: C-10677
+Qualifies: C-100
 Tags: relevance:core
 Investigative Direction: Check the prior episode transcript for exact words used about the Hamptons meeting and blackmail.
 
 ---
 
-**C-13558** Host Says Ackman's Tweet Claims She Intimated He Blackmailed Charlie
+**C-245** Host Says Ackman's Tweet Claims She Intimated He Blackmailed Charlie
 
 Claim Timestamp: 00:46:24
 
@@ -2440,7 +2439,7 @@ Investigative Direction: Retrieve Ackman's tweet and verify the wording and any 
 
 ---
 
-**C-13559** Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message
+**C-246** Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message
 
 Claim Timestamp: 00:46:36
 
@@ -2451,13 +2450,13 @@ Transcript Snippet: There was a file presented. Do this or else. Okay. And I wou
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10033, N-10016
-Supports: C-10677
+Supports: C-100
 Tags: relevance:core
 Investigative Direction: Ask the host what file was presented, to whom and by whom; the sentence is ambiguous on air.
 
 ---
 
-**C-13560** Ackman's Tweet Says He Followed Charlie on X and Connected by DM and Zoom in May
+**C-247** Ackman's Tweet Says He Followed Charlie on X and Connected by DM and Zoom in May
 
 Claim Timestamp: 00:46:47
 
@@ -2473,7 +2472,7 @@ Investigative Direction: Retrieve the tweet and check Ackman's and Kirk's public
 
 ---
 
-**C-13561** Ackman's Tweet Gives a Detailed Itinerary With Sessions Punctuated by Meals
+**C-248** Ackman's Tweet Gives a Detailed Itinerary With Sessions Punctuated by Meals
 
 Claim Timestamp: 00:47:05
 
@@ -2489,7 +2488,7 @@ Investigative Direction: Retrieve the tweet and compare its itinerary with atten
 
 ---
 
-**C-13562** Host Says Ackman's Tweet Does Not Address Netanyahu Funding or the Israel Invitation
+**C-249** Host Says Ackman's Tweet Does Not Address Netanyahu Funding or the Israel Invitation
 
 Claim Timestamp: 00:48:40
 
@@ -2505,7 +2504,7 @@ Investigative Direction: Search the 955-word tweet for any reference to Netanyah
 
 ---
 
-**C-13563** Host Maintains Charlie Was Pressured Throughout the Event and Felt It Was an Intervention
+**C-250** Host Maintains Charlie Was Pressured Throughout the Event and Felt It Was an Intervention
 
 Claim Timestamp: 00:48:57
 
@@ -2516,13 +2515,13 @@ Transcript Snippet: as I asserted and as I maintain, Charlie was being pressured
 Anchored Artifacts: A-1098.1
 Mentions: N-1, N-37, N-3
 Related Nodes: N-10016, N-10134
-Supports: C-1128
+Supports: C-79
 Tags: relevance:core
 Investigative Direction: Find the recipients of Kirk's reflections about the intervention feeling and obtain any dated messages.
 
 ---
 
-**C-13564** Host Suggests Netanyahu Omitted That Charlie May Have Declined to Go to Israel
+**C-252** Host Suggests Netanyahu Omitted That Charlie May Have Declined to Go to Israel
 
 Claim Timestamp: 00:49:40
 
@@ -2533,13 +2532,13 @@ Transcript Snippet: because I feel like if Charlie said I don't want to go to Is
 Anchored Artifacts: 
 Mentions: N-36, N-1, N-3
 Related Nodes: N-10018
-Supports: C-1130
+Supports: C-84
 Tags: relevance:core
 Investigative Direction: Obtain Netanyahu's public statements about the invitation and any messages between Netanyahu's office and Kirk.
 
 ---
 
-**C-13565** Megyn Kelly Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause
+**C-255** Megyn Kelly Says Kneejerk Antisemitism Accusations Undermine the Pro-Israel Cause
 
 Claim Timestamp: 00:51:10
 
@@ -2555,7 +2554,7 @@ Investigative Direction: Pull the August 6 episode of the Megyn Kelly show to co
 
 ---
 
-**C-13566** Megyn Kelly Says Israel's Approval Has Shifted From Double-Digit Highs to Single-Digit Lows
+**C-256** Megyn Kelly Says Israel's Approval Has Shifted From Double-Digit Highs to Single-Digit Lows
 
 Claim Timestamp: 00:51:27
 
@@ -2571,7 +2570,7 @@ Investigative Direction: Compare with Gallup and other polls of Israel favorabil
 
 ---
 
-**C-13567** Megyn Kelly Says Epstein-Mossad Speculation Was Turned Around on Her as Antisemitism
+**C-257** Megyn Kelly Says Epstein-Mossad Speculation Was Turned Around on Her as Antisemitism
 
 Claim Timestamp: 00:52:10
 
@@ -2587,7 +2586,7 @@ Investigative Direction: Locate the Turning Point event conversation between Kel
 
 ---
 
-**C-13568** Kirk Says on the Clip He Has a Bulletproof Record Defending Israel
+**C-258** Kirk Says on the Clip He Has a Bulletproof Record Defending Israel
 
 Claim Timestamp: 00:53:14
 
@@ -2603,7 +2602,7 @@ Investigative Direction: Compile Kirk's public statements and speeches on Israel
 
 ---
 
-**C-13569** Kirk Says on the Clip He Believes in Scriptural Land Rights and Prophecy
+**C-259** Kirk Says on the Clip He Believes in Scriptural Land Rights and Prophecy
 
 Claim Timestamp: 00:53:27
 
@@ -2619,7 +2618,7 @@ Investigative Direction: Compare Kirk's earlier statements on Israel and Christi
 
 ---
 
-**C-13570** Kirk Says on the Clip That Pro-Israel Behavior Is Pushing People Like Him and Kelly Away
+**C-260** Kirk Says on the Clip That Pro-Israel Behavior Is Pushing People Like Him and Kelly Away
 
 Claim Timestamp: 00:54:04
 
@@ -2635,7 +2634,7 @@ Investigative Direction: Pull the full episode and Kirk's phone messages from th
 
 ---
 
-**C-13571** Kirk Says on the Clip He Is Learning Biblical Hebrew and Writing a Book on the Shabbat
+**C-262** Kirk Says on the Clip He Is Learning Biblical Hebrew and Writing a Book on the Shabbat
 
 Claim Timestamp: 00:54:20
 
@@ -2651,7 +2650,7 @@ Investigative Direction: Confirm Kirk's published statements about a Shabbat boo
 
 ---
 
-**C-13572** Kirk Says on the Clip There Was Another Article in the Times of Israel That Day
+**C-263** Kirk Says on the Clip There Was Another Article in the Times of Israel That Day
 
 Claim Timestamp: 00:54:30
 
@@ -2667,7 +2666,7 @@ Investigative Direction: Find the Times of Israel article of August 6, 2025 abou
 
 ---
 
-**C-13573** Host Says She Spent Her Political Life Defending Israel Before Her Tweet
+**C-264** Host Says She Spent Her Political Life Defending Israel Before Her Tweet
 
 Claim Timestamp: 00:55:01
 
@@ -2683,7 +2682,7 @@ Investigative Direction: Compare against the host's archived statements on Israe
 
 ---
 
-**C-13574** Host Recalls Tweeting That No Nation Has a Right to Commit Genocide
+**C-265** Host Recalls Tweeting That No Nation Has a Right to Commit Genocide
 
 Claim Timestamp: 00:55:42
 
@@ -2699,7 +2698,7 @@ Investigative Direction: Locate the tweet and its date.
 
 ---
 
-**C-13575** Host Says She Was Flooded With Messages After That Tweet, Including From Dave Rubin
+**C-266** Host Says She Was Flooded With Messages After That Tweet, Including From Dave Rubin
 
 Claim Timestamp: 00:55:49
 
@@ -2715,7 +2714,7 @@ Investigative Direction: Ask the host for the dated messages from Rubin and othe
 
 ---
 
-**C-13576** Host Says Critics Told Her She Should Have Added That Israel Would Never Do That
+**C-267** Host Says Critics Told Her She Should Have Added That Israel Would Never Do That
 
 Claim Timestamp: 00:56:11
 
@@ -2731,7 +2730,7 @@ Investigative Direction: Ask the host for the dated messages.
 
 ---
 
-**C-13577** Host Says Charlie Alluded to a Tremendous Loss of Money Coming In
+**C-270** Host Says Charlie Alluded to a Tremendous Loss of Money Coming In
 
 Claim Timestamp: 00:57:40
 
@@ -2742,13 +2741,13 @@ Transcript Snippet: Charlie himself had alluded to a tremendous loss of money co
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10036, N-10047
-Supports: C-1174
+Supports: C-269
 Tags: relevance:core
 Investigative Direction: Find where Kirk alluded to lost funding, such as show remarks or messages to staff.
 
 ---
 
-**C-13578** Host Says Netanyahu Implied Charlie Was Writing Him Love Letters in May
+**C-272** Host Says Netanyahu Implied Charlie Was Writing Him Love Letters in May
 
 Claim Timestamp: 00:58:14
 
@@ -2764,7 +2763,7 @@ Investigative Direction: Review Netanyahu's podcast appearances for how he descr
 
 ---
 
-**C-13579** Host Says Netanyahu Presented the Israel Invitation as a Friendly Weekend Stay
+**C-273** Host Says Netanyahu Presented the Israel Invitation as a Friendly Weekend Stay
 
 Claim Timestamp: 00:58:35
 
@@ -2780,7 +2779,7 @@ Investigative Direction: Match Netanyahu's own words in the podcast interviews w
 
 ---
 
-**C-13580** Host Likens the Pressure on Kirk to a Hostile Takeover
+**C-274** Host Likens the Pressure on Kirk to a Hostile Takeover
 
 Claim Timestamp: 00:59:09
 
@@ -2796,7 +2795,7 @@ Investigative Direction: Establish the changes in TPUSA's donor base, board and 
 
 ---
 
-**C-13581** Host Says Kirk Was Being Told Who and What He Was Allowed to Speak To
+**C-275** Host Says Kirk Was Being Told Who and What He Was Allowed to Speak To
 
 Claim Timestamp: 00:59:26
 
@@ -2807,13 +2806,13 @@ Transcript Snippet: He's being called names. He increasingly uh he's being told 
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10047, N-10033
-Supports: C-10655
+Supports: C-74
 Tags: relevance:core
 Investigative Direction: Identify the people who told Kirk whom to host and obtain related messages.
 
 ---
 
-**C-13582** Host Says the Same People Pressing Kirk Are Now Saying He Died for Israel
+**C-276** Host Says the Same People Pressing Kirk Are Now Saying He Died for Israel
 
 Claim Timestamp: 00:59:33
 
@@ -2829,7 +2828,7 @@ Investigative Direction: Collect post-assassination statements by Hamptons atten
 
 ---
 
-**C-13583** Host Relays Employee Tip That TPUSA Never Holds a Weekend Summit Without Publicizing It
+**C-277** Host Relays Employee Tip That TPUSA Never Holds a Weekend Summit Without Publicizing It
 
 Claim Timestamp: 01:00:19
 
@@ -2845,7 +2844,7 @@ Investigative Direction: Review TPUSA's event announcements for 2024 and 2025 fo
 
 ---
 
-**C-13584** Host Says Commenters Urge Ackman to Sue Her and Take Her Money
+**C-279** Host Says Commenters Urge Ackman to Sue Her and Take Her Money
 
 Claim Timestamp: 01:01:24
 
@@ -2861,7 +2860,7 @@ Investigative Direction: Look for any legal notice or statement from Ackman abou
 
 ---
 
-**C-13585** Host Says She Has Offered Ackman Her Platform
+**C-281** Host Says She Has Offered Ackman Her Platform
 
 Claim Timestamp: 01:03:16
 
@@ -2877,7 +2876,7 @@ Investigative Direction: Check whether Ackman responds to or accepts the offer.
 
 ---
 
-**C-13586** Host Says Ackman's Tweet Criticized Her for Monetizing the Video
+**C-282** Host Says Ackman's Tweet Criticized Her for Monetizing the Video
 
 Claim Timestamp: 01:03:30
 
@@ -2893,7 +2892,7 @@ Investigative Direction: Retrieve Ackman's tweet and check for any reference to 
 
 ---
 
-**C-13587** Host Says the Hamptons Meeting Was Not Publicized Until She Publicized It
+**C-284** Host Says the Hamptons Meeting Was Not Publicized Until She Publicized It
 
 Claim Timestamp: 01:04:24
 
@@ -2909,7 +2908,7 @@ Investigative Direction: Find the earliest public mention of the Hamptons weeken
 
 ---
 
-**C-13588** Host Relays That Ackman Offered a Million Dollars for Information on the Assassin
+**C-285** Host Relays That Ackman Offered a Million Dollars for Information on the Assassin
 
 Claim Timestamp: 01:04:41
 
@@ -2925,7 +2924,7 @@ Investigative Direction: Retrieve Ackman's post announcing the reward and confir
 
 ---
 
-**C-13589** Host Says Laura Loomer Attacked Her Saying Ackman Gave a Million Dollars
+**C-286** Host Says Laura Loomer Attacked Her Saying Ackman Gave a Million Dollars
 
 Claim Timestamp: 01:04:54
 
@@ -2941,7 +2940,7 @@ Investigative Direction: Retrieve Laura Loomer's post and confirm its date and w
 
 ---
 
-**C-13590** Host Says She Gave Charlie Two Years of Her Life Helping Him Build Things
+**C-287** Host Says She Gave Charlie Two Years of Her Life Helping Him Build Things
 
 Claim Timestamp: 01:04:59
 
@@ -2957,7 +2956,7 @@ Investigative Direction: Compare with the timeline of the host's work with Turni
 
 ---
 
-**C-13591** Host Says 260,000 People Were Watching Live
+**C-288** Host Says 260,000 People Were Watching Live
 
 Claim Timestamp: 01:09:49
 
@@ -2973,7 +2972,7 @@ Investigative Direction: Check the stream's concurrent viewership record.
 
 ---
 
-**C-13592** Viewer Comment Says Governor Cox Stole the Election; Host Says She Knows Nothing About It
+**C-290** Viewer Comment Says Governor Cox Stole the Election; Host Says She Knows Nothing About It
 
 Claim Timestamp: 01:12:13
 
@@ -2989,7 +2988,7 @@ Investigative Direction: Review the Utah 2024 Republican primary and convention 
 
 ---
 
-**C-13593** Host Says Lance's Family Is Receiving Phone Calls From People Who Look Up Their Last Name
+**C-292** Host Says Lance's Family Is Receiving Phone Calls From People Who Look Up Their Last Name
 
 Claim Timestamp: 01:12:44
 
@@ -3005,7 +3004,7 @@ Investigative Direction: Not a record that can be independently tested; the fami
 
 ---
 
-**C-13594** Viewer Comment Says No 22-Year-Old Uses Perfect Grammar in a Text Chain
+**C-293** Viewer Comment Says No 22-Year-Old Uses Perfect Grammar in a Text Chain
 
 Claim Timestamp: 01:13:29
 
@@ -3021,7 +3020,7 @@ Investigative Direction: Compare the quoted messages' grammar and punctuation wi
 
 ---
 
-**C-13595** Viewer Comment Says Robinson Was Worried About Leaving Evidence but Texts Every Detail
+**C-294** Viewer Comment Says Robinson Was Worried About Leaving Evidence but Texts Every Detail
 
 Claim Timestamp: 01:13:47
 
@@ -3037,7 +3036,7 @@ Investigative Direction: Obtain the complete text log and device extractions and
 
 ---
 
-**C-13596** Host Says the Text Chain Feels a Little Fake
+**C-295** Host Says the Text Chain Feels a Little Fake
 
 Claim Timestamp: 01:14:10
 
@@ -3053,7 +3052,7 @@ Investigative Direction: Obtain the native message database for forensic authent
 
 ---
 
-**C-13597** Viewer Comment Says the Casings Are BS and the Texts Look Fake
+**C-296** Viewer Comment Says the Casings Are BS and the Texts Look Fake
 
 Claim Timestamp: 01:14:21
 
@@ -3069,7 +3068,7 @@ Investigative Direction: Compare the casing inscriptions and the text messages w
 
 ---
 
-**C-13598** Host Says Inscribed Casings Conflict With Trying to Get Away With It
+**C-297** Host Says Inscribed Casings Conflict With Trying to Get Away With It
 
 Claim Timestamp: 01:14:46
 
@@ -3080,13 +3079,13 @@ Transcript Snippet: Like, are you trying to get away with it or are you not tryi
 Anchored Artifacts: A-1095.4, A-1095.8
 Mentions: N-40, N-3
 Related Nodes: N-10138, N-10077
-Supports: C-1155
+Supports: C-193
 Tags: relevance:core
 Investigative Direction: Obtain the timestamped message log and forensic report on the casings.
 
 ---
 
-**C-13599** Host Recounts Charlie Saying Slave Civilizations Always Had More Slaves Than Masters
+**C-299** Host Recounts Charlie Saying Slave Civilizations Always Had More Slaves Than Masters
 
 Claim Timestamp: 01:16:02
 

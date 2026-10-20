@@ -15,7 +15,7 @@
   - Tip-minted Nodes (reintro-ep075): N-11072
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-199, N-211, N-270, N-298, N-554, N-673, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-771, N-11129, N-10539
-  - Claim Range (supplement_2026-10b): C-7053–C-7142
+  - Claim Range: C-6704–C-6809
   - Hole-minted Nodes (wave1): N-324
   - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
   - (see registers)
@@ -31,7 +31,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-3568 / N-324 (people) / N-10856 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-6706 / N-324 (people) / N-10856 (targets)
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:01:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erika Kirk), N-22 (Tucker Carlson – reuse if exists, else new)*
+*Related: C-6706, N-1 (Charlie Kirk), N-2 (Erika Kirk), N-22 (Tucker Carlson – reuse if exists, else new)*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:12:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (Wikipedia, paraphrased on-screen)
 
-*Related: C-3569, N-2 (Erika Kirk), N-10001 (host-curated occult reading node – reuse if exists)*
+*Related: C-6726, N-2 (Erika Kirk), N-10001 (host-curated occult reading node – reuse if exists)*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (clip excerpted; full source not identified in episode)
 
-*Related: C-3570, N-324 (Father Ripperger)*
+*Related: C-6734, N-324 (Father Ripperger)*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:10:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable in episode; document mailed anonymously)
 
-*Related: C-3571, N-1 (Charlie Kirk), N-10857 (Freemason Bible authentication – reuse if exists)*
+*Related: C-6722, N-1 (Charlie Kirk), N-10857 (Freemason Bible authentication – reuse if exists)*
 
 **A-2439.2** Text excerpt from the document: "It has been correctly stated that symbolism constitutes the very essence of Freemasonry… A symbol or an emblem is an occult representation of something unknown or concealed by a sign or a thing that is known." Section titled "the science of symbolism explained."
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low (provenance unverifiable)
 
-*Related: C-3572, N-2*
+*Related: C-6735, N-2*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erika Kirk), N-11 (Tyler Bowyer – reuse if exists)*
+*Related: C-6740, N-2 (Erika Kirk), N-11 (Tyler Bowyer – reuse if exists)*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (dated)
 
-*Related: C-3574, N-2 (Erika Kirk), N-7 (Frank Turek – reuse if exists)*
+*Related: C-6743, N-2 (Erika Kirk), N-7 (Frank Turek – reuse if exists)*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:21:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (date not given in episode)
 
-*Related: C-3575, N-2 (Erika Kirk), N-190 (Mikey McCoy – reuse if exists)*
+*Related: C-6746, N-2 (Erika Kirk), N-190 (Mikey McCoy – reuse if exists)*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:36:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3576, (Miriam Adelson – reuse if exists), N-5 (Donald Trump – reuse if exists)*
+*Related: C-6767, (Miriam Adelson – reuse if exists), N-5 (Donald Trump – reuse if exists)*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erika Kirk), N-277 (Tim Dillon – reuse if exists)*
+*Related: C-6757, N-2 (Erika Kirk), N-277 (Tim Dillon – reuse if exists)*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:38:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (headline read but source publication not named in transcript)
 
-*Related: C-3577, N-5 (Donald Trump)*
+*Related: C-6776, N-5 (Donald Trump)*
 
 ---
 
@@ -196,7 +196,7 @@ Event Timestamp: 2026-02-26 (EO) / article date (not stated)
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (passage read but full article not displayed)
 
-*Related: C-3578, N-5 (Donald Trump)*
+*Related: C-6777, N-5 (Donald Trump)*
 
 ---
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Low–Medium (source publication not named in transcript)
 
-*Related: C-3579, N-5*
+*Related: C-6781, N-5*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:41:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3580, N-5 (Donald Trump), (Marco Rubio – reuse if exists)*
+*Related: C-6785, N-5 (Donald Trump), (Marco Rubio – reuse if exists)*
 
 ---
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:46:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3581, N-36 (Bibi Netanyahu – reuse if exists), Benny Gantz (no node)*
+*Related: C-6790, N-36 (Bibi Netanyahu – reuse if exists), Benny Gantz (no node)*
 
 ---
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-5 (Donald Trump), N-280 (Karoline Leavitt – reuse if exists)*
+*Related: C-6793, N-5 (Donald Trump), N-280 (Karoline Leavitt – reuse if exists)*
 
 ---
 
@@ -261,7 +261,7 @@ Video Timestamp: 00:04:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7059, N-3*
+*Related: C-6711, N-3*
 
 ---
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:11:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7069, N-3*
+*Related: C-6721, N-3*
 
 ---
 
@@ -287,7 +287,7 @@ Video Timestamp: 00:13:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7076, N-3*
+*Related: C-6730, N-3*
 
 ---
 
@@ -302,7 +302,7 @@ Video Timestamp: 01:00:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7136, C-7137, N-3*
+*Related: C-6803, C-6804, N-3*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 01:05:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7141, N-3*
+*Related: C-6808, N-3*
 
 ---
 
@@ -330,7 +330,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2438.1, C-3570*
+*Related: A-2438.1, C-6734*
 
 ---
 
@@ -343,7 +343,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2444.1, C-3583, N-2 (Erika Kirk)*
+*Related: A-2444.1, C-6757, N-2 (Erika Kirk)*
 
 ---
 
@@ -369,7 +369,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2439.1, A-2439.2, C-3571, C-3572*
+*Related: A-2439.1, A-2439.2, C-6722, C-6735*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2440.1, A-2441.1, A-2442.1, C-3573, C-3574, C-3575, N-2 (Erika Kirk)*
+*Related: A-2440.1, A-2441.1, A-2442.1, C-6740, C-6743, C-6746, N-2 (Erika Kirk)*
 
 ---
 
@@ -391,7 +391,7 @@ Investigative Pressure: Medium
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-3573, C-3583*
+*Related: C-6740, C-6757*
 
 ---
 
@@ -399,7 +399,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host reports his statements, her premonition and her Iran-war thesis.
 
-*Related: C-7061, C-7062, C-7063, C-7064, C-7069, C-7077, C-7078, C-7084, C-7085, C-7086, C-7089, C-7091, C-7099, C-7102, C-7103, C-7104, C-7119, C-7120*
+*Related: C-6713, C-6714, C-6715, C-6716, C-6721, C-6731, C-6732, C-6741, C-6742, C-6744, C-6748, C-6750, C-6759, C-6762, C-6763, C-6764, C-6783, C-6784*
 
 ---
 
@@ -407,7 +407,7 @@ Subject of the assassination; the host reports his statements, her premonition a
 
 Widow and TPUSA CEO; the host discusses her alleged presidential ambitions and post-assassination conduct.
 
-*Related: C-7054, C-7082, C-7083, C-7084, C-7085, C-7088, C-7089, C-7090, C-7091, C-7092, C-7093, C-7094, C-7095, C-7096, C-7097, C-7098, C-7099, C-7135, C-7136, C-7137, C-7141*
+*Related: C-6705, C-6738, C-6739, C-6741, C-6742, C-6747, C-6748, C-6749, C-6750, C-6751, C-6752, C-6753, C-6754, C-6755, C-6756, C-6758, C-6759, C-6802, C-6803, C-6804, C-6808*
 
 ---
 
@@ -415,7 +415,7 @@ Widow and TPUSA CEO; the host discusses her alleged presidential ambitions and p
 
 Host; speaks for herself throughout.
 
-*Related: C-7053, C-7054, C-7055, C-7056, C-7057, C-7059, C-7060, C-7061, C-7062, C-7063, C-7065, C-7066, C-7067, C-7068, C-7069, C-7070, C-7071, C-7072, C-7073, C-7074, C-7075, C-7076, C-7077, C-7078, C-7080, C-7081, C-7082, C-7083, C-7084, C-7085, C-7088, C-7089, C-7090, C-7091, C-7092, C-7093, C-7094, C-7095, C-7096, C-7097, C-7101, C-7102, C-7103, C-7104, C-7105, C-7106, C-7107, C-7108, C-7109, C-7110, C-7111, C-7112, C-7113, C-7114, C-7115, C-7116, C-7117, C-7118, C-7119, C-7120, C-7121, C-7122, C-7123, C-7124, C-7126, C-7130, C-7131, C-7132, C-7133, C-7134, C-7135, C-7136, C-7137, C-7138, C-7139, C-7140, C-7141, C-7142*
+*Related: C-6704, C-6705, C-6707, C-6708, C-6709, C-6711, C-6712, C-6713, C-6714, C-6715, C-6717, C-6718, C-6719, C-6720, C-6721, C-6723, C-6724, C-6725, C-6727, C-6728, C-6729, C-6730, C-6731, C-6732, C-6736, C-6737, C-6738, C-6739, C-6741, C-6742, C-6747, C-6748, C-6749, C-6750, C-6751, C-6752, C-6753, C-6754, C-6755, C-6756, C-6761, C-6762, C-6763, C-6764, C-6765, C-6766, C-6768, C-6769, C-6770, C-6771, C-6772, C-6773, C-6774, C-6775, C-6778, C-6779, C-6780, C-6782, C-6783, C-6784, C-6786, C-6787, C-6788, C-6789, C-6792, C-6797, C-6798, C-6799, C-6800, C-6801, C-6802, C-6803, C-6804, C-6805, C-6806, C-6807, C-6808, C-6809*
 
 ---
 
@@ -423,7 +423,7 @@ Host; speaks for herself throughout.
 
 JD Vance; named in the Vance Kirk ticket remarks by Turek and McQuaid.
 
-*Related: C-7087*
+*Related: C-6745*
 
 ---
 
@@ -431,7 +431,7 @@ JD Vance; named in the Vance Kirk ticket remarks by Turek and McQuaid.
 
 Donald Trump; subject of the host's betrayal argument.
 
-*Related: C-7102, C-7103, C-7104, C-7105, C-7106, C-7107, C-7108, C-7109, C-7110, C-7114, C-7115, C-7117, C-7118, C-7126, C-7127, C-7128, C-7133, C-7140*
+*Related: C-6762, C-6763, C-6764, C-6765, C-6766, C-6768, C-6769, C-6770, C-6771, C-6775, C-6778, C-6780, C-6782, C-6792, C-6794, C-6795, C-6800, C-6807*
 
 ---
 
@@ -439,7 +439,7 @@ Donald Trump; subject of the host's betrayal argument.
 
 Elizabeth Lane; cited by the host for calling Erika Kirk a possible psychopath.
 
-*Related: C-7088*
+*Related: C-6747*
 
 ---
 
@@ -447,7 +447,7 @@ Elizabeth Lane; cited by the host for calling Erika Kirk a possible psychopath.
 
 Frank Turek; speaker in the Vance Kirk clip.
 
-*Related: C-7086*
+*Related: C-6744*
 
 ---
 
@@ -455,7 +455,7 @@ Frank Turek; speaker in the Vance Kirk clip.
 
 Jeffrey Epstein; subject of the host's Epstein files remarks.
 
-*Related: C-7109, C-7110, C-7111, C-7123*
+*Related: C-6770, C-6771, C-6772, C-6788*
 
 ---
 
@@ -463,7 +463,7 @@ Jeffrey Epstein; subject of the host's Epstein files remarks.
 
 Benjamin Netanyahu; the host says he instructed Trump on Iran and Venezuela.
 
-*Related: C-7112, C-7118*
+*Related: C-6773, C-6782*
 
 ---
 
@@ -471,7 +471,7 @@ Benjamin Netanyahu; the host says he instructed Trump on Iran and Venezuela.
 
 Bill Ackman; the host says he wants her imprisoned and amplified posts on enlisting.
 
-*Related: C-7053, C-7132*
+*Related: C-6704, C-6799*
 
 ---
 
@@ -479,7 +479,7 @@ Bill Ackman; the host says he wants her imprisoned and amplified posts on enlist
 
 Tyler Robinson; accused in the assassination.
 
-*Related: C-7095, C-7096*
+*Related: C-6754, C-6755*
 
 ---
 
@@ -487,7 +487,7 @@ Tyler Robinson; accused in the assassination.
 
 Megyn Kelly; the host asks viewers to pray for her.
 
-*Related: C-7142*
+*Related: C-6809*
 
 ---
 
@@ -495,7 +495,7 @@ Megyn Kelly; the host asks viewers to pray for her.
 
 Sigmund Freud; the host's route to Freemason Bibles and B'nai B'rith.
 
-*Related: C-7065, C-7070*
+*Related: C-6717, C-6723*
 
 ---
 
@@ -503,7 +503,7 @@ Sigmund Freud; the host's route to Freemason Bibles and B'nai B'rith.
 
 Kash Patel; the host says his repeated 33 hours was signaling.
 
-*Related: C-7081*
+*Related: C-6737*
 
 ---
 
@@ -511,7 +511,7 @@ Kash Patel; the host says his repeated 33 hours was signaling.
 
 Elon Musk; the host says he donated to the family.
 
-*Related: C-7137*
+*Related: C-6804*
 
 ---
 
@@ -519,7 +519,7 @@ Elon Musk; the host says he donated to the family.
 
 Mikey McCoy, also called McQuaid in the clip; speaker on blueprints and a Vance Kirk ticket.
 
-*Related: C-7087*
+*Related: C-6745*
 
 ---
 
@@ -527,7 +527,7 @@ Mikey McCoy, also called McQuaid in the clip; speaker on blueprints and a Vance 
 
 Norman Finkelstein; the host cites his account of mowing the lawn.
 
-*Related: C-7122*
+*Related: C-6787*
 
 ---
 
@@ -535,7 +535,7 @@ Norman Finkelstein; the host cites his account of mowing the lawn.
 
 Dan Flood; the host says Erika offered him a raise.
 
-*Related: C-7089*
+*Related: C-6748*
 
 ---
 
@@ -543,7 +543,7 @@ Dan Flood; the host says Erika offered him a raise.
 
 Karoline Leavitt; White House press secretary in the played briefing.
 
-*Related: C-7126, C-7127, C-7128, C-7129*
+*Related: C-6792, C-6794, C-6795, C-6796*
 
 ---
 
@@ -551,7 +551,7 @@ Karoline Leavitt; White House press secretary in the played briefing.
 
 Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
-*Related: C-7107, C-7108*
+*Related: C-6768, C-6769*
 
 ---
 
@@ -559,7 +559,7 @@ Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
 Carrie Prejean Boller; the host says Trump removed her from the religious committee.
 
-*Related: C-7133*
+*Related: C-6800*
 
 ---
 
@@ -567,7 +567,7 @@ Carrie Prejean Boller; the host says Trump removed her from the religious commit
 
 Nicolas Maduro; removed by the US operation the host cites.
 
-*Related: C-7112*
+*Related: C-6773*
 
 ---
 
@@ -575,7 +575,7 @@ Nicolas Maduro; removed by the US operation the host cites.
 
 Turning Point USA; subject of the cease and desist, event cancellation and infiltration remarks.
 
-*Related: C-7064, C-7134, C-7135, C-7141*
+*Related: C-6716, C-6801, C-6802, C-6808*
 
 ---
 
@@ -583,7 +583,7 @@ Turning Point USA; subject of the cease and desist, event cancellation and infil
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7122, C-7139*
+*Related: C-6787, C-6806*
 
 ---
 
@@ -591,7 +591,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7062, C-7063, C-7080*
+*Related: C-6714, C-6715, C-6736*
 
 ---
 
@@ -599,7 +599,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7138, C-7139*
+*Related: C-6805, C-6806*
 
 ---
 
@@ -607,7 +607,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7109, C-7110, C-7123*
+*Related: C-6770, C-6771, C-6788*
 
 ---
 
@@ -615,7 +615,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7098, C-7099, C-7100*
+*Related: C-6758, C-6759, C-6760*
 
 ---
 
@@ -623,7 +623,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7142*
+*Related: C-6809*
 
 ---
 
@@ -631,7 +631,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7059*
+*Related: C-6711*
 
 ---
 
@@ -639,7 +639,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7064*
+*Related: C-6716*
 
 ---
 
@@ -647,7 +647,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7134, C-7135*
+*Related: C-6801, C-6802*
 
 ---
 
@@ -655,7 +655,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7096, C-7097*
+*Related: C-6755, C-6756*
 
 ---
 
@@ -663,7 +663,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7130*
+*Related: C-6797*
 
 ---
 
@@ -671,7 +671,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7119, C-7120*
+*Related: C-6783, C-6784*
 
 ---
 
@@ -679,7 +679,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7089*
+*Related: C-6748*
 
 ---
 
@@ -687,7 +687,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7090, C-7092*
+*Related: C-6749, C-6751*
 
 ---
 
@@ -695,7 +695,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7112, C-7113*
+*Related: C-6773, C-6774*
 
 ---
 
@@ -703,7 +703,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7090, C-7091*
+*Related: C-6749, C-6750*
 
 ---
 
@@ -711,7 +711,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7141*
+*Related: C-6808*
 
 ---
 
@@ -719,7 +719,7 @@ Existing topic reused for new claims in this episode.
 
 First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.
 
-*Related: C-7057, C-7058*
+*Related: C-6709, C-6710*
 
 ---
 
@@ -727,7 +727,7 @@ First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performa
 
 First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.
 
-*Related: C-7075, C-7076*
+*Related: C-6729, C-6730*
 
 ---
 
@@ -735,7 +735,7 @@ First named by the host at 00:13:52 in episode 75. Occultist the host says wrote
 
 First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox News host to whom the host says Erika Kirk said she had zero fear.
 
-*Related: C-7094*
+*Related: C-6753*
 
 ---
 
@@ -743,7 +743,7 @@ First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox N
 
 First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.
 
-*Related: C-7124, C-7125*
+*Related: C-6789, C-6791*
 
 ---
 
@@ -751,7 +751,7 @@ First named by the host at 00:46:20 in episode 75. Israeli politician whose inte
 
 First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.
 
-*Related: C-7138*
+*Related: C-6805*
 
 ---
 
@@ -760,7 +760,7 @@ First named by the host at 01:01:46 in episode 75. Pastor the host groups with C
 Node Type: Topic
 The host's argument that the 2026 US and Israeli campaign against Iran was engineered by Israel, that Trump betrayed America First, and that Charlie Kirk was its first casualty.
 
-*Related: C-7053, C-7055, C-7105, C-7118, C-7119, C-7120, C-7121, C-7125, C-7126, C-7127, C-7128, C-7129, C-7131, C-7132*
+*Related: C-6704, C-6707, C-6765, C-6782, C-6783, C-6784, C-6786, C-6791, C-6792, C-6794, C-6795, C-6796, C-6798, C-6799*
 
 ---
 
@@ -769,7 +769,7 @@ The host's argument that the 2026 US and Israeli campaign against Iran was engin
 Node Type: Topic
 The fraternal order and its symbolism, which the host studies and ties to her occult-influence thesis.
 
-*Related: C-7060, C-7065, C-7074*
+*Related: C-6712, C-6717, C-6728*
 
 ---
 
@@ -778,7 +778,7 @@ The fraternal order and its symbolism, which the host studies and ties to her oc
 Node Type: Organization
 Jewish service organization the host calls the Jewish Freemason group and says has run the country since at least the Civil War.
 
-*Related: C-7070*
+*Related: C-6723*
 
 ---
 
@@ -787,7 +787,7 @@ Jewish service organization the host calls the Jewish Freemason group and says h
 Node Type: Topic
 The host's belief that the manner and broadcast of Charlie Kirk's death were meant to cast a spell and that he was sacrificed.
 
-*Related: C-7077*
+*Related: C-6731*
 
 ---
 
@@ -796,7 +796,7 @@ The host's belief that the manner and broadcast of Charlie Kirk's death were mea
 Node Type: Topic
 The host's list of Erika Kirk's behaviors after September 10: a raise for Dan Flood, a Times interview, office attendance with her children, claimed absence of fear and forgiveness of the accused.
 
-*Related: C-7088, C-7089, C-7090, C-7092, C-7093, C-7094, C-7095, C-7096, C-7136, C-7137*
+*Related: C-6747, C-6748, C-6749, C-6751, C-6752, C-6753, C-6754, C-6755, C-6803, C-6804*
 
 ---
 
@@ -805,7 +805,7 @@ The host's list of Erika Kirk's behaviors after September 10: a raise for Dan Fl
 Node Type: Topic
 The host's account of how many posts Trump made about Charlie Kirk, their content, and whether he called for an investigation.
 
-*Related: C-7102, C-7103, C-7104*
+*Related: C-6762, C-6763, C-6764*
 
 ---
 
@@ -814,13 +814,13 @@ The host's account of how many posts Trump made about Charlie Kirk, their conten
 Node Type: Topic
 The February 26 executive order invoking the Defense Production Act for glyphosate and the Washington Post's note on elemental phosphorus, and the host's tie to Israeli use of white phosphorus.
 
-*Related: C-7115, C-7116, C-7117*
+*Related: C-6778, C-6779, C-6780*
 
 ---
 
 ## V. Claim Register
 
-**C-3568** Tucker Carlson tweet contained phrase "Pray that the spell breaks and the world is saved"
+**C-6706** Tucker Carlson tweet contained phrase "Pray that the spell breaks and the world is saved"
 
 Claim Timestamp: 00:01:25
 
@@ -832,7 +832,7 @@ Investigative Direction: Confirm post text and timestamp directly on X; capture 
 
 ---
 
-**C-3569** Wikipedia Seal of Solomon entry describes the symbol as a hexagon or pentagram tied to Solomon's ring and to occult/magic tradition
+**C-6726** Wikipedia Seal of Solomon entry describes the symbol as a hexagon or pentagram tied to Solomon's ring and to occult/magic tradition
 
 Claim Timestamp: 00:12:25
 
@@ -845,7 +845,7 @@ Investigative Direction: Pull the live Wikipedia article and capture revision hi
 
 ---
 
-**C-3570** Father Ripperger described "the revealing of the method" as a feature of Satanist and Freemason practice
+**C-6734** Father Ripperger described "the revealing of the method" as a feature of Satanist and Freemason practice
 
 Claim Timestamp: 00:15:10
 
@@ -857,7 +857,7 @@ Investigative Direction: Identify the full source interview (date, program, outl
 
 ---
 
-**C-3571** Host Says Document She Shows Contains Pentagram Illustration Labeled "Place of Sacrifice or Worship"
+**C-6722** Host Says Document She Shows Contains Pentagram Illustration Labeled "Place of Sacrifice or Worship"
 
 Claim Timestamp: 00:10:30
 
@@ -869,7 +869,7 @@ Investigative Direction: Obtain the document or high-resolution photograph to ve
 
 ---
 
-**C-3572** The document shown by the host contains a section stating "symbolism constitutes the very essence of Freemasonry" and "the science of symbolism explained"
+**C-6735** The document shown by the host contains a section stating "symbolism constitutes the very essence of Freemasonry" and "the science of symbolism explained"
 
 Claim Timestamp: 00:16:55
 
@@ -881,7 +881,7 @@ Investigative Direction: Verify the text matches a published Masonic source or w
 
 ---
 
-**C-3573** Tyler Bowyer, ~12 days after the assassination, said Charlie privately believed Erika would be president
+**C-6740** Tyler Bowyer, ~12 days after the assassination, said Charlie privately believed Erika would be president
 
 Claim Timestamp: 00:19:40
 
@@ -894,7 +894,7 @@ Investigative Direction: Obtain full clip with date; cross-check whether Charlie
 
 ---
 
-**C-3574** Frank Turek stated on October 7 that he was not giving up on a "Vance Kirk" ticket and called Erika a potential "amazing president"
+**C-6743** Frank Turek stated on October 7 that he was not giving up on a "Vance Kirk" ticket and called Erika a potential "amazing president"
 
 Claim Timestamp: 00:20:50
 
@@ -907,7 +907,7 @@ Investigative Direction: Identify the full program (radio/podcast); determine wh
 
 ---
 
-**C-3575** Clip Says Charlie Left Blueprints For Erika
+**C-6746** Clip Says Charlie Left Blueprints For Erika
 
 Claim Timestamp: 00:21:50
 
@@ -920,7 +920,7 @@ Investigative Direction: Identify source program and date; determine what McQuai
 
 ---
 
-**C-3576** Trump publicly asked Miriam Adelson whether she loved the U.S. or Israel more and noted her refusal to answer
+**C-6767** Trump publicly asked Miriam Adelson whether she loved the U.S. or Israel more and noted her refusal to answer
 
 Claim Timestamp: 00:36:50
 
@@ -932,7 +932,7 @@ Investigative Direction: Identify the original event and capture full context of
 
 ---
 
-**C-3577** Headline indicates Venezuela sent first oil shipment to Israel after U.S. action against Maduro
+**C-6776** Headline indicates Venezuela sent first oil shipment to Israel after U.S. action against Maduro
 
 Claim Timestamp: 00:38:50
 
@@ -944,7 +944,7 @@ Investigative Direction: Identify the specific publication, date, and shipment d
 
 ---
 
-**C-3578** Washington Post reports Trump signed a Defense Production Act invocation on February 26 covering glyphosate and white phosphorus
+**C-6777** Washington Post reports Trump signed a Defense Production Act invocation on February 26 covering glyphosate and white phosphorus
 
 Claim Timestamp: 00:39:30
 
@@ -956,7 +956,7 @@ Investigative Direction: Pull the actual EO text and the WaPo article; confirm t
 
 ---
 
-**C-3579** Headline alleges Israel unlawfully used white phosphorus
+**C-6781** Headline alleges Israel unlawfully used white phosphorus
 
 Claim Timestamp: 00:40:50
 
@@ -968,7 +968,7 @@ Investigative Direction: Identify the article source, date, geographic location 
 
 ---
 
-**C-3580** Marco Rubio stated the U.S. preemptively bombed Iran to preempt an imminent Israeli action
+**C-6785** Marco Rubio stated the U.S. preemptively bombed Iran to preempt an imminent Israeli action
 
 Claim Timestamp: 00:41:40
 
@@ -980,7 +980,7 @@ Investigative Direction: Identify full statement source (interview name, date); 
 
 ---
 
-**C-3581** Benny Gantz stated he would not exclude boots on the ground for the Iran campaign
+**C-6790** Benny Gantz stated he would not exclude boots on the ground for the Iran campaign
 
 Claim Timestamp: 00:46:50
 
@@ -993,7 +993,7 @@ Investigative Direction: Identify full interview source (outlet, date, interview
 
 ---
 
-**C-3582** Karoline Leavitt stated Trump "wisely" keeps options on the table regarding troops on the ground
+**C-6793** Karoline Leavitt stated Trump "wisely" keeps options on the table regarding troops on the ground
 
 Claim Timestamp: 00:48:30
 
@@ -1005,7 +1005,7 @@ Investigative Direction: Identify press briefing date and full transcript; revie
 
 ---
 
-**C-3583** Tim Dillon publicly speculated Erika Kirk may have been Charlie Kirk's "Mossad handler"
+**C-6757** Tim Dillon publicly speculated Erika Kirk may have been Charlie Kirk's "Mossad handler"
 
 Claim Timestamp: 00:26:00
 
@@ -1017,7 +1017,7 @@ Investigative Direction: Identify the original podcast episode (Tim Dillon Show)
 
 ---
 
-**C-7053** Host Says Bill Ackman Wants Her Imprisoned Over Remarks on Military Service
+**C-6704** Host Says Bill Ackman Wants Her Imprisoned Over Remarks on Military Service
 
 Claim Timestamp: 00:00:00
 
@@ -1034,7 +1034,7 @@ Investigative Direction: Locate Ackman's posts from the weekend before March 9, 
 
 ---
 
-**C-7054** Host Says It Is Obvious Erika Wanted to Become President
+**C-6705** Host Says It Is Obvious Erika Wanted to Become President
 
 Claim Timestamp: 00:00:53
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Compare with Erika Kirk's own public statements on runn
 
 ---
 
-**C-7055** Host Says Occult Practitioners Are Pushing for World War III
+**C-6707** Host Says Occult Practitioners Are Pushing for World War III
 
 Claim Timestamp: 00:02:02
 
@@ -1068,7 +1068,7 @@ Investigative Direction: No checkable record is offered; ask the host which name
 
 ---
 
-**C-7056** Host Says Western Government Leaders Are Pagans Who May Make Blood Sacrifices
+**C-6708** Host Says Western Government Leaders Are Pagans Who May Make Blood Sacrifices
 
 Claim Timestamp: 00:02:02
 
@@ -1084,7 +1084,7 @@ Investigative Direction: No named officials or documents are cited; any support 
 
 ---
 
-**C-7057** Host Says Marina Abramovic Does Spirit Cooking and Is Mentioned in Emails
+**C-6709** Host Says Marina Abramovic Does Spirit Cooking and Is Mentioned in Emails
 
 Claim Timestamp: 00:04:00
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Check the leaked email set the host refers to for the s
 
 ---
 
-**C-7058** Host Describes 1974 Abramovic Petroleum Pentagram Performance
+**C-6710** Host Describes 1974 Abramovic Petroleum Pentagram Performance
 
 Claim Timestamp: 00:04:00
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Check the performance record for the date, title and wo
 
 ---
 
-**C-7059** Host Shows Image of Physicists Before a Shiva Statue and Calls It an Occult CERN Ceremony
+**C-6711** Host Shows Image of Physicists Before a Shiva Statue and Calls It an Occult CERN Ceremony
 
 Claim Timestamp: 00:04:59
 
@@ -1128,13 +1128,13 @@ Anchored Artifacts: A-2852.1
 
 Mentions: N-3
 Related Nodes: N-10414
-Supports: C-5456
+Supports: C-5110
 Tags: relevance:tangential
 Investigative Direction: Identify the source and date of the video or image and CERN's own statement about the 2016 staged ritual and the Shiva statue.
 
 ---
 
-**C-7060** Host Says the Scientific Revolution Began With a Freemasonic Effort
+**C-6712** Host Says the Scientific Revolution Began With a Freemasonic Effort
 
 Claim Timestamp: 00:04:59
 
@@ -1151,7 +1151,7 @@ Investigative Direction: Check historians of science and Masonic history for any
 
 ---
 
-**C-7061** Host Says She Told Her Husband Charlie Was Betrayed When Her Manager Brought the News
+**C-6713** Host Says She Told Her Husband Charlie Was Betrayed When Her Manager Brought the News
 
 Claim Timestamp: 00:06:55
 
@@ -1167,7 +1167,7 @@ Investigative Direction: Ask Savannah and the host's husband to confirm the exch
 
 ---
 
-**C-7062** Host Says She Felt Dread the Week Before the Assassination
+**C-6714** Host Says She Felt Dread the Week Before the Assassination
 
 Claim Timestamp: 00:06:55
 
@@ -1179,13 +1179,13 @@ Anchored Artifacts:
 
 Mentions: N-1, N-3
 Related Nodes: N-10113
-Supports: C-1269
+Supports: C-768
 Tags: relevance:core
 Investigative Direction: Compare with the dated Aug 30 to Sep 2 texts the host has cited and her husband's or staff's recollection of that week.
 
 ---
 
-**C-7063** Host Says She Hired Extra Security, Took Her Podcast Off Air and Pulled Her Children From School
+**C-6715** Host Says She Hired Extra Security, Took Her Podcast Off Air and Pulled Her Children From School
 
 Claim Timestamp: 00:06:55
 
@@ -1197,13 +1197,13 @@ Anchored Artifacts:
 
 Mentions: N-3, N-1
 Related Nodes: N-10113
-Supports: C-1269
+Supports: C-768
 Tags: relevance:core
 Investigative Direction: Check publication dates of her show in the week before September 10, 2025 and ask the security contractor and school for dates.
 
 ---
 
-**C-7064** Host Says Charlie Said He Knew He Would Die Young Because of Turning Point USA
+**C-6716** Host Says Charlie Said He Knew He Would Die Young Because of Turning Point USA
 
 Claim Timestamp: 00:07:44
 
@@ -1215,13 +1215,13 @@ Anchored Artifacts:
 
 Mentions: N-1
 Related Nodes: N-10415, N-10000
-Supports: C-1470
+Supports: C-1780
 Tags: relevance:core
 Investigative Direction: Obtain the dated messages or recordings in which Charlie said this and compare with the 2018 texts aired earlier in the series.
 
 ---
 
-**C-7065** Host Says She Studied Freud and Learned He Inherited a Freemason Bible
+**C-6717** Host Says She Studied Freud and Learned He Inherited a Freemason Bible
 
 Claim Timestamp: 00:08:40
 
@@ -1238,7 +1238,7 @@ Investigative Direction: Check Freud biographies for the Philippson or Jakob Fre
 
 ---
 
-**C-7066** Host Says the Mailed Freemason Bible Came From the Estate of a 33rd Degree Freemason in Oklahoma
+**C-6718** Host Says the Mailed Freemason Bible Came From the Estate of a 33rd Degree Freemason in Oklahoma
 
 Claim Timestamp: 00:08:40
 
@@ -1255,7 +1255,7 @@ Investigative Direction: Obtain the handwritten letter and envelope, identify th
 
 ---
 
-**C-7067** Host Says the Home's Contents Were Burned but the Sender Kept the Book in His Truck for Over a Decade
+**C-6719** Host Says the Home's Contents Were Burned but the Sender Kept the Book in His Truck for Over a Decade
 
 Claim Timestamp: 00:09:26
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Interview the sender, request photographs of the book's
 
 ---
 
-**C-7068** Host Says the Book Illustrates That a Sacrifice Must Be Made in the Center of a Pentagon
+**C-6720** Host Says the Book Illustrates That a Sacrifice Must Be Made in the Center of a Pentagon
 
 Claim Timestamp: 00:10:12
 
@@ -1289,7 +1289,7 @@ Investigative Direction: Have independent Masonic historians read the page and s
 
 ---
 
-**C-7069** Host Says Charlie Was Seated in the Center of a Pentagon When He Was Killed
+**C-6721** Host Says Charlie Was Seated in the Center of a Pentagon When He Was Killed
 
 Claim Timestamp: 00:10:12
 
@@ -1306,7 +1306,7 @@ Investigative Direction: Obtain a to-scale layout of the Utah Valley University 
 
 ---
 
-**C-7070** Host Says B'nai B'rith Has Run the Country Since at Least the Civil War
+**C-6723** Host Says B'nai B'rith Has Run the Country Since at Least the Civil War
 
 Claim Timestamp: 00:11:14
 
@@ -1323,7 +1323,7 @@ Investigative Direction: No evidence is offered on air; check the organization's
 
 ---
 
-**C-7071** Host Says the Satanic Panic Was Real and Children Have Been Harmed in Occult Ceremonies
+**C-6724** Host Says the Satanic Panic Was Real and Children Have Been Harmed in Occult Ceremonies
 
 Claim Timestamp: 00:11:14
 
@@ -1339,7 +1339,7 @@ Investigative Direction: Check court records and historians' accounts of the 198
 
 ---
 
-**C-7072** Host Says the Star of David Is an Occult Symbol Meant to Represent Solomon's Ring
+**C-6725** Host Says the Star of David Is an Occult Symbol Meant to Represent Solomon's Ring
 
 Claim Timestamp: 00:12:04
 
@@ -1355,7 +1355,7 @@ Investigative Direction: Compare with the same Wikipedia article and scholarship
 
 ---
 
-**C-7073** Host Says the Wikipedia Page Notes the Seal of Solomon Was on the Flags of Nigeria and Morocco
+**C-6727** Host Says the Wikipedia Page Notes the Seal of Solomon Was on the Flags of Nigeria and Morocco
 
 Claim Timestamp: 00:12:58
 
@@ -1371,7 +1371,7 @@ Investigative Direction: Pull the Wikipedia page and revision history and check 
 
 ---
 
-**C-7074** Host Says Freemasons Worship Solomon as the Master Architect Who Gave Them Keys to Control Societies
+**C-6728** Host Says Freemasons Worship Solomon as the Master Architect Who Gave Them Keys to Control Societies
 
 Claim Timestamp: 00:12:58
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Check published Masonic ritual and Grand Lodge statemen
 
 ---
 
-**C-7075** Host Says Aleister Crowley Built a Religion Around Pentacles Meant to Summon Spirits
+**C-6729** Host Says Aleister Crowley Built a Religion Around Pentacles Meant to Summon Spirits
 
 Claim Timestamp: 00:13:52
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Check Crowley's published works and the history of Thel
 
 ---
 
-**C-7076** Host Says Crowley's First Book Was the Book of Evil Spirits With a Star of David Cover
+**C-6730** Host Says Crowley's First Book Was the Book of Evil Spirits With a Star of David Cover
 
 Claim Timestamp: 00:13:52
 
@@ -1420,7 +1420,7 @@ Investigative Direction: Identify the book and edition shown; Crowley's earliest
 
 ---
 
-**C-7077** Host Says Charlie's Death Was Intended to Cast a Spell
+**C-6731** Host Says Charlie's Death Was Intended to Cast a Spell
 
 Claim Timestamp: 00:13:52
 
@@ -1437,7 +1437,7 @@ Investigative Direction: This is a belief without cited evidence; any support wo
 
 ---
 
-**C-7078** Host Says Father Ripperger Was Not Speaking About Charlie Kirk
+**C-6732** Host Says Father Ripperger Was Not Speaking About Charlie Kirk
 
 Claim Timestamp: 00:14:43
 
@@ -1448,13 +1448,13 @@ Transcript Snippet: he's not saying this to be clear in the context of Charlie K
 Anchored Artifacts: A-2438.1
 
 Mentions: N-324, N-1, N-3
-Qualifies: C-3570
+Qualifies: C-6734
 Tags: relevance:context
 Investigative Direction: Identify the full Ripperger interview and confirm the date and subject discussed before the excerpt and after it.
 
 ---
 
-**C-7079** Ripperger Says Revealing of the Method Can Be Connected to a Curse to Spread Distribution
+**C-6733** Ripperger Says Revealing of the Method Can Be Connected to a Curse to Spread Distribution
 
 Claim Timestamp: 00:14:43
 
@@ -1470,7 +1470,7 @@ Investigative Direction: Obtain the original recording and check what 'the thing
 
 ---
 
-**C-7080** Host Reads Freemason Bible Examples of Square, Plumb Line and Beehive
+**C-6736** Host Reads Freemason Bible Examples of Square, Plumb Line and Beehive
 
 Claim Timestamp: 00:17:23
 
@@ -1487,7 +1487,7 @@ Investigative Direction: Compare with standard Masonic symbolism references to s
 
 ---
 
-**C-7081** Host Says Kash Patel Repeatedly Stressing 33 Hours Was Not Random
+**C-6737** Host Says Kash Patel Repeatedly Stressing 33 Hours Was Not Random
 
 Claim Timestamp: 00:17:23
 
@@ -1503,7 +1503,7 @@ Investigative Direction: Collect Patel's dated statements and posts that use the
 
 ---
 
-**C-7082** Host Says Erika Cannot Remember How She Met Tyler Bowyer
+**C-6738** Host Says Erika Cannot Remember How She Met Tyler Bowyer
 
 Claim Timestamp: 00:19:17
 
@@ -1519,7 +1519,7 @@ Investigative Direction: Find Erika Kirk's own statement about how she met Bowye
 
 ---
 
-**C-7083** Host Says the Goal of Raising Erika's Presidential Profile Was Seeded Almost Immediately
+**C-6739** Host Says the Goal of Raising Erika's Presidential Profile Was Seeded Almost Immediately
 
 Claim Timestamp: 00:19:17
 
@@ -1531,13 +1531,13 @@ Anchored Artifacts:
 
 Mentions: N-2, N-11, N-3
 Related Nodes: N-10858
-Supports: C-3573
+Supports: C-6740
 Tags: relevance:core
 Investigative Direction: Collect all TPUSA-side remarks about Erika's political future dated in the first weeks after September 10, 2025.
 
 ---
 
-**C-7084** Host Says Erika Stayed Back Because Charlie Said Home Needs You
+**C-6741** Host Says Erika Stayed Back Because Charlie Said Home Needs You
 
 Claim Timestamp: 00:20:18
 
@@ -1553,7 +1553,7 @@ Investigative Direction: Find Erika Kirk's own account of why she did not travel
 
 ---
 
-**C-7085** Host Says Charlie Privately Wanted Erika to Be President and Also CEO and Chairman After His Death
+**C-6742** Host Says Charlie Privately Wanted Erika to Be President and Also CEO and Chairman After His Death
 
 Claim Timestamp: 00:20:18
 
@@ -1565,14 +1565,14 @@ Anchored Artifacts: A-2440.1
 
 Mentions: N-1, N-11, N-2, N-3
 Related Nodes: N-10858
-Supports: C-5539
-Qualifies: C-3573
+Supports: C-5395
+Qualifies: C-6740
 Tags: relevance:core
 Investigative Direction: Obtain the full Bowyer interview and check whether he said anything about CEO or chairman succession.
 
 ---
 
-**C-7086** Turek Says He Told Charlie He Would Not Have the Same Effect as TPUSA President
+**C-6744** Turek Says He Told Charlie He Would Not Have the Same Effect as TPUSA President
 
 Claim Timestamp: 00:20:58
 
@@ -1589,7 +1589,7 @@ Investigative Direction: Identify the full October 7 program and check the conte
 
 ---
 
-**C-7087** McCoy Says He Thought There Might Still Be a Vance Kirk Ticket
+**C-6745** McCoy Says He Thought There Might Still Be a Vance Kirk Ticket
 
 Claim Timestamp: 00:21:43
 
@@ -1606,7 +1606,7 @@ Investigative Direction: Identify the program and date of the McQuaid clip and t
 
 ---
 
-**C-7088** Host Says Elizabeth Lane Posited That Erika May Be a Psychopath
+**C-6747** Host Says Elizabeth Lane Posited That Erika May Be a Psychopath
 
 Claim Timestamp: 00:22:31
 
@@ -1623,7 +1623,7 @@ Investigative Direction: Find Elizabeth Lane's original statement and its date a
 
 ---
 
-**C-7089** Host Says Erika Offered Dan Flood a Raise After the Assassination
+**C-6748** Host Says Erika Offered Dan Flood a Raise After the Assassination
 
 Claim Timestamp: 00:22:31
 
@@ -1640,7 +1640,7 @@ Investigative Direction: Obtain TPUSA payroll or personnel records or a TPUSA st
 
 ---
 
-**C-7090** Host Says Erika Gave an In-Home New York Times Interview in the Days After the Assassination
+**C-6749** Host Says Erika Gave an In-Home New York Times Interview in the Days After the Assassination
 
 Claim Timestamp: 00:22:31
 
@@ -1652,13 +1652,13 @@ Anchored Artifacts:
 
 Mentions: N-2, N-3
 Related Nodes: N-10905, N-10968, N-10505
-Supports: C-2205
+Supports: C-5609
 Tags: relevance:core
 Investigative Direction: Locate the published Times interview and its date and compare with the September 18, 2025 date noted earlier.
 
 ---
 
-**C-7091** Host Says Charlie Kirk Hated the New York Times
+**C-6750** Host Says Charlie Kirk Hated the New York Times
 
 Claim Timestamp: 00:23:52
 
@@ -1675,7 +1675,7 @@ Investigative Direction: Collect Charlie Kirk's recorded public statements about
 
 ---
 
-**C-7092** Host Says Erika Told the Times the Least Traumatizing Part Was Raising Children Without a Father
+**C-6751** Host Says Erika Told the Times the Least Traumatizing Part Was Raising Children Without a Father
 
 Claim Timestamp: 00:23:52
 
@@ -1687,13 +1687,13 @@ Anchored Artifacts:
 
 Mentions: N-2, N-3
 Related Nodes: N-10905, N-10505
-Supports: C-2200
+Supports: C-5610
 Tags: relevance:core
 Investigative Direction: Read the Times interview text for the exact quote and context.
 
 ---
 
-**C-7093** Host Says Erika Went Into the Office the Same Week and Brought Her Kids Every Day
+**C-6752** Host Says Erika Went Into the Office the Same Week and Brought Her Kids Every Day
 
 Claim Timestamp: 00:23:52
 
@@ -1710,7 +1710,7 @@ Investigative Direction: Ask TPUSA staff and check dated posts or reports of Eri
 
 ---
 
-**C-7094** Host Says Erika Told Jesse Watters She Had Zero Fear
+**C-6753** Host Says Erika Told Jesse Watters She Had Zero Fear
 
 Claim Timestamp: 00:23:52
 
@@ -1727,7 +1727,7 @@ Investigative Direction: Pull the Fox News interview and check the exact words a
 
 ---
 
-**C-7095** Host Says Erika Forgave the Alleged Killer Before Seeing Evidence of His Guilt
+**C-6754** Host Says Erika Forgave the Alleged Killer Before Seeing Evidence of His Guilt
 
 Claim Timestamp: 00:24:46
 
@@ -1739,13 +1739,13 @@ Anchored Artifacts:
 
 Mentions: N-2, N-40, N-3
 Related Nodes: N-10505
-Supports: C-1228
+Supports: C-585
 Tags: relevance:core
 Investigative Direction: Compare the memorial date of the forgiveness statement with when charging documents and evidence were made public.
 
 ---
 
-**C-7096** Host Says Erika Helped Validate Implausible Parts of the Tyler Robinson Narrative
+**C-6755** Host Says Erika Helped Validate Implausible Parts of the Tyler Robinson Narrative
 
 Claim Timestamp: 00:24:46
 
@@ -1762,7 +1762,7 @@ Investigative Direction: Find Erika Kirk's dated public remarks on the wound and
 
 ---
 
-**C-7097** Host Says Erika Crafted the Superman Steel Neck Account
+**C-6756** Host Says Erika Crafted the Superman Steel Neck Account
 
 Claim Timestamp: 00:25:29
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Trace which person first stated in public that the neck
 
 ---
 
-**C-7098** Dillon Says Three Weeks After Charlie's Death Erika Was Out With Sparklers
+**C-6758** Dillon Says Three Weeks After Charlie's Death Erika Was Out With Sparklers
 
 Claim Timestamp: 00:26:15
 
@@ -1796,7 +1796,7 @@ Investigative Direction: Identify the event Dillon means and compare its date wi
 
 ---
 
-**C-7099** Dillon Posits a Scenario Where Charlie Found the Laundered Money
+**C-6759** Dillon Posits a Scenario Where Charlie Found the Laundered Money
 
 Claim Timestamp: 00:28:43
 
@@ -1808,13 +1808,13 @@ Anchored Artifacts: A-2444.1
 
 Mentions: N-277, N-2, N-1
 Related Nodes: N-10403
-Qualifies: C-3583
+Qualifies: C-6757
 Tags: relevance:context
 Investigative Direction: Dillon frames this as a hypothetical; any support would need records of TPUSA funds Charlie may have traced.
 
 ---
 
-**C-7100** Dillon Says He Is Not Saying It Happened, Only That It Is More Reasonable Than the Official Account
+**C-6760** Dillon Says He Is Not Saying It Happened, Only That It Is More Reasonable Than the Official Account
 
 Claim Timestamp: 00:28:43
 
@@ -1826,13 +1826,13 @@ Anchored Artifacts: A-2444.1
 
 Mentions: N-277
 Related Nodes: N-10403
-Qualifies: C-3583
+Qualifies: C-6757
 Tags: relevance:context
 Investigative Direction: Obtain the full Tim Dillon episode and confirm the disclaimers on either side of the excerpt.
 
 ---
 
-**C-7101** Sponsor Read Says the US Added Silver to Its Critical Minerals List
+**C-6761** Sponsor Read Says the US Added Silver to Its Critical Minerals List
 
 Claim Timestamp: 00:30:46
 
@@ -1848,7 +1848,7 @@ Investigative Direction: Check the USGS or Interior critical minerals list for t
 
 ---
 
-**C-7102** Host Says One of Trump's Few Tweets on Charlie Was an AI Image of Charlie Hugging an Israeli Flag
+**C-6762** Host Says One of Trump's Few Tweets on Charlie Was an AI Image of Charlie Hugging an Israeli Flag
 
 Claim Timestamp: 00:33:04
 
@@ -1860,13 +1860,13 @@ Anchored Artifacts:
 
 Mentions: N-5, N-1, N-3
 Related Nodes: N-11132
-Supports: C-5639
+Supports: C-5874
 Tags: relevance:core
 Investigative Direction: Pull Trump's Truth Social and X posts from September 10 to 20, 2025 and identify the post with the AI image and its date.
 
 ---
 
-**C-7103** Host Says Trump Posted Two or Three Tweets at Most and Never Demanded an Investigation
+**C-6763** Host Says Trump Posted Two or Three Tweets at Most and Never Demanded an Investigation
 
 Claim Timestamp: 00:33:04
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Compile all Trump posts and public statements mentionin
 
 ---
 
-**C-7104** Host Says Trump Cared More About Debunking Balding Reports Than Investigating Charlie's Murder
+**C-6764** Host Says Trump Cared More About Debunking Balding Reports Than Investigating Charlie's Murder
 
 Claim Timestamp: 00:34:16
 
@@ -1900,7 +1900,7 @@ Investigative Direction: Compare dates and volume of Trump's posts on the baldin
 
 ---
 
-**C-7105** Host Says Trump Promised Low Gas Prices and No More Forever Wars
+**C-6765** Host Says Trump Promised Low Gas Prices and No More Forever Wars
 
 Claim Timestamp: 00:35:06
 
@@ -1917,7 +1917,7 @@ Investigative Direction: Check campaign statements and current national gas pric
 
 ---
 
-**C-7106** Host Says the Administration Adopted an IHRA Definition Covering Dual-Loyalty Accusations
+**C-6766** Host Says the Administration Adopted an IHRA Definition Covering Dual-Loyalty Accusations
 
 Claim Timestamp: 00:35:54
 
@@ -1933,7 +1933,7 @@ Investigative Direction: Check the executive order or agency guidance that adopt
 
 ---
 
-**C-7107** Host Says Trump Took One to Two Hundred Million Dollars From Miriam Adelson
+**C-6768** Host Says Trump Took One to Two Hundred Million Dollars From Miriam Adelson
 
 Claim Timestamp: 00:37:23
 
@@ -1949,7 +1949,7 @@ Investigative Direction: Check FEC filings for Adelson contributions to Trump co
 
 ---
 
-**C-7108** Host Says Miriam Adelson Served in the IDF
+**C-6769** Host Says Miriam Adelson Served in the IDF
 
 Claim Timestamp: 00:37:23
 
@@ -1965,7 +1965,7 @@ Investigative Direction: Check Adelson's biography for her Israeli military serv
 
 ---
 
-**C-7109** Host Says Trump's Administration Delayed the Epstein Files and Called Them a Democratic Hoax
+**C-6770** Host Says Trump's Administration Delayed the Epstein Files and Called Them a Democratic Hoax
 
 Claim Timestamp: 00:37:23
 
@@ -1982,7 +1982,7 @@ Investigative Direction: Compile the dated administration statements and the rel
 
 ---
 
-**C-7110** Host Says Trump Asked Whether People Are Still Talking About the Epstein Files
+**C-6771** Host Says Trump Asked Whether People Are Still Talking About the Epstein Files
 
 Claim Timestamp: 00:37:23
 
@@ -1994,13 +1994,13 @@ Anchored Artifacts:
 
 Mentions: N-5, N-9, N-3
 Related Nodes: N-10324
-Supports: C-5176
+Supports: C-3643
 Tags: relevance:context
 Investigative Direction: Locate the video of Trump's remark and verify whether the second sentence was his or the host's addition.
 
 ---
 
-**C-7111** Host Calls Jeffrey Epstein an Occultist Jewish Pedophile
+**C-6772** Host Calls Jeffrey Epstein an Occultist Jewish Pedophile
 
 Claim Timestamp: 00:37:23
 
@@ -2016,7 +2016,7 @@ Investigative Direction: Epstein's conviction and the released files can be chec
 
 ---
 
-**C-7112** Host Says Netanyahu Called Venezuela Anti-Semitic and the US Then Took Out Maduro
+**C-6773** Host Says Netanyahu Called Venezuela Anti-Semitic and the US Then Took Out Maduro
 
 Claim Timestamp: 00:38:28
 
@@ -2033,7 +2033,7 @@ Investigative Direction: Find any Netanyahu statement about Venezuela before Jan
 
 ---
 
-**C-7113** Host Says US Taxpayer Money for the Venezuela Operation Has Benefited Israel
+**C-6774** Host Says US Taxpayer Money for the Venezuela Operation Has Benefited Israel
 
 Claim Timestamp: 00:38:28
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Check the shipment headline's date and publication agai
 
 ---
 
-**C-7114** Host Says Greenland Has an Estimated 31 Billion Barrels of Untapped Oil and Is Why Trump Wants It
+**C-6775** Host Says Greenland Has an Estimated 31 Billion Barrels of Untapped Oil and Is Why Trump Wants It
 
 Claim Timestamp: 00:38:28
 
@@ -2066,7 +2066,7 @@ Investigative Direction: Check geological survey estimates of Greenland oil reso
 
 ---
 
-**C-7115** Host Says Glyphosate Is a Cancer-Causing Agent
+**C-6778** Host Says Glyphosate Is a Cancer-Causing Agent
 
 Claim Timestamp: 00:39:32
 
@@ -2083,7 +2083,7 @@ Investigative Direction: Check IARC, EPA and court findings on glyphosate and ca
 
 ---
 
-**C-7116** Host Says White Phosphorus Is Being Used Right Now in Lebanon
+**C-6779** Host Says White Phosphorus Is Being Used Right Now in Lebanon
 
 Claim Timestamp: 00:40:38
 
@@ -2095,13 +2095,13 @@ Anchored Artifacts: A-2447.1
 
 Mentions: N-3
 Related Nodes: N-11133
-Qualifies: C-3579
+Qualifies: C-6781
 Tags: relevance:context
 Investigative Direction: Identify the headline's publisher and date and any rights-group findings about white phosphorus in southern Lebanon.
 
 ---
 
-**C-7117** Host Insinuates Israel's White Phosphorus Comes From the Trump Administration
+**C-6780** Host Insinuates Israel's White Phosphorus Comes From the Trump Administration
 
 Claim Timestamp: 00:40:38
 
@@ -2118,7 +2118,7 @@ Investigative Direction: Check US arms transfer records for white phosphorus mun
 
 ---
 
-**C-7118** Host Says Netanyahu Instructed Trump to Bomb Iran Almost Immediately
+**C-6782** Host Says Netanyahu Instructed Trump to Bomb Iran Almost Immediately
 
 Claim Timestamp: 00:41:26
 
@@ -2135,7 +2135,7 @@ Investigative Direction: Look for reporting on Netanyahu-Trump communications be
 
 ---
 
-**C-7119** Host Says Iran Action Was Limited to Nuclear Sites Because Charlie Was Alive
+**C-6783** Host Says Iran Action Was Limited to Nuclear Sites Because Charlie Was Alive
 
 Claim Timestamp: 00:41:26
 
@@ -2152,7 +2152,7 @@ Investigative Direction: Compare the June 2025 strike scope with Charlie Kirk's 
 
 ---
 
-**C-7120** Host Says the Obstacle of Charlie Kirk Was Then Removed
+**C-6784** Host Says the Obstacle of Charlie Kirk Was Then Removed
 
 Claim Timestamp: 00:41:26
 
@@ -2169,7 +2169,7 @@ Investigative Direction: No evidence of motive is offered; test against the actu
 
 ---
 
-**C-7121** Host Says the US Preemptively Killed 150 Iranian Schoolgirls Aged 7 to 12
+**C-6786** Host Says the US Preemptively Killed 150 Iranian Schoolgirls Aged 7 to 12
 
 Claim Timestamp: 00:42:59
 
@@ -2186,7 +2186,7 @@ Investigative Direction: Check Iranian, UN and independent reporting on a strike
 
 ---
 
-**C-7122** Host Says Finkelstein Told Her Israel Had a Policy Called Mowing the Lawn in Gaza
+**C-6787** Host Says Finkelstein Told Her Israel Had a Policy Called Mowing the Lawn in Gaza
 
 Claim Timestamp: 00:44:38
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Check Finkelstein's published statements on the doctrin
 
 ---
 
-**C-7123** Host Says Epstein Files Show Open Conversations About People Being Unable to Reproduce in the Future
+**C-6788** Host Says Epstein Files Show Open Conversations About People Being Unable to Reproduce in the Future
 
 Claim Timestamp: 00:45:27
 
@@ -2220,7 +2220,7 @@ Investigative Direction: Identify the specific documents in the released files a
 
 ---
 
-**C-7124** Host Identifies Benny Gantz as Israel's Defense Minister
+**C-6789** Host Identifies Benny Gantz as Israel's Defense Minister
 
 Claim Timestamp: 00:46:20
 
@@ -2231,13 +2231,13 @@ Transcript Snippet: Here is Israel's defense minister, Benny Gantz, discussing t
 Anchored Artifacts: A-2449.1
 
 Mentions: N-772, N-3
-Qualifies: C-3581
+Qualifies: C-6790
 Tags: relevance:context
 Investigative Direction: Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.
 
 ---
 
-**C-7125** Gantz Says Israel Is Neutralizing Iran's Command and Control System
+**C-6791** Gantz Says Israel Is Neutralizing Iran's Command and Control System
 
 Claim Timestamp: 00:47:19
 
@@ -2254,7 +2254,7 @@ Investigative Direction: Identify the interviewer, outlet and date of the full i
 
 ---
 
-**C-7126** Host Says Leavitt Signaled That a Draft Is Not Off the Table
+**C-6792** Host Says Leavitt Signaled That a Draft Is Not Off the Table
 
 Claim Timestamp: 00:48:11
 
@@ -2266,13 +2266,13 @@ Anchored Artifacts: A-2450.1
 
 Mentions: N-280, N-5, N-3
 Related Nodes: N-11128
-Qualifies: C-3582
+Qualifies: C-6793
 Tags: relevance:context
 Investigative Direction: Read the full briefing transcript for whether Leavitt addressed a draft directly.
 
 ---
 
-**C-7127** Leavitt Says Ground Troops Are Not Part of the Current Plan but Options Stay on the Table
+**C-6794** Leavitt Says Ground Troops Are Not Part of the Current Plan but Options Stay on the Table
 
 Claim Timestamp: 00:48:46
 
@@ -2289,7 +2289,7 @@ Investigative Direction: Pull the White House briefing transcript and date.
 
 ---
 
-**C-7128** Leavitt Says Trump Launched Operation Epic Fury to Stop Iranian Attacks on US Bases
+**C-6795** Leavitt Says Trump Launched Operation Epic Fury to Stop Iranian Attacks on US Bases
 
 Claim Timestamp: 00:48:46
 
@@ -2306,7 +2306,7 @@ Investigative Direction: Check the Department of War or White House announcement
 
 ---
 
-**C-7129** Leavitt Says Iran Has Killed and Maimed Thousands of American Soldiers
+**C-6796** Leavitt Says Iran Has Killed and Maimed Thousands of American Soldiers
 
 Claim Timestamp: 00:48:46
 
@@ -2323,7 +2323,7 @@ Investigative Direction: Compare with Department of Defense casualty figures att
 
 ---
 
-**C-7130** Host Says Only Israel Gets Away With the Lavon Affair and the USS Liberty
+**C-6797** Host Says Only Israel Gets Away With the Lavon Affair and the USS Liberty
 
 Claim Timestamp: 00:49:48
 
@@ -2340,7 +2340,7 @@ Investigative Direction: Compare with the historical record and official inquiri
 
 ---
 
-**C-7131** Host Says Officials Moved From Midnight Hammer Only to Preemptive Strikes and Open Ground Options
+**C-6798** Host Says Officials Moved From Midnight Hammer Only to Preemptive Strikes and Open Ground Options
 
 Claim Timestamp: 00:49:48
 
@@ -2357,7 +2357,7 @@ Investigative Direction: Compile dated administration statements on the limits o
 
 ---
 
-**C-7132** Host Says Ackman Retweeted Posts Saying It Is a Federal Crime to Tell People Not to Join the Military
+**C-6799** Host Says Ackman Retweeted Posts Saying It Is a Federal Crime to Tell People Not to Join the Military
 
 Claim Timestamp: 00:50:40
 
@@ -2374,7 +2374,7 @@ Investigative Direction: Capture Ackman's X activity from March 7 to 9, 2026 and
 
 ---
 
-**C-7133** Host Says Trump Fired Carrie Prejean Boller From the Religious Committee Over Zionist Objections
+**C-6800** Host Says Trump Fired Carrie Prejean Boller From the Religious Committee Over Zionist Objections
 
 Claim Timestamp: 00:52:35
 
@@ -2385,13 +2385,13 @@ Transcript Snippet: Trump recently firing Carrie Prejean Boller from the religio
 Anchored Artifacts: 
 
 Mentions: N-554, N-5, N-3
-Supports: C-2370
+Supports: C-6562
 Tags: relevance:context
 Investigative Direction: Check the removal notice from the Religious Liberty Commission and any stated reason.
 
 ---
 
-**C-7134** Host Says the Cease and Desist Cited Her Claim That TPUSA Was Militarily Infiltrated
+**C-6801** Host Says the Cease and Desist Cited Her Claim That TPUSA Was Militarily Infiltrated
 
 Claim Timestamp: 00:59:43
 
@@ -2403,13 +2403,13 @@ Anchored Artifacts:
 
 Mentions: N-3
 Related Nodes: N-10436, N-10000
-Supports: C-5297
+Supports: C-4301
 Tags: relevance:core
 Investigative Direction: Obtain the cease and desist letter and read its text on the infiltration claim.
 
 ---
 
-**C-7135** Host Says She Pointed to the Backgrounds of Pastors, TP Faith and Erika's Mother
+**C-6802** Host Says She Pointed to the Backgrounds of Pastors, TP Faith and Erika's Mother
 
 Claim Timestamp: 00:59:43
 
@@ -2421,13 +2421,13 @@ Anchored Artifacts:
 
 Mentions: N-2, N-3
 Related Nodes: N-10436, N-10000
-Supports: C-5297
+Supports: C-4301
 Tags: relevance:core
 Investigative Direction: Compile the named pastors' and Erika's mother's documented military or defense ties with sources.
 
 ---
 
-**C-7136** Host Reads a Viewer Comment Saying Many Gave Thousands Through GiveSendGo So Erika Could Stay Home
+**C-6803** Host Reads a Viewer Comment Saying Many Gave Thousands Through GiveSendGo So Erika Could Stay Home
 
 Claim Timestamp: 01:00:36
 
@@ -2444,7 +2444,7 @@ Investigative Direction: Locate the GiveSendGo campaign, its organizer, total ra
 
 ---
 
-**C-7137** Host Says Someone Pointed Out That Elon Musk Donated to the Family
+**C-6804** Host Says Someone Pointed Out That Elon Musk Donated to the Family
 
 Claim Timestamp: 01:00:36
 
@@ -2461,7 +2461,7 @@ Investigative Direction: Check the GiveSendGo donor list or Musk's public statem
 
 ---
 
-**C-7138** Host Says Christian Zionist Pastors Resemble Followers of Jacob Frank in a Messianic Mission
+**C-6805** Host Says Christian Zionist Pastors Resemble Followers of Jacob Frank in a Messianic Mission
 
 Claim Timestamp: 01:01:46
 
@@ -2478,7 +2478,7 @@ Investigative Direction: No source is cited; compare historians' accounts of Fra
 
 ---
 
-**C-7139** Host Says Pastors Were Promised Property in Gaza to Win Church Support
+**C-6806** Host Says Pastors Were Promised Property in Gaza to Win Church Support
 
 Claim Timestamp: 01:02:39
 
@@ -2495,7 +2495,7 @@ Investigative Direction: Ask the host for the source; check reporting on any Gaz
 
 ---
 
-**C-7140** Host Says She Made the Kamala Chronicles and Left the Hardcore MAGA Train a While Ago
+**C-6807** Host Says She Made the Kamala Chronicles and Left the Hardcore MAGA Train a While Ago
 
 Claim Timestamp: 01:04:10
 
@@ -2511,7 +2511,7 @@ Investigative Direction: Check the dates of the Kamala Chronicles and the host's
 
 ---
 
-**C-7141** Host Says on Very Good Authority That TPUSA Cancelled Events Where Erika Was to Speak
+**C-6808** Host Says on Very Good Authority That TPUSA Cancelled Events Where Erika Was to Speak
 
 Claim Timestamp: 01:05:49
 
@@ -2528,7 +2528,7 @@ Investigative Direction: Ask venues and organizers for cancelled Erika Kirk book
 
 ---
 
-**C-7142** Host Says Megyn Kelly Is Being Attacked Really Hard
+**C-6809** Host Says Megyn Kelly Is Being Attacked Really Hard
 
 Claim Timestamp: 01:08:12
 
@@ -2676,7 +2676,7 @@ Confidence: high
 - A-2449 (Benny Gantz Iran Interview)
 - A-2450 (Karoline Leavitt Press Briefing)
 
-**Claim Range:** C-3568–C-3583
+**Claim Range:** C-6706–C-6757
 
 **New Nodes Introduced:**
 - N-324 Father Ripperger

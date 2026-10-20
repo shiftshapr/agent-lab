@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-676, N-677, N-678, N-680, N-10971, N-10972, N-10973, N-10974, N-10976, N-10977, N-10978, N-10979, N-10980, N-10981, N-10982, N-10983
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-14, N-17, N-22, N-30, N-36, N-37, N-40, N-69, N-97, N-104, N-105, N-159, N-190, N-268, N-270, N-378, N-625, N-666, N-10000, N-10014, N-10015, N-10026, N-10027, N-10075, N-10202, N-10482, N-10495, N-10505, N-10588, N-10700, N-10724, N-10768, N-10888, N-10923, N-10694, N-679, N-10975, N-10705
-  - Claim Range: C-4541–C-4591
+  - Claim Range: C-9926–C-9976
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4542, C-4543, C-4544, N-1, N-5, N-10588*
+*Related: C-9927, C-9928, C-9929, N-1, N-5, N-10588*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:06:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4547, C-4548, N-676, N-677, N-10972*
+*Related: C-9932, C-9933, N-676, N-677, N-10972*
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:12:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4558, C-4559, N-10977, N-10978*
+*Related: C-9943, C-9944, N-10977, N-10978*
 
 **A-2660.2** 60 Minutes clip of Mossad agents describing the pager operation (played)
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:15:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4560, C-4561, N-10015, N-10704, N-10977, N-10979*
+*Related: C-9945, C-9946, N-10015, N-10704, N-10977, N-10979*
 
 **A-2660.3** Reuters graphic showing the PETN detonation material inside a rigged pager (shown)
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:16:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4562, N-10974, N-10977, N-10980*
+*Related: C-9947, N-10974, N-10977, N-10980*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:19:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4563, C-4564, C-4565, N-10974, N-10768*
+*Related: C-9948, C-9949, C-9950, N-10974, N-10768*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:27:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4571, C-4573, N-10982, N-10014*
+*Related: C-9956, C-9958, N-10982, N-10014*
 
 **A-2662.2** Host's FOIA request for Kash Patel's official schedule and travel for September 7–10, 2025 (read aloud)
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:28:20
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4574, N-69, N-10971, N-10700*
+*Related: C-9959, N-69, N-10971, N-10700*
 
 **A-2662.3** FBI response invoking "unusual circumstances" for the request (read aloud)
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:30:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4576, N-10014, N-10971, N-10700*
+*Related: C-9961, N-10014, N-10971, N-10700*
 
 ---
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:30:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4577, N-159, N-10971*
+*Related: C-9962, N-159, N-10971*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:34:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4579, N-268, N-680, N-1*
+*Related: C-9964, N-268, N-680, N-1*
 
 ---
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:36:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4580, N-2, N-666*
+*Related: C-9965, N-2, N-666*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:36:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4578, C-4581, N-2, N-10888, N-10923*
+*Related: C-9963, C-9966, N-2, N-10888, N-10923*
 
 ---
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:46:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4588, N-2*
+*Related: C-9973, N-2*
 
 ---
 ## 4. Node Register
@@ -224,379 +224,379 @@ Confidence Level: Medium
 
 His resurfaced Butler video is played; the host discusses his Salt Lake City trip on September 10, the theory about his Rode microphone and his reported dinner with Tucker Carlson.
 
-*Related: C-4542, C-4543, C-4544, C-4545, C-4546, C-4565, C-4572, C-4579, C-4583, C-4585, C-4587, C-4589, A-2658.1, A-2664.1*
+*Related: C-9927, C-9928, C-9929, C-9930, C-9931, C-9950, C-9957, C-9964, C-9968, C-9970, C-9972, C-9974, A-2658.1, A-2664.1*
 
 **N-2** Erika Kirk
 
 Her on-air breakdown, the "emotional asset" email, her reported anti-Israel views at a dinner with Tucker Carlson, her later pro-Israel stance and her trademarks are discussed.
 
-*Related: C-4546, C-4578, C-4580, C-4581, C-4583, C-4584, C-4585, C-4586, C-4587, C-4588, C-4589, A-2665.1, A-2666.1, A-2667.1*
+*Related: C-9931, C-9963, C-9965, C-9966, C-9968, C-9969, C-9970, C-9971, C-9972, C-9973, C-9974, A-2665.1, A-2666.1, A-2667.1*
 
 **N-3** Candace Owens
 
 Host; files the Kash Patel FOIA request, recounts her Maine trip to Tucker Carlson's house and answers Ben Shapiro's Russia rumor.
 
-*Related: C-4541, C-4574, C-4578, C-4582, C-4583, C-4590, C-4591*
+*Related: C-9926, C-9959, C-9963, C-9967, C-9968, C-9975, C-9976*
 
 **N-5** Donald Trump
 
 Target of the Butler assassination attempt; the host says he received a golden pager from Netanyahu and is satisfied with the Butler investigation.
 
-*Related: C-4542, C-4553, C-4566, C-4567, C-4569, A-2658.1*
+*Related: C-9927, C-9938, C-9951, C-9952, C-9954, A-2658.1*
 
 **N-14** Andrew Kolvet
 
 Transcript spelling "Andrew Kolvet". The host says he implied the "emotional asset" email was made up.
 
-*Related: C-4578*
+*Related: C-9963*
 
 **N-17** Rob McCoy
 
 Transcript spelling "Rob McCoyy". The host says his wife watched Erika Kirk's children while Erika went back to the office.
 
-*Related: C-4589*
+*Related: C-9974*
 
 **N-22** Tucker Carlson
 
 The host says he told her and her husband that Erika Kirk was more anti-Israel than Charlie and hated the pastors around him.
 
-*Related: C-4582, C-4583, C-4584, C-4587, C-4590*
+*Related: C-9967, C-9968, C-9969, C-9972, C-9975*
 
 **N-30** George (Candace's husband)
 
 The host says he recalled and confirmed Tucker Carlson's account of the dinner with Charlie and Erika Kirk.
 
-*Related: C-4583, C-4590*
+*Related: C-9968, C-9975*
 
 **N-36** Benjamin Netanyahu
 
 Transcript spellings "BB Netanyahu" and "BB Netanyahu". Gave Trump a golden pager; said to have called during the Hamptons dinner.
 
-*Related: C-4566, C-4585*
+*Related: C-9951, C-9970*
 
 **N-37** Bill Ackman
 
 Transcript spelling "Bill Ackman". The host says Erika Kirk sat across from him at the Hamptons dinner.
 
-*Related: C-4585*
+*Related: C-9970*
 
 **N-40** Tyler Robinson
 
 The host says Erika Kirk accepted the Tyler Robinson narrative after the assassination.
 
-*Related: C-4586*
+*Related: C-9971*
 
 **N-69** Kash Patel
 
 Subject of the host's FOIA request for his schedule and travel for September 7–10, 2025.
 
-*Related: C-4573, C-4574, C-4575, C-4576, A-2662.2*
+*Related: C-9958, C-9959, C-9960, C-9961, A-2662.2*
 
 **N-97** Ben Shapiro
 
 The host says he is spreading a rumor that she was spending time with Vladimir Putin in Russia.
 
-*Related: C-4591*
+*Related: C-9976*
 
 **N-104** Thomas Matthew Crooks
 
 Referred to only through "the Crooks family"; the host says Mark Liti was Facebook friends with members of it.
 
-*Related: C-4557*
+*Related: C-9942*
 
 **N-105** Corey Comperatore
 
 Transcript spellings "Corey Comperatore" and "Cory Comparator". Described as Mark Liti's high school friend and confidant, killed at the Butler rally; his family is said to be dissatisfied with the investigation.
 
-*Related: C-4541, C-4551, C-4554, C-4555, C-4556, C-4570*
+*Related: C-9926, C-9936, C-9939, C-9940, C-9941, C-9955*
 
 **N-159** Blake Neff
 
 Transcript spellings "Blake Neff" and "Blick Nef". Posted on X mocking the host's FOIA request.
 
-*Related: C-4577, A-2663.1*
+*Related: C-9962, A-2663.1*
 
 **N-190** Mikey McCoy
 
 The host says he did not call 911 but called his wife.
 
-*Related: C-4545*
+*Related: C-9930*
 
 **N-268** Joe Rogan
 
 Asked on his podcast who killed Charlie Kirk and why the ground was paved over.
 
-*Related: C-4579, A-2664.1*
+*Related: C-9964, A-2664.1*
 
 **N-270** Dan Flood
 
 The host says Erika Kirk gave him a raise after the assassination.
 
-*Related: C-4546*
+*Related: C-9931*
 
 **N-378** Dan Bongino
 
 Transcript spelling "Dan Bongino". The host calls his reaction to Butler strange.
 
-*Related: C-4569*
+*Related: C-9954*
 
 **N-676** Mark Liti
 
 First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Liti; Mark Le; Mark Liti; Mark a lady.
 
-*Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4554, C-4557, A-2659.1*
+*Related: C-9932, C-9933, C-9934, C-9935, C-9936, C-9937, C-9939, C-9942, A-2659.1*
 
 **N-677** Chris Liti
 
 First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark Liti's older brother, still trying to process his death.
 
-*Related: C-4548, A-2659.1*
+*Related: C-9933, A-2659.1*
 
 **N-678** Courtney Fife
 
 First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.
 
-*Related: C-4551, C-4552*
+*Related: C-9936, C-9937*
 
 **N-679** Joe Biden
 
 First named by the host at 00:21:38 in episode 115 (as "President Biden"). The host notes he, not Trump, was president at the time of the pager operation.
 
-*Related: C-4567*
+*Related: C-9952*
 
 **N-680** Cameron Hanes
 
 First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Hanes.
 
-*Related: C-4579, A-2664.1*
+*Related: C-9964, A-2664.1*
 
 **N-666** James Kaddis
 
 First named by the host at 00:35:47 in episode 115. Pastor who co-hosts Erika Kirk's show and read the viewer question that preceded her breakdown.
 
-*Related: C-4580, A-2665.1*
+*Related: C-9965, A-2665.1*
 
 **N-625** Vladimir Putin
 
 First named by the host at 00:51:56 in episode 115 (as "Vlatty Daddy"). The host denies Ben Shapiro's rumor that she was spending time with him in Russia.
 
-*Related: C-4591*
+*Related: C-9976*
 
 **N-10000** Turning Point USA
 
 The host says Blake Neff reflects the organization's general mood of no questions.
 
-*Related: C-4577*
+*Related: C-9962*
 
 **N-10014** Federal Bureau of Investigation
 
 Operated the plane that flew to Salt Lake City on September 8 and replied to the Kash Patel FOIA request.
 
-*Related: C-4571, C-4573, C-4576, A-2662.1, A-2662.3*
+*Related: C-9956, C-9958, C-9961, A-2662.1, A-2662.3*
 
 **N-10015** Mossad
 
 Named as carrying out the pager operation and boasting of its shell-company methods.
 
-*Related: C-4560, C-4561, C-4566, A-2660.2*
+*Related: C-9945, C-9946, C-9951, A-2660.2*
 
 **N-10026** Israel
 
 Credited by the host with the pager attack; Erika Kirk's reported views on it are central to the final segment.
 
-*Related: C-4560, C-4568, C-4583, C-4586, C-4587*
+*Related: C-9945, C-9953, C-9968, C-9971, C-9972*
 
 **N-10027** The Hamptons
 
 Site of the dinner where the host says Erika Kirk sat across from Bill Ackman.
 
-*Related: C-4585*
+*Related: C-9970*
 
 **N-10075** White House
 
 Site of Netanyahu's golden-pager gift; the host asks why Erika's clip was boosted there.
 
-*Related: C-4566, C-4581*
+*Related: C-9951, C-9966*
 
 **N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
 The Patel schedule request is another thread in the host's scrutiny of the FBI.
 
-*Related: C-4574*
+*Related: C-9959*
 
 **N-10482** Mikey McCoy Phone Call Sequence
 
 The host restates that McCoy called his wife rather than 911.
 
-*Related: C-4545*
+*Related: C-9930*
 
 **N-10495** BB Netanyahu Hamptons Dinner Allegation
 
 The host restates that Netanyahu was called during the Hamptons dinner attended by Erika Kirk.
 
-*Related: C-4585*
+*Related: C-9970*
 
 **N-10505** Erika Kirk Post-Assassination Conduct Composite
 
 Her return to the office, trademarks and pro-Israel turn after the assassination.
 
-*Related: C-4586, C-4588, C-4589*
+*Related: C-9971, C-9973, C-9974*
 
 **N-10588** Butler PA Investigation Closure Verification
 
 Charlie Kirk's video, Trump's satisfaction and the Comperatore family's dissatisfaction with the Butler investigation.
 
-*Related: C-4542, C-4543, C-4544, C-4569, C-4570, A-2658.1*
+*Related: C-9927, C-9928, C-9929, C-9954, C-9955, A-2658.1*
 
 **N-10694** Dan Flood Role and Behavior Assessment
 
 The host says Flood was given a raise after the assassination.
 
-*Related: C-4546*
+*Related: C-9931*
 
 **N-10700** Pending FOIA Requests
 
 The Kash Patel schedule request and the FBI's "unusual circumstances" reply are added to the host's FOIA trail.
 
-*Related: C-4574, C-4576, C-4578, A-2662.2, A-2662.3*
+*Related: C-9959, C-9961, C-9963, A-2662.2, A-2662.3*
 
 **N-10704** Mossad "Truman Show" Analogy Application
 
 The 60 Minutes Mossad clip describing a "Truman show" is replayed.
 
-*Related: C-4560, C-4561, A-2660.2*
+*Related: C-9945, C-9946, A-2660.2*
 
 **N-10705** Charlie's Road Microphone Glass Origin Investigation Target
 
 The PETN road-microphone theory is raised alongside the explosive test video.
 
-*Related: C-4565*
+*Related: C-9950*
 
 **N-10724** Butler Shooting Insider Involvement Claim
 
 The host's questions about who escorted the Comperatore family to the front.
 
-*Related: C-4555*
+*Related: C-9940*
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
 The host links the PETN test video to the theory that Charlie Kirk's Rode microphone was rigged with PETN.
 
-*Related: C-4565, A-2661.1*
+*Related: C-9950, A-2661.1*
 
 **N-10732** Salt Lake City Hotel Identification Gap
 
 Charlie Kirk's September 10 morning stop in Salt Lake City is raised again.
 
-*Related: C-4572*
+*Related: C-9957*
 
 **N-10888** Department of War
 
 Named by the host as the source of the "emotional asset" email that asked for Erika Kirk's clip to be the number one clip by morning.
 
-*Related: C-4581, A-2666.1*
+*Related: C-9966, A-2666.1*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
 Investigation target: the internal email that, per the host, called Erika Kirk an "emotional asset" and asked that her clip be the number one clip by morning, within an hour of the WHCD shooting. In this episode the host says Andrew Kolvet implied the email was made up and that her team filed and followed up on a FOIA request about it.
 
-*Related: C-4578, C-4581, A-2666.1, N-2, N-10888*
+*Related: C-9963, C-9966, A-2666.1, N-2, N-10888*
 
 **N-10971** Kash Patel September 7–10, 2025 Schedule FOIA Request
 
 Node Type: Topic
 Investigation target: the host's FOIA request for FBI Director Kash Patel's official schedule, calendar, meetings and travel from September 7 to September 10, 2025, including travel authorizations, flight records and visitor logs. The FBI replied that "unusual circumstances" apply and that it may not decide within 20 days. Blake Neff mocked the request on X.
 
-*Related: C-4574, C-4575, C-4576, C-4577, A-2662.2, A-2662.3, A-2663.1, N-69*
+*Related: C-9959, C-9960, C-9961, C-9962, A-2662.2, A-2662.3, A-2663.1, N-69*
 
 **N-10972** Mark Liti Burn Barrel Death
 
 Node Type: Topic
 Investigation target: the August 23, 2022 death of Mark Liti, 48, reported as a freak burn-barrel explosion in which shrapnel struck his neck. The host says Liti supervised PETN-using perforating work at Surefire Wireline in Kittanning, Pennsylvania, allegedly confessed a week earlier to taking explosives from work, and was under ATF investigation. She says his confidant was Corey Comperatore, killed at Butler on July 13, 2024.
 
-*Related: C-4547, C-4548, C-4549, C-4550, C-4551, C-4552, C-4553, C-4554, C-4557, A-2659.1, N-676, N-105*
+*Related: C-9932, C-9933, C-9934, C-9935, C-9936, C-9937, C-9938, C-9939, C-9942, A-2659.1, N-676, N-105*
 
 **N-10973** Surefire Wireline LLC
 
 Node Type: Organization
 Kittanning, Pennsylvania oil and gas services company specializing in pump-down perforating; the host says Mark Liti was a supervisor there.
 
-*Related: C-4549, C-4550, N-676*
+*Related: C-9934, C-9935, N-676*
 
 **N-10974** PETN Explosive
 
 Node Type: Topic
 The explosive PETN, which the host says is used in well perforating, was used in the 2024 pager attack (about six grams per pager per Reuters), and in a 20-gram test mimicked a .30-06 gunshot. She connects it to the theory about Charlie Kirk's Rode microphone.
 
-*Related: C-4550, C-4551, C-4559, C-4562, C-4563, C-4565, A-2660.3, A-2661.1*
+*Related: C-9935, C-9936, C-9944, C-9947, C-9948, C-9950, A-2660.3, A-2661.1*
 
 **N-10975** Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)
 
 Node Type: Organization
 Federal agency the host says was investigating Mark Liti over explosives taken from work.
 
-*Related: C-4552, N-676, N-678*
+*Related: C-9937, N-676, N-678*
 
 **N-10976** Corey Comperatore Front-Row Escort Question
 
 Node Type: Topic
 Investigation target: the identity and authority of the unknown woman who, according to the host, asked Corey Comperatore's family, who held regular tickets, whether they wanted to be escorted to the front of the Butler rally on July 13, 2024.
 
-*Related: C-4555, N-105*
+*Related: C-9940, N-105*
 
 **N-10977** September 2024 Lebanon Pager Attack
 
 Node Type: Topic
 The September 17–18, 2024 explosions of PETN-rigged pagers across Lebanon and Syria, which the host says wounded more than 3,000 people and killed 12, including two children. She attributes the attack to Israel through shell companies supplying Hezbollah.
 
-*Related: C-4558, C-4559, C-4560, C-4561, C-4562, C-4566, C-4567, A-2660.1, A-2660.2, A-2660.3*
+*Related: C-9943, C-9944, C-9945, C-9946, C-9947, C-9951, C-9952, A-2660.1, A-2660.2, A-2660.3*
 
 **N-10978** Hezbollah
 
 Node Type: Organization
 Intended target of the pager attack, per the host and the news clip.
 
-*Related: C-4559, C-4560, A-2660.1*
+*Related: C-9944, C-9945, A-2660.1*
 
 **N-10979** Gold Apollo
 
 Node Type: Organization
 Taiwanese company whose pager brand was used; the Mossad agents in the 60 Minutes clip say it had "zero clue" it was working with the Mossad.
 
-*Related: C-4561, A-2660.2*
+*Related: C-9946, A-2660.2*
 
 **N-10980** Reuters
 
 Node Type: Organization
 News agency whose graphic estimated six grams of PETN per rigged pager.
 
-*Related: C-4562, A-2660.3*
+*Related: C-9947, A-2660.3*
 
 **N-10981** Netanyahu Golden Pager Gift to Trump
 
 Node Type: Topic
 Investigation target: the golden pager Benjamin Netanyahu presented to Donald Trump at the White House on February 4, 2025. The host asks what it signified, given that Biden was president at the time of the pager operation, and whether the United States assisted.
 
-*Related: C-4566, C-4567, N-36, N-5*
+*Related: C-9951, C-9952, N-36, N-5*
 
 **N-10982** FBI Plane Richmond–Salt Lake City September 8, 2025 Flight
 
 Node Type: Topic
 Investigation target: an FBI plane the host says left Richmond, Virginia at 9:50 a.m. on September 8, 2025, reached Salt Lake City at 12:00 p.m. and left about an hour later. She says it partly prompted her request for Kash Patel's schedule and does not show that Patel was aboard.
 
-*Related: C-4571, C-4573, A-2662.1, N-10014, N-69*
+*Related: C-9956, C-9958, A-2662.1, N-10014, N-69*
 
 **N-10983** Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner
 
 Node Type: Topic
 Investigation target: the host's account that Tucker Carlson told her and her husband during a one-day visit to his Maine house that, at a summer 2025 dinner with Charlie and Erika Kirk, Erika was "very hardcore against Israel," more so than Charlie, and hated the pastors around him. The host contrasts this with Erika's attendance at the Hamptons summit and her later pro-Israel stance.
 
-*Related: C-4582, C-4583, C-4584, C-4585, C-4586, C-4587, C-4590, N-22, N-2, N-30*
+*Related: C-9967, C-9968, C-9969, C-9970, C-9971, C-9972, C-9975, N-22, N-2, N-30*
 
 ## 5. Claim Register
 
-**C-4541** Host was contacted by people who knew Corey Comperatore after raising Butler
+**C-9926** Host was contacted by people who knew Corey Comperatore after raising Butler
 
 Claim Timestamp: 00:00:01
 
@@ -611,7 +611,7 @@ Investigative Direction: Identify the sources who contacted the host and confirm
 
 ---
 
-**C-4542** Charlie Kirk said the Butler shooter was identified by the Secret Service three hours beforehand
+**C-9927** Charlie Kirk said the Butler shooter was identified by the Secret Service three hours beforehand
 
 Claim Timestamp: 00:02:27
 
@@ -626,7 +626,7 @@ Investigative Direction: Compare with the Senate and House task force reports on
 
 ---
 
-**C-4543** Charlie Kirk said a local officer climbed the ladder, was met with a gun and walked away
+**C-9928** Charlie Kirk said a local officer climbed the ladder, was met with a gun and walked away
 
 Claim Timestamp: 00:03:28
 
@@ -641,7 +641,7 @@ Investigative Direction: Check the Butler Township officer's statement and the c
 
 ---
 
-**C-4544** Charlie Kirk said no one was fired or resigned over Butler
+**C-9929** Charlie Kirk said no one was fired or resigned over Butler
 
 Claim Timestamp: 00:04:31
 
@@ -656,7 +656,7 @@ Investigative Direction: Compare the video's recording date with Secret Service 
 
 ---
 
-**C-4545** Mikey McCoy called his wife, not 911
+**C-9930** Mikey McCoy called his wife, not 911
 
 Claim Timestamp: 00:04:31
 
@@ -667,12 +667,12 @@ Transcript Snippet: No one called 911. Mikey McCoy didn't call. He called his wi
 Anchored Artifacts:
 Mentions: N-190, N-1
 Related Nodes: N-10482
-Supports: C-2294
+Supports: C-6107
 Investigative Direction: Obtain Mikey McCoy's call log for September 10, 2025 and the Orem/UVU 911 dispatch records.
 
 ---
 
-**C-4546** Erika Kirk gave Dan Flood a raise after the assassination
+**C-9931** Erika Kirk gave Dan Flood a raise after the assassination
 
 Claim Timestamp: 00:05:42
 
@@ -687,7 +687,7 @@ Investigative Direction: Obtain TPUSA compensation records for security staff be
 
 ---
 
-**C-4547** Mark Liti died on August 23, 2022 in a burn-barrel explosion
+**C-9932** Mark Liti died on August 23, 2022 in a burn-barrel explosion
 
 Claim Timestamp: 00:06:04
 
@@ -702,7 +702,7 @@ Investigative Direction: Obtain the coroner's report, police incident report and
 
 ---
 
-**C-4548** Liti's family still does not know what exploded in the barrel
+**C-9933** Liti's family still does not know what exploded in the barrel
 
 Claim Timestamp: 00:07:01
 
@@ -717,7 +717,7 @@ Investigative Direction: Check whether investigators, the ATF or the coroner ide
 
 ---
 
-**C-4549** Liti was a supervisor at Surefire Wireline in Kittanning, Pennsylvania
+**C-9934** Liti was a supervisor at Surefire Wireline in Kittanning, Pennsylvania
 
 Claim Timestamp: 00:07:51
 
@@ -732,7 +732,7 @@ Investigative Direction: Confirm Liti's employment and role through Surefire Wir
 
 ---
 
-**C-4550** Well perforating requires PETN
+**C-9935** Well perforating requires PETN
 
 Claim Timestamp: 00:07:51
 
@@ -747,7 +747,7 @@ Investigative Direction: Check industry and ATF documentation on the explosives 
 
 ---
 
-**C-4551** Liti allegedly confessed to his high school friend that he took explosives from work
+**C-9936** Liti allegedly confessed to his high school friend that he took explosives from work
 
 Claim Timestamp: 00:08:45
 
@@ -762,7 +762,7 @@ Investigative Direction: Identify the source of the confession account and any A
 
 ---
 
-**C-4552** The ATF was reportedly investigating Liti
+**C-9937** The ATF was reportedly investigating Liti
 
 Claim Timestamp: 00:08:45
 
@@ -777,7 +777,7 @@ Investigative Direction: FOIA the ATF for any 2022 investigation into explosives
 
 ---
 
-**C-4553** Butler is 30 minutes from Kittanning
+**C-9938** Butler is 30 minutes from Kittanning
 
 Claim Timestamp: 00:09:51
 
@@ -792,7 +792,7 @@ Investigative Direction: Confirm the driving distance between Kittanning and the
 
 ---
 
-**C-4554** Liti's confidant was Corey Comperatore
+**C-9939** Liti's confidant was Corey Comperatore
 
 Claim Timestamp: 00:10:45
 
@@ -807,7 +807,7 @@ Investigative Direction: Confirm the friendship through school records, social m
 
 ---
 
-**C-4555** An unknown woman escorted the Comperatore family to the front at Butler
+**C-9940** An unknown woman escorted the Comperatore family to the front at Butler
 
 Claim Timestamp: 00:10:45
 
@@ -822,7 +822,7 @@ Investigative Direction: Review rally footage, campaign staff lists and the Comp
 
 ---
 
-**C-4556** Corey Comperatore was shot in the head at Butler
+**C-9941** Corey Comperatore was shot in the head at Butler
 
 Claim Timestamp: 00:11:53
 
@@ -833,12 +833,12 @@ Transcript Snippet: That's that's that's a big authority, right? Cory Comparator
 Anchored Artifacts:
 Mentions: N-105
 Related Nodes: N-10588
-Supports: C-3728
+Supports: C-784
 Investigative Direction: Check the autopsy and the FBI's Butler investigative findings.
 
 ---
 
-**C-4557** Liti was Facebook friends with members of the Crooks family
+**C-9942** Liti was Facebook friends with members of the Crooks family
 
 Claim Timestamp: 00:11:53
 
@@ -853,7 +853,7 @@ Investigative Direction: Archive Liti's Facebook friend list and check which Cro
 
 ---
 
-**C-4558** The September 2024 pager explosions wounded more than 3,000 and killed 12
+**C-9943** The September 2024 pager explosions wounded more than 3,000 and killed 12
 
 Claim Timestamp: 00:12:21
 
@@ -868,7 +868,7 @@ Investigative Direction: Compare with Lebanese Health Ministry casualty figures 
 
 ---
 
-**C-4559** The pagers were rigged with PETN and targeted Hezbollah
+**C-9944** The pagers were rigged with PETN and targeted Hezbollah
 
 Claim Timestamp: 00:13:22
 
@@ -883,7 +883,7 @@ Investigative Direction: Check Reuters and Lebanese investigation findings on th
 
 ---
 
-**C-4560** Israel carried out the pager attack through shell companies
+**C-9945** Israel carried out the pager attack through shell companies
 
 Claim Timestamp: 00:14:24
 
@@ -898,7 +898,7 @@ Investigative Direction: Review investigative reporting and corporate registries
 
 ---
 
-**C-4561** Mossad agents said Gold Apollo had no idea it was working with Mossad
+**C-9946** Mossad agents said Gold Apollo had no idea it was working with Mossad
 
 Claim Timestamp: 00:16:30
 
@@ -913,7 +913,7 @@ Investigative Direction: Check the 60 Minutes segment and Gold Apollo's statemen
 
 ---
 
-**C-4562** Reuters estimated six grams of PETN per pager
+**C-9947** Reuters estimated six grams of PETN per pager
 
 Claim Timestamp: 00:16:30
 
@@ -928,7 +928,7 @@ Investigative Direction: Locate the Reuters graphic and its sourcing for the six
 
 ---
 
-**C-4563** A 20-gram PETN charge mimicked a .30-06 gunshot in a YouTube test
+**C-9948** A 20-gram PETN charge mimicked a .30-06 gunshot in a YouTube test
 
 Claim Timestamp: 00:20:06
 
@@ -943,7 +943,7 @@ Investigative Direction: Identify the channel and original upload and compare wi
 
 ---
 
-**C-4564** The PETN test video was published in May 2025
+**C-9949** The PETN test video was published in May 2025
 
 Claim Timestamp: 00:20:06
 
@@ -958,7 +958,7 @@ Investigative Direction: Confirm the upload date on YouTube or through an archiv
 
 ---
 
-**C-4565** A persistent theory holds that Charlie Kirk's road mic was rigged with PETN
+**C-9950** A persistent theory holds that Charlie Kirk's road mic was rigged with PETN
 
 Claim Timestamp: 00:20:57
 
@@ -973,7 +973,7 @@ Investigative Direction: Obtain the evidence inventory and forensic reports on t
 
 ---
 
-**C-4566** Netanyahu gave Trump a golden pager on February 4, 2025
+**C-9951** Netanyahu gave Trump a golden pager on February 4, 2025
 
 Claim Timestamp: 00:21:38
 
@@ -988,7 +988,7 @@ Investigative Direction: Check White House and Israeli Prime Minister's Office r
 
 ---
 
-**C-4567** Biden, not Trump, was president during the pager operation
+**C-9952** Biden, not Trump, was president during the pager operation
 
 Claim Timestamp: 00:21:38
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Confirm the timeline: pager attack September 17–18, 2
 
 ---
 
-**C-4568** The United States supplies Israel with white phosphorus
+**C-9953** The United States supplies Israel with white phosphorus
 
 Claim Timestamp: 00:22:34
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Check US arms-transfer records and human rights reports
 
 ---
 
-**C-4569** Trump is satisfied with the Butler investigation and wants it shut down
+**C-9954** Trump is satisfied with the Butler investigation and wants it shut down
 
 Claim Timestamp: 00:23:20
 
@@ -1029,12 +1029,12 @@ Transcript Snippet: Most of all, Dan Bongino's strange reaction to it, uh, Trump
 Anchored Artifacts:
 Mentions: N-5, N-378
 Related Nodes: N-10588
-Supports: C-2677
+Supports: C-7996
 Investigative Direction: Collect Trump's and Bongino's public statements on the Butler investigation and the FBI's closure status.
 
 ---
 
-**C-4570** The Comperatore family is not satisfied with the Butler investigation
+**C-9955** The Comperatore family is not satisfied with the Butler investigation
 
 Claim Timestamp: 00:23:20
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Seek public statements from Corey Comperatore's widow o
 
 ---
 
-**C-4571** An FBI plane landed in Salt Lake City on September 8, 2025
+**C-9956** An FBI plane landed in Salt Lake City on September 8, 2025
 
 Claim Timestamp: 00:27:35
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Identify the tail number and pull ADS-B history and FAA
 
 ---
 
-**C-4572** Charlie Kirk first went to Salt Lake City on the morning of September 10
+**C-9957** Charlie Kirk first went to Salt Lake City on the morning of September 10
 
 Claim Timestamp: 00:27:35
 
@@ -1079,7 +1079,7 @@ Investigative Direction: Obtain flight records for Kirk's September 10, 2025 arr
 
 ---
 
-**C-4573** The FBI plane flew Richmond to Salt Lake City and left an hour later
+**C-9958** The FBI plane flew Richmond to Salt Lake City and left an hour later
 
 Claim Timestamp: 00:28:20
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Pull ADS-B departure and arrival data and request the p
 
 ---
 
-**C-4574** Host filed a FOIA request for Kash Patel's September 7–10, 2025 schedule
+**C-9959** Host filed a FOIA request for Kash Patel's September 7–10, 2025 schedule
 
 Claim Timestamp: 00:28:20
 
@@ -1109,7 +1109,7 @@ Investigative Direction: Obtain the FBI FOIA tracking number and submission date
 
 ---
 
-**C-4575** Taxpayers pay for Kash Patel's girlfriend's security
+**C-9960** Taxpayers pay for Kash Patel's girlfriend's security
 
 Claim Timestamp: 00:30:05
 
@@ -1124,7 +1124,7 @@ Investigative Direction: Check FBI and DOJ records and reporting on security det
 
 ---
 
-**C-4576** The FBI replied that "unusual circumstances" apply to the request
+**C-9961** The FBI replied that "unusual circumstances" apply to the request
 
 Claim Timestamp: 00:30:05
 
@@ -1139,7 +1139,7 @@ Investigative Direction: Track the request's status and any later determination 
 
 ---
 
-**C-4577** Blake Neff Wrote a Post Mocking the FOIA Request
+**C-9962** Blake Neff Wrote a Post Mocking the FOIA Request
 
 Claim Timestamp: 00:32:03
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Archive Blake Neff's X post and its date.
 
 ---
 
-**C-4578** Kolvet implied the "emotional asset" email was made up; host filed a FOIA request
+**C-9963** Kolvet implied the "emotional asset" email was made up; host filed a FOIA request
 
 Claim Timestamp: 00:32:37
 
@@ -1169,7 +1169,7 @@ Investigative Direction: Obtain the FOIA request and agency replies on the email
 
 ---
 
-**C-4579** Joe Rogan asked on his podcast who killed Charlie Kirk and why the ground was paved over
+**C-9964** Joe Rogan asked on his podcast who killed Charlie Kirk and why the ground was paved over
 
 Claim Timestamp: 00:34:51
 
@@ -1183,7 +1183,7 @@ Investigative Direction: Identify the Joe Rogan Experience episode and its relea
 
 ---
 
-**C-4580** Erika Kirk broke down on her show with Pastor James Kaddis
+**C-9965** Erika Kirk broke down on her show with Pastor James Kaddis
 
 Claim Timestamp: 00:35:47
 
@@ -1198,7 +1198,7 @@ Investigative Direction: Locate the episode of Erika Kirk's show and the viewer 
 
 ---
 
-**C-4581** The Department of War asked for Erika's clip to be the number one clip by morning
+**C-9966** The Department of War asked for Erika's clip to be the number one clip by morning
 
 Claim Timestamp: 00:36:53
 
@@ -1213,7 +1213,7 @@ Investigative Direction: Obtain the original email headers and distribution list
 
 ---
 
-**C-4582** Host's Maine trip to Tucker Carlson's house was a single day
+**C-9967** Host's Maine trip to Tucker Carlson's house was a single day
 
 Claim Timestamp: 00:38:58
 
@@ -1228,7 +1228,7 @@ Investigative Direction: Confirm the date of the visit through travel records or
 
 ---
 
-**C-4583** Tucker Carlson said Erika Kirk was "very hardcore against Israel"
+**C-9968** Tucker Carlson said Erika Kirk was "very hardcore against Israel"
 
 Claim Timestamp: 00:38:58
 
@@ -1243,7 +1243,7 @@ Investigative Direction: Seek Tucker Carlson's own account of the dinner and its
 
 ---
 
-**C-4584** Tucker Carlson said Erika Kirk hated the pastors around Charlie
+**C-9969** Tucker Carlson said Erika Kirk hated the pastors around Charlie
 
 Claim Timestamp: 00:40:22
 
@@ -1258,7 +1258,7 @@ Investigative Direction: Seek Carlson's confirmation and identify the pastors in
 
 ---
 
-**C-4585** Erika Kirk Sat Across From Bill Ackman at the Hamptons Dinner When Netanyahu Was Called
+**C-9970** Erika Kirk Sat Across From Bill Ackman at the Hamptons Dinner When Netanyahu Was Called
 
 Claim Timestamp: 00:41:09
 
@@ -1273,7 +1273,7 @@ Investigative Direction: Interview Hamptons attendees and check phone records fo
 
 ---
 
-**C-4586** After the assassination Erika Kirk called questions about Israel "brain rot"
+**C-9971** After the assassination Erika Kirk called questions about Israel "brain rot"
 
 Claim Timestamp: 00:41:09
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Locate Erika Kirk's "brain rot" statement and its date.
 
 ---
 
-**C-4587** Tucker Carlson said Erika Kirk was more anti-Israel than Charlie
+**C-9972** Tucker Carlson said Erika Kirk was more anti-Israel than Charlie
 
 Claim Timestamp: 00:42:29
 
@@ -1303,7 +1303,7 @@ Investigative Direction: Seek Tucker Carlson's on-record account of the dinner.
 
 ---
 
-**C-4588** Erika Kirk filed CK trademarks soon after Charlie's death
+**C-9973** Erika Kirk filed CK trademarks soon after Charlie's death
 
 Claim Timestamp: 00:46:55
 
@@ -1318,7 +1318,7 @@ Investigative Direction: Search USPTO records for "Charlie Kirk" and "CK" marks 
 
 ---
 
-**C-4589** Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children
+**C-9974** Erika Kirk was in the office every day after the death while Rob McCoy's wife watched her children
 
 Claim Timestamp: 00:46:55
 
@@ -1333,7 +1333,7 @@ Investigative Direction: Corroborate with TPUSA staff accounts of Erika Kirk's p
 
 ---
 
-**C-4590** Host's husband confirmed the Tucker Carlson account in front of her team
+**C-9975** Host's husband confirmed the Tucker Carlson account in front of her team
 
 Claim Timestamp: 00:50:21
 
@@ -1348,7 +1348,7 @@ Investigative Direction: Seek confirmation from Carlson and from team members pr
 
 ---
 
-**C-4591** Ben Shapiro is spreading a rumor that the host was spending time with Putin in Russia
+**C-9976** Ben Shapiro is spreading a rumor that the host was spending time with Putin in Russia
 
 Claim Timestamp: 00:51:56
 
@@ -1615,7 +1615,7 @@ Confidence: medium
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
 - **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "Mossad" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.
-- **Possible cross-episode links left out**: C-4572 (Charlie Kirk flew to Salt Lake City on the morning of September 10) could support C-1554 or C-1561 (episode 23), but those claims are about specific planes and chat reports. C-4579 (Rogan on the paved-over ground) is a question, not an assertion like C-1386. C-4585 overlaps the Hamptons Netanyahu call claims (C-1129) without restating them. C-4583/C-4587 match C-3603 (episode 158), which is later and not linked.
+- **Possible cross-episode links left out**: C-9957 (Charlie Kirk flew to Salt Lake City on the morning of September 10) could support C-2144 or C-2167 (episode 23), but those claims are about specific planes and chat reports. C-9964 (Rogan on the paved-over ground) is a question, not an assertion like C-1465. C-9970 overlaps the Hamptons Netanyahu call claims (C-82) without restating them. C-9968/C-9972 match C-13675 (episode 158), which is later and not linked.
 - **Not inscribed as claims (admission test)**:
   - The host's inference that Erika, as Charlie's confidant, was "pushing him to be more anti-Israel"
   - The host's speculation that she lied to her husband to become CEO ("I can be your queen")

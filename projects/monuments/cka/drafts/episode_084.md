@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-595, N-596, N-597, N-10903, N-10904, N-10906
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-106, N-186, N-190, N-209, N-211, N-217, N-243, N-246, N-266, N-330, N-361, N-493, N-551, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587, N-598, N-10641, N-599
-  - Claim Range: C-3777–C-3826
+  - Claim Range: C-7507–C-7556
   - (see registers)
 
 ## 2. Executive Summary
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3779, C-3780, C-3781, N-596, N-2, N-10108, N-10074*
+*Related: C-7509, C-7510, C-7511, N-596, N-2, N-10108, N-10074*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:05:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3786, C-3787, N-14, N-3*
+*Related: C-7516, C-7517, N-14, N-3*
 
 **A-2526.2** Audio clip of the host's phone call with Andrew Kolvet on when he learned of the death
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:06:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3783, C-3789, N-14, N-3, N-5*
+*Related: C-7513, C-7519, N-14, N-3, N-5*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:33:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, N-330, N-246, N-10903*
+*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, N-330, N-246, N-10903*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:12:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3785, C-3792, C-3793, C-3794, C-3795, C-3796, C-3797, C-3798, C-3799, N-14, N-493, N-551, N-15, N-10547*
+*Related: C-7515, C-7522, C-7523, C-7524, C-7525, C-7526, C-7527, C-7528, C-7529, N-14, N-493, N-551, N-15, N-10547*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:15:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3801, N-3, N-10000*
+*Related: C-7531, N-3, N-10000*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:18:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3802, C-3805, C-3806, C-3808, N-2, N-10905*
+*Related: C-7532, C-7535, C-7536, C-7538, N-2, N-10905*
 
 ---
 
@@ -148,7 +148,7 @@ Video Timestamp: 00:17:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3803, N-2, N-10479, N-10483*
+*Related: C-7533, N-2, N-10479, N-10483*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:20:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3807, N-217, N-2*
+*Related: C-7537, N-217, N-2*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:27:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3809, N-595, N-2*
+*Related: C-7539, N-595, N-2*
 
 **A-2533.2** Grok reply on X identifying Erika Kirk as the actress in the skit
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:29:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3810, N-243, N-2*
+*Related: C-7540, N-243, N-2*
 
 **A-2533.3** Ted Cruz post calling the skit beneath contempt
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:30:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3811, N-106, N-595*
+*Related: C-7541, N-106, N-595*
 
 **A-2533.4** Andrew Kolvet comment on the skit
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:30:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3812, N-14*
+*Related: C-7542, N-14*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:31:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3813, N-599, N-10000*
+*Related: C-7543, N-599, N-10000*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:42:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3823, N-186*
+*Related: C-7553, N-186*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:47:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3824, N-30, N-10631*
+*Related: C-7554, N-30, N-10631*
 
 ---
 ## 4. Node Register
@@ -259,362 +259,362 @@ Confidence Level: Low
 
 Assassination victim whose September 10 travel logistics, pilot and plane are at the center of the episode's timeline.
 
-*Related: C-3781, C-3784, C-3785, C-3786, C-3787, C-3788, C-3789, C-3790, C-3791, C-3793, C-3796, C-3797, C-3798, C-3805, C-3808, C-3815, C-3819, C-3823, C-3825*
+*Related: C-7511, C-7514, C-7515, C-7516, C-7517, C-7518, C-7519, C-7520, C-7521, C-7523, C-7526, C-7527, C-7528, C-7535, C-7538, C-7545, C-7549, C-7553, C-7555*
 
 **N-2** Erika Kirk
 
 Her September 10 whereabouts, the tarmac hug, the New York Times interview and her Instagram post about her mother are disputed by the host.
 
-*Related: C-3778, C-3779, C-3780, C-3781, C-3782, C-3788, C-3790, C-3793, C-3799, C-3800, C-3802, C-3803, C-3804, C-3805, C-3806, C-3807, C-3808, C-3809, C-3810, C-3823, A-2525.1, A-2530.1, A-2531.1, A-2532.1, A-2533.1, A-2533.2*
+*Related: C-7508, C-7509, C-7510, C-7511, C-7512, C-7518, C-7520, C-7523, C-7529, C-7530, C-7532, C-7533, C-7534, C-7535, C-7536, C-7537, C-7538, C-7539, C-7540, C-7553, A-2525.1, A-2530.1, A-2531.1, A-2532.1, A-2533.1, A-2533.2*
 
 **N-3** Candace Owens
 
 Host; relays her own texts and call with Andrew Kolvet, her conversation with Erika Kirk, the cease and desist, and the allegation about her husband.
 
-*Related: C-3777, C-3778, C-3783, C-3786, C-3787, C-3793, C-3801, C-3806, C-3812, C-3814, C-3822, C-3824, A-2526.1, A-2526.2, A-2529.1*
+*Related: C-7507, C-7508, C-7513, C-7516, C-7517, C-7523, C-7531, C-7536, C-7542, C-7544, C-7552, C-7554, A-2526.1, A-2526.2, A-2529.1*
 
 **N-4** JD Vance
 
 Named by the host as having sent Air Force Two to pick up Charlie Kirk's parents.
 
-*Related: C-3819*
+*Related: C-7549*
 
 **N-5** Donald Trump
 
 His Truth Social announcement of the death is used as a timeline marker (2:40) and by Kolvet as a reference point.
 
-*Related: C-3789, C-3798, A-2526.2*
+*Related: C-7519, C-7528, A-2526.2*
 
 **N-7** Frank Turek
 
 His 4:00 p.m. hospital-arrival estimate is relied on by the host; subject of an unverified schedule-change tip.
 
-*Related: C-3778, C-3825*
+*Related: C-7508, C-7555*
 
 **N-11** Tyler Bowyer
 
 Named on the scanner-based list of those escorted to Timpanogos Hospital with Erika Kirk.
 
-*Related: C-3799, C-3800*
+*Related: C-7529, C-7530*
 
 **N-14** Andrew Kolvet
 
 Transcript spelling "Andrew Kolvet" / "Andrew Kolvets". The host theorizes he flew Santa Barbara to Scottsdale and hugged Erika Kirk there; his texts, recorded call, skit comment and Fort Huachuca messaging are cited.
 
-*Related: C-3780, C-3781, C-3782, C-3783, C-3784, C-3785, C-3786, C-3787, C-3788, C-3789, C-3790, C-3792, C-3795, C-3800, C-3812, C-3814, C-3822, A-2526.1, A-2526.2, A-2527.1, A-2528.1, A-2533.4*
+*Related: C-7510, C-7511, C-7512, C-7513, C-7514, C-7515, C-7516, C-7517, C-7518, C-7519, C-7520, C-7522, C-7525, C-7530, C-7542, C-7544, C-7552, A-2526.1, A-2526.2, A-2527.1, A-2528.1, A-2533.4*
 
 **N-15** Justin Streiff
 Transcript spelling "Justin Streiff". Placed on the host's timeline as sending the staff-wide death email at 2:27.
 
-*Related: C-3796, A-2528.1*
+*Related: C-7526, A-2528.1*
 
 **N-30** George (Candace's husband)
 
 Subject of an online allegation about a drunk-driving hit and a $6,000 insurance claim, which the host denies.
 
-*Related: C-3824, A-2536.1*
+*Related: C-7554, A-2536.1*
 
 **N-40** Tyler Robinson
 
 The host says he has not entered a plea or been arraigned.
 
-*Related: C-3826*
+*Related: C-7556*
 
 **N-60** Laura Loomer
 
 Named by the host as asserting Tyler Robinson's guilt before any plea.
 
-*Related: C-3826*
+*Related: C-7556*
 
 **N-82** Brigitte Macron
 
 Referenced as being back in town as the Egyptian planes return to Provo.
 
-*Related: C-3821*
+*Related: C-7551*
 
 **N-106** Ted Cruz
 
 Posted that the Druski skit was "beneath contempt."
 
-*Related: C-3811, A-2533.3*
+*Related: C-7541, A-2533.3*
 
 **N-186** Stacy Sheridan
 
 Named on the scanner-based hospital escort list; host confirms she lives in the Kirks' complex.
 
-*Related: C-3799, C-3800, C-3823, A-2535.1*
+*Related: C-7529, C-7530, C-7553, A-2535.1*
 
 **N-190** Mikey McCoy
 
 Host says he and Elizabeth are at the Kirks' complex every day.
 
-*Related: C-3823*
+*Related: C-7553*
 
 **N-209** Joe Kent
 
 Host says Kolvet blames him for circulating the leaked text message.
 
-*Related: C-3822*
+*Related: C-7552*
 
 **N-211** Jesse Watters
 
 Transcript spelling "Jesse Watters". His interview with Erika Kirk is contrasted with the New York Times account.
 
-*Related: C-3808*
+*Related: C-7538*
 
 **N-217** Elizabeth McCoy
 
 Transcript spellings "Elizabeth McCord" and "Elizabeth McCoy". Her account and October Instagram post on Erika Kirk learning of the death are compared with the New York Times version.
 
-*Related: C-3799, C-3800, C-3806, C-3807, C-3823, A-2532.1*
+*Related: C-7529, C-7530, C-7536, C-7537, C-7553, A-2532.1*
 
 **N-243** Grok
 
 X AI reply misidentified Erika Kirk as the actress in the Druski skit.
 
-*Related: C-3810, A-2533.2*
+*Related: C-7540, A-2533.2*
 
 **N-246** Butch Hibbs
 
 Named by Baron Coleman as part of the security team in Montana on October 5.
 
-*Related: C-3818, A-2527.2*
+*Related: C-7548, A-2527.2*
 
 **N-266** Brian Harpole
 
 Transcript spelling "Brian Harpool". Subject of Mitch Snow's Fort Huachuca sighting.
 
-*Related: C-3814, C-3815*
+*Related: C-7544, C-7545*
 
 **N-330** Baron Coleman
 
 Researcher whose clips argue the significance of Kolvet's departure time and track the TPUSA-associated plane N582MM.
 
-*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, A-2527.1, A-2527.2*
+*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, A-2527.1, A-2527.2*
 
 **N-361** Mitch Snow
 
 Referred to as "Mitch"; his account of seeing Brian Harpole at Fort Huachuca on September 9 is restated.
 
-*Related: C-3815*
+*Related: C-7545*
 
 **N-493** Marina Minas
 
 Transcript spelling "Marina Minas". Placed on the timeline as asking Aubrey to draft the death statement.
 
-*Related: C-3795, A-2528.1*
+*Related: C-7525, A-2528.1*
 
 **N-551** Aubrey Laitsch
 
 Named only as "Aubrey"; drafted the death statement and staff email per the host's timeline.
 
-*Related: C-3795, C-3796, A-2528.1*
+*Related: C-7525, C-7526, A-2528.1*
 
 **N-595** Druski
 
 First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Druski; Druski; Druski.
 
-*Related: C-3809, C-3811, A-2533.1, A-2533.3*
+*Related: C-7539, C-7541, A-2533.1, A-2533.3*
 
 **N-596** Sergeant Dupey
 
 First named by the host at 00:01:24 in episode 084. Provo police sergeant named on the September 10 scanner recording as en route to Provo Airport for the victim's wife.
 
-*Related: C-3779, A-2525.1*
+*Related: C-7509, A-2525.1*
 
 **N-597** Jamie (Charlie Kirk's pilot)
 
 First named by the host at 00:11:05 in episode 084. Known to the host only by first name; possibly from Texas.
 
-*Related: C-3791*
+*Related: C-7521*
 
 **N-598** Katherine Locastro
 
 First named by the host at 00:14:28 in episode 084. Named among those escorted to Timpanogos Hospital and entering with Erika Kirk. Aliases: Cat.
 
-*Related: C-3799, C-3800*
+*Related: C-7529, C-7530*
 
 **N-599** Scott Bessent
 
 First named by the host at 00:31:19 in episode 084. Host says he issued a letter stating Turning Point is in great financial standing.
 
-*Related: C-3813, A-2534.1*
+*Related: C-7543, A-2534.1*
 
 **N-10000** Turning Point USA
 
 Organization whose September 10 movements, staff communications, cease and desist and finances are discussed.
 
-*Related: C-3777, C-3784, C-3790, C-3795, C-3796, C-3801, C-3813, A-2529.1, A-2534.1*
+*Related: C-7507, C-7514, C-7520, C-7525, C-7526, C-7531, C-7543, A-2529.1, A-2534.1*
 
 **N-10074** Provo, Utah
 
 Destination of the September 10 flights and site of the scanner-recorded airport pickup; Egyptian planes said to be back.
 
-*Related: C-3779, C-3816, C-3821, A-2525.1*
+*Related: C-7509, C-7546, C-7551, A-2525.1*
 
 **N-10108** Police Scanner Description
 
 The September 10 Provo scanner traffic on the airport pickup and hospital escort.
 
-*Related: C-3779, C-3799, A-2525.1*
+*Related: C-7509, C-7529, A-2525.1*
 
 **N-10186** Plane 888 / Maxfield Plane Investigation
 
 The host recalls the N888 flight shuttling to and from Page, Arizona.
 
-*Related: C-3794*
+*Related: C-7524*
 
 **N-10203** Provo Airport Flight Anomaly Cluster
 
 The Page-to-Provo flight landing at 2:48 on September 10 is added to the cluster.
 
-*Related: C-3794*
+*Related: C-7524*
 
 **N-10212** TPUSA Financial Irregularities Question
 
 The Bessent letter on TPUSA's financial standing is cited.
 
-*Related: C-3813*
+*Related: C-7543*
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's sighting is restated.
 
-*Related: C-3815*
+*Related: C-7545*
 
 **N-10373** Brian Harpole Fort Huachuca Presence Verification
 
 Mitch Snow's identification of Harpole is restated.
 
-*Related: C-3815*
+*Related: C-7545*
 
 **N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Host alleges Kolvet fed podcasters information to attack the Fort Huachuca story.
 
-*Related: C-3814*
+*Related: C-7544*
 
 **N-10450** Fort Huachuca PR Response Coordination Question
 
 The "some fort" response campaign is revisited.
 
-*Related: C-3814*
+*Related: C-7544*
 
 **N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy
 
 Host disputes the New York Times claim that Erika Kirk was in the hospital with her mother.
 
-*Related: C-3802, C-3804*
+*Related: C-7532, C-7534*
 
 **N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question
 
 Host dates the post of Erika Kirk's mother to September 8 and calls it manipulative.
 
-*Related: C-3803, A-2531.1*
+*Related: C-7533, A-2531.1*
 
 **N-10483** Erika's Mother Medical Narrative
 
 Host asserts the mother was not hospitalized September 8–10.
 
-*Related: C-3802, C-3803, C-3804, A-2531.1*
+*Related: C-7532, C-7533, C-7534, A-2531.1*
 
 **N-10496** Egyptian Planes Investigation
 
 Host says the Egyptian planes are back in Provo.
 
-*Related: C-3821*
+*Related: C-7551*
 
 **N-10508** Tyler Robinson Evidence Sufficiency Question
 
 Host notes no plea or arraignment yet.
 
-*Related: C-3826*
+*Related: C-7556*
 
 **N-10547** September 10 Plane Logistics Discrepancy
 
 The Santa Barbara–Scottsdale–Provo routing in the host's revised timeline.
 
-*Related: C-3785, C-3790, C-3792, C-3797, A-2528.1*
+*Related: C-7515, C-7520, C-7522, C-7527, A-2528.1*
 
 **N-10548** Tarmac Hug Account Discrepancy
 
 Host relocates the hug from Provo to Scottsdale.
 
-*Related: C-3780, C-3782, C-3788, C-3790*
+*Related: C-7510, C-7512, C-7518, C-7520*
 
 **N-10551** Joe Kent Leak Accusation Chain
 
 Host says Kolvet blames Joe Kent although Kolvet shared the text widely.
 
-*Related: C-3822*
+*Related: C-7552*
 
 **N-10554** Andrew Kolvet 9/10 Flight Itinerary
 
 Central thread: Kolvet's flight and what he knew while aboard.
 
-*Related: C-3781, C-3783, C-3784, C-3785, C-3786, C-3787, C-3788, C-3789, C-3792, C-3795, C-3797, C-3800, A-2527.1*
+*Related: C-7511, C-7513, C-7514, C-7515, C-7516, C-7517, C-7518, C-7519, C-7522, C-7525, C-7527, C-7530, A-2527.1*
 
 **N-10560** Tarmac Hug Timeline Reconciliation Question
 
 The 3:30 scanner pickup time is set against the 4:30–4:40 tarmac account.
 
-*Related: C-3779, C-3780, C-3781, C-3782, C-3800*
+*Related: C-7509, C-7510, C-7511, C-7512, C-7530*
 
 **N-10582** Erika Kirk September 10 Whereabouts Verification
 
 When and where Erika Kirk learned of the death and arrived at the hospital.
 
-*Related: C-3778, C-3793, C-3799, C-3805, C-3806, C-3807*
+*Related: C-7508, C-7523, C-7529, C-7535, C-7536, C-7537*
 
 **N-10587** Trump Truth Social Post Pattern Question
 
 The 2:40 Truth Social announcement as a timeline marker.
 
-*Related: C-3798*
+*Related: C-7528*
 
 **N-10631** George Farmer / Tracy Robinson $6,987 Incident
 
 Online allegation about the host's husband and an insurance claim, which the host rebuts.
 
-*Related: C-3824, A-2536.1*
+*Related: C-7554, A-2536.1*
 
 **N-10641** Andrew Kolvet Text Message Full Context Verification
 
 How the night-before text came to circulate.
 
-*Related: C-3822*
+*Related: C-7552*
 
 **N-10903** N582MM TPUSA-Associated Plane Flight Pattern
 
 Node Type: Topic
 Investigation target: a plane with tail number N582MM, which Baron Coleman says a TPUSA insider described as frequently used by TPUSA. Per Coleman's tracking it flew Pierre–Chicago–Provo on September 10, 2025. It spent October 4 at Fort Huachuca after flying in from Atlanta, then went to Kalispell, Montana, the day before a Kalispell-to-Bozeman flight tied to the security team's Fairy Lake gathering. The host says it is plausibly attached to TPUSA's security apparatus.
 
-*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, A-2527.2, N-330, N-246*
+*Related: C-7507, C-7546, C-7547, C-7548, C-7549, C-7550, A-2527.2, N-330, N-246*
 
 **N-10904** Charlie Kirk Pilot "Jamie" Identification
 
 Node Type: Topic
 Investigation target: the identity of Charlie Kirk's pilot, known to the host only as "Jamie" and possibly from Texas, whom the host considers a crucial unidentified witness to the September 10 flights.
 
-*Related: C-3791, N-597, N-1*
+*Related: C-7521, N-597, N-1*
 
 **N-10905** New York Times Erika Kirk Interview Account Discrepancies
 
 Node Type: Topic
 Investigation target: the New York Times interview Erika Kirk gave shortly after the assassination. The host says it placed Erika in the hospital with her mother and stated Charlie was pronounced dead while she was airborne. She says it also gave a different account of his departure that morning. She argues these points conflict with Erika's later accounts and notes the article has never been corrected.
 
-*Related: C-3802, C-3805, C-3806, C-3808, A-2530.1, N-2*
+*Related: C-7532, C-7535, C-7536, C-7538, A-2530.1, N-2*
 
 **N-10906** Frank Turek Schedule Change Tip
 
 Node Type: Topic
 Investigation target: an unverified tip that Frank Turek changed his schedule at the last second, cancelling an appointment in another state, and was in Scottsdale with Charlie Kirk on September 8, 2025 despite saying he visits only once or twice a year.
 
-*Related: C-3825, N-7, N-1*
+*Related: C-7555, N-7, N-1*
 
 ## 5. Claim Register
 
-**C-3777** TPUSA-associated plane spent time at Fort Huachuca after the assassination
+**C-7507** TPUSA-associated plane spent time at Fort Huachuca after the assassination
 
 Claim Timestamp: 00:00:01
 
@@ -629,7 +629,7 @@ Investigative Direction: Obtain FAA/ADS-B track history for the aircraft later i
 
 ---
 
-**C-3778** Host relies on Frank Turek's 4:00 p.m. hospital-arrival estimate for Erika Kirk
+**C-7508** Host relies on Frank Turek's 4:00 p.m. hospital-arrival estimate for Erika Kirk
 
 Claim Timestamp: 00:01:24
 
@@ -641,12 +641,12 @@ Anchored Artifacts:
 
 Mentions: N-7, N-2, N-3
 Related Nodes: N-10582
-Supports: C-2560
+Supports: C-7423
 Investigative Direction: Obtain Timpanogos Hospital entry logs, police escort records and Frank Turek's own account of when Erika Kirk arrived on September 10, 2025.
 
 ---
 
-**C-3779** Provo police scanner: officer and Sergeant Dupey en route to Provo Airport, victim's wife arriving at 3:30
+**C-7509** Provo police scanner: officer and Sergeant Dupey en route to Provo Airport, victim's wife arriving at 3:30
 
 Claim Timestamp: 00:02:15
 
@@ -661,7 +661,7 @@ Investigative Direction: Obtain the archived Provo Police Department radio traff
 
 ---
 
-**C-3780** Host concludes Erika Kirk did not wait an hour on the Provo tarmac for Andrew Kolvet
+**C-7510** Host concludes Erika Kirk did not wait an hour on the Provo tarmac for Andrew Kolvet
 
 Claim Timestamp: 00:02:15
 
@@ -676,7 +676,7 @@ Investigative Direction: Compare Provo Airport FBO arrival logs and ADS-B landin
 
 ---
 
-**C-3781** Host theory: Andrew Kolvet was aboard Charlie Kirk's plane with Erika Kirk
+**C-7511** Host theory: Andrew Kolvet was aboard Charlie Kirk's plane with Erika Kirk
 
 Claim Timestamp: 00:03:25
 
@@ -687,12 +687,12 @@ Transcript Snippet: So this only makes sense if Andrew was aboard Charlie's plan
 Anchored Artifacts: A-2525.1
 Mentions: N-14, N-2, N-1
 Related Nodes: N-10554, N-10560
-Supports: C-2580
+Supports: C-7429
 Investigative Direction: Obtain the passenger manifest for Charlie Kirk's chartered aircraft on its September 10, 2025 Scottsdale-to-Provo leg.
 
 ---
 
-**C-3782** Host theory: the tarmac hug took place in Scottsdale, not Provo
+**C-7512** Host theory: the tarmac hug took place in Scottsdale, not Provo
 
 Claim Timestamp: 00:03:25
 
@@ -708,7 +708,7 @@ Investigative Direction: Seek Scottsdale Airport FBO security footage and staff 
 
 ---
 
-**C-3783** Andrew Kolvet told the host he was alone on the plane and fielding messages
+**C-7513** Andrew Kolvet told the host he was alone on the plane and fielding messages
 
 Claim Timestamp: 00:03:25
 
@@ -723,7 +723,7 @@ Investigative Direction: Obtain the full recording of the host's phone call with
 
 ---
 
-**C-3784** Roughly 40-minute window in which the TPUSA core team did not know Charlie Kirk had died
+**C-7514** Roughly 40-minute window in which the TPUSA core team did not know Charlie Kirk had died
 
 Claim Timestamp: 00:04:23
 
@@ -739,7 +739,7 @@ Investigative Direction: Reconstruct internal TPUSA message timestamps on Septem
 
 ---
 
-**C-3785** Host asserts Andrew Kolvet was aboard the Santa Barbara-to-Scottsdale flight
+**C-7515** Host asserts Andrew Kolvet was aboard the Santa Barbara-to-Scottsdale flight
 
 Claim Timestamp: 00:05:12
 
@@ -754,7 +754,7 @@ Investigative Direction: Obtain the departure record and passenger manifest for 
 
 ---
 
-**C-3786** Host texted Kolvet at 12:40 Mountain Time; Kolvet replied "I don't know. Shot for sure."
+**C-7516** Host texted Kolvet at 12:40 Mountain Time; Kolvet replied "I don't know. Shot for sure."
 
 Claim Timestamp: 00:05:12
 
@@ -769,7 +769,7 @@ Investigative Direction: Produce the original message thread with device timesta
 
 ---
 
-**C-3787** Kolvet texted at 1:19 p.m. Utah time that Charlie had a pulse
+**C-7517** Kolvet texted at 1:19 p.m. Utah time that Charlie had a pulse
 
 Claim Timestamp: 00:05:12
 
@@ -784,7 +784,7 @@ Investigative Direction: Produce the original message with its device timestamp 
 
 ---
 
-**C-3788** Erika Kirk said Kolvet was on the 4:30 p.m. flight into Provo
+**C-7518** Erika Kirk said Kolvet was on the 4:30 p.m. flight into Provo
 
 Claim Timestamp: 00:05:56
 
@@ -800,7 +800,7 @@ Investigative Direction: Locate Erika Kirk's original statement on Kolvet's arri
 
 ---
 
-**C-3789** Kolvet said he learned of the death about 30 to 40 minutes after the shooting, before Trump's Truth Social post
+**C-7519** Kolvet said he learned of the death about 30 to 40 minutes after the shooting, before Trump's Truth Social post
 
 Claim Timestamp: 00:06:38
 
@@ -815,7 +815,7 @@ Investigative Direction: Compare Kolvet's account with the timestamp of Trump's 
 
 ---
 
-**C-3790** Host theory: TPUSA group met at Scottsdale Airport and flew to Provo together on Charlie's plane
+**C-7520** Host theory: TPUSA group met at Scottsdale Airport and flew to Provo together on Charlie's plane
 
 Claim Timestamp: 00:11:05
 
@@ -831,7 +831,7 @@ Investigative Direction: Obtain Scottsdale Airport FBO visitor logs and footage 
 
 ---
 
-**C-3791** Charlie Kirk's pilot was named Jamie and may be from Texas
+**C-7521** Charlie Kirk's pilot was named Jamie and may be from Texas
 
 Claim Timestamp: 00:11:05
 
@@ -847,7 +847,7 @@ Investigative Direction: Identify the charter operator of Charlie Kirk's aircraf
 
 ---
 
-**C-3792** Host timeline: Kolvet departed Santa Barbara for Scottsdale at about 1:03
+**C-7522** Host timeline: Kolvet departed Santa Barbara for Scottsdale at about 1:03
 
 Claim Timestamp: 00:12:45
 
@@ -862,7 +862,7 @@ Investigative Direction: Match the 1:03 departure against ADS-B data for Santa B
 
 ---
 
-**C-3793** Erika Kirk told the host she learned of the death before boarding the plane
+**C-7523** Erika Kirk told the host she learned of the death before boarding the plane
 
 Claim Timestamp: 00:12:45
 
@@ -877,7 +877,7 @@ Investigative Direction: Compare the host's recollection of her meeting with Eri
 
 ---
 
-**C-3794** Unexplained flight from Page, Arizona to Provo on September 10
+**C-7524** Unexplained flight from Page, Arizona to Provo on September 10
 
 Claim Timestamp: 00:13:38
 
@@ -887,12 +887,12 @@ Transcript Snippet: there's this mysterious flight that I know nothing about uh 
 
 Anchored Artifacts: A-2528.1
 Related Nodes: N-10203, N-10186
-Supports: C-1449
+Supports: C-1676
 Investigative Direction: Obtain tail number, operator and manifest of the Page-to-Provo flight landing at 2:48 p.m. on September 10, 2025.
 
 ---
 
-**C-3795** Marina Minas asked Aubrey to draft the death statement because Kolvet was on a plane
+**C-7525** Marina Minas asked Aubrey to draft the death statement because Kolvet was on a plane
 
 Claim Timestamp: 00:13:38
 
@@ -903,12 +903,12 @@ Transcript Snippet: Then we know that Marina Minas is going to ask Aubrey to dra
 Anchored Artifacts: A-2528.1
 Mentions: N-493, N-551, N-14
 Related Nodes: N-10554, N-10000
-Supports: C-2535
+Supports: C-7305
 Investigative Direction: Obtain the TPUSA PR group chat messages with timestamps from September 10, 2025.
 
 ---
 
-**C-3796** Justin Streiff emailed staff the death announcement at 2:27
+**C-7526** Justin Streiff emailed staff the death announcement at 2:27
 
 Claim Timestamp: 00:13:38
 
@@ -923,7 +923,7 @@ Investigative Direction: Obtain the staff-wide email with header timestamps.
 
 ---
 
-**C-3797** Host belief: Charlie Kirk's plane left Scottsdale for Utah at 2:31 with the group aboard
+**C-7527** Host belief: Charlie Kirk's plane left Scottsdale for Utah at 2:31 with the group aboard
 
 Claim Timestamp: 00:14:28
 
@@ -938,7 +938,7 @@ Investigative Direction: Obtain ADS-B departure data and manifest for Charlie Ki
 
 ---
 
-**C-3798** President Trump announced the death on Truth Social at 2:40
+**C-7528** President Trump announced the death on Truth Social at 2:40
 
 Claim Timestamp: 00:14:28
 
@@ -953,7 +953,7 @@ Investigative Direction: Confirm the archived timestamp of the Truth Social post
 
 ---
 
-**C-3799** Police scanner: Erika, Elizabeth, Tyler, Stacy Sheridan and Cat escorted to Timpanogos Hospital
+**C-7529** Police scanner: Erika, Elizabeth, Tyler, Stacy Sheridan and Cat escorted to Timpanogos Hospital
 
 Claim Timestamp: 00:14:28
 
@@ -968,7 +968,7 @@ Investigative Direction: Obtain the full scanner recording and police escort log
 
 ---
 
-**C-3800** Host theory: Kolvet's wife arrived on the 4:36 plane from Santa Barbara and they used the front entrance
+**C-7530** Host theory: Kolvet's wife arrived on the 4:36 plane from Santa Barbara and they used the front entrance
 
 Claim Timestamp: 00:15:29
 
@@ -984,7 +984,7 @@ Investigative Direction: Obtain the 4:36 Santa Barbara-to-Provo flight manifest 
 
 ---
 
-**C-3801** Turning Point USA sent the host a cease and desist
+**C-7531** Turning Point USA sent the host a cease and desist
 
 Claim Timestamp: 00:15:29
 
@@ -999,7 +999,7 @@ Investigative Direction: Obtain the cease-and-desist letter, its date and its si
 
 ---
 
-**C-3802** New York Times reported Erika Kirk was in the hospital with her mother
+**C-7532** New York Times reported Erika Kirk was in the hospital with her mother
 
 Claim Timestamp: 00:16:21
 
@@ -1010,12 +1010,12 @@ Transcript Snippet: Little things like when they say Erika was in the hospital w
 Anchored Artifacts: A-2530.1
 Mentions: N-2
 Related Nodes: N-10905, N-10483, N-10478
-Supports: C-2285
+Supports: C-6106
 Investigative Direction: Retrieve the published New York Times article and any correction history.
 
 ---
 
-**C-3803** Erika Kirk posted a video of her frail mother on September 8, her first in years
+**C-7533** Erika Kirk posted a video of her frail mother on September 8, her first in years
 
 Claim Timestamp: 00:17:26
 
@@ -1026,12 +1026,12 @@ Transcript Snippet: That was the purpose, I believe, of her posting on September
 Anchored Artifacts: A-2531.1
 Mentions: N-2
 Related Nodes: N-10479, N-10483
-Supports: C-2284
+Supports: C-6105
 Investigative Direction: Archive Erika Kirk's Instagram post history to confirm the exact date of the post and the date of the prior post featuring her mother.
 
 ---
 
-**C-3804** Erika Kirk's mother was not in the hospital September 8 through 10
+**C-7534** Erika Kirk's mother was not in the hospital September 8 through 10
 
 Claim Timestamp: 00:18:14
 
@@ -1047,7 +1047,7 @@ Investigative Direction: Identify the treatment facility referenced and seek rec
 
 ---
 
-**C-3805** New York Times: Charlie Kirk was pronounced dead while Erika was airborne
+**C-7535** New York Times: Charlie Kirk was pronounced dead while Erika was airborne
 
 Claim Timestamp: 00:18:56
 
@@ -1062,7 +1062,7 @@ Investigative Direction: Contact the New York Times reporter for interview notes
 
 ---
 
-**C-3806** The airborne account conflicts with what Erika told the host and with Elizabeth's account
+**C-7536** The airborne account conflicts with what Erika told the host and with Elizabeth's account
 
 Claim Timestamp: 00:19:56
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Reconcile the New York Times article, Elizabeth McCoy's
 
 ---
 
-**C-3807** Elizabeth McCoy's October Instagram post described comforting a widow on a plane
+**C-7537** Elizabeth McCoy's October Instagram post described comforting a widow on a plane
 
 Claim Timestamp: 00:20:52
 
@@ -1092,7 +1092,7 @@ Investigative Direction: Archive the original Instagram post with its date and a
 
 ---
 
-**C-3808** Erika Kirk's New York Times account of Charlie's departure differs from later accounts
+**C-7538** Erika Kirk's New York Times account of Charlie's departure differs from later accounts
 
 Claim Timestamp: 00:21:45
 
@@ -1107,7 +1107,7 @@ Investigative Direction: Compare the New York Times text with the Jesse Watters 
 
 ---
 
-**C-3809** Druski posted a viral skit mocking conservative women, namely Erika Kirk
+**C-7539** Druski posted a viral skit mocking conservative women, namely Erika Kirk
 
 Claim Timestamp: 00:27:22
 
@@ -1121,7 +1121,7 @@ Investigative Direction: Archive the original skit post with its date and view c
 
 ---
 
-**C-3810** Grok identified Erika Kirk as the actress in the Druski skit
+**C-7540** Grok identified Erika Kirk as the actress in the Druski skit
 
 Claim Timestamp: 00:29:24
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Archive the Grok reply on X with its timestamp.
 
 ---
 
-**C-3811** Ted Cruz tweeted that the skit was "beneath contempt"
+**C-7541** Ted Cruz tweeted that the skit was "beneath contempt"
 
 Claim Timestamp: 00:30:29
 
@@ -1149,7 +1149,7 @@ Investigative Direction: Archive Ted Cruz's post with its exact wording and date
 
 ---
 
-**C-3812** Andrew Kolvet commented "Now do conservative black women."
+**C-7542** Andrew Kolvet commented "Now do conservative black women."
 
 Claim Timestamp: 00:30:29
 
@@ -1163,7 +1163,7 @@ Investigative Direction: Archive Kolvet's comment with its timestamp and the pos
 
 ---
 
-**C-3813** Scott Bessent issued a letter saying Turning Point is in great financial standing
+**C-7543** Scott Bessent issued a letter saying Turning Point is in great financial standing
 
 Claim Timestamp: 00:31:19
 
@@ -1178,7 +1178,7 @@ Investigative Direction: Locate the letter, its date, its author and the Treasur
 
 ---
 
-**C-3814** Kolvet fed information to podcasters to attack the host over Fort Huachuca
+**C-7544** Kolvet fed information to podcasters to attack the host over Fort Huachuca
 
 Claim Timestamp: 00:32:23
 
@@ -1190,12 +1190,12 @@ Anchored Artifacts:
 
 Mentions: N-14, N-3
 Related Nodes: N-10378, N-10450
-Supports: C-2002
+Supports: C-4487
 Investigative Direction: Collect the podcasts and posts attacking the Fort Huachuca story and any messages showing Kolvet supplied material to them.
 
 ---
 
-**C-3815** Mitch said he saw Brian Harpole at a Fort Huachuca meeting concluding September 9
+**C-7545** Mitch said he saw Brian Harpole at a Fort Huachuca meeting concluding September 9
 
 Claim Timestamp: 00:33:02
 
@@ -1207,12 +1207,12 @@ Anchored Artifacts:
 
 Mentions: N-361, N-266, N-1
 Related Nodes: N-10373, N-10367
-Supports: C-1974
+Supports: C-4348
 Investigative Direction: Obtain Fort Huachuca visitor access logs and Brian Harpole's travel records for September 8–9, 2025.
 
 ---
 
-**C-3816** The TPUSA-associated plane flew Pierre to Chicago to Provo on September 10
+**C-7546** The TPUSA-associated plane flew Pierre to Chicago to Provo on September 10
 
 Claim Timestamp: 00:34:43
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Pull ADS-B data for N582MM on September 10, 2025 and th
 
 ---
 
-**C-3817** The plane flew Atlanta to Fort Huachuca on October 4 and stayed all day
+**C-7547** The plane flew Atlanta to Fort Huachuca on October 4 and stayed all day
 
 Claim Timestamp: 00:35:40
 
@@ -1242,7 +1242,7 @@ Investigative Direction: Pull ADS-B data and Libby Army Airfield / Sierra Vista 
 
 ---
 
-**C-3818** Security team including Butch Hibbs was in Montana on October 5
+**C-7548** Security team including Butch Hibbs was in Montana on October 5
 
 Claim Timestamp: 00:36:02
 
@@ -1257,7 +1257,7 @@ Investigative Direction: Obtain flight data for the Kalispell-to-Bozeman private
 
 ---
 
-**C-3819** Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane
+**C-7549** Charlie Kirk's parents were flown on Air Force Two, not the Chicago plane
 
 Claim Timestamp: 00:37:00
 
@@ -1272,7 +1272,7 @@ Investigative Direction: Confirm Air Force Two movements on September 10, 2025 a
 
 ---
 
-**C-3820** The plane's tail number is N582MM
+**C-7550** The plane's tail number is N582MM
 
 Claim Timestamp: 00:38:31
 
@@ -1287,7 +1287,7 @@ Investigative Direction: Look up N582MM in the FAA registry for owner, operator 
 
 ---
 
-**C-3821** The Egyptian planes are back in Provo
+**C-7551** The Egyptian planes are back in Provo
 
 Claim Timestamp: 00:38:31
 
@@ -1303,7 +1303,7 @@ Investigative Direction: Pull current ADS-B tracking for the Egyptian-registered
 
 ---
 
-**C-3822** Kolvet blames Joe Kent for the text leak but told many people about the text
+**C-7552** Kolvet blames Joe Kent for the text leak but told many people about the text
 
 Claim Timestamp: 00:42:22
 
@@ -1319,7 +1319,7 @@ Investigative Direction: Identify everyone Kolvet shared the text with and when,
 
 ---
 
-**C-3823** Stacy Sheridan lives in the same complex as Charlie and Erika Kirk
+**C-7553** Stacy Sheridan lives in the same complex as Charlie and Erika Kirk
 
 Claim Timestamp: 00:42:58
 
@@ -1333,7 +1333,7 @@ Investigative Direction: Check property and HOA records for the residential comp
 
 ---
 
-**C-3824** Online piece alleged the host's husband struck someone while drunk, citing a $6,000 insurance claim
+**C-7554** Online piece alleged the host's husband struck someone while drunk, citing a $6,000 insurance claim
 
 Claim Timestamp: 00:47:08
 
@@ -1348,7 +1348,7 @@ Investigative Direction: Identify the author and source documents of the piece a
 
 ---
 
-**C-3825** Tip: Frank Turek changed his schedule to be in Scottsdale with Charlie Kirk
+**C-7555** Tip: Frank Turek changed his schedule to be in Scottsdale with Charlie Kirk
 
 Claim Timestamp: 00:49:00
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Obtain Frank Turek's speaking calendar and travel recor
 
 ---
 
-**C-3826** Tyler Robinson has not entered a plea or been arraigned
+**C-7556** Tyler Robinson has not entered a plea or been arraigned
 
 Claim Timestamp: 00:49:50
 
@@ -1421,7 +1421,7 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
-- **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-2284 and node N-10479 date it September 7. C-3803 is linked as Supports C-2284 on the shared proposition; the date difference is preserved.
+- **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-6105 and node N-10479 date it September 7. C-7533 is linked as Supports C-6105 on the shared proposition; the date difference is preserved.
 - **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-217 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-598. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Minas" is matched to N-493 Marina (TPUSA CMO) through its alias.
 - **Transcription ambiguities**: The comedian is spelled "Druski", "Druski" and "Druski"; these are kept as written and aliased to N-595 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.

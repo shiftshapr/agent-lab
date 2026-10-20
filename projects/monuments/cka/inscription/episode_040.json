@@ -27,10 +27,10 @@
           "ref": "A-1489.1",
           "description": "Blake Neff pre-recorded TPUSA video statement, played in full on air",
           "related_claims": [
-            "C-1820",
-            "C-1821",
-            "C-1822",
-            "C-1823"
+            "C-3561",
+            "C-3538",
+            "C-3539",
+            "C-3550"
           ],
           "related_nodes": [
             "N-159",
@@ -57,8 +57,8 @@
           "ref": "A-1490.1",
           "description": "Pentagon press briefing clip – Cam Higby question and Kingsley Wilson response",
           "related_claims": [
-            "C-1824",
-            "C-1825"
+            "C-3577",
+            "C-3578"
           ],
           "related_nodes": [
             "N-302",
@@ -85,8 +85,8 @@
           "ref": "A-1491.1",
           "description": "Interview clip with The Game discussing upcoming mixtape track title",
           "related_claims": [
-            "C-1826",
-            "C-1827"
+            "C-3590",
+            "C-3592"
           ],
           "related_nodes": [
             "N-304"
@@ -112,8 +112,8 @@
           "ref": "A-1492.1",
           "description": "Fortune article – headline and direct quotation read aloud on air",
           "related_claims": [
-            "C-1828",
-            "C-1829"
+            "C-3583",
+            "C-3584"
           ],
           "related_nodes": [
             "N-2"
@@ -139,7 +139,7 @@
           "ref": "A-1493.1",
           "description": "Emmanuel Macron public calendar entry – phone call with Donald Trump on September 10, 2025",
           "related_claims": [
-            "C-1830"
+            "C-3588"
           ],
           "related_nodes": [
             "N-10308"
@@ -165,7 +165,7 @@
           "ref": "A-2730.1",
           "description": "Host verbal reference to emails she says support her claim that the Utah Valley University event was arranged unusually fast (emails not shown)",
           "related_claims": [
-            "C-5073"
+            "C-3520"
           ],
           "related_nodes": [],
           "tags": [],
@@ -188,8 +188,8 @@
           "ref": "A-2731.1",
           "description": "Host verbal reference to text messages she says Charlie Kirk sent TPUSA staff and security guards the day before his death saying he thought they would kill him the next day (not shown)",
           "related_claims": [
-            "C-5086",
-            "C-5114"
+            "C-3533",
+            "C-3565"
           ],
           "related_nodes": [],
           "tags": [],
@@ -212,8 +212,8 @@
           "ref": "A-2732.1",
           "description": "Host verbal reference to the exact name of an intern and to current TPUSA workers she says can support her claims about Tyler Bowyer (names not given, nothing shown)",
           "related_claims": [
-            "C-5082",
-            "C-5083"
+            "C-3529",
+            "C-3530"
           ],
           "related_nodes": [],
           "tags": [],
@@ -236,8 +236,8 @@
           "ref": "A-2733.1",
           "description": "Tweet by Laura Loomer shown briefly on air, which the host says attacked Charlie Kirk a couple of weeks before his death over his hosting of a Dave Smith and Josh Hammer debate (text not read aloud)",
           "related_claims": [
-            "C-5122",
-            "C-5123"
+            "C-3573",
+            "C-3574"
           ],
           "related_nodes": [],
           "tags": [],
@@ -261,10 +261,10 @@
         "A-1489.1"
       ],
       "related_claims": [
-        "C-1820",
-        "C-1821",
-        "C-1822",
-        "C-1823"
+        "C-3561",
+        "C-3538",
+        "C-3539",
+        "C-3550"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -286,7 +286,7 @@
         "A-1490.1"
       ],
       "related_claims": [
-        "C-1824"
+        "C-3577"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -305,7 +305,7 @@
         "A-1490.1"
       ],
       "related_claims": [
-        "C-1825"
+        "C-3578"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -324,8 +324,8 @@
         "A-1491.1"
       ],
       "related_claims": [
-        "C-1826",
-        "C-1827"
+        "C-3590",
+        "C-3592"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -344,7 +344,7 @@
         "A-1489.1"
       ],
       "related_claims": [
-        "C-1820"
+        "C-3561"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -366,7 +366,7 @@
         "A-1493.1"
       ],
       "related_claims": [
-        "C-1830"
+        "C-3588"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -383,9 +383,9 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5074",
-        "C-5075",
-        "C-5076"
+        "C-3521",
+        "C-3522",
+        "C-3523"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -433,83 +433,83 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5062",
-        "C-5063",
-        "C-5064",
-        "C-5065",
-        "C-5066",
-        "C-5068",
-        "C-5069",
-        "C-5071",
-        "C-5072",
-        "C-5073",
-        "C-5074",
-        "C-5075",
-        "C-5076",
-        "C-5077",
-        "C-5080",
-        "C-5081",
-        "C-5082",
-        "C-5083",
-        "C-5084",
-        "C-5085",
-        "C-5086",
-        "C-5087",
-        "C-5088",
-        "C-5089",
-        "C-5091",
-        "C-5092",
-        "C-5093",
-        "C-5094",
-        "C-5095",
-        "C-5096",
-        "C-5097",
-        "C-5098",
-        "C-5099",
-        "C-5100",
-        "C-5102",
-        "C-5103",
-        "C-5104",
-        "C-5105",
-        "C-5106",
-        "C-5107",
-        "C-5108",
-        "C-5109",
-        "C-5111",
-        "C-5112",
-        "C-5113",
-        "C-5114",
-        "C-5115",
-        "C-5116",
-        "C-5117",
-        "C-5118",
-        "C-5119",
-        "C-5120",
-        "C-5121",
-        "C-5122",
-        "C-5123",
-        "C-5124",
-        "C-5125",
-        "C-5127",
-        "C-5128",
-        "C-5129",
-        "C-5130",
-        "C-5131",
-        "C-5132",
-        "C-5133",
-        "C-5134",
-        "C-5135",
-        "C-5136",
-        "C-5137",
-        "C-5138",
-        "C-5139",
-        "C-5140",
-        "C-5141",
-        "C-5142",
-        "C-5143",
-        "C-5144",
-        "C-5145",
-        "C-5146"
+        "C-3509",
+        "C-3510",
+        "C-3511",
+        "C-3512",
+        "C-3513",
+        "C-3515",
+        "C-3516",
+        "C-3518",
+        "C-3519",
+        "C-3520",
+        "C-3521",
+        "C-3522",
+        "C-3523",
+        "C-3524",
+        "C-3527",
+        "C-3528",
+        "C-3529",
+        "C-3530",
+        "C-3531",
+        "C-3532",
+        "C-3533",
+        "C-3534",
+        "C-3535",
+        "C-3536",
+        "C-3540",
+        "C-3541",
+        "C-3542",
+        "C-3543",
+        "C-3544",
+        "C-3545",
+        "C-3546",
+        "C-3547",
+        "C-3548",
+        "C-3549",
+        "C-3552",
+        "C-3553",
+        "C-3554",
+        "C-3555",
+        "C-3556",
+        "C-3557",
+        "C-3558",
+        "C-3559",
+        "C-3562",
+        "C-3563",
+        "C-3564",
+        "C-3565",
+        "C-3566",
+        "C-3567",
+        "C-3568",
+        "C-3569",
+        "C-3572",
+        "C-3570",
+        "C-3571",
+        "C-3573",
+        "C-3574",
+        "C-3575",
+        "C-3576",
+        "C-3580",
+        "C-3581",
+        "C-3582",
+        "C-3585",
+        "C-3586",
+        "C-3587",
+        "C-3589",
+        "C-3591",
+        "C-3593",
+        "C-3594",
+        "C-3595",
+        "C-3596",
+        "C-3597",
+        "C-3598",
+        "C-3599",
+        "C-3600",
+        "C-3601",
+        "C-3602",
+        "C-3603",
+        "C-3604"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -527,8 +527,8 @@
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5132",
-        "C-5133"
+        "C-3587",
+        "C-3589"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -546,30 +546,30 @@
       "description": "Subject of most claims; his reported last-day texts and DOGE request are discussed.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5070",
-        "C-5075",
-        "C-5076",
-        "C-5077",
-        "C-5086",
-        "C-5087",
-        "C-5088",
-        "C-5089",
-        "C-5090",
-        "C-5092",
-        "C-5093",
-        "C-5103",
-        "C-5105",
-        "C-5106",
-        "C-5107",
-        "C-5112",
-        "C-5114",
-        "C-5122",
-        "C-5123",
-        "C-5125",
-        "C-5127",
-        "C-5132",
-        "C-5140",
-        "C-5142"
+        "C-3517",
+        "C-3522",
+        "C-3523",
+        "C-3524",
+        "C-3533",
+        "C-3534",
+        "C-3535",
+        "C-3536",
+        "C-3537",
+        "C-3541",
+        "C-3542",
+        "C-3553",
+        "C-3555",
+        "C-3556",
+        "C-3557",
+        "C-3563",
+        "C-3565",
+        "C-3573",
+        "C-3574",
+        "C-3576",
+        "C-3580",
+        "C-3587",
+        "C-3598",
+        "C-3600"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -586,27 +586,27 @@
       "description": "Turning Point USA, the organization whose statement the host answers.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5062",
-        "C-5063",
-        "C-5064",
-        "C-5072",
-        "C-5083",
-        "C-5086",
-        "C-5088",
-        "C-5100",
-        "C-5101",
-        "C-5105",
-        "C-5106",
-        "C-5110",
-        "C-5112",
-        "C-5113",
-        "C-5114",
-        "C-5115",
-        "C-5116",
-        "C-5117",
-        "C-5141",
-        "C-5143",
-        "C-5146"
+        "C-3509",
+        "C-3510",
+        "C-3511",
+        "C-3519",
+        "C-3530",
+        "C-3533",
+        "C-3535",
+        "C-3549",
+        "C-3551",
+        "C-3555",
+        "C-3556",
+        "C-3560",
+        "C-3563",
+        "C-3564",
+        "C-3565",
+        "C-3566",
+        "C-3567",
+        "C-3568",
+        "C-3599",
+        "C-3601",
+        "C-3604"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -623,10 +623,10 @@
       "description": "Utah Valley University, venue of the September 10 event.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5067",
-        "C-5068",
-        "C-5072",
-        "C-5073"
+        "C-3514",
+        "C-3515",
+        "C-3519",
+        "C-3520"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -643,11 +643,11 @@
       "description": "The Pentagon, setting of the press corps discussion.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5118",
-        "C-5119",
-        "C-5122",
-        "C-5124",
-        "C-5129"
+        "C-3569",
+        "C-3572",
+        "C-3573",
+        "C-3575",
+        "C-3582"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -664,8 +664,8 @@
       "description": "TPUSA finances, topic of the host's response to Neff.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5090",
-        "C-5091"
+        "C-3537",
+        "C-3540"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -682,8 +682,8 @@
       "description": "UVU tunnel topic, one of the allegations Neff lists.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5094",
-        "C-5102"
+        "C-3543",
+        "C-3552"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -700,8 +700,8 @@
       "description": "SD card removal topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5079",
-        "C-5080"
+        "C-3526",
+        "C-3527"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -718,8 +718,8 @@
       "description": "TPUSA DOGE department topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5092",
-        "C-5093"
+        "C-3541",
+        "C-3542"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -736,7 +736,7 @@
       "description": "SD card removal narrative discrepancy topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5080"
+        "C-3527"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -753,7 +753,7 @@
       "description": "Mikey McCoy's behavior on September 10.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5065"
+        "C-3512"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -770,7 +770,7 @@
       "description": "Rob McCoy / Tyler Bowyer background verification topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5071"
+        "C-3518"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -787,8 +787,8 @@
       "description": "Green hoodie person identification topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5096",
-        "C-5097"
+        "C-3545",
+        "C-3546"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -805,8 +805,8 @@
       "description": "Calvary Chapel network infiltration question.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5084",
-        "C-5085"
+        "C-3531",
+        "C-3532"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -823,12 +823,12 @@
       "description": "Egyptian aircraft tracking investigation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5074",
-        "C-5075",
-        "C-5094",
-        "C-5095",
-        "C-5102",
-        "C-5131"
+        "C-3521",
+        "C-3522",
+        "C-3543",
+        "C-3544",
+        "C-3552",
+        "C-3586"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -845,8 +845,8 @@
       "description": "Macron lawsuit topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5109",
-        "C-5130"
+        "C-3559",
+        "C-3585"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -863,8 +863,8 @@
       "description": "French Foreign Legion US training topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5125",
-        "C-5127"
+        "C-3576",
+        "C-3580"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -881,7 +881,7 @@
       "description": "Brigitte Macron schedule gap topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5131"
+        "C-3586"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -898,9 +898,9 @@
       "description": "Maroon shirt pattern topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5094",
-        "C-5098",
-        "C-5099"
+        "C-3543",
+        "C-3547",
+        "C-3548"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -917,7 +917,7 @@
       "description": "France / Macron couple involvement topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5128"
+        "C-3581"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -934,9 +934,9 @@
       "description": "Tyler Bowyer investigation question.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5081",
-        "C-5082",
-        "C-5083"
+        "C-3528",
+        "C-3529",
+        "C-3530"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -953,7 +953,7 @@
       "description": "Charlie Kirk DOGE pre-death establishment topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5092"
+        "C-3541"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -970,7 +970,7 @@
       "description": "USS Liberty incident cover-up investigation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5144"
+        "C-3602"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -987,7 +987,7 @@
       "description": "Calvary Chapel CIA connection question.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5085"
+        "C-3532"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1004,7 +1004,7 @@
       "description": "Mikey McCoy phone call sequence topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5069"
+        "C-3516"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1021,7 +1021,7 @@
       "description": "Laura Loomer involuntary psychiatric holds and firearm prohibition topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5121"
+        "C-3571"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1038,7 +1038,7 @@
       "description": "Brian Harpole ER story plausibility topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5077"
+        "C-3524"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1055,7 +1055,7 @@
       "description": "Harpole Shawn Ryan statements topic.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5078"
+        "C-3525"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1072,8 +1072,8 @@
       "description": "TPUSA spokesperson; the host cites his SD card explanation.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5064",
-        "C-5079"
+        "C-3511",
+        "C-3526"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1090,9 +1090,9 @@
       "description": "Rob McCoy, pastor whose remarks and background the host discusses.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5070",
-        "C-5071",
-        "C-5084"
+        "C-3517",
+        "C-3518",
+        "C-3531"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1109,7 +1109,7 @@
       "description": "James O'Keefe, named by the host among trusted Pentagon press corps additions.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5118"
+        "C-3569"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1126,12 +1126,12 @@
       "description": "Mikey McCoy, subject of Neff's and the host's exchange about birth certificate, wife, and phone call.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5065",
-        "C-5066",
-        "C-5067",
-        "C-5068",
-        "C-5069",
-        "C-5070"
+        "C-3512",
+        "C-3513",
+        "C-3514",
+        "C-3515",
+        "C-3516",
+        "C-3517"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1148,7 +1148,7 @@
       "description": "Shawn Ryan, host of the interview in which Harpole discussed first aid.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5078"
+        "C-3525"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1165,7 +1165,7 @@
       "description": "Kanye West (Ye), described by the host as a friend.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5136"
+        "C-3594"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1182,7 +1182,7 @@
       "description": "Brian Harpole, security figure whose Shawn Ryan statement is cited.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5078"
+        "C-3525"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1199,7 +1199,7 @@
       "description": "Ryan Reynolds, named by the host with Blake Lively.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5108"
+        "C-3558"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1216,10 +1216,10 @@
       "description": "Emmanuel Macron, party to the September 10 call with Trump.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5128",
-        "C-5130",
-        "C-5132",
-        "C-5133"
+        "C-3581",
+        "C-3585",
+        "C-3587",
+        "C-3589"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1236,7 +1236,7 @@
       "description": "Dave Smith, whose debate invitation by Charlie the host says Loomer attacked.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5122"
+        "C-3573"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1253,7 +1253,7 @@
       "description": "Blake Lively, named by the host among her prior investigations.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5108"
+        "C-3558"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1270,7 +1270,7 @@
       "description": "Phil Tourney, USS Liberty interview guest the host praises.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5144"
+        "C-3602"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1287,8 +1287,8 @@
       "description": "Josh Hammer, cited for his claim that Charlie never blinked on Israel.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5088",
-        "C-5123"
+        "C-3535",
+        "C-3574"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1305,12 +1305,12 @@
       "description": "Laura Loomer, discussed over her Pentagon credential and tweets about Charlie.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5119",
-        "C-5120",
-        "C-5121",
-        "C-5122",
-        "C-5123",
-        "C-5124"
+        "C-3572",
+        "C-3570",
+        "C-3571",
+        "C-3573",
+        "C-3574",
+        "C-3575"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1327,7 +1327,7 @@
       "description": "Schuyler, named by the host as a staffer who pushes back on sources.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5139"
+        "C-3597"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1344,7 +1344,7 @@
       "description": "Frank Turek, named in Neff's statement as an alleged part of a military infiltration.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5084"
+        "C-3531"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1361,7 +1361,7 @@
       "description": "Matt Gaetz, named by the host (as Matt Gaetz) among trusted Pentagon press corps additions.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5118"
+        "C-3569"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1378,10 +1378,10 @@
       "description": "Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5108",
-        "C-5109",
-        "C-5130",
-        "C-5131"
+        "C-3558",
+        "C-3559",
+        "C-3585",
+        "C-3586"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1398,7 +1398,7 @@
       "description": "First named by the host (as 'Kamala') at 00:26:31 in episode 40.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5108"
+        "C-3558"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1415,7 +1415,7 @@
       "description": "First named by the host (as 'Russell Brand') at 00:57:05 in episode 40.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5138"
+        "C-3596"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1432,7 +1432,7 @@
       "description": "First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5085"
+        "C-3532"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1449,8 +1449,8 @@
       "description": "Persistent investigable target: whether text messages exist in which Charlie Kirk told TPUSA staff and security guards the day before his death that he thought they would kill him the next day, as the host alleges.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5086",
-        "C-5114"
+        "C-3533",
+        "C-3565"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1467,8 +1467,8 @@
       "description": "Persistent investigable target: the host's claim that TPUSA made $80 million plus in merchandise sales in the first three weeks after September 10 and its whole annual budget in the first couple of weeks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5105",
-        "C-5106"
+        "C-3555",
+        "C-3556"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1485,8 +1485,8 @@
       "description": "Persistent investigable target: the Pentagon's late-2025 press corps change, who was credentialed (including Laura Loomer and Cam Higby), and the criteria used.",
       "related_artifacts": [],
       "related_claims": [
-        "C-5118",
-        "C-5119"
+        "C-3569",
+        "C-3572"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1498,8 +1498,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-1820",
-      "ref": "C-1820",
+      "@id": "C-3561",
+      "ref": "C-3561",
       "label": "TPUSA publicly invited Candace to participate in a Phoenix livestream to address allegations",
       "claim": "TPUSA, via Blake Neff's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.",
       "anchored_artifacts": [
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1821",
-      "ref": "C-1821",
+      "@id": "C-3538",
+      "ref": "C-3538",
       "label": "TPUSA asserted Charlie personally reviewed and signed off on every bill paid by the organization",
       "claim": "In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar.",
       "anchored_artifacts": [
@@ -1535,8 +1535,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1822",
-      "ref": "C-1822",
+      "@id": "C-3539",
+      "ref": "C-3539",
       "label": "TPUSA asserted the organization has never missed a 990 deadline",
       "claim": "In the video statement, TPUSA asserted that the organization has never missed a 990 filing deadline.",
       "anchored_artifacts": [
@@ -1552,8 +1552,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1823",
-      "ref": "C-1823",
+      "@id": "C-3550",
+      "ref": "C-3550",
       "label": "TPUSA framed host's questions as \"beneath contempt,\" citing Charlie's \"do not feed the trolls\" rule",
       "claim": "In the video statement, TPUSA cited Charlie's \"do not feed the trolls\" rule and characterized the host's allegations as beneath contempt as justification for prior non-response.",
       "anchored_artifacts": [
@@ -1570,8 +1570,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1824",
-      "ref": "C-1824",
+      "@id": "C-3577",
+      "ref": "C-3577",
       "label": "Cam Higby asked Pentagon press secretary about French military plot to assassinate Candace Owens",
       "claim": "At a Pentagon briefing, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.",
       "anchored_artifacts": [
@@ -1589,8 +1589,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1825",
-      "ref": "C-1825",
+      "@id": "C-3578",
+      "ref": "C-3578",
       "label": "Kingsley Wilson responded she was not aware of evidence of a French military plot",
       "claim": "Pentagon press secretary Kingsley Wilson responded \"not that I'm aware of\" to the question of whether DoD had evidence of a French military plot to assassinate Candace Owens, and suggested it might be more of a law enforcement matter.",
       "anchored_artifacts": [
@@ -1607,8 +1607,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1826",
-      "ref": "C-1826",
+      "@id": "C-3590",
+      "ref": "C-3590",
       "label": "The Game's upcoming mixtape contains a track titled \"The Assassination of Candace Owens\"",
       "claim": "The Game is releasing a mixtape that contains a track titled \"The Assassination of Candace Owens.\"",
       "anchored_artifacts": [
@@ -1625,8 +1625,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1827",
-      "ref": "C-1827",
+      "@id": "C-3592",
+      "ref": "C-3592",
       "label": "The Game stated the track is not about Candace personally and uses her name metaphorically",
       "claim": "The Game stated in the interview that the song is not about Candace personally and that he used the title because she \"self-admitted\" feeling targeted, framing it as a metaphor about \"assassination of the character.\"",
       "anchored_artifacts": [
@@ -1643,8 +1643,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1828",
-      "ref": "C-1828",
+      "@id": "C-3583",
+      "ref": "C-3583",
       "label": "Fortune article headline referenced the Macron lawsuit and Candace's media empire",
       "claim": "A Fortune article published December 2 carried the headline \"Inside the economics of Candace Owens's media empire and the Macron lawsuit threatening to unravel it.\"",
       "anchored_artifacts": [
@@ -1660,8 +1660,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1829",
-      "ref": "C-1829",
+      "@id": "C-3584",
+      "ref": "C-3584",
       "label": "Fortune article framed lawsuit as testing whether \"controversy as currency\" model could survive legal battle",
       "claim": "The Fortune article stated that the lawsuit would test whether the \"controversy as currency\" model that enriched the host and built her media brand could survive what experts described as an immensely costly legal battle.",
       "anchored_artifacts": [
@@ -1677,8 +1677,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-1830",
-      "ref": "C-1830",
+      "@id": "C-3588",
+      "ref": "C-3588",
       "label": "Macron had a recorded phone call with Trump at 6:45 PM French time on September 10, 2025",
       "claim": "Per host reference, Emmanuel Macron's public calendar records a phone call with Donald Trump at 6:45 PM French time (10:45 AM Utah time) on September 10, 2025.",
       "anchored_artifacts": [
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5062",
-      "ref": "C-5062",
+      "@id": "C-3509",
+      "ref": "C-3509",
       "label": "Host Accepts TPUSA's Public Invitation or Challenge",
       "claim": "The host says TPUSA moved to formally respond to her and issued a public invitation or challenge, and that she accepts it.",
       "anchored_artifacts": [],
@@ -1711,7 +1711,7 @@
       "investigative_direction": "Archive the host's on-air acceptance and any written reply to TPUSA; compare with TPUSA's own account of what was offered.",
       "transcript_snippet": "they at long last issued a public invitation or a challenge. I'm not sure what it is, but I accept.",
       "supports_claim_refs": [
-        "C-1820"
+        "C-3561"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -1719,8 +1719,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5063",
-      "ref": "C-5063",
+      "@id": "C-3510",
+      "ref": "C-3510",
       "label": "Host Credits Tipsters, TPUSA Leakers and Donors",
       "claim": "The host says people in her inbox gave her tips, people inside TPUSA were leaking, and donors wrote public letters and sent private messages encouraging her to continue.",
       "anchored_artifacts": [],
@@ -1737,8 +1737,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5064",
-      "ref": "C-5064",
+      "@id": "C-3511",
+      "ref": "C-3511",
       "label": "Neff Is Producer of the Charlie Kirk Show, Kolvet Is Spokesperson",
       "claim": "The host says Blake Neff is the producer and a rotating on-air talent of the Charlie Kirk Show, and that she expected TPUSA spokesperson Andrew Kolvet to deliver the response.",
       "anchored_artifacts": [],
@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5065",
-      "ref": "C-5065",
+      "@id": "C-3512",
+      "ref": "C-3512",
       "label": "Host Says Neff Has Defended Mikey McCoy's Actions",
       "claim": "The host says Blake Neff has been defending the actions of Mikey McCoy on September 10, and that she senses he believes he is telling the truth.",
       "anchored_artifacts": [],
@@ -1777,8 +1777,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5066",
-      "ref": "C-5066",
+      "@id": "C-3513",
+      "ref": "C-3513",
       "label": "Neff Says He Has Seen Mikey McCoy's Birth Certificate",
       "claim": "In the statement the host plays, Blake Neff says that Candace Owens suggested Michael is not Mikey McCoy's real name and that he has seen McCoy's birth certificate himself.",
       "anchored_artifacts": [
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5067",
-      "ref": "C-5067",
+      "@id": "C-3514",
+      "ref": "C-3514",
       "label": "Neff Says McCoy's Wife Does Not Work on Campus Events",
       "claim": "In the statement the host plays, Blake Neff says Mikey McCoy's wife works at TPUSA but does not work on campus events, and so did not plan the Utah event.",
       "anchored_artifacts": [
@@ -1818,8 +1818,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5068",
-      "ref": "C-5068",
+      "@id": "C-3515",
+      "ref": "C-3515",
       "label": "Host Says She Did Not Claim McCoy's Wife Planned the Event",
       "claim": "The host says she never said Mikey McCoy's wife helped plan the event; she says she called it suspicious that nobody ever found out who planned it, and that the wife works in events.",
       "anchored_artifacts": [],
@@ -1837,8 +1837,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5069",
-      "ref": "C-5069",
+      "@id": "C-3516",
+      "ref": "C-3516",
       "label": "Host Says McCoy Must Answer for Who He Was on the Phone With at the Shot",
       "claim": "The host says she believes Mikey McCoy should have to answer for who he had on the phone right when the shot went off.",
       "anchored_artifacts": [],
@@ -1856,8 +1856,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5070",
-      "ref": "C-5070",
+      "@id": "C-3517",
+      "ref": "C-3517",
       "label": "Host Says Rob McCoy Spoke of Charlie's Notebooks and Mikey Then Took the Liberty Stage",
       "claim": "The host says Rob McCoy spoke about Charlie's notebooks and about how Mikey McCoy was talented, and that Mikey then went onto Liberty University's stage for an event that had been scheduled for Charlie Kirk.",
       "anchored_artifacts": [],
@@ -1874,8 +1874,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5071",
-      "ref": "C-5071",
+      "@id": "C-3518",
+      "ref": "C-3518",
       "label": "Host Alleges Rob McCoy Sanitized a Man Who Went to Prison Over Photographing Young Girls",
       "claim": "The host alleges that in words she played, Rob McCoy tried to sanitize a person who spent time in prison for trying to take photos of young girls, and says she does not think Rob McCoy is a good guy.",
       "anchored_artifacts": [],
@@ -1893,8 +1893,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5072",
-      "ref": "C-5072",
+      "@id": "C-3519",
+      "ref": "C-3519",
       "label": "Host Says Tours Since 2019 Were Decided the Semester Before",
       "claim": "The host says she worked for TPUSA and went on every tour since 2019, and that tour events are typically decided at least the semester before.",
       "anchored_artifacts": [],
@@ -1912,8 +1912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5073",
-      "ref": "C-5073",
+      "@id": "C-3520",
+      "ref": "C-3520",
       "label": "Host Says UVU Event Came Together Quickly and She Has Emails",
       "claim": "The host says the Utah Valley University event came together very quickly, that this was unusual, and that she holds emails supporting that claim.",
       "anchored_artifacts": [
@@ -1932,8 +1932,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5074",
-      "ref": "C-5074",
+      "@id": "C-3521",
+      "ref": "C-3521",
       "label": "Host Says She Never Said TPUSA Lied About Foreign Aircraft",
       "claim": "The host says she never said Turning Point lied about foreign aircraft following Erika Kirk because TPUSA never responded on the subject.",
       "anchored_artifacts": [],
@@ -1951,8 +1951,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5075",
-      "ref": "C-5075",
+      "@id": "C-3522",
+      "ref": "C-3522",
       "label": "Host Says Egyptian Jets First Seemed to Follow Charlie, Then TPUSA Faith Events and Erika",
       "claim": "The host says she first plotted Egyptian jets as following Charlie, then realized they were tracking TPUSA Faith events and that many more times they were following, and perhaps tracking, Erika.",
       "anchored_artifacts": [],
@@ -1964,8 +1964,8 @@
       "investigative_direction": "Re-plot the Egyptian-registered aircraft movements against Erika Kirk's public schedule.",
       "transcript_snippet": "We then obviously realized that they were tracking TPUSA faith events and that many more times uh they were following and perhaps tracking Erika.",
       "supports_claim_refs": [
-        "C-1720",
-        "C-1545"
+        "C-2917",
+        "C-2074"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -1975,8 +1975,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5076",
-      "ref": "C-5076",
+      "@id": "C-3523",
+      "ref": "C-3523",
       "label": "Host Says Denial of Charlie Wanting Erika to Take Over Is Not a Quotation",
       "claim": "Responding to TPUSA's line that she accused it of lying about Charlie wanting Erika to take over for him if he died, the host says 'Never happened. That is not a quotation. That is just them saying that.'",
       "anchored_artifacts": [],
@@ -1993,8 +1993,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5077",
-      "ref": "C-5077",
+      "@id": "C-3524",
+      "ref": "C-3524",
       "label": "Host Says Security Gave Charlie No First Aid",
       "claim": "The host says Charlie's security did not issue him first aid when he fell, nobody pulled out gauze to stop the bleeding, and that they have admitted this.",
       "anchored_artifacts": [],
@@ -2006,7 +2006,7 @@
       "investigative_direction": "Review the available footage and Harpole's own interview for any first-aid attempt.",
       "transcript_snippet": "They did not issue him first aid when he fell down. There was nobody who pulled out um any gauze and tried to stop the bleeding.",
       "supports_claim_refs": [
-        "C-1616"
+        "C-2363"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2015,8 +2015,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5078",
-      "ref": "C-5078",
+      "@id": "C-3525",
+      "ref": "C-3525",
       "label": "Host Says Harpole Told Shawn Ryan the Injury Severity Explained No First Aid",
       "claim": "The host says that in a sitdown with Shawn Ryan, Brian Harpole said no first aid was given because of the severity of the injury.",
       "anchored_artifacts": [],
@@ -2034,8 +2034,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5079",
-      "ref": "C-5079",
+      "@id": "C-3526",
+      "ref": "C-3526",
       "label": "Host Says Kolvet Said the SD Card Was Taken Because People Were Stealing",
       "claim": "The host says Andrew Kolvet sat next to the person delivering TPUSA's statement and said the SD card was removed because people were stealing.",
       "anchored_artifacts": [],
@@ -2047,7 +2047,7 @@
       "investigative_direction": "Find the Kolvet statement on SD card removal and compare it with the other accounts of who took the card and why.",
       "transcript_snippet": "Andrew Kolvet sat next to you and said it was because people were stealing.",
       "supports_claim_refs": [
-        "C-1369"
+        "C-1358"
       ],
       "mentions_person_refs": [
         "N-14",
@@ -2056,8 +2056,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5080",
-      "ref": "C-5080",
+      "@id": "C-3527",
+      "ref": "C-3527",
       "label": "Host Says Cameras Rather Than the SD Card Would Be Taken to Stop Theft",
       "claim": "The host says that if people were stealing, one would grab the expensive cameras and not the SD card, for an event that was being livestreamed.",
       "anchored_artifacts": [],
@@ -2075,8 +2075,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5081",
-      "ref": "C-5081",
+      "@id": "C-3528",
+      "ref": "C-3528",
       "label": "Host Says She Did Not Allege Bowyer Abused an Intern",
       "claim": "The host says she did not say Tyler Bowyer abused an intern or that it was non-consensual; she says she said he likes younger boys, not minors but much younger than him.",
       "anchored_artifacts": [],
@@ -2094,8 +2094,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5082",
-      "ref": "C-5082",
+      "@id": "C-3529",
+      "ref": "C-3529",
       "label": "Host Says She Can Give the Name of an Intern Bowyer Hooked Up With",
       "claim": "The host says she can give the exact name of the intern Tyler Bowyer hooked up with and that this person was not at Turning Point USA.",
       "anchored_artifacts": [
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5083",
-      "ref": "C-5083",
+      "@id": "C-3530",
+      "ref": "C-3530",
       "label": "Host Says Current TPUSA Workers Say Bowyer Tried to Hook Up With Them",
       "claim": "The host alleges that people currently working at TPUSA say Tyler Bowyer, and that these were young men, tried to hook up with them after events.",
       "anchored_artifacts": [
@@ -2137,8 +2137,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5084",
-      "ref": "C-5084",
+      "@id": "C-3531",
+      "ref": "C-3531",
       "label": "Neff Statement Says Host Called Turek and McCoy Part of a Military Infiltration",
       "claim": "In the statement the host plays, Blake Neff says Candace Owens suggested TPUSA Faith pastors including Frank Turek and Rob McCoy are part of a military infiltration of Turning Point.",
       "anchored_artifacts": [
@@ -2160,8 +2160,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5085",
-      "ref": "C-5085",
+      "@id": "C-3532",
+      "ref": "C-3532",
       "label": "Host Cites Calvary Chapel's Chuck Smith Era as a CIA Infiltration Effort",
       "claim": "The host says she believes the evidence shows Calvary Chapel's history under Chuck Smith was a militant CIA effort to infiltrate the Christian faith, in a founding during the 1960s.",
       "anchored_artifacts": [],
@@ -2180,8 +2180,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5086",
-      "ref": "C-5086",
+      "@id": "C-3533",
+      "ref": "C-3533",
       "label": "Host Says TPUSA Holds Texts in Which Charlie Said They Would Kill Him Tomorrow",
       "claim": "The host alleges that people at TPUSA possess text messages from the day before Charlie's death in which he wrote to TPUSA staff and security guards that he thought they were going to kill him tomorrow.",
       "anchored_artifacts": [
@@ -2202,8 +2202,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5087",
-      "ref": "C-5087",
+      "@id": "C-3534",
+      "ref": "C-3534",
       "label": "Host Says Her 'Betrayed by Everyone' Line Came From a Dream",
       "claim": "The host says her statement that Charlie was betrayed by everyone was a dream she had, and also a realization.",
       "anchored_artifacts": [],
@@ -2219,8 +2219,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5088",
-      "ref": "C-5088",
+      "@id": "C-3535",
+      "ref": "C-3535",
       "label": "Host Says Josh Hammer Lied That Charlie Never Blinked on Israel",
       "claim": "The host says Josh Hammer falsely said that Charlie never blinked on Israel and that TPUSA stayed silent when he did.",
       "anchored_artifacts": [],
@@ -2239,8 +2239,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5089",
-      "ref": "C-5089",
+      "@id": "C-3536",
+      "ref": "C-3536",
       "label": "Host Says Neff's Quote Is Partial and Reframes Her Words",
       "claim": "The host says Neff's quote is not a full quotation and that she never said, in the context he put it, that Charlie's friends 'had to know' he was going to be murdered, and that she may have said the sentence but the full sentence is needed.",
       "anchored_artifacts": [],
@@ -2257,8 +2257,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5090",
-      "ref": "C-5090",
+      "@id": "C-3537",
+      "ref": "C-3537",
       "label": "Neff Says Charlie Had TPUSA Audited by a Third Party Every Year",
       "claim": "In the statement the host plays, Blake Neff says Charlie made sure TPUSA was audited by a third party every year.",
       "anchored_artifacts": [
@@ -2278,8 +2278,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5091",
-      "ref": "C-5091",
+      "@id": "C-3540",
+      "ref": "C-3540",
       "label": "Host Says Most People Cannot Read the Forms Showing What Happened to the $80 Million",
       "claim": "The host says that if a charity is moving millions into various LLCs 'that have your name on it' that is improper, and that most people cannot read those forms or understand what happened to 'the $80 million'.",
       "anchored_artifacts": [],
@@ -2296,8 +2296,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5092",
-      "ref": "C-5092",
+      "@id": "C-3541",
+      "ref": "C-3541",
       "label": "Host Says Charlie Requested a DOGE Department 7 Days Before He Died",
       "claim": "The host says Charlie explicitly requested putting together a DOGE department seven days before he died, and that this is not the same as an annual audit.",
       "anchored_artifacts": [],
@@ -2310,7 +2310,7 @@
       "investigative_direction": "Obtain the internal TPUSA memo or message that established the DOGE department and its date.",
       "transcript_snippet": "I am struck by the fact that you're still trying to conflate an annual audit with Charlie's explicit request to put together a Doge department 7 days before he died.",
       "supports_claim_refs": [
-        "C-1563"
+        "C-2136"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2319,8 +2319,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5093",
-      "ref": "C-5093",
+      "@id": "C-3542",
+      "ref": "C-3542",
       "label": "Host Says Inside Sources Say Charlie Wanted DOGE Because He Did Not Know Where the Money Went",
       "claim": "The host says inside sources at TPUSA say Charlie wanted DOGE because he did not know where the money was coming from or where it was going.",
       "anchored_artifacts": [],
@@ -2332,7 +2332,7 @@
       "investigative_direction": "Test through the host's sources and the DOGE memo; seek TPUSA's explanation of the department's purpose.",
       "transcript_snippet": "inside sources at your own company say it was because he didn't know where the money was coming from or how quickly and where exactly the money was being evaporated to.",
       "supports_claim_refs": [
-        "C-1563"
+        "C-2136"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2341,8 +2341,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5094",
-      "ref": "C-5094",
+      "@id": "C-3543",
+      "ref": "C-3543",
       "label": "Neff Says Host Alleged French Paratroopers, Egyptian Planes, Tunnels and Soccer-Team Hoodies",
       "claim": "In the statement the host plays, Blake Neff lists allegations he says the host made, including French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, underground tunnels and suspicion of UVU soccer players in hoodies.",
       "anchored_artifacts": [
@@ -2364,8 +2364,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5095",
-      "ref": "C-5095",
+      "@id": "C-3544",
+      "ref": "C-3544",
       "label": "Host Says It Broke That Day That the Saudi King Was on the Plane in 2023",
       "claim": "The host says it broke on the day of this episode that the Saudi king had at some point in 2023 been aboard the Egyptian plane.",
       "anchored_artifacts": [],
@@ -2382,8 +2382,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5096",
-      "ref": "C-5096",
+      "@id": "C-3545",
+      "ref": "C-3545",
       "label": "Host Says She Never Covered the Green Hoodie People",
       "claim": "The host says she never went after anyone for wearing a green hoodie and never covered the green hoodie people, and that she only shared a picture when asked.",
       "anchored_artifacts": [],
@@ -2400,8 +2400,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5097",
-      "ref": "C-5097",
+      "@id": "C-3546",
+      "ref": "C-3546",
       "label": "Host Says the Green-Hoodie Person Was Not Upset and Responded",
       "claim": "The host says the person wearing the green hoodie was not upset about the picture and responded.",
       "anchored_artifacts": [],
@@ -2418,8 +2418,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5098",
-      "ref": "C-5098",
+      "@id": "C-3547",
+      "ref": "C-3547",
       "label": "Host Guarantees Maroon-Shirt People Represent a Military Unit",
       "claim": "The host says she stands by her statements about people in maroon shirts and guarantees they represent a military unit somewhere.",
       "anchored_artifacts": [],
@@ -2436,8 +2436,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5099",
-      "ref": "C-5099",
+      "@id": "C-3548",
+      "ref": "C-3548",
       "label": "Host Says She Is Very Close to Identifying the Military Unit",
       "claim": "The host says she is very close to figuring out exactly which military unit the maroon-shirt people belong to.",
       "anchored_artifacts": [],
@@ -2454,8 +2454,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5100",
-      "ref": "C-5100",
+      "@id": "C-3549",
+      "ref": "C-3549",
       "label": "Neff Says TPUSA Friends Suffered More Harassment From the Host's Audience Than From Antifa",
       "claim": "In the statement the host plays, Blake Neff says he would say his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.",
       "anchored_artifacts": [
@@ -2475,8 +2475,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5101",
-      "ref": "C-5101",
+      "@id": "C-3551",
+      "ref": "C-3551",
       "label": "Neff Says TPUSA Received Hundreds or Thousands of Emails and Calls",
       "claim": "In the statement the host plays, Blake Neff says that for months TPUSA received hundreds, perhaps thousands, of emails and calls asking it to respond.",
       "anchored_artifacts": [
@@ -2495,8 +2495,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5102",
-      "ref": "C-5102",
+      "@id": "C-3552",
+      "ref": "C-3552",
       "label": "Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes",
       "claim": "In the statement the host plays, Blake Neff says TPUSA thought the host's allegations were so absurd that nobody would believe them and that it should not have to answer questions about secret tunnels or Egyptian Air Force planes.",
       "anchored_artifacts": [
@@ -2517,8 +2517,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5103",
-      "ref": "C-5103",
+      "@id": "C-3553",
+      "ref": "C-3553",
       "label": "Neff Says Charlie Viewed Candace as a Friend and TPUSA Hoped She Would Stop",
       "claim": "In the statement the host plays, Blake Neff says TPUSA also did not respond because Charlie always viewed Candace as a friend and TPUSA hoped she would return that friendship and stop.",
       "anchored_artifacts": [
@@ -2537,8 +2537,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5104",
-      "ref": "C-5104",
+      "@id": "C-3554",
+      "ref": "C-3554",
       "label": "Neff Says Host Uses Falsehoods to Enrich Herself",
       "claim": "In the statement the host plays, Blake Neff says the host is using falsehoods to enrich herself while dividing the conservative movement.",
       "anchored_artifacts": [
@@ -2556,8 +2556,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5105",
-      "ref": "C-5105",
+      "@id": "C-3555",
+      "ref": "C-3555",
       "label": "Host Says TPUSA Sold Merchandise Worth $80 Million in Three Weeks",
       "claim": "The host says TPUSA sold kit of what Charlie died in, to the tune of $80 million plus in the first three weeks.",
       "anchored_artifacts": [],
@@ -2576,8 +2576,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5106",
-      "ref": "C-5106",
+      "@id": "C-3556",
+      "ref": "C-3556",
       "label": "Host Says TPUSA Made Its Whole Annual Budget in the First Weeks",
       "claim": "The host says TPUSA made its entire budget for the year in the first couple of weeks after Charlie's assassination.",
       "anchored_artifacts": [],
@@ -2596,8 +2596,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5107",
-      "ref": "C-5107",
+      "@id": "C-3557",
+      "ref": "C-3557",
       "label": "Host Says She Sold Nothing and Made No Money From the Assassination",
       "claim": "The host says there is zero proof she made a single dollar from Charlie's assassination and that she sold no cup or mug.",
       "anchored_artifacts": [],
@@ -2613,8 +2613,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5108",
-      "ref": "C-5108",
+      "@id": "C-3558",
+      "ref": "C-3558",
       "label": "Host Says She Investigated Kamala's Genealogy, Lively and Reynolds, and Brigitte Macron",
       "claim": "The host lists prior investigations: Kamala Harris's genealogy, Blake Lively and Ryan Reynolds, and Brigitte Macron, whom she says was born a male.",
       "anchored_artifacts": [],
@@ -2633,8 +2633,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5109",
-      "ref": "C-5109",
+      "@id": "C-3559",
+      "ref": "C-3559",
       "label": "Host Asserts Brigitte Macron Was Born a Male and Nations Are Colluding",
       "claim": "The host says Brigitte Macron was born a male and frames her investigation as asking why 'we are colluding with nations' to cover this up.",
       "anchored_artifacts": [],
@@ -2652,8 +2652,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5110",
-      "ref": "C-5110",
+      "@id": "C-3560",
+      "ref": "C-3560",
       "label": "Neff Says TPUSA's Silence Was Never Complacency or Approval",
       "claim": "In the statement the host plays, Blake Neff says TPUSA's silence has never been, and will never be, equal to complacency or approval.",
       "anchored_artifacts": [
@@ -2672,8 +2672,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5111",
-      "ref": "C-5111",
+      "@id": "C-3562",
+      "ref": "C-3562",
       "label": "Host Says a 306 Round Would Not Be Stopped by a Neck",
       "claim": "The host says 306 bullets are not stopped by human necks, and says it felt very much like the state colluded to feed the public false statements about September 10.",
       "anchored_artifacts": [],
@@ -2683,7 +2683,7 @@
       "investigative_direction": "Consult forensic or ballistic experts on the round and the autopsy findings.",
       "transcript_snippet": "306 bullets do not get stopped by human necks because they eat healthy.",
       "supports_claim_refs": [
-        "C-1230"
+        "C-594"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2691,8 +2691,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5112",
-      "ref": "C-5112",
+      "@id": "C-3563",
+      "ref": "C-3563",
       "label": "Host Says TPUSA Let People Who Pressured Charlie Claim His Legacy",
       "claim": "The host alleges TPUSA allowed people who pressured Charlie toward the end of his life to claim his whole legacy.",
       "anchored_artifacts": [],
@@ -2710,8 +2710,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5113",
-      "ref": "C-5113",
+      "@id": "C-3564",
+      "ref": "C-3564",
       "label": "Host Says She Is Holding Information Hoping for a Public Conversation",
       "claim": "The host says she has been holding certain information, hoping TPUSA would agree to a public conversation.",
       "anchored_artifacts": [],
@@ -2728,8 +2728,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5114",
-      "ref": "C-5114",
+      "@id": "C-3565",
+      "ref": "C-3565",
       "label": "Host Says TPUSA Is Sitting on Charlie's Texts That He Expected to Be Killed",
       "claim": "The host says TPUSA is not forthcoming about the information it has about Charlie texting that he thought he would be assassinated the very next day.",
       "anchored_artifacts": [
@@ -2750,8 +2750,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5115",
-      "ref": "C-5115",
+      "@id": "C-3566",
+      "ref": "C-3566",
       "label": "Host Says What TPUSA Told Her on September 10 Does Not Add Up",
       "claim": "The host says some things TPUSA told her on September 10 are not adding up.",
       "anchored_artifacts": [],
@@ -2768,8 +2768,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5116",
-      "ref": "C-5116",
+      "@id": "C-3567",
+      "ref": "C-3567",
       "label": "Host Proposes a Livestream With Money Raised for TPUSA",
       "claim": "The host proposes scheduling a livestream and raising money for TPUSA if TPUSA promises to answer every question she has.",
       "anchored_artifacts": [],
@@ -2787,8 +2787,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5117",
-      "ref": "C-5117",
+      "@id": "C-3568",
+      "ref": "C-3568",
       "label": "Host Accepts Livestream for Tomorrow With the Only Rule No Assassinations",
       "claim": "The host says she fully accepts, proposes doing the livestream the next day, and sets her only ground rule as no assassinations.",
       "anchored_artifacts": [],
@@ -2801,7 +2801,7 @@
       "investigative_direction": "Verify whether TPUSA responded to the proposed date and whether a livestream followed.",
       "transcript_snippet": "So I accept it with whistles and bells. Everything I fully accept. I say, \"Let's do it tomorrow. Let's do it tomorrow.\" And my only ground rule is no assassinations.",
       "supports_claim_refs": [
-        "C-5062"
+        "C-3509"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2809,8 +2809,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5118",
-      "ref": "C-5118",
+      "@id": "C-3569",
+      "ref": "C-3569",
       "label": "Host Says the Pentagon Press Corps Was Remade to Admit New Journalists",
       "claim": "The host says the Pentagon undertook a press corps makeover ostensibly to let in new independent, more trusted journalists, saying James O'Keefe is very much trusted and that she likes Matt Gaetz very much.",
       "anchored_artifacts": [],
@@ -2830,8 +2830,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5119",
-      "ref": "C-5119",
+      "@id": "C-3572",
+      "ref": "C-3572",
       "label": "Host Says the Pentagon Credentialed Laura Loomer",
       "claim": "The host says the Pentagon credentialed Laura Loomer as part of the new press corps.",
       "anchored_artifacts": [],
@@ -2844,7 +2844,7 @@
       "investigative_direction": "Confirm Loomer's credential date from the Pentagon press office.",
       "transcript_snippet": "our government, the Pentagon, decide to credential her at this time.",
       "supports_claim_refs": [
-        "C-1611"
+        "C-2389"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2853,8 +2853,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5120",
-      "ref": "C-5120",
+      "@id": "C-3570",
+      "ref": "C-3570",
       "label": "Host Says Loomer Handcuffed Herself to Twitter Headquarters",
       "claim": "The host says Laura Loomer once handcuffed herself to the Twitter headquarters because her account was banned.",
       "anchored_artifacts": [],
@@ -2870,8 +2870,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5121",
-      "ref": "C-5121",
+      "@id": "C-3571",
+      "ref": "C-3571",
       "label": "Host Says Loomer Is Not Allowed to Own a Gun After Hospitalization",
       "claim": "The host says Laura Loomer is apparently not allowed to own a gun because of psychotic events that required her hospitalization.",
       "anchored_artifacts": [],
@@ -2889,8 +2889,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5122",
-      "ref": "C-5122",
+      "@id": "C-3573",
+      "ref": "C-3573",
       "label": "Host Says Loomer Called Charlie a Charlatan Weeks Before His Death",
       "claim": "The host says that a couple of weeks before Charlie died, Laura Loomer called him a charlatan and a political opportunist and said he was not pro-Trump because he hosted Dave Smith.",
       "anchored_artifacts": [
@@ -2912,8 +2912,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5123",
-      "ref": "C-5123",
+      "@id": "C-3574",
+      "ref": "C-3574",
       "label": "Host Shows the Loomer Tweet and Says She Reversed After Charlie Died",
       "claim": "The host briefly shows a Loomer tweet and says that after Charlie died, Loomer completely switched and now thinks she is guarding his legacy.",
       "anchored_artifacts": [
@@ -2932,8 +2932,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5124",
-      "ref": "C-5124",
+      "@id": "C-3575",
+      "ref": "C-3575",
       "label": "Host Says Loomer Cheered Cam Higby's Pentagon Question",
       "claim": "The host says Laura Loomer shared, with glee, the news that Cam Higby, also credentialed by the Pentagon, asked the press secretary about the foreign angle of Charlie's assassination.",
       "anchored_artifacts": [
@@ -2955,8 +2955,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5125",
-      "ref": "C-5125",
+      "@id": "C-3576",
+      "ref": "C-3576",
       "label": "Host Says She Reported the French Foreign Legion Was on the Ground",
       "claim": "The host says she reported that the French Foreign Legion were apparently on the ground on the day of Charlie Kirk's assassination.",
       "anchored_artifacts": [],
@@ -2974,8 +2974,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5126",
-      "ref": "C-5126",
+      "@id": "C-3579",
+      "ref": "C-3579",
       "label": "Wilson Offers to Try to Find Out and Get Back",
       "claim": "In the Pentagon clip, Kingsley Wilson says she can try to find out and maybe let the reporter know.",
       "anchored_artifacts": [
@@ -2993,8 +2993,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5127",
-      "ref": "C-5127",
+      "@id": "C-3580",
+      "ref": "C-3580",
       "label": "Host Says She Has Evidence of the Foreign Legion on the Ground That Day",
       "claim": "The host says she has evidence that the French Foreign Legion was on the ground on the day Charlie Kirk was assassinated.",
       "anchored_artifacts": [],
@@ -3012,8 +3012,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5128",
-      "ref": "C-5128",
+      "@id": "C-3581",
+      "ref": "C-3581",
       "label": "Host Alleges the French President Paid $1.5 Million for Her Assassination",
       "claim": "The host says that, imagining a call to the government, she would tell them she has specific information and traceable accounts because the president of France allegedly paid $1.5 million for her assassination.",
       "anchored_artifacts": [],
@@ -3031,8 +3031,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5129",
-      "ref": "C-5129",
+      "@id": "C-3582",
+      "ref": "C-3582",
       "label": "Host Says the Pentagon Is a 6.5 Million Square Foot Building",
       "claim": "The host says the Pentagon is a 6.5 million square foot office building and the second largest office building in the world.",
       "anchored_artifacts": [],
@@ -3049,8 +3049,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5130",
-      "ref": "C-5130",
+      "@id": "C-3585",
+      "ref": "C-3585",
       "label": "Host Says She Has Paid Over a Quarter Million Dollars in the Macron Lawsuit",
       "claim": "The host says that in the Macron lawsuit she has paid over a quarter of a million dollars and has not yet had a day in court.",
       "anchored_artifacts": [],
@@ -3069,8 +3069,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5131",
-      "ref": "C-5131",
+      "@id": "C-3586",
+      "ref": "C-3586",
       "label": "Host Says Brigitte Macron's Location on the Egyptian Plane Dates Cannot Be Found",
       "claim": "The host says her team cannot find where Brigitte Macron was on the dates the Egyptian plane flew around America, citing a six-day gap.",
       "anchored_artifacts": [],
@@ -3089,8 +3089,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5132",
-      "ref": "C-5132",
+      "@id": "C-3587",
+      "ref": "C-3587",
       "label": "Host Says the Trump-Macron Call Came an Hour and a Half Before the Shooting",
       "claim": "The host says a Trump-Macron phone call, recorded in Macron's released public calendar, took place an hour and a half before Charlie was assassinated.",
       "anchored_artifacts": [
@@ -3104,7 +3104,7 @@
       "investigative_direction": "Locate Macron's released calendar entry for September 10 and compare against the time of the shooting.",
       "transcript_snippet": "an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar which has been released.",
       "supports_claim_refs": [
-        "C-1830"
+        "C-3588"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3115,8 +3115,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5133",
-      "ref": "C-5133",
+      "@id": "C-3589",
+      "ref": "C-3589",
       "label": "Host Allows the Call Could Be About Ukraine and Be Innocent",
       "claim": "The host says the call could be nothing and that there are many reasons, including Ukraine, why Macron and Trump could have had it, but wants a reporter to ask its nature.",
       "anchored_artifacts": [
@@ -3130,7 +3130,7 @@
       "investigative_direction": "Ask the Elysee and the White House for the call readout.",
       "transcript_snippet": "we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone call.",
       "qualifies_claim_refs": [
-        "C-1830"
+        "C-3588"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3140,8 +3140,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5134",
-      "ref": "C-5134",
+      "@id": "C-3591",
+      "ref": "C-3591",
       "label": "Host Says the Track Is Number 13 on The Game's Album",
       "claim": "The host says The Assassination of Candace Owens is song number 13 on The Game's upcoming album track list.",
       "anchored_artifacts": [],
@@ -3151,7 +3151,7 @@
       "investigative_direction": "Check the album's published track listing.",
       "transcript_snippet": "Why is it got to be song number 13?",
       "supports_claim_refs": [
-        "C-1826"
+        "C-3590"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -3160,8 +3160,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5135",
-      "ref": "C-5135",
+      "@id": "C-3593",
+      "ref": "C-3593",
       "label": "The Game Says He Only Repeated Candace's Claim That People Tried to Assassinate Her",
       "claim": "In the interview clip, The Game says Candace Owens said people were trying to assassinate her, so all he did was say it too.",
       "anchored_artifacts": [
@@ -3173,7 +3173,7 @@
       "investigative_direction": "Verify the quote against the full interview.",
       "transcript_snippet": "she said that people were trying to assassinate her. So, all I did was say it too.",
       "supports_claim_refs": [
-        "C-1827"
+        "C-3592"
       ],
       "mentions_person_refs": [
         "N-304",
@@ -3182,8 +3182,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5136",
-      "ref": "C-5136",
+      "@id": "C-3594",
+      "ref": "C-3594",
       "label": "Host Says She Is Friends With Ye",
       "claim": "The host says she is friends with Ye and that he makes music using many metaphors.",
       "anchored_artifacts": [],
@@ -3199,8 +3199,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5137",
-      "ref": "C-5137",
+      "@id": "C-3595",
+      "ref": "C-3595",
       "label": "Host Says Her Book Ships to Canada and Is 20 Percent Off Direct",
       "claim": "The host says her book Make Him a Sandwich is out, ships to Canada, is 20% off on her website versus Amazon, and signed copies are sold only on candace.com.",
       "anchored_artifacts": [],
@@ -3215,8 +3215,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5138",
-      "ref": "C-5138",
+      "@id": "C-3596",
+      "ref": "C-3596",
       "label": "Host Says She Spoke With Russell Brand on His Show",
       "claim": "The host says she spoke at length with Russell Brand on his show, which should be coming out soon.",
       "anchored_artifacts": [],
@@ -3232,8 +3232,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5139",
-      "ref": "C-5139",
+      "@id": "C-3597",
+      "ref": "C-3597",
       "label": "Host Says Her Team Vets Sources by Debating Them",
       "claim": "The host says staff such as Mark and Schuyler push back on sources before stories air, and that they have not made a public mistake from a planted source.",
       "anchored_artifacts": [],
@@ -3250,8 +3250,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5140",
-      "ref": "C-5140",
+      "@id": "C-3598",
+      "ref": "C-3598",
       "label": "Host Says Something Military Happened When Charlie Was Assassinated",
       "claim": "The host says she feels there was definitely something military that happened when Charlie was assassinated.",
       "anchored_artifacts": [],
@@ -3267,8 +3267,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5141",
-      "ref": "C-5141",
+      "@id": "C-3599",
+      "ref": "C-3599",
       "label": "Host Says TPUSA Would Not Coordinate an Assassination on Its Own Campus",
       "claim": "The host says she does not think TPUSA is so foolish that it would coordinate an assassination on its own campus.",
       "anchored_artifacts": [],
@@ -3285,8 +3285,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5142",
-      "ref": "C-5142",
+      "@id": "C-3600",
+      "ref": "C-3600",
       "label": "Host Says the Genuine Moment Was When Neff Went Off Script",
       "claim": "The host says Neff was speaking from a script, and that the genuine moment was when he went off script saying he owes everything to Charlie.",
       "anchored_artifacts": [
@@ -3305,8 +3305,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5143",
-      "ref": "C-5143",
+      "@id": "C-3601",
+      "ref": "C-3601",
       "label": "Host Says She Came From TPUSA and Contributed Greatly to Its Success",
       "claim": "The host says she came from Turning Point USA and contributed greatly to its success, which TPUSA would never deny.",
       "anchored_artifacts": [],
@@ -3323,8 +3323,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5144",
-      "ref": "C-5144",
+      "@id": "C-3602",
+      "ref": "C-3602",
       "label": "Host Says the USS Liberty Interview With Phil Tourney Was the Best She Has Given",
       "claim": "The host says the interview with Phil Tourney of the USS Liberty was the best interview they have ever given.",
       "anchored_artifacts": [],
@@ -3342,8 +3342,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5145",
-      "ref": "C-5145",
+      "@id": "C-3603",
+      "ref": "C-3603",
       "label": "Host Says She Will Do the Livestream Tomorrow and Need Not Be in Person",
       "claim": "The host says she will do the livestream tomorrow, does not have to be in person, and can do it by livestream.",
       "anchored_artifacts": [],
@@ -3355,7 +3355,7 @@
       "investigative_direction": "Check whether the livestream was scheduled and how TPUSA answered.",
       "transcript_snippet": "I'll do this tomorrow. I don't have to be in person. We can live stream this.",
       "supports_claim_refs": [
-        "C-5117"
+        "C-3568"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3363,8 +3363,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-5146",
-      "ref": "C-5146",
+      "@id": "C-3604",
+      "ref": "C-3604",
       "label": "Host Says Money Raised Would Go to TPUSA",
       "claim": "The host says the money raised could go to TPUSA and she would gladly sacrifice every dollar raised.",
       "anchored_artifacts": [],

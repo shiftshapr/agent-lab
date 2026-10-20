@@ -16,7 +16,7 @@
   - Hole-minted Nodes (reintro-ep014): N-310, N-10315, N-10662
   - Tip-minted Nodes (reintro-ep014): N-708, N-11011, N-11059, N-11130
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-7836–C-7910
+  - Claim Range: C-1237–C-1324
   - New Nodes Introduced: N-143, N-144, N-145, N-146, N-147, N-148, N-149, N-10161
   - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-118, N-128, N-132, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153, N-10270, N-10324
 - Channel / creator: @RealCandaceO · Candace Owens
@@ -29,7 +29,7 @@
 
 
 Artifact Families Introduced: A-1209, A-1210, A-1211, A-1212, A-1213, A-1214, A-1215, A-1216, A-1217, A-1218, A-1219
-Claim Range: C-1354–C-1365
+Claim Range: C-1251–C-1312
 New Nodes Introduced (people):  N-143, N-144, N-145, N-146, N-147, N-148, N-149
 New Nodes Introduced (targets): N-10158, N-10159, N-10160, N-10161
 Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth Lane)
@@ -59,7 +59,7 @@ Video Timestamp: 00:01:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7839, C-7840, N-3*
+*Related: C-1240, C-1241, N-3*
 
 ---
 
@@ -72,7 +72,7 @@ Video Timestamp: 00:04:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7845, N-3*
+*Related: C-1246, N-3*
 
 ---
 
@@ -85,7 +85,7 @@ Video Timestamp: 00:18:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7860, N-3*
+*Related: C-1268, N-3*
 
 ---
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:38:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7893, N-3*
+*Related: C-1305, N-3*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:42:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7894, N-3*
+*Related: C-1306, N-3*
 
 ---
 
@@ -129,7 +129,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote captured by host: "James Comey wrote love letters to the ADL and embedded FBI agents with them. A group that ran disgraceful ops spying on Americans. That era is over. The FBI won't partner with political fronts masquerading as watchd[ogs]."
 
-*Related: C-1354, N-69, N-147, N-10158*
+*Related: C-1251, N-69, N-147, N-10158*
 
 ---
 
@@ -145,7 +145,7 @@ Confidence Level: High (read aloud)
 
 Verbatim quote captured by host includes: "As we prepare to observe the holiest day of the year on the Jewish calendar… ADL has deep respect for the Federal Bureau of Investigation and law enforcement officers at all levels across the country who work tirelessly every single day to protect all Americans regardless of their ancestry, religion, ethnicity, faith, political affiliation, or any other point of difference. In light of an unprecedented surge of anti-semitism, we remain more committed than ever to our core purpose to protect the Jewish people."
 
-*Related: C-1355, N-10158*
+*Related: C-1254, N-10158*
 
 ---
 
@@ -161,7 +161,7 @@ Confidence Level: Medium (read aloud; original thread not independently verified
 
 Verbatim quotes captured by host: "I gathered property records for the 19 different states that the ADL has a regional office established. The report reveals that in the state of Connecticut, the ADL shares an office space with the FBI." Also: "After reviewing the 19 ADL offices, we can see an alarming trend. 63% of the ADL's regional offices are located within various banking institutions. 42% are located within various law firms, ranging from immigration to criminal law… 10% are located in Jewish institutions."
 
-*Related: C-1357, C-1358, N-143, N-10158, N-10159*
+*Related: C-1257, C-1258, N-143, N-10158, N-10159*
 
 ---
 
@@ -177,7 +177,7 @@ Confidence Level: High (audio clip played in episode)
 
 Captured content includes Lane's description of approaching Utah firms for pro bono representation, the firms' reported initial willingness, the need for death-penalty-certified counsel, the inability to contact Robinson's family, the reported warning from a local attorney not to engage "the most powerful" Utah firms, the reported "rude response" from a large Utah firm asserting that "only Skordas is allowed to find a representation for Tyler Robinson," and Lane's characterization of the conduct as "highly unethical."
 
-*Related: C-1359, C-1360, N-6, N-148, N-149, N-10160*
+*Related: C-1287, C-1290, N-6, N-148, N-149, N-10160*
 
 ---
 
@@ -193,7 +193,7 @@ Confidence Level: High (clip played; Bishop's name given on-air)
 
 Captured content includes Bishop's description of a more-secluded street, the suspect's limp, his long-sleeve black shirt on a hot day, his expressionless demeanor, and her retrospective reflection after seeing Robinson's walking video. Clip is described as the "only eyewitness testimony of having seen the shooter up close limping."
 
-*Related: C-1361, N-144*
+*Related: C-1266, N-144*
 
 ---
 
@@ -209,7 +209,7 @@ Confidence Level: High (clip played)
 
 Captured content includes the witness describing that the time for the suspect to reach a particular location "was way longer than it should have been" and speculation that "if the girl had given him stuff" there could be "an accomplice." Reference is also made to a still image from "Sam's across the street."
 
-*Related: C-1362, N-10161*
+*Related: C-1263, N-10161*
 
 ---
 
@@ -225,7 +225,7 @@ Confidence Level: High (clip played)
 
 Clip includes voice-over accounts from multiple witnesses (one referencing prayer, one referencing a Marine Corps habit of taking a knee, one referencing lack of metal detectors).
 
-*Related: C-1363, N-10161*
+*Related: C-1277, N-10161*
 
 ---
 
@@ -241,7 +241,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote: "I am not suicidal and I'm one of the happiest and healthiest people that you will meet. I have full faith in God and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through his grace and mercy. With that said, if something happens to me, I ask you all to find out which foreign government or powerful people would take heinous actions to stop the information from coming out."
 
-*Related: C-1364, N-145, N-10161*
+*Related: C-1300, N-145, N-10161*
 
 ---
 
@@ -257,7 +257,7 @@ Confidence Level: High (clip played)
 
 Captured content includes Von stating: "I would never take my own life. I would never take my own life. Okay, you hear that? Israel, I would never take my own life." Additional content includes references to his faith, family, friends, and a stated desire to have a wife and children.
 
-*Related: C-1365, N-146, N-10161*
+*Related: C-1312, N-146, N-10161*
 
 ---
 
@@ -273,7 +273,7 @@ Confidence Level: Low
 
 Optional Flag: Artifact verbally referenced but not shown (proof referenced by host not displayed in episode)
 
-*Related: C-1356, N-10159*
+*Related: C-1259, N-10159*
 
 ---
 
@@ -329,7 +329,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:52:35
 Transcript Snippet: ...u guys. By the way, we had so many people buy our CIA merch. We don't know, but we know. We don't know. Okay. Uh, and soon we are going to know now w...
 Confidence: medium
-*Related: C-3643, N-3*
+*Related: C-1322, N-3*
 
 ---
 
@@ -340,7 +340,7 @@ Confidence: medium
 
 Subject of the assassination; the host recounts his donor warnings, his stance on Israel and the ADL listing.
 
-*Related: C-7837, C-7846, C-7850, C-7854, C-7878, C-7888, C-7890, C-7903, C-7904, C-7906*
+*Related: C-1238, C-1247, C-1252, C-1260, C-1288, C-1299, C-1302, C-1316, C-1317, C-1319*
 
 ---
 
@@ -348,7 +348,7 @@ Subject of the assassination; the host recounts his donor warnings, his stance o
 
 Host; speaks for herself throughout.
 
-*Related: C-7836, C-7838, C-7839, C-7841, C-7844, C-7845, C-7846, C-7847, C-7848, C-7849, C-7852, C-7853, C-7855, C-7856, C-7857, C-7858, C-7859, C-7861, C-7862, C-7863, C-7868, C-7872, C-7873, C-7874, C-7875, C-7876, C-7877, C-7883, C-7884, C-7885, C-7886, C-7887, C-7890, C-7891, C-7892, C-7893, C-7894, C-7895, C-7896, C-7897, C-7898, C-7900, C-7901, C-7902, C-7903, C-7904, C-7905, C-7906, C-7907, C-7908, C-7909, C-7910*
+*Related: C-1237, C-1239, C-1240, C-1242, C-1245, C-1246, C-1247, C-1248, C-1249, C-1250, C-1255, C-1256, C-1261, C-1262, C-1264, C-1265, C-1267, C-1269, C-1270, C-1271, C-1276, C-1282, C-1279, C-1283, C-1284, C-1285, C-1286, C-1294, C-1295, C-1296, C-1297, C-1298, C-1302, C-1303, C-1304, C-1305, C-1306, C-1307, C-1308, C-1309, C-1310, C-1313, C-1314, C-1315, C-1316, C-1317, C-1318, C-1319, C-1320, C-1321, C-1323, C-1324*
 
 ---
 
@@ -356,7 +356,7 @@ Host; speaks for herself throughout.
 
 Accused; the host and Lane discuss his defense counsel and the gun.
 
-*Related: C-7876, C-7877, C-7878, C-7881*
+*Related: C-1285, C-1286, C-1288, C-1292*
 
 ---
 
@@ -364,7 +364,7 @@ Accused; the host and Lane discuss his defense counsel and the gun.
 
 Man the host says Lyman featured on his campaign website.
 
-*Related: C-7866*
+*Related: C-1274*
 
 ---
 
@@ -372,7 +372,7 @@ Man the host says Lyman featured on his campaign website.
 
 Commentator the host says is being pressured over her stance on the host.
 
-*Related: C-7896, C-7905*
+*Related: C-1308, C-1318*
 
 ---
 
@@ -380,7 +380,7 @@ Commentator the host says is being pressured over her stance on the host.
 
 Rendered 'Sigmund Freud'; the host ties him to B'nai B'rith and abuse cover-ups.
 
-*Related: C-7839, C-7840*
+*Related: C-1240, C-1241*
 
 ---
 
@@ -388,7 +388,7 @@ Rendered 'Sigmund Freud'; the host ties him to B'nai B'rith and abuse cover-ups.
 
 Utah politician; the host discusses his governor run, media tour and view of her.
 
-*Related: C-7864, C-7866, C-7867, C-7868, C-7870*
+*Related: C-1272, C-1274, C-1275, C-1276, C-1280*
 
 ---
 
@@ -396,7 +396,7 @@ Utah politician; the host discusses his governor run, media tour and view of her
 
 Witness whose sister the host says was Lyman's running mate.
 
-*Related: C-7864, C-7865*
+*Related: C-1272, C-1273*
 
 ---
 
@@ -404,7 +404,7 @@ Witness whose sister the host says was Lyman's running mate.
 
 The host says she hired former federal prosecutors and is suing the host.
 
-*Related: C-7885, C-7886, C-7909*
+*Related: C-1296, C-1297, C-1323*
 
 ---
 
@@ -412,7 +412,7 @@ The host says she hired former federal prosecutors and is suing the host.
 
 Host says Lyman spoke to him.
 
-*Related: C-7867*
+*Related: C-1275*
 
 ---
 
@@ -420,7 +420,7 @@ Host says Lyman spoke to him.
 
 The host says he tweeted about Kirk and TPUSA being on the ADL list.
 
-*Related: C-7850*
+*Related: C-1252*
 
 ---
 
@@ -428,7 +428,7 @@ The host says he tweeted about Kirk and TPUSA being on the ADL list.
 
 Person whose Instagram the host says featured Gernot Ohner.
 
-*Related: C-7870*
+*Related: C-1280*
 
 ---
 
@@ -436,7 +436,7 @@ Person whose Instagram the host says featured Gernot Ohner.
 
 Likely the witness the host calls Gernot Ohner, an Austrian software engineer (uncertain match).
 
-*Related: C-7870*
+*Related: C-1280*
 
 ---
 
@@ -444,7 +444,7 @@ Likely the witness the host calls Gernot Ohner, an Austrian software engineer (u
 
 Likely the witness the host calls Emmanuel who works at Domo (uncertain match).
 
-*Related: C-7869*
+*Related: C-1278*
 
 ---
 
@@ -452,7 +452,7 @@ Likely the witness the host calls Emmanuel who works at Domo (uncertain match).
 
 Host says he discussed arbitration courts on her show.
 
-*Related: C-7884*
+*Related: C-1295*
 
 ---
 
@@ -460,7 +460,7 @@ Host says he discussed arbitration courts on her show.
 
 JFK; the host compares his assassination to the Kirk case.
 
-*Related: C-7875*
+*Related: C-1284*
 
 ---
 
@@ -468,7 +468,7 @@ JFK; the host compares his assassination to the Kirk case.
 
 Subject of the files the host says the government voted not to release.
 
-*Related: C-7888, C-7889*
+*Related: C-1299, C-1301*
 
 ---
 
@@ -476,7 +476,7 @@ Subject of the files the host says the government voted not to release.
 
 Organization the ADL listed per the host.
 
-*Related: C-7837, C-7850, C-7890*
+*Related: C-1238, C-1252, C-1302*
 
 ---
 
@@ -484,7 +484,7 @@ Organization the ADL listed per the host.
 
 FBI; the host discusses its ADL ties and the Connecticut bureau.
 
-*Related: C-7837, C-7846, C-7847, C-7851, C-7854, C-7897*
+*Related: C-1238, C-1247, C-1248, C-1253, C-1260, C-1309*
 
 ---
 
@@ -492,7 +492,7 @@ FBI; the host discusses its ADL ties and the Connecticut bureau.
 
 Site of the shooting; the Connecticut bureau was sent there per the host.
 
-*Related: C-7854*
+*Related: C-1260*
 
 ---
 
@@ -500,7 +500,7 @@ Site of the shooting; the Connecticut bureau was sent there per the host.
 
 Referenced in the host's claims about Kirk's turn and public suicide denials.
 
-*Related: C-7849, C-7899, C-7900, C-7903*
+*Related: C-1250, C-1311, C-1313, C-1316*
 
 ---
 
@@ -508,7 +508,7 @@ Referenced in the host's claims about Kirk's turn and public suicide denials.
 
 Existing topic reused for new claims.
 
-*Related: C-7849*
+*Related: C-1250*
 
 ---
 
@@ -516,7 +516,7 @@ Existing topic reused for new claims.
 
 Existing topic reused for the no-choice claim.
 
-*Related: C-7903*
+*Related: C-1316*
 
 ---
 
@@ -524,7 +524,7 @@ Existing topic reused for the no-choice claim.
 
 Existing topic reused for the no-choice claim.
 
-*Related: C-7903*
+*Related: C-1316*
 
 ---
 
@@ -532,7 +532,7 @@ Existing topic reused for the no-choice claim.
 
 Program Barker spoke to per the host.
 
-*Related: C-7865*
+*Related: C-1273*
 
 ---
 
@@ -540,7 +540,7 @@ Program Barker spoke to per the host.
 
 Existing topic reused.
 
-*Related: C-7855*
+*Related: C-1261*
 
 ---
 
@@ -548,7 +548,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7876*
+*Related: C-1285*
 
 ---
 
@@ -556,7 +556,7 @@ Existing topic reused.
 
 Employer of Bishop per the host.
 
-*Related: C-7859, C-7860, C-7861, C-7862, C-7863*
+*Related: C-1267, C-1268, C-1269, C-1270, C-1271*
 
 ---
 
@@ -564,7 +564,7 @@ Employer of Bishop per the host.
 
 Existing topic reused.
 
-*Related: C-7866, C-7867, C-7868*
+*Related: C-1274, C-1275, C-1276*
 
 ---
 
@@ -572,7 +572,7 @@ Existing topic reused.
 
 Existing topic reused for Hild's Cayman and Spain ties.
 
-*Related: C-7874, C-7893*
+*Related: C-1283, C-1305*
 
 ---
 
@@ -580,7 +580,7 @@ Existing topic reused for Hild's Cayman and Spain ties.
 
 Existing topic reused.
 
-*Related: C-7885, C-7886, C-7909*
+*Related: C-1296, C-1297, C-1323*
 
 ---
 
@@ -588,7 +588,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7885, C-7886*
+*Related: C-1296, C-1297*
 
 ---
 
@@ -596,7 +596,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7855, C-7872*
+*Related: C-1261, C-1282*
 
 ---
 
@@ -604,7 +604,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7888, C-7889*
+*Related: C-1299, C-1301*
 
 ---
 
@@ -612,7 +612,7 @@ Existing topic reused.
 
 Existing topic reused.
 
-*Related: C-7896, C-7905*
+*Related: C-1308, C-1318*
 
 ---
 
@@ -620,7 +620,7 @@ Existing topic reused.
 
 Existing topic reused for the JFK FARA remark.
 
-*Related: C-7875*
+*Related: C-1284*
 
 ---
 
@@ -628,7 +628,7 @@ Existing topic reused for the JFK FARA remark.
 
 Existing topic reused for Ukrainian/Russian connections.
 
-*Related: C-7891, C-7892*
+*Related: C-1303, C-1304*
 
 ---
 
@@ -636,7 +636,7 @@ Existing topic reused for Ukrainian/Russian connections.
 
 Organization the host says gave rise to the ADL.
 
-*Related: C-7838, C-7839, C-7841, C-7844*
+*Related: C-1239, C-1240, C-1242, C-1245*
 
 ---
 
@@ -644,7 +644,7 @@ Organization the host says gave rise to the ADL.
 
 First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.
 
-*Related: C-7841, C-7842, C-7843, C-7844*
+*Related: C-1242, C-1243, C-1244, C-1245*
 
 ---
 
@@ -652,7 +652,7 @@ First named by the host at 00:03:10 in episode 14. Atlanta factory owner convict
 
 First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.
 
-*Related: C-7842, C-7843, C-7845*
+*Related: C-1243, C-1244, C-1246*
 
 ---
 
@@ -660,7 +660,7 @@ First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical
 
 First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.
 
-*Related: C-7871*
+*Related: C-1281*
 
 ---
 
@@ -668,7 +668,7 @@ First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip
 
 First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.
 
-*Related: C-7899*
+*Related: C-1311*
 
 ---
 
@@ -677,7 +677,7 @@ First named by the host at 00:46:04 in episode 14, via a viewer comment. Activis
 Node Type: Organization
 The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, and worked with the FBI.
 
-*Related: C-7837, C-7838, C-7841, C-7844, C-7847, C-7849, C-7850, C-7851, C-7852, C-7853, C-7890, C-7901*
+*Related: C-1238, C-1239, C-1242, C-1245, C-1248, C-1250, C-1252, C-1253, C-1255, C-1256, C-1302, C-1314*
 
 ---
 
@@ -686,7 +686,7 @@ The ADL; the host says it was born of B'nai B'rith, lists Kirk, TPUSA and her, a
 Node Type: Organization
 Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed from its hate list.
 
-*Related: C-7852*
+*Related: C-1255*
 
 ---
 
@@ -695,7 +695,7 @@ Ukrainian unit (rendered 'Azov battalion') that the host says the ADL removed fr
 Node Type: Topic
 Host's claim that eyewitness Olivia Bishop works for the Orem Police Department as a records specialist, with surrounding staffing and corruption talk.
 
-*Related: C-7859, C-7860, C-7862, C-7863*
+*Related: C-1267, C-1268, C-1270, C-1271*
 
 ---
 
@@ -704,7 +704,7 @@ Host's claim that eyewitness Olivia Bishop works for the Orem Police Department 
 Node Type: Topic
 Host's account of the 1913 Frank case and her claim that the ADL was created to defend him.
 
-*Related: C-7841, C-7842, C-7843, C-7844, C-7845*
+*Related: C-1242, C-1243, C-1244, C-1245, C-1246*
 
 ---
 
@@ -713,7 +713,7 @@ Host's account of the 1913 Frank case and her claim that the ADL was created to 
 Node Type: Topic
 Host's recounted conversation with Kirk at the Trump Hotel in DC warning him about donor money.
 
-*Related: C-7904, C-7906*
+*Related: C-1317, C-1319*
 
 ---
 
@@ -728,7 +728,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1209.1, C-1354, N-10158*
+*Related: A-1209.1, C-1251, N-10158*
 
 ---
 
@@ -741,7 +741,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1211.1, C-1357, C-1358, N-10158, N-10159*
+*Related: A-1211.1, C-1257, C-1258, N-10158, N-10159*
 
 ---
 
@@ -756,7 +756,7 @@ Investigative Pressure: Medium
 
 Optional Flag: Name preserved exactly as read in artifact; employment claim lacks artifact anchor.
 
-*Related: A-1213.1, C-1361*
+*Related: A-1213.1, C-1266*
 
 ---
 
@@ -769,7 +769,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1216.1, C-1364, N-10161*
+*Related: A-1216.1, C-1300, N-10161*
 
 ---
 
@@ -782,7 +782,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1217.1, C-1365, N-10161*
+*Related: A-1217.1, C-1312, N-10161*
 
 ---
 
@@ -810,7 +810,7 @@ Investigative Pressure: High
 
 Optional Flag: Spelling preserved as transcribed ("Skordas"/"Skordas"/"Skordas" appear inconsistently in transcript; canonical spelling unknown).
 
-*Related: A-1212.1, C-1360, N-10160*
+*Related: A-1212.1, C-1290, N-10160*
 
 ---
 
@@ -832,11 +832,11 @@ Investigative Pressure: Low
 Investigative journalist; subject of in-episode audio clip on Redacted podcast (A-1212.1) describing her pro bono outreach efforts for Tyler Robinson's defense.
 
 Evidence Count: 2 (cumulative across episodes)
-Claim Count: 2 (this episode: C-1359, C-1360)
+Claim Count: 2 (this episode: C-1287, C-1290)
 Episode Count: 2
 Investigative Pressure: Medium
 
-*Related: A-1212.1, C-1359, C-1360, N-148, N-10160*
+*Related: A-1212.1, C-1287, C-1290, N-148, N-10160*
 
 ---
 
@@ -851,7 +851,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1209.1, A-1210.1, A-1211.1, C-1354, C-1355, C-1357, N-69, N-143, N-147*
+*Related: A-1209.1, A-1210.1, A-1211.1, C-1251, C-1254, C-1257, N-69, N-143, N-147*
 
 ---
 
@@ -866,7 +866,7 @@ Investigative Pressure: Medium
 
 Optional Flag: A-1218.1 is a verbally referenced tip without on-screen source; corroboration status unclear.
 
-*Related: A-1211.1, A-1218.1, C-1356, C-1357, N-143*
+*Related: A-1211.1, A-1218.1, C-1259, C-1257, N-143*
 
 ---
 
@@ -879,7 +879,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1212.1, C-1359, C-1360, N-6, N-148*
+*Related: A-1212.1, C-1287, C-1290, N-6, N-148*
 
 ---
 
@@ -894,13 +894,13 @@ Investigative Pressure: Medium
 
 Optional Flag: The grouping of on-scene witness anomalies with public-figure suicide-denial statements is a host-asserted pattern, not itself artifact-anchored as a unified phenomenon.
 
-*Related: A-1213.1, A-1214.1, A-1215.1, A-1216.1, A-1217.1, C-1361, C-1362, C-1363, C-1364, C-1365, N-144, N-145, N-146*
+*Related: A-1213.1, A-1214.1, A-1215.1, A-1216.1, A-1217.1, C-1266, C-1263, C-1277, C-1300, C-1312, N-144, N-145, N-146*
 
 ---
 
 ## V. Claim Register
 
-**C-1354** Kash Patel Announced End of FBI/ADL Partnership via Posted Statement
+**C-1251** Kash Patel Announced End of FBI/ADL Partnership via Posted Statement
 
 Claim Timestamp: 00:08:45–00:09:33
 
@@ -915,7 +915,7 @@ Investigative Direction: Verify whether subsequent FBI conduct (training, intell
 
 ---
 
-**C-1355** Host Reads ADL Response Statement to Patel Announcement
+**C-1254** Host Reads ADL Response Statement to Patel Announcement
 
 Claim Timestamp: 00:09:33–00:10:00
 
@@ -929,7 +929,7 @@ Investigative Direction: Confirm the ADL statement verbatim from primary source 
 
 ---
 
-**C-1356** Host Says Connecticut FBI Field Office Was Deployed to Investigate Kirk Assassination
+**C-1259** Host Says Connecticut FBI Field Office Was Deployed to Investigate Kirk Assassination
 
 Claim Timestamp: 00:13:03–00:14:10
 
@@ -946,7 +946,7 @@ Optional Flag: A-1218.1 is a verbally referenced tip; host claims corroboration 
 
 ---
 
-**C-1357** ADL Shares Connecticut Office Space with FBI
+**C-1257** ADL Shares Connecticut Office Space with FBI
 
 Claim Timestamp: 00:11:32–00:13:03
 
@@ -961,7 +961,7 @@ Investigative Direction: Verify directly via Connecticut property records and FB
 
 ---
 
-**C-1358** ADL Regional Office Co-Location Statistics
+**C-1258** ADL Regional Office Co-Location Statistics
 
 Claim Timestamp: 00:11:32–00:13:03
 
@@ -976,7 +976,7 @@ Investigative Direction: Verify statistics against original property records and
 
 ---
 
-**C-1359** Elizabeth Lane Attempted Pro Bono Defense Representation for Tyler Robinson
+**C-1287** Elizabeth Lane Attempted Pro Bono Defense Representation for Tyler Robinson
 
 Claim Timestamp: 00:29:07–00:32:15
 
@@ -991,7 +991,7 @@ Investigative Direction: Independently confirm Lane's account with the firms she
 
 ---
 
-**C-1360** Elizabeth Lane Says Utah State Prosecutor Asserted Authority Over Robinson Defense Selection
+**C-1290** Elizabeth Lane Says Utah State Prosecutor Asserted Authority Over Robinson Defense Selection
 
 Claim Timestamp: 00:31:15
 
@@ -1008,7 +1008,7 @@ Optional Flag: Spelling of prosecutor's name varies in transcript ("Skordas"/"Sk
 
 ---
 
-**C-1361** Olivia Bishop Eyewitness Account of Limping Shooter
+**C-1266** Olivia Bishop Eyewitness Account of Limping Shooter
 
 Claim Timestamp: 00:17:21–00:18:53
 
@@ -1023,7 +1023,7 @@ Investigative Direction: Verify Bishop's sighting against charging-document time
 
 ---
 
-**C-1362** Lyman Family Member Identified Possible Female Accomplice
+**C-1263** Lyman Family Member Identified Possible Female Accomplice
 
 Claim Timestamp: 00:15:52–00:17:00
 
@@ -1037,7 +1037,7 @@ Investigative Direction: Identify the Lyman family member; obtain any case-file 
 
 ---
 
-**C-1363** Multiple Eyewitnesses Provided On-Site Accounts in News Compilation
+**C-1277** Multiple Eyewitnesses Provided On-Site Accounts in News Compilation
 
 Claim Timestamp: 00:21:50–00:22:48
 
@@ -1051,7 +1051,7 @@ Investigative Direction: Identify all named/unnamed witnesses in the clip; cross
 
 ---
 
-**C-1364** Host Reads Marjorie Taylor Greene's Public Denial of Suicidal Ideation
+**C-1300** Host Reads Marjorie Taylor Greene's Public Denial of Suicidal Ideation
 
 Claim Timestamp: 00:36:30–00:37:30
 
@@ -1066,7 +1066,7 @@ Investigative Direction: Verify original post and any associated official statem
 
 ---
 
-**C-1365** Theo Von Publicly Denied Suicidal Intent
+**C-1312** Theo Von Publicly Denied Suicidal Intent
 
 Claim Timestamp: 00:46:40–00:47:20
 
@@ -1081,7 +1081,7 @@ Investigative Direction: Verify original source (clip origin, show, date) and ch
 
 ---
 
-**C-3643** Host Says Many People Bought the Show's CIA Merch
+**C-1322** Host Says Many People Bought the Show's CIA Merch
 
 Claim Timestamp: 00:52:35
 Claim: The host says there is new merch on the website and that many people bought the show's CIA merch, adding 'We don't know, but we know.'
@@ -1094,7 +1094,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
-**C-7836** Host Says Tips Arrived About the Woman Missing From the Footage
+**C-1237** Host Says Tips Arrived About the Woman Missing From the Footage
 
 Claim Timestamp: 00:00:00
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Obtain the footage and identify the woman; compare any 
 
 ---
 
-**C-7837** Host Says FBI Announced It Would Cut Ties With the ADL Over Its Kirk and TPUSA Listing
+**C-1238** Host Says FBI Announced It Would Cut Ties With the ADL Over Its Kirk and TPUSA Listing
 
 Claim Timestamp: 00:01:15
 
@@ -1121,13 +1121,13 @@ Transcript Snippet: yesterday the FBI made a rather curious announcement. They a
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-11153, N-10158, N-10000, N-10014
-Supports: C-1351
+Supports: C-1225
 Tags: relevance:context
 Investigative Direction: Locate the ADL's extremism listing of Kirk/TPUSA and the FBI statement tying the break to it.
 
 ---
 
-**C-7838** Host Says the ADL Was Born Out of B'nai B'rith
+**C-1239** Host Says the ADL Was Born Out of B'nai B'rith
 
 Claim Timestamp: 00:01:15
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Compare with the ADL's own founding history and B'nai B
 
 ---
 
-**C-7839** Host Says Sigmund Freud Was a B'nai B'rith Member
+**C-1240** Host Says Sigmund Freud Was a B'nai B'rith Member
 
 Claim Timestamp: 00:01:15
 
@@ -1159,7 +1159,7 @@ Investigative Direction: Check Freud biographies for B'nai B'rith membership rec
 
 ---
 
-**C-7840** Host Says Freud and Colleagues Covered Up Incestuous Child Abuse
+**C-1241** Host Says Freud and Colleagues Covered Up Incestuous Child Abuse
 
 Claim Timestamp: 00:02:25
 
@@ -1174,7 +1174,7 @@ Investigative Direction: Review the seduction-theory history and the cited book 
 
 ---
 
-**C-7841** Host Says the ADL Was Created to Defend Leo Frank
+**C-1242** Host Says the ADL Was Created to Defend Leo Frank
 
 Claim Timestamp: 00:03:10
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Compare ADL and B'nai B'rith founding records (1913) wi
 
 ---
 
-**C-7842** Host Says Mary Phagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913
+**C-1243** Host Says Mary Phagan Was a 13-Year-Old Pencil Factory Worker Found Raped in 1913
 
 Claim Timestamp: 00:03:10
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Check 1913 Georgia court and newspaper records of the P
 
 ---
 
-**C-7843** Host Says Frank Was Found Guilty Despite Wealth and Blamed a Black Janitor
+**C-1244** Host Says Frank Was Found Guilty Despite Wealth and Blamed a Black Janitor
 
 Claim Timestamp: 00:03:10
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Review the 1913 trial record and appeals to the US Supr
 
 ---
 
-**C-7844** Host Says B'nai B'rith Assembled the ADL to Gaslight the Public About Frank
+**C-1245** Host Says B'nai B'rith Assembled the ADL to Gaslight the Public About Frank
 
 Claim Timestamp: 00:04:25
 
@@ -1233,13 +1233,13 @@ Transcript Snippet: What happened then is that his buddies over at the Freemason
 Anchored Artifacts: 
 Mentions: N-792, N-3
 Related Nodes: N-11153, N-11130, N-11156
-Supports: C-7841
+Supports: C-1242
 Tags: relevance:tangential
 Investigative Direction: Compare the host's chronology with the documented timing of the ADL's founding (1913) and Frank's 1915 lynching.
 
 ---
 
-**C-7845** Host Says a Book About Mary Phagan Was Written by a Relative of the Same Name
+**C-1246** Host Says a Book About Mary Phagan Was Written by a Relative of the Same Name
 
 Claim Timestamp: 00:04:25
 
@@ -1255,7 +1255,7 @@ Investigative Direction: Confirm the book, its author and relationship to the vi
 
 ---
 
-**C-7846** Host Says the Press Uses a 'Gaslight and Diagnose' Method on the Kirk Case
+**C-1247** Host Says the Press Uses a 'Gaslight and Diagnose' Method on the Kirk Case
 
 Claim Timestamp: 00:05:30
 
@@ -1271,7 +1271,7 @@ Investigative Direction: Identify the specific press pieces and federal statemen
 
 ---
 
-**C-7847** Host Says the ADL Labels Truth-Tellers Extremists and Works With the FBI to Target Them
+**C-1248** Host Says the ADL Labels Truth-Tellers Extremists and Works With the FBI to Target Them
 
 Claim Timestamp: 00:06:40
 
@@ -1287,7 +1287,7 @@ Investigative Direction: Obtain the ADL-FBI training and liaison records and the
 
 ---
 
-**C-7848** Host Says Critics Say She Must Have Postpartum Psychosis
+**C-1249** Host Says Critics Say She Must Have Postpartum Psychosis
 
 Claim Timestamp: 00:06:40
 
@@ -1302,7 +1302,7 @@ Investigative Direction: Collect the press pieces that make the postpartum psych
 
 ---
 
-**C-7849** Host Says Both Left and Right Work With the ADL
+**C-1250** Host Says Both Left and Right Work With the ADL
 
 Claim Timestamp: 00:08:01
 
@@ -1318,7 +1318,7 @@ Investigative Direction: Identify the neocon figures and any documented name-sha
 
 ---
 
-**C-7850** Host Says Elon Musk's Tweet Made the ADL Listing a Conservative Talking Point
+**C-1252** Host Says Elon Musk's Tweet Made the ADL Listing a Conservative Talking Point
 
 Claim Timestamp: 00:08:45
 
@@ -1334,7 +1334,7 @@ Investigative Direction: Find Musk's post and its date relative to Patel's annou
 
 ---
 
-**C-7851** Host Says the ADL Trained FBI Agents and Shared Intelligence With the FBI
+**C-1253** Host Says the ADL Trained FBI Agents and Shared Intelligence With the FBI
 
 Claim Timestamp: 00:08:45
 
@@ -1345,13 +1345,13 @@ Transcript Snippet: Yes, the ADL was training FBI agents and sharing intelligenc
 Anchored Artifacts: 
 Mentions: N-69
 Related Nodes: N-11153, N-10158, N-10014
-Supports: C-1354
+Supports: C-1251
 Tags: relevance:context
 Investigative Direction: Obtain FBI-ADL training agreements, course rosters and information-sharing records.
 
 ---
 
-**C-7852** Host Says the ADL Removed the Azov Battalion From Its Hate List
+**C-1255** Host Says the ADL Removed the Azov Battalion From Its Hate List
 
 Claim Timestamp: 00:10:50
 
@@ -1367,7 +1367,7 @@ Investigative Direction: Check the ADL's Glossary of Extremism entry for Azov an
 
 ---
 
-**C-7853** Host Says She Is on the ADL's Hate List
+**C-1256** Host Says She Is on the ADL's Hate List
 
 Claim Timestamp: 00:10:50
 
@@ -1383,7 +1383,7 @@ Investigative Direction: Verify the ADL listing of Candace Owens.
 
 ---
 
-**C-7854** Host Says She Corroborated the Connecticut Bureau Tip Among 55 Main FBI Bureaus
+**C-1260** Host Says She Corroborated the Connecticut Bureau Tip Among 55 Main FBI Bureaus
 
 Claim Timestamp: 00:13:03
 
@@ -1394,13 +1394,13 @@ Transcript Snippet: I received a rather stunning tip which I have been able to c
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10159, N-10014, N-10012
-Supports: C-1356
+Supports: C-1259
 Tags: relevance:core
 Investigative Direction: Request the FBI's deployment roster for UVU and confirm which field offices sent personnel.
 
 ---
 
-**C-7855** Host Says Early Witnesses Had Government Ties or Were Not From UVU
+**C-1261** Host Says Early Witnesses Had Government Ties or Were Not From UVU
 
 Claim Timestamp: 00:14:41
 
@@ -1416,7 +1416,7 @@ Investigative Direction: Verify each named witness's employer, residence and aff
 
 ---
 
-**C-7856** Host Says an Unrelated Tipster Reported Footage of a Person Helping the Shooter Change Clothes
+**C-1262** Host Says an Unrelated Tipster Reported Footage of a Person Helping the Shooter Change Clothes
 
 Claim Timestamp: 00:14:41
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Request any such footage and the tipster's basis; compa
 
 ---
 
-**C-7857** Host Says the Tip Name Was the Only Witness Who Saw the Shooter Up Close Limping
+**C-1264** Host Says the Tip Name Was the Only Witness Who Saw the Shooter Up Close Limping
 
 Claim Timestamp: 00:15:52
 
@@ -1448,7 +1448,7 @@ Investigative Direction: Confirm the tip's origin and whether other eyewitnesses
 
 ---
 
-**C-7858** Host Allows the Woman May Simply Have Filmed Both Men Walking and Had Nothing to Do With a Clothing Change
+**C-1265** Host Allows the Woman May Simply Have Filmed Both Men Walking and Had Nothing to Do With a Clothing Change
 
 Claim Timestamp: 00:15:52
 
@@ -1459,13 +1459,13 @@ Transcript Snippet: it's possible just to run the other side of things that this
 Anchored Artifacts: 
 Mentions: N-144, N-3
 Related Nodes: N-10161
-Qualifies: C-7857
+Qualifies: C-1264
 Tags: relevance:core
 Investigative Direction: Review the footage the woman recorded and any police statement she gave.
 
 ---
 
-**C-7859** Host Says Bishop Is Not a UVU Student and Works as an Orem Police Records Specialist
+**C-1267** Host Says Bishop Is Not a UVU Student and Works as an Orem Police Records Specialist
 
 Claim Timestamp: 00:18:53
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Confirm Bishop's employment with the Orem Police Depart
 
 ---
 
-**C-7860** Host Says Orem Police Lost Many Staff in August
+**C-1268** Host Says Orem Police Lost Many Staff in August
 
 Claim Timestamp: 00:18:53
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Locate the department's Facebook post and its staffing 
 
 ---
 
-**C-7861** Host Says She Is Hearing About Plausible Corruption at Orem Police
+**C-1269** Host Says She Is Hearing About Plausible Corruption at Orem Police
 
 Claim Timestamp: 00:18:53
 
@@ -1513,7 +1513,7 @@ Investigative Direction: Identify the sources and any public records or complain
 
 ---
 
-**C-7862** Host Says Bishop Met Friends and Her Husband at the Event
+**C-1270** Host Says Bishop Met Friends and Her Husband at the Event
 
 Claim Timestamp: 00:19:48
 
@@ -1529,7 +1529,7 @@ Investigative Direction: Check Bishop's work schedule and leave records for Sept
 
 ---
 
-**C-7863** Host Says She Reached Out to Bishop, Who Declined to Say More
+**C-1271** Host Says She Reached Out to Bishop, Who Declined to Say More
 
 Claim Timestamp: 00:19:48
 
@@ -1545,7 +1545,7 @@ Investigative Direction: Obtain the text exchange and any statement Bishop gave 
 
 ---
 
-**C-7864** Host Says Tiffany Barker Is With the Nieces and Her Sister Was Lyman's Running Mate
+**C-1272** Host Says Tiffany Barker Is With the Nieces and Her Sister Was Lyman's Running Mate
 
 Claim Timestamp: 00:19:48
 
@@ -1561,7 +1561,7 @@ Investigative Direction: Confirm Barker's family tie to Lyman's 2024 running mat
 
 ---
 
-**C-7865** Host Says Barker Spoke to Good Morning America in the Early Hours After the Shooting
+**C-1273** Host Says Barker Spoke to Good Morning America in the Early Hours After the Shooting
 
 Claim Timestamp: 00:21:03
 
@@ -1577,7 +1577,7 @@ Investigative Direction: Check GMA broadcast logs and booking records for the Se
 
 ---
 
-**C-7866** Host Says Lyman Ran for Governor in 2024 and Featured George Zinn on His Website
+**C-1274** Host Says Lyman Ran for Governor in 2024 and Featured George Zinn on His Website
 
 Claim Timestamp: 00:21:03
 
@@ -1588,13 +1588,13 @@ Transcript Snippet: He ran for Utah governor in 2024. He featured George Zinn on
 Anchored Artifacts: 
 Mentions: N-61, N-42
 Related Nodes: N-10144
-Supports: C-1338
+Supports: C-1156
 Tags: relevance:core
 Investigative Direction: Archive the Lyman campaign site from 2024 and check for the Zinn endorsement.
 
 ---
 
-**C-7867** Host Says Lyman Spoke to Alex Jones, Fox News and NewsNation
+**C-1275** Host Says Lyman Spoke to Alex Jones, Fox News and NewsNation
 
 Claim Timestamp: 00:21:03
 
@@ -1610,7 +1610,7 @@ Investigative Direction: Catalog Lyman's media appearances after September 10.
 
 ---
 
-**C-7868** Host Says Lyman Thinks She Is Shady and an Accomplice
+**C-1276** Host Says Lyman Thinks She Is Shady and an Accomplice
 
 Claim Timestamp: 00:21:03
 
@@ -1626,7 +1626,7 @@ Investigative Direction: Locate Lyman's public statements about the host.
 
 ---
 
-**C-7869** Host Says Emmanuel Works at Domo Incorporated
+**C-1278** Host Says Emmanuel Works at Domo Incorporated
 
 Claim Timestamp: 00:22:48
 
@@ -1642,7 +1642,7 @@ Investigative Direction: Confirm the witness's identity and employment at Domo t
 
 ---
 
-**C-7870** Host Says Gernot Ohner Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram
+**C-1280** Host Says Gernot Ohner Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram
 
 Claim Timestamp: 00:24:01
 
@@ -1658,7 +1658,7 @@ Investigative Direction: Match the Gernot Ohner name to the previously identifie
 
 ---
 
-**C-7871** Host Says Scott Robbins Ran for Utah Governor in 2024
+**C-1281** Host Says Scott Robbins Ran for Utah Governor in 2024
 
 Claim Timestamp: 00:24:12
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Check Utah 2024 gubernatorial filings for Scott Robbins
 
 ---
 
-**C-7872** Host Says Nobody Asked the Witnesses Who They Were or If They Were Students
+**C-1282** Host Says Nobody Asked the Witnesses Who They Were or If They Were Students
 
 Claim Timestamp: 00:24:18
 
@@ -1690,7 +1690,7 @@ Investigative Direction: Review the original USA Today and AP witness interviews
 
 ---
 
-**C-7873** Host Says Witnesses Eager to Speak to the Press Never Contacted Her
+**C-1279** Host Says Witnesses Eager to Speak to the Press Never Contacted Her
 
 Claim Timestamp: 00:22:48
 
@@ -1706,7 +1706,7 @@ Investigative Direction: Document the host's public requests for witness contact
 
 ---
 
-**C-7874** Host Says Robbie Hild Has Cayman Islands and Spain Connections
+**C-1283** Host Says Robbie Hild Has Cayman Islands and Spain Connections
 
 Claim Timestamp: 00:24:46
 
@@ -1722,7 +1722,7 @@ Investigative Direction: Verify Hild's reported Cayman Islands and Spain ties th
 
 ---
 
-**C-7875** Host Says JFK Was Infiltrated and Removed for Wrong Ideas
+**C-1284** Host Says JFK Was Infiltrated and Removed for Wrong Ideas
 
 Claim Timestamp: 00:27:37
 
@@ -1738,7 +1738,7 @@ Investigative Direction: Compare with documented JFK-era records; note the FARA 
 
 ---
 
-**C-7876** Host Says It Is Robinson's Gun but She Does Not Believe He Pulled the Trigger
+**C-1285** Host Says It Is Robinson's Gun but She Does Not Believe He Pulled the Trigger
 
 Claim Timestamp: 00:27:37
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Review the charging documents, ballistic tie to the gun
 
 ---
 
-**C-7877** Host Says Robinson Would Need a Lawyer Who Works for the Prosecution
+**C-1286** Host Says Robinson Would Need a Lawyer Who Works for the Prosecution
 
 Claim Timestamp: 00:27:37
 
@@ -1765,13 +1765,13 @@ Transcript Snippet: if they're going to make that stick, then you got to have yo
 Anchored Artifacts: 
 Mentions: N-40, N-3
 Related Nodes: N-10160
-Supports: C-1360
+Supports: C-1290
 Tags: relevance:core
 Investigative Direction: Review how Robinson's defense counsel was selected and any role of the prosecutor.
 
 ---
 
-**C-7878** Lane Says a Reputable Utah Firm Rejected the Single-Shooter Story
+**C-1288** Lane Says a Reputable Utah Firm Rejected the Single-Shooter Story
 
 Claim Timestamp: 00:29:07
 
@@ -1787,7 +1787,7 @@ Investigative Direction: Identify the firm and obtain any written communication 
 
 ---
 
-**C-7879** Lane Says a Local Lawyer Warned Her Off the Most Powerful Utah Firms
+**C-1289** Lane Says a Local Lawyer Warned Her Off the Most Powerful Utah Firms
 
 Claim Timestamp: 00:30:25
 
@@ -1803,7 +1803,7 @@ Investigative Direction: Identify the local lawyer and the firms Lane means.
 
 ---
 
-**C-7880** Lane Says One of Utah's Biggest Firms Screamed at Her on the Phone
+**C-1291** Lane Says One of Utah's Biggest Firms Screamed at Her on the Phone
 
 Claim Timestamp: 00:31:28
 
@@ -1819,7 +1819,7 @@ Investigative Direction: Identify the firm and call date.
 
 ---
 
-**C-7881** Lane Says a Famous New York Lawyer Wanted to Represent Robinson
+**C-1292** Lane Says a Famous New York Lawyer Wanted to Represent Robinson
 
 Claim Timestamp: 00:31:28
 
@@ -1835,7 +1835,7 @@ Investigative Direction: Identify the New York lawyer and any consent request fi
 
 ---
 
-**C-7882** Lane Says Skordas Is Running as a State Prosecutor and Says So on His Website
+**C-1293** Lane Says Skordas Is Running as a State Prosecutor and Says So on His Website
 
 Claim Timestamp: 00:32:15
 
@@ -1846,13 +1846,13 @@ Transcript Snippet: So, what I know is that Skordas is running as a state prosec
 Anchored Artifacts: A-1212.1
 Mentions: N-6, N-148
 Related Nodes: N-10160
-Supports: C-1360
+Supports: C-1290
 Tags: relevance:core
 Investigative Direction: Check Skordas's campaign site and official role; confirm spelling and title.
 
 ---
 
-**C-7883** Host Says the Gang Running Everything Also Controls the Courts
+**C-1294** Host Says the Gang Running Everything Also Controls the Courts
 
 Claim Timestamp: 00:32:15
 
@@ -1868,7 +1868,7 @@ Investigative Direction: Not independently testable; look for specific rulings o
 
 ---
 
-**C-7884** Host Says Arbitration Courts Are Private and Judges Need Not Follow the Law
+**C-1295** Host Says Arbitration Courts Are Private and Judges Need Not Follow the Law
 
 Claim Timestamp: 00:33:08
 
@@ -1883,7 +1883,7 @@ Investigative Direction: Review the Carroll episode and the arbitration clause d
 
 ---
 
-**C-7885** Host Says She Is the First Podcaster Sued for Defamation by a Sitting Foreign Leader
+**C-1296** Host Says She Is the First Podcaster Sued for Defamation by a Sitting Foreign Leader
 
 Claim Timestamp: 00:33:54
 
@@ -1899,7 +1899,7 @@ Investigative Direction: Check for earlier suits by sitting heads of state again
 
 ---
 
-**C-7886** Host Says Brigitte Macron Hired Former Federal Prosecutors and a US Firm
+**C-1297** Host Says Brigitte Macron Hired Former Federal Prosecutors and a US Firm
 
 Claim Timestamp: 00:34:45
 
@@ -1915,7 +1915,7 @@ Investigative Direction: Review the court docket for the Macron counsel appearan
 
 ---
 
-**C-7887** Host Describes the Playbook: Smear, Bankrupt or Die Mysteriously
+**C-1298** Host Describes the Playbook: Smear, Bankrupt or Die Mysteriously
 
 Claim Timestamp: 00:34:45
 
@@ -1930,7 +1930,7 @@ Investigative Direction: Sweeping claim; look for specific named examples.
 
 ---
 
-**C-7888** Host Says the Government Quietly Voted Not to Release Epstein Files the Day Kirk Was Killed
+**C-1299** Host Says the Government Quietly Voted Not to Release Epstein Files the Day Kirk Was Killed
 
 Claim Timestamp: 00:36:04
 
@@ -1946,7 +1946,7 @@ Investigative Direction: Check the congressional vote record for September 10, 2
 
 ---
 
-**C-7889** Host Says Marjorie Taylor Greene Has Been Very Loud Against Non-Release of the Epstein Files
+**C-1301** Host Says Marjorie Taylor Greene Has Been Very Loud Against Non-Release of the Epstein Files
 
 Claim Timestamp: 00:36:30
 
@@ -1957,13 +1957,13 @@ Transcript Snippet: Taylor Green has been very loud about how she is against tha
 Anchored Artifacts: A-1216.1
 Mentions: N-145, N-9
 Related Nodes: N-10324
-Supports: C-1364
+Supports: C-1300
 Tags: relevance:context
 Investigative Direction: Review Greene's public statements on the Epstein files.
 
 ---
 
-**C-7890** Host Says the ADL List Features Kirk, TPUSA and Candace Owens
+**C-1302** Host Says the ADL List Features Kirk, TPUSA and Candace Owens
 
 Claim Timestamp: 00:36:30
 
@@ -1974,13 +1974,13 @@ Transcript Snippet: Why the ADL creates a list that features people like Charlie
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-11153, N-10000
-Supports: C-7853
+Supports: C-1256
 Tags: relevance:context
 Investigative Direction: Verify the entries on the ADL's lists.
 
 ---
 
-**C-7891** Host Says Ukrainian Connections Are Coming Across in the Case
+**C-1303** Host Says Ukrainian Connections Are Coming Across in the Case
 
 Claim Timestamp: 00:37:41
 
@@ -1996,7 +1996,7 @@ Investigative Direction: Identify the Ukrainian connections the host promises.
 
 ---
 
-**C-7892** Host Says the Catholic School Shooter Scribbled in Cyrillic
+**C-1304** Host Says the Catholic School Shooter Scribbled in Cyrillic
 
 Claim Timestamp: 00:37:41
 
@@ -2012,7 +2012,7 @@ Investigative Direction: Review the official evidence from the Annunciation Cath
 
 ---
 
-**C-7893** Host Opens Another Tips Line and Asks for Tips About Robbie Hild and What Happened in Orem
+**C-1305** Host Opens Another Tips Line and Asks for Tips About Robbie Hild and What Happened in Orem
 
 Claim Timestamp: 00:38:35
 
@@ -2028,7 +2028,7 @@ Investigative Direction: Confirm the tip address and track the volume of submiss
 
 ---
 
-**C-7894** A Commenter Says Her Sister Took a Four-Year-Old Out of School
+**C-1306** A Commenter Says Her Sister Took a Four-Year-Old Out of School
 
 Claim Timestamp: 00:42:16
 
@@ -2043,7 +2043,7 @@ Investigative Direction: Not investigable.
 
 ---
 
-**C-7895** Host Says Sleeper Cells Exist in Public and Private Schools
+**C-1307** Host Says Sleeper Cells Exist in Public and Private Schools
 
 Claim Timestamp: 00:42:52
 
@@ -2058,7 +2058,7 @@ Investigative Direction: Sweeping claim; ask for specific named cases.
 
 ---
 
-**C-7896** Host Says Megyn Kelly Was Shown a Clip of the Host Saying It Is Not Left or Right
+**C-1308** Host Says Megyn Kelly Was Shown a Clip of the Host Saying It Is Not Left or Right
 
 Claim Timestamp: 00:42:52
 
@@ -2074,7 +2074,7 @@ Investigative Direction: Find the Kelly appearance and the clip shown.
 
 ---
 
-**C-7897** Host Says Influencers Are Paid to Call the Questions Crazy
+**C-1309** Host Says Influencers Are Paid to Call the Questions Crazy
 
 Claim Timestamp: 00:44:01
 
@@ -2090,7 +2090,7 @@ Investigative Direction: Look for documented influencer payments tied to this na
 
 ---
 
-**C-7898** Host Says She Just Started Homeschooling This Week
+**C-1310** Host Says She Just Started Homeschooling This Week
 
 Claim Timestamp: 00:45:00
 
@@ -2100,13 +2100,13 @@ Transcript Snippet: I do the the morning stuff for homeschooling. And it obvious
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-1277
+Supports: C-771
 Tags: relevance:tangential
 Investigative Direction: Not investigable.
 
 ---
 
-**C-7899** Host Says Greta Thunberg Was Labeled Hamas After a Time Cover
+**C-1311** Host Says Greta Thunberg Was Labeled Hamas After a Time Cover
 
 Claim Timestamp: 00:46:04
 
@@ -2122,7 +2122,7 @@ Investigative Direction: Find the Time cover and the octopus image controversy.
 
 ---
 
-**C-7900** Host Says Public Figures Who Speak Against Israel Feel Forced to State They Are Not Suicidal
+**C-1313** Host Says Public Figures Who Speak Against Israel Feel Forced to State They Are Not Suicidal
 
 Claim Timestamp: 00:47:20
 
@@ -2133,13 +2133,13 @@ Transcript Snippet: If you have influence and you're speaking out against Israel
 Anchored Artifacts: A-1217.1
 Mentions: N-3
 Related Nodes: N-10161, N-10026
-Supports: C-1365
+Supports: C-1312
 Tags: relevance:context
 Investigative Direction: Collect similar public statements by other figures.
 
 ---
 
-**C-7901** Host Predicts the ADL Will Call YouTube After the Episode
+**C-1314** Host Predicts the ADL Will Call YouTube After the Episode
 
 Claim Timestamp: 00:48:12
 
@@ -2155,7 +2155,7 @@ Investigative Direction: Check YouTube enforcement actions against the host in 2
 
 ---
 
-**C-7902** Commenter Paul T Says the Operation Looks Rushed and Sloppy
+**C-1315** Commenter Paul T Says the Operation Looks Rushed and Sloppy
 
 Claim Timestamp: 00:49:12
 
@@ -2171,7 +2171,7 @@ Investigative Direction: Not verifiable; commenter's identity unknown.
 
 ---
 
-**C-7903** Host Says Kirk Was Explicit He Was Left No Choice but to Become Anti-Israel
+**C-1316** Host Says Kirk Was Explicit He Was Left No Choice but to Become Anti-Israel
 
 Claim Timestamp: 00:49:12
 
@@ -2187,7 +2187,7 @@ Investigative Direction: Find Kirk's own statements or messages showing his stan
 
 ---
 
-**C-7904** Host Says She Warned Kirk at the Trump Hotel in DC to Be Careful Whose Money He Took
+**C-1317** Host Says She Warned Kirk at the Trump Hotel in DC to Be Careful Whose Money He Took
 
 Claim Timestamp: 00:50:02
 
@@ -2203,7 +2203,7 @@ Investigative Direction: Date the Trump Hotel conversation and identify corrobor
 
 ---
 
-**C-7905** Host Says Articles Began Targeting Megyn Kelly After She Predicted It
+**C-1318** Host Says Articles Began Targeting Megyn Kelly After She Predicted It
 
 Claim Timestamp: 00:50:02
 
@@ -2219,7 +2219,7 @@ Investigative Direction: Find the articles after the October 1 episode targeting
 
 ---
 
-**C-7906** Host Says Kirk Saw the Danger Only Too Late
+**C-1319** Host Says Kirk Saw the Danger Only Too Late
 
 Claim Timestamp: 00:51:04
 
@@ -2230,13 +2230,13 @@ Transcript Snippet: I don't think Charlie believed that or saw that until it was
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-11157
-Supports: C-7904
+Supports: C-1317
 Tags: relevance:core
 Investigative Direction: Gather Kirk's later statements about donors.
 
 ---
 
-**C-7907** Host Says Germany Arrests Parents Who Homeschool
+**C-1320** Host Says Germany Arrests Parents Who Homeschool
 
 Claim Timestamp: 00:51:04
 
@@ -2251,7 +2251,7 @@ Investigative Direction: Check German compulsory school attendance law.
 
 ---
 
-**C-7908** Host Says 97 Vaccines Are Required for Public School
+**C-1321** Host Says 97 Vaccines Are Required for Public School
 
 Claim Timestamp: 00:51:04
 
@@ -2266,7 +2266,7 @@ Investigative Direction: Check state school immunization schedules.
 
 ---
 
-**C-7909** Host Says Mrs. Macron Is Going to Bankrupt Her
+**C-1323** Host Says Mrs. Macron Is Going to Bankrupt Her
 
 Claim Timestamp: 00:52:35
 
@@ -2277,13 +2277,13 @@ Transcript Snippet: Mrs. Macron's got some pretty big balls. She's going to bank
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10270
-Supports: C-7886
+Supports: C-1297
 Tags: relevance:tangential
 Investigative Direction: Track costs and filings in the Macron suit.
 
 ---
 
-**C-7910** Host Says the Witness Tree Has Gone Silent and Never Reached Out
+**C-1324** Host Says the Witness Tree Has Gone Silent and Never Reached Out
 
 Claim Timestamp: 00:53:17
 
@@ -2294,7 +2294,7 @@ Transcript Snippet: And the witness tree has gone silent, has never reached out 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10161
-Supports: C-7873
+Supports: C-1279
 Tags: relevance:core
 Investigative Direction: Document witness outreach attempts.
 

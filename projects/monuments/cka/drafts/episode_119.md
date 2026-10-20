@@ -15,7 +15,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-698, N-699, N-700, N-701, N-702, N-703, N-704, N-706, N-10997, N-10998, N-10999
   - Reused Nodes Appearing: N-1, N-2, N-3, N-11, N-14, N-17, N-22, N-40, N-46, N-55, N-60, N-61, N-75, N-159, N-186, N-190, N-224, N-261, N-266, N-298, N-330, N-341, N-364, N-380, N-387, N-489, N-551, N-595, N-686, N-10000, N-10056, N-10070, N-10095, N-10148, N-10162, N-10169, N-10194, N-10229, N-10315, N-10341, N-10346, N-10383, N-10398, N-10448, N-10507, N-10508, N-10528, N-10552, N-10644, N-10664, N-10768, N-10865, N-10887, N-10991, N-705, N-10739, N-11000
-  - Claim Range: C-4771–C-4837
+  - Claim Range: C-10157–C-10223
   - (see registers)
 
 ## 2. Executive Summary
@@ -39,7 +39,7 @@ Video Timestamp: 00:05:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4776, C-4777, N-224, N-266, N-261, N-2*
+*Related: C-10162, C-10163, N-224, N-266, N-261, N-2*
 
 ---
 
@@ -52,7 +52,7 @@ Video Timestamp: 00:09:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4783, N-261, N-2*
+*Related: C-10169, N-261, N-2*
 
 **A-2698.2** Graphic of the Visual Impulse team present on September 10 (Terryl Farnsworth, Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards, Robert Golow)
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:09:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4786, C-4787, C-4788, C-4789, C-4790, C-4791, N-261, N-686, N-698, N-699, N-700, N-701, N-10991*
+*Related: C-10172, C-10173, C-10174, C-10175, C-10176, C-10177, N-261, N-686, N-698, N-699, N-700, N-701, N-10991*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:14:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4795, C-4800, N-1, N-10095*
+*Related: C-10181, C-10186, N-1, N-10095*
 
 **A-2699.2** News clip of second eyewitness describing a shot to the heart
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:14:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4796, C-4800, N-1, N-10095*
+*Related: C-10182, C-10186, N-1, N-10095*
 
 **A-2699.3** News clip of third eyewitness describing blood from the chest
 
@@ -98,7 +98,7 @@ Video Timestamp: 00:14:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4797, C-4800, N-1, N-10095*
+*Related: C-10183, C-10186, N-1, N-10095*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:21:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4781, C-4805, N-2, N-1, N-10999*
+*Related: C-10167, C-10191, N-2, N-1, N-10999*
 
 **A-2700.2** Extended clip of Erika Kirk on the couple's "emergency plan"
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:30:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4814, N-2, N-1, N-10194*
+*Related: C-10200, N-2, N-1, N-10194*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:29:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4813, N-2, N-10999*
+*Related: C-10199, N-2, N-10999*
 
 ---
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:24:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4806, C-4807, C-4808, C-4809, C-4810, C-4811, N-702, N-703, N-704, N-705, N-298, N-2, N-11000*
+*Related: C-10192, C-10193, C-10194, C-10195, C-10196, C-10197, N-702, N-703, N-704, N-705, N-298, N-2, N-11000*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:37:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4816, C-4817, C-4818, C-4819, N-17, N-3, N-266, N-706, N-10887*
+*Related: C-10202, C-10203, C-10204, C-10205, N-17, N-3, N-266, N-706, N-10887*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:41:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4820, C-4821, N-22, N-1, N-10148*
+*Related: C-10206, C-10207, N-22, N-1, N-10148*
 
 ---
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:45:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4825, N-159, N-22, N-40*
+*Related: C-10211, N-159, N-22, N-40*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:46:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4827, N-14, N-22, N-1*
+*Related: C-10213, N-14, N-22, N-1*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:52:51
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4830, C-4831, N-10768*
+*Related: C-10216, C-10217, N-10768*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:12:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4792, N-701, N-10998*
+*Related: C-10178, N-701, N-10998*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:55:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4833, C-4834, N-266, N-224, N-10997*
+*Related: C-10219, C-10220, N-266, N-224, N-10997*
 
 **A-2709.2** Viewer comment (Ali) on Erika Kirk's Father's Day post
 
@@ -270,7 +270,7 @@ Video Timestamp: 00:58:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4835, N-2, N-1*
+*Related: C-10221, N-2, N-1*
 
 ---
 ## 4. Node Register
@@ -279,418 +279,418 @@ Confidence Level: Low
 
 Assassination victim. The episode discusses his reported wounds, the redundant microphone, his building and staff, his views on Israel and succession at TPUSA.
 
-*Related: C-4776, C-4778, C-4780, C-4782, C-4783, C-4790, C-4791, C-4793, C-4795, C-4796, C-4797, C-4798, C-4799, C-4804, C-4805, C-4814, C-4815, C-4820, C-4821, C-4822, C-4823, C-4824, C-4825, C-4827, C-4828, C-4832, C-4833, C-4834, C-4835, A-2699.1, A-2699.2, A-2699.3, A-2700.1, A-2700.2, A-2704.1, A-2706.1, A-2709.2*
+*Related: C-10162, C-10164, C-10166, C-10168, C-10169, C-10176, C-10177, C-10179, C-10181, C-10182, C-10183, C-10184, C-10185, C-10190, C-10191, C-10200, C-10201, C-10206, C-10207, C-10208, C-10209, C-10210, C-10211, C-10213, C-10214, C-10218, C-10219, C-10220, C-10221, A-2699.1, A-2699.2, A-2699.3, A-2700.1, A-2700.2, A-2704.1, A-2706.1, A-2709.2*
 
 **N-2** Erika Kirk
 
 Her shifting account of the CEO succession, her familiarity with staff, her ties to Terryl Farnsworth and the handling of evidence are disputed by the host.
 
-*Related: C-4777, C-4780, C-4783, C-4784, C-4803, C-4804, C-4805, C-4807, C-4812, C-4813, C-4814, C-4815, C-4829, C-4833, C-4834, C-4835, C-4836, C-4837, A-2697.1, A-2698.1, A-2700.1, A-2700.2, A-2701.1, A-2702.1, A-2709.2*
+*Related: C-10163, C-10166, C-10169, C-10170, C-10189, C-10190, C-10191, C-10193, C-10198, C-10199, C-10200, C-10201, C-10215, C-10219, C-10220, C-10221, C-10222, C-10223, A-2697.1, A-2698.1, A-2700.1, A-2700.2, A-2701.1, A-2702.1, A-2709.2*
 
 **N-3** Candace Owens
 
 Host; announces her pregnancy, addresses the death hoax and her Shawn Ryan recording, and rebuts Rob McCoy's $800,000-a-week claim.
 
-*Related: C-4771, C-4772, C-4773, C-4774, C-4775, C-4785, C-4792, C-4817, C-4818, C-4832, C-4837, A-2703.1*
+*Related: C-10157, C-10158, C-10159, C-10160, C-10161, C-10171, C-10178, C-10203, C-10204, C-10218, C-10223, A-2703.1*
 
 **N-11** Tyler Bowyer
 
 Host says the Farnsworth family grew up with Bowyer's family in Chandler, Arizona.
 
-*Related: C-4779*
+*Related: C-10165*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Colbeth", "Andrew Kolvet" and "Colvette". Erika is said to have falsely claimed he "went rogue". The host names him as the source of the SD-card theft explanation and as the recipient of Aubrey's remark. He appears with Tucker Carlson in a clip praising Tucker's friendship with Charlie.
 
-*Related: C-4801, C-4803, C-4812, C-4827, A-2706.1*
+*Related: C-10187, C-10189, C-10198, C-10213, A-2706.1*
 
 **N-17** Rob McCoy
 
 Transcript spelling "Pastor Rob McCoy". His Encounter Church sermon about the host is aired.
 
-*Related: C-4815, C-4816, C-4817, C-4818, C-4819, A-2703.1*
+*Related: C-10201, C-10202, C-10203, C-10204, C-10205, A-2703.1*
 
 **N-22** Tucker Carlson
 
 Says on the Can't Be Censored podcast that Charlie Kirk was most likely murdered for his evolving views on Israel; Blake Neff calls him a liar.
 
-*Related: C-4820, C-4821, C-4825, C-4827, C-4828, A-2704.1, A-2705.1, A-2706.1*
+*Related: C-10206, C-10207, C-10211, C-10213, C-10214, A-2704.1, A-2705.1, A-2706.1*
 
 **N-40** Tyler Robinson
 
 Named in Blake Neff's tweet and in the host's remarks about TPUSA staff doubts and Erika Kirk's absence from hearings.
 
-*Related: C-4825, C-4826, C-4836, C-4837, A-2705.1*
+*Related: C-10211, C-10212, C-10222, C-10223, A-2705.1*
 
 **N-46** Megyn Kelly
 
 Transcript spelling "Megyn Kelly". Erika Kirk told her the original succession story.
 
-*Related: C-4804*
+*Related: C-10190*
 
 **N-55** Josh Hammer
 
 Named as being on the night-before Zoom call and text chain with Charlie Kirk, and as being recast as a close friend.
 
-*Related: C-4822, C-4823, C-4828*
+*Related: C-10208, C-10209, C-10214*
 
 **N-60** Laura Loomer
 
 Host says TPUSA figures are recasting her as Charlie Kirk's confidante.
 
-*Related: C-4828*
+*Related: C-10214*
 
 **N-61** Phil Lyman
 
 Tiffany Barker is said to have worked on his campaign; he also testified to media.
 
-*Related: C-4794*
+*Related: C-10180*
 
 **N-75** Tiffany Barker
 
 One of the politically connected September 10 eyewitnesses who spoke to media.
 
-*Related: C-4794*
+*Related: C-10180*
 
 **N-159** Blake Neff
 
 Transcript spelling "Blake Neff". His tweet calls Tucker Carlson a liar; the host says he formerly worked for Tucker.
 
-*Related: C-4825, C-4826, C-4827, A-2705.1*
+*Related: C-10211, C-10212, C-10213, A-2705.1*
 
 **N-186** Stacy Sheridan
 
 Host says she and Mikey McCoy coached Erika Kirk on her lines.
 
-*Related: C-4829*
+*Related: C-10215*
 
 **N-190** Mikey McCoy
 
 Rob McCoy's son; the host says he helped Erika Kirk memorize her lines.
 
-*Related: C-4816, C-4829*
+*Related: C-10202, C-10215*
 
 **N-224** Shawn Ryan
 
 The host recorded a long interview at his studio. His team says Brian Harpole offered him the bloodied bag and that an Erika Kirk booking went through Terryl Farnsworth.
 
-*Related: C-4774, C-4775, C-4776, C-4777, A-2697.1, A-2709.1*
+*Related: C-10160, C-10161, C-10162, C-10163, A-2697.1, A-2709.1*
 
 **N-261** Terryl Farnsworth
 
 Transcript spellings "Taral", "Terryl", "Tarrou" and "Taro". Visual Impulse owner who announced the death on camera and removed the SD card. Said to have arranged an Erika Kirk booking and to have been removed from Charlie's building in July.
 
-*Related: C-4777, C-4778, C-4779, C-4782, C-4783, C-4784, C-4786, C-4788, C-4790, C-4791, C-4801, A-2697.1, A-2698.1, A-2698.2*
+*Related: C-10163, C-10164, C-10165, C-10168, C-10169, C-10170, C-10172, C-10174, C-10176, C-10177, C-10187, A-2697.1, A-2698.1, A-2698.2*
 
 **N-266** Brian Harpole
 
 Transcript spellings "Brian Harpole" and "Bryan Harp". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.
 
-*Related: C-4775, C-4776, C-4818, C-4833, A-2697.1, A-2703.1, A-2709.1*
+*Related: C-10161, C-10162, C-10204, C-10219, A-2697.1, A-2703.1, A-2709.1*
 
 **N-298** Miriam Adelson
 
 Cited by ChatGPT as a widow successor; the host says she inherited shares and was never CEO.
 
-*Related: C-4811, A-2702.1*
+*Related: C-10197, A-2702.1*
 
 **N-330** Baron Coleman
 
 Named as working on audio about TPUSA staff doubts over Tyler Robinson.
 
-*Related: C-4826*
+*Related: C-10212*
 
 **N-341** Victor Marx
 
 Named as one of the pastors Erika Kirk brought into TPUSA Faith.
 
-*Related: C-4815*
+*Related: C-10201*
 
 **N-364** Cabot Phillips
 
 Host says he accosted her on a toddler playground during her early pregnancy.
 
-*Related: C-4772*
+*Related: C-10158*
 
 **N-380** Eddie Farnsworth
 
 Said to have helped bring Lori Frantzve into Arizona government contracts.
 
-*Related: C-4780*
+*Related: C-10166*
 
 **N-387** Larry Guinta
 
 Transcript spelling "Larry Guinta". Lori Frantzve's husband and Erika Kirk's stepfather, said to appear with her on the Arizona House floor.
 
-*Related: C-4780*
+*Related: C-10166*
 
 **N-489** Lori Frantzve
 
 Transcript spelling "Lori Fran Slay". Erika Kirk's mother; said to have been brought into Arizona government contracts by the Farnsworths.
 
-*Related: C-4780*
+*Related: C-10166*
 
 **N-551** Aubrey Laitsch
 
 Named only as "Aubrey"; said to have told Andrew Kolvet when she was fired that "Nobody knows who she is."
 
-*Related: C-4812*
+*Related: C-10198*
 
 **N-686** Philip Goldsberry Jr.
 
 First named by the host at 00:09:55 in episode 119. Visual Impulse team member on September 10; the host says his father is a pastor who started Global Ministries in Romania. Aliases: Philip Goldsberry.
 
-*Related: C-4787, A-2698.2*
+*Related: C-10173, A-2698.2*
 
 **N-698** Brian Farnsworth
 
 First named by the host at 00:09:55 in episode 119. Terryl Farnsworth's brother, shown on the Visual Impulse team graphic.
 
-*Related: C-4786, A-2698.2*
+*Related: C-10172, A-2698.2*
 
 **N-699** Parker Edwards
 
 First named by the host at 00:10:49 in episode 119. Visual Impulse team member who went to the same high school as Terryl Farnsworth.
 
-*Related: C-4788, C-4789, A-2698.2*
+*Related: C-10174, C-10175, A-2698.2*
 
 **N-700** Aaron Edwards
 
 First named by the host at 00:11:31 in episode 119. Parker Edwards's brother; said to have worked for Visual Impulse and attended Arizona State University.
 
-*Related: C-4789, A-2698.2*
+*Related: C-10175, A-2698.2*
 
 **N-701** Robert Golow
 
 First named by the host at 00:11:31 in episode 119. Visual Impulse camera operator from Liberia, hired in 2024; said to have stood next to Terryl Farnsworth when Charlie Kirk was hit.
 
-*Related: C-4790, C-4791, C-4792, A-2698.2, A-2708.1*
+*Related: C-10176, C-10177, C-10178, A-2698.2, A-2708.1*
 
 **N-702** Ellen Gordon
 
 First named by the host at 00:24:13 in episode 119. Tootsie Roll Industries executive cited by ChatGPT as a widow successor.
 
-*Related: C-4806, A-2702.1*
+*Related: C-10192, A-2702.1*
 
 **N-703** Katharine Graham
 
 First named by the host at 00:24:13 in episode 119. Washington Post publisher cited by ChatGPT as a widow successor. Aliases: Katharine Meyer Graham.
 
-*Related: C-4808, A-2702.1*
+*Related: C-10194, A-2702.1*
 
 **N-704** Eugene Meyer
 
 First named by the host at 00:26:09 in episode 119. Katharine Graham's father, who the host says bought the Washington Post out of bankruptcy.
 
-*Related: C-4809, A-2702.1*
+*Related: C-10195, A-2702.1*
 
 **N-705** Sheldon Adelson
 
 First named by the host at 00:26:09 in episode 119. Miriam Adelson's late husband; the host says Miriam inherited his shares on his death in 2021.
 
-*Related: C-4811, A-2702.1*
+*Related: C-10197, A-2702.1*
 
 **N-706** Increase Mather
 
 First named by the host at 00:37:29 in episode 119 (in Rob McCoy's sermon clip). Named by McCoy as the minister who ended the Salem witch trials.
 
-*Related: C-4819, A-2703.1*
+*Related: C-10205, A-2703.1*
 
 **N-595** Druski
 
 First named by the host at 00:58:50 in episode 119. Comedian whom the host says Erika Kirk called out for a joke. Aliases: Druski.
 
-*Related: C-4837*
+*Related: C-10223*
 
 **N-10000** Turning Point USA
 
 Organization whose campus, staff, faith division and evidence handling are discussed.
 
-*Related: C-4781, C-4782, C-4791, C-4826, C-4833*
+*Related: C-10167, C-10168, C-10177, C-10212, C-10219*
 
 **N-10056** Kirk-Israel Narrative Dispute
 
 Tucker Carlson's Israel-motive claim and Blake Neff's rebuttal.
 
-*Related: C-4821, C-4822, C-4825*
+*Related: C-10207, C-10208, C-10211*
 
 **N-10070** Daily Mail
 
 Host refers back to a Daily Mail article in which Erika Kirk's succession story began to shift.
 
-*Related: C-4804*
+*Related: C-10190*
 
 **N-10095** 9/10 Eyewitness Pattern Investigation
 
 The chest-wound eyewitness accounts and the later neck-wound witnesses.
 
-*Related: C-4793, C-4795, C-4796, C-4797, C-4798, C-4824, A-2699.1, A-2699.2, A-2699.3*
+*Related: C-10179, C-10181, C-10182, C-10183, C-10184, C-10210, A-2699.1, A-2699.2, A-2699.3*
 
 **N-10148** Charlie Kirk Pre-Mortem Israel Position Claim
 
 The night-before message about abandoning the pro-Israel cause and Tucker Carlson's motive claim.
 
-*Related: C-4821, C-4822, A-2704.1*
+*Related: C-10207, C-10208, A-2704.1*
 
 **N-10162** SD Card Removal Narrative Discrepancy
 
 Host rejects the theft explanation for Farnsworth taking the SD card.
 
-*Related: C-4784, C-4801*
+*Related: C-10170, C-10187*
 
 **N-10169** Josh Hammer Pre-Death Zoom Call Verification
 
 The night-before Zoom call with Josh Hammer and a rabbi.
 
-*Related: C-4822, C-4823*
+*Related: C-10208, C-10209*
 
 **N-10194** TPUSA Succession Plan Disclosure Timeline
 
 Erika Kirk's evolving account of the succession plan.
 
-*Related: C-4804, C-4814, A-2700.2*
+*Related: C-10190, C-10200, A-2700.2*
 
 **N-10229** Autopsy Report and Evidence Access Asymmetry
 
 Host says evidence such as the microphone and phone was returned to TPUSA and Erika Kirk.
 
-*Related: C-4833, C-4834*
+*Related: C-10219, C-10220*
 
 **N-10315** Mainstream Media Eyewitness Selection Pattern at UVU Event
 
 Politically connected witnesses who spoke to NBC News and other outlets.
 
-*Related: C-4794, C-4800*
+*Related: C-10180, C-10186*
 
 **N-10341** Andrew Kolvet Surgeon Bullet Description
 
 The "Superman" / "man of steel" bullet story that the host says Erika Kirk falsely blamed on Kolvet going rogue.
 
-*Related: C-4803*
+*Related: C-10189*
 
 **N-10346** Terryl Farnsworth Camera Removal Justification
 
 Farnsworth's explanation that he did not want Erika to relive the death.
 
-*Related: C-4778, C-4784, C-4801*
+*Related: C-10164, C-10170, C-10187*
 
 **N-10383** Farnsworth Family Political-Military Network
 
 Farnsworth ties to Tyler Bowyer, Lori Frantzve and Visual Impulse personnel.
 
-*Related: C-4779, C-4780, C-4788, C-4789*
+*Related: C-10165, C-10166, C-10174, C-10175*
 
 **N-10398** Turning Point USA Faith Structure
 
 Erika Kirk's role limited to TPUSA Faith in Charlie's final presentation, per the host.
 
-*Related: C-4815*
+*Related: C-10201*
 
 **N-10448** TPUSA September 16 Corporate Call Framing Pattern
 
 Farnsworth standing behind Erika Kirk on the first staff Zoom call.
 
-*Related: C-4783*
+*Related: C-10169*
 
 **N-10507** Charlie Kirk Phone Access Question
 
 Host says Charlie Kirk's phone was returned to Erika Kirk rather than kept in evidence.
 
-*Related: C-4834*
+*Related: C-10220*
 
 **N-10508** Tyler Robinson Evidence Sufficiency Question
 
 Host says TPUSA staff doubt Robinson acted alone and notes Erika Kirk's absence from the hearings.
 
-*Related: C-4826, C-4836*
+*Related: C-10212, C-10222*
 
 **N-10528** Arizona-Romania Pipeline Investigation
 
 Goldsberry family charity in Romania.
 
-*Related: C-4787*
+*Related: C-10173*
 
 **N-10552** Aubrey Termination Circumstances
 
 Aubrey's remark to Kolvet at her firing that nobody knows who Erika is.
 
-*Related: C-4812*
+*Related: C-10198*
 
 **N-10644** Harpole Limited-Purpose Public Figure Status
 
 Harpole's claim that he went on the Shawn Ryan Show only because of the host.
 
-*Related: C-4775*
+*Related: C-10161*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 Host refers to the "doctored footage" of Charlie appointing Erika as CEO.
 
-*Related: C-4804*
+*Related: C-10190*
 
 **N-10739** Fort Huachuca Connection Question
 
 Emails suggesting the rigged microphone could have been assembled at Fort Huachuca.
 
-*Related: C-4802*
+*Related: C-10188*
 
 **N-10768** Shaped Charge / Exploding Microphone Hypothesis
 
 Host's theory that a shaped charge in the redundant microphone was meant to hit Charlie's chest; endorsed by the EOD email.
 
-*Related: C-4790, C-4799, C-4802, C-4830, C-4831, C-4832, A-2707.1*
+*Related: C-10176, C-10185, C-10188, C-10216, C-10217, C-10218, A-2707.1*
 
 **N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 Host's claim that Erika Kirk is scripted and coached.
 
-*Related: C-4829*
+*Related: C-10215*
 
 **N-10887** Las Vegas
 
 Location of Encounter Church, where Rob McCoy delivered the sermon.
 
-*Related: C-4816, A-2703.1*
+*Related: C-10202, A-2703.1*
 
 **N-10997** Brian Harpole Bloodied Bag Museum Offer
 
 Node Type: Topic
 Investigation target: an account from Shawn Ryan's production team, as relayed by the host, that Brian Harpole offered Shawn Ryan his cross-body bag still bearing Charlie Kirk's blood as a gift for Ryan's studio museum, and that Ryan declined. A viewer asked why the bag was not in evidence.
 
-*Related: C-4776, A-2697.1, A-2709.1, N-266, N-224*
+*Related: C-10162, A-2697.1, A-2709.1, N-266, N-224*
 
 **N-10991** Visual Impulse
 
 Node Type: Organization
 The audio-visual company run by Terryl Farnsworth that filmed Charlie Kirk's events. The host says Charlie had its team removed from his building on July 24, 2025, and that it was welcomed back after his death. Its September 10 crew included Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards and Robert Golow.
 
-*Related: C-4778, C-4782, C-4786, C-4787, C-4788, C-4789, C-4790, A-2698.2, N-261, N-686, N-698, N-699, N-700, N-701*
+*Related: C-10164, C-10168, C-10172, C-10173, C-10174, C-10175, C-10176, A-2698.2, N-261, N-686, N-698, N-699, N-700, N-701*
 
 **N-10998** Robert Golow Identification
 
 Node Type: Topic
 Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.
 
-*Related: C-4790, C-4791, C-4792, A-2708.1, N-701*
+*Related: C-10176, C-10177, C-10178, A-2708.1, N-701*
 
 **N-10999** Erika Kirk Staff Familiarity Discrepancy
 
 Node Type: Topic
 Investigation target: Erika Kirk said at an Illinois summit that she had a "0% learning curve" and knew all the staff by name. The host contrasts this with a post-Super Bowl call in which Erika said she wanted to learn employees' names, and with reports from current and former staff that she does not know them.
 
-*Related: C-4805, C-4812, C-4813, A-2700.1, A-2701.1, N-2*
+*Related: C-10191, C-10198, C-10199, A-2700.1, A-2701.1, N-2*
 
 **N-11000** Spousal CEO Succession Precedent Question
 
 Node Type: Topic
 Investigation target: the host's assertion that no wife in history has assumed her late husband's role as CEO and chairman. She says ChatGPT's examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares.
 
-*Related: C-4806, C-4807, C-4808, C-4809, C-4810, C-4811, A-2702.1, N-702, N-703, N-704, N-705, N-298*
+*Related: C-10192, C-10193, C-10194, C-10195, C-10196, C-10197, A-2702.1, N-702, N-703, N-704, N-705, N-298*
 
 ## 5. Claim Register
 
-**C-4771** Host announces she is pregnant
+**C-10157** Host announces she is pregnant
 
 Claim Timestamp: 00:00:01
 
@@ -704,7 +704,7 @@ Investigative Direction: Later public confirmation from the host of the birth.
 
 ---
 
-**C-4772** Cabot Phillips accosted the host on a toddler playground
+**C-10158** Cabot Phillips accosted the host on a toddler playground
 
 Claim Timestamp: 00:01:37
 
@@ -718,7 +718,7 @@ Investigative Direction: Locate any video or posts by Cabot Phillips of the play
 
 ---
 
-**C-4773** Death hoax: deleted post and an obituary website listing the host's death as Sunday
+**C-10159** Death hoax: deleted post and an obituary website listing the host's death as Sunday
 
 Claim Timestamp: 00:01:37
 
@@ -732,7 +732,7 @@ Investigative Direction: Archive the obituary website page and the deleted post,
 
 ---
 
-**C-4774** Host recorded a long interview at Shawn Ryan's studio
+**C-10160** Host recorded a long interview at Shawn Ryan's studio
 
 Claim Timestamp: 00:01:37
 
@@ -746,7 +746,7 @@ Investigative Direction: Confirm the release date of the Shawn Ryan Show episode
 
 ---
 
-**C-4775** Host never named Brian Harpole before his Shawn Ryan Show appearance
+**C-10161** Host never named Brian Harpole before his Shawn Ryan Show appearance
 
 Claim Timestamp: 00:03:16
 
@@ -757,12 +757,12 @@ Transcript Snippet: despite the fact that I never uttered his name before he wen
 Anchored Artifacts:
 Mentions: N-266, N-224, N-3
 Related Nodes: N-10644
-Supports: C-2817
+Supports: C-8658
 Investigative Direction: Search the host's episodes and posts before Harpole's Shawn Ryan appearance for any mention of his name, and obtain the lawsuit's allegations on this point.
 
 ---
 
-**C-4776** Brian Harpole offered Shawn Ryan Charlie Kirk's bloodied bag as a gift
+**C-10162** Brian Harpole offered Shawn Ryan Charlie Kirk's bloodied bag as a gift
 
 Claim Timestamp: 00:05:24
 
@@ -777,7 +777,7 @@ Investigative Direction: Ask Shawn Ryan and his production staff to confirm the 
 
 ---
 
-**C-4777** An Erika Kirk booking with the Shawn Ryan Show was arranged through Terryl Farnsworth
+**C-10163** An Erika Kirk booking with the Shawn Ryan Show was arranged through Terryl Farnsworth
 
 Claim Timestamp: 00:05:24
 
@@ -791,7 +791,7 @@ Investigative Direction: Obtain booking correspondence between the Shawn Ryan Sh
 
 ---
 
-**C-4778** Terryl Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company
+**C-10164** Terryl Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company
 
 Claim Timestamp: 00:06:37
 
@@ -802,12 +802,12 @@ Transcript Snippet: The guy who announced on camera that Charlie was dead, the g
 Anchored Artifacts:
 Mentions: N-261, N-1
 Related Nodes: N-10991, N-10346
-Supports: C-1465
+Supports: C-1768
 Investigative Direction: Obtain Visual Impulse's corporate records and the original selfie video.
 
 ---
 
-**C-4779** The Farnsworth family grew up with Tyler Bowyer's family in Chandler, Arizona
+**C-10165** The Farnsworth family grew up with Tyler Bowyer's family in Chandler, Arizona
 
 Claim Timestamp: 00:06:37
 
@@ -822,7 +822,7 @@ Investigative Direction: Check Chandler-area high school yearbooks and alumni re
 
 ---
 
-**C-4780** Eddie Farnsworth helped bring Lori Frantzve into Arizona government contracts before Erika met Charlie
+**C-10166** Eddie Farnsworth helped bring Lori Frantzve into Arizona government contracts before Erika met Charlie
 
 Claim Timestamp: 00:06:37
 
@@ -833,12 +833,12 @@ Transcript Snippet: Eddie Farnsworth and his brother, um, were one of the ones w
 Anchored Artifacts:
 Mentions: N-380, N-489, N-387, N-2, N-1
 Related Nodes: N-10383
-Supports: C-2010
+Supports: C-4591
 Investigative Direction: Retrieve the Arizona House video and minutes of Lori Frantzve's presentation and any related state contracts.
 
 ---
 
-**C-4781** Turning Point USA's campus has six buildings
+**C-10167** Turning Point USA's campus has six buildings
 
 Claim Timestamp: 00:07:49
 
@@ -853,7 +853,7 @@ Investigative Direction: Check Maricopa County parcel records for TPUSA-owned or
 
 ---
 
-**C-4782** Charlie Kirk had Terryl Farnsworth's team removed from his building on July 24
+**C-10168** Charlie Kirk had Terryl Farnsworth's team removed from his building on July 24
 
 Claim Timestamp: 00:08:08
 
@@ -868,7 +868,7 @@ Investigative Direction: Obtain TPUSA facilities and lease records and staff tes
 
 ---
 
-**C-4783** Terryl Farnsworth stood behind Erika Kirk on her first staff Zoom call
+**C-10169** Terryl Farnsworth stood behind Erika Kirk on her first staff Zoom call
 
 Claim Timestamp: 00:08:08
 
@@ -879,12 +879,12 @@ Transcript Snippet: Terryl is the one that is standing behind Erika during her f
 Anchored Artifacts: A-2698.1
 Mentions: N-261, N-2, N-1
 Related Nodes: N-10448
-Supports: C-2220
+Supports: C-5723
 Investigative Direction: Obtain the full recording of the September 16, 2025 staff call and identify everyone in the room.
 
 ---
 
-**C-4784** Farnsworth's footage showed nothing gory because the bullet did not exit
+**C-10170** Farnsworth's footage showed nothing gory because the bullet did not exit
 
 Claim Timestamp: 00:09:55
 
@@ -899,7 +899,7 @@ Investigative Direction: Obtain the SD card footage from the camera behind Charl
 
 ---
 
-**C-4785** Host says she has verified the name of one "op" watching the live stream
+**C-10171** Host says she has verified the name of one "op" watching the live stream
 
 Claim Timestamp: 00:09:55
 
@@ -913,7 +913,7 @@ Investigative Direction: Await the host's disclosure of the name and the basis o
 
 ---
 
-**C-4786** Brian Farnsworth is Terryl Farnsworth's brother and was on the Visual Impulse team
+**C-10172** Brian Farnsworth is Terryl Farnsworth's brother and was on the Visual Impulse team
 
 Claim Timestamp: 00:09:55
 
@@ -928,7 +928,7 @@ Investigative Direction: Confirm the September 10 crew roster with Visual Impuls
 
 ---
 
-**C-4787** Philip Goldsberry Jr.'s father is a pastor who started a charity in Romania
+**C-10173** Philip Goldsberry Jr.'s father is a pastor who started a charity in Romania
 
 Claim Timestamp: 00:10:49
 
@@ -943,7 +943,7 @@ Investigative Direction: Look up the charity's registration and officers in US a
 
 ---
 
-**C-4788** Parker Edwards went to the same high school as Terryl Farnsworth
+**C-10174** Parker Edwards went to the same high school as Terryl Farnsworth
 
 Claim Timestamp: 00:10:49
 
@@ -958,7 +958,7 @@ Investigative Direction: Check high school alumni records for Parker Edwards and
 
 ---
 
-**C-4789** Aaron Edwards worked for Visual Impulse and attended Arizona State University
+**C-10175** Aaron Edwards worked for Visual Impulse and attended Arizona State University
 
 Claim Timestamp: 00:11:31
 
@@ -973,7 +973,7 @@ Investigative Direction: Check Visual Impulse employment records and ASU enrollm
 
 ---
 
-**C-4790** Robert Golow was hired in 2024 when the redundant microphone was introduced
+**C-10176** Robert Golow was hired in 2024 when the redundant microphone was introduced
 
 Claim Timestamp: 00:11:31
 
@@ -988,7 +988,7 @@ Investigative Direction: Obtain Visual Impulse hiring records for Golow and the 
 
 ---
 
-**C-4791** Golow stood next to Farnsworth when Charlie was hit, then ran off
+**C-10177** Golow stood next to Farnsworth when Charlie was hit, then ran off
 
 Claim Timestamp: 00:12:22
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Review September 10 crowd video for the camera position
 
 ---
 
-**C-4792** Host asks for tips on Robert Golow
+**C-10178** Host asks for tips on Robert Golow
 
 Claim Timestamp: 00:12:22
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Follow up on tips received about Golow's background and
 
 ---
 
-**C-4793** Early eyewitnesses said Charlie was shot in the chest
+**C-10179** Early eyewitnesses said Charlie was shot in the chest
 
 Claim Timestamp: 00:13:48
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Compile all September 10 eyewitness media interviews an
 
 ---
 
-**C-4794** Eyewitness Tiffany Barker worked on Phil Lyman's campaign
+**C-10180** Eyewitness Tiffany Barker worked on Phil Lyman's campaign
 
 Claim Timestamp: 00:13:48
 
@@ -1044,12 +1044,12 @@ Transcript Snippet: we found out this person Tiffany Barker I think was one of t
 Anchored Artifacts:
 Mentions: N-75, N-61
 Related Nodes: N-10315
-Supports: C-1245
+Supports: C-669
 Investigative Direction: Check Phil Lyman campaign finance and staff records for Tiffany Barker.
 
 ---
 
-**C-4795** Eyewitness: saw the shot hit his chest with blood gushing where his heart is
+**C-10181** Eyewitness: saw the shot hit his chest with blood gushing where his heart is
 
 Claim Timestamp: 00:14:43
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Identify the witness and the outlet that aired the inte
 
 ---
 
-**C-4796** Eyewitness: it was a direct shot to the heart
+**C-10182** Eyewitness: it was a direct shot to the heart
 
 Claim Timestamp: 00:14:43
 
@@ -1079,7 +1079,7 @@ Investigative Direction: Identify the witness and their vantage point relative t
 
 ---
 
-**C-4797** Eyewitness: blood came out of Charlie's chest after the first gunshot
+**C-10183** Eyewitness: blood came out of Charlie's chest after the first gunshot
 
 Claim Timestamp: 00:14:43
 
@@ -1094,7 +1094,7 @@ Investigative Direction: Identify the witness and the outlet, and compare with t
 
 ---
 
-**C-4798** Host: there was never a pooling of blood near Charlie's heart
+**C-10184** Host: there was never a pooling of blood near Charlie's heart
 
 Claim Timestamp: 00:15:40
 
@@ -1109,7 +1109,7 @@ Investigative Direction: Compare frame-by-frame September 10 video and the medic
 
 ---
 
-**C-4799** Host theory: the redundant microphone was rigged to hit Charlie's chest
+**C-10185** Host theory: the redundant microphone was rigged to hit Charlie's chest
 
 Claim Timestamp: 00:16:34
 
@@ -1124,7 +1124,7 @@ Investigative Direction: Obtain forensic examination of both microphones and the
 
 ---
 
-**C-4800** Chest-wound witnesses spoke to NBC News
+**C-10186** Chest-wound witnesses spoke to NBC News
 
 Claim Timestamp: 00:16:34
 
@@ -1139,7 +1139,7 @@ Investigative Direction: Request NBC News's sourcing for its September 10 eyewit
 
 ---
 
-**C-4801** Farnsworth took only the SD card and left the camera, contrary to the theft explanation
+**C-10187** Farnsworth took only the SD card and left the camera, contrary to the theft explanation
 
 Claim Timestamp: 00:18:23
 
@@ -1150,12 +1150,12 @@ Transcript Snippet: Why did you jump specifically to grab that camera's SD card 
 Anchored Artifacts:
 Mentions: N-261, N-14
 Related Nodes: N-10162, N-10346
-Contradicts: C-1369
+Contradicts: C-1358
 Investigative Direction: Review September 10 video of the camera takedown and the SD card's chain of custody.
 
 ---
 
-**C-4802** Emailers say the rigged microphone could have been assembled at Fort Huachuca
+**C-10188** Emailers say the rigged microphone could have been assembled at Fort Huachuca
 
 Claim Timestamp: 00:18:23
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Identify Fort Huachuca units with signals or device-fab
 
 ---
 
-**C-4803** Host: Erika lied when she said Andrew Kolvet "went rogue"
+**C-10189** Host: Erika lied when she said Andrew Kolvet "went rogue"
 
 Claim Timestamp: 00:19:21
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Compare Erika Kirk's statement about Kolvet going rogue
 
 ---
 
-**C-4804** Erika's succession story shifted; Charlie never put the CEO plan in his will
+**C-10190** Erika's succession story shifted; Charlie never put the CEO plan in his will
 
 Claim Timestamp: 00:20:00
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Obtain Charlie Kirk's will and TPUSA board minutes on s
 
 ---
 
-**C-4805** Erika Kirk said she had a zero learning curve and knew all staff by name
+**C-10191** Erika Kirk said she had a zero learning curve and knew all staff by name
 
 Claim Timestamp: 00:21:32
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Interview current and former TPUSA staff on Erika Kirk'
 
 ---
 
-**C-4806** Ellen Gordon took over Tootsie Roll, but it was her family's company
+**C-10192** Ellen Gordon took over Tootsie Roll, but it was her family's company
 
 Claim Timestamp: 00:24:13
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Check Tootsie Roll Industries SEC filings on ownership 
 
 ---
 
-**C-4807** ChatGPT listed Erika Kirk as an example of spousal CEO succession
+**C-10193** ChatGPT listed Erika Kirk as an example of spousal CEO succession
 
 Claim Timestamp: 00:24:13
 
@@ -1245,7 +1245,7 @@ Investigative Direction: Reproduce the ChatGPT query and archive the output.
 
 ---
 
-**C-4808** Katharine Graham succeeded her husband at the Washington Post, but it was her family's company
+**C-10194** Katharine Graham succeeded her husband at the Washington Post, but it was her family's company
 
 Claim Timestamp: 00:25:17
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Consult Washington Post corporate history for ownership
 
 ---
 
-**C-4809** Eugene Meyer bought the Washington Post out of bankruptcy
+**C-10195** Eugene Meyer bought the Washington Post out of bankruptcy
 
 Claim Timestamp: 00:26:09
 
@@ -1275,7 +1275,7 @@ Investigative Direction: Check the 1933 bankruptcy auction record of the Washing
 
 ---
 
-**C-4810** Host: no wife in human history has assumed a late husband's CEO and chairman role
+**C-10196** Host: no wife in human history has assumed a late husband's CEO and chairman role
 
 Claim Timestamp: 00:26:09
 
@@ -1290,7 +1290,7 @@ Investigative Direction: Survey corporate succession records for spouses who bec
 
 ---
 
-**C-4811** Miriam Adelson inherited Sheldon Adelson's shares and was never CEO
+**C-10197** Miriam Adelson inherited Sheldon Adelson's shares and was never CEO
 
 Claim Timestamp: 00:26:09
 
@@ -1305,7 +1305,7 @@ Investigative Direction: Check Las Vegas Sands SEC filings on ownership and exec
 
 ---
 
-**C-4812** Aubrey told Andrew Kolvet "Nobody knows who she is" about Erika
+**C-10198** Aubrey told Andrew Kolvet "Nobody knows who she is" about Erika
 
 Claim Timestamp: 00:28:12
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Obtain the recording of Aubrey Laitsch's termination me
 
 ---
 
-**C-4813** After the Super Bowl Erika told staff she wanted to learn their names and faces
+**C-10199** After the Super Bowl Erika told staff she wanted to learn their names and faces
 
 Claim Timestamp: 00:29:13
 
@@ -1335,7 +1335,7 @@ Investigative Direction: Obtain the full staff call recording with its date.
 
 ---
 
-**C-4814** Erika Kirk says she and Charlie had an emergency plan they confided to the team
+**C-10200** Erika Kirk says she and Charlie had an emergency plan they confided to the team
 
 Claim Timestamp: 00:30:38
 
@@ -1350,7 +1350,7 @@ Investigative Direction: Ask TPUSA executives and board members whether any writ
 
 ---
 
-**C-4815** In his final presentation Charlie said only that "Erika helps out with faith"
+**C-10201** In his final presentation Charlie said only that "Erika helps out with faith"
 
 Claim Timestamp: 00:33:09
 
@@ -1365,7 +1365,7 @@ Investigative Direction: Obtain the full video of Charlie Kirk's final presentat
 
 ---
 
-**C-4816** Rob McCoy preached about the host at Encounter Church in Las Vegas
+**C-10202** Rob McCoy preached about the host at Encounter Church in Las Vegas
 
 Claim Timestamp: 00:36:39
 
@@ -1380,7 +1380,7 @@ Investigative Direction: Obtain the full sermon video and date from Encounter Ch
 
 ---
 
-**C-4817** Rob McCoy claimed the host makes $800,000 a week; host denies it
+**C-10203** Rob McCoy claimed the host makes $800,000 a week; host denies it
 
 Claim Timestamp: 00:37:29
 
@@ -1394,7 +1394,7 @@ Investigative Direction: Archive any X community note on the clip and seek indep
 
 ---
 
-**C-4818** Rob McCoy Predicted the Host Will Go Bankrupt
+**C-10204** Rob McCoy Predicted the Host Will Go Bankrupt
 
 Claim Timestamp: 00:37:29
 
@@ -1408,7 +1408,7 @@ Investigative Direction: Track the docket of Harpole's defamation lawsuit agains
 
 ---
 
-**C-4819** Rob McCoy said minister Increase Mather ended the Salem witch trials
+**C-10205** Rob McCoy said minister Increase Mather ended the Salem witch trials
 
 Claim Timestamp: 00:37:29
 
@@ -1422,7 +1422,7 @@ Investigative Direction: Compare with historical records of the Salem trials and
 
 ---
 
-**C-4820** Tucker Carlson says he was fired after 15 years with cable's highest-rated show
+**C-10206** Tucker Carlson says he was fired after 15 years with cable's highest-rated show
 
 Claim Timestamp: 00:41:12
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Check Nielsen ratings for cable news in April 2023 and 
 
 ---
 
-**C-4821** Tucker Carlson: Charlie was most likely murdered for his evolving views on Israel
+**C-10207** Tucker Carlson: Charlie was most likely murdered for his evolving views on Israel
 
 Claim Timestamp: 00:41:55
 
@@ -1451,7 +1451,7 @@ Investigative Direction: Compare with charging documents and Tyler Robinson's al
 
 ---
 
-**C-4822** The night before, Charlie wrote he was left no choice but to abandon the pro-Israel cause
+**C-10208** The night before, Charlie wrote he was left no choice but to abandon the pro-Israel cause
 
 Claim Timestamp: 00:41:55
 
@@ -1462,12 +1462,12 @@ Transcript Snippet: when the night before he tweeted that he was left no option 
 Anchored Artifacts:
 Mentions: N-1, N-55
 Related Nodes: N-10148, N-10169, N-10056
-Supports: C-2874
+Supports: C-8851
 Investigative Direction: Obtain the full September 9, 2025 group chat and the Zoom call participant list.
 
 ---
 
-**C-4823** After the Zoom call Charlie sent a message saying "they're going to kill me"
+**C-10209** After the Zoom call Charlie sent a message saying "they're going to kill me"
 
 Claim Timestamp: 00:43:35
 
@@ -1482,7 +1482,7 @@ Investigative Direction: Obtain the recipient, time and full text of the message
 
 ---
 
-**C-4824** New witnesses at 4 a.m. the next day said Charlie was shot in the neck
+**C-10210** New witnesses at 4 a.m. the next day said Charlie was shot in the neck
 
 Claim Timestamp: 00:44:16
 
@@ -1497,7 +1497,7 @@ Investigative Direction: Identify the September 11, 2025 early-morning witness i
 
 ---
 
-**C-4825** Blake Neff tweeted that Tucker is lying and Robinson acted out of transgender radicalism
+**C-10211** Blake Neff tweeted that Tucker is lying and Robinson acted out of transgender radicalism
 
 Claim Timestamp: 00:45:07
 
@@ -1512,7 +1512,7 @@ Investigative Direction: Archive Blake Neff's tweet and confirm his prior employ
 
 ---
 
-**C-4826** Audio will show most TPUSA staff do not believe Robinson did it or acted alone
+**C-10212** Audio will show most TPUSA staff do not believe Robinson did it or acted alone
 
 Claim Timestamp: 00:45:07
 
@@ -1527,7 +1527,7 @@ Investigative Direction: Review the promised audio when released and verify the 
 
 ---
 
-**C-4827** Kolvet said on air that Tucker and Charlie had a deep friendship
+**C-10213** Kolvet said on air that Tucker and Charlie had a deep friendship
 
 Claim Timestamp: 00:46:53
 
@@ -1541,7 +1541,7 @@ Investigative Direction: Locate the full Charlie Kirk Show episode and its air d
 
 ---
 
-**C-4828** Host: TPUSA figures are recasting Hammer and Loomer as Charlie's close friends
+**C-10214** Host: TPUSA figures are recasting Hammer and Loomer as Charlie's close friends
 
 Claim Timestamp: 00:48:08
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Collect TPUSA-affiliated statements describing Loomer a
 
 ---
 
-**C-4829** Mikey McCoy and Stacy Sheridan coached Erika Kirk on her lines
+**C-10215** Mikey McCoy and Stacy Sheridan coached Erika Kirk on her lines
 
 Claim Timestamp: 00:52:51
 
@@ -1570,7 +1570,7 @@ Investigative Direction: Seek production staff testimony or documents from Erika
 
 ---
 
-**C-4830** EOD email: each blasting cap holds less than 1 gram of PETN and does major damage
+**C-10216** EOD email: each blasting cap holds less than 1 gram of PETN and does major damage
 
 Claim Timestamp: 00:52:51
 
@@ -1585,7 +1585,7 @@ Investigative Direction: Check manufacturer specifications for PETN content in s
 
 ---
 
-**C-4831** EOD technicians who wrote in believe the microphone was the cause
+**C-10217** EOD technicians who wrote in believe the microphone was the cause
 
 Claim Timestamp: 00:54:25
 
@@ -1600,7 +1600,7 @@ Investigative Direction: Verify the emailer's EOD credentials and seek an indepe
 
 ---
 
-**C-4832** The redundant microphone was not used when the host toured with Charlie
+**C-10218** The redundant microphone was not used when the host toured with Charlie
 
 Claim Timestamp: 00:54:55
 
@@ -1615,7 +1615,7 @@ Investigative Direction: Compare event footage from 2017–2023 and 2024–2025 
 
 ---
 
-**C-4833** The microphone never went into evidence and was used at a Mar-a-Lago fundraiser
+**C-10219** The microphone never went into evidence and was used at a Mar-a-Lago fundraiser
 
 Claim Timestamp: 00:55:43
 
@@ -1630,7 +1630,7 @@ Investigative Direction: Obtain the Utah County evidence inventory and photos fr
 
 ---
 
-**C-4834** Charlie Kirk's phone was quickly returned to Erika instead of kept in evidence
+**C-10220** Charlie Kirk's phone was quickly returned to Erika instead of kept in evidence
 
 Claim Timestamp: 00:55:43
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Obtain police property release records for Charlie Kirk
 
 ---
 
-**C-4835** Erika's Father's Day post used a sparklers clip in response to criticism
+**C-10221** Erika's Father's Day post used a sparklers clip in response to criticism
 
 Claim Timestamp: 00:58:50
 
@@ -1659,7 +1659,7 @@ Investigative Direction: Archive Erika Kirk's Father's Day 2026 post and its emb
 
 ---
 
-**C-4836** Erika Kirk has never attended any of Tyler Robinson's hearings
+**C-10222** Erika Kirk has never attended any of Tyler Robinson's hearings
 
 Claim Timestamp: 00:58:50
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Check courtroom attendance reports for each Tyler Robin
 
 ---
 
-**C-4837** Erika called out Druski while forgiving Tyler Robinson and naming the host
+**C-10223** Erika called out Druski while forgiving Tyler Robinson and naming the host
 
 Claim Timestamp: 01:00:01
 
@@ -1869,18 +1869,18 @@ Confidence: high
 
 ## 7. Optional Flags
 
-- **Artifacts verbally referenced but not shown**: A-2697.1 is the Shawn Ryan team's account, relayed by the host only. A-2708.1 is the host's verbal tip request. The Daily Mail article on Erika Kirk's shifting succession story is referenced as previously shown, and is not given an artifact. The deleted death-hoax post and the obituary website (C-4773) were not shown. The Fort Huachuca emails (C-4802) were described, not read.
-- **DIA beats**: one real hit, at 00:12:22 ("More tips at candaceowens. com"), is recorded as claim C-4792, artifact A-2708.1 and an M-12 occurrence. The other "candaceowens. com" hit (01:00:27) directs viewers to the book club and merch, so it is not a DIA beat. "Send me an email" (00:40:11) is a rhetorical ask about who attends Rob McCoy's church and is not on the keyword list, so it is not treated as a DIA beat. The Candace Intelligence Agency phrase does not air, so M-14 is not used.
+- **Artifacts verbally referenced but not shown**: A-2697.1 is the Shawn Ryan team's account, relayed by the host only. A-2708.1 is the host's verbal tip request. The Daily Mail article on Erika Kirk's shifting succession story is referenced as previously shown, and is not given an artifact. The deleted death-hoax post and the obituary website (C-10159) were not shown. The Fort Huachuca emails (C-10188) were described, not read.
+- **DIA beats**: one real hit, at 00:12:22 ("More tips at candaceowens. com"), is recorded as claim C-10178, artifact A-2708.1 and an M-12 occurrence. The other "candaceowens. com" hit (01:00:27) directs viewers to the book club and merch, so it is not a DIA beat. "Send me an email" (00:40:11) is a rhetorical ask about who attends Rob McCoy's church and is not on the keyword list, so it is not treated as a DIA beat. The Candace Intelligence Agency phrase does not air, so M-14 is not used.
 - **Name matching**: Terryl Farnsworth appears as "Taral", "Terryl", "Tarrou" and "Taro", all mapped to N-261 (alias Terryl/Terryl Farnsworth). "Lori Fran Slay" is mapped to N-489 Lori Frantzve and "Larry Guinta" to N-387 Larry Guinta, both from context (Erika's mother and stepfather). "Andrew Colbeth", "Andrew Kolvet" and "Colvette" are mapped to N-14 Andrew Kolvet. "Blake Neff" is mapped to N-159. "Aubrey" is mapped to N-551 Aubrey Laitsch from the firing context. "Bryan Harp" (40:11) is mapped to N-266 Brian Harpole.
 - **New persons possibly already minted elsewhere**: the host says "we told you about" Philip Goldsberry Jr., so he may have been introduced in an episode not yet in nodes.tsv or staging (for example 117 or 118). The integrator should dedupe. Druski (N-595) reuses the exact title from staging episode_084 (N-686 there). Robert Golow's spelling is unverified.
 - **Transcription ambiguities**: "Hud's, who are you?" in the Erika clip is kept as written. "Global Ministries in Romania" may be an incomplete charity name. In the host's quote of Increase Mather, McCoy's claim that he ended the trials is historically contested; it is recorded as McCoy's assertion only. "30-ought-6" and ".30-06" are kept as spoken.
-- **Cross-episode links**: C-4775 Supports C-2817 (ep 97), C-4778 Supports C-1465 (ep 19), C-4780 Supports C-2010 (ep 52), C-4783 Supports C-2220 (ep 64), C-4794 Supports C-1245 (ep 8), C-4801 Contradicts C-1369 (ep 15, Kolvet's theft explanation) and C-4822 Supports C-2874 (ep 99).
-- **Cross-episode links left out**: C-4814 and C-4804 are related to the Aspen succession claims (C-2657, C-2660, C-2685), but they concern a different proposition (a private emergency plan rather than the Aspen statement). C-4822 also relates to C-1376 (ep 15), which is supported only through C-2874. C-4833's $40 million Mar-a-Lago figure differs from C-2250's ~$42M target pitch and is not linked.
+- **Cross-episode links**: C-10161 Supports C-8658 (ep 97), C-10164 Supports C-1768 (ep 19), C-10166 Supports C-4591 (ep 52), C-10169 Supports C-5723 (ep 64), C-10180 Supports C-669 (ep 8), C-10187 Contradicts C-1358 (ep 15, Kolvet's theft explanation) and C-10208 Supports C-8851 (ep 99).
+- **Cross-episode links left out**: C-10200 and C-10190 are related to the Aspen succession claims (C-7880, C-7887, C-8028), but they concern a different proposition (a private emergency plan rather than the Aspen statement). C-10208 also relates to C-1350 (ep 15), which is supported only through C-8851. C-10219's $40 million Mar-a-Lago figure differs from C-5952's ~$42M target pitch and is not linked.
 - **Not inscribed as claims (admission test)**:
   - "Erika lies. Erika is a liar"
   - "Erika Girardi ... the dumbest and least accomplished person"
   - "outside of being a psychopath"
-  - The witnesses were "providing false witness intentionally" (kept as framing within C-4798/C-4800)
+  - The witnesses were "providing false witness intentionally" (kept as framing within C-10184/C-10186)
   - The host's opinion that Charlie was "invited to join the global trafficking ring"
   - "Blake Neff is a liar ... backstabber"
   - "I want war with all of you"

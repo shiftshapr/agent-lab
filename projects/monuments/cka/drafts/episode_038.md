@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-876, N-11277, N-11278, N-11279, N-11280
-  - Claim Range (supplement_2026-10e): C-10891–C-10948
+  - Claim Range: C-3328–C-3407
   - New Nodes Introduced: N-282, N-284, N-285, N-286, N-287, N-288, N-289, N-290, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
   - Reused Nodes Appearing: none, N-283, N-377, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-72, N-10297
   - (see registers)
@@ -93,7 +93,7 @@ Video Timestamp: 00:02:49–00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1781, C-1784, C-1786, N-3, N-377, N-82, N-40, N-283*
+*Related: C-3330, C-3349, C-3352, N-3, N-377, N-82, N-40, N-283*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:10:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-1782, N-377, N-3, N-1*
+*Related: C-3341, N-377, N-3, N-1*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article title and one paragraph read on air; full URL not displayed)
 
-*Related: C-1783, N-284, N-10293, N-3*
+*Related: C-3343, N-284, N-10293, N-3*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:13:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read aloud summary, not full verbatim)
 
-*Related: C-1783, N-10293*
+*Related: C-3343, N-10293*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific units, dates, and host-cited source)
 
-*Related: C-1783, N-10290, N-40*
+*Related: C-3343, N-10290, N-40*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:18:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted verbatim)
 
-*Related: C-1784, N-40*
+*Related: C-3349, N-40*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:19:45–00:21:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud with explicit quotes)
 
-*Related: C-1785, C-1786, A-1465.1, A-1468.1, N-10297*
+*Related: C-3353, C-3352, A-1465.1, A-1468.1, N-10297*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (paraphrased on air)
 
-*Related: C-1785, N-285, N-10297*
+*Related: C-3353, N-285, N-10297*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:25:55–00:26:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (single source email; treat as source-claim)
 
-*Related: C-1789, N-10283*
+*Related: C-3365, N-10283*
 
 **A-1469.2** Section: 920 North King Street, Wilmington – claim that three federal agencies work together in one building; identified in connection with a foreign dignitary escort and the attorneys filing the host's Brigitte-lawsuit paperwork.
 
@@ -215,7 +215,7 @@ Video Timestamp: 00:24:24–00:25:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email, uncorroborated in episode)
 
-*Related: C-1790, N-10284*
+*Related: C-3360, N-10284*
 
 **A-1469.3** Section: Bracebridge Complex at 1100 North King Street – originally built as Maryland Bank headquarters 1995; Bank of America acquired 2006 and pulled out of the buildings in 2018; in 2024 legislation was passed to provide financial support to the Longwood Foundation (founded by Pierre S. du Pont) to operate it as an educational center; complex spans six buildings connected to both French Street and King Street.
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:28:30–00:31:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (partially corroborated by A-1471)
 
-*Related: C-1791, C-1792, C-1793, N-10285, N-10287, N-288, N-289*
+*Related: C-3366, C-3369, C-3368, N-10285, N-10287, N-288, N-289*
 
 **A-1469.4** Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hoppenot (host self-corrects: "Hervé Hope No, Hoppenot"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:33:11–00:34:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source; spelling uncertain)
 
-*Related: C-1794, N-286, N-10286*
+*Related: C-3376, N-286, N-10286*
 
 **A-1469.5** Section: Wilmington Savings Fund Society / Wilmington Trust – claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:30:58–00:32:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-1795, N-290, N-10287, N-10288*
+*Related: C-3371, N-290, N-10287, N-10288*
 
 **A-1469.6** Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls "another bank center"); also references MG+M Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:30:58–00:33:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-1796, N-10289*
+*Related: C-3374, N-10289*
 
 **A-1469.7** Section: Wilmington LGBT/transgender services inventory – proximity list (Theater, "The Queen," Wilmington University LGBTQ programs, Transition Delaware LLC, plastic surgeons).
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:28:30–00:29:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article referenced but URL not visible)
 
-*Related: C-1791, N-10285*
+*Related: C-3366, N-10285*
 
 **A-1471.2** Local coverage quote from Miriam Deed: "I just feel like I don't understand why we're doing this without there being more accountability."
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:30:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quoted on air)
 
-*Related: C-1791, N-287, N-10285*
+*Related: C-3366, N-287, N-10285*
 
 ---
 
@@ -327,7 +327,7 @@ Video Timestamp: 00:38:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed on screen)
 
-*Related: C-1797, N-10289*
+*Related: C-3385, N-10289*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:47:39–00:48:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1800, N-282, N-57*
+*Related: C-3393, N-282, N-57*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:56:17–00:56:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed on screen)
 
-*Related: C-1801, N-72, N-282*
+*Related: C-3402, N-72, N-282*
 
 ---
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air; specific photo not displayed)
 
-*Related: C-1798, N-82, N-10294*
+*Related: C-3388, N-82, N-10294*
 
 **A-1475.2** Photograph of Brigitte Macron with Zelensky at an interstate meeting (September 4, 2025); separately a daytime photo of Brigitte with a Saudi Arabia orchestra event.
 
@@ -379,7 +379,7 @@ Video Timestamp: 00:39:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (described on air)
 
-*Related: C-1799, N-82, N-10294*
+*Related: C-3389, N-82, N-10294*
 
 ---
 
@@ -393,7 +393,7 @@ Video Timestamp: 00:53:57–00:54:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (live readout)
 
-*Related: C-1802, N-3, N-10295*
+*Related: C-3397, N-3, N-10295*
 
 ---
 
@@ -407,7 +407,7 @@ Video Timestamp: 00:15:59–00:17:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host assertion; specific source URL not displayed)
 
-*Related: C-1786, N-10290, N-10297*
+*Related: C-3352, N-10290, N-10297*
 
 ---
 
@@ -421,7 +421,7 @@ Video Timestamp: 00:21:39–00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host assertion; not artifact-verified in episode)
 
-*Related: C-1787, N-10291*
+*Related: C-3354, N-10291*
 
 ---
 
@@ -435,7 +435,7 @@ Video Timestamp: 00:22:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (specific date and number read on air)
 
-*Related: C-1788, N-10292*
+*Related: C-3355, N-10292*
 
 ---
 
@@ -448,7 +448,7 @@ Video Timestamp: 00:08:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10900, C-10901, C-10902, C-10904, C-10905, C-10906, N-3, N-11280*
+*Related: C-3338, C-3339, C-3340, C-3344, C-3345, C-3346, N-3, N-11280*
 
 ---
 
@@ -463,7 +463,7 @@ Video Timestamp: 00:55:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10941, C-10942, N-14, N-40, N-3*
+*Related: C-3399, C-3400, N-14, N-40, N-3*
 
 ---
 
@@ -478,7 +478,7 @@ Video Timestamp: 00:56:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10944, N-72, N-3*
+*Related: C-3403, N-72, N-3*
 
 ---
 
@@ -493,7 +493,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1473.1, A-1474.1, C-1800, C-1801*
+*Related: A-1473.1, A-1474.1, C-3393, C-3402*
 
 ---
 
@@ -506,7 +506,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1473.1, C-1800*
+*Related: A-1473.1, C-3393*
 
 ---
 
@@ -519,7 +519,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1474.1, C-1801*
+*Related: A-1474.1, C-3402*
 
 ---
 
@@ -532,7 +532,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1461.1, C-1781*
+*Related: A-1461.1, C-3330*
 
 ---
 
@@ -558,7 +558,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1468.1, C-1785, N-10297*
+*Related: A-1468.1, C-3353, N-10297*
 
 ---
 
@@ -571,7 +571,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.4, C-1794, N-10286*
+*Related: A-1469.4, C-3376, N-10286*
 
 ---
 
@@ -597,7 +597,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-1792, C-1793, N-10285, N-10287, N-290*
+*Related: A-1469.3, C-3369, C-3368, N-10285, N-10287, N-290*
 
 ---
 
@@ -610,7 +610,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-1795, N-288, N-10287, N-10288*
+*Related: A-1469.5, C-3371, N-288, N-10287, N-10288*
 
 ---
 
@@ -623,7 +623,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1462.1, C-1782*
+*Related: A-1462.1, C-3341*
 
 ---
 
@@ -636,7 +636,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1461.1, A-1462.1, C-1781, N-82, N-3*
+*Related: A-1461.1, A-1462.1, C-3330, N-82, N-3*
 
 ---
 
@@ -649,7 +649,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.1, C-1789*
+*Related: A-1469.1, C-3365*
 
 ---
 
@@ -662,7 +662,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1469.2, C-1790, A-1470.1*
+*Related: A-1469.2, C-3360, A-1470.1*
 
 ---
 
@@ -675,7 +675,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1469.3, A-1470.2, A-1471.1, A-1471.2, C-1791, C-1793, N-287, N-288*
+*Related: A-1469.3, A-1470.2, A-1471.1, A-1471.2, C-3366, C-3368, N-287, N-288*
 
 ---
 
@@ -688,7 +688,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.4, C-1794, N-286*
+*Related: A-1469.4, C-3376, N-286*
 
 ---
 
@@ -701,7 +701,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-1792, N-288*
+*Related: A-1469.3, C-3369, N-288*
 
 ---
 
@@ -714,7 +714,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-1795, N-289, N-10289*
+*Related: A-1469.5, C-3371, N-289, N-10289*
 
 ---
 
@@ -727,7 +727,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1469.5, A-1469.6, C-1796*
+*Related: A-1469.5, A-1469.6, C-3374*
 
 ---
 
@@ -740,7 +740,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1465.1, A-1477.1, C-1783, C-1786, N-10297*
+*Related: A-1465.1, A-1477.1, C-3343, C-3352, N-10297*
 
 ---
 
@@ -753,7 +753,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1478.1, C-1787*
+*Related: A-1478.1, C-3354*
 
 ---
 
@@ -766,7 +766,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1479.1, C-1788*
+*Related: A-1479.1, C-3355*
 
 ---
 
@@ -779,7 +779,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1463.1, A-1464.1, C-1783, N-284*
+*Related: A-1463.1, A-1464.1, C-3343, N-284*
 
 ---
 
@@ -792,7 +792,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1475.1, A-1475.2, C-1798, C-1799, N-82*
+*Related: A-1475.1, A-1475.2, C-3388, C-3389, N-82*
 
 ---
 
@@ -805,7 +805,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (audience opinion, not factual claim)
 
-*Related: A-1476.1, C-1802*
+*Related: A-1476.1, C-3397*
 
 ---
 
@@ -818,7 +818,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (typographical, not factual conflict)
 
-*Related: A-1467.1, A-1468.1, A-1477.1, C-1785, N-285, N-10290*
+*Related: A-1467.1, A-1468.1, A-1477.1, C-3353, N-285, N-10290*
 
 ---
 
@@ -831,7 +831,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1474.1, C-1801, N-72, N-282*
+*Related: A-1474.1, C-3402, N-72, N-282*
 
 ---
 
@@ -839,7 +839,7 @@ Investigative Pressure: Low
 
 First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.
 
-*Related: C-10891, C-10908, C-10929, C-10930, C-10947, C-10948*
+*Related: C-3328, C-3348, C-3382, C-3383, C-3406, C-3407*
 
 ---
 
@@ -848,7 +848,7 @@ First named by the host at 00:00:01 in episode 38. The name the host uses for Br
 Node Type: Topic
 The host's theory that US federal agencies, with France and Israel, pressured or arranged the Macron defamation suit in Delaware to stop her research, including a federal call asking her to stop.
 
-*Related: C-10927, C-10929, C-10936*
+*Related: C-3380, C-3382, C-3392*
 
 ---
 
@@ -857,7 +857,7 @@ The host's theory that US federal agencies, with France and Israel, pressured or
 Node Type: Organization
 Tel Aviv firm the host names as the second largest shareholder of Satys, investing in aerospace and defense startups with a focus on Israel.
 
-*Related: C-10932, C-10933*
+*Related: C-3386, C-3387*
 
 ---
 
@@ -866,7 +866,7 @@ Tel Aviv firm the host names as the second largest shareholder of Satys, investi
 Node Type: Topic
 The host's account that UVU students did not recognize attendees at the September 10 event, that it was advertised late, and that national media avoided UVU students.
 
-*Related: C-10909, C-10910, C-10945*
+*Related: C-3350, C-3351, C-3404*
 
 ---
 
@@ -875,7 +875,7 @@ The host's account that UVU students did not recognize attendees at the Septembe
 Node Type: Topic
 What the Elysee Palace, the White House, counterterrorism and the FBI did or did not say to the host after her November 25 post and reports.
 
-*Related: C-10900, C-10901, C-10902, C-10904, C-10905, C-10906*
+*Related: C-3338, C-3339, C-3340, C-3344, C-3345, C-3346*
 
 ---
 
@@ -883,7 +883,7 @@ What the Elysee Palace, the White House, counterterrorism and the FBI did or did
 
 Subject of the assassination; the host ties French and military claims and Bolling's 2017 remark to him.
 
-*Related: C-10892, C-10903, C-10912, C-10922, C-10925, C-10939*
+*Related: C-3329, C-3342, C-3357, C-3373, C-3378, C-3396*
 
 ---
 
@@ -891,7 +891,7 @@ Subject of the assassination; the host ties French and military claims and Bolli
 
 Host; speaks for herself throughout.
 
-*Related: C-10891, C-10892, C-10893, C-10894, C-10895, C-10896, C-10897, C-10898, C-10899, C-10900, C-10901, C-10902, C-10904, C-10905, C-10906, C-10907, C-10908, C-10909, C-10910, C-10911, C-10912, C-10913, C-10914, C-10915, C-10916, C-10917, C-10918, C-10921, C-10924, C-10925, C-10927, C-10928, C-10929, C-10930, C-10931, C-10932, C-10933, C-10934, C-10935, C-10936, C-10937, C-10938, C-10939, C-10940, C-10941, C-10942, C-10943, C-10944, C-10945, C-10946, C-10947, C-10948*
+*Related: C-3328, C-3329, C-3331, C-3332, C-3333, C-3334, C-3335, C-3336, C-3337, C-3338, C-3339, C-3340, C-3344, C-3345, C-3346, C-3347, C-3348, C-3350, C-3351, C-3356, C-3357, C-3358, C-3359, C-3361, C-3362, C-3363, C-3364, C-3372, C-3377, C-3378, C-3380, C-3381, C-3382, C-3383, C-3384, C-3386, C-3387, C-3390, C-3391, C-3392, C-3394, C-3395, C-3396, C-3398, C-3399, C-3400, C-3401, C-3403, C-3404, C-3405, C-3406, C-3407*
 
 ---
 
@@ -899,7 +899,7 @@ Host; speaks for herself throughout.
 
 The host says the White House confirmed her message reached Trump's desk.
 
-*Related: C-10904*
+*Related: C-3344*
 
 ---
 
@@ -907,7 +907,7 @@ The host says the White House confirmed her message reached Trump's desk.
 
 The host recounts his alleged hospital call telling her and Tucker Carlson to shut up because they were on a list.
 
-*Related: C-10941, C-10942*
+*Related: C-3399, C-3400*
 
 ---
 
@@ -915,7 +915,7 @@ The host recounts his alleged hospital call telling her and Tucker Carlson to sh
 
 Named by the host in the Kolvet hospital call account.
 
-*Related: C-10941, C-10942*
+*Related: C-3399, C-3400*
 
 ---
 
@@ -923,7 +923,7 @@ Named by the host in the Kolvet hospital call account.
 
 Accused shooter; the host notes nobody said he had a list.
 
-*Related: C-10942*
+*Related: C-3400*
 
 ---
 
@@ -931,7 +931,7 @@ Accused shooter; the host notes nobody said he had a list.
 
 Subject of the host's claims about birth, military file, whereabouts and the lawsuit.
 
-*Related: C-10891, C-10895, C-10899, C-10908, C-10917, C-10918, C-10927, C-10928, C-10929, C-10930, C-10931, C-10934, C-10940, C-10948*
+*Related: C-3328, C-3333, C-3337, C-3348, C-3363, C-3364, C-3380, C-3381, C-3382, C-3383, C-3384, C-3390, C-3398, C-3407*
 
 ---
 
@@ -939,7 +939,7 @@ Subject of the host's claims about birth, military file, whereabouts and the law
 
 The host denies ever being friends with him.
 
-*Related: C-10937*
+*Related: C-3394*
 
 ---
 
@@ -947,7 +947,7 @@ The host denies ever being friends with him.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10892, C-10909, C-10910, C-10945, C-10946*
+*Related: C-3329, C-3350, C-3351, C-3404, C-3405*
 
 ---
 
@@ -955,7 +955,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10909*
+*Related: C-3350*
 
 ---
 
@@ -963,7 +963,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10902, C-10905, C-10906*
+*Related: C-3340, C-3345, C-3346*
 
 ---
 
@@ -971,7 +971,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10901, C-10902, C-10904*
+*Related: C-3339, C-3340, C-3344*
 
 ---
 
@@ -979,7 +979,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10902*
+*Related: C-3340*
 
 ---
 
@@ -987,7 +987,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10906*
+*Related: C-3346*
 
 ---
 
@@ -995,7 +995,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10892, C-10893, C-10894, C-10895, C-10896, C-10897*
+*Related: C-3329, C-3331, C-3332, C-3333, C-3334, C-3335*
 
 ---
 
@@ -1003,7 +1003,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10907*
+*Related: C-3347*
 
 ---
 
@@ -1011,7 +1011,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10907*
+*Related: C-3347*
 
 ---
 
@@ -1019,7 +1019,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10907*
+*Related: C-3347*
 
 ---
 
@@ -1027,7 +1027,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10912*
+*Related: C-3357*
 
 ---
 
@@ -1035,7 +1035,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10912*
+*Related: C-3357*
 
 ---
 
@@ -1043,7 +1043,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10912*
+*Related: C-3357*
 
 ---
 
@@ -1051,7 +1051,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10913, C-10914, C-10932*
+*Related: C-3358, C-3359, C-3386*
 
 ---
 
@@ -1059,7 +1059,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10913, C-10915*
+*Related: C-3358, C-3361*
 
 ---
 
@@ -1067,7 +1067,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10914*
+*Related: C-3359*
 
 ---
 
@@ -1075,7 +1075,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10915, C-10916, C-10917, C-10918*
+*Related: C-3361, C-3362, C-3363, C-3364*
 
 ---
 
@@ -1083,7 +1083,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10917, C-10918, C-10929, C-10936*
+*Related: C-3363, C-3364, C-3382, C-3392*
 
 ---
 
@@ -1091,7 +1091,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10928*
+*Related: C-3381*
 
 ---
 
@@ -1099,7 +1099,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10931*
+*Related: C-3384*
 
 ---
 
@@ -1107,7 +1107,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10931*
+*Related: C-3384*
 
 ---
 
@@ -1115,7 +1115,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10939*
+*Related: C-3396*
 
 ---
 
@@ -1123,7 +1123,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10938*
+*Related: C-3395*
 
 ---
 
@@ -1131,7 +1131,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10939*
+*Related: C-3396*
 
 ---
 
@@ -1139,7 +1139,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10946*
+*Related: C-3405*
 
 ---
 
@@ -1147,13 +1147,13 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-10941, C-10942*
+*Related: C-3399, C-3400*
 
 ---
 
 ## 5. Claim Register
 
-**C-1781** Candace Owens publicly claims Macron-authorized assassination plot
+**C-3330** Candace Owens publicly claims Macron-authorized assassination plot
 
 Claim Timestamp: 00:02:49
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Obtain the underlying source communication; verify the 
 
 ---
 
-**C-1782** Pavel Durov endorses plausibility of French involvement claims
+**C-3341** Pavel Durov endorses plausibility of French involvement claims
 
 Claim Timestamp: 00:10:41
 
@@ -1177,7 +1177,7 @@ Investigative Direction: Locate original Durov X post (date, full context) and v
 
 ---
 
-**C-1783** Ponton frames Safari Club precedent as supporting plausibility
+**C-3343** Ponton frames Safari Club precedent as supporting plausibility
 
 Claim Timestamp: 00:13:06
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Verify Ponton's article URL; corroborate the Safari Clu
 
 ---
 
-**C-1784** Host Reads French Ministry Statement Denying Tyler Robinson FFL Service
+**C-3349** Host Reads French Ministry Statement Denying Tyler Robinson FFL Service
 
 Claim Timestamp: 00:18:50
 
@@ -1202,7 +1202,7 @@ Investigative Direction: Obtain original Ministry press release with date and sp
 
 ---
 
-**C-1785** Host Reads Article Saying Camp Riley Typo Identified and Camp Ripley Confirmed
+**C-3353** Host Reads Article Saying Camp Riley Typo Identified and Camp Ripley Confirmed
 
 Claim Timestamp: 00:20:28
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Confirm Camp Ripley as the relevant installation; ident
 
 ---
 
-**C-1786** France 24 confirms California FFL training; denies Camp Riley Minnesota exercise
+**C-3352** France 24 confirms California FFL training; denies Camp Riley Minnesota exercise
 
 Claim Timestamp: 00:19:45
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Locate original France 24 article; verify whether the M
 
 ---
 
-**C-1787** Host Says Operation Bright Star Ran August 29 to September 10, 2025
+**C-3354** Host Says Operation Bright Star Ran August 29 to September 10, 2025
 
 Claim Timestamp: 00:21:39
 
@@ -1240,7 +1240,7 @@ Investigative Direction: Verify Operation Bright Star 2025 dates via US Central 
 
 ---
 
-**C-1788** Six French Foreign Legion regiments changed command in mid-August 2025
+**C-3355** Six French Foreign Legion regiments changed command in mid-August 2025
 
 Claim Timestamp: 00:22:30
 
@@ -1252,7 +1252,7 @@ Investigative Direction: Locate original article; obtain official command-change
 
 ---
 
-**C-1789** French Street Name Dates From 1790s Refugee Settlement
+**C-3365** French Street Name Dates From 1790s Refugee Settlement
 
 Claim Timestamp: 00:25:55
 
@@ -1264,7 +1264,7 @@ Investigative Direction: Verify via Wilmington city historical archives; corrobo
 
 ---
 
-**C-1790** Three federal agencies operate at 920 North King Street, Wilmington
+**C-3360** Three federal agencies operate at 920 North King Street, Wilmington
 
 Claim Timestamp: 00:24:24
 
@@ -1276,7 +1276,7 @@ Investigative Direction: Identify the specific federal agencies at 920 North Kin
 
 ---
 
-**C-1791** Bank of America vacated Bracebridge Complex in 2018
+**C-3366** Bank of America vacated Bracebridge Complex in 2018
 
 Claim Timestamp: 00:28:30
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Verify Bank of America's Bracebridge exit via Wilmingto
 
 ---
 
-**C-1792** Pierre S. du Pont founded Longwood Foundation
+**C-3369** Pierre S. du Pont founded Longwood Foundation
 
 Claim Timestamp: 00:29:25
 
@@ -1301,7 +1301,7 @@ Investigative Direction: Verify Longwood Foundation founding date and founder vi
 
 ---
 
-**C-1793** 2024 legislation provided support to Longwood Foundation
+**C-3368** 2024 legislation provided support to Longwood Foundation
 
 Claim Timestamp: 00:29:23
 
@@ -1314,7 +1314,7 @@ Investigative Direction: Identify the specific Delaware legislation; obtain bill
 
 ---
 
-**C-1794** Hervé Hoppenot served as long-time CEO of Incyte
+**C-3376** Hervé Hoppenot served as long-time CEO of Incyte
 
 Claim Timestamp: 00:33:11
 
@@ -1327,7 +1327,7 @@ Investigative Direction: Verify Incyte CEO succession records via SEC filings; c
 
 ---
 
-**C-1795** T. Coleman du Pont founded Wilmington Trust
+**C-3371** T. Coleman du Pont founded Wilmington Trust
 
 Claim Timestamp: 00:30:58
 
@@ -1340,7 +1340,7 @@ Investigative Direction: Verify Wilmington Trust founding date and founder via c
 
 ---
 
-**C-1796** FBI presence at 500 North Delaware Avenue
+**C-3374** FBI presence at 500 North Delaware Avenue
 
 Claim Timestamp: 00:32:37
 
@@ -1352,7 +1352,7 @@ Investigative Direction: Identify the FBI tenant at 500 Delaware Avenue via fede
 
 ---
 
-**C-1797** Ace Partners focuses investments on Israel-aligned aerospace/defense
+**C-3385** Ace Partners focuses investments on Israel-aligned aerospace/defense
 
 Claim Timestamp: 00:38:00
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Verify the current Ace Partners portfolio and confirm S
 
 ---
 
-**C-1798** Host Says Brigitte Macron Opened Paris Design Week on September 4, 2025
+**C-3388** Host Says Brigitte Macron Opened Paris Design Week on September 4, 2025
 
 Claim Timestamp: 00:39:55
 
@@ -1377,7 +1377,7 @@ Investigative Direction: Verify via Paris Design Week official programming and F
 
 ---
 
-**C-1799** Host Says Brigitte Macron Was Photographed with Zelensky on September 4, 2025
+**C-3389** Host Says Brigitte Macron Was Photographed with Zelensky on September 4, 2025
 
 Claim Timestamp: 00:39:55
 
@@ -1390,7 +1390,7 @@ Investigative Direction: Verify via Élysée Palace official photo archive; cros
 
 ---
 
-**C-1800** Adam Sosnick states Candace Owens has no famous friends
+**C-3393** Adam Sosnick states Candace Owens has no famous friends
 
 Claim Timestamp: 00:47:39
 
@@ -1402,7 +1402,7 @@ Investigative Direction: Obtain the full podcast segment; assess whether Sosnick
 
 ---
 
-**C-1801** Eric Bolling sent apology email blaming "Alex" (Adam Sosnick)
+**C-3402** Eric Bolling sent apology email blaming "Alex" (Adam Sosnick)
 
 Claim Timestamp: 00:56:17
 
@@ -1415,7 +1415,7 @@ Investigative Direction: Verify authenticity of the email; corroborate Bolling's
 
 ---
 
-**C-1802** Host Says YouTube Live Poll Found 93% Believe Lawsuit Is a Government Operation
+**C-3397** Host Says YouTube Live Poll Found 93% Believe Lawsuit Is a Government Operation
 
 Claim Timestamp: 00:53:57
 
@@ -1428,7 +1428,7 @@ Investigative Direction: Treat as audience-opinion snapshot only; not a factual 
 
 ---
 
-**C-10891** Host Says Brigitte Macron Was Born Male and Nation-States Collude to Hide It
+**C-3328** Host Says Brigitte Macron Was Born Male and Nation-States Collude to Hide It
 
 Claim Timestamp: 00:00:30
 
@@ -1438,13 +1438,13 @@ Transcript Snippet: Imagine being so protected that you force multiple nation-st
 
 Anchored Artifacts: 
 Mentions: N-3, N-82, N-876
-Supports: C-1507
+Supports: C-1928
 Tags: relevance:tangential
 Investigative Direction: Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.
 
 ---
 
-**C-10892** Host Says French Legion Was Apparently on the Ground at UVU on September 10
+**C-3329** Host Says French Legion Was Apparently on the Ground at UVU on September 10
 
 Claim Timestamp: 00:01:20
 
@@ -1460,7 +1460,7 @@ Investigative Direction: Ask the French Ministry of the Armed Forces and Utah au
 
 ---
 
-**C-10893** Tweet Says Source Claims US Leaders Are Aware of the Plot
+**C-3331** Tweet Says Source Claims US Leaders Are Aware of the Plot
 
 Claim Timestamp: 00:03:50
 
@@ -1476,7 +1476,7 @@ Investigative Direction: Obtain the host's original post and any record of what 
 
 ---
 
-**C-10894** Tweet Says Journalist Xavier Poussard's Life Is Also at Risk
+**C-3332** Tweet Says Journalist Xavier Poussard's Life Is Also at Risk
 
 Claim Timestamp: 00:03:55
 
@@ -1492,7 +1492,7 @@ Investigative Direction: Ask Poussard whether he received threats or any warning
 
 ---
 
-**C-10895** Host Says the Alleged Payment Was a $1.5 Million Paper Trail She Cannot Verify
+**C-3333** Host Says the Alleged Payment Was a $1.5 Million Paper Trail She Cannot Verify
 
 Claim Timestamp: 00:04:20
 
@@ -1503,13 +1503,13 @@ Transcript Snippet: I said there was a paper trail that Macron allegedly paid $1
 Anchored Artifacts: A-1461.1
 Mentions: N-3, N-377, N-82
 Related Nodes: N-10316
-Supports: C-1781
+Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the transfer records; any bank or transfer document would confirm or refute the amount and the payer.
 
 ---
 
-**C-10896** Host Says Two Assassins Were Hired, One Israeli and One French-Canadian Woman
+**C-3334** Host Says Two Assassins Were Hired, One Israeli and One French-Canadian Woman
 
 Claim Timestamp: 00:04:55
 
@@ -1520,13 +1520,13 @@ Transcript Snippet: Two assassins were hired, one Israeli, one French-Canadian w
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10316
-Supports: C-1781
+Supports: C-3330
 Tags: relevance:core
 Investigative Direction: Ask the host's source to identify the two individuals; check French and Canadian travel and law enforcement records only if a name is supplied.
 
 ---
 
-**C-10897** Host Says the Money Ran Through the Club des Fontes [Club des Cent]
+**C-3335** Host Says the Money Ran Through the Club des Fontes [Club des Cent]
 
 Claim Timestamp: 00:05:05
 
@@ -1542,7 +1542,7 @@ Investigative Direction: Identify the club the host means (the name is as transc
 
 ---
 
-**C-10898** Host Says Her Post Drew Over 100,000 Retweets and 45 Million Impressions
+**C-3336** Host Says Her Post Drew Over 100,000 Retweets and 45 Million Impressions
 
 Claim Timestamp: 00:05:50
 
@@ -1557,7 +1557,7 @@ Investigative Direction: Check the post's public engagement counts on X or archi
 
 ---
 
-**C-10899** Host Says the Macrons Paid a Private Investigator to Test Whether She Colluded With State Actors
+**C-3337** Host Says the Macrons Paid a Private Investigator to Test Whether She Colluded With State Actors
 
 Claim Timestamp: 00:06:20
 
@@ -1572,7 +1572,7 @@ Investigative Direction: Look for the investigator's engagement in the Delaware 
 
 ---
 
-**C-10900** Host Says the Elysee Palace Issued No Response in the Week After Her Post
+**C-3338** Host Says the Elysee Palace Issued No Response in the Week After Her Post
 
 Claim Timestamp: 00:08:00
 
@@ -1588,7 +1588,7 @@ Investigative Direction: Search Elysee communique archives and French press for 
 
 ---
 
-**C-10901** Host Presents the White House Response After a Week as Empty
+**C-3339** Host Presents the White House Response After a Week as Empty
 
 Claim Timestamp: 00:09:00
 
@@ -1604,7 +1604,7 @@ Investigative Direction: Check White House press briefings and statements betwee
 
 ---
 
-**C-10902** Host Says She Reported the Alleged Plot to the White House, FBI and Counterterrorism
+**C-3340** Host Says She Reported the Alleged Plot to the White House, FBI and Counterterrorism
 
 Claim Timestamp: 00:09:30
 
@@ -1620,7 +1620,7 @@ Investigative Direction: Request the host's report records (dates, recipients, c
 
 ---
 
-**C-10903** Durov Post Says Charlie Called for 300% Tariffs on France Until Charges Against Durov Were Dropped
+**C-3342** Durov Post Says Charlie Called for 300% Tariffs on France Until Charges Against Durov Were Dropped
 
 Claim Timestamp: 00:10:50
 
@@ -1630,13 +1630,13 @@ Transcript Snippet: Charlie even called for 300% tariffs on France until the cha
 
 Anchored Artifacts: A-1462.1
 Mentions: N-290, N-1
-Supports: C-1782
+Supports: C-3341
 Tags: relevance:context
 Investigative Direction: Find Charlie Kirk's original statement or post about tariffs on France over Durov's arrest and confirm the 300% figure and date.
 
 ---
 
-**C-10904** Host Says the White House Confirmed Her Message Reached Trump's Desk
+**C-3344** Host Says the White House Confirmed Her Message Reached Trump's Desk
 
 Claim Timestamp: 00:14:20
 
@@ -1652,7 +1652,7 @@ Investigative Direction: Ask the host for the White House reply and its date; re
 
 ---
 
-**C-10905** Host Says the FBI Never Replied to Her Text About the Foreign Legion Claim
+**C-3345** Host Says the FBI Never Replied to Her Text About the Foreign Legion Claim
 
 Claim Timestamp: 00:14:40
 
@@ -1668,7 +1668,7 @@ Investigative Direction: Ask the host who received the text and when; FBI record
 
 ---
 
-**C-10906** Host Says Not Even the Utah FBI Branch Called Her
+**C-3346** Host Says Not Even the Utah FBI Branch Called Her
 
 Claim Timestamp: 00:15:10
 
@@ -1684,7 +1684,7 @@ Investigative Direction: Ask the FBI Salt Lake City field office whether anyone 
 
 ---
 
-**C-10907** Host Says Operation Valhalla Was a Camp Ripley Exercise With Civilians and Minot AFB Personnel
+**C-3347** Host Says Operation Valhalla Was a Camp Ripley Exercise With Civilians and Minot AFB Personnel
 
 Claim Timestamp: 00:16:30
 
@@ -1700,7 +1700,7 @@ Investigative Direction: Obtain Minnesota National Guard and Air Force press rel
 
 ---
 
-**C-10908** Host Says the Military Will Not Release Jean-Michel Trogneux's File
+**C-3348** Host Says the Military Will Not Release Jean-Michel Trogneux's File
 
 Claim Timestamp: 00:18:10
 
@@ -1715,7 +1715,7 @@ Investigative Direction: Obtain any French military records request and denial c
 
 ---
 
-**C-10909** Host Says UVU Students Did Not Recognize Anyone at the Event and It Was Advertised Late
+**C-3350** Host Says UVU Students Did Not Recognize Anyone at the Event and It Was Advertised Late
 
 Claim Timestamp: 00:19:00
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Interview attending UVU students and compare the event 
 
 ---
 
-**C-10910** Host Says National Media Seemed to Avoid Interviewing UVU Students
+**C-3351** Host Says National Media Seemed to Avoid Interviewing UVU Students
 
 Claim Timestamp: 00:19:30
 
@@ -1747,7 +1747,7 @@ Investigative Direction: Survey national coverage from September 10-14, 2025 for
 
 ---
 
-**C-10911** Host Says the Legion Has 12 Known Regiments and Six Got New Commanders
+**C-3356** Host Says the Legion Has 12 Known Regiments and Six Got New Commanders
 
 Claim Timestamp: 00:22:45
 
@@ -1758,13 +1758,13 @@ Transcript Snippet: we found that they have 12 regiments that are known of, and 
 Anchored Artifacts: A-1479.1
 Mentions: N-3
 Related Nodes: N-10292, N-10290
-Supports: C-1788
+Supports: C-3355
 Tags: relevance:context
 Investigative Direction: Check the Legion's regiment list and the August 2025 command-change notices to confirm the regiment count and the six units.
 
 ---
 
-**C-10912** Host Says the Egyptian Plane SUBTT Left Provo on the Morning of the Assassination for Wilmington
+**C-3357** Host Says the Egyptian Plane SUBTT Left Provo on the Morning of the Assassination for Wilmington
 
 Claim Timestamp: 00:23:20
 
@@ -1780,7 +1780,7 @@ Investigative Direction: Pull SU-BTT ADS-B and FAA flight records for September 
 
 ---
 
-**C-10913** Host Says Satys Injected $1.5 Million Ostensibly to Paint Planes in the Wilmington Hangar
+**C-3358** Host Says Satys Injected $1.5 Million Ostensibly to Paint Planes in the Wilmington Hangar
 
 Claim Timestamp: 00:23:35
 
@@ -1791,13 +1791,13 @@ Transcript Snippet: Satys, which is a French company, injected $1.5 million oste
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11008, N-10269
-Supports: C-4991
+Supports: C-3168
 Tags: relevance:core
 Investigative Direction: Obtain the hangar lease, Delaware filings and Satys investment announcements to confirm the amount, term and stated purpose.
 
 ---
 
-**C-10914** Host Says Satys Signed Off the Same Week She Was Sent the Cease and Desist
+**C-3359** Host Says Satys Signed Off the Same Week She Was Sent the Cease and Desist
 
 Claim Timestamp: 00:23:50
 
@@ -1808,13 +1808,13 @@ Transcript Snippet: they sign off on that the very week that I get sent this cea
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-11008, N-11011
-Supports: C-4990
+Supports: C-3167
 Tags: relevance:core
 Investigative Direction: Compare the cease-and-desist date with the Satys announcement and lease execution dates in public filings.
 
 ---
 
-**C-10915** Host Says a Foreign Dignitary Was Escorted From the Hangar to 920 North King Street
+**C-3361** Host Says a Foreign Dignitary Was Escorted From the Hangar to 920 North King Street
 
 Claim Timestamp: 00:24:30
 
@@ -1825,13 +1825,13 @@ Transcript Snippet: a foreign dignitary was escorted, right, from that hangar to
 Anchored Artifacts: A-1469.2
 Mentions: N-3
 Related Nodes: N-10265, N-10284, N-10269
-Supports: C-9807
+Supports: C-3300
 Tags: relevance:core
 Investigative Direction: Identify the source's basis (witness, video or vehicle records) and check airport ground-transport and security logs for September 10, 2025.
 
 ---
 
-**C-10916** Host Says She Confirmed Three Federal Agencies Share the 920 North King Street Building
+**C-3362** Host Says She Confirmed Three Federal Agencies Share the 920 North King Street Building
 
 Claim Timestamp: 00:24:50
 
@@ -1842,13 +1842,13 @@ Transcript Snippet: a place that we learned and confirmed had three federal agen
 Anchored Artifacts: A-1469.2
 Mentions: N-3
 Related Nodes: N-10265, N-10284
-Supports: C-1790
+Supports: C-3360
 Tags: relevance:core
 Investigative Direction: Review GSA lease and federal tenant records for 920 North King Street to identify which agencies occupy it.
 
 ---
 
-**C-10917** Host Says Her Delaware Filing Attorneys Are Housed at 920 North King Street
+**C-3363** Host Says Her Delaware Filing Attorneys Are Housed at 920 North King Street
 
 Claim Timestamp: 00:25:00
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Check the Delaware docket for counsel of record and the
 
 ---
 
-**C-10918** Host Says Brigitte Macron's Lawyers Are Directly Across the Street From That Firm
+**C-3364** Host Says Brigitte Macron's Lawyers Are Directly Across the Street From That Firm
 
 Claim Timestamp: 00:25:20
 
@@ -1880,7 +1880,7 @@ Investigative Direction: Compare counsel-of-record addresses on the Delaware doc
 
 ---
 
-**C-10919** Source Email Says the Bracebridge Complex Spans Over a Million Square Feet and Was Built for Maryland Bank
+**C-3367** Source Email Says the Bracebridge Complex Spans Over a Million Square Feet and Was Built for Maryland Bank
 
 Claim Timestamp: 00:28:40
 
@@ -1895,7 +1895,7 @@ Investigative Direction: Check New Castle County property records and Wilmington
 
 ---
 
-**C-10920** Source Email Says Du Pont Originally Manufactured Kevlar and Has Ties to Both Militaries
+**C-3370** Source Email Says Du Pont Originally Manufactured Kevlar and Has Ties to Both Militaries
 
 Claim Timestamp: 00:29:40
 
@@ -1911,7 +1911,7 @@ Investigative Direction: Check DuPont corporate history for Kevlar's development
 
 ---
 
-**C-10921** Source Email Says 500 North Delaware Avenue Is Also Somehow Owned by France
+**C-3372** Source Email Says 500 North Delaware Avenue Is Also Somehow Owned by France
 
 Claim Timestamp: 00:31:10
 
@@ -1927,7 +1927,7 @@ Investigative Direction: Check New Castle County deed and tax records for the ow
 
 ---
 
-**C-10922** Source Email Says the Law Firm at 500 Delaware Avenue Has Many French-Linked Employees
+**C-3373** Source Email Says the Law Firm at 500 Delaware Avenue Has Many French-Linked Employees
 
 Claim Timestamp: 00:32:30
 
@@ -1938,13 +1938,13 @@ Transcript Snippet: MG+M and M has many employees that are either fluent in Fren
 Anchored Artifacts: A-1469.6
 Mentions: N-1
 Related Nodes: N-10289
-Supports: C-1796
+Supports: C-3374
 Tags: relevance:context
 Investigative Direction: Identify the firm (the transcript renders it as MG+M) and check its lease date and staff biographies.
 
 ---
 
-**C-10923** Source Email Says Incyte Owns the Construction Site Across From 920 North King Street
+**C-3375** Source Email Says Incyte Owns the Construction Site Across From 920 North King Street
 
 Claim Timestamp: 00:33:00
 
@@ -1959,7 +1959,7 @@ Investigative Direction: Check Delaware permits and Incyte filings for ownership
 
 ---
 
-**C-10924** Source Email Says Construction Promised for About a Year Has Taken About Two
+**C-3377** Source Email Says Construction Promised for About a Year Has Taken About Two
 
 Claim Timestamp: 00:33:30
 
@@ -1975,7 +1975,7 @@ Investigative Direction: Review the May 2024 article and Wilmington building per
 
 ---
 
-**C-10925** Source Email Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
+**C-3378** Source Email Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death
 
 Claim Timestamp: 00:33:50
 
@@ -1986,13 +1986,13 @@ Transcript Snippet: He is directly responsible for this construction at Bracebri
 Anchored Artifacts: A-1469.4
 Mentions: N-286, N-1, N-3
 Related Nodes: N-10286
-Supports: C-1794
+Supports: C-3376
 Tags: relevance:context
 Investigative Direction: Check Incyte SEC filings for the CEO-to-advisor transition date and the Bracebridge acquisition approvals.
 
 ---
 
-**C-10926** Source Email Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems
+**C-3379** Source Email Says Incyte Is Plugged Into Federal Medical Supply Chains Including VA Systems
 
 Claim Timestamp: 00:34:30
 
@@ -2007,7 +2007,7 @@ Investigative Direction: Check federal procurement records (USAspending, VA cont
 
 ---
 
-**C-10927** Host Says a Federal Government Call Asked Her to Stop Speaking About Brigitte
+**C-3380** Host Says a Federal Government Call Asked Her to Stop Speaking About Brigitte
 
 Claim Timestamp: 00:35:20
 
@@ -2018,13 +2018,13 @@ Transcript Snippet: I get a call from federal government asking me to stop speak
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-11277
-Supports: C-4999, C-5000
+Supports: C-3178, C-3179
 Tags: relevance:core
 Investigative Direction: Identify the callers and dates through the host's phone records; compare with the February 25-26 calls she previously described.
 
 ---
 
-**C-10928** Host Says a Tip Suggested Brigitte Might Be a Mossad Asset
+**C-3381** Host Says a Tip Suggested Brigitte Might Be a Mossad Asset
 
 Claim Timestamp: 00:35:50
 
@@ -2040,7 +2040,7 @@ Investigative Direction: Ask the host for the tip's origin and any corroboration
 
 ---
 
-**C-10929** Host Says She Believes Federal Agencies Set Her Up With the Delaware Lawsuit
+**C-3382** Host Says She Believes Federal Agencies Set Her Up With the Delaware Lawsuit
 
 Claim Timestamp: 00:36:30
 
@@ -2056,7 +2056,7 @@ Investigative Direction: Review the Delaware docket for the timing of filing and
 
 ---
 
-**C-10930** Host Says Brigitte Said He Was in America in the 1960s for the Moon Landing
+**C-3383** Host Says Brigitte Said He Was in America in the 1960s for the Moon Landing
 
 Claim Timestamp: 00:36:50
 
@@ -2071,7 +2071,7 @@ Investigative Direction: Find the original statement by Brigitte Macron about be
 
 ---
 
-**C-10931** Host Says Macron's Lawsuit Mentions MK Ultra 18 Times Because Brigitte's Birthday Matches the Program
+**C-3384** Host Says Macron's Lawsuit Mentions MK Ultra 18 Times Because Brigitte's Birthday Matches the Program
 
 Claim Timestamp: 00:37:20
 
@@ -2082,13 +2082,13 @@ Transcript Snippet: the mentioning of MK Ultra 18 times absurdly in my lawsuit
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-10001, N-10116
-Supports: C-5019
+Supports: C-3200
 Tags: relevance:context
 Investigative Direction: Count MK Ultra references in the complaint and compare Brigitte Macron's stated birth date with the program's start date.
 
 ---
 
-**C-10932** Host Says Ace Partners Is the Second Largest Shareholder of Satys
+**C-3386** Host Says Ace Partners Is the Second Largest Shareholder of Satys
 
 Claim Timestamp: 00:38:10
 
@@ -2104,7 +2104,7 @@ Investigative Direction: Check Satys shareholder disclosures and Ace Partners' p
 
 ---
 
-**C-10933** Host Says Ace Partners Invests Only in Companies That Benefit Israel
+**C-3387** Host Says Ace Partners Invests Only in Companies That Benefit Israel
 
 Claim Timestamp: 00:38:30
 
@@ -2115,13 +2115,13 @@ Transcript Snippet: They are explicit, they only invest in companies and organiz
 Anchored Artifacts: A-1472.1
 Mentions: N-3
 Related Nodes: N-11278
-Supports: C-1797
+Supports: C-3385
 Tags: relevance:context
 Investigative Direction: Archive and read the Ace Partners website text; note it differs from the on-air mission statement wording (global focus with a specific focus on Israel).
 
 ---
 
-**C-10934** Host Says Brigitte Macron Vanished From View for Six Days After September 4
+**C-3390** Host Says Brigitte Macron Vanished From View for Six Days After September 4
 
 Claim Timestamp: 00:40:00
 
@@ -2137,7 +2137,7 @@ Investigative Direction: Review Elysee schedules, press photos and French news f
 
 ---
 
-**C-10935** Host Relays Source Email Calling Wilmington a Hub for Transgender Medicine and MK Ultra
+**C-3391** Host Relays Source Email Calling Wilmington a Hub for Transgender Medicine and MK Ultra
 
 Claim Timestamp: 00:41:10
 
@@ -2153,7 +2153,7 @@ Investigative Direction: This is a source-email generalization with no bearing o
 
 ---
 
-**C-10936** Host Says the Federal Government Never Commented on a Foreign Nation Targeting American Speech
+**C-3392** Host Says the Federal Government Never Commented on a Foreign Nation Targeting American Speech
 
 Claim Timestamp: 00:46:20
 
@@ -2169,7 +2169,7 @@ Investigative Direction: Check State Department and White House statements on th
 
 ---
 
-**C-10937** Host Says She Has Never Been Friends With Steven Crowder
+**C-3394** Host Says She Has Never Been Friends With Steven Crowder
 
 Claim Timestamp: 00:48:50
 
@@ -2184,7 +2184,7 @@ Investigative Direction: Compare public statements by the host and Crowder about
 
 ---
 
-**C-10938** Host Says She Is Still Friends With Her Daily Wire Colleagues
+**C-3395** Host Says She Is Still Friends With Her Daily Wire Colleagues
 
 Claim Timestamp: 00:49:00
 
@@ -2200,7 +2200,7 @@ Investigative Direction: Ask named Daily Wire colleagues whether they remain in 
 
 ---
 
-**C-10939** Host Says Bolling Sat Across From Sosnick and Falsely Said She Had Not Been Friends With Kirk Since 2017
+**C-3396** Host Says Bolling Sat Across From Sosnick and Falsely Said She Had Not Been Friends With Kirk Since 2017
 
 Claim Timestamp: 00:51:00
 
@@ -2216,7 +2216,7 @@ Investigative Direction: Review the PBD episode for Bolling's exact words about 
 
 ---
 
-**C-10940** Host Speculates Brigitte Had Another Identity in the 1980s
+**C-3398** Host Speculates Brigitte Had Another Identity in the 1980s
 
 Claim Timestamp: 00:54:50
 
@@ -2231,7 +2231,7 @@ Investigative Direction: The host offers no evidence; any civil or military reco
 
 ---
 
-**C-10941** Host Says Kolvet Called From the Hospital and Told Her and Tucker to Shut Up Because They Were on a List
+**C-3399** Host Says Kolvet Called From the Hospital and Told Her and Tucker to Shut Up Because They Were on a List
 
 Claim Timestamp: 00:55:40
 
@@ -2242,13 +2242,13 @@ Transcript Snippet: Andrew Kolvet called me from the hospital and basically said
 Anchored Artifacts: A-3111.1
 Mentions: N-3, N-14, N-22
 Related Nodes: N-11010
-Supports: C-9370
+Supports: C-1574
 Tags: relevance:core
 Investigative Direction: Obtain the host's and Kolvet's phone records for September 10, 2025 and ask Kolvet to describe the call.
 
 ---
 
-**C-10942** Host Says Nobody Has Said Tyler Robinson Had a List
+**C-3400** Host Says Nobody Has Said Tyler Robinson Had a List
 
 Claim Timestamp: 00:55:50
 
@@ -2264,7 +2264,7 @@ Investigative Direction: Review charging documents and public filings for any me
 
 ---
 
-**C-10943** Host Says She Believes the World Is Run by the Global State Military
+**C-3401** Host Says She Believes the World Is Run by the Global State Military
 
 Claim Timestamp: 00:56:00
 
@@ -2279,7 +2279,7 @@ Investigative Direction: Opinion about world governance with no testable record.
 
 ---
 
-**C-10944** Host Says Bolling Has Not Publicly Retracted and She Told Him to Keep the Same Energy
+**C-3403** Host Says Bolling Has Not Publicly Retracted and She Told Him to Keep the Same Energy
 
 Claim Timestamp: 00:57:00
 
@@ -2295,7 +2295,7 @@ Investigative Direction: Check Bolling's later broadcasts or posts for any publi
 
 ---
 
-**C-10945** Host Says UVU Students Not Recognizing Anyone Suggests Military Regiments Were Present
+**C-3404** Host Says UVU Students Not Recognizing Anyone Suggests Military Regiments Were Present
 
 Claim Timestamp: 00:58:40
 
@@ -2311,7 +2311,7 @@ Investigative Direction: Request UVU and Utah National Guard deployment and cred
 
 ---
 
-**C-10946** Host Says Information She Is Receiving Places National Guard, Foreign Legionnaires and Israelis at UVU
+**C-3405** Host Says Information She Is Receiving Places National Guard, Foreign Legionnaires and Israelis at UVU
 
 Claim Timestamp: 00:59:20
 
@@ -2327,7 +2327,7 @@ Investigative Direction: Obtain the cell-site data behind the 12 phones claim an
 
 ---
 
-**C-10947** Host Says the Trogneux Chocolatier Continuity Story Is Not Possible Given the Occupation of Amiens
+**C-3406** Host Says the Trogneux Chocolatier Continuity Story Is Not Possible Given the Occupation of Amiens
 
 Claim Timestamp: 01:00:05
 
@@ -2342,7 +2342,7 @@ Investigative Direction: Check Amiens municipal and Trogneux company records for
 
 ---
 
-**C-10948** Host Says the Trogneux Identity Was Created and the True Family Is Very Powerful
+**C-3407** Host Says the Trogneux Identity Was Created and the True Family Is Very Powerful
 
 Claim Timestamp: 01:00:20
 

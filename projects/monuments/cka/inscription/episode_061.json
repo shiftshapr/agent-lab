@@ -27,15 +27,15 @@
           "ref": "A-1661.1",
           "description": "Cease and Desist Letter from Turning Point USA counsel to Candace Owens, dated approximately January 19–20, 2026",
           "related_claims": [
-            "C-2158",
-            "C-2159",
-            "C-2160",
-            "C-2161",
-            "C-2162",
-            "C-2163",
-            "C-2164",
-            "C-2165",
-            "C-2169"
+            "C-5431",
+            "C-5460",
+            "C-5458",
+            "C-5453",
+            "C-5446",
+            "C-5447",
+            "C-5442",
+            "C-5437",
+            "C-5445"
           ],
           "related_nodes": [
             "N-1",
@@ -68,8 +68,8 @@
           "ref": "A-1662.1",
           "description": "Tim Dillon on-air clip asserting TPUSA is primarily motivated by money/revenue from Candace's audience",
           "related_claims": [
-            "C-2166",
-            "C-2167"
+            "C-5432",
+            "C-5433"
           ],
           "related_nodes": [
             "N-277",
@@ -97,11 +97,11 @@
           "ref": "A-1663.1",
           "description": "Brooklyn Beckham's public Instagram Stories read on-air, in which he states he does not wish to reconcile with his family and details grievances including Nicola Peltz's cancelled dress, brand-rights pressure, seating dispute, alleged \"evil\" remark, and a claimed hijacked first dance",
           "related_claims": [
-            "C-2171",
-            "C-2172",
-            "C-2173",
-            "C-2174",
-            "C-2175"
+            "C-5482",
+            "C-5483",
+            "C-5484",
+            "C-5487",
+            "C-5490"
           ],
           "related_nodes": [
             "N-480",
@@ -129,8 +129,8 @@
           "ref": "A-1664.1",
           "description": "Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Marc Anthony's late-night DJ set beginning at 11 p.m.",
           "related_claims": [
-            "C-2176",
-            "C-2177"
+            "C-5494",
+            "C-5495"
           ],
           "related_nodes": [
             "N-480",
@@ -159,7 +159,7 @@
           "ref": "A-1665.1",
           "description": "Taylor Swift text messages to Blake Lively released in the Baldoni–Lively litigation, read on-air, including the December 2024 reference to Justin Baldoni's \"tiny violin\"",
           "related_claims": [
-            "C-2178"
+            "C-5475"
           ],
           "related_nodes": [
             "N-484",
@@ -211,7 +211,7 @@
           "ref": "A-1667.1",
           "description": "On-screen viewer comments read aloud during the comments chapter, including the top comment from the prior episode regarding firings at TPUSA, comments on the Lively texts, and commentary on the lawsuit",
           "related_claims": [
-            "C-2180"
+            "C-5511"
           ],
           "related_nodes": [
             "N-2",
@@ -239,7 +239,7 @@
           "ref": "A-1668.1",
           "description": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erika Kirk would \"know what to do\"",
           "related_claims": [
-            "C-2181"
+            "C-5512"
           ],
           "related_nodes": [
             "N-1",
@@ -267,8 +267,8 @@
           "ref": "A-3119.1",
           "description": "Photo the host says Nicola Peltz posted, showing her holding hands and crying as she buries her dog (described by the host as shown on screen)",
           "related_claims": [
-            "C-11164",
-            "C-11165"
+            "C-5503",
+            "C-5504"
           ],
           "related_nodes": [
             "N-3",
@@ -295,7 +295,7 @@
           "ref": "A-3120.1",
           "description": "Host verbal reference to an X trending topic 'Candace Owens kicks off her lawsuit era' (not shown clearly)",
           "related_claims": [
-            "C-11171"
+            "C-5510"
           ],
           "related_nodes": [
             "N-3"
@@ -321,8 +321,8 @@
         "A-1662.1"
       ],
       "related_claims": [
-        "C-2166",
-        "C-2167"
+        "C-5432",
+        "C-5433"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -343,11 +343,11 @@
         "A-1666.1"
       ],
       "related_claims": [
-        "C-2171",
-        "C-2172",
-        "C-2173",
-        "C-2174",
-        "C-2175"
+        "C-5482",
+        "C-5483",
+        "C-5484",
+        "C-5487",
+        "C-5490"
       ],
       "tags": [],
       "evidence_count": 3,
@@ -371,7 +371,7 @@
         "A-1664.1"
       ],
       "related_claims": [
-        "C-2172"
+        "C-5483"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -396,9 +396,9 @@
         "A-1664.1"
       ],
       "related_claims": [
-        "C-2172",
-        "C-2174",
-        "C-2175"
+        "C-5483",
+        "C-5487",
+        "C-5490"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -442,8 +442,8 @@
         "A-1667.1"
       ],
       "related_claims": [
-        "C-2178",
-        "C-2179"
+        "C-5475",
+        "C-5477"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -466,7 +466,7 @@
         "A-1665.1"
       ],
       "related_claims": [
-        "C-2178"
+        "C-5475"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -490,7 +490,7 @@
         "A-1665.1"
       ],
       "related_claims": [
-        "C-2178"
+        "C-5475"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -513,7 +513,7 @@
         "A-1661.1"
       ],
       "related_claims": [
-        "C-2170"
+        "C-5454"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -595,14 +595,14 @@
         "A-1662.1"
       ],
       "related_claims": [
-        "C-2158",
-        "C-2159",
-        "C-2160",
-        "C-2163",
-        "C-2164",
-        "C-2165",
-        "C-2166",
-        "C-2167"
+        "C-5431",
+        "C-5460",
+        "C-5458",
+        "C-5447",
+        "C-5442",
+        "C-5437",
+        "C-5432",
+        "C-5433"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -631,8 +631,8 @@
         "A-1662.1"
       ],
       "related_claims": [
-        "C-2162",
-        "C-2167"
+        "C-5446",
+        "C-5433"
       ],
       "tags": [],
       "evidence_count": 2,
@@ -654,7 +654,7 @@
         "A-1661.1"
       ],
       "related_claims": [
-        "C-2169"
+        "C-5445"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -677,7 +677,7 @@
         "A-1661.1"
       ],
       "related_claims": [
-        "C-2161"
+        "C-5453"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -700,8 +700,8 @@
         "A-1661.1"
       ],
       "related_claims": [
-        "C-2161",
-        "C-2170"
+        "C-5453",
+        "C-5454"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -723,7 +723,7 @@
         "A-1668.1"
       ],
       "related_claims": [
-        "C-2181"
+        "C-5512"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -744,10 +744,10 @@
       "description": "Primary investigative subject of the series; relevant in this episode as the victim whose case is being reopened.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11114",
-        "C-11126",
-        "C-11127",
-        "C-11136"
+        "C-5434",
+        "C-5452",
+        "C-5455",
+        "C-5466"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -765,12 +765,12 @@
       "description": "Subject of the NYT op-ed (A-2348) and named in the Vance-referenced grief account.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11117",
-        "C-11118",
-        "C-11126",
-        "C-11127",
-        "C-11130",
-        "C-11131"
+        "C-5439",
+        "C-5440",
+        "C-5452",
+        "C-5455",
+        "C-5459",
+        "C-5461"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -804,70 +804,70 @@
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11114",
-        "C-11115",
-        "C-11116",
-        "C-11117",
-        "C-11118",
-        "C-11122",
-        "C-11123",
-        "C-11124",
-        "C-11125",
-        "C-11127",
-        "C-11128",
-        "C-11129",
-        "C-11130",
-        "C-11131",
-        "C-11132",
-        "C-11133",
-        "C-11134",
-        "C-11135",
-        "C-11136",
-        "C-11137",
-        "C-11138",
-        "C-11139",
-        "C-11140",
-        "C-11141",
-        "C-11142",
-        "C-11143",
-        "C-11144",
-        "C-11145",
-        "C-11146",
-        "C-11147",
-        "C-11148",
-        "C-11149",
-        "C-11150",
-        "C-11151",
-        "C-11152",
-        "C-11153",
-        "C-11154",
-        "C-11155",
-        "C-11156",
-        "C-11157",
-        "C-11158",
-        "C-11159",
-        "C-11160",
-        "C-11161",
-        "C-11162",
-        "C-11163",
-        "C-11164",
-        "C-11165",
-        "C-11166",
-        "C-11167",
-        "C-11168",
-        "C-11169",
-        "C-11170",
-        "C-11171",
-        "C-11172",
-        "C-11173",
-        "C-11174",
-        "C-11175",
-        "C-11176",
-        "C-11177",
-        "C-11178",
-        "C-11179",
-        "C-11180",
-        "C-11181"
+        "C-5434",
+        "C-5436",
+        "C-5438",
+        "C-5439",
+        "C-5440",
+        "C-5448",
+        "C-5449",
+        "C-5450",
+        "C-5451",
+        "C-5455",
+        "C-5456",
+        "C-5457",
+        "C-5459",
+        "C-5461",
+        "C-5462",
+        "C-5463",
+        "C-5464",
+        "C-5465",
+        "C-5466",
+        "C-5467",
+        "C-5468",
+        "C-5469",
+        "C-5470",
+        "C-5471",
+        "C-5472",
+        "C-5473",
+        "C-5474",
+        "C-5476",
+        "C-5478",
+        "C-5479",
+        "C-5480",
+        "C-5481",
+        "C-5485",
+        "C-5486",
+        "C-5488",
+        "C-5489",
+        "C-5491",
+        "C-5492",
+        "C-5493",
+        "C-5496",
+        "C-5497",
+        "C-5498",
+        "C-5499",
+        "C-5500",
+        "C-5501",
+        "C-5502",
+        "C-5503",
+        "C-5504",
+        "C-5505",
+        "C-5506",
+        "C-5507",
+        "C-5508",
+        "C-5509",
+        "C-5510",
+        "C-5513",
+        "C-5514",
+        "C-5515",
+        "C-5516",
+        "C-5517",
+        "C-5518",
+        "C-5519",
+        "C-5520",
+        "C-5521",
+        "C-5522"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -885,7 +885,7 @@
       "description": "TPUSA executive whom the host says she called a sexual deviant.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11128"
+        "C-5456"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -902,8 +902,8 @@
       "description": "Kanye West; the host recounts his call with Taylor Swift about the song lyric.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11141",
-        "C-11142"
+        "C-5471",
+        "C-5472"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -920,7 +920,7 @@
       "description": "Dave Rubin; the host cites the previous day's Rubin matter.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11178"
+        "C-5519"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -937,7 +937,7 @@
       "description": "Blake Neff; named by the host in an open invitation to TPUSA people.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11174"
+        "C-5515"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -954,7 +954,7 @@
       "description": "Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising role at TPUSA.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11180"
+        "C-5521"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -971,7 +971,7 @@
       "description": "Glenn Beck; the host says Erika Kirk made her night-before statement to him.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11126"
+        "C-5452"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -988,7 +988,7 @@
       "description": "Brian Harpole; named by the host as one of the sources of conflicting drone answers.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11125"
+        "C-5451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1005,7 +1005,7 @@
       "description": "Dan Flood; the host says TPUSA told her Charlie also messaged him the night before.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11127"
+        "C-5455"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1022,7 +1022,7 @@
       "description": "Kim Kardashian; the host says she released video receipts of the Kanye and Swift call.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11141"
+        "C-5471"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1039,7 +1039,7 @@
       "description": "Bella Hadid; named as the sister of Anwar Hadid.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11169"
+        "C-5508"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1056,20 +1056,20 @@
       "description": "Turning Point USA; sender of the cease and desist letter and subject of the host's remarks.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11119",
-        "C-11120",
-        "C-11121",
-        "C-11129",
-        "C-11132",
-        "C-11133",
-        "C-11134",
-        "C-11135",
-        "C-11137",
-        "C-11138",
-        "C-11174",
-        "C-11175",
-        "C-11176",
-        "C-11181"
+        "C-5441",
+        "C-5443",
+        "C-5444",
+        "C-5457",
+        "C-5462",
+        "C-5463",
+        "C-5464",
+        "C-5465",
+        "C-5467",
+        "C-5468",
+        "C-5515",
+        "C-5516",
+        "C-5517",
+        "C-5522"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1086,7 +1086,7 @@
       "description": "Existing topic reused for the DOGE claim in this episode.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11114"
+        "C-5434"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1103,7 +1103,7 @@
       "description": "Existing topic reused for the conflicting drone answers claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11125"
+        "C-5451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1120,8 +1120,8 @@
       "description": "Existing topic reused for claims about Charlie's night-before messages.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11126",
-        "C-11127"
+        "C-5452",
+        "C-5455"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1138,8 +1138,8 @@
       "description": "Existing topic reused for the host's requests about Erika Kirk's whereabouts (the letter's 'Fort Huachuca' is this Fort Huachuca question).",
       "related_artifacts": [],
       "related_claims": [
-        "C-11130",
-        "C-11131"
+        "C-5459",
+        "C-5461"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1156,7 +1156,7 @@
       "description": "Existing topic reused for the conflicting drone answers claim.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11125"
+        "C-5451"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1173,12 +1173,12 @@
       "description": "Existing topic for the Lively and Baldoni litigation, reused for the Swift texts claims.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11139",
-        "C-11140",
-        "C-11143",
-        "C-11144",
-        "C-11145",
-        "C-11146"
+        "C-5469",
+        "C-5470",
+        "C-5473",
+        "C-5474",
+        "C-5476",
+        "C-5478"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1195,7 +1195,7 @@
       "description": "Turning Point Action; named in the letter as an affiliate whose people are the target of the host's allegations.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11132"
+        "C-5462"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1212,8 +1212,8 @@
       "description": "Existing topic reused for the host's remarks on TPUSA firings.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11172",
-        "C-11173"
+        "C-5513",
+        "C-5514"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1230,27 +1230,27 @@
       "description": "Existing topic reused for claims about the cease and desist letter and the host's response.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11115",
-        "C-11116",
-        "C-11117",
-        "C-11118",
-        "C-11119",
-        "C-11120",
-        "C-11121",
-        "C-11122",
-        "C-11123",
-        "C-11124",
-        "C-11128",
-        "C-11129",
-        "C-11132",
-        "C-11135",
-        "C-11136",
-        "C-11137",
-        "C-11138",
-        "C-11171",
-        "C-11179",
-        "C-11180",
-        "C-11181"
+        "C-5436",
+        "C-5438",
+        "C-5439",
+        "C-5440",
+        "C-5441",
+        "C-5443",
+        "C-5444",
+        "C-5448",
+        "C-5449",
+        "C-5450",
+        "C-5456",
+        "C-5457",
+        "C-5462",
+        "C-5465",
+        "C-5466",
+        "C-5467",
+        "C-5468",
+        "C-5510",
+        "C-5520",
+        "C-5521",
+        "C-5522"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1267,7 +1267,7 @@
       "description": "First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11140"
+        "C-5470"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1284,7 +1284,7 @@
       "description": "First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). Singer the host says performed the late-night set at the Beckham wedding.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11159"
+        "C-5498"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1301,7 +1301,7 @@
       "description": "First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11164"
+        "C-5503"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1318,7 +1318,7 @@
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Peltz'). Father of Nicola Peltz; the host says he sued over a wedding contract.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11166"
+        "C-5505"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1335,7 +1335,7 @@
       "description": "First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11167"
+        "C-5506"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1352,7 +1352,7 @@
       "description": "First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11168"
+        "C-5507"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1369,7 +1369,7 @@
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). The host says he dated Nicola Peltz.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11169"
+        "C-5508"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1386,25 +1386,25 @@
       "description": "Brooklyn Beckham's public Instagram statement about his family and the host's account of the wedding dress, dance, seating and contract disputes.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11147",
-        "C-11148",
-        "C-11149",
-        "C-11150",
-        "C-11151",
-        "C-11152",
-        "C-11153",
-        "C-11154",
-        "C-11155",
-        "C-11156",
-        "C-11157",
-        "C-11158",
-        "C-11159",
-        "C-11160",
-        "C-11161",
-        "C-11162",
-        "C-11163",
-        "C-11166",
-        "C-11170"
+        "C-5479",
+        "C-5480",
+        "C-5481",
+        "C-5485",
+        "C-5486",
+        "C-5488",
+        "C-5489",
+        "C-5491",
+        "C-5492",
+        "C-5493",
+        "C-5496",
+        "C-5497",
+        "C-5498",
+        "C-5499",
+        "C-5500",
+        "C-5501",
+        "C-5502",
+        "C-5505",
+        "C-5509"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1421,8 +1421,8 @@
       "description": "Lawsuit the host says Nicola Peltz brought against a mobile dog-grooming company after her Chihuahua died.",
       "related_artifacts": [],
       "related_claims": [
-        "C-11164",
-        "C-11165"
+        "C-5503",
+        "C-5504"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -1434,8 +1434,8 @@
   "claims": [
     {
       "@type": "Claim",
-      "@id": "C-2158",
-      "ref": "C-2158",
+      "@id": "C-5431",
+      "ref": "C-5431",
       "label": "TPUSA cease and desist letter sent approximately January 19–20, 2026",
       "claim": "The host says she received a cease and desist letter from Turning Point USA, her first legal letter of 2026, when it was 20 days into January.",
       "anchored_artifacts": [
@@ -1453,8 +1453,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2159",
-      "ref": "C-2159",
+      "@id": "C-5460",
+      "ref": "C-5460",
       "label": "TPUSA demands cessation of statements implying TPUSA involvement in Kirk assassination",
       "claim": "The TPUSA letter demands that Owens cease stating or implying that TPUSA or its personnel played any part in, knew about beforehand, participated in the day of, or covered up the truth about the Kirk assassination.",
       "anchored_artifacts": [
@@ -1473,8 +1473,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2160",
-      "ref": "C-2160",
+      "@id": "C-5458",
+      "ref": "C-5458",
       "label": "TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at \"Fort Huachuca\"",
       "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erika Kirk was at \"Fort Huachuca\" in or around an alleged secret meeting Owens has linked to the assassination.",
       "anchored_artifacts": [
@@ -1493,8 +1493,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2161",
-      "ref": "C-2161",
+      "@id": "C-5453",
+      "ref": "C-5453",
       "label": "TPUSA alleges Owens claimed TPUSA Faith infiltrated by military operatives",
       "claim": "The TPUSA letter alleges that Owens claimed there are \"not good people\" at TPUSA and suggested that TPUSA and TPUSA Faith have been infiltrated by military operatives.",
       "anchored_artifacts": [
@@ -1512,8 +1512,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2162",
-      "ref": "C-2162",
+      "@id": "C-5446",
+      "ref": "C-5446",
       "label": "TPUSA alleges Owens stated \"definitely financial impropriety\" at TPUSA",
       "claim": "The TPUSA letter alleges that Owens \"has stated that there is definitely financial impropriety at the company.\"",
       "anchored_artifacts": [
@@ -1531,8 +1531,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2163",
-      "ref": "C-2163",
+      "@id": "C-5447",
+      "ref": "C-5447",
       "label": "TPUSA alleges Owens published a \"list of lies\" attributed to TPUSA",
       "claim": "The TPUSA letter alleges that Owens has published a \"list of lies\" that she attributes to Turning Point USA.",
       "anchored_artifacts": [
@@ -1551,8 +1551,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2164",
-      "ref": "C-2164",
+      "@id": "C-5442",
+      "ref": "C-5442",
       "label": "TPUSA states 12-month non-disparagement obligation remains in effect post-termination",
       "claim": "The TPUSA letter states that Owens's non-disparagement obligation remains in effect for 12 months following the term of her agreements, which were terminated on December 2, 2025.",
       "anchored_artifacts": [
@@ -1570,8 +1570,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2165",
-      "ref": "C-2165",
+      "@id": "C-5437",
+      "ref": "C-5437",
       "label": "TPUSA alleges Owens declined retraction on December 15, 2025",
       "claim": "The TPUSA letter states that Owens was requested on December 15, 2025, to retract her disparaging statements and declined to do so.",
       "anchored_artifacts": [
@@ -1589,8 +1589,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2166",
-      "ref": "C-2166",
+      "@id": "C-5432",
+      "ref": "C-5432",
       "label": "Tim Dillon assessed TPUSA as primarily motivated by money",
       "claim": "In a clip the host plays, Tim Dillon says TPUSA wants people's money and wants to be celebrities, and that they are mad because Owens told her audience not to give TPUSA money.",
       "anchored_artifacts": [
@@ -1610,8 +1610,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2167",
-      "ref": "C-2167",
+      "@id": "C-5433",
+      "ref": "C-5433",
       "label": "Candace Owens concurs with Tim Dillon's money-motive assessment",
       "claim": "Owens adopts Tim Dillon's assessment that TPUSA's principal concern is money/revenue, citing the cease and desist as confirmation.",
       "anchored_artifacts": [
@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2168",
-      "ref": "C-2168",
+      "@id": "C-5435",
+      "ref": "C-5435",
       "label": "Owens states speaking arrangement with TPUSA began ~2019–2020",
       "claim": "Owens states she has had a speaking contract with Turning Point USA \"going back to like what 2019 2020.\"",
       "anchored_artifacts": [
@@ -1651,8 +1651,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2169",
-      "ref": "C-2169",
+      "@id": "C-5445",
+      "ref": "C-5445",
       "label": "TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025",
       "claim": "The host reads the TPUSA letter, which states that Owens's agreements with TPUSA were terminated on December 2, 2025.",
       "anchored_artifacts": [
@@ -1670,8 +1670,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2170",
-      "ref": "C-2170",
+      "@id": "C-5454",
+      "ref": "C-5454",
       "label": "Owens claims Rob McCoy defended a person who was imprisoned for child molestation",
       "claim": "Owens states that Rob McCoy is \"defending somebody who went to prison for molesting kids.\"",
       "anchored_artifacts": [
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2171",
-      "ref": "C-2171",
+      "@id": "C-5482",
+      "ref": "C-5482",
       "label": "Brooklyn Beckham publicly states he does not wish to reconcile with his family",
       "claim": "Brooklyn Beckham, via Instagram Stories, states \"I do not want to reconcile with my family.\"",
       "anchored_artifacts": [
@@ -1707,8 +1707,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2172",
-      "ref": "C-2172",
+      "@id": "C-5483",
+      "ref": "C-5483",
       "label": "Brooklyn claims Victoria Beckham cancelled making Nicola's wedding dress in the 11th hour",
       "claim": "Brooklyn Beckham alleges that his mother cancelled making Nicola Peltz's dress shortly before the wedding, forcing an urgent replacement.",
       "anchored_artifacts": [
@@ -1726,8 +1726,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2173",
-      "ref": "C-2173",
+      "@id": "C-5484",
+      "ref": "C-5484",
       "label": "Brooklyn claims family pressured him to sign away rights to his name before the wedding",
       "claim": "Brooklyn Beckham alleges that his parents \"repeatedly pressured and attempted to bribe me into signing away the rights to my name\" before his wedding.",
       "anchored_artifacts": [
@@ -1745,8 +1745,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2174",
-      "ref": "C-2174",
+      "@id": "C-5487",
+      "ref": "C-5487",
       "label": "Brooklyn claims mother called him \"evil\" at the wedding over seating",
       "claim": "Brooklyn Beckham alleges his mother called him \"evil\" because he and Nicola chose to include his nanny and Nicola's nanny, two grandparents whose husbands were not there, at their table.",
       "anchored_artifacts": [
@@ -1764,8 +1764,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2175",
-      "ref": "C-2175",
+      "@id": "C-5490",
+      "ref": "C-5490",
       "label": "Brooklyn claims mother hijacked his first dance with his wife",
       "claim": "Brooklyn Beckham alleges that his mother hijacked what had been planned as his romantic first dance with Nicola: Marc Anthony called him to the stage, and his mother danced inappropriately with him in front of the guests.",
       "anchored_artifacts": [
@@ -1785,8 +1785,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2176",
-      "ref": "C-2176",
+      "@id": "C-5494",
+      "ref": "C-5494",
       "label": "Vogue reports first dance was to \"Only Fools Rush In\" performed by Lloyiso",
       "claim": "The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to \"Only Fools Rush In,\" performed by South African artist Lloyiso.",
       "anchored_artifacts": [
@@ -1803,8 +1803,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2177",
-      "ref": "C-2177",
+      "@id": "C-5495",
+      "ref": "C-5495",
       "label": "Vogue reports Marc Anthony performed at late-night portion of wedding (11 p.m.)",
       "claim": "The host reads from the Vogue wedding article that Marc Anthony took over the DJ decks to close out the celebrations; she says his late-night set started at 11 p.m.",
       "anchored_artifacts": [
@@ -1820,8 +1820,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2178",
-      "ref": "C-2178",
+      "@id": "C-5475",
+      "ref": "C-5475",
       "label": "Host Says Taylor Swift Text Message References Justin Baldoni's \"Tiny Violin\" (December 2024)",
       "claim": "The host says Taylor Swift texted Blake Lively in early December 2024 stating, regarding the impending New York Times piece on Baldoni, \"I think he knows something is coming because he's got out his tiny violin.\"",
       "anchored_artifacts": [
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2179",
-      "ref": "C-2179",
+      "@id": "C-5477",
+      "ref": "C-5477",
       "label": "Host Says Sony Executives Described Blake Lively as \"Terrorist\" in Text Messages",
       "claim": "The host says Sony executives described Blake Lively as a \"terrorist\" in text messages supporting Justin Baldoni's account.",
       "anchored_artifacts": [
@@ -1857,8 +1857,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2180",
-      "ref": "C-2180",
+      "@id": "C-5511",
+      "ref": "C-5511",
       "label": "TPUSA reportedly fired approximately 40 (or 15) employees for leaking information",
       "claim": "A viewer comment the host reads says TPUSA \"fired 40 people for leaking info but kept the head of security after the biggest possible failure\"; the host says she did not hear it was 40 but heard it was a lot of people, and that it sounded like 15.",
       "anchored_artifacts": [
@@ -1876,8 +1876,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-2181",
-      "ref": "C-2181",
+      "@id": "C-5512",
+      "ref": "C-5512",
       "label": "Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would \"Know What to Do\"",
       "claim": "The host says an unnamed donor present at the Aspen event recalls Charlie Kirk mentioning Erika Kirk, saying that if something happened, Erika would know what to do.",
       "anchored_artifacts": [
@@ -1896,8 +1896,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11114",
-      "ref": "C-11114",
+      "@id": "C-5434",
+      "ref": "C-5434",
       "label": "Host says she broke the story that Charlie Kirk established a DOGE seven days before he died",
       "claim": "The host says her show 'broke the story' that Charlie Kirk established a DOGE seven days before he died, and that the public reasonably speculated it was tied to TPUSA's finances.",
       "anchored_artifacts": [
@@ -1914,7 +1914,7 @@
       "investigative_direction": "Obtain the internal TPUSA memo or email that requested the DOGE and its date, and compare with the host's earlier reporting.",
       "transcript_snippet": "So we obviously broke the story about Charlie establishing a Doge 7 days before he died",
       "supports_claim_refs": [
-        "C-5092"
+        "C-3541"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -1923,8 +1923,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11115",
-      "ref": "C-11115",
+      "@id": "C-5436",
+      "ref": "C-5436",
       "label": "Host says her TPUSA contract was meant to run a couple more years and she moved to terminate it",
       "claim": "The host says that, given the assassination and where her investigation went, she moved to terminate her speaking agreement with TPUSA, which was supposed to run for another couple of years.",
       "anchored_artifacts": [
@@ -1946,8 +1946,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11116",
-      "ref": "C-11116",
+      "@id": "C-5438",
+      "ref": "C-5438",
       "label": "TPUSA letter says Owens told them she does not feel differently and thinks there are shady people at TPUSA",
       "claim": "According to the letter as read, Owens declined to retract and has said she 'doesn't feel any differently about people that she mentioned on the show' and thinks there are shady people at TPUSA.",
       "anchored_artifacts": [
@@ -1969,8 +1969,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11117",
-      "ref": "C-11117",
+      "@id": "C-5439",
+      "ref": "C-5439",
       "label": "Host says she sat down with Erika Kirk and Justin Streiff in a discussion she appreciated",
       "claim": "The host says she had an 'open book' discussion with Erika Kirk and Justin Streiff, and that TPUSA's position is that she should afterwards have publicly said they were amazing.",
       "anchored_artifacts": [
@@ -1993,8 +1993,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11118",
-      "ref": "C-11118",
+      "@id": "C-5440",
+      "ref": "C-5440",
       "label": "Host says TPUSA conceded points to her in the Erika Kirk and Justin Streiff meeting",
       "claim": "The host says that in the sit-down meeting TPUSA answered things and 'conceded points' to her, which is why she did not change her public position.",
       "anchored_artifacts": [
@@ -2010,7 +2010,7 @@
       "investigative_direction": "Identify which specific points the host says were conceded and obtain any notes or recording of the meeting.",
       "transcript_snippet": "I came out and I told the truth and things that were answered and actually what ended up happening was you conceded points to me.",
       "supports_claim_refs": [
-        "C-6778"
+        "C-4491"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2020,8 +2020,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11119",
-      "ref": "C-11119",
+      "@id": "C-5441",
+      "ref": "C-5441",
       "label": "TPUSA letter says it is calculating the full extent of accruing damages",
       "claim": "According to the letter as read, TPUSA says Owens's statements continue to cause harm and it is 'currently working to calculate the full extent to date of the still accruing damages.'",
       "anchored_artifacts": [
@@ -2044,8 +2044,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11120",
-      "ref": "C-11120",
+      "@id": "C-5443",
+      "ref": "C-5443",
       "label": "TPUSA letter describes the scope of Owens's non-disparagement obligation",
       "claim": "According to the letter as read, Owens's obligation covers any disparaging, false, misleading or defamatory comments about TPUSA and its employees, agents, directors, officers, affiliate programs or services, and was undertaken in exchange for payment, support and access.",
       "anchored_artifacts": [
@@ -2068,8 +2068,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11121",
-      "ref": "C-11121",
+      "@id": "C-5444",
+      "ref": "C-5444",
       "label": "TPUSA letter says its executives repeatedly offered information by phone, text and in person",
       "claim": "According to the letter as read, TPUSA executives have repeatedly made themselves available by phone, text and in-person meetings to provide information and documentation to Owens.",
       "anchored_artifacts": [
@@ -2092,8 +2092,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11122",
-      "ref": "C-11122",
+      "@id": "C-5448",
+      "ref": "C-5448",
       "label": "Host says she is speaking to only one person at TPUSA",
       "claim": "The host disputes the letter's claim of repeated executive availability, saying she is 'speaking to one person at Turning Point USA' and had one sit-down.",
       "anchored_artifacts": [
@@ -2109,7 +2109,7 @@
       "investigative_direction": "Obtain the host's communications log with TPUSA and identify the single contact and the one meeting.",
       "transcript_snippet": "That's just not true. I mean, I'm speaking to one person at Turning Point USA, and we had that sit down",
       "contradicts_claim_refs": [
-        "C-11121"
+        "C-5444"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -2117,8 +2117,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11123",
-      "ref": "C-11123",
+      "@id": "C-5449",
+      "ref": "C-5449",
       "label": "TPUSA letter calls Owens's continued statements reckless, knowing and intentional",
       "claim": "According to the letter as read, TPUSA says that despite a reminder letter and good-faith efforts by its leadership, Owens continued making statements in violation of her contract 'in a manner that is reckless, knowing, and intentional.'",
       "anchored_artifacts": [
@@ -2140,8 +2140,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11124",
-      "ref": "C-11124",
+      "@id": "C-5450",
+      "ref": "C-5450",
       "label": "Host says TPUSA corrected nothing on her list of lies and gave excuses such as Andrew went rogue",
       "claim": "The host says that none of the items on her 'list of lies' was corrected by TPUSA, which instead offered excuses such as 'Andrew went rogue.'",
       "anchored_artifacts": [
@@ -2158,7 +2158,7 @@
       "investigative_direction": "Compile the host's published list of lies and TPUSA's responses to each item, with dates.",
       "transcript_snippet": "Which lie on our Turning Point USA list of lies did they correct? Nothing. They gave an excuse for the lies.",
       "supports_claim_refs": [
-        "C-6777"
+        "C-4490"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2167,8 +2167,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11125",
-      "ref": "C-11125",
+      "@id": "C-5451",
+      "ref": "C-5451",
       "label": "Host says TPUSA gave conflicting answers about the drones through Brian Harpole, Andrew Kolvet and its lawyer",
       "claim": "The host says Brian Harpole, Andrew Kolvet and TPUSA's lawyer each gave different answers about the drones.",
       "anchored_artifacts": [
@@ -2192,8 +2192,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11126",
-      "ref": "C-11126",
+      "@id": "C-5452",
+      "ref": "C-5452",
       "label": "Host says Erika Kirk said Charlie never said the night before that he feared dying",
       "claim": "The host says Erika Kirk came out and said she had Charlie's phone and he never said the night before that he was afraid he was going to die, and that she said this to Glenn Beck.",
       "anchored_artifacts": [
@@ -2216,8 +2216,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11127",
-      "ref": "C-11127",
+      "@id": "C-5455",
+      "ref": "C-5455",
       "label": "Host says TPUSA then conceded Charlie had texted in a special app and also messaged Dan Flood",
       "claim": "The host says that after Erika Kirk's statement, TPUSA responded, in her paraphrase, that Charlie did send such a message but they had not known because it was in a 'special' app, and that he also messaged Dan Flood, which they had not known because they were not talking to Flood.",
       "anchored_artifacts": [
@@ -2233,10 +2233,10 @@
       "investigative_direction": "Obtain the night-before messages themselves, the app used and TPUSA's written explanation of why it was not disclosed earlier.",
       "transcript_snippet": "Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Flood.",
       "contradicts_claim_refs": [
-        "C-11126"
+        "C-5452"
       ],
       "supports_claim_refs": [
-        "C-6778"
+        "C-4491"
       ],
       "mentions_person_refs": [
         "N-1",
@@ -2247,8 +2247,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11128",
-      "ref": "C-11128",
+      "@id": "C-5456",
+      "ref": "C-5456",
       "label": "Host says she stands by calling Tyler Bowyer a sexual deviant",
       "claim": "The host says she 'specifically said Tyler Bowyer was a sexual deviant' and stands by it as the truth.",
       "anchored_artifacts": [
@@ -2264,7 +2264,7 @@
       "investigative_direction": "Identify the evidence behind the host's characterization and any records TPUSA could cite to rebut it.",
       "transcript_snippet": "I specifically said Tyler Bowyer was a sexual deviant. I stand by that. It's the truth.",
       "supports_claim_refs": [
-        "C-9604"
+        "C-2435"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2273,8 +2273,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11129",
-      "ref": "C-11129",
+      "@id": "C-5457",
+      "ref": "C-5457",
       "label": "Host says there are people at TPUSA who are not good people",
       "claim": "The host says she knows there are people at TPUSA who are not good people and stands by that.",
       "anchored_artifacts": [
@@ -2296,8 +2296,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11130",
-      "ref": "C-11130",
+      "@id": "C-5459",
+      "ref": "C-5459",
       "label": "Host says she asked for something about Erika Kirk's whereabouts multiple times over weeks and got excuses",
       "claim": "The host says she requested the Fort 'Huachuca' confirmation multiple times over weeks and each time was given an excuse, including that Erika Kirk was busy and then appeared at a game.",
       "anchored_artifacts": [
@@ -2320,8 +2320,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11131",
-      "ref": "C-11131",
+      "@id": "C-5461",
+      "ref": "C-5461",
       "label": "Host says TPUSA still has not sent what she asked for",
       "claim": "The host says that to date TPUSA has not sent what she asked for and says that is why she told the truth in saying so.",
       "anchored_artifacts": [
@@ -2343,8 +2343,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11132",
-      "ref": "C-11132",
+      "@id": "C-5462",
+      "ref": "C-5462",
       "label": "TPUSA letter says Owens has not ended a flood of allegations against TPUSA, Turning Point Action and Charlie Kirk Show staff",
       "claim": "According to the letter as read, Owens has not put an end to what she 'expressly admitted' is a flood of allegations against people at TPUSA, Turning Point Action and the Charlie Kirk Show.",
       "anchored_artifacts": [
@@ -2367,8 +2367,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11133",
-      "ref": "C-11133",
+      "@id": "C-5463",
+      "ref": "C-5463",
       "label": "Host says TPUSA lying makes a cover-up a fair and reasonable assessment",
       "claim": "The host says that because TPUSA is lying, it is a fair and reasonable assessment that it is engaged in a cover-up, and lists possible reasons: protecting mistakes, protecting the organization from bad actors, loyalty, or blackmail.",
       "anchored_artifacts": [],
@@ -2387,8 +2387,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11134",
-      "ref": "C-11134",
+      "@id": "C-5464",
+      "ref": "C-5464",
       "label": "Host says she has barely covered TPUSA's finances",
       "claim": "The host says she is not saying TPUSA spends only one cent of each dollar on its stated purpose, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.",
       "anchored_artifacts": [],
@@ -2408,8 +2408,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11135",
-      "ref": "C-11135",
+      "@id": "C-5465",
+      "ref": "C-5465",
       "label": "Host says her coverage is about the backgrounds of the people taking over TPUSA",
       "claim": "The host says the thrust of her coverage is the backgrounds of the people taking over TPUSA and that she will continue to be honest about it.",
       "anchored_artifacts": [],
@@ -2429,8 +2429,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11136",
-      "ref": "C-11136",
+      "@id": "C-5466",
+      "ref": "C-5466",
       "label": "Host Says Kirk's Assassination Was an Unforeseeable Circumstance Under Her Contract",
       "claim": "The host says she asked her lawyer how TPUSA could use the non-disparagement clause, and that she thinks it would be fair to argue Charlie Kirk's public assassination was an unforeseeable circumstance when she signed, adding that there are strong arguments about unconscionable clauses and that it would be unconscionable for her to choose silence.",
       "anchored_artifacts": [],
@@ -2451,8 +2451,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11137",
-      "ref": "C-11137",
+      "@id": "C-5467",
+      "ref": "C-5467",
       "label": "Host says she told her lawyer to ask TPUSA how much money it wants",
       "claim": "The host says she instructed her lawyer to go back to TPUSA and ask 'How much money do you want?' to release her from the contract.",
       "anchored_artifacts": [],
@@ -2472,8 +2472,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11138",
-      "ref": "C-11138",
+      "@id": "C-5468",
+      "ref": "C-5468",
       "label": "Host says she would start a GoFundMe to raise whatever sum TPUSA names",
       "claim": "The host says that if TPUSA names a price to release her from the contract she will start a GoFundMe and raise it overnight.",
       "anchored_artifacts": [],
@@ -2493,8 +2493,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11139",
-      "ref": "C-11139",
+      "@id": "C-5469",
+      "ref": "C-5469",
       "label": "Host says she has a chapter on Taylor Swift in Make Him a Sandwich",
       "claim": "The host says her book Make Him a Sandwich has a whole chapter documenting Taylor Swift's behavior and that she had predicted Swift would survive the Lively dispute.",
       "anchored_artifacts": [],
@@ -2514,8 +2514,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11140",
-      "ref": "C-11140",
+      "@id": "C-5470",
+      "ref": "C-5470",
       "label": "Host says Swift's publicist Tree told her to cut off Blake Lively",
       "claim": "The host says Swift's publicist, 'Tree,' told her to cut that friend off in order to save her, and later that Swift was smart to pull back from Lively when the publicist saw which way the wind was blowing.",
       "anchored_artifacts": [
@@ -2539,8 +2539,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11141",
-      "ref": "C-11141",
+      "@id": "C-5471",
+      "ref": "C-5471",
       "label": "Host says Kanye had video of Swift on the call and Kim Kardashian released receipts",
       "claim": "The host says Kanye West had video of his call with Taylor Swift about the song lyric and that Kim Kardashian released the receipts after Swift's side denied it.",
       "anchored_artifacts": [],
@@ -2560,8 +2560,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11142",
-      "ref": "C-11142",
+      "@id": "C-5472",
+      "ref": "C-5472",
       "label": "Host says Swift's statement asked where the video was of Kanye saying he would call her that",
       "claim": "The host says Swift's statement asked 'where is the video of Kanye telling me that he was going to call me that in his song,' and that the host found it not honest.",
       "anchored_artifacts": [],
@@ -2580,8 +2580,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11143",
-      "ref": "C-11143",
+      "@id": "C-5473",
+      "ref": "C-5473",
       "label": "Host says Swift knew Lively would file harassment complaints to get the publishing rights",
       "claim": "The host says Swift's released messages show she knew Blake Lively was going to file sexual harassment complaints to get publishing rights and take over the movie.",
       "anchored_artifacts": [
@@ -2605,8 +2605,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11144",
-      "ref": "C-11144",
+      "@id": "C-5474",
+      "ref": "C-5474",
       "label": "Host says Lively texted Swift about the script scene on the way to the apartment and Swift agreed to join",
       "claim": "The host says that while Swift was on her way to the apartment, Blake Lively texted her about the script scene she wanted replaced, and Swift replied she was in.",
       "anchored_artifacts": [
@@ -2629,8 +2629,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11145",
-      "ref": "C-11145",
+      "@id": "C-5476",
+      "ref": "C-5476",
       "label": "Host says Swift's fans would give Lively an effective majority",
       "claim": "The host says Swift's messages joked that Baldoni would be smart not to let Lively include her because her large fan base would give them an effective majority.",
       "anchored_artifacts": [
@@ -2654,8 +2654,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11146",
-      "ref": "C-11146",
+      "@id": "C-5478",
+      "ref": "C-5478",
       "label": "Host says Baldoni ended up in a hospital from stress",
       "claim": "The host says it was known that Justin Baldoni ended up in a hospital because he was so stressed.",
       "anchored_artifacts": [
@@ -2677,8 +2677,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11147",
-      "ref": "C-11147",
+      "@id": "C-5479",
+      "ref": "C-5479",
       "label": "Host says Brooklyn Beckham does not speak to his brothers, his sister or his parents",
       "claim": "The host says Brooklyn Beckham does not speak to his two brothers, his 14-year-old sister or his parents, has unfollowed them on Instagram and blocked his family.",
       "anchored_artifacts": [
@@ -2700,8 +2700,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11148",
-      "ref": "C-11148",
+      "@id": "C-5480",
+      "ref": "C-5480",
       "label": "Host says Nicola Peltz wanted Victoria Beckham to design her dress but it fell through and she wore Valentino Couture",
       "claim": "The host says Nicola Peltz allegedly wanted Victoria Beckham to design her wedding dress, that this fell through, and that she wore a Valentino Couture dress instead.",
       "anchored_artifacts": [
@@ -2724,8 +2724,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11149",
-      "ref": "C-11149",
+      "@id": "C-5481",
+      "ref": "C-5481",
       "label": "Host says Brooklyn and Nicola held a second wedding last August without the Beckhams",
       "claim": "The host says that last August Brooklyn and Nicola held a secondary wedding without any of the Beckhams, about four years after the first.",
       "anchored_artifacts": [
@@ -2748,8 +2748,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11150",
-      "ref": "C-11150",
+      "@id": "C-5485",
+      "ref": "C-5485",
       "label": "Host says a receipt shows Nicola's dress was in the making for a year",
       "claim": "The host says someone produced a receipt showing Nicola Peltz's dress had been in the making for a year, which she sets against Brooklyn's claim that his mother cancelled it at the 11th hour.",
       "anchored_artifacts": [
@@ -2765,7 +2765,7 @@
       "investigative_direction": "Identify the receipt, who produced it, and what it documents about the dress commission.",
       "transcript_snippet": "Somebody then pulled up a receipt and her dress was in the making for a year.",
       "contradicts_claim_refs": [
-        "C-2172"
+        "C-5483"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2776,8 +2776,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11151",
-      "ref": "C-11151",
+      "@id": "C-5486",
+      "ref": "C-5486",
       "label": "Brooklyn says his parents were adamant he sign before the wedding and his holdout affected a payday",
       "claim": "According to Brooklyn Beckham's stories as read, his parents were adamant he sign the rights to his name before the wedding date, his holdout affected the payday, and they have never treated him the same since.",
       "anchored_artifacts": [
@@ -2801,8 +2801,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11152",
-      "ref": "C-11152",
+      "@id": "C-5488",
+      "ref": "C-5488",
       "label": "Brooklyn says both sets of parents had their own table equally adjacent to the couple's",
       "claim": "According to Brooklyn Beckham's stories as read, both sets of parents had their own table equally adjacent to the couple's.",
       "anchored_artifacts": [
@@ -2824,8 +2824,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11153",
-      "ref": "C-11153",
+      "@id": "C-5489",
+      "ref": "C-5489",
       "label": "Brooklyn says the night before the wedding family told him Nicola was not blood and not family",
       "claim": "According to Brooklyn Beckham's stories as read, the night before the wedding members of his family told him Nicola was not blood and not family.",
       "anchored_artifacts": [
@@ -2848,8 +2848,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11154",
-      "ref": "C-11154",
+      "@id": "C-5491",
+      "ref": "C-5491",
       "label": "Brooklyn says attacks were sent to the press on his parents' orders and the host says no evidence was offered",
       "claim": "According to Brooklyn Beckham's stories as read, his parents sent endless private and public attacks to the press on their orders and his brothers attacked him on social media before blocking him; the host says there is no evidence of that.",
       "anchored_artifacts": [
@@ -2871,8 +2871,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11155",
-      "ref": "C-11155",
+      "@id": "C-5492",
+      "ref": "C-5492",
       "label": "Brooklyn says his mother danced very inappropriately on him before 500 wedding guests",
       "claim": "According to Brooklyn Beckham's stories as read, in front of 500 wedding guests his mother danced very inappropriately on him instead of the planned romantic first dance.",
       "anchored_artifacts": [
@@ -2895,8 +2895,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11156",
-      "ref": "C-11156",
+      "@id": "C-5493",
+      "ref": "C-5493",
       "label": "Host says Vogue shows the disputed dance was actually the couple's third dance",
       "claim": "The host says the Vogue article shows the couple had multiple dances and that the one Brooklyn calls the hijacked first dance was actually their third.",
       "anchored_artifacts": [
@@ -2912,7 +2912,7 @@
       "investigative_direction": "Compare the Vogue sequence with wedding video to establish the order of the dances.",
       "transcript_snippet": "I'll tell you what's going on, guys. This was actually their third dance.",
       "contradicts_claim_refs": [
-        "C-2175"
+        "C-5490"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2922,8 +2922,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11157",
-      "ref": "C-11157",
+      "@id": "C-5496",
+      "ref": "C-5496",
       "label": "Vogue article says David Beckham and Brooklyn's brothers gave speeches",
       "claim": "According to the Vogue article as read, speeches came from Brooklyn, the best men, his brothers Romeo and Cruz, and David Beckham, who delivered a tribute to his eldest son and new daughter-in-law.",
       "anchored_artifacts": [
@@ -2946,8 +2946,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11158",
-      "ref": "C-11158",
+      "@id": "C-5497",
+      "ref": "C-5497",
       "label": "Host says attendees describe a first dance, a father dance, another dance and an 11 p.m. late-night set",
       "claim": "The host says that according to people at the wedding, there was a first dance, a dance with her father, another dance with Brooklyn, and then the late night starting at 11 p.m.",
       "anchored_artifacts": [
@@ -2970,8 +2970,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11159",
-      "ref": "C-11159",
+      "@id": "C-5498",
+      "ref": "C-5498",
       "label": "Host says Marc Anthony called Victoria Beckham to the floor at 11 p.m.",
       "claim": "The host says she does not doubt that Marc Anthony announced 'the most beautiful woman to the floor' and then named Victoria Beckham.",
       "anchored_artifacts": [
@@ -2987,7 +2987,7 @@
       "investigative_direction": "Review wedding video of Marc Anthony's late-night set.",
       "transcript_snippet": "Marc Anthony said, \"Now inviting the most beautiful woman to the floor.\" And then he said, \"Victoria Beckham.\"",
       "supports_claim_refs": [
-        "C-2175"
+        "C-5490"
       ],
       "mentions_person_refs": [
         "N-3",
@@ -2997,8 +2997,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11160",
-      "ref": "C-11160",
+      "@id": "C-5499",
+      "ref": "C-5499",
       "label": "Brooklyn says his mother repeatedly invited women from his past to make them uncomfortable",
       "claim": "According to Brooklyn Beckham's stories as read, his mother repeatedly invited women from his past into their lives to make him and Nicola uncomfortable; the host says it refers to a brother's girlfriend.",
       "anchored_artifacts": [
@@ -3021,8 +3021,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11161",
-      "ref": "C-11161",
+      "@id": "C-5500",
+      "ref": "C-5500",
       "label": "Brooklyn says his parents rejected them for a week in London around his father's birthday",
       "claim": "According to Brooklyn Beckham's stories as read, they traveled to London for his father's birthday and were rejected for a week while waiting in a hotel, and his father agreed to a meeting only if Nicola was not invited.",
       "anchored_artifacts": [
@@ -3046,8 +3046,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11162",
-      "ref": "C-11162",
+      "@id": "C-5501",
+      "ref": "C-5501",
       "label": "Brooklyn says his mother refused to support Nicola's displaced dogs effort during the LA fires",
       "claim": "According to Brooklyn Beckham's stories as read, the one time Nicola asked for his mother's support to save displaced dogs during the LA fires, his mother refused.",
       "anchored_artifacts": [
@@ -3071,8 +3071,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11163",
-      "ref": "C-11163",
+      "@id": "C-5502",
+      "ref": "C-5502",
       "label": "Host says Brooklyn sent his family a legal letter telling them to contact him through his lawyer",
       "claim": "The host says Brooklyn apparently sent his family a legal letter saying that any contact must go through his lawyer.",
       "anchored_artifacts": [
@@ -3094,8 +3094,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11164",
-      "ref": "C-11164",
+      "@id": "C-5503",
+      "ref": "C-5503",
       "label": "Host says Nicola Peltz hired Marty Singer to sue a mobile dog grooming company after her Chihuahua died",
       "claim": "The host says Nicola Peltz hired Marty Singer to sue a small mobile dog-grooming company after her Chihuahua died, and that she also alleged another dog was injured.",
       "anchored_artifacts": [
@@ -3118,8 +3118,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11165",
-      "ref": "C-11165",
+      "@id": "C-5504",
+      "ref": "C-5504",
       "label": "Host says the autopsy showed fluid on the brain typical of Chihuahuas",
       "claim": "The host says the dog's autopsy showed fluid on the brain, which she says is common in Chihuahuas, and that Peltz still blames the grooming company.",
       "anchored_artifacts": [
@@ -3141,8 +3141,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11166",
-      "ref": "C-11166",
+      "@id": "C-5505",
+      "ref": "C-5505",
       "label": "Host says Nicola Peltz went through three wedding contracts and her father sued over one",
       "claim": "The host says Nicola Peltz went through three different wedding contracts, one of which her father sued over, and the other side sued back.",
       "anchored_artifacts": [],
@@ -3163,8 +3163,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11167",
-      "ref": "C-11167",
+      "@id": "C-5506",
+      "ref": "C-5506",
       "label": "Host says hairstylist Justin Anderson called Nicola Peltz awful and his worst client",
       "claim": "The host says Nicola Peltz's hair stylist from the Transformers movie, Justin Anderson, said she was awful and the worst client he had worked with.",
       "anchored_artifacts": [],
@@ -3183,8 +3183,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11168",
-      "ref": "C-11168",
+      "@id": "C-5507",
+      "ref": "C-5507",
       "label": "Host Says Nicola Peltz's Relationship with Selena Gomez Has Fallen Apart",
       "claim": "The host says Nicola Peltz's relationship with Selena Gomez has fallen apart.",
       "anchored_artifacts": [],
@@ -3203,8 +3203,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11169",
-      "ref": "C-11169",
+      "@id": "C-5508",
+      "ref": "C-5508",
       "label": "Host says Nicola Peltz dated Anwar Hadid and his family was relieved when it ended",
       "claim": "The host says Nicola Peltz was dating Anwar Hadid, Bella Hadid's brother, that he stopped talking to his whole family, and that they were very relieved when the couple broke up, adding 'allegedly' about the family's view of her.",
       "anchored_artifacts": [],
@@ -3224,8 +3224,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11170",
-      "ref": "C-11170",
+      "@id": "C-5509",
+      "ref": "C-5509",
       "label": "Host says David Beckham gave a toast about loving his family at a dinner with no cameras",
       "claim": "The host says David Beckham stood up at a dinner with no cameras and gave a toast about how much he loved and adored his family.",
       "anchored_artifacts": [],
@@ -3246,8 +3246,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11171",
-      "ref": "C-11171",
+      "@id": "C-5510",
+      "ref": "C-5510",
       "label": "Host says Candace Owens kicks off her lawsuit era is trending on X",
       "claim": "The host says she had just seen that 'Candace Owens kicks off her lawsuit era' was trending on X.",
       "anchored_artifacts": [
@@ -3268,8 +3268,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11172",
-      "ref": "C-11172",
+      "@id": "C-5513",
+      "ref": "C-5513",
       "label": "Host says more people are speaking and she is researching new information",
       "claim": "The host calls the TPUSA firings 'weird loyalty tests' that she does not think are going to serve them, and says more people are now speaking and she is getting and researching a lot.",
       "anchored_artifacts": [
@@ -3291,8 +3291,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11173",
-      "ref": "C-11173",
+      "@id": "C-5514",
+      "ref": "C-5514",
       "label": "Host says she does not think the firings count was 40",
       "claim": "The host says she did not hear that 40 people were fired but heard it was a lot, and that it sounded like about 15.",
       "anchored_artifacts": [
@@ -3313,8 +3313,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11174",
-      "ref": "C-11174",
+      "@id": "C-5515",
+      "ref": "C-5515",
       "label": "Host says any TPUSA person, including Blake Neff and Andrew Kolvet, is welcome on her show",
       "claim": "The host says any TPUSA person is welcome on her platform, naming Blake Neff and Andrew Kolvet, and that she is open to being wrong.",
       "anchored_artifacts": [
@@ -3337,8 +3337,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11175",
-      "ref": "C-11175",
+      "@id": "C-5516",
+      "ref": "C-5516",
       "label": "Host says Andrew Kolvet texts people to do his dirty work",
       "claim": "The host says TPUSA spokesperson Andrew Kolvet is texting people to do his dirty work rather than appearing across from her.",
       "anchored_artifacts": [
@@ -3360,8 +3360,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11176",
-      "ref": "C-11176",
+      "@id": "C-5517",
+      "ref": "C-5517",
       "label": "Host says TPUSA said in the meeting she was kind of right about a lot but explained why",
       "claim": "The host says that in the meeting TPUSA told her she was kind of right about a lot of things but explained why it happened, and that she shared those things with her audience.",
       "anchored_artifacts": [
@@ -3377,7 +3377,7 @@
       "investigative_direction": "Obtain notes or a recording of the meeting.",
       "transcript_snippet": "\"Yeah, yeah, no, you were kind of right about a lot of that stuff, but here's why this happened.\"",
       "supports_claim_refs": [
-        "C-6778"
+        "C-4491"
       ],
       "mentions_person_refs": [
         "N-3"
@@ -3385,8 +3385,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11177",
-      "ref": "C-11177",
+      "@id": "C-5518",
+      "ref": "C-5518",
       "label": "Host says politics runs on blackmail, deceit and closeted homosexuals posing as family men",
       "claim": "The host makes a sweeping claim that politics is all about who you can blackmail and lie on, and that people are deceitful and closeted while presenting as family men.",
       "anchored_artifacts": [
@@ -3405,8 +3405,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11178",
-      "ref": "C-11178",
+      "@id": "C-5519",
+      "ref": "C-5519",
       "label": "Host says the Dave Rubin matter the day before proved they hate her because she did right by them",
       "claim": "The host says the Dave Rubin matter from the previous day proved to her that people hate her because they know she is a good person who did right by them.",
       "anchored_artifacts": [
@@ -3426,8 +3426,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11179",
-      "ref": "C-11179",
+      "@id": "C-5520",
+      "ref": "C-5520",
       "label": "Host says a lawsuit would give her depositions, discovery and access to text messages for a timeline",
       "claim": "A viewer comment the host reads says a lawsuit means loads of depositions and discovery; the host says she would then have access to all the text messages and could put together a timeline.",
       "anchored_artifacts": [
@@ -3448,8 +3448,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11180",
-      "ref": "C-11180",
+      "@id": "C-5521",
+      "ref": "C-5521",
       "label": "Host speculates Elizabeth McCoy is rising in the ranks and pushing for the cease and desist",
       "claim": "The host suggests, framed as a possibility, that Elizabeth McCoy is coming up in the ranks at TPUSA and is behind the idea to send the cease and desist.",
       "anchored_artifacts": [
@@ -3471,8 +3471,8 @@
     },
     {
       "@type": "Claim",
-      "@id": "C-11181",
-      "ref": "C-11181",
+      "@id": "C-5522",
+      "ref": "C-5522",
       "label": "Host says her response to TPUSA is that she is happy to pay them since they care about money",
       "claim": "The host says her response to the cease and desist will be that she is happy to pay TPUSA since it cares about money, and that she will report how they reply.",
       "anchored_artifacts": [

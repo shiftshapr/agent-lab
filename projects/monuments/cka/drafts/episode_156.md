@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10b): N-791, N-11151, N-11152
   - Hole-minted Nodes (reintro-ep156): N-10860
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10b): C-7776–C-7835
+  - Claim Range: C-13445–C-13517
   - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855
   - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-159, N-188, N-330, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
   - (see registers)
@@ -41,7 +41,7 @@ Video Timestamp: 00:02:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3531*
+*Related: C-13446*
 
 ---
 
@@ -54,7 +54,7 @@ Video Timestamp: 00:04:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3538*
+*Related: C-13451*
 
 **A-2417.2** Continued post-Big Bang footage showing a Hispanic-looking man from the USA chant group returning to take a hat; the same man is identified by the host as later speaking to the news.
 
@@ -63,7 +63,7 @@ Video Timestamp: 00:04:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3538*
+*Related: C-13451*
 
 ---
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:06:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (image); Medium (timestamp interpretation)
 
-*Related: C-3539, C-3540, N-10853*
+*Related: C-13459, C-13469, N-10853*
 
 ---
 
@@ -89,7 +89,7 @@ Video Timestamp: 00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3532, C-3541, N-10851, N-10855*
+*Related: C-13461, C-13462, N-10851, N-10855*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:12:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (exhaust configuration)
 
-*Related: C-3533, C-3541, N-10851, N-10855*
+*Related: C-13467, C-13462, N-10851, N-10855*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read); Medium (host paraphrase)
 
-*Related: C-3535, N-10852*
+*Related: C-13476, N-10852*
 
 **A-2421.2** Continuation of read-aloud warrant excerpt stating Agent Draney (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick Quack Car Wash at approximately 12:57 PM.
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:18:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (warrant text as read)
 
-*Related: C-3534, C-3535, N-10852*
+*Related: C-13475, C-13476, N-10852*
 
 ---
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:33:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3537*
+*Related: C-13495*
 
 **A-2422.2** Clip from Netanyahu's UN speech in which he cites a "16 times 9/11" statistic comparing Israel's proportional casualties.
 
@@ -146,7 +146,7 @@ Video Timestamp: 00:35:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3537*
+*Related: C-13495*
 
 **A-2422.3** Clip from Netanyahu's UN speech in which he holds up a pager as a prop.
 
@@ -155,7 +155,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3537*
+*Related: C-13495*
 
 ---
 
@@ -181,7 +181,7 @@ Video Timestamp: 00:52:24
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single-viewer report; requires verification against testimony transcript)
 
-*Related: C-3536, N-10854*
+*Related: C-13513, N-10854*
 
 ---
 
@@ -194,7 +194,7 @@ Video Timestamp: 00:10:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single tipster; not corroborated on-air)
 
-*Related: C-3542, N-10855*
+*Related: C-13463, N-10855*
 
 ---
 
@@ -207,7 +207,7 @@ Video Timestamp: 00:36:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7818, N-3*
+*Related: C-13498, N-3*
 
 ---
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:38:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7821, N-3*
+*Related: C-13501, N-3*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:49:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-7832, N-3*
+*Related: C-13512, N-3*
 
 ---
 
@@ -252,7 +252,7 @@ Video Timestamp: 00:13:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7793, N-3*
+*Related: C-13470, N-3*
 
 **A-2904.2** Host verbal call for Quick Quack car wash and shopping center information by email.
 
@@ -263,7 +263,7 @@ Video Timestamp: 00:23:06
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7809, N-3*
+*Related: C-13488, N-3*
 
 **A-2904.3** Host verbal reference to a second tip address and the reopening of tip lines.
 
@@ -274,7 +274,7 @@ Video Timestamp: 00:26:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7810, N-3*
+*Related: C-13489, N-3*
 
 **A-2904.4** Host verbal call for tips while inviting viewers into a decentralized independent unit.
 
@@ -285,7 +285,7 @@ Video Timestamp: 00:49:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7831, N-3*
+*Related: C-13511, N-3*
 
 ---
 
@@ -299,7 +299,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3537, A-2422.1, A-2422.2, A-2422.3*
+*Related: C-13495, A-2422.1, A-2422.2, A-2422.3*
 
 ---
 
@@ -312,7 +312,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3532, C-3533, C-3541, A-2419.1, A-2420.1, N-10855*
+*Related: C-13461, C-13467, C-13462, A-2419.1, A-2420.1, N-10855*
 
 ---
 
@@ -325,7 +325,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3534, C-3535, A-2421.1, A-2421.2*
+*Related: C-13475, C-13476, A-2421.1, A-2421.2*
 
 ---
 
@@ -338,7 +338,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3539, C-3540, A-2418.1*
+*Related: C-13459, C-13469, A-2418.1*
 
 ---
 
@@ -351,7 +351,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3536, A-2424.1*
+*Related: C-13513, A-2424.1*
 
 ---
 
@@ -364,7 +364,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3541, A-2419.1, A-2420.1, N-10851*
+*Related: C-13462, A-2419.1, A-2420.1, N-10851*
 
 ---
 
@@ -373,7 +373,7 @@ Investigative Pressure: Medium
 Node Type: Person
 UVU TPUSA club president named in the independent review as the chapter contact on the courtyard request.
 
-*Related: C-3531*
+*Related: C-13446*
 
 ---
 
@@ -390,7 +390,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 Co-investigator the host says she will hand the show to before maternity leave and make a sizzle reel with.
 
-*Related: C-7776, C-7782, C-7811*
+*Related: C-13445, C-13453, C-13490*
 
 ---
 
@@ -398,7 +398,7 @@ Co-investigator the host says she will hand the show to before maternity leave a
 
 Host; speaks for herself throughout.
 
-*Related: C-7776, C-7777, C-7778, C-7779, C-7780, C-7781, C-7782, C-7783, C-7784, C-7785, C-7786, C-7787, C-7788, C-7789, C-7790, C-7791, C-7792, C-7793, C-7794, C-7795, C-7796, C-7797, C-7798, C-7799, C-7800, C-7801, C-7802, C-7803, C-7804, C-7805, C-7806, C-7807, C-7808, C-7809, C-7810, C-7811, C-7812, C-7813, C-7814, C-7815, C-7817, C-7821, C-7822, C-7823, C-7824, C-7825, C-7826, C-7827, C-7828, C-7829, C-7830, C-7831, C-7832, C-7833, C-7834, C-7835*
+*Related: C-13445, C-13447, C-13448, C-13449, C-13450, C-13452, C-13453, C-13454, C-13455, C-13456, C-13457, C-13458, C-13460, C-13464, C-13465, C-13466, C-13468, C-13470, C-13471, C-13472, C-13473, C-13474, C-13477, C-13478, C-13479, C-13480, C-13481, C-13482, C-13483, C-13484, C-13486, C-13485, C-13487, C-13488, C-13489, C-13490, C-13491, C-13492, C-13493, C-13494, C-13497, C-13501, C-13502, C-13503, C-13504, C-13505, C-13506, C-13507, C-13508, C-13509, C-13510, C-13511, C-13512, C-13514, C-13515, C-13516*
 
 ---
 
@@ -406,7 +406,7 @@ Host; speaks for herself throughout.
 
 Widow and TPUSA CEO; the host criticizes her video release, donation email and partnership with Andrew Wilson.
 
-*Related: C-7824, C-7825, C-7827*
+*Related: C-13504, C-13505, C-13507*
 
 ---
 
@@ -414,7 +414,7 @@ Widow and TPUSA CEO; the host criticizes her video release, donation email and p
 
 First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro" in the transcript). Person the host places near the van in the tent footage.
 
-*Related: C-7778*
+*Related: C-13448*
 
 ---
 
@@ -422,7 +422,7 @@ First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro
 
 Alleged shooter; subject of the Dairy Queen, Challenger exhaust and car wash claims.
 
-*Related: C-7784, C-7785, C-7786, C-7788, C-7789, C-7790, C-7792, C-7794, C-7796, C-7797, C-7799, C-7800, C-7802, C-7805, C-7806, C-7807, C-7812, C-7833, C-7834*
+*Related: C-13455, C-13456, C-13457, C-13460, C-13464, C-13465, C-13468, C-13471, C-13473, C-13474, C-13478, C-13479, C-13481, C-13484, C-13486, C-13485, C-13491, C-13514, C-13515*
 
 ---
 
@@ -430,7 +430,7 @@ Alleged shooter; subject of the Dairy Queen, Challenger exhaust and car wash cla
 
 Tyler Robinson's roommate; the host speculates about his role and federal status.
 
-*Related: C-7789, C-7800, C-7801, C-7803, C-7804, C-7805*
+*Related: C-13464, C-13479, C-13480, C-13482, C-13483, C-13484*
 
 ---
 
@@ -438,7 +438,7 @@ Tyler Robinson's roommate; the host speculates about his role and federal status
 
 Person the host says she phoned about the shopping center sighting (spelled Ryan Matta in the transcript).
 
-*Related: C-7795, C-7808*
+*Related: C-13472, C-13487*
 
 ---
 
@@ -446,7 +446,7 @@ Person the host says she phoned about the shopping center sighting (spelled Ryan
 
 Israeli prime minister whose UN speech clips the host plays.
 
-*Related: C-7816, C-7817, C-7818, C-7819, C-7820, C-7822*
+*Related: C-13496, C-13497, C-13498, C-13499, C-13500, C-13502*
 
 ---
 
@@ -454,7 +454,7 @@ Israeli prime minister whose UN speech clips the host plays.
 
 Subject of the host's remarks on his response to Kirk's death and a reported Iran war remark.
 
-*Related: C-7814, C-7832*
+*Related: C-13493, C-13512*
 
 ---
 
@@ -462,7 +462,7 @@ Subject of the host's remarks on his response to Kirk's death and a reported Ira
 
 Named in a producer's NPR note and in the host's remark about a sit-down.
 
-*Related: C-7827, C-7832*
+*Related: C-13507, C-13512*
 
 ---
 
@@ -470,7 +470,7 @@ Named in a producer's NPR note and in the host's remark about a sit-down.
 
 Named in the host's remark about where Erika Kirk should have shown the video.
 
-*Related: C-7827*
+*Related: C-13507*
 
 ---
 
@@ -478,7 +478,7 @@ Named in the host's remark about where Erika Kirk should have shown the video.
 
 Subject of the interview parodied by Wear Forbidden.
 
-*Related: C-7823*
+*Related: C-13503*
 
 ---
 
@@ -486,7 +486,7 @@ Subject of the interview parodied by Wear Forbidden.
 
 Creator of the AI parody videos (the transcript says "Wear Forbidden" and "atware forbidden").
 
-*Related: C-7823*
+*Related: C-13503*
 
 ---
 
@@ -494,7 +494,7 @@ Creator of the AI parody videos (the transcript says "Wear Forbidden" and "atwar
 
 Organization the host discusses in connection with lawsuits and her early trust in it.
 
-*Related: C-7825, C-7828, C-7829*
+*Related: C-13505, C-13508, C-13509*
 
 ---
 
@@ -502,7 +502,7 @@ Organization the host discusses in connection with lawsuits and her early trust 
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7784, C-7785, C-7786, C-7789, C-7793, C-7831*
+*Related: C-13455, C-13456, C-13457, C-13464, C-13470, C-13511*
 
 ---
 
@@ -510,7 +510,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7786*
+*Related: C-13457*
 
 ---
 
@@ -518,7 +518,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7789*
+*Related: C-13464*
 
 ---
 
@@ -526,7 +526,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7799, C-7812, C-7813, C-7834, C-7835*
+*Related: C-13478, C-13491, C-13492, C-13515, C-13516*
 
 ---
 
@@ -534,7 +534,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7807*
+*Related: C-13485*
 
 ---
 
@@ -542,7 +542,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7798*
+*Related: C-13477*
 
 ---
 
@@ -550,7 +550,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7798*
+*Related: C-13477*
 
 ---
 
@@ -558,7 +558,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-7801, C-7803*
+*Related: C-13480, C-13482*
 
 ---
 
@@ -566,7 +566,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for the correction about the person near the van.
 
-*Related: C-7778*
+*Related: C-13448*
 
 ---
 
@@ -574,7 +574,7 @@ Existing topic reused for the correction about the person near the van.
 
 Existing topic reused for the beeper clip.
 
-*Related: C-7820*
+*Related: C-13500*
 
 ---
 
@@ -582,7 +582,7 @@ Existing topic reused for the beeper clip.
 
 News agency whose headline the host reads.
 
-*Related: C-7821*
+*Related: C-13501*
 
 ---
 
@@ -590,7 +590,7 @@ News agency whose headline the host reads.
 
 Existing topic reused for the Iran war remark.
 
-*Related: C-7832*
+*Related: C-13512*
 
 ---
 
@@ -598,7 +598,7 @@ Existing topic reused for the Iran war remark.
 
 Existing topic reused for the host's remarks on the video and Fort Huachuca.
 
-*Related: C-7824, C-7827*
+*Related: C-13504, C-13507*
 
 ---
 
@@ -607,7 +607,7 @@ Existing topic reused for the host's remarks on the video and Fort Huachuca.
 Node Type: Place
 Shopping center near Utah Valley University where, per the warrants as the host reads them, Tyler Robinson's vehicle was spotted at 12:44 p.m. and where the route to the Quick Quack car wash began.
 
-*Related: C-7794, C-7795, C-7796, C-7797, C-7808, C-7809, C-7831*
+*Related: C-13471, C-13472, C-13473, C-13474, C-13487, C-13488, C-13511*
 
 ---
 
@@ -616,13 +616,13 @@ Shopping center near Utah Valley University where, per the warrants as the host 
 Node Type: Topic
 The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps data could come from another device or person using the same account, such as Lance Twiggs.
 
-*Related: C-7800, C-7802*
+*Related: C-13479, C-13481*
 
 ---
 
 ## 5. Claim Register
 
-**C-3531** Host Says Person by Van in Tent Footage Is Not UVU Club President Caleb Chilcutt
+**C-13446** Host Says Person by Van in Tent Footage Is Not UVU Club President Caleb Chilcutt
 
 Claim Timestamp: 00:01:40
 
@@ -636,7 +636,7 @@ Investigative Direction: Cross-reference other footage and photographs to identi
 
 ---
 
-**C-3532** Host Says Tyler Robinson's Towed 2013 Dodge Challenger Displays a Dual Exhaust System
+**C-13461** Host Says Tyler Robinson's Towed 2013 Dodge Challenger Displays a Dual Exhaust System
 
 Claim Timestamp: 00:10:34
 
@@ -651,7 +651,7 @@ Investigative Direction: Confirm exhaust configuration against additional Fox Ne
 
 ---
 
-**C-3533** Host Says Parking Garage Challenger Displays a Quad Exhaust System Across Multiple Floors
+**C-13467** Host Says Parking Garage Challenger Displays a Quad Exhaust System Across Multiple Floors
 
 Claim Timestamp: 00:12:24
 
@@ -665,7 +665,7 @@ Investigative Direction: Compare against a full video walkthrough of the parking
 
 ---
 
-**C-3534** Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released
+**C-13475** Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released
 
 Claim Timestamp: 00:18:05
 
@@ -680,7 +680,7 @@ Investigative Direction: File FOIA/public-records requests for the Quick Quack C
 
 ---
 
-**C-3535** Host Says Search Warrant Attributes Google Maps Route to Quick Quack Car Wash to Tyler Robinson's Cell Phone
+**C-13476** Host Says Search Warrant Attributes Google Maps Route to Quick Quack Car Wash to Tyler Robinson's Cell Phone
 
 Claim Timestamp: 00:18:05
 
@@ -695,7 +695,7 @@ Investigative Direction: Obtain the underlying warrant to verify the quoted lang
 
 ---
 
-**C-3536** Officer Goforth's Testimony Referenced a Partial License-Plate Match Process
+**C-13513** Officer Goforth's Testimony Referenced a Partial License-Plate Match Process
 
 Claim Timestamp: 00:53:00
 
@@ -710,7 +710,7 @@ Investigative Direction: Pull the actual preliminary-hearing / probable-cause tr
 
 ---
 
-**C-3537** Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address
+**C-13495** Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address
 
 Claim Timestamp: 00:32:40
 
@@ -724,7 +724,7 @@ Investigative Direction: Cross-reference UN press records, AP/Reuters coverage, 
 
 ---
 
-**C-3538** A person visible in post-Big-Bang USA chant group later spoke to the news
+**C-13451** A person visible in post-Big-Bang USA chant group later spoke to the news
 
 Claim Timestamp: 00:04:47
 
@@ -738,7 +738,7 @@ Investigative Direction: Compare facial recognition / clothing across the post-i
 
 ---
 
-**C-3539** Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time
+**C-13459** Dairy Queen surveillance timestamp of 6:38 PM may have been recorded in UTC rather than Mountain Standard Time
 
 Claim Timestamp: 00:09:41
 
@@ -752,7 +752,7 @@ Investigative Direction: Subpoena or otherwise obtain the Dairy Queen surveillan
 
 ---
 
-**C-3540** Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand
+**C-13469** Tyler Robinson's sneakers in Dairy Queen surveillance photo do not appear to be Converse brand
 
 Claim Timestamp: 00:13:31
 
@@ -767,7 +767,7 @@ Investigative Direction: Obtain higher-resolution images of the footwear for bra
 
 ---
 
-**C-3541** Host asserts Tyler Robinson's vehicle is not the same Dodge Challenger shown entering the parking garage on September 10
+**C-13462** Host asserts Tyler Robinson's vehicle is not the same Dodge Challenger shown entering the parking garage on September 10
 
 Claim Timestamp: 00:10:34
 
@@ -782,7 +782,7 @@ Investigative Direction: Obtain independent forensic / dealership records on bot
 
 ---
 
-**C-3542** Cemetery contains two large dumpsters in the middle
+**C-13463** Cemetery contains two large dumpsters in the middle
 
 Claim Timestamp: 00:10:34
 
@@ -799,7 +799,7 @@ Investigative Direction: Verify tipster claim via Google Earth / aerial imagery 
 
 
 
-**C-3677** Host identifies show community as Decentralized Intelligence Agency
+**C-13517** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:54:04
 Claim: The host says viewers can buy merch such as a hat, t-shirt or sweatshirt to join the decentralized intelligence agency, which she calls her favorite.
@@ -812,7 +812,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-7776** Host Says Coleman Will Supply a Chronological Sizzle Reel of Footage
+**C-13445** Host Says Coleman Will Supply a Chronological Sizzle Reel of Footage
 
 Claim Timestamp: 00:00:01
 
@@ -827,7 +827,7 @@ Investigative Direction: Check whether a combined chronological footage compilat
 
 ---
 
-**C-7777** Host Says the Tent Clip Aired the Day Before Was Cropped
+**C-13447** Host Says the Tent Clip Aired the Day Before Was Cropped
 
 Claim Timestamp: 00:01:40
 
@@ -837,13 +837,13 @@ Transcript Snippet: I realized only after the fact that the clip we aired was cr
 
 Anchored Artifacts: A-2416.1
 Mentions: N-3
-Supports: C-3531
+Supports: C-13446
 Tags: relevance:core
 Investigative Direction: Compare the cropped clip from the prior episode with the wider version to see what the crop removed.
 
 ---
 
-**C-7778** Host Says Club President Chilcutt Was Wearing Red That Day
+**C-13448** Host Says Club President Chilcutt Was Wearing Red That Day
 
 Claim Timestamp: 00:01:40
 
@@ -854,13 +854,13 @@ Transcript Snippet: He was wearing red that day.
 Anchored Artifacts: A-2416.1
 Mentions: N-3, N-10, N-791
 Related Nodes: N-10860
-Supports: C-3531
+Supports: C-13446
 Tags: relevance:core
 Investigative Direction: Identify the person in red by the van through event photographs or attendee lists and confirm the clothing.
 
 ---
 
-**C-7779** Host Says She Will Name People in the Tent Footage but Not College Students
+**C-13449** Host Says She Will Name People in the Tent Footage but Not College Students
 
 Claim Timestamp: 00:02:31
 
@@ -875,7 +875,7 @@ Investigative Direction: Watch for the promised labeled version of the tent foot
 
 ---
 
-**C-7780** Host Says Much That Bothers Her Happens Near the Black SUV
+**C-13450** Host Says Much That Bothers Her Happens Near the Black SUV
 
 Claim Timestamp: 00:04:11
 
@@ -890,7 +890,7 @@ Investigative Direction: Obtain the unblurred full-length footage and a list of 
 
 ---
 
-**C-7781** Host Says Many People Appeared to Record Deliberately and Some Seemed Performative
+**C-13452** Host Says Many People Appeared to Record Deliberately and Some Seemed Performative
 
 Claim Timestamp: 00:04:47
 
@@ -900,13 +900,13 @@ Transcript Snippet: The amount of people that seem to be intentionally recording
 
 Anchored Artifacts: A-2417.1, A-2417.2
 Mentions: N-3
-Supports: C-3538
+Supports: C-13451
 Tags: relevance:core
 Investigative Direction: Identify each person recording near the black car and compare against later news interviews.
 
 ---
 
-**C-7782** Host Says She Will Hand Everything to Coleman Before Maternity Leave
+**C-13453** Host Says She Will Hand Everything to Coleman Before Maternity Leave
 
 Claim Timestamp: 00:06:01
 
@@ -921,7 +921,7 @@ Investigative Direction: Confirm any handover arrangement for the show and inves
 
 ---
 
-**C-7783** Host Plans an Interactive Hyperlinked Timeline on Her Website
+**C-13454** Host Plans an Interactive Hyperlinked Timeline on Her Website
 
 Claim Timestamp: 00:06:01
 
@@ -936,7 +936,7 @@ Investigative Direction: Check whether the hyperlinked timeline was published an
 
 ---
 
-**C-7784** Host Says Her Show Was First to Break the Dairy Queen Stop With a Photo Not Supplied Officially
+**C-13455** Host Says Her Show Was First to Break the Dairy Queen Stop With a Photo Not Supplied Officially
 
 Claim Timestamp: 00:06:38
 
@@ -947,13 +947,13 @@ Transcript Snippet: We were the first to break that story
 Anchored Artifacts: A-2418.1
 Mentions: N-3, N-40
 Related Nodes: N-10051
-Supports: C-1186
+Supports: C-403
 Tags: relevance:core
 Investigative Direction: Trace the first publication of the Dairy Queen photo and its original source.
 
 ---
 
-**C-7785** Host Says the Dairy Queen Owner Never Gave Her the 6:38 Timestamp
+**C-13456** Host Says the Dairy Queen Owner Never Gave Her the 6:38 Timestamp
 
 Claim Timestamp: 00:06:38
 
@@ -964,13 +964,13 @@ Transcript Snippet: we were not communicated that time by the owner of Dairy Que
 Anchored Artifacts: A-2418.1
 Mentions: N-3, N-40
 Related Nodes: N-10051, N-10853
-Qualifies: C-1186
+Qualifies: C-403
 Tags: relevance:core
 Investigative Direction: Identify who first read and relayed the 6:38 timestamp and obtain the Dairy Queen system settings.
 
 ---
 
-**C-7786** Host Says the Panguitch Receipt Showed the Dairy Queen Timing Had to Be Off
+**C-13457** Host Says the Panguitch Receipt Showed the Dairy Queen Timing Had to Be Off
 
 Claim Timestamp: 00:07:47
 
@@ -981,13 +981,13 @@ Transcript Snippet: It wasn't until after the Panguitch receipt that we went bac
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10381, N-10051
-Supports: C-2003
+Supports: C-4518
 Tags: relevance:core
 Investigative Direction: Obtain the Panguitch receipt and its time stamp and compare it against the Orem to Panguitch drive time.
 
 ---
 
-**C-7787** Host Offers Clock Drift at a Small Franchise as One Explanation for the 6:38 Timestamp
+**C-13458** Host Offers Clock Drift at a Small Franchise as One Explanation for the 6:38 Timestamp
 
 Claim Timestamp: 00:09:00
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Ask the franchise owner or manager about the camera clo
 
 ---
 
-**C-7788** Host Says the Real Tyler Robinson Was Around Campus That Day
+**C-13460** Host Says the Real Tyler Robinson Was Around Campus That Day
 
 Claim Timestamp: 00:09:41
 
@@ -1019,7 +1019,7 @@ Investigative Direction: Establish through footage or records where Tyler Robins
 
 ---
 
-**C-7789** Host Speculates a Lookalike, Maybe Lance, Dumped Clothes Before Dairy Queen
+**C-13464** Host Speculates a Lookalike, Maybe Lance, Dumped Clothes Before Dairy Queen
 
 Claim Timestamp: 00:10:34
 
@@ -1035,7 +1035,7 @@ Investigative Direction: Check the cemetery dumpsters and nearby cameras and com
 
 ---
 
-**C-7790** Host States Her Current Belief That Tyler Robinson Was Not on Campus
+**C-13465** Host States Her Current Belief That Tyler Robinson Was Not on Campus
 
 Claim Timestamp: 00:10:34
 
@@ -1050,7 +1050,7 @@ Investigative Direction: Locate any footage or records that place Tyler Robinson
 
 ---
 
-**C-7791** Host Says Critics Deny the Quad Exhaust and She Holds More Unreleased Footage
+**C-13466** Host Says Critics Deny the Quad Exhaust and She Holds More Unreleased Footage
 
 Claim Timestamp: 00:12:13
 
@@ -1061,13 +1061,13 @@ Transcript Snippet: We've got a lot more of that footage and we've checked it on
 Anchored Artifacts: A-2420.1
 Mentions: N-3
 Related Nodes: N-10851
-Supports: C-3533
+Supports: C-13467
 Tags: relevance:core
 Investigative Direction: Identify the critics' stated rebuttal and compare it with the full set of garage footage.
 
 ---
 
-**C-7792** Host Says the Prosecution Must Explain an Exhaust Change Within 33 Hours
+**C-13468** Host Says the Prosecution Must Explain an Exhaust Change Within 33 Hours
 
 Claim Timestamp: 00:12:24
 
@@ -1078,13 +1078,13 @@ Transcript Snippet: tasked with coming up with a compelling narrative as to how 
 Anchored Artifacts: A-2419.1, A-2420.1
 Mentions: N-3, N-40
 Related Nodes: N-10851, N-10855
-Supports: C-3541
+Supports: C-13462
 Tags: relevance:core
 Investigative Direction: Ask for service or modification records for the Challenger and the source of the 33-hour window.
 
 ---
 
-**C-7793** Host Asks for Dairy Queen Police Report, Footage or Text Chain via Tip Email
+**C-13470** Host Asks for Dairy Queen Police Report, Footage or Text Chain via Tip Email
 
 Claim Timestamp: 00:14:59
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Obtain the Dairy Queen police report, the footage and t
 
 ---
 
-**C-7794** Host Says Tyler's Vehicle Was Spotted at Mountain Shadows Shopping Center at 12:44 Per Warrants
+**C-13471** Host Says Tyler's Vehicle Was Spotted at Mountain Shadows Shopping Center at 12:44 Per Warrants
 
 Claim Timestamp: 00:15:59
 
@@ -1116,7 +1116,7 @@ Investigative Direction: Obtain the warrant text and the shopping-center camera 
 
 ---
 
-**C-7795** Host Says She Phoned Ryan Matta About How the Shopping Center Sighting Surfaced
+**C-13472** Host Says She Phoned Ryan Matta About How the Shopping Center Sighting Surfaced
 
 Claim Timestamp: 00:16:09
 
@@ -1132,7 +1132,7 @@ Investigative Direction: Ask Ryan Matta for the original source and date of the 
 
 ---
 
-**C-7796** Host Says the Public Report of the Challenger Sighting Led the FBI to the Car Wash
+**C-13473** Host Says the Public Report of the Challenger Sighting Led the FBI to the Car Wash
 
 Claim Timestamp: 00:16:38
 
@@ -1148,7 +1148,7 @@ Investigative Direction: Obtain the warrant applications to see what the car was
 
 ---
 
-**C-7797** Host Reports Shopping Center Footage Backs Up the Departure to the Car Wash
+**C-13474** Host Reports Shopping Center Footage Backs Up the Departure to the Car Wash
 
 Claim Timestamp: 00:16:38
 
@@ -1159,13 +1159,13 @@ Transcript Snippet: Shopping Center surveillance footage then backs up this depa
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-11151, N-10852
-Supports: C-3535
+Supports: C-13476
 Tags: relevance:core
 Investigative Direction: Obtain the shopping center surveillance footage cited in the narrative.
 
 ---
 
-**C-7798** Host Says Probable Cause Hearing Material Was Unclear With the Aspect Ratio Adjusted
+**C-13477** Host Says Probable Cause Hearing Material Was Unclear With the Aspect Ratio Adjusted
 
 Claim Timestamp: 00:19:40
 
@@ -1181,7 +1181,7 @@ Investigative Direction: Compare the exhibits as shown at the hearing with the o
 
 ---
 
-**C-7799** Host Says Withholding Car Wash Footage Suggests the Other Challenger May Be Involved
+**C-13478** Host Says Withholding Car Wash Footage Suggests the Other Challenger May Be Involved
 
 Claim Timestamp: 00:19:50
 
@@ -1192,13 +1192,13 @@ Transcript Snippet: So, that tells me that we need to explore this car wash theo
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10852, N-10850
-Supports: C-3534
+Supports: C-13475
 Tags: relevance:core
 Investigative Direction: Seek the Quick Quack footage and license plate capture through records requests or discovery.
 
 ---
 
-**C-7800** Host Says Lance May Have Been Awake and Logging Into Tyler's Accounts
+**C-13479** Host Says Lance May Have Been Awake and Logging Into Tyler's Accounts
 
 Claim Timestamp: 00:21:10
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Request device and account login records for Tyler Robi
 
 ---
 
-**C-7801** Host Doubts Lance's Sleeping Account Explains Use Immunity
+**C-13480** Host Doubts Lance's Sleeping Account Explains Use Immunity
 
 Claim Timestamp: 00:21:10
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Check the court record for any immunity agreement or te
 
 ---
 
-**C-7802** Host Says Her Producer's Test Showed Laptop Maps Searches Appear on the Phone
+**C-13481** Host Says Her Producer's Test Showed Laptop Maps Searches Appear on the Phone
 
 Claim Timestamp: 00:21:10
 
@@ -1246,7 +1246,7 @@ Investigative Direction: Test reproducibility and check whether the warrant's ro
 
 ---
 
-**C-7803** Host Says Lance's Family Does Not Understand Why He Was Not Investigated More
+**C-13482** Host Says Lance's Family Does Not Understand Why He Was Not Investigated More
 
 Claim Timestamp: 00:22:19
 
@@ -1257,13 +1257,13 @@ Transcript Snippet: his own family doesn't understand why he was not investigate
 Anchored Artifacts: 
 Mentions: N-3, N-54
 Related Nodes: N-10598
-Supports: C-4880
+Supports: C-352
 Tags: relevance:core
 Investigative Direction: Interview Lance's family and review the investigative record on his questioning.
 
 ---
 
-**C-7804** Host Says Lance Was Moderately Involved in the Furry Community
+**C-13483** Host Says Lance Was Moderately Involved in the Furry Community
 
 Claim Timestamp: 00:22:19
 
@@ -1278,7 +1278,7 @@ Investigative Direction: Locate the earlier aired material on Lance's online ava
 
 ---
 
-**C-7805** Host Says Tyler Robinson's Record Is Squeaky Clean Unlike Lance's
+**C-13484** Host Says Tyler Robinson's Record Is Squeaky Clean Unlike Lance's
 
 Claim Timestamp: 00:23:06
 
@@ -1293,7 +1293,7 @@ Investigative Direction: Pull criminal and school records for both men to compar
 
 ---
 
-**C-7806** Host Says the Warrant Does Not Say Tyler Actually Got a Car Wash
+**C-13486** Host Says the Warrant Does Not Say Tyler Actually Got a Car Wash
 
 Claim Timestamp: 00:25:08
 
@@ -1304,13 +1304,13 @@ Transcript Snippet: It does not go so far as to say that he actually got a car w
 Anchored Artifacts: A-2421.2
 Mentions: N-3, N-40
 Related Nodes: N-10852
-Supports: C-3534
+Supports: C-13475
 Tags: relevance:core
 Investigative Direction: Obtain the full warrant and the Quick Quack transaction records.
 
 ---
 
-**C-7807** Host Recounts the Official Towel Story and Says It Makes No Sense
+**C-13485** Host Recounts the Official Towel Story and Says It Makes No Sense
 
 Claim Timestamp: 00:24:47
 
@@ -1326,7 +1326,7 @@ Investigative Direction: Check the charging documents and lab reports for the to
 
 ---
 
-**C-7808** Host Says the Shopping Center Tip Reached Ryan Matta Through a Chain of Contacts
+**C-13487** Host Says the Shopping Center Tip Reached Ryan Matta Through a Chain of Contacts
 
 Claim Timestamp: 00:25:37
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Reconstruct the chain of contacts from the original sho
 
 ---
 
-**C-7809** Host Asks for Car Wash and Shopping Center Information via the Tip Email
+**C-13488** Host Asks for Car Wash and Shopping Center Information via the Tip Email
 
 Claim Timestamp: 00:25:54
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Collect the emailed information on the Quick Quack car 
 
 ---
 
-**C-7810** Host Says Her Tip Inbox Once Held 50,000 Plus Emails and Many Did Not Go Through
+**C-13489** Host Says Her Tip Inbox Once Held 50,000 Plus Emails and Many Did Not Go Through
 
 Claim Timestamp: 00:26:05
 
@@ -1373,7 +1373,7 @@ Investigative Direction: Audit the tip inbox delivery failures the host describe
 
 ---
 
-**C-7811** Host Says She Will Assemble a Timeline and Question List Before Maternity Leave
+**C-13490** Host Says She Will Assemble a Timeline and Question List Before Maternity Leave
 
 Claim Timestamp: 00:26:05
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Check for the promised timeline and question list.
 
 ---
 
-**C-7812** Host Says Viewers Say Tyler's Vehicle Is a V6 and She Confirmed It
+**C-13491** Host Says Viewers Say Tyler's Vehicle Is a V6 and She Confirmed It
 
 Claim Timestamp: 00:28:32
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Check Tyler Robinson's registration and VIN for the eng
 
 ---
 
-**C-7813** Host Relays Viewer Claim That the Garage Challenger Is a V8, Told by Its Wheels
+**C-13492** Host Relays Viewer Claim That the Garage Challenger Is a V8, Told by Its Wheels
 
 Claim Timestamp: 00:28:32
 
@@ -1415,13 +1415,13 @@ Transcript Snippet: the car that's going into the garage is a V8 and that you ca
 Anchored Artifacts: A-2420.1
 Mentions: N-3
 Related Nodes: N-10850, N-10851
-Supports: C-3541
+Supports: C-13462
 Tags: relevance:core
 Investigative Direction: Have a vehicle expert examine the wheels and exhaust in the garage footage.
 
 ---
 
-**C-7814** Host Says Trump's Response to Kirk's Death Was an AI Photo and a Speech
+**C-13493** Host Says Trump's Response to Kirk's Death Was an AI Photo and a Speech
 
 Claim Timestamp: 00:30:13
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Check the White House and Trump posts after September 1
 
 ---
 
-**C-7815** Host Says She Does Not Plan to Run for Office
+**C-13494** Host Says She Does Not Plan to Run for Office
 
 Claim Timestamp: 00:31:35
 
@@ -1451,7 +1451,7 @@ Investigative Direction: Check the prior episode for the viewer question about r
 
 ---
 
-**C-7816** Netanyahu Told the UN October 7 Equaled 40,000 Americans or 16 Times 9/11
+**C-13496** Netanyahu Told the UN October 7 Equaled 40,000 Americans or 16 Times 9/11
 
 Claim Timestamp: 00:35:38
 
@@ -1466,7 +1466,7 @@ Investigative Direction: Verify against the UN transcript of the September 2025 
 
 ---
 
-**C-7817** Host Asserts Israel Was Behind 9/11
+**C-13497** Host Asserts Israel Was Behind 9/11
 
 Claim Timestamp: 00:35:38
 
@@ -1481,7 +1481,7 @@ Investigative Direction: Recorded as stated; no evidence presented on air; compa
 
 ---
 
-**C-7818** Netanyahu Told the UN Israel Fought a Seven-Front War
+**C-13498** Netanyahu Told the UN Israel Fought a Seven-Front War
 
 Claim Timestamp: 00:36:38
 
@@ -1496,7 +1496,7 @@ Investigative Direction: Verify against the UN transcript.
 
 ---
 
-**C-7819** Netanyahu Told the UN Israel Crushed Iran's Army, Navy, Air Force and Nuclear Sites
+**C-13499** Netanyahu Told the UN Israel Crushed Iran's Army, Navy, Air Force and Nuclear Sites
 
 Claim Timestamp: 00:37:38
 
@@ -1511,7 +1511,7 @@ Investigative Direction: Verify against the UN transcript and independent damage
 
 ---
 
-**C-7820** Netanyahu Held Up a Beeper and Referred to the Pager Attacks
+**C-13500** Netanyahu Held Up a Beeper and Referred to the Pager Attacks
 
 Claim Timestamp: 00:37:50
 
@@ -1527,7 +1527,7 @@ Investigative Direction: Verify against the UN video and transcript.
 
 ---
 
-**C-7821** Host Reads a Reuters Headline That Israeli Bulldozers Smashed Olive Trees
+**C-13501** Host Reads a Reuters Headline That Israeli Bulldozers Smashed Olive Trees
 
 Claim Timestamp: 00:38:44
 
@@ -1543,7 +1543,7 @@ Investigative Direction: Pull the Reuters article and confirm the headline and d
 
 ---
 
-**C-7822** Host Alleges Netanyahu Has Blackmailed US Politicians
+**C-13502** Host Alleges Netanyahu Has Blackmailed US Politicians
 
 Claim Timestamp: 00:38:44
 
@@ -1558,7 +1558,7 @@ Investigative Direction: The host offers no evidence on air; ask her for the bas
 
 ---
 
-**C-7823** Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview
+**C-13503** Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview
 
 Claim Timestamp: 00:40:02
 
@@ -1574,7 +1574,7 @@ Investigative Direction: Locate the Wear Forbidden video and the Blake Neff inte
 
 ---
 
-**C-7824** Host Says Erika Gave Andrew Wilson What Was Presented as Charlie's Last Video With His Kids
+**C-13504** Host Says Erika Gave Andrew Wilson What Was Presented as Charlie's Last Video With His Kids
 
 Claim Timestamp: 00:45:44
 
@@ -1590,7 +1590,7 @@ Investigative Direction: Obtain the video, its provenance and how it came to be 
 
 ---
 
-**C-7825** Host Says Erika Put a Note Charlie Wrote About Her Into a Donation Email
+**C-13505** Host Says Erika Put a Note Charlie Wrote About Her Into a Donation Email
 
 Claim Timestamp: 00:45:44
 
@@ -1606,7 +1606,7 @@ Investigative Direction: Obtain the donation email and compare its date with the
 
 ---
 
-**C-7826** Host Characterizes Andrew Wilson as a Heavy Drinker and Chain Smoker
+**C-13506** Host Characterizes Andrew Wilson as a Heavy Drinker and Chain Smoker
 
 Claim Timestamp: 00:45:44
 
@@ -1621,7 +1621,7 @@ Investigative Direction: Review the cited late-night content and attribute it; n
 
 ---
 
-**C-7827** Host Says Erika Should Have Shown the Footage in a Sit-Down If She Needed to Prove Fort Huachuca
+**C-13507** Host Says Erika Should Have Shown the Footage in a Sit-Down If She Needed to Prove Fort Huachuca
 
 Claim Timestamp: 00:45:44
 
@@ -1637,7 +1637,7 @@ Investigative Direction: Check whether the Wilson video was offered as evidence 
 
 ---
 
-**C-7828** Host Says She First Believed TPUSA Were Charlie's True Friends Who Would Fight for Justice
+**C-13508** Host Says She First Believed TPUSA Were Charlie's True Friends Who Would Fight for Justice
 
 Claim Timestamp: 00:49:27
 
@@ -1653,7 +1653,7 @@ Investigative Direction: Compare with the host's earlier episodes on TPUSA to da
 
 ---
 
-**C-7829** Host Tells Viewers Not to Worry About Possible TPUSA Lawsuits
+**C-13509** Host Tells Viewers Not to Worry About Possible TPUSA Lawsuits
 
 Claim Timestamp: 00:49:38
 
@@ -1669,7 +1669,7 @@ Investigative Direction: Watch for any filed suit by TPUSA against the host.
 
 ---
 
-**C-7830** Host Says Charlie's Favorite Proverb Was Iron Sharpens Iron and He Texted It
+**C-13510** Host Says Charlie's Favorite Proverb Was Iron Sharpens Iron and He Texted It
 
 Claim Timestamp: 00:51:08
 
@@ -1684,7 +1684,7 @@ Investigative Direction: Locate the texts with that proverb if the host publishe
 
 ---
 
-**C-7831** Host Invites Viewers to Email Tips and Join a Decentralized Independent Unit
+**C-13511** Host Invites Viewers to Email Tips and Join a Decentralized Independent Unit
 
 Claim Timestamp: 00:51:41
 
@@ -1700,7 +1700,7 @@ Investigative Direction: Collect and triage tips on Dairy Queen, the shopping ce
 
 ---
 
-**C-7832** Producer Note Says Carlson Recounts Trump Dismissed Iran War Concerns
+**C-13512** Producer Note Says Carlson Recounts Trump Dismissed Iran War Concerns
 
 Claim Timestamp: 00:52:06
 
@@ -1716,7 +1716,7 @@ Investigative Direction: Pull the NPR interview and confirm the wording.
 
 ---
 
-**C-7833** Host Says Officials Keep Describing Confirming Only the First Part of the Plate
+**C-13514** Host Says Officials Keep Describing Confirming Only the First Part of the Plate
 
 Claim Timestamp: 00:53:00
 
@@ -1727,13 +1727,13 @@ Transcript Snippet: every time they talk about the plates, they effectively say 
 Anchored Artifacts: A-2424.1
 Mentions: N-3, N-862
 Related Nodes: N-10854
-Supports: C-3536
+Supports: C-13513
 Tags: relevance:core
 Investigative Direction: Review the hearing testimony for each reference to partial plates.
 
 ---
 
-**C-7834** Host Says She Has No Footage Confirming the Garage Challenger's Plate Matches
+**C-13515** Host Says She Has No Footage Confirming the Garage Challenger's Plate Matches
 
 Claim Timestamp: 00:53:39
 
@@ -1749,7 +1749,7 @@ Investigative Direction: Obtain any garage footage showing the Challenger's plat
 
 ---
 
-**C-7835** Host Posits That a Plate Match With a Different Exhaust Would Mean Fake Plates
+**C-13516** Host Posits That a Plate Match With a Different Exhaust Would Mean Fake Plates
 
 Claim Timestamp: 00:53:51
 

@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep027): N-366, N-10432
   - Tip-minted Nodes (reintro-ep027): N-603, N-11014
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-9584–C-9646
+  - Claim Range: C-2407–C-2490
   - New Nodes Introduced: N-227, N-229, N-230, N-231, N-232, N-233, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
   - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104, N-228, N-10687, N-11171
   - (see registers)
@@ -35,7 +35,6 @@
 - **Analysis Date:** 2025-11-06
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
-  - Claim Range: C-1617–C-1634, C-3740, C-3755
   - New Nodes Introduced (people):  N-2, N-227, N-228, N-229, N-230, N-231, N-232, N-233
   - New Nodes Introduced (investigation targets): N-10228, N-10229, N-10230, N-10231, N-10232, N-10233, N-10234, N-10235
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
@@ -66,7 +65,7 @@ Confidence Level: Medium (displayed on-screen, transcribed verbatim)
 
 Full text transcribed: "conservative commentator Candace Owens announced on Thursday that her independent podcast Candace has reached the top global ranking, according to Podscribe data, following her 2024 departure from the Daily Wire. She credits the organic growth to criticism, legal challenges, including a defamation lawsuit from French President Emmanuel Macron and First Lady Brigitte Macron, and her small team's resilience. Owens attributes the milestone to divine intervention amid ongoing media attacks."
 
-*Related: C-1617, C-1618, N-3*
+*Related: C-2408, C-2409, N-3*
 
 ---
 
@@ -82,7 +81,7 @@ Confidence Level: High
 
 Verbatim excerpt: "It's so easy to be in a position of feeling regret when you lose someone you love. And I tried to read a book by C. S. Lewis… It's called A Grief Observed. It was a very hard book to read. Not because it was about grief, but because in the opening pages, he talked about how angry he was with God. And I've never felt that. I'm not angry with God. Never have been."
 
-*Related: C-1619, N-2, N-211*
+*Related: C-2417, N-2, N-211*
 
 **A-1346.2** Erika Kirk audio excerpt responding to whether the caught individual pulled the trigger
 
@@ -94,7 +93,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Do you think they've caught your husband's killer? So, something I'm so grateful for is that we have one of the most incredible teams for this case. I would never wish it upon anybody to have to go through what we are going through. To have seen the autopsy report, to have seen the different evidence portions that have been collected. I trust our team."
 
-*Related: C-1620, C-1621, N-2, N-211*
+*Related: C-2420, C-2421, N-2, N-211*
 
 **A-1346.3** Erika Kirk audio excerpt on Charlie's Saint Michael pendant
 
@@ -106,7 +105,7 @@ Confidence Level: High
 
 Verbatim excerpt: "When we first started dating, I um I asked him, I was like, why don't you wear a cross?… So, for his first birthday present I got him this bronze. And then throughout time I would always add different metals to it. And so he always he loved Saint Michael. And so yeah, every time he'd put this on, he just felt like it was his it was his armor."
 
-*Related: C-1622, N-2, N-211*
+*Related: C-2427, N-2, N-211*
 
 **A-1346.4** Erika Kirk audio excerpt on circulating conspiracy theories and request for grace
 
@@ -118,7 +117,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Everyone grieves differently. Everyone is trying to figure out and I don't blame them. How does this happen?… And what I've realized through all of this is that everyone grieves differently… And again, my my only request is that just please pray and consider and think about whatever you put online because it's going to impact his kids in the future."
 
-*Related: C-1624, N-2, N-211*
+*Related: C-2431, N-2, N-211*
 
 ---
 
@@ -134,7 +133,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "The latest claim is that TPUSA must have been in on Charlie's murder because the UVU campus stop was approved in July. It was not approved in July. It was requested in July. And that's too short of a timeline for an event in September. That is not true. Charlie texted me at the end of August for a campus event in early November. That's about 2 months out."
 
-*Related: C-1625, N-227, N-10228*
+*Related: C-2447, N-227, N-10228*
 
 **A-1347.2** Allie Beth Stuckey follow-up tweet clarifying venue status
 
@@ -146,7 +145,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Since some of you guys are struggling, no venue yet, 2 months out." (Host notes: "There's clearly a venue because Charlie is saying in this chat, 'November 3rd at 6:30 p.m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.'")
 
-*Related: C-1626, C-3740, N-227, N-10228*
+*Related: C-2448, C-2449, N-227, N-10228*
 
 ---
 
@@ -162,7 +161,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I speak regularly on college campuses as well. As one example, I was just asked to speak at Stanford, and they were going to set the event up within 3 weeks. Oh, so it didn't happen. It didn't materialize… When I debated a few weeks ago at Yale, the event was also planned within 2 months."
 
-*Related: C-1627, C-1628, N-228, N-10228*
+*Related: C-2453, C-2454, N-228, N-10228*
 
 ---
 
@@ -178,7 +177,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I'm one of the longest-tenured employees now at the organization, and Mikey has a servant's heart if ever I've seen one. Do you know why he went to Korea and Japan? Because my boss, our direct our production's director, who is the father of six children, asked him to. He is always traveling with me a good portion of it, and he missed his kids, and he asked Mikey to please go and film instead."
 
-*Related: C-1629, N-99, N-190*
+*Related: C-2464, N-99, N-190*
 
 **A-1349.2** Alex Clark tweet on not running ads on tribute episodes
 
@@ -190,7 +189,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "On every podcast tribute episode I did about Charlie, I did not run my ad sponsorships. My directive and choice to my team, we are now in debt to my sponsors. I didn't care. I felt like the right thing to do."
 
-*Related: C-1630, N-99*
+*Related: C-2468, N-99*
 
 ---
 
@@ -206,7 +205,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I don't have direct knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit."
 
-*Related: C-1631, N-229, N-10231*
+*Related: C-2479, N-229, N-10231*
 
 ---
 
@@ -222,7 +221,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "At this point, anyone who follows this freak show is doing it for the entertainment. This is not political commentary. It's bowling."
 
-*Related: C-1632, N-168*
+*Related: C-2482, N-168*
 
 ---
 
@@ -238,7 +237,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Hey guys, this is me. My teammate and I were just on campus to get food and stop by the event. We always wear silly stuff like that. Sorry, guys."
 
-*Related: C-1633, N-230, N-10232*
+*Related: C-2439, N-230, N-10232*
 
 ---
 
@@ -254,7 +253,7 @@ Confidence Level: Medium (host observation of visual frame; no on-screen caption
 
 Host characterization: "behind Jesse and Erika as they're walking backstage at the University of Mississippi event that they headlined, there was a priest looking in the corner there. I know a priest collar when I see one."
 
-*Related: C-1623, N-2, N-211, N-10233*
+*Related: C-2426, N-2, N-211, N-10233*
 
 ---
 
@@ -270,7 +269,7 @@ Confidence Level: Medium (viewer-mediated second-hand reference)
 
 Verbatim excerpt: "Andrew Klavan on Alex Clark show discussed how Charlie's heart was still beating. How did Charlie instantly go to heaven if he had a pulse? Erika first saw Charlie at an airport in Israel in May of 2018 with her mom."
 
-*Related: C-1634, N-2, N-99, N-231, N-10234, N-10235*
+*Related: C-2484, N-2, N-99, N-231, N-10234, N-10235*
 
 **A-1354.2** Arm Hanna viewer comment on forgiveness requiring knowledge of what is being forgiven
 
@@ -282,9 +281,9 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Candace, that was such a wise statement. I cannot forgive until I know what I am forgiving. Thank you for saying it."
 
-*Related: C-1635, N-233*
+*Related: C-2488, N-233*
 
-*(Note: see Claim Register for C-1635 – this claim is included to maintain artifact linkage for A-1354.2)*
+*(Note: see Claim Register for C-2488 – this claim is included to maintain artifact linkage for A-1354.2)*
 
 ---
 
@@ -297,7 +296,7 @@ Video Timestamp: 00:25:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9606, N-3*
+*Related: C-2437, N-3*
 
 ---
 
@@ -312,7 +311,7 @@ Video Timestamp: 00:35:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9615, N-3*
+*Related: C-2450, N-3*
 
 ---
 
@@ -325,7 +324,7 @@ Video Timestamp: 00:38:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9619, N-3*
+*Related: C-2456, N-3*
 
 ---
 
@@ -340,7 +339,7 @@ Video Timestamp: 00:54:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9637, N-3*
+*Related: C-2477, N-3*
 
 ---
 
@@ -357,7 +356,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1346.1, A-1346.2, A-1346.3, A-1346.4, A-1353.1, C-1623*
+*Related: A-1346.1, A-1346.2, A-1346.3, A-1346.4, A-1353.1, C-2426*
 
 ---
 
@@ -370,7 +369,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1347.1, A-1347.2, C-1625, C-1626, N-10228*
+*Related: A-1347.1, A-1347.2, C-2447, C-2448, N-10228*
 
 ---
 
@@ -383,7 +382,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1348.1, C-1627, C-1628, N-10228*
+*Related: A-1348.1, C-2453, C-2454, N-10228*
 
 ---
 
@@ -396,7 +395,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-190, N-10234*
+*Related: A-1349.1, A-1349.2, A-1354.1, C-2464, C-2468, C-2484, N-190, N-10234*
 
 ---
 
@@ -409,7 +408,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, C-1629, N-99*
+*Related: A-1349.1, C-2464, N-99*
 
 ---
 
@@ -422,7 +421,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1350.1, C-1631, N-10231*
+*Related: A-1350.1, C-2479, N-10231*
 
 ---
 
@@ -435,7 +434,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1351.1, C-1632*
+*Related: A-1351.1, C-2482*
 
 ---
 
@@ -448,7 +447,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (apparently resolved)
 
-*Related: A-1352.1, C-1633, N-10232*
+*Related: A-1352.1, C-2439, N-10232*
 
 ---
 
@@ -461,7 +460,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-1634, N-10234*
+*Related: A-1354.1, C-2484, N-10234*
 
 ---
 
@@ -487,7 +486,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-1634*
+*Related: A-1354.1, C-2484*
 
 ---
 
@@ -500,7 +499,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.2, C-1635*
+*Related: A-1354.2, C-2488*
 
 ---
 
@@ -528,7 +527,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1347.1, A-1347.2, A-1348.1, C-1625, C-1626, C-1627, C-1628, N-227, N-228*
+*Related: A-1347.1, A-1347.2, A-1348.1, C-2447, C-2448, C-2453, C-2454, N-227, N-228*
 
 ---
 
@@ -541,7 +540,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1346.2, C-1621, N-2*
+*Related: A-1346.2, C-2421, N-2*
 
 ---
 
@@ -554,7 +553,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1346.3, A-1353.1, C-1622, C-1623, N-2*
+*Related: A-1346.3, A-1353.1, C-2427, C-2426, N-2*
 
 ---
 
@@ -567,7 +566,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1350.1, C-1631, N-229*
+*Related: A-1350.1, C-2479, N-229*
 
 ---
 
@@ -580,7 +579,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Closed
 
-*Related: A-1352.1, C-1633, N-230*
+*Related: A-1352.1, C-2439, N-230*
 
 ---
 
@@ -593,7 +592,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1353.1, C-1623, N-2, N-211, N-10230*
+*Related: A-1353.1, C-2426, N-2, N-211, N-10230*
 
 ---
 
@@ -606,7 +605,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-1634, N-231, N-99, N-2, N-7*
+*Related: A-1354.1, C-2484, N-231, N-99, N-2, N-7*
 
 ---
 
@@ -627,7 +626,7 @@ Investigative Pressure: Low
 
 Host; speaks for herself throughout.
 
-*Related: C-9584, C-9585, C-9586, C-9587, C-9588, C-9589, C-9591, C-9592, C-9593, C-9594, C-9595, C-9596, C-9597, C-9598, C-9599, C-9601, C-9602, C-9603, C-9604, C-9605, C-9606, C-9607, C-9608, C-9609, C-9610, C-9611, C-9612, C-9613, C-9614, C-9615, C-9616, C-9617, C-9618, C-9619, C-9620, C-9621, C-9622, C-9623, C-9624, C-9625, C-9626, C-9627, C-9628, C-9629, C-9630, C-9631, C-9632, C-9633, C-9634, C-9635, C-9636, C-9637, C-9638, C-9639, C-9640, C-9641, C-9642, C-9643, C-9644, C-9645, C-9646*
+*Related: C-2407, C-2411, C-2410, C-2412, C-2413, C-2414, C-2416, C-2418, C-2419, C-2422, C-2423, C-2424, C-2425, C-2428, C-2429, C-2432, C-2433, C-2434, C-2435, C-2436, C-2437, C-2438, C-2440, C-2442, C-2441, C-2443, C-2444, C-2445, C-2446, C-2450, C-2451, C-2452, C-2455, C-2456, C-2457, C-2458, C-2459, C-2460, C-2461, C-2462, C-2463, C-2465, C-2466, C-2467, C-2469, C-2470, C-2471, C-2472, C-2473, C-2474, C-2475, C-2477, C-2478, C-2480, C-2481, C-2483, C-2485, C-2486, C-2487, C-2489, C-2490*
 
 ---
 
@@ -636,7 +635,7 @@ Host; speaks for herself throughout.
 Node Type: Topic
 The host's account of the Candace podcast reaching number one worldwide, its lack of ad spend, small team and start-up conditions.
 
-*Related: C-9584, C-9588, C-9646*
+*Related: C-2407, C-2413, C-2490*
 
 ---
 
@@ -644,7 +643,7 @@ The host's account of the Candace podcast reaching number one worldwide, its lac
 
 Ben Shapiro; named in the host's thanks for her Daily Wire firing.
 
-*Related: C-9585*
+*Related: C-2411*
 
 ---
 
@@ -652,7 +651,7 @@ Ben Shapiro; named in the host's thanks for her Daily Wire firing.
 
 Jeremy Boreing; named in the host's thanks for her Daily Wire firing.
 
-*Related: C-9585*
+*Related: C-2411*
 
 ---
 
@@ -660,7 +659,7 @@ Jeremy Boreing; named in the host's thanks for her Daily Wire firing.
 
 Kanye West; his song Power is cited by the host.
 
-*Related: C-9586*
+*Related: C-2410*
 
 ---
 
@@ -668,7 +667,7 @@ Kanye West; his song Power is cited by the host.
 
 First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.
 
-*Related: C-9587*
+*Related: C-2412*
 
 ---
 
@@ -676,7 +675,7 @@ First named by the host at 00:03:43 in episode 027 as the Australian official sh
 
 Schuyler; producer on the host's team.
 
-*Related: C-9588, C-9646*
+*Related: C-2413, C-2490*
 
 ---
 
@@ -684,7 +683,7 @@ Schuyler; producer on the host's team.
 
 Erika Kirk; Fox News interview subject and TPUSA CEO.
 
-*Related: C-9589, C-9590, C-9594, C-9600, C-9641, C-9642, C-9644*
+*Related: C-2414, C-2415, C-2422, C-2430, C-2483, C-2485, C-2487*
 
 ---
 
@@ -692,7 +691,7 @@ Erika Kirk; Fox News interview subject and TPUSA CEO.
 
 JD Vance; co-headliner of the Ole Miss event with Erika.
 
-*Related: C-9589*
+*Related: C-2414*
 
 ---
 
@@ -700,7 +699,7 @@ JD Vance; co-headliner of the Ole Miss event with Erika.
 
 Fox News; carried the Erika Kirk interview.
 
-*Related: C-9589, C-9600*
+*Related: C-2414, C-2430*
 
 ---
 
@@ -708,7 +707,7 @@ Fox News; carried the Erika Kirk interview.
 
 Tyler Robinson; the person in custody, named in the host's forgiveness remarks.
 
-*Related: C-9590, C-9592, C-9593, C-9623*
+*Related: C-2415, C-2418, C-2419, C-2460*
 
 ---
 
@@ -716,7 +715,7 @@ Tyler Robinson; the person in custody, named in the host's forgiveness remarks.
 
 Charlie Kirk; subject of the host's statements about his faith, the UVU event and his death.
 
-*Related: C-9591, C-9592, C-9598, C-9599, C-9601, C-9602, C-9609, C-9611, C-9612, C-9613, C-9614, C-9615, C-9616, C-9617, C-9627, C-9628, C-9630, C-9634, C-9635, C-9636, C-9642, C-9643, C-9644*
+*Related: C-2416, C-2418, C-2428, C-2429, C-2432, C-2433, C-2442, C-2443, C-2444, C-2445, C-2446, C-2450, C-2451, C-2452, C-2465, C-2466, C-2469, C-2473, C-2474, C-2475, C-2485, C-2486, C-2487*
 
 ---
 
@@ -724,7 +723,7 @@ Charlie Kirk; subject of the host's statements about his faith, the UVU event an
 
 Tyler Robinson Prosecution Evidence Base; lone-actor question.
 
-*Related: C-9592*
+*Related: C-2418*
 
 ---
 
@@ -732,7 +731,7 @@ Tyler Robinson Prosecution Evidence Base; lone-actor question.
 
 Tyler Bowyer; TPUSA chair, subject of footage and conduct remarks.
 
-*Related: C-9595, C-9604*
+*Related: C-2423, C-2435*
 
 ---
 
@@ -740,7 +739,7 @@ Tyler Bowyer; TPUSA chair, subject of footage and conduct remarks.
 
 Federal Footage Sweep; footage withheld, per host.
 
-*Related: C-9595, C-9597*
+*Related: C-2423, C-2425*
 
 ---
 
@@ -748,7 +747,7 @@ Federal Footage Sweep; footage withheld, per host.
 
 Utah Valley University; site of the contested event.
 
-*Related: C-9596, C-9607, C-9614, C-9621, C-9637*
+*Related: C-2424, C-2438, C-2446, C-2458, C-2477*
 
 ---
 
@@ -756,7 +755,7 @@ Utah Valley University; site of the contested event.
 
 UVU Left-Side Footage Black Hole; camera coverage question.
 
-*Related: C-9596*
+*Related: C-2424*
 
 ---
 
@@ -764,7 +763,7 @@ UVU Left-Side Footage Black Hole; camera coverage question.
 
 Catholic Conversion Rumor; host's Catholic-curious account.
 
-*Related: C-9598, C-9599, C-9633, C-9636*
+*Related: C-2428, C-2429, C-2472, C-2475*
 
 ---
 
@@ -772,7 +771,7 @@ Catholic Conversion Rumor; host's Catholic-curious account.
 
 Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.
 
-*Related: C-9598, C-9599, C-9609*
+*Related: C-2428, C-2429, C-2442*
 
 ---
 
@@ -780,7 +779,7 @@ Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.
 
 .30-06 Forensic Narrative Validity; host says the neck could not have stopped it.
 
-*Related: C-9601*
+*Related: C-2432*
 
 ---
 
@@ -788,7 +787,7 @@ Charlie Kirk Catholic Trajectory Verification; Mass attendance and conversion.
 
 Liberty University; venue of Charlie's slated speaking slot.
 
-*Related: C-9602, C-9628*
+*Related: C-2433, C-2466*
 
 ---
 
@@ -796,7 +795,7 @@ Liberty University; venue of Charlie's slated speaking slot.
 
 Turning Point USA; subject of lead-time, revenue and cover-up remarks.
 
-*Related: C-9602, C-9604, C-9608, C-9611, C-9622, C-9627, C-9629, C-9630, C-9635, C-9636, C-9637*
+*Related: C-2433, C-2435, C-2440, C-2443, C-2459, C-2465, C-2467, C-2469, C-2474, C-2475, C-2477*
 
 ---
 
@@ -804,7 +803,7 @@ Turning Point USA; subject of lead-time, revenue and cover-up remarks.
 
 Existing node reused for new claims in this episode.
 
-*Related: C-9605, C-9626*
+*Related: C-2436, C-2463*
 
 ---
 
@@ -812,7 +811,7 @@ Existing node reused for new claims in this episode.
 
 Sam Parker; asked who the green-hoodie figure was.
 
-*Related: C-9606*
+*Related: C-2437*
 
 ---
 
@@ -820,7 +819,7 @@ Sam Parker; asked who the green-hoodie figure was.
 
 Matt Walsh; cited on disloyalty of public sniping.
 
-*Related: C-9610*
+*Related: C-2441*
 
 ---
 
@@ -828,7 +827,7 @@ Matt Walsh; cited on disloyalty of public sniping.
 
 Donald Trump Jr.; named among those campuses want to host.
 
-*Related: C-9612*
+*Related: C-2444*
 
 ---
 
@@ -836,7 +835,7 @@ Donald Trump Jr.; named among those campuses want to host.
 
 UVU Event Approval Timeline Anomaly; booking lead-time.
 
-*Related: C-9612, C-9614, C-9621*
+*Related: C-2444, C-2446, C-2458*
 
 ---
 
@@ -845,7 +844,7 @@ UVU Event Approval Timeline Anomaly; booking lead-time.
 Node Type: Organization
 Yale student debating society, which the host says has existed since 1934 and hosted the Lila Rose debate she cites.
 
-*Related: C-9618, C-9619*
+*Related: C-2455, C-2456*
 
 ---
 
@@ -853,7 +852,7 @@ Yale student debating society, which the host says has existed since 1934 and ho
 
 Michael Knowles; effigy burned at a TPUSA event, per host.
 
-*Related: C-9622*
+*Related: C-2459*
 
 ---
 
@@ -861,7 +860,7 @@ Michael Knowles; effigy burned at a TPUSA event, per host.
 
 Discord; platform of the Fed Discord messages.
 
-*Related: C-9623*
+*Related: C-2460*
 
 ---
 
@@ -869,7 +868,7 @@ Discord; platform of the Fed Discord messages.
 
 FBI; the Feds in the Discord remark.
 
-*Related: C-9623*
+*Related: C-2460*
 
 ---
 
@@ -877,7 +876,7 @@ FBI; the Feds in the Discord remark.
 
 Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.
 
-*Related: C-9625*
+*Related: C-2462*
 
 ---
 
@@ -885,7 +884,7 @@ Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.
 
 TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.
 
-*Related: C-9629, C-9630*
+*Related: C-2467, C-2469*
 
 ---
 
@@ -894,7 +893,7 @@ TPUSA Post-Assassination Merchandise Revenue Claim; T-shirts and revenue.
 Node Type: Topic
 Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whether the host's podcast should be criticized for running ads.
 
-*Related: C-9631, C-9632*
+*Related: C-2470, C-2471*
 
 ---
 
@@ -902,7 +901,7 @@ Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whet
 
 Elon Musk; DOGE did not exist before him, per host.
 
-*Related: C-9634*
+*Related: C-2473*
 
 ---
 
@@ -910,7 +909,7 @@ Elon Musk; DOGE did not exist before him, per host.
 
 TPUSA DOGE Department / Financial Audit; DOGE remark.
 
-*Related: C-9634*
+*Related: C-2473*
 
 ---
 
@@ -918,7 +917,7 @@ TPUSA DOGE Department / Financial Audit; DOGE remark.
 
 Kirk Internet DOGE Money-Tracing Effort; DOGE remark.
 
-*Related: C-9634*
+*Related: C-2473*
 
 ---
 
@@ -926,7 +925,7 @@ Kirk Internet DOGE Money-Tracing Effort; DOGE remark.
 
 TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.
 
-*Related: C-9636*
+*Related: C-2475*
 
 ---
 
@@ -934,7 +933,7 @@ TPUSA Faith / Christian Zionist Infiltration Question; donor-pressure framing.
 
 Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.
 
-*Related: C-9638*
+*Related: C-2478*
 
 ---
 
@@ -942,7 +941,7 @@ Egyptian Military Plane Tracking Investigation; cited as a prior nerve-hit.
 
 TPUSA Non-Disparagement Enforcement Campaign; NDA remark.
 
-*Related: C-9639*
+*Related: C-2480*
 
 ---
 
@@ -950,7 +949,7 @@ TPUSA Non-Disparagement Enforcement Campaign; NDA remark.
 
 Brigitte Macron; subject of the host's tangential remark.
 
-*Related: C-9640*
+*Related: C-2481*
 
 ---
 
@@ -958,7 +957,7 @@ Brigitte Macron; subject of the host's tangential remark.
 
 Frank Turek CPR Claim Verification; stage remarks.
 
-*Related: C-9643*
+*Related: C-2486*
 
 ---
 
@@ -966,7 +965,7 @@ Frank Turek CPR Claim Verification; stage remarks.
 
 Ian Carroll; named as a regular text contact.
 
-*Related: C-9645*
+*Related: C-2489*
 
 ---
 
@@ -974,7 +973,7 @@ Ian Carroll; named as a regular text contact.
 
 Dave Smith; named as a regular text contact.
 
-*Related: C-9645*
+*Related: C-2489*
 
 ---
 
@@ -982,7 +981,7 @@ Dave Smith; named as a regular text contact.
 
 First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.
 
-*Related: C-9645*
+*Related: C-2489*
 
 ---
 
@@ -990,13 +989,13 @@ First named by the host at 01:04:09 in episode 027 as a commentator a viewer sug
 
 The host's husband; runs the business side of the podcast.
 
-*Related: C-9646*
+*Related: C-2490*
 
 ---
 
 ## V. Claim Register
 
-**C-1617** Grok Summary Asserts Podcast #1 Global Ranking per Podscribe
+**C-2408** Grok Summary Asserts Podcast #1 Global Ranking per Podscribe
 
 Claim Timestamp: 00:02:10
 
@@ -1010,7 +1009,7 @@ Investigative Direction: Cross-check Podscribe ranking data independently; verif
 
 ---
 
-**C-1618** Host Concurs Grok Summary is Fact-Checked and True
+**C-2409** Host Concurs Grok Summary is Fact-Checked and True
 
 Claim Timestamp: 00:02:10
 
@@ -1024,7 +1023,7 @@ Investigative Direction: Identify which elements of the Grok summary the host is
 
 ---
 
-**C-1619** Erika Kirk States She Has Not Been Angry with God
+**C-2417** Erika Kirk States She Has Not Been Angry with God
 
 Claim Timestamp: 00:08:12
 
@@ -1038,7 +1037,7 @@ Investigative Direction: Verify against full unedited interview audio; identify 
 
 ---
 
-**C-1620** Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught
+**C-2420** Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught
 
 Claim Timestamp: 00:12:21
 
@@ -1052,7 +1051,7 @@ Investigative Direction: Obtain unedited interview transcript; assess whether th
 
 ---
 
-**C-1621** Erika Kirk States She Has Seen the Autopsy Report and Evidence Portions
+**C-2421** Erika Kirk States She Has Seen the Autopsy Report and Evidence Portions
 
 Claim Timestamp: 00:12:21
 
@@ -1067,7 +1066,7 @@ Investigative Direction: Identify the legal pathway by which a non-lawyer spouse
 
 ---
 
-**C-1622** Erika Kirk Describes Charlie's Saint Michael Pendant as His "Armor"
+**C-2427** Erika Kirk Describes Charlie's Saint Michael Pendant as His "Armor"
 
 Claim Timestamp: 00:16:16
 
@@ -1082,7 +1081,7 @@ Investigative Direction: Obtain photographs of the pendant from TPUSA or family 
 
 ---
 
-**C-1623** Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk
+**C-2426** Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk
 
 Claim Timestamp: 00:15:23
 
@@ -1097,7 +1096,7 @@ Investigative Direction: Obtain original footage to identify the priest and any 
 
 ---
 
-**C-1624** Erika Kirk Requests Grace for Those Present on Day of Assassination
+**C-2431** Erika Kirk Requests Grace for Those Present on Day of Assassination
 
 Claim Timestamp: 00:18:32
 
@@ -1111,7 +1110,7 @@ Investigative Direction: Catalog the specific AI-generated image claims Erika re
 
 ---
 
-**C-1625** Allie Beth Stuckey Asserts UVU Event Was Requested, Not Approved, in July
+**C-2447** Allie Beth Stuckey Asserts UVU Event Was Requested, Not Approved, in July
 
 Claim Timestamp: 00:35:13
 
@@ -1126,7 +1125,7 @@ Investigative Direction: Obtain Allie's underlying text message exchange with Ch
 
 ---
 
-**C-1626** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out
+**C-2448** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out
 
 Claim Timestamp: 00:36:03
 
@@ -1141,21 +1140,21 @@ Investigative Direction: Obtain the underlying text thread to verify Allie's cha
 
 ---
 
-**C-3740** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out (revises C-1626 title)
+**C-2449** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out (revises C-2448 title)
 
 Claim Timestamp: 00:36:03
-Claim: C-1626's title says the venue was confirmed two months out, which inverts its own body. Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
+Claim: C-2448's title says the venue was confirmed two months out, which inverts its own body. Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
 Transcript Snippet: She says, "Since some of you guys are struggling, no venue yet, 2 months out."
 Anchored Artifacts: A-1347.2
 Mentions: N-227
 Related Nodes: N-10228
-Revises: C-1626
+Revises: C-2448
 Confidence: high
-Investigative Direction: Read with C-1626; obtain the underlying text thread to verify Allie's characterization of venue status.
+Investigative Direction: Read with C-2448; obtain the underlying text thread to verify Allie's characterization of venue status.
 
 ---
 
-**C-1627** Lila Rose Reports Stanford Event Was to Be Set Up in Three Weeks
+**C-2453** Lila Rose Reports Stanford Event Was to Be Set Up in Three Weeks
 
 Claim Timestamp: 00:37:49
 
@@ -1170,7 +1169,7 @@ Investigative Direction: Verify Lila Rose's Stanford invitation claim against th
 
 ---
 
-**C-1628** Lila Rose Reports Yale Debate Was Planned Within Two Months
+**C-2454** Lila Rose Reports Yale Debate Was Planned Within Two Months
 
 Claim Timestamp: 00:37:49
 
@@ -1185,7 +1184,7 @@ Investigative Direction: Identify the Yale debate date and verify against Yale P
 
 ---
 
-**C-1629** Alex Clark Attributes Mikey McCoy's Korea/Japan Trip to Production Director's Request
+**C-2464** Alex Clark Attributes Mikey McCoy's Korea/Japan Trip to Production Director's Request
 
 Claim Timestamp: 00:46:46
 
@@ -1199,7 +1198,7 @@ Investigative Direction: Identify the named production director and verify trave
 
 ---
 
-**C-1630** Alex Clark States She Did Not Run Ad Sponsorships on Charlie Tribute Episodes
+**C-2468** Alex Clark States She Did Not Run Ad Sponsorships on Charlie Tribute Episodes
 
 Claim Timestamp: 00:48:47
 
@@ -1213,7 +1212,7 @@ Investigative Direction: Verify whether Alex Clark's tribute episodes were ad-fr
 
 ---
 
-**C-1631** Alyssa Cordova Suggests NDA Exists Between TPUSA and Candace via Blexit
+**C-2479** Alyssa Cordova Suggests NDA Exists Between TPUSA and Candace via Blexit
 
 Claim Timestamp: 00:55:21
 
@@ -1228,7 +1227,7 @@ Investigative Direction: Confirm or refute the existence of any such NDA through
 
 ---
 
-**C-1632** Dinesh D'Souza Characterizes the Show as "Freak Show… Bowling"
+**C-2482** Dinesh D'Souza Characterizes the Show as "Freak Show… Bowling"
 
 Claim Timestamp: 00:57:25
 
@@ -1242,7 +1241,7 @@ Investigative Direction: Capture original post timestamp and any subsequent D'So
 
 ---
 
-**C-1633** Kolby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event
+**C-2439** Kolby Sessions Publicly Identifies Himself as the Green-Hoodie Figure at the UVU Event
 
 Claim Timestamp: 00:25:41
 
@@ -1257,7 +1256,7 @@ Investigative Direction: Verify Kolby Sessions's UVU student status and the exis
 
 ---
 
-**C-1634** Tom Paul Viewer Comment References Andrew Klavan Discussing Charlie's Heartbeat on Alex Clark Show
+**C-2484** Tom Paul Viewer Comment References Andrew Klavan Discussing Charlie's Heartbeat on Alex Clark Show
 
 Claim Timestamp: 00:59:56
 
@@ -1272,7 +1271,7 @@ Investigative Direction: Locate the specific Alex Clark show episode and Andrew 
 
 ---
 
-**C-1635** Arm Hanna Viewer Comment Endorses Host's Forgiveness Framing
+**C-2488** Arm Hanna Viewer Comment Endorses Host's Forgiveness Framing
 
 Claim Timestamp: 1:03:27
 
@@ -1286,7 +1285,7 @@ Investigative Direction: None – viewer opinion, not an investigative target.
 
 ---
 
-**C-3755** Host says Turning Point USA is telling a lot of lies and is engaged in a cover-up
+**C-2476** Host says Turning Point USA is telling a lot of lies and is engaged in a cover-up
 
 Claim Timestamp: 00:52:20
 
@@ -1301,7 +1300,7 @@ Investigative Direction: List the specific TPUSA statements the host calls lies 
 
 ---
 
-**C-9584** Host Says Podcast Spent Nothing on Advertising in Its First Year and a Half
+**C-2407** Host Says Podcast Spent Nothing on Advertising in Its First Year and a Half
 
 Claim Timestamp: 00:01:19
 
@@ -1312,13 +1311,13 @@ Transcript Snippet: which means we have not spent, since we started this podcast
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11228
-Supports: C-1617
+Supports: C-2408
 Tags: relevance:tangential
 Investigative Direction: Compare Podscribe ranking data for the date with any ad-spend disclosures from the show.
 
 ---
 
-**C-9585** Host Says Daily Wire Leaders Fired Her
+**C-2411** Host Says Daily Wire Leaders Fired Her
 
 Claim Timestamp: 00:03:29
 
@@ -1333,7 +1332,7 @@ Investigative Direction: Review the 2024 separation announcements from the host 
 
 ---
 
-**C-9586** Host Says She Stopped Doing the Pro-Israel Thing
+**C-2410** Host Says She Stopped Doing the Pro-Israel Thing
 
 Claim Timestamp: 00:02:10
 
@@ -1348,7 +1347,7 @@ Investigative Direction: Compare the host's pre-2024 statements on Israel with l
 
 ---
 
-**C-9587** Host Says Australia Banned Her
+**C-2412** Host Says Australia Banned Her
 
 Claim Timestamp: 00:03:43
 
@@ -1363,7 +1362,7 @@ Investigative Direction: Check the Australian Home Affairs visa decision and the
 
 ---
 
-**C-9588** Host Says Four People Work on the Podcast Every Day
+**C-2413** Host Says Four People Work on the Podcast Every Day
 
 Claim Timestamp: 00:04:22
 
@@ -1379,7 +1378,7 @@ Investigative Direction: Compare with the staff the host later describes or list
 
 ---
 
-**C-9589** Host Says Watters Also Followed Erika at the Ole Miss Event With Vance
+**C-2414** Host Says Watters Also Followed Erika at the Ole Miss Event With Vance
 
 Claim Timestamp: 00:06:17
 
@@ -1395,7 +1394,7 @@ Investigative Direction: Obtain the Ole Miss event date, the Fox News Primetime 
 
 ---
 
-**C-9590** Host Says Erika Told the Memorial Crowd She Forgave the Killer
+**C-2415** Host Says Erika Told the Memorial Crowd She Forgave the Killer
 
 Claim Timestamp: 00:07:26
 
@@ -1410,7 +1409,7 @@ Investigative Direction: Pull the memorial-service video and transcript for the 
 
 ---
 
-**C-9591** Host Says Memorial Event Was on the 21st After Correction
+**C-2416** Host Says Memorial Event Was on the 21st After Correction
 
 Claim Timestamp: 00:07:26
 
@@ -1425,7 +1424,7 @@ Investigative Direction: Confirm the memorial service date; the host's arithmeti
 
 ---
 
-**C-9592** Host Says She Does Not Believe Robinson Was the Lone Person Involved
+**C-2418** Host Says She Does Not Believe Robinson Was the Lone Person Involved
 
 Claim Timestamp: 00:09:23
 
@@ -1441,7 +1440,7 @@ Investigative Direction: Compare with the prosecution's evidence base and any fi
 
 ---
 
-**C-9593** Host Says She Cannot Forgive Until She Knows What Happened
+**C-2419** Host Says She Cannot Forgive Until She Knows What Happened
 
 Claim Timestamp: 00:11:10
 
@@ -1456,7 +1455,7 @@ Investigative Direction: Opinion framing; track whether the host later states wh
 
 ---
 
-**C-9594** Host Says the Public Has Not Seen the Autopsy Report
+**C-2422** Host Says the Public Has Not Seen the Autopsy Report
 
 Claim Timestamp: 00:13:00
 
@@ -1467,13 +1466,13 @@ Transcript Snippet: Obviously, we have none of us have seen the autopsy report.
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10229
-Supports: C-1621
+Supports: C-2421
 Tags: relevance:core
 Investigative Direction: Check whether the Utah autopsy record has been released or sealed.
 
 ---
 
-**C-9595** Host Says Bowyer Claimed TPUSA Has 4K Footage
+**C-2423** Host Says Bowyer Claimed TPUSA Has 4K Footage
 
 Claim Timestamp: 00:13:46
 
@@ -1489,7 +1488,7 @@ Investigative Direction: Find Bowyer's original statement and ask TPUSA what 4K 
 
 ---
 
-**C-9596** Host Says Someone Claimed Every Area of the University Is Covered by Cameras
+**C-2424** Host Says Someone Claimed Every Area of the University Is Covered by Cameras
 
 Claim Timestamp: 00:13:46
 
@@ -1505,7 +1504,7 @@ Investigative Direction: Identify who made the claim and obtain the UVU camera i
 
 ---
 
-**C-9597** Host Says the Excuse for Withholding Footage Was Not Impacting the Case
+**C-2425** Host Says the Excuse for Withholding Footage Was Not Impacting the Case
 
 Claim Timestamp: 00:13:46
 
@@ -1521,7 +1520,7 @@ Investigative Direction: Find the official statements giving the reason and the 
 
 ---
 
-**C-9598** Host Says Her Tribute Said Only That They Hoped Charlie Would Become Catholic
+**C-2428** Host Says Her Tribute Said Only That They Hoped Charlie Would Become Catholic
 
 Claim Timestamp: 00:17:02
 
@@ -1537,7 +1536,7 @@ Investigative Direction: Check the tribute video and the influencers' responses 
 
 ---
 
-**C-9599** Host Says Charlie Did Not Convert to Catholicism
+**C-2429** Host Says Charlie Did Not Convert to Catholicism
 
 Claim Timestamp: 00:17:02
 
@@ -1553,7 +1552,7 @@ Investigative Direction: Ask Charlie's priests and Church records whether he was
 
 ---
 
-**C-9600** Erika Says Her Phone Went Dark for Weeks and She Insulated Herself
+**C-2430** Erika Says Her Phone Went Dark for Weeks and She Insulated Herself
 
 Claim Timestamp: 00:18:10
 
@@ -1569,7 +1568,7 @@ Investigative Direction: Compare with Erika's public posting and contact record 
 
 ---
 
-**C-9601** Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped
+**C-2432** Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped
 
 Claim Timestamp: 00:19:31
 
@@ -1585,7 +1584,7 @@ Investigative Direction: Obtain the ballistics report, caliber finding and wound
 
 ---
 
-**C-9602** Host Says Mikey McCoy Was Billed to Take Over Charlie's Liberty Event
+**C-2433** Host Says Mikey McCoy Was Billed to Take Over Charlie's Liberty Event
 
 Claim Timestamp: 00:21:44
 
@@ -1601,7 +1600,7 @@ Investigative Direction: Find the Liberty University convocation schedule and an
 
 ---
 
-**C-9603** Host Says She Took Two Weeks Away and Took the Show Off the Air for Days
+**C-2434** Host Says She Took Two Weeks Away and Took the Show Off the Air for Days
 
 Claim Timestamp: 00:22:40
 
@@ -1616,7 +1615,7 @@ Investigative Direction: Compare with the show's publishing record in September 
 
 ---
 
-**C-9604** Host Calls Tyler Bowyer a Sexual Deviant
+**C-2435** Host Calls Tyler Bowyer a Sexual Deviant
 
 Claim Timestamp: 00:23:14
 
@@ -1632,7 +1631,7 @@ Investigative Direction: Allegation stated without evidence on air; ask the host
 
 ---
 
-**C-9605** Host Says Alex Clark Wanted the WSJ Moment Until Host Caught a Lie
+**C-2436** Host Says Alex Clark Wanted the WSJ Moment Until Host Caught a Lie
 
 Claim Timestamp: 00:23:54
 
@@ -1648,7 +1647,7 @@ Investigative Direction: Identify the WSJ piece and Clark's statements about Cat
 
 ---
 
-**C-9606** Host Says She Posted a Clear Image of the Green Hoodie Figure
+**C-2437** Host Says She Posted a Clear Image of the Green Hoodie Figure
 
 Claim Timestamp: 00:25:01
 
@@ -1664,7 +1663,7 @@ Investigative Direction: Retrieve the original post thread with timestamps.
 
 ---
 
-**C-9607** Host Believes Kolby Sessions Is on the UVU Soccer Team
+**C-2438** Host Believes Kolby Sessions Is on the UVU Soccer Team
 
 Claim Timestamp: 00:25:01
 
@@ -1680,7 +1679,7 @@ Investigative Direction: Check the UVU athletics roster for Sessions.
 
 ---
 
-**C-9608** Host Says TPUSA Staff Were Back on Their Feet and Sharing Memories the Next Day
+**C-2440** Host Says TPUSA Staff Were Back on Their Feet and Sharing Memories the Next Day
 
 Claim Timestamp: 00:25:41
 
@@ -1696,7 +1695,7 @@ Investigative Direction: Collect dated interviews and posts from TPUSA staff on 
 
 ---
 
-**C-9609** Host Says Charlie Went to Mass Sometimes Daily and Died With the Pendant
+**C-2442** Host Says Charlie Went to Mass Sometimes Daily and Died With the Pendant
 
 Claim Timestamp: 00:31:41
 
@@ -1707,13 +1706,13 @@ Transcript Snippet: he was going to mass sometimes daily. He was going on Sunday
 Anchored Artifacts: 
 Mentions: N-3, N-227, N-1
 Related Nodes: N-10230, N-10164
-Supports: C-1622
+Supports: C-2427
 Tags: relevance:core
 Investigative Direction: Ask the priests and parishes involved for attendance records; examine the pendant in evidence inventory.
 
 ---
 
-**C-9610** Host Says Matt Walsh Calls Public Sniping Instead of Texting Disloyal
+**C-2441** Host Says Matt Walsh Calls Public Sniping Instead of Texting Disloyal
 
 Claim Timestamp: 00:30:15
 
@@ -1728,7 +1727,7 @@ Investigative Direction: Find Walsh's statement.
 
 ---
 
-**C-9611** Host Says She Headlined More TPUSA Campus Tours Than Anyone
+**C-2443** Host Says She Headlined More TPUSA Campus Tours Than Anyone
 
 Claim Timestamp: 00:32:15
 
@@ -1744,7 +1743,7 @@ Investigative Direction: Compare TPUSA tour rosters 2018-2024 for headliner coun
 
 ---
 
-**C-9612** Host Says Events Are Booked the Semester Before With a Long Waiting List
+**C-2444** Host Says Events Are Booked the Semester Before With a Long Waiting List
 
 Claim Timestamp: 00:32:15
 
@@ -1760,7 +1759,7 @@ Investigative Direction: Obtain TPUSA event-booking lead times for past semester
 
 ---
 
-**C-9613** Host Says Hostile Administrations Made Her Stanford Event Hard Despite the Organizer's Name on a Building
+**C-2445** Host Says Hostile Administrations Made Her Stanford Event Hard Despite the Organizer's Name on a Building
 
 Claim Timestamp: 00:33:06
 
@@ -1775,7 +1774,7 @@ Investigative Direction: Identify the Stanford event, date and organizer.
 
 ---
 
-**C-9614** Host Says a Summer Request Honored Immediately Has Never Happened on Her Tours
+**C-2446** Host Says a Summer Request Honored Immediately Has Never Happened on Her Tours
 
 Claim Timestamp: 00:33:06
 
@@ -1786,13 +1785,13 @@ Transcript Snippet: it's never happened that a college makes a request over the 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10228, N-10224, N-10012
-Supports: C-1625
+Supports: C-2447
 Tags: relevance:core
 Investigative Direction: Obtain the UVU request email, its dates, and TPUSA's calendar entry date.
 
 ---
 
-**C-9615** Host Says Stuckey's Shared Text Shows Charlie Offering Nov 3 at Auburn or South Alabama
+**C-2450** Host Says Stuckey's Shared Text Shows Charlie Offering Nov 3 at Auburn or South Alabama
 
 Claim Timestamp: 00:36:03
 
@@ -1803,13 +1802,13 @@ Transcript Snippet: November 3rd at 6:30 p. m. Either Auburn, which has 5,000 se
 Anchored Artifacts: A-3022.1
 Mentions: N-3, N-227, N-1
 Related Nodes: N-10228
-Supports: C-1625
+Supports: C-2447
 Tags: relevance:core
 Investigative Direction: Obtain the full screenshot with date and sender; confirm the Auburn and South Alabama event dates.
 
 ---
 
-**C-9616** Host Says Students Are Told to Hold Two Dates and Planning Had Not Started
+**C-2451** Host Says Students Are Told to Hold Two Dates and Planning Had Not Started
 
 Claim Timestamp: 00:36:03
 
@@ -1825,7 +1824,7 @@ Investigative Direction: Ask the Auburn and South Alabama TPUSA chapters when th
 
 ---
 
-**C-9617** Host Says She Checked and Both Alabama Events Happened This Semester
+**C-2452** Host Says She Checked and Both Alabama Events Happened This Semester
 
 Claim Timestamp: 00:36:03
 
@@ -1841,7 +1840,7 @@ Investigative Direction: Check the TPUSA fall 2025 tour listing for the two Alab
 
 ---
 
-**C-9618** Host Says the Yale Event Was With the Yale Political Union, Founded 1934
+**C-2455** Host Says the Yale Event Was With the Yale Political Union, Founded 1934
 
 Claim Timestamp: 00:38:56
 
@@ -1857,7 +1856,7 @@ Investigative Direction: Confirm the Yale Political Union's founding date and Ro
 
 ---
 
-**C-9619** Host Says About 70 People Attended the Yale Debate
+**C-2456** Host Says About 70 People Attended the Yale Debate
 
 Claim Timestamp: 00:38:56
 
@@ -1873,7 +1872,7 @@ Investigative Direction: Obtain attendance from the Yale Political Union.
 
 ---
 
-**C-9620** Host Says She Can Document Event Lead Times for Every Semester 2018 to 2024
+**C-2457** Host Says She Can Document Event Lead Times for Every Semester 2018 to 2024
 
 Claim Timestamp: 00:40:44
 
@@ -1889,7 +1888,7 @@ Investigative Direction: Await the promised semester-by-semester documentation.
 
 ---
 
-**C-9621** Host Says the Public Wants to Know Who Made the UVU Event Come Together So Fast
+**C-2458** Host Says the Public Wants to Know Who Made the UVU Event Come Together So Fast
 
 Claim Timestamp: 00:41:28
 
@@ -1905,7 +1904,7 @@ Investigative Direction: Identify who at TPUSA or UVU approved the event and whe
 
 ---
 
-**C-9622** Host Says Protesters Burned an Effigy of Michael Knowles at a TPUSA Event
+**C-2459** Host Says Protesters Burned an Effigy of Michael Knowles at a TPUSA Event
 
 Claim Timestamp: 00:41:28
 
@@ -1921,7 +1920,7 @@ Investigative Direction: Find news coverage of the Knowles effigy incident.
 
 ---
 
-**C-9623** Host Says Stuckey Softened the Fed Discord Messages
+**C-2460** Host Says Stuckey Softened the Fed Discord Messages
 
 Claim Timestamp: 00:42:32
 
@@ -1937,7 +1936,7 @@ Investigative Direction: Find the Stuckey clip and confirm her wording.
 
 ---
 
-**C-9624** Host Says Allie Beth Stuckey Hired Alyssa Cordova, Formerly Daily Wire PR Head
+**C-2461** Host Says Allie Beth Stuckey Hired Alyssa Cordova, Formerly Daily Wire PR Head
 
 Claim Timestamp: 00:44:35
 
@@ -1952,7 +1951,7 @@ Investigative Direction: Confirm Cordova's current role with Stuckey and her Dai
 
 ---
 
-**C-9625** Host Alleges Cordova Sends Out-of-Context Clips to Online Accounts to Attack People
+**C-2462** Host Alleges Cordova Sends Out-of-Context Clips to Online Accounts to Attack People
 
 Claim Timestamp: 00:44:35
 
@@ -1967,7 +1966,7 @@ Investigative Direction: Allegation only; ask the host for the messages or sourc
 
 ---
 
-**C-9626** Host Says Alex Clark Posed for the WSJ and Tried to Hard Launch Her Podcast
+**C-2463** Host Says Alex Clark Posed for the WSJ and Tried to Hard Launch Her Podcast
 
 Claim Timestamp: 00:46:06
 
@@ -1983,7 +1982,7 @@ Investigative Direction: Obtain the WSJ article, photo date and Clark's podcast 
 
 ---
 
-**C-9627** Host Says Mikey McCoy Was Being Primed to Take Over, Heard From His Father and TPUSA
+**C-2465** Host Says Mikey McCoy Was Being Primed to Take Over, Heard From His Father and TPUSA
 
 Claim Timestamp: 00:48:02
 
@@ -1999,7 +1998,7 @@ Investigative Direction: Identify the father's and TPUSA people's statements, wi
 
 ---
 
-**C-9628** Host Says Mikey Took Over Charlie's Liberty University Slot
+**C-2466** Host Says Mikey Took Over Charlie's Liberty University Slot
 
 Claim Timestamp: 00:48:02
 
@@ -2015,7 +2014,7 @@ Investigative Direction: Confirm via Liberty University's convocation schedule a
 
 ---
 
-**C-9629** Host Says TPUSA Raised Something Like 70 Million in the Weeks After Charlie's Death
+**C-2467** Host Says TPUSA Raised Something Like 70 Million in the Weeks After Charlie's Death
 
 Claim Timestamp: 00:48:02
 
@@ -2031,7 +2030,7 @@ Investigative Direction: Find TPUSA financial disclosures or reporting on post-a
 
 ---
 
-**C-9630** Host Says TPUSA Sold Freedom Charlie T-shirts at the Memorial
+**C-2469** Host Says TPUSA Sold Freedom Charlie T-shirts at the Memorial
 
 Claim Timestamp: 00:48:47
 
@@ -2047,7 +2046,7 @@ Investigative Direction: Find photos or reporting of merchandise sales at the St
 
 ---
 
-**C-9631** Host Says Her Tribute Episode Ran Zero Ads Including From YouTube
+**C-2470** Host Says Her Tribute Episode Ran Zero Ads Including From YouTube
 
 Claim Timestamp: 00:48:47
 
@@ -2063,7 +2062,7 @@ Investigative Direction: Check the tribute episode's monetization status in YouT
 
 ---
 
-**C-9632** Host Says Alex Clark Merely Postponed Ads and Made Them Up Later
+**C-2471** Host Says Alex Clark Merely Postponed Ads and Made Them Up Later
 
 Claim Timestamp: 00:50:01
 
@@ -2074,13 +2073,13 @@ Transcript Snippet: You postponed having to read ads and said that you made them
 Anchored Artifacts: 
 Mentions: N-3, N-99
 Related Nodes: N-11230
-Contradicts: C-1630
+Contradicts: C-2468
 Tags: relevance:context
 Investigative Direction: Review Clark's later episodes for make-good ad reads and her statements about them.
 
 ---
 
-**C-9633** Host Says Alex Clark Lied About Her on Her Podcast
+**C-2472** Host Says Alex Clark Lied About Her on Her Podcast
 
 Claim Timestamp: 00:50:20
 
@@ -2096,7 +2095,7 @@ Investigative Direction: Compare Clark's podcast statements about the host's Cat
 
 ---
 
-**C-9634** Host Says Dodge Did Not Exist Before Elon Musk, Rebutting Clark
+**C-2473** Host Says Dodge Did Not Exist Before Elon Musk, Rebutting Clark
 
 Claim Timestamp: 00:50:20
 
@@ -2112,7 +2111,7 @@ Investigative Direction: Find Clark's original statement and any pre-2025 TPUSA 
 
 ---
 
-**C-9635** Host Says She Did Not Say Mikey McCoy Murdered Charlie
+**C-2474** Host Says She Did Not Say Mikey McCoy Murdered Charlie
 
 Claim Timestamp: 00:50:20
 
@@ -2123,13 +2122,13 @@ Transcript Snippet: Yes, I did say that. I didn't say that Mikey murdered Charli
 Anchored Artifacts: 
 Mentions: N-3, N-190, N-1
 Related Nodes: N-10000
-Supports: C-3755
+Supports: C-2476
 Tags: relevance:core
 Investigative Direction: Review earlier episodes for the host's exact words about McCoy.
 
 ---
 
-**C-9636** Host Says TPUSA Lied About Catholicism Because of Donor Pressure
+**C-2475** Host Says TPUSA Lied About Catholicism Because of Donor Pressure
 
 Claim Timestamp: 00:51:26
 
@@ -2140,13 +2139,13 @@ Transcript Snippet: It was because likely um you guys were more concerned with y
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-1
 Related Nodes: N-10000, N-10209, N-10104
-Supports: C-3755
+Supports: C-2476
 Tags: relevance:core
 Investigative Direction: Seek donor communications about Charlie's Catholic interest; the host frames the preceding clause sarcastically.
 
 ---
 
-**C-9637** Host Asks UVU TPUSA Chapter Staff to Email Tips
+**C-2477** Host Asks UVU TPUSA Chapter Staff to Email Tips
 
 Claim Timestamp: 00:54:40
 
@@ -2162,7 +2161,7 @@ Investigative Direction: Follow up on any tips received about the UVU event requ
 
 ---
 
-**C-9638** Host Says Overreaction by TPUSA Shows They Hit a Nerve, as With the Egyptian Planes
+**C-2478** Host Says Overreaction by TPUSA Shows They Hit a Nerve, as With the Egyptian Planes
 
 Claim Timestamp: 00:54:40
 
@@ -2178,7 +2177,7 @@ Investigative Direction: Pattern claim; compare TPUSA's responses across the epi
 
 ---
 
-**C-9639** Host Alleges Cordova Uses NDAs to Silence People She Mistreats
+**C-2480** Host Alleges Cordova Uses NDAs to Silence People She Mistreats
 
 Claim Timestamp: 00:55:59
 
@@ -2194,7 +2193,7 @@ Investigative Direction: Allegation only; ask the host for the sources behind it
 
 ---
 
-**C-9640** Host Says Brigitte Macron Is a Man
+**C-2481** Host Says Brigitte Macron Is a Man
 
 Claim Timestamp: 00:56:47
 
@@ -2209,7 +2208,7 @@ Investigative Direction: Fringe assertion recorded as said; see the Macron defam
 
 ---
 
-**C-9641** Host Says Erika Can See the Prosecution's Evidence
+**C-2483** Host Says Erika Can See the Prosecution's Evidence
 
 Claim Timestamp: 00:59:00
 
@@ -2220,13 +2219,13 @@ Transcript Snippet: She can see what evidence they actually have and what they'r
 Anchored Artifacts: 
 Mentions: N-3, N-2
 Related Nodes: N-10229
-Supports: C-1621
+Supports: C-2421
 Tags: relevance:core
 Investigative Direction: Check the Utah victim-rights statute on access to evidence for next of kin.
 
 ---
 
-**C-9642** Host Says She May Have Been With Charlie at the 2018 Israel Embassy Opening
+**C-2485** Host Says She May Have Been With Charlie at the 2018 Israel Embassy Opening
 
 Claim Timestamp: 00:59:56
 
@@ -2242,7 +2241,7 @@ Investigative Direction: Check Charlie's and the host's 2018 travel against the 
 
 ---
 
-**C-9643** Host Says Frank Turek Said on Stage He Knew in the Car Charlie Was Gone
+**C-2486** Host Says Frank Turek Said on Stage He Knew in the Car Charlie Was Gone
 
 Claim Timestamp: 01:00:34
 
@@ -2258,7 +2257,7 @@ Investigative Direction: Find the stage remarks by Turek and compare with accoun
 
 ---
 
-**C-9644** Host Says People Asked How Charlie Went Into Surgery After Being Told He Died Instantly
+**C-2487** Host Says People Asked How Charlie Went Into Surgery After Being Told He Died Instantly
 
 Claim Timestamp: 01:00:34
 
@@ -2274,7 +2273,7 @@ Investigative Direction: Obtain hospital and EMS records on pulse, time of death
 
 ---
 
-**C-9645** Host Says She Texts Ian Carroll and Dave Smith Regularly
+**C-2489** Host Says She Texts Ian Carroll and Dave Smith Regularly
 
 Claim Timestamp: 01:04:09
 
@@ -2289,7 +2288,7 @@ Investigative Direction: Context on the host's network; no confirmation needed.
 
 ---
 
-**C-9646** Host Says She Could Not Offer Her Team Health Insurance in the First Year
+**C-2490** Host Says She Could Not Offer Her Team Health Insurance in the First Year
 
 Claim Timestamp: 01:06:06
 
@@ -2407,7 +2406,7 @@ Confidence: low
 - **Transcript ambiguity:** "Kolby Sessions" and "Kolby Sessions" both appear in the transcript within the same artifact context; treat as the same person pending verification.
 - **Transcript ambiguity:** Host alternately refers to "Lila Rose" and "Layla Rose" within the same segment; treat as "Lila Rose" pending verification (likely host verbal variation).
 - **Artifact verbally referenced but not shown in this episode:** Host references a previously displayed email regarding UVU event approval (from the prior day's show); Allie's tweets respond to that prior display.
-- **Claim C-1635 failed full admission test** in strict evidentiary terms (viewer opinion, not investigable falsifiable proposition); inscribed only because A-1354.2 must have a linked claim for ledger completeness; flagged here for transparency.
+- **Claim C-2488 failed full admission test** in strict evidentiary terms (viewer opinion, not investigable falsifiable proposition); inscribed only because A-1354.2 must have a linked claim for ledger completeness; flagged here for transparency.
 - **Requires human verification:** The Kolby Sessions self-ID post's account handle and date stamp are not provided in the transcript; A-1352.1 metadata is reconstructed from host read-aloud.
 - **Name uncertainty:** "Mikey's" Liberty University speaking replacement (host commentary only; not artifact-anchored in this episode; tracked under N-190 but not inscribed as claim).
 

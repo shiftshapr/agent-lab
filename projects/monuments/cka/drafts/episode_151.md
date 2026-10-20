@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10e): N-898, N-11311
   - Hole-minted Nodes (reintro-ep151): N-10864
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10e): C-11757–C-11803
+  - Claim Range: C-13003–C-13069
   - (see registers)
 
 # Episode 151 Analysis – "More Exclusive Footage! For Whatever It's Farnsworth… | Ep 386"
@@ -32,7 +32,6 @@
 - Analysis Date: 2026-09-14
 - Episode 151 Ledger Summary
   - Artifact Families Introduced: A-2362, A-2363, A-2364, A-2365, A-2366, A-2367, A-2368, A-2369, A-2370, A-2371, A-2372, A-2373, A-2521
-  - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-10827, N-10829, N-10830
   - Reused Nodes Appearing: N-11, N-506, N-246, N-3, N-60, N-366, N-605, N-611, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-897, N-10828, N-11310
   - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erika Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terryl Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
@@ -48,7 +47,7 @@
 Video Timestamp: 00:48:25
 Speaker: N-3
 Quote: Of course, if you guys have any tips, you can send them to us directly.
-Context: DIA tip-line call: viewer emails on security-detail footwear and invitation for more tips (C-3746, A-2521.1).
+Context: DIA tip-line call: viewer emails on security-detail footwear and invitation for more tips (C-13061, A-2521.1).
 Tags: tips_network, dia_tip_line, transcript_backfill
 Confidence: high
 
@@ -202,7 +201,7 @@ Video Timestamp: 00:30:55–00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3430, C-3431, C-3443*
+*Related: C-13041, C-13040, C-13042*
 
 ---
 
@@ -216,7 +215,7 @@ Video Timestamp: 00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3435, C-3436, C-3442, N-10827, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-13051, C-13052, C-13047, N-10827, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -230,7 +229,7 @@ Video Timestamp: 00:41:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3426, C-3442, N-10827*
+*Related: C-13054, C-13047, N-10827*
 
 ---
 
@@ -244,7 +243,7 @@ Video Timestamp: 00:40:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3427, N-10827, Tyler Bowyer (existing node – ID resolution required), N-11*
+*Related: C-13053, N-10827, Tyler Bowyer (existing node – ID resolution required), N-11*
 
 ---
 
@@ -258,7 +257,7 @@ Video Timestamp: 00:43:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3428, C-3442, N-10827, Andrew Kolvet (existing node – ID resolution required)*
+*Related: C-13057, C-13047, N-10827, Andrew Kolvet (existing node – ID resolution required)*
 
 ---
 
@@ -272,7 +271,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3429, N-2, Blake Neff (existing node – ID resolution required)*
+*Related: C-13058, N-2, Blake Neff (existing node – ID resolution required)*
 
 ---
 
@@ -286,7 +285,7 @@ Video Timestamp: 00:09:47–00:12:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3434, C-3444*
+*Related: C-13018, C-13019*
 
 ---
 
@@ -300,7 +299,7 @@ Video Timestamp: 00:09:47–00:12:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3432, C-3433, C-3444, Frank Turek (existing node – ID resolution required), Brian Harpole (existing node – ID resolution required), Jeremy Boreing (existing node – ID resolution required)*
+*Related: C-13017, C-13021, C-13019, Frank Turek (existing node – ID resolution required), Brian Harpole (existing node – ID resolution required), Jeremy Boreing (existing node – ID resolution required)*
 
 ---
 
@@ -314,7 +313,7 @@ Video Timestamp: 00:19:51–00:20:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; footage provenance unverified in episode)
 
-*Related: C-3440, Terryl Farnsworth (existing node – ID resolution required)*
+*Related: C-13031, Terryl Farnsworth (existing node – ID resolution required)*
 
 ---
 
@@ -328,7 +327,7 @@ Video Timestamp: 00:16:28–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; host's frame-by-frame interpretations are interpretive)
 
-*Related: C-3437, C-3438, C-3439, C-3441, N-506*
+*Related: C-13029, C-13025, C-13035, C-13028, N-506*
 
 ---
 
@@ -356,7 +355,7 @@ Video Timestamp: 00:37:35–00:40:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (image shown but underlying source provenance not stated)
 
-*Related: C-3442, N-10827*
+*Related: C-13047, N-10827*
 
 ---
 
@@ -370,7 +369,7 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (emails described, not shown)
 
-*Related: C-3746, N-246, N-10830*
+*Related: C-13061, N-246, N-10830*
 
 ---
 
@@ -383,7 +382,7 @@ Video Timestamp: 00:01:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11758*
+*Related: C-13004*
 
 ---
 
@@ -398,7 +397,7 @@ Video Timestamp: 00:06:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11767*
+*Related: C-13013*
 
 ---
 
@@ -411,7 +410,7 @@ Video Timestamp: 00:34:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11787*
+*Related: C-13045*
 
 ---
 
@@ -424,7 +423,7 @@ Video Timestamp: 00:45:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11794*
+*Related: C-13059*
 
 ---
 
@@ -439,7 +438,7 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11796*
+*Related: C-13062*
 
 ---
 
@@ -452,7 +451,7 @@ Video Timestamp: 00:48:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11798*
+*Related: C-13064*
 
 ---
 
@@ -465,7 +464,7 @@ Video Timestamp: 00:14:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11776*
+*Related: C-13027*
 
 ---
 
@@ -478,7 +477,7 @@ Video Timestamp: 00:20:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11778, C-11779, C-11780*
+*Related: C-13032, C-13033, C-13034*
 
 ---
 
@@ -493,7 +492,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1, C-3426, C-3427, C-3428, C-3435, C-3436, C-3442*
+*Related: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1, C-13054, C-13053, C-13057, C-13051, C-13052, C-13047*
 
 ---
 
@@ -532,7 +531,7 @@ Claim Count: 1 (in this episode)
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-3746, A-2521.1*
+*Related: C-13061, A-2521.1*
 
 ---
 
@@ -541,7 +540,7 @@ Investigative Pressure: Low
 Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
-*Related: C-3427, C-3442*
+*Related: C-13053, C-13047*
 
 ---
 
@@ -549,7 +548,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 Subject of the assassination; the host reports his coat, necklace, state of mind and wish to have her back.
 
-*Related: C-11757, C-11760, C-11761, C-11769, C-11772, C-11774, C-11786, C-11788, C-11789, C-11797, C-11798, C-11801, C-11802, C-11803*
+*Related: C-13003, C-13006, C-13007, C-13015, C-13022, C-13024, C-13044, C-13046, C-13048, C-13063, C-13064, C-13067, C-13068, C-13069*
 
 ---
 
@@ -557,7 +556,7 @@ Subject of the assassination; the host reports his coat, necklace, state of mind
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11757, C-11784, C-11789, C-11791, C-11795, C-11803*
+*Related: C-13003, C-13039, C-13048, C-13050, C-13060, C-13069*
 
 ---
 
@@ -565,7 +564,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11760, C-11761, C-11780, C-11785*
+*Related: C-13006, C-13007, C-13034, C-13043*
 
 ---
 
@@ -573,7 +572,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11776*
+*Related: C-13027*
 
 ---
 
@@ -581,7 +580,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11775, C-11782*
+*Related: C-13026, C-13037*
 
 ---
 
@@ -589,7 +588,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11778*
+*Related: C-13032*
 
 ---
 
@@ -597,7 +596,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11788*
+*Related: C-13046*
 
 ---
 
@@ -605,7 +604,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11762*
+*Related: C-13008*
 
 ---
 
@@ -613,7 +612,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11788*
+*Related: C-13046*
 
 ---
 
@@ -621,7 +620,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11775, C-11782*
+*Related: C-13026, C-13037*
 
 ---
 
@@ -629,7 +628,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11768*
+*Related: C-13016*
 
 ---
 
@@ -637,7 +636,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11764, C-11767*
+*Related: C-13010, C-13013*
 
 ---
 
@@ -645,7 +644,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11786*
+*Related: C-13044*
 
 ---
 
@@ -653,7 +652,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11760*
+*Related: C-13006*
 
 ---
 
@@ -661,7 +660,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11797, C-11798*
+*Related: C-13063, C-13064*
 
 ---
 
@@ -669,7 +668,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11773, C-11799*
+*Related: C-13023, C-13065*
 
 ---
 
@@ -677,7 +676,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11771, C-11772*
+*Related: C-13020, C-13022*
 
 ---
 
@@ -685,7 +684,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11772*
+*Related: C-13022*
 
 ---
 
@@ -693,7 +692,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11780*
+*Related: C-13034*
 
 ---
 
@@ -701,7 +700,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11778, C-11779*
+*Related: C-13032, C-13033*
 
 ---
 
@@ -709,7 +708,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11794*
+*Related: C-13059*
 
 ---
 
@@ -717,7 +716,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11764, C-11765, C-11766, C-11767, C-11770*
+*Related: C-13010, C-13011, C-13012, C-13013, C-13014*
 
 ---
 
@@ -725,7 +724,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11790, C-11791, C-11792*
+*Related: C-13049, C-13050, C-13055*
 
 ---
 
@@ -733,7 +732,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11762*
+*Related: C-13008*
 
 ---
 
@@ -741,7 +740,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Existing topic or organization reused for new claims in this episode.
 
-*Related: C-11760*
+*Related: C-13006*
 
 ---
 
@@ -749,7 +748,7 @@ Existing topic or organization reused for new claims in this episode.
 
 Andrew Kolvet; named in the host's account of the Alex Clark episode about her Catholic remark.
 
-*Related: C-11788*
+*Related: C-13046*
 
 ---
 
@@ -757,7 +756,7 @@ Andrew Kolvet; named in the host's account of the Alex Clark episode about her C
 
 Erika Kirk; subject of the stepping-down rumor, the Vanity Fair piece and the statue tweet.
 
-*Related: C-11784, C-11793, C-11794, C-11795*
+*Related: C-13039, C-13056, C-13059, C-13060*
 
 ---
 
@@ -765,7 +764,7 @@ Erika Kirk; subject of the stepping-down rumor, the Vanity Fair piece and the st
 
 Terryl Farnsworth; SBI thumb-drive and Google file-send claims.
 
-*Related: C-11778, C-11779, C-11780*
+*Related: C-13032, C-13033, C-13034*
 
 ---
 
@@ -773,7 +772,7 @@ Terryl Farnsworth; SBI thumb-drive and Google file-send claims.
 
 Brian Harpole; CPR discrepancy and his lawsuit against the host.
 
-*Related: C-11771, C-11772, C-11773, C-11799*
+*Related: C-13020, C-13022, C-13023, C-13065*
 
 ---
 
@@ -781,7 +780,7 @@ Brian Harpole; CPR discrepancy and his lawsuit against the host.
 
 Host; speaks for herself throughout.
 
-*Related: C-11758, C-11763, C-11764, C-11765, C-11767, C-11770, C-11773, C-11774, C-11787, C-11788, C-11794, C-11796, C-11797, C-11798, C-11799, C-11800, C-11801*
+*Related: C-13004, C-13009, C-13010, C-13011, C-13013, C-13014, C-13023, C-13024, C-13045, C-13046, C-13059, C-13062, C-13063, C-13064, C-13065, C-13066, C-13067*
 
 ---
 
@@ -789,7 +788,7 @@ Host; speaks for herself throughout.
 
 Jeremy Boreing; the host's former employer and a subject of her remarks.
 
-*Related: C-11764, C-11765, C-11766, C-11767, C-11768, C-11769, C-11770*
+*Related: C-13010, C-13011, C-13012, C-13013, C-13016, C-13015, C-13014*
 
 ---
 
@@ -797,7 +796,7 @@ Jeremy Boreing; the host's former employer and a subject of her remarks.
 
 Tyler Robinson; the black-shirt figure is compared with him.
 
-*Related: C-11775, C-11776, C-11777, C-11781, C-11782*
+*Related: C-13026, C-13027, C-13030, C-13036, C-13037*
 
 ---
 
@@ -805,7 +804,7 @@ Tyler Robinson; the black-shirt figure is compared with him.
 
 Officer Bagley; his testimony linking the black-shirt and maroon figures.
 
-*Related: C-11775*
+*Related: C-13026*
 
 ---
 
@@ -813,7 +812,7 @@ Officer Bagley; his testimony linking the black-shirt and maroon figures.
 
 Laura Loomer; the host says Boreing called her a national treasure.
 
-*Related: C-11766*
+*Related: C-13012*
 
 ---
 
@@ -827,7 +826,7 @@ Shane Cashman; source of the Ted Bundy line the host repeats.
 
 Jessica Reed Kraus; the host says Boreing compared her to the host.
 
-*Related: C-11766*
+*Related: C-13012*
 
 ---
 
@@ -835,7 +834,7 @@ Jessica Reed Kraus; the host says Boreing compared her to the host.
 
 Frank Turek; the CPR discrepancy, scrubs and the Boreing interview.
 
-*Related: C-11758, C-11759, C-11763, C-11771, C-11772, C-11774, C-11783*
+*Related: C-13004, C-13005, C-13009, C-13020, C-13022, C-13024, C-13038*
 
 ---
 
@@ -843,7 +842,7 @@ Frank Turek; the CPR discrepancy, scrubs and the Boreing interview.
 
 Alex Clark; trailer, blocking of commenters and the Catholic-remark episode.
 
-*Related: C-11784, C-11787, C-11788*
+*Related: C-13039, C-13045, C-13046*
 
 ---
 
@@ -851,7 +850,7 @@ Alex Clark; trailer, blocking of commenters and the Catholic-remark episode.
 
 First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.
 
-*Related: C-11758, C-11759, C-11760, C-11762*
+*Related: C-13004, C-13005, C-13006, C-13008*
 
 ---
 
@@ -859,7 +858,7 @@ First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's sec
 
 First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.
 
-*Related: C-11771*
+*Related: C-13020*
 
 ---
 
@@ -868,7 +867,7 @@ First named by the host at 00:07:25 in episode 151. Commentator (Instagram handl
 Node Type: Topic
 The host's questions over why Blake Harreff and others from the security team were wearing hospital scrubs on returning to UVU on the evening of September 10.
 
-*Related: C-11758, C-11759, C-11762, C-11783*
+*Related: C-13004, C-13005, C-13008, C-13038*
 
 ---
 
@@ -877,13 +876,13 @@ The host's questions over why Blake Harreff and others from the security team we
 Node Type: Topic
 The host's remark that rumors circulate that Erika Kirk is stepping down from TPUSA.
 
-*Related: C-11795*
+*Related: C-13060*
 
 ---
 
 ## V. Claim Register
 
-**C-3426** Erika Kirk Tweet on Building Two Statues
+**C-13054** Erika Kirk Tweet on Building Two Statues
 
 Claim Timestamp: 00:41:43
 
@@ -896,7 +895,7 @@ Investigative Direction: Locate original tweet with timestamp; cross-check again
 
 ---
 
-**C-3427** Tyler Bowyer tweeted TP Action Commit 100 / ballot-chase link in response to vandalism
+**C-13053** Tyler Bowyer tweeted TP Action Commit 100 / ballot-chase link in response to vandalism
 
 Claim Timestamp: 00:40:50
 
@@ -909,7 +908,7 @@ Investigative Direction: Pull the original tweet with timestamp; confirm author 
 
 ---
 
-**C-3428** Andrew Kolvet demanded Democratic response to vandalism
+**C-13057** Andrew Kolvet demanded Democratic response to vandalism
 
 Claim Timestamp: 00:43:46
 
@@ -922,7 +921,7 @@ Investigative Direction: Pull original tweet; verify which "neighboring building
 
 ---
 
-**C-3429** Blake Neff bookmarked Candace's Vanity Fair prediction tweet
+**C-13058** Blake Neff bookmarked Candace's Vanity Fair prediction tweet
 
 Claim Timestamp: 00:45:08
 
@@ -934,7 +933,7 @@ Investigative Direction: Pull original bookmark record; await release of Vanity 
 
 ---
 
-**C-3430** Alex Clark Trailer Cites 2 Timothy 3:6-7 on Women and False Teachers
+**C-13041** Alex Clark Trailer Cites 2 Timothy 3:6-7 on Women and False Teachers
 
 Claim Timestamp: 00:30:36
 
@@ -947,7 +946,7 @@ Investigative Direction: Pull full Alex Clark episode and verify transcript agai
 
 ---
 
-**C-3431** Alex Clark Trailer Speaker Says Christ Does Not Forgive Those Who Do Not Repent
+**C-13040** Alex Clark Trailer Speaker Says Christ Does Not Forgive Those Who Do Not Repent
 
 Claim Timestamp: 00:30:24
 
@@ -960,7 +959,7 @@ Investigative Direction: Pull full Alex Clark episode; verify quotation against 
 
 ---
 
-**C-3432** Frank Turek called CPR discrepancy "irrelevant"
+**C-13017** Frank Turek called CPR discrepancy "irrelevant"
 
 Claim Timestamp: 00:09:47–00:11:50
 
@@ -973,7 +972,7 @@ Investigative Direction: Pull the full Boreing/Turek episode and reconcile with 
 
 ---
 
-**C-3433** Frank Turek partially backtracked on CPR claim
+**C-13021** Frank Turek partially backtracked on CPR claim
 
 Claim Timestamp: 00:11:54
 
@@ -986,7 +985,7 @@ Investigative Direction: Pull the full Boreing/Turek episode; compare to prior T
 
 ---
 
-**C-3434** Bobby Sausalito: "You can't both be telling the truth"
+**C-13018** Bobby Sausalito: "You can't both be telling the truth"
 
 Claim Timestamp: 00:10:55
 
@@ -999,7 +998,7 @@ Investigative Direction: Pull original Sausalito clip; verify quotation.
 
 ---
 
-**C-3435** Andrew Kolvet announced $10,000 reward for vandalism tips
+**C-13051** Andrew Kolvet announced $10,000 reward for vandalism tips
 
 Claim Timestamp: 00:40:10
 
@@ -1012,7 +1011,7 @@ Investigative Direction: Identify which "friends" funded the reward; verify any 
 
 ---
 
-**C-3436** Andrew Kolvet stated Commit 100 program surged after vandalism news
+**C-13052** Andrew Kolvet stated Commit 100 program surged after vandalism news
 
 Claim Timestamp: 00:40:10
 
@@ -1025,7 +1024,7 @@ Investigative Direction: Compare against any public Commit 100 signup metrics or
 
 ---
 
-**C-3437** Host observation: suspect's right foot bends awkwardly when descending
+**C-13029** Host observation: suspect's right foot bends awkwardly when descending
 
 Claim Timestamp: 00:17:56–00:24:10
 
@@ -1037,7 +1036,7 @@ Investigative Direction: Forensically examine original footage; compare to publi
 
 ---
 
-**C-3438** Host observation: suspect appears bulkier in side profile than Tyler Robinson
+**C-13025** Host observation: suspect appears bulkier in side profile than Tyler Robinson
 
 Claim Timestamp: 00:14:40–00:17:56
 
@@ -1050,7 +1049,7 @@ Investigative Direction: Obtain uncropped / unenhanced source frames; biometric 
 
 ---
 
-**C-3439** Host observation: suspect appears to forget which leg to limp on
+**C-13035** Host observation: suspect appears to forget which leg to limp on
 
 Claim Timestamp: 00:23:08–00:24:10
 
@@ -1062,7 +1061,7 @@ Investigative Direction: Gait analysis of unenhanced source footage; consultatio
 
 ---
 
-**C-3440** Host Says Terryl Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM
+**C-13031** Host Says Terryl Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM
 
 Claim Timestamp: 00:19:51–00:20:41
 
@@ -1075,7 +1074,7 @@ Investigative Direction: Identify the source of the footage; confirm provenance;
 
 ---
 
-**C-3441** Host Says the Figure in the Footage Was Texting Before Walking Down the Stairs
+**C-13028** Host Says the Figure in the Footage Was Texting Before Walking Down the Stairs
 
 Claim Timestamp: 00:16:55
 
@@ -1087,7 +1086,7 @@ Investigative Direction: Obtain original footage timestamps; review phone extrac
 
 ---
 
-**C-3442** Host Says TPUSA / Affiliates Claimed Statue Vandalized with Red Paint on September 13
+**C-13047** Host Says TPUSA / Affiliates Claimed Statue Vandalized with Red Paint on September 13
 
 Claim Timestamp: 00:37:35–00:43:46
 
@@ -1100,7 +1099,7 @@ Investigative Direction: Confirm police / Tempenogo PD report; review any TPUSA-
 
 ---
 
-**C-3443** Host rejects Alex Clark's forgiveness/repentance framework
+**C-13042** Host rejects Alex Clark's forgiveness/repentance framework
 
 Claim Timestamp: 00:32:02–00:36:42
 
@@ -1113,7 +1112,7 @@ Investigative Direction: Note as host stance against displayed source; cross-ref
 
 ---
 
-**C-3444** Host concurs with Bobby Sausalito's interpretation of Turek contradiction
+**C-13019** Host concurs with Bobby Sausalito's interpretation of Turek contradiction
 
 Claim Timestamp: 00:11:11–00:14:18
 
@@ -1126,7 +1125,7 @@ Investigative Direction: Preserve both artifacts; treat host concurrence as sepa
 
 ---
 
-**C-3746** Viewer tip emails say the security detail's matching shoes are electrical-hazard footwear
+**C-13061** Viewer tip emails say the security detail's matching shoes are electrical-hazard footwear
 
 Claim Timestamp: 00:48:25
 
@@ -1141,7 +1140,7 @@ Investigative Direction: Identify the shoe model from the security-detail footag
 
 ---
 
-**C-11757** Host says TPUSA blames the left for statue vandalism without positive evidence
+**C-13003** Host says TPUSA blames the left for statue vandalism without positive evidence
 
 Claim Timestamp: 00:00:01
 
@@ -1157,7 +1156,7 @@ Investigative Direction: Identify the date of the unveiling and the police repor
 
 ---
 
-**C-11758** Host says Blake Harreff was in Timpanogos scrubs by nighttime despite no blood
+**C-13004** Host says Blake Harreff was in Timpanogos scrubs by nighttime despite no blood
 
 Claim Timestamp: 00:01:49
 
@@ -1168,13 +1167,13 @@ Transcript Snippet: we discovered that rather mysteriously uh he's wearing scrub
 Anchored Artifacts: A-3158.1
 Mentions: N-897, N-3, N-1
 Related Nodes: N-11310
-Supports: C-3552, C-3551, C-3550
+Supports: C-12881, C-12877, C-12880
 Tags: relevance:core
 Investigative Direction: Obtain the UVU-return footage, hospital visitor and scrub-issue records, and any statement from Harreff on when and why he changed.
 
 ---
 
-**C-11759** Host says Turek's account is that hospital staff were handing out scrubs
+**C-13005** Host says Turek's account is that hospital staff were handing out scrubs
 
 Claim Timestamp: 00:01:49
 
@@ -1190,7 +1189,7 @@ Investigative Direction: Find Turek's original statement about scrubs being hand
 
 ---
 
-**C-11760** Host says feds did not collect Kirk's bloodied necklace and microphone
+**C-13006** Host says feds did not collect Kirk's bloodied necklace and microphone
 
 Claim Timestamp: 00:03:52
 
@@ -1206,7 +1205,7 @@ Investigative Direction: Obtain the FBI evidence inventory for the necklace, the
 
 ---
 
-**C-11761** Host says Charlie's blood-stained sports coat was released immediately and went to Arizona
+**C-13007** Host says Charlie's blood-stained sports coat was released immediately and went to Arizona
 
 Claim Timestamp: 00:03:52
 
@@ -1222,7 +1221,7 @@ Investigative Direction: Confirm with the family or TPUSA when the coat was retu
 
 ---
 
-**C-11762** Host relays a theory that Harreff's clothing was taken over explosive residue
+**C-13008** Host relays a theory that Harreff's clothing was taken over explosive residue
 
 Claim Timestamp: 00:04:38
 
@@ -1238,7 +1237,7 @@ Investigative Direction: Ask which agency collected clothing from people near Ch
 
 ---
 
-**C-11763** Host says she released car photos never meant to be public
+**C-13009** Host says she released car photos never meant to be public
 
 Claim Timestamp: 00:05:20
 
@@ -1253,7 +1252,7 @@ Investigative Direction: Identify the photo set, its source and the date the hos
 
 ---
 
-**C-11764** Host says she has been stalked by former employer Jeremy Boreing for three years
+**C-13010** Host says she has been stalked by former employer Jeremy Boreing for three years
 
 Claim Timestamp: 00:06:09
 
@@ -1269,7 +1268,7 @@ Investigative Direction: Compare against Boreing's own public statements and the
 
 ---
 
-**C-11765** Host says Boreing declared he would be content if his only contribution were destroying her
+**C-13011** Host says Boreing declared he would be content if his only contribution were destroying her
 
 Claim Timestamp: 00:06:09
 
@@ -1285,7 +1284,7 @@ Investigative Direction: Locate the original Boreing remark and its date.
 
 ---
 
-**C-11766** Host says Boreing praised Loomer and compared Jessica Reed Kraus to her
+**C-13012** Host says Boreing praised Loomer and compared Jessica Reed Kraus to her
 
 Claim Timestamp: 00:06:09
 
@@ -1301,7 +1300,7 @@ Investigative Direction: Find the Boreing episodes or posts with the Loomer and 
 
 ---
 
-**C-11767** Host shows a collage of Boreing remarks about her as evidence of fixation
+**C-13013** Host shows a collage of Boreing remarks about her as evidence of fixation
 
 Claim Timestamp: 00:06:09
 
@@ -1317,7 +1316,7 @@ Investigative Direction: Pull each clip in the collage to its source episode and
 
 ---
 
-**C-11768** Host says Boreing plans to tour with TPUSA Faith
+**C-13016** Host says Boreing plans to tour with TPUSA Faith
 
 Claim Timestamp: 00:08:45
 
@@ -1333,7 +1332,7 @@ Investigative Direction: Find Boreing's statement and any TPUSA Faith tour annou
 
 ---
 
-**C-11769** Host says Boreing was never friends with Charlie Kirk
+**C-13015** Host says Boreing was never friends with Charlie Kirk
 
 Claim Timestamp: 00:08:40
 
@@ -1348,7 +1347,7 @@ Investigative Direction: Ask TPUSA or Boreing whether he ever met or worked with
 
 ---
 
-**C-11770** Host says she dealt privately in court with Boreing's conduct
+**C-13014** Host says she dealt privately in court with Boreing's conduct
 
 Claim Timestamp: 00:07:25
 
@@ -1364,7 +1363,7 @@ Investigative Direction: Identify the court proceedings between the host and Bor
 
 ---
 
-**C-11771** Sausalito asks how Turek could do CPR from the trunk without Harpole noticing
+**C-13020** Sausalito asks how Turek could do CPR from the trunk without Harpole noticing
 
 Claim Timestamp: 00:11:11
 
@@ -1375,13 +1374,13 @@ Transcript Snippet: If you were in the trunk, how did you do that? And how would
 Anchored Artifacts: A-2368.1, A-2369.1
 Mentions: N-898, N-7, N-266
 Related Nodes: N-10699
-Supports: C-3546, C-3547
+Supports: C-12858, C-12856
 Tags: relevance:core
 Investigative Direction: Establish where in the SUV Turek sat and whether the seats allowed access to Charlie from there.
 
 ---
 
-**C-11772** Host says CPR is not subtle and would have needed help laying Charlie out
+**C-13022** Host says CPR is not subtle and would have needed help laying Charlie out
 
 Claim Timestamp: 00:12:50
 
@@ -1392,13 +1391,13 @@ Transcript Snippet: It's CPR is not a subtle thing that you do, right? It it tak
 Anchored Artifacts: 
 Mentions: N-7, N-266, N-1
 Related Nodes: N-10699, N-10737
-Supports: C-3546, C-3547
+Supports: C-12858, C-12856
 Tags: relevance:core
 Investigative Direction: Reconstruct seating and positioning in the SUV from photos and interviews with those aboard.
 
 ---
 
-**C-11773** Host says Brian Harpole is suing her over her account of his care
+**C-13023** Host says Brian Harpole is suing her over her account of his care
 
 Claim Timestamp: 00:12:50
 
@@ -1414,7 +1413,7 @@ Investigative Direction: Pull the Harpole complaint and docket to confirm the cl
 
 ---
 
-**C-11774** Host says she has never suggested Turek murdered Charlie
+**C-13024** Host says she has never suggested Turek murdered Charlie
 
 Claim Timestamp: 00:12:50
 
@@ -1429,7 +1428,7 @@ Investigative Direction: Review the host's prior statements about Turek for any 
 
 ---
 
-**C-11775** Host says Officer Bagley testified the black-shirt figure is the maroon-shirt figure because of sneakers
+**C-13026** Host says Officer Bagley testified the black-shirt figure is the maroon-shirt figure because of sneakers
 
 Claim Timestamp: 00:14:40
 
@@ -1445,7 +1444,7 @@ Investigative Direction: Pull Bagley's preliminary hearing testimony on how he l
 
 ---
 
-**C-11776** Host says police warrants date the footage to about 11:53 AM, thirty minutes before the blast
+**C-13027** Host says police warrants date the footage to about 11:53 AM, thirty minutes before the blast
 
 Claim Timestamp: 00:16:12
 
@@ -1461,7 +1460,7 @@ Investigative Direction: Read the warrant affidavits for the stated time of the 
 
 ---
 
-**C-11777** Host says the figure plainly has no gun in his waist
+**C-13030** Host says the figure plainly has no gun in his waist
 
 Claim Timestamp: 00:17:56
 
@@ -1471,13 +1470,13 @@ Transcript Snippet: it's so obvious to me at this moment that he does not have a
 
 Anchored Artifacts: A-2371.1
 Mentions: N-40
-Supports: C-3437
+Supports: C-13029
 Tags: relevance:core
 Investigative Direction: Obtain unenhanced footage for independent analysis of carry position and gait.
 
 ---
 
-**C-11778** Host says SBI testified it was given thumb drives, not the original SD cards
+**C-13032** Host says SBI testified it was given thumb drives, not the original SD cards
 
 Claim Timestamp: 00:20:41
 
@@ -1493,7 +1492,7 @@ Investigative Direction: Read the preliminary hearing transcript for the SBI wit
 
 ---
 
-**C-11779** Host infers footage shows Farnsworth's technology was not fully seized and evidence may be tampered with
+**C-13033** Host infers footage shows Farnsworth's technology was not fully seized and evidence may be tampered with
 
 Claim Timestamp: 00:20:41
 
@@ -1509,7 +1508,7 @@ Investigative Direction: Request the evidence-seizure record for Farnsworth's la
 
 ---
 
-**C-11780** Host says the preliminary hearing showed Farnsworth sent files to the FBI via Google
+**C-13034** Host says the preliminary hearing showed Farnsworth sent files to the FBI via Google
 
 Claim Timestamp: 00:21:50
 
@@ -1520,13 +1519,13 @@ Transcript Snippet: Actually, he immediately sent over files to the FBI and he c
 Anchored Artifacts: A-3165.1
 Mentions: N-261
 Related Nodes: N-10797, N-10014
-Supports: C-3290, C-6845
+Supports: C-12216, C-4567
 Tags: relevance:core
 Investigative Direction: Check preliminary-hearing testimony and Google Drive share logs for the send date and recipient.
 
 ---
 
-**C-11781** Host says officials now say the gun may have been in his waistband not near the ankle
+**C-13036** Host says officials now say the gun may have been in his waistband not near the ankle
 
 Claim Timestamp: 00:23:08
 
@@ -1541,7 +1540,7 @@ Investigative Direction: Find the official statements on where the gun was carri
 
 ---
 
-**C-11782** Host says the black-shirt figure is a decoy and a military-skilled individual
+**C-13037** Host says the black-shirt figure is a decoy and a military-skilled individual
 
 Claim Timestamp: 00:24:10
 
@@ -1552,13 +1551,13 @@ Transcript Snippet: I don't think that's the same person as the maroon person. I
 Anchored Artifacts: A-2371.1
 Mentions: N-40
 Related Nodes: N-10172, N-10043
-Supports: C-3438
+Supports: C-13025
 Tags: relevance:core
 Investigative Direction: Identify the figure through independent comparison with known images and campus camera paths.
 
 ---
 
-**C-11783** Host Says Her Hospital and Scrubs Questions Include Turek
+**C-13038** Host Says Her Hospital and Scrubs Questions Include Turek
 
 Claim Timestamp: 00:24:10
 
@@ -1574,7 +1573,7 @@ Investigative Direction: Check footage of Turek on return to UVU for scrubs and 
 
 ---
 
-**C-11784** Host says Alex Clark timed the trailer for 9/10 because they blame the host for views of Erika and TPUSA
+**C-13039** Host says Alex Clark timed the trailer for 9/10 because they blame the host for views of Erika and TPUSA
 
 Claim Timestamp: 00:29:17
 
@@ -1585,13 +1584,13 @@ Transcript Snippet: Alex Clark clearly planning to drop this trailer for an epis
 Anchored Artifacts: A-2362.1
 Mentions: N-99, N-2
 Related Nodes: N-10000
-Supports: C-3430
+Supports: C-13041
 Tags: relevance:context
 Investigative Direction: Check the release time of the Clark trailer and any Clark statement on timing.
 
 ---
 
-**C-11785** Host says the FBI has never gone five years without being up to no good
+**C-13043** Host says the FBI has never gone five years without being up to no good
 
 Claim Timestamp: 00:33:59
 
@@ -1606,7 +1605,7 @@ Investigative Direction: Sweeping historical assertion recorded as said; no case
 
 ---
 
-**C-11786** Host says allies sold the public a Superman neck miracle
+**C-13044** Host says allies sold the public a Superman neck miracle
 
 Claim Timestamp: 00:34:18
 
@@ -1622,7 +1621,7 @@ Investigative Direction: Trace who first described the neck wound as a miracle a
 
 ---
 
-**C-11787** Host says Alex Clark blocked many commenters including the host
+**C-13045** Host says Alex Clark blocked many commenters including the host
 
 Claim Timestamp: 00:34:18
 
@@ -1637,7 +1636,7 @@ Investigative Direction: Screenshot block evidence from affected accounts.
 
 ---
 
-**C-11788** Host says her tribute noted Charlie was attending Mass and hoping to become Catholic, then was called a liar
+**C-13046** Host says her tribute noted Charlie was attending Mass and hoping to become Catholic, then was called a liar
 
 Claim Timestamp: 00:35:21
 
@@ -1648,13 +1647,13 @@ Transcript Snippet: I mentioned in a sentence that he was we were all hoping he 
 Anchored Artifacts: 
 Mentions: N-1, N-99, N-14, N-3
 Related Nodes: N-10104, N-10164
-Supports: C-6530
+Supports: C-1972
 Tags: relevance:core
 Investigative Direction: Compare the host's tribute wording with the Clark and Kolvet episode and any attendance records.
 
 ---
 
-**C-11789** Host says TPUSA headquarters has extremely heavy surveillance and gates
+**C-13048** Host says TPUSA headquarters has extremely heavy surveillance and gates
 
 Claim Timestamp: 00:37:35
 
@@ -1670,7 +1669,7 @@ Investigative Direction: Ask TPUSA or Arizona police whether campus cameras capt
 
 ---
 
-**C-11790** Host says TPUSA has given no description of the vandals or sought public help
+**C-13049** Host says TPUSA has given no description of the vandals or sought public help
 
 Claim Timestamp: 00:39:10
 
@@ -1685,7 +1684,7 @@ Investigative Direction: Check for any police bulletin or TPUSA footage release 
 
 ---
 
-**C-11791** Host says Turning Point Action is the 501(c)(4), not the charitable arm
+**C-13050** Host says Turning Point Action is the 501(c)(4), not the charitable arm
 
 Claim Timestamp: 00:39:25
 
@@ -1700,7 +1699,7 @@ Investigative Direction: Confirm Turning Point Action's IRS tax status.
 
 ---
 
-**C-11792** Bowyer's post offered volunteers a room and training for the October ballot-chasing program
+**C-13055** Bowyer's post offered volunteers a room and training for the October ballot-chasing program
 
 Claim Timestamp: 00:41:43
 
@@ -1711,13 +1710,13 @@ Transcript Snippet: this is our program, the Chase 100 ballots this October. We 
 Anchored Artifacts: A-2365.1
 Mentions: N-11
 Related Nodes: N-10925, N-10827
-Supports: C-3427
+Supports: C-13053
 Tags: relevance:context
 Investigative Direction: Pull the original post and the Chase the Ballots program page.
 
 ---
 
-**C-11793** Host says Erika's statue tweet repeats a line she has run many times
+**C-13056** Host says Erika's statue tweet repeats a line she has run many times
 
 Claim Timestamp: 00:41:43
 
@@ -1727,13 +1726,13 @@ Transcript Snippet: They thought a bullet would silence my husband's voice, but 
 
 Anchored Artifacts: A-2364.1
 Mentions: N-2
-Supports: C-3426
+Supports: C-13054
 Tags: relevance:context
 Investigative Direction: Search Erika Kirk's prior statements for the same wording.
 
 ---
 
-**C-11794** Host says Vanity Fair told her it fact-checked everything and the article is imminent
+**C-13059** Host says Vanity Fair told her it fact-checked everything and the article is imminent
 
 Claim Timestamp: 00:45:08
 
@@ -1744,13 +1743,13 @@ Transcript Snippet: the article is going to be released imminently. They basical
 Anchored Artifacts: A-3161.1
 Mentions: N-3
 Related Nodes: N-10864
-Supports: C-3429
+Supports: C-13058
 Tags: relevance:core
 Investigative Direction: Check Vanity Fair's publication of the Erika Kirk article and the date of the host's contact.
 
 ---
 
-**C-11795** Host says there are rumors Erika Kirk is stepping down
+**C-13060** Host says there are rumors Erika Kirk is stepping down
 
 Claim Timestamp: 00:45:52
 
@@ -1766,7 +1765,7 @@ Investigative Direction: Look for reporting or TPUSA board statements on a chang
 
 ---
 
-**C-11796** Host asks for tips by email on the footage shown and any footage viewers hold
+**C-13062** Host asks for tips by email on the footage shown and any footage viewers hold
 
 Claim Timestamp: 00:49:47
 
@@ -1781,7 +1780,7 @@ Investigative Direction: Count and triage tips received at the moretips address.
 
 ---
 
-**C-11797** Host seeks a second source for an unnamed doctor who recused himself after something in the room
+**C-13063** Host seeks a second source for an unnamed doctor who recused himself after something in the room
 
 Claim Timestamp: 00:50:06
 
@@ -1797,7 +1796,7 @@ Investigative Direction: Identify the surgical team from hospital records and co
 
 ---
 
-**C-11798** Host says a nurse reports a chest saw was requested during Charlie's care
+**C-13064** Host says a nurse reports a chest saw was requested during Charlie's care
 
 Claim Timestamp: 00:50:28
 
@@ -1813,7 +1812,7 @@ Investigative Direction: Verify the nurse's employment and presence, and compare
 
 ---
 
-**C-11799** Host says pending Harpole lawsuits mean she is withholding some material
+**C-13065** Host says pending Harpole lawsuits mean she is withholding some material
 
 Claim Timestamp: 00:52:56
 
@@ -1824,13 +1823,13 @@ Transcript Snippet: Some stuff we're not going to share, obviously, because I do
 Anchored Artifacts: 
 Mentions: N-266, N-3
 Related Nodes: N-10651
-Supports: C-11773
+Supports: C-13023
 Tags: relevance:core
 Investigative Direction: Check the docket for the lawsuits referred to and any protective orders.
 
 ---
 
-**C-11800** Host says her baby is due within weeks and she will go on leave
+**C-13066** Host says her baby is due within weeks and she will go on leave
 
 Claim Timestamp: 00:52:56
 
@@ -1845,7 +1844,7 @@ Investigative Direction: Background on host's schedule; no further check.
 
 ---
 
-**C-11801** Host says Charlie told several people, not one text chain, that he wanted her back
+**C-13067** Host says Charlie told several people, not one text chain, that he wanted her back
 
 Claim Timestamp: 00:56:07
 
@@ -1855,13 +1854,13 @@ Transcript Snippet: he made it clear to several people, not just in one text cha
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Supports: C-10066
+Supports: C-6424
 Tags: relevance:core
 Investigative Direction: Collect the messages and witnesses referencing Kirk wanting the host back.
 
 ---
 
-**C-11802** Host says Charlie was scared in his last days and did not know who to trust
+**C-13068** Host says Charlie was scared in his last days and did not know who to trust
 
 Claim Timestamp: 00:56:07
 
@@ -1876,7 +1875,7 @@ Investigative Direction: Identify messages or witnesses showing Kirk's state of 
 
 ---
 
-**C-11803** Host says Charlie suddenly asked what was going on with the company
+**C-13069** Host says Charlie suddenly asked what was going on with the company
 
 Claim Timestamp: 00:56:07
 
@@ -1898,4 +1897,4 @@ Investigative Direction: Find witnesses or messages in which Kirk questioned TPU
 - Artifact verbally referenced but not shown: the Timpanogos nurse's email regarding a chest saw request; the viewer emails identifying the matching security-detail shoes as electrical-hazard models; the unnamed doctor's recusal referenced as carry-over from prior episode; the original SD-card / thumb-drive chain-of-custody record.
 - Transcript ambiguity: host repeatedly references "agencies" and "the feds" without specifying FBI vs ATF vs other; "SBI" referenced in prior episodes – not re-identified in this episode.
 - Requires human verification: timestamps on displayed footage (e.g., ~11:53 AM, ~1:00 PM) are host characterizations; provenance and metadata of the "enhanced" footage was not disclosed in this episode.
-- Claim failed admission test (flagged, not inscribed): host statements characterizing TPUSA as "grifting," "fundraising off vandalism," or "lying" were not inscribed as claims because they are framing/interpretive commentary; the host's rejection of the partisan attribution is captured under C-3428 / C-3436 / C-3442 as the specific content being rejected rather than as a separate rhetorical claim.
+- Claim failed admission test (flagged, not inscribed): host statements characterizing TPUSA as "grifting," "fundraising off vandalism," or "lying" were not inscribed as claims because they are framing/interpretive commentary; the host's rejection of the partisan attribution is captured under C-13057 / C-13052 / C-13047 as the specific content being rejected rather than as a separate rhetorical claim.

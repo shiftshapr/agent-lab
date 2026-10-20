@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-820, N-821, N-11205, N-11206
-  - Claim Range (supplement_2026-10c): C-9007–C-9086
+  - Claim Range: C-11354–C-11445
   - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-176, N-190, N-266, N-452, N-493, N-494, N-636, N-710, N-738, N-799, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
  - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
  - Hole-minted Nodes (wave3): N-526
@@ -32,7 +32,6 @@
 - **Analysis date:** 2026-07-27
 - **Episode Ledger Summary:**
  - Artifact Families Introduced: A-2189, A-2190, A-2191, A-2192, A-2193, A-2194, A-2195, A-2196, A-2197
- - Claim Range: C-3138–C-3149
  - New People Nodes: none (Wave 2: local ids removed)
  - New Investigation Target Nodes: N-10749, N-10750, N-10751, N-10752
  - Existing Nodes Reused: Charlie Kirk, Candace Owens, Erika Kirk, Andrew Kolvet, Brian Harpole, Rick Cutler, Justin Davis, Harris Faulkner, Tyler Robinson, Benjamin Netanyahu, Donald Trump, Lindsey Graham
@@ -58,7 +57,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Yes, I've seen the alleged texts shared by Candace. I have no idea about their authenticity… For argument's sake, let's assume they're real. It can be an evil thing to release a man's private messages after his death… Candace is weaponizing these messages to diminish Charlie's public statements and advance her own agenda and he's not here to defend himself."
 
-*Related: C-3138, C-3139, Andrew Kolvet (existing node), Charlie Kirk (existing node)*
+*Related: C-11371, C-11373, Andrew Kolvet (existing node), Charlie Kirk (existing node)*
 
 **A-2189.2** Twitter Community Note correcting Kolvet's framing
 
@@ -69,7 +68,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Covfefe previously challenged Owen's quote, 'show me any proof of a genuine friendship from the last 12, 18, or 24 months.' Like the text release are from November of 2023 within the 22 months of Kirk's death on September 10th. Sorry Andrew, you can't just keep moving the goal post."
 
-*Related: C-3139, Andrew Kolvet (existing node), Charlie Kirk (existing node)*
+*Related: C-11373, Andrew Kolvet (existing node), Charlie Kirk (existing node)*
 
 ---
 
@@ -84,7 +83,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Again, this is none of your business, you vile witch."
 
-*Related: C-3140, N-10751*
+*Related: C-11378, N-10751*
 
 ---
 
@@ -99,7 +98,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Can my children have one thing? Everything was public. We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular… But can I have one thing? Can my babies have one thing where we hold it sacred, where my husband is laid to rest…"
 
-*Related: C-3141, Erika Kirk (existing node), Harris Faulkner (existing node), N-10751*
+*Related: C-11386, Erika Kirk (existing node), Harris Faulkner (existing node), N-10751*
 
 ---
 
@@ -114,7 +113,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "Beware of conservativism that is void of Christ. Beware of talking head personalities who pedal conspiracy theories to their room temperature IQ audiences in hopes of generating a few more clicks and a few more dollars for their narcissistic pseudo empires."
 
-*Related: C-3142, Charlie Kirk (existing node)*
+*Related: C-11405, Charlie Kirk (existing node)*
 
 **A-2192.2** Pastor Russell sermon clip denouncing named political opponents
 
@@ -125,7 +124,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "I refuse to allow the conservative movement to be taken over by vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities. What Charlie started, we have the responsibility to finish. The foundation he laid, we must build upon."
 
-*Related: C-3142, Charlie Kirk (existing node)*
+*Related: C-11405, Charlie Kirk (existing node)*
 
 ---
 
@@ -140,7 +139,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "I've always been heaven focused but way more heaven focused now since the murder of Charlie ... someone once told me that eternal life begins the moment that you that you truly know Christ. ... it changes the whole meaning of suffering ... heaven now literally invades your life in the most beautiful way."
 
-*Related: C-3143, Erika Kirk (existing node), Charlie Kirk (existing node)*
+*Related: C-11411, Erika Kirk (existing node), Charlie Kirk (existing node)*
 
 **A-2193.2** Erika Kirk speech clip on "my kids are watching me"
 
@@ -151,7 +150,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "It would be so easy for me to just surrender and give up. So easy, but my kids are watching me. My kids are watching me. My co-workers are watching me. My family's watching me. Cloud of witnesses is watching me. And I will not give up and neither will you guys."
 
-*Related: C-3144, Erika Kirk (existing node), Charlie Kirk (existing node)*
+*Related: C-11413, Erika Kirk (existing node), Charlie Kirk (existing node)*
 
 ---
 
@@ -166,7 +165,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "LOL. No, can confirm I'm not in D.C. Same is true for our in-house lawyer and CMO. While we're at it, Candace claimed I was in D.C. on January 29th meeting with top brass and that I staged some elaborate pre-record with Kash Patel. Also false. I would check your source, Candace. Oh, that's right, you don't check your sources."
 
-*Related: C-3145, Andrew Kolvet (existing node), N-10752, Donald Trump (existing node)*
+*Related: C-11418, Andrew Kolvet (existing node), N-10752, Donald Trump (existing node)*
 
 ---
 
@@ -181,7 +180,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "And I love this thing my pastor said. He said, 'How can you have faith when you've never been faithful?' Wow, I love that. Right?… Are you trustworthy?… how can you want to be skinny if you've never been fat?… What the heck…"
 
-*Related: C-3146*
+*Related: C-11415*
 
 ---
 
@@ -240,7 +239,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 Excerpt: "His wedding ring isn't on his finger in the casket."
 
-*Related: C-3148, Charlie Kirk (existing node), N-10753 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
+*Related: C-11439, Charlie Kirk (existing node), N-10753 (wedding ring recovery status – to be inscribed if introduced as investigation target)*
 
 **A-2196.6** Comment from Alaska Dog Lady
 
@@ -300,7 +299,7 @@ Confidence Level: Low
 
 Excerpt: "The call did in fact take place… it lasted anywhere from 3 to 5 minutes… someone phones 911 and then did not engage with the 911 operator… The phone sounds as though it's dropped… what was captured rather on this call is quote, 'We got him. Uh we are taking him to the hospital.'… 'Get that off of him.'… 'Get out of the way.'…"
 
-*Related: C-3149, N-10750, Brian Harpole (existing node), Charlie Kirk (existing node), N-487, N-492*
+*Related: C-11395, N-10750, Brian Harpole (existing node), Charlie Kirk (existing node), N-487, N-492*
 
 ---
 
@@ -315,7 +314,7 @@ Video Timestamp: 00:02:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9010, N-3, N-176, N-10749*
+*Related: C-11358, N-3, N-176, N-10749*
 
 ---
 
@@ -328,7 +327,7 @@ Video Timestamp: 00:02:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9011, C-9012, C-9013, N-2, N-3, N-10070, N-10743, N-14*
+*Related: C-11359, C-11360, C-11361, N-2, N-3, N-10070, N-10743, N-14*
 
 ---
 
@@ -343,7 +342,7 @@ Video Timestamp: 00:04:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9016, N-14, N-1, N-3, N-40, N-10003*
+*Related: C-11364, N-14, N-1, N-3, N-40, N-10003*
 
 ---
 
@@ -356,7 +355,7 @@ Video Timestamp: 00:05:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9019, C-9020, N-1, N-3, N-10003, N-10385*
+*Related: C-11367, C-11368, N-1, N-3, N-10003, N-10385*
 
 ---
 
@@ -369,7 +368,7 @@ Video Timestamp: 00:07:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9024, C-9025, N-14, N-3, N-5, N-82, N-1*
+*Related: C-11374, C-11375, N-14, N-3, N-5, N-82, N-1*
 
 ---
 
@@ -384,7 +383,7 @@ Video Timestamp: 00:10:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9028, C-9029, N-1, N-3, N-11202, N-2*
+*Related: C-11379, C-11380, N-1, N-3, N-11202, N-2*
 
 ---
 
@@ -397,7 +396,7 @@ Video Timestamp: 00:11:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9030, C-9031, N-2, N-1, N-11053, N-11202, N-3*
+*Related: C-11381, C-11382, N-2, N-1, N-11053, N-11202, N-3*
 
 ---
 
@@ -410,7 +409,7 @@ Video Timestamp: 00:12:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9033, N-2, N-1, N-10483*
+*Related: C-11384, N-2, N-1, N-10483*
 
 ---
 
@@ -425,7 +424,7 @@ Video Timestamp: 00:32:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9059, C-9060, C-9063, C-9064, C-9066, C-9067, N-14, N-493, N-3, N-10752, N-10075, N-36*
+*Related: C-11416, C-11417, C-11421, C-11422, C-11424, C-11425, N-14, N-493, N-3, N-10752, N-10075, N-36*
 
 ---
 
@@ -435,7 +434,7 @@ Confidence Level: Medium
 
 First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 
-*Related: C-3142*
+*Related: C-11405*
 
 
 **N-10753** Andrew Kolvet X Post and Community Note Bundle
@@ -453,7 +452,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3147 (verbal-only host assertion)*
+*Related: C-11354 (verbal-only host assertion)*
 
 **N-10750** 911 Call Content Discrepancy
 
@@ -464,7 +463,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), N-487, N-492*
+*Related: A-2197.1, C-11395, Charlie Kirk (existing node), Brian Harpole (existing node), N-487, N-492*
 
 **N-10751** Charlie Kirk Cremation/Burial Status Verification
 
@@ -475,7 +474,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2190.1, A-2191.1, C-3140, C-3141, Charlie Kirk (existing node), Erika Kirk (existing node)*
+*Related: A-2190.1, A-2191.1, C-11378, C-11386, Charlie Kirk (existing node), Erika Kirk (existing node)*
 
 **N-10752** TPUSA White House Meeting Coordination with Netanyahu Trip
 
@@ -486,7 +485,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2194.1, C-3145, Andrew Kolvet (existing node), Benjamin Netanyahu (existing node), Donald Trump (existing node)*
+*Related: A-2194.1, C-11418, Andrew Kolvet (existing node), Benjamin Netanyahu (existing node), Donald Trump (existing node)*
 
 ---
 
@@ -494,7 +493,7 @@ Investigative Pressure: Medium
 
 Charlie Kirk; subject of the casket, burial, ring and 911-call claims.
 
-*Related: C-9007, C-9014, C-9016, C-9017, C-9018, C-9019, C-9020, C-9021, C-9022, C-9023, C-9024, C-9025, C-9026, C-9027, C-9028, C-9029, C-9030, C-9032, C-9033, C-9034, C-9035, C-9036, C-9037, C-9045, C-9046, C-9065, C-9078, C-9079, C-9083, C-9084*
+*Related: C-11355, C-11362, C-11364, C-11365, C-11366, C-11367, C-11368, C-11369, C-11370, C-11372, C-11374, C-11375, C-11376, C-11377, C-11379, C-11380, C-11381, C-11383, C-11384, C-11385, C-11387, C-11388, C-11389, C-11398, C-11399, C-11423, C-11436, C-11437, C-11442, C-11443*
 
 ---
 
@@ -502,7 +501,7 @@ Charlie Kirk; subject of the casket, burial, ring and 911-call claims.
 
 Erika Kirk; the host discusses her Fox News interview, tour speeches and the Daily Mail article.
 
-*Related: C-9011, C-9013, C-9023, C-9029, C-9030, C-9031, C-9033, C-9034, C-9035, C-9036, C-9050, C-9053, C-9055, C-9057, C-9058, C-9077, C-9080*
+*Related: C-11359, C-11361, C-11372, C-11380, C-11381, C-11382, C-11384, C-11385, C-11387, C-11388, C-11403, C-11407, C-11409, C-11412, C-11414, C-11435, C-11438*
 
 ---
 
@@ -510,7 +509,7 @@ Erika Kirk; the host discusses her Fox News interview, tour speeches and the Dai
 
 Host; speaks for herself throughout.
 
-*Related: C-9008, C-9009, C-9010, C-9011, C-9012, C-9013, C-9014, C-9015, C-9016, C-9017, C-9018, C-9019, C-9020, C-9021, C-9024, C-9025, C-9026, C-9027, C-9028, C-9031, C-9032, C-9037, C-9038, C-9039, C-9040, C-9041, C-9042, C-9043, C-9044, C-9045, C-9047, C-9048, C-9049, C-9050, C-9056, C-9059, C-9060, C-9061, C-9062, C-9063, C-9064, C-9065, C-9066, C-9067, C-9068, C-9069, C-9070, C-9071, C-9072, C-9073, C-9074, C-9075, C-9076, C-9078, C-9079, C-9080, C-9081, C-9082, C-9083, C-9084, C-9085, C-9086*
+*Related: C-11356, C-11357, C-11358, C-11359, C-11360, C-11361, C-11362, C-11363, C-11364, C-11365, C-11366, C-11367, C-11368, C-11369, C-11374, C-11375, C-11376, C-11377, C-11379, C-11382, C-11383, C-11389, C-11390, C-11391, C-11392, C-11393, C-11394, C-11396, C-11397, C-11398, C-11400, C-11401, C-11402, C-11403, C-11410, C-11416, C-11417, C-11419, C-11420, C-11421, C-11422, C-11423, C-11424, C-11425, C-11426, C-11427, C-11428, C-11429, C-11430, C-11431, C-11432, C-11433, C-11434, C-11436, C-11437, C-11438, C-11440, C-11441, C-11442, C-11443, C-11444, C-11445*
 
 ---
 
@@ -518,7 +517,7 @@ Host; speaks for herself throughout.
 
 Donald Trump; subject of the host's July 2025 phone call disclosure.
 
-*Related: C-9024, C-9025, C-9085*
+*Related: C-11374, C-11375, C-11444*
 
 ---
 
@@ -526,7 +525,7 @@ Donald Trump; subject of the host's July 2025 phone call disclosure.
 
 Frank Turek; named in the host's recounting of TPUSA's CPR narrative.
 
-*Related: C-9041*
+*Related: C-11393*
 
 ---
 
@@ -534,7 +533,7 @@ Frank Turek; named in the host's recounting of TPUSA's CPR narrative.
 
 Andrew Kolvet; TPUSA spokesperson, subject of the friendship challenge, the Daily Mail dispute and the White House denial.
 
-*Related: C-9012, C-9013, C-9016, C-9023, C-9024, C-9059, C-9061, C-9062, C-9063, C-9064, C-9066, C-9067, C-9070, C-9072, C-9085*
+*Related: C-11360, C-11361, C-11364, C-11372, C-11374, C-11416, C-11419, C-11420, C-11421, C-11422, C-11424, C-11425, C-11428, C-11430, C-11444*
 
 ---
 
@@ -542,7 +541,7 @@ Andrew Kolvet; TPUSA spokesperson, subject of the friendship challenge, the Dail
 
 Kanye West; named for his tweet about the host and in a psychological-pressure remark.
 
-*Related: C-9014, C-9073*
+*Related: C-11362, C-11431*
 
 ---
 
@@ -550,7 +549,7 @@ Kanye West; named for his tweet about the host and in a psychological-pressure r
 
 Benjamin Netanyahu; due in Washington the day of the host's White House tip.
 
-*Related: C-9060, C-9062, C-9068, C-9069*
+*Related: C-11417, C-11420, C-11426, C-11427*
 
 ---
 
@@ -558,7 +557,7 @@ Benjamin Netanyahu; due in Washington the day of the host's White House tip.
 
 Tyler Robinson; defendant whose preliminary hearing is discussed.
 
-*Related: C-9016, C-9082*
+*Related: C-11364, C-11441*
 
 ---
 
@@ -566,7 +565,7 @@ Tyler Robinson; defendant whose preliminary hearing is discussed.
 
 Kash Patel; named in Kolvet's denial of a staged pre-record.
 
-*Related: C-9061*
+*Related: C-11419*
 
 ---
 
@@ -574,7 +573,7 @@ Kash Patel; named in Kolvet's denial of a staged pre-record.
 
 Brigitte Macron; subject of the Trump call the host disclosed in July 2025.
 
-*Related: C-9024*
+*Related: C-11374*
 
 ---
 
@@ -582,7 +581,7 @@ Brigitte Macron; subject of the Trump call the host disclosed in July 2025.
 
 Dr. Deirdre Amaro; Utah chief medical examiner whose resignation the host reports.
 
-*Related: C-9007, C-9008, C-9010*
+*Related: C-11355, C-11356, C-11358*
 
 ---
 
@@ -590,7 +589,7 @@ Dr. Deirdre Amaro; Utah chief medical examiner whose resignation the host report
 
 Mikey McCoy; named in TPUSA's hospital-ride narrative as calling the vice president.
 
-*Related: C-9041*
+*Related: C-11393*
 
 ---
 
@@ -598,7 +597,7 @@ Mikey McCoy; named in TPUSA's hospital-ride narrative as calling the vice presid
 
 Brian Harpole; says in the host's lawsuit that a 911 call was made.
 
-*Related: C-9038, C-9046, C-9048*
+*Related: C-11390, C-11399, C-11401*
 
 ---
 
@@ -606,7 +605,7 @@ Brian Harpole; says in the host's lawsuit that a 911 call was made.
 
 Lindsey Graham; the host says Netanyahu is coming under the guise of his state funeral.
 
-*Related: C-9068, C-9070*
+*Related: C-11426, C-11428*
 
 ---
 
@@ -614,7 +613,7 @@ Lindsey Graham; the host says Netanyahu is coming under the guise of his state f
 
 Rick Cutler; named among TPUSA team members reluctant to say who dialed 911.
 
-*Related: C-9048*
+*Related: C-11401*
 
 ---
 
@@ -622,7 +621,7 @@ Rick Cutler; named among TPUSA team members reluctant to say who dialed 911.
 
 Justin Davis; named among TPUSA team members reluctant to say who dialed 911.
 
-*Related: C-9048*
+*Related: C-11401*
 
 ---
 
@@ -630,7 +629,7 @@ Justin Davis; named among TPUSA team members reluctant to say who dialed 911.
 
 Marina Minas, TPUSA CMO; named in the host's White House tip.
 
-*Related: C-9059, C-9067*
+*Related: C-11416, C-11425*
 
 ---
 
@@ -638,7 +637,7 @@ Marina Minas, TPUSA CMO; named in the host's White House tip.
 
 Frank, TPUSA in-house lawyer; named in the host's White House tip.
 
-*Related: C-9067*
+*Related: C-11425*
 
 ---
 
@@ -646,7 +645,7 @@ Frank, TPUSA in-house lawyer; named in the host's White House tip.
 
 Kouri Richins; mentioned in the host's remark about Utah wives.
 
-*Related: C-9076*
+*Related: C-11434*
 
 ---
 
@@ -654,7 +653,7 @@ Kouri Richins; mentioned in the host's remark about Utah wives.
 
 Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
-*Related: C-9069*
+*Related: C-11427*
 
 ---
 
@@ -662,7 +661,7 @@ Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
 Michael Jackson; named in the host's remark about psychological pressure.
 
-*Related: C-9073*
+*Related: C-11431*
 
 ---
 
@@ -670,7 +669,7 @@ Michael Jackson; named in the host's remark about psychological pressure.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9014, C-9015, C-9018, C-9022, C-9035, C-9071, C-9078, C-9079, C-9080, C-9081*
+*Related: C-11362, C-11363, C-11366, C-11370, C-11387, C-11429, C-11436, C-11437, C-11438, C-11440*
 
 ---
 
@@ -678,7 +677,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9016, C-9017, C-9018, C-9019, C-9020, C-9021, C-9026, C-9072*
+*Related: C-11364, C-11365, C-11366, C-11367, C-11368, C-11369, C-11376, C-11430*
 
 ---
 
@@ -686,7 +685,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9014*
+*Related: C-11362*
 
 ---
 
@@ -694,7 +693,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9034*
+*Related: C-11385*
 
 ---
 
@@ -702,7 +701,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9009, C-9084*
+*Related: C-11357, C-11443*
 
 ---
 
@@ -710,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9082*
+*Related: C-11441*
 
 ---
 
@@ -718,7 +717,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9082*
+*Related: C-11441*
 
 ---
 
@@ -726,7 +725,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9011, C-9012, C-9013*
+*Related: C-11359, C-11360, C-11361*
 
 ---
 
@@ -734,7 +733,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9059, C-9067*
+*Related: C-11416, C-11425*
 
 ---
 
@@ -742,7 +741,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9075*
+*Related: C-11433*
 
 ---
 
@@ -750,7 +749,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9051, C-9052*
+*Related: C-11404, C-11406*
 
 ---
 
@@ -758,7 +757,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9065*
+*Related: C-11423*
 
 ---
 
@@ -766,7 +765,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9020*
+*Related: C-11368*
 
 ---
 
@@ -774,7 +773,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9054*
+*Related: C-11408*
 
 ---
 
@@ -782,7 +781,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9033*
+*Related: C-11384*
 
 ---
 
@@ -790,7 +789,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9045*
+*Related: C-11398*
 
 ---
 
@@ -798,7 +797,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9023*
+*Related: C-11372*
 
 ---
 
@@ -806,7 +805,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9038, C-9041*
+*Related: C-11390, C-11393*
 
 ---
 
@@ -814,7 +813,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9045*
+*Related: C-11398*
 
 ---
 
@@ -822,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9039, C-9040, C-9047, C-9048, C-9049*
+*Related: C-11391, C-11392, C-11400, C-11401, C-11402*
 
 ---
 
@@ -830,7 +829,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9065*
+*Related: C-11423*
 
 ---
 
@@ -838,7 +837,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9011, C-9012, C-9013*
+*Related: C-11359, C-11360, C-11361*
 
 ---
 
@@ -846,7 +845,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9076*
+*Related: C-11434*
 
 ---
 
@@ -854,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9030*
+*Related: C-11381*
 
 ---
 
@@ -862,7 +861,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-9042, C-9082*
+*Related: C-11394, C-11441*
 
 ---
 
@@ -870,7 +869,7 @@ Existing topic reused for new claims in this episode.
 
 Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.
 
-*Related: C-9034*
+*Related: C-11385*
 
 ---
 
@@ -878,7 +877,7 @@ Fox News host who interviewed Erika Kirk about the burial location; first named 
 
 Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.
 
-*Related: C-9056*
+*Related: C-11410*
 
 ---
 
@@ -886,7 +885,7 @@ Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowde
 
 Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).
 
-*Related: C-9058*
+*Related: C-11414*
 
 ---
 
@@ -895,7 +894,7 @@ Instagram account holder whose clip mocking Christian speak the host plays; firs
 Node Type: Topic
 The host's catalogue of Charlie Kirk's death being made public: casket footage within 24 hours, the bloody microphone used for fundraising, a recreated tent opened for selfies, set against refusal to say whether he was cremated.
 
-*Related: C-9028, C-9029, C-9030, C-9031, C-9032*
+*Related: C-11379, C-11380, C-11381, C-11382, C-11383*
 
 ---
 
@@ -904,7 +903,7 @@ The host's catalogue of Charlie Kirk's death being made public: casket footage w
 Node Type: Topic
 The Turning Point Faith speaking tour on which Erika Kirk appeared at Pursuit Church in Washington state; the transcript sometimes renders it "Make Kevin Crowded".
 
-*Related: C-9050, C-9055, C-9056, C-9057*
+*Related: C-11403, C-11409, C-11410, C-11412*
 
 ---
 
@@ -913,7 +912,7 @@ The Turning Point Faith speaking tour on which Erika Kirk appeared at Pursuit Ch
 Node Type: Topic
 The claim, relayed by a commenter and a family, that relatives of Stephen "Twitch" Boss were asked to sign non-disclosure agreements to attend his memorial, which the host links to parallels with the Kirk case.
 
-*Related: C-9074*
+*Related: C-11432*
 
 ---
 
@@ -922,7 +921,7 @@ The claim, relayed by a commenter and a family, that relatives of Stephen "Twitc
 Node Type: Organization
 Pro-Israel Christian advocacy organization the host says Pastor Russell works with.
 
-*Related: C-9077*
+*Related: C-11435*
 
 ---
 
@@ -931,13 +930,13 @@ Pro-Israel Christian advocacy organization the host says Pastor Russell works wi
 Node Type: Topic
 Question of whether Charlie Kirk's wedding ring fell from his finger at the scene and was never recovered, raised through a viewer comment.
 
-*Related: C-9083, C-9084*
+*Related: C-11442, C-11443*
 
 ---
 
 ## V. Claim Register
 
-**C-3138** Kolvet publicly disputed authenticity of text messages shared by Candace Owens
+**C-11371** Kolvet publicly disputed authenticity of text messages shared by Candace Owens
 
 Claim Timestamp: 00:06:57
 
@@ -948,7 +947,7 @@ Mentions: N-14, N-3, N-1
 Related Nodes:
 Investigative Direction: Obtain independent forensic verification of the disputed messages and compare against Kolvet's stated inability to confirm.
 
-**C-3139** Twitter Community Note corrected Kolvet's framing about text message timeline
+**C-11373** Twitter Community Note corrected Kolvet's framing about text message timeline
 
 Claim Timestamp: 00:07:44
 
@@ -959,7 +958,7 @@ Mentions: N-1, N-14
 Related Nodes:
 Investigative Direction: Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.
 
-**C-3140** Blake Neff publicly called Candace a "vile witch" in X post
+**C-11378** Blake Neff publicly called Candace a "vile witch" in X post
 
 Claim Timestamp: 00:09:42
 
@@ -970,7 +969,7 @@ Mentions: N-3, N-1, N-159
 Related Nodes: N-10751
 Investigative Direction: Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.
 
-**C-3141** Erika Kirk publicly requested "one thing" remain sacred about Charlie's burial
+**C-11386** Erika Kirk publicly requested "one thing" remain sacred about Charlie's burial
 
 Claim Timestamp: 00:13:20
 
@@ -981,7 +980,7 @@ Mentions: N-1, N-2, N-799
 Related Nodes: N-10751
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
-**C-3142** Pastor Russell denounced named political opponents in sermon
+**C-11405** Pastor Russell denounced named political opponents in sermon
 
 Claim Timestamp: 00:24:17
 
@@ -992,7 +991,7 @@ Mentions: N-1, N-2, N-526
 Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
-**C-3143** Erika Kirk referenced heaven focus and eternal life during tour speech
+**C-11411** Erika Kirk referenced heaven focus and eternal life during tour speech
 
 Claim Timestamp: 00:28:37
 
@@ -1003,7 +1002,7 @@ Mentions: N-2
 Related Nodes:
 Investigative Direction: Obtain the full event recording and verify whether the speech was read from a written or pre-prepared source.
 
-**C-3144** Erika Kirk referenced "my kids are watching me" in tour speech
+**C-11413** Erika Kirk referenced "my kids are watching me" in tour speech
 
 Claim Timestamp: 00:29:29
 
@@ -1014,7 +1013,7 @@ Mentions: N-2
 Related Nodes:
 Investigative Direction: Confirm against the full event recording and verify event date and venue.
 
-**C-3145** Andrew Kolvet publicly denied being in Washington DC with TPUSA team
+**C-11418** Andrew Kolvet publicly denied being in Washington DC with TPUSA team
 
 Claim Timestamp: 00:32:55
 
@@ -1025,7 +1024,7 @@ Mentions: N-14, N-69, N-493, N-494, N-3
 Related Nodes: N-10752
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
-**C-3146** Devonte West Instagram Account Mocked Contemporary Christianese
+**C-11415** Devonte West Instagram Account Mocked Contemporary Christianese
 
 Claim Timestamp: 00:30:59
 
@@ -1036,7 +1035,7 @@ Mentions: N-821, N-2
 Related Nodes:
 Investigative Direction: Verify the original Instagram post remains accessible and identify the target of the mockery if specified.
 
-**C-3147** Host asserts Dr. Deirdre Amaro has resigned as Utah Chief Medical Examiner
+**C-11354** Host asserts Dr. Deirdre Amaro has resigned as Utah Chief Medical Examiner
 
 Claim Timestamp: 00:01:07
 
@@ -1047,7 +1046,7 @@ Mentions: N-3, N-176
 Related Nodes: N-10749
 Investigative Direction: Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
-**C-3148** Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered
+**C-11439** Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered
 
 Claim Timestamp: 00:44:04
 
@@ -1058,7 +1057,7 @@ Mentions: N-3, N-1
 Related Nodes:
 Investigative Direction: Obtain and verify the underlying footage, confirm the open-clasp detail against the ring's design, and identify the source of the "never recovered" assertion.
 
-**C-3149** Host received tip alleging 911 call from Charlie's security team captured specific phrases
+**C-11395** Host received tip alleging 911 call from Charlie's security team captured specific phrases
 
 Claim Timestamp: 00:17:17
 
@@ -1071,7 +1070,7 @@ Investigative Direction: File records requests for the underlying 911 audio and 
 
 ---
 
-**C-9007** Host Says Amaro's Tenure as Utah Chief Medical Examiner Began July 1, 2024
+**C-11355** Host Says Amaro's Tenure as Utah Chief Medical Examiner Began July 1, 2024
 
 Claim Timestamp: 00:01:07
 
@@ -1082,13 +1081,13 @@ Transcript Snippet: a woman by the name of Dr. Deirdre Amaro. Uh her tenure bega
 Anchored Artifacts: 
 Mentions: N-176, N-1
 Related Nodes: N-10749
-Supports: C-1440
+Supports: C-1638
 Tags: relevance:context
 Investigative Direction: Check the Utah Department of Health or governor's appointment record for Amaro's start date and the autopsy report's signatory.
 
 ---
 
-**C-9008** Host Says Amaro Claims Descent From Leif Erikson
+**C-11356** Host Says Amaro Claims Descent From Leif Erikson
 
 Claim Timestamp: 00:01:07
 
@@ -1103,7 +1102,7 @@ Investigative Direction: Locate Amaro's own statement of the descent and the gen
 
 ---
 
-**C-9009** Host Hears of Wider Resignations at UVU and Police Departments
+**C-11357** Host Hears of Wider Resignations at UVU and Police Departments
 
 Claim Timestamp: 00:01:07
 
@@ -1119,7 +1118,7 @@ Investigative Direction: Request UVU and Utah police department separation lists
 
 ---
 
-**C-9010** Host Asks for Tips on Amaro Resignation at tips@candaceowens.com
+**C-11358** Host Asks for Tips on Amaro Resignation at tips@candaceowens.com
 
 Claim Timestamp: 00:02:05
 
@@ -1135,7 +1134,7 @@ Investigative Direction: Track whether tips about the Amaro resignation are late
 
 ---
 
-**C-9011** Host Says Daily Mail Article Quotes a Family Friend Saying Erika Calls Her the B-Word
+**C-11359** Host Says Daily Mail Article Quotes a Family Friend Saying Erika Calls Her the B-Word
 
 Claim Timestamp: 00:02:28
 
@@ -1146,13 +1145,13 @@ Transcript Snippet: wherein direct quotations were used to assert a family frien
 Anchored Artifacts: A-2979.1
 Mentions: N-2, N-3
 Related Nodes: N-10070, N-10743
-Supports: C-3083
+Supports: C-11104
 Tags: relevance:core
 Investigative Direction: Obtain the live Daily Mail article and its edit history to confirm the quotations remain and who is attributed.
 
 ---
 
-**C-9012** Host Says Kolvet Explicitly Lied and Blamed Her for the Daily Mail Article
+**C-11360** Host Says Kolvet Explicitly Lied and Blamed Her for the Daily Mail Article
 
 Claim Timestamp: 00:03:24
 
@@ -1163,13 +1162,13 @@ Transcript Snippet: Remember, Andrew Kolvet lied, explicitly lied, and attempted
 Anchored Artifacts: A-2979.1
 Mentions: N-14, N-3
 Related Nodes: N-10070, N-10743
-Contradicts: C-3110
+Contradicts: C-11224
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's public statements on the article with the Daily Mail's own account and any comment request it sent TPUSA.
 
 ---
 
-**C-9013** Host Says Erika and a Family Friend Planted the Daily Mail Article and It Backfired
+**C-11361** Host Says Erika and a Family Friend Planted the Daily Mail Article and It Backfired
 
 Claim Timestamp: 00:03:24
 
@@ -1185,7 +1184,7 @@ Investigative Direction: Identify the family friend and the Daily Mail reporter'
 
 ---
 
-**C-9014** Host Says Kanye West Tweet Was the Jet Fuel for Turning Point USA
+**C-11362** Host Says Kanye West Tweet Was the Jet Fuel for Turning Point USA
 
 Claim Timestamp: 00:03:24
 
@@ -1201,7 +1200,7 @@ Investigative Direction: Date the Kanye West tweet and compare TPUSA follower an
 
 ---
 
-**C-9015** Host Says She Was Turning Point USA's Communications Director
+**C-11363** Host Says She Was Turning Point USA's Communications Director
 
 Claim Timestamp: 00:04:18
 
@@ -1217,7 +1216,7 @@ Investigative Direction: Find TPUSA staff listings, press releases or her contra
 
 ---
 
-**C-9016** Host Reads Kolvet Post Saying Charlie Managed Her and Challenging Proof of Friendship
+**C-11364** Host Reads Kolvet Post Saying Charlie Managed Her and Challenging Proof of Friendship
 
 Claim Timestamp: 00:04:18
 
@@ -1229,11 +1228,11 @@ Anchored Artifacts: A-2980.1
 Mentions: N-14, N-1, N-3, N-40
 Related Nodes: N-10003
 Tags: relevance:core
-Investigative Direction: Retrieve Kolvet's original X post, its date and the Community Note attached to it (see C-3139).
+Investigative Direction: Retrieve Kolvet's original X post, its date and the Community Note attached to it (see C-11373).
 
 ---
 
-**C-9017** Host Says the 2018 Text She Showed Related to Charlie Predicting His Own Death
+**C-11365** Host Says the 2018 Text She Showed Related to Charlie Predicting His Own Death
 
 Claim Timestamp: 00:04:18
 
@@ -1244,13 +1243,13 @@ Transcript Snippet: I showed a 2018 text which was relevant to him predicting hi
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10003
-Supports: C-1398
+Supports: C-1445
 Tags: relevance:core
 Investigative Direction: Re-examine the 2018 text and its metadata as shown in the earlier episode.
 
 ---
 
-**C-9018** Host Says She Toured With Charlie Every Year Under a TPUSA Contract
+**C-11366** Host Says She Toured With Charlie Every Year Under a TPUSA Contract
 
 Claim Timestamp: 00:05:32
 
@@ -1261,13 +1260,13 @@ Transcript Snippet: I toured with him every year. I had a contract with Turning 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10000, N-10003
-Supports: C-1200
+Supports: C-464
 Tags: relevance:core
 Investigative Direction: Obtain the contract, tour schedules or payment records, or TPUSA's confirmation of her tour dates.
 
 ---
 
-**C-9019** Host Says Charlie Initiated Messages Telling Her to Stand Up to the Jewish Mob
+**C-11367** Host Says Charlie Initiated Messages Telling Her to Stand Up to the Jewish Mob
 
 Claim Timestamp: 00:05:32
 
@@ -1278,13 +1277,13 @@ Transcript Snippet: I shared messages between Charlie and I, initiated by Charli
 Anchored Artifacts: A-2981.1
 Mentions: N-1, N-3
 Related Nodes: N-10003
-Supports: C-3117
+Supports: C-11273
 Tags: relevance:core
-Investigative Direction: Compare the host's shared screenshots with the phone data held by Erika Kirk or a forensic copy; see C-3117 for the November 15, 2023 thread.
+Investigative Direction: Compare the host's shared screenshots with the phone data held by Erika Kirk or a forensic copy; see C-11273 for the November 15, 2023 thread.
 
 ---
 
-**C-9020** Host Says Charlie Believed the Targeting Was Inorganic and Daily Wire-Backed
+**C-11368** Host Says Charlie Believed the Targeting Was Inorganic and Daily Wire-Backed
 
 Claim Timestamp: 00:05:32
 
@@ -1300,7 +1299,7 @@ Investigative Direction: Locate the specific messages in the shared thread where
 
 ---
 
-**C-9021** Host Says Charlie Publicly Said He Told People to Lose His Number Over Candace
+**C-11369** Host Says Charlie Publicly Said He Told People to Lose His Number Over Candace
 
 Claim Timestamp: 00:05:32
 
@@ -1316,7 +1315,7 @@ Investigative Direction: Identify the clips and dates of Charlie's public remark
 
 ---
 
-**C-9022** Host Says Charlie Was Pressured by Pro-Israel Donors Over Friends and Invitees in His Last 18 Months
+**C-11370** Host Says Charlie Was Pressured by Pro-Israel Donors Over Friends and Invitees in His Last 18 Months
 
 Claim Timestamp: 00:06:16
 
@@ -1332,7 +1331,7 @@ Investigative Direction: Seek donor correspondence, event invitation lists and T
 
 ---
 
-**C-9023** Host Says Erika Has Charlie's Phone and Can Confirm the Shared Messages
+**C-11372** Host Says Erika Has Charlie's Phone and Can Confirm the Shared Messages
 
 Claim Timestamp: 00:06:57
 
@@ -1348,7 +1347,7 @@ Investigative Direction: Establish the custody of Charlie Kirk's phone and wheth
 
 ---
 
-**C-9024** Host Says Kolvet Cited Her July 2025 Clip About a Trump Call as Why Charlie Was Upset
+**C-11374** Host Says Kolvet Cited Her July 2025 Clip About a Trump Call as Why Charlie Was Upset
 
 Claim Timestamp: 00:07:44
 
@@ -1363,7 +1362,7 @@ Investigative Direction: Retrieve Kolvet's post and the July 2025 clip, and comp
 
 ---
 
-**C-9025** Host Concedes Charlie Probably Disliked Her Trump Disclosure but Says Their Approaches Differed
+**C-11375** Host Concedes Charlie Probably Disliked Her Trump Disclosure but Says Their Approaches Differed
 
 Claim Timestamp: 00:08:48
 
@@ -1378,7 +1377,7 @@ Investigative Direction: Look for contemporaneous messages or witnesses on Charl
 
 ---
 
-**C-9026** Host Says Charlie Called Them Friends on Stage in August 2025 and Refused to Be Morally Blackmailed
+**C-11376** Host Says Charlie Called Them Friends on Stage in August 2025 and Refused to Be Morally Blackmailed
 
 Claim Timestamp: 00:08:48
 
@@ -1394,7 +1393,7 @@ Investigative Direction: Find the August 2025 event video and transcript where C
 
 ---
 
-**C-9027** Host Says She Posted the Cremation Question Without Saying Whether She Knows the Answer
+**C-11377** Host Says She Posted the Cremation Question Without Saying Whether She Knows the Answer
 
 Claim Timestamp: 00:08:48
 
@@ -1405,13 +1404,13 @@ Transcript Snippet: a simple yes or no question which I I or may not know the an
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10751
-Supports: C-3879
+Supports: C-8542
 Tags: relevance:core
 Investigative Direction: Obtain the burial or cremation record, death certificate disposition field or funeral home confirmation.
 
 ---
 
-**C-9028** Host Says Charlie's Body in a Casket Was Made Public Within 24 Hours
+**C-11379** Host Says Charlie's Body in a Casket Was Made Public Within 24 Hours
 
 Claim Timestamp: 00:09:42
 
@@ -1427,7 +1426,7 @@ Investigative Direction: Identify who filmed and released the casket footage, wh
 
 ---
 
-**C-9029** Host Asks Viewers to Consider the Camera Distance to Erika at the Casket
+**C-11380** Host Asks Viewers to Consider the Camera Distance to Erika at the Casket
 
 Claim Timestamp: 00:11:03
 
@@ -1443,7 +1442,7 @@ Investigative Direction: Identify the videographer and the venue of the farewell
 
 ---
 
-**C-9030** Host Says Blood on Charlie's Microphone Was Used to Fundraise at Mar-a-Lago
+**C-11381** Host Says Blood on Charlie's Microphone Was Used to Fundraise at Mar-a-Lago
 
 Claim Timestamp: 00:11:03
 
@@ -1454,13 +1453,13 @@ Transcript Snippet: I'm also old enough to remember when the blood on Charlie's 
 Anchored Artifacts: A-2984.1
 Mentions: N-2, N-1
 Related Nodes: N-11053, N-11202
-Supports: C-4366
+Supports: C-9750
 Tags: relevance:core
-Investigative Direction: Match the displayed photos to the Mar-a-Lago event and trace custody of the microphone; see C-4366.
+Investigative Direction: Match the displayed photos to the Mar-a-Lago event and trace custody of the microphone; see C-9750.
 
 ---
 
-**C-9031** Host Thinks a Painting Shown Beside the Bloody Mic May Have Been Auctioned
+**C-11382** Host Thinks a Painting Shown Beside the Bloody Mic May Have Been Auctioned
 
 Claim Timestamp: 00:11:03
 
@@ -1476,7 +1475,7 @@ Investigative Direction: Identify the painting and any auction listing or result
 
 ---
 
-**C-9032** Host Says the Tent Where Charlie Was Killed Was Recreated and Opened for Selfies
+**C-11383** Host Says the Tent Where Charlie Was Killed Was Recreated and Opened for Selfies
 
 Claim Timestamp: 00:11:03
 
@@ -1492,7 +1491,7 @@ Investigative Direction: Identify the event where a replica tent was shown and w
 
 ---
 
-**C-9033** Host Says Erika Posted Her Frail Mother in a Wheelchair on Instagram the Day Before Charlie Died
+**C-11384** Host Says Erika Posted Her Frail Mother in a Wheelchair on Instagram the Day Before Charlie Died
 
 Claim Timestamp: 00:12:01
 
@@ -1508,7 +1507,7 @@ Investigative Direction: Retrieve the Instagram post, its timestamp and caption.
 
 ---
 
-**C-9034** Host Says Harris Faulkner Set Erika Up With the Burial Question on Fox News
+**C-11385** Host Says Harris Faulkner Set Erika Up With the Burial Question on Fox News
 
 Claim Timestamp: 00:12:01
 
@@ -1524,7 +1523,7 @@ Investigative Direction: Obtain the full Fox News segment and any pre-interview 
 
 ---
 
-**C-9035** Erika Says TPUSA Will Build a Museum-Style Memorial for Charlie
+**C-11387** Erika Says TPUSA Will Build a Museum-Style Memorial for Charlie
 
 Claim Timestamp: 00:13:20
 
@@ -1540,7 +1539,7 @@ Investigative Direction: Obtain TPUSA's memorial plans, budget and timeline.
 
 ---
 
-**C-9036** Erika Says She Fears a Secular Revolutionary Destroying Charlie's Grave
+**C-11388** Erika Says She Fears a Secular Revolutionary Destroying Charlie's Grave
 
 Claim Timestamp: 00:13:20
 
@@ -1556,7 +1555,7 @@ Investigative Direction: Check whether any threat or vandalism report involves t
 
 ---
 
-**C-9037** Host Says Charlie Told Her He Never Wanted to Be Cremated
+**C-11389** Host Says Charlie Told Her He Never Wanted to Be Cremated
 
 Claim Timestamp: 00:15:01
 
@@ -1572,7 +1571,7 @@ Investigative Direction: Find any corroboration of Charlie's stated burial wishe
 
 ---
 
-**C-9038** Host Says Harpole's Lawsuit Filing Asserts a 911 Call but She Doubted It
+**C-11390** Host Says Harpole's Lawsuit Filing Asserts a 911 Call but She Doubted It
 
 Claim Timestamp: 00:15:29
 
@@ -1583,13 +1582,13 @@ Transcript Snippet: And Brian Harpole was very clear in my lawsuit, he he lies i
 Anchored Artifacts: 
 Mentions: N-266, N-3
 Related Nodes: N-10692
-Supports: C-4717
+Supports: C-10102
 Tags: relevance:core
 Investigative Direction: Pull Harpole's court filing and compare its 911 statement with Utah dispatch and carrier records.
 
 ---
 
-**C-9039** Host Says Independent Investigators Downloaded All Released Calls and Found No Such Call
+**C-11391** Host Says Independent Investigators Downloaded All Released Calls and Found No Such Call
 
 Claim Timestamp: 00:15:29
 
@@ -1600,13 +1599,13 @@ Transcript Snippet: It seems everyone's making all of these uh gamma requests, i
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10729
-Supports: C-7308
+Supports: C-10902
 Tags: relevance:core
 Investigative Direction: Repeat a GRAMA request for all 911 and CAD records for the 12:20-12:45 window and identify the independent reviewers.
 
 ---
 
-**C-9040** Host Says No One Wants to Take Credit for Dialing Emergency Services
+**C-11392** Host Says No One Wants to Take Credit for Dialing Emergency Services
 
 Claim Timestamp: 00:15:29
 
@@ -1617,13 +1616,13 @@ Transcript Snippet: No one wants to take credit for dialing out to emergency ser
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10729
-Supports: C-7304
+Supports: C-10897
 Tags: relevance:core
 Investigative Direction: Obtain phone records of the vehicle occupants for the transport window.
 
 ---
 
-**C-9041** Host Recounts TPUSA Narrative of Frank Turek Doing CPR and Mikey McCoy Calling the Vice President
+**C-11393** Host Recounts TPUSA Narrative of Frank Turek Doing CPR and Mikey McCoy Calling the Vice President
 
 Claim Timestamp: 00:16:25
 
@@ -1639,7 +1638,7 @@ Investigative Direction: Compare each occupant's account with call detail record
 
 ---
 
-**C-9042** Host Says People Are Speaking Out Since the Preliminary Hearing
+**C-11394** Host Says People Are Speaking Out Since the Preliminary Hearing
 
 Claim Timestamp: 00:16:25
 
@@ -1655,7 +1654,7 @@ Investigative Direction: Track which new sources appear in later episodes.
 
 ---
 
-**C-9043** Tip Says the 911 Call Stayed Open About Five Minutes Without the Caller Realizing
+**C-11396** Tip Says the 911 Call Stayed Open About Five Minutes Without the Caller Realizing
 
 Claim Timestamp: 00:17:17
 
@@ -1666,13 +1665,13 @@ Transcript Snippet: It's running for approximately 5 minutes without the caller 
 Anchored Artifacts: A-2197.1
 Mentions: N-3
 Related Nodes: N-10750
-Supports: C-3149
+Supports: C-11395
 Tags: relevance:core
 Investigative Direction: Obtain the 911 audio and carrier call-detail record for call duration and number of the calling handset.
 
 ---
 
-**C-9044** Tip Says the Call Captured Chaos and Sounds of High Speed
+**C-11397** Tip Says the Call Captured Chaos and Sounds of High Speed
 
 Claim Timestamp: 00:18:14
 
@@ -1683,13 +1682,13 @@ Transcript Snippet: followed by chaos followed by a voice saying, "Get out of th
 Anchored Artifacts: A-2197.1
 Mentions: N-3
 Related Nodes: N-10750
-Supports: C-3149
+Supports: C-11395
 Tags: relevance:core
 Investigative Direction: Review the audio for road noise and compare with the SUV's reported speed on the route to Timpanogos Regional Hospital.
 
 ---
 
-**C-9045** Host Lists What Charlie Had on Him: Broken Necklace, White Freedom T-Shirt, Road Microphone
+**C-11398** Host Lists What Charlie Had on Him: Broken Necklace, White Freedom T-Shirt, Road Microphone
 
 Claim Timestamp: 00:18:14
 
@@ -1705,7 +1704,7 @@ Investigative Direction: Reconcile with hospital property inventory and clothing
 
 ---
 
-**C-9046** Host Says Harpole Is Clear That the Packaging Went Into Charlie
+**C-11399** Host Says Harpole Is Clear That the Packaging Went Into Charlie
 
 Claim Timestamp: 00:18:14
 
@@ -1721,7 +1720,7 @@ Investigative Direction: Clarify which packaging the host means (the transcript 
 
 ---
 
-**C-9047** Host Says the 911 Call Appears to Have Been Purged From the Released Calls
+**C-11400** Host Says the 911 Call Appears to Have Been Purged From the Released Calls
 
 Claim Timestamp: 00:19:28
 
@@ -1732,13 +1731,13 @@ Transcript Snippet: it might go some way in terms of explaining why this 911 cal
 Anchored Artifacts: A-2197.1
 Mentions: N-3
 Related Nodes: N-10729, N-10750
-Supports: C-5787
+Supports: C-10233
 Tags: relevance:core
 Investigative Direction: Ask Utah County dispatch for the retention log of all calls in the time window, including any deletions or non-released audio.
 
 ---
 
-**C-9048** Host Says TPUSA Team Is Reluctant to Say Who Dialed 911 Though Harpole Says We Dialed
+**C-11401** Host Says TPUSA Team Is Reluctant to Say Who Dialed 911 Though Harpole Says We Dialed
 
 Claim Timestamp: 00:19:28
 
@@ -1749,13 +1748,13 @@ Transcript Snippet: yet they're reluctant to share who specifically dialed 911. 
 Anchored Artifacts: 
 Mentions: N-266, N-487, N-492, N-3
 Related Nodes: N-10729
-Supports: C-4717
+Supports: C-10102
 Tags: relevance:core
 Investigative Direction: Compare each occupant's phone call logs and sworn statements about who dialed.
 
 ---
 
-**C-9049** Host Predicts She Can Confirm Who Dialed 911 in the Coming Weeks, Maybe This Week
+**C-11402** Host Predicts She Can Confirm Who Dialed 911 in the Coming Weeks, Maybe This Week
 
 Claim Timestamp: 00:20:24
 
@@ -1771,7 +1770,7 @@ Investigative Direction: Check subsequent episodes for the identification and it
 
 ---
 
-**C-9050** Host Says the Pastor Russell Clip Is From Pursuit Church in Washington State
+**C-11403** Host Says the Pastor Russell Clip Is From Pursuit Church in Washington State
 
 Claim Timestamp: 00:23:26
 
@@ -1787,7 +1786,7 @@ Investigative Direction: Confirm the church, sermon date and pastor's full name 
 
 ---
 
-**C-9051** Pastor Russell Warns Against Talking Heads Who Peddle Conspiracy Theories
+**C-11404** Pastor Russell Warns Against Talking Heads Who Peddle Conspiracy Theories
 
 Claim Timestamp: 00:23:26
 
@@ -1803,7 +1802,7 @@ Investigative Direction: Obtain the full sermon recording to see whether any per
 
 ---
 
-**C-9052** Pastor Russell Warns Against Modern-Day Ahabs and Jezebels Behind Microphones
+**C-11406** Pastor Russell Warns Against Modern-Day Ahabs and Jezebels Behind Microphones
 
 Claim Timestamp: 00:24:17
 
@@ -1819,7 +1818,7 @@ Investigative Direction: Obtain the full sermon recording and any coordinated me
 
 ---
 
-**C-9053** Host Says Pastor Russell Is One of Erika's Favorite Pastors
+**C-11407** Host Says Pastor Russell Is One of Erika's Favorite Pastors
 
 Claim Timestamp: 00:25:22
 
@@ -1834,7 +1833,7 @@ Investigative Direction: Find Erika's public statements about Pastor Russell or 
 
 ---
 
-**C-9054** Host Says the Pursuit Church Event Was a Turning Point Faith Event
+**C-11408** Host Says the Pursuit Church Event Was a Turning Point Faith Event
 
 Claim Timestamp: 00:25:22
 
@@ -1850,7 +1849,7 @@ Investigative Direction: Check the event listing and organizer for the Make Heav
 
 ---
 
-**C-9055** Host Says Erika Spoke at the Pursuit Church Event on the Make Heaven Crowded Tour
+**C-11409** Host Says Erika Spoke at the Pursuit Church Event on the Make Heaven Crowded Tour
 
 Claim Timestamp: 00:26:09
 
@@ -1866,7 +1865,7 @@ Investigative Direction: Obtain the tour schedule and the event recording.
 
 ---
 
-**C-9056** Host Says Stanley Kubrick's Daughter Vivian Kubrick Criticized the Event on X
+**C-11410** Host Says Stanley Kubrick's Daughter Vivian Kubrick Criticized the Event on X
 
 Claim Timestamp: 00:26:09
 
@@ -1882,7 +1881,7 @@ Investigative Direction: Retrieve Vivian Kubrick's X post.
 
 ---
 
-**C-9057** Host Says Erika Was Reading Her Remarks Off an iPad
+**C-11412** Host Says Erika Was Reading Her Remarks Off an iPad
 
 Claim Timestamp: 00:28:37
 
@@ -1898,7 +1897,7 @@ Investigative Direction: Review the full video of the speech for a visible devic
 
 ---
 
-**C-9058** Host Says the Devonte West Account Mocks Christian Speak Broadly and Is Not About Erika
+**C-11414** Host Says the Devonte West Account Mocks Christian Speak Broadly and Is Not About Erika
 
 Claim Timestamp: 00:30:12
 
@@ -1913,7 +1912,7 @@ Investigative Direction: Retrieve the Instagram post and confirm the account hol
 
 ---
 
-**C-9059** Host Says Her Tip Placed Kolvet, TPUSA's In-House Lawyer and CMO at the White House
+**C-11416** Host Says Her Tip Placed Kolvet, TPUSA's In-House Lawyer and CMO at the White House
 
 Claim Timestamp: 00:32:11
 
@@ -1929,7 +1928,7 @@ Investigative Direction: White House visitor logs and the host's tweet timestamp
 
 ---
 
-**C-9060** Host Notes Netanyahu Was Due to Land in Washington Within Hours
+**C-11417** Host Notes Netanyahu Was Due to Land in Washington Within Hours
 
 Claim Timestamp: 00:32:11
 
@@ -1945,7 +1944,7 @@ Investigative Direction: Confirm Netanyahu's arrival date and schedule from offi
 
 ---
 
-**C-9061** Kolvet Says the Claim He Staged a Kash Patel Pre-Record From DC Is False
+**C-11419** Kolvet Says the Claim He Staged a Kash Patel Pre-Record From DC Is False
 
 Claim Timestamp: 00:32:55
 
@@ -1956,13 +1955,13 @@ Transcript Snippet: Candace claimed I was in D. C. on January 29th meeting with 
 Anchored Artifacts: A-2194.1
 Mentions: N-14, N-69, N-3
 Related Nodes: N-10752
-Contradicts: C-4724
+Contradicts: C-10109
 Tags: relevance:core
-Investigative Direction: Compare the Kirk Show recording metadata and Kolvet's travel records for January 29 with the earlier claim in C-4724.
+Investigative Direction: Compare the Kirk Show recording metadata and Kolvet's travel records for January 29 with the earlier claim in C-10109.
 
 ---
 
-**C-9062** Host Says Kolvet Specified Only That He Was Not in DC That Day While Netanyahu Lands and Meets Next Day
+**C-11420** Host Says Kolvet Specified Only That He Was Not in DC That Day While Netanyahu Lands and Meets Next Day
 
 Claim Timestamp: 00:32:55
 
@@ -1978,7 +1977,7 @@ Investigative Direction: Obtain Netanyahu's meeting schedule and any TPUSA White
 
 ---
 
-**C-9063** Host Says She Asked Kolvet Whether He Was Slated for the White House at All That Week
+**C-11421** Host Says She Asked Kolvet Whether He Was Slated for the White House at All That Week
 
 Claim Timestamp: 00:32:55
 
@@ -1994,7 +1993,7 @@ Investigative Direction: Save the host's reply thread with timestamps and any la
 
 ---
 
-**C-9064** Host Says Kolvet Had Not Replied After About Two and a Half Hours
+**C-11422** Host Says Kolvet Had Not Replied After About Two and a Half Hours
 
 Claim Timestamp: 00:33:40
 
@@ -2010,7 +2009,7 @@ Investigative Direction: Check the X thread for Kolvet's later reply times.
 
 ---
 
-**C-9065** Host Says Her Sources Supplied Photos of the SUV After Charlie Was Taken to the Hospital
+**C-11423** Host Says Her Sources Supplied Photos of the SUV After Charlie Was Taken to the Hospital
 
 Claim Timestamp: 00:33:40
 
@@ -2026,7 +2025,7 @@ Investigative Direction: Locate the earlier episode where the SUV photos were sh
 
 ---
 
-**C-9066** Host Says She May Produce a Receipt on the White House Meeting Tomorrow
+**C-11424** Host Says She May Produce a Receipt on the White House Meeting Tomorrow
 
 Claim Timestamp: 00:34:25
 
@@ -2042,7 +2041,7 @@ Investigative Direction: Check the next episode for any receipt on the White Hou
 
 ---
 
-**C-9067** Host Names Marina Minas and Frank, the In-House Lawyer, as Part of the Alleged White House Group
+**C-11425** Host Names Marina Minas and Frank, the In-House Lawyer, as Part of the Alleged White House Group
 
 Claim Timestamp: 00:34:25
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Obtain White House visitor and appointment logs for the
 
 ---
 
-**C-9068** Host Says Netanyahu Is Coming Under the Guise of Lindsey Graham's State Funeral
+**C-11426** Host Says Netanyahu Is Coming Under the Guise of Lindsey Graham's State Funeral
 
 Claim Timestamp: 00:35:05
 
@@ -2074,7 +2073,7 @@ Investigative Direction: Check official announcements of the funeral and Netanya
 
 ---
 
-**C-9069** Host Says Netanyahu and Zelensky Fly In to Dictate Terms
+**C-11427** Host Says Netanyahu and Zelensky Fly In to Dictate Terms
 
 Claim Timestamp: 00:35:05
 
@@ -2090,7 +2089,7 @@ Investigative Direction: Check each leader's announced purpose and meetings.
 
 ---
 
-**C-9070** Host Says Kolvet Is on Record Disliking Lindsey Graham
+**C-11428** Host Says Kolvet Is on Record Disliking Lindsey Graham
 
 Claim Timestamp: 00:35:05
 
@@ -2106,7 +2105,7 @@ Investigative Direction: Find Kolvet's on-record remarks about Lindsey Graham.
 
 ---
 
-**C-9071** Host Says She Has Explosive Reporting Coming This Week
+**C-11429** Host Says She Has Explosive Reporting Coming This Week
 
 Claim Timestamp: 00:35:57
 
@@ -2122,7 +2121,7 @@ Investigative Direction: Check the following episodes for the promised reporting
 
 ---
 
-**C-9072** Host Says Kolvet Had Asked Her to Release the Text Messages
+**C-11430** Host Says Kolvet Had Asked Her to Release the Text Messages
 
 Claim Timestamp: 00:39:33
 
@@ -2133,13 +2132,13 @@ Transcript Snippet: Regarding the text messages that I released, which were aske
 Anchored Artifacts: A-2196.1
 Mentions: N-14, N-3
 Related Nodes: N-10003
-Supports: C-9016
+Supports: C-11364
 Tags: relevance:core
 Investigative Direction: Locate the earlier Kolvet post challenging her to show proof (see the 00:04:18 claim).
 
 ---
 
-**C-9073** Host Says the Same Psychological Tactic Was Used on Michael Jackson and Kanye West
+**C-11431** Host Says the Same Psychological Tactic Was Used on Michael Jackson and Kanye West
 
 Claim Timestamp: 00:40:16
 
@@ -2154,7 +2153,7 @@ Investigative Direction: No checkable record; recorded as stated.
 
 ---
 
-**C-9074** Host Says Fia's NDA-Funeral Comment Refers to Twitch's Wife and She Received Many Emails
+**C-11432** Host Says Fia's NDA-Funeral Comment Refers to Twitch's Wife and She Received Many Emails
 
 Claim Timestamp: 00:41:01
 
@@ -2165,13 +2164,13 @@ Transcript Snippet: She is referring to Twitch's wife. I got so many emails abou
 Anchored Artifacts: A-2196.2
 Mentions: N-3
 Related Nodes: N-11204
-Supports: C-3134
+Supports: C-11341
 Tags: relevance:context
-Investigative Direction: See C-3134 and the CBS interview for the family's NDA account; verify with the family.
+Investigative Direction: See C-11341 and the CBS interview for the family's NDA account; verify with the family.
 
 ---
 
-**C-9075** Host Says Many Current and Former LDS Members Provided Information for Her Investigation
+**C-11433** Host Says Many Current and Former LDS Members Provided Information for Her Investigation
 
 Claim Timestamp: 00:41:47
 
@@ -2187,7 +2186,7 @@ Investigative Direction: Source identities are not given; cannot be checked exte
 
 ---
 
-**C-9076** Host Mentions Kouri Richins as a Utah Woman Who Killed Her Husband
+**C-11434** Host Mentions Kouri Richins as a Utah Woman Who Killed Her Husband
 
 Claim Timestamp: 00:41:47
 
@@ -2203,7 +2202,7 @@ Investigative Direction: Consult the court record in the Kouri Richins case for 
 
 ---
 
-**C-9077** Host Says Pastor Russell Works With Christians United for Israel and Erika Partnered With Him for That Reason
+**C-11435** Host Says Pastor Russell Works With Christians United for Israel and Erika Partnered With Him for That Reason
 
 Claim Timestamp: 00:42:44
 
@@ -2219,7 +2218,7 @@ Investigative Direction: Check CUFI staff and affiliate listings for Pastor Russ
 
 ---
 
-**C-9078** Host Says Pressure on Charlie Escalated After October 7 Until He Said to Take the Money
+**C-11436** Host Says Pressure on Charlie Escalated After October 7 Until He Said to Take the Money
 
 Claim Timestamp: 00:42:44
 
@@ -2230,13 +2229,13 @@ Transcript Snippet: Since October 7th, that's when they all got really insane an
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10000
-Supports: C-5443
+Supports: C-5094
 Tags: relevance:core
-Investigative Direction: Compare with the night-before group text (C-4704) and obtain the donor correspondence.
+Investigative Direction: Compare with the night-before group text (C-10089) and obtain the donor correspondence.
 
 ---
 
-**C-9079** Host Says They Were Not Having Charlie Keep the Money
+**C-11437** Host Says They Were Not Having Charlie Keep the Money
 
 Claim Timestamp: 00:43:29
 
@@ -2247,13 +2246,13 @@ Transcript Snippet: Keep the money." And they were not having that.
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10000
-Supports: C-5443
+Supports: C-5094
 Tags: relevance:core
 Investigative Direction: Identify who "they" refers to; the host does not name them here.
 
 ---
 
-**C-9080** Host Says the People Closest to Charlie Were Not Questioned Meaningfully by Police
+**C-11438** Host Says the People Closest to Charlie Were Not Questioned Meaningfully by Police
 
 Claim Timestamp: 00:43:29
 
@@ -2269,7 +2268,7 @@ Investigative Direction: Request law-enforcement interview logs for TPUSA person
 
 ---
 
-**C-9081** Host Says TPUSA Brought In a Hundred Million Dollars in the Previous Year
+**C-11440** Host Says TPUSA Brought In a Hundred Million Dollars in the Previous Year
 
 Claim Timestamp: 00:44:04
 
@@ -2280,13 +2279,13 @@ Transcript Snippet: What the financial incentives that could have been at this c
 Anchored Artifacts: A-2196.4
 Mentions: N-3
 Related Nodes: N-10000
-Supports: C-6521
+Supports: C-1960
 Tags: relevance:context
 Investigative Direction: Check TPUSA's latest Form 990 for revenue.
 
 ---
 
-**C-9082** Host Says the Preliminary Hearing Did Not Present Evidence of Robinson's Confession and Turn-In
+**C-11441** Host Says the Preliminary Hearing Did Not Present Evidence of Robinson's Confession and Turn-In
 
 Claim Timestamp: 00:44:04
 
@@ -2302,7 +2301,7 @@ Investigative Direction: Review the preliminary-hearing record and exhibit list 
 
 ---
 
-**C-9083** Host Says Charlie Wore About Three Different Rings, Including One With an Open Clasp
+**C-11442** Host Says Charlie Wore About Three Different Rings, Including One With an Open Clasp
 
 Claim Timestamp: 00:44:04
 
@@ -2318,7 +2317,7 @@ Investigative Direction: Identify the three rings from family photos and the one
 
 ---
 
-**C-9084** Host Speculates the Ring Was Left Behind When the Scene Was Paved Over in a Couple of Days
+**C-11443** Host Speculates the Ring Was Left Behind When the Scene Was Paved Over in a Couple of Days
 
 Claim Timestamp: 00:45:01
 
@@ -2329,13 +2328,13 @@ Transcript Snippet: Which is odd probably because they paved over the scene in a
 Anchored Artifacts: A-2196.5
 Mentions: N-1, N-3
 Related Nodes: N-11206, N-10012
-Supports: C-1235
+Supports: C-609
 Tags: relevance:context
 Investigative Direction: Obtain the UVU repaving records and any property inventory listing the ring.
 
 ---
 
-**C-9085** Host Says Kolvet Moves the Goalpost to July After the Community Note
+**C-11444** Host Says Kolvet Moves the Goalpost to July After the Community Note
 
 Claim Timestamp: 00:46:34
 
@@ -2345,13 +2344,13 @@ Transcript Snippet: Nope, he just moves the goalpost. July, "Look, he didn't lik
 
 Anchored Artifacts: A-2189.2
 Mentions: N-14, N-5, N-3
-Supports: C-3139
+Supports: C-11373
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's posts before and after the Community Note.
 
 ---
 
-**C-9086** Host Says She Expects to Know the Truth by the End of the Week
+**C-11445** Host Says She Expects to Know the Truth by the End of the Week
 
 Claim Timestamp: 00:49:07
 
@@ -2623,7 +2622,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Claim failed admission test – C-3147:** Host's exclusive report of Dr. Deirdre Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
+- **Claim failed admission test – C-11354:** Host's exclusive report of Dr. Deirdre Amaro's resignation lacks any displayed primary source (no press release, no filing, no letter). Inscribed as verbal assertion only; should be promoted to claim status only if primary documentation is produced.
 - **Artifact verbally referenced but not shown – A-2197.1:** 911 call tip content is described verbally with quoted phrases but no underlying audio, transcript, CAD record, or source identity is displayed.
 - **Name uncertainty – "Pastor Russell":** Only first name given; full pastoral identity, denominational credentials, and institutional affiliation beyond Pursuit Church not established.
 - **Name variant preserved –:** Transcript renders surname as "Amaro" on first mention and "Deirdra" on second mention; "Deirdre Amaro" retained as primary.

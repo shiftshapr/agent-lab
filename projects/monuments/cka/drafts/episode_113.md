@@ -16,7 +16,7 @@
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-669, N-670, N-671, N-672, N-10961, N-10964, N-10965, N-10966, N-10967
   - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-592, N-660, N-664, N-665, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-673, N-10962, N-10963
-  - Claim Range: C-4434–C-4482
+  - Claim Range: C-9818–C-9866
   - (see registers)
 
 ## 2. Executive Summary
@@ -40,7 +40,7 @@ Video Timestamp: 00:04:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4435, C-4436, N-660, N-178, N-10955*
+*Related: C-9819, C-9820, N-660, N-178, N-10955*
 
 **A-2636.2** Jared Kushner interview clip on how he discovered Albania aboard Nat Rothschild's boat (played)
 
@@ -51,7 +51,7 @@ Video Timestamp: 00:08:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4442, C-4443, C-4444, N-178, N-664, N-665, N-10955*
+*Related: C-9826, C-9827, C-9828, N-178, N-664, N-665, N-10955*
 
 **A-2636.3** Comedic clip presented as "live footage from the scene inside Albania" (played)
 
@@ -75,7 +75,7 @@ Video Timestamp: 00:02:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4436, C-4438, C-4439, C-4440, N-664, N-520*
+*Related: C-9820, C-9822, C-9823, C-9824, N-664, N-520*
 
 ---
 
@@ -90,7 +90,7 @@ Video Timestamp: 00:09:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4445, C-4446, N-669, N-670, N-10955*
+*Related: C-9829, C-9830, N-669, N-670, N-10955*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:11:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4448, C-4450, N-5, N-10961, N-10962*
+*Related: C-9832, C-9834, N-5, N-10961, N-10962*
 
 **A-2639.2** Map shown on screen of Venezuela, Cuba, the Gibraltar Strait, Sazan Island and Kharg Island
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:15:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4452, C-4453, C-4454, N-592, N-671, N-5, N-10964*
+*Related: C-9836, C-9837, C-9838, N-592, N-671, N-5, N-10964*
 
 **A-2640.2** Images of Pete Hegseth running with troops (Malaysia, October 2025; Singapore, May 29; Poland, 2025; Germany, February 2025)
 
@@ -138,7 +138,7 @@ Video Timestamp: 00:21:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4455, N-592*
+*Related: C-9839, N-592*
 
 **A-2640.3** Military website clip of Pete Hegseth working out with troops and addressing them (played)
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:22:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4456, N-592, N-10964*
+*Related: C-9840, N-592, N-10964*
 
 **A-2640.4** Clip of Laura Loomer's question to Pete Hegseth on a Cuba operation, and his answer, during the Guantanamo Bay trip (played)
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:26:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4457, C-4459, C-4460, C-4461, N-60, N-592, N-672, N-673, N-10963, N-10965*
+*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-592, N-672, N-673, N-10963, N-10965*
 
 ---
 
@@ -175,7 +175,7 @@ Video Timestamp: 00:28:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4463, C-4464, N-10966, N-10026*
+*Related: C-9847, C-9848, N-10966, N-10026*
 
 ---
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:31:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4465, C-4466, C-4468, N-14, N-159, N-10000, N-10008*
+*Related: C-9849, C-9850, C-9852, N-14, N-159, N-10000, N-10008*
 
 **A-2642.2** Video of Charlie Kirk appointing Erika Kirk to run Turning Point USA, as replayed within the Charlie Kirk Show clip
 
@@ -201,7 +201,7 @@ Video Timestamp: 00:32:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4467, C-4469, C-4476, N-1, N-2, N-10664*
+*Related: C-9851, C-9853, C-9860, N-1, N-2, N-10664*
 
 ---
 
@@ -216,7 +216,7 @@ Video Timestamp: 00:36:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4471, N-665*
+*Related: C-9855, N-665*
 
 **A-2643.2** Viewer comment (Dexter Morgan) read on air alleging Erika Kirk and JD Vance are half siblings fathered by Michael Aquino
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:44:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4476, N-14*
+*Related: C-9860, N-14*
 
 ---
 
@@ -253,7 +253,7 @@ Video Timestamp: 00:39:38
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4473, C-4474, N-10967, N-10026*
+*Related: C-9857, C-9858, N-10967, N-10026*
 
 ---
 
@@ -266,7 +266,7 @@ Video Timestamp: 00:45:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4478, C-4479, C-4480, N-433, N-10671, N-10700*
+*Related: C-9862, C-9863, C-9864, N-433, N-10671, N-10700*
 
 ---
 
@@ -276,19 +276,19 @@ Confidence Level: Low
 
 Subject of the appointment video that TPUSA says it released to "troll the trolls."
 
-*Related: C-4465, C-4466, C-4467, C-4469, C-4476, A-2642.2*
+*Related: C-9849, C-9850, C-9851, C-9853, C-9860, A-2642.2*
 
 **N-2** Erika Kirk
 
 Transcript spelling "Erika Frantz Paye" in a viewer comment. Her role as CEO and chairman, the appointment video and Mitch Snow's Fort Huachuca sighting are discussed.
 
-*Related: C-4434, C-4465, C-4467, C-4469, C-4481, C-4482, A-2642.2, A-2643.2*
+*Related: C-9818, C-9849, C-9851, C-9853, C-9865, C-9866, A-2642.2, A-2643.2*
 
 **N-3** Candace Owens
 
 Host; says she revealed the Aspen donors' names, was in Russia when the ActCon dispute broke, and filed the Hansell FOIA request.
 
-*Related: C-4472, C-4477, C-4478, C-4479*
+*Related: C-9856, C-9861, C-9862, C-9863*
 
 **N-4** JD Vance
 
@@ -300,49 +300,49 @@ Named in a viewer conspiracy comment that the host calls "pretty far out there."
 
 His Fox and Friends remarks on Kharg Island and Venezuelan oil are played; the host says he is bombing Iran without a vote from Congress.
 
-*Related: C-4447, C-4448, C-4450, C-4452, C-4460, A-2639.1, A-2640.1*
+*Related: C-9831, C-9832, C-9834, C-9836, C-9844, A-2639.1, A-2640.1*
 
 **N-14** Andrew Kolvet
 
 Transcript spellings "Andrew Kolvet" and "Andrew Kovacs" / "Kovacs". Says on the Charlie Kirk Show that TPUSA released the appointment video to "troll the trolls"; the host demands he state it is not doctored.
 
-*Related: C-4465, C-4466, C-4468, C-4469, C-4476, A-2642.1, A-2643.3*
+*Related: C-9849, C-9850, C-9852, C-9853, C-9860, A-2642.1, A-2643.3*
 
 **N-60** Laura Loomer
 
 Called "Larry Loomer" by the host throughout. Traveled with Pete Hegseth to Guantanamo Bay as a Pentagon reporter and asked about a Cuba operation; the host says she cannot legally own a weapon.
 
-*Related: C-4457, C-4458, C-4459, C-4460, A-2640.4*
+*Related: C-9841, C-9842, C-9843, C-9844, A-2640.4*
 
 **N-97** Ben Shapiro
 
 Named by the host as calling for the US to take Kharg Island.
 
-*Related: C-4449*
+*Related: C-9833*
 
 **N-159** Blake Neff
 
 Appears with Kolvet on the Charlie Kirk Show clip; the host says he is not an employee of Turning Point USA.
 
-*Related: C-4465, C-4466, C-4468, C-4470, A-2642.1*
+*Related: C-9849, C-9850, C-9852, C-9854, A-2642.1*
 
 **N-178** Jared Kushner
 
 His interview on discovering Albania aboard Nat Rothschild's boat is played.
 
-*Related: C-4435, C-4442, C-4443, C-4444, A-2636.1, A-2636.2, A-2636.3*
+*Related: C-9819, C-9826, C-9827, C-9828, A-2636.1, A-2636.2, A-2636.3*
 
 **N-361** Mitch Snow
 
 The host restates his claim that he saw Erika Kirk at a hotel on Fort Huachuca on September 8.
 
-*Related: C-4481*
+*Related: C-9865*
 
 **N-433** Bradley Hansell
 
 Transcript spelling "Brad Hansell". Subject of the host's FOIA request about who flew with him to Fort Huachuca.
 
-*Related: C-4478, C-4479, C-4480, A-2645.1*
+*Related: C-9862, C-9863, C-9864, A-2645.1*
 
 **N-449** Michael Aquino
 
@@ -354,205 +354,205 @@ Named in a viewer conspiracy comment as the alleged biological father of Erika K
 
 The host links the family to the Sazan Island deal, the founding of Israel and the Planet Nine yacht.
 
-*Related: C-4436, C-4437, C-4441, A-2637.1*
+*Related: C-9820, C-9821, C-9825, A-2637.1*
 
 **N-592** Pete Hegseth
 
 Repeatedly misnamed "Pete Buttigieg" by the host. His CENTCOM press remarks, troop runs and Guantanamo trip with Laura Loomer are shown.
 
-*Related: C-4452, C-4453, C-4454, C-4455, C-4456, C-4457, C-4461, C-4462, A-2640.1, A-2640.2, A-2640.3, A-2640.4*
+*Related: C-9836, C-9837, C-9838, C-9839, C-9840, C-9841, C-9845, C-9846, A-2640.1, A-2640.2, A-2640.3, A-2640.4*
 
 **N-660** Ivanka Trump
 
 First named by the host at 00:00:52 in episode 113. Her story of swimming to Sazan Island from a friend's boat is revisited.
 
-*Related: C-4435, C-4436, A-2636.1*
+*Related: C-9819, C-9820, A-2636.1*
 
 **N-664** Nat Rothschild
 
 First named by the host at 00:02:52 in episode 113. Owner of the superyacht Planet Nine, on which Kushner says he and Ivanka vacationed in 2021. Aliases: Nathaniel; Nathan Rothschild.
 
-*Related: C-4436, C-4438, C-4442, A-2636.2, A-2637.1*
+*Related: C-9820, C-9822, C-9826, A-2636.2, A-2637.1*
 
 **N-665** Edi Rama
 
 First named by Jared Kushner in a clip at 00:08:08 in episode 113, as "Prime Minister Rama" of Albania. Kushner says Rama came to the yacht. Transcript gives only the surname.
 
-*Related: C-4443, C-4444, C-4471, A-2636.2, A-2643.1*
+*Related: C-9827, C-9828, C-9855, A-2636.2, A-2643.1*
 
 **N-669** Nikita Khrushchev
 
 First named by the host at 00:09:59 in episode 113. Former Soviet leader quoted on Sazan Island as a strategic naval position.
 
-*Related: C-4445, C-4446, A-2638.1*
+*Related: C-9829, C-9830, A-2638.1*
 
 **N-670** Enver Hoxha
 
 First named by the host at 00:09:59 in episode 113. Former Albanian leader (called "prime minister" by the host) whose account of Khrushchev's remarks is read.
 
-*Related: C-4446, A-2638.1*
+*Related: C-9830, A-2638.1*
 
 **N-671** Admiral Cooper (CENTCOM commander)
 
 First named by Pete Hegseth in a clip at 00:15:42 in episode 113 as "Admiral Cooper, the commander of CENTCOM." Only the surname is given.
 
-*Related: C-4452, C-4453, A-2640.1*
+*Related: C-9836, C-9837, A-2640.1*
 
 **N-672** Miguel Díaz-Canel
 
 First named by Laura Loomer in a clip at 00:26:08 in episode 113 (transcript spelling "Miguel Diaz-Canel"). Cuban leader named in her capture-or-kill question.
 
-*Related: C-4460, A-2640.4*
+*Related: C-9844, A-2640.4*
 
 **N-673** Nicolás Maduro
 
 First named by Laura Loomer in a clip at 00:26:08 in episode 113. She cites a capture or kill operation against him as a precedent.
 
-*Related: C-4460, A-2640.4*
+*Related: C-9844, A-2640.4*
 
 **N-10955** Sazan Island
 
 Node Type: Place
 Island off the coast of Albania that the host says Ivanka Trump and Jared Kushner "discovered" from Nat Rothschild's yacht and are now developing; the host links it to Khrushchev's 1959 remarks on controlling the Mediterranean.
 
-*Related: C-4435, C-4442, C-4443, C-4444, C-4445, C-4446, A-2636.1, A-2636.2, A-2636.3, A-2638.1, A-2639.2*
+*Related: C-9819, C-9826, C-9827, C-9828, C-9829, C-9830, A-2636.1, A-2636.2, A-2636.3, A-2638.1, A-2639.2*
 
 **N-10961** Kharg Island
 
 Node Type: Place
 Iranian island in the Persian Gulf that Donald Trump says he would prefer to take and that the host says Ben Shapiro has called for seizing.
 
-*Related: C-4448, C-4449, A-2639.1, A-2639.2*
+*Related: C-9832, C-9833, A-2639.1, A-2639.2*
 
 **N-10962** Venezuela
 
 Node Type: Place
 Trump says millions of barrels of Venezuelan oil were brought to US refineries; the host says the oil went to Israel.
 
-*Related: C-4450, C-4451, A-2639.1, A-2639.2*
+*Related: C-9834, C-9835, A-2639.1, A-2639.2*
 
 **N-10963** Cuba
 
 Node Type: Place
 Subject of Laura Loomer's question about a US operation to remove the communist government and of Hegseth's "options" answer.
 
-*Related: C-4460, C-4461, A-2639.2, A-2640.4*
+*Related: C-9844, C-9845, A-2639.2, A-2640.4*
 
 **N-10964** US Central Command (CENTCOM)
 
 Node Type: Organization
 Military command whose Tampa headquarters hosted Hegseth's press remarks announcing strikes on Iran.
 
-*Related: C-4452, C-4453, C-4461, A-2640.1, A-2640.3*
+*Related: C-9836, C-9837, C-9845, A-2640.1, A-2640.3*
 
 **N-10965** Guantanamo Bay
 
 Node Type: Place
 Naval base where the host says Hegseth traveled with Laura Loomer and ran with troops.
 
-*Related: C-4457, C-4459, C-4462, A-2640.4*
+*Related: C-9841, C-9843, C-9846, A-2640.4*
 
 **N-10966** The Spectator (US edition)
 
 Node Type: Organization
 Publication of the article headlined "Bombing Iran is the perfect way to celebrate pride."
 
-*Related: C-4463, C-4464, A-2641.1*
+*Related: C-9847, C-9848, A-2641.1*
 
 **N-10967** Haaretz
 
 Node Type: Organization
 Israeli publication of the article "What if Albania had become the Jewish state?" cited in the comments segment.
 
-*Related: C-4473, A-2644.1*
+*Related: C-9857, A-2644.1*
 
 **N-10000** Turning Point USA
 
 Organization whose CEO and chairman's accountability, appointment video and spokesperson are discussed.
 
-*Related: C-4434, C-4465, C-4469, C-4470, C-4472, A-2642.1*
+*Related: C-9818, C-9849, C-9853, C-9854, C-9856, A-2642.1*
 
 **N-10008** YWLS Conference
 
 Venue where TPUSA played the appointment video.
 
-*Related: C-4465, A-2642.1*
+*Related: C-9849, A-2642.1*
 
 **N-10026** Israel
 
 The host says the Rothschilds created Israel, that Venezuelan oil was shipped there, and that Albania was once considered for a Jewish state.
 
-*Related: C-4437, C-4451, C-4473, A-2641.1, A-2644.1*
+*Related: C-9821, C-9835, C-9857, A-2641.1, A-2644.1*
 
 **N-10070** Daily Mail
 
 The host says TPUSA brought in Daily Mail reporters for an article on why the full video could not be released.
 
-*Related: C-4472*
+*Related: C-9856*
 
 **N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
 
 Mitch Snow's September 8 hotel sighting is restated.
 
-*Related: C-4481*
+*Related: C-9865*
 
 **N-10417** Fort Huachuca Erika Presence Investigation
 
 The host ties Hansell's September 8 trip to the date Mitch Snow places Erika Kirk on the base.
 
-*Related: C-4480, C-4481*
+*Related: C-9864, C-9865*
 
 **N-10472** Fort Huachuca Alibi Investigation
 
 The host says Erika Kirk has not provided an alibi and that Paramount Tactical debunked the one offered.
 
-*Related: C-4482*
+*Related: C-9866*
 
 **N-10541** Strait of Hormuz / US-Iran War Context
 
 The host frames the Iran strikes as a bid to control the Strait of Hormuz; Hegseth announces new strikes.
 
-*Related: C-4447, C-4452, C-4453*
+*Related: C-9831, C-9836, C-9837*
 
 **N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition
 
 The host restates that Loomer is not legally allowed to own a weapon.
 
-*Related: C-4458*
+*Related: C-9842*
 
 **N-10664** Charlie Kirk Aspen Audio Authenticity Question
 
 The host maintains the appointment video is doctored and asks Kolvet to deny AI enhancement.
 
-*Related: C-4467, C-4468, C-4469, C-4472, C-4476, A-2642.2*
+*Related: C-9851, C-9852, C-9853, C-9856, C-9860, A-2642.2*
 
 **N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
 The host's FOIA for the passenger list of Hansell's Fort Huachuca flight; she references "Sam 702."
 
-*Related: C-4478, C-4479, C-4480, A-2645.1*
+*Related: C-9862, C-9863, C-9864, A-2645.1*
 
 **N-10700** Pending FOIA Requests
 
 The Hansell FOIA request and its "very odd response."
 
-*Related: C-4478, C-4479, A-2645.1*
+*Related: C-9862, C-9863, A-2645.1*
 
 **N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness
 
 The host opens by asking when the widowed CEO and chairman of TPUSA must answer questions.
 
-*Related: C-4434*
+*Related: C-9818*
 
 **N-10899** Paramount Tactical
 
 Called "Paramount Not So Tactical"; the host says it debunked the Fort Huachuca alibi.
 
-*Related: C-4482*
+*Related: C-9866*
 
 ## 5. Claim Register
 
-**C-4434** Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity
+**C-9818** Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity
 
 Claim Timestamp: 00:00:01
 
@@ -567,7 +567,7 @@ Investigative Direction: Review Turning Point USA's most recent IRS Form 990 for
 
 ---
 
-**C-4435** Ivanka Trump said she jumped off a friend's boat and swam to the island
+**C-9819** Ivanka Trump said she jumped off a friend's boat and swam to the island
 
 Claim Timestamp: 00:01:44
 
@@ -582,7 +582,7 @@ Investigative Direction: Review the full Ivanka Trump interview in which she des
 
 ---
 
-**C-4436** The boat Ivanka Trump jumped off was owned by a Rothschild
+**C-9820** The boat Ivanka Trump jumped off was owned by a Rothschild
 
 Claim Timestamp: 00:01:44
 
@@ -597,7 +597,7 @@ Investigative Direction: Check yacht registry and ownership records for Planet N
 
 ---
 
-**C-4437** The Rothschild family has said it created the modern state of Israel
+**C-9821** The Rothschild family has said it created the modern state of Israel
 
 Claim Timestamp: 00:02:52
 
@@ -612,7 +612,7 @@ Investigative Direction: Locate the specific Rothschild family interview or stat
 
 ---
 
-**C-4438** Nat Rothschild's superyacht is named Planet Nine and is designed for heli-skiing
+**C-9822** Nat Rothschild's superyacht is named Planet Nine and is designed for heli-skiing
 
 Claim Timestamp: 00:02:52
 
@@ -627,7 +627,7 @@ Investigative Direction: Check yacht registry and builder records for Planet Nin
 
 ---
 
-**C-4439** Planet Nine carries an eight-seat helicopter and has room for a second
+**C-9823** Planet Nine carries an eight-seat helicopter and has room for a second
 
 Claim Timestamp: 00:03:41
 
@@ -642,7 +642,7 @@ Investigative Direction: Check the builder's published specifications for Planet
 
 ---
 
-**C-4440** Planet Nine has five decks, two elevators and room for 16 guests
+**C-9824** Planet Nine has five decks, two elevators and room for 16 guests
 
 Claim Timestamp: 00:04:39
 
@@ -657,7 +657,7 @@ Investigative Direction: Compare with the builder's or charter broker's specific
 
 ---
 
-**C-4441** A French Rothschild said "vice is nice, but incest is best"
+**C-9825** A French Rothschild said "vice is nice, but incest is best"
 
 Claim Timestamp: 00:06:17
 
@@ -672,7 +672,7 @@ Investigative Direction: Locate the original interview or documentary in which a
 
 ---
 
-**C-4442** Jared Kushner says he vacationed on Nat Rothschild's boat in summer 2021
+**C-9826** Jared Kushner says he vacationed on Nat Rothschild's boat in summer 2021
 
 Claim Timestamp: 00:08:08
 
@@ -687,7 +687,7 @@ Investigative Direction: Obtain the full Kushner interview and AIS tracking data
 
 ---
 
-**C-4443** Jared Kushner says Albania's Prime Minister Rama came to the boat
+**C-9827** Jared Kushner says Albania's Prime Minister Rama came to the boat
 
 Claim Timestamp: 00:08:08
 
@@ -702,7 +702,7 @@ Investigative Direction: Check Albanian government schedules and press reports f
 
 ---
 
-**C-4444** The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny
+**C-9828** The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny
 
 Claim Timestamp: 00:09:12
 
@@ -717,7 +717,7 @@ Investigative Direction: Check Albanian prosecutorial (SPAK) records and press r
 
 ---
 
-**C-4445** Khrushchev visited Albania in 1959 and discussed Sazan Island as a naval position
+**C-9829** Khrushchev visited Albania in 1959 and discussed Sazan Island as a naval position
 
 Claim Timestamp: 00:09:59
 
@@ -732,7 +732,7 @@ Investigative Direction: Consult Enver Hoxha's memoir "The Khrushchevites" and h
 
 ---
 
-**C-4446** Hoxha recorded Khrushchev saying a Sazan fleet could control the Mediterranean
+**C-9830** Hoxha recorded Khrushchev saying a Sazan fleet could control the Mediterranean
 
 Claim Timestamp: 00:09:59
 
@@ -747,7 +747,7 @@ Investigative Direction: Verify the quotation against the published text of Hoxh
 
 ---
 
-**C-4447** Trump is bombing Iran without a vote from Congress
+**C-9831** Trump is bombing Iran without a vote from Congress
 
 Claim Timestamp: 00:11:08
 
@@ -762,7 +762,7 @@ Investigative Direction: Check congressional records for any authorization for t
 
 ---
 
-**C-4448** Trump says his preference has always been to take Kharg Island
+**C-9832** Trump says his preference has always been to take Kharg Island
 
 Claim Timestamp: 00:11:57
 
@@ -777,7 +777,7 @@ Investigative Direction: Obtain the full Fox and Friends interview transcript an
 
 ---
 
-**C-4449** Ben Shapiro has called for taking Kharg Island
+**C-9833** Ben Shapiro has called for taking Kharg Island
 
 Claim Timestamp: 00:11:57
 
@@ -792,7 +792,7 @@ Investigative Direction: Search Ben Shapiro's shows and posts for statements adv
 
 ---
 
-**C-4450** Trump says the US has taken millions of barrels of Venezuelan oil
+**C-9834** Trump says the US has taken millions of barrels of Venezuelan oil
 
 Claim Timestamp: 00:11:57
 
@@ -807,7 +807,7 @@ Investigative Direction: Check EIA import data and shipping records for Venezuel
 
 ---
 
-**C-4451** Venezuelan oil was immediately shipped to Israel
+**C-9835** Venezuelan oil was immediately shipped to Israel
 
 Claim Timestamp: 00:12:55
 
@@ -818,12 +818,12 @@ Transcript Snippet: We got all this oil. Where did it go? I remember the headlin
 Anchored Artifacts:
 Mentions:
 Related Nodes: N-10962, N-10026
-Supports: C-3577
+Supports: C-6776
 Investigative Direction: Locate the headlines and tanker-tracking data on Venezuelan crude shipments to Israel.
 
 ---
 
-**C-4452** Hegseth says CENTCOM will hit Iran hard that night
+**C-9836** Hegseth says CENTCOM will hit Iran hard that night
 
 Claim Timestamp: 00:15:42
 
@@ -838,7 +838,7 @@ Investigative Direction: Obtain the Department of War transcript of Hegseth's Ta
 
 ---
 
-**C-4453** Hegseth credits CENTCOM with Epic Fury and the Iran blockade
+**C-9837** Hegseth credits CENTCOM with Epic Fury and the Iran blockade
 
 Claim Timestamp: 00:17:01
 
@@ -853,7 +853,7 @@ Investigative Direction: Review official CENTCOM releases on Operation Epic Fury
 
 ---
 
-**C-4454** Hegseth has a crucifix tattoo on his right arm
+**C-9838** Hegseth has a crucifix tattoo on his right arm
 
 Claim Timestamp: 00:17:29
 
@@ -868,7 +868,7 @@ Investigative Direction: Compare with published photographs of Hegseth's tattoos
 
 ---
 
-**C-4455** Hegseth stages runs with troops abroad
+**C-9839** Hegseth stages runs with troops abroad
 
 Claim Timestamp: 00:21:34
 
@@ -883,7 +883,7 @@ Investigative Direction: Check DVIDS and Department of War photo releases for He
 
 ---
 
-**C-4456** Hegseth says "we are taking back our hemisphere"
+**C-9840** Hegseth says "we are taking back our hemisphere"
 
 Claim Timestamp: 00:22:34
 
@@ -898,7 +898,7 @@ Investigative Direction: Locate the original DVIDS or War Department video and i
 
 ---
 
-**C-4457** Hegseth went to Guantanamo Bay with Laura Loomer
+**C-9841** Hegseth went to Guantanamo Bay with Laura Loomer
 
 Claim Timestamp: 00:24:25
 
@@ -913,7 +913,7 @@ Investigative Direction: Check the Department of War press pool roster for Hegse
 
 ---
 
-**C-4458** Laura Loomer is not legally allowed to own a weapon
+**C-9842** Laura Loomer is not legally allowed to own a weapon
 
 Claim Timestamp: 00:24:25
 
@@ -928,7 +928,7 @@ Investigative Direction: Check court and state records for any firearm prohibiti
 
 ---
 
-**C-4459** Laura Loomer went to Guantanamo as a Pentagon reporter
+**C-9843** Laura Loomer went to Guantanamo as a Pentagon reporter
 
 Claim Timestamp: 00:25:19
 
@@ -943,7 +943,7 @@ Investigative Direction: Check Pentagon press credential lists for Loomer's outl
 
 ---
 
-**C-4460** Loomer asked Hegseth about a capture-or-kill operation against Díaz-Canel
+**C-9844** Loomer asked Hegseth about a capture-or-kill operation against Díaz-Canel
 
 Claim Timestamp: 00:26:08
 
@@ -958,7 +958,7 @@ Investigative Direction: Obtain the War Department transcript of the Guantanamo 
 
 ---
 
-**C-4461** Hegseth answered that all options are on the table
+**C-9845** Hegseth answered that all options are on the table
 
 Claim Timestamp: 00:27:03
 
@@ -973,7 +973,7 @@ Investigative Direction: Obtain the War Department transcript of the Guantanamo 
 
 ---
 
-**C-4462** Hegseth did another run with troops at Guantanamo
+**C-9846** Hegseth did another run with troops at Guantanamo
 
 Claim Timestamp: 00:27:47
 
@@ -988,7 +988,7 @@ Investigative Direction: Check DVIDS imagery from the Guantanamo Bay visit.
 
 ---
 
-**C-4463** Spectator US published "Bombing Iran is the perfect way to celebrate pride"
+**C-9847** Spectator US published "Bombing Iran is the perfect way to celebrate pride"
 
 Claim Timestamp: 00:28:39
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Retrieve the Spectator US article, its author and publi
 
 ---
 
-**C-4464** Spectator article says Tel Aviv pride became an opportunity to bomb Iran
+**C-9848** Spectator article says Tel Aviv pride became an opportunity to bomb Iran
 
 Claim Timestamp: 00:28:39
 
@@ -1018,7 +1018,7 @@ Investigative Direction: Compare with the published article text.
 
 ---
 
-**C-4465** Kolvet and Neff say TPUSA released the appointment video to "troll the trolls"
+**C-9849** Kolvet and Neff say TPUSA released the appointment video to "troll the trolls"
 
 Claim Timestamp: 00:31:12
 
@@ -1033,7 +1033,7 @@ Investigative Direction: Obtain the full Charlie Kirk Show episode and the YWLS 
 
 ---
 
-**C-4466** TPUSA spokesman says Charlie told staff and board of the succession plan, and said it once on camera in Aspen
+**C-9850** TPUSA spokesman says Charlie told staff and board of the succession plan, and said it once on camera in Aspen
 
 Claim Timestamp: 00:32:14
 
@@ -1044,12 +1044,12 @@ Transcript Snippet: He said it one time in front of a camera at a private event 
 Anchored Artifacts: A-2642.1
 Mentions: N-14, N-159, N-1, N-2
 Related Nodes: N-10664
-Supports: C-2660
+Supports: C-7887
 Investigative Direction: Obtain TPUSA board minutes on succession and the full unedited Aspen donor event recording.
 
 ---
 
-**C-4467** Video shows Charlie Kirk saying "I appoint my wife to run Turning Point USA"
+**C-9851** Video shows Charlie Kirk saying "I appoint my wife to run Turning Point USA"
 
 Claim Timestamp: 00:32:14
 
@@ -1060,12 +1060,12 @@ Transcript Snippet: I appoint my wife to run Turning Point USA if something happ
 Anchored Artifacts: A-2642.2
 Mentions: N-1, N-2
 Related Nodes: N-10664
-Supports: C-2889
+Supports: C-9053
 Investigative Direction: Forensically compare the released clip with the full Aspen event recording.
 
 ---
 
-**C-4468** TPUSA says critics wrongly claimed the clip was from ActCon 2023
+**C-9852** TPUSA says critics wrongly claimed the clip was from ActCon 2023
 
 Claim Timestamp: 00:32:14
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Compare the clip's setting and audio with ActCon 2023 f
 
 ---
 
-**C-4469** Host asserts the appointment video is doctored and TPUSA will not answer
+**C-9853** Host asserts the appointment video is doctored and TPUSA will not answer
 
 Claim Timestamp: 00:33:48
 
@@ -1095,7 +1095,7 @@ Investigative Direction: Commission independent forensic analysis of the clip an
 
 ---
 
-**C-4470** Blake Neff is not a TPUSA employee
+**C-9854** Blake Neff is not a TPUSA employee
 
 Claim Timestamp: 00:33:48
 
@@ -1110,7 +1110,7 @@ Investigative Direction: Check TPUSA's Form 990 staff listings and Neff's employ
 
 ---
 
-**C-4471** Viewer says the Albanian prime minister is selling the country's land and sea
+**C-9855** Viewer says the Albanian prime minister is selling the country's land and sea
 
 Claim Timestamp: 00:36:43
 
@@ -1125,7 +1125,7 @@ Investigative Direction: Review Albanian maritime and land concession agreements
 
 ---
 
-**C-4472** TPUSA cited donor protection to withhold the video; host says she named the donors
+**C-9856** TPUSA cited donor protection to withhold the video; host says she named the donors
 
 Claim Timestamp: 00:37:53
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Retrieve the Daily Mail article and compare with the ho
 
 ---
 
-**C-4473** Haaretz published "What if Albania had become the Jewish state?"
+**C-9857** Haaretz published "What if Albania had become the Jewish state?"
 
 Claim Timestamp: 00:39:38
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Retrieve the Haaretz article and its sources on Albania
 
 ---
 
-**C-4474** Early Zionists also considered Africa for a Jewish state
+**C-9858** Early Zionists also considered Africa for a Jewish state
 
 Claim Timestamp: 00:39:38
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Consult histories of the 1903 Uganda Scheme and other p
 
 ---
 
-**C-4475** Russia and Persia ended the Khazar Empire
+**C-9859** Russia and Persia ended the Khazar Empire
 
 Claim Timestamp: 00:40:14
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Consult academic histories of the Khazar Khaganate's fa
 
 ---
 
-**C-4476** Host says the video is from the Aspen event, not ActCon
+**C-9860** Host says the video is from the Aspen event, not ActCon
 
 Claim Timestamp: 00:44:45
 
@@ -1200,7 +1200,7 @@ Investigative Direction: Retrieve Kolvet's X post and obtain the full Aspen reco
 
 ---
 
-**C-4477** Host was in Russia when the ActCon dispute broke
+**C-9861** Host was in Russia when the ActCon dispute broke
 
 Claim Timestamp: 00:44:45
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Compare the host's travel dates with the timing of the 
 
 ---
 
-**C-4478** Host filed a FOIA request about Under Secretary of War Brad Hansell
+**C-9862** Host filed a FOIA request about Under Secretary of War Brad Hansell
 
 Claim Timestamp: 00:45:43
 
@@ -1230,7 +1230,7 @@ Investigative Direction: Obtain the FOIA request and the agency's response lette
 
 ---
 
-**C-4479** The FOIA sought who flew with Hansell to Fort Huachuca and drew an odd response
+**C-9863** The FOIA sought who flew with Hansell to Fort Huachuca and drew an odd response
 
 Claim Timestamp: 00:45:43
 
@@ -1245,7 +1245,7 @@ Investigative Direction: Obtain the response letter and file an appeal or a para
 
 ---
 
-**C-4480** Hansell stopped in Tucson and went to Fort Huachuca on September 8
+**C-9864** Hansell stopped in Tucson and went to Fort Huachuca on September 8
 
 Claim Timestamp: 00:46:42
 
@@ -1260,7 +1260,7 @@ Investigative Direction: Obtain flight-tracking data for the aircraft carrying H
 
 ---
 
-**C-4481** Mitch Snow says he saw Erika Kirk at a hotel on base on September 8
+**C-9865** Mitch Snow says he saw Erika Kirk at a hotel on base on September 8
 
 Claim Timestamp: 00:46:42
 
@@ -1271,12 +1271,12 @@ Transcript Snippet: That's the day that Mitch Snow, who has not edited his story
 Anchored Artifacts:
 Mentions: N-361, N-2
 Related Nodes: N-10367, N-10417
-Supports: C-1973
+Supports: C-4347
 Investigative Direction: Obtain Candlewood Suites Fort Huachuca guest records and base access logs for September 8, 2025.
 
 ---
 
-**C-4482** Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered
+**C-9866** Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered
 
 Claim Timestamp: 00:46:42
 
@@ -1287,7 +1287,7 @@ Transcript Snippet: Erika Kirk has not provided an alibi. I guess Andrew tried t
 Anchored Artifacts:
 Mentions: N-2, N-14
 Related Nodes: N-10899, N-10472
-Supports: C-2906
+Supports: C-9135
 Investigative Direction: Obtain the original alibi photograph metadata and Paramount Tactical's on-air retraction.
 
 ---
@@ -1531,16 +1531,16 @@ Confidence: high
 - **Episode metadata**: the skeleton's Video Timestamp Range was 00:56:29; it is set to 00:47:48 from the transcript front matter.
 - **Name matching**: the host repeatedly says "Pete Buttigieg" (21:34) when she means Pete Hegseth; all are mapped to N-592. "Larry Loomer" is the host's running nickname for Laura Loomer (N-60). "Andrew Kolvet", "Andrew Kovacs" and "Kovacs" are mapped to N-14 Andrew Kolvet. "Brad Hansell" is mapped to N-433 Bradley Hansell. "Prime Minister Rama" is assumed to be Edi Rama (N-665); the transcript gives only the surname. "Admiral Cooper, the commander of CENTCOM" (N-671) is likely Adm. Brad Cooper, but only the surname airs. "Brian knows that" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. "Erika Frantz Paye" in a viewer comment is a variant of Erika Frantzve (N-2). "Nathaniel" and "Nathan Rothschild" are taken as Nat Rothschild (N-664).
 - **Transcription ambiguities**: "Cezanne" (13:42) is Sazan; "Karg Island" is Kharg; "trolling at WLS" refers to YWLS; "Sam 702" is linked to N-10671 (SAM702). "in 1950 1959" is a self-correction, and 1959 is used.
-- **Possible host errors kept as spoken**: the host says "the Roman name for Pluto is Hades" (Hades is the Greek name); she calls Enver Hoxha "prime minister" (he was also First Secretary); she gives Iran's population as "150 million". C-4481 places the hotel sighting "on the base" on "the 8th"; prior claim C-1973 names the Candlewood Inn & Suites, so the two are consistent.
-- **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-4465, C-4466 and C-4468 mention both.
+- **Possible host errors kept as spoken**: the host says "the Roman name for Pluto is Hades" (Hades is the Greek name); she calls Enver Hoxha "prime minister" (he was also First Secretary); she gives Iran's population as "150 million". C-9865 places the hotel sighting "on the base" on "the 8th"; prior claim C-4347 names the Candlewood Inn & Suites, so the two are consistent.
+- **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-9849, C-9850 and C-9852 mention both.
 - **DIA scan**: the only hit is "candaceowens. com" (42:59) in a merch plug for the Stand With Candace mug, not a tip request, so it is not a DIA beat. No tip, bounty or Decentralized Intelligence Agency beats air.
-- **Cross-episode links left out**: C-4469 (video doctored) is close to C-2888 (donors assert the audio was faked) but is the host's own assertion, not the donors', so it is not linked. C-4478 restates Hansell's title (C-2909) but is about the FOIA, so it is not linked. C-4458 (Loomer firearm prohibition) has no matching prior claim.
+- **Cross-episode links left out**: C-9853 (video doctored) is close to C-9050 (donors assert the audio was faked) but is the host's own assertion, not the donors', so it is not linked. C-9862 restates Hansell's title (C-9620) but is about the FOIA, so it is not linked. C-9842 (Loomer firearm prohibition) has no matching prior claim.
 - **Not inscribed as claims (admission test)**:
   - Characterizations of the Rothschilds as "openly satanic" and of the Sazan deal as Rothschild "agents" controlling waterways
   - The theory that the Iran war aims to add the Strait of Hormuz to "the Rothschild empire"
   - "If they don't care about the murder of Charlie Kirk, do you know how quickly they would murder your sons and daughters?"
   - The host's paraphrases of officials as wanting to "bomb bridges" and "kill citizens"
-  - The claim that Israel is "the Khazarian Empire reassembled" and that its people "are not the Jews of the Bible" (a contested theory, not inscribed; C-4475 keeps only the narrow historical assertion)
+  - The claim that Israel is "the Khazarian Empire reassembled" and that its people "are not the Jews of the Bible" (a contested theory, not inscribed; C-9859 keeps only the narrow historical assertion)
   - The theory that Western publishers suppressed Russian history books after World War II
   - The Dexter Morgan viewer comment that Erika Kirk and JD Vance are half siblings fathered by Michael Aquino (A-2643.2 only), which the host calls "pretty far out there"
   - The claim that Emmanuel Macron had "the hand of Rothschild upon him" at every turn

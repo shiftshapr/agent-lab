@@ -18,9 +18,8 @@
   - Tip-minted Nodes (supplement_2026-10g): N-11369, N-11370
   - Hole-minted Nodes (reintro-ep009): N-10588
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10g): C-13659–C-13730
+  - Claim Range: C-742–C-835
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
-  - Claim Range: C-1267-C-1285, C-3728-C-3730
   - New Nodes Introduced: N-104, N-105, N-106, N-107, N-108, N-109, N-110, N-111, N-112, N-113, N-114, N-10111, N-10112, N-10113, N-10114, N-10115, N-10116, N-10117, N-10118, N-10120, N-10121, N-10122, N-10123, N-10125, N-10126, N-10127, N-10128
   - Reused Nodes Appearing: N-1, N-2, N-3, N-40, N-46, N-5, N-50, N-68, N-30, N-87, N-97, N-10012, N-10014, N-10001, N-10110, N-10109, N-10124, N-37, N-10000, N-10021, N-10022, N-10065, N-10106, N-10119
 
@@ -34,13 +33,13 @@ Episode presses two investigative threads. First, FBI pressure on Utah authoriti
 
 **A-1155.1** Text chain between Candace and Charlie Kirk re: UK flight booking ($450 coach / $1,200 first class)
 Video Timestamp: 00:10:23–00:11:00
-*Related: C-1267, C-1268, N-1, N-3, N-30*
+*Related: C-762, C-760, N-1, N-3, N-30*
 Transcript Snippet: Reme $450 in coach or 1,200 in first class. And he's like, "Wow, let's book it."
 Confidence: high
 
 **A-1155.2** Texts to sister/husband Aug 30–Sep 2 re: 'imminent danger', 'communist underground' at schools, bees as code
 Video Timestamp: 00:13:36–00:14:46
-*Related: C-1269, N-3, N-30, N-113, N-10113*
+*Related: C-768, N-3, N-30, N-113, N-10113*
 Transcript Snippet: I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.
 Confidence: high
 
@@ -50,25 +49,25 @@ Confidence: high
 
 **A-1156.1** 80-page scraped online-history document (referenced; partial on-screen)
 Video Timestamp: 00:22:24–00:26:26
-*Related: C-1270, N-104, N-10120, N-10111*
+*Related: C-790, N-104, N-10120, N-10111*
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Confidence: medium
 
 **A-1156.2** Video of Crooks practicing firing weapon in bedroom (no bullets, blurred)
 Video Timestamp: 00:22:45–00:23:18
-*Related: C-1271, N-104*
+*Related: C-791, N-104*
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Confidence: high
 
 **A-1156.3** YouTube comments by Crooks: violent rhetoric about socialists, Democrats
 Video Timestamp: 00:23:37–00:24:29
-*Related: C-1272, N-104, N-10120*
+*Related: C-792, N-104, N-10120*
 Transcript Snippet: Lining up a bunch of socialist Jews…blasting their useless brains out with an AR.
 Confidence: high
 
 **A-1156.4** Crooks Google search history: mass shooting research, molotov cocktails, fertilizer bomb
 Video Timestamp: 00:24:53–00:25:45
-*Related: C-1273, N-104, N-10111*
+*Related: C-795, N-104, N-10111*
 Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Confidence: high
 
@@ -78,7 +77,7 @@ Confidence: high
 
 **A-1157.1** Megyn Kelly clip reporting Jezebel mission to curse Charlie Kirk via Etsy witch services
 Video Timestamp: 00:34:05–00:35:43
-*Related: C-1274, N-2, N-46, N-10122, N-10123, N-10117*
+*Related: C-810, N-2, N-46, N-10122, N-10123, N-10117*
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Confidence: high
 
@@ -88,7 +87,7 @@ Confidence: high
 
 **A-1158.1** Jimmy Kimmel monologue thanking right-wing free-speech defenders including Candace Owens
 Video Timestamp: 00:31:04–00:32:56
-*Related: C-1275, N-3, N-87, N-106, N-97, N-107, N-108, N-109, N-10119*
+*Related: C-806, N-3, N-87, N-106, N-97, N-107, N-108, N-109, N-10119*
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Confidence: high
 
@@ -98,7 +97,7 @@ Confidence: high
 
 **A-1159.1** Riverbend Ranch audio tribute honoring Charlie Kirk
 Video Timestamp: 00:27:59–00:28:39
-*Related: C-1276, N-10124*
+*Related: C-800, N-10124*
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Confidence: high
 
@@ -108,7 +107,7 @@ Confidence: high
 
 **A-1160.1** Sept 9 book club recording of Candace committing to homeschooling children
 Video Timestamp: 00:15:00–00:17:11
-*Related: C-1277, N-3, N-10113*
+*Related: C-771, N-3, N-10113*
 Transcript Snippet: I'm homeschooling my kids. I'm so excited…a weight got lift off of my shoulders.
 Confidence: high
 
@@ -118,7 +117,7 @@ Confidence: high
 
 **A-1161.1** Natalie comment read on-air: neighbor's daughter has Tyler Robinson video showing a woman with him
 Video Timestamp: 00:43:41–00:44:23
-*Related: C-1278, N-40, N-114, N-10110*
+*Related: C-829, N-40, N-114, N-10110*
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Confidence: low
 
@@ -128,19 +127,19 @@ Confidence: low
 
 **A-2519.1** Host reference to Corey Comperatore's death at the Butler rally (verbal reference; no displayed artifact)
 Video Timestamp: 00:20:33–00:20:55
-*Related: C-3728, N-5, N-105*
+*Related: C-784, N-5, N-105*
 Transcript Snippet: A 50-year-old firefighter named Corey Comperatore lost his life um trying to save his children.
 Confidence: medium
 
 **A-2519.2** Host reference to C.S. Lewis on scientism (verbal reference; no displayed artifact)
 Video Timestamp: 00:37:04–00:37:13
-*Related: C-3729, N-112*
+*Related: C-815, N-112*
 Transcript Snippet: Like we are now in this culture of what CS Lewis refers to as scientism.
 Confidence: medium
 
 **A-2519.3** Viewer comment from Recovery Recon read on air (verbal reference; no displayed artifact)
 Video Timestamp: 00:44:43–00:44:59
-*Related: C-3730, N-1*
+*Related: C-832, N-1*
 Transcript Snippet: Is it not weird that within minutes the FBI posted pics of the ammo
 Confidence: medium
 
@@ -155,7 +154,7 @@ Video Timestamp: 00:08:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13669, C-13670, N-3, N-1, N-10106*
+*Related: C-758, C-759, N-3, N-1, N-10106*
 
 ---
 
@@ -170,7 +169,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13726, N-3, N-114*
+*Related: C-830, N-3, N-114*
 
 ---
 
@@ -185,7 +184,7 @@ Video Timestamp: 00:41:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13722, N-3, N-10114*
+*Related: C-825, N-3, N-10114*
 
 **A-3274.2** Comment read on air from viewer Lighthouse saying some feel Erika is faking her emotions (read aloud; not shown)
 
@@ -196,7 +195,7 @@ Video Timestamp: 00:42:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13723, N-2, N-3*
+*Related: C-826, N-2, N-3*
 
 **A-3274.3** Follow-up comment from Warwick Spiller read on air that the beehive represents a group working together for Christ
 
@@ -207,7 +206,7 @@ Video Timestamp: 00:43:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-13724, N-3, N-10114*
+*Related: C-827, N-3, N-10114*
 
 ---
 
@@ -220,7 +219,7 @@ Video Timestamp: 00:28:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13702, C-13703, C-13704, N-3, N-11369*
+*Related: C-802, C-803, C-804, N-3, N-11369*
 
 **A-3275.2** Host verbal sponsor read for Home Title Lock (not shown)
 
@@ -229,7 +228,7 @@ Video Timestamp: 00:38:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13715, C-13716, N-3, N-11370*
+*Related: C-818, C-819, N-3, N-11370*
 
 **A-3275.3** Host verbal sponsor read for a home-equity mortgage lender (lender not named in the transcript)
 
@@ -238,7 +237,7 @@ Video Timestamp: 00:40:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13717, N-3*
+*Related: C-820, N-3*
 
 ---
 
@@ -249,7 +248,7 @@ Confidence Level: Low
 Node Type: Person
 Deceased subject of assassination case; founder of Turning Point.
 
-*Related: A-1155.1, A-1159.1, C-1267, C-1276*
+*Related: A-1155.1, A-1159.1, C-762, C-800*
 
 ---
 
@@ -258,7 +257,7 @@ Deceased subject of assassination case; founder of Turning Point.
 Node Type: Person
 Host; presenter of investigative claims.
 
-*Related: A-1155.1, A-1155.2, A-1158.1, A-1160.1, C-1267, C-1268, C-1269, C-1275, C-1277*
+*Related: A-1155.1, A-1155.2, A-1158.1, A-1160.1, C-762, C-760, C-768, C-806, C-771*
 
 ---
 
@@ -267,7 +266,7 @@ Host; presenter of investigative claims.
 Node Type: Person
 July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.
 
-*Related: A-1156.1, A-1156.2, A-1156.3, A-1156.4, C-1270, C-1271, C-1272, C-1273*
+*Related: A-1156.1, A-1156.2, A-1156.3, A-1156.4, C-790, C-791, C-792, C-795*
 
 ---
 
@@ -276,7 +275,7 @@ July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc
 Node Type: Person
 Defendant in Charlie Kirk case; per host, no video of firing, no confession, fragmented bullet.
 
-*Related: A-1161.1, C-1278, C-1280, C-1281, C-1282, C-1283, C-1284*
+*Related: A-1161.1, C-829, C-745, C-751, C-749, C-756, C-747*
 
 ---
 
@@ -285,7 +284,7 @@ Defendant in Charlie Kirk case; per host, no video of firing, no confession, fra
 Node Type: Person
 Charlie's widow; reported by Megyn Kelly to have sought Catholic priest over Jezebel hex.
 
-*Related: A-1157.1, C-1274*
+*Related: A-1157.1, C-810*
 
 ---
 
@@ -294,7 +293,7 @@ Charlie's widow; reported by Megyn Kelly to have sought Catholic priest over Jez
 Node Type: Person
 Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 
-*Related: A-1155.1, C-1267*
+*Related: A-1155.1, C-762*
 
 
 
@@ -305,7 +304,7 @@ Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 Node Type: Person
 Firefighter killed shielding family at July 13, 2024 Trump rally.
 
-*Related: A-2519.1, C-3728*
+*Related: A-2519.1, C-784*
 
 
 
@@ -316,7 +315,7 @@ Firefighter killed shielding family at July 13, 2024 Trump rally.
 Node Type: Person
 Host of segment on Jezebel/Etsy hex against Charlie Kirk.
 
-*Related: A-1157.1, C-1274*
+*Related: A-1157.1, C-810*
 
 ---
 
@@ -325,7 +324,7 @@ Host of segment on Jezebel/Etsy hex against Charlie Kirk.
 Node Type: Person
 Late-night host; monologue thanking right-wing free-speech defenders.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -334,7 +333,7 @@ Late-night host; monologue thanking right-wing free-speech defenders.
 Node Type: Person
 Cited by Kimmel for free-speech defense.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -343,7 +342,7 @@ Cited by Kimmel for free-speech defense.
 Node Type: Person
 Cited by Kimmel.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -352,7 +351,7 @@ Cited by Kimmel.
 Node Type: Person
 Cited by Kimmel.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -361,7 +360,7 @@ Cited by Kimmel.
 Node Type: Person
 Cited by Kimmel.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -370,7 +369,7 @@ Cited by Kimmel.
 Node Type: Person
 Cited by Kimmel.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -379,7 +378,7 @@ Cited by Kimmel.
 Node Type: Person
 Author of 'Inside the American Education System' recommended by host.
 
-*Related: C-1277*
+*Related: C-771*
 
 
 
@@ -390,7 +389,7 @@ Author of 'Inside the American Education System' recommended by host.
 Node Type: Person
 Credited by host with establishing kindergarten in US (1848 communists).
 
-*Related: C-1277*
+*Related: C-771*
 
 
 
@@ -401,7 +400,7 @@ Credited by host with establishing kindergarten in US (1848 communists).
 Node Type: Person
 Referenced in book-club discussion of psychoanalytic community origins.
 
-*Related: A-1155.1, C-1267*
+*Related: A-1155.1, C-762*
 
 
 
@@ -412,7 +411,7 @@ Referenced in book-club discussion of psychoanalytic community origins.
 Node Type: Person
 Referenced for concept of 'scientism'.
 
-*Related: A-2519.2, C-3729*
+*Related: A-2519.2, C-815*
 
 
 
@@ -423,7 +422,7 @@ Referenced for concept of 'scientism'.
 Node Type: Person
 Unnamed spouse; met via UK trip 18 days before engagement.
 
-*Related: A-1155.1, A-1155.2, C-1268, C-1269, C-1267*
+*Related: A-1155.1, A-1155.2, C-760, C-768, C-762*
 
 ---
 
@@ -432,7 +431,7 @@ Unnamed spouse; met via UK trip 18 days before engagement.
 Node Type: Person
 First in family to homeschool; recipient of bee-warning text.
 
-*Related: A-1155.2, C-1269*
+*Related: A-1155.2, C-768*
 
 ---
 
@@ -441,7 +440,7 @@ First in family to homeschool; recipient of bee-warning text.
 Node Type: Person
 Producer who corrects promo code on-air (Blackout15).
 
-*Related: A-1155.1, C-1267*
+*Related: A-1155.1, C-762*
 
 
 
@@ -452,7 +451,7 @@ Producer who corrects promo code on-air (Blackout15).
 Node Type: Person
 Listener who tipped unverified video of Tyler Robinson with a woman.
 
-*Related: A-1161.1, C-1278*
+*Related: A-1161.1, C-829*
 
 ---
 
@@ -462,7 +461,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Host claims FBI pressuring Utah authorities to rule lone-gunman.
 
-*Related: C-1279*
+*Related: C-743*
 
 ---
 
@@ -472,7 +471,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Host's source: no roof video, fragmented bullet, no confession, gun-arrival unrecorded.
 
-*Related: A-1161.1, C-1278, C-1280, C-1281, C-1282, C-1283*
+*Related: A-1161.1, C-829, C-745, C-751, C-749, C-756*
 
 ---
 
@@ -482,7 +481,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Was Crooks known to feds pre-attempt given extensive violent online history?
 
-*Related: A-1156.1, A-1156.2, A-1156.3, A-1156.4, C-1270, C-1273*
+*Related: A-1156.1, A-1156.2, A-1156.3, A-1156.4, C-790, C-795*
 
 ---
 
@@ -502,7 +501,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Candace's Aug 30–Sep 2 premonition of school-linked 'bee' underground.
 
-*Related: A-1155.2, A-1160.1, C-1269, C-1277*
+*Related: A-1155.2, A-1160.1, C-768, C-771*
 
 ---
 
@@ -532,7 +531,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host asserts MK Ultra never discontinued and feeds lone-shooter candidates.
 
-*Related: C-1285*
+*Related: C-798*
 
 ---
 
@@ -542,7 +541,7 @@ Node Type: Topic
 Topic Kind: verification_thread
 Alleged curse placed via Etsy witches; Kirk family consulted Catholic priest.
 
-*Related: A-1157.1, C-1274*
+*Related: A-1157.1, C-810*
 
 ---
 
@@ -552,7 +551,7 @@ Node Type: Topic
 Topic Kind: biographical
 18-day engagement after UK trip she felt compelled to take with Charlie.
 
-*Related: A-1155.1, C-1268*
+*Related: A-1155.1, C-760*
 
 ---
 
@@ -562,7 +561,7 @@ Node Type: Topic
 Topic Kind: event
 Kimmel thanks right-wing voices; Candace opposes gov't speech overreach.
 
-*Related: A-1158.1, C-1275*
+*Related: A-1158.1, C-806*
 
 ---
 
@@ -572,7 +571,7 @@ Node Type: Topic
 Topic Kind: narrative_pattern
 Host documents Crooks' shift from pro-Trump to anti-Trump around 2020.
 
-*Related: A-1156.1, A-1156.3, C-1272, C-1270*
+*Related: A-1156.1, A-1156.3, C-792, C-790*
 
 ---
 
@@ -582,7 +581,7 @@ Node Type: Topic
 Topic Kind: discrepancy
 Host: eyewitness told her shooter was in tactical gear, gun mismatched.
 
-*Related: C-1284*
+*Related: C-747*
 
 ---
 
@@ -592,7 +591,7 @@ Node Type: Organization
 Organization Kind: program_or_initiative
 CIA program (1950s-60s); host asserts it was never discontinued.
 
-*Related: C-1285*
+*Related: C-798*
 
 ---
 
@@ -606,7 +605,7 @@ Node Type: Organization
 Organization Kind: media
 Far-left website that declared mission to curse Charlie Kirk.
 
-*Related: C-1274*
+*Related: C-810*
 
 ---
 
@@ -616,7 +615,7 @@ Node Type: Organization
 Organization Kind: company
 Host cites platform offering witch-hex services used by Jezebel.
 
-*Related: C-1274*
+*Related: C-810*
 
 ---
 
@@ -626,7 +625,7 @@ Node Type: Organization
 Organization Kind: educational_institution
 Site of Charlie Kirk assassination, Sept 10, 2025.
 
-*Related: C-1282*
+*Related: C-749*
 
 ---
 
@@ -636,7 +635,7 @@ Node Type: Organization
 Organization Kind: company
 Sponsor; produced audio tribute to Charlie Kirk.
 
-*Related: C-1276*
+*Related: C-800*
 
 ---
 
@@ -670,7 +669,7 @@ Node Type: Place
 Place Kind: country
 Source of communist underground symbol found online by Candace.
 
-*Related: C-1277*
+*Related: C-771*
 
 ---
 
@@ -688,7 +687,7 @@ Host cites 1848 communist uprising; kindergarten-establishment origin.
 
 The host recaps Ackman putting up a million dollars in the sequence leading to Robinson's surrender.
 
-*Related: C-13665*
+*Related: C-753*
 
 ---
 
@@ -696,7 +695,7 @@ The host recaps Ackman putting up a million dollars in the sequence leading to R
 
 Organization Charlie Kirk wanted to take global; the UK trip helped Turning Point UK get set up.
 
-*Related: C-13672*
+*Related: C-763*
 
 ---
 
@@ -704,7 +703,7 @@ Organization Charlie Kirk wanted to take global; the UK trip helped Turning Poin
 
 FBI; the host's source says it is pressuring Utah to close the Kirk case, and she says the feds are obscuring.
 
-*Related: C-13660, C-13666, C-13700, C-13715*
+*Related: C-744, C-754, C-799, C-818*
 
 ---
 
@@ -712,7 +711,7 @@ FBI; the host's source says it is pressuring Utah to close the Kirk case, and sh
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13664, C-13665*
+*Related: C-752, C-753*
 
 ---
 
@@ -720,7 +719,7 @@ Existing topic reused for new claims in this episode.
 
 Existing topic reused for new claims in this episode.
 
-*Related: C-13665*
+*Related: C-753*
 
 ---
 
@@ -728,7 +727,7 @@ Existing topic reused for new claims in this episode.
 
 Existing organization reused; the host says the only video released is the Caldera Engineering video (transcribed as Calderira).
 
-*Related: C-13727*
+*Related: C-831*
 
 ---
 
@@ -736,7 +735,7 @@ Existing organization reused; the host says the only video released is the Calde
 
 Existing topic reused; the host recalls Charlie's clip about being morally blackmailed.
 
-*Related: C-13669*
+*Related: C-758*
 
 ---
 
@@ -744,7 +743,7 @@ Existing topic reused; the host recalls Charlie's clip about being morally black
 
 Existing topic reused; the host says the public was told Iran was behind the Butler attempt.
 
-*Related: C-13691*
+*Related: C-785*
 
 ---
 
@@ -753,7 +752,7 @@ Existing topic reused; the host says the public was told Iran was behind the But
 Node Type: Organization
 Sponsor whose contagion emergency kit and flu-shot claims the host reads on air.
 
-*Related: C-13702, C-13703, C-13704*
+*Related: C-802, C-803, C-804*
 
 ---
 
@@ -762,13 +761,13 @@ Sponsor whose contagion emergency kit and flu-shot claims the host reads on air.
 Node Type: Organization
 Sponsor whose title-monitoring service the host reads on air alongside an FBI title-theft warning.
 
-*Related: C-13715, C-13716*
+*Related: C-818, C-819*
 
 ---
 
 ## 5. Claim Register
 
-**C-1267** Candace-Charlie text exchange re: UK flights
+**C-762** Candace-Charlie text exchange re: UK flights
 
 Claim Timestamp: 00:10:23
 Claim: Per the old text message chain the host shows, she told Charlie the UK flights were $450 in coach or $1,200 in first class, and he replied, 'Wow, let's book it.'
@@ -780,7 +779,7 @@ Investigative Direction: Verify text chain authenticity and timestamp; cross-che
 
 ---
 
-**C-1268** UK trip led to meeting husband within 18 days
+**C-760** UK trip led to meeting husband within 18 days
 
 Claim Timestamp: 00:09:13
 Claim: Candace met her husband for the first time during the UK trip and they were engaged 18 days later.
@@ -793,7 +792,7 @@ Investigative Direction: Corroborate via marriage records, flight manifests, and
 
 ---
 
-**C-1269** Bee-code school danger premonition texts (Aug 30–Sep 2)
+**C-768** Bee-code school danger premonition texts (Aug 30–Sep 2)
 
 Claim Timestamp: 00:14:06
 Claim: The host says she texted her husband and sister (Aug 30–Sep 2) that imminent danger was coming, relating to a school and a 'communist underground' that had 'something to do with bees', after seeing people online talk about bees in a way that seemed coded.
@@ -806,7 +805,7 @@ Investigative Direction: Verify timestamps against phone records; preserve scree
 
 ---
 
-**C-1285** Host asserts MK Ultra program never discontinued
+**C-798** Host asserts MK Ultra program never discontinued
 
 Claim Timestamp: 00:26:59
 Claim: The host says she suspects the lone-shooter cases are a program giving her the same 'ick' as MK Ultra, that she has no reason to believe that program was ever discontinued, and that she believes they find these candidates in schools.
@@ -820,7 +819,7 @@ Investigative Direction: Treat as host hypothesis; separate documented MK Ultra 
 Tags: open_source_investigation
 ---
 
-**C-1270** Existence of 80-page Crooks online-history document
+**C-790** Existence of 80-page Crooks online-history document
 
 Claim Timestamp: 00:22:24
 Claim: The host says she has an 80-page document, scraped before the feds removed it, of all the accounts Thomas Crooks made and the statements he made, which she may post on her website after handing it to legal.
@@ -833,7 +832,7 @@ Investigative Direction: Obtain full document; forensically authenticate scrape 
 
 ---
 
-**C-1271** Crooks posted bedroom firing-practice videos
+**C-791** Crooks posted bedroom firing-practice videos
 
 Claim Timestamp: 00:22:45
 Claim: The host says Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon with no bullets in his bedroom, and shows one that was scraped.
@@ -846,7 +845,7 @@ Investigative Direction: Confirm via original-platform uploads and metadata.
 Tags: open_source_investigation
 ---
 
-**C-1272** Crooks posted violent YouTube comments
+**C-792** Crooks posted violent YouTube comments
 
 Claim Timestamp: 00:23:37
 Claim: Per comments the host shows from the scraped record, Crooks wrote on one video about 'lining up a bunch of socialist Jews... and blasting their useless brains out with an AR', and on a YouTube video that every Trump-hating Democrat 'deserves to have their heads chopped off and put on stakes'.
@@ -859,7 +858,7 @@ Investigative Direction: Recover original YouTube comments and timestamps via sc
 
 ---
 
-**C-1273** Host Shows Document of Crooks' Mass-Attack Google Searches
+**C-795** Host Shows Document of Crooks' Mass-Attack Google Searches
 
 Claim Timestamp: 00:24:53
 Claim: Per a search-history document the host shows, Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.
@@ -872,7 +871,7 @@ Investigative Direction: Obtain original search-history logs or corroborating sc
 
 ---
 
-**C-1274** Megyn Kelly: Jezebel/Etsy curse on Kirk
+**C-810** Megyn Kelly: Jezebel/Etsy curse on Kirk
 
 Claim Timestamp: 00:34:05
 Claim: In a clip the host plays, Megyn Kelly says Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the host says the Kirks consulted a Catholic priest.
@@ -885,7 +884,7 @@ Investigative Direction: Recover Jezebel article and Etsy listings; verify pries
 
 ---
 
-**C-1275** Kimmel thanked right-wing free-speech defenders
+**C-806** Kimmel thanked right-wing free-speech defenders
 
 Claim Timestamp: 00:31:04
 Claim: Jimmy Kimmel's monologue thanked conservatives including Candace Owens, Ted Cruz, Ben Shapiro, Rand Paul, Mitch McConnell, and Clay Travis for defending free speech.
@@ -898,7 +897,7 @@ Investigative Direction: Verify exact quote against full Kimmel monologue transc
 
 ---
 
-**C-1276** Riverbend Ranch tribute audio aired
+**C-800** Riverbend Ranch tribute audio aired
 
 Claim Timestamp: 00:27:59
 Claim: In a sponsor tribute audio the host plays, Riverbend Ranch honors Charlie Kirk's life and principles; the host says Riverbend Ranch put the tribute together.
@@ -911,7 +910,7 @@ Investigative Direction: Confirm authenticity and release date via Riverbend Ran
 
 ---
 
-**C-1277** Book club: Candace committed to homeschooling
+**C-771** Book club: Candace committed to homeschooling
 
 Claim Timestamp: 00:15:00
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
@@ -924,7 +923,7 @@ Investigative Direction: Verify date and obtain full recording.
 
 ---
 
-**C-1278** Natalie tip: Tyler Robinson seen with a woman
+**C-829** Natalie tip: Tyler Robinson seen with a woman
 
 Claim Timestamp: 00:43:41
 Claim: Listener Natalie reported that a video of Tyler Robinson walking in a neighborhood also shows him changing clothes and accompanied by a woman.
@@ -938,7 +937,7 @@ Investigative Direction: Obtain original video from Natalie; verify identity of 
 Tags: calls_for_tips
 ---
 
-**C-1279** FBI pressuring Utah to close Kirk case
+**C-743** FBI pressuring Utah to close Kirk case
 
 Claim Timestamp: 00:01:42
 Claim: Host claims a well-placed source says the FBI is pressuring Utah authorities to declare the Charlie Kirk case closed as a lone-gunman act.
@@ -951,7 +950,7 @@ Investigative Direction: Identify and corroborate the source; FOIA communication
 
 ---
 
-**C-1280** No video shows Tyler Robinson firing weapon
+**C-745** No video shows Tyler Robinson firing weapon
 
 Claim Timestamp: 00:03:01
 Claim: Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.
@@ -964,7 +963,7 @@ Investigative Direction: Confirm via court filings, prosecution discovery, and p
 
 ---
 
-**C-1281** Bullet too fragmented to match Tyler's rifle
+**C-751** Bullet too fragmented to match Tyler's rifle
 
 Claim Timestamp: 00:05:30
 Claim: Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.
@@ -977,7 +976,7 @@ Investigative Direction: Obtain forensic ballistics report from court filings.
 
 ---
 
-**C-1282** FBI lacks footage of rifle reaching the roof
+**C-749** FBI lacks footage of rifle reaching the roof
 
 Claim Timestamp: 00:04:40
 Claim: Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.
@@ -990,7 +989,7 @@ Investigative Direction: Verify against indictment and discovery materials.
 
 ---
 
-**C-1283** Multiple sets of prints on Robinson rifle
+**C-756** Multiple sets of prints on Robinson rifle
 
 Claim Timestamp: 00:07:58
 Claim: Host's source says prints other than Tyler Robinson's were also on the rifle.
@@ -1003,7 +1002,7 @@ Investigative Direction: Obtain forensic print report from court filings.
 
 ---
 
-**C-1284** Eyewitness: shooter in tactical gear, gun mismatch
+**C-747** Eyewitness: shooter in tactical gear, gun mismatch
 
 Claim Timestamp: 00:03:46
 Claim: The host says the eyewitness who filmed the rooftop shooter told her the figure wore tactical gear and the gun did not match what he observed.
@@ -1016,7 +1015,7 @@ Investigative Direction: Identify and interview the eyewitness; obtain his foota
 
 ---
 
-**C-3728** Corey Comperatore killed at the Butler rally
+**C-784** Corey Comperatore killed at the Butler rally
 
 Claim Timestamp: 00:20:44
 Claim: Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: "Corey Comperatore") lost his life trying to save his children and that the public was told virtually nothing afterward.
@@ -1028,7 +1027,7 @@ Investigative Direction: Compare official Butler investigation disclosures with 
 
 ---
 
-**C-3729** Host invokes C.S. Lewis on scientism
+**C-815** Host invokes C.S. Lewis on scientism
 
 Claim Timestamp: 00:37:04
 Claim: The host says the culture is in what C.S. Lewis called scientism, where anything labeled science is not questioned, and argues spiritual forces are at work.
@@ -1040,7 +1039,7 @@ Investigative Direction: None; rhetorical framing.
 
 ---
 
-**C-3730** Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case
+**C-832** Viewer Recovery Recon contrasts FBI speed in Dallas with the Kirk case
 
 Claim Timestamp: 00:44:43
 Claim: Viewer Recovery Recon, in a comment read on air, contrasts the FBI quickly posting ammunition and window photos after the Dallas ICE facility shooting with nothing comparable released for Charlie.
@@ -1052,7 +1051,7 @@ Investigative Direction: Compare FBI evidence releases in the Dallas ICE facilit
 
 ---
 
-**C-13659** Host Says Overwhelming Sense of Doom Came 10 Days Before the Assassination
+**C-742** Host Says Overwhelming Sense of Doom Came 10 Days Before the Assassination
 
 Claim Timestamp: 00:00:19
 
@@ -1068,7 +1067,7 @@ Investigative Direction: Compare against the host's dated text messages (A-1155.
 
 ---
 
-**C-13660** Host Says FBI Warns Utah That Not Closing the Case Could Harm the Robinson Prosecution
+**C-744** Host Says FBI Warns Utah That Not Closing the Case Could Harm the Robinson Prosecution
 
 Claim Timestamp: 00:02:39
 
@@ -1079,13 +1078,13 @@ Transcript Snippet: then it might mess up our prosecution against Tyler Robinson
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10014, N-10109
-Supports: C-1279
+Supports: C-743
 Tags: relevance:core
 Investigative Direction: Identify the host's source and request FBI and Utah County Attorney communications about case closure (GRAMA or FOIA) to confirm or refute the stated rationale.
 
 ---
 
-**C-13661** Host Says the Roof Video Filmer Does Not Think Robinson Is the Shooter
+**C-746** Host Says the Roof Video Filmer Does Not Think Robinson Is the Shooter
 
 Claim Timestamp: 00:03:28
 
@@ -1101,7 +1100,7 @@ Investigative Direction: Identify and interview the roof-video filmer (the host 
 
 ---
 
-**C-13662** Host Says the Eyewitness Has Gun Experience and Teaches Firing
+**C-748** Host Says the Eyewitness Has Gun Experience and Teaches Firing
 
 Claim Timestamp: 00:04:11
 
@@ -1117,7 +1116,7 @@ Investigative Direction: Verify the witness's firearms background through the ho
 
 ---
 
-**C-13663** Host Says the Indictment Has Robinson Dropping Onto the Roof at 12:15 PM
+**C-750** Host Says the Indictment Has Robinson Dropping Onto the Roof at 12:15 PM
 
 Claim Timestamp: 00:04:57
 
@@ -1128,13 +1127,13 @@ Transcript Snippet: in the indictment, he dropped onto the roof at 12:15 p. m. T
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10110
-Supports: C-1147
+Supports: C-166
 Tags: relevance:core
 Investigative Direction: Read the Utah charging documents and probable-cause statement for the stated roof-drop time and its source.
 
 ---
 
-**C-13664** Host Says Robinson Has Not Confessed
+**C-752** Host Says Robinson Has Not Confessed
 
 Claim Timestamp: 00:05:42
 
@@ -1145,13 +1144,13 @@ Transcript Snippet: And let us not forget that Tyler himself has not confessed t
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10021
-Supports: C-1142
+Supports: C-133
 Tags: relevance:core
 Investigative Direction: Check the court docket and defense filings for any statement or confession attributed to Robinson.
 
 ---
 
-**C-13665** Host Recaps Ackman Million-Dollar Reward and Father-and-Sheriff Turn-In
+**C-753** Host Recaps Ackman Million-Dollar Reward and Father-and-Sheriff Turn-In
 
 Claim Timestamp: 00:05:49
 
@@ -1167,7 +1166,7 @@ Investigative Direction: Obtain the reward announcement, the sheriff's and Gover
 
 ---
 
-**C-13666** Host Says the Feds Know What Happened and May Have Had Foreknowledge
+**C-754** Host Says the Feds Know What Happened and May Have Had Foreknowledge
 
 Claim Timestamp: 00:06:40
 
@@ -1183,7 +1182,7 @@ Investigative Direction: Treat as the host's inference; any support would have t
 
 ---
 
-**C-13667** Host Says Prosecutors Have Nothing but Prints and Not Only Robinson's
+**C-755** Host Says Prosecutors Have Nothing but Prints and Not Only Robinson's
 
 Claim Timestamp: 00:07:53
 
@@ -1194,13 +1193,13 @@ Transcript Snippet: Feds. Kind of feeling like Tyler's going to get off because 
 Anchored Artifacts: 
 Mentions: N-3, N-40
 Related Nodes: N-10110
-Supports: C-1283
+Supports: C-756
 Tags: relevance:core
 Investigative Direction: Obtain the forensic print report in discovery or court filings and the count of unidentified latent prints.
 
 ---
 
-**C-13668** Host Relays Ground-Level Belief That Robinson Only Dropped Off the Gun at a Neighboring House
+**C-757** Host Relays Ground-Level Belief That Robinson Only Dropped Off the Gun at a Neighboring House
 
 Claim Timestamp: 00:08:09
 
@@ -1216,7 +1215,7 @@ Investigative Direction: Identify the unnamed ground-level sources; canvass the 
 
 ---
 
-**C-13669** Host Says Yesterday's Clip Had Charlie Describing Being Morally Blackmailed Over Their Friendship
+**C-758** Host Says Yesterday's Clip Had Charlie Describing Being Morally Blackmailed Over Their Friendship
 
 Claim Timestamp: 00:08:40
 
@@ -1227,13 +1226,13 @@ Transcript Snippet: We had showed you a clip of Charlie discussing our friendshi
 Anchored Artifacts: A-3272.1
 Mentions: N-3, N-1
 Related Nodes: N-10106
-Supports: C-1258
+Supports: C-715
 Tags: relevance:core
 Investigative Direction: Locate the clip aired in the previous episode and its original source and date; ask who pressured Kirk over the friendship.
 
 ---
 
-**C-13670** Host Says Charlie Was There When She Met Her Husband
+**C-759** Host Says Charlie Was There When She Met Her Husband
 
 Claim Timestamp: 00:08:46
 
@@ -1243,13 +1242,13 @@ Transcript Snippet: And in that same clip, he mentions a very fond memory that I
 
 Anchored Artifacts: A-3272.1
 Mentions: N-3, N-1
-Supports: C-1268
+Supports: C-760
 Tags: relevance:tangential
 Investigative Direction: Personal biography; the clip itself is the only check.
 
 ---
 
-**C-13671** Host Says She Used Charlie's Credit Card to Book the UK Flights
+**C-761** Host Says She Used Charlie's Credit Card to Book the UK Flights
 
 Claim Timestamp: 00:09:50
 
@@ -1259,13 +1258,13 @@ Transcript Snippet: I took Charlie Charlie Kirk's credit card and I was like, I'
 
 Anchored Artifacts: A-1155.1
 Mentions: N-3, N-1
-Supports: C-1267
+Supports: C-762
 Tags: relevance:tangential
 Investigative Direction: The booking confirmation and card statement for the UK flights would show who paid and when.
 
 ---
 
-**C-13672** Host Says the UK Trip Included a Speaking Event Helping Turning Point UK Get Set Up
+**C-763** Host Says the UK Trip Included a Speaking Event Helping Turning Point UK Get Set Up
 
 Claim Timestamp: 00:10:48
 
@@ -1281,7 +1280,7 @@ Investigative Direction: Find event listings or coverage of the Turning Point UK
 
 ---
 
-**C-13673** Host Says the Show Went Off Air for the First Days of September
+**C-764** Host Says the Show Went Off Air for the First Days of September
 
 Claim Timestamp: 00:11:05
 
@@ -1297,7 +1296,7 @@ Investigative Direction: Check the channel's upload record for the gap in late A
 
 ---
 
-**C-13674** Host Says an Elementary School Shooting at a Catholic School Prompted Her Alarm About Schools
+**C-765** Host Says an Elementary School Shooting at a Catholic School Prompted Her Alarm About Schools
 
 Claim Timestamp: 00:11:16
 
@@ -1313,7 +1312,7 @@ Investigative Direction: Identify which shooting the host means (the host does n
 
 ---
 
-**C-13675** Host Says Online Messages Near the Child's School Contained a Polish Communist Underground Symbol
+**C-766** Host Says Online Messages Near the Child's School Contained a Polish Communist Underground Symbol
 
 Claim Timestamp: 00:12:05
 
@@ -1329,7 +1328,7 @@ Investigative Direction: The host says she will show these messages; ask her to 
 
 ---
 
-**C-13676** Host Says She Found People Online Talking in Coded Terms About Bees
+**C-767** Host Says She Found People Online Talking in Coded Terms About Bees
 
 Claim Timestamp: 00:12:18
 
@@ -1340,13 +1339,13 @@ Transcript Snippet: I came across what looked to me like a bunch of people talki
 Anchored Artifacts: A-1155.2
 Mentions: N-3
 Related Nodes: N-10113
-Supports: C-1269
+Supports: C-768
 Tags: relevance:tangential
 Investigative Direction: Obtain the posts the host says she will show and identify the accounts and platform.
 
 ---
 
-**C-13677** Host Says She Hired More Security That Very Week
+**C-769** Host Says She Hired More Security That Very Week
 
 Claim Timestamp: 00:14:19
 
@@ -1362,7 +1361,7 @@ Investigative Direction: The security contractor's engagement date would confirm
 
 ---
 
-**C-13678** Host Says She Decided to Homeschool Immediately, Before the Assassination
+**C-770** Host Says She Decided to Homeschool Immediately, Before the Assassination
 
 Claim Timestamp: 00:14:23
 
@@ -1378,7 +1377,7 @@ Investigative Direction: Compare against her later statement (episode 8) that a 
 
 ---
 
-**C-13679** Host Says a School Told Her She Did Not Get to Ask How It Hires People
+**C-772** Host Says a School Told Her She Did Not Get to Ask How It Hires People
 
 Claim Timestamp: 00:16:08
 
@@ -1394,7 +1393,7 @@ Investigative Direction: The school is unnamed; the host would have to identify 
 
 ---
 
-**C-13680** Host Says She Sensed Instantly That a Hive of People Was Involved
+**C-773** Host Says She Sensed Instantly That a Hive of People Was Involved
 
 Claim Timestamp: 00:16:38
 
@@ -1410,7 +1409,7 @@ Investigative Direction: Treat as the host's intuition; identify what, if anythi
 
 ---
 
-**C-13681** Host Says Utah Modernized Its Hexagonal Beehive Flag in 2024
+**C-774** Host Says Utah Modernized Its Hexagonal Beehive Flag in 2024
 
 Claim Timestamp: 00:17:20
 
@@ -1426,7 +1425,7 @@ Investigative Direction: Check the Utah legislature and state records for the ad
 
 ---
 
-**C-13682** Host Says Utah Ranks 24th in Honey and Bee Products
+**C-775** Host Says Utah Ranks 24th in Honey and Bee Products
 
 Claim Timestamp: 00:17:32
 
@@ -1442,7 +1441,7 @@ Investigative Direction: Check USDA NASS honey production rankings for Utah.
 
 ---
 
-**C-13683** Host Says the Beehive Emblem Comes From Early Mormon Pioneers
+**C-776** Host Says the Beehive Emblem Comes From Early Mormon Pioneers
 
 Claim Timestamp: 00:17:43
 
@@ -1458,7 +1457,7 @@ Investigative Direction: Consult Utah State Historical Society records on the be
 
 ---
 
-**C-13684** Host Says the Worker-Bee Idea Is a Soviet Symbol Tied to Her Dread
+**C-777** Host Says the Worker-Bee Idea Is a Soviet Symbol Tied to Her Dread
 
 Claim Timestamp: 00:18:00
 
@@ -1474,7 +1473,7 @@ Investigative Direction: No sourcing offered; this is the host's symbolic readin
 
 ---
 
-**C-13685** Host Says the Public School System Is Shaped by Soviet Ideology
+**C-778** Host Says the Public School System Is Shaped by Soviet Ideology
 
 Claim Timestamp: 00:18:11
 
@@ -1490,7 +1489,7 @@ Investigative Direction: Historians of American education would be the check; th
 
 ---
 
-**C-13686** Host Recommends Thomas Sowell's Book on the American Education System
+**C-779** Host Recommends Thomas Sowell's Book on the American Education System
 
 Claim Timestamp: 00:18:16
 
@@ -1501,13 +1500,13 @@ Transcript Snippet: I tell people a must-read book is inside the American educat
 Anchored Artifacts: 
 Mentions: N-3, N-110
 Related Nodes: N-10115
-Supports: C-1277
+Supports: C-771
 Tags: relevance:tangential
 Investigative Direction: Confirm the title and author (Inside American Education by Thomas Sowell) and check what it says about Soviet influence, which the host links to it.
 
 ---
 
-**C-13687** Host Says Kindergarten Was Established by Failed 1848 German Revolutionaries
+**C-780** Host Says Kindergarten Was Established by Failed 1848 German Revolutionaries
 
 Claim Timestamp: 00:18:51
 
@@ -1523,7 +1522,7 @@ Investigative Direction: Check histories of the kindergarten movement (Froebel a
 
 ---
 
-**C-13688** Host Says the Same Reformers Pushed to Federalize Education and Discourage Homeschooling
+**C-781** Host Says the Same Reformers Pushed to Federalize Education and Discourage Homeschooling
 
 Claim Timestamp: 00:19:04
 
@@ -1539,7 +1538,7 @@ Investigative Direction: Review the history of compulsory-schooling laws and the
 
 ---
 
-**C-13689** Host Says Lone Shooters Are Being Programmed and Protected by the Government
+**C-782** Host Says Lone Shooters Are Being Programmed and Protected by the Government
 
 Claim Timestamp: 00:19:56
 
@@ -1550,13 +1549,13 @@ Transcript Snippet: I just feel it spiritually that these people are being progr
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10112, N-10116
-Supports: C-1285
+Supports: C-798
 Tags: relevance:context
 Investigative Direction: Host's speculation; any support would need records showing federal handling of the shooters she names.
 
 ---
 
-**C-13690** Host Says the Public Was Told Shooters Work Alone With No Online History
+**C-783** Host Says the Public Was Told Shooters Work Alone With No Online History
 
 Claim Timestamp: 00:20:18
 
@@ -1572,7 +1571,7 @@ Investigative Direction: Compare official FBI statements on Crooks's digital foo
 
 ---
 
-**C-13691** Host Says the Public Was Told Iran Was Behind the Trump Assassination Attempt
+**C-785** Host Says the Public Was Told Iran Was Behind the Trump Assassination Attempt
 
 Claim Timestamp: 00:20:55
 
@@ -1588,7 +1587,7 @@ Investigative Direction: Check what US officials actually said in July 2024 abou
 
 ---
 
-**C-13692** Host Says It Is Not a Lone Shooter in the Kirk Case but a Hive
+**C-786** Host Says It Is Not a Lone Shooter in the Kirk Case but a Hive
 
 Claim Timestamp: 00:21:12
 
@@ -1599,13 +1598,13 @@ Transcript Snippet: I have been obviously leading the forefront in investigating
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10112
-Supports: C-13680
+Supports: C-773
 Tags: relevance:core
 Investigative Direction: Evidence of more than one participant would be found in the investigative record; the host cites none here.
 
 ---
 
-**C-13693** Host Says a Source Scraped Everything on Crooks Before the Feds Removed It
+**C-787** Host Says a Source Scraped Everything on Crooks Before the Feds Removed It
 
 Claim Timestamp: 00:21:25
 
@@ -1616,13 +1615,13 @@ Transcript Snippet: they said look actually I had been able to scrape everything
 Anchored Artifacts: A-1156.1
 Mentions: N-3, N-104
 Related Nodes: N-10111
-Supports: C-1270
+Supports: C-790
 Tags: relevance:context
 Investigative Direction: Obtain the scrape with hashes and timestamps and compare it with archived copies of the accounts.
 
 ---
 
-**C-13694** Host Says Crooks Must Have Been on the Federal Radar
+**C-788** Host Says Crooks Must Have Been on the Federal Radar
 
 Claim Timestamp: 00:21:35
 
@@ -1638,7 +1637,7 @@ Investigative Direction: FBI or Secret Service referral records and platform rep
 
 ---
 
-**C-13695** Host Says Crooks Was on Both the Left and the Right and Traded Sides
+**C-789** Host Says Crooks Was on Both the Left and the Right and Traded Sides
 
 Claim Timestamp: 00:22:07
 
@@ -1654,7 +1653,7 @@ Investigative Direction: The account histories in the host's 80-page document wo
 
 ---
 
-**C-13696** Host Says Crooks Radically Changed Toward Trump Around 2020
+**C-793** Host Says Crooks Radically Changed Toward Trump Around 2020
 
 Claim Timestamp: 00:24:15
 
@@ -1665,13 +1664,13 @@ Transcript Snippet: Then he does a radical transformation around 2020.
 Anchored Artifacts: A-1156.3
 Mentions: N-3, N-104, N-5
 Related Nodes: N-10120
-Supports: C-13695
+Supports: C-789
 Tags: relevance:context
 Investigative Direction: Date-stamp his YouTube comments in the scraped document to verify the 2020 turn.
 
 ---
 
-**C-13697** Host Says Crooks's Turn Tied to Covid and Viewers Reported His Posts on YouTube
+**C-794** Host Says Crooks's Turn Tied to Covid and Viewers Reported His Posts on YouTube
 
 Claim Timestamp: 00:24:20
 
@@ -1682,13 +1681,13 @@ Transcript Snippet: Um, and this had something to do with co he got very angry a
 Anchored Artifacts: A-1156.3
 Mentions: N-3, N-104, N-5
 Related Nodes: N-10120
-Supports: C-13696
+Supports: C-793
 Tags: relevance:context
 Investigative Direction: Look for user reports or platform moderation records; the host offers only her recounting of the comments.
 
 ---
 
-**C-13698** Host Says the Public Will Never Be Told Which Therapists Crooks Saw
+**C-796** Host Says the Public Will Never Be Told Which Therapists Crooks Saw
 
 Claim Timestamp: 00:25:54
 
@@ -1704,7 +1703,7 @@ Investigative Direction: Medical-record privacy applies; congressional or FBI su
 
 ---
 
-**C-13699** Host Says Crooks Documented Wanting to Harm Politicians Across Left and Right for Years
+**C-797** Host Says Crooks Documented Wanting to Harm Politicians Across Left and Right for Years
 
 Claim Timestamp: 00:26:15
 
@@ -1715,13 +1714,13 @@ Transcript Snippet: Even though for years he was documenting wanting to harm pol
 Anchored Artifacts: A-1156.3
 Mentions: N-3, N-104
 Related Nodes: N-10111, N-10120
-Supports: C-1272
+Supports: C-792
 Tags: relevance:context
 Investigative Direction: Check the scraped history for dated posts naming targets across the spectrum.
 
 ---
 
-**C-13700** Host Says the Feds Are Using Journalists, Pressuring Officials and Lying About the Kirk Case
+**C-799** Host Says the Feds Are Using Journalists, Pressuring Officials and Lying About the Kirk Case
 
 Claim Timestamp: 00:27:22
 
@@ -1732,13 +1731,13 @@ Transcript Snippet: They are using journalists to obscure. They are putting pres
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10014, N-10109
-Supports: C-1279
+Supports: C-743
 Tags: relevance:core
 Investigative Direction: Name the journalists and the officials alleged to be pressured; request the relevant FBI communications.
 
 ---
 
-**C-13701** Host Says She Met the Riverbend Ranch Owner With Charlie Years Ago
+**C-801** Host Says She Met the Riverbend Ranch Owner With Charlie Years Ago
 
 Claim Timestamp: 00:28:35
 
@@ -1754,7 +1753,7 @@ Investigative Direction: Sponsor relationship; confirm through the company if ne
 
 ---
 
-**C-13702** Host Sponsor Read: Flu Shot Uptake at a Record Low
+**C-802** Host Sponsor Read: Flu Shot Uptake at a Record Low
 
 Claim Timestamp: 00:28:50
 
@@ -1770,7 +1769,7 @@ Investigative Direction: Check CDC flu vaccination coverage estimates by season.
 
 ---
 
-**C-13703** Host Sponsor Read: CDC Data Shows the Flu Shot Is Moderately Effective at Best
+**C-803** Host Sponsor Read: CDC Data Shows the Flu Shot Is Moderately Effective at Best
 
 Claim Timestamp: 00:28:56
 
@@ -1786,7 +1785,7 @@ Investigative Direction: Check CDC vaccine effectiveness estimates by season.
 
 ---
 
-**C-13704** Host Sponsor Read: Wellness Company Kit Contains Ivermectin, Hydroxychloroquine and a Z-Pack
+**C-804** Host Sponsor Read: Wellness Company Kit Contains Ivermectin, Hydroxychloroquine and a Z-Pack
 
 Claim Timestamp: 00:29:08
 
@@ -1802,7 +1801,7 @@ Investigative Direction: Check the product listing and prescribing arrangement o
 
 ---
 
-**C-13705** Host Says Kimmel Is Back on Air and Some on the Right Cheered His Cancellation
+**C-805** Host Says Kimmel Is Back on Air and Some on the Right Cheered His Cancellation
 
 Claim Timestamp: 00:30:12
 
@@ -1813,13 +1812,13 @@ Transcript Snippet: I was very shocked uh to see people uh on the right who were
 Anchored Artifacts: A-1158.1
 Mentions: N-3, N-87
 Related Nodes: N-10119
-Supports: C-1275
+Supports: C-806
 Tags: relevance:context
 Investigative Direction: Check ABC's announcement of the suspension and return dates.
 
 ---
 
-**C-13706** Clip: Cruz Says Government Banning Speech Would End Badly for Conservatives
+**C-807** Clip: Cruz Says Government Banning Speech Would End Badly for Conservatives
 
 Claim Timestamp: 00:31:33
 
@@ -1835,7 +1834,7 @@ Investigative Direction: Compare against Cruz's actual remarks on his podcast; t
 
 ---
 
-**C-13707** Host Says the Rulers Know Who They Worship and Worship Luciferianism
+**C-808** Host Says the Rulers Know Who They Worship and Worship Luciferianism
 
 Claim Timestamp: 00:33:29
 
@@ -1851,7 +1850,7 @@ Investigative Direction: Sweeping group claim with no named people or documents;
 
 ---
 
-**C-13708** Host Says She Wished Charlie Had Reached Out to Her About the Curse
+**C-809** Host Says She Wished Charlie Had Reached Out to Her About the Curse
 
 Claim Timestamp: 00:33:35
 
@@ -1862,13 +1861,13 @@ Transcript Snippet: And I honestly had wished that Charlie had reached out to me
 Anchored Artifacts: A-1157.1
 Mentions: N-3, N-1, N-2
 Related Nodes: N-10117
-Supports: C-1274
+Supports: C-810
 Tags: relevance:context
 Investigative Direction: Only the host and the Kirks can say whether contact was attempted; no document cited.
 
 ---
 
-**C-13709** Megyn Kelly Segment Quotes Jezebel Promising to Be the Hag of Charlie's Nightmares
+**C-811** Megyn Kelly Segment Quotes Jezebel Promising to Be the Hag of Charlie's Nightmares
 
 Claim Timestamp: 00:34:20
 
@@ -1879,13 +1878,13 @@ Transcript Snippet: Jezebel is more than happy to be the hag of his nightmares."
 Anchored Artifacts: A-1157.1
 Mentions: N-46, N-1
 Related Nodes: N-10122, N-10123, N-10117
-Supports: C-1274
+Supports: C-810
 Tags: relevance:context
 Investigative Direction: Retrieve the Jezebel post and any linked Etsy listing from August 2025 and check the date against two weeks before September 10.
 
 ---
 
-**C-13710** Kelly Says Charlie and Erika Asked a Friend to Come Pray Over Charlie the Night Before
+**C-812** Kelly Says Charlie and Erika Asked a Friend to Come Pray Over Charlie the Night Before
 
 Claim Timestamp: 00:35:02
 
@@ -1896,13 +1895,13 @@ Transcript Snippet: but definitely a friend, and asked him to come over and pray
 Anchored Artifacts: A-1157.1
 Mentions: N-46, N-1, N-2
 Related Nodes: N-10117
-Supports: C-1274
+Supports: C-810
 Tags: relevance:core
 Investigative Direction: Ask the Kirk family or the priest, and compare against the Sept 9 evening timeline in other episodes.
 
 ---
 
-**C-13711** Kelly Says Erika Told Her Weapons Will Form but Not Prosper
+**C-813** Kelly Says Erika Told Her Weapons Will Form but Not Prosper
 
 Claim Timestamp: 00:35:15
 
@@ -1918,7 +1917,7 @@ Investigative Direction: Kelly's own account of her conversation with Erika; com
 
 ---
 
-**C-13712** Host Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit
+**C-814** Host Says the Jezebel Writer Said She Only Wanted Him to Wake Up With an Inexplicable Zit
 
 Claim Timestamp: 00:35:57
 
@@ -1934,7 +1933,7 @@ Investigative Direction: Retrieve the Jezebel article text to verify the quoted 
 
 ---
 
-**C-13713** Host Says It Is Known That More Than One Person Was Behind Kirk's Assassination
+**C-816** Host Says It Is Known That More Than One Person Was Behind Kirk's Assassination
 
 Claim Timestamp: 00:37:40
 
@@ -1950,7 +1949,7 @@ Investigative Direction: Ask the host what record establishes more than one part
 
 ---
 
-**C-13714** Host Says Rereading The Assault on Truth Reminds Her of the Lies About Charlie Kirk
+**C-817** Host Says Rereading The Assault on Truth Reminds Her of the Lies About Charlie Kirk
 
 Claim Timestamp: 00:38:22
 
@@ -1965,7 +1964,7 @@ Investigative Direction: Opinion framed around a book; no document or person to 
 
 ---
 
-**C-13715** Host Sponsor Read: FBI Warns of Rising Title Theft
+**C-818** Host Sponsor Read: FBI Warns of Rising Title Theft
 
 Claim Timestamp: 00:38:40
 
@@ -1981,7 +1980,7 @@ Investigative Direction: Check the FBI and FTC public warnings on deed and title
 
 ---
 
-**C-13716** Host Sponsor Read: Home Title Lock Restoration Team Will Spend Up to $1 Million
+**C-819** Host Sponsor Read: Home Title Lock Restoration Team Will Spend Up to $1 Million
 
 Claim Timestamp: 00:39:31
 
@@ -1997,7 +1996,7 @@ Investigative Direction: Read the company's terms for the coverage limit.
 
 ---
 
-**C-13717** Host Sponsor Read: Mortgage Consultants Save Customers an Average of $800 a Month
+**C-820** Host Sponsor Read: Mortgage Consultants Save Customers an Average of $800 a Month
 
 Claim Timestamp: 00:40:18
 
@@ -2012,7 +2011,7 @@ Investigative Direction: The lender is not named in the transcript; identify it 
 
 ---
 
-**C-13718** Host Announces a Shot in the Dark Episode on Birth Control Including Nexplanon
+**C-821** Host Announces a Shot in the Dark Episode on Birth Control Including Nexplanon
 
 Claim Timestamp: 00:40:37
 
@@ -2022,13 +2021,13 @@ Transcript Snippet: Uh, we have another episode that's going up. We're going go 
 
 Anchored Artifacts: 
 Mentions: N-3
-Supports: C-12047
+Supports: C-723
 Tags: relevance:tangential
 Investigative Direction: Find the released episode and its cited sources on Nexplanon.
 
 ---
 
-**C-13719** Host Says Evil People Plan to Poison Us and Our Offspring
+**C-822** Host Says Evil People Plan to Poison Us and Our Offspring
 
 Claim Timestamp: 00:40:54
 
@@ -2043,7 +2042,7 @@ Investigative Direction: Sweeping assertion with no named people or documents.
 
 ---
 
-**C-13720** Host Says Her Spanish YouTube Channel Is Live
+**C-823** Host Says Her Spanish YouTube Channel Is Live
 
 Claim Timestamp: 00:41:12
 
@@ -2058,7 +2057,7 @@ Investigative Direction: Check the channel's creation date.
 
 ---
 
-**C-13721** Host Says Signed Copies of Blackout Are 15% Off on Her Website
+**C-824** Host Says Signed Copies of Blackout Are 15% Off on Her Website
 
 Claim Timestamp: 00:41:22
 
@@ -2073,7 +2072,7 @@ Investigative Direction: Check the store listing.
 
 ---
 
-**C-13722** Viewer Corrects the Church Name and the Host Accepts It Was a Genuine Mistake
+**C-825** Viewer Corrects the Church Name and the Host Accepts It Was a Genuine Mistake
 
 Claim Timestamp: 00:41:52
 
@@ -2084,13 +2083,13 @@ Transcript Snippet: Warwick Spiller writes, "The name of the Mormon church is th
 Anchored Artifacts: A-3274.1
 Mentions: N-3
 Related Nodes: N-10114
-Qualifies: C-13683
+Qualifies: C-776
 Tags: relevance:tangential
 Investigative Direction: Check the church's style guidance on its official name.
 
 ---
 
-**C-13723** Host Says She Has Seen Claims Erika Is Faking Emotion and Urges Graciousness
+**C-826** Host Says She Has Seen Claims Erika Is Faking Emotion and Urges Graciousness
 
 Claim Timestamp: 00:42:34
 
@@ -2105,7 +2104,7 @@ Investigative Direction: Opinion; compare with the host's other statements about
 
 ---
 
-**C-13724** Viewer Says the Beehive Represents a Group Working Together for Christ
+**C-827** Viewer Says the Beehive Represents a Group Working Together for Christ
 
 Claim Timestamp: 00:43:25
 
@@ -2116,13 +2115,13 @@ Transcript Snippet: Going back to the bee stuff, you said the beehive represents
 Anchored Artifacts: A-3274.3
 Mentions: N-3
 Related Nodes: N-10114
-Contradicts: C-13684
+Contradicts: C-777
 Tags: relevance:tangential
 Investigative Direction: Utah and church historical sources on the emblem's meaning.
 
 ---
 
-**C-13725** Viewer Says the Neighbor's Mother Sent Police the Video of Robinson Walking
+**C-828** Viewer Says the Neighbor's Mother Sent Police the Video of Robinson Walking
 
 Claim Timestamp: 00:43:31
 
@@ -2133,13 +2132,13 @@ Transcript Snippet: my sister's neighbor is the daughter of a lady who sent the 
 Anchored Artifacts: A-1161.1
 Mentions: N-40, N-114
 Related Nodes: N-10110
-Supports: C-1278
+Supports: C-829
 Tags: relevance:core
 Investigative Direction: Ask Natalie for the video; identify the filer and obtain the police intake record.
 
 ---
 
-**C-13726** Host Asks Viewer Natalie to Email the Video to the Tips Address
+**C-830** Host Asks Viewer Natalie to Email the Video to the Tips Address
 
 Claim Timestamp: 00:43:54
 
@@ -2150,13 +2149,13 @@ Transcript Snippet: Please send that to tips@cannis. com. Natalie, please. I am 
 Anchored Artifacts: A-3273.1
 Mentions: N-3, N-40, N-114
 Related Nodes: N-10110
-Supports: C-1278
+Supports: C-829
 Tags: relevance:core, calls_for_tips
 Investigative Direction: Verify the video if sent; the tips address is spelled as transcribed and corrects to the show's candaceowens.com tips address.
 
 ---
 
-**C-13727** Host Says Only the Caldera Engineering Video Has Been Released
+**C-831** Host Says Only the Caldera Engineering Video Has Been Released
 
 Claim Timestamp: 00:44:06
 
@@ -2172,7 +2171,7 @@ Investigative Direction: Compare with the full set of releases from Caldera Engi
 
 ---
 
-**C-13728** Host Says the Psychoanalytic Community Began by Gaslighting People Who Were Being Raped
+**C-833** Host Says the Psychoanalytic Community Began by Gaslighting People Who Were Being Raped
 
 Claim Timestamp: 00:45:25
 
@@ -2187,7 +2186,7 @@ Investigative Direction: Historical claim on Freud's abandonment of the seductio
 
 ---
 
-**C-13729** Host Says Dating for Three Years Is Ridiculous and Due to the Feminist Movement
+**C-834** Host Says Dating for Three Years Is Ridiculous and Due to the Feminist Movement
 
 Claim Timestamp: 00:47:05
 
@@ -2202,7 +2201,7 @@ Investigative Direction: Opinion about social trends; nothing to verify.
 
 ---
 
-**C-13730** Host Says Her Second Book Is Coming Out Later This Year
+**C-835** Host Says Her Second Book Is Coming Out Later This Year
 
 Claim Timestamp: 00:47:17
 
@@ -2332,16 +2331,16 @@ RoleLink: N-2 holds_role  title:Widow of Charlie Kirk
 
 ## 12. Topic Threading
 
-TopicMention: C-1269 N-10113
-TopicMention: C-1277 N-10113
-TopicMention: C-1279 N-10109
-TopicMention: C-1280 N-10110
-TopicMention: C-1284 N-10121
-TopicMention: C-1273 N-10111
-TopicMention: C-1274 N-10117
-TopicMention: C-1275 N-10119
+TopicMention: C-768 N-10113
+TopicMention: C-771 N-10113
+TopicMention: C-743 N-10109
+TopicMention: C-745 N-10110
+TopicMention: C-747 N-10121
+TopicMention: C-795 N-10111
+TopicMention: C-810 N-10117
+TopicMention: C-806 N-10119
 
 ## 13. Meme Graph Links
 
-MemeLink: M-5 invoked_by_claim C-1268
+MemeLink: M-5 invoked_by_claim C-760
 MemeLink: M-6 invoked_by_speaker N-3

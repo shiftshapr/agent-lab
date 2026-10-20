@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10c): N-813, N-814
   - Hole-minted Nodes (reintro-ep096): N-10647
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10c): C-8755–C-8820
+  - Claim Range: C-8547–C-8634
   - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-159, N-195, N-220, N-341, N-342, N-377, N-420, N-595, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664, N-10640
   - (see registers)
 
@@ -32,7 +32,6 @@
 
 ## Episode 96 Ledger Summary
 - Artifact Families Introduced: A-2007, A-2008, A-2009, A-2010, A-2011, A-2012, A-2013, A-2014
-- Claim Range: C-2790–C-2809, C-3745, C-3752
   - New Nodes Introduced: N-10637, N-10638, N-10639, N-10641, N-10642
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave2): N-368, N-369, N-370, N-372
@@ -47,7 +46,7 @@
 Video Timestamp: 00:32:25
 Speaker: N-3
 Quote: If you have that opposite side footage of the person who caught that footage, 10k is yours, no questions asked, okay? More tips at candaceowens. com.
-Context: DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-3745, A-2008.5).
+Context: DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-8578, A-2008.5).
 Tags: tips_network, dia_tip_line, transcript_backfill
 Confidence: high
 
@@ -198,7 +197,7 @@ Video Timestamp: 00:58:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8804, N-2, N-14, N-159, N-330, N-10000*
+*Related: C-8615, N-2, N-14, N-159, N-330, N-10000*
 
 ---
 
@@ -211,7 +210,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8810, C-8811, N-3, N-60, N-82, N-377, N-10270*
+*Related: C-8622, C-8623, N-3, N-60, N-82, N-377, N-10270*
 
 ---
 
@@ -224,7 +223,7 @@ Video Timestamp: 00:48:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8790, N-2, N-3, N-10647*
+*Related: C-8598, N-2, N-3, N-10647*
 
 ---
 
@@ -237,7 +236,7 @@ Video Timestamp: 00:40:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8785, N-2, N-280, N-10000*
+*Related: C-8589, N-2, N-280, N-10000*
 
 ---
 
@@ -250,7 +249,7 @@ Video Timestamp: 00:50:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8791, C-8792, C-8805, N-1, N-2, N-3, N-14, N-159, N-10647*
+*Related: C-8599, C-8600, C-8616, N-1, N-2, N-3, N-14, N-159, N-10647*
 
 ---
 
@@ -264,7 +263,7 @@ Video Timestamp: 00:02:43
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2790, N-3, N-5, N-10640*
+*Related: C-8547, N-3, N-5, N-10640*
 
 ## A-2008 White House Correspondents Dinner Incident Coverage Bundle
 
@@ -276,7 +275,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2791, N-2, N-10637, N-369*
+*Related: C-8573, N-2, N-10637, N-369*
 
 **A-2008.2** Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon
 
@@ -286,7 +285,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2792, N-10637, N-368, N-369*
+*Related: C-8574, N-10637, N-368, N-369*
 
 **A-2008.3** Sara Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
 
@@ -296,7 +295,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (original recording source unverified)
 
-*Related: C-2793, N-2, N-10638, N-370*
+*Related: C-8577, N-2, N-10638, N-370*
 
 **A-2008.4** Baron Coleman commentary clip on WHCD media frenzy
 
@@ -306,7 +305,7 @@ Video Timestamp: 00:33:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2794, N-2, N-330, N-10637*
+*Related: C-8579, N-2, N-330, N-10637*
 
 **A-2008.5** Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk "I just want to go home" clip (verbal reference; no displayed artifact)
 
@@ -316,7 +315,7 @@ Video Timestamp: 00:32:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3745, N-2, N-370, N-10638*
+*Related: C-8578, N-2, N-370, N-10638*
 
 ## A-2009 Erika Kirk Pre-Recorded Statement Bundle
 
@@ -328,7 +327,7 @@ Video Timestamp: 00:39:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2796, N-2, N-10639*
+*Related: C-8588, N-2, N-10639*
 
 **A-2009.2** Erika Kirk pre-recorded statement – criticism of journalists filming during active shooter
 
@@ -338,7 +337,7 @@ Video Timestamp: 00:42:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2798, N-2, N-10639*
+*Related: C-8591, N-2, N-10639*
 
 **A-2009.3** Erika Kirk pre-recorded statement – criticism of Jimmy Kimmel's Melania joke
 
@@ -348,7 +347,7 @@ Video Timestamp: 00:45:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2799, N-2, N-3, N-87, N-10639*
+*Related: C-8593, N-2, N-3, N-87, N-10639*
 
 **A-2009.4** Erika Kirk pre-recorded statement – claim that Candace Owens accused her of murdering her husband
 
@@ -358,7 +357,7 @@ Video Timestamp: 00:47:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2797, N-2, N-3, N-10639, N-10642*
+*Related: C-8596, N-2, N-3, N-10639, N-10642*
 
 ## A-2010 Terryl Farnsworth Recording Bundle
 
@@ -370,7 +369,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2800, N-261*
+*Related: C-8592, N-261*
 
 ## A-2011 Andrew Kolvet Text Message Bundle
 
@@ -382,7 +381,7 @@ Video Timestamp: 00:51:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (screenshot); Medium (full chain context unverified)
 
-*Related: C-2801, C-2802, C-2803, N-2, N-3, N-14, N-10641*
+*Related: C-8601, C-8603, C-8604, N-2, N-3, N-14, N-10641*
 
 ## A-2012 Laura Loomer Content Bundle
 
@@ -394,7 +393,7 @@ Video Timestamp: 00:18:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2804, N-3, N-60*
+*Related: C-8565, N-3, N-60*
 
 **A-2012.2** Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points
 
@@ -404,7 +403,7 @@ Video Timestamp: 01:03:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2805, N-3, N-60*
+*Related: C-8621, N-3, N-60*
 
 **A-2012.3** Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch
 
@@ -414,7 +413,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2806, N-3, N-60, N-201, N-372, N-551*
+*Related: C-8624, N-3, N-60, N-201, N-372, N-551*
 
 **A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome
 
@@ -424,7 +423,7 @@ Video Timestamp: 01:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (acknowledged as AI)
 
-*Related: C-2806, N-3, N-60, N-551*
+*Related: C-8624, N-3, N-60, N-551*
 
 ## A-2013 Candace Owens Prior Public Statements Bundle
 
@@ -436,7 +435,7 @@ Video Timestamp: 00:05:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2808, C-2809, N-3*
+*Related: C-8552, C-8554, N-3*
 
 **A-2013.2** Candace Owens March 2026 speech at Catholics for Catholics event mentioning upcoming confirmation
 
@@ -446,7 +445,7 @@ Video Timestamp: 01:06:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2807, N-3*
+*Related: C-8627, N-3*
 
 **A-2013.3** Photos of Candace Owens from August 2016, before the mold illness, shown on air
 
@@ -456,7 +455,7 @@ Video Timestamp: 00:09:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3752, N-3, N-5*
+*Related: C-8556, N-3, N-5*
 
 ## A-2014 Viewer/Chat Comments Bundle
 
@@ -468,7 +467,7 @@ Video Timestamp: 01:12:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (viewer comments)
 
-*Related: C-2807, N-2, N-3*
+*Related: C-8627, N-2, N-3*
 
 ---
 
@@ -486,7 +485,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2008.2, C-2792*
+*Related: A-2008.2, C-8574*
 
 ---
 
@@ -501,7 +500,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.1, A-2008.2, C-2791, C-2792*
+*Related: A-2008.1, A-2008.2, C-8573, C-8574*
 
 ---
 
@@ -516,7 +515,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2008.3, C-2793, N-10638*
+*Related: A-2008.3, C-8577, N-10638*
 
 ---
 
@@ -531,7 +530,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2012.3, C-2806*
+*Related: A-2012.3, C-8624*
 
 ---
 
@@ -544,7 +543,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.1, A-2008.2, A-2008.4, C-2791, C-2792, C-2794*
+*Related: A-2008.1, A-2008.2, A-2008.4, C-8573, C-8574, C-8579*
 
 **N-10638** Sara Sidner Original Video Source Verification
 
@@ -555,7 +554,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.3, C-2793, N-2, N-370*
+*Related: A-2008.3, C-8577, N-2, N-370*
 
 **N-10639** Erika Kirk Pre-Recorded Statement Authorship and Authenticity
 
@@ -566,7 +565,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2009.1, A-2009.2, A-2009.3, A-2009.4, C-2795, C-2796, C-2797, C-2798, C-2799, N-2*
+*Related: A-2009.1, A-2009.2, A-2009.3, A-2009.4, C-8583, C-8588, C-8596, C-8591, C-8593, N-2*
 
 **N-10640** Trump Truth Social Tweet Authorship/Origin
 
@@ -577,7 +576,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2007.1, C-2790, N-5*
+*Related: A-2007.1, C-8547, N-5*
 
 **N-10641** Andrew Kolvet Text Message Full Context Verification
 
@@ -588,7 +587,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2011.1, C-2801, C-2802, C-2803, N-2, N-3, N-14*
+*Related: A-2011.1, C-8601, C-8603, C-8604, N-2, N-3, N-14*
 
 **N-10642** Erika Kirk Murder Claim Accuracy
 
@@ -599,7 +598,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2009.4, A-2011.1, C-2797, N-2, N-3*
+*Related: A-2009.4, A-2011.1, C-8596, N-2, N-3*
 
 ---
 
@@ -608,7 +607,7 @@ Investigative Pressure: High
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
 
-*Related: C-2809*
+*Related: C-8554*
 
 ---
 
@@ -616,7 +615,7 @@ White House chief of staff. Host questions her as a Kirk eulogist and names her 
 
 Charlie Kirk; the host discusses his views on the WHCD and his reported Aspen statement.
 
-*Related: C-8779, C-8781, C-8784, C-8792, C-8798, C-8803, A-2966.1*
+*Related: C-8581, C-8584, C-8587, C-8600, C-8609, C-8614, A-2966.1*
 
 ---
 
@@ -624,7 +623,7 @@ Charlie Kirk; the host discusses his views on the WHCD and his reported Aspen st
 
 Turning Point USA.
 
-*Related: C-8785, C-8793, C-8804, A-2962.1, A-2965.1*
+*Related: C-8589, C-8602, C-8615, A-2962.1, A-2965.1*
 
 ---
 
@@ -632,7 +631,7 @@ Turning Point USA.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8803*
+*Related: C-8614*
 
 ---
 
@@ -640,7 +639,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8801*
+*Related: C-8612*
 
 ---
 
@@ -648,7 +647,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8759, C-8810, C-8811, A-2963.1*
+*Related: C-8553, C-8622, C-8623, A-2963.1*
 
 ---
 
@@ -656,7 +655,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8794*
+*Related: C-8605*
 
 ---
 
@@ -664,7 +663,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8802, C-8806*
+*Related: C-8613, C-8617*
 
 ---
 
@@ -672,7 +671,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8773*
+*Related: C-8570*
 
 ---
 
@@ -680,7 +679,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8802, C-8806*
+*Related: C-8613, C-8617*
 
 ---
 
@@ -688,7 +687,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8796*
+*Related: C-8607*
 
 ---
 
@@ -696,7 +695,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8755, C-8756*
+*Related: C-8548, C-8549*
 
 ---
 
@@ -704,7 +703,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8767, C-8768, C-8771, C-8772, C-8773*
+*Related: C-8563, C-8564, C-8568, C-8569, C-8570*
 
 ---
 
@@ -712,7 +711,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8817*
+*Related: C-8631*
 
 ---
 
@@ -720,7 +719,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8780, C-8783*
+*Related: C-8582, C-8586*
 
 ---
 
@@ -728,7 +727,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8816, C-8818*
+*Related: C-8630, C-8632*
 
 ---
 
@@ -736,7 +735,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8783*
+*Related: C-8586*
 
 ---
 
@@ -744,7 +743,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8790, C-8791, C-8792, C-8797, C-8800, C-8805, A-2964.1, A-2966.1*
+*Related: C-8598, C-8599, C-8600, C-8608, C-8611, C-8616, A-2964.1, A-2966.1*
 
 ---
 
@@ -752,7 +751,7 @@ Existing node cited by new claims in this episode.
 
 Existing node cited by new claims in this episode.
 
-*Related: C-8798, C-8799, C-8803*
+*Related: C-8609, C-8610, C-8614*
 
 ---
 
@@ -760,7 +759,7 @@ Existing node cited by new claims in this episode.
 
 TPUSA spokesperson; the host discusses his WHCD account, the text screenshot and the surgeon quote (transcribed as Kolb in places).
 
-*Related: C-8777, C-8793, C-8796, C-8802, C-8804, C-8805, A-2962.1, A-2966.1*
+*Related: C-8576, C-8602, C-8607, C-8613, C-8615, C-8616, A-2962.1, A-2966.1*
 
 ---
 
@@ -768,7 +767,7 @@ TPUSA spokesperson; the host discusses his WHCD account, the text screenshot and
 
 Blake Neff; the host says he wrote Erika's statement and gave an excuse for it.
 
-*Related: C-8788, C-8791, C-8804, C-8805, A-2962.1, A-2966.1*
+*Related: C-8595, C-8599, C-8615, C-8616, A-2962.1, A-2966.1*
 
 ---
 
@@ -776,7 +775,7 @@ Blake Neff; the host says he wrote Erika's statement and gave an excuse for it.
 
 Dr. Lee Trotter; the host says Erika put blame on him over the surgeon call.
 
-*Related: C-8806*
+*Related: C-8617*
 
 ---
 
@@ -784,7 +783,7 @@ Dr. Lee Trotter; the host says Erika put blame on him over the surgeon call.
 
 Widow and TPUSA CEO; subject of the WHCD clip, pre-recorded statement and the host's challenges to her account.
 
-*Related: C-8778, C-8779, C-8780, C-8781, C-8782, C-8783, C-8784, C-8785, C-8786, C-8787, C-8788, C-8789, C-8790, C-8791, C-8792, C-8794, C-8795, C-8797, C-8798, C-8799, C-8800, C-8801, C-8802, C-8803, C-8804, C-8806, A-2962.1, A-2964.1, A-2965.1, A-2966.1*
+*Related: C-8580, C-8581, C-8582, C-8584, C-8585, C-8586, C-8587, C-8589, C-8590, C-8594, C-8595, C-8597, C-8598, C-8599, C-8600, C-8605, C-8606, C-8608, C-8609, C-8610, C-8611, C-8612, C-8613, C-8614, C-8615, C-8617, A-2962.1, A-2964.1, A-2965.1, A-2966.1*
 
 ---
 
@@ -792,7 +791,7 @@ Widow and TPUSA CEO; subject of the WHCD clip, pre-recorded statement and the ho
 
 Nick Fuentes; named in Loomer's Rome tweet, which the host denies.
 
-*Related: C-8814*
+*Related: C-8628*
 
 ---
 
@@ -800,7 +799,7 @@ Nick Fuentes; named in Loomer's Rome tweet, which the host denies.
 
 Tucker Carlson; target of a Trump post the host links to Loomer's focus.
 
-*Related: C-8773*
+*Related: C-8570*
 
 ---
 
@@ -808,7 +807,7 @@ Tucker Carlson; target of a Trump post the host links to Loomer's focus.
 
 Milo Yiannopoulos; named in Loomer's claim about the host's husband.
 
-*Related: C-8808, C-8809*
+*Related: C-8619, C-8620*
 
 ---
 
@@ -816,7 +815,7 @@ Milo Yiannopoulos; named in Loomer's claim about the host's husband.
 
 Bari Weiss; her interview with Erika Kirk is the date anchor for the December text.
 
-*Related: C-8794*
+*Related: C-8605*
 
 ---
 
@@ -824,7 +823,7 @@ Bari Weiss; her interview with Erika Kirk is the date anchor for the December te
 
 Karoline Leavitt; the host cites her stage conversation with Erika Kirk.
 
-*Related: C-8785, A-2965.1*
+*Related: C-8589, A-2965.1*
 
 ---
 
@@ -832,7 +831,7 @@ Karoline Leavitt; the host cites her stage conversation with Erika Kirk.
 
 Host; speaks for herself throughout.
 
-*Related: C-8755, C-8756, C-8757, C-8758, C-8759, C-8760, C-8761, C-8762, C-8763, C-8764, C-8765, C-8766, C-8767, C-8768, C-8769, C-8770, C-8771, C-8772, C-8777, C-8780, C-8782, C-8783, C-8786, C-8787, C-8788, C-8789, C-8790, C-8791, C-8792, C-8793, C-8794, C-8795, C-8796, C-8797, C-8798, C-8799, C-8800, C-8801, C-8802, C-8803, C-8805, C-8806, C-8807, C-8808, C-8809, C-8810, C-8811, C-8812, C-8813, C-8814, C-8815, C-8816, C-8818, C-8819, C-8820, A-2963.1, A-2964.1, A-2966.1*
+*Related: C-8548, C-8549, C-8550, C-8551, C-8553, C-8555, C-8557, C-8558, C-8559, C-8560, C-8561, C-8562, C-8563, C-8564, C-8566, C-8567, C-8568, C-8569, C-8576, C-8582, C-8585, C-8586, C-8590, C-8594, C-8595, C-8597, C-8598, C-8599, C-8600, C-8602, C-8605, C-8606, C-8607, C-8608, C-8609, C-8610, C-8611, C-8612, C-8613, C-8614, C-8616, C-8617, C-8618, C-8619, C-8620, C-8622, C-8623, C-8625, C-8626, C-8628, C-8629, C-8630, C-8632, C-8633, C-8634, A-2963.1, A-2964.1, A-2966.1*
 
 ---
 
@@ -840,7 +839,7 @@ Host; speaks for herself throughout.
 
 The host's husband; subject of Loomer's separation and Milo claims and of the Rome trip.
 
-*Related: C-8764, C-8765, C-8766, C-8807, C-8808, C-8809, C-8813*
+*Related: C-8560, C-8561, C-8562, C-8618, C-8619, C-8620, C-8626*
 
 ---
 
@@ -848,7 +847,7 @@ The host's husband; subject of Loomer's separation and Milo claims and of the Ro
 
 Baron Coleman; the host plays his commentary on Operation Erika Kirk and the widow grift.
 
-*Related: C-8778, C-8804, A-2962.1*
+*Related: C-8580, C-8615, A-2962.1*
 
 ---
 
@@ -856,7 +855,7 @@ Baron Coleman; the host plays his commentary on Operation Erika Kirk and the wid
 
 Victor Marx; the host says he has not replied to her message.
 
-*Related: C-8817, C-8818*
+*Related: C-8631, C-8632*
 
 ---
 
@@ -864,7 +863,7 @@ Victor Marx; the host says he has not replied to her message.
 
 Corby Hall; subject of a recently pre-recorded episode and a viewer comment.
 
-*Related: C-8816, C-8817*
+*Related: C-8630, C-8631*
 
 ---
 
@@ -872,7 +871,7 @@ Corby Hall; subject of a recently pre-recorded episode and a viewer comment.
 
 Emmanuel Macron; named in a Loomer tweet the host reads.
 
-*Related: C-8810, A-2963.1*
+*Related: C-8622, A-2963.1*
 
 ---
 
@@ -880,7 +879,7 @@ Emmanuel Macron; named in a Loomer tweet the host reads.
 
 Pope Leo XIV; the host says she did not meet him.
 
-*Related: C-8820*
+*Related: C-8634*
 
 ---
 
@@ -888,7 +887,7 @@ Pope Leo XIV; the host says she did not meet him.
 
 Megyn Kelly; target of a Trump post the host links to Loomer's focus.
 
-*Related: C-8773*
+*Related: C-8570*
 
 ---
 
@@ -896,7 +895,7 @@ Megyn Kelly; target of a Trump post the host links to Loomer's focus.
 
 Donald Trump; his Truth Social post about the host and the WHCD are discussed.
 
-*Related: C-8755, C-8756, C-8758, C-8763, C-8768, C-8771, C-8773, C-8774, C-8776, C-8779, C-8815*
+*Related: C-8548, C-8549, C-8551, C-8559, C-8564, C-8568, C-8570, C-8571, C-8575, C-8581, C-8629*
 
 ---
 
@@ -904,7 +903,7 @@ Donald Trump; his Truth Social post about the host and the WHCD are discussed.
 
 Aubrey Laitsch; the host says she spoke with her after the firing and denies seeing her in Rome.
 
-*Related: C-8796, C-8812, C-8814*
+*Related: C-8607, C-8625, C-8628*
 
 ---
 
@@ -912,7 +911,7 @@ Aubrey Laitsch; the host says she spoke with her after the firing and denies see
 
 Laura Loomer; the host alleges she drove the Trump post and cites her tweets and audio.
 
-*Related: C-8759, C-8767, C-8768, C-8769, C-8770, C-8771, C-8772, C-8773, C-8807, C-8808, C-8810, C-8811, A-2963.1*
+*Related: C-8553, C-8563, C-8564, C-8566, C-8567, C-8568, C-8569, C-8570, C-8618, C-8619, C-8622, C-8623, A-2963.1*
 
 ---
 
@@ -920,7 +919,7 @@ Laura Loomer; the host alleges she drove the Trump post and cites her tweets and
 
 Druski; named by Erika Kirk in her statement.
 
-*Related: C-8787*
+*Related: C-8594*
 
 ---
 
@@ -928,7 +927,7 @@ Druski; named by Erika Kirk in her statement.
 
 FBI director; the host says Erika Kirk stood next to him at the WHCD.
 
-*Related: C-8801*
+*Related: C-8612*
 
 ---
 
@@ -936,7 +935,7 @@ FBI director; the host says Erika Kirk stood next to him at the WHCD.
 
 Brigitte Macron; named in Trump's earlier comments and Loomer's trust and lawsuit claims.
 
-*Related: C-8756, C-8810, A-2963.1*
+*Related: C-8549, C-8622, A-2963.1*
 
 ---
 
@@ -944,7 +943,7 @@ Brigitte Macron; named in Trump's earlier comments and Loomer's trust and lawsui
 
 First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.
 
-*Related: C-8774*
+*Related: C-8571*
 
 ---
 
@@ -952,13 +951,13 @@ First named by the host at 00:23:21 in episode 096, as the person who sent Trump
 
 First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.
 
-*Related: C-8774*
+*Related: C-8571*
 
 ---
 
 # Claim Register
 
-**C-2790** Trump publicly criticized Candace Owens calling her "low IQ"
+**C-8547** Trump publicly criticized Candace Owens calling her "low IQ"
 
 Claim Timestamp: 00:02:43
 
@@ -969,7 +968,7 @@ Mentions: N-3, N-5
 Related Nodes: N-10640
 Investigative Direction: Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs.
 
-**C-2791** Washington Post reported Secret Service officers fired at WHCD suspect
+**C-8573** Washington Post reported Secret Service officers fired at WHCD suspect
 
 Claim Timestamp: 00:29:10
 
@@ -980,7 +979,7 @@ Mentions: N-369
 Related Nodes: N-10637
 Investigative Direction: Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.
 
-**C-2792** Evan Hill reported no footage of Allen firing weapon
+**C-8574** Evan Hill reported no footage of Allen firing weapon
 
 Claim Timestamp: 00:29:53
 
@@ -991,7 +990,7 @@ Mentions: N-368, N-369
 Related Nodes: N-10637
 Investigative Direction: Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.
 
-**C-2793** Sara Sidner first shared clip of Erika Kirk "I just want to go home"
+**C-8577** Sara Sidner first shared clip of Erika Kirk "I just want to go home"
 
 Claim Timestamp: 00:31:35
 
@@ -1002,7 +1001,7 @@ Mentions: N-2, N-370
 Related Nodes: N-10638
 Investigative Direction: Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.
 
-**C-3745** Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip
+**C-8578** Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip
 
 Claim Timestamp: 00:32:25
 
@@ -1015,7 +1014,7 @@ Mentions: N-3, N-2, N-370
 Related Nodes: N-10638
 Investigative Direction: Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10638).
 
-**C-2794** Baron Coleman commented on WHCD media frenzy
+**C-8579** Baron Coleman commented on WHCD media frenzy
 
 Claim Timestamp: 00:33:09
 
@@ -1026,7 +1025,7 @@ Mentions: N-2, N-330
 Related Nodes: N-10637
 Investigative Direction: Pull Baron Coleman's clip or post directly for full context.
 
-**C-2795** Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement
+**C-8583** Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement
 
 Claim Timestamp: 00:37:46
 
@@ -1037,7 +1036,7 @@ Mentions: N-2, N-1
 Related Nodes: N-10639
 Investigative Direction: Verify the video directly on Erika Kirk's platforms; review production metadata if available.
 
-**C-2796** Erika Kirk claimed she attended WHCD to confront journalists
+**C-8588** Erika Kirk claimed she attended WHCD to confront journalists
 
 Claim Timestamp: 00:39:21
 
@@ -1048,7 +1047,7 @@ Mentions: N-2
 Related Nodes: N-10639
 Investigative Direction: Verify the full statement transcript; identify the Daily Mail journalist mentioned.
 
-**C-2797** Erika Kirk claimed Candace Owens accused her of murdering her husband
+**C-8596** Erika Kirk claimed Candace Owens accused her of murdering her husband
 
 Claim Timestamp: 00:47:25
 
@@ -1059,7 +1058,7 @@ Mentions: N-2, N-3
 Related Nodes: N-10639, N-10642
 Investigative Direction: Search Candace Owens' full podcast archive for any explicit accusation of murder; review the December text message chain.
 
-**C-2798** Erika Kirk criticized journalists for filming during active shooter
+**C-8591** Erika Kirk criticized journalists for filming during active shooter
 
 Claim Timestamp: 00:42:09
 
@@ -1070,7 +1069,7 @@ Mentions: N-2
 Related Nodes: N-10639
 Investigative Direction: Cross-reference against the Sara Sidner footage and other journalist videos; verify the timing of any "active shooter" declaration.
 
-**C-2799** Erika Kirk criticized Jimmy Kimmel's Melania joke
+**C-8593** Erika Kirk criticized Jimmy Kimmel's Melania joke
 
 Claim Timestamp: 00:45:38
 
@@ -1081,7 +1080,7 @@ Mentions: N-2, N-3, N-87
 Related Nodes: N-10639
 Investigative Direction: Verify Kimmel's original monologue; confirm Erika's quotation is accurate.
 
-**C-2800** Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene
+**C-8592** Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene
 
 Claim Timestamp: 00:43:54
 
@@ -1091,7 +1090,7 @@ Anchored Artifacts: A-2010.1
 Mentions: N-261, N-1
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
-**C-2801** Andrew Kolvet presented a text message screenshot
+**C-8601** Andrew Kolvet presented a text message screenshot
 
 Claim Timestamp: 00:51:23
 
@@ -1102,7 +1101,7 @@ Mentions: N-2, N-3, N-14
 Related Nodes: N-10641
 Investigative Direction: Verify the screenshot; obtain the full conversation thread; host has publicly authorized release of the entire chain.
 
-**C-2802** Text message contained "why did you murder your husband?" with cry emojis
+**C-8603** Text message contained "why did you murder your husband?" with cry emojis
 
 Claim Timestamp: 00:52:52
 
@@ -1113,7 +1112,7 @@ Mentions: N-2, N-3, N-14
 Related Nodes: N-10641
 Investigative Direction: Verify the exact text against the screenshot; obtain the surrounding messages for context.
 
-**C-2803** Candace stated the text was sent in December before meeting Erika
+**C-8604** Candace stated the text was sent in December before meeting Erika
 
 Claim Timestamp: 00:52:52
 
@@ -1124,7 +1123,7 @@ Mentions: N-2, N-3, N-278, N-97
 Related Nodes: N-10641
 Investigative Direction: Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing.
 
-**C-2804** Laura Loomer made a recorded rant containing racial commentary about Candace
+**C-8565** Laura Loomer made a recorded rant containing racial commentary about Candace
 
 Claim Timestamp: 00:18:50
 
@@ -1134,7 +1133,7 @@ Anchored Artifacts: A-2012.1
 Mentions: N-3, N-60
 Investigative Direction: Verify the source recording; identify context and any other parties present.
 
-**C-2805** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points
+**C-8621** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points
 
 Claim Timestamp: 01:03:21
 
@@ -1144,7 +1143,7 @@ Anchored Artifacts: A-2012.2
 Mentions: N-3, N-60
 Investigative Direction: Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship.
 
-**C-2806** Laura Loomer claimed Candace was at anti-Trump summit in Rome
+**C-8624** Laura Loomer claimed Candace was at anti-Trump summit in Rome
 
 Claim Timestamp: 01:04:56
 
@@ -1154,7 +1153,7 @@ Anchored Artifacts: A-2012.3, A-2012.4
 Mentions: N-3, N-60, N-201, N-551
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
-**C-2807** Candace traveled to Rome with her family for confirmation
+**C-8627** Candace traveled to Rome with her family for confirmation
 
 Claim Timestamp: 01:06:36
 
@@ -1164,7 +1163,7 @@ Anchored Artifacts: A-2013.2, A-2014.1
 Mentions: N-3
 Investigative Direction: Verify through confirmation records or attendee corroboration; the host referenced her March 2026 announcement.
 
-**C-2808** Photo Trump shared was originally posted by Candace in 2019
+**C-8552** Photo Trump shared was originally posted by Candace in 2019
 
 Claim Timestamp: 00:05:12
 
@@ -1174,7 +1173,7 @@ Anchored Artifacts: A-2013.1
 Mentions: N-3, N-5
 Investigative Direction: Verify the original August 2019 tweet directly on Candace's Twitter/X account.
 
-**C-2809** Candace was sick in 2016 from toxic mold exposure in her apartment
+**C-8554** Candace was sick in 2016 from toxic mold exposure in her apartment
 
 Claim Timestamp: 00:06:45
 
@@ -1184,7 +1183,7 @@ Anchored Artifacts: A-2013.1
 Mentions: N-3
 Investigative Direction: Verify via medical records; the underlying photo is the primary artifact anchor.
 
-**C-3752** Candace shows August 2016 photos taken three months before the photo Trump shared
+**C-8556** Candace shows August 2016 photos taken three months before the photo Trump shared
 
 Claim Timestamp: 00:09:18
 
@@ -1199,7 +1198,7 @@ Investigative Direction: Match the August 2016 photos and the photo Trump posted
 
 ---
 
-**C-8755** Host says Trump's post was the fourth tweet about her in two weeks
+**C-8548** Host says Trump's post was the fourth tweet about her in two weeks
 
 Claim Timestamp: 00:02:43
 
@@ -1215,7 +1214,7 @@ Investigative Direction: Pull Trump's Truth Social posts mentioning Candace Owen
 
 ---
 
-**C-8756** Host says Trump had already called her low IQ and uglier than Brigitte Macron
+**C-8549** Host says Trump had already called her low IQ and uglier than Brigitte Macron
 
 Claim Timestamp: 00:02:43
 
@@ -1231,7 +1230,7 @@ Investigative Direction: Locate the earlier Trump posts or remarks calling the h
 
 ---
 
-**C-8757** Host says Washington runs on blackmail and secrets
+**C-8550** Host says Washington runs on blackmail and secrets
 
 Claim Timestamp: 00:03:41
 
@@ -1246,7 +1245,7 @@ Investigative Direction: No documentary test; the host gives no named case in th
 
 ---
 
-**C-8758** Host says the photo Trump shared is real and not AI
+**C-8551** Host says the photo Trump shared is real and not AI
 
 Claim Timestamp: 00:04:25
 
@@ -1262,7 +1261,7 @@ Investigative Direction: Compare the photo in Trump's post with the host's origi
 
 ---
 
-**C-8759** Host says Loomer spent four days sharing AI photos, hit-and-run stories and secret-trust claims
+**C-8553** Host says Loomer spent four days sharing AI photos, hit-and-run stories and secret-trust claims
 
 Claim Timestamp: 00:05:12
 
@@ -1278,7 +1277,7 @@ Investigative Direction: Review Laura Loomer's X posts from the days before Apri
 
 ---
 
-**C-8760** Host says she had two asthma attacks that put her in hospital during the 2016 illness
+**C-8555** Host says she had two asthma attacks that put her in hospital during the 2016 illness
 
 Claim Timestamp: 00:06:45
 
@@ -1293,7 +1292,7 @@ Investigative Direction: Medical records, if the host chooses to release them; o
 
 ---
 
-**C-8761** Host says a doctor put her on a strict candidiasis diet
+**C-8557** Host says a doctor put her on a strict candidiasis diet
 
 Claim Timestamp: 00:10:31
 
@@ -1308,7 +1307,7 @@ Investigative Direction: Personal medical account; no record cited on air.
 
 ---
 
-**C-8762** Host says she started her political YouTube channel in August 2019
+**C-8558** Host says she started her political YouTube channel in August 2019
 
 Claim Timestamp: 00:12:06
 
@@ -1323,7 +1322,7 @@ Investigative Direction: Check the upload date of the first video on the host's 
 
 ---
 
-**C-8763** Host says the magazine cover text read that she lies and uses rich white men
+**C-8559** Host says the magazine cover text read that she lies and uses rich white men
 
 Claim Timestamp: 00:15:12
 
@@ -1339,7 +1338,7 @@ Investigative Direction: Obtain the cover image Trump shared and confirm its wor
 
 ---
 
-**C-8764** Host says her husband could not work until he had a green card
+**C-8560** Host says her husband could not work until he had a green card
 
 Claim Timestamp: 00:16:11
 
@@ -1354,7 +1353,7 @@ Investigative Direction: Immigration timeline and work-authorization dates for G
 
 ---
 
-**C-8765** Host says she had a million-dollar book deal and sold about 800,000 copies
+**C-8561** Host says she had a million-dollar book deal and sold about 800,000 copies
 
 Claim Timestamp: 00:16:11
 
@@ -1369,7 +1368,7 @@ Investigative Direction: Publisher contract and sales data (Nielsen BookScan or 
 
 ---
 
-**C-8766** Host says her parents were not wealthy and her husband's family has generational wealth
+**C-8562** Host says her parents were not wealthy and her husband's family has generational wealth
 
 Claim Timestamp: 00:16:56
 
@@ -1384,7 +1383,7 @@ Investigative Direction: Personal biography; no document cited on air.
 
 ---
 
-**C-8767** Host says her source says Loomer ranted about not being invited to the WHCD
+**C-8563** Host says her source says Loomer ranted about not being invited to the WHCD
 
 Claim Timestamp: 00:17:55
 
@@ -1400,7 +1399,7 @@ Investigative Direction: Identify the host's source and any third party who hear
 
 ---
 
-**C-8768** Host says Loomer demanded a tweet of support from Trump
+**C-8564** Host says Loomer demanded a tweet of support from Trump
 
 Claim Timestamp: 00:17:55
 
@@ -1411,13 +1410,13 @@ Transcript Snippet: she demanded a tweet of support from Trump. In fact, that is
 Anchored Artifacts:
 Mentions: N-60, N-5, N-3
 Related Nodes: N-10640, N-10590
-Supports: C-2790
+Supports: C-8547
 Tags: relevance:context
 Investigative Direction: Corroborate through White House staff, Loomer's own statements, or Truth Social posting logs.
 
 ---
 
-**C-8769** Host says she has never been to Greenwich, Connecticut
+**C-8566** Host says she has never been to Greenwich, Connecticut
 
 Claim Timestamp: 00:20:54
 
@@ -1427,13 +1426,13 @@ Transcript Snippet: who's going to the club in high school I've never in my life
 
 Anchored Artifacts: A-2012.1
 Mentions: N-60, N-3
-Contradicts: C-2804
+Contradicts: C-8565
 Tags: relevance:context
 Investigative Direction: Compare Loomer's audio source (the voice on the recording) against the host's school and residence history.
 
 ---
 
-**C-8770** Host says Susie Wiles was staunchly opposed to the Trump post
+**C-8567** Host says Susie Wiles was staunchly opposed to the Trump post
 
 Claim Timestamp: 00:20:54
 
@@ -1449,7 +1448,7 @@ Investigative Direction: Identify the host's source and seek confirmation from W
 
 ---
 
-**C-8771** Host relays a long-standing rumor that Loomer has blackmail on Trump
+**C-8568** Host relays a long-standing rumor that Loomer has blackmail on Trump
 
 Claim Timestamp: 00:21:40
 
@@ -1465,7 +1464,7 @@ Investigative Direction: No evidence offered; any real test would require identi
 
 ---
 
-**C-8772** Host quotes Loomer as threatening to post officials' family members
+**C-8569** Host quotes Loomer as threatening to post officials' family members
 
 Claim Timestamp: 00:22:32
 
@@ -1481,7 +1480,7 @@ Investigative Direction: Find the Loomer statement being paraphrased and the peo
 
 ---
 
-**C-8773** Host says Trump's attacks on Tucker Carlson and Megyn Kelly track Loomer's focus of the week
+**C-8570** Host says Trump's attacks on Tucker Carlson and Megyn Kelly track Loomer's focus of the week
 
 Claim Timestamp: 00:22:32
 
@@ -1497,7 +1496,7 @@ Investigative Direction: Line up the dates of Trump's posts about Carlson and Ke
 
 ---
 
-**C-8774** Host says Trump does not send his own tweets; Scavino did, and Natalie Harp reportedly does
+**C-8571** Host says Trump does not send his own tweets; Scavino did, and Natalie Harp reportedly does
 
 Claim Timestamp: 00:23:21
 
@@ -1513,7 +1512,7 @@ Investigative Direction: Identify who operates the Truth Social account (reporti
 
 ---
 
-**C-8775** Host says only Secret Service agents fired at the WHCD checkpoint
+**C-8572** Host says only Secret Service agents fired at the WHCD checkpoint
 
 Claim Timestamp: 00:28:18
 
@@ -1524,13 +1523,13 @@ Transcript Snippet: a man stormed a security check at the White House Correspond
 Anchored Artifacts: A-2008.1, A-2008.2
 Mentions: N-369
 Related Nodes: N-10637
-Supports: C-2792
+Supports: C-8574
 Tags: relevance:context
 Investigative Direction: Official incident report, ballistic findings and the Washington Post surveillance footage.
 
 ---
 
-**C-8776** Host says most people inside could not hear or distinguish the sounds at the WHCD
+**C-8575** Host says most people inside could not hear or distinguish the sounds at the WHCD
 
 Claim Timestamp: 00:29:53
 
@@ -1546,7 +1545,7 @@ Investigative Direction: Attendee accounts and ballroom audio or video from the 
 
 ---
 
-**C-8777** Host says Kolvet honestly said he did not know what the sound was at the WHCD
+**C-8576** Host says Kolvet honestly said he did not know what the sound was at the WHCD
 
 Claim Timestamp: 00:29:53
 
@@ -1562,7 +1561,7 @@ Investigative Direction: Locate Kolvet's on-air or posted account of the WHCD an
 
 ---
 
-**C-8778** Baron Coleman says Erika said the line as she crossed the only camera
+**C-8580** Baron Coleman says Erika said the line as she crossed the only camera
 
 Claim Timestamp: 00:33:09
 
@@ -1573,13 +1572,13 @@ Transcript Snippet: I just want to go home, and she just happened to say that ri
 Anchored Artifacts: A-2008.4
 Mentions: N-330, N-2
 Related Nodes: N-10637, N-10638
-Supports: C-2794
+Supports: C-8579
 Tags: relevance:core
 Investigative Direction: Obtain the full Coleman show segment and the hotel and press camera positions in the corridor.
 
 ---
 
-**C-8779** Host says neither Charlie Kirk nor Trump as president attended the WHCD
+**C-8581** Host says neither Charlie Kirk nor Trump as president attended the WHCD
 
 Claim Timestamp: 00:34:08
 
@@ -1595,7 +1594,7 @@ Investigative Direction: Check WHCD attendance records for Charlie Kirk and for 
 
 ---
 
-**C-8780** Host says the Vice President lectured her camp about not keeping Erika safe
+**C-8582** Host says the Vice President lectured her camp about not keeping Erika safe
 
 Claim Timestamp: 00:34:56
 
@@ -1611,7 +1610,7 @@ Investigative Direction: Locate the Vance remarks about Erika Kirk's safety arou
 
 ---
 
-**C-8781** Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show
+**C-8584** Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show
 
 Claim Timestamp: 00:37:46
 
@@ -1627,7 +1626,7 @@ Investigative Direction: Pull Erika Kirk's post and the show schedule for that w
 
 ---
 
-**C-8782** Host says Erika's statement was pre-recorded, teleprompter-read and not written by her
+**C-8585** Host says Erika's statement was pre-recorded, teleprompter-read and not written by her
 
 Claim Timestamp: 00:37:46
 
@@ -1638,13 +1637,13 @@ Transcript Snippet: Second thing is that it was pre-recorded, okay? It was strai
 Anchored Artifacts: A-2009.1
 Mentions: N-2, N-3
 Related Nodes: N-10639
-Supports: C-2795
+Supports: C-8583
 Tags: relevance:core
 Investigative Direction: Production metadata from the video and identification of the writer.
 
 ---
 
-**C-8783** Host says Erika cited credible threats and distrust of the Secret Service to skip UGA
+**C-8586** Host says Erika cited credible threats and distrust of the Secret Service to skip UGA
 
 Claim Timestamp: 00:38:35
 
@@ -1660,7 +1659,7 @@ Investigative Direction: Compare TPUSA's UGA cancellation statements with Erika 
 
 ---
 
-**C-8784** Host says Charlie hated and made fun of the WHCD
+**C-8587** Host says Charlie hated and made fun of the WHCD
 
 Claim Timestamp: 00:38:35
 
@@ -1671,13 +1670,13 @@ Transcript Snippet: That actually Charlie hated. He always made fun of the White
 Anchored Artifacts:
 Mentions: N-1
 Related Nodes: N-10637
-Supports: C-8779
+Supports: C-8581
 Tags: relevance:core
 Investigative Direction: Find Charlie Kirk show segments or posts mocking the WHCD.
 
 ---
 
-**C-8785** Host says Erika told Karoline Leavitt on stage she did not read headlines or care
+**C-8589** Host says Erika told Karoline Leavitt on stage she did not read headlines or care
 
 Claim Timestamp: 00:40:12
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Obtain video of the Leavitt and Erika Kirk stage conver
 
 ---
 
-**C-8786** Host says Erika also attended a pre-party that was posted
+**C-8590** Host says Erika also attended a pre-party that was posted
 
 Claim Timestamp: 00:41:21
 
@@ -1709,7 +1708,7 @@ Investigative Direction: Find the posted pre-party photos or video and their tim
 
 ---
 
-**C-8787** Host says Erika name-dropped Druski and the host in her statement
+**C-8594** Host says Erika name-dropped Druski and the host in her statement
 
 Claim Timestamp: 00:46:37
 
@@ -1725,7 +1724,7 @@ Investigative Direction: Review the full statement transcript for the Druski ref
 
 ---
 
-**C-8788** Host says she thinks Blake Neff wrote Erika's statement
+**C-8595** Host says she thinks Blake Neff wrote Erika's statement
 
 Claim Timestamp: 00:46:37
 
@@ -1741,7 +1740,7 @@ Investigative Direction: Identify who drafted the statement through script files
 
 ---
 
-**C-8789** Erika says in her statement that comedians wear whiteface and people say she is unfit to be CEO
+**C-8597** Erika says in her statement that comedians wear whiteface and people say she is unfit to be CEO
 
 Claim Timestamp: 00:47:25
 
@@ -1752,13 +1751,13 @@ Transcript Snippet: I have comedians dressing up in whiteface. I have people say
 Anchored Artifacts: A-2009.4
 Mentions: N-2, N-3, N-1
 Related Nodes: N-10639
-Supports: C-2797
+Supports: C-8596
 Tags: relevance:context
 Investigative Direction: Review the statement video and identify the whiteface comedy referenced.
 
 ---
 
-**C-8790** Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie
+**C-8598** Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie
 
 Claim Timestamp: 00:48:26
 
@@ -1769,13 +1768,13 @@ Transcript Snippet: Candace Owens never once made the explicit claim that you mu
 Anchored Artifacts: A-2964.1
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10647
-Contradicts: C-2797
+Contradicts: C-8596
 Tags: relevance:core
 Investigative Direction: Search the host's full archive for any explicit statement that Erika Kirk killed or arranged Charlie Kirk's death.
 
 ---
 
-**C-8791** Host says Blake Neff's excuse was that she implied Erika murdered Charlie
+**C-8599** Host says Blake Neff's excuse was that she implied Erika murdered Charlie
 
 Claim Timestamp: 00:50:21
 
@@ -1791,7 +1790,7 @@ Investigative Direction: Locate Blake Neff's post making this argument.
 
 ---
 
-**C-8792** Host says she had said police should drag Erika in for questioning
+**C-8600** Host says she had said police should drag Erika in for questioning
 
 Claim Timestamp: 00:50:21
 
@@ -1807,7 +1806,7 @@ Investigative Direction: Identify the earlier episode and confirm the wording.
 
 ---
 
-**C-8793** Host says the Kolvet text was never public and she assumes TPUSA staff passed it around
+**C-8602** Host says the Kolvet text was never public and she assumes TPUSA staff passed it around
 
 Claim Timestamp: 00:52:01
 
@@ -1818,13 +1817,13 @@ Transcript Snippet: I'm assuming employees passed this around and now kind of ex
 Anchored Artifacts: A-2011.1
 Mentions: N-14, N-3
 Related Nodes: N-10641, N-10000
-Supports: C-2801
+Supports: C-8601
 Tags: relevance:core
 Investigative Direction: Trace how the screenshot reached Kolvet and who at TPUSA had access to the thread.
 
 ---
 
-**C-8794** Host says the text was sent in the week Erika's Bari Weiss interview went viral
+**C-8605** Host says the text was sent in the week Erika's Bari Weiss interview went viral
 
 Claim Timestamp: 00:52:52
 
@@ -1835,13 +1834,13 @@ Transcript Snippet: this was during the week where Erika was going viral for her
 Anchored Artifacts: A-2011.1
 Mentions: N-2, N-278, N-3
 Related Nodes: N-10349, N-10641
-Supports: C-2803
+Supports: C-8604
 Tags: relevance:core
 Investigative Direction: Compare the date on the text message with the Erika Kirk and Bari Weiss CBS interview date.
 
 ---
 
-**C-8795** Host says she never asked Erika the murder question when they met
+**C-8606** Host says she never asked Erika the murder question when they met
 
 Claim Timestamp: 00:52:52
 
@@ -1852,13 +1851,13 @@ Transcript Snippet: because when I met up with Erika I never asked this question
 Anchored Artifacts: A-2011.1
 Mentions: N-3, N-2
 Related Nodes: N-10641
-Supports: C-2803
+Supports: C-8604
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's or Justin Streiff's account of the meeting and the host's recordings or notes.
 
 ---
 
-**C-8796** Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented
+**C-8607** Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented
 
 Claim Timestamp: 00:53:58
 
@@ -1874,7 +1873,7 @@ Investigative Direction: Aubrey Laitsch's own account, and a comparison of the h
 
 ---
 
-**C-8797** Host says Erika lied to her face in the meeting
+**C-8608** Host says Erika lied to her face in the meeting
 
 Claim Timestamp: 00:53:58
 
@@ -1890,7 +1889,7 @@ Investigative Direction: Identify which statements the host says were lies and t
 
 ---
 
-**C-8798** Host says donors tell her the Charlie audio shown was AI
+**C-8609** Host says donors tell her the Charlie audio shown was AI
 
 Claim Timestamp: 00:55:14
 
@@ -1906,7 +1905,7 @@ Investigative Direction: Obtain the original Aspen recording and have its proven
 
 ---
 
-**C-8799** Host says she spoke to multiple donors at the Aspen event and the video is unreleased
+**C-8610** Host says she spoke to multiple donors at the Aspen event and the video is unreleased
 
 Claim Timestamp: 00:55:54
 
@@ -1922,7 +1921,7 @@ Investigative Direction: Identify the donors and event; request the unreleased v
 
 ---
 
-**C-8800** Host says she is not accusing Erika of shooting Charlie, only of dishonesty
+**C-8611** Host says she is not accusing Erika of shooting Charlie, only of dishonesty
 
 Claim Timestamp: 00:55:54
 
@@ -1933,14 +1932,14 @@ Transcript Snippet: No, I'm not accusing you of shooting your husband. What I am
 Anchored Artifacts: A-2009.4
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10647
-Supports: C-8790
-Contradicts: C-2797
+Supports: C-8598
+Contradicts: C-8596
 Tags: relevance:core
 Investigative Direction: Cross-check the host's past episodes for any claim that Erika Kirk shot or arranged the killing.
 
 ---
 
-**C-8801** Host says Erika stood next to Kash Patel at the WHCD while the FBI holds up the case
+**C-8612** Host says Erika stood next to Kash Patel at the WHCD while the FBI holds up the case
 
 Claim Timestamp: 00:56:41
 
@@ -1956,7 +1955,7 @@ Investigative Direction: Event photos of Erika Kirk and Kash Patel at the WHCD a
 
 ---
 
-**C-8802** Host says Erika told her Kolvet and the surgeon went rogue and she was not part of the conversation
+**C-8613** Host says Erika told her Kolvet and the surgeon went rogue and she was not part of the conversation
 
 Claim Timestamp: 00:56:41
 
@@ -1967,13 +1966,13 @@ Transcript Snippet: The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a
 Anchored Artifacts:
 Mentions: N-2, N-14, N-3
 Related Nodes: N-10447, N-10358
-Supports: C-5562, C-6779
+Supports: C-5419, C-4492
 Tags: relevance:core
 Investigative Direction: The surgeon's account of the call, phone records, and Erika Kirk's and Kolvet's statements.
 
 ---
 
-**C-8803** Host says donors present allege Erika lied about Charlie's take-over statement
+**C-8614** Host says donors present allege Erika lied about Charlie's take-over statement
 
 Claim Timestamp: 00:57:33
 
@@ -1984,13 +1983,13 @@ Transcript Snippet: you lying allegedly, according to donors that were present, 
 Anchored Artifacts:
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10664, N-10194
-Supports: C-5543
+Supports: C-5399
 Tags: relevance:core
 Investigative Direction: Identify the donors and the event; compare their accounts with the Aspen audio.
 
 ---
 
-**C-8804** Baron Coleman says the widow role gives no license to lie and he can criticize documented falsehoods
+**C-8615** Baron Coleman says the widow role gives no license to lie and he can criticize documented falsehoods
 
 Claim Timestamp: 00:58:23
 
@@ -2006,7 +2005,7 @@ Investigative Direction: Obtain the Coleman clip and the list of falsehoods he r
 
 ---
 
-**C-8805** Host Says Neff and Kolvet Gave Different Excuses
+**C-8616** Host Says Neff and Kolvet Gave Different Excuses
 
 Claim Timestamp: 00:59:17
 
@@ -2017,13 +2016,13 @@ Transcript Snippet: you can't get on board with the same messaging. Blake Neff a
 Anchored Artifacts: A-2966.1
 Mentions: N-3, N-159, N-14
 Related Nodes: N-10647
-Supports: C-8791
+Supports: C-8599
 Tags: relevance:core
 Investigative Direction: Compare Neff's and Kolvet's posts side by side.
 
 ---
 
-**C-8806** Host says Erika was on the phone during the surgeon call and facilitated it
+**C-8617** Host says Erika was on the phone during the surgeon call and facilitated it
 
 Claim Timestamp: 01:01:47
 
@@ -2034,13 +2033,13 @@ Transcript Snippet: to claim that you weren't on the phone when you were, and yo
 Anchored Artifacts:
 Mentions: N-2, N-195, N-3
 Related Nodes: N-10447, N-10358
-Supports: C-5562
+Supports: C-5419
 Tags: relevance:core
 Investigative Direction: Phone records of the call and testimony from participants.
 
 ---
 
-**C-8807** Host says Loomer alleged she and her husband live separately with dual citizenship
+**C-8618** Host says Loomer alleged she and her husband live separately with dual citizenship
 
 Claim Timestamp: 01:02:34
 
@@ -2055,7 +2054,7 @@ Investigative Direction: Loomer's original posts and public records on residence
 
 ---
 
-**C-8808** Host says Loomer claimed her husband was in a secret gay relationship with Milo
+**C-8619** Host says Loomer claimed her husband was in a secret gay relationship with Milo
 
 Claim Timestamp: 01:02:34
 
@@ -2070,7 +2069,7 @@ Investigative Direction: Loomer's original post and the image used.
 
 ---
 
-**C-8809** Host says her husband first met Milo when she interviewed him
+**C-8620** Host says her husband first met Milo when she interviewed him
 
 Claim Timestamp: 01:02:34
 
@@ -2085,7 +2084,7 @@ Investigative Direction: Date of the host's interview with Milo Yiannopoulos and
 
 ---
 
-**C-8810** Host reads Loomer saying the host's lawyer dropped her ahead of the Macron deadline
+**C-8622** Host reads Loomer saying the host's lawyer dropped her ahead of the Macron deadline
 
 Claim Timestamp: 01:04:10
 
@@ -2101,7 +2100,7 @@ Investigative Direction: Court docket for the Macron suit showing any withdrawal
 
 ---
 
-**C-8811** Host reads Loomer saying the host hid nearly 12 million dollars in a secret trust
+**C-8623** Host reads Loomer saying the host hid nearly 12 million dollars in a secret trust
 
 Claim Timestamp: 01:04:10
 
@@ -2117,7 +2116,7 @@ Investigative Direction: Loomer's original post and any property or trust record
 
 ---
 
-**C-8812** Host says Aubrey posted an AI photo joke wishing her happy birthday
+**C-8625** Host says Aubrey posted an AI photo joke wishing her happy birthday
 
 Claim Timestamp: 01:05:54
 
@@ -2132,7 +2131,7 @@ Investigative Direction: Aubrey Laitsch's original post.
 
 ---
 
-**C-8813** Host says the Rome trip was planned and not abrupt
+**C-8626** Host says the Rome trip was planned and not abrupt
 
 Claim Timestamp: 01:05:54
 
@@ -2142,13 +2141,13 @@ Transcript Snippet: no, this was not an abrupt trip, but a completely planned, a
 
 Anchored Artifacts: A-2013.2
 Mentions: N-3, N-30
-Supports: C-2807
+Supports: C-8627
 Tags: relevance:context
 Investigative Direction: Travel bookings and the March announcement of the confirmation date.
 
 ---
 
-**C-8814** Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome
+**C-8628** Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome
 
 Claim Timestamp: 01:07:45
 
@@ -2158,13 +2157,13 @@ Transcript Snippet: No, I did not see Aubrey. I did not see Nick Fuentes. I did 
 
 Anchored Artifacts: A-2012.3
 Mentions: N-551, N-201, N-372, N-3
-Contradicts: C-2806
+Contradicts: C-8624
 Tags: relevance:context
 Investigative Direction: Travel records or statements from the three named people.
 
 ---
 
-**C-8815** Host says she did not respond to Trump because she had promised her priest she would chill
+**C-8629** Host says she did not respond to Trump because she had promised her priest she would chill
 
 Claim Timestamp: 01:07:45
 
@@ -2179,7 +2178,7 @@ Investigative Direction: Personal account; the priest's confirmation would be ne
 
 ---
 
-**C-8816** Host says the Corby Hall episode was pre-recorded
+**C-8630** Host says the Corby Hall episode was pre-recorded
 
 Claim Timestamp: 01:08:32
 
@@ -2195,7 +2194,7 @@ Investigative Direction: Compare the recording date of the Corby Hall episode wi
 
 ---
 
-**C-8817** Viewer comment says Corby Hall turned down an offer to sell 50,000 guns
+**C-8631** Viewer comment says Corby Hall turned down an offer to sell 50,000 guns
 
 Claim Timestamp: 01:12:06
 
@@ -2211,7 +2210,7 @@ Investigative Direction: The Corby Hall episode and any correspondence about the
 
 ---
 
-**C-8818** Host says Victor Marx never replied to her Instagram message
+**C-8632** Host says Victor Marx never replied to her Instagram message
 
 Claim Timestamp: 01:12:06
 
@@ -2227,7 +2226,7 @@ Investigative Direction: The host's Instagram messages and Marx's response, if a
 
 ---
 
-**C-8819** Host says her confirmation name is Saint Joan, after Joan of Arc
+**C-8633** Host says her confirmation name is Saint Joan, after Joan of Arc
 
 Claim Timestamp: 01:12:40
 
@@ -2237,13 +2236,13 @@ Transcript Snippet: for my confirmation name I picked a Saint Joan.
 
 Anchored Artifacts: A-2013.2
 Mentions: N-3
-Supports: C-2807
+Supports: C-8627
 Tags: relevance:tangential
 Investigative Direction: Host's confirmation records.
 
 ---
 
-**C-8820** Host says she did not meet the Pope in Rome
+**C-8634** Host says she did not meet the Pope in Rome
 
 Claim Timestamp: 01:14:42
 

@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11213, N-11214, N-11216
-  - Claim Range (supplement_2026-10c): C-9211–C-9257
+  - Claim Range: C-13829–C-13890
   - New Nodes Introduced: N-10874, N-10875, N-10876, N-10877, N-10878, N-10879
   - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-130, N-208, N-266, N-270, N-271, N-330, N-366, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-213, N-226, N-58, N-40, N-47, N-60, N-281, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-165, N-225, N-194, N-833, N-834, N-202, N-11215
   - Hole-minted Nodes (seq160): N-172, N-177, N-206, N-262
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (tweet as read on air); Low (underlying rumor truth)
 
-*Related: C-3617, N-10875, N-3, N-262*
+*Related: C-13830, N-10875, N-3, N-262*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:12:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clips/tweets as shown); Medium (intent framing)
 
-*Related: C-3618, C-3621, N-10876, N-202, N-206*
+*Related: C-13837, C-13845, N-10876, N-202, N-206*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:25:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (review text as read)
 
-*Related: C-3622, C-3623, N-10874, N-10839, N-1, N-8, N-10*
+*Related: C-13858, C-13853, N-10874, N-10839, N-1, N-8, N-10*
 
 ---
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:27:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium-High (audio as played; subtitle ASR uncertain)
 
-*Related: C-3624, N-10874, N-1*
+*Related: C-13859, N-10874, N-1*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:35:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clip as aired)
 
-*Related: C-3625, N-7, N-271, N-270, N-58, N-10839*
+*Related: C-13867, N-7, N-271, N-270, N-58, N-10839*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:40:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium (as attributed to BBC/headline; suicide circumstances unverified here)
 
-*Related: C-3626, C-3627, N-10877, N-165, N-172, N-9, N-10324*
+*Related: C-13874, C-13875, N-10877, N-165, N-172, N-9, N-10324*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:45:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium-High (as narrated; verify attendance figures independently)
 
-*Related: C-3628, N-10878, N-177, N-194*
+*Related: C-13881, N-10878, N-177, N-194*
 
 ---
 
@@ -131,7 +131,7 @@ Video Timestamp: 00:47:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (trend/headline as characterized on air)
 
-*Related: C-3629, N-10879, N-330, N-3*
+*Related: C-13884, N-10879, N-330, N-3*
 
 ---
 
@@ -141,7 +141,7 @@ Confidence Level: High (trend/headline as characterized on air)
 Video Timestamp: 00:57:32
 Transcript Snippet: ...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um...
 Confidence: medium
-*Related: C-3679, N-3*
+*Related: C-13890, N-3*
 
 ---
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:30:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9235, N-3*
+*Related: C-13861, N-3*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:54:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9257, N-3, N-1*
+*Related: C-13888, N-3, N-1*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:51:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9254, N-3*
+*Related: C-13885, N-3*
 
 ---
 
@@ -196,7 +196,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, C-3623, C-3624, A-2476.1, A-2476.2, N-10874*
+*Related: C-13858, C-13853, C-13859, A-2476.1, A-2476.2, N-10874*
 
 ---
 
@@ -208,7 +208,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3618, N-10876*
+*Related: C-13837, N-10876*
 
 ---
 
@@ -220,7 +220,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3617, C-3629, A-2474.1, N-10875*
+*Related: C-13830, C-13884, A-2474.1, N-10875*
 
 ---
 
@@ -232,7 +232,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, N-10324, N-165*
+*Related: C-13874, N-10324, N-165*
 
 ---
 
@@ -244,7 +244,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, C-3625, A-2477.1, N-10687, N-10737*
+*Related: C-13853, C-13867, A-2477.1, N-10687, N-10737*
 
 ---
 
@@ -256,7 +256,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, C-3627, N-10324, N-10877*
+*Related: C-13874, C-13875, N-10324, N-10877*
 
 ---
 
@@ -268,7 +268,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3620, N-213*
+*Related: C-13836, N-213*
 
 ---
 
@@ -316,7 +316,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, N-10324*
+*Related: C-13874, N-10324*
 
 ---
 
@@ -328,7 +328,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3619*
+*Related: C-13834*
 
 ---
 
@@ -340,7 +340,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-7*
+*Related: C-13853, N-7*
 
 ---
 
@@ -352,7 +352,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-10699, N-10737*
+*Related: C-13853, N-10699, N-10737*
 
 ---
 
@@ -364,7 +364,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3625, A-2477.1*
+*Related: C-13867, A-2477.1*
 
 ---
 
@@ -376,7 +376,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3625, A-2477.1, N-10839*
+*Related: C-13867, A-2477.1, N-10839*
 
 ---
 
@@ -388,7 +388,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3629, A-2480.1, N-10879*
+*Related: C-13884, A-2480.1, N-10879*
 
 ---
 
@@ -413,7 +413,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, A-2476.1*
+*Related: C-13858, A-2476.1*
 
 ---
 
@@ -426,7 +426,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, A-2476.1*
+*Related: C-13858, A-2476.1*
 
 ---
 
@@ -451,7 +451,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3626, C-3627, N-10877*
+*Related: C-13874, C-13875, N-10877*
 
 ---
 
@@ -463,19 +463,19 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3620, N-213, N-10666*
+*Related: C-13836, N-213, N-10666*
 
 ---
 
 **N-10666** Nick Shirley Background and Backing Verification
 
-Companion Shirley investigation target reused with C-3620.
+Companion Shirley investigation target reused with C-13836.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3620, N-213*
+*Related: C-13836, N-213*
 
 ---
 
@@ -487,7 +487,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-7*
+*Related: C-13853, N-7*
 
 ---
 
@@ -499,7 +499,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-266, N-7*
+*Related: C-13853, N-266, N-7*
 
 ---
 
@@ -511,7 +511,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3623, N-10874*
+*Related: C-13853, N-10874*
 
 ---
 
@@ -523,7 +523,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, C-3625, A-2476.1, N-10874*
+*Related: C-13858, C-13867, A-2476.1, N-10874*
 
 ---
 
@@ -535,7 +535,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3622, N-8, N-10*
+*Related: C-13858, N-8, N-10*
 
 ---
 
@@ -547,7 +547,7 @@ Evidence Count: (series-level)
 Claim Count: (series-level)
 Episode Count: (series-level)
 
-*Related: C-3617, N-10875*
+*Related: C-13830, N-10875*
 
 ---
 
@@ -572,7 +572,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3622, C-3623, C-3624, A-2476.1, A-2476.2, N-10839, N-1*
+*Related: C-13858, C-13853, C-13859, A-2476.1, A-2476.2, N-10839, N-1*
 
 ---
 
@@ -585,7 +585,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3617, A-2474.1, N-3, N-262, N-10867*
+*Related: C-13830, A-2474.1, N-3, N-262, N-10867*
 
 ---
 
@@ -598,7 +598,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3618, C-3621, A-2475.1, N-202, N-206, N-2*
+*Related: C-13837, C-13845, A-2475.1, N-202, N-206, N-2*
 
 ---
 
@@ -611,7 +611,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: C-3626, C-3627, A-2478.1, N-165, N-172, N-9, N-10324*
+*Related: C-13874, C-13875, A-2478.1, N-165, N-172, N-9, N-10324*
 
 ---
 
@@ -624,7 +624,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-3628, A-2479.1, N-177, N-194*
+*Related: C-13881, A-2479.1, N-177, N-194*
 
 ---
 
@@ -637,7 +637,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-3629, A-2480.1, N-330, N-3*
+*Related: C-13884, A-2480.1, N-330, N-3*
 
 ---
 
@@ -646,7 +646,7 @@ Investigative Pressure: Medium
 Node Type: Person
 U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andriesz flagged his Epstein island visits and a 2018 startup email chain with Epstein.
 
-*Related: C-3626, C-3627, A-2478.1, N-10877, N-9*
+*Related: C-13874, C-13875, A-2478.1, N-10877, N-9*
 
 ---
 
@@ -655,7 +655,7 @@ U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon 
 Node Type: Person
 Former British banker / BGC managing director reported dead after whistleblowing on Lutnick-Epstein links; host cites BBC attribution and a suicide narrative she calls remarkably suspicious.
 
-*Related: C-3626, C-3627, A-2478.1, N-10877, N-165*
+*Related: C-13874, C-13875, A-2478.1, N-10877, N-165*
 
 ---
 
@@ -664,7 +664,7 @@ Former British banker / BGC managing director reported dead after whistleblowing
 Node Type: Person
 Country singer who (per host) wore Free Palestine shirts with his band for two Gillette Stadium nights and broke the attendance record previously held by Ed Sheeran.
 
-*Related: C-3628, A-2479.1, N-10878*
+*Related: C-13881, A-2479.1, N-10878*
 
 ---
 
@@ -673,7 +673,7 @@ Country singer who (per host) wore Free Palestine shirts with his band for two G
 Node Type: Person
 Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights.
 
-*Related: C-3628, A-2479.1, N-10878*
+*Related: C-13881, A-2479.1, N-10878*
 
 ---
 
@@ -682,7 +682,7 @@ Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine
 Node Type: Person
 Mother whose case the host says seeded the current killer-mom algorithm push; she notes she did not follow the case closely and treats the surrounding TikTok empathy clips as SCOP bait.
 
-*Related: C-3618, C-3621, A-2475.1, N-10876*
+*Related: C-13837, C-13845, A-2475.1, N-10876*
 
 ---
 
@@ -691,7 +691,7 @@ Mother whose case the host says seeded the current killer-mom algorithm push; sh
 Node Type: Person
 U.S. Representative shown on air pushing killer-mom epidemic framing in clips and tweets; host notes her AIPAC funding and Israel loyalty as context for SCOP intent.
 
-*Related: C-3618, C-3621, A-2475.1, N-10876*
+*Related: C-13837, C-13845, A-2475.1, N-10876*
 
 ---
 
@@ -700,7 +700,7 @@ U.S. Representative shown on air pushing killer-mom epidemic framing in clips an
 Node Type: Person
 Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10559 / N-10666.
 
-*Related: C-3620, N-10559, N-10666, N-14*
+*Related: C-13836, N-10559, N-10666, N-14*
 
 ---
 
@@ -709,7 +709,7 @@ Independent journalist; host revisits him as relatively unknown figure pushed on
 Node Type: Person
 Podcast host of the Frank Turek interview clip in which Turek recounts confronting Jeff Long about roof coverage.
 
-*Related: C-3625, A-2477.1, N-7*
+*Related: C-13867, A-2477.1, N-7*
 
 ---
 
@@ -718,7 +718,7 @@ Podcast host of the Frank Turek interview clip in which Turek recounts confronti
 Node Type: Person
 Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo.
 
-*Related: C-3619*
+*Related: C-13834*
 
 ---
 
@@ -727,7 +727,7 @@ Named by investigators as the lone Las Vegas 2017 gunman who died by suicide bef
 Node Type: Person
 Subject of the New York Times MeToo explosion the host says displaced Las Vegas coverage within five days of the shooting.
 
-*Related: C-3619*
+*Related: C-13834*
 
 ---
 
@@ -736,7 +736,7 @@ Subject of the New York Times MeToo explosion the host says displaced Las Vegas 
 Node Type: Person
 X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter.
 
-*Related: C-3617, A-2474.1, N-10875*
+*Related: C-13830, A-2474.1, N-10875*
 
 ---
 
@@ -744,7 +744,7 @@ X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland at
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9225*
+*Related: C-13848*
 
 ---
 
@@ -752,7 +752,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9222*
+*Related: C-13844*
 
 ---
 
@@ -760,7 +760,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9212*
+*Related: C-13831*
 
 ---
 
@@ -768,7 +768,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9256*
+*Related: C-13887*
 
 ---
 
@@ -776,7 +776,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9237, C-9239, C-9240, C-9244, C-9245*
+*Related: C-13863, C-13865, C-13866, C-13871, C-13872*
 
 ---
 
@@ -784,7 +784,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9215, C-9222, C-9250*
+*Related: C-13835, C-13844, C-13879*
 
 ---
 
@@ -792,7 +792,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9216, C-9220, C-9221, C-9224*
+*Related: C-13838, C-13842, C-13843, C-13847*
 
 ---
 
@@ -800,7 +800,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9224*
+*Related: C-13847*
 
 ---
 
@@ -808,7 +808,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9227*
+*Related: C-13849*
 
 ---
 
@@ -816,7 +816,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9236*
+*Related: C-13862*
 
 ---
 
@@ -824,7 +824,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9215*
+*Related: C-13835*
 
 ---
 
@@ -832,7 +832,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9216*
+*Related: C-13838*
 
 ---
 
@@ -840,7 +840,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9225*
+*Related: C-13848*
 
 ---
 
@@ -848,7 +848,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9243, C-9245*
+*Related: C-13870, C-13872*
 
 ---
 
@@ -856,7 +856,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9240, C-9241, C-9242*
+*Related: C-13866, C-13868, C-13869*
 
 ---
 
@@ -864,7 +864,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9233*
+*Related: C-13857*
 
 ---
 
@@ -872,7 +872,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9256*
+*Related: C-13887*
 
 ---
 
@@ -880,7 +880,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9215, C-9254*
+*Related: C-13835, C-13885*
 
 ---
 
@@ -888,7 +888,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9229, C-9256*
+*Related: C-13852, C-13887*
 
 ---
 
@@ -896,7 +896,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9218, C-9222*
+*Related: C-13840, C-13844*
 
 ---
 
@@ -904,7 +904,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9229*
+*Related: C-13852*
 
 ---
 
@@ -912,7 +912,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9246*
+*Related: C-13873*
 
 ---
 
@@ -920,7 +920,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9221*
+*Related: C-13843*
 
 ---
 
@@ -928,7 +928,7 @@ Reused node cited by new claims in this episode.
 
 Reused node cited by new claims in this episode.
 
-*Related: C-9221*
+*Related: C-13843*
 
 ---
 
@@ -938,7 +938,7 @@ Node Type: Person
 First named by the host at 00:44:26 in episode 160 (spelled Macklemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.
 Aliases: Macklemore
 
-*Related: C-9252*
+*Related: C-13882*
 
 ---
 
@@ -947,7 +947,7 @@ Aliases: Macklemore
 Node Type: Person
 First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.
 
-*Related: C-9252*
+*Related: C-13882*
 
 ---
 
@@ -956,7 +956,7 @@ First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadiu
 Node Type: Organization
 X account the host says amplified the killer-mom narrative and calls an Israel operative; she reads one of its posts about a South Carolina infant death.
 
-*Related: C-9219, C-9220*
+*Related: C-13841, C-13842*
 
 ---
 
@@ -965,7 +965,7 @@ X account the host says amplified the killer-mom narrative and calls an Israel o
 Node Type: Topic
 Viewer conspiracies about a different fire captain who perished with his whole family in a flash flood and worked with Provo EMS, which the host says she has seen no evidence tying to the Kirk case.
 
-*Related: C-9236*
+*Related: C-13862*
 
 ---
 
@@ -974,7 +974,7 @@ Viewer conspiracies about a different fire captain who perished with his whole f
 Node Type: Topic
 The host's account, from the UVU review, that the TPUSA security team did not contact police, headquarters withheld the ticket count and gave a wrong attendance figure, and the indoor suggestion was ignored.
 
-*Related: C-9237, C-9238, C-9239, C-9244*
+*Related: C-13863, C-13864, C-13865, C-13871*
 
 ---
 
@@ -983,13 +983,13 @@ The host's account, from the UVU review, that the TPUSA security team did not co
 Node Type: Topic
 Claim that Candace Owens and Charlie Kirk unfollowed each other over a rift, which the host says was a book announcement.
 
-*Related: C-9257*
+*Related: C-13888*
 
 ---
 
 ## 5. Claim Register
 
-**C-3617** Lisa Nose tweet alleges Candace houses illegal nannies under NDA
+**C-13830** Lisa Nose tweet alleges Candace houses illegal nannies under NDA
 
 Claim Timestamp: 00:01:13
 Claim: On air the host reads a Lisa Nose X post saying Candace Owens is rumored to have two nannies per child (eight in total) living in a second mansion, that it has been reported she hires nannies who are in the country illegally via an elite Jewish nanny agency and underpays them, and that they have all signed NDAs so cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose independently confirmed via three people who know Candace.
@@ -1000,7 +1000,7 @@ Investigative Direction: Preserve the original Nose and Kraus posts; seek any pr
 
 ---
 
-**C-3618** Host frames killer-mom narrative as SCOP aimed at internet regulation
+**C-13837** Host frames killer-mom narrative as SCOP aimed at internet regulation
 
 Claim Timestamp: 00:09:26
 Claim: The host argues the Lindsay Clancy-seeded, Nancy Mace / New York Post / Libs of TikTok amplified killer-mom panic is an intentional SCOP that neocons link to women who distrust Erika Kirk, and that its purpose is to justify regulating the internet after bots failed to move the public off Charlie Kirk.
@@ -1011,7 +1011,7 @@ Investigative Direction: Map amplification graphs (Mace, NY Post, Libs) against 
 
 ---
 
-**C-3619** Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein
+**C-13834** Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein
 
 Claim Timestamp: 00:05:42
 Claim: The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Stephen Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here.
@@ -1021,7 +1021,7 @@ Investigative Direction: Verify the five-day media-shift claim against contempor
 
 ---
 
-**C-3620** Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest
+**C-13836** Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest
 
 Claim Timestamp: 00:08:23
 Claim: The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, also goes to Brazil (which she says she will not get into), and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter.
@@ -1032,7 +1032,7 @@ Investigative Direction: Confirm Shirley appearance date/booking chain on Charli
 
 ---
 
-**C-3621** U.S. filicide is rare and majority male; epidemic framing lacks statistical basis
+**C-13845** U.S. filicide is rare and majority male; epidemic framing lacks statistical basis
 
 Claim Timestamp: 00:15:48
 Claim: The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality.
@@ -1043,7 +1043,7 @@ Investigative Direction: Pull the NIH / official filicide statistics she paraphr
 
 ---
 
-**C-3622** UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed
+**C-13858** UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed
 
 Claim Timestamp: 00:25:48
 Claim: The host reads the UVU independent review stating that Station 3 personnel radioed that their truck had passed near the TPUSA security team's SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.
@@ -1054,7 +1054,7 @@ Investigative Direction: Identify Station 2 captain on duty 2025-09-10 via offic
 
 ---
 
-**C-3623** Neither Turek nor Harpole mentions a fire captain performing CPR
+**C-13853** Neither Turek nor Harpole mentions a fire captain performing CPR
 
 Claim Timestamp: 00:22:00
 Claim: Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text.
@@ -1065,7 +1065,7 @@ Investigative Direction: Align Turek, Harpole, and review timelines minute-by-mi
 
 ---
 
-**C-3624** Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30
+**C-13859** Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30
 
 Claim Timestamp: 00:27:16
 Claim: The host plays fire dispatch audio she times around 12:30 p.m. in which ladder 33 and engine 34 are redirected toward Timpanogos, after radio traffic describing a black SUV with a person hanging out, which she presents as corroboration of the review's Station 2/3 reroute narrative.
@@ -1076,7 +1076,7 @@ Investigative Direction: Obtain original Provo/Orem dispatch recordings and unit
 
 ---
 
-**C-3625** Turek on Tatum podcast doubles down that Jeff Long had the roofs after the review
+**C-13867** Turek on Tatum podcast doubles down that Jeff Long had the roofs after the review
 
 Claim Timestamp: 00:35:11
 Claim: In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a Dan Flood text ("I got you covered") as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.
@@ -1087,7 +1087,7 @@ Investigative Direction: Preserve full Tatum interview; compare Turek's roofs cl
 
 ---
 
-**C-3626** Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties
+**C-13874** Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties
 
 Claim Timestamp: 00:40:26
 Claim: The host reports that former British banker and BGC Group managing director Simon Andriesz, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files.
@@ -1098,7 +1098,7 @@ Investigative Direction: Verify Andre identity, death circumstances, and BBC rep
 
 ---
 
-**C-3627** Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain
+**C-13875** Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain
 
 Claim Timestamp: 00:41:13
 Claim: Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andriesz said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction.
@@ -1109,7 +1109,7 @@ Investigative Direction: Locate the BBC interview/article and any produced email
 
 ---
 
-**C-3628** Zach Bryan Free Palestine shirts and Gillette attendance record
+**C-13881** Zach Bryan Free Palestine shirts and Gillette attendance record
 
 Claim Timestamp: 00:45:05
 Claim: The host says after Robert Kraft canceled Macklemore from performing at Kraft's Gillette Stadium for saying Free Palestine, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.
@@ -1120,7 +1120,7 @@ Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, 
 
 ---
 
-**C-3629** Baron Coleman faces X attacks after Candace announces him as guest host
+**C-13884** Baron Coleman faces X attacks after Candace announces him as guest host
 
 Claim Timestamp: 00:47:22
 Claim: After announcing Baron Coleman would take over her show during maternity leave, the host says critics immediately dug up 20-year-old interviews and trended lines casting him as abusive, with headlines such as "Baron Coleman faces online criticism before guest spot on Candace Owens," which she frames as an attempt to get him dropped.
@@ -1131,7 +1131,7 @@ Investigative Direction: Archive the trend posts and primary interview clips bei
 
 ---
 
-**C-3678** Host identifies show community as Decentralized Intelligence Agency
+**C-13889** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:57:32
 Claim: The host says the decentralized intelligence agency is the people behind her tip lines who have allowed the investigation to stay alive.
@@ -1144,7 +1144,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3679** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-13890** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 00:57:32
 Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
@@ -1157,7 +1157,7 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 ---
 
-**C-9211** Host says the narrative flood is meant to distract from the UVU independent review
+**C-13829** Host says the narrative flood is meant to distract from the UVU independent review
 
 Claim Timestamp: 00:00:01
 
@@ -1168,13 +1168,13 @@ Transcript Snippet: there is a SCOP that is taking place. You may not be aware o
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10839, N-10876
-Supports: C-3618
+Supports: C-13837
 Tags: relevance:core
 Investigative Direction: Compare the timing of each pushed narrative against the release dates of the UVU review and Epstein-file news.
 
 ---
 
-**C-9212** Nose post says Laura Loomer reported a second Owens mansion
+**C-13831** Nose post says Laura Loomer reported a second Owens mansion
 
 Claim Timestamp: 00:01:13
 
@@ -1190,7 +1190,7 @@ Investigative Direction: Locate any Loomer post or report about a second Owens p
 
 ---
 
-**C-9213** Host says a rumor alleges she paid off a DUI crash victim for under $5,000
+**C-13832** Host says a rumor alleges she paid off a DUI crash victim for under $5,000
 
 Claim Timestamp: 00:02:25
 
@@ -1206,7 +1206,7 @@ Investigative Direction: Find the original posts making the DUI payoff allegatio
 
 ---
 
-**C-9214** Host says the media has worked with the state at least since the JFK assassination
+**C-13833** Host says the media has worked with the state at least since the JFK assassination
 
 Claim Timestamp: 00:03:51
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Primary sources on media and intelligence-agency relati
 
 ---
 
-**C-9215** Host says the Las Vegas shooting appeared to be a CIA Mossad operation
+**C-13835** Host says the Las Vegas shooting appeared to be a CIA Mossad operation
 
 Claim Timestamp: 00:07:18
 
@@ -1233,13 +1233,13 @@ Transcript Snippet: within five days nobody was speaking about the Las Vegas sho
 Anchored Artifacts: 
 Mentions: N-3, N-226
 Related Nodes: N-10887, N-10015, N-10082
-Supports: C-3619
+Supports: C-13834
 Tags: relevance:tangential
 Investigative Direction: Identify what evidence, if any, the host relies on for CIA or Mossad involvement in the 2017 Las Vegas shooting.
 
 ---
 
-**C-9216** Host says Nancy Mace has accepted over six figures from AIPAC
+**C-13838** Host says Nancy Mace has accepted over six figures from AIPAC
 
 Claim Timestamp: 00:11:25
 
@@ -1255,7 +1255,7 @@ Investigative Direction: Check FEC and OpenSecrets records for AIPAC-linked cont
 
 ---
 
-**C-9217** Mace says in a clip that she does not know why moms are trying to kill their kids
+**C-13839** Mace says in a clip that she does not know why moms are trying to kill their kids
 
 Claim Timestamp: 00:12:36
 
@@ -1266,13 +1266,13 @@ Transcript Snippet: I just don't know why all these moms are trying to kill thei
 Anchored Artifacts: A-2475.1
 Mentions: N-206
 Related Nodes: N-10876
-Supports: C-3618
+Supports: C-13837
 Tags: relevance:tangential
 Investigative Direction: Locate the original Mace interview and confirm the exact wording and date of the clip.
 
 ---
 
-**C-9218** Mace tweets describe a mother stabbing her kids 50 times and suggest a firing-squad exception
+**C-13840** Mace tweets describe a mother stabbing her kids 50 times and suggest a firing-squad exception
 
 Claim Timestamp: 00:13:54
 
@@ -1288,7 +1288,7 @@ Investigative Direction: Pull the Mace posts and the New York Post stories to co
 
 ---
 
-**C-9219** Libs of TikTok post links a South Carolina infant death to Lindsay Clancy fans
+**C-13841** Libs of TikTok post links a South Carolina infant death to Lindsay Clancy fans
 
 Claim Timestamp: 00:13:54
 
@@ -1304,7 +1304,7 @@ Investigative Direction: Retrieve the Libs of TikTok post and the South Carolina
 
 ---
 
-**C-9220** Host calls Libs of TikTok an Israel operative flooding the zone
+**C-13842** Host calls Libs of TikTok an Israel operative flooding the zone
 
 Claim Timestamp: 00:13:54
 
@@ -1320,7 +1320,7 @@ Investigative Direction: Ask what documentation, if any, shows funding or coordi
 
 ---
 
-**C-9221** Host says Israel took over TikTok through Zionist investors
+**C-13843** Host says Israel took over TikTok through Zionist investors
 
 Claim Timestamp: 00:14:50
 
@@ -1331,13 +1331,13 @@ Transcript Snippet: We all know Israel took over Tik Tok. That was very, that wa
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-11103, N-11096, N-10026
-Supports: C-6504
+Supports: C-1394
 Tags: relevance:tangential
 Investigative Direction: Review the TikTok divestiture ownership filings and investor list.
 
 ---
 
-**C-9222** Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage
+**C-13844** Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage
 
 Claim Timestamp: 00:14:50
 
@@ -1353,7 +1353,7 @@ Investigative Direction: Review the New York Post's Epstein and Maxwell coverage
 
 ---
 
-**C-9223** Host says men kill older children and whole households while women kill under-fives
+**C-13846** Host says men kill older children and whole households while women kill under-fives
 
 Claim Timestamp: 00:17:01
 
@@ -1364,13 +1364,13 @@ Transcript Snippet: Men are more likely to kill the child if the child is over 5
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10876
-Supports: C-3621
+Supports: C-13845
 Tags: relevance:context
 Investigative Direction: Check filicide studies by offender sex and victim age against the host's statement.
 
 ---
 
-**C-9224** Host says the same promoters ignored Charlie abandoning the pro-Israel cause before his death
+**C-13847** Host says the same promoters ignored Charlie abandoning the pro-Israel cause before his death
 
 Claim Timestamp: 00:17:59
 
@@ -1381,13 +1381,13 @@ Transcript Snippet: The same people who were not at all curious about Charlie ha
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10056, N-10026
-Supports: C-7622
+Supports: C-12560
 Tags: relevance:core
 Investigative Direction: Obtain the donor texts and messages the host has cited about Charlie leaving the pro-Israel cause.
 
 ---
 
-**C-9225** Host says evidence of Tyler Robinson's guilt is virtually non-existent
+**C-13848** Host says evidence of Tyler Robinson's guilt is virtually non-existent
 
 Claim Timestamp: 00:17:59
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Compare the prosecution's evidence list at the prelimin
 
 ---
 
-**C-9226** Host says the left and right sensed something off with the widow, the administration and the fireworks
+**C-13850** Host says the left and right sensed something off with the widow, the administration and the fireworks
 
 Claim Timestamp: 00:19:47
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Collect early public reaction posts from the days after
 
 ---
 
-**C-9227** Host says the internet push follows the Pentagon's failure to cover its tracks on the assassination
+**C-13849** Host says the internet push follows the Pentagon's failure to cover its tracks on the assassination
 
 Claim Timestamp: 00:19:23
 
@@ -1430,13 +1430,13 @@ Transcript Snippet: because of the failure, the astonishing failure of the Penta
 Anchored Artifacts: 
 Mentions: N-1, N-2
 Related Nodes: N-10064, N-10876
-Supports: C-3618
+Supports: C-13837
 Tags: relevance:core
 Investigative Direction: Ask which record would show Pentagon involvement in the case and what the host means by covering tracks.
 
 ---
 
-**C-9228** Host says her reporting presented discrepancies, a timeline and photos of the transport car
+**C-13851** Host says her reporting presented discrepancies, a timeline and photos of the transport car
 
 Claim Timestamp: 00:20:11
 
@@ -1452,7 +1452,7 @@ Investigative Direction: Index the earlier episodes where the car photos and tou
 
 ---
 
-**C-9229** Host says the Department of War controls the algorithm and runs bots against her
+**C-13852** Host says the Department of War controls the algorithm and runs bots against her
 
 Claim Timestamp: 00:20:11
 
@@ -1468,7 +1468,7 @@ Investigative Direction: Request platform data on coordinated inauthentic activi
 
 ---
 
-**C-9230** Host says the intensity of last week's attacks was a reaction to the UVU review
+**C-13854** Host says the intensity of last week's attacks was a reaction to the UVU review
 
 Claim Timestamp: 00:22:00
 
@@ -1484,7 +1484,7 @@ Investigative Direction: Map attack posts against the review's release date.
 
 ---
 
-**C-9231** Host says Harpole's account has no CPR in the car or anywhere else
+**C-13855** Host says Harpole's account has no CPR in the car or anywhere else
 
 Claim Timestamp: 00:22:00
 
@@ -1495,14 +1495,14 @@ Transcript Snippet: Brian Harpole said that um CPR actually was not administered
 Anchored Artifacts: A-2476.1
 Mentions: N-266
 Related Nodes: N-10699, N-10737
-Supports: C-3547
-Contradicts: C-3622
+Supports: C-12856
+Contradicts: C-13858
 Tags: relevance:core
 Investigative Direction: Re-listen to the Harpole interview to check whether he excluded hospital CPR or only CPR in the car.
 
 ---
 
-**C-9232** Host summarizes Harpole's hospital actions: gurney, shirt cut, defibrillator, door guard
+**C-13856** Host summarizes Harpole's hospital actions: gurney, shirt cut, defibrillator, door guard
 
 Claim Timestamp: 00:22:00
 
@@ -1518,7 +1518,7 @@ Investigative Direction: Compare Harpole's interview wording with hospital staff
 
 ---
 
-**C-9233** Host says the Turek and Harpole stories assume Turek was FaceTiming Jack Hibbs
+**C-13857** Host says the Turek and Harpole stories assume Turek was FaceTiming Jack Hibbs
 
 Claim Timestamp: 00:22:00
 
@@ -1529,13 +1529,13 @@ Transcript Snippet: We are to assume that Frank was facetiming Jack Hibbs on the
 Anchored Artifacts: 
 Mentions: N-7, N-208, N-266
 Related Nodes: N-10730
-Supports: C-7630
+Supports: C-12569
 Tags: relevance:core
 Investigative Direction: Obtain Hibbs and Turek call logs and any recording of the FaceTime.
 
 ---
 
-**C-9234** Dispatch audio says officers were en route to the hospital with the victim
+**C-13860** Dispatch audio says officers were en route to the hospital with the victim
 
 Claim Timestamp: 00:29:07
 
@@ -1551,7 +1551,7 @@ Investigative Direction: Obtain the full dispatch log and audio from the dispatc
 
 ---
 
-**C-9235** Host asks for tips on the fire captain at moretips@candaceowens.com
+**C-13861** Host asks for tips on the fire captain at moretips@candaceowens.com
 
 Claim Timestamp: 00:30:30
 
@@ -1567,7 +1567,7 @@ Investigative Direction: Review incoming tips for roster or dispatch records nam
 
 ---
 
-**C-9236** Host says a different fire captain died in a flash flood and worked with Provo EMS
+**C-13862** Host says a different fire captain died in a flash flood and worked with Provo EMS
 
 Claim Timestamp: 00:30:30
 
@@ -1583,7 +1583,7 @@ Investigative Direction: Check public records on the flood victim's employment a
 
 ---
 
-**C-9237** Host says Charlie's security team was about 13 former SEALs who did virtually nothing
+**C-13863** Host says Charlie's security team was about 13 former SEALs who did virtually nothing
 
 Claim Timestamp: 00:34:28
 
@@ -1599,7 +1599,7 @@ Investigative Direction: Obtain the TPUSA security roster and service records, a
 
 ---
 
-**C-9238** Host says the security team did not try to contact the police
+**C-13864** Host says the security team did not try to contact the police
 
 Claim Timestamp: 00:34:28
 
@@ -1615,7 +1615,7 @@ Investigative Direction: Review UVU police communication logs and the review's a
 
 ---
 
-**C-9239** Host says TPUSA headquarters did not share the ticket count
+**C-13865** Host says TPUSA headquarters did not share the ticket count
 
 Claim Timestamp: 00:34:28
 
@@ -1626,13 +1626,13 @@ Transcript Snippet: And then of course we learned that headquarters was not shar
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-11215, N-10839, N-10000
-Supports: C-3591
+Supports: C-13551
 Tags: relevance:core
 Investigative Direction: Check the review's ticketing and crowd-estimate exchange between TPUSA and UVUPD.
 
 ---
 
-**C-9240** Host says Turning Point is shifting blame to Chief Jeff Long
+**C-13866** Host says Turning Point is shifting blame to Chief Jeff Long
 
 Claim Timestamp: 00:34:28
 
@@ -1643,13 +1643,13 @@ Transcript Snippet: how despicable it is that Turning Point has been trying to s
 Anchored Artifacts: 
 Mentions: N-271
 Related Nodes: N-10000, N-10646
-Supports: C-4942
+Supports: C-3012
 Tags: relevance:core
 Investigative Direction: Compile TPUSA statements blaming Long and compare with the review findings.
 
 ---
 
-**C-9241** Turek relays Long saying he only covered the bridge roof above
+**C-13868** Turek relays Long saying he only covered the bridge roof above
 
 Claim Timestamp: 00:36:45
 
@@ -1660,13 +1660,13 @@ Transcript Snippet: Well, that bridge that was above you, that roof above, we ha
 Anchored Artifacts: A-2477.1
 Mentions: N-7, N-271, N-1
 Related Nodes: N-10646
-Supports: C-3472
+Supports: C-13235
 Tags: relevance:core
 Investigative Direction: Compare with the actual Flood and Long text thread and the review's rooftop findings.
 
 ---
 
-**C-9242** Turek relays Long saying Charlie's team should have arrived the day before
+**C-13869** Turek relays Long saying Charlie's team should have arrived the day before
 
 Claim Timestamp: 00:36:45
 
@@ -1682,7 +1682,7 @@ Investigative Direction: Check the team's actual arrival and advance-visit timel
 
 ---
 
-**C-9243** Turek says he told Charlie he disliked the venue because of the many buildings
+**C-13870** Turek says he told Charlie he disliked the venue because of the many buildings
 
 Claim Timestamp: 00:36:45
 
@@ -1698,7 +1698,7 @@ Investigative Direction: Ask whether any pre-event message or witness confirms T
 
 ---
 
-**C-9244** Host says TPUSA gave UVU the exact wrong attendance number
+**C-13871** Host says TPUSA gave UVU the exact wrong attendance number
 
 Claim Timestamp: 00:38:36
 
@@ -1709,13 +1709,13 @@ Transcript Snippet: They did not communicate to them how many people were going 
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-11215, N-10000, N-10839
-Supports: C-6178
+Supports: C-13528
 Tags: relevance:core
 Investigative Direction: Locate the attendance figures TPUSA gave UVUPD and compare with actual attendance.
 
 ---
 
-**C-9245** Host says TPUSA ignored UVU's suggestion to hold the event indoors
+**C-13872** Host says TPUSA ignored UVU's suggestion to hold the event indoors
 
 Claim Timestamp: 00:38:36
 
@@ -1731,7 +1731,7 @@ Investigative Direction: Check the review's venue-recommendation exchange.
 
 ---
 
-**C-9246** Host says Turek repeats talking points tied to the Kirk family's intent to sue
+**C-13873** Host says Turek repeats talking points tied to the Kirk family's intent to sue
 
 Claim Timestamp: 00:39:39
 
@@ -1747,7 +1747,7 @@ Investigative Direction: Compare Turek's statements with the language of the not
 
 ---
 
-**C-9247** Host says Andre alleged money laundering at the firm
+**C-13876** Host says Andre alleged money laundering at the firm
 
 Claim Timestamp: 00:41:13
 
@@ -1763,7 +1763,7 @@ Investigative Direction: Locate Andre's whistleblower filings and public stateme
 
 ---
 
-**C-9248** Host says Lutnick first denied ever visiting Epstein's island and later admitted it
+**C-13877** Host says Lutnick first denied ever visiting Epstein's island and later admitted it
 
 Claim Timestamp: 00:41:13
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Collect Lutnick's dated statements on the island visit 
 
 ---
 
-**C-9249** Host says Bondi claimed releasing the Epstein files would cause global economic catastrophe
+**C-13878** Host says Bondi claimed releasing the Epstein files would cause global economic catastrophe
 
 Claim Timestamp: 00:43:00
 
@@ -1795,7 +1795,7 @@ Investigative Direction: Find Bondi's original remarks and context.
 
 ---
 
-**C-9250** Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming
+**C-13879** Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming
 
 Claim Timestamp: 00:43:00
 
@@ -1811,7 +1811,7 @@ Investigative Direction: Ask what documents the host relies on for this speculat
 
 ---
 
-**C-9251** Host says Trump wanted the audience to move on from Epstein
+**C-13880** Host says Trump wanted the audience to move on from Epstein
 
 Claim Timestamp: 00:43:52
 
@@ -1827,7 +1827,7 @@ Investigative Direction: Collect Trump's dated statements telling supporters to 
 
 ---
 
-**C-9252** Host says Sheeran offered Macklemore the opening slot knowing he would raise causes
+**C-13882** Host says Sheeran offered Macklemore the opening slot knowing he would raise causes
 
 Claim Timestamp: 00:45:05
 
@@ -1838,13 +1838,13 @@ Transcript Snippet: Ed Sheeran knew what he was getting into when he offered for
 Anchored Artifacts: 
 Mentions: N-833, N-834
 Related Nodes: N-10878
-Supports: C-3458
+Supports: C-13157
 Tags: relevance:tangential
 Investigative Direction: Verify the booking announcement and Macklemore's remarks.
 
 ---
 
-**C-9253** Host says Robert Kraft got a case dropped on a technicality
+**C-13883** Host says Robert Kraft got a case dropped on a technicality
 
 Claim Timestamp: 00:45:05
 
@@ -1860,7 +1860,7 @@ Investigative Direction: Check the Florida court record for the dismissed case.
 
 ---
 
-**C-9254** Host says a producer found an article on the economics of smearing and wonders about Vegas money
+**C-13885** Host says a producer found an article on the economics of smearing and wonders about Vegas money
 
 Claim Timestamp: 00:51:05
 
@@ -1876,7 +1876,7 @@ Investigative Direction: Obtain the article and identify any funders it names.
 
 ---
 
-**C-9255** Host says the feds are blaming something on a black autistic kid
+**C-13886** Host says the feds are blaming something on a black autistic kid
 
 Claim Timestamp: 00:52:40
 
@@ -1892,7 +1892,7 @@ Investigative Direction: Review the charging documents and the recorded interrog
 
 ---
 
-**C-9256** Host says the Data Republican has resigned and was hired to go after her
+**C-13887** Host says the Data Republican has resigned and was hired to go after her
 
 Claim Timestamp: 00:54:01
 
@@ -1908,7 +1908,7 @@ Investigative Direction: Verify the resignation and any employer statement.
 
 ---
 
-**C-9257** Host says the Candace-Charlie unfollow was a book announcement, not a feud
+**C-13888** Host says the Candace-Charlie unfollow was a book announcement, not a feud
 
 Claim Timestamp: 00:54:40
 

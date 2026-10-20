@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-720, N-721, N-722, N-723, N-11040, N-11041, N-11042, N-11043, N-11044, N-11045, N-11046
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10): C-5572–C-5664
+  - Claim Range: C-5800–C-5905
   - New Nodes Introduced: N-499, N-500, N-501, N-10453, N-10455, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464
   - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-140, N-178, N-199, N-211, N-278, N-366, N-449, N-455, N-521, N-10000, N-10015, N-10023, N-10026, N-10048, N-10059, N-10063, N-10131, N-10204, N-10253, N-10264, N-10342, N-10410, N-10435, N-10900, N-498, N-10451, N-10454, N-10465, N-298, N-10968, N-497, N-724, N-10452, N-10456
   - Hole-minted Nodes (wave3): N-379
@@ -39,7 +39,6 @@
 
 
 - Artifact Families Introduced: A-1690, A-1691, A-1692, A-1693, A-1694, A-1695, A-1696, A-1697, A-1698, A-1699, A-1700, A-1701, A-1702, A-1703
-- Claim Range: C-2225–C-2237
 - New People Nodes Introduced: N-497, N-498, N-499, N-500, N-501, N-17, N-204
 - New Investigation Target Nodes Introduced: N-10451, N-10452, N-10453, N-10454, N-10455, N-10456, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464, N-10465
 - Existing Nodes Reused: None identified (new nodes only)
@@ -72,7 +71,7 @@ Confidence Level: High
 
 Description: Clip displayed on screen with full spoken transcript. Youssef cites 2014 figures of 88 Israelis and 2,329 Palestinians killed ("one Israeli for 27 Palestinian"), references "since the occupation of the West Bank, 7,000 Palestinians killed," and notes that "more children [were] killed from the Palestinian side" in three weeks following a ceasefire than "Israeli kids were killed all through 75 years."
 
-*Related: C-2225, C-2230, N-497, N-10453*
+*Related: C-5850, C-5873, N-497, N-10453*
 
 ---
 
@@ -88,7 +87,7 @@ Confidence Level: High
 
 Description: Audio clip played at episode opening. References Candace Owens' 2024 Anti-Semite of the Year nomination; cites Tucker Carlson as the 2025 winner; references "Miss Rachel" and "Mr. Rachel" as also being nominated.
 
-*Related: C-2226, C-2227, N-497, N-10452*
+*Related: C-5800, C-5801, N-497, N-10452*
 
 ---
 
@@ -130,7 +129,7 @@ Confidence Level: Medium
 
 Description: Second photo showing Ostrovsky with bandages. Host notes there is "not a single point like drop of blood on the bandage" and that "there's no self-respecting medic that will actually leave a face like this trench of blood" without cleaning first.
 
-*Related: C-2231, N-501, N-10458*
+*Related: C-5824, N-501, N-10458*
 
 ---
 
@@ -176,7 +175,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud. Viewer references "the suicide rate of the IDF soldiers who top themselves after fighting in Gaza."
 
-*Related: C-2228, C-2229, N-498, N-499, N-497, N-10460, N-10464*
+*Related: C-5878, C-5881, N-498, N-499, N-497, N-10460, N-10464*
 
 ---
 
@@ -192,7 +191,7 @@ Confidence Level: High
 
 Description: Youssef announces tour dates: Portland March 20, Seattle March 21, with additional cities listed (Philadelphia, DC, Houston, Atlanta). Tickets at bassymusic.xyz.
 
-*Related: C-2237, N-497, N-10459*
+*Related: C-5905, N-497, N-10459*
 
 ---
 
@@ -210,7 +209,7 @@ Description: Referenced previous episode featuring USS Liberty survivor Phil Tou
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2229, N-498, N-10464*
+*Related: C-5881, N-498, N-10464*
 
 ---
 
@@ -228,7 +227,7 @@ Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, describ
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2232, C-2233, N-500, N-10460, N-10461*
+*Related: C-5889, C-5891, N-500, N-10460, N-10461*
 
 ---
 
@@ -246,7 +245,7 @@ Description: Referenced documentary clip showing pastors telling children "Jews 
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2234, N-10454, N-10462*
+*Related: C-5826, N-10454, N-10462*
 
 ---
 
@@ -345,7 +344,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5582, C-5583, C-5584, C-5585, N-498, N-3, N-10451, N-10900*
+*Related: C-5812, C-5813, C-5814, C-5815, N-498, N-3, N-10451, N-10900*
 
 ---
 
@@ -358,7 +357,7 @@ Video Timestamp: 00:10:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5586, N-455, N-10026*
+*Related: C-5816, N-455, N-10026*
 
 ---
 
@@ -369,7 +368,7 @@ Video Timestamp: 00:10:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5587, N-10026*
+*Related: C-5817, N-10026*
 
 ---
 
@@ -382,7 +381,7 @@ Video Timestamp: 00:31:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5606, C-5607, N-2, N-3, N-10000, N-11044*
+*Related: C-5839, C-5840, N-2, N-3, N-10000, N-11044*
 
 ---
 
@@ -395,7 +394,7 @@ Video Timestamp: 00:27:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5601, N-497, N-1, N-10063*
+*Related: C-5833, N-497, N-1, N-10063*
 
 ---
 
@@ -406,7 +405,7 @@ Video Timestamp: 00:27:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5602, C-5603, N-497, N-1, N-14, N-10455*
+*Related: C-5834, C-5835, N-497, N-1, N-14, N-10455*
 
 ---
 
@@ -419,7 +418,7 @@ Video Timestamp: 00:38:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5614, C-5647, N-199, N-3, N-11045*
+*Related: C-5847, C-5885, N-199, N-3, N-11045*
 
 ---
 
@@ -432,7 +431,7 @@ Video Timestamp: 01:08:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5635, C-5636, N-1, N-3, N-10253, N-10204*
+*Related: C-5869, C-5870, N-1, N-3, N-10253, N-10204*
 
 ---
 
@@ -445,7 +444,7 @@ Video Timestamp: 01:32:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5654, C-5655, C-5656, N-3, N-722, N-497, N-10900*
+*Related: C-5894, C-5895, C-5896, N-3, N-722, N-497, N-10900*
 
 ---
 
@@ -458,7 +457,7 @@ Video Timestamp: 01:39:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5658, C-5659, N-3, N-449, N-10410, N-10435*
+*Related: C-5898, C-5899, N-3, N-449, N-10410, N-10435*
 
 ---
 
@@ -481,7 +480,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1690.1, A-1691.1, A-1694.3, A-1695.1, C-2225, C-2230, C-2237, N-10452, N-10453*
+*Related: A-1690.1, A-1691.1, A-1694.3, A-1695.1, C-5850, C-5873, C-5905, N-10452, N-10453*
 
 ---
 
@@ -494,7 +493,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1696.1, A-1694.2, C-2229, N-10451, N-10464*
+*Related: A-1696.1, A-1694.2, C-5881, N-10451, N-10464*
 
 ---
 
@@ -507,7 +506,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1694.1, C-2228, N-10451*
+*Related: A-1694.1, C-5878, N-10451*
 
 ---
 
@@ -520,7 +519,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1697.1, C-2232, C-2233, N-10460, N-10461*
+*Related: A-1697.1, C-5889, C-5891, N-10460, N-10461*
 
 ---
 
@@ -533,7 +532,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1693.1, A-1693.2, C-2231, N-10458*
+*Related: A-1693.1, A-1693.2, C-5824, N-10458*
 
 ---
 
@@ -559,7 +558,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1690.1, C-2225, N-497*
+*Related: A-1690.1, C-5850, N-497*
 
 ---
 
@@ -572,7 +571,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1694.1, A-1696.1, A-1697.1, C-2228, C-2229, N-498, N-499*
+*Related: A-1694.1, A-1696.1, A-1697.1, C-5878, C-5881, N-498, N-499*
 
 ---
 
@@ -585,7 +584,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1691.1, C-2226, C-2227, N-497*
+*Related: A-1691.1, C-5800, C-5801, N-497*
 
 ---
 
@@ -598,7 +597,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1690.1, C-2225, N-497, N-204*
+*Related: A-1690.1, C-5850, N-497, N-204*
 
 ---
 
@@ -663,7 +662,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1693.1, A-1693.2, C-2231, N-501*
+*Related: A-1693.1, A-1693.2, C-5824, N-501*
 
 ---
 
@@ -676,7 +675,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1695.1, C-2237, N-497*
+*Related: A-1695.1, C-5905, N-497*
 
 ---
 
@@ -689,7 +688,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1697.1, C-2233, N-500*
+*Related: A-1697.1, C-5891, N-500*
 
 ---
 
@@ -702,7 +701,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1697.1, C-2232, N-500*
+*Related: A-1697.1, C-5889, N-500*
 
 ---
 
@@ -715,7 +714,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1698.1, C-2234*
+*Related: A-1698.1, C-5826*
 
 ---
 
@@ -728,7 +727,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1694.1, C-2228, N-499, N-10451*
+*Related: A-1694.1, C-5878, N-499, N-10451*
 
 ---
 
@@ -741,7 +740,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1694.2, A-1696.1, C-2229, N-498*
+*Related: A-1694.2, A-1696.1, C-5881, N-498*
 
 ---
 
@@ -762,7 +761,7 @@ Investigative Pressure: Low
 
 Subject of Youssef's and the host's statements about his views on Israel, Islam, Netanyahu and his Twitter feed.
 
-*Related: C-5583, C-5595, C-5599, C-5600, C-5601, C-5602, C-5603, C-5604, C-5605, C-5607, C-5635, C-5639, C-5640, C-5663*
+*Related: C-5813, C-5827, C-5831, C-5832, C-5833, C-5834, C-5835, C-5836, C-5838, C-5840, C-5869, C-5874, C-5875, C-5903*
 
 ---
 
@@ -770,7 +769,7 @@ Subject of Youssef's and the host's statements about his views on Israel, Islam,
 
 Subject of the host's account of her calls with TPUSA employees and her Fox News remarks about sleep.
 
-*Related: C-5606, C-5607, C-5608*
+*Related: C-5839, C-5840, C-5841*
 
 ---
 
@@ -778,7 +777,7 @@ Subject of the host's account of her calls with TPUSA employees and her Fox News
 
 Host; speaks of her Daily Wire lawsuit, her Tourney interview, her Israel trip and her research.
 
-*Related: C-5572, C-5574, C-5575, C-5576, C-5582, C-5583, C-5584, C-5585, C-5588, C-5595, C-5596, C-5597, C-5598, C-5599, C-5604, C-5605, C-5606, C-5607, C-5608, C-5614, C-5615, C-5622, C-5624, C-5627, C-5629, C-5631, C-5633, C-5635, C-5636, C-5638, C-5639, C-5640, C-5641, C-5642, C-5647, C-5648, C-5649, C-5650, C-5654, C-5655, C-5656, C-5658, C-5659, C-5660, C-5663*
+*Related: C-5802, C-5804, C-5805, C-5806, C-5812, C-5813, C-5814, C-5815, C-5818, C-5827, C-5828, C-5829, C-5830, C-5831, C-5836, C-5838, C-5839, C-5840, C-5841, C-5847, C-5848, C-5856, C-5858, C-5861, C-5863, C-5865, C-5867, C-5869, C-5870, C-5872, C-5874, C-5875, C-5876, C-5877, C-5885, C-5886, C-5887, C-5888, C-5894, C-5895, C-5896, C-5898, C-5899, C-5900, C-5903*
 
 ---
 
@@ -786,7 +785,7 @@ Host; speaks of her Daily Wire lawsuit, her Tourney interview, her Israel trip a
 
 Subject of Youssef's statements on his 2008 indictment and alleged Mossad ties.
 
-*Related: C-5637, C-5653*
+*Related: C-5871, C-5893*
 
 ---
 
@@ -794,7 +793,7 @@ Subject of Youssef's statements on his 2008 indictment and alleged Mossad ties.
 
 Named by Youssef as the person who ran Charlie Kirk's Twitter feed. Transcript spelling: Andrew Kolvet.
 
-*Related: C-5603*
+*Related: C-5835*
 
 ---
 
@@ -802,7 +801,7 @@ Named by Youssef as the person who ran Charlie Kirk's Twitter feed. Transcript s
 
 Subject of statements about refusing Turning Point, press tours and podcasts after Kirk's death, and the Birthright anecdote.
 
-*Related: C-5594, C-5605, C-5610, C-5640, C-5663*
+*Related: C-5825, C-5838, C-5843, C-5875, C-5903*
 
 ---
 
@@ -810,7 +809,7 @@ Subject of statements about refusing Turning Point, press tours and podcasts aft
 
 Host of the PBD podcast on which Youssef says Kirk raised questions about Israel.
 
-*Related: C-5600*
+*Related: C-5832*
 
 ---
 
@@ -818,7 +817,7 @@ Host of the PBD podcast on which Youssef says Kirk raised questions about Israel
 
 Named by Youssef for a pre-appointment statement on prioritizing Israel.
 
-*Related: C-5609*
+*Related: C-5842*
 
 ---
 
@@ -826,7 +825,7 @@ Named by Youssef for a pre-appointment statement on prioritizing Israel.
 
 Subject of Youssef's three stories on Shapiro's rhetoric and of the host's Daily Wire lawsuit account.
 
-*Related: C-5576, C-5577, C-5578, C-5580, C-5581, C-5583, C-5631*
+*Related: C-5806, C-5807, C-5808, C-5810, C-5811, C-5813, C-5865*
 
 ---
 
@@ -834,7 +833,7 @@ Subject of Youssef's three stories on Shapiro's rhetoric and of the host's Daily
 
 Named by the host as 'Marissa at Prageru', her former employer. Transcript spelling: Marissa.
 
-*Related: C-5633*
+*Related: C-5867*
 
 ---
 
@@ -842,7 +841,7 @@ Named by the host as 'Marissa at Prageru', her former employer. Transcript spell
 
 Named by Youssef as a billionaire donating to the IDF and by the host in connection with buying TikTok.
 
-*Related: C-5621, C-5624*
+*Related: C-5855, C-5858*
 
 ---
 
@@ -850,7 +849,7 @@ Named by Youssef as a billionaire donating to the IDF and by the host in connect
 
 Named by the host in connection with a real estate deal in Gaza.
 
-*Related: C-5588*
+*Related: C-5818*
 
 ---
 
@@ -858,7 +857,7 @@ Named by the host in connection with a real estate deal in Gaza.
 
 Interview guest the host cites for his parents' account and his review of the New York Times rape reporting. Transcript spelling: Norman Finkelstein.
 
-*Related: C-5614, C-5647*
+*Related: C-5847, C-5885*
 
 ---
 
@@ -866,7 +865,7 @@ Interview guest the host cites for his parents' account and his review of the Ne
 
 Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spelling: Jesse Watters.
 
-*Related: C-5608*
+*Related: C-5841*
 
 ---
 
@@ -874,7 +873,7 @@ Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spe
 
 Named by Youssef as now in control of Paramount Plus. Transcript spelling: Bari Weiss.
 
-*Related: C-5664*
+*Related: C-5904*
 
 ---
 
@@ -882,7 +881,7 @@ Named by Youssef as now in control of Paramount Plus. Transcript spelling: Bari 
 
 Named by the host and by Youssef; transcript spellings: Miriam Mson, Miam Idlen.
 
-*Related: C-5594, C-5598*
+*Related: C-5825, C-5830*
 
 ---
 
@@ -890,7 +889,7 @@ Named by the host and by Youssef; transcript spellings: Miriam Mson, Miam Idlen.
 
 Daily Wire head the host says sent her the lawsuit on his birthday. Transcript spelling: Jeremy Boreing.
 
-*Related: C-5585*
+*Related: C-5815*
 
 ---
 
@@ -898,7 +897,7 @@ Daily Wire head the host says sent her the lawsuit on his birthday. Transcript s
 
 Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aquino.
 
-*Related: C-5658, C-5659*
+*Related: C-5898, C-5899*
 
 ---
 
@@ -906,7 +905,7 @@ Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spe
 
 Named by a speaker for a remark about how October 7th will be remembered.
 
-*Related: C-5586*
+*Related: C-5816*
 
 ---
 
@@ -914,7 +913,7 @@ Named by a speaker for a remark about how October 7th will be remembered.
 
 Named by Youssef among billionaires he says donate to the IDF. Transcript spelling: Peter Thiel.
 
-*Related: C-5621*
+*Related: C-5855*
 
 ---
 
@@ -922,7 +921,7 @@ Named by Youssef among billionaires he says donate to the IDF. Transcript spelli
 
 Organization whose employees received Erika Kirk's calls and whose event hosted the Shapiro Liberty exchange.
 
-*Related: C-5577, C-5605, C-5606, C-5607*
+*Related: C-5807, C-5838, C-5839, C-5840*
 
 ---
 
@@ -930,7 +929,7 @@ Organization whose employees received Erika Kirk's calls and whose event hosted 
 
 Organization named in Youssef's historical false-flag claims and his Ostrovsky statements.
 
-*Related: C-5590, C-5591, C-5592, C-5593, C-5644, C-5651, C-5653*
+*Related: C-5820, C-5821, C-5822, C-5823, C-5882, C-5890, C-5893*
 
 ---
 
@@ -938,7 +937,7 @@ Organization named in Youssef's historical false-flag claims and his Ostrovsky s
 
 Topic related to Youssef's statements on Epstein.
 
-*Related: C-5637, C-5653*
+*Related: C-5871, C-5893*
 
 ---
 
@@ -946,7 +945,7 @@ Topic related to Youssef's statements on Epstein.
 
 Place at the center of the episode's statements.
 
-*Related: C-5579, C-5586, C-5587, C-5599, C-5604, C-5621, C-5623, C-5625, C-5630, C-5648*
+*Related: C-5809, C-5816, C-5817, C-5831, C-5836, C-5855, C-5857, C-5859, C-5864, C-5886*
 
 ---
 
@@ -954,7 +953,7 @@ Place at the center of the episode's statements.
 
 Topic linked to the host's statements on Netanyahu's press tour and Trump's tweet.
 
-*Related: C-5639, C-5640, C-5663*
+*Related: C-5874, C-5875, C-5903*
 
 ---
 
@@ -962,7 +961,7 @@ Topic linked to the host's statements on Netanyahu's press tour and Trump's twee
 
 Show on which Youssef says Kirk asked questions about Israel.
 
-*Related: C-5600*
+*Related: C-5832*
 
 ---
 
@@ -970,7 +969,7 @@ Show on which Youssef says Kirk asked questions about Israel.
 
 Place discussed throughout the episode.
 
-*Related: C-5588, C-5601, C-5632, C-5645*
+*Related: C-5818, C-5833, C-5866, C-5883*
 
 ---
 
@@ -978,7 +977,7 @@ Place discussed throughout the episode.
 
 Organization where the host says she worked for Marissa.
 
-*Related: C-5633*
+*Related: C-5867*
 
 ---
 
@@ -986,7 +985,7 @@ Organization where the host says she worked for Marissa.
 
 Aircraft investigation target related to the host's Egyptian passport names claim.
 
-*Related: C-5636*
+*Related: C-5870*
 
 ---
 
@@ -994,7 +993,7 @@ Aircraft investigation target related to the host's Egyptian passport names clai
 
 Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith events.
 
-*Related: C-5635, C-5636*
+*Related: C-5869, C-5870*
 
 ---
 
@@ -1002,7 +1001,7 @@ Investigation target for the Egyptian aircraft that tracked Kirk and TPUSA faith
 
 Topic related to the host's statements about Calvary Chapel.
 
-*Related: C-5597*
+*Related: C-5829*
 
 ---
 
@@ -1010,7 +1009,7 @@ Topic related to the host's statements about Calvary Chapel.
 
 Topic related to the host's statement that Kirk said no when Netanyahu wanted to take Turning Point further.
 
-*Related: C-5605*
+*Related: C-5838*
 
 ---
 
@@ -1018,14 +1017,14 @@ Topic related to the host's statement that Kirk said no when Netanyahu wanted to
 
 Topic related to the host's Aquino and Temple of Set statements.
 
-*Related: C-5658, C-5659*
+*Related: C-5898, C-5899*
 
 ---
 
 **N-10435** Fort Huachuca Erika Kirk Location Investigation
 Topic related to the host's Fort Huachuca statement.
 
-*Related: C-5658*
+*Related: C-5898*
 
 ---
 
@@ -1033,7 +1032,7 @@ Topic related to the host's Fort Huachuca statement.
 
 Organization that the host says barred Youssef and sued her after the Tourney interview.
 
-*Related: C-5574, C-5576, C-5582, C-5583, C-5585, C-5654*
+*Related: C-5804, C-5806, C-5812, C-5813, C-5815, C-5894*
 
 ---
 
@@ -1041,7 +1040,7 @@ Organization that the host says barred Youssef and sued her after the Tourney in
 
 Organization discussed in Youssef's and the host's statements about its Gaza reporting.
 
-*Related: C-5644, C-5645, C-5646*
+*Related: C-5882, C-5883, C-5884*
 
 ---
 
@@ -1049,7 +1048,7 @@ Organization discussed in Youssef's and the host's statements about its Gaza rep
 
 First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.
 
-*Related: C-5594*
+*Related: C-5825*
 
 ---
 
@@ -1057,7 +1056,7 @@ First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef
 
 First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.
 
-*Related: C-5632*
+*Related: C-5866*
 
 ---
 
@@ -1065,7 +1064,7 @@ First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesm
 
 First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.
 
-*Related: C-5654, C-5655, C-5656*
+*Related: C-5894, C-5895, C-5896*
 
 ---
 
@@ -1073,7 +1072,7 @@ First named by the host at 01:32:22 in episode 65. Rabbi the host says she inter
 
 First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.
 
-*Related: C-5657*
+*Related: C-5897*
 
 ---
 
@@ -1081,7 +1080,7 @@ First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef d
 
 First named by the host at 01:41:10 in episode 65. Described by the host as an avowed Satanist connected to the Apollo-era program.
 
-*Related: C-5660*
+*Related: C-5900*
 
 ---
 
@@ -1090,7 +1089,7 @@ First named by the host at 01:41:10 in episode 65. Described by the host as an a
 Node Type: Topic
 Investigation target: the Daily Wire's lawsuit against the host after her Phil Tourney interview, and the host's account of its basis.
 
-*Related: C-5582, C-5583, C-5584, C-5585, A-2763.1*
+*Related: C-5812, C-5813, C-5814, C-5815, A-2763.1*
 
 ---
 
@@ -1099,7 +1098,7 @@ Investigation target: the Daily Wire's lawsuit against the host after her Phil T
 Node Type: Topic
 Investigation target: Youssef's claim that the head of cybersecurity in Netanyahu's office was found with a minor in a Las Vegas sting and allowed to leave.
 
-*Related: C-5610, C-5611*
+*Related: C-5843, C-5844*
 
 ---
 
@@ -1108,7 +1107,7 @@ Investigation target: Youssef's claim that the head of cybersecurity in Netanyah
 Node Type: Topic
 Investigation target: Youssef's claims about historical staged or covert attacks attributed to Israel or Mossad, including the King David Hotel, Iraq 1950-51, Lavon, London 1994, Mexico 2001 and Patria.
 
-*Related: C-5589, C-5590, C-5591, C-5592, C-5593, C-5616*
+*Related: C-5819, C-5820, C-5821, C-5822, C-5823, C-5849*
 
 ---
 
@@ -1117,7 +1116,7 @@ Investigation target: Youssef's claims about historical staged or covert attacks
 Node Type: Topic
 Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dutch national, cutting off his bank access.
 
-*Related: C-5626*
+*Related: C-5860*
 
 ---
 
@@ -1126,7 +1125,7 @@ Investigation target: Youssef's claim that the US sanctioned an ICC judge, a Dut
 Node Type: Topic
 Investigation target: recordings of Erika Kirk addressing TPUSA employees five days after Charlie Kirk's death.
 
-*Related: C-5606, C-5607, A-2765.1*
+*Related: C-5839, C-5840, A-2765.1*
 
 ---
 
@@ -1135,7 +1134,7 @@ Investigation target: recordings of Erika Kirk addressing TPUSA employees five d
 Node Type: Topic
 Investigation target: the host's and Youssef's claims that reports of babies in ovens and mass rape on October 7th were fabricated.
 
-*Related: C-5646, C-5647, C-5648, A-2767.1*
+*Related: C-5884, C-5885, C-5886, A-2767.1*
 
 ---
 
@@ -1144,13 +1143,13 @@ Investigation target: the host's and Youssef's claims that reports of babies in 
 Node Type: Topic
 Investigation target: Youssef's claim that an ICE field office is in Tel Aviv.
 
-*Related: C-5620*
+*Related: C-5854*
 
 ---
 
 ## V. Claim Register
 
-**C-2225** Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27
+**C-5850** Piers Morgan Chart Cited 2014 Casualty Ratio of ~1:27
 
 Claim Timestamp: 00:43:21
 
@@ -1165,7 +1164,7 @@ Investigative Direction: Verify against original Piers Morgan broadcast; cross-c
 
 ---
 
-**C-2226** Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won
+**C-5800** Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won
 
 Claim Timestamp: 00:00:01
 
@@ -1180,7 +1179,7 @@ Investigative Direction: Verify with Anti-Semite of the Year award organization 
 
 ---
 
-**C-2227** In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year
+**C-5801** In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year
 
 Claim Timestamp: 00:00:01
 
@@ -1195,7 +1194,7 @@ Investigative Direction: Verify with award organization records.
 
 ---
 
-**C-2228** Ward Boston Notarized Statement on USS Liberty Published in San Diego Union Tribune
+**C-5878** Ward Boston Notarized Statement on USS Liberty Published in San Diego Union Tribune
 
 Claim Timestamp: 01:21:47
 
@@ -1210,7 +1209,7 @@ Investigative Direction: Obtain the original San Diego Union Tribune publication
 
 ---
 
-**C-2229** Candace Owens Phil Tourney Interview Received Approximately 7 Million Views
+**C-5881** Candace Owens Phil Tourney Interview Received Approximately 7 Million Views
 
 Claim Timestamp: 01:22:31
 
@@ -1225,7 +1224,7 @@ Investigative Direction: Verify view count via YouTube analytics or platform dat
 
 ---
 
-**C-2230** Bassem Youssef US Citizenship in December 2019
+**C-5873** Bassem Youssef US Citizenship in December 2019
 
 Claim Timestamp: 01:12:59
 
@@ -1239,7 +1238,7 @@ Investigative Direction: Verify with public records / naturalization records if 
 
 ---
 
-**C-2231** Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face
+**C-5824** Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face
 
 Claim Timestamp: 00:15:48
 
@@ -1254,7 +1253,7 @@ Investigative Direction: Obtain original high-resolution images; verify with for
 
 ---
 
-**C-2232** Victor Ostrovsky Book Claims Mossad Had Advance Knowledge of 1982 Beirut Barracks Bombing
+**C-5889** Victor Ostrovsky Book Claims Mossad Had Advance Knowledge of 1982 Beirut Barracks Bombing
 
 Claim Timestamp: 01:27:19
 
@@ -1269,7 +1268,7 @@ Investigative Direction: Verify the book's actual contents against published edi
 
 ---
 
-**C-2233** 24-Hour Gag Order on *By Way of Deception* in 1992
+**C-5891** 24-Hour Gag Order on *By Way of Deception* in 1992
 
 Claim Timestamp: 01:28:11
 
@@ -1284,7 +1283,7 @@ Investigative Direction: Verify with publishing industry records and court recor
 
 ---
 
-**C-2234** *Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special
+**C-5826** *Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special
 
 Claim Timestamp: 00:22:05
 
@@ -1299,7 +1298,7 @@ Investigative Direction: Obtain the documentary and verify the specific clips an
 
 ---
 
-**C-2235** Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August
+**C-5837** Charlie Kirk Did Not Allow Benjamin Netanyahu on Show in August
 
 Claim Timestamp: 00:30:06
 
@@ -1314,7 +1313,7 @@ Investigative Direction: Cross-check with Turning Point USA published guest list
 
 ---
 
-**C-2236** New York Times Preparing a Piece on USS Liberty
+**C-5880** New York Times Preparing a Piece on USS Liberty
 
 Claim Timestamp: 01:22:18
 
@@ -1329,7 +1328,7 @@ Investigative Direction: Monitor NYT for upcoming USS Liberty coverage.
 
 ---
 
-**C-2237** Bassem Youssef Says His Tour Dates Include Portland March 20 and Seattle March 21
+**C-5905** Bassem Youssef Says His Tour Dates Include Portland March 20 and Seattle March 21
 
 Claim Timestamp: 01:46:20–01:47:10
 
@@ -1344,7 +1343,7 @@ Investigative Direction: Verify with Youssef's official tour pages and ticketing
 
 ---
 
-**C-5572** Youssef's show clip says he was nominated for 2024 Anti-Semite of the Year and Candace Owens won
+**C-5802** Youssef's show clip says he was nominated for 2024 Anti-Semite of the Year and Candace Owens won
 
 Claim Timestamp: 00:00:01
 
@@ -1355,12 +1354,12 @@ Transcript Snippet: And I was even nominated to be Anti-Semite of the year 2024,
 Anchored Artifacts: A-1691.1
 Mentions: N-497, N-3
 Related Nodes: N-10452
-Revises: C-2226
+Revises: C-5800
 Investigative Direction: Re-listen to the clip and identify the award body or the show segment; confirm who the 2024 nominee and winner were in the clip's framing.
 
 ---
 
-**C-5573** Miss Rachel named as a nominee for Anti-Semite of the Year
+**C-5803** Miss Rachel named as a nominee for Anti-Semite of the Year
 
 Claim Timestamp: 00:00:54
 
@@ -1375,7 +1374,7 @@ Investigative Direction: Identify the award organizer and its published nominee 
 
 ---
 
-**C-5574** Host says she won the Anti-Semite of the Year award and was fired from Daily Wire that year
+**C-5804** Host says she won the Anti-Semite of the Year award and was fired from Daily Wire that year
 
 Claim Timestamp: 00:01:42
 
@@ -1390,7 +1389,7 @@ Investigative Direction: Obtain the award's published results and the date of th
 
 ---
 
-**C-5575** Host says Piers Morgan chart clip was her wake-up call on Gaza
+**C-5805** Host says Piers Morgan chart clip was her wake-up call on Gaza
 
 Claim Timestamp: 00:01:42
 
@@ -1401,12 +1400,12 @@ Transcript Snippet: you were my wakeup call to what was happening in Gaza.
 Anchored Artifacts: A-1690.1
 Mentions: N-3, N-497, N-204
 Related Nodes: N-10453
-Supports: C-2225
+Supports: C-5850
 Investigative Direction: Ask the host or her producers for when she first saw the clip; compare with the date of the Piers Morgan broadcast.
 
 ---
 
-**C-5576** Host says Daily Wire producer told her Youssef could not be booked because he hurt Ben Shapiro's feelings
+**C-5806** Host says Daily Wire producer told her Youssef could not be booked because he hurt Ben Shapiro's feelings
 
 Claim Timestamp: 00:02:59
 
@@ -1421,7 +1420,7 @@ Investigative Direction: Obtain the written message from the Daily Wire producer
 
 ---
 
-**C-5577** Youssef says Shapiro told a TPUSA questioner the USS Liberty attack was investigated and proved a mistake
+**C-5807** Youssef says Shapiro told a TPUSA questioner the USS Liberty attack was investigated and proved a mistake
 
 Claim Timestamp: 00:04:32
 
@@ -1436,7 +1435,7 @@ Investigative Direction: Locate the video of Shapiro's answer at the Turning Poi
 
 ---
 
-**C-5578** A speaker says USS Liberty crew were threatened and under a gag order
+**C-5808** A speaker says USS Liberty crew were threatened and under a gag order
 
 Claim Timestamp: 00:05:37
 
@@ -1451,7 +1450,7 @@ Investigative Direction: Obtain survivor accounts and records (including Ward Bo
 
 ---
 
-**C-5579** Youssef says Israel paid $6 million for damages and $6 million for the victims of the USS Liberty
+**C-5809** Youssef says Israel paid $6 million for damages and $6 million for the victims of the USS Liberty
 
 Claim Timestamp: 00:05:56
 
@@ -1466,7 +1465,7 @@ Investigative Direction: Verify the compensation amounts and payment dates in US
 
 ---
 
-**C-5580** Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charlamagne tha God morning show
+**C-5810** Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charlamagne tha God morning show
 
 Claim Timestamp: 00:06:18
 
@@ -1481,7 +1480,7 @@ Investigative Direction: Locate the morning-show episode and the following day's
 
 ---
 
-**C-5581** Youssef says Shapiro showed a Hamas water-pipe video whose Arabic narration said the opposite
+**C-5811** Youssef says Shapiro showed a Hamas water-pipe video whose Arabic narration said the opposite
 
 Claim Timestamp: 00:07:27
 
@@ -1496,7 +1495,7 @@ Investigative Direction: Find the original video, obtain an independent translat
 
 ---
 
-**C-5582** Host says Phil Tourney gave her his Purple Heart and she was then sued by Daily Wire
+**C-5812** Host says Phil Tourney gave her his Purple Heart and she was then sued by Daily Wire
 
 Claim Timestamp: 00:08:54
 
@@ -1511,7 +1510,7 @@ Investigative Direction: Obtain the Tourney interview, the Daily Wire complaint 
 
 ---
 
-**C-5583** Host Says Tourney Named Charlie Kirk and Ben Shapiro as People Calling the USS Liberty a Hoax
+**C-5813** Host Says Tourney Named Charlie Kirk and Ben Shapiro as People Calling the USS Liberty a Hoax
 
 Claim Timestamp: 00:09:48
 
@@ -1526,7 +1525,7 @@ Investigative Direction: Watch the Tourney interview at the point where he names
 
 ---
 
-**C-5584** Host Says She Asked Tourney to Testify That She Did Not Put Him Up to Naming Kirk and Shapiro
+**C-5814** Host Says She Asked Tourney to Testify That She Did Not Put Him Up to Naming Kirk and Shapiro
 
 Claim Timestamp: 00:09:48
 
@@ -1541,7 +1540,7 @@ Investigative Direction: Obtain any declaration or testimony from Tourney filed 
 
 ---
 
-**C-5585** Host says Jeremy Boreing sent her the lawsuit on his birthday
+**C-5815** Host says Jeremy Boreing sent her the lawsuit on his birthday
 
 Claim Timestamp: 00:10:55
 
@@ -1556,7 +1555,7 @@ Investigative Direction: Compare the lawsuit's filing or service date with Borei
 
 ---
 
-**C-5586** Speaker says Mike Pompeo said October 7th should be remembered with Israel as the victim
+**C-5816** Speaker says Mike Pompeo said October 7th should be remembered with Israel as the victim
 
 Claim Timestamp: 00:10:55
 
@@ -1571,7 +1570,7 @@ Investigative Direction: Find the Pompeo event, a video or transcript of his rem
 
 ---
 
-**C-5587** Speaker says a friend reported a $200 million pledge at Cannes to produce Israeli-view October 7th content
+**C-5817** Speaker says a friend reported a $200 million pledge at Cannes to produce Israeli-view October 7th content
 
 Claim Timestamp: 00:10:55
 
@@ -1586,7 +1585,7 @@ Investigative Direction: Identify the friend and the Cannes event, and look for 
 
 ---
 
-**C-5588** Host says Jared Kushner's Gaza role is a real estate deal
+**C-5818** Host says Jared Kushner's Gaza role is a real estate deal
 
 Claim Timestamp: 00:10:55
 
@@ -1601,7 +1600,7 @@ Investigative Direction: Compile public reporting and documents on Kushner's Gaz
 
 ---
 
-**C-5589** Youssef says the King David Hotel bombing killed 92 British soldiers and was carried out by Hagana members dressed as Palestinians
+**C-5819** Youssef says the King David Hotel bombing killed 92 British soldiers and was carried out by Hagana members dressed as Palestinians
 
 Claim Timestamp: 00:13:03
 
@@ -1616,7 +1615,7 @@ Investigative Direction: Check historical sources on the 1946 attack (casualty c
 
 ---
 
-**C-5590** Youssef says Israel sent a Mossad agent to bomb Iraqi Jewish sites in 1950-51 to drive emigration
+**C-5820** Youssef says Israel sent a Mossad agent to bomb Iraqi Jewish sites in 1950-51 to drive emigration
 
 Claim Timestamp: 00:13:17
 
@@ -1631,7 +1630,7 @@ Investigative Direction: Review historical scholarship and records on the 1950-5
 
 ---
 
-**C-5591** Youssef says Israel acknowledged the Lavon affair in 2005 with participation certificates
+**C-5821** Youssef says Israel acknowledged the Lavon affair in 2005 with participation certificates
 
 Claim Timestamp: 00:14:43
 
@@ -1646,7 +1645,7 @@ Investigative Direction: Verify the 2005 certificate ceremony in Israeli governm
 
 ---
 
-**C-5592** Youssef says the 1994 London embassy bombing was done by Mossad and two Palestinians were blamed
+**C-5822** Youssef says the 1994 London embassy bombing was done by Mossad and two Palestinians were blamed
 
 Claim Timestamp: 00:15:00
 
@@ -1661,7 +1660,7 @@ Investigative Direction: Review British court records on the 1994 London bombing
 
 ---
 
-**C-5593** Youssef says two Mossad individuals staged an attack on the Mexican parliament in October 2001
+**C-5823** Youssef says two Mossad individuals staged an attack on the Mexican parliament in October 2001
 
 Claim Timestamp: 00:15:00
 
@@ -1676,7 +1675,7 @@ Investigative Direction: Search Mexican press and government records for any Oct
 
 ---
 
-**C-5594** Youssef says friend Matt Lieb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event
+**C-5825** Youssef says friend Matt Lieb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event
 
 Claim Timestamp: 00:18:27
 
@@ -1691,7 +1690,7 @@ Investigative Direction: Ask Matt Lieb for the date of the Birthright trip and c
 
 ---
 
-**C-5595** Host says Rob McCoy was not actually close to Charlie Kirk, who could not stand him by the end
+**C-5827** Host says Rob McCoy was not actually close to Charlie Kirk, who could not stand him by the end
 
 Claim Timestamp: 00:22:53
 
@@ -1706,7 +1705,7 @@ Investigative Direction: Obtain Kirk's private messages or statements about McCo
 
 ---
 
-**C-5596** Host says Rob McCoy's father ran psychological operations for the Navy
+**C-5828** Host says Rob McCoy's father ran psychological operations for the Navy
 
 Claim Timestamp: 00:22:53
 
@@ -1721,7 +1720,7 @@ Investigative Direction: Identify McCoy's father and obtain his Navy service rec
 
 ---
 
-**C-5597** Host says Calvary Chapel is a CIA story
+**C-5829** Host says Calvary Chapel is a CIA story
 
 Claim Timestamp: 00:23:34
 
@@ -1736,7 +1735,7 @@ Investigative Direction: Gather the books and documents the host cites on Calvar
 
 ---
 
-**C-5598** Host says Miriam Adelson's money comes from debauchery
+**C-5830** Host says Miriam Adelson's money comes from debauchery
 
 Claim Timestamp: 00:23:34
 
@@ -1751,7 +1750,7 @@ Investigative Direction: Review public records on the Adelson family's casino ho
 
 ---
 
-**C-5599** Host says she and Charlie Kirk genuinely supported Israel because friends told them the truth
+**C-5831** Host says she and Charlie Kirk genuinely supported Israel because friends told them the truth
 
 Claim Timestamp: 00:26:09
 
@@ -1766,7 +1765,7 @@ Investigative Direction: Compare with the host's and Kirk's earlier public state
 
 ---
 
-**C-5600** Youssef says Charlie Kirk started asking questions about Israel on the PBD podcast
+**C-5832** Youssef says Charlie Kirk started asking questions about Israel on the PBD podcast
 
 Claim Timestamp: 00:26:09
 
@@ -1781,7 +1780,7 @@ Investigative Direction: Watch Kirk's PBD podcast appearance and check whether h
 
 ---
 
-**C-5601** Youssef says Charlie Kirk said there are no high buildings left in Gaza to throw gay people from
+**C-5833** Youssef says Charlie Kirk said there are no high buildings left in Gaza to throw gay people from
 
 Claim Timestamp: 00:27:33
 
@@ -1796,7 +1795,7 @@ Investigative Direction: Locate the Kirk clip and transcribe his exact words and
 
 ---
 
-**C-5602** Youssef says Charlie Kirk tweeted the day before his death that Islam is the sword the left uses to slit America's throat
+**C-5834** Youssef says Charlie Kirk tweeted the day before his death that Islam is the sword the left uses to slit America's throat
 
 Claim Timestamp: 00:27:33
 
@@ -1811,7 +1810,7 @@ Investigative Direction: Retrieve the tweet from Kirk's account history for Sept
 
 ---
 
-**C-5603** Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed
+**C-5835** Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed
 
 Claim Timestamp: 00:28:19
 
@@ -1826,7 +1825,7 @@ Investigative Direction: Ask TPUSA or former staff who had access to and posted 
 
 ---
 
-**C-5604** Host says she and Charlie Kirk went to Israel to open an embassy and were shown around by friends
+**C-5836** Host says she and Charlie Kirk went to Israel to open an embassy and were shown around by friends
 
 Claim Timestamp: 00:28:19
 
@@ -1841,7 +1840,7 @@ Investigative Direction: Establish the date of the trip and who organized it; th
 
 ---
 
-**C-5605** Host says Charlie Kirk told Netanyahu no when asked to take Turning Point to the next level
+**C-5838** Host says Charlie Kirk told Netanyahu no when asked to take Turning Point to the next level
 
 Claim Timestamp: 00:30:06
 
@@ -1852,12 +1851,12 @@ Transcript Snippet: When BB wanted to take Turning Point to the next level, Char
 Anchored Artifacts: 
 Mentions: N-1, N-36, N-3
 Related Nodes: N-10342, N-10000
-Supports: C-2235
+Supports: C-5837
 Investigative Direction: Obtain accounts from TPUSA staff and the text messages the host says she released on Kirk's response.
 
 ---
 
-**C-5606** Host says Erika Kirk told TPUSA employees five days after the death that she would protect them and their jobs were safe
+**C-5839** Host says Erika Kirk told TPUSA employees five days after the death that she would protect them and their jobs were safe
 
 Claim Timestamp: 00:31:32
 
@@ -1872,7 +1871,7 @@ Investigative Direction: Obtain the audio recordings of the employee calls and c
 
 ---
 
-**C-5607** Host says Erika Kirk told employees Charlie was with them in the office and would not want them at home
+**C-5840** Host says Erika Kirk told employees Charlie was with them in the office and would not want them at home
 
 Claim Timestamp: 00:32:09
 
@@ -1883,12 +1882,12 @@ Transcript Snippet: Don't go home. He She literally says he wouldn't want you at
 Anchored Artifacts: A-2765.1
 Mentions: N-2, N-1, N-3
 Related Nodes: N-10000, N-11044
-Supports: C-5606
+Supports: C-5839
 Investigative Direction: Listen to the call recording and transcribe the passage in full.
 
 ---
 
-**C-5608** Host says Erika Kirk told Jesse Watters she did not need a sleeping pill or wine and slept fine
+**C-5841** Host says Erika Kirk told Jesse Watters she did not need a sleeping pill or wine and slept fine
 
 Claim Timestamp: 00:32:52
 
@@ -1903,7 +1902,7 @@ Investigative Direction: Locate the Fox News interview and check Erika Kirk's ex
 
 ---
 
-**C-5609** Youssef says Kash Patel said before taking office that America must prioritize Israel
+**C-5842** Youssef says Kash Patel said before taking office that America must prioritize Israel
 
 Claim Timestamp: 00:34:03
 
@@ -1918,7 +1917,7 @@ Investigative Direction: Find Patel's pre-appointment statement on Israel and co
 
 ---
 
-**C-5610** Youssef says the head of cybersecurity in Netanyahu's office was caught in a Las Vegas sting involving a minor and allowed to leave
+**C-5843** Youssef says the head of cybersecurity in Netanyahu's office was caught in a Las Vegas sting involving a minor and allowed to leave
 
 Claim Timestamp: 00:34:48
 
@@ -1933,7 +1932,7 @@ Investigative Direction: Search Las Vegas police and court records and press for
 
 ---
 
-**C-5611** Youssef says the acting district attorney is an Israeli national who let the official go
+**C-5844** Youssef says the acting district attorney is an Israeli national who let the official go
 
 Claim Timestamp: 00:34:48
 
@@ -1944,12 +1943,12 @@ Transcript Snippet: you have like the the act the acting DA who happens to be an
 Anchored Artifacts: 
 Mentions: N-497
 Related Nodes: N-11041
-Supports: C-5610
+Supports: C-5843
 Investigative Direction: Identify the prosecutor in the case and verify nationality and role.
 
 ---
 
-**C-5612** Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up
+**C-5845** Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up
 
 Claim Timestamp: 00:37:16
 
@@ -1964,7 +1963,7 @@ Investigative Direction: Search the Auschwitz Museum website for any statement o
 
 ---
 
-**C-5613** A speaker says the Auschwitz death toll figure was changed from 4 million to 1 million overnight
+**C-5846** A speaker says the Auschwitz death toll figure was changed from 4 million to 1 million overnight
 
 Claim Timestamp: 00:38:13
 
@@ -1979,7 +1978,7 @@ Investigative Direction: Check the Auschwitz Museum's history of its published d
 
 ---
 
-**C-5614** Host says Norman Finkelstein told her his parents saw some people take tattoos off and some put them on
+**C-5847** Host says Norman Finkelstein told her his parents saw some people take tattoos off and some put them on
 
 Claim Timestamp: 00:38:13
 
@@ -1994,7 +1993,7 @@ Investigative Direction: Rewatch the host's Finkelstein interview and confirm hi
 
 ---
 
-**C-5615** Host says the number one victims of World War II were Christians, not Jews
+**C-5848** Host says the number one victims of World War II were Christians, not Jews
 
 Claim Timestamp: 00:38:13
 
@@ -2009,7 +2008,7 @@ Investigative Direction: Compare against demographic data on World War II deaths
 
 ---
 
-**C-5616** Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa
+**C-5849** Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa
 
 Claim Timestamp: 00:39:15
 
@@ -2024,7 +2023,7 @@ Investigative Direction: Check historical sources on the 1940 Patria sinking for
 
 ---
 
-**C-5617** Piers Morgan clip: 37 Palestinian children killed in the West Bank through August
+**C-5851** Piers Morgan clip: 37 Palestinian children killed in the West Bank through August
 
 Claim Timestamp: 00:43:21
 
@@ -2035,12 +2034,12 @@ Transcript Snippet: since the beginning of this street only through August 37 Pa
 Anchored Artifacts: A-1690.1
 Mentions: N-497, N-204
 Related Nodes: N-10453
-Supports: C-2225
+Supports: C-5850
 Investigative Direction: Compare with UN OCHA West Bank child fatality figures for the relevant year.
 
 ---
 
-**C-5618** Piers Morgan clip: 7,000 Palestinians killed since the occupation of the West Bank
+**C-5852** Piers Morgan clip: 7,000 Palestinians killed since the occupation of the West Bank
 
 Claim Timestamp: 00:43:21
 
@@ -2051,12 +2050,12 @@ Transcript Snippet: Since the occupation of the West Bank, 7,000 Palestinians we
 Anchored Artifacts: A-1690.1
 Mentions: N-497, N-204
 Related Nodes: N-10453
-Supports: C-2225
+Supports: C-5850
 Investigative Direction: Identify the source of the 7,000 figure and the period it covers.
 
 ---
 
-**C-5619** Youssef says Israel killed more Palestinian children in three weeks after the ceasefire than Israeli children in 75 years
+**C-5853** Youssef says Israel killed more Palestinian children in three weeks after the ceasefire than Israeli children in 75 years
 
 Claim Timestamp: 00:45:10
 
@@ -2071,7 +2070,7 @@ Investigative Direction: Compare UN and Gaza Health Ministry child casualty data
 
 ---
 
-**C-5620** Youssef says one of ICE's field offices is in Tel Aviv
+**C-5854** Youssef says one of ICE's field offices is in Tel Aviv
 
 Claim Timestamp: 00:45:41
 
@@ -2086,7 +2085,7 @@ Investigative Direction: Check DHS and ICE office listings for any ICE presence 
 
 ---
 
-**C-5621** Youssef says Thiel, Karp and Ellison openly donate to the IDF and have headquarters in Israel
+**C-5855** Youssef says Thiel, Karp and Ellison openly donate to the IDF and have headquarters in Israel
 
 Claim Timestamp: 00:45:41
 
@@ -2101,7 +2100,7 @@ Investigative Direction: Check public filings and charitable donation records fo
 
 ---
 
-**C-5622** Host says LBJ murdered JFK and put his own people into the military
+**C-5856** Host says LBJ murdered JFK and put his own people into the military
 
 Claim Timestamp: 00:48:09
 
@@ -2116,7 +2115,7 @@ Investigative Direction: Cite the historical record on the JFK assassination; th
 
 ---
 
-**C-5623** Youssef says NYPD and LAPD have Israeli special operations officers on site with them
+**C-5857** Youssef says NYPD and LAPD have Israeli special operations officers on site with them
 
 Claim Timestamp: 00:51:25
 
@@ -2131,7 +2130,7 @@ Investigative Direction: Obtain police training and liaison program records for 
 
 ---
 
-**C-5624** Host says Larry Ellison and others said they needed to buy TikTok
+**C-5858** Host says Larry Ellison and others said they needed to buy TikTok
 
 Claim Timestamp: 00:53:08
 
@@ -2146,7 +2145,7 @@ Investigative Direction: Locate Ellison's statements about TikTok and the transa
 
 ---
 
-**C-5625** Youssef says 37 or 38 US states have laws against boycotting Israel
+**C-5859** Youssef says 37 or 38 US states have laws against boycotting Israel
 
 Claim Timestamp: 00:54:34
 
@@ -2161,7 +2160,7 @@ Investigative Direction: Count the state anti-BDS laws against current state sta
 
 ---
 
-**C-5626** Youssef says the US sanctioned an ICC judge, a Dutch national who lost access to his bank account
+**C-5860** Youssef says the US sanctioned an ICC judge, a Dutch national who lost access to his bank account
 
 Claim Timestamp: 00:55:12
 
@@ -2176,7 +2175,7 @@ Investigative Direction: Identify the sanctioned ICC judges, their nationalities
 
 ---
 
-**C-5627** Host says police recently visited a Miami resident over a tweet
+**C-5861** Host says police recently visited a Miami resident over a tweet
 
 Claim Timestamp: 00:56:38
 
@@ -2191,7 +2190,7 @@ Investigative Direction: Identify the Miami incident and obtain the police repor
 
 ---
 
-**C-5628** Youssef says a Palestinian friend was shot and paralyzed from the waist down while wearing a keffiyeh
+**C-5862** Youssef says a Palestinian friend was shot and paralyzed from the waist down while wearing a keffiyeh
 
 Claim Timestamp: 00:57:16
 
@@ -2206,7 +2205,7 @@ Investigative Direction: Ask Youssef to identify the incident; compare with poli
 
 ---
 
-**C-5629** Host says she is banned from Australia
+**C-5863** Host says she is banned from Australia
 
 Claim Timestamp: 00:58:46
 
@@ -2221,7 +2220,7 @@ Investigative Direction: Obtain Australian government visa-refusal records or st
 
 ---
 
-**C-5630** Youssef says Congress writes laws sending $28 to $30 billion of tax money to another country and is bought by lobbies
+**C-5864** Youssef says Congress writes laws sending $28 to $30 billion of tax money to another country and is bought by lobbies
 
 Claim Timestamp: 01:00:09
 
@@ -2236,7 +2235,7 @@ Investigative Direction: Check US military and other aid appropriations to Israe
 
 ---
 
-**C-5631** Host says Ben Shapiro's father follows him to every job
+**C-5865** Host says Ben Shapiro's father follows him to every job
 
 Claim Timestamp: 01:02:56
 
@@ -2251,7 +2250,7 @@ Investigative Direction: Check public biographies and Daily Wire staffing record
 
 ---
 
-**C-5632** Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza
+**C-5866** Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza
 
 Claim Timestamp: 01:04:37
 
@@ -2266,7 +2265,7 @@ Investigative Direction: Identify the guest, whose name is spelled phonetically,
 
 ---
 
-**C-5633** Host says she worked for Marissa at PragerU
+**C-5867** Host says she worked for Marissa at PragerU
 
 Claim Timestamp: 01:06:13
 
@@ -2281,7 +2280,7 @@ Investigative Direction: Confirm the host's employment dates at PragerU and the 
 
 ---
 
-**C-5634** Youssef says a Syrian passport was found near a suicide bomber in the November 2015 Paris attacks
+**C-5868** Youssef says a Syrian passport was found near a suicide bomber in the November 2015 Paris attacks
 
 Claim Timestamp: 01:07:21
 
@@ -2296,7 +2295,7 @@ Investigative Direction: Review French investigation records on the Syrian passp
 
 ---
 
-**C-5635** Host says the real names on passports tied to Egyptian aircraft that tracked Charlie Kirk include many Palestinians
+**C-5869** Host says the real names on passports tied to Egyptian aircraft that tracked Charlie Kirk include many Palestinians
 
 Claim Timestamp: 01:08:34
 
@@ -2311,7 +2310,7 @@ Investigative Direction: Obtain the passport name list the host says she has and
 
 ---
 
-**C-5636** Host says one name on the Egyptian passports matches a person who died in Palestine
+**C-5870** Host says one name on the Egyptian passports matches a person who died in Palestine
 
 Claim Timestamp: 01:08:34
 
@@ -2322,12 +2321,12 @@ Transcript Snippet: I was like oh this is interesting this person died in Palest
 Anchored Artifacts: A-2768.1
 Mentions: N-3
 Related Nodes: N-10253, N-10204
-Supports: C-5635
+Supports: C-5869
 Investigative Direction: Obtain the list and the source of the matched name; verify the death record.
 
 ---
 
-**C-5637** Youssef says Epstein was indicted in 2008 and was allowed to go to Israel
+**C-5871** Youssef says Epstein was indicted in 2008 and was allowed to go to Israel
 
 Claim Timestamp: 01:12:08
 
@@ -2342,7 +2341,7 @@ Investigative Direction: Review the Florida case record and Epstein's travel rec
 
 ---
 
-**C-5638** Host says the CIA is trafficking human beings
+**C-5872** Host says the CIA is trafficking human beings
 
 Claim Timestamp: 01:12:37
 
@@ -2357,7 +2356,7 @@ Investigative Direction: The host cites no specific record; seek any documents o
 
 ---
 
-**C-5639** Host says Trump posted a tweet showing him hugging the Israeli flag after the Kirk killing
+**C-5874** Host says Trump posted a tweet showing him hugging the Israeli flag after the Kirk killing
 
 Claim Timestamp: 01:14:13
 
@@ -2372,7 +2371,7 @@ Investigative Direction: Find the tweet and its date.
 
 ---
 
-**C-5640** Host says Netanyahu went on a press tour immediately after Kirk's death to deny involvement
+**C-5875** Host says Netanyahu went on a press tour immediately after Kirk's death to deny involvement
 
 Claim Timestamp: 01:14:13
 
@@ -2383,12 +2382,12 @@ Transcript Snippet: BB going on a press tour immediately after to say,
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
 Related Nodes: N-10048
-Supports: C-5640
+Supports: C-5875
 Investigative Direction: List Netanyahu's interviews after September 10, 2025 and what he said about the Kirk killing.
 
 ---
 
-**C-5641** Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food
+**C-5876** Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food
 
 Claim Timestamp: 01:16:30
 
@@ -2403,7 +2402,7 @@ Investigative Direction: The host cites no data; compare with peer-reviewed stud
 
 ---
 
-**C-5642** Viewer comment read aloud says IDF soldiers who fought in Gaza have a high suicide rate
+**C-5877** Viewer comment read aloud says IDF soldiers who fought in Gaza have a high suicide rate
 
 Claim Timestamp: 01:21:04
 
@@ -2418,7 +2417,7 @@ Investigative Direction: Check IDF and Israeli Ministry of Defense data on soldi
 
 ---
 
-**C-5643** Youssef says Breaking the Silence is a group of ex-IDF soldiers who speak about atrocities
+**C-5879** Youssef says Breaking the Silence is a group of ex-IDF soldiers who speak about atrocities
 
 Claim Timestamp: 01:21:47
 
@@ -2433,7 +2432,7 @@ Investigative Direction: Review Breaking the Silence's published testimonies.
 
 ---
 
-**C-5644** Youssef says New York Times editorial staff are full of former IDF and Mossad people
+**C-5882** Youssef says New York Times editorial staff are full of former IDF and Mossad people
 
 Claim Timestamp: 01:23:10
 
@@ -2448,7 +2447,7 @@ Investigative Direction: Review published staff biographies for military or inte
 
 ---
 
-**C-5645** Youssef says the New York Times published a piece that more tunnels lie under Gaza than the length of the New York subway system
+**C-5883** Youssef says the New York Times published a piece that more tunnels lie under Gaza than the length of the New York subway system
 
 Claim Timestamp: 01:23:21
 
@@ -2463,7 +2462,7 @@ Investigative Direction: Find the New York Times article and compare the stated 
 
 ---
 
-**C-5646** Youssef says the New York Times ran a rape hoax piece that was fabricated and Israelis named in it denied it
+**C-5884** Youssef says the New York Times ran a rape hoax piece that was fabricated and Israelis named in it denied it
 
 Claim Timestamp: 01:23:21
 
@@ -2478,7 +2477,7 @@ Investigative Direction: Review the New York Times article, the sources it named
 
 ---
 
-**C-5647** Host says Norman Finkelstein explained how the rape claims were lied about
+**C-5885** Host says Norman Finkelstein explained how the rape claims were lied about
 
 Claim Timestamp: 01:23:21
 
@@ -2493,7 +2492,7 @@ Investigative Direction: Rewatch the Finkelstein interview for the specifics of 
 
 ---
 
-**C-5648** Host says the claim that babies were put in ovens was made up
+**C-5886** Host says the claim that babies were put in ovens was made up
 
 Claim Timestamp: 01:24:10
 
@@ -2508,7 +2507,7 @@ Investigative Direction: Review investigative findings on the origin of the clai
 
 ---
 
-**C-5649** Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty
+**C-5887** Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty
 
 Claim Timestamp: 01:26:17
 
@@ -2523,7 +2522,7 @@ Investigative Direction: Check the Tourney interview for exactly what he said wa
 
 ---
 
-**C-5650** Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning
+**C-5888** Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning
 
 Claim Timestamp: 01:26:17
 
@@ -2538,7 +2537,7 @@ Investigative Direction: Compare this retelling with Tourney's own words in the 
 
 ---
 
-**C-5651** Youssef says the Beirut barracks bombing foreknowledge included the blue Mercedes-Benz van
+**C-5890** Youssef says the Beirut barracks bombing foreknowledge included the blue Mercedes-Benz van
 
 Claim Timestamp: 01:27:19
 
@@ -2549,12 +2548,12 @@ Transcript Snippet: the blue MercedesBenz van that was going to be using the att
 Anchored Artifacts: A-1697.1
 Mentions: N-497, N-500
 Related Nodes: N-10461, N-10015
-Supports: C-2232
+Supports: C-5889
 Investigative Direction: Locate the passage in By Way of Deception and compare it with the commission reports on the 1983 Marine barracks bombing.
 
 ---
 
-**C-5652** Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books
+**C-5892** Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books
 
 Claim Timestamp: 01:28:11
 
@@ -2569,7 +2568,7 @@ Investigative Direction: Review the publishing history of Hollywood Babylon and 
 
 ---
 
-**C-5653** Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad
+**C-5893** Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad
 
 Claim Timestamp: 01:28:11
 
@@ -2584,7 +2583,7 @@ Investigative Direction: Locate the Ostrovsky interview and the exact words he u
 
 ---
 
-**C-5654** Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay
+**C-5894** Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay
 
 Claim Timestamp: 01:32:22
 
@@ -2599,7 +2598,7 @@ Investigative Direction: Check the Daily Wire episode list for the host's final 
 
 ---
 
-**C-5655** Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want
+**C-5895** Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want
 
 Claim Timestamp: 01:32:22
 
@@ -2614,7 +2613,7 @@ Investigative Direction: Watch the interview at the point where she asked for a 
 
 ---
 
-**C-5656** Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage
+**C-5896** Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage
 
 Claim Timestamp: 01:34:01
 
@@ -2629,7 +2628,7 @@ Investigative Direction: Ask the host or her team for the message in which the o
 
 ---
 
-**C-5657** Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures
+**C-5897** Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures
 
 Claim Timestamp: 01:35:56
 
@@ -2644,7 +2643,7 @@ Investigative Direction: Find the lecture videos and transcribe the passages.
 
 ---
 
-**C-5658** Host says Temple of Set was at Fort Huachuca and Aquino was hired because he was an avowed Satanist
+**C-5898** Host says Temple of Set was at Fort Huachuca and Aquino was hired because he was an avowed Satanist
 
 Claim Timestamp: 01:39:55
 
@@ -2659,7 +2658,7 @@ Investigative Direction: Review Aquino's Army psychological operations record an
 
 ---
 
-**C-5659** Host says Aquino left the Church of Satan after a schism and founded the Temple of Set
+**C-5899** Host says Aquino left the Church of Satan after a schism and founded the Temple of Set
 
 Claim Timestamp: 01:40:32
 
@@ -2674,7 +2673,7 @@ Investigative Direction: Check the Temple of Set's founding history, Aquino's de
 
 ---
 
-**C-5660** Host says Jack Parsons was an avowed Satanist who performed sexual rituals to summon demons
+**C-5900** Host says Jack Parsons was an avowed Satanist who performed sexual rituals to summon demons
 
 Claim Timestamp: 01:41:10
 
@@ -2689,7 +2688,7 @@ Investigative Direction: Review biographies of Parsons's occult activities and h
 
 ---
 
-**C-5661** Youssef says he was a heart surgeon for 20 years before comedy
+**C-5901** Youssef says he was a heart surgeon for 20 years before comedy
 
 Claim Timestamp: 01:42:45
 
@@ -2704,7 +2703,7 @@ Investigative Direction: Check Youssef's publicly stated medical career dates ag
 
 ---
 
-**C-5662** Youssef says his return ticket from Miami was for September 17, 2001 but he came home earlier
+**C-5902** Youssef says his return ticket from Miami was for September 17, 2001 but he came home earlier
 
 Claim Timestamp: 01:42:45
 
@@ -2719,7 +2718,7 @@ Investigative Direction: Rely on Youssef's account; no document is offered.
 
 ---
 
-**C-5663** Host says Netanyahu is doing podcasts in America after Kirk's death
+**C-5903** Host says Netanyahu is doing podcasts in America after Kirk's death
 
 Claim Timestamp: 01:44:41
 
@@ -2730,12 +2729,12 @@ Transcript Snippet: BB in control is not doing podcasts in America after Charlie
 Anchored Artifacts: 
 Mentions: N-3, N-36, N-1
 Related Nodes: N-10048
-Supports: C-5640
+Supports: C-5875
 Investigative Direction: List Netanyahu's podcast appearances after September 10, 2025 with dates.
 
 ---
 
-**C-5664** Youssef says Bari Weiss now controls Paramount Plus, which carries Lioness, and expects to be removed
+**C-5904** Youssef says Bari Weiss now controls Paramount Plus, which carries Lioness, and expects to be removed
 
 Claim Timestamp: 01:45:14
 
@@ -2942,7 +2941,7 @@ Confidence: high
 - **Name uncertainty**: "Arsen Ostrovsky" – spelled phonetically; possible alternate spellings may exist. Flag: requires human verification.
 - **Name uncertainty**: "Aishlime" – Iraqi Jewish author referenced by Youssef; unclear if this is correct spelling. Flag: requires human verification.
 - **Artifact verbally referenced but not shown**: A-1696.1, A-1697.1, A-1698.1, A-1699.1, A-1700.1, A-1701.1, A-1702.1, A-1703.1
-- **Claim failed admission test**: Several claims fail the artifact anchor test for this episode, including: ICE office location in Tel Aviv (C-2238 was considered and excluded), claims about specific Mossad false flag operations (Baghdad 1950-51 bombings, Lavon Affair, London embassy 1994, Mexican parliament 2001), and the Auschwitz Museum Joseph Mengele revision specifics.
+- **Claim failed admission test**: Several claims fail the artifact anchor test for this episode, including: ICE office location in Tel Aviv (considered and excluded), claims about specific Mossad false flag operations (Baghdad 1950-51 bombings, Lavon Affair, London embassy 1994, Mexican parliament 2001), and the Auschwitz Museum Joseph Mengele revision specifics.
 - **Host opinion not artifact-backed**: Host's claim that Rob McCoy's father ran Navy psychological operations is host opinion without external artifact support in this episode.
 - **Transcript ambiguity**: Several historical claims by Youssef (e.g., specific casualty figures, the $6M USS Liberty compensation figure) lack specific sourcing within this episode and should be cross-checked with original documentary sources.
 - **Sponsor content excluded**: Magisterium AI ad read and Kickoff credit-building sponsor ad read are not inscribed as artifacts.

@@ -14,7 +14,7 @@
   - Tip-minted Nodes (supplement_2026-10d): N-861, N-862, N-863, N-11259, N-11260, N-11261
   - Tip-minted Nodes (reintro-ep140): N-11066, N-11067
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Claim Range (supplement_2026-10d): C-10423–C-10499
+  - Claim Range: C-12019–C-12112
   - New Nodes Introduced: N-10792
   - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-101, N-159, N-268, N-366, N-367, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182, N-864, N-10791, N-10793, N-11262
   - Hole-minted Nodes (wave3): N-561
@@ -37,7 +37,6 @@
 - **Analysis date:** 2026-08-10
 - **Ledger continuation summary:**
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
-  - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: none (Wave 2: local ids removed)
   - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hull node, Mikey McCoy node
   - New Investigation Target Nodes: N-10791, N-10792, N-10793
@@ -62,7 +61,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, C-3261, C-3262, N-2, Tyler Robinson node, N-10791*
+*Related: C-12032, C-12035, C-12036, N-2, Tyler Robinson node, N-10791*
 
 **A-2267.2** Still showing subject taking phone from left pocket and inserting earpiece in left ear
 
@@ -70,7 +69,7 @@ Video Timestamp: 00:10:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3260, Tyler Robinson node, N-10793*
+*Related: C-12032, Tyler Robinson node, N-10793*
 
 **A-2267.3** Still showing subject's lower legs and what host identifies as high white socks / sports leggings
 
@@ -78,7 +77,7 @@ Video Timestamp: 00:11:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3261, N-10791*
+*Related: C-12035, N-10791*
 
 **A-2267.4** Still showing subject's hat positioned above glasses/head
 
@@ -86,7 +85,7 @@ Video Timestamp: 00:13:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3262, N-10791*
+*Related: C-12036, N-10791*
 
 ---
 
@@ -100,7 +99,7 @@ Video Timestamp: 00:06:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host presents; photo described, specific image not extracted)
 
-*Related: C-3263, Tyler Robinson node*
+*Related: C-12025, Tyler Robinson node*
 
 **A-2268.2** Compilation of additional maroon-shirt photos used by media outlets, including childhood images
 
@@ -108,7 +107,7 @@ Video Timestamp: 00:06:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host references; compilation shown)
 
-*Related: C-3263, Tyler Robinson node*
+*Related: C-12025, Tyler Robinson node*
 
 **A-2268.3** Counter-example photos from mother's Facebook showing Tyler Robinson in blue, white, and green shirts (host's own screen-recorded review)
 
@@ -116,7 +115,7 @@ Video Timestamp: 00:07:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host displays)
 
-*Related: C-3264, Tyler Robinson node*
+*Related: C-12026, Tyler Robinson node*
 
 ---
 
@@ -128,7 +127,7 @@ Video Timestamp: 00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3265, Lance Twiggs node*
+*Related: C-12034, Lance Twiggs node*
 
 ---
 
@@ -142,7 +141,7 @@ Video Timestamp: 00:18:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3266, Agent Hull node, Officer Goforth (referenced)*
+*Related: C-12047, Agent Hull node, Officer Goforth (referenced)*
 
 ---
 
@@ -156,7 +155,7 @@ Video Timestamp: 00:27:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3267, George Zinn node, N-10792*
+*Related: C-12059, George Zinn node, N-10792*
 
 ---
 
@@ -168,7 +167,7 @@ Video Timestamp: 00:27:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3267, George Zinn node, N-10792*
+*Related: C-12059, George Zinn node, N-10792*
 
 ---
 
@@ -180,7 +179,7 @@ Video Timestamp: 00:32:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host describes; underlying records not displayed)
 
-*Related: C-3269*
+*Related: C-12070*
 
 **A-2273.2** DUI photograph of Britta Weidner from prior year
 
@@ -189,7 +188,7 @@ Video Timestamp: 00:32:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3269*
+*Related: C-12070*
 
 **A-2273.3** Tweet-counter account output showing 4,040 tweets by "No Soup for Knowles" account about Candace Owens over 11 months
 
@@ -198,7 +197,7 @@ Video Timestamp: 00:33:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (specific number cited; underlying screenshot not extracted here)
 
-*Related: C-3270, C-3271*
+*Related: C-12072, C-12073*
 
 ---
 
@@ -210,7 +209,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, N-561, N-18*
+*Related: C-12084, Andrew Wilson node, N-561, N-18*
 
 ---
 
@@ -222,7 +221,7 @@ Video Timestamp: 00:46:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3273, Mikey McCoy node, N-1*
+*Related: C-12096, Mikey McCoy node, N-1*
 
 **A-2275.2** Ellie comment: contrasting Candace's framing of "let them live and face consequences" vs. Frank Turek's "she should be killed"
 
@@ -230,7 +229,7 @@ Video Timestamp: 00:47:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3274*
+*Related: C-12101*
 
 **A-2275.3** Brooke comment: "weirdo that was smoking at every social event" referring to Andrew Wilson
 
@@ -254,7 +253,7 @@ Video Timestamp: 00:52:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3275, Tyler Robinson node, N-10793*
+*Related: C-12108, Tyler Robinson node, N-10793*
 
 **A-2275.6** Lady Di comment: requests Rachel Wilson not attend the upcoming debate
 
@@ -292,7 +291,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3276*
+*Related: C-12022*
 
 ---
 
@@ -307,7 +306,7 @@ Video Timestamp: 00:05:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10427, N-40, N-54*
+*Related: C-12024, N-40, N-54*
 
 ---
 
@@ -322,7 +321,7 @@ Video Timestamp: 00:27:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-10454, N-3, N-42*
+*Related: C-12058, N-3, N-42*
 
 ---
 
@@ -337,7 +336,7 @@ Video Timestamp: 00:34:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10465, N-3*
+*Related: C-12074, N-3*
 
 ---
 
@@ -352,7 +351,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10472, N-561*
+*Related: C-12081, N-561*
 
 **A-3081.2** Host reads a message from Rachel Wilson about who clutches their pearls over smoking
 
@@ -362,7 +361,7 @@ Video Timestamp: 00:37:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10473, N-561*
+*Related: C-12082, N-561*
 
 **A-3081.3** Host verbal reference to photos of her pregnant backstage at the Daily Wire shown by Rachel Wilson (not displayed)
 
@@ -370,7 +369,7 @@ Video Timestamp: 00:37:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10474, N-561*
+*Related: C-12083, N-561*
 
 ---
 
@@ -385,7 +384,7 @@ Video Timestamp: 00:49:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10492, N-1*
+*Related: C-12104, N-1*
 
 ---
 
@@ -400,7 +399,7 @@ Video Timestamp: 00:50:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10493, N-159*
+*Related: C-12106, N-159*
 
 ---
 
@@ -410,7 +409,7 @@ Confidence Level: Low
 
 First named by the host at 00:39:29 in episode 140.
 
-*Related: C-3272, A-2274.1, A-2275.6*
+*Related: C-12084, A-2274.1, A-2275.6*
 
 **N-1** Charlie Kirk
 
@@ -434,7 +433,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2267.1, A-2267.2, A-2267.3, A-2267.4, C-3260, C-3261, C-3262, Tyler Robinson node*
+*Related: A-2267.1, A-2267.2, A-2267.3, A-2267.4, C-12032, C-12035, C-12036, Tyler Robinson node*
 
 ---
 
@@ -447,7 +446,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2271.1, A-2272.1, C-3267, George Zinn node*
+*Related: A-2271.1, A-2272.1, C-12059, George Zinn node*
 
 ---
 
@@ -460,7 +459,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2267.2, A-2267.4 (right-pocket outline per Impala), A-2269.1, A-2275.5, C-3260, C-3265, C-3275, Tyler Robinson node, Lance Twiggs node*
+*Related: A-2267.2, A-2267.4 (right-pocket outline per Impala), A-2269.1, A-2275.5, C-12032, C-12034, C-12108, Tyler Robinson node, Lance Twiggs node*
 
 ---
 
@@ -469,7 +468,7 @@ Investigative Pressure: Medium
 Node Type: Person
 Online debater who offered the host a paid Charlie Kirk debate and claimed a TPUSA HQ visit with Erika Kirk.
 
-*Related: C-3272, C-3276*
+*Related: C-12084, C-12022*
 
 ---
 
@@ -477,7 +476,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 Widow and TPUSA CEO; named in the McCoy call-sequence discussion and the Protect Erika Kirk group name.
 
-*Related: C-10455, C-10486, C-10487*
+*Related: C-12061, C-12097, C-12098*
 
 ---
 
@@ -485,7 +484,7 @@ Widow and TPUSA CEO; named in the McCoy call-sequence discussion and the Protect
 
 Host; speaks for herself and relays the Wilson negotiations and group-chat story.
 
-*Related: C-10423, C-10424, C-10425, C-10454, C-10455, C-10456, C-10457, C-10458, C-10460, C-10461, C-10462, C-10463, C-10464, C-10465, C-10466, C-10467, C-10468, C-10470, C-10471, C-10472, C-10473, C-10474, C-10480, C-10481, C-10490, C-10491, C-10492, C-10493, C-10498*
+*Related: C-12019, C-12020, C-12021, C-12058, C-12061, C-12062, C-12063, C-12064, C-12066, C-12067, C-12068, C-12069, C-12071, C-12074, C-12075, C-12076, C-12077, C-12079, C-12080, C-12081, C-12082, C-12083, C-12090, C-12091, C-12102, C-12103, C-12104, C-12106, C-12111*
 
 ---
 
@@ -493,7 +492,7 @@ Host; speaks for herself and relays the Wilson negotiations and group-chat story
 
 Named in the host's account of the NBC article about conservatives fractured over Epstein.
 
-*Related: C-10491*
+*Related: C-12103*
 
 ---
 
@@ -501,7 +500,7 @@ Named in the host's account of the NBC article about conservatives fractured ove
 
 TPUSA spokesperson (transcribed Kolvek); the host recalls a week of odd tweets from his account.
 
-*Related: C-10499*
+*Related: C-12112*
 
 ---
 
@@ -509,7 +508,7 @@ TPUSA spokesperson (transcribed Kolvek); the host recalls a week of odd tweets f
 
 Accused in the Kirk shooting; subject of the host's day-timeline recount and photo analysis.
 
-*Related: C-10426, C-10427, C-10429, C-10430, C-10432, C-10434, C-10435, C-10436, C-10437, C-10438, C-10439, C-10440, C-10441, C-10442, C-10443, C-10446, C-10447, C-10448, C-10449, C-10450, C-10451, C-10494, C-10496, C-10497*
+*Related: C-12023, C-12024, C-12028, C-12029, C-12031, C-12037, C-12038, C-12039, C-12040, C-12041, C-12042, C-12043, C-12044, C-12045, C-12046, C-12050, C-12051, C-12052, C-12053, C-12054, C-12055, C-12105, C-12109, C-12110*
 
 ---
 
@@ -517,7 +516,7 @@ Accused in the Kirk shooting; subject of the host's day-timeline recount and pho
 
 Man the host calls decoy boy number one; arrested at the scene and subject of the device question.
 
-*Related: C-10452, C-10453, C-10454*
+*Related: C-12056, C-12057, C-12058*
 
 ---
 
@@ -525,7 +524,7 @@ Man the host calls decoy boy number one; arrested at the scene and subject of th
 
 Robinson's roommate; the host cites his messages, expected testimony and fingerprints.
 
-*Related: C-10427, C-10446, C-10449, C-10497*
+*Related: C-12024, C-12050, C-12053, C-12110*
 
 ---
 
@@ -533,7 +532,7 @@ Robinson's roommate; the host cites his messages, expected testimony and fingerp
 
 Commentator whose tweet count about the host the host cites for comparison.
 
-*Related: C-10464*
+*Related: C-12071*
 
 ---
 
@@ -541,7 +540,7 @@ Commentator whose tweet count about the host the host cites for comparison.
 
 Commentator the host says declined to moderate the Wilson debate.
 
-*Related: C-10469*
+*Related: C-12078*
 
 ---
 
@@ -549,7 +548,7 @@ Commentator the host says declined to moderate the Wilson debate.
 
 TPUSA-linked commentator (transcribed Blakely Neff); the host cites his NBC quote and his offer to fund the debate.
 
-*Related: C-10491, C-10493*
+*Related: C-12103, C-12106*
 
 ---
 
@@ -557,7 +556,7 @@ TPUSA-linked commentator (transcribed Blakely Neff); the host cites his NBC quot
 
 Charlie Kirk's security aide (transcribed McQuaid in the viewer comment); the host recounts his call sequence.
 
-*Related: C-10486, C-10487, C-10488, C-10489*
+*Related: C-12097, C-12098, C-12099, C-12100*
 
 ---
 
@@ -565,7 +564,7 @@ Charlie Kirk's security aide (transcribed McQuaid in the viewer comment); the ho
 
 Podcaster on whose show the host says she first learned of Andrew Wilson.
 
-*Related: C-10483*
+*Related: C-12093*
 
 ---
 
@@ -573,7 +572,7 @@ Podcaster on whose show the host says she first learned of Andrew Wilson.
 
 Daily Wire co-founder (transcribed Jeremy Boreing); the host says he worked through Britta Weidner.
 
-*Related: C-10462*
+*Related: C-12068*
 
 ---
 
@@ -581,7 +580,7 @@ Daily Wire co-founder (transcribed Jeremy Boreing); the host says he worked thro
 
 Danny Philip in the transcript; the host says McCoy was on a 10-minute call with him.
 
-*Related: C-10488*
+*Related: C-12099*
 
 ---
 
@@ -589,7 +588,7 @@ Danny Philip in the transcript; the host says McCoy was on a 10-minute call with
 
 Organization; alleged payer of Andrew Wilson and subject of the host's debate criticism.
 
-*Related: C-10435, C-10484, C-10493, C-10495*
+*Related: C-12038, C-12094, C-12106, C-12107*
 
 ---
 
@@ -597,7 +596,7 @@ Organization; alleged payer of Andrew Wilson and subject of the host's debate cr
 
 Released the 8:07 a.m. neighbor-camera footage in the host's recount.
 
-*Related: C-10434*
+*Related: C-12037*
 
 ---
 
@@ -605,7 +604,7 @@ Released the 8:07 a.m. neighbor-camera footage in the host's recount.
 
 Campus where Robinson is said to have gone to Chick-fil-A.
 
-*Related: C-10436*
+*Related: C-12039*
 
 ---
 
@@ -613,7 +612,7 @@ Campus where Robinson is said to have gone to Chick-fil-A.
 
 Existing topic reused for the Dairy Queen sighting claims.
 
-*Related: C-10440, C-10451*
+*Related: C-12043, C-12055*
 
 ---
 
@@ -621,7 +620,7 @@ Existing topic reused for the Dairy Queen sighting claims.
 
 Existing topic reused for the doorbell footage in the return-home timeline.
 
-*Related: C-10434, C-10446*
+*Related: C-12037, C-12050*
 
 ---
 
@@ -629,7 +628,7 @@ Existing topic reused for the doorbell footage in the return-home timeline.
 
 Place the host says Robinson left and returned to.
 
-*Related: C-10441, C-10442*
+*Related: C-12044, C-12045*
 
 ---
 
@@ -637,7 +636,7 @@ Place the host says Robinson left and returned to.
 
 Existing topic reused for the alleged confession message.
 
-*Related: C-10427*
+*Related: C-12024*
 
 ---
 
@@ -645,7 +644,7 @@ Existing topic reused for the alleged confession message.
 
 Existing topic reused for the Zinn arrest claims.
 
-*Related: C-10453*
+*Related: C-12057*
 
 ---
 
@@ -653,7 +652,7 @@ Existing topic reused for the Zinn arrest claims.
 
 Existing topic reused for the pastors complaining about the host.
 
-*Related: C-10490*
+*Related: C-12102*
 
 ---
 
@@ -661,7 +660,7 @@ Existing topic reused for the pastors complaining about the host.
 
 Existing topic reused for the McCoy statements.
 
-*Related: C-10489*
+*Related: C-12100*
 
 ---
 
@@ -669,7 +668,7 @@ Existing topic reused for the McCoy statements.
 
 Existing topic reused for the McCoy call-sequence claims.
 
-*Related: C-10486, C-10487, C-10488*
+*Related: C-12097, C-12098, C-12099*
 
 ---
 
@@ -677,7 +676,7 @@ Existing topic reused for the McCoy call-sequence claims.
 
 Existing topic reused for the Panguitch steak house claim.
 
-*Related: C-10441, C-10451*
+*Related: C-12044, C-12055*
 
 ---
 
@@ -685,7 +684,7 @@ Existing topic reused for the Panguitch steak house claim.
 
 Existing topic reused for Weidner's alleged targeting.
 
-*Related: C-10463*
+*Related: C-12069*
 
 ---
 
@@ -693,7 +692,7 @@ Existing topic reused for Weidner's alleged targeting.
 
 Existing topic reused for the 92-member group-chat claims.
 
-*Related: C-10455, C-10456, C-10457, C-10459, C-10460, C-10463, C-10465, C-10466, C-10467*
+*Related: C-12061, C-12062, C-12063, C-12065, C-12066, C-12069, C-12074, C-12075, C-12076*
 
 ---
 
@@ -701,7 +700,7 @@ Existing topic reused for the 92-member group-chat claims.
 
 Existing topic reused for the Lance fingerprint claim.
 
-*Related: C-10497*
+*Related: C-12110*
 
 ---
 
@@ -709,7 +708,7 @@ Existing topic reused for the Lance fingerprint claim.
 
 Gary Melton's channel; the host says its account was virtually the only male in the group.
 
-*Related: C-10467*
+*Related: C-12076*
 
 ---
 
@@ -717,7 +716,7 @@ Gary Melton's channel; the host says its account was virtually the only male in 
 
 Organization; the host links the super fan accounts and her own pregnancy photos to it.
 
-*Related: C-10425, C-10461, C-10462, C-10474*
+*Related: C-12021, C-12067, C-12068, C-12083*
 
 ---
 
@@ -725,7 +724,7 @@ Organization; the host links the super fan accounts and her own pregnancy photos
 
 Existing topic reused for the Wilson team negotiations.
 
-*Related: C-10423, C-10468, C-10470*
+*Related: C-12019, C-12077, C-12079*
 
 ---
 
@@ -733,7 +732,7 @@ Existing topic reused for the Wilson team negotiations.
 
 Existing topic reused for the smoking and studio rules dispute.
 
-*Related: C-10423, C-10468, C-10470, C-10471, C-10472, C-10473, C-10480, C-10482, C-10498*
+*Related: C-12019, C-12077, C-12079, C-12080, C-12081, C-12082, C-12090, C-12092, C-12111*
 
 ---
 
@@ -741,7 +740,7 @@ Existing topic reused for the smoking and studio rules dispute.
 
 Existing topic reused for the PR agent claim.
 
-*Related: C-10462*
+*Related: C-12068*
 
 ---
 
@@ -749,7 +748,7 @@ Existing topic reused for the PR agent claim.
 
 First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.
 
-*Related: C-10443, C-10444*
+*Related: C-12046, C-12048*
 
 ---
 
@@ -757,7 +756,7 @@ First named by the host at 00:17:43 in episode 140. Investigator whose court tes
 
 First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hull's testimony as the officer a vehicle made contact with.
 
-*Related: C-10444, C-10445*
+*Related: C-12048, C-12049*
 
 ---
 
@@ -765,7 +764,7 @@ First named by the host at 00:18:42 in episode 140. Security-detail officer iden
 
 First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.
 
-*Related: C-10458*
+*Related: C-12064*
 
 ---
 
@@ -775,7 +774,7 @@ First named by the host at 00:31:45 in episode 140 (spelled Britta Weidner and B
 
 Aliases: No Soup for Knowles; No Soup for Knowles; Britta Weidner; Britta
 
-*Related: C-10462, C-10463, C-10464*
+*Related: C-12068, C-12069, C-12071*
 
 ---
 
@@ -784,7 +783,7 @@ Aliases: No Soup for Knowles; No Soup for Knowles; Britta Weidner; Britta
 Node Type: Topic
 The host's account that a moderator, Andrew Wilson's second pick after Michael Knowles declined, has been secured for the Friday debate.
 
-*Related: C-10424, C-10469*
+*Related: C-12020, C-12078*
 
 ---
 
@@ -793,7 +792,7 @@ The host's account that a moderator, Andrew Wilson's second pick after Michael K
 Node Type: Topic
 The host's claim that media outlets selectively released maroon-shirt photos of Tyler Robinson to seed the idea that he loves maroon.
 
-*Related: C-10429*
+*Related: C-12028*
 
 ---
 
@@ -802,7 +801,7 @@ The host's claim that media outlets selectively released maroon-shirt photos of 
 Node Type: Topic
 The host's step-by-step recount of the official account of Robinson's movements on September 10 and her argument that the drives, clothing changes and awake time are implausible.
 
-*Related: C-10434, C-10435, C-10436, C-10437, C-10438, C-10439, C-10440, C-10441, C-10442, C-10443, C-10444, C-10445, C-10446, C-10447, C-10448, C-10449, C-10450, C-10451*
+*Related: C-12037, C-12038, C-12039, C-12040, C-12041, C-12042, C-12043, C-12044, C-12045, C-12046, C-12048, C-12049, C-12050, C-12051, C-12052, C-12053, C-12054, C-12055*
 
 ---
 
@@ -811,13 +810,13 @@ The host's step-by-step recount of the official account of Robinson's movements 
 Node Type: Topic
 The host's claim that Turning Point USA brought in and paid Andrew Wilson to teach students to debate.
 
-*Related: C-10484, C-10495*
+*Related: C-12094, C-12107*
 
 ---
 
 ## V. Claim Register
 
-**C-3260** Parking-garage subject appears left-hand dominant
+**C-12032** Parking-garage subject appears left-hand dominant
 
 Claim Timestamp: 00:10:05
 
@@ -831,7 +830,7 @@ Investigative Direction: Obtain the full uncompressed footage and verify the mot
 
 ---
 
-**C-3261** Parking-garage subject appears to be wearing high white socks or sports leggings
+**C-12035** Parking-garage subject appears to be wearing high white socks or sports leggings
 
 Claim Timestamp: 00:11:53
 
@@ -845,7 +844,7 @@ Investigative Direction: Obtain reference photos of Tyler Robinson's documented 
 
 ---
 
-**C-3262** Parking-garage subject's hat appears positioned above the head as if accommodating a ponytail
+**C-12036** Parking-garage subject's hat appears positioned above the head as if accommodating a ponytail
 
 Claim Timestamp: 00:13:22
 
@@ -859,7 +858,7 @@ Investigative Direction: Obtain side-angle or higher-resolution imagery; verify 
 
 ---
 
-**C-3263** Host Says Media Initially Presented Tyler Robinson Predominantly in Maroon Shirts
+**C-12025** Host Says Media Initially Presented Tyler Robinson Predominantly in Maroon Shirts
 
 Claim Timestamp: 00:06:12
 
@@ -874,7 +873,7 @@ Investigative Direction: Compile the visual catalog used by major outlets on 202
 
 ---
 
-**C-3264** Tyler Robinson's mother's Facebook contained many photos of Tyler in non-maroon shirts
+**C-12026** Tyler Robinson's mother's Facebook contained many photos of Tyler in non-maroon shirts
 
 Claim Timestamp: 00:07:34
 
@@ -889,7 +888,7 @@ Investigative Direction: Obtain or verify the screen-recorded archive; cross-ref
 
 ---
 
-**C-3265** Lance Twiggs appears to be left-hand dominant
+**C-12034** Lance Twiggs appears to be left-hand dominant
 
 Claim Timestamp: 00:11:14
 
@@ -904,7 +903,7 @@ Investigative Direction: Obtain court records or biographical sources documentin
 
 ---
 
-**C-3266** Tyler Robinson's vehicle reportedly stopped and made contact with Officer Goforth during security detail
+**C-12047** Tyler Robinson's vehicle reportedly stopped and made contact with Officer Goforth during security detail
 
 Claim Timestamp: 00:18:42
 
@@ -919,7 +918,7 @@ Investigative Direction: Obtain the full Agent Hull testimony transcript and Off
 
 ---
 
-**C-3267** Host Says George Zinn Had a Walkie-Talkie / iPhone-Like Device Visible During Arrest
+**C-12059** Host Says George Zinn Had a Walkie-Talkie / iPhone-Like Device Visible During Arrest
 
 Claim Timestamp: 00:27:34
 
@@ -934,7 +933,7 @@ Investigative Direction: Submit the close-up image to federal-law-enforcement-ad
 
 ---
 
-**C-3268** "Protect Erika Kirk" X group chat had 92 members
+**C-12060** "Protect Erika Kirk" X group chat had 92 members
 
 Claim Timestamp: 00:28:34
 
@@ -950,7 +949,7 @@ Investigative Direction: Obtain independent verification of membership size, gro
 
 ---
 
-**C-3269** Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old
+**C-12070** Host Says Britta Weidner (No Soup for Knowles Account) Is Approximately 45 Years Old
 
 Claim Timestamp: 00:32:22
 
@@ -965,7 +964,7 @@ Investigative Direction: Confirm identity through public records and account-his
 
 ---
 
-**C-3270** Britta Weidner sent 4,040 tweets about Candace Owens in 11 months
+**C-12072** Britta Weidner sent 4,040 tweets about Candace Owens in 11 months
 
 Claim Timestamp: 00:33:27
 
@@ -979,7 +978,7 @@ Investigative Direction: Obtain the underlying tweet-counter screenshot and veri
 
 ---
 
-**C-3271** Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)
+**C-12073** Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)
 
 Claim Timestamp: 00:34:13
 
@@ -993,7 +992,7 @@ Investigative Direction: Obtain the tweet-counter output and verify both figures
 
 ---
 
-**C-3272** Andrew Wilson's wife Rachel called into a debate he was participating in
+**C-12084** Andrew Wilson's wife Rachel called into a debate he was participating in
 
 Claim Timestamp: 00:39:29
 
@@ -1007,7 +1006,7 @@ Investigative Direction: Obtain the full debate recording and date; verify wheth
 
 ---
 
-**C-3273** Mikey McCoy's immediate post-shooting reaction is being questioned by viewer Manny Petty
+**C-12096** Mikey McCoy's immediate post-shooting reaction is being questioned by viewer Manny Petty
 
 Claim Timestamp: 00:46:41
 
@@ -1021,7 +1020,7 @@ Investigative Direction: Review body-cam footage, phone-records evidence, and co
 
 ---
 
-**C-3274** Ellie (viewer) frames Candace's "let them live and face consequences" stance as distinct from Frank Turek's "she should be killed" framing
+**C-12101** Ellie (viewer) frames Candace's "let them live and face consequences" stance as distinct from Frank Turek's "she should be killed" framing
 
 Claim Timestamp: 00:47:55
 
@@ -1035,7 +1034,7 @@ Investigative Direction: Verify the quoted Frank Turek statement against its ori
 
 ---
 
-**C-3275** Tyler Robinson is right-handed per court documents
+**C-12108** Tyler Robinson is right-handed per court documents
 
 Claim Timestamp: 00:52:51
 
@@ -1052,7 +1051,7 @@ Investigative Direction: Obtain the specific court exhibit referenced and confir
 
 ---
 
-**C-3276** Host uses Dane Cook's "favorite shirt" passage as analogical commentary on the parking-garage subject's apparel choice
+**C-12022** Host uses Dane Cook's "favorite shirt" passage as analogical commentary on the parking-garage subject's apparel choice
 
 Claim Timestamp: 00:04:18
 
@@ -1066,7 +1065,7 @@ Investigative Direction: Not directly verifiable; relevant only as documented rh
 
 ---
 
-**C-10423** Host Says Wilson's Team Showed Paranoia About Muting and Stolen Funds
+**C-12019** Host Says Wilson's Team Showed Paranoia About Muting and Stolen Funds
 
 Claim Timestamp: 00:00:01
 
@@ -1082,7 +1081,7 @@ Investigative Direction: Obtain the negotiation emails between the host's team a
 
 ---
 
-**C-10424** Host Says a Moderator Is Secured for Friday's Wilson Debate but Will Not Name Them
+**C-12020** Host Says a Moderator Is Secured for Friday's Wilson Debate but Will Not Name Them
 
 Claim Timestamp: 00:00:01
 
@@ -1098,7 +1097,7 @@ Investigative Direction: Wait for the moderator's own announcement and the debat
 
 ---
 
-**C-10425** Host Says No Soup for Knowles Was a Daily Wire Super Fan Account
+**C-12021** Host Says No Soup for Knowles Was a Daily Wire Super Fan Account
 
 Claim Timestamp: 00:00:45
 
@@ -1109,13 +1108,13 @@ Transcript Snippet: It was essentially a Daily Wire super fan account, which mos
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10900
-Supports: C-3269
+Supports: C-12070
 Tags: relevance:context
 Investigative Direction: Review the account's posting history and follows for Daily Wire fan content and confirm the owner through public records.
 
 ---
 
-**C-10426** Host Says Tyler Robinson Had Above a 4.0 GPA
+**C-12023** Host Says Tyler Robinson Had Above a 4.0 GPA
 
 Claim Timestamp: 00:05:05
 
@@ -1130,7 +1129,7 @@ Investigative Direction: Obtain Robinson's school transcripts or the court filin
 
 ---
 
-**C-10427** Host Reads Alleged Robinson Message to Lance About Keeping the Secret Until Old Age
+**C-12024** Host Reads Alleged Robinson Message to Lance About Keeping the Secret Until Old Age
 
 Claim Timestamp: 00:05:05
 
@@ -1146,7 +1145,7 @@ Investigative Direction: Compare the wording and timestamp of this message in th
 
 ---
 
-**C-10428** Host Calls the Immediate Charlie Loves Israel Imagery a Psychological Operation
+**C-12027** Host Calls the Immediate Charlie Loves Israel Imagery a Psychological Operation
 
 Claim Timestamp: 00:08:04
 
@@ -1161,7 +1160,7 @@ Investigative Direction: Catalogue the Israel-related images of Kirk that circul
 
 ---
 
-**C-10429** Host Says If Robinson Is the Patsy the Maroon Outfit Was Pre-Selected
+**C-12028** Host Says If Robinson Is the Patsy the Maroon Outfit Was Pre-Selected
 
 Claim Timestamp: 00:08:04
 
@@ -1172,13 +1171,13 @@ Transcript Snippet: The outfit was pre-selected. They selected a maroon shirt if
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-11260, N-10791
-Supports: C-3263
+Supports: C-12025
 Tags: relevance:core
 Investigative Direction: Establish who first distributed the maroon-shirt photos and when, and compare with the timing of the TMZ neighbor footage.
 
 ---
 
-**C-10430** Host Says Last Week's Stair Images Showed the Phone in the Left Hand
+**C-12029** Host Says Last Week's Stair Images Showed the Phone in the Left Hand
 
 Claim Timestamp: 00:09:04
 
@@ -1189,13 +1188,13 @@ Transcript Snippet: he's actually putting his phone in his left hand
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10791, N-10793
-Supports: C-3260
+Supports: C-12032
 Tags: relevance:core
 Investigative Direction: Review last week's episode stills against the full stairwell footage frame by frame.
 
 ---
 
-**C-10431** Host Says New Stills Come From 4K Footage Shown to Influencers in Court
+**C-12030** Host Says New Stills Come From 4K Footage Shown to Influencers in Court
 
 Claim Timestamp: 00:09:04
 
@@ -1210,7 +1209,7 @@ Investigative Direction: Ask the court and the prosecutors which exhibit was sho
 
 ---
 
-**C-10432** Host Says the Uncompressed Stills Show a Broad Build
+**C-12031** Host Says the Uncompressed Stills Show a Broad Build
 
 Claim Timestamp: 00:09:04
 
@@ -1226,7 +1225,7 @@ Investigative Direction: Measure the subject against reference objects in the ga
 
 ---
 
-**C-10433** Host Says the Stills Were Not Edited in Any Way
+**C-12033** Host Says the Stills Were Not Edited in Any Way
 
 Claim Timestamp: 00:10:07
 
@@ -1241,7 +1240,7 @@ Investigative Direction: Obtain the stills' source file and metadata to confirm 
 
 ---
 
-**C-10434** Host Recounts Official Account of Robinson Leaving St. George Before 4 AM
+**C-12037** Host Recounts Official Account of Robinson Leaving St. George Before 4 AM
 
 Claim Timestamp: 00:14:09
 
@@ -1252,13 +1251,13 @@ Transcript Snippet: he had to leave his house in St. George before 4:00 a. m. to
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10011, N-11261, N-10052
-Supports: C-1133
+Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the neighbor-camera clip with its metadata and the charging documents' departure time for the drive from St. George.
 
 ---
 
-**C-10435** Host Expects a TPUSA Employee to Testify About Robinson's Approach
+**C-12038** Host Expects a TPUSA Employee to Testify About Robinson's Approach
 
 Claim Timestamp: 00:15:02
 
@@ -1274,7 +1273,7 @@ Investigative Direction: Identify the employee in the witness list and obtain he
 
 ---
 
-**C-10436** Host Says Police Say Robinson Went to Chick-fil-A With No Footage Released
+**C-12039** Host Says Police Say Robinson Went to Chick-fil-A With No Footage Released
 
 Claim Timestamp: 00:15:44
 
@@ -1290,7 +1289,7 @@ Investigative Direction: Request the Chick-fil-A surveillance footage and receip
 
 ---
 
-**C-10437** Host Recounts Robinson Changing to a Long-Sleeve Black Shirt and Blue Jeans
+**C-12040** Host Recounts Robinson Changing to a Long-Sleeve Black Shirt and Blue Jeans
 
 Claim Timestamp: 00:15:44
 
@@ -1306,7 +1305,7 @@ Investigative Direction: Identify the footage or testimony establishing the blac
 
 ---
 
-**C-10438** Host Says Robinson Sent His Wordle Score at 11:28
+**C-12041** Host Says Robinson Sent His Wordle Score at 11:28
 
 Claim Timestamp: 00:15:44
 
@@ -1322,7 +1321,7 @@ Investigative Direction: Check the extracted message exhibit for the 11:28 Wordl
 
 ---
 
-**C-10439** Host Recounts Rifle Carried Into Pants and Limp Back Onto Campus
+**C-12042** Host Recounts Rifle Carried Into Pants and Limp Back Onto Campus
 
 Claim Timestamp: 00:15:44
 
@@ -1338,7 +1337,7 @@ Investigative Direction: Compare against the charging documents and any footage 
 
 ---
 
-**C-10440** Host Recounts Changing Back to the Maroon Shirt and Dairy Queen Sighting
+**C-12043** Host Recounts Changing Back to the Maroon Shirt and Dairy Queen Sighting
 
 Claim Timestamp: 00:16:41
 
@@ -1354,7 +1353,7 @@ Investigative Direction: Obtain the Dairy Queen photo with its metadata and the 
 
 ---
 
-**C-10441** Host Recounts Three-Hour Drive to a Panguitch Steak House
+**C-12044** Host Recounts Three-Hour Drive to a Panguitch Steak House
 
 Claim Timestamp: 00:16:41
 
@@ -1370,7 +1369,7 @@ Investigative Direction: Obtain the restaurant's receipt, timestamp and any came
 
 ---
 
-**C-10442** Host Recounts Return Drive to Orem to Retrieve the Rifle
+**C-12045** Host Recounts Return Drive to Orem to Retrieve the Rifle
 
 Claim Timestamp: 00:17:43
 
@@ -1386,7 +1385,7 @@ Investigative Direction: Identify the vehicle-tracking, license-plate or camera 
 
 ---
 
-**C-10443** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer
+**C-12046** Host Says She Wrongly Assumed Robinson Was Pulled Over and Now Reads Hoole as Saying He Stopped to Ask an Officer
 
 Claim Timestamp: 00:17:43
 
@@ -1397,13 +1396,13 @@ Transcript Snippet: I wrongly assumed that he had been pulled over.
 Anchored Artifacts: A-2270.1
 Mentions: N-40, N-861
 Related Nodes: N-11261
-Supports: C-3266
+Supports: C-12047
 Tags: relevance:core
 Investigative Direction: Obtain the full Hoole testimony transcript and the officer's report to determine who initiated the contact.
 
 ---
 
-**C-10444** Hoole Audio Says the Vehicle Was Pulling Away East on 800 South
+**C-12048** Hoole Audio Says the Vehicle Was Pulling Away East on 800 South
 
 Claim Timestamp: 00:18:42
 
@@ -1419,7 +1418,7 @@ Investigative Direction: Obtain the exhibit map and video Hoole was describing a
 
 ---
 
-**C-10445** Host Says No Footage of the Officer Contact Has Been Shown
+**C-12049** Host Says No Footage of the Officer Contact Has Been Shown
 
 Claim Timestamp: 00:19:39
 
@@ -1435,7 +1434,7 @@ Investigative Direction: Request the security officer's body-camera footage and 
 
 ---
 
-**C-10446** Host Says Robinson Could Not Have Reached St. George Before 5 AM
+**C-12050** Host Says Robinson Could Not Have Reached St. George Before 5 AM
 
 Claim Timestamp: 00:19:39
 
@@ -1451,7 +1450,7 @@ Investigative Direction: Compare the text-message times and doorbell footage met
 
 ---
 
-**C-10447** Host Calculates Robinson Was Awake 25 Hours and Drove About 13 Hours 20 Minutes
+**C-12051** Host Calculates Robinson Was Awake 25 Hours and Drove About 13 Hours 20 Minutes
 
 Claim Timestamp: 00:20:24
 
@@ -1467,7 +1466,7 @@ Investigative Direction: Sum the drive legs from the charging documents and map-
 
 ---
 
-**C-10448** Host Recounts a Cedar City Gas Station Fill-Up With No Explanation
+**C-12052** Host Recounts a Cedar City Gas Station Fill-Up With No Explanation
 
 Claim Timestamp: 00:21:20
 
@@ -1483,7 +1482,7 @@ Investigative Direction: Obtain the Cedar City gas station footage, receipt and 
 
 ---
 
-**C-10449** Host Says Lance Will Testify He Saw Robinson on Waking
+**C-12053** Host Says Lance Will Testify He Saw Robinson on Waking
 
 Claim Timestamp: 00:21:20
 
@@ -1499,7 +1498,7 @@ Investigative Direction: Review Lance's statements to investigators and any witn
 
 ---
 
-**C-10450** Host Says Robinson Was Still in the Same Shirt When Arrested
+**C-12054** Host Says Robinson Was Still in the Same Shirt When Arrested
 
 Claim Timestamp: 00:22:04
 
@@ -1515,7 +1514,7 @@ Investigative Direction: Obtain the arrest photographs and booking inventory of 
 
 ---
 
-**C-10451** Host Says the Feds Do Not Address Dairy Queen or the Steak House
+**C-12055** Host Says the Feds Do Not Address Dairy Queen or the Steak House
 
 Claim Timestamp: 00:22:04
 
@@ -1531,7 +1530,7 @@ Investigative Direction: Compare the indictment and hearing testimony with the D
 
 ---
 
-**C-10452** Host Says a Young Woman Researcher Flagged an Item Falling From Zinn's Pants
+**C-12056** Host Says a Young Woman Researcher Flagged an Item Falling From Zinn's Pants
 
 Claim Timestamp: 00:26:22
 
@@ -1542,13 +1541,13 @@ Transcript Snippet: there is a a young woman who reached out to me and said, "He
 Anchored Artifacts: 
 Mentions: N-42
 Related Nodes: N-10792
-Supports: C-3267
+Supports: C-12059
 Tags: relevance:core
 Investigative Direction: Obtain the arrest video and high-resolution photographs the researcher used and their source.
 
 ---
 
-**C-10453** Host Says Zinn Said I Did It Before Coming Down
+**C-12057** Host Says Zinn Said I Did It Before Coming Down
 
 Claim Timestamp: 00:26:22
 
@@ -1564,7 +1563,7 @@ Investigative Direction: Obtain police body-camera footage and reports of Zinn's
 
 ---
 
-**C-10454** Host Asks Viewers to Email Tips to Identify Zinn's Device
+**C-12058** Host Asks Viewers to Email Tips to Identify Zinn's Device
 
 Claim Timestamp: 00:27:21
 
@@ -1575,13 +1574,13 @@ Transcript Snippet: You can send us an email to moretips@candaceowens. com.
 Anchored Artifacts: A-3079.1
 Mentions: N-42, N-3
 Related Nodes: N-10792
-Supports: C-3267
+Supports: C-12059
 Tags: dia, relevance:core
 Investigative Direction: Review the emails received at the tips address for identifications of the device.
 
 ---
 
-**C-10455** Host Says a Group Chat Member Apologised and Left After It Turned Toxic
+**C-12061** Host Says a Group Chat Member Apologised and Left After It Turned Toxic
 
 Claim Timestamp: 00:28:34
 
@@ -1592,13 +1591,13 @@ Transcript Snippet: yes, I participated in this and actually just wanted to say 
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10780
-Supports: C-3268
+Supports: C-12060
 Tags: relevance:context
 Investigative Direction: Confirm the member's account and the group's creation date and moderation through the host's source.
 
 ---
 
-**C-10456** Host Says Group Members Believed She Was Buying a House for Eight Nannies
+**C-12062** Host Says Group Members Believed She Was Buying a House for Eight Nannies
 
 Claim Timestamp: 00:28:34
 
@@ -1614,7 +1613,7 @@ Investigative Direction: Locate the group-chat messages that raised the house pu
 
 ---
 
-**C-10457** Host Says an Earlier 26-Member Group Chat Radicalised a Member Who Plotted Her Assassination
+**C-12063** Host Says an Earlier 26-Member Group Chat Radicalised a Member Who Plotted Her Assassination
 
 Claim Timestamp: 00:29:36
 
@@ -1630,7 +1629,7 @@ Investigative Direction: Obtain the federal charging documents and court record 
 
 ---
 
-**C-10458** Host Says Haim Braverman Was Arrested, Pled Guilty and Is in Prison
+**C-12064** Host Says Haim Braverman Was Arrested, Pled Guilty and Is in Prison
 
 Claim Timestamp: 00:29:36
 
@@ -1645,7 +1644,7 @@ Investigative Direction: Search federal court dockets and DOJ press releases for
 
 ---
 
-**C-10459** Host Says a Pro-Israel Woman Founded the Protect Erika Kirk Group
+**C-12065** Host Says a Pro-Israel Woman Founded the Protect Erika Kirk Group
 
 Claim Timestamp: 00:30:19
 
@@ -1661,7 +1660,7 @@ Investigative Direction: Identify the founder from the group's records and verif
 
 ---
 
-**C-10460** Host Says She Will File Something and Has Learned of Other Members
+**C-12066** Host Says She Will File Something and Has Learned of Other Members
 
 Claim Timestamp: 00:30:19
 
@@ -1677,7 +1676,7 @@ Investigative Direction: Check for any complaint or legal filing by the host's t
 
 ---
 
-**C-10461** Host Says the Then-CEO Flew Daily Wire Super Fans Out to Meet Them
+**C-12067** Host Says the Then-CEO Flew Daily Wire Super Fans Out to Meet Them
 
 Claim Timestamp: 00:30:19
 
@@ -1693,7 +1692,7 @@ Investigative Direction: Ask the Daily Wire or former staff about fan visits and
 
 ---
 
-**C-10462** Host Says Boreing and the PR Agent Were Working Through Britta
+**C-12068** Host Says Boreing and the PR Agent Were Working Through Britta
 
 Claim Timestamp: 00:31:45
 
@@ -1709,7 +1708,7 @@ Investigative Direction: Look for coordination evidence between the account and 
 
 ---
 
-**C-10463** Host Says Weidner Helped Spread the April Lies About Her Husband
+**C-12069** Host Says Weidner Helped Spread the April Lies About Her Husband
 
 Claim Timestamp: 00:31:45
 
@@ -1725,7 +1724,7 @@ Investigative Direction: Compile the April posts about the host's husband and id
 
 ---
 
-**C-10464** Host Says Loomer Sent About 1,800 Tweets About Her
+**C-12071** Host Says Loomer Sent About 1,800 Tweets About Her
 
 Claim Timestamp: 00:32:30
 
@@ -1740,7 +1739,7 @@ Investigative Direction: Obtain the tweet-counter output shown in the earlier ep
 
 ---
 
-**C-10465** Host Says Acquaintances of Group Members Are Emailing the Tips Line
+**C-12074** Host Says Acquaintances of Group Members Are Emailing the Tips Line
 
 Claim Timestamp: 00:34:13
 
@@ -1751,13 +1750,13 @@ Transcript Snippet: people who know other people in the group began emailing our
 Anchored Artifacts: A-3080.1
 Mentions: N-3
 Related Nodes: N-10780
-Supports: C-3268
+Supports: C-12060
 Tags: relevance:context,dia
 Investigative Direction: Review the tips inbox for messages identifying group members and verify each independently.
 
 ---
 
-**C-10466** Host Says Top People at a Conservative Corporation Are in the Group Chat
+**C-12075** Host Says Top People at a Conservative Corporation Are in the Group Chat
 
 Claim Timestamp: 00:34:13
 
@@ -1773,7 +1772,7 @@ Investigative Direction: Obtain the member list and employer records and verify 
 
 ---
 
-**C-10467** Host Says Paramount Not Tactical Was Virtually the Only Man in the Group
+**C-12076** Host Says Paramount Not Tactical Was Virtually the Only Man in the Group
 
 Claim Timestamp: 00:35:07
 
@@ -1789,7 +1788,7 @@ Investigative Direction: Confirm the membership list, including whether a Paramo
 
 ---
 
-**C-10468** Host Says She Has Had No New Demands From Wilson Since the Public Negotiation
+**C-12077** Host Says She Has Had No New Demands From Wilson Since the Public Negotiation
 
 Claim Timestamp: 00:35:17
 
@@ -1805,7 +1804,7 @@ Investigative Direction: Compare the public negotiation posts with the emails ex
 
 ---
 
-**C-10469** Host Says the Moderator Is Wilson's Second Pick After Knowles Declined
+**C-12078** Host Says the Moderator Is Wilson's Second Pick After Knowles Declined
 
 Claim Timestamp: 00:36:00
 
@@ -1821,7 +1820,7 @@ Investigative Direction: Ask Wilson's team and Knowles's representatives to conf
 
 ---
 
-**C-10470** Host Says Wilson Tried to Negotiate an Automatic Win for Any Ad Hominem Attack
+**C-12079** Host Says Wilson Tried to Negotiate an Automatic Win for Any Ad Hominem Attack
 
 Claim Timestamp: 00:36:00
 
@@ -1837,7 +1836,7 @@ Investigative Direction: Obtain the proposed debate terms exchanged between the 
 
 ---
 
-**C-10471** Host Says She Told Wilson He Cannot Smoke Cigarettes in Her Home
+**C-12080** Host Says She Told Wilson He Cannot Smoke Cigarettes in Her Home
 
 Claim Timestamp: 00:36:00
 
@@ -1853,7 +1852,7 @@ Investigative Direction: Review the debate terms for the studio smoking rule and
 
 ---
 
-**C-10472** Host Reads Rachel Wilson's Typical Woman Nonsense Message
+**C-12081** Host Reads Rachel Wilson's Typical Woman Nonsense Message
 
 Claim Timestamp: 00:36:00
 
@@ -1869,7 +1868,7 @@ Investigative Direction: Obtain the original post or message from Rachel Wilson.
 
 ---
 
-**C-10473** Host Reads Rachel Wilson's Zoomer Soy Boys and HR Message
+**C-12082** Host Reads Rachel Wilson's Zoomer Soy Boys and HR Message
 
 Claim Timestamp: 00:37:15
 
@@ -1885,7 +1884,7 @@ Investigative Direction: Obtain the original post from Rachel Wilson.
 
 ---
 
-**C-10474** Host Says Rachel Wilson Posted Photos of Her Pregnant Backstage at the Daily Wire
+**C-12083** Host Says Rachel Wilson Posted Photos of Her Pregnant Backstage at the Daily Wire
 
 Claim Timestamp: 00:37:56
 
@@ -1901,7 +1900,7 @@ Investigative Direction: Locate the photos Rachel Wilson posted and their dates.
 
 ---
 
-**C-10475** Rachel Wilson Says in the Clip She Has Had Only Three Long-Term Relationships
+**C-12085** Rachel Wilson Says in the Clip She Has Had Only Three Long-Term Relationships
 
 Claim Timestamp: 00:40:18
 
@@ -1911,13 +1910,13 @@ Transcript Snippet: I've spent my entire adult life only in three long-term comm
 
 Anchored Artifacts: A-2274.1
 Mentions: N-561, N-18
-Supports: C-3272
+Supports: C-12084
 Tags: relevance:tangential
 Investigative Direction: Verify the marriage and relationship timeline through public records and the full debate clip.
 
 ---
 
-**C-10476** Rachel Wilson Says in the Clip Her Prior Husband Beat Her and Fled the State
+**C-12086** Rachel Wilson Says in the Clip Her Prior Husband Beat Her and Fled the State
 
 Claim Timestamp: 00:41:05
 
@@ -1932,7 +1931,7 @@ Investigative Direction: Search public court records for the earlier marriage an
 
 ---
 
-**C-10477** Rachel Wilson Says in the Clip She Had Two Children With Her High School Boyfriend
+**C-12087** Rachel Wilson Says in the Clip She Had Two Children With Her High School Boyfriend
 
 Claim Timestamp: 00:41:05
 
@@ -1947,7 +1946,7 @@ Investigative Direction: Treat as the speaker's own account; no external verific
 
 ---
 
-**C-10478** Male Voice in the Clip Asks if She Would Be Promiscuous Had She Aborted Her Children
+**C-12088** Male Voice in the Clip Asks if She Would Be Promiscuous Had She Aborted Her Children
 
 Claim Timestamp: 00:41:56
 
@@ -1962,7 +1961,7 @@ Investigative Direction: Identify the speaker and the show from the full debate 
 
 ---
 
-**C-10479** Host Says Wilson Tells His Wife to Shut Up in the Clip
+**C-12089** Host Says Wilson Tells His Wife to Shut Up in the Clip
 
 Claim Timestamp: 00:41:56
 
@@ -1972,13 +1971,13 @@ Transcript Snippet: And she jumps right in and she speaks on behalf of her husba
 
 Anchored Artifacts: A-2274.1
 Mentions: N-561, N-18
-Supports: C-3272
+Supports: C-12084
 Tags: relevance:tangential
 Investigative Direction: Review the full clip to attribute the shut-up lines to a specific speaker.
 
 ---
 
-**C-10480** Host Admits She Suggested Rachel Wilson Should Shut Up
+**C-12090** Host Admits She Suggested Rachel Wilson Should Shut Up
 
 Claim Timestamp: 00:43:01
 
@@ -1994,7 +1993,7 @@ Investigative Direction: Obtain the exchange in which the host made the remark.
 
 ---
 
-**C-10481** Host Says Rachel Wilson Authored 37,000 Tweets and Hunted for Photos
+**C-12091** Host Says Rachel Wilson Authored 37,000 Tweets and Hunted for Photos
 
 Claim Timestamp: 00:43:01
 
@@ -2009,7 +2008,7 @@ Investigative Direction: Run a tweet count on Rachel Wilson's account.
 
 ---
 
-**C-10482** Host Says Andrew Wilson Did Not Try to Negotiate Smoking at the Studio
+**C-12092** Host Says Andrew Wilson Did Not Try to Negotiate Smoking at the Studio
 
 Claim Timestamp: 00:43:01
 
@@ -2025,7 +2024,7 @@ Investigative Direction: Compare the negotiation messages for any smoking reques
 
 ---
 
-**C-10483** Host Says She Knew Nothing About Wilson Until He Went on Joe Rogan
+**C-12093** Host Says She Knew Nothing About Wilson Until He Went on Joe Rogan
 
 Claim Timestamp: 00:43:01
 
@@ -2040,7 +2039,7 @@ Investigative Direction: Identify the Rogan appearance date and the host's earli
 
 ---
 
-**C-10484** Host Says TPUSA Brought In and Paid Wilson to Teach Students to Debate
+**C-12094** Host Says TPUSA Brought In and Paid Wilson to Teach Students to Debate
 
 Claim Timestamp: 00:43:01
 
@@ -2056,7 +2055,7 @@ Investigative Direction: Request TPUSA contracts, invoices or event schedules sh
 
 ---
 
-**C-10485** Host Says Respect in Debate Was One of Charlie Kirk's Rules
+**C-12095** Host Says Respect in Debate Was One of Charlie Kirk's Rules
 
 Claim Timestamp: 00:44:21
 
@@ -2071,7 +2070,7 @@ Investigative Direction: Review Kirk's debate footage and public statements on r
 
 ---
 
-**C-10486** Host Says McCoy Was First Said to Call Erika but Actually Called His Wife
+**C-12097** Host Says McCoy Was First Said to Call Erika but Actually Called His Wife
 
 Claim Timestamp: 00:46:41
 
@@ -2082,13 +2081,13 @@ Transcript Snippet: initially, like I said, they told us that he instantly calle
 Anchored Artifacts: 
 Mentions: N-190, N-2
 Related Nodes: N-10338
-Supports: C-3273
+Supports: C-12096
 Tags: relevance:core
 Investigative Direction: Obtain the phone records or court exhibit showing the first call McCoy made and who received it.
 
 ---
 
-**C-10487** Host Says the Call With Erika Was Too Short and There Were Three-Way Calls
+**C-12098** Host Says the Call With Erika Was Too Short and There Were Three-Way Calls
 
 Claim Timestamp: 00:46:41
 
@@ -2099,13 +2098,13 @@ Transcript Snippet: Then there was like all of these three-way calls, and the ca
 Anchored Artifacts: 
 Mentions: N-190, N-2
 Related Nodes: N-10338
-Supports: C-3273
+Supports: C-12096
 Tags: relevance:core
 Investigative Direction: Obtain the call-detail records for the calls among McCoy, Erika Kirk and others on September 10.
 
 ---
 
-**C-10488** Host Says McCoy Was on the Phone With Danny Philip for 10 Minutes and They Rode in Separate Cars
+**C-12099** Host Says McCoy Was on the Phone With Danny Philip for 10 Minutes and They Rode in Separate Cars
 
 Claim Timestamp: 00:46:41
 
@@ -2121,7 +2120,7 @@ Investigative Direction: Obtain call logs and hospital-arrival records for McCoy
 
 ---
 
-**C-10489** Host Says the TPUSA Figures Are on Record Lying About McCoy's Behavior
+**C-12100** Host Says the TPUSA Figures Are on Record Lying About McCoy's Behavior
 
 Claim Timestamp: 00:46:41
 
@@ -2132,13 +2131,13 @@ Transcript Snippet: they are on record lying about what happened there.
 Anchored Artifacts: 
 Mentions: N-190
 Related Nodes: N-10198
-Supports: C-3273
+Supports: C-12096
 Tags: relevance:core
 Investigative Direction: List the public statements by TPUSA figures about McCoy's calls and compare them with phone records.
 
 ---
 
-**C-10490** Host Says Pastors Are Complaining Members Are Getting Caught in the Cult of Candace
+**C-12102** Host Says Pastors Are Complaining Members Are Getting Caught in the Cult of Candace
 
 Claim Timestamp: 00:47:57
 
@@ -2154,7 +2153,7 @@ Investigative Direction: Identify the pastors and the public statements the host
 
 ---
 
-**C-10491** Host Says an NBC Article With Blake Neff Says Kirk's Death Would Have United Conservatives
+**C-12103** Host Says an NBC Article With Blake Neff Says Kirk's Death Would Have United Conservatives
 
 Claim Timestamp: 00:48:33
 
@@ -2169,7 +2168,7 @@ Investigative Direction: Read the NBC article and compare its wording with the h
 
 ---
 
-**C-10492** Host Says Charlie Kirk Tweeted in 2018 That He Would Not Be Here but Others See It to the End
+**C-12104** Host Says Charlie Kirk Tweeted in 2018 That He Would Not Be Here but Others See It to the End
 
 Claim Timestamp: 00:49:56
 
@@ -2184,7 +2183,7 @@ Investigative Direction: Locate the 2018 tweet in Kirk's archive and compare its
 
 ---
 
-**C-10493** Host Says Blake Neff Offered to Throw Money Toward a Wilson-Candace Debate
+**C-12106** Host Says Blake Neff Offered to Throw Money Toward a Wilson-Candace Debate
 
 Claim Timestamp: 00:51:53
 
@@ -2200,7 +2199,7 @@ Investigative Direction: Find Neff's original post or message offering money and
 
 ---
 
-**C-10494** Host Says Wilson Peddles That the Evidence Against Robinson Is Overwhelming
+**C-12105** Host Says Wilson Peddles That the Evidence Against Robinson Is Overwhelming
 
 Claim Timestamp: 00:50:30
 
@@ -2215,7 +2214,7 @@ Investigative Direction: Collect Wilson's public statements on the Robinson evid
 
 ---
 
-**C-10495** Host Says TPUSA Is Already Paying Wilson to Debate
+**C-12107** Host Says TPUSA Is Already Paying Wilson to Debate
 
 Claim Timestamp: 00:52:08
 
@@ -2231,7 +2230,7 @@ Investigative Direction: Request TPUSA payment records and statements about Wils
 
 ---
 
-**C-10496** Host Says the Person on the Steps Made a Mistake Because You Cannot Rewire Your Brain
+**C-12109** Host Says the Person on the Steps Made a Mistake Because You Cannot Rewire Your Brain
 
 Claim Timestamp: 00:52:51
 
@@ -2242,13 +2241,13 @@ Transcript Snippet: The person I believe uh that was coming down these steps and
 Anchored Artifacts: 
 Mentions: N-40
 Related Nodes: N-10793, N-10791
-Supports: C-3275
+Supports: C-12108
 Tags: relevance:core
 Investigative Direction: Compare court exhibits on Robinson's handedness with the stair footage hand use.
 
 ---
 
-**C-10497** Host Says Lance's Fingerprints Are Everywhere Prosecutors Attribute to Tyler
+**C-12110** Host Says Lance's Fingerprints Are Everywhere Prosecutors Attribute to Tyler
 
 Claim Timestamp: 00:52:51
 
@@ -2264,7 +2263,7 @@ Investigative Direction: Review the forensic reports and any immunity agreement 
 
 ---
 
-**C-10498** Host Says She Will Put No Boundaries on Rachel Wilson Attending the Debate
+**C-12111** Host Says She Will Put No Boundaries on Rachel Wilson Attending the Debate
 
 Claim Timestamp: 00:52:51
 
@@ -2280,7 +2279,7 @@ Investigative Direction: Check the final debate terms for any limits on who atte
 
 ---
 
-**C-10499** Host Recalls a Week When Someone Seemed to Be Tweeting for Kolvet
+**C-12112** Host Recalls a Week When Someone Seemed to Be Tweeting for Kolvet
 
 Claim Timestamp: 00:54:04
 
@@ -2461,8 +2460,8 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Artifact verbally referenced but not shown:** Court exhibits cited for Tyler Robinson's right-handedness (C-3275); the original court's body-cam footage for the Tyler Robinson / Officer Goforth encounter (C-3266).
-- **Transcript ambiguity:** C-3268 – membership count of the "Protect Erika Kirk" group is reported by the host via an exiting member; no screenshot of the group or its roster is displayed in this episode.
+- **Artifact verbally referenced but not shown:** Court exhibits cited for Tyler Robinson's right-handedness (C-12108); the original court's body-cam footage for the Tyler Robinson / Officer Goforth encounter (C-12047).
+- **Transcript ambiguity:** C-12060 – membership count of the "Protect Erika Kirk" group is reported by the host via an exiting member; no screenshot of the group or its roster is displayed in this episode.
 - **Name uncertainty:** "No Soup for Knowles" vs. "No Soup for Knowles" – host uses both forms interchangeably to refer to the same X account; flagged here for cross-episode consistency.
 - **Host reading aloud / displaying source material:** All viewer comments in A-2275 are explicitly read aloud; treated as artifacts under the read/display rule.
 - **Audio played as artifact:** A-2270.1 (Agent Hull testimony), A-2274.1 (Andrew Wilson debate clip), A-2276.1 (Dane Cook Vicious Cycle).
@@ -2474,7 +2473,7 @@ Confidence: high
 **Artifact Families Introduced:**
 A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
-**Claim Range:** C-3260–C-3276
+**Claim Range:** C-12032–C-12022
 
 **New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141 is a topic id; Britta Weidner has no CKA person node.
 
