@@ -30,3 +30,17 @@ Write `<PACK>/confirmed_<NNN>.json`: a JSON list, one object per item, in order:
 For `accept`, copy the proposed fix into `fix`. For `amend`, give the full corrected fix. `note` is a reason in under
 200 characters. Validate the file with `python3 -c "import json;json.load(open('<file>'))"`. Reply with one line:
 the counts of accept, amend and reject.
+
+## Standing notes (rulings through 2026-10-19)
+- The host (N-3) is optional in Mentions: do not accept a fix whose only effect is adding or removing N-3.
+- When you add a person id, check its canonical name in `canonical/nodes.json` and that the node is introduced in
+  that episode or earlier (its `episodes` list).
+- Check the current draft (`drafts/episode_NNN.md`): reject a fix the current text already has. A fix that only
+  re-applies an existing rule in `config/transcript_name_corrections.json` changes nothing: reject it.
+- If the host herself says a wrong name (not a transcription error), keep her words and add the correct name in
+  brackets; do not put it in `names`.
+- A name correction resting only on inference, a first name alone, or people-search sites (RocketReach, SignalHire)
+  is unresolved: reject the name part.
+- Timestamp rule: a timestamp is wrong only if the content is spoken more than about 75 s after it or more than about
+  20 s before it. Reject timestamp fixes inside that window.
+- A speaker-attribution fix that rests only on `>>` markers is accepted only if the content makes the speaker clear.

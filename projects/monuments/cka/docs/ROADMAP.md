@@ -33,7 +33,7 @@ The full execution plan from here to a verified, published and promoted archive.
 | 1.1 | ✅ Supplement batch 6 (20 episodes) | merged (#76) |
 | 1.2 | ✅ Supplement batch 7 (the last 22 episodes) | merged (#77); all 161 episodes filled or supplemented |
 | 1.3 | ✅ 2026-10-19 Ep 399–403 (seq 162–166, `audits/catchup_2026-10-19/`). Catch up on new episodes: Ep 399, Ep 400 and later | the manifest matches the channel |
-| 1.4 | **Automated daily pipeline**, Mon–Thu at 4 p.m. PT: watch the channel feed → fetch our transcript and the HappyScribe one → apply name corrections, and flag any HappyScribe name differences for review → extract → integrate → QA sample → PR → merge when CI is green → push notification to Daveed with that day's review items | runs unattended for a week |
+| 1.4 | 🚧 2026-10-19 tooling: `scripts/daily/` (intake.py, finalize.py, run_daily.sh), `docs/daily/RUNBOOK.md`. **Automated daily pipeline**, Mon–Thu at 4 p.m. PT: watch the channel feed → fetch our transcript and the HappyScribe one → apply name corrections, and flag any HappyScribe name differences for review → extract → integrate → QA sample → PR → merge when CI is green → push notification to Daveed with that day's review items | runs unattended for a week |
 | 1.5 | Daily X ingest from Daveed's account; tweet-to-claim, node and artifact linking for the 13-month backfill | every tweet is linked or explicitly unlinked |
 | 1.6 | **Monitor throughput.** Log 5-hour and weekly usage per batch and per daily run | review only if the daily run slips more than one day (then move extraction to batch API or cloud jobs) |
 
