@@ -41,6 +41,17 @@ an allegation is true. Edit no file except your results file.
 - When the host says "you", check who she is addressing and who actually did the thing she describes.
 - A claim that states as fact what the host reports from a post, a chat or a rumour is an attribution error.
 
+
+## Second pass (2026-10-16): names first
+The last QA sample found that the remaining errors are almost all mis-transcribed names. For every claim:
+- Compare each person name in the Claim and the label with the canonical name of the id in Mentions and with the
+  transcript. A spelling that differs from the node, or a node name that looks garbled, needs a check.
+- For any name that is not a well-known public figure, web-search it ("<name>" with "Charlie Kirk", "Candace Owens"
+  or the context) before passing it. Report a confirmed correction in `names` with the source; if you cannot
+  confirm it, write "unresolved name: <name>" in the note.
+- Also flag a garbled place, company or organisation name the same way.
+The other four checks still apply as before.
+
 ## Fixes
 For every claim that is material **or** minor, give the fix as fields to set. Include only fields that change:
 - `claim`: the corrected Claim sentence, in the archive's style ("The host says …", "In a clip the host plays,
@@ -64,3 +75,7 @@ Write `<PACK>/results_<NNN>.json`: a JSON list, one object per claim, in item or
 `note` explains any finding by quoting the transcript, in under 300 characters. Check every claim; do not skip any.
 Validate the file with `python3 -c "import json;json.load(open('<file>'))"`. Reply with one line: the numbers of
 claims checked, material and minor.
+
+Timestamp rule reminder: content spoken up to 75 seconds after the Claim Timestamp is OK, not an error; flag only
+content more than ~75s after or more than ~20s before. Web searches are shared with other reviewers: search only the
+names that need it.
