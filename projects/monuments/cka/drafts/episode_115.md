@@ -352,7 +352,7 @@ First named by the host at 00:07:01 in episode 115. Named in the news clip as Ma
 
 *Related: C-4548, A-2659.1*
 
-**N-678** Courtney Thief
+**N-678** Courtney Fife
 
 First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.
 
@@ -766,7 +766,7 @@ Investigative Direction: Identify the source of the confession account and any A
 
 Claim Timestamp: 00:08:45
 
-Claim: The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Thief reportedly confided.
+Claim: The host says the ATF was apparently investigating Mark Liti over the explosives, according to what a former ATF agent named Courtney Fife reportedly confided.
 
 Transcript Snippet: The ATF was apparently investigating for this, investigating him for this.
 
@@ -1611,7 +1611,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2666.1 (the Department of War / White House "emotional asset" email). A-2662.1 (FBI plane flight) is described in detail, but the transcript does not show whether flight data was on screen.
 - **DIA scan**: the only hit is "candace Owens. com" (51:13), a merch plug, so it is not a DIA beat. There are no tip requests or bounties; M-12 is not used.
-- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Liti", "Mark Le", "Mark Liti", "Mark a lady") is minted as N-676. His brother is minted as N-677 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Thief" (N-678, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-105 Corey Comperatore. "Cameron Hanes" is minted as N-680 Cameron Hanes. "James Kaddis" (N-666) and "Vladimir Putin" (N-625) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-159, "Andrew Kolvet" to N-14, "Dan Bongino" to N-378, "Bill Ackman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-104 only as the family name.
+- **Name matching**: The skeleton's "Mark Liti" (transcript "Mark A. Leiti", "Mark Liti", "Mark Le", "Mark Liti", "Mark a lady") is minted as N-676. His brother is minted as N-677 under the transcript spelling "Chris Liti"; the surname may also be Liti. "Courtney Fife" (N-678, described as a former ATF agent) comes from a garbled sentence, so both the name and the role are uncertain. "Corey/Cory Comparator" is mapped to N-105 Corey Comperatore. "Cameron Hanes" is minted as N-680 Cameron Hanes. "James Kaddis" (N-666) and "Vladimir Putin" (N-625) reuse titles from staging episodes 112 and 105/111. "Blick Nef" is mapped to N-159, "Andrew Kolvet" to N-14, "Dan Bongino" to N-378, "Bill Ackman" to N-37 and "Rob McCoyy" to N-17. "The Crooks family" is linked to N-104 only as the family name.
 - **Meme title spellings**: The merch meme appears in staging as "Stop Anti-Candism" (112), "Stop Anti-Candaceism" (111) and "Anti-Candacism" (113). This episode uses the 112 spelling. "Punt the Chihuahua" (M-115) also aired in episodes 111 and 116 but has not been minted in staging before, so the integrator may need to merge it.
 - **Transcription ambiguities**: "PE TN", "PN", "PET and" and "PE10" all refer to PETN. "Ken Kiddening" and "Kittening" refer to Kittanning. "Mossad" is the transcript's spelling of Mossad. "306" is .30-06. "Sar Jafal" and "Hussein Teny" are survivors named in the pager clip; no nodes were made for them. X user "Crystal Smalland" is credited with finding the Charlie Kirk video and is treated as a handle, not a node.
 - **Garbled passage**: around 11:53–12:21 the transcript reads "Just 2. Months after the Butler shooting, um Cory Comparator loses his life" before turning to the pager attack "on September 17th. And on September 18th of 2024"; the sentence seems to have lost words and was not inscribed.

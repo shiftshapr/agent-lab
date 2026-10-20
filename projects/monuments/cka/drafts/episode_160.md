@@ -27,7 +27,7 @@
 
 Episode 397 opens by framing a new Candace smear package the host nicknames Candyland: a Lisa Nose X post alleging eight illegal nannies under NDA in a second Nashville mansion, attributed originally to Jessica Reed Kraus, which the host satirizes as the latest failed character attack. She then argues a broader distraction SCOP is underway, cycling narratives (dead-internet feel) because Charlie Kirk remains unresolved: she cites Las Vegas 2017 vanishing within five days under MeToo/Harvey Weinstein coverage, then Nick Shirley's Somali-daycare scoop (and Shirley as last Charlie Kirk Show guest, booked by Andrew Kolvet) as a failed distraction, then a killer-mom / Lindsay Clancy / Nancy Mace / New York Post / Libs of TikTok filicide panic that she says neocons link to women who distrust Erika Kirk, aimed at regulating the internet after bots failed.
 
-The core UVU beat: the independent review names a Station 2 fire captain who assisted CPR at Timpanogos Hospital but leaves him unnamed, while naming non-participants Caleb Chilcutt and Maycee Crofts. Host plays 911 audio (ladder 33 / engine 34 redirected ~12:30) and stresses that neither Frank Turek nor Brian Harpole ever mentioned a fire captain giving CPR. Frank Turek on Brandon Tatum's podcast then doubles down that Jeff Long "had the roofs," citing a Dan Flood text, after the review's release. Closing thirds cover banker whistleblower Simon Andriesz's reported death after flagging Howard Lutnick's Epstein ties and a 2018 email/startup claim (BBC), Zach Bryan's Free Palestine shirts and Gillette Stadium attendance-record nights after Robert Kraft canceled Macklemore, Baron Coleman under X attack after being announced as guest host during Candace's maternity leave, and comments revisiting Brian Cole Jr., Skyler, Brigitte/France, and smear economics promised for the next show.
+The core UVU beat: the independent review names a Station 2 fire captain who assisted CPR at Timpanogos Hospital but leaves him unnamed, while naming non-participants Caleb Chilcutt and Maycee Crofts. Host plays 911 audio (ladder 33 / engine 34 redirected ~12:30) and stresses that neither Frank Turek nor Brian Harpole ever mentioned a fire captain giving CPR. Frank Turek on Brandon Tatum's podcast then doubles down that Jeff Long "had the roofs," citing a Dan Flood text, after the review's release. Closing thirds cover banker whistleblower Simon Andriesz's reported death after flagging Howard Lutnick's Epstein ties and a 2018 email/startup claim (BBC), Zach Bryan's Free Palestine shirts and Gillette Stadium attendance-record nights after Robert Kraft canceled Macklemore, Baron Coleman under X attack after being announced as guest host during Candace's maternity leave, and comments revisiting Brian Cole Jr., Schuyler, Brigitte/France, and smear economics promised for the next show.
 
 ---
 
@@ -272,7 +272,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Producer; host asks in comments to cover "data Republican" resignation later ("Skylar").
 
@@ -1896,7 +1896,7 @@ Investigative Direction: Review the charging documents and the recorded interrog
 
 Claim Timestamp: 00:54:01
 
-Claim: The host says the Data Republican resigned and was "literally hired to go after me", and that she wants Skyler to remind her to discuss it.
+Claim: The host says the Data Republican resigned and was "literally hired to go after me", and that she wants Schuyler to remind her to discuss it.
 
 Transcript Snippet: we got to talk about uh the resignation of data Republican who was literally hired to go after me.
 

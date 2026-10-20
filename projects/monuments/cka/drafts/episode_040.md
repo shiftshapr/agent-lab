@@ -244,7 +244,7 @@ Investigative Pressure: Low
 
 **N-67** Mark Herman (director, Candace show)
 
-In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host names him with Skyler as the small-team members who push back on sources ("Mark will be like I don't know about this") before a story goes out. No claim anchor; registered for cross-episode continuity.
+In-house director on Candace Owens' show, called on air by first name (director per seq 27 roster). Here, in comments, the host names him with Schuyler as the small-team members who push back on sources ("Mark will be like I don't know about this") before a story goes out. No claim anchor; registered for cross-episode continuity.
 
 Evidence Count: 0
 Claim Count: 0
@@ -642,9 +642,9 @@ Laura Loomer, discussed over her Pentagon credential and tweets about Charlie.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
-Skyler, named by the host as a staffer who pushes back on sources.
+Schuyler, named by the host as a staffer who pushes back on sources.
 
 *Related: C-5139*
 
@@ -2017,9 +2017,9 @@ Investigative Direction: Find the Russell Brand episode featuring the host and i
 
 Claim Timestamp: 00:59:08
 
-Claim: The host says staff such as Mark and Skyler push back on sources before stories air, and that they have not made a public mistake from a planted source.
+Claim: The host says staff such as Mark and Schuyler push back on sources before stories air, and that they have not made a public mistake from a planted source.
 
-Transcript Snippet: I think this is good and then Mark will be like I don't know about this or Skyler be like I don't know about this
+Transcript Snippet: I think this is good and then Mark will be like I don't know about this or Schuyler be like I don't know about this
 
 Anchored Artifacts: 
 Mentions: N-3, N-67, N-68

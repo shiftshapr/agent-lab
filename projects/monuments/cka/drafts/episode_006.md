@@ -406,7 +406,7 @@ Israeli PM; named by host as directing speech-law influence and attacks on Canda
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Node Type: Person
 Host's assistant referenced during bullet-search discussion

@@ -506,7 +506,7 @@ Investigative Pressure: Low
 
 **N-67** Mark Herman (director, Candace show)
 
-In-house director on Candace Owens' show, called on air by first name. The host names him in her team roster here: "Chris in editing, Mark mansplaining, and also being our director, Skyler, the producer". Later he corrects the memorial date in her ear ("Mansplained in my ear. Thank you, Mark."). No claim anchor; registered for cross-episode continuity.
+In-house director on Candace Owens' show, called on air by first name. The host names him in her team roster here: "Chris in editing, Mark mansplaining, and also being our director, Schuyler, the producer". Later he corrects the memorial date in her ear ("Mansplained in my ear. Thank you, Mark."). No claim anchor; registered for cross-episode continuity.
 
 Evidence Count: 0
 Claim Count: 0
@@ -672,9 +672,9 @@ First named by the host at 00:03:43 in episode 027 as the Australian official sh
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
-Skyler; producer on the host's team.
+Schuyler; producer on the host's team.
 
 *Related: C-9588, C-9646*
 

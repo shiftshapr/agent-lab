@@ -1184,9 +1184,7 @@
     "N-20": {
       "canonical_name": "Dylan Erickson",
       "type": "person",
-      "aliases": [
-        "Dylan Ericson"
-      ],
+      "aliases": [],
       "episodes": [
         30,
         159
@@ -2243,7 +2241,7 @@
       ]
     },
     "N-63": {
-      "canonical_name": "Sarah Stockton",
+      "canonical_name": "Sarah Stock",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -2315,7 +2313,7 @@
       ]
     },
     "N-68": {
-      "canonical_name": "Skyler",
+      "canonical_name": "Schuyler",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -3770,7 +3768,7 @@
       ]
     },
     "N-179": {
-      "canonical_name": "Justin McCoy",
+      "canonical_name": "Justin Olson",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5008,8 +5006,7 @@
       "type": "person",
       "aliases": [
         "Pepper Williams",
-        "Derek Pepper",
-        "Chester Barnes"
+        "Derek Pepper"
       ],
       "episodes": [
         149
@@ -5556,7 +5553,7 @@
       ]
     },
     "N-318": {
-      "canonical_name": "Harry Meyers",
+      "canonical_name": "Harry Myers",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -5567,9 +5564,7 @@
       "canonical_name": "Captain Adam Neff",
       "type": "person",
       "aliases": [
-        "Captain Nef",
-        "Captain Neff",
-        "Adam Nef"
+        "Captain Neff"
       ],
       "episodes": [
         44,
@@ -6025,7 +6020,6 @@
       "canonical_name": "Mitch Snow",
       "type": "person",
       "aliases": [
-        "Mitch\" (Eyewitness, Pseudonym)",
         "Mitch",
         "Mitch Snow (witness, veteran)"
       ],
@@ -6131,9 +6125,7 @@
     "N-367": {
       "canonical_name": "Danny Philip",
       "type": "person",
-      "aliases": [
-        "Danny Phillip"
-      ],
+      "aliases": [],
       "episodes": [
         125,
         129,
@@ -6718,7 +6710,7 @@
       ]
     },
     "N-429": {
-      "canonical_name": "Chad Schnitker",
+      "canonical_name": "Chad Schnitger",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -9109,7 +9101,7 @@
       ]
     },
     "N-678": {
-      "canonical_name": "Courtney Thief",
+      "canonical_name": "Courtney Fife",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -25366,7 +25358,7 @@
       ]
     },
     "N-11288": {
-      "canonical_name": "Harry Meyers September 10 Salt Lake City Airport Layover",
+      "canonical_name": "Harry Myers September 10 Salt Lake City Airport Layover",
       "type": "topic",
       "aliases": [],
       "episodes": [
@@ -26549,7 +26541,6 @@
       "canonical_name": "Matiss Tabuns",
       "type": "person",
       "aliases": [
-        "Maddis",
         "Matiss"
       ],
       "episodes": [

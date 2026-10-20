@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-20T19:32:26Z",
+  "generated_at": "2026-10-20T19:45:51Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -45535,7 +45535,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1880",
-      "label": "Harry Meyers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb",
+      "label": "Harry Myers claims to have discovered the first Sinaloa cartel underground rail tunnel in 1990 while assigned to Joint Task Force 6 / Operation Catacomb",
       "node_kind": "claim",
       "episode": 44
     },
@@ -52101,7 +52101,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2844",
-      "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitker",
+      "label": "Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitger",
       "node_kind": "claim",
       "episode": 98
     },
@@ -68229,7 +68229,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5151",
-      "label": "Host Says She Learned of the Announcement From Skyler Nine Hours Into the Countdown",
+      "label": "Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown",
       "node_kind": "claim",
       "episode": 41
     },
@@ -110005,7 +110005,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1519",
-      "label": "Harry Meyers Tipster Document Bundle",
+      "label": "Harry Myers Tipster Document Bundle",
       "node_kind": "artifact",
       "episode": 44
     },
@@ -118762,7 +118762,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2036.1",
-      "label": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitker; geofencing partnership: Havas Media; legal representa",
+      "label": "FARA registration filed by Show Faith by Works LLC; principal listed as Israel's Ministry of Foreign Affairs; U.S. representative: Chad Schnitger; geofencing partnership: Havas Media; legal representa",
       "node_kind": "artifact",
       "episode": 98
     },
@@ -131117,7 +131117,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2711.1",
-      "label": "Host timeline graphic on screen showing 12:23 p.m. shooting, George Zinn suspect and the 5:30 p.m. press conference (pulled up by Skyler)",
+      "label": "Host timeline graphic on screen showing 12:23 p.m. shooting, George Zinn suspect and the 5:30 p.m. press conference (pulled up by Schuyler)",
       "node_kind": "artifact",
       "episode": 4
     },
@@ -131474,14 +131474,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2734",
-      "label": "Skyler Text Exchange Bundle",
+      "label": "Schuyler Text Exchange Bundle",
       "node_kind": "artifact",
       "episode": 41
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2734.1",
-      "label": "Text exchange between the host and her executive producer Skyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post",
+      "label": "Text exchange between the host and her executive producer Schuyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post",
       "node_kind": "artifact",
       "episode": 41
     },

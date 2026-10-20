@@ -932,7 +932,7 @@ Investigative Direction: Obtain UVU facilities maps, irrigation system records, 
 **C-1235** Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting
 
 Claim Timestamp: 00:23:03
-Claim: The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking Skyler to confirm the timing.
+Claim: The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking Schuyler to confirm the timing.
 Transcript Snippet: They decided to instead pave that area, repave it.
 Anchored Artifacts: A-1139.3
 Mentions: N-1, N-68

@@ -51,7 +51,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk)
 
 ## II. Executive Summary
 
-Episode 41 advances two of the series' core threads. First, the TPUSA/Candace debate exchange: Candace presents and reads in full two successive tweets from Blake Neff (TPUSA) – one issuing a midnight debate announcement with a 24-hour countdown for December 15 in Phoenix, and one declaring that TPUSA will "proceed without" Candace after she offered virtual participation. A shown text exchange with executive producer Skyler establishes the timeline of her learning about the announcement. Second, the "Egyptian planes" investigation advances materially: Candace introduces a new individual – "Wedi Machmood" – alleged to have been one of four passengers on the "yellow plane" SU-BND on September 10, 2025, and to have flown on a separate Egyptian military plane (SU-BTU) into Provo on May 27, 2025. She cites a tweet from researcher "Project Constitution" (read in its entirety) reporting that the Egyptian presidency website confirms President El-Sisi flew SU-BTU on April 3, 2023, and verbally references photographic evidence placing El-Sisi in Egypt on September 10 (ruling him out as the September 10 passenger).
+Episode 41 advances two of the series' core threads. First, the TPUSA/Candace debate exchange: Candace presents and reads in full two successive tweets from Blake Neff (TPUSA) – one issuing a midnight debate announcement with a 24-hour countdown for December 15 in Phoenix, and one declaring that TPUSA will "proceed without" Candace after she offered virtual participation. A shown text exchange with executive producer Schuyler establishes the timeline of her learning about the announcement. Second, the "Egyptian planes" investigation advances materially: Candace introduces a new individual – "Wedi Machmood" – alleged to have been one of four passengers on the "yellow plane" SU-BND on September 10, 2025, and to have flown on a separate Egyptian military plane (SU-BTU) into Provo on May 27, 2025. She cites a tweet from researcher "Project Constitution" (read in its entirety) reporting that the Egyptian presidency website confirms President El-Sisi flew SU-BTU on April 3, 2023, and verbally references photographic evidence placing El-Sisi in Egypt on September 10 (ruling him out as the September 10 passenger).
 
 Secondary threads include: an audio clip of Pentagon correspondent Cam Higby asking the Pentagon press secretary about a French military plot to assassinate Candace (asserted by host to be on TPUSA payroll since August 2025); an audio clip of Ben Shapiro making a French-intelligence joke on Greg Gutfeld's show; an audio clip of Frank Turek asserting Charlie called Blake Neff "the smartest man I know"; and a Tim Pool clip calling Candace a "scumbag" and warning of midterm losses. The episode structurally consolidates the host's framing of TPUSA as engaged in a coordinated cover-up, while pressing the Egyptian-planes line toward a specific identity attribution question (Wedi Machmood).
 
@@ -177,9 +177,9 @@ Confidence Level: Medium (referenced via Project Constitution tweet A-1496.1; un
 
 ---
 
-**A-2734** Skyler Text Exchange Bundle
+**A-2734** Schuyler Text Exchange Bundle
 
-**A-2734.1** Text exchange between the host and her executive producer Skyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post
+**A-2734.1** Text exchange between the host and her executive producer Schuyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post
 
 Quoted text: "I'm sure you saw this."
 
@@ -396,7 +396,7 @@ Host paraphrases his account of Charlie's praise for his book.
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Host's executive producer who texted her about the TPUSA post.
 
@@ -729,18 +729,18 @@ Investigative Direction: Obtain employment, contractor or payment records, or a 
 
 ---
 
-**C-5151** Host Says She Learned of the Announcement From Skyler Nine Hours Into the Countdown
+**C-5151** Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown
 
 Claim Timestamp: 00:03:51
 
-Claim: The host says her executive producer Skyler texted her that morning and that she was already nine hours into a 24-hour countdown, and she shows the text exchange.
+Claim: The host says her executive producer Schuyler texted her that morning and that she was already nine hours into a 24-hour countdown, and she shows the text exchange.
 
-Transcript Snippet: I heard from Skyler, my executive producer, this morning via text, which I'm going to show you, that I was somehow already 9 hours into a 24-hour countdown
+Transcript Snippet: I heard from Schuyler, my executive producer, this morning via text, which I'm going to show you, that I was somehow already 9 hours into a 24-hour countdown
 
 Anchored Artifacts: A-2734.1
 Mentions: N-3, N-68
 Related Nodes: N-10000, N-10804
-Investigative Direction: Capture the Skyler text exchange with its timestamps and compare it to the posting time of the Blake Neff announcement.
+Investigative Direction: Capture the Schuyler text exchange with its timestamps and compare it to the posting time of the Blake Neff announcement.
 
 ---
 

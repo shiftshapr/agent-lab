@@ -593,7 +593,7 @@
           "@type": "Artifact",
           "@id": "A-2711.1",
           "ref": "A-2711.1",
-          "description": "Host timeline graphic on screen showing 12:23 p.m. shooting, George Zinn suspect and the 5:30 p.m. press conference (pulled up by Skyler)",
+          "description": "Host timeline graphic on screen showing 12:23 p.m. shooting, George Zinn suspect and the 5:30 p.m. press conference (pulled up by Schuyler)",
           "related_claims": [
             "C-4842",
             "C-4843"
@@ -997,7 +997,7 @@
       "@type": "Person",
       "@id": "N-68",
       "ref": "N-68",
-      "name": "Skyler",
+      "name": "Schuyler",
       "type": "person",
       "description": "Production staff member operating timeline/graphics during episode.",
       "related_artifacts": [

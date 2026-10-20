@@ -289,7 +289,7 @@ Confidence Level: High
 
 **A-2711** Host Timeline and Map Graphics Bundle
 
-**A-2711.1** Host timeline graphic on screen showing 12:23 p.m. shooting, George Zinn suspect and the 5:30 p.m. press conference (pulled up by Skyler)
+**A-2711.1** Host timeline graphic on screen showing 12:23 p.m. shooting, George Zinn suspect and the 5:30 p.m. press conference (pulled up by Schuyler)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:07:32
@@ -488,7 +488,7 @@ Tweeted that subject in custody (George Zinn) was released; referenced for timel
 
 ---
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Node Type: Person
 Production staff member operating timeline/graphics during episode.

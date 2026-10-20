@@ -251,7 +251,7 @@ Utah governor. The host says his office has not answered whether he met Val Pete
 
 *Related: C-15546, C-15547*
 
-**N-68** Skyler
+**N-68** Schuyler
 
 Show staffer who supplies the song title.
 
@@ -1678,9 +1678,9 @@ Investigative Direction: Show episodes during the host's leave.
 
 Claim Timestamp: 00:41:28
 
-Claim: Answering a viewer, the host says the muted intro voice says "I hope he's bright and big and strong" from a Ye song, which Skyler identifies as "Stars".
+Claim: Answering a viewer, the host says the muted intro voice says "I hope he's bright and big and strong" from a Ye song, which Schuyler identifies as "Stars".
 
-Transcript Snippet: Thank you, Skyler. It's Stars by Ye.
+Transcript Snippet: Thank you, Schuyler. It's Stars by Ye.
 
 Anchored Artifacts:
 Mentions: N-27, N-68

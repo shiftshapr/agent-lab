@@ -348,7 +348,7 @@ What a perfect word of the day for our girl Candace. Remember y'all, evil is tri
 
 [41:04]
 
-We'll have to find out. Fat 89 writes, "That's enough. Can someone tell me what the muted voice in your intro says? It's driving me insane. Much love, Fatimma. Um, it says, "I hope he's bright and big and strong." And that is from a Ye song. I can't think of a title. I have this weird like disability. It's But why could I never think of titles? It's so bizarre. Thank you, Skyler. It's Stars by Ye. You would think I would know that, but I just can never remember the name of a title.
+We'll have to find out. Fat 89 writes, "That's enough. Can someone tell me what the muted voice in your intro says? It's driving me insane. Much love, Fatimma. Um, it says, "I hope he's bright and big and strong." And that is from a Ye song. I can't think of a title. I have this weird like disability. It's But why could I never think of titles? It's so bizarre. Thank you, Schuyler. It's Stars by Ye. You would think I would know that, but I just can never remember the name of a title.
 
 [41:37]
 
@@ -372,7 +372,7 @@ While he is substituting, make him a hot dog. H just I don't know who approved t
 
 [44:11]
 
-Skyler will get that up in a second. Our latte mug. And uh and by the way, you should probably buy everything because it's the only way to deal with your sadness over what took place with Breijie over the weekend, which we can't show you any evidence of right now. And asking for evidence would make you a conspiracy theorist. I don't want you to be a conspiracy theorist. Do you have that mug on the website, Sky? Okay. I think it was under latte. Look up the word latte. Oh, you showed it to me before. Did they take it down already?
+Schuyler will get that up in a second. Our latte mug. And uh and by the way, you should probably buy everything because it's the only way to deal with your sadness over what took place with Breijie over the weekend, which we can't show you any evidence of right now. And asking for evidence would make you a conspiracy theorist. I don't want you to be a conspiracy theorist. Do you have that mug on the website, Sky? Okay. I think it was under latte. Look up the word latte. Oh, you showed it to me before. Did they take it down already?
 
 [44:42]
 

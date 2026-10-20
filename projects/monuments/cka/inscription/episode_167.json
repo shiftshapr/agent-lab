@@ -545,7 +545,7 @@
       "@type": "Person",
       "@id": "N-68",
       "ref": "N-68",
-      "name": "Skyler",
+      "name": "Schuyler",
       "type": "person",
       "description": "Show staffer who supplies the song title.",
       "related_artifacts": [],
@@ -3044,7 +3044,7 @@
       "@id": "C-15568",
       "ref": "C-15568",
       "label": "Host Says the Intro Voice Is From Ye's \"Stars\"",
-      "claim": "Answering a viewer, the host says the muted intro voice says \"I hope he's bright and big and strong\" from a Ye song, which Skyler identifies as \"Stars\".",
+      "claim": "Answering a viewer, the host says the muted intro voice says \"I hope he's bright and big and strong\" from a Ye song, which Schuyler identifies as \"Stars\".",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3052,7 +3052,7 @@
       ],
       "claim_timestamp": "00:41:28",
       "investigative_direction": "The lyrics of Ye's \"Stars\".",
-      "transcript_snippet": "Thank you, Skyler. It's Stars by Ye.",
+      "transcript_snippet": "Thank you, Schuyler. It's Stars by Ye.",
       "mentions_person_refs": [
         "N-27",
         "N-68"
