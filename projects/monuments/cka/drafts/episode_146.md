@@ -1523,7 +1523,7 @@ Claim Timestamp: 00:13:30
 
 Claim: The host says Frank Turek managed to FaceTime Jack Hibbs from Timpanogos hospital.
 
-Transcript Snippet: Yes, Frank Turek manages to FaceTime Jack from Tempanogus.
+Transcript Snippet: Yes, Frank Turek manages to FaceTime Jack from Timpanogos.
 
 Anchored Artifacts: A-2322.2
 Mentions: N-7, N-208

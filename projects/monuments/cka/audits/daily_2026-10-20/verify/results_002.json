@@ -1,0 +1,210 @@
+[
+ {
+  "claim": "C-15554",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host frames it as Tim Dillon's bit: 'Tim Dillon just had such a perfect bit describing not just Katie Zacharia's exit, but also Pete Hegseth's plan for a live execution all kind of happening at the same time.' Claim omits Dillon though N-277 is in Mentions. Zacharia name confirmed (CNN/NBC).",
+  "fix": {
+   "claim": "The host says Tim Dillon had a perfect bit describing both Katie Zacharia's exit and Pete Hegseth's plan for a live execution, all happening at the same time."
+  }
+ },
+ {
+  "claim": "C-15555",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Name Katie Zacharia confirmed as press secretary out after 5 days (nbcnews.com).",
+  "fix": {}
+ },
+ {
+  "claim": "C-15556",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'I would imagine... they're going to have a Democratic Congress. They'll have potentially a Democratic Senate'; 'predicts' keeps the hedge.",
+  "fix": {}
+ },
+ {
+  "claim": "C-15557",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15558",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15559",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15560",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15561",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15562",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15563",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15564",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: 'she used to be wear every hat I guess she was a reality TV like reality TV star casting director'. Claim drops 'I guess'.",
+  "fix": {
+   "claim": "The host says that before being presented as a wife with no career aspirations, Erika was, she guesses, a reality TV casting director."
+  }
+ },
+ {
+  "claim": "C-15565",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'defamed Charlie's statue'; 'defaced' is the evident meaning. Commenter name 'This is er heart' garbled but not in claim.",
+  "fix": {}
+ },
+ {
+  "claim": "C-15566",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15567",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15568",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15569",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-15570",
+  "episode": 167,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

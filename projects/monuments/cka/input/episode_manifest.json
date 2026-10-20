@@ -2,15 +2,15 @@
   "monument": "cka",
   "channel": "@RealCandaceO",
   "corpus_cutoff_inclusive": "2025-09-11",
-  "generated_at_utc": "2026-10-19T20:30:00Z",
+  "generated_at_utc": "2026-10-20T16:35:43Z",
   "source": {
     "listing": "https://www.youtube.com/@RealCandaceO/streams",
     "publish_dates": "https://invidious.f5.si"
   },
   "counts": {
-    "manifest_entries": 166,
+    "manifest_entries": 167,
     "kirk_special": 2,
-    "numbered_show": 164
+    "numbered_show": 165
   },
   "episodes": [
     {
@@ -1672,6 +1672,16 @@
       "kind": "numbered_show",
       "notes": "title omits Ep number; 403 inferred from sequence after Ep 402",
       "seq": 166
+    },
+    {
+      "upload_date": "2026-10-19",
+      "youtube_id": "VUSs6CTp78Q",
+      "title": "UPDATES! NEW Info On Charlie\u2019s Statue Vandals, Katie Zacharia Is Out, Plus, Erika\u2019s Pre-K Tour.",
+      "url": "https://www.youtube.com/watch?v=VUSs6CTp78Q",
+      "candace_ep_number": 404,
+      "kind": "numbered_show",
+      "notes": "title omits Ep number; 404 inferred from sequence after Ep 403",
+      "seq": 167
     }
   ]
 }

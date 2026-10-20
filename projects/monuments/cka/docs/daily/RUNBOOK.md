@@ -53,6 +53,8 @@ Turn each `MISTRANSCRIPTION:` flag in the new drafts' Optional Flags into a rule
 - `[pattern, replacement, [seqs]]`. Scope it to the new seqs unless the wrong form is unique and cannot be a real
   word or name elsewhere.
 - Skip medium-confidence or inference-only flags. Skip flags where the host may have misspoken herself.
+- Never "correct" the host's deliberate nicknames or jokes. For example, she calls Laura Loomer "Larry"; the
+  captions are right. Check the source captions (`WORK/captions/*.en-orig.vtt`) when unsure.
 - "Erica" becomes "Erika" only as a seq-scoped rule.
 
 Rerun `finalize.py <seqs>`. Check that rules hitting older transcripts are correct:

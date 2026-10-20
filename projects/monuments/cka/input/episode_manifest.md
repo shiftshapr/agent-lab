@@ -168,3 +168,4 @@
 | 164 | 2026-10-13 | numbered_show | 401 | V-phmW9f0pM | America The Ugly: A General, A Cop & A Missing Bloodied Bag. Plus, The Cornell 7. | Ep 401 |
 | 165 | 2026-10-14 | numbered_show | 402 | 6jOEN9rBePU | Happy 33rd Birthday, Charlie Kirk! You Were Right—Your Death Spawned A Global Awakening… | Ep 402 |
 | 166 | 2026-10-15 | numbered_show | 403 | YPIYYHCNPbE | Liars Who Lie: TPUSA Tried To Scrub THIS SCANDAL From The Web. Katie Zacharia Comes Clean (Kinda). (title omits Ep number; 403 inferred from sequence after Ep 402) |
+| 167 | 2026-10-19 | numbered_show | 404 | VUSs6CTp78Q | UPDATES! NEW Info On Charlie’s Statue Vandals, Katie Zacharia Is Out, Plus, Erika’s Pre-K Tour. (title omits Ep number; 404 inferred from sequence after Ep 403) |

@@ -15,6 +15,11 @@
     ],
     "reviewed": [
       {
+        "claim": "C-15568",
+        "node": "N-27",
+        "reason": "claim text: 'a Ye song' (Ye = Kanye West; two-letter alias is below the grounding matcher's length); daily 2026-10-20"
+      },
+      {
         "claim": "C-11394",
         "node": "N-888",
         "reason": "claim text: 'Savannah' (first name, as JD Vance says it) = Savanah Hernandez; pass 2 2026-10-19"

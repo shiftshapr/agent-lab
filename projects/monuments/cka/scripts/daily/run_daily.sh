@@ -21,6 +21,11 @@ if [[ ! -d "$REPO" ]]; then
   git -C "$MAIN" worktree add -q "$REPO" origin/main
 fi
 cd "$REPO"
+if [[ "${1:-}" != "--intake-only" ]] && ! claude -p "Reply with the single word ok." --model haiku >/dev/null 2>&1; then
+  echo "claude CLI is not logged in (run 'claude' then /login on the Mac mini); nothing touched"
+  osascript -e 'display notification "CKA daily: claude CLI login expired. Run claude, then /login." with title "CKA daily"' || true
+  exit 1
+fi
 if [[ -n "$(git status --porcelain)" ]]; then
   echo "daily worktree is dirty (an earlier run did not finish); leaving it for review"
   osascript -e 'display notification "CKA daily: worktree dirty from an earlier run; not started" with title "CKA daily"' || true
