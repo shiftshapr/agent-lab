@@ -3728,7 +3728,8 @@
       "\\bTyler Ber\\b",
       "Tyler Bowyer",
       [
-        167
+        167,
+        11
       ]
     ],
     [
@@ -6434,6 +6435,62 @@
     [
       "\\bCourtney Thief\\b",
       "Courtney Fife"
+    ],
+    [
+      "\\bplane closed detectives\\b",
+      "plain clothes detectives",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bcan(?:esence|isowns)\\.com\\b",
+      "candaceowens.com",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bflag of halls\\b",
+      "Hall of Flags",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bTP US event\\b",
+      "TPUSA event",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bPhilman\\b",
+      "Phil Lyman",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bhe and Carol publicized\\b",
+      "Ian Carroll publicized",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bleaves me on red\\b",
+      "leaves me on read",
+      [
+        11
+      ]
+    ],
+    [
+      "\\bCandice\\b",
+      "Candace",
+      [
+        11
+      ]
     ]
   ]
 }

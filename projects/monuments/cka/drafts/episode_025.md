@@ -13,11 +13,10 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-756, N-11102, N-11104, N-11105
   - Hole-minted Nodes (reintro-ep025): N-10243, N-10495, N-10675, N-10717
-  - Tip-minted Nodes (reintro-ep025): N-11009
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6552–C-6596
   - New Nodes Introduced: N-217, N-218, N-219, N-10219, N-10220, N-10221, N-10222, N-10223
-  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-220, N-10840, N-10900, N-11103, N-10218, N-10253
+  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-220, N-10840, N-10900, N-11103, N-10218, N-10253, N-11009
   - (see registers)
 
 # Episode 25 Analysis – Bride of Charlie Investigation

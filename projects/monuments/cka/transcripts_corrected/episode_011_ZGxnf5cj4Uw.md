@@ -38,7 +38,7 @@ Jeffrey Epstein didn't kill himself. Tyler&nbsp; Robinson didn't kill himself. I
 
 [10:22]
 
->> I'm told that's that's not true. That Tyler was not suicidal at all. He was just confused and didn't want to get shot. Uh and then he gets to that part, right? He then tells us Brooksby that he came in willingly because he didn't want to die. Let's take a listen to that portion. >> Within the hour, um, my friend, uh, drove Tyler and his parents to my office where he was greeted by, uh, plane closed detectives. So, that was part of the part of the deal is um, Tyler knew it was just inevitable with all the law enforcement pressure that he, you know, his picture in the news, the gun, the gun on the news, he knew it was inevitable uh, that he would be caught.
+>> I'm told that's that's not true. That Tyler was not suicidal at all. He was just confused and didn't want to get shot. Uh and then he gets to that part, right? He then tells us Brooksby that he came in willingly because he didn't want to die. Let's take a listen to that portion. >> Within the hour, um, my friend, uh, drove Tyler and his parents to my office where he was greeted by, uh, plain clothes detectives. So, that was part of the part of the deal is um, Tyler knew it was just inevitable with all the law enforcement pressure that he, you know, his picture in the news, the gun, the gun on the news, he knew it was inevitable uh, that he would be caught.
 
 [11:05]
 
@@ -110,7 +110,7 @@ After over 24 years of serving, 24 years Washington County, he is retiring, star
 
 [20:43]
 
-We have had no luck. If you have any more information about this individual, if he is your boy scout leader or he works for your church, please send us um tips at canesence.com. Guys, I'm going to again say here we appreciate all of the tips, but please don't send us links to like you know somebody else's video and their theories because we are it's we're very small team. There's literally four of us and we want to get to actual tips pertaining to the questions that we're asking and that we're looking for about the individuals that we're mentioning, not other people's theories.
+We have had no luck. If you have any more information about this individual, if he is your boy scout leader or he works for your church, please send us um tips at candaceowens.com. Guys, I'm going to again say here we appreciate all of the tips, but please don't send us links to like you know somebody else's video and their theories because we are it's we're very small team. There's literally four of us and we want to get to actual tips pertaining to the questions that we're asking and that we're looking for about the individuals that we're mentioning, not other people's theories.
 
 [21:15]
 
@@ -156,11 +156,11 @@ You should look into Tiffany Tiffany said into Governor Cox and similarly um the
 
 [37:10]
 
-And actually, where I was at at this process, what's that? Oh. Uh, pushing that because Governor Cox is his, uh, sorry, I said Democrat because he's his, you know, he's waring with him and that's the candidate that he wants to go after. And I actually start noticing as I'm looking into this investigation that everyone who is involved on that day, I mean, literally the person who spots the shooter um on the roof, military, uh, the person who says, "Oh, the the he I just cap happened to be in the right place in the flag of halls where I saw him running."
+And actually, where I was at at this process, what's that? Oh. Uh, pushing that because Governor Cox is his, uh, sorry, I said Democrat because he's his, you know, he's waring with him and that's the candidate that he wants to go after. And I actually start noticing as I'm looking into this investigation that everyone who is involved on that day, I mean, literally the person who spots the shooter um on the roof, military, uh, the person who says, "Oh, the the he I just cap happened to be in the right place in the Hall of Flags where I saw him running."
 
 [37:42]
 
-also in the military. And I'm starting to think, is it possible that this is like a military hit? I don't know, but I'd like to find out. Next came a tip that you guys saw me receive live on the show. Someone paid a woman paid to say, "Candice, there's more footage of the shooter on that day." And you should know that that shooter was with a woman, right? That's a tip that I received. That that woman that the shooter was with a woman and he was seen changing clothes and that they've cut out that footage. So, I reach out to that individual and the name that they give me for the house that this took place in and I'm able to confirm that this property is nearby is owned by Lyman Branch.
+also in the military. And I'm starting to think, is it possible that this is like a military hit? I don't know, but I'd like to find out. Next came a tip that you guys saw me receive live on the show. Someone paid a woman paid to say, "Candace, there's more footage of the shooter on that day." And you should know that that shooter was with a woman, right? That's a tip that I received. That that woman that the shooter was with a woman and he was seen changing clothes and that they've cut out that footage. So, I reach out to that individual and the name that they give me for the house that this took place in and I'm able to confirm that this property is nearby is owned by Lyman Branch.
 
 [38:25]
 
@@ -168,7 +168,7 @@ So, now I want to be clear, I could not attach whether or not yet this individua
 
 [38:59]
 
-Like I literally don't know what goes on in Utah, but it seems like a very weird thing to me that you would be able to keep information about who your mom and dad are private if you're running for governor, right? So, I just simply ask Nick. I haven't shared any of this with Nick because I know that he worked for Phil Lyman and I'm not accusing Philman of anything. I'm just like trying to actually shut that down. And he says, "I actually I don't know whose mom and dad are." I'm like, "What do you mean don't know?" Okay, weird. Whatever. I then decide to keep pushing on military leads that I have, people that were on the ground that day who I've confirmed are in the military.
+Like I literally don't know what goes on in Utah, but it seems like a very weird thing to me that you would be able to keep information about who your mom and dad are private if you're running for governor, right? So, I just simply ask Nick. I haven't shared any of this with Nick because I know that he worked for Phil Lyman and I'm not accusing Phil Lyman of anything. I'm just like trying to actually shut that down. And he says, "I actually I don't know whose mom and dad are." I'm like, "What do you mean don't know?" Okay, weird. Whatever. I then decide to keep pushing on military leads that I have, people that were on the ground that day who I've confirmed are in the military.
 
 [39:37]
 
@@ -180,11 +180,11 @@ And Nick quite naively and being this Phil super fan thinks that Phil's going to
 
 [40:45]
 
-Pick up this whatever it is." And he is thinking this is getting weird. I said, "What specifically did he did he say to you?" Well, he tells me that Phil has also set up a time to meet with Ian Carroll. Okay, so Ian Carroll is conducting his own separate investigation. and we are not collaborating at all, but he and Carol publicized that he was going up to Utah cuz he wanted to be on the ground physically by himself and he was reaching out to people um that uh who who had been speaking about having been there and Phil Lyman is so gracious that he offers to give him a tour.
+Pick up this whatever it is." And he is thinking this is getting weird. I said, "What specifically did he did he say to you?" Well, he tells me that Phil has also set up a time to meet with Ian Carroll. Okay, so Ian Carroll is conducting his own separate investigation. and we are not collaborating at all, but Ian Carroll publicized that he was going up to Utah cuz he wanted to be on the ground physically by himself and he was reaching out to people um that uh who who had been speaking about having been there and Phil Lyman is so gracious that he offers to give him a tour.
 
 [41:21]
 
-And Nick tells me he's like that's really weird now because we're like two weeks on from this shooting and Phil Lyman lives four hours away. So that's that's very very gracious of him to do, but his energy isn't good. And then he mentions Governor Cox and he mentions Tyler Ber of Turning Point USA and says that again this is according to Nick that Tyler Bowyer and the the lineman have been speaking and that they are you know really going to make Governor Cox and I'm I'm paraphrasing here but apparently there's a a another Utah event USU event coming up and Governor Cox is supposed to speak and Phil Lyman intimates that like you know this at this TP US event Governor Cox isn't going to look great.
+And Nick tells me he's like that's really weird now because we're like two weeks on from this shooting and Phil Lyman lives four hours away. So that's that's very very gracious of him to do, but his energy isn't good. And then he mentions Governor Cox and he mentions Tyler Bowyer of Turning Point USA and says that again this is according to Nick that Tyler Bowyer and the the lineman have been speaking and that they are you know really going to make Governor Cox and I'm I'm paraphrasing here but apparently there's a a another Utah event USU event coming up and Governor Cox is supposed to speak and Phil Lyman intimates that like you know this at this TPUSA event Governor Cox isn't going to look great.
 
 [42:09]
 
@@ -220,11 +220,11 @@ Okay, you want to be helpful. We're asking you to be helpful and now all of a su
 
 [46:48]
 
-And Lyman, Phil Lyman, leaves me on red. So, I am now left in the predicament where I need to just ask the public. If you are one of those two kids that are in the photos there, I would love to ask you some questions since you publicized this tour. I mean, they even did the full video walking through where he walked and you know, he said my uncle, he even posted he posted Phil Lyman and my uncle was with Charlie. This is the video that they posted. Everything was done publicly. And now I'm like, okay, you could maybe maybe you have something that's helpful I want to ask you about.
+And Lyman, Phil Lyman, leaves me on read. So, I am now left in the predicament where I need to just ask the public. If you are one of those two kids that are in the photos there, I would love to ask you some questions since you publicized this tour. I mean, they even did the full video walking through where he walked and you know, he said my uncle, he even posted he posted Phil Lyman and my uncle was with Charlie. This is the video that they posted. Everything was done publicly. And now I'm like, okay, you could maybe maybe you have something that's helpful I want to ask you about.
 
 [47:23]
 
-Could you send me that photo? Could you send me that video? Could you send me all of this stuff? And now I'm getting radio silenced. So, unfortunately, because I need to figure out what happened on that day, I am turning to the public uh to try to identify those people and anything else that you may know that may help put things together uh for us. Again, please reserve the tips at canisowns.com for actual tips related to the questions that we are asking. Uh not for just comments, those sorts of things, videos that you'd like me to watch or things that you'd like to do to point me into a different direction.
+Could you send me that photo? Could you send me that video? Could you send me all of this stuff? And now I'm getting radio silenced. So, unfortunately, because I need to figure out what happened on that day, I am turning to the public uh to try to identify those people and anything else that you may know that may help put things together uh for us. Again, please reserve the tips at candaceowens.com for actual tips related to the questions that we are asking. Uh not for just comments, those sorts of things, videos that you'd like me to watch or things that you'd like to do to point me into a different direction.
 
 [47:54]
 
