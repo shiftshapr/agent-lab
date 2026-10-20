@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# CKA daily pipeline launcher (ROADMAP 1.4). Run by launchd Mon–Thu 16:00 PT, or by hand.
+# CKA daily pipeline launcher (ROADMAP 1.4). Run by launchd Mon–Fri 16:00 PT, or by hand.
 # 1. Refreshes the dedicated daily worktree to a fresh branch from origin/main.
 # 2. Runs intake.py (new episodes -> transcripts, manifest, skeleton drafts, extraction pack).
 # 3. If there is anything new, runs a headless Claude Code session on docs/daily/RUNBOOK.md.

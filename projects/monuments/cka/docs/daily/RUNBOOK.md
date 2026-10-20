@@ -1,6 +1,6 @@
 # CKA daily pipeline runbook (ROADMAP 1.4)
 
-`scripts/daily/run_daily.sh` runs Mon–Thu at 4 p.m. PT. It runs `scripts/daily/intake.py`. If there are new
+`scripts/daily/run_daily.sh` runs Mon–Fri at 4 p.m. PT (Thursday shows are picked up Friday). It runs `scripts/daily/intake.py`. If there are new
 episodes, it starts a headless Claude Code session with this runbook. That session works in the dedicated daily
 worktree, on a fresh branch from `origin/main`. `REPO` and `WORK` below come from the launcher.
 

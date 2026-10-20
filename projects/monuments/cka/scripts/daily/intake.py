@@ -14,7 +14,8 @@ writes WORK_DIR/new_episodes.json. It edits the repo working tree only; it never
 
 Usage (from agent-lab root):
   python3 projects/monuments/cka/scripts/daily/intake.py WORK_DIR [--max 6] [--dry-run]
-Exit status: 0 with new episodes prepared, 3 when there is nothing new, 1 on error.
+Exit status: 0 with new episodes prepared, 3 when there is nothing new or nothing captioned yet, 1 on error.
+A same-day live stream often has no captions for some hours; it is picked up by the next run.
 """
 
 from __future__ import annotations
@@ -46,12 +47,15 @@ def latest_streams(n: int = 15) -> list[tuple[str, str]]:
     return [tuple(l.split("\t", 1)) for l in r.stdout.splitlines() if "\t" in l]
 
 
-def fetch(yid: str, out: Path, tries: int = 12) -> bool:
+def fetch(yid: str, out: Path, tries: int = 12) -> bool | None:
     out.mkdir(parents=True, exist_ok=True)
     base = [YTDLP, "--skip-download", "--ignore-no-formats-error", "--extractor-args", "youtube:player_client=ios",
             "-P", str(out), "-o", "%(id)s", f"https://www.youtube.com/watch?v={yid}"]
     if not (out / f"{yid}.info.json").exists():
         run(base[:1] + ["--write-info-json"] + base[1:])
+    info = json.loads((out / f"{yid}.info.json").read_text(encoding="utf-8"))
+    if "en-orig" not in (info.get("automatic_captions") or {}):
+        return None  # captions not generated yet (common for a same-day live stream): try next run
     for i in range(tries):
         if (out / f"{yid}.en-orig.vtt").stat().st_size if (out / f"{yid}.en-orig.vtt").exists() else 0:
             return True
@@ -101,8 +105,12 @@ def main() -> int:
     prev_ep = max(e.get("candace_ep_number") or 0 for e in man["episodes"])
     prepared = []
     for yid, _title in new:
-        if not fetch(yid, cap):
-            print(f"captions unavailable for {yid}; stopping here (later episodes wait for the next run)")
+        got = fetch(yid, cap)
+        if got is None:
+            print(f"captions not ready yet for {yid}; it and any later episodes wait for the next run")
+            break
+        if not got:
+            print(f"captions still throttled (HTTP 429) for {yid}; stopping here")
             break
         info = json.loads((cap / f"{yid}.info.json").read_text(encoding="utf-8"))
         seq += 1
@@ -125,7 +133,7 @@ def main() -> int:
                          "description": info.get("description", "").split("\n")[0].strip(),
                          "duration": info["duration_string"], "ep_inferred": bool(note)})
     if not prepared:
-        return 1
+        return 3
     man["counts"]["manifest_entries"] = len(man["episodes"])
     man["counts"]["numbered_show"] = sum(1 for x in man["episodes"] if x["kind"] == "numbered_show")
     man["generated_at_utc"] = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
