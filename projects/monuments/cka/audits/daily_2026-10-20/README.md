@@ -21,7 +21,7 @@ the runbook as written.
 1. **Kenneth "Kenny" Wynn (new person).** The host reads a viewer tip that he is Blake Wynn's father, then a 2004
    article saying he was the subject of a child-pornography investigation; it reports no charges. He is a private
    individual. All four claims are attributed to the tip or the article, and none states the allegation as fact.
-   Should these stay, as the host's allegation and a cited article, or be tagged tangential?
+   **Ruling (Daveed, 2026-10-20): tagged tangential** (C-15533–C-15536; C-15537/C-15538 already were).
    - C-15533, 00:17:44: "someone emailed us a tip that Blake's father, Blake's father, Kenneth Wynn, who goes also
      goes by Kenny was raided back in 2004." https://youtu.be/VUSs6CTp78Q?t=1064
    - C-15534, 00:18:01: "Kenny Wynn, the brother of hotel casino developer Steve Wynn, is the subject of the same
