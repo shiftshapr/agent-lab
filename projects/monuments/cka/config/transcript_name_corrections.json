@@ -3723,6 +3723,128 @@
       [
         166
       ]
+    ],
+    [
+      "\\bTyler Ber\\b",
+      "Tyler Bowyer",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bTyler Boyers\\b",
+      "Tyler Bowyer's",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bErikica\\b",
+      "Erika",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bErika France\\b",
+      "Erika Frantzve",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bJesse Smullet\\b",
+      "Jussie Smollett"
+    ],
+    [
+      "\\bBlake Wyn\\b",
+      "Blake Wynn"
+    ],
+    [
+      "\\bKenny ?[Ww]yn\\b",
+      "Kenny Wynn",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bKenneth Win\\b",
+      "Kenneth Wynn",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bSteve Win\\b",
+      "Steve Wynn",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bEnclave Key\\b",
+      "Enclave and Key",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bA(?:me)?fest\\b",
+      "AmFest",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bTempanogus\\b",
+      "Timpanogos"
+    ],
+    [
+      "\\bKatie Zachar(?:y|iah)\\b",
+      "Katie Zacharia",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bHe(?:gth|xath)\\b",
+      "Hegseth",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bFord Hood\\b",
+      "Fort Hood"
+    ],
+    [
+      "\\bJohn Michelle Trogno\\b",
+      "Jean-Michel Trogneux"
+    ],
+    [
+      "\\bYay\\b",
+      "Ye",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bmore tips@candice\\.com\\b",
+      "moretips@candaceowens.com"
+    ],
+    [
+      "\\b(?:canowens|kennace)\\.com\\b",
+      "candaceowens.com",
+      [
+        167
+      ]
+    ],
+    [
+      "\\bKennywin\\b",
+      "Kenny Wynn",
+      [
+        167
+      ]
     ]
   ]
 }

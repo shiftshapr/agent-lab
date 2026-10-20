@@ -2,7 +2,7 @@
   "version": 1,
   "description": "Canonical dictionary of memes, euphemisms, and codes \u2013 shared across monuments",
   "updated": "2026-10-08T19:40:19Z",
-  "next_id": 367,
+  "next_id": 369,
   "entries": {
     "M-1": {
       "canonical_term": "(meme) Grieving Widow",
@@ -3141,6 +3141,22 @@
       "definition": "",
       "context": "cka",
       "first_episode": 166
+    },
+    "M-367": {
+      "canonical_term": "(meme) The Gang Bangers Did It",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 167
+    },
+    "M-368": {
+      "canonical_term": "(meme) Erika Kirk Is Fight Club",
+      "type": "meme",
+      "aliases": [],
+      "definition": "",
+      "context": "cka",
+      "first_episode": 167
     }
   },
   "types": {

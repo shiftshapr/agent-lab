@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-19T21:45:31Z",
+  "generated_at": "2026-10-20T17:13:37Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -19,12 +19,12 @@
   },
   "edge_counts": {
     "contradicts": 127,
-    "isCorroboratedBy": 2455,
-    "isMemberOf": 20271,
+    "isCorroboratedBy": 2469,
+    "isMemberOf": 20371,
     "isQualifiedBy": 115,
-    "isSupportedBy": 8225
+    "isSupportedBy": 8264
   },
-  "revises_candidate_count": 4964,
+  "revises_candidate_count": 4992,
   "nodes": [
     {
       "@type": "KnowledgeGraphNode",
@@ -1200,6 +1200,13 @@
       "label": "CKA episode 166",
       "node_kind": "episode",
       "episode": 166
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "cka:episode:167",
+      "label": "CKA episode 167",
+      "node_kind": "episode",
+      "episode": 167
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42692,10 +42699,122 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-15494",
+      "label": "Host Says Press Secretary Katie Zacharia Is Out",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15495",
+      "label": "Host Says Four Episodes Remain Before Her Maternity Leave",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15496",
+      "label": "Host Says She Received a Statue Update on Thursday",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15497",
+      "label": "Host Credits a Sleuth in Alaska Named Jenny",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15498",
+      "label": "Host Says She Messaged an Instagram Account Following the Statue Story",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15499",
+      "label": "Host Says Tyler Bowyer Had the Statue Erected on the One-Year Anniversary",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "C-1550",
       "label": "SUBND May 23, 2025 Provo Arrival Described by Host as Possible Maintenance Stop",
       "node_kind": "claim",
       "episode": 23
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15500",
+      "label": "Host Alleges Bowyer Is a Sexual Deviant Pardoned by Trump",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15501",
+      "label": "Host Says Bowyer Introduced Erika to Charlie",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15502",
+      "label": "Host Says Jussie Smollett Hired Two Nigerian Actors to Stage a Hate Crime",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15503",
+      "label": "In a Clip the Host Plays, a Speaker Urges People to Go to tpusa.com",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15504",
+      "label": "Host Says TPUSA Repeated Its Formula After the WHCD",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15505",
+      "label": "Host Says Red Paint Was Placed Where Charlie Bled Out",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15506",
+      "label": "Host Says TPUSA Refuses to Release Details on the Suspect",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15507",
+      "label": "Host Says Erika Is CEO and Chairwoman of TPUSA",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15508",
+      "label": "Host Says Over a Month Has Passed With No Footage From the Campus",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15509",
+      "label": "Host Says a Viewer DMed Tyler Bowyer About the Statue",
+      "node_kind": "claim",
+      "episode": 167
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42706,10 +42825,150 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-15510",
+      "label": "Per the DMs the Host Shows, Bowyer Says Masked Gang Bangers Covered Their Plate",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15511",
+      "label": "Per the DMs, Bowyer Asks How More Cameras Would Help",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15512",
+      "label": "Host Says the Police Hit a Dead End",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15513",
+      "label": "Per the DMs, the Viewer Jabs Bowyer About Running Out of Financial Resources",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15514",
+      "label": "Per the DMs, Bowyer Says He Worked With the Statue's Artist",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15515",
+      "label": "Host Sarcastically Declares the Statue Case Closed",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15516",
+      "label": "Host Says, as a Parody, Someone Bleached Her Brigitte Doll",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15517",
+      "label": "Host Says Monster Lab Appears Created to Support Erika's Image After the Assassination",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15518",
+      "label": "Host Says Baron Coleman Found a February Campaign Relic",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15519",
+      "label": "Host Says the Latvian Operator Gave Strict Instructions to Clippers",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "C-1552",
       "label": "Host Says SUBND Departed Provo on September 13, 2025 via Canada, Paris, and Cairo",
       "node_kind": "claim",
       "episode": 23
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15520",
+      "label": "In a Clip, a Message About the \"Erika Kirk AmFest\" Campaign Survived Because Her Name Was Misspelled",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15521",
+      "label": "In the Clip, the Payment Message Is Dated February 22, 2026",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15522",
+      "label": "In the Clip, the User Is Told to Delete the Message and Not Use Her Name",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15523",
+      "label": "In the Clip, Saying the Campaign Is for Erika Gets You Kicked Out",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15524",
+      "label": "In the Clip, Moderators Use a Stop Emoji and the Code \"EK\"",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15525",
+      "label": "In the Clip, Users Are Told They Will Be Banned for Naming Erika Kirk",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15526",
+      "label": "Host Recalls the WHCD-Night Email Telling Officials to Promote Erika's Clip",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15527",
+      "label": "Host Says Blake Wynn Was by Erika's Side for \"I Just Want to Go Home\"",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15528",
+      "label": "Host Says Blake Wynn's Enclave and Key Made Erika Clips Go Viral via Monster Lab",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15529",
+      "label": "Per the Discord Message the Host Shows, Clippers Were Owed a $10 Incentive for the \"AL\" WHCD Clip",
+      "node_kind": "claim",
+      "episode": 167
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42720,10 +42979,150 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-15530",
+      "label": "Host Says the AL Campaign Is Called Anti-Left",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15531",
+      "label": "Host Says the Discord Message Lines Up With the Amplification Email",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15532",
+      "label": "Host Says Enclave and Key Plausibly Funded the $10 Incentive",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15533",
+      "label": "Tip Says Blake Wynn's Father, Kenny Wynn, Was Raided in 2004",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15534",
+      "label": "Per the Article, Kenny Wynn, Steve Wynn's Brother, Was Subject of a Child Pornography Probe",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15535",
+      "label": "Per the Article, Wynn's Name Was Found on a Child Porn Website by Operation Predator",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15536",
+      "label": "Per the Article, Authorities Seized a Computer From Wynn's Home",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15537",
+      "label": "Per the Article, Operation Predator Began in July Under ICE",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15538",
+      "label": "Per the Article, Operation Predator Led to More Than 1,700 Arrests",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15539",
+      "label": "Host Says Charlie Was Getting White House Calls About the Epstein Scandal",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "C-1554",
       "label": "Host Says N102DZ Flew Scottsdale to Salt Lake City at 7:12 AM on Day of Assassination",
       "node_kind": "claim",
       "episode": 23
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15540",
+      "label": "Host Says Val Peterson Is UVU's VP of Facilities, a Utah House Rep and a Brigadier General",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15541",
+      "label": "Host Says Val Peterson Sat on the Timpanogos Hospital Board",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15542",
+      "label": "Host Says Val Peterson Also Sat on the Provo Airport Board",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15543",
+      "label": "Host Says Peterson Left the Hospital Board in 2019",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15544",
+      "label": "Host Says the Timpanogos Board Membership Is Not Public",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15545",
+      "label": "DIA: Host Asks for Tips on the Timpanogos Board",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15546",
+      "label": "Host Says Two Reliable Sources Put Val Peterson With Governor Cox on September 10",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15547",
+      "label": "Host Says Cox's Office Has Not Responded",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15548",
+      "label": "Host Alleges Hegseth Lied About Bombing Iranian Schools",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15549",
+      "label": "Host Says Zacharia's Exit Was Tied to Trump's Embarrassment",
+      "node_kind": "claim",
+      "episode": 167
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -42734,6 +43133,76 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-15550",
+      "label": "Host Says Zacharia Answered \"I Went to China\" When Asked Where She Passed the Bar",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15551",
+      "label": "Host Says Zacharia Tweeted Praise of Trump on October 16",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15552",
+      "label": "Host Says Zacharia Is Going Back to Fox News",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15553",
+      "label": "Host Says Tim Dillon Shared Her View of the Public-Execution Push",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15554",
+      "label": "Host Cites Hegseth's Plan for a Live Execution",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15555",
+      "label": "In a Clip the Host Plays, Tim Dillon Says Zacharia Was Pulled After a Disastrous Start",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15556",
+      "label": "In the Clip, Dillon Predicts Democratic Investigations Into Crypto and Hegseth",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15557",
+      "label": "In the Clip, Dillon Says the Fort Hood Shooter Was to Be Executed on Livestream",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15558",
+      "label": "Host Says Erika's Club America School Visits Are Administratively Forced",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15559",
+      "label": "Host Says Parents at a School Have Emailed Her About an Erika Kirk Appearance",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "C-1556",
       "label": "Host Says Borderline Bar and Grill Shooting Occurred November 7, 2018 in Thousand Oaks, CA, Killing 11 Patrons Plus Shooter",
       "node_kind": "claim",
@@ -42741,10 +43210,87 @@
     },
     {
       "@type": "KnowledgeGraphNode",
+      "identifier": "C-15560",
+      "label": "Host Says the Event Is a Pre-K Through 12 Veterans Day Assembly",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15561",
+      "label": "Host Says a Christian School Is Billing Erika as a Chapel Special Guest",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15562",
+      "label": "Per the Flyer, Veterans and Active Military Are Invited to the Chapel With Erika Kirk",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15563",
+      "label": "Host Says Parents May Opt Their Children Out or Attend",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15564",
+      "label": "Host Says Erika Was a Reality TV Casting Director",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15565",
+      "label": "A Viewer Comment the Host Reads Says TPUSA Offered a $10,000 Statue Reward but None for Charlie's Killer",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15566",
+      "label": "Host Says Tyler Robinson Was Forgiven 11 Days On, After the Clipping Campaign Began",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15567",
+      "label": "Host Says She Will Join Baron Coleman During Her Leave",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15568",
+      "label": "Host Says the Intro Voice Is From Ye's \"Stars\"",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15569",
+      "label": "Host Says There Are Suggestions Trump Will Remove Cabinet Members",
+      "node_kind": "claim",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
       "identifier": "C-1557",
       "label": "Netanyahu Publicly Stated He Invited Charlie Kirk to Israel Approximately Two Weeks Before Assassination",
       "node_kind": "claim",
       "episode": 23
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "C-15570",
+      "label": "Host Says Baron Merch Including a Substitute Teacher Crew Neck Is on the Website",
+      "node_kind": "claim",
+      "episode": 167
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -141928,6 +142474,160 @@
       "label": "Viewer comment (CPTNSL0) saying the bloodied bag was offered to Shawn Ryan",
       "node_kind": "artifact",
       "episode": 166
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3409",
+      "label": "DIA Tips Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3409.1",
+      "label": "Host verbal shout-out to a sleuth in Alaska named Jenny for the statue update",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3409.2",
+      "label": "Host verbal reference to an emailed tip that Blake Wynn's father was raided in 2004",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3409.3",
+      "label": "Host verbal request for tips on the Timpanogos Hospital board members, at the \"more tips\" email",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3409.4",
+      "label": "Host verbal reference to many emails from parents at a school where Erika Kirk is scheduled to speak",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3410",
+      "label": "TPUSA Post-Assassination Clip Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3410.1",
+      "label": "Clip the host plays of a speaker urging people to go to tpusa.com, which the host frames as said less than 48 hours after the assassination",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3411",
+      "label": "Tyler Bowyer Statue DM Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3411.1",
+      "label": "Direct-message exchange between a viewer and Tyler Bowyer about the statue vandalism, which the host reads",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3412",
+      "label": "Monster Lab Discord Relics Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3412.1",
+      "label": "Clip the host plays, apparently from Baron Coleman, showing Discord messages about payment for an \"Erika Kirk AmFest\" clipping campaign",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3412.2",
+      "label": "Discord message about a missing \"$10 incentive\" for the \"AL\" White House Correspondents' Dinner clip",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3413",
+      "label": "Kenny Wynn 2004 Article Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3413.1",
+      "label": "2004 news article, \"Win Brother subject in child porn probe\", which the host reads",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3414",
+      "label": "Val Peterson Biography Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3414.1",
+      "label": "Val Peterson's government biography and UVU website listing, which the host cites for his former Timpanogos Hospital and Provo airport board seats",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3415",
+      "label": "Katie Zacharia Tweet Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3415.1",
+      "label": "Katie Zacharia's October 16 tweet praising President Trump",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3416",
+      "label": "Tim Dillon Show Clip Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3416.1",
+      "label": "Clip the host plays from The Tim Dillon Show on Katie Zacharia's exit and the proposed livestreamed execution",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3417",
+      "label": "Erika Kirk School Chapel Flyer Bundle",
+      "node_kind": "artifact",
+      "episode": 167
+    },
+    {
+      "@type": "KnowledgeGraphNode",
+      "identifier": "A-3417.1",
+      "label": "School flyer for a Veterans Day chapel with special guest Erika Kirk, heavily redacted by the show",
+      "node_kind": "artifact",
+      "episode": 167
     }
   ],
   "bridges": [
@@ -143266,6 +143966,14 @@
       "relationship": "isMemberOf",
       "explanation": "Episode belongs to CKA / Candace show collection",
       "episode": 166
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "cka:episode:167",
+      "to": "cka:show:candace",
+      "relationship": "isMemberOf",
+      "explanation": "Episode belongs to CKA / Candace show collection",
+      "episode": 167
     },
     {
       "@type": "OrdinalBridge",
@@ -345634,6 +346342,1046 @@
     },
     {
       "@type": "OrdinalBridge",
+      "from": "C-15494",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15495",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15496",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15497",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15497",
+      "to": "A-3409.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15498",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15499",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15448",
+      "to": "C-15499",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15500",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15441",
+      "to": "C-15500",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15501",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15502",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15503",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15503",
+      "to": "A-3410.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15504",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15505",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15506",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15450",
+      "to": "C-15506",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15507",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15508",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15509",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15509",
+      "to": "A-3411.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15510",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15510",
+      "to": "A-3411.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15511",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15511",
+      "to": "A-3411.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15512",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15512",
+      "to": "A-3411.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15513",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15513",
+      "to": "A-3411.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15514",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15514",
+      "to": "A-3411.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15515",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15516",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15517",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3691",
+      "to": "C-15517",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15518",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15518",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15519",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15519",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15520",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15520",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15521",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15521",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15522",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15522",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15523",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15523",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15524",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15524",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15525",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15525",
+      "to": "A-3412.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15526",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-4270",
+      "to": "C-15526",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15527",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15528",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15077",
+      "to": "C-15528",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15529",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15529",
+      "to": "A-3412.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15530",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15530",
+      "to": "A-3412.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15531",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15531",
+      "to": "A-3412.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-4120",
+      "to": "C-15531",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15532",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-3688",
+      "to": "C-15532",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15533",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15533",
+      "to": "A-3409.2",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15533",
+      "to": "A-3413.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15534",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15534",
+      "to": "A-3413.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15535",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15535",
+      "to": "A-3413.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15536",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15536",
+      "to": "A-3413.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15537",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15537",
+      "to": "A-3413.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15538",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15538",
+      "to": "A-3413.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15539",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15357",
+      "to": "C-15539",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15540",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15541",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15541",
+      "to": "A-3414.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15542",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15542",
+      "to": "A-3414.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15543",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15543",
+      "to": "A-3414.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15544",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15545",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15545",
+      "to": "A-3409.3",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15546",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15426",
+      "to": "C-15546",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15547",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15548",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15549",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15550",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15380",
+      "to": "C-15550",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15551",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15551",
+      "to": "A-3415.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15552",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15553",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15554",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15475",
+      "to": "C-15554",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15555",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15555",
+      "to": "A-3416.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15556",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15556",
+      "to": "A-3416.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15557",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15557",
+      "to": "A-3416.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15558",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15362",
+      "to": "C-15558",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15559",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15559",
+      "to": "A-3409.4",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15560",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15560",
+      "to": "A-3417.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15561",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15561",
+      "to": "A-3417.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15562",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15562",
+      "to": "A-3417.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15563",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15563",
+      "to": "A-3417.1",
+      "relationship": "isSupportedBy",
+      "explanation": "Anchored artifact backs claim",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15564",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15565",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15454",
+      "to": "C-15565",
+      "relationship": "isCorroboratedBy",
+      "explanation": "Later or reinforcing claim corroborates prior",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15566",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15567",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15568",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15569",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "C-15570",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Claim aired in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
       "from": "A-1077",
       "to": "cka:episode:1",
       "relationship": "isMemberOf",
@@ -391695,6 +393443,182 @@
       "relationship": "isMemberOf",
       "explanation": "Artifact registered in episode",
       "episode": 166
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3409",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3409.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3409.2",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3409.3",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3409.4",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3410",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3410.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3411",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3411.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3412",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3412.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3412.2",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3413",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3413.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3414",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3414.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3415",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3415.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3416",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3416.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3417",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
+    },
+    {
+      "@type": "OrdinalBridge",
+      "from": "A-3417.1",
+      "to": "cka:episode:167",
+      "relationship": "isMemberOf",
+      "explanation": "Artifact registered in episode",
+      "episode": 167
     }
   ]
 }

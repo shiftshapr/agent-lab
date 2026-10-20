@@ -1390,7 +1390,7 @@ Claim Timestamp: 00:25:30
 
 Claim: The host reads that Enclave and Key's CEO and founder is Blake Wynn, a 26-year-old nephew of billionaire donor Steve Wynn.
 
-Transcript Snippet: Enclave Keys CEO and founder is Blake Wyn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.
+Transcript Snippet: Enclave Keys CEO and founder is Blake Wynn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.
 
 Anchored Artifacts: A-2500.1
 Mentions: N-352, N-353
