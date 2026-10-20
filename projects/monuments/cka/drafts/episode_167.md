@@ -1119,7 +1119,7 @@ Transcript Snippet: someone emailed us a tip that Blake's father, Blake's father
 Anchored Artifacts: A-3409.2, A-3413.1
 Mentions: N-352, N-972
 Related Nodes: N-11445, N-10832
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Public records on Blake Wynn's parentage and the 2004 Las Vegas Sun reports.
 
 ---
@@ -1135,7 +1135,7 @@ Transcript Snippet: Kenny Wynn, the brother of hotel casino developer Steve Wynn
 Anchored Artifacts: A-3413.1
 Mentions: N-972, N-353
 Related Nodes: N-11445
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Las Vegas Sun, February 26 and March 4, 2004; ICE records. The coverage found reports no charges filed.
 
 ---
@@ -1151,7 +1151,7 @@ Transcript Snippet: came under suspicion when investigators taking part in Opera
 Anchored Artifacts: A-3413.1
 Mentions: N-972
 Related Nodes: N-11445
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The search warrant application and the Regpay investigation records.
 
 ---
@@ -1167,7 +1167,7 @@ Transcript Snippet: authorities confiscated a computer from Kenny Wynn Kenny Wyn
 Anchored Artifacts: A-3413.1
 Mentions: N-972
 Related Nodes: N-11445
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search warrant return and any later charging decision.
 
 ---
