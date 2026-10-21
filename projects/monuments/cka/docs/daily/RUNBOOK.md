@@ -105,7 +105,19 @@ For names flagged as unresolved, check the HappyScribe transcript of the same ep
    `audits/daily_<YYYY-MM-DD>/verify/`.
 3. Commit with a message like `CKA daily <date>: Ep N (seq S), K claims`, ending with the Co-Authored-By line.
    Push the branch and open a PR to main whose body ends with the Claude Code line.
-4. Wait for the `gates` check. If it passes, merge it (`gh pr merge <n> --merge`); Daveed has authorized merging
+4. Wait for the `gates` check. Merge only when **all** of these hold (Daveed's ruling 3, 2026-10-14):
+   - the check is green;
+   - the run date is 2026-10-27 or later (every PR waits for Daveed during the pipeline's first week, from 2026-10-20);
+   - the run has no privacy or sensitive-allegation hits.
+
+   A hit is any new claim that does one of the following:
+   - alleges a crime or sexual misconduct by a named private individual;
+   - names a minor;
+   - gives a private person's address, phone, licence plate or similar details;
+   - concerns a private individual's personal life.
+
+   Otherwise leave the PR open and put "Waiting for Daveed: <reason>" at the top of the summary. If the check fails,
+   fix it, push and wait again; if you cannot fix it, leave the PR open and say why.
    when green. If it fails, fix it, push, and wait again. If you cannot fix it, leave the PR open and say why.
 
 ## 6. Notify

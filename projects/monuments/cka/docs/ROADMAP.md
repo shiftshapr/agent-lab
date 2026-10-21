@@ -56,7 +56,7 @@ The full execution plan from here to a verified, published and promoted archive.
 | 3.0 | **Migrate to JSON as source of truth.** The JSON is the master copy, Markdown is rendered from it, and agents write structured output; all with schema validation in CI | drafts regenerate byte-stable from JSON |
 | 3.1 | Typed nodes: Event (with `event_time` and place), Thing (rifle, SD card, plane), Organization, Place, Person, and Investigation question; each mapped to a schema.org type and a Wikidata class. For example, a Sept 10 event absorbs N-10002 Death and Memorial, and the "… Question" topics become Investigation questions | each core event has a node with a time; every node has a type |
 | 3.2 | Consolidate the topics: about 1,300 now, including more than ten Fort Huachuca topics. Apply the approved splits | topic count reduced with a merge map; no near-duplicate topic pairs |
-| 3.3 | Fix the companion's corroboration mapping: a same-host `Supports` must not become `isCorroboratedBy` | fixed |
+| 3.3 | ✅ 2026-10-21: same-host `Supports` now maps to `extends`; 1,150 of 2,477 former `isCorroboratedBy` edges. Fix the companion's corroboration mapping: a same-host `Supports` must not become `isCorroboratedBy` | fixed |
 
 ## Phase 4 — Primary sources and the verification layer
 4.1–4.3 can start in parallel with Phase 1. Linking (4.5) waits for Wave 4.
