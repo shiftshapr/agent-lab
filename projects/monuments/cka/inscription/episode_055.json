@@ -1746,7 +1746,9 @@
         "N-14",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1764,7 +1766,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1784,7 +1788,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1803,7 +1809,9 @@
       "investigative_direction": "Retrieve original Christianity Today article and corroborate against any independent biographical sources.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1817,7 +1825,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:12:48–00:13:40",
-      "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses."
+      "investigative_direction": "Locate the cited New York Times article; verify exact figures and any subsequent party responses.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1836,7 +1846,9 @@
       "investigative_direction": "Verify Moore's listed fellowships directly through ADL and Aspen Institute public records.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1855,7 +1867,9 @@
       "investigative_direction": "Verify advisory board membership through both organizations' published directories.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1874,7 +1888,9 @@
       "investigative_direction": "Identify the original venue and date of this speech; verify exact wording through primary source.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1894,7 +1910,9 @@
       "mentions_person_refs": [
         "N-399",
         "N-438"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1932,9 @@
       "mentions_person_refs": [
         "N-399",
         "N-438"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1935,7 +1955,9 @@
         "N-441",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1954,7 +1976,9 @@
       "investigative_direction": "Obtain full interview transcript from Tucker Carlson show; identify named individuals if possible.",
       "mentions_person_refs": [
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1974,7 +1998,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1995,7 +2021,9 @@
         "N-3",
         "N-46",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2015,7 +2043,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2062,9 @@
       "investigative_direction": "No investigative direction; comment is rhetorical and emotional, not falsifiable.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2046,7 +2078,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:54–00:50:57",
-      "investigative_direction": "No investigative direction."
+      "investigative_direction": "No investigative direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2094,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:57",
-      "investigative_direction": "No investigative direction."
+      "investigative_direction": "No investigative direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2074,7 +2110,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:50:57–00:51:36",
-      "investigative_direction": "No investigative direction."
+      "investigative_direction": "No investigative direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2088,7 +2126,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:36–00:52:14",
-      "investigative_direction": "No investigative direction."
+      "investigative_direction": "No investigative direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2142,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:51:58",
-      "investigative_direction": "No investigative direction."
+      "investigative_direction": "No investigative direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2116,7 +2158,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:52:14",
-      "investigative_direction": "No investigative direction."
+      "investigative_direction": "No investigative direction.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2130,7 +2174,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:28:35",
-      "investigative_direction": "Verify the cited statistic against peer-reviewed studies on post-abortion emotional outcomes."
+      "investigative_direction": "Verify the cited statistic against peer-reviewed studies on post-abortion emotional outcomes.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2146,7 +2192,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-440"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2161,7 +2209,9 @@
       "investigative_direction": "Verify MGM chairmanship and Summerhouse acquisition through public corporate records. *Flag: Claim failed artifact anchor test; inscribed under host assertion only.*",
       "mentions_person_refs": [
         "N-440"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2179,7 +2229,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2193,7 +2245,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:59–00:12:48",
-      "investigative_direction": "Review Turning Point USA's publicly available donation solicitations, IRS Form 990 filings, and any state charitable solicitation registrations. *Flag: Claim failed artifact anchor test; requires documentary corroboration.*"
+      "investigative_direction": "Review Turning Point USA's publicly available donation solicitations, IRS Form 990 filings, and any state charitable solicitation registrations. *Flag: Claim failed artifact anchor test; requires documentary corroboration.*",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2216,7 +2270,9 @@
         "N-439",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2294,9 @@
         "N-3",
         "N-1",
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2259,7 +2317,9 @@
       "transcript_snippet": "Like he's just phoning people up like I'll give you $600,000 and have that money transferred in your account with Bitcoin today.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2280,7 +2340,9 @@
       "transcript_snippet": "I think it's someone who feels personally victimized by the dream",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2300,7 +2362,9 @@
       "transcript_snippet": "he told me that I should consult a priest which I did and we spoke about souls in purgatory.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2325,7 +2389,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2351,7 +2417,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2372,7 +2440,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2397,7 +2467,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2420,7 +2492,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2440,7 +2514,9 @@
         "N-14",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2463,7 +2539,9 @@
         "N-14",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2484,7 +2562,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2503,7 +2583,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2523,7 +2605,9 @@
         "N-14",
         "N-611",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2543,7 +2627,9 @@
         "N-14",
         "N-593",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2564,7 +2650,9 @@
       "transcript_snippet": "this Korean man, Sun Myung Moon, who was actually working for the CIA, Assad, while leading effectively what became a religious cult.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2676,9 @@
       ],
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2613,7 +2703,9 @@
       "mentions_person_refs": [
         "N-399",
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2637,7 +2729,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2658,7 +2752,9 @@
       "transcript_snippet": "the Mooney's cult was riddled with claims of sexual rituals, physical and psychological abuse, and of course, as we've covered already, financial corruption.",
       "mentions_person_refs": [
         "N-10375"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2680,7 +2776,9 @@
       "mentions_person_refs": [
         "N-399",
         "N-444"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2704,7 +2802,9 @@
       "mentions_person_refs": [
         "N-444",
         "N-443"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2726,7 +2826,9 @@
       "mentions_person_refs": [
         "N-444",
         "N-443"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2750,7 +2852,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2772,7 +2876,9 @@
       "transcript_snippet": "I was contacted by people who are still at Liberty University, still working in Liberty University's office.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2798,7 +2904,9 @@
       ],
       "mentions_person_refs": [
         "N-439"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2821,7 +2929,9 @@
       "transcript_snippet": "it was corrupt pastors, evangelical pastors that wanted him out and wanted to put an end to the Falkirk Center.",
       "mentions_person_refs": [
         "N-439"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2847,7 +2957,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-439"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2870,7 +2982,9 @@
       "mentions_person_refs": [
         "N-439",
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2893,7 +3007,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-439"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2915,7 +3031,9 @@
       "transcript_snippet": "what they did to Charlie is wrong and they're lying about what happened and I know that something is not right with these pastors because I know these men.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2937,7 +3055,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2958,7 +3078,9 @@
       "transcript_snippet": "he had quit his job as the lead pastor of Liberty University back in 2014.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2982,7 +3104,9 @@
       ],
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3008,7 +3132,9 @@
         "N-14",
         "N-437",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3032,7 +3158,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-440"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3053,7 +3181,9 @@
       "transcript_snippet": "Johnnie Moore immediately and consistently despite establishing the Kairos Company wanted his job back at Liberty University",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3076,7 +3206,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3098,7 +3230,9 @@
         "N-593",
         "N-437",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3122,7 +3256,9 @@
       ],
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3143,7 +3279,9 @@
       "transcript_snippet": "They were born out of Zionist gangs, literal gangs, just to be clear.",
       "mentions_person_refs": [
         "N-11239"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3168,7 +3306,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3190,7 +3330,9 @@
       "transcript_snippet": "I can tell you again, I'm not I'm not Jewish. I'm I'm Christian. Uh and yet I've just always felt felt at home, you know, in the ADL community.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3215,7 +3357,9 @@
       ],
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3240,7 +3384,9 @@
       ],
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3260,7 +3406,9 @@
       "transcript_snippet": "He got caught with some porn magazines and was pretty badly made fun of.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3278,7 +3426,9 @@
       "transcript_snippet": "He had a male mentor who bought him and everyone in his family allegedly brand new cars.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3301,7 +3451,9 @@
         "N-437",
         "N-438",
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3326,7 +3478,9 @@
       "mentions_person_refs": [
         "N-399",
         "N-438"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3354,7 +3508,9 @@
         "N-437",
         "N-438",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3376,7 +3532,9 @@
       "mentions_person_refs": [
         "N-438",
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3398,7 +3556,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-438"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3422,7 +3582,9 @@
         "N-439",
         "N-442",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3446,7 +3608,9 @@
       "mentions_person_refs": [
         "N-442",
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3464,7 +3628,9 @@
       ],
       "claim_timestamp": "00:26:54",
       "investigative_direction": "Interpretive; test through TPUSA Faith's leadership, funding and links to Unification Church-linked people or entities.",
-      "transcript_snippet": "The organization is intended to be the Mooney 2.0."
+      "transcript_snippet": "The organization is intended to be the Mooney 2.0.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3485,7 +3651,9 @@
       "transcript_snippet": "The intention behind the Mooney's cult, by the way, in case it's not clear to you, was one world government achieved through the concept of a unification church.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3500,7 +3668,9 @@
       ],
       "claim_timestamp": "00:31:43",
       "investigative_direction": "Unspecified buyers and events; ask the host which fires and which purchasers she means.",
-      "transcript_snippet": "It feels like these are land grabs and you should be allowed to think through that with what I am telling you."
+      "transcript_snippet": "It feels like these are land grabs and you should be allowed to think through that with what I am telling you.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3521,7 +3691,9 @@
       "transcript_snippet": "It's almost as if the Mossad and the CIA, there is no separation between the two. It's why BB used to work for the CIA",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3542,7 +3714,9 @@
       "transcript_snippet": "tens of thousands of innocent Palestinians have been killed um and that they've been intentionally targeted because they're conducting a genocide.",
       "mentions_person_refs": [
         "N-10026"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3559,7 +3733,9 @@
       ],
       "claim_timestamp": "00:33:36",
       "investigative_direction": "No source cited; ask the host for the accusers and reports she means.",
-      "transcript_snippet": "It's not that they're being accused by their own people of conducting and covering up these sex rituals against children in their forests."
+      "transcript_snippet": "It's not that they're being accused by their own people of conducting and covering up these sex rituals against children in their forests.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3585,7 +3761,9 @@
       "mentions_person_refs": [
         "N-441",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3607,7 +3785,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3628,7 +3808,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3648,7 +3830,9 @@
       "transcript_snippet": "she actually is a Zionist and she supports Israel.",
       "mentions_person_refs": [
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3674,7 +3858,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3696,7 +3882,9 @@
         "N-38",
         "N-201",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3716,7 +3904,9 @@
       "transcript_snippet": "And in some cases, as I believe the case with Charlie Kirk, some people are are killed are actually murdered because they can't get controlled.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3734,7 +3924,9 @@
       "transcript_snippet": "created a clear column to speak about how many times sex trafficking has come up in the story, the history of our military.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3755,7 +3947,9 @@
       "transcript_snippet": "obviously we know that Eric Kirk was a was a Falerkerk fellow.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3780,7 +3974,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3801,7 +3997,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3822,7 +4020,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3847,7 +4047,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3871,7 +4073,9 @@
       ],
       "mentions_person_refs": [
         "N-10375"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3886,7 +4090,9 @@
       ],
       "claim_timestamp": "00:49:54",
       "investigative_direction": "Off-topic historical assertion; no source given.",
-      "transcript_snippet": "the vibes are not vibing in the Pearl Harbor story is what I will say. And Lyndon Baines Johnson was a uh devilish man throughout"
+      "transcript_snippet": "the vibes are not vibing in the Pearl Harbor story is what I will say. And Lyndon Baines Johnson was a uh devilish man throughout",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3905,7 +4111,9 @@
       "mentions_person_refs": [
         "N-932",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3920,7 +4128,9 @@
       ],
       "claim_timestamp": "00:50:57",
       "investigative_direction": "A sweeping opinion with no evidence; not testable as stated.",
-      "transcript_snippet": "In fact, I think our military at the top are actually just mercenary squads to protect the gangs."
+      "transcript_snippet": "In fact, I think our military at the top are actually just mercenary squads to protect the gangs.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3938,7 +4148,9 @@
       "transcript_snippet": "I'm wondering if children were being trafficked and administrators found out and they ended up dead.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3953,7 +4165,9 @@
       ],
       "claim_timestamp": "00:50:57",
       "investigative_direction": "Unspecified cases; ask the host to name the shootings and the benefit alleged.",
-      "transcript_snippet": "you find out that there's some like government government initiative uh or I guess the government can benefit by having this particular person dead."
+      "transcript_snippet": "you find out that there's some like government government initiative uh or I guess the government can benefit by having this particular person dead.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3968,7 +4182,9 @@
       ],
       "claim_timestamp": "00:51:36",
       "investigative_direction": "A sweeping belief with no source cited.",
-      "transcript_snippet": "If this really does become one world government and I do believe that that is the explicit aim, our kids just have no no chance."
+      "transcript_snippet": "If this really does become one world government and I do believe that that is the explicit aim, our kids just have no no chance.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3988,7 +4204,9 @@
       "transcript_snippet": "I totally agree, and I'm not voting until we figure out who killed Charlie Kirk and exactly how it happened.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4010,7 +4228,9 @@
       "transcript_snippet": "I dream. I dreamed a lot. I'm still having vivid dreams.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4027,7 +4247,9 @@
       ],
       "claim_timestamp": "00:52:14",
       "investigative_direction": "Theological assertion; no investigative step beyond scripture.",
-      "transcript_snippet": "God speaks to us in our dreams. And actually, in fact, that is biblical."
+      "transcript_snippet": "God speaks to us in our dreams. And actually, in fact, that is biblical.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

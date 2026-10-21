@@ -1619,6 +1619,8 @@ Anchored Artifacts:
 Mentions: N-726, N-343, N-341
 Related Nodes: N-10551
 Tags: relevance:tangential
+Verification: revised-by-host
+Verification Evidence: C-9376
 Investigative Direction: Search local police and court records for the incident and its date.
 
 ---

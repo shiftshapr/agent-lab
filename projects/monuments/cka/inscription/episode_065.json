@@ -2233,7 +2233,9 @@
       "mentions_person_refs": [
         "N-204",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2253,7 +2255,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2273,7 +2277,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2299,9 @@
       "investigative_direction": "Obtain the original San Diego Union Tribune publication and Ward Boston's notarized statement; verify date and text.",
       "mentions_person_refs": [
         "N-499"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2315,7 +2323,9 @@
       "mentions_person_refs": [
         "N-498",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2340,9 @@
       "investigative_direction": "Verify with public records / naturalization records if available.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2350,7 +2362,9 @@
       "mentions_person_refs": [
         "N-501",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2368,7 +2382,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-500"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2402,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-500"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2421,9 @@
       "investigative_direction": "Obtain the documentary and verify the specific clips and their context.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2422,7 +2442,9 @@
         "N-36",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2441,7 +2463,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-498"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2460,7 +2484,9 @@
       "investigative_direction": "Verify with Youssef's official tour pages and ticketing platforms.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2484,7 +2510,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2501,7 +2529,9 @@
       "tags": [],
       "claim_timestamp": "00:00:54",
       "investigative_direction": "Identify the award organizer and its published nominee list for the year in question.",
-      "transcript_snippet": "And actually one of the nominees for the anti-semite of the year this year was Misreach."
+      "transcript_snippet": "And actually one of the nominees for the anti-semite of the year this year was Misreach.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2522,7 +2552,9 @@
       "transcript_snippet": "I didn't even ask people to vote for me. I won it fair and square. Um, in large part thanks to the fact that I was fired from Daily Wire that year.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2547,7 +2579,9 @@
         "N-3",
         "N-497",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2567,7 +2601,9 @@
         "N-3",
         "N-497",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2589,7 +2625,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2608,7 +2646,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2629,7 +2669,9 @@
       "transcript_snippet": "$6 million for damages in the USS liberties and $6 million for the victims of the USS Liberty.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2648,7 +2690,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2667,7 +2711,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2690,7 +2736,9 @@
       "mentions_person_refs": [
         "N-498",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2715,7 +2763,9 @@
         "N-1",
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2736,7 +2786,9 @@
       "mentions_person_refs": [
         "N-498",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2758,7 +2810,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2779,7 +2833,9 @@
       "mentions_person_refs": [
         "N-455",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2799,7 +2855,9 @@
       "transcript_snippet": "they were already have pledged over $200 million to produce TV shows movies in order to retell October 7th from the Israeli point of view",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2818,7 +2876,9 @@
       "mentions_person_refs": [
         "N-178",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2836,7 +2896,9 @@
       "transcript_snippet": "like 92 British soldiers were killed and the people who did it were people from the Hagana gang and they were dressed as Palestinians.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2917,9 @@
       "transcript_snippet": "Israel sends a Musad agent and then he leads four to five different bomb attacks on Jewish synagogues and Jewish communities.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2874,7 +2938,9 @@
       "transcript_snippet": "and then in 2005 they finally acknowledged it by giving the participants in the Lavoon affair operation participation certificates",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2893,7 +2959,9 @@
       "transcript_snippet": "1994 the bombing of the Israeli embassy in London. It was done by Musad and then they nailed they kind of nailed two Palestinians for it.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2912,7 +2980,9 @@
       "transcript_snippet": "there was an attack of the Mexican parliament by two Musad uh individuals and they were also like being they they pretended to be Palestinians but they were discovered before the bombing.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2931,7 +3001,9 @@
         "N-36",
         "N-298",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +3023,9 @@
         "N-17",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2970,7 +3044,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2989,7 +3065,9 @@
       "transcript_snippet": "This entire church, Calvary Chapel Church is a CIA story.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3006,7 +3084,9 @@
       "mentions_person_refs": [
         "N-298",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3025,7 +3105,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3128,9 @@
         "N-1",
         "N-57",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3067,7 +3151,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3086,7 +3172,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3108,7 +3196,9 @@
         "N-3",
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3127,7 +3217,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3151,7 +3243,9 @@
         "N-1",
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3173,7 +3267,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3199,7 +3295,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3217,7 +3315,9 @@
         "N-2",
         "N-211",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3234,7 +3334,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3253,7 +3355,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3274,7 +3378,9 @@
       ],
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3293,7 +3399,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-379"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3308,7 +3416,9 @@
       "tags": [],
       "claim_timestamp": "00:38:13",
       "investigative_direction": "Check the Auschwitz Museum's history of its published death toll estimates, including when the older 4 million figure was revised.",
-      "transcript_snippet": "and they changed the number from 4 million to 1 million overnight."
+      "transcript_snippet": "and they changed the number from 4 million to 1 million overnight.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3327,7 +3437,9 @@
       "mentions_person_refs": [
         "N-199",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3343,7 +3455,9 @@
       "transcript_snippet": "That the number one victims of World War II were not Jews, it was Christians.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3361,7 +3475,9 @@
       "transcript_snippet": "And then the Hagana, which is like is one of the Israeli the Zionist gang, they blew it up because the British authorities wouldn't let it go",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3385,7 +3501,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3409,7 +3527,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-204"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3429,7 +3549,9 @@
       "transcript_snippet": "3 weeks they killed more children from the Palestinian side more than Israeli kids were killed all through 75 years.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3447,7 +3569,9 @@
       "transcript_snippet": "they find that the location of one of their field office is in Tel Aviv.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3467,7 +3591,9 @@
         "N-497",
         "N-521",
         "N-140"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3483,7 +3609,9 @@
       "transcript_snippet": "LBJ murdered JFK. It got his boys in there and took over our military",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3501,7 +3629,9 @@
       "transcript_snippet": "NYPDs and LAPDs is having Israeli special operations officers on site with them.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3518,7 +3648,9 @@
       "mentions_person_refs": [
         "N-140",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3536,7 +3668,9 @@
       "transcript_snippet": "People are losing government contracts. You have 37, 38 states that have laws",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3554,7 +3688,9 @@
       "transcript_snippet": "they sanctioned the judge. He's in in he's a he's he's Dutch. This guy cannot have access to his bank account.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3570,7 +3706,9 @@
       "transcript_snippet": "we saw this recently down in Miami where the police officer showed up and was like did you send this tweet?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3586,7 +3724,9 @@
       "transcript_snippet": "I have a friend of mine Palestinian. He and two of his friends they were shot and now he's he's paralyzed from waist down.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3602,7 +3742,9 @@
       "transcript_snippet": "I'm banned from an entire country over standing up for Palestinians children uh innocent Palestinian life",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3620,7 +3762,9 @@
       "transcript_snippet": "they can take $28 billion or $30 billion from your tax money and give it to a different country.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3637,7 +3781,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3657,7 +3803,9 @@
         "N-497",
         "N-204",
         "N-720"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3676,7 +3824,9 @@
       "mentions_person_refs": [
         "N-117",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3692,7 +3842,9 @@
       "transcript_snippet": "oh here it is a Syrian passport found near a suicide bomber at near a suicide bomber at November 2015",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3713,7 +3865,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3737,7 +3891,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3756,7 +3912,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3772,7 +3930,9 @@
       "transcript_snippet": "They are trafficking human beings. This is what they are involved in.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3791,7 +3951,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3814,7 +3976,9 @@
         "N-3",
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3830,7 +3994,9 @@
       "transcript_snippet": "the testosterone crisis as I call it. I mean the because of the stuff they're putting in our water, the stuff they're putting in our food",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3850,7 +4016,9 @@
       "transcript_snippet": "Look at the suicide rate of the IDF soldiers who t who top themselves after fighting in Gaza",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3870,7 +4038,9 @@
       "transcript_snippet": "breaking the silence which is like the group of the IDF soldiers who they have a movement called breaking the silence ex IDF soldiers who speaks about the atrocities that they did",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3889,7 +4059,9 @@
       "transcript_snippet": "its editorial team are full of people from XIDF and and and ex Musad",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3908,7 +4080,9 @@
       "transcript_snippet": "there is more tunnels inside the underneath Gaza more than the length of the New York time the New York subway system.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3927,7 +4101,9 @@
       "transcript_snippet": "they had like a whole piece about the rape the rape hoax which was completely fabricated.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3948,7 +4124,9 @@
       "mentions_person_refs": [
         "N-199",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3967,7 +4145,9 @@
       "transcript_snippet": "to say that babies were put in ovens and then to have us realize that that was all made up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3988,7 +4168,9 @@
       "mentions_person_refs": [
         "N-498",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4009,7 +4191,9 @@
       "mentions_person_refs": [
         "N-498",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4034,7 +4218,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-500"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4052,7 +4238,9 @@
       "transcript_snippet": "Also, actually, there was Hollywood Babylon, too. And there's a reason for that. They then changed it.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4075,7 +4263,9 @@
         "N-3",
         "N-500",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4097,7 +4287,9 @@
         "N-3",
         "N-721",
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4116,7 +4308,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-721"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4135,7 +4329,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-721"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4152,7 +4348,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-722"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4174,7 +4372,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4195,7 +4395,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4212,7 +4414,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-723"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4228,7 +4432,9 @@
       "transcript_snippet": "Yeah, I was a heart surgeon for 20 years before all of this.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4244,7 +4450,9 @@
       "transcript_snippet": "2001 in the summer, my return ticket from Miami was 17th of September, 6 days before after 9/11.",
       "mentions_person_refs": [
         "N-497"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4267,7 +4475,9 @@
         "N-3",
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4286,7 +4496,9 @@
       "mentions_person_refs": [
         "N-497",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

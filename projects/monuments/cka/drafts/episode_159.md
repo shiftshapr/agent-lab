@@ -1799,6 +1799,8 @@ Transcript Snippet: according to Doug Degroot, the journalists were just pressur
 Anchored Artifacts: A-2809.1
 Mentions: N-496, N-2
 Related Nodes: N-11010, N-10186
+Verification: revised-by-host
+Verification Evidence: C-13725
 Investigative Direction: Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
 ---

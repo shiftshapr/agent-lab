@@ -1107,6 +1107,8 @@ Mentions:
 
 Related Nodes: N-10280
 
+Verification: revised-by-host
+Verification Evidence: C-4550
 Investigative Direction: Verify Pierre Dupont's existence and donor relationship through TPUSA's IRS Form 990 filings and donor disclosures.
 
 ---

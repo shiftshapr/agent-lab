@@ -2394,6 +2394,8 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-10666, N-10000
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-11750
 Investigative Direction: Obtain the FBI hotel booking records and TPUSA group lodging records.
 
 ---

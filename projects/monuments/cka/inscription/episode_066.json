@@ -1301,7 +1301,9 @@
         "N-2",
         "N-512",
         "N-513"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1320,7 +1322,9 @@
         "N-2",
         "N-512",
         "N-513"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1338,7 +1342,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1360,7 +1366,9 @@
         "N-517",
         "N-518",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1382,7 +1390,9 @@
         "N-2",
         "N-186",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1401,7 +1411,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1418,7 +1430,9 @@
       "investigative_direction": "Cross-check donor's account with Erika Kirk's public acknowledgment of receiving relics.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1437,7 +1451,9 @@
         "N-1",
         "N-2",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1458,7 +1474,9 @@
       "investigative_direction": "Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA \"Blank\" staffer identity.",
       "mentions_person_refs": [
         "N-515"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1476,7 +1494,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1493,7 +1513,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:25:29",
-      "investigative_direction": "Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed."
+      "investigative_direction": "Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1510,7 +1532,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:32",
-      "investigative_direction": "Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures."
+      "investigative_direction": "Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1529,7 +1553,9 @@
         "N-2",
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1546,7 +1572,9 @@
       "investigative_direction": "Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.",
       "mentions_person_refs": [
         "N-516"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1569,7 +1597,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1590,7 +1620,9 @@
       "transcript_snippet": "Enough money to have not just a PR person, but then to have an entire orbit of people who are being paid to push their talking points like Paramount Tactical.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1616,7 +1648,9 @@
       "mentions_person_refs": [
         "N-512",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1639,7 +1673,9 @@
         "N-518",
         "N-517",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1662,7 +1698,9 @@
         "N-518",
         "N-517",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1687,7 +1725,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1709,7 +1749,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1731,7 +1773,9 @@
       "transcript_snippet": "I got an email from a woman, Catholic woman, back in October, and the email did not sit right with me spiritually.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1758,7 +1802,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1782,7 +1828,9 @@
       "transcript_snippet": "I was at the memorial having zero personal or prior involvement or engagement with Turning Point USA or anyone from there.",
       "mentions_person_refs": [
         "N-10436"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1805,7 +1853,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1877,9 @@
       "transcript_snippet": "I spent a good eight hours sitting with Father Blank. I'm shy generally and was sitting with empty seats around me in the third row from the stage.",
       "mentions_person_refs": [
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1849,7 +1901,9 @@
         "N-514",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1869,7 +1923,9 @@
       "transcript_snippet": "I noticed a tall bodyguard in the back along with Erika and a middle-aged woman that was sitting by her.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1895,7 +1951,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1917,7 +1975,9 @@
         "N-2",
         "N-1",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1940,7 +2000,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1964,7 +2026,9 @@
       "transcript_snippet": "I knew that they had that girl clocked before she walked into memorial.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1984,7 +2048,9 @@
       "transcript_snippet": "Stacy Sheridan's job literally is to know everything about that person, their net worth.",
       "mentions_person_refs": [
         "N-186"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2005,7 +2071,9 @@
       "mentions_person_refs": [
         "N-186",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2095,9 @@
       "transcript_snippet": "I'm going to assume you have a lot of money, and it breaks my to tell you this, but you were targeted.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2047,7 +2117,9 @@
       "transcript_snippet": "She runs a massive business. They are wealthy. Extraordinarily wealthy.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2072,7 +2144,9 @@
         "N-1",
         "N-2",
         "N-514"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2091,7 +2165,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2114,7 +2190,9 @@
       "mentions_person_refs": [
         "N-57",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2137,7 +2215,9 @@
       "transcript_snippet": "And that person then hooked her up directly with somebody that they said could help get her into the venue.",
       "mentions_person_refs": [
         "N-10002"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2160,7 +2240,9 @@
       "mentions_person_refs": [
         "N-515",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2269,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-515"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2211,7 +2295,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2233,7 +2319,9 @@
       "transcript_snippet": "Please email more tips. com. I need to know more about this little RV show.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2343,9 @@
       "transcript_snippet": "Obviously, we know they made a ton of money. They geofenced everybody's phones",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2276,7 +2366,9 @@
       "mentions_person_refs": [
         "N-514",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2303,7 +2395,9 @@
         "N-2",
         "N-186",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2418,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2443,9 @@
       "transcript_snippet": "another top fundraiser at Turning Point USA met her there and said, \"Hey, you know, um Erika wanted me to follow up with you.\"",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2369,7 +2467,9 @@
       "transcript_snippet": "Erika repeated how much she loved meeting you again.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2390,7 +2490,9 @@
       "transcript_snippet": "you got Dr. Frank Turek and apparently, according to her, he's on stage and he's hitting he's hitting at the Judeo Judeo Judeo.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2512,9 @@
       "transcript_snippet": "it's where a lot of the meetings take place. The Zionist donors, you know, Prager, you doing a gala down there makes perfect sense.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2433,7 +2537,9 @@
       "transcript_snippet": "And he kind of kicks the can down the road and says, \"Oh, we're going to we're planning on doing stuff in the future.\"",
       "mentions_person_refs": [
         "N-10436"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2455,7 +2561,9 @@
       "transcript_snippet": "Are you available the second or third week of February?",
       "supports_claim_refs": [
         "C-5952"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2477,7 +2585,9 @@
       "transcript_snippet": "I think I was actually targeted. And she was targeted.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2500,7 +2610,9 @@
         "N-2",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2525,7 +2637,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2549,7 +2663,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2686,9 @@
       "mentions_person_refs": [
         "N-516",
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2591,7 +2709,9 @@
       "mentions_person_refs": [
         "N-85",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2611,7 +2731,9 @@
       "transcript_snippet": "Obviously, um now we know the CIA and the Mossad trains, all of these radicals.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2632,7 +2754,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2651,7 +2775,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2674,7 +2800,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2700,7 +2828,9 @@
         "N-14",
         "N-93",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2722,7 +2852,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2744,7 +2876,9 @@
       "transcript_snippet": "I received my TPUSA hat today, lol. Most likely only because of the leaked call and the attention brought to the contract wording",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2766,7 +2900,9 @@
       "transcript_snippet": "Yeah, I got a lot of emails that never even received the hat and now they are suddenly receiving them.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2788,7 +2924,9 @@
       "transcript_snippet": "when she saw this strange lie coming from Andrew Coven about the Catholic faith",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2811,7 +2949,9 @@
         "N-14",
         "N-99",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2833,7 +2973,9 @@
         "N-14",
         "N-2",
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2852,7 +2994,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2873,7 +3017,9 @@
       "mentions_person_refs": [
         "N-721",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

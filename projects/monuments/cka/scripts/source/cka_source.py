@@ -120,6 +120,9 @@ def save(doc: dict) -> None:
 
 
 REQUIRED = {"claim": ("Claim Timestamp", "Claim", "Anchored Artifacts")}
+# POLICY 11 / ROADMAP 4.4: absent `Verification:` means unverified; any other status must cite evidence
+VERIFICATION = ("unverified", "corroborated", "disputed", "contradicted-by-record", "revised-by-host")
+EVIDENCE_RE = re.compile(r"^(?:C-\d+|S-\d+(?:\.\d+)?)$")
 ID_KIND = {"claim": "C-", "artifact": "A-", "node": "N-", "meme": "M-"}
 
 
@@ -147,6 +150,16 @@ def validate(doc: dict) -> list[str]:
             seen.add(b["id"])
             keys = {e.get("k") for e in b["lines"]}
             errs += [f"{b['id']}: missing {f}" for f in REQUIRED["claim"] if f not in keys]
+            status = field(b, "Verification")
+            if status is not None:
+                if status not in VERIFICATION:
+                    errs.append(f"{b['id']}: bad Verification {status!r}")
+                ev = [x.strip() for x in (field(b, "Verification Evidence") or "").split(",") if x.strip()]
+                if status != "unverified" and not ev:
+                    errs.append(f"{b['id']}: Verification {status} without Verification Evidence")
+                errs += [f"{b['id']}: bad evidence id {x!r}" for x in ev if not EVIDENCE_RE.match(x)]
+                if status == "revised-by-host" and not any(x.startswith("C-") for x in ev):
+                    errs.append(f"{b['id']}: revised-by-host must cite the revising claim")
     return errs
 
 

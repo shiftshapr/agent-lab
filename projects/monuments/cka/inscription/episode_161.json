@@ -1904,7 +1904,9 @@
         "N-14",
         "N-37",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1930,7 +1932,9 @@
         "N-37",
         "N-14",
         "N-281"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1951,7 +1955,9 @@
       "mentions_person_refs": [
         "N-281",
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1977,7 +1983,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2000,7 +2008,9 @@
         "N-3",
         "N-301",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2025,7 +2035,9 @@
       "mentions_person_refs": [
         "N-18",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2058,7 +2070,9 @@
         "N-97",
         "N-259",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2081,7 +2095,9 @@
         "N-2",
         "N-5",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2105,7 +2121,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2131,7 +2149,9 @@
         "N-355",
         "N-356",
         "N-357"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2157,7 +2177,9 @@
         "N-356",
         "N-357",
         "N-354"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2177,7 +2199,9 @@
       "investigative_direction": "Pull WARC/CDX raw for monsterlab domain; compare other archive mirrors (archive.ph etc.).",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2198,7 +2222,9 @@
       "investigative_direction": "Recover pre-wipe September 12-14 HTML; list first campaign titles.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2219,7 +2245,9 @@
         "N-352",
         "N-2",
         "N-353"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2239,7 +2267,9 @@
       "mentions_person_refs": [
         "N-170",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2262,7 +2292,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2314,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2309,7 +2343,9 @@
         "N-298",
         "N-2",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2333,7 +2369,9 @@
       ],
       "mentions_person_refs": [
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2358,7 +2396,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2381,7 +2421,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2445,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2423,7 +2467,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2448,7 +2494,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2469,7 +2517,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-553"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2495,7 +2545,9 @@
       ],
       "mentions_person_refs": [
         "N-281"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2516,7 +2568,9 @@
       "transcript_snippet": "that's apparently the place that Tyler Robinson published his alleged confession",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2539,7 +2593,9 @@
       "transcript_snippet": "if you're an editor, you can pick one of these campaigns. And when you pick one, you are then thrown into uh Discord.",
       "mentions_person_refs": [
         "N-10013"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2562,6 +2618,10 @@
       "transcript_snippet": "He is also the number one person that is creating these campaigns on the website.",
       "mentions_person_refs": [
         "N-351"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-13988"
       ]
     },
     {
@@ -2581,7 +2641,9 @@
       ],
       "claim_timestamp": "00:10:15",
       "investigative_direction": "Obtain the payout rules and sample bio-code registrations.",
-      "transcript_snippet": "People make edits on videos and then they get paid by Monster Labs based on how many impressions those videos get."
+      "transcript_snippet": "People make edits on videos and then they get paid by Monster Labs based on how many impressions those videos get.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2603,7 +2665,9 @@
       "transcript_snippet": "That is not allowed this week until August 23rd. The only thing you can clip is this debate.",
       "mentions_person_refs": [
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2690,9 @@
       "transcript_snippet": "a journalist over at the Atlantic did a deep dive after they also received a tip. In addition, they received access because this group is closed on Discord by someone who wanted to expose what was happening.",
       "mentions_person_refs": [
         "N-354"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2648,7 +2714,9 @@
       "transcript_snippet": "it is going to be an operation with strong ties to Eastern Europe. And the videos are being supplied by a very close friend of Erika Kirks.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2671,7 +2739,9 @@
       "mentions_person_refs": [
         "N-351",
         "N-354"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2693,7 +2763,9 @@
       "transcript_snippet": "we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name",
       "mentions_person_refs": [
         "N-351"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2716,7 +2788,9 @@
       "transcript_snippet": "I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join",
       "mentions_person_refs": [
         "N-354"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2741,7 +2815,9 @@
         "N-351",
         "N-354",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2767,7 +2843,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2790,7 +2868,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2893,9 @@
       "mentions_person_refs": [
         "N-352",
         "N-353"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2835,7 +2917,9 @@
       "transcript_snippet": "he responded, quote, \"There are a number of inaccuracies,\" end quote, but declined to offer further clarification",
       "mentions_person_refs": [
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2859,7 +2943,9 @@
       "mentions_person_refs": [
         "N-352",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2884,7 +2970,9 @@
         "N-352",
         "N-2",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2908,7 +2996,9 @@
         "N-352",
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2934,7 +3024,9 @@
         "N-118",
         "N-868",
         "N-869"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2959,7 +3051,9 @@
         "N-1",
         "N-2",
         "N-329"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2983,7 +3077,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3007,7 +3103,9 @@
         "N-351",
         "N-97",
         "N-259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3026,7 +3124,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-352"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3043,7 +3143,9 @@
       ],
       "claim_timestamp": "00:34:56",
       "investigative_direction": "Check Romanian company registries for Enclave and Key entities.",
-      "transcript_snippet": "Romania. Romania. I kid you not. I kid you not."
+      "transcript_snippet": "Romania. Romania. I kid you not. I kid you not.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3063,7 +3165,9 @@
       "transcript_snippet": "What you see on my socials is an employee that is being paid to create clips on my socials that are identifiable.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3082,7 +3186,9 @@
       "mentions_person_refs": [
         "N-259",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3108,7 +3214,9 @@
       ],
       "mentions_person_refs": [
         "N-10801"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3128,7 +3236,9 @@
       "transcript_snippet": "Kash Patel, who we've learned is is friends with all these people, was talking about how they needed to go out and figure out who was running archive uh. ph",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3150,7 +3260,9 @@
       "transcript_snippet": "Somebody said I don't I don't know who owns Wayback Machine and said, \"I see that you have all these archives. We just wanted to say loading.",
       "supports_claim_refs": [
         "C-13935"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3169,7 +3281,9 @@
       ],
       "claim_timestamp": "00:44:50",
       "investigative_direction": "Search state LLC filings and DBA registrations for the trade names.",
-      "transcript_snippet": "When you go to the website and you look at the terms and conditions and the about section it just tells us that they are using the trade name monster lab and clip it."
+      "transcript_snippet": "When you go to the website and you look at the terms and conditions and the about section it just tells us that they are using the trade name monster lab and clip it.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3196,7 +3310,9 @@
         "N-119",
         "N-5",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3216,7 +3332,9 @@
       "transcript_snippet": "after his company got chopped up. Adelson got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3234,7 +3352,9 @@
       "transcript_snippet": "I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.",
       "mentions_person_refs": [
         "N-358"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3251,7 +3371,9 @@
       ],
       "claim_timestamp": "00:48:50",
       "investigative_direction": "Search New York DOS filings for the trade names.",
-      "transcript_snippet": "we should be able to figure it out because this person is claim purports to be based in New York."
+      "transcript_snippet": "we should be able to figure it out because this person is claim purports to be based in New York.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3273,7 +3395,9 @@
       "transcript_snippet": "Nick Fuentes is banned from Instagram. He's banned from YouTube.",
       "mentions_person_refs": [
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3297,7 +3421,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3317,7 +3443,9 @@
       "transcript_snippet": "And I think ultimately because she wanted the White House. I genuinely believe Erika had high political ambitions.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3340,7 +3468,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3357,7 +3487,9 @@
       ],
       "claim_timestamp": "00:53:40",
       "investigative_direction": "Pull WHOIS registration history for vancekirk.com.",
-      "transcript_snippet": "I think actually September 12th is also the day that vancekirk. com was purchased. We don't know who purchased it, but it was purchased."
+      "transcript_snippet": "I think actually September 12th is also the day that vancekirk. com was purchased. We don't know who purchased it, but it was purchased.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3377,7 +3509,9 @@
       "transcript_snippet": "I'm not getting paid. I've never taken a single dollar from Turning Point USA.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3401,7 +3535,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3423,7 +3559,9 @@
       "transcript_snippet": "So, hit your girl up at more tips at candace. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3448,7 +3586,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3472,7 +3612,9 @@
         "N-3",
         "N-1",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3490,7 +3632,9 @@
       "transcript_snippet": "Anyway, uh that was released yesterday on Theon's channel and people have really loved it. I think it I saw that it passed a million views",
       "mentions_person_refs": [
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3507,7 +3651,9 @@
       ],
       "claim_timestamp": "01:05:55",
       "investigative_direction": "Identify funders of Monster Lab and confirm any such alignment.",
-      "transcript_snippet": "look, it's it's Israeli aligned interest. There's no question about it."
+      "transcript_snippet": "look, it's it's Israeli aligned interest. There's no question about it.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3525,7 +3671,9 @@
       "transcript_snippet": "I'm so excited to meet him. I will say that. Just a couple more weeks here.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3547,7 +3695,9 @@
       "transcript_snippet": "Email us more tips@candice. com with any information.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3562,7 +3712,9 @@
       ],
       "claim_timestamp": "01:09:20",
       "investigative_direction": "None; sweeping group characterization.",
-      "transcript_snippet": "These people were funded uh into the positions that they're in today."
+      "transcript_snippet": "These people were funded uh into the positions that they're in today.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3580,7 +3732,9 @@
       "transcript_snippet": "it is the very thing that Charlie was fighting in the end was the idea of people giving money to control his voice.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

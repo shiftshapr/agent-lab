@@ -1443,7 +1443,9 @@
         "N-22",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1462,7 +1464,9 @@
         "N-1",
         "N-2",
         "N-488"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1479,7 +1483,9 @@
       "investigative_direction": "Pull certified court records from the relevant Arizona county (likely Pinal or Maricopa) to confirm indictment, charges, age of complainant, and disposition details.",
       "mentions_person_refs": [
         "N-490"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1496,7 +1502,9 @@
       "investigative_direction": "Verify dismissal-without-prejudice status in court records; check statute of limitations to determine whether refiling remains a legal possibility.",
       "mentions_person_refs": [
         "N-490"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1520,7 +1528,9 @@
         "N-489",
         "N-490",
         "N-491"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1540,7 +1550,9 @@
       "mentions_person_refs": [
         "N-387",
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1557,7 +1569,9 @@
       "investigative_direction": "Retrieve the original post from X/Twitter (including any deletions or edits) and identify which \"background\" Bowyer was referencing.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1577,7 +1591,9 @@
       "mentions_person_refs": [
         "N-494",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1596,7 +1612,9 @@
       "investigative_direction": "Cross-check time-tracking or HR records to verify hours worked.",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1615,7 +1633,9 @@
       "investigative_direction": "Obtain HR personnel file to confirm or refute the absence of any prior negative review.",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1635,7 +1655,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-493"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1677,9 @@
       "mentions_person_refs": [
         "N-493",
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1675,7 +1699,9 @@
       "transcript_snippet": "Arizona, you should know, is an at-will employment state. What that means is that employers can fire you for any reason at all.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1697,7 +1723,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1722,7 +1750,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1746,7 +1776,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1772,7 +1804,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1799,7 +1833,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1826,7 +1862,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1853,7 +1891,9 @@
         "N-3",
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1875,7 +1915,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1896,7 +1938,9 @@
       "transcript_snippet": "They're not going to send any legal letters over to anybody that is pro-Israel.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1921,7 +1965,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1948,7 +1994,9 @@
         "N-1",
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1971,7 +2019,9 @@
       "transcript_snippet": "Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.",
       "mentions_person_refs": [
         "N-767"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1993,7 +2043,9 @@
       "transcript_snippet": "You have accomplished so much by the all by the hand of the almighty, but he is going to lift his hand from you.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2017,7 +2069,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2038,7 +2092,9 @@
       "transcript_snippet": "They've effectively have turned Gaza into a parking lot.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2116,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2141,9 @@
       "transcript_snippet": "It is becoming increasingly difficult to imagine how Turning Point is not naming and shaming these people. I give them an opportunity here.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2107,7 +2167,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2129,7 +2191,9 @@
         "N-3",
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2153,7 +2217,9 @@
         "N-490",
         "N-491",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2173,7 +2239,9 @@
       "transcript_snippet": "Now Lyle Reams ostensibly is Native American a part of the and excuse me if I'm saying this wrong Tohono O'odham Nation.",
       "mentions_person_refs": [
         "N-490"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2197,7 +2265,9 @@
         "N-490",
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2217,7 +2287,9 @@
       "transcript_snippet": "Sacaton for reference has a population today of just 3,254 people. 40% of those people are children. 95% are yeah, Native American.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2241,7 +2313,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2263,7 +2337,9 @@
       "transcript_snippet": "Her name here is now Lorin l o r i n rather than Lori which is other business documents.",
       "mentions_person_refs": [
         "N-489"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2362,9 @@
       "transcript_snippet": "Well, that address does not appear to exist. Rose and Thobi is an an intersection.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2315,7 +2393,9 @@
         "N-491",
         "N-489",
         "N-387"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2337,7 +2417,9 @@
       "transcript_snippet": "when you form an LLC, you have to then publicize that you are doing so in a local newspaper and provide a general description of your intended business operations.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2360,7 +2442,9 @@
       "transcript_snippet": "It's recognized by the state as an optional publication to meet the requirement but as far as publications go, it's a bit obscure.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2380,7 +2464,9 @@
       "transcript_snippet": "For reference per their website, the the Chinese News Agency was founded in Phoenix, Arizona in April of 1990.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2489,9 @@
       "transcript_snippet": "please email me at moretips@candaceowens. com cuz I would like to know what this tech easy tech desert tech euro tech all of these tech companies do exactly",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2424,7 +2512,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2444,7 +2534,9 @@
       "transcript_snippet": "Magisterium AI actually brings the receipts meaning every single answer is backed by original sources, citations that you can click and verify for yourself.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2470,7 +2562,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2492,7 +2586,9 @@
       "transcript_snippet": "this is a fun tweet that somebody pulled up from Tyler Bowyer, the former CEO. He wrote this um September 25th, 2018.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2517,7 +2613,9 @@
       ],
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2544,7 +2642,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2565,7 +2665,9 @@
       "transcript_snippet": "So, I still don't understand what caused it. I can't get to the root of what happened.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2591,7 +2693,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2613,7 +2717,9 @@
       "transcript_snippet": "gets hauled into the office by the general counsel, thinks that they are being brought in because they're going to get a raise or a bonus",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2636,7 +2742,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2660,7 +2768,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2682,7 +2792,9 @@
       "transcript_snippet": "That Erika doesn't even know their names. That only a couple a handful of people even have access to her.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2709,7 +2821,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2848,9 @@
       ],
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2756,7 +2872,9 @@
       "transcript_snippet": "I never spoke to this employee once. Never anything at all.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2778,7 +2896,9 @@
       "transcript_snippet": "And you will receive your your year-end bonus for your performance for the year.",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2800,7 +2920,9 @@
       "transcript_snippet": "So, do I get to have a conversation with Dylan? Do I get to have a talk conversation with Justin or anybody or Nope. No.",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2822,7 +2944,9 @@
       "transcript_snippet": "if you don't get that job you're going to be the first I think to be screwed over",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2844,7 +2968,9 @@
       "transcript_snippet": "I only speak for the organization.",
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2864,7 +2990,9 @@
       "transcript_snippet": "what Turning Point is doing is legal, but it's also immoral.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2889,7 +3017,9 @@
       ],
       "mentions_person_refs": [
         "N-493"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2911,7 +3041,9 @@
       "transcript_snippet": "This employee is part-time. It kind of set up this fake Zoom meeting",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2936,7 +3068,9 @@
       ],
       "mentions_person_refs": [
         "N-494"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2962,7 +3096,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2984,7 +3120,9 @@
       "transcript_snippet": "Again, same exact situation. I had never once spoken to that person, not through a third party, nothing.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3005,7 +3143,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3026,7 +3166,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3044,7 +3186,9 @@
       "transcript_snippet": "Reminds me of how Erika never says Jesus Christ. She just can't say it.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3069,7 +3213,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3091,7 +3237,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3112,7 +3260,9 @@
       "transcript_snippet": "I think that's really what these legal letters are about. You You cannot, however, sue your way into relevancy.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3137,7 +3287,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3162,7 +3314,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1036,7 +1036,9 @@
       "mentions_person_refs": [
         "N-302",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1054,7 +1056,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1072,7 +1076,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1093,7 +1099,9 @@
       "investigative_direction": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\"",
       "mentions_person_refs": [
         "N-714"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1112,7 +1120,9 @@
         "N-3",
         "N-714",
         "N-306"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1129,7 +1139,9 @@
       "investigative_direction": "Verify clip against original Gutfeld show broadcast; confirm exact wording.",
       "mentions_person_refs": [
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1148,7 +1160,9 @@
         "N-1",
         "N-7",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1167,7 +1181,9 @@
         "N-3",
         "N-267",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1186,7 +1202,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1208,7 +1226,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1232,7 +1252,9 @@
       "mentions_person_refs": [
         "N-302",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1252,7 +1274,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1272,7 +1296,9 @@
       "mentions_person_refs": [
         "N-302",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1294,7 +1320,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-68"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1319,7 +1347,9 @@
         "N-159",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1340,7 +1370,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1360,7 +1392,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1379,7 +1413,9 @@
       "transcript_snippet": "I also attached to that tweet any day leading up to the 15th.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1398,7 +1434,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1417,7 +1455,9 @@
       "transcript_snippet": "the fact that you mentioned the Egyptian planes so many times yesterday without providing a valid answer or reason as to why we should just ignore military planes",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1442,7 +1482,9 @@
         "N-3",
         "N-1",
         "N-260"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1464,7 +1506,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1484,7 +1528,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-305"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1504,7 +1550,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-305"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1525,7 +1573,9 @@
         "N-3",
         "N-305",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1545,7 +1595,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-305"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1569,7 +1621,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1593,7 +1647,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1615,7 +1671,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-714"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1635,7 +1693,9 @@
         "N-3",
         "N-305",
         "N-714"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1654,7 +1714,9 @@
       "transcript_snippet": "We can do this through the end of the year anytime. Okay? Just send me a link and we will appear virtually.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1674,7 +1736,9 @@
       "transcript_snippet": "neither the White House or the Elise Palace or even the United States Pentagon has formally denied this quote unquote crazy claim?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1692,7 +1756,9 @@
       "transcript_snippet": "I wonder if I slap the out you, would that be anti-semitic? Cuz I don't want to be anti-semitic.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1712,7 +1778,9 @@
         "N-7",
         "N-159",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1731,7 +1799,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1752,7 +1822,9 @@
         "N-3",
         "N-55",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1768,7 +1840,9 @@
       "transcript_snippet": "it's like a very high percentage of murders that are committed by somebody else they know. I think it's like north of 95% of murders.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1790,7 +1864,9 @@
         "N-267",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1809,7 +1885,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1828,7 +1906,9 @@
       "transcript_snippet": "and I was actually willing to do that within reason. Like I mean like if we had a conversation and tried to plan it and book it.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1847,7 +1927,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1866,7 +1948,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1887,7 +1971,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1907,7 +1993,9 @@
       "transcript_snippet": "I have proof now that Tim P uses bots. Stay tuned. Receipts dropping in the next few weeks.",
       "mentions_person_refs": [
         "N-267"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1930,7 +2018,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +2039,9 @@
       "transcript_snippet": "we can see the influence campaign, too. So, please just stop doing it. Like, stop paying the influencers because it's a waste of your money",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1966,7 +2058,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

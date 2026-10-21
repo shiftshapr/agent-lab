@@ -1621,7 +1621,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:55–00:11:12",
-      "investigative_direction": "Obtain the original unaltered footage, authenticate source chain, and have independent military-tactics experts assess whether the movement matches the lateral-crawl technique as shown in the reference clip."
+      "investigative_direction": "Obtain the original unaltered footage, authenticate source chain, and have independent military-tactics experts assess whether the movement matches the lateral-crawl technique as shown in the reference clip.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1638,7 +1640,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:37–00:15:53",
-      "investigative_direction": "Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type."
+      "investigative_direction": "Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1659,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:37–00:15:53",
-      "investigative_direction": "Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model."
+      "investigative_direction": "Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1672,7 +1678,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:12–00:11:55",
-      "investigative_direction": "Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.)."
+      "investigative_direction": "Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.).",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1692,7 +1700,9 @@
       "mentions_person_refs": [
         "N-782",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1712,7 +1722,9 @@
       "mentions_person_refs": [
         "N-782",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1745,9 @@
         "N-782",
         "N-9",
         "N-529"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1752,7 +1766,9 @@
       "investigative_direction": "Obtain the underlying court exhibit / text record image to verify exact wording, sender, recipient, and timestamp.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1769,7 +1785,9 @@
       "investigative_direction": "Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1786,7 +1804,9 @@
       "investigative_direction": "Obtain original clip and full context (event, date, audience).",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1803,7 +1823,9 @@
       "investigative_direction": "Review medical examiner reports and chain-of-custody records for any gauze or material handling; verify bullet-fragment provenance.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1821,7 +1843,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:51:51",
-      "investigative_direction": "Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms."
+      "investigative_direction": "Forensic review of the flash frame-by-frame; compare with published time-to-adjust-sights benchmarks for similar firearms.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1849,7 +1873,9 @@
         "N-15",
         "N-494",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1873,7 +1899,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1894,7 +1922,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1944,9 @@
       "transcript_snippet": "the feds during this manhunt released chose to release an extremely blurry still image of a man in a stairwell.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1939,7 +1971,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1961,7 +1995,9 @@
         "N-3",
         "N-42",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1985,7 +2021,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2006,7 +2044,9 @@
       "transcript_snippet": "He said that the person looked to him like it was a professional.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2067,9 @@
       "transcript_snippet": "Strangely, they didn't contact him. They weren't curious for him to testify. The prosecution wasn't interested.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2049,7 +2091,9 @@
         "N-3",
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2068,7 +2112,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2089,7 +2135,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2110,7 +2158,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2133,7 +2183,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2159,7 +2211,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2179,7 +2233,9 @@
       "transcript_snippet": "this is supposed to be a German 98 Mauser family heirloom gun uh used during World War I and World War II.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2202,7 +2258,9 @@
       "transcript_snippet": "it had dust in the barrel indicating non-usage",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2226,7 +2284,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2247,7 +2307,9 @@
       "transcript_snippet": "The dogs that that were brought to Losi center, right, where the person jumped off were given a scent, a scent to go chase.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2271,7 +2333,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2357,9 @@
       "transcript_snippet": "Freya was the bomb dog. I am told that she's the one who had a broken nose that day.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2314,7 +2380,9 @@
       "transcript_snippet": "one of the feds instructed these two rookie cops who literally were brand new and said just go look again where Freya had failed.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2338,7 +2406,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-779"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2433,9 @@
         "N-3",
         "N-779",
         "N-780"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2455,9 @@
       "transcript_snippet": "They have a presence in more than 41 countries and on US Navy vessels.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2407,7 +2481,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-780"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2430,7 +2506,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-781"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2453,7 +2531,9 @@
         "N-3",
         "N-779",
         "N-780"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2476,7 +2556,9 @@
         "N-3",
         "N-782",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2499,7 +2581,9 @@
         "N-782",
         "N-5",
         "N-353"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2524,7 +2608,9 @@
         "N-3",
         "N-5",
         "N-782"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2546,7 +2632,9 @@
         "N-3",
         "N-529",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2572,7 +2660,9 @@
       "revises_claim_refs": [
         "C-10436",
         "C-5213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2594,7 +2684,9 @@
         "N-3",
         "N-529",
         "N-568"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2618,7 +2710,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2638,7 +2732,9 @@
         "N-3",
         "N-33",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2667,7 +2763,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2687,7 +2785,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2710,7 +2810,9 @@
         "N-1",
         "N-5",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2729,7 +2831,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-130"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2752,7 +2856,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2775,7 +2881,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2794,7 +2902,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2923,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-430"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2834,7 +2946,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2855,7 +2969,9 @@
       "transcript_snippet": "That's why they launched Operation Mockingbird then and why they launched it again this time.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +2991,9 @@
       "transcript_snippet": "a literal CIA experiment, by the way, that had took place.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2895,7 +3013,9 @@
       "transcript_snippet": "Of course, the CIA crew neck, Canada intelligent agency is how we got here.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

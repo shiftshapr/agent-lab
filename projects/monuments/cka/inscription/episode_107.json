@@ -1470,7 +1470,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1489,7 +1491,9 @@
         "N-2",
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1507,7 +1511,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1526,7 +1532,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-345"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1544,7 +1552,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-347"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1561,7 +1571,9 @@
       "investigative_direction": "Retrieve archived versions of Victor Marx's website via Wayback Machine.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1581,7 +1593,9 @@
       "transcript_snippet": "a high-risk humanitarian who has rescued more than 45,000 women and children",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1601,7 +1615,9 @@
       "transcript_snippet": "Of course I do",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1620,7 +1636,9 @@
       "transcript_snippet": "it was three years and it was on the DD-214",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1638,7 +1656,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1657,7 +1677,9 @@
       "investigative_direction": "Cross-reference with IDF/nonprofit invitation records and travel documentation.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1678,7 +1700,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1695,7 +1719,9 @@
       "investigative_direction": "Verify against official Israeli inquiry findings and IDF operational records.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1712,7 +1738,9 @@
       "investigative_direction": "Verify against partner nonprofit documentation and beneficiary records.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1733,7 +1761,9 @@
       "transcript_snippet": "Nowhere…have I ever declared…that I ever rescued 45,000 women or children",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1753,7 +1783,9 @@
       "transcript_snippet": "White House press team does not want to respond about that email. Is it real, yes or no?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1774,7 +1806,9 @@
       "transcript_snippet": "we have since filed an FOIA request for the relative White House Correspondents Dinner emails.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1793,7 +1827,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1813,7 +1849,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1832,7 +1870,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1890,9 @@
       "transcript_snippet": "Gloyce did serve in the army doing counterintelligence. He then pled guilty to a conspiracy to running an an international drug smuggling ring, marijuana out of Jamaica.",
       "mentions_person_refs": [
         "N-349"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1870,7 +1912,9 @@
         "N-724",
         "N-349",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1889,7 +1933,9 @@
       "mentions_person_refs": [
         "N-725",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1908,7 +1954,9 @@
       "mentions_person_refs": [
         "N-725",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1926,7 +1974,9 @@
       "transcript_snippet": "So, his grandfather killed his grandmother in a public murder-suicide.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1944,7 +1994,9 @@
       "transcript_snippet": "By the time he was 17, he had lived in 17 homes and attended 14 schools",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1963,6 +2015,10 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-9409"
       ]
     },
     {
@@ -1982,7 +2038,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2000,7 +2058,9 @@
       "transcript_snippet": "In 2003, um he and his brother began All Things Possible Ministries.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2021,7 +2081,9 @@
       ],
       "revises_claim_refs": [
         "C-8138"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2038,7 +2100,9 @@
       "mentions_person_refs": [
         "N-726",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2060,7 +2124,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2080,7 +2146,9 @@
       "transcript_snippet": "But I remember being at a morgue again wrapped to a chair and watching them dismember a corpse.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2100,7 +2168,9 @@
       "transcript_snippet": "And I've dealt with thousands of demons now, thousands. Easily.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2120,7 +2190,9 @@
       "transcript_snippet": "Over 100 missions complete. Uh with trauma care help over 45,000 women children.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2215,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2237,9 @@
       "transcript_snippet": "They diagnosed me with bipolar 2 ultra-rapid cycler and put me on a lot of meds.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2183,7 +2259,9 @@
       "transcript_snippet": "On the medications I was I was suicidal and probably more homicidal.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2205,7 +2283,9 @@
       "mentions_person_refs": [
         "N-342",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2308,9 @@
         "N-341",
         "N-342",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2247,7 +2329,9 @@
       "transcript_snippet": "In fact, I am told that he was once conducting such prayers at the Turning Point USA headquarter office.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2266,7 +2350,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2285,7 +2371,9 @@
       "mentions_person_refs": [
         "N-345",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2304,7 +2392,9 @@
       "mentions_person_refs": [
         "N-345",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2414,9 @@
         "N-346",
         "N-341",
         "N-347"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2345,7 +2437,9 @@
       "mentions_person_refs": [
         "N-347",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2366,7 +2460,9 @@
       "mentions_person_refs": [
         "N-347",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2387,7 +2483,9 @@
       "mentions_person_refs": [
         "N-349",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2413,7 +2511,9 @@
         "N-341",
         "N-342",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2434,7 +2534,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2455,7 +2557,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2478,7 +2582,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2499,7 +2605,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2521,7 +2629,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2542,7 +2652,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2562,7 +2674,9 @@
       "transcript_snippet": "But we're happy to give you the FBI's agent's name who is in charge of the investigation to move to here.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2589,7 +2703,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2610,7 +2726,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2748,9 @@
       "transcript_snippet": "Where did you you didn't grow up in Martinville, Mississippi? No, I did not.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2770,9 @@
       "transcript_snippet": "I didn't know who he was.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2795,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2693,7 +2817,9 @@
       "transcript_snippet": "No, I have not suffered any [clears throat] sexual abuse.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2839,9 @@
       "transcript_snippet": "I've shared my story as an adult regarding my childhood and the abuse that I suffered from 3 to 7 years old.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2733,7 +2861,9 @@
       "transcript_snippet": "my sister was on my documentary film, The Victor Marc Story, which folks can watch.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2754,7 +2884,9 @@
       "mentions_person_refs": [
         "N-349",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2774,7 +2906,9 @@
       "transcript_snippet": "we've got analysts and detectives that come here to our training center for a retreat.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2797,7 +2931,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2817,7 +2953,9 @@
       "transcript_snippet": "Uh there were two towns or sister towns, Mendenhall and Magee. It was in one of those. Yeah, in Simpson County, Mississippi.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2837,7 +2975,9 @@
       "transcript_snippet": "I was in ministry and I tried being a pastor, but I wasn't called to it.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2997,9 @@
       "transcript_snippet": "He said, \"I give you authority to trample serpents, to cast out demons.\" And I actually believe it.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +3019,9 @@
       "transcript_snippet": "they would often manifest demonic influence or oppression. And the Lord taught me how to pray with authority.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2898,7 +3042,9 @@
       "transcript_snippet": "we don't charge people to set them free. We do this out of love.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +3065,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-344"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2939,7 +3087,9 @@
       "transcript_snippet": "It's the Unseen War. And churches use that.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2959,7 +3109,9 @@
       "transcript_snippet": "We record every session on audio or video so that they can have it, so there's no miscommunication.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2985,7 +3137,9 @@
         "N-341",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3006,7 +3160,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3028,7 +3184,9 @@
         "N-341",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3052,7 +3210,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3076,7 +3236,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3101,7 +3263,9 @@
         "N-3",
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3122,7 +3286,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3146,7 +3312,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3171,7 +3339,9 @@
         "N-341",
         "N-1",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3193,7 +3363,9 @@
         "N-341",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3219,7 +3391,9 @@
         "N-341",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3246,7 +3420,9 @@
         "N-208",
         "N-348",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3267,7 +3443,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3287,7 +3465,9 @@
       "transcript_snippet": "We brought our team immediately to help give relief for the first security team who I knew when I was in contact with and they were suffering trauma and exhaustion.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3309,7 +3489,9 @@
         "N-341",
         "N-343",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3329,7 +3511,9 @@
       "transcript_snippet": "Yeah, no, not uh physically. We didn't do physical operations there.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3350,7 +3534,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-727"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3370,7 +3556,9 @@
       "transcript_snippet": "my time in the Marine Corps was I served on the President Reagan.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3391,7 +3579,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-728"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3411,7 +3601,9 @@
       "transcript_snippet": "we had an invitation by the Kurdistan government.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3431,7 +3623,9 @@
       "transcript_snippet": "We went there the first time in 2015, the early part, and it was a very hot zone.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3452,7 +3646,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3472,7 +3668,9 @@
       "transcript_snippet": "and never did we take any governmental funding.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3493,7 +3691,9 @@
       "transcript_snippet": "It wasn't our focus to rescue women and children at at all.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3518,7 +3718,9 @@
         "N-3",
         "N-341",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3542,7 +3744,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3562,7 +3766,9 @@
       "transcript_snippet": "we would never declare the total number of people we've rescued for both security and safety reasons",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3583,7 +3789,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3603,7 +3811,9 @@
       "transcript_snippet": "there's no doubt in my mind that there are organizations that are actually traffickers that pose as counter trafficking.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3624,7 +3834,9 @@
       "transcript_snippet": "who either still have or did have the highest level of clearance in the US that worked for the CIA or Joint Task Force or Delta.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3644,7 +3856,9 @@
       "transcript_snippet": "I work around the governments, but I've never been paid by any of them.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3664,7 +3878,9 @@
       "transcript_snippet": "we just got a video from Southeast Asia I didn't ask for, but one of our safe houses there they were so hurt and disgusted by the false allegations against me",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3685,7 +3901,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3706,7 +3924,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-345"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3727,7 +3947,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-345"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3748,7 +3970,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-345"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3769,7 +3993,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-345"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3789,7 +4015,9 @@
       "transcript_snippet": "I told people I was under psychiatric care, 123 visits to a trauma specialist.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3815,7 +4043,9 @@
         "N-3",
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3838,7 +4068,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3861,7 +4093,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3881,7 +4115,9 @@
       "transcript_snippet": "we had over 2,000 rockets launched at us.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3901,7 +4137,9 @@
       "transcript_snippet": "I would say this, it has turned into a genocide",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3922,7 +4160,9 @@
       "transcript_snippet": "I put it online. I was on Fox.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3949,7 +4189,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3970,7 +4212,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3991,7 +4235,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-342"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4012,7 +4258,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4032,7 +4280,9 @@
         "N-3",
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4050,7 +4300,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4072,7 +4324,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4095,7 +4349,9 @@
         "N-3",
         "N-2",
         "N-343"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4117,7 +4373,9 @@
         "N-2",
         "N-1",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4133,7 +4391,9 @@
       "transcript_snippet": "we are exclusively funded by you and our advertisers. There is nobody else.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

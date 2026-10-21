@@ -1274,6 +1274,8 @@ Anchored Artifacts: A-1661.1
 Mentions: N-2, N-1, N-237
 Related Nodes: N-10318
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-5455
 Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the exact words used about Charlie's night-before messages.
 
 ---

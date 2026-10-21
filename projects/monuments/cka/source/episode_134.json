@@ -3253,6 +3253,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11567"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Pull the filed memorandum from the court docket and identify which party filed it and when."
     },
@@ -6894,6 +6902,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11581"
     },
     {
      "k": "Investigative Direction",

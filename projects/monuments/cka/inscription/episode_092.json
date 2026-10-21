@@ -2000,7 +2000,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2021,9 @@
       "investigative_direction": "Cross-reference social-media post timestamps against TPUSA internal communication records; obtain statements from named staff.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2043,7 +2047,9 @@
       ],
       "contradicts_claim_refs": [
         "C-8289"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2064,7 +2070,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2086,7 +2094,9 @@
         "N-2",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2105,7 +2115,9 @@
       "investigative_direction": "Identify the named TPUSA official cited by Daily Wire; verify any law-enforcement reports referenced.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2140,9 @@
       ],
       "contradicts_claim_refs": [
         "C-8289"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2162,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-211"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2180,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
-      "investigative_direction": "Obtain the original email/text from TPUSA to the school; interview named administrators."
+      "investigative_direction": "Obtain the original email/text from TPUSA to the school; interview named administrators.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2183,7 +2201,9 @@
       "investigative_direction": "Confirm event status with Pinnacle High School administration; obtain school district statement.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2199,7 +2219,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:16",
-      "investigative_direction": "Obtain original email to determine whether \"September\" is a transcription/OCR artifact or a genuine content error."
+      "investigative_direction": "Obtain original email to determine whether \"September\" is a transcription/OCR artifact or a genuine content error.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2218,7 +2240,9 @@
       "investigative_direction": "Cross-reference with venue ticket-issuing records and TPUSA promotion metrics.",
       "mentions_person_refs": [
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2262,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2259,7 +2285,9 @@
         "N-341",
         "N-342",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2279,7 +2307,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2298,7 +2328,9 @@
       "investigative_direction": "Obtain archived copies of the TPUSA bio page; verify against TPUSA staff directory and IRS Form 990 disclosures.",
       "mentions_person_refs": [
         "N-424"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2317,7 +2349,9 @@
       "investigative_direction": "Cross-reference against IMDb / production credits; verify production dates and roles.",
       "mentions_person_refs": [
         "N-424"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2337,7 +2371,9 @@
       "investigative_direction": "Obtain full webpage capture; identify the firm and confirm the family relationship through independent records.",
       "mentions_person_refs": [
         "N-424"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2359,7 +2395,9 @@
         "N-2",
         "N-211",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2379,7 +2417,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-424"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2405,7 +2445,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2423,7 +2465,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2449,7 +2493,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2472,7 +2518,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2493,7 +2541,9 @@
       "mentions_person_refs": [
         "N-4",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2517,7 +2567,9 @@
         "N-14",
         "N-887",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2545,7 +2597,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2565,7 +2619,9 @@
       "transcript_snippet": "People had been actually tracking Erika's plane since the very beginning. People were doing entire shows about where she was going and how much she was traveling and how ridiculous it was. And she never canled a single thing.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2582,7 +2638,9 @@
       ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Check the venue's published capacity and UGA enrollment figures.",
-      "transcript_snippet": "at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people."
+      "transcript_snippet": "at the Classic Center, which is near the University of Georgia. The stadium holds just 7,000 people.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2658,9 @@
       ],
       "claim_timestamp": "00:12:38",
       "investigative_direction": "Obtain the event registration page, ticket terms and registration counts.",
-      "transcript_snippet": "to make matters easier for them, they also opened the tickets, the free tickets to the general public."
+      "transcript_snippet": "to make matters easier for them, they also opened the tickets, the free tickets to the general public.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2686,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2712,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2672,7 +2736,9 @@
         "N-2",
         "N-280",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2698,7 +2764,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2719,7 +2787,9 @@
       "transcript_snippet": "they had to move the believers summit, something that they advertised for last year.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2746,7 +2816,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2768,7 +2840,9 @@
         "N-2",
         "N-33",
         "N-888"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2789,7 +2863,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2814,7 +2890,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2837,7 +2915,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2858,7 +2938,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2882,7 +2964,9 @@
         "N-4",
         "N-1",
         "N-887"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2900,7 +2984,9 @@
       ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Check the Minab school strike casualty reports and official US statements.",
-      "transcript_snippet": "Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it."
+      "transcript_snippet": "Like when you guys blew up that school, 150 Iranian school girls were killed and then you lied about it.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2918,7 +3004,9 @@
       "transcript_snippet": "was not just even two days ago that Trump said that he thought Jesus was a Red Cross doctor.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2938,7 +3026,9 @@
         "N-5",
         "N-420",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2955,7 +3045,9 @@
       ],
       "claim_timestamp": "00:26:19",
       "investigative_direction": "Check shipping-traffic data for the Strait of Hormuz before the war and the administration's stated war aims.",
-      "transcript_snippet": "Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous."
+      "transcript_snippet": "Going to war with the explicit aim of opening the straight of Hormuse, which was already opened before you began the war, is pretty preposterous.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2977,7 +3069,9 @@
         "N-2",
         "N-598",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2997,7 +3091,9 @@
         "N-2",
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3018,7 +3114,9 @@
       "transcript_snippet": "company employees who witnessed the shooting and for some incomprehensible reason neglect to call 911, but instead rush to remove cameras within minutes.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3040,7 +3138,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3063,7 +3163,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3086,7 +3188,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3110,7 +3214,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3131,7 +3237,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3152,7 +3260,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3175,7 +3285,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3197,7 +3309,9 @@
         "N-341",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3219,7 +3333,9 @@
         "N-342",
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3241,7 +3357,9 @@
         "N-341",
         "N-889",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3263,7 +3381,9 @@
         "N-341",
         "N-889",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3285,7 +3405,9 @@
       "transcript_snippet": "we have people that are saying that they will get jobs at Turning Point USA just to give us information from the inside.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3311,7 +3433,9 @@
       "mentions_person_refs": [
         "N-424",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3337,7 +3461,9 @@
       "mentions_person_refs": [
         "N-424",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3364,7 +3490,9 @@
         "N-94",
         "N-200",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3389,7 +3517,9 @@
         "N-687",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3414,7 +3544,9 @@
         "N-450",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3440,7 +3572,9 @@
       "mentions_person_refs": [
         "N-42",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3466,7 +3600,9 @@
       "mentions_person_refs": [
         "N-800",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3492,7 +3628,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3516,7 +3654,9 @@
         "N-237",
         "N-325",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3542,7 +3682,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3569,7 +3711,9 @@
         "N-799",
         "N-449",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3595,7 +3739,9 @@
       "mentions_person_refs": [
         "N-449",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3618,7 +3764,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3641,7 +3789,9 @@
       "mentions_person_refs": [
         "N-460",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3667,7 +3817,9 @@
       "mentions_person_refs": [
         "N-424",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3694,7 +3846,9 @@
       "mentions_person_refs": [
         "N-424",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3717,7 +3871,9 @@
         "N-3",
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3740,7 +3896,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3761,7 +3919,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3782,7 +3942,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3804,7 +3966,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3824,7 +3988,9 @@
         "N-2",
         "N-209",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1873,7 +1873,9 @@
         "N-266",
         "N-1",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1895,9 @@
       "mentions_person_refs": [
         "N-729",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1913,7 +1917,9 @@
       "mentions_person_refs": [
         "N-729",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1933,7 +1939,9 @@
       "mentions_person_refs": [
         "N-729",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1954,7 +1962,9 @@
         "N-40",
         "N-54",
         "N-135"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1974,7 +1984,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1990,7 +2002,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:23",
-      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments."
+      "investigative_direction": "Preserve viewer email as a tip lead; pursue forensic comparison of shard imagery with manufacturer specifications and any recovered physical shard fragments.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2007,7 +2021,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:51",
-      "investigative_direction": "Source original high-resolution images from Jon Bray or other collectors; submit for independent forensic image analysis."
+      "investigative_direction": "Source original high-resolution images from Jon Bray or other collectors; submit for independent forensic image analysis.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2024,7 +2040,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:51",
-      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology."
+      "investigative_direction": "Preserve the YouTube source video as comparison reference; identify original video uploader and timestamp; pursue additional independent destruction tests with documented methodology.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2044,7 +2062,9 @@
       "investigative_direction": "Obtain original Miss Arizona-era signed documents from 2004-2007 competition records and notarized documents from current TPUSA / personal filings for forensic handwriting comparison.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2064,7 +2084,9 @@
       "transcript_snippet": "the one that TPUSA moved to sell like hotcakes right after he passed. I don't Don't you want to own the shirt that Charlie Kirk was wearing when he died? $59.99 and it could be yours.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2105,9 @@
       "mentions_person_refs": [
         "N-330",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2104,7 +2128,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2124,7 +2150,9 @@
         "N-7",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2145,7 +2173,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2197,9 @@
         "N-266",
         "N-224",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2191,7 +2223,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2211,7 +2245,9 @@
       "transcript_snippet": "stood outside uh the room and held guard on the outside door of the room so nobody else could come in there.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2230,7 +2266,9 @@
       "transcript_snippet": "We still can't figure out who in the car called 911, and we can't find that 911 call, but they say someone did call 911.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2251,7 +2289,9 @@
       "transcript_snippet": "you told us that you didn't even do CPR. It was an 8-minute car ride. Now you're you're you want to defibrillate and bring his heart back online.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2272,7 +2312,9 @@
       ],
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2296,7 +2338,9 @@
         "N-7",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2314,7 +2358,9 @@
       "transcript_snippet": "Cuz I don't see it in evidence. I don't see it marked as evidence. I haven't seen it in the court case filings that they have this shirt anywhere.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2332,7 +2378,9 @@
       "transcript_snippet": "The car was sent for a tow, a cleanup, and auction all very expeditiously. They didn't want to keep this for evidence.",
       "supports_claim_refs": [
         "C-9999"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2401,9 @@
       ],
       "mentions_person_refs": [
         "N-681"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2376,7 +2426,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2393,7 +2445,9 @@
       "tags": [],
       "claim_timestamp": "00:15:51",
       "investigative_direction": "Check Rode's list price for the Wireless Pro system and confirm which model Charlie wore.",
-      "transcript_snippet": "Assuming this guy is super rich cuz this is like $1,500 to purchase these things."
+      "transcript_snippet": "Assuming this guy is super rich cuz this is like $1,500 to purchase these things.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2464,9 @@
       "tags": [],
       "claim_timestamp": "00:16:41",
       "investigative_direction": "Verify against Rode's teardown or specifications what material the unit's rear panel is made of.",
-      "transcript_snippet": "it kind of makes sense that this is glass because if you think about like iPhones, you know, they have that glass backing for antennas and such."
+      "transcript_snippet": "it kind of makes sense that this is glass because if you think about like iPhones, you know, they have that glass backing for antennas and such.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2430,7 +2486,9 @@
       "transcript_snippet": "the second student to get up was talking about transgenderism and how um gun violence has been very frequent with that community, and that is when it happened.",
       "mentions_person_refs": [
         "N-729"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2451,7 +2509,9 @@
       "transcript_snippet": "That's what she said at 1:17 p. m. But then just 50 minutes later, she gives another interview, and her story has changed. This is given at around 2:08 p. m.",
       "mentions_person_refs": [
         "N-729"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2471,7 +2531,9 @@
       "transcript_snippet": "She's even able to confirm how many yards away the bullet was fired from, and it incredibly matches the distance to Losee Center.",
       "mentions_person_refs": [
         "N-729"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2552,9 @@
       "transcript_snippet": "Um bomb dogs being kept away from the scene. Why the crime scene was immediately paved over and the soil was excavated",
       "mentions_person_refs": [
         "N-10103"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2508,7 +2572,9 @@
       "transcript_snippet": "why the feds did not conduct a standard gunshot residue test when Tyler Robinson was brought in.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2523,7 +2589,9 @@
       "tags": [],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Review the State's disclosed footage and witness list for any direct view of the roof position.",
-      "transcript_snippet": "why there is no available footage or any eyewitness reports of someone seen firing a shot from a Lozi building despite this being an active campus in the middle of the day"
+      "transcript_snippet": "why there is no available footage or any eyewitness reports of someone seen firing a shot from a Lozi building despite this being an active campus in the middle of the day",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2541,7 +2609,9 @@
       "transcript_snippet": "It explains why Teryl Farnsworth violated the crime scene to remove the back footage.",
       "mentions_person_refs": [
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2556,7 +2626,9 @@
       "tags": [],
       "claim_timestamp": "00:23:38",
       "investigative_direction": "Obtain UVU's event safety plan and any medical-standby contract for the Sept 10 event.",
-      "transcript_snippet": "It explains why there was unusually no ambulance on standby."
+      "transcript_snippet": "It explains why there was unusually no ambulance on standby.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2645,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2593,7 +2667,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2612,7 +2688,9 @@
       "transcript_snippet": "a handwritten note that was subsequently destroyed which doesn't pass the sniff test, because why would you handwrite anything if you're going to just text everything out anyway.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2708,9 @@
       "transcript_snippet": "Uh the person who curiously is not held for questioning by the FBI, isn't that kind of mysterious?",
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2730,9 @@
       "transcript_snippet": "the prosecutors in this probable cause hearing plan to represent Erika. She is the listed victim on this case",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2671,7 +2753,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2691,7 +2775,9 @@
       "transcript_snippet": "Twigs now lives out of state, but the judge has ruled that the purpose of this hearing",
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2712,7 +2798,9 @@
       "mentions_person_refs": [
         "N-135",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2731,7 +2819,9 @@
       "transcript_snippet": "They have not been given access to Tyler Robinson's text messages to make sure they're real or that they were indeed sent from their client's phone",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2751,7 +2841,9 @@
       "transcript_snippet": "They are not allowed to question the person who says that he found the notes. They're just going to play a recording of him saying that they found it.",
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2773,7 +2865,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-568"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2795,7 +2889,9 @@
       "mentions_person_refs": [
         "N-568",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2813,7 +2909,9 @@
       "transcript_snippet": "Jeffrey Epstein himself, we learned, hung out at the office regularly when he was in town.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2831,7 +2929,9 @@
       "transcript_snippet": "Erika in particular was in charge of a white apartment building on the Upper East Side where they sort of housed all of these models.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2850,7 +2950,9 @@
       "mentions_person_refs": [
         "N-581",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2872,7 +2974,9 @@
       ],
       "mentions_person_refs": [
         "N-10478"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2891,7 +2995,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2914,7 +3020,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2933,7 +3041,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-529"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2952,7 +3062,9 @@
       "mentions_person_refs": [
         "N-568",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2970,7 +3082,9 @@
       "transcript_snippet": "We couldn't find some long history of Erika Kurken as a real estate agent, but she got her license in New York to do what?",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2988,7 +3102,9 @@
       "transcript_snippet": "Erika at this time claims she was a jack of all trades, right? She was a casting director in New York City, a real estate agent in New York City, a pageant model",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3008,7 +3124,9 @@
       "transcript_snippet": "I did speak to one model, but I didn't find her memory to be convincing enough.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3028,7 +3146,9 @@
       "transcript_snippet": "Giving getting them in uh with fake IDs. Yeah, this is what she described to me in like a 1-hour conversation, giving them drugs while they were, you know, partying underage.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3049,7 +3169,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3073,7 +3195,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3093,7 +3217,9 @@
       "transcript_snippet": "When Erika was Miss Arizona, she was 24 years old, to be clear.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3111,6 +3237,10 @@
       "transcript_snippet": "In January, she's telling employees via a conference call she can't wait to meet them. She can't wait to learn their names.",
       "mentions_person_refs": [
         "N-2"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-10288"
       ]
     },
     {
@@ -3132,7 +3262,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3155,7 +3287,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3176,7 +3310,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3194,7 +3330,9 @@
       "transcript_snippet": "And when I spoke to her ex-boyfriends, they literally didn't recognize her.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3216,7 +3354,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3233,7 +3373,9 @@
       "tags": [],
       "claim_timestamp": "00:43:25",
       "investigative_direction": "Identify the page and publisher (clinical or other) and its date.",
-      "transcript_snippet": "it's formerly known as multiple personality disorder and split personality disorder where you have two or more separate identities."
+      "transcript_snippet": "it's formerly known as multiple personality disorder and split personality disorder where you have two or more separate identities.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3250,7 +3392,9 @@
       "tags": [],
       "claim_timestamp": "00:44:17",
       "investigative_direction": "Identify the page's source and confirm whether the quoted text matches an authoritative clinical definition.",
-      "transcript_snippet": "What are the different types? Possession. Identities present as if an outside being or spirit took control of your body."
+      "transcript_snippet": "What are the different types? Possession. Identities present as if an outside being or spirit took control of your body.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3270,7 +3414,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3288,7 +3434,9 @@
       "transcript_snippet": "This woman flies back to Chicago to bring Erika a relic and she's totally Catholic. And then the woman is uncomfortable when she then gets invited to Mar-a-Lago",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3304,7 +3452,9 @@
       "transcript_snippet": "and then J. D. Vance drops a book about his Catholicism.",
       "mentions_person_refs": [
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3326,7 +3476,9 @@
         "N-277",
         "N-4",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3345,7 +3497,9 @@
       "mentions_person_refs": [
         "N-4",
         "N-277"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3361,7 +3515,9 @@
       "transcript_snippet": "I recently announced that my family is growing and we are expecting another baby.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3381,7 +3537,9 @@
       "transcript_snippet": "whenever a vehicle was involved in a crime or used to transport a body, that vehicle was stored at our tow yard until the case closed.",
       "supports_claim_refs": [
         "C-10238"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3396,7 +3554,9 @@
       "tags": [],
       "claim_timestamp": "00:53:47",
       "investigative_direction": "This is an anecdote; compare with standard Utah evidence-retention policy for open homicide cases.",
-      "transcript_snippet": "My dad was murdered in 2019. Investigators kept his phone, clothing, chair, sections of flooring, and walls, and even unrelated firearms for years."
+      "transcript_snippet": "My dad was murdered in 2019. Investigators kept his phone, clothing, chair, sections of flooring, and walls, and even unrelated firearms for years.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3419,7 +3579,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3438,7 +3600,9 @@
       "transcript_snippet": "And the shape charge, due to Charlie's past posture, he kind of has a bent posture, it went and hit his neck, and that ruined everything.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3457,7 +3621,9 @@
       "transcript_snippet": "was having Andrew Kolvet press send on the Superman neck he eats good veggies tweet.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3479,7 +3645,9 @@
       "mentions_person_refs": [
         "N-730",
         "N-643"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3497,7 +3665,9 @@
       "transcript_snippet": "Obviously, the Egyptian planes are intelligence related. I mean, like common sense. The Egyptian planes are intelligence related.",
       "supports_claim_refs": [
         "C-7315"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1589,6 +1589,8 @@ Anchored Artifacts: A-1429.2
 Mentions: N-190, N-2, N-159, N-3
 Related Nodes: N-10247, N-10214
 Supports: C-3025
+Verification: revised-by-host
+Verification Evidence: C-4108, C-6196
 Investigative Direction: Compare to earlier accounts from Mikey McCoy or TPUSA about whom he called first.
 
 ---

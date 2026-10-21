@@ -1271,7 +1271,9 @@
       "mentions_person_refs": [
         "N-10",
         "N-790"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1293,7 +1295,9 @@
       ],
       "revises_claim_refs": [
         "C-10621"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1309,7 +1313,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:24",
-      "investigative_direction": "Compare against a full video walkthrough of the parking garage to confirm consistent configuration and rule out lighting/angle artifacts."
+      "investigative_direction": "Compare against a full video walkthrough of the parking garage to confirm consistent configuration and rule out lighting/angle artifacts.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1328,7 +1334,9 @@
       "investigative_direction": "File FOIA/public-records requests for the Quick Quack Car Wash footage; compare with the warrant's stated contents.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1347,7 +1355,9 @@
       "investigative_direction": "Obtain the underlying warrant to verify the quoted language; confirm cross-device sync hypothesis against the device extracted from Tyler Robinson.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1366,7 +1376,9 @@
       "investigative_direction": "Pull the actual preliminary-hearing / probable-cause transcript and verify whether the testimony relied on partial-plate matching.",
       "mentions_person_refs": [
         "N-861"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1385,7 +1397,9 @@
       "investigative_direction": "Cross-reference UN press records, AP/Reuters coverage, and UN delegate attendance logs.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1400,7 +1414,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:47",
-      "investigative_direction": "Compare facial recognition / clothing across the post-incident footage and published news interviews of attendees."
+      "investigative_direction": "Compare facial recognition / clothing across the post-incident footage and published news interviews of attendees.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1416,7 +1432,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:41",
-      "investigative_direction": "Subpoena or otherwise obtain the Dairy Queen surveillance system metadata and time-zone configuration; verify against Mountain Shadows Shopping Center sighting at 12:44 PM and Quick Quack arrival at 12:57 PM."
+      "investigative_direction": "Subpoena or otherwise obtain the Dairy Queen surveillance system metadata and time-zone configuration; verify against Mountain Shadows Shopping Center sighting at 12:44 PM and Quick Quack arrival at 12:57 PM.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1435,7 +1453,9 @@
       "investigative_direction": "Obtain higher-resolution images of the footwear for brand identification; cross-reference against known Tyler Robinson clothing/shoe inventory.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1455,7 +1475,9 @@
       "investigative_direction": "Obtain independent forensic / dealership records on both vehicles; verify VIN against tow inventory and parking-garage camera metadata.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1474,7 +1496,9 @@
       "investigative_direction": "Verify tipster claim via Google Earth / aerial imagery or on-site inspection; cross-reference with any cemetery surveillance that might exist.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1491,7 +1515,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1510,7 +1536,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1533,7 +1561,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1560,7 +1590,9 @@
         "N-3",
         "N-10",
         "N-790"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1580,7 +1612,9 @@
       "transcript_snippet": "I'm going to take some time over the weekend to start putting names on everyone",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1601,7 +1635,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1625,7 +1661,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1644,7 +1682,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1662,7 +1702,9 @@
       "transcript_snippet": "maybe we'll put it on the website on on canson. com and uh it would also include all the hyperlinks",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1688,7 +1730,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1715,7 +1759,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1740,7 +1786,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1762,7 +1810,9 @@
       "transcript_snippet": "Surveillance equipment easily could have fallen backward on time.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1783,7 +1833,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1808,7 +1860,9 @@
         "N-3",
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1881,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1852,7 +1908,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1879,7 +1937,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1904,7 +1964,9 @@
       "transcript_snippet": "We ask that you please email us at more tips@caniswowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1925,7 +1987,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1946,7 +2010,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-188"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1968,7 +2034,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1993,7 +2061,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2014,7 +2084,9 @@
       "transcript_snippet": "we got nothing that was clear. Everything was the aspect ratio was adjusted.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2039,7 +2111,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2061,7 +2135,9 @@
         "N-3",
         "N-54",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2082,7 +2158,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2104,7 +2182,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2208,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2147,7 +2229,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2251,9 @@
         "N-3",
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2193,7 +2279,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2214,7 +2302,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2235,7 +2325,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-188"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2352,9 @@
       "transcript_snippet": "We are back to the beginning of this investigation. You can email us more tips@canniswens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2376,9 @@
       "transcript_snippet": "50,000 plus emails. A lot didn't go through.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2300,7 +2396,9 @@
       "transcript_snippet": "I really think that I need to sit down, get this timeline together, and have a clear list of questions",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2322,7 +2420,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2348,7 +2448,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2368,7 +2470,9 @@
         "N-3",
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2386,7 +2490,9 @@
       "transcript_snippet": "No, I don't. I don't want to waste my life around these people.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2406,7 +2512,9 @@
       "transcript_snippet": "Proportionately, this is equal to 40,000 innocent Americans slaughtered in less than 24 hours.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2427,7 +2535,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2447,7 +2557,9 @@
       "transcript_snippet": "The Houthis, Iran, militias in Iraq, militias in Syria, Palestinian terrorists in Judea, Samaria, they all ganged up on us",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2467,7 +2579,9 @@
       "transcript_snippet": "We crushed Iran's army, navy, air force, and nuclear facilities.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2489,7 +2603,9 @@
       "transcript_snippet": "You remember the beepers? Remember these things? Remember them?",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2511,7 +2627,9 @@
       "transcript_snippet": "Israeli bulldozers smashed Palestinian olive trees ahead of annual harvest.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2530,7 +2648,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2553,7 +2673,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2576,7 +2698,9 @@
         "N-2",
         "N-18",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2598,7 +2722,9 @@
         "N-3",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2617,7 +2743,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2640,7 +2768,9 @@
         "N-2",
         "N-46",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2661,7 +2791,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2681,7 +2813,9 @@
       "transcript_snippet": "Don't worry about the lawsuits if it is something that they are planning or what they're trying to entrap me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2700,7 +2834,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2727,7 +2863,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2751,7 +2889,9 @@
         "N-3",
         "N-22",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2777,7 +2917,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-861"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2799,7 +2941,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2822,7 +2966,9 @@
       "transcript_snippet": "It means the feds are printing out fake plates or matching plates",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

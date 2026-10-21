@@ -3245,6 +3245,14 @@
      "v": "medium"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-4526, C-4530"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain original file with EXIF; cross-check Dairy Queen receipts, employee testimony, and surveillance video for the vehicle."
     },

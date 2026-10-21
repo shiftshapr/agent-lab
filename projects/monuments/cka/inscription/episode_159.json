@@ -2696,7 +2696,9 @@
       "investigative_direction": "Preserve message screenshots with metadata if available; identify Telegram group membership without minting Persons; confirm event date.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2722,9 @@
         "N-21",
         "N-23",
         "N-24"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2743,7 +2747,9 @@
       "mentions_person_refs": [
         "N-19",
         "N-98"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2770,7 +2776,9 @@
         "N-36",
         "N-28",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2806,7 +2814,9 @@
         "N-5",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2826,7 +2836,9 @@
       "mentions_person_refs": [
         "N-25",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2848,7 +2860,9 @@
         "N-25",
         "N-26",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2870,7 +2884,9 @@
         "N-1",
         "N-2",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2893,7 +2909,9 @@
         "N-2",
         "N-14",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2916,7 +2934,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2935,7 +2955,9 @@
       "transcript_snippet": "it was confirmed by Vanity Fair that yes, Erika assumed her husband's position as CEO and chairman within 48 hours of his untimely death.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2957,6 +2979,10 @@
       "mentions_person_refs": [
         "N-496",
         "N-2"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-13725"
       ]
     },
     {
@@ -2981,7 +3007,9 @@
       "mentions_person_refs": [
         "N-496",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3001,7 +3029,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3020,7 +3050,9 @@
       "transcript_snippet": "they eventually made the terribly crash decision to encase Charlie's bloodied microphone as an emotional appeal to donors at their annual Mar-a-Lago event, also at Amfest.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3038,7 +3070,9 @@
       "transcript_snippet": "They allegedly raised $40 million at that event in part due to things that were meant to pull at your heartstrings.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3057,7 +3091,9 @@
       "transcript_snippet": "people at Turning Point USA are pretty disgusted um and feeling lied to about a lot of things.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3076,7 +3112,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3096,7 +3134,9 @@
       "transcript_snippet": "I had received a tip from someone within the organization while I was being attacked and gaslit for just asserting my experience",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3117,7 +3157,9 @@
       "transcript_snippet": "even Utah doing back-to-back Utah stops separated by 10 days didn't make sense to me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3138,7 +3180,9 @@
       "transcript_snippet": "Charlie had agreed to doing those stops because he was under a lot of pressure to make more money.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3161,7 +3205,9 @@
       "mentions_person_refs": [
         "N-98",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3180,7 +3226,9 @@
       "transcript_snippet": "A shifting stance that Turning Point USA still will not acknowledge, which is very strange.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3201,7 +3249,9 @@
       "transcript_snippet": "the company Yrefy came in with a ton a ton of extra money and they had also, you know, in this nice offer to make up some of the lost revenue.",
       "supports_claim_refs": [
         "C-13735"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3222,7 +3272,9 @@
       "transcript_snippet": "while I still cannot demonstrate that why Rei hand selected Utah Valley University, there is actually no evidence for that outside of hearsay.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3241,7 +3293,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3261,7 +3315,9 @@
       "transcript_snippet": "he was once an employee of Turning Point uh of Turning Point USA. They say now he's a contractor, I'll say allegedly.",
       "mentions_person_refs": [
         "N-20"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3282,7 +3338,9 @@
       "transcript_snippet": "Dylan also uh runs an influencer management company that the one that flew out all of the pro-Israel influencers to the Hamptons that one ill- fated weekend.",
       "mentions_person_refs": [
         "N-20"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3302,7 +3360,9 @@
       "transcript_snippet": "Apparently, they have a lot of contracts, but they don't ever really pay up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3323,7 +3383,9 @@
         "N-19",
         "N-20",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3344,7 +3406,9 @@
       "transcript_snippet": "shady student loan refinance company accused of paying Turning Point USA for speaking slots so that it can pitch to college kids.",
       "mentions_person_refs": [
         "N-10791"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3365,7 +3429,9 @@
       "transcript_snippet": "the Daily Mail can reveal Ryi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing and investment materials aimed at private funders",
       "mentions_person_refs": [
         "N-10791"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3386,7 +3452,9 @@
       "transcript_snippet": "has put to bed potentially 2.1 million in regulatory woes that it had in Massachusetts in 2025.",
       "mentions_person_refs": [
         "N-19"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3405,7 +3473,9 @@
       "transcript_snippet": "Charlie noticed that money was missing at Turning Point USA. Uh that there was trouble specifically with Turning Point action and Turning Point has declined those claims",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3428,7 +3498,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3445,7 +3517,9 @@
       "tags": [],
       "claim_timestamp": "00:15:21",
       "investigative_direction": "Read the contract's entire-agreement clause and total the payment schedule to test the $2.25 million versus $2.47 million difference.",
-      "transcript_snippet": "the contract says explicitly that all previous contracts are voided and canceled."
+      "transcript_snippet": "the contract says explicitly that all previous contracts are voided and canceled.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3462,7 +3536,9 @@
       "tags": [],
       "claim_timestamp": "00:17:29",
       "investigative_direction": "Check TPUSA announcements for the cancelled Believer Summit and whether any Yrefy payment was tied to it.",
-      "transcript_snippet": "You have the believer summit that ended up being cancelled, by the way."
+      "transcript_snippet": "You have the believer summit that ended up being cancelled, by the way.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3482,7 +3558,9 @@
       "transcript_snippet": "event appearances, they want her for the Winter Gayla, America Fest, the spring investor retreat, the social media post, IG story for each event, three time video endorsements shot at Turning Point USA headquarters and events.",
       "mentions_person_refs": [
         "N-24"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3507,7 +3585,9 @@
         "N-95",
         "N-847",
         "N-887"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3524,7 +3604,9 @@
       "tags": [],
       "claim_timestamp": "00:19:08",
       "investigative_direction": "Verify the ticket and hotel allocations against inauguration-weekend event records.",
-      "transcript_snippet": "They get four hotel rooms, six seated tickets to the inauguration, 25 tickets to the Turning Point Ball"
+      "transcript_snippet": "They get four hotel rooms, six seated tickets to the inauguration, 25 tickets to the Turning Point Ball",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3545,7 +3627,9 @@
       "transcript_snippet": "This contract, this agreement is going to be really just one page.",
       "mentions_person_refs": [
         "N-10784"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3562,7 +3646,9 @@
       "tags": [],
       "claim_timestamp": "00:21:01",
       "investigative_direction": "Cross-check the 12 events against the fall tour schedule and the deliverables TPUSA actually provided at each.",
-      "transcript_snippet": "So, they're looking to do this for 12 events. That makes that clear."
+      "transcript_snippet": "So, they're looking to do this for 12 events. That makes that clear.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3583,7 +3669,9 @@
       "transcript_snippet": "There was no video opportunity of course at UVU and an email to all attendees.",
       "mentions_person_refs": [
         "N-19"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3603,7 +3691,9 @@
       "transcript_snippet": "Also, people saying that they actually never actually get the money.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3624,7 +3714,9 @@
       "transcript_snippet": "February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska. Lincoln. February 12th, Frank Turek speaks at the University of Nebraska Lincoln.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3647,7 +3739,9 @@
         "N-3",
         "N-377",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3671,7 +3765,9 @@
         "N-5",
         "N-2",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3691,7 +3787,9 @@
         "N-5",
         "N-3",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3712,7 +3810,9 @@
       "transcript_snippet": "So, Boston Consulting Group has got to get out of that in early June of 2025 because of the scandal.",
       "mentions_person_refs": [
         "N-10610"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3732,7 +3832,9 @@
       "transcript_snippet": "On June 3, Johnnie Moore actually takes over the chair as chairman of the Gaza Humanitarian Aid Project.",
       "mentions_person_refs": [
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3751,7 +3853,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3773,7 +3877,9 @@
         "N-1",
         "N-5",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3790,7 +3896,9 @@
       "tags": [],
       "claim_timestamp": "00:25:31",
       "investigative_direction": "Request UVU emergency-management records, public notices and participant lists for any June 2025 drill.",
-      "transcript_snippet": "June 17th, UVU hosts a fake drill simulation with crisis actors for a mass casualty event."
+      "transcript_snippet": "June 17th, UVU hosts a fake drill simulation with crisis actors for a mass casualty event.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3812,7 +3920,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3835,7 +3945,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3853,7 +3965,9 @@
       "transcript_snippet": "Bradley Hansell is confirmed by the Senate as the under secretary of defense uh for intelligence. His term is set to begin on July 25th.",
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3880,7 +3994,9 @@
         "N-22",
         "N-98",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3903,7 +4019,9 @@
         "N-22",
         "N-37",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3921,7 +4039,9 @@
       "transcript_snippet": "July 11th, we've noted that Frank Turek deletes his website, frank. com.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3943,7 +4063,9 @@
         "N-5",
         "N-1",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3964,7 +4086,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3985,7 +4109,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-665"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4007,7 +4133,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4029,7 +4157,9 @@
         "N-3",
         "N-283",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4050,7 +4180,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4071,7 +4203,9 @@
       "transcript_snippet": "On July 18th, there was a formal request for Turning Point USA's UVU chapter that's submitted.",
       "mentions_person_refs": [
         "N-10762"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4094,7 +4228,9 @@
       "mentions_person_refs": [
         "N-10259",
         "N-10325"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4115,7 +4251,9 @@
         "N-2",
         "N-190",
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4137,7 +4275,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4158,7 +4298,9 @@
       "transcript_snippet": "this meeting coincided also with the House oversight meeting voting to subpoena the president on the Epstein files.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4180,7 +4322,9 @@
         "N-3",
         "N-48",
         "N-47"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4201,7 +4345,9 @@
       "transcript_snippet": "On July 27th, we know that the Egyptian plane um then departs Wilmington, Delaware, and heads back to Cairo on the 27th.",
       "mentions_person_refs": [
         "N-10325"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4223,7 +4369,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4248,7 +4396,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4274,7 +4424,9 @@
         "N-36",
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4295,7 +4447,9 @@
       "transcript_snippet": "they were not a part of this meeting they were not a part of BB Netanyahu calling",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4319,7 +4473,9 @@
       ],
       "revises_claim_refs": [
         "C-13706"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4341,7 +4497,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4362,7 +4520,9 @@
       "transcript_snippet": "August 9th, a 2015 Candace Owens Flickr account is archived for the first time.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4384,7 +4544,9 @@
         "N-3",
         "N-36",
         "N-419"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4408,7 +4570,9 @@
         "N-5",
         "N-151",
         "N-158"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4429,7 +4593,9 @@
       "transcript_snippet": "Kabat Phillips reaches out to Turning Point USA at UVU and asks to speak on behalf of the Daily Wire for the fall campus tour.",
       "mentions_person_refs": [
         "N-364"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4449,7 +4615,9 @@
         "N-2",
         "N-1",
         "N-493"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4471,7 +4639,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4492,7 +4662,9 @@
       "transcript_snippet": "We have our Egyptian planes that come in and they land into Lincoln all places. They are in Lincoln at noon um Lincoln, Nebraska.",
       "mentions_person_refs": [
         "N-10259"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4513,7 +4685,9 @@
       "transcript_snippet": "Now, we filed an FOIA request wanting to know why he was in Omaha.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4536,7 +4710,9 @@
       ],
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4553,7 +4729,9 @@
       "tags": [],
       "claim_timestamp": "00:38:16",
       "investigative_direction": "Identify the exercise, its dates and participants, and the source of the host's description.",
-      "transcript_snippet": "Then operation Valhava strike began between civilians and the military training in Minnesota."
+      "transcript_snippet": "Then operation Valhava strike began between civilians and the military training in Minnesota.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4574,7 +4752,9 @@
       "transcript_snippet": "They are not the the the security of Turning Point USA is not on this call and yet UVU um police chief Jeff Long is asking for a contact which he doesn't actually get.",
       "mentions_person_refs": [
         "N-271"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4597,7 +4777,9 @@
         "N-271",
         "N-270",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4614,7 +4796,9 @@
       "tags": [],
       "claim_timestamp": "00:39:45",
       "investigative_direction": "Check attendance estimates and ticketing or RSVP data for the UVU event.",
-      "transcript_snippet": "And yet, remarkably, 3,000 people are going to show up."
+      "transcript_snippet": "And yet, remarkably, 3,000 people are going to show up.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4631,7 +4815,9 @@
       "tags": [],
       "claim_timestamp": "00:39:54",
       "investigative_direction": "Check UVU's September 10, 2025 events calendar for military-day programming.",
-      "transcript_snippet": "it's going to coincide September 10th with their military day as well."
+      "transcript_snippet": "it's going to coincide September 10th with their military day as well.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4651,7 +4837,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-529"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4670,7 +4858,9 @@
       "transcript_snippet": "submitting my college final which I did on the Aderal epidemic on campus.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4690,7 +4880,9 @@
         "N-69",
         "N-378",
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4708,7 +4900,9 @@
       "transcript_snippet": "everyone on Capitol Hill knows that the individual was actually out of Nancy Pelosy's office and it was a woman allegedly.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4726,7 +4920,9 @@
       "transcript_snippet": "And they descended upon his home, by the way, back in December of 2025. He lives with his mother and other family members.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4744,7 +4940,9 @@
       "transcript_snippet": "He has pleaded not guilty and yet despite that has been denied bond in January.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4765,7 +4963,9 @@
       "transcript_snippet": "Cole was driving the blue Nissan Sentra when he rearended the truck in front of him.",
       "mentions_person_refs": [
         "N-25"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4787,7 +4987,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-26"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4808,7 +5010,9 @@
       "transcript_snippet": "the building was built in 1990 and Erika was attending daycare there in 1991 and um it was actually the Scripps building in Cincinnati, Ohio.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4828,7 +5032,9 @@
       "transcript_snippet": "we found no evidence that her parents worked in this corporate building.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4848,7 +5054,9 @@
       "transcript_snippet": "All I do is I asked myself, will this bring me closer to heaven or further away from it?",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4870,7 +5078,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4890,7 +5100,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-18"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4909,7 +5121,9 @@
       "transcript_snippet": "thank you to that UVU Independent Review, Lake Forest Group, and also to the Vanity Fair reporter",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4927,7 +5141,9 @@
       "transcript_snippet": "I have a highly identifying mark and you can't make fake porn about me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

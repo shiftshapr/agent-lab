@@ -1753,6 +1753,8 @@ Anchored Artifacts:
 Mentions: N-529, N-9
 Related Nodes: 
 Tags: relevance:context
+Verification: revised-by-host
+Verification Evidence: C-11486
 Investigative Direction: Locate the court or investigative document that describes the triplets allegation.
 
 ---

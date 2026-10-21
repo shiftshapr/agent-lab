@@ -1578,7 +1578,9 @@
       "investigative_direction": "Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1592,7 +1594,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:56",
-      "investigative_direction": "Verify description against Penguin Random House's official book page."
+      "investigative_direction": "Verify description against Penguin Random House's official book page.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1610,7 +1614,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1629,7 +1635,9 @@
       "investigative_direction": "Obtain the emailer's credentials (verify board certification), and cross-reference with forensic pathology literature on shaped-charge wounds.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1648,7 +1656,9 @@
       "investigative_direction": "Obtain the autopsy report and forensic lab analysis of recovered fragments to compare composition (copper jacket vs. other materials).",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1667,7 +1677,9 @@
       "investigative_direction": "Obtain dispatch logs, ambulance records, and witness statements to verify equipment availability and stabilization protocol.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1687,7 +1699,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1706,7 +1720,9 @@
       "investigative_direction": "Verify medical examiner's official report for documented entry/exit points and trajectory analysis; cross-reference with crime scene ballistics.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1725,7 +1741,9 @@
       "investigative_direction": "Obtain the official medical examiner's report to verify the cervical spine description.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1742,7 +1760,9 @@
       "investigative_direction": "Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1758,7 +1778,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:24",
-      "investigative_direction": "Obtain the full witness recording and transcript; identify and interview the witness for confirmation."
+      "investigative_direction": "Obtain the full witness recording and transcript; identify and interview the witness for confirmation.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1778,7 +1800,9 @@
       "investigative_direction": "Note host stance for cross-referencing future evidentiary developments.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1794,7 +1818,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:24",
-      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Losee Center surveillance footage if available."
+      "investigative_direction": "Cross-reference with other rooftop witness accounts; obtain Losee Center surveillance footage if available.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1809,7 +1835,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
-      "investigative_direction": "Obtain independent verification – shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony."
+      "investigative_direction": "Obtain independent verification – shuttle bus bookings, Google satellite imagery, Intermountain intake records, staff testimony.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1824,7 +1852,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",
-      "investigative_direction": "Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony."
+      "investigative_direction": "Obtain shuttle company records, Intermountain intake logs, and patient/witness testimony.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1841,7 +1871,9 @@
       "investigative_direction": "Re-display the original document or obtain the leaked file independently for forensic verification.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1855,7 +1887,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:40",
-      "investigative_direction": "Obtain defense discovery materials or testimony from security team members."
+      "investigative_direction": "Obtain defense discovery materials or testimony from security team members.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1872,7 +1906,9 @@
       "investigative_direction": "Verify Epic-Intermountain system interface specifications and obtain audit logs of any record creation events.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1929,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1913,7 +1951,9 @@
       "transcript_snippet": "Fastest autopsy ever. Just in the middle of the night, couple of hours, he's done.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1934,7 +1974,9 @@
       "transcript_snippet": "Now we've got the chief medical examiner resigning.",
       "mentions_person_refs": [
         "N-176"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1955,7 +1997,9 @@
       "mentions_person_refs": [
         "N-894",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1977,7 +2021,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1998,7 +2044,9 @@
       "transcript_snippet": "And if true, it very much implies foreknowledge of Charlie's assassination.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2018,7 +2066,9 @@
       "transcript_snippet": "He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office.",
       "mentions_person_refs": [
         "N-894"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2039,7 +2089,9 @@
       "mentions_person_refs": [
         "N-176",
         "N-894"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2057,7 +2109,9 @@
       "transcript_snippet": "I do want to say there's still no proof of him being trans or into trans furries beyond the influencers that were immediately sent out",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2081,7 +2135,9 @@
       "transcript_snippet": "Hey guys, I have bad news for you all. It was me at UVU yesterday. I'm sorry for all of this.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2100,7 +2156,9 @@
       "mentions_person_refs": [
         "N-54",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2122,7 +2180,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2203,9 @@
       "transcript_snippet": "which had dust in the barrel, so likely wasn't even fired.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2226,9 @@
       "mentions_person_refs": [
         "N-894",
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2251,9 @@
       "mentions_person_refs": [
         "N-894",
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2209,7 +2275,9 @@
       "transcript_snippet": "she was dancing as a furry, and she was promoting uh her book, and she used the hashtag, you know, furry.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2229,7 +2297,9 @@
       "transcript_snippet": "she then earned her PhD in sociology overseas at the University of Manchester and then she became a teacher.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2249,7 +2319,9 @@
       "transcript_snippet": "previously Dr. Guajardo was faculty at Brunel University in London and then the University of Utah.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2271,7 +2343,9 @@
       "transcript_snippet": "Since 2017, she's hosted a weekly educational Twitch stream on games user research models.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2367,9 @@
       "transcript_snippet": "She was vice president of the Global Game Jam conference, co-director of IGDA's games user research special interest group.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2315,7 +2391,9 @@
       "transcript_snippet": "And currently serves as the president of the Digital Games Research Association.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2337,7 +2415,9 @@
       "transcript_snippet": "and she's currently working on a book which explores how fantasy can shape your sexual desire.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2358,7 +2438,9 @@
       "transcript_snippet": "you guys remember when Lance was testifying and he said that the preliminary hearing that he goes by Luna?",
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2379,7 +2461,9 @@
       "transcript_snippet": "encouraging her students and her gamers to join her on her Discord, to follow her Twitch, her streamer account.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2484,9 @@
       "transcript_snippet": "Dr. Amara has left uh the building. She's no longer at Utah.",
       "mentions_person_refs": [
         "N-176"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2423,7 +2509,9 @@
       "mentions_person_refs": [
         "N-894",
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2533,9 @@
       "transcript_snippet": "Now she's the assistant arts professor at NYU full-time.",
       "mentions_person_refs": [
         "N-895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2465,7 +2555,9 @@
       "transcript_snippet": "Remember how Frank Turek described them receiving scrubs from the hospital?",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2487,7 +2579,9 @@
         "N-266",
         "N-487",
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2509,7 +2603,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2531,7 +2627,9 @@
         "N-7",
         "N-266",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2552,7 +2650,9 @@
       "transcript_snippet": "the feds immediately had the car towed, sent away, wanted it cleaned and resold.",
       "mentions_person_refs": [
         "N-10014"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2673,9 @@
       "transcript_snippet": "In my mind, they likely took their clothes and had them destroyed. That's in my mind. I don't know that for certain.",
       "mentions_person_refs": [
         "N-10014"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2594,7 +2696,9 @@
       "transcript_snippet": "many of us have noted how odd it is that there were no eyewitnesses to the extremely erratic, chaotic, and utterly improbable ER scene",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2615,7 +2719,9 @@
       "transcript_snippet": "All of the emergency room patients and all of their files were then transferred to Intermountain.",
       "mentions_person_refs": [
         "N-10188"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2638,7 +2744,9 @@
       ],
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2659,7 +2767,9 @@
       "transcript_snippet": "if we are able to prove that this took place beyond a shadow of a doubt with paperwork, then I would say foreknowledge of Charlie's assassination can no longer be disputed.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2679,7 +2789,9 @@
       "transcript_snippet": "More tips at CandaceOwens. com, because if we are able to prove that this took place",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2699,7 +2811,9 @@
       "transcript_snippet": "So again, please email us more tips at Candace Owens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2716,7 +2830,9 @@
       ],
       "claim_timestamp": "00:25:08",
       "investigative_direction": "Source credibility can only be tested by corroborating records; request the paperwork the host says would prove it.",
-      "transcript_snippet": "Now I can tell you I trust very much that this information is accurate."
+      "transcript_snippet": "Now I can tell you I trust very much that this information is accurate.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2739,7 +2855,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2764,7 +2882,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2787,7 +2907,9 @@
       "transcript_snippet": "All emergency room files on September 10th, which included Charlie's, were transferred out, electronic files were transferred out to Utah Valley.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2812,7 +2934,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2833,7 +2957,9 @@
       "transcript_snippet": "the little bit that was published by the prosecution in their filing yesterday.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2856,7 +2982,9 @@
       "mentions_person_refs": [
         "N-681",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2878,7 +3006,9 @@
       "transcript_snippet": "However, there is no evidence that he was shot from behind. Three, if Charlie was hit from the front, momentum from the bullet would have sent his torso backwards.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2901,7 +3031,9 @@
       "transcript_snippet": "The projectile would have almost certainly damaged both lungs and possibly his heart.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2927,7 +3059,9 @@
       ],
       "revises_claim_refs": [
         "C-10646"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2949,7 +3083,9 @@
       "transcript_snippet": "None of that was initiated at the scene and would have been nearly impossible to perform in the back of an SUV.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2971,7 +3107,9 @@
       "transcript_snippet": "his security team did their best in a highly rehearsed fashion to get him the hell out of there before anybody could see what happened.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2992,7 +3130,9 @@
       "transcript_snippet": "I think that the there was no gun on the rooftop. There was a person who was told to run and so that they could blame another decoy.",
       "mentions_person_refs": [
         "N-10684"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3015,7 +3155,9 @@
       "transcript_snippet": "I've never seen thoracic trauma or hemorrhaging for that matter in a gunshot wound to the head or neck.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3038,7 +3180,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3061,7 +3205,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3081,7 +3227,9 @@
       "transcript_snippet": "12 hours before they start to get decomposition. We were looking that up, so the body wouldn't have decomposed, but it's just not what they usually do.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3105,7 +3253,9 @@
       "transcript_snippet": "I heard a a podcaster, Project Constitution, say that Charlie was also wearing a road transmitter at his left waist.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3128,7 +3278,9 @@
       "transcript_snippet": "if he observed a person military crawling, which has been true proven true, and he saw this person gets down and into a position",
       "mentions_person_refs": [
         "N-10698"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3148,7 +3300,9 @@
       "transcript_snippet": "Tyler Robinson's gun, which has dust on the barrel and his prints as the most degraded that was on that rooftop.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3168,7 +3322,9 @@
       "transcript_snippet": "But a German 98 Mauser, a it's completely ridiculous.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3191,7 +3347,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3216,7 +3374,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3237,7 +3397,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3255,7 +3417,9 @@
       "transcript_snippet": "Then, I actually broke my foot like actually on Friday the 13th. Uh like the same around the same time that like I found out that I was pregnant.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3276,7 +3440,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3296,7 +3462,9 @@
       "transcript_snippet": "And then I get to Russia and my security security member literally almost dies.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3314,7 +3482,9 @@
       "transcript_snippet": "It was for thyroid, so it's also a very survivable cancer.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

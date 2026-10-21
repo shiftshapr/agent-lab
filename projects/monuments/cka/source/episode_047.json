@@ -5454,6 +5454,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-4061"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain the original message from Andrew Kolvet or his device records."
     },
@@ -6120,6 +6128,14 @@
     },
     {
      "raw": ""
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-5695"
     },
     {
      "k": "Investigative Direction",
@@ -9704,6 +9720,14 @@
      "v": "relevance:core"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-4123"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Identify the third caller from the call logs; the host later corrects this identification."
     },
@@ -9832,6 +9856,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11087"
     },
     {
      "k": "Investigative Direction",

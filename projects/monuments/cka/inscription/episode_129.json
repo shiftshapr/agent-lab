@@ -1896,7 +1896,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1913,7 +1915,9 @@
       "tags": [],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Confirm with the Daily Mail reporter or via FOIA-equivalent request to TPUSA communications.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1931,7 +1935,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1950,7 +1956,9 @@
         "N-2",
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1967,7 +1975,9 @@
       "investigative_direction": "Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene.",
       "mentions_person_refs": [
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1982,7 +1992,9 @@
       "tags": [],
       "claim_timestamp": "00:05:21",
       "investigative_direction": "Treat as illustrative comparison only; not independent forensic evidence.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2001,7 +2013,9 @@
       "investigative_direction": "Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence.",
       "mentions_person_refs": [
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2019,7 +2033,9 @@
       "mentions_person_refs": [
         "N-30",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2034,7 +2050,9 @@
       "tags": [],
       "claim_timestamp": "00:09:02",
       "investigative_direction": "Forensic image analysis; chain-of-custody verification; determine whether object is fabric remnant consistent with the freedom shirt.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2056,7 +2074,9 @@
         "N-217",
         "N-190",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2081,7 +2101,9 @@
         "N-190",
         "N-159",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2103,7 +2125,9 @@
         "N-190",
         "N-159",
         "N-504"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2122,7 +2146,9 @@
         "N-367",
         "N-1",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2143,7 +2169,9 @@
       "mentions_person_refs": [
         "N-367",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2192,9 @@
         "N-190",
         "N-159",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2184,7 +2214,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2203,7 +2235,9 @@
       "investigative_direction": "Cross-reference against the actual Alex Jones appellate record (e.g., the Texas finding of default).",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2224,7 +2258,9 @@
         "N-1",
         "N-93",
         "N-267"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2245,7 +2281,9 @@
         "N-3",
         "N-93",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2264,7 +2302,9 @@
       "investigative_direction": "Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt.",
       "mentions_person_refs": [
         "N-333"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2285,7 +2325,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2305,7 +2347,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2320,7 +2364,9 @@
       "tags": [],
       "claim_timestamp": "01:01:22",
       "investigative_direction": "Viewer speculation; not investigative evidence; useful only as a hypothesis to be tested against forensic evidence.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2335,7 +2381,9 @@
       "tags": [],
       "claim_timestamp": "01:03:13",
       "investigative_direction": "Viewer speculation; photograph enhancement / chain-of-custody testing required for any factual determination.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2357,7 +2405,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2377,7 +2427,9 @@
       "transcript_snippet": "that increasingly complicated approximately 7-minute ride to the hospital, approximate 7 minutes, right?",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2452,9 @@
       "transcript_snippet": "the only place that we could see blood on this door was just there at the handle.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2423,7 +2477,9 @@
       "transcript_snippet": "And again, this is in the immediate aftermath. This is not after the car's cleaned up",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2445,7 +2501,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2465,7 +2523,9 @@
       "transcript_snippet": "I don't know why the feds would want this car immediately released, towed, cleaned up, and resold so fast.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2488,7 +2548,9 @@
         "N-367",
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2515,7 +2577,9 @@
         "N-367",
         "N-504",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2536,7 +2600,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-367"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2555,7 +2621,9 @@
       "mentions_person_refs": [
         "N-367",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2577,7 +2645,9 @@
         "N-246",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2604,7 +2674,9 @@
         "N-190",
         "N-217",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2626,7 +2698,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2655,7 +2729,9 @@
         "N-190",
         "N-217",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2679,7 +2755,9 @@
         "N-159",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2702,7 +2780,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2726,7 +2806,9 @@
         "N-190",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2748,7 +2830,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-211"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2776,6 +2860,10 @@
       ],
       "revises_claim_refs": [
         "C-4110"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-12099"
       ]
     },
     {
@@ -2799,7 +2887,9 @@
         "N-367",
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2823,7 +2913,9 @@
         "N-367",
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2848,7 +2940,9 @@
       ],
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2874,7 +2968,9 @@
         "N-367",
         "N-190",
         "N-504"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2895,7 +2991,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2918,7 +3016,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2940,7 +3040,9 @@
         "N-2",
         "N-163",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2962,7 +3064,9 @@
         "N-163",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2983,7 +3087,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3003,7 +3109,9 @@
       "transcript_snippet": "She explicitly told people that it was, and I quote, a woke Reich event.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3025,7 +3133,9 @@
         "N-36",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3047,7 +3157,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3068,7 +3180,9 @@
       "transcript_snippet": "one that makes personal and public calls to my advertisers to be dropped.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3088,7 +3202,9 @@
       "transcript_snippet": "I have never made personal phone calls and asked influencers to support me. I've never asked people to not attend any Turning Point events.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3113,7 +3229,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3135,7 +3253,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3154,7 +3274,9 @@
       ],
       "claim_timestamp": "00:27:48",
       "investigative_direction": "Compare each attribution in the article text to determine whether one or two sources are quoted.",
-      "transcript_snippet": "And they list a family friend as a source initially and then elsewhere in the article they say a family member."
+      "transcript_snippet": "And they list a family friend as a source initially and then elsewhere in the article they say a family member.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3177,7 +3299,9 @@
       "mentions_person_refs": [
         "N-544",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3200,7 +3324,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3221,7 +3347,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3243,7 +3371,9 @@
         "N-2",
         "N-278",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3266,7 +3396,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3289,7 +3421,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3313,7 +3447,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3334,7 +3470,9 @@
       "transcript_snippet": "those were not sold through the charitable arm, okay? Former employees have confirmed to me that those profits profits went straight to Charlie Kirk Show LLC.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3356,7 +3494,9 @@
         "N-1",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3379,7 +3519,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3402,7 +3544,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3421,7 +3565,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3442,7 +3588,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3464,7 +3612,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3485,7 +3635,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3503,7 +3655,9 @@
       "transcript_snippet": "You started doing pageants, I think we showed, when you were like 12.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3523,7 +3677,9 @@
       "transcript_snippet": "When you walked out in a white pantsuit with sparklers behind you, and you sucked all of that in, that was it.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3543,7 +3699,9 @@
       "transcript_snippet": "You clinked glasses, you guys then went to a restaurant, you celebrated.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3564,7 +3722,9 @@
       "transcript_snippet": "The sales have been crazy. 50,000 shirts sold, and kicked back into the LLC that me and the Charlie Kirk Show people own.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3585,7 +3745,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3609,7 +3771,9 @@
         "N-159",
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3630,7 +3794,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3650,7 +3816,9 @@
       "transcript_snippet": "He said something, which he has apologized before and said was wrong.",
       "mentions_person_refs": [
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3670,7 +3838,9 @@
       "transcript_snippet": "and they sued him and won for $1.4 billion, effectively ending his InfoWars platform, suing him into bankruptcy.",
       "mentions_person_refs": [
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3692,7 +3862,9 @@
       "transcript_snippet": "But to go from there to say that it's exploding microphones, Israel did it, and not that Israel might not Israel might have had a hand in this.",
       "mentions_person_refs": [
         "N-333"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3714,7 +3886,9 @@
       "transcript_snippet": "I appreciate there are some issues with the prosecution. There's some issues with the investigation, and there's some issues with the evidence.",
       "mentions_person_refs": [
         "N-333"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3736,7 +3910,9 @@
       "transcript_snippet": "Rachel Maddow accused One America News Network of being funded by the Russian government and a judge tossed that away because under free speech provisions.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3759,7 +3935,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3783,7 +3961,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3806,7 +3986,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-93"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3823,7 +4005,9 @@
       ],
       "claim_timestamp": "00:57:02",
       "investigative_direction": "Check broadcast histories for the documentary's scheduled 1994 Discovery airing and its withdrawal.",
-      "transcript_snippet": "watch the 1993 documentary entitled Conspiracy of Silence. It was supposed to air on the Discovery Channel but was pulled from the schedule."
+      "transcript_snippet": "watch the 1993 documentary entitled Conspiracy of Silence. It was supposed to air on the Discovery Channel but was pulled from the schedule.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3841,7 +4025,9 @@
       "transcript_snippet": "It is it is extraordinarily real. And for a very long time Hollywood had people thinking it was just hocus pocus.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3862,7 +4048,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3887,7 +4075,9 @@
         "N-97",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3905,7 +4095,9 @@
       "transcript_snippet": "Have I had to up my security? Absolutely.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3926,7 +4118,9 @@
       "transcript_snippet": "We are now hearing from um people who worked in other parts of the hospital saying that their computers were shut down for 6 hours.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3948,7 +4142,9 @@
       "transcript_snippet": "more tips at candaceowens. com. If you know anything, uh have more photos that we can display",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3970,7 +4166,9 @@
       "transcript_snippet": "If you are hearing the rumblings about anything, about what's going on there, and you've seen enough, reach out to us.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

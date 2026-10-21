@@ -1383,7 +1383,9 @@
       "investigative_direction": "Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository).",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1400,7 +1402,9 @@
       "investigative_direction": "Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1421,7 +1425,9 @@
         "N-46",
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1440,7 +1446,9 @@
       "investigative_direction": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.",
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1459,7 +1467,9 @@
       "investigative_direction": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.",
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1476,7 +1486,9 @@
       "investigative_direction": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records.",
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1493,7 +1505,9 @@
       "investigative_direction": "Locate the French court judgment against Gaydamak and confirm the conviction and date.",
       "mentions_person_refs": [
         "N-313"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1510,7 +1524,9 @@
       "investigative_direction": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings.",
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1529,7 +1545,9 @@
         "N-312",
         "N-313",
         "N-314"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1547,7 +1565,9 @@
       "mentions_person_refs": [
         "N-314",
         "N-315"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1567,7 +1587,9 @@
       "mentions_person_refs": [
         "N-316",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1586,7 +1608,9 @@
       "investigative_direction": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.",
       "mentions_person_refs": [
         "N-316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1603,7 +1627,9 @@
       "investigative_direction": "Obtain the original tweet and confirm the exact text.",
       "mentions_person_refs": [
         "N-317"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1620,7 +1646,9 @@
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
       "investigative_direction": "Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1637,7 +1665,9 @@
       "tags": [],
       "claim_timestamp": "00:37:36–00:38:23",
       "investigative_direction": "Verify through DOJ press releases, congressional correspondence, or reporting.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1685,9 @@
       "mentions_person_refs": [
         "N-278",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1674,7 +1706,9 @@
       "investigative_direction": "Locate the Daily Mail article and confirm policy details, beneficiary, and amount.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1695,7 +1729,9 @@
       "investigative_direction": "Cross-reference against depositions, congressional testimony, and investigative reporting.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1717,7 +1753,9 @@
       "transcript_snippet": "It was not mentioned as if they were tied or that they knew about it or that they were involved.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1740,7 +1778,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1761,7 +1801,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1781,7 +1823,9 @@
       "transcript_snippet": "People also laughed when I said um that there was thereafter a viable threat, which came from the Macron couple who apparently paid for my assassination.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1805,7 +1849,9 @@
         "N-3",
         "N-69",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1829,7 +1875,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1898,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1874,7 +1924,9 @@
         "N-69",
         "N-40",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1894,7 +1946,9 @@
       "transcript_snippet": "please email us more tips at candaceowens. com",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1918,7 +1972,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1941,7 +1997,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1967,7 +2025,9 @@
       ],
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1990,7 +2050,9 @@
       ],
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2010,7 +2072,9 @@
       "transcript_snippet": "it gets discovered during the course of French elections and this is dating back to 1999 that the French government is actually involved in trafficking weapons, military grade weapons, to Angola to facilitate this war",
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2031,7 +2095,9 @@
       "mentions_person_refs": [
         "N-313",
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2049,7 +2115,9 @@
       "transcript_snippet": "Pierre Falcone is born in Algeria. He moves to France after the Algerian civil war.",
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2068,7 +2136,9 @@
       ],
       "claim_timestamp": "00:14:36",
       "investigative_direction": "Identify which interior minister is meant and confirm the court outcome against that person.",
-      "transcript_snippet": "You have the French interior minister that was implicated."
+      "transcript_snippet": "You have the French interior minister that was implicated.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2087,7 +2157,9 @@
       ],
       "claim_timestamp": "00:15:38",
       "investigative_direction": "Verify the number against French trial records or the source site.",
-      "transcript_snippet": "It ends up being 41 politicians involved, multiple states and of course uh multiple nations that are involved including Angola."
+      "transcript_snippet": "It ends up being 41 politicians involved, multiple states and of course uh multiple nations that are involved including Angola.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2106,7 +2178,9 @@
       ],
       "claim_timestamp": "00:15:38",
       "investigative_direction": "Locate the human-rights-group statements and any congressional response cited in the CorpWatch article.",
-      "transcript_snippet": "Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil."
+      "transcript_snippet": "Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2202,9 @@
       "transcript_snippet": "Gaydamak funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts with with western oil companies.",
       "mentions_person_refs": [
         "N-313"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2153,7 +2229,9 @@
       ],
       "mentions_person_refs": [
         "N-312"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2171,7 +2249,9 @@
       "transcript_snippet": "I believe Tucker Carlson was right when he called that out on stage and started asking about how these people become billionaires.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2195,7 +2275,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2218,7 +2300,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2243,7 +2327,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2258,7 +2344,9 @@
       ],
       "claim_timestamp": "00:23:20",
       "investigative_direction": "Review public records (Church Committee, congressional reports) for substantiation of the host's general assertion.",
-      "transcript_snippet": "which obviously our CIA has been engaged engaged in trafficking."
+      "transcript_snippet": "which obviously our CIA has been engaged engaged in trafficking.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2282,7 +2370,9 @@
         "N-267",
         "N-220",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2305,7 +2395,9 @@
       "mentions_person_refs": [
         "N-267",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2422,9 @@
         "N-389",
         "N-9",
         "N-267"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2447,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2375,7 +2471,9 @@
       "transcript_snippet": "That is the moment Trumpism died. I agree. >> And don't we need a reckoning?",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2400,7 +2498,9 @@
         "N-1",
         "N-3",
         "N-267"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2422,7 +2522,9 @@
       "transcript_snippet": "we don't even know what kind of ammo was used. It could literally be anything.",
       "mentions_person_refs": [
         "N-316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2444,7 +2546,9 @@
       "transcript_snippet": "I actually bought this one specifically for this test just to give us the highest chance of something stopping in the target.",
       "mentions_person_refs": [
         "N-316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2466,7 +2570,9 @@
       "transcript_snippet": "I'm not going to be able to take the shot at 140 yards.",
       "mentions_person_refs": [
         "N-316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2488,7 +2594,9 @@
       "transcript_snippet": "There's going to be almost no difference between 30 or 40 and 140. It's a thousand yard gun.",
       "mentions_person_refs": [
         "N-316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2510,7 +2618,9 @@
       "transcript_snippet": "that right there is why people are skeptical on the official story. The 30-06 is a very hard round to stop.",
       "mentions_person_refs": [
         "N-316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2535,7 +2645,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2558,7 +2670,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2578,7 +2692,9 @@
       "transcript_snippet": "last episode was regarding Blake Neff and his diatribe of, you know, why Turning Point took a while to respond.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2716,9 @@
       "transcript_snippet": "Can we see Mikey's call logs and the metadata before and after 12:23 p. m.? Much more.",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2617,7 +2735,9 @@
       ],
       "claim_timestamp": "00:38:23",
       "investigative_direction": "Track the TPUSA announcement and the planned response event cited by the AZ Master Baker comment.",
-      "transcript_snippet": "they have said they are going to be doing something in the near future to answer questions"
+      "transcript_snippet": "they have said they are going to be doing something in the near future to answer questions",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2635,7 +2755,9 @@
       "transcript_snippet": "follow John Mappin and read his essay The Perfumed Pervert.",
       "mentions_person_refs": [
         "N-154"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2655,7 +2777,9 @@
       ],
       "claim_timestamp": "00:39:37",
       "investigative_direction": "Locate the Qatari interview and confirm who said it and when.",
-      "transcript_snippet": "they said the reason why we have a relationship with Hamas is because the US government asked us to establish one."
+      "transcript_snippet": "they said the reason why we have a relationship with Hamas is because the US government asked us to establish one.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2675,7 +2799,9 @@
       "transcript_snippet": "obviously a lot of leaks that we've received have come from TPUSA employees.",
       "supports_claim_refs": [
         "C-390"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2697,7 +2823,9 @@
       "transcript_snippet": "some of that obviously is normal to have a life insurance policy if you are married to somebody.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2720,7 +2848,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

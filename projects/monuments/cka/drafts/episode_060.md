@@ -1198,6 +1198,8 @@ Transcript Snippet: we received a solid tip yesterday that Dan Flood, not only h
 Anchored Artifacts: 
 Mentions: N-3, N-270
 Related Nodes: N-10000, N-10632
+Verification: revised-by-host
+Verification Evidence: C-10392
 Investigative Direction: Ask TPUSA for Dan Flood's current title and start date in any security role; look for staff listings or event credentials.
 
 ---

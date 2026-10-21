@@ -1317,7 +1317,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1336,7 +1338,9 @@
       "investigative_direction": "Compare this stated rationale against any prior TPUSA live stream format decisions, particularly those involving remote participation.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1356,7 +1360,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1375,7 +1381,9 @@
         "N-1",
         "N-304",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1389,7 +1397,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:07",
-      "investigative_direction": "Verify UVU official branding (athletics department, university communications) to confirm stated school colors."
+      "investigative_direction": "Verify UVU official branding (athletics department, university communications) to confirm stated school colors.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1406,7 +1416,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:20:45–00:21:55",
-      "investigative_direction": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles."
+      "investigative_direction": "Systematically catalog every maroon-shirted attendee visible in publicly available September 10 footage and cross-reference social media profiles.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1426,7 +1438,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1445,7 +1459,9 @@
       "investigative_direction": "Cross-reference third-party Apple Podcasts tracking services to verify the ranking on the cited date and identify trend pattern.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1464,7 +1480,9 @@
       "investigative_direction": "Obtain the original PBS segment, identify the producer/assignment editor, and verify how Bierer was identified as a witness.",
       "mentions_person_refs": [
         "N-310"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1483,7 +1501,9 @@
       "investigative_direction": "Obtain the original full-length footage to confirm the absence of ducking and any subsequent movement.",
       "mentions_person_refs": [
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1502,7 +1522,9 @@
       "investigative_direction": "Obtain any phone-recorded footage from Jacob Kasparian or his device via subpoena/preservation order.",
       "mentions_person_refs": [
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1521,7 +1543,9 @@
       "investigative_direction": "Obtain the original Facebook post with timestamp metadata; verify whether the timestamp was edited for timezone.",
       "mentions_person_refs": [
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1540,7 +1564,9 @@
       "investigative_direction": "Obtain the full Adam Bartholomew livestream VOD and metadata for forensic review.",
       "mentions_person_refs": [
         "N-308"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1560,7 +1586,9 @@
       "investigative_direction": "Retrieve the original Carrie Bartholomew tweet with image metadata and timestamp.",
       "mentions_person_refs": [
         "N-309"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1580,7 +1608,9 @@
       "mentions_person_refs": [
         "N-308",
         "N-309"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1597,7 +1627,9 @@
       "investigative_direction": "Cross-reference court filings and law enforcement exhibits confirming Robinson's attire on September 10.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1613,7 +1645,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:10–00:23:45",
-      "investigative_direction": "Cross-reference the email assertions against publicly available military uniform/identifier doctrine for airborne, QRF, and undercover units."
+      "investigative_direction": "Cross-reference the email assertions against publicly available military uniform/identifier doctrine for airborne, QRF, and undercover units.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1629,7 +1663,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:21",
-      "investigative_direction": "Catalog all publicly known September 10 roof footage and confirm whether additional footage exists in government holdings."
+      "investigative_direction": "Catalog all publicly known September 10 roof footage and confirm whether additional footage exists in government holdings.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1645,7 +1681,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
-      "investigative_direction": "Obtain a sworn statement from the roof video caller and any forensic review of the footage."
+      "investigative_direction": "Obtain a sworn statement from the roof video caller and any forensic review of the footage.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1664,7 +1702,9 @@
       "investigative_direction": "Verify via court subpoena records and FBI/subpoena logs whether the caller was contacted by either party.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1680,7 +1720,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:45:00",
-      "investigative_direction": "Verify the caller's stated qualifications via credentialing records or instructors' registry."
+      "investigative_direction": "Verify the caller's stated qualifications via credentialing records or instructors' registry.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1700,7 +1742,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1719,7 +1763,9 @@
       "investigative_direction": "Monitor TPUSA channels for confirmation and document the actual event for artifact capture.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1742,7 +1788,9 @@
       "transcript_snippet": "TPUSA takes them three months to respond. Also TPUSA, you have 24 hours to respond.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1769,7 +1817,9 @@
         "N-311",
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1794,7 +1844,9 @@
         "N-159",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1816,7 +1868,9 @@
       "transcript_snippet": "We actually hadn't agreed on it at the time I read the statement.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1839,7 +1893,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1862,7 +1918,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1943,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1908,7 +1968,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1928,7 +1990,9 @@
       "transcript_snippet": "My most contentious and my most viral debates have never been in person.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1954,7 +2018,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1975,7 +2041,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2001,7 +2069,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2026,7 +2096,9 @@
         "N-2",
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2047,7 +2119,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2069,7 +2143,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2090,7 +2166,9 @@
       "mentions_person_refs": [
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2109,7 +2187,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2130,7 +2210,9 @@
       "mentions_person_refs": [
         "N-908",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2150,7 +2232,9 @@
       "transcript_snippet": "People of Ukraine, this is your moment.",
       "mentions_person_refs": [
         "N-908"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2175,7 +2259,9 @@
         "N-1",
         "N-908",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2197,7 +2283,9 @@
       "transcript_snippet": "Show you another person here sitting there under the tree after the shot and he's wearing maroon.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2220,7 +2308,9 @@
       "transcript_snippet": "when he submitted them to the FBI, the FBI had asked him to delete that footage.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2244,7 +2334,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2269,7 +2361,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2387,9 @@
         "N-307",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2315,7 +2411,9 @@
       "transcript_snippet": "it's unusual that he attended the event alone.",
       "mentions_person_refs": [
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2340,7 +2438,9 @@
       ],
       "mentions_person_refs": [
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2463,9 @@
       "mentions_person_refs": [
         "N-307",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2388,7 +2490,9 @@
         "N-307",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2514,9 @@
       "transcript_snippet": "I am beginning to suspect that our maroon boys in general were tasked with taking footage from predetermined angles.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2433,7 +2539,9 @@
       "mentions_person_refs": [
         "N-308",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2460,7 +2568,9 @@
         "N-309",
         "N-308",
         "N-307"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2483,7 +2593,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2506,7 +2618,9 @@
       "transcript_snippet": "if you recognize these individuals in particular, more tips candens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2527,7 +2641,9 @@
       "mentions_person_refs": [
         "N-310",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2551,7 +2667,9 @@
       "mentions_person_refs": [
         "N-310",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2576,7 +2694,9 @@
         "N-75",
         "N-61",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2598,7 +2718,9 @@
       "transcript_snippet": "I hear this loud sound and I'm like, \"That wasn't what I thought it was, is it?\" I was like, \"No, this can't be happening right now.\" And we all ducked.",
       "mentions_person_refs": [
         "N-310"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2622,7 +2744,9 @@
       "mentions_person_refs": [
         "N-304",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2643,7 +2767,9 @@
       "mentions_person_refs": [
         "N-304",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2661,7 +2787,9 @@
       "transcript_snippet": "if you want to get 20% off, you should head to make him a sandwichand. com. And you can buy it directly from us with no middleman.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2679,7 +2807,9 @@
       "transcript_snippet": "you can now gift someone a membership to Club Candace or to the book club on our website.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2702,7 +2832,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2724,7 +2856,9 @@
       "transcript_snippet": "because literally he's recording him at 12:23, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2746,7 +2880,9 @@
       "transcript_snippet": "he told us early on, \"That's not the person that I saw. I saw somebody in tactical gear.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2768,7 +2904,9 @@
       "transcript_snippet": "I've seen so many people uh debating whether or not he put the gun back together.\" He's like, \"I can say that none of that happened.\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2794,7 +2932,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2817,7 +2957,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2841,7 +2983,9 @@
         "N-3",
         "N-159",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2867,7 +3011,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2886,7 +3032,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2909,7 +3057,9 @@
         "N-282",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2927,7 +3077,9 @@
       "transcript_snippet": "the truth ended up being the truth and BLM was a scam and they were buying themselves houses.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2947,7 +3099,9 @@
       "transcript_snippet": "we can confirm that we are going to live stream their live stream and live respond to the live stream.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2968,7 +3122,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2993,7 +3149,9 @@
         "N-159",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3013,7 +3171,9 @@
       "transcript_snippet": "the new format of TPUSA campus events is that students have to tell them ahead of time what they're going to ask. We have received a flurry of emails to that effect.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3034,7 +3194,9 @@
       "mentions_person_refs": [
         "N-278",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3057,7 +3219,9 @@
         "N-278",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3081,7 +3245,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1269,6 +1269,8 @@ Anchored Artifacts:
 Mentions: N-14, N-1, N-3
 Related Nodes: N-10003
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-13308, C-13309, C-13365
 Investigative Direction: Locate Kolvet's public statements on the end of the friendship and their dates.
 
 ---

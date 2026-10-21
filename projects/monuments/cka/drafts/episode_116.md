@@ -982,6 +982,8 @@ Transcript Snippet: why Terryl Farnsworth was instructed specifically to take th
 Anchored Artifacts:
 Mentions: N-261, N-1
 Related Nodes: N-10732, N-10324
+Verification: revised-by-host
+Verification Evidence: C-12371
 Investigative Direction: Establish who instructed the SD card removal and its chain of custody.
 
 ---

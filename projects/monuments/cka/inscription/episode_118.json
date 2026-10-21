@@ -1445,7 +1445,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1469,7 +1471,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1492,7 +1496,9 @@
         "N-14",
         "N-69",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1514,7 +1520,9 @@
         "N-9",
         "N-47",
         "N-690"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1532,7 +1540,9 @@
         "N-9",
         "N-47",
         "N-690"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1551,7 +1561,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1571,7 +1583,9 @@
         "N-2",
         "N-568",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1591,7 +1605,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1610,7 +1626,9 @@
       "mentions_person_refs": [
         "N-568",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1628,7 +1646,9 @@
       "transcript_snippet": "Erika Kirk now has access to American high school students via Turning Points USA Club of America.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1646,7 +1666,9 @@
         "N-5",
         "N-9",
         "N-690"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1667,7 +1689,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1685,7 +1709,9 @@
       "transcript_snippet": "the plane that flew to Tucson, Arizona on September 8th, 2 days before Charlie's assassination, landed and hung out in Tucson for about 4 hours before it carried on to the Intel base in Fort Huachuca, Arizona, where it stayed overnight.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1707,7 +1733,9 @@
       ],
       "mentions_person_refs": [
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1731,7 +1759,9 @@
         "N-433",
         "N-28",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1751,7 +1781,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1772,7 +1804,9 @@
         "N-361",
         "N-2",
         "N-433"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1796,7 +1830,9 @@
         "N-14",
         "N-2",
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1815,7 +1851,9 @@
       "tags": [],
       "claim_timestamp": "00:11:06",
       "investigative_direction": "The FOIA acknowledgment letter and tracking number.",
-      "transcript_snippet": "They need to coordinate with multiple departments, and we're number 3,500 to hear back."
+      "transcript_snippet": "They need to coordinate with multiple departments, and we're number 3,500 to hear back.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1837,7 +1875,9 @@
         "N-433",
         "N-591",
         "N-691"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1858,7 +1898,9 @@
       "mentions_person_refs": [
         "N-691",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1876,7 +1918,9 @@
       "transcript_snippet": "Well, in 1992 he co-founded uh Cerberus Capital Management.",
       "mentions_person_refs": [
         "N-691"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1891,7 +1935,9 @@
       "tags": [],
       "claim_timestamp": "00:14:58",
       "investigative_direction": "Federal contract databases and congressional reports on Blackwater contracts.",
-      "transcript_snippet": "Blackwater in total received $2 billion in government contracts between 1997 and 2010."
+      "transcript_snippet": "Blackwater in total received $2 billion in government contracts between 1997 and 2010.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1909,7 +1955,9 @@
       "transcript_snippet": "Uh like I said, four men were convicted, one of murder, three others of manslaughter charges, but no worries because when Trump got into office the first time around, he pardoned all of them.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1929,7 +1977,9 @@
         "N-692",
         "N-693",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +1999,9 @@
       "mentions_person_refs": [
         "N-691",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1968,7 +2020,9 @@
       "transcript_snippet": "The scandal began to take shape in the 1990s until the whistle was finally blown in the early 2000s. Movie made in 2010.",
       "mentions_person_refs": [
         "N-10915"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +2043,9 @@
       "transcript_snippet": "Catherine Bolkovac, um a a DynCorp investigator in Bosnia discovered that several DynCorp employees were involved in purchasing underage women and facilitating sex trafficking.",
       "mentions_person_refs": [
         "N-694"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2011,7 +2067,9 @@
       "mentions_person_refs": [
         "N-695",
         "N-694"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2032,7 +2090,9 @@
       "transcript_snippet": "the trafficked underage women were coming from Ukraine, Croatia, Bosnia, and of course Romania.",
       "mentions_person_refs": [
         "N-694"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2051,7 +2111,9 @@
       "transcript_snippet": "offering them like roles as a beautician, and then taking their passports and forcing them into prostitution over the border.",
       "mentions_person_refs": [
         "N-10913"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2067,7 +2129,9 @@
       "tags": [],
       "claim_timestamp": "00:21:39",
       "investigative_direction": "Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.",
-      "transcript_snippet": "So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government."
+      "transcript_snippet": "So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2086,7 +2150,9 @@
       "transcript_snippet": "Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.",
       "mentions_person_refs": [
         "N-691"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2106,7 +2172,9 @@
       "transcript_snippet": "I believe the New York Times article was very well sourced and I believe that one of their obvious sources to me as I read the article seemed like it was Dan Bongino.",
       "mentions_person_refs": [
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2124,7 +2192,9 @@
       "transcript_snippet": "I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital",
       "mentions_person_refs": [
         "N-691"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2212,9 @@
       "transcript_snippet": "from what I am told, they are trying to make it more difficult uh for people to FOIA requests",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2165,7 +2237,9 @@
         "N-433",
         "N-691",
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2261,9 @@
       "mentions_person_refs": [
         "N-217",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2205,7 +2281,9 @@
       "transcript_snippet": "I actually hear that when she goes to Ukraine our F U SUVs waiting uh to escort her family.",
       "mentions_person_refs": [
         "N-217"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2222,7 +2300,9 @@
       "tags": [],
       "claim_timestamp": "00:27:04",
       "investigative_direction": "Archived copies of the ministry website and its financial disclosures.",
-      "transcript_snippet": "Here is their website, The Good Call Ministries Rescue Operations. Refugees, elderly, orphans, handicapped."
+      "transcript_snippet": "Here is their website, The Good Call Ministries Rescue Operations. Refugees, elderly, orphans, handicapped.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2318,9 @@
       "transcript_snippet": "Uh she gave birth, they were separated uh within a year, I believe",
       "mentions_person_refs": [
         "N-696"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2257,7 +2339,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-696"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2275,7 +2359,9 @@
       "transcript_snippet": "the character that I had learned to embody after my divorce in my period of compulsively dating was a villain.",
       "mentions_person_refs": [
         "N-696"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2293,7 +2379,9 @@
       "transcript_snippet": "my friend said after watching me in shorts and lip liner navigate the the clickish politics of school drop-off.",
       "mentions_person_refs": [
         "N-696"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2312,7 +2400,9 @@
       "tags": [],
       "claim_timestamp": "00:43:47",
       "investigative_direction": "The FBI FOIA denial letter and request number.",
-      "transcript_snippet": "Why did you deny it my my 20 days and tell me that it's because it's too complicated. We're asking you for 3 days of someone's schedule."
+      "transcript_snippet": "Why did you deny it my my 20 days and tell me that it's because it's too complicated. We're asking you for 3 days of someone's schedule.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2330,7 +2420,9 @@
       "transcript_snippet": "Suddenly they suddenly do make sense when you believe or consider that an explosive went off under his chest",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2439,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2366,7 +2460,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2389,7 +2485,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2407,7 +2505,9 @@
       "transcript_snippet": "Also, three out of four of Jeffrey Epstein's grandparents were born in Russia.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

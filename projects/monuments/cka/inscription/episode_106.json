@@ -1408,7 +1408,9 @@
       "mentions_person_refs": [
         "N-631",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1427,7 +1429,9 @@
       "mentions_person_refs": [
         "N-631",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1446,7 +1450,9 @@
       "mentions_person_refs": [
         "N-631",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1463,7 +1469,9 @@
       "mentions_person_refs": [
         "N-631",
         "N-632"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1480,7 +1488,9 @@
       "mentions_person_refs": [
         "N-631",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1498,7 +1508,9 @@
       "transcript_snippet": "It will drop this Thursday, and I very much look forward to all of the surrounding commentary.",
       "mentions_person_refs": [
         "N-631"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1513,7 +1525,9 @@
       "tags": [],
       "claim_timestamp": "00:08:50",
       "investigative_direction": "Locate the original 2021 news reports and corporate announcements for each incentive shown.",
-      "transcript_snippet": "Krispy Kreme donuts for free if you get the vaccine. Free beer. Free marijuana joints. This is all real, these headlines."
+      "transcript_snippet": "Krispy Kreme donuts for free if you get the vaccine. Free beer. Free marijuana joints. This is all real, these headlines.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1528,7 +1542,9 @@
       "tags": [],
       "claim_timestamp": "00:09:38",
       "investigative_direction": "Obtain TPUSA chapter-leader stipend or retention policies and testimony from current or former chapter leaders.",
-      "transcript_snippet": "Turning Point USA is now paying their chapter leaders to stay on the board because everybody wants to quit."
+      "transcript_snippet": "Turning Point USA is now paying their chapter leaders to stay on the board because everybody wants to quit.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1543,7 +1559,9 @@
       "tags": [],
       "claim_timestamp": "00:12:15",
       "investigative_direction": "Locate the published study, its journal, authors and exact findings.",
-      "transcript_snippet": "The study is entitled the impact of the dark triad personality traits on COVID-19 vaccination uptake."
+      "transcript_snippet": "The study is entitled the impact of the dark triad personality traits on COVID-19 vaccination uptake.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1569,7 +1587,9 @@
         "N-2",
         "N-46",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1591,7 +1611,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1615,7 +1637,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1634,7 +1658,9 @@
       "transcript_snippet": "remember, they already released the audio. It was them. They told the story. They released the audio.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1654,7 +1680,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1677,7 +1705,9 @@
       "mentions_person_refs": [
         "N-633",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1695,7 +1725,9 @@
       "tags": [],
       "claim_timestamp": "00:15:03",
       "investigative_direction": "Review the published Daily Mail article for embedded media and paywall status.",
-      "transcript_snippet": "And so people thought the video must have been embedded in here. Of course, it was not. The article is behind a paywall."
+      "transcript_snippet": "And so people thought the video must have been embedded in here. Of course, it was not. The article is behind a paywall.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1713,7 +1745,9 @@
       "tags": [],
       "claim_timestamp": "00:16:03",
       "investigative_direction": "Ask the Daily Mail for the screening method, date and location.",
-      "transcript_snippet": "Did they fly out to Arizona for this screening? No, we don't get any information."
+      "transcript_snippet": "Did they fly out to Arizona for this screening? No, we don't get any information.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1736,7 +1770,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1756,7 +1792,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1775,7 +1813,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1794,7 +1834,9 @@
       "tags": [],
       "claim_timestamp": "00:18:18",
       "investigative_direction": "Ask the Daily Mail which attendees it interviewed and whether it viewed the full unedited file.",
-      "transcript_snippet": "the Daily Mail has been given exclusive access to screen the full video, report on its contents, and speak to individuals who were in the room in Aspen that day"
+      "transcript_snippet": "the Daily Mail has been given exclusive access to screen the full video, report on its contents, and speak to individuals who were in the room in Aspen that day",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1813,7 +1855,9 @@
       "tags": [],
       "claim_timestamp": "00:19:13",
       "investigative_direction": "Ask TPUSA whether a redacted version (donor face and question removed) could be released.",
-      "transcript_snippet": "The excuse that Turning Point provides for why they cannot release the footage themselves is because it would violate donor privacy."
+      "transcript_snippet": "The excuse that Turning Point provides for why they cannot release the footage themselves is because it would violate donor privacy.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1836,7 +1880,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1852,7 +1898,9 @@
       "tags": [],
       "claim_timestamp": "00:20:47",
       "investigative_direction": "Identify the company and obtain meeting records, contracts or invoices between it and TPUSA.",
-      "transcript_snippet": "We now know that you were working with meeting with a Hollywood AI company."
+      "transcript_snippet": "We now know that you were working with meeting with a Hollywood AI company.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1871,7 +1919,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1892,7 +1942,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1966,9 @@
         "N-159",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1935,7 +1989,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1954,7 +2010,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1975,7 +2033,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1993,7 +2053,9 @@
       "transcript_snippet": "They referred to Erika Kirk as their uh emotional asset.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2016,7 +2078,9 @@
       "transcript_snippet": "The White House Military Office has no knowledge of the communications alleged in this post and they did not authorize, draft, or publish the content in question.",
       "mentions_person_refs": [
         "N-634"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2040,7 +2104,9 @@
         "N-606",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2061,7 +2127,9 @@
       "mentions_person_refs": [
         "N-606",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2151,9 @@
       "transcript_snippet": "They came back in 4 and 1/2 minutes, okay? 4 and 1/2 minutes, they instantly replied exact same language.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2172,9 @@
       "transcript_snippet": "So, it's entirely plausible that the White House Military Office did not send the email.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2127,7 +2199,9 @@
         "N-625",
         "N-620",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2222,9 @@
       "transcript_snippet": "For extra clarity, are you saying the email does not exist and was not sent or received by this administration?\" \"Thank you again, Candace Owens.\" And would you know, I've been ghosted since.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2166,7 +2242,9 @@
       "transcript_snippet": "but I know that the email got sent, that the parties that I mentioned were true.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2189,7 +2267,9 @@
         "N-3",
         "N-625",
         "N-620"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2212,7 +2292,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2233,7 +2315,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2257,7 +2341,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2279,7 +2365,9 @@
       "transcript_snippet": "On September 24th, 2025, he received uh $39,000 for individual equipment. And then, on September 29th, 5 days later, he received $151,000 uh for night vision equipment.",
       "mentions_person_refs": [
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2299,7 +2387,9 @@
       "transcript_snippet": "When you go on his website, he doesn't make his own gear.",
       "mentions_person_refs": [
         "N-614"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2322,7 +2412,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2340,7 +2432,9 @@
       "transcript_snippet": "And to also wipe away his legacy by deleting the old catalog of all of the footage of Charlie speaking on college campuses.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2356,7 +2450,9 @@
       "transcript_snippet": "Six days after your husband's assassinated, the emojis. The emojis?",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2379,7 +2475,9 @@
         "N-374",
         "N-69",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2395,7 +2493,9 @@
       "transcript_snippet": "Oh, someday we'll not be banned and we'll be able to visit Australia. That day is not today.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

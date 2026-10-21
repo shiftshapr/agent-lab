@@ -4382,6 +4382,14 @@
      "raw": ""
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-13461"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Obtain vehicle registration and VIN data for Tyler Robinson's Challenger to verify exhaust configuration."
     },
@@ -7402,6 +7410,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11652"
     },
     {
      "k": "Investigative Direction",

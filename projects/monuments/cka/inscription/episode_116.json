@@ -1867,7 +1867,9 @@
       "transcript_snippet": "the public crash out that they had yesterday on X over the manner that I promoted my show yesterday.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1887,7 +1889,9 @@
         "N-680",
         "N-105",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1908,7 +1912,9 @@
         "N-681",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1927,7 +1933,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +1957,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1970,7 +1980,9 @@
       "transcript_snippet": "That clip is what you see on the outside of Charlie at the September event. That's a magnetic clip. It stays on Charlie the entire time.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1989,7 +2001,9 @@
       "mentions_person_refs": [
         "N-681",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2009,7 +2023,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2024,7 +2040,9 @@
       "tags": [],
       "claim_timestamp": "00:13:08",
       "investigative_direction": "Check published K9 detection research for residue persistence windows.",
-      "transcript_snippet": "They are They are so effective that that they can still smell trace amounts of explosives um of a fired weapon, a bomb residue for up to 10 days."
+      "transcript_snippet": "They are They are so effective that that they can still smell trace amounts of explosives um of a fired weapon, a bomb residue for up to 10 days.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2046,7 +2064,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2069,7 +2089,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2091,7 +2113,9 @@
       "transcript_snippet": "Uh the FBI and the state the governor and the FBI, that's what they told me. The governor and the FBI said they want this done by Monday.",
       "mentions_person_refs": [
         "N-41"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2112,7 +2136,9 @@
       "transcript_snippet": "And the university is already making some changes. They're replacing the grass where Charlie Kirk was speaking with pavers.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2130,7 +2156,9 @@
       "transcript_snippet": "And on top of that, we have, of course, the.30-06 bullet, which would have nearly decapitated Charlie.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2150,7 +2178,9 @@
         "N-261",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2173,7 +2203,9 @@
         "N-261",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2193,7 +2225,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2211,7 +2245,9 @@
       "tags": [],
       "claim_timestamp": "00:23:18",
       "investigative_direction": "Identify the test video's source and verify the glass rating and charge weight.",
-      "transcript_snippet": "This is NIJ 4 rated glass Yeah, from a.30-06 and it's about the same foot diameter."
+      "transcript_snippet": "This is NIJ 4 rated glass Yeah, from a.30-06 and it's about the same foot diameter.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2232,7 +2268,9 @@
       "transcript_snippet": "A.30-06 can cut through most bulletproof glass, but a PETN explosive at 20 g or something akin to 20 g does not have that capability despite it's leaving a similar diameter.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2252,6 +2290,10 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-12371"
       ]
     },
     {
@@ -2271,7 +2313,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2294,7 +2338,9 @@
         "N-681",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2314,7 +2360,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2335,7 +2383,9 @@
       "transcript_snippet": "Just behind the driver seat is where Charlie's body was pulled in. Okay? In that captain chair.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2403,9 @@
       "transcript_snippet": "Nobody was looking at Israel and Bibi Netanyahu comes out and says they didn't do it.",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2374,7 +2426,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2393,7 +2447,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2413,7 +2469,9 @@
         "N-278",
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2432,7 +2490,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2453,7 +2513,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2471,7 +2533,9 @@
       "transcript_snippet": "They don't want to explain to us why the police didn't perform a basic GSR test, a gunshot residue test, to see if he fired a gun.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2490,7 +2554,9 @@
       "transcript_snippet": "Oh, but he also wrote a note because um and put it under his keyboard, too.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2510,7 +2576,9 @@
       "mentions_person_refs": [
         "N-99",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2532,7 +2600,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2551,7 +2621,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2645,9 @@
         "N-7",
         "N-682",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2597,7 +2671,9 @@
         "N-7",
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2620,7 +2696,9 @@
         "N-46",
         "N-682",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2639,7 +2717,9 @@
       "transcript_snippet": "When Kash Patel got on the scene, he instructed the Feds to take that footage.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2659,7 +2739,9 @@
       "mentions_person_refs": [
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2677,7 +2759,9 @@
       "transcript_snippet": "but I will say that I am going to look into the explosion that took place in Hickman County here in Tennessee.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2695,7 +2779,9 @@
       "transcript_snippet": "On October 10th, there was an explosion at the Accurate Energetic Systems, which they do make military and demolition explosives.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2715,7 +2801,9 @@
       "transcript_snippet": "please email us at tips@candaceowens. com. Not your theories, but if you actually know something.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2733,7 +2821,9 @@
       "transcript_snippet": "They have to respond to my request within the legal time frame of 20 days. 20 days, okay? 20 working days actually I should say.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2752,7 +2842,9 @@
       "transcript_snippet": "They referred to her as an emotional asset and this was done within a period about an hour after the shooting when that should not have been the concern to the Department of War.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2772,7 +2864,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2795,7 +2889,9 @@
         "N-69",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2816,7 +2912,9 @@
       "transcript_snippet": "Your show, just like the fake news media, will be called out when you lie. We hope this helps.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2839,7 +2937,9 @@
         "N-40",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2860,7 +2960,9 @@
       "transcript_snippet": "And then they said \"When you tell your audience that you were {quote} denied, that would be a lie for clickbait.\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2881,7 +2983,9 @@
       "transcript_snippet": "This moment where you had influencers holding effectively empty binders.",
       "mentions_person_refs": [
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2901,7 +3005,9 @@
       "transcript_snippet": "was begging for an appointment at the VA and was routinely being declined that appointment at the VA and had um a seizure when we landed into Russia just 1 day afterward.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2922,7 +3028,9 @@
       "transcript_snippet": "the hospital treated him with just so much kindness getting him immediately in for surgery, um taking so many scans",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2940,7 +3048,9 @@
       "transcript_snippet": "Actually, it was from Missouri, Kansas City, Missouri, they moved and they have eight kids",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2958,7 +3068,9 @@
       "transcript_snippet": "Um they're giving them drugs that by the way are illegal in Russia.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2977,7 +3089,9 @@
       "transcript_snippet": "Ashley just let me know that she did already reduce the burden.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2997,7 +3111,9 @@
       "transcript_snippet": "I didn't dismiss it. I never dismissed the exploding mic theory.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3021,7 +3137,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3042,7 +3160,9 @@
       "transcript_snippet": "that's why before Charlie reacts to the wound, the necklace breaks, and then he um and then it seems like he gets hit.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3067,7 +3187,9 @@
       "mentions_person_refs": [
         "N-414",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3092,7 +3214,9 @@
       "mentions_person_refs": [
         "N-410",
         "N-414"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

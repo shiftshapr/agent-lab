@@ -1326,7 +1326,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1343,7 +1345,9 @@
       "investigative_direction": "Compile catalog of identified TPUSA staff statements that have been disputed and assess whether Erika's characterization matches the underlying record.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1361,7 +1365,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1379,7 +1385,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-16"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1398,7 +1406,9 @@
         "N-2",
         "N-22",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1417,7 +1427,9 @@
         "N-1",
         "N-22",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1435,7 +1447,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1453,7 +1467,9 @@
       "investigative_direction": "Compare Tucker's stated concerns with the official FBI affidavit and any public DOJ statements; identify what additional evidence the FBI has declined to disclose.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1469,7 +1485,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:18",
-      "investigative_direction": "Cross-reference with ADS-B Exchange historical archives, FAA SWIM data, official DoD manifests if obtainable, and Andrews AFB logs."
+      "investigative_direction": "Cross-reference with ADS-B Exchange historical archives, FAA SWIM data, official DoD manifests if obtainable, and Andrews AFB logs.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1488,7 +1506,9 @@
       "investigative_direction": "Verify SAM call sign designation rules against published DoD flight operations manuals; cross-reference historical call sign assignments and known passenger lists.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1506,7 +1526,9 @@
       "mentions_person_refs": [
         "N-319",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1520,7 +1542,9 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:40:52",
-      "investigative_direction": "Cross-reference with public DoD facility records, news coverage of SCIF construction at Fort Huachuca, and any base expansion announcements."
+      "investigative_direction": "Cross-reference with public DoD facility records, news coverage of SCIF construction at Fort Huachuca, and any base expansion announcements.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1536,7 +1560,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:59:48",
-      "investigative_direction": "Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records."
+      "investigative_direction": "Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1555,7 +1581,9 @@
       "investigative_direction": "Cross-reference with publicly available Pam Bondi travel records, Tampa-area appearances, and any obtainable DoD flight manifests.",
       "mentions_person_refs": [
         "N-85"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1574,7 +1602,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1596,7 +1626,9 @@
         "N-798",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1617,7 +1649,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1639,7 +1673,9 @@
         "N-220",
         "N-1",
         "N-798"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1662,7 +1698,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1684,7 +1722,9 @@
       "transcript_snippet": "Anytime we hear a lead or anytime we hear anything, we send it to the authorities.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1706,7 +1746,9 @@
       "transcript_snippet": "you're making hundreds and thousands of dollars every single episode going after the people that I love because somehow they're in on this.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1728,7 +1770,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1749,7 +1793,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1767,7 +1813,9 @@
       ],
       "claim_timestamp": "00:12:39",
       "investigative_direction": "Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.",
-      "transcript_snippet": "you know they made 40 40 million like two nights ago at Mar-a-Lago"
+      "transcript_snippet": "you know they made 40 40 million like two nights ago at Mar-a-Lago",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1788,7 +1836,9 @@
       "transcript_snippet": "has made more than $100 million that is separate from the $40 million they made at Marago the other night.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1811,7 +1861,9 @@
       ],
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1831,7 +1883,9 @@
       "transcript_snippet": "No, she didn't even respond to one of the conspiracies. She gave us emotion.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1850,7 +1904,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1870,7 +1926,9 @@
       "transcript_snippet": "I didn't even go to college and I've been doing this for over a decade as Charlie Kirk did.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1893,7 +1951,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1912,7 +1972,9 @@
       "mentions_person_refs": [
         "N-267",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1933,7 +1995,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1956,7 +2020,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1983,7 +2049,9 @@
         "N-22",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2005,7 +2073,9 @@
       "transcript_snippet": "the FBI has a moral and legal obligation to to look in every direction and to be open-minded as you would in any investigation",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2025,7 +2095,9 @@
       "transcript_snippet": "His father, he learns after his father died, he thought he was just working with the CIA. No, his father was on the payroll of the CIA.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2049,7 +2121,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2072,7 +2146,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2094,7 +2170,9 @@
       "transcript_snippet": "I'm not saying it didn't happen. I'm saying I want an explanation for how it happened.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2115,7 +2193,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2138,7 +2218,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2164,7 +2246,9 @@
         "N-2",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2185,7 +2269,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2207,7 +2293,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2231,7 +2319,9 @@
         "N-190",
         "N-17",
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2255,7 +2345,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2276,7 +2368,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2300,7 +2394,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2325,7 +2421,9 @@
         "N-319",
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2348,7 +2446,9 @@
       ],
       "mentions_person_refs": [
         "N-319"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2373,7 +2473,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2394,7 +2496,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2417,7 +2521,9 @@
       ],
       "mentions_person_refs": [
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2437,7 +2543,9 @@
       "transcript_snippet": "It also, by the way, does provide an explanation for why they panicked when he just walked in there",
       "mentions_person_refs": [
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2461,7 +2569,9 @@
       "mentions_person_refs": [
         "N-360",
         "N-319"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2485,7 +2595,9 @@
       "mentions_person_refs": [
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2510,7 +2622,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2533,7 +2647,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2676,9 @@
       "mentions_person_refs": [
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2581,7 +2699,9 @@
       "mentions_person_refs": [
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2606,7 +2726,9 @@
         "N-319",
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2631,7 +2753,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2650,7 +2774,9 @@
       ],
       "claim_timestamp": "00:47:10",
       "investigative_direction": "Search historical flight data for other visits of tail 99-044 to Fort Huachuca.",
-      "transcript_snippet": "This is the only time that I have noticed that this plane was in Fort Huachuca."
+      "transcript_snippet": "This is the only time that I have noticed that this plane was in Fort Huachuca.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2671,7 +2797,9 @@
       "mentions_person_refs": [
         "N-360",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2696,7 +2824,9 @@
       ],
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2718,7 +2848,9 @@
       "transcript_snippet": "the Venus call sign is just when the plane is empty. It doesn't have anyone on it.",
       "mentions_person_refs": [
         "N-67"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2741,7 +2873,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2762,7 +2896,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2783,7 +2919,9 @@
       "transcript_snippet": "I didn't look into the Blake Neff thing or why he left uh Fox News. Uh because I'm just more interested in his military connections",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2803,7 +2941,9 @@
       "transcript_snippet": "And thank you, by the way. That's a massive donation.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2827,7 +2967,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2850,7 +2992,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2875,7 +3019,9 @@
         "N-360",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2897,7 +3043,9 @@
       "transcript_snippet": "Harry thinks he has an idea and he should come out and he should share his story.",
       "mentions_person_refs": [
         "N-360"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +3067,9 @@
       "transcript_snippet": "More tips at candace Owens. com is who you can send that tip to.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

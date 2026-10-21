@@ -2090,7 +2090,9 @@
       "tags": [],
       "claim_timestamp": "00:05:06",
       "investigative_direction": "Obtain primary Nielsen release or interim report to confirm the 128M / 135M figures.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2109,7 +2111,9 @@
       "investigative_direction": "Cross-reference Kolvet's interview statement against any contemporaneous social media archives or third-party tracking data.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2128,7 +2132,9 @@
       "investigative_direction": "Verify whether the 10M figure is supported by any third-party analytics for Rumble or YouTube.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2147,7 +2153,9 @@
       "investigative_direction": "Verify the 20M aggregate figure against partner broadcaster analytics if/when released.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2163,7 +2171,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:39",
-      "investigative_direction": "Archive the YouTube page and timestamp the screenshot for ratio analysis."
+      "investigative_direction": "Archive the YouTube page and timestamp the screenshot for ratio analysis.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2179,7 +2189,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:41–00:12:58",
-      "investigative_direction": "Verify the 8M figure against YouTube's official records or contemporaneous reporting."
+      "investigative_direction": "Verify the 8M figure against YouTube's official records or contemporaneous reporting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2195,7 +2207,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:41–00:12:58",
-      "investigative_direction": "Verify the 6.1M figure against YouTube's official records or contemporaneous reporting."
+      "investigative_direction": "Verify the 6.1M figure against YouTube's official records or contemporaneous reporting.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2213,7 +2227,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2231,7 +2247,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2247,7 +2265,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:12",
-      "investigative_direction": "Re-check current YouTube view and comment counts; compute ratio comparison against authentic videos of similar scale."
+      "investigative_direction": "Re-check current YouTube view and comment counts; compute ratio comparison against authentic videos of similar scale.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2266,7 +2286,9 @@
       "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2285,7 +2307,9 @@
       "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2304,7 +2328,9 @@
       "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2323,7 +2349,9 @@
       "investigative_direction": "Obtain full text and verify direct quote attribution.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2344,7 +2372,9 @@
         "N-2",
         "N-544",
         "N-552"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2364,7 +2394,9 @@
       "mentions_person_refs": [
         "N-544",
         "N-552"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2415,9 @@
       "investigative_direction": "Obtain official hearing transcript or recording.",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2437,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2422,7 +2458,9 @@
       "investigative_direction": "Compare admission against earlier public statements by Hamptons participants and Charlie Kirk's own descriptions.",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2442,7 +2480,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2502,9 @@
       "mentions_person_refs": [
         "N-553",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2481,7 +2523,9 @@
       "investigative_direction": "Archive the original tweet and any associated image; verify whether it remains public.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2500,7 +2544,9 @@
         "N-2",
         "N-3",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2517,7 +2563,9 @@
       "investigative_direction": "Verify any actual book project matching this description.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2535,7 +2583,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2607,9 @@
       "mentions_person_refs": [
         "N-523",
         "N-804"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2632,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-804"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2600,7 +2654,9 @@
       "transcript_snippet": "Now, Bad Bunny did not in fact wear a dress at the Super Bowl. He didn't, which like I said, I'm very against that.",
       "mentions_person_refs": [
         "N-804"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2624,7 +2680,9 @@
       "transcript_snippet": "This means uh that the I would say unnecessary Super Bowl political lines that were drawn by Turning Point USA was not successful in terms of drawing people away from the NFL's viewership.",
       "supports_claim_refs": [
         "C-6316"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2645,7 +2703,9 @@
       "transcript_snippet": "Now, we should be clear, it was a pre-record, okay? So, Bad Bunny was performing live. Turning point USA pre-recorded, I think a couple of weeks ago.",
       "mentions_person_refs": [
         "N-804"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2666,7 +2726,9 @@
       "mentions_person_refs": [
         "N-803",
         "N-937"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2688,7 +2750,9 @@
       "transcript_snippet": "We have 95,000 people that are watching this show. As soon as this show concludes, I want you to see how many views uh YouTube is going to instantly give it right away.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2713,7 +2777,9 @@
       ],
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2800,9 @@
       "transcript_snippet": "It is to me so reminiscent of everything Tucker said when he got onto stage at SAS, when the donors, the Jewish donors got angry, when he questioned exactly where this money is coming from, how these people are becoming billionaires",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2756,7 +2824,9 @@
       "transcript_snippet": "Alex Clark shamelessly tweeting everyone said we were over. But look at this.",
       "mentions_person_refs": [
         "N-99"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2782,7 +2852,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-804"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2804,7 +2876,9 @@
         "N-361",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2830,7 +2904,9 @@
         "N-361",
         "N-2",
         "N-364"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2854,7 +2930,9 @@
       "transcript_snippet": "he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the joint task force, the Southern Border Unit.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +2955,9 @@
       "transcript_snippet": "He saw a guy wearing the JTF thing. I think he said it was JTF 10, the 10th Mount Mountain Brigade.",
       "mentions_person_refs": [
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2894,7 +2974,9 @@
       ],
       "claim_timestamp": "00:19:21",
       "investigative_direction": "Official history of Joint Task Force Six and Joint Task Force Southern Border.",
-      "transcript_snippet": "And you should know that the that joint task force initially was formed in Tucson, Arizona."
+      "transcript_snippet": "And you should know that the that joint task force initially was formed in Tucson, Arizona.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2915,7 +2997,9 @@
       "mentions_person_refs": [
         "N-544",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2937,7 +3021,9 @@
       "mentions_person_refs": [
         "N-544",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2958,7 +3044,9 @@
       "transcript_snippet": "He's got quite a build. He looks kind of military-esque to me, but they are also involved in fitness. They ran gyms.",
       "mentions_person_refs": [
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2981,7 +3069,9 @@
       "mentions_person_refs": [
         "N-551",
         "N-544"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3003,7 +3093,9 @@
       "transcript_snippet": "this particular Thomas Martin has gone through great lengths to completely wipe his public presence.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3026,7 +3118,9 @@
       "transcript_snippet": "The Department of Homeland Security for which we know Erika Kirk's mother also is involved extensive contracts with the Department of Homeland Security.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3140,9 @@
       ],
       "claim_timestamp": "00:22:02",
       "investigative_direction": "Full text of the Times Union article of October 21, 1985 and court records of the sanctuary trial.",
-      "transcript_snippet": "Southside Presbyterian Church, two Roman Catholic priests, a nun, and si six church lay workers were all going on trial in Tucson for concealing illegal aliens."
+      "transcript_snippet": "Southside Presbyterian Church, two Roman Catholic priests, a nun, and si six church lay workers were all going on trial in Tucson for concealing illegal aliens.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3067,7 +3163,9 @@
       "mentions_person_refs": [
         "N-551",
         "N-938"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3089,7 +3187,9 @@
       "transcript_snippet": "Please do send us tips to uh tips uh more tips, pardon, canowens. com because we'd like to know maybe somebody worked with this Thomas Martin.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3109,7 +3209,9 @@
       "transcript_snippet": "we know that he's been living in the Tucson area for decades, decades, at least up until 2011. I can find a record of him um working with the Southern Command and that is interesting.",
       "mentions_person_refs": [
         "N-551"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3236,9 @@
         "N-544",
         "N-552",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3156,7 +3260,9 @@
       "transcript_snippet": "on June 19th, Erika purged her Instagram of a lot of pictures, 126 posts she deleted.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3180,7 +3286,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3204,7 +3312,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3225,7 +3335,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3249,7 +3361,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3273,7 +3387,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3295,7 +3411,9 @@
       "mentions_person_refs": [
         "N-49",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3313,7 +3431,9 @@
       ],
       "claim_timestamp": "00:30:34",
       "investigative_direction": "The participants' statements and their dates.",
-      "transcript_snippet": "They all came out and gave these clean buttoned up statements saying that wasn't true."
+      "transcript_snippet": "They all came out and gave these clean buttoned up statements saying that wasn't true.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3338,7 +3458,9 @@
         "N-38",
         "N-116",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3361,7 +3483,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-553"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3384,7 +3508,9 @@
       "mentions_person_refs": [
         "N-553",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3407,7 +3533,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-553"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3432,7 +3560,9 @@
         "N-97",
         "N-3",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3455,7 +3585,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3478,7 +3610,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3502,7 +3636,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3525,7 +3661,9 @@
       "transcript_snippet": "The Hampton's uh retreat and that was the Hampton's retreat was characterized that way. It was not like that.",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3548,7 +3686,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3572,7 +3712,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3595,7 +3737,9 @@
       "mentions_person_refs": [
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3618,7 +3762,9 @@
       "transcript_snippet": "but there were many people that came out and made statements afterwards that it was completely mischaracterized.",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3640,7 +3786,9 @@
       "transcript_snippet": "That's why someone tried to kill me and my family and got arrested in Texas.",
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3667,7 +3815,9 @@
         "N-38",
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3690,7 +3840,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3718,7 +3870,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3745,7 +3899,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3771,7 +3927,9 @@
       ],
       "mentions_person_refs": [
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3795,7 +3953,9 @@
       ],
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3820,7 +3980,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3841,7 +4003,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3864,7 +4028,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3886,7 +4052,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3908,7 +4076,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3934,7 +4104,9 @@
         "N-14",
         "N-36",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3955,7 +4127,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3979,7 +4153,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3997,7 +4173,9 @@
       "transcript_snippet": "We've merged our subscription tiers into one Club Candace tier for $1.99 a month or you can do 120 for the entire year.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4015,7 +4193,9 @@
       "transcript_snippet": "Why are you gay? merch is now available on the website.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4034,7 +4214,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4060,7 +4242,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4080,7 +4264,9 @@
       "transcript_snippet": "anybody telling you that questioning the people around uh who have a potentially a billion dollar motive for the person not to be there is asking you to be an idiot.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4098,7 +4284,9 @@
       "transcript_snippet": "No, I'm not. I think someone made an account for me.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4117,7 +4305,9 @@
       ],
       "claim_timestamp": "00:49:21",
       "investigative_direction": "Scientific literature or reputable sources on the claimed phenomenon.",
-      "transcript_snippet": "is literally called street light interference which is a phenomenon a phenomenon where people claim that causes street lights to turn off or flicker upon approach"
+      "transcript_snippet": "is literally called street light interference which is a phenomenon a phenomenon where people claim that causes street lights to turn off or flicker upon approach",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4144,7 +4334,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4167,7 +4359,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4184,7 +4378,9 @@
       ],
       "claim_timestamp": "00:50:07",
       "investigative_direction": "Peer-reviewed studies on fluoride and pineal gland calcification.",
-      "transcript_snippet": "you have like people uh the government that is trying to poison your pineal glands. That's a fact. If you look at fluoride, all that is very real."
+      "transcript_snippet": "you have like people uh the government that is trying to poison your pineal glands. That's a fact. If you look at fluoride, all that is very real.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4207,7 +4403,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4230,7 +4428,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4253,7 +4453,9 @@
       "mentions_person_refs": [
         "N-551",
         "N-938"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

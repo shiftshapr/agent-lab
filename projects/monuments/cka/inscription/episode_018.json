@@ -1635,7 +1635,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1655,7 +1657,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1675,7 +1679,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1695,7 +1701,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1714,7 +1722,9 @@
       "investigative_direction": "Identify the named surgeon (if given) and confirm statement through independent medical record review.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1730,7 +1740,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:44",
-      "investigative_direction": "Identify the witness and obtain a signed statement consistent with his on-camera description."
+      "investigative_direction": "Identify the witness and obtain a signed statement consistent with his on-camera description.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1750,7 +1762,9 @@
       "investigative_direction": "Identify the pusher and verify his institutional affiliation at the time of the event.",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1770,7 +1784,9 @@
       "investigative_direction": "Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1789,7 +1805,9 @@
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1808,7 +1826,9 @@
       "investigative_direction": "Verify timestamp and full segment via Fox News archives.",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1847,9 @@
       "investigative_direction": "Cross-reference event staff logs or volunteer rosters provided by organizers.",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1846,7 +1868,9 @@
       "investigative_direction": "Pull registrar verification or alumni records (subject to FERPA limits).",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1865,7 +1889,9 @@
       "investigative_direction": "Confirm whether the female same-name individual is or is not the same person through independent records.",
       "mentions_person_refs": [
         "N-174"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1885,7 +1911,9 @@
       "investigative_direction": "Confirm full segment and any subsequent Chaffetz statements on the topic.",
       "mentions_person_refs": [
         "N-175"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1904,7 +1932,9 @@
       "investigative_direction": "Identify and re-interview the two women, and compare against Phil Lyman's published footage metadata.",
       "mentions_person_refs": [
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1921,7 +1951,9 @@
       "investigative_direction": "Locate Utah state announcement and prior employment records.",
       "mentions_person_refs": [
         "N-176"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1935,7 +1967,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:39",
-      "investigative_direction": "Obtain Utah LLC formation records (pre-digitization, requires in-person request) and Israeli business registries."
+      "investigative_direction": "Obtain Utah LLC formation records (pre-digitization, requires in-person request) and Israeli business registries.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +1983,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:26",
-      "investigative_direction": "Verify via Utah Division of Corporations records and trademark filings."
+      "investigative_direction": "Verify via Utah Division of Corporations records and trademark filings.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1963,7 +1999,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:39",
-      "investigative_direction": "Verify via LinkedIn / professional profile cross-checks."
+      "investigative_direction": "Verify via LinkedIn / professional profile cross-checks.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1980,7 +2018,9 @@
       "investigative_direction": "Pull Arizona trademark filings and confirm attorney of record.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1994,7 +2034,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
-      "investigative_direction": "Pull FAA registry for N1098L and prior military tail assignments."
+      "investigative_direction": "Pull FAA registry for N1098L and prior military tail assignments.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2009,7 +2051,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
-      "investigative_direction": "Confirm ownership via FAA registry and Nevada Secretary of State filings for Las Vegas Aviation LLC."
+      "investigative_direction": "Confirm ownership via FAA registry and Nevada Secretary of State filings for Las Vegas Aviation LLC.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2023,7 +2067,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:31",
-      "investigative_direction": "Pull ADS-B Exchange / FlightAware historical track for N1098L on the date."
+      "investigative_direction": "Pull ADS-B Exchange / FlightAware historical track for N1098L on the date.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2040,7 +2086,9 @@
       "investigative_direction": "Verify aircraft registration, ownership, and any link to Derek/Shelaine Maxfield.",
       "mentions_person_refs": [
         "N-94"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2054,7 +2102,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
-      "investigative_direction": "Verify via filed flight plan and FBO records."
+      "investigative_direction": "Verify via filed flight plan and FBO records.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2068,7 +2118,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:39:09",
-      "investigative_direction": "Pull historical ADSB / radar track for the aircraft on the date."
+      "investigative_direction": "Pull historical ADSB / radar track for the aircraft on the date.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2085,7 +2137,9 @@
       "investigative_direction": "Locate Kash Patel's original statement (interview, press release, social media post) for verbatim wording.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2156,9 @@
       "investigative_direction": "Locate Maxfield's original Instagram post and any corroborating ATC logs.",
       "mentions_person_refs": [
         "N-94"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2117,7 +2173,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:53",
-      "investigative_direction": "Verify via FBO records at Page, Arizona (Millionaire and Signature)."
+      "investigative_direction": "Verify via FBO records at Page, Arizona (Millionaire and Signature).",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2132,7 +2190,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:07",
-      "investigative_direction": "Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs."
+      "investigative_direction": "Identify the employee and obtain signed statement; cross-check Signature FBO ramp logs.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2152,7 +2212,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2172,7 +2234,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2189,7 +2253,9 @@
       "investigative_direction": "Verify exact post text and time stamp via Trump's Truth Social archive.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2206,7 +2272,9 @@
       "investigative_direction": "Verify full Harvard event recording and transcript.",
       "mentions_person_refs": [
         "N-178"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2226,7 +2294,9 @@
       "mentions_person_refs": [
         "N-163",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2243,7 +2313,9 @@
       "investigative_direction": "Verify Kolbatz's travel timeline via receipts or communications.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2332,9 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2278,7 +2352,9 @@
       "transcript_snippet": "Last show until I take a much-needed break, and it's going to be a good one.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2299,7 +2375,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2325,7 +2403,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2345,7 +2425,9 @@
       "transcript_snippet": "I have fact-checked this information from multiple sources now. I've actually been sitting on this for a little bit over a week.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2365,7 +2447,9 @@
       "transcript_snippet": "I've spoken to quite a few, but when the gun and the bullet are known, they are reflected onto the death certificate, okay?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2387,7 +2471,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2409,7 +2495,9 @@
       "transcript_snippet": "there were people who were insisting, by the way, they were on the ground, the witnesses that were insisting that they heard multiple shots.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2431,7 +2519,9 @@
       "transcript_snippet": "if a shot, a high-powered rifle, came from 250 yards behind you, you'd probably look back first, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2454,7 +2544,9 @@
       "transcript_snippet": "He doesn't want to speak to media because he's been instructed not to speak to media because he's gotten the Turning Point chapter into trouble before for speaking out in the media",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2477,7 +2569,9 @@
       "transcript_snippet": "Turning Point USA what sent her on a text and said, \"Nobody speak to the media.\" That's what That was his excuse, by the way, for why he shut that guy up.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2498,7 +2592,9 @@
       "transcript_snippet": "I've done a lot of campus stops, and typically it's the chapter of that school that does everything.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2522,7 +2618,9 @@
       "mentions_person_refs": [
         "N-174",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2543,7 +2641,9 @@
       "mentions_person_refs": [
         "N-174",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2564,7 +2664,9 @@
       "mentions_person_refs": [
         "N-174",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2588,7 +2690,9 @@
       "mentions_person_refs": [
         "N-174",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2610,7 +2714,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2631,7 +2737,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-176"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2654,7 +2762,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-176"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2675,7 +2785,9 @@
       "transcript_snippet": "It is likely that a rifle was fired to muffle the sound of a smaller gun",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2696,7 +2808,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2718,7 +2832,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2743,7 +2859,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2767,7 +2885,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2789,7 +2909,9 @@
       "transcript_snippet": "all these Caldera engineering engineering connected people who made it to the mainstream media to talk about what they heard",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2811,7 +2933,9 @@
         "N-175",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2838,7 +2962,9 @@
       ],
       "mentions_person_refs": [
         "N-175"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2861,7 +2987,9 @@
       "transcript_snippet": "when he's on Fox News and people are saying the shot was from like the Losee building, he doesn't believe that.",
       "mentions_person_refs": [
         "N-175"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2881,7 +3009,9 @@
       "transcript_snippet": "His parents are in the government. They're literally in the FBI.",
       "mentions_person_refs": [
         "N-175"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2905,7 +3035,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2932,7 +3064,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2952,7 +3086,9 @@
       "transcript_snippet": "I think it is likely that what we should be looking for are two people that had weapons that day.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2974,7 +3110,9 @@
       "mentions_person_refs": [
         "N-174",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2996,7 +3134,9 @@
       "mentions_person_refs": [
         "N-126",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3017,7 +3157,9 @@
       "mentions_person_refs": [
         "N-126",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3039,7 +3181,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3060,7 +3204,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3085,7 +3231,9 @@
       "mentions_person_refs": [
         "N-73",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3106,7 +3254,9 @@
       "transcript_snippet": "people who work with valves, who've been in the industry for 30 years, that live nearby, and said, \"I have never heard of Caldera Engineering.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3127,7 +3277,9 @@
       "transcript_snippet": "Uh we obviously know that Caldera engineering had said that they did projects according to their website in Israel.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3148,7 +3300,9 @@
       "transcript_snippet": "You can find LLC docs in general, but they didn't start digitizing those until the early 2000s.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3171,7 +3325,9 @@
       "transcript_snippet": "I'd like to hear from you. Again, more tips at candaceowens. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3192,7 +3348,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3213,7 +3371,9 @@
       "transcript_snippet": "multiple pilots, people that work at these airports, people who are invested in the story have reached out and I'm grateful for that. Multiple people have confirmed that this plane was a little bit weird that day.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3235,7 +3395,9 @@
       "transcript_snippet": "They are guarding information about this flight. That doesn't make sense to me. I don't like that we've got feds guarding like FBO information.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3260,7 +3422,9 @@
         "N-55",
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3284,7 +3448,9 @@
       "mentions_person_refs": [
         "N-55",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3307,7 +3473,9 @@
       "transcript_snippet": "it lets us know that the call happened at the exact same time that we we figured it would actually happen in our timeline.",
       "mentions_person_refs": [
         "N-55"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3332,7 +3500,9 @@
         "N-55",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3356,7 +3526,9 @@
       "transcript_snippet": "Israel is going to partially withdraw its troops from Gaza and Hamas is going to release the remaining hostages.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3377,7 +3549,9 @@
       "transcript_snippet": "hundreds of thousands of Palestinians are missing and yeah, they have destroyed 85% of Gaza",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3400,7 +3574,9 @@
         "N-869",
         "N-178",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3421,7 +3597,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3444,7 +3622,9 @@
       "mentions_person_refs": [
         "N-178",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3467,7 +3647,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3489,7 +3671,9 @@
         "N-1",
         "N-163",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3511,7 +3695,9 @@
       "transcript_snippet": "I've never seen any side of any argument lose this much support this quickly.",
       "mentions_person_refs": [
         "N-163"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3531,7 +3717,9 @@
       "transcript_snippet": "there's like military bot farms on X, which sucks, but that is reality and so you're not even fighting with real people.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3553,7 +3741,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3575,7 +3765,9 @@
         "N-46",
         "N-22",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3597,7 +3789,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3617,7 +3811,9 @@
       "transcript_snippet": "I'm not saying that a shot wasn't fired from behind. I'm not saying that. I said I I've given you my theory. I think there's two there's two shooters.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3638,7 +3834,9 @@
       "transcript_snippet": "I went through great hoops, multiple people I had to confirm it the right way and I did not trust the feds.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3658,7 +3856,9 @@
       "transcript_snippet": "Tips@canaryswans. com or moretips@canaryswans. com. I will obviously be lurking. I will be putting together more pieces.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3676,7 +3876,9 @@
       "transcript_snippet": "I expect that when we get back I'm going to have even more explosive revelations for you.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3696,7 +3898,9 @@
       "transcript_snippet": "It is truly because people around the world are sensing how evil this was and how corrupt it is that they are joining in and giving information where they can.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

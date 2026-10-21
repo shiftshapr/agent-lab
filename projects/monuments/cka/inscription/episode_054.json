@@ -3027,7 +3027,9 @@
         "N-266",
         "N-1",
         "N-224"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3048,9 @@
       "investigative_direction": "Obtain the original Instagram post (including screenshots, dates, and the Obs Report reference) and the adoption agency records to verify the event and Natalia's identity.",
       "mentions_person_refs": [
         "N-11"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3065,7 +3069,9 @@
       "investigative_direction": "Pull original Liberty Godparent Home founding documents and Thomas Road Baptist Church charter materials to confirm founding date and affiliation.",
       "mentions_person_refs": [
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3081,7 +3087,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:54",
-      "investigative_direction": "Request the cited city records from Lynchburg, Virginia to verify the shared-address claim and identify any common corporate officers."
+      "investigative_direction": "Request the cited city records from Lynchburg, Virginia to verify the shared-address claim and identify any common corporate officers.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3101,7 +3109,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3121,7 +3131,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3141,7 +3153,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3160,7 +3174,9 @@
       "investigative_direction": "Locate the 1978 House/Senate committee report on Moon organizations and verify the quoted conclusion verbatim.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3176,7 +3192,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:52:37",
-      "investigative_direction": "Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties."
+      "investigative_direction": "Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3192,7 +3210,9 @@
       ],
       "tags": [],
       "claim_timestamp": "01:04:00",
-      "investigative_direction": "Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures."
+      "investigative_direction": "Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3211,7 +3231,9 @@
       "investigative_direction": "Cross-reference against contemporaneous Iran-Contra investigative records and the American Freedom Coalition's own IRS filings and disclosures.",
       "mentions_person_refs": [
         "N-435"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3227,7 +3249,9 @@
       ],
       "tags": [],
       "claim_timestamp": "01:04:49",
-      "investigative_direction": "Identify the named \"church observers\" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities."
+      "investigative_direction": "Identify the named \"church observers\" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3247,7 +3271,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-404"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3267,7 +3293,9 @@
       "investigative_direction": "Verify the $20–40 million figure against Liberty University financial disclosures, the Christian Heritage Foundation 990s, and contemporaneous reporting in The Washington Times itself.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3286,7 +3314,9 @@
       "investigative_direction": "Obtain Korean court records and primary Korean-language press coverage to verify the arrest date, the specific statutes cited, and the current status of the case.",
       "mentions_person_refs": [
         "N-402"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3307,7 +3337,9 @@
         "N-402",
         "N-403",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3326,7 +3358,9 @@
       "investigative_direction": "Cross-reference against the *Liberty Lost* podcast testimony from other named residents (Abbi Johnson and others) and any internal Godparent Home policies from the 1990s.",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3345,7 +3379,9 @@
       "investigative_direction": "Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period.",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3365,7 +3401,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-401"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3384,7 +3422,9 @@
       "investigative_direction": "Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.",
       "mentions_person_refs": [
         "N-401"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3404,7 +3444,9 @@
       "mentions_person_refs": [
         "N-402",
         "N-436"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3426,7 +3468,9 @@
       "transcript_snippet": "It's a decentralized command model for the company.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3449,7 +3493,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3473,7 +3519,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3496,7 +3544,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3518,7 +3568,9 @@
       "transcript_snippet": "according to this person after Charlie got assassinated, there was a bit of a panicked meeting that took place, which was headed by the chief of police.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3540,7 +3592,9 @@
       "transcript_snippet": "they were panicked because, believe it or not, they had absolutely no security plan in place.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3562,7 +3616,9 @@
       "transcript_snippet": "So, the police chief apparently uh decided to take measures himself to make sure that the vigil went off without a hitch.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3587,7 +3643,9 @@
         "N-11",
         "N-2",
         "N-364"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3611,7 +3669,9 @@
       "transcript_snippet": "Mikey McCoy was accepted into Liberty University, but then he chose not to attend because he got the job at Turning Point USA instead",
       "mentions_person_refs": [
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3636,7 +3696,9 @@
         "N-17",
         "N-1",
         "N-439"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3661,7 +3723,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-437"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3682,7 +3746,9 @@
       "mentions_person_refs": [
         "N-437",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3704,7 +3770,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3728,7 +3796,9 @@
         "N-439",
         "N-1",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3749,7 +3819,9 @@
       "transcript_snippet": "Jerry Falwell has this huge sex scandal. He's forced to step down.",
       "mentions_person_refs": [
         "N-439"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3770,7 +3842,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3791,7 +3865,9 @@
       "transcript_snippet": "what happened after it fell apart was that they decided to instead create Turning Point Faith.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3812,7 +3888,9 @@
       "transcript_snippet": "that plane, pardon me, was formerly registered in Romania back in 2013.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3833,7 +3911,9 @@
       "transcript_snippet": "Obviously we know that Erika Kirk began the Romanian Angels project in late 2012 uh early 2013 through to 2015.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3855,7 +3935,9 @@
       "mentions_person_refs": [
         "N-489",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3876,7 +3958,9 @@
       "transcript_snippet": "They worked with the military in Romania uh to help orphans, okay?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3896,7 +3980,9 @@
       "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Busher.",
       "mentions_person_refs": [
         "N-687"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3916,7 +4002,9 @@
       "transcript_snippet": "Colonel Otto Busher was then accused of running a brothel with young children.",
       "mentions_person_refs": [
         "N-687"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3941,7 +4029,9 @@
         "N-2",
         "N-489",
         "N-687"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3963,7 +4053,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3985,7 +4077,9 @@
       "mentions_person_refs": [
         "N-450",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4006,7 +4100,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-688"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4027,7 +4123,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4048,7 +4146,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4072,7 +4172,9 @@
       "mentions_person_refs": [
         "N-94",
         "N-200"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4096,7 +4198,9 @@
       "mentions_person_refs": [
         "N-94",
         "N-200"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4116,7 +4220,9 @@
       "transcript_snippet": "was charged with running a child sex abuse ring. That is true.",
       "mentions_person_refs": [
         "N-384"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4139,7 +4245,9 @@
       ],
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4162,7 +4270,9 @@
       ],
       "mentions_person_refs": [
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4182,7 +4292,9 @@
       "transcript_snippet": "It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.",
       "mentions_person_refs": [
         "N-800"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4202,7 +4314,9 @@
       "transcript_snippet": "Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.",
       "mentions_person_refs": [
         "N-800"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4222,7 +4336,9 @@
       "transcript_snippet": "Rob McCoy who was trying to rehabilitate somebody who actually went to prison uh who said he found the Lord and decided to put him in into homes with children via Calvary Chapel.",
       "mentions_person_refs": [
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4245,7 +4361,9 @@
         "N-117",
         "N-325",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4268,7 +4386,9 @@
       ],
       "mentions_person_refs": [
         "N-237"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4289,7 +4409,9 @@
       "mentions_person_refs": [
         "N-237",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4313,7 +4435,9 @@
       "mentions_person_refs": [
         "N-61",
         "N-325"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4332,7 +4456,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-688"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4356,7 +4482,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-196"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4376,7 +4504,9 @@
       "transcript_snippet": "It's why she moved to Arizona in the first place because they had contracts with the DOD.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4396,7 +4526,9 @@
       "transcript_snippet": "And we know that her father has worked with Raytheon.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4414,7 +4546,9 @@
       "transcript_snippet": "The Farnsworth family has extensive military connections.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4432,7 +4566,9 @@
       "transcript_snippet": "Dr. Frank Turek was a naval flight officer for eight years.",
       "mentions_person_refs": [
         "N-7"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4453,7 +4589,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-682"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4473,7 +4611,9 @@
       "transcript_snippet": "inexplicably flew uh this route around UVU on the day of the assassination, just before and just after",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4491,7 +4631,9 @@
       "transcript_snippet": "Dr. Lee Trotter did his residency on an Air Force base and he also has his pilot's license.",
       "mentions_person_refs": [
         "N-195"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4511,7 +4653,9 @@
       "transcript_snippet": "The Utah medical examiner, Dr. Deirdre Amaro, is a major.",
       "mentions_person_refs": [
         "N-176"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4530,7 +4674,9 @@
       "mentions_person_refs": [
         "N-208",
         "N-246"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4554,7 +4700,9 @@
       "mentions_person_refs": [
         "N-407",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4577,7 +4725,9 @@
       "mentions_person_refs": [
         "N-407",
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4599,7 +4749,9 @@
       "transcript_snippet": "everything was fine that night and then they moved me, which was weird.",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4621,7 +4773,9 @@
       "transcript_snippet": "there was about like between 12 and 15 in one house, but you're talking anywhere from age 12 to like 21 years old",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4646,7 +4800,9 @@
       ],
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4668,7 +4824,9 @@
       "transcript_snippet": "the next morning I all of a sudden didn't have a heartbeat and I had to go in",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4690,7 +4848,9 @@
       "transcript_snippet": "Their daughter is a high uh doctor at the Liberty or at some university, some um hospital in Lynchburg, Virginia.",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4715,7 +4875,9 @@
       ],
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4737,7 +4899,9 @@
       "transcript_snippet": "I can't even find myself actually in their system.",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4759,7 +4923,9 @@
       "transcript_snippet": "They had to induce the labor. Okay. They I had to deliver.",
       "mentions_person_refs": [
         "N-407"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4783,7 +4949,9 @@
       "mentions_person_refs": [
         "N-407",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4806,7 +4974,9 @@
       "mentions_person_refs": [
         "N-407",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4831,7 +5001,9 @@
       "mentions_person_refs": [
         "N-407",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4853,7 +5025,9 @@
         "N-283",
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4873,7 +5047,9 @@
       "transcript_snippet": "By the way, the history of pageantry for those of you that don't know, it's child sex trafficking.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4895,7 +5071,9 @@
       "transcript_snippet": "The Liberty Godparent Home, a place for young, single, pregnant women, is defending itself against allegations of coercion and manipulation.",
       "supports_claim_refs": [
         "C-4786"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4914,7 +5092,9 @@
       ],
       "claim_timestamp": "00:35:05",
       "investigative_direction": "Contact the Liberty Lost podcast team for the number and dates of resident accounts.",
-      "transcript_snippet": "For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008."
+      "transcript_snippet": "For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4937,7 +5117,9 @@
       "mentions_person_refs": [
         "N-405",
         "N-406"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4962,7 +5144,9 @@
       ],
       "mentions_person_refs": [
         "N-405"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4984,7 +5168,9 @@
       "transcript_snippet": "The Godparent Home declined my request for an interview but sent a statement saying in part quote,",
       "mentions_person_refs": [
         "N-406"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5009,7 +5195,9 @@
       ],
       "mentions_person_refs": [
         "N-406"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5031,7 +5219,9 @@
       "transcript_snippet": "I reached out to them multiple times for comment about the allegations in the podcast.",
       "mentions_person_refs": [
         "N-406"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5051,7 +5241,9 @@
       "transcript_snippet": "I have spoken at Liberty University multiple times and I promise you, I never thought once to look up their origin story.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5077,7 +5269,9 @@
       "mentions_person_refs": [
         "N-401",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5099,7 +5293,9 @@
       "transcript_snippet": "and he killed the cat and then he cooked the cat and then he delivered the remains of the cat to the employee's house for lunch.",
       "mentions_person_refs": [
         "N-401"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5122,7 +5318,9 @@
       "mentions_person_refs": [
         "N-401",
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5142,7 +5340,9 @@
       "transcript_snippet": "He became a televangelist and he established Lynchburg College in 1971, which would eventually change its name to Liberty University",
       "mentions_person_refs": [
         "N-398"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5168,7 +5368,9 @@
       "mentions_person_refs": [
         "N-398",
         "N-400"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5193,7 +5395,9 @@
         "N-36",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5214,7 +5418,9 @@
       "mentions_person_refs": [
         "N-9",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5237,7 +5443,9 @@
       "transcript_snippet": "And how Liberty University might be connected to the drug smuggling military base he's referring to Fort Huachuca",
       "supports_claim_refs": [
         "C-4405"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5261,7 +5469,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5282,7 +5492,9 @@
       "mentions_person_refs": [
         "N-399",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5305,7 +5517,9 @@
       "transcript_snippet": "Those include The Washington Times Washington Times newspaper a video production firm, a stately old church once the pride of the Mormons along 16th Street Northwest.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5327,7 +5541,9 @@
       "transcript_snippet": "This vast and bewildering multinational could be called Moon Inc.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5349,7 +5565,9 @@
       "transcript_snippet": "Washington area property owned by the church, its affiliated companies or senior church officials is worth more than 200 million dollars, according to property and corporate records.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5370,7 +5588,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5392,7 +5612,9 @@
       "transcript_snippet": "Ideas without the money to back them up are just dreams",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5418,7 +5640,9 @@
       ],
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5443,7 +5667,9 @@
       ],
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5465,7 +5691,9 @@
       "transcript_snippet": "have eluded investigators on three continents over the past three decades.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5486,7 +5714,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5508,7 +5738,9 @@
       "transcript_snippet": "Yeah, South Korean Christian Zionists open the country's first Holocaust Museum.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5531,7 +5763,9 @@
       "transcript_snippet": "inviting professors, clergy, media executives and other opinion shapers to meetings all expenses paid.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5554,7 +5788,9 @@
         "N-17",
         "N-205",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5576,7 +5812,9 @@
       "transcript_snippet": "They'll have a conference on the essence of religious founders like Buddha, Jesus and then Moon who gets a room full of academics to sit there.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5596,7 +5834,9 @@
       "transcript_snippet": "when I worked for the Daily Wire, they used to bring me companies like ad reads and they brought me the International Fellowship of Christian and Jews to read ads for.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5616,7 +5856,9 @@
       "transcript_snippet": "This doesn't feel like a fellowship. So, no.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5639,7 +5881,9 @@
       "transcript_snippet": "shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5661,7 +5905,9 @@
       "transcript_snippet": "said he believed that virtually none of the uni- Unification's US operations is profitable.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5683,7 +5929,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5708,7 +5956,9 @@
       ],
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5730,7 +5980,9 @@
       "transcript_snippet": "Rev Moon sent bags of cash, big fat bags, stacks and stacks of hundreds from Korea and Japan to Manhattan Center.",
       "mentions_person_refs": [
         "N-399"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5751,7 +6003,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5774,7 +6028,9 @@
         "N-3",
         "N-17",
         "N-190"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5800,7 +6056,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-402"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5827,7 +6085,9 @@
         "N-403",
         "N-1",
         "N-402"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5849,7 +6109,9 @@
       "transcript_snippet": "the organization Advocates for Faith and Freedom has launched a petition for a fair legal process in Pastor Son's case.",
       "mentions_person_refs": [
         "N-402"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5875,7 +6137,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5896,7 +6160,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5918,7 +6184,9 @@
         "N-270",
         "N-487",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5938,7 +6206,9 @@
       "transcript_snippet": "he has a very complicated history. We haven't even gone into him, uh his history of the DOD, his family's history.",
       "mentions_person_refs": [
         "N-487"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5957,7 +6227,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5978,7 +6250,9 @@
       "mentions_person_refs": [
         "N-681",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -5998,7 +6272,9 @@
       "transcript_snippet": "until I feel totally certain about how it was accomplished, I don't want to produce a theory",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6021,7 +6297,9 @@
       "transcript_snippet": "I suggested uh that it was trafficking when I started looking at the route of the Egyptian planes",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6044,7 +6322,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6065,7 +6345,9 @@
       "mentions_person_refs": [
         "N-799",
         "N-10000"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6086,7 +6368,9 @@
       "mentions_person_refs": [
         "N-799",
         "N-449"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6112,7 +6396,9 @@
       "mentions_person_refs": [
         "N-799",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6134,7 +6420,9 @@
       "mentions_person_refs": [
         "N-66",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6158,7 +6446,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6182,7 +6472,9 @@
       "mentions_person_refs": [
         "N-17",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -6201,7 +6493,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -2269,7 +2269,9 @@
       "investigative_direction": "Verify identity of grandfather from court records and confirm whether his position is consistent with or divergent from other Robinson family members' stated positions.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2288,9 @@
       "investigative_direction": "Verify great-grandfather's law enforcement service in the relevant town and the claimed ballistics instruction.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2305,7 +2309,9 @@
       "investigative_direction": "Obtain forensic pathology documentation regarding the actual wound and compare to documented .30-06 ballistic profile.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2325,7 +2331,9 @@
       "investigative_direction": "Confirm whether data files have subsequently been produced; review any docket entries reflecting discovery status.",
       "mentions_person_refs": [
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2344,7 +2352,9 @@
       "investigative_direction": "Request the September 2025 DNA reports via public records or docket inspection.",
       "mentions_person_refs": [
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2364,7 +2374,9 @@
       "mentions_person_refs": [
         "N-826",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2395,9 @@
       "investigative_direction": "Confirm physical location of the firearm and whether defense examination has occurred as of case docket.",
       "mentions_person_refs": [
         "N-826"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2402,7 +2416,9 @@
       "investigative_direction": "Determine jurisdictional basis for federal custody of evidence in a state case; check transfer records.",
       "mentions_person_refs": [
         "N-826"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2419,7 +2435,9 @@
       "tags": [],
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Obtain probable cause hearing exhibit list when filed.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2439,7 +2457,9 @@
         "N-3",
         "N-5",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2457,7 +2477,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2476,7 +2498,9 @@
       "investigative_direction": "Verify the email's authenticity; cross-reference with police or DHS records regarding threats.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2495,7 +2519,9 @@
       "investigative_direction": "Retrieve full Newsweek article and inspect specific claims and named sources.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2514,7 +2540,9 @@
       "investigative_direction": "Retrieve Daily Beast article; check named sources.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2533,7 +2561,9 @@
       "investigative_direction": "Retrieve full Arizona Republic article.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2554,7 +2584,9 @@
         "N-60",
         "N-426",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2573,7 +2605,9 @@
       "investigative_direction": "Verify date and source of the video; consider whether the inference (not raised Jewish) is supportable by the artifact alone.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2593,7 +2627,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2613,7 +2649,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2633,7 +2671,9 @@
       "mentions_person_refs": [
         "N-89",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2654,7 +2694,9 @@
         "N-3",
         "N-60",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2673,7 +2715,9 @@
       "investigative_direction": "Pull the underlying court filing in Davidson County, Tennessee.",
       "mentions_person_refs": [
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2692,7 +2736,9 @@
       "investigative_direction": "Verify source and date of video; identify the individual.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2709,7 +2755,9 @@
       "investigative_direction": "Cross-reference with prior episodes where similar claims have been made; corroborate via documentary sources.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2728,7 +2776,9 @@
       "investigative_direction": "Identify Tyler Robinson's roommate from public records; check his status and any investigative attention.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2745,7 +2795,9 @@
       "investigative_direction": "Retrieve the Utah state court filing directly via docket search.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2768,7 +2820,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2788,7 +2842,9 @@
       "transcript_snippet": "The one that the feds led the police officers to, the rookie police officers to, after the dogs had already searched that particular area.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2811,7 +2867,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-6"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2834,7 +2892,9 @@
       "mentions_person_refs": [
         "N-6",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2857,7 +2917,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +2939,9 @@
       "transcript_snippet": "the news did not actually release a photo of grandpa's gun. They just release a photo of something similar.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2897,7 +2961,9 @@
       "transcript_snippet": "That his father does not believe that he did it. His grandmother has uh spoken to journalists and she said that she does not believe that he did it.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2919,7 +2985,9 @@
       "mentions_person_refs": [
         "N-272",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2941,7 +3009,9 @@
       "transcript_snippet": "He and his family were told that they were going to make an arrest either way.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2961,7 +3031,9 @@
       "transcript_snippet": "It's his gun, right? It's a family heirloom. It is his gun or was his gun before it was passed down to Tyler Robinson.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2983,7 +3055,9 @@
       "transcript_snippet": "for clarity grandpa asserts that he himself is a hunter.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3008,7 +3082,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3031,7 +3107,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3053,7 +3131,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3077,7 +3157,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3100,7 +3182,9 @@
       "transcript_snippet": "No, we we we're not ready to meet in May because we're not being given what we're asking for.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3122,7 +3206,9 @@
         "N-2",
         "N-278",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3143,7 +3229,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3165,7 +3253,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3190,7 +3280,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3214,7 +3306,9 @@
       "transcript_snippet": "why they provided it in the last 3 weeks, and why the FBI still hasn't.",
       "mentions_person_refs": [
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3238,7 +3332,9 @@
       "transcript_snippet": "Mr. McBride says, \"Oh, there's two different things, and so they're both right because they each independently reach the same conclusion, but they're testing different objects in different labs with different protocols.",
       "mentions_person_refs": [
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3261,7 +3357,9 @@
       "transcript_snippet": "It should have all been produced some of it 6 months ago because we have DNA reports from September of 2025",
       "mentions_person_refs": [
         "N-425"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3284,7 +3382,9 @@
       "transcript_snippet": "They instantly came out and said this is our guy, 33 hours, and they were basing it on evidence, and for some reason they were unable to get that evidence over to the defense.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3305,7 +3405,9 @@
       "transcript_snippet": "Well, of course, we were first told that those were Discord messages, but now they are text messages",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3329,7 +3431,9 @@
       "mentions_person_refs": [
         "N-826",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3350,7 +3454,9 @@
       "transcript_snippet": "the FBI immediately interjected. They took over everything on September 10th. They handled all of the interviews.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3374,7 +3480,9 @@
       "transcript_snippet": "the SBI is waiting for the FBI, Kash Patel's agency, to send them over their many discovery requests from everything they gathered on that day",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3397,7 +3505,9 @@
       "transcript_snippet": "We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.",
       "mentions_person_refs": [
         "N-826"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3418,7 +3528,9 @@
       "transcript_snippet": "the prosecution, [clears throat] Erika's team, cuz she's listed as the victim, is arguing against a continuance.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3438,7 +3550,9 @@
       "transcript_snippet": "Continuances are basically like common courtesies when you're this early on in a lawsuit, right?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3459,7 +3573,9 @@
       "transcript_snippet": "especially since they all agreed early on that they were happy to adjust the date if they did not get the discovery met, okay?",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3484,7 +3600,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3505,7 +3623,9 @@
       "transcript_snippet": "They want to demand cameras inside of the courtroom, and then deliver the show trial, the show hearing of the century, right?",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3526,7 +3646,9 @@
       "transcript_snippet": "I am in contact with many people all throughout the state of Utah, okay? I think they want a show trial. I think Erika's team wants a show trial.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3546,7 +3668,9 @@
       "transcript_snippet": "an increasingly plausibly innocent young man, 22-year-old, to his death. Okay? He is facing the death sentence.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3564,7 +3688,9 @@
       "transcript_snippet": "they're getting paid to influence people that way. Clearing a 5K check, 7K check, I'll take it.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3588,7 +3714,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3612,7 +3740,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3633,7 +3763,9 @@
       "transcript_snippet": "since we all know that the real reason that she canceled the event at the University of Georgia was because of the crowd size, this makes perfect sense.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3655,7 +3787,9 @@
       "transcript_snippet": "the very first thing that she said when she came out onto the stage with her preferred WWE music was this.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3678,7 +3812,9 @@
       "transcript_snippet": ">> >> Welcome. Look at this crowd. >> >> That's what it's about. That is what it's about. It's about the crowd.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3699,7 +3835,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3722,7 +3860,9 @@
       "transcript_snippet": "her Turning Point team canceled her appearance at Pinnacle High School which was slated to appear was slated to occur this week. But they canceled on Friday.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3750,7 +3890,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3774,7 +3916,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3793,7 +3937,9 @@
       "mentions_person_refs": [
         "N-268",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3812,7 +3958,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3831,7 +3979,9 @@
       "mentions_person_refs": [
         "N-6",
         "N-533"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3854,7 +4004,9 @@
       ],
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3876,7 +4028,9 @@
       "transcript_snippet": "I'm on Air Force One heading to Las Vegas and Arizona for greetings and speeches on no tax on tips, a windfall for our great American citizens.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3899,7 +4053,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-916"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3922,7 +4078,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-916"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3945,7 +4103,9 @@
       "transcript_snippet": "He's definitely not writing these. Just so you guys, this isn't even how he speaks.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3968,7 +4128,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3989,7 +4151,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4010,7 +4174,9 @@
         "N-60",
         "N-193",
         "N-917"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4029,7 +4195,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4053,7 +4221,9 @@
       "mentions_person_refs": [
         "N-60",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4076,7 +4246,9 @@
       ],
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4098,7 +4270,9 @@
       "transcript_snippet": "She only learned how to draw a Star of David a couple of years ago when she was running for Congress.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4122,7 +4296,9 @@
       ],
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4142,7 +4318,9 @@
       "transcript_snippet": "Uh because she has had multiple suicide attempts.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4163,7 +4341,9 @@
       "transcript_snippet": "She attempted uh recently to file an appeal with the FBI uh to reverse the banning on her owning weapons, and they declined to remove it",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4186,7 +4366,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4208,7 +4390,9 @@
         "N-599",
         "N-60",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4228,7 +4412,9 @@
       "transcript_snippet": "uh she often says that she's going to commit suicide as a threat when she doesn't get what she wants.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4248,7 +4434,9 @@
       "transcript_snippet": "has been repeatedly accused since the beginning of her career of raping and sexually assaulting men.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4271,7 +4459,9 @@
       "mentions_person_refs": [
         "N-426",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4297,7 +4487,9 @@
       "mentions_person_refs": [
         "N-426",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4323,7 +4515,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4349,7 +4543,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4375,7 +4571,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4398,7 +4596,9 @@
       "mentions_person_refs": [
         "N-220",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4418,7 +4618,9 @@
       "transcript_snippet": "There are women who have spoken out and said that they that this is real, that she has assaulted many men.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4438,7 +4640,9 @@
       "transcript_snippet": "she has never sued any of these people for putting this information out there. Instead, she just blocks them.",
       "mentions_person_refs": [
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4460,7 +4664,9 @@
         "N-60",
         "N-5",
         "N-914"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4480,7 +4686,9 @@
         "N-3",
         "N-60",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4500,7 +4708,9 @@
         "N-3",
         "N-60",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4524,7 +4734,9 @@
         "N-30",
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4547,7 +4759,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4573,7 +4787,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-60"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4594,7 +4810,9 @@
       "mentions_person_refs": [
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4615,7 +4833,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-30"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4641,7 +4861,9 @@
       "mentions_person_refs": [
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4663,7 +4885,9 @@
         "N-60",
         "N-5",
         "N-915"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4683,7 +4907,9 @@
       "transcript_snippet": "I think he uh, in the last week of his life, he was starting to put together a lot of pieces. Uh, but still some trusted some people that he obviously shouldn't have.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4704,7 +4930,9 @@
       "transcript_snippet": "What did Tyler Robinson do actually? We're trying to find out and it certainly has not yet been presented throughout these hearings.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4727,7 +4955,9 @@
       "transcript_snippet": "I think there were multiple Tyler Robinson look-alikes and um, they were wearing maroon shirts and wearing hats and wearing what they were supposed to wear",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4750,7 +4980,9 @@
       "transcript_snippet": "And that footage apparently doesn't exist either because they had speculated that someone would have had to do some recon, maybe be on this roof.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4774,7 +5006,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4795,7 +5029,9 @@
       "transcript_snippet": "Maybe because he didn't go there first, maybe because there's evidence that Charlie actually went to Utah Valley Hospital first.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4813,7 +5049,9 @@
       "transcript_snippet": "I think that we are we are in the truth era and people that are lying are going to face a collapse of support.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4839,7 +5077,9 @@
       ],
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4865,7 +5105,9 @@
       ],
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4885,7 +5127,9 @@
       "transcript_snippet": "Yep and don't forget I spoke with Lance Twiggs family.",
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4909,7 +5153,9 @@
       ],
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4933,7 +5179,9 @@
       ],
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4956,7 +5204,9 @@
       "transcript_snippet": "Also tomorrow we will have for you that my producer discovered that they're making slight edits to the text messages.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4979,7 +5229,9 @@
       "transcript_snippet": "they're dropping new text messages making some slight edits to the old ones.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

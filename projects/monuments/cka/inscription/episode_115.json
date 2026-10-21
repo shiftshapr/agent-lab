@@ -1660,7 +1660,9 @@
       "mentions_person_refs": [
         "N-105",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1681,7 +1683,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1701,7 +1705,9 @@
       "transcript_snippet": "Oh, and even one more local law enforcement climbed up the ladder and the guy pointed a gun at him and he just walked away.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1721,7 +1727,9 @@
       "transcript_snippet": "No one has resigned and no one will probably be held accountable.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1743,7 +1751,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1763,7 +1773,9 @@
         "N-2",
         "N-270",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1783,7 +1795,9 @@
       "transcript_snippet": "There was a man named Mark A. Leiti, and he died in a rather bizarre accident. Uh the initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded.",
       "mentions_person_refs": [
         "N-675"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1804,7 +1818,9 @@
       "mentions_person_refs": [
         "N-676",
         "N-675"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1823,7 +1839,9 @@
       "transcript_snippet": "Mark Liti, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.",
       "mentions_person_refs": [
         "N-675"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1839,7 +1857,9 @@
       "tags": [],
       "claim_timestamp": "00:07:51",
       "investigative_direction": "Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.",
-      "transcript_snippet": "Because that technique requires the use of a very specific explosive. known as PE TN."
+      "transcript_snippet": "Because that technique requires the use of a very specific explosive. known as PE TN.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1858,7 +1878,9 @@
       "transcript_snippet": "Allegedly, Mark Liti had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
       "mentions_person_refs": [
         "N-675"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1878,7 +1900,9 @@
       "mentions_person_refs": [
         "N-675",
         "N-677"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1896,7 +1920,9 @@
       "transcript_snippet": "What I do know is what happened on July 13th, 2024, just 30 minutes away um from Ken Kiddening, Pennsylvania.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1915,7 +1941,9 @@
       "mentions_person_refs": [
         "N-105",
         "N-675"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1934,7 +1962,9 @@
       "transcript_snippet": "So, they were quite surprised when while waiting in a large crowd, an unknown woman asked them if they'd like to be escorted to the very front.",
       "mentions_person_refs": [
         "N-105"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1955,7 +1985,9 @@
       ],
       "mentions_person_refs": [
         "N-105"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1973,7 +2005,9 @@
       "transcript_snippet": "It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.",
       "mentions_person_refs": [
         "N-675"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1990,7 +2024,9 @@
       "tags": [],
       "claim_timestamp": "00:12:21",
       "investigative_direction": "Compare with Lebanese Health Ministry casualty figures for September 17–18, 2024.",
-      "transcript_snippet": "there was a massive series of pager explosions across Lebanon and Syria, wounding more than 3,000 people and killing 12 people, including two children."
+      "transcript_snippet": "there was a massive series of pager explosions across Lebanon and Syria, wounding more than 3,000 people and killing 12 people, including two children.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2013,7 +2049,9 @@
       "mentions_person_refs": [
         "N-10899",
         "N-10895"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2040,7 +2078,9 @@
         "N-10015",
         "N-10026",
         "N-10640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2063,7 +2103,9 @@
       "mentions_person_refs": [
         "N-10015",
         "N-10640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2086,7 +2128,9 @@
       "mentions_person_refs": [
         "N-10895",
         "N-10898"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2103,7 +2147,9 @@
       "tags": [],
       "claim_timestamp": "00:20:06",
       "investigative_direction": "Identify the channel and original upload and compare with ballistic and explosive test data.",
-      "transcript_snippet": "It's about the same as a gunshot from a 306 if you shot it against that bulletproof."
+      "transcript_snippet": "It's about the same as a gunshot from a 306 if you shot it against that bulletproof.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2123,7 +2169,9 @@
       "transcript_snippet": "In fact, it was published back in May of 2025. Charlie was very much alive.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2145,7 +2193,9 @@
       "transcript_snippet": "especially given the persistent conspiracy theory that Charlie's road mic was rigged with PETN explosive.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2217,9 @@
       "mentions_person_refs": [
         "N-36",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2187,7 +2239,9 @@
       "mentions_person_refs": [
         "N-678",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2202,7 +2256,9 @@
       "tags": [],
       "claim_timestamp": "00:22:34",
       "investigative_direction": "Check US arms-transfer records and human rights reports on white phosphorus munitions supplied to Israel.",
-      "transcript_snippet": "we are, after all, supplying Israel with white phosphorus, the chemical to burn Lebanese civilians alive."
+      "transcript_snippet": "we are, after all, supplying Israel with white phosphorus, the chemical to burn Lebanese civilians alive.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2224,7 +2280,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-378"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2242,7 +2300,9 @@
       "transcript_snippet": "The widow of Corey Comperatore and the family of Cory Comparator is not like Trump. They are not satisfied with the investigation.",
       "mentions_person_refs": [
         "N-105"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2263,7 +2323,9 @@
       "transcript_snippet": "because there was this FBI plane, definitively an FBI plane um that landed into Salt Lake City, Utah on September 8th.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2343,9 @@
       "transcript_snippet": "remember he first went to Salt Lake City on the morning of the 10th, which I found to be very unusual",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2302,7 +2366,9 @@
       "transcript_snippet": "Uh, but it leaves Richmond, Virginia at 9:50 a. m. It gets into Salt Lake at 12:00 p. m. And then it departs Salt Lake just an hour later.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2325,7 +2391,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2343,7 +2411,9 @@
       "transcript_snippet": "In fact, we're we're even paying for his girlfriend's security.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2365,7 +2435,9 @@
       "transcript_snippet": "Unfortunately, here's what we received back. Please be advised that unusual circumstances apply to the processing of your request.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2387,7 +2459,9 @@
       "mentions_person_refs": [
         "N-159",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2410,7 +2484,9 @@
         "N-14",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2430,7 +2506,9 @@
         "N-268",
         "N-679",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2452,7 +2530,9 @@
         "N-2",
         "N-665",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2474,7 +2554,9 @@
       "transcript_snippet": "Why the Department of War is saying this needs to be the number one clip by morning within an hour of that taking place.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2493,7 +2575,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2516,7 +2600,9 @@
         "N-1",
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2536,7 +2622,9 @@
         "N-22",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2559,7 +2647,9 @@
         "N-37",
         "N-36",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2670,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2601,7 +2693,9 @@
         "N-22",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2622,7 +2716,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2642,7 +2738,9 @@
         "N-2",
         "N-17",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2662,7 +2760,9 @@
         "N-22",
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2680,7 +2780,9 @@
         "N-97",
         "N-624",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

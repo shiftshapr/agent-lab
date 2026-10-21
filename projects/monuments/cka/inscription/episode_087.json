@@ -2549,7 +2549,9 @@
       "mentions_person_refs": [
         "N-28",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2572,9 @@
         "N-1",
         "N-69",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2590,7 +2594,9 @@
       "mentions_person_refs": [
         "N-69",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2611,7 +2617,9 @@
       "mentions_person_refs": [
         "N-410",
         "N-411"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2630,7 +2638,9 @@
       "investigative_direction": "Verify current rank and command assignment via official military biography.",
       "mentions_person_refs": [
         "N-411"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2651,7 +2661,9 @@
       "mentions_person_refs": [
         "N-411",
         "N-412"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2668,7 +2680,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:43–00:16:05",
-      "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline."
+      "investigative_direction": "Retrieve the raw USA Spending entries for Built Inc. by UEI, confirm contract amounts and dates against Baron Coleman's timeline.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2687,7 +2701,9 @@
       "investigative_direction": "Confirm employment and BYU degree via LinkedIn and university alumni records; investigate \"Romney\" family-tie claim.",
       "mentions_person_refs": [
         "N-413"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2705,7 +2721,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-414"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2722,7 +2740,9 @@
       "tags": [],
       "claim_timestamp": "00:32:26–00:33:30",
       "investigative_direction": "Retrieve the 2004 NAS report and 2007 WaPo article in full; verify FBI's formal abandonment date.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2741,7 +2761,9 @@
       "investigative_direction": "Obtain court filings and ATF lab reports in the Robinson case to confirm whether CBLA is being used or referenced.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2759,7 +2781,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2779,7 +2803,9 @@
         "N-412",
         "N-414",
         "N-413"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2796,6 +2822,10 @@
       "investigative_direction": "Confirm via Timpanogos press releases, LinkedIn, or Utah business filings.",
       "mentions_person_refs": [
         "N-134"
+      ],
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-10996"
       ]
     },
     {
@@ -2811,7 +2841,9 @@
       "investigative_direction": "Verify via Medical City Healthcare press releases or LinkedIn employment history.",
       "mentions_person_refs": [
         "N-134"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2829,7 +2861,9 @@
       "mentions_person_refs": [
         "N-134",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2843,7 +2877,9 @@
       ],
       "tags": [],
       "claim_timestamp": "00:24:39–00:25:43",
-      "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record."
+      "investigative_direction": "Obtain corroborating documentation; on-screen artifact required to elevate from claim to inscribed record.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2859,7 +2895,9 @@
       "tags": [],
       "claim_timestamp": "00:26:30",
       "investigative_direction": "Identify Metro One Talent corporate records and any government contract listings.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2877,7 +2915,9 @@
       "mentions_person_refs": [
         "N-134",
         "N-417"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2896,7 +2936,9 @@
       "investigative_direction": "Confirm via BYU athletics records and class roster.",
       "mentions_person_refs": [
         "N-942"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2914,7 +2956,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2931,7 +2975,9 @@
       "investigative_direction": "Obtain the actual mailer from recipients; verify whether the image is from the funeral or another event.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2951,7 +2997,9 @@
       "investigative_direction": "Verify via marriage records, family genealogical databases, or corroborating viewer emails with documentation.",
       "mentions_person_refs": [
         "N-942"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2968,7 +3016,9 @@
         "N-134",
         "N-416",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2985,7 +3035,9 @@
         "N-134",
         "N-415",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3000,7 +3052,9 @@
       "tags": [],
       "claim_timestamp": "00:47:08–00:48:01",
       "investigative_direction": "Identify any open-source reporting on BYU recruitment ties.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3017,7 +3071,9 @@
       "tags": [],
       "claim_timestamp": "00:47:08",
       "investigative_direction": "Retrieve the actual 2009 paper and verify the journal of publication and peer review status.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3036,7 +3092,9 @@
       "investigative_direction": "Identify the document set being referenced and any pending defense motions for discovery.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3059,7 +3117,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3082,7 +3142,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3108,7 +3170,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3134,7 +3198,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3155,7 +3221,9 @@
       "transcript_snippet": "an organization that is already pulling in $100 million per year to the next level?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3178,7 +3246,9 @@
         "N-3",
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3201,7 +3271,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3223,7 +3295,9 @@
       "transcript_snippet": "as I began prodding the narrative of the Egyptian planes, it was revealed to me that there clearly is a connection to Israel and Utah",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3244,7 +3318,9 @@
       "transcript_snippet": "increasingly strange to me that we have no eyewitnesses inside of the hospital regarding September 10th.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3266,7 +3342,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3290,7 +3368,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-6"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3314,7 +3394,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-6"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3336,7 +3418,9 @@
         "N-3",
         "N-6",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3358,7 +3442,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3380,7 +3466,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3405,7 +3493,9 @@
         "N-3",
         "N-69",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3428,7 +3518,9 @@
         "N-3",
         "N-410",
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3453,7 +3545,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-42"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3473,7 +3567,9 @@
       "transcript_snippet": "the responding police officers, who said they felt like they were intentionally being sent all around, were sent essentially off of the trail of the true assassin.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3498,7 +3594,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3520,7 +3618,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-361"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3542,7 +3642,9 @@
       "transcript_snippet": "the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3565,7 +3667,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3586,7 +3690,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-707"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3609,7 +3715,9 @@
       "transcript_snippet": "you should know that this company receives funding from the Department of Defense. Okay, contracts from the Department of Defense.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3632,7 +3740,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3655,7 +3765,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3678,7 +3790,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3700,7 +3814,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3723,7 +3839,9 @@
         "N-3",
         "N-330",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3748,7 +3866,9 @@
         "N-3",
         "N-412",
         "N-413"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3775,7 +3895,9 @@
         "N-410",
         "N-412",
         "N-413"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3799,7 +3921,9 @@
         "N-3",
         "N-414",
         "N-410"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3823,7 +3947,9 @@
         "N-3",
         "N-413",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3848,7 +3974,9 @@
         "N-40",
         "N-414",
         "N-330"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3869,7 +3997,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3890,7 +4020,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3913,7 +4045,9 @@
         "N-3",
         "N-411",
         "N-412"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3938,7 +4072,9 @@
         "N-410",
         "N-414",
         "N-413"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3959,7 +4095,9 @@
       "transcript_snippet": "this person told me is where the elite of the Mormon culture, the the cream of the pie, they get introduced to one another.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3982,7 +4120,9 @@
         "N-3",
         "N-134",
         "N-415"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4007,7 +4147,9 @@
         "N-3",
         "N-134",
         "N-417"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4030,7 +4172,9 @@
         "N-3",
         "N-942",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4056,7 +4200,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-61"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4078,7 +4224,9 @@
         "N-3",
         "N-40",
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4103,7 +4251,9 @@
         "N-3",
         "N-61",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4132,7 +4282,9 @@
         "N-3",
         "N-942",
         "N-128"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4155,7 +4307,9 @@
       "transcript_snippet": "That footprint is mentioned in the document yesterday. The footprint.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4180,7 +4334,9 @@
         "N-3",
         "N-942",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4202,7 +4358,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-942"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4222,7 +4380,9 @@
       "transcript_snippet": "You're not going to believe me, but the Sears company is also involved.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4245,7 +4405,9 @@
         "N-3",
         "N-134",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4268,7 +4430,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-707"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4291,7 +4455,9 @@
       "transcript_snippet": "decades of FBI statements to jurors linking a particular bullet to those found in a suspect's gun or cartridge box were so overstated that such testimony should be considered misleading under the federal rules of evidence.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4313,7 +4479,9 @@
       "transcript_snippet": "The ATF says it's inconclusive which is the best they could do",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4334,7 +4502,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-707"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4356,7 +4526,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4379,7 +4551,9 @@
         "N-3",
         "N-28",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4402,7 +4576,9 @@
         "N-3",
         "N-942",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4425,7 +4601,9 @@
         "N-3",
         "N-261",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4448,7 +4626,9 @@
         "N-3",
         "N-1",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4470,7 +4650,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4492,7 +4674,9 @@
       "transcript_snippet": "every time there was like a kerfuffle in Israel, little war, Israel people are are bombing Israel, it suddenly these Egyptian planes were carrying someone from Israel to Provo.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4514,7 +4698,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4538,7 +4724,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4558,7 +4746,9 @@
       "transcript_snippet": "They've got a whole underground city in Provo. More on that later.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4580,7 +4770,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4607,7 +4799,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4631,7 +4825,9 @@
         "N-2",
         "N-261",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4652,7 +4848,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4675,7 +4873,9 @@
       "transcript_snippet": "my producer has a note that the RNC altered the convention rules to bind delegates in future elections to vote for the candidate who wins their state's primary caucus or caucus.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4699,7 +4899,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-710"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4720,7 +4922,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4742,7 +4946,9 @@
       "transcript_snippet": "With the Manson murders, this is what the narrative was. Then you're like, \"Wait, but everything did not happen that way. It's like the opposite.\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4766,7 +4972,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4788,7 +4996,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4817,7 +5027,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4841,7 +5053,9 @@
         "N-209",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4869,7 +5083,9 @@
         "N-3",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -4892,7 +5108,9 @@
         "N-2",
         "N-1",
         "N-707"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

@@ -1726,7 +1726,9 @@
       "mentions_person_refs": [
         "N-631",
         "N-82"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1743,7 +1745,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-638"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1761,7 +1765,9 @@
       "transcript_snippet": "Apparently, another one and another one happened this weekend at the White House. Uh perpetrator fired bullets. He was killed.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1780,7 +1786,9 @@
       "transcript_snippet": "Making an Erika Kirk clip go viral describing her as an emotional asset, making sure this is number one overnight, reach out to the surrogates, get this thing going. We're talking like an hour after the shooting.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1801,7 +1809,9 @@
       "transcript_snippet": "But we noticed that specific language, that specific verbiage, that specific denial. The White House Military Office did not draft the email.",
       "mentions_person_refs": [
         "N-10582"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1821,7 +1831,9 @@
       "transcript_snippet": "We then learned that multiple offices within the DOD have access to various distribution lists.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1841,7 +1853,9 @@
       "transcript_snippet": "Did you get this email, Steve? Cuz I see you were CC'd on the original one.\" And poof.",
       "mentions_person_refs": [
         "N-160"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1864,7 +1878,9 @@
       "mentions_person_refs": [
         "N-10637",
         "N-10844"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1884,7 +1900,9 @@
       "transcript_snippet": "You know, rather than denying the existence of the email, they redirected it to Pete Hegseth's office.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1905,7 +1923,9 @@
       "mentions_person_refs": [
         "N-82",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1928,7 +1948,9 @@
         "N-266",
         "N-224",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1949,7 +1971,9 @@
         "N-361",
         "N-266",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1969,7 +1993,9 @@
       "mentions_person_refs": [
         "N-361",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1986,7 +2012,11 @@
       "tags": [],
       "claim_timestamp": "00:09:42",
       "investigative_direction": "ADS-B and FAA flight records for the aircraft using call sign SAM 702 on September 9, 2025.",
-      "transcript_snippet": "on September 9th, it left Fort Huachuca at 11:43 a. m. local time. Um and it flew to El Paso, Texas."
+      "transcript_snippet": "on September 9th, it left Fort Huachuca at 11:43 a. m. local time. Um and it flew to El Paso, Texas.",
+      "verification_status": "revised-by-host",
+      "verification_evidence": [
+        "C-9913"
+      ]
     },
     {
       "@type": "Claim",
@@ -2006,7 +2036,9 @@
       "transcript_snippet": "he attempted to drop some alibi of I flew out at 2:30 in the afternoon from Texas uh up to Utah, Salt Lake City.",
       "mentions_person_refs": [
         "N-266"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2023,7 +2055,9 @@
       "tags": [],
       "claim_timestamp": "00:10:53",
       "investigative_direction": "USAF 89th Airlift Wing mission records and passenger manifest for SAM 702 on September 9, 2025.",
-      "transcript_snippet": "Then that plane flies from El Paso to Andrews Air Force Base, Washington, D. C. Now, the reason that flight was relevant and caught a lot of attention early on was because it used a SAM call sign, SAM 702."
+      "transcript_snippet": "Then that plane flies from El Paso to Andrews Air Force Base, Washington, D. C. Now, the reason that flight was relevant and caught a lot of attention early on was because it used a SAM call sign, SAM 702.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2043,7 +2077,9 @@
       "transcript_snippet": "I checked Pete Hegseth's schedule on September 9th. He was in Washington, D. C. at 3:00 p. m. uh greeting Singapore's Minister of Defense.",
       "mentions_person_refs": [
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2064,7 +2100,9 @@
       "transcript_snippet": "Kash Patel, however, we have absolutely no indication where Kash Patel was on September 9th. Truly. And it's interesting cuz that SAM character is flying around Las Vegas.",
       "mentions_person_refs": [
         "N-69"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2121,9 @@
       "transcript_snippet": "Uh so, I decided, \"Hey, we should probably file an FOIA request.\"",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2102,7 +2142,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-591"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2124,7 +2166,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2147,7 +2191,9 @@
         "N-639",
         "N-641",
         "N-640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2169,7 +2215,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2190,7 +2238,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-213"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2211,7 +2261,9 @@
       "transcript_snippet": "I was then given a Dropbox link containing research, polling data, internal comments, and strategy material compiled by the FT and the third party involved. Inside the Dropbox were seven folders.",
       "mentions_person_refs": [
         "N-639"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2238,7 +2290,9 @@
         "N-642",
         "N-130",
         "N-643"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2314,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-209"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2281,7 +2337,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2302,7 +2360,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2325,7 +2385,9 @@
         "N-201",
         "N-163",
         "N-101"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2347,7 +2409,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-644"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2367,7 +2431,9 @@
         "N-3",
         "N-437",
         "N-593"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2387,7 +2453,9 @@
       "mentions_person_refs": [
         "N-209",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2408,7 +2476,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-4"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2429,7 +2499,9 @@
       "transcript_snippet": "The documents uh also discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing, and ideological audience segmentation.",
       "mentions_person_refs": [
         "N-639"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2448,7 +2520,9 @@
       "mentions_person_refs": [
         "N-639",
         "N-640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2464,7 +2538,9 @@
       "transcript_snippet": "he didn't even get cleared in the first administration because of his past and to to British intelligence, his ties to British intelligence.",
       "mentions_person_refs": [
         "N-640"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2484,7 +2560,9 @@
       "mentions_person_refs": [
         "N-645",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2502,7 +2580,9 @@
       "transcript_snippet": "there's more posts about me on her profile than there are uh on my profile.",
       "mentions_person_refs": [
         "N-645"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2520,7 +2600,9 @@
       "transcript_snippet": "It looks like there There could be a name change somewhere. We started just prodding, but what we can confirm is that she's just another washed-up D-list actress looking for her next gig.",
       "mentions_person_refs": [
         "N-645"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2536,7 +2618,9 @@
       "transcript_snippet": "I'll let you know what I discover because we did already interesting things about Natalie Jean Beisner.",
       "mentions_person_refs": [
         "N-645"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2557,7 +2641,9 @@
         "N-159",
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2578,7 +2664,9 @@
       "mentions_person_refs": [
         "N-10000",
         "N-10606"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2597,7 +2685,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2621,7 +2711,9 @@
         "N-579",
         "N-14",
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2642,7 +2734,9 @@
         "N-159",
         "N-1",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2665,7 +2759,9 @@
         "N-646",
         "N-14",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2688,7 +2784,9 @@
         "N-646",
         "N-14",
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2710,7 +2808,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2726,7 +2826,9 @@
       "transcript_snippet": "I bet it was Iran that made BB go on Fox News the next day and say, \"I didn't kill him. It wasn't me.\"",
       "mentions_person_refs": [
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2747,7 +2849,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2766,7 +2870,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2786,7 +2892,9 @@
       "mentions_person_refs": [
         "N-579",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2802,7 +2910,9 @@
       "transcript_snippet": "He makes an announcement. People are like insider trading on what they know the forthcoming announcement is.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2818,7 +2928,9 @@
       "transcript_snippet": "I am going to be off air next week. Next week, I'm actually going to St. Petersburg.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

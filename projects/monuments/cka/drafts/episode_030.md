@@ -1596,6 +1596,8 @@ Anchored Artifacts:
 Mentions: N-190, N-3
 Related Nodes: N-11149
 Tags: relevance:core
+Verification: revised-by-host
+Verification Evidence: C-4099
 Investigative Direction: Check birth, school and licensing records for the legal name of Rob McCoy's son.
 
 ---

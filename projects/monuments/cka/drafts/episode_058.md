@@ -1187,6 +1187,8 @@ Mentions: N-15, N-2, N-3
 
 Related Nodes: N-10392
 
+Verification: revised-by-host
+Verification Evidence: C-5181, C-5331
 Investigative Direction: Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
 **C-5181** Host Says Justin Streiff Told Her Erika Never Lived in China
@@ -2310,6 +2312,8 @@ Transcript Snippet: his friend uh Jean-Luc Brunel in Paris flew these 12-year-ol
 Anchored Artifacts: 
 Mentions: N-9, N-529, N-3
 Tags: relevance:tangential
+Verification: revised-by-host
+Verification Evidence: C-11486
 Investigative Direction: Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.
 
 ---

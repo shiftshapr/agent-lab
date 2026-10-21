@@ -3230,6 +3230,14 @@
      "v": "relevance:context"
     },
     {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-4077"
+    },
+    {
      "k": "Investigative Direction",
      "v": "Request TPUSA Faith contracts, speaker agreements or IRS Form 990 compensation disclosures showing payments to McCoy."
     },
@@ -4135,6 +4143,14 @@
     {
      "k": "Tags",
      "v": "relevance:core"
+    },
+    {
+     "k": "Verification",
+     "v": "revised-by-host"
+    },
+    {
+     "k": "Verification Evidence",
+     "v": "C-11561"
     },
     {
      "k": "Investigative Direction",

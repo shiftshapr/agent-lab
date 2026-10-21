@@ -1543,7 +1543,9 @@
       "transcript_snippet": "I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.",
       "mentions_person_refs": [
         "N-579"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1565,7 +1567,9 @@
         "N-341",
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1584,7 +1588,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1602,7 +1608,9 @@
       "transcript_snippet": "Uh look, all of this has started only because I entered into the political realm. Period. And uh and because I'm winning the governor's race.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1629,7 +1637,9 @@
         "N-5",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1650,7 +1660,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1674,7 +1686,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1695,7 +1709,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1715,7 +1731,9 @@
         "N-341",
         "N-343",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1732,7 +1750,9 @@
       "mentions_person_refs": [
         "N-341",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1752,7 +1772,9 @@
         "N-3",
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1771,7 +1793,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1788,7 +1812,9 @@
       "mentions_person_refs": [
         "N-7",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1807,7 +1833,9 @@
       "mentions_person_refs": [
         "N-266",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1830,7 +1858,9 @@
         "N-266",
         "N-3",
         "N-270"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1855,7 +1885,9 @@
         "N-341",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1873,7 +1905,9 @@
       "transcript_snippet": "we brought our team uh immediately uh to help give relief for the first security team who I knew, who I was in contact with, and they were suffering trauma and exhaustion. They didn't have a secondary.",
       "mentions_person_refs": [
         "N-341"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1895,7 +1929,9 @@
         "N-341",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1916,7 +1952,9 @@
       "transcript_snippet": "because we also sent out some more preservation letters. I also sent one to Paramount not so tactical.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1938,7 +1976,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1958,7 +1998,9 @@
         "N-2",
         "N-46",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1977,7 +2019,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1996,7 +2040,9 @@
       "transcript_snippet": "But in the midst of Charlie telling people that $10 million was missing from his company, allegedly,",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2017,7 +2063,9 @@
       ],
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2035,7 +2083,9 @@
       "transcript_snippet": "In the midst of him texting those closest to him and saying, \"They're going to kill me.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2052,7 +2102,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2071,7 +2123,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2088,7 +2142,9 @@
       "mentions_person_refs": [
         "N-190",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2106,7 +2162,9 @@
       "transcript_snippet": "the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.",
       "mentions_person_refs": [
         "N-635"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2126,7 +2184,9 @@
       "transcript_snippet": "So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.",
       "mentions_person_refs": [
         "N-635"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2146,7 +2206,9 @@
       "transcript_snippet": "A month later, she would be arrested over a year after her husband had passed away.",
       "mentions_person_refs": [
         "N-635"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2165,7 +2227,9 @@
       "mentions_person_refs": [
         "N-636",
         "N-635"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2184,7 +2248,9 @@
       "mentions_person_refs": [
         "N-635",
         "N-636"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2206,7 +2272,9 @@
       "transcript_snippet": "Erika also communicated that a Turning Point USA board member was going to be helping them with those changes.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2228,7 +2296,9 @@
       "transcript_snippet": "The White House Correspondents Dinner communications are very relevant, which is why we filed an FOIA request.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2248,7 +2318,9 @@
       "transcript_snippet": "Erika Kirk written in as an emotional asset just over an hour after shots are fired",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2265,7 +2337,9 @@
       "tags": [],
       "claim_timestamp": "00:32:07",
       "investigative_direction": "Review the Daily Mail article describing the screening and request the screened file for forensic analysis.",
-      "transcript_snippet": "I mean, how ill-advisable to go to the Daily Mail to say \"We're going to host a little private screening with you.\""
+      "transcript_snippet": "I mean, how ill-advisable to go to the Daily Mail to say \"We're going to host a little private screening with you.\"",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2283,7 +2357,9 @@
       "transcript_snippet": "Uh to tell people that it existed and then decided to have Erika walk out to just the audio of it.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2304,7 +2380,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2324,7 +2402,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2343,7 +2423,9 @@
       "mentions_person_refs": [
         "N-40",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2445,9 @@
       "transcript_snippet": "then you should seal the quote-unquote evidence in case it becomes inadmissible down the line.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2383,7 +2467,9 @@
       "transcript_snippet": "They're they're bringing five officers to say things. They're going to have Lance Lance Twiggs as testimony to say things.",
       "mentions_person_refs": [
         "N-54"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2404,7 +2490,9 @@
       "transcript_snippet": "Um here's 31. Case in point, the FBI DNA report, right? The towel, the screwdriver.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2424,7 +2512,9 @@
       "transcript_snippet": "They said they weren't even able to see the gun. Listed 32, the ATF ballistics report.",
       "mentions_person_refs": [
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2443,7 +2533,9 @@
       "mentions_person_refs": [
         "N-268",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2462,7 +2554,9 @@
       "mentions_person_refs": [
         "N-268",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2480,7 +2574,9 @@
       "transcript_snippet": "but here's the thing about that chemical imbalance thing, that's not real.",
       "mentions_person_refs": [
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2499,7 +2595,9 @@
       "mentions_person_refs": [
         "N-146",
         "N-268"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2518,7 +2616,9 @@
       "mentions_person_refs": [
         "N-268",
         "N-146"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2538,7 +2638,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2560,7 +2662,9 @@
         "N-341",
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2580,7 +2684,9 @@
       "mentions_person_refs": [
         "N-208",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2598,7 +2704,9 @@
       "transcript_snippet": "You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.",
       "mentions_person_refs": [
         "N-637"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

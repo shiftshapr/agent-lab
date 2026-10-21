@@ -2037,7 +2037,9 @@
       "tags": [],
       "claim_timestamp": "00:04:35",
       "investigative_direction": "Verify against the Margaret Truman Daniel biography Harry S. Truman and the contemporaneous NYT archive to confirm the letter-bomb episode and its date.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2052,7 +2054,9 @@
       "tags": [],
       "claim_timestamp": "00:05:50",
       "investigative_direction": "Verify against the cited Wikipedia revision history and academic sources on the Canaanite movement.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2072,7 +2076,9 @@
       "mentions_person_refs": [
         "N-741",
         "N-742"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2092,7 +2098,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2111,7 +2119,9 @@
       "investigative_direction": "Verify by retrieving the Daily Mail comment-request email (A-2175.1) and matching timestamps; check whether the email originated from the same Daily Mail address that published the article.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2130,7 +2140,9 @@
       "investigative_direction": "Retrieve current and archived versions of the Daily Mail article to verify the retraction and its scope.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2148,7 +2160,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2167,7 +2181,9 @@
       "investigative_direction": "Retrieve the full unedited Blake Neff interview segment; cross-reference with any video showing Mikey holding two devices.",
       "mentions_person_refs": [
         "N-159"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2182,7 +2198,9 @@
       "tags": [],
       "claim_timestamp": "00:46:58",
       "investigative_direction": "Obtain the seamstress's attached photos for higher-resolution review; consult an independent textile expert on the same image.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2199,7 +2217,9 @@
       "investigative_direction": "Retrieve the full 15-minute compilation video and identify the original source episode for each clip.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2219,7 +2239,9 @@
       "transcript_snippet": "before he was, of course, met with a community note on X",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2241,7 +2263,9 @@
       "mentions_person_refs": [
         "N-253",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2260,7 +2284,9 @@
         "N-80",
         "N-737",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2279,7 +2305,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-737"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2294,7 +2322,9 @@
       "tags": [],
       "claim_timestamp": "00:03:45",
       "investigative_direction": "Verify against historical records of the 22 July 1946 King David Hotel bombing, including the casualty count and its attribution to Irgun.",
-      "transcript_snippet": "They just bombed it, killing 91 people in one go in 1946."
+      "transcript_snippet": "They just bombed it, killing 91 people in one go in 1946.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2311,7 +2341,9 @@
       "tags": [],
       "claim_timestamp": "00:05:34",
       "investigative_direction": "Retrieve the Wikipedia Canaanism entry (with revision date) and check the image caption for the Nimrod sculpture.",
-      "transcript_snippet": "Look at the art that they created on the right side of this Wikipedia entry. It says Nimrod."
+      "transcript_snippet": "Look at the art that they created on the right side of this Wikipedia entry. It says Nimrod.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2333,7 +2365,9 @@
       "transcript_snippet": "Irgun was a Jewish Canaanite gang. No one denies that it was a terrorist group that killed a lot of people.",
       "supports_claim_refs": [
         "C-11165"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2353,7 +2387,9 @@
         "N-738",
         "N-739",
         "N-740"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2369,7 +2405,9 @@
       "transcript_snippet": "Rahm was also the chief of staff under Barack Obama and then he became the mayor of Chicago.",
       "mentions_person_refs": [
         "N-740"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2385,7 +2423,9 @@
       "transcript_snippet": "I have been threatened, my livelihood has been threatened, and I have been gangstalked by Zionists throughout the court system and beyond.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2403,7 +2443,9 @@
       "transcript_snippet": "the trusted Latter-Day Saints inner circle of businessmen businessmen and accountants who were hired by billionaire Howard Hughes in Las Vegas during the 1960s.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2421,7 +2463,9 @@
       "transcript_snippet": "To make Hell's Angels, he actually assembled the largest private air force in the world.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2439,7 +2483,9 @@
       "transcript_snippet": "In 1932, Howard Hughes founded the Hughes Aircraft Company.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2459,7 +2505,9 @@
       "transcript_snippet": "formed that in 1953 to fund basic medical research.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2477,7 +2525,9 @@
       "transcript_snippet": "Howard Hughes in the last 10 years of his life began buying up casinos and hotels and restaurants in Las Vegas including the Desert Inn",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2493,7 +2543,9 @@
       "transcript_snippet": "Howard Hughes himself was not a drinker, he was not a partier, he did not do drugs.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2509,7 +2561,9 @@
       "transcript_snippet": "he shut down his film studio after he acquired it acquired it, RKO, for 6 months.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2528,7 +2582,9 @@
       "mentions_person_refs": [
         "N-742",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2544,7 +2600,9 @@
       "transcript_snippet": "he was in pain from injuries that he had endured over his lifetime, so he began taking painkillers.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2567,7 +2625,9 @@
       ],
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2584,7 +2644,9 @@
       "tags": [],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Obtain the full Time article and check the named functionaries and the physician count.",
-      "transcript_snippet": "They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margulis and Mell Stewart."
+      "transcript_snippet": "They were assisted by four physicians on 24-hour calls and five lesser functionaries including Gordon Margulis and Mell Stewart.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2602,7 +2664,9 @@
       "transcript_snippet": "Officially, Howard Hughes died of kidney failure on April 5th, 1976. He was aboard a jet, actually.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2623,7 +2687,9 @@
         "N-135",
         "N-260",
         "N-40"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2643,7 +2709,9 @@
       "mentions_person_refs": [
         "N-260",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2663,7 +2731,9 @@
       "transcript_snippet": "Someone administered a deadly injection of the painkiller codeine to this virtually comatose man.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2683,7 +2753,9 @@
       "transcript_snippet": "X-rays revealed five broken-off hypodermic needles needles that were inside the flesh of his arms.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2703,7 +2775,9 @@
       "transcript_snippet": "his body was so thin that observers likened him to a captive from a Japanese prisoner-of-war camp.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2721,7 +2795,9 @@
       "transcript_snippet": "There was a mysterious handwritten note, which was filed by the Church of a Latter-day Saints, which they claimed was his last will and testament.",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2739,7 +2815,9 @@
       "transcript_snippet": "It was a 34-year legal battle. Until eventually it was decided that the majority of his fortune, around $1.5 billion, would be controlled by the Howard Hughes Medical Institute",
       "mentions_person_refs": [
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2758,7 +2836,9 @@
       "mentions_person_refs": [
         "N-742",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2776,7 +2856,9 @@
         "N-298",
         "N-704",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2793,7 +2875,9 @@
       "mentions_person_refs": [
         "N-353",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2809,7 +2893,9 @@
       "transcript_snippet": "American hedge funder Bill Ackman uh was and is the executive chairman of Howard Hughes Incorporated.",
       "mentions_person_refs": [
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2825,7 +2911,9 @@
       "transcript_snippet": "Bill Ackman made a $900 million investment into Howard Hughes Holding Incorporated",
       "mentions_person_refs": [
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2843,7 +2931,9 @@
         "N-744",
         "N-742",
         "N-28"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2862,7 +2952,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2883,7 +2975,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2904,7 +2998,9 @@
       "transcript_snippet": "I'm not one of those guys that picks on Mormons. >> Half my team is Mormon",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2924,7 +3020,9 @@
       "transcript_snippet": "I have my team is Mormon Carol's a Mormon Andrew's a Mormon",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2945,7 +3043,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2968,7 +3068,9 @@
         "N-261",
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2990,7 +3092,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3009,7 +3113,9 @@
         "N-2",
         "N-745",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3030,7 +3136,9 @@
         "N-201",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3046,7 +3154,9 @@
       "transcript_snippet": "wrote explicitly he had no choice but to abandon the pro-Israel cause.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3067,7 +3177,9 @@
         "N-1",
         "N-38",
         "N-37"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3090,7 +3202,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3113,7 +3227,9 @@
       "mentions_person_refs": [
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3135,7 +3251,9 @@
         "N-2",
         "N-489",
         "N-261"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3154,7 +3272,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3176,7 +3296,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3193,7 +3315,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3215,7 +3339,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3232,7 +3358,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-278"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3248,7 +3376,9 @@
       "transcript_snippet": "Erika herself is very close with the Vegas casino families. Flying around on their planes, that's a fact.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3266,7 +3396,9 @@
         "N-2",
         "N-352",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3285,7 +3417,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-741"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3305,7 +3439,9 @@
         "N-14",
         "N-11",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3324,7 +3460,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3347,7 +3485,9 @@
         "N-159",
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3368,7 +3508,9 @@
         "N-2",
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3392,7 +3534,9 @@
         "N-544",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3416,7 +3560,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3435,7 +3581,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3456,7 +3604,9 @@
       "transcript_snippet": "we immediately put up the email that we received asking us for comment as it always is a few hours before the piece goes up",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3477,7 +3627,9 @@
         "N-2",
         "N-1",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3495,7 +3647,9 @@
       "transcript_snippet": "This NCRI article that you were promoting, Digital Assassin.",
       "mentions_person_refs": [
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3511,7 +3665,9 @@
       "transcript_snippet": "I don't have a PR apparatus, okay? Mitchell receives the request, and he asks me if I want to comment.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3533,7 +3689,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3551,7 +3709,9 @@
       "transcript_snippet": "And she says, \"Don't try cocaine.\" Well, that's weird advice ice to give.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3571,7 +3731,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3594,7 +3756,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-14"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3611,7 +3775,9 @@
       "mentions_person_refs": [
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3635,7 +3801,9 @@
         "N-3",
         "N-14",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3653,7 +3821,9 @@
       "tags": [],
       "claim_timestamp": "00:44:12",
       "investigative_direction": "Identify the vehicle make and trim and confirm the interior options.",
-      "transcript_snippet": "A couple of people thought that the car looked like it was burnt and the panel was black and brown. That's actually just so you guys know, you can get that's just an option on a car."
+      "transcript_snippet": "A couple of people thought that the car looked like it was burnt and the panel was black and brown. That's actually just so you guys know, you can get that's just an option on a car.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3675,7 +3845,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3695,7 +3867,9 @@
         "N-190",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3721,7 +3895,9 @@
         "N-190",
         "N-2",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3746,7 +3922,9 @@
         "N-1",
         "N-190",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3770,7 +3948,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3793,7 +3973,9 @@
       ],
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3819,7 +4001,9 @@
         "N-190",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3839,7 +4023,9 @@
         "N-746",
         "N-30",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3857,7 +4043,9 @@
       "transcript_snippet": "What an atrocious idea if you're the PR team to have Erika invite influencers into the courtroom.",
       "mentions_person_refs": [
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3875,7 +4063,9 @@
       "transcript_snippet": "That's an obvious influencer campaign, which makes us believe that your next plan is going to be a lawsuit to try to bankrupt anybody who is meaningfully looking into this case",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3893,7 +4083,9 @@
         "N-14",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3916,7 +4108,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3936,7 +4130,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

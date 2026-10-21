@@ -1939,6 +1939,8 @@ Transcript Snippet: And what I said to him was, "Thank God." So, he left that ou
 Anchored Artifacts: A-2308.1
 Mentions: N-3, N-14, N-2
 Related Nodes: N-10737
+Verification: revised-by-host
+Verification Evidence: C-12438
 Investigative Direction: Authenticate her reply in the message thread or call context.
 
 ---

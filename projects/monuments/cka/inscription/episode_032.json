@@ -1777,7 +1777,9 @@
         "N-250",
         "N-251",
         "N-221"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1795,7 +1797,9 @@
       "mentions_person_refs": [
         "N-250",
         "N-221"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1816,7 +1820,9 @@
       "mentions_person_refs": [
         "N-252",
         "N-221"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1835,7 +1841,9 @@
         "N-870",
         "N-250",
         "N-221"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1855,7 +1863,9 @@
         "N-252",
         "N-250",
         "N-221"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1875,7 +1885,9 @@
         "N-250",
         "N-253",
         "N-254"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1894,7 +1906,9 @@
         "N-250",
         "N-254",
         "N-255"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1914,7 +1928,9 @@
       "mentions_person_refs": [
         "N-250",
         "N-251"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1933,7 +1949,9 @@
       "investigative_direction": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.",
       "mentions_person_refs": [
         "N-253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1950,7 +1968,9 @@
       "investigative_direction": "Standalone claim only; no corroborating artifact in this episode.",
       "mentions_person_refs": [
         "N-253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1970,7 +1990,9 @@
       "investigative_direction": "Single-source; corroboration required before inscription as fact.",
       "mentions_person_refs": [
         "N-253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1992,7 +2014,9 @@
         "N-359",
         "N-866",
         "N-253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2010,7 +2034,9 @@
       "mentions_person_refs": [
         "N-250",
         "N-257"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2027,7 +2053,9 @@
       "investigative_direction": "Obtain full autopsy / coroner's report; review toxicology findings.",
       "mentions_person_refs": [
         "N-257"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2048,7 +2076,9 @@
       "investigative_direction": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2067,7 +2097,9 @@
       "investigative_direction": "Identify the second individual in the Samir photo; confirm BYU attendance.",
       "mentions_person_refs": [
         "N-258"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2083,7 +2115,9 @@
       "mentions_person_refs": [
         "N-258",
         "N-751"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2101,7 +2135,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-246"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2119,7 +2155,9 @@
       "mentions_person_refs": [
         "N-227",
         "N-84"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2136,7 +2174,9 @@
       "investigative_direction": "Locate the WSJ article and verify framing language.",
       "mentions_person_refs": [
         "N-227"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2155,7 +2195,9 @@
       "investigative_direction": "Verify timestamp/date of original recording; confirm via original footage.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2177,7 +2219,9 @@
         "N-3",
         "N-82",
         "N-377"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2199,7 +2243,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2220,7 +2266,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-226"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2242,7 +2290,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-870"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2264,7 +2314,9 @@
         "N-3",
         "N-250",
         "N-870"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2289,7 +2341,9 @@
         "N-250",
         "N-870",
         "N-871"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2314,7 +2368,9 @@
         "N-250",
         "N-252",
         "N-870"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2338,7 +2394,9 @@
         "N-221",
         "N-250",
         "N-252"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2363,7 +2421,9 @@
         "N-250",
         "N-252",
         "N-870"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2387,7 +2447,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2409,7 +2471,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2431,7 +2495,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-250"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2456,7 +2522,9 @@
         "N-250",
         "N-47",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2481,7 +2549,9 @@
         "N-870",
         "N-872",
         "N-9"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2505,7 +2575,9 @@
         "N-3",
         "N-250",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2531,7 +2603,9 @@
         "N-250",
         "N-251",
         "N-756"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2553,7 +2627,9 @@
         "N-3",
         "N-17",
         "N-250"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2574,7 +2650,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-27"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2597,7 +2675,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-253"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2624,7 +2704,9 @@
         "N-870",
         "N-27",
         "N-359"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2645,7 +2727,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-247"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2666,7 +2750,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-737"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2686,7 +2772,9 @@
         "N-3",
         "N-873",
         "N-737"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2709,7 +2797,9 @@
         "N-1",
         "N-737",
         "N-257"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2734,7 +2824,9 @@
         "N-250",
         "N-253",
         "N-866"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2759,7 +2851,9 @@
         "N-3",
         "N-253",
         "N-250"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2784,7 +2878,9 @@
         "N-3",
         "N-253",
         "N-256"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2807,7 +2903,9 @@
         "N-3",
         "N-250",
         "N-251"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2828,7 +2926,9 @@
       "transcript_snippet": "Well, the hippie movement was not organic. It was not real. It was a psychological operation. That is a fact.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2849,7 +2949,9 @@
       "transcript_snippet": "a lot of these people that are heading these churches have military ties, high up familial military ties.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2870,7 +2972,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-17"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2893,7 +2997,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2912,7 +3018,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-874"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2931,7 +3039,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2952,7 +3062,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-246"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2974,7 +3086,9 @@
       "transcript_snippet": "I have tried to discern through private means who this individual is, and I have had no luck. So, I'm going to ask the public for help",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2994,7 +3108,9 @@
       "transcript_snippet": "many of you guys emailed us and pointed to the fact that when the shooting happens, there's suddenly people on the side that are directing you saying go, go, go.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3016,7 +3132,9 @@
       "transcript_snippet": "see right there on the side, you got people on the side there standing, pointing away.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3037,7 +3155,9 @@
       "transcript_snippet": "I know that the police were looking for someone in a maroon shirt immediately after because somebody shared text messages with me that I did not publicize cuz I didn't want to.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3058,7 +3178,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-258"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3081,7 +3203,9 @@
       "transcript_snippet": "he might know if there was some activity in that bush, please email more tips@candice. com.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3104,7 +3228,9 @@
       "transcript_snippet": "More tips at candacewowens. com. Okay, moving on from the person in the maroon shirt",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3128,7 +3254,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-246"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3152,7 +3280,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-246"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3175,7 +3305,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-246"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3195,7 +3327,9 @@
       "transcript_snippet": "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3213,7 +3347,9 @@
       "transcript_snippet": "pretending that we're doing all of this on the basis of a dream and that we never had any evidence.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3233,7 +3369,9 @@
       "transcript_snippet": "has been because of Mormons that have been willing to go on the ground to ask questions, to get me information, to get me phone numbers.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3253,7 +3391,9 @@
       "transcript_snippet": "someone sent us an email and said because I discussed Calvary Chapel's abuse history, they would no longer support us.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3276,7 +3416,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3297,7 +3439,9 @@
       "transcript_snippet": "I recognized that as a clue, and that's what told me that I needed to hyperfocus on the faith angle because the lies were unnecessary.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3319,7 +3463,9 @@
         "N-3",
         "N-2",
         "N-227"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3339,7 +3485,9 @@
       "transcript_snippet": "our boys were guarding the poppy fields and them in Afghanistan and then we got an opioid crisis and the Sackler family uh seems to be the only ones that benefited from that opioid crisis.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -3361,7 +3509,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [

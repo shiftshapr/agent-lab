@@ -1249,7 +1249,9 @@
         "N-22",
         "N-46",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1268,7 +1270,9 @@
         "N-3",
         "N-46",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1291,7 +1295,9 @@
         "N-46",
         "N-97",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1314,7 +1320,9 @@
         "N-46",
         "N-97",
         "N-38"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1334,7 +1342,9 @@
         "N-201",
         "N-366",
         "N-847"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1353,7 +1363,9 @@
       "mentions_person_refs": [
         "N-201",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1375,7 +1387,9 @@
         "N-3",
         "N-1",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1395,7 +1409,9 @@
       "mentions_person_refs": [
         "N-235",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1413,7 +1429,9 @@
       "mentions_person_refs": [
         "N-234",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1431,7 +1449,9 @@
       "mentions_person_refs": [
         "N-234",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1450,7 +1470,9 @@
         "N-34",
         "N-374",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1467,7 +1489,9 @@
       "investigative_direction": "Trace the $230M figure to its underlying donor records, FEC filings, or AIPAC-adjacent donation disclosures to verify the sum and timeframe.",
       "mentions_person_refs": [
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1485,7 +1509,9 @@
       "mentions_person_refs": [
         "N-201",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1503,7 +1529,9 @@
       "mentions_person_refs": [
         "N-710",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1521,7 +1549,9 @@
       "mentions_person_refs": [
         "N-22",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1540,7 +1570,9 @@
         "N-1",
         "N-234",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1565,7 +1597,9 @@
         "N-46",
         "N-3",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1587,7 +1621,9 @@
         "N-3",
         "N-2",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1607,7 +1643,9 @@
       "transcript_snippet": "people at the Daily Wire when they're leaving the Daily Wire have to sign agreements that they're not going to go work for Tucker Carlson for 6 months.",
       "mentions_person_refs": [
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1632,7 +1670,9 @@
         "N-22",
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1658,7 +1698,9 @@
         "N-97",
         "N-145",
         "N-223"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1680,7 +1722,9 @@
         "N-22",
         "N-145",
         "N-223"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1702,7 +1746,9 @@
       "transcript_snippet": "They were all the candidates were asked, \"If you could visit a foreign country, what would it be?\" And they of course all had an answer. I think most said Israel.",
       "mentions_person_refs": [
         "N-223"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1726,7 +1772,9 @@
         "N-46",
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1753,7 +1801,9 @@
         "N-3",
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1779,7 +1829,9 @@
         "N-3",
         "N-38",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1800,7 +1852,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-2"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1827,7 +1881,9 @@
         "N-3",
         "N-366",
         "N-847"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1854,7 +1910,9 @@
       "mentions_person_refs": [
         "N-366",
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1875,7 +1933,9 @@
       "mentions_person_refs": [
         "N-201",
         "N-97"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1896,7 +1956,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1924,7 +1986,9 @@
         "N-3",
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1946,7 +2010,9 @@
         "N-97",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1971,7 +2037,9 @@
         "N-1",
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -1995,7 +2063,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2017,7 +2087,9 @@
         "N-2",
         "N-1",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2036,7 +2108,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-222"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2055,7 +2129,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2076,7 +2152,9 @@
       "mentions_person_refs": [
         "N-201",
         "N-366"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2097,7 +2175,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2115,7 +2195,9 @@
       "transcript_snippet": "with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient.",
       "mentions_person_refs": [
         "N-201"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2142,7 +2224,9 @@
         "N-97",
         "N-46",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2165,7 +2249,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2191,7 +2277,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-235"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2217,7 +2305,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-235"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2241,7 +2331,9 @@
         "N-1",
         "N-97",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2265,7 +2357,9 @@
       "mentions_person_refs": [
         "N-229",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2286,7 +2380,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-22"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2308,7 +2404,9 @@
       "mentions_person_refs": [
         "N-46",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2332,7 +2430,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-46"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2358,7 +2458,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2381,7 +2483,9 @@
       "mentions_person_refs": [
         "N-234",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2404,7 +2508,9 @@
       "mentions_person_refs": [
         "N-234",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2426,7 +2532,9 @@
       "transcript_snippet": "When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2447,7 +2555,9 @@
       "mentions_person_refs": [
         "N-34",
         "N-374"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2468,7 +2578,9 @@
       "mentions_person_refs": [
         "N-5",
         "N-36"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2487,7 +2599,9 @@
       ],
       "claim_timestamp": "00:40:03",
       "investigative_direction": "The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.",
-      "transcript_snippet": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty."
+      "transcript_snippet": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.",
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2508,7 +2622,9 @@
       "mentions_person_refs": [
         "N-34",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2529,7 +2645,9 @@
       "mentions_person_refs": [
         "N-374",
         "N-5"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2550,7 +2668,9 @@
       "mentions_person_refs": [
         "N-178",
         "N-659"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2570,7 +2690,9 @@
       "transcript_snippet": "we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2592,7 +2714,9 @@
         "N-36",
         "N-34",
         "N-374"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2614,7 +2738,9 @@
         "N-1",
         "N-2",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2635,7 +2761,9 @@
       "transcript_snippet": "We didn't do it immediately. It wasn't us. Oh, that's kind of weird. That's kind of weird that you're just jumping up and saying that it wasn't you.",
       "mentions_person_refs": [
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2656,7 +2784,9 @@
       "mentions_person_refs": [
         "N-97",
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2679,7 +2809,9 @@
       "mentions_person_refs": [
         "N-201",
         "N-3"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     },
     {
       "@type": "Claim",
@@ -2697,7 +2829,9 @@
       "transcript_snippet": "even when they do debate, they then do what they did to Charlie Kirk and afterwards get so angry that they lost the debate that they try to squeeze him and tell him he can never host this person ever again because they lost.",
       "mentions_person_refs": [
         "N-1"
-      ]
+      ],
+      "verification_status": "unverified",
+      "verification_evidence": []
     }
   ],
   "memes": [
