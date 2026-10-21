@@ -1,0 +1,930 @@
+[
+ {
+  "id": "1968316454102835670",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "1968327529816793537",
+  "claims": [],
+  "nodes": [
+   "N-3",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1968411818264510711",
+  "claims": [
+   "C-350",
+   "C-352",
+   "C-1478"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-54",
+   "N-10044",
+   "N-1",
+   "N-10046",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1968440311555793125",
+  "claims": [
+   "C-437",
+   "C-520",
+   "C-1562",
+   "C-1441"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1968469467714797952",
+  "claims": [
+   "C-342",
+   "C-309",
+   "C-571",
+   "C-816"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10014",
+   "N-10042",
+   "N-10077",
+   "N-40"
+  ]
+ },
+ {
+  "id": "1968480595199021285",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1968516257029726690",
+  "claims": [
+   "C-282"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-37"
+  ],
+  "note": "Mocks criticism that she reads ads on her podcast."
+ },
+ {
+  "id": "1968520715495170345",
+  "claims": [
+   "C-355"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-36",
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1968639157913182510",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-36"
+  ]
+ },
+ {
+  "id": "1968663169162776670",
+  "claims": [
+   "C-485"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82",
+   "N-643"
+  ]
+ },
+ {
+  "id": "1968670449962725412",
+  "claims": [
+   "C-485"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82"
+  ]
+ },
+ {
+  "id": "1968671325012017247",
+  "claims": [
+   "C-455",
+   "C-387",
+   "C-392"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-37",
+   "N-10898",
+   "N-10015",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1968672715407003798",
+  "claims": [],
+  "nodes": [
+   "N-10026",
+   "N-37"
+  ]
+ },
+ {
+  "id": "1968680878831243571",
+  "unlinked": "unclear",
+  "note": "Bare link quoting her own Ackman/NY Post post."
+ },
+ {
+  "id": "1968691359033815469",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1968714364183069166",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1968780782941417691",
+  "claims": [
+   "C-394",
+   "C-403",
+   "C-429"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10014"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1968821298928222362",
+  "claims": [
+   "C-72",
+   "C-837",
+   "C-438"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-36",
+   "N-1",
+   "N-10017",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1968821974915834255",
+  "claims": [
+   "C-714",
+   "C-74",
+   "C-543",
+   "C-625"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10026",
+   "N-22",
+   "N-71",
+   "N-10047",
+   "N-10268"
+  ]
+ },
+ {
+  "id": "1969060793690824985",
+  "claims": [],
+  "nodes": [
+   "N-3"
+  ]
+ },
+ {
+  "id": "1969061554067742726",
+  "claims": [
+   "C-573"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10014",
+   "N-10077",
+   "N-10038"
+  ],
+  "note": "Retweet of the AI-prompt 'young lovers in the 20s' theory."
+ },
+ {
+  "id": "1969158101333901586",
+  "claims": [
+   "C-591",
+   "C-501",
+   "C-506",
+   "C-376"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-180",
+   "N-10076"
+  ]
+ },
+ {
+  "id": "1969226976104759571",
+  "claims": [
+   "C-589"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-42",
+   "N-1"
+  ],
+  "note": "Subject unnamed in post; matches Zinn being taken the same route as Charlie."
+ },
+ {
+  "id": "1969249465971200290",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1969249899989356961",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1969250007556424017",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1969464852268630064",
+  "claims": [
+   "C-612",
+   "C-611"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-10082"
+  ]
+ },
+ {
+  "id": "1969465263075536927",
+  "claims": [
+   "C-611"
+  ],
+  "relation": "follow_up",
+  "nodes": [
+   "N-60",
+   "N-85",
+   "N-10082"
+  ],
+  "note": "Extends: says Loomer's CIA-report tweet will be show content; C-611 is it read on air."
+ },
+ {
+  "id": "1969467324710166594",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "1969467952954028493",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "1969473137042420135",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Thread reply names Loomer."
+ },
+ {
+  "id": "1969473485953970372",
+  "claims": [],
+  "nodes": [
+   "N-60",
+   "N-11336",
+   "N-11317",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1969477766824239534",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1969478592401727981",
+  "claims": [
+   "C-620",
+   "C-617"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-96",
+   "N-1",
+   "N-10047",
+   "N-10025"
+  ]
+ },
+ {
+  "id": "1969569290715324584",
+  "claims": [
+   "C-612"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "1969591764282720358",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "1969608368235950472",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10655",
+   "N-707"
+  ]
+ },
+ {
+  "id": "1969819478776021477",
+  "unlinked": "unclear",
+  "note": "Which text messages is not stated."
+ },
+ {
+  "id": "1969866037333242266",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-1",
+   "N-10002"
+  ]
+ },
+ {
+  "id": "1969890392989483102",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-11304",
+   "N-10002"
+  ]
+ },
+ {
+  "id": "1969893556769722420",
+  "claims": [
+   "C-587"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-10002"
+  ],
+  "note": "Quotes the same passage of Erika's memorial speech."
+ },
+ {
+  "id": "1969895791973290249",
+  "claims": [],
+  "nodes": [
+   "N-4",
+   "N-1",
+   "N-2",
+   "N-10002"
+  ]
+ },
+ {
+  "id": "1969896328164712660",
+  "claims": [
+   "C-584"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-2",
+   "N-10002"
+  ],
+  "note": "Host cites this tweet on air (typo version)."
+ },
+ {
+  "id": "1969896560290127998",
+  "claims": [
+   "C-584"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-2",
+   "N-10002"
+  ],
+  "note": "Host cites this tweet on air."
+ },
+ {
+  "id": "1969896674962145662",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1969900175171694971",
+  "claims": [],
+  "nodes": [
+   "N-10002"
+  ]
+ },
+ {
+  "id": "1969900325252305233",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1969954435012153798",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-2"
+  ]
+ },
+ {
+  "id": "1970225297548288377",
+  "claims": [
+   "C-737",
+   "C-738"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-69",
+   "N-1",
+   "N-10048",
+   "N-10202"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1970306330956062733",
+  "claims": [
+   "C-657",
+   "C-372"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-49",
+   "N-1",
+   "N-10047"
+  ],
+  "note": "Donor unnamed in post."
+ },
+ {
+  "id": "1970591136193323290",
+  "claims": [
+   "C-672",
+   "C-674",
+   "C-676",
+   "C-685"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-42",
+   "N-1",
+   "N-10097"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1970622973603176474",
+  "claims": [
+   "C-485"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82",
+   "N-157"
+  ]
+ },
+ {
+  "id": "1970862530999246984",
+  "claims": [],
+  "nodes": [
+   "N-30",
+   "N-170",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1970948532728365314",
+  "claims": [
+   "C-743",
+   "C-787",
+   "C-790"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10014",
+   "N-10125",
+   "N-10109",
+   "N-104",
+   "N-5"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1971314814325764442",
+  "claims": [
+   "C-836",
+   "C-890",
+   "C-879",
+   "C-880"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10000",
+   "N-10014",
+   "N-10212"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1971392741734289727",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-36",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1971417875320799708",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-11045"
+  ]
+ },
+ {
+  "id": "1971418982491226406",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1971998467183857862",
+  "claims": [
+   "C-1194",
+   "C-569"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-36",
+   "N-10026",
+   "N-11103"
+  ]
+ },
+ {
+  "id": "1972010685698908632",
+  "claims": [
+   "C-1192"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-36",
+   "N-3",
+   "N-22",
+   "N-11103"
+  ]
+ },
+ {
+  "id": "1972011180383416486",
+  "claims": [],
+  "nodes": [
+   "N-36"
+  ],
+  "note": "Thread reply on Netanyahu's TikTok answer."
+ },
+ {
+  "id": "1972011394423050734",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1972758212891099509",
+  "claims": [
+   "C-948",
+   "C-969"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10125"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1973000936785363143",
+  "claims": [],
+  "nodes": [
+   "N-707",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1973126008674066505",
+  "claims": [
+   "C-1074",
+   "C-1133",
+   "C-1046"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10026",
+   "N-1",
+   "N-10017",
+   "N-36"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1973148634599530640",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1973148780309651692",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1973148866758537665",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1973148922953764921",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1973229653344305637",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1973230722434605198",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1973359337386156208",
+  "claims": [
+   "C-1203"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-46",
+   "N-22",
+   "N-3",
+   "N-10406"
+  ]
+ },
+ {
+  "id": "1973376732213244024",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1973478881471635786",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1973486316584321300",
+  "claims": [
+   "C-1154",
+   "C-1170",
+   "C-1164"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-1",
+   "N-10014"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1973511351860601018",
+  "claims": [
+   "C-1143"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-98",
+   "N-60",
+   "N-1"
+  ],
+  "note": "Quoted man is Shillman per the Nero reply."
+ },
+ {
+  "id": "1973513912537719093",
+  "claims": [
+   "C-1143",
+   "C-372"
+  ],
+  "relation": "same_allegation",
+  "nodes": []
+ },
+ {
+  "id": "1973532244296769943",
+  "claims": [],
+  "nodes": [
+   "N-98",
+   "N-10000",
+   "N-3"
+  ]
+ },
+ {
+  "id": "1973532888676327894",
+  "claims": [],
+  "nodes": [
+   "N-10000"
+  ]
+ },
+ {
+  "id": "1973533477917384901",
+  "claims": [],
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "1973547808130248907",
+  "claims": [
+   "C-1143"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-98",
+   "N-60",
+   "N-1"
+  ],
+  "note": "Self-retweet of 1973511351860601018."
+ },
+ {
+  "id": "1973552425484382352",
+  "claims": [],
+  "nodes": [
+   "N-145"
+  ]
+ },
+ {
+  "id": "1973552518316937592",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1973741986579636295",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1973782566315663577",
+  "claims": [
+   "C-1143"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-98",
+   "N-60"
+  ]
+ },
+ {
+  "id": "1973855113682038838",
+  "claims": [
+   "C-1259",
+   "C-1260",
+   "C-1264"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-69",
+   "N-1",
+   "N-10014"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1973960267320172725",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1974519965576503792",
+  "claims": [],
+  "nodes": [
+   "N-10012",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "1975301700551672040",
+  "claims": [
+   "C-1350",
+   "C-1347",
+   "C-1351",
+   "C-1364"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10026",
+   "N-10163",
+   "N-10162",
+   "N-10000"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1975341713792331916",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1975342513960722565",
+  "claims": [],
+  "nodes": [
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1975353466743840882",
+  "claims": [],
+  "nodes": [
+   "N-10163"
+  ],
+  "note": "About the Kirk group-chat message she released."
+ },
+ {
+  "id": "1975353677880959401",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1975380048413851886",
+  "claims": [
+   "C-1349"
+  ],
+  "relation": "follow_up",
+  "nodes": [
+   "N-49",
+   "N-37",
+   "N-55",
+   "N-98",
+   "N-1",
+   "N-10163"
+  ],
+  "note": "Extends: names Shillman as the donor Kirk referred to; says Ackman not on thread."
+ },
+ {
+  "id": "1975391436251234569",
+  "unlinked": "unclear",
+  "note": "Mocks a 'Nazi terminology' accusation; possibly Britta post (C-1419), author unconfirmed."
+ },
+ {
+  "id": "1975391796554571925",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1975392306682589554",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "1975394340974567480",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1975398655692841078",
+  "claims": [],
+  "nodes": [
+   "N-10163"
+  ]
+ },
+ {
+  "id": "1975416604029821335",
+  "claims": [
+   "C-1493",
+   "C-1498",
+   "C-1500",
+   "C-1501",
+   "C-1497"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-154",
+   "N-155",
+   "N-3",
+   "N-1",
+   "N-2",
+   "N-10000",
+   "N-4"
+  ]
+ }
+]

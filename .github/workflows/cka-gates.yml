@@ -55,6 +55,9 @@ jobs:
       - name: Claim timestamps land on their snippets
         if: steps.scope.outputs.run == 'true'
         run: python3 projects/monuments/cka/scripts/check_claim_timestamps.py
+      - name: Every tweet is linked or explicitly unlinked
+        if: steps.scope.outputs.run == 'true'
+        run: python3 projects/monuments/cka/scripts/tweets/merge_links.py --check
 
       # Derived files must match the drafts: regenerate them and fail on any change
       # (the companion's generated_at timestamp is ignored).

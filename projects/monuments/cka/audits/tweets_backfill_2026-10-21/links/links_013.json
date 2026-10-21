@@ -1,0 +1,761 @@
+[
+ {
+  "id": "2021442603921887448",
+  "claims": [
+   "C-6529",
+   "C-6530",
+   "C-6542"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-10512",
+   "N-11206"
+  ],
+  "note": "Charlie likely moved the wedding photo the night the ring came off and the priest prayed over the marriage."
+ },
+ {
+  "id": "2021579960280903853",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2021609557995180123",
+  "claims": [],
+  "nodes": [
+   "N-10270"
+  ],
+  "note": "Motion to dismiss Delaware suit for Tennessee venue (Macron defamation case)."
+ },
+ {
+  "id": "2021610908993081599",
+  "claims": [],
+  "nodes": [
+   "N-10956",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2021615773593022601",
+  "claims": [
+   "C-6564",
+   "C-6562",
+   "C-6561"
+  ],
+  "relation": "contradicts",
+  "nodes": [
+   "N-553",
+   "N-561",
+   "N-11188",
+   "N-10026"
+  ],
+  "note": "Rejects Patrick's claim that Carrie hijacked the hearing."
+ },
+ {
+  "id": "2021676171470225505",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2021709518472626617",
+  "claims": [],
+  "nodes": [
+   "N-10512",
+   "N-553",
+   "N-10510"
+  ],
+  "note": "Promo of ep 73 topics: wedding photo, Prejean firing, hired halftime actors."
+ },
+ {
+  "id": "2021750393282150557",
+  "claims": [],
+  "nodes": [
+   "N-553",
+   "N-561",
+   "N-11188",
+   "N-5"
+  ]
+ },
+ {
+  "id": "2021767704974139770",
+  "claims": [
+   "C-6670",
+   "C-6518",
+   "C-6662",
+   "C-6673",
+   "C-6521"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-237",
+   "N-190",
+   "N-1",
+   "N-10512",
+   "N-10506"
+  ],
+  "note": "Photo already gone in McCoy 11/8 interview, before Erika said she first re-entered office for Beck."
+ },
+ {
+  "id": "2021768919007232164",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2021769993881374906",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2021771951036150188",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2022071263783739839",
+  "claims": [],
+  "nodes": [
+   "N-85",
+   "N-9",
+   "N-2",
+   "N-564"
+  ],
+  "note": "Promo of ep 74: Bondi/Epstein fallout and Erika-Jillian story."
+ },
+ {
+  "id": "2022107034108223843",
+  "claims": [],
+  "nodes": [
+   "N-154",
+   "N-10000",
+   "N-1",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2022328566332195019",
+  "claims": [
+   "C-6596",
+   "C-6625",
+   "C-6627"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-564"
+  ]
+ },
+ {
+  "id": "2022336417943462368",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2022336857108070513",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2022340537823695156",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2022341670180733326",
+  "claims": [],
+  "nodes": [
+   "N-606"
+  ]
+ },
+ {
+  "id": "2022343548025352628",
+  "claims": [],
+  "nodes": [
+   "N-606",
+   "N-10131"
+  ]
+ },
+ {
+  "id": "2022386339812118623",
+  "claims": [],
+  "nodes": [
+   "N-10956",
+   "N-553",
+   "N-561",
+   "N-11188"
+  ]
+ },
+ {
+  "id": "2022437532924006630",
+  "claims": [],
+  "nodes": [
+   "N-2"
+  ]
+ },
+ {
+  "id": "2022550124728107145",
+  "claims": [],
+  "nodes": [
+   "N-317",
+   "N-1",
+   "N-10900"
+  ]
+ },
+ {
+  "id": "2022720614792826900",
+  "claims": [
+   "C-6747"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-6",
+   "N-2",
+   "N-1"
+  ],
+  "note": "Retweet of Elizabeth Lane post positing Erika may be a psychopath."
+ },
+ {
+  "id": "2023045365013131300",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2023111612811690072",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-11400",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023112852874436890",
+  "claims": [],
+  "nodes": [
+   "N-159",
+   "N-11400",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023118732063564102",
+  "claims": [],
+  "nodes": [
+   "N-159",
+   "N-11400",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2023119484291010564",
+  "claims": [],
+  "nodes": [
+   "N-11400"
+  ]
+ },
+ {
+  "id": "2023119711047913803",
+  "claims": [],
+  "nodes": [
+   "N-11400"
+  ]
+ },
+ {
+  "id": "2023137010169577693",
+  "claims": [],
+  "nodes": [
+   "N-11400"
+  ],
+  "note": "Corrects own earlier post: episodes removed from Apple and Spotify only, not YouTube."
+ },
+ {
+  "id": "2023138893244125676",
+  "claims": [],
+  "nodes": [
+   "N-10000",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2023139582272057621",
+  "claims": [],
+  "nodes": [
+   "N-14",
+   "N-2",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023139853131763751",
+  "claims": [],
+  "nodes": [
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023145026046636047",
+  "claims": [],
+  "nodes": [
+   "N-85",
+   "N-277"
+  ]
+ },
+ {
+  "id": "2023147556482752704",
+  "claims": [],
+  "nodes": [
+   "N-11400",
+   "N-268"
+  ]
+ },
+ {
+  "id": "2023151040414073154",
+  "claims": [],
+  "nodes": [
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023151235323568519",
+  "claims": [],
+  "nodes": [
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023152624225439929",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2023209603035472023",
+  "claims": [],
+  "nodes": [
+   "N-564"
+  ]
+ },
+ {
+  "id": "2023423224705646730",
+  "claims": [],
+  "nodes": [
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2023470203107995843",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-186",
+   "N-4",
+   "N-1",
+   "N-10000",
+   "N-10125"
+  ]
+ },
+ {
+  "id": "2023473425495585117",
+  "claims": [],
+  "nodes": [
+   "N-606"
+  ]
+ },
+ {
+  "id": "2023473495909470409",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2023554914203648353",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2023603921256882456",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2023604628718260243",
+  "claims": [],
+  "nodes": [
+   "N-71",
+   "N-22"
+  ]
+ },
+ {
+  "id": "2023799044800139682",
+  "claims": [
+   "C-6628",
+   "C-6625",
+   "C-6627",
+   "C-6612",
+   "C-6613"
+  ],
+  "relation": "follow_up",
+  "nodes": [
+   "N-2",
+   "N-564",
+   "N-10832"
+  ],
+  "note": "Extends: new tip that Jillian lived in a trailer park in a high-trafficking area."
+ },
+ {
+  "id": "2023810197618069979",
+  "claims": [
+   "C-6604",
+   "C-6603",
+   "C-6601",
+   "C-6621"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-564",
+   "N-565"
+  ]
+ },
+ {
+  "id": "2023819683573461153",
+  "claims": [
+   "C-6629",
+   "C-6630",
+   "C-6628",
+   "C-6849",
+   "C-6738"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-11",
+   "N-1",
+   "N-10000",
+   "N-11250",
+   "N-11165",
+   "N-687",
+   "N-450",
+   "N-11340",
+   "N-11203",
+   "N-10411",
+   "N-10419",
+   "N-564",
+   "N-10832"
+  ]
+ },
+ {
+  "id": "2023820258759569820",
+  "claims": [
+   "C-6847",
+   "C-6846",
+   "C-6844",
+   "C-6845"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11",
+   "N-2",
+   "N-11248",
+   "N-9",
+   "N-10395"
+  ]
+ },
+ {
+  "id": "2024202639295107463",
+  "claims": [],
+  "nodes": [
+   "N-377"
+  ]
+ },
+ {
+  "id": "2024249749843443930",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2024267445708407010",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2024341481972985927",
+  "claims": [],
+  "nodes": [
+   "N-82"
+  ]
+ },
+ {
+  "id": "2024341940464943513",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2024499946209108182",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2024500263659208963",
+  "claims": [],
+  "nodes": [
+   "N-22"
+  ]
+ },
+ {
+  "id": "2024500836487885287",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2025302265578291634",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-273",
+   "N-36",
+   "N-10026",
+   "N-10127"
+  ]
+ },
+ {
+  "id": "2025303478013166046",
+  "claims": [
+   "C-6559"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-53",
+   "N-52",
+   "N-10026"
+  ],
+  "note": "Khazarian Turk origin claim."
+ },
+ {
+  "id": "2025304157700149433",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2025306772353765589",
+  "claims": [
+   "C-6559"
+  ],
+  "relation": "same_allegation",
+  "nodes": [],
+  "note": "Khazar origin claim."
+ },
+ {
+  "id": "2025529438109135092",
+  "claims": [],
+  "nodes": [
+   "N-273",
+   "N-22",
+   "N-10451"
+  ]
+ },
+ {
+  "id": "2025573236524625965",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2025579141714842111",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2025641619899162747",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-273"
+  ]
+ },
+ {
+  "id": "2026056972198395954",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2026093315645391122",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2026131672983609384",
+  "claims": [],
+  "nodes": [
+   "N-38",
+   "N-10027"
+  ]
+ },
+ {
+  "id": "2026146628495605811",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-11346"
+  ]
+ },
+ {
+  "id": "2026147453397827943",
+  "claims": [],
+  "nodes": [
+   "N-2",
+   "N-11346"
+  ]
+ },
+ {
+  "id": "2026149844054634971",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2026352621141790796",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2026392408976421333",
+  "claims": [],
+  "nodes": [
+   "N-9",
+   "N-36"
+  ]
+ },
+ {
+  "id": "2026429959225618569",
+  "claims": [],
+  "nodes": [
+   "N-5",
+   "N-2",
+   "N-10900",
+   "N-10898"
+  ]
+ },
+ {
+  "id": "2026444937923903787",
+  "claims": [],
+  "nodes": [
+   "N-10001"
+  ]
+ },
+ {
+  "id": "2026519366724960572",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2026525720134946876",
+  "claims": [],
+  "nodes": [
+   "N-3",
+   "N-10883"
+  ]
+ },
+ {
+  "id": "2026729481688273302",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2026743647652184303",
+  "claims": [],
+  "nodes": [
+   "N-366"
+  ]
+ },
+ {
+  "id": "2026762451392340025",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2026797987968487484",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2026808294573068555",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2026862722516652279",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2027146699051856034",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2027187507025076342",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027190718700065094",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027192259934830919",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027194187452469378",
+  "claims": [],
+  "nodes": [
+   "N-203",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2027194370957476165",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027235646620717183",
+  "claims": [],
+  "nodes": [
+   "N-10061"
+  ]
+ },
+ {
+  "id": "2027237998157332809",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027400081259778377",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2027400797072351315",
+  "claims": [],
+  "nodes": [
+   "N-3"
+  ]
+ },
+ {
+  "id": "2027452360222462258",
+  "claims": [],
+  "nodes": [
+   "N-2"
+  ],
+  "note": "Promo for Bride of Charlie episode."
+ },
+ {
+  "id": "2027501310602276896",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2027538042861338835",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027538232875827655",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2027597935761096789",
+  "claims": [
+   "C-6546",
+   "C-6548",
+   "C-6716"
+  ],
+  "relation": "follow_up",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-11013"
+  ],
+  "note": "Extends: a Trinity Church pastor is a 4th person Charlie told he expected to be killed."
+ }
+]

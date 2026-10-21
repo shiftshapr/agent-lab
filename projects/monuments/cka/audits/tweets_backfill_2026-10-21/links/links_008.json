@@ -1,0 +1,845 @@
+[
+ {
+  "id": "1999540032680398897",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1999542377267028409",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1999542473295565067",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1999542669291216984",
+  "claims": [],
+  "nodes": [
+   "N-3"
+  ]
+ },
+ {
+  "id": "1999577909737001044",
+  "claims": [
+   "C-3886"
+  ],
+  "relation": "contradicts",
+  "nodes": [
+   "N-267",
+   "N-1",
+   "N-11287"
+  ],
+  "note": "Calls Tim Pool's reported shooting at his property fake."
+ },
+ {
+  "id": "1999593327994241465",
+  "claims": [
+   "C-4053",
+   "C-3919"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-46",
+   "N-227",
+   "N-10000",
+   "N-10014",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1999593711638827104",
+  "claims": [],
+  "nodes": [
+   "N-46",
+   "N-227"
+  ]
+ },
+ {
+  "id": "1999604060798812412",
+  "claims": [],
+  "nodes": [
+   "N-39",
+   "N-46"
+  ]
+ },
+ {
+  "id": "1999627904271991034",
+  "claims": [],
+  "nodes": [
+   "N-266",
+   "N-10000",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1999642464986997105",
+  "claims": [],
+  "nodes": [
+   "N-227"
+  ]
+ },
+ {
+  "id": "1999656420351099097",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1999667274362618312",
+  "claims": [],
+  "nodes": [
+   "N-227"
+  ]
+ },
+ {
+  "id": "1999669530046439912",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-31",
+   "N-707",
+   "N-278",
+   "N-11300"
+  ]
+ },
+ {
+  "id": "1999670292705341897",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1999671468486197396",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-3"
+  ]
+ },
+ {
+  "id": "1999672926904418524",
+  "claims": [
+   "C-4162"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1"
+  ],
+  "note": "Retweet of the Charlie Kirk 'keep asking questions' quote."
+ },
+ {
+  "id": "1999908875886096497",
+  "claims": [
+   "C-4024",
+   "C-4092",
+   "C-4028"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-1",
+   "N-10336",
+   "N-10000",
+   "N-10655"
+  ],
+  "note": "Also follows up C-4028: explains the court-appearance grin as a fender-bender joke."
+ },
+ {
+  "id": "1999929956512731276",
+  "claims": [
+   "C-4386",
+   "C-4381"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-366",
+   "N-97",
+   "N-10900",
+   "N-11116"
+  ]
+ },
+ {
+  "id": "2000027227938029888",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2000043136546930783",
+  "claims": [
+   "C-3935",
+   "C-3934"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-10253"
+  ]
+ },
+ {
+  "id": "2000044035734372482",
+  "claims": [],
+  "nodes": [
+   "N-10253"
+  ]
+ },
+ {
+  "id": "2000045295359406492",
+  "claims": [
+   "C-4022",
+   "C-4120",
+   "C-4004"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-10000",
+   "N-10014",
+   "N-10253"
+  ]
+ },
+ {
+  "id": "2000062921318031631",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2000230964954566897",
+  "claims": [
+   "C-4024"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-1",
+   "N-10112"
+  ]
+ },
+ {
+  "id": "2000296715635830807",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2000306628659417363",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2000308749333110989",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2000336986721460477",
+  "claims": [],
+  "nodes": [
+   "N-46",
+   "N-39",
+   "N-55"
+  ]
+ },
+ {
+  "id": "2000372412047900673",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2000574030898700662",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2000737025192829248",
+  "claims": [
+   "C-4056",
+   "C-4268"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-11379",
+   "N-10649"
+  ]
+ },
+ {
+  "id": "2000753085891617081",
+  "claims": [],
+  "nodes": [
+   "N-145",
+   "N-22"
+  ]
+ },
+ {
+  "id": "2001017788203413872",
+  "claims": [
+   "C-4140",
+   "C-4136"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-267",
+   "N-1",
+   "N-10344"
+  ]
+ },
+ {
+  "id": "2001018180236664894",
+  "claims": [
+   "C-4135",
+   "C-3881"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-267",
+   "N-10344"
+  ]
+ },
+ {
+  "id": "2001025884245876789",
+  "claims": [
+   "C-4140",
+   "C-4138"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-267",
+   "N-1",
+   "N-10344"
+  ]
+ },
+ {
+  "id": "2001046575435399337",
+  "claims": [],
+  "nodes": [
+   "N-267"
+  ]
+ },
+ {
+  "id": "2001048638403793114",
+  "claims": [
+   "C-4124"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-267",
+   "N-11379"
+  ]
+ },
+ {
+  "id": "2001077043904102907",
+  "claims": [
+   "C-3881"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-267",
+   "N-10344"
+  ]
+ },
+ {
+  "id": "2001078747588329614",
+  "claims": [
+   "C-4124"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10898"
+  ]
+ },
+ {
+  "id": "2001079838942130536",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001102304338915377",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001102948080685565",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001117331427049533",
+  "claims": [
+   "C-4093",
+   "C-4283"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10121"
+  ]
+ },
+ {
+  "id": "2001129822915879140",
+  "claims": [
+   "C-4140"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-1",
+   "N-10344",
+   "N-11137"
+  ]
+ },
+ {
+  "id": "2001146436134592528",
+  "claims": [
+   "C-4121"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-330",
+   "N-10347",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2001287276081426488",
+  "claims": [
+   "C-4092"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3",
+   "N-40",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2001289127623270746",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001300868528738572",
+  "claims": [
+   "C-4208",
+   "C-4361"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-707",
+   "N-1",
+   "N-10046"
+  ]
+ },
+ {
+  "id": "2001301383887151454",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001337696757911599",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001391603038957920",
+  "claims": [
+   "C-4219",
+   "C-4215",
+   "C-4198",
+   "C-4180",
+   "C-4291"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-69",
+   "N-10362",
+   "N-10360",
+   "N-10358",
+   "N-10202"
+  ]
+ },
+ {
+  "id": "2001395088618918115",
+  "claims": [],
+  "nodes": [
+   "N-10061"
+  ]
+ },
+ {
+  "id": "2001462889870217572",
+  "claims": [
+   "C-4258",
+   "C-4262"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-204"
+  ]
+ },
+ {
+  "id": "2001464896966545797",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001466563069907354",
+  "claims": [
+   "C-4275",
+   "C-4193",
+   "C-4196"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11054",
+   "N-10360"
+  ]
+ },
+ {
+  "id": "2001472551403270530",
+  "claims": [
+   "C-4215",
+   "C-4216",
+   "C-4278"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10362"
+  ]
+ },
+ {
+  "id": "2001474671770825109",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001477994943041608",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001479687634108926",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001489612976341242",
+  "claims": [],
+  "nodes": [
+   "N-10070"
+  ]
+ },
+ {
+  "id": "2001490209330864353",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001491806408859669",
+  "claims": [],
+  "nodes": [
+   "N-204",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2001494605938741421",
+  "claims": [],
+  "nodes": [
+   "N-10110"
+  ]
+ },
+ {
+  "id": "2001499633004999117",
+  "claims": [
+   "C-4180",
+   "C-4280",
+   "C-4179"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10358",
+   "N-10341"
+  ]
+ },
+ {
+  "id": "2001687763146375357",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2001688283177455665",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2001762247975239816",
+  "claims": [
+   "C-4336",
+   "C-4316",
+   "C-4302"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-11338",
+   "N-10367",
+   "N-10370",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2001774334235345349",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001826552070447587",
+  "claims": [
+   "C-4363"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-10026",
+   "N-1",
+   "N-11118"
+  ]
+ },
+ {
+  "id": "2001827634238652605",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-11118"
+  ]
+ },
+ {
+  "id": "2001828711830806679",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001829451945173183",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2001831228333260915",
+  "claims": [
+   "C-4395"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-46",
+   "N-11118"
+  ]
+ },
+ {
+  "id": "2001860046351929777",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2001893378041266218",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-10451"
+  ]
+ },
+ {
+  "id": "2002032311739568432",
+  "claims": [
+   "C-4406",
+   "C-4407",
+   "C-4409",
+   "C-4408",
+   "C-4349"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-361",
+   "N-319",
+   "N-266",
+   "N-11338",
+   "N-10367",
+   "N-10373"
+  ]
+ },
+ {
+  "id": "2002077028057800847",
+  "claims": [
+   "C-4038",
+   "C-3991"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-97",
+   "N-22",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "2002088071580561573",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2002119101268078860",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2002129596360331334",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2002140582404370503",
+  "claims": [
+   "C-4416"
+  ],
+  "relation": "follow_up",
+  "nodes": [
+   "N-363",
+   "N-10371"
+  ],
+  "note": "Extends: asks Amodei for proof of his Sept 8 vote and Sept 9 voting time to update the record."
+ },
+ {
+  "id": "2002146801772888268",
+  "claims": [
+   "C-4415"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-2",
+   "N-363",
+   "N-11338",
+   "N-10371"
+  ]
+ },
+ {
+  "id": "2002237114096959964",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-46",
+   "N-22",
+   "N-27",
+   "N-10026",
+   "N-11117"
+  ]
+ },
+ {
+  "id": "2002239825798168897",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-390",
+   "N-10000",
+   "N-10386",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "2002243588344696921",
+  "claims": [],
+  "nodes": [
+   "N-46"
+  ]
+ },
+ {
+  "id": "2002503192630980863",
+  "claims": [
+   "C-4402"
+  ],
+  "relation": "same_allegation",
+  "nodes": []
+ },
+ {
+  "id": "2002503913338257518",
+  "claims": [
+   "C-4402"
+  ],
+  "relation": "same_allegation",
+  "nodes": []
+ },
+ {
+  "id": "2002507659669615054",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2002508186935570721",
+  "claims": [],
+  "nodes": [
+   "N-97"
+  ]
+ },
+ {
+  "id": "2002585438402584903",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2002777676093038984",
+  "claims": [],
+  "nodes": [
+   "N-36",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2002828071997686203",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2002865064983048444",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2002866533882843495",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2002920387756298629",
+  "claims": [],
+  "nodes": [
+   "N-277",
+   "N-1",
+   "N-10376"
+  ]
+ },
+ {
+  "id": "2002921274448965828",
+  "claims": [],
+  "nodes": [
+   "N-10376"
+  ]
+ },
+ {
+  "id": "2003228078756233219",
+  "claims": [],
+  "nodes": [
+   "N-4",
+   "N-5",
+   "N-22"
+  ]
+ },
+ {
+  "id": "2003236615662240159",
+  "claims": [
+   "C-4315",
+   "C-4143"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11338",
+   "N-10352"
+  ]
+ },
+ {
+  "id": "2003299007221711178",
+  "claims": [],
+  "nodes": [
+   "N-364",
+   "N-10900",
+   "N-10012",
+   "N-10000",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2003299404539887812",
+  "claims": [],
+  "nodes": [
+   "N-364",
+   "N-10900",
+   "N-10012",
+   "N-10000",
+   "N-1"
+  ]
+ }
+]

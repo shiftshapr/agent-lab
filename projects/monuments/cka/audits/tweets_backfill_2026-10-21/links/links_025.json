@@ -1,0 +1,942 @@
+[
+ {
+  "id": "2064814364750909644",
+  "claims": [
+   "C-9789",
+   "C-9963",
+   "C-10022",
+   "C-9792"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-14",
+   "N-10923",
+   "N-10700"
+  ]
+ },
+ {
+  "id": "2064839873337454835",
+  "claims": [
+   "C-9853",
+   "C-9849"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-10957",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2064840597811118365",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2064864513627660569",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2064864849675387165",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2064866107534500164",
+  "claims": [
+   "C-9849",
+   "C-9853"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10957",
+   "N-10000"
+  ],
+  "note": "Retweet: TPUSA put words in Charlie's mouth to \"troll the trolls\"."
+ },
+ {
+  "id": "2065072067188281746",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2065114179397120375",
+  "claims": [
+   "C-9849"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10957"
+  ],
+  "note": "Retweet on TPUSA \"joking\" about Charlie's dying wishes (appointment video)."
+ },
+ {
+  "id": "2065134176194425058",
+  "nodes": [
+   "N-10026",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2065204780318757303",
+  "claims": [
+   "C-9882",
+   "C-9885",
+   "C-9881",
+   "C-10092"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-1",
+   "N-22",
+   "N-2",
+   "N-11080"
+  ]
+ },
+ {
+  "id": "2065425795728724312",
+  "claims": [
+   "C-9920"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60"
+  ],
+  "note": "Show-account clip mocking Loomer \"receipts\"."
+ },
+ {
+  "id": "2065437451997303257",
+  "nodes": [
+   "N-11192"
+  ]
+ },
+ {
+  "id": "2065439512952520887",
+  "nodes": [
+   "N-11192"
+  ]
+ },
+ {
+  "id": "2065440621276410236",
+  "nodes": [
+   "N-11192",
+   "N-791",
+   "N-50"
+  ]
+ },
+ {
+  "id": "2065443082183573643",
+  "nodes": [
+   "N-50",
+   "N-843",
+   "N-51",
+   "N-11192",
+   "N-9"
+  ]
+ },
+ {
+  "id": "2065568624912248983",
+  "claims": [
+   "C-9867",
+   "C-9871",
+   "C-9879",
+   "C-9917"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-22",
+   "N-378",
+   "N-1",
+   "N-9",
+   "N-10671",
+   "N-10588"
+  ]
+ },
+ {
+  "id": "2065610657773338845",
+  "claims": [
+   "C-9964"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-268",
+   "N-1",
+   "N-9",
+   "N-10324"
+  ],
+  "note": "Retweet of Rogan asking who killed Charlie Kirk."
+ },
+ {
+  "id": "2065817034395353432",
+  "nodes": [
+   "N-10026",
+   "N-10887"
+  ]
+ },
+ {
+  "id": "2065896865288138889",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2065984227338752099",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2066188591865205217",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2066563186912821507",
+  "claims": [
+   "C-10023",
+   "C-9959",
+   "C-9961"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-69",
+   "N-1",
+   "N-10971",
+   "N-10014"
+  ]
+ },
+ {
+  "id": "2066621569305125245",
+  "claims": [
+   "C-9932",
+   "C-9939",
+   "C-9961",
+   "C-9965"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-675",
+   "N-10972",
+   "N-69",
+   "N-10971",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2066623050347389259",
+  "claims": [
+   "C-9960",
+   "C-9962"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159",
+   "N-69",
+   "N-10971",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2066649923802615906",
+  "claims": [
+   "C-10024",
+   "C-10025",
+   "C-10032",
+   "C-9977"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10014",
+   "N-40",
+   "N-10971",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2066650412325785756",
+  "nodes": [
+   "N-10014",
+   "N-10971"
+  ]
+ },
+ {
+  "id": "2066654267780259944",
+  "claims": [
+   "C-10026",
+   "C-9961",
+   "C-10020"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10984",
+   "N-10014",
+   "N-10971"
+  ]
+ },
+ {
+  "id": "2066654926722269586",
+  "claims": [
+   "C-10026"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10984",
+   "N-10971"
+  ]
+ },
+ {
+  "id": "2066675201299861989",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2066694835688427690",
+  "claims": [
+   "C-9961"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10014",
+   "N-10971",
+   "N-9"
+  ],
+  "note": "Retweet: \"unusual circumstances\" is a euphemism for burden."
+ },
+ {
+  "id": "2066703949244084447",
+  "nodes": [
+   "N-1"
+  ]
+ },
+ {
+  "id": "2066901719942893587",
+  "claims": [
+   "C-9940"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-105",
+   "N-10976"
+  ]
+ },
+ {
+  "id": "2066911887963410574",
+  "claims": [
+   "C-9940"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10976"
+  ],
+  "note": "Extends: asks who on the Trump team moved them from back to VIP."
+ },
+ {
+  "id": "2066923307899707489",
+  "nodes": [
+   "N-10014",
+   "N-10588"
+  ]
+ },
+ {
+  "id": "2066931525770207328",
+  "claims": [
+   "C-10026"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10014",
+   "N-10984",
+   "N-10971"
+  ]
+ },
+ {
+  "id": "2066994651064631621",
+  "claims": [
+   "C-9979",
+   "C-9977",
+   "C-10028",
+   "C-10033"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10768",
+   "N-10014",
+   "N-11306",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2067100750233194665",
+  "nodes": [
+   "N-10000",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2067221120814629310",
+  "nodes": [
+   "N-11306"
+  ],
+  "note": "Likely about the veteran treated in Russia."
+ },
+ {
+  "id": "2067244856695476336",
+  "claims": [
+   "C-9716",
+   "C-10028",
+   "C-9717"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11306",
+   "N-10950"
+  ]
+ },
+ {
+  "id": "2067245865333383564",
+  "nodes": [
+   "N-10950"
+  ]
+ },
+ {
+  "id": "2067274767514661285",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2067293271848550692",
+  "nodes": [
+   "N-159",
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2067298752407146616",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2067351275508039765",
+  "claims": [
+   "C-10059",
+   "C-10041",
+   "C-10042",
+   "C-10062",
+   "C-10094"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-685",
+   "N-10768",
+   "N-10537",
+   "N-7"
+  ]
+ },
+ {
+  "id": "2067352424537260525",
+  "nodes": [
+   "N-159",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2067377330658344964",
+  "nodes": [
+   "N-681"
+  ]
+ },
+ {
+  "id": "2067404461555757103",
+  "nodes": [
+   "N-36"
+  ]
+ },
+ {
+  "id": "2067432602726810076",
+  "claims": [
+   "C-10559",
+   "C-10229",
+   "C-9911"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-266",
+   "N-1",
+   "N-11137"
+  ]
+ },
+ {
+  "id": "2067630513527902344",
+  "nodes": [
+   "N-1",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2067630859096653911",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "2067707928614711424",
+  "nodes": [
+   "N-10014",
+   "N-10971"
+  ]
+ },
+ {
+  "id": "2067710341337747701",
+  "nodes": [
+   "N-330",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2067720843430379602",
+  "claims": [
+   "C-10113",
+   "C-10134",
+   "C-10107",
+   "C-10144"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-5",
+   "N-9",
+   "N-10519"
+  ]
+ },
+ {
+  "id": "2067795565434253407",
+  "claims": [
+   "C-10470",
+   "C-10100",
+   "C-10021"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10923"
+  ]
+ },
+ {
+  "id": "2068060874338644393",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2068120096837357585",
+  "claims": [
+   "C-10211"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-159",
+   "N-10026"
+  ],
+  "note": "Rejects Neff's claim (likely the \"Tucker is lying\" post)."
+ },
+ {
+  "id": "2068120147592679721",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2068144086050058567",
+  "claims": [
+   "C-10213"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-22",
+   "N-1"
+  ],
+  "note": "Retweet of Kolvet quote on Tucker-Charlie friendship."
+ },
+ {
+  "id": "2068354045404668301",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2068354363353870803",
+  "nodes": [
+   "N-1",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2068354495302549870",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2068356101800698213",
+  "claims": [
+   "C-10159",
+   "C-10209",
+   "C-10208"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3",
+   "N-1",
+   "N-10026",
+   "N-10320"
+  ]
+ },
+ {
+  "id": "2068367978530320690",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2068368329891336439",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2068416647258349889",
+  "nodes": [
+   "N-49",
+   "N-10063"
+  ]
+ },
+ {
+  "id": "2068451667826073670",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2068698642186211567",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2068700971920720118",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-14",
+   "N-1",
+   "N-11",
+   "N-10455",
+   "N-5"
+  ]
+ },
+ {
+  "id": "2068702544281375154",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-14",
+   "N-11"
+  ]
+ },
+ {
+  "id": "2068704285789946045",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-14",
+   "N-11"
+  ]
+ },
+ {
+  "id": "2068708354898223363",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-22",
+   "N-46"
+  ]
+ },
+ {
+  "id": "2068710237025026113",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2068714936109351312",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2068716128285700304",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2068735024568930504",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-22",
+   "N-10628"
+  ]
+ },
+ {
+  "id": "2068736582337634308",
+  "claims": [
+   "C-10376"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10900"
+  ]
+ },
+ {
+  "id": "2068737356102852742",
+  "nodes": [
+   "N-10900",
+   "N-22",
+   "N-10385"
+  ]
+ },
+ {
+  "id": "2068750339814130080",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2068754396293292523",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2068780407923839475",
+  "nodes": [
+   "N-60",
+   "N-10629"
+  ]
+ },
+ {
+  "id": "2068799254613684272",
+  "claims": [
+   "C-10203"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-17"
+  ]
+ },
+ {
+  "id": "2068844127563767936",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2069085037320913357",
+  "claims": [
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2069108062732886449",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2069116800462180422",
+  "claims": [
+   "C-10214",
+   "C-10207"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-1",
+   "N-22",
+   "N-46",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2069147923921678400",
+  "nodes": [
+   "N-647",
+   "N-97"
+  ]
+ },
+ {
+  "id": "2069168464409841717",
+  "claims": [
+   "C-9711",
+   "C-9712",
+   "C-10214"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-30",
+   "N-647",
+   "N-220",
+   "N-10949",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2069169197003714729",
+  "claims": [
+   "C-10159",
+   "C-10162",
+   "C-10196",
+   "C-10207"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-3",
+   "N-224",
+   "N-2",
+   "N-22",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2069227621041295735",
+  "nodes": [
+   "N-10000",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2069227764440314300",
+  "nodes": [
+   "N-10000",
+   "N-3"
+  ]
+ },
+ {
+  "id": "2069228951143059574",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2069432580600901671",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2069435492194525186",
+  "nodes": [
+   "N-520",
+   "N-10026",
+   "N-10959"
+  ],
+  "note": "Albania land deals compared to Palestine."
+ },
+ {
+  "id": "2069439030761054693",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2069538160212938919",
+  "claims": [
+   "C-10260",
+   "C-10224",
+   "C-10276",
+   "C-10262"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-135",
+   "N-54",
+   "N-40",
+   "N-1",
+   "N-2",
+   "N-9",
+   "N-10519",
+   "N-10723"
+  ]
+ },
+ {
+  "id": "2069544932684042280",
+  "nodes": [
+   "N-10899",
+   "N-130"
+  ]
+ },
+ {
+  "id": "2069545671863001191",
+  "claims": [
+   "C-10363"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-32",
+   "N-10900",
+   "N-10689"
+  ]
+ },
+ {
+  "id": "2069606341333688512",
+  "claims": [
+   "C-10241",
+   "C-10239"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-681",
+   "N-10768",
+   "N-10678"
+  ]
+ },
+ {
+  "id": "2069777323503628604",
+  "claims": [
+   "C-10364",
+   "C-10375"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10900",
+   "N-97",
+   "N-643",
+   "N-10689"
+  ]
+ },
+ {
+  "id": "2069780296090710214",
+  "unlinked": "promotion"
+ }
+]

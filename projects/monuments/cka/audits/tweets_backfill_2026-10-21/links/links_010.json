@@ -1,0 +1,776 @@
+[
+{
+"id": "2006076470339461157",
+"claims": [],
+"nodes": [
+"N-364",
+"N-10372"
+],
+"note": "Argues Cabot beard regrowth shows Daily Wire segment of the 8th was pre-recorded."
+},
+{
+"id": "2006077089016160434",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2006079323833344029",
+"claims": [],
+"nodes": [
+"N-10900",
+"N-364",
+"N-10372"
+]
+},
+{
+"id": "2006080106117439537",
+"claims": [],
+"nodes": [
+"N-364",
+"N-10372"
+]
+},
+{
+"id": "2006080667264901579",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2006090975618224299",
+"claims": [],
+"nodes": [
+"N-1",
+"N-364"
+]
+},
+{
+"id": "2006091559830274125",
+"claims": [
+"C-4466"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-361",
+"N-364",
+"N-11338",
+"N-10372"
+],
+"note": "Segment aired 4 days late on the day Mitch believes he saw Cabot at Fort Huachuca."
+},
+{
+"id": "2006103195227979858",
+"claims": [],
+"nodes": [
+"N-364",
+"N-10372"
+]
+},
+{
+"id": "2006103897778139170",
+"claims": [
+"C-4466",
+"C-4470"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-361",
+"N-2",
+"N-11338",
+"N-10367"
+],
+"note": "Mitch saw Erika on the 8th in base hotel lobby, not at the 9th meeting."
+},
+{
+"id": "2006104499199295922",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2006108900592955811",
+"claims": [],
+"nodes": [
+"N-30",
+"N-1"
+]
+},
+{
+"id": "2006110333639823412",
+"claims": [],
+"nodes": [
+"N-30",
+"N-1"
+]
+},
+{
+"id": "2006111898832388212",
+"claims": [],
+"nodes": [
+"N-30",
+"N-1",
+"N-10025"
+],
+"note": "Says source texted George 7 days after the killing, not before."
+},
+{
+"id": "2006122922826477619",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2006186446932029732",
+"claims": [],
+"nodes": [
+"N-364",
+"N-10372"
+]
+},
+{
+"id": "2006189103214215653",
+"claims": [],
+"nodes": [
+"N-364"
+]
+},
+{
+"id": "2006194102304465400",
+"claims": [],
+"nodes": [
+"N-364",
+"N-10372"
+]
+},
+{
+"id": "2006203665325928796",
+"claims": [],
+"nodes": [
+"N-364",
+"N-10372"
+],
+"note": "Cabot says segment pre-recorded; he was in New York City, not Arizona."
+},
+{
+"id": "2006374476238188940",
+"unlinked": "promotion"
+},
+{
+"id": "2006709652197880292",
+"unlinked": "personal"
+},
+{
+"id": "2006742104782118923",
+"unlinked": "promotion"
+},
+{
+"id": "2006742471028449767",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2006793792888910122",
+"claims": [],
+"nodes": [
+"N-1"
+],
+"note": "Vultures circling a dead man, presumably Charlie Kirk."
+},
+{
+"id": "2006820919038402760",
+"claims": [],
+"nodes": [
+"N-10026"
+]
+},
+{
+"id": "2007117795654586392",
+"claims": [],
+"nodes": [
+"N-187",
+"N-189"
+]
+},
+{
+"id": "2007222963792466139",
+"claims": [],
+"nodes": [
+"N-130",
+"N-22",
+"N-1"
+]
+},
+{
+"id": "2007223611032252549",
+"claims": [],
+"nodes": [
+"N-60",
+"N-10000",
+"N-22"
+]
+},
+{
+"id": "2007227398471987486",
+"claims": [],
+"nodes": [
+"N-10082",
+"N-1",
+"N-40",
+"N-267",
+"N-97"
+]
+},
+{
+"id": "2007490154508788003",
+"claims": [],
+"nodes": [
+"N-10962",
+"N-10082"
+]
+},
+{
+"id": "2007490878403649788",
+"claims": [],
+"nodes": [
+"N-672",
+"N-10015",
+"N-10082"
+]
+},
+{
+"id": "2007500674033168751",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2007552278346248502",
+"claims": [],
+"nodes": [
+"N-361"
+]
+},
+{
+"id": "2007555126765236656",
+"claims": [],
+"nodes": [
+"N-361"
+]
+},
+{
+"id": "2007555912731705678",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2007693704149250264",
+"unlinked": "unclear"
+},
+{
+"id": "2007853683581587492",
+"unlinked": "unclear"
+},
+{
+"id": "2007881029584027661",
+"claims": [],
+"nodes": [
+"N-11338",
+"N-11376",
+"N-11020"
+]
+},
+{
+"id": "2007999486124261598",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2008006648892473816",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2008178621874131093",
+"claims": [
+"C-4456",
+"C-4455"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-82",
+"N-875",
+"N-11113"
+]
+},
+{
+"id": "2008180304717005041",
+"claims": [],
+"nodes": [
+"N-875",
+"N-82",
+"N-10270"
+]
+},
+{
+"id": "2008206033051894246",
+"claims": [
+"C-4455",
+"C-4627"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-82",
+"N-11113"
+]
+},
+{
+"id": "2008208615694381087",
+"claims": [
+"C-4624",
+"C-4625"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-82",
+"N-10270"
+]
+},
+{
+"id": "2008289275729657874",
+"claims": [
+"C-4471",
+"C-4472",
+"C-4444"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-93",
+"N-14",
+"N-3"
+],
+"note": "Show promo."
+},
+{
+"id": "2008354550386671722",
+"unlinked": "unclear"
+},
+{
+"id": "2008395910191956068",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2008564117842407596",
+"unlinked": "promotion"
+},
+{
+"id": "2008564377553867169",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2008568117312757797",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2008570517490724911",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2008654325254680885",
+"claims": [
+"C-4518",
+"C-4615",
+"C-4620"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-40",
+"N-10385",
+"N-22",
+"N-377",
+"N-82",
+"N-11113"
+],
+"note": "Show promo."
+},
+{
+"id": "2008686336618774993",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2008711789765419157",
+"unlinked": "unclear"
+},
+{
+"id": "2008737977921662997",
+"claims": [
+"C-4538",
+"C-4570"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-1"
+]
+},
+{
+"id": "2008931314221625405",
+"unlinked": "unclear"
+},
+{
+"id": "2008967017374622121",
+"claims": [
+"C-4645",
+"C-4643"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900",
+"N-10385"
+]
+},
+{
+"id": "2009016585735041534",
+"claims": [
+"C-4653",
+"C-4645"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900",
+"N-10385"
+],
+"note": "Show promo."
+},
+{
+"id": "2009040654115180761",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009044350622204258",
+"unlinked": "personal"
+},
+{
+"id": "2009050847695839651",
+"claims": [],
+"nodes": [
+"N-97",
+"N-10900",
+"N-10379"
+]
+},
+{
+"id": "2009050985113788842",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009051389457256821",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009053328505028691",
+"claims": [],
+"nodes": [
+"N-10900",
+"N-10379"
+]
+},
+{
+"id": "2009072199936954651",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009076513556283626",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009078029419762081",
+"claims": [],
+"nodes": [
+"N-388"
+]
+},
+{
+"id": "2009079057657561454",
+"claims": [
+"C-4653",
+"C-4652"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-388",
+"N-22",
+"N-10900"
+]
+},
+{
+"id": "2009098828100849794",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009390011108528303",
+"claims": [
+"C-4855",
+"C-4829",
+"C-4813"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-1",
+"N-36",
+"N-10397",
+"N-10018"
+],
+"note": "Show promo."
+},
+{
+"id": "2009423991820194247",
+"claims": [
+"C-4946"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-441",
+"N-22",
+"N-5",
+"N-4"
+]
+},
+{
+"id": "2009470189000380876",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2009649719379652899",
+"claims": [
+"C-4966",
+"C-4889"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10015",
+"N-10082"
+]
+},
+{
+"id": "2009831272089100305",
+"claims": [
+"C-4730"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10000",
+"N-1"
+]
+},
+{
+"id": "2010011503601107316",
+"claims": [],
+"nodes": [
+"N-27",
+"N-486",
+"N-10900"
+]
+},
+{
+"id": "2010013347786412416",
+"claims": [],
+"nodes": [
+"N-27",
+"N-30"
+]
+},
+{
+"id": "2010013597112660371",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2010014341568049462",
+"claims": [],
+"nodes": [
+"N-10063"
+]
+},
+{
+"id": "2010014862941007972",
+"claims": [
+"C-4458"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900",
+"N-10379"
+]
+},
+{
+"id": "2010015068587786402",
+"claims": [],
+"nodes": [
+"N-27"
+]
+},
+{
+"id": "2010015287819812934",
+"claims": [],
+"nodes": [
+"N-27"
+]
+},
+{
+"id": "2010015591764242537",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2010061847786041426",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2010066421791785350",
+"claims": [],
+"nodes": [
+"N-737",
+"N-27"
+]
+},
+{
+"id": "2010344950425330170",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2010374676367945935",
+"claims": [
+"C-4942"
+],
+"relation": "same_allegation",
+"nodes": []
+},
+{
+"id": "2010374850020274321",
+"claims": [
+"C-4942",
+"C-4983"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10962"
+]
+},
+{
+"id": "2010375917202206977",
+"claims": [],
+"nodes": [
+"N-10063"
+]
+},
+{
+"id": "2010386051458793962",
+"claims": [],
+"nodes": [
+"N-1",
+"N-10063",
+"N-10026"
+]
+},
+{
+"id": "2010536156232892682",
+"claims": [],
+"nodes": [
+"N-226"
+]
+},
+{
+"id": "2010829114731622706",
+"claims": [
+"C-4965",
+"C-4939",
+"C-4880"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10398",
+"N-10402",
+"N-10404",
+"N-1"
+],
+"note": "Show promo."
+},
+{
+"id": "2010906083410284626",
+"claims": [
+"C-4988"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-1",
+"N-452",
+"N-10539"
+]
+},
+{
+"id": "2011105551443509758",
+"claims": [],
+"nodes": [
+"N-846"
+]
+},
+{
+"id": "2011116098746532160",
+"unlinked": "personal"
+},
+{
+"id": "2011194026804810179",
+"claims": [
+"C-4986",
+"C-4987",
+"C-5042"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-1",
+"N-10539"
+],
+"note": "Show promo."
+},
+{
+"id": "2011254525060104539",
+"claims": [
+"C-5114"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900",
+"N-10379"
+]
+},
+{
+"id": "2011256095160107286",
+"claims": [
+"C-5114"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900"
+]
+},
+{
+"id": "2011259005877043667",
+"claims": [
+"C-5114"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900"
+]
+},
+{
+"id": "2011271656346648982",
+"claims": [
+"C-5114"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900",
+"N-10379",
+"N-3"
+]
+},
+{
+"id": "2011296417336476099",
+"claims": [
+"C-5114"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10900"
+]
+},
+{
+"id": "2011467687495373256",
+"unlinked": "retweet_no_comment"
+}
+]

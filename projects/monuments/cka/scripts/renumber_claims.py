@@ -61,6 +61,8 @@ def main() -> int:
     files = [p for d in ("drafts", "inscription", "config") for p in (CKA / d).rglob("*") if p.is_file()
              and p.suffix in {".md", ".json", ".csv", ".txt", ".jsonl"}]
     files.append(MON / "scripts" / "hostile_hard_gates.py")
+    if (CKA / "tweets" / "links.jsonl").exists():
+        files.append(CKA / "tweets" / "links.jsonl")  # never tweets.jsonl: post text is verbatim
     unknown: set[str] = set()
     for p in files:
         raw = p.read_text(encoding="utf-8")

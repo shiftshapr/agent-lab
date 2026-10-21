@@ -1,0 +1,904 @@
+[
+ {
+  "id": "1975416690830893318",
+  "claims": [],
+  "nodes": [
+   "N-154"
+  ],
+  "note": "Thanks to John Mappin."
+ },
+ {
+  "id": "1975567749549260949",
+  "claims": [
+   "C-1536",
+   "C-1512"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1975578368738533432",
+  "claims": [],
+  "nodes": [
+   "N-10564"
+  ]
+ },
+ {
+  "id": "1975580515907276961",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1975580566230868141",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1975580673047159000",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1975581167303995656",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1975638448703955387",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10089"
+  ]
+ },
+ {
+  "id": "1975663400517837311",
+  "claims": [
+   "C-1493"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-154",
+   "N-54"
+  ],
+  "note": "Show promo for ep16; donor = Mappin letter."
+ },
+ {
+  "id": "1975718730446610790",
+  "claims": [
+   "C-1520"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-1",
+   "N-10174"
+  ]
+ },
+ {
+  "id": "1975725701568635169",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1975742160801591419",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1975742188643381695",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1975744119700910455",
+  "claims": [
+   "C-1525",
+   "C-1523"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-162",
+   "N-10179"
+  ],
+  "note": "Iryna footage release dates."
+ },
+ {
+  "id": "1975929518956392874",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1975930608837943479",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1975932442902159411",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1975939438992634172",
+  "claims": [
+   "C-1456",
+   "C-1458",
+   "C-1453",
+   "C-1584"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-170",
+   "N-39",
+   "N-49",
+   "N-22",
+   "N-38",
+   "N-32",
+   "N-10000",
+   "N-10131",
+   "N-10900",
+   "N-55",
+   "N-1",
+   "N-10176"
+  ]
+ },
+ {
+  "id": "1975991969580220807",
+  "claims": [
+   "C-1528",
+   "C-1526",
+   "C-1522"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-162",
+   "N-10174"
+  ]
+ },
+ {
+  "id": "1976036668697428426",
+  "claims": [
+   "C-1520"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-1",
+   "N-10163",
+   "N-10176",
+   "N-10174"
+  ],
+  "note": "Show promo for ep17."
+ },
+ {
+  "id": "1976320636021813371",
+  "claims": [
+   "C-1688",
+   "C-1689"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-1",
+   "N-10187"
+  ]
+ },
+ {
+  "id": "1976404458625171760",
+  "claims": [
+   "C-1618",
+   "C-1687"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-55",
+   "N-10180",
+   "N-10187"
+  ],
+  "note": "Show promo for ep18."
+ },
+ {
+  "id": "1976460538264822230",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1976481670883946857",
+  "claims": [],
+  "nodes": [
+   "N-290"
+  ]
+ },
+ {
+  "id": "1976599565848752531",
+  "claims": [
+   "C-1617",
+   "C-1615",
+   "C-1618"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10180"
+  ]
+ },
+ {
+  "id": "1976599838562345317",
+  "claims": [
+   "C-1618",
+   "C-1637"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10180"
+  ]
+ },
+ {
+  "id": "1976600728572494008",
+  "claims": [
+   "C-1615",
+   "C-1618",
+   "C-1637"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10180",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1976601587520098700",
+  "claims": [
+   "C-1870",
+   "C-1617",
+   "C-1618"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-1",
+   "N-10341",
+   "N-10358",
+   "N-10180"
+  ],
+  "note": "Says surgeon lied to Kolvet; contradicts Kolvet's surgeon quote (C-1611)."
+ },
+ {
+  "id": "1976601775080886732",
+  "claims": [
+   "C-1870",
+   "C-1617",
+   "C-1618"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-1",
+   "N-10341",
+   "N-10358",
+   "N-10180"
+  ],
+  "note": "Self-retweet of 1976601587520098700 (deleted)."
+ },
+ {
+  "id": "1976602140677189775",
+  "claims": [
+   "C-1870",
+   "C-1617",
+   "C-1618"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-1",
+   "N-10341",
+   "N-10358",
+   "N-10180"
+  ],
+  "note": "Self-retweet of 1976601587520098700."
+ },
+ {
+  "id": "1976807959025074598",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1977002240675324178",
+  "claims": [],
+  "nodes": [
+   "N-10000",
+   "N-1",
+   "N-10451"
+  ]
+ },
+ {
+  "id": "1977010074054017520",
+  "claims": [],
+  "nodes": [
+   "N-1"
+  ],
+  "note": "Glenn not identified with certainty."
+ },
+ {
+  "id": "1977079066684801088",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10048"
+  ],
+  "note": "Surgeon identities."
+ },
+ {
+  "id": "1977168281456066960",
+  "claims": [
+   "C-2015",
+   "C-2129",
+   "C-1998"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10204",
+   "N-10253",
+   "N-10074",
+   "N-40",
+   "N-1",
+   "N-10276"
+  ],
+  "note": "Departure 'after' later corrected to before (1977362342338818240)."
+ },
+ {
+  "id": "1977169835617394794",
+  "claims": [
+   "C-2015",
+   "C-2024",
+   "C-2129",
+   "C-2281"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10204",
+   "N-10253",
+   "N-10074",
+   "N-1",
+   "N-10269",
+   "N-10276"
+  ]
+ },
+ {
+  "id": "1977171636014268731",
+  "claims": [],
+  "nodes": [
+   "N-10204",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1977172535557882028",
+  "claims": [
+   "C-1791",
+   "C-1958"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1977362342338818240",
+  "claims": [
+   "C-2068",
+   "C-2070",
+   "C-2016"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10204",
+   "N-10074",
+   "N-1"
+  ],
+  "note": "Corrects her earlier tweet: plane left morning of 9/10."
+ },
+ {
+  "id": "1977366161508425936",
+  "claims": [
+   "C-1671",
+   "C-2068",
+   "C-2015"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10185",
+   "N-10204",
+   "N-10074",
+   "N-10012",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1977369636082434400",
+  "claims": [],
+  "nodes": [
+   "N-10204",
+   "N-10549",
+   "N-10269"
+  ]
+ },
+ {
+  "id": "1977399788493541602",
+  "claims": [
+   "C-2029",
+   "C-2070",
+   "C-2021"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10204",
+   "N-10253",
+   "N-10074"
+  ]
+ },
+ {
+  "id": "1977533338593435937",
+  "claims": [],
+  "nodes": [
+   "N-40",
+   "N-10337"
+  ]
+ },
+ {
+  "id": "1977584601473388859",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10048"
+  ],
+  "note": "Unidentified man 'David' who cheered."
+ },
+ {
+  "id": "1977586574654341456",
+  "claims": [],
+  "nodes": [
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1977833254121296231",
+  "claims": [
+   "C-1773",
+   "C-1775",
+   "C-2034"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-1",
+   "N-10195",
+   "N-10187",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1977834448139043104",
+  "claims": [
+   "C-1775",
+   "C-1773"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-55",
+   "N-10195"
+  ]
+ },
+ {
+  "id": "1977836778238382169",
+  "claims": [],
+  "nodes": [
+   "N-55",
+   "N-10195"
+  ]
+ },
+ {
+  "id": "1977842325025182058",
+  "claims": [
+   "C-1774",
+   "C-1775"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-55",
+   "N-10195",
+   "N-10177"
+  ]
+ },
+ {
+  "id": "1977857849700016612",
+  "unlinked": "reply_chatter",
+  "note": "About Erin Molan; no node."
+ },
+ {
+  "id": "1978913548852924568",
+  "claims": [],
+  "nodes": [
+   "N-49",
+   "N-794",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1979038796797677929",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1979315665367376090",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1979753416328155269",
+  "claims": [],
+  "nodes": [
+   "N-163"
+  ]
+ },
+ {
+  "id": "1979753895334383897",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1979954114852471020",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1980112064216711408",
+  "claims": [
+   "C-1789",
+   "C-1405"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1980119786320523380",
+  "claims": [
+   "C-1402"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-917",
+   "N-27",
+   "N-118"
+  ]
+ },
+ {
+  "id": "1980120332435669399",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1980722706191663351",
+  "claims": [],
+  "nodes": [
+   "N-163"
+  ]
+ },
+ {
+  "id": "1980754475368485177",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "1980856309877731562",
+  "claims": [],
+  "nodes": [
+   "N-163",
+   "N-221"
+  ]
+ },
+ {
+  "id": "1980858357411099066",
+  "claims": [],
+  "nodes": [
+   "N-22"
+  ]
+ },
+ {
+  "id": "1980858524562513973",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1981407311957840279",
+  "claims": [],
+  "nodes": [
+   "N-50"
+  ]
+ },
+ {
+  "id": "1981408991940137453",
+  "claims": [],
+  "nodes": [
+   "N-50"
+  ],
+  "note": "Book club reading on Freud/psychoanalysis."
+ },
+ {
+  "id": "1981409497349574866",
+  "claims": [
+   "C-1917"
+  ],
+  "relation": "same_allegation",
+  "nodes": []
+ },
+ {
+  "id": "1981409663674662976",
+  "claims": [],
+  "nodes": [
+   "N-50"
+  ],
+  "note": "Self-retweet of 1981408991940137453 (deleted)."
+ },
+ {
+  "id": "1981410488610410897",
+  "claims": [],
+  "nodes": [
+   "N-51",
+   "N-50"
+  ]
+ },
+ {
+  "id": "1981411616618139917",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1981416880398356597",
+  "claims": [
+   "C-1818",
+   "C-1809"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-27",
+   "N-523"
+  ]
+ },
+ {
+  "id": "1981445492040196123",
+  "claims": [],
+  "nodes": [
+   "N-163",
+   "N-46"
+  ]
+ },
+ {
+  "id": "1981517007695860062",
+  "claims": [],
+  "nodes": [
+   "N-60",
+   "N-259",
+   "N-602"
+  ]
+ },
+ {
+  "id": "1981518489757331541",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1981940360378224840",
+  "claims": [],
+  "nodes": [
+   "N-604",
+   "N-3"
+  ]
+ },
+ {
+  "id": "1982138222294499564",
+  "claims": [],
+  "nodes": [
+   "N-181",
+   "N-10014",
+   "N-1",
+   "N-10055"
+  ]
+ },
+ {
+  "id": "1982154520881717699",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1982242610379902994",
+  "claims": [
+   "C-1929",
+   "C-1926"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82"
+  ]
+ },
+ {
+  "id": "1982276220340297972",
+  "claims": [
+   "C-1928"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82",
+   "N-377"
+  ]
+ },
+ {
+  "id": "1982445615746318736",
+  "claims": [],
+  "nodes": [
+   "N-3",
+   "N-82"
+  ],
+  "note": "Quotes the Elysee hack story."
+ },
+ {
+  "id": "1982585443603591363",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1982781999241728493",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1982820012650909861",
+  "claims": [
+   "C-1928"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82"
+  ]
+ },
+ {
+  "id": "1982865184667656613",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1982896867857064049",
+  "claims": [
+   "C-1740",
+   "C-1741",
+   "C-1781"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-190",
+   "N-10338"
+  ],
+  "note": "Show promo for ep19."
+ },
+ {
+  "id": "1982898355425653221",
+  "unlinked": "promotion",
+  "note": "Trigger warning for dream discussion on the show."
+ },
+ {
+  "id": "1982991650462019952",
+  "claims": [
+   "C-1781",
+   "C-1782"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-3"
+  ]
+ },
+ {
+  "id": "1982991818754343124",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-3",
+   "N-10002"
+  ]
+ },
+ {
+  "id": "1982999100976181621",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-3"
+  ]
+ },
+ {
+  "id": "1983187876272844892",
+  "claims": [],
+  "nodes": [
+   "N-11317",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1983188343488950709",
+  "claims": [],
+  "nodes": [
+   "N-11317"
+  ]
+ },
+ {
+  "id": "1983189328001151150",
+  "claims": [],
+  "nodes": [
+   "N-55",
+   "N-11317"
+  ]
+ },
+ {
+  "id": "1983201662798840165",
+  "claims": [],
+  "nodes": [
+   "N-283",
+   "N-82",
+   "N-377",
+   "N-11113"
+  ]
+ },
+ {
+  "id": "1983223726633066905",
+  "claims": [
+   "C-1918"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-192"
+  ]
+ },
+ {
+  "id": "1983249789853790516",
+  "claims": [],
+  "nodes": [
+   "N-60",
+   "N-277",
+   "N-11317"
+  ]
+ },
+ {
+  "id": "1983269412158455897",
+  "claims": [],
+  "nodes": [
+   "N-36",
+   "N-10082",
+   "N-60",
+   "N-11317"
+  ]
+ },
+ {
+  "id": "1983270358011740248",
+  "claims": [
+   "C-1899",
+   "C-1901",
+   "C-1822"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-190",
+   "N-1",
+   "N-82"
+  ],
+  "note": "Show promo for ep20."
+ },
+ {
+  "id": "1983270578921550051",
+  "claims": [],
+  "nodes": [
+   "N-60",
+   "N-22"
+  ]
+ },
+ {
+  "id": "1983319642014921058",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1983320504015753601",
+  "claims": [],
+  "nodes": [
+   "N-11317"
+  ]
+ }
+]

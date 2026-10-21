@@ -1,0 +1,724 @@
+[
+{
+"id": "2041880882433118395",
+"unlinked": "off_topic"
+},
+{
+"id": "2041902678159106443",
+"nodes": [
+"N-93",
+"N-244"
+]
+},
+{
+"id": "2041948361570283553",
+"nodes": [
+"N-10026"
+]
+},
+{
+"id": "2042006549351084146",
+"nodes": [
+"N-212"
+]
+},
+{
+"id": "2042007082258337943",
+"nodes": [
+"N-11170",
+"N-10870"
+]
+},
+{
+"id": "2042009655006613794",
+"nodes": [
+"N-10025",
+"N-10026"
+]
+},
+{
+"id": "2042018941384470818",
+"nodes": [
+"N-10075"
+]
+},
+{
+"id": "2042046289991327747",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042049796966371615",
+"claims": [
+"C-8055",
+"C-8056",
+"C-8066",
+"C-8064",
+"C-8059"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-40",
+"N-41",
+"N-330",
+"N-11012"
+],
+"note": "Robinson in custody before 7pm and clothing lie, as first reported Sept 29 per ep90"
+},
+{
+"id": "2042050426061623622",
+"nodes": [
+"N-11129"
+]
+},
+{
+"id": "2042055961951470075",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2042072455431205174",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042241453007462492",
+"unlinked": "unclear"
+},
+{
+"id": "2042242343265317181",
+"nodes": [
+"N-10984"
+]
+},
+{
+"id": "2042242928882442598",
+"nodes": [
+"N-10984"
+]
+},
+{
+"id": "2042243692820398444",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2042259864676716702",
+"unlinked": "personal"
+},
+{
+"id": "2042325179284549889",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042325296951513110",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2042360318085456268",
+"unlinked": "unclear"
+},
+{
+"id": "2042574773754950041",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042677874684043629",
+"claims": [
+"C-7953"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-5"
+]
+},
+{
+"id": "2042698976831414290",
+"unlinked": "promotion"
+},
+{
+"id": "2042734714193104984",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042742856347975741",
+"claims": [
+"C-8019"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-5",
+"N-22"
+]
+},
+{
+"id": "2042743634466869526",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2042757191719944528",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042769030059024862",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042775888454930633",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2042986805922816302",
+"nodes": [
+"N-178",
+"N-4"
+]
+},
+{
+"id": "2042990580028809588",
+"nodes": [
+"N-178",
+"N-4"
+]
+},
+{
+"id": "2042992932735660334",
+"nodes": [
+"N-178",
+"N-4"
+]
+},
+{
+"id": "2042987996207599764",
+"nodes": [
+"N-4"
+]
+},
+{
+"id": "2042991914597650810",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2043001091227324716",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2043019737815294137",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2043024101208461542",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2043028768218829239",
+"claims": [
+"C-8489",
+"C-8544",
+"C-8078"
+],
+"relation": "same_allegation",
+"nodes": [],
+"note": "Feds adding new messages/details to Robinson case texts"
+},
+{
+"id": "2043054882047795214",
+"nodes": [
+"N-10063"
+]
+},
+{
+"id": "2043066095817334933",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2043069334864416987",
+"nodes": [
+"N-60",
+"N-22"
+]
+},
+{
+"id": "2043069707104727065",
+"claims": [
+"C-8003",
+"C-8438",
+"C-8439"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-60",
+"N-10630"
+]
+},
+{
+"id": "2043073638723731686",
+"nodes": [
+"N-333"
+]
+},
+{
+"id": "2043074171341513043",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2043074570672853039",
+"claims": [
+"C-8544"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-40",
+"N-66"
+],
+"note": "retweet of Village Crazy Lady on added 'pooch' message"
+},
+{
+"id": "2043096130561388766",
+"nodes": [
+"N-93"
+]
+},
+{
+"id": "2043098062957023363",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2043099029538558321",
+"claims": [
+"C-8241"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-93",
+"N-10541"
+],
+"note": "sarcastic: bombing the already-open Strait"
+},
+{
+"id": "2043107582521328128",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2043348011313508722",
+"unlinked": "promotion"
+},
+{
+"id": "2043520517064228876",
+"nodes": [
+"N-4"
+]
+},
+{
+"id": "2043688897184506308",
+"nodes": [
+"N-4"
+]
+},
+{
+"id": "2043719879971230155",
+"nodes": [
+"N-4"
+]
+},
+{
+"id": "2043525232326013058",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2043654825712267300",
+"claims": [
+"C-8094"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-420",
+"N-5"
+],
+"note": "retweet of EWTN quoting Pope Leo's response"
+},
+{
+"id": "2043683270685065356",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2043683515204546791",
+"nodes": [
+"N-36",
+"N-5",
+"N-4"
+]
+},
+{
+"id": "2043769217846059349",
+"nodes": [
+"N-227"
+]
+},
+{
+"id": "2043800674329141526",
+"claims": [
+"C-8029",
+"C-8036",
+"C-8089",
+"C-8064"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10000",
+"N-1",
+"N-5",
+"N-420",
+"N-40",
+"N-10664"
+],
+"note": "episode 90 rundown"
+},
+{
+"id": "2043827375398375871",
+"unlinked": "unclear"
+},
+{
+"id": "2043845026204012638",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2043870086860054996",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2044160733768785983",
+"claims": [
+"C-8178",
+"C-8168",
+"C-8167"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10975",
+"N-341",
+"N-2",
+"N-10000",
+"N-10599",
+"N-10600"
+],
+"note": "episode 91 rundown"
+},
+{
+"id": "2044192147016945970",
+"claims": [
+"C-8205",
+"C-8208",
+"C-8362"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-4",
+"N-10607"
+]
+},
+{
+"id": "2044193525386891540",
+"claims": [
+"C-8210",
+"C-8211"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-10611"
+]
+},
+{
+"id": "2044197399564788007",
+"unlinked": "unclear"
+},
+{
+"id": "2044620201568993500",
+"unlinked": "unclear"
+},
+{
+"id": "2044199866021073026",
+"claims": [
+"C-8362",
+"C-8226",
+"C-8025",
+"C-8293",
+"C-8220"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-1",
+"N-4",
+"N-10000",
+"N-10608",
+"N-10936"
+]
+},
+{
+"id": "2044201238766465446",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2044201358811693270",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2044212008283668621",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2044212510954332306",
+"nodes": [
+"N-2",
+"N-6"
+]
+},
+{
+"id": "2044241930268131629",
+"nodes": [
+"N-10000"
+]
+},
+{
+"id": "2044258417955463180",
+"claims": [
+"C-8235"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-10000"
+]
+},
+{
+"id": "2044518813459234991",
+"claims": [
+"C-8207",
+"C-8256",
+"C-8261"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-341",
+"N-10000"
+],
+"note": "episode 92 rundown"
+},
+{
+"id": "2044545077368758362",
+"unlinked": "unclear"
+},
+{
+"id": "2044692777821438235",
+"unlinked": "unclear"
+},
+{
+"id": "2044764200908513330",
+"unlinked": "unclear"
+},
+{
+"id": "2044778635907805609",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2044779339657445495",
+"nodes": [
+"N-244"
+]
+},
+{
+"id": "2044779692696216037",
+"nodes": [
+"N-244"
+]
+},
+{
+"id": "2044794336299098221",
+"claims": [
+"C-8283",
+"C-8542"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-1",
+"N-10751"
+]
+},
+{
+"id": "2044804284563259453",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2044805300700459310",
+"unlinked": "unclear"
+},
+{
+"id": "2044888120940748825",
+"claims": [
+"C-8289",
+"C-8290",
+"C-8348",
+"C-8329"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-10000",
+"N-40",
+"N-10975",
+"N-341",
+"N-10617"
+],
+"note": "episode 93 rundown"
+},
+{
+"id": "2044915602515464540",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2044924130533707803",
+"unlinked": "unclear"
+},
+{
+"id": "2044934742261256585",
+"unlinked": "retweet_no_comment"
+},
+{
+"id": "2045117362920165769",
+"claims": [
+"C-8283"
+],
+"relation": "follow_up",
+"nodes": [
+"N-1",
+"N-10751"
+],
+"note": "extends: presses her cremation question as yes/no"
+},
+{
+"id": "2045141999532101902",
+"unlinked": "unclear"
+},
+{
+"id": "2045155696950313458",
+"claims": [
+"C-8423",
+"C-8234",
+"C-8418",
+"C-8417",
+"C-8411"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-10000",
+"N-5",
+"N-10610",
+"N-10627"
+]
+},
+{
+"id": "2045162126654763261",
+"claims": [
+"C-8296",
+"C-8295",
+"C-8292",
+"C-8412",
+"C-8293"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-2",
+"N-4",
+"N-10000",
+"N-10607",
+"N-10617"
+],
+"note": "corrects earlier at-home claim (C-8207): already in Georgia"
+},
+{
+"id": "2045175511198974249",
+"unlinked": "reply_chatter"
+},
+{
+"id": "2045183249324929042",
+"claims": [
+"C-8387",
+"C-8390",
+"C-8386",
+"C-8389"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-40",
+"N-10975",
+"N-10014",
+"N-10581"
+]
+},
+{
+"id": "2045184319367307732",
+"claims": [
+"C-8386",
+"C-8398"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-69",
+"N-10014",
+"N-10202"
+]
+},
+{
+"id": "2045184417669230615",
+"claims": [
+"C-8386",
+"C-8398"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-69",
+"N-10014",
+"N-10202"
+],
+"note": "self-retweet"
+},
+{
+"id": "2045187033870766490",
+"claims": [
+"C-8402",
+"C-8403",
+"C-8386"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-40",
+"N-2",
+"N-69",
+"N-10014",
+"N-10975"
+]
+},
+{
+"id": "2045200557531435037",
+"claims": [
+"C-8386"
+],
+"relation": "same_allegation",
+"nodes": [
+"N-40",
+"N-5",
+"N-10014",
+"N-11149"
+]
+},
+{
+"id": "2045209192059793624",
+"nodes": [
+"N-129"
+]
+},
+{
+"id": "2045259078054650343",
+"unlinked": "reply_chatter"
+}
+]

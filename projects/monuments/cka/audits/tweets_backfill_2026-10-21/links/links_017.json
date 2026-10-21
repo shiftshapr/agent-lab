@@ -1,0 +1,899 @@
+[
+ {
+  "id": "2036071930629902387",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2036072191092039735",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2036072583905345816",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2036080813565960364",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2036088359353721149",
+  "claims": [
+   "C-7840",
+   "C-7841",
+   "C-7580"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-5",
+   "N-10026",
+   "N-10063",
+   "N-10541",
+   "N-10539"
+  ],
+  "note": "Charlie tried to stop Trump's Iran war; Gaza real estate deals closed before Oct 7."
+ },
+ {
+  "id": "2036089706383831328",
+  "nodes": [
+   "N-10026",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2036096615547629714",
+  "nodes": [
+   "N-10026",
+   "N-11042"
+  ]
+ },
+ {
+  "id": "2036099035979771937",
+  "nodes": [
+   "N-10063",
+   "N-10670"
+  ]
+ },
+ {
+  "id": "2036100517827420259",
+  "nodes": [
+   "N-178",
+   "N-869",
+   "N-5",
+   "N-36",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2036107758194360721",
+  "claims": [
+   "C-7245",
+   "C-7258",
+   "C-7650"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-209",
+   "N-2",
+   "N-1",
+   "N-10000",
+   "N-10551"
+  ],
+  "note": "TPUSA attacks Kent because he wanted to probe foreign involvement in the assassination."
+ },
+ {
+  "id": "2036192492068934079",
+  "claims": [
+   "C-7284",
+   "C-7261",
+   "C-7262",
+   "C-7255"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-2",
+   "N-209",
+   "N-10000",
+   "N-5",
+   "N-178",
+   "N-10548"
+  ],
+  "note": "Episode promo: tarmac hug, Kent leak accusation."
+ },
+ {
+  "id": "2036221995487035867",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2036248210721644913",
+  "nodes": [
+   "N-5",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2036440551231221815",
+  "nodes": [
+   "N-5"
+  ]
+ },
+ {
+  "id": "2036440918027276293",
+  "nodes": [
+   "N-755",
+   "N-10026",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2036450680076939326",
+  "claims": [
+   "C-7245",
+   "C-7275"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10026",
+   "N-10163"
+  ],
+  "note": "Truncated duplicate of the next post."
+ },
+ {
+  "id": "2036451469285536114",
+  "claims": [
+   "C-7245",
+   "C-7275",
+   "C-7863"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-3",
+   "N-10000",
+   "N-209",
+   "N-10026",
+   "N-10163",
+   "N-10551"
+  ]
+ },
+ {
+  "id": "2036451879647887594",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2036461399942082707",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2036510107077357782",
+  "nodes": [
+   "N-10048",
+   "N-10508"
+  ]
+ },
+ {
+  "id": "2036510813792374859",
+  "claims": [
+   "C-7403",
+   "C-7693",
+   "C-7631"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-11054",
+   "N-10508"
+  ],
+  "note": "Bomb dogs could not find gun; scene paved over next day."
+ },
+ {
+  "id": "2036558503842660711",
+  "claims": [
+   "C-7352",
+   "C-7356",
+   "C-7349",
+   "C-7401"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-40",
+   "N-1"
+  ],
+  "note": "Episode promo: Erika in unmarked building on 9/10; trial testimony framed as betrayal."
+ },
+ {
+  "id": "2036561086325956670",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2036587125987070065",
+  "claims": [
+   "C-7625",
+   "C-7626"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10566",
+   "N-10021"
+  ],
+  "note": "Retweet: Robinson did not confess to his parents."
+ },
+ {
+  "id": "2036588598695260498",
+  "nodes": [
+   "N-1",
+   "N-11300"
+  ]
+ },
+ {
+  "id": "2036591763893244217",
+  "nodes": [
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2036607508656124287",
+  "nodes": [
+   "N-268",
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "2036608403619897725",
+  "nodes": [
+   "N-39",
+   "N-204",
+   "N-5",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2036609894774718465",
+  "nodes": [
+   "N-212",
+   "N-10563"
+  ]
+ },
+ {
+  "id": "2036610973562216557",
+  "claims": [
+   "C-7477",
+   "C-7480",
+   "C-7504"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-910",
+   "N-1",
+   "N-10563"
+  ],
+  "note": "Mocks the Wilkins thread: Catholic-Russian network run by Flynn, anti-military."
+ },
+ {
+  "id": "2036619474757898425",
+  "nodes": [
+   "N-212",
+   "N-277",
+   "N-10563"
+  ]
+ },
+ {
+  "id": "2036622329489277058",
+  "claims": [
+   "C-7477",
+   "C-7491",
+   "C-7480",
+   "C-7479"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-212",
+   "N-69",
+   "N-624",
+   "N-647",
+   "N-910",
+   "N-209",
+   "N-5",
+   "N-1",
+   "N-10014",
+   "N-10563"
+  ]
+ },
+ {
+  "id": "2036777994916634662",
+  "claims": [
+   "C-7493"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10564"
+  ],
+  "note": "Retweet of Calvin Robinson on the Daily Wire Catholic convert article."
+ },
+ {
+  "id": "2036800538918912038",
+  "nodes": [
+   "N-101"
+  ]
+ },
+ {
+  "id": "2036801414257606665",
+  "nodes": [
+   "N-10451",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2036803441444471047",
+  "nodes": [
+   "N-39"
+  ]
+ },
+ {
+  "id": "2036816396378620197",
+  "nodes": [
+   "N-212",
+   "N-624",
+   "N-189",
+   "N-10563"
+  ]
+ },
+ {
+  "id": "2036912951647510739",
+  "nodes": [
+   "N-10063",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2036921265911468445",
+  "claims": [
+   "C-7423",
+   "C-7427",
+   "C-7471"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-7",
+   "N-2",
+   "N-217",
+   "N-69",
+   "N-212",
+   "N-10563"
+  ],
+  "note": "Episode promo: Turek hospital time, McCoy, Patel/Wilkins."
+ },
+ {
+  "id": "2036942155567026592",
+  "nodes": [
+   "N-164"
+  ]
+ },
+ {
+  "id": "2036950255321632777",
+  "claims": [
+   "C-7262",
+   "C-7335",
+   "C-7275",
+   "C-7341"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-164",
+   "N-209",
+   "N-10000",
+   "N-2",
+   "N-1",
+   "N-10551"
+  ],
+  "note": "Kent was not her source; challenges Rabbi Wolicki to come on show."
+ },
+ {
+  "id": "2036979871885275433",
+  "claims": [
+   "C-7480"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-910",
+   "N-212",
+   "N-189",
+   "N-10563"
+  ]
+ },
+ {
+  "id": "2037142094309888063",
+  "claims": [
+   "C-7262"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-164",
+   "N-209",
+   "N-10551"
+  ]
+ },
+ {
+  "id": "2037162972208918830",
+  "nodes": [
+   "N-553"
+  ]
+ },
+ {
+  "id": "2037181639726391762",
+  "nodes": [
+   "N-591",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2037239378716582309",
+  "nodes": [
+   "N-10867",
+   "N-1"
+  ]
+ },
+ {
+  "id": "2037253725018902618",
+  "nodes": [
+   "N-60"
+  ]
+ },
+ {
+  "id": "2037255399867371842",
+  "claims": [
+   "C-7262"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-209",
+   "N-10551"
+  ]
+ },
+ {
+  "id": "2037265750910537953",
+  "nodes": [
+   "N-209",
+   "N-10551"
+  ]
+ },
+ {
+  "id": "2037276236934791556",
+  "claims": [
+   "C-7539",
+   "C-7509",
+   "C-7507"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-594",
+   "N-2",
+   "N-11356",
+   "N-10108",
+   "N-10000",
+   "N-10352"
+  ],
+  "note": "Episode promo: Druski skit, police scanner, plane at Fort Huachuca."
+ },
+ {
+  "id": "2037281771608322341",
+  "claims": [
+   "C-7542"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-14"
+  ],
+  "note": "Retweet of the Kolvet post read on air."
+ },
+ {
+  "id": "2037283477440037201",
+  "nodes": [
+   "N-14"
+  ],
+  "note": "Bare-link reply to Kolvet's 'Now do conservative black women'."
+ },
+ {
+  "id": "2037304310988513565",
+  "nodes": [
+   "N-755",
+   "N-97",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2037305313473286307",
+  "nodes": [
+   "N-30"
+  ]
+ },
+ {
+  "id": "2037345597670240488",
+  "nodes": [
+   "N-5"
+  ]
+ },
+ {
+  "id": "2037514522785669359",
+  "nodes": [
+   "N-30",
+   "N-11317"
+  ]
+ },
+ {
+  "id": "2037516551822221431",
+  "nodes": [
+   "N-30"
+  ]
+ },
+ {
+  "id": "2037518965090423200",
+  "claims": [
+   "C-8001"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-60",
+   "N-10628"
+  ]
+ },
+ {
+  "id": "2037521296699892193",
+  "claims": [
+   "C-7883",
+   "C-7888",
+   "C-7878"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-10000",
+   "N-10431",
+   "N-10664"
+  ]
+ },
+ {
+  "id": "2037521984364376072",
+  "claims": [
+   "C-7880",
+   "C-7888",
+   "C-7882"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-10431"
+  ]
+ },
+ {
+  "id": "2037522623123374564",
+  "claims": [
+   "C-7888"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10431"
+  ]
+ },
+ {
+  "id": "2037561075265061321",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2037561877534843362",
+  "nodes": [
+   "N-69",
+   "N-10014"
+  ]
+ },
+ {
+  "id": "2037563309398843690",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2037571277397905604",
+  "claims": [
+   "C-7554"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-30"
+  ],
+  "note": "Denies the drunk hit-and-run claim; explains the $6,987 insurance claim."
+ },
+ {
+  "id": "2037574504034033806",
+  "claims": [
+   "C-7554"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-30"
+  ]
+ },
+ {
+  "id": "2037575789353247231",
+  "nodes": [
+   "N-69",
+   "N-49",
+   "N-10963"
+  ]
+ },
+ {
+  "id": "2037647241997889680",
+  "nodes": [
+   "N-10564"
+  ]
+ },
+ {
+  "id": "2037651731132149821",
+  "nodes": [
+   "N-69",
+   "N-212"
+  ]
+ },
+ {
+  "id": "2037656166684094693",
+  "nodes": [
+   "N-22",
+   "N-36"
+  ]
+ },
+ {
+  "id": "2037671921504919744",
+  "nodes": [
+   "N-22",
+   "N-36"
+  ]
+ },
+ {
+  "id": "2037698230557782059",
+  "nodes": [
+   "N-553"
+  ]
+ },
+ {
+  "id": "2037700061279265264",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2037716456087990685",
+  "claims": [
+   "C-7842"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11079",
+   "N-10125",
+   "N-10026",
+   "N-10347"
+  ],
+  "note": "Planes head to Utah whenever Israel has a regional war."
+ },
+ {
+  "id": "2037880432813920704",
+  "nodes": [
+   "N-36",
+   "N-11337",
+   "N-11336"
+  ]
+ },
+ {
+  "id": "2037881399823192067",
+  "nodes": [
+   "N-553"
+  ]
+ },
+ {
+  "id": "2037909821408542737",
+  "nodes": [
+   "N-36",
+   "N-11337",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2037910206617710770",
+  "nodes": [
+   "N-10015",
+   "N-11042"
+  ]
+ },
+ {
+  "id": "2038012745413537823",
+  "nodes": [
+   "N-189"
+  ]
+ },
+ {
+  "id": "2038355190265397256",
+  "nodes": [
+   "N-101",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2038355282300965375",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2038387076463239191",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2038396389143511288",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2038417603954082208",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2038417979793084759",
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2038418161452666884",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2038422387587269046",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2038590222598803719",
+  "claims": [
+   "C-7559",
+   "C-7568",
+   "C-7558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11129",
+   "N-10290",
+   "N-1",
+   "N-10568"
+  ]
+ },
+ {
+  "id": "2038591585936425352",
+  "claims": [
+   "C-7586",
+   "C-7557",
+   "C-7558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-82",
+   "N-10567",
+   "N-11129",
+   "N-1",
+   "N-10316",
+   "N-10568"
+  ]
+ },
+ {
+  "id": "2038592037931368551",
+  "claims": [
+   "C-7569",
+   "C-7586",
+   "C-7579",
+   "C-7558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11129",
+   "N-1",
+   "N-10568"
+  ]
+ },
+ {
+  "id": "2038592466308288670",
+  "claims": [
+   "C-7559",
+   "C-7568",
+   "C-7558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11129",
+   "N-10290",
+   "N-1",
+   "N-10568"
+  ]
+ },
+ {
+  "id": "2038635428891316280",
+  "nodes": [
+   "N-209",
+   "N-521",
+   "N-4"
+  ]
+ },
+ {
+  "id": "2038652847978369445",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2038654520708767822",
+  "nodes": [
+   "N-589"
+  ]
+ },
+ {
+  "id": "2038654914943967589",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2038662485876633839",
+  "claims": [
+   "C-7617"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-10541"
+  ]
+ },
+ {
+  "id": "2038729417640362047",
+  "claims": [
+   "C-7565",
+   "C-7569",
+   "C-7618",
+   "C-7558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10568",
+   "N-272",
+   "N-11397",
+   "N-40",
+   "N-11129"
+  ],
+  "note": "Episode promo: Athanor lodge trial, maroon berets, Brooksby resignation, 33."
+ },
+ {
+  "id": "2038771698334314785",
+  "nodes": [
+   "N-40",
+   "N-10508"
+  ]
+ },
+ {
+  "id": "2038773596588269726",
+  "claims": [
+   "C-7673",
+   "C-7674",
+   "C-7403",
+   "C-7712"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11054",
+   "N-10621"
+  ]
+ },
+ {
+  "id": "2038775570817863974",
+  "unlinked": "unclear"
+ }
+]

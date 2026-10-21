@@ -1,0 +1,860 @@
+[
+ {
+  "id": "1986467867097805149",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1986468012199977469",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986468043547984321",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1986468249953874146",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1986468393352823294",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1986468393357136195",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1986506737571012971",
+  "claims": [
+   "C-2462",
+   "C-2480",
+   "C-2461"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-229",
+   "N-602",
+   "N-10900"
+  ]
+ },
+ {
+  "id": "1986507180183593438",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986507615237484730",
+  "claims": [],
+  "nodes": [
+   "N-229",
+   "N-221",
+   "N-10900"
+  ],
+  "note": "Refers to Alyssa Cordova as the hired PR person."
+ },
+ {
+  "id": "1986508947428196683",
+  "claims": [
+   "C-2480"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-229"
+  ]
+ },
+ {
+  "id": "1986509899434512401",
+  "claims": [],
+  "nodes": [
+   "N-229"
+  ]
+ },
+ {
+  "id": "1986522866246926526",
+  "claims": [
+   "C-2600"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11228"
+  ]
+ },
+ {
+  "id": "1986523594931732537",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986523808023355847",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1986530497099342087",
+  "unlinked": "off_topic",
+  "note": "Heritage Foundation; no matching node."
+ },
+ {
+  "id": "1986532633388650549",
+  "claims": [
+   "C-2343"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-5",
+   "N-9"
+  ],
+  "note": "Retweet of a clip of her saying it."
+ },
+ {
+  "id": "1986542744765124701",
+  "claims": [],
+  "nodes": [
+   "N-228"
+  ]
+ },
+ {
+  "id": "1986546661527892274",
+  "claims": [
+   "C-2407",
+   "C-2600"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11228",
+   "N-2",
+   "N-10000"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1986574590512926746",
+  "claims": [],
+  "nodes": [
+   "N-228"
+  ]
+ },
+ {
+  "id": "1986626362942042115",
+  "claims": [],
+  "nodes": [
+   "N-241"
+  ]
+ },
+ {
+  "id": "1986627206072672340",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1986634236330135992",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986644284377117118",
+  "claims": [
+   "C-2453"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-228"
+  ]
+ },
+ {
+  "id": "1986814073913176107",
+  "claims": [
+   "C-2600"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11228",
+   "N-484",
+   "N-82",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1986815309936832936",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1986815451016331289",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1986845598381978046",
+  "claims": [
+   "C-2604",
+   "C-2641",
+   "C-2503"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-46",
+   "N-2",
+   "N-1",
+   "N-10642"
+  ]
+ },
+ {
+  "id": "1986847615032430597",
+  "claims": [
+   "C-2604",
+   "C-2493",
+   "C-2503"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-46",
+   "N-2",
+   "N-10406"
+  ]
+ },
+ {
+  "id": "1986907106880999457",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-2",
+   "N-46"
+  ]
+ },
+ {
+  "id": "1986907482178937308",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1986935526788595831",
+  "claims": [
+   "C-2493"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-201",
+   "N-46",
+   "N-234",
+   "N-11159"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1986945967392743527",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1986946624799522816",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986965687785357430",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1986966840233632181",
+  "claims": [
+   "C-2541",
+   "C-2538",
+   "C-2536"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-234",
+   "N-11159",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1986973628525838377",
+  "claims": [
+   "C-2637",
+   "C-2536"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11159"
+  ]
+ },
+ {
+  "id": "1986981591965462869",
+  "claims": [
+   "C-2541",
+   "C-2538",
+   "C-2536"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-234",
+   "N-11159",
+   "N-1"
+  ],
+  "note": "Retweet of her own post."
+ },
+ {
+  "id": "1986984316254003582",
+  "claims": [],
+  "nodes": [
+   "N-201"
+  ]
+ },
+ {
+  "id": "1986999087917408466",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1987004488214069677",
+  "claims": [
+   "C-2502"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "1987006194049802657",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1987149263839604800",
+  "claims": [],
+  "nodes": [
+   "N-236"
+  ]
+ },
+ {
+  "id": "1987149628878274908",
+  "claims": [
+   "C-2567"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-93",
+   "N-238",
+   "N-10241"
+  ]
+ },
+ {
+  "id": "1987191103481663863",
+  "claims": [],
+  "nodes": [
+   "N-298",
+   "N-10081"
+  ]
+ },
+ {
+  "id": "1987209429163319393",
+  "claims": [
+   "C-2567"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-238",
+   "N-10241"
+  ]
+ },
+ {
+  "id": "1987324277427716208",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1987324956049612945",
+  "claims": [
+   "C-2558"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-22",
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1987375527703765002",
+  "claims": [
+   "C-2617",
+   "C-2618"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-243",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1987495928429769192",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1987557392536527358",
+  "claims": [
+   "C-2597",
+   "C-2598"
+  ],
+  "relation": "same_allegation",
+  "nodes": [],
+  "note": "Host later refers to this weekend post about church-linked trafficking."
+ },
+ {
+  "id": "1987557618009727078",
+  "claims": [
+   "C-2597"
+  ],
+  "relation": "follow_up",
+  "nodes": [],
+  "note": "Extends the megachurch trafficking post to trafficking charities."
+ },
+ {
+  "id": "1987572617365049429",
+  "claims": [
+   "C-2608",
+   "C-2250"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-243",
+   "N-2",
+   "N-190",
+   "N-11",
+   "N-1",
+   "N-10177"
+  ]
+ },
+ {
+  "id": "1987572869983858745",
+  "claims": [
+   "C-2608"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-243"
+  ]
+ },
+ {
+  "id": "1987573226235392055",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1987573627378683929",
+  "claims": [
+   "C-2208",
+   "C-2514",
+   "C-2515"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "1987599501880705251",
+  "claims": [],
+  "nodes": [
+   "N-10014",
+   "N-9"
+  ]
+ },
+ {
+  "id": "1987602154954039660",
+  "claims": [],
+  "nodes": [
+   "N-97",
+   "N-10900"
+  ]
+ },
+ {
+  "id": "1987617871338365363",
+  "claims": [],
+  "nodes": [
+   "N-39"
+  ]
+ },
+ {
+  "id": "1987659341030203673",
+  "claims": [
+   "C-2637",
+   "C-2536",
+   "C-2463"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11159",
+   "N-11098",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1987724714295414947",
+  "claims": [
+   "C-2461",
+   "C-2610",
+   "C-2462"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-161",
+   "N-602",
+   "N-229",
+   "N-227"
+  ]
+ },
+ {
+  "id": "1987726536296869889",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1987913702494928925",
+  "claims": [],
+  "nodes": [
+   "N-10000",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1987914829886050437",
+  "claims": [
+   "C-2608"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10177"
+  ]
+ },
+ {
+  "id": "1987917154117624159",
+  "claims": [
+   "C-2531",
+   "C-2208",
+   "C-2514",
+   "C-2609"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97",
+   "N-1",
+   "N-27",
+   "N-10004",
+   "N-11",
+   "N-14",
+   "N-10000",
+   "N-11064"
+  ]
+ },
+ {
+  "id": "1987917600882360820",
+  "claims": [],
+  "nodes": [
+   "N-22",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1987918264630968446",
+  "claims": [],
+  "nodes": [
+   "N-10000",
+   "N-10048"
+  ],
+  "note": "Retweet of her own post."
+ },
+ {
+  "id": "1987998237471764499",
+  "claims": [
+   "C-2573",
+   "C-2574",
+   "C-2569"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-11147",
+   "N-10048",
+   "N-10209"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1988024597522809180",
+  "claims": [],
+  "nodes": [
+   "N-69",
+   "N-10014"
+  ]
+ },
+ {
+  "id": "1988040473513222196",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1988049766006034501",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1988281180039291310",
+  "claims": [
+   "C-2644",
+   "C-2641",
+   "C-2640",
+   "C-2604"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-46",
+   "N-97",
+   "N-2",
+   "N-1",
+   "N-10000",
+   "N-10642"
+  ]
+ },
+ {
+  "id": "1988317499960770793",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1988324754856833156",
+  "claims": [
+   "C-2644",
+   "C-2503"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-755",
+   "N-97",
+   "N-46",
+   "N-2",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1988350819381440789",
+  "claims": [],
+  "nodes": [
+   "N-498",
+   "N-10451",
+   "N-10464"
+  ]
+ },
+ {
+  "id": "1988362236658675985",
+  "claims": [
+   "C-2655",
+   "C-2656",
+   "C-3182",
+   "C-2778"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-46",
+   "N-1",
+   "N-22",
+   "N-10000",
+   "N-9",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1988362893574697018",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10056"
+  ]
+ },
+ {
+  "id": "1988364213707043271",
+  "claims": [
+   "C-2655",
+   "C-2656",
+   "C-2650"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-22",
+   "N-46",
+   "N-1",
+   "N-10026",
+   "N-9"
+  ]
+ },
+ {
+  "id": "1988364646579921234",
+  "claims": [
+   "C-2655"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-46"
+  ],
+  "note": "Bare link to the Go Max video."
+ },
+ {
+  "id": "1988432486951432570",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1988642764364591613",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1988655298505326873",
+  "claims": [],
+  "nodes": [
+   "N-189",
+   "N-1"
+  ]
+ },
+ {
+  "id": "1988680545803595930",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "1988681177021182284",
+  "claims": [],
+  "nodes": [
+   "N-161"
+  ]
+ },
+ {
+  "id": "1988682161998946624",
+  "unlinked": "personal"
+ },
+ {
+  "id": "1988717362124832840",
+  "claims": [
+   "C-2688",
+   "C-2669",
+   "C-2690"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-46",
+   "N-246",
+   "N-10243",
+   "N-10012",
+   "N-10000"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1988746940620685553",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1988748261046239662",
+  "claims": [],
+  "nodes": [
+   "N-85"
+  ]
+ },
+ {
+  "id": "1988748959670821238",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1988749690230235496",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "1988805277160993033",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1988805704761974935",
+  "unlinked": "off_topic"
+ },
+ {
+  "id": "1988996691513536640",
+  "claims": [],
+  "nodes": [
+   "N-163"
+  ]
+ },
+ {
+  "id": "1989087039632064979",
+  "claims": [
+   "C-2784"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-9",
+   "N-5",
+   "N-1",
+   "N-10000",
+   "N-22",
+   "N-10324"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1989116955052372190",
+  "claims": [],
+  "nodes": [
+   "N-5",
+   "N-9",
+   "N-10026",
+   "N-10023"
+  ]
+ },
+ {
+  "id": "1989327249741324732",
+  "claims": [],
+  "nodes": [
+   "N-755",
+   "N-46",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1989337337520636321",
+  "claims": [
+   "C-2507",
+   "C-2681"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-38",
+   "N-1",
+   "N-10027",
+   "N-10345",
+   "N-10026"
+  ]
+ },
+ {
+  "id": "1989355012594807157",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "1989465719411806484",
+  "claims": [
+   "C-2819"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-870",
+   "N-866",
+   "N-1",
+   "N-10248"
+  ],
+  "note": "Show promo."
+ },
+ {
+  "id": "1989493153993273609",
+  "claims": [],
+  "nodes": [
+   "N-707",
+   "N-104",
+   "N-1",
+   "N-10048"
+  ]
+ },
+ {
+  "id": "1989555661651292630",
+  "claims": [],
+  "nodes": [
+   "N-159",
+   "N-17"
+  ]
+ }
+]

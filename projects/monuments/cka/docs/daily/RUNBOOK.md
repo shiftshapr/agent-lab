@@ -82,6 +82,16 @@ For names flagged as unresolved, check the HappyScribe transcript of the same ep
    rename the node directly.
 9. Run `finalize.py <seqs> --pytest`. Every gate must pass.
 
+## T. Tweets (ROADMAP 1.5)
+`tweets_intake.py` has already fetched new @RealCandaceO posts into `tweets/tweets.jsonl` and built `WORK/tweets_pack`.
+1. Run one Opus subagent per `tweets_<NNN>.md` chunk with this prompt: "Follow `WORK/tweets_pack/PROMPT.md` for
+   NNN = <n>. The repository is `REPO`. Edit no file other than `links_<n>.json`." If episodes were integrated in this
+   run, rebuild the pack first so their claims are candidates:
+   `python3 projects/monuments/cka/scripts/tweets/link_pack.py WORK/tweets_pack`.
+2. Merge: `python3 projects/monuments/cka/scripts/tweets/merge_links.py WORK/tweets_pack --check`. It must report 0 problems.
+3. In the audit README, add a short tweets section: posts added, linked to claims, nodes only, and unlinked. Add any
+   post that contradicts or walks back an archived claim as a review item, with its URL.
+
 ## 5. Record, PR, merge
 1. Write `projects/monuments/cka/audits/daily_<YYYY-MM-DD>/README.md`, modelled on
    `audits/catchup_2026-10-19/README.md`:

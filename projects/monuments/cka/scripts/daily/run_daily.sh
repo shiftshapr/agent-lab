@@ -37,18 +37,25 @@ git checkout -q -B "cka-daily-$DATE" origin/main
 set +e
 python3 projects/monuments/cka/scripts/daily/intake.py "$WORK"
 rc=$?
+python3 projects/monuments/cka/scripts/daily/tweets_intake.py "$WORK"
+trc=$?
 set -e
-if [[ $rc -eq 3 ]]; then
-  echo "nothing new"
-  exit 0
-elif [[ $rc -ne 0 ]]; then
+if [[ $rc -ne 0 && $rc -ne 3 ]] || [[ $trc -ne 0 && $trc -ne 3 ]]; then
   osascript -e 'display notification "CKA daily: intake failed; see run.log" with title "CKA daily"' || true
-  exit $rc
+  [[ $rc -ne 0 && $rc -ne 3 ]] && exit $rc
+fi
+if [[ $rc -ne 0 && $trc -ne 0 ]]; then
+  echo "nothing new"
+  git checkout -q -- . 2>/dev/null || true
+  exit 0
 fi
 [[ "${1:-}" == "--intake-only" ]] && exit 0
 
+STEPS=""
+[[ $rc -eq 0 ]] && STEPS="episodes (steps 1-5; new episodes are in $WORK/new_episodes.json)"
+[[ $trc -eq 0 ]] && STEPS="${STEPS:+$STEPS, then }tweets (step T; the pack is $WORK/tweets_pack)"
 PROMPT="You are running the CKA daily pipeline unattended. REPO=$REPO WORK=$WORK DATE=$DATE.
-Follow $REPO/projects/monuments/cka/docs/daily/RUNBOOK.md exactly, from step 1. The new episodes are in $WORK/new_episodes.json.
+Follow $REPO/projects/monuments/cka/docs/daily/RUNBOOK.md exactly for: $STEPS.
 Use Opus for every subagent. Merge the PR only when the gates check is green. End with the summary described in step 6."
 claude -p "$PROMPT" --model opus --permission-mode bypassPermissions --output-format text > "$WORK/summary.md" || true
 echo "=== $(date) done; summary in $WORK/summary.md ==="

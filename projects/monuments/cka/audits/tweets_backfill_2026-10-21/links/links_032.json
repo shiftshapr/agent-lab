@@ -1,0 +1,980 @@
+[
+ {
+  "id": "2093110889398374852",
+  "claims": [],
+  "nodes": [
+   "N-755",
+   "N-5"
+  ]
+ },
+ {
+  "id": "2093476567246930170",
+  "claims": [
+   "C-12449",
+   "C-12760"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10888"
+  ],
+  "note": "Department of War using her tax dollars to destroy her."
+ },
+ {
+  "id": "2093516575450046943",
+  "claims": [
+   "C-12449",
+   "C-12760"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10888"
+  ],
+  "note": "Department of War using her tax dollars to destroy her."
+ },
+ {
+  "id": "2093752417154208113",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2093762858173542643",
+  "claims": [
+   "C-12507",
+   "C-12509"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-49",
+   "N-281",
+   "N-10888",
+   "N-10064"
+  ],
+  "note": "Retweet: Pounds outed as Pentagon/Department of War employee."
+ },
+ {
+  "id": "2093870213691322565",
+  "claims": [
+   "C-12458"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-3",
+   "N-97",
+   "N-10026"
+  ],
+  "note": "Owen Benjamin retweet: Charlie's friends lied about his relationship with Candace, Shapiro, Israel."
+ },
+ {
+  "id": "2094435130295058484",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2094528328455672048",
+  "claims": [
+   "C-12466",
+   "C-12449",
+   "C-12516"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10888",
+   "N-10064"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2094575057880109539",
+  "claims": [
+   "C-12466",
+   "C-12533"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-485"
+  ],
+  "note": "Odds of meeting Baldoni in Iceland; on air a mathematician put it at 1 in 80 million."
+ },
+ {
+  "id": "2094781398447948164",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2094821478411760112",
+  "claims": [
+   "C-12623",
+   "C-12626",
+   "C-12600"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-1",
+   "N-10389"
+  ]
+ },
+ {
+  "id": "2094903899219960199",
+  "claims": [
+   "C-12600"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40"
+  ],
+  "note": "Episode promo; Robinson bindover decision day."
+ },
+ {
+  "id": "2094946135014318555",
+  "claims": [
+   "C-12699",
+   "C-12639",
+   "C-12711",
+   "C-12708",
+   "C-12698"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-163",
+   "N-1"
+  ],
+  "note": "Rebuke of Matt Walsh over defense-counsel clip; referenced on air."
+ },
+ {
+  "id": "2094954378092318950",
+  "claims": [
+   "C-12653",
+   "C-12640"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10566"
+  ]
+ },
+ {
+  "id": "2094958407404970105",
+  "claims": [],
+  "nodes": [
+   "N-40"
+  ],
+  "note": "Quotes her own Robinson-trial post."
+ },
+ {
+  "id": "2094959946148319245",
+  "claims": [
+   "C-12589",
+   "C-12593"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-246",
+   "N-1",
+   "N-11009"
+  ],
+  "note": "Retweet on Butch Hibbs footage."
+ },
+ {
+  "id": "2094962019141029999",
+  "claims": [
+   "C-12653",
+   "C-12640"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-10566"
+  ]
+ },
+ {
+  "id": "2094979847495864630",
+  "claims": [],
+  "nodes": [
+   "N-544",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2095270196705374522",
+  "claims": [
+   "C-12649",
+   "C-12640",
+   "C-12666"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-159",
+   "N-11218"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2095527689545220444",
+  "claims": [],
+  "nodes": [
+   "N-283",
+   "N-82",
+   "N-875"
+  ]
+ },
+ {
+  "id": "2095527951957663992",
+  "claims": [],
+  "nodes": [
+   "N-204",
+   "N-553",
+   "N-206",
+   "N-10083"
+  ]
+ },
+ {
+  "id": "2095529289449972067",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2095591774597070940",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2095639341150187526",
+  "claims": [
+   "C-12808",
+   "C-12669",
+   "C-12680"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10000",
+   "N-10340"
+  ],
+  "note": "Promo: TPUSA-released text on Charlie fearing being killed; backpack from SUV."
+ },
+ {
+  "id": "2095640071982534969",
+  "claims": [
+   "C-12808",
+   "C-12669",
+   "C-12680"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10000",
+   "N-10340"
+  ],
+  "note": "Promo: TPUSA-released text on Charlie fearing being killed; backpack from SUV."
+ },
+ {
+  "id": "2095684799134335454",
+  "claims": [
+   "C-12808",
+   "C-12852",
+   "C-12850",
+   "C-12560"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10026",
+   "N-10340",
+   "N-10169"
+  ]
+ },
+ {
+  "id": "2095686989492199640",
+  "claims": [
+   "C-12808",
+   "C-12852",
+   "C-12810",
+   "C-12669"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-14",
+   "N-270",
+   "N-18",
+   "N-55",
+   "N-164",
+   "N-10000",
+   "N-10340"
+  ],
+  "note": "Two night-before messages to Kolvet and Flood sent during Israeli Zoom call."
+ },
+ {
+  "id": "2095688344994808002",
+  "claims": [],
+  "nodes": [
+   "N-10000",
+   "N-10340"
+  ]
+ },
+ {
+  "id": "2095845080963715565",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2095846708148064694",
+  "claims": [
+   "C-12840",
+   "C-12449"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10888"
+  ]
+ },
+ {
+  "id": "2095871892389294507",
+  "claims": [],
+  "nodes": [
+   "N-10000",
+   "N-2"
+  ]
+ },
+ {
+  "id": "2095876098697400646",
+  "claims": [],
+  "nodes": [
+   "N-5",
+   "N-9",
+   "N-10324"
+  ]
+ },
+ {
+  "id": "2095914188505825436",
+  "claims": [],
+  "nodes": [
+   "N-118"
+  ]
+ },
+ {
+  "id": "2096229344515375259",
+  "claims": [
+   "C-12996"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-27"
+  ]
+ },
+ {
+  "id": "2096236279025254912",
+  "claims": [],
+  "nodes": [
+   "N-27"
+  ]
+ },
+ {
+  "id": "2096236544545669367",
+  "claims": [
+   "C-12996"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-27"
+  ],
+  "note": "Kid Cudi surprise at Ye's Chicago show."
+ },
+ {
+  "id": "2096271024769712608",
+  "claims": [
+   "C-12996"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-27"
+  ]
+ },
+ {
+  "id": "2096614402434752514",
+  "claims": [],
+  "nodes": [
+   "N-27",
+   "N-624"
+  ]
+ },
+ {
+  "id": "2096616762070462536",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2096624010628899015",
+  "claims": [
+   "C-12740",
+   "C-12743"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-27"
+  ]
+ },
+ {
+  "id": "2096643092434632878",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2096704809046786180",
+  "claims": [],
+  "nodes": [
+   "N-27",
+   "N-18"
+  ],
+  "note": "Says she paid; on air (C-12740) she said Ye's team refused her payment."
+ },
+ {
+  "id": "2096771224391008343",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2097442317288247456",
+  "claims": [
+   "C-12785",
+   "C-12773",
+   "C-12777"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-27",
+   "N-1",
+   "N-2",
+   "N-159",
+   "N-10968",
+   "N-11218"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2097472498375835946",
+  "claims": [],
+  "nodes": [
+   "N-3"
+  ],
+  "note": "Mocks rumors of her secret meetings in Russia and Dubai."
+ },
+ {
+  "id": "2097510083701752052",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2097726636774814117",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2097805904179757560",
+  "claims": [
+   "C-12903",
+   "C-12905"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-7",
+   "N-10888",
+   "N-10381",
+   "N-1"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2098152899540897891",
+  "claims": [],
+  "nodes": [
+   "N-1",
+   "N-10002"
+  ]
+ },
+ {
+  "id": "2098807452913340787",
+  "claims": [],
+  "nodes": [
+   "N-867",
+   "N-5",
+   "N-9"
+  ]
+ },
+ {
+  "id": "2099539247136920021",
+  "claims": [
+   "C-13049",
+   "C-13003",
+   "C-13048"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10827"
+  ]
+ },
+ {
+  "id": "2099608539819843873",
+  "claims": [
+   "C-13003",
+   "C-13049",
+   "C-13031"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-40",
+   "N-261",
+   "N-10000",
+   "N-10827"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2099667713467552116",
+  "unlinked": "retweet_no_comment"
+ },
+ {
+  "id": "2099679554285469718",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2099684654953492793",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2099695496981807373",
+  "claims": [
+   "C-13029",
+   "C-13030"
+  ],
+  "relation": "shown_on_air",
+  "nodes": [
+   "N-40"
+  ],
+  "note": "Show clip retweet: bent leg makes a full gun in his jeans unlikely."
+ },
+ {
+  "id": "2099696093856424275",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2099697247663366603",
+  "claims": [],
+  "nodes": [
+   "N-5"
+  ]
+ },
+ {
+  "id": "2099898483121570132",
+  "claims": [],
+  "nodes": [
+   "N-9"
+  ]
+ },
+ {
+  "id": "2099911032021889097",
+  "claims": [],
+  "nodes": [
+   "N-591",
+   "N-691",
+   "N-5",
+   "N-10888"
+  ]
+ },
+ {
+  "id": "2099921816353382637",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2099972028165947801",
+  "claims": [
+   "C-13115",
+   "C-13163",
+   "C-13161"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-190",
+   "N-833",
+   "N-11263"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2100001112858186037",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2100036149636997334",
+  "claims": [
+   "C-13126",
+   "C-13115",
+   "C-13123"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-11263"
+  ]
+ },
+ {
+  "id": "2100220416987922789",
+  "claims": [
+   "C-13183",
+   "C-13184"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-2",
+   "N-11314"
+  ]
+ },
+ {
+  "id": "2100239902935745007",
+  "claims": [
+   "C-13242",
+   "C-13191",
+   "C-13188"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10012",
+   "N-10839"
+  ]
+ },
+ {
+  "id": "2100272338419794059",
+  "claims": [
+   "C-13204",
+   "C-13566",
+   "C-13207"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10012"
+  ],
+  "note": "'It' unspecified; read as the venue TPUSA insisted on."
+ },
+ {
+  "id": "2100342698515616164",
+  "claims": [
+   "C-13181",
+   "C-13233",
+   "C-13249"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10125",
+   "N-40",
+   "N-10833",
+   "N-10835",
+   "N-10834"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2100386781011034453",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2100391819158729090",
+  "claims": [
+   "C-13281"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-330"
+  ]
+ },
+ {
+  "id": "2100393895045566955",
+  "unlinked": "promotion"
+ },
+ {
+  "id": "2100394309144985907",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2100618748142960821",
+  "claims": [
+   "C-13322",
+   "C-13320",
+   "C-13140"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10000",
+   "N-10841",
+   "N-10533"
+  ]
+ },
+ {
+  "id": "2100629731129569455",
+  "claims": [
+   "C-13341",
+   "C-12638",
+   "C-13352"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-22",
+   "N-159",
+   "N-1",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2100694078551929121",
+  "claims": [
+   "C-13320",
+   "C-13323"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-10000",
+   "N-10841"
+  ]
+ },
+ {
+  "id": "2100697094436851864",
+  "claims": [
+   "C-13328",
+   "C-13323",
+   "C-13320"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-1",
+   "N-2",
+   "N-10000",
+   "N-10533"
+  ]
+ },
+ {
+  "id": "2100703171614011769",
+  "claims": [
+   "C-13325",
+   "C-13322",
+   "C-13320"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-10000",
+   "N-10841"
+  ]
+ },
+ {
+  "id": "2100705570269303148",
+  "claims": [
+   "C-13320"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-14",
+   "N-10841"
+  ]
+ },
+ {
+  "id": "2100708925318234554",
+  "claims": [
+   "C-13320",
+   "C-13325",
+   "C-13323",
+   "C-13328"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10000",
+   "N-10533",
+   "N-10841"
+  ]
+ },
+ {
+  "id": "2100714695954980895",
+  "claims": [
+   "C-13320",
+   "C-13328",
+   "C-13315",
+   "C-13352"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-14",
+   "N-22",
+   "N-159",
+   "N-10000"
+  ],
+  "note": "Episode promo."
+ },
+ {
+  "id": "2100739246227132499",
+  "claims": [],
+  "nodes": [
+   "N-330",
+   "N-10000"
+  ]
+ },
+ {
+  "id": "2100754681844679041",
+  "claims": [
+   "C-13328",
+   "C-13329"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-1",
+   "N-10533"
+  ]
+ },
+ {
+  "id": "2100755259299656189",
+  "claims": [],
+  "nodes": [
+   "N-159",
+   "N-1",
+   "N-14",
+   "N-10455"
+  ]
+ },
+ {
+  "id": "2100921847403483348",
+  "claims": [],
+  "nodes": [
+   "N-377",
+   "N-82"
+  ]
+ },
+ {
+  "id": "2100964609762984197",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2100986720346886572",
+  "claims": [
+   "C-13320",
+   "C-13328",
+   "C-13323"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-1",
+   "N-159",
+   "N-10000",
+   "N-10533",
+   "N-10841"
+  ]
+ },
+ {
+  "id": "2100990686686294074",
+  "claims": [
+   "C-12512"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-159",
+   "N-14",
+   "N-1",
+   "N-10000",
+   "N-10888"
+  ],
+  "note": "TPUSA as a psy-op run with the Pentagon."
+ },
+ {
+  "id": "2101006831887749344",
+  "claims": [
+   "C-13320",
+   "C-13324"
+  ],
+  "relation": "follow_up",
+  "nodes": [
+   "N-159",
+   "N-2",
+   "N-10841"
+  ],
+  "note": "Extends: parents say non-attendees were marked absent."
+ },
+ {
+  "id": "2101007011273900305",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2101010762776940612",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2101022058553421961",
+  "unlinked": "unclear"
+ },
+ {
+  "id": "2101033513856405678",
+  "claims": [
+   "C-13324",
+   "C-13320"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-2",
+   "N-10533",
+   "N-10841"
+  ],
+  "note": "Mocks TPUSA's '3 kids opted out' reply."
+ },
+ {
+  "id": "2101034132360880169",
+  "claims": [],
+  "nodes": [
+   "N-189"
+  ]
+ },
+ {
+  "id": "2101036180183687557",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2101060868175765543",
+  "unlinked": "reply_chatter"
+ },
+ {
+  "id": "2101109298810253427",
+  "claims": [],
+  "nodes": [
+   "N-130",
+   "N-14"
+  ]
+ },
+ {
+  "id": "2101342112574837127",
+  "claims": [],
+  "nodes": [
+   "N-10026"
+  ]
+ },
+ {
+  "id": "2101352047865929776",
+  "claims": [
+   "C-12585"
+  ],
+  "relation": "same_allegation",
+  "nodes": [
+   "N-97"
+  ],
+  "note": "Shapiro said twice his team got calls en route to the hospital; now walking it back."
+ },
+ {
+  "id": "2101475306078982429",
+  "unlinked": "personal"
+ },
+ {
+  "id": "2101477670559043822",
+  "unlinked": "personal"
+ }
+]
