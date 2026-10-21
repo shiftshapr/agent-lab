@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-791, N-11151, N-11152
+  - Tip-minted Nodes (supplement_2026-10b): N-790, N-11151, N-11152
   - Hole-minted Nodes (reintro-ep156): N-10860
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13445–C-13517
@@ -410,7 +410,7 @@ Widow and TPUSA CEO; the host criticizes her video release, donation email and p
 
 ---
 
-**N-791** Angel Castro
+**N-790** Angel Castro
 
 First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro" in the transcript). Person the host places near the van in the tent footage.
 
@@ -629,7 +629,7 @@ Claim Timestamp: 00:01:40
 Claim: The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-10, N-791
+Mentions: N-10, N-790
 
 
 Investigative Direction: Cross-reference other footage and photographs to identify the actual individual and confirm the correction.
@@ -702,7 +702,7 @@ Claim Timestamp: 00:53:00
 Claim: The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.
 
 Anchored Artifacts: A-2424.1
-Mentions: N-862
+Mentions: N-861
 
 Related Nodes: N-10854
 
@@ -852,7 +852,7 @@ Claim: The host says someone told her the person standing by the van near Angel 
 Transcript Snippet: He was wearing red that day.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-3, N-10, N-791
+Mentions: N-3, N-10, N-790
 Related Nodes: N-10860
 Supports: C-13446
 Tags: relevance:core
@@ -1725,7 +1725,7 @@ Claim: The host says, answering a viewer comment about license plates, that her 
 Transcript Snippet: every time they talk about the plates, they effectively say that they were able to confirm the first part of the plate.
 
 Anchored Artifacts: A-2424.1
-Mentions: N-3, N-862
+Mentions: N-3, N-861
 Related Nodes: N-10854
 Supports: C-13513
 Tags: relevance:core

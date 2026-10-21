@@ -385,7 +385,7 @@
           "related_nodes": [
             "N-10604",
             "N-341",
-            "N-914"
+            "N-913"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1026,8 +1026,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-641",
-      "ref": "N-641",
+      "@id": "N-640",
+      "ref": "N-640",
       "name": "Sebastian Gorka",
       "type": "person",
       "description": "Host of the America First show on which Marx and Melody appeared per Hall's statement.",
@@ -1043,8 +1043,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-725",
-      "ref": "N-725",
+      "@id": "N-724",
+      "ref": "N-724",
       "name": "Mike Kennedy",
       "type": "person",
       "description": "Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-726",
-      "ref": "N-726",
+      "@id": "N-725",
+      "ref": "N-725",
       "name": "Karl Marx (Victor Marx's father)",
       "type": "person",
       "description": "Marx's biological father per the host; the transcript spells the first name Carl.",
@@ -1078,8 +1078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-727",
-      "ref": "N-727",
+      "@id": "N-726",
+      "ref": "N-726",
       "name": "Kenneth Breining",
       "type": "person",
       "description": "Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-913",
-      "ref": "N-913",
+      "@id": "N-912",
+      "ref": "N-912",
       "name": "Chaz Yandall",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.",
@@ -1113,8 +1113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-914",
-      "ref": "N-914",
+      "@id": "N-913",
+      "ref": "N-913",
       "name": "Cori Kennedy",
       "type": "person",
       "description": "First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.",
@@ -2503,7 +2503,7 @@
       "investigative_direction": "Check the same federal docket for Mike Kennedy's plea agreement and sentence.",
       "transcript_snippet": "He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.",
       "mentions_person_refs": [
-        "N-725",
+        "N-724",
         "N-349",
         "N-341"
       ]
@@ -2525,7 +2525,7 @@
       "investigative_direction": "Ask for the host's sources; check Marx's own books and interviews about his father.",
       "transcript_snippet": "His name was Karl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.",
       "mentions_person_refs": [
-        "N-726",
+        "N-725",
         "N-341"
       ]
     },
@@ -2632,7 +2632,7 @@
       "transcript_snippet": "In 2003, he and his brother, who got that light sentence, um who was out of prison now, began All Things Possible Ministries.",
       "mentions_person_refs": [
         "N-341",
-        "N-725"
+        "N-724"
       ]
     },
     {
@@ -2675,7 +2675,7 @@
       "investigative_direction": "Search local police and court records for the incident and its date.",
       "transcript_snippet": "Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.",
       "mentions_person_refs": [
-        "N-727",
+        "N-726",
         "N-343",
         "N-341"
       ]
@@ -2697,7 +2697,7 @@
       "investigative_direction": "Check court dockets for any pending case against the named individual; the host states it as a belief.",
       "transcript_snippet": "Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.",
       "mentions_person_refs": [
-        "N-727",
+        "N-726",
         "N-343"
       ]
     },
@@ -2926,7 +2926,7 @@
         "N-342",
         "N-341",
         "N-344",
-        "N-641"
+        "N-640"
       ]
     },
     {
@@ -3045,7 +3045,7 @@
       "mentions_person_refs": [
         "N-342",
         "N-341",
-        "N-913"
+        "N-912"
       ]
     },
     {
@@ -3606,7 +3606,7 @@
       "investigative_direction": "Identify the account and read the posts; confirm the researcher's name and background.",
       "transcript_snippet": "has done a very good job on both X and on Facebook. Cori Kennedy has done a deep dive into Victor Marx.",
       "mentions_person_refs": [
-        "N-914",
+        "N-913",
         "N-341"
       ]
     },

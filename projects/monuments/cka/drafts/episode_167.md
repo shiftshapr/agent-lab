@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq167
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (daily-2026-10-20): N-971, N-972, N-11445, N-11446, N-11447
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-27, N-40, N-41, N-68, N-82, N-277, N-330, N-352, N-353, N-592, N-876, N-957, N-962, N-963, N-970, N-10000, N-10006, N-10012, N-10013, N-10074, N-10167, N-10533, N-10637, N-10827, N-10832, N-10880, N-10882, N-10886, N-10889, N-10891, N-10915, N-10923, N-10925, N-11110, N-11111, N-11218, N-11297, N-11313, N-11426, N-11434, N-11435, N-11443
+  - Tip-minted Nodes (daily-2026-10-20): N-969, N-970, N-11445, N-11446, N-11447
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-27, N-40, N-41, N-68, N-82, N-277, N-330, N-352, N-353, N-591, N-875, N-955, N-960, N-961, N-968, N-10000, N-10006, N-10012, N-10013, N-10074, N-10167, N-10533, N-10637, N-10827, N-10832, N-10880, N-10882, N-10886, N-10889, N-10891, N-10915, N-10923, N-10925, N-11110, N-11111, N-11218, N-11297, N-11313, N-11426, N-11434, N-11435, N-11443
   - Claim Range: C-14398–C-14474
   - (see registers)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:17:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14437, N-352, N-972, N-11445*
+*Related: C-14437, N-352, N-970, N-11445*
 
 **A-3409.3** Host verbal request for tips on the Timpanogos Hospital board members, at the "more tips" email
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:18:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, N-972, N-353, N-11445*
+*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, N-970, N-353, N-11445*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:20:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14445, C-14446, C-14447, N-957, N-11218, N-11447*
+*Related: C-14445, C-14446, C-14447, N-955, N-11218, N-11447*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:26:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14455, N-962, N-5*
+*Related: C-14455, N-960, N-5*
 
 ---
 
@@ -182,7 +182,7 @@ Video Timestamp: 00:27:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14459, C-14460, C-14461, N-277, N-962, N-592, N-970, N-11443*
+*Related: C-14459, C-14460, C-14461, N-277, N-960, N-591, N-968, N-11443*
 
 ---
 
@@ -287,37 +287,37 @@ Casino developer; the 2004 article names Kenny Wynn as his brother.
 
 *Related: C-14438*
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 The host alleges he lied about bombing Iranian schools and cites his plan for a live execution.
 
 *Related: C-14452, C-14458, C-14460*
 
-**N-876** Jean-Michel Trogneux
+**N-875** Jean-Michel Trogneux
 
 Named in the host's Brigitte doll parody.
 
 *Related: C-14420*
 
-**N-957** Val Peterson
+**N-955** Val Peterson
 
 UVU vice president of facilities. The host reports his former hospital and airport board seats.
 
 *Related: C-14444, C-14445, C-14446, C-14447, C-14450*
 
-**N-962** Katie Zacharia
+**N-960** Katie Zacharia
 
 Outgoing White House press secretary.
 
 *Related: C-14398, C-14453, C-14454, C-14455, C-14456, C-14457, C-14458, C-14459*
 
-**N-963** Charles Peterson
+**N-961** Charles Peterson
 
 Val Peterson's brother, referred to as "another alleged innocent until proven guilty".
 
 *Related: C-14444*
 
-**N-970** Nidal Malik Hasan
+**N-968** Nidal Malik Hasan
 
 Referred to as "the Fort Hood shooter" in the Tim Dillon clip.
 
@@ -439,13 +439,13 @@ Bowyer's DMs defending the organization.
 
 *Related: C-14457, C-14458, C-14461*
 
-**N-971** Jussie Smollett
+**N-969** Jussie Smollett
 
 First named by the host at 00:03:05 in episode 167 ("Jussie Smollett"), as an analogy for a staged hate crime.
 
 *Related: C-14406*
 
-**N-972** Kenneth "Kenny" Wynn
+**N-970** Kenneth "Kenny" Wynn
 
 First named by the host at 00:17:30 in episode 167. Brother of Steve Wynn; the host says he is Blake Wynn's father. Transcribed as "Kenneth Wynn", "Kenny Wynn", "Kenny Wynn".
 
@@ -456,7 +456,7 @@ First named by the host at 00:17:30 in episode 167. Brother of Steve Wynn; the h
 Node Type: Topic
 The 2004 federal (ICE Operation Predator) child pornography investigation in which Kenny Wynn's home computer was reportedly seized. The host raises it as part of a child-abuse pattern in the TPUSA orbit.
 
-*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, A-3413.1, N-972, N-352*
+*Related: C-14437, C-14438, C-14439, C-14440, C-14441, C-14442, A-3413.1, N-970, N-352*
 
 **N-11446** Monster Lab Erika Kirk Name Ban
 
@@ -470,7 +470,7 @@ Discord messages in which Monster Lab clippers were allegedly told to delete mes
 Node Type: Topic
 Who sits or sat on the board of Timpanogos Regional Hospital, where Charlie Kirk was taken, given Val Peterson's former seat. The host says the membership is not public.
 
-*Related: C-14445, C-14447, C-14448, C-14449, A-3414.1, N-957, N-11218*
+*Related: C-14445, C-14447, C-14448, C-14449, A-3414.1, N-955, N-11218*
 
 ---
 
@@ -485,7 +485,7 @@ Claim: The host says press secretary Katie Zacharia, whom she had only begun to 
 Transcript Snippet: Katie Zacharia, press secretary, the one I had only just began to warm to. She is no longer
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: White House announcements and press coverage of Zacharia's departure in October 2026.
@@ -615,7 +615,7 @@ Claim: The host compares a possible staged statue attack to Jussie Smollett, who
 Transcript Snippet: Hiring two black Nigerian actors to put a noose around your neck during a polar vortex out in Chicago type scheme.
 
 Anchored Artifacts:
-Mentions: N-971
+Mentions: N-969
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: The Smollett trial record (Cook County, 2021) on the Osundairo brothers.
@@ -840,7 +840,7 @@ Claim: In a parody of the statue story, the host says someone broke into the pod
 Transcript Snippet: over the weekend, someone broke into our podcast studio and they threw bleach on my Brigitte doll.
 
 Anchored Artifacts:
-Mentions: N-82, N-876
+Mentions: N-82, N-875
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: None needed; the host presents it as satire (she later says "asking for evidence would make you a conspiracy theorist").
@@ -1117,7 +1117,7 @@ Claim: The host says someone emailed a tip that Blake Wynn's father, Kenneth Wyn
 Transcript Snippet: someone emailed us a tip that Blake's father, Blake's father, Kenneth Wynn, who goes also goes by Kenny was raided back in 2004.
 
 Anchored Artifacts: A-3409.2, A-3413.1
-Mentions: N-352, N-972
+Mentions: N-352, N-970
 Related Nodes: N-11445, N-10832
 Tags: relevance:tangential
 Investigative Direction: Public records on Blake Wynn's parentage and the 2004 Las Vegas Sun reports.
@@ -1133,7 +1133,7 @@ Claim: Per the 2004 article the host reads, Kenny Wynn, the brother of hotel-cas
 Transcript Snippet: Kenny Wynn, the brother of hotel casino developer Steve Wynn, is the subject of the same international child pornography investigation that netted another local man earlier this month.
 
 Anchored Artifacts: A-3413.1
-Mentions: N-972, N-353
+Mentions: N-970, N-353
 Related Nodes: N-11445
 Tags: relevance:tangential
 Investigative Direction: Las Vegas Sun, February 26 and March 4, 2004; ICE records. The coverage found reports no charges filed.
@@ -1149,7 +1149,7 @@ Claim: Per the article, citing a law enforcement source, Kenny Wynn, 50, came un
 Transcript Snippet: came under suspicion when investigators taking part in Operation Predator, discovered his name on a website where child porn images were trafficked.
 
 Anchored Artifacts: A-3413.1
-Mentions: N-972
+Mentions: N-970
 Related Nodes: N-11445
 Tags: relevance:tangential
 Investigative Direction: The search warrant application and the Regpay investigation records.
@@ -1165,7 +1165,7 @@ Claim: Per the article, the source said authorities confiscated a computer from 
 Transcript Snippet: authorities confiscated a computer from Kenny Wynn Kenny Wynn's home last week and were searching its hard drive for images of child pornography
 
 Anchored Artifacts: A-3413.1
-Mentions: N-972
+Mentions: N-970
 Related Nodes: N-11445
 Tags: relevance:tangential
 Investigative Direction: Search warrant return and any later charging decision.
@@ -1230,7 +1230,7 @@ Claim: The host describes Val Peterson as vice president of facilities at UVU, a
 Transcript Snippet: Val Peterson, the vice president of facilities over at UVU.
 
 Anchored Artifacts:
-Mentions: N-957, N-963
+Mentions: N-955, N-961
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: UVU staff directory and Utah House member biography.
@@ -1246,7 +1246,7 @@ Claim: The host says that according to Val Peterson's current government biograp
 Transcript Snippet: according to Val's current government biography and the UVU website, he sat on the board of Timpanogos Hospital, the very hospital that Charlie was transported to.
 
 Anchored Artifacts: A-3414.1
-Mentions: N-957, N-1
+Mentions: N-955, N-1
 Related Nodes: N-11218, N-11447
 Tags: relevance:core
 Investigative Direction: Val Peterson's Utah legislature biography and UVU profile.
@@ -1262,7 +1262,7 @@ Claim: The host says Peterson at one point also sat on the board of Provo airpor
 Transcript Snippet: And at one point, he also sat on the board of Provo airport.
 
 Anchored Artifacts: A-3414.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10074
 Tags: relevance:context
 Investigative Direction: Provo Municipal Airport advisory board records.
@@ -1278,7 +1278,7 @@ Claim: The host says Peterson has not been on the Timpanogos board since 2019, t
 Transcript Snippet: So he is no longer on the board as of 2019.
 
 Anchored Artifacts: A-3414.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-11218, N-11447
 Tags: relevance:core
 Investigative Direction: Timpanogos Regional Hospital governing board records.
@@ -1326,7 +1326,7 @@ Claim: The host says two extremely reliable sources told her that Val Peterson m
 Transcript Snippet: we have been informed as I told you by two extremely reliable sources that he did
 
 Anchored Artifacts:
-Mentions: N-957, N-41
+Mentions: N-955, N-41
 Related Nodes: N-11426
 Supports: C-14330
 Tags: relevance:core
@@ -1359,7 +1359,7 @@ Claim: The host alleges Pete Hegseth, who remains in office, is lying about bomb
 Transcript Snippet: He's lying about bombing Iranian schools filled with children.
 
 Anchored Artifacts:
-Mentions: N-592
+Mentions: N-591
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Department of War statements and reporting on strikes on Iranian schools.
@@ -1375,7 +1375,7 @@ Claim: The host says the reporting relates Zacharia's exit to Trump feeling emba
 Transcript Snippet: relative to Trump being feeling some embarrassment which is crazy.
 
 Anchored Artifacts:
-Mentions: N-962, N-5
+Mentions: N-960, N-5
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: News reports on the reasons for Zacharia's departure.
@@ -1391,7 +1391,7 @@ Claim: The host says that when the press asked Zacharia where she passed the bar
 Transcript Snippet: where she passed the bar exam when she said that, you know, I went to China.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Supports: C-14284
 Tags: relevance:context
@@ -1408,7 +1408,7 @@ Claim: The host says Zacharia tweeted on October 16 that Trump is "a kind, wonde
 Transcript Snippet: She tweeted this out on October 16th. She said, "President Trump is a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man.
 
 Anchored Artifacts: A-3415.1
-Mentions: N-962, N-5
+Mentions: N-960, N-5
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Zacharia's X account, October 16, 2026.
@@ -1424,7 +1424,7 @@ Claim: The host says Zacharia is going back to Fox News.
 Transcript Snippet: So, back to Fox News she goes.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-10006
 Tags: relevance:context
 Investigative Direction: Fox News announcements on Zacharia's return.
@@ -1440,7 +1440,7 @@ Claim: The host says Tim Dillon was a fan of Zacharia and shared her perspective
 Transcript Snippet: He was a fan of Katie Zacharia and he also had the same perspective of me as as I did regarding um this bizarre push for a public execution.
 
 Anchored Artifacts:
-Mentions: N-277, N-962
+Mentions: N-277, N-960
 Related Nodes: N-11443
 Tags: relevance:tangential
 Investigative Direction: The Tim Dillon Show episode covering both topics.
@@ -1456,7 +1456,7 @@ Claim: The host says Tim Dillon had a perfect bit describing both Katie Zacharia
 Transcript Snippet: Pete Hegseth's plan for a live execution
 
 Anchored Artifacts:
-Mentions: N-592, N-277, N-962
+Mentions: N-591, N-277, N-960
 Related Nodes: N-11443
 Supports: C-14379
 Tags: relevance:context
@@ -1473,7 +1473,7 @@ Claim: In a clip the host plays, Tim Dillon says Zacharia, the press secretary, 
 Transcript Snippet: Katie Zacharia out, I believe that's her name. She was the press secretary. We hardly knew her and she's out.
 
 Anchored Artifacts: A-3416.1
-Mentions: N-277, N-962
+Mentions: N-277, N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: The Tim Dillon Show episode.
@@ -1489,7 +1489,7 @@ Claim: In the clip, Dillon predicts a Democratic Congress and possibly Senate, a
 Transcript Snippet: the Democrats going to launch investigations into the crypto scams and into the stuff Hegseth is doing.
 
 Anchored Artifacts: A-3416.1
-Mentions: N-277, N-592
+Mentions: N-277, N-591
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: 2026 midterm results and subsequent congressional investigations.
@@ -1505,7 +1505,7 @@ Claim: In the clip, Dillon satirizes the plan to livestream an execution, ending
 Transcript Snippet: the Fort Hood shooter would get shot in the head. But that was their idea.
 
 Anchored Artifacts: A-3416.1
-Mentions: N-277, N-970
+Mentions: N-277, N-968
 Related Nodes: N-11443
 Tags: relevance:context
 Investigative Direction: Department of War and Army statements on Hasan's execution.
@@ -1940,10 +1940,10 @@ Confidence: high
 - MISTRANSCRIPTION: "Enclave and Key" / "enclaving key" -> "Enclave and Key" (00:15:10, 00:16:53) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=910 (N-10882).
 - MISTRANSCRIPTION: "AmFest" / "AmFest" -> "AmFest" (AmericaFest) (00:11:58, 00:12:29) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=718
 - MISTRANSCRIPTION: "Timpanogos Hospital" -> "Timpanogos Hospital" (00:19:56) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1196 (N-11218).
-- MISTRANSCRIPTION: "Katie Zacharia" / "Katie Zacharia" -> "Katie Zacharia" (00:24:46, 00:27:18, 00:27:48, 00:37:32) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1486 (N-962).
-- MISTRANSCRIPTION: "Pete Hegseth" / "Hegseth" -> "Pete Hegseth" (00:27:18, 00:28:19) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1638 (N-592).
-- MISTRANSCRIPTION: "Fort Hood shooter" -> "Fort Hood shooter" (00:29:53) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1793 (N-970).
-- MISTRANSCRIPTION: "Jean-Michel Trogneux" -> "Jean-Michel Trogneux" (00:10:08) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=608 (N-876).
+- MISTRANSCRIPTION: "Katie Zacharia" / "Katie Zacharia" -> "Katie Zacharia" (00:24:46, 00:27:18, 00:27:48, 00:37:32) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1486 (N-960).
+- MISTRANSCRIPTION: "Pete Hegseth" / "Hegseth" -> "Pete Hegseth" (00:27:18, 00:28:19) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1638 (N-591).
+- MISTRANSCRIPTION: "Fort Hood shooter" -> "Fort Hood shooter" (00:29:53) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1793 (N-968).
+- MISTRANSCRIPTION: "Jean-Michel Trogneux" -> "Jean-Michel Trogneux" (00:10:08) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=608 (N-875).
 - MISTRANSCRIPTION: "Brigitte doll" / "Breijie" -> "Brigitte" (00:44:11) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=2651
 - MISTRANSCRIPTION: "Ye" -> "Ye" (00:41:04, 00:41:37) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=2464 (N-27).
 - MISTRANSCRIPTION: "moretips@candaceowens.com" -> "moretips@candaceowens.com" (00:20:28) source: https://www.youtube.com/watch?v=VUSs6CTp78Q&t=1228. "candaceowens.com" / "canwens.com" / "candaceowens.com" -> "candaceowens.com" (00:10:08, 00:10:38, 00:43:09).

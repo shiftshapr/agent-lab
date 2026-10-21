@@ -32,7 +32,7 @@
             "C-7511"
           ],
           "related_nodes": [
-            "N-596",
+            "N-595",
             "N-2",
             "N-10108",
             "N-10074"
@@ -166,7 +166,7 @@
           "related_nodes": [
             "N-14",
             "N-493",
-            "N-551",
+            "N-550",
             "N-15",
             "N-10547"
           ],
@@ -301,7 +301,7 @@
             "C-7539"
           ],
           "related_nodes": [
-            "N-595",
+            "N-594",
             "N-2"
           ],
           "tags": [],
@@ -338,7 +338,7 @@
           ],
           "related_nodes": [
             "N-106",
-            "N-595"
+            "N-594"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -380,7 +380,7 @@
             "C-7543"
           ],
           "related_nodes": [
-            "N-599",
+            "N-598",
             "N-10000"
           ],
           "tags": [],
@@ -988,8 +988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Named only as \"Aubrey\"; drafted the death statement and staff email per the host's timeline.",
@@ -1008,8 +1008,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Druski",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Druski; Druski; Druski.",
@@ -1029,8 +1029,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Sergeant Dupey",
       "type": "person",
       "description": "First named by the host at 00:01:24 in episode 084. Provo police sergeant named on the September 10 scanner recording as en route to Provo Airport for the victim's wife.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "Jamie (Charlie Kirk's pilot)",
       "type": "person",
       "description": "First named by the host at 00:11:05 in episode 084. Known to the host only by first name; possibly from Texas.",
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "First named by the host at 00:14:28 in episode 084. Named among those escorted to Timpanogos Hospital and entering with Erika Kirk. Aliases: Cat.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Scott Bessent",
       "type": "person",
       "description": "First named by the host at 00:31:19 in episode 084. Host says he issued a letter stating Turning Point is in great financial standing.",
@@ -1608,7 +1608,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-597",
+        "N-596",
         "N-1"
       ]
     },
@@ -1724,7 +1724,7 @@
       "investigative_direction": "Obtain the archived Provo Police Department radio traffic for September 10, 2025 and the dispatch/CAD log for the airport pickup, and confirm the identity of Sergeant Dupey.",
       "transcript_snippet": "Uh myself and Sergeant Dupey are uh in route to Provo Airport. Uh victim's wife is arriving at 3:30.",
       "mentions_person_refs": [
-        "N-596",
+        "N-595",
         "N-2"
       ]
     },
@@ -1983,7 +1983,7 @@
       "investigative_direction": "Identify the charter operator of Charlie Kirk's aircraft and its pilot roster for September 10, 2025.",
       "transcript_snippet": "I know that his first name is Jamie, but that's all I know. I think he might be from Texas and I would like to know more about Jamie.",
       "mentions_person_refs": [
-        "N-597",
+        "N-596",
         "N-1"
       ]
     },
@@ -2073,7 +2073,7 @@
       ],
       "mentions_person_refs": [
         "N-493",
-        "N-551",
+        "N-550",
         "N-14"
       ]
     },
@@ -2095,7 +2095,7 @@
       "transcript_snippet": "Justin Streiff is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff staff at 2:27.",
       "mentions_person_refs": [
         "N-15",
-        "N-551",
+        "N-550",
         "N-1"
       ]
     },
@@ -2163,7 +2163,7 @@
         "N-217",
         "N-11",
         "N-186",
-        "N-598"
+        "N-597"
       ]
     },
     {
@@ -2186,7 +2186,7 @@
         "N-2",
         "N-217",
         "N-186",
-        "N-598",
+        "N-597",
         "N-11"
       ]
     },
@@ -2381,7 +2381,7 @@
       "investigative_direction": "Archive the original skit post with its date and view counts.",
       "transcript_snippet": "Here is Druski Druski uh mocking conservative women, namely Erika Kirk.",
       "mentions_person_refs": [
-        "N-595",
+        "N-594",
         "N-2"
       ]
     },
@@ -2420,7 +2420,7 @@
       "transcript_snippet": "Ted Cruz tweeted that this was beneath contempt.",
       "mentions_person_refs": [
         "N-106",
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -2460,7 +2460,7 @@
       "investigative_direction": "Locate the letter, its date, its author and the Treasury or personal capacity in which it was issued.",
       "transcript_snippet": "You can get Scott Bessent to issue a letter and say, \"Turning Point is in great financial standing.\"",
       "mentions_person_refs": [
-        "N-599"
+        "N-598"
       ]
     },
     {

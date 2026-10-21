@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-800, N-801, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11172, N-11173, N-11174, N-11175
+  - Tip-minted Nodes (supplement_2026-10c): N-799, N-800, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11172, N-11173, N-11174, N-11175
   - Hole-minted Nodes (reintro-ep054): N-437, N-439, N-449, N-450, N-487, N-10411, N-10670, N-10681, N-10730, N-10739
-  - Tip-minted Nodes (reintro-ep054): N-682, N-683, N-688, N-689, N-10988
+  - Tip-minted Nodes (reintro-ep054): N-681, N-682, N-687, N-688, N-10988
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4724–C-4870
   - New Nodes Introduced: N-398, N-399, N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-407, N-435, N-436, N-10392, N-10394, N-10395, N-10396, N-10399, N-10400
-  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-117, N-176, N-190, N-195, N-196, N-200, N-205, N-208, N-224, N-237, N-246, N-270, N-283, N-325, N-364, N-489, N-752, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167, N-10397, N-11170
+  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-117, N-176, N-190, N-195, N-196, N-200, N-205, N-208, N-224, N-237, N-246, N-270, N-283, N-325, N-364, N-489, N-751, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167, N-10397, N-11170
   - (see registers), N-11
 
 # Meta-Data
@@ -876,7 +876,7 @@ Erika Kirk's mother; the host says she founded the Everyday Heroes Foundation.
 
 ---
 
-**N-682** Jon Bray
+**N-681** Jon Bray
 
 Researcher whose work the host finds compelling (transcribed John Bray).
 
@@ -884,7 +884,7 @@ Researcher whose work the host finds compelling (transcribed John Bray).
 
 ---
 
-**N-683** Spencer (Frank Turek's son)
+**N-682** Spencer (Frank Turek's son)
 
 Said to be an Air Force veteran.
 
@@ -892,7 +892,7 @@ Said to be an Air Force veteran.
 
 ---
 
-**N-688** Otto Busher
+**N-687** Otto Busher
 
 Colonel the host says Romanian Angels worked with and who was accused of running a brothel.
 
@@ -900,7 +900,7 @@ Colonel the host says Romanian Angels worked with and who was accused of running
 
 ---
 
-**N-689** Curtis Kolvet
+**N-688** Curtis Kolvet
 
 Andrew Kolvet's brother, described as stationed in Romania.
 
@@ -908,7 +908,7 @@ Andrew Kolvet's brother, described as stationed in Romania.
 
 ---
 
-**N-752** Astrid Tuminez
+**N-751** Astrid Tuminez
 
 UVU president; the host notes her Russian studies degree.
 
@@ -1124,7 +1124,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-800** Paul Vallely
+**N-799** Paul Vallely
 
 First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.
 
@@ -1132,7 +1132,7 @@ First named by the host at 01:20:03 in episode 54. Retired Army intelligence off
 
 ---
 
-**N-801** Andrew Piskadlo
+**N-800** Andrew Piskadlo
 
 First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.
 
@@ -2152,7 +2152,7 @@ Claim: The host says it is a fact that Romanian Angels worked with Colonel Otto 
 Transcript Snippet: Now, it is a fact that they worked with at that time Colonel Otto Busher.
 
 Anchored Artifacts: 
-Mentions: N-688
+Mentions: N-687
 Related Nodes: N-11165
 Tags: relevance:core
 Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.
@@ -2168,7 +2168,7 @@ Claim: The host says Colonel Otto Busher was accused of running a brothel with y
 Transcript Snippet: Colonel Otto Busher was then accused of running a brothel with young children.
 
 Anchored Artifacts: 
-Mentions: N-688
+Mentions: N-687
 Related Nodes: N-10401
 Tags: relevance:context
 Investigative Direction: Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.
@@ -2184,7 +2184,7 @@ Claim: The host says there are no articles saying Erika Frantzve or Lori Frantzv
 Transcript Snippet: there is no articles that say Erika Francev or Lori were involved in this
 
 Anchored Artifacts: 
-Mentions: N-2, N-489, N-688
+Mentions: N-2, N-489, N-687
 Related Nodes: N-11165
 Qualifies: C-4747
 Tags: relevance:core
@@ -2233,7 +2233,7 @@ Claim: The host says Andrew Kolvet's brother Curtis is currently stationed in Ro
 Transcript Snippet: Uh Andrew Kolwitz's brother Curtis is currently stationed in Romania as a lieutenant colonel.
 
 Anchored Artifacts: 
-Mentions: N-14, N-689
+Mentions: N-14, N-688
 Related Nodes: N-10401
 Tags: relevance:context
 Investigative Direction: Check Army public affairs releases or promotion lists for Curtis Kolvet's rank and posting.
@@ -2249,7 +2249,7 @@ Claim: The host says Tyler Bowyer holds a degree in Russian studies and is fluen
 Transcript Snippet: We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian
 
 Anchored Artifacts: 
-Mentions: N-11, N-752
+Mentions: N-11, N-751
 Related Nodes: N-11172
 Tags: relevance:context
 Investigative Direction: Confirm Bowyer's degree and language skills from university records or his public biography.
@@ -2365,7 +2365,7 @@ Claim: The host says early pictures of Andrew Piskadlo wearing a suit and carryi
 Transcript Snippet: It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-801
+Mentions: N-800
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify Piscatello's credentials and who authorized his access to the UVU event.
@@ -2381,7 +2381,7 @@ Claim: The host says Andrew Piskadlo has publicly raised the alarm on military-l
 Transcript Snippet: Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.
 
 Anchored Artifacts: 
-Mentions: N-801
+Mentions: N-800
 Related Nodes: N-10401
 Tags: relevance:context
 Investigative Direction: Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.
@@ -2479,7 +2479,7 @@ Claim: The host says Andrew Kolvet's brother and cousin, Curtis Kolvet and Rober
 Transcript Snippet: Andrew Kolwitz's brother and cousin are captains in the military, Curtis Kolwitz and Robert Kolwitz.
 
 Anchored Artifacts: 
-Mentions: N-14, N-689
+Mentions: N-14, N-688
 Tags: relevance:context
 Investigative Direction: Reconcile Curtis Kolvet's rank (captain versus lieutenant colonel) through Army records.
 
@@ -2573,7 +2573,7 @@ Claim: The host says Frank Turek's son Frank Turek III is a deputy division chie
 Transcript Snippet: His other son, Spencer, is an Air Force vet.
 
 Anchored Artifacts: 
-Mentions: N-7, N-683
+Mentions: N-7, N-682
 Related Nodes: N-10730
 Tags: relevance:core
 Investigative Direction: Verify Frank Turek III's Joint Staff position and Spencer Turek's service through public directories or records.
@@ -3672,7 +3672,7 @@ Claim: Responding to a viewer comment, the host says she has seen Jon Bray's wor
 Transcript Snippet: and I have been communicating with him behind the scenes.
 
 Anchored Artifacts: A-2923.2
-Mentions: N-682, N-3
+Mentions: N-681, N-3
 Tags: relevance:context
 Investigative Direction: Review Bray's published work and his own account of any contact with the host.
 
@@ -3734,7 +3734,7 @@ Claim: Responding to a viewer comment that says Paul Vallely is on the advisory 
 Transcript Snippet: Cuz Paul Vallely is also on the advisory board of Turning Point USA.
 
 Anchored Artifacts: A-2923.3
-Mentions: N-800, N-10000
+Mentions: N-799, N-10000
 Tags: relevance:context
 Investigative Direction: Check TPUSA's website and archived board listings for Vallely.
 
@@ -3749,7 +3749,7 @@ Claim: Reading a viewer comment, the host says retired Army intelligence officer
 Transcript Snippet: He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.
 
 Anchored Artifacts: A-2923.3
-Mentions: N-800, N-449
+Mentions: N-799, N-449
 Tags: relevance:tangential
 Investigative Direction: Verify the authorship of Mind War and Vallely's and Aquino's military service.
 
@@ -3764,7 +3764,7 @@ Claim: The host says she believes Paul Vallely has some connection to Fort Huach
 Transcript Snippet: I do believe that he has some connection to Fort Huachuca as well.
 
 Anchored Artifacts: A-2923.3
-Mentions: N-800, N-3
+Mentions: N-799, N-3
 Related Nodes: N-10739
 Supports: C-4405
 Tags: relevance:context

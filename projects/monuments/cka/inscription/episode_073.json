@@ -185,7 +185,7 @@
             "C-6557"
           ],
           "related_nodes": [
-            "N-554"
+            "N-553"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
             "C-6557"
           ],
           "related_nodes": [
-            "N-554"
+            "N-553"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -229,8 +229,8 @@
             "C-6562"
           ],
           "related_nodes": [
-            "N-554",
-            "N-562"
+            "N-553",
+            "N-561"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -260,7 +260,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-563",
+            "N-562",
             "N-10510"
           ],
           "tags": [],
@@ -475,8 +475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.",
@@ -496,8 +496,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-562",
-      "ref": "N-562",
+      "@id": "N-561",
+      "ref": "N-561",
       "name": "Dan Patrick",
       "type": "person",
       "description": "Texas Lieutenant Governor; announced Carrie Prejean Boller's removal from the Religious Liberty Commission on X.",
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "\"Matt\" (TPUSA Halftime Show Producer)",
       "type": "person",
       "description": "First-name-only reference by an informant to the producer of the TPUSA All-American Halftime Show, who reportedly hyped the crowd and promised Trump viewership.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-802",
+      "ref": "N-802",
       "name": "Savannah Guthrie",
       "type": "person",
       "description": "First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthrie'). Television host whose mother's reported abduction the host discusses.",
@@ -1427,8 +1427,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Kid Rock",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 73. Performer named in the halftime informant account, who the informants say they waited on longest.",
@@ -1445,8 +1445,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Bad Bunny",
       "type": "person",
       "description": "First named by the host at 00:39:40 in episode 73. Performer of the official Super Bowl halftime show to which the TPUSA show was compared.",
@@ -1643,8 +1643,8 @@
       "claim_timestamp": "00:34:48",
       "investigative_direction": "Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Boller.",
       "mentions_person_refs": [
-        "N-554",
-        "N-562"
+        "N-553",
+        "N-561"
       ]
     },
     {
@@ -1661,7 +1661,7 @@
       "claim_timestamp": "00:30:14",
       "investigative_direction": "Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.",
       "mentions_person_refs": [
-        "N-554"
+        "N-553"
       ]
     },
     {
@@ -2666,7 +2666,7 @@
       "transcript_snippet": "This is unacceptable. This hearing is unacceptable.",
       "mentions_person_refs": [
         "N-3",
-        "N-554"
+        "N-553"
       ]
     },
     {
@@ -2707,7 +2707,7 @@
       "investigative_direction": "Obtain the full hearing recording to confirm the question and the answer given.",
       "transcript_snippet": "So, is are all Catholics anti-semites according to you?",
       "mentions_person_refs": [
-        "N-554"
+        "N-553"
       ]
     },
     {
@@ -2767,7 +2767,7 @@
       "transcript_snippet": "it was announced on X after Zionists demanded she be removed.",
       "mentions_person_refs": [
         "N-3",
-        "N-554"
+        "N-553"
       ]
     },
     {
@@ -2809,7 +2809,7 @@
       "investigative_direction": "Capture the original post and compare the full text with the host's reading.",
       "transcript_snippet": "No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue.",
       "mentions_person_refs": [
-        "N-562"
+        "N-561"
       ]
     },
     {
@@ -2831,8 +2831,8 @@
       "investigative_direction": "Identify the hearing date and confirm whether the White House or Patrick formally made the removal.",
       "transcript_snippet": "This is clearly without question what happened on Monday in our hearing on anti-semitism in America. This was my decision.",
       "mentions_person_refs": [
-        "N-562",
-        "N-554"
+        "N-561",
+        "N-553"
       ]
     },
     {
@@ -2855,7 +2855,7 @@
       "transcript_snippet": "Yeah. I know you're taking a ton of money from Zionist.",
       "mentions_person_refs": [
         "N-3",
-        "N-562"
+        "N-561"
       ]
     },
     {
@@ -2877,7 +2877,7 @@
       "investigative_direction": "Check the commission's published hearing schedule for the five held and two scheduled sessions.",
       "transcript_snippet": "The commission has done outstanding work through five hearings. Two more are scheduled.",
       "mentions_person_refs": [
-        "N-562"
+        "N-561"
       ]
     },
     {
@@ -2972,7 +2972,7 @@
       "transcript_snippet": "a lot of them were fans of Bad Bunny and they were certain it was not going to rival that performance.",
       "mentions_person_refs": [
         "N-3",
-        "N-805"
+        "N-804"
       ]
     },
     {
@@ -3061,7 +3061,7 @@
       "transcript_snippet": "They waited the longest for Kid Rock.",
       "mentions_person_refs": [
         "N-3",
-        "N-804"
+        "N-803"
       ]
     },
     {
@@ -3074,7 +3074,7 @@
         "A-1778.1"
       ],
       "related_nodes": [
-        "N-563",
+        "N-562",
         "N-10510"
       ],
       "tags": [
@@ -3086,7 +3086,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -3100,7 +3100,7 @@
         "A-1779.1"
       ],
       "related_nodes": [
-        "N-563",
+        "N-562",
         "N-10499",
         "N-10510"
       ],
@@ -3112,8 +3112,8 @@
       "transcript_snippet": "he also said to them that this is going to get more views than the Bad Bunny halftime show.",
       "mentions_person_refs": [
         "N-3",
-        "N-563",
-        "N-805"
+        "N-562",
+        "N-804"
       ]
     },
     {
@@ -3137,7 +3137,7 @@
       "transcript_snippet": "Turning Point did cover their hotel rooms, but they were placed with a random person.",
       "mentions_person_refs": [
         "N-3",
-        "N-804"
+        "N-803"
       ]
     },
     {
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "I'm referring to that same uh, storyline of TMZ somehow gets the tape.",
       "mentions_person_refs": [
         "N-3",
-        "N-803",
+        "N-802",
         "N-69"
       ]
     },
@@ -3247,7 +3247,7 @@
       "transcript_snippet": "I would check out those Native American reservations because the feds do deals with them and nothing good goes on.",
       "mentions_person_refs": [
         "N-3",
-        "N-803",
+        "N-802",
         "N-9"
       ]
     },
@@ -3271,7 +3271,7 @@
       "transcript_snippet": "And I do think that part of it was to distract us.",
       "mentions_person_refs": [
         "N-3",
-        "N-803"
+        "N-802"
       ]
     },
     {
@@ -3336,7 +3336,7 @@
       "transcript_snippet": "Yeah, they literally did. And then she got fired, but they're the victims.",
       "mentions_person_refs": [
         "N-3",
-        "N-554"
+        "N-553"
       ]
     },
     {

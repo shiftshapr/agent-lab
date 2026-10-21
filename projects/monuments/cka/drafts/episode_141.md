@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-748, N-11069
+  - Tip-minted Nodes (supplement_2026-10): N-747, N-11069
   - Hole-minted Nodes (reintro-ep141): N-10805
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12113–C-12208
@@ -41,7 +41,7 @@
 
 - Artifact Families Introduced: A-2277, A-2278, A-2279, A-2280, A-2281, A-2282, A-2283
   - New Nodes Introduced: N-10794, N-10795, N-10796
-  - Reused Nodes Appearing: N-18, N-561, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
+  - Reused Nodes Appearing: N-18, N-560, N-14, N-54, N-57, N-101, N-113, N-159, N-204, N-237, N-268, N-270, N-329, N-506, N-10000, N-10026, N-10090, N-10102, N-10290, N-10337, N-10381, N-10507, N-10593, N-10725, N-10816, N-11068, N-11066, N-11067
 - Existing Nodes Reused: (Candace Owens, Erika Kirk, Charlie Kirk, Tyler Robinson treated as known series entities; node IDs not reissued)
 
 ---
@@ -309,7 +309,7 @@ Video Timestamp: 00:09:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12126, C-12127, C-12135, C-12165, N-3, N-18, N-748*
+*Related: C-12126, C-12127, C-12135, C-12165, N-3, N-18, N-747*
 
 ---
 
@@ -519,7 +519,7 @@ Officer named in the played Q&A about the body cam and the screwdriver.
 
 ---
 
-**N-561** Rachel Wilson
+**N-560** Rachel Wilson
 
 Named in the earpiece claims and as having spoken to TPUSA executives according to Wilson.
 
@@ -623,7 +623,7 @@ Topic tied to the content of the September 9 message.
 
 ---
 
-**N-748** Gerald Morgan
+**N-747** Gerald Morgan
 
 First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.
 
@@ -762,7 +762,7 @@ Claim Timestamp: 01:08:14
 Claim: Rachel Wilson posted on X stating, in effect, that Candace Owens would naturally know the case details better than Andrew Wilson, citing Wilson's approximately six days of preparation.
 
 Anchored Artifacts: A-2280.2
-Mentions: N-18, N-3, N-561
+Mentions: N-18, N-3, N-560
 
 Related Nodes:
 
@@ -775,7 +775,7 @@ Claim Timestamp: 01:05:37
 Claim: The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-561
+Mentions: N-3, N-560
 
 Related Nodes:
 
@@ -1094,7 +1094,7 @@ Claim: The host says Wilson turned up with Steven Crowder's team, naming Gerald 
 Transcript Snippet: he shows up with Steven Crowder's team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-259, N-748
+Mentions: N-3, N-18, N-259, N-747
 Related Nodes: N-11067
 Investigative Direction: Confirm the identities of the four-person party with Crowder's company and the debate's security or visitor list.
 
@@ -1124,7 +1124,7 @@ Claim: The host says Gerald decided to do a live call-in from her children's pla
 Transcript Snippet: Gerald decided to do a live callin from my kids' playroom just outside the studio.
 
 Anchored Artifacts: 
-Mentions: N-3, N-748
+Mentions: N-3, N-747
 Related Nodes: N-11067
 Investigative Direction: Check Crowder's channel for any live call-in on debate day and its time.
 
@@ -1153,7 +1153,7 @@ Claim: The host says one term of the contract stipulated no filming outside the 
 Transcript Snippet: one thing the contract did stipulate was no filming outside of this studio.
 
 Anchored Artifacts: A-2795.2
-Mentions: N-3, N-748
+Mentions: N-3, N-747
 Related Nodes: N-11067
 Investigative Direction: Obtain the contract and read the filming clause.
 
@@ -1954,7 +1954,7 @@ Claim: The host says Wilson said on a stream that his wife went in and spoke to 
 Transcript Snippet: he said on some stream that his wife went in and spoke to the executives at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-561
+Mentions: N-3, N-18, N-560
 Related Nodes: N-10000
 Investigative Direction: Locate the stream where Wilson said this.
 

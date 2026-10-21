@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-915, N-916, N-917, N-918, N-11349, N-11350
+  - Tip-minted Nodes (supplement_2026-10f): N-914, N-915, N-916, N-917, N-11349, N-11350
   - Hole-minted Nodes (reintro-ep094): N-10640
-  - Tip-minted Nodes (reintro-ep094): N-827
+  - Tip-minted Nodes (reintro-ep094): N-826
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8364–C-8489
   - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10636
   - Hole-minted Nodes (wave3): N-425, N-426
-  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-600, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713, N-10633, N-10634
+  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-599, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713, N-10633, N-10634
   - (see registers)
 
 ---
@@ -723,7 +723,7 @@ Hillary Clinton, subject of the host's aside.
 
 ---
 
-**N-600** Melania Trump
+**N-599** Melania Trump
 
 Melania Trump, whose circle the host says fears Loomer.
 
@@ -731,7 +731,7 @@ Melania Trump, whose circle the host says fears Loomer.
 
 ---
 
-**N-827** Kathy Nester
+**N-826** Kathy Nester
 
 Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.
 
@@ -1012,7 +1012,7 @@ Organization the host and Kathy Nester call the SBI, which holds some physical e
 
 ---
 
-**N-915** Casey DeSantis
+**N-914** Casey DeSantis
 
 First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.
 
@@ -1029,7 +1029,7 @@ Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Pho
 
 ---
 
-**N-916** Roger Stone
+**N-915** Roger Stone
 
 First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.
 
@@ -1037,7 +1037,7 @@ First named by the host at 00:51:13 in episode 94. Named by the host as a Trump 
 
 ---
 
-**N-917** Jessica Tarlov
+**N-916** Jessica Tarlov
 
 First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.
 
@@ -1045,7 +1045,7 @@ First named by the host at 00:34:38 in episode 94. Named in the Truth Social pos
 
 ---
 
-**N-918** Jack Dorsey
+**N-917** Jack Dorsey
 
 First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.
 
@@ -1137,7 +1137,7 @@ Claim Timestamp: 00:12:20
 Claim: Defense attorney Kathy Nester states she has not been able to look at her client's phone, with the data requiring expert analysis via shipped hard drives.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-827, N-40
+Mentions: N-826, N-40
 
 Related Nodes: N-10623
 
@@ -1152,7 +1152,7 @@ Claim Timestamp: 00:15:13
 Claim: Defense attorney Kathy Nester states the defense has never physically seen the firearm.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-827
+Mentions: N-826
 
 Related Nodes: N-10624
 
@@ -1167,7 +1167,7 @@ Claim Timestamp: 00:15:13
 Claim: Nester states the firearm is held at Quantico, Virginia.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-827
+Mentions: N-826
 
 Related Nodes: N-10624
 
@@ -1857,7 +1857,7 @@ Claim: Kathy Nester says the state has indicated it may call individuals uniquel
 Transcript Snippet: the state's indicated they may call individuals you um uniquely connected to my client.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-827, N-40
+Mentions: N-826, N-40
 Related Nodes: N-10623, N-11149
 Tags: relevance:core
 Investigative Direction: Check the state's witness list for the probable cause hearing once filed.
@@ -1905,7 +1905,7 @@ Claim: Kathy Nester says the defense went to examine physical evidence this week
 Transcript Snippet: We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-827
+Mentions: N-826
 Related Nodes: N-11349, N-10110
 Tags: relevance:core
 Investigative Direction: Check the docket or any inspection log for the date and scope of the defense's physical evidence review.
@@ -2274,7 +2274,7 @@ Claim: The Truth Social post the host reads says Trump is watching one of the le
 Transcript Snippet: I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.
 
 Anchored Artifacts: A-1995.1
-Mentions: N-5, N-917
+Mentions: N-5, N-916
 Related Nodes: N-10587
 Tags: relevance:context
 Investigative Direction: Verify the post text on Truth Social.
@@ -2290,7 +2290,7 @@ Claim: The post the host reads says CNN had Trump at 100 percent saying they nev
 Transcript Snippet: CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.
 
 Anchored Artifacts: A-1995.1
-Mentions: N-5, N-917
+Mentions: N-5, N-916
 Related Nodes: N-10587
 Tags: relevance:context
 Investigative Direction: Check the CNN poll Trump refers to.
@@ -2354,7 +2354,7 @@ Claim: The host says she met Laura Loomer years ago on the same plane on the way
 Transcript Snippet: I was on the way to do one of my first events, the David Horowitz Center, and we happened to be on the same plane. She was crying because Twitter had removed her checkmark. This was back when Jack Dorsey had it.
 
 Anchored Artifacts: 
-Mentions: N-3, N-60, N-193, N-918
+Mentions: N-3, N-60, N-193, N-917
 Tags: relevance:context
 Investigative Direction: Check the date of the event and of Loomer's loss of verification to place the encounter.
 
@@ -2499,7 +2499,7 @@ Claim: The host says she is told by people in Melania Trump's circle that they b
 Transcript Snippet: I am told by people in Melania's circle that they believe, like, yeah, actually the most likely person to harm Donald Trump would be Laura Loomer
 
 Anchored Artifacts: 
-Mentions: N-600, N-60, N-5
+Mentions: N-599, N-60, N-5
 Related Nodes: N-10590
 Tags: relevance:context
 Investigative Direction: The sources are unnamed; the host would need to identify or corroborate the people in Melania's circle.
@@ -2679,7 +2679,7 @@ Claim: The host says Loomer, when DeSantis was running, said things like Casey D
 Transcript Snippet: Like she did when DeSantis was running, and Trump and his campaign found it to be quite useful when she said things like Casey DeSantis is making up cancer.
 
 Anchored Artifacts: 
-Mentions: N-60, N-5, N-915
+Mentions: N-60, N-5, N-914
 Related Nodes: N-10590
 Tags: relevance:context
 Investigative Direction: Find Loomer's posts about Casey DeSantis's illness during the 2023-24 primary and any evidence on the Trump campaign's use of them.
@@ -2823,7 +2823,7 @@ Claim: The host says Trump should speak to his friend Roger Stone about Loomer's
 Transcript Snippet: You should speak to your friend Roger Stone about uh, her suicidal attempts and the things that she says and the things that she does and the accounts that she operates behind the scenes.
 
 Anchored Artifacts: 
-Mentions: N-60, N-5, N-916
+Mentions: N-60, N-5, N-915
 Related Nodes: N-10628
 Tags: relevance:context
 Investigative Direction: Ask Stone directly; the host gives no evidence for the accounts allegedly operated behind the scenes.

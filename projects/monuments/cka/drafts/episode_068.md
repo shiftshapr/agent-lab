@@ -15,7 +15,7 @@
   - Tip-minted Nodes (reintro-ep068): N-10922, N-10956
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6082–C-6144
-  - New Nodes Introduced: N-536, N-537, N-539, N-540, N-541, N-543, N-544, N-10478, N-10479, N-10481, N-10483, N-10484
+  - New Nodes Introduced: N-536, N-537, N-539, N-540, N-541, N-543, N-10478, N-10479, N-10481, N-10483, N-10484
   - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-199, N-366, N-497, N-534, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-538, N-542, N-10480
   - (see registers)
 
@@ -72,7 +72,7 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737
 - **Claim Range:** C-6103 – C-6138
-- **New People Nodes Introduced:** N-536, N-537, N-489, N-190, N-15, N-97, N-538, N-539, N-540, N-541, N-542, N-7, N-543, N-544
+- **New People Nodes Introduced:** N-536, N-537, N-489, N-190, N-15, N-97, N-538, N-539, N-540, N-541, N-542, N-7, N-543
 - **New Investigation Target Nodes Introduced:** N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484
 - **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)
 
@@ -275,7 +275,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:46:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read from viewer comment; host pulls up article details)
-*Related: C-6142, N-539, N-543, N-544*
+*Related: C-6142, N-539, N-543*
 
 ---
 
@@ -443,7 +443,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
-*Related: A-1736.1, C-6142, N-543, N-544*
+*Related: A-1736.1, C-6142, N-543*
 
 **N-540** Kevin Sorbo
 Actor referenced via tweet about leaving Hollywood because participants were pedophiles.
@@ -477,15 +477,7 @@ Episode Count: 1
 Investigative Pressure: Medium
 *Related: N-10477, N-10482*
 
-**N-543** Amber Thurman (Victim in Stevenson case)
-Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-*Related: A-1736.1, C-6142, N-539*
-
-**N-544** Jill Biden
+**N-543** Jill Biden
 Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.
 Evidence Count: 0
 Claim Count: 0
@@ -914,7 +906,7 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 Claim Timestamp: 00:47:06
 Claim: A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.
 Anchored Artifacts: A-1736.1
-Mentions: N-539, N-544
+Mentions: N-539, N-543
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.
 
 ---
@@ -1684,7 +1676,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 
 - Every claim (C-6103 – C-6138) carries at least one Anchored Artifact and at least one Related Node.
 - Every artifact family (A-1727 – A-1737) carries Related claims and Related nodes.
-- Every People Node (N-536 – N-544) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
+- Every People Node (N-536 – N-543) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.
 - No episode-wide artifact bundle was created.
 - No speculative claims were inscribed; rhetoric-only statements about "muggles," "Babylonian magic," "Project Looking Glass," "Epstein," "Ben Shapiro secretly hates her," "God is real," etc., were excluded as framing premises / interpretive commentary.
 

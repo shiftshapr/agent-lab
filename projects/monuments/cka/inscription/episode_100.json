@@ -51,7 +51,7 @@
             "C-8932"
           ],
           "related_nodes": [
-            "N-601",
+            "N-600",
             "N-10909",
             "N-10910"
           ],
@@ -80,7 +80,7 @@
           ],
           "related_nodes": [
             "N-330",
-            "N-601",
+            "N-600",
             "N-266",
             "N-10909"
           ],
@@ -108,7 +108,7 @@
             "C-8931"
           ],
           "related_nodes": [
-            "N-601",
+            "N-600",
             "N-266",
             "N-1",
             "N-10768"
@@ -128,7 +128,7 @@
             "C-8931"
           ],
           "related_nodes": [
-            "N-601",
+            "N-600",
             "N-266"
           ],
           "tags": [],
@@ -358,7 +358,7 @@
             "C-8970"
           ],
           "related_nodes": [
-            "N-605",
+            "N-604",
             "N-366"
           ],
           "tags": [],
@@ -420,7 +420,7 @@
           ],
           "related_nodes": [
             "N-366",
-            "N-606",
+            "N-605",
             "N-10912"
           ],
           "tags": [],
@@ -464,7 +464,7 @@
             "C-8976"
           ],
           "related_nodes": [
-            "N-606",
+            "N-605",
             "N-10912"
           ],
           "tags": [],
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Douglas Blake Bednarz",
       "type": "person",
       "description": "First named by the host at 00:06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Douglas Blake Bednarz.",
@@ -1025,8 +1025,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Father Klein",
       "type": "person",
       "description": "First named by the host at 00:21:38 in episode 100. The host says the Kirks' September 9 dinner was with him.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "First named by the host at 00:28:52 in episode 100. The host alleges he received material from Alyssa Cordova to attack Boreing's enemies.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "First named by the host at 00:37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).",
@@ -1076,8 +1076,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Shane Cashman",
       "type": "person",
       "description": "First named by the host at 00:43:02 in episode 100. Posted on X that Boreing is \"Ted Bundy doing a Mr. Rogers impression.\"",
@@ -1095,8 +1095,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-605",
+      "ref": "N-605",
       "name": "Zachary Lewis",
       "type": "person",
       "description": "First named by the host at 00:46:20 in episode 100. Former Daily Wire camera operator in the kids department; arrested and accused (not convicted) of child sexual abuse material offenses, with six felony counts pending per the host. Aliases: Zach Lewis.",
@@ -1541,8 +1541,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-614",
+      "ref": "N-614",
       "name": "Gary Melton",
       "type": "person",
       "description": "Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\").",
@@ -1645,7 +1645,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-601",
+        "N-600",
         "N-266"
       ]
     },
@@ -1712,7 +1712,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-606"
+        "N-605"
       ]
     }
   ],
@@ -1878,7 +1878,7 @@
       "transcript_snippet": "Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk. Like frame by frame. He has a whole video called Judas Harpole.",
       "mentions_person_refs": [
         "N-330",
-        "N-601",
+        "N-600",
         "N-266",
         "N-1"
       ]
@@ -1902,7 +1902,7 @@
       "transcript_snippet": "And yet, no, this Blake Bednarz's character is not listed in this lawsuit.",
       "mentions_person_refs": [
         "N-330",
-        "N-601",
+        "N-600",
         "N-266"
       ]
     },
@@ -1923,7 +1923,7 @@
       "investigative_direction": "Compare the publication date of Harpole's Shawn Ryan Show episode with the timestamps of Bednarz's first posts naming Harpole.",
       "transcript_snippet": "The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Shawn Ryan.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-266",
         "N-224"
       ]
@@ -1947,7 +1947,7 @@
       "investigative_direction": "Archive the original Bednarz posts with URLs and timestamps, and compare the allegation with the autopsy and ballistics evidence in the Tyler Robinson case.",
       "transcript_snippet": "This is who squeezed the trigger to initiate the detonation under Charlie's shirt. Brian Judas Harpole was wearing the controls under his clothes. I am 1 trillion percent certain.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-266",
         "N-1"
       ]
@@ -1971,7 +1971,7 @@
       "investigative_direction": "Obtain the preservation letter served on Douglas Blake Bednarz, its date and signatory, and any later subpoena issued to him.",
       "transcript_snippet": "I learned that Douglas Blake Bednarz had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-3"
       ]
     },
@@ -2008,7 +2008,7 @@
       "investigative_direction": "Obtain the host's message history with Bednarz and any footage or links he sent, and identify the UVU contact he cited.",
       "transcript_snippet": "there's this guy who is purporting to have never before seen footage from the UVU event.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-3"
       ]
     },
@@ -2027,7 +2027,7 @@
       "investigative_direction": "Review the dated message thread between the host and Bednarz for November–December 2025.",
       "transcript_snippet": "My spidey senses went up in December. Right around the time that we began discussing Fort Huachuca when he suddenly shifted gears and began sending me stuff about Brian Harpole.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-266",
         "N-3"
       ]
@@ -2047,7 +2047,7 @@
       "investigative_direction": "Confirm from the message thread the date of the host's last reply to Bednarz.",
       "transcript_snippet": "I'm just not going to reply to you beginning in mid-December.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-3"
       ]
     },
@@ -2277,7 +2277,7 @@
         "N-14",
         "N-2",
         "N-1",
-        "N-615"
+        "N-614"
       ]
     },
     {
@@ -2315,7 +2315,7 @@
       "investigative_direction": "Confirm the September 9, 2025 dinner and its location with Father Klein.",
       "transcript_snippet": "Dinner that night together, which I am aware of because it was with Father Klein.",
       "mentions_person_refs": [
-        "N-602",
+        "N-601",
         "N-2",
         "N-1",
         "N-3"
@@ -2341,7 +2341,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-2",
-        "N-615"
+        "N-614"
       ]
     },
     {
@@ -2424,7 +2424,7 @@
       "mentions_person_refs": [
         "N-366",
         "N-229",
-        "N-603"
+        "N-602"
       ]
     },
     {
@@ -2617,7 +2617,7 @@
       "transcript_snippet": "They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Caleb Robinson, George introduced them to all of his circle of investor friends",
       "mentions_person_refs": [
         "N-30",
-        "N-604"
+        "N-603"
       ]
     },
     {
@@ -2771,7 +2771,7 @@
       "investigative_direction": "Archive the Shane Cashman X post with its URL and timestamp.",
       "transcript_snippet": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\"",
       "mentions_person_refs": [
-        "N-605",
+        "N-604",
         "N-366"
       ]
     },
@@ -2832,7 +2832,7 @@
       "investigative_direction": "Obtain the arrest record, charging documents and docket for Zachary Lewis.",
       "transcript_snippet": "he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors.",
       "mentions_person_refs": [
-        "N-606"
+        "N-605"
       ]
     },
     {
@@ -2851,7 +2851,7 @@
       "investigative_direction": "Check Bentkey production credits and Daily Wire employment records for Zachary Lewis's role.",
       "transcript_snippet": "this now former employee, Zachary Lewis, happens to have worked in The Daily Wire Kids department, where they filmed kids' shows with kids.",
       "mentions_person_refs": [
-        "N-606"
+        "N-605"
       ]
     },
     {
@@ -2870,7 +2870,7 @@
       "investigative_direction": "Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.",
       "transcript_snippet": "I am told that he was not immediately dismissed from The Daily Wire, allegedly.",
       "mentions_person_refs": [
-        "N-606"
+        "N-605"
       ]
     },
     {
@@ -2890,7 +2890,7 @@
       "investigative_direction": "Confirm the number and nature of the counts on the court docket.",
       "transcript_snippet": "There are currently six felony counts pending before the judge. I dropped the details of the case against him on my X feed.",
       "mentions_person_refs": [
-        "N-606"
+        "N-605"
       ]
     },
     {
@@ -2909,7 +2909,7 @@
       "investigative_direction": "Seek accounts from Daily Wire employees on how Lewis's departure was announced internally.",
       "transcript_snippet": "I have been informed that they did not build a stage to gloriously fire Zach Lewis and to publicly hang him before the employees like they did with me.",
       "mentions_person_refs": [
-        "N-606",
+        "N-605",
         "N-3"
       ]
     },
@@ -2989,7 +2989,7 @@
       "transcript_snippet": "But while that accusation is terrible, it has nothing to do with me.",
       "mentions_person_refs": [
         "N-366",
-        "N-606"
+        "N-605"
       ]
     },
     {
@@ -3068,7 +3068,7 @@
       "investigative_direction": "Track any follow-up the host publishes on the Bednarz lead.",
       "transcript_snippet": "Actually, we had an interesting lead today about Blake Bednarz. So we'll follow that.",
       "mentions_person_refs": [
-        "N-601",
+        "N-600",
         "N-3"
       ]
     }

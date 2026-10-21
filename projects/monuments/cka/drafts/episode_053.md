@@ -34,7 +34,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - New Nodes Introduced: N-388, N-390, N-391, N-392, N-394, N-395, N-396, N-10386, N-10388, N-10390, N-10391
-  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-738, N-11116, N-11117, N-389, N-485, N-10389, N-10661, N-10925, N-393
+  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-266, N-270, N-366, N-375, N-484, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-737, N-11116, N-11117, N-389, N-485, N-10389, N-10661, N-10925, N-393
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11
 
 ---
@@ -589,7 +589,7 @@ Subject of the host's reading of his lawsuit.
 
 ---
 
-**N-738** Michael Jackson
+**N-737** Michael Jackson
 
 Subject of the Daily Wire episode the host cites as a firing reason.
 
@@ -1284,7 +1284,7 @@ Claim: The host says another reason given for her firing was that, while speakin
 Transcript Snippet: I insinuated in an episode that I had done while I was at the Daily Wire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run by a gang.
 
 Anchored Artifacts: 
-Mentions: N-3, N-738
+Mentions: N-3, N-737
 Related Nodes: N-10900, N-11116
 Tags: relevance:context
 Investigative Direction: Identify the Daily Wire episode and obtain the town hall record of whether it was cited.

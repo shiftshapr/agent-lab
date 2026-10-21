@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-944, N-945, N-11402, N-11403, N-11404, N-11405
+  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11402, N-11403, N-11404, N-11405
   - Hole-minted Nodes (reintro-ep128): N-10777
   - Tip-minted Nodes (reintro-ep128): N-11143, N-11305
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10950–C-11059
-  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-153, N-165, N-209, N-224, N-253, N-591, N-607, N-689, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
+  - Reused Nodes Appearing: N-10732, N-10737, N-10739, N-10736, N-10735, N-2, N-3, N-4, N-5, N-11, N-22, N-36, N-40, N-89, N-97, N-153, N-165, N-209, N-224, N-253, N-590, N-606, N-688, N-10000, N-10019, N-10032, N-10090, N-10094, N-10249, N-10257, N-10271, N-10346, N-10347, N-10383, N-10435, N-10539, N-10651, N-10681, N-10687, N-10699, N-10715, N-10727, N-10731, N-10748, N-10769, N-11094, N-11128
  - New Nodes Introduced: N-10732, N-10733, N-10734, N-10737, N-10738, N-10739
  - Hole-minted Nodes (wave3): N-507, N-508, N-509, N-510
  - Reused Nodes Appearing: N-10149, N-378, N-505
@@ -790,7 +790,7 @@ Brian Harpole; his no-CPR account.
 
 ---
 
-**N-591** Bret Weinstein
+**N-590** Bret Weinstein
 
 Bret Weinstein; named as confirming Charlie's Iran war opposition.
 
@@ -798,7 +798,7 @@ Bret Weinstein; named as confirming Charlie's Iran war opposition.
 
 ---
 
-**N-607** Graham Allen
+**N-606** Graham Allen
 
 Graham Allen; one of the influencers the host says received sharp footage.
 
@@ -806,7 +806,7 @@ Graham Allen; one of the influencers the host says received sharp footage.
 
 ---
 
-**N-689** Curtis Kolvet
+**N-688** Curtis Kolvet
 
 Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the transcript says only Lieutenant Colonel Kolvet).
 
@@ -1030,7 +1030,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-944** Itamar Ben-Gvir
+**N-943** Itamar Ben-Gvir
 
 First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
@@ -1038,7 +1038,7 @@ First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
 ---
 
-**N-945** Blaine Holt
+**N-944** Blaine Holt
 
 Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.
 
@@ -1106,7 +1106,7 @@ Claim Timestamp: 00:05:31
 Claim: In a clip the host plays, Brigadier General Blaine Holt says he rejects the explanation that the bullet struck Charlie Kirk's spine and agrees with Robert O'Neill's broader critique.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-945, N-153, N-1
+Mentions: N-944, N-153, N-1
 
 Related Nodes: N-10734
 
@@ -1451,7 +1451,7 @@ Claim Timestamp: 00:41:03
 Claim: Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that he never worked at Fort Huachuca, and that he visited the installation once for a 3-day MP unit training event.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-689
+Mentions: N-14, N-688
 
 Related Nodes: N-10739
 
@@ -1468,7 +1468,7 @@ Claim: The host says Itamar Ben-Gvir and Benjamin Netanyahu explicitly came out 
 Transcript Snippet: having them explicitly come out and say that they were rooting uh for that team to win was not helpful.
 
 Anchored Artifacts: 
-Mentions: N-944, N-36, N-3
+Mentions: N-943, N-36, N-3
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.
@@ -1500,7 +1500,7 @@ Claim: The host says Andrew Kolvet's big brother, a lieutenant colonel in the mi
 Transcript Snippet: Andrew Kolvet's big brother, Lieutenant Colonel in the military, came to Andrew's defense on X this weekend.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-689, N-3
+Mentions: N-14, N-688, N-3
 Related Nodes: N-10739
 Supports: C-4752
 Tags: relevance:context
@@ -1566,7 +1566,7 @@ Claim: Air Force Brigadier General Blaine Holt says on Newsmax that he is with R
 Transcript Snippet: Absolutely not. I I I I'm with Rob. Something exploded on him.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-945, N-153, N-1
+Mentions: N-944, N-153, N-1
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.
@@ -1582,7 +1582,7 @@ Claim: General Holt says the explanation put out by the Justice Department that 
 Transcript Snippet: the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-945
+Mentions: N-944
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.
@@ -1598,7 +1598,7 @@ Claim: General Holt says you are not going to take a .30-06 with a kid who has n
 Transcript Snippet: You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-945, N-153, N-40
+Mentions: N-944, N-153, N-40
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Review Robinson's firearms and hunting history in the charging documents.
@@ -1761,7 +1761,7 @@ Claim: The host says clear 4K footage of the rooftop was made available to Benny
 Transcript Snippet: that 4K HD 4D chest super duper crystal clear overwhelming footage that was made available to Benny Johnson, Graham Allen, and his wife 10 months later and some other influencers?
 
 Anchored Artifacts: 
-Mentions: N-89, N-607, N-3
+Mentions: N-89, N-606, N-3
 Related Nodes: N-10731
 Tags: relevance:core
 Investigative Direction: Identify when and by whom the footage was shown to the influencers and compare the resolution with the September releases.
@@ -2472,7 +2472,7 @@ Claim: The host says no one has ever accused Andrew Kolvet, or his brother, of b
 Transcript Snippet: No one has ever accused Andrew Kolvet as at being as being at Fort Huachuca. No one ever accused his brother.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14, N-689, N-3
+Mentions: N-14, N-688, N-3
 Related Nodes: N-10739
 Tags: relevance:core
 Investigative Direction: Find the account the Lt. Col. was replying to and what it claimed.
@@ -2488,7 +2488,7 @@ Claim: Lieutenant Colonel Kolvet writes on X that two of his three days at Fort 
 Transcript Snippet: And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-689
+Mentions: N-688
 Related Nodes: N-10739
 Tags: relevance:core
 Investigative Direction: Verify the unit, dates and orders for the trip through the Army or the National Guard.
@@ -2763,7 +2763,7 @@ Claim: The host says Tucker Carlson, Bret Weinstein and Joe Kent have all confir
 Transcript Snippet: Tucker, Bret Weinstein, Joe Kent have all confirmed that he was fighting hard behind the scenes to stop it.
 
 Anchored Artifacts: 
-Mentions: N-22, N-591, N-209, N-1, N-3
+Mentions: N-22, N-590, N-209, N-1, N-3
 Related Nodes: N-10539, N-11128
 Supports: C-7248
 Tags: relevance:core

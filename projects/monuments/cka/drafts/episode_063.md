@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-766, N-767, N-769, N-11123, N-11124, N-11125, N-11127
+  - Tip-minted Nodes (supplement_2026-10b): N-765, N-766, N-768, N-11123, N-11124, N-11125, N-11127
   - Hole-minted Nodes (reintro-ep063): N-10492
   - Tip-minted Nodes (reintro-ep063): N-10905
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5600–C-5682
   - New Nodes Introduced: N-495, N-10443, N-10444, N-10445
-  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-768, N-10968, N-11126, N-11122
+  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-767, N-10968, N-11126, N-11122
   - (see registers)
 
 # Episode 63 – Analysis Record
@@ -302,7 +302,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5647, C-5648, C-5649, C-5650, N-3, N-766, N-767, N-456, N-470*
+*Related: C-5647, C-5648, C-5649, C-5650, N-3, N-765, N-766, N-456, N-470*
 
 ---
 
@@ -317,7 +317,7 @@ Video Timestamp: 00:33:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5655, N-3, N-767*
+*Related: C-5655, N-3, N-766*
 
 ---
 
@@ -343,7 +343,7 @@ Video Timestamp: 00:41:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5666, C-5665, N-3, N-495, N-769*
+*Related: C-5666, C-5665, N-3, N-495, N-768*
 
 ---
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:43:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5667, N-3, N-769*
+*Related: C-5667, N-3, N-768*
 
 ---
 
@@ -512,7 +512,7 @@ Named by a tipster as having worked with the Montgomerys at Shaklee; the host pl
 
 ---
 
-**N-766** Helene Bartz
+**N-765** Helene Bartz
 
 First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helene Bartz.
 
@@ -520,7 +520,7 @@ First named by the host at 00:29:53 in episode 063. Founder of Creative Children
 
 ---
 
-**N-767** Edith Walker Montgomery
+**N-766** Edith Walker Montgomery
 
 First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.
 
@@ -528,7 +528,7 @@ First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goe
 
 ---
 
-**N-768** Michele Bachmann
+**N-767** Michele Bachmann
 
 First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.
 
@@ -536,7 +536,7 @@ First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spo
 
 ---
 
-**N-769** Stanley Clark Moore
+**N-768** Stanley Clark Moore
 
 First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Moore with an Air Force background per the host.
 
@@ -1461,7 +1461,7 @@ Claim: The host says Creative Children's Academy was founded by a woman named He
 Transcript Snippet: was founded by a woman named Helene Bartz. Okay. Her husband is a Reverend Robert Bartz of Arlington Heights.
 
 Anchored Artifacts: 
-Mentions: N-3, N-766
+Mentions: N-3, N-765
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Verify the founders through Illinois corporation filings and school history sources.
@@ -1477,7 +1477,7 @@ Claim: The host says a tip she received, which she says she was able to confirm,
 Transcript Snippet: Helene Bartz was actually good friends with Bill Montgomery and his wife Edith Montgomery.
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-766, N-456, N-767
+Mentions: N-3, N-765, N-456, N-766
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.
@@ -1493,7 +1493,7 @@ Claim: The host says Edith Walker, who she has since learned immigrated from Ger
 Transcript Snippet: Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-767
+Mentions: N-3, N-766
 Tags: relevance:context
 Investigative Direction: Search immigration, nursing licensure and employment records for Edith Marie Walker; the host asks viewers for help.
 
@@ -1508,7 +1508,7 @@ Claim: The host relays that the tipster claims Edith Walker started the school w
 Transcript Snippet: she was actually the person that started the school with Helene Bartz and that's has since virtually been wiped from public record.
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-767, N-766
+Mentions: N-3, N-766, N-765
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Compare school founding documents and archived web pages for any mention of Edith Walker.
@@ -1524,7 +1524,7 @@ Claim: The host relays that the tipster says Bill Montgomery, his wife and a cer
 Transcript Snippet: The person claims that Bill and his wife and a certain Robert Flood who is in Dan Flood's family, this is what they claim
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-456, N-767, N-470, N-270
+Mentions: N-3, N-456, N-766, N-470, N-270
 Related Nodes: N-11124
 Tags: relevance:context
 Investigative Direction: Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.
@@ -1572,7 +1572,7 @@ Claim: The host says she was able to confirm that Helene Bartz, before starting 
 Transcript Snippet: I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.
 
 Anchored Artifacts: 
-Mentions: N-3, N-766
+Mentions: N-3, N-765
 Related Nodes: N-11124, N-11122
 Tags: relevance:context
 Investigative Direction: Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.
@@ -1605,7 +1605,7 @@ Claim: The host asks viewers with more information to email moretips@candaceowen
 Transcript Snippet: email, send us an email at more tips@canacewowens. com.
 
 Anchored Artifacts: A-2848.1
-Mentions: N-3, N-767
+Mentions: N-3, N-766
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review incoming tip responses to the request; this is a call for crowd research.
@@ -1685,7 +1685,7 @@ Claim: In the audio, Laurie Cardoza-Moore says three couples who attended the Tu
 Transcript Snippet: I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago.
 
 Anchored Artifacts: A-1681.1
-Mentions: N-495, N-22, N-768
+Mentions: N-495, N-22, N-767
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.
@@ -1701,7 +1701,7 @@ Claim: In the audio, Laurie Cardoza-Moore says Michele Bachmann told her persona
 Transcript Snippet: She said 10% in the room got up and walked out on her.
 
 Anchored Artifacts: A-1681.1
-Mentions: N-495, N-768, N-1, N-22
+Mentions: N-495, N-767, N-1, N-22
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.
@@ -1717,7 +1717,7 @@ Claim: The host says Laurie Cardoza-Moore is married to a man named Stanley Clar
 Transcript Snippet: married to a man named Stanley Clark Moore. He has an Air Force background.
 
 Anchored Artifacts: A-2850.1
-Mentions: N-3, N-495, N-769
+Mentions: N-3, N-495, N-768
 Tags: relevance:context
 Investigative Direction: Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.
 
@@ -1732,7 +1732,7 @@ Claim: The host says that, if his Wikipedia page is to be believed, Stanley Clar
 Transcript Snippet: Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.
 
 Anchored Artifacts: A-2850.1
-Mentions: N-3, N-769
+Mentions: N-3, N-768
 Related Nodes: N-11125
 Tags: relevance:context
 Investigative Direction: Read the Wikipedia article and its sources for the NASA employment claim.
@@ -1748,7 +1748,7 @@ Claim: The host asks viewers to message more tips at candaceowens.com about whic
 Transcript Snippet: Message us more tips at candacewowens. com.
 
 Anchored Artifacts: A-2851.1
-Mentions: N-3, N-769
+Mentions: N-3, N-768
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review incoming tip responses; this is a call for crowd research.

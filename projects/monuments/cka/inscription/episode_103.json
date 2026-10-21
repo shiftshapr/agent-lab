@@ -178,9 +178,9 @@
             "C-9180"
           ],
           "related_nodes": [
+            "N-616",
             "N-617",
             "N-618",
-            "N-619",
             "N-10920"
           ],
           "tags": [],
@@ -233,7 +233,7 @@
             "N-14",
             "N-15",
             "N-211",
-            "N-615",
+            "N-614",
             "N-10450",
             "N-10472",
             "N-10899"
@@ -257,7 +257,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-615",
+            "N-614",
             "N-10472"
           ],
           "tags": [],
@@ -276,7 +276,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-615",
+            "N-614",
             "N-10472",
             "N-10899"
           ],
@@ -305,7 +305,7 @@
           ],
           "related_nodes": [
             "N-424",
-            "N-620",
+            "N-619",
             "N-10000",
             "N-10921"
           ],
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-615",
-      "ref": "N-615",
+      "@id": "N-614",
+      "ref": "N-614",
       "name": "Gary Melton",
       "type": "person",
       "description": "First named by the host at 00:00:56 in episode 103. Self-described former Green Beret who runs the Paramount Tactical show and read Erika Kirk's September 9 alibi on air. Aliases: Gary Melton; Gary Melton.",
@@ -877,8 +877,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-616",
-      "ref": "N-616",
+      "@id": "N-615",
+      "ref": "N-615",
       "name": "Andrew Wommack",
       "type": "person",
       "description": "First named by the host at 00:09:26 in episode 103. Founder of Charis Bible College, described by the host as former military.",
@@ -894,8 +894,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-617",
-      "ref": "N-617",
+      "@id": "N-616",
+      "ref": "N-616",
       "name": "Desmond Holly",
       "type": "person",
       "description": "First named by the host at 00:13:00 in episode 103. The 16-year-old Evergreen High School student named in the official account as the September 10 shooter. Aliases: Desmond Holly.",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-618",
-      "ref": "N-618",
+      "@id": "N-617",
+      "ref": "N-617",
       "name": "Matthew Silverstone",
       "type": "person",
       "description": "First named by the host at 00:13:00 in episode 103. The second Evergreen High School student shot near South Olive Road and Buffalo Park Road. Aliases: Matt Silverstone; Matthew Silverstone.",
@@ -934,8 +934,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-619",
-      "ref": "N-619",
+      "@id": "N-618",
+      "ref": "N-618",
       "name": "Delmer Martinez",
       "type": "person",
       "description": "First named by the host at 00:13:58 in episode 103. Roofer who filmed part of the Evergreen incident and was interviewed by CBS Colorado. Aliases: Delmer Martinez.",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-620",
-      "ref": "N-620",
+      "@id": "N-619",
+      "ref": "N-619",
       "name": "Skip Caray",
       "type": "person",
       "description": "First named by the host at 00:37:32 in episode 103. Deceased baseball commentator whose voice VFX LA says it cloned for Fanatics Collectibles.",
@@ -1780,7 +1780,7 @@
       "investigative_direction": "Check Andrew Wommack's published biography and any military service records.",
       "transcript_snippet": "the founder of it is this guy Andrew Wommack and you're thinking is he former military? Of course.",
       "mentions_person_refs": [
-        "N-616"
+        "N-615"
       ]
     },
     {
@@ -1955,7 +1955,7 @@
       "investigative_direction": "Review the Jefferson County Sheriff's Office incident report and recent document release.",
       "transcript_snippet": "a 16-year-old student who attended Evergreen High School named Desmond Holly showed up to school with a Smith & Wesson.38 special revolver at 12:21.",
       "mentions_person_refs": [
-        "N-617"
+        "N-616"
       ]
     },
     {
@@ -1975,9 +1975,9 @@
       "investigative_direction": "Obtain Martinez's full footage and the sheriff's scene diagram.",
       "transcript_snippet": "And he does this at the intersection of South Olive Road and Buffalo Park Road. Uh a roofer, a guy who's literally working on roofs in construction, a man named Delmer Martinez, filmed this initial confrontation.",
       "mentions_person_refs": [
+        "N-616",
         "N-617",
-        "N-618",
-        "N-619"
+        "N-618"
       ]
     },
     {
@@ -1995,7 +1995,7 @@
       "investigative_direction": "Review deputy body-camera footage and the coroner's report in the sheriff's document release.",
       "transcript_snippet": "The sheriff's office has since confirmed that only the deputies were the witnesses to Holly shooting himself after they gave their commands.",
       "mentions_person_refs": [
-        "N-617"
+        "N-616"
       ]
     },
     {
@@ -2049,7 +2049,7 @@
       "investigative_direction": "Obtain the full CBS Colorado interview and Martinez's employer details.",
       "transcript_snippet": "Martinez tells CBS Colorado he and another coworker were working a roofing job in Evergreen.",
       "mentions_person_refs": [
-        "N-619"
+        "N-618"
       ]
     },
     {
@@ -2067,7 +2067,7 @@
       "investigative_direction": "Search Jefferson County building-permit records for Evergreen roofing permits active on September 10, 2025.",
       "transcript_snippet": "locals, who were very interested in this, began searching and they could not determine what house he and his coworkers were working on or what contractor they were working for.",
       "mentions_person_refs": [
-        "N-619"
+        "N-618"
       ]
     },
     {
@@ -2174,7 +2174,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-615"
+        "N-614"
       ]
     },
     {
@@ -2198,7 +2198,7 @@
         "C-4484"
       ],
       "mentions_person_refs": [
-        "N-615",
+        "N-614",
         "N-2",
         "N-1"
       ]
@@ -2223,7 +2223,7 @@
         "C-9134"
       ],
       "mentions_person_refs": [
-        "N-615",
+        "N-614",
         "N-14",
         "N-2"
       ]
@@ -2292,7 +2292,7 @@
       "transcript_snippet": "And then Mitch's son confirmed that he got a phone call on that day because the police were called and I guess he's kin",
       "mentions_person_refs": [
         "N-361",
-        "N-615"
+        "N-614"
       ]
     },
     {
@@ -2316,7 +2316,7 @@
         "C-9135"
       ],
       "mentions_person_refs": [
-        "N-615",
+        "N-614",
         "N-2"
       ]
     },
@@ -2400,7 +2400,7 @@
       "investigative_direction": "Archive the VFX LA voice-cloning page and the Fanatics Collectibles project.",
       "transcript_snippet": "this project for Fanatics Collectibles, where we had to reproduce the unique timbre and intonation of the deceased baseball commentator Skip Caray.",
       "mentions_person_refs": [
-        "N-620"
+        "N-619"
       ]
     },
     {

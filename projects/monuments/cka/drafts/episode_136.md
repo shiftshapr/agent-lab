@@ -13,9 +13,9 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11306, N-11307, N-11308, N-11309
   - Claim Range: C-11678–C-11750
-  - Tip-minted Nodes (reintro-ep136): N-749
+  - Tip-minted Nodes (reintro-ep136): N-748
   - New Nodes Introduced: N-10774, N-10775
-  - Hole-minted Nodes (wave3): N-556
+  - Hole-minted Nodes (wave3): N-555
   - Reused Nodes Appearing: N-378, N-506, N-10772, N-10773, N-5, N-9, N-14, N-36, N-40, N-54, N-159, N-261, N-266, N-487, N-10000, N-10014, N-10074, N-10219, N-10324, N-10343, N-10539, N-10679, N-10681, N-10688, N-10725, N-10732, N-10737, N-10747, N-10964, N-11128, N-10771
   - (see registers)
 
@@ -303,7 +303,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11707, N-10772, N-749*
+*Related: C-11707, N-10772, N-748*
 
 ---
 
@@ -318,7 +318,7 @@ Video Timestamp: 00:24:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11717, N-10774, N-3, N-749*
+*Related: C-11717, N-10774, N-3, N-748*
 
 ---
 
@@ -350,7 +350,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-749** Allan Robertson
+**N-748** Allan Robertson
 
 Named by the host as the red-hat man on the Losee rooftop (C-11702).
 
@@ -358,7 +358,7 @@ Named by the host as the red-hat man on the Losee rooftop (C-11702).
 
 ---
 
-**N-556** Christopher Hawk
+**N-555** Christopher Hawk
 
 First named by the host at 00:17:52 in episode 136.
 
@@ -810,7 +810,7 @@ Claim Timestamp: 00:15:40
 Claim: The host says bystander footage timestamped 12:47 PM shows a plainclothes man in a red hat with a bag and a backpack on the Losi Center rooftop, and a man lower down who she thinks could be Officer Bagley.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-506, N-749
+Mentions: N-506, N-748
 Related Nodes: N-10772
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
@@ -824,7 +824,7 @@ Claim Timestamp: 00:16:28
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes: N-10772
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
@@ -838,7 +838,7 @@ Claim Timestamp: 00:18:30
 Claim: Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-556
+Mentions: N-555
 Related Nodes: N-10772
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.
@@ -852,7 +852,7 @@ Claim Timestamp: 00:16:47
 Claim: The host says Allan Robertson had just joined the USU police force the summer before the September 2025 shooting, and shows a Facebook announcement that he had joined.
 
 Anchored Artifacts: A-2228.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes:
 
 Investigative Direction: Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.
@@ -866,7 +866,7 @@ Claim Timestamp: 00:19:23
 Claim: The host says that, per Robertson's LinkedIn profile, he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.
 
 Anchored Artifacts: A-2235.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes:
 
 Investigative Direction: Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.
@@ -880,7 +880,7 @@ Claim Timestamp: 00:22:55
 Claim: The host says the Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes: N-10774
 
 Investigative Direction: Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.
@@ -894,7 +894,7 @@ Claim Timestamp: 00:22:10
 Claim: The host says the Brady List website notes that San Bernardino PD is not in compliance with its Brady disclosure obligations, leaving offense details for officers (including Robertson) undisclosed.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes: N-10774
 
 Investigative Direction: Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.
@@ -974,7 +974,7 @@ Claim Timestamp: 00:18:43
 Claim: In a clip the host plays, YouTuber Nissi asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
-Mentions: N-506, N-749
+Mentions: N-506, N-748
 Related Nodes: N-10772, N-10773
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
@@ -1270,7 +1270,7 @@ Claim: The host says that in the early footage Allan Robertson seems to be the p
 Transcript Snippet: Allan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Review the early scene footage for Robertson giving directions and compare to the incident command roster.
@@ -1286,7 +1286,7 @@ Claim: In the Nissi analysis the host plays, the narrator says the livestream fo
 Transcript Snippet: You see him walking around and texting and making calls.
 
 Anchored Artifacts: A-3155.1, A-2233.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.
@@ -1318,7 +1318,7 @@ Claim: The host asks why everyone from Terryl Farnsworth to Officer Bagley is se
 Transcript Snippet: there seems to be an immediate understanding that this Allan Robertson character who shall not be named is calling the shots.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-749, N-261, N-506
+Mentions: N-748, N-261, N-506
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Interview officers at the scene about who directed the rooftop response and obtain the command roster.
@@ -1334,7 +1334,7 @@ Claim: The host says Robertson was a police officer in San Bernardino, Californi
 Transcript Snippet: But he was also a police officer just before going to Utah in San Bernardino, California.
 
 Anchored Artifacts: A-2235.1
-Mentions: N-749
+Mentions: N-748
 Related Nodes: N-10774
 Tags: relevance:context
 Investigative Direction: Obtain Robertson's San Bernardino PD employment dates through a California public records request.
@@ -1382,7 +1382,7 @@ Claim: The host says there is a lot of corruption in the San Bernardino, Califor
 Transcript Snippet: Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.
 
 Anchored Artifacts: 
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10774
 Tags: relevance:context
 Investigative Direction: Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.
@@ -1398,7 +1398,7 @@ Claim: The host says Robertson decided to go to Utah in August 2024 despite havi
 Transcript Snippet: he decided to go in August 2024 despite the fact that his entire life has been in California.
 
 Anchored Artifacts: A-2228.1
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10774
 Tags: relevance:core
 Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.
@@ -1414,7 +1414,7 @@ Claim: The host says it is a plausibility that Allan E. Robertson was involved i
 Transcript Snippet: it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10774
 Tags: relevance:core
 Investigative Direction: Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.
@@ -1430,7 +1430,7 @@ Claim: The host asks viewers who worked with Robertson in San Bernardino, or kno
 Transcript Snippet: please send us tips to more tips at candacewowens. com
 
 Anchored Artifacts: A-3156.1
-Mentions: N-3, N-749
+Mentions: N-3, N-748
 Related Nodes: N-10774
 Tags: relevance:core,DIA
 Investigative Direction: Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.
@@ -1462,7 +1462,7 @@ Claim: The host says she thinks it is plausible the person who actually found th
 Transcript Snippet: I think it's plausible that the person who actually found the screwdriver was Allan Robertson.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-749, N-3
+Mentions: N-748, N-3
 Related Nodes: N-10772, N-10774
 Tags: relevance:core
 Investigative Direction: Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.

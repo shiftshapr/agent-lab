@@ -15,7 +15,7 @@
   - Tip-minted Nodes (supplement_2026-10c): N-11213, N-11214, N-11216
   - Claim Range: C-13829–C-13890
   - New Nodes Introduced: N-10874, N-10875, N-10876, N-10877, N-10878, N-10879
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-130, N-208, N-266, N-270, N-271, N-330, N-366, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-213, N-226, N-58, N-40, N-47, N-60, N-281, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-165, N-225, N-194, N-833, N-834, N-202, N-11215
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-130, N-208, N-266, N-270, N-271, N-330, N-366, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-213, N-226, N-58, N-40, N-47, N-60, N-281, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-165, N-225, N-194, N-832, N-833, N-202, N-11215
   - Hole-minted Nodes (seq160): N-172, N-177, N-206, N-262
   - (see registers)
   - Person band: new persons at N-165 and above. No person id in the topic band (one thousand through nine thousand nine hundred ninety-nine). Mark Herman (show director) does not appear by name in this episode; N-67 not cited. Sponsor reads (PreBorn, Beekeepers Naturals, PureTalk, Nimi, American Financing) treated as non-claim.
@@ -932,7 +932,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-833** Macklemore
+**N-832** Macklemore
 
 Node Type: Person
 First named by the host at 00:44:26 in episode 160 (spelled Macklemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.
@@ -942,7 +942,7 @@ Aliases: Macklemore
 
 ---
 
-**N-834** Ed Sheeran
+**N-833** Ed Sheeran
 
 Node Type: Person
 First named by the host at 00:44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.
@@ -1114,7 +1114,7 @@ Investigative Direction: Locate the BBC interview/article and any produced email
 Claim Timestamp: 00:45:05
 Claim: The host says after Robert Kraft canceled Macklemore from performing at Kraft's Gillette Stadium for saying Free Palestine, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.
 Anchored Artifacts: A-2479.1
-Mentions: N-177, N-194, N-833, N-834
+Mentions: N-177, N-194, N-832, N-833
 Related Nodes: N-10878
 Investigative Direction: Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.
 
@@ -1836,7 +1836,7 @@ Claim: The host says Ed Sheeran knew what he was getting into when he offered Ma
 Transcript Snippet: Ed Sheeran knew what he was getting into when he offered for Macklemore, who he has been friends with for a long time, to open for him.
 
 Anchored Artifacts: 
-Mentions: N-833, N-834
+Mentions: N-832, N-833
 Related Nodes: N-10878
 Supports: C-13157
 Tags: relevance:tangential

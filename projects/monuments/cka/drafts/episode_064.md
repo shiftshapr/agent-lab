@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-854, N-11243, N-11244
+  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11243, N-11244
   - Hole-minted Nodes (reintro-ep064): N-497, N-10689
   - Tip-minted Nodes (reintro-ep064): N-11000
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -821,7 +821,7 @@ Named in the host's account of her Daily Wire exit and Boreing's loan.
 
 ---
 
-**N-854** Bob Ferguson
+**N-853** Bob Ferguson
 
 First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.
 
@@ -1130,7 +1130,7 @@ Claim: The host says the previous episode showed a picture of a man she believed
 Transcript Snippet: His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.
 
 Anchored Artifacts: 
-Mentions: N-470, N-854, N-3
+Mentions: N-470, N-853, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-818, N-819, N-11198, N-11200, N-11201
+  - Tip-minted Nodes (supplement_2026-10c): N-817, N-818, N-11198, N-11200, N-11201
   - Hole-minted Nodes (reintro-ep126): N-10755
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10772–C-10861
@@ -836,7 +836,7 @@ First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and
 
 ---
 
-**N-818** Helen Comperatore
+**N-817** Helen Comperatore
 
 First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore and Helen Comperatore in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Comperatore; Helen Comperatore.
 
@@ -844,7 +844,7 @@ First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore an
 
 ---
 
-**N-819** Eyal Yakoby
+**N-818** Eyal Yakoby
 
 First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.
 
@@ -1025,7 +1025,7 @@ Claim Timestamp: 00:29:15
 Claim: Helen Comperatore stated on NewsNation that she believes the Butler shooter Thomas Crooks was working with someone inside the government, describing it as "an inside job."
 
 Anchored Artifacts: A-2143.1
-Mentions: N-818, N-104
+Mentions: N-817, N-104
 Related Nodes: N-10721, N-10724
 Investigative Direction: Obtain full NewsNation interview; identify any specific evidence references Comperatore cited ("I've been told things").
 
@@ -1038,7 +1038,7 @@ Claim Timestamp: 00:30:55
 Claim: In a NewsNation clip the host plays, a reporter says Helen Comperatore says the Secret Service did not reach out to her until a year later and did not fully answer her questions.
 
 Anchored Artifacts: A-2143.2
-Mentions: N-818
+Mentions: N-817
 Related Nodes: N-10724
 Investigative Direction: Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.
 
@@ -1630,7 +1630,7 @@ Claim: The host says Corey Comperatore's widow Helen still has questions, spoke 
 Transcript Snippet: His widow Helen still has questions and she spoke out and has made it very clear that she is unsatisfied with the investigation.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-818, N-105
+Mentions: N-817, N-105
 Related Nodes: N-10588, N-10724
 Supports: C-9955
 Tags: relevance:context
@@ -1663,7 +1663,7 @@ Claim: In the NewsNation clip, Helen Comperatore says she does not believe there
 Transcript Snippet: I don't believe there was another shooter there, but I believe that he was working with somebody.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-818, N-104
+Mentions: N-817, N-104
 Related Nodes: N-10724, N-10721
 Supports: C-10819
 Tags: relevance:context
@@ -1680,7 +1680,7 @@ Claim: In the NewsNation clip, asked whether it was political, Helen Comperatore
 Transcript Snippet: And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?
 
 Anchored Artifacts: A-2143.1
-Mentions: N-818
+Mentions: N-817
 Related Nodes: N-10724
 Tags: relevance:context
 Investigative Direction: Obtain the full interview to see whether she names any political motive or actor.
@@ -1696,7 +1696,7 @@ Claim: Asked whether she has seen evidence of an inside plot, Helen Comperatore 
 Transcript Snippet: Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-818
+Mentions: N-817
 Related Nodes: N-10724, N-10721
 Tags: relevance:context
 Investigative Direction: Ask the Comperatore family and the interviewer what she was told and what event she referred to.
@@ -1712,7 +1712,7 @@ Claim: Asked what she would tell President Trump, Helen Comperatore says to not 
 Transcript Snippet: Just to don't forget us and remember what we went through that day. You know, we're still here and we need answers.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-818, N-5
+Mentions: N-817, N-5
 Related Nodes: N-10724
 Tags: relevance:context
 Investigative Direction: Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.
@@ -1794,7 +1794,7 @@ Claim: The host says the Time article names Eyal Yakoby, whom she says she block
 Transcript Snippet: Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-819, N-3
+Mentions: N-818, N-3
 Related Nodes: N-10722, N-11017
 Tags: relevance:context
 Investigative Direction: Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.
@@ -1810,7 +1810,7 @@ Claim: The host says that, regarding the accounts named, 'he kind of had to own 
 Transcript Snippet: And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-819
+Mentions: N-818
 Related Nodes: N-10722
 Tags: relevance:context
 Investigative Direction: Read the article for the on-record responses of named accounts about payment.

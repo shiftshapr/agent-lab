@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq106
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-632, N-633, N-634, N-635, N-10937, N-10938, N-10939, N-10940, N-10941
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-33, N-34, N-46, N-69, N-97, N-159, N-160, N-266, N-278, N-374, N-607, N-615, N-621, N-626, N-10000, N-10070, N-10075, N-10577, N-10578, N-10637, N-10643, N-10664, N-10888, N-10899, N-10923, N-10936
+  - Tip-minted Nodes (skeleton): N-631, N-632, N-633, N-634, N-10937, N-10938, N-10939, N-10940, N-10941
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-33, N-34, N-46, N-69, N-97, N-159, N-160, N-266, N-278, N-374, N-606, N-614, N-620, N-625, N-10000, N-10070, N-10075, N-10577, N-10578, N-10637, N-10643, N-10664, N-10888, N-10899, N-10923, N-10936
   - Claim Range: C-9310–C-9359
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:01:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9310, C-9311, C-9312, C-9315, N-632, N-3, N-1*
+*Related: C-9310, C-9311, C-9312, C-9315, N-631, N-3, N-1*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:15:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9324, C-9325, C-9326, N-634, N-10070, N-10936*
+*Related: C-9324, C-9325, C-9326, N-633, N-10070, N-10936*
 
 **A-2593.2** Daily Mail article passage quoting TPUSA allies and an anonymous board member (read aloud)
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:29:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9341, N-635, N-10940, N-10941*
+*Related: C-9341, N-634, N-10940, N-10941*
 
 **A-2595.2** Show clip of Graham Allen with TPUSA figures discussing the Axios report (played)
 
@@ -190,7 +190,7 @@ Video Timestamp: 00:30:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9342, C-9343, N-607, N-14, N-159, N-10940*
+*Related: C-9342, C-9343, N-606, N-14, N-159, N-10940*
 
 **A-2595.3** White House reply to the host's producer, received in four and a half minutes (shown)
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:35:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9346, C-9347, C-9349, N-160, N-626, N-621, N-2, N-10923*
+*Related: C-9346, C-9347, C-9349, N-160, N-625, N-620, N-2, N-10923*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:38:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9350, C-9353, N-10899, N-615, N-10888, N-10937*
+*Related: C-9350, C-9353, N-10899, N-614, N-10888, N-10937*
 
 ---
 
@@ -368,49 +368,49 @@ Referred to as "Lara"; named among those the host says betrayed Charlie Kirk.
 
 *Related: C-9358*
 
-**N-632** Hunter Biden
+**N-631** Hunter Biden
 
 First named by the host at 00:00:01 in episode 106. Interviewed by the host in her house for an episode releasing on Thursday.
 
 *Related: C-9310, C-9311, C-9312, C-9313, C-9314, C-9315, A-2590.1*
 
-**N-633** Andrew Callaghan
+**N-632** Andrew Callaghan
 
 First named by the host at 00:03:44 in episode 106. Interviewer whose earlier conversation with Hunter Biden went viral.
 
 *Related: C-9313*
 
-**N-634** Charlie Spiering
+**N-633** Charlie Spiering
 
 First named by the host at 00:15:03 in episode 106. Daily Mail reporter who wrote the article on the private screening of the Aspen video.
 
 *Related: C-9324, A-2593.1*
 
-**N-635** Marc Caputo
+**N-634** Marc Caputo
 
 First named by the host at 00:29:57 in episode 106. Axios reporter who posted the White House Military Office denial of the WHCD email.
 
 *Related: C-9341, A-2595.1*
 
-**N-607** Graham Allen
+**N-606** Graham Allen
 
 First named by the host at 00:30:43 in episode 106. Host of the show clip in which he, Andrew Kolvet and Blake Neff discuss the Axios denial.
 
 *Related: C-9342, C-9343, A-2595.2*
 
-**N-626** Richard Smale
+**N-625** Richard Smale
 
 First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email.
 
 *Related: C-9346, C-9349, A-2595.4*
 
-**N-621** Ryan Rippeon
+**N-620** Ryan Rippeon
 
 First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email. Aliases: Ryan Rippeon.
 
 *Related: C-9346, C-9349, A-2595.4*
 
-**N-615** Gary Melton
+**N-614** Gary Melton
 
 First named by the host at 00:38:39 in episode 106 (as "Gary"; full name at 00:39:34). The host identifies him as running Paramount Tactical, which she says received DoD payments in September 2025.
 
@@ -488,7 +488,7 @@ Investigation target: the video of Charlie Kirk at the Aspen donor event that Er
 Node Type: Topic
 Investigation target: two Department of Defense payments the host says Paramount Tactical received – $39,000 for individual equipment on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025 – and why the DoD would buy from a reseller that does not make its own gear.
 
-*Related: C-9350, C-9353, C-9354, A-2596.1, N-10899, N-615, N-10888*
+*Related: C-9350, C-9353, C-9354, A-2596.1, N-10899, N-614, N-10888*
 
 **N-10938** Erika Kirk Corporate Will and Inheritance Question
 
@@ -516,7 +516,7 @@ Investigation target: the email the host says went out about an hour after the W
 Node Type: Organization
 News outlet whose reporter Marc Caputo posted the White House Military Office denial of the WHCD email.
 
-*Related: C-9341, C-9342, A-2595.1, A-2595.2, N-635*
+*Related: C-9341, C-9342, A-2595.1, A-2595.2, N-634*
 
 **N-10941** White House Military Office
 
@@ -536,7 +536,7 @@ Claim: The host says the circulating trailer is real and that Hunter Biden was i
 Transcript Snippet: The trailer that you saw online is very real. Hunter Biden was in this house with Brigitte doll.
 
 Anchored Artifacts: A-2590.1
-Mentions: N-632, N-3
+Mentions: N-631, N-3
 Investigative Direction: Compare the full interview release and production metadata with the trailer; confirm the interview location with the production team or Hunter Biden's representatives.
 
 ---
@@ -550,7 +550,7 @@ Claim: In the trailer played by the host, Hunter Biden says he has heard the hos
 Transcript Snippet: I've heard you call me a crackhead many times and the truth of the matter is I was a crackhead.
 
 Anchored Artifacts: A-2590.1
-Mentions: N-632, N-3
+Mentions: N-631, N-3
 Investigative Direction: Check the full unedited interview for the context of the statement.
 
 ---
@@ -564,7 +564,7 @@ Claim: In the trailer, Hunter Biden says he thinks "there was something about th
 Transcript Snippet: And I I do think there was something about the Charlie Kirk assassination that everyone just sort of looked up.
 
 Anchored Artifacts: A-2590.1
-Mentions: N-632, N-1
+Mentions: N-631, N-1
 Investigative Direction: Review the full interview segment on Charlie Kirk once released.
 
 ---
@@ -578,7 +578,7 @@ Claim: The host says Hunter Biden earlier gave an interview to Andrew Callaghan 
 Transcript Snippet: Hunter Biden gave an interview to Andrew Callaghan that was kind of going viral.
 
 Anchored Artifacts: 
-Mentions: N-632, N-633
+Mentions: N-631, N-632
 Investigative Direction: Locate the Andrew Callaghan interview with Hunter Biden, its publication date and view counts.
 
 ---
@@ -592,7 +592,7 @@ Claim: The host says that after she named Hunter Biden as an interview she would
 Transcript Snippet: Lo and behold, that person the next day called me and said, "If you want to do it, we can make it happen next week."
 
 Anchored Artifacts: 
-Mentions: N-632, N-3
+Mentions: N-631, N-3
 Investigative Direction: Identify the intermediary and the scheduling communications that set up the interview.
 
 ---
@@ -606,7 +606,7 @@ Claim: The host says the full Hunter Biden interview will be released on the Thu
 Transcript Snippet: It will drop this Thursday, and I very much look forward to all of the surrounding commentary.
 
 Anchored Artifacts: A-2590.1
-Mentions: N-632
+Mentions: N-631
 Investigative Direction: Check the release date of the full interview on the host's channel.
 
 ---
@@ -738,7 +738,7 @@ Claim: The host says Turning Point USA showed the Aspen footage exclusively in a
 Transcript Snippet: was to show the footage exclusively via a private screening, a secret private screening to some journalists over at the Daily Mail.
 
 Anchored Artifacts: A-2593.1
-Mentions: N-634, N-1
+Mentions: N-633, N-1
 Related Nodes: N-10070, N-10936, N-10000
 Investigative Direction: Obtain the Daily Mail article and ask the Daily Mail and Charlie Spiering how, where and by whom the footage was shown.
 
@@ -989,7 +989,7 @@ Claim: The host says Axios reporter Marc Caputo posted a White House statement t
 Transcript Snippet: The White House Military Office has no knowledge of the communications alleged in this post and they did not authorize, draft, or publish the content in question.
 
 Anchored Artifacts: A-2595.1
-Mentions: N-635
+Mentions: N-634
 Related Nodes: N-10940, N-10941, N-10923, N-10075
 Investigative Direction: Archive Marc Caputo's post and the White House background statement he shared.
 
@@ -1004,7 +1004,7 @@ Claim: The host says Andrew Kolvet, Blake Neff and Graham Allen pushed the Axios
 Transcript Snippet: and Graham Allen, I don't I don't know who's more of a doofus, Graham Allen or Paramount Tactical, it's tough. Uh but they were so excited, they tried to push this Axios report.
 
 Anchored Artifacts: A-2595.2
-Mentions: N-607, N-14, N-159
+Mentions: N-606, N-14, N-159
 Related Nodes: N-10940, N-10923, N-10899
 Investigative Direction: Locate the full show episode and its air date.
 
@@ -1019,7 +1019,7 @@ Claim: In the clip played by the host, Graham Allen says that the host's own des
 Transcript Snippet: Even in her description, she says, "This is not the email. I retyped what I viewed to be the most important points of all of this
 
 Anchored Artifacts: A-2595.2
-Mentions: N-607, N-3
+Mentions: N-606, N-3
 Related Nodes: N-10923
 Investigative Direction: Compare the host's original post and caption with Graham Allen's description.
 
@@ -1064,7 +1064,7 @@ Claim: The host reads her follow-up email asking the White House whether it clai
 Transcript Snippet: are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippeon carbon copied with the below language in part
 
 Anchored Artifacts: A-2595.4
-Mentions: N-3, N-160, N-626, N-621, N-2
+Mentions: N-3, N-160, N-625, N-620, N-2
 Related Nodes: N-10923, N-10075
 Investigative Direction: Ask Steven Cheung, Richard Smale and Ryan Rippeon directly whether they received the April 25 email.
 
@@ -1109,7 +1109,7 @@ Claim: The host says she copied Richard Smale, Ryan Rippeon and the White House 
 Transcript Snippet: To be clear, I also CC'd Richard Smale. I I CC'd Ryan Rippeon and for good measure, I CC'd the White House Press Office.
 
 Anchored Artifacts: A-2595.4
-Mentions: N-3, N-626, N-621
+Mentions: N-3, N-625, N-620
 Related Nodes: N-10923, N-10075
 Investigative Direction: Show the recipient line of the sent follow-up email.
 
@@ -1124,7 +1124,7 @@ Claim: The host says Paramount Tactical was paid a large lump sum by the Departm
 Transcript Snippet: is being paid, or was paid in a large lump sum by the Department of Defense. Dated 14 days after Charlie Kirk's assassination.
 
 Anchored Artifacts: A-2596.1
-Mentions: N-1, N-615
+Mentions: N-1, N-614
 Related Nodes: N-10899, N-10888, N-10937
 Investigative Direction: Pull the award records from USAspending.gov or FPDS for Paramount Tactical in September 2025.
 
@@ -1139,7 +1139,7 @@ Claim: The host says it was odd that Brian Harpole chose this "obscure YouTuber"
 Transcript Snippet: How weird that Bryan Hubble chose this obscure YouTuber to give an interview to?
 
 Anchored Artifacts: 
-Mentions: N-266, N-615
+Mentions: N-266, N-614
 Related Nodes: N-10899, N-10000, N-10643
 Investigative Direction: Establish the date of the Harpole interview on Paramount Tactical and any TPUSA coordination of it.
 
@@ -1154,7 +1154,7 @@ Claim: The host says Turning Point USA passed Paramount Tactical a photo with ch
 Transcript Snippet: They're sliding him kids that are not Erika's to a guy that doesn't even understand what an alibi is.
 
 Anchored Artifacts: 
-Mentions: N-2, N-615
+Mentions: N-2, N-614
 Related Nodes: N-10643, N-10899, N-10000
 Supports: C-9135
 Investigative Direction: Identify the children and the date and place of the alibi photograph.
@@ -1170,7 +1170,7 @@ Claim: The host says the records show Paramount Tactical received $39,000 for in
 Transcript Snippet: On September 24th, 2025, he received uh $39,000 for individual equipment. And then, on September 29th, 5 days later, he received $151,000 uh for night vision equipment.
 
 Anchored Artifacts: A-2596.1
-Mentions: N-615
+Mentions: N-614
 Related Nodes: N-10899, N-10888, N-10937
 Investigative Direction: Retrieve both contract award records, the awarding office and the solicitation history.
 
@@ -1185,7 +1185,7 @@ Claim: The host says Paramount Tactical's website shows it does not make its own
 Transcript Snippet: When you go on his website, he doesn't make his own gear.
 
 Anchored Artifacts: 
-Mentions: N-615
+Mentions: N-614
 Related Nodes: N-10899, N-10888, N-10937
 Investigative Direction: Review Paramount Tactical's product catalog and the contract line items to identify the original manufacturer.
 
@@ -1427,7 +1427,7 @@ Confidence: high
 
 - **DIA beats**: no hits for any DIA trigger phrase (tips, tip line, candaceowens.com, send us an email, decentralized intelligence, DCIA, bounty) in this transcript, so no M-12 or M-14 occurrence was added.
 - **Artifacts verbally referenced but not shown**: the original WHCD email and the host's retyped post of it; Erika Kirk's first Charlie Kirk Show appearance (C-9334); Paramount Tactical's website (C-9354); the Built contract records (C-9355). The Megyn Kelly interview (A-2592.1) appears to be on screen ("look at the tears in her eye"), but the exact clip is unclear, hence Medium confidence.
-- **Name matching**: "Bryan Hubble" (37:55) is matched to N-266 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-9135/C-9136. "Andrew Kolvet"/"Andrew Kolvet" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-159 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippeon" (36:27) are treated as one new person, N-621, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-615). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-9136 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
+- **Name matching**: "Bryan Hubble" (37:55) is matched to N-266 Brian Harpole from context: the person who gave an interview to Paramount Tactical, in line with C-9135/C-9136. "Andrew Kolvet"/"Andrew Kolvet" map to N-14, and "Laky Neff"/"Blakey fake and F" map to N-159 Blake Neff. "Eric and Kirk" (33:08) is read as Erika Kirk. "Ryan Rippeon" (35:13) and "Ryan Rippeon" (36:27) are treated as one new person, N-620, with spelling unverified. "Gary" and "Gary Melton" are treated as the Paramount Tactical operator (N-614). Paramount Tactical is mapped to the existing organization N-10899 "Paramount Tactical Valhalla". Prior claim C-9136 names Paramount Tactical and Valhalla separately, so the integrator should confirm this node covers Paramount Tactical itself.
 - **Decoy boy number two**: the host does not name him or his father; C-9355 links to N-10577/N-10578 and Supports C-7793 (Built Inc. Air Force/Navy awards) on the shared proposition. Mentions of Ahmed Qureshi were left out because he is not named on air.
 - **Transcription ambiguities**: "Brigitte doll" (00:00:01, 03:44) is kept as spoken and not matched to any node. "pointing her ICO" (48:43) is presumably "appointing her CEO". "Hollywood companies that specialize in IA" is kept as spoken. "Phil Tourney" is named only as the host's top-ranked interview, so no claim cites him.
 - **Cross-episode links left out**: the WHCD email story itself was first broken in an earlier episode ("last week"), but no matching claim appears in claims_index.tsv (episodes 103–105 have no indexed claims), so C-9339/C-9340 carry no Supports link. C-9345 (the Military Office may not have sent the email) may qualify the host's earlier attribution; it is left unlinked for the same reason. C-9322 (TPUSA released the audio) relates to C-9053 but is not the same proposition.

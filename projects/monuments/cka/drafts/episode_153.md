@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-946, N-947, N-948, N-11410, N-11411
+  - Tip-minted Nodes (supplement_2026-10g): N-945, N-946, N-947, N-11410, N-11411
   - Hole-minted Nodes (reintro-ep153): N-10873
   - Tip-minted Nodes (reintro-ep153): N-11313
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-125, N-154, N-155, N-203, N-261, N-330, N-420, N-460, N-506, N-752, N-833, N-834, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
+  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-125, N-154, N-155, N-203, N-261, N-330, N-420, N-460, N-506, N-751, N-832, N-833, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
   - Claim Range: C-13180–C-13291
  - New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
  - Reused Nodes Appearing: N-2, N-8
@@ -638,7 +638,7 @@ Laura Loomer; named in a personal anecdote about footage.
 
 ---
 
-**N-752** Astrid Tuminez
+**N-751** Astrid Tuminez
 
 Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
@@ -646,7 +646,7 @@ Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
 ---
 
-**N-833** Macklemore
+**N-832** Macklemore
 
 Macklemore; mentioned in the Sheeran comment reply.
 
@@ -654,7 +654,7 @@ Macklemore; mentioned in the Sheeran comment reply.
 
 ---
 
-**N-834** Ed Sheeran
+**N-833** Ed Sheeran
 
 Ed Sheeran; mentioned in the comment reply.
 
@@ -662,7 +662,7 @@ Ed Sheeran; mentioned in the comment reply.
 
 ---
 
-**N-946** Zack Costello
+**N-945** Zack Costello
 
 First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.
 
@@ -670,7 +670,7 @@ First named by the host at 00:40:52 in episode 153 as the YouTuber who compared 
 
 ---
 
-**N-947** Jim Spencer
+**N-946** Jim Spencer
 
 First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.
 
@@ -678,7 +678,7 @@ First named by the host at 00:48:11 in episode 153 as the founder of Scripps New
 
 ---
 
-**N-948** Rodney Stark
+**N-947** Rodney Stark
 
 First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.
 
@@ -711,7 +711,7 @@ The dispute over who chose the UVU amphitheater, what UVU said about traffic con
 Claim Timestamp: 00:01:29
 Claim: The host says Charlie Kirk's family has filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
 Anchored Artifacts: A-2384.1
-Mentions: N-1, N-271, N-752
+Mentions: N-1, N-271, N-751
 Related Nodes: N-10833
 Investigative Direction: Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.
 
@@ -733,7 +733,7 @@ Investigative Direction: Cross-reference UVU board minutes and the AP wire story
 Claim Timestamp: 00:04:55
 Claim: Per the Associated Press article the host shows, Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
 Anchored Artifacts: A-2385.1
-Mentions: N-752
+Mentions: N-751
 Related Nodes: N-10839
 Investigative Direction: Retrieve Tuminez's original emailed statement to confirm exact wording.
 
@@ -817,7 +817,7 @@ Investigative Direction: Compare against UVU venue capacity records, ticketing d
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
 Anchored Artifacts: A-2384.1
-Mentions: N-271, N-752
+Mentions: N-271, N-751
 Related Nodes: N-10836
 Investigative Direction: Obtain UVU PD internal communications and presidential approval logs from September 2025.
 
@@ -871,7 +871,7 @@ Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIA
 Claim Timestamp: 00:48:11
 Claim: The host says Scripps News, formerly Newsy, became a thing in 2022, the same year as the incident, and that its founder is a man named Jim Spencer.
 Anchored Artifacts: A-2391.1
-Mentions: N-947
+Mentions: N-946
 Related Nodes: N-10834
 Investigative Direction: Confirm corporate registration records for Scripps News and Newsy's corporate history.
 
@@ -882,7 +882,7 @@ Investigative Direction: Confirm corporate registration records for Scripps News
 Claim Timestamp: 00:48:11
 Claim: The host says Jim Spencer teaches digital media and journalism at UT Austin and has done so since 2018, citing his bio on the site.
 Anchored Artifacts: A-2391.1
-Mentions: N-947
+Mentions: N-946
 Related Nodes: N-10834
 Investigative Direction: Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.
 
@@ -1408,7 +1408,7 @@ Claim: The host reads that the notice says Chief Long asked then-president Tumin
 Transcript Snippet: which represented only 25% of the UVU police force. But this request was denied.
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-271, N-752
+Mentions: N-3, N-271, N-751
 Related Nodes: N-10836
 Supports: C-13215
 Tags: relevance:context
@@ -1425,7 +1425,7 @@ Claim: The host says that on 24 officers and 50,000 students, six officers would
 Transcript Snippet: So worked out as an equation, six police officers would have covered 12,500 students based on their availability
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-752
+Mentions: N-3, N-751
 Related Nodes: N-10836
 Supports: C-13217, C-13218
 Tags: relevance:context
@@ -1757,7 +1757,7 @@ Claim: The host credits YouTuber Zack Costello with noticing that Tyler Robinson
 Transcript Snippet: he was looking at the footage of um the footage that we released of Tyler Robinson the version in the American shirt uh walking to onto UVU campus and he was addressing how he had his fingers in his pockets.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-946
+Mentions: N-3, N-40, N-945
 Related Nodes: N-10873
 Tags: relevance:context
 Investigative Direction: Watch Costello's video and compare the two clips.
@@ -1773,7 +1773,7 @@ Claim: The host says Costello thought it reminiscent of the 2022 footage of Robi
 Transcript Snippet: that makes me think of that 2022 arrest of Tyler Robinson and he also had his fingers in the pocket that way.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-946
+Mentions: N-3, N-40, N-945
 Related Nodes: N-10873, N-10834
 Tags: relevance:context
 Investigative Direction: Compare the frames; the host later says no arrest occurred in 2022.
@@ -2015,7 +2015,7 @@ Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer
 Transcript Snippet: Help us all figure out how they got a hold of this obscure video.
 
 Anchored Artifacts: A-2391.1, A-2392.1
-Mentions: N-3, N-947, N-460
+Mentions: N-3, N-946, N-460
 Related Nodes: N-10834, N-10873
 Supports: C-13265
 Tags: relevance:context
@@ -2128,7 +2128,7 @@ Claim: In reply to comments on the Macklemore and Ed Sheeran dispute, the host s
 Transcript Snippet: The Perisio lobby, they just operate like termites.
 
 Anchored Artifacts: 
-Mentions: N-3, N-833, N-834
+Mentions: N-3, N-832, N-833
 Tags: relevance:tangential
 Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
@@ -2365,7 +2365,7 @@ Claim: The host says the book club is reading Bearing False Witness by Rodney St
 Transcript Snippet: we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-3, N-948, N-1
+Mentions: N-3, N-947, N-1
 Tags: relevance:tangential
 Investigative Direction: Context only.
 

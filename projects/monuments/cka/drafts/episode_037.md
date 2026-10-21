@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-850, N-11236
+  - Tip-minted Nodes (supplement_2026-10d): N-849, N-11236
   - Hole-minted Nodes (reintro-ep037): N-307, N-10290, N-10303, N-10314, N-10334, N-10358, N-10366
   - Tip-minted Nodes (reintro-ep037): N-11191
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -1008,7 +1008,7 @@ Existing organization reused for the sponsor read.
 
 ---
 
-**N-850** Amber Robinson
+**N-849** Amber Robinson
 
 First named by the host at 00:17:18 in episode 37. Tyler Robinson's mother, per the host's reference to photos of her visiting an uncle Mitchell.
 
@@ -1699,7 +1699,7 @@ Claim: The host says Tyler Robinson is a Boy Scout whose uncle Mitchell may be r
 Transcript Snippet: Tyler Robinson is a boy scout whose uncle Mitchell may be related. People have pulled this off of the internet, and I don't have a photo for you today.
 
 Anchored Artifacts: 
-Mentions: N-40, N-850
+Mentions: N-40, N-849
 Related Nodes: N-125
 Tags: relevance:core
 Investigative Direction: Locate the photos and verify the identity of the uncle and his relationship to the Robinson family.

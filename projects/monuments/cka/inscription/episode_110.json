@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-591",
-      "ref": "N-591",
+      "@id": "N-590",
+      "ref": "N-590",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Credited by the host for confirming the June 18 White House dates.",
@@ -1187,8 +1187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "Calvary Chapel pastor and head of the TPUSA faith department per the host.",
@@ -1205,8 +1205,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
+      "@id": "N-753",
+      "ref": "N-753",
       "name": "Claire Guinan",
       "type": "person",
       "description": "Jezebel writer the host links to the Etsy curse.",
@@ -2905,7 +2905,7 @@
       "transcript_snippet": "June 18th. That is when Charlie goes into the White House. We have confirmed those dates thanks to Bret Weinstein. Goes into the White House and he is arguing for us not to get involved in Israel's war with Iran.",
       "mentions_person_refs": [
         "N-1",
-        "N-591",
+        "N-590",
         "N-36"
       ]
     },
@@ -2973,7 +2973,7 @@
         "C-810"
       ],
       "mentions_person_refs": [
-        "N-754"
+        "N-753"
       ]
     },
     {
@@ -3000,7 +3000,7 @@
         "C-810"
       ],
       "mentions_person_refs": [
-        "N-754",
+        "N-753",
         "N-1"
       ]
     },
@@ -3117,7 +3117,7 @@
       "transcript_snippet": "Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church for their Women's Summer of Psalms retreat.",
       "mentions_person_refs": [
         "N-2",
-        "N-666"
+        "N-665"
       ]
     },
     {
@@ -3135,7 +3135,7 @@
       "investigative_direction": "Check TPUSA staff pages for the faith department head and Catis' role.",
       "transcript_snippet": "That's interesting because James Kaddis heads up the Turning Point USA faith department.",
       "mentions_person_refs": [
-        "N-666"
+        "N-665"
       ]
     },
     {

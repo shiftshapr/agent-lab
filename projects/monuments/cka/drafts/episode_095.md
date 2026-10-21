@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep095): N-10759, N-10801, N-10808
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-10907
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-159, N-190, N-261, N-283, N-341, N-342, N-364, N-387, N-489, N-564, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-600, N-10751, N-10812, N-10799
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-9, N-15, N-22, N-30, N-40, N-41, N-46, N-48, N-54, N-60, N-69, N-93, N-159, N-190, N-261, N-283, N-341, N-342, N-364, N-387, N-489, N-563, N-10000, N-10006, N-10012, N-10022, N-10023, N-10070, N-10077, N-10300, N-10323, N-10346, N-10376, N-10570, N-10581, N-10590, N-10600, N-10613, N-10618, N-10626, N-10628, N-10664, N-10810, N-10870, N-10908, N-599, N-10751, N-10812, N-10799
   - Claim Range: C-8490–C-8546
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8493, C-8494, C-8495, N-564, N-261, N-1, N-10799, N-10908*
+*Related: C-8493, C-8494, C-8495, N-563, N-261, N-1, N-10799, N-10908*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:12:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8506, C-8507, N-564, N-1, N-10908*
+*Related: C-8506, C-8507, N-563, N-1, N-10908*
 
 **A-2539.2** Photos of Charlie Kirk tabling on the 2024 Brainwashed tour (March 7, 2024; University of Wisconsin, September 5, 2024; Northern Arizona University, October 15, 2024) with no camera behind his head (shown)
 
@@ -344,13 +344,13 @@ Transcript spelling "Lori Frantzbe". Erika Kirk's mother; per the tip she pursue
 
 *Related: C-8510, C-8512, C-8513, C-8514, C-8515, C-8516, A-2540.1*
 
-**N-564** Nicey (YouTuber)
+**N-563** Nicey (YouTuber)
 
 Transcript spellings "Nicci" and "Niecy". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.
 
 *Related: C-8493, C-8494, C-8504, A-2537.1, A-2539.1*
 
-**N-600** Melania Trump
+**N-599** Melania Trump
 
 First named by the host at 00:36:45 in episode 095. Referred to as "Melania"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.
 
@@ -536,7 +536,7 @@ Investigation target: a tip that in late fall 2016 Lori Frantzve and Larry Guint
 Node Type: Topic
 Investigation target: when and why Turning Point USA began seating Charlie Kirk on a raised platform and placing a camera directly behind his head at tabling events. The host and Nicci say no such camera appears on the 2024 Brainwashed tour and that it arrived with the 2025 American Comeback Tour. The host says it coincided with the Yrefy sponsorship deal.
 
-*Related: C-8494, C-8506, C-8507, C-8508, C-8509, A-2537.1, A-2539.1, A-2539.2, N-1, N-564*
+*Related: C-8494, C-8506, C-8507, C-8508, C-8509, A-2537.1, A-2539.1, A-2539.2, N-1, N-563*
 
 ## 5. Claim Register
 
@@ -594,7 +594,7 @@ Claim: The host says the YouTuber Nicci discovered that the back-camera footage 
 Transcript Snippet: Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-564, N-261, N-3
+Mentions: N-563, N-261, N-3
 Related Nodes: N-10799
 Investigative Direction: Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.
 
@@ -609,7 +609,7 @@ Claim: In a video by the YouTuber Nicci that the host plays, back-camera shots f
 Transcript Snippet: On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-564
+Mentions: N-563
 Related Nodes: N-10799, N-10908
 Investigative Direction: Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.
 
@@ -624,7 +624,7 @@ Claim: Nicci's video says the back camera was always used as a wide-angle camera
 Transcript Snippet: The camera is a wide-angle camera and was always used as such. However, in the footage that Terryl has selectively shared with Candace, you cannot see the ground.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-564, N-261
+Mentions: N-563, N-261
 Related Nodes: N-10799, N-10012
 Investigative Direction: Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.
 
@@ -759,7 +759,7 @@ Claim: The host agrees with Nicci that Terryl very likely zoomed in on the foota
 Transcript Snippet: So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground
 
 Anchored Artifacts: A-2537.1
-Mentions: N-564, N-261
+Mentions: N-563, N-261
 Related Nodes: N-10799
 Investigative Direction: Subpoena the native back-camera file and compare its field of view with the FaceTime version.
 
@@ -1149,7 +1149,7 @@ Claim: The host says that, as she understands it, people in Melania Trump's circ
 Transcript Snippet: as I understand it, Melania is in her circle, have said this, that she would be the most likely person to harm Donald Trump.
 
 Anchored Artifacts: 
-Mentions: N-600, N-60, N-5
+Mentions: N-599, N-60, N-5
 Investigative Direction: Identify any on-record source from Melania Trump's staff or associates.
 
 ---
@@ -1519,7 +1519,7 @@ Confidence: medium
 
 - **Artifacts verbally referenced but not shown**: A-2540.1 (tip on the 2016 Scottsdale gun-patent dinner) and A-2543.1 (cremation tip request). The Aspen audio or video, Erika Kirk's Fox News burial answer, the MSN article, Trump's "mentally ill" post and the Robinson affidavits are referenced but not shown and have no artifact.
 - **DIA scan**: real hits at 00:49:03 and 00:49:43 are inscribed (C-8542, C-8543, A-2543.1, A-2543.2, M-12). Not DIA beats: "candaceowens. com" at 00:43:49 is a merch and subscription plug. "Our tips box" at 01:22 and "a stunning tip" at 00:01 and 15:52 describe tips already received rather than a solicitation; they are noted here but not inscribed as separate DIA beats.
-- **Name matching**: "Nicci"/"Niecy" are mapped to N-564 Nicey (YouTuber). "Terryl" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-261 Terryl Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-159). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-489 and N-387. "Xavier Boussard" is mapped to N-283 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
+- **Name matching**: "Nicci"/"Niecy" are mapped to N-563 Nicey (YouTuber). "Terryl" and "Tarrio" (49:43; also "Tarrio Robinson" at 51:43–52:39, evidently Tyler Robinson) are mapped to N-261 Terryl Farnsworth only where the camera operator is meant. "Blake enough" (00:01) is read as Blake Neff (N-159). "Blake" among those who did not call 911 is assumed to be Blake Neff, which is uncertain. "Lori Frantzbe" and "Larry Guinta" are mapped to N-489 and N-387. "Xavier Boussard" is mapped to N-283 Xavier Poussard. "Ashley" (09:05, a producer) is unidentified and not mapped to the existing Ashley Rindsberg node. "Jillian" (01:22), the then 15-year-old in Nicci's earlier text-message investigation, is likely the existing Jillian Falcon node but is not cited in a claim. Paula White Cain, Hillary Clinton, Ben Shapiro, Judge Judy and Jimmy Barbecue (Jimmy Cherizier) are named only in passing or in jokes and are not cited.
 - **Transcription ambiguities**: "Wiyre Fy" is read as the Yrefy sponsor (N-10870). "send him some kid" is "kit". "maca hats" is "MACA hats" (Make America Christian Again). "Shayna FK" (44:48) is unclear. "that meaning" (20:24) is likely "that meeting". "I'm looking at you, Larry" (50:27, viewer comment) apparently refers to Laura Loomer. The viewer comment at 54:08 says "Blake Masters" where Blake Neff is meant.
 - **Tip reliability**: the 2016 dinner account (C-8510–C-8517) is a single unnamed tipster's account relayed with "allegedly"; neither the gun, the patent holders nor the restaurant is named.
 - **Cross-episode links left out**: C-8535 may restate C-8434 (ep 94, Trump post mentioning "mentally ill") or C-7955 (ep 89). C-8511 may restate C-8168 or C-8332 (ep 91/93, Marx's Fold AR and Israeli Defense Group). C-8500 relates to C-4072 (ep 47, TPUSA defended the camera removal). C-8538 relates to C-8405 (ep 94, Erika's speedy-trial motion). The propositions differ or the match is uncertain, so these links are omitted.

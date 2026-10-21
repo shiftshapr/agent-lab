@@ -1374,8 +1374,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; subject of a viewer comment.",
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-841",
-      "ref": "N-841",
+      "@id": "N-840",
+      "ref": "N-840",
       "name": "Andrew Cuomo",
       "type": "person",
       "description": "First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.",
@@ -1815,8 +1815,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-842",
-      "ref": "N-842",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Michael Bloomberg",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.",
@@ -1832,8 +1832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-843",
-      "ref": "N-843",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Joe Gebbia",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder \"Joe Gebbia\", whom she says gave $3.1 million against Mamdani.",
@@ -1849,8 +1849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Jeffrey Moussaieff Masson",
       "type": "person",
       "description": "First named by the host at 00:56:15 in episode 26 (transcribed \"Jeffrey Masson\" and \"Jeffrey Masson\"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.",
@@ -1867,8 +1867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Theodor Herzl",
       "type": "person",
       "description": "First named by the host at 00:54:27 in episode 26 (transcribed \"Theodor Herzl\"). Founder of political Zionism whom the host links to Freud.",
@@ -2540,7 +2540,7 @@
       "transcript_snippet": "He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.",
       "mentions_person_refs": [
         "N-223",
-        "N-841",
+        "N-840",
         "N-3"
       ]
     },
@@ -2582,8 +2582,8 @@
       "investigative_direction": "Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.",
       "transcript_snippet": "He gave $8.3 million to Stop Mand Donnie and it didn't matter.",
       "mentions_person_refs": [
+        "N-841",
         "N-842",
-        "N-843",
         "N-223"
       ]
     },
@@ -2604,7 +2604,7 @@
       "investigative_direction": "Locate the unedited mayoral debate video and confirm which candidate gave each answer.",
       "transcript_snippet": "given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.",
       "mentions_person_refs": [
-        "N-841"
+        "N-840"
       ]
     },
     {
@@ -3650,9 +3650,9 @@
       "investigative_direction": "None: reading recommendation recorded as said on air.",
       "transcript_snippet": "I would start with the assault on truth from by Jeffrey Masson and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.",
       "mentions_person_refs": [
-        "N-844",
+        "N-843",
         "N-50",
-        "N-845",
+        "N-844",
         "N-3"
       ]
     },
@@ -3672,7 +3672,7 @@
       "transcript_snippet": "That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.",
       "mentions_person_refs": [
         "N-50",
-        "N-844"
+        "N-843"
       ]
     },
     {
@@ -3692,7 +3692,7 @@
       "investigative_direction": "None: host states no knowledge; a viewer comment prompted it.",
       "transcript_snippet": "I did not know that he got sick while he was in Israel.",
       "mentions_person_refs": [
-        "N-594",
+        "N-593",
         "N-3"
       ]
     },

@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; the host says he co-created the report on Christ Is King with Johnnie Moore and was cited by Kolvet.",
@@ -1203,8 +1203,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-612",
-      "ref": "N-612",
+      "@id": "N-611",
+      "ref": "N-611",
       "name": "Dennis Prager",
       "type": "person",
       "description": "Dennis Prager; the host says Kolvet told her he fell and was seriously injured after writing about her.",
@@ -1590,8 +1590,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-933",
-      "ref": "N-933",
+      "@id": "N-932",
+      "ref": "N-932",
       "name": "Javier Milei",
       "type": "person",
       "description": "First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.",
@@ -2476,7 +2476,7 @@
       "transcript_snippet": "Dennis Prager, who had just written this open article about me and it was not done in a very nice way, had actually fallen and it was very he was very seriously injured.",
       "mentions_person_refs": [
         "N-14",
-        "N-612",
+        "N-611",
         "N-3"
       ]
     },
@@ -2496,7 +2496,7 @@
       "transcript_snippet": "Oh, the Daily Wire thing and the Jordan Peterson thing and like bad things are happening to people after they attack you.",
       "mentions_person_refs": [
         "N-14",
-        "N-594",
+        "N-593",
         "N-3"
       ]
     },
@@ -3050,7 +3050,7 @@
       "investigative_direction": "Locate the report and video graphic, their authors, date and publisher, and any ADL involvement.",
       "transcript_snippet": "Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnnie Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.",
       "mentions_person_refs": [
-        "N-594",
+        "N-593",
         "N-437",
         "N-3"
       ]
@@ -3858,7 +3858,7 @@
       "investigative_direction": "Check the rumor that Javier Milei's surname is Mileikowsky (Netanyahu's family name); the host offers only a viral rumor and labels it a conspiracy.",
       "transcript_snippet": "Saw some stuff about like really his full last name is Mileikowsky and he looks a little like BB Nyahoo.",
       "mentions_person_refs": [
-        "N-933",
+        "N-932",
         "N-36"
       ]
     },

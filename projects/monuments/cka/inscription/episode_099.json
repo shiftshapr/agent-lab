@@ -1432,8 +1432,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host's LBJ remark.",
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-891",
+      "ref": "N-891",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; Baldoni's lawyer who published his response on a website.",
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-919",
-      "ref": "N-919",
+      "@id": "N-918",
+      "ref": "N-918",
       "name": "Judge Liman",
       "type": "person",
       "description": "First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.",
@@ -2903,7 +2903,7 @@
       "investigative_direction": "Historical question outside the case; compare with standard histories of the Kennedy and Johnson administrations and the 1963 FARA dispute over the American Zionist Council.",
       "transcript_snippet": "LBJ assumed office and reversed course on every policy that JFK was pursuing against Israel.",
       "mentions_person_refs": [
-        "N-708",
+        "N-707",
         "N-3"
       ]
     },
@@ -3632,7 +3632,7 @@
       "investigative_direction": "Locate Freedman's response filing and the associated website.",
       "transcript_snippet": "Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it",
       "mentions_person_refs": [
-        "N-892",
+        "N-891",
         "N-485",
         "N-3"
       ]
@@ -3657,7 +3657,7 @@
       "transcript_snippet": "Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.",
       "mentions_person_refs": [
         "N-484",
-        "N-919"
+        "N-918"
       ]
     },
     {
@@ -3680,7 +3680,7 @@
       "transcript_snippet": "he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.",
       "mentions_person_refs": [
         "N-484",
-        "N-919"
+        "N-918"
       ]
     },
     {

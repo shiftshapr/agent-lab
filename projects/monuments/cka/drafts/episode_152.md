@@ -11,15 +11,15 @@
 - **Transcript SHA-256**: a4f178d69e8bc8d30d77b84650ec3497630fa5202686df6ed729ebeb114f0d63
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-865, N-866, N-868, N-11263, N-11264, N-11265
+  - Tip-minted Nodes (supplement_2026-10d): N-864, N-865, N-867, N-11263, N-11264, N-11265
   - Hole-minted Nodes (reintro-ep152): N-194
-  - Tip-minted Nodes (reintro-ep152): N-833, N-834
+  - Tip-minted Nodes (reintro-ep152): N-832, N-833
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13070–C-13179
-  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-569, N-686, N-687, N-688, N-776, N-800, N-801, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-867
+  - Reused Nodes Appearing: N-10832, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10056, N-10129, N-10151, N-10193, N-10198, N-10246, N-10338, N-10410, N-10411, N-10421, N-10435, N-10524, N-10609, N-10698, N-10725, N-10770, N-10899, N-10969, N-10989, N-11047, N-11099, N-11165, N-11167, N-11203, N-866
  - New Nodes Introduced: N-10831, N-10832
  - Reused Nodes Appearing: N-11, N-506
- - Hole-minted Nodes (wave3): N-588
+ - Hole-minted Nodes (wave3): N-587
  - (see registers)
 
 ---
@@ -281,7 +281,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-588** Matt Tardio
+**N-587** Matt Tardio
 
 First named by the host at 00:35:04 in episode 152.
 
@@ -822,7 +822,7 @@ Modeling agency founder named by the host (transcribed John Luke Brunell).
 
 ---
 
-**N-569** Faith Kates
+**N-568** Faith Kates
 
 Modeling agency head named by the host.
 
@@ -830,7 +830,7 @@ Modeling agency head named by the host.
 
 ---
 
-**N-686** Philip Goldsberry Jr.
+**N-685** Philip Goldsberry Jr.
 
 Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry).
 
@@ -838,7 +838,7 @@ Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsberry)
 
 ---
 
-**N-687** Dr. Philip Goldsberry
+**N-686** Dr. Philip Goldsberry
 
 Philip Goldsberry Sr. in the same family.
 
@@ -846,7 +846,7 @@ Philip Goldsberry Sr. in the same family.
 
 ---
 
-**N-688** Otto Busher
+**N-687** Otto Busher
 
 Colonel the host says was accused of running a brothel with Romanian children (transcribed Otto B O Busher).
 
@@ -854,7 +854,7 @@ Colonel the host says was accused of running a brothel with Romanian children (t
 
 ---
 
-**N-776** Matt Robinson
+**N-775** Matt Robinson
 
 Tyler Robinson's father.
 
@@ -862,7 +862,7 @@ Tyler Robinson's father.
 
 ---
 
-**N-800** Paul Vallely
+**N-799** Paul Vallely
 
 TPUSA adviser and retired army general named by the host (transcribed Paul Valle).
 
@@ -870,7 +870,7 @@ TPUSA adviser and retired army general named by the host (transcribed Paul Valle
 
 ---
 
-**N-833** Macklemore
+**N-832** Macklemore
 
 Rapper dropped from the tour (transcribed Macklemore).
 
@@ -878,7 +878,7 @@ Rapper dropped from the tour (transcribed Macklemore).
 
 ---
 
-**N-834** Ed Sheeran
+**N-833** Ed Sheeran
 
 Headliner whose tour dropped Macklemore.
 
@@ -910,7 +910,7 @@ First named by the host at 00:03:34 in episode 152. Civilian commander at Fort H
 
 ---
 
-**N-801** Andrew Piskadlo
+**N-800** Andrew Piskadlo
 
 First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.
 
@@ -918,7 +918,7 @@ First named by the host at 00:03:34 in episode 152. Man the host says the feds q
 
 ---
 
-**N-865** Michael George Carl
+**N-864** Michael George Carl
 
 First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.
 
@@ -926,7 +926,7 @@ First named by the host at 00:12:41 in episode 152. Police officer with a child-
 
 ---
 
-**N-866** David Leavitt
+**N-865** David Leavitt
 
 First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.
 
@@ -934,7 +934,7 @@ First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit).
 
 ---
 
-**N-867** Justin Bieber
+**N-866** Justin Bieber
 
 First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.
 
@@ -942,7 +942,7 @@ First named by the host at 00:51:02 in episode 152. Singer the host cites as sue
 
 ---
 
-**N-868** Stephen A. Smith
+**N-867** Stephen A. Smith
 
 First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.
 
@@ -1076,7 +1076,7 @@ Claim Timestamp: 00:12:41–00:15:26
 Claim: The host says Baron Coleman discovered that the first six search warrants in the Charlie Kirk case, including the one on George Zinn, were signed off by Michael George Carl on September 10, 2025, and in a clip she plays Coleman says the same.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-1, N-42, N-330, N-865
+Mentions: N-1, N-42, N-330, N-864
 
 Related Nodes: N-10831
 
@@ -1091,7 +1091,7 @@ Claim Timestamp: 00:12:41–00:15:26
 Claim: In a clip the host plays, Baron Coleman says that, per the training listed on his affidavit, Michael George Carl is assigned to the Special Victims Unit at the Utah County Sheriff's Office, primarily working cyber crimes involving the exploitation of youth, and that he completed training at the ICAC Bootstrap Academy.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-330, N-865
+Mentions: N-330, N-864
 
 Related Nodes: N-10831
 
@@ -1153,7 +1153,7 @@ Claim Timestamp: 00:27:05
 Claim: The host says that in 2020 an HSI analyst alleged that personnel received video evidence in April 2020 potentially implicating David Leavitt, whom she calls the Utah attorney general, in violations of federal trafficking and Indian child welfare laws, but failed to open an investigation; she says there was no criminal finding against him.
 
 Anchored Artifacts: None visible in this episode
-Mentions: N-866
+Mentions: N-865
 
 Related Nodes:
 
@@ -1170,7 +1170,7 @@ Claim Timestamp: 00:27:01–00:28:24
 Claim: The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured.
 
 Anchored Artifacts: None visible in this episode
-Mentions: N-866
+Mentions: N-865
 
 Related Nodes:
 
@@ -1187,7 +1187,7 @@ Claim Timestamp: 00:38:56–00:41:02
 Claim: The host says, citing a Bulwark report, that Matt Tardio pleaded no contest in Portland to felony coercion and misdemeanor harassment over an incident she dates to last October, October 2025, and that the alleged conduct was captured by surveillance cameras at the ICE facility.
 
 Anchored Artifacts: A-2379.1, A-2380.1
-Mentions: N-588
+Mentions: N-587
 
 Related Nodes:
 
@@ -1202,7 +1202,7 @@ Claim Timestamp: 00:43:58–00:45:32
 Claim: The episode plays a clip of Macklemore stating "Free Palestine" and other political statements during an opening-act performance on Ed Sheeran's tour.
 
 Anchored Artifacts: A-2381.1
-Mentions: N-833, N-834
+Mentions: N-832, N-833
 
 Related Nodes:
 
@@ -1217,7 +1217,7 @@ Claim Timestamp: 00:47:38–00:48:56
 Claim: The host alleges that Robert Kraft led a pressure and lobbying campaign that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.
 
 Anchored Artifacts: A-2381.1 (corroborating that Macklemore was dropped, per host framing)
-Mentions: N-194, N-833, N-834
+Mentions: N-194, N-832, N-833
 
 Related Nodes:
 
@@ -1249,7 +1249,7 @@ Claim Timestamp: 00:10:50–00:11:09
 Claim: The host says Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.
 
 Anchored Artifacts: None in this episode
-Mentions: N-40, N-125, N-776
+Mentions: N-40, N-125, N-775
 
 Related Nodes:
 
@@ -1336,7 +1336,7 @@ Claim: The host says Colonel Otto Busher was accused of running a brothel with R
 Transcript Snippet: Colonel Otto B O Busher of course was accused of running a brothel with Romanian children from 2011 2015 at the Romanian military base. He worked with Erika's Romanian angels during this time.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-688, N-2
+Mentions: N-687, N-2
 Related Nodes: N-11165
 Tags: relevance:context
 Investigative Direction: Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.
@@ -1400,7 +1400,7 @@ Claim: The host says Andrew Piskadlo was one of the people the feds questioned o
 Transcript Snippet: Andrew Piskadlo, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-801
+Mentions: N-800
 Tags: relevance:context
 Investigative Direction: Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.
 
@@ -1476,7 +1476,7 @@ Claim: The host says TPUSA adviser Paul Vallely (transcribed Valle) is a retired
 Transcript Snippet: TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aquino who was a Satanist and a founder of the Temple of Set
 
 Anchored Artifacts: A-2382.1
-Mentions: N-800, N-449
+Mentions: N-799, N-449
 Related Nodes: N-10410
 Tags: relevance:context
 Investigative Direction: Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).
@@ -1570,7 +1570,7 @@ Claim: The host says Philip Goldsberry Jr. co-founded Soter Global Ministries, a
 Transcript Snippet: co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.
 
 Anchored Artifacts: A-2382.1
-Mentions: N-686
+Mentions: N-685
 Related Nodes: N-10989
 Tags: relevance:context
 Investigative Direction: Pull the IRS filing for Sofer Global Ministries and its officers.
@@ -1632,7 +1632,7 @@ Claim: The host says Mike Mitchell, the lynchpin of the case against Tyler Robin
 Transcript Snippet: because he's the one who claimed that he recognized Tyler Robinson in the news uh because you know he used to mentor him in Boy Scouts and then he's the one that then goes over uh to Matt Robinson's house
 
 Anchored Artifacts: 
-Mentions: N-125, N-40, N-776
+Mentions: N-125, N-40, N-775
 Related Nodes: N-10151
 Supports: C-13094
 Tags: relevance:core
@@ -1743,7 +1743,7 @@ Claim: The host says Michael George Carl signed off on the first warrants at abo
 Transcript Snippet: He has signed off for these first warrants at about 3:19 p. m. So, he had these ready to go.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-865
+Mentions: N-864
 Related Nodes: N-11263
 Supports: C-13104
 Tags: relevance:core
@@ -1760,7 +1760,7 @@ Claim: The host says the warrants Carl signed covered Tyler Robinson's phone, th
 Transcript Snippet: Tyler Robinson's phone. Uh, the Google server that would have Tyler's phone location data on September 10th. He signs off on that. The cell towers that are surrounding UVU, he signs off on that.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-865, N-40
+Mentions: N-864, N-40
 Related Nodes: N-10012
 Supports: C-13104
 Tags: relevance:core
@@ -1777,7 +1777,7 @@ Claim: The host says Carl also signed warrants for George Zinn's phone and for C
 Transcript Snippet: George Zinn's phone. Uh, Charlie's belongings at Timpanogos. So, we've been talking about, uh, where are Charlie's belongings?
 
 Anchored Artifacts: A-2378.1
-Mentions: N-865, N-42, N-1
+Mentions: N-864, N-42, N-1
 Supports: C-13104
 Tags: relevance:core
 Investigative Direction: Locate the warrant covering Charlie's belongings and the inventory of what was seized and where it is held.
@@ -1793,7 +1793,7 @@ Claim: The host says the surveillance footage was also seized from Intermountain
 Transcript Snippet: we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-865
+Mentions: N-864
 Related Nodes: N-10770
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage warrant and affidavit rationale.
@@ -1809,7 +1809,7 @@ Claim: The host says the warrants Carl signed also included searches of Matt and
 Transcript Snippet: and also the warrants to search Ma Ma and Amber Robinson's house as well.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-865, N-776
+Mentions: N-864, N-775
 Tags: relevance:core
 Investigative Direction: Obtain the residence search warrant and inventory.
 
@@ -2097,7 +2097,7 @@ Claim: The host says that until 2022 Utah's attorney general was David Leavitt (
 Transcript Snippet: the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.
 
 Anchored Artifacts: 
-Mentions: N-866
+Mentions: N-865
 Related Nodes: N-11264
 Tags: relevance:context
 Investigative Direction: Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.
@@ -2113,7 +2113,7 @@ Claim: The host says in 2017 Leavitt was seeking support connected to adopting a
 Transcript Snippet: He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.
 
 Anchored Artifacts: 
-Mentions: N-866
+Mentions: N-865
 Tags: relevance:tangential
 Investigative Direction: Check Northern Cheyenne tribal council records and Leavitt's 2017 correspondence.
 
@@ -2205,7 +2205,7 @@ Claim: The host says Epstein frequented the office of a modeling agency run by F
 Transcript Snippet: Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France
 
 Anchored Artifacts: 
-Mentions: N-569, N-529, N-9
+Mentions: N-568, N-529, N-9
 Related Nodes: N-10524
 Tags: relevance:context
 Investigative Direction: Verify the agency's founding history, Kates's role and Brunel's connection to the New York agency.
@@ -2251,7 +2251,7 @@ Claim: The host says TPUSA regularly brings in people like Matt Tardio because i
 Transcript Snippet: Matt Tardio is one of these individuals. Popped up out of nowhere.
 
 Anchored Artifacts: 
-Mentions: N-588, N-40
+Mentions: N-587, N-40
 Tags: relevance:core
 Investigative Direction: Establish when Tardio first appeared on TPUSA platforms and what his credentials are.
 
@@ -2266,7 +2266,7 @@ Claim: The host plays what she says is an actual clip of Matt Tardio visiting Is
 Transcript Snippet: I went for a run this morning over inside Tel Aviv along the beach against Gro's better judgment. And I want you guys to see something for all of you that think Israel thought it'd be a good idea to kill Charlie Kirk
 
 Anchored Artifacts: A-2379.1
-Mentions: N-588, N-1
+Mentions: N-587, N-1
 Related Nodes: N-10026
 Tags: relevance:core
 Investigative Direction: Date the original post and compare with Tardio's travel records and TPUSA's coordination.
@@ -2297,7 +2297,7 @@ Claim: The host says that after she presented the footage, TPUSA did not contact
 Transcript Snippet: Instead, they brought on this Matt Tardio onto the Charlie Kirk show to debunk this.
 
 Anchored Artifacts: A-2380.1
-Mentions: N-588, N-3
+Mentions: N-587, N-3
 Supports: C-13152
 Tags: relevance:core
 Investigative Direction: Find the episode of The Charlie Kirk Show and its air date; ask TPUSA whether anyone contacted the host.
@@ -2313,7 +2313,7 @@ Claim: In the clip, the show introduces Matt Tardio as a former Army Ranger snip
 Transcript Snippet: He is a former Army Ranger sniper and explosives expert, and he's the host of Speak the Truth uh podcast.
 
 Anchored Artifacts: A-2380.1
-Mentions: N-588
+Mentions: N-587
 Tags: relevance:core
 Investigative Direction: Check Tardio's service record, noting the host calls him a former Green Beret.
 
@@ -2342,7 +2342,7 @@ Claim: In the clip, Tardio says there are very clear signs the video was compres
 Transcript Snippet: there's very clear signs the video was compressed or it was a screen recording or a combination of both before it ended up getting sent to her.
 
 Anchored Artifacts: A-2380.1
-Mentions: N-588, N-3
+Mentions: N-587, N-3
 Tags: relevance:core
 Investigative Direction: Have independent video forensics experts assess the file's encoding history and the term lateral crawl.
 
@@ -2357,7 +2357,7 @@ Claim: The host says police and Tardio's alleged victim reported that Tardio tri
 Transcript Snippet: Tardio tried to take one of his fans at the protest back to his hotel room to have sex with. When she refused, he allegedly became forceful.
 
 Anchored Artifacts: A-3085.1
-Mentions: N-588
+Mentions: N-587
 Related Nodes: N-11265
 Supports: C-13152
 Tags: relevance:context
@@ -2374,7 +2374,7 @@ Claim: The host says that when interviewed by a Portland detective, Tardio's exp
 Transcript Snippet: Tardio's explanation was that the left-wing Antifa activists had plotted to get him stoned.
 
 Anchored Artifacts: A-3085.1
-Mentions: N-588
+Mentions: N-587
 Related Nodes: N-11265
 Tags: relevance:context
 Investigative Direction: Review the detective's interview transcript if released.
@@ -2405,7 +2405,7 @@ Claim: The host says Robert Kraft is a billionaire who owns the New England Patr
 Transcript Snippet: He's a billionaire. He owns the New England Patriots, right? Um the entire Patriot Stadium, it's his.
 
 Anchored Artifacts: 
-Mentions: N-194, N-833
+Mentions: N-194, N-832
 Supports: C-13161
 Tags: relevance:tangential
 Investigative Direction: Confirm stadium ownership and any communication from Kraft about the tour.
@@ -2421,7 +2421,7 @@ Claim: In the clip, Macklemore says his next song was inspired by Columbia Unive
 Transcript Snippet: this next song was inspired by the bravery of Columbia University students who led an encampment movement that mobilized the entire world
 
 Anchored Artifacts: A-2381.1
-Mentions: N-833
+Mentions: N-832
 Supports: C-13157
 Tags: relevance:tangential
 Investigative Direction: Obtain the full concert recording.
@@ -2437,7 +2437,7 @@ Claim: In the clip, Macklemore calls for freeing all people in America living in
 Transcript Snippet: Free all people in America living in fear over this terrorist organization ICE.
 
 Anchored Artifacts: A-2381.1
-Mentions: N-833
+Mentions: N-832
 Supports: C-13157
 Tags: relevance:tangential
 Investigative Direction: Obtain the full concert recording and note the stop and date.
@@ -2453,7 +2453,7 @@ Claim: The host says Ed Sheeran tried to say he had no control over Macklemore's
 Transcript Snippet: I had no control over it. It was the stadiums that did this.
 
 Anchored Artifacts: 
-Mentions: N-834, N-833
+Mentions: N-833, N-832
 Tags: relevance:tangential
 Investigative Direction: Obtain Ed Sheeran's public statement on the decision.
 
@@ -2468,7 +2468,7 @@ Claim: The host says that thus far three other people associated with the tour h
 Transcript Snippet: thus far, three other people associated with this tour have now dropped out.
 
 Anchored Artifacts: 
-Mentions: N-834, N-833
+Mentions: N-833, N-832
 Tags: relevance:tangential
 Investigative Direction: Identify the three openers and the dates and wording of their withdrawal.
 
@@ -2483,7 +2483,7 @@ Claim: The host says she thinks there are only three tour stops left on Ed Sheer
 Transcript Snippet: I think there's only three um tour stops left.
 
 Anchored Artifacts: 
-Mentions: N-834
+Mentions: N-833
 Tags: relevance:tangential
 Investigative Direction: Check the official tour schedule.
 
@@ -2544,7 +2544,7 @@ Claim: The host says Justin Bieber was sued for cancelling the rest of his tour 
 Transcript Snippet: Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?
 
 Anchored Artifacts: 
-Mentions: N-867
+Mentions: N-866
 Tags: relevance:tangential
 Investigative Direction: Check the lawsuit record over the cancelled Bieber tour dates.
 
@@ -2604,7 +2604,7 @@ Claim: The host says she received many comments about her appearance on Stephen 
 Transcript Snippet: I got a lot of your comments about the Stephen A. Smith podcast.
 
 Anchored Artifacts: 
-Mentions: N-868, N-3
+Mentions: N-867, N-3
 Tags: relevance:tangential
 Investigative Direction: Find the Stephen A. Smith episode and its release date.
 

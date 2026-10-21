@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-848, N-11231
+  - Tip-minted Nodes (supplement_2026-10d): N-847, N-11231
   - Hole-minted Nodes (reintro-ep028): N-374, N-10451
   - Tip-minted Nodes (reintro-ep028): N-11159
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2491–C-2557
-  - Tip-minted Nodes (reintro-ep028): N-711
+  - Tip-minted Nodes (reintro-ep028): N-710
   - (see registers)
 
 ## 6. Meme Register
@@ -141,7 +141,7 @@ Confidence: high
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
   - New Nodes Introduced: N-234, N-235, N-10237, N-10238
-  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-660, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
+  - Reused Nodes Appearing: N-34, N-36, N-145, N-178, N-222, N-229, N-366, N-659, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
 
 ---
@@ -345,7 +345,7 @@ Confidence Level: Medium
 
 ### People
 
-**N-711** Ron Paul
+**N-710** Ron Paul
 
 Libertarian former congressman; named in C-2492 (Shapiro imagery).
 
@@ -562,7 +562,7 @@ Spoke at the Auburn TPUSA event (transcript spelling Lara Trump).
 
 ---
 
-**N-660** Ivanka Trump
+**N-659** Ivanka Trump
 
 Named in the host's remarks on Kushner's deals.
 
@@ -682,7 +682,7 @@ Existing topic reused for the CNN clips.
 
 ---
 
-**N-848** Lauren Chen
+**N-847** Lauren Chen
 
 First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.
 
@@ -776,7 +776,7 @@ Claim Timestamp: 00:12:50
 Claim: According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on X for a live audio chat room, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism; the host says the X Space was hosted by Lauren Chen.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-201, N-366, N-848
+Mentions: N-201, N-366, N-847
 
 Related Nodes:
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:02:12
 Claim: Per tweets the host shows, Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
-Mentions: N-97, N-711
+Mentions: N-97, N-710
 
 Related Nodes:
 
@@ -1131,7 +1131,7 @@ Claim: The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Spa
 Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen
 
 Anchored Artifacts: A-1359.1
-Mentions: N-3, N-366, N-848
+Mentions: N-3, N-366, N-847
 Related Nodes: N-10900
 Supports: C-2510
 Tags: relevance:context
@@ -1640,7 +1640,7 @@ Claim: The host says the kids are now awake: they know about Jared Kushner and h
 Transcript Snippet: they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.
 
 Anchored Artifacts: 
-Mentions: N-178, N-660
+Mentions: N-178, N-659
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-871, N-872, N-873, N-874, N-875, N-11275, N-11276
+  - Tip-minted Nodes (supplement_2026-10e): N-870, N-871, N-872, N-873, N-874, N-11275, N-11276
   - Hole-minted Nodes (reintro-ep032): N-226, N-10311
-  - Tip-minted Nodes (reintro-ep032): N-738, N-752, N-867
+  - Tip-minted Nodes (reintro-ep032): N-737, N-751, N-866
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2816–C-2890
   - (see registers)
@@ -130,7 +130,7 @@ Video Timestamp: 00:13:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio clip played)
 
-*Related: C-2834, N-255, N-757, N-250*
+*Related: C-2834, N-255, N-756, N-250*
 
 ---
 
@@ -332,7 +332,7 @@ Confidence Level: Medium
 
 ### People
 
-**N-752** Astrid Tuminez
+**N-751** Astrid Tuminez
 
 UVU president (also transcribed "Tumz"); first named in C-2873.
 
@@ -431,7 +431,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-757** Bob Coy
+**N-756** Bob Coy
 
 Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as "Bob Coy."
 
@@ -654,7 +654,7 @@ The host's relay of Courtney Love's thesis that powerful people and companies ar
 
 ---
 
-**N-871** Britney Spears
+**N-870** Britney Spears
 
 First named by the host at 00:00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.
 
@@ -671,7 +671,7 @@ The host's and Brett Cooper's account of Lou Taylor's role in setting up the 200
 
 ---
 
-**N-872** Jamie Lynn Spears
+**N-871** Jamie Lynn Spears
 
 First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage.
 
@@ -711,7 +711,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-873** Tony Blair
+**N-872** Tony Blair
 
 First named at 00:15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.
 
@@ -743,7 +743,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-738** Michael Jackson
+**N-737** Michael Jackson
 
 Existing node reused for new claims in this episode.
 
@@ -751,7 +751,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-874** Paris Jackson
+**N-873** Paris Jackson
 
 First named by the host at 00:23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.
 
@@ -767,7 +767,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-867** Justin Bieber
+**N-866** Justin Bieber
 
 Existing node reused for new claims in this episode.
 
@@ -799,7 +799,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-875** Spencer Pratt
+**N-874** Spencer Pratt
 
 First named by the host at 00:35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.
 
@@ -907,7 +907,7 @@ Claim Timestamp: 00:12:02
 Claim: In a clip the host plays, Brett Cooper reads an LA Times headline saying Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.
 
 Anchored Artifacts: A-1400.1
-Mentions: N-871, N-250, N-221
+Mentions: N-870, N-250, N-221
 
 
 Investigative Direction: Locate and review the LA Times article and underlying email exhibits cited therein.
@@ -921,7 +921,7 @@ Claim Timestamp: 00:12:02
 Claim: In a clip the host plays, Brett Cooper reads a Daily Mail headline saying Britney Spears accuses her father Jaime of having an affair with her ex-business manager Lou Taylor and claims he charged her estate for the pair's trip to the Holy Land to get baptized.
 
 Anchored Artifacts: A-1401.1
-Mentions: N-871, N-252, N-250, N-221
+Mentions: N-870, N-252, N-250, N-221
 
 
 Investigative Direction: Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.
@@ -1022,7 +1022,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (January and February 2025), she names Lou Taylor alongside Kim Kardashian, Diddy, Jay-Z, and Beyoncé and says Lou Taylor owns Church Home, associated with getting Justin Bieber from Hillsong; the host says she looked it up and Taylor appears to own or have sat on its board.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-250, N-359, N-867, N-253
+Mentions: N-250, N-359, N-866, N-253
 
 Related Nodes: N-10248
 
@@ -1095,7 +1095,7 @@ Claim Timestamp: 00:44:05
 Claim: Per host, "Samir" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him.
 
 Anchored Artifacts: A-1410.1 (contextual reference)
-Mentions: N-258, N-752
+Mentions: N-258, N-751
 
 
 Investigative Direction: Locate the published Samir / Tuminez interview and review sourcing/conditions.
@@ -1216,7 +1216,7 @@ Claim: The host says a flurry of emails told her to stay the course because Calv
 Transcript Snippet: telling me to stay the course because the Calvary Chapel was also involved in Britney Spears's conservatorship.
 
 Anchored Artifacts: 
-Mentions: N-3, N-871
+Mentions: N-3, N-870
 Related Nodes: N-11276, N-10248
 Tags: relevance:context
 Investigative Direction: Obtain the viewer emails and conservatorship filings showing any Calvary Chapel role.
@@ -1232,7 +1232,7 @@ Claim: The host says it has been alleged, and heavily insinuated even by Britney
 Transcript Snippet: Lou Taylor uh apparently was very much involved. That is what has been heavily insinuated and even by Britney Spears herself.
 
 Anchored Artifacts: 
-Mentions: N-3, N-250, N-871
+Mentions: N-3, N-250, N-870
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check Britney Spears's court statements and the 2021 LA Times emails for Lou Taylor's role.
@@ -1248,7 +1248,7 @@ Claim: Brett Cooper (clip played) says Lou Taylor became involved with Britney S
 Transcript Snippet: Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jaime Lynn Spears.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-221, N-250, N-871, N-872
+Mentions: N-221, N-250, N-870, N-871
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check 2007 to 2008 press coverage and the Spears family accounts for when Lou Taylor was hired.
@@ -1264,7 +1264,7 @@ Claim: Brett Cooper (clip played) says Britney's mother wrote in her memoir Thro
 Transcript Snippet: her mom stated in her memoir, Through the Storm, that Lou and Britney's father had discussed putting her in a conservatorship shortly after that happened.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-221, N-250, N-252, N-871
+Mentions: N-221, N-250, N-252, N-870
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check the passage in Lynn Spears's memoir Through the Storm.
@@ -1296,7 +1296,7 @@ Claim: Brett Cooper (clip played) says Jamie Spears committed Britney to an eigh
 Transcript Snippet: Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million.
 
 Anchored Artifacts: A-1399.1
-Mentions: N-221, N-250, N-252, N-871
+Mentions: N-221, N-250, N-252, N-870
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check conservatorship accountings for Circus tour gross and Tri Star fees.
@@ -1377,7 +1377,7 @@ Claim: The email read by the host says a reporter told the writer that the house
 Transcript Snippet: they told me that the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-3, N-871, N-873, N-9
+Mentions: N-3, N-870, N-872, N-9
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Identify the reporter and the property and check ownership records.
@@ -1409,7 +1409,7 @@ Claim: The email read by the host says Robin and Lou Taylor lived in Fort Lauder
 Transcript Snippet: they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-3, N-250, N-251, N-757
+Mentions: N-3, N-250, N-251, N-756
 Related Nodes: N-10248, N-10246
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Fort Lauderdale and Brentwood church histories for the Taylors and Coy.
@@ -1473,7 +1473,7 @@ Claim: The host says Britney Spears was put on a psych 5150 hold and that Kanye 
 Transcript Snippet: Britney's been put on a psych 5150 hold. Kanye, he said he was just reading a Bible and Harley Pasternak and we got into his backstory and MK Ultra. uh suddenly puts him in a hospital on a psych 5150 hold and somehow his wife I guess was cool with that
 
 Anchored Artifacts: 
-Mentions: N-3, N-871, N-27, N-359
+Mentions: N-3, N-870, N-27, N-359
 Related Nodes: N-11275, N-10116
 Supports: C-2817
 Tags: relevance:tangential
@@ -1506,7 +1506,7 @@ Claim: The host says Michael Jackson, despite beating Sony, owned his own catalo
 Transcript Snippet: Michael Jackson, despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatles catalog.
 
 Anchored Artifacts: 
-Mentions: N-3, N-738
+Mentions: N-3, N-737
 Related Nodes: N-11275
 Tags: relevance:tangential
 Investigative Direction: Review the history of the Sony/ATV catalog and Michael Jackson's finances at death.
@@ -1522,7 +1522,7 @@ Claim: The host says Paris Jackson was in the news that day, had lost in court a
 Transcript Snippet: I saw Paris Jackson was in the news today. She's lost in court and she's still fighting over her father's legacy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-874, N-738
+Mentions: N-3, N-873, N-737
 Tags: relevance:tangential
 Investigative Direction: Check the court ruling reported on or about 2025-11-14 involving Paris Jackson.
 
@@ -1537,7 +1537,7 @@ Claim: The host says the last way to take over a company is an untimely death, a
 Transcript Snippet: the last way that they can hostly take over your company is with an untimely death, Kurt Cobain, uh, Prince, Michael Jackson, Charlie Kirk, and I should also mention Bob Brier.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-738, N-257
+Mentions: N-3, N-1, N-737, N-257
 Related Nodes: N-11275
 Tags: relevance:core
 Investigative Direction: Treat as a theory: check who gained control of TPUSA, and of the other listed estates, after each death.
@@ -1553,7 +1553,7 @@ Claim: The host says that after reading Courtney Love's text, she looked it up a
 Transcript Snippet: It looks like she owns or sat on the bar board of church home.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-3, N-250, N-253, N-867
+Mentions: N-3, N-250, N-253, N-866
 Related Nodes: N-11276
 Tags: relevance:context
 Investigative Direction: Check Church Home's incorporation and board records for Lou Taylor.
@@ -1681,7 +1681,7 @@ Claim: The host says she has not looked into cloud seeding or the Malibu home fi
 Transcript Snippet: Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-875
+Mentions: N-3, N-874
 Tags: relevance:tangential
 Investigative Direction: Check the official Malibu fire investigation findings and Pratt's evidence.
 
@@ -2148,7 +2148,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty (N-251):** Transcript renders Lou Taylor's husband's name as "Robin," "Rob," and "Luke" Taylor. Treated as single node with flag; primary source required.
-- **Name uncertainty (N-757):** Transcript uses "Bob Coy" – likely phonetic. Preserved as written.
+- **Name uncertainty (N-756):** Transcript uses "Bob Coy" – likely phonetic. Preserved as written.
 - **Possible transcription error (A-1405.1):** Sender email references "Aruse" – unclear transcription; possibly a name. Verify against raw email.
 - **Possible transcription error (A-1406.1):** "Nsign and NGO" – uncertain. Possibly "Ensign" or other proper noun. Verify against raw screenshot.
 - **Artifact verbally referenced but not shown (A-1405.1, A-1406.1):** Both artifacts were displayed in partially redacted form; raw verification pending.

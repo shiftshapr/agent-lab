@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11375, N-11376, N-11377
   - Hole-minted Nodes (reintro-ep018): N-10454, N-10799
-  - Tip-minted Nodes (reintro-ep018): N-870, N-11337
+  - Tip-minted Nodes (reintro-ep018): N-869, N-11337
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1608–C-1709
   - New Nodes Introduced: N-174, N-175, N-176, N-178, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190
@@ -680,7 +680,7 @@ On-the-ground source whose account of feds implanting memories the host relays.
 
 ---
 
-**N-870** Steve Witkoff
+**N-869** Steve Witkoff
 
 US negotiator the host names with Kushner at the Israel and Hamas talks.
 
@@ -2169,7 +2169,7 @@ Claim: The host says Steve Witkoff and Jared Kushner arrived Wednesday morning t
 Transcript Snippet: They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated
 
 Anchored Artifacts: 
-Mentions: N-870, N-178, N-3
+Mentions: N-869, N-178, N-3
 Related Nodes: N-11375, N-10063
 Tags: relevance:tangential
 Investigative Direction: Check the participants and arrival timing against press reports of the talks.

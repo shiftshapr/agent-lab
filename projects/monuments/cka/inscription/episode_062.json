@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-768",
-      "ref": "N-768",
+      "@id": "N-767",
+      "ref": "N-767",
       "name": "Michele Bachmann",
       "type": "person",
       "description": "Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).",
@@ -1922,7 +1922,7 @@
       "investigative_direction": "Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.",
       "transcript_snippet": "Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.",
       "mentions_person_refs": [
-        "N-768"
+        "N-767"
       ]
     },
     {

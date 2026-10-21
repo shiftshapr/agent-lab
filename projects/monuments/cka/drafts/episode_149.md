@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11407, N-11408, N-11409
   - Hole-minted Nodes (reintro-ep149): N-10828
-  - Tip-minted Nodes (reintro-ep149): N-897, N-900, N-955, N-11310
+  - Tip-minted Nodes (reintro-ep149): N-896, N-899, N-953, N-11310
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12831–C-12949
   - Hole-minted Nodes (fixall-ep149): N-269
@@ -35,7 +35,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - New Nodes Introduced: (none)
-  - Reused Nodes Appearing: N-487, N-492, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-159, N-164, N-190, N-224, N-329, N-361, N-365, N-432, N-846, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
+  - Reused Nodes Appearing: N-487, N-492, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-159, N-164, N-190, N-224, N-329, N-361, N-365, N-432, N-845, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -517,7 +517,7 @@ Video Timestamp: 00:52:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12947, C-12948, N-897, N-3, N-11310, N-487*
+*Related: C-12947, C-12948, N-896, N-3, N-11310, N-487*
 
 ---
 
@@ -558,7 +558,7 @@ Investigative Pressure: High
 
 *Related: C-12833, C-12837, C-12838, A-2426.1*
 
-**N-955** Blake Gibson
+**N-953** Blake Gibson
 
 Security team member; first named by the host in this episode as the man in surgical scrubs (intro moved from ep163, 2026-10-19).
 
@@ -776,7 +776,7 @@ Security team member; the host says he drove the SUV and wore scrubs.
 
 ---
 
-**N-897** Blake Harreff
+**N-896** Blake Harreff
 
 Security team member; the host says he stayed behind, was clean and later wore scrubs.
 
@@ -888,7 +888,7 @@ Topic on the evidence base of the prosecution.
 
 ---
 
-**N-900** Miss Noble
+**N-899** Miss Noble
 
 Neighbor who the host says saw a bald man driving with two other people.
 
@@ -977,7 +977,7 @@ Babylon Bee CEO; the host recalls his complaint about a thumbnail.
 
 ---
 
-**N-846** Tony Burke
+**N-845** Tony Burke
 
 Australian minister the host says banned her.
 
@@ -1064,7 +1064,7 @@ Investigative Direction: Locate the original witness video/post; cross-reference
 Claim Timestamp: 00:20:42
 Claim: The host says the footage shows Blake Harreff running after the SUV departed with no visible blood on his shirt.
 Anchored Artifacts: A-2432.2
-Mentions: N-897
+Mentions: N-896
 Investigative Direction: Obtain higher-resolution frame stills; cross-check with independent footage sources.
 
 ---
@@ -1074,7 +1074,7 @@ Investigative Direction: Obtain higher-resolution frame stills; cross-check with
 Claim Timestamp: 00:18:51
 Claim: The host says Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle, and that he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
-Mentions: N-897, N-492, N-1
+Mentions: N-896, N-492, N-1
 Related Nodes:
 Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
 
@@ -1085,7 +1085,7 @@ Investigative Direction: Cross-reference with security team testimony and hospit
 Claim Timestamp: 00:20:42
 Claim: The host says footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.
 Anchored Artifacts: A-2432.3
-Mentions: N-897
+Mentions: N-896
 Related Nodes:
 Investigative Direction: Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.
 
@@ -1183,7 +1183,7 @@ Investigative Direction: Identify the underlying source(s) raising the host's co
 Claim Timestamp: 00:36:05
 Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM - which would make multiple earlier events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
 Anchored Artifacts: A-2433.1
-Mentions: N-40, N-900
+Mentions: N-40, N-899
 Related Nodes:
 Investigative Direction: Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.
 
@@ -1938,7 +1938,7 @@ Claim: The host says Justin Davis drove to the hospital but Blake Harreff stayed
 Transcript Snippet: Justin drives to the hospital, but Blake Harreff stays behind.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-492, N-897
+Mentions: N-492, N-896
 Related Nodes: 
 Supports: C-12877
 Tags: relevance:core
@@ -1955,7 +1955,7 @@ Claim: The host says that after Harreff and Davis opened the car door the footag
 Transcript Snippet: Thereafter, he comes around. He gets into the boot. Frank Turek.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-7, N-897, N-492
+Mentions: N-7, N-896, N-492
 Related Nodes: 
 Supports: C-10335
 Tags: relevance:core
@@ -1988,7 +1988,7 @@ Claim: The host says Blake Harreff did not touch Charlie while getting into the 
 Transcript Snippet: He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.
 
 Anchored Artifacts: A-2432.1
-Mentions: N-897, N-492
+Mentions: N-896, N-492
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Confirm Davis's role at the hospital from footage and team statements.
@@ -2052,7 +2052,7 @@ Claim: The host names the man in surgical scrubs at the top of the frame as Blak
 Transcript Snippet: Blake Gibson and surgical scrubs. That's who you see up in the top there.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-955
+Mentions: N-953
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.
@@ -2377,7 +2377,7 @@ Claim: The host says that if the receipt is confirmed, it explains why the neigh
 Transcript Snippet: That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.
 
 Anchored Artifacts: 
-Mentions: N-900, N-40
+Mentions: N-899, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.
@@ -2668,7 +2668,7 @@ Claim: The host says Tony Burke banned her from Australia because the Zionist lo
 Transcript Snippet: Tony Burke banned me because the Zionist lobby lobbied and it was sad that that got cancelceled.
 
 Anchored Artifacts: A-2435.7
-Mentions: N-846, N-3
+Mentions: N-845, N-3
 Related Nodes: 
 Supports: C-12757, C-10384, C-6128
 Tags: relevance:tangential
@@ -2749,7 +2749,7 @@ Claim: The host asks viewers who might have seen Blake Harreff take his shirt of
 Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.
 
 Anchored Artifacts: A-3352.2
-Mentions: N-897, N-3
+Mentions: N-896, N-3
 Related Nodes: N-11310
 Tags: relevance:core, dia
 Investigative Direction: Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.
@@ -2765,7 +2765,7 @@ Claim: The host says that if Blake Harreff or Rick Cutler want to talk she will 
 Transcript Snippet: Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.
 
 Anchored Artifacts: A-3352.2
-Mentions: N-897, N-487, N-3
+Mentions: N-896, N-487, N-3
 Related Nodes: 
 Tags: relevance:core, dia
 Investigative Direction: Check for any response from Harreff or Cutler to the standing offer.

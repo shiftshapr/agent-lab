@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-913, N-914, N-11346, N-11347, N-11348
+  - Tip-minted Nodes (supplement_2026-10f): N-912, N-913, N-11346, N-11347, N-11348
   - Hole-minted Nodes (reintro-ep091): N-341, N-342, N-343, N-344, N-349, N-10613
-  - Tip-minted Nodes (reintro-ep091): N-641, N-725, N-726, N-727
+  - Tip-minted Nodes (reintro-ep091): N-640, N-724, N-725, N-726
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-159, N-190, N-209, N-221, N-450, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
   - Claim Range: C-8103–C-8204
@@ -238,7 +238,7 @@ Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8201, C-8202, N-10604, N-341, N-914*
+*Related: C-8201, C-8202, N-10604, N-341, N-913*
 
 ---
 
@@ -507,7 +507,7 @@ Pastor the host names as accused of trafficking.
 
 ---
 
-**N-641** Sebastian Gorka
+**N-640** Sebastian Gorka
 
 Host of the America First show on which Marx and Melody appeared per Hall's statement.
 
@@ -515,7 +515,7 @@ Host of the America First show on which Marx and Melody appeared per Hall's stat
 
 ---
 
-**N-725** Mike Kennedy
+**N-724** Mike Kennedy
 
 Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.
 
@@ -523,7 +523,7 @@ Victor Marx's brother per the host; attorney who took a plea deal in the same sm
 
 ---
 
-**N-726** Karl Marx (Victor Marx's father)
+**N-725** Karl Marx (Victor Marx's father)
 
 Marx's biological father per the host; the transcript spells the first name Carl.
 
@@ -531,7 +531,7 @@ Marx's biological father per the host; the transcript spells the first name Carl
 
 ---
 
-**N-727** Kenneth Breining
+**N-726** Kenneth Breining
 
 Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.
 
@@ -539,7 +539,7 @@ Eileen Marx's brother per the host; subject of the shooting attempt and trial cl
 
 ---
 
-**N-913** Chaz Yandall
+**N-912** Chaz Yandall
 
 First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.
 
@@ -547,7 +547,7 @@ First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met H
 
 ---
 
-**N-914** Cori Kennedy
+**N-913** Cori Kennedy
 
 First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.
 
@@ -1476,7 +1476,7 @@ Claim: The host says Marx's brother Mike Kennedy, later an attorney, pled guilty
 Transcript Snippet: He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.
 
 Anchored Artifacts: 
-Mentions: N-725, N-349, N-341
+Mentions: N-724, N-349, N-341
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check the same federal docket for Mike Kennedy's plea agreement and sentence.
@@ -1492,7 +1492,7 @@ Claim: The host says Marx's biological father, Karl Marx, was apparently a pimp,
 Transcript Snippet: His name was Karl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.
 
 Anchored Artifacts: 
-Mentions: N-726, N-341
+Mentions: N-725, N-341
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Ask for the host's sources; check Marx's own books and interviews about his father.
@@ -1573,7 +1573,7 @@ Claim: The host says that in 2003 Marx and his brother, who had received a light
 Transcript Snippet: In 2003, he and his brother, who got that light sentence, um who was out of prison now, began All Things Possible Ministries.
 
 Anchored Artifacts: 
-Mentions: N-341, N-725
+Mentions: N-341, N-724
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Check nonprofit registration and IRS filings for All Things Possible Ministries and its founders.
@@ -1606,7 +1606,7 @@ Claim: The host says Eileen Marx's brother Kenneth tried to shoot Marx on his ow
 Transcript Snippet: Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.
 
 Anchored Artifacts: 
-Mentions: N-727, N-343, N-341
+Mentions: N-726, N-343, N-341
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Search local police and court records for the incident and its date.
@@ -1622,7 +1622,7 @@ Claim: The host says Eileen's brother would go on to kill his own girlfriend and
 Transcript Snippet: Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.
 
 Anchored Artifacts: 
-Mentions: N-727, N-343
+Mentions: N-726, N-343
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check court dockets for any pending case against the named individual; the host states it as a belief.
@@ -1782,7 +1782,7 @@ Claim: In the statement the host reads, Hall says Marx went on Sebastian Gorka's
 Transcript Snippet: Mr. Marx went on Sebastian Gorka's America First show with Melody to discuss the Fold AR
 
 Anchored Artifacts: A-1958.1
-Mentions: N-342, N-341, N-344, N-641
+Mentions: N-342, N-341, N-344, N-640
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Find the America First episode and check its date and what was said about Fold AR.
@@ -1863,7 +1863,7 @@ Claim: In the statement the host reads, Hall says Marx and his COO Chaz Yandall,
 Transcript Snippet: Mr. Marx and his COO, Chaz Yandall, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-342, N-341, N-913
+Mentions: N-342, N-341, N-912
 Related Nodes: N-10602
 Tags: relevance:context
 Investigative Direction: Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.
@@ -2268,7 +2268,7 @@ Claim: The host says a person she names as Cori Kennedy has been looking into Vi
 Transcript Snippet: has done a very good job on both X and on Facebook. Cori Kennedy has done a deep dive into Victor Marx.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-914, N-341
+Mentions: N-913, N-341
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the account and read the posts; confirm the researcher's name and background.

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11406
   - Hole-minted Nodes (reintro-ep147): N-10845
-  - Tip-minted Nodes (reintro-ep147): N-954, N-11215
+  - Tip-minted Nodes (reintro-ep147): N-952, N-11215
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12639–C-12734
   - Reused Nodes Appearing: N-10825, N-10820, N-17, N-18, N-135, N-202, N-270, N-330, N-485, N-10021, N-10025, N-10198, N-10320, N-10338, N-10389, N-10550, N-10566, N-10632, N-10651, N-10686, N-10715, N-10818, N-10888, N-11061, N-11208, N-11262, N-11321
@@ -414,7 +414,7 @@ Widow and TPUSA CEO; the host says she has not acknowledged lies and is doing th
 
 ---
 
-**N-954** Alex Faria
+**N-952** Alex Faria
 
 Member of Charlie Kirk's security team; first named by the host in this episode as riding in the lead security vehicle (intro moved from ep163, 2026-10-19).
 
@@ -999,7 +999,7 @@ Claim Timestamp: 00:40:36
 Claim: Graham Allen posted on X: "Are you kidding me? Are you kidding me? Tyler Robinson's defense attorney attacked Charlie Kirk in court. This man is a lunatic."
 
 Anchored Artifacts: A-2334
-Mentions: N-1, N-40, N-607
+Mentions: N-1, N-40, N-606
 
 Related Nodes: N-10824
 
@@ -1156,7 +1156,7 @@ Claim Timestamp: 00:08:25
 Claim: The host asserts that a narrative that Bill Ackman was "going to give him a million dollars," referring to Tyler Robinson's father, was dropped entirely because "there was no truth and no substance."
 
 Anchored Artifacts: A-2328 (host assertion; no documentary anchor in this episode)
-Mentions: N-37, N-40, N-776
+Mentions: N-37, N-40, N-775
 
 Related Nodes:
 
@@ -1267,7 +1267,7 @@ Claim: The host says Robinson's not-guilty plea runs counter to claims from what
 Transcript Snippet: runs counter to the extraordinary claims made by the Department of War propagandists that Tyler's dad turned him in because Tyler confessed to his crime
 
 Anchored Artifacts: 
-Mentions: N-40, N-3, N-776
+Mentions: N-40, N-3, N-775
 Related Nodes: N-10888, N-10566
 Supports: C-3224
 Tags: relevance:core
@@ -1284,7 +1284,7 @@ Claim: The host says Tyler Robinson told his father he was not guilty, that his 
 Transcript Snippet: Tyler told his father that he was not guilty. His father believes him.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3, N-776
+Mentions: N-40, N-3, N-775
 Related Nodes: N-10566
 Supports: C-3224
 Tags: relevance:core
@@ -1350,7 +1350,7 @@ Claim: The host says Tyler Robinson's father went with him to the police station
 Transcript Snippet: Yes, he went with his son to the police station after they were told they had no other choice.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3, N-776
+Mentions: N-40, N-3, N-775
 Related Nodes: N-10021
 Supports: C-3224
 Tags: relevance:core
@@ -1399,7 +1399,7 @@ Claim: The host says the lead security vehicle on the left of the UVU lot diagra
 Transcript Snippet: Alex Faria is in this vehicle. That's one of the security members plus other members on the Charlie's security team.
 
 Anchored Artifacts: A-2330
-Mentions: N-1, N-954
+Mentions: N-1, N-952
 Related Nodes: N-10820, N-11321
 Tags: relevance:core
 Investigative Direction: Match the named security members to vehicles using the security testimony, TPUSA staff lists and the video; confirm the spelling of Faria.

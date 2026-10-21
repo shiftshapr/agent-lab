@@ -958,8 +958,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in the host's Operation Mockingbird aside.",
@@ -1353,8 +1353,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-790",
-      "ref": "N-790",
+      "@id": "N-789",
+      "ref": "N-789",
       "name": "Ebro Darden",
       "type": "person",
       "description": "First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.",
@@ -2181,7 +2181,7 @@
       "mentions_person_refs": [
         "N-27",
         "N-3",
-        "N-790"
+        "N-789"
       ]
     },
     {
@@ -2873,7 +2873,7 @@
       "investigative_direction": "Cite the Church Committee findings on press relationships; the host gives no source on air.",
       "transcript_snippet": "Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.",
       "mentions_person_refs": [
-        "N-708"
+        "N-707"
       ]
     },
     {

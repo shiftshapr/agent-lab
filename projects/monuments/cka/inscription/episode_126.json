@@ -1652,8 +1652,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-818",
-      "ref": "N-818",
+      "@id": "N-817",
+      "ref": "N-817",
       "name": "Helen Comperatore",
       "type": "person",
       "description": "First named by the host at 00:28:31 in episode 126 (spelled Helen Comperatore and Helen Comperatore in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Comperatore; Helen Comperatore.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-819",
-      "ref": "N-819",
+      "@id": "N-818",
+      "ref": "N-818",
       "name": "Eyal Yakoby",
       "type": "person",
       "description": "First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.",
@@ -1956,7 +1956,7 @@
       "claim_timestamp": "00:29:15",
       "investigative_direction": "Obtain full NewsNation interview; identify any specific evidence references Comperatore cited (\"I've been told things\").",
       "mentions_person_refs": [
-        "N-818",
+        "N-817",
         "N-104"
       ]
     },
@@ -1976,7 +1976,7 @@
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.",
       "mentions_person_refs": [
-        "N-818"
+        "N-817"
       ]
     },
     {
@@ -2795,7 +2795,7 @@
         "C-9955"
       ],
       "mentions_person_refs": [
-        "N-818",
+        "N-817",
         "N-105"
       ]
     },
@@ -2844,7 +2844,7 @@
         "C-10819"
       ],
       "mentions_person_refs": [
-        "N-818",
+        "N-817",
         "N-104"
       ]
     },
@@ -2867,7 +2867,7 @@
       "investigative_direction": "Obtain the full interview to see whether she names any political motive or actor.",
       "transcript_snippet": "And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?",
       "mentions_person_refs": [
-        "N-818"
+        "N-817"
       ]
     },
     {
@@ -2890,7 +2890,7 @@
       "investigative_direction": "Ask the Comperatore family and the interviewer what she was told and what event she referred to.",
       "transcript_snippet": "Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.",
       "mentions_person_refs": [
-        "N-818"
+        "N-817"
       ]
     },
     {
@@ -2912,7 +2912,7 @@
       "investigative_direction": "Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.",
       "transcript_snippet": "Just to don't forget us and remember what we went through that day. You know, we're still here and we need answers.",
       "mentions_person_refs": [
-        "N-818",
+        "N-817",
         "N-5"
       ]
     },
@@ -3032,7 +3032,7 @@
       "investigative_direction": "Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.",
       "transcript_snippet": "Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.",
       "mentions_person_refs": [
-        "N-819",
+        "N-818",
         "N-3"
       ]
     },
@@ -3055,7 +3055,7 @@
       "investigative_direction": "Read the article for the on-record responses of named accounts about payment.",
       "transcript_snippet": "And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.",
       "mentions_person_refs": [
-        "N-819"
+        "N-818"
       ]
     },
     {

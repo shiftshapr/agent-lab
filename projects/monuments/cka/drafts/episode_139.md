@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 8478e4fc7004488cce084c823d9f80149d81fd59cf33314345ba5d116e3a955e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-925, N-926, N-927, N-11361, N-11362
+  - Tip-minted Nodes (supplement_2026-10f): N-924, N-925, N-926, N-11361, N-11362
   - Hole-minted Nodes (reintro-ep139): N-202, N-10791, N-10793
   - Tip-minted Nodes (reintro-ep139): N-11262
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -34,7 +34,7 @@
 - Ledger continuation summary:
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789
-  - Reused Nodes Appearing: N-40, N-18, N-10790, N-7, N-14, N-82, N-97, N-241, N-270, N-776, N-10000, N-10011, N-10013, N-10014, N-10022, N-10034, N-10041, N-10043, N-10044, N-10063, N-10085, N-10112, N-10143, N-10168, N-10183, N-10253, N-10294, N-10369, N-10537, N-10598, N-10634, N-10660, N-10670, N-10679, N-10692, N-10711, N-10729, N-10740, N-10750, N-10780, N-10899, N-11053, N-11065, N-11149, N-11308
+  - Reused Nodes Appearing: N-40, N-18, N-10790, N-7, N-14, N-82, N-97, N-241, N-270, N-775, N-10000, N-10011, N-10013, N-10014, N-10022, N-10034, N-10041, N-10043, N-10044, N-10063, N-10085, N-10112, N-10143, N-10168, N-10183, N-10253, N-10294, N-10369, N-10537, N-10598, N-10634, N-10660, N-10670, N-10679, N-10692, N-10711, N-10729, N-10740, N-10750, N-10780, N-10899, N-11053, N-11065, N-11149, N-11308
   - Existing Nodes Reused: N-1, N-2
 
 ---
@@ -597,7 +597,7 @@ Dan Flood; the host says he pushed Kirk over to the side.
 
 ---
 
-**N-776** Matt Robinson
+**N-775** Matt Robinson
 
 Matt Robinson; the host recounts the dog bed discovery and disputes that he believed his son guilty.
 
@@ -909,7 +909,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-925** Brian Atlas
+**N-924** Brian Atlas
 
 First named by the host at 00:02:12 in episode 139.
 Host of the Whatever podcast who, per the host, relayed the first debate offers.
@@ -918,7 +918,7 @@ Host of the Whatever podcast who, per the host, relayed the first debate offers.
 
 ---
 
-**N-926** Dan Crenshaw
+**N-925** Dan Crenshaw
 
 First named by the host at 00:41:20 in episode 139.
 Former Texas congressman whose post about the burrito debate the host reads.
@@ -927,7 +927,7 @@ Former Texas congressman whose post about the burrito debate the host reads.
 
 ---
 
-**N-927** Rabbi Shmuley Boteach
+**N-926** Rabbi Shmuley Boteach
 
 First named by the host at 00:48:31 in episode 139.
 Rabbi shown in a street confrontation video in Iceland; the host criticizes him.
@@ -1218,7 +1218,7 @@ Claim Timestamp: 00:40:30
 Claim: Dan Crenshaw posted on X telling critics of grocery prices to "stop whining, get a job, eat ramen like the rest of us did in college."
 
 Anchored Artifacts: A-2262.5
-Mentions: N-926
+Mentions: N-925
 
 Related Nodes: N-10789
 
@@ -1263,7 +1263,7 @@ Claim Timestamp: 00:49:52–00:51:05
 Claim: A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel; in it he says they had first approached him as fans.
 
 Anchored Artifacts: A-2264.1
-Mentions: N-927
+Mentions: N-926
 
 Related Nodes:
 
@@ -1387,7 +1387,7 @@ Claim: The host says Brian Atlas, host of the Whatever podcast, contacted her PR
 Transcript Snippet: a guy named Brian Atlas, reached out to my PR guy, Mitchell, with an offer of 50K for me to debate this person. And then he upped the amount, I think, to 150K initially.
 
 Anchored Artifacts: 
-Mentions: N-925, N-18, N-3
+Mentions: N-924, N-18, N-3
 Related Nodes: N-11361, N-11262
 Tags: relevance:context
 Investigative Direction: Obtain the offer messages between Atlas and the host's PR representative and ask Atlas who proposed and who funded the amounts.
@@ -2091,7 +2091,7 @@ Claim: The host says Matt Robinson, on returning to the apartment Tyler shared w
 Transcript Snippet: Matt Robinson uh when he went back to the apartment that Tyler Robinson shared with Lance discovered that a bed that was not in his son's room, a dog bed was put into his son's room.
 
 Anchored Artifacts: 
-Mentions: N-776, N-40, N-54, N-3
+Mentions: N-775, N-40, N-54, N-3
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.
@@ -2107,7 +2107,7 @@ Claim: The host says that Matt Robinson suspected the feds had staged his son's 
 Transcript Snippet: it would make more sense that this would be Lance's bed, Lance's big dog bed, that Lance was embodying this persona.
 
 Anchored Artifacts: 
-Mentions: N-54, N-776, N-3
+Mentions: N-54, N-775, N-3
 Related Nodes: N-10143, N-10790
 Tags: relevance:context
 Investigative Direction: Compare the dog bed's location and any room photographs with the apartment layout; interview Matt Robinson.
@@ -2123,7 +2123,7 @@ Claim: The host says that, among things she learned in October, the idea that Ma
 Transcript Snippet: this whole lie that Matt Robinson believed his son was guilty.
 
 Anchored Artifacts: 
-Mentions: N-776, N-40, N-3
+Mentions: N-775, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Compare the host's source with public accounts of what Matt Robinson told investigators.
@@ -2446,7 +2446,7 @@ Claim: The host reads a post by Dan Crenshaw saying that the market does not car
 Transcript Snippet: The market doesn't care what you think. Something should cost. Only communists care.
 
 Anchored Artifacts: A-2262.5
-Mentions: N-926
+Mentions: N-925
 Related Nodes: N-10789
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
@@ -2509,7 +2509,7 @@ Claim: The host describes Rabbi Shmuley Boteach (rendered "Shmuley" in the trans
 Transcript Snippet: Constantly harassing people, threatening lawsuits.
 
 Anchored Artifacts: A-2264.1
-Mentions: N-927, N-3
+Mentions: N-926, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the lawsuit threats the host refers to, if any, from court dockets or press reports.
 

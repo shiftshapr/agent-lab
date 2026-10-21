@@ -1701,8 +1701,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in two historical assertions by the host.",
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-902",
+      "ref": "N-902",
       "name": "Eric Weinstein",
       "type": "person",
       "description": "Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.",
@@ -2132,8 +2132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-904",
-      "ref": "N-904",
+      "@id": "N-903",
+      "ref": "N-903",
       "name": "Rick Rubin",
       "type": "person",
       "description": "Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.",
@@ -2149,8 +2149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-905",
-      "ref": "N-905",
+      "@id": "N-904",
+      "ref": "N-904",
       "name": "John Lewis",
       "type": "person",
       "description": "Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).",
@@ -2166,8 +2166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-905",
+      "ref": "N-905",
       "name": "MrBeast",
       "type": "person",
       "description": "YouTuber (transcribed \"Mr. Beast\") whose parents the host says are high up in the military.",
@@ -3091,7 +3091,7 @@
       "transcript_snippet": "Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.",
       "mentions_person_refs": [
         "N-3",
-        "N-903"
+        "N-902"
       ]
     },
     {
@@ -3110,7 +3110,7 @@
       "transcript_snippet": "Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.",
       "mentions_person_refs": [
         "N-3",
-        "N-904"
+        "N-903"
       ]
     },
     {
@@ -3716,7 +3716,7 @@
       "transcript_snippet": "the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis",
       "mentions_person_refs": [
         "N-3",
-        "N-905"
+        "N-904"
       ]
     },
     {
@@ -3737,7 +3737,7 @@
       "transcript_snippet": "Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.",
       "mentions_person_refs": [
         "N-3",
-        "N-906"
+        "N-905"
       ]
     },
     {
@@ -3857,7 +3857,7 @@
       "transcript_snippet": "everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.",
       "mentions_person_refs": [
         "N-3",
-        "N-906"
+        "N-905"
       ]
     },
     {
@@ -4068,7 +4068,7 @@
       "transcript_snippet": "the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us",
       "mentions_person_refs": [
         "N-3",
-        "N-708"
+        "N-707"
       ]
     },
     {
@@ -4804,7 +4804,7 @@
       "transcript_snippet": "it's a typical federal maneuver,&nbsp;&nbsp; by the way, to kill someone like Martin Luther&nbsp; King or JFK and then they get a holiday.",
       "mentions_person_refs": [
         "N-3",
-        "N-708"
+        "N-707"
       ]
     },
     {

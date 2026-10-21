@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 23bb408e2b2afb32cf5df1e5348b130e6dfd95e02867b817907272ad2bf41bed
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-928, N-929, N-11363
+  - Tip-minted Nodes (supplement_2026-10f): N-927, N-928, N-11363
   - Hole-minted Nodes (reintro-ep145): N-281, N-10885
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12448–C-12532
-  - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-660, N-871, N-927, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262
+  - Reused Nodes Appearing: N-10814, N-10815, N-10816, N-18, N-22, N-30, N-58, N-118, N-154, N-155, N-178, N-190, N-375, N-486, N-659, N-870, N-926, N-10000, N-10024, N-10026, N-10235, N-10386, N-10661, N-10888, N-10900, N-11191, N-11195, N-11262
  - New Nodes Introduced: N-10814, N-10815, N-10816
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-484
  - (see registers)
@@ -530,7 +530,7 @@ Taylor Swift; referenced in the Baldoni litigation account.
 
 ---
 
-**N-660** Ivanka Trump
+**N-659** Ivanka Trump
 
 Ivanka Trump; the host says she was in Iceland weeks earlier.
 
@@ -538,7 +538,7 @@ Ivanka Trump; the host says she was in Iceland weeks earlier.
 
 ---
 
-**N-871** Britney Spears
+**N-870** Britney Spears
 
 Britney Spears; the host's comparison for media-driven breakdown.
 
@@ -642,7 +642,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-927** Rabbi Shmuley Boteach
+**N-926** Rabbi Shmuley Boteach
 
 First named by the host at 00:00:01 in episode 145 (as "Rabbi Shmuley").
 
@@ -659,7 +659,7 @@ Tax-resolution firm advertised in the sponsor read at 00:40:51 in episode 145.
 
 ---
 
-**N-928** Dan Steiner
+**N-927** Dan Steiner
 
 First named by the host at 00:25:04 in episode 145. President of Pre-Born, per the sponsor read.
 
@@ -667,7 +667,7 @@ First named by the host at 00:25:04 in episode 145. President of Pre-Born, per t
 
 ---
 
-**N-929** Sarah Rogers
+**N-928** Sarah Rogers
 
 First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jennica Pounds.
 
@@ -838,7 +838,7 @@ Claim Timestamp: 00:33:25
 Claim: Per Blake Neff's post the host shows, Neff wrote "My friend Sarah Rogers is one of Charlie's favorite Trump nominees" and that she had been sworn in as Under Secretary for Public Diplomacy.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-159, N-929, N-1
+Mentions: N-159, N-928, N-1
 Related Nodes:
 Investigative Direction: Retrieve the Blake Neff post directly; verify quoted text.
 
@@ -851,7 +851,7 @@ Claim Timestamp: 00:33:25
 Claim: Per Blake Neff's post the host reads, Sarah Rogers was confirmed a week earlier and sworn in the previous Friday as Under Secretary for Public Diplomacy at the State Department.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-929, N-159
+Mentions: N-928, N-159
 Related Nodes:
 Investigative Direction: Cross-reference Senate confirmation records and State Department announcement archives.
 
@@ -864,7 +864,7 @@ Claim Timestamp: 00:32:35
 Claim: The host says Jennica Pounds got paranoid that leaked documents were a setup to charge her with a crime, and then revealed that Sarah Rogers, Under Secretary at the State Department, was leaking to her.
 
 Anchored Artifacts: A-2314.1
-Mentions: N-281, N-929
+Mentions: N-281, N-928
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.
 
@@ -916,7 +916,7 @@ Claim Timestamp: 00:35:22
 Claim: The host says the narrative against her investigation into the Charlie Kirk assassination is, as she puts it, backed by the State Department (Sarah Rogers), the Department of War (Jennica Pounds), Blake Neff and Andrew Kolvet allies, and she guesses Bill Ackman may be funding Pounds.
 
 Anchored Artifacts: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1
-Mentions: N-14, N-1, N-37, N-159, N-929, N-281
+Mentions: N-14, N-1, N-37, N-159, N-928, N-281
 Related Nodes: N-10814
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
@@ -929,7 +929,7 @@ Claim: The host says she saw Rabbi Shmuley, Ivanka Trump and Jared Kushner were 
 Transcript Snippet: I saw Rumpelstiltskin, known to some people as Rabbi Shmuley, up in Iceland as well as Ivanka and Jared Kushner just before we were going to go, a couple of weeks before
 
 Anchored Artifacts: 
-Mentions: N-927, N-660, N-178, N-3
+Mentions: N-926, N-659, N-178, N-3
 Tags: relevance:tangential
 Investigative Direction: Public posts, photos or Icelandic press placing Shmuley Boteach, Ivanka Trump and Jared Kushner in Iceland in the weeks before the episode.
 
@@ -977,7 +977,7 @@ Claim: The host says Iceland had effectively chased Rabbi Shmuley out of the cou
 Transcript Snippet: I was especially excited after they effectively chased Rabbi Shmuley out weeks earlier.
 
 Anchored Artifacts: 
-Mentions: N-927, N-3
+Mentions: N-926, N-3
 Supports: C-12006
 Tags: relevance:tangential
 Investigative Direction: The Iceland video of the confrontation with Shmuley Boteach and Icelandic news coverage of his visit and departure.
@@ -1070,7 +1070,7 @@ Claim: The host says that on reflection she believes there was a very obvious an
 Transcript Snippet: there was a very obvious and intentional effort to drive me to the point of insanity
 
 Anchored Artifacts: 
-Mentions: N-3, N-871
+Mentions: N-3, N-870
 Tags: relevance:context
 Investigative Direction: Examples of coordinated media or influencer pressure on the host after September 2025; any documented funding or coordination behind it.
 
@@ -1382,7 +1382,7 @@ Claim: In the sponsor read, the host says Pre-Born president Dan Steiner reports
 Transcript Snippet: more than 50,000 babies have been saved from abortion
 
 Anchored Artifacts: A-3257.1
-Mentions: N-928
+Mentions: N-927
 Related Nodes: N-11191
 Tags: relevance:tangential
 Investigative Direction: Pre-Born's own reporting; this is a sponsor claim.
@@ -1398,7 +1398,7 @@ Claim: In the sponsor read, the host says it costs $28 to provide one ultrasound
 Transcript Snippet: It costs just $28 to provide one life-saving ultrasound and $15,000 can place an ultrasound machine in a pregnancy clinic
 
 Anchored Artifacts: A-3257.1
-Mentions: N-928
+Mentions: N-927
 Related Nodes: N-11191
 Supports: C-3302
 Tags: relevance:tangential
@@ -1572,7 +1572,7 @@ Claim: The host says Pounds got paranoid that documents State Department officia
 Transcript Snippet: she thought that she was being set up. That they were leaking her documents so that they could charge her with a crime.
 
 Anchored Artifacts: 
-Mentions: N-281, N-929
+Mentions: N-281, N-928
 Related Nodes: N-10814
 Supports: C-12501
 Tags: relevance:core
@@ -1589,7 +1589,7 @@ Claim: The host says Sarah Rogers is close friends with Blake Neff, and shows a 
 Transcript Snippet: Sarah Rogers just happens to be besties with Blake Neff.
 
 Anchored Artifacts: A-3259.1
-Mentions: N-929, N-159
+Mentions: N-928, N-159
 Supports: C-12504
 Tags: relevance:core
 Investigative Direction: Neff's own post calling her his friend, and the photograph shown; their public association.
@@ -1605,7 +1605,7 @@ Claim: The host concludes, from Blake Neff's post about Sarah Rogers, that Turni
 Transcript Snippet: So, now we realize that Turning Point USA is working with the State Department.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-159, N-929
+Mentions: N-159, N-928
 Related Nodes: N-10000, N-10814
 Supports: C-12512
 Tags: relevance:core

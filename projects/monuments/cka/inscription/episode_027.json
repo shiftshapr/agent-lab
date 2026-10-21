@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Tony Burke",
       "type": "person",
       "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.",
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
+      "@id": "N-846",
+      "ref": "N-846",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
@@ -2357,7 +2357,7 @@
       "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
       "mentions_person_refs": [
         "N-3",
-        "N-846"
+        "N-845"
       ]
     },
     {
@@ -3176,7 +3176,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-229",
-        "N-603"
+        "N-602"
       ]
     },
     {
@@ -3623,7 +3623,7 @@
         "N-3",
         "N-130",
         "N-39",
-        "N-847"
+        "N-846"
       ]
     },
     {

@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a1f3c6dfa924e1a32b03c50b03b00f101fbd284665dcd6d81eb0bac4b30dbf95
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-891
+  - Tip-minted Nodes (supplement_2026-10e): N-890
   - Hole-minted Nodes (reintro-ep093): N-348
-  - Tip-minted Nodes (reintro-ep093): N-649
+  - Tip-minted Nodes (reintro-ep093): N-648
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-8288–C-8363
   - New Nodes Introduced: N-10616, N-10617, N-10618, N-10619, N-10622
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-237, N-270, N-278, N-500, N-595, N-660, N-708, N-889, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-343
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10620, N-10621, N-5, N-9, N-14, N-19, N-28, N-33, N-36, N-40, N-47, N-54, N-66, N-97, N-237, N-270, N-278, N-500, N-594, N-659, N-707, N-888, N-10000, N-10023, N-10070, N-10110, N-10237, N-10340, N-10443, N-10539, N-10574, N-10598, N-10600, N-10601, N-10602, N-10607, N-10608, N-10613, N-10646, N-10694, N-10956, N-11054, N-11128, N-11182, N-343
   - (see registers)
 
 ## 2. Executive Summary
@@ -415,7 +415,7 @@ Video Timestamp: 00:07:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8295, N-2, N-889*
+*Related: C-8295, N-2, N-888*
 
 ---
 
@@ -749,7 +749,7 @@ Victor Ostrovsky; former Mossad officer whose claims about Epstein the host rela
 
 ---
 
-**N-595** Druski
+**N-594** Druski
 
 Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.
 
@@ -757,7 +757,7 @@ Druski; comedian whose video mocking Erika is cited as a factor in the cancellat
 
 ---
 
-**N-649** Marco Rubio
+**N-648** Marco Rubio
 
 Marco Rubio; a commenter says donors have chosen him for 2028.
 
@@ -765,7 +765,7 @@ Marco Rubio; a commenter says donors have chosen him for 2028.
 
 ---
 
-**N-660** Ivanka Trump
+**N-659** Ivanka Trump
 
 Ivanka Trump; the host says she attended the bridal shower.
 
@@ -773,7 +773,7 @@ Ivanka Trump; the host says she attended the bridal shower.
 
 ---
 
-**N-708** John F. Kennedy
+**N-707** John F. Kennedy
 
 John F. Kennedy; the host compares prosecution tactics to those after his killing.
 
@@ -957,7 +957,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-889** Bettina Anderson
+**N-888** Bettina Anderson
 
 First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.
 Aliases: Bettina
@@ -966,7 +966,7 @@ Aliases: Bettina
 
 ---
 
-**N-891** Adnan Khashoggi
+**N-890** Adnan Khashoggi
 
 First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.
 
@@ -1349,7 +1349,7 @@ Claim: The host says Erika Kirk flew into Palm Beach on Saturday evening for Bet
 Transcript Snippet: Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.
 
 Anchored Artifacts: A-3135.1
-Mentions: N-2, N-889, N-33, N-660
+Mentions: N-2, N-888, N-33, N-659
 Related Nodes: N-10616
 Tags: relevance:context
 Investigative Direction: Obtain the photos and event coverage of the shower and flight records for the Saturday arrival into Palm Beach.
@@ -1531,7 +1531,7 @@ Claim: The host reads a Daily Mail article in which a close confidant says Erika
 Transcript Snippet: The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.
 
 Anchored Artifacts: A-1991.1
-Mentions: N-595, N-2, N-3, N-1
+Mentions: N-594, N-2, N-3, N-1
 Related Nodes: N-10070, N-10616
 Tags: relevance:core
 Investigative Direction: Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.
@@ -1880,7 +1880,7 @@ Claim: The host says Victor Ostrovsky said the same thing, that Epstein was init
 Transcript Snippet: He was initially brought in regarding the Iran-Contra deal in the '80s.
 
 Anchored Artifacts: 
-Mentions: N-500, N-9, N-891
+Mentions: N-500, N-9, N-890
 Related Nodes: N-10023
 Supports: C-4815
 Tags: relevance:context
@@ -2013,7 +2013,7 @@ Claim: The host says the government wants to bring back old FBI tactics first pu
 Transcript Snippet: They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.
 
 Anchored Artifacts: A-1990
-Mentions: N-708, N-3
+Mentions: N-707, N-3
 Related Nodes: N-10620
 Tags: relevance:core
 Investigative Direction: Identify which comparison techniques the host means and any published validation or challenges to them.
@@ -2129,7 +2129,7 @@ Claim: The host says Baron Coleman said on his show that he thinks Erika cancele
 Transcript Snippet: It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Druski.
 
 Anchored Artifacts: 
-Mentions: N-330, N-595, N-2
+Mentions: N-330, N-594, N-2
 Related Nodes: N-10616
 Tags: relevance:context
 Investigative Direction: Review Coleman's broadcast and the Druski video timeline against the cancellation.

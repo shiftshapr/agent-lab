@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine Locastro (transcribed Katherine Locastro); named as a passenger on Erika's July 14 flight.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-675",
-      "ref": "N-675",
+      "@id": "N-674",
+      "ref": "N-674",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; Tyler Robinson's father, expected to testify about the gun.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-859",
-      "ref": "N-859",
+      "@id": "N-858",
+      "ref": "N-858",
       "name": "Frank Carni",
       "type": "person",
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
@@ -1928,7 +1928,7 @@
       "transcript_snippet": "The FBI was on the phone with Justin Streiff, Frank Carni, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
       "mentions_person_refs": [
         "N-15",
-        "N-859"
+        "N-858"
       ]
     },
     {
@@ -2277,7 +2277,7 @@
       "investigative_direction": "Check the witness list and any proffer on what Matt Robinson is expected to testify to.",
       "transcript_snippet": "They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.",
       "mentions_person_refs": [
-        "N-776",
+        "N-775",
         "N-40"
       ]
     },
@@ -2700,9 +2700,9 @@
       "transcript_snippet": "And that flight is she took with Katherine Locastro and Derek Niekerk and Jonathan Barcelo.",
       "mentions_person_refs": [
         "N-2",
-        "N-598",
+        "N-597",
         "N-418",
-        "N-675"
+        "N-674"
       ]
     },
     {

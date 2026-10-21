@@ -12,11 +12,11 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-751, N-753, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
+  - Tip-minted Nodes (supplement_2026-10): N-750, N-752, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13518–C-13644
   - New Nodes Introduced: N-10859, N-10861
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-271, N-224, N-266, N-7, N-270, N-159, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-190, N-217, N-227, N-331, N-361, N-378, N-489, N-506, N-535, N-666, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-752, N-10860, N-11080, N-226, N-11079, N-754
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-271, N-224, N-266, N-7, N-270, N-159, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-190, N-217, N-227, N-331, N-361, N-378, N-489, N-506, N-535, N-665, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-751, N-10860, N-11080, N-226, N-11079, N-753
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13524, C-13541, C-13542, C-13543, C-13544, C-13567, C-13568, C-13569, N-8, N-271, N-751*
+*Related: C-13524, C-13541, C-13542, C-13543, C-13544, C-13567, C-13568, C-13569, N-8, N-271, N-750*
 
 ---
 
@@ -1043,7 +1043,7 @@ Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
 ---
 
-**N-666** James Kaddis
+**N-665** James Kaddis
 
 Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Kaddis).
 
@@ -1323,7 +1323,7 @@ Organization whose finances are the subject of the missing money rumors.
 
 ---
 
-**N-751** Robin Ebmeyer
+**N-750** Robin Ebmeyer
 
 Node Type: Person
 First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.
@@ -1333,7 +1333,7 @@ Aliases (transcript spelling): Robin Ebmeyer.
 
 ---
 
-**N-752** Astrid Tuminez
+**N-751** Astrid Tuminez
 
 Node Type: Person
 First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tuminez.
@@ -1343,7 +1343,7 @@ Aliases (transcript spelling): Tuminez. The full name is not stated in this tran
 
 ---
 
-**N-753** Alana Minton
+**N-752** Alana Minton
 
 Node Type: Person
 First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.
@@ -1352,7 +1352,7 @@ First named by the host at 01:11:03 in episode 157 as the Canyon County prosecut
 
 ---
 
-**N-754** Claire Guinan
+**N-753** Claire Guinan
 
 Node Type: Person
 First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.
@@ -2001,7 +2001,7 @@ Claim: The host reads that UVU President Astrid Tuminez requested updates regard
 Transcript Snippet: UVU President Tuminez requested updates regarding event planning on the 31st.
 
 Anchored Artifacts: A-2802.4
-Mentions: N-752
+Mentions: N-751
 Related Nodes: N-10012
 Investigative Direction: Obtain the president's office request and the response it received.
 
@@ -2276,7 +2276,7 @@ Claim: The host reads that Crofts said she preferred that TPUSA manage online ti
 Transcript Snippet: She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.
 
 Anchored Artifacts: A-2802.6
-Mentions: N-8, N-751
+Mentions: N-8, N-750
 Related Nodes: N-11077
 Investigative Direction: Obtain Emer's statements to the review team on her reservations and the committee's decision rationale.
 
@@ -2776,7 +2776,7 @@ Claim: The host's timeline states that on July 14 Erika Kirk traveled aboard a p
 Transcript Snippet: On the 14th, Erika travels aboard a private flight to Long Beach, California.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-2, N-666
+Mentions: N-2, N-665
 Related Nodes: N-10264, N-10871
 Investigative Direction: Obtain the flight record and Calvary Chapel event listing for July 14.
 
@@ -2791,7 +2791,7 @@ Claim: The host says Erika Kirk gave a speech at James Kaddis' women's retreat t
 Transcript Snippet: she gives a speech that's pro-Israel about a call to arms despite what Charlie's going through.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-2, N-666, N-1
+Mentions: N-2, N-665, N-1
 Related Nodes: N-10264
 Investigative Direction: Obtain the recording or transcript of the speech at the retreat.
 
@@ -3096,7 +3096,7 @@ Claim: The host says Canyon County prosecuting attorney Alana Minton told the ju
 Transcript Snippet: the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light
 
 Anchored Artifacts: A-2457.1, A-2804.4
-Mentions: N-753, N-12
+Mentions: N-752, N-12
 Related Nodes: 
 Investigative Direction: Obtain the hearing transcript and dismissal order from the Canyon County court.
 
@@ -3353,7 +3353,7 @@ Claim: The host says that on June 26 Claire Guinan wrote her first article for J
 Transcript Snippet: on June 26th is when suddenly Claire Guinan writes her first article for Jezebel.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-754
+Mentions: N-753
 Related Nodes: N-10122, N-10117
 Investigative Direction: Check Ginan's byline history and the publication date of the Jezebel article.
 

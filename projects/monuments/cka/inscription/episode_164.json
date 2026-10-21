@@ -58,8 +58,8 @@
             "C-14159"
           ],
           "related_nodes": [
-            "N-957",
-            "N-958"
+            "N-955",
+            "N-956"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -76,7 +76,7 @@
             "C-14204"
           ],
           "related_nodes": [
-            "N-957"
+            "N-955"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -101,7 +101,7 @@
             "C-14162"
           ],
           "related_nodes": [
-            "N-957",
+            "N-955",
             "N-10839"
           ],
           "tags": [],
@@ -129,9 +129,9 @@
             "C-14170"
           ],
           "related_nodes": [
+            "N-955",
             "N-957",
-            "N-959",
-            "N-960"
+            "N-958"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -148,7 +148,7 @@
             "C-14172"
           ],
           "related_nodes": [
-            "N-959"
+            "N-957"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -167,8 +167,8 @@
           ],
           "related_nodes": [
             "N-41",
-            "N-959",
-            "N-961"
+            "N-957",
+            "N-959"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -185,8 +185,8 @@
             "C-14198"
           ],
           "related_nodes": [
-            "N-959",
-            "N-943"
+            "N-957",
+            "N-942"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -203,7 +203,7 @@
             "C-14204"
           ],
           "related_nodes": [
-            "N-959"
+            "N-957"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -238,7 +238,7 @@
           "related_nodes": [
             "N-7",
             "N-190",
-            "N-598",
+            "N-597",
             "N-4"
           ],
           "tags": [],
@@ -266,7 +266,7 @@
           ],
           "related_nodes": [
             "N-128",
-            "N-943",
+            "N-942",
             "N-132"
           ],
           "tags": [],
@@ -319,7 +319,7 @@
             "C-14209"
           ],
           "related_nodes": [
-            "N-962",
+            "N-960",
             "N-5"
           ],
           "tags": [],
@@ -337,7 +337,7 @@
             "C-14214"
           ],
           "related_nodes": [
-            "N-962",
+            "N-960",
             "N-11424"
           ],
           "tags": [],
@@ -773,8 +773,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Named in the Turek clip (transcribed \"Katherine LoCastro\") as arranging JD Vance's trip.",
@@ -790,8 +790,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-632",
-      "ref": "N-632",
+      "@id": "N-631",
+      "ref": "N-631",
       "name": "Hunter Biden",
       "type": "person",
       "description": "The host recalls his crack-and-stripper story as an analogy for the Cornell 7 case.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-943",
-      "ref": "N-943",
+      "@id": "N-942",
+      "ref": "N-942",
       "name": "Robbie Hild",
       "type": "person",
       "description": "Named as Shaner Broderick's companion and as in Tyler Clancy's friend group.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-957",
-      "ref": "N-957",
+      "@id": "N-955",
+      "ref": "N-955",
       "name": "Val Peterson",
       "type": "person",
       "description": "First named by the host at 00:04:18 in episode 164. UVU vice president, Utah state representative and retired National Guard brigadier general.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-958",
-      "ref": "N-958",
+      "@id": "N-956",
+      "ref": "N-956",
       "name": "Hank McIntire",
       "type": "person",
       "description": "First named by the host at 00:08:10 in episode 164. Utah National Guard spokesman quoted in the 2007 article on Peterson.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-959",
-      "ref": "N-959",
+      "@id": "N-957",
+      "ref": "N-957",
       "name": "Tyler Clancy",
       "type": "person",
       "description": "First named by the host at 00:13:28 in episode 164. Utah state representative and Provo police detective whom the host alleges disposed of a bloodied bag on September 10.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-960",
-      "ref": "N-960",
+      "@id": "N-958",
+      "ref": "N-958",
       "name": "Matt Schneck",
       "type": "person",
       "description": "First named by the host at 00:15:14 in episode 164. Read as head coach of BYU men's lacrosse in the article on Tyler Clancy (spelling unverified).",
@@ -936,8 +936,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-961",
-      "ref": "N-961",
+      "@id": "N-959",
+      "ref": "N-959",
       "name": "Wayne Niederhauser",
       "type": "person",
       "description": "First named by the host at 00:25:12 in episode 164. Outgoing Utah state homeless coordinator named in Governor Cox's post (transcribed \"Wayne Niederhauser\").",
@@ -955,8 +955,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-962",
-      "ref": "N-962",
+      "@id": "N-960",
+      "ref": "N-960",
       "name": "Katie Zacharia",
       "type": "person",
       "description": "First named by the host at 00:35:06 in episode 164. New White House press secretary replacing Karoline Leavitt.",
@@ -1274,7 +1274,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1300,7 +1300,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-959",
+        "N-957",
         "N-7"
       ]
     },
@@ -1325,7 +1325,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -1498,7 +1498,7 @@
       "investigative_direction": "UVU staff directory and Peterson's official title.",
       "transcript_snippet": "First up is a man named Val Peterson. He is incredibly important. He's a faculty member at UVU.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1519,7 +1519,7 @@
       "investigative_direction": "UVU faculty accounts and internal communications on the Turning Point event.",
       "transcript_snippet": "Uh he is allegedly, I'll say this part, allegedly decisively team turning point USA against his own faculty members.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1539,7 +1539,7 @@
       "investigative_direction": "UVU biography of Val Peterson.",
       "transcript_snippet": "So, Val started at UVU before it was UVU in June of 1987.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1559,7 +1559,7 @@
       "investigative_direction": "UVU organizational chart and budget documents.",
       "transcript_snippet": "Today he is officially the vice president of the administration and strategic relations. He oversees a budget of more than 50 million dollars.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1579,7 +1579,7 @@
       "investigative_direction": "Utah House of Representatives member roster.",
       "transcript_snippet": "he also currently serves in Utah's House of Representatives. Yeah. At the same time, he represents the 56th district from American Fork to Orem.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1597,7 +1597,7 @@
       "investigative_direction": "Utah National Guard service records and retirement announcement.",
       "transcript_snippet": "Most interestingly, Val Peterson is a brigadier general. For 30 years, he led the state's National Guard, particularly the state's military intelligence brigade",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1617,7 +1617,7 @@
       "investigative_direction": "The original 2007 article and Utah National Guard change-of-command records.",
       "transcript_snippet": "Peterson assumed command of the 300th Military Intelligence Brigade, a linguist and intelligence unit headquartered in Utah that has nearly 2,000 language specialist troops in six states.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1637,8 +1637,8 @@
       "investigative_direction": "The original 2007 article.",
       "transcript_snippet": "Major Hank McIntire, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch",
       "mentions_person_refs": [
-        "N-957",
-        "N-958"
+        "N-955",
+        "N-956"
       ]
     },
     {
@@ -1658,7 +1658,7 @@
       "investigative_direction": "The original 2007 article.",
       "transcript_snippet": "Peterson went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia where he gained a mastery of Spanish",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1680,7 +1680,7 @@
       "investigative_direction": "BYU degree records and UVU biography.",
       "transcript_snippet": "Employed by UVSC since 1987, Peterson is serving as the college's vice president for the administrative legislative affairs and he holds a master's and a doctoral degree from BYU.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1698,7 +1698,7 @@
       "investigative_direction": "Utah National Guard retirement records.",
       "transcript_snippet": "he was responsible as a brigadier general for training, readiness, administration, uniform code of military justice for six major army commands within the state of Utah.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1719,7 +1719,7 @@
       "investigative_direction": "UVU after-action report and Peterson's September 10 schedule.",
       "transcript_snippet": "on September 10th, Val Peterson was not at the university when Charlie Kirk was assassinated.",
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-1"
       ]
     },
@@ -1743,7 +1743,7 @@
       "investigative_direction": "The UVU after-action report and Peterson's phone records for September 10.",
       "transcript_snippet": "It tells us that at the time of the shooting, Peterson was approximately 45 minutes from campus.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1763,7 +1763,7 @@
       "investigative_direction": "Peterson's location records for September 10 and Guard base visitor logs.",
       "transcript_snippet": "do you know what actually is 45 minutes away from campus? Salt Lake City is. That's where the National Guard air base is. For clarity, I have no idea if Val Peterson was there.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1819,8 +1819,8 @@
       "investigative_direction": "LDS ward records and the article quoting Peterson.",
       "transcript_snippet": "he also served as the church leader to some BYU students.",
       "mentions_person_refs": [
-        "N-957",
-        "N-959"
+        "N-955",
+        "N-957"
       ]
     },
     {
@@ -1838,8 +1838,8 @@
       "investigative_direction": "Clancy's official legislative biography.",
       "transcript_snippet": "Tyler Clancy is very young, actually born in 1997.",
       "mentions_person_refs": [
-        "N-959",
-        "N-957"
+        "N-957",
+        "N-955"
       ]
     },
     {
@@ -1859,7 +1859,7 @@
       "investigative_direction": "The article the host shows and Utah legislative history records.",
       "transcript_snippet": "Tyler Clancy was the youngest person to serve in the Utah House of Representatives since 1834.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1879,8 +1879,8 @@
       "investigative_direction": "The original article.",
       "transcript_snippet": "was Clancy's church leader during his time at BYU and has helped the young lawmaker navigate the learning curve inherent in the legislative process.",
       "mentions_person_refs": [
-        "N-957",
-        "N-959"
+        "N-955",
+        "N-957"
       ]
     },
     {
@@ -1900,8 +1900,8 @@
       "investigative_direction": "BYU men's lacrosse rosters and coaching staff.",
       "transcript_snippet": "Clancy's reputation for community leadership was mirrored by the leadership role that he earned on the BYU lacrosse team",
       "mentions_person_refs": [
-        "N-959",
-        "N-960"
+        "N-957",
+        "N-958"
       ]
     },
     {
@@ -1922,7 +1922,7 @@
       "investigative_direction": "Provo Police Department personnel records for September 2025.",
       "transcript_snippet": "on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, Special Victims Unit.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1944,7 +1944,7 @@
       "investigative_direction": "The Instagram post and the awarding organization's records.",
       "transcript_snippet": "Today he received the Lrand and Beth Baker award for his service as a detective in Provo PD's special victims unit",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1962,7 +1962,7 @@
       "investigative_direction": "Clancy's response, if any, and the outreach record.",
       "transcript_snippet": "we reached out to Tyler Clancy for comment to confirm these facts ahead of today's show and we have not yet heard back.",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-3"
       ]
     },
@@ -1983,7 +1983,7 @@
       "investigative_direction": "Provo Police Department duty rosters for September 10-11, 2025.",
       "transcript_snippet": "Tyler Clancy was in fact on duty at the as a Provo police officer on September 11th.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -2003,7 +2003,7 @@
       "investigative_direction": "Timpanogos hospital security logs and Provo police dispatch records.",
       "transcript_snippet": "He was allegedly at Timpanogos um hospital shortly after Charlie arrived.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -2023,7 +2023,7 @@
       "investigative_direction": "Police dispatch records and airport arrival records for Erika Kirk on September 10.",
       "transcript_snippet": "it was Tyler Clancy who was dispatched from Timpanogos uh with officer with another officer to escort Erika from the airport.",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-2"
       ]
     },
@@ -2045,7 +2045,7 @@
       "investigative_direction": "Provo police vehicle logs and statements from Turning Point staff on transport that day.",
       "transcript_snippet": "I'm told he had some Turning Point USA members, staff members or affiliates in his car",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -2066,7 +2066,7 @@
       "investigative_direction": "Provo police evidence logs for September 10 and Clancy's own account.",
       "transcript_snippet": "one of those Turning Point members or affiliates, guests, um, left a bloodied bag in Tyler Clancy's car, and Tyler then disposed of that bloodied bag on the same day.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -2173,7 +2173,7 @@
       "mentions_person_refs": [
         "N-7",
         "N-190",
-        "N-598",
+        "N-597",
         "N-4",
         "N-1"
       ]
@@ -2357,7 +2357,7 @@
       "investigative_direction": "Identity of the officer in Turek's car and Clancy's assignment records.",
       "transcript_snippet": "that he willfully threw out this bloodied bag. And I'm inclined to believe that was Tyler Clancy.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -2376,7 +2376,7 @@
       "transcript_snippet": "Very shortly after the assassination, Governor Cox promoted him, allowing him to achieve another Utah state first.",
       "mentions_person_refs": [
         "N-41",
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -2396,7 +2396,7 @@
       "investigative_direction": "The governor's post and press release.",
       "transcript_snippet": "The appointment was announced on October 30th.",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-41"
       ]
     },
@@ -2418,7 +2418,7 @@
       "transcript_snippet": "Thank you to Wayne Niederhauser, our outgoing state homeless coordinator, for his service and congratulations on his retirement",
       "mentions_person_refs": [
         "N-41",
-        "N-961"
+        "N-959"
       ]
     },
     {
@@ -2436,7 +2436,7 @@
       "investigative_direction": "Social media connections and BYU lacrosse rosters.",
       "transcript_snippet": "you will never guess who I learned that Tyler Clancy is allegedly best friends with",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-128"
       ]
     },
@@ -2458,7 +2458,7 @@
       "transcript_snippet": "A Shaner Broderick swoops in with his friends Robbie Hild and Gerno who volunteered according to Shaner I should say to retrace the steps of the alleged killer.",
       "mentions_person_refs": [
         "N-128",
-        "N-943",
+        "N-942",
         "N-132"
       ]
     },
@@ -2499,9 +2499,9 @@
       "investigative_direction": "BYU men's lacrosse rosters and the source of the photo.",
       "transcript_snippet": "Tyler Clancy and Shaner are best friends. He's in the same friend group with Robbie Hild because the two of them played lacrosse with one another at BYU.",
       "mentions_person_refs": [
-        "N-959",
+        "N-957",
         "N-128",
-        "N-943"
+        "N-942"
       ]
     },
     {
@@ -2627,8 +2627,8 @@
       "investigative_direction": "Utah legislative conflict-of-interest disclosure forms for both men.",
       "transcript_snippet": "it's allowed in Utah by the way. They're not breaking the law by doing this.",
       "mentions_person_refs": [
-        "N-959",
-        "N-957"
+        "N-957",
+        "N-955"
       ]
     },
     {
@@ -2664,7 +2664,7 @@
       "investigative_direction": "White House announcement of the appointment.",
       "transcript_snippet": "now we have someone whose name is Katie Zacharia. Okay, it was recently announced that she would have taken over Karoline Leavitt.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-280"
       ]
     },
@@ -2685,7 +2685,7 @@
       "investigative_direction": "Rally coverage from Youngstown.",
       "transcript_snippet": "as well as special guest Jake Paul and football legend Jon Gruden.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-5"
       ]
     },
@@ -2706,7 +2706,7 @@
       "investigative_direction": "Department of War announcement.",
       "transcript_snippet": "the Department of War has officially selected Cleveland, Ohio as the new home for the US Navy's submarine component repair center.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-5"
       ]
     },
@@ -2727,7 +2727,7 @@
       "investigative_direction": "Full video of the briefing.",
       "transcript_snippet": "She's just reading the entire thing, including her own name.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2745,7 +2745,7 @@
       "investigative_direction": "Reporting on how Zacharia was chosen.",
       "transcript_snippet": "I'm going to guess actually there's going to be like donors somehow involved in that.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2766,7 +2766,7 @@
       "transcript_snippet": "It's like with Erika Kirk when Eric Kirk says that, you know, she was in law school, you know, or rather that she that she has a doctorate. It's hard to confirm that.",
       "mentions_person_refs": [
         "N-2",
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2786,7 +2786,7 @@
       "investigative_direction": "Law school graduation records and bar admission databases.",
       "transcript_snippet": "Well, Katie, they can't confirm that she graduated law school.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2807,7 +2807,7 @@
       "investigative_direction": "Pepperdine enrollment verification for both women.",
       "transcript_snippet": "Well, I studied some law at uh Pepperdine University, same university Erika went to for a year, which we couldn't confirm whether she was in person or just doing it online.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-2"
       ]
     },
@@ -2830,7 +2830,7 @@
       "investigative_direction": "State bar admission records.",
       "transcript_snippet": "it reads in a statement said she quote practiced international transaction law with all the appropriate credentials end quote.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2882,7 +2882,7 @@
       "investigative_direction": "The host's Hunter Biden interview.",
       "transcript_snippet": "this reminds me of sitting down with Hunter Biden he agreed to do crack at a Motel 8 Motel 7 whatever it was he agreed to have a stripper And then that stripper robbed him.",
       "mentions_person_refs": [
-        "N-632"
+        "N-631"
       ]
     },
     {
@@ -3062,7 +3062,7 @@
       "investigative_direction": "Any documented contact between Erika Kirk and Zacharia.",
       "transcript_snippet": "Obviously, the new White House press secretary is being coached by Erika.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-2"
       ]
     },

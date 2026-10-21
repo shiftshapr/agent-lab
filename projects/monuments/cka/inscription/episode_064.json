@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-854",
-      "ref": "N-854",
+      "@id": "N-853",
+      "ref": "N-853",
       "name": "Bob Ferguson",
       "type": "person",
       "description": "First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.",
@@ -1938,7 +1938,7 @@
       "transcript_snippet": "His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.",
       "mentions_person_refs": [
         "N-470",
-        "N-854",
+        "N-853",
         "N-3"
       ]
     },

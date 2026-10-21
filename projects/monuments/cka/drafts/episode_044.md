@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-878, N-879, N-11282, N-11283, N-11284, N-11285, N-11286, N-11288
+  - Tip-minted Nodes (supplement_2026-10e): N-877, N-878, N-11282, N-11283, N-11284, N-11285, N-11286, N-11288
   - Hole-minted Nodes (reintro-ep044): N-538
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3800–C-3900
@@ -663,7 +663,7 @@ Organization advertised in the sponsor read.
 
 ---
 
-**N-878** George H.W. Bush
+**N-877** George H.W. Bush
 
 First named by the host at 00:05:09 in episode 44. President who created JTF-6 and ran on a war on drugs; heard in a clip.
 
@@ -671,7 +671,7 @@ First named by the host at 00:05:09 in episode 44. President who created JTF-6 a
 
 ---
 
-**N-879** Ronald Reagan
+**N-878** Ronald Reagan
 
 First named by the host at 00:05:09 in episode 44. President during Iran-Contra, mentioned for historical context.
 
@@ -1093,7 +1093,7 @@ Claim: The host says the 20-year-old Harry was attached to the brand new Joint T
 Transcript Snippet: And this new command was being created down at the border uh by President George HW Bush. And it was presented to the American public as uh look a war on drugs with the help of Colin Powell.
 
 Anchored Artifacts: 
-Mentions: N-878, N-538, N-318
+Mentions: N-877, N-538, N-318
 Related Nodes: N-11283
 Tags: relevance:context
 Investigative Direction: Check Department of Defense and Army histories of JTF-6 (established 1989) for its creation order, mandate and the role attributed to Colin Powell.
@@ -1109,7 +1109,7 @@ Claim: The host says the Iran-Contra affair, under Reagan with George H.W. Bush 
 Transcript Snippet: for those of you who are not read into massive CIA scandals, this was the scandal when the American public uh got to learn that our CIA was actually trafficking drugs and weapons throughout South America.
 
 Anchored Artifacts: 
-Mentions: N-879, N-878
+Mentions: N-878, N-877
 Related Nodes: N-11282
 Tags: relevance:context
 Investigative Direction: Compare with the Tower Commission and Walsh Final Report on what Iran-Contra established regarding drugs versus weapons.
@@ -1141,7 +1141,7 @@ Claim: The host says that after Iran-Contra, George H.W. Bush ran for president 
 Transcript Snippet: He had to really hit hard on drugs, drugs at the border, and declare that this White House was was going to do all that it could to stop these drugs from flooding into America.
 
 Anchored Artifacts: 
-Mentions: N-878
+Mentions: N-877
 Related Nodes: N-11282
 Tags: relevance:context
 Investigative Direction: Review Bush campaign and September 1989 national drug-control speech records for border-focused commitments.
@@ -1157,7 +1157,7 @@ Claim: In the played clip, George H.W. Bush says the crack cocaine was seized a 
 Transcript Snippet: This is crack cocaine seized a few days ago by drug enforcement agents in a park just across the street from the White House.
 
 Anchored Artifacts: A-1521.1
-Mentions: N-878
+Mentions: N-877
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the original September 5, 1989 address and the DEA arrest record for the Lafayette Park purchase.

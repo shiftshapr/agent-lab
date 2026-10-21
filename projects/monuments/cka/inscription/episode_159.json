@@ -1956,8 +1956,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-569",
-      "ref": "N-569",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Faith Kates",
       "type": "person",
       "description": "Named by the host in connection with the modeling group tied to Brunel.",
@@ -1973,8 +1973,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kaddis).",
@@ -3411,8 +3411,8 @@
         "N-24",
         "N-89",
         "N-95",
-        "N-848",
-        "N-888"
+        "N-847",
+        "N-887"
       ]
     },
     {
@@ -3890,7 +3890,7 @@
       "transcript_snippet": "Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Kaddis' Calvary Chapel Church for the Women's Summer of Psalms retreat.",
       "mentions_person_refs": [
         "N-2",
-        "N-666"
+        "N-665"
       ]
     },
     {

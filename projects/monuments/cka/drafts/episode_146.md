@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-789, N-11148, N-11150
+  - Tip-minted Nodes (supplement_2026-10b): N-788, N-11148, N-11150
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12533–C-12638
   - New Nodes Introduced: N-10819
-  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-106, N-117, N-159, N-217, N-261, N-367, N-485, N-504, N-506, N-861, N-607, N-666, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149, N-281, N-10885
+  - Reused Nodes Appearing: N-10818, N-5, N-7, N-9, N-17, N-22, N-54, N-55, N-89, N-97, N-106, N-117, N-159, N-217, N-261, N-367, N-485, N-504, N-506, N-860, N-606, N-665, N-10000, N-10013, N-10015, N-10019, N-10040, N-10048, N-10077, N-10131, N-10148, N-10169, N-10193, N-10198, N-10248, N-10264, N-10324, N-10398, N-10570, N-10679, N-10712, N-10715, N-10729, N-10888, N-10897, N-10969, N-11057, N-11065, N-11070, N-10817, N-11149, N-281, N-10885
   - (see registers)
 
 # Episode 146 Ledger Summary
@@ -506,7 +506,7 @@ Officer Christopher Bagley (host says Baggley); hearing testimony relayed by hea
 
 ---
 
-**N-545** Tracy Martin
+**N-544** Tracy Martin
 
 Tracy Martin; named in the courthouse segment as Erika's PR.
 
@@ -514,7 +514,7 @@ Tracy Martin; named in the courthouse segment as Erika's PR.
 
 ---
 
-**N-861** David Hull
+**N-860** David Hull
 
 David Hull; officer named in the hearing hearsay example.
 
@@ -522,7 +522,7 @@ David Hull; officer named in the hearing hearsay example.
 
 ---
 
-**N-607** Graham Allen
+**N-606** Graham Allen
 
 Graham Allen; named as absent and as a Department of War consultant.
 
@@ -530,7 +530,7 @@ Graham Allen; named as absent and as a Department of War consultant.
 
 ---
 
-**N-666** James Kaddis
+**N-665** James Kaddis
 
 James Kaddis (James Kaddis); pastor spotted at the courthouse.
 
@@ -762,7 +762,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-789** Todd Starnes
+**N-788** Todd Starnes
 
 First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.
 
@@ -1008,7 +1008,7 @@ Claim Timestamp: 00:02:52
 Claim: The host says courthouse cameras captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis arriving at the courthouse for Judge Graf's decision, and that Erika Kirk was present but was not captured walking in.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
-Mentions: N-1, N-2, N-186, N-14, N-545, N-666
+Mentions: N-1, N-2, N-186, N-14, N-544, N-665
 
 Related Nodes:
 
@@ -1056,7 +1056,7 @@ Claim: The host says the Turning Point USA influencers, such as Graham Allen and
 Transcript Snippet: No Graham Allen, no Benny Johnson to tell us how overwhelmed we should be.
 
 Anchored Artifacts: 
-Mentions: N-3, N-607, N-89
+Mentions: N-3, N-606, N-89
 Related Nodes: N-10000, N-11065
 Tags: relevance:core
 Investigative Direction: Compare courtroom pool footage and attendee lists from decision day against the July preliminary hearing sign-in or press seating.
@@ -1072,7 +1072,7 @@ Claim: The host says Stacy Sheridan is the head of Turning Point USA donations a
 Transcript Snippet: Head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad. She does Erika's PR dirty work.
 
 Anchored Artifacts: A-2326.2
-Mentions: N-186, N-545, N-2
+Mentions: N-186, N-544, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff and org records for Sheridan's title and Martin's contracted or informal PR role for Erika Kirk.
@@ -1088,7 +1088,7 @@ Claim: The host says Pastor James Kaddis is the senior pastor of Calvary Chapel 
 Transcript Snippet: He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.
 
 Anchored Artifacts: A-2326.4
-Mentions: N-666, N-2
+Mentions: N-665, N-2
 Related Nodes: N-10398, N-10264
 Tags: relevance:context
 Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Kaddis (transcript spelling).
@@ -1104,7 +1104,7 @@ Claim: The host says Kaddis hosts a show with Erika Kirk tied to what the host c
 Transcript Snippet: He also hosts a show with her with that like fledgling, you know, fashion brand that she has, BIBLEin365.
 
 Anchored Artifacts: A-2326.4
-Mentions: N-666, N-2
+Mentions: N-665, N-2
 Tags: relevance:context
 Investigative Direction: Identify the show and brand by name and confirm Kaddis' role from the brand's own channels.
 
@@ -1494,7 +1494,7 @@ Claim: In an audio-only Fox News interview with Todd Starnes, Jack Hibbs says hi
 Transcript Snippet: my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, "Charlie's just been shot.
 
 Anchored Artifacts: A-2323.1
-Mentions: N-208, N-246, N-789, N-1
+Mentions: N-208, N-246, N-788, N-1
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.
@@ -2003,7 +2003,7 @@ Claim: The host says that at this stage officers such as Bagley or Hull can get 
 Transcript Snippet: when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.
 
 Anchored Artifacts: 
-Mentions: N-506, N-861, N-40
+Mentions: N-506, N-860, N-40
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Read the hearing transcript of Bagley and Hull's testimony for the roadside-vehicle statement and its source.
@@ -2326,7 +2326,7 @@ Claim: The host says Graham Allen was working as a consultant for the Department
 Transcript Snippet: Even Graham Allen, I told you that he's uh he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them.
 
 Anchored Artifacts: 
-Mentions: N-607, N-3
+Mentions: N-606, N-3
 Related Nodes: N-10888, N-10000
 Tags: relevance:core
 Investigative Direction: Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.

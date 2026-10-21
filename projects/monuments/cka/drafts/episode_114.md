@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep114): N-10724, N-10863
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-674, N-10969, N-10970
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-598, N-644, N-666, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-675
+  - Tip-minted Nodes (skeleton): N-673, N-10969, N-10970
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-190, N-217, N-265, N-266, N-278, N-298, N-361, N-378, N-418, N-433, N-597, N-643, N-665, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-674
   - Claim Range: C-9867–C-9925
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9867, C-9868, C-9869, N-22, N-644, N-378, N-69, N-104, N-265, N-5*
+*Related: C-9867, C-9868, C-9869, N-22, N-643, N-378, N-69, N-104, N-265, N-5*
 
 ---
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:07:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9872, C-9873, N-674, N-378, N-104, N-10006, N-10014*
+*Related: C-9872, C-9873, N-673, N-378, N-104, N-10006, N-10014*
 
 **A-2647.3** Text exchange between Tucker Carlson and Dan Bongino (displayed and read in Bongino's video)
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:20:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9893, N-2, N-666, N-10264, N-10970*
+*Related: C-9893, N-2, N-665, N-10264, N-10970*
 
 **A-2650.2** James Kaddis PragerU video (shown)
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9894, N-666, N-10131*
+*Related: C-9894, N-665, N-10131*
 
 ---
 
@@ -415,31 +415,31 @@ Transcript spelling "Bradley Hansell". His September 2025 SAM702 trip around For
 
 *Related: C-9910, C-9912, C-9913, C-9914, C-9916, C-9917, C-9918, A-2652.1, A-2653.1*
 
-**N-644** Mario Nawfal
+**N-643** Mario Nawfal
 
 First named by the host at 00:00:01 in episode 114. Interviewed Tucker Carlson in the viral clip about Butler. Aliases: Mario Nofl; Mario Knoff.
 
 *Related: C-9867, A-2646.1*
 
-**N-674** Brooke Singman
+**N-673** Brooke Singman
 
 First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brooke Singman.
 
 *Related: C-9872, A-2647.2*
 
-**N-598** Katherine Locastro
+**N-597** Katherine Locastro
 
 First named by the host at 00:19:42 in episode 114. Young TPUSA employee, once Mikey McCoy's assistant, on Erika Kirk's July 14 Long Beach flight. Aliases: Katherine Loccastro.
 
 *Related: C-9890*
 
-**N-675** Jonathan Barcelo
+**N-674** Jonathan Barcelo
 
 First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.
 
 *Related: C-9890*
 
-**N-666** James Kaddis
+**N-665** James Kaddis
 
 First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.
 
@@ -651,7 +651,7 @@ Claim: In a clip from his interview with Mario Nawfal, Tucker Carlson says Trump
 Transcript Snippet: I know that Trump shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI
 
 Anchored Artifacts: A-2646.1
-Mentions: N-22, N-378, N-5, N-644
+Mentions: N-22, N-378, N-5, N-643
 Related Nodes: N-10588
 Investigative Direction: Obtain the Carlson–Bongino text exchanges Carlson says he still has, and FBI records on the Butler case status after January 2025.
 
@@ -726,7 +726,7 @@ Claim: Bongino shows a November 21 Fox News exclusive, which he says came from a
 Transcript Snippet: Here it was, November 21st, even before Tucker says he spoke to me in December. exclusive FBI concludes Trump shooter crooks acted alone after unprecedented global investigation.
 
 Anchored Artifacts: A-2647.2
-Mentions: N-378, N-674, N-104, N-22
+Mentions: N-378, N-673, N-104, N-22
 Related Nodes: N-10006, N-10014
 Investigative Direction: Retrieve the Fox News article of November 21 and the FBI statement it relies on.
 
@@ -992,7 +992,7 @@ Claim: The host says that on July 14, 2025 Erika Kirk took a private flight to L
 Transcript Snippet: This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro.
 
 Anchored Artifacts: A-2649.1
-Mentions: N-2, N-598, N-190, N-418, N-675, N-666
+Mentions: N-2, N-597, N-190, N-418, N-674, N-665
 Related Nodes: N-10571
 Investigative Direction: Obtain flight records for the July 14, 2025 Long Beach flight and the church event schedule.
 
@@ -1007,7 +1007,7 @@ Claim: The host says James Kaddis is "that icky guy who is Egyptian" and runs Tu
 Transcript Snippet: James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith.
 
 Anchored Artifacts: 
-Mentions: N-666
+Mentions: N-665
 Related Nodes: N-10398, N-10264, N-10000
 Investigative Direction: Check TPUSA Faith leadership listings and Calvary Chapel staff records.
 
@@ -1036,7 +1036,7 @@ Claim: In the clip played, Erika Kirk says the record of Israel is constant inva
 Transcript Snippet: the record of Israel is that there is constant invasion and warfare in the promised land.
 
 Anchored Artifacts: A-2650.1
-Mentions: N-2, N-666
+Mentions: N-2, N-665
 Related Nodes: N-10970, N-10264
 Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary Chapel women's retreat.
 
@@ -1051,7 +1051,7 @@ Claim: The host shows what she says is James Kaddis's PragerU video, in which he
 Transcript Snippet: This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.
 
 Anchored Artifacts: A-2650.2
-Mentions: N-666
+Mentions: N-665
 Related Nodes: N-10131
 Investigative Direction: Locate the PragerU video and confirm the speaker's identity.
 
@@ -1698,7 +1698,7 @@ Confidence: medium
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) did not match the transcript front matter (1:02:38); it has been set to 00:00:00–01:02:38. The skeleton's Ledger Summary claim-range lines and its stray template heading were replaced per spec.
 - **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Kaddis PragerU video; "This is literally his Prageru video" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).
 - **DIA scan**: one keyword hit, "more tips@candice. com" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself ("Why would you guys give me more tips?"). It directly follows her appeal to Kirk family members to "Reach out ... I'd keep it all off record". It is treated as a DIA beat (C-9925, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. "candace Owens. com" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark "I've received so many emails about him" relays past tips without a request and is not inscribed.
-- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-418 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcelo"). "James Kaddis" / "James Kaddis" is minted as N-666 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansell" maps to N-433 Bradley Hansell. "Brooke Singman" (named by Bongino) is minted as N-674 Brooke Singman. "Chris Ray" maps to N-265 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
+- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-418 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcelo"). "James Kaddis" / "James Kaddis" is minted as N-665 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansell" maps to N-433 Bradley Hansell. "Brooke Singman" (named by Bongino) is minted as N-673 Brooke Singman. "Chris Ray" maps to N-265 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
 - **Transcription ambiguities**: "Fort Huachuca" = Fort Huachuca; "ZAS" = SAS; "why Rei" = Yrefy; "Aster at the Aspen investor retreat" is kept as spoken; "FOI AFU" / "FOFU" / "fifu" are kept as spoken. The host's "Larry Loomer" is a deliberate nickname for Laura Loomer (N-60).
 - **Cross-episode links**: C-9895 Supports C-2668 (July 18 UVU request), C-9904 Supports C-79 (Hamptons intervention), C-9910 Supports C-9620 (Hansell's title). Possible links left out: C-5164 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-7996 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).
 - **Not inscribed as claims (admission test)**: "Erika's a psychopath" and related characterisations; "Trump betrayed Charlie Kirk"; "Trump is very vain"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-9877); Bongino "is just lying" and the demeanour reading; "Kash Patel ... constantly looks like he is in a state of terror"; "Trump, I believe, said yes" (kept only as context in C-9905); "the organization died with Charlie"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.

@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-574",
-      "ref": "N-574",
+      "@id": "N-573",
+      "ref": "N-573",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Named as Erika Kirk's cousin commenting that Erika is half Jewish.",
@@ -1449,8 +1449,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-716",
-      "ref": "N-716",
+      "@id": "N-715",
+      "ref": "N-715",
       "name": "Hank Berrien",
       "type": "person",
       "description": "First named by the host at 00:22:56 in episode 050. Pen name the host says Ben Shapiro's father uses for Daily Wire and earlier Breitbart articles.",
@@ -2382,7 +2382,7 @@
       "transcript_snippet": "How many more articles is his father going to write under a pen name, Hank Berrien of the Daily Wire, under the pen name, Hank Berrien, as he wrote while Ben was at Breitbart",
       "mentions_person_refs": [
         "N-97",
-        "N-716"
+        "N-715"
       ]
     },
     {
@@ -2956,7 +2956,7 @@
       "transcript_snippet": "Nicole Rothstein was like, \"I'm her cousin. She's half Jewish.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-574",
+        "N-573",
         "N-2"
       ]
     },

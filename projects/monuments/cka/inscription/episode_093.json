@@ -427,7 +427,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-889"
+            "N-888"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1351,8 +1351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Druski",
       "type": "person",
       "description": "Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-649",
-      "ref": "N-649",
+      "@id": "N-648",
+      "ref": "N-648",
       "name": "Marco Rubio",
       "type": "person",
       "description": "Marco Rubio; a commenter says donors have chosen him for 2028.",
@@ -1386,8 +1386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-660",
-      "ref": "N-660",
+      "@id": "N-659",
+      "ref": "N-659",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Ivanka Trump; the host says she attended the bridal shower.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host compares prosecution tactics to those after his killing.",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-888",
+      "ref": "N-888",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.",
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "Adnan Khashoggi",
       "type": "person",
       "description": "First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.",
@@ -2355,9 +2355,9 @@
       "transcript_snippet": "Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.",
       "mentions_person_refs": [
         "N-2",
-        "N-889",
+        "N-888",
         "N-33",
-        "N-660"
+        "N-659"
       ]
     },
     {
@@ -2630,7 +2630,7 @@
       "investigative_direction": "Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.",
       "transcript_snippet": "The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.",
       "mentions_person_refs": [
-        "N-595",
+        "N-594",
         "N-2",
         "N-3",
         "N-1"
@@ -3156,7 +3156,7 @@
       "mentions_person_refs": [
         "N-500",
         "N-9",
-        "N-891"
+        "N-890"
       ]
     },
     {
@@ -3351,7 +3351,7 @@
       "investigative_direction": "Identify which comparison techniques the host means and any published validation or challenges to them.",
       "transcript_snippet": "They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.",
       "mentions_person_refs": [
-        "N-708",
+        "N-707",
         "N-3"
       ]
     },
@@ -3522,7 +3522,7 @@
       "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Druski.",
       "mentions_person_refs": [
         "N-330",
-        "N-595",
+        "N-594",
         "N-2"
       ]
     },

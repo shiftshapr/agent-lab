@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13292–C-13367
   - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10846
-  - Reused Nodes Appearing: N-2, N-14, N-22, N-159, N-25, N-10840, N-18, N-69, N-271, N-330, N-588, N-592, N-732, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313
+  - Reused Nodes Appearing: N-2, N-14, N-22, N-159, N-25, N-10840, N-18, N-69, N-271, N-330, N-587, N-591, N-731, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313
 
 ---
 
@@ -574,7 +574,7 @@ Kash Patel; named in the host's sarcastic list of TPUSA 2.0 connections.
 
 ---
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed "Hegsmith").
 
@@ -590,7 +590,7 @@ Ghislaine Maxwell; subject of an Empress Films documentary the host says critics
 
 ---
 
-**N-732** Stew Peters
+**N-731** Stew Peters
 
 Stew Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.
 
@@ -606,7 +606,7 @@ Charged suspect in the Kirk shooting; named in the host's remark about footage r
 
 ---
 
-**N-588** Matt Tardio
+**N-587** Matt Tardio
 
 Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.
 
@@ -1493,7 +1493,7 @@ Claim: The host, sarcastically voicing the new TPUSA 2.0 ("We got power"), says 
 Transcript Snippet: We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.
 
 Anchored Artifacts: 
-Mentions: N-69, N-592, N-3
+Mentions: N-69, N-591, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify documented TPUSA contacts with the Patel FBI, Hegseth Pentagon and White House.
@@ -1671,7 +1671,7 @@ Claim: The host says Blake Neff was working for Stew Peters before he got the Ch
 Transcript Snippet: He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-159, N-732, N-1
+Mentions: N-159, N-731, N-1
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check Neff's employment history between leaving Fox and joining TPUSA.
@@ -1914,7 +1914,7 @@ Claim: The host, voicing TPUSA mockingly, says "we don't care what you did" to M
 Transcript Snippet: while you are chasing young women down alleys in front of ICE facilities.
 
 Anchored Artifacts: 
-Mentions: N-588, N-2, N-3
+Mentions: N-587, N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.

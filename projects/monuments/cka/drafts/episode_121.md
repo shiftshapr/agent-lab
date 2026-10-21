@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-920, N-11357, N-11358
+  - Tip-minted Nodes (supplement_2026-10f): N-919, N-11357, N-11358
   - Hole-minted Nodes (reintro-ep121): N-492
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-10308–C-10395
   - New Nodes Introduced: N-10682, N-10686, N-10691, N-10693
-  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-487, N-10695, N-1, N-3, N-9, N-69, N-97, N-190, N-221, N-270, N-366, N-594, N-666, N-730, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
+  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-487, N-10695, N-1, N-3, N-9, N-69, N-97, N-190, N-221, N-270, N-366, N-593, N-665, N-729, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
   - (see registers)
 
 ---
@@ -571,7 +571,7 @@ Investigative Pressure: High
 
 ---
 
-**N-920** Elizabeth Holmes
+**N-919** Elizabeth Holmes
 
 First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.
 
@@ -717,7 +717,7 @@ Justin Davis; driver per the host's seating graphic.
 
 ---
 
-**N-594** Jordan Peterson
+**N-593** Jordan Peterson
 
 Jordan Peterson; named in the Daily Wire firing story.
 
@@ -725,7 +725,7 @@ Jordan Peterson; named in the Daily Wire firing story.
 
 ---
 
-**N-666** James Kaddis
+**N-665** James Kaddis
 
 James Kaddis; pastor the host asks about as Erika's pastor.
 
@@ -733,7 +733,7 @@ James Kaddis; pastor the host asks about as Erika's pastor.
 
 ---
 
-**N-730** Sara Tewell
+**N-729** Sara Tewell
 
 Sara Tewell; witness who changed her story per the host.
 
@@ -1912,7 +1912,7 @@ Claim: The host says the Daily Wire was under financial pressure and needed to r
 Transcript Snippet: They were under financial pressure. They needed to remove people that they were paying.
 
 Anchored Artifacts: 
-Mentions: N-3, N-594
+Mentions: N-3, N-593
 Related Nodes: N-10900, N-10689
 Tags: relevance:tangential
 Investigative Direction: Review contracts, payroll and subscriber figures around the 2024 split.
@@ -2008,7 +2008,7 @@ Claim: The host says Sara Tewell, a witness, changed her story three times and t
 Transcript Snippet: regarding the Tool witness, Sara Tewell, who changed her story three times.
 
 Anchored Artifacts: 
-Mentions: N-730
+Mentions: N-729
 Related Nodes: N-10677
 Supports: C-10246, C-10249, C-10251
 Tags: relevance:core
@@ -2025,7 +2025,7 @@ Claim: The host says Sara Tewell was smiling the whole time.
 Transcript Snippet: You guys know that she was smiling, of course, the whole time
 
 Anchored Artifacts: 
-Mentions: N-730
+Mentions: N-729
 Related Nodes: N-10677
 Tags: relevance:core
 Investigative Direction: Review the three interviews for demeanor; this is the host's characterization.
@@ -2122,7 +2122,7 @@ Claim: The host reads a viewer comment comparing Erika to Elizabeth Holmes, and 
 Transcript Snippet: She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.
 
 Anchored Artifacts: 
-Mentions: N-920, N-2
+Mentions: N-919, N-2
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Fringe; Holmes is held in a federal facility per the Bureau of Prisons.
@@ -2203,7 +2203,7 @@ Claim: The host says Erika said she took two years off to study the Bible and th
 Transcript Snippet: She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.
 
 Anchored Artifacts: 
-Mentions: N-2, N-666
+Mentions: N-2, N-665
 Related Nodes: N-10693
 Tags: relevance:core
 Investigative Direction: Find Erika's own statement of the two years and identify the pastor.

@@ -17,7 +17,7 @@
   - Claim Range: C-9042–C-9151
   - New Nodes Introduced: N-10666, N-10667
   - Hole-minted Nodes (wave3): N-431
-  - Reused Nodes Appearing: N-11, N-10373, N-424, N-10664, N-432, N-10665, N-4, N-15, N-46, N-130, N-157, N-213, N-224, N-267, N-278, N-361, N-484, N-485, N-580, N-595, N-799, N-892, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
+  - Reused Nodes Appearing: N-11, N-10373, N-424, N-10664, N-432, N-10665, N-4, N-15, N-46, N-130, N-157, N-213, N-224, N-267, N-278, N-361, N-484, N-485, N-579, N-594, N-798, N-891, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -677,7 +677,7 @@ Justin Baldoni; party in the dispute the host cites.
 
 ---
 
-**N-580** Thomas Massie
+**N-579** Thomas Massie
 
 Thomas Massie; named in a viewer comment.
 
@@ -685,7 +685,7 @@ Thomas Massie; named in a viewer comment.
 
 ---
 
-**N-595** Druski
+**N-594** Druski
 
 Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.
 
@@ -693,7 +693,7 @@ Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked
 
 ---
 
-**N-799** Harris Faulkner
+**N-798** Harris Faulkner
 
 Harris Faulkner; Fox host who interviewed Erika.
 
@@ -701,7 +701,7 @@ Harris Faulkner; Fox host who interviewed Erika.
 
 ---
 
-**N-892** Bryan Freedman
+**N-891** Bryan Freedman
 
 Bryan Freedman; lawyer whose publish-it-all approach the host cites.
 
@@ -1851,7 +1851,7 @@ Claim: The host says Charlie would have laughed at the Druski skit mocking Erika
 Transcript Snippet: Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-595
+Mentions: N-1, N-2, N-594
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.
@@ -1867,7 +1867,7 @@ Claim: The host says people including Andrew Kolvet tried to turn the Druski ski
 Transcript Snippet: the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.
 
 Anchored Artifacts: 
-Mentions: N-14, N-595, N-2
+Mentions: N-14, N-594, N-2
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.
@@ -1883,7 +1883,7 @@ Claim: The host says Druski's skits mock many groups, including a skit in which 
 Transcript Snippet: He dressed up like he was Vietnamese person, did this whole nail salon thing.
 
 Anchored Artifacts: 
-Mentions: N-595
+Mentions: N-594
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the nail salon skit and its date.
@@ -1899,7 +1899,7 @@ Claim: The host says Druski posted a massive video the previous week that target
 Transcript Snippet: just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.
 
 Anchored Artifacts: 
-Mentions: N-595
+Mentions: N-594
 Related Nodes: N-11356
 Tags: relevance:tangential
 Investigative Direction: Locate the video and its date.
@@ -1979,7 +1979,7 @@ Claim: The host says she is thinking of putting the whole record online, as Brya
 Transcript Snippet: I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.
 
 Anchored Artifacts: 
-Mentions: N-892, N-484, N-485, N-3
+Mentions: N-891, N-484, N-485, N-3
 Related Nodes: N-10649
 Tags: relevance:context
 Investigative Direction: Watch for the host's publication of the Fort Huachuca timeline, messages and documents.
@@ -2094,7 +2094,7 @@ Claim: The host says that the day after her first presentation, Erika went on Ha
 Transcript Snippet: Harris Faulkner, she went on that show and then she was all fired up for the first time and like stop conspiracy theories you need to stop. That was the very next day.
 
 Anchored Artifacts: 
-Mentions: N-2, N-799, N-3
+Mentions: N-2, N-798, N-3
 Related Nodes: N-10367
 Supports: C-3901
 Tags: relevance:core

@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-673",
-      "ref": "N-673",
+      "@id": "N-672",
+      "ref": "N-672",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; subject of a viewer comment and the host's remarks on the operation.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in the Charlie Kirk clip.",
@@ -2290,7 +2290,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-708"
+        "N-707"
       ]
     },
     {
@@ -3268,7 +3268,7 @@
       "transcript_snippet": "Israel is always good to come right out and say, \"Yay, this was good for us.\" Netanyahu was calling him anti-Semitic.",
       "mentions_person_refs": [
         "N-36",
-        "N-673",
+        "N-672",
         "N-3"
       ]
     },

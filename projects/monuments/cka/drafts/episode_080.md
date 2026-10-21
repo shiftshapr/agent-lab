@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-940, N-941, N-942, N-11396
+  - Tip-minted Nodes (supplement_2026-10g): N-939, N-940, N-941, N-11396
   - Hole-minted Nodes (reintro-ep080): N-10606
-  - Tip-minted Nodes (reintro-ep080): N-599
+  - Tip-minted Nodes (reintro-ep080): N-598
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7150–C-7244
   - New Nodes Introduced: N-10545, N-10546
-  - Reused Nodes Appearing: none, N-10544, N-5, N-9, N-14, N-46, N-68, N-69, N-159, N-190, N-268, N-274, N-329, N-554, N-583, N-591, N-10000, N-10023, N-10063, N-10202, N-10324, N-10355, N-10406, N-10411, N-10533, N-10534, N-10539, N-10541, N-10956, N-11035, N-11228, N-11340
+  - Reused Nodes Appearing: none, N-10544, N-5, N-9, N-14, N-46, N-68, N-69, N-159, N-190, N-268, N-274, N-329, N-553, N-582, N-590, N-10000, N-10023, N-10063, N-10202, N-10324, N-10355, N-10406, N-10411, N-10533, N-10534, N-10539, N-10541, N-10956, N-11035, N-11228, N-11340
   - Hole-minted Nodes (remap-ep80): N-150
   - (see registers)
 
@@ -528,7 +528,7 @@ Director of National Intelligence; the host says Kent worked in her office.
 
 ---
 
-**N-554** Carrie Prejean Boller
+**N-553** Carrie Prejean Boller
 
 Speaker at the Catholics for Catholics event.
 
@@ -536,7 +536,7 @@ Speaker at the Catholics for Catholics event.
 
 ---
 
-**N-581** Sarah Huckabee Sanders
+**N-580** Sarah Huckabee Sanders
 
 Arkansas governor who signed the Club America proclamation.
 
@@ -544,7 +544,7 @@ Arkansas governor who signed the Club America proclamation.
 
 ---
 
-**N-583** Renee Crossman
+**N-582** Renee Crossman
 
 Erika Kirk's Romanian partner whose religious background the host is researching.
 
@@ -552,7 +552,7 @@ Erika Kirk's Romanian partner whose religious background the host is researching
 
 ---
 
-**N-591** Bret Weinstein
+**N-590** Bret Weinstein
 
 Named as Kirk's correspondent in the host's account of his messages.
 
@@ -560,7 +560,7 @@ Named as Kirk's correspondent in the host's account of his messages.
 
 ---
 
-**N-599** Scott Bessent
+**N-598** Scott Bessent
 
 Treasury Secretary pulled to the Situation Room.
 
@@ -704,7 +704,7 @@ Organization the host says is being sued over Romanian children.
 
 ---
 
-**N-940** Dino Fantegrossi
+**N-939** Dino Fantegrossi
 
 First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.
 
@@ -712,7 +712,7 @@ First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrass
 
 ---
 
-**N-941** Shannon Kent
+**N-940** Shannon Kent
 
 First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.
 
@@ -720,7 +720,7 @@ First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom th
 
 ---
 
-**N-942** John Yep
+**N-941** John Yep
 
 First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.
 
@@ -791,7 +791,7 @@ Claim Timestamp: 00:06:10
 Claim: Kent's letter identifies him as a veteran who deployed to combat 11 times and a gold star husband who lost his wife Shannon in a war manufactured by Israel.
 
 Anchored Artifacts: A-1861.1
-Mentions: N-209, N-941
+Mentions: N-209, N-940
 
 Related Nodes: N-10546
 
@@ -970,7 +970,7 @@ Claim Timestamp: 00:31:40
 Claim: The host says the chapter president, Dino Fantegrossi, published a letter on Instagram, and that the executive board's decision to disaffiliate was unanimous.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-940
+Mentions: N-939
 
 Related Nodes: N-10545
 
@@ -985,7 +985,7 @@ Claim Timestamp: 00:32:20
 Claim: The Dino Fantegrossi letter states that since Charlie Kirk's assassination, "Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative."
 
 Anchored Artifacts: A-1870.1
-Mentions: N-1, N-940
+Mentions: N-1, N-939
 
 Related Nodes: N-10545
 
@@ -1000,7 +1000,7 @@ Claim Timestamp: 00:33:20
 Claim: The host says Dino Fantegrossi was part of a Charlie Kirk sit-down in July discussing Israel and Gaza with students.
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1, N-940
+Mentions: N-1, N-939
 
 Related Nodes: N-10545
 
@@ -1015,7 +1015,7 @@ Claim Timestamp: 00:47:24
 Claim: In a clip the host plays, Treasury Secretary Scott Bessent is pulled mid-interview to go to the Situation Room, with the interviewer noting it was "a first" for an interviewee to be pulled.
 
 Anchored Artifacts: A-1873.1
-Mentions: N-599
+Mentions: N-598
 
 Related Nodes: N-10544
 
@@ -1030,7 +1030,7 @@ Claim Timestamp: 00:47:40
 Claim: Upon return from the Situation Room, Bessent publicly stated the president was in "great spirits" and that the Iranian mission was "proceeding well ahead of schedule."
 
 Anchored Artifacts: A-1873.1
-Mentions: N-599
+Mentions: N-598
 
 Related Nodes: N-10544
 
@@ -1147,7 +1147,7 @@ Claim Timestamp: 00:30:20
 Claim: The host says Erika Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-581
+Mentions: N-2, N-580
 
 Related Nodes: N-10545
 
@@ -1162,7 +1162,7 @@ Claim Timestamp: 00:31:39
 Claim: In a local news segment the host plays, the reporter says Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-581
+Mentions: N-580
 
 Related Nodes: N-10545
 
@@ -1177,7 +1177,7 @@ Claim Timestamp: 00:33:39
 Claim: In a clip the host plays from a July 2025 student discussion with Charlie Kirk, a student the host identifies as Dino Fantegrossi says, "I find prophecy as policy generally to be theologically problematic."
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1, N-940
+Mentions: N-1, N-939
 
 Related Nodes: N-10545
 
@@ -1225,7 +1225,7 @@ Claim: The host says Joe Kent's late wife, Shannon Kent, was killed by a suicide
 Transcript Snippet: Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.
 
 Anchored Artifacts: 
-Mentions: N-209, N-941
+Mentions: N-209, N-940
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.
@@ -1241,7 +1241,7 @@ Claim: The host says Shannon Kent was also the first female US service member ki
 Transcript Snippet: she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.
 
 Anchored Artifacts: 
-Mentions: N-209, N-941
+Mentions: N-209, N-940
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.
@@ -1340,7 +1340,7 @@ Claim: The host says Charlie Kirk intimated in messages with Bret Weinstein that
 Transcript Snippet: Exactly what Charlie had intimated in those messages with Bret Weinstein.
 
 Anchored Artifacts: 
-Mentions: N-1, N-591, N-5
+Mentions: N-1, N-590, N-5
 Tags: relevance:context
 Investigative Direction: Obtain the Kirk and Weinstein messages and check whether they say what the host describes.
 
@@ -1435,7 +1435,7 @@ Claim: The host says the Catholics for Catholics event is not an anti-Zionist co
 Transcript Snippet: They have just been emailing everyone calling everybody asking for cancellations
 
 Anchored Artifacts: 
-Mentions: N-554, N-3
+Mentions: N-553, N-3
 Related Nodes: N-10956
 Tags: relevance:context
 Investigative Direction: Ask the organizers for the cancellation emails and calls received, and check the published event agenda.
@@ -1511,7 +1511,7 @@ Claim: The host says the organizer of Catholics for Catholics has been harassed 
 Transcript Snippet: the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.
 
 Anchored Artifacts: 
-Mentions: N-942, N-3
+Mentions: N-941, N-3
 Related Nodes: N-10956, N-10063
 Tags: relevance:context
 Investigative Direction: Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.
@@ -1609,7 +1609,7 @@ Claim: The host says Sarah Huckabee Sanders signed the proclamation on behalf of
 Transcript Snippet: Sarah Huckabee Sanders was signing the proclamation on behalf of Club America, uh which is Turning Point USA's incursion into high schools, buyer beware.
 
 Anchored Artifacts: 
-Mentions: N-581, N-2
+Mentions: N-580, N-2
 Related Nodes: N-10533
 Supports: C-6996, C-7192
 Tags: relevance:context
@@ -1626,7 +1626,7 @@ Claim: The host says the Arkansas chapter president, Dino Fantegrossi, has been 
 Transcript Snippet: he's been with Turning Point USA for more than 5 years.
 
 Anchored Artifacts: 
-Mentions: N-940
+Mentions: N-939
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Check chapter records and Fantegrossi's public history with TPUSA.
@@ -1658,7 +1658,7 @@ Claim: The letter as read says the chapter has many grievances with Turning Poin
 Transcript Snippet: we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-940
+Mentions: N-939
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Verify the text against Fantegrossi's Instagram post and ask TPUSA whether it received the private grievances.
@@ -1674,7 +1674,7 @@ Claim: The letter as read says Charlie Kirk cannot speak for himself anymore and
 Transcript Snippet: Charlie Kirk cannot speak for himself anymore and we do not recognize the way others have attempted to speak for him.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-940, N-1
+Mentions: N-939, N-1
 Related Nodes: N-10545
 Supports: C-7196
 Tags: relevance:context
@@ -1707,7 +1707,7 @@ Claim: In the archival clip, the student the host says is Dino Fantegrossi, resp
 Transcript Snippet: And it's insulting that that money goes anywhere else because we have such a huge problem here.
 
 Anchored Artifacts: A-1871.1
-Mentions: N-940, N-1
+Mentions: N-939, N-1
 Related Nodes: N-10545
 Supports: C-7201, C-7202
 Tags: relevance:context
@@ -1724,7 +1724,7 @@ Claim: The host says she believes Dino Fantegrossi appeared on The Charlie Kirk 
 Transcript Snippet: He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.
 
 Anchored Artifacts: 
-Mentions: N-940, N-1
+Mentions: N-939, N-1
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Check Charlie Kirk Show episode listings for Fantegrossi after September 10, 2025.
@@ -1786,7 +1786,7 @@ Claim: The host says the Erika series is paused because she is deep in research 
 Transcript Snippet: the reason why we need to pause the series is because learning about I'm in a deep research hole right now regarding that cult that Renee Crossman who Erika partnered with over in Romania was in.
 
 Anchored Artifacts: 
-Mentions: N-583, N-2, N-3
+Mentions: N-582, N-2, N-3
 Related Nodes: N-10534, N-11396
 Supports: C-7003
 Tags: relevance:context
@@ -1980,7 +1980,7 @@ Claim: The host says Bessent was pulled into a two-hour Situation Room session o
 Transcript Snippet: Very strange two-hour situation room gets pulled in again that's on the 12th
 
 Anchored Artifacts: A-1873.1
-Mentions: N-599
+Mentions: N-598
 Related Nodes: N-10544
 Supports: C-7220
 Tags: relevance:tangential

@@ -92,7 +92,7 @@
           ],
           "related_nodes": [
             "N-41",
-            "N-959",
+            "N-957",
             "N-11428"
           ],
           "tags": [],
@@ -120,7 +120,7 @@
             "C-14251"
           ],
           "related_nodes": [
-            "N-963",
+            "N-961",
             "N-11429"
           ],
           "tags": [],
@@ -141,8 +141,8 @@
             "C-14260"
           ],
           "related_nodes": [
-            "N-963",
-            "N-964",
+            "N-961",
+            "N-962",
             "N-11429",
             "N-11430"
           ],
@@ -170,7 +170,7 @@
             "C-14285"
           ],
           "related_nodes": [
-            "N-962",
+            "N-960",
             "N-5",
             "N-11431"
           ],
@@ -197,7 +197,7 @@
             "C-14288"
           ],
           "related_nodes": [
-            "N-965",
+            "N-963",
             "N-11432"
           ],
           "tags": [],
@@ -216,7 +216,7 @@
             "C-14291"
           ],
           "related_nodes": [
-            "N-965",
+            "N-963",
             "N-11432"
           ],
           "tags": [],
@@ -243,7 +243,7 @@
             "C-14297"
           ],
           "related_nodes": [
-            "N-966",
+            "N-964",
             "N-97",
             "N-11433"
           ],
@@ -271,7 +271,7 @@
             "C-14237"
           ],
           "related_nodes": [
-            "N-957",
+            "N-955",
             "N-10012"
           ],
           "tags": [],
@@ -703,8 +703,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-957",
-      "ref": "N-957",
+      "@id": "N-955",
+      "ref": "N-955",
       "name": "Val Peterson",
       "type": "person",
       "description": "First named by the host at 00:03:11 in episode 165 (introduced on the show the previous day). Vice president of Utah Valley University; host says many call him the most powerful man in Utah.",
@@ -732,8 +732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-959",
-      "ref": "N-959",
+      "@id": "N-957",
+      "ref": "N-957",
       "name": "Tyler Clancy",
       "type": "person",
       "description": "First named by the host at 00:06:40 in episode 165. Provo police officer and Utah state representative.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-963",
-      "ref": "N-963",
+      "@id": "N-961",
+      "ref": "N-961",
       "name": "Charles Peterson",
       "type": "person",
       "description": "First named by the host at 00:08:25 in episode 165. Host says he is Val Peterson's brother; the Idaho Attorney General's release names him as Charles Peterson, 52.",
@@ -782,8 +782,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-964",
-      "ref": "N-964",
+      "@id": "N-962",
+      "ref": "N-962",
       "name": "Raul Labrador",
       "type": "person",
       "description": "First named by the host at 00:13:50 in episode 165. Idaho Attorney General, per the article the host shows.",
@@ -801,8 +801,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-962",
-      "ref": "N-962",
+      "@id": "N-960",
+      "ref": "N-960",
       "name": "Katie Zacharia",
       "type": "person",
       "description": "First named by the host at 00:27:04 in episode 165 (transcribed \"Katie Zacharia\"). New White House press secretary.",
@@ -824,8 +824,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-965",
-      "ref": "N-965",
+      "@id": "N-963",
+      "ref": "N-963",
       "name": "Kelly Clarkson",
       "type": "person",
       "description": "First named by the host at 00:01:06 in episode 165. Singer and first American Idol winner.",
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-966",
-      "ref": "N-966",
+      "@id": "N-964",
+      "ref": "N-964",
       "name": "Danny Trejo",
       "type": "person",
       "description": "First named by the host at 00:39:51 in episode 165. Actor cast in the film Pawn Shop.",
@@ -1191,7 +1191,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-957",
+        "N-955",
         "N-41"
       ]
     },
@@ -1241,7 +1241,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-41",
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1273,7 +1273,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -1295,7 +1295,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-964"
+        "N-962"
       ]
     },
     {
@@ -1320,7 +1320,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -1350,7 +1350,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -1375,7 +1375,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-966",
+        "N-964",
         "N-97"
       ]
     }
@@ -1477,7 +1477,7 @@
       "investigative_direction": "UVU faculty accounts; Peterson's public statements on the TPUSA event and its aftermath.",
       "transcript_snippet": "Val Peterson, the vice president of UVU and apparently the guy, the man, allegedly feared by faculty and allegedly very pro Erika and Turning Point USA.",
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-2"
       ]
     },
@@ -1499,7 +1499,7 @@
       "investigative_direction": "UVU organizational chart and the independent review's description of Peterson's portfolio.",
       "transcript_snippet": "He had a lot of duties. He oversaw uh, EMS services at the UVU.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1520,7 +1520,7 @@
       "investigative_direction": "The UVU independent review text on Peterson's location.",
       "transcript_snippet": "And the report tells us that no, actually he was 45 minutes away.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1542,7 +1542,7 @@
       "investigative_direction": "The tips received by the host's team; UVU faculty who can confirm the account.",
       "transcript_snippet": "Well, thanks to you sleuths back at home and some brave, yet clearly terrified faculty members at UVU, we were able to put some more pieces together.",
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-3"
       ]
     },
@@ -1565,7 +1565,7 @@
       "investigative_direction": "Tee-time and tournament records at Heber-area golf clubs for September 10, 2025.",
       "transcript_snippet": "We confirmed from multiple sources with direct knowledge that he was golfing, actually, allegedly, out in Heber, Utah.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1585,7 +1585,7 @@
       "investigative_direction": "Heber-area golf tournament entry lists for September 10, 2025.",
       "transcript_snippet": "And one person claimed that he was actually taking part in a tournament. We found a few clubs and tournaments that could potentially match match that description",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1605,7 +1605,7 @@
       "investigative_direction": "Governor's security detail logs and golf club records for September 10, 2025.",
       "transcript_snippet": "we have not yet been able to independently verify, but we are working on it. We were also told that he was with Governor Cox.",
       "mentions_person_refs": [
-        "N-957",
+        "N-955",
         "N-41"
       ]
     },
@@ -1716,7 +1716,7 @@
       "transcript_snippet": "we did discover that Governor Cox had a meeting on September 2nd with none other than Provo police officer Tyler Clancy.",
       "mentions_person_refs": [
         "N-41",
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1739,7 +1739,7 @@
       "transcript_snippet": "Um you can see that at 5:00 p.m. he had a meeting with Representative Tyler Clancy at his mansion. Not Tyler's mansion, at the governor's mansion.",
       "mentions_person_refs": [
         "N-41",
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1757,7 +1757,7 @@
       "investigative_direction": "Utah Legislature session calendar and Clancy's official biography.",
       "transcript_snippet": "the Utah House of Reps, they're they work 45 days a year and he started in 2023.",
       "mentions_person_refs": [
-        "N-959"
+        "N-957"
       ]
     },
     {
@@ -1778,8 +1778,8 @@
       "investigative_direction": "Utah and Idaho court dockets; records establishing the family relationship.",
       "transcript_snippet": "We learned uh that he has a brother named Charles Peterson. And this brother Charles was arrested this year. Twice actually in two different states.",
       "mentions_person_refs": [
-        "N-957",
-        "N-963"
+        "N-955",
+        "N-961"
       ]
     },
     {
@@ -1799,7 +1799,7 @@
       "investigative_direction": "Arrest and booking records for February 3, 2026.",
       "transcript_snippet": "Twice actually in two different states. First on February 3rd, 2026 in Layton, Utah. Okay?",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -1821,7 +1821,7 @@
       "investigative_direction": "Utah charging documents (Utah Code 76-4-401).",
       "transcript_snippet": "Charges were as follows. First-degree charge for enticing a minor into sexual activity.",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -1843,7 +1843,7 @@
       "investigative_direction": "Utah charging documents.",
       "transcript_snippet": "He uh also uh the charge that he was charged with aggravated sexual exploitation.",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -1865,7 +1865,7 @@
       "investigative_direction": "Utah charging documents.",
       "transcript_snippet": "Um it also includes distributing material harmful to a minor.",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -1883,7 +1883,7 @@
       "investigative_direction": "University of Idaho faculty records; Peterson family obituaries.",
       "transcript_snippet": "He's from Moscow, Idaho, where his father was a professor um at the University of Idaho.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1903,7 +1903,7 @@
       "investigative_direction": "Ada County, Idaho court records.",
       "transcript_snippet": "Utah, back to the Petersons, collaborated with Idaho and he was additionally charged in Meridian, Idaho.",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -1965,7 +1965,7 @@
       "investigative_direction": "Birth or obituary records for Val Peterson's father.",
       "transcript_snippet": "By the way, just Val Peterson's dad, that's where they're from, Nampa, Idaho. Like born in Nampa, Idaho.",
       "mentions_person_refs": [
-        "N-957"
+        "N-955"
       ]
     },
     {
@@ -1987,7 +1987,7 @@
       "investigative_direction": "Idaho Attorney General press release archive.",
       "transcript_snippet": "Val's brother Charles was additionally charged in Meridian with four counts of soliciting a child. Here is the article, which is available on the Idaho Attorney General's website.",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -2009,8 +2009,8 @@
       "investigative_direction": "The Idaho AG release and the Ada County charging document.",
       "transcript_snippet": "Attorney General Raul Labrador has announced that a Meridian man was charged in Idaho on March 5th, 2026 with four counts of enticing a child.",
       "mentions_person_refs": [
-        "N-964",
-        "N-963"
+        "N-962",
+        "N-961"
       ]
     },
     {
@@ -2033,7 +2033,7 @@
       "investigative_direction": "Lehi Police Department case records and the Utah charging documents.",
       "transcript_snippet": "Investigators with the Attorney General's Internet Crimes Against Children, ICAC unit, arrested Charles Peterson, 52, on February 3rd, 2026, after receiving a request for assistance from the Lehi Police Department",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -2056,7 +2056,7 @@
       "investigative_direction": "Case disposition records in Utah and Idaho.",
       "transcript_snippet": "The charges listed above are merely accusations, and the defendant is presumed innocent until and unless and unless proven guilty.",
       "mentions_person_refs": [
-        "N-963"
+        "N-961"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "investigative_direction": "White House announcement of the appointment.",
       "transcript_snippet": "this this Katie Zacharia character, who is the new press secretary, I'm just watching people defend this",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2522,7 +2522,7 @@
       "investigative_direction": "State bar admission records; Pepperdine registrar.",
       "transcript_snippet": "And it's a bit weird that you pretended that you passed the bar, I'll say allegedly, but people can't confirm it. And I want to be clear, the school she went to, Pepperdine, same school as Erika.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-2"
       ]
     },
@@ -2543,7 +2543,7 @@
       "investigative_direction": "Pepperdine's public confirmation.",
       "transcript_snippet": "But Pepperdine confirmed that she went to the school, that's not in question. They confirmed that she got a degree.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2565,7 +2565,7 @@
       "investigative_direction": "Full press-pool footage of the exchange.",
       "transcript_snippet": ">> did you pass the bar exam? >> When I moved to China. That's her answer.",
       "mentions_person_refs": [
-        "N-962"
+        "N-960"
       ]
     },
     {
@@ -2587,7 +2587,7 @@
       "investigative_direction": "California and other state bar records.",
       "transcript_snippet": "Obviously, she's not going to answer the question because she can't answer the question because she did not pass the bar.",
       "mentions_person_refs": [
-        "N-962",
+        "N-960",
         "N-5"
       ]
     },
@@ -2606,7 +2606,7 @@
       "investigative_direction": "American Idol season 1 records and Clarkson's birth date.",
       "transcript_snippet": "Kelly Clarkson, who was the first American Idol winner back in 2002, 16 years old, who told she was a, you know, waitress, no connections",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2626,7 +2626,7 @@
       "investigative_direction": "Store statements and Clarkson's post.",
       "transcript_snippet": "She's crashing out because she went to a store in Brooklyn called The Art of Play.",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2648,7 +2648,7 @@
       "investigative_direction": "The store's released video.",
       "transcript_snippet": "Can we show this automated bird that she wanted to buy and she was in the store for 4 minutes?",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2668,7 +2668,7 @@
       "investigative_direction": "The store's released video and statements.",
       "transcript_snippet": "told her that it wasn't for sale because it wasn't. It's It's a fixed to their wall. It's obviously not for sale.",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2690,7 +2690,7 @@
       "investigative_direction": "Clarkson's original post.",
       "transcript_snippet": "Just drove all the way to Brooklyn to check out this store I thought looked really rad and had a few things in mind to buy and literally was looked at as if I couldn't afford it",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2712,7 +2712,7 @@
       "investigative_direction": "Post timestamp versus store video timestamps.",
       "transcript_snippet": "She tweeted this 15 minutes after she left the store. She's only there for 4 minutes and the guy has told her that it wasn't for sale.",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2732,7 +2732,7 @@
       "investigative_direction": "The released store footage.",
       "transcript_snippet": "But she's trying to pretend she was discriminated against and they released the video of what's happening in the store.",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2752,7 +2752,7 @@
       "investigative_direction": "Owner's public statements.",
       "transcript_snippet": "Now the owner's coming out saying that they're getting death threats. He's being dramatic about it. He was not there at the store when this took place.",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {
@@ -2772,7 +2772,7 @@
       "investigative_direction": "The Variety article.",
       "transcript_snippet": "They kind of tricked him into allegedly, his son is claiming, um Variety is reporting",
       "mentions_person_refs": [
-        "N-966",
+        "N-964",
         "N-97"
       ]
     },
@@ -2793,7 +2793,7 @@
       "investigative_direction": "Pawn Shop production credits and press materials.",
       "transcript_snippet": "And it's a pro-ICE project, which goes against his roots, his Mexican roots. And Danny Trejo apparently had never even heard of Ben Shapiro before signing on for this new movie Pawn Shop.",
       "mentions_person_refs": [
-        "N-966",
+        "N-964",
         "N-97"
       ]
     },
@@ -2816,7 +2816,7 @@
       "investigative_direction": "The son's original post; production timeline.",
       "transcript_snippet": "About 2 weeks into shooting, everyone including us found out Ben Shapiro was involved.",
       "mentions_person_refs": [
-        "N-966",
+        "N-964",
         "N-97"
       ]
     },
@@ -2839,7 +2839,7 @@
       "investigative_direction": "Trejo's contract terms.",
       "transcript_snippet": "My dad contractually cannot badmouth him, the film, or walk away without being sued for breach of contract.",
       "mentions_person_refs": [
-        "N-966",
+        "N-964",
         "N-97"
       ]
     },
@@ -2964,7 +2964,7 @@
       "investigative_direction": "Owner's social media posts.",
       "transcript_snippet": "And now the the owner is trolling her and he says the word Molly the bird is now worth 15 million, which I do find to be kind of funny.",
       "mentions_person_refs": [
-        "N-965"
+        "N-963"
       ]
     },
     {

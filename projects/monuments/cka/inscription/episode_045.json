@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.",
@@ -1562,7 +1562,7 @@
       "investigative_direction": "Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.",
       "transcript_snippet": "she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.",
       "mentions_person_refs": [
-        "N-799",
+        "N-798",
         "N-2",
         "N-3"
       ]
@@ -1607,7 +1607,7 @@
       "mentions_person_refs": [
         "N-220",
         "N-1",
-        "N-799"
+        "N-798"
       ]
     },
     {

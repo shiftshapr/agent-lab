@@ -60,8 +60,8 @@
             "C-9933"
           ],
           "related_nodes": [
+            "N-675",
             "N-676",
-            "N-677",
             "N-10972"
           ],
           "tags": [],
@@ -274,7 +274,7 @@
           ],
           "related_nodes": [
             "N-268",
-            "N-680",
+            "N-679",
             "N-1"
           ],
           "tags": [],
@@ -301,7 +301,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-666"
+            "N-665"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-676",
-      "ref": "N-676",
+      "@id": "N-675",
+      "ref": "N-675",
       "name": "Mark Liti",
       "type": "person",
       "description": "First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Liti; Mark Le; Mark Liti; Mark a lady.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-677",
-      "ref": "N-677",
+      "@id": "N-676",
+      "ref": "N-676",
       "name": "Chris Liti",
       "type": "person",
       "description": "First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark Liti's older brother, still trying to process his death.",
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-678",
-      "ref": "N-678",
+      "@id": "N-677",
+      "ref": "N-677",
       "name": "Courtney Fife",
       "type": "person",
       "description": "First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Joe Biden",
       "type": "person",
       "description": "First named by the host at 00:21:38 in episode 115 (as \"President Biden\"). The host notes he, not Trump, was president at the time of the pager operation.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-679",
+      "ref": "N-679",
       "name": "Cameron Hanes",
       "type": "person",
       "description": "First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Hanes.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "First named by the host at 00:35:47 in episode 115. Pastor who co-hosts Erika Kirk's show and read the viewer question that preceded her breakdown.",
@@ -886,8 +886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-625",
-      "ref": "N-625",
+      "@id": "N-624",
+      "ref": "N-624",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "First named by the host at 00:51:56 in episode 115 (as \"Vlatty Daddy\"). The host denies Ben Shapiro's rumor that she was spending time with him in Russia.",
@@ -1336,7 +1336,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-676",
+        "N-675",
         "N-105"
       ]
     },
@@ -1358,7 +1358,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-676"
+        "N-675"
       ]
     },
     {
@@ -1403,8 +1403,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-676",
-        "N-678"
+        "N-675",
+        "N-677"
       ]
     },
     {
@@ -1727,7 +1727,7 @@
       "investigative_direction": "Obtain the coroner's report, police incident report and local news coverage of the August 23, 2022 death.",
       "transcript_snippet": "There was a man named Mark A. Leiti, and he died in a rather bizarre accident. Uh the initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded.",
       "mentions_person_refs": [
-        "N-676"
+        "N-675"
       ]
     },
     {
@@ -1747,8 +1747,8 @@
       "investigative_direction": "Check whether investigators, the ATF or the coroner identified the explosive material.",
       "transcript_snippet": "The lady family still doesn't know what ignited inside the barrel that caused that explosion.",
       "mentions_person_refs": [
-        "N-677",
-        "N-676"
+        "N-676",
+        "N-675"
       ]
     },
     {
@@ -1767,7 +1767,7 @@
       "investigative_direction": "Confirm Liti's employment and role through Surefire Wireline, his obituary or Pennsylvania business records.",
       "transcript_snippet": "Mark Liti, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.",
       "mentions_person_refs": [
-        "N-676"
+        "N-675"
       ]
     },
     {
@@ -1802,7 +1802,7 @@
       "investigative_direction": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.",
       "transcript_snippet": "Allegedly, Mark Liti had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
       "mentions_person_refs": [
-        "N-676"
+        "N-675"
       ]
     },
     {
@@ -1821,8 +1821,8 @@
       "investigative_direction": "FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.",
       "transcript_snippet": "The ATF was apparently investigating for this, investigating him for this.",
       "mentions_person_refs": [
-        "N-676",
-        "N-678"
+        "N-675",
+        "N-677"
       ]
     },
     {
@@ -1859,7 +1859,7 @@
       "transcript_snippet": "Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Liti had confided his secret to that he had done something that he wasn't supposed to.",
       "mentions_person_refs": [
         "N-105",
-        "N-676"
+        "N-675"
       ]
     },
     {
@@ -1917,7 +1917,7 @@
       "investigative_direction": "Archive Liti's Facebook friend list and check which Crooks family members appear.",
       "transcript_snippet": "It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.",
       "mentions_person_refs": [
-        "N-676"
+        "N-675"
       ]
     },
     {
@@ -2130,7 +2130,7 @@
       "investigative_direction": "Confirm the timeline: pager attack September 17–18, 2024; Trump inaugurated January 20, 2025.",
       "transcript_snippet": "Because Donald Trump was not president when the pager operation took place. President Biden was.",
       "mentions_person_refs": [
-        "N-679",
+        "N-678",
         "N-5"
       ]
     },
@@ -2373,7 +2373,7 @@
       "transcript_snippet": "Who killed Charlie Kirk for real? Like, what is that? Why is that story so clouded in mystery? And why did they pave over the ground right after the the shooting?",
       "mentions_person_refs": [
         "N-268",
-        "N-680",
+        "N-679",
         "N-1"
       ]
     },
@@ -2395,7 +2395,7 @@
       "transcript_snippet": "This time it was on her show with James, Pastor James Kaddis, uh when somebody wrote in a question.",
       "mentions_person_refs": [
         "N-2",
-        "N-666",
+        "N-665",
         "N-3"
       ]
     },
@@ -2623,7 +2623,7 @@
       "transcript_snippet": "He's telling people that that I'm like hanging out with Vlatty Daddy over there in Russia.",
       "mentions_person_refs": [
         "N-97",
-        "N-625",
+        "N-624",
         "N-3"
       ]
     }

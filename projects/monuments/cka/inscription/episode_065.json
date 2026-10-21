@@ -661,7 +661,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-722",
+            "N-721",
             "N-497",
             "N-10900"
           ],
@@ -1935,8 +1935,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-720",
-      "ref": "N-720",
+      "@id": "N-719",
+      "ref": "N-719",
       "name": "Matt Lieb",
       "type": "person",
       "description": "First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.",
@@ -1952,8 +1952,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-720",
+      "ref": "N-720",
       "name": "Jonathan Conricus",
       "type": "person",
       "description": "First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.",
@@ -1969,8 +1969,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-721",
+      "ref": "N-721",
       "name": "Rabbi Michael Barclay",
       "type": "person",
       "description": "First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.",
@@ -1988,8 +1988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-723",
-      "ref": "N-723",
+      "@id": "N-722",
+      "ref": "N-722",
       "name": "Rabbi Yosef Mizrachi",
       "type": "person",
       "description": "First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.",
@@ -2005,8 +2005,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-724",
-      "ref": "N-724",
+      "@id": "N-723",
+      "ref": "N-723",
       "name": "Jack Parsons",
       "type": "person",
       "description": "First named by the host at 01:41:10 in episode 65. Described by the host as an avowed Satanist connected to the Apollo-era program.",
@@ -2871,7 +2871,7 @@
       "investigative_direction": "Ask Matt Lieb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.",
       "transcript_snippet": "we find that the main speaker in our event was Benjamin Netanyahu accompanied by Miam Idlen.",
       "mentions_person_refs": [
-        "N-720",
+        "N-719",
         "N-36",
         "N-298",
         "N-497"
@@ -3600,7 +3600,7 @@
       "mentions_person_refs": [
         "N-497",
         "N-204",
-        "N-721"
+        "N-720"
       ]
     },
     {
@@ -4039,7 +4039,7 @@
       "transcript_snippet": "It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barclay.",
       "mentions_person_refs": [
         "N-3",
-        "N-722",
+        "N-721",
         "N-497"
       ]
     },
@@ -4059,7 +4059,7 @@
       "transcript_snippet": "being like, \"Okay, can I get a definition of anti-mitism?\" And he was like, \"Whatever we want.\" Oh my god.",
       "mentions_person_refs": [
         "N-3",
-        "N-722"
+        "N-721"
       ]
     },
     {
@@ -4078,7 +4078,7 @@
       "transcript_snippet": "he told me that I could have a private screening of October 7th. He was going to they were going to bring the laptop to me",
       "mentions_person_refs": [
         "N-3",
-        "N-722"
+        "N-721"
       ]
     },
     {
@@ -4095,7 +4095,7 @@
       "transcript_snippet": "first of all he doesn't call him Jesus Christ. He he call him JC Penney.",
       "mentions_person_refs": [
         "N-497",
-        "N-723"
+        "N-722"
       ]
     },
     {
@@ -4155,7 +4155,7 @@
       "transcript_snippet": "Jack Parsons. What was he? He was he was a committed a vowed Satanist or throwing sexual rituals. He was trying to summon demons.",
       "mentions_person_refs": [
         "N-3",
-        "N-724"
+        "N-723"
       ]
     },
     {

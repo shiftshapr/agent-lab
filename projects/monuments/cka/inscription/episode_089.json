@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Joe Biden",
       "type": "person",
       "description": "Joe Biden, discussed in the host's comment on dementia.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-705",
-      "ref": "N-705",
+      "@id": "N-704",
+      "ref": "N-704",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson, whose gambling fortune the host references.",
@@ -2358,7 +2358,7 @@
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
       "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
       "mentions_person_refs": [
-        "N-705",
+        "N-704",
         "N-298",
         "N-5",
         "N-3"
@@ -2694,7 +2694,7 @@
       "investigative_direction": "Opinion about two public figures; no medical record is cited.",
       "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
       "mentions_person_refs": [
-        "N-679",
+        "N-678",
         "N-5",
         "N-3"
       ]

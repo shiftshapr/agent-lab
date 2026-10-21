@@ -14,7 +14,7 @@
 - **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-930, N-11364, N-11365
+  - Tip-minted Nodes (supplement_2026-10g): N-929, N-11364, N-11365
   - Hole-minted Nodes (reintro-ep001): N-82, N-10026
   - Tip-minted Nodes (reintro-ep001): N-11322
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -414,7 +414,7 @@ The movement the host says she started with Charlie by her side.
 
 ---
 
-**N-930** Brett Kavanaugh
+**N-929** Brett Kavanaugh
 
 Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.
 
@@ -942,7 +942,7 @@ Claim: The host says they were always printing new T-shirts and names a Justice 
 Transcript Snippet: we were there. And there was always a new t-shirt to print out. Justice for Brett Kavanaugh.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-930
+Mentions: N-3, N-1, N-929
 Tags: relevance:tangential
 Investigative Direction: Contemporary TPUSA merchandise listings or photos would confirm the shirt.
 

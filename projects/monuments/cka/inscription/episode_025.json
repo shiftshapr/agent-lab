@@ -1297,8 +1297,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-756",
-      "ref": "N-756",
+      "@id": "N-755",
+      "ref": "N-755",
       "name": "Glenn Greenwald",
       "type": "person",
       "description": "First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.",
@@ -2394,7 +2394,7 @@
       "transcript_snippet": "I hated Glenn Greenwald. Now I think he's one of my favorite people in the world",
       "mentions_person_refs": [
         "N-22",
-        "N-756"
+        "N-755"
       ]
     },
     {

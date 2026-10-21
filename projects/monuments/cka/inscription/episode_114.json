@@ -33,7 +33,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-644",
+            "N-643",
             "N-378",
             "N-69",
             "N-104",
@@ -83,7 +83,7 @@
             "C-9873"
           ],
           "related_nodes": [
-            "N-674",
+            "N-673",
             "N-378",
             "N-104",
             "N-10006",
@@ -205,7 +205,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-666",
+            "N-665",
             "N-10264",
             "N-10970"
           ],
@@ -224,7 +224,7 @@
             "C-9894"
           ],
           "related_nodes": [
-            "N-666",
+            "N-665",
             "N-10131"
           ],
           "tags": [],
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-644",
-      "ref": "N-644",
+      "@id": "N-643",
+      "ref": "N-643",
       "name": "Mario Nawfal",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 114. Interviewed Tucker Carlson in the viral clip about Butler. Aliases: Mario Nofl; Mario Knoff.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Brooke Singman",
       "type": "person",
       "description": "First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brooke Singman.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "First named by the host at 00:19:42 in episode 114. Young TPUSA employee, once Mikey McCoy's assistant, on Erika Kirk's July 14 Long Beach flight. Aliases: Katherine Loccastro.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-675",
-      "ref": "N-675",
+      "@id": "N-674",
+      "ref": "N-674",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.",
@@ -1774,7 +1774,7 @@
         "N-22",
         "N-378",
         "N-5",
-        "N-644"
+        "N-643"
       ]
     },
     {
@@ -1883,7 +1883,7 @@
       "transcript_snippet": "Here it was, November 21st, even before Tucker says he spoke to me in December. exclusive FBI concludes Trump shooter crooks acted alone after unprecedented global investigation.",
       "mentions_person_refs": [
         "N-378",
-        "N-674",
+        "N-673",
         "N-104",
         "N-22"
       ]
@@ -2255,11 +2255,11 @@
       "transcript_snippet": "This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro.",
       "mentions_person_refs": [
         "N-2",
-        "N-598",
+        "N-597",
         "N-190",
         "N-418",
-        "N-675",
-        "N-666"
+        "N-674",
+        "N-665"
       ]
     },
     {
@@ -2279,7 +2279,7 @@
       "investigative_direction": "Check TPUSA Faith leadership listings and Calvary Chapel staff records.",
       "transcript_snippet": "James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith.",
       "mentions_person_refs": [
-        "N-666"
+        "N-665"
       ]
     },
     {
@@ -2317,7 +2317,7 @@
       "transcript_snippet": "the record of Israel is that there is constant invasion and warfare in the promised land.",
       "mentions_person_refs": [
         "N-2",
-        "N-666"
+        "N-665"
       ]
     },
     {
@@ -2337,7 +2337,7 @@
       "investigative_direction": "Locate the PragerU video and confirm the speaker's identity.",
       "transcript_snippet": "This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.",
       "mentions_person_refs": [
-        "N-666"
+        "N-665"
       ]
     },
     {

@@ -17,7 +17,7 @@
   - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1072–C-1152
-  - Tip-minted Nodes (reintro-ep012): N-784
+  - Tip-minted Nodes (reintro-ep012): N-783
   - New Nodes Introduced: N-132, N-133, N-10149, N-10150, N-10151
   - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-126, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144, N-10148, N-10146, N-11217, N-10147
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1081, N-61, N-128, N-784*---
+*Related: C-1081, N-61, N-128, N-783*---
 
 **A-1193** Gernot Ohner LinkedIn profile
 
@@ -282,7 +282,7 @@ Confidence Level: Low
 
 ### People
 
-**N-784** Mike Lee
+**N-783** Mike Lee
 
 US Senator from Utah; first named in A-1192.2.
 
@@ -1130,7 +1130,7 @@ Claim: The host says Shaner Broderick was chosen for an internship with Senator 
 Transcript Snippet: chosen for an internship with Senator Mike Lee of Utah.
 
 Anchored Artifacts: A-1192.2
-Mentions: N-128, N-784, N-61
+Mentions: N-128, N-783, N-61
 Tags: relevance:context
 Investigative Direction: Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.
 

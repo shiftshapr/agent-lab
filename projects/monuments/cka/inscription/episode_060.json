@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-718",
-      "ref": "N-718",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Bill Cooper",
       "type": "person",
       "description": "First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-718",
+      "ref": "N-718",
       "name": "Shabbos Kestenbaum",
       "type": "person",
       "description": "First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.",
@@ -2286,7 +2286,7 @@
       "transcript_snippet": "Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military",
       "mentions_person_refs": [
         "N-3",
-        "N-718"
+        "N-717"
       ]
     },
     {
@@ -2429,7 +2429,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-117",
-        "N-719"
+        "N-718"
       ]
     },
     {

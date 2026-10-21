@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq166
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-967, N-968, N-969, N-970, N-11434, N-11435, N-11436, N-11437, N-11438, N-11439, N-11440, N-11441, N-11442, N-11443, N-11444
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-592, N-898, N-957, N-959, N-962, N-963, N-10000, N-10012, N-10013, N-10062, N-10074, N-10388, N-10434, N-10533, N-10827, N-10874, N-10925, N-11313
+  - Tip-minted Nodes (catchup-2026-10-19): N-965, N-966, N-967, N-968, N-11434, N-11435, N-11436, N-11437, N-11438, N-11439, N-11440, N-11441, N-11442, N-11443, N-11444
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-11, N-15, N-18, N-40, N-41, N-69, N-95, N-190, N-224, N-266, N-330, N-489, N-591, N-897, N-955, N-957, N-960, N-961, N-10000, N-10012, N-10013, N-10062, N-10074, N-10388, N-10434, N-10533, N-10827, N-10874, N-10925, N-11313
   - Claim Range: C-14306–C-14397
   - (see registers)
 
@@ -50,7 +50,7 @@ Video Timestamp: 00:14:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14342, N-967, N-11439*
+*Related: C-14342, N-965, N-11439*
 
 **A-3398.3** Host verbal request for tips on Tyler Clancy and on Cox promotions, at candaceowens.com, with a floated bounty
 
@@ -59,7 +59,7 @@ Video Timestamp: 00:48:07
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14390, C-14391, C-14392, C-14393, N-959, N-41*
+*Related: C-14390, C-14391, C-14392, C-14393, N-957, N-41*
 
 **A-3398.4** Host verbal request for direct-knowledge tips on the fire captain who performed CPR
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:03:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14313, C-14314, N-959, N-2, N-10074*
+*Related: C-14313, C-14314, N-957, N-2, N-10074*
 
 ---
 
@@ -135,7 +135,7 @@ Video Timestamp: 00:11:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-967, N-968, N-11439, N-11440, N-10013*
+*Related: C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, N-965, N-966, N-11439, N-11440, N-10013*
 
 **A-3402.2** Local news letter to the editor by a Bonners Ferry homeschool hub vice president, which the host says had "Club America" removed
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:28:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14369, C-14370, N-962, N-11434*
+*Related: C-14369, C-14370, N-960, N-11434*
 
 **A-3405.2** Clip of Katie Zacharia interviewed by Jack Posobiec on the bar exam
 
@@ -211,7 +211,7 @@ Video Timestamp: 00:30:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-962, N-95, N-11434, N-11441, N-11442*
+*Related: C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, N-960, N-95, N-11434, N-11441, N-11442*
 
 ---
 
@@ -239,7 +239,7 @@ Video Timestamp: 00:38:18
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14382, C-14383, C-14384, N-5, N-970, N-11443*
+*Related: C-14382, C-14383, C-14384, N-5, N-968, N-11443*
 
 ---
 
@@ -373,13 +373,13 @@ Erika Kirk's mother. The host (transcribed "Lori Frantzve") says she has worked 
 
 *Related: C-14350*
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 The host says he announced the Fort Hood shooter would be executed on livestream.
 
 *Related: C-14379*
 
-**N-898** Bobby Sausalito
+**N-897** Bobby Sausalito
 
 Transcribed "Bobby Sausalito". The host credits him with keeping the statue story alive.
 
@@ -457,49 +457,49 @@ The host says Baron Coleman will take over the show.
 
 *Related: C-14385*
 
-**N-962** Katie Zacharia
+**N-960** Katie Zacharia
 
 First named by the host at 00:00:01 in episode 166. The new White House press secretary. Aliases: Katie Zacharia (transcript spelling); "Karine Jean-Pierre" at 00:27:02 and 00:27:35 is a mis-transcription or slip (see Optional Flags).
 
 *Related: C-14306, C-14364, C-14365, C-14366, C-14367, C-14368, C-14369, C-14370, C-14371, C-14372, C-14373, C-14374, C-14375, C-14376, C-14377, C-14378*
 
-**N-959** Tyler Clancy
+**N-957** Tyler Clancy
 
 First named by the host at 00:02:40 in episode 166. A Provo police officer and Utah House representative.
 
 *Related: C-14311, C-14312, C-14313, C-14314, C-14315, C-14316, C-14318, C-14324, C-14389, C-14390*
 
-**N-957** Val Peterson
+**N-955** Val Peterson
 
 First named by the host at 00:07:34 in episode 166. The host's sources say he was with Governor Cox on September 10.
 
 *Related: C-14324, C-14325, C-14329, C-14330, C-14331*
 
-**N-963** Charles Peterson
+**N-961** Charles Peterson
 
 First named by the host at 00:09:31 in episode 166. Val Peterson's brother ("Charles, Chuck"), whom the host says has legal issues.
 
 *Related: C-14331*
 
-**N-967** Taylor Dodd
+**N-965** Taylor Dodd
 
 First named by the host at 00:11:12 in episode 166. Former president of the Club America chapter in Bonners Ferry, Idaho, arrested on child sexually exploitative material charges, per the article the host reads. Alias: Todd (transcript, 00:11:12).
 
 *Related: C-14333, C-14334, C-14335, C-14336, C-14337, C-14338, C-14339, C-14340, C-14341, C-14342*
 
-**N-968** Brandon Blackmore
+**N-966** Brandon Blackmore
 
 First named by the host at 00:12:48 in episode 166. The officer whose report the Bonners Ferry Herald article cites in the Dodd case.
 
 *Related: C-14338*
 
-**N-969** Anthony Scaramucci
+**N-967** Anthony Scaramucci
 
 First named by the host at 00:27:02 in episode 166. The host cites him as a past press secretary.
 
 *Related: C-14364*
 
-**N-970** Nidal Malik Hasan
+**N-968** Nidal Malik Hasan
 
 First named by the host at 00:38:18 in episode 166. The Fort Hood shooter, a former US Army major.
 
@@ -595,7 +595,7 @@ Claim: The host says new press secretary Katie Zacharia has come clean, "sort of
 Transcript Snippet: at least she's acknowledging that no, she is not an attorney
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: Zacharia's public statements and interviews of October 2026, and the State Bar of California attorney search.
@@ -675,7 +675,7 @@ Claim: The host says the date correction means that Officer and House Representa
 Transcript Snippet: on the evening of September 9th, not on September 2nd as we had initially reported, officer House of Rep Tyler Clancy had that private one-on-one meeting with the governor
 
 Anchored Artifacts: A-3399.1
-Mentions: N-959, N-41
+Mentions: N-957, N-41
 Related Nodes: N-11437
 Tags: relevance:core
 Investigative Direction: The governor's calendar and visitor log for September 9, 2025, and Clancy's own schedule.
@@ -691,7 +691,7 @@ Claim: The host says that the next day, as she had already reported, Tyler Clanc
 Transcript Snippet: Tyler Clancy allegedly was the person who was selected to transport Turning Point employees to the airport to pick up Erika.
 
 Anchored Artifacts:
-Mentions: N-959, N-2
+Mentions: N-957, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Provo Police Department dispatch and assignment records for September 10, 2025.
@@ -707,7 +707,7 @@ Claim: In police radio audio the host plays, which she says she is told is Tyler
 Transcript Snippet: This will be info for IC, uh myself and Sergeant DePay are in route to Provo Airport.
 
 Anchored Artifacts: A-3400.1
-Mentions: N-959, N-2
+Mentions: N-957, N-2
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Provo police radio recordings for September 10, 2025, and identification of the speaker and of "Sergeant DePay".
@@ -723,7 +723,7 @@ Claim: The host says they compared the radio voice with Clancy's voice in other 
 Transcript Snippet: We listened to his voice in other interviews. It certainly sounds a lot like him.
 
 Anchored Artifacts: A-3400.1
-Mentions: N-959
+Mentions: N-957
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Voice comparison with Clancy's public interviews, and the radio call sign log.
@@ -739,7 +739,7 @@ Claim: The host says they reported that Officer Tyler Clancy, at some point that
 Transcript Snippet: it was Officer Tyler Clancy who at some point that same day or evening, telling on whose tongue the story, disposed of a bloodied item that belonged to Turning Point USA or one of their affiliates.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-11438, N-10000
 Tags: relevance:core
 Investigative Direction: Provo police evidence and property logs for September 10, 2025, and the statements of Clancy and witnesses.
@@ -755,7 +755,7 @@ Claim: The host says they deduced the item was likely Frank Turek's bloodied bag
 Transcript Snippet: we induced that it was likely Frank Turek's bloodied bag since Frank and Bank gave an interview revealing that he instructed a police officer to throw out his bag.
 
 Anchored Artifacts:
-Mentions: N-7, N-959
+Mentions: N-7, N-957
 Related Nodes: N-11438
 Tags: relevance:core
 Investigative Direction: Turek's interview in which he describes the bag, and Clancy's account.
@@ -787,7 +787,7 @@ Claim: The host says she is told that Clancy told others a slightly different st
 Transcript Snippet: mainly that he was not instructed to do so, but that he did so out of his own volition, on a whim, because the item had been left behind in his car.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-11438
 Tags: relevance:core
 Investigative Direction: Interviews with the people Clancy reportedly told, and any Provo police report on the item.
@@ -885,7 +885,7 @@ Claim: The host says she wants to explore the governor's movements, because it w
 Transcript Snippet: if he did indeed golf with Val Peterson on the morning of the 10th after having spent an evening with Tyler Clancy on the 9th.
 
 Anchored Artifacts: A-3399.1
-Mentions: N-41, N-957, N-959
+Mentions: N-41, N-955, N-957
 Related Nodes: N-11437
 Tags: relevance:core
 Investigative Direction: Golf-course tee-time records for the morning of September 10, 2025, and the governor's security detail logs.
@@ -901,7 +901,7 @@ Claim: The host says golf with Val Peterson does not appear on Cox's official sc
 Transcript Snippet: He doesn't have golf with Val Peterson on it. Not on his official schedule, anyway.
 
 Anchored Artifacts: A-3399.1
-Mentions: N-41, N-957
+Mentions: N-41, N-955
 Related Nodes: N-11437
 Tags: relevance:core
 Investigative Direction: The published schedule for September 10, 2025.
@@ -965,7 +965,7 @@ Claim: The host suggests that if Cox and Val Peterson did meet for golf, it was 
 Transcript Snippet: if he and Val Peterson did meet up for golf, it was likely before this, by the way.
 
 Anchored Artifacts:
-Mentions: N-41, N-957
+Mentions: N-41, N-955
 Related Nodes: N-11437
 Tags: relevance:core
 Investigative Direction: Golf-course tee sheets for early September 10, 2025, and the travel time to Mona.
@@ -981,7 +981,7 @@ Claim: The host says her sources that Val Peterson was with the governor on Sept
 Transcript Snippet: my sources on this, that Val Peterson was with the governor on the on September 10th, are are solid. They're not aware of one another
 
 Anchored Artifacts:
-Mentions: N-957, N-41
+Mentions: N-955, N-41
 Related Nodes: N-11437
 Tags: relevance:core
 Investigative Direction: The governor's office response to the host's inquiry, and records of Val Peterson's whereabouts on September 10, 2025.
@@ -997,7 +997,7 @@ Claim: The host says they discovered that Val Peterson's brother Charles ("Chuck
 Transcript Snippet: his brother Charles, Chuck, Chuck the boy over there, has some legal issues
 
 Anchored Artifacts:
-Mentions: N-957, N-963
+Mentions: N-955, N-961
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Idaho court records for Charles Peterson.
@@ -1029,7 +1029,7 @@ Claim: The host says Taylor Dodd, now former president of Club America in Bonner
 Transcript Snippet: he's the now former president of Club America in um Bonners Ferry, Idaho. His name is Taylor Dodd. When he was 17 years old, he actually gave a speech at Charlie Kirk's vigil.
 
 Anchored Artifacts:
-Mentions: N-967, N-1
+Mentions: N-965, N-1
 Related Nodes: N-11439, N-10533
 Tags: relevance:context
 Investigative Direction: Local coverage or video of the Bonners Ferry Charlie Kirk vigil, and Club America chapter listings.
@@ -1045,7 +1045,7 @@ Claim: The host says Dodd was arrested on child pornography charges and shows a 
 Transcript Snippet: He was arrested for child pornography. Here is the headline which was published in the Bonner's Ferry Herald.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439, N-11440
 Tags: relevance:context
 Investigative Direction: The Bonners Ferry Herald article and the Boundary County court docket.
@@ -1061,7 +1061,7 @@ Claim: Per the article the host reads, Dodd was arrested in early September on s
 Transcript Snippet: Taylor Dodd was arrested in early September on seven felony charges of child sexually exploitative material.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439, N-11440, N-10013
 Tags: relevance:context
 Investigative Direction: The charging documents and the Idaho ICAC case referral.
@@ -1077,7 +1077,7 @@ Claim: Per the article the host reads, court documents say the images were downl
 Transcript Snippet: The images were downloaded in early April, according to court documents.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439
 Tags: relevance:context
 Investigative Direction: The court documents in the Dodd case.
@@ -1093,7 +1093,7 @@ Claim: Per the article the host reads, documents contend that Telegram and Threa
 Transcript Snippet: Documents contend that other apps were also used, such as Telegram, an instant messaging app, and Threads, a text-based social media app by Meta, to purchase and download images.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439
 Tags: relevance:tangential
 Investigative Direction: The court documents in the Dodd case.
@@ -1109,7 +1109,7 @@ Claim: Per the article the host reads, Officer Brandon Blackmore's report says 1
 Transcript Snippet: In his report, Officer Brandon Blackmore said that 116 images had allegedly been downloaded and saved to Dodd's phone.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-968, N-967
+Mentions: N-966, N-965
 Related Nodes: N-11439
 Tags: relevance:context
 Investigative Direction: The officer's probable-cause affidavit.
@@ -1125,7 +1125,7 @@ Claim: Per the article the host reads, documents indicate the ages of the childr
 Transcript Snippet: Documents indicate that the ages allegedly ranged from 3 to 15.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439
 Tags: relevance:context
 Investigative Direction: The court documents in the Dodd case.
@@ -1141,7 +1141,7 @@ Claim: Per the article the host reads, court documents say Dodd confessed to pur
 Transcript Snippet: according to court documents, he confessed that he purchased and watched the videos of child pornography, downloaded them, and saved them to his cell phone.
 
 Anchored Artifacts: A-3402.1
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439
 Tags: relevance:context
 Investigative Direction: The case file and the plea record.
@@ -1157,7 +1157,7 @@ Claim: The host says "they" tried to scrub their affiliation with Dodd from the 
 Transcript Snippet: they tried to scrub their affiliation from the internet. So, there were a lot of broken links as we were trying to hunt down this information.
 
 Anchored Artifacts:
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-10000, N-11439
 Tags: relevance:core
 Investigative Direction: Wayback Machine captures of Club America / TPUSA chapter pages naming Dodd.
@@ -1173,7 +1173,7 @@ Claim: The host thanks a viewer sleuth who emailed her team the Dodd lead.
 Transcript Snippet: Thank you, by the way, to the sleuth that emailed us the lead.
 
 Anchored Artifacts: A-3398.2
-Mentions: N-967
+Mentions: N-965
 Related Nodes: N-11439, N-10000
 Tags: relevance:core
 Investigative Direction: The tip email and its source material.
@@ -1515,7 +1515,7 @@ Claim: The host says her instinct is that the public is not being told the whole
 Transcript Snippet: my instincts about the statue is that we're not being told the entire story um and that it was meant to be a fundraiser push
 
 Anchored Artifacts:
-Mentions: N-898
+Mentions: N-897
 Related Nodes: N-10827, N-10925
 Tags: relevance:core
 Investigative Direction: The police vandalism report, the surveillance footage, and donation inflows after the incident.
@@ -1531,7 +1531,7 @@ Claim: The host says being a lawyer is not a requirement for press secretary, an
 Transcript Snippet: It's not It's not a requirement to be the press secretary. We had Anthony Scaramucci as the as the press secretary.
 
 Anchored Artifacts:
-Mentions: N-969, N-962
+Mentions: N-967, N-960
 Related Nodes: N-11434
 Tags: relevance:tangential
 Investigative Direction: White House staff records. Scaramucci was White House Communications Director in 2017, not press secretary.
@@ -1547,7 +1547,7 @@ Claim: The host says the press secretary (transcribed "Karine Jean-Pierre" [Kati
 Transcript Snippet: But Karine Jean-Pierre, she's now come clean. She has come clean. She says it was a mix-up.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: Zacharia's statements to Fox News, CBS News and Jack Posobiec in October 2026.
@@ -1563,7 +1563,7 @@ Claim: The host says the Wall Street Journal broke the news that Zacharia did no
 Transcript Snippet: Wall Street Journal broke the news that she did not pass the bar exam.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: The Wall Street Journal report, and California State Bar records.
@@ -1579,7 +1579,7 @@ Claim: The host says Zacharia's explanation is that she consulted Pepperdine's p
 Transcript Snippet: she had consulted with Pepperdine's president as to how to identify herself. And she was told that as long as she didn't use the words attorney or esquire, she was okay to say that she was a lawyer.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434, N-11441
 Tags: relevance:context
 Investigative Direction: Pepperdine University comment, and Zacharia's full statement.
@@ -1595,7 +1595,7 @@ Claim: The host says Zacharia lists herself on LinkedIn as a general counsel.
 Transcript Snippet: on her LinkedIn, she has herself listed as a general counsel.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: Archived captures of Zacharia's LinkedIn profile.
@@ -1611,7 +1611,7 @@ Claim: In a supercut the host plays, Zacharia describes herself "as a lawyer and
 Transcript Snippet: especially as a as a lawyer and a former corporate lawyer in China for 3 years.
 
 Anchored Artifacts: A-3405.1
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: The source broadcasts of each supercut clip.
@@ -1627,7 +1627,7 @@ Claim: In the supercut, Zacharia says "I am a lawyer and I'm a rigorous research
 Transcript Snippet: And and I mean, I am a lawyer and I'm a rigorous researcher, and I spent the better part of 2020 and 2021 researching this
 
 Anchored Artifacts: A-3405.1
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: The source broadcasts of the supercut clips.
@@ -1643,7 +1643,7 @@ Claim: In the Jack Posobiec interview clip, Zacharia says her husband lived in B
 Transcript Snippet: His dad was an adjunct professor at Pepperdine Law, and he "Do you want to meet my son?"
 
 Anchored Artifacts: A-3405.2
-Mentions: N-962, N-95
+Mentions: N-960, N-95
 Related Nodes: N-11434, N-11441
 Tags: relevance:tangential
 Investigative Direction: Pepperdine Law faculty records.
@@ -1659,7 +1659,7 @@ Claim: In the clip, Zacharia says she had already pre-registered for the bar and
 Transcript Snippet: I had already pre-registered to take the bar, and I didn't want to withdraw from that, and we knew we would be moving out to China.
 
 Anchored Artifacts: A-3405.2
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: California State Bar exam records for 2011.
@@ -1675,7 +1675,7 @@ Claim: In the clip, Zacharia says the results were "somewhat inconsequential" be
 Transcript Snippet: The results are somewhat inconsequential because I knew I wouldn't need the bar in China
 
 Anchored Artifacts: A-3405.2
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: Her bar exam result record.
@@ -1691,7 +1691,7 @@ Claim: In the clip, Zacharia says she was offered a job in the international pra
 Transcript Snippet: I was offered a job at a in an international practice division of a of a Chinese law firm called Jun He Law Firm.
 
 Anchored Artifacts: A-3405.2
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434, N-11442
 Tags: relevance:context
 Investigative Direction: JunHe Law Offices employment confirmation.
@@ -1707,7 +1707,7 @@ Claim: In the clip, Zacharia says "There's no Chinese bar" and that her law degr
 Transcript Snippet: There's no Chinese bar. I had the enough credentials, which was my law degree, to be able to do this practice
 
 Anchored Artifacts: A-3405.2
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434, N-11442
 Tags: relevance:context
 Investigative Direction: PRC rules on foreign lawyers in Chinese firms.
@@ -1723,7 +1723,7 @@ Claim: In the clip, asked by Posobiec why she did not retake the bar, Zacharia s
 Transcript Snippet: Well, when we moved back, Jack, we got a surprise baby. Our our first baby is he's this is birthday today, and he is 12 years old.
 
 Anchored Artifacts: A-3405.2
-Mentions: N-962, N-95
+Mentions: N-960, N-95
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: The timeline of Zacharia's return from China.
@@ -1739,7 +1739,7 @@ Claim: The host says she checked, and that after failing a candidate can take th
 Transcript Snippet: The bar is administered twice a year, according to just a little bit of research I did today.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: State Bar of California exam schedule and retake rules.
@@ -1755,7 +1755,7 @@ Claim: The host says she checked and found no preclusion on taking the bar exam 
 Transcript Snippet: even if you have a baby, you can take you can take the bar exam. I checked. There doesn't seem to be any preclusions.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11434
 Tags: relevance:context
 Investigative Direction: State bar eligibility and accommodation rules.
@@ -1771,7 +1771,7 @@ Claim: The host says one of Pete Hegseth's recent moves was announcing that the 
 Transcript Snippet: one of his recent tough guy things was, we are going to be executing the Fort Hood shooter and we're going to live stream it.
 
 Anchored Artifacts:
-Mentions: N-592, N-970
+Mentions: N-591, N-968
 Related Nodes: N-11443
 Tags: relevance:tangential
 Investigative Direction: Hegseth's statement and Department of War / Army releases on the Hasan execution.
@@ -1819,7 +1819,7 @@ Claim: The host says Trump issued a Truth Social post establishing that Nidal Ma
 Transcript Snippet: Trump did issue a Truth Social post where he established that Nidal Malik Hasan, who was the former US Army major turned traitor, um would not be executed. It would not be live-streamed.
 
 Anchored Artifacts: A-3407.1
-Mentions: N-5, N-970
+Mentions: N-5, N-968
 Related Nodes: N-11443
 Tags: relevance:tangential
 Investigative Direction: Trump's Truth Social post of October 2026.
@@ -1835,7 +1835,7 @@ Claim: The host says Trump's post called Hasan scum but said well-meaning people
 Transcript Snippet: He said he was scum, uh but there are well-meaning people who would rather not watch him die. Also, he's paraplegic.
 
 Anchored Artifacts: A-3407.1
-Mentions: N-5, N-970, N-18
+Mentions: N-5, N-968, N-18
 Related Nodes: N-11443
 Tags: relevance:tangential
 Investigative Direction: The text of the Truth Social post, and Andrew Wilson's public comments.
@@ -1851,7 +1851,7 @@ Claim: The host says Trump's Truth Social post said the execution can be viewed 
 Transcript Snippet: Donald Trump said that the execution can be viewed by people in the immediate families of the victims if they so choose
 
 Anchored Artifacts: A-3407.1
-Mentions: N-5, N-970
+Mentions: N-5, N-968
 Related Nodes: N-11443
 Tags: relevance:tangential
 Investigative Direction: The text of the Truth Social post.
@@ -1932,7 +1932,7 @@ Claim: The host says the bag offered to Shawn Ryan was Brian Harpole's and is a 
 Transcript Snippet: No, that's Brian Harpole's bag. It's totally different and again, this the Tyler Clancy story is that the officer did throw out the bag and it matches Frank Turek's.
 
 Anchored Artifacts:
-Mentions: N-266, N-959, N-7
+Mentions: N-266, N-957, N-7
 Related Nodes: N-11438
 Tags: relevance:core
 Investigative Direction: Accounts from Harpole, Turek and Clancy of each bag's chain of custody.
@@ -1948,7 +1948,7 @@ Claim: The host asks viewers for any information about Tyler Clancy and says the
 Transcript Snippet: So, if you know if you have any information pertaining to Tyler Clancy, uh we would like to hear it.
 
 Anchored Artifacts: A-3398.3
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-11438
 Tags: relevance:core
 Investigative Direction: Clancy's response to the host's request for comment.
@@ -2375,7 +2375,7 @@ Confidence: high
 - MISTRANSCRIPTION: "Lori Frantzve" -> "Lori Frantzve" (00:17:27, 00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1047 (N-489, Erika Kirk's mother).
 - MISTRANSCRIPTION: "Justin's Tribe" -> "Justin Streiff" (00:18:02) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1082 (N-15).
 - MISTRANSCRIPTION: "Frank and Bank" -> "Frank Turek" (00:03:51) and "Frank Church" -> "Frank Turek" (00:05:43) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=231 (N-7). Medium confidence.
-- MISTRANSCRIPTION: "Bobby Sausalito" -> "Bobby Sausalito" (00:23:39) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1419 (N-898, who covered the statue story in C-13018 / C-13019).
+- MISTRANSCRIPTION: "Bobby Sausalito" -> "Bobby Sausalito" (00:23:39) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=1419 (N-897, who covered the statue story in C-13018 / C-13019).
 - MISTRANSCRIPTION: "candaceowens.com" -> "candaceowens.com" (00:49:45) source: https://www.youtube.com/watch?v=YPIYYHCNPbE&t=2985
 - MISTRANSCRIPTION: "Erika" -> "Erika" (00:02:40, 00:10:02, 00:17:27, 00:21:16, 00:44:11) source: https://www.youtube.com/watch?v=YPIYYHCNPbE (N-2).
 - Transcription ambiguity: "two second favorite church" / "second favorite church" (00:49:45, 00:50:20) is "shirts".
@@ -2392,4 +2392,4 @@ Confidence: high
 - DIA beats recorded: 00:01:31 tip line payoff, 00:14:03 sleuth lead payoff, 00:48:07 tips request, 00:48:43 floated bounty, 00:49:45 tips request.
 - Ads skipped (Pre-Born, Wellness Company, Cozy Earth, American Financing, Field of Greens). Not claims.
 - Rejected claims (admission test): the host's opinions on Hegseth's toughness, abortion analogies, the "theocracy" argument, her reflections on PragerU / Daily Wire and being "intentionally blinded", her characterization of Brian Harpole as "an idiot", viewer comments of praise (Danielle on the Epstein files, Minter, TJ Curt, Lindsey Colome, Brooke Evans, Nurse B), and the book club / Skyler riff (00:50:20).
-- Possible cross-episode links left out: C-14311 to C-14318 likely restate or revise claims in episodes 164–165 (Clancy meeting first dated September 2), but those episodes have no minted claims in claims_index.tsv. The integrator should consider Revises from C-14311 to the episode 165 claim placing the Clancy meeting on September 2. Tyler Clancy and Val Peterson may be minted in parallel from episodes 164/165 and should be merged with N-959 / N-957.
+- Possible cross-episode links left out: C-14311 to C-14318 likely restate or revise claims in episodes 164–165 (Clancy meeting first dated September 2), but those episodes have no minted claims in claims_index.tsv. The integrator should consider Revises from C-14311 to the episode 165 claim placing the Clancy meeting on September 2. Tyler Clancy and Val Peterson may be minted in parallel from episodes 164/165 and should be merged with N-957 / N-955.

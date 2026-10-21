@@ -438,7 +438,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-785"
+            "N-784"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-785",
-      "ref": "N-785",
+      "@id": "N-784",
+      "ref": "N-784",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer; first named in A-2023.1.",
@@ -1499,8 +1499,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Aubrey Laitsch; the host says Kolvet cannot show what Laitsch gave her.",
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Melania Trump",
       "type": "person",
       "description": "Melania Trump; author of the post criticizing Kimmel.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-860",
-      "ref": "N-860",
+      "@id": "N-859",
+      "ref": "N-859",
       "name": "Matt Sarelson",
       "type": "person",
       "description": "First named by the host at 01:08:34 in episode 97 (spelled Sarelson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
@@ -3569,7 +3569,7 @@
         "N-3",
         "N-190",
         "N-14",
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -3591,7 +3591,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -3786,7 +3786,7 @@
       "investigative_direction": "Retrieve the original Melania Trump post and its date.",
       "transcript_snippet": "Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.",
       "mentions_person_refs": [
-        "N-600",
+        "N-599",
         "N-87"
       ]
     },
@@ -3872,7 +3872,7 @@
       "transcript_snippet": "this lawyer, Matt Sarelson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
       "mentions_person_refs": [
         "N-3",
-        "N-860",
+        "N-859",
         "N-60"
       ]
     },

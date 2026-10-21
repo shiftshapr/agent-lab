@@ -721,8 +721,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-544",
+      "ref": "N-544",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erika Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -949,8 +949,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -966,8 +966,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-792",
-      "ref": "N-792",
+      "@id": "N-791",
+      "ref": "N-791",
       "name": "Leo Frank",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -984,8 +984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-793",
-      "ref": "N-793",
+      "@id": "N-792",
+      "ref": "N-792",
       "name": "Mary Phagan",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Justin Bieber",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -1496,8 +1496,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-921",
-      "ref": "N-921",
+      "@id": "N-920",
+      "ref": "N-920",
       "name": "Gary Javitch",
       "type": "person",
       "description": "First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach in the transcript; the host's spelling is unverified). Omaha-based man the host says was allegedly with Ben Shapiro on September 10, 2025.",
@@ -1518,8 +1518,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-922",
-      "ref": "N-922",
+      "@id": "N-921",
+      "ref": "N-921",
       "name": "Stephen \"Twitch\" Boss",
       "type": "person",
       "description": "First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whose 2022 death the host compares to the Kirk case.",
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-923",
-      "ref": "N-923",
+      "@id": "N-922",
+      "ref": "N-922",
       "name": "Allison Holker",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discussed in the host's Twitch comparison.",
@@ -1558,8 +1558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-924",
-      "ref": "N-924",
+      "@id": "N-923",
+      "ref": "N-923",
       "name": "Ellen DeGeneres",
       "type": "person",
       "description": "First named by the host at 00:38:55 in episode 131. Talk show host on whose show Twitch worked.",
@@ -1830,7 +1830,7 @@
       "claim_timestamp": "00:33:45",
       "investigative_direction": "Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.",
       "mentions_person_refs": [
-        "N-545"
+        "N-544"
       ]
     },
     {
@@ -1916,8 +1916,8 @@
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings.",
       "mentions_person_refs": [
-        "N-923",
-        "N-922"
+        "N-922",
+        "N-921"
       ]
     },
     {
@@ -1935,7 +1935,7 @@
       "investigative_direction": "Obtain the full CBS / Gayle King segment; obtain any documentary record of the NDA demand.",
       "mentions_person_refs": [
         "N-511",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -1953,7 +1953,7 @@
       "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.",
       "mentions_person_refs": [
         "N-511",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -1972,8 +1972,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-922",
-        "N-923"
+        "N-921",
+        "N-922"
       ]
     },
     {
@@ -1990,7 +1990,7 @@
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Independent verification against public records or alumni databases.",
       "mentions_person_refs": [
-        "N-923"
+        "N-922"
       ]
     },
     {
@@ -2040,7 +2040,7 @@
         "N-3",
         "N-97",
         "N-1",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -2064,7 +2064,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -2162,7 +2162,7 @@
       "transcript_snippet": "He's simplified things after breaking free from contracts that were costing him his soul.",
       "mentions_person_refs": [
         "N-3",
-        "N-867"
+        "N-866"
       ]
     },
     {
@@ -2354,7 +2354,7 @@
       "transcript_snippet": "I actually was sitting in Spain next to Carrie Prejean Boller and I was just showing her all of these messages",
       "mentions_person_refs": [
         "N-3",
-        "N-554",
+        "N-553",
         "N-14"
       ]
     },
@@ -2834,7 +2834,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -2882,7 +2882,7 @@
       "transcript_snippet": "he's older in his 70s mid-70s in Omaha, Nebraska of all places, right?",
       "mentions_person_refs": [
         "N-3",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -2906,7 +2906,7 @@
       "transcript_snippet": "he is and he's has been the executive director of B'nai B'rith International for years.",
       "mentions_person_refs": [
         "N-3",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -2958,8 +2958,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-792",
-        "N-793"
+        "N-791",
+        "N-792"
       ]
     },
     {
@@ -2981,7 +2981,7 @@
       "transcript_snippet": "he was also convicted by a jury that consisted of Jews.",
       "mentions_person_refs": [
         "N-3",
-        "N-792"
+        "N-791"
       ]
     },
     {
@@ -3005,7 +3005,7 @@
       "transcript_snippet": "He received the inaugural President's Award in 2019 for advancing the organization's mission.",
       "mentions_person_refs": [
         "N-3",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -3030,7 +3030,7 @@
       "transcript_snippet": "A 2022 report identified him as the director of the local B'nai B'rith chapter in Omaha.",
       "mentions_person_refs": [
         "N-3",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -3075,7 +3075,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-921"
+        "N-920"
       ]
     },
     {
@@ -3193,7 +3193,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-545",
+        "N-544",
         "N-2"
       ]
     },
@@ -3215,7 +3215,7 @@
       "transcript_snippet": "She was giving quotes to Us magazine",
       "mentions_person_refs": [
         "N-3",
-        "N-545"
+        "N-544"
       ]
     },
     {
@@ -3234,7 +3234,7 @@
       "transcript_snippet": "she's also the person who had a perfectly friendly phone call with me and pretended that I was shouting and cursing her out on the phone.",
       "mentions_person_refs": [
         "N-3",
-        "N-545",
+        "N-544",
         "N-2"
       ]
     },
@@ -3256,7 +3256,7 @@
       "transcript_snippet": "she tried to get ahead of it and go on to Paramount Tactical show and now, this is before I had received emails",
       "mentions_person_refs": [
         "N-3",
-        "N-545"
+        "N-544"
       ]
     },
     {
@@ -3275,7 +3275,7 @@
       "transcript_snippet": "Erika, you can find videos of her rapping to gangster music when she was partying.",
       "mentions_person_refs": [
         "N-3",
-        "N-545",
+        "N-544",
         "N-2"
       ]
     },
@@ -3422,8 +3422,8 @@
       "transcript_snippet": "She had a DJ named Twitch that worked on her show, and he committed suicide, allegedly, um in a hotel room.",
       "mentions_person_refs": [
         "N-3",
-        "N-922",
-        "N-924"
+        "N-921",
+        "N-923"
       ]
     },
     {
@@ -3444,7 +3444,7 @@
       "transcript_snippet": "He checked checked in on a Monday. The body was discovered on a Tuesday when they entered his room.",
       "mentions_person_refs": [
         "N-3",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -3465,7 +3465,7 @@
       "transcript_snippet": "TMZ went around and spoke to motel staffers who said that he didn't appear to be in any sort of distress.",
       "mentions_person_refs": [
         "N-3",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -3484,8 +3484,8 @@
       "transcript_snippet": "he also died without a will. Uh, she filed a petition for half of his estate in April.",
       "mentions_person_refs": [
         "N-3",
-        "N-922",
-        "N-923"
+        "N-921",
+        "N-922"
       ]
     },
     {
@@ -3530,7 +3530,7 @@
       "transcript_snippet": "Well, somebody in the family has sold a story to a magazine.",
       "mentions_person_refs": [
         "N-3",
-        "N-922"
+        "N-921"
       ]
     },
     {
@@ -3549,8 +3549,8 @@
       "transcript_snippet": "She did release a book uh February of 2024, a short time after.",
       "mentions_person_refs": [
         "N-3",
-        "N-922",
-        "N-923"
+        "N-921",
+        "N-922"
       ]
     },
     {
@@ -3708,7 +3708,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-545",
+        "N-544",
         "N-14",
         "N-2"
       ]

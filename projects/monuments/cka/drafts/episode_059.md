@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5243–C-5333
   - New Nodes Introduced: N-470, N-471, N-473, N-474, N-475, N-10425, N-10426, N-10429
-  - Reused Nodes Appearing: N-10427, N-10428, N-472, N-82, N-217, N-224, N-330, N-361, N-487, N-708, N-10000, N-10012, N-10367, N-10401, N-10421, N-10422, N-10899, N-11166
+  - Reused Nodes Appearing: N-10427, N-10428, N-472, N-82, N-217, N-224, N-330, N-361, N-487, N-707, N-10000, N-10012, N-10367, N-10401, N-10421, N-10422, N-10899, N-11166
   - (see registers)
 
 ---
@@ -744,7 +744,7 @@ Rick Cutler; named by the host as one of the Texas-based security staff.
 
 ---
 
-**N-708** John F. Kennedy
+**N-707** John F. Kennedy
 
 John F. Kennedy; referenced by the emailer's JFK assassination claim.
 
@@ -1254,7 +1254,7 @@ Claim: The host says an anonymous emailer claimed that the families behind the J
 Transcript Snippet: But he said that those same families were also involved in the assassination of Charlie Kirk, a group of Texas boys.
 
 Anchored Artifacts: A-3303.1
-Mentions: N-1, N-3, N-708
+Mentions: N-1, N-3, N-707
 Related Nodes: N-11388
 Tags: relevance:context
 Investigative Direction: Only the emailer can substantiate this; the host presents it as unverified and no records are cited.

@@ -31,7 +31,7 @@
       },
       {
         "claim": "C-8236",
-        "node": "N-888",
+        "node": "N-887",
         "reason": "claim text: 'Savannah' (first name, as JD Vance says it) = Savanah Hernandez; pass 2 2026-10-19"
       },
       {
@@ -51,7 +51,7 @@
       },
       {
         "claim": "C-8136",
-        "node": "N-725",
+        "node": "N-724",
         "reason": "claim text: 'his brother' (Victor Marx's brother Mike Kennedy); Opus re-check 2026-10-15"
       },
       {
@@ -246,12 +246,12 @@
       },
       {
         "claim": "C-8946",
-        "node": "N-615",
+        "node": "N-614",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       },
       {
         "claim": "C-8949",
-        "node": "N-615",
+        "node": "N-614",
         "reason": "first name only: transcript 'Andrew messaged Gary, that's Paramount Tactical' / 'Gary has confirmed to me'; Gary Melton runs Paramount Tactical (Daveed, 2026-10-13)"
       },
       {
@@ -336,7 +336,7 @@
       },
       {
         "claim": "C-6251",
-        "node": "N-734",
+        "node": "N-733",
         "reason": "claim text: \"Ike\" (host's Mar-a-Lago lunch reference; identification flagged as a guess)"
       },
       {
@@ -583,11 +583,11 @@
     "note": "Wave 3 (Transit 73d663b P1-3): a person named in claim/artifact text before their ledger introduction fails as P1 named_before_intro. accepted: reviewed pre-Wave-3 debt (persons merged before Wave 3 whose re-introduction is out of scope); see audits/wave3/named_before_intro_debt.csv.",
     "accepted": [
       {
-        "id": "N-861",
+        "id": "N-860",
         "episodes": [
           140
         ],
-        "reason": "'Agent Hull' in ep140 is N-861 David Hull, a duplicate of N-861; merge pending after pass 2 (2026-10-19)"
+        "reason": "'Agent Hull' in ep140 is N-860 David Hull, a duplicate of N-860; merge pending after pass 2 (2026-10-19)"
       },
       {
         "id": "N-98",
@@ -597,7 +597,7 @@
         "reason": "Robert Shillman (intro ep7): named in ep5 C-473 when pass 2 (2026-10-16) corrected the mis-transcription 'Schulman guy'; moving his introduction would renumber the person band."
       },
       {
-        "id": "N-819",
+        "id": "N-818",
         "episodes": [
           34
         ],
@@ -842,49 +842,49 @@
         "reason": "Hillary Clinton (intro ep67): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-574",
+        "id": "N-573",
         "episodes": [
           50
         ],
         "reason": "Nicole Rothstein (intro ep77): pre-Wave-3 person (minted before Wave 3); the id sits in ledger intro order from the BoC remap / earlier waves, so moving the introduction earlier would re-sequence a merged person id and cascade through the graph. Out of Wave 3 scope; all 49 Wave 3 mints pass this gate."
       },
       {
-        "id": "N-649",
+        "id": "N-648",
         "episodes": [
           75
         ],
         "reason": "Marco Rubio is named in C-6785 text (ep75); first minted in the 2026-10-13 skeleton fill at ep111. The ep75 claim predates the person node; Wave 4 debt."
       },
       {
-        "id": "N-599",
+        "id": "N-598",
         "episodes": [
           80
         ],
         "reason": "Scott Bessent is named in C-7220 text (ep80); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       },
       {
-        "id": "N-598",
+        "id": "N-597",
         "episodes": [
           83
         ],
         "reason": "Katherine Locastro is named in A-1902.2 text (ep83); first minted in the 2026-10-13 skeleton fill at ep84. Wave 4 debt."
       },
       {
-        "id": "N-827",
+        "id": "N-826",
         "episodes": [
           94
         ],
         "reason": "Kathy Nester (defense attorney): named in existing ep94 claim C-8394 text; node minted in supplement batch 3 (ep142) where she is first linked. Claims are immutable, so the earlier naming is accepted rather than rewritten."
       },
       {
-        "id": "N-834",
+        "id": "N-833",
         "episodes": [
           152
         ],
         "reason": "Ed Sheeran: named in passing in existing ep152 claim C-13157 text; node minted in supplement batch 3 (ep160). Incidental mention; accepted rather than rewriting an immutable claim."
       },
       {
-        "id": "N-867",
+        "id": "N-866",
         "episodes": [
           14,
           32
@@ -892,42 +892,42 @@
         "reason": "Justin Bieber: named in passing in existing claims C-1295 (ep14) and C-2853 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
       },
       {
-        "id": "N-900",
+        "id": "N-899",
         "episodes": [
           124
         ],
         "reason": "Miss Noble: named in existing ep124 claim C-10623; node minted in supplement batch 5 (ep155). Accepted rather than rewriting an immutable claim."
       },
       {
-        "id": "N-897",
+        "id": "N-896",
         "episodes": [
           149
         ],
         "reason": "Blake Harreff: named in existing ep149 claims (C-12880..C-12881); node minted in supplement batch 5 (ep151). Accepted rather than rewriting immutable claims."
       },
       {
-        "id": "N-726",
+        "id": "N-725",
         "episodes": [
           26
         ],
-        "reason": "False positive by name: C-2394 (ep26) names the philosopher Karl Marx in a reading-list remark; N-726 is Victor Marx's father, introduced in ep91."
+        "reason": "False positive by name: C-2394 (ep26) names the philosopher Karl Marx in a reading-list remark; N-725 is Victor Marx's father, introduced in ep91."
       },
       {
-        "id": "N-876",
+        "id": "N-875",
         "episodes": [
           20
         ],
         "reason": "Jean-Michel Trogneux: named in passing in supplement claim C-1930 (ep20); node introduced in ep38. Incidental mention."
       },
       {
-        "id": "N-919",
+        "id": "N-918",
         "episodes": [
           88
         ],
         "reason": "Judge Liman: named in existing ep88 claim C-7952 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
       },
       {
-        "id": "N-943",
+        "id": "N-942",
         "episodes": [
           13,
           14
@@ -935,7 +935,7 @@
         "reason": "Robbie Hild: named in earlier claims C-1178 (ep13) and C-1283 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
       },
       {
-        "id": "N-876",
+        "id": "N-875",
         "episodes": [
           35
         ],
@@ -955,6 +955,6 @@
     "topic_min": 10000,
     "topic_max": null,
     "person_high_min": null,
-    "note": "Daveed, 2026-10-13: persons are N-1..N-9982 and topic/org/place nodes are N-10000+. Ids were compacted with no holes (audits/id_compaction_2026-10-13/id_map.csv). New persons continue from canonical next_person_id, new topic/org/place nodes from next_investigation_id. No tombstones: a merged or retired id is not reserved."
+    "note": "Daveed, 2026-10-13: persons are N-1..N-9980 and topic/org/place nodes are N-10000+. Ids were compacted with no holes (audits/id_compaction_2026-10-13/id_map.csv). New persons continue from canonical next_person_id, new topic/org/place nodes from next_investigation_id. No tombstones: a merged or retired id is not reserved."
   }
 }

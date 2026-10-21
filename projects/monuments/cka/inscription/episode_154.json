@@ -1163,8 +1163,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed \"Hegsmith\").",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-731",
+      "ref": "N-731",
       "name": "Stew Peters",
       "type": "person",
       "description": "Stew Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.",
@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-588",
-      "ref": "N-588",
+      "@id": "N-587",
+      "ref": "N-587",
       "name": "Matt Tardio",
       "type": "person",
       "description": "Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.",
@@ -2570,7 +2570,7 @@
       "transcript_snippet": "We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.",
       "mentions_person_refs": [
         "N-69",
-        "N-592",
+        "N-591",
         "N-3"
       ]
     },
@@ -2823,7 +2823,7 @@
       "transcript_snippet": "He was actually working for Stew Peters and he calls in effectively a favor to get him this job with Charlie Kirk.",
       "mentions_person_refs": [
         "N-159",
-        "N-732",
+        "N-731",
         "N-1"
       ]
     },
@@ -3158,7 +3158,7 @@
       "investigative_direction": "Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.",
       "transcript_snippet": "while you are chasing young women down alleys in front of ICE facilities.",
       "mentions_person_refs": [
-        "N-588",
+        "N-587",
         "N-2",
         "N-3"
       ]

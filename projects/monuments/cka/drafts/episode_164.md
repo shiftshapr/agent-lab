@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq164
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (catchup-2026-10-19): N-957, N-958, N-959, N-960, N-961, N-962, N-11422, N-11423, N-11424, N-11425
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-598, N-632, N-943, N-10000, N-10012, N-10062, N-10074, N-10537, N-10665, N-10687, N-10688, N-10715, N-10839, N-10864, N-10872, N-10874, N-11218, N-11263
+  - Tip-minted Nodes (catchup-2026-10-19): N-955, N-956, N-957, N-958, N-959, N-960, N-11422, N-11423, N-11424, N-11425
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-25, N-40, N-41, N-128, N-129, N-132, N-146, N-159, N-190, N-266, N-277, N-280, N-330, N-597, N-631, N-942, N-10000, N-10012, N-10062, N-10074, N-10537, N-10665, N-10687, N-10688, N-10715, N-10839, N-10864, N-10872, N-10874, N-11218, N-11263
   - Claim Range: C-14143–C-14228
   - (see registers)
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:07:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14156, C-14157, C-14158, C-14159, N-957, N-958*
+*Related: C-14156, C-14157, C-14158, C-14159, N-955, N-956*
 
 **A-3382.2** On-screen "Pokemon stats" graphic listing Val Peterson's roles
 
@@ -67,7 +67,7 @@ Video Timestamp: 00:13:59
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14204, N-957*
+*Related: C-14204, N-955*
 
 ---
 
@@ -82,7 +82,7 @@ Video Timestamp: 00:11:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14162, N-957, N-10839*
+*Related: C-14162, N-955, N-10839*
 
 ---
 
@@ -97,7 +97,7 @@ Video Timestamp: 00:14:36
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14168, C-14169, C-14170, N-957, N-959, N-960*
+*Related: C-14168, C-14169, C-14170, N-955, N-957, N-958*
 
 **A-3384.2** Instagram post of May 20, 2025 congratulating Rep. Tyler Clancy on a detective award
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:16:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14172, N-959*
+*Related: C-14172, N-957*
 
 **A-3384.3** Governor Spencer Cox social media post appointing Tyler Clancy state homeless coordinator
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:24:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14193, C-14194, N-41, N-959, N-961*
+*Related: C-14193, C-14194, N-41, N-957, N-959*
 
 **A-3384.4** Photo the host shows of Tyler Clancy and Robbie Hild
 
@@ -128,7 +128,7 @@ Video Timestamp: 00:27:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14198, N-959, N-943*
+*Related: C-14198, N-957, N-942*
 
 **A-3384.5** On-screen "Pokemon stats" graphic listing Tyler Clancy's roles
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:32:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14204, N-959*
+*Related: C-14204, N-957*
 
 ---
 
@@ -152,7 +152,7 @@ Video Timestamp: 00:20:40
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14181, C-14182, C-14183, C-14184, C-14185, C-14186, C-14187, C-14188, C-14189, N-7, N-190, N-598, N-4*
+*Related: C-14181, C-14182, C-14183, C-14184, C-14185, C-14186, C-14187, C-14188, C-14189, N-7, N-190, N-597, N-4*
 
 ---
 
@@ -167,7 +167,7 @@ Video Timestamp: 00:26:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14196, C-14197, N-128, N-943, N-132*
+*Related: C-14196, C-14197, N-128, N-942, N-132*
 
 ---
 
@@ -195,7 +195,7 @@ Video Timestamp: 00:35:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14207, C-14208, C-14209, N-962, N-5*
+*Related: C-14207, C-14208, C-14209, N-960, N-5*
 
 **A-3388.2** Business Insider headline on Zacharia and the bar question
 
@@ -206,7 +206,7 @@ Video Timestamp: 00:40:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14214, N-962, N-11424*
+*Related: C-14214, N-960, N-11424*
 
 ---
 
@@ -354,25 +354,25 @@ The host says he pointed her to Frank Turek's bloodied-bag story; she announces 
 
 *Related: C-14180, C-14228*
 
-**N-598** Katherine Locastro
+**N-597** Katherine Locastro
 
 Named in the Turek clip (transcribed "Katherine LoCastro") as arranging JD Vance's trip.
 
 *Related: C-14183*
 
-**N-632** Hunter Biden
+**N-631** Hunter Biden
 
 The host recalls his crack-and-stripper story as an analogy for the Cornell 7 case.
 
 *Related: C-14217*
 
-**N-943** Robbie Hild
+**N-942** Robbie Hild
 
 Named as Shaner Broderick's companion and as in Tyler Clancy's friend group.
 
 *Related: C-14196, C-14198*
 
-**N-957** Val Peterson
+**N-955** Val Peterson
 
 First named by the host at 00:04:18 in episode 164. UVU vice president, Utah state representative and retired National Guard brigadier general.
 
@@ -380,13 +380,13 @@ Aliases: Val Peterson (transcription)
 
 *Related: C-14150, C-14151, C-14152, C-14153, C-14154, C-14155, C-14156, C-14157, C-14158, C-14159, C-14160, C-14161, C-14162, C-14163, C-14166, C-14169, C-14204, A-3382.1, A-3383.1*
 
-**N-958** Hank McIntire
+**N-956** Hank McIntire
 
 First named by the host at 00:08:10 in episode 164. Utah National Guard spokesman quoted in the 2007 article on Peterson.
 
 *Related: C-14157, A-3382.1*
 
-**N-959** Tyler Clancy
+**N-957** Tyler Clancy
 
 First named by the host at 00:13:28 in episode 164. Utah state representative and Provo police detective whom the host alleges disposed of a bloodied bag on September 10.
 
@@ -394,19 +394,19 @@ Aliases: Tyler Clancy; Tyler Clancy (transcription)
 
 *Related: C-14166, C-14167, C-14168, C-14169, C-14170, C-14171, C-14172, C-14173, C-14174, C-14175, C-14176, C-14177, C-14178, C-14191, C-14192, C-14193, C-14195, C-14198, C-14204, A-3384.1*
 
-**N-960** Matt Schneck
+**N-958** Matt Schneck
 
 First named by the host at 00:15:14 in episode 164. Read as head coach of BYU men's lacrosse in the article on Tyler Clancy (spelling unverified).
 
 *Related: C-14170, A-3384.1*
 
-**N-961** Wayne Niederhauser
+**N-959** Wayne Niederhauser
 
 First named by the host at 00:25:12 in episode 164. Outgoing Utah state homeless coordinator named in Governor Cox's post (transcribed "Wayne Niederhauser").
 
 *Related: C-14194, A-3384.3*
 
-**N-962** Katie Zacharia
+**N-960** Katie Zacharia
 
 First named by the host at 00:35:06 in episode 164. New White House press secretary replacing Karoline Leavitt.
 
@@ -507,21 +507,21 @@ The host says Clancy was also on ICAC.
 Node Type: Topic
 The host's question of where UVU vice president and retired brigadier general Val Peterson was on September 10, 2025, after the after-action report placed him about 45 minutes from campus at the time of the shooting; she notes Salt Lake City and National Guard facilities but says she has no idea whether he was there.
 
-*Related: C-14161, C-14162, C-14163, C-14165, N-957*
+*Related: C-14161, C-14162, C-14163, C-14165, N-955*
 
 **N-11423** Tyler Clancy Bloodied Bag Disposal Allegation
 
 Node Type: Topic
 The host's allegation, attributed to multiple Provo and Orem sources, that Provo officer Tyler Clancy carried Turning Point USA members or affiliates in his car on September 10, 2025 and disposed of a bloodied bag one of them left there, which she links to Frank Turek's account of asking a police officer to dispose of his bag.
 
-*Related: C-14177, C-14178, C-14179, C-14180, C-14181, C-14189, C-14191, N-959, N-7*
+*Related: C-14177, C-14178, C-14179, C-14180, C-14181, C-14189, C-14191, N-957, N-7*
 
 **N-11424** Katie Zacharia Law Credential Question
 
 Node Type: Topic
 The host's and press reports' question of whether new White House press secretary Katie Zacharia graduated law school and passed a bar exam.
 
-*Related: C-14212, C-14213, C-14214, A-3388.2, N-962*
+*Related: C-14212, C-14213, C-14214, A-3388.2, N-960*
 
 **N-11425** Cornell 7 Case
 
@@ -655,7 +655,7 @@ Claim: The host introduces Val Peterson as a new character in the September 10 s
 Transcript Snippet: First up is a man named Val Peterson. He is incredibly important. He's a faculty member at UVU.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: UVU staff directory and Peterson's official title.
@@ -671,7 +671,7 @@ Claim: The host says she is told faculty are terrified of Peterson and that he i
 Transcript Snippet: Uh he is allegedly, I'll say this part, allegedly decisively team turning point USA against his own faculty members.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10000, N-10012
 Tags: relevance:core
 Investigative Direction: UVU faculty accounts and internal communications on the Turning Point event.
@@ -687,7 +687,7 @@ Claim: The host says Peterson started at the school in June 1987, when it was Ut
 Transcript Snippet: So, Val started at UVU before it was UVU in June of 1987.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: UVU biography of Val Peterson.
@@ -703,7 +703,7 @@ Claim: The host says Peterson is UVU's vice president of administration and stra
 Transcript Snippet: Today he is officially the vice president of the administration and strategic relations. He oversees a budget of more than 50 million dollars.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: UVU organizational chart and budget documents.
@@ -719,7 +719,7 @@ Claim: The host says Peterson currently also serves in Utah's House of Represent
 Transcript Snippet: he also currently serves in Utah's House of Representatives. Yeah. At the same time, he represents the 56th district from American Fork to Orem.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10062
 Tags: relevance:context
 Investigative Direction: Utah House of Representatives member roster.
@@ -735,7 +735,7 @@ Claim: The host says Peterson is a brigadier general who for 30 years led in the
 Transcript Snippet: Most interestingly, Val Peterson is a brigadier general. For 30 years, he led the state's National Guard, particularly the state's military intelligence brigade
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Utah National Guard service records and retirement announcement.
@@ -751,7 +751,7 @@ Claim: Per the 2007 article the host shows, then-Lieutenant Colonel Peterson ass
 Transcript Snippet: Peterson assumed command of the 300th Military Intelligence Brigade, a linguist and intelligence unit headquartered in Utah that has nearly 2,000 language specialist troops in six states.
 
 Anchored Artifacts: A-3382.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: The original 2007 article and Utah National Guard change-of-command records.
@@ -767,7 +767,7 @@ Claim: Per the article the host reads, Utah National Guard spokesman Major Hank 
 Transcript Snippet: Major Hank McIntire, spokesman for the Utah National Guard, said Peterson, as a Spanish linguist, is uniquely in touch
 
 Anchored Artifacts: A-3382.1
-Mentions: N-957, N-958
+Mentions: N-955, N-956
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: The original 2007 article.
@@ -783,7 +783,7 @@ Claim: Per the article, Peterson, a native of Moscow, Idaho, served a mission fo
 Transcript Snippet: Peterson went on a mission for the Church of Jesus Christ of Latter-day Saints to Colombia where he gained a mastery of Spanish
 
 Anchored Artifacts: A-3382.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: The original 2007 article.
@@ -799,7 +799,7 @@ Claim: Per the article, Peterson had been employed by UVSC since 1987, was servi
 Transcript Snippet: Employed by UVSC since 1987, Peterson is serving as the college's vice president for the administrative legislative affairs and he holds a master's and a doctoral degree from BYU.
 
 Anchored Artifacts: A-3382.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: BYU degree records and UVU biography.
@@ -815,7 +815,7 @@ Claim: The host says Peterson retired as a brigadier general responsible for tra
 Transcript Snippet: he was responsible as a brigadier general for training, readiness, administration, uniform code of military justice for six major army commands within the state of Utah.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Utah National Guard retirement records.
@@ -831,7 +831,7 @@ Claim: The host says Val Peterson was not at the university on September 10 when
 Transcript Snippet: on September 10th, Val Peterson was not at the university when Charlie Kirk was assassinated.
 
 Anchored Artifacts:
-Mentions: N-957, N-1
+Mentions: N-955, N-1
 Related Nodes: N-10012, N-11422
 Tags: relevance:core
 Investigative Direction: UVU after-action report and Peterson's September 10 schedule.
@@ -847,7 +847,7 @@ Claim: Per the after-action report the host shows, Peterson was approximately 45
 Transcript Snippet: It tells us that at the time of the shooting, Peterson was approximately 45 minutes from campus.
 
 Anchored Artifacts: A-3383.1
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-10839, N-11422
 Tags: relevance:core
 Investigative Direction: The UVU after-action report and Peterson's phone records for September 10.
@@ -863,7 +863,7 @@ Claim: The host says Salt Lake City, where she says the National Guard air base 
 Transcript Snippet: do you know what actually is 45 minutes away from campus? Salt Lake City is. That's where the National Guard air base is. For clarity, I have no idea if Val Peterson was there.
 
 Anchored Artifacts:
-Mentions: N-957
+Mentions: N-955
 Related Nodes: N-11422
 Tags: relevance:core
 Investigative Direction: Peterson's location records for September 10 and Guard base visitor logs.
@@ -911,7 +911,7 @@ Claim: The host says Peterson also served as a church leader to some BYU student
 Transcript Snippet: he also served as the church leader to some BYU students.
 
 Anchored Artifacts:
-Mentions: N-957, N-959
+Mentions: N-955, N-957
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: LDS ward records and the article quoting Peterson.
@@ -927,7 +927,7 @@ Claim: The host says Tyler Clancy's name reached her through the lawsuit talk, t
 Transcript Snippet: Tyler Clancy is very young, actually born in 1997.
 
 Anchored Artifacts:
-Mentions: N-959, N-957
+Mentions: N-957, N-955
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Clancy's official legislative biography.
@@ -943,7 +943,7 @@ Claim: The host says Tyler Clancy was the youngest person to serve in the Utah H
 Transcript Snippet: Tyler Clancy was the youngest person to serve in the Utah House of Representatives since 1834.
 
 Anchored Artifacts: A-3384.1
-Mentions: N-959
+Mentions: N-957
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: The article the host shows and Utah legislative history records.
@@ -959,7 +959,7 @@ Claim: Per the article the host shows, Peterson, who served alongside Clancy in 
 Transcript Snippet: was Clancy's church leader during his time at BYU and has helped the young lawmaker navigate the learning curve inherent in the legislative process.
 
 Anchored Artifacts: A-3384.1
-Mentions: N-957, N-959
+Mentions: N-955, N-957
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: The original article.
@@ -975,7 +975,7 @@ Claim: Per the article, BYU men's lacrosse head coach Matt Schneck said Clancy's
 Transcript Snippet: Clancy's reputation for community leadership was mirrored by the leadership role that he earned on the BYU lacrosse team
 
 Anchored Artifacts: A-3384.1
-Mentions: N-959, N-960
+Mentions: N-957, N-958
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: BYU men's lacrosse rosters and coaching staff.
@@ -991,7 +991,7 @@ Claim: The host says that on September 10, 2025, Clancy was serving both in the 
 Transcript Snippet: on September 10th, 2025, not only was he serving in the House of Reps, but he was also serving as a Provo police officer, Special Victims Unit.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-10074, N-11263
 Tags: relevance:core
 Investigative Direction: Provo Police Department personnel records for September 2025.
@@ -1007,7 +1007,7 @@ Claim: Per a May 20, 2025 Instagram post the host shows, Clancy received an awar
 Transcript Snippet: Today he received the Lrand and Beth Baker award for his service as a detective in Provo PD's special victims unit
 
 Anchored Artifacts: A-3384.2
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-10074
 Tags: relevance:context
 Investigative Direction: The Instagram post and the awarding organization's records.
@@ -1023,7 +1023,7 @@ Claim: The host says her team reached out to Tyler Clancy for comment before the
 Transcript Snippet: we reached out to Tyler Clancy for comment to confirm these facts ahead of today's show and we have not yet heard back.
 
 Anchored Artifacts:
-Mentions: N-959, N-3
+Mentions: N-957, N-3
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Clancy's response, if any, and the outreach record.
@@ -1039,7 +1039,7 @@ Claim: The host says it has been confirmed through other people that Clancy was 
 Transcript Snippet: Tyler Clancy was in fact on duty at the as a Provo police officer on September 11th.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-10074
 Tags: relevance:core
 Investigative Direction: Provo Police Department duty rosters for September 10-11, 2025.
@@ -1055,7 +1055,7 @@ Claim: The host alleges Clancy was at Timpanogos hospital shortly after Charlie 
 Transcript Snippet: He was allegedly at Timpanogos um hospital shortly after Charlie arrived.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-11218
 Tags: relevance:core
 Investigative Direction: Timpanogos hospital security logs and Provo police dispatch records.
@@ -1071,7 +1071,7 @@ Claim: The host says that when Erika Kirk was due to land, Clancy was dispatched
 Transcript Snippet: it was Tyler Clancy who was dispatched from Timpanogos uh with officer with another officer to escort Erika from the airport.
 
 Anchored Artifacts:
-Mentions: N-959, N-2
+Mentions: N-957, N-2
 Related Nodes: N-11218
 Tags: relevance:core
 Investigative Direction: Police dispatch records and airport arrival records for Erika Kirk on September 10.
@@ -1087,7 +1087,7 @@ Claim: The host alleges she is told Clancy had some Turning Point USA staff memb
 Transcript Snippet: I'm told he had some Turning Point USA members, staff members or affiliates in his car
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-10000, N-11423
 Tags: relevance:core
 Investigative Direction: Provo police vehicle logs and statements from Turning Point staff on transport that day.
@@ -1103,7 +1103,7 @@ Claim: The host alleges that one of the Turning Point members, affiliates or gue
 Transcript Snippet: one of those Turning Point members or affiliates, guests, um, left a bloodied bag in Tyler Clancy's car, and Tyler then disposed of that bloodied bag on the same day.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-10000, N-11423
 Tags: relevance:core
 Investigative Direction: Provo police evidence logs for September 10 and Clancy's own account.
@@ -1183,7 +1183,7 @@ Claim: In a clip the host plays, Frank Turek says the group went from Orem to Sa
 Transcript Snippet: because Mikey and Katherine LoCastro, also a great team member at TPUSA, arranged for JD Vance to come and take Charlie's body back to Phoenix.
 
 Anchored Artifacts: A-3385.1
-Mentions: N-7, N-190, N-598, N-4, N-1
+Mentions: N-7, N-190, N-597, N-4, N-1
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Flight records of the vice president's aircraft on September 10.
@@ -1313,7 +1313,7 @@ Claim: The host says Turek's story at least establishes that a police officer wa
 Transcript Snippet: that he willfully threw out this bloodied bag. And I'm inclined to believe that was Tyler Clancy.
 
 Anchored Artifacts:
-Mentions: N-959
+Mentions: N-957
 Related Nodes: N-11423
 Tags: relevance:core
 Investigative Direction: Identity of the officer in Turek's car and Clancy's assignment records.
@@ -1329,7 +1329,7 @@ Claim: The host says that very shortly after the assassination, Governor Cox pro
 Transcript Snippet: Very shortly after the assassination, Governor Cox promoted him, allowing him to achieve another Utah state first.
 
 Anchored Artifacts:
-Mentions: N-41, N-959
+Mentions: N-41, N-957
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Governor's office appointment records and their timing.
@@ -1345,7 +1345,7 @@ Claim: The host says Clancy left his Provo SVU detective role and was appointed 
 Transcript Snippet: The appointment was announced on October 30th.
 
 Anchored Artifacts: A-3384.3
-Mentions: N-959, N-41
+Mentions: N-957, N-41
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: The governor's post and press release.
@@ -1361,7 +1361,7 @@ Claim: Per the Cox post the host shows, the governor thanked outgoing state home
 Transcript Snippet: Thank you to Wayne Niederhauser, our outgoing state homeless coordinator, for his service and congratulations on his retirement
 
 Anchored Artifacts: A-3384.3
-Mentions: N-41, N-961
+Mentions: N-41, N-959
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: The governor's post.
@@ -1377,7 +1377,7 @@ Claim: The host says she learned from multiple people with direct knowledge that
 Transcript Snippet: you will never guess who I learned that Tyler Clancy is allegedly best friends with
 
 Anchored Artifacts:
-Mentions: N-959, N-128
+Mentions: N-957, N-128
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Social media connections and BYU lacrosse rosters.
@@ -1393,7 +1393,7 @@ Claim: The host recalls that Shaner Broderick posted on Instagram after the manh
 Transcript Snippet: A Shaner Broderick swoops in with his friends Robbie Hild and Gerno who volunteered according to Shaner I should say to retrace the steps of the alleged killer.
 
 Anchored Artifacts: A-3386.1
-Mentions: N-128, N-943, N-132
+Mentions: N-128, N-942, N-132
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Archived copy of Broderick's Instagram post.
@@ -1425,7 +1425,7 @@ Claim: The host says Tyler Clancy and Shaner Broderick are best friends and that
 Transcript Snippet: Tyler Clancy and Shaner are best friends. He's in the same friend group with Robbie Hild because the two of them played lacrosse with one another at BYU.
 
 Anchored Artifacts: A-3384.4
-Mentions: N-959, N-128, N-943
+Mentions: N-957, N-128, N-942
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: BYU men's lacrosse rosters and the source of the photo.
@@ -1524,7 +1524,7 @@ Claim: Showing the role lists for Clancy and Peterson, the host says holding the
 Transcript Snippet: it's allowed in Utah by the way. They're not breaking the law by doing this.
 
 Anchored Artifacts: A-3382.2, A-3384.5
-Mentions: N-959, N-957
+Mentions: N-957, N-955
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Utah legislative conflict-of-interest disclosure forms for both men.
@@ -1556,7 +1556,7 @@ Claim: The host says it was recently announced that Katie Zacharia would take ov
 Transcript Snippet: now we have someone whose name is Katie Zacharia. Okay, it was recently announced that she would have taken over Karoline Leavitt.
 
 Anchored Artifacts:
-Mentions: N-962, N-280
+Mentions: N-960, N-280
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: White House announcement of the appointment.
@@ -1572,7 +1572,7 @@ Claim: In a clip the host plays, Zacharia says Trump held a rally in Youngstown,
 Transcript Snippet: as well as special guest Jake Paul and football legend Jon Gruden.
 
 Anchored Artifacts: A-3388.1
-Mentions: N-962, N-5
+Mentions: N-960, N-5
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Rally coverage from Youngstown.
@@ -1588,7 +1588,7 @@ Claim: In the clip, Zacharia says the president announced that the Department of
 Transcript Snippet: the Department of War has officially selected Cleveland, Ohio as the new home for the US Navy's submarine component repair center.
 
 Anchored Artifacts: A-3388.1
-Mentions: N-962, N-5
+Mentions: N-960, N-5
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Department of War announcement.
@@ -1604,7 +1604,7 @@ Claim: The host says Zacharia read her entire opening statement from notes, incl
 Transcript Snippet: She's just reading the entire thing, including her own name.
 
 Anchored Artifacts: A-3388.1
-Mentions: N-962
+Mentions: N-960
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Full video of the briefing.
@@ -1620,7 +1620,7 @@ Claim: The host speculates that donors were somehow involved in Zacharia's selec
 Transcript Snippet: I'm going to guess actually there's going to be like donors somehow involved in that.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Reporting on how Zacharia was chosen.
@@ -1636,7 +1636,7 @@ Claim: The host compares Zacharia to Erika Kirk, saying Erika Kirk says she was 
 Transcript Snippet: It's like with Erika Kirk when Eric Kirk says that, you know, she was in law school, you know, or rather that she that she has a doctorate. It's hard to confirm that.
 
 Anchored Artifacts:
-Mentions: N-2, N-962
+Mentions: N-2, N-960
 Related Nodes: N-10665
 Tags: relevance:core
 Investigative Direction: Degree-verification records for Erika Kirk.
@@ -1652,7 +1652,7 @@ Claim: The host says journalists cannot confirm that Zacharia graduated law scho
 Transcript Snippet: Well, Katie, they can't confirm that she graduated law school.
 
 Anchored Artifacts:
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11424
 Tags: relevance:context
 Investigative Direction: Law school graduation records and bar admission databases.
@@ -1668,7 +1668,7 @@ Claim: The host says Zacharia's answer was that she studied some law at Pepperdi
 Transcript Snippet: Well, I studied some law at uh Pepperdine University, same university Erika went to for a year, which we couldn't confirm whether she was in person or just doing it online.
 
 Anchored Artifacts:
-Mentions: N-962, N-2
+Mentions: N-960, N-2
 Related Nodes: N-11424, N-10665
 Tags: relevance:context
 Investigative Direction: Pepperdine enrollment verification for both women.
@@ -1684,7 +1684,7 @@ Claim: Per the Business Insider headline the host shows, Zacharia's statement sa
 Transcript Snippet: it reads in a statement said she quote practiced international transaction law with all the appropriate credentials end quote.
 
 Anchored Artifacts: A-3388.2
-Mentions: N-962
+Mentions: N-960
 Related Nodes: N-11424
 Tags: relevance:context
 Investigative Direction: State bar admission records.
@@ -1732,7 +1732,7 @@ Claim: The host says the case reminds her of sitting down with Hunter Biden, who
 Transcript Snippet: this reminds me of sitting down with Hunter Biden he agreed to do crack at a Motel 8 Motel 7 whatever it was he agreed to have a stripper And then that stripper robbed him.
 
 Anchored Artifacts:
-Mentions: N-632
+Mentions: N-631
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: The host's Hunter Biden interview.
@@ -1876,7 +1876,7 @@ Claim: A viewer comment the host reads says the new White House press secretary 
 Transcript Snippet: Obviously, the new White House press secretary is being coached by Erika.
 
 Anchored Artifacts: A-3390.1
-Mentions: N-962, N-2
+Mentions: N-960, N-2
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Any documented contact between Erika Kirk and Zacharia.

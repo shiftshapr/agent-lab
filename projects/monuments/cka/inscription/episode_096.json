@@ -354,7 +354,7 @@
             "N-60",
             "N-201",
             "N-372",
-            "N-551"
+            "N-550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
           "related_nodes": [
             "N-3",
             "N-60",
-            "N-551"
+            "N-550"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -1182,8 +1182,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -1752,8 +1752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Druski",
       "type": "person",
       "description": "Druski; named by Erika Kirk in her statement.",
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-812",
+      "ref": "N-812",
       "name": "Dan Scavino",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-814",
-      "ref": "N-814",
+      "@id": "N-813",
+      "ref": "N-813",
       "name": "Natalie Harp",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
@@ -2200,7 +2200,7 @@
         "N-3",
         "N-60",
         "N-201",
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -2688,8 +2688,8 @@
       "transcript_snippet": "Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.",
       "mentions_person_refs": [
         "N-5",
-        "N-813",
-        "N-814"
+        "N-812",
+        "N-813"
       ]
     },
     {
@@ -2986,7 +2986,7 @@
       "transcript_snippet": "she name-dropped Druski and she name-dropped me",
       "mentions_person_refs": [
         "N-2",
-        "N-595",
+        "N-594",
         "N-3"
       ]
     },
@@ -3215,7 +3215,7 @@
       "investigative_direction": "Aubrey Laitsch's own account, and a comparison of the host's reporting against what Laitsch could have known.",
       "transcript_snippet": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.",
       "mentions_person_refs": [
-        "N-551",
+        "N-550",
         "N-3"
       ]
     },
@@ -3590,7 +3590,7 @@
       "investigative_direction": "Aubrey Laitsch's original post.",
       "transcript_snippet": "An obvious AI photo joke from Aubrey saying, \"Happy birthday, Candace.\"",
       "mentions_person_refs": [
-        "N-551",
+        "N-550",
         "N-3"
       ]
     },
@@ -3638,7 +3638,7 @@
         "C-8624"
       ],
       "mentions_person_refs": [
-        "N-551",
+        "N-550",
         "N-201",
         "N-372",
         "N-3"

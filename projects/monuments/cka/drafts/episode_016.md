@@ -12,9 +12,9 @@
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-902, N-11321
+  - Tip-minted Nodes (supplement_2026-10f): N-901, N-11321
   - Hole-minted Nodes (reintro-ep016): N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
-  - Tip-minted Nodes (reintro-ep016): N-864, N-11013, N-11158
+  - Tip-minted Nodes (reintro-ep016): N-863, N-11013, N-11158
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1402–C-1510
   - New Nodes Introduced: N-154, N-155, N-156, N-157, N-159, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
@@ -327,7 +327,7 @@ Video Timestamp: 00:07:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-1410, C-1412, C-1413, N-1, N-3, N-40, N-902, N-118, N-10206, N-11158*
+*Related: C-1410, C-1412, C-1413, N-1, N-3, N-40, N-901, N-118, N-10206, N-11158*
 
 ---
 
@@ -798,7 +798,7 @@ Piers Morgan; host of the show on which O'Neill appeared.
 
 ---
 
-**N-864** Britta Weidner
+**N-863** Britta Weidner
 
 Britta Weidner; author of posts the host reads.
 
@@ -1102,7 +1102,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-902** Ashton Forbes
+**N-901** Ashton Forbes
 
 First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.
 
@@ -1212,7 +1212,7 @@ Claim Timestamp: 00:08:09
 Claim: A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.
 
 Anchored Artifacts: A-1227.1, A-1227.2
-Mentions: N-3, N-864
+Mentions: N-3, N-863
 Investigative Direction: Cross-reference the Britta accusation against the Kolvet confirmation (C-1431) to determine whether Britta publicly retracted or updated her position.
 
 ---
@@ -1528,7 +1528,7 @@ Claim: The host reads a post by Ashton Forbes saying Candace Owens has no credib
 Transcript Snippet: First off, Candace has no credibility. Second, there's a bunch of Telegram group chat scams that claim to be real people.
 
 Anchored Artifacts: A-3182.1
-Mentions: N-902, N-3, N-118
+Mentions: N-901, N-3, N-118
 Related Nodes: N-10206
 Tags: relevance:context
 Investigative Direction: Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.
@@ -1544,7 +1544,7 @@ Claim: The host reads Ashton Forbes writing that, even if the text messages were
 Transcript Snippet: Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.
 
 Anchored Artifacts: A-3182.1
-Mentions: N-902, N-1, N-40
+Mentions: N-901, N-1, N-40
 Related Nodes: N-10206
 Tags: relevance:context
 Investigative Direction: Pull the original post; compare with Andrew Kolvet's statement (C-1431 and C-1440) that the chain fits Kirk's known frustrations about Israel.
@@ -1560,7 +1560,7 @@ Claim: The host reads Ashton Forbes writing that he finds it scary how Candace O
 Transcript Snippet: I find it scary how Candace is building a literal cult. Soon they'll be drinking Kool-Aid in sync
 
 Anchored Artifacts: A-3182.1
-Mentions: N-902, N-3
+Mentions: N-901, N-3
 Related Nodes: N-11158
 Tags: relevance:context
 Investigative Direction: Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.
@@ -1576,7 +1576,7 @@ Claim: The host says that Britta, who she says posted asking whether Candace was
 Transcript Snippet: She wrote and by the way she used to work for Seth Dillon.
 
 Anchored Artifacts: 
-Mentions: N-864, N-38
+Mentions: N-863, N-38
 Tags: relevance:context
 Investigative Direction: Check Britta's public employment history with Seth Dillon's company; the host says it only as context for her posts.
 
@@ -1638,7 +1638,7 @@ Claim: The host reads a Britta post saying Candace thinks it is cute to use Nazi
 Transcript Snippet: Candace thinks it's cute to use Nazi terminology and make a turning point pun while she incites further harassment of TPUSA employees by implicating them in Charlie's death.
 
 Anchored Artifacts: A-1227.5
-Mentions: N-864, N-3
+Mentions: N-863, N-3
 Tags: relevance:context
 Investigative Direction: Pull the original post; the host denies the characterization and says the word simply means a bombardment.
 
@@ -2853,7 +2853,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:08:55
-Speaker: N-864
+Speaker: N-863
 Quote: I'm just asking questions.
 Context: Host reads Britta's post and mocks the phrase; the quoted phrase is Britta's.
 Tags: britta, x

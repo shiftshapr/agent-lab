@@ -1470,8 +1470,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-579",
+      "ref": "N-579",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Thomas Massie; named in a viewer comment.",
@@ -1487,8 +1487,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Druski",
       "type": "person",
       "description": "Druski (spelled Druski and Druski in the transcript); comedian whose skit mocked Erika.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-799",
-      "ref": "N-799",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Harris Faulkner",
       "type": "person",
       "description": "Harris Faulkner; Fox host who interviewed Erika.",
@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-892",
-      "ref": "N-892",
+      "@id": "N-891",
+      "ref": "N-891",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; lawyer whose publish-it-all approach the host cites.",
@@ -3231,7 +3231,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -3252,7 +3252,7 @@
       "transcript_snippet": "the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.",
       "mentions_person_refs": [
         "N-14",
-        "N-595",
+        "N-594",
         "N-2"
       ]
     },
@@ -3273,7 +3273,7 @@
       "investigative_direction": "Locate the nail salon skit and its date.",
       "transcript_snippet": "He dressed up like he was Vietnamese person, did this whole nail salon thing.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -3293,7 +3293,7 @@
       "investigative_direction": "Locate the video and its date.",
       "transcript_snippet": "just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -3400,7 +3400,7 @@
       "investigative_direction": "Watch for the host's publication of the Fort Huachuca timeline, messages and documents.",
       "transcript_snippet": "I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.",
       "mentions_person_refs": [
-        "N-892",
+        "N-891",
         "N-484",
         "N-485",
         "N-3"
@@ -3565,7 +3565,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-799",
+        "N-798",
         "N-3"
       ]
     },

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11379, N-11380, N-11381, N-11382
   - Hole-minted Nodes (reintro-ep047): N-432
-  - Tip-minted Nodes (reintro-ep047): N-639
+  - Tip-minted Nodes (reintro-ep047): N-638
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4054–C-4176
   - (see registers)
@@ -35,7 +35,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - New Nodes Introduced: N-328, N-330, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-329, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-847, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
+  - Reused Nodes Appearing: N-329, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-846, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
 
 ---, N-11
 
@@ -341,7 +341,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-4065, N-10340, N-14, N-3, N-847*
+*Related: C-4065, N-10340, N-14, N-3, N-846*
 
 ---
 
@@ -399,7 +399,7 @@ Video Timestamp: 00:53:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4154, C-4155, N-639, N-11382, N-10097, N-104, N-333, N-40, N-42*
+*Related: C-4154, C-4155, N-638, N-11382, N-10097, N-104, N-333, N-40, N-42*
 
 ---
 
@@ -1088,7 +1088,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-639** Ryan Routh
+**N-638** Ryan Routh
 
 First named by a clip speaker at 00:53:58 in episode 47 (spelled Ryan Routh in the transcript). Named alongside Thomas Crooks in a radicalization timing theory.
 
@@ -1284,7 +1284,7 @@ Named by the host regarding a demand she ignored.
 
 ---
 
-**N-847** Jimmy Dore
+**N-846** Jimmy Dore
 
 Host of the show where Candace clarified her text sourcing.
 
@@ -2098,7 +2098,7 @@ Claim: The host says that on the Jimmy Dore show she clarified that Andrew Kolve
 Transcript Snippet: I said Andrew Kolvet told me specifically that he was one of the people that received this text message. So I got that first person. I didn't get that from a source.
 
 Anchored Artifacts: A-3292
-Mentions: N-3, N-14, N-847
+Mentions: N-3, N-14, N-846
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet's own statements on the night-before text.
@@ -3077,7 +3077,7 @@ Claim: A speaker in the Kirk Show clip, addressed as Viva, says that Tyler Robin
 Transcript Snippet: Tyler Robinson is getting radicalized right about the same time as Thomas Crooks, right about the same time as uh the other guy, Ryan Routh.
 
 Anchored Artifacts: A-3296
-Mentions: N-333, N-40, N-104, N-639
+Mentions: N-333, N-40, N-104, N-638
 Related Nodes: N-11382
 Tags: relevance:core
 Investigative Direction: Identify the speaker and compare the dates of the named individuals' alleged radicalization.

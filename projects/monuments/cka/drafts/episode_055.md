@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-933, N-11383, N-11384, N-11385, N-11386
+  - Tip-minted Nodes (supplement_2026-10g): N-932, N-11383, N-11384, N-11385, N-11386
   - Hole-minted Nodes (reintro-ep055): N-10883
-  - Tip-minted Nodes (reintro-ep055): N-612
+  - Tip-minted Nodes (reintro-ep055): N-611
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4871–C-4981
   - New Nodes Introduced: N-438, N-440, N-441, N-442, N-443, N-444, N-10402, N-10403, N-10404, N-10405, N-10407, N-10408
-  - Reused Nodes Appearing: N-10406, N-437, N-439, N-9, N-36, N-38, N-201, N-361, N-398, N-594, N-10000, N-10015, N-10025, N-10026, N-10063, N-10082, N-10209, N-10324, N-10376, N-10378, N-10398, N-10399, N-11104, N-11153, N-11163, N-11164, N-11169, N-11323
+  - Reused Nodes Appearing: N-10406, N-437, N-439, N-9, N-36, N-38, N-201, N-361, N-398, N-593, N-10000, N-10015, N-10025, N-10026, N-10063, N-10082, N-10209, N-10324, N-10376, N-10378, N-10398, N-10399, N-11104, N-11153, N-11163, N-11164, N-11169, N-11323
   - (see registers)
 
 # Episode 55 – Analysis Record
@@ -648,7 +648,7 @@ Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godw
 
 ---
 
-**N-594** Jordan Peterson
+**N-593** Jordan Peterson
 
 Jordan Peterson; the host says he co-created the report on Christ Is King with Johnnie Moore and was cited by Kolvet.
 
@@ -656,7 +656,7 @@ Jordan Peterson; the host says he co-created the report on Christ Is King with J
 
 ---
 
-**N-612** Dennis Prager
+**N-611** Dennis Prager
 
 Dennis Prager; the host says Kolvet told her he fell and was seriously injured after writing about her.
 
@@ -816,7 +816,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-933** Javier Milei
+**N-932** Javier Milei
 
 First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.
 
@@ -1489,7 +1489,7 @@ Claim: The host says Kolvet told her that Dennis Prager, who had just written an
 Transcript Snippet: Dennis Prager, who had just written this open article about me and it was not done in a very nice way, had actually fallen and it was very he was very seriously injured.
 
 Anchored Artifacts: 
-Mentions: N-14, N-612, N-3
+Mentions: N-14, N-611, N-3
 Tags: relevance:tangential
 Investigative Direction: Verify the date and nature of Prager's injury and the date of his article about the host from public reporting.
 
@@ -1504,7 +1504,7 @@ Claim: The host says Kolvet went on to cite 'the Daily Wire thing and the Jordan
 Transcript Snippet: Oh, the Daily Wire thing and the Jordan Peterson thing and like bad things are happening to people after they attack you.
 
 Anchored Artifacts: 
-Mentions: N-14, N-594, N-3
+Mentions: N-14, N-593, N-3
 Tags: relevance:tangential
 Investigative Direction: Ask Kolvet to confirm the conversation; check which Daily Wire and Peterson events he meant.
 
@@ -1897,7 +1897,7 @@ Claim: The host says that a year after the ADL listing Jordan Peterson and Rever
 Transcript Snippet: Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnnie Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.
 
 Anchored Artifacts: 
-Mentions: N-594, N-437, N-3
+Mentions: N-593, N-437, N-3
 Related Nodes: N-11153
 Tags: relevance:context
 Investigative Direction: Locate the report and video graphic, their authors, date and publisher, and any ADL involvement.
@@ -2495,7 +2495,7 @@ Claim: The host says she was attacked for distrusting the Argentine president, t
 Transcript Snippet: Saw some stuff about like really his full last name is Mileikowsky and he looks a little like BB Nyahoo.
 
 Anchored Artifacts: 
-Mentions: N-933, N-36
+Mentions: N-932, N-36
 Tags: relevance:tangential
 Investigative Direction: Check the rumor that Javier Milei's surname is Mileikowsky (Netanyahu's family name); the host offers only a viral rumor and labels it a conspiracy.
 

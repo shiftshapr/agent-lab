@@ -15,7 +15,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11060–C-11157
   - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-367, N-487, N-504, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-545, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
+  - Reused Nodes Appearing: N-1, N-2, N-367, N-487, N-504, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-544, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
   - (see registers)
 
 ## 2. Executive Summary
@@ -653,7 +653,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-545** Tracy Martin
+**N-544** Tracy Martin
 
 Tracy Martin; the host's guess for the Daily Mail family friend.
 
@@ -1846,7 +1846,7 @@ Claim: The host says her guess is Tracy Martin, the one person she knows who is 
 Transcript Snippet: My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?
 
 Anchored Artifacts: A-2164.1
-Mentions: N-545, N-3
+Mentions: N-544, N-3
 Related Nodes: N-10743
 Tags: relevance:core
 Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.

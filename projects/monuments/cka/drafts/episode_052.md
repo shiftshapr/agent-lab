@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a6a278c2583b1645dba697664ad3dba290528b1fc08b7e4b9b7e81180d1a7018
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-765, N-11110, N-11111, N-11112, N-11113, N-11114, N-11115
+  - Tip-minted Nodes (supplement_2026-10b): N-764, N-11110, N-11111, N-11112, N-11113, N-11114, N-11115
   - Hole-minted Nodes (reintro-ep052): N-489, N-10740, N-10797, N-10832
   - Tip-minted Nodes (reintro-ep052): N-11054
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -859,7 +859,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-765** Trent Franks
+**N-764** Trent Franks
 
 First named by the host at 00:33:30 in episode 052 as the congressman who supported David Farnsworth's EMP bill.
 
@@ -2204,7 +2204,7 @@ Claim: The host says the record shows David Farnsworth became concerned about an
 Transcript Snippet: And he got support from Congressman Trent Franks.
 
 Anchored Artifacts: A-1581.1
-Mentions: N-3, N-381, N-765
+Mentions: N-3, N-381, N-764
 Related Nodes: N-10383
 Supports: C-4591
 Tags: relevance:context

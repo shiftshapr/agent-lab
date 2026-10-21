@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Michael Jackson",
       "type": "person",
       "description": "Subject of the Daily Wire episode the host cites as a firing reason.",
@@ -2269,7 +2269,7 @@
       "transcript_snippet": "I insinuated in an episode that I had done while I was at the Daily Wire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run by a gang.",
       "mentions_person_refs": [
         "N-3",
-        "N-738"
+        "N-737"
       ]
     },
     {

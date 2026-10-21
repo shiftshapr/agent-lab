@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4ff884e8b88d089e5a5ddcb0facbdda169075c76bb9db2e13f6bf6d6be1cad05
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-718, N-719, N-11035, N-11036, N-11037, N-11039
+  - Tip-minted Nodes (supplement_2026-10): N-717, N-718, N-11035, N-11036, N-11037, N-11039
   - Hole-minted Nodes (reintro-ep060): N-10437, N-10548, N-10560, N-10664
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5334–C-5430
@@ -649,7 +649,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-718** Bill Cooper
+**N-717** Bill Cooper
 
 First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.
 
@@ -697,7 +697,7 @@ Marissa Streit, PragerU CEO, said by the host to be working on a documentary.
 
 ---
 
-**N-719** Shabbos Kestenbaum
+**N-718** Shabbos Kestenbaum
 
 First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.
 
@@ -1472,7 +1472,7 @@ Claim: The host says Bill Cooper, whom she calls the original conspiracy theoris
 Transcript Snippet: Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military
 
 Anchored Artifacts: 
-Mentions: N-3, N-718
+Mentions: N-3, N-717
 Investigative Direction: Locate Cooper's recorded lectures and the dates and wording of any statement about future mass shootings.
 
 ---
@@ -1577,7 +1577,7 @@ Claim: The host says Marissa Streit, the Prager University CEO, is working on a 
 Transcript Snippet: And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University
 
 Anchored Artifacts: 
-Mentions: N-3, N-117, N-719
+Mentions: N-3, N-117, N-718
 Related Nodes: N-10131
 Investigative Direction: Ask PragerU and the filmmaker to confirm the project's existence and subject; the host spells the name variously.
 

@@ -592,7 +592,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-281",
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -715,7 +715,7 @@
       "@type": "Person",
       "@id": "N-351",
       "ref": "N-351",
-      "name": "Matt Servius",
+      "name": "Matiss Tabuns",
       "type": "person",
       "description": "Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade names; LinkedIn framed as running not owning.",
       "related_artifacts": [
@@ -1440,8 +1440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Traveling with Candace in Spain when coordinated smear wave hit.",
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-592",
-      "ref": "N-592",
+      "@id": "N-591",
+      "ref": "N-591",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Pounds resignation praises Hegseth leadership; DoW framing.",
@@ -1679,8 +1679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-869",
-      "ref": "N-869",
+      "@id": "N-868",
+      "ref": "N-868",
       "name": "Dana White",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.",
@@ -1696,8 +1696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-870",
-      "ref": "N-870",
+      "@id": "N-869",
+      "ref": "N-869",
       "name": "Steve Witkoff",
       "type": "person",
       "description": "First named by the host at 00:30:50 in episode 161 (transcribed \"Steve Witkoff\"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.",
@@ -1768,8 +1768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-742",
-      "ref": "N-742",
+      "@id": "N-741",
+      "ref": "N-741",
       "name": "Howard Hughes",
       "type": "person",
       "description": "Las Vegas billionaire whose company the host says was chopped up.",
@@ -1906,7 +1906,7 @@
       "investigative_direction": "Preserve resignation post; confirm SGE appointment dates vs thread timestamps.",
       "mentions_person_refs": [
         "N-281",
-        "N-592"
+        "N-591"
       ]
     },
     {
@@ -1988,7 +1988,7 @@
       "@id": "C-13906",
       "ref": "C-13906",
       "label": "Atlantic: Latvian Elephant Clipping pays foreign clippers to astroturf GOP feeds",
-      "claim": "Per Ali Breland's Atlantic investigation as read on air, Matt Servius in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.",
+      "claim": "Per Ali Breland's Atlantic investigation as read on air, Matt Servius [Matiss Tabuns] in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.",
       "anchored_artifacts": [
         "A-2499.1"
       ],
@@ -2264,7 +2264,7 @@
         "N-69",
         "N-298",
         "N-2",
-        "N-742"
+        "N-741"
       ]
     },
     {
@@ -2424,7 +2424,7 @@
       "transcript_snippet": "You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.",
       "mentions_person_refs": [
         "N-3",
-        "N-554"
+        "N-553"
       ]
     },
     {
@@ -2502,7 +2502,7 @@
       "@id": "C-13901",
       "ref": "C-13901",
       "label": "Host says Matt Servius is the top campaign creator on the Monster Lab site",
-      "claim": "The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius, is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.",
+      "claim": "The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius [Matiss Tabuns], is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.",
       "anchored_artifacts": [
         "A-2498.1"
       ],
@@ -2611,7 +2611,7 @@
       "@id": "C-13909",
       "ref": "C-13909",
       "label": "Atlantic reports Servius told recruits to use Gemini or ChatGPT for content",
-      "claim": "The host reads the Atlantic's account that Servius, in a video, says people can earn 100K a month and non-Americans can simply ask Gemini or ChatGPT for videos promoting Republican values.",
+      "claim": "The host reads the Atlantic's account that Servius [Matiss Tabuns], in a video, says people can earn 100K a month and non-Americans can simply ask Gemini or ChatGPT for videos promoting Republican values.",
       "anchored_artifacts": [
         "A-2499.1"
       ],
@@ -2634,7 +2634,7 @@
       "@id": "C-13910",
       "ref": "C-13910",
       "label": "Host cautions the company ownership is unconfirmed and Servius says he only runs it",
-      "claim": "The host says she cannot confirm Clippet is Servius's company, that the website describes Clippet and Monster Labs as trade names, and that Servius's LinkedIn says he runs it rather than owns it.",
+      "claim": "The host says she cannot confirm Clippet is Servius's [Matiss Tabuns's] company, that the website describes Clippet and Monster Labs as trade names, and that Servius's LinkedIn says he runs it rather than owns it.",
       "anchored_artifacts": [
         "A-2499.1"
       ],
@@ -2679,7 +2679,7 @@
       "@id": "C-13912",
       "ref": "C-13912",
       "label": "Servius says Elephant Clipping began about a year earlier, i.e. September 2025",
-      "claim": "The host reads that Discord budget records go back only to April but Servius said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.",
+      "claim": "The host reads that Discord budget records go back only to April but Servius [Matiss Tabuns] said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.",
       "anchored_artifacts": [
         "A-2499.1"
       ],
@@ -2888,8 +2888,8 @@
         "N-352",
         "N-5",
         "N-118",
-        "N-869",
-        "N-870"
+        "N-868",
+        "N-869"
       ]
     },
     {
@@ -2946,7 +2946,7 @@
       "@id": "C-13928",
       "ref": "C-13928",
       "label": "Atlantic: Crowder campaign also links to the Enclave and Key Google Drive",
-      "claim": "The host reads that Servius manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.",
+      "claim": "The host reads that Servius [Matiss Tabuns] manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.",
       "anchored_artifacts": [
         "A-2499.1"
       ],
@@ -3171,7 +3171,7 @@
       "investigative_direction": "Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.",
       "transcript_snippet": "after his company got chopped up. Adelson got a piece. The Wind family got a piece.",
       "mentions_person_refs": [
-        "N-742"
+        "N-741"
       ]
     },
     {

@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11341
   - Claim Range: C-6145–C-6244
-  - New Nodes Introduced: N-545, N-546, N-547, N-548, N-549, N-550, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491
+  - New Nodes Introduced: N-544, N-545, N-546, N-547, N-548, N-549, N-10485, N-10486, N-10487, N-10489, N-10490, N-10491
   - Reused Nodes Appearing: N-2, N-377, N-14, N-40, N-46, N-55, N-190, N-217, N-237, N-261, N-270, N-389, N-520, N-521, N-10000, N-10074, N-10193, N-10246, N-10253, N-10299, N-10339, N-10340, N-10398, N-10414, N-10447, N-10470, N-10480, N-10481, N-10548, N-10554, N-11029, N-11165, N-10488
   - (see registers)
 
@@ -30,7 +30,7 @@
 - Analysis Date: 2026-03-11
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1738, A-1739, A-1740, A-1741, A-1742, A-1743
-  - New Nodes Introduced (people): N-545, N-546, N-547, N-548, N-549
+  - New Nodes Introduced (people): N-544, N-545, N-546, N-547, N-548
   - New Nodes Introduced (investigation targets): N-10485, N-10486, N-10487, N-10488
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-377 (Emmanuel Macron)
 
@@ -60,7 +60,7 @@ Confidence Level: Medium (text read aloud by host)
 
 *Display/Read content: "The 23 and me kits arrived and will be delivered to Woody and Soon-Yi to their home today."*
 
-*Related: C-6149, N-9 (Epstein), N-549 (Woody Allen)*
+*Related: C-6149, N-9 (Epstein), N-548 (Woody Allen)*
 
 **A-1738.2** Epstein email to "Sultan" re: James Miller / 9E71st Street shipping
 
@@ -88,7 +88,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: Book of Enoch; 200 fallen angels (Watchers) landing at Mount Hermon, southern Lebanon; topographic outline resembling a goat; Azazel/goat association in Leviticus 16; David Flynn research; coordinate 33.33°N × 33.33°E from Paris prime meridian; "devil's line."*
 
-*Related: C-6158, C-6241, N-541 (Rob Skiba), N-548 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
+*Related: C-6158, C-6241, N-541 (Rob Skiba), N-547 (David Flynn), N-10489 (Mount Hermon 33.33 Coordinate Investigation)*
 
 **A-1739.2** Rob Skiba segment on Gilgamesh / CERN / 666
 
@@ -116,7 +116,7 @@ Confidence Level: High (audio played in full)
 
 *Display/Read content: 2003 find of Gilgamesh body in Iraq; Tom Horn interjection citing a "special operations general" who stated remains were "in a state of remarkable preservation"; proposition that the U.S. military took possession of the dig; Steve Quayle's claim that "the whole point was to extract the DNA" and that the human genome project was oriented toward "locate specific genetic markers for the disembodied spirits to reanimate their host body that's brought back."*
 
-*Related: C-6178, C-6180, N-546 (Tom Horn), N-547 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
+*Related: C-6178, C-6180, N-545 (Tom Horn), N-546 (Steve Quayle), N-10490 (Gilgamesh Remains DNA Extraction Claim)*
 
 ---
 
@@ -132,7 +132,7 @@ Confidence Level: High (video clip played in full)
 
 *Display/Read content: "Erika Kirk has been a dear friend of mine for almost 15 years. We have done multiple projects together. She wrote the forward to my book. The photo that has been circulating around that says a left eye club. Um this is the cuff that she's wearing. I designed it. Those are my um jewelry pieces. This was an editorial shot that I actually styled…"; description of "Romanian Angels" gift project organized by Erika.*
 
-*Related: C-6211, C-6213, N-545 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
+*Related: C-6211, C-6213, N-544 (Tracy Martin), N-2 (Erika Kirk), N-10486 (Tracy Martin Background and Husband Verification), N-10485 (Erika Kirk September 10 Alibi Investigation)*
 
 ---
 
@@ -200,7 +200,7 @@ Confidence Level: High (read aloud)
 
 *Display/Read content: "Hi Ben, team Candace for Life."*
 
-*Related: C-6240, N-550 (Benjamin – flag)*
+*Related: C-6240, N-549 (Benjamin – flag)*
 
 **A-1743.5** AZ Masterbaker comment re: COVID tests as DNA collection for Nimrod descendants
 
@@ -271,7 +271,7 @@ Confidence Level: High
 # Node Register
 
 
-**N-545** Tracy Martin
+**N-544** Tracy Martin
 
 Self-identified friend of Erika Kirk for approximately 15 years; styled the "left eye club" editorial photograph; designed the cuff worn by Erica; reported to have been with Erika on September 10, 2025. Husband's first name given by host as Thomas (uncertain).
 
@@ -291,9 +291,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-548 (David Flynn), N-10489, N-10491*
+*Related: A-1739.1, A-1739.2, A-1743.5, A-1743.7, C-6158, C-6170, N-547 (David Flynn), N-10489, N-10491*
 
-**N-546** Tom Horn
+**N-545** Tom Horn
 
 Radio host cited via Omega Man Radio clip; states a "special operations general" validated Gilgamesh remains in "remarkable preservation."
 
@@ -302,9 +302,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-6178, N-547 (Steve Quayle), N-10490*
+*Related: A-1740.1, C-6178, N-546 (Steve Quayle), N-10490*
 
-**N-547** Steve Quayle
+**N-546** Steve Quayle
 
 Radio co-host cited via Omega Man Radio clip; asserts human genome project was oriented toward genetic markers for disembodied spirits reanimating Nimrod/Gilgamesh.
 
@@ -313,9 +313,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, C-6180, N-546 (Tom Horn), N-10490*
+*Related: A-1740.1, C-6180, N-545 (Tom Horn), N-10490*
 
-**N-548** David Flynn
+**N-547** David Flynn
 
 Researcher cited by Rob Skiba as having identified the Mount Hermon coordinate (33.33°N 33.33°E from Paris prime meridian) and the "devil's line." Reported by Rob Skiba as recently deceased.
 
@@ -335,7 +335,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2 (Erika Kirk), N-10485, N-545 (Tracy Martin)*
+*Related: N-2 (Erika Kirk), N-10485, N-544 (Tracy Martin)*
 
 **N-9** Jeffrey Epstein
 
@@ -346,9 +346,9 @@ Claim Count: 0 (as subject, not author of any claim in this episode)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1738.1, A-1738.2, A-1743.2, N-549 (Woody Allen), N-377 (Emmanuel Macron)*
+*Related: A-1738.1, A-1738.2, A-1743.2, N-548 (Woody Allen), N-377 (Emmanuel Macron)*
 
-**N-549** Woody Allen
+**N-548** Woody Allen
 
 Named recipient of Epstein 23andMe kit email (along with "Soon-Yi").
 
@@ -392,7 +392,7 @@ Investigative Pressure: Low
 
 *Related: N-10487 (Dream City Church Investigation), N-2 (Erika Kirk)*
 
-**N-550** Benjamin
+**N-549** Benjamin
 
 Addressee of Angie comment ("Hi Ben"); host addresses as "Benjamin." Possible production-staff figure. Insufficient identifying information to confirm role.
 
@@ -414,7 +414,7 @@ Claim Count: 0 (this episode's alibi claim fails admission test; not inscribed)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1741.1, N-2 (Erika Kirk), N-545 (Tracy Martin), N-489 (Lori Frantzve)*
+*Related: A-1741.1, N-2 (Erika Kirk), N-544 (Tracy Martin), N-489 (Lori Frantzve)*
 
 **N-10486** Tracy Martin Background and Husband Verification
 
@@ -425,7 +425,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-545 (Tracy Martin)*
+*Related: N-544 (Tracy Martin)*
 
 **N-10487** Dream City Church Connection Investigation
 
@@ -436,7 +436,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-545 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
+*Related: N-544 (Tracy Martin), N-17 (Rob McCoy), (Pastor Luke)*
 
 **N-10488** Egyptian Plane Communication Investigation
 
@@ -458,7 +458,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1739.1, N-541 (Rob Skiba), N-548 (David Flynn)*
+*Related: A-1739.1, N-541 (Rob Skiba), N-547 (David Flynn)*
 
 **N-10490** Gilgamesh Remains DNA Extraction Claim
 
@@ -469,7 +469,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1740.1, N-546 (Tom Horn), N-547 (Steve Quayle)*
+*Related: A-1740.1, N-545 (Tom Horn), N-546 (Steve Quayle)*
 
 **N-10491** COVID Test DNA Collection Hypothesis
 
@@ -766,7 +766,7 @@ Claim Timestamp: 00:01:18
 Claim: A Jeffrey Epstein-authored email states that 23andMe kits had arrived and would be delivered that day to "Woody and Soon-Yi" at their home.
 
 Anchored Artifacts: A-1738.1
-Mentions: N-9, N-549
+Mentions: N-9, N-548
 
 
 Investigative Direction: Locate the email within the public Epstein files (jmail.world or DOJ releases) to verify recipient identity, date, and full text.
@@ -794,7 +794,7 @@ Claim Timestamp: 00:05:43
 Claim: In a lecture clip, Rob Skiba states that the Book of Enoch identifies 200 Watchers / fallen angels as landing at Mount Hermon in southern Lebanon, and that David Flynn identified this location as 33.33°N by 33.33°E from the Paris prime meridian.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-541, N-548
+Mentions: N-541, N-547
 
 Related Nodes: N-10489
 
@@ -824,7 +824,7 @@ Claim Timestamp: 00:15:25
 Claim: In an Omega Man Radio clip the host plays, Steve Quayle says a special operations general told him Gilgamesh was in 'a state of remarkable preservation' and that they have Gilgamesh's remains; Tom Horn says that, according to some people, the military took possession and control of the dig.
 
 Anchored Artifacts: A-1740.1
-Mentions: N-546, N-547
+Mentions: N-545, N-546
 
 Related Nodes: N-10490
 
@@ -839,7 +839,7 @@ Claim Timestamp: 00:15:55
 Claim: Steve Quayle says on Omega Man Radio that the point of the Gilgamesh dig was to extract the DNA, and that he has also been told the human genome project aims to locate genetic markers that would let disembodied spirits reanimate their host body.
 
 Anchored Artifacts: A-1740.1
-Mentions: N-547
+Mentions: N-546
 
 Related Nodes: N-10490
 
@@ -854,7 +854,7 @@ Claim Timestamp: 00:27:48
 Claim: Tracy Martin states in a video clip that Erika Kirk has been a "dear friend" of hers for "almost 15 years," that they have "done multiple projects together," that Erika wrote the foreword to Martin's book, and that Martin participated in the Romanian Angels gift-distribution project organized by Erika.
 
 Anchored Artifacts: A-1741.1
-Mentions: N-2, N-545
+Mentions: N-2, N-544
 
 Related Nodes: N-10485
 
@@ -869,7 +869,7 @@ Claim Timestamp: 00:28:05
 Claim: Tracy Martin states she styled the editorial photograph featuring the "left eye club" cuff that has been circulating, and that the cuff and jewelry pieces pictured are her designs.
 
 Anchored Artifacts: A-1741.1
-Mentions: N-2, N-545
+Mentions: N-2, N-544
 
 
 Investigative Direction: Identify the original editorial publication to confirm styling credit; identify the cuff's commercial availability and Martin's business.
@@ -1047,7 +1047,7 @@ Claim: The host says, with the hedge 'allegedly', that she is glad Woody Allen's
 Transcript Snippet: I'm glad that that is being relitigated regarding what he did to his own child when she was seven.
 
 Anchored Artifacts: 
-Mentions: N-549, N-3
+Mentions: N-548, N-3
 Tags: relevance:tangential
 Investigative Direction: The allegation is a matter of public record in court and media coverage; verify against those records. It has no direct bearing on the case.
 
@@ -1185,7 +1185,7 @@ Claim: In the played clip, Rob Skiba says David Flynn, who identified the Mount 
 Transcript Snippet: He recently passed away, but he turned the world upside down with some of his research.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-548, N-541
+Mentions: N-547, N-541
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Confirm Flynn's date of death and compare with the lecture date.
@@ -1201,7 +1201,7 @@ Claim: In the played clip, Rob Skiba says David Flynn pointed out that drawing a
 Transcript Snippet: And that is in the occult is referred to as the devil's line.
 
 Anchored Artifacts: A-1739.1
-Mentions: N-541, N-548
+Mentions: N-541, N-547
 Related Nodes: N-10489
 Tags: relevance:tangential
 Investigative Direction: Reproduce the Google Earth measurement and find an independent source for the term 'devil's line'.
@@ -1436,7 +1436,7 @@ Claim: In the played Omega Man Radio clip, Tom Horn proposes that the Nephilim a
 Transcript Snippet: Imagine the startling proposition that the Nephilim, the giants, the mighty men of old, the gods and children of the watchers could somehow rise up
 
 Anchored Artifacts: A-1740.1
-Mentions: N-546
+Mentions: N-545
 Related Nodes: N-10490
 Tags: relevance:tangential
 Investigative Direction: Obtain the original Omega Man Radio broadcast; the clip is a theory, not a record.
@@ -1887,7 +1887,7 @@ Claim: The host says, with the hedge 'allegedly', she received a pretty strong s
 Transcript Snippet: a pretty strong series of tips that I received that Erika was with a woman named Tracy Martin.
 
 Anchored Artifacts: 
-Mentions: N-545, N-2, N-3
+Mentions: N-544, N-2, N-3
 Related Nodes: N-10485
 Tags: relevance:core
 Investigative Direction: Obtain the tips themselves or independent confirmation of where Erika Kirk was on the morning of September 10.
@@ -1903,7 +1903,7 @@ Claim: The host says Tracy Martin is regularly at Dream City Church in Arizona.
 Transcript Snippet: she is regularly at Dream City Church.
 
 Anchored Artifacts: 
-Mentions: N-545
+Mentions: N-544
 Related Nodes: N-10487
 Tags: relevance:core
 Investigative Direction: Verify Martin's affiliation through church records or public posts.
@@ -1951,7 +1951,7 @@ Claim: The host says, with the hedge 'allegedly', that Tracy Martin was with Eri
 Transcript Snippet: Allegedly, she was with Erika when Mikey and Elizabeth called.
 
 Anchored Artifacts: 
-Mentions: N-545, N-2, N-190, N-217
+Mentions: N-544, N-2, N-190, N-217
 Related Nodes: N-10485, N-10193
 Tags: relevance:core
 Investigative Direction: Same as the tips behind the alibi claim.
@@ -1983,7 +1983,7 @@ Claim: In the played clip, Tracy Martin says Erika started a nonprofit at 17.
 Transcript Snippet: starting a nonprofit at 17 instead of looking at that is like how do you do that
 
 Anchored Artifacts: A-1741.1
-Mentions: N-545, N-2
+Mentions: N-544, N-2
 Related Nodes: N-11165
 Tags: relevance:context
 Investigative Direction: Verify the nonprofit's founding date.
@@ -1999,7 +1999,7 @@ Claim: The host says Tracy Martin has known Erika's family and knows her mother,
 Transcript Snippet: she knows Erika's mother for sure uh there's a picture of them at least uh Definitely someone that's been in her life since Erika's pageant pageant days.
 
 Anchored Artifacts: 
-Mentions: N-545, N-2, N-489
+Mentions: N-544, N-2, N-489
 Tags: relevance:core
 Investigative Direction: Locate the photograph and pageant-era records.
 
@@ -2014,7 +2014,7 @@ Claim: The host says Tracy Martin has been following Erika to Romania and grew u
 Transcript Snippet: She has been following her to Romania. This woman grew up wealthy, by the way.
 
 Anchored Artifacts: 
-Mentions: N-545
+Mentions: N-544
 Tags: relevance:tangential
 Investigative Direction: Personal detail about a private individual; verify against public sources.
 
@@ -2029,7 +2029,7 @@ Claim: The host says Tracy Martin is from Missouri, which she describes as one o
 Transcript Snippet: she's from Missouri, which has been, you know, one of those regular stops on the Egyptian plains.
 
 Anchored Artifacts: 
-Mentions: N-545
+Mentions: N-544
 Related Nodes: N-10253
 Tags: relevance:context
 Investigative Direction: Check the ADS-B track of the Egyptian planes for Missouri stops.
@@ -2045,7 +2045,7 @@ Claim: The host says she is unable to determine what exactly Tracy Martin's husb
 Transcript Snippet: I'm also unable to determine what exactly it is that her husband does.
 
 Anchored Artifacts: 
-Mentions: N-545
+Mentions: N-544
 Related Nodes: N-10486
 Tags: relevance:tangential
 Investigative Direction: Personal detail about a private individual.
@@ -2077,7 +2077,7 @@ Claim: The host asks viewers to email tips to the tip address while seeking more
 Transcript Snippet: Email us at more tipscandowens. com.
 
 Anchored Artifacts: A-3219.1
-Mentions: N-3, N-545
+Mentions: N-3, N-544
 Related Nodes: N-10485, N-10487
 Tags: relevance:core
 Investigative Direction: Review the tips received at the tip address.
@@ -2331,7 +2331,7 @@ Investigative Direction: A sweeping assertion with no checkable record.
 - **Host spelling variant (Emmanuel Macron → "Macron"):** Preserved host's spelling in claim text and flagged here.
 - **Possible transcription error ("Sigmund Freud"):** Transcript renders "Sigmund Freud" as "Sigmund Freud" throughout. Preserved as transcribed; flag notes this is a host pronunciation / spelling variant of "Sigmund."
 - **Possible transcription error ("counterfeitterter"):** Bobby's comment contains a duplicated syllable in the source transcript; preserved as transcribed.
-- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-550.
+- **Transcript ambiguity (Ben / Benjamin):** Angie comment addresses "Ben"; host addresses "Benjamin." Insufficient context to confirm whether these refer to the same individual. Flagged on N-549.
 - **Tip-based claim not inscribed:** Host's central assertion that Erika Kirk was with Tracy Martin (not Lori Frantzve) on September 10, 2025 is based on viewer tips referenced in this episode but is not anchored to any artifact in this episode. Per the Claim Admission Test (artifact anchor + falsifiability + rhetoric removal), it fails the artifact anchor test and is therefore not inscribed in the Claim Register. The persistent target N-10485 carries it forward for future artifact anchoring.
 - **Egyptian-plane assertion not inscribed:** Host's claim that a plane transponded on the tarmac with active communication is presented as host assertion, not anchored to a displayed artifact in this episode. Not inscribed.
 - **23andMe-kit email authenticity:** Emails are read aloud by host; underlying screenshots, headers, or DOJ attribution are not independently confirmed in this episode. Confidence Level: Medium.

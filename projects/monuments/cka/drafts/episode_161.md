@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-869, N-11266, N-11267, N-11268
+  - Tip-minted Nodes (supplement_2026-10d): N-868, N-11266, N-11267, N-11268
   - Claim Range: C-13891–C-13966
   - New Nodes Introduced: N-10880, N-10881, N-10882, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-102, N-118, N-119, N-146, N-159, N-170, N-190, N-201, N-259, N-266, N-277, N-37, N-329, N-554, N-592, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-298, N-10887, N-10888, N-352, N-353, N-281, N-10885, N-742, N-10566, N-10728, N-10923, N-870, N-10883
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-102, N-118, N-119, N-146, N-159, N-170, N-190, N-201, N-259, N-266, N-277, N-37, N-329, N-553, N-591, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-298, N-10887, N-10888, N-352, N-353, N-281, N-10885, N-741, N-10566, N-10728, N-10923, N-869, N-10883
   - Hole-minted Nodes (seq161): N-301
   - Hole-minted Nodes (wave1): N-351, N-354, N-355, N-356, N-357, N-358
   - (see registers)
@@ -322,7 +322,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 
-*Related: C-13892, C-13895, N-281, N-592*
+*Related: C-13892, C-13895, N-281, N-591*
 
 ---
 
@@ -387,7 +387,7 @@ X personality "data republican"; host says she was a DoD special government empl
 
 ---
 
-**N-351** Matt Servius
+**N-351** Matiss Tabuns
 
 Node Type: Person
 Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade names; LinkedIn framed as running not owning.
@@ -693,7 +693,7 @@ Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.
 
 ---
 
-**N-554** Carrie Prejean Boller
+**N-553** Carrie Prejean Boller
 
 Traveling with Candace in Spain when coordinated smear wave hit.
 
@@ -701,7 +701,7 @@ Traveling with Candace in Spain when coordinated smear wave hit.
 
 ---
 
-**N-592** Pete Hegseth
+**N-591** Pete Hegseth
 
 Pounds resignation praises Hegseth leadership; DoW framing.
 
@@ -773,7 +773,7 @@ Opening satire of commenters volunteering as nannies after yesterday's Candyland
 
 ---
 
-**N-869** Dana White
+**N-868** Dana White
 
 First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.
 
@@ -781,7 +781,7 @@ First named by the host at 00:30:50 in episode 161 (reading the Atlantic article
 
 ---
 
-**N-870** Steve Witkoff
+**N-869** Steve Witkoff
 
 First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witkoff"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
 
@@ -818,7 +818,7 @@ The host's statement that the domain vancekirk.com was purchased on September 12
 
 ---
 
-**N-742** Howard Hughes
+**N-741** Howard Hughes
 
 Las Vegas billionaire whose company the host says was chopped up.
 
@@ -885,7 +885,7 @@ Investigative Direction: Read with C-13892; archive the boosting posts under the
 Claim Timestamp: 00:04:02
 Claim: The host reads Pounds's X resignation from the Department of War (honoring Hegseth leadership; stepping back for book tour and midterms) and calls her a fraud for not revealing the DoD role, adding a joking "where were you on 9/10" jab.
 Anchored Artifacts: A-2497.1
-Mentions: N-281, N-592
+Mentions: N-281, N-591
 Related Nodes: N-10885, N-10888
 Investigative Direction: Preserve resignation post; confirm SGE appointment dates vs thread timestamps.
 
@@ -929,7 +929,7 @@ Investigative Direction: Align Discord timestamps with TPUSA public denial state
 **C-13906** Atlantic: Latvian Elephant Clipping pays foreign clippers to astroturf GOP feeds
 
 Claim Timestamp: 00:14:10
-Claim: Per Ali Breland's Atlantic investigation as read on air, Matt Servius in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.
+Claim: Per Ali Breland's Atlantic investigation as read on air, Matt Servius [Matiss Tabuns] in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.
 Anchored Artifacts: A-2499.1
 Mentions: N-354, N-351, N-358, N-46, N-201, N-24, N-119, N-329, N-97, N-259, N-22
 Related Nodes: N-10889, N-10886, N-10881, N-10880, N-10013
@@ -1055,7 +1055,7 @@ Notes: Conspiracy Girly is existing M-21 (first_episode 55); this episode is an 
 Claim Timestamp: 00:45:09
 Claim: Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Ackman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson ("Medson") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.
 Anchored Artifacts: A-2500.1
-Mentions: N-352, N-37, N-69, N-298, N-2, N-742
+Mentions: N-352, N-37, N-69, N-298, N-2, N-741
 Related Nodes: N-10887, N-10249, N-10744, N-10882
 Investigative Direction: Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.
 
@@ -1151,7 +1151,7 @@ Claim: The host says she was in Spain with the show off air for two weeks during
 Transcript Snippet: You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.
 
 Anchored Artifacts:
-Mentions: N-3, N-554
+Mentions: N-3, N-553
 Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Compare the dates of the show hiatus with the Discord campaign windows and the volume of anti-Candace posts that week.
@@ -1211,7 +1211,7 @@ Investigative Direction: Archive the Monster Lab campaign list and the Discord o
 
 Claim Timestamp: 00:09:50
 
-Claim: The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius, is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.
+Claim: The host says the Latvian man who runs Monster Lab and Clipit, Matt Servius [Matiss Tabuns], is also the number one person creating campaigns on the website, with Elephant Clipping his biggest political campaign channel.
 
 Transcript Snippet: He is also the number one person that is creating these campaigns on the website.
 
@@ -1291,7 +1291,7 @@ Investigative Direction: Check the Atlantic article for who supplied videos and 
 
 Claim Timestamp: 00:15:30
 
-Claim: The host reads the Atlantic's account that Servius, in a video, says people can earn 100K a month and non-Americans can simply ask Gemini or ChatGPT for videos promoting Republican values.
+Claim: The host reads the Atlantic's account that Servius [Matiss Tabuns], in a video, says people can earn 100K a month and non-Americans can simply ask Gemini or ChatGPT for videos promoting Republican values.
 
 Transcript Snippet: If you're not from the USA, like what the f is even Republicans like me, then simply go to Gemini or chat GPT.
 
@@ -1307,7 +1307,7 @@ Investigative Direction: View Servius's recruitment video and quote it in full.
 
 Claim Timestamp: 00:16:20
 
-Claim: The host says she cannot confirm Clippet is Servius's company, that the website describes Clippet and Monster Labs as trade names, and that Servius's LinkedIn says he runs it rather than owns it.
+Claim: The host says she cannot confirm Clippet is Servius's [Matiss Tabuns's] company, that the website describes Clippet and Monster Labs as trade names, and that Servius's LinkedIn says he runs it rather than owns it.
 
 Transcript Snippet: we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name
 
@@ -1339,7 +1339,7 @@ Investigative Direction: Confirm with the reporter how access was granted and wh
 
 Claim Timestamp: 00:17:50
 
-Claim: The host reads that Discord budget records go back only to April but Servius said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.
+Claim: The host reads that Discord budget records go back only to April but Servius [Matiss Tabuns] said in a video that the campaign had run for about a year, and the host notes that dates it to September 2025, the month Charlie Kirk was assassinated.
 
 Transcript Snippet: Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Servius said in a video posted that month.
 
@@ -1473,7 +1473,7 @@ Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-L
 Transcript Snippet: recounted sitting next to Trump at Mar-a-Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witkoff, Trump's friend and special envoy.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-352, N-5, N-118, N-869, N-870
+Mentions: N-352, N-5, N-118, N-868, N-869
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Verify seating accounts in the Bring the Juice interview.
@@ -1516,7 +1516,7 @@ Investigative Direction: Obtain the campaign rule sheet listing banned and appro
 
 Claim Timestamp: 00:32:30
 
-Claim: The host reads that Servius manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.
+Claim: The host reads that Servius [Matiss Tabuns] manages Ben Shapiro and Steven Crowder campaigns and that Crowder's campaign also links to the Enclave and Key Google Drive; neither Shapiro nor Crowder responded.
 
 Transcript Snippet: And Crowder's campaign also links to Enclave and Key connected to the Google Drive.
 
@@ -1683,7 +1683,7 @@ Claim: The host says that after Howard Hughes' company was chopped up, Adelson g
 Transcript Snippet: after his company got chopped up. Adelson got a piece. The Wind family got a piece.
 
 Anchored Artifacts:
-Mentions: N-742
+Mentions: N-741
 Related Nodes: N-10249
 Tags: relevance:tangential
 Investigative Direction: Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.

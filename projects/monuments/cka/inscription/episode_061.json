@@ -273,7 +273,7 @@
           "related_nodes": [
             "N-3",
             "N-481",
-            "N-882"
+            "N-881"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1260,8 +1260,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-880",
-      "ref": "N-880",
+      "@id": "N-879",
+      "ref": "N-879",
       "name": "Tree Paine",
       "type": "person",
       "description": "First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.",
@@ -1277,8 +1277,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-881",
-      "ref": "N-881",
+      "@id": "N-880",
+      "ref": "N-880",
       "name": "Marc Anthony",
       "type": "person",
       "description": "First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). Singer the host says performed the late-night set at the Beckham wedding.",
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-882",
-      "ref": "N-882",
+      "@id": "N-881",
+      "ref": "N-881",
       "name": "Marty Singer",
       "type": "person",
       "description": "First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-883",
-      "ref": "N-883",
+      "@id": "N-882",
+      "ref": "N-882",
       "name": "Nelson Peltz",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Peltz'). Father of Nicola Peltz; the host says he sued over a wedding contract.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-884",
-      "ref": "N-884",
+      "@id": "N-883",
+      "ref": "N-883",
       "name": "Justin Anderson",
       "type": "person",
       "description": "First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-885",
-      "ref": "N-885",
+      "@id": "N-884",
+      "ref": "N-884",
       "name": "Selena Gomez",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.",
@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-885",
+      "ref": "N-885",
       "name": "Anwar Hadid",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). The host says he dated Nicola Peltz.",
@@ -1780,7 +1780,7 @@
         "N-480",
         "N-481",
         "N-482",
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -1815,7 +1815,7 @@
       "claim_timestamp": "00:42:09–00:43:16",
       "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.",
       "mentions_person_refs": [
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -2534,7 +2534,7 @@
         "N-3",
         "N-486",
         "N-484",
-        "N-880"
+        "N-879"
       ]
     },
     {
@@ -2991,7 +2991,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-881",
+        "N-880",
         "N-482"
       ]
     },
@@ -3113,7 +3113,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-481",
-        "N-882"
+        "N-881"
       ]
     },
     {
@@ -3158,7 +3158,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-481",
-        "N-883"
+        "N-882"
       ]
     },
     {
@@ -3178,7 +3178,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-481",
-        "N-884"
+        "N-883"
       ]
     },
     {
@@ -3198,7 +3198,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-481",
-        "N-885"
+        "N-884"
       ]
     },
     {
@@ -3218,7 +3218,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-481",
-        "N-886",
+        "N-885",
         "N-542"
       ]
     },

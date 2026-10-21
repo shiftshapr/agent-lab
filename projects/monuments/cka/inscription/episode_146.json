@@ -717,8 +717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-544",
+      "ref": "N-544",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erika Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-861",
-      "ref": "N-861",
+      "@id": "N-860",
+      "ref": "N-860",
       "name": "David Hull",
       "type": "person",
       "description": "David Hull; officer named in the hearing hearsay example.",
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Graham Allen",
       "type": "person",
       "description": "Graham Allen; named as absent and as a Department of War consultant.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-666",
-      "ref": "N-666",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "James Kaddis",
       "type": "person",
       "description": "James Kaddis (James Kaddis); pastor spotted at the courthouse.",
@@ -1686,8 +1686,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-788",
+      "ref": "N-788",
       "name": "Todd Starnes",
       "type": "person",
       "description": "First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.",
@@ -2019,8 +2019,8 @@
         "N-2",
         "N-186",
         "N-14",
-        "N-545",
-        "N-666"
+        "N-544",
+        "N-665"
       ]
     },
     {
@@ -2085,7 +2085,7 @@
       "transcript_snippet": "No Graham Allen, no Benny Johnson to tell us how overwhelmed we should be.",
       "mentions_person_refs": [
         "N-3",
-        "N-607",
+        "N-606",
         "N-89"
       ]
     },
@@ -2109,7 +2109,7 @@
       "transcript_snippet": "Head of Turning Point USA donations and gifts, always there. Tracy Martin, I'm counting that as dad. She does Erika's PR dirty work.",
       "mentions_person_refs": [
         "N-186",
-        "N-545",
+        "N-544",
         "N-2"
       ]
     },
@@ -2133,7 +2133,7 @@
       "investigative_direction": "Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Kaddis (transcript spelling).",
       "transcript_snippet": "He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.",
       "mentions_person_refs": [
-        "N-666",
+        "N-665",
         "N-2"
       ]
     },
@@ -2154,7 +2154,7 @@
       "investigative_direction": "Identify the show and brand by name and confirm Kaddis' role from the brand's own channels.",
       "transcript_snippet": "He also hosts a show with her with that like fledgling, you know, fashion brand that she has, BIBLEin365.",
       "mentions_person_refs": [
-        "N-666",
+        "N-665",
         "N-2"
       ]
     },
@@ -2708,7 +2708,7 @@
       "mentions_person_refs": [
         "N-208",
         "N-246",
-        "N-789",
+        "N-788",
         "N-1"
       ]
     },
@@ -3448,7 +3448,7 @@
       "transcript_snippet": "when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.",
       "mentions_person_refs": [
         "N-506",
-        "N-861",
+        "N-860",
         "N-40"
       ]
     },
@@ -3875,7 +3875,7 @@
       "investigative_direction": "Look for Department of War contracts or disclosure forms naming Allen and TPUSA payroll or contract records.",
       "transcript_snippet": "Even Graham Allen, I told you that he's uh he was working as a consultant for the Department of War and then suddenly starts working for Turning Point USA and is doing so much propaganda for them.",
       "mentions_person_refs": [
-        "N-607",
+        "N-606",
         "N-3"
       ]
     },

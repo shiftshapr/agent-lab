@@ -778,7 +778,7 @@
             "N-61",
             "N-11",
             "N-41",
-            "N-973"
+            "N-971"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1977,8 +1977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-973",
-      "ref": "N-973",
+      "@id": "N-971",
+      "ref": "N-971",
       "name": "Taylor Hansen",
       "type": "person",
       "description": "First named at 00:45:30 in episode 11, in the host's relay of Nick's account that Phil Lyman said he had already given his photos to Taylor Hansen. Identity not established from the transcript.",
@@ -4656,7 +4656,7 @@
       "mentions_person_refs": [
         "N-61",
         "N-126",
-        "N-973"
+        "N-971"
       ]
     },
     {

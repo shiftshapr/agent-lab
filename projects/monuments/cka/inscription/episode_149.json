@@ -684,7 +684,7 @@
             "C-12948"
           ],
           "related_nodes": [
-            "N-897",
+            "N-896",
             "N-3",
             "N-11310",
             "N-487"
@@ -1385,8 +1385,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Blake Harreff",
       "type": "person",
       "description": "Security team member; the host says he stayed behind, was clean and later wore scrubs.",
@@ -1615,8 +1615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-900",
-      "ref": "N-900",
+      "@id": "N-899",
+      "ref": "N-899",
       "name": "Miss Noble",
       "type": "person",
       "description": "Neighbor who the host says saw a bald man driving with two other people.",
@@ -1805,8 +1805,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Tony Burke",
       "type": "person",
       "description": "Australian minister the host says banned her.",
@@ -1822,8 +1822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-955",
-      "ref": "N-955",
+      "@id": "N-953",
+      "ref": "N-953",
       "name": "Blake Gibson",
       "type": "person",
       "description": "Security team member; first named by the host in this episode as the man in surgical scrubs (intro moved from ep163, 2026-10-19).",
@@ -1971,7 +1971,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Obtain higher-resolution frame stills; cross-check with independent footage sources.",
       "mentions_person_refs": [
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -1989,7 +1989,7 @@
       "claim_timestamp": "00:18:51",
       "investigative_direction": "Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.",
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-492",
         "N-1"
       ]
@@ -2008,7 +2008,7 @@
       "claim_timestamp": "00:20:42",
       "investigative_direction": "Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.",
       "mentions_person_refs": [
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -2166,7 +2166,7 @@
       "investigative_direction": "Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.",
       "mentions_person_refs": [
         "N-40",
-        "N-900"
+        "N-899"
       ]
     },
     {
@@ -3183,7 +3183,7 @@
       ],
       "mentions_person_refs": [
         "N-492",
-        "N-897"
+        "N-896"
       ]
     },
     {
@@ -3207,7 +3207,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-897",
+        "N-896",
         "N-492"
       ]
     },
@@ -3249,7 +3249,7 @@
       "investigative_direction": "Confirm Davis's role at the hospital from footage and team statements.",
       "transcript_snippet": "He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.",
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-492"
       ]
     },
@@ -3331,7 +3331,7 @@
       "investigative_direction": "Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.",
       "transcript_snippet": "Blake Gibson and surgical scrubs. That's who you see up in the top there.",
       "mentions_person_refs": [
-        "N-955"
+        "N-953"
       ]
     },
     {
@@ -3754,7 +3754,7 @@
       "investigative_direction": "Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.",
       "transcript_snippet": "That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.",
       "mentions_person_refs": [
-        "N-900",
+        "N-899",
         "N-40"
       ]
     },
@@ -4127,7 +4127,7 @@
         "C-6128"
       ],
       "mentions_person_refs": [
-        "N-846",
+        "N-845",
         "N-3"
       ]
     },
@@ -4230,7 +4230,7 @@
       "investigative_direction": "Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.",
       "transcript_snippet": "Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.",
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-3"
       ]
     },
@@ -4252,7 +4252,7 @@
       "investigative_direction": "Check for any response from Harreff or Cutler to the standing offer.",
       "transcript_snippet": "Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.",
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-487",
         "N-3"
       ]

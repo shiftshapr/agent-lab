@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-880, N-881, N-882, N-883, N-884, N-885, N-886, N-11289, N-11290
+  - Tip-minted Nodes (supplement_2026-10e): N-879, N-880, N-881, N-882, N-883, N-884, N-885, N-11289, N-11290
   - Hole-minted Nodes (reintro-ep061): N-542
   - Tip-minted Nodes (reintro-ep061): N-11180
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -216,7 +216,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5503, C-5504, N-3, N-481, N-882*
+*Related: C-5503, C-5504, N-3, N-481, N-881*
 
 ---
 
@@ -651,7 +651,7 @@ Existing topic reused for claims about the cease and desist letter and the host'
 
 ---
 
-**N-880** Tree Paine
+**N-879** Tree Paine
 
 First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.
 
@@ -661,7 +661,7 @@ Aliases: Tree
 
 ---
 
-**N-881** Marc Anthony
+**N-880** Marc Anthony
 
 First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). Singer the host says performed the late-night set at the Beckham wedding.
 
@@ -671,7 +671,7 @@ Aliases: Marc Anthony
 
 ---
 
-**N-882** Marty Singer
+**N-881** Marty Singer
 
 First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.
 
@@ -679,7 +679,7 @@ First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola P
 
 ---
 
-**N-883** Nelson Peltz
+**N-882** Nelson Peltz
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Peltz'). Father of Nicola Peltz; the host says he sued over a wedding contract.
 
@@ -689,7 +689,7 @@ Aliases: Nelson Peltz
 
 ---
 
-**N-884** Justin Anderson
+**N-883** Justin Anderson
 
 First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.
 
@@ -697,7 +697,7 @@ First named by the host at 00:50:27 in episode 61. Hair stylist the host says ca
 
 ---
 
-**N-885** Selena Gomez
+**N-884** Selena Gomez
 
 First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.
 
@@ -705,7 +705,7 @@ First named by the host at 00:51:35 in episode 61. The host says her friendship 
 
 ---
 
-**N-886** Anwar Hadid
+**N-885** Anwar Hadid
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). The host says he dated Nicola Peltz.
 
@@ -993,7 +993,7 @@ Claim Timestamp: 00:40:27–00:41:23
 Claim: Brooklyn Beckham alleges that his mother hijacked what had been planned as his romantic first dance with Nicola: Marc Anthony called him to the stage, and his mother danced inappropriately with him in front of the guests.
 
 Anchored Artifacts: A-1663.1, A-1664.1
-Mentions: N-480, N-481, N-482, N-881
+Mentions: N-480, N-481, N-482, N-880
 
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
@@ -1021,7 +1021,7 @@ Claim Timestamp: 00:42:09–00:43:16
 Claim: The host reads from the Vogue wedding article that Marc Anthony took over the DJ decks to close out the celebrations; she says his late-night set started at 11 p.m.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-881
+Mentions: N-880
 
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.
@@ -1518,7 +1518,7 @@ Claim: The host says Swift's publicist, 'Tree,' told her to cut that friend off 
 Transcript Snippet: Tree, her agent, is like, "Nope, cut that friend off. We're going to save you."
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-486, N-484, N-880
+Mentions: N-3, N-486, N-484, N-879
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Look for reporting or court exhibits showing Swift's team's communications with Lively's team.
@@ -1822,7 +1822,7 @@ Claim: The host says she does not doubt that Marc Anthony announced 'the most be
 Transcript Snippet: Marc Anthony said, "Now inviting the most beautiful woman to the floor." And then he said, "Victoria Beckham."
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-881, N-482
+Mentions: N-3, N-880, N-482
 Related Nodes: N-11289
 Supports: C-5490
 Tags: relevance:tangential
@@ -1903,7 +1903,7 @@ Claim: The host says Nicola Peltz hired Marty Singer to sue a small mobile dog-g
 Transcript Snippet: she hired Marty Singer to sue this little company because her Chihuahua died.
 
 Anchored Artifacts: A-3119.1
-Mentions: N-3, N-481, N-882
+Mentions: N-3, N-481, N-881
 Related Nodes: N-11290
 Tags: relevance:tangential
 Investigative Direction: Obtain the complaint and docket in the grooming company lawsuit.
@@ -1935,7 +1935,7 @@ Claim: The host says Nicola Peltz went through three different wedding contracts
 Transcript Snippet: She went through three different wedding contracts. One of which her father sued and they sued back
 
 Anchored Artifacts: 
-Mentions: N-3, N-481, N-883
+Mentions: N-3, N-481, N-882
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the wedding contract suits involving Nelson Peltz.
@@ -1951,7 +1951,7 @@ Claim: The host says Nicola Peltz's hair stylist from the Transformers movie, Ju
 Transcript Snippet: Her hair stylist from when her dad put her in the Transformers movie, Justin Anderson, said she's awful.
 
 Anchored Artifacts: 
-Mentions: N-3, N-481, N-884
+Mentions: N-3, N-481, N-883
 Tags: relevance:tangential
 Investigative Direction: Locate Anderson's original statement and its context.
 
@@ -1966,7 +1966,7 @@ Claim: The host says Nicola Peltz's relationship with Selena Gomez has fallen ap
 Transcript Snippet: Her relationship with Selena Gomez has fallen apart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-481, N-885
+Mentions: N-3, N-481, N-884
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the Peltz and Gomez friendship.
 
@@ -1981,7 +1981,7 @@ Claim: The host says Nicola Peltz was dating Anwar Hadid, Bella Hadid's brother,
 Transcript Snippet: She was dating Anwar Hadid, Bella Hadid's brother
 
 Anchored Artifacts: 
-Mentions: N-3, N-481, N-886, N-542
+Mentions: N-3, N-481, N-885, N-542
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the relationship and the Hadid family's reaction.
 

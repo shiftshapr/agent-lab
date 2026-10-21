@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-554",
-      "ref": "N-554",
+      "@id": "N-553",
+      "ref": "N-553",
       "name": "Carrie Prejean Boller",
       "type": "person",
       "description": "Carrie Prejean Boller; the host says Trump removed her from the religious committee.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-673",
-      "ref": "N-673",
+      "@id": "N-672",
+      "ref": "N-672",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; removed by the US operation the host cites.",
@@ -1493,8 +1493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-770",
-      "ref": "N-770",
+      "@id": "N-769",
+      "ref": "N-769",
       "name": "Marina Abramovic",
       "type": "person",
       "description": "First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.",
@@ -1511,8 +1511,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-771",
-      "ref": "N-771",
+      "@id": "N-770",
+      "ref": "N-770",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.",
@@ -1546,8 +1546,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-772",
-      "ref": "N-772",
+      "@id": "N-771",
+      "ref": "N-771",
       "name": "Benny Gantz",
       "type": "person",
       "description": "First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.",
@@ -1564,8 +1564,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-773",
-      "ref": "N-773",
+      "@id": "N-772",
+      "ref": "N-772",
       "name": "Paula White",
       "type": "person",
       "description": "First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.",
@@ -1908,7 +1908,7 @@
       "claim_timestamp": "00:38:50",
       "investigative_direction": "Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action.",
       "mentions_person_refs": [
-        "N-673"
+        "N-672"
       ]
     },
     {
@@ -1970,7 +1970,7 @@
       "claim_timestamp": "00:46:50",
       "investigative_direction": "Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew.",
       "mentions_person_refs": [
-        "N-772"
+        "N-771"
       ]
     },
     {
@@ -2105,7 +2105,7 @@
       "investigative_direction": "Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.",
       "transcript_snippet": "She does spirit cooking, literally. That was what was in those emails. Marina Abramović.",
       "mentions_person_refs": [
-        "N-770",
+        "N-769",
         "N-3"
       ]
     },
@@ -2124,7 +2124,7 @@
       "investigative_direction": "Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.",
       "transcript_snippet": "Performances like in 1974 when she sought to, quote, re-evoke the energy of extreme bodily pain using a large petroleum-drenched pentagram.",
       "mentions_person_refs": [
-        "N-770"
+        "N-769"
       ]
     },
     {
@@ -2486,7 +2486,7 @@
       "investigative_direction": "Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.",
       "transcript_snippet": "Aleister Crowley was master cultist created an entire religion around this, put together a series of books, a series of pentacles that are meant to summon various spirits.",
       "mentions_person_refs": [
-        "N-771",
+        "N-770",
         "N-3"
       ]
     },
@@ -2507,7 +2507,7 @@
       "investigative_direction": "Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.",
       "transcript_snippet": "First book he wrote was called the book of evil spirits. Wow, look at that star of David all over it.",
       "mentions_person_refs": [
-        "N-771",
+        "N-770",
         "N-3"
       ]
     },
@@ -3325,7 +3325,7 @@
       "transcript_snippet": "until Bibi Netanyahu said, \"Venezuela's anti-Semitic.\" Then we took out Maduro, and guess who benefited from that?",
       "mentions_person_refs": [
         "N-36",
-        "N-673",
+        "N-672",
         "N-3"
       ]
     },
@@ -3588,7 +3588,7 @@
         "C-6790"
       ],
       "mentions_person_refs": [
-        "N-772",
+        "N-771",
         "N-3"
       ]
     },
@@ -3611,7 +3611,7 @@
       "investigative_direction": "Identify the interviewer, outlet and date of the full interview.",
       "transcript_snippet": "Currently, we are neutralizing Iran's uh command and control system and Iran capacity to influence the region",
       "mentions_person_refs": [
-        "N-772"
+        "N-771"
       ]
     },
     {
@@ -3788,7 +3788,7 @@
         "C-6562"
       ],
       "mentions_person_refs": [
-        "N-554",
+        "N-553",
         "N-5",
         "N-3"
       ]
@@ -3906,7 +3906,7 @@
       "investigative_direction": "No source is cited; compare historians' accounts of Frankism with the host's analogy.",
       "transcript_snippet": "similarly you had this movement of people similar to the Christian Zionists that are like unhinged looking at Paula White, the pastors that are surrounding Trump",
       "mentions_person_refs": [
-        "N-773",
+        "N-772",
         "N-3"
       ]
     },

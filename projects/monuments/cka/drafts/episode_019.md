@@ -12,7 +12,7 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-932, N-11378
+  - Tip-minted Nodes (supplement_2026-10g): N-931, N-11378
   - Hole-minted Nodes (reintro-ep019): N-190, N-268, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806, N-393
   - Tip-minted Nodes (reintro-ep019): N-11093
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -813,7 +813,7 @@ Commentator the host says lied about Kirk's Israel position and then doubled dow
 
 ---
 
-**N-932** Foster Friess
+**N-931** Foster Friess
 
 First named by the host at 00:01:39 in episode 19. Described by the host as a big-time donor to Turning Point USA whose funeral in Wyoming was the last trip she took with Charlie Kirk.
 
@@ -1313,7 +1313,7 @@ Claim: The host says the last time she went to Wyoming she was with Charlie Kirk
 Transcript Snippet: the last time I went to Wyoming I was with Charlie Kirk who was the last person I visited with and it was for um ironically Foster Friess funeral
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-932
+Mentions: N-3, N-1, N-931
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate Foster Friess's funeral notice and attendee reports to date the host's trip with Kirk.
@@ -1329,7 +1329,7 @@ Claim: The host describes Foster Friess as a big-time donor to Turning Point USA
 Transcript Snippet: Foster Friess funeral who was a big- time donor to Turning Point USA still is I believe
 
 Anchored Artifacts: 
-Mentions: N-932
+Mentions: N-931
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check TPUSA donor disclosures and press coverage for Friess family giving to Turning Point.
@@ -1345,7 +1345,7 @@ Claim: The host says the Wyoming venue where Kanye West held his album release p
 Transcript Snippet: where he held that album release party would be where years later Foster Friess would have his funeral.
 
 Anchored Artifacts: 
-Mentions: N-27, N-932
+Mentions: N-27, N-931
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Verify the venue of the album event and of the funeral service.

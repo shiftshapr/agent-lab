@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 9ad39842779de2d5892f2906070abb930de6344475c2c461d3c9229b6e7dfc89
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-822, N-823, N-824, N-825, N-11207, N-11209, N-11210
+  - Tip-minted Nodes (supplement_2026-10c): N-821, N-822, N-823, N-824, N-11207, N-11209, N-11210
   - Hole-minted Nodes (reintro-ep138): N-10825
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11825–C-11907
   - New Nodes Introduced: N-10780, N-10781, N-10783, N-10784
-  - Reused Nodes Appearing: N-2, N-504, N-3, N-40, N-54, N-1, N-10782, N-10785, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-159, N-170, N-190, N-261, N-330, N-367, N-437, N-506, N-634, N-776, N-815, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10037, N-10038, N-10039, N-10056, N-10070, N-10077, N-10091, N-10097, N-10106, N-10151, N-10162, N-10319, N-10324, N-10564, N-10570, N-10572, N-10573, N-10598, N-10605, N-10623, N-10670, N-10679, N-10711, N-10713, N-10723, N-10743, N-10751, N-10808, N-10810, N-10899, N-10975, N-11012, N-11017, N-11065, N-11103, N-11121, N-11149, N-11068, N-11208
+  - Reused Nodes Appearing: N-2, N-504, N-3, N-40, N-54, N-1, N-10782, N-10785, N-5, N-7, N-9, N-14, N-22, N-36, N-37, N-42, N-125, N-159, N-170, N-190, N-261, N-330, N-367, N-437, N-506, N-633, N-775, N-814, N-10000, N-10020, N-10022, N-10026, N-10030, N-10031, N-10037, N-10038, N-10039, N-10056, N-10070, N-10077, N-10091, N-10097, N-10106, N-10151, N-10162, N-10319, N-10324, N-10564, N-10570, N-10572, N-10573, N-10598, N-10605, N-10623, N-10670, N-10679, N-10711, N-10713, N-10723, N-10743, N-10751, N-10808, N-10810, N-10899, N-10975, N-11012, N-11017, N-11065, N-11103, N-11121, N-11149, N-11068, N-11208
   - (see registers)
 
 ## 2. Executive Summary
@@ -993,7 +993,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-634** Charlie Spiering
+**N-633** Charlie Spiering
 
 Existing node reused for new claims in this episode.
 
@@ -1009,7 +1009,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-776** Matt Robinson
+**N-775** Matt Robinson
 
 Existing node reused for new claims in this episode.
 
@@ -1025,7 +1025,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-815** David Sprague
+**N-814** David Sprague
 
 First named by the host at 00:02:40 in episode 138 as the man who started the USA chant after the shot; the host says he was formerly James Rawlinson (transcribed Rollinsson).
 
@@ -1035,7 +1035,7 @@ Aliases: James Rawlinson
 
 ---
 
-**N-822** Kassy Akiva
+**N-821** Kassy Akiva
 
 First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who collaborated with the group chat organizer.
 
@@ -1043,7 +1043,7 @@ First named by the host at 00:18:45 in episode 138 as a Daily Wire employee who 
 
 ---
 
-**N-823** Perez Hilton
+**N-822** Perez Hilton
 
 First named by the host at 00:30:40 in episode 138 as the celebrity blogger in the news over a live-streamed self-harm incident.
 
@@ -1051,7 +1051,7 @@ First named by the host at 00:30:40 in episode 138 as the celebrity blogger in t
 
 ---
 
-**N-824** Khloe Kardashian
+**N-823** Khloe Kardashian
 
 First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton targeted.
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:31:00 in episode 138 as a celebrity Perez Hilton t
 
 ---
 
-**N-825** Miley Cyrus
+**N-824** Miley Cyrus
 
 First named by the host at 00:31:15 in episode 138 as the subject of an alleged Perez Hilton photo post at age 17.
 
@@ -1172,7 +1172,7 @@ Claim Timestamp: 00:36:50–00:37:30
 Claim: Per an NBC report the host reads, Miami-Dade Sheriff's Office deputies responded to Perez Hilton's Miami-area home after reports that he engaged in self-harm in a video live-streamed on social media.
 
 Anchored Artifacts: A-2249.1
-Mentions: N-823
+Mentions: N-822
 
 Related Nodes:
 
@@ -1187,7 +1187,7 @@ Claim Timestamp: 00:37:00–00:37:30
 Claim: Per a follow-up sheriff's office statement the host reads, Perez Hilton was safely recovered after the self-harm response and taken by Miami-Dade Fire Rescue to a local hospital.
 
 Anchored Artifacts: A-2249.1
-Mentions: N-823
+Mentions: N-822
 
 Related Nodes:
 
@@ -1262,7 +1262,7 @@ Claim Timestamp: 00:21:54–00:22:30
 Claim: Daily Mail journalist Charlie Spiering emailed the Candace Owens show stating that "sources" believe Candace is being used by foreign operatives sending misinformation through her tip line.
 
 Anchored Artifacts: A-2252.1
-Mentions: N-3, N-634
+Mentions: N-3, N-633
 
 Related Nodes:
 
@@ -1277,7 +1277,7 @@ Claim Timestamp: 00:32:46–00:34:05
 Claim: In a clip of the 2010 Ellen DeGeneres Show the host plays, Perez Hilton acknowledges being perceived as a "hypocrite and a bully" and pledges to stop using nasty nicknames, inappropriate doodling, and outing people on his website.
 
 Anchored Artifacts: A-2250.1
-Mentions: N-823
+Mentions: N-822
 
 Related Nodes:
 
@@ -1326,7 +1326,7 @@ Claim: In a list of claims about the case she says were false, the host says it 
 Transcript Snippet: that's a lie Tyler Robinson is not transgendered I told you that very early on his lover Lance is not transgendered
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-54, N-776
+Mentions: N-3, N-40, N-54, N-775
 Related Nodes: N-10782
 Investigative Direction: Compare the influencer statements on the list against charging documents and hearing testimony.
 
@@ -1405,7 +1405,7 @@ Claim: The host says the man who started the 'USA, USA' chant goes by David Spra
 Transcript Snippet: He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson.
 
 Anchored Artifacts: 
-Mentions: N-3, N-815
+Mentions: N-3, N-814
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Verify a legal name change and any court record concerning the father, and obtain the host's source for the confession.
@@ -1454,7 +1454,7 @@ Claim: The host says she was the first to dispute that Matt Robinson turned his 
 Transcript Snippet: Tyler's father turned him in. I have disputed this from the very beginning.
 
 Anchored Artifacts: 
-Mentions: N-3, N-776, N-40
+Mentions: N-3, N-775, N-40
 Related Nodes: N-10022, N-10782
 Supports: C-3224
 Tags: relevance:core
@@ -1471,7 +1471,7 @@ Claim: The host says Bill Ackman tweeted he would award the father $1 million, a
 Transcript Snippet: I believe Andrew Kolvet admitted that Bill Ackman did not give him $1 million and Matt Robinson, his father did not turn him in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-37, N-14, N-776
+Mentions: N-3, N-37, N-14, N-775
 Related Nodes: N-10022, N-10037
 Tags: relevance:core
 Investigative Direction: Locate Kolvet's on-air or written statement and Ackman's original reward tweet.
@@ -1633,7 +1633,7 @@ Claim: The host says that of the other sets of prints, one was owned by Tyler's 
 Transcript Snippet: of which one were his owned by his father and the other by Lance.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-54, N-776
+Mentions: N-3, N-40, N-54, N-775
 Related Nodes: N-10711, N-10598
 Tags: relevance:core
 Investigative Direction: Obtain the print comparison results naming each contributor.
@@ -1874,7 +1874,7 @@ Claim: The host says the organizer collaborated with Daily Wire employee Kassy A
 Transcript Snippet: Uh they collaborated with a Daily Wire employee Kassy Akiva, the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people
 
 Anchored Artifacts: A-2989.1
-Mentions: N-3, N-822, N-437, N-22
+Mentions: N-3, N-821, N-437, N-22
 Related Nodes: N-10670, N-10780
 Supports: C-11860
 Tags: relevance:core
@@ -1955,7 +1955,7 @@ Claim: The host says Daily Mail's Charlie Spiering worked on the 'Trust Us, bro'
 Transcript Snippet: the one who worked on the Trust Us, bro. Charlie definitely wanted Erika to take over the company because I watched the video.
 
 Anchored Artifacts: 
-Mentions: N-3, N-634, N-1, N-2
+Mentions: N-3, N-633, N-1, N-2
 Related Nodes: N-10070, N-10743
 Tags: relevance:context
 Investigative Direction: Identify the Daily Mail article and the video it relied on.
@@ -2052,7 +2052,7 @@ Claim: The host says Perez Hilton targeted Khloe Kardashian and repeatedly refer
 Transcript Snippet: he really targeted her and referred to her as a transvestite over and over again.
 
 Anchored Artifacts: 
-Mentions: N-3, N-823, N-824
+Mentions: N-3, N-822, N-823
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Review archived Perez Hilton posts about Khloe Kardashian.
@@ -2068,7 +2068,7 @@ Claim: The host says Perez Hilton posted an upskirt photo of Miley Cyrus when sh
 Transcript Snippet: he posted an upskirt photo of Miley Cyrus, who was then just 17 years old.
 
 Anchored Artifacts: 
-Mentions: N-3, N-823, N-825
+Mentions: N-3, N-822, N-824
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Review contemporaneous news coverage of the incident.
@@ -2084,7 +2084,7 @@ Claim: The host says Perez Hilton is a single father of three children born via 
 Transcript Snippet: He chose to have three children, one in 2013, one in 2015, and one in 2017.
 
 Anchored Artifacts: 
-Mentions: N-3, N-823
+Mentions: N-3, N-822
 Related Nodes: N-11209
 Tags: relevance:tangential
 Investigative Direction: Review Hilton's public statements on his children.
@@ -2100,7 +2100,7 @@ Claim: The host says that on March 23 Perez Hilton posted videos from a hospital
 Transcript Snippet: on March 23rd, he posted videos of himself from a hospital bed and said he almost died from severe sepsis and infections.
 
 Anchored Artifacts: 
-Mentions: N-3, N-823
+Mentions: N-3, N-822
 Related Nodes: N-11209
 Tags: relevance:tangential
 Investigative Direction: Locate the March 23 posts.
@@ -2116,7 +2116,7 @@ Claim: The host, who says she did not watch the video, says it ran live on TikTo
 Transcript Snippet: which ran live on TikTok, Perez Hilton was fully naked, drenched in blood with multiple cuts all over his body and he was cutting himself.
 
 Anchored Artifacts: A-2249.1
-Mentions: N-3, N-823
+Mentions: N-3, N-822
 Related Nodes: N-11209, N-11103
 Tags: relevance:tangential
 Investigative Direction: Rely on NBC and sheriff's office reporting rather than the video.
@@ -2132,7 +2132,7 @@ Claim: The host says that in the video Perez Hilton said 'I am doing this for my
 Transcript Snippet: He's on video and he's saying things like, "I am doing this for my children."
 
 Anchored Artifacts: A-2249.1
-Mentions: N-3, N-823
+Mentions: N-3, N-822
 Related Nodes: N-11209
 Tags: relevance:tangential
 Investigative Direction: Rely on police and media reporting of the incident.

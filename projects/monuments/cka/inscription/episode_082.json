@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-550",
+      "ref": "N-550",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former TPUSA PR manager in the text thread with Justin and Andrew.",
@@ -1188,8 +1188,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-690",
-      "ref": "N-690",
+      "@id": "N-689",
+      "ref": "N-689",
       "name": "Laura Ingraham",
       "type": "person",
       "description": "Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.",
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-806",
-      "ref": "N-806",
+      "@id": "N-805",
+      "ref": "N-805",
       "name": "Ross Douthat",
       "type": "person",
       "description": "First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-807",
-      "ref": "N-807",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Michael Shellenberger",
       "type": "person",
       "description": "First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Pat Buchanan",
       "type": "person",
       "description": "First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
@@ -1703,7 +1703,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-15",
-        "N-551"
+        "N-550"
       ]
     },
     {
@@ -1743,7 +1743,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-806"
+        "N-805"
       ]
     },
     {
@@ -1781,7 +1781,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-209",
-        "N-807"
+        "N-806"
       ]
     },
     {
@@ -1836,7 +1836,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-806"
+        "N-805"
       ]
     },
     {
@@ -1890,7 +1890,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-551",
+        "N-550",
         "N-493"
       ]
     },
@@ -2220,7 +2220,7 @@
       "transcript_snippet": "And Justin jumps in on the text it and he says that uh, \"It's up to Andrew.\" And Andrew doesn't answer",
       "mentions_person_refs": [
         "N-3",
-        "N-551",
+        "N-550",
         "N-15",
         "N-14",
         "N-1"
@@ -2271,8 +2271,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-551",
-        "N-690"
+        "N-550",
+        "N-689"
       ]
     },
     {
@@ -2739,7 +2739,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-209",
-        "N-807",
+        "N-806",
         "N-40"
       ]
     },
@@ -3149,7 +3149,7 @@
       "transcript_snippet": "He coined the phrase Israel's amen corner in the early 90s.",
       "mentions_person_refs": [
         "N-3",
-        "N-808"
+        "N-807"
       ]
     },
     {
