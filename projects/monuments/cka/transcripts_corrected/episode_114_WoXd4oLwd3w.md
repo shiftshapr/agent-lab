@@ -264,7 +264,7 @@ I'd like to know if they're watching and maybe I do know that some people in his
 
 [01:00:49]
 
-They're going to have to Forgive me. I'm going to have to put them in the Tucker basket. Please forgive me, Tucker. Please forgive me, people in I'm book club because I'm going to have to bump this. Can we do Monday? Tucker, I mean, you're not Tucker. You're Skyler. There's no way I can do book club. I think Tucker's in the control room. I'm coming apart on this Friday night. Skyler.
+They're going to have to Forgive me. I'm going to have to put them in the Tucker basket. Please forgive me, Tucker. Please forgive me, people in I'm book club because I'm going to have to bump this. Can we do Monday? Tucker, I mean, you're not Tucker. You're Schuyler. There's no way I can do book club. I think Tucker's in the control room. I'm coming apart on this Friday night. Schuyler.
 
 [01:01:13]
 

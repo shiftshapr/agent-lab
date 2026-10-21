@@ -39,11 +39,11 @@ That was her Friday episode. And I've looked. I've looked everywhere. I have sco
 
 [01:03]
 
-I was caught red-handed. No excuses. I actually do have an excuse. I never make mistakes. This couldn't possibly be my fault. I am, by the way, still pregnant. People thought I gave birth. I mean, it was an absolute mess. But I want you guys to know right at the top here, it was Skyler's fault. Skyler, the producer, right as soon as I said, "We'll see you on Monday and we went off air," he went, "No, Tuesday." But we were already off air and I'm disappointed in him as a human being. He never ever forgets his holidays. He's always one that reminds me there's a holiday coming up.
+I was caught red-handed. No excuses. I actually do have an excuse. I never make mistakes. This couldn't possibly be my fault. I am, by the way, still pregnant. People thought I gave birth. I mean, it was an absolute mess. But I want you guys to know right at the top here, it was Schuyler's fault. Schuyler, the producer, right as soon as I said, "We'll see you on Monday and we went off air," he went, "No, Tuesday." But we were already off air and I'm disappointed in him as a human being. He never ever forgets his holidays. He's always one that reminds me there's a holiday coming up.
 
 [01:35]
 
-So I just want all of us to forgive Skyler his mistake and move on from it. And by the way, nobody is more disappointed that I didn't give birth than me. Okay? I'm done. I am done with this pregnancy. So fingers crossed that it actually happens tomorrow or the next day. Anyway, you guys, on today's episode, we have a lot going on. I want to address the Cornell 7 case which is dominating the news cycle. Just want to give my general opinion. I also would like to comment on the new press secretary. Hm. She sure is something.
+So I just want all of us to forgive Schuyler his mistake and move on from it. And by the way, nobody is more disappointed that I didn't give birth than me. Okay? I'm done. I am done with this pregnancy. So fingers crossed that it actually happens tomorrow or the next day. Anyway, you guys, on today's episode, we have a lot going on. I want to address the Cornell 7 case which is dominating the news cycle. Just want to give my general opinion. I also would like to comment on the new press secretary. Hm. She sure is something.
 
 [02:06]
 
@@ -447,7 +447,7 @@ Sumakuma, buma, whatever." Yeah, that is true. And yeah, Pepper, there's somethi
 
 [55:50]
 
-God bless." It is true. We take all federal holidays. And it is true that it is always Skylar that reminds me before we go off air. He's like, "No, I'm off on Monday." In my ear, I'm like, "Ah, Skyler's off on Monday. He didn't do that." So that's why we blamed Skyler. That was totally appropriate. I could do no wrong, especially this pregnant. Lola Wild writes, "Cannis, you are the bravest journalist alive. I loved your Theo Von interview, guys. Like 3.5 million of you have watched an interview." I think it's like his biggest interview of the year. It's on track to be at least. Um, so thank you guys for watching that.
+God bless." It is true. We take all federal holidays. And it is true that it is always Skylar that reminds me before we go off air. He's like, "No, I'm off on Monday." In my ear, I'm like, "Ah, Schuyler's off on Monday. He didn't do that." So that's why we blamed Schuyler. That was totally appropriate. I could do no wrong, especially this pregnant. Lola Wild writes, "Cannis, you are the bravest journalist alive. I loved your Theo Von interview, guys. Like 3.5 million of you have watched an interview." I think it's like his biggest interview of the year. It's on track to be at least. Um, so thank you guys for watching that.
 
 [56:20]
 
@@ -467,4 +467,4 @@ It's so cute. Like, how is that not cool and cute? Just look at it. Hit the back
 
 [58:30]
 
-It should be up on the website this week, but I don't want to I don't want to give it away. I love it. It's great. The designs are fantastic. Um all right, guys. That's it. That was a long Tuesday. I'm sorry that you guys thought I gave birth. I'm sorry that I wasn't in communication. I'm sorry that Skyler is who he is. We will see you guys tomorrow.
+It should be up on the website this week, but I don't want to I don't want to give it away. I love it. It's great. The designs are fantastic. Um all right, guys. That's it. That was a long Tuesday. I'm sorry that you guys thought I gave birth. I'm sorry that I wasn't in communication. I'm sorry that Schuyler is who he is. We will see you guys tomorrow.

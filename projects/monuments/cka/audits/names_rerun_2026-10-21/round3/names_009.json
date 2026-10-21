@@ -1,0 +1,9 @@
+[
+{"id": "N-801", "name": "Don Orrico", "verdict": "unresolved", "bad_aliases": [], "note": "Only people-search directories (SignalHire: Don/Donald Orrico, Major Gifts Officer - Florida, TPUSA, Land O' Lakes FL) match; spelling consistent with transcript but no qualifying source."},
+{"id": "N-820", "name": "Devonte West", "verdict": "ok", "bad_aliases": [], "note": "Comedian/content creator Devonte West (Instagram @_devontewest), known for church/pastor skits; https://voyagedallas.com/interview/meet-devonte-west-of-dallas"},
+{"id": "N-825", "name": "Jordan Wilson", "verdict": "unresolved", "bad_aliases": [], "note": "HappyScribe ep377 transcript also has 'Jordan Wilson' (https://podcasts.happyscribe.com/candace/10-66661d83-9275-4cbc-9c02-add22e8eae9d); no web source names a UVU camera operator."},
+{"id": "N-848", "name": "Austin Erickson", "verdict": "ok", "bad_aliases": ["Austin Ericson"], "note": "TPUSA staff page https://www.tpusa.com/austinerickson (Enterprise Director, Faith dept). 'Ericson' is a transcription variant."},
+{"id": "N-850", "name": "Pete McCormick", "verdict": "ok", "bad_aliases": [], "note": "Colonel A. L. 'Pete' McCormick III (US Army, Ret.), obituary lists grandchild Peyton McCormick: https://www.turrentinejacksonmorrow.com/obituaries/colonel-a-l-mccormick-iii-u-s-army-ret--46737"},
+{"id": "N-851", "name": "Allan McCormick", "verdict": "wrong", "correct": "Allen McCormick", "source": "https://www.turrentinejacksonmorrow.com/obituaries/colonel-a-l-mccormick-iii-u-s-army-ret--46737", "bad_aliases": [], "note": "Obituary of Col. Pete McCormick names son 'Allen L. McCormick, IV' and grandchild Peyton McCormick; Peyton born Fayetteville NC (Fort Bragg) to a soldier, matches. Obituary gives no rank for Allen."},
+{"id": "N-858", "name": "Frank Carni", "verdict": "ok", "bad_aliases": [], "note": "TPUSA General Counsel Frank Carni (II), listed on https://tpusa.com/team/"}
+]

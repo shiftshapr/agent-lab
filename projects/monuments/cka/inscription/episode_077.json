@@ -520,7 +520,7 @@
       "ref": "N-573",
       "name": "Nicole Rothstein",
       "type": "person",
-      "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.",
+      "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Allan Rothstein.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -537,7 +537,7 @@
       "@type": "Person",
       "@id": "N-574",
       "ref": "N-574",
-      "name": "Alan Rothstein",
+      "name": "Allan Rothstein",
       "type": "person",
       "description": "Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as \"Uncle Allan.\"",
       "related_artifacts": [
@@ -841,7 +841,7 @@
       "@type": "Person",
       "@id": "N-886",
       "ref": "N-886",
-      "name": "Fran Rothschild",
+      "name": "Fran Rothchild",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.",
       "related_artifacts": [],
@@ -860,7 +860,7 @@
       "ref": "N-11291",
       "name": "Wilhelmina Models",
       "type": "organization",
-      "description": "Model agency the host says was co-founded by Fran Rothschild and where Faith Kates was first vice president of the women's division.",
+      "description": "Model agency the host says was co-founded by Fran Rothchild and where Faith Kates was first vice president of the women's division.",
       "related_artifacts": [],
       "related_claims": [
         "C-6903"
@@ -894,7 +894,7 @@
       "ref": "N-11293",
       "name": "Win Haven Real Estate",
       "type": "topic",
-      "description": "Real estate company the host says Alan Rothstein chaired.",
+      "description": "Real estate company the host says Allan Rothstein chaired.",
       "related_artifacts": [],
       "related_claims": [
         "C-6918"
@@ -1442,14 +1442,14 @@
       "@id": "C-6919",
       "ref": "C-6919",
       "label": "Erika Kirk 2017 Instagram Post Thanks \"Uncle Allan\" Rothstein",
-      "claim": "In a 2017 Instagram post the host reads, Erika Kirk addresses \"Uncle Allan\" as someone filled with spirit who has shown courage through adversity; the host identifies him as Alan Rothstein, whom she says chaired Win Haven Real Estates.",
+      "claim": "In a 2017 Instagram post the host reads, Erika Kirk addresses \"Uncle Allan\" as someone filled with spirit who has shown courage through adversity; the host identifies him as Allan Rothstein, whom she says chaired Win Haven Real Estates.",
       "anchored_artifacts": [
         "A-1823.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:32",
-      "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.",
+      "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Allan Rothstein's role at Win Haven Real Estate through corporate filings.",
       "mentions_person_refs": [
         "N-2",
         "N-574"
@@ -2102,8 +2102,8 @@
       "@type": "Claim",
       "@id": "C-6918",
       "ref": "C-6918",
-      "label": "Alan Rothstein chaired Win Haven Real Estate and Erika calls him uncle",
-      "claim": "The host says Erika is extremely close to Alan Rothstein, whom she calls uncle, and that he was (and may still be) chairman of Win Haven Real Estates.",
+      "label": "Allan Rothstein chaired Win Haven Real Estate and Erika calls him uncle",
+      "claim": "The host says Erika is extremely close to Allan Rothstein, whom she calls uncle, and that he was (and may still be) chairman of Win Haven Real Estates.",
       "anchored_artifacts": [
         "A-1823.1"
       ],
@@ -2115,7 +2115,7 @@
       ],
       "claim_timestamp": "00:08:22",
       "investigative_direction": "Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.",
-      "transcript_snippet": "Alan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates",
+      "transcript_snippet": "Allan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates",
       "mentions_person_refs": [
         "N-574",
         "N-2"

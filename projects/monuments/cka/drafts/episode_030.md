@@ -862,8 +862,8 @@ Named by the host regarding the Shapiro bad-blood claim.
 
 **N-848** Austin Erickson
 
-First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.
-Aliases: Austin Ericson
+First named by the host at 00:22:40 in episode 30 (spelled Austin Erickson in the transcript). TPUSA staffer addressed with Dylan Erickson.
+Aliases: Austin Erickson
 
 *Related: C-2678, C-2679, C-2680, C-2714*
 

@@ -294,7 +294,7 @@ And his response to dropping that was that he didn't realize that that was suppo
 
 [01:01:34]
 
-He thought he was a Red Cross doctor. So that's why he posted it because like obviously he he was um What year was that actually that he was a doctor Skyler? I'm sorry. I've seen a producer note. Um could Can we ask Charlie GPT? Yeah it it when did he Wow, it's not coming up for us that uh Trump was ever a doctor. So I don't know why he would feel that the image was relating to him as a doctor for Red Cross healing the sick. That seems and wearing that particular getup doesn't feel to me like he was a a Red Cross doctor. But that's the slap we're getting. It's been a sloppy year my friends. It's been a fetty sloppy year and so we're just we're just going to keep getting it. We're just going to keep getting it.
+He thought he was a Red Cross doctor. So that's why he posted it because like obviously he he was um What year was that actually that he was a doctor Schuyler? I'm sorry. I've seen a producer note. Um could Can we ask Charlie GPT? Yeah it it when did he Wow, it's not coming up for us that uh Trump was ever a doctor. So I don't know why he would feel that the image was relating to him as a doctor for Red Cross healing the sick. That seems and wearing that particular getup doesn't feel to me like he was a a Red Cross doctor. But that's the slap we're getting. It's been a sloppy year my friends. It's been a fetty sloppy year and so we're just we're just going to keep getting it. We're just going to keep getting it.
 
 ## Comments.
 

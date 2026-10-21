@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 401 (2026-10-13). The host opens by joking about a missed Monday episode, says she is still pregnant and blames producer Skyler for forgetting the federal holiday. She then presents what she calls a discovery about UVU that she says she held back because of pending litigation. She introduces Val Peterson – a UVU vice president, Utah state representative and retired National Guard brigadier general – and, citing the after-action report, says he was about 45 minutes from campus at the time of the shooting. She notes that Salt Lake City, where she says the National Guard air base is, lies about 45 minutes away, while stating she has no idea whether Peterson was there.
+Episode 401 (2026-10-13). The host opens by joking about a missed Monday episode, says she is still pregnant and blames producer Schuyler for forgetting the federal holiday. She then presents what she calls a discovery about UVU that she says she held back because of pending litigation. She introduces Val Peterson – a UVU vice president, Utah state representative and retired National Guard brigadier general – and, citing the after-action report, says he was about 45 minutes from campus at the time of the shooting. She notes that Salt Lake City, where she says the National Guard air base is, lies about 45 minutes away, while stating she has no idea whether Peterson was there.
 
 The host then introduces Tyler Clancy, a Utah state representative and Provo police detective whom Peterson led as a church leader at BYU. According to the host's sources, which she says include multiple Provo and Orem sources, Clancy was on duty on the day, was at Timpanogos hospital, escorted Erika Kirk from the airport with Turning Point USA members or affiliates in his car, and disposed of a bloodied bag left in that car. The host stresses these are allegations, says Clancy did not answer a request for comment, and offers a clip of Frank Turek on the Apostate Prophet podcast – raised to her by Baron Coleman – in which Turek says he asked a police officer to dispose of his bloodied bag. The host says she is inclined to believe that officer was Clancy. She adds that Governor Cox later appointed Clancy state homeless coordinator and alleges Clancy is best friends with Shaner Broderick through BYU lacrosse. She repeats that the fire captain who gave CPR at Timpanogos remains unidentified and asks for tips.
 
@@ -566,13 +566,13 @@ Investigative Direction: Later episodes announcing the birth.
 
 ---
 
-**C-14145** Host Blames Producer Skyler for the Missed Monday
+**C-14145** Host Blames Producer Schuyler for the Missed Monday
 
 Claim Timestamp: 00:01:15
 
-Claim: The host says producer Skyler told her "No, Tuesday" only after they had gone off air, so the "see you on Monday" sign-off was his fault.
+Claim: The host says producer Schuyler told her "No, Tuesday" only after they had gone off air, so the "see you on Monday" sign-off was his fault.
 
-Transcript Snippet: it was Skyler's fault. Skyler, the producer, right as soon as I said, "We'll see you on Monday and we went off air," he went, "No, Tuesday."
+Transcript Snippet: it was Schuyler's fault. Schuyler, the producer, right as soon as I said, "We'll see you on Monday and we went off air," he went, "No, Tuesday."
 
 Anchored Artifacts:
 Mentions: N-3
@@ -2255,7 +2255,7 @@ Confidence: high
 - Unnamed person: the young critic the host calls "Jimmy Neutron" is not named on air; no node minted.
 - Host says "September 11th" for Clancy's duty day (00:17:33) where context indicates September 10; kept as said in C-14174.
 - Host says Clancy was the youngest Utah House member "since 1834" (00:14:20); kept as said, date not checked.
-- Producer Skyler (00:01:03, 00:55:50) is not linked to the existing Skyler node (alias "Charlie Skyler"), whose identity is unclear, so no node cited.
+- Producer Schuyler (00:01:03, 00:55:50) is not linked to the existing Schuyler node (alias "Charlie Schuyler"), whose identity is unclear, so no node cited.
 - Jake Paul and Jon Gruden are named only in the Zacharia clip and not minted as nodes.
 - The after-action report (A-3383.1) is treated as the UVU independent review (N-10839); the host calls it the "afteraction report".
 - DIA scan: "Candace Owens.com" at 00:00:32 is the host's skit about searching for a Monday episode, not a tip request – not a DIA beat. "Go to.com" merch plug at 00:57:29 is a merch beat, logged only as M-14.

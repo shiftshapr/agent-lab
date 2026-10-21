@@ -94,7 +94,7 @@ I was trying to protect even that information and just saying retired law enforc
 
 [18:28]
 
-It's nonsense. He's weird about this. He um says that he retired. I think a journalist asks in the audience like you know that former friend detective uh how long has he been off the force and he says I don't know if we have that clip or maybe we didn't cut that Skyler but he's like three years. But actually we were able to figure out who that individual was and it's I feel someone that we need to get in touch with. We've tried to get in touch with him. Um, the name of that individual is is former Deputy Mike Mitchell.
+It's nonsense. He's weird about this. He um says that he retired. I think a journalist asks in the audience like you know that former friend detective uh how long has he been off the force and he says I don't know if we have that clip or maybe we didn't cut that Schuyler but he's like three years. But actually we were able to figure out who that individual was and it's I feel someone that we need to get in touch with. We've tried to get in touch with him. Um, the name of that individual is is former Deputy Mike Mitchell.
 
 [19:02]
 

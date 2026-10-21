@@ -953,7 +953,7 @@ Claim Timestamp: 00:15:42
 
 Claim: According to Cuccia's thread, shortly after the White House meeting she was contacted through a third party and asked to write scripts for VFT. The host says Cuccia later identifies this person as Shawn Chenoweth, director of cognitive advantage at the National Security Council, who works under and with Gorka.
 
-Transcript Snippet: she later identifies this person to be Shawn Chenowith, who is the director of cognitive advantage at the US uh at the National Security Council.
+Transcript Snippet: she later identifies this person to be Shawn Chenoweth, who is the director of cognitive advantage at the US uh at the National Security Council.
 
 Anchored Artifacts: A-2612.2
 Mentions: N-639, N-641, N-640

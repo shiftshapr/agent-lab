@@ -173,7 +173,7 @@ Um Justin Streiff is going to come back and say, "Confirm or deny what?" And she
 
 [28:38]
 
-Um and there is curiously again going to be no response from Andrew uh until 4:25 p. m. Mountain Utah time. And when he finally replies, he again is going to have another excuse. He's going to say, "Curiously, my internet just came back on." My internet just came back on. Okay. So, we have a 2-hour window, and then we have this hour window in which Andrew Kolvet is unavailable to do the most important thing on the most important job in each each instance, he doesn't have internet. What goes on in Santa Barbara? No internet in Santa Barbara. It's very strange. So, now I'm going to place all of this on a calendar, and Skyler, just shout me out when you have that second part in my ear of the message. I'm going to place this on a calendar so that you guys can see all the moving pieces here, okay?
+Um and there is curiously again going to be no response from Andrew uh until 4:25 p. m. Mountain Utah time. And when he finally replies, he again is going to have another excuse. He's going to say, "Curiously, my internet just came back on." My internet just came back on. Okay. So, we have a 2-hour window, and then we have this hour window in which Andrew Kolvet is unavailable to do the most important thing on the most important job in each each instance, he doesn't have internet. What goes on in Santa Barbara? No internet in Santa Barbara. It's very strange. So, now I'm going to place all of this on a calendar, and Schuyler, just shout me out when you have that second part in my ear of the message. I'm going to place this on a calendar so that you guys can see all the moving pieces here, okay?
 
 [29:39]
 
@@ -289,7 +289,7 @@ Well, we we got we got we got to do a whole episode on Nevada one day. Uh, Venec
 
 [51:52]
 
-I'm here for that. Hire me. Um Bonita Ooh, okay, Skyler's got something. The name Nevada is Oh, it's Spanish. Originally from the Spanish adjective Nevada. So, I'm definitely right. Right? Yeah. Yeah, like snow, but they would say ada. They don't say they did they don't say ada. There's no ada in Spanish. Right, Skyler? You agree? You speak Spanish? See? Connecticut wins. What's up, Connecticut in the chat? Woop woop. I'm representing. It's your girl. It's your girl Candace. I told you I'd never let you down. Connecticut. Uh Bonita Joshua writes, "Hey Candace, support from South Africa. Keep fighting the good fight." Anthony, where are you from, Anthony? So, I want to go back to Anthony. Where is Anthony from? Anthony's crazy.
+I'm here for that. Hire me. Um Bonita Ooh, okay, Schuyler's got something. The name Nevada is Oh, it's Spanish. Originally from the Spanish adjective Nevada. So, I'm definitely right. Right? Yeah. Yeah, like snow, but they would say ada. They don't say they did they don't say ada. There's no ada in Spanish. Right, Schuyler? You agree? You speak Spanish? See? Connecticut wins. What's up, Connecticut in the chat? Woop woop. I'm representing. It's your girl. It's your girl Candace. I told you I'd never let you down. Connecticut. Uh Bonita Joshua writes, "Hey Candace, support from South Africa. Keep fighting the good fight." Anthony, where are you from, Anthony? So, I want to go back to Anthony. Where is Anthony from? Anthony's crazy.
 
 [52:39]
 

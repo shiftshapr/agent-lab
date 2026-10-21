@@ -152,7 +152,7 @@ Yeah, it's it's a very satanic If you take a a a literal view of of the the demo
 
 [24:46]
 
-Obviously people are basically good and I still believe that people are basically good but I don't believe that governments are basically good and I think that kind of the old guard is losing control and they're becoming more desperate in their control which is now leading to more revelation about who they are. Uh but I found and and Skyler I don't know if we have it handy but when I was going through this story and I just kept saying how many times can the theme of child sex trafficking come up as I'm investigating Charlie Kirk. Yeah. This doesn't make sense to me. Like what what actually is Turning Point USA? What was the million dollar question is yes Bibi Netanyahu made an offer to Charlie Kirk to take Turning Point to the next level.
+Obviously people are basically good and I still believe that people are basically good but I don't believe that governments are basically good and I think that kind of the old guard is losing control and they're becoming more desperate in their control which is now leading to more revelation about who they are. Uh but I found and and Schuyler I don't know if we have it handy but when I was going through this story and I just kept saying how many times can the theme of child sex trafficking come up as I'm investigating Charlie Kirk. Yeah. This doesn't make sense to me. Like what what actually is Turning Point USA? What was the million dollar question is yes Bibi Netanyahu made an offer to Charlie Kirk to take Turning Point to the next level.
 
 [25:26]
 

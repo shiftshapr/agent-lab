@@ -1384,7 +1384,7 @@ Claim Timestamp: 00:30:53
 
 Claim: The host says that after she told Streiff a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital.
 
-Transcript Snippet: And then it was like, "Oh, oh yeah, a was it a football game, Skyler? A football game."
+Transcript Snippet: And then it was like, "Oh, oh yeah, a was it a football game, Schuyler? A football game."
 
 Anchored Artifacts: 
 Mentions: N-15, N-2, N-3

@@ -2296,7 +2296,7 @@ Claim Timestamp: 00:18:30
 
 Claim: The host says that when a journalist asked how long the former detective had been off the force, Brooksby said about three years (the clip is not played).
 
-Transcript Snippet: how long has he been off the force and he says I don't know if we have that clip or maybe we didn't cut that Skyler but he's like three years.
+Transcript Snippet: how long has he been off the force and he says I don't know if we have that clip or maybe we didn't cut that Schuyler but he's like three years.
 
 Anchored Artifacts:
 Mentions: N-272, N-125

@@ -77,7 +77,7 @@ Apparently, they were retracing the footsteps of the killer. They were at his gr
 
 [11:36]
 
->> And it said right here that picture from Sam's across the street. He was right here. >> Yep. >> See, you see she's talking about the shooter and she says, "I was wondering if the girl had given him stuff." And then somebody off camera says, "You know, you're filming." And she says, "I'm sorry that you're filming." But it's very clear. There's no question at all. In fact, leading into that, which we should have maybe cut that a little bit earlier, they're speaking about how she thought the FBI had it wrong. The timing didn't make sense to her. Um, and she that she started with, I don't, you know, the timing doesn't make sense to me because I thought that it took a little longer for him to walk. Let's play that again, Skyler, just so they can hear it again. She says there's a girl. Take a listen.
+>> And it said right here that picture from Sam's across the street. He was right here. >> Yep. >> See, you see she's talking about the shooter and she says, "I was wondering if the girl had given him stuff." And then somebody off camera says, "You know, you're filming." And she says, "I'm sorry that you're filming." But it's very clear. There's no question at all. In fact, leading into that, which we should have maybe cut that a little bit earlier, they're speaking about how she thought the FBI had it wrong. The timing didn't make sense to her. Um, and she that she started with, I don't, you know, the timing doesn't make sense to me because I thought that it took a little longer for him to walk. Let's play that again, Schuyler, just so they can hear it again. She says there's a girl. Take a listen.
 
 [12:15]
 

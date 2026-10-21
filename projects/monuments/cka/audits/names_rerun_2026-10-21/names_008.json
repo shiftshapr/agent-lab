@@ -1,0 +1,88 @@
+[
+ {
+  "id": "N-662",
+  "name": "Arthur Fields",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Searched with Julie Fields/North Carolina/Kirk/TPUSA donor; no source names these donors."
+ },
+ {
+  "id": "N-675",
+  "name": "Jonathan Barcelo",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Searched Barcelo + Erika Kirk security/Marine; no source found."
+ },
+ {
+  "id": "N-678",
+  "name": "Courtney Thief",
+  "verdict": "wrong",
+  "correct": "Courtney Fife",
+  "source": "https://podcasts.happyscribe.com/candace/erika-cries-again-a-mysterious-death-in-pennsylvania-reignites-butler-conspiracies",
+  "bad_aliases": [],
+  "note": "HappyScribe transcript of ep349 renders the former ATF agent as 'Courtney Fife'; 'Thief' is a caption mishearing. No web source beyond the second transcript."
+ },
+ {
+  "id": "N-681",
+  "name": "Don Porter",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Host names him clearly (ep350 transcript); no web source links a Don Porter to Comperatore."
+ },
+ {
+  "id": "N-684",
+  "name": "Dan Merrell",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "Jimmy Rex Show #689 'Dan Merrell - Contractor Hired to Pave Over Charlie Kirk Death Scene' (listennotes.com/podcasts/the-jimmy-rex-show/689-dan-merrell-contractor-MZ7NROUxJQS/)."
+ },
+ {
+  "id": "N-689",
+  "name": "Curtis Kolvet",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "No source names Andrew Kolvet's brother; host says 'Curtis'."
+ },
+ {
+  "id": "N-698",
+  "name": "Brian Farnsworth",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "HappyScribe ep353 also has 'Brian Farnsworth is his ... brother'; no independent web source."
+ },
+ {
+  "id": "N-699",
+  "name": "Parker Edwards",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "HappyScribe ep353 also has 'Parker Edwards'; no independent web source (search budget ran out)."
+ },
+ {
+  "id": "N-700",
+  "name": "Aaron Edwards",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "HappyScribe ep353 also has 'Aaron Edwards worked for Visual Impulse'; no independent web source (search budget ran out)."
+ },
+ {
+  "id": "N-701",
+  "name": "Robert Golow",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "HappyScribe ep353 also 'Golow'; a secondhand X/episode summary spells it 'Robert Golo'. Not confirmed either way."
+ },
+ {
+  "id": "N-707",
+  "name": "Joyce Churnick",
+  "verdict": "unresolved",
+  "bad_aliases": [],
+  "note": "Likely Joyce Chernick (megadonor, wife of Aubrey Chernick) but no source ties her to TPUSA/Tucker speech; not re-searched (budget)."
+ },
+ {
+  "id": "N-725",
+  "name": "Mike Kennedy",
+  "verdict": "ok",
+  "bad_aliases": [],
+  "note": "victormarx4co.com: 'Mike Kennedy is an original founder of All Things Possible Ministries; he died in 2022'; also candaceowensfan.substack.com summaries."
+ }
+]
