@@ -1662,7 +1662,7 @@ Transcript Snippet: we have been running late because we're debating of when to 
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Observe later episodes for the material she says is being timed.
 
 ---

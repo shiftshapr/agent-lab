@@ -3832,7 +3832,7 @@ Transcript Snippet: I imagine this is exactly what Charlie was going through in 
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find Kirk's own public statements about visions or premonitions in 2018.
 
 ---

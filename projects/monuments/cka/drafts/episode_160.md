@@ -1079,7 +1079,7 @@ Investigative Direction: Obtain original Provo/Orem dispatch recordings and unit
 **C-13867** Turek on Tatum podcast doubles down that Jeff Long had the roofs after the review
 
 Claim Timestamp: 00:35:11
-Claim: In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a Dan Flood text ("I got you covered") as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.
+Claim: In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a text exchange Dan Flood showed him, in which Long replied "I got you covered" to a request for roof coverage, as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative.
 Anchored Artifacts: A-2477.1
 Mentions: N-7, N-58, N-270, N-271
 Related Nodes: N-10839

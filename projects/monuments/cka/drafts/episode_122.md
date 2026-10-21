@@ -1902,7 +1902,7 @@ Transcript Snippet: there is a a current class action lawsuit that's making its 
 Anchored Artifacts: A-2969.1
 Mentions: N-3
 Related Nodes: N-11194, N-10532
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the docket, court and filing date of the class action and confirm the defendants.
 
 ---

@@ -2060,8 +2060,8 @@
       "@type": "Claim",
       "@id": "C-843",
       "ref": "C-843",
-      "label": "Bill Ackman is the person C-842 calls 'Bill Ackman' (revises C-842)",
-      "claim": "C-842 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37). The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.",
+      "label": "Bill Ackman replied with a 959-word essay that skipped the intervention allegation",
+      "claim": "The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation.",
       "anchored_artifacts": [
         "A-1170.1"
       ],
@@ -2073,9 +2073,7 @@
       "investigative_direction": "Read with C-842; obtain the 959-word essay under the corrected spelling Bill Ackman.",
       "transcript_snippet": "And Bill Ackman replies with an essay, college essay.",
       "confidence": "medium",
-      "revises_claim_refs": [
-        "C-842"
-      ],
+      "revises_claim_refs": [],
       "mentions_person_refs": [
         "N-37",
         "N-3"

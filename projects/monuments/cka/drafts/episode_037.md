@@ -1480,7 +1480,7 @@ Transcript Snippet: I also minor correction I think yesterday I said that Tucker
 Anchored Artifacts: A-3030.1
 Mentions: N-22
 Revises: C-3183
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Confirm the date of Carlson's Turning Point speech against the event program and video.
 
 ---

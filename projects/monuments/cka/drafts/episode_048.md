@@ -1057,7 +1057,7 @@ Investigative Direction: Establish chain of custody for the photographs and veri
 **C-4220** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:31:17
-Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Claim: The host says that by investigators she means 'mommy sleuths and investigators on the ground' who have not accepted the federal account, and says she intends to partner with people doing that work.
 Transcript Snippet: ...vestigators When I say investigators, I mean like mommy sleuths and investigators on the ground who have been looking into this story and not accepting the feds fl...
 Anchored Artifacts: 
 Mentions: N-3

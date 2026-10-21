@@ -848,7 +848,7 @@ Investigative Direction: Verify the clip source, date, and full context; cross-c
 
 Claim Timestamp: 00:08:45–00:10:00
 
-Claim: Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks about Charlie Kirk being "betrayed" effectively accused Erika Kirk of murdering her husband.
+Claim: Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks put Erika Kirk 'in the crosshairs', saying either Erika Kirk 'was in on it' or Candace Owens is evil.
 
 Anchored Artifacts: A-1416.1, A-1417.1
 Mentions: N-2, N-3, N-259, N-1

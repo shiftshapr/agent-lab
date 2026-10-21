@@ -992,7 +992,7 @@ Investigative Direction: This is a host stance claim, not independently verifiab
 
 Claim Timestamp: 01:08:11
 
-Claim: The host says flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.
+Claim: The host says Erika Kirk's plane (N102DZ), carrying a priest, Erika Kirk, Tyler Bowyer and Elizabeth McCoy, left at 2:19 p.m. ('it's an hour and 5 minutes') and arrived in Provo at 4:36 p.m., and that she was told Andrew Kolvet was on one of the two planes.
 
 Anchored Artifacts: A-1657.1
 Mentions: N-2, N-11, N-217, N-14

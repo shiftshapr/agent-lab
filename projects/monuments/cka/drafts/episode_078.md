@@ -2581,7 +2581,7 @@ Transcript Snippet: please email us more tips at candaceowens. com.
 
 Anchored Artifacts: A-3222.1
 Mentions: N-3
-Tags: relevance:core, dia
+Tags: relevance:context
 Investigative Direction: Check the tips inbox intake and any tips published or acted on in later episodes.
 
 ---

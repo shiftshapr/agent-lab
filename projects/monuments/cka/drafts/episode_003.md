@@ -2983,7 +2983,7 @@ Transcript Snippet: Maple Leaf Girl writes, "Please look into Governor Cox. He's
 Anchored Artifacts: A-2516.4
 Mentions: N-41, N-3
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the Utah 2024 Republican primary and convention results for any documented irregularities.
 
 ---

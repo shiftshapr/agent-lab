@@ -1155,7 +1155,7 @@ Investigative Direction: Obtain the full Rumble-hosted Charlie Kirk episode; ver
 
 Claim Timestamp: 00:55:30–00:56:41
 
-Claim: A message relayed via producer indicates that Blake Neff confirmed the full Charlie Kirk podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
+Claim: A message relayed via the host's producer says Blake Neff confirmed the full Charlie Kirk podcast episode, including Neff's own comments about Erika, remains intact on Rumble; only the Twitter stream version was trimmed.
 
 Anchored Artifacts: A-1821.1, A-1820.1
 Mentions: N-159

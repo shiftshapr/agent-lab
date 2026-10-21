@@ -2191,7 +2191,7 @@ Transcript Snippet: Like Macron is suing people for knowing the truth about crim
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10270, N-10316
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The statement is the host's allegation about Brigitte Macron; refer to the Delaware filings and any evidence of the alleged crimes.
 
 ---

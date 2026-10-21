@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-21T15:09:07Z",
+  "generated_at": "2026-10-21T16:24:47Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -21,10 +21,10 @@
     "contradicts": 127,
     "isCorroboratedBy": 2477,
     "isMemberOf": 20435,
-    "isQualifiedBy": 115,
+    "isQualifiedBy": 114,
     "isSupportedBy": 8302
   },
-  "revises_candidate_count": 5008,
+  "revises_candidate_count": 5006,
   "nodes": [
     {
       "@type": "KnowledgeGraphNode",
@@ -90328,7 +90328,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-843",
-      "label": "Bill Ackman is the person C-842 calls 'Bill Ackman' (revises C-842)",
+      "label": "Bill Ackman replied with a 959-word essay that skipped the intervention allegation",
       "node_kind": "claim",
       "episode": 10
     },
@@ -157349,21 +157349,6 @@
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
       "episode": 10
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-842",
-      "to": "C-843",
-      "relationship": "isQualifiedBy",
-      "explanation": "REVISES (qualify_cues=0 extend_cues=0; default softening pending Transit)",
-      "episode": 10,
-      "review_status": "pending_transit",
-      "metadata": {
-        "ledger": "REVISES",
-        "candidate_of": "revises_split",
-        "heuristic_primary": "isQualifiedBy",
-        "confidence": 0.35
-      }
     },
     {
       "@type": "OrdinalBridge",

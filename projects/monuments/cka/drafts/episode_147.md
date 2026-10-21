@@ -970,7 +970,7 @@ Investigative Direction: Confirm the post remains on X; verify timestamp; cross-
 
 Claim Timestamp: 00:39:42
 
-Claim: The host explicitly rejects Walsh's "justifying political assassination" framing and characterizes it as a "disingenuous narrative."
+Claim: The host rejects Matt Walsh's 'justifying political assassination' framing, saying the shared video was meant to delude the public.
 
 Anchored Artifacts: A-2332 (host stance on same artifact)
 Mentions: N-163
