@@ -22,6 +22,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import supplement_integrate as si  # noqa: E402
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 CKA = si.CKA
 
@@ -53,7 +55,7 @@ def main() -> int:
         if not msec.strip():
             continue
         dpath = CKA / "drafts" / f"episode_{ep:03d}.md"
-        draft = dpath.read_text(encoding="utf-8")
+        draft = cs.read_draft_text(ep)
         mp: dict[str, str] = {}
         for mid, term in re.findall(r"^\*\*(M-N\d+)\*\*\s+(.+)$", msec, re.M):
             term = merges.get(si.norm(term), term)
@@ -94,7 +96,7 @@ def main() -> int:
                 defs += 1
         print(f"ep{ep}: +{added} meme occurrences")
         if not args.dry_run and text != draft:
-            dpath.write_text(text, encoding="utf-8")
+            cs.write_draft_text(ep, text)
     print(f"total +{total} occurrences; {defs} definitions filled")
     if not args.dry_run:
         mpath.write_text(json.dumps(mdata, indent=2, ensure_ascii="\\u" in raw) + "\n", encoding="utf-8")

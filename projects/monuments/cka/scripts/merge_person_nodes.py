@@ -20,7 +20,10 @@ import argparse
 import csv
 import json
 import re
+import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 CKA = Path(__file__).resolve().parents[1]
 MONUMENTS = CKA.parent
@@ -85,7 +88,7 @@ def main() -> int:
 
     # 2. drafts: drop OLD rows and intro entries, then remap and dedupe lists
     for p in sorted((CKA / "drafts").glob("episode_*.md")):
-        t = p.read_bytes().decode("utf-8")
+        t = cs.read_draft_text(cs.seq_of(p))
         o_t = t
         for o, k in merge.items():
             if re.search(rf"^\*\*N-{k}\*\*", t, re.M):
@@ -97,7 +100,7 @@ def main() -> int:
         t = TOKEN_RE.sub(lambda m: f"N-{shift(int(m.group(1)))}", t)
         t = LIST_RE.sub(lambda m: m.group(1) + dedupe_ids(m.group(2)) + m.group(3), t)
         if t != o_t and not args.dry_run:
-            p.write_bytes(t.encode("utf-8"))
+            cs.write_draft_text(cs.seq_of(p), t)
 
     # 3. inscriptions: remap, then fold duplicate node objects and dedupe id lists
     for p in sorted((CKA / "inscription").glob("*.json")):

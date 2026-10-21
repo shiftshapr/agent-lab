@@ -3,6 +3,11 @@
 
 from __future__ import annotations
 
+import os as _os, sys as _sys
+if _os.environ.get("CKA_ALLOW_LEGACY") != "1":
+    _sys.exit(f"{__file__}: one-off script from before the JSON source of truth (ROADMAP 3.0). It edits drafts directly "
+              "and would desync source/*.json. Use scripts/source/cka_source.py, or set CKA_ALLOW_LEGACY=1 and run "
+              "`cka_source.py sync` afterwards.")
 import json
 import re
 from pathlib import Path

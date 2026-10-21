@@ -20,7 +20,10 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 CKA = Path(__file__).resolve().parents[1]
 
@@ -45,12 +48,15 @@ def main() -> int:
     changed = {"transcripts": 0, "drafts": 0, "inscriptions": 0, "aliases": 0}
     for key, pattern in (("transcripts", "transcripts_corrected/episode_*"), ("drafts", "drafts/episode_*.md")):
         for p in sorted(CKA.glob(pattern)):
-            t = p.read_bytes().decode("utf-8")
+            t = cs.read_draft_text(cs.seq_of(p)) if key == "drafts" else p.read_bytes().decode("utf-8")
             t2 = fix(t, ep_of(p))
             if t2 != t:
                 changed[key] += 1
                 if not args.dry_run:
-                    p.write_bytes(t2.encode("utf-8"))
+                    if key == "drafts":
+                        cs.write_draft_text(cs.seq_of(p), t2)
+                    else:
+                        p.write_bytes(t2.encode("utf-8"))
     for p in sorted((CKA / "inscription").glob("*.json")):
         raw = p.read_text(encoding="utf-8")
         data = json.loads(raw)

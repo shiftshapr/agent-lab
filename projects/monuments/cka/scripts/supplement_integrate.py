@@ -31,6 +31,8 @@ from pathlib import Path
 CKA = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(CKA.parent / "scripts"))
 import dia_preflight as dp  # noqa: E402
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 TYPE_MAP = {"topic": "topic", "organization": "organization", "organisation": "organization", "org": "organization",
             "place": "place", "event": "topic", "thing": "topic"}
@@ -158,7 +160,7 @@ def main() -> int:
         ep = int(re.search(r"(\d{3})", path.name).group(1))
         sup = path.read_text(encoding="utf-8")
         dpath = CKA / "drafts" / f"episode_{ep:03d}.md"
-        draft = dpath.read_text(encoding="utf-8")
+        draft = cs.read_draft_text(ep)
         draft_rows = set(re.findall(r"^\*\*(N-\d+)\*\*", draft, re.M))
         mp: dict[str, str] = {}
         for c in re.findall(r"^\*\*(C-L\d+)\*\*", sup, re.M):
@@ -281,13 +283,13 @@ def main() -> int:
         return 0
 
     for ep, t in out.items():
-        (CKA / "drafts" / f"episode_{ep:03d}.md").write_text(t, encoding="utf-8")
+        cs.write_draft_text(ep, t)
     by_old: dict[int, list[int]] = {}
     for n, (_new, old) in moved.items():
         by_old.setdefault(old, []).append(n)
     for old, ids in by_old.items():
         dpath = CKA / "drafts" / f"episode_{old:03d}.md"
-        d = dpath.read_text(encoding="utf-8")
+        d = cs.read_draft_text(old)
         head, sep, rest = d, "", ""
         for n in ids:
             def drop(m: re.Match[str]) -> str:
@@ -300,7 +302,7 @@ def main() -> int:
             head = re.sub(r"^(  - Reused Nodes Appearing:.*)$", lambda m: append_ids(m.group(1), add), head, count=1, flags=re.M)
         else:
             head = re.sub(r"(- \*\*Episode Ledger Summary\*\*:\n)", lambda m: m.group(1) + f"  - Reused Nodes Appearing: {add}\n", head, count=1)
-        dpath.write_text(head + sep + rest, encoding="utf-8")
+        cs.write_draft_text(old, head + sep + rest)
     for nid, eps in cited_eps.items():
         meta = nodes.get(nid) or new_nodes.get(nid)
         if meta is not None:

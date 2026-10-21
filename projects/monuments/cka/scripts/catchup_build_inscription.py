@@ -8,6 +8,8 @@ import re
 import subprocess
 import sys
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 CKA = Path(__file__).resolve().parents[1]
 REPO = Path(__file__).resolve().parents[4]
@@ -21,7 +23,7 @@ def update_transcript_sha(ep: int) -> None:
     draft = DRAFTS / f"episode_{ep:03d}.md"
     if not draft.is_file():
         return
-    text = draft.read_text(encoding="utf-8")
+    text = cs.read_draft_text(ep)
     m = re.search(r"- \*\*YouTube id\*\*:\s*(\S+)", text, re.I)
     yt = m.group(1) if m else None
     tr = None
@@ -41,7 +43,7 @@ def update_transcript_sha(ep: int) -> None:
         text,
         count=1,
     )
-    draft.write_text(text, encoding="utf-8")
+    cs.write_draft_text(ep, text)
     sha_dir = DRAFTS / ".transcript_sha"
     sha_dir.mkdir(parents=True, exist_ok=True)
     (sha_dir / f"episode_{ep:03d}.sha256").write_text(digest + "\n", encoding="utf-8")

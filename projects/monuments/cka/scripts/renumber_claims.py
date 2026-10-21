@@ -18,6 +18,9 @@ import argparse
 import csv
 import re
 from pathlib import Path
+import sys
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0)
 
 CKA = Path(__file__).resolve().parents[1]
 MON = CKA.parent
@@ -37,7 +40,7 @@ def main() -> int:
         ep = int(re.search(r"episode_(\d+)", f.name).group(1))
         if ep == 0:
             continue
-        s = f.read_text(encoding="utf-8")
+        s = cs.read_draft_text(ep)
         heads = list(HEADER.finditer(s))
         for i, m in enumerate(heads):
             block = s[m.end(): heads[i + 1].start() if i + 1 < len(heads) else len(s)]
@@ -65,7 +68,8 @@ def main() -> int:
         files.append(CKA / "tweets" / "links.jsonl")  # never tweets.jsonl: post text is verbatim
     unknown: set[str] = set()
     for p in files:
-        raw = p.read_text(encoding="utf-8")
+        is_draft = p.parent.name == "drafts" and re.fullmatch(r"episode_\d+\.md", p.name)
+        raw = cs.read_draft_text(cs.seq_of(p)) if is_draft else p.read_text(encoding="utf-8")
         for m in TOKEN.finditer(raw):
             if int(m.group(1)) not in mapping and p.parent.name in ("drafts", "inscription"):
                 unknown.add(f"{p.name}:C-{m.group(1)}")
@@ -85,7 +89,10 @@ def main() -> int:
                          'continue the BoC remap band (artifacts start at A-1077), so the leading artifact holes are expected."',
                          new)
         if new != raw:
-            p.write_text(new, encoding="utf-8")
+            if is_draft:
+                cs.write_draft_text(cs.seq_of(p), new)
+            else:
+                p.write_text(new, encoding="utf-8")
     out = CKA / "audits" / f"claim_renumber_{a.date}"
     out.mkdir(parents=True, exist_ok=True)
     with open(out / "id_map.csv", "w", newline="", encoding="utf-8") as f:

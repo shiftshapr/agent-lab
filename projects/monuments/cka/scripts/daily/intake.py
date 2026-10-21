@@ -29,6 +29,8 @@ import subprocess
 import sys
 import time
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "scripts" / "source"))
+import cka_source as cs  # noqa: E402  (ROADMAP 3.0: episodes are read and written through the JSON source)
 
 CKA = Path(__file__).resolve().parents[2]
 REPO = CKA.parents[2]
@@ -179,7 +181,7 @@ Episode {p['ep']} ({p['date']}). Per the episode description: {p['description']}
 
 ## 7. Optional Flags
 """
-        (CKA / "drafts" / f"episode_{p['seq']:03d}.md").write_text(draft, encoding="utf-8")
+        cs.write_draft_text(p["seq"], draft)
         (CKA / "drafts" / ".transcript_sha" / f"episode_{p['seq']:03d}.sha256").write_text(sha + "\n", encoding="utf-8")
         p["transcript"] = str(tr)
     pack = a.work / "pack"
