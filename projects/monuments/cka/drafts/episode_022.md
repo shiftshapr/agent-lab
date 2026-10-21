@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1998–C-2064
   - New Nodes Introduced: N-200, N-203, N-10195, N-10196, N-10197
-  - Reused Nodes Appearing: N-201, N-204, N-2, N-36, N-40, N-50, N-68, N-82, N-199, N-10000, N-10012, N-10027, N-10028, N-10044, N-10045, N-10053, N-10067, N-10071, N-10102, N-10129, N-10143, N-10177, N-10179, N-10182, N-10194, N-10323, N-10198, N-10201, N-10252, N-10423
+  - Reused Nodes Appearing: N-11361, N-201, N-204, N-2, N-36, N-40, N-50, N-68, N-82, N-199, N-10000, N-10012, N-10027, N-10028, N-10044, N-10045, N-10053, N-10067, N-10071, N-10102, N-10129, N-10143, N-10177, N-10179, N-10182, N-10194, N-10323, N-10198, N-10201, N-10252, N-10423
   - (see registers)
 
 ## I. Meta-Data
@@ -465,6 +465,16 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: C-2046, A-1296.1*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2040*
 
 ---
 
@@ -950,6 +960,7 @@ Investigative Direction: Obtain full unedited Piers Morgan interview; verify cli
 Claim Timestamp: 00:38:02
 Claim: On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions.
 Anchored Artifacts: A-1295.2
+Related Nodes: N-11361
 Mentions: N-1, N-22, N-38, N-39, N-204
 Investigative Direction: Obtain full unedited interview segment; verify context.
 

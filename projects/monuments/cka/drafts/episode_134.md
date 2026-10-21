@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Claim Range: C-11506–C-11592
-  - Reused Nodes Appearing: N-10681, N-10691, N-7, N-40, N-186, N-217, N-367, N-506, N-10100, N-10106, N-10165, N-10193, N-10220, N-10319, N-10321, N-10328, N-10625, N-10651, N-10655, N-10660, N-10697, N-10698, N-10983, N-10693, N-10086
+  - Reused Nodes Appearing: N-11361, N-10681, N-10691, N-7, N-40, N-186, N-217, N-367, N-506, N-10100, N-10106, N-10165, N-10193, N-10220, N-10319, N-10321, N-10328, N-10625, N-10651, N-10655, N-10660, N-10697, N-10698, N-10983, N-10693, N-10086
  - (see registers)
 
 ## I. Meta-Data
@@ -371,6 +371,16 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: C-11541, A-2206.1, N-2, N-10689*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-11587*
 
 ---
 
@@ -1921,6 +1931,7 @@ Claim: The host says the memorial convention was thrown like a concert, and that
 Transcript Snippet: those people who were so happy, so happy at the memorial event clinking glasses thereafter are very bitter
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-3, N-1
 Tags: relevance:context
 Investigative Direction: Review footage of the memorial event and later public statements by attendees.

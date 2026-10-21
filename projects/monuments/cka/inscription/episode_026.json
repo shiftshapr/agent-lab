@@ -1401,11 +1401,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Existing topic reused for memorial claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1417,7 +1417,10 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Organization",
@@ -1901,6 +1904,27 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2384",
+        "C-2326",
+        "C-2385"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2225,7 +2249,8 @@
         "A-1343.1"
       ],
       "related_nodes": [
-        "N-10215"
+        "N-10215",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:45:19–00:46:08",
@@ -2422,8 +2447,8 @@
       "claim": "The host says Susie Wiles made it onto the stage to eulogize Charlie Kirk at the memorial and that, as it looks to her, the event was turned into an effective Trump rally.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002",
-        "N-10191"
+        "N-10191",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -3408,7 +3433,7 @@
       ],
       "related_nodes": [
         "N-10215",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"

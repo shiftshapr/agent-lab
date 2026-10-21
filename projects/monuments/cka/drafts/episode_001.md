@@ -281,7 +281,7 @@ Uncertainty: Last name not given in transcript.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Node Type: Topic
 Topic Kind: narrative_pattern

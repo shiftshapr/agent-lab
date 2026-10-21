@@ -18,7 +18,7 @@
   - New Nodes Introduced: N-10541, N-10542, N-10543, N-10544
   - Hole-minted Nodes (wave3): N-420, N-421
   - Tip-minted Nodes (skeleton-caleb): N-603
-  - Reused Nodes Appearing: N-10162, N-3, N-40, N-41, N-69, N-133, N-5, N-38, N-46, N-60, N-97, N-125, N-159, N-163, N-204, N-244, N-272, N-361, N-364, N-366, N-378, N-772, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10255, N-10346, N-10389, N-10401, N-10519, N-10406, N-10574, N-10606, N-10821, N-10857, N-10922, N-11047, N-10875, N-10545
+  - Reused Nodes Appearing: N-11360, N-10162, N-3, N-40, N-41, N-69, N-133, N-5, N-38, N-46, N-60, N-97, N-125, N-159, N-163, N-204, N-244, N-272, N-361, N-364, N-366, N-378, N-772, N-10000, N-10013, N-10024, N-10027, N-10029, N-10031, N-10255, N-10346, N-10389, N-10401, N-10519, N-10406, N-10574, N-10606, N-10821, N-10857, N-10922, N-11047, N-10875, N-10545
   - (see registers)
 
 # EVOLUTION 90 ANALYSIS
@@ -364,6 +364,16 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-1948.2, A-1955.1, C-8076, N-40*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-8055*
 
 ---
 
@@ -1501,7 +1511,7 @@ Transcript Snippet: it was known to the police that Tyler Robinson was the their
 
 Anchored Artifacts: 
 Mentions: N-3, N-40
-Related Nodes: N-10541, N-10024
+Related Nodes: N-10541, N-10024, N-11360
 Supports: C-8066
 Tags: relevance:core
 Investigative Direction: Obtain dispatch and text records from September 11 for Washington County law enforcement.

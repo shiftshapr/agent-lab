@@ -16,7 +16,7 @@
   
 (none – Wave 2 removed local spray rows; persons cited via Mentions)
   
-  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10053, N-10114, N-10362, N-10388, N-10640, N-10934, N-10977
+  - Reused Nodes Appearing: N-11361, N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10053, N-10114, N-10362, N-10388, N-10640, N-10934, N-10977
 
 # Episode Analysis – CKA 150
 
@@ -308,6 +308,16 @@ Widow and TPUSA CEO; the host says in her journal that the world was right about
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-12961, C-12962*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -373,7 +383,7 @@ Organization whose founding the Charlie Kirk montage describes.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Node Type: Topic
 Existing topic reused for the broadcast, memorial and betrayal claims in this episode.
@@ -622,7 +632,7 @@ Claim Timestamp: 00:05:08
 Claim: Host states in journal that Charlie's memorial was "weird," "like an RNC rally," with Susie Wiles among speakers.
 Anchored Artifacts: A-2351.1
 Mentions: N-1, N-3, N-131
-Related Nodes:
+Related Nodes: N-11361
 
 Investigative Direction: Verify speaker list and video documentation of memorial event.
 
@@ -819,7 +829,7 @@ Transcript Snippet: she told me that she had never seen so many people speaking 
 
 Anchored Artifacts: A-2351.1
 Mentions: N-154, N-155, N-1
-Related Nodes: N-10977, N-10002
+Related Nodes: N-10977, N-11361
 Tags: relevance:context
 Investigative Direction: Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.
 

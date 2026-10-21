@@ -48,7 +48,7 @@ Confidence: high
 
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10055, N-10058, N-10059, N-10162, N-10193, N-10320, N-10599, N-10604, N-10651, N-10729, N-10809, N-10821, N-10826, N-10835, N-10889, N-10979
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-159, N-329, N-10000, N-359, N-36, N-55, N-97, N-164, N-211, N-237, N-243, N-367, N-430, N-486, N-707, N-10011, N-10012, N-10024, N-10055, N-10058, N-10059, N-10162, N-10193, N-10320, N-10599, N-10604, N-10651, N-10729, N-10809, N-10821, N-10826, N-10835, N-10889, N-10979
   - Hole-minted Nodes (wave1): N-350
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-159 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-329 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
@@ -585,6 +585,16 @@ Episode Count: many
 Investigative Pressure: Medium
 
 *Related: A-2348.1, C-12792, C-12793*
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-12820*
+
+---
 
 **N-3** Candace Owens
 
@@ -2232,7 +2242,7 @@ Transcript Snippet: Andrew Judas Kolb that tried to make an excuse for the firew
 
 Anchored Artifacts: A-2350.3
 Mentions: N-14, N-2
-Related Nodes: N-10193
+Related Nodes: N-10193, N-11361
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement about who arranged the fireworks.
 

@@ -15,7 +15,7 @@
   - Tip-minted Nodes (supplement_2026-10): N-11000, N-11001, N-11003, N-11005, N-11006, N-11007, N-11008
   - Claim Range: C-13645–C-13721
   - New Nodes Introduced: N-10788, N-10789
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-190, N-237, N-278, N-217, N-266, N-7, N-496, N-159, N-10053, N-10190, N-10186, N-10762, N-10780, N-10781, N-10784, N-10, N-8, N-13, N-16, N-18, N-10786, N-211, N-224, N-330, N-522, N-10027, N-10060, N-10067, N-10099, N-10320, N-10783, N-10809, N-11009, N-10787, N-11002, N-11004, N-10785
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-190, N-237, N-278, N-217, N-266, N-7, N-496, N-159, N-10053, N-10190, N-10186, N-10762, N-10780, N-10781, N-10784, N-10, N-8, N-13, N-16, N-18, N-10786, N-211, N-224, N-330, N-522, N-10027, N-10060, N-10067, N-10099, N-10320, N-10783, N-10809, N-11009, N-10787, N-11002, N-11004, N-10785
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dillon not minted. Leah Thomas not minted.
 
@@ -213,6 +213,16 @@ Claim Count: (series-level)
 Episode Count: (series-level)
 
 *Related: C-13645, C-13650, C-13651, C-13658, C-13662, A-2459.1, N-10785, N-10786*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-13664*
 
 ---
 
@@ -1151,7 +1161,7 @@ Transcript Snippet: Jesse Watters interview on November 5th. She was wearing a g
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-211
-Related Nodes: N-11001
+Related Nodes: N-11001, N-11361
 Supports: C-13662
 Investigative Direction: Build a dated plate from video stills of each named appearance.
 

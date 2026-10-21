@@ -603,11 +603,11 @@
       "uncertainty_note": "Last name not given in transcript."
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "The death event and subsequent memorial episodes; host references seeing the footage and praying for those who took pleasure in it.",
       "related_artifacts": [],
       "related_claims": [],
@@ -617,7 +617,10 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "topic_kind": "narrative_pattern",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Topic",

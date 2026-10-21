@@ -18,7 +18,7 @@
   - Claim Range: C-8364–C-8489
   - New Nodes Introduced: N-10569, N-10571, N-10572, N-10573, N-10575, N-10578
   - Hole-minted Nodes (wave3): N-425, N-426
-  - Reused Nodes Appearing: N-10577, N-10574, N-10581, N-10576, N-10570, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-599, N-10013, N-10014, N-10021, N-10022, N-10033, N-10074, N-10106, N-10137, N-10161, N-10194, N-10226, N-10255, N-10300, N-10336, N-10452, N-10521, N-10535, N-10538, N-10545, N-10551, N-10554, N-10555, N-10557, N-10563, N-10602, N-10465, N-10188, N-10896, N-11065, N-11134, N-10649, N-10579, N-10580
+  - Reused Nodes Appearing: N-11360, N-10577, N-10574, N-10581, N-10576, N-10570, N-4, N-6, N-30, N-54, N-69, N-193, N-268, N-272, N-278, N-533, N-599, N-10013, N-10014, N-10021, N-10022, N-10033, N-10074, N-10106, N-10137, N-10161, N-10194, N-10226, N-10255, N-10300, N-10336, N-10452, N-10521, N-10535, N-10538, N-10545, N-10551, N-10554, N-10555, N-10557, N-10563, N-10602, N-10465, N-10188, N-10896, N-11065, N-11134, N-10649, N-10579, N-10580
   - (see registers)
 
 ---
@@ -571,6 +571,16 @@ Subject of the assassination; the host speaks of his injuries and last week.
 Widow and TPUSA CEO; the host discusses the canceled events, her lawyer's account and her credentials.
 
 *Related: C-8383, C-8384, C-8385, C-8402, C-8406, C-8407, C-8408, C-8411, C-8412, C-8413, C-8414, C-8415, C-8416, C-8417, C-8419, C-8423, C-8424, C-8425, C-8427*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-8372*
 
 ---
 
@@ -1562,7 +1572,7 @@ Transcript Snippet: He and his family were told that they were going to make an 
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-10021, N-10022
+Related Nodes: N-10021, N-10022, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's office account of the calls with the family and any warrant or planning records for an arrest team.
 

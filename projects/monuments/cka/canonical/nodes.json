@@ -4,7 +4,7 @@
   "monument": "cka",
   "remap_note": "2026-10-13 (Daveed): ids compacted with no holes and no tombstones. Persons N-1..N-606, topic/org/place N-10000..N-10902; old to new ids in audits/id_compaction_2026-10-13/id_map.csv. Earlier remap history (BoC remap, batches 1-2, catch-up, waves 1-3) is in git history and the audits folders, which keep the ids of their time.",
   "next_person_id": 972,
-  "next_investigation_id": 11360,
+  "next_investigation_id": 11362,
   "nodes": {
     "N-1": {
       "canonical_name": "Charlie Kirk",
@@ -11441,9 +11441,11 @@
       "schema_org": "Thing"
     },
     "N-10002": {
-      "canonical_name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
-      "aliases": [],
+      "canonical_name": "Assassination of Charlie Kirk",
+      "type": "event",
+      "aliases": [
+        "Charlie Kirk Death and Memorial"
+      ],
       "episodes": [
         1,
         5,
@@ -11457,7 +11459,10 @@
         150,
         159
       ],
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     "N-10003": {
       "canonical_name": "Charlie-Candace Friendship Continuity",
@@ -28475,6 +28480,72 @@
       "aliases": [],
       "episodes": [
         11
+      ]
+    },
+    "N-11361": {
+      "canonical_name": "Charlie Kirk memorial service",
+      "type": "event",
+      "aliases": [],
+      "schema_org": "Event",
+      "event_time": "2025-09-21",
+      "episodes": [
+        5,
+        6,
+        7,
+        17,
+        21,
+        22,
+        24,
+        25,
+        26,
+        27,
+        29,
+        32,
+        42,
+        44,
+        47,
+        52,
+        62,
+        63,
+        66,
+        70,
+        72,
+        77,
+        91,
+        98,
+        99,
+        107,
+        116,
+        125,
+        129,
+        131,
+        134,
+        135,
+        148,
+        150,
+        158,
+        159
+      ]
+    },
+    "N-11360": {
+      "canonical_name": "Tyler Robinson arrest",
+      "type": "event",
+      "aliases": [],
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12",
+      "episodes": [
+        3,
+        5,
+        36,
+        46,
+        82,
+        85,
+        90,
+        94,
+        135,
+        140,
+        143,
+        152
       ]
     }
   }

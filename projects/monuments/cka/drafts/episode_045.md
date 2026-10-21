@@ -616,6 +616,7 @@ Claim Timestamp: 00:03:31
 Claim: In a Harris Faulkner interview clip the host plays, Erika Kirk asks that her family be allowed to keep private where Charlie Kirk is laid to rest, saying she wants one thing kept sacred to her family, in-laws, children and parents, and says a "museum style" memorial will be built at Turning Point USA.
 
 Anchored Artifacts: A-1525.1
+Related Nodes:
 Mentions: N-2, N-1
 
 Investigative Direction: Verify burial location and date through cemetery or estate records; cross-check with Milo Yiannopoulos' claim that Charlie has not yet been buried.

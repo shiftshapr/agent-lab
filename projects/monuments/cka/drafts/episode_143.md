@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12279–C-12353
   - New Nodes Introduced: N-10733
-  - Reused Nodes Appearing: N-2, N-159, N-125, N-261, N-10732, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-224, N-237, N-266, N-272, N-484, N-485, N-775, N-10000, N-10022, N-10096, N-10146, N-10254, N-10303, N-10318, N-10499, N-10593, N-10603, N-10673, N-10719, N-10723, N-10734, N-10783, N-10983, N-10986, N-784, N-11064
+  - Reused Nodes Appearing: N-11360, N-2, N-159, N-125, N-261, N-10732, N-4, N-9, N-14, N-18, N-36, N-39, N-69, N-82, N-224, N-237, N-266, N-272, N-484, N-485, N-775, N-10000, N-10022, N-10096, N-10146, N-10254, N-10303, N-10318, N-10499, N-10593, N-10603, N-10673, N-10719, N-10723, N-10734, N-10783, N-10983, N-10986, N-784, N-11064
   - (see registers)
 
 # Episode 143 Analysis – Bride of Charlie
@@ -657,6 +657,16 @@ Sheriff quoted on Mitchell's call.
 
 ---
 
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-12322*
+
+---
+
 **N-3** Candace Owens
 
 Host, speaks for herself throughout.
@@ -865,6 +875,7 @@ Claim Timestamp: 00:32:32
 Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" - described as a person involved in law enforcement and a minister - recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal. The host says he was describing Mike Mitchell.
 
 Anchored Artifacts: A-2296.1
+Related Nodes: N-11360
 Mentions: N-40, N-125, N-5
 Investigative Direction: Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.
 

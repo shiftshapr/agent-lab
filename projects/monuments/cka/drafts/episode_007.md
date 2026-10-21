@@ -21,7 +21,7 @@
   - Claim Range: C-584–C-657
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10079, N-10080, N-10082, N-10083, N-10084, N-10086, N-10087
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10035, N-10044, N-10050, N-10051, N-10057, N-10060, N-10067, N-10073, N-10077, N-10100, N-10134, N-10252, N-10320, N-10924, N-72, N-10085, N-10129, N-10070, N-10081, N-68
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10035, N-10044, N-10050, N-10051, N-10057, N-10060, N-10067, N-10073, N-10077, N-10100, N-10134, N-10252, N-10320, N-10924, N-72, N-10085, N-10129, N-10070, N-10081, N-68
 ## 2. Executive Summary
 
 Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.
@@ -270,6 +270,16 @@ Node Type: Person
 Deceased founder of TPUSA; primary subject of investigation.
 
 *Related: A-1134.1, A-1141.2, A-1143.1, A-1143.2, C-617, C-630, C-631, C-585, C-620, C-635*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-585, C-645, C-584, C-587, C-647*
 
 ---
 
@@ -848,6 +858,7 @@ Claim Timestamp: 00:02:05
 Claim: The host says Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, which the host describes as a message of complete submission to Christ.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
+Related Nodes: N-11361
 Mentions: N-1, N-2
 Investigative Direction: Verify the full text/transcript of Erika's speech against published recording.
 
@@ -1043,7 +1054,7 @@ Claim: A viewer comment the host reads says something about Dr. Frank Turek isn'
 Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 Anchored Artifacts: A-1145.2
 Mentions: N-7
-Related Nodes: N-10087
+Related Nodes: N-10087, N-11361
 Investigative Direction: Obtain the full Frank Turek memorial speech and biographical background.
 
 ---
@@ -1095,6 +1106,7 @@ Transcript Snippet: And I was being serious when I tweeted that I think it was t
 
 Anchored Artifacts:
 
+Related Nodes: N-11361
 Mentions: N-3, N-2
 
 Tags: relevance:context
@@ -1131,6 +1143,7 @@ Transcript Snippet: But specifically, the part that she shared that provided me 
 
 Anchored Artifacts: A-1134.1
 
+Related Nodes: N-11361
 Mentions: N-3, N-2, N-1
 
 Tags: relevance:context
@@ -1963,7 +1976,7 @@ Anchored Artifacts:
 
 Mentions: N-3
 
-Related Nodes: N-10067
+Related Nodes: N-10067, N-11361
 
 Supports: C-529, C-480
 

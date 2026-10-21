@@ -1827,6 +1827,25 @@
       "investigative_pressure": "high",
       "schema_org": "Organization",
       "wikidata_class": "Q327333"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10009"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2481,7 +2500,8 @@
       "claim": "The host says the TPUSA team looked refreshed at the memorial, where Alex Clark wore a hat as if going to polo, and went to Charlie Kirk's favorite restaurant afterward, giggling.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10000"
+        "N-10000",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:33:34",

@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3976–C-4053
   - New Nodes Introduced: N-326, N-327, N-10314
-  - Reused Nodes Appearing: N-3, N-261, N-1, N-266, N-10315, N-17, N-82, N-101, N-118, N-163, N-190, N-221, N-10012, N-10014, N-10021, N-10028, N-10030, N-10038, N-10048, N-10081, N-10096, N-10125, N-10156, N-10100, N-10158, N-10162, N-10172, N-10173, N-10179, N-10185, N-10190, N-10224, N-10236, N-10239, N-10255, N-10265, N-10293, N-10328, N-10404, N-10775, N-10932, N-10313, N-10416, N-602, N-10324, N-11025
+  - Reused Nodes Appearing: N-11360, N-3, N-261, N-1, N-266, N-10315, N-17, N-82, N-101, N-118, N-163, N-190, N-221, N-10012, N-10014, N-10021, N-10028, N-10030, N-10038, N-10048, N-10081, N-10096, N-10125, N-10156, N-10100, N-10158, N-10162, N-10172, N-10173, N-10179, N-10185, N-10190, N-10224, N-10236, N-10239, N-10255, N-10265, N-10293, N-10328, N-10404, N-10775, N-10932, N-10313, N-10416, N-602, N-10324, N-11025
   N-40, N-14
 
 # Episode Analysis: Monument 46
@@ -453,6 +453,16 @@ Subject of the assassination; the host discusses his neck wound, his statements 
 Widow and TPUSA CEO; the host critiques her CBS and Blaze TV interviews.
 
 *Related: C-3976, C-3982, C-4004, C-4006, C-4010, C-4012, C-4017, C-4018, C-4020, C-4022, C-4043, C-4044, C-4049, C-4053*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-3999, C-4001, C-4002*
 
 ---
 
@@ -1390,7 +1400,7 @@ Transcript Snippet: They claimed that he confessed and turned himself in. That's
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10021, N-10932
+Related Nodes: N-10021, N-10932, N-11360
 Supports: C-133
 Tags: relevance:core
 Investigative Direction: Compare the probable cause statement and press briefings with the father's account of the call to authorities.
@@ -1424,7 +1434,7 @@ Transcript Snippet: They said Tyler Robinson was arrested wearing a maroon shirt
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10293, N-10236
+Related Nodes: N-10293, N-10236, N-11360
 Supports: C-114
 Tags: relevance:core
 Investigative Direction: Obtain the booking photograph, arrest report and clothing inventory.
@@ -1441,7 +1451,7 @@ Transcript Snippet: They said Tyler Robinson was suicidal but also turned himsel
 
 Anchored Artifacts: A-2831.2
 Mentions: N-3, N-40
-Related Nodes: N-10932
+Related Nodes: N-10932, N-11360
 Supports: C-969
 Tags: relevance:core
 Investigative Direction: Compare the father's and pastor's accounts of the call with the charging document language.

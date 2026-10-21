@@ -1285,11 +1285,11 @@
       "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Reused existing node; cited by the new claims in this supplement.",
       "related_artifacts": [],
       "related_claims": [
@@ -1304,7 +1304,10 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "InvestigationQuestion",
@@ -1572,6 +1575,33 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5617",
+        "C-5619",
+        "C-5613",
+        "C-5614",
+        "C-5615",
+        "C-5620",
+        "C-5623",
+        "C-5625",
+        "C-5682"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1585,7 +1615,8 @@
         "A-1676.1"
       ],
       "related_nodes": [
-        "N-10412"
+        "N-10412",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:11:24",
@@ -1603,7 +1634,9 @@
       "anchored_artifacts": [
         "A-1676.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:12:40",
       "investigative_direction": "Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.",
@@ -2064,7 +2097,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10193",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2085,7 +2118,7 @@
       "claim": "The host says the public memorial event was held on the 21st at State Farm Stadium.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2108,7 +2141,7 @@
         "A-2846.1"
       ],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2178,7 +2211,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10408"
+        "N-10408",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2223,7 +2257,7 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2245,7 +2279,8 @@
         "A-1676.2"
       ],
       "related_nodes": [
-        "N-10000"
+        "N-10000",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -3348,7 +3383,7 @@
         "A-2846.1"
       ],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"

@@ -23,7 +23,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-2317–C-2406",
     "  - New Nodes Introduced: N-221, N-223, N-224, N-10213, N-10215",
-    "  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10061, N-10070, N-10119, N-10144, N-10185, N-10186, N-10190, N-10191, N-10194, N-10208, N-10212, N-10303, N-10838, N-11018, N-222, N-10574, N-10214, N-11143",
+    "  - Reused Nodes Appearing: N-11361, N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10061, N-10070, N-10119, N-10144, N-10185, N-10186, N-10190, N-10191, N-10194, N-10208, N-10212, N-10303, N-10838, N-11018, N-222, N-10574, N-10214, N-11143",
     "  - (see registers)",
     "",
     "# Episode Analysis Record",
@@ -2008,6 +2008,43 @@
   },
   {
    "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2384, C-2326, C-2385*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
    "id": "N-3",
    "header": "**N-3** Candace Owens",
    "label": "Candace Owens",
@@ -2615,8 +2652,8 @@
   {
    "kind": "node",
    "id": "N-10002",
-   "header": "**N-10002** Charlie Kirk Death and Memorial",
-   "label": "Charlie Kirk Death and Memorial",
+   "header": "**N-10002** Assassination of Charlie Kirk",
+   "label": "Assassination of Charlie Kirk",
    "lines": [
     {
      "raw": ""
@@ -4393,7 +4430,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10215"
+     "v": "N-10215, N-11361"
     },
     {
      "raw": ""
@@ -4940,7 +4977,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10002, N-10191"
+     "v": "N-10191, N-11361"
     },
     {
      "k": "Tags",
@@ -7706,7 +7743,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10215, N-10002"
+     "v": "N-10215, N-11361"
     },
     {
      "k": "Tags",

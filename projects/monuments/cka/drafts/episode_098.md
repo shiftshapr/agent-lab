@@ -18,7 +18,7 @@
   - Claim Range: C-8728–C-8818
   - New Nodes Introduced: N-10594, N-10596, N-10597, N-10598
   - Hole-minted Nodes (wave3): N-429
-  - Reused Nodes Appearing: N-10821, N-10595, N-10593, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-101, N-117, N-163, N-231, N-270, N-366, N-484, N-485, N-859, N-10000, N-10002, N-10126, N-10225, N-10352, N-10358, N-10379, N-10389, N-10452, N-10577, N-10582, N-10585, N-10603, N-10627, N-10632, N-11034
+  - Reused Nodes Appearing: N-11361, N-10821, N-10595, N-10593, N-5, N-22, N-30, N-36, N-40, N-46, N-85, N-101, N-117, N-163, N-231, N-270, N-366, N-484, N-485, N-859, N-10000, N-10002, N-10126, N-10225, N-10352, N-10358, N-10379, N-10389, N-10452, N-10577, N-10582, N-10585, N-10603, N-10627, N-10632, N-11034
   - (see registers)
 
 ## 2. Executive Summary
@@ -624,6 +624,16 @@ Widow and TPUSA CEO; the host says Shapiro urged her to sue the host and she cal
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-8796, C-8793*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -824,7 +834,7 @@ Organization the host says possesses 4K footage and was geofencing the memorial.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Memorial and funeral topic.
 
@@ -1193,7 +1203,7 @@ Claim: In a clip the host plays from Jesse Watters' program, Andrew Kolvet says 
 Anchored Artifacts: A-2037.1
 Mentions: N-14
 
-Related Nodes: N-10595
+Related Nodes: N-10595, N-11361
 
 ---
 
@@ -2076,7 +2086,7 @@ Transcript Snippet: Funeral described by some people, his wife, as the event of 
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10002
+Related Nodes: N-11361
 Tags: relevance:core
 Investigative Direction: Find Erika Kirk's own statements using that phrase.
 

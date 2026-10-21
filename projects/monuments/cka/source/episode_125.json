@@ -23,7 +23,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-10695–C-10771",
     "  - New Nodes Introduced: N-10652",
-    "  - Reused Nodes Appearing: N-11, N-10651, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10071, N-10185, N-10214, N-10318, N-10320, N-10376, N-10415, N-10425, N-10484, N-10478, N-10619, N-10648, N-10664, N-10739, N-10910, N-10650, N-10678, N-733, N-10977, N-10979, N-735, N-10975",
+    "  - Reused Nodes Appearing: N-11361, N-11, N-10651, N-5, N-7, N-9, N-17, N-22, N-27, N-36, N-37, N-40, N-97, N-154, N-155, N-190, N-217, N-264, N-330, N-437, N-529, N-10006, N-10018, N-10027, N-10071, N-10185, N-10214, N-10318, N-10320, N-10376, N-10415, N-10425, N-10484, N-10478, N-10619, N-10648, N-10664, N-10739, N-10910, N-10650, N-10678, N-733, N-10977, N-10979, N-735, N-10975",
     "  - Hole-minted Nodes (wave1b): N-367",
     "  - Hole-minted Nodes (wave3): N-502, N-503",
     "  - (see registers)",
@@ -1453,6 +1453,43 @@
     },
     {
      "raw": "*Related: C-10733, C-10748, C-10750, C-10754, C-10755, C-10767, C-10768, C-10770, A-2785.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-10728*"
     },
     {
      "raw": ""
@@ -5082,7 +5119,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10977"
+     "v": "N-10977, N-11361"
     },
     {
      "k": "Investigative Direction",

@@ -1,0 +1,925 @@
+[
+ {
+  "claim": "C-2",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-56",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-162",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-187",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-480",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-421",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-477",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-489",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-529",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-530",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-537",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-539",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-585",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-645",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-584",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-587",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-647",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-989",
+  "events": [],
+  "note": "post-arrest staging, not the arrest"
+ },
+ {
+  "claim": "C-1378",
+  "events": [],
+  "note": "office memorial site, not the service"
+ },
+ {
+  "claim": "C-1344",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-1376",
+  "events": [],
+  "note": "office memorial site, not the service"
+ },
+ {
+  "claim": "C-1518",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-1963",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-1964",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-1972",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-2040",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2222",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2260",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2263",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2262",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2384",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2326",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-2385",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-2416",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2469",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2585",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-2860",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3090",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3093",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3128",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3129",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3233",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3712",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3849",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-3904",
+  "events": [],
+  "note": "burial-site privacy interview, not funeral event"
+ },
+ {
+  "claim": "C-3999",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-4001",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-4002",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-4109",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-4076",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-4078",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-4581",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-4516",
+  "events": [],
+  "note": ""
+ },
+ {
+  "claim": "C-4523",
+  "events": [],
+  "note": "investigation after arrest"
+ },
+ {
+  "claim": "C-4580",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-5572",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5617",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5619",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5624",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-5600",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-5613",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5614",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5615",
+  "events": [
+   "E2"
+  ],
+  "note": "post-memorial private dinner Sept 22"
+ },
+ {
+  "claim": "C-5620",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5623",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5625",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5628",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-5682",
+  "events": [
+   "E2"
+  ],
+  "note": "post-memorial private dinner Sept 22"
+ },
+ {
+  "claim": "C-5683",
+  "events": [],
+  "note": ""
+ },
+ {
+  "claim": "C-5911",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5917",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5941",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5944",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5914",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5919",
+  "events": [
+   "E1",
+   "E2"
+  ],
+  "note": "hospital rosary (Sept 10) + private funeral homily"
+ },
+ {
+  "claim": "C-5920",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5922",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5929",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5938",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5940",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-5942",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-5945",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-6289",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-6472",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-6473",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-6511",
+  "events": [],
+  "note": ""
+ },
+ {
+  "claim": "C-6695",
+  "events": [],
+  "note": "office memorial site, not the service"
+ },
+ {
+  "claim": "C-6952",
+  "events": [],
+  "note": "license plate"
+ },
+ {
+  "claim": "C-6956",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7398",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7402",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7640",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7621",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7630",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7653",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-7658",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8055",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8106",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8107",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8108",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8117",
+  "events": [
+   "E2"
+  ],
+  "note": "Denver memorial event Sept 14 (memorial events generally)"
+ },
+ {
+  "claim": "C-8372",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8711",
+  "events": [],
+  "note": "Auschwitz Memorial, unrelated"
+ },
+ {
+  "claim": "C-8796",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8793",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-8876",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-8967",
+  "events": [],
+  "note": "unrelated arrests"
+ },
+ {
+  "claim": "C-9378",
+  "events": [
+   "E2"
+  ],
+  "note": "Denver memorial event Sept 14 (memorial events generally)"
+ },
+ {
+  "claim": "C-10009",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-10123",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-10570",
+  "events": [],
+  "note": "Arlington memorial site, not the service"
+ },
+ {
+  "claim": "C-10728",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-10853",
+  "events": [],
+  "note": "arrest of a different person"
+ },
+ {
+  "claim": "C-10962",
+  "events": [],
+  "note": ""
+ },
+ {
+  "claim": "C-11127",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-11128",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-11334",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-11340",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-11387",
+  "events": [],
+  "note": "planned museum memorial"
+ },
+ {
+  "claim": "C-11441",
+  "events": [],
+  "note": "prelim-hearing evidence, not the surrender itself"
+ },
+ {
+  "claim": "C-11587",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-11602",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-11672",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-12054",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-12322",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-12820",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-12961",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-12955",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-12956",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-12962",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-12993",
+  "events": [
+   "E1"
+  ],
+  "note": "kept E1: about his final days/lead-up to death"
+ },
+ {
+  "claim": "C-13000",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-13002",
+  "events": [
+   "E1"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-13098",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-13094",
+  "events": [
+   "E3"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-13254",
+  "events": [],
+  "note": "unrelated 2022 incident"
+ },
+ {
+  "claim": "C-13680",
+  "events": [],
+  "note": "memorial/death only mentioned in passing"
+ },
+ {
+  "claim": "C-13664",
+  "events": [
+   "E2"
+  ],
+  "note": ""
+ },
+ {
+  "claim": "C-13726",
+  "events": [
+   "E2"
+  ],
+  "note": "move N-10002 -> E2"
+ },
+ {
+  "claim": "C-13727",
+  "events": [
+   "E1"
+  ],
+  "note": "bloodied microphone from the shooting"
+ }
+]

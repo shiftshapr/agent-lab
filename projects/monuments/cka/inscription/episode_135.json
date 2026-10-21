@@ -785,11 +785,11 @@
       "investigative_pressure": "medium"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Existing topic node reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -800,7 +800,10 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Organization",
@@ -1519,6 +1522,44 @@
       "investigative_pressure": "high",
       "schema_org": "Thing",
       "parent": "N-10175"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11672"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11602"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2029,7 +2070,8 @@
       ],
       "related_nodes": [
         "N-10013",
-        "N-10021"
+        "N-10021",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -3157,7 +3199,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11220",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"

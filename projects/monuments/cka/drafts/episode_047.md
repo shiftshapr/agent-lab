@@ -35,7 +35,7 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - New Nodes Introduced: N-328, N-330, N-331, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-10317, N-10322, N-10325, N-10326, N-10329, N-10330, N-10331, N-10333
-  - Reused Nodes Appearing: N-329, N-10316, N-10214, N-10318, N-10320, N-10321, N-10323, N-10332, N-10819, N-10324, N-10327, N-10328, N-10192, N-10319, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-846, N-10000, N-10012, N-10018, N-10026, N-10093, N-10101, N-10106, N-10160, N-10239, N-10313, N-10334, N-10783, N-11203, N-11252, N-11253
+  - Reused Nodes Appearing: N-11361, N-329, N-10316, N-10214, N-10318, N-10320, N-10321, N-10323, N-10332, N-10819, N-10324, N-10327, N-10328, N-10192, N-10319, N-4, N-22, N-27, N-82, N-99, N-104, N-145, N-178, N-224, N-237, N-278, N-846, N-10000, N-10012, N-10018, N-10026, N-10093, N-10101, N-10106, N-10160, N-10239, N-10313, N-10334, N-10783, N-11203, N-11252, N-11253
 
 ---, N-11
 
@@ -1137,6 +1137,16 @@ Theories voiced in a Kirk Show clip that Tyler Robinson's radicalization coincid
 Subject of the assassination; the host reports his night-before texts, security views and Catholicism.
 
 *Related: C-4061, C-4085, C-4088, C-4103, C-4117, C-4120, C-4133, C-4138, C-4146, C-4148, C-4164, C-4170, C-4174*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-4078*
 
 ---
 
@@ -2280,7 +2290,7 @@ Transcript Snippet: he hit the stage at the memorial and said, "I'm America's pa
 
 Anchored Artifacts: 
 Mentions: N-17, N-3
-Related Nodes: N-10192, N-10326
+Related Nodes: N-10192, N-10326, N-11361
 Tags: relevance:core
 Investigative Direction: Review the Wikipedia edit history for the TPUSA Faith entry and the editor accounts that added McCoy.
 

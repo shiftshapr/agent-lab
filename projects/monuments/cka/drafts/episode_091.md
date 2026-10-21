@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep091): N-341, N-342, N-343, N-344, N-349, N-10560
   - Tip-minted Nodes (reintro-ep091): N-640, N-724, N-725, N-726
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-159, N-190, N-209, N-221, N-450, N-10000, N-10026, N-10232, N-10239, N-10259, N-10281, N-10304, N-10371, N-10374, N-10384, N-10523, N-10896, N-11102, N-11160, N-10553
+  - Reused Nodes Appearing: N-11361, N-9, N-15, N-36, N-40, N-159, N-190, N-209, N-221, N-450, N-10000, N-10026, N-10232, N-10239, N-10259, N-10281, N-10304, N-10371, N-10374, N-10384, N-10523, N-10896, N-11102, N-11160, N-10553
   - Claim Range: C-8103–C-8204
  - New Nodes Introduced: N-10546, N-10547, N-10548, N-10549, N-10550, N-10551, N-10552
  - Hole-minted Nodes (wave3): N-422, N-423
@@ -376,6 +376,16 @@ Subject of the assassination; the host discusses the speeches, the Marx candidac
 Widow and TPUSA CEO; the host discusses speeches written for her, her reaction to the planes and her friendship with the Marxes.
 
 *Related: C-8103, C-8104, C-8105, C-8106, C-8107, C-8114, C-8115, C-8119, C-8121, C-8123*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-8106, C-8107, C-8108, C-8117*
 
 ---
 
@@ -1121,7 +1131,7 @@ Transcript Snippet: One moment Charlie was doing what he loved. He blinked and h
 
 Anchored Artifacts: A-3227.2
 Mentions: N-2, N-1
-Related Nodes: N-11262
+Related Nodes: N-11262, N-11361
 Tags: relevance:context
 Investigative Direction: Check the quoted words against the official memorial video and transcript.
 
@@ -1137,7 +1147,7 @@ Transcript Snippet: Uh Blake Neff came in with a heavy assist.
 
 Anchored Artifacts: 
 Mentions: N-2, N-159
-Related Nodes: N-11262
+Related Nodes: N-11262, N-11361
 Tags: relevance:core
 Investigative Direction: Identify the host's sources and obtain drafts or staff accounts of who wrote the memorial remarks.
 
@@ -1153,7 +1163,7 @@ Transcript Snippet: Justin Streiff did not write his own speech for the memorial
 
 Anchored Artifacts: 
 Mentions: N-15
-Related Nodes: N-11262
+Related Nodes: N-11262, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the speech drafts or ask the speechwriting staff who wrote Streiff's remarks.
 
@@ -1298,7 +1308,7 @@ Transcript Snippet: he chose to make to announce his intention to run for govern
 
 Anchored Artifacts: 
 Mentions: N-341, N-1
-Related Nodes: N-11263
+Related Nodes: N-11263, N-11361
 Tags: relevance:context
 Investigative Direction: Check Colorado candidate filings and the event's video for the date and wording of the announcement.
 

@@ -1107,6 +1107,26 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-1963",
+        "C-1964"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1601,7 +1621,9 @@
       "anchored_artifacts": [
         "A-2819.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -1622,7 +1644,9 @@
       "label": "Host Says Kash Patel Attended Charlie's Memorial",
       "claim": "The host says Kash Patel showed his face at Charlie Kirk's memorial, and says she would have died of shame before attending as Patel.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],

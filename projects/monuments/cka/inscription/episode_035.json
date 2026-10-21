@@ -1162,11 +1162,11 @@
       "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -1180,7 +1180,10 @@
       "claim_count": 4,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "InvestigationQuestion",
@@ -2903,8 +2906,8 @@
       "claim": "The host says Charlie found something out, that it cost him his life, and that whatever he knew is big and ugly.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002",
-        "N-10044"
+        "N-10044",
+        "N-10002"
       ],
       "tags": [
         "relevance:core"

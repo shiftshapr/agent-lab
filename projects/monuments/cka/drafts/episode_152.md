@@ -16,7 +16,7 @@
   - Tip-minted Nodes (reintro-ep152): N-832, N-833
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-13070–C-13179
-  - Reused Nodes Appearing: N-10755, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10053, N-10124, N-10146, N-10185, N-10190, N-10232, N-10214, N-10383, N-10384, N-10394, N-10390, N-10481, N-10556, N-10635, N-10660, N-10188, N-10820, N-10890, N-10909, N-10965, N-11017, N-11081, N-11083, N-11119, N-866
+  - Reused Nodes Appearing: N-11360, N-10755, N-5, N-9, N-22, N-27, N-30, N-37, N-41, N-54, N-99, N-135, N-154, N-159, N-204, N-58, N-237, N-278, N-325, N-330, N-341, N-367, N-424, N-449, N-450, N-460, N-487, N-488, N-529, N-568, N-685, N-686, N-687, N-775, N-799, N-800, N-384, N-10006, N-10012, N-10014, N-10023, N-10026, N-10032, N-10053, N-10124, N-10146, N-10185, N-10190, N-10232, N-10214, N-10383, N-10384, N-10394, N-10390, N-10481, N-10556, N-10635, N-10660, N-10188, N-10820, N-10890, N-10909, N-10965, N-11017, N-11081, N-11083, N-11119, N-866
  - New Nodes Introduced: N-10754, N-10755
  - Reused Nodes Appearing: N-11, N-506
  - Hole-minted Nodes (wave3): N-587
@@ -662,6 +662,16 @@ Interviewer on Erika's media tour (transcribed Bari Weiss).
 
 ---
 
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-13098, C-13094*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -1027,7 +1037,7 @@ Claim: The host says Mike Mitchell was an undercover detective in internet sex c
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-40, N-125
 
-Related Nodes: N-10754
+Related Nodes: N-10754, N-11360
 
 Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*
 
@@ -1251,7 +1261,7 @@ Claim: The host says Mike Mitchell convinced Matt Robinson's household to call T
 Anchored Artifacts: None in this episode
 Mentions: N-40, N-125, N-775
 
-Related Nodes:
+Related Nodes: N-11360
 
 Investigative Direction: Verify Mitchell's role via investigative reporting and Robinson family statements.*
 

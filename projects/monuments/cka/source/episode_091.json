@@ -22,7 +22,7 @@
     "  - Hole-minted Nodes (reintro-ep091): N-341, N-342, N-343, N-344, N-349, N-10560",
     "  - Tip-minted Nodes (reintro-ep091): N-640, N-724, N-725, N-726",
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
-    "  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-159, N-190, N-209, N-221, N-450, N-10000, N-10026, N-10232, N-10239, N-10259, N-10281, N-10304, N-10371, N-10374, N-10384, N-10523, N-10896, N-11102, N-11160, N-10553",
+    "  - Reused Nodes Appearing: N-11361, N-9, N-15, N-36, N-40, N-159, N-190, N-209, N-221, N-450, N-10000, N-10026, N-10232, N-10239, N-10259, N-10281, N-10304, N-10371, N-10374, N-10384, N-10523, N-10896, N-11102, N-11160, N-10553",
     "  - Claim Range: C-8103–C-8204",
     " - New Nodes Introduced: N-10546, N-10547, N-10548, N-10549, N-10550, N-10551, N-10552",
     " - Hole-minted Nodes (wave3): N-422, N-423",
@@ -1316,6 +1316,43 @@
     },
     {
      "raw": "*Related: C-8103, C-8104, C-8105, C-8106, C-8107, C-8114, C-8115, C-8119, C-8121, C-8123*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8106, C-8107, C-8108, C-8117*"
     },
     {
      "raw": ""
@@ -4080,7 +4117,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11262"
+     "v": "N-11262, N-11361"
     },
     {
      "k": "Tags",
@@ -4141,7 +4178,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11262"
+     "v": "N-11262, N-11361"
     },
     {
      "k": "Tags",
@@ -4202,7 +4239,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11262"
+     "v": "N-11262, N-11361"
     },
     {
      "k": "Tags",
@@ -4755,7 +4792,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11263"
+     "v": "N-11263, N-11361"
     },
     {
      "k": "Tags",

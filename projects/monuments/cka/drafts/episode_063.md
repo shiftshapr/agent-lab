@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5600–C-5682
   - New Nodes Introduced: N-495, N-10412, N-10413, N-10414
-  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10189, N-10201, N-10203, N-10193, N-10318, N-10386, N-10392, N-10395, N-10408, N-10820, N-10952, N-767, N-10889, N-11044, N-11040
+  - Reused Nodes Appearing: N-11361, N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10189, N-10201, N-10203, N-10193, N-10318, N-10386, N-10392, N-10395, N-10408, N-10820, N-10952, N-767, N-10889, N-11044, N-11040
   - (see registers)
 
 # Episode 63 – Analysis Record
@@ -433,6 +433,16 @@ Speaker on the leaked September 22 corporate Zoom call; the subject of the host'
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-5617, C-5619, C-5613, C-5614, C-5615, C-5620, C-5623, C-5625, C-5682*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -616,7 +626,7 @@ Reused existing node; cited by the new claims in this supplement.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Node Type: Topic
 Reused existing node; cited by the new claims in this supplement.
@@ -759,7 +769,7 @@ Claim Timestamp: 00:11:24
 Claim: In a clip of the TPUSA corporate-wide Zoom call that the host plays, Erika Kirk opens by thanking staff and citing memorial metrics including 275,000 attendees and broadcast reach of "over 100 million"; the host describes the call's tone as upbeat, with laughter.
 Anchored Artifacts: A-1676.1
 Mentions: N-2
-Related Nodes: N-10412
+Related Nodes: N-10412, N-11361
 Investigative Direction: Obtain full 15-minute Zoom call audio for content and tone analysis; corroborate cited metrics with TPUSA financial/disclosure filings.
 
 **C-5619** Erika Kirk stated staff worked 20-hour days during the week of the memorial
@@ -767,6 +777,7 @@ Investigative Direction: Obtain full 15-minute Zoom call audio for content and t
 Claim Timestamp: 00:12:40
 Claim: In a clip the host plays, Erika Kirk tells the call that "a lot of this the staff that worked on the memorial, they had 20[-hour] days for a week during the time of us grieving the loss of my husband."
 Anchored Artifacts: A-1676.1
+Related Nodes: N-11361
 Mentions: N-2, N-1
 Investigative Direction: Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.
 
@@ -1055,7 +1066,7 @@ Transcript Snippet: On the 20th, we have the funeral mass which is held at a chu
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10193, N-10002
+Related Nodes: N-10193, N-11361
 Tags: relevance:core
 Investigative Direction: Confirm the funeral mass date, time and venue through the church or contemporaneous reporting.
 
@@ -1071,7 +1082,7 @@ Transcript Snippet: On the 21st is the public memorial event that is held at Sta
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10002
+Related Nodes: N-11361
 Tags: relevance:context
 Investigative Direction: Verify against stadium and event records and contemporaneous coverage (publicly documented).
 
@@ -1087,7 +1098,7 @@ Transcript Snippet: There's a private dinner. Not going to mention what restaura
 
 Anchored Artifacts: A-2846.1
 Mentions: N-3, N-2, N-217, N-190
-Related Nodes: N-10002
+Related Nodes: N-11361
 Tags: relevance:core
 Investigative Direction: Identify the restaurant and attendees via receipts, reservations or the host's email source.
 
@@ -1135,7 +1146,7 @@ Transcript Snippet: I know several staff that didn't even sleep.
 
 Anchored Artifacts: A-1676.1
 Mentions: N-2
-Related Nodes: N-10000, N-10408
+Related Nodes: N-10000, N-10408, N-11361
 Tags: relevance:core
 Investigative Direction: Interview staff who worked on the memorial about hours and sleep, and compare with payroll or badge records.
 
@@ -1167,7 +1178,7 @@ Transcript Snippet: I was I was really adamant about making sure that we paid fo
 
 Anchored Artifacts: A-1676.2
 Mentions: N-2
-Related Nodes: N-10000, N-10002
+Related Nodes: N-10000, N-11361
 Tags: relevance:context
 Investigative Direction: Obtain travel and expense records showing who flew in for the memorial and who paid.
 
@@ -1183,7 +1194,7 @@ Transcript Snippet: Charlie would want us to get back to work and that's what we
 
 Anchored Artifacts: A-1676.2
 Mentions: N-2, N-1
-Related Nodes: N-10000
+Related Nodes: N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Compare the call's stated work pace with TPUSA event and staffing records after September 10.
 
@@ -1977,7 +1988,7 @@ Transcript Snippet: when that person said they were joyous and giddy at Charlie'
 
 Anchored Artifacts: A-2846.1
 Mentions: N-3, N-1, N-2
-Related Nodes: N-10002
+Related Nodes: N-11361
 Tags: relevance:core
 Investigative Direction: Identify the restaurant and the host's source for the account of the dinner.
 

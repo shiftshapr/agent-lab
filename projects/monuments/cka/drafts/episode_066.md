@@ -36,7 +36,7 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
   - New Nodes Introduced: N-512, N-513, N-514, N-515, N-516, N-517, N-518, N-10435, N-10437, N-10438
-  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10056, N-10067, N-10201, N-10303, N-10408, N-10456, N-10790, N-10820, N-10934, N-11002, N-10436, N-11098, N-11099
+  - Reused Nodes Appearing: N-11361, N-9, N-36, N-40, N-57, N-93, N-99, N-721, N-10000, N-10002, N-10015, N-10026, N-10056, N-10067, N-10201, N-10303, N-10408, N-10456, N-10790, N-10820, N-10934, N-11002, N-10436, N-11098, N-11099
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -437,6 +437,16 @@ Erika Kirk; the host and donor email describe her contact with the priest, donor
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-5911, C-5917, C-5941, C-5944, C-5914, C-5919, C-5920, C-5922, C-5929, C-5938, C-5940, C-5942, C-5945*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -509,7 +519,7 @@ Turning Point USA; subject of the crisis PR, donor targeting and firing claims.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Charlie Kirk Death and Memorial; the setting for the donor's account.
 
@@ -684,6 +694,7 @@ Claim Timestamp: 00:06:32
 Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA.
 
 Anchored Artifacts: A-1705.1
+Related Nodes: N-11361
 Mentions: N-2, N-517, N-518, N-1
 Investigative Direction: Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.
 
@@ -697,7 +708,7 @@ Claim: A Catholic donor emailed the host describing how she was seated next to F
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-186, N-514
-Related Nodes: N-10436
+Related Nodes: N-10436, N-11361
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
 ---
@@ -746,7 +757,7 @@ Claim: Per a text message the host shows, a contact introducing the donor to TPU
 
 Anchored Artifacts: A-1709.1
 Mentions: N-515
-Related Nodes: N-10435, N-10438
+Related Nodes: N-10435, N-10438, N-11361
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
 ---
@@ -770,7 +781,7 @@ Claim Timestamp: 00:25:29
 Claim: The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend.
 
 Anchored Artifacts: A-1712.1
-Related Nodes: N-10435
+Related Nodes: N-10435, N-11361
 Investigative Direction: Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed.
 
 ---
@@ -902,7 +913,7 @@ Transcript Snippet: And you don't actually when you read the transcript learn an
 
 Anchored Artifacts: 
 Mentions: N-2, N-1, N-3
-Related Nodes: N-10002
+Related Nodes: N-11361
 Supports: C-5911
 Tags: relevance:core
 Investigative Direction: Obtain the full transcript of the memorial speech and count the personal references to Charlie Kirk against the organizational references.
@@ -950,6 +961,7 @@ Claim: The donor's email, as read by the host, says Erika Kirk asked the priest 
 Transcript Snippet: She actually asked him to pray the rosary there at the hospital and he said the homaly at the private funeral the Friday before the memorial.
 
 Anchored Artifacts: A-1706.1
+Related Nodes: N-10002, N-11361
 Mentions: N-2, N-514
 Supports: C-5917
 Tags: relevance:core
@@ -967,7 +979,7 @@ Transcript Snippet: I was at the memorial having zero personal or prior involvem
 
 Anchored Artifacts: A-1706.1
 Mentions: 
-Related Nodes: N-10000, N-10436
+Related Nodes: N-10000, N-10436, N-11361
 Tags: relevance:context
 Investigative Direction: Check the donor's donation or event history with TPUSA; the host later says the donor is extraordinarily wealthy (00:21:52).
 
@@ -999,7 +1011,7 @@ Transcript Snippet: I spent a good eight hours sitting with Father Blank. I'm sh
 
 Anchored Artifacts: A-1706.1
 Mentions: N-514
-Related Nodes: N-10002
+Related Nodes: N-11361
 Tags: relevance:context
 Investigative Direction: Check the memorial seating chart and credential records for the third-row sections and who sat in them.
 
@@ -1093,7 +1105,7 @@ Transcript Snippet: I knew that they had that girl clocked before she walked int
 
 Anchored Artifacts: A-1706.1
 Mentions: N-3
-Related Nodes: N-10436, N-10000
+Related Nodes: N-10436, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Look for pre-memorial donor lists or briefing notes; the donor's account of how she got in (00:23:14) is the test of whether she was pre-identified.
 
@@ -1220,7 +1232,7 @@ Transcript Snippet: And that person then hooked her up directly with somebody th
 
 Anchored Artifacts: A-1706.1
 Mentions: 
-Related Nodes: N-10436, N-10002
+Related Nodes: N-10436, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the donor's introduction text thread (A-1709.1 shows part of it) to identify the intermediary and the TPUSA contact.
 
@@ -1252,7 +1264,7 @@ Transcript Snippet: Blank says that Erika has been getting more death threats ev
 
 Anchored Artifacts: A-1709.1
 Mentions: N-2, N-515
-Related Nodes: N-10438
+Related Nodes: N-10438, N-11361
 Supports: C-5941
 Tags: relevance:core
 Investigative Direction: Obtain the full text; check Erika Kirk's reported threat environment and who raised the memorial funds.
@@ -1269,7 +1281,7 @@ Transcript Snippet: We've been told the story a couple of times now that the Whi
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10435, N-10002
+Related Nodes: N-10435, N-11361
 Supports: C-1155
 Tags: relevance:core
 Investigative Direction: Obtain stadium booking and White House correspondence on the memorial venue through records requests.
@@ -1302,7 +1314,7 @@ Transcript Snippet: Obviously, we know they made a ton of money. They geofenced 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10595, N-10000, N-10002
+Related Nodes: N-10595, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Look for TPUSA privacy policies, ticketing terms and any ad-tech or data-broker disclosures tied to the memorial geofence.
 

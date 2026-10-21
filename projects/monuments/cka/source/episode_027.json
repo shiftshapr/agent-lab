@@ -24,7 +24,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-2407–C-2490",
     "  - New Nodes Introduced: N-227, N-229, N-230, N-231, N-232, N-233, N-10216, N-10218, N-10219, N-10220, N-10221, N-10222",
-    "  - Reused Nodes Appearing: N-3, N-99, N-10217, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10052, N-10100, N-10127, N-10168, N-10201, N-10211, N-10239, N-10300, N-10316, N-11016, N-11022, N-228, N-10625, N-11087",
+    "  - Reused Nodes Appearing: N-11361, N-3, N-99, N-10217, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10052, N-10100, N-10127, N-10168, N-10201, N-10211, N-10239, N-10300, N-10316, N-11016, N-11022, N-228, N-10625, N-11087",
     "  - (see registers)",
     "",
     "# Episode 27 Analysis Record",
@@ -2135,6 +2135,43 @@
     },
     {
      "raw": "*Related: A-1354.1, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2416, C-2469*"
     },
     {
      "raw": ""
@@ -5066,6 +5103,10 @@
      "v": ""
     },
     {
+     "k": "Related Nodes",
+     "v": "N-11361"
+    },
+    {
      "k": "Mentions",
      "v": "N-3, N-1, N-67"
     },
@@ -7438,7 +7479,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10934"
+     "v": "N-10000, N-10934, N-11361"
     },
     {
      "k": "Tags",

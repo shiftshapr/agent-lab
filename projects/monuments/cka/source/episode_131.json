@@ -23,7 +23,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-11256–C-11353",
     "  - Hole-minted Nodes (wave3): N-511",
-    "  - Reused Nodes Appearing: N-10678, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-553, N-791, N-792, N-866, N-10003, N-10027, N-10016, N-10067, N-10203, N-10252, N-10259, N-10323, N-10358, N-10359, N-10378, N-10389, N-10447, N-10648, N-10673, N-10675, N-10820, N-10881, N-10934, N-11037, N-11047, N-11048, N-11065, N-11069, N-11072",
+    "  - Reused Nodes Appearing: N-11361, N-10678, N-14, N-22, N-38, N-46, N-50, N-82, N-153, N-278, N-330, N-390, N-553, N-791, N-792, N-866, N-10003, N-10027, N-10016, N-10067, N-10203, N-10252, N-10259, N-10323, N-10358, N-10359, N-10378, N-10389, N-10447, N-10648, N-10673, N-10675, N-10820, N-10881, N-10934, N-11037, N-11047, N-11048, N-11065, N-11069, N-11072",
     "  - (see registers)",
     "",
     "## 2. Executive Summary",
@@ -1335,6 +1335,43 @@
     },
     {
      "raw": "*Related: C-11293, C-11317, C-11319, C-11321, C-11323, C-11324, C-11325, C-11340, C-11347, C-11351*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11340*"
     },
     {
      "raw": ""
@@ -7982,7 +8019,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11120"
+     "v": "N-11120, N-11361"
     },
     {
      "k": "Tags",

@@ -38,7 +38,7 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
   - New Nodes Introduced: N-308, N-309, N-311, N-10294
-  - Reused Nodes Appearing: N-2, N-10293, N-310, N-10296, N-307, N-10295, N-11, N-22, N-30, N-61, N-69, N-75, N-278, N-282, N-10000, N-10289
+  - Reused Nodes Appearing: N-11361, N-2, N-10293, N-310, N-10296, N-307, N-10295, N-11, N-22, N-30, N-61, N-69, N-75, N-278, N-282, N-10000, N-10289
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
@@ -496,6 +496,16 @@ Investigative Pressure: Medium
 TPUSA CEO whose direction of the response is disputed.
 
 *Related: C-3670, C-3671, C-3730, C-3732, C-3733*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-3712*
 
 ---
 
@@ -1647,6 +1657,7 @@ Claim: The host reads a commenter who says a news station at the Charlie Kirk me
 Transcript Snippet: a news station at the CK Memorial talked to attendees for three hours and none of them believed the FBI narrative.
 
 Anchored Artifacts: A-3205.2
+Related Nodes: N-11361
 Mentions: N-3, N-1
 Tags: relevance:context
 Investigative Direction: Identify the news station and obtain the unedited footage of the interviews.

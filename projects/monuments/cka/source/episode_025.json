@@ -23,7 +23,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-2260–C-2316",
     "  - New Nodes Introduced: N-217, N-218, N-219, N-10209, N-10210, N-10211, N-10212",
-    "  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10045, N-10070, N-10126, N-10303, N-220, N-10763, N-10821, N-11021, N-10186, N-10239, N-10929",
+    "  - Reused Nodes Appearing: N-11361, N-36, N-37, N-40, N-66, N-10000, N-10012, N-10045, N-10070, N-10126, N-10303, N-220, N-10763, N-10821, N-11021, N-10186, N-10239, N-10929",
     "  - (see registers)",
     "",
     "# Episode 25 Analysis – Bride of Charlie Investigation",
@@ -1841,6 +1841,43 @@
   },
   {
    "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2260, C-2263, C-2262*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
    "id": "N-3",
    "header": "**N-3** Candace Owens",
    "label": "Candace Owens",
@@ -2625,7 +2662,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10186"
+     "v": "N-10186, N-11361"
     },
     {
      "raw": ""
@@ -2681,7 +2718,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10186"
+     "v": "N-10186, N-11361"
     },
     {
      "raw": ""
@@ -3350,7 +3387,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10186"
+     "v": "N-10186, N-11361"
     },
     {
      "k": "Supports",

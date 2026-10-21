@@ -15,6 +15,7 @@
 - **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (wave4-events): N-11360
   - Tip-minted Nodes (supplement_2026-10g): N-11282
   - Hole-minted Nodes (reintro-ep003): N-10044, N-10074, N-10129, N-10133, N-10425
   - Tip-minted Nodes (reintro-ep003): N-11143
@@ -324,6 +325,16 @@ Node Type: Person
 Deceased; subject of investigation.
 
 *Related: A-1099.1, A-1100.1, C-254, C-261, C-251, C-280, C-269*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-162, C-187*
 
 ---
 
@@ -868,7 +879,7 @@ Claim: Per the probable cause statement the host reads, Tyler James Robinson sur
 Transcript Snippet: after 33 hours...Tyler James Robinson surrendered to police at Washington County Sheriff's Office
 Anchored Artifacts: A-1095.1
 Mentions: N-3, N-40
-Related Nodes: N-10029, N-10031
+Related Nodes: N-10029, N-10031, N-11360
 Confidence: high
 Investigative Direction: Verify surrender timestamp via sheriff's office records and forensic timeline.
 
@@ -966,6 +977,7 @@ Claim Timestamp: 00:16:00
 Claim: Per the probable cause statement the host reads, Robinson's parents convinced him not to harm himself, and a family friend who is a retired deputy sheriff facilitated Robinson's surrender with his parents.
 Transcript Snippet: a family friend who happens to be a retired deputy sheriff
 Anchored Artifacts: A-1095.7
+Related Nodes: N-11360
 Mentions: N-40
 Confidence: high
 Investigative Direction: Confirm retired deputy's identity and role in surrender via sheriff records.

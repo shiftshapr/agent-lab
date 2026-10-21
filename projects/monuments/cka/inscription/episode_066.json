@@ -939,11 +939,11 @@
       "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Charlie Kirk Death and Memorial; the setting for the donor's account.",
       "related_artifacts": [],
       "related_claims": [
@@ -958,7 +958,10 @@
       "claim_count": 5,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Organization",
@@ -1247,6 +1250,37 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5911",
+        "C-5917",
+        "C-5941",
+        "C-5944",
+        "C-5914",
+        "C-5919",
+        "C-5920",
+        "C-5922",
+        "C-5929",
+        "C-5938",
+        "C-5940",
+        "C-5942",
+        "C-5945"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 13,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1315,7 +1349,9 @@
       "anchored_artifacts": [
         "A-1705.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:06:32",
       "investigative_direction": "Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.",
@@ -1336,7 +1372,8 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10436"
+        "N-10436",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:13:09",
@@ -1413,7 +1450,8 @@
       ],
       "related_nodes": [
         "N-10435",
-        "N-10438"
+        "N-10438",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:24:55",
@@ -1450,7 +1488,8 @@
         "A-1712.1"
       ],
       "related_nodes": [
-        "N-10435"
+        "N-10435",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:25:29",
@@ -1633,7 +1672,7 @@
       "claim": "The host says that after reading the transcript of Erika Kirk's memorial speech she found that it taught nothing about Charlie Kirk other than Turning Point USA and what will happen going forward.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -1703,7 +1742,10 @@
       "anchored_artifacts": [
         "A-1706.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-10002",
+        "N-11361"
+      ],
       "tags": [
         "relevance:core"
       ],
@@ -1729,7 +1771,8 @@
       ],
       "related_nodes": [
         "N-10000",
-        "N-10436"
+        "N-10436",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -1774,7 +1817,7 @@
         "A-1706.1"
       ],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -1910,7 +1953,8 @@
       ],
       "related_nodes": [
         "N-10436",
-        "N-10000"
+        "N-10000",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2083,7 +2127,7 @@
       ],
       "related_nodes": [
         "N-10436",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2128,7 +2172,8 @@
         "A-1709.1"
       ],
       "related_nodes": [
-        "N-10438"
+        "N-10438",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2153,7 +2198,7 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10435",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2200,7 +2245,7 @@
       "related_nodes": [
         "N-10595",
         "N-10000",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"

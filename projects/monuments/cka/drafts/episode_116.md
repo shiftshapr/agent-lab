@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep116): N-10616, N-10623, N-10686
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-680, N-10905
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-159, N-190, N-208, N-209, N-261, N-278, N-410, N-414, N-10000, N-10012, N-10014, N-10071, N-10088, N-10103, N-10106, N-10226, N-10300, N-10303, N-10313, N-10214, N-10324, N-10338, N-10354, N-10415, N-10492, N-10505, N-10021, N-10528, N-10529, N-10532, N-10602, N-10637, N-10641, N-10659, N-10697, N-10732, N-10736, N-10809, N-10844, N-10871, N-10741, N-681, N-682, N-10664, N-10904, N-10651, N-10906
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-159, N-190, N-208, N-209, N-261, N-278, N-410, N-414, N-10000, N-10012, N-10014, N-10071, N-10088, N-10103, N-10106, N-10226, N-10300, N-10303, N-10313, N-10214, N-10324, N-10338, N-10354, N-10415, N-10492, N-10505, N-10021, N-10528, N-10529, N-10532, N-10602, N-10637, N-10641, N-10659, N-10697, N-10732, N-10736, N-10809, N-10844, N-10871, N-10741, N-681, N-682, N-10664, N-10904, N-10651, N-10906
   - Claim Range: C-9977–C-10037
   - (see registers)
 
@@ -287,6 +287,16 @@ Assassination victim; the host theorizes that his clip-on wireless microphone wa
 Named for her conversation with Terryl Farnsworth about the back footage, her Zoom call remarks, her belief that Tyler Robinson acted alone, and the FOIA request for emails naming her.
 
 *Related: C-9991, C-9992, C-10003, C-10004, C-10005, C-10010, C-10021, C-10022, C-10034, A-2676.2*
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-10009*
+
+---
 
 **N-3** Candace Owens
 
@@ -1167,7 +1177,7 @@ Transcript Snippet: I told you they went to Charlie's favorite restaurant after 
 
 Anchored Artifacts:
 Mentions: N-99, N-1
-Related Nodes: N-10000
+Related Nodes: N-10000, N-11361
 Investigative Direction: Identify the restaurant and any photos or receipts from that evening.
 
 ---

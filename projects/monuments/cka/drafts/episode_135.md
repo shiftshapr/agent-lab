@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11593–C-11677
   - New Nodes Introduced: N-10695, N-10696
-  - Reused Nodes Appearing: N-1, N-2, N-10697, N-10698, N-10188, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-681, N-10002, N-10013, N-10014, N-10021, N-10150, N-10175, N-10208, N-10216, N-10226, N-10322, N-10338, N-10523, N-10524, N-10567, N-10585, N-10617, N-10625, N-10626, N-10636, N-10639, N-10679, N-10681, N-10684, N-10690, N-10818, N-10896, N-10907, N-10957, N-10973, N-11053, N-10694, N-11220, N-11221
+  - Reused Nodes Appearing: N-11360, N-11361, N-1, N-2, N-10697, N-10698, N-10188, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-681, N-10002, N-10013, N-10014, N-10021, N-10150, N-10175, N-10208, N-10216, N-10226, N-10322, N-10338, N-10523, N-10524, N-10567, N-10585, N-10617, N-10625, N-10626, N-10636, N-10639, N-10679, N-10681, N-10684, N-10690, N-10818, N-10896, N-10907, N-10957, N-10973, N-11053, N-10694, N-11220, N-11221
   - (see registers)
 
 ---
@@ -302,6 +302,26 @@ Erika Kirk; subject of the transparency, memorial forgiveness and morgue-timing 
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-11672*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-11602*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself.
@@ -390,7 +410,7 @@ Jon Bray (transcribed Jon Bray); cited in the anesthesiologist's email as suppor
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Existing topic node reused for new claims in this episode.
 
@@ -1109,7 +1129,7 @@ Transcript Snippet: Hey guys, I have bad news for you all. It was me at UVU yest
 
 Anchored Artifacts: A-3145.1
 Mentions: N-40
-Related Nodes: N-10013, N-10021
+Related Nodes: N-10013, N-10021, N-11360
 Tags: relevance:core
 Investigative Direction: Compare the read messages with the Discord records entered in the preliminary hearing and with Discord's own statements on the server.
 
@@ -1946,7 +1966,7 @@ Transcript Snippet: In retrospect, what Erika was doing was so evil. She was act
 
 Anchored Artifacts: 
 Mentions: N-2, N-40
-Related Nodes: N-11220, N-10002
+Related Nodes: N-11220, N-11361
 Supports: C-5960
 Tags: relevance:core
 Investigative Direction: Review the memorial transcript and video for the exact words and any evidence Erika had been shown by that date.

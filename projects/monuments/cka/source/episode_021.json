@@ -279,7 +279,7 @@
     "- Ledger continuation summary:",
     "  - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289",
     "  - New Nodes Introduced: N-199, N-10192",
-    "  - Reused Nodes Appearing: N-10193, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10044, N-10078, N-10134, N-10159, N-10328, N-10194, N-10300",
+    "  - Reused Nodes Appearing: N-11361, N-10193, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10044, N-10078, N-10134, N-10159, N-10328, N-10194, N-10300",
     "  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131",
     "",
     "---",
@@ -1665,6 +1665,43 @@
     },
     {
      "raw": "*Related: C-1995*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-1963, C-1964*"
     },
     {
      "raw": ""
@@ -3535,6 +3572,10 @@
      "v": "A-2819.1"
     },
     {
+     "k": "Related Nodes",
+     "v": "N-11361"
+    },
+    {
      "k": "Mentions",
      "v": "N-5, N-1, N-3, N-754"
     },
@@ -3590,6 +3631,10 @@
     {
      "k": "Anchored Artifacts",
      "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11361"
     },
     {
      "k": "Mentions",

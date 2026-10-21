@@ -15,7 +15,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-11060–C-11157
   - New Nodes Introduced: N-10674, N-10675
-  - Reused Nodes Appearing: N-1, N-2, N-367, N-487, N-504, N-10672, N-10673, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-544, N-10000, N-10067, N-10106, N-10254, N-10282, N-10294, N-10313, N-10315, N-10214, N-10320, N-10338, N-10593, N-10606, N-10622, N-10643, N-10651, N-10826, N-10855, N-10857, N-10877, N-10889, N-10934, N-10979, N-11134, N-11124, N-11216
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-367, N-487, N-504, N-10672, N-10673, N-14, N-15, N-36, N-60, N-97, N-163, N-211, N-246, N-266, N-278, N-437, N-544, N-10000, N-10067, N-10106, N-10254, N-10282, N-10294, N-10313, N-10315, N-10214, N-10320, N-10338, N-10593, N-10606, N-10622, N-10643, N-10651, N-10826, N-10855, N-10857, N-10877, N-10889, N-10934, N-10979, N-11134, N-11124, N-11216
   - (see registers)
 
 ## 2. Executive Summary
@@ -475,6 +475,16 @@ Episode Count: 1
 Investigative Pressure: Medium
 
 *Related: A-2164.1, A-2164.2, A-2164.3, C-11104, N-2*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-11127, C-11128*
 
 ---
 
@@ -2094,6 +2104,7 @@ Claim: The host says Erika walked out in a white pantsuit with sparklers behind 
 Transcript Snippet: When you walked out in a white pantsuit with sparklers behind you, and you sucked all of that in, that was it.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Review memorial footage and photographs for Erika's entrance and clothing.
@@ -2109,6 +2120,7 @@ Claim: The host says Erika and the group clinked glasses, went to a restaurant a
 Transcript Snippet: You clinked glasses, you guys then went to a restaurant, you celebrated.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-2
 Tags: relevance:core
 Investigative Direction: Locate the photographs and dated reports of the post-memorial dinner and who attended.

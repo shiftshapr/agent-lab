@@ -1494,6 +1494,28 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8106",
+        "C-8107",
+        "C-8108",
+        "C-8117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2045,7 +2067,8 @@
         "A-3227.2"
       ],
       "related_nodes": [
-        "N-11262"
+        "N-11262",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -2066,7 +2089,8 @@
       "claim": "The host says that, as she is told, Erika did not write her own memorial remarks and that Blake Neff came in with a heavy assist.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11262"
+        "N-11262",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2087,7 +2111,8 @@
       "claim": "The host says she is told that Justin Streiff did not write his own speech for the memorial.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11262"
+        "N-11262",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -2282,7 +2307,8 @@
       "claim": "The host says Victor Marx, a Marine veteran, announced his run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14, saying the weight of the assassination showed God was calling him to run.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11263"
+        "N-11263",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"

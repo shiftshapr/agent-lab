@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-12019–C-12112
   - New Nodes Introduced: N-10716
-  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-101, N-159, N-268, N-366, N-367, N-10000, N-10011, N-10012, N-10048, N-10049, N-10059, N-10074, N-10093, N-10134, N-10190, N-10214, N-10354, N-10389, N-10705, N-10711, N-10820, N-10821, N-11098, N-863, N-10715, N-10717, N-11178
+  - Reused Nodes Appearing: N-11360, N-2, N-18, N-9, N-14, N-60, N-101, N-159, N-268, N-366, N-367, N-10000, N-10011, N-10012, N-10048, N-10049, N-10059, N-10074, N-10093, N-10134, N-10190, N-10214, N-10354, N-10389, N-10705, N-10711, N-10820, N-10821, N-11098, N-863, N-10715, N-10717, N-11178
   - Hole-minted Nodes (wave3): N-560
   - (see registers)
 
@@ -477,6 +477,16 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 Widow and TPUSA CEO; named in the McCoy call-sequence discussion and the Protect Erika Kirk group name.
 
 *Related: C-12061, C-12097, C-12098*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-12054*
 
 ---
 
@@ -1508,7 +1518,7 @@ Transcript Snippet: No, he doesn't, because we know he's going to be wearing tha
 
 Anchored Artifacts: 
 Mentions: N-40
-Related Nodes: N-11177
+Related Nodes: N-11177, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the arrest photographs and booking inventory of clothing.
 

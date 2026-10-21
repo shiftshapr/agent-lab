@@ -1295,6 +1295,25 @@
       "investigative_pressure": "high",
       "schema_org": "Question",
       "parent": "N-10106"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11587"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -3049,7 +3068,9 @@
       "label": "Host Says Attendees at the Memorial Event Were Happy and Are Now Angry",
       "claim": "The host says the memorial convention was thrown like a concert, and that people so happy at the memorial event clinking glasses are now very bitter and angry.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],

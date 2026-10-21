@@ -1,6 +1,6 @@
 # Wave 4 proposal: typed nodes (3.1) and topic consolidation (3.2)
 
-**Status: proposal for Daveed's approval. Nothing here has been applied.** Ten Opus reviewers drafted it on
+**Status: approved by Daveed and applied on 2026-10-21** (merge id map: `audits/person_merge_2026-10-21-topics/id_map.csv`; ids in `proposal.json`, `types.csv` and `merges.csv` are pre-merge). Ten Opus reviewers drafted it on
 2026-10-21, covering all 1,449 non-person nodes (ids N-10000+). Each reviewer worked from the node's name, aliases,
 register description and citation counts, and saw the full list so it could find duplicates anywhere.
 
@@ -49,3 +49,20 @@ is kept. In addition, 300 narrower questions get a `parent` instead of being mer
 
 Once approved, the changes are applied through the JSON source (3.0), with a merge map and a renumber-free id
 policy: kept ids are unchanged, and merged ids are removed with the band compacted, as for persons.
+
+## Applied (2026-10-21)
+- **Merges.** 89 merged and 1,327 ids shifted, so the topic band has no holes.
+  - In each group the earliest-introduced node keeps its id, which keeps intro order valid. It takes the reviewers'
+    chosen name, and the other names become aliases.
+- **Types.** 1,360 nodes typed in `canonical/nodes.json` (`type`, `schema_org`, `wikidata_class`, `event_time`,
+  `place`, `parent`).
+  - Register `Node Type` lines are updated, and `scripts/sync_node_types.py` carries the types into the inscriptions
+    (it is part of the daily finalize step).
+  - Preflight and the inscription builder accept Event, Thing and Investigation Question.
+- **Core events.**
+  - N-10002 is now the Event "Assassination of Charlie Kirk" (2025-09-10, N-10012 Utah Valley University, Wikidata
+    Q3882219). "Charlie Kirk Death and Memorial" is kept as an alias.
+  - New Event N-11360 "Tyler Robinson arrest" (2025-09-11/12), introduced in ep3, cited by 21 claims.
+  - New Event N-11361 "Charlie Kirk memorial service" (2025-09-21), introduced in ep5, cited by 78 claims.
+  - An Opus reviewer assigned the claims (`event_assign` decisions): 21 of N-10002's 33 claims moved to the memorial
+    event, and 13 claims stay on the assassination.

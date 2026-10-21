@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-5523–C-5599
   - New Nodes Introduced: N-488, N-490, N-491, N-493, N-494, N-10407, N-10408, N-10409, N-10410, N-10411
-  - Reused Nodes Appearing: N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10044, N-10060, N-10189, N-10201, N-10252, N-10318, N-10322, N-10371, N-10405, N-11002, N-11015, N-10998, N-11096
+  - Reused Nodes Appearing: N-11361, N-2, N-11, N-489, N-9, N-82, N-10000, N-10007, N-10015, N-10023, N-10026, N-10044, N-10060, N-10189, N-10201, N-10252, N-10318, N-10322, N-10371, N-10405, N-11002, N-11015, N-10998, N-11096
   - (see registers)
 
 # Episode Analysis: Monument Ep 62
@@ -413,6 +413,16 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 Widow and TPUSA CEO; subject of the employees' accounts, the Frantzve family business thread and the host's planned episodes.
 
 *Related: C-5545, C-5574, C-5575, C-5593, C-5594, C-5599*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-5572*
 
 ---
 
@@ -1520,7 +1530,7 @@ Transcript Snippet: They had AmFest. They had a huge donor thing at Mar-a-Lago.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10000, N-10790
+Related Nodes: N-10000, N-10790, N-11361
 Tags: relevance:context
 Investigative Direction: Confirm the Mar-a-Lago donor event and staff compensation through employee accounts and payroll data.
 

@@ -1458,6 +1458,25 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12322"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -1551,7 +1570,9 @@
       "anchored_artifacts": [
         "A-2296.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11360"
+      ],
       "tags": [],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.",

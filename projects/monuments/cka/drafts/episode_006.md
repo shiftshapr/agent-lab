@@ -22,7 +22,7 @@
   - Claim Range: C-499–C-583
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
   - New Nodes Introduced: N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-10062, N-10063, N-10064, N-10065, N-10066, N-10068, N-10069, N-10070, N-10071, N-10072, N-10075, N-10076, N-10077, N-10078
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10073, N-10067, N-10074, N-10002, N-10011, N-10027, N-10044, N-10048, N-10049, N-10050, N-10051, N-10054, N-10056, N-10129, N-10158, N-10252, N-10924, N-11143, N-11234
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10073, N-10067, N-10074, N-10002, N-10011, N-10027, N-10044, N-10048, N-10049, N-10050, N-10051, N-10054, N-10056, N-10129, N-10158, N-10252, N-10924, N-11143, N-11234
 
 ## 2. Executive Summary
 
@@ -233,6 +233,16 @@ Confidence Level: Medium
 ---
 
 ## 4. Node Register
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-529, C-530, C-537, C-539*
+
+---
 
 **N-3** Candace Owens
 
@@ -699,7 +709,7 @@ The host's 00:51:05 relay that people allege CIA programs at Utah Valley Univers
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Topic reused: the memorial the host will not attend.
 
@@ -982,7 +992,7 @@ Claim: The Daily Mail ran a headline written by Victoria Churchill stating Canda
 Transcript Snippet: Candace Owens rages after being snubbed from the Charlie Kirk Memorial speaking roster
 Anchored Artifacts: A-1124.1
 Mentions: N-84, N-3, N-1
-Related Nodes: N-10067
+Related Nodes: N-10067, N-11361
 Confidence: high
 Investigative Direction: Verify headline and byline on the Daily Mail site and check publication date.
 
@@ -1608,7 +1618,7 @@ Transcript Snippet: All of them were asking specifically for me to confirm that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10054, N-10002, N-10067
+Related Nodes: N-10054, N-10067, N-11361
 Tags: relevance:context
 Investigative Direction: Ask the host to publish the sender names and outlets of the memorial emails and compare timing against the Daily Mail story.
 
@@ -1676,7 +1686,7 @@ Transcript Snippet: She would be the logical heir to the TPUSA throne. But she's
 
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-57
-Related Nodes: N-10054, N-10002
+Related Nodes: N-10054, N-11361
 Supports: C-463
 Tags: relevance:context
 Investigative Direction: Obtain the memorial speaker roster and invitation list and ask TPUSA whether the host was invited.
@@ -1711,7 +1721,7 @@ Transcript Snippet: uh, which the feds are organizing, is probably a very good i
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10002, N-10054, N-10014
+Related Nodes: N-10054, N-10014, N-11361
 Tags: relevance:context
 Investigative Direction: Identify the agencies and contractors named in the memorial's security and logistics plan.
 

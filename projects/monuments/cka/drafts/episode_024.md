@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2178–C-2259
   - New Nodes Introduced: N-210, N-211, N-212, N-214, N-215, N-216, N-10207, N-10208
-  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10016, N-10044, N-10074, N-10070, N-10100, N-10134, N-10143, N-10160, N-10194, N-10198, N-10379, N-11017, N-377, N-709, N-10498, N-268
+  - Reused Nodes Appearing: N-11361, N-15, N-17, N-46, N-50, N-82, N-99, N-154, N-155, N-190, N-10006, N-10025, N-10016, N-10044, N-10074, N-10070, N-10100, N-10134, N-10143, N-10160, N-10194, N-10198, N-10379, N-11017, N-377, N-709, N-10498, N-268
   - Tip-minted Nodes (wave2): N-10815, N-10816
   - (see registers), N-11
 
@@ -493,6 +493,16 @@ Charlie Kirk; subject of the host's claims about his friendships, views and mess
 Erika Kirk; the host discusses her interview preview and TPUSA leadership role.
 
 *Related: C-2222, C-2224, C-2225, C-2226, C-2228, C-2229, C-2231, C-2233, C-2239, C-2240*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2222*
 
 ---
 
@@ -1633,6 +1643,7 @@ Claim: The host says Erika Kirk has not sat down for a long interview and that a
 Transcript Snippet: She hasn't sat down for a long interview. All we have seen from Erika has been the speech at the memorial event for Charlie Kirk.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-3, N-2, N-1
 Tags: relevance:core
 Investigative Direction: Check Erika Kirk's public interview record before 2025-11-03 against this statement.

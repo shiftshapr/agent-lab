@@ -2082,6 +2082,26 @@
       "investigative_pressure": "medium",
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13098",
+        "C-13094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2127,7 +2147,8 @@
       "claim": "The host says Mike Mitchell was an undercover detective in internet sex crimes against children, and that in her opinion he is the linchpin to the entire case against Tyler Robinson because he persuaded the Robinson family to have Tyler surrender.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10754"
+        "N-10754",
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:11:09",
@@ -2371,7 +2392,9 @@
       "label": "Host Says Mike Mitchell Convinced the Robinson Household to Turn Tyler Robinson In Despite Robinson's Denial of Murder",
       "claim": "The host says Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11360"
+      ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:09",
       "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*",

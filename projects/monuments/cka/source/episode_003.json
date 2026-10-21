@@ -22,6 +22,7 @@
     "- **Transcript SHA-256**: e1b15b2a8fcf52fde2e90b2f4cb476301947917bf0f6bb881e03dc384f5ccc53",
     "",
     "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (wave4-events): N-11360",
     "  - Tip-minted Nodes (supplement_2026-10g): N-11282",
     "  - Hole-minted Nodes (reintro-ep003): N-10044, N-10074, N-10129, N-10133, N-10425",
     "  - Tip-minted Nodes (reintro-ep003): N-11143",
@@ -1262,6 +1263,43 @@
     },
     {
      "raw": "*Related: A-1099.1, A-1100.1, C-254, C-261, C-251, C-280, C-269*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11360",
+   "header": "**N-11360** Tyler Robinson arrest",
+   "label": "Tyler Robinson arrest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "Tyler Robinson's surrender and arrest on 2025-09-11/12."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-162, C-187*"
     },
     {
      "raw": ""
@@ -3244,7 +3282,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10029, N-10031"
+     "v": "N-10029, N-10031, N-11360"
     },
     {
      "k": "Confidence",
@@ -3633,6 +3671,10 @@
     {
      "k": "Anchored Artifacts",
      "v": "A-1095.7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11360"
     },
     {
      "k": "Mentions",

@@ -1348,11 +1348,11 @@
       "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Existing topic reused for the Arizona memorial claims.",
       "related_artifacts": [],
       "related_claims": [
@@ -1364,7 +1364,10 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Topic",
@@ -1881,6 +1884,46 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-480",
+        "C-477",
+        "C-489"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-421"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2261,7 +2304,8 @@
       "claim": "The host says, sarcastically, that she was not invited to speak alongside President Trump and JD Vance on the stage with Tucker Carlson at a memorial event, and that this has to do with nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10054"
+        "N-10054",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:44:56",
@@ -2913,7 +2957,8 @@
         "A-1113.1"
       ],
       "related_nodes": [
-        "N-10047"
+        "N-10047",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -3996,9 +4041,9 @@
       "claim": "The host says she hopes Erika Kirk is in full control of the memorial but is hearing stories about donors who are pushing things.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002",
         "N-10054",
-        "N-10035"
+        "N-10035",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"
@@ -4244,8 +4289,8 @@
       "claim": "The host says that from what she understands the Arizona memorial is in large part being controlled by the White House.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002",
-        "N-10054"
+        "N-10054",
+        "N-11361"
       ],
       "tags": [
         "relevance:core"

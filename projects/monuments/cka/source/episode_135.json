@@ -23,7 +23,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-11593–C-11677",
     "  - New Nodes Introduced: N-10695, N-10696",
-    "  - Reused Nodes Appearing: N-1, N-2, N-10697, N-10698, N-10188, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-681, N-10002, N-10013, N-10014, N-10021, N-10150, N-10175, N-10208, N-10216, N-10226, N-10322, N-10338, N-10523, N-10524, N-10567, N-10585, N-10617, N-10625, N-10626, N-10636, N-10639, N-10679, N-10681, N-10684, N-10690, N-10818, N-10896, N-10907, N-10957, N-10973, N-11053, N-10694, N-11220, N-11221",
+    "  - Reused Nodes Appearing: N-11360, N-11361, N-1, N-2, N-10697, N-10698, N-10188, N-3, N-5, N-7, N-40, N-54, N-69, N-176, N-190, N-487, N-681, N-10002, N-10013, N-10014, N-10021, N-10150, N-10175, N-10208, N-10216, N-10226, N-10322, N-10338, N-10523, N-10524, N-10567, N-10585, N-10617, N-10625, N-10626, N-10636, N-10639, N-10679, N-10681, N-10684, N-10690, N-10818, N-10896, N-10907, N-10957, N-10973, N-11053, N-10694, N-11220, N-11221",
     "  - (see registers)",
     "",
     "---",
@@ -1125,6 +1125,80 @@
   },
   {
    "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11672*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11360",
+   "header": "**N-11360** Tyler Robinson arrest",
+   "label": "Tyler Robinson arrest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "Tyler Robinson's surrender and arrest on 2025-09-11/12."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-11602*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
    "id": "N-3",
    "header": "**N-3** Candace Owens",
    "label": "Candace Owens",
@@ -1445,8 +1519,8 @@
   {
    "kind": "node",
    "id": "N-10002",
-   "header": "**N-10002** Charlie Kirk Death and Memorial",
-   "label": "Charlie Kirk Death and Memorial",
+   "header": "**N-10002** Assassination of Charlie Kirk",
+   "label": "Assassination of Charlie Kirk",
    "lines": [
     {
      "raw": ""
@@ -4133,7 +4207,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10013, N-10021"
+     "v": "N-10013, N-10021, N-11360"
     },
     {
      "k": "Tags",
@@ -7325,7 +7399,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-11220, N-10002"
+     "v": "N-11220, N-11361"
     },
     {
      "k": "Supports",

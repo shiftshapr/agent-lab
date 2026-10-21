@@ -620,7 +620,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Existing topic reused for new claims in this episode.
 
@@ -1683,7 +1683,7 @@ Transcript Snippet: Charlie found something out and it cost him his life. That's
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10002, N-10044
+Related Nodes: N-10044, N-10002
 Tags: relevance:core
 Investigative Direction: Identify what Charlie Kirk is alleged to have learned, using his messages, meetings and the donor-pressure record.
 

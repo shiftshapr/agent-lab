@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6416–C-6509
   - New Nodes Introduced: N-556, N-557, N-558, N-559, N-10462, N-10463, N-10465, N-10466
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-544, N-552, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-553, N-707, N-10000, N-10012, N-10026, N-10027, N-10060, N-10081, N-10113, N-10143, N-10162, N-10172, N-10179, N-10252, N-10313, N-10318, N-10323, N-10348, N-10359, N-10379, N-10392, N-10415, N-10416, N-10425, N-10439, N-10214, N-10280, N-10458, N-10460, N-10826, N-10889, N-11022, N-11028, N-11081, N-10464, N-11104
+  - Reused Nodes Appearing: N-11361, N-2, N-11, N-3, N-544, N-552, N-1, N-326, N-38, N-40, N-55, N-60, N-82, N-97, N-99, N-159, N-164, N-190, N-217, N-270, N-278, N-553, N-707, N-10000, N-10012, N-10026, N-10027, N-10060, N-10081, N-10113, N-10143, N-10162, N-10172, N-10179, N-10252, N-10313, N-10318, N-10323, N-10348, N-10359, N-10379, N-10392, N-10415, N-10416, N-10425, N-10439, N-10214, N-10280, N-10458, N-10460, N-10826, N-10889, N-11022, N-11028, N-11081, N-10464, N-11104
   - (see registers)
 
 ## 2. Executive Summary
@@ -563,6 +563,16 @@ Existing node reused for new claims in this episode.
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-6472, C-6473*
+
+---
+
 **N-3** Candace Owens
 
 Existing node reused for new claims in this episode.
@@ -1049,6 +1059,7 @@ Claim Timestamp: 00:28:47
 Claim: Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, that he wanted to hire her for a TPUSA job, and that Charlie Kirk wanted to date her.
 
 Anchored Artifacts: A-1766.1
+Related Nodes: N-11361
 Mentions: N-2, N-11, N-1
 
 
@@ -1963,7 +1974,7 @@ Transcript Snippet: he's telling the truth. I was around for that. I just had to
 
 Anchored Artifacts: A-3051.1, A-1766.1, A-3051.1
 Mentions: N-3, N-11
-Related Nodes: N-11028
+Related Nodes: N-11028, N-11361
 Supports: C-6472
 Tags: relevance:core
 Investigative Direction: Obtain the host's dated text messages with Bowyer and Charlie from 2018.

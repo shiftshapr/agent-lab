@@ -1647,6 +1647,25 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12054"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2535,7 +2554,8 @@
       "claim": "The host says Robinson had not changed his shirt after returning home because he was going to be wearing the same shirt when he was arrested.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-11177"
+        "N-11177",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"

@@ -1402,6 +1402,25 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "SoftwareApplication"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-5572"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2605,7 +2624,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10790"
+        "N-10790",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"

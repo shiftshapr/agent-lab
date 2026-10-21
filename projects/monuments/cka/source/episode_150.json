@@ -23,7 +23,7 @@
     "  ",
     "(none – Wave 2 removed local spray rows; persons cited via Mentions)",
     "  ",
-    "  - Reused Nodes Appearing: N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10053, N-10114, N-10362, N-10388, N-10640, N-10934, N-10977",
+    "  - Reused Nodes Appearing: N-11361, N-2, N-22, N-30, N-60, N-155, N-10000, N-10002, N-10004, N-10026, N-10053, N-10114, N-10362, N-10388, N-10640, N-10934, N-10977",
     "",
     "# Episode Analysis – CKA 150",
     "",
@@ -1083,6 +1083,43 @@
   },
   {
    "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-12961, C-12962*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
    "id": "N-3",
    "header": "**N-3** Candace Owens",
    "label": "Candace Owens",
@@ -1320,8 +1357,8 @@
   {
    "kind": "node",
    "id": "N-10002",
-   "header": "**N-10002** Charlie Kirk Death and Memorial",
-   "label": "Charlie Kirk Death and Memorial",
+   "header": "**N-10002** Assassination of Charlie Kirk",
+   "label": "Assassination of Charlie Kirk",
    "lines": [
     {
      "raw": ""
@@ -2286,8 +2323,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "",
-     "sep": ":"
+     "v": "N-11361"
     },
     {
      "raw": ""
@@ -3046,7 +3082,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10977, N-10002"
+     "v": "N-10977, N-11361"
     },
     {
      "k": "Tags",

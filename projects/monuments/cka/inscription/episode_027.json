@@ -1879,6 +1879,26 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2416",
+        "C-2469"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2435,7 +2455,9 @@
       "label": "Host Says Memorial Event Was on the 21st After Correction",
       "claim": "The host says the memorial event was 10 or 11 days after the assassination, then says nine days, and after a correction from her director says it was on the 21st.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -3274,7 +3296,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
-        "N-10934"
+        "N-10934",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"

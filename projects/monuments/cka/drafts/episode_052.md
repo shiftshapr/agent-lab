@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-4516–C-4631
   - New Nodes Introduced: N-380, N-381, N-382, N-383, N-384, N-385, N-387, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-82, N-3, N-363, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-163, N-195, N-237, N-260, N-261, N-266, N-270, N-288, N-312, N-330, N-361, N-10000, N-10014, N-10018, N-10024, N-10048, N-10074, N-10081, N-10110, N-10100, N-10172, N-10178, N-10217, N-10225, N-10226, N-10239, N-10242, N-10254, N-10280, N-10298, N-10193, N-10305, N-10318, N-10320, N-10324, N-10335, N-10342, N-10345, N-10347, N-10349, N-10352, N-10358, N-10389, N-10416, N-10775, N-386, N-10355, N-325
+  - Reused Nodes Appearing: N-11361, N-82, N-3, N-363, N-5, N-14, N-15, N-36, N-50, N-54, N-61, N-69, N-97, N-163, N-195, N-237, N-260, N-261, N-266, N-270, N-288, N-312, N-330, N-361, N-10000, N-10014, N-10018, N-10024, N-10048, N-10074, N-10081, N-10110, N-10100, N-10172, N-10178, N-10217, N-10225, N-10226, N-10239, N-10242, N-10254, N-10280, N-10298, N-10193, N-10305, N-10318, N-10320, N-10324, N-10335, N-10342, N-10345, N-10347, N-10349, N-10352, N-10358, N-10389, N-10416, N-10775, N-386, N-10355, N-325
   - (see registers), N-11
 
 # Episode 52 Analysis
@@ -329,6 +329,16 @@ Subject of the assassination; the host discusses his Catholicism, texts and the 
 Widow and TPUSA CEO; the host recounts her sitdown, her texts and her account of how she met Tyler Bowyer.
 
 *Related: C-4525, C-4542, C-4544, C-4545, C-4555, C-4557, C-4564, C-4568, C-4576, C-4577, C-4578, C-4579, C-4580, C-4582, C-4583, C-4594, C-4630, C-4631*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-4581*
 
 ---
 
@@ -998,6 +1008,7 @@ Claim Timestamp: 00:28:55
 Claim: In a clip from Charlie Kirk's memorial that the host plays, Tyler Bowyer says Erika Kirk called him saying she just wanted to help and that he put her right behind the president at the 2015 Arizona Trump rally.
 
 Anchored Artifacts: A-1580.1
+Related Nodes: N-11361
 Mentions: N-2, N-11, N-1, N-5
 
 
@@ -1102,6 +1113,7 @@ Claim: The host, framing a hypothetical Netflix series about a 19-year-old prota
 Transcript Snippet: Uh he'd never been arrested, had never committed any crimes. He has a perfect ACT score
 
 Anchored Artifacts: 
+Related Nodes:
 Mentions: N-3, N-40
 Tags: relevance:core
 Investigative Direction: Obtain court and school records on Robinson's criminal history and ACT score to confirm or refute the host's description.

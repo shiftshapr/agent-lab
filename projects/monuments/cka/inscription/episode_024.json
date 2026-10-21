@@ -1913,6 +1913,25 @@
       "investigative_pressure": "medium",
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-2222"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2931,7 +2950,9 @@
       "label": "Host Says Erika Has Not Sat for a Long Interview, Only the Memorial Speech",
       "claim": "The host says Erika Kirk has not sat down for a long interview and that all the public has seen from her is the speech at the Charlie Kirk memorial event.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:core"
       ],

@@ -29,7 +29,7 @@
     "  - Claim Range: C-499–C-583",
     "  - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133",
     "  - New Nodes Introduced: N-83, N-84, N-85, N-86, N-87, N-88, N-89, N-90, N-91, N-92, N-10062, N-10063, N-10064, N-10065, N-10066, N-10068, N-10069, N-10070, N-10071, N-10072, N-10075, N-10076, N-10077, N-10078",
-    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10073, N-10067, N-10074, N-10002, N-10011, N-10027, N-10044, N-10048, N-10049, N-10050, N-10051, N-10054, N-10056, N-10129, N-10158, N-10252, N-10924, N-11143, N-11234",
+    "  - Reused Nodes Appearing: N-11361, N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-46, N-5, N-57, N-68, N-54, N-72, N-80, N-10000, N-10012, N-10026, N-10014, N-10073, N-10067, N-10074, N-10002, N-10011, N-10027, N-10044, N-10048, N-10049, N-10050, N-10051, N-10054, N-10056, N-10129, N-10158, N-10252, N-10924, N-11143, N-11234",
     "",
     "## 2. Executive Summary",
     "",
@@ -909,6 +909,43 @@
    "lines": [
     "## 4. Node Register",
     ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-529, C-530, C-537, C-539*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
    ]
   },
   {
@@ -2620,8 +2657,8 @@
   {
    "kind": "node",
    "id": "N-10002",
-   "header": "**N-10002** Charlie Kirk Death and Memorial",
-   "label": "Charlie Kirk Death and Memorial",
+   "header": "**N-10002** Assassination of Charlie Kirk",
+   "label": "Assassination of Charlie Kirk",
    "lines": [
     {
      "raw": ""
@@ -3703,7 +3740,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10067"
+     "v": "N-10067, N-11361"
     },
     {
      "k": "Confidence",
@@ -6135,7 +6172,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10054, N-10002, N-10067"
+     "v": "N-10054, N-10067, N-11361"
     },
     {
      "k": "Tags",
@@ -6395,7 +6432,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10054, N-10002"
+     "v": "N-10054, N-11361"
     },
     {
      "k": "Supports",
@@ -6529,7 +6566,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10002, N-10054, N-10014"
+     "v": "N-10054, N-10014, N-11361"
     },
     {
      "k": "Tags",

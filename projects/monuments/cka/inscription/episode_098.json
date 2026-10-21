@@ -1461,11 +1461,11 @@
       "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Memorial and funeral topic.",
       "related_artifacts": [],
       "related_claims": [
@@ -1476,7 +1476,10 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "medium",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Organization",
@@ -1854,6 +1857,26 @@
       "investigative_pressure": "medium",
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-8796",
+        "C-8793"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2088,7 +2111,8 @@
         "A-2037.1"
       ],
       "related_nodes": [
-        "N-10595"
+        "N-10595",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:40:12",
@@ -3291,7 +3315,7 @@
       "claim": "The host says Charlie Kirk's public funeral was described by some people, including his wife, as the event of the century.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:core"

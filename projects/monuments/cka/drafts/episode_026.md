@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2317–C-2406
   - New Nodes Introduced: N-221, N-223, N-224, N-10213, N-10215
-  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10061, N-10070, N-10119, N-10144, N-10185, N-10186, N-10190, N-10191, N-10194, N-10208, N-10212, N-10303, N-10838, N-11018, N-222, N-10574, N-10214, N-11143
+  - Reused Nodes Appearing: N-11361, N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-180, N-201, N-211, N-217, N-10002, N-10012, N-10061, N-10070, N-10119, N-10144, N-10185, N-10186, N-10190, N-10191, N-10194, N-10208, N-10212, N-10303, N-10838, N-11018, N-222, N-10574, N-10214, N-11143
   - (see registers)
 
 # Episode Analysis Record
@@ -548,6 +548,16 @@ Erika Kirk; subject of the call and interview claims.
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2384, C-2326, C-2385*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -715,7 +725,7 @@ Jordan Peterson; subject of a viewer comment.
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Existing topic reused for memorial claims.
 
@@ -1196,7 +1206,7 @@ Claim: The host says that when scheduled posts resumed on Charlie Kirk's YouTube
 Anchored Artifacts: A-1343.1
 Mentions: N-190, N-2, N-1, N-217
 
-Related Nodes: N-10215
+Related Nodes: N-10215, N-11361
 
 Investigative Direction: Independently verify YouTube scheduling metadata for the relevant timeframe.
 
@@ -1340,7 +1350,7 @@ Transcript Snippet: we've turned uh this event into an effective Trump rally.
 
 Anchored Artifacts: 
 Mentions: N-131, N-1, N-5
-Related Nodes: N-10002, N-10191
+Related Nodes: N-10191, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the memorial speaker list and transcript of the speeches.
 
@@ -2065,7 +2075,7 @@ Transcript Snippet: they didn't bring back his YouTube channel and started sched
 
 Anchored Artifacts: A-1343.1
 Mentions: N-1
-Related Nodes: N-10215, N-10002
+Related Nodes: N-10215, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the YouTube channel upload and scheduling history for September 2025.
 

@@ -731,11 +731,11 @@
       "wikidata_class": "Q43229"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Existing topic reused for the broadcast, memorial and betrayal claims in this episode.",
       "related_artifacts": [],
       "related_claims": [
@@ -751,7 +751,10 @@
       "claim_count": 6,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Thing",
@@ -920,6 +923,26 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12961",
+        "C-12962"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1186,7 +1209,9 @@
       "anchored_artifacts": [
         "A-2351.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:05:08",
       "investigative_direction": "Verify speaker list and video documentation of memorial event.",
@@ -1470,7 +1495,7 @@
       ],
       "related_nodes": [
         "N-10977",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:context"

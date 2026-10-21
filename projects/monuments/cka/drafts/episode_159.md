@@ -14,7 +14,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11013
   - Claim Range: C-13722–C-13828
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10016, N-10053, N-10303, N-10361, N-10762, N-10780, N-10781, N-10784, N-10785, N-10787, N-10789, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10791, N-10792, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-568, N-665, N-10002, N-10012, N-10018, N-10035, N-10067, N-10072, N-10127, N-10129, N-10186, N-10203, N-10239, N-10259, N-10325, N-10341, N-10385, N-10404, N-10412, N-10415, N-10478, N-10481, N-10494, N-10522, N-10606, N-10608, N-10610, N-10613, N-10719, N-10786, N-10788, N-10821, N-10846, N-10848, N-10994, N-10790, N-11010, N-152, N-10793, N-10794, N-11012, N-11011
+  - Reused Nodes Appearing: N-11361, N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-190, N-271, N-217, N-437, N-266, N-7, N-496, N-270, N-535, N-377, N-159, N-10016, N-10053, N-10303, N-10361, N-10762, N-10780, N-10781, N-10784, N-10785, N-10787, N-10789, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-131, N-150, N-160, N-10791, N-10792, N-16, N-47, N-48, N-89, N-95, N-99, N-283, N-364, N-378, N-419, N-433, N-493, N-529, N-568, N-665, N-10002, N-10012, N-10018, N-10035, N-10067, N-10072, N-10127, N-10129, N-10186, N-10203, N-10239, N-10259, N-10325, N-10341, N-10385, N-10404, N-10412, N-10415, N-10478, N-10481, N-10494, N-10522, N-10606, N-10608, N-10610, N-10613, N-10719, N-10786, N-10788, N-10821, N-10846, N-10848, N-10994, N-10790, N-11010, N-152, N-10793, N-10794, N-11012, N-11011
   - Hole-minted Nodes (remap-ep159): N-127, N-151, N-158
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dillon stays N-277 and N-277. Karoline Leavitt stays N-280. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
@@ -534,6 +534,16 @@ Claim Count: (series-level)
 Episode Count: (series-level)
 
 *Related: C-13730, C-13822, A-2466.1, N-10790*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-13726*
 
 ---
 
@@ -1357,7 +1367,7 @@ Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kad
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Topic for the memorial, merchandise sales and microphone display.
 
@@ -1819,7 +1829,7 @@ Transcript Snippet: Nobody imagined that she was announcing Turning Point 2.0, g
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
-Related Nodes: N-10002, N-10412
+Related Nodes: N-10412, N-11361
 Investigative Direction: Identify attendees of the Zoom calls from September 2025 and obtain recordings, calendar invites or notes referring to Turning Point 2.0 and memorial merchandise revenue.
 
 ---

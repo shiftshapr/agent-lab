@@ -24,7 +24,7 @@
     "  - Claim Range: C-3800–C-3900",
     "  - New Nodes Introduced: N-318, N-319, N-320, N-321, N-322, N-323, N-10305, N-10306, N-10307, N-10308, N-10309, N-10310",
     "  - Tip-minted Nodes (w3-root-brands): N-10823",
-    "  - Reused Nodes Appearing: N-9, N-66, N-69, N-220, N-270, N-312, N-329, N-130, N-10000, N-10026, N-10194, N-10298, N-10304, N-10318, N-10332, N-10370, N-10371, N-10374, N-10405, N-10518, N-11107, N-11102, N-11203",
+    "  - Reused Nodes Appearing: N-11361, N-9, N-66, N-69, N-220, N-270, N-312, N-329, N-130, N-10000, N-10026, N-10194, N-10298, N-10304, N-10318, N-10332, N-10370, N-10371, N-10374, N-10405, N-10518, N-11107, N-11102, N-11203",
     "  - (see registers)",
     "",
     "## 2. Executive Summary",
@@ -1720,6 +1720,43 @@
     },
     {
      "raw": "*Related: C-3800, C-3801, C-3802, C-3842, C-3849, C-3854, C-3855, C-3856, C-3857, C-3883, C-3887, C-3888, C-3891, C-3895, C-3898*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3849*"
     },
     {
      "raw": ""
@@ -6183,7 +6220,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10305"
+     "v": "N-10305, N-11361"
     },
     {
      "k": "Tags",

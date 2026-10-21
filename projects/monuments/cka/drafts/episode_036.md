@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-3152–C-3248
   - New Nodes Introduced: N-270, N-10255, N-10256
-  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-329, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10042, N-10048, N-10112, N-10129, N-10140, N-10168, N-10189, N-10211, N-10229, N-10232, N-10239, N-10246, N-10249, N-10250, N-10252, N-10253, N-10332, N-271, N-710, N-377, N-10254, N-10929, N-10297, N-10783, N-10931, N-709, N-10315, N-10316, N-10323, N-10775, N-10930, N-10320, N-272, N-10932
+  - Reused Nodes Appearing: N-11360, N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-329, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10042, N-10048, N-10112, N-10129, N-10140, N-10168, N-10189, N-10211, N-10229, N-10232, N-10239, N-10246, N-10249, N-10250, N-10252, N-10253, N-10332, N-271, N-710, N-377, N-10254, N-10929, N-10297, N-10783, N-10931, N-709, N-10315, N-10316, N-10323, N-10775, N-10930, N-10320, N-272, N-10932
   - (see registers)
 
 ## 6. Meme Register
@@ -424,6 +424,16 @@ Investigative Pressure: Medium
 Subject of the relayed White House request, the Tucker Carlson SAS event, the Hamptons retreat and the UVU security discussion.
 
 *Related: C-3153, C-3162, C-3163, C-3174, C-3175, C-3179, C-3182, C-3184*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-3233*
 
 ---
 
@@ -2112,7 +2122,7 @@ Transcript Snippet: would be crucial for the defense work of mitigation.
 
 Anchored Artifacts: A-1449.1
 Mentions: N-40
-Related Nodes: N-10255
+Related Nodes: N-10255, N-11360
 Investigative Direction: Identify the speaker (likely a legal commentator) and check for any defense motion seeking the footage.
 
 ---

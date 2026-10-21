@@ -18,7 +18,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-1511–C-1607
   - New Nodes Introduced: N-161, N-162, N-163, N-164, N-166, N-167, N-168, N-169, N-171, N-173, N-10167, N-10168, N-10170, N-10171
-  - Reused Nodes Appearing: N-36, N-46, N-71, N-101, N-138, N-154, N-155, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10053, N-10102, N-10120, N-10157, N-10162, N-11017, N-10323, N-170, N-10169, N-10198
+  - Reused Nodes Appearing: N-11361, N-36, N-46, N-71, N-101, N-138, N-154, N-155, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10053, N-10102, N-10120, N-10157, N-10162, N-11017, N-10323, N-170, N-10169, N-10198
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11
 
@@ -698,6 +698,16 @@ Subject of the assassination; the host reports his statements, pressure and secu
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-1518*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -997,6 +1007,7 @@ Claim Timestamp: 00:04:50
 Claim: The host says Tucker Carlson, delivering remarks at Charlie Kirk's memorial, analogized the actions of critics and liars to the plot against Jesus in Jerusalem 2,000 years ago.
 
 Anchored Artifacts: A-1244.1
+Related Nodes: N-11361
 Mentions: N-1, N-22
 
 Investigative Direction: Verify the full memorial transcript and locate the segment within the recording.

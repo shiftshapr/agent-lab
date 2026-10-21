@@ -16,7 +16,7 @@
   - Tip-minted Nodes (reintro-ep085): N-610, N-674, N-775, N-10840
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-7557–C-7684
-  - Reused Nodes Appearing: N-10518, N-10021, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-178, N-190, N-209, N-212, N-220, N-452, N-597, N-598, N-10000, N-10011, N-10012, N-10015, N-10022, N-10024, N-10027, N-10029, N-10045, N-10060, N-10106, N-10113, N-10124, N-10136, N-10137, N-10146, N-10148, N-10194, N-10216, N-10255, N-10282, N-10293, N-10297, N-10214, N-10327, N-10332, N-10336, N-10405, N-10412, N-10415, N-10466, N-10494, N-10496, N-10501, N-10515, N-10567, N-10931, N-10972, N-10998, N-11046, N-11047, N-11049
+  - Reused Nodes Appearing: N-11360, N-10518, N-10021, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-178, N-190, N-209, N-212, N-220, N-452, N-597, N-598, N-10000, N-10011, N-10012, N-10015, N-10022, N-10024, N-10027, N-10029, N-10045, N-10060, N-10106, N-10113, N-10124, N-10136, N-10137, N-10146, N-10148, N-10194, N-10216, N-10255, N-10282, N-10293, N-10297, N-10214, N-10327, N-10332, N-10336, N-10405, N-10412, N-10415, N-10466, N-10494, N-10496, N-10501, N-10515, N-10567, N-10931, N-10972, N-10998, N-11046, N-11047, N-11049
  - New Nodes Introduced: N-10519
  - Hole-minted Nodes (wave3): N-397, N-408, N-409
  - Reused Nodes Appearing: N-1, N-2, N-272
@@ -402,6 +402,16 @@ Episode Count: 2
 Investigative Pressure: Low
 
 *Related: C-7649*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-7640, C-7621, C-7630, C-7653, C-7658*
 
 ---
 
@@ -1309,7 +1319,7 @@ Claim: Sheriff Brooksby stated Robinson's parents convinced him not to go to the
 
 Anchored Artifacts: A-1908.1
 Mentions: N-272, N-40
-Related Nodes: N-10021
+Related Nodes: N-10021, N-11360
 Investigative Direction: Cross-reference with subsequent reporting.
 
 ---
@@ -2186,7 +2196,7 @@ Transcript Snippet: Nate Brooksby was the guy that initially came out.
 
 Anchored Artifacts: 
 Mentions: N-272, N-40
-Related Nodes: N-10029
+Related Nodes: N-10029, N-11360
 Tags: relevance:core
 Investigative Direction: Check Brooksby's September 2025 press conferences and statements for his role and timing.
 
@@ -2320,7 +2330,7 @@ Transcript Snippet: And miraculously we have no footage of that day and I think 
 
 Anchored Artifacts: 
 Mentions: N-40, N-3
-Related Nodes: N-10255
+Related Nodes: N-10255, N-11360
 Supports: C-7402
 Tags: relevance:core
 Investigative Direction: Request the Washington County Sheriff's Office records on surveillance and body-camera footage for the surrender, and any retention policy explanation.
@@ -2647,7 +2657,7 @@ Transcript Snippet: He's the one that puts on the performance with Cash and says
 
 Anchored Artifacts: 
 Mentions: N-41, N-69, N-40, N-3
-Related Nodes: N-10021
+Related Nodes: N-10021, N-11360
 Supports: C-7656
 Tags: relevance:core
 Investigative Direction: Review the video of the Cox and Patel press conference for the exact language used on confession.
@@ -2680,7 +2690,7 @@ Transcript Snippet: never says that he signed a statement, never says that he sa
 
 Anchored Artifacts: 
 Mentions: N-272, N-40, N-775, N-3
-Related Nodes: N-10021
+Related Nodes: N-10021, N-11360
 Contradicts: C-7656
 Tags: relevance:core
 Investigative Direction: Compare to full transcripts of Brooksby's press conferences (C-3227, C-3229).

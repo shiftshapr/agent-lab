@@ -1553,11 +1553,11 @@
       "schema_org": "Thing"
     },
     {
-      "@type": "Topic",
+      "@type": "Event",
       "@id": "N-10002",
       "ref": "N-10002",
-      "name": "Charlie Kirk Death and Memorial",
-      "type": "topic",
+      "name": "Assassination of Charlie Kirk",
+      "type": "event",
       "description": "Topic reused: the memorial the host will not attend.",
       "related_artifacts": [],
       "related_claims": [
@@ -1570,7 +1570,10 @@
       "claim_count": 3,
       "episode_count": 1,
       "investigative_pressure": "high",
-      "schema_org": "Thing"
+      "schema_org": "Event",
+      "wikidata_class": "Q3882219",
+      "event_time": "2025-09-10",
+      "place": "N-10012"
     },
     {
       "@type": "Organization",
@@ -2025,6 +2028,28 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-529",
+        "C-530",
+        "C-537",
+        "C-539"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2175,7 +2200,8 @@
         "A-1124.1"
       ],
       "related_nodes": [
-        "N-10067"
+        "N-10067",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:24:46",
@@ -3150,8 +3176,8 @@
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10054",
-        "N-10002",
-        "N-10067"
+        "N-10067",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -3262,7 +3288,7 @@
       ],
       "related_nodes": [
         "N-10054",
-        "N-10002"
+        "N-11361"
       ],
       "tags": [
         "relevance:context"
@@ -3316,9 +3342,9 @@
       "claim": "The host says that while she is attacking the feds, not going to a public event that the feds are organizing is probably a very good idea, and says she gave a 0 percent chance of attending.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10002",
         "N-10054",
-        "N-10014"
+        "N-10014",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"

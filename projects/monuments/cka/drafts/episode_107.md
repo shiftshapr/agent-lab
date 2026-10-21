@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-9360–C-9488
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-3, N-7, N-208, N-341, N-342, N-10548, N-10568, N-9, N-224, N-10000, N-10006, N-10026, N-10060, N-10371, N-10551, N-10552, N-10564, N-10844, N-343, N-348, N-344, N-349, N-724, N-725, N-726
+  - Reused Nodes Appearing: N-11361, N-3, N-7, N-208, N-341, N-342, N-10548, N-10568, N-9, N-224, N-10000, N-10006, N-10026, N-10060, N-10371, N-10551, N-10552, N-10564, N-10844, N-343, N-348, N-344, N-349, N-724, N-725, N-726
   - Hole-minted Nodes (wave1): N-345, N-346, N-347
   - Tip-minted Nodes (wave1): N-10814
   - Wave 1 note: the original draft used protocol-example ids (claims 1000 to 1014, artifacts 1000 to 1007, person ids 8 to 26) that collide with the ep000 baseline; renumbered to C-9362..C-9454 and A-2505..A-2512. Persons and the topic minted into free holes are listed on the Hole-minted line (batch wave1); Victor Marx and Corby Hall were first introduced in ep92.
@@ -391,6 +391,16 @@ Subject of Marx's accounts of prayer, meeting at a California church, the fallin
 Subject of Marx's account of the text sent to her, her closeness with Eileen Marx, and the host's inference that she brought Marx into Charlie's orbit.
 
 *Related: C-9364, C-9429, C-9431, C-9439, C-9440, C-9444, C-9484, C-9485, C-9486, C-9487*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-9378*
 
 ---
 
@@ -1035,6 +1045,7 @@ Claim: The host says Marx announced his candidacy for governor of Colorado on Oc
 Transcript Snippet: he began teasing that run at memorial service for Charlie Kirk just 4 days after Charlie's death.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-341, N-1
 Supports: C-9160
 Investigative Direction: Check Marx's campaign filing date and the memorial service remarks.

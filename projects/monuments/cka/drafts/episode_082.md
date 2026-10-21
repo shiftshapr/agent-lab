@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep082): N-213, N-10567, N-10787
   - Tip-minted Nodes (reintro-ep082): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-550, N-10090, N-10144, N-10303, N-10316, N-10332, N-10336, N-10359, N-10360, N-10501, N-10502, N-10505, N-10932, N-10507, N-689, N-10638
+  - Reused Nodes Appearing: N-11360, N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-217, N-496, N-550, N-10090, N-10144, N-10303, N-10316, N-10332, N-10336, N-10359, N-10360, N-10501, N-10502, N-10505, N-10932, N-10507, N-689, N-10638
   - Claim Range: C-7344–C-7417
  - (see registers)
 
@@ -441,6 +441,16 @@ Subject of the assassination; discussed in the Kolvet clip, plane and weapon cla
 Widow and TPUSA CEO; the host questions her 9/10 whereabouts and accounts.
 
 *Related: C-7345, C-7346, C-7349, C-7350, C-7351, C-7353, C-7357, C-7358, C-7359, C-7388, C-7390, C-7391, C-7392, C-7406, C-7410, C-7412, C-7414, C-7416, C-7417*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-7398, C-7402*
 
 ---
 
@@ -1637,7 +1647,7 @@ Transcript Snippet: There's digital confessions, but also his parents are out th
 
 Anchored Artifacts: A-1893.1
 Mentions: N-159, N-14, N-40
-Related Nodes: N-10932
+Related Nodes: N-10932, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the charging documents describing the digital messages and any parental statements.
 
@@ -1685,7 +1695,7 @@ Transcript Snippet: He hasn't even been arraigned yet. He hasn't even pled guilt
 
 Anchored Artifacts: A-1893.1
 Mentions: N-3, N-40
-Related Nodes: N-10932
+Related Nodes: N-10932, N-11360
 Supports: C-4003, C-4293
 Tags: relevance:core
 Investigative Direction: Check the court docket for arraignment status and request the surrender recording.

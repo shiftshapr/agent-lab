@@ -95,7 +95,7 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - New Nodes Introduced: N-199, N-10192
-  - Reused Nodes Appearing: N-10193, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10044, N-10078, N-10134, N-10159, N-10328, N-10194, N-10300
+  - Reused Nodes Appearing: N-11361, N-10193, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-178, N-190, N-10025, N-10044, N-10078, N-10134, N-10159, N-10328, N-10194, N-10300
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131
 
 ---
@@ -463,6 +463,16 @@ Official whose inquiry the host urges to continue.
 Named in a viewer comment about the Wikipedia creator.
 
 *Related: C-1995*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-1963, C-1964*
 
 ---
 
@@ -962,6 +972,7 @@ Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a sto
 Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Brilyn Hollyhand?
 
 Anchored Artifacts: A-2819.1
+Related Nodes: N-11361
 Mentions: N-5, N-1, N-3, N-754
 Tags: relevance:context
 Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Brilyn Hollyhand to see who attended.
@@ -977,6 +988,7 @@ Claim: The host says Kash Patel showed his face at Charlie Kirk's memorial, and 
 Transcript Snippet: I would pass away right immediately from shame before I would show up to that event if I was Kash Patel.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-69, N-1
 Tags: relevance:context
 Investigative Direction: Check the memorial attendee list and event footage for Patel.

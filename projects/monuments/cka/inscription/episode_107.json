@@ -1429,6 +1429,25 @@
       "investigative_pressure": "high",
       "schema_org": "Thing",
       "parent": "N-10551"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-9378"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2025,7 +2044,9 @@
       "label": "Marx announced his candidacy on October 1 and teased it at Charlie Kirk's memorial",
       "claim": "The host says Marx announced his candidacy for governor of Colorado on October 1 and began teasing the run at the memorial service for Charlie Kirk four days after Charlie's death.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:05:19",
       "investigative_direction": "Check Marx's campaign filing date and the memorial service remarks.",

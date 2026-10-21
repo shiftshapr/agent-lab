@@ -1771,6 +1771,25 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "schema_org": "Question"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-10728"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -2521,7 +2540,8 @@
       "claim": "The host says Irina Mappin, married to John Mappin and fluent in Russian, told her in a private phone call that the odd thing about the memorial event was that everyone was speaking Russian, and that she was disturbed by how many Russian speakers were in the VIP area.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10977"
+        "N-10977",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:23:00",

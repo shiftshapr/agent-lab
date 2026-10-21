@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2260–C-2316
   - New Nodes Introduced: N-217, N-218, N-219, N-10209, N-10210, N-10211, N-10212
-  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10045, N-10070, N-10126, N-10303, N-220, N-10763, N-10821, N-11021, N-10186, N-10239, N-10929
+  - Reused Nodes Appearing: N-11361, N-36, N-37, N-40, N-66, N-10000, N-10012, N-10045, N-10070, N-10126, N-10303, N-220, N-10763, N-10821, N-11021, N-10186, N-10239, N-10929
   - (see registers)
 
 # Episode 25 Analysis – Bride of Charlie Investigation
@@ -509,6 +509,16 @@ Widow and TPUSA CEO; the host cites Milo on a fictionalized award report and the
 
 ---
 
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2260, C-2263, C-2262*
+
+---
+
 **N-3** Candace Owens
 
 Host; speaks for herself throughout.
@@ -724,7 +734,7 @@ Claim: The host says, in clips she plays, speakers at the memorial service and e
 Anchored Artifacts: A-1321.1
 Mentions: N-190, N-1
 
-Related Nodes: N-10186
+Related Nodes: N-10186, N-11361
 
 Investigative Direction: Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.
 
@@ -739,7 +749,7 @@ Claim: In a clip from the Faith Forward Show that the host plays, Rob McCoy refe
 Anchored Artifacts: A-1322.1
 Mentions: N-2, N-17, N-190, N-1
 
-Related Nodes: N-10186
+Related Nodes: N-10186, N-11361
 
 Investigative Direction: Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals.
 
@@ -918,7 +928,7 @@ Transcript Snippet: But it's also becoming pretty apparent to me that the stage 
 
 Anchored Artifacts: 
 Mentions: N-190, N-17, N-1, N-3
-Related Nodes: N-10186
+Related Nodes: N-10186, N-11361
 Supports: C-2260
 Tags: relevance:core
 Investigative Direction: Collect the memorial speeches and TPUSA announcements naming Mikey McCoy's future role and test whether the language was coordinated.

@@ -2195,6 +2195,29 @@
       "claim_count": 1,
       "episode_count": 2,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11360",
+      "ref": "N-11360",
+      "name": "Tyler Robinson arrest",
+      "type": "event",
+      "description": "Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-7640",
+        "C-7621",
+        "C-7630",
+        "C-7653",
+        "C-7658"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 12,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-11/2025-09-12"
     }
   ],
   "claims": [
@@ -2565,7 +2588,8 @@
         "A-1908.1"
       ],
       "related_nodes": [
-        "N-10021"
+        "N-10021",
+        "N-11360"
       ],
       "tags": [],
       "claim_timestamp": "00:36:15",
@@ -3774,7 +3798,8 @@
       "claim": "The host says Sheriff Nate Brooksby initially came out, and that it was to the Washington County Sheriff's Department that Tyler Robinson allegedly turned himself in.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10029"
+        "N-10029",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -3966,7 +3991,8 @@
       "claim": "The host says that miraculously there is no footage of that day and that she thinks the stated absence of footage serves the narrative that Robinson turned himself in and that his father thought he was guilty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10255"
+        "N-10255",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -4422,7 +4448,8 @@
       "claim": "The host says Governor Cox, performing with Kash Patel, said that Robinson turned himself in and confessed after 33 hours, and that this is where the story started.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10021"
+        "N-10021",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"
@@ -4472,7 +4499,8 @@
       "claim": "The host says that in his later account of the surrender Brooksby never says Robinson signed a statement, said he was guilty, or that his dad said he was guilty.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10021"
+        "N-10021",
+        "N-11360"
       ],
       "tags": [
         "relevance:core"

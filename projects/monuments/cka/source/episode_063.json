@@ -24,7 +24,7 @@
     "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
     "  - Claim Range: C-5600–C-5682",
     "  - New Nodes Introduced: N-495, N-10412, N-10413, N-10414",
-    "  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10189, N-10201, N-10203, N-10193, N-10318, N-10386, N-10392, N-10395, N-10408, N-10820, N-10952, N-767, N-10889, N-11044, N-11040",
+    "  - Reused Nodes Appearing: N-11361, N-2, N-14, N-15, N-22, N-27, N-186, N-190, N-217, N-270, N-470, N-10000, N-10001, N-10002, N-10189, N-10201, N-10203, N-10193, N-10318, N-10386, N-10392, N-10395, N-10408, N-10820, N-10952, N-767, N-10889, N-11044, N-11040",
     "  - (see registers)",
     "",
     "# Episode 63 – Analysis Record",
@@ -1579,6 +1579,43 @@
   },
   {
    "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-5617, C-5619, C-5613, C-5614, C-5615, C-5620, C-5623, C-5625, C-5682*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
    "id": "N-3",
    "header": "**N-3** Candace Owens",
    "label": "Candace Owens",
@@ -2253,8 +2290,8 @@
   {
    "kind": "node",
    "id": "N-10002",
-   "header": "**N-10002** Charlie Kirk Death and Memorial",
-   "label": "Charlie Kirk Death and Memorial",
+   "header": "**N-10002** Assassination of Charlie Kirk",
+   "label": "Assassination of Charlie Kirk",
    "lines": [
     {
      "raw": ""
@@ -2779,7 +2816,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10412"
+     "v": "N-10412, N-11361"
     },
     {
      "k": "Investigative Direction",
@@ -2810,6 +2847,10 @@
     {
      "k": "Anchored Artifacts",
      "v": "A-1676.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11361"
     },
     {
      "k": "Mentions",
@@ -3949,7 +3990,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10193, N-10002"
+     "v": "N-10193, N-11361"
     },
     {
      "k": "Tags",
@@ -4010,7 +4051,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10002"
+     "v": "N-11361"
     },
     {
      "k": "Tags",
@@ -4071,7 +4112,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10002"
+     "v": "N-11361"
     },
     {
      "k": "Tags",
@@ -4254,7 +4295,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10408"
+     "v": "N-10000, N-10408, N-11361"
     },
     {
      "k": "Tags",
@@ -4376,7 +4417,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000, N-10002"
+     "v": "N-10000, N-11361"
     },
     {
      "k": "Tags",
@@ -4437,7 +4478,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10000"
+     "v": "N-10000, N-11361"
     },
     {
      "k": "Tags",
@@ -7463,7 +7504,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10002"
+     "v": "N-11361"
     },
     {
      "k": "Tags",

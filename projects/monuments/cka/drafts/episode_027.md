@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2407–C-2490
   - New Nodes Introduced: N-227, N-229, N-230, N-231, N-232, N-233, N-10216, N-10218, N-10219, N-10220, N-10221, N-10222
-  - Reused Nodes Appearing: N-3, N-99, N-10217, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10052, N-10100, N-10127, N-10168, N-10201, N-10211, N-10239, N-10300, N-10316, N-11016, N-11022, N-228, N-10625, N-11087
+  - Reused Nodes Appearing: N-11361, N-3, N-99, N-10217, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-163, N-181, N-130, N-10006, N-10012, N-10013, N-10014, N-10052, N-10100, N-10127, N-10168, N-10201, N-10211, N-10239, N-10300, N-10316, N-11016, N-11022, N-228, N-10625, N-11087
   - (see registers)
 
 # Episode 27 Analysis Record
@@ -606,6 +606,16 @@ Episode Count: 1
 Investigative Pressure: Low
 
 *Related: A-1354.1, N-2*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2416, C-2469*
 
 ---
 
@@ -1397,6 +1407,7 @@ Claim: The host says the memorial event was 10 or 11 days after the assassinatio
 Transcript Snippet: Nine days after he was assassinated. Oh, sorry, the 21st. Mansplained in my ear.
 
 Anchored Artifacts: 
+Related Nodes: N-11361
 Mentions: N-3, N-1, N-67
 Tags: relevance:context
 Investigative Direction: Confirm the memorial service date; the host's arithmetic of nine days does not match the 21st if the shooting was September 10, so check against the official date.
@@ -2019,7 +2030,7 @@ Transcript Snippet: They were selling like T-shirts at the memorial event, like 
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
-Related Nodes: N-10000, N-10934
+Related Nodes: N-10000, N-10934, N-11361
 Tags: relevance:context
 Investigative Direction: Find photos or reporting of merchandise sales at the State Farm Stadium memorial.
 

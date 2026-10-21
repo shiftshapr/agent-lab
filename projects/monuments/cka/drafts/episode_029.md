@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-2558–C-2639
   - New Nodes Introduced: N-236, N-238, N-239, N-240, N-241, N-242, N-243, N-244, N-245, N-10226, N-10227, N-10228
-  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10060, N-10075, N-10106, N-10127, N-10144, N-10188, N-10201, N-10202, N-10211, N-10218, N-10224, N-10239, N-10300, N-10371, N-10379, N-10763, N-11017, N-11075, N-11087, N-237, N-10405, N-10416, N-11074, N-10404
+  - Reused Nodes Appearing: N-11361, N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-205, N-229, N-234, N-10000, N-10024, N-10060, N-10075, N-10106, N-10127, N-10144, N-10188, N-10201, N-10202, N-10211, N-10218, N-10224, N-10239, N-10300, N-10371, N-10379, N-10763, N-11017, N-11075, N-11087, N-237, N-10405, N-10416, N-11074, N-10404
   - (see registers)
 
 # Episode 29 Analysis – Bride of Charlie / Monument Ep 29
@@ -290,6 +290,16 @@ Confidence Level: Medium
 Subject of the assassination; the host speaks of his interest in the Seven Mountain Mandate, his funding questions and his shooting.
 
 *Related: C-2561, C-2563, C-2569, C-2577, C-2584, C-2585, C-2587, C-2605, C-2613, C-2614, C-2615, C-2624, C-2627, C-2630, C-2631, C-2633, C-2634, C-2638*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-2585*
 
 ---
 
@@ -1416,7 +1426,7 @@ Transcript Snippet: She said, "When did Turning Point become so faith-focused?"
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Related Nodes: N-10371, N-10000
+Related Nodes: N-10371, N-10000, N-11361
 Tags: relevance:core
 Investigative Direction: Compare Turning Point event agendas over time and identify when faith programming expanded.
 

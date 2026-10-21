@@ -40,7 +40,7 @@
     "- **Ledger continuation summary:**",
     "  - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061",
     "  - New Nodes Introduced: N-10599, N-10600, N-10601",
-    "  - Reused Nodes Appearing: N-375, N-10604, N-130, N-10603, N-374, N-373, N-430, N-5, N-15, N-22, N-31, N-40, N-46, N-159, N-226, N-253, N-261, N-266, N-270, N-486, N-707, N-891, N-10027, N-10106, N-10143, N-10162, N-10179, N-10190, N-10282, N-10287, N-10318, N-10320, N-10379, N-10388, N-10389, N-10425, N-10458, N-10593, N-10595, N-10821, N-10831, N-10835, N-11039, N-11137, N-11174, N-10602, N-10605, N-10657, N-11267",
+    "  - Reused Nodes Appearing: N-11361, N-375, N-10604, N-130, N-10603, N-374, N-373, N-430, N-5, N-15, N-22, N-31, N-40, N-46, N-159, N-226, N-253, N-261, N-266, N-270, N-486, N-707, N-891, N-10027, N-10106, N-10143, N-10162, N-10179, N-10190, N-10282, N-10287, N-10318, N-10320, N-10379, N-10388, N-10389, N-10425, N-10458, N-10593, N-10595, N-10821, N-10831, N-10835, N-11039, N-11137, N-11174, N-10602, N-10605, N-10657, N-11267",
     "  - Hole-minted Nodes (wave2): N-376",
     "  - Tip-minted Nodes (wave2): N-10822",
     "  - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump",
@@ -1995,6 +1995,43 @@
     },
     {
      "raw": "*Related: A-2061.1, C-8906, Andrew Kolvet (existing node), N-1 (Charlie Kirk), N-2 (Erika Kirk)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11361",
+   "header": "**N-11361** Charlie Kirk memorial service",
+   "label": "Charlie Kirk memorial service",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Event"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event",
+     "v": "the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8876*"
     },
     {
      "raw": ""
@@ -4847,7 +4884,7 @@
     },
     {
      "k": "Related Nodes",
-     "v": "N-10599, N-10604"
+     "v": "N-10599, N-10604, N-11361"
     },
     {
      "raw": ""

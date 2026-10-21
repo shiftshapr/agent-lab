@@ -1859,6 +1859,29 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "schema_org": "Thing"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-585",
+        "C-645",
+        "C-584",
+        "C-587",
+        "C-647"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -1872,7 +1895,9 @@
         "A-1134.1",
         "A-1134.2"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [],
       "claim_timestamp": "00:02:05",
       "investigative_direction": "Verify the full text/transcript of Erika's speech against published recording.",
@@ -2215,7 +2240,8 @@
         "A-1145.2"
       ],
       "related_nodes": [
-        "N-10087"
+        "N-10087",
+        "N-11361"
       ],
       "tags": [],
       "claim_timestamp": "00:54:58",
@@ -2290,7 +2316,9 @@
       "label": "Host tweeted Erika Kirk's memorial speech was the most consequential in American history",
       "claim": "The host says she tweeted, and meant seriously, that Erika Kirk's speech at the memorial was the most consequential speech in American history.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -2331,7 +2359,9 @@
       "anchored_artifacts": [
         "A-1134.1"
       ],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:context"
       ],
@@ -3265,7 +3295,8 @@
       "claim": "The host says she was not invited to speak at the memorial and mocks the Daily Mail's account, sarcastically saying that, as the Daily Mail pointed out, she raged about it and threw her toys out of the pram.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-10067"
+        "N-10067",
+        "N-11361"
       ],
       "tags": [
         "relevance:context"

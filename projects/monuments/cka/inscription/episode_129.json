@@ -1855,6 +1855,26 @@
       "investigative_pressure": "high",
       "schema_org": "Organization",
       "wikidata_class": "Q43229"
+    },
+    {
+      "@type": "Event",
+      "@id": "N-11361",
+      "ref": "N-11361",
+      "name": "Charlie Kirk memorial service",
+      "type": "event",
+      "description": "Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-11127",
+        "C-11128"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 36,
+      "investigative_pressure": "medium",
+      "schema_org": "Event",
+      "event_time": "2025-09-21"
     }
   ],
   "claims": [
@@ -3489,7 +3509,9 @@
       "label": "Host Says Erika Walked Out in a White Pantsuit With Sparklers at the Memorial",
       "claim": "The host says Erika walked out in a white pantsuit with sparklers behind her at the memorial, which the host describes as the moment she got the spotlight she wanted.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:core"
       ],
@@ -3507,7 +3529,9 @@
       "label": "Host Says Erika and Others Clinked Glasses and Celebrated at a Restaurant After the Memorial",
       "claim": "The host says Erika and the group clinked glasses, went to a restaurant and celebrated after the memorial, and that she has never seen such glee in photos of people at the memorial.",
       "anchored_artifacts": [],
-      "related_nodes": [],
+      "related_nodes": [
+        "N-11361"
+      ],
       "tags": [
         "relevance:core"
       ],

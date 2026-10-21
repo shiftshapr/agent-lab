@@ -17,7 +17,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6245–C-6314
   - New Nodes Introduced: N-550, N-10457
-  - Reused Nodes Appearing: N-10239, N-10456, N-10280, N-10458, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-186, N-270, N-312, N-10000, N-10004, N-10018, N-10026, N-10027, N-10072, N-10113, N-10117, N-10252, N-10272, N-10297, N-10298, N-10318, N-10320, N-10359, N-10395, N-10415, N-10425, N-10449, N-10502, N-10503, N-10826, N-10956, N-11102, N-10730
+  - Reused Nodes Appearing: N-11361, N-10239, N-10456, N-10280, N-10458, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-186, N-270, N-312, N-10000, N-10004, N-10018, N-10026, N-10027, N-10072, N-10113, N-10117, N-10252, N-10272, N-10297, N-10298, N-10318, N-10320, N-10359, N-10395, N-10415, N-10425, N-10449, N-10502, N-10503, N-10826, N-10956, N-11102, N-10730
   - (see registers)
 
 ## 2. Executive Summary
@@ -431,6 +431,16 @@ Subject of the assassination; the host recounts his private messages, meetings a
 Widow and TPUSA CEO; the open letter addresses her accounts of September 10, Pierre and the Hamptons dinner.
 
 *Related: C-6247, C-6248, C-6253, C-6255, C-6256, C-6257, C-6258, C-6261, C-6262, C-6264, C-6266, C-6267, C-6274, C-6275, C-6276, C-6277, C-6278, C-6282, C-6283, C-6285, C-6286, C-6294, C-6303, C-6311, C-6312*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-6289*
 
 ---
 
@@ -1540,7 +1550,7 @@ Transcript Snippet: My phone received hundreds of phone calls on September 10th,
 
 Anchored Artifacts: A-1747.1
 Mentions: N-550
-Related Nodes: N-10000
+Related Nodes: N-10000, N-11361
 Tags: relevance:context
 Investigative Direction: Corroborate Laitsch's workload with TPUSA staff and press-office call logs, which she could produce.
 

@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range: C-6900–C-6969
   - New Nodes Introduced: N-572, N-574, N-575, N-576, N-577, N-10482, N-10485
-  - Reused Nodes Appearing: N-2, N-11, N-3, N-573, N-10486, N-10462, N-10483, N-10484, N-55, N-97, N-278, N-489, N-520, N-568, N-735, N-10000, N-10368, N-10374, N-10404, N-10478, N-10481, N-10843, N-10850, N-11022, N-11028, N-11081, N-11082, N-11087, N-11164
+  - Reused Nodes Appearing: N-11361, N-2, N-11, N-3, N-573, N-10486, N-10462, N-10483, N-10484, N-55, N-97, N-278, N-489, N-520, N-568, N-735, N-10000, N-10368, N-10374, N-10404, N-10478, N-10481, N-10843, N-10850, N-11022, N-11028, N-11081, N-11082, N-11087, N-11164
   - (see registers)
 
 ---
@@ -508,6 +508,16 @@ Real estate company the host says Allan Rothstein chaired.
 Widow and TPUSA CEO; the host adds Next Model, real-estate, Romania and plate-money claims.
 
 *Related: C-6900, C-6907, C-6909, C-6910, C-6911, C-6912, C-6914, C-6915, C-6916, C-6917, C-6918, C-6921, C-6923, C-6924, C-6925, C-6930, C-6931, C-6933, C-6934, C-6936, C-6945, C-6960, C-6963, C-6964*
+
+---
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-6956*
 
 ---
 
@@ -1646,7 +1656,7 @@ Transcript Snippet: the only time in Arizona history that we filled two professi
 
 Anchored Artifacts: A-1831.1
 Mentions: N-575, N-1
-Related Nodes: N-10485
+Related Nodes: N-10485, N-11361
 Tags: relevance:context
 Investigative Direction: Check attendance reports for State Farm Stadium and the second venue on the memorial date.
 

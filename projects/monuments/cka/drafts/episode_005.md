@@ -15,6 +15,7 @@
 - **Transcript SHA-256**: b704370251f8857dac366787278287738cc424dfb3e336d044bdb3646f0f1310
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (wave4-events): N-11361
   - Tip-minted Nodes (supplement_2026-10f): N-11233, N-11234
   - Hole-minted Nodes (reintro-ep005): N-10067, N-10085, N-10119, N-10254, N-10498
   - Tip-minted Nodes (reintro-ep005): N-11017
@@ -22,7 +23,7 @@
   - Claim Range: C-391–C-498
   - Artifact Families Introduced: A-1111, A-1112, A-1113, A-1114, A-1115, A-1116, A-1117, A-1118, A-1119, A-2517
   - New Nodes Introduced: N-72, N-73, N-74, N-75, N-76, N-77, N-78, N-79, N-80, N-81, N-10045, N-10046, N-10047, N-10048, N-10049, N-10050, N-10051, N-10052, N-10054, N-10055, N-10056, N-10057, N-10058, N-10060, N-10061
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-10000, N-10011, N-10012, N-10026, N-10027, N-54, N-10059, N-10053, N-5, N-39, N-41, N-43, N-46, N-50, N-10002, N-10003, N-10008, N-10016, N-10018, N-10019, N-10025, N-10032, N-10035, N-10036, N-10252, N-10819, N-82, N-10074, N-10129, N-10425
+  - Reused Nodes Appearing: N-11360, N-1, N-2, N-3, N-14, N-22, N-36, N-37, N-40, N-10000, N-10011, N-10012, N-10026, N-10027, N-54, N-10059, N-10053, N-5, N-39, N-41, N-43, N-46, N-50, N-10002, N-10003, N-10008, N-10016, N-10018, N-10019, N-10025, N-10032, N-10035, N-10036, N-10252, N-10819, N-82, N-10074, N-10129, N-10425
 
 ## 2. Executive Summary
 
@@ -204,6 +205,26 @@ Confidence Level: High
 ---
 
 ## 4. Node Register
+
+**N-11361** Charlie Kirk memorial service
+
+Node Type: Event
+
+Event: the public memorial service for Charlie Kirk on 2025-09-21, with the funeral and related memorial events.
+
+*Related: C-480, C-477, C-489*
+
+---
+
+**N-11360** Tyler Robinson arrest
+
+Node Type: Event
+
+Event: Tyler Robinson's surrender and arrest on 2025-09-11/12.
+
+*Related: C-421*
+
+---
 
 **N-3** Candace Owens
 
@@ -633,7 +654,7 @@ A source's report relayed by the host that Tyler Robinson was seen dropping clot
 
 ---
 
-**N-10002** Charlie Kirk Death and Memorial
+**N-10002** Assassination of Charlie Kirk
 
 Existing topic reused for the Arizona memorial claims.
 
@@ -1079,7 +1100,7 @@ Claim: The host says, sarcastically, that she was not invited to speak alongside
 Transcript Snippet: I was not invited to speak alongside President Trump and JD Vance on the stage.
 Anchored Artifacts: 
 Mentions: N-3, N-5, N-22
-Related Nodes: N-10054
+Related Nodes: N-10054, N-11361
 Confidence: medium
 Investigative Direction: Verify published speaker list for the Arizona memorial event.
 
@@ -1531,7 +1552,7 @@ Transcript Snippet: There are 33 hours should have been 900 p. m. uh is when Tyl
 
 Anchored Artifacts: A-1113.1
 Mentions: N-74, N-40
-Related Nodes: N-10047
+Related Nodes: N-10047, N-11360
 Tags: relevance:core
 Investigative Direction: Obtain the sheriff's and court record of the surrender time and compare with the BBC witness account.
 
@@ -2279,7 +2300,7 @@ Transcript Snippet: I I would hope she's in full control, but I don't know becau
 
 Anchored Artifacts: 
 Mentions: N-2, N-3
-Related Nodes: N-10002, N-10054, N-10035
+Related Nodes: N-10054, N-10035, N-11361
 Tags: relevance:core
 Investigative Direction: Obtain the memorial planning communications and ask TPUSA who made the speaker decisions.
 
@@ -2458,7 +2479,7 @@ Transcript Snippet: in large part, from what I understand, being controlled by t
 
 Anchored Artifacts: 
 Mentions: N-3
-Related Nodes: N-10002, N-10054
+Related Nodes: N-10054, N-11361
 Tags: relevance:core
 Investigative Direction: Ask TPUSA and the White House who set the speaker list for the event.
 
