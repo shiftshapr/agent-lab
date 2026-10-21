@@ -1,0 +1,8328 @@
+{
+ "format": "cka-source/1",
+ "episode": 160,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 160",
+    "- **Monument**: cka",
+    "- **CKA seq**: 160",
+    "- **YouTube id**: ms5ChhZegRg",
+    "- **Candace Ep**: 397",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00-00:58:52",
+    "- **Extraction Timestamp (UTC)**: 2026-10-06T18:30:00Z",
+    "- **Transcript SHA-256**: 24d90a160bd049729eeb3c14c85fbb5fb98847e2f37c82b3d1ec5cd543177375",
+    "- **Model Version**: grok-manual-extract-seq160",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10c): N-11213, N-11214, N-11216",
+    "  - Claim Range: C-13829–C-13890",
+    "  - New Nodes Introduced: N-10874, N-10875, N-10876, N-10877, N-10878, N-10879",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-14, N-68, N-69, N-82, N-85, N-130, N-208, N-266, N-270, N-271, N-330, N-366, N-10324, N-10559, N-10666, N-10687, N-10699, N-10737, N-10839, N-10859, N-10867, N-10872, N-8, N-10, N-25, N-213, N-226, N-58, N-40, N-47, N-60, N-281, N-10000, N-10015, N-10026, N-10056, N-10064, N-10074, N-10082, N-10083, N-10110, N-10243, N-10646, N-10730, N-10885, N-10887, N-10888, N-10898, N-11020, N-11087, N-11096, N-11103, N-165, N-225, N-194, N-832, N-833, N-202, N-11215",
+    "  - Hole-minted Nodes (seq160): N-172, N-177, N-206, N-262",
+    "  - (see registers)",
+    "  - Person band: new persons at N-165 and above. No person id in the topic band (one thousand through nine thousand nine hundred ninety-nine). Mark Herman (show director) does not appear by name in this episode; N-67 not cited. Sponsor reads (PreBorn, Beekeepers Naturals, PureTalk, Nimi, American Financing) treated as non-claim.",
+    "",
+    "# Episode 160 Analysis",
+    "",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "Episode 397 opens by framing a new Candace smear package the host nicknames Candyland: a Lisa Nose X post alleging eight illegal nannies under NDA in a second Nashville mansion, attributed originally to Jessica Reed Kraus, which the host satirizes as the latest failed character attack. She then argues a broader distraction SCOP is underway, cycling narratives (dead-internet feel) because Charlie Kirk remains unresolved: she cites Las Vegas 2017 vanishing within five days under MeToo/Harvey Weinstein coverage, then Nick Shirley's Somali-daycare scoop (and Shirley as last Charlie Kirk Show guest, booked by Andrew Kolvet) as a failed distraction, then a killer-mom / Lindsay Clancy / Nancy Mace / New York Post / Libs of TikTok filicide panic that she says neocons link to women who distrust Erika Kirk, aimed at regulating the internet after bots failed.",
+    "",
+    "The core UVU beat: the independent review names a Station 2 fire captain who assisted CPR at Timpanogos Hospital but leaves him unnamed, while naming non-participants Caleb Chilcutt and Maycee Crofts. Host plays 911 audio (ladder 33 / engine 34 redirected ~12:30) and stresses that neither Frank Turek nor Brian Harpole ever mentioned a fire captain giving CPR. Frank Turek on Brandon Tatum's podcast then doubles down that Jeff Long \"had the roofs,\" citing a Dan Flood text, after the review's release. Closing thirds cover banker whistleblower Simon Andriesz's reported death after flagging Howard Lutnick's Epstein ties and a 2018 email/startup claim (BBC), Zach Bryan's Free Palestine shirts and Gillette Stadium attendance-record nights after Robert Kraft canceled Macklemore, Baron Coleman under X attack after being announced as guest host during Candace's maternity leave, and comments revisiting Brian Cole Jr., Schuyler, Brigitte/France, and smear economics promised for the next show.",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2474",
+   "header": "**A-2474** Candyland Illegal-Nanny Mansion Rumor Bundle",
+   "label": "Candyland Illegal-Nanny Mansion Rumor Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2474.1",
+   "header": "**A-2474.1** Host read of Lisa Nose X post alleging Candace houses two nannies per child (eight total) in a second mansion, hires illegals via an \"elite Jewish nanny agency,\" underpays them, and binds them with NDAs; Nose credits Jessica Reed Kraus House Inhabit as original reporter and claims three-source confirmation.",
+   "label": "Host read of Lisa Nose X post alleging Candace houses two nannies per child (eight total) in a second mansion, hires illegals via an \"elite Jewish nanny agency,\" underpays them, and binds them with NDAs; Nose credits Jessica Reed Kraus House Inhabit as original reporter and claims three-source confirmation.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (tweet as read on air); Low (underlying rumor truth)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13830, N-10875, N-3, N-262*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2475",
+   "header": "**A-2475** Killer-Mom Filicide Narrative SCOP Bundle",
+   "label": "Killer-Mom Filicide Narrative SCOP Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2475.1",
+   "header": "**A-2475.1** Host montage of Nancy Mace clips/tweets, New York Post mother-killer headlines, and Libs of TikTok posts framing filicide as an epidemic, including Mace's on-camera lines about moms killing kids and tweets citing Christopher Petray / Tanisha Lache Jones cases.",
+   "label": "Host montage of Nancy Mace clips/tweets, New York Post mother-killer headlines, and Libs of TikTok posts framing filicide as an epidemic, including Mace's on-camera lines about moms killing kids and tweets citing Christopher Petray / Tanisha Lache Jones cases.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clips/tweets as shown); Medium (intent framing)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13837, C-13845, N-10876, N-202, N-206*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2476",
+   "header": "**A-2476** UVU Independent Review Fire-Captain CPR + 911 Dispatch Bundle",
+   "label": "UVU Independent Review Fire-Captain CPR + 911 Dispatch Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2476.1",
+   "header": "**A-2476.1** Host read of UVU independent-review passage: Station 3 radioed the TPUSA SUV; Station 2 rerouted to Timpanogos; \"the fire captain from station 2 assisted in providing CPR to Charlie Kirk at the hospital.\" Host notes the captain is unnamed while Caleb Chilcutt and Maycee Crofts are named.",
+   "label": "Host read of UVU independent-review passage: Station 3 radioed the TPUSA SUV; Station 2 rerouted to Timpanogos; \"the fire captain from station 2 assisted in providing CPR to Charlie Kirk at the hospital.\" Host notes the captain is unnamed while Caleb Chilcutt and Maycee Crofts are named.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:48"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (review text as read)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, C-13853, N-10874, N-10839, N-1, N-8, N-10*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2476.2",
+   "header": "**A-2476.2** Host-played 911 / fire dispatch audio: ladder 33 and engine 34 redirected toward Timpanogos around 12:30 p.m.; prior radio describes black SUV northbound with a person hanging out of the vehicle.",
+   "label": "Host-played 911 / fire dispatch audio: ladder 33 and engine 34 redirected toward Timpanogos around 12:30 p.m.; prior radio describes black SUV northbound with a person hanging out of the vehicle.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:27:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium-High (audio as played; subtitle ASR uncertain)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13859, N-10874, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2477",
+   "header": "**A-2477** Frank Turek Brandon Tatum Podcast / Jeff Long Roofs Bundle",
+   "label": "Frank Turek Brandon Tatum Podcast / Jeff Long Roofs Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2477.1",
+   "header": "**A-2477.1** Clip of Frank Turek on Brandon Tatum's podcast recounting a March 2026 UVU confrontation with Chief Jeff Long; Turek says Dan Flood showed him a \"I got you covered\" roofs text (then quietly corrects timing to days after the hospital), and insists Long still owed roof coverage post-Butler.",
+   "label": "Clip of Frank Turek on Brandon Tatum's podcast recounting a March 2026 UVU confrontation with Chief Jeff Long; Turek says Dan Flood showed him a \"I got you covered\" roofs text (then quietly corrects timing to days after the hospital), and insists Long still owed roof coverage post-Butler.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:11"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip as aired)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13867, N-7, N-271, N-270, N-58, N-10839*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2478",
+   "header": "**A-2478** Simon Andriesz / Howard Lutnick Epstein Whistleblower Death Bundle",
+   "label": "Simon Andriesz / Howard Lutnick Epstein Whistleblower Death Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2478.1",
+   "header": "**A-2478.1** Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andriesz dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a startup and claims Lutnick visited Epstein's island / temple structure; Lutnick is now U.S. Commerce Secretary.",
+   "label": "Host read of headline and BBC-attributed account: former BGC Group managing director Simon Andriesz dies after flagging Howard Lutnick links to Epstein, including an alleged 2018 email chain about a startup and claims Lutnick visited Epstein's island / temple structure; Lutnick is now U.S. Commerce Secretary.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (as attributed to BBC/headline; suicide circumstances unverified here)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, C-13875, N-10877, N-165, N-172, N-9, N-10324*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2479",
+   "header": "**A-2479** Zach Bryan Free Palestine Gillette Stadium Bundle",
+   "label": "Zach Bryan Free Palestine Gillette Stadium Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2479.1",
+   "header": "**A-2479.1** Host account that after Robert Kraft canceled Macklemore for a Free Palestine stage remark at Kraft's Gillette Stadium, scheduled shows were weather-canceled, then Zach Bryan performed two nights in Free Palestine shirts (band likewise) and broke the stadium attendance record previously held by Ed Sheeran.",
+   "label": "Host account that after Robert Kraft canceled Macklemore for a Free Palestine stage remark at Kraft's Gillette Stadium, scheduled shows were weather-canceled, then Zach Bryan performed two nights in Free Palestine shirts (band likewise) and broke the stadium attendance record previously held by Ed Sheeran.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium-High (as narrated; verify attendance figures independently)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13881, N-10878, N-177, N-194*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2480",
+   "header": "**A-2480** Baron Coleman Pre-Host X Attack Bundle",
+   "label": "Baron Coleman Pre-Host X Attack Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2480.1",
+   "header": "**A-2480.1** Host description of trending criticism (\"Baron Coleman faces online criticism before guest spot on Candace Owens\") after she announced Coleman would cover her show during maternity leave; she frames digs into old interviews as an attempt to get him dropped.",
+   "label": "Host description of trending criticism (\"Baron Coleman faces online criticism before guest spot on Candace Owens\") after she announced Coleman would cover her show during maternity leave; she frames digs into old interviews as an attempt to get him dropped.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (trend/headline as characterized on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13884, N-10879, N-330, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2496",
+   "header": "**A-2496** CIA / DIA Merch Plug Bundle",
+   "label": "CIA / DIA Merch Plug Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2496.1",
+   "header": "**A-2496.1** On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "label": "On-air CIA hat / Candace Intelligence Agency merch plug (verbally referenced; treat as host-presented merch beat).",
+   "lines": [
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:32"
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um..."
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": "*Related: C-13890, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2995",
+   "header": "**A-2995** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2995.1",
+   "header": "**A-2995.1** Host verbal call for tips on the identity of the fire captain at moretips@candaceowens.com",
+   "label": "Host verbal call for tips on the identity of the fire captain at moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Email us at more tips@canniswowens. com if you know the answer\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13861, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2996",
+   "header": "**A-2996** Unfollow Text Messages Bundle",
+   "label": "Unfollow Text Messages Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2996.1",
+   "header": "**A-2996.1** Host verbal reference to text messages and receipts about when she unfollowed everybody, tied to a book announcement (not shown)",
+   "label": "Host verbal reference to text messages and receipts about when she unfollowed everybody, tied to a book announcement (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13888, N-3, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2997",
+   "header": "**A-2997** Smear Economics Article Bundle",
+   "label": "Smear Economics Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2997.1",
+   "header": "**A-2997.1** Host verbal reference to an article her producer found about the economics behind smearing people (not shown)",
+   "label": "Host verbal reference to an article her producer found about the economics behind smearing people (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13885, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of UVU review CPR/fire-captain questions, Turek/Harpole conflict, and host thesis that unresolved assassination drives distraction SCOPs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, C-13853, C-13859, A-2476.1, A-2476.2, N-10874*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced as the widow whose grief performance women distrusted early; host says killer-mom SCOP is aimed at women who question her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13837, N-10876*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; target of Candyland nanny/NDA mansion rumor; announces maternity leave and Baron Coleman guest-hosting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13830, C-13884, A-2474.1, N-10875*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced regarding Epstein files non-release and prior pressure to move on; host ties Lutnick story to that reluctance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, N-10324, N-165*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Prior CPR-in-car claim; on Brandon Tatum podcast doubles down that Jeff Long had the roofs after the UVU review; never mentions fire-captain CPR in host's recounting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13853, C-13867, A-2477.1, N-10687, N-10737*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Nucleus of Lutnick/Andre whistleblower thread and host's broader files thesis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, C-13875, N-10324, N-10877*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says Kolvet (who runs Charlie's Twitter) picked Nick Shirley as last guest on the Charlie Kirk Show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13836, N-213*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-68",
+   "header": "**N-68** Schuyler",
+   "label": "Schuyler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Producer; host asks in comments to cover \"data Republican\" resignation later (\"Skylar\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in comments*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in comments as part of FBI corruption critique alongside Dan Bongino."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in comments*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Comments return to France/Brigitte as origin-of-ties theme."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in comments*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-85",
+   "header": "**N-85** Pam Bondi",
+   "label": "Pam Bondi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host cites Bondi saying Epstein-file release would cause global economic catastrophe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, N-10324*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-130",
+   "header": "**N-130** Ian Carroll",
+   "label": "Ian Carroll",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Credited for Las Vegas 2017 conspiracy research the host points viewers toward."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13834*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-208",
+   "header": "**N-208** Jack Hibbs",
+   "label": "Jack Hibbs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13853, N-7*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Security lead whose long hospital story (no CPR in car) conflicts with Turek and with the review's fire-captain CPR."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13853, N-10699, N-10737*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13867, A-2477.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-271",
+   "header": "**N-271** Jeff Long",
+   "label": "Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "UVU police chief; Turek recounts Long saying he was thrown under the bus and arguing only the bridge roof was covered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13867, A-2477.1, N-10839*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13884, A-2480.1, N-10879*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mentioned in a viewer comment the host answers dismissively."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: prose mention in comments*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-8",
+   "header": "**N-8** Maycee Crofts",
+   "label": "Maycee Crofts",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "k": "Named in UVU review (host",
+     "v": "headquarters) despite non-participation contrast the host draws with the unnamed fire captain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, A-2476.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10",
+   "header": "**N-10** Caleb Chilcutt",
+   "label": "Caleb Chilcutt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "UVU TPUSA chapter president named in the review though (per host) he did not want to participate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, A-2476.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-25",
+   "header": "**N-25** Brian Cole Jr.",
+   "label": "Brian Cole Jr.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Comments revisit coerced-confession / autistic-suspect framing from prior episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10872, prose in comments*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10324",
+   "header": "**N-10324** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused topic for Lutnick/Andre death and Bondi catastrophe framing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, C-13875, N-10877*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10559",
+   "header": "**N-10559** Nick Shirley Background Verification",
+   "label": "Nick Shirley Background Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Prior Shirley topic; this episode revisits Shirley as last Charlie Kirk Show guest and failed daycare distraction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13836, N-213, N-10666*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10666",
+   "header": "**N-10666** Nick Shirley Background and Backing Verification",
+   "label": "Nick Shirley Background and Backing Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Companion Shirley investigation target reused with C-13836."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13836, N-213*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10687",
+   "header": "**N-10687** Frank Turek CPR Claim Verification",
+   "label": "Frank Turek CPR Claim Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Prior CPR-claim topic; host restates Turek's back-seat CPR story against Harpole and the unnamed captain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13853, N-7*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10699",
+   "header": "**N-10699** Brian Harpole vs Frank Turek CPR Contradiction",
+   "label": "Brian Harpole vs Frank Turek CPR Contradiction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Prior contradiction topic continued by fire-captain omission."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13853, N-266, N-7*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10737",
+   "header": "**N-10737** CPR Narrative Contradiction (Turek / Harpole)",
+   "label": "CPR Narrative Contradiction (Turek / Harpole)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Broader CPR-contradiction topic; fire-captain redaction is the new pressure point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13853, N-10874*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10839",
+   "header": "**N-10839** Independent Review of UVU Security Failures",
+   "label": "Independent Review of UVU Security Failures",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Central document for unnamed Station 2 fire captain and for Turek's continued roofs claim after release."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, C-13867, A-2476.1, N-10874*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10859",
+   "header": "**N-10859** TPUSA Non-Participation in UVU Independent Review",
+   "label": "TPUSA Non-Participation in UVU Independent Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Background for host's point that the review still named TPUSA figures who did not want to participate."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, N-8, N-10*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10867",
+   "header": "**N-10867** Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+   "label": "Candace Smear Narrative Flip (Lesbian / Secret-Zionist Package)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Prior smear-package topic; Candyland nanny rumor is the next flip the host satirizes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13830, N-10875*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10872",
+   "header": "**N-10872** Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+   "label": "Brian Cole Jr J6 Pipe-Bomb Patsy / Coerced Confession",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused in comments; host teases further dots next episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(series-level)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(series-level)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-25*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10874",
+   "header": "**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction",
+   "label": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "Station 2 fire captain who (per review) gave CPR at Timpanogos is unnamed; host seeks identity via tips and plays corroborating dispatch audio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13858, C-13853, C-13859, A-2476.1, A-2476.2, N-10839, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10875",
+   "header": "**N-10875** Candyland Illegal-Nanny Mansion NDA Smear",
+   "label": "Candyland Illegal-Nanny Mansion NDA Smear",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "Lisa Nose / Jessica Reed Kraus rumor that Candace warehouses illegal nannies under NDA in a second mansion; host brands the fantasy series Candyland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13830, A-2474.1, N-3, N-262, N-10867*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10876",
+   "header": "**N-10876** Killer-Mom Filicide Narrative as Internet-Regulation SCOP",
+   "label": "Killer-Mom Filicide Narrative as Internet-Regulation SCOP",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "Clancy-seeded, Mace/NY Post/Libs-amplified filicide panic that host says lacks statistical basis and aims to regulate women online after Charlie-case bots failed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13837, C-13845, A-2475.1, N-202, N-206, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10877",
+   "header": "**N-10877** Howard Lutnick / Simon Andriesz Epstein Whistleblower Death",
+   "label": "Howard Lutnick / Simon Andriesz Epstein Whistleblower Death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "Andre's reported death after alleging Lutnick-Epstein business ties and island visits; host flags suicide narrative as suspicious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, C-13875, A-2478.1, N-165, N-172, N-9, N-10324*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10878",
+   "header": "**N-10878** Zach Bryan Free Palestine Gillette Stadium Record",
+   "label": "Zach Bryan Free Palestine Gillette Stadium Record",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "Bryan's Free Palestine shirt nights and claimed attendance-record break after Kraft canceled Macklemore at Gillette."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13881, A-2479.1, N-177, N-194*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10879",
+   "header": "**N-10879** Baron Coleman Pre-Host Character Attack Campaign",
+   "label": "Baron Coleman Pre-Host Character Attack Campaign",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "New topic",
+     "v": "coordinated old-interview digs and trending criticism after Candace announced Coleman would guest-host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13884, A-2480.1, N-330, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-165",
+   "header": "**N-165** Howard Lutnick",
+   "label": "Howard Lutnick",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "U.S. Commerce Secretary and former BGC Group CEO; host says whistleblower Simon Andriesz flagged his Epstein island visits and a 2018 startup email chain with Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, C-13875, A-2478.1, N-10877, N-9*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-172",
+   "header": "**N-172** Simon Andriesz",
+   "label": "Simon Andriesz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Former British banker / BGC managing director reported dead after whistleblowing on Lutnick-Epstein links; host cites BBC attribution and a suicide narrative she calls remarkably suspicious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13874, C-13875, A-2478.1, N-10877, N-165*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-177",
+   "header": "**N-177** Zach Bryan",
+   "label": "Zach Bryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Country singer who (per host) wore Free Palestine shirts with his band for two Gillette Stadium nights and broke the attendance record previously held by Ed Sheeran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13881, A-2479.1, N-10878*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-194",
+   "header": "**N-194** Robert Kraft",
+   "label": "Robert Kraft",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Gillette Stadium owner who (per host) canceled Macklemore after a Free Palestine stage remark; host contrasts that with Zach Bryan's later record nights."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13881, A-2479.1, N-10878*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-202",
+   "header": "**N-202** Lindsay Clancy",
+   "label": "Lindsay Clancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Mother whose case the host says seeded the current killer-mom algorithm push; she notes she did not follow the case closely and treats the surrounding TikTok empathy clips as SCOP bait."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13837, C-13845, A-2475.1, N-10876*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-206",
+   "header": "**N-206** Nancy Mace",
+   "label": "Nancy Mace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "U.S. Representative shown on air pushing killer-mom epidemic framing in clips and tweets; host notes her AIPAC funding and Israel loyalty as context for SCOP intent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13837, C-13845, A-2475.1, N-10876*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-213",
+   "header": "**N-213** Nick Shirley",
+   "label": "Nick Shirley",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Independent journalist; host revisits him as relatively unknown figure pushed on Somali daycare welfare story and as last guest on the Charlie Kirk Show, booked by Andrew Kolvet. Prior CKA coverage existed only as investigation topics N-10559 / N-10666."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13836, N-10559, N-10666, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-58",
+   "header": "**N-58** Brandon Tatum",
+   "label": "Brandon Tatum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Podcast host of the Frank Turek interview clip in which Turek recounts confronting Jeff Long about roof coverage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13867, A-2477.1, N-7*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-225",
+   "header": "**N-225** Stephen Paddock",
+   "label": "Stephen Paddock",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Named by investigators as the lone Las Vegas 2017 gunman who died by suicide before police entry; host uses the unresolved case as the template for media distraction via MeToo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13834*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-226",
+   "header": "**N-226** Harvey Weinstein",
+   "label": "Harvey Weinstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "Subject of the New York Times MeToo explosion the host says displaced Las Vegas coverage within five days of the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13834*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-262",
+   "header": "**N-262** Lisa Nose",
+   "label": "Lisa Nose",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "X poster whose nanny/NDA mansion tweet the host reads as the week's Candyland attack; Nose cites Jessica Reed Kraus as original reporter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13830, A-2474.1, N-10875*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13848*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-47",
+   "header": "**N-47** Ghislaine Maxwell",
+   "label": "Ghislaine Maxwell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13844*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13831*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-281",
+   "header": "**N-281** Jennica Pounds",
+   "label": "Jennica Pounds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13887*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13863, C-13865, C-13866, C-13871, C-13872*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10015",
+   "header": "**N-10015** Mossad",
+   "label": "Mossad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13835, C-13844, C-13879*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13838, C-13842, C-13843, C-13847*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10056",
+   "header": "**N-10056** Kirk-Israel Narrative Dispute",
+   "label": "Kirk-Israel Narrative Dispute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13847*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10064",
+   "header": "**N-10064** The Pentagon",
+   "label": "The Pentagon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13849*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10074",
+   "header": "**N-10074** Provo, Utah",
+   "label": "Provo, Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13862*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10082",
+   "header": "**N-10082** CIA",
+   "label": "CIA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13835*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10083",
+   "header": "**N-10083** AIPAC",
+   "label": "AIPAC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13838*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10110",
+   "header": "**N-10110** Tyler Robinson Evidence Gaps",
+   "label": "Tyler Robinson Evidence Gaps",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13848*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10243",
+   "header": "**N-10243** UVU Outdoor Venue Selection Discrepancy",
+   "label": "UVU Outdoor Venue Selection Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13870, C-13872*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10646",
+   "header": "**N-10646** TPUSA Rooftop Security Decision-Making Discrepancy",
+   "label": "TPUSA Rooftop Security Decision-Making Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13866, C-13868, C-13869*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10730",
+   "header": "**N-10730** Frank Turek FaceTime Story Inconsistency",
+   "label": "Frank Turek FaceTime Story Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13857*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10885",
+   "header": "**N-10885** Jennica Pounds DoD Special Government Employee Thread",
+   "label": "Jennica Pounds DoD Special Government Employee Thread",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13887*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10887",
+   "header": "**N-10887** Las Vegas",
+   "label": "Las Vegas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13835, C-13885*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10888",
+   "header": "**N-10888** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13852, C-13887*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10898",
+   "header": "**N-10898** New York Post",
+   "label": "New York Post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13840, C-13844*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11020",
+   "header": "**N-11020** Military Bot Activity Claim",
+   "label": "Military Bot Activity Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13852*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11087",
+   "header": "**N-11087** TPUSA Notice of Intent to Sue UVU",
+   "label": "TPUSA Notice of Intent to Sue UVU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13873*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11096",
+   "header": "**N-11096** TikTok Israel Moderation Claim",
+   "label": "TikTok Israel Moderation Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13843*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11103",
+   "header": "**N-11103** TikTok",
+   "label": "TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Reused node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13843*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-832",
+   "header": "**N-832** Macklemore",
+   "label": "Macklemore",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "44:26 in episode 160 (spelled Macklemore in the transcript). Rapper the host says said Free Palestine on stage at the Gillette Stadium Ed Sheeran show.",
+     "sep": ":"
+    },
+    {
+     "k": "Aliases",
+     "v": "Macklemore"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13882*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-833",
+   "header": "**N-833** Ed Sheeran",
+   "label": "Ed Sheeran",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "44:26 in episode 160. Singer whose Gillette Stadium show Macklemore opened and whose attendance record the host says Zach Bryan broke.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13882*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11213",
+   "header": "**N-11213** Libs of TikTok",
+   "label": "Libs of TikTok",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "X account the host says amplified the killer-mom narrative and calls an Israel operative; she reads one of its posts about a South Carolina infant death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13841, C-13842*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11214",
+   "header": "**N-11214** Flash-Flood Fire Captain Rumor",
+   "label": "Flash-Flood Fire Captain Rumor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Viewer conspiracies about a different fire captain who perished with his whole family in a flash flood and worked with Provo EMS, which the host says she has seen no evidence tying to the Kirk case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13862*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11215",
+   "header": "**N-11215** UVU Security Team Conduct and Ticket-Count Communication",
+   "label": "UVU Security Team Conduct and Ticket-Count Communication",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account, from the UVU review, that the TPUSA security team did not contact police, headquarters withheld the ticket count and gave a wrong attendance figure, and the indoor suggestion was ignored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13863, C-13864, C-13865, C-13871*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11216",
+   "header": "**N-11216** Candace-Charlie Unfollow Narrative",
+   "label": "Candace-Charlie Unfollow Narrative",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Claim that Candace Owens and Charlie Kirk unfollowed each other over a rift, which the host says was a book announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-13888*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13830",
+   "header": "**C-13830** Lisa Nose tweet alleges Candace houses illegal nannies under NDA",
+   "label": "Lisa Nose tweet alleges Candace houses illegal nannies under NDA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "k": "Claim",
+     "v": "On air the host reads a Lisa Nose X post saying Candace Owens is rumored to have two nannies per child (eight in total) living in a second mansion, that it has been reported she hires nannies who are in the country illegally via an elite Jewish nanny agency and underpays them, and that they have all signed NDAs so cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose independently confirmed via three people who know Candace."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2474.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-262"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10867, N-10875"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve the original Nose and Kraus posts; seek any primary employment/immigration evidence rather than rumor chains."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13837",
+   "header": "**C-13837** Host frames killer-mom narrative as SCOP aimed at internet regulation",
+   "label": "Host frames killer-mom narrative as SCOP aimed at internet regulation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:26"
+    },
+    {
+     "k": "Claim",
+     "v": "The host argues the Lindsay Clancy-seeded, Nancy Mace / New York Post / Libs of TikTok amplified killer-mom panic is an intentional SCOP that neocons link to women who distrust Erika Kirk, and that its purpose is to justify regulating the internet after bots failed to move the public off Charlie Kirk."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2, N-202, N-206"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10876"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Map amplification graphs (Mace, NY Post, Libs) against UVU-review and Charlie-case news cycles; separate statistical filicide data from narrative framing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13834",
+   "header": "**C-13834** Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
+   "label": "Las Vegas 2017 coverage displaced within five days by MeToo / Weinstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:42"
+    },
+    {
+     "k": "Claim",
+     "v": "The host states the October 2017 Las Vegas mass shooting (60 dead, 869 injured; investigators cited 24 firearms in Stephen Paddock's suite and no clear motive) disappeared from the media cycle in less than a week because five days later the New York Times Harvey Weinstein MeToo story broke and dominated coverage. She points to Ian Carroll and others for military/Israel/Saudi conspiracy research she does not develop here."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-130, N-225, N-226"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the five-day media-shift claim against contemporary news indexes; treat Paddock/motive facts as investigator claims, not settled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13836",
+   "header": "**C-13836** Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
+   "label": "Nick Shirley Somali daycare push failed; Shirley was last Charlie Kirk Show guest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:23"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says media tried to force the Minneapolis Somali daycare welfare scandal (broken by Nick Shirley) as a Charlie Kirk distraction weeks after the assassination, but it was not large enough; she adds Shirley was relatively unknown, also goes to Brazil (which she says she will not get into), and was the last guest on the Charlie Kirk Show, picked by Andrew Kolvet who runs Charlie's Twitter."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-213, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10559, N-10666"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Shirley appearance date/booking chain on Charlie Kirk Show; separate daycare reporting merits from distraction thesis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13845",
+   "header": "**C-13845** U.S. filicide is rare and majority male; epidemic framing lacks statistical basis",
+   "label": "U.S. filicide is rare and majority male; epidemic framing lacks statistical basis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:48"
+    },
+    {
+     "k": "Claim",
+     "v": "The host cites roughly 500 U.S. filicide cases per year in a nation of about 350 million (about 10% step-parents/guardians), one case per ~770,000 people, and NIH-attributed offender split of roughly 57% fathers vs 43% mothers, arguing the killer-mom epidemic framing has no basis in statistical reality."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10876"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13858",
+   "header": "**C-13858** UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed",
+   "label": "UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:48"
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads the UVU independent review stating that Station 3 personnel radioed that their truck had passed near the TPUSA security team's SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2476.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-8, N-10"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839, N-10859, N-10874"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify Station 2 captain on duty 2025-09-10 via official rosters / tips (moretips@candaceowens.com); compare naming criteria in the review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13853",
+   "header": "**C-13853** Neither Turek nor Harpole mentions a fire captain performing CPR",
+   "label": "Neither Turek nor Harpole mentions a fire captain performing CPR",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:00"
+    },
+    {
+     "k": "Claim",
+     "v": "Combining Frank Turek's claim of late-ride back-seat CPR with Brian Harpole's claim that CPR was not administered in the car (and Harpole's long hospital narrative through defibrillator prep and door guard), the host says neither man ever featured a fire captain who met them at the hospital and began CPR, which she calls an impossible dual omission given the review text."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2476.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10687, N-10699, N-10737, N-10874"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13859",
+   "header": "**C-13859** Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30",
+   "label": "Dispatch redirected ladder 33 and engine 34 toward Timpanogos ~12:30",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:16"
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays fire dispatch audio she times around 12:30 p.m. in which ladder 33 and engine 34 are redirected toward Timpanogos, after radio traffic describing a black SUV with a person hanging out, which she presents as corroboration of the review's Station 2/3 reroute narrative."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2476.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10874"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain original Provo/Orem dispatch recordings and unit logs for ladder 33 / engine 34 / Station 2 captain assignment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13867",
+   "header": "**C-13867** Turek on Tatum podcast doubles down that Jeff Long had the roofs after the review",
+   "label": "Turek on Tatum podcast doubles down that Jeff Long had the roofs after the review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:11"
+    },
+    {
+     "k": "Claim",
+     "v": "In a Brandon Tatum podcast clip, Frank Turek recounts a March 2026 UVU confrontation with Chief Jeff Long in which Turek cites a text exchange Dan Flood showed him, in which Long replied \"I got you covered\" to a request for roof coverage, as proof Long had the roofs, then mid-story corrects that Flood showed him the text days after the hospital rather than at the hospital; the host says Turek is still repeating roofs talking points after the independent review undercut TPUSA's security narrative."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2477.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-58, N-270, N-271"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve full Tatum interview; compare Turek's roofs claims to the published UVU review findings and Flood text metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13874",
+   "header": "**C-13874** Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties",
+   "label": "Whistleblower Simon Andriesz dies after flagging Howard Lutnick Epstein ties",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:26"
+    },
+    {
+     "k": "Claim",
+     "v": "The host reports that former British banker and BGC Group managing director Simon Andriesz, who blew the whistle on Howard Lutnick's links to Jeffrey Epstein (including alleged island/temple visits), has died under a suicide narrative she calls remarkably suspicious; Lutnick is now U.S. Commerce Secretary, and the host ties the story to Trump/Bondi reluctance on Epstein files."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2478.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-9, N-85, N-165, N-172"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324, N-10877"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Andre identity, death circumstances, and BBC reporting; document Lutnick's public statements on Epstein island visits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13875",
+   "header": "**C-13875** Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain",
+   "label": "Andriesz Told BBC He Found 2018 Lutnick-Epstein Startup Email Chain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:13"
+    },
+    {
+     "k": "Claim",
+     "v": "Per the host's BBC-attributed account, Simon Andriesz said he discovered a 2018 email chain in which Howard Lutnick and Jeffrey Epstein discussed prospects of a startup business, which Andriesz said indicated Lutnick failed to disclose a business relationship with Epstein; the host adds that this came after Epstein's Palm Beach conviction."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2478.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-9, N-165, N-172"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324, N-10877"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the BBC interview/article and any produced email exhibits; confirm dates relative to Epstein's legal status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13881",
+   "header": "**C-13881** Zach Bryan Free Palestine shirts and Gillette attendance record",
+   "label": "Zach Bryan Free Palestine shirts and Gillette attendance record",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:05"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says after Robert Kraft canceled Macklemore from performing at Kraft's Gillette Stadium for saying Free Palestine, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2479.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-177, N-194, N-832, N-833"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10878"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13884",
+   "header": "**C-13884** Baron Coleman faces X attacks after Candace announces him as guest host",
+   "label": "Baron Coleman faces X attacks after Candace announces him as guest host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:22"
+    },
+    {
+     "k": "Claim",
+     "v": "After announcing Baron Coleman would take over her show during maternity leave, the host says critics immediately dug up 20-year-old interviews and trended lines casting him as abusive, with headlines such as \"Baron Coleman faces online criticism before guest spot on Candace Owens,\" which she frames as an attempt to get him dropped."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2480.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10879"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the trend posts and primary interview clips being recirculated; separate verified past statements from smear packaging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13889",
+   "header": "**C-13889** Host identifies show community as Decentralized Intelligence Agency",
+   "label": "Host identifies show community as Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:32"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the decentralized intelligence agency is the people behind her tip lines who have allowed the investigation to stay alive."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um investigation to stay alive. Couldn't d..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13890",
+   "header": "**C-13890** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:32"
+    },
+    {
+     "k": "Claim",
+     "v": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand."
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "...t a question. Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um..."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2496.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13829",
+   "header": "**C-13829** Host says the narrative flood is meant to distract from the UVU independent review",
+   "label": "Host says the narrative flood is meant to distract from the UVU independent review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a SCOP (psychological operation) is under way that is meant to distract the audience from the UVU independent review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is a SCOP that is taking place. You may not be aware of it. I need to draw your attention to it. One that is meant to distract you from the UVU independent review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839, N-10876"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13837"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the timing of each pushed narrative against the release dates of the UVU review and Epstein-file news."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13831",
+   "header": "**C-13831** Nose post says Laura Loomer reported a second Owens mansion",
+   "label": "Nose post says Laura Loomer reported a second Owens mansion",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Lisa Nose post the host reads aloud, Nose says Laura Loomer (transcribed Laura Luma) previously reported a second mansion belonging to Candace Owens."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember the second mansion that Laura Luma reported on?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2474.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-262, N-60"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10875"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate any Loomer post or report about a second Owens property and the original Nose and Kraus posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13832",
+   "header": "**C-13832** Host says a rumor alleges she paid off a DUI crash victim for under $5,000",
+   "label": "Host says a rumor alleges she paid off a DUI crash victim for under $5,000",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another rumor about her alleges she paid off someone for less than $5,000 after her husband hit them in a DUI accident; she lists it among the Candace conspiracies and does not present it as true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "maybe second only to me paying off someone less than $5,000 after my husband hit them in a DUI accident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10867"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the original posts making the DUI payoff allegation and any police or court record of such an accident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13833",
+   "header": "**C-13833** Host says the media has worked with the state at least since the JFK assassination",
+   "label": "Host says the media has worked with the state at least since the JFK assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is obvious the media has been working in conjunction with the state at least since the JFK assassination, and that when the state wants a story forgotten the media can make it crash on the shore of societal ADHD."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's obvious that the media has been working with the state in conjunction with the state at least since the JFK assassination, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Primary sources on media and intelligence-agency relationships since 1963, for example the Church Committee record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13835",
+   "header": "**C-13835** Host says the Las Vegas shooting appeared to be a CIA Mossad operation",
+   "label": "Host says the Las Vegas shooting appeared to be a CIA Mossad operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that within five days of the Weinstein story nobody was speaking about the Las Vegas shooting, \"which appeared to be a CIA Mossad operation\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA Mossad operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-226"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10887, N-10015, N-10082"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13834"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify what evidence, if any, the host relies on for CIA or Mossad involvement in the 2017 Las Vegas shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13838",
+   "header": "**C-13838** Host says Nancy Mace has accepted over six figures from AIPAC",
+   "label": "Host says Nancy Mace has accepted over six figures from AIPAC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Representative Nancy Mace has accepted over six figures from AIPAC and cannot utter a single bad word about Israel, and that Mace is among those pushing the killer-mom narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Nancy Mace, who has accepted over six figures from Apac and cannot utter a single bad word about Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-206"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10083, N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check FEC and OpenSecrets records for AIPAC-linked contributions to Mace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13839",
+   "header": "**C-13839** Mace says in a clip that she does not know why moms are trying to kill their kids",
+   "label": "Mace says in a clip that she does not know why moms are trying to kill their kids",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip the host plays, Nancy Mace says she does not know why all these moms are trying to kill their kids and does not know what is going on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I just don't know why all these moms are trying to kill their kids. I don't know what's going on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-206"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10876"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13837"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Mace interview and confirm the exact wording and date of the clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13840",
+   "header": "**C-13840** Mace tweets describe a mother stabbing her kids 50 times and suggest a firing-squad exception",
+   "label": "Mace tweets describe a mother stabbing her kids 50 times and suggest a firing-squad exception",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads Mace tweets saying a mother stabbed her kids 50 times and took a baseball bat to them and suggesting South Carolina make an exception to the death penalty by firing squad; she also reads a Mace post sharing a New York Post story about a girl named Vivien."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Also, perhaps the South Carolina legislature could make an exception to the death penalty by firing squad."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-206"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10876, N-10898"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the Mace posts and the New York Post stories to confirm text and dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13841",
+   "header": "**C-13841** Libs of TikTok post links a South Carolina infant death to Lindsay Clancy fans",
+   "label": "Libs of TikTok post links a South Carolina infant death to Lindsay Clancy fans",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Libs of TikTok post saying Tanisha Lache Jones was arrested and charged in South Carolina with homicide after her infant daughter was found dead with lethal amounts of morphine, and asking whether Lindsay Clancy fans will support her too."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Meet Tanisha Lache Jones, who was arrested and charged in South Carolina with homicide after her infant daughter was found with dead and lethal amounts of morphine in her system."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2475.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-202"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11213, N-10876"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Libs of TikTok post and the South Carolina arrest record for the named woman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13842",
+   "header": "**C-13842** Host calls Libs of TikTok an Israel operative flooding the zone",
+   "label": "Host calls Libs of TikTok an Israel operative flooding the zone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Libs of TikTok is an Israel operative who has been flooding the zone with stories to create mass panic about mothers killing children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And of course, this is being echoed by Libs of Tik Tok, another committed Israel, Israeli operative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11213, N-10876, N-10026"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask what documentation, if any, shows funding or coordination between the account and any Israeli entity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13843",
+   "header": "**C-13843** Host says Israel took over TikTok through Zionist investors",
+   "label": "Host says Israel took over TikTok through Zionist investors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Israel took over TikTok after it became too pro-Palestine following October 7, and that a group of Zionist investors bought it to get rid of pro-Palestine talk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We all know Israel took over Tik Tok. That was very, that was just done in our face."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11103, N-11096, N-10026"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1394"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the TikTok divestiture ownership filings and investor list."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13844",
+   "header": "**C-13844** Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage",
+   "label": "Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host calls the New York Post the \"Mossad's rag\" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the New York Post in particular, the Mossad's rag, uh the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-47, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10898, N-10015"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the New York Post's Epstein and Maxwell coverage and any ownership or sourcing links the host alleges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13846",
+   "header": "**C-13846** Host says men kill older children and whole households while women kill under-fives",
+   "label": "Host says men kill older children and whole households while women kill under-fives",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says men are more likely to kill a child over five and to kill the entire household over a divorce settlement, women are more likely to kill a child under five, and that filicide is not an epidemic either way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Men are more likely to kill the child if the child is over 5 years old. Women are more likely to kill the child if the child is beneath the age of five."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10876"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13845"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check filicide studies by offender sex and victim age against the host's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13847",
+   "header": "**C-13847** Host says the same promoters ignored Charlie abandoning the pro-Israel cause before his death",
+   "label": "Host says the same promoters ignored Charlie abandoning the pro-Israel cause before his death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people pushing the killer-mom narrative were also not curious about Charlie Kirk having abandoned the pro-Israel cause shortly before his death, facing fights with people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The same people who were not at all curious about Charlie having abandoned the pro-Rio cause shortly before his death, facing all these fights with people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10056, N-10026"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12560"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the donor texts and messages the host has cited about Charlie leaving the pro-Israel cause."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13848",
+   "header": "**C-13848** Host says evidence of Tyler Robinson's guilt is virtually non-existent",
+   "label": "Host says evidence of Tyler Robinson's guilt is virtually non-existent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the evidence pointing to Tyler Robinson's guilt is virtually non-existent, and groups the narrative-pushers by their response to it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who were overwhelmed by the virtually non-existent evidence pointing to Tyler Robinson's guilt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-40"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10110"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the prosecution's evidence list at the preliminary hearing against the host's assessment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13850",
+   "header": "**C-13850** Host says the left and right sensed something off with the widow, the administration and the fireworks",
+   "label": "Host says the left and right sensed something off with the widow, the administration and the fireworks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people on both left and right sensed almost immediately that something was off with the widow, the administration and the fireworks, based on gut instinct and without knowing anything about Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People sense something was off almost immediately with the widow, the administration, and also the fireworks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10876"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect early public reaction posts from the days after the assassination to test the host's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13849",
+   "header": "**C-13849** Host says the internet push follows the Pentagon's failure to cover its tracks on the assassination",
+   "label": "Host says the internet push follows the Pentagon's failure to cover its tracks on the assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host gives her opinion that the people pushing this narrative will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because of the failure, the astonishing failure of the Pentagon to cover their own tracks regarding the assassination of Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10064, N-10876"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13837"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask which record would show Pentagon involvement in the case and what the host means by covering tracks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13851",
+   "header": "**C-13851** Host says her reporting presented discrepancies, a timeline and photos of the transport car",
+   "label": "Host says her reporting presented discrepancies, a timeline and photos of the transport car",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her coverage showed discrepancies in the narrative, a timeline, photos of the car Charlie was transported to the hospital in, what was done differently because she toured with Charlie, and never-before-seen videos and pictures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Here are the photos of the car that he was transported into the hospital. Here is what I know about what was done differently because I tooured with Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Index the earlier episodes where the car photos and tour comparisons were shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13852",
+   "header": "**C-13852** Host says the Department of War controls the algorithm and runs bots against her",
+   "label": "Host says the Department of War controls the algorithm and runs bots against her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Department of War is controlling the algorithm and launching an infinite amount of bots against her, and that this is not working."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which means that the Department of War controlling our algorithm and launching an infinite amount of bots is not working."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888, N-11020"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request platform data on coordinated inauthentic activity targeting the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13854",
+   "header": "**C-13854** Host says the intensity of last week's attacks was a reaction to the UVU review",
+   "label": "Host says the intensity of last week's attacks was a reaction to the UVU review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says they went insane last week because of the release of UVU's independent review, which she says embeds a truth about the CPR question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The reason they went insane is because of the release of UVU's independent review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10839, N-10874"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Map attack posts against the review's release date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13855",
+   "header": "**C-13855** Host says Harpole's account has no CPR in the car or anywhere else",
+   "label": "Host says Harpole's account has no CPR in the car or anywhere else",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Brian Harpole said CPR was not administered in the car \"or anywhere else for that matter\", while the UVU review says a fire captain assisted with CPR at the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Brian Harpole said that um CPR actually was not administered in the car or anywhere else for that matter"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2476.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10699, N-10737"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12856"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-13858"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Re-listen to the Harpole interview to check whether he excluded hospital CPR or only CPR in the car."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13856",
+   "header": "**C-13856** Host summarizes Harpole's hospital actions: gurney, shirt cut, defibrillator, door guard",
+   "label": "Host summarizes Harpole's hospital actions: gurney, shirt cut, defibrillator, door guard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host recounts Harpole's story as grabbing a gurney, hopping on it, cutting off Charlie's shirt, prepping him for a defibrillator, talking through the medications needed, and guarding the door."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He grabs a gurnie. He hops on top of that gurnie. He cuts off Charlie's Kirk. He's prepping Charlie uh for a defibrillator before he's uh talking through the medications that Charlie is going to need."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10699"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Harpole's interview wording with hospital staff and bodycam accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13857",
+   "header": "**C-13857** Host says the Turek and Harpole stories assume Turek was FaceTiming Jack Hibbs",
+   "label": "Host says the Turek and Harpole stories assume Turek was FaceTiming Jack Hibbs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on the basis of the stories both men told, we are to assume Frank Turek was FaceTiming Jack Hibbs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We are to assume that Frank was facetiming Jack Hibbs on the basis of the story that they both told."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-208, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10730"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12569"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Hibbs and Turek call logs and any recording of the FaceTime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13860",
+   "header": "**C-13860** Dispatch audio says officers were en route to the hospital with the victim",
+   "label": "Dispatch audio says officers were en route to the hospital with the victim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the dispatch audio the host plays, a voice says \"Switching to 3J\" and that officers are en route to the hospital to be with the victim, after units were told police were signaling them to follow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Copy. Switching to 3J. We got officers in route to the hospital to be with the victim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2476.2"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10874"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full dispatch log and audio from the dispatch center."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13861",
+   "header": "**C-13861** Host asks for tips on the fire captain at moretips@candaceowens.com",
+   "label": "Host asks for tips on the fire captain at moretips@candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who know who the fire captain was that provided CPR to Charlie, who might have been with ladder 33, to email moretips@candaceowens.com, and repeats the request for more tips at candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, please email us at more tips@canniswowens. com if you know the answer to who the fire captain was that um provided CPR to Charlie"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2995.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10874"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review incoming tips for roster or dispatch records naming the Station 2 captain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13862",
+   "header": "**C-13862** Host says a different fire captain died in a flash flood and worked with Provo EMS",
+   "label": "Host says a different fire captain died in a flash flood and worked with Provo EMS",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has not seen any information attaching him necessarily to this story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "for those of you guys who are going to email me about some of the conspiracies regarding a different fire captain who perished with his entire family in a flash flood, I am aware of that information."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11214, N-10074, N-10874"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check public records on the flood victim's employment and whether he was on duty on 2025-09-10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13863",
+   "header": "**C-13863** Host says Charlie's security team was about 13 former SEALs who did virtually nothing",
+   "label": "Host says Charlie's security team was about 13 former SEALs who did virtually nothing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk's security team was made up of about 13 members, all former SEALs with long military records, and that they did virtually nothing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie's security team, which was made up of about 13 members, all of them SEALs, a former, you know, former SEALs and having these long military records, did virtually nothing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11215, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the TPUSA security roster and service records, and compare with the 12-member count cited in an earlier episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13864",
+   "header": "**C-13864** Host says the security team did not try to contact the police",
+   "label": "Host says the security team did not try to contact the police",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the security team did not even try to get in touch with the police and that the police had to play offense."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I mean, didn't even get try to get in touch with the police. The police had to uh play offense on that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11215, N-10839"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review UVU police communication logs and the review's account of contact with the TPUSA team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13865",
+   "header": "**C-13865** Host says TPUSA headquarters did not share the ticket count",
+   "label": "Host says TPUSA headquarters did not share the ticket count",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says headquarters was not sharing the ticket count, so there was no way they could have prepared without knowing the numbers sufficiently."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then of course we learned that headquarters was not sharing the ticket count."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11215, N-10839, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13551"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the review's ticketing and crowd-estimate exchange between TPUSA and UVUPD."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13866",
+   "header": "**C-13866** Host says Turning Point is shifting blame to Chief Jeff Long",
+   "label": "Host says Turning Point is shifting blame to Chief Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point has been trying to shift the narrative to blame UVU Police Chief Jeff Long for the absence of what they deem acceptable security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "how despicable it is that Turning Point has been trying to shift the narrative to blame Chief Jeff Long um for the absence of what they deem to be acceptable security"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-271"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10646"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3012"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile TPUSA statements blaming Long and compare with the review findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13868",
+   "header": "**C-13868** Turek relays Long saying he only covered the bridge roof above",
+   "label": "Turek relays Long saying he only covered the bridge roof above",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Frank Turek says Chief Long explained that when he said he had the roofs he meant the bridge above, kept so people would not throw things down on Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, that bridge that was above you, that roof above, we had that cuz we didn't want people throwing stuff down on Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2477.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-271, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10646"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13235"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the actual Flood and Long text thread and the review's rooftop findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13869",
+   "header": "**C-13869** Turek relays Long saying Charlie's team should have arrived the day before",
+   "label": "Turek relays Long saying Charlie's team should have arrived the day before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Frank Turek relays Long saying Charlie's team arrived the day of the event and should have been there the day before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, they got here the day of. They should have been here the day before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2477.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-271, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10646"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the team's actual arrival and advance-visit timeline against the review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13870",
+   "header": "**C-13870** Turek says he told Charlie he disliked the venue because of the many buildings",
+   "label": "Turek says he told Charlie he disliked the venue because of the many buildings",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Frank Turek says that coming into the venue he told Charlie he did not like the place because there were too many buildings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And coming into this place, I said, \"Charlie, I don't like this place. There's too many buildings.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2477.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10243"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask whether any pre-event message or witness confirms Turek's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13871",
+   "header": "**C-13871** Host says TPUSA gave UVU the exact wrong attendance number",
+   "label": "Host says TPUSA gave UVU the exact wrong attendance number",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA did not tell UVU how many people were going to be there and in fact communicated the exact wrong number."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They did not communicate to them how many people were going to be there. In fact, they communicated the exact wrong number of who who was going to be there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11215, N-10000, N-10839"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13528"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the attendance figures TPUSA gave UVUPD and compare with actual attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13872",
+   "header": "**C-13872** Host says TPUSA ignored UVU's suggestion to hold the event indoors",
+   "label": "Host says TPUSA ignored UVU's suggestion to hold the event indoors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA ignored the suggestion to hold the event indoors, which would have given more control for safety."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh they ignored their suggestion to have this event be indoor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10243, N-10000, N-10839"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the review's venue-recommendation exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13873",
+   "header": "**C-13873** Host says Turek repeats talking points tied to the Kirk family's intent to sue",
+   "label": "Host says Turek repeats talking points tied to the Kirk family's intent to sue",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Frank Turek is repeating the talking points in Erika Kirk's and the Kirk family's intent to sue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's just repeating the talking points in Erika's intent to sue, the Kirk family's intent to sue"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2477.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11087"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Turek's statements with the language of the notice of intent to sue."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13876",
+   "header": "**C-13876** Host says Andre alleged money laundering at the firm",
+   "label": "Host says Andre alleged money laundering at the firm",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Simon Andriesz, before his death, said there was money laundering happening and pushed to notify people that Howard Lutnick had visited Epstein's island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And so he's now dead a after he was saying, \"Hey, there was some money laundering that was happening.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2478.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-172, N-165, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10877"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Andre's whistleblower filings and public statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13877",
+   "header": "**C-13877** Host says Lutnick first denied ever visiting Epstein's island and later admitted it",
+   "label": "Host says Lutnick first denied ever visiting Epstein's island and later admitted it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Howard Lutnick earlier said he had never visited the island, and then \"fell out of his amnesia\" and said he had visited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because earlier on Howard Lutnik said he had never visited the island. He'd never visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2478.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-165, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10877"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect Lutnick's dated statements on the island visit and any correction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13878",
+   "header": "**C-13878** Host says Bondi claimed releasing the Epstein files would cause global economic catastrophe",
+   "label": "Host says Bondi claimed releasing the Epstein files would cause global economic catastrophe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pam Bondi said it would lead to global economic catastrophe if the Epstein files were released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Pam Bondi saying that it would lead to global economic catastrophe if the files were released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-85, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Bondi's original remarks and context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13879",
+   "header": "**C-13879** Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming",
+   "label": "Host Speculates the Files Would Show a Mossad Network of Women Under MK Ultra Programming",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "an entire Mossad network, I think, of women who are pretending to love men who are going through like MK Ultra programming from the time that they're young."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324, N-10015"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask what documents the host relies on for this speculation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13880",
+   "header": "**C-13880** Host says Trump wanted the audience to move on from Epstein",
+   "label": "Host says Trump wanted the audience to move on from Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that is why Trump wanted people to turn around and move on from the Epstein files, and why they engage in SCOPs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's why Trump wanted us to just turn around and move on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect Trump's dated statements telling supporters to move on from Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13882",
+   "header": "**C-13882** Host says Sheeran offered Macklemore the opening slot knowing he would raise causes",
+   "label": "Host says Sheeran offered Macklemore the opening slot knowing he would raise causes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ed Sheeran knew what he was getting into when he offered Macklemore, a longtime friend, the opening slot, because Macklemore always brings up a cause on stage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ed Sheeran knew what he was getting into when he offered for Macklemore, who he has been friends with for a long time, to open for him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-832, N-833"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10878"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13157"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the booking announcement and Macklemore's remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13883",
+   "header": "**C-13883** Host says Robert Kraft got a case dropped on a technicality",
+   "label": "Host says Robert Kraft got a case dropped on a technicality",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Robert Kraft, on a technicality, got a case dropped against him, and adds that he is not guilty of anything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Robert Kraft kind of, you know, on a technicality got a case dropped against him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-194"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10878"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Florida court record for the dismissed case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13885",
+   "header": "**C-13885** Host says a producer found an article on the economics of smearing and wonders about Vegas money",
+   "label": "Host says a producer found an article on the economics of smearing and wonders about Vegas money",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her producer found an article about the big money in smearing people, that it feels like there might have been Vegas money in going after her, and that she will cover the economics tomorrow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tomorrow, by the way, we're going to get into the economics behind smearing people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2997.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10887"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the article and identify any funders it names."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13886",
+   "header": "**C-13886** Host says the feds are blaming something on a black autistic kid",
+   "label": "Host says the feds are blaming something on a black autistic kid",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the feds are blaming something on a black autistic kid, and that she may connect dots tomorrow on why."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The feds are blaming something on a black autistic kid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-25"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10872"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the charging documents and the recorded interrogation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13887",
+   "header": "**C-13887** Host says the Data Republican has resigned and was hired to go after her",
+   "label": "Host says the Data Republican has resigned and was hired to go after her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Data Republican resigned and was \"literally hired to go after me\", and that she wants Schuyler to remind her to discuss it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we got to talk about uh the resignation of data Republican who was literally hired to go after me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-281, N-68"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10885, N-10888"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the resignation and any employer statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-13888",
+   "header": "**C-13888** Host says the Candace-Charlie unfollow was a book announcement, not a feud",
+   "label": "Host says the Candace-Charlie unfollow was a book announcement, not a feud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the story that Charlie unfollowed her or she unfollowed Charlie because of issues is untrue; she says it was a book announcement, that she has the text messages and receipts about when she unfollowed everybody, and that Charlie called it brilliant marketing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "One of the ones being Charlie unfollowed Ken unfollowed Charlie. It was a book announcement. I have all of the text message and receipts about when I unfollowed everybody."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2996.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11216"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the text messages and compare with unfollow timing and the book announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "...Uh we've got of course our standard CIA hat. The decentralized intelligence agency of people who fought our tip lines and have allowed this um investigation to stay alive. Couldn't d..."
+    },
+    {
+     "k": "Context",
+     "v": "DIA / DCIA brand line from corrected transcript (CKA seq 160)."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, brand_joke, transcript_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So, please email us at more tips@canniswowens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Tip request for the fire captain identity."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:31"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "More tips at candace Owens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Repeated tip line request."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-62",
+   "header": "**M-62** (meme) Two Nannies Per Child",
+   "label": "(meme) Two Nannies Per Child",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "two nannies for each child"
+    },
+    {
+     "k": "Context",
+     "v": "Host reads the Nose post."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:22"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "eight illegal nannies"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes Coleman will get access."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-63",
+   "header": "**M-63** (meme) Elite Jewish Agency",
+   "label": "(meme) Elite Jewish Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "elite Jewish nanny agency"
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the rumor's logic."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-61",
+   "header": "**M-61** (meme) We Only Hoard Illegals",
+   "label": "(meme) We Only Hoard Illegals",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm hoarding all these illegals"
+    },
+    {
+     "k": "Context",
+     "v": "Host answers a viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-10",
+   "header": "**M-10** (meme) Happy Warrior",
+   "label": "(meme) Happy Warrior",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Charlie always said to be a happy warrior."
+    },
+    {
+     "k": "Context",
+     "v": "Closing exhortation."
+    },
+    {
+     "k": "Tags",
+     "v": "closer"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king indeed."
+    },
+    {
+     "k": "Context",
+     "v": "Reply to a viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "closer"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-19",
+   "header": "**M-19** (meme) Go Max",
+   "label": "(meme) Go Max",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Go Max."
+    },
+    {
+     "k": "Context",
+     "v": "Reply to a viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "closer"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-22",
+   "header": "**M-22** (meme) Why Are You Gay",
+   "label": "(meme) Why Are You Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:32"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Emanuel, why are you gay? Nobody knows."
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs the merch hat."
+    },
+    {
+     "k": "Tags",
+     "v": "merch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-11",
+   "header": "**M-11** (meme) Mossad",
+   "label": "(meme) Mossad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the Mossad's rag"
+    },
+    {
+     "k": "Context",
+     "v": "Host calls the New York Post the Mossad's rag."
+    },
+    {
+     "k": "Tags",
+     "v": "mossad"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That's how you know it's a psychological operation."
+    },
+    {
+     "k": "Context",
+     "v": "Host on the killer-mom stories."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-38",
+   "header": "**M-38** (meme) MK Ultra",
+   "label": "(meme) MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "MK Ultra programming"
+    },
+    {
+     "k": "Context",
+     "v": "Host speculates about Epstein-file contents."
+    },
+    {
+     "k": "Tags",
+     "v": "mk ultra"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-100",
+   "header": "**M-100** (meme) Epstein Class",
+   "label": "(meme) Epstein Class",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The Epstein class is down real bad right now."
+    },
+    {
+     "k": "Context",
+     "v": "Opening line."
+    },
+    {
+     "k": "Tags",
+     "v": "opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-185",
+   "header": "**M-185** (meme) Amnesia",
+   "label": "(meme) Amnesia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "They both suddenly descended into amnesia"
+    },
+    {
+     "k": "Context",
+     "v": "Host on Turek and Harpole omitting the fire captain."
+    },
+    {
+     "k": "Tags",
+     "v": "amnesia"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-239",
+   "header": "**M-239** (meme) Baron Coleman Is a Lesbian",
+   "label": "(meme) Baron Coleman Is a Lesbian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:13"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "After a week of living as a committed lesbian"
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes about the prior smear package."
+    },
+    {
+     "k": "Tags",
+     "v": "smear joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Baron Coleman is a lesbian."
+    },
+    {
+     "k": "Context",
+     "v": "Host announces the joke."
+    },
+    {
+     "k": "Tags",
+     "v": "smear joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:22"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Baron Coleman is lesbian. You heard it here first."
+    },
+    {
+     "k": "Context",
+     "v": "Closing joke."
+    },
+    {
+     "k": "Tags",
+     "v": "smear joke"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-240",
+   "header": "**M-240** (meme) Candyland",
+   "label": "(meme) Candyland",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "happening in Candyland today?"
+    },
+    {
+     "k": "Context",
+     "v": "Host nicknames the Candace fantasy series Candyland."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-241",
+   "header": "**M-241** (meme) Nashville Mafia",
+   "label": "(meme) Nashville Mafia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I am the Tennessee mafia, the kingpin, the godmother."
+    },
+    {
+     "k": "Context",
+     "v": "Host satirizes the nanny rumor."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I am the Scarface of Nashville."
+    },
+    {
+     "k": "Context",
+     "v": "Host satirizes the rumor."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Candace has the Nashville mafia."
+    },
+    {
+     "k": "Context",
+     "v": "Reads a viewer comment."
+    },
+    {
+     "k": "Tags",
+     "v": "candyland"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-242",
+   "header": "**M-242** (meme) Welcome to My Life",
+   "label": "(meme) Welcome to My Life",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:22"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Welcome to my life, Baron."
+    },
+    {
+     "k": "Context",
+     "v": "Host says Coleman now gets smeared like her."
+    },
+    {
+     "k": "Tags",
+     "v": "coleman"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Optional Flags",
+    "",
+    "- Sponsor reads (PreBorn ~31:31, Beekeepers Naturals, PureTalk, Nimi Skincare, American Financing) left as non-claim content; no artifacts/claims from ad pitches.",
+    "- Jessica Reed Kraus, Laura Luma, Libs of TikTok, Macklemore, Ed Sheeran, Christopher Petray, Tanisha Lache Jones, Dan Bongino, and \"data Republican\" appear in prose only (not minted as Person nodes).",
+    "- Mark Herman (N-67) is not named in this episode (an off-mic \"edit in my ear\" at 00:17:01 is unnamed); no N-67 cite.",
+    "- Fire-captain identity intentionally left open; host rejects AI/Google probability tips.",
+    "- ASR uncertainty on dispatch subtitles (\"Nigel from ladder 33\") noted on air by host.",
+    "",
+    "## 7. Output Quality Checklist",
+    "",
+    "- [x] Every artifact has a Related line",
+    "- [x] Every node has a Related line",
+    "- [x] No episode-wide artifact bundle",
+    "- [x] New persons use low-band person holes (N-165+); zero Person nodes at or above ten thousand",
+    "- [x] Topics use the topic band (N-10874+)",
+    "- [x] En dashes in prose, no em dashes outside quotes",
+    "- [x] Claims grounded in corrected transcript timestamps",
+    ""
+   ]
+  }
+ ]
+}

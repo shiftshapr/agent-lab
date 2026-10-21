@@ -1,0 +1,8567 @@
+{
+ "format": "cka-source/1",
+ "episode": 96,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 96",
+    "- **Monument**: cka",
+    "- **CKA seq**: 96",
+    "- **YouTube id**: qZ8RWfyuewQ",
+    "- **Candace Ep**: 330",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–01:21:28",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10c): N-812, N-813",
+    "  - Hole-minted Nodes (reintro-ep096): N-10647",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-8547–C-8634",
+    "  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-159, N-195, N-220, N-341, N-342, N-377, N-420, N-594, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664, N-10640",
+    "  - (see registers)",
+    "",
+    "# Meta-Data",
+    "- Episode title: TIME MAGAZINE: World's Most VILE Person?! | Candace Ep 330",
+    "- Monument Episode: 96",
+    "- Batch Episode: 76",
+    "- Series title: Bride of Charlie investigation / Candace Owens podcast",
+    "- Channel / Creator: @RealCandaceO (Candace Owens)",
+    "- Episode date: 2026-04-29",
+    "- Source: YouTube captions (yt-dlp-manual), cleaned with video context",
+    "- Transcript completeness: Complete",
+    "- Analyst: Episode Analysis Agent",
+    "- Analysis date: 2026",
+    "",
+    "## Episode 96 Ledger Summary",
+    "- Artifact Families Introduced: A-2007, A-2008, A-2009, A-2010, A-2011, A-2012, A-2013, A-2014",
+    "  - New Nodes Introduced: N-10637, N-10638, N-10639, N-10641, N-10642",
+    "  - Reused Nodes Appearing: ",
+    "  - Hole-minted Nodes (wave2): N-368, N-369, N-370, N-372",
+    "- Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-278, N-97, N-330, N-261, N-87, N-131, N-201, N-550",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "If you have that opposite side footage of the person who caught that footage, 10k is yours, no questions asked, okay? More tips at candaceowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "DIA tip-line call: $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip (C-8578, A-2008.5)."
+    },
+    {
+     "k": "Tags",
+     "v": "tips_network, dia_tip_line, transcript_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-42",
+   "header": "**M-42** (meme) Scripted",
+   "label": "(meme) Scripted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And we didn't get that. Instead, we got something horribly scripted. And of course, she lied in my name and on my birthday. Shame on you, Erika. Sh..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Scripted in CKA seq 96."
+    },
+    {
+     "k": "Tags",
+     "v": "staged, event, host_charge, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-22",
+   "header": "**M-22** (meme) Why Are You Gay",
+   "label": "(meme) Why Are You Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:58"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Like why are you gay?"
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Why Are You Gay at 00:53:58 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-89",
+   "header": "**M-89** (meme) Grain of Crack Cocaine",
+   "label": "(meme) Grain of Crack Cocaine",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:40"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "take it with a grain of crack cocaine"
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats her line on how to take Laura Loomer's claims."
+    },
+    {
+     "k": "Tags",
+     "v": "loomer, rumor"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-84",
+   "header": "**M-84** (meme) Bend the Knee",
+   "label": "(meme) Bend the Knee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:20:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I will never ever bend the knee bend the knee to emotional blackmail"
+    },
+    {
+     "k": "Context",
+     "v": "Host closes by refusing to submit to emotional blackmail."
+    },
+    {
+     "k": "Tags",
+     "v": "closing, refusal"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-37",
+   "header": "**M-37** (meme) Grifter",
+   "label": "(meme) Grifter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:35:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the widow grift is the one that I actually find to be the most despicable"
+    },
+    {
+     "k": "Context",
+     "v": "Host ranks the widow grift as the worst of the grifts she lists."
+    },
+    {
+     "k": "Tags",
+     "v": "widow grift, erika"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "while they're putting on this widow grift"
+    },
+    {
+     "k": "Context",
+     "v": "Host again calls Erika's defenders' framing the widow grift."
+    },
+    {
+     "k": "Tags",
+     "v": "widow grift"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:13:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "join us for my book, Make Him a Sandwich, which we will be reading next"
+    },
+    {
+     "k": "Context",
+     "v": "Host plugs her book as the next book club read."
+    },
+    {
+     "k": "Tags",
+     "v": "book club, plug"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-233",
+   "header": "**M-233** (meme) The Hillary Clinton Campaign",
+   "label": "(meme) The Hillary Clinton Campaign",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:38"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I can't do the Hillary Clinton campaign. I can't do it."
+    },
+    {
+     "k": "Context",
+     "v": "Host likens TPUSA's pushback to the whiny 2016 Clinton campaign."
+    },
+    {
+     "k": "Tags",
+     "v": "comparison, erika, pr"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:01:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Stop with the Hillary Clinton campaign."
+    },
+    {
+     "k": "Context",
+     "v": "Host tells Erika's side to answer questions rather than claim sexism or victimhood."
+    },
+    {
+     "k": "Tags",
+     "v": "comparison, erika, pr"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-234",
+   "header": "**M-234** (meme) Operation Erika Kirk",
+   "label": "(meme) Operation Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:08"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Operation Erika Kirk. So, I might have been able to buy that."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats Baron Coleman's phrase for the WHCD focus on Erika."
+    },
+    {
+     "k": "Tags",
+     "v": "coleman, whcd"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Executive Summary",
+    "",
+    "This episode addresses multiple converging controversies: a Truth Social post from President Trump labeling host Candace Owens \"Time's Most Vile Person,\" the alleged driving role of Laura Loomer behind that attack, the recent White House Correspondents Dinner security incident, and Erika Kirk's pre-recorded video statement. The investigative material presented centers on the WHCD incident coverage, Erika Kirk's pre-recorded statement, and Andrew Kolvet's text message response.",
+    "",
+    "The episode advances several investigative questions: the source and authenticity of Erika Kirk's video statement (including its apparent scripting and the host's assertion that Blake Neff wrote it), the origin of the Sara Sidner clip (the host explicitly notes she could not confirm Sidner recorded it), the full context of the text message exchange presented by Andrew Kolvet (the host publicly invites release of the entire chain), and the authorship of Trump's Truth Social post. The host offers a $10,000 bounty for footage showing the original recorder of the Erika Kirk clip.",
+    "",
+    "Structurally, the episode functions as a biographical defense by the host and continues the running public dispute with Turning Point USA figures. The most evidentiary portions relate to the Erika Kirk statement and the text message controversy, both of which bear on the Charlie Kirk investigation record.",
+    "",
+    "---",
+    "",
+    "# Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2962",
+   "header": "**A-2962** Baron Coleman Widow Grift Show Clip Bundle",
+   "label": "Baron Coleman Widow Grift Show Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2962.1",
+   "header": "**A-2962.1** Baron Coleman show clip on widows and lying, played by the host",
+   "label": "Baron Coleman show clip on widows and lying, played by the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Nowhere in the Bible, nowhere in any religious tradition, does it say, If you're a widow, you get a free pass to lie to anyone you want, to gaslight everybody you meet\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:58:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8615, N-2, N-14, N-159, N-330, N-10000*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2963",
+   "header": "**A-2963** Laura Loomer Lawyer and Trust Tweet Bundle",
+   "label": "Laura Loomer Lawyer and Trust Tweet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2963.1",
+   "header": "**A-2963.1** Host reads Laura Loomer tweet about lawyer departure, secret trust and fleeing the country",
+   "label": "Host reads Laura Loomer tweet about lawyer departure, secret trust and fleeing the country",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8622, C-8623, N-3, N-60, N-82, N-377, N-10270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2964",
+   "header": "**A-2964** Viewer Reactions to Erika Kirk Statement Bundle",
+   "label": "Viewer Reactions to Erika Kirk Statement Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2964.1",
+   "header": "**A-2964.1** Viewer posts read aloud reacting to Erika Kirk's statement, including that the host never claimed murder",
+   "label": "Viewer posts read aloud reacting to Erika Kirk's statement, including that the host never claimed murder",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:48:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8598, N-2, N-3, N-10647*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2965",
+   "header": "**A-2965** Erika Kirk and Karoline Leavitt Stage Conversation Bundle",
+   "label": "Erika Kirk and Karoline Leavitt Stage Conversation Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2965.1",
+   "header": "**A-2965.1** Host verbal reference to a Turning Point stage conversation between Erika Kirk and Karoline Leavitt (not shown)",
+   "label": "Host verbal reference to a Turning Point stage conversation between Erika Kirk and Karoline Leavitt (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8589, N-2, N-280, N-10000*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2966",
+   "header": "**A-2966** Blake Neff Defense Bundle",
+   "label": "Blake Neff Defense Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2966.1",
+   "header": "**A-2966.1** Host verbal reference to Blake Neff's post saying the host implied Erika murdered her husband (not shown)",
+   "label": "Host verbal reference to Blake Neff's post saying the host implied Erika murdered her husband (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8599, C-8600, C-8616, N-1, N-2, N-3, N-14, N-159, N-10647*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2007 Trump Truth Social Post Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2007.1",
+   "header": "**A-2007.1** Trump Truth Social post criticizing Candace Owens",
+   "label": "Trump Truth Social post criticizing Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8547, N-3, N-5, N-10640*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2008 White House Correspondents Dinner Incident Coverage Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2008.1",
+   "header": "**A-2008.1** Washington Post headline and surveillance footage report on Secret Service firing at WHCD suspect",
+   "label": "Washington Post headline and surveillance footage report on Secret Service firing at WHCD suspect",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8573, N-2, N-10637, N-369*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2008.2",
+   "header": "**A-2008.2** Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon",
+   "label": "Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8574, N-10637, N-368, N-369*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2008.3",
+   "header": "**A-2008.3** Sara Sidner (CNN) clip of Erika Kirk saying \"I just want to go home\"",
+   "label": "Sara Sidner (CNN) clip of Erika Kirk saying \"I just want to go home\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (original recording source unverified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8577, N-2, N-10638, N-370*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2008.4",
+   "header": "**A-2008.4** Baron Coleman commentary clip on WHCD media frenzy",
+   "label": "Baron Coleman commentary clip on WHCD media frenzy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8579, N-2, N-330, N-10637*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2008.5",
+   "header": "**A-2008.5** Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk \"I just want to go home\" clip (verbal reference; no displayed artifact)",
+   "label": "Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk \"I just want to go home\" clip (verbal reference; no displayed artifact)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8578, N-2, N-370, N-10638*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2009 Erika Kirk Pre-Recorded Statement Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2009.1",
+   "header": "**A-2009.1** Erika Kirk pre-recorded statement – WHCD attendance justification",
+   "label": "Erika Kirk pre-recorded statement – WHCD attendance justification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8588, N-2, N-10639*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2009.2",
+   "header": "**A-2009.2** Erika Kirk pre-recorded statement – criticism of journalists filming during active shooter",
+   "label": "Erika Kirk pre-recorded statement – criticism of journalists filming during active shooter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:09"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8591, N-2, N-10639*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2009.3",
+   "header": "**A-2009.3** Erika Kirk pre-recorded statement – criticism of Jimmy Kimmel's Melania joke",
+   "label": "Erika Kirk pre-recorded statement – criticism of Jimmy Kimmel's Melania joke",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8593, N-2, N-3, N-87, N-10639*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2009.4",
+   "header": "**A-2009.4** Erika Kirk pre-recorded statement – claim that Candace Owens accused her of murdering her husband",
+   "label": "Erika Kirk pre-recorded statement – claim that Candace Owens accused her of murdering her husband",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:47:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8596, N-2, N-3, N-10639, N-10642*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2010 Terryl Farnsworth Recording Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2010.1",
+   "header": "**A-2010.1** Terryl Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
+   "label": "Terryl Farnsworth video recorded at Charlie Kirk shooting scene within seconds",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8592, N-261*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2011 Andrew Kolvet Text Message Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2011.1",
+   "header": "**A-2011.1** Text message screenshot shared by Andrew Kolvet showing \"why did you murder your husband?\" with cry emojis",
+   "label": "Text message screenshot shared by Andrew Kolvet showing \"why did you murder your husband?\" with cry emojis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (screenshot); Medium (full chain context unverified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8601, C-8603, C-8604, N-2, N-3, N-14, N-10641*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2012 Laura Loomer Content Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2012.1",
+   "header": "**A-2012.1** Laura Loomer recorded audio rant containing racial commentary about Candace Owens",
+   "label": "Laura Loomer recorded audio rant containing racial commentary about Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8565, N-3, N-60*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2012.2",
+   "header": "**A-2012.2** Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points",
+   "label": "Laura Loomer tweet claiming SPLC paid Candace Owens $500K to communicate David Duke talking points",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:03:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8621, N-3, N-60*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2012.3",
+   "header": "**A-2012.3** Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch",
+   "label": "Laura Loomer tweet claiming Candace Owens was at anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:04:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8624, N-3, N-60, N-201, N-372, N-550*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2012.4",
+   "header": "**A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome",
+   "label": "AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:05:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (acknowledged as AI)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8624, N-3, N-60, N-550*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2013 Candace Owens Prior Public Statements Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2013.1",
+   "header": "**A-2013.1** Candace Owens August 2019 tweet/X post sharing toxic mold illness photo",
+   "label": "Candace Owens August 2019 tweet/X post sharing toxic mold illness photo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8552, C-8554, N-3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2013.2",
+   "header": "**A-2013.2** Candace Owens March 2026 speech at Catholics for Catholics event mentioning upcoming confirmation",
+   "label": "Candace Owens March 2026 speech at Catholics for Catholics event mentioning upcoming confirmation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:06:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8627, N-3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2013.3",
+   "header": "**A-2013.3** Photos of Candace Owens from August 2016, before the mold illness, shown on air",
+   "label": "Photos of Candace Owens from August 2016, before the mold illness, shown on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8556, N-3, N-5*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## A-2014 Viewer/Chat Comments Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2014.1",
+   "header": "**A-2014.1** Various viewer/chat comments displayed in the episode (reactions to Erika's statement, birthday wishes, congratulations)",
+   "label": "Various viewer/chat comments displayed in the episode (reactions to Erika's statement, birthday wishes, congratulations)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "01:12:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (viewer comments)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8627, N-2, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-368",
+   "header": "**N-368** Evan Hill",
+   "label": "Evan Hill",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Washington Post investigative reporter; per the host (28:18), wrote on X that a Secret Service officer fired four times at Cole Allen and that the surveillance footage showed no indication Allen fired his weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2008.2, C-8574*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-369",
+   "header": "**N-369** Cole Allen",
+   "label": "Cole Allen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Suspect in the White House Correspondents Dinner incident; per Evan Hill's X post read at 28:18, a Secret Service officer fired four times at him as he charged a security checkpoint."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2008.1, A-2008.2, C-8573, C-8574*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-370",
+   "header": "**N-370** Sara Sidner",
+   "label": "Sara Sidner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying \"I just want to go home.\" The host could not confirm she recorded it herself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2008.3, C-8577, N-10638*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-372",
+   "header": "**N-372** David Axelrod",
+   "label": "David Axelrod",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Laitsch. The host says she did not see him in Rome (01:07:45)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2012.3, C-8624*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10637",
+   "header": "**N-10637** WHCD Incident Reconstruction",
+   "label": "WHCD Incident Reconstruction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent discrepancy between official shooting narrative and surveillance footage indicating possible friendly fire by Secret Service at the 2026 White House Correspondents Dinner incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2008.1, A-2008.2, A-2008.4, C-8573, C-8574, C-8579*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10638",
+   "header": "**N-10638** Sara Sidner Original Video Source Verification",
+   "label": "Sara Sidner Original Video Source Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Unresolved question of whether Sara Sidner personally recorded the Erika Kirk \"I just want to go home\" clip or obtained it from another source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2008.3, C-8577, N-2, N-370*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10639",
+   "header": "**N-10639** Erika Kirk Pre-Recorded Statement Authorship and Authenticity",
+   "label": "Erika Kirk Pre-Recorded Statement Authorship and Authenticity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Question of who authored Erika Kirk's pre-recorded 9-minute statement (host suggests Blake Neff), whether it was scripted, and how it was produced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "4"
+    },
+    {
+     "k": "Claim Count",
+     "v": "5"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2009.1, A-2009.2, A-2009.3, A-2009.4, C-8583, C-8588, C-8596, C-8591, C-8593, N-2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10640",
+   "header": "**N-10640** Trump Truth Social Tweet Authorship/Origin",
+   "label": "Trump Truth Social Tweet Authorship/Origin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Question of who authored and pushed send on Trump's April 2026 Truth Social post criticizing Candace Owens (host names Dan Scavino and Natalie Harp as historical senders)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2007.1, C-8547, N-5*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10641",
+   "header": "**N-10641** Andrew Kolvet Text Message Full Context Verification",
+   "label": "Andrew Kolvet Text Message Full Context Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Unresolved question of the complete text message chain shared between Candace and others regarding the December meeting with Erika Kirk; host has publicly authorized release of the full chain."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2011.1, C-8601, C-8603, C-8604, N-2, N-3, N-14*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10642",
+   "header": "**N-10642** Erika Kirk Murder Claim Accuracy",
+   "label": "Erika Kirk Murder Claim Accuracy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Question of whether Candace Owens ever made an explicit on-podcast claim that Erika Kirk murdered Charlie Kirk, and the framing of the December text joke as evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2009.4, A-2011.1, C-8596, N-2, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-131",
+   "header": "**N-131** Susie Wiles",
+   "label": "Susie Wiles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Person"
+    },
+    {
+     "raw": "White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8554*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie Kirk; the host discusses his views on the WHCD and his reported Aspen statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8581, C-8584, C-8587, C-8600, C-8609, C-8614, A-2966.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8589, C-8602, C-8615, A-2962.1, A-2965.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10194",
+   "header": "**N-10194** TPUSA Succession Plan Disclosure Timeline",
+   "label": "TPUSA Succession Plan Disclosure Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8614*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10202",
+   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10270",
+   "header": "**N-10270** Macron Defamation Lawsuit Delaware Venue Question",
+   "label": "Macron Defamation Lawsuit Delaware Venue Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8553, C-8622, C-8623, A-2963.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10349",
+   "header": "**N-10349** Bari Weiss CBS Interview Question Selection",
+   "label": "Bari Weiss CBS Interview Question Selection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8605*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10358",
+   "header": "**N-10358** Surgeon Quotation Authenticity Question",
+   "label": "Surgeon Quotation Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8613, C-8617*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10406",
+   "header": "**N-10406** Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "label": "Megyn Kelly Attacks for Refusing to Denounce Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8570*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10447",
+   "header": "**N-10447** Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "label": "Three-Way Surgeon Call / \"Superman Neck\" HIPAA Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8613, C-8617*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10552",
+   "header": "**N-10552** Aubrey Termination Circumstances",
+   "label": "Aubrey Termination Circumstances",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8607*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10587",
+   "header": "**N-10587** Trump Truth Social Post Pattern Question",
+   "label": "Trump Truth Social Post Pattern Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8548, C-8549*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10590",
+   "header": "**N-10590** Laura Loomer Influence on Trump Policy Question",
+   "label": "Laura Loomer Influence on Trump Policy Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8563, C-8564, C-8568, C-8569, C-8570*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10601",
+   "header": "**N-10601** Victor Marx IDF 50,000 Guns Request",
+   "label": "Victor Marx IDF 50,000 Guns Request",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8631*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10607",
+   "header": "**N-10607** UGA No-Show Security Threat Explanation Discrepancy",
+   "label": "UGA No-Show Security Threat Explanation Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8582, C-8586*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10613",
+   "header": "**N-10613** Victor Marx / Corby Hall On-Air Interview Proposal",
+   "label": "Victor Marx / Corby Hall On-Air Interview Proposal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8630, C-8632*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10616",
+   "header": "**N-10616** UGA Rally Cancellation Discrepancy",
+   "label": "UGA Rally Cancellation Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8586*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10647",
+   "header": "**N-10647** Erika Kirk Murder Allegation Accuracy",
+   "label": "Erika Kirk Murder Allegation Accuracy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8598, C-8599, C-8600, C-8608, C-8611, C-8616, A-2964.1, A-2966.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10664",
+   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "label": "Charlie Kirk Aspen Audio Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node cited by new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8609, C-8610, C-8614*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA spokesperson; the host discusses his WHCD account, the text screenshot and the surgeon quote (transcribed as Kolb in places)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8576, C-8602, C-8607, C-8613, C-8615, C-8616, A-2962.1, A-2966.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff; the host says he wrote Erika's statement and gave an excuse for it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8595, C-8599, C-8615, C-8616, A-2962.1, A-2966.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-195",
+   "header": "**N-195** Lee Trotter",
+   "label": "Lee Trotter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Dr. Lee Trotter; the host says Erika put blame on him over the surgeon call."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8617*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO; subject of the WHCD clip, pre-recorded statement and the host's challenges to her account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8580, C-8581, C-8582, C-8584, C-8585, C-8586, C-8587, C-8589, C-8590, C-8594, C-8595, C-8597, C-8598, C-8599, C-8600, C-8605, C-8606, C-8608, C-8609, C-8610, C-8611, C-8612, C-8613, C-8614, C-8615, C-8617, A-2962.1, A-2964.1, A-2965.1, A-2966.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-201",
+   "header": "**N-201** Nick Fuentes",
+   "label": "Nick Fuentes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Nick Fuentes; named in Loomer's Rome tweet, which the host denies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8628*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tucker Carlson; target of a Trump post the host links to Loomer's focus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8570*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-220",
+   "header": "**N-220** Milo Yiannopoulos",
+   "label": "Milo Yiannopoulos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Milo Yiannopoulos; named in Loomer's claim about the host's husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8619, C-8620*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-278",
+   "header": "**N-278** Bari Weiss",
+   "label": "Bari Weiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Bari Weiss; her interview with Erika Kirk is the date anchor for the December text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8605*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-280",
+   "header": "**N-280** Karoline Leavitt",
+   "label": "Karoline Leavitt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Karoline Leavitt; the host cites her stage conversation with Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8589, A-2965.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8548, C-8549, C-8550, C-8551, C-8553, C-8555, C-8557, C-8558, C-8559, C-8560, C-8561, C-8562, C-8563, C-8564, C-8566, C-8567, C-8568, C-8569, C-8576, C-8582, C-8585, C-8586, C-8590, C-8594, C-8595, C-8597, C-8598, C-8599, C-8600, C-8602, C-8605, C-8606, C-8607, C-8608, C-8609, C-8610, C-8611, C-8612, C-8613, C-8614, C-8616, C-8617, C-8618, C-8619, C-8620, C-8622, C-8623, C-8625, C-8626, C-8628, C-8629, C-8630, C-8632, C-8633, C-8634, A-2963.1, A-2964.1, A-2966.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-30",
+   "header": "**N-30** George (Candace's husband)",
+   "label": "George (Candace's husband)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's husband; subject of Loomer's separation and Milo claims and of the Rome trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8560, C-8561, C-8562, C-8618, C-8619, C-8620, C-8626*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-330",
+   "header": "**N-330** Baron Coleman",
+   "label": "Baron Coleman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Baron Coleman; the host plays his commentary on Operation Erika Kirk and the widow grift."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8580, C-8615, A-2962.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-341",
+   "header": "**N-341** Victor Marx",
+   "label": "Victor Marx",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Victor Marx; the host says he has not replied to her message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8631, C-8632*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-342",
+   "header": "**N-342** Corby Hall",
+   "label": "Corby Hall",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Corby Hall; subject of a recently pre-recorded episode and a viewer comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8630, C-8631*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-377",
+   "header": "**N-377** Emmanuel Macron",
+   "label": "Emmanuel Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Emmanuel Macron; named in a Loomer tweet the host reads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8622, A-2963.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-420",
+   "header": "**N-420** Pope Leo XIV",
+   "label": "Pope Leo XIV",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pope Leo XIV; the host says she did not meet him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8634*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Megyn Kelly; target of a Trump post the host links to Loomer's focus."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8570*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Donald Trump; his Truth Social post about the host and the WHCD are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8548, C-8549, C-8551, C-8559, C-8564, C-8568, C-8570, C-8571, C-8575, C-8581, C-8629*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-550",
+   "header": "**N-550** Aubrey Laitsch",
+   "label": "Aubrey Laitsch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Aubrey Laitsch; the host says she spoke with her after the firing and denies seeing her in Rome."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8607, C-8625, C-8628*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Laura Loomer; the host alleges she drove the Trump post and cites her tweets and audio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8553, C-8563, C-8564, C-8566, C-8567, C-8568, C-8569, C-8570, C-8618, C-8619, C-8622, C-8623, A-2963.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-594",
+   "header": "**N-594** Druski",
+   "label": "Druski",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Druski; named by Erika Kirk in her statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8594*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBI director; the host says Erika Kirk stood next to him at the WHCD."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8612*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Brigitte Macron; named in Trump's earlier comments and Loomer's trust and lawsuit claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8549, C-8622, A-2963.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-812",
+   "header": "**N-812** Dan Scavino",
+   "label": "Dan Scavino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8571*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-813",
+   "header": "**N-813** Natalie Harp",
+   "label": "Natalie Harp",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-8571*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8547",
+   "header": "**C-8547** Trump publicly criticized Candace Owens calling her \"low IQ\"",
+   "label": "Trump publicly criticized Candace Owens calling her \"low IQ\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Trump's Truth Social post called Candace Owens \"an extremely low IQ individual\" and described her attack on the First Lady of France as \"despicable.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2007.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10640"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the post on Truth Social directly and confirm timestamp; identify authorship via platform logs."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8573",
+   "header": "**C-8573** Washington Post reported Secret Service officers fired at WHCD suspect",
+   "label": "Washington Post reported Secret Service officers fired at WHCD suspect",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-369"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8574",
+   "header": "**C-8574** Evan Hill reported no footage of Allen firing weapon",
+   "label": "Evan Hill reported no footage of Allen firing weapon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-368, N-369"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8577",
+   "header": "**C-8577** Sara Sidner first shared clip of Erika Kirk \"I just want to go home\"",
+   "label": "Sara Sidner first shared clip of Erika Kirk \"I just want to go home\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the original public clip of Erika Kirk's \"I just want to go home\" remark was first shared by CNN's Sara Sidner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-370"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10638"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8578",
+   "header": "**C-8578** Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip",
+   "label": "Host offers a $10,000 bounty for opposite-side footage of the Erika Kirk corridor clip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "After saying she could not confirm that Sara Sidner shot the Erika Kirk \"I just want to go home\" clip, the host offers $10,000, with source protection, to anyone who has footage from the opposite side of the corridor showing the person who recorded it, and directs tips to candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I will offer $10,000 to somebody who has the opposite side footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-370"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10638"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10638)."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8579",
+   "header": "**C-8579** Baron Coleman commented on WHCD media frenzy",
+   "label": "Baron Coleman commented on WHCD media frenzy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Baron Coleman comments on the WHCD media coverage, saying Erika Kirk and the ballroom announcement became the focal points of the event; the host agrees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-330"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Baron Coleman's clip or post directly for full context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8583",
+   "header": "**C-8583** Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement",
+   "label": "Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk published a 9-minute pre-recorded video statement, with the remaining almost two hours of her show consisting of Charlie Kirk clips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.1, A-2009.2, A-2009.3, A-2009.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the video directly on Erika Kirk's platforms; review production metadata if available."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8588",
+   "header": "**C-8588** Erika Kirk claimed she attended WHCD to confront journalists",
+   "label": "Erika Kirk claimed she attended WHCD to confront journalists",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner because many of the journalists in the room had attempted to dehumanize her and she wanted to meet some of them face-to-face."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the full statement transcript; identify the Daily Mail journalist mentioned."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8596",
+   "header": "**C-8596** Erika Kirk claimed Candace Owens accused her of murdering her husband",
+   "label": "Erika Kirk claimed Candace Owens accused her of murdering her husband",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In her pre-recorded statement, Erika Kirk claimed Candace Owens has publicly accused her of murdering her husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639, N-10642"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search Candace Owens' full podcast archive for any explicit accusation of murder; review the December text message chain."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8591",
+   "header": "**C-8591** Erika Kirk criticized journalists for filming during active shooter",
+   "label": "Erika Kirk criticized journalists for filming during active shooter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a pre-recorded statement the host plays, Erika Kirk criticizes journalists present at the dinner for using their phones to capture video during what she describes as an active shooting situation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference against the Sara Sidner footage and other journalist videos; verify the timing of any \"active shooter\" declaration."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8593",
+   "header": "**C-8593** Erika Kirk criticized Jimmy Kimmel's Melania joke",
+   "label": "Erika Kirk criticized Jimmy Kimmel's Melania joke",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a pre-recorded statement the host plays, Erika Kirk criticizes Jimmy Kimmel's joke about Melania Trump having \"the glow of an expected widow.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-87"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Kimmel's original monologue; confirm Erika's quotation is accurate."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8592",
+   "header": "**C-8592** Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+   "label": "Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Terryl Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2010.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-261, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8601",
+   "header": "**C-8601** Andrew Kolvet presented a text message screenshot",
+   "label": "Andrew Kolvet presented a text message screenshot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:51:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet publicly presented a screenshot of a text message exchange involving Candace Owens as supporting evidence for Erika Kirk's murder claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10641"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the screenshot; obtain the full conversation thread; host has publicly authorized release of the entire chain."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8603",
+   "header": "**C-8603** Text message contained \"why did you murder your husband?\" with cry emojis",
+   "label": "Text message contained \"why did you murder your husband?\" with cry emojis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The text message presented by Andrew Kolvet contained the phrase \"why did you murder your husband?\" with cry emojis, framed as Candace's planned first question for Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10641"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the exact text against the screenshot; obtain the surrounding messages for context."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8604",
+   "header": "**C-8604** Candace stated the text was sent in December before meeting Erika",
+   "label": "Candace stated the text was sent in December before meeting Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-278, N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10641"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8565",
+   "header": "**C-8565** Laura Loomer made a recorded rant containing racial commentary about Candace",
+   "label": "Laura Loomer made a recorded rant containing racial commentary about Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Laura Loomer appeared in an audio recording making comments about Candace Owens including racial characterizations and descriptions of personal history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2012.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-60"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the source recording; identify context and any other parties present."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8621",
+   "header": "**C-8621** Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
+   "label": "Laura Loomer tweeted SPLC paid Candace $500K to communicate David Duke talking points",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:03:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer reported that Candace Owens was potentially paid half a million dollars by the Southern Poverty Law Center to communicate David Duke talking points, framed as \"Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2012.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-60"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the tweet directly; cross-reference SPLC public records; verify any financial relationship."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8624",
+   "header": "**C-8624** Laura Loomer claimed Candace was at anti-Trump summit in Rome",
+   "label": "Laura Loomer claimed Candace was at anti-Trump summit in Rome",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:04:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all \"suddenly appeared in Rome\", were converging for a \"secret anti-Trump summit\", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2012.3, A-2012.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-60, N-201, N-550"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8627",
+   "header": "**C-8627** Candace traveled to Rome with her family for confirmation",
+   "label": "Candace traveled to Rome with her family for confirmation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:06:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace stated she traveled to Rome with her husband and children for her Catholic confirmation by a cardinal in the old Latin rite, and that her priest flew in from London."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2013.2, A-2014.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify through confirmation records or attendee corroboration; the host referenced her March 2026 announcement."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8552",
+   "header": "**C-8552** Photo Trump shared was originally posted by Candace in 2019",
+   "label": "Photo Trump shared was originally posted by Candace in 2019",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace stated the photo of her that Trump used in his Truth Social post was originally shared by Candace herself on her Twitter account in August 2019."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2013.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the original August 2019 tweet directly on Candace's Twitter/X account."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8554",
+   "header": "**C-8554** Candace was sick in 2016 from toxic mold exposure in her apartment",
+   "label": "Candace was sick in 2016 from toxic mold exposure in her apartment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace stated that in 2016 she became ill with severe symptoms including eczema, hair loss, and cognitive impairment after a toxic mold exposure in her apartment from an HVAC leak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2013.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via medical records; the underlying photo is the primary artifact anchor."
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8556",
+   "header": "**C-8556** Candace shows August 2016 photos taken three months before the photo Trump shared",
+   "label": "Candace shows August 2016 photos taken three months before the photo Trump shared",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Candace shows photos of herself from August 2016, including hiking with her cousins without makeup, and says the photo Trump shared was taken just three months later, when she was very sick."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The picture that Trump shared was taken just 3 months later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2013.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match the August 2016 photos and the photo Trump posted to their original posting dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8548",
+   "header": "**C-8548** Host says Trump's post was the fourth tweet about her in two weeks",
+   "label": "Host says Trump's post was the fourth tweet about her in two weeks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump's Truth Social post about her was the fourth tweet about her in a span of two weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yeah, this is actually the fourth tweet about me in the span of 2 weeks from the leader of the free world."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10587"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Trump's Truth Social posts mentioning Candace Owens for the two weeks before April 29, 2026 and count them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8549",
+   "header": "**C-8549** Host says Trump had already called her low IQ and uglier than Brigitte Macron",
+   "label": "Host says Trump had already called her low IQ and uglier than Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump had already called her low IQ and had asserted that she was uglier than Brigitte Macron, so the post repeated earlier points."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He called me low IQ. He's already asserted that I was uglier than Brigitte, that actually between the two of us it's not even close."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5, N-82"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10587"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the earlier Trump posts or remarks calling the host low IQ and comparing her appearance to Brigitte Macron's."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8550",
+   "header": "**C-8550** Host says Washington runs on blackmail and secrets",
+   "label": "Host says Washington runs on blackmail and secrets",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Washington, D.C. runs on blackmail and secrets, with operators sent to find embarrassing secrets and offer targets a choice between complying and exposure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "By now, you are plenty aware that Washington, D. C. runs on blackmail and secrets, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No documentary test; the host gives no named case in this passage. Treat as a sweeping characterization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8551",
+   "header": "**C-8551** Host says the photo Trump shared is real and not AI",
+   "label": "Host says the photo Trump shared is real and not AI",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the photo of her that Trump shared is authentic and not AI-generated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the photo he shared of me, to be clear with you guys, it is real. It is not AI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10640"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the photo in Trump's post with the host's original 2019 post to confirm it is unaltered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8553",
+   "header": "**C-8553** Host says Loomer spent four days sharing AI photos, hit-and-run stories and secret-trust claims",
+   "label": "Host says Loomer spent four days sharing AI photos, hit-and-run stories and secret-trust claims",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the four days before the Trump post, Laura Loomer shared AI photos, stories about drunken hit-and-runs and claims about secret trusts to hide money from the Macrons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "4 days of his top advisor, Laura Loomer, sharing AI photos, illusory stories about drunken hit-and-runs, and fairy tales about secret trusts to hide money from the Macron"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Laura Loomer's X posts from the days before April 29, 2026 for the AI photos, hit-and-run story and trust claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8555",
+   "header": "**C-8555** Host says she had two asthma attacks that put her in hospital during the 2016 illness",
+   "label": "Host says she had two asthma attacks that put her in hospital during the 2016 illness",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that during her 2016 illness she had two asthma attacks that landed her in the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I had two asthma attacks that landed me in the hospital and I had no idea what was happening."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Medical records, if the host chooses to release them; otherwise a personal account only."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8557",
+   "header": "**C-8557** Host says a doctor put her on a strict candidiasis diet",
+   "label": "Host says a doctor put her on a strict candidiasis diet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a doctor told her the only way to beat the infection was a very strict candidiasis diet with no sugar, including fruit sugar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's a very strict, uh, candidiasis diet and um, okay, I said, this is just what my life is going to have to be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Personal medical account; no record cited on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8558",
+   "header": "**C-8558** Host says she started her political YouTube channel in August 2019",
+   "label": "Host says she started her political YouTube channel in August 2019",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in August 2019 she started her political YouTube channel for the first time, and that her cousin Mia filmed her and helped upload the first video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "in August of 2019, I started for the first time my political YouTube channel, having no idea how successful it would be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the upload date of the first video on the host's YouTube channel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8559",
+   "header": "**C-8559** Host says the magazine cover text read that she lies and uses rich white men",
+   "label": "Host says the magazine cover text read that she lies and uses rich white men",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the words on the Trump-linked magazine-style cover read that Candace Owens lies, lies, lies and uses rich white men, and earlier said she shared the photo publicly, which is why someone could put it on an AI cover."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Candace Owens lies, lies, lies, and uses rich white men."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10640"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the cover image Trump shared and confirm its wording and whether it was AI-generated or an authentic Time cover."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8560",
+   "header": "**C-8560** Host says her husband could not work until he had a green card",
+   "label": "Host says her husband could not work until he had a green card",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that because of immigration law her husband was not allowed to work until he got a green card, so her income alone supported the household for almost two years of engagement and marriage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we were entirely supported by my income, because he was not allowed to work until he got a green card"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Immigration timeline and work-authorization dates for George Farmer, if disclosed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8561",
+   "header": "**C-8561** Host says she had a million-dollar book deal and sold about 800,000 copies",
+   "label": "Host says she had a million-dollar book deal and sold about 800,000 copies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she had no debts and a million-dollar book deal when she met her husband, and that she thinks about 800,000 copies of her first book were moved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I had a million-dollar book deal when I met him. I think we moved 800,000 copies of my first book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Publisher contract and sales data (Nielsen BookScan or publisher statements) for the host's first book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8562",
+   "header": "**C-8562** Host says her parents were not wealthy and her husband's family has generational wealth",
+   "label": "Host says her parents were not wealthy and her husband's family has generational wealth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her mother did not graduate high school, her father was a plumber for most of his life, and that her husband's family has generational wealth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "my mother did not even graduate high school. My father was a plumber for most most of his life."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Personal biography; no document cited on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8563",
+   "header": "**C-8563** Host says her source says Loomer ranted about not being invited to the WHCD",
+   "label": "Host says her source says Loomer ranted about not being invited to the WHCD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is told that Laura Loomer was ranting to people about not being invited to the White House Correspondents Dinner in the period before the Trump post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she was ranting ranting to people uh because this is when she was deep in the throes of her psychosis about how she wasn't invited to the White House Correspondents Dinner"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10590"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the host's source and any third party who heard Loomer's comments about the WHCD."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8564",
+   "header": "**C-8564** Host says Loomer demanded a tweet of support from Trump",
+   "label": "Host says Loomer demanded a tweet of support from Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer demanded a tweet of support from Trump, and that this explains the race-tinged language of the Trump post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she demanded a tweet of support from Trump. In fact, that is what does explain the hint of racism behind the tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-5, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10640, N-10590"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8547"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate through White House staff, Loomer's own statements, or Truth Social posting logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8566",
+   "header": "**C-8566** Host says she has never been to Greenwich, Connecticut",
+   "label": "Host says she has never been to Greenwich, Connecticut",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host rejects Laura Loomer's audio account of her, saying she did not go to clubs in high school and has never in her life been to Greenwich, Connecticut."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who's going to the club in high school I've never in my life actually been out in Greenwich Connecticut."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2012.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-8565"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Loomer's audio source (the voice on the recording) against the host's school and residence history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8567",
+   "header": "**C-8567** Host says Susie Wiles was staunchly opposed to the Trump post",
+   "label": "Host says Susie Wiles was staunchly opposed to the Trump post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is told that White House chief of staff Susie Wiles was staunchly opposed to the Trump tweet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am told specifically that Susie Wiles was staunchly opposed to credit to Susie Wiles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-131, N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10640"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the host's source and seek confirmation from White House staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8568",
+   "header": "**C-8568** Host relays a long-standing rumor that Loomer has blackmail on Trump",
+   "label": "Host relays a long-standing rumor that Loomer has blackmail on Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host relays a long-standing rumor that Loomer has blackmail on Trump, tied to Loomer claiming relations with him after going on Air Force One, while saying she is reticent to believe it because it is Loomer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There has been of course a very long standing rumor that it's because she has blackmail on him a rumor but I'm reticent to believe right because it's Laura Loomer"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-5, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10590"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "No evidence offered; any real test would require identifying the rumor's origin and Loomer's Air Force One travel record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8569",
+   "header": "**C-8569** Host quotes Loomer as threatening to post officials' family members",
+   "label": "Host quotes Loomer as threatening to post officials' family members",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host quotes Laura Loomer as saying she will not stop and will post their grandkids, mother and father until she gets what she wants, and calls it emotional blackmail."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I won't stop I'll post your grandkids your mother your father I'll I won't stop until I get what I want"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10590"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the Loomer statement being paraphrased and the people it was aimed at."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8570",
+   "header": "**C-8570** Host says Trump's attacks on Tucker Carlson and Megyn Kelly track Loomer's focus of the week",
+   "label": "Host says Trump's attacks on Tucker Carlson and Megyn Kelly track Loomer's focus of the week",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump's posts attacking Tucker Carlson and Megyn Kelly followed whoever Laura Loomer was attacking that week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "why did he send out this crazy tweet about Tucker Carlson or Megyn Kelly? If you go on to Laura Loomer's feed, you will see that it's her focus of the week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-22, N-46, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10590, N-10406"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Line up the dates of Trump's posts about Carlson and Kelly against Loomer's posts on the same targets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8571",
+   "header": "**C-8571** Host says Trump does not send his own tweets; Scavino did, and Natalie Harp reportedly does",
+   "label": "Host says Trump does not send his own tweets; Scavino did, and Natalie Harp reportedly does",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump has never pushed send on his own tweets, that this was Dan Scavino's job in the first term, and that it is widely reported to be Natalie Harp's job on Truth Social."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5, N-812, N-813"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10640"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who operates the Truth Social account (reporting on Harp and Scavino) and who posted the April 2026 message."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8572",
+   "header": "**C-8572** Host says only Secret Service agents fired at the WHCD checkpoint",
+   "label": "Host says only Secret Service agents fired at the WHCD checkpoint",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a man stormed a security checkpoint at the White House Correspondents Dinner and only Secret Service agents began firing their weapons, which she reads as likely friendly fire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a man stormed a security check at the White House Correspondents Dinner, and then Secret Service agents, and only Secret Service agents began firing their weapons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.1, A-2008.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-369"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8574"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Official incident report, ballistic findings and the Washington Post surveillance footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8575",
+   "header": "**C-8575** Host says most people inside could not hear or distinguish the sounds at the WHCD",
+   "label": "Host says most people inside could not hear or distinguish the sounds at the WHCD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says most people inside the ballroom could not hear or distinguish the sound of what was going on and inferred a shooting from the Secret Service rushing the president out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the majority of the people uh could not that were inside could not even hear or distinguish the sound of what was going on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Attendee accounts and ballroom audio or video from the dinner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8576",
+   "header": "**C-8576** Host says Kolvet honestly said he did not know what the sound was at the WHCD",
+   "label": "Host says Kolvet honestly said he did not know what the sound was at the WHCD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host credits Andrew Kolvet with honestly recounting that he heard a sound he did not recognize, and says it could have been plates crashing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who, when he recounted the story, uh was actually honest. He said he heard a sound. He honestly did not know what it was."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Kolvet's on-air or posted account of the WHCD and compare wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8580",
+   "header": "**C-8580** Baron Coleman says Erika said the line as she crossed the only camera",
+   "label": "Baron Coleman says Erika said the line as she crossed the only camera",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Baron Coleman, in a clip played by the host, says Erika Kirk happened to say \"I just want to go home\" right as she crossed the only camera that captured her leaving, and calls the aftermath \"operation Erika Kirk\" following \"operation ballroom\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I just want to go home, and she just happened to say that right as she crossed the only camera that captured her leaving."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2008.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637, N-10638"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8579"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Coleman show segment and the hotel and press camera positions in the corridor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8581",
+   "header": "**C-8581** Host says neither Charlie Kirk nor Trump as president attended the WHCD",
+   "label": "Host says neither Charlie Kirk nor Trump as president attended the WHCD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the White House Correspondents Dinner was an event that Charlie Kirk never attended and that Trump never attended as president."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "An event that did not in any way require her presence, one which not even Charlie Kirk had ever attended."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check WHCD attendance records for Charlie Kirk and for Trump's presidential terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8582",
+   "header": "**C-8582** Host says the Vice President lectured her camp about not keeping Erika safe",
+   "label": "Host says the Vice President lectured her camp about not keeping Erika safe",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after the UGA no-show, the Vice President lectured the host's side about not keeping Erika Kirk safe, though the host says her side had not told Erika not to go."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Suddenly we got the Vice President lecturing us about not keeping Erika safe, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Vance remarks about Erika Kirk's safety around the UGA cancellation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8584",
+   "header": "**C-8584** Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show",
+   "label": "Host Says Erika Said She Needed Family Time And Would Return On Wednesday Show",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk said after the shooting she needed to spend time with her family and would then be on the Charlie Kirk show on Wednesday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I need to spend time with my family, and then I will be on the Charlie Kirk show on Wednesday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Erika Kirk's post and the show schedule for that week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8585",
+   "header": "**C-8585** Host says Erika's statement was pre-recorded, teleprompter-read and not written by her",
+   "label": "Host says Erika's statement was pre-recorded, teleprompter-read and not written by her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk's statement was pre-recorded, read from a teleprompter, and very clearly not written by her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Second thing is that it was pre-recorded, okay? It was straight from the teleprompter and it was very clearly not written by her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8583"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Production metadata from the video and identification of the writer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8586",
+   "header": "**C-8586** Host says Erika cited credible threats and distrust of the Secret Service to skip UGA",
+   "label": "Host says Erika cited credible threats and distrust of the Secret Service to skip UGA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk had said she could not do her UGA commitment because of credible threats and because she could not trust the Secret Service, then attended an event reliant on the Secret Service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You literally just said you couldn't do your UGA commitment because there were credible threats and you couldn't trust the Secret Service to absolve them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10607, N-10616"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA's UGA cancellation statements with Erika Kirk's WHCD attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8587",
+   "header": "**C-8587** Host says Charlie hated and made fun of the WHCD",
+   "label": "Host says Charlie hated and made fun of the WHCD",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie Kirk hated the White House Correspondents Dinner and always made fun of it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That actually Charlie hated. He always made fun of the White House Correspondents Dinner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8581"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Charlie Kirk show segments or posts mocking the WHCD."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8589",
+   "header": "**C-8589** Host says Erika told Karoline Leavitt on stage she did not read headlines or care",
+   "label": "Host says Erika told Karoline Leavitt on stage she did not read headlines or care",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is pretty sure Erika Kirk sat down with Karoline Leavitt on stage at a Turning Point event and said she did not read the headlines and did not care, in tension with her WHCD explanation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when she sat down with Karoline Leavitt on stage at Turning Point event, she says that she doesn't like she didn't read the headlines, she doesn't care"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2965.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-280"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain video of the Leavitt and Erika Kirk stage conversation and compare statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8590",
+   "header": "**C-8590** Host says Erika also attended a pre-party that was posted",
+   "label": "Host says Erika also attended a pre-party that was posted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk, she believes, also went to a pre-party for the dinner, which was posted publicly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she even went to a pre-party, I believe, right? That was posted as well."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the posted pre-party photos or video and their time and location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8594",
+   "header": "**C-8594** Host says Erika name-dropped Druski and the host in her statement",
+   "label": "Host says Erika name-dropped Druski and the host in her statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk name-dropped Druski and the host near the end of her pre-written statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she name-dropped Druski and she name-dropped me"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-594, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full statement transcript for the Druski reference."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8595",
+   "header": "**C-8595** Host says she thinks Blake Neff wrote Erika's statement",
+   "label": "Host says she thinks Blake Neff wrote Erika's statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is giving Blake Neff wrote Erika Kirk's statement and that he is her writer for things."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is why she's got to stop working with Blake Neff. It's giving Blake Neff wrote it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who drafted the statement through script files, metadata or staff accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8597",
+   "header": "**C-8597** Erika says in her statement that comedians wear whiteface and people say she is unfit to be CEO",
+   "label": "Erika says in her statement that comedians wear whiteface and people say she is unfit to be CEO",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the statement the host plays, Erika Kirk says she has comedians dressing up in whiteface and people saying she is not fit to be CEO, alongside the claim that Candace Owens says she murdered her husband."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have comedians dressing up in whiteface. I have people saying I'm not fit to be CEO and I have Candace Owens claiming I murdered my husband"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10639"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8596"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the statement video and identify the whiteface comedy referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8598",
+   "header": "**C-8598** Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie",
+   "label": "Viewer Comment Says Host Never Explicitly Claimed Erika Murdered Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads says Candace Owens never once made the explicit claim that Erika murdered her husband and only accused her of being a liar and a fraud; the host adds that her repeated accusation is that Erika lies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Candace Owens never once made the explicit claim that you murdered your husband. All she has accused you of is being a liar and a fraud."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2964.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10647"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-8596"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search the host's full archive for any explicit statement that Erika Kirk killed or arranged Charlie Kirk's death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8599",
+   "header": "**C-8599** Host says Blake Neff's excuse was that she implied Erika murdered Charlie",
+   "label": "Host says Blake Neff's excuse was that she implied Erika murdered Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff argued that Candace did not say Erika murdered her husband but implied it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blake Neff came out and said, \"Well, Candace didn't say it, but she implied it.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2966.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10647"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Blake Neff's post making this argument."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8600",
+   "header": "**C-8600** Host says she had said police should drag Erika in for questioning",
+   "label": "Host says she had said police should drag Erika in for questioning",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the episode Neff pointed to is one where she said police should drag Erika in for questioning, take her phone and ask about her lies, as would happen to Charlie if holes had been found in his story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She implied it in the episode where I said that the police should drag Erika in for questioning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2966.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10647"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the earlier episode and confirm the wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8602",
+   "header": "**C-8602** Host says the Kolvet text was never public and she assumes TPUSA staff passed it around",
+   "label": "Host says the Kolvet text was never public and she assumes TPUSA staff passed it around",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the text message Andrew Kolvet presented had never been revealed to the public, and she assumes TPUSA employees passed it around, which she says might explain why so many were fired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm assuming employees passed this around and now kind of explains why so many people got fired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10641, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8601"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace how the screenshot reached Kolvet and who at TPUSA had access to the thread."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8605",
+   "header": "**C-8605** Host says the text was sent in the week Erika's Bari Weiss interview went viral",
+   "label": "Host says the text was sent in the week Erika's Bari Weiss interview went viral",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the text was sent during the week Erika Kirk was going viral for her interview with Bari Weiss."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this was during the week where Erika was going viral for her interview with Bari Weiss for a number of very funny reasons"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-278, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10349, N-10641"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the date on the text message with the Erika Kirk and Bari Weiss CBS interview date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8606",
+   "header": "**C-8606** Host says she never asked Erika the murder question when they met",
+   "label": "Host says she never asked Erika the murder question when they met",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she met Erika at the end of December she never asked the question \"why did you murder your husband?\", which shows the text was a joke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because when I met up with Erika I never asked this question"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2011.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10641"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8604"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Erika Kirk's or Justin Streiff's account of the meeting and the host's recordings or notes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8607",
+   "header": "**C-8607** Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented",
+   "label": "Host says Aubrey Laitsch spoke with her after being fired but leaked nothing she presented",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10552"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Aubrey Laitsch's own account, and a comparison of the host's reporting against what Laitsch could have known."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8608",
+   "header": "**C-8608** Host says Erika lied to her face in the meeting",
+   "label": "Host says Erika lied to her face in the meeting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she went into the meeting expecting straight answers from Erika Kirk and that Erika then lied to her face, which made her increasingly suspicious."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I thought that I was going to get straight answers and then she lied to my face."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10647"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which statements the host says were lies and test them against records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8609",
+   "header": "**C-8609** Host says donors tell her the Charlie audio shown was AI",
+   "label": "Host says donors tell her the Charlie audio shown was AI",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says donors are telling her that the audio or video of Charlie Kirk presented by Erika's side was AI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am saying that donors are telling us that that was an AI video or an AI audio that you presented of Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original Aspen recording and have its provenance and audio forensically examined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8610",
+   "header": "**C-8610** Host says she spoke to multiple donors at the Aspen event and the video is unreleased",
+   "label": "Host says she spoke to multiple donors at the Aspen event and the video is unreleased",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she spoke to multiple donors who were at the event and that it is strange Erika will not release the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I spoke to multiple donors that were at that event. It is strange that you will not release that video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donors and event; request the unreleased video from TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8611",
+   "header": "**C-8611** Host says she is not accusing Erika of shooting Charlie, only of dishonesty",
+   "label": "Host says she is not accusing Erika of shooting Charlie, only of dishonesty",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is not accusing Erika of shooting her husband and that her accusation is that Erika's conduct reeks of dishonesty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "No, I'm not accusing you of shooting your husband. What I am accusing that I have been open about on this show is that it reeks of dishonesty"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2009.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10647"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8598"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-8596"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-check the host's past episodes for any claim that Erika Kirk shot or arranged the killing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8612",
+   "header": "**C-8612** Host says Erika stood next to Kash Patel at the WHCD while the FBI holds up the case",
+   "label": "Host says Erika stood next to Kash Patel at the WHCD while the FBI holds up the case",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was standing next to FBI Director Kash Patel at the dinner while, in the host's view, the FBI is holding up the case, and that she wouldn't be able to stomach standing next to him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you're standing next to the FBI director that's holding up your case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-69, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Event photos of Erika Kirk and Kash Patel at the WHCD and the status of discovery requests in the Robinson case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8613",
+   "header": "**C-8613** Host says Erika told her Kolvet and the surgeon went rogue and she was not part of the conversation",
+   "label": "Host says Erika told her Kolvet and the surgeon went rogue and she was not part of the conversation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk claimed the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10447, N-10358"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5419, C-4492"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The surgeon's account of the call, phone records, and Erika Kirk's and Kolvet's statements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8614",
+   "header": "**C-8614** Host says donors present allege Erika lied about Charlie's take-over statement",
+   "label": "Host says donors present allege Erika lied about Charlie's take-over statement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:57:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, according to donors who were present, Erika lied about Charlie saying he wanted her to take over if he were killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you lying allegedly, according to donors that were present, about Charlie saying"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664, N-10194"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5399"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the donors and the event; compare their accounts with the Aspen audio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8615",
+   "header": "**C-8615** Baron Coleman says the widow role gives no license to lie and he can criticize documented falsehoods",
+   "label": "Baron Coleman says the widow role gives no license to lie and he can criticize documented falsehoods",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip of his show played by the host, Baron Coleman says no religious tradition gives a widow a free pass to lie and that nothing prevents him from criticizing Erika Kirk for documented falsehoods."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's no requirement I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2962.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-330, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Coleman clip and the list of falsehoods he regards as documented."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8616",
+   "header": "**C-8616** Host Says Neff and Kolvet Gave Different Excuses",
+   "label": "Host Says Neff and Kolvet Gave Different Excuses",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:59:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you can't get on board with the same messaging. Blake Neff already gave a different excuse."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2966.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10647"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8599"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Neff's and Kolvet's posts side by side."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8617",
+   "header": "**C-8617** Host says Erika was on the phone during the surgeon call and facilitated it",
+   "label": "Host says Erika was on the phone during the surgeon call and facilitated it",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:01:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk claimed she was not on the phone when she was, and that she facilitated the whole conversation involving the surgeon, and that blame was placed on Dr. Lee Trotter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "to claim that you weren't on the phone when you were, and you facilitated that entire conversation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-195, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10447, N-10358"
+    },
+    {
+     "k": "Supports",
+     "v": "C-5419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Phone records of the call and testimony from participants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8618",
+   "header": "**C-8618** Host says Loomer alleged she and her husband live separately with dual citizenship",
+   "label": "Host says Loomer alleged she and her husband live separately with dual citizenship",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks it was Laura Loomer who claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "according to Laura Loomer we were we were living separate and in two different houses, and I had dual citizenship. Of course, none of that is true."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3, N-30"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Loomer's original posts and public records on residence and citizenship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8619",
+   "header": "**C-8619** Host says Loomer claimed her husband was in a secret gay relationship with Milo",
+   "label": "Host says Loomer claimed her husband was in a secret gay relationship with Milo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Laura Loomer claimed George Farmer was in a secret gay relationship with Milo Yiannopoulos, offering an AI photo of him in a silk shirt as proof."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Then it was George is in a secret gay relationship with Milo."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-30, N-220, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Loomer's original post and the image used."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8620",
+   "header": "**C-8620** Host says her husband first met Milo when she interviewed him",
+   "label": "Host says her husband first met Milo when she interviewed him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:02:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says George Farmer had never met Milo at all, not once in London, until the day she interviewed Milo at the house."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "George had never even met Milo at all, not once in London, until the day that I interviewed him here in this house."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-30, N-220, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Date of the host's interview with Milo Yiannopoulos and testimony from Farmer or Yiannopoulos."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8622",
+   "header": "**C-8622** Host reads Loomer saying the host's lawyer dropped her ahead of the Macron deadline",
+   "label": "Host reads Loomer saying the host's lawyer dropped her ahead of the Macron deadline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:04:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Loomer tweet saying Loomer reported the host's lawyer dropping her ahead of an important deadline in the lawsuit with the Macrons, and that Candace was fleeing the country."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I reported her Zionist Jewish lawyer dropping her ahead of an important deadline in her lawsuit with the Macrons next week."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2963.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3, N-82, N-377"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Court docket for the Macron suit showing any withdrawal of counsel and Loomer's original post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8623",
+   "header": "**C-8623** Host reads Loomer saying the host hid nearly 12 million dollars in a secret trust",
+   "label": "Host reads Loomer saying the host hid nearly 12 million dollars in a secret trust",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:04:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, and saying her other lawyer's firm specializes in bankruptcies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember I exposed her secret trust where she's hiding nearly 12 million dollars in real estate among other assets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2963.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10270"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Loomer's original post and any property or trust records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8625",
+   "header": "**C-8625** Host says Aubrey posted an AI photo joke wishing her happy birthday",
+   "label": "Host says Aubrey posted an AI photo joke wishing her happy birthday",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:05:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Aubrey Laitsch posted an obvious AI photo joke saying \"Happy birthday, Candace\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "An obvious AI photo joke from Aubrey saying, \"Happy birthday, Candace.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2012.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Aubrey Laitsch's original post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8626",
+   "header": "**C-8626** Host says the Rome trip was planned and not abrupt",
+   "label": "Host says the Rome trip was planned and not abrupt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:05:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Rome trip with her husband and children was a completely planned trip and not an abrupt flight from the country."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "no, this was not an abrupt trip, but a completely planned, as it is when you have children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2013.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-30"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8627"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Travel bookings and the March announcement of the confirmation date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8628",
+   "header": "**C-8628** Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome",
+   "label": "Host says she saw none of Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:07:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she did not see Aubrey Laitsch, Nick Fuentes or David Axelrod in Rome."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "No, I did not see Aubrey. I did not see Nick Fuentes. I did not see David Axelrod."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2012.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-550, N-201, N-372, N-3"
+    },
+    {
+     "k": "Contradicts",
+     "v": "C-8624"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Travel records or statements from the three named people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8629",
+   "header": "**C-8629** Host says she did not respond to Trump because she had promised her priest she would chill",
+   "label": "Host says she did not respond to Trump because she had promised her priest she would chill",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:07:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and that he was there when the Trump post happened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that was part of the reason why I had no response to Trump. Uh cuz I told my priest I would chill"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Personal account; the priest's confirmation would be needed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8630",
+   "header": "**C-8630** Host says the Corby Hall episode was pre-recorded",
+   "label": "Host says the Corby Hall episode was pre-recorded",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:08:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Corby Hall episode was pre-recorded to cover Thursday while she was away, which is why she didn't mention it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we recorded the Corby Hall episode because we were trying to cover for Thursday"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-342, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10613"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the recording date of the Corby Hall episode with the host's travel dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8631",
+   "header": "**C-8631** Viewer comment says Corby Hall turned down an offer to sell 50,000 guns",
+   "label": "Viewer comment says Corby Hall turned down an offer to sell 50,000 guns",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:12:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment saying Corby Hall, though broke, turned down an offer to sell 50,000 guns on principle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he gets an offer to sell 50,000 guns and he turns it down on principle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2014.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-342"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10601"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Corby Hall episode and any correspondence about the 50,000-gun offer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8632",
+   "header": "**C-8632** Host says Victor Marx never replied to her Instagram message",
+   "label": "Host says Victor Marx never replied to her Instagram message",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:12:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Victor Marx has been posting videos but never replied to her Instagram message or her follow-up, and she invites him to appear by Zoom on her terms."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He never replied uh to my Instagram at all and I followed up"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10613"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The host's Instagram messages and Marx's response, if any."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8633",
+   "header": "**C-8633** Host says her confirmation name is Saint Joan, after Joan of Arc",
+   "label": "Host says her confirmation name is Saint Joan, after Joan of Arc",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:12:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she chose Saint Joan, Joan of Arc, as her confirmation name."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "for my confirmation name I picked a Saint Joan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2013.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Supports",
+     "v": "C-8627"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Host's confirmation records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-8634",
+   "header": "**C-8634** Host says she did not meet the Pope in Rome",
+   "label": "Host says she did not meet the Pope in Rome",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "01:14:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she did not meet the Pope; she did some tours around the Vatican with her children on what she calls a normal family vacation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I did not meet the Pope."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public schedule of Pope Leo XIV audiences versus the host's travel dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "# Contradictions",
+    "",
+    "1. **Erika Kirk's Murder Claim vs. Candace's Text Context**",
+    "   - Claim A: Erika Kirk stated (A-2009.4) that Candace Owens has accused her of murdering her husband.",
+    "   - Claim B: Candace's text message (A-2011.1) contained the phrase \"why did you murder your husband?\" with cry emojis in a December 2025 thread framed as a private joke, and Candace has explicitly authorized release of the full chain.",
+    "   - Both cannot comfortably coexist without clarification on whether the text constitutes a \"public accusation\" or a private joke reference to the Bari Weiss/Ben Shapiro framing.",
+    "",
+    "2. **Laura Loomer's Rome Summit Claim vs. Candace's Confirmation Announcement**",
+    "   - Claim A: Laura Loomer tweeted (A-2012.3) that Candace was attending a secret anti-Trump summit in Rome with Nick Fuentes, David Axelrod, and Aubrey Laitsch.",
+    "   - Claim B: Candace publicly announced (A-2013.2) her upcoming Catholic confirmation in March 2026, and viewer comments (A-2014.1) corroborate family travel to Rome for confirmation.",
+    "   - Both cannot comfortably coexist without clarification of the actual Rome itinerary and attendees.",
+    "",
+    "3. **Erika's Criticism of Journalists Filming vs. Terryl Farnsworth's Recording**",
+    "   - Claim A: Erika Kirk stated (A-2009.2) that journalists filming during an active shooting situation was inappropriate.",
+    "   - Claim B: Terryl Farnsworth recorded himself on video (A-2010.1) at the Charlie Kirk shooting scene within seconds, including footage of the immediate aftermath.",
+    "   - Both cannot comfortably coexist without clarification of the differing standards applied to her team's filming vs. journalists' filming.",
+    "",
+    "---",
+    "",
+    "# Optional Flags",
+    "",
+    "- **Name uncertainty**: \"Karoline Leavitt\" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-280).",
+    "- **Possible transcription error**: \"Cole Allen\" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.",
+    "- **Transcript ambiguity**: \"Druski\" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.",
+    "- **Requires human verification**: Sara Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).",
+    "- **Artifact verbally referenced but not displayed in full**: Multiple Laura Loomer tweets are read aloud in the episode; full visual capture not confirmed.",
+    "- **Claim failed admission test**: Host assertions not artifact-anchored in this episode include – (1) Trump's tweet was the fourth attack on Candace in two weeks, (2) Susie Wiles opposed the Truth Social post, (3) Charlie Kirk never attended the White House Correspondents Dinner, (4) Laura Loomer has blackmail on Trump, (5) the Trump Truth Social tweet was driven by Laura Loomer's demands."
+   ]
+  }
+ ]
+}

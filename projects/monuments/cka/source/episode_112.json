@@ -1,0 +1,5716 @@
+{
+ "format": "cka-source/1",
+ "episode": 112,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 112",
+    "- **Monument**: cka",
+    "- **CKA seq**: 112",
+    "- **YouTube id**: tXoI0TTKVrs",
+    "- **Candace Ep**: 346",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:58:30",
+    "- **Extraction Timestamp (UTC)**: 2026-10-13T21:38:12Z",
+    "- **Transcript SHA-256**: a316d7453a384cbd49985112bbc5db6432257f1fd1bc2e359ce7d4447e782b63",
+    "- **Model Version**: claude-manual-extract-seq112",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (skeleton): N-660, N-661, N-662, N-663, N-664, N-666, N-667, N-10955, N-10957, N-10958, N-10959, N-10960",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-9, N-14, N-15, N-99, N-159, N-178, N-209, N-277, N-278, N-433, N-450, N-544, N-579, N-591, N-606, N-621, N-625, N-626, N-657, N-10000, N-10008, N-10068, N-10083, N-10194, N-10350, N-10411, N-10496, N-10519, N-10541, N-10637, N-10700, N-10888, N-10899, N-10916, N-10923, N-659, N-10956, N-665",
+    "  - Claim Range: C-9769–C-9817",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "The host opens with Dana Loesch, whom she says posted more than 23 times on X after claiming she did not care that people mocked her \"widow\" scripture speech at the Young Women's Leadership Summit (A-2628.1). The host says her sources told her that Erika Kirk cut her own speech short after an attendee called her a \"pedophile protector\" and then left the summit without closing it out. She plays a Dana Loesch audio clip saying Erika \"wasn't there for the whole weekend\" (A-2628.2). The host contrasts this with Charlie Kirk's habit of facing hecklers (A-2629.1). She alleges that Erika invented a Secret Service threat to avoid an event with JD Vance, that Erika partners with people such as Greg Laurie who are accused of trafficking, and that Erika personally phoned clergy and attendees to discourage them from attending the host's Catholics for Catholics event in March. She also alleges that Erika directed Andrew Kolvet's statement that Charlie only liked Catholic architecture.",
+    "",
+    "The host then reads two follow-up emails (A-2630.1, A-2630.2) that she sent to Justin Streiff, Andrew Kolvet and the TPUSA lawyer. The emails ask for an on-record yes or no on whether the WLS video in which Charlie Kirk appears to appoint Erika to run Turning Point USA is authentic. She says the only reply was a TPUSA X account post sharing her email (A-2630.3). She names the donors who asked the question as Julie and Arthur Fields of North Carolina, saying this removes TPUSA's stated reason for withholding the full video. According to the host, a donor source says the video is doctored, and Charlie told the donors at a later dinner only that the board would figure out succession. On the \"emotional asset\" email, the host says the NSA redirected her FOIA request to the Department of War (A-2631.1). She says the Department of War called the request too burdensome (A-2631.2), and that her office then narrowed it to named recipients including Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott (A-2631.3).",
+    "",
+    "In the second segment the host plays Ivanka Trump on David Senra's podcast saying she and Jared Kushner found a 1,400-hectare Mediterranean island while swimming from a friend's boat (A-2632.1). The host identifies the island as Sazan Island off Albania and says the friend was Nat Rothschild. A news report (A-2633.1) describes a fourth day of protests in Tirana against the Affinity Partners resort project, Prime Minister Edi Rama's statement that the investment will not stop, and an investigation opened by Albania's anti-corruption agency. A Tim Dillon clip (A-2634.1) criticizes the Trump family as \"Tsarists.\"",
+    "",
+    "In the final segments the host shows a US Weekly email (A-2635.1) giving her 24 hours to respond to a print story about Erika Kirk that quotes Tracy Martin and James Kaddis. She disputes Tracy Martin's claim that Charlie Kirk was scared to answer her calls and alleges that the byline is a non-existent journalist. She also comments on Ariana Grande's split from Ethan Slater. In the comments segment she criticizes Andrew Kolvet's association with Paramount Tactical and repeats her demand for a yes-or-no answer from Turning Point USA.",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2628",
+   "header": "**A-2628** Dana Loesch WLS Speech Aftermath Bundle",
+   "label": "Dana Loesch WLS Speech Aftermath Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2628.1",
+   "header": "**A-2628.1** Screens of Dana Loesch's X posts responding to criticism of her WLS \"widow\" speech",
+   "label": "Screens of Dana Loesch's X posts responding to criticism of her WLS \"widow\" speech",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9769, N-657*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2628.2",
+   "header": "**A-2628.2** Audio clip from Dana Loesch's show on Erika Kirk's attendance at the summit",
+   "label": "Audio clip from Dana Loesch's show on Erika Kirk's attendance at the summit",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"She was very, very obviously upset, but she held it together on stage. She wasn't there for the whole weekend. She was scheduled to be there for the whole weekend, but who would want to endure that?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9772, N-657, N-2, N-10008*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2629",
+   "header": "**A-2629** Charlie Kirk Heckling Clip Bundle",
+   "label": "Charlie Kirk Heckling Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2629.1",
+   "header": "**A-2629.1** Video clip of Charlie Kirk being confronted by hecklers (audio not transcribed beyond \"Hey, come over here.\")",
+   "label": "Video clip of Charlie Kirk being confronted by hecklers (audio not transcribed beyond \"Hey, come over here.\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9773, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2630",
+   "header": "**A-2630** Host's Emails to TPUSA on the WLS Appointment Video Bundle",
+   "label": "Host's Emails to TPUSA on the WLS Appointment Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2630.1",
+   "header": "**A-2630.1** Host's first follow-up email to TPUSA executives (read aloud)",
+   "label": "Host's first follow-up email to TPUSA executives (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Just following up as we saw the tweet response from Turning Point USA's exac account, but we are seeking an onrecord statement from someone identifiable at the company reduced to just two questions below.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9784, N-3, N-14, N-15, N-10957*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2630.2",
+   "header": "**A-2630.2** Host's second follow-up email to TPUSA executives (read aloud)",
+   "label": "Host's second follow-up email to TPUSA executives (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Hey all, just following up again on the below. We would really appreciate a clean statement from somebody identifiable at Turning Point USA to confirm that the video released has not been doctorred in any way and that Charlie's statements are properly contextualized.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9784, N-3, N-14, N-10957*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2630.3",
+   "header": "**A-2630.3** Host verbal reference to the TPUSA X account post sharing her original email",
+   "label": "Host verbal reference to the TPUSA X account post sharing her original email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9783, N-10000, N-10957*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2631",
+   "header": "**A-2631** \"Emotional Asset\" Email FOIA Correspondence Bundle",
+   "label": "\"Emotional Asset\" Email FOIA Correspondence Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2631.1",
+   "header": "**A-2631.1** NSA reply redirecting the host's FOIA request (shown)",
+   "label": "NSA reply redirecting the host's FOIA request (shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Uh, you do not appear to be seeking records.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9791, N-10068, N-10888, N-10700*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2631.2",
+   "header": "**A-2631.2** Host verbal reference to the Department of War reply calling the request too burdensome",
+   "label": "Host verbal reference to the Department of War reply calling the request too burdensome",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9792, C-9793, N-10888, N-591*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2631.3",
+   "header": "**A-2631.3** Host's office follow-up email to the Department of War naming specific recipients (read aloud)",
+   "label": "Host's office follow-up email to the Department of War naming specific recipients (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Thank you for the prompt response, looping us all.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9794, N-433, N-625, N-621, N-626, N-10888*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2632",
+   "header": "**A-2632** Ivanka Trump David Senra Podcast Bundle",
+   "label": "Ivanka Trump David Senra Podcast Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2632.1",
+   "header": "**A-2632.1** Clip of Ivanka Trump on David Senra's podcast describing the island project",
+   "label": "Clip of Ivanka Trump on David Senra's podcast describing the island project",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Well, it's an unbelievable, beautiful 1,400 hectare private island in the middle of the Mediterranean. We were on a friend's boat and we stopped for a swim. Effectively, that's how we found it. We swam to the islands.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9798, C-9799, C-9800, N-659, N-662, N-178, N-10955*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2633",
+   "header": "**A-2633** Albania Protest News Report Bundle",
+   "label": "Albania Protest News Report Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2633.1",
+   "header": "**A-2633.1** News report on protests in Tirana against the Kushner-linked resort project",
+   "label": "News report on protests in Tirana against the Kushner-linked resort project",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"For the fourth day in a row, thousands of protesters took to the streets of the Albanian capital, brandishing national flags and flamingosshaped cardboard cutouts on sticks.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9803, C-9804, C-9805, C-9806, C-9807, C-9808, N-178, N-664, N-10955, N-10958, N-10959*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2634",
+   "header": "**A-2634** Tim Dillon Commentary Bundle",
+   "label": "Tim Dillon Commentary Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2634.1",
+   "header": "**A-2634.1** Tim Dillon clip on the Trump family as \"Zarists\"",
+   "label": "Tim Dillon clip on the Trump family as \"Zarists\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"You know when this concert he's going to do this concert to celebrate America's 250th anniversary and all these acts pulled out.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9809, N-277, N-5*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2635",
+   "header": "**A-2635** US Weekly Erika Kirk Story Bundle",
+   "label": "US Weekly Erika Kirk Story Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2635.1",
+   "header": "**A-2635.1** US Weekly email to the host requesting comment within 24 hours (shown; host says she posted it on X)",
+   "label": "US Weekly email to the host requesting comment within 24 hours (shown; host says she posted it on X)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I'm reaching out because US Weekly is preparing a story regarding Erika Kirk and it's going to reclude reporting and comments regarding Candace Owens.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9810, C-9811, C-9812, C-9813, C-9814, N-10960, N-544, N-665, N-2, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "His habit of facing hecklers and closing out events is contrasted with Erika Kirk's conduct. The authenticity of the WLS appointment video and his succession comments at the donor dinner are disputed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9771, C-9773, C-9775, C-9783, C-9786, C-9787, C-9788, C-9796, C-9797, C-9812, C-9813, A-2629.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host alleges she left WLS early, avoided an event with JD Vance, made calls against the host's Catholics for Catholics event and directed TPUSA messaging. She is also the subject of the WLS appointment video, the \"emotional asset\" email and the US Weekly story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9770, C-9771, C-9772, C-9774, C-9775, C-9776, C-9777, C-9778, C-9779, C-9780, C-9783, C-9787, C-9788, C-9790, C-9793, C-9797, C-9810, A-2628.2, A-2635.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; sent the follow-up emails to TPUSA, filed the FOIA requests and received the US Weekly request for comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9773, C-9781, C-9782, C-9784, C-9810, C-9813, A-2630.1, A-2630.2, A-2635.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-4",
+   "header": "**N-4** JD Vance",
+   "label": "JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named as the vice president Erika Kirk allegedly avoided facing at a poorly attended event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9774*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Quoted by the host on bombing bridges in Iran; subject of the Tim Dillon clip about the America 250 concert."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9795, C-9809, A-2634.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in the host's allegation about Erika Kirk and Next Model Management."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9777*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Andrew Kolvet\" and \"Andrew Kolvet\". Addressed in the host's emails as TPUSA spokesperson; the host alleges that he followed Erika Kirk's direction on Catholic messaging and that he hosted Graham Allen to call the WHCD email fake. She also criticizes his association with Paramount Tactical."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9779, C-9780, C-9783, C-9784, C-9789, C-9817, A-2630.1, A-2630.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "Named by the host as TPUSA COO and an addressee of her email on the appointment video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9783, A-2630.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-99",
+   "header": "**N-99** Alex Clark",
+   "label": "Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Andrew Kolvet was live-texting Erika Kirk during an interview with her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9780*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Blake Neff\". The host says he does not work for Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9785*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-178",
+   "header": "**N-178** Jared Kushner",
+   "label": "Jared Kushner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Husband of Ivanka Trump; his firm Affinity Partners leads the Albanian resort project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9798, C-9800, C-9805, A-2632.1, A-2633.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-209",
+   "header": "**N-209** Joe Kent",
+   "label": "Joe Kent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Erika Kirk directed attacks on him for wanting to examine a foreign connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9797*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-277",
+   "header": "**N-277** Tim Dillon",
+   "label": "Tim Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Tim Dillon\". Comedian whose clip on the Trump family is played."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9809, A-2634.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-278",
+   "header": "**N-278** Bari Weiss",
+   "label": "Bari Weiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Bari Weiss\". Named by the host as being installed to control mainstream media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9796*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-433",
+   "header": "**N-433** Bradley Hansell",
+   "label": "Bradley Hansell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Bradley Hansell\". Named in the host's narrowed FOIA request as a Department of War recipient."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9794, A-2631.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-450",
+   "header": "**N-450** Greg Laurie",
+   "label": "Greg Laurie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Greg Laurie\". The host says he is accused in court of trafficking people from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9776*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-544",
+   "header": "**N-544** Tracy Martin",
+   "label": "Tracy Martin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Described by the host as Erika Kirk's best friend; quoted in the US Weekly story as saying Charlie Kirk was scared of the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9812, A-2635.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-579",
+   "header": "**N-579** Thomas Massie",
+   "label": "Thomas Massie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says AIPAC effectively ousted him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9795*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-591",
+   "header": "**N-591** Pete Hegseth",
+   "label": "Pete Hegseth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Pete Hegsath\". Named as head of the Department of War, to which the host's FOIA request was redirected."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9792, A-2631.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-657",
+   "header": "**N-657** Dana Loesch",
+   "label": "Dana Loesch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:01 in episode 112. Transcript spelling \"Dana Loesch\". Gave the \"widow\" scripture speech at the Young Women's Leadership Summit and later confirmed on her show that Erika Kirk did not stay the whole weekend.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9769, C-9772, A-2628.1, A-2628.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-659",
+   "header": "**N-659** Ivanka Trump",
+   "label": "Ivanka Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:51 in episode 112. Described on David Senra's podcast how she and Jared Kushner found the island they are developing off Albania.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9798, C-9799, C-9800, C-9801, C-9802, A-2632.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-606",
+   "header": "**N-606** Graham Allen",
+   "label": "Graham Allen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "16:45 in episode 112. The host says he does not work for TPUSA and was hosted by Andrew Kolvet to claim the WHCD email was fake.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9785, C-9789*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-660",
+   "header": "**N-660** Julie Fields",
+   "label": "Julie Fields",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "16:45 in episode 112. Named by the host as the donor who asked Charlie Kirk the succession question that prompted the WLS video moment.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9786*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-661",
+   "header": "**N-661** Arthur Fields",
+   "label": "Arthur Fields",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "17:54 in episode 112. Named with Julie Fields as the North Carolina donors who asked the question.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9786*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-625",
+   "header": "**N-625** Richard Smale",
+   "label": "Richard Smale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "21:10 in episode 112. Transcript spelling \"Richard Smale\". Named in the host's narrowed FOIA request as a Department of War recipient.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9794, A-2631.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-621",
+   "header": "**N-621** Gustav Anderly",
+   "label": "Gustav Anderly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "21:10 in episode 112. Named in the host's narrowed FOIA request as a Department of War recipient.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9794, A-2631.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-626",
+   "header": "**N-626** Michaela Mott",
+   "label": "Michaela Mott",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "21:10 in episode 112. Transcript spelling \"Michaela Mott Marzuka\". Named in the host's narrowed FOIA request as a Department of War recipient.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9794, A-2631.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-662",
+   "header": "**N-662** David Senra",
+   "label": "David Senra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "30:03 in episode 112. Podcast host who interviewed Ivanka Trump about the island project.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9799, A-2632.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-663",
+   "header": "**N-663** Nat Rothschild",
+   "label": "Nat Rothschild",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "33:19 in episode 112. Aliases \"Nathan Rothschild\" and \"Nat Rothschild\". The host says it was his boat that Ivanka Trump swam from when she \"found\" the island.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9801*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-664",
+   "header": "**N-664** Edi Rama",
+   "label": "Edi Rama",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "39:21 in episode 112. Transcript spelling \"Ed Rama\". Albanian prime minister quoted in the news report as saying the investment will not stop.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9807, A-2633.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-665",
+   "header": "**N-665** James Kaddis",
+   "label": "James Kaddis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "43:36 in episode 112. Transcript spelling kept. Described by the host as running the TPUSA faith department and as quoted in the US Weekly story.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9811, A-2635.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-666",
+   "header": "**N-666** Ariana Grande",
+   "label": "Ariana Grande",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "46:27 in episode 112. Singer whose split from Ethan Slater the host discusses.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9815, C-9816*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-667",
+   "header": "**N-667** Ethan Slater",
+   "label": "Ethan Slater",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "46:27 in episode 112. Actor whose relationship with Ariana Grande ended.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9815, C-9816*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose executives have not answered the host's question on whether the appointment video is doctored; its X account shared her email instead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9782, C-9783, C-9784, C-9785, C-9786, A-2630.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10008",
+   "header": "**N-10008** YWLS Conference",
+   "label": "YWLS Conference",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The 2026 Young Women's Leadership Summit, where Dana Loesch spoke and from which the host says Erika Kirk left early."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9769, C-9770, C-9771, C-9772, A-2628.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10068",
+   "header": "**N-10068** NSA",
+   "label": "NSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Redirected the host's FOIA request on the \"emotional asset\" email to the Department of War."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9791, A-2631.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10083",
+   "header": "**N-10083** AIPAC",
+   "label": "AIPAC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host (\"Apac\") as effectively ousting Thomas Massie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9795*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10350",
+   "header": "**N-10350** Charlie Kirk Catholicism Journey",
+   "label": "Charlie Kirk Catholicism Journey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Context for the host's allegation that Erika Kirk directed Andrew Kolvet to say Charlie only liked the architecture of the Catholic Church."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9779*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10411",
+   "header": "**N-10411** Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+   "label": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Context for the host's statement that Greg Laurie is accused in court of trafficking people from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9776*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10496",
+   "header": "**N-10496** Egyptian Planes Investigation",
+   "label": "Egyptian Planes Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Erika Kirk laughed at the Egyptian planes' departure times on the day of the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9797*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10519",
+   "header": "**N-10519** Erika Kirk Next Model Management Involvement",
+   "label": "Erika Kirk Next Model Management Involvement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Context for the host's allegation about Erika Kirk and Jeffrey Epstein's orbit at Next Model Management."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9777*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10541",
+   "header": "**N-10541** Strait of Hormuz / US-Iran War Context",
+   "label": "Strait of Hormuz / US-Iran War Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Context for the host's paraphrase of Trump on bombing bridges in Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9795*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10637",
+   "header": "**N-10637** WHCD Incident Reconstruction",
+   "label": "WHCD Incident Reconstruction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Context for Erika Kirk's attendance at the White House Correspondents' Dinner and the shooting incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9775, C-9790*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10700",
+   "header": "**N-10700** Pending FOIA Requests",
+   "label": "Pending FOIA Requests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cluster of FOIA requests filed by the host's team; this episode reports the NSA redirect and the Department of War \"burden\" reply on the \"emotional asset\" email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9791, C-9792, C-9793, C-9794, A-2631.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10888",
+   "header": "**N-10888** Department of War",
+   "label": "Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Received the redirected FOIA request and replied that it was too burdensome; the host says it was directing people to boost Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9790, C-9791, C-9792, C-9793, C-9794, A-2631.1, A-2631.2, A-2631.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10899",
+   "header": "**N-10899** Paramount Tactical",
+   "label": "Paramount Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript \"Paramount Not So Tactical\" / \"Paramount Tactical\". The host says the account accidentally exposed its use of ChatGPT and its place in an influencer network."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9817*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10923",
+   "header": "**N-10923** White House Military Office Erika Kirk Amplification Email",
+   "label": "White House Military Office Erika Kirk Amplification Email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the internal email the host says described Erika Kirk as an \"emotional asset\" about an hour after the WHCD shooting and directed people to boost her \"I want to go home\" video. In this episode the host says Andrew Kolvet hosted Graham Allen to claim it was fake. She also says her FOIA request about it was redirected from the NSA to the Department of War, which called the request too burdensome."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9789, C-9790, C-9791, C-9792, C-9793, C-9794, N-10888, N-10700*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10955",
+   "header": "**N-10955** Sazan Island",
+   "label": "Sazan Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Albania's largest island, off the coast of Albania, which the host identifies as the island Ivanka Trump says she \"found\" while swimming from a friend's boat. The news report describes it as a remote island that served as a secret military base under the communist regime. It is one of two sites of the Affinity Partners resort project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9798, C-9799, C-9800, C-9805, A-2632.1, A-2633.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10956",
+   "header": "**N-10956** Catholics for Catholics",
+   "label": "Catholics for Catholics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Organizer of the March 2026 prayer event at which the host spoke. The host alleges Erika Kirk personally phoned priests, bishops and attendees to discourage them from attending."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9778*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10957",
+   "header": "**N-10957** Charlie Kirk WLS \"I Appoint My Wife\" Video Authenticity Question",
+   "label": "Charlie Kirk WLS \"I Appoint My Wife\" Video Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "whether the video released from the WLS event, in which Charlie Kirk appears to appoint Erika Kirk to run Turning Point USA in his absence, is authentic, complete and in context. The host has emailed TPUSA executives for an on-record yes or no and has received no answer. She names the donors who asked the question as Julie and Arthur Fields, and says a donor source asserts the video is doctored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9782, C-9783, C-9784, C-9786, C-9787, C-9788, A-2630.1, A-2630.2, A-2630.3, N-10194*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10194",
+   "header": "**N-10194** TPUSA Succession Plan Disclosure Timeline",
+   "label": "TPUSA Succession Plan Disclosure Timeline",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Related prior topic on how and when TPUSA's succession plan was disclosed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9788*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10916",
+   "header": "**N-10916** Thomas Massie Kentucky Primary Outside Spending",
+   "label": "Thomas Massie Kentucky Primary Outside Spending",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Outside spending against Representative Thomas Massie in his Kentucky Republican primary. In this episode the host says AIPAC effectively ousted him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9795, N-579, N-10083*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10958",
+   "header": "**N-10958** Affinity Partners",
+   "label": "Affinity Partners",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Jared Kushner's investment firm, described in the news report as spearheading a multi-billion euro project for two ultra luxury resort complexes in Albania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9805, A-2633.1, N-178*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10959",
+   "header": "**N-10959** Affinity Partners Albania Resort Project Anti-Corruption Investigation",
+   "label": "Affinity Partners Albania Resort Project Anti-Corruption Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "k": "Investigation target",
+     "v": "the probe that the news report says Albania's state anti-corruption agency opened into the Kushner-linked resort project in the Narta Lagoon area and on Sazan Island. The agency has not disclosed further details. The host says she will follow it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9807, C-9808, A-2633.1, N-10958, N-10955*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10960",
+   "header": "**N-10960** US Weekly",
+   "label": "US Weekly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Magazine that emailed the host with 24 hours to respond to a print story about Erika Kirk that includes comments about the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9810, C-9811, C-9812, C-9813, C-9814, A-2635.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9769",
+   "header": "**C-9769** Dana Loesch posted more than 23 tweets after saying she did not care about criticism",
+   "label": "Dana Loesch posted more than 23 tweets after saying she did not care about criticism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Dana Loesch claimed on X that she did not care about people mocking her Women's Leadership Summit speech, but then authored more than 23 tweets responding to critics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She took to X to claim that and no big deal, I don't care. but then proceeded to author more than 23 tweets in response to people calling her out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2628.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-657"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10008"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive Dana Loesch's X posts from June 9, 2026 and count her replies on the speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9770",
+   "header": "**C-9770** Erika Kirk cut short her WLS speech after being called a \"pedophile protector\"",
+   "label": "Erika Kirk cut short her WLS speech after being called a \"pedophile protector\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host's sources, after someone called Erika Kirk a \"pedophile protector\" at the Women's Leadership Summit, she did not complete her full speech and shortened it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Anyway, I want to let you guys know that after someone called Erika Kirk a pedophile protector. Erika actually did not complete the entirety of her speech."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10008"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the scheduled length and text of Erika Kirk's WLS 2026 speech with full event footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9771",
+   "header": "**C-9771** Erika Kirk left the Women's Leadership Summit without closing out the event",
+   "label": "Erika Kirk left the Women's Leadership Summit without closing out the event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was told Erika Kirk then left the Women's Leadership Summit altogether and did not stay to close the event and thank organizers, as Charlie Kirk always did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And beyond that, that she then ditched the um women's leadership summit event altogether. Not staying to close out the event. That's uh something that Charlie always did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10008"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the WLS 2026 run of show and closing-session footage to see who closed the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9772",
+   "header": "**C-9772** Dana Loesch confirmed on her show that Erika Kirk did not stay the whole weekend",
+   "label": "Dana Loesch confirmed on her show that Erika Kirk did not stay the whole weekend",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip played by the host, Dana Loesch says Erika Kirk was scheduled to be at the summit for the whole weekend but was not there for all of it. The host says this confirms her scoop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She wasn't there for the whole weekend. She was scheduled to be there for the whole weekend, but who would want to endure that?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2628.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-657, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10008"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full Dana Loesch show episode and the published WLS 2026 schedule for Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9773",
+   "header": "**C-9773** Antifa chased the host and Charlie Kirk out of a Philadelphia restaurant and threw an egg at Charlie",
+   "label": "Antifa chased the host and Charlie Kirk out of a Philadelphia restaurant and threw an egg at Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Antifa once chased her and Charlie Kirk out of a restaurant in Philadelphia and threw an egg at Charlie, who smiled, laughed and waved at the camera."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "don't forget Antifa notoriously chased me and Charlie out of a restaurant in Philadelphia once. They threw an egg at Charlie and he smiled and he laughed and he waved at the camera."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2629.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate contemporaneous news coverage and video of the Philadelphia restaurant incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9774",
+   "header": "**C-9774** Host alleges Erika Kirk invented a Secret Service threat to avoid an empty crowd with JD Vance",
+   "label": "Host alleges Erika Kirk invented a Secret Service threat to avoid an empty crowd with JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Erika Kirk did not want to face an empty crowd with JD Vance and instead made up a Secret Service threat requiring her to fly home, leaving the vice president to speak in her absence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's why she did not want to face an empty crowd with JD Vance and she instead chose to make up a secret service proof threat which required her to fly home"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-4"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request Secret Service threat-assessment records for the event and compare with TPUSA's public explanation for Erika Kirk's absence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9775",
+   "header": "**C-9775** Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended",
+   "label": "Erika Kirk attended the White House Correspondents' Dinner, which Charlie Kirk never attended",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk chose to attend the White House Correspondents' Dinner, an event her husband never attended, and was filmed saying she wanted to go home after the Secret Service shooting incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She then made a decision to attend a public function, the White House correspondents dinner, somewhere her husband never attended"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check WHCD guest lists for prior years for Charlie Kirk's attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9776",
+   "header": "**C-9776** Greg Laurie is accused in court of trafficking people from Romania",
+   "label": "Greg Laurie is accused in court of trafficking people from Romania",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk partners on faith work with people credibly accused in court, as she says Greg Laurie is, of trafficking people from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who are credibly accused one way or the other in the court of law as Greg Laurie is of trafficking people from Romania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-450, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10411"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the court filings in the Harvest Christian Fellowship Romanian lawsuits and check whether Greg Laurie is a named defendant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9777",
+   "header": "**C-9777** Host alleges Erika Kirk was in Jeffrey Epstein's orbit at Next Model Management",
+   "label": "Host alleges Erika Kirk was in Jeffrey Epstein's orbit at Next Model Management",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk was \"hanging around Jeffrey Epstein's orbit of people over at Next Model Management in New York City\" and says she would like to hear an explanation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Maybe there's a reasonable explanation why she was hanging around Jeffrey Epstein's orbit of people over at Next Model Management in New York City."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10519"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Erika Kirk's modeling-agency history and Next Model Management's documented links to Epstein associates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9778",
+   "header": "**C-9778** Host alleges Erika Kirk phoned clergy and attendees to discourage attendance at the Catholics for Catholics event",
+   "label": "Host alleges Erika Kirk phoned clergy and attendees to discourage attendance at the Catholics for Catholics event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Erika Kirk personally phoned priests, bishops and attendees, telling them not to attend the Catholics for Catholics prayer event the host held in March, where the host spoke."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was her who personally made phone calls to people telling them not to attend the Catholic for Catholics event that I did back in March."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10956"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview clergy and invitees of the March 2026 Catholics for Catholics event about calls they received."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9779",
+   "header": "**C-9779** Host alleges Erika Kirk directed Andrew Kolvet's statement that Charlie only liked Catholic architecture",
+   "label": "Host alleges Erika Kirk directed Andrew Kolvet's statement that Charlie only liked Catholic architecture",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges Erika Kirk directed Andrew Kolvet to lie about Charlie Kirk's attendance at the Catholic Church, saying he \"just likes the architecture.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was her who directed Andrew Kolvet to lie about Charlie's attendance at the Catholic Church. He just likes the architecture."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10350"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Kolvet's original statement and any parish records of Charlie Kirk's Mass attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9780",
+   "header": "**C-9780** Kolvet was live-texting Erika Kirk during his interview with Alex Clark",
+   "label": "Kolvet was live-texting Erika Kirk during his interview with Alex Clark",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet was live-texting with Erika Kirk during his interview with Alex Clark to get her permission, in order to protect TPUSA's evangelical Zionist donor base."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Andrew Kolvet was live texting with Erika during that interview with Alex Clark to make sure that he had permission"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-2, N-99"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the source for the live-texting account and review the Alex Clark interview for visible phone use."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9781",
+   "header": "**C-9781** Host says she spends nothing on ads or influencer networks",
+   "label": "Host says she spends nothing on ads or influencer networks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she spends zero dollars on ads or influencer networks and has never told people not to attend Erika Kirk events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am spending zero dollars on ads or influencer networks. I've never once told people not to attend Erika Kirk events."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review ad-library records (Meta, Google, X) for paid promotion by the host's channels."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9782",
+   "header": "**C-9782** No TPUSA employee has answered whether the WLS appointment video is doctored",
+   "label": "No TPUSA employee has answered whether the WLS appointment video is doctored",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says no person who works for Turning Point USA has answered whether the video of Charlie Kirk saying he appoints his wife to the position is doctored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Whether or not the video that they presented of Erika uh being named by Charlie Kirk, I appoint my wife to this position. Is it doctorred? Yes or no? Little detail. No person who works for Turning Point USA has answered this question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10957, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain an on-record TPUSA statement and the original unedited source file of the WLS video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9783",
+   "header": "**C-9783** Host emailed Streiff, Kolvet and TPUSA's lawyer; TPUSA's X account shared the email instead of answering",
+   "label": "Host emailed Streiff, Kolvet and TPUSA's lawyer; TPUSA's X account shared the email instead of answering",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she addressed her email asking whether the video was doctored to COO Justin Streiff, spokesperson Andrew Kolvet and TPUSA's lawyer. She says they declined to respond officially and that the TPUSA X account shared the email instead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, I intentionally addressed my email where I asked, \"Was this doctorred to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA, and to their lawyer?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2630.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10957, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the TPUSA X post sharing the email and the original email header with recipients."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9784",
+   "header": "**C-9784** Host sent two further emails seeking an on-record yes or no",
+   "label": "Host sent two further emails seeking an on-record yes or no",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she wrote to TPUSA twice more, the previous day and that morning, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, I have since written them twice by email, politely insisting upon a written response from an identifiable Turning Point USA executive."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2630.1, A-2630.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10957, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the emails with headers and timestamps and any TPUSA reply."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9785",
+   "header": "**C-9785** Blake Neff and Graham Allen do not work for Turning Point USA",
+   "label": "Blake Neff and Graham Allen do not work for Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff and Graham Allen do not work for Turning Point USA, and that TPUSA keeps sending out its \"soldiers\" instead of Erika Kirk, Andrew Kolvet or Justin Streiff clarifying the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-606, N-2, N-14, N-15"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA staff listings, Form 990 compensation schedules and the two men's stated affiliations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9786",
+   "header": "**C-9786** The donors who asked Charlie Kirk the succession question were Julie and Arthur Fields of North Carolina",
+   "label": "The donors who asked Charlie Kirk the succession question were Julie and Arthur Fields of North Carolina",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA withheld the full video to protect the donor. She names the donors who asked Charlie Kirk what would happen if he were not there as Julie Fields and Arthur Fields of North Carolina, and says this removes TPUSA's barrier to releasing the full video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Why would they have to protect the donor from that? The donor who asked the question was Julie Fields."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-660, N-661, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10957, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the Fields family's attendance at the event and ask them directly about the exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9787",
+   "header": "**C-9787** Donor source says the appointment video is doctored",
+   "label": "Donor source says the appointment video is doctored",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host, a donor who was present says the appointment video is doctored, is willing to go \"very far\" on that claim, and had also thought that Charlie was \"one guy.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Um in fact, the donor who told me that it's doctorred and is willing to go very far on this claim that that that is doctorred uh said that they similarly thought the same thing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10957"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9050"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain a sworn statement from the donor source and forensic analysis of the original video file."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9788",
+   "header": "**C-9788** At a later donor dinner Charlie Kirk said only that the board would figure out succession",
+   "label": "At a later donor dinner Charlie Kirk said only that the board would figure out succession",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:54"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at a later dinner with the donors Charlie Kirk never mentioned Erika in connection with his plans, said the board would figure it out, cited Steve Jobs and Apple, and did not name her as successor in any legal document."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And Charlie never once said anything about Erika to them about his plans. He simply reiterated that the board would figure it out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10957, N-10194"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review TPUSA bylaws and board minutes on succession and interview dinner attendees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9789",
+   "header": "**C-9789** Kolvet hosted Graham Allen to claim the WHCD internal email was fake",
+   "label": "Kolvet hosted Graham Allen to claim the WHCD internal email was fake",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Andrew Kolvet hosted Graham Allen to claim that the White House Correspondents' Dinner internal email she shared was fake, and that Kolvet knows it is not fake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Most notorious is when he hosted Graham Allen to claim that the White House correspondents internal email that I shared was fake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-606"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Kolvet-hosted segment with Graham Allen and compare with any FOIA production of the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9790",
+   "header": "**C-9790** The email called Erika Kirk an \"emotional asset\" about an hour after the shooting",
+   "label": "The email called Erika Kirk an \"emotional asset\" about an hour after the shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the email described Erika Kirk as an emotional asset about one hour after the WHCD shooting and that the Department of War was directing people to boost her \"I want to go home\" video to number one by morning."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "This was approximately 1 hour after the shooting when the main concern should have been safety. Instead, the Department of War was directing people to artificially boost her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10923, N-10888, N-10637"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the email through FOIA and compare its timestamp with the shooting and the video's upload time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9791",
+   "header": "**C-9791** The NSA redirected the host's FOIA request to the Department of War",
+   "label": "The NSA redirected the host's FOIA request to the Department of War",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the NSA replied first to her FOIA request about the email and informed her team that it had been redirected to the Department of War."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We had first heard back from the NSA who informed us that the request was redirected to the Department of War."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2631.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10068, N-10888, N-10700, N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the NSA FOIA case number and referral letter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9792",
+   "header": "**C-9792** The Department of War said the request was too burdensome and not specific enough",
+   "label": "The Department of War said the request was too burdensome and not specific enough",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Department of War, which she notes is Pete Hegseth's department, replied that the request was too heavy a burden because it was not specific enough."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Department of War has since replied informing us that the burden was too heavy uh regarding our request because it was not specific enough."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2631.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888, N-10700, N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Department of War FOIA response letter and case number."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9793",
+   "header": "**C-9793** The original FOIA request covered a five-day window for emails naming Erika Kirk",
+   "label": "The original FOIA request covered a five-day window for emails naming Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the original request gave a five-day window and asked for any emails including the name Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We gave them a 5-day window and we asked for any emails which included the name Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2631.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888, N-10700, N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Publish the original FOIA request text with its date range."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9794",
+   "header": "**C-9794** Host's narrowed FOIA follow-up named Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott",
+   "label": "Host's narrowed FOIA follow-up named Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her office's follow-up to the Department of War gave dates and named specific recipients, Bradley Hansell, Richard Smale, Gustav Anderly and Michaela Mott Marzuka. It limited the search to that department's personnel and to emails about Erika Kirk and the WHCD shooting incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smale, Gustav Anderly, Michaela Mott Marzuka."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2631.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433, N-625, N-621, N-626, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10888, N-10700, N-10923"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track the Department of War's response to the narrowed request and verify each named recipient's position."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9795",
+   "header": "**C-9795** Host says AIPAC effectively ousted Thomas Massie and Trump said he would bomb Iran's bridges",
+   "label": "Host says AIPAC effectively ousted Thomas Massie and Trump said he would bomb Iran's bridges",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says AIPAC effectively ousted Thomas Massie in Kentucky. She paraphrases Trump as saying he does not care whether people want war with Iran and that the US is \"going to bomb their bridges.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the fact that they just keep on going because they have enough money, uh, Apac uh, effectively ousting Thomas Massie"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-579, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10083, N-10916, N-10541"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Kentucky primary result and FEC outside-spending records, and locate Trump's statement on Iranian bridges."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9796",
+   "header": "**C-9796** Host alleges Charlie Kirk's assassination was a deep-state operation focused on Israel",
+   "label": "Host alleges Charlie Kirk's assassination was a deep-state operation focused on Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges Charlie Kirk was not killed by \"a random leftist\" but in a deep-state assassination \"akin to JFK\" whose subject matter is Israel. She also says Bari Weiss is being installed to control the mainstream media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We know that this is deep state. We know that we are looking at an assassination akin to JFK. And we know that the subject matter is Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-278"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the charging documents and evidence in the Tyler Robinson prosecution."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9797",
+   "header": "**C-9797** Host says Erika Kirk directed attacks on Joe Kent and laughed at the Egyptian planes",
+   "label": "Host says Erika Kirk directed attacks on Joe Kent and laughed at the Egyptian planes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk directed attacks against Joe Kent for wanting to look into a foreign connection and laughed at the Egyptian planes that departed at \"mysterious times\" on the day of the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She wouldn't have been directing attacks against Joe Kent for wanting to look into a foreign connection. She wouldn't be laughing at Egyptian planes that departed at departed at mysterious times on the day of his assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-209, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10496"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Erika Kirk's public remarks on the Egyptian planes and on Joe Kent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9798",
+   "header": "**C-9798** The island is Sazan Island, Albania's largest",
+   "label": "The island is Sazan Island, Albania's largest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ivanka Trump discussed her plans for Sazan Island (\"Saison Island\") on David Senra's podcast, and that it is off the coast of Albania and is the country's largest island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "discussing her plans for Saison Island, which is off the coast of Albania. Uh, it's actually Albania's largest island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-659, N-662"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the island's identity and size from Albanian land records and the Affinity Partners project filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9799",
+   "header": "**C-9799** Ivanka Trump says they found the 1,400-hectare island while swimming from a friend's boat",
+   "label": "Ivanka Trump says they found the 1,400-hectare island while swimming from a friend's boat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the David Senra podcast clip, Ivanka Trump says the island is a 1,400-hectare private island in the Mediterranean that she and her husband found when they stopped for a swim from a friend's boat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, it's an unbelievable, beautiful 1,400 hectare private island in the middle of the Mediterranean. We were on a friend's boat and we stopped for a swim. Effectively, that's how we found it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-659, N-662, N-178"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with prior reporting on how the Sazan Island deal originated, including any earlier Kushner proposals."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9800",
+   "header": "**C-9800** The project also includes five miles of beachfront across from the island",
+   "label": "The project also includes five miles of beachfront across from the island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Ivanka Trump says the project includes, besides the island, five miles of beachfront directly across from it on a peninsula with a lagoon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We not only the island, but we have five miles of beachfront directly across from the island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2632.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-659"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Albanian government agreement for the land parcels included in the project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9801",
+   "header": "**C-9801** Host says the friend's boat belonged to Nat Rothschild",
+   "label": "Host says the friend's boat belonged to Nat Rothschild",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the \"friend's boat\" Ivanka Trump refers to belongs to Nat Rothschild."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And when she says her friend's boat, okay, she's talking about Nathan Rothschild."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-663, N-659"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate reporting or photographs placing Ivanka Trump and Jared Kushner on Nat Rothschild's yacht off Albania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9802",
+   "header": "**C-9802** Host says the Kushners had tried a similar project in Serbia",
+   "label": "Host says the Kushners had tried a similar project in Serbia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Speaking sarcastically, the host says the Kushners had already tried to do a similar project in Serbia before turning to the Albanian island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you tried to do this already in Serbia and we said maybe we can do this one instead. That didn't happen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-659, N-178"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10958"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check reporting on Affinity Partners' Belgrade project and its status."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9803",
+   "header": "**C-9803** Thousands protested in Tirana for a fourth day against the Kushner-linked project",
+   "label": "Thousands protested in Tirana for a fourth day against the Kushner-linked project",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The news report says that for the fourth day in a row thousands of protesters marched in the Albanian capital with flags and flamingo cutouts against a real estate project linked to Jared Kushner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "For the fourth day in a row, thousands of protesters took to the streets of the Albanian capital, brandishing national flags and flamingosshaped cardboard cutouts on sticks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10958, N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the broadcaster and date of the report and check wire coverage of the protests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9804",
+   "header": "**C-9804** Speaker in news report says the project will have 10,000 rooms and take 10 to 15 years to build",
+   "label": "Speaker in news report says the project will have 10,000 rooms and take 10 to 15 years to build",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A speaker in the news report says the project will have 10,000 rooms and take 10 to 15 years to build, amounting to an entire new city."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There'll be 10,000 rooms and construction will last 10 to 15 years."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10958"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the project's published master plan and environmental filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9805",
+   "header": "**C-9805** Affinity Partners' project plans two ultra luxury resorts in the Narta Lagoon area and on a former military island",
+   "label": "Affinity Partners' project plans two ultra luxury resorts in the Narta Lagoon area and on a former military island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The news report says the multi-billion euro project led by Kushner's Affinity Partners aims to build two ultra luxury resort complexes. One is in the Narta Lagoon wildlife reserve and the other is on a remote island that was a secret military base under the communist regime."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The multi-billion euro project spearheaded by Kushner's investment firm Affinity Partners aims to build two ultra luxury resort complexes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10958, N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Affinity Partners' agreements with the Albanian government and the protected-area status of the Narta Lagoon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9806",
+   "header": "**C-9806** Barbed wire installed on a beach sparked local outrage",
+   "label": "Barbed wire installed on a beach sparked local outrage",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The news report says construction has barely begun, but the installation of barbed wire on the beach the previous week sparked outrage among residents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But the installation of barbed wire on this beach last week sparked outrage among local residents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10958"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate photographs and local reporting on the fencing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9807",
+   "header": "**C-9807** The Albanian prime minister said the investment will not stop while he is in office",
+   "label": "The Albanian prime minister said the investment will not stop while he is in office",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the news report the prime minister, whom the host names as Edi Rama (\"Ed Rama\"), says there is no chance the investment will stop while he is in office, though he is open to discussing concerns. The host speculates that he is \"getting paid.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There is no chance that this investment will stop as long as I am here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-664"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10958, N-10959"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the full statement and any disclosures about financial ties between Albanian officials and the project."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9808",
+   "header": "**C-9808** Albania's anti-corruption agency opened an investigation into the project",
+   "label": "Albania's anti-corruption agency opened an investigation into the project",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The news report says Albania's state anti-corruption agency announced earlier that week that it was opening an investigation into the project, without disclosing further details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Earlier this week, Albania's state anti-corruption agency announced it was opening an investigation into the project, though it has yet to disclose further details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2633.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10959, N-10958"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the anti-corruption agency's announcement and follow the investigation's filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9809",
+   "header": "**C-9809** Tim Dillon says acts pulled out of Trump's America 250 concert",
+   "label": "Tim Dillon says acts pulled out of Trump's America 250 concert",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Tim Dillon says that when acts pulled out of the concert celebrating America's 250th anniversary, Trump said to replace them with himself, \"the greatest act of all time.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You know when this concert he's going to do this concert to celebrate America's 250th anniversary and all these acts pulled out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2634.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-277, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check reporting on the America 250 concert lineup and withdrawals, and Trump's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9810",
+   "header": "**C-9810** US Weekly gave the host 24 hours to respond to a print story about Erika Kirk",
+   "label": "US Weekly gave the host 24 hours to respond to a print story about Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says US Weekly emailed her a roughly four-page request giving her 24 hours to respond to a story about Erika Kirk that includes reporting and comments about the host. She says it is already going to print and amounts to an ad for Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Really, US Weekly sends me an email yesterday that's like four pages long. Teleg 24 hours to respond."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2635.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10960"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full US Weekly email and compare with the published article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9811",
+   "header": "**C-9811** The US Weekly story quotes Tracy Martin and James Kaddis",
+   "label": "The US Weekly story quotes Tracy Martin and James Kaddis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:43:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the story quotes Erika Kirk's friends Tracy Martin and James Kaddis, who she says runs the TPUSA faith department, and that it attacks the host and calls her demonic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tracy Martin, James Kaddis, who runs the faith department, the most despicable department at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2635.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-544, N-665, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10960"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9812",
+   "header": "**C-9812** Tracy Martin says Charlie Kirk was scared of the host and of answering her calls",
+   "label": "Tracy Martin says Charlie Kirk was scared of the host and of answering her calls",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to the US Weekly email, Tracy Martin says Charlie Kirk was scared of the host and scared to answer her calls. The host disputes this, saying she does not make phone calls and that she and Charlie almost exclusively texted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She says that Charlie was Charlie was scared of me. He was scared to answer my calls."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2635.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-544, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10960"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Charlie Kirk's call and text logs with the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9813",
+   "header": "**C-9813** Host says she and Charlie Kirk almost exclusively texted",
+   "label": "Host says she and Charlie Kirk almost exclusively texted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says everyone knows she does not make phone calls, that people reach her through her husband or Savannah, and that she and Charlie Kirk almost exclusively texted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am notoriously just not a person who gaps on the phone. Uh Charlie and I almost exclusively texted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2635.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the host's message history with Charlie Kirk against call records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9814",
+   "header": "**C-9814** Host alleges the US Weekly byline is a non-existent journalist",
+   "label": "Host alleges the US Weekly byline is a non-existent journalist",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges the piece is a hit piece written by a non-existent journalist under a fake name \"like Paul Leva\", and that outlets publish under such sock-puppet bylines when no one wants to put their name to a piece."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, it's like a a fake name like Paul Leva. Um, and they're not real people, but they keep publishing under these people as if they are real people."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2635.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10960"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check US Weekly's masthead and the byline's publication history."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9815",
+   "header": "**C-9815** Ariana Grande announced her split from Ethan Slater",
+   "label": "Ariana Grande announced her split from Ethan Slater",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ariana Grande announced her split from Ethan Slater, which she says she predicted early."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I did get a lot of people texting me about Ariana Grande uh announcing the most obvious split of all time because I called this very early."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-666, N-667"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check entertainment-press reporting on the June 2026 announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9816",
+   "header": "**C-9816** Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande",
+   "label": "Ethan Slater was married to his high school sweetheart with a newborn when he met Ariana Grande",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ethan Slater was married to his high school sweetheart and they had just had their first baby when Ariana Grande, who had held the infant at a dinner, began a relationship with him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ethan Slater was married to his high school sweetheart they had just had their first baby."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-667, N-666"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check public reporting on Ethan Slater's marriage and divorce timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9817",
+   "header": "**C-9817** Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network",
+   "label": "Paramount Tactical accidentally exposed his use of ChatGPT and an influencer network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Paramount Tactical, whom Andrew Kolvet partners with, accidentally exposed that he uses ChatGPT and that he is part of a network of influencers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "who accidentally exposed the fact that he uses chat GPT and that he's in a network of influencers"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Archive the Paramount Tactical posts that the host says revealed ChatGPT use and the network."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-41",
+   "header": "**M-41** (meme) Sock Puppet",
+   "label": "(meme) Sock Puppet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:24"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "to put their name behind something, they have these like they're like sock puppet accounts. So, it's like a a fake name like Paul Leva. Um, and the..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of Sock Puppet in CKA seq 112."
+    },
+    {
+     "k": "Tags",
+     "v": "bots, astroturf, israel, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-95",
+   "header": "**M-95** (meme) Emotional Response Asset",
+   "label": "(meme) Emotional Response Asset",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "The emotional asset, Erika Kirk, the staging of that is unbelievably controversial."
+    },
+    {
+     "k": "Context",
+     "v": "Host previews the FOIA update on the WHCD email."
+    },
+    {
+     "k": "Tags",
+     "v": "whcd, email, erika_kirk, catchphrase"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I want to go home video because it was an emotional asset."
+    },
+    {
+     "k": "Context",
+     "v": "Host recaps that the email described Erika Kirk's video as an emotional asset."
+    },
+    {
+     "k": "Tags",
+     "v": "whcd, email, erika_kirk, catchphrase"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-37",
+   "header": "**M-37** (meme) Grifter",
+   "label": "(meme) Grifter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "something other than this obvious scripture grift that we've all become accustomed to with Turning Point USA."
+    },
+    {
+     "k": "Context",
+     "v": "Host calls TPUSA's scripture-based responses to criticism a grift."
+    },
+    {
+     "k": "Tags",
+     "v": "tpusa, scripture, grift, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Instead, now we have his widow, his widow as they are trying to brand her as."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the \"widow\" branding of Erika Kirk after Dana Loesch's speech."
+    },
+    {
+     "k": "Tags",
+     "v": "widow_framing, erika_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-10",
+   "header": "**M-10** (meme) Happy Warrior",
+   "label": "(meme) Happy Warrior",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:27"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Today marks nine months without uh Charlie in the universe. That happy warrior."
+    },
+    {
+     "k": "Context",
+     "v": "Host marks nine months since Charlie Kirk's death."
+    },
+    {
+     "k": "Tags",
+     "v": "memorial, charlie_kirk, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-34",
+   "header": "**M-34** (meme) Deep State",
+   "label": "(meme) Deep State",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:27"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We know that this is deep state."
+    },
+    {
+     "k": "Context",
+     "v": "Host rejects the lone-leftist account of the assassination."
+    },
+    {
+     "k": "Tags",
+     "v": "assassination, deep_state, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-84",
+   "header": "**M-84** (meme) Bend the Knee",
+   "label": "(meme) Bend the Knee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:06"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "they want us to bend the knee to the sheer form of evil effectively"
+    },
+    {
+     "k": "Context",
+     "v": "Host says Erika Kirk is sent out with the Bible to make the audience submit."
+    },
+    {
+     "k": "Tags",
+     "v": "refusal, spiritual_warfare, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-81",
+   "header": "**M-81** (meme) Bibi Net and Yahoo",
+   "label": "(meme) Bibi Net and Yahoo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm sure we're also referring to people like, you know, Jared Kushner and BB Netanyahu."
+    },
+    {
+     "k": "Context",
+     "v": "Host riffs on Ivanka Trump's \"masters\" and \"architects\" line."
+    },
+    {
+     "k": "Tags",
+     "v": "netanyahu, pun, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-108",
+   "header": "**M-108** (meme) Ivanka Glow",
+   "label": "(meme) Ivanka Glow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:11"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I just can't stand how poor people don't understand the lighting behind Ivanka."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the bright backlighting in Ivanka Trump's podcast clip as a halo."
+    },
+    {
+     "k": "Tags",
+     "v": "ivanka_trump, lighting, sarcasm, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Ivanka wants it and she looks angelic. I just can we show her again? It just she glows differently when we see her."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks to replay Ivanka's clip after the Albanian protest report."
+    },
+    {
+     "k": "Tags",
+     "v": "ivanka_trump, lighting, sarcasm, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We got to get that like Ivanka glow behind me here because then no one can question anything I say or do."
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises the bit at the start of the comments segment."
+    },
+    {
+     "k": "Tags",
+     "v": "ivanka_trump, lighting, sarcasm, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-32",
+   "header": "**M-32** (meme) Hit Piece",
+   "label": "(meme) Hit Piece",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:57"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And so it's just they just it's just a hit piece written by a person who doesn't actually exist."
+    },
+    {
+     "k": "Context",
+     "v": "Host describes the US Weekly story on Erika Kirk."
+    },
+    {
+     "k": "Tags",
+     "v": "media, smear, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-107",
+   "header": "**M-107** (meme) Stop Anti-Candaceism",
+   "label": "(meme) Stop Anti-Candaceism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You head to kennasones. com. Stop anti- candism."
+    },
+    {
+     "k": "Context",
+     "v": "Host parodies \"stop antisemitism\" style victim framing while plugging merch."
+    },
+    {
+     "k": "Tags",
+     "v": "parody, merch, victimhood, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:56"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Once I once I have a stop anti-cannonism, I'm a victim. That's all it takes."
+    },
+    {
+     "k": "Context",
+     "v": "Host jokes that the slogan makes her beyond criticism."
+    },
+    {
+     "k": "Tags",
+     "v": "parody, victimhood, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:31"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Stop anti-cannism, you guys. We will see you tomorrow."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes the show with the bit."
+    },
+    {
+     "k": "Tags",
+     "v": "parody, sign_off, running_bit"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-92",
+   "header": "**M-92** (meme) Paramount Not So Tactical",
+   "label": "(meme) Paramount Not So Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:39"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "he wouldn't be partnering with someone as thick as uh Paramount Not So Tactical"
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks Andrew Kolvet's PR partner."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, kolvet, influencer_network"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- **DIA beats**: no hits for the DIA scan terms (\"tips at\", \"more tips\", \"candaceowens.com\", \"tip line\", \"bounty\" and the rest). No DIA claim, artifact or M-12 occurrence was added.",
+    "- **Artifacts verbally referenced but not shown**: A-2630.3 (TPUSA X account post sharing the host's email) and A-2631.2 (Department of War \"burden\" reply; the host asks the producer for it and says \"Maybe you don't have that\"). The host also says she posted the full US Weekly email on her X account.",
+    "- **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from \"Hey, come over here.\" Its content is inferred from the host's lead-in, so confidence is Low.",
+    "- **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.",
+    "- **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.",
+    "- **Name matching**: \"Dana Loesch\" is taken to be Dana Loesch (N-657; no node in nodes.tsv). \"Andrew Kolvet/Kolvet\" is matched to N-14, \"Greg Laurie\" to N-450 Greg Laurie, \"Blake Neff\" to N-159, \"Bradley Hansell\" to N-433, \"Pete Hegsath\" to N-591, \"Tim Dillon\" to N-277 and \"Bari Weiss\" to N-278. \"Richard Smale\" and \"Michaela Mott Marzuka\" use the staging titles Richard Smale and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. \"Saison Island\" is taken to be Sazan Island, \"Nathan Rothschild\" Nat Rothschild and \"Ed Rama\" Edi Rama. \"James Kaddis\" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. \"Paul Leva\" is the alleged fake byline and gets no node. \"Ed Gowin not even running in Kentucky\" (22:34) is unclear (possibly Ed Gallrein) and gets no node.",
+    "- **Topic reuse**: two staging titles exist for the WHCD email (episode 104 \"White House Military Office 'I Want to Go Home' Amplification Email\" and episode 105 \"White House Military Office Erika Kirk Amplification Email\"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title \"Emotional Response Asset\", and M-92 reuses \"Paramount Not So Tactical\".",
+    "- **Cross-episode link**: C-9787 Supports C-9050 (episode 102, donors assert the \"I appoint my wife\" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to \"your WLS event\" and a later donor dinner, so the venue mapping is uncertain. C-10489 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance \"empty crowd\" claim (C-9774) may relate to the existing topic \"TPUSA UGA Event Crowd-Size Failure\", but the event is not named, so it is not linked.",
+    "- **Not inscribed as claims (admission test)**:",
+    "  - The host's \"honest opinion\" that Erika Kirk was promised the vice presidency in 2028",
+    "  - \"Erika is completely unfit\" and \"not built for public life\"",
+    "  - \"She lacks character\"",
+    "  - The characterization of the US as an oligarchy",
+    "  - The sarcastic framing of October 7 as a \"fake incident\"",
+    "  - \"I'll bet Ed Rama is getting paid\"",
+    "  - The Rothschild \"incest is best\" and \"ball worshippers\" remarks",
+    "  - The host's speculation that US Weekly had been working on the story \"for weeks\"",
+    "  - The opinion that Dana Loesch has not read the Bible",
+    "  - Characterizations of Andrew Kolvet as having \"no brain cells\"",
+    "- **Minor factual beats not inscribed**: Biggie's Psalm 27 tattoo and seven arrests, and Diddy's Madonna tattoo and Kim Porter's death (an opening analogy); Barack Obama being \"groomed\" (opinion); the nine-month mark since Charlie Kirk's death (kept as an M-10 occurrence); the Erika Kirk emoji and hat-sales remark at 24:14; and the rest of Ariana Grande's relationship history (Graham Phillips, Jai Brooks, Mac Miller, Big Sean and Naya Rivera (\"Nia Rivera\"), Dalton Gomez, Pete Davidson, Lily Jay).",
+    "- **Viewer comments** (Mrs., Tat R, two-tone Tommy, Sher 2, Gen, Corey Henry, Zamit, Brooke, Edith Beck, James the least) are not nodes. \"Larry Loomer\" in a viewer comment is not cited.",
+    "- **Sponsor reads** (PDS Debt, Beekeeper's Naturals, Nimi Skincare) and merch promotion are excluded.",
+    ""
+   ]
+  }
+ ]
+}

@@ -1,0 +1,7087 @@
+{
+ "format": "cka-source/1",
+ "episode": 43,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 43",
+    "- **Monument**: cka",
+    "- **CKA seq**: 43",
+    "- **YouTube id**: Kmt6HgRjckU",
+    "- **Candace Ep**: 276",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:43:14",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10f): N-909, N-11336",
+    "  - Hole-minted Nodes (reintro-ep043): N-389",
+    "  - Tip-minted Nodes (reintro-ep043): N-11186, N-11287",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-3735–C-3799",
+    "  - New Nodes Introduced: N-312, N-313, N-314, N-315, N-316, N-317, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325",
+    "  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323, N-7, N-9, N-22, N-40, N-159, N-190, N-220, N-267, N-10000, N-10015, N-10193, N-10202, N-10340, N-11337",
+    "  - (see registers)",
+    "",
+    "---",
+    "",
+    "# EPISODE 43 ANALYSIS",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode title:** Who Stole Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276",
+    "- **Series title:** Candace Kirk Archive / Candace",
+    "- **Episode number:** Monument Ep 43 · Batch 23",
+    "- **Channel / creator:** Candace Owens (@RealCandaceO)",
+    "- **Episode date:** 2025-12-08",
+    "- **Source used for analysis:** Auto:en YouTube captions, cleaned; transcript cross-referenced with chapter markers",
+    "- **Transcript completeness status:** Substantially complete (43:14 runtime); sponsor reads preserved; no fabrication",
+    "- **Analyst / agent name:** Investigative Analysis Agent (Bride of Charlie Protocol)",
+    "- **Analysis date:** 2026-03-11",
+    "- **Ledger continuation summary:**",
+    "  - Artifact Families Introduced: A-1513, A-1514, A-1515, A-1516, A-1517, A-1518",
+    "  - New Nodes Introduced (people):  through",
+    "  - New Nodes Introduced (investigation targets): N-10316 through N-10325",
+    "  - Existing Nodes Reused: N-3",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode assembles evidentiary material across four investigative strands: (1) a previously recorded Charlie Kirk clip (May 2025) in which Kirk himself rejects the lone-gunman narrative for the JFK assassination; (2) an on-camera Kash Patel interview segment with Megyn Kelly in which Patel declines to deny French involvement in the Kirk assassination; (3) the introduction of a new figure, Pierre Falcone, anchored to publicly available Angolagate documentation; and (4) a Jesse Kege / One Shot TV firearms demonstration intended to test the official .30-06 forensic narrative.",
+    "",
+    "The episode's structural importance is its introduction of Pierre Falcone as a connective node between France, Israel, Angola, and the United States, plus the first formal on-record FBI Director non-denial of the French angle. The episode also advances the host's \"Operation Mockingbird 2.0\" framing, which remains a framing premise rather than an artifact-backed claim. Several viewer comments are read aloud and become supporting artifacts documenting outstanding investigative questions (TPUSA $1.5M routing, life insurance policy, burial status).",
+    "",
+    "No retractions or formal corrections of prior claims appear in this episode despite the chapter marker titled \"France update/correction\"; the section instead introduces new claims rather than correcting prior ones.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1513",
+   "header": "**A-1513** Charlie Kirk JFK Assassination Discussion Clip (May 2025)",
+   "label": "Charlie Kirk JFK Assassination Discussion Clip (May 2025)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1513.1",
+   "header": "**A-1513.1** Video clip of Charlie Kirk speaking at a Turning Point event in May 2025, asked about the JFK assassination",
+   "label": "Video clip of Charlie Kirk speaking at a Turning Point event in May 2025, asked about the JFK assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:07–00:02:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3736, C-3737, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1514",
+   "header": "**A-1514** Kash Patel / Megyn Kelly Interview Bundle",
+   "label": "Kash Patel / Megyn Kelly Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1514.1",
+   "header": "**A-1514.1** On-camera exchange in which Megyn Kelly asks FBI Director Kash Patel whether France was involved in Charlie Kirk's assassination and whether Candace Owens received a credible French death threat",
+   "label": "On-camera exchange in which Megyn Kelly asks FBI Director Kash Patel whether France was involved in Charlie Kirk's assassination and whether Candace Owens received a credible French death threat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:33–00:08:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3742, N-69, N-46, N-10316*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1515",
+   "header": "**A-1515** Pierre Falcone / Angolagate Source Bundle",
+   "label": "Pierre Falcone / Angolagate Source Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1515.1",
+   "header": "**A-1515.1** Read-aloud excerpts from a website identified as \"Corruption Tracker\" describing Pierre Falcone's criminal case, conviction, appeal outcome, and reduced sentence",
+   "label": "Read-aloud excerpts from a website identified as \"Corruption Tracker\" describing Pierre Falcone's criminal case, conviction, appeal outcome, and reduced sentence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:36–00:15:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3755, C-3756, N-312, N-10317*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1515.2",
+   "header": "**A-1515.2** Read-aloud quote from a website identified as \"CorpWatch\" describing the Angolagate scandal, citing a March 25 Global Witness report (\"All the President's Men\")",
+   "label": "Read-aloud quote from a website identified as \"CorpWatch\" describing the Angolagate scandal, citing a March 25 Global Witness report (\"All the President's Men\")",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:38–00:17:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3764, C-3757, C-3751, C-3759, C-3760, N-312, N-313, N-314, N-315*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1516",
+   "header": "**A-1516** One Shot TV .30-06 Ballistic Test Video Bundle",
+   "label": "One Shot TV .30-06 Ballistic Test Video Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1516.1",
+   "header": "**A-1516.1** YouTube video by Jesse Kege (channel: One Shot TV) testing .30-06 180gr FMJ and 150gr Hornady ballistic tip rounds against a ballistic dummy with three 5-gallon water jugs behind it, shot from a downward angle mimicking the alleged scene geometry",
+   "label": "YouTube video by Jesse Kege (channel: One Shot TV) testing .30-06 180gr FMJ and 150gr Hornady ballistic tip rounds against a ballistic dummy with three 5-gallon water jugs behind it, shot from a downward angle mimicking the alleged scene geometry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:18–00:33:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (video exists; result of test as shown)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3782, C-3783, N-316, N-10319, N-66, N-188*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1517",
+   "header": "**A-1517** Hodge Twins Tweet Bundle",
+   "label": "Hodge Twins Tweet Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1517.1",
+   "header": "**A-1517.1** Tweet from the Hodge Twins asserting that Republicans will lose midterms because deep state criminals have not been held accountable, money is sent to corrupt foreign countries, and establishment figures are promoted",
+   "label": "Tweet from the Hodge Twins asserting that Republicans will lose midterms because deep state criminals have not been held accountable, money is sent to corrupt foreign countries, and establishment figures are promoted",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3777, N-317*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518",
+   "header": "**A-1518** Viewer Comments Read-Aloud Bundle",
+   "label": "Viewer Comments Read-Aloud Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518.1",
+   "header": "**A-1518.1** Viewer comment from \"Jo Ann\": \"we hoped it would go away\" – referenced as first truthful statement made by TPUSA",
+   "label": "Viewer comment from \"Jo Ann\": \"we hoped it would go away\" – referenced as first truthful statement made by TPUSA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:36–00:38:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3789*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518.2",
+   "header": "**A-1518.2** Viewer comment from \"Assad O Bros\": testimony that watching the \"Brigitte series\" led to purchasing a first Bible",
+   "label": "Viewer comment from \"Assad O Bros\": testimony that watching the \"Brigitte series\" led to purchasing a first Bible",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:23–00:39:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as a viewer-statement artifact; not as a substantive investigative claim)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518.3",
+   "header": "**A-1518.3** Viewer comment from \"Diana Sheen\": question whether TPUSA employees must stay silent if crime is involved",
+   "label": "Viewer comment from \"Diana Sheen\": question whether TPUSA employees must stay silent if crime is involved",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:37–00:40:18"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3789*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518.4",
+   "header": "**A-1518.4** Viewer comment from \"AZ Master Baker\": dates given for Erika with Bari Weiss (13th), TPUSA podcast (15th), TPUSA AmFest (18th)",
+   "label": "Viewer comment from \"AZ Master Baker\": dates given for Erika with Bari Weiss (13th), TPUSA podcast (15th), TPUSA AmFest (18th)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:18–00:41:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (dates as stated by commenter)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3796, N-278*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518.5",
+   "header": "**A-1518.5** Viewer comment from \"CCXX\": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance",
+   "label": "Viewer comment from \"CCXX\": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:02–00:41:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (existence of Daily Mail story as cited)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3797, C-3789, N-10322*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1518.6",
+   "header": "**A-1518.6** Viewer comment from \"Laughing Cats Music World\" – referenced but contents not read in full (request for post to TPUSA asking specific questions)",
+   "label": "Viewer comment from \"Laughing Cats Music World\" – referenced but contents not read in full (request for post to TPUSA asking specific questions)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:36–00:38:23"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (as referenced comment)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3787, C-3788, N-10321*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3208",
+   "header": "**A-3208** Overseas Falcone Tip Bundle",
+   "label": "Overseas Falcone Tip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3208.1",
+   "header": "**A-3208.1** Host verbal reference to a tip received from overseas that TPUSA-linked people took a meeting with Pierre Falcone (not shown)",
+   "label": "Host verbal reference to a tip received from overseas that TPUSA-linked people took a meeting with Pierre Falcone (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3747, C-3746, C-3749, N-3, N-312, N-10317*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3209",
+   "header": "**A-3209** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3209.1",
+   "header": "**A-3209.1** Host verbal call for more tips at candaceowens.com",
+   "label": "Host verbal call for more tips at candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email us more tips at candaceowens. com\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:04"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3748, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3210",
+   "header": "**A-3210** Tim Pool Show Milo Yiannopoulos Segment Bundle",
+   "label": "Tim Pool Show Milo Yiannopoulos Segment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3210.1",
+   "header": "**A-3210.1** Clip played of Milo Yiannopoulos, George Santos and Tim Pool discussing Epstein files, Trumpism and the Turning Point account",
+   "label": "Clip played of Milo Yiannopoulos, George Santos and Tim Pool discussing Epstein files, Trumpism and the Turning Point account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:22"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3773, C-3774, C-3775, C-3776, N-220, N-267, N-909, N-389*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3210.2",
+   "header": "**A-3210.2** Host verbal description of what Tim Pool said on the same show about her viewers and his lost subscribers (not shown)",
+   "label": "Host verbal description of what Tim Pool said on the same show about her viewers and his lost subscribers (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:03"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3771, C-3772, N-267, N-220*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3211",
+   "header": "**A-3211** TPUSA Insider Night-Before Tip Bundle",
+   "label": "TPUSA Insider Night-Before Tip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3211.1",
+   "header": "**A-3211.1** Host verbal reference to a tip from someone within TPUSA about Charlie's messages the night before the assassination (not shown)",
+   "label": "Host verbal reference to a tip from someone within TPUSA about Charlie's messages the night before the assassination (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3767, C-3768, C-3769, N-1, N-270, N-10320*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3212",
+   "header": "**A-3212** Qatar Hamas Interview Bundle",
+   "label": "Qatar Hamas Interview Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3212.1",
+   "header": "**A-3212.1** Host verbal reference to a Qatari interview about its relationship with Hamas (not shown)",
+   "label": "Host verbal reference to a Qatari interview about its relationship with Hamas (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:37"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3794, N-11336, N-11337*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Foundational biographical and investigative subject across the series. Referenced in this episode via previously recorded May 2025 clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "(existing)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1513.1, A-1518.1, A-1518.3, A-1518.5, C-3736, C-3737*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-69",
+   "header": "**N-69** Kash Patel",
+   "label": "Kash Patel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBI Director interviewed by Megyn Kelly; declined to address French involvement allegation directly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1514.1, C-3742, N-46, N-10316*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-46",
+   "header": "**N-46** Megyn Kelly",
+   "label": "Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Journalist who interviewed Kash Patel on the Macron couple and Kirk assassination questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1514.1, C-3742, N-69*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-312",
+   "header": "**N-312** Pierre Falcone",
+   "label": "Pierre Falcone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1515.1, A-1515.2, C-3755, C-3756, C-3764, C-3759, N-313, N-314, N-315, N-10317*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-313",
+   "header": "**N-313** Arcadi Gaydamak",
+   "label": "Arcadi Gaydamak",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1515.2, C-3757, C-3759, N-312*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-314",
+   "header": "**N-314** Jean-Christophe Mitterrand",
+   "label": "Jean-Christophe Mitterrand",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Son of former French president François Mitterrand; implicated in Angolagate as having \"special access\" to Angolan government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1515.2, C-3760, N-312, N-315*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-315",
+   "header": "**N-315** François Mitterrand",
+   "label": "François Mitterrand",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Former President of France (term during Angolagate exposure); implicated via his son."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1515.2, C-3760, N-314*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-316",
+   "header": "**N-316** Jesse Kege",
+   "label": "Jesse Kege",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "YouTuber (\"One Shot TV\") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1516.1, C-3782, C-3783, N-10319*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3742 (Patel) – adjacent, N-10320*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-154",
+   "header": "**N-154** John Mappin",
+   "label": "John Mappin",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1518.6 (context)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-278",
+   "header": "**N-278** Bari Weiss",
+   "label": "Bari Weiss",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1518.4, C-3796*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-317",
+   "header": "**N-317** Hodge Twins",
+   "label": "Hodge Twins",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator duo; tweet regarding Republican midterm losses read aloud by host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1517.1, C-3777*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-66",
+   "header": "**N-66** Village Crazy Lady",
+   "label": "Village Crazy Lady",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Social media user who brought the Jesse Kege video to the host's attention."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1516.1, N-316*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-188",
+   "header": "**N-188** Ryan Matta",
+   "label": "Ryan Matta",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Social media user who brought the Jesse Kege video to the host's attention."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1516.1, N-316*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Investigation Targets",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10316",
+   "header": "**N-10316** France / Macron Couple Involvement in Kirk Assassination",
+   "label": "France / Macron Couple Involvement in Kirk Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigation target; this episode adds Kash Patel's non-denial under direct questioning on camera."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1514.1, C-3742, N-69, N-46*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10317",
+   "header": "**N-10317** Pierre Falcone / Turning Point USA Connection Claim",
+   "label": "Pierre Falcone / Turning Point USA Connection Claim",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Unverified tip received by host asserting a meeting occurred between TPUSA personnel and Pierre Falcone; requires verification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1515.1, A-1515.2, C-3755, C-3756, C-3764, N-312*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10318",
+   "header": "**N-10318** Operation Mockingbird 2.0 Allegation",
+   "label": "Operation Mockingbird 2.0 Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host framing premise comparing current media posture regarding the Kirk assassination to the CIA's Operation Mockingbird following JFK. Not artifact-backed in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "(framing – does not meet admission test)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10319",
+   "header": "**N-10319** .30-06 Forensic Narrative Validity",
+   "label": ".30-06 Forensic Narrative Validity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigation target regarding the official ballistics account of the Kirk shooting; this episode adds the Jesse Kege / One Shot TV demonstration as a third-party test."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1516.1, C-3782, C-3783, N-316*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10320",
+   "header": "**N-10320** Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
+   "label": "Charlie Kirk's Pre-Death Messages (Night Before Assassination)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Investigation target regarding Charlie Kirk's communications the night before the shooting, including alleged direct statement to Dan Flood that \"they are going to kill me tomorrow,\" and messages to a donor and a TPUSA staffer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "(existing)"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-1, N-270*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10321",
+   "header": "**N-10321** TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall",
+   "label": "TPUSA $1.5M Routing to 110 LLC / Safeway Strip Mall",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Investigation target raised via viewer comment; DOJ audit referenced as cancelled."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1518.6, C-3787, C-3788*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10322",
+   "header": "**N-10322** Charlie Kirk Life Insurance Policy & Beneficiary",
+   "label": "Charlie Kirk Life Insurance Policy & Beneficiary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Investigation target including $1.5M amount and corporate implications; Daily Mail cited as breaking the story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1518.5, C-3797*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10323",
+   "header": "**N-10323** Charlie Kirk Burial Status / Catholic Funeral Mass",
+   "label": "Charlie Kirk Burial Status / Catholic Funeral Mass",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Investigation target; viewer social media speculation that Charlie Kirk has not yet been buried, contrasted with host's statement that he had a Catholic funeral mass."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low (social-media-level evidence only)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10324",
+   "header": "**N-10324** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent political issue referenced via the Milo Yiannopoulos / Tim Pool / George Santos segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low (political-context reference, not artifact-backed as investigative claim)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related:*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10325",
+   "header": "**N-10325** Global Trafficking Angle in Kirk Assassination",
+   "label": "Global Trafficking Angle in Kirk Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's hypothesis (artifact-anchored to the Pierre Falcone / Angolagate tip) that Charlie Kirk's organization was being approached for trafficking-related cooperation; remains framing/speculative until verified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1515.1, A-1515.2, N-312, N-10317*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3740, C-3741, C-3743, C-3744, C-3748, C-3747, C-3746, C-3771, C-3772*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pastor the host says called cover-up questions crazy because Charlie would not have hired people who betrayed him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3739*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10015",
+   "header": "**N-10015** Mossad",
+   "label": "Mossad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Israeli intelligence service; Kirk's May 2025 JFK remarks discuss its mention in the JFK files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3735*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization at the center of the tips, the Falcone lead and the promised response."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3739, C-3747, C-3749, C-3765, C-3767, C-3768, C-3776, C-3790, C-3792, C-3795*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-40",
+   "header": "**N-40** Tyler Robinson",
+   "label": "Tyler Robinson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Accused in the Kirk shooting; the host says Patel called him the only person involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3745*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-22",
+   "header": "**N-22** Tucker Carlson",
+   "label": "Tucker Carlson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host recalls his on-stage question about how people become billionaires."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3766*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-220",
+   "header": "**N-220** Milo Yiannopoulos",
+   "label": "Milo Yiannopoulos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3771, C-3773, C-3774, C-3775, C-3776*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-267",
+   "header": "**N-267** Tim Pool",
+   "label": "Tim Pool",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the show where Milo and George Santos appear; the host says he called her viewers stupid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3771, C-3772, C-3773, C-3776*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-389",
+   "header": "**N-389** Steve Bannon",
+   "label": "Steve Bannon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Cited by Milo as saying Epstein was the key that picks the lock."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3773*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the Epstein files discussion in the Tim Pool clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3773, C-3774, C-3775*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure whose prior-episode diatribe the host references."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3790*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Person whose call logs a viewer comment asks to see."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3791*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10193",
+   "header": "**N-10193** Mikey McCoy Call Log Verification",
+   "label": "Mikey McCoy Call Log Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the viewer request about call logs and metadata around 12:23 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3791*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10202",
+   "header": "**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "label": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for Patel's interview statements and the host's FBI-contact claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3743, C-3745*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10340",
+   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the insider tip about Charlie's messages the night before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3767, C-3768*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11186",
+   "header": "**N-11186** Angolagate",
+   "label": "Angolagate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic for the Angolan arms-for-oil scandal described by the host and the CorpWatch text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3750, C-3752, C-3753, C-3758, C-3761, C-3762, C-3763*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11287",
+   "header": "**N-11287** Tim Pool Dispute With Candace Owens",
+   "label": "Tim Pool Dispute With Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's account of Tim Pool's remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3771, C-3772*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-909",
+   "header": "**N-909** George Santos",
+   "label": "George Santos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "25:22 in episode 43. Former congressman who appears in the Tim Pool clip.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3773, C-3774, C-3775, A-3210.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11336",
+   "header": "**N-11336** Qatar",
+   "label": "Qatar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Country the host says gave an interview about its relationship with Hamas."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3794, A-3212.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11337",
+   "header": "**N-11337** Hamas",
+   "label": "Hamas",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Organization the host says Qatar was asked by the US government to establish a relationship with."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3794, A-3212.1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3736",
+   "header": "**C-3736** Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+   "label": "Charlie Kirk asserted that more than one person was involved in the JFK assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:03–00:02:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a May 2025 recorded clip, Charlie Kirk stated that more than one person was involved in the JFK assassination and that the lone-Oswald reading was insufficient."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1513.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full unedited clip and confirm Kirk's exact wording, including the listed anomalies (route change, open-air convertible, LBJ not riding, slowdown at the Depository)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3737",
+   "header": "**C-3737** Charlie Kirk asserted that parts of the US government, Lyndon Baines Johnson, and Cubans wanted JFK dead",
+   "label": "Charlie Kirk asserted that parts of the US government, Lyndon Baines Johnson, and Cubans wanted JFK dead",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the same May 2025 clip, Charlie Kirk named Lyndon Baines Johnson, parts of the US government, and Cubans as actors who wanted JFK dead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1513.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full source clip to verify Kirk's exact phrasing and identify the venue and interviewer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3742",
+   "header": "**C-3742** Kash Patel did not deny French involvement in Charlie Kirk's assassination when directly asked by Megyn Kelly",
+   "label": "Kash Patel did not deny French involvement in Charlie Kirk's assassination when directly asked by Megyn Kelly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:33–00:08:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "When Megyn Kelly asked FBI Director Kash Patel whether the French were involved in Charlie Kirk's assassination, Patel, in a clip the host plays, spoke in general terms about investigating threats to any American; the host says he skipped over the question of French involvement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1514.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-46, N-69, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10316"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full unedited Megyn Kelly / Kash Patel interview segment to verify exact wording and identify any non-verbal cues or follow-up questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3755",
+   "header": "**C-3755** Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery",
+   "label": "Pierre Falcone was convicted in France of arms trafficking, breach of trust, misuse of corporate assets, and bribery",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:36–00:15:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to source material read aloud by the host and attributed to \"Corruption Tracker,\" Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10317"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3756",
+   "header": "**C-3756** Pierre Falcone's conviction was overturned on appeal and replaced with a reduced 2.5-year sentence",
+   "label": "Pierre Falcone's conviction was overturned on appeal and replaced with a reduced 2.5-year sentence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:36–00:15:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to source material read aloud, Pierre Falcone's original six-year sentence was overturned on appeal and replaced with a 2.5-year sentence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10317"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the appellate decision and confirm the precise revised sentence and the date it was imposed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3764",
+   "header": "**C-3764** Pierre Falcone is described as currently residing in Scottsdale, Arizona",
+   "label": "Pierre Falcone is described as currently residing in Scottsdale, Arizona",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to her sources in France, Pierre Falcone disappeared from France after winning his appeal and reappeared in Scottsdale, Arizona, where she says Turning Point USA is based."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2 (host read-aloud of source)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Note: This claim is sourced from the host's framing rather than from the read-aloud source text. Capture as host claim tied to read-aloud artifact; requires verification.*"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10317"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Pierre Falcone's current residence via property records, business filings, or U.S. immigration records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3757",
+   "header": "**C-3757** Arcadi Gaydamak was convicted in absentia in France of arms trafficking, tax fraud, bribery, and money laundering",
+   "label": "Arcadi Gaydamak was convicted in absentia in France of arms trafficking, tax fraud, bribery, and money laundering",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:36–00:15:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-313"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the French court judgment against Gaydamak and confirm the conviction and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3751",
+   "header": "**C-3751** The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States",
+   "label": "The Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the scandal involving Pierre Falcone, Angolagate, involved Africa (Angola in particular), Israel, France and the United States, and that France, Russia and Slovakia were involved in the arms network; she adds that it also touched the United States before reading CorpWatch on the Bush angle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference the March 25 Global Witness report \"All the President's Men\" with CorpWatch and the original French judicial findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3759",
+   "header": "**C-3759** Approximately $463 million in arms were transferred to Angola via Brenco International and the Mitterrand access channel",
+   "label": "Approximately $463 million in arms were transferred to Angola via Brenco International and the Mitterrand access channel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:38–00:17:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to a CorpWatch article citing a March 25 Global Witness report, Brenco International and the Mitterrand access channel transferred approximately $463 million in arms to Angola."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312, N-313, N-314"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3760",
+   "header": "**C-3760** Jean-Christophe Mitterrand, son of former French president François Mitterrand, was implicated in Angolagate",
+   "label": "Jean-Christophe Mitterrand, son of former French president François Mitterrand, was implicated in Angolagate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:38–00:17:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-314, N-315"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Jean-Christophe Mitterrand's role via French court records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3782",
+   "header": "**C-3782** Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs",
+   "label": "Clip the Host Plays Shows Jesse Kege / One Shot TV 180gr FMJ .30-06 Round Fully Penetrating Ballistic Dummy and Three 5-Gallon Water Jugs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:46–00:33:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a video the host plays, YouTuber Jesse Kege of One Shot TV, after introducing a 180gr FMJ and a 150gr Hornady ballistic tip .30-06 round, fires at a ballistic dummy whose head falls off and penetrates the water jugs placed behind it; the host cites this as showing what the round would have done to Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3783",
+   "header": "**C-3783** The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative",
+   "label": "The One Shot TV .30-06 demonstration is presented as evidence challenging the official ballistics narrative",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host characterizes the One Shot TV result – that the dummy's head was severed and the round continued through water jugs – as evidence that the official story's depiction of a .30-06 ricochet is implausible."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference the One Shot TV demonstration with official forensic findings released by authorities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3777",
+   "header": "**C-3777** The Hodge Twins publicly stated that Republicans will lose midterms because no deep state criminals have been held accountable",
+   "label": "The Hodge Twins publicly stated that Republicans will lose midterms because no deep state criminals have been held accountable",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and traitors like Lindsey Graham are getting promoted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1517.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-317"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original tweet and confirm the exact text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3787",
+   "header": "**C-3787** A viewer comment asserts that TPUSA sent $1.5 million to a 110 LLC routing to a Safeway strip mall",
+   "label": "A viewer comment asserts that TPUSA sent $1.5 million to a 110 LLC routing to a Safeway strip mall",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:36–00:38:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment asserts that TPUSA routed $1.5 million to a 110 LLC that routes to a Safeway strip mall."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.6"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10321"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace the named LLC through state business filings, bank records (subject to access), and IRS Form 990 disclosures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3788",
+   "header": "**C-3788** A viewer comment asserts that a DOJ audit of TPUSA was cancelled",
+   "label": "A viewer comment asserts that a DOJ audit of TPUSA was cancelled",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:36–00:38:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads asks \"Why is the DOJ audit suddenly no longer happening?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.6"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10321"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify through DOJ press releases, congressional correspondence, or reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3796",
+   "header": "**C-3796** A viewer comment asserts that Erika Kirk is scheduled to appear with Bari Weiss on the 13th, a TPUSA podcast on the 15th, and TPUSA AmFest on the 18th",
+   "label": "A viewer comment asserts that Erika Kirk is scheduled to appear with Bari Weiss on the 13th, a TPUSA podcast on the 15th, and TPUSA AmFest on the 18th",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:18–00:41:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-278, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against publicly available event listings and episode announcements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3797",
+   "header": "**C-3797** The Daily Mail has reported on the life insurance policy taken out on Charlie Kirk",
+   "label": "The Daily Mail has reported on the life insurance policy taken out on Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:02–00:41:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer comment asking who took out the life insurance policy on Charlie and where the 1.5 million went, the host says she saw the Daily Mail broke the story about the life insurance policy that was taken out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10322"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Daily Mail article and confirm policy details, beneficiary, and amount."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3789",
+   "header": "**C-3789** Viewer Comments the Host Reads Question TPUSA's Silence and Response",
+   "label": "Viewer Comments the Host Reads Question TPUSA's Silence and Response",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:36–00:41:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Viewer comments the host reads raise TPUSA's response: Jo Ann says \"we hoped it would go away\" was the first truthful-sounding statement from TPUSA, Diana Sheen asks whether TPUSA employees still have to stay silent if crime is involved, and CCXX asks who took out the life insurance policy on Charlie and where the 1.5 million went."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.1, A-1518.3, A-1518.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10320"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference against depositions, congressional testimony, and investigative reporting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3735",
+   "header": "**C-3735** Kirk said Mossad's mention in the JFK files does not show involvement",
+   "label": "Kirk said Mossad's mention in the JFK files does not show involvement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the May 2025 clip, Charlie Kirk says one of the reasons Mossad is mentioned so much in the JFK files is that it is a very good intelligence operation, and that it was not mentioned as if they were tied to or knew about or were involved in the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was not mentioned as if they were tied or that they knew about it or that they were involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1513.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10015"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full unedited clip of the May 2025 event to confirm Kirk's wording, the venue and the questioner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3738",
+   "header": "**C-3738** Kirk listed 15 or 20 inexcusable events on the day of the JFK assassination",
+   "label": "Kirk listed 15 or 20 inexcusable events on the day of the JFK assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the May 2025 clip, Charlie Kirk says there were 15 or 20 inexcusable things that day, naming the changed parade route, the open-air convertible, LBJ not riding alongside JFK and the vehicle slowing near the Texas School Book Depository."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There were like 15 or 20 things that happened that day that were inexcusable. They changed the parade route. He rode in an open-air convertible."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1513.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3736"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Kirk's list with the Warren Commission record and the Dallas motorcade route documents; obtain the full clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3739",
+   "header": "**C-3739** Host says Frank Turek called cover-up questions crazy because Charlie would not have hired traitors",
+   "label": "Host says Frank Turek called cover-up questions crazy because Charlie would not have hired traitors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pastor Frank Turek argues that suggesting TPUSA employees could be covering something up is crazy because it would mean Charlie Kirk hired people who ultimately betrayed him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, Frank Turek, Pastor Frank Turek, says that's so crazy because that would mean that Charlie Kirk hired people that ultimately betrayed him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Turek's original statement (show, interview or post) and confirm the wording and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3740",
+   "header": "**C-3740** Host says a viable threat came from the Macron couple who apparently paid for her assassination",
+   "label": "Host says a viable threat came from the Macron couple who apparently paid for her assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there was a viable threat to her life that came from the Macron couple, who she says apparently paid for her assassination, and that people laughed when she said so."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "People also laughed when I said um that there was thereafter a viable threat, which came from the Macron couple who apparently paid for my assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for the source and date of the alleged threat; check for any law-enforcement or court record of it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3741",
+   "header": "**C-3741** Host says no government body or the Elysee disputes the Macron threat narrative",
+   "label": "Host says no government body or the Elysee disputes the Macron threat narrative",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list because Kash Patel recently gave an interview to Megyn Kelly."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "neither the Pentagon nor the White House or our intel agencies or the Elysée Palace are disputing that narrative."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1514.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check for any public denial by the Elysee, the White House or the FBI of the alleged threat; obtain the full Kelly/Patel segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3743",
+   "header": "**C-3743** Host says the FBI has not communicated with her about the alleged French threat",
+   "label": "Host says the FBI has not communicated with her about the alleged French threat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Addressing Kash Patel, the host says there has been no communication from the FBI to her about the allegation, saying he left her on red."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Because actually you kind of left me on red. There has been no communication with uh the FBI."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1514.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-69"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10316, N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host whether she sent the FBI any submission and when; request any FBI correspondence log."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3744",
+   "header": "**C-3744** Host Says She Said She Had Proof the French Government Was on the Ground That Day",
+   "label": "Host Says She Said She Had Proof the French Government Was on the Ground That Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she asserted that she had proof that the government of France was involved in Charlie Kirk's assassination and was on the ground on the day of the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I said that I had proof that French is that that the the government of France was involved in Charlie Kirk's assassination, that they were on the ground that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10316"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the proof the host refers to; compare with her earlier episodes making the France claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3745",
+   "header": "**C-3745** Host says Patel asserted in the interview that Tyler Robinson is the only person involved",
+   "label": "Host says Patel asserted in the interview that Tyler Robinson is the only person involved",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in the same Megyn Kelly interview Kash Patel asserted that he is certain Tyler Robinson is the only person involved in the assassination."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In this very interview that you are asserting that you are certain that Tyler Robinson is the only person involved."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1514.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-69, N-40, N-46"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10202"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the full interview transcript for Patel's exact words on whether Robinson acted alone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3748",
+   "header": "**C-3748** Host asks viewers to email more tips to candaceowens.com",
+   "label": "Host asks viewers to email more tips to candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host invites viewers who know more about the Pierre Falcone lead to email more tips to candaceowens.com. DIA beat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "please email us more tips at candaceowens. com"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3209.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the tips mailbox for Falcone-related submissions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3747",
+   "header": "**C-3747** Host says an overseas tip says TPUSA-linked people met Pierre Falcone",
+   "label": "Host says an overseas tip says TPUSA-linked people met Pierre Falcone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after the previous episode she received a tip from overseas that Turning Point, people who work with it or one of its action organizations, took a meeting with Pierre Falcone, and says this cannot yet be verified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Turning Point, people that work with Turning Point or one of their, you know, action organizations, who knows which organization, they have a few, um took a meeting with this particular Pierre."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3208.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10317, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the tipster and any meeting record (calendar, travel, photos) linking Falcone to TPUSA or Turning Point Action."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3746",
+   "header": "**C-3746** Host floats that Charlie was being asked to join a global trafficking network",
+   "label": "Host floats that Charlie was being asked to join a global trafficking network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:04"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she had an intuition that global trafficking could be involved and that Charlie may have been asked to be brought in, because the organization he built has a presence in all 50 states."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Like that this could be maybe somehow Charlie was being asked to be brought in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3208.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10325"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the host for any documentary basis; none is offered in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3749",
+   "header": "**C-3749** Host says Falcone lives in Scottsdale, Arizona and is a billionaire",
+   "label": "Host says Falcone lives in Scottsdale, Arizona and is a billionaire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the person named in the tip, Pierre Falcone, lives in Scottsdale, Arizona, where TPUSA is based, and is a billionaire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this person who lives in Scottsdale, Arizona and is a billionaire and that is where Turning Point USA is based"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3208.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10317, N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3764"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Arizona property records, corporate filings and Forbes-type wealth listings for Falcone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3750",
+   "header": "**C-3750** Host says Falcone's scandal almost brought down the French government",
+   "label": "Host says Falcone's scandal almost brought down the French government",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pierre Falcone was involved in a scandal that almost brought down the French government, involving Africa, Angola, Israel, France and the United States."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He was involved in a scandal that almost brought down the French government and it involved, here we go, Africa, Angola in particular, Israel, uh France and the United States."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3751"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review contemporaneous French political reporting on Angolagate (1999-2000) for any threat to the government."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3752",
+   "header": "**C-3752** Host says the arms trafficking to Angola was discovered in 1999 during French elections",
+   "label": "Host says the arms trafficking to Angola was discovered in 1999 during French elections",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was discovered during French elections, dating to 1999, that the French government was involved in trafficking military-grade weapons to Angola to facilitate the civil war."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it gets discovered during the course of French elections and this is dating back to 1999 that the French government is actually involved in trafficking weapons, military grade weapons, to Angola to facilitate this war"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with French judicial chronology of the Angolagate investigation (investigation opened 2000)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3753",
+   "header": "**C-3753** Host says Brenco International was run by Arcadi Gaydamak with Pierre Falcone as partner",
+   "label": "Host says Brenco International was run by Arcadi Gaydamak with Pierre Falcone as partner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Brenco International sold the arms to the Angolan president and was run by Arcadi Gaydamak, whose partner was Pierre Falcone. The CorpWatch text she reads later describes Falcone as head of the firm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now, Brenco International is run by this guy, his name is Arcadi Gaydamak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-313, N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check French court findings on who headed Brenco International versus the related Falcone company."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3754",
+   "header": "**C-3754** Host says Pierre Falcone was born in Algeria and moved to France",
+   "label": "Host says Pierre Falcone was born in Algeria and moved to France",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Pierre Falcone was born in Algeria and moved to France after the Algerian civil war."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Pierre Falcone is born in Algeria. He moves to France after the Algerian civil war."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check biographical sources and court records for Falcone's birthplace and arrival in France."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3758",
+   "header": "**C-3758** Host says the French interior minister was implicated in Angolagate",
+   "label": "Host says the French interior minister was implicated in Angolagate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Reading from a website called Corruption Tracker, the host says the French interior minister was implicated in the Angolagate scandal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You have the French interior minister that was implicated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which interior minister is meant and confirm the court outcome against that person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3761",
+   "header": "**C-3761** Host says 41 politicians were involved in Angolagate",
+   "label": "Host says 41 politicians were involved in Angolagate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, according to her reading, the Angolagate scandal ended up involving 41 politicians across multiple states."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It ends up being 41 politicians involved, multiple states and of course uh multiple nations that are involved including Angola."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the number against French trial records or the source site."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3762",
+   "header": "**C-3762** Host says human rights groups demanded Congress probe the Bush administration over Angolagate",
+   "label": "Host says human rights groups demanded Congress probe the Bush administration over Angolagate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says human rights groups demanded that Congress probe the Bush administration's involvement in Angolagate because they claim it struck a deal for oil."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the human-rights-group statements and any congressional response cited in the CorpWatch article."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3763",
+   "header": "**C-3763** CorpWatch text says Gaydamak funneled billions in arms and oil-backed loans to Angola",
+   "label": "CorpWatch text says Gaydamak funneled billions in arms and oil-backed loans to Angola",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Reading a CorpWatch passage that cites a Global Witness report, the host says Arcadi Gaydamak funneled billions of dollars in arms and oil-backed loans to Angola's government in return for oil contracts with Western oil companies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Gaydamak funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts with with western oil companies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-313"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11186"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the Global Witness 'All the President's Men' report and confirm the figures and wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3765",
+   "header": "**C-3765** Host says sources in France report outrage and that Falcone vanished from France after his appeal",
+   "label": "Host says sources in France report outrage and that Falcone vanished from France after his appeal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, according to her sources in France, the French found the appeal outcome naked corruption, and that Pierre Falcone then disappeared from France and reappeared in Scottsdale."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh they found this to be naked corruption when he won his appeal and then afterwards Pierre Falcone just disappeared into thin air, disappeared from France because as it turns out he actually reappeared in Scottsdale"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1515.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-312"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10317"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3764"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the French sources; check French press on Falcone's departure and any Interpol or residency records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3766",
+   "header": "**C-3766** Host says Tucker Carlson asked on stage how people become billionaires",
+   "label": "Host says Tucker Carlson asked on stage how people become billionaires",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tucker Carlson, on stage, asked how certain people become billionaires, and that she believes he was right."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I believe Tucker Carlson was right when he called that out on stage and started asking about how these people become billionaires."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-22"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Tucker Carlson stage remarks the host refers to (event and date)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3767",
+   "header": "**C-3767** Host says a TPUSA insider tip says Charlie messaged a donor and a TPUSA staffer the night before",
+   "label": "Host says a TPUSA insider tip says Charlie messaged a donor and a TPUSA staffer the night before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received a tip from someone within Turning Point USA that the night before he died Charlie Kirk messaged a donor and a TPUSA person, which she says she knows for a fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we also received a tip from somebody within Turning Point USA that that the night before he died, I know for a fact he messaged a donor and he messaged um somebody at Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3211.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10320, N-10340, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the messages or phone records for the night of September 9, 2025; identify the donor and the staffer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3768",
+   "header": "**C-3768** Host says she was told Charlie also messaged Dan Flood that they were going to kill him tomorrow",
+   "label": "Host says she was told Charlie also messaged Dan Flood that they were going to kill him tomorrow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was told that Charlie also messaged Dan Flood, the security man to his right, and allegedly said explicitly that they are going to kill him tomorrow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he also messaged Dan Flood, the security that's to his right, and allegedly explicitly said uh that they are going to kill me tomorrow."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3211.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10320, N-10340"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the message thread between Kirk and Flood and the device records, subject to legal process."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3769",
+   "header": "**C-3769** Host says it is an absolute fact that many people know Charlie sensed he would die the next day",
+   "label": "Host says it is an absolute fact that many people know Charlie sensed he would die the next day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that many people know Charlie sensed he was going to die the next day is an absolute fact, and that it is a massive question why these individuals are all quiet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, again, that many people know that Charlie sensed that he was going to die tomorrow is an absolute fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3211.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10320"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3768"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who knew; seek on-record statements from the people the host says are silent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3770",
+   "header": "**C-3770** Host says the CIA has been engaged in trafficking weapons and drugs",
+   "label": "Host says the CIA has been engaged in trafficking weapons and drugs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that the CIA has obviously been engaged in trafficking weapons and drugs, and that one could argue the deep state was put together to do that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which obviously our CIA has been engaged engaged in trafficking."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review public records (Church Committee, congressional reports) for substantiation of the host's general assertion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3771",
+   "header": "**C-3771** Host says Tim Pool hosted Milo and called her viewers stupid for refusing fed slop",
+   "label": "Host says Tim Pool hosted Milo and called her viewers stupid for refusing fed slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tim Pool hosted Milo Yiannopoulos and first called her viewers stupid, saying they will not eat the fed slop being given to them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he hosted Milo Yiannopoulos on his show and first and foremost he called all of you stupid."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3210.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-267, N-220, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11287"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the Tim Pool episode in question and confirm the exact remarks and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3772",
+   "header": "**C-3772** Host says Tim Pool lamented losing subscribers after attacking her",
+   "label": "Host says Tim Pool lamented losing subscribers after attacking her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tim Pool later in the same show lamented losing a bunch of subscribers because he attacked her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "later on in the show he kind of lamented the fact that he lost a bunch of subscribers to his show because he attacked me"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3210.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-267, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11287"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Tim Pool episode and public subscriber statistics for the period."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3773",
+   "header": "**C-3773** Milo says Bannon called Epstein the key that picks the lock",
+   "label": "Milo says Bannon called Epstein the key that picks the lock",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Tim Pool clip, Milo Yiannopoulos says Steve Bannon said Jeffrey Epstein was the key that picks the lock for the questions people ask about how the world works. Another speaker interjects that Bannon consulted for Epstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "said who would know better as it turns out. He said that uh Epstein was the key that uh picks the lock, right?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3210.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-220, N-389, N-9, N-267"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Bannon remark Milo cites and the Tim Pool episode; verify the 'consulted for Epstein' interjection separately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3774",
+   "header": "**C-3774** Milo says every Trump voter expected the Epstein files to be released immediately",
+   "label": "Milo says every Trump voter expected the Epstein files to be released immediately",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Tim Pool clip, Milo says there is not one person who voted for Donald Trump who did not want and expect the Epstein files to be released immediately; another speaker objects that he voted for other reasons."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there isn't one person who voted for Donald Trump who did not want and did not expect the Epstein files to be released immediately."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3210.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-220, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with polling on Trump voters' expectations about the Epstein files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3775",
+   "header": "**C-3775** Panelist says Trump's 'no Epstein files' line was the moment Trumpism died",
+   "label": "Panelist says Trump's 'no Epstein files' line was the moment Trumpism died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Tim Pool clip, after a speaker describes Trump saying there are no Epstein files and telling people to stop asking, a speaker says that is the moment Trumpism died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That is the moment Trumpism died. I agree. >> And don't we need a reckoning?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3210.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which panelist says this on the Tim Pool episode and the Trump remark being referenced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3776",
+   "header": "**C-3776** Milo calls the Feds' and TPUSA's account obviously inadequate and says TPUSA is losing to the host",
+   "label": "Milo calls the Feds' and TPUSA's account obviously inadequate and says TPUSA is losing to the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Tim Pool clip, Milo Yiannopoulos calls the account from the Feds and Turning Point about the events around Charlie Kirk's death obviously inadequate, says the host has exposed inconsistencies, and says Turning Point is losing to her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the obviously inadequate account from the Feds and Turning Point about what happened around, before, and after Charlie Kirk's death"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3210.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-220, N-1, N-3, N-267"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Milo's statement in the full Tim Pool episode; this is an opinion attributed to Milo, not a verified finding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3778",
+   "header": "**C-3778** Jesse Kege says the ammunition used in the shooting is unknown",
+   "label": "Jesse Kege says the ammunition used in the shooting is unknown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two different rounds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we don't even know what kind of ammo was used. It could literally be anything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with any official statement or charging document on the cartridge type recovered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3779",
+   "header": "**C-3779** Jesse Kege bought a 150gr Hornady ballistic tip round to maximize the chance of stopping in the target",
+   "label": "Jesse Kege bought a 150gr Hornady ballistic tip round to maximize the chance of stopping in the target",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the One Shot TV video, Jesse Kege says he bought the 150gr Hornady ballistic tip round specifically for the test to give the highest chance of a round stopping in the target, and that the 180gr FMJ ball is among the most common loads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I actually bought this one specifically for this test just to give us the highest chance of something stopping in the target."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full video and the result for the second round, which the episode does not show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3780",
+   "header": "**C-3780** Kege set up a dummy bust with three water jugs and a downward angle from a truck roof",
+   "label": "Kege set up a dummy bust with three water jugs and a downward angle from a truck roof",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the One Shot TV video, Jesse Kege describes a ballistic dummy bust on a table with three five-gallon water jugs behind it, and a shot from a truck roof to mimic the downward angle of the real shot; he says he cannot shoot from 140 yards for this video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm not going to be able to take the shot at 140 yards."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the setup geometry with the official shot angle and distance; obtain the earlier 140 yard video he links."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3781",
+   "header": "**C-3781** Kege says shooting from 30 or 40 versus 140 makes almost no difference",
+   "label": "Kege says shooting from 30 or 40 versus 140 makes almost no difference",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the One Shot TV video, Jesse Kege says there will be almost no difference between a shot at 30 or 40 (units not stated in the transcript) and one at 140, because it is a thousand yard gun."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "There's going to be almost no difference between 30 or 40 and 140. It's a thousand yard gun."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Have a ballistics expert assess terminal energy at the stated ranges for the tested loads."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3784",
+   "header": "**C-3784** Kege says the result shows why people are skeptical of the official story",
+   "label": "Kege says the result shows why people are skeptical of the official story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the One Shot TV video, after the shot Jesse Kege says the result is why people are skeptical of the official story and that the .30-06 is a very hard round to stop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that right there is why people are skeptical on the official story. The 30-06 is a very hard round to stop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-316"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Have independent firearms experts review the video; compare with the official ballistics findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3785",
+   "header": "**C-3785** Host says the .30-06 bullet would have decapitated Charlie",
+   "label": "Host says the .30-06 bullet would have decapitated Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that is what she means when she says that bullet would have decapitated Charlie, and that the idea it ricocheted and went inward is beyond ridiculous."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's what we mean when we say that particular bullet would have decapitated Charlie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1516.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10319"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3783"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the autopsy findings and official wound description to compare against the host's assertion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3786",
+   "header": "**C-3786** Host says people close to Charlie are not honest about his anxiety the night before he died",
+   "label": "Host says people close to Charlie are not honest about his anxiety the night before he died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they're not honest about the anxiety that Charlie had the night before he died"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10320"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3769"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who spoke with Kirk the night of September 9, 2025 and seek their accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3790",
+   "header": "**C-3790** Host says Blake Neff gave a diatribe in the prior episode about why TPUSA took a while to respond",
+   "label": "Host says Blake Neff gave a diatribe in the prior episode about why TPUSA took a while to respond",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the prior episode concerned Blake Neff's diatribe about why Turning Point took a while to respond."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "last episode was regarding Blake Neff and his diatribe of, you know, why Turning Point took a while to respond."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the prior episode and Neff's original statement for the exact content."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3791",
+   "header": "**C-3791** Viewer comment asks to see Mikey's call logs and metadata around 12:23 p.m.",
+   "label": "Viewer comment asks to see Mikey's call logs and metadata around 12:23 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment asking whether the public can see Mikey's call logs and the metadata before and after 12:23 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Can we see Mikey's call logs and the metadata before and after 12:23 p. m.? Much more."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10193"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cross-reference with host-shown Mikey McCoy call logs in other episodes and request the carrier records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3792",
+   "header": "**C-3792** Host says TPUSA has said it will soon do something to answer questions",
+   "label": "Host says TPUSA has said it will soon do something to answer questions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA has said it is going to be doing something in the near future to answer questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they have said they are going to be doing something in the near future to answer questions"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track the TPUSA announcement and the planned response event cited by the AZ Master Baker comment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3793",
+   "header": "**C-3793** Host recommends John Mappin's essay The Perfumed Pervert",
+   "label": "Host recommends John Mappin's essay The Perfumed Pervert",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host tells viewers to follow John Mappin and read his essay The Perfumed Pervert."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "follow John Mappin and read his essay The Perfumed Pervert."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-154"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the essay and review its content before any claim is drawn from it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3794",
+   "header": "**C-3794** Host says Qatar said it has a relationship with Hamas because the US government asked it to",
+   "label": "Host says Qatar said it has a relationship with Hamas because the US government asked it to",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host, asking if she is correct, says Qatar gave an interview saying the reason it has a relationship with Hamas is that the US government asked it to establish one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they said the reason why we have a relationship with Hamas is because the US government asked us to establish one."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3212.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11336, N-11337"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Qatari interview and confirm who said it and when."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3795",
+   "header": "**C-3795** Host says many leaks she has received came from TPUSA employees",
+   "label": "Host says many leaks she has received came from TPUSA employees",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a lot of the leaks she has received have come from TPUSA employees, and that we should not discount that there are good people in the organization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "obviously a lot of leaks that we've received have come from TPUSA employees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Supports",
+     "v": "C-390"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Corroborate through on-record statements or documents from current or former TPUSA staff."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3798",
+   "header": "**C-3798** Host says holding a life insurance policy on a spouse is normal, whether corporate implications exist is separate",
+   "label": "Host says holding a life insurance policy on a spouse is normal, whether corporate implications exist is separate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is normal to have a life insurance policy if married, that corporate implications are a separate question that could also be normal, and that she has asked questions about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "some of that obviously is normal to have a life insurance policy if you are married to somebody."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1518.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10322"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the policy details reported by the Daily Mail and any corporate key-person policy filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3799",
+   "header": "**C-3799** Host says viral posts claim Charlie is not yet buried and she told that he had a Catholic funeral mass",
+   "label": "Host says viral posts claim Charlie is not yet buried and she told that he had a Catholic funeral mass",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people are saying Charlie Kirk has not yet been buried, that she told viewers he had a Catholic funeral mass, and that she will address the burial rumor the next day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "people that are saying that Charlie Kirk has not yet been buried yet. I told you that he had a Catholic funeral mass."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10323"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1974"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check cemetery or funeral-home records and the host's follow-up the next episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:43"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Remember the first government psyop on the people, MK Ultra?"
+    },
+    {
+     "k": "Context",
+     "v": "Host links modern narrative pressure to classic government psyop."
+    },
+    {
+     "k": "Tags",
+     "v": "intel, residual, mk_ultra"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email us more tips at candaceowens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Host asks for tips on the Falcone lead."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-38",
+   "header": "**M-38** (meme) MK Ultra",
+   "label": "(meme) MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:43"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Especially in the midst of well, MK Ultra 2.0."
+    },
+    {
+     "k": "Context",
+     "v": "Host frames the current narrative as MK Ultra 2.0 after the Kirk JFK clip."
+    },
+    {
+     "k": "Tags",
+     "v": "mk ultra, psyop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:03"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "they will not just eat the fed slop that we are trying to give them"
+    },
+    {
+     "k": "Context",
+     "v": "Host relays Tim Pool's remark about her viewers refusing fed slop."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:23"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We are voting in terms of when we say I don't want to listen to this podcaster because they're trying to get me to eat this fed slop."
+    },
+    {
+     "k": "Context",
+     "v": "Host says the public is voting with its eyes against influencer narratives."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop, influencers"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:30:18"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "speaking of the ridiculous fed slop narrative"
+    },
+    {
+     "k": "Context",
+     "v": "Host introduces the Jesse Kege .30-06 test."
+    },
+    {
+     "k": "Tags",
+     "v": "fed slop, ballistics"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:04"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going to say allegedly again regarding the Turning Point USA connection"
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges the unverified Falcone tip."
+    },
+    {
+     "k": "Tags",
+     "v": "allegedly, hedge"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-303",
+   "header": "**M-303** (meme) Operation Mockingbird 2.0",
+   "label": "(meme) Operation Mockingbird 2.0",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And now it's being deployed again, Mockingbird Operation Mockingbird 2.0, to convince people that questions about the Charlie Kirk narrative are just crazy."
+    },
+    {
+     "k": "Context",
+     "v": "Host says the media posture mirrors Mockingbird after JFK."
+    },
+    {
+     "k": "Tags",
+     "v": "mockingbird, psyop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:26"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "despite the many millions of dollars that is being spent on this Operation Mockingbird 2.0 campaign"
+    },
+    {
+     "k": "Context",
+     "v": "Host says Patel knows she is telling the truth."
+    },
+    {
+     "k": "Tags",
+     "v": "mockingbird"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:03"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "what's happening on the Operation Mockingbird 2.0 side is now they are all blaming me for the upcoming midterms"
+    },
+    {
+     "k": "Context",
+     "v": "Host says critics will blame her for midterm losses."
+    },
+    {
+     "k": "Tags",
+     "v": "mockingbird, midterms"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-304",
+   "header": "**M-304** (meme) No Gangs",
+   "label": "(meme) No Gangs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:19:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Whether you're going to join the gang of global governance"
+    },
+    {
+     "k": "Context",
+     "v": "Host frames refusing elites as the choice Charlie allegedly faced."
+    },
+    {
+     "k": "Tags",
+     "v": "gang, global governance"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:57"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "we don't want to pledge no gangs, man."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes the show on independence."
+    },
+    {
+     "k": "Tags",
+     "v": "gang, independence"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm not here for gang culture and I'm sorry."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes the show on independence."
+    },
+    {
+     "k": "Tags",
+     "v": "gang, independence"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Chapter title mismatch:** The chapter at 10:04 is titled \"The France update/correction,\" but the segment introduces new material (Pierre Falcone / Angolagate) rather than correcting any previously inscribed claim. Flag for review.",
+    "- **Read-aloud vs. displayed:** The \"Corruption Tracker\" and \"CorpWatch\" sources are read aloud by the host but not visually displayed in the transcript. Capture is anchored to read-aloud content; original URLs not verified in this episode.",
+    "- **Tip status:** The Pierre Falcone / Turning Point USA meeting tip is explicitly described as unverified by the host.",
+    "- **Name uncertainty:** \"Pierre Falcone\" – spelled consistently in source excerpts; preserved.",
+    "- **Name uncertainty:** \"Arcadi Gaydamak\" – spelled as shown in source excerpts; preserved.",
+    "- **Name uncertainty:** \"Milo Yiannopoulos\" – spelled consistently; preserved.",
+    "- **Host framing claims excluded:** The host's \"Operation Mockingbird 2.0\" framing, \"deep state is involved,\" and \"Kash Patel knows I am telling the truth\" are framing premises and are not inscribed as artifact-backed claims.",
+    "- **Commenter claim artifact status:** Viewer comments are captured as artifacts (per the read/display rule) only when the host reads them aloud in full or quotes them substantively. Comments merely referenced in passing without quotation are excluded.",
+    "",
+    "---",
+    "",
+    "---",
+    "",
+    "### Episode 43 Ledger Summary",
+    "",
+    "**Artifact Families Introduced:**",
+    "A-1513, A-1514, A-1515, A-1516, A-1517, A-1518",
+    "",
+    "**Claim Range:** C-3736–C-3789",
+    "",
+    "**New Nodes Introduced (people):**",
+    "N-69 (Kash Patel), N-46 (Megyn Kelly), N-312 (Pierre Falcone), N-313 (Arcadi Gaydamak), N-314 (Jean-Christophe Mitterrand), N-315 (François Mitterrand), N-316 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-270 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-154 (John Mappin), N-278 (Bari Weiss), N-317 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-188 (Ryan Matta)",
+    "",
+    "**New Nodes Introduced (investigation targets):**",
+    "N-10316, N-10317, N-10319, N-10320, N-10321, N-10322, N-10323, N-10324, N-10325",
+    "",
+    "**Existing Nodes Reused:** N-3"
+   ]
+  }
+ ]
+}

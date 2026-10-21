@@ -1,0 +1,5838 @@
+{
+ "format": "cka-source/1",
+ "episode": 113,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 113",
+    "- **Monument**: cka",
+    "- **CKA seq**: 113",
+    "- **YouTube id**: 19vHhjF7-NA",
+    "- **Candace Ep**: 347",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:47:48",
+    "- **Extraction Timestamp (UTC)**: 2026-10-13T21:39:36Z",
+    "- **Transcript SHA-256**: 284494e41be2a4e0d3496dd36da9a63186261daf51e052dbe0b6d145c6781632",
+    "- **Model Version**: claude-manual-extract-seq113",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Hole-minted Nodes (reintro-ep113): N-10865",
+    "  - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Tip-minted Nodes (skeleton): N-668, N-669, N-670, N-671, N-10961, N-10964, N-10965, N-10966, N-10967",
+    "  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-60, N-97, N-159, N-178, N-361, N-433, N-449, N-520, N-591, N-659, N-663, N-664, N-10000, N-10008, N-10026, N-10070, N-10367, N-10417, N-10472, N-10541, N-10628, N-10664, N-10671, N-10700, N-10899, N-10955, N-672, N-10962, N-10963",
+    "  - Claim Range: C-9818–C-9866",
+    "  - (see registers)",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "The host returns to Ivanka Trump's account of \"discovering\" Sazan Island off the coast of Albania. She says the boat Ivanka jumped off was Nat Rothschild's superyacht Planet Nine and describes its helicopters, elevators and other features (A-2637.1). She then plays a Jared Kushner interview (A-2636.2) in which he says that in summer 2021 he and Ivanka were on \"our friend Nat Rothschild's boat\" and that Albania's Prime Minister Rama came aboard. The host links the island to strategic control of waterways. She reads Enver Hoxha's account of Nikita Khrushchev's 1959 remark that a fleet based at Sazan could control \"the whole of the Mediterranean\" (A-2638.1). She ties this to Donald Trump's Fox and Friends remarks that his \"preference has always been take Kharg Island\" and that Venezuelan oil had been brought to the United States (A-2639.1). The host says the Venezuelan oil was shipped to Israel.",
+    "",
+    "In the second segment the host plays Pete Hegseth's CENTCOM press remarks in Tampa, in which he says the United States \"will be hitting Iran hard\" that night (A-2640.1). She shows images of his runs with troops around the world (A-2640.2) and says he went to Guantanamo Bay with Laura Loomer, who asked as a Pentagon reporter how long an operation to remove Cuba's government would take (A-2640.4). The host repeatedly misnames Hegseth \"Pete Buttigieg\" and calls Loomer \"Larry Loomer\" in a running bit. She then reads a Spectator US article headlined \"Bombing Iran is the perfect way to celebrate pride\" (A-2641.1).",
+    "",
+    "The host plays a Charlie Kirk Show clip in which Andrew Kolvet and Blake Neff say Turning Point USA released the video of Charlie Kirk appointing Erika Kirk at YWLS to \"troll the trolls\" (A-2642.1, A-2642.2). The host maintains the video is doctored, says the video is from the Aspen donor event rather than ActCon, and asks Kolvet to state that it has not been altered with AI tools. In the comments she reads viewer notes from Albanians on their prime minister and a Haaretz article on Albania as a possible Jewish state (A-2644.1). She closes by announcing a FOIA request about Under Secretary of War Brad Hansell's flight to Fort Huachuca on September 8 (A-2645.1). She ties that date to Mitch Snow's account of seeing Erika Kirk at a hotel on the base.",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2636",
+   "header": "**A-2636** Ivanka Trump and Jared Kushner Albania Bundle",
+   "label": "Ivanka Trump and Jared Kushner Albania Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2636.1",
+   "header": "**A-2636.1** Replay of Ivanka Trump's Sazan Island \"discovery\" clip",
+   "label": "Replay of Ivanka Trump's Sazan Island \"discovery\" clip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"It is spiritual.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:04:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9819, C-9820, N-659, N-178, N-10955*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2636.2",
+   "header": "**A-2636.2** Jared Kushner interview clip on how he discovered Albania aboard Nat Rothschild's boat (played)",
+   "label": "Jared Kushner interview clip on how he discovered Albania aboard Nat Rothschild's boat (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I was on a vacation after we left government in the summer of 2021. We were on our friend Nat Rothschild's boat. We got picked up in Montenegro and then we started sailing over to Corfu and we spent a couple days in Albania. One of the nights their Prime Minister Rama came to the boat.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9826, C-9827, C-9828, N-178, N-663, N-664, N-10955*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2636.3",
+   "header": "**A-2636.3** Comedic clip presented as \"live footage from the scene inside Albania\" (played)",
+   "label": "Comedic clip presented as \"live footage from the scene inside Albania\" (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Kushner, no. KUSHNER, NO SWIPING. NO, KUSHNER.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:28"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-178, N-10955*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2637",
+   "header": "**A-2637** Planet Nine Superyacht Bundle",
+   "label": "Planet Nine Superyacht Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2637.1",
+   "header": "**A-2637.1** Host's on-screen walkthrough of Nat Rothschild's superyacht Planet Nine (features and specifications)",
+   "label": "Host's on-screen walkthrough of Nat Rothschild's superyacht Planet Nine (features and specifications)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9820, C-9822, C-9823, C-9824, N-663, N-520*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2638",
+   "header": "**A-2638** Khrushchev Sazan Island Quote Bundle",
+   "label": "Khrushchev Sazan Island Quote Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2638.1",
+   "header": "**A-2638.1** Enver Hoxha's account of Nikita Khrushchev's 1959 remarks on Sazan Island (read aloud)",
+   "label": "Enver Hoxha's account of Nikita Khrushchev's 1959 remarks on Sazan Island (read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"With a powerful fleet from here, we can have the whole of the Mediterranean, the Bosphorus to the Gibraltar in our hands. We can control everyone.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:59"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9829, C-9830, N-668, N-669, N-10955*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2639",
+   "header": "**A-2639** Trump Kharg Island and Venezuela Bundle",
+   "label": "Trump Kharg Island and Venezuela Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2639.1",
+   "header": "**A-2639.1** Fox and Friends clip of Donald Trump on taking Kharg Island and Venezuelan oil (played)",
+   "label": "Fox and Friends clip of Donald Trump on taking Kharg Island and Venezuelan oil (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"But you know, look, my preference has always been take Kharg Island.\" / \"We've taken millions and millions of barrels of oil out of Venezuela. We brought them to Houston and various other places, Louisiana.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:57"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9832, C-9834, N-5, N-10961, N-10962*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2639.2",
+   "header": "**A-2639.2** Map shown on screen of Venezuela, Cuba, the Gibraltar Strait, Sazan Island and Kharg Island",
+   "label": "Map shown on screen of Venezuela, Cuba, the Gibraltar Strait, Sazan Island and Kharg Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:42"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10955, N-10961, N-10962, N-10963*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2640",
+   "header": "**A-2640** Pete Hegseth CENTCOM and Guantanamo Bundle",
+   "label": "Pete Hegseth CENTCOM and Guantanamo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2640.1",
+   "header": "**A-2640.1** Clip of Pete Hegseth speaking to reporters at US Central Command headquarters in Tampa, Florida (played)",
+   "label": "Clip of Pete Hegseth speaking to reporters at US Central Command headquarters in Tampa, Florida (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"But, of course, he is busy because CENTCOM, Central Command, will be busy tonight because President Trump said we will be hitting Iran hard, and we will be.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9836, C-9837, C-9838, N-591, N-670, N-5, N-10964*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2640.2",
+   "header": "**A-2640.2** Images of Pete Hegseth running with troops (Malaysia, October 2025; Singapore, May 29; Poland, 2025; Germany, February 2025)",
+   "label": "Images of Pete Hegseth running with troops (Malaysia, October 2025; Singapore, May 29; Poland, 2025; Germany, February 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9839, N-591*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2640.3",
+   "header": "**A-2640.3** Military website clip of Pete Hegseth working out with troops and addressing them (played)",
+   "label": "Military website clip of Pete Hegseth working out with troops and addressing them (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"From this War Department's view the national defense strategy we have right now, we are taking back our hemisphere.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:22:34"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9840, N-591, N-10964*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2640.4",
+   "header": "**A-2640.4** Clip of Laura Loomer's question to Pete Hegseth on a Cuba operation, and his answer, during the Guantanamo Bay trip (played)",
+   "label": "Clip of Laura Loomer's question to Pete Hegseth on a Cuba operation, and his answer, during the Guantanamo Bay trip (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"How long would a US military operation take to remove the communist regime in Cuba?\" / \"I would All I would say is options, options, options.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:08"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9841, C-9843, C-9844, C-9845, N-60, N-591, N-671, N-672, N-10963, N-10965*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2641",
+   "header": "**A-2641** Spectator US Pride Article Bundle",
+   "label": "Spectator US Pride Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2641.1",
+   "header": "**A-2641.1** Spectator US article headlined \"Bombing Iran is the perfect way to celebrate pride\" (shown and read aloud)",
+   "label": "Spectator US article headlined \"Bombing Iran is the perfect way to celebrate pride\" (shown and read aloud)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Israel sure knows how to mark pride month. Tel Aviv's annual celebration of gayness has once again turned into an opportunity to bomb one of the world's most viciously anti-gay regimes, which has a dreadful record of abuse not only on homosexuals, but also on women.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9847, C-9848, N-10966, N-10026*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2642",
+   "header": "**A-2642** TPUSA \"Troll the Trolls\" Bundle",
+   "label": "TPUSA \"Troll the Trolls\" Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2642.1",
+   "header": "**A-2642.1** Charlie Kirk Show clip of Andrew Kolvet and Blake Neff on releasing the appointment video (played)",
+   "label": "Charlie Kirk Show clip of Andrew Kolvet and Blake Neff on releasing the appointment video (played)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"We We decided over the weekend we were going to troll the trolls. There's this video that has become a a source of controversy.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:12"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9849, C-9850, C-9852, N-14, N-159, N-10000, N-10008*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2642.2",
+   "header": "**A-2642.2** Video of Charlie Kirk appointing Erika Kirk to run Turning Point USA, as replayed within the Charlie Kirk Show clip",
+   "label": "Video of Charlie Kirk appointing Erika Kirk to run Turning Point USA, as replayed within the Charlie Kirk Show clip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9851, C-9853, C-9860, N-1, N-2, N-10664*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2643",
+   "header": "**A-2643** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2643.1",
+   "header": "**A-2643.1** Viewer comment (Dorina) read on air about the Albanian prime minister",
+   "label": "Viewer comment (Dorina) read on air about the Albanian prime minister",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9855, N-664*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2643.2",
+   "header": "**A-2643.2** Viewer comment (Dexter Morgan) read on air alleging Erika Kirk and JD Vance are half siblings fathered by Michael Aquino",
+   "label": "Viewer comment (Dexter Morgan) read on air alleging Erika Kirk and JD Vance are half siblings fathered by Michael Aquino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Fun conspiracy theory here. Erika Frantz Paye and J. D. Vance are half siblings and their real biological father is none other than Michael Aquino.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:38:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-2, N-4, N-449*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2643.3",
+   "header": "**A-2643.3** Viewer comment (Ali) read on air about Andrew Kolvet's X post that the video is real",
+   "label": "Viewer comment (Ali) read on air about Andrew Kolvet's X post that the video is real",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Kovacs said on X that the video is real, but he's being sneaky since he probably considers a doctored edited out of context video to be real.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9860, N-14*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2644",
+   "header": "**A-2644** Haaretz Albania Article Bundle",
+   "label": "Haaretz Albania Article Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2644.1",
+   "header": "**A-2644.1** Haaretz article \"What if Albania had become the Jewish state?\" (cited by the producer during a viewer comment)",
+   "label": "Haaretz article \"What if Albania had become the Jewish state?\" (cited by the producer during a viewer comment)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"What if Albania had become the Jewish state?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9857, C-9858, N-10967, N-10026*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2645",
+   "header": "**A-2645** Bradley Hansell FOIA Bundle",
+   "label": "Bradley Hansell FOIA Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2645.1",
+   "header": "**A-2645.1** Host verbal reference to her FOIA request about Brad Hansell's flight to Fort Huachuca and the \"very odd response\" (not shown)",
+   "label": "Host verbal reference to her FOIA request about Brad Hansell's flight to Fort Huachuca and the \"very odd response\" (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:43"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9862, C-9863, C-9864, N-433, N-10671, N-10700*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the appointment video that TPUSA says it released to \"troll the trolls.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9849, C-9850, C-9851, C-9853, C-9860, A-2642.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Erika Frantz Paye\" in a viewer comment. Her role as CEO and chairman, the appointment video and Mitch Snow's Fort Huachuca sighting are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9818, C-9849, C-9851, C-9853, C-9865, C-9866, A-2642.2, A-2643.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; says she revealed the Aspen donors' names, was in Russia when the ActCon dispute broke, and filed the Hansell FOIA request."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9856, C-9861, C-9862, C-9863*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-4",
+   "header": "**N-4** JD Vance",
+   "label": "JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in a viewer conspiracy comment that the host calls \"pretty far out there.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2643.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "His Fox and Friends remarks on Kharg Island and Venezuelan oil are played; the host says he is bombing Iran without a vote from Congress."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9831, C-9832, C-9834, C-9836, C-9844, A-2639.1, A-2640.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spellings \"Andrew Kolvet\" and \"Andrew Kovacs\" / \"Kovacs\". Says on the Charlie Kirk Show that TPUSA released the appointment video to \"troll the trolls\"; the host demands he state it is not doctored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9849, C-9850, C-9852, C-9853, C-9860, A-2642.1, A-2643.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-60",
+   "header": "**N-60** Laura Loomer",
+   "label": "Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Called \"Larry Loomer\" by the host throughout. Traveled with Pete Hegseth to Guantanamo Bay as a Pentagon reporter and asked about a Cuba operation; the host says she cannot legally own a weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9841, C-9842, C-9843, C-9844, A-2640.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named by the host as calling for the US to take Kharg Island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9833*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Appears with Kolvet on the Charlie Kirk Show clip; the host says he is not an employee of Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9849, C-9850, C-9852, C-9854, A-2642.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-178",
+   "header": "**N-178** Jared Kushner",
+   "label": "Jared Kushner",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "His interview on discovering Albania aboard Nat Rothschild's boat is played."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9819, C-9826, C-9827, C-9828, A-2636.1, A-2636.2, A-2636.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-361",
+   "header": "**N-361** Mitch Snow",
+   "label": "Mitch Snow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host restates his claim that he saw Erika Kirk at a hotel on Fort Huachuca on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9865*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-433",
+   "header": "**N-433** Bradley Hansell",
+   "label": "Bradley Hansell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcript spelling \"Brad Hansell\". Subject of the host's FOIA request about who flew with him to Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9862, C-9863, C-9864, A-2645.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-449",
+   "header": "**N-449** Michael Aquino",
+   "label": "Michael Aquino",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in a viewer conspiracy comment as the alleged biological father of Erika Kirk and JD Vance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-2643.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-520",
+   "header": "**N-520** Rothschild Family",
+   "label": "Rothschild Family",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host links the family to the Sazan Island deal, the founding of Israel and the Planet Nine yacht."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9820, C-9821, C-9825, A-2637.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-591",
+   "header": "**N-591** Pete Hegseth",
+   "label": "Pete Hegseth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Repeatedly misnamed \"Pete Buttigieg\" by the host. His CENTCOM press remarks, troop runs and Guantanamo trip with Laura Loomer are shown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9836, C-9837, C-9838, C-9839, C-9840, C-9841, C-9845, C-9846, A-2640.1, A-2640.2, A-2640.3, A-2640.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-659",
+   "header": "**N-659** Ivanka Trump",
+   "label": "Ivanka Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:52 in episode 113. Her story of swimming to Sazan Island from a friend's boat is revisited.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9819, C-9820, A-2636.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-663",
+   "header": "**N-663** Nat Rothschild",
+   "label": "Nat Rothschild",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "02:52 in episode 113. Owner of the superyacht Planet Nine, on which Kushner says he and Ivanka vacationed in 2021. Aliases: Nathaniel; Nathan Rothschild.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9820, C-9822, C-9826, A-2636.2, A-2637.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-664",
+   "header": "**N-664** Edi Rama",
+   "label": "Edi Rama",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by Jared Kushner in a clip at 00",
+     "v": "08:08 in episode 113, as \"Prime Minister Rama\" of Albania. Kushner says Rama came to the yacht. Transcript gives only the surname.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9827, C-9828, C-9855, A-2636.2, A-2643.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-668",
+   "header": "**N-668** Nikita Khrushchev",
+   "label": "Nikita Khrushchev",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "09:59 in episode 113. Former Soviet leader quoted on Sazan Island as a strategic naval position.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9829, C-9830, A-2638.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-669",
+   "header": "**N-669** Enver Hoxha",
+   "label": "Enver Hoxha",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "09:59 in episode 113. Former Albanian leader (called \"prime minister\" by the host) whose account of Khrushchev's remarks is read.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9830, A-2638.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-670",
+   "header": "**N-670** Admiral Cooper (CENTCOM commander)",
+   "label": "Admiral Cooper (CENTCOM commander)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by Pete Hegseth in a clip at 00",
+     "v": "15:42 in episode 113 as \"Admiral Cooper, the commander of CENTCOM.\" Only the surname is given.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9836, C-9837, A-2640.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-671",
+   "header": "**N-671** Miguel Díaz-Canel",
+   "label": "Miguel Díaz-Canel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by Laura Loomer in a clip at 00",
+     "v": "26:08 in episode 113 (transcript spelling \"Miguel Diaz-Canel\"). Cuban leader named in her capture-or-kill question.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9844, A-2640.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-672",
+   "header": "**N-672** Nicolás Maduro",
+   "label": "Nicolás Maduro",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by Laura Loomer in a clip at 00",
+     "v": "26:08 in episode 113. She cites a capture or kill operation against him as a precedent.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9844, A-2640.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10955",
+   "header": "**N-10955** Sazan Island",
+   "label": "Sazan Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Island off the coast of Albania that the host says Ivanka Trump and Jared Kushner \"discovered\" from Nat Rothschild's yacht and are now developing; the host links it to Khrushchev's 1959 remarks on controlling the Mediterranean."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9819, C-9826, C-9827, C-9828, C-9829, C-9830, A-2636.1, A-2636.2, A-2636.3, A-2638.1, A-2639.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10961",
+   "header": "**N-10961** Kharg Island",
+   "label": "Kharg Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Iranian island in the Persian Gulf that Donald Trump says he would prefer to take and that the host says Ben Shapiro has called for seizing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9832, C-9833, A-2639.1, A-2639.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10962",
+   "header": "**N-10962** Venezuela",
+   "label": "Venezuela",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Trump says millions of barrels of Venezuelan oil were brought to US refineries; the host says the oil went to Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9834, C-9835, A-2639.1, A-2639.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10963",
+   "header": "**N-10963** Cuba",
+   "label": "Cuba",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Subject of Laura Loomer's question about a US operation to remove the communist government and of Hegseth's \"options\" answer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9844, C-9845, A-2639.2, A-2640.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10964",
+   "header": "**N-10964** US Central Command (CENTCOM)",
+   "label": "US Central Command (CENTCOM)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Military command whose Tampa headquarters hosted Hegseth's press remarks announcing strikes on Iran."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9836, C-9837, C-9845, A-2640.1, A-2640.3*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10965",
+   "header": "**N-10965** Guantanamo Bay",
+   "label": "Guantanamo Bay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Place"
+    },
+    {
+     "raw": "Naval base where the host says Hegseth traveled with Laura Loomer and ran with troops."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9841, C-9843, C-9846, A-2640.4*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10966",
+   "header": "**N-10966** The Spectator (US edition)",
+   "label": "The Spectator (US edition)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Publication of the article headlined \"Bombing Iran is the perfect way to celebrate pride.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9847, C-9848, A-2641.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10967",
+   "header": "**N-10967** Haaretz",
+   "label": "Haaretz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Israeli publication of the article \"What if Albania had become the Jewish state?\" cited in the comments segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9857, A-2644.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose CEO and chairman's accountability, appointment video and spokesperson are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9818, C-9849, C-9853, C-9854, C-9856, A-2642.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10008",
+   "header": "**N-10008** YWLS Conference",
+   "label": "YWLS Conference",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Venue where TPUSA played the appointment video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9849, A-2642.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10026",
+   "header": "**N-10026** Israel",
+   "label": "Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says the Rothschilds created Israel, that Venezuelan oil was shipped there, and that Albania was once considered for a Jewish state."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9821, C-9835, C-9857, A-2641.1, A-2644.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10070",
+   "header": "**N-10070** Daily Mail",
+   "label": "Daily Mail",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says TPUSA brought in Daily Mail reporters for an article on why the full video could not be released."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9856*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10367",
+   "header": "**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "label": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mitch Snow's September 8 hotel sighting is restated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9865*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10417",
+   "header": "**N-10417** Fort Huachuca Erika Presence Investigation",
+   "label": "Fort Huachuca Erika Presence Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host ties Hansell's September 8 trip to the date Mitch Snow places Erika Kirk on the base."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9864, C-9865*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10472",
+   "header": "**N-10472** Fort Huachuca Alibi Investigation",
+   "label": "Fort Huachuca Alibi Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host says Erika Kirk has not provided an alibi and that Paramount Tactical debunked the one offered."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9866*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10541",
+   "header": "**N-10541** Strait of Hormuz / US-Iran War Context",
+   "label": "Strait of Hormuz / US-Iran War Context",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host frames the Iran strikes as a bid to control the Strait of Hormuz; Hegseth announces new strikes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9831, C-9836, C-9837*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10628",
+   "header": "**N-10628** Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+   "label": "Laura Loomer Involuntary Psychiatric Holds / Firearm Prohibition",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host restates that Loomer is not legally allowed to own a weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9842*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10664",
+   "header": "**N-10664** Charlie Kirk Aspen Audio Authenticity Question",
+   "label": "Charlie Kirk Aspen Audio Authenticity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host maintains the appointment video is doctored and asks Kolvet to deny AI enhancement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9851, C-9852, C-9853, C-9856, C-9860, A-2642.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10671",
+   "header": "**N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest",
+   "label": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host's FOIA for the passenger list of Hansell's Fort Huachuca flight; she references \"Sam 702.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9862, C-9863, C-9864, A-2645.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10700",
+   "header": "**N-10700** Pending FOIA Requests",
+   "label": "Pending FOIA Requests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The Hansell FOIA request and its \"very odd response.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9862, C-9863, A-2645.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10865",
+   "header": "**N-10865** Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+   "label": "Erika Heaven-Focused Political Non-Answers / CEO Fitness",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The host opens by asking when the widowed CEO and chairman of TPUSA must answer questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9818*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10899",
+   "header": "**N-10899** Paramount Tactical",
+   "label": "Paramount Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Called \"Paramount Not So Tactical\"; the host says it debunked the Fort Huachuca alibi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-9866*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9818",
+   "header": "**C-9818** Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity",
+   "label": "Erika Kirk is CEO and chairman of a quarter-billion-dollar-per-year charity",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the widow from whom she seeks answers is the CEO and chairman of a \"quarter billion dollar per annum charity,\" Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we're allowed to receive answers to our very many questions from the CEO and chairman of a quarter billion dollar per annum charity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10865"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Turning Point USA's most recent IRS Form 990 for annual revenue and the officers listed as CEO and board chair."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9819",
+   "header": "**C-9819** Ivanka Trump said she jumped off a friend's boat and swam to the island",
+   "label": "Ivanka Trump said she jumped off a friend's boat and swam to the island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host recounts Ivanka Trump's story that she was on a friend's boat, jumped off, swam to the Albanian island and ran barefoot on it with Jared Kushner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Story is she was on her friend's boat, remember? Um, and she said she jumped off of it. She swam. Her and Jared then ran barefoot on the island like Adam and Eve."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2636.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-659, N-178"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Ivanka Trump interview in which she describes discovering Sazan Island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9820",
+   "header": "**C-9820** The boat Ivanka Trump jumped off was owned by a Rothschild",
+   "label": "The boat Ivanka Trump jumped off was owned by a Rothschild",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:44"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the boat from which Ivanka Trump swam to the island was Rothschild-owned, specifically Nat Rothschild's superyacht."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I guarantee you they wouldn't come up with anything remotely akin to the one that Ivanka jumped off of because, well, it's a Rothschild owned boat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2636.1, A-2637.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-659, N-663, N-520"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check yacht registry and ownership records for Planet Nine and its summer 2021 Adriatic itinerary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9821",
+   "header": "**C-9821** The Rothschild family has said it created the modern state of Israel",
+   "label": "The Rothschild family has said it created the modern state of Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that the Rothschild family has openly said, \"We created the modern state of Israel out of whole cloth.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the family that just straight up said, \"We created the modern state of Israel out of whole cloth.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-520"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10026"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the specific Rothschild family interview or statement the host refers to and compare its wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9822",
+   "header": "**C-9822** Nat Rothschild's superyacht is named Planet Nine and is designed for heli-skiing",
+   "label": "Nat Rothschild's superyacht is named Planet Nine and is designed for heli-skiing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nat Rothschild's boat is a superyacht named Planet Nine designed for heli-skiing adventures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's It's a super yacht appropriately named Planet Nine. Planet Nine, which is designed for heli-skiing adventures."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2637.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-663"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check yacht registry and builder records for Planet Nine and its listed owner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9823",
+   "header": "**C-9823** Planet Nine carries an eight-seat helicopter and has room for a second",
+   "label": "Planet Nine carries an eight-seat helicopter and has room for a second",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the yacht's helicopter seats eight and the yacht has space to land a second helicopter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2637.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the builder's published specifications for Planet Nine's helideck and helicopter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9824",
+   "header": "**C-9824** Planet Nine has five decks, two elevators and room for 16 guests",
+   "label": "Planet Nine has five decks, two elevators and room for 16 guests",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Planet Nine has five floors, two elevators and room for 16 guests, plus a 3,000-square-foot master apartment, a movie theater, a steam room, three libraries, a beach club and two jet skis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2637.1"
+    },
+    {
+     "k": "Mentions",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the builder's or charter broker's specification sheet for Planet Nine."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9825",
+   "header": "**C-9825** A French Rothschild said \"vice is nice, but incest is best\"",
+   "label": "A French Rothschild said \"vice is nice, but incest is best\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host attributes the phrase \"vice is nice, but incest is best\" to a member of the Rothschild family in France."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember, vice is nice, but incest is best, said that Rothschild in France."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-520"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original interview or documentary in which a French Rothschild is recorded saying this phrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9826",
+   "header": "**C-9826** Jared Kushner says he vacationed on Nat Rothschild's boat in summer 2021",
+   "label": "Jared Kushner says he vacationed on Nat Rothschild's boat in summer 2021",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Jared Kushner says that after leaving government in summer 2021 he vacationed on \"our friend Nat Rothschild's boat,\" sailing from Montenegro toward Corfu and spending a couple of days in Albania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was on a vacation after we left government in the summer of 2021. We were on our friend Nat Rothschild's boat. We got picked up in Montenegro"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2636.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178, N-663"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Kushner interview and AIS tracking data for Planet Nine in summer 2021."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9827",
+   "header": "**C-9827** Jared Kushner says Albania's Prime Minister Rama came to the boat",
+   "label": "Jared Kushner says Albania's Prime Minister Rama came to the boat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Kushner says Albania's Prime Minister Rama came to the boat one night, that he had not met him while in government, and that he was impressed by Rama's vision."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "One of the nights their Prime Minister Rama came to the boat. I had not met him when I was in government,"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2636.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-178, N-664"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Albanian government schedules and press reports for Edi Rama's summer 2021 meeting with Kushner."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9828",
+   "header": "**C-9828** The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny",
+   "label": "The Albanian prime minister who did the deal was on the boat; the deal is under corruption scrutiny",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Albanian prime minister who made the Sazan Island deal was on the Rothschild boat, and suggests this explains why the deal is being investigated for corruption."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The Prime Minister of Albania was on the boat. The guy who did the deal and in the process sold out his country and his ancestry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2636.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-664, N-663"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Albanian prosecutorial (SPAK) records and press reports for any corruption investigation into the Sazan Island agreement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9829",
+   "header": "**C-9829** Khrushchev visited Albania in 1959 and discussed Sazan Island as a naval position",
+   "label": "Khrushchev visited Albania in 1959 and discussed Sazan Island as a naval position",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nikita Khrushchev visited Albania in 1959 with a Soviet marshal and discussed Sazan Island as a strategic naval position."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "but in 1950 1959 he visited alongside his Soviet marshal and they looked out at the bay and they discussed Albania's coastline in particular, the Sazan Island, as a strategic naval position."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2638.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-668"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Consult Enver Hoxha's memoir \"The Khrushchevites\" and historical records of Khrushchev's May 1959 Albania visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9830",
+   "header": "**C-9830** Hoxha recorded Khrushchev saying a Sazan fleet could control the Mediterranean",
+   "label": "Hoxha recorded Khrushchev saying a Sazan fleet could control the Mediterranean",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:59"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "According to Enver Hoxha's account read by the host, Khrushchev said that with a powerful fleet based there, they could hold the whole Mediterranean from the Bosphorus to Gibraltar."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "With a powerful fleet from here, we can have the whole of the Mediterranean, the Bosphorus to the Gibraltar in our hands. We can control everyone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2638.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-669, N-668"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10955"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the quotation against the published text of Hoxha's memoirs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9831",
+   "header": "**C-9831** Trump is bombing Iran without a vote from Congress",
+   "label": "Trump is bombing Iran without a vote from Congress",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Trump has been bombing Iran without a vote from Congress."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Hence the reason Trump has been obsessed with Iran, bombing Iran absent a vote from Congress, absent the American people on his side."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10541"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check congressional records for any authorization for the use of military force against Iran and War Powers Resolution filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9832",
+   "header": "**C-9832** Trump says his preference has always been to take Kharg Island",
+   "label": "Trump says his preference has always been to take Kharg Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a Fox and Friends clip, Trump says his preference \"has always been take Kharg Island\" but that he is not sure America has the stomach for it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But you know, look, my preference has always been take Kharg Island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2639.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10961"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Fox and Friends interview transcript and air date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9833",
+   "header": "**C-9833** Ben Shapiro has called for taking Kharg Island",
+   "label": "Ben Shapiro has called for taking Kharg Island",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Ben Shapiro has been publicly urging that the US take Kharg Island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's the one that Ben Shapiro's been screaming about. We have to take Kharg Island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10961"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search Ben Shapiro's shows and posts for statements advocating seizure of Kharg Island."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9834",
+   "header": "**C-9834** Trump says the US has taken millions of barrels of Venezuelan oil",
+   "label": "Trump says the US has taken millions of barrels of Venezuelan oil",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:57"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Trump says the US has taken \"millions and millions of barrels of oil\" from Venezuela to Houston and Louisiana and that Venezuela has \"worked out great for everybody.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've taken millions and millions of barrels of oil out of Venezuela. We brought them to Houston and various other places, Louisiana."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2639.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10962"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check EIA import data and shipping records for Venezuelan crude delivered to US Gulf Coast refineries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9835",
+   "header": "**C-9835** Venezuelan oil was immediately shipped to Israel",
+   "label": "Venezuelan oil was immediately shipped to Israel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says headlines reported that the Venezuelan oil began to be shipped immediately to Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We got all this oil. Where did it go? I remember the headlines. They started shipping it immediately to Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10962, N-10026"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6776"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the headlines and tanker-tracking data on Venezuelan crude shipments to Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9836",
+   "header": "**C-9836** Hegseth says CENTCOM will hit Iran hard that night",
+   "label": "Hegseth says CENTCOM will hit Iran hard that night",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip from US Central Command in Tampa, Pete Hegseth says Admiral Cooper was busy because CENTCOM would be \"hitting Iran hard\" that night, as President Trump had said."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But, of course, he is busy because CENTCOM, Central Command, will be busy tonight because President Trump said we will be hitting Iran hard, and we will be."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591, N-670, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10964, N-10541"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Department of War transcript of Hegseth's Tampa remarks and CENTCOM strike announcements for that night."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9837",
+   "header": "**C-9837** Hegseth credits CENTCOM with Epic Fury and the Iran blockade",
+   "label": "Hegseth credits CENTCOM with Epic Fury and the Iran blockade",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Hegseth says Admiral Cooper and CENTCOM have done \"a phenomenal job from the beginning on Epic Fury and through this blockade,\" with the end state that Iran never has a nuclear weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh and Admiral Cooper and the team here at CENTCOM has done a phenomenal job from the beginning on Epic Fury and through this blockade,"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591, N-670"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10964, N-10541"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review official CENTCOM releases on Operation Epic Fury and the Iran blockade."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9838",
+   "header": "**C-9838** Hegseth has a crucifix tattoo on his right arm",
+   "label": "Hegseth has a crucifix tattoo on his right arm",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she noticed Hegseth has a crucifix tattooed on his right arm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I noticed that he had a crucifix uh tattooed um on his right arm, so that I guess bars us from asking questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with published photographs of Hegseth's tattoos."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9839",
+   "header": "**C-9839** Hegseth stages runs with troops abroad",
+   "label": "Hegseth stages runs with troops abroad",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hegseth (whom she calls \"Pete Buttigieg\") ran with troops in Malaysia in October 2025, in Singapore on May 29, in Poland in 2025 and in Germany in February 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Here he is in October of 2025 in Malaysia. He went for a run with the troops."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check DVIDS and Department of War photo releases for Hegseth's troop runs on those dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9840",
+   "header": "**C-9840** Hegseth says \"we are taking back our hemisphere\"",
+   "label": "Hegseth says \"we are taking back our hemisphere\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a military website clip, Hegseth tells troops that under the current national defense strategy \"we are taking back our hemisphere.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "From this War Department's view the national defense strategy we have right now, we are taking back our hemisphere."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10964"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original DVIDS or War Department video and its location and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9841",
+   "header": "**C-9841** Hegseth went to Guantanamo Bay with Laura Loomer",
+   "label": "Hegseth went to Guantanamo Bay with Laura Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hegseth traveled to Guantanamo Bay with Laura Loomer, taking her there by helicopter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer. Not a joke, guys."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591, N-60"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10965"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Department of War press pool roster for Hegseth's Guantanamo Bay trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9842",
+   "header": "**C-9842** Laura Loomer is not legally allowed to own a weapon",
+   "label": "Laura Loomer is not legally allowed to own a weapon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that Laura Loomer is not legally allowed to own a firearm in the United States."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'd like to remind you, Laura Loomer is not legally allowed to own a weapon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10628"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check court and state records for any firearm prohibition or involuntary commitment record concerning Laura Loomer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9843",
+   "header": "**C-9843** Laura Loomer went to Guantanamo as a Pentagon reporter",
+   "label": "Laura Loomer went to Guantanamo as a Pentagon reporter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Loomer traveled to Guantanamo Bay in the role of a Pentagon reporter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Anyway, Larry went down to Gitmo as a Pentagon reporter. Totally sane times."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10965"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Pentagon press credential lists for Loomer's outlet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9844",
+   "header": "**C-9844** Loomer asked Hegseth about a capture-or-kill operation against Díaz-Canel",
+   "label": "Loomer asked Hegseth about a capture-or-kill operation against Díaz-Canel",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Loomer asks how long a US operation to remove Cuba's communist government would take, and what would happen if Trump ordered a capture or kill operation against Miguel Díaz-Canel \"like he did with Maduro.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "reestablish order if President Trump were to decide to do a capture or kill operation with Miguel Diaz-Canel like he did with Maduro?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-60, N-671, N-672, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10963"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the War Department transcript of the Guantanamo press availability."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9845",
+   "header": "**C-9845** Hegseth answered that all options are on the table",
+   "label": "Hegseth answered that all options are on the table",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Hegseth replies \"options, options, options,\" says all options are on the table, and says \"we'll strike them hard tonight.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, to kind of bring it back home to while we're here, those options are all All those options are on the table."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2640.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10963, N-10964"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the War Department transcript of the Guantanamo press availability."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9846",
+   "header": "**C-9846** Hegseth did another run with troops at Guantanamo",
+   "label": "Hegseth did another run with troops at Guantanamo",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hegseth also went on a run with troops after arriving at Guantanamo Bay."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And secondly, uh when he got down to Gitmo, I should mention he did another run. He did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-591"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10965"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check DVIDS imagery from the Guantanamo Bay visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9847",
+   "header": "**C-9847** Spectator US published \"Bombing Iran is the perfect way to celebrate pride\"",
+   "label": "Spectator US published \"Bombing Iran is the perfect way to celebrate pride\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Spectator US published an article headlined \"Bombing Iran is the perfect way to celebrate pride,\" and that it is not satire."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is a real headline that was published in Spectator US. Check this out. Bombing Iran is the perfect way to celebrate pride."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2641.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10966"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Spectator US article, its author and publication date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9848",
+   "header": "**C-9848** Spectator article says Tel Aviv pride became an opportunity to bomb Iran",
+   "label": "Spectator article says Tel Aviv pride became an opportunity to bomb Iran",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The Spectator article, as read by the host, says Tel Aviv's annual pride celebration \"has once again turned into an opportunity to bomb\" Iran. It says the continued \"thrashing\" of the Iranian regime is the best replacement for the parade."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tel Aviv's annual celebration of gayness has once again turned into an opportunity to bomb one of the world's most viciously anti-gay regimes,"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2641.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10966, N-10026"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the published article text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9849",
+   "header": "**C-9849** Kolvet and Neff say TPUSA released the appointment video to \"troll the trolls\"",
+   "label": "Kolvet and Neff say TPUSA released the appointment video to \"troll the trolls\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a Charlie Kirk Show clip, Andrew Kolvet and Blake Neff say TPUSA decided over the weekend to \"troll the trolls\" by playing the video of Charlie Kirk appointing Erika Kirk at YWLS."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We We decided over the weekend we were going to troll the trolls. There's this video that has become a a source of controversy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2642.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-159, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10008"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Charlie Kirk Show episode and the YWLS session recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9850",
+   "header": "**C-9850** TPUSA spokesman says Charlie told staff and board of the succession plan, and said it once on camera in Aspen",
+   "label": "TPUSA spokesman says Charlie told staff and board of the succession plan, and said it once on camera in Aspen",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, a TPUSA speaker (Kolvet or Neff) says Charlie Kirk told \"all of us\" and the board that Erika was the plan, and that he said it once on camera at a private donor event in Aspen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said it one time in front of a camera at a private event with donors in Aspen."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2642.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-159, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Supports",
+     "v": "C-7887"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain TPUSA board minutes on succession and the full unedited Aspen donor event recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9851",
+   "header": "**C-9851** Video shows Charlie Kirk saying \"I appoint my wife to run Turning Point USA\"",
+   "label": "Video shows Charlie Kirk saying \"I appoint my wife to run Turning Point USA\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The replayed video shows Charlie Kirk saying, \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2642.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9053"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Forensically compare the released clip with the full Aspen event recording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9852",
+   "header": "**C-9852** TPUSA says critics wrongly claimed the clip was from ActCon 2023",
+   "label": "TPUSA says critics wrongly claimed the clip was from ActCon 2023",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The TPUSA speaker says critics \"claimed without any basis\" that the clip was actually Charlie at ActCon in 2023."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "claimed without any basis whatsoever, \"Ooh, that's actually that that's actually Charlie at Act Con in 2023.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2642.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-159, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the clip's setting and audio with ActCon 2023 footage and the Aspen event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9853",
+   "header": "**C-9853** Host asserts the appointment video is doctored and TPUSA will not answer",
+   "label": "Host asserts the appointment video is doctored and TPUSA will not answer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host maintains that the appointment video is doctored and says TPUSA, especially Kolvet, will not respond to questions about it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But as I have said, the video is doctored and they won't answer that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2642.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664, N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Commission independent forensic analysis of the clip and request the original camera files from TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9854",
+   "header": "**C-9854** Blake Neff is not a TPUSA employee",
+   "label": "Blake Neff is not a TPUSA employee",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA sends out Blake Neff to discuss the video because he is not an official employee of Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They send out Blake Neff because he's not an official uh he's he's not at all actually an employee of Turning Point USA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check TPUSA's Form 990 staff listings and Neff's employment with the Charlie Kirk Show production entity."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9855",
+   "header": "**C-9855** Viewer says the Albanian prime minister is selling the country's land and sea",
+   "label": "Viewer says the Albanian prime minister is selling the country's land and sea",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment read by the host says the Albanian prime minister is considered the most anti-Albanian leader in the country's history and is selling Albania's land and sea to neighboring countries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2643.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-664"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Albanian maritime and land concession agreements under Edi Rama, including the Greece maritime border deal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9856",
+   "header": "**C-9856** TPUSA cited donor protection to withhold the video; host says she named the donors",
+   "label": "TPUSA cited donor protection to withhold the video; host says she named the donors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA worked with Daily Mail reporters on an article saying it could not release the full video to protect donors. She says she revealed the donors' names the previous day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You did a whole article and brought in Daily Mail reporters and said you couldn't release it because you were protecting the donors. I revealed the donors' names yesterday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10070, N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Daily Mail article and compare with the host's prior-day episode naming the donors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9857",
+   "header": "**C-9857** Haaretz published \"What if Albania had become the Jewish state?\"",
+   "label": "Haaretz published \"What if Albania had become the Jewish state?\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host's producer cites a Haaretz article titled \"What if Albania had become the Jewish state?\" in response to a viewer's claim that Israel was once going to be founded in Albania."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he has this article from Haaretz, that's an Israeli uh publication, and it says, \"What if Albania had become the Jewish state?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2644.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10967, N-10026"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the Haaretz article and its sources on Albania as a proposed Jewish homeland."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9858",
+   "header": "**C-9858** Early Zionists also considered Africa for a Jewish state",
+   "label": "Early Zionists also considered Africa for a Jewish state",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Albania was not the only location considered and that the movement also looked at Africa."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Yeah, it wasn't just Albania they were looking at. They also went to look in Africa."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2644.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Consult histories of the 1903 Uganda Scheme and other proposed territories."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9859",
+   "header": "**C-9859** Russia and Persia ended the Khazar Empire",
+   "label": "Russia and Persia ended the Khazar Empire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asserts that the two countries that ended the Khazarian Empire were Russia and Persia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Actually, it was two countries that took out the Khazarian Empire. It was Russia and Persia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Consult academic histories of the Khazar Khaganate's fall (e.g. Sviatoslav I's 965 campaign)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9860",
+   "header": "**C-9860** Host says the video is from the Aspen event, not ActCon",
+   "label": "Host says the video is from the Aspen event, not ActCon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Responding to a viewer, the host says Kolvet's X statement that the video is real addressed the ActCon claim. She says the video is indeed from the Aspen event, so the relevant question is whether it was doctored or AI-enhanced."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Like it was actually from the Aspen event. That's a video from the Aspen event, which is why the important relevant question is is this doctored"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2643.3, A-2642.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10664"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve Kolvet's X post and obtain the full Aspen recording for forensic review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9861",
+   "header": "**C-9861** Host was in Russia when the ActCon dispute broke",
+   "label": "Host was in Russia when the ActCon dispute broke",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was in Russia when the dispute over the video broke and so could not respond at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was over in Russia when that whole thing broke, obviously, so I wasn't able to respond and share the video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's travel dates with the timing of the ActCon claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9862",
+   "header": "**C-9862** Host filed a FOIA request about Under Secretary of War Brad Hansell",
+   "label": "Host filed a FOIA request about Under Secretary of War Brad Hansell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team filed a FOIA request concerning Brad Hansell, whom she identifies as the Under Secretary of War."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "but we filed an FOIA request for Brad Hansell, the Under Secretary of War."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2645.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10700, N-10671"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the FOIA request and the agency's response letter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9863",
+   "header": "**C-9863** The FOIA sought who flew with Hansell to Fort Huachuca and drew an odd response",
+   "label": "The FOIA sought who flew with Hansell to Fort Huachuca and drew an odd response",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:43"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the FOIA request asked who was on the plane with Hansell to Fort Huachuca and that she received \"a very odd response.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We received a very odd response. We just wanted an FOIA request regarding who was on the plane with him to go to Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2645.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10671, N-10700"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the response letter and file an appeal or a parallel request for the SAM702 passenger manifest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9864",
+   "header": "**C-9864** Hansell stopped in Tucson and went to Fort Huachuca on September 8",
+   "label": "Hansell stopped in Tucson and went to Fort Huachuca on September 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Hansell stopped in Tucson and then went to Fort Huachuca on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He stops in Tucson, and then he goes to Fort Huachuca on the 8th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2645.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-433"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10671, N-10417"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain flight-tracking data for the aircraft carrying Hansell and Fort Huachuca visitor records for September 8, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9865",
+   "header": "**C-9865** Mitch Snow says he saw Erika Kirk at a hotel on base on September 8",
+   "label": "Mitch Snow says he saw Erika Kirk at a hotel on base on September 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host restates that Mitch Snow, who she says has not changed his story, claims he saw Erika Kirk at a hotel on the Fort Huachuca base on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's the day that Mitch Snow, who has not edited his story at all, claims that he saw Erika Kirk at a hotel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-361, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10367, N-10417"
+    },
+    {
+     "k": "Supports",
+     "v": "C-4347"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Candlewood Suites Fort Huachuca guest records and base access logs for September 8, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-9866",
+   "header": "**C-9866** Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered",
+   "label": "Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk has not provided an alibi, and that she guesses Kolvet tried to offer one through what she calls \"Paramount Not So Tactical,\" which she says then debunked that alibi and said it does not matter whether or not the children are hers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika Kirk has not provided an alibi. I guess Andrew tried to through Paramount Not So Tactical, but then Paramount Not So Tactical debunked that alibi"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-14"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10899, N-10472"
+    },
+    {
+     "k": "Supports",
+     "v": "C-9135"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original alibi photograph metadata and Paramount Tactical's on-air retraction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-1",
+   "header": "**M-1** (meme) Grieving Widow",
+   "label": "(meme) Grieving Widow",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:01"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "what exactly are the statute of limitations on being a widow? Is there a bill making its way through the halls of Congress?"
+    },
+    {
+     "k": "Context",
+     "v": "Host's cold open mocking the widow framing that shields Erika Kirk from questions as TPUSA's CEO."
+    },
+    {
+     "k": "Tags",
+     "v": "sarcasm, widow_framing, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:29"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You know, where they're trying to keep us at is uh the widow, right? She will be your leader. You'll be emotionally swayed."
+    },
+    {
+     "k": "Context",
+     "v": "Host ties the widow framing to war propaganda."
+    },
+    {
+     "k": "Tags",
+     "v": "widow_framing, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:43"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "If you want to be in this widow era in the way that you guys have been trying to be. This This is the way."
+    },
+    {
+     "k": "Context",
+     "v": "Host urges TPUSA to release the full video if it wants to lean on the widow narrative."
+    },
+    {
+     "k": "Tags",
+     "v": "widow_framing, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-26",
+   "header": "**M-26** (meme) Gaslight",
+   "label": "(meme) Gaslight",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Like they get to just print the textbooks to gaslight people into believing that noticing what they do,"
+    },
+    {
+     "k": "Context",
+     "v": "Host says the Rothschild family shapes narratives about criticism of itself."
+    },
+    {
+     "k": "Tags",
+     "v": "gaslight, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-66",
+   "header": "**M-66** (meme) Fed Slop",
+   "label": "(meme) Fed Slop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Beyond the slop that they're serving for the masses, beyond the Oprah suburban glow Ivanka is trying to assign to it."
+    },
+    {
+     "k": "Context",
+     "v": "Host dismisses the public story of the Sazan Island deal."
+    },
+    {
+     "k": "Tags",
+     "v": "slop, narrative, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:09"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "They just want to defeat communism. Eat the slop, everybody."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks the \"passion project\" framing of Albania and Cuba before the break."
+    },
+    {
+     "k": "Tags",
+     "v": "slop, narrative, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-109",
+   "header": "**M-109** (meme) Ivanka the Explorer",
+   "label": "(meme) Ivanka the Explorer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:52"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I have a lot more that I need to say about Ivanka the explorer."
+    },
+    {
+     "k": "Context",
+     "v": "Host's running nickname for Ivanka Trump over her story of \"discovering\" Sazan Island."
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "particularly when we were covering Dora the Explorer, Ivanka the Explorer, discovering an amazing tale of how she discovered an island off the coast of Albania."
+    },
+    {
+     "k": "Context",
+     "v": "Host extends the bit with a Dora the Explorer comparison."
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So, I just feel like we should um bring in that Ivanka glow from yesterday cuz I want to glow like Ivanka, the explorer."
+    },
+    {
+     "k": "Context",
+     "v": "Host cues the replay of the Ivanka clip."
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-110",
+   "header": "**M-110** (meme) Tap Tap Tap",
+   "label": "(meme) Tap Tap Tap",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That's our foreign policy. Tap, tap, tap. Tap, tap, tap. Bombs, tap, tap, tap. They have until tonight. Tap, tap, tap."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks Hegseth's \"tap tap tap bombs\" line from the CENTCOM press remarks."
+    },
+    {
+     "k": "Tags",
+     "v": "roast, war_policy, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-87",
+   "header": "**M-87** (meme) Military Bros",
+   "label": "(meme) Military Bros",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:21:34"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "His His aim is the military bros."
+    },
+    {
+     "k": "Context",
+     "v": "Host describes Hegseth's troop-run publicity as aimed at \"military bros.\""
+    },
+    {
+     "k": "Tags",
+     "v": "roast, military, reuse_title"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-111",
+   "header": "**M-111** (meme) Larry Loomer",
+   "label": "(meme) Larry Loomer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "That's how insane Larry Loomer is. He does not qualify to own a weapon in the United States."
+    },
+    {
+     "k": "Context",
+     "v": "Host's running bit calling Laura Loomer \"Larry.\""
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:19"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Larry Loomer, welcome to the show. Larry, what are you doing What did you do with Brigitte?"
+    },
+    {
+     "k": "Context",
+     "v": "Host stages a studio cutout of Loomer holding a long \"receipt.\""
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, comedy, prop"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:43:59"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We believe Larry. We believe Larry Larry's sources, Larry's voices in Larry's head."
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises the bit while reading a viewer comment about the cutout."
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-112",
+   "header": "**M-112** (meme) Troll the Trolls",
+   "label": "(meme) Troll the Trolls",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:31"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "He doesn't care enough to address it except to troll to troll the trolls. Very strange."
+    },
+    {
+     "k": "Context",
+     "v": "Host turns TPUSA's \"troll the trolls\" explanation for the appointment video against Kolvet."
+    },
+    {
+     "k": "Tags",
+     "v": "tpusa, video, sarcasm"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Um everything they have done regarding this video or just trolling the trolls."
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises the phrase in the comments segment."
+    },
+    {
+     "k": "Tags",
+     "v": "tpusa, video, sarcasm"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-107",
+   "header": "**M-107** (meme) Stop Anti-Candaceism",
+   "label": "(meme) Stop Anti-Candaceism",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:59"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Don't forget to get your 6 million Stand With Candace mug. Stop anti-Candacism."
+    },
+    {
+     "k": "Context",
+     "v": "Merch joke parodying antisemitism accusations; host says critics could be called \"anti-Candacist.\""
+    },
+    {
+     "k": "Tags",
+     "v": "merch, parody, comedy"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-95",
+   "header": "**M-95** (meme) Emotional Response Asset",
+   "label": "(meme) Emotional Response Asset",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:43"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the Department of War in general has been very involved with this Erika Kirk emotional asset story."
+    },
+    {
+     "k": "Context",
+     "v": "Host reprises the \"emotional asset\" framing of Erika Kirk while announcing the Hansell FOIA."
+    },
+    {
+     "k": "Tags",
+     "v": "erika_kirk, department_of_war, reuse_title"
+    },
+    {
+     "k": "Confidence",
+     "v": "medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-92",
+   "header": "**M-92** (meme) Paramount Not So Tactical",
+   "label": "(meme) Paramount Not So Tactical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:42"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I guess Andrew tried to through Paramount Not So Tactical, but then Paramount Not So Tactical debunked that alibi"
+    },
+    {
+     "k": "Context",
+     "v": "Host's nickname for Paramount Tactical over the Fort Huachuca alibi photo."
+    },
+    {
+     "k": "Tags",
+     "v": "nickname, roast, reuse_title"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- **Artifacts verbally referenced but not shown**: A-2645.1 (the Hansell FOIA request and response). The Daily Mail article on withholding the video and the host's prior-day naming of donors are referenced but not shown. A studio cutout of Laura Loomer holding a long \"receipt\" (25:19) is a comedy prop and is recorded only as meme context.",
+    "- **Episode metadata**: the skeleton's Video Timestamp Range was 00:56:29; it is set to 00:47:48 from the transcript front matter.",
+    "- **Name matching**: the host repeatedly says \"Pete Buttigieg\" (21:34) when she means Pete Hegseth; all are mapped to N-591. \"Larry Loomer\" is the host's running nickname for Laura Loomer (N-60). \"Andrew Kolvet\", \"Andrew Kovacs\" and \"Kovacs\" are mapped to N-14 Andrew Kolvet. \"Brad Hansell\" is mapped to N-433 Bradley Hansell. \"Prime Minister Rama\" is assumed to be Edi Rama (N-664); the transcript gives only the surname. \"Admiral Cooper, the commander of CENTCOM\" (N-670) is likely Adm. Brad Cooper, but only the surname airs. \"Brian knows that\" in the Trump Fox and Friends clip is probably Brian Kilmeade, but he is not linked because only the first name airs. \"Erika Frantz Paye\" in a viewer comment is a variant of Erika Frantzve (N-2). \"Nathaniel\" and \"Nathan Rothschild\" are taken as Nat Rothschild (N-663).",
+    "- **Transcription ambiguities**: \"Cezanne\" (13:42) is Sazan; \"Karg Island\" is Kharg; \"trolling at WLS\" refers to YWLS; \"Sam 702\" is linked to N-10671 (SAM702). \"in 1950 1959\" is a self-correction, and 1959 is used.",
+    "- **Possible host errors kept as spoken**: the host says \"the Roman name for Pluto is Hades\" (Hades is the Greek name); she calls Enver Hoxha \"prime minister\" (he was also First Secretary); she gives Iran's population as \"150 million\". C-9865 places the hotel sighting \"on the base\" on \"the 8th\"; prior claim C-4347 names the Candlewood Inn & Suites, so the two are consistent.",
+    "- **Speaker ambiguity**: in A-2642.1 the transcript does not separate Kolvet's lines from Neff's; C-9849, C-9850 and C-9852 mention both.",
+    "- **DIA scan**: the only hit is \"candaceowens. com\" (42:59) in a merch plug for the Stand With Candace mug, not a tip request, so it is not a DIA beat. No tip, bounty or Decentralized Intelligence Agency beats air.",
+    "- **Cross-episode links left out**: C-9853 (video doctored) is close to C-9050 (donors assert the audio was faked) but is the host's own assertion, not the donors', so it is not linked. C-9862 restates Hansell's title (C-9620) but is about the FOIA, so it is not linked. C-9842 (Loomer firearm prohibition) has no matching prior claim.",
+    "- **Not inscribed as claims (admission test)**:",
+    "  - Characterizations of the Rothschilds as \"openly satanic\" and of the Sazan deal as Rothschild \"agents\" controlling waterways",
+    "  - The theory that the Iran war aims to add the Strait of Hormuz to \"the Rothschild empire\"",
+    "  - \"If they don't care about the murder of Charlie Kirk, do you know how quickly they would murder your sons and daughters?\"",
+    "  - The host's paraphrases of officials as wanting to \"bomb bridges\" and \"kill citizens\"",
+    "  - The claim that Israel is \"the Khazarian Empire reassembled\" and that its people \"are not the Jews of the Bible\" (a contested theory, not inscribed; C-9859 keeps only the narrow historical assertion)",
+    "  - The theory that Western publishers suppressed Russian history books after World War II",
+    "  - The Dexter Morgan viewer comment that Erika Kirk and JD Vance are half siblings fathered by Michael Aquino (A-2643.2 only), which the host calls \"pretty far out there\"",
+    "  - The claim that Emmanuel Macron had \"the hand of Rothschild upon him\" at every turn",
+    "  - Rhetorical questions on why TPUSA would troll about a dying wish",
+    "- **Minor factual beats not inscribed**: the host says the Rothschilds chose Israel's flag (the Seal of Solomon) and excommunicate family members who marry outside the family. She also says the Planet Nine helipad doubles as a basketball court, that her channel reached 6 million subscribers, that customer service replaced a lost Crisis King mug, and that book club is the next day.",
+    "- **Sponsor reads** (Pre-Born, Tax Network USA) and merch promotion are excluded.",
+    ""
+   ]
+  }
+ ]
+}

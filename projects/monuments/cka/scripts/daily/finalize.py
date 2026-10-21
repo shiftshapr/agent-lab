@@ -49,9 +49,9 @@ def main() -> int:
             d["meta"]["series"] = "Candace Kirk Archive"
             p.write_text(json.dumps(d, indent=2, ensure_ascii="\\u" in raw) + "\n", encoding="utf-8")
     if not a.gates_only:
-        for script in (CKA / "scripts" / "apply_name_corrections.py", CKA / "scripts" / "sync_claim_tags.py",
-                       MON / "scripts" / "cka_brc222_companion.py"):
-            r = sh([py, str(script)])
+        for script, extra in ((CKA / "scripts" / "apply_name_corrections.py", []), (CKA / "scripts" / "sync_claim_tags.py", []),
+                              (MON / "scripts" / "cka_brc222_companion.py", []), (CKA / "scripts" / "source" / "cka_source.py", ["sync"])):
+            r = sh([py, str(script)] + extra)
             if r.returncode != 0:
                 print(f"FAIL {script.name}: {r.stderr[-1000:]}")
                 return 1
@@ -62,6 +62,7 @@ def main() -> int:
         ("hostile hard gates", [py, str(MON / "scripts" / "hostile_hard_gates.py"), "--monument", "cka"]),
         ("claim timestamps", [py, str(CKA / "scripts" / "check_claim_timestamps.py")]),
         ("tweet links", [py, str(CKA / "scripts" / "tweets" / "merge_links.py"), "--check"]),
+        ("source JSON", [py, str(CKA / "scripts" / "source" / "cka_source.py"), "check"]),
     ]
     if a.pytest:
         gates.append(("pytest", [py, "-m", "pytest", "-q", str(MON / "scripts")]))

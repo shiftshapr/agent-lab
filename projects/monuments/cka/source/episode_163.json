@@ -1,0 +1,8437 @@
+{
+ "format": "cka-source/1",
+ "episode": 163,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 163",
+    "- **Monument**: cka",
+    "- **CKA seq**: 163",
+    "- **YouTube id**: UAdBEXs7nNc",
+    "- **Candace Ep**: 400",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00-00:55:55",
+    "- **Extraction Timestamp (UTC)**: 2026-10-19T21:30:00Z",
+    "- **Transcript SHA-256**: c0ea603c5abbad010bf6580736cb26a666167fef7cc0296e507a61038cbb4c8a",
+    "- **Model Version**: claude-manual-extract-seq163",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (catchup-2026-10-19): N-951, N-954, N-11419, N-11420, N-11421",
+    "  - Reused Nodes Appearing: N-953, N-952, N-1, N-2, N-3, N-4, N-5, N-7, N-10, N-17, N-58, N-146, N-159, N-190, N-224, N-266, N-270, N-271, N-277, N-341, N-367, N-487, N-492, N-504, N-594, N-896, N-10000, N-10198, N-10272, N-10338, N-10537, N-10651, N-10681, N-10683, N-10694, N-10715, N-10730, N-10737, N-10765, N-10821, N-10839, N-10840, N-10874, N-10881, N-10886, N-11009, N-11208, N-11218, N-11233, N-11263, N-11310, N-11321, N-11356",
+    "  - Claim Range: C-14056–C-14142",
+    "  - (see registers)",
+    "",
+    "# Episode 163 Analysis",
+    "",
+    "## 2. Executive Summary",
+    "",
+    "Episode 400 (2026-10-08). The host opens by answering Blake Neff, who she says called her names in an X space the day before, and then walks through newly enhanced UVU footage from just before 1:00 p.m. on September 10. According to the host, Blake Neff, Danny Philip, Nate Walker and Mikey McCoy walked with security members Blake Harreff, Blake Gibson and Charlie's driver from behind the Hall of Flags to a lineup of white vehicles she describes as federal, and split into two cars driven by what appear to her to be officers. She says local news footage shows the first group arriving at Timpanogos Hospital at about 1:10 p.m., while the second car, carrying the security members, is not seen arriving, and two of them later return wearing scrubs.",
+    "",
+    "The host says her team has identified Charlie's driver as Christopher Rhoades (she spells it r-h-o-a-d-e-s), says he appears to be from Texas and to work with Brian Harpole, and distinguishes him from a same-named member of TPUSA's new FRG security team. She also names the ICAC officer who she says took Mikey McCoy's statement and says that officer has left her position. She asks viewers for tips on the officer who drove the first group, on Christopher Rhoades and on the fire captain who she says performed CPR at the hospital, saying her team is down to two possibilities.",
+    "",
+    "The second half reads excerpts from Frank Turek's book \"The War on Reality\" (published, she says, on September 8, 2026). The host contrasts the book's statement that all three men in the back seat tried to stop the bleeding, and that Turek switched to CPR, with Brian Harpole's Shawn Ryan account, notes that the book omits the fire captain named in the independent review, disputes its claim that Dan Flood's team only had jurisdiction over Charlie's immediate area, and compares its account of the surgeon delivering the news with Blake Neff's account of Mikey McCoy as the conduit to Erika Kirk. The episode closes with viewer comments, a clip of Erika Kirk's \"grift\" slip at AmFest 2025, a Theo Von clip, a merch plug and a riff on Brian Harpole's lawsuit and his phrase \"doing the medical\".",
+    "",
+    "---",
+    "",
+    "## 3. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3372",
+   "header": "**A-3372** Blake Neff Interview Clip on Mikey McCoy Bundle",
+   "label": "Blake Neff Interview Clip on Mikey McCoy Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3372.1",
+   "header": "**A-3372.1** Clip the host plays of Blake Neff describing Mikey McCoy's quivering lip, his call to Erika, his call to his father Rob McCoy and his \"general\" role after the shooting",
+   "label": "Clip the host plays of Blake Neff describing Mikey McCoy's quivering lip, his call to Erika, his call to his father Rob McCoy and his \"general\" role after the shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"What I'll always remember is the way his lip was quivering, which I'd never seen before\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14061, C-14062, C-14063, C-14064, N-159, N-190, N-17, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3373",
+   "header": "**A-3373** Security Vehicle Map Bundle",
+   "label": "Security Vehicle Map Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3373.1",
+   "header": "**A-3373.1** Map of cars at the UVU scene the host shows (Yukon Denali, Jeep Wagoneer, Lincoln Navigator, second Yukon Denali and their drivers)",
+   "label": "Map of cars at the UVU scene the host shows (Yukon Denali, Jeep Wagoneer, Lincoln Navigator, second Yukon Denali and their drivers)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14066, C-14067, C-14068, N-951, N-952, N-492, N-367, N-11321*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3373.2",
+   "header": "**A-3373.2** Map of the security team the host asks her producer to pull up, showing Blake Gibson and Blake Harreff",
+   "label": "Map of the security team the host asks her producer to pull up, showing Blake Gibson and Blake Harreff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14087, N-953, N-896, N-11321*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374",
+   "header": "**A-3374** UVU Federal Vehicle Lineup Footage Bundle",
+   "label": "UVU Federal Vehicle Lineup Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374.1",
+   "header": "**A-3374.1** Slightly enhanced UVU video of Blake Neff returning to the scene with Danny Philip and Nate Walker near the caution tape, with an officer the host thinks may be Chief Jeff Long",
+   "label": "Slightly enhanced UVU video of Blake Neff returning to the scene with Danny Philip and Nate Walker near the caution tape, with an officer the host thinks may be Chief Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14074, C-14075, N-159, N-367, N-504, N-271*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374.2",
+   "header": "**A-3374.2** Map walkthrough of the route from behind the Hall of Flags through the L1 employee lot and admin lot to the roundabout of white vehicles",
+   "label": "Map walkthrough of the route from behind the Hall of Flags through the L1 employee lot and admin lot to the roundabout of white vehicles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14077, C-14078, N-11009, N-11419*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374.3",
+   "header": "**A-3374.3** Labeled slideshow identifying Mikey McCoy, Nate Walker, Blake Gibson, Christopher Rhoades, Danny Philip, Blake Neff and Blake Harreff and the two-vehicle split",
+   "label": "Labeled slideshow identifying Mikey McCoy, Nate Walker, Blake Gibson, Christopher Rhoades, Danny Philip, Blake Neff and Blake Harreff and the two-vehicle split",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14079, C-14080, C-14081, N-190, N-504, N-953, N-951, N-367, N-159, N-896, N-11419*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374.4",
+   "header": "**A-3374.4** UVU videos of the group walking from behind the Hall of Flags across the employee lot to the admissions lot tree line",
+   "label": "UVU videos of the group walking from behind the Hall of Flags across the employee lot to the admissions lot tree line",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14082, N-504, N-190, N-367, N-159, N-951*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374.5",
+   "header": "**A-3374.5** UVU video of the group splitting into two white vehicles that pull away",
+   "label": "UVU video of the group splitting into two white vehicles that pull away",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:16:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14083, N-190, N-159, N-367, N-11419*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3374.6",
+   "header": "**A-3374.6** Still with the two cars circled: Mikey McCoy's car on the left, the security car on the right",
+   "label": "Still with the two cars circled: Mikey McCoy's car on the left, the security car on the right",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14132, C-14133, N-190, N-159, N-367, N-951, N-896, N-953, N-11419*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3375",
+   "header": "**A-3375** Fox 5 Atlanta Timpanogos Arrival Footage Bundle",
+   "label": "Fox 5 Atlanta Timpanogos Arrival Footage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3375.1",
+   "header": "**A-3375.1** Fox 5 Atlanta live pictures from Timpanogos Hospital that the host says show the first group arriving at about 1:10 p.m.",
+   "label": "Fox 5 Atlanta live pictures from Timpanogos Hospital that the host says show the first group arriving at about 1:10 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"There was a shooting today and Charlie Kirk's representatives confirming that he was shot and is being treated at this hospital.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:45"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14084, C-14085, N-1, N-5, N-11218, N-11208*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3376",
+   "header": "**A-3376** Frank Turek \"The War on Reality\" Book Excerpts Bundle",
+   "label": "Frank Turek \"The War on Reality\" Book Excerpts Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3376.1",
+   "header": "**A-3376.1** Excerpt the host reads on the run to the SUV, the phone left on, and the seating of Justin, Dan, Rick and Brian",
+   "label": "Excerpt the host reads on the run to the SUV, the phone left on, and the seating of Justin, Dan, Rick and Brian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Charlie's security team, Justin, Dan, Brian, and Rick, men who loved Charlie, too, are much cooler under pressure than I am.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:20"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14101, C-14102, C-14103, C-14104, C-14105, N-7, N-11420, N-492, N-270, N-487, N-266*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3376.2",
+   "header": "**A-3376.2** Excerpt the host reads on stopping the bleeding, switching to CPR, the empty emergency room and the pulse",
+   "label": "Excerpt the host reads on stopping the bleeding, switching to CPR, the empty emergency room and the pulse",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"All three of us were in the back are are still trying to stop the bleeding. I switch to CPR.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:06"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14106, C-14107, C-14111, C-14112, C-14113, C-14114, N-7, N-11420, N-10737*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3376.3",
+   "header": "**A-3376.3** Excerpt the host reads on Turek embracing Dan Flood, the jurisdiction claim and Dan's text",
+   "label": "Excerpt the host reads on Turek embracing Dan Flood, the jurisdiction claim and Dan's text",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I embrace Dan Flood, the head of Charlie's security, and tell him that this is not his fault. Dan's team only had jurisdiction over Charlie's immediate area.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14117, C-14118, N-7, N-270, N-11420, N-10272*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3376.4",
+   "header": "**A-3376.4** Excerpt the host reads on Mikey McCoy's arrival, the plane for Erika, the call with J.D. Vance and the surgeon announcing the death",
+   "label": "Excerpt the host reads on Mikey McCoy's arrival, the plane for Erika, the call with J.D. Vance and the surgeon announcing the death",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Mikey has already sent a plane to get Erika and is on the phone with the United States Vice President J.D. Vance.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14121, C-14122, C-14123, N-7, N-190, N-2, N-4, N-11420*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3377",
+   "header": "**A-3377** Brian Harpole Shawn Ryan Clip Bundle",
+   "label": "Brian Harpole Shawn Ryan Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3377.1",
+   "header": "**A-3377.1** Clip the host plays of Brian Harpole on the Shawn Ryan show describing the ride: Charlie's leg in the door, doing the medical, Rick holding him, Frank and Rick praying",
+   "label": "Clip the host plays of Brian Harpole on the Shawn Ryan show describing the ride: Charlie's leg in the door, doing the medical, Rick holding him, Frank and Rick praying",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"And so I just I'm just working medical. And uh Frank's praying out loud. Uh Rick's praying out loud.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:32:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14108, C-14109, C-14110, N-266, N-224, N-492, N-487, N-7, N-10681*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3378",
+   "header": "**A-3378** Erika Kirk AmFest 2025 Slip Clip Bundle",
+   "label": "Erika Kirk AmFest 2025 Slip Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3378.1",
+   "header": "**A-3378.1** Clip the host plays of Erika Kirk introducing Caleb Chilcutt at AmFest 2025 and saying \"grift\" before correcting herself",
+   "label": "Clip the host plays of Erika Kirk introducing Caleb Chilcutt at AmFest 2025 and saying \"grift\" before correcting herself",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Caleb has persisted with the same grift, excuse me, gift.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14135, N-2, N-10, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3379",
+   "header": "**A-3379** Viewer Comments Bundle",
+   "label": "Viewer Comments Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3379.1",
+   "header": "**A-3379.1** Viewer comments the host reads from the previous and current episodes (slips by Blake Neff, Erika Kirk and \"Andrew\"; anniversary and support messages)",
+   "label": "Viewer comments the host reads from the previous and current episodes (slips by Blake Neff, Erika Kirk and \"Andrew\"; anniversary and support messages)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14134, N-159, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3380",
+   "header": "**A-3380** Tip Line and Decentralized Intelligence Agency Requests Bundle",
+   "label": "Tip Line and Decentralized Intelligence Agency Requests Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3380.1",
+   "header": "**A-3380.1** Host verbal request for tips identifying the officer who drove the first group into Timpanogos (moretips@candaceowens.com)",
+   "label": "Host verbal request for tips identifying the officer who drove the first group into Timpanogos (moretips@candaceowens.com)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14086, N-11419*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3380.2",
+   "header": "**A-3380.2** Host verbal request for anyone who can connect her with Christopher Rhoades (more tips at candaceowens.com)",
+   "label": "Host verbal request for anyone who can connect her with Christopher Rhoades (more tips at candaceowens.com)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14099, C-14141, N-951*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3380.3",
+   "header": "**A-3380.3** Host verbal request for confirmation of the fire captain who performed CPR at Timpanogos (more tips@candaceowens.com)",
+   "label": "Host verbal request for confirmation of the fire captain who performed CPR at Timpanogos (more tips@candaceowens.com)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:25"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14130, C-14131, N-10874*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3380.4",
+   "header": "**A-3380.4** Host verbal merch plug inviting viewers to join the decentralized intelligence agency and crediting overseas sleuths, including in Latvia",
+   "label": "Host verbal merch plug inviting viewers to join the decentralized intelligence agency and crediting overseas sleuths, including in Latvia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14139, C-14140, N-10886, N-10881*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 4. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Victim; subject of the car-ride, hospital and driver segments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14085, C-14095, C-14102, C-14106, C-14108, C-14135*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow; Mikey McCoy's and the surgeon's calls to her are compared, and her AmFest \"grift\" slip is replayed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14061, C-14064, C-14121, C-14123, C-14124, C-14127, C-14135, C-14138*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14057, C-14058, C-14099, C-14142*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-4",
+   "header": "**N-4** JD Vance",
+   "label": "JD Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turek's book says Mikey McCoy was on the phone with him from the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14121*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Fox 5 anchor in the played clip says he called Charlie instrumental to his reelection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14085*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Author of \"The War on Reality\", whose account of the car ride and hospital the host reads and disputes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14101, C-14102, C-14106, C-14111, C-14117, C-14119, C-14121, C-14128*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10",
+   "header": "**N-10** Caleb Chilcutt",
+   "label": "Caleb Chilcutt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "UVU chapter president Erika Kirk introduced at AmFest 2025 in the replayed clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14135*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mikey McCoy's father, whom Blake Neff says Mikey called after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14062*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-58",
+   "header": "**N-58** Brandon Tatum",
+   "label": "Brandon Tatum",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the show where the host says Turek changed when Dan Flood showed him the text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14119*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-146",
+   "header": "**N-146** Theo Von",
+   "label": "Theo Von",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says her episode with him passed 2 million views."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14137*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Target of the episode's opening; his account of Mikey McCoy and his movements on September 10 are examined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14056, C-14057, C-14059, C-14061, C-14072, C-14074, C-14081, C-14124, C-14134*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Charlie's chief of staff; his statement, his role as \"general\" and his federal escort to the hospital are examined."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14061, C-14064, C-14065, C-14069, C-14071, C-14079, C-14081, C-14121, C-14125*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-224",
+   "header": "**N-224** Shawn Ryan",
+   "label": "Shawn Ryan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host of the show on which Brian Harpole gave the account the host plays (transcribed \"Shawn Ryan\")."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14108*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-277",
+   "header": "**N-277** Tim Dillon",
+   "label": "Tim Dillon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host recommends him alongside Theo Von as someone to watch for a laugh."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14137*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-266",
+   "header": "**N-266** Brian Harpole",
+   "label": "Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Security lead; his account of the ride is contrasted with Turek's book; host says Christopher Rhoades works with him and that he sued her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14097, C-14107, C-14108, C-14116, C-14142*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-270",
+   "header": "**N-270** Dan Flood",
+   "label": "Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Head of Charlie's security per Turek's book; the text he showed Turek is questioned."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14104, C-14117, C-14118, C-14119*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-271",
+   "header": "**N-271** Jeff Long",
+   "label": "Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "UVU police chief the host thinks appears in the footage, and party to the text Dan Flood showed Turek."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14075, C-14119*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-341",
+   "header": "**N-341** Victor Marx",
+   "label": "Victor Marx",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says he had already posted that Charlie was dead before Mikey McCoy's group arrived."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14126*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-367",
+   "header": "**N-367** Danny Philip",
+   "label": "Danny Philip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Assistant who drove Blake Neff; walked to and rode in the first white vehicle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14059, C-14068, C-14072, C-14074, C-14080, C-14081, C-14094*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-487",
+   "header": "**N-487** Rick Cutler",
+   "label": "Rick Cutler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "\"Rick\" in Turek's book and Harpole's account, in the back seat praying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14103, C-14109, C-14110*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-492",
+   "header": "**N-492** Justin Davis",
+   "label": "Justin Davis",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Drove the Lincoln Navigator per the host's map and drove the SUV to the hospital per Turek and Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14068, C-14104, C-14109*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-504",
+   "header": "**N-504** Nate Walker",
+   "label": "Nate Walker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Assistant who walked with the group and rode in the first white vehicle; host says he went to the rooftop with the driver before the shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14074, C-14081, C-14082, C-14092, C-14094*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-594",
+   "header": "**N-594** Druski",
+   "label": "Druski",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says Erika Kirk forgave the killer but not Druski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14138*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-896",
+   "header": "**N-896** Blake Harreff",
+   "label": "Blake Harreff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Security member (transcribed Harris, Harref, Haruff, Haroff) who rode in the second white vehicle and later returned in scrubs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14076, C-14081, C-14087, C-14090*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-951",
+   "header": "**N-951** Christopher Rhoades",
+   "label": "Christopher Rhoades",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "06:55 in episode 163 (as \"Christopher\", Charlie's driver), and identified in full at 00:23:19; the host spells the surname r-h-o-a-d-e-s. Not the same-named member of TPUSA's FRG security team.",
+     "sep": ":"
+    },
+    {
+     "k": "Aliases (transcript)",
+     "v": "Christopher Rhoades; Christopher Rhoades; Chris Rhoades."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14067, C-14076, C-14091, C-14092, C-14095, C-14096, C-14097, C-14098, C-14099, C-14141*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-952",
+   "header": "**N-952** Alex Faria",
+   "label": "Alex Faria",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "06:55 in episode 163 as the driver of the Jeep Wagoneer security vehicle.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14067*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-953",
+   "header": "**N-953** Blake Gibson",
+   "label": "Blake Gibson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "11:07 in episode 163 as a security member who rode in the second white vehicle and later returned in scrubs.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14076, C-14079, C-14081, C-14087, C-14090*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-954",
+   "header": "**N-954** La Fieta Assisi",
+   "label": "La Fieta Assisi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "07:45 in episode 163 as the ICAC officer who took Mikey McCoy's statement; the host says she goes by \"Fia\" and has since left her position. Spelling unconfirmed.",
+     "sep": ":"
+    },
+    {
+     "k": "Aliases (transcript)",
+     "v": "Fia Assisi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14070*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose new FRG security team includes a same-named Christopher Rhoades."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14096*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10198",
+   "header": "**N-10198** Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "label": "Mikey McCoy Behavior Discrepancy (September 10, 2025)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Blake Neff's account of Mikey McCoy's quivering lip and \"general\" role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14061, C-14063*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10338",
+   "header": "**N-10338** Mikey McCoy Post-Shooting Phone Call Sequence",
+   "label": "Mikey McCoy Post-Shooting Phone Call Sequence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Calls to Erika Kirk and Rob McCoy, and the call after the ICAC statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14062, C-14071*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10651",
+   "header": "**N-10651** Brian Harpole Lawsuit Coordination Question",
+   "label": "Brian Harpole Lawsuit Coordination Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host on Harpole suing her instead of answering her text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14142*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10683",
+   "header": "**N-10683** Brian Harpole ER Story Plausibility",
+   "label": "Brian Harpole ER Story Plausibility",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host recalls Harpole found the room and prepared Charlie for the defibrillator."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14116*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10694",
+   "header": "**N-10694** Dan Flood Role and Behavior Assessment",
+   "label": "Dan Flood Role and Behavior Assessment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turek's book on Dan Flood's limited jurisdiction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14117*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10730",
+   "header": "**N-10730** Frank Turek FaceTime Story Inconsistency",
+   "label": "Frank Turek FaceTime Story Inconsistency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Book says Turek's phone stayed live in his pocket with his son and daughter-in-law listening."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14102*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10821",
+   "header": "**N-10821** Christopher Pre-Shot Location Anomaly",
+   "label": "Christopher Pre-Shot Location Anomaly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says the driver went to the rooftop with Nate Walker just before the shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14092*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10840",
+   "header": "**N-10840** UVU Ambulance Denial Discrepancy",
+   "label": "UVU Ambulance Denial Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Book's ambulance heading away from the hospital mid-route."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14105*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11233",
+   "header": "**N-11233** Mikey McCoy Identity and Family Ties Inquiry",
+   "label": "Mikey McCoy Identity and Family Ties Inquiry",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Mikey McCoy's age and 2023 promotion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14065*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11356",
+   "header": "**N-11356** Druski Skit Mocking Erika Kirk Controversy",
+   "label": "Druski Skit Mocking Erika Kirk Controversy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says Erika Kirk cannot forgive Druski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14138*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10272",
+   "header": "**N-10272** Harpole–Flood Text Attribution Discrepancy",
+   "label": "Harpole–Flood Text Attribution Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Turek's shifting account of when Dan Flood showed him the Chief Long text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14118, C-14119, C-14120*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10537",
+   "header": "**N-10537** Charlie Kirk Necklace / Magnet Clasp Examination",
+   "label": "Charlie Kirk Necklace / Magnet Clasp Examination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says she received a different tip about the necklace."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14128, C-14129*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10681",
+   "header": "**N-10681** Shawn Ryan Show Interview Clip Bundle",
+   "label": "Shawn Ryan Show Interview Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Harpole's Shawn Ryan account replayed here."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14108*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10715",
+   "header": "**N-10715** Blake Neff September 10th Movement Discrepancy",
+   "label": "Blake Neff September 10th Movement Discrepancy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's questions about where Blake Neff and Danny Philip went before returning near 1:00 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14059, C-14060, C-14072*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10737",
+   "header": "**N-10737** CPR Narrative Contradiction (Turek / Harpole)",
+   "label": "CPR Narrative Contradiction (Turek / Harpole)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Book's \"all three of us\" bleeding-control and CPR lines vs Harpole's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14106, C-14107, C-14111*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10765",
+   "header": "**N-10765** Timpanogos Hospital Evacuation Tip",
+   "label": "Timpanogos Hospital Evacuation Tip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host says it has been alleged the hospital was cleared a couple of hours before."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14112, C-14115*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10839",
+   "header": "**N-10839** Independent Review of UVU Security Failures",
+   "label": "Independent Review of UVU Security Failures",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Review the host says revealed a fire captain doing CPR."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14114*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10874",
+   "header": "**N-10874** UVU Independent Review Unnamed Fire Captain CPR Redaction",
+   "label": "UVU Independent Review Unnamed Fire Captain CPR Redaction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's search for the fire captain; down to two possibilities."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14114, C-14130, C-14131*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10881",
+   "header": "**N-10881** Elephant Clipping Campaign",
+   "label": "Elephant Clipping Campaign",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's jab at Blake Neff's rant and at Turek's book title."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14139*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10886",
+   "header": "**N-10886** Latvia",
+   "label": "Latvia",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host credits Latvian sleuths for information on \"the Latvian nerd\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14139*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11009",
+   "header": "**N-11009** Hall of Flags Activity Question",
+   "label": "Hall of Flags Activity Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "The group walk began from the employee lot behind the Hall of Flags."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14077*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11208",
+   "header": "**N-11208** Timpanogos Hospital Group Arrival Question",
+   "label": "Timpanogos Hospital Group Arrival Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Fox 5 footage of the first group arriving about 1",
+     "v": "10 p.m.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14084, C-14085, C-14088*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11218",
+   "header": "**N-11218** Timpanogos Regional Hospital",
+   "label": "Timpanogos Regional Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Destination of the first white vehicle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14084, C-14112*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11263",
+   "header": "**N-11263** Utah Internet Crimes Against Children Task Force",
+   "label": "Utah Internet Crimes Against Children Task Force",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Unit of the officer who the host says took Mikey McCoy's statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14069, C-14070*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11310",
+   "header": "**N-11310** Security Team Timpanogos Scrubs Question",
+   "label": "Security Team Timpanogos Scrubs Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Why Harreff and Gibson returned in scrubs and the driver did not."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14090, C-14091, C-14093*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11321",
+   "header": "**N-11321** Kirk Security Team Name Identification",
+   "label": "Kirk Security Team Name Identification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Identification of Charlie's driver and the security members in the footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14067, C-14076, C-14095*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11419",
+   "header": "**N-11419** Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)",
+   "label": "Federal White-Vehicle Escort of TPUSA Staff to Timpanogos (September 10)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's account that, just before 1:00 p.m. on September 10, Mikey McCoy, Blake Neff, Danny Philip and Nate Walker, and separately security members Blake Harreff, Blake Gibson and driver Christopher Rhoades, were walked to a lineup of unmarked white vehicles near the UVU roundabout and driven off by what she describes as federal officers; the first car is seen arriving at Timpanogos about 1:10 p.m., and the destination of the second is unknown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14073, C-14078, C-14081, C-14083, C-14084, C-14086, C-14087, C-14088, C-14089, C-14132, C-14133, A-3374.2*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11420",
+   "header": "**N-11420** Frank Turek \"The War on Reality\" Book Account",
+   "label": "Frank Turek \"The War on Reality\" Book Account",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Frank Turek's book, which the host says was published on September 8, 2026, and whose account of the car ride, CPR, Dan Flood's jurisdiction and the surgeon's announcement she compares with Brian Harpole's and Blake Neff's accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14101, C-14102, C-14106, C-14111, C-14117, C-14121, A-3376.1*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11421",
+   "header": "**N-11421** FRG Security",
+   "label": "FRG Security",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "raw": "Security firm the host describes as Turning Point USA's new security team, which employs a different man named Christopher Rhoades."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-14096*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 5. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14056",
+   "header": "**C-14056** Host Says Blake Neff's Rant Insisted She Hates White Women",
+   "label": "Host Says Blake Neff's Rant Insisted She Hates White Women",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the craziest part of Blake Neff's rant the day before was his insistence that she hates white women."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the craziest part of his little rant yesterday was the random insistence that I hate white women."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Recording of the Blake Neff X space from the day before the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14057",
+   "header": "**C-14057** Host Says Neff Called Her Wretched, Nasty and Illiterate",
+   "label": "Host Says Neff Called Her Wretched, Nasty and Illiterate",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:01:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff called her wretched, nasty and absolutely awful in an X space, claimed she dislikes other pretty women, and afterwards called her illiterate on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said I was wretched, nasty, absolutely awful. Claimed that I dislike other pretty women. He also called me illiterate thereafter on X."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The X space recording and Blake Neff's subsequent X posts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14058",
+   "header": "**C-14058** Host Says She Is 9 Months Pregnant",
+   "label": "Host Says She Is 9 Months Pregnant",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is 9 months pregnant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I'm 9 months pregnant and still the attacks are unceasing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Host's later birth announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14059",
+   "header": "**C-14059** Host Questions Why Danny Philip Drove Neff Like an Uber With Neff in the Back Seat",
+   "label": "Host Questions Why Danny Philip Drove Neff Like an Uber With Neff in the Back Seat",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff cannot remember what he was doing in Salt Lake City and asks why Danny Philip was driving Neff \"like he was in an Uber ride\", with Neff in the back seat."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "why was Danny Philip driving Blake like he was in an Uber ride? Blake in the backseat, that doesn't make sense."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12665"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rental records for the second Denali and Neff's own account of his travel that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14060",
+   "header": "**C-14060** Host Asks Why Neff and Philip Did Not Drive Straight to the Hospital",
+   "label": "Host Asks Why Neff and Philip Did Not Drive Straight to the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she cannot make sense of why Blake Neff and Danny Philip did not immediately drive themselves to the hospital after Charlie was hit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "one thing that I cannot make sense of is why Blake Neff and Danny Philip didn't just immediately book it to the hospital, to drive themselves over to the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-367, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU footage and phone location data for Neff and Philip between the shot and about 1:00 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14061",
+   "header": "**C-14061** In Neff's Clip, Mikey McCoy's Lip Quivered and He Called Erika Within a Minute",
+   "label": "In Neff's Clip, Mikey McCoy's Lip Quivered and He Called Erika Within a Minute",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Blake Neff says he will always remember Mikey McCoy's lip quivering, and that Mikey said he needed to call Erika and began calling her within a minute of the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "What I'll always remember is the way his lip was quivering, which I'd never seen before, and you you very rarely see from someone that's he was freaking out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3372.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-190, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10198"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12691"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Mikey McCoy's call log for September 10 (time of first call to Erika Kirk)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14062",
+   "header": "**C-14062** In Neff's Clip, Mikey McCoy Called His Father Rob McCoy to Rally Pastors",
+   "label": "In Neff's Clip, Mikey McCoy Called His Father Rob McCoy to Rally Pastors",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Blake Neff says he called his own mother, and that Mikey McCoy then called his father, Rob McCoy, saying Charlie had been shot and asking him to call all his pastor friends to pray."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And around the time I I put that phone away and then he immediately calls his dad. He calls Rob McCoy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3372.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-190, N-17, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10338"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Mikey McCoy's and Rob McCoy's call records for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14063",
+   "header": "**C-14063** In Neff's Clip, Mikey Became \"Like a General\" Directing People to the Hospital",
+   "label": "In Neff's Clip, Mikey Became \"Like a General\" Directing People to the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Blake Neff says that after the call Mikey McCoy took \"total mastery of himself\" and acted \"like a general directing a battle\", telling people they needed to get to the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was like a general directing a battle where he was, you know, grabbing people and saying, \"Okay, we need to get to the hospital"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3372.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10198"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU scene footage of Mikey McCoy after the shooting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14064",
+   "header": "**C-14064** In Neff's Clip, Mikey Said Erika Would Hear the News Only From Him",
+   "label": "In Neff's Clip, Mikey Said Erika Would Hear the News Only From Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Blake Neff says that when they learned Charlie was dead, Mikey McCoy told them none of them could say anything because Erika would hear about it from no one except him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "\"Now, none of you can say anything that you've heard because it is Erika's not going to hear about this from anyone except me.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3372.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-190, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Erika Kirk's call log showing who told her of the death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14065",
+   "header": "**C-14065** Host Says Mikey McCoy Is in His Early 20s and Became Chief of Staff in 2023",
+   "label": "Host Says Mikey McCoy Is in His Early 20s and Became Chief of Staff in 2023",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mikey McCoy is in his early 20s, that she thinks he was going to go to Liberty University before becoming Charlie's chief of staff, and that he was promoted in 2023."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh started working for Charlie as the chief of staff. Well, he was promoted in 2023."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11233"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA staff announcements and Mikey McCoy's public bio."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14066",
+   "header": "**C-14066** Host Says the Team Had Three More Black Rental SUVs Available",
+   "label": "Host Says the Team Had Three More Black Rental SUVs Available",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says getting to the hospital should have been easy because the team had three additional black rental SUVs in their possession."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because they had three additional black SUV rentals in their possession."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3373.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rental agreements for the TPUSA vehicles at UVU on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14067",
+   "header": "**C-14067** Host Says Christopher Drove the Departed Denali and Alex Faria the Jeep Wagoneer",
+   "label": "Host Says Christopher Drove the Departed Denali and Alex Faria the Jeep Wagoneer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the map of cars the host shows, the Yukon Denali that left was driven by Christopher, and a Jeep Wagoneer security vehicle remained, driven by Alex Faria."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now we know that that Yukon Denali is gone, which was being driven by Christopher, but we have a Jeep Wagoneer, which was a security vehicle that was being driven by Alex Faria"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3373.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951, N-952"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11321"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rental and driver assignment records for the security vehicles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14068",
+   "header": "**C-14068** Host Says Justin Davis Drove the Navigator and Danny Philip the Second Denali",
+   "label": "Host Says Justin Davis Drove the Navigator and Danny Philip the Second Denali",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the host's map, the Lincoln Navigator was driven by Justin Davis and another Yukon Denali by Danny Philip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've got the Lincoln Navigator, which was being driven by Justin Davis. You've got another Yukon Denali back there that was driven by Danny Philip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3373.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-492, N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11321"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rental and driver assignment records for the TPUSA vehicles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14069",
+   "header": "**C-14069** Host Says Mikey McCoy Gave a Statement to a Woman From ICAC",
+   "label": "Host Says Mikey McCoy Gave a Statement to a Woman From ICAC",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mikey McCoy did not immediately go to the hospital but gave an interview or statement to a woman from ICAC (Internet Crimes Against Children)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He actually gave an interview, a statement of sorts to a woman from ICAC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11263"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13115"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Utah ICAC Task Force records and the statement itself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14070",
+   "header": "**C-14070** Host Names the ICAC Officer and Says She Has Left Her Position",
+   "label": "Host Names the ICAC Officer and Says She Has Left Her Position",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the officer who took Mikey McCoy's statement has since left her position, and names her as La Fieta Assisi, who goes by Fia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "By the way, I can tell you this that woman, that officer, has since left her position, by the way. Her name is Fia Assisi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-954, N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11263"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Utah ICAC Task Force personnel roster and separation records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14071",
+   "header": "**C-14071** Host Says Mikey Got Into an SUV After the Interview, Presumably to Make a Call",
+   "label": "Host Says Mikey Got Into an SUV After the Interview, Presumably to Make a Call",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after the interview Mikey McCoy got into an SUV, presumably to make a phone call somewhere quiet, and that when he re-emerged it was time to go to the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "after that interview with her, what Mikey does is he dips into an SUV, presumably to make a phone call someplace quiet."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10338"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Mikey McCoy's call log for the period after the ICAC statement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14072",
+   "header": "**C-14072** Host Says Neff and Philip Reappeared at the Scene Just Before 1:00 p.m.",
+   "label": "Host Says Neff and Philip Reappeared at the Scene Just Before 1:00 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff and Danny Philip reappeared at the scene just before 1:00 p.m. local time, and asks where they had been."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blake and Danny Philip reappear upon the scene just before 1:00 p.m. local time, by the way."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Time-stamped UVU footage of Neff and Philip between the shot and 1:00 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14073",
+   "header": "**C-14073** Host Says the Group Was Escorted by Apparent Federal Officers Into Different Vehicles",
+   "label": "Host Says the Group Was Escorted by Apparent Federal Officers Into Different Vehicles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after re-emerging the group was escorted by what appear to be federal officers into completely different vehicles, which she likens to an Uber driven by a fed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they are escorted by what appears to be federal officers into completely different vehicles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identity of the agencies and drivers of the white vehicles at UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14074",
+   "header": "**C-14074** Footage Shows Neff Returning to the Scene With Danny Philip and Nate Walker",
+   "label": "Footage Shows Neff Returning to the Scene With Danny Philip and Nate Walker",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the slightly enhanced footage she plays shows Blake Neff returning to the scene with Danny Philip and Nate Walker, near the caution tape."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Uh here is Blake at first returning to the scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-367, N-504"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Original unenhanced UVU footage and its time code."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14075",
+   "header": "**C-14075** Host Says the Officer With Them Might Be Chief Jeff Long",
+   "label": "Host Says the Officer With Them Might Be Chief Jeff Long",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the officer with Neff, Nate Walker and Danny Philip in the footage looks like it might be Chief Jeff Long."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And that actually looks like that might be Jeff Long. Chief Jeff Long that's there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-271, N-159, N-504, N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU police records of Chief Long's location near 1:00 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14076",
+   "header": "**C-14076** Host Says Neff, Philip, Walker, Harreff, Gibson and the Driver Walked Toward the Back Lot",
+   "label": "Host Says Neff, Philip, Walker, Harreff, Gibson and the Driver Walked Toward the Back Lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff, Danny Philip and Nate Walker, with security members Blake Harreff and Blake Gibson and Charlie's driver Christopher Rhoades, began a group walk toward the back parking lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we find our characters Blake Neff, Danny Philip, and Nate Walker and security members Blake Harreff, Blake Gibson, and Charlie's driver, who we have identified as Christopher Rhoades"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-367, N-504, N-896, N-953, N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11321"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU footage of the employee lot near 1:00 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14077",
+   "header": "**C-14077** Host Says the Walk Began From an Employee Lot Behind the Hall of Flags",
+   "label": "Host Says the Walk Began From an Employee Lot Behind the Hall of Flags",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the group walked from an employee parking lot just behind the Hall of Flags, through the admin lot, toward what she calls a federal car lineup."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's a um employee parking lot that's just behind the Hall of Flags."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11009, N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "UVU campus map and lot camera footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14078",
+   "header": "**C-14078** Host Says Unmarked White Vehicles Are a Federal Officer Practice",
+   "label": "Host Says Unmarked White Vehicles Are a Federal Officer Practice",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host calls it a federal car lineup because all the vehicles are white, saying she has learned that federal officers drive unmarked white vehicles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they're all the vehicles are white. And this I have learned is a federal officer thing. They drive these unmarked white vehicles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Registration of the white vehicles parked at the UVU roundabout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14079",
+   "header": "**C-14079** Slideshow Identifies Mikey McCoy, Nate Walker, Blake Gibson and Chris Rhoades",
+   "label": "Slideshow Identifies Mikey McCoy, Nate Walker, Blake Gibson and Chris Rhoades",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the labeled slideshow the host shows, Mikey McCoy is in the frame with Nate Walker walking toward him and Blake Gibson, with Chris Rhoades, Charlie's driver, just behind."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So, here what you have here is there's Mikey McCoy, you have Nate walking toward him, and you also have Blake Gibson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-504, N-953, N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Original footage frames behind the slideshow labels."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14080",
+   "header": "**C-14080** Host Says Danny Philip Is Identifiable by His Backpack",
+   "label": "Host Says Danny Philip Is Identifiable by His Backpack",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Danny Philip is easily identified in the footage by his backpack."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That is Danny, very easily identified because of his his backpack."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12588"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with earlier UVU footage of Danny Philip's backpack."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14081",
+   "header": "**C-14081** Host Says the Group Split Into Two White Vehicles Driven by Officers",
+   "label": "Host Says the Group Split Into Two White Vehicles Driven by Officers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the group divided into two white vehicles: the first with Mikey McCoy, an officer, Blake Neff, Nate Walker and Danny Philip; the second with security members Blake Gibson, Blake Harreff and Christopher Rhoades, also driven by an officer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Vehicle one, you've got Mikey an officer Blake Neff, Nate Walker, and Danny Philip. And in vehicle two, you have the security team."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-159, N-504, N-367, N-953, N-896, N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identity of the officers driving each white vehicle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14082",
+   "header": "**C-14082** Footage Shows Nate Walker Run Up to Mikey, Who Puts an Arm Around Him",
+   "label": "Footage Shows Nate Walker Run Up to Mikey, Who Puts an Arm Around Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the second video shows Nate Walker run up to Mikey McCoy, who puts his arm around him, with Danny Philip, Blake Neff and Chris at the tail end."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You're going to see Nate run up to Mikey. Mikey puts his arm around him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-504, N-190, N-367, N-159, N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Original UVU employee-lot footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14083",
+   "header": "**C-14083** Footage Shows Mikey, Neff and Philip Getting Into a White Vehicle With a Federal Officer",
+   "label": "Footage Shows Mikey, Neff and Philip Getting Into a White Vehicle With a Federal Officer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the next video shows Mikey McCoy, Blake Neff and Danny Philip splitting to the left with the federal officer, and the others getting into a second white vehicle on the right."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "splitting to the left are Mikey and Blake Neff and Danny Philip with the federal officer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.5"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-159, N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Roundabout camera footage and vehicle plates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14084",
+   "header": "**C-14084** Host Says Local News Caught the First Group Arriving at Timpanogos About 1:10 p.m.",
+   "label": "Host Says Local News Caught the First Group Arriving at Timpanogos About 1:10 p.m.",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the first car went straight to Timpanogos Hospital, confirmed by local news footage of the same people arriving at about 1:10 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we can confirm that they went straight to Timpanogos Hospital because the local news caught them arriving and that's exactly who arrives and about 1:10 ish p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3375.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-159, N-504, N-367"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11218, N-11208, N-11419"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12686"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Fox 5 Atlanta raw feed time code."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14085",
+   "header": "**C-14085** Fox 5 Clip Says Kirk's Representatives Confirmed He Was Shot and Treated at the Hospital",
+   "label": "Fox 5 Clip Says Kirk's Representatives Confirmed He Was Shot and Treated at the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the Fox 5 Atlanta clip the host plays, the anchor says Charlie Kirk's representatives confirmed he was shot and was being treated at that hospital, and that President Trump called him instrumental in his reelection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie Kirk's representatives confirming that he was shot and is being treated at this hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3375.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11208"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Fox 5 Atlanta broadcast archive for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14086",
+   "header": "**C-14086** Host Asks for Tips Identifying the Officer Who Drove the Group to Timpanogos",
+   "label": "Host Asks for Tips Identifying the Officer Who Drove the Group to Timpanogos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks anyone who can identify the police officer who drove the group and walked them into Timpanogos to email moretips@candaceowens.com, saying she wants to identify every person in the story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if anybody recognizes or and can ID that police officer that's walking them into Timpanogos who drove them, um please email us at moretips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tip responses; agency assignment records for Timpanogos on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14087",
+   "header": "**C-14087** Host Asks Where the Second Car With the Security Members Went",
+   "label": "Host Asks Where the Second Car With the Security Members Went",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks where the second group went, saying security members Blake Gibson, Blake Harreff and Christopher Rhoades got into the separate white vehicle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've got missing security people that got into the separate white vehicle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3373.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-953, N-896, N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Security members' own accounts and phone location data after 1:00 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14088",
+   "header": "**C-14088** Host Says the Security Members Are Not Seen Arriving at the Hospital",
+   "label": "Host Says the Security Members Are Not Seen Arriving at the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the security members do not appear arriving at the hospital with Blake Neff, so she assumes they did not simply follow to provide security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And we don't see them arriving at the hospital with Blake, so we can safely assume that they didn't just follow them"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11208, N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos entrance footage after 1:10 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14089",
+   "header": "**C-14089** Host Says the Security Members' Rental Cars Were Left at UVU",
+   "label": "Host Says the Security Members' Rental Cars Were Left at UVU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the security members' rental cars were left behind at the UVU scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Especially since their rental cars are left behind at the UVU scene."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rental return records and UVU impound or evidence logs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14090",
+   "header": "**C-14090** Host Says Harreff and Gibson Returned Wearing Scrubs That Evening",
+   "label": "Host Says Harreff and Gibson Returned Wearing Scrubs That Evening",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Harreff and Blake Gibson came back wearing scrubs that evening."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Remember Blake Harreff um and Blake Gibson are going to come back wearing scrubs that evening."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-896, N-953"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11310"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12881"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Evening UVU footage and Timpanogos scrubs issue records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14091",
+   "header": "**C-14091** Host Says Christopher Rhoades Did Not Change Into Scrubs",
+   "label": "Host Says Christopher Rhoades Did Not Change Into Scrubs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie's driver Christopher Rhoades was not wearing scrubs, and asks why not if the three were together."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But Christopher Rhoades, Charlie's driver, will not be wearing scrubs."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11310"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Evening UVU footage of Christopher Rhoades."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14092",
+   "header": "**C-14092** Host Says Rhoades Went to the Rooftop With Nate Walker Just Before the Shot",
+   "label": "Host Says Rhoades Went to the Rooftop With Nate Walker Just Before the Shot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Christopher Rhoades is the one who went up to the rooftop with Nate Walker just before the shot, leaving his car, she presumes, wide open."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Christopher Rhoades, as we know, is the one who mysteriously went up to the rooftop with Nate Walker just before the shot um rang out"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951, N-504"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10821"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12672"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Sorensen building rooftop access logs and footage before 12:23 p.m."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14093",
+   "header": "**C-14093** Host Wonders Whether the Scrubs Came From Federal Officers Rather Than Hospital Staff",
+   "label": "Host Wonders Whether the Scrubs Came From Federal Officers Rather Than Hospital Staff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is starting to wonder whether the scrubs were really given by hospital staff, or whether purchasable scrubs were handed out by federal officers, and whether the security members gave statements at a federal office."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "were the hospital scrubs actually even given to them by the hospital staff?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11310, N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos supply records for scrubs issued on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14094",
+   "header": "**C-14094** Host Says Nate Walker Had Just Started and Danny Philip Started in May",
+   "label": "Host Says Nate Walker Had Just Started and Danny Philip Started in May",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Nate Walker had just started working and Danny Philip had just started working in May, and asks why such junior assistants received a personal federal escort."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Danny Philip just started working in May."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-504, N-367, N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA employment start dates for Walker and Philip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14095",
+   "header": "**C-14095** Host Says Her Team Identified Charlie's Driver as Christopher Rhoades",
+   "label": "Host Says Her Team Identified Charlie's Driver as Christopher Rhoades",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team made a positive identification of Charlie's driver as Christopher Rhoades, spelled r-h-o-a-d-e-s."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we did make a positive ID on Charlie's driver, Christopher Rhoades, spelled with an A, r h o a d e s."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11321"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rental agreements and security-contractor rosters for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14096",
+   "header": "**C-14096** Host Says a Different Christopher Rhoades Works for TPUSA's New FRG Security Team",
+   "label": "Host Says a Different Christopher Rhoades Works for TPUSA's New FRG Security Team",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another security member with the same name works for Turning Point USA's new security team, FRG security, and is not the driver."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there is another security member by the exact same name that works for the new security team at Turning Point USA, FRG security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11421"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FRG security staff listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14097",
+   "header": "**C-14097** Host Says Rhoades Appears to Be From Texas and Works With Brian Harpole",
+   "label": "Host Says Rhoades Appears to Be From Texas and Works With Brian Harpole",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that from what her team gathers, Christopher Rhoades appears to be from Texas and is working with Brian Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he appears to be from Texas and he is working with Brian Harpole."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11321"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Texas private-security licensing records and Harpole's company rosters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14098",
+   "header": "**C-14098** Host Says Rhoades Was the Hardest Person the Show Has Tried to Identify",
+   "label": "Host Says Rhoades Was the Hardest Person the Show Has Tried to Identify",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the driver was the first person the show has ever had so much difficulty identifying, and that she knows he is involved in private security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that was the very first person that we've ever tried to to identify on the show with so much difficulty."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11321"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Public records searches for Christopher Rhoades in private security."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14099",
+   "header": "**C-14099** Host Asks for Tips Connecting Her With Christopher Rhoades",
+   "label": "Host Asks for Tips Connecting Her With Christopher Rhoades",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks anyone who can connect her with Christopher Rhoades to reach out via more tips at candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "If you can establish some connection between me and him, please reach out. I'd love to get answers as we continue to investigate this. More tips at candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tip responses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14100",
+   "header": "**C-14100** Host Says She Can Verify the Group Was Not Rushing to the Hospital",
+   "label": "Host Says She Can Verify the Group Was Not Rushing to the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Addressing Blake Neff, the host says it was made to sound as if they were rushing to the hospital, and that she can verify that was not the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it it sounded like you guys were rushing to the hospital, and I don't think that really was the circumstance. Actually, I I can verify it wasn't the circumstance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10715, N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timeline from the shot to the 1:10 p.m. hospital arrival."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14101",
+   "header": "**C-14101** Host Says Frank Turek Published \"The War on Reality\" on September 8, 2026",
+   "label": "Host Says Frank Turek Published \"The War on Reality\" on September 8, 2026",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that exactly one month earlier, on September 8, 2026, Frank Turek published a book titled \"The War on Reality\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "exactly 1 month ago on September 8th, 2026, Frank Turek published a book appropriately entitled The War on Reality."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Publisher listing and publication date of the book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14102",
+   "header": "**C-14102** Turek's Book Says His Son and Daughter-in-Law Heard Everything Live on His Phone",
+   "label": "Turek's Book Says His Son and Daughter-in-Law Heard Everything Live on His Phone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt the host reads, Turek ran with the security team to the SUV, and his son and daughter-in-law heard everything live because he shoved his phone into his back pocket without hanging up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Meanwhile, my son and daughter-in-law are hearing all of this live as I instinctively shove my phone into my back pocket without hanging up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420, N-10730"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Turek's call records for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14103",
+   "header": "**C-14103** Turek's Book Names Charlie's Security in the SUV as Justin, Dan, Brian and Rick",
+   "label": "Turek's Book Names Charlie's Security in the SUV as Justin, Dan, Brian and Rick",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, Charlie's security team in the SUV was Justin, Dan, Brian and Rick."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie's security team, Justin, Dan, Brian, and Rick, men who loved Charlie, too, are much cooler under pressure than I am."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-266, N-487"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with Harpole's and the independent review's lists of SUV occupants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14104",
+   "header": "**C-14104** Turek's Book Puts Justin Driving and Dan in the Passenger Seat With Directions",
+   "label": "Turek's Book Puts Justin Driving and Dan in the Passenger Seat With Directions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, Justin drove, Dan sat in the passenger seat holding his phone with directions, Rick had Charlie's head in his lap, and Brian was at Charlie's feet, which hung out the open back right door."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Justin is driving, Dan is in the passenger seat holding his phone with directions to the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-487, N-266, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Footage of the SUV departure and arrival at Timpanogos."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14105",
+   "header": "**C-14105** Turek's Book Says an Ambulance Passed Them Heading Away From the Hospital",
+   "label": "Turek's Book Says an Ambulance Passed Them Heading Away From the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, about halfway to the hospital an ambulance came toward them from the opposite direction, and they briefly debated stopping before pressing on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "When we get about halfway there, an ambulance is barreling toward us in the opposite direction from the hospital. We debate stopping for half a second, but think better of it and press on."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420, N-10840"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Orem/Provo EMS dispatch logs for ambulances en route to UVU."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14106",
+   "header": "**C-14106** Turek's Book Says All Three in the Back Tried to Stop the Bleeding",
+   "label": "Turek's Book Says All Three in the Back Tried to Stop the Bleeding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, all three men in the back of the SUV were trying to stop the bleeding; the host says Turek has never before claimed he did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All three of us in the back are trying to stop the bleeding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420, N-10737"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Turek's earlier interviews on the ride; Harpole's accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14107",
+   "header": "**C-14107** Host Says the Book Contradicts Harpole's Account That Only He Worked on the Wound",
+   "label": "Host Says the Book Contradicts Harpole's Account That Only He Worked on the Wound",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the book is in stark contrast to Brian Harpole's account, in which only Harpole packed the wound and there was no CPR, and says someone is lying."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this is actually, I would say, in stark contrast to Brian Harpole's account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10737"
+    },
+    {
+     "k": "Supports",
+     "v": "C-10672"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Side-by-side of Harpole's Shawn Ryan account and the book text."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14108",
+   "header": "**C-14108** In Harpole's Clip, Charlie's Leg Kept the Door From Closing as He Did the Medical",
+   "label": "In Harpole's Clip, Charlie's Leg Kept the Door From Closing as He Did the Medical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays from the Shawn Ryan show, Brian Harpole says Charlie's left leg was down in the door so it would not close, and he was on his knees with the door open \"doing the medical\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie's so tall that his leg his left leg is down in the door and the door won't close."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3377.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-224, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10681"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Shawn Ryan Show full interview."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14109",
+   "header": "**C-14109** In Harpole's Clip, Justin Drove 60 to 100 and Rick Held Him",
+   "label": "In Harpole's Clip, Justin Drove 60 to 100 and Rick Held Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Brian Harpole says Justin was driving at 60, 80, 100 and Rick held him across the kit and his shirt so he could use both hands."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And Justin's driving, you know, we're going 60 80 100. And Rick has me across the kit and my shirt so that I can use both hands to do the medical."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3377.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-487"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10681"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Traffic camera or vehicle telematics for the route to Timpanogos."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14110",
+   "header": "**C-14110** In Harpole's Clip, Frank and Rick Were Praying While He Worked",
+   "label": "In Harpole's Clip, Frank and Rick Were Praying While He Worked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Brian Harpole says he was working on the medical while Frank and Rick prayed out loud; the host asks when Turek tried to stop the bleeding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And so I just I'm just working medical. And uh Frank's praying out loud. Uh Rick's praying out loud."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3377.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-7, N-487"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10737"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Rick Cutler's own account of the ride."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14111",
+   "header": "**C-14111** Turek's Book Says He Switched to CPR",
+   "label": "Turek's Book Says He Switched to CPR",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, after all three tried to stop the bleeding Turek switched to CPR; the host says Harpole would have to have blacked out to miss this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All three of us were in the back are are still trying to stop the bleeding. I switch to CPR."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420, N-10737"
+    },
+    {
+     "k": "Supports",
+     "v": "C-12858"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos intake notes on CPR in progress at arrival."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14112",
+   "header": "**C-14112** Turek's Book Describes an Apparently Empty Emergency Room",
+   "label": "Turek's Book Describes an Apparently Empty Emergency Room",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, they burst into what felt like an empty emergency room and for an agonizing minute no one seemed ready."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We burst into the hospital yelling for help into what felt like an empty emergency room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11218, N-10765"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos ER census and staffing for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14113",
+   "header": "**C-14113** Turek's Book Says the Medical Team Got a Pulse and Rushed Him to an OR",
+   "label": "Turek's Book Says the Medical Team Got a Pulse and Rushed Him to an OR",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, within a couple of minutes a medical team got a pulse and rushed Charlie to an operating room; the host says she had learned it was Harpole who found the room and prepared him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They get a pulse, a flicker of hope. They rush him to an operating room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos medical record of return of pulse."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14114",
+   "header": "**C-14114** Host Says the Book Omits the Fire Captain Who Did CPR Per the Independent Review",
+   "label": "Host Says the Book Omits the Fire Captain Who Did CPR Per the Independent Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the published book makes no mention of a fire captain doing CPR, which the independent review revealed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You had no recall or mention of a fire captain doing CPR, which was revealed by the independent review."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10874, N-10839"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13853"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Independent review's fire-captain passage and the fire department's run report."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14115",
+   "header": "**C-14115** Host Says It Is Alleged Timpanogos Was Cleared Out Hours Before",
+   "label": "Host Says It Is Alleged Timpanogos Was Cleared Out Hours Before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes Turek that the hospital was empty, and says it has been alleged that people were moved out a couple of hours before for reasons not yet clear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's been alleged that they moved everybody out a couple of hours before for reasons that are not yet clear."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10765, N-11218"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos patient-transfer and diversion records for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14116",
+   "header": "**C-14116** Host Recalls Harpole Found the Room, Cut the Shirt and Readied the Defibrillator",
+   "label": "Host Recalls Harpole Found the Room, Cut the Shirt and Readied the Defibrillator",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she remembers learning that it was Brian Harpole who found the room, cut the shirt and got Charlie ready for the defibrillator, then escorted himself out."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I remember learning that that was actually what Brian did. That Brian found the room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10683"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13856"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Timpanogos staff accounts of who moved Charlie to the trauma room."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14117",
+   "header": "**C-14117** Turek's Book Says Dan Flood's Team Only Had Jurisdiction Over Charlie's Immediate Area",
+   "label": "Turek's Book Says Dan Flood's Team Only Had Jurisdiction Over Charlie's Immediate Area",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, Turek embraced Dan Flood (misspelled \"Don\" in the book, the host says) and told him it was not his fault because his team only had jurisdiction over Charlie's immediate area; the host calls this \"a printed lie\"."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I embrace Dan Flood, the head of Charlie's security, and tell him that this is not his fault. Dan's team only had jurisdiction over Charlie's immediate area."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420, N-10694"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "TPUSA–UVU security agreement and the independent review on responsibility for rooftops."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14118",
+   "header": "**C-14118** Turek's Book Says Local Police Were to Secure Rooftops and Dan Later Showed Him a Text",
+   "label": "Turek's Book Says Local Police Were to Secure Rooftops and Dan Later Showed Him a Text",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, local and university police were supposed to secure the larger areas including the rooftops, and Dan later showed Turek a text confirming it; the host repeats that this is a printed lie."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The local and university police were supposed to have secured the larger areas, including the rooftops. That is a printed lie. Dan later showed me a text confirming exactly that."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10272"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Full Flood–Long text thread from September 8–10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14119",
+   "header": "**C-14119** Host Says Turek Told Tatum Dan Showed Him the Text at the Hospital, Then a Couple of Days Later",
+   "label": "Host Says Turek Told Tatum Dan Showed Him the Text at the Hospital, Then a Couple of Days Later",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on Brandon Tatum's show Turek first said Dan Flood showed him the text between Flood and Chief Long in the hospital, then said it was a couple of days later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He said, \"Yeah, in the hospital Dan showed me the text between him and um Chief Long.\" And then he said, \"He actually showed it to me a couple of days later.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-270, N-271, N-58"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10272"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Full Brandon Tatum interview with Turek."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14120",
+   "header": "**C-14120** Host Says No One at the Hospital Could Yet Have Known the Shot Came From a Rooftop",
+   "label": "Host Says No One at the Hospital Could Yet Have Known the Shot Came From a Rooftop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it would be odd for Dan Flood to show the text at the hospital, because no one there should yet have known the shot came from the Losee rooftop while it was still being investigated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Nobody at the hospital should have known that the shot came from a rooftop that quickly because they were still investigating."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-270"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10272"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Time stamp of the first law-enforcement statement on the rooftop."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14121",
+   "header": "**C-14121** Turek's Book Says Mikey Had Sent a Plane for Erika and Was on the Phone With J.D. Vance",
+   "label": "Turek's Book Says Mikey Had Sent a Plane for Erika and Was on the Phone With J.D. Vance",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, 23-year-old chief of staff Mikey McCoy arrived at the hospital having already sent a plane to get Erika, and was on the phone with Vice President J.D. Vance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Mikey has already sent a plane to get Erika and is on the phone with the United States Vice President J.D. Vance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-190, N-2, N-4"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Supports",
+     "v": "C-11393"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Mikey McCoy's call log and the charter record for Erika Kirk's flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14122",
+   "header": "**C-14122** Turek's Book Says the Surgeon Announced the Death About 30 Minutes After Arrival",
+   "label": "Turek's Book Says the Surgeon Announced the Death About 30 Minutes After Arrival",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, about 30 minutes after they arrived the surgeon stepped into the hallway and announced, \"He's dead.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "About 30 minutes after our arrival, the surgeon from the OR steps into the hallway where we're all standing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Time of death in the Timpanogos record."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14123",
+   "header": "**C-14123** Turek's Book Says the Surgeon Demanded to Talk to Erika on the Phone",
+   "label": "Turek's Book Says the Surgeon Demanded to Talk to Erika on the Phone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per the book excerpt, the surgeon then demanded to talk to Erika on the phone, which Turek suggests was to deliver the news to her himself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He then demands to talk to Erika on the phone."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11420"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Erika Kirk's call log for the call from the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14124",
+   "header": "**C-14124** Host Says Turek's Account Conflicts With Neff's of Mikey Telling Erika",
+   "label": "Host Says Turek's Account Conflicts With Neff's of Mikey Telling Erika",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Blake Neff's telling makes it seem Mikey McCoy delivered the news to Erika, which conflicts with Turek's account of the surgeon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Now, when Blake tells the story, it makes it seem like Mikey is the one that delivered the news to Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3376.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-190, N-2, N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Erika Kirk's own account of who told her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14125",
+   "header": "**C-14125** Host Says by Her Timeline Mikey Was Not Present for the Surgeon's Announcement",
+   "label": "Host Says by Her Timeline Mikey Was Not Present for the Surgeon's Announcement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that according to her timeline Mikey McCoy should not have been there for the surgeon's announcement, and his group should have arrived just after."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "According to my timeline, Mikey should not have been there for that announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11208"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Time of the surgeon's announcement vs the 1:10 p.m. arrival footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14126",
+   "header": "**C-14126** Host Says Victor Marx Had Already Posted That Charlie Was Dead",
+   "label": "Host Says Victor Marx Had Already Posted That Charlie Was Dead",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Victor Marx had already announced on his social media that Charlie was dead before Mikey's group arrived."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Cuz Victor Marx had already tweeted out that Charlie was dead."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-341, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Time stamp of Victor Marx's post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14127",
+   "header": "**C-14127** Host Says She Was Told the Surgeon Called Erika With the News",
+   "label": "Host Says She Was Told the Surgeon Called Erika With the News",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she believes Frank Turek over Blake Neff on this point, because she was told the surgeon was the one who called Erika with the news."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think the surgeon was the one That's That's what I was told. That he was the one that called Erika with the news."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-7, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Surgeon's and Erika Kirk's call records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14128",
+   "header": "**C-14128** Host Says Turek Said He Told the Feds He Would Take Charlie's Necklace From the Car",
+   "label": "Host Says Turek Said He Told the Feds He Would Take Charlie's Necklace From the Car",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Frank Turek tells the story that he told the feds he would be taking Charlie's necklace from the car."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Frank then tells the story that he's the one who told the feds that he'll be taking Charlie's necklace from the car."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10537"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13006"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "FBI evidence log for the SUV contents."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14129",
+   "header": "**C-14129** Host Says a Tip Gives a Different Version of the Necklace Events at the Hospital",
+   "label": "Host Says a Tip Gives a Different Version of the Necklace Events at the Hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received a different tip about the necklace describing a totally different version of events at the hospital, and is still confirming it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We actually received a different tip about that necklace. And I'm told it was a totally different version of events that took place at the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10537"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The tip and any corroborating hospital accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14130",
+   "header": "**C-14130** Host Asks for Tips on the Fire Captain Who Did CPR at Timpanogos",
+   "label": "Host Asks for Tips on the Fire Captain Who Did CPR at Timpanogos",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks anyone who knows who the fire captain was who administered CPR to Charlie at the hospital to come forward, and to email more tips at candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "if you know who the fire chief was, the fire captain, pardon me, fire captain that administered CPR to Charlie at the hospital, please, we would like to hear from you."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10874"
+    },
+    {
+     "k": "Supports",
+     "v": "C-13861"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tip responses; fire department run reports for Station 2."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14131",
+   "header": "**C-14131** Host Says Her Team Is Down to Two Possibilities for the Fire Captain",
+   "label": "Host Says Her Team Is Down to Two Possibilities for the Fire Captain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her team has narrowed the fire captain to two possibilities but wants absolute confirmation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We are down to two possibilities, but we want an absolute confirmation. You can email us more tips@candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.3"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10874"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Station 2 shift roster for September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14132",
+   "header": "**C-14132** Still Shows Mikey, Neff and Philip's Car on the Left, Escorted by an Officer",
+   "label": "Still Shows Mikey, Neff and Philip's Car on the Left, Escorted by an Officer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Showing a still, the host says the car on the left carried Mikey McCoy, Blake Neff and Danny Philip to the hospital with an officer, and the car on the right, driven by another officer, carried Christopher Rhoades, Blake Harreff and Blake Gibson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that one on the left-hand side is going to be the Mikey McCoys car, Blake Neff, and Danny Philip to the hospital escorted by an officer"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-159, N-367, N-951, N-896, N-953"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Roundabout footage and plate lookups."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14133",
+   "header": "**C-14133** Host Says the Security Car Went Around the Roundabout the Opposite Way",
+   "label": "Host Says the Security Car Went Around the Roundabout the Opposite Way",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mikey's vehicle went straight and was tracked, while the security vehicle went around the roundabout and seemed to head the opposite direction, possibly because of where it was parked."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "The security vehicle goes around the um little roundabout there, and then seems as if it's heading um the opposite direction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3374.6"
+    },
+    {
+     "k": "Mentions",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11419"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Campus exit camera footage for the second white vehicle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14134",
+   "header": "**C-14134** A Viewer Comment Lists Slips by Andrew, Erika and Blake",
+   "label": "A Viewer Comment Lists Slips by Andrew, Erika and Blake",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads says \"Andrew\" said guilt instead of grief, Erika said grift instead of grit, and Blake said murdered instead of married; the host agrees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Blake said murdered instead of married."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3379.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Source clips of each slip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14135",
+   "header": "**C-14135** Clip Shows Erika Kirk Saying \"Grift\" When Introducing Caleb Chilcutt at AmFest 2025",
+   "label": "Clip Shows Erika Kirk Saying \"Grift\" When Introducing Caleb Chilcutt at AmFest 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays from AmFest 2025, Erika Kirk, introducing UVU chapter president Caleb Chilcutt (the host says \"UVM\"), says he \"persisted with the same grift, excuse me, gift\", then corrects to grit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Caleb has persisted with the same grift, excuse me, gift."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3378.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-10, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Full AmFest 2025 video."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14136",
+   "header": "**C-14136** Host Says She Remains Grateful to the Audience on Episode 400",
+   "label": "Host Says She Remains Grateful to the Audience on Episode 400",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:31"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host thanks the audience for its loyalty and says more exciting news will be updated later."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We have more exciting news that we'll update you on in a in a bit"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Later episode announcements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14137",
+   "header": "**C-14137** Host Says Her Theo Von Episode Passed 2 Million Views in 2 Days",
+   "label": "Host Says Her Theo Von Episode Passed 2 Million Views in 2 Days",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:48:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks over 2 million people watched her episode with Theo Von within 2 days, that her children call him Uncle Theo and that he is her neighbor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think like already over 2 million people have watched it. It's just been up for 2 days."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-146"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "YouTube view count for the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14138",
+   "header": "**C-14138** Host Says Erika Forgave the Killer but Cannot Forgive Druski",
+   "label": "Host Says Erika Forgave the Killer but Cannot Forgive Druski",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it is treated as normal that Erika Kirk took over the company without experience, felt no fear, forgave the killer and cannot forgive Druski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It's normal that she forgave the killer and can't forgive Druski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-594"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11356"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Erika Kirk's public statements on the killer and on Druski."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14139",
+   "header": "**C-14139** Host Says Latvian Sleuths Sent Her Background on \"the Latvian Nerd\"",
+   "label": "Host Says Latvian Sleuths Sent Her Background on \"the Latvian Nerd\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people in Latvia sent her everything about \"the Latvian nerd\", including his parents and where he used to work."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can't I can't believe that we've got people in Latvia that just gave us everything we need to know about this guy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10886, N-10881"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "The Latvian tips and public records on the person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14140",
+   "header": "**C-14140** Host Invites Viewers to Join the Decentralized Intelligence Agency via Merch",
+   "label": "Host Invites Viewers to Join the Decentralized Intelligence Agency via Merch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers to support the show through merch and to join the decentralized intelligence agency, which she says operates everywhere except probably Israel."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Join the decentralized intelligent agency which operates in every country all around the the Probably not in Israel, to be honest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.4"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Merch store listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14141",
+   "header": "**C-14141** Host Repeats She Wants Information on Christopher Rhoades",
+   "label": "Host Repeats She Wants Information on Christopher Rhoades",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host repeats that she would like to learn more about Christopher Rhoades and establish a connection, and says somebody knows him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I would love to learn a little bit more about Christopher Rhoades and to establish connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3380.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-951"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Tip responses."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-14142",
+   "header": "**C-14142** Host Says Harpole Sued Instead of Answering Her Text",
+   "label": "Host Says Harpole Sued Instead of Answering Her Text",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she texted Brian Harpole a simple question he chose to file a lawsuit, and claimed he had not answered it four times because he did not want to contribute to more views."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you instead opt to file a lawsuit and claim why didn't answer that question four times when I was asked it because I didn't want to contribute to more views."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-266, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10651"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Harpole's complaint and the text exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-236",
+   "header": "**M-236** (meme) Silver Alert for Blake",
+   "label": "(meme) Silver Alert for Blake",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:15"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And Blakey poo, I'd like to dedicate today's episode to you, girlfriend."
+    },
+    {
+     "k": "Context",
+     "v": "Host dedicates episode 400 to Blake Neff using the nickname Blakey-poo."
+    },
+    {
+     "k": "Tags",
+     "v": "blake-neff, nickname"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-65",
+   "header": "**M-65** (meme) Elephant Clipping",
+   "label": "(meme) Elephant Clipping",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It just felt like a elephant clipping original fresh out of the Latvian nerd's factory."
+    },
+    {
+     "k": "Context",
+     "v": "Host likens Blake Neff's \"white women\" line to an Elephant Clipping talking point."
+    },
+    {
+     "k": "Tags",
+     "v": "elephant-clipping, blake-neff"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "elephant clipping uh to make us all see a bunch of information, believe that it's organic and it's catching fire."
+    },
+    {
+     "k": "Context",
+     "v": "Host says Turek's side wages the \"war on reality\"."
+    },
+    {
+     "k": "Tags",
+     "v": "elephant-clipping, frank-turek"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-153",
+   "header": "**M-153** (meme) Sentencing TPUSA to More Truth",
+   "label": "(meme) Sentencing TPUSA to More Truth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "And in this courtroom, the sentence is always the same. Sentence you to more truth."
+    },
+    {
+     "k": "Context",
+     "v": "Host \"sentences\" Blake Neff to more truth."
+    },
+    {
+     "k": "Tags",
+     "v": "sentence, blake-neff"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-190",
+   "header": "**M-190** (meme) Superman Neck",
+   "label": "(meme) Superman Neck",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:08:55"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "the story itself features magic bullets, man of steel necks."
+    },
+    {
+     "k": "Context",
+     "v": "Host says nothing in the official story makes sense."
+    },
+    {
+     "k": "Tags",
+     "v": "neck, bullet"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:18:25"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email us at moretips@candaceowens.com. We would like to identify every single person in this story."
+    },
+    {
+     "k": "Context",
+     "v": "Tip request for the officer who drove the first group to Timpanogos."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:26"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "More tips at candaceowens.com."
+    },
+    {
+     "k": "Context",
+     "v": "Tip request for contact with Christopher Rhoades."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:00"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You can email us more tips@candaceowens.com."
+    },
+    {
+     "k": "Context",
+     "v": "Tip request for the fire captain who did CPR."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, tips"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 4"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:26"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Join the decentralized intelligent agency which operates in every country all around the the Probably not in Israel, to be honest."
+    },
+    {
+     "k": "Context",
+     "v": "Merch plug crediting worldwide sleuths."
+    },
+    {
+     "k": "Tags",
+     "v": "dia, merch"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-260",
+   "header": "**M-260** (meme) Midas Touch",
+   "label": "(meme) Midas Touch",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:51:48"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "it feels like they just kind of put the Midas touch on Erika. Who is Midas? I don't know. Someone in Vegas, if I had to guess."
+    },
+    {
+     "k": "Context",
+     "v": "Host on Erika Kirk being handpicked."
+    },
+    {
+     "k": "Tags",
+     "v": "erika-kirk, midas"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-216",
+   "header": "**M-216** (meme) I Told the Priest I Would Chill",
+   "label": "(meme) I Told the Priest I Would Chill",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I told my priest that I would chill. That's a great hat to wear when you just need to chill"
+    },
+    {
+     "k": "Context",
+     "v": "Merch plug for the hat."
+    },
+    {
+     "k": "Tags",
+     "v": "merch, priest"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-357",
+   "header": "**M-357** (meme) Doing the Medical",
+   "label": "(meme) Doing the Medical",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:54:50"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I was doing the medical. I feel like anybody that says I was doing the medical should not be doing any medical."
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks Brian Harpole's phrase from the Shawn Ryan clip with a surgeon and dentist riff."
+    },
+    {
+     "k": "Tags",
+     "v": "brian-harpole, medical"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-79",
+   "header": "**M-79** (meme) Pass the Sniff Test",
+   "label": "(meme) Pass the Sniff Test",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:55:20"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Doesn't pass the sniff test."
+    },
+    {
+     "k": "Context",
+     "v": "Host on Harpole's \"doing the medical\"."
+    },
+    {
+     "k": "Tags",
+     "v": "brian-harpole"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 7. Optional Flags",
+    "",
+    "- MISTRANSCRIPTION: \"Christopher Rhoades\" / \"Christopher Rhoades\" / \"Chris Rhoades\" -> \"Christopher Rhoades\" (00:11:07, 00:23:19, 00:54:03) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=1399s (the host spells it \"r h o a d e s\" on air)",
+    "- MISTRANSCRIPTION: \"Blake Harreff\" -> \"Blake Harreff\" (00:11:07) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=667s",
+    "- MISTRANSCRIPTION: \"Blake Harreff\" / \"Blake Harreff\" / \"Blake Harreff\" -> \"Blake Harreff\" (00:13:13, 00:18:46, 00:44:18) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=1126s",
+    "- MISTRANSCRIPTION: \"Frank Turek\" -> \"Frank Turek\" (00:28:18) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=1698s",
+    "- MISTRANSCRIPTION: \"Shawn Ryan\" -> \"Shawn Ryan\" (00:32:10) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=1930s",
+    "- MISTRANSCRIPTION: \"Losee rooftop\" -> \"Losee rooftop\" (00:37:12) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=2232s",
+    "- MISTRANSCRIPTION: \"Erika\" -> \"Erika\" (throughout) source: https://www.youtube.com/watch?v=UAdBEXs7nNc",
+    "- MISTRANSCRIPTION: \"Danny Philip\" / \"Danny Philip\" -> \"Danny Philip\" (00:02:40, 00:07:06) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=426s",
+    "- MISTRANSCRIPTION: \"Caleb Chilcutt\" -> \"Caleb Chilcutt\" (00:46:23) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=2783s",
+    "- MISTRANSCRIPTION: \"your Kolbe\" -> \"Andrew Kolvet\" (00:50:08, in a viewer comment; not tagged as a mention) source: https://www.youtube.com/watch?v=UAdBEXs7nNc&t=3008s",
+    "- Unresolved name: \"Fia Assisi\" / \"La Fieta Assisi\" (00:07:37), the ICAC officer; spelling kept as transcribed (N-954); a web search found no confirmation.",
+    "- Unresolved name: \"Alex Faria\" (00:06:35) kept as transcribed (N-952); the transcript reads \"Alex Faria, yeah, flood\", possibly a garbled \"and Dan Flood\", so the vehicle–driver pairing is Medium confidence.",
+    "- Host misspeak: at 00:09:59 she says \"Danny McCoy\" and corrects herself to Danny Philip; at 00:46:23 she says \"president of UVM\" while the clip says Utah Valley University.",
+    "- Unresolved: \"Mice to Down\" (00:47:31, the Theo Von episode title) and \"Krystandis cups\" (00:47:01, viewer comment) left as transcribed.",
+    "- \"Blake Gibson\" (N-953) and \"Alex Faria\" (N-952) appear in earlier episodes' claims (C-12891, C-12657) without person nodes; minted here as placeholders; integrator should check for a later-minted id.",
+    "- Rick in Turek's book and Harpole's clip is mapped to N-487 Rick Cutler, Justin to N-492 Justin Davis, Dan to N-270 Dan Flood and Brian to N-266 Brian Harpole, following earlier episodes' identifications.",
+    "- Not shown: Blake Neff's X space and his X post calling the host illiterate (verbal reference only, C-14056, C-14057); Victor Marx's post (C-14126); the necklace tip (C-14129).",
+    "- Theo Von / Tim Dillon clip (00:48:30) played as entertainment; no claim admitted.",
+    "- DIA: the hit at 00:53:26 (\"decentralized intelligent agency\") is a merch plug; recorded as a DIA beat (C-14140, A-3380.4, M-12). The C-14141 request for Rhoades information at 00:54:03 has no tip-line keyword and reuses A-3380.2.",
+    "- Rejected claims (opinion or rhetorical): \"who ordained him [Mikey]\" (00:22:50); \"That would make sense for his wife to receive an escort\" (00:22:14); \"Turning Point 2.0 is nothing like Turning Point USA 1.0\" (00:51:17); viewer comments praising the host (00:47:01-00:53:00); characterizations of Blake Neff as \"flamboyant\" (00:51:48); sponsor reads (PDS Debt, Fatty15, Tax Network USA, StopBox, American Financing).",
+    "- Cross-episode links left out: C-14073/C-14081 federal escort vs C-13126 (ep 152, ICAC as a federal control mechanism), as a different proposition; C-14119 vs C-13867 (ep 160, Turek on Tatum on roofs), which concerns the roofs, not when the text was shown.",
+    ""
+   ]
+  }
+ ]
+}

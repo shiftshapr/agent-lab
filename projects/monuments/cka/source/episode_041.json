@@ -1,0 +1,5002 @@
+{
+ "format": "cka-source/1",
+ "episode": 41,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 41",
+    "- **Monument**: cka",
+    "- **CKA seq**: 41",
+    "- **YouTube id**: ZAuuSq_j2_w",
+    "- **Candace Ep**: 274",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:52:29",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 9947ad085576510d0eca9efc0f90646427ab1e5b19ec6460512b87a70d7be827",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10): N-714, N-11016, N-11017",
+    "  - Hole-minted Nodes (reintro-ep041): N-10340, N-10567, N-10804",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-3605–C-3651",
+    "  - New Nodes Introduced: N-305, N-306, N-10309, N-10310",
+    "  - Reused Nodes Appearing: N-159, N-5, N-11, N-14, N-55, N-68, N-260, N-10064, N-10074, N-10208, N-10253, N-10316, N-10324",
+    "  - Tip-minted Nodes (wave2): N-10897",
+    "  - (see registers)",
+    "",
+    "---",
+    "",
+    "## Episode 41 Ledger Summary",
+    "",
+    "Artifact Families Introduced: A-1494, A-1495, A-1496, A-1497, A-1498, A-1499, A-1500",
+    "",
+    "Claim Range: C-3606–C-3641, C-3617",
+    "",
+    "New Nodes Introduced:  N-305, N-306, N-10309, N-10310",
+    "",
+    "Existing Nodes Reused: N-1 (Charlie Kirk)",
+    "",
+    "---",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode Title:** Shocking Revelation About The Egyptian Planes... | Candace Ep 274",
+    "- **Series Title:** Bride of Charlie",
+    "- **Episode Number:** 41 (Monument); Batch 21",
+    "- **Channel / Creator:** Candace Owens (@RealCandaceO)",
+    "- **Episode Date:** 2025-12-05",
+    "- **Source Used For Analysis:** YouTube captions cleaned with video context (video ID: ZAuuSq_j2_w)",
+    "- **Transcript Completeness Status:** Complete (full episode, 52:29)",
+    "- **Analyst / Agent Name:** Investigative Analysis Agent",
+    "- **Analysis Date:** 2026-03-11",
+    "- **Ledger Continuation Summary:** See header above.",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "Episode 41 advances two of the series' core threads. First, the TPUSA/Candace debate exchange: Candace presents and reads in full two successive tweets from Blake Neff (TPUSA) – one issuing a midnight debate announcement with a 24-hour countdown for December 15 in Phoenix, and one declaring that TPUSA will \"proceed without\" Candace after she offered virtual participation. A shown text exchange with executive producer Schuyler establishes the timeline of her learning about the announcement. Second, the \"Egyptian planes\" investigation advances materially: Candace introduces a new individual – \"Wedi Machmood\" – alleged to have been one of four passengers on the \"yellow plane\" SU-BND on September 10, 2025, and to have flown on a separate Egyptian military plane (SU-BTU) into Provo on May 27, 2025. She cites a tweet from researcher \"Project Constitution\" (read in its entirety) reporting that the Egyptian presidency website confirms President El-Sisi flew SU-BTU on April 3, 2023, and verbally references photographic evidence placing El-Sisi in Egypt on September 10 (ruling him out as the September 10 passenger).",
+    "",
+    "Secondary threads include: an audio clip of Pentagon correspondent Cam Higby asking the Pentagon press secretary about a French military plot to assassinate Candace (asserted by host to be on TPUSA payroll since August 2025); an audio clip of Ben Shapiro making a French-intelligence joke on Greg Gutfeld's show; an audio clip of Frank Turek asserting Charlie called Blake Neff \"the smartest man I know\"; and a Tim Pool clip calling Candace a \"scumbag\" and warning of midterm losses. The episode structurally consolidates the host's framing of TPUSA as engaged in a coordinated cover-up, while pressing the Egyptian-planes line toward a specific identity attribution question (Wedi Machmood).",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    "",
+    "### A-1494 Pentagon Press Conference Audio Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1494.1",
+   "header": "**A-1494.1** Pentagon press briefing clip – Cam Higby asks Pentagon press secretary about a \"French military plot to assassinate Candace Owens\"",
+   "label": "Pentagon press briefing clip – Cam Higby asks Pentagon press secretary about a \"French military plot to assassinate Candace Owens\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:11"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip played on air; date of briefing not specified in transcript)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3606, N-302*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1495 TPUSA Debate Tweet Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1495.1",
+   "header": "**A-1495.1** Blake Neff tweet announcing December 15, 2025 TPUSA livestream debate with 24-hour countdown",
+   "label": "Blake Neff tweet announcing December 15, 2025 TPUSA livestream debate with 24-hour countdown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (tweet read in full on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3610, N-7 (if existing)*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1495.2",
+   "header": "**A-1495.2** Blake Neff follow-up tweet stating TPUSA will \"proceed without\" Candace",
+   "label": "Blake Neff follow-up tweet stating TPUSA will \"proceed without\" Candace",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:19"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (tweet read in full on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3614, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1496 Project Constitution Tweet Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1496.1",
+   "header": "**A-1496.1** Project Constitution X post asserting Egyptian presidency website confirms President El-Sisi flew on aircraft SU-BTU on April 3, 2023",
+   "label": "Project Constitution X post asserting Egyptian presidency website confirms President El-Sisi flew on aircraft SU-BTU on April 3, 2023",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:32"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (tweet read in its entirety on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3626, N-10897, N-10310*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1497 Ben Shapiro / Gutfeld Show Clip Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1497.1",
+   "header": "**A-1497.1** Ben Shapiro audio/video clip from Greg Gutfeld's show – French intelligence joke regarding Greg",
+   "label": "Ben Shapiro audio/video clip from Greg Gutfeld's show – French intelligence joke regarding Greg",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip played on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3634*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1498 Frank Turek Testimonial Clip Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1498.1",
+   "header": "**A-1498.1** Frank Turek audio/video clip asserting Charlie Kirk told him Blake Neff was \"the smartest man I know\" / \"secret weapon\"",
+   "label": "Frank Turek audio/video clip asserting Charlie Kirk told him Blake Neff was \"the smartest man I know\" / \"secret weapon\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip played on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3636, N-7 (Frank Turek, if not already existing)*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1499 Tim Pool Video Clip Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1499.1",
+   "header": "**A-1499.1** Tim Pool video clip calling Candace Owens a \"scumbag\" and warning of midterm losses due to her commentary",
+   "label": "Tim Pool video clip calling Candace Owens a \"scumbag\" and warning of midterm losses due to her commentary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:31:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip played on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3641*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### A-1500 Egyptian Presidency Photographic Evidence Bundle",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1500.1",
+   "header": "**A-1500.1** Photograph of President El-Sisi meeting Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025",
+   "label": "Photograph of President El-Sisi meeting Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (verbally referenced; not shown in episode)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3628, N-306, N-10897*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1500.2",
+   "header": "**A-1500.2** Egyptian Presidency website record confirming El-Sisi aboard SU-BTU on April 3, 2023 (Riadh → Saudi Crown Prince MBS meeting)",
+   "label": "Egyptian Presidency website record confirming El-Sisi aboard SU-BTU on April 3, 2023 (Riadh → Saudi Crown Prince MBS meeting)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:17:13"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (referenced via Project Constitution tweet A-1496.1; underlying website not directly accessed)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3626, N-10897*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2734",
+   "header": "**A-2734** Schuyler Text Exchange Bundle",
+   "label": "Schuyler Text Exchange Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2734.1",
+   "header": "**A-2734.1** Text exchange between the host and her executive producer Schuyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post",
+   "label": "Text exchange between the host and her executive producer Schuyler from that morning, shown on air, in which he writes that he is sure she saw the Turning Point post",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I'm sure you saw this.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3611, N-10000, N-10804, N-3, N-68*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2734.2",
+   "header": "**A-2734.2** Host's reply text to Blake Neff offering to join the December 15 livestream virtually, read on air",
+   "label": "Host's reply text to Blake Neff offering to join the December 15 livestream virtually, read on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"this kind of weird how you didn't email or call me to ask about times or availability and instead chose to tweet this confirmation out at midnight.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:26"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3613, N-10804, N-159, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2735",
+   "header": "**A-2735** Comedian Clip Bundle",
+   "label": "Comedian Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2735.1",
+   "header": "**A-2735.1** Clip of a comedian the transcript calls Ace Smart, played by the host, joking about slapping someone",
+   "label": "Clip of a comedian the transcript calls Ace Smart, played by the host, joking about slapping someone",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3635, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2736",
+   "header": "**A-2736** Project Constitution Chat Comment Bundle",
+   "label": "Project Constitution Chat Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2736.1",
+   "header": "**A-2736.1** Chat comment from Project Constitution read aloud by the host",
+   "label": "Chat comment from Project Constitution read aloud by the host",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I have proof now that Tim P uses bots. Stay tuned. Receipts dropping in the next few weeks.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:35"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3648, C-3649, N-10897, N-267, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2737",
+   "header": "**A-2737** Tyler Bowyer Email Bundle",
+   "label": "Tyler Bowyer Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-2737.1",
+   "header": "**A-2737.1** Host verbal reference to an email from Tyler Bowyer asking for her lawyer's email (not shown)",
+   "label": "Host verbal reference to an email from Tyler Bowyer asking for her lawyer's email (not shown)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:40:03"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3647, N-10000, N-11, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-302",
+   "header": "**N-302** Cam Higby",
+   "label": "Cam Higby",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Pentagon correspondent whose question to the Pentagon press secretary regarding a \"French military plot to assassinate Candace Owens\" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1494.1, C-3606*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-305",
+   "header": "**N-305** Wed Mahmoud",
+   "label": "Wed Mahmoud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Person using this name on board the \"yellow plane\" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU (\"purple plane\") into Provo on May 27, 2025. Identity verification target."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2 (manifest assertion + flight-tracking assertion)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0 (host assertions not artifact-anchored in this episode)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-10309, N-10310*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-306",
+   "header": "**N-306** Sarra Zaafrani",
+   "label": "Sarra Zaafrani",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1500.1, C-3628, N-10897*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10897",
+   "header": "**N-10897** Project Constitution",
+   "label": "Project Constitution",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Organization"
+    },
+    {
+     "k": "Organization Kind",
+     "v": "media_outlet"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "X account whose tweet (read in full on air) is cited as the source for the Egyptian-presidency confirmation that El-Sisi flew SU-BTU on April 3, 2023."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1496.1, C-3626, A-1500.2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA affiliate whose testimonial clip is played, asserting that Charlie Kirk told him Blake Neff was \"the smartest man I know.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1498.1, C-3636, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10309",
+   "header": "**N-10309** Wedi Machmood Identity Verification Question",
+   "label": "Wedi Machmood Identity Verification Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent unresolved target",
+     "v": "who is the person using the name \"Wedi Machmood\" – possibly a pilot, possibly a person well acquainted with President El-Sisi given use of a presidential Egyptian military aircraft."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2 (manifest reference; flight reference)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-305, N-10310*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10310",
+   "header": "**N-10310** SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
+   "label": "SU-BTU May 27 – June 2, 2025 Provo Visit with Wedi Machmood Aboard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Egyptian military aircraft SU-BTU allegedly flew into Provo on May 27, 2025 with Wedi Machmood aboard, and departed June 2, 2025 without transponder data. Distinct from the September 10 yellow plane (SU-BND) incident."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1 (host assertion; no visible artifact)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: N-305, N-10309*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "**Existing Nodes Reused:**"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "- **N-1** Charlie Kirk (referenced as deceased subject of A-1498.1 testimony)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the assassination; the host and clips describe his words and wishes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3608, C-3612, C-3620, C-3637, C-3638, C-3639, C-3642, C-3645, C-3646, C-3651*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3605, C-3608, C-3609, C-3611, C-3612, C-3613, C-3615, C-3616, C-3618, C-3619, C-3620, C-3621, C-3622, C-3623, C-3624, C-3625, C-3627, C-3629, C-3630, C-3631, C-3632, C-3633, C-3635, C-3638, C-3639, C-3640, C-3642, C-3643, C-3644, C-3645, C-3646, C-3647, C-3649, C-3650, C-3651*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-5",
+   "header": "**N-5** Donald Trump",
+   "label": "Donald Trump",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Quoted by the host asking whether people are still talking about the Epstein files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3643*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's account of an email asking for her lawyer's address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3647*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-14",
+   "header": "**N-14** Andrew Kolvet",
+   "label": "Andrew Kolvet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Joined the TPUSA show virtually on the day of the episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3615*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-55",
+   "header": "**N-55** Josh Hammer",
+   "label": "Josh Hammer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host paraphrases his account of Charlie's praise for his book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3639*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-68",
+   "header": "**N-68** Schuyler",
+   "label": "Schuyler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host's executive producer who texted her about the TPUSA post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3611*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-159",
+   "header": "**N-159** Blake Neff",
+   "label": "Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure whose posts set the debate terms; quoted in Turek clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3612, C-3613, C-3618, C-3637*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-260",
+   "header": "**N-260** Duncan Aviation",
+   "label": "Duncan Aviation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "FBO where the host says SU-BND was transponding on September 10."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3620*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-267",
+   "header": "**N-267** Tim Pool",
+   "label": "Tim Pool",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Commentator whose clip and alleged bot use are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3642, C-3648*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization whose debate terms, purge of questions and alleged influence campaign are discussed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3605, C-3609, C-3611, C-3615, C-3616, C-3618, C-3619, C-3632, C-3642, C-3644, C-3645, C-3646, C-3647, C-3650*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10064",
+   "header": "**N-10064** The Pentagon",
+   "label": "The Pentagon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Setting of the Higby question and the host's no-denial point."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3607, C-3633*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10074",
+   "header": "**N-10074** Provo, Utah",
+   "label": "Provo, Utah",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Airport where the Egyptian planes and the named passenger appeared."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3620, C-3621, C-3623, C-3624, C-3625*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10208",
+   "header": "**N-10208** SUBND (Egyptian military aircraft) Flight Tracking Question",
+   "label": "SUBND (Egyptian military aircraft) Flight Tracking Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the SU-BND ground transponder claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3620*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10253",
+   "header": "**N-10253** Egyptian Military Plane Tracking Investigation",
+   "label": "Egyptian Military Plane Tracking Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the plane identification claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3619, C-3621, C-3622, C-3629*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10316",
+   "header": "**N-10316** France / Macron Couple Involvement in Kirk Assassination",
+   "label": "France / Macron Couple Involvement in Kirk Assassination",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the French-plot claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3608, C-3633*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10324",
+   "header": "**N-10324** Epstein Files Release Status",
+   "label": "Epstein Files Release Status",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Trump remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3643*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10340",
+   "header": "**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "label": "Night-Before Text Messages to Andrew Kolvet and Dan Flood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's night-before text claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3638*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10567",
+   "header": "**N-10567** French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
+   "label": "French Intelligence (DGSE) Involvement in Charlie Kirk Assassination Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3608, C-3633*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10804",
+   "header": "**N-10804** TPUSA Debate PR Strategy",
+   "label": "TPUSA Debate PR Strategy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the debate-terms claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3605, C-3611, C-3612, C-3613, C-3615, C-3616, C-3632, C-3644*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-714",
+   "header": "**N-714** Abdel Fattah el-Sisi",
+   "label": "Abdel Fattah el-Sisi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "First named by the host as the Egyptian president (transcript spelling el-Sisi, Elsisi) at 00:17:13 in episode 41."
+    },
+    {
+     "k": "Aliases",
+     "v": "Elsisi; el-Sisi; LCC (transcript read of a post)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3630, C-3631*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11016",
+   "header": "**N-11016** Cam Higby TPUSA Payroll Verification",
+   "label": "Cam Higby TPUSA Payroll Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Host's claim that Cam Higby joined the TPUSA payroll in August 2025 and the question of who directed his Pentagon briefing question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3609*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11017",
+   "header": "**N-11017** TPUSA Influencer Payment Campaign Allegation",
+   "label": "TPUSA Influencer Payment Campaign Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "Host's allegation that Turning Point USA pays influencers to run an influence campaign and mock her claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-3650*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3606",
+   "header": "**C-3606** Higby Pentagon Question on French Assassination Plot",
+   "label": "Higby Pentagon Question on French Assassination Plot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Cam Higby asks the Pentagon press secretary whether the Department of Defense has any evidence at all of a \"French military plot to assassinate Candace Owens.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1494.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-302, N-3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3610",
+   "header": "**C-3610** Neff Tweet Announcing the December 15 Livestream",
+   "label": "Neff Tweet Announcing the December 15 Livestream",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "TPUSA's Blake Neff issued a tweet near midnight on December 4, 2025 announcing a formal response livestream scheduled for December 15, 2025 at 4:00 PM Eastern / 2:00 PM local in Phoenix, with a 24-hour countdown for Candace to confirm in-person attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1495.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm original tweet via X/Twitter archive; verify timestamp and wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3614",
+   "header": "**C-3614** TPUSA \"Proceeding Without You\" Follow-Up Tweet",
+   "label": "TPUSA \"Proceeding Without You\" Follow-Up Tweet",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "After Candace Owens publicly offered to participate virtually, TPUSA's Blake Neff tweeted that TPUSA would proceed with the December 15 livestream without her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1495.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm original follow-up tweet via X/Twitter archive; compare with Candace's tweet offering virtual attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3626",
+   "header": "**C-3626** Project Constitution Report on El-Sisi Aboard SU-BTU",
+   "label": "Project Constitution Report on El-Sisi Aboard SU-BTU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A Project Constitution X post (read in full on air) reports that the Egyptian presidency website confirms President El-Sisi flew aboard aircraft SU-BTU on April 3, 2023 to Riyadh for a meeting with Saudi Crown Prince Mohammed bin Salman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1496.1, A-1500.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-714"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10310, N-10897"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify directly against the Egyptian presidency website; reconcile Project Constitution's reference to \"SU-BTU\" with host's reference to \"BTT\" / \"SUB-TU.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3628",
+   "header": "**C-3628** El-Sisi Photographed in Egypt on September 10, 2025",
+   "label": "El-Sisi Photographed in Egypt on September 10, 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says President El-Sisi was photographed at a meeting with Tunisian Prime Minister Sarra Zaafrani in Egypt on September 10, 2025, which she cites as ruling out El-Sisi as the mystery passenger on the yellow plane that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1500.1 (verbally referenced; not displayed)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-714, N-306"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10897"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original photograph; verify date, location, and participants."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3634",
+   "header": "**C-3634** Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence",
+   "label": "Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Ben Shapiro, appearing on Greg Gutfeld's show, jokes that he \"called French intelligence and something may or may not have happened to Greg [Gutfeld].\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1497.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify clip against original Gutfeld show broadcast; confirm exact wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3636",
+   "header": "**C-3636** Frank Turek Testimonial on Blake Neff",
+   "label": "Frank Turek Testimonial on Blake Neff",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Frank Turek states in a video testimonial that the night before Charlie Kirk's death, Kirk told him that Blake Neff was Kirk's \"secret weapon\" and \"the smartest man I know.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1498.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-7, N-159"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify clip against original broadcast; cross-check against other contemporaneous accounts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3641",
+   "header": "**C-3641** Tim Pool Attack on Candace Owens",
+   "label": "Tim Pool Attack on Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Tim Pool states in a video that Candace Owens is a \"scumbag\" who is dividing conservatives and risks losing the midterms and 2028 by insinuating that Turning Point killed Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1499.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-267, N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify clip against original Tim Pool broadcast; capture full context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3617",
+   "header": "**C-3617** Host maintains that Turning Point USA is engaged in a cover-up",
+   "label": "Host maintains that Turning Point USA is engaged in a cover-up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she maintains that Turning Point USA is engaged in a cover-up, after it refused a virtual or live-streamed appearance and while its figures, including Blake Neff, call her names instead of answering questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Okay, I maintain that turning point is engaged in a cover up."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Track TPUSA responses to the on-record questions; compare against the list of disputed statements the host says she keeps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3605",
+   "header": "**C-3605** Host Says TPUSA Gave No Email or Text Before the Midnight Debate Announcement",
+   "label": "Host Says TPUSA Gave No Email or Text Before the Midnight Debate Announcement",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:00:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Turning Point USA did not send her an email or a text message or coordinate anything with her before it made its midnight debate announcement with a 24-hour countdown."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "did not send me an email. They did not send me a text message. They did not coordinate anything with me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10804"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3610"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the host's inbox and phone records for December 3–4, 2025 with the timing of the Blake Neff announcement post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3607",
+   "header": "**C-3607** Pentagon Press Secretary Answers Higby: Not Aware, Possibly a Law Enforcement Matter",
+   "label": "Pentagon Press Secretary Answers Higby: Not Aware, Possibly a Law Enforcement Matter",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip played by the host, the Pentagon press secretary answers Cam Higby that she is not aware of any evidence of a French military plot to assassinate Candace Owens, calls it an interesting question and says it might be more of a law enforcement matter."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That is an interesting question. Um, not that I'm aware of. Uh, but, you know, interesting question. I can try to find out and maybe let you know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1494.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-302, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10064"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3578"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Pentagon press briefing transcript to confirm the exchange and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3608",
+   "header": "**C-3608** Host Says France Was on the Ground on the Day Charlie Was Assassinated",
+   "label": "Host Says France Was on the Ground on the Day Charlie Was Assassinated",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has already said that France was on the ground on the day Charlie Kirk was assassinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "which I also said in that France was on the ground the day on the day that Charlie was assassinated."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10567, N-10316"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify what evidence the host offers elsewhere for French personnel in Utah on September 10, 2025 and test it against travel and flight records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3609",
+   "header": "**C-3609** Host Says Cam Higby Joined the TPUSA Payroll in August 2025",
+   "label": "Host Says Cam Higby Joined the TPUSA Payroll in August 2025",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Cam Higby has been on the payroll of Turning Point USA beginning in August of 2025 and asks who directed him to ask the Pentagon question."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, Cam Higby is on the payroll of Turning Point USA beginning in August of this year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-302, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11016"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain employment, contractor or payment records, or a TPUSA staff announcement, showing whether and when Higby was engaged by TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3611",
+   "header": "**C-3611** Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown",
+   "label": "Host Says She Learned of the Announcement From Schuyler Nine Hours Into the Countdown",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her executive producer Schuyler texted her that morning and that she was already nine hours into a 24-hour countdown, and she shows the text exchange."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I heard from Schuyler, my executive producer, this morning via text, which I'm going to show you, that I was somehow already 9 hours into a 24-hour countdown"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2734.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-68"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10804"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture the Schuyler text exchange with its timestamps and compare it to the posting time of the Blake Neff announcement."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3612",
+   "header": "**C-3612** Neff Post Says Charlie's Friends Will Respond Once and for All From Charlie's Phoenix Studio",
+   "label": "Neff Post Says Charlie's Friends Will Respond Once and for All From Charlie's Phoenix Studio",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "As read by the host, Blake Neff's post says a collection of Charlie's friends will respond to statements by Candace Owens on Monday, December 15 at 4:00 p.m. Eastern (2:00 p.m. local), prior to the opening of America Fest, from Charlie's Phoenix studio, and that the in-person offer stands if she tells them by the end of the day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a collection of Charlie's friends will respond to statements made by Candace Owens to set the record straight once and for all prior to the opening of America Fest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1495.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10804"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-3610"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the original post and confirm the stated Eastern and local times (the host reads 4:00 p.m. Eastern, 2:00 p.m. local), the studio location and the end-of-day deadline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3613",
+   "header": "**C-3613** Host Replies She Will Cancel Her 2 p.m. Podcast to Join the Livestream Virtually",
+   "label": "Host Replies She Will Cancel Her 2 p.m. Podcast to Join the Livestream Virtually",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she told Neff that 2 p.m. is the time she does her daily live podcast, which he knew, and that she would cancel it and join the December 15 livestream virtually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and 2 p. m. happens to also be the literal time that I do my podcast live every day, which you knew, but we will happily cancel the daily podcast"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2734.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-159"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10804"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Capture the host's reply message to Neff and its timestamp; confirm her show's daily 2 p.m. Eastern broadcast slot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3615",
+   "header": "**C-3615** Host Says Kolvet Joined the TPUSA Show Virtually That Day",
+   "label": "Host Says Kolvet Joined the TPUSA Show Virtually That Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:07:19"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on the TPUSA show that same day they had Andrew Kolvet joining them virtually, so they have the technical capability for a virtual guest."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In fact, today on their show, they had Andrew Kolvet joining them virtually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-14, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10804"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the December 4, 2025 episode of the TPUSA show for Kolvet appearing remotely."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3616",
+   "header": "**C-3616** Host Says She Offered Any Day Up to the 15th by Virtual Link",
+   "label": "Host Says She Offered Any Day Up to the 15th by Virtual Link",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she attached to her reply an offer to appear virtually on any day leading up to December 15, and that TPUSA insists on in-person in Phoenix on December 15."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I also attached to that tweet any day leading up to the 15th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10804"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Retrieve the host's reply post and confirm the any-day virtual offer; compare to the TPUSA follow-up that it would proceed without her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3618",
+   "header": "**C-3618** Host Says Neff Name-Called and the Pastors Call It Demonic",
+   "label": "Host Says Neff Name-Called and the Pastors Call It Demonic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Blake Neff name-called and that the pastors in TPUSA's orbit have been saying her questions are demonic and possessed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All Blake Neff did was name call yesterday. All the pastors have been doing it's demonic. It's possessed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-159, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the pastors and the broadcasts or posts in which they used that language about the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3619",
+   "header": "**C-3619** Host Says TPUSA Mentioned the Egyptian Planes Many Times Without a Valid Answer",
+   "label": "Host Says TPUSA Mentioned the Egyptian Planes Many Times Without a Valid Answer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says TPUSA mentioned the Egyptian planes many times the previous day without giving a valid answer or reason why military planes from another country should be ignored."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the fact that you mentioned the Egyptian planes so many times yesterday without providing a valid answer or reason as to why we should just ignore military planes"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10253"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the December 3, 2025 TPUSA statement for each mention of the Egyptian planes and what it said about them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3620",
+   "header": "**C-3620** Host Says SU-BND (Blue Plane) Was Transponding at Duncan Aviation on September 10 and Did Not Go Anywhere",
+   "label": "Host Says SU-BND (Blue Plane) Was Transponding at Duncan Aviation on September 10 and Did Not Go Anywhere",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the plane she labels blue, SU-BND, was transponding on the ground at Duncan Aviation on the day of Charlie's assassination but did not go anywhere."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "That's SUB BND, which was the one that was transponding on the ground um at Duncan Aviation on the day of Charlie's assassination, but it did not go anywhere."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-260"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-260, N-10208, N-10074"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2924"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull the September 10, 2025 ADS-B and FBO records for SU-BND to confirm the ground transponder pings and the lack of departure."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3621",
+   "header": "**C-3621** Host Says the Yellow Plane Flew Provo to Delaware With Only Four People Aboard, One a Foreign Dignitary",
+   "label": "Host Says the Yellow Plane Flew Provo to Delaware With Only Four People Aboard, One a Foreign Dignitary",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the yellow plane that flew from Provo to Wilmington, Delaware that morning had only four people on board, one of them a foreign dignitary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that flight from Provo to Delaware on the yellow plane had only four people on board."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10074, N-10253"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3052"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the passenger manifest and Customs and Border Protection or FBO records for the September 10 Provo to Wilmington flight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3622",
+   "header": "**C-3622** Host Says One of the Four Used the Name Wedi Machmood",
+   "label": "Host Says One of the Four Used the Name Wedi Machmood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she can confirm that one of the four people on the yellow plane flew using the name Wedi Machmood, adding that governments just print passports so such names are obviously dead ends."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But the name that one of those individuals was using is Wedi Machmood. Okay. Wid Makmood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-305"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10309, N-10253"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the manifest or customs entry showing the name used, and test it against Egyptian official or aircrew rosters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3623",
+   "header": "**C-3623** Host Says Wedi Machmood Came to Provo May 27 on an Egyptian Plane With No Transponder Record",
+   "label": "Host Says Wedi Machmood Came to Provo May 27 on an Egyptian Plane With No Transponder Record",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Wedi Machmood had been in Provo before, arriving on May 27, 2025 aboard an Egyptian military plane for which there is no transponder data for that trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Wed Mahmoud came in and uh we can also confirm that if you look up the plane that he was on, there is no transponder data which reflects that trip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-305"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10310, N-10074"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request Provo airport arrival logs and FBO fuel or handling records for late May 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3624",
+   "header": "**C-3624** Host Says the Purple Plane SU-BTU Was Not in Provo on Charlie's Assassination Day",
+   "label": "Host Says the Purple Plane SU-BTU Was Not in Provo on Charlie's Assassination Day",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the plane she labels purple, tail number SU-BTU, was not there on the day of Charlie's assassination but carried the same person in Provo at the end of May."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Purple plane was not there on day Charlie's assassination, but we now have a person that was on that purple plane uh at the end of May."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-305, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10310, N-10074"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check SU-BTU movement history for September 2025 against Provo airport records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3625",
+   "header": "**C-3625** Host Says SU-BTU Departed Provo on June 2 Without Transponding",
+   "label": "Host Says SU-BTU Departed Provo on June 2 Without Transponding",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:32"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says SU-BTU flew into Provo May 27, departed June 2 and was not transponding, so no record can be found on flight tracking, and she suggests the named person may be a pilot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "May 27th, SUBTU flies into Provo with Wii Makmoud aboard. Maybe it's a pilot. I don't know. Uh then we've got it departs on June 2nd and it is not transponding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-305"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10310, N-10074"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Seek non-ADS-B sources such as FAA flight plans, Provo tower logs or Customs records for June 2, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3627",
+   "header": "**C-3627** Host Says Project Constitution Is Confusing BTT With BTU",
+   "label": "Host Says Project Constitution Is Confusing BTT With BTU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:01"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that Project Constitution's post is confusing BTT with BTU, and that she and her team were always talking about BTT."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And just so you know, he's confusing BTT. He's talking about BTU. We were always talking about BTT."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1496.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10897, N-10310"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-3626"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reconcile tail numbers SU-BTT and SU-BTU against the aircraft registry and the Egyptian presidency page cited by Project Constitution."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3629",
+   "header": "**C-3629** Host Says the Two Egyptian Planes Can Now Be Connected Through Presidential Use",
+   "label": "Host Says the Two Egyptian Planes Can Now Be Connected Through Presidential Use",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, with the presidency's April 3, 2023 flight on BTU, the BTU and BTT planes can now be connected despite the mix-up in the post."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "so BTU and again he's mixing it up with BTT. But we can now connect these two planes."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1500.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10897, N-10253"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3626"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document what link between SU-BTU and SU-BTT the host relies on, such as shared operator, fleet or ownership records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3630",
+   "header": "**C-3630** Host Says El-Sisi Was Photographed in Egypt Multiple Times the Week of the May Provo Trip",
+   "label": "Host Says El-Sisi Was Photographed in Egypt Multiple Times the Week of the May Provo Trip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:17:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says President El-Sisi can also be ruled out as the individual in Provo in May because he was photographed multiple times that week in Egypt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We can also rule him out as having been the individual that was in Provo back in May because he was again photographed multiple times throughout that week in Egypt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-714"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10310"
+    },
+    {
+     "k": "Supports",
+     "v": "C-3628"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect dated Egyptian presidency photographs and press reports for the week of May 27, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3631",
+   "header": "**C-3631** Host Infers Wedi Machmood Is Almost Certainly Well Acquainted With the Egyptian President",
+   "label": "Host Infers Wedi Machmood Is Almost Certainly Well Acquainted With the Egyptian President",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:18:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host infers that Wedi Machmood is not the Egyptian president but is almost certainly well acquainted with him, since military planes that fly presidents would not carry a random wealthy Egyptian."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But he is almost certainly well acquainted with the president of Egypt because planes that fly presidents around uh military planes are not going to"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-305, N-714"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10309"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who held the name Wedi Machmood and any link to Egyptian presidential staff, aircrew or family."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3632",
+   "header": "**C-3632** Host Repeats She Will Appear Virtually Any Time Through the End of the Year",
+   "label": "Host Repeats She Will Appear Virtually Any Time Through the End of the Year",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:37"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she can do the debate that day, that night, at 1:00 a.m. or any day through the end of the year if TPUSA sends her a link."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We can do this through the end of the year anytime. Okay? Just send me a link and we will appear virtually."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10804"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check whether TPUSA responded to the host's public offer of any-time virtual participation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3633",
+   "header": "**C-3633** Host Says No Government Has Formally Denied Her Claim That France Tried to Assassinate Her",
+   "label": "Host Says No Government Has Formally Denied Her Claim That France Tried to Assassinate Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says neither the White House, the Elysee Palace nor the Pentagon has formally denied her claim that France tried to assassinate her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "neither the White House or the Elise Palace or even the United States Pentagon has formally denied this quote unquote crazy claim?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10064, N-10567, N-10316"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Search White House, Elysee and Department of Defense statements and briefings for any denial of the host's claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3635",
+   "header": "**C-3635** Host Plays a Comedian Clip Joking About Slapping Someone and Calls It a Violent Joke Double Standard",
+   "label": "Host Plays a Comedian Clip Joking About Slapping Someone and Calls It a Violent Joke Double Standard",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a clip of a comedian whose name the transcript gives as Ace Smart joking about slapping someone, and presents it as a violent joke that her critics treat as acceptable humor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I wonder if I slap the out you, would that be anti-semitic? Cuz I don't want to be anti-semitic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2735.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the comedian, the original video and who the joke targets."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3637",
+   "header": "**C-3637** Turek Says Charlie Was Going to Dinner With Blake and Danny the Night Before",
+   "label": "Turek Says Charlie Was Going to Dinner With Blake and Danny the Night Before",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Frank Turek says that after a meeting with Blake Neff and Charlie the night before the murder, Charlie said Turek's dinner companions were Blake and Danny."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he said, \"Hey, you're going to dinner with Blake and and Danny.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1498.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-159, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify Danny and obtain the dinner reservation, receipts or witness accounts for September 9, 2025."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3638",
+   "header": "**C-3638** Host Says TPUSA Recounts the Night-Before Praise but Omits Charlie's Text That He Thought They Would Kill Him",
+   "label": "Host Says TPUSA Recounts the Night-Before Praise but Omits Charlie's Text That He Thought They Would Kill Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that TPUSA is relaying everything Charlie said the night before except that he texted them that he thought they were going to kill him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "except for when he texted you guys and said that he thought they were going to kill him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10340"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full text thread of the night-before messages and test whether any message says Charlie thought he would be killed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3639",
+   "header": "**C-3639** Host Says Charlie Told Josh Hammer His Book Was the Greatest Thing",
+   "label": "Host Says Charlie Told Josh Hammer His Book Was the Greatest Thing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host sarcastically says Charlie told Josh Hammer his book was the greatest thing and everyone should buy it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He told J uh Josh Hammer that his book was the greatest thing and everyone should buy Josh Hammer's book."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-55, N-1"
+    },
+    {
+     "k": "Supports",
+     "v": "C-1540"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Hammer's JTV interview and released texts with the host's paraphrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3640",
+   "header": "**C-3640** Host Says North of 95 Percent of Murders Are Committed by Someone the Victim Knows",
+   "label": "Host Says North of 95 Percent of Murders Are Committed by Someone the Victim Knows",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:45"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she thinks north of 95 percent of murders are committed by somebody the victim knows."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it's like a very high percentage of murders that are committed by somebody else they know. I think it's like north of 95% of murders."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the figure with FBI Uniform Crime Reporting and Bureau of Justice Statistics homicide victim-offender relationship data."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3642",
+   "header": "**C-3642** Tim Pool Says the Host Insinuates TPUSA Literally Killed Charlie",
+   "label": "Tim Pool Says the Host Insinuates TPUSA Literally Killed Charlie",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Tim Pool says the host continually insinuates that Turning Point literally killed the man who made them all rich."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "She continually crosses the line every day insinuating that Turning Point literally killed the guy who made them all rich."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1499.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-267, N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the full Tim Pool broadcast for exact wording and what host statements he refers to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3643",
+   "header": "**C-3643** Host Says Trump Asked If People Are Still Talking About the Epstein Files",
+   "label": "Host Says Trump Asked If People Are Still Talking About the Epstein Files",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Donald Trump, as president, looked the public in the face and said, \"Are we still talking about the Epstein files?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Donald Trump who's the president of the United States and look us in the face and said, \"Are we still talking about the Epstein files?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-5"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10324"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the Trump remark and its date in press-conference or interview transcripts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3644",
+   "header": "**C-3644** Host Says She Was Willing to Attend Within Reason If the Event Was Planned Together",
+   "label": "Host Says She Was Willing to Attend Within Reason If the Event Was Planned Together",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was willing to go to Turning Point USA within reason if the two sides had a conversation and planned and booked it together."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "and I was actually willing to do that within reason. Like I mean like if we had a conversation and tried to plan it and book it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10804"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's contemporaneous public statements about attending in person."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3645",
+   "header": "**C-3645** Host Alleges TPUSA Is Working With the Feds to Bury the Charlie Kirk Story",
+   "label": "Host Alleges TPUSA Is Working With the Feds to Bury the Charlie Kirk Story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host alleges that Turning Point USA is working with the feds to bury the Charlie Kirk story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They are working with the feds um to kind of bury the Charlie Kirk story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify any documented TPUSA contact or coordination with federal agencies about the investigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3646",
+   "header": "**C-3646** Host Says Charlie Wanted TPUSA to Stay a Youth Organization and Take Over for the RNC With Youth",
+   "label": "Host Says Charlie Wanted TPUSA to Stay a Youth Organization and Take Over for the RNC With Youth",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie was intentional that TPUSA be a youth organization, did not want it to become the RNC, and wanted to take over for the RNC with youth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He didn't want to become the RNC. In fact, he wanted to take over for the RNC with youth um and a commitment to truth."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find Charlie Kirk's own recorded statements on TPUSA's relationship to the RNC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3647",
+   "header": "**C-3647** Host Says Tyler Bowyer Emailed Asking for Her Lawyer's Address After Days of Contact",
+   "label": "Host Says Tyler Bowyer Emailed Asking for Her Lawyer's Address After Days of Contact",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Tyler Bowyer sent an email asking for her lawyer's email even though they had been in communication two days earlier, and that her lawyer is Noah."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He sent an email was like, \"What's your lawyer's email? What do you mean? What is my lawyer's email?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2737.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-11"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Bowyer email and the prior exchange from two days earlier, if the host releases them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3648",
+   "header": "**C-3648** Host Reads Project Constitution Saying He Has Proof Tim Pool Uses Bots",
+   "label": "Host Reads Project Constitution Saying He Has Proof Tim Pool Uses Bots",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a chat message from Project Constitution saying he now has proof that Tim Pool uses bots and that receipts will drop in the next few weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have proof now that Tim P uses bots. Stay tuned. Receipts dropping in the next few weeks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2736.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-267"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10897"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch for Project Constitution's promised release and verify the bot evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3649",
+   "header": "**C-3649** Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes",
+   "label": "Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host tells Project Constitution, who is in the chat, that she hopes he was okay with her editing his post on air, that she thinks he took BTU for BTT, and that this is fine since now they can connect the two planes at the very least."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I think you thought BTU uh was BTT, but that's actually okay because now we can connect those two planes at the very least."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-2736.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10897"
+    },
+    {
+     "k": "Qualifies",
+     "v": "C-3626"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Project Constitution which registrations and sources he used to link the two aircraft."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3650",
+   "header": "**C-3650** Host Alleges TPUSA Is Paying Influencers for an Influence Campaign",
+   "label": "Host Alleges TPUSA Is Paying Influencers for an Influence Campaign",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she can see TPUSA's influence campaign and tells it to stop paying the influencers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we can see the influence campaign, too. So, please just stop doing it. Like, stop paying the influencers because it's a waste of your money"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-11017"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request disclosure of TPUSA payments or contracts to influencers and any sponsored posts about the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-3651",
+   "header": "**C-3651** Host Says Charlie Authentically Loved Israel and Then Had Questions After October 7",
+   "label": "Host Says Charlie Authentically Loved Israel and Then Had Questions After October 7",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:35"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie authentically loved Israel and then authentically had questions after October 7."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "He authentically loved Israel. And then he authentically had questions after October 7th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile Charlie Kirk's public statements on Israel before and after October 7, 2023."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-29",
+   "header": "**M-29** (meme) You Can't Make This Up",
+   "label": "(meme) You Can't Make This Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:01:17"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "ically the transparency of the things that they are doing. Uh you you can't make this up. They are just so obvious so obviously trying to hide some..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of You Can't Make This Up in CKA seq 41."
+    },
+    {
+     "k": "Tags",
+     "v": "incredulity, headline, sarcasm, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-3",
+   "header": "**M-3** (meme) Trust the Science",
+   "label": "(meme) Trust the Science",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:02"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Trust the science."
+    },
+    {
+     "k": "Context",
+     "v": "Host introduces the Frank Turek clip about Blake Neff with the Trust the Science bit."
+    },
+    {
+     "k": "Tags",
+     "v": "sarcasm, clip intro"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:29:45"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "It's so fake and gay."
+    },
+    {
+     "k": "Context",
+     "v": "Host describes TPUSA's tributes to Blake Neff as inauthentic."
+    },
+    {
+     "k": "Tags",
+     "v": "fake, authenticity"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Everything does just genuinely feel so fake and gay and performative"
+    },
+    {
+     "k": "Context",
+     "v": "Host says only authenticity will float in this new era."
+    },
+    {
+     "k": "Tags",
+     "v": "fake, authenticity"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-18",
+   "header": "**M-18** (meme) Make Him a Sandwich",
+   "label": "(meme) Make Him a Sandwich",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:41"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Make Him a Sandwich is now on sale."
+    },
+    {
+     "k": "Context",
+     "v": "Host promotes her book Make Him a Sandwich."
+    },
+    {
+     "k": "Tags",
+     "v": "book, promo"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-33",
+   "header": "**M-33** (meme) Just Asking Questions",
+   "label": "(meme) Just Asking Questions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm just asking questions."
+    },
+    {
+     "k": "Context",
+     "v": "Host closes her point about who directed Cam Higby to ask the Pentagon question."
+    },
+    {
+     "k": "Tags",
+     "v": "questions, sarcasm"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-103",
+   "header": "**M-103** (meme) Snakes in Charlie's Garden",
+   "label": "(meme) Snakes in Charlie's Garden",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:07"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Of course, there are snakes in the garden."
+    },
+    {
+     "k": "Context",
+     "v": "Host says a big organization with money as the motive will have snakes in the garden."
+    },
+    {
+     "k": "Tags",
+     "v": "snakes, TPUSA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-131",
+   "header": "**M-131** (meme) Cool Kids",
+   "label": "(meme) Cool Kids",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:56"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "\"We're the cool kids. We're just gonna laugh at you.\""
+    },
+    {
+     "k": "Context",
+     "v": "Host mocks TPUSA's strategy of laughing off her French-plot claim."
+    },
+    {
+     "k": "Tags",
+     "v": "cool kids, mockery"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You can't sit with us. We're the cool cat."
+    },
+    {
+     "k": "Context",
+     "v": "Host plays a Mean Girls style clip to mock TPUSA's cool-kid posture."
+    },
+    {
+     "k": "Tags",
+     "v": "cool kids, mean girls"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Artifact verbally referenced but not shown:** Host's claim that Cam Higby has been on TPUSA payroll since August 2025 (no visible artifact; fails admission test for claim inscription as artifact-anchored).",
+    "- **Artifact verbally referenced but not shown:** Host's claim that \"Wedi Machmood\" was one of the four passengers on yellow plane SU-BND on September 10, 2025 (manifest/passenger list not displayed).",
+    "- **Artifact verbally referenced but not shown:** Host's claim that SU-BTU flew into Provo on May 27, 2025 with Wedi Machmood aboard and departed June 2, 2025 without transponder data (no flight-tracking artifact displayed; \"verbally referenced\").",
+    "- **Artifact verbally referenced but not shown:** Photograph of El-Sisi with PM Zaafarani on September 10, 2025 (see A-1500.1).",
+    "- **Name uncertainty:** \"Wedi Machmood\" / \"Wi Makmood\" / \"Wed Mahmoud\" – host uses multiple spellings. Spelling preserved as host uttered.",
+    "- **Tail-number inconsistency:** Host alternates between \"BTT,\" \"BTU,\" and \"SUB-TU\" / \"SU-BTU\" within the episode and acknowledges Project Constitution's possible confusion between BTT and BTU. Treat as same evidentiary family (A-1496.1) but flag for cross-episode reconciliation.",
+    "- **Transcript ambiguity:** Several name spellings for the mystery individual (\"Wedi Machmood,\" \"Wi Makmood,\" \"Wed Mahmoud,\" \"Wid Makmoud\") appear across the transcript and may reflect host pronunciation rather than verified spelling.",
+    "- **Possible transcription error:** \"BTU\" and \"BTT\" tail-number inconsistency may be transcription artifact or genuine host/source confusion.",
+    "",
+    "---",
+    "",
+    "*End of Episode 41 Analysis.*"
+   ]
+  }
+ ]
+}

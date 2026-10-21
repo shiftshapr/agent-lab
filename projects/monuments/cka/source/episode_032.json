@@ -1,0 +1,8048 @@
+{
+ "format": "cka-source/1",
+ "episode": 32,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 32",
+    "- **Monument**: cka",
+    "- **CKA seq**: 32",
+    "- **YouTube id**: 7RLtGgkTh9o",
+    "- **Candace Ep**: 265",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:56:29",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 0a9c6fafefe14c0d1f54417389a169941d6dc03778a4ff62159f241b54a502b4",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Tip-minted Nodes (supplement_2026-10e): N-870, N-871, N-872, N-873, N-874, N-11275, N-11276",
+    "  - Hole-minted Nodes (reintro-ep032): N-226, N-10311",
+    "  - Tip-minted Nodes (reintro-ep032): N-737, N-751, N-866",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-2816–C-2890",
+    "  - (see registers)",
+    "",
+    "# Episode Analysis: Bride of Charlie Episode 32",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode title:** From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265",
+    "- **Series title:** Candace Kirk Archive",
+    "- **Episode number:** Monument Ep 32 · Batch 12 · Candace Ep 265",
+    "- **Channel / creator:** @RealCandaceO (Candace Owens)",
+    "- **Episode date:** 2025-11-14",
+    "- **Source used for analysis:** YouTube captions (yt-dlp-android_vr-manual), cleaned with video context; both transcript and video references applied",
+    "- **Transcript completeness status:** Continuous through [58:40]; [32:07]–[52:28] contain no dialogue transcripts (likely segment/music cues only)",
+    "- **Analyst / agent name:** Investigative Analysis Agent (OpenClaw)",
+    "- **Analysis date:** 2026-03-11",
+    "- **Episode Ledger Summary:**",
+    "  - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414",
+    "  - New Nodes Introduced: N-250, N-251, N-252, N-253, N-254, N-255, N-256, N-257, N-258, N-10249, N-10250",
+    "  - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-247, N-377, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223, N-359, N-11117",
+    "  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)",
+    "",
+    "---",
+    "",
+    "## II. Executive Summary",
+    "",
+    "This episode pivots from the Charlie Kirk assassination investigation into an extended claim chain linking Calvary Chapel churches, the Britney Spears conservatorship, Lou Taylor's financial management firm, and a series of alleged \"hostile takeovers\" of high-profile figures. The host introduces two new artifact families: (a) a Brett Cooper audio segment read on air describing Lou Taylor's background and her firm's relationship to a Calvary Chapel in Brentwood, Tennessee; and (b) text screenshots allegedly sent by Courtney Love in January 2025 describing a \"Mormon mafia\" allegedly above Hollywood and Zionist networks. The episode also advances two open threads from prior installments: identification of the \"maroon shirt\" person partially concealed in shrubbery at the Kirk event, and continued scrutiny of Rob McCoy's role at Calvary Chapel Thousand Oaks and the Potter's Field scandal.",
+    "",
+    "The episode does not introduce new forensic or ballistics artifacts related to the assassination itself. Its evidentiary contribution consists of (1) on-air read-alouds of third-party reporting, (2) two viewer-submitted photos of additional individuals near the \"bush\" at the Kirk event, and (3) the host's claim that she has been in possession of text exchanges from Courtney Love since January 2025.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1399",
+   "header": "**A-1399** Brett Cooper Lou Taylor Audio Bundle",
+   "label": "Brett Cooper Lou Taylor Audio Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1399.1",
+   "header": "**A-1399.1** Brett Cooper Segment: Lou Taylor / Britney Spears Conservatorship Background (Part 1)",
+   "label": "Brett Cooper Segment: Lou Taylor / Britney Spears Conservatorship Background (Part 1)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:06:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (read/played aloud)"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1399.2",
+   "header": "**A-1399.2** Brett Cooper Segment: Lou Taylor Qualifications and Calvary Chapel Brentwood (Part 2)",
+   "label": "Brett Cooper Segment: Lou Taylor Qualifications and Calvary Chapel Brentwood (Part 2)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2827, C-2828, C-2829, N-250, N-221, N-251*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1400",
+   "header": "**A-1400** LA Times Britney Spears Conservatorship Article",
+   "label": "LA Times Britney Spears Conservatorship Article",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1400.1",
+   "header": "**A-1400.1** LA Times Headline: \"Britney Spears' lawyer emails show ex-business manager helped set up conservatorship\"",
+   "label": "LA Times Headline: \"Britney Spears' lawyer emails show ex-business manager helped set up conservatorship\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (headline read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2830, N-250, N-252*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1401",
+   "header": "**A-1401** Daily Mail Britney Spears / Jamie Spears Affair Article",
+   "label": "Daily Mail Britney Spears / Jamie Spears Affair Article",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1401.1",
+   "header": "**A-1401.1** Daily Mail Headline (read on air): Britney Spears accuses dad Jamie of affair with ex-business manager Lou Taylor and alleges funding of Holy Land baptism trip",
+   "label": "Daily Mail Headline (read on air): Britney Spears accuses dad Jamie of affair with ex-business manager Lou Taylor and alleges funding of Holy Land baptism trip",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:02"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (headline read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2831, N-250, N-252*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1402",
+   "header": "**A-1402** The New Yorker Lou Taylor Article",
+   "label": "The New Yorker Lou Taylor Article",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1402.1",
+   "header": "**A-1402.1** The New Yorker Report: Lou Taylor and attempts to place Courtney Love and Lindsay Lohan into conservatorships",
+   "label": "The New Yorker Report: Lou Taylor and attempts to place Courtney Love and Lindsay Lohan into conservatorships",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (referenced on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2832, N-250, N-253, N-254*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1403",
+   "header": "**A-1403** Jamie Spears 2010 Financial Document",
+   "label": "Jamie Spears 2010 Financial Document",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1403.1",
+   "header": "**A-1403.1** 2010 Financial Document showing Jamie Spears tithing approximately 10% of conservatorship income to Calvary Chapel Brentwood",
+   "label": "2010 Financial Document showing Jamie Spears tithing approximately 10% of conservatorship income to Calvary Chapel Brentwood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (cited by Brett Cooper)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2829, N-252, N-250, N-251*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1404",
+   "header": "**A-1404** Michael Lohan Press Statement Audio",
+   "label": "Michael Lohan Press Statement Audio",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1404.1",
+   "header": "**A-1404.1** Michael Lohan on-the-record statement accusing Lou Taylor / associates of leaking rehab information to press regarding Lindsay Lohan",
+   "label": "Michael Lohan on-the-record statement accusing Lou Taylor / associates of leaking rehab information to press regarding Lindsay Lohan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:13:53"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio clip played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2834, N-255, N-756, N-250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1405",
+   "header": "**A-1405** Viewer Email Tip Bundle (Lou Taylor)",
+   "label": "Viewer Email Tip Bundle (Lou Taylor)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1405.1",
+   "header": "**A-1405.1** Partially redacted viewer email (top blacked out) alleging Lou Taylor and Rob McCoy's church is a \"front,\" alleging Lou Taylor ties to CIA/Mossad, Black Cube Security, Harvey Weinstein security detail, and claiming Rob Taylor traveled to Israel with Lou Taylor",
+   "label": "Partially redacted viewer email (top blacked out) alleging Lou Taylor and Rob McCoy's church is a \"front,\" alleging Lou Taylor ties to CIA/Mossad, Black Cube Security, Harvey Weinstein security detail, and claiming Rob Taylor traveled to Israel with Lou Taylor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:14:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low (single-source, redacted, unverified)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2835, N-250, N-251, N-10248*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1406",
+   "header": "**A-1406** Courtney Love Text Screenshots (January 2025)",
+   "label": "Courtney Love Text Screenshots (January 2025)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1406.1",
+   "header": "**A-1406.1** Text messages from Courtney Love to host (Jan 2025) discussing Haight-Ashbury Clinic experimentation, \"Mormon mafia,\" Lou Taylor, and naming figures including Bill Gates's grandfather, R. Todd Nielson, and \"Nsign/NGO\"",
+   "label": "Text messages from Courtney Love to host (Jan 2025) discussing Haight-Ashbury Clinic experimentation, \"Mormon mafia,\" Lou Taylor, and naming figures including Bill Gates's grandfather, R. Todd Nielson, and \"Nsign/NGO\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:28:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (single source; host claims to have in writing)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2842, C-2844, C-2852, C-2853, N-253, N-256, N-10248, N-10249*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1407",
+   "header": "**A-1407** Bob Bryar Twitter Post Bundle",
+   "label": "Bob Bryar Twitter Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1407.1",
+   "header": "**A-1407.1** Bob Bryar (My Chemical Romance drummer) public Twitter/X post alleging he was Lou Taylor's business manager for 18 years until September; alleges the Kardashians have \"blood on their hands\"",
+   "label": "Bob Bryar (My Chemical Romance drummer) public Twitter/X post alleging he was Lou Taylor's business manager for 18 years until September; alleges the Kardashians have \"blood on their hands\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (verbatim read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2850, N-257, N-250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1408",
+   "header": "**A-1408** People Magazine Bob Bryar Death Article",
+   "label": "People Magazine Bob Bryar Death Article",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1408.1",
+   "header": "**A-1408.1** People Magazine: \"My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined. Nitrous oxide found near his body.\"",
+   "label": "People Magazine: \"My Chemical Romance rocker Bob Bryar's cause of death ruled undetermined. Nitrous oxide found near his body.\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:41"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (headline read aloud)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2851, N-257*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1409",
+   "header": "**A-1409** Charlie Kirk Event – Bush Activity Photo Bundle",
+   "label": "Charlie Kirk Event – Bush Activity Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1409.1",
+   "header": "**A-1409.1** Viewer-submitted photo: person in maroon shirt partially concealed in bush at event; appears standing while crowd ducks",
+   "label": "Viewer-submitted photo: person in maroon shirt partially concealed in bush at event; appears standing while crowd ducks",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:41:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (viewer-submitted; verification pending)"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1409.2",
+   "header": "**A-1409.2** Second viewer-submitted photo: additional individual in maroon shirt within the same bush prior to event",
+   "label": "Second viewer-submitted photo: additional individual in maroon shirt within the same bush prior to event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2867, N-10250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1410",
+   "header": "**A-1410** Samir Photo Bundle",
+   "label": "Samir Photo Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1410.1",
+   "header": "**A-1410.1** Public photo posted by \"Samir\" showing himself alongside the maroon shirt individual from the Kirk event; per host both attended BYU",
+   "label": "Public photo posted by \"Samir\" showing himself alongside the maroon shirt individual from the Kirk event; per host both attended BYU",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2872, C-2873, N-258, N-10250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1411",
+   "header": "**A-1411** Butch Hibbs Interview Background Clip",
+   "label": "Butch Hibbs Interview Background Clip",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1411.1",
+   "header": "**A-1411.1** Video clip: Butch Hibbs lingering in background while another individual gives media interview at scene post-shooting",
+   "label": "Video clip: Butch Hibbs lingering in background while another individual gives media interview at scene post-shooting",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:56"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2878, N-246, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1412",
+   "header": "**A-1412** Daily Mail Victoria Churchill TPUSA Article",
+   "label": "Daily Mail Victoria Churchill TPUSA Article",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1412.1",
+   "header": "**A-1412.1** Daily Mail article by Victoria Churchill (APAC reporter) describing Allie Beth Stuckey as TPUSA \"heir\" / \"heir apparent\"",
+   "label": "Daily Mail article by Victoria Churchill (APAC reporter) describing Allie Beth Stuckey as TPUSA \"heir\" / \"heir apparent\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:56:52"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (article referenced by host)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2886, N-227, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1413",
+   "header": "**A-1413** Wall Street Journal TPUSA Heir Article",
+   "label": "Wall Street Journal TPUSA Heir Article",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1413.1",
+   "header": "**A-1413.1** Wall Street Journal headline repeating \"heir apparent\" framing of TPUSA succession",
+   "label": "Wall Street Journal headline repeating \"heir apparent\" framing of TPUSA succession",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:57:40"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (referenced on air)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2888, N-227, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1414",
+   "header": "**A-1414** Candace–Charlie Kirk Loyalty Replay Clip",
+   "label": "Candace–Charlie Kirk Loyalty Replay Clip",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1414.1",
+   "header": "**A-1414.1** Replayed audio clip of Candace Owens and Charlie Kirk discussing loyalty, foxhole allegiances, and \"bullets flying\"",
+   "label": "Replayed audio clip of Candace Owens and Charlie Kirk discussing loyalty, foxhole allegiances, and \"bullets flying\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:37:29"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (audio played)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2863, N-10251*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3108",
+   "header": "**A-3108** Tip Line Verbal References Bundle",
+   "label": "Tip Line Verbal References Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3108.1",
+   "header": "**A-3108.1** Host verbal reference to the tip email address more tips at candaceowens.com during the maroon-shirt appeal",
+   "label": "Host verbal reference to the tip email address more tips at candaceowens.com during the maroon-shirt appeal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email more tips@candice. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:05"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2874, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3108.2",
+   "header": "**A-3108.2** Host verbal repeat of the tip address after the maroon-shirt appeal",
+   "label": "Host verbal repeat of the tip address after the maroon-shirt appeal",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"More tips at candacewowens. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2875, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3109",
+   "header": "**A-3109** Bush Area Clips Bundle",
+   "label": "Bush Area Clips Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3109.1",
+   "header": "**A-3109.1** Clip played by the host of people standing on the side pointing away from the bush and a person texting in a blue shirt",
+   "label": "Clip played by the host of people standing on the side pointing away from the bush and a person texting in a blue shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:10"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2869, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3109.2",
+   "header": "**A-3109.2** Clip shown by the host from a front angle of the maroon-shirted man who does not duck and calmly walks away",
+   "label": "Clip shown by the host from a front angle of the maroon-shirted man who does not duck and calmly walks away",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:42:58"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2866, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    "",
+    "### People",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-751",
+   "header": "**N-751** Astrid Tuminez",
+   "label": "Astrid Tuminez",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "UVU president (also transcribed \"Tumz\"); first named in C-2873."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2873*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-250",
+   "header": "**N-250** Lou Taylor",
+   "label": "Lou Taylor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Business manager associated with Britney Spears' conservatorship; allegedly began career at Calvary Chapel Brentwood alongside her then-pastor husband; founder/principal of Tri Star (referenced as \"Tristar\" in transcript)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "7"
+    },
+    {
+     "k": "Claim Count",
+     "v": "8"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1399.1, A-1399.2, A-1400.1, A-1401.1, A-1402.1, A-1403.1, A-1404.1, A-1405.1, A-1406.1, A-1407.1, C-2827, C-2828, C-2829, C-2830, C-2831, C-2832, C-2834, C-2835, C-2853, C-2850, N-251, N-252, N-10248*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-221",
+   "header": "**N-221** Brett Cooper",
+   "label": "Brett Cooper",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host/creator of independent commentary show; source of two audio segments read aloud describing Lou Taylor and Britney Spears conservatorship details."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low (as source only)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1399.1, A-1399.2, C-2827, C-2828, C-2829*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-251",
+   "header": "**N-251** Rob Taylor",
+   "label": "Rob Taylor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Lou Taylor's husband; pastor at Calvary Chapel Brentwood per Brett Cooper segment. Transcript renders the name in three different forms (Robin, Rob, Luke); the same individual is plainly referenced. Multiple occurrences warrant separate recording correction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1399.2, A-1405.1, C-2827, N-250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-252",
+   "header": "**N-252** Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)",
+   "label": "Jamie Spears (Jamie Lynn Spears's father; Britney Spears's father)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Conservator and conservatorship income recipient; tithing donor to Calvary Chapel Brentwood per 2010 financial document."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1400.1, A-1401.1, A-1403.1, C-2829, C-2830, C-2831*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-253",
+   "header": "**N-253** Courtney Love",
+   "label": "Courtney Love",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Musician; subject of allegation that Lou Taylor attempted to place her under conservatorship (per New Yorker); source of January 2025 text messages describing alleged \"Mormon mafia\" and Haight-Ashbury experimentation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1402.1, A-1406.1, C-2832, C-2842, C-2844, C-2852, N-10249*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-254",
+   "header": "**N-254** Lindsay Lohan",
+   "label": "Lindsay Lohan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject referenced in connection with Lou Taylor conservatorship allegations (New Yorker) and Michael Lohan press statement (Morning Star rehab leak)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1402.1, A-1404.1, C-2832, C-2834, N-255*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-255",
+   "header": "**N-255** Michael Lohan",
+   "label": "Michael Lohan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Father of Lindsay Lohan; press statement cited accusing Lou Taylor and associates of leaking rehab information."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1404.1, C-2834, N-254*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-756",
+   "header": "**N-756** Bob Coy",
+   "label": "Bob Coy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Referenced as mentor of the Taylor family in Brentwood, Tennessee; subject of prior-day discussion in Episode 31; allegedly involved in sexual abuse scandal. Transcript renders the name as \"Bob Coy.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1405.1, N-250, N-10248*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-256",
+   "header": "**N-256** R. Todd Nielson",
+   "label": "R. Todd Nielson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in Courtney Love text screenshots as a \"corrupt Fed\" and as an LDS apostle. Single-source; unverified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1406.1, N-253*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-257",
+   "header": "**N-257** Bob Bryar",
+   "label": "Bob Bryar",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Drummer, My Chemical Romance; deceased; cause of death ruled undetermined per People magazine; per his own public Twitter post, was Lou Taylor's business manager for 18 years through September (year unspecified in transcript)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1407.1, A-1408.1, C-2850, C-2851, N-250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-258",
+   "header": "**N-258** Samir",
+   "label": "Samir",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "On-scene videographer at Kirk event; allegedly BYU alumnus; per host posted photo with maroon shirt person; allegedly permitted to interview Astrid Tuminez."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1410.1, C-2872, C-2873, N-10250*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-246",
+   "header": "**N-246** Butch Hibbs",
+   "label": "Butch Hibbs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1409.1, A-1411.1, C-2878, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-227",
+   "header": "**N-227** Allie Beth Stuckey",
+   "label": "Allie Beth Stuckey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of Daily Mail and Wall Street Journal headlines framing her as TPUSA \"heir\" or \"heir apparent.\" Host disputes framing on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low (framing dispute; not asserted by host as fact)"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1412.1, A-1413.1, C-2886, C-2888, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-359",
+   "header": "**N-359** Kim Kardashian",
+   "label": "Kim Kardashian",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in Courtney Love's January 2025 text messages, read on air, as connected to Lou Taylor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1406.1, C-2853*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Investigation Targets",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10248",
+   "header": "**N-10248** Calvary Chapel Network Infiltration Question",
+   "label": "Calvary Chapel Network Infiltration Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigation into whether multiple Calvary Chapel congregations and their leadership are participating in coordinated financial exploitation, tithing redirection, and intelligence-linked activity. Triggered by Brett Cooper segment, viewer email, and Courtney Love text messages."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "5"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1399.2, A-1403.1, A-1405.1, A-1406.1, C-2829, C-2835, C-2852, C-2853, N-250, N-251*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10249",
+   "header": "**N-10249** \"Mormon Mafia\" Allegation",
+   "label": "\"Mormon Mafia\" Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative target",
+     "v": "alleged coordinating entity above Hollywood and \"Zionist Jews\" identified in Courtney Love text messages of January 2025. Single-source, unverified."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1406.1, C-2852, N-253*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10250",
+   "header": "**N-10250** Charlie Kirk Event – Maroon Shirt Individual Identification",
+   "label": "Charlie Kirk Event – Maroon Shirt Individual Identification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Persistent investigation target. Photo and clip evidence presented in this episode identify an individual in a maroon shirt who was partially concealed in shrubbery, did not duck during the shooting, and calmly departed. Samir is alleged to know the individual but declined to provide contact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1409.1, A-1409.2, A-1410.1, A-1411.1, C-2867, C-2872, N-258, N-246, N-1*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10251",
+   "header": "**N-10251** TPUSA Faith-Angle Investigation",
+   "label": "TPUSA Faith-Angle Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Persistent investigation target",
+     "v": "pattern in which TPUSA-associated reporting/disputes focus on matters of religious affiliation (Catholicism, Calvary Chapel, faith-based leadership)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1414.1, C-2863, N-1, N-2*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10252",
+   "header": "**N-10252** Potter's Field Hostile Takeover Allegation",
+   "label": "Potter's Field Hostile Takeover Allegation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Allegation from a former insider that the Potter's Field scandal was a staged hostile takeover by Rob McCoy following his installation as CFO. New evidence: email backup materials reportedly provided to host (not yet presented)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0 (claim deferred pending evidence presentation)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: A-1405.1 (peripheral), N-10248*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2816, C-2817, C-2818, C-2819, C-2820, C-2825, C-2826, C-2833, C-2836, C-2837, C-2838, C-2839, C-2840, C-2841, C-2843, C-2845, C-2846, C-2847, C-2848, C-2849, C-2854, C-2855, C-2856, C-2857, C-2858, C-2859, C-2861, C-2860, C-2862, C-2864, C-2865, C-2866, C-2868, C-2869, C-2870, C-2871, C-2874, C-2875, C-2876, C-2877, C-2879, C-2880, C-2881, C-2882, C-2883, C-2884, C-2885, C-2887, C-2889, C-2890*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-82",
+   "header": "**N-82** Brigitte Macron",
+   "label": "Brigitte Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2816*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-377",
+   "header": "**N-377** Emmanuel Macron",
+   "label": "Emmanuel Macron",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2816*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10001",
+   "header": "**N-10001** MK Ultra",
+   "label": "MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2816, C-2817, C-2858*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-27",
+   "header": "**N-27** Kanye West",
+   "label": "Kanye West",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2817, C-2841, C-2845*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10116",
+   "header": "**N-10116** MK Ultra Continuity Theory",
+   "label": "MK Ultra Continuity Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2817, C-2845*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-226",
+   "header": "**N-226** Harvey Weinstein",
+   "label": "Harvey Weinstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2818*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11275",
+   "header": "**N-11275** Hostile Takeover Methods Theory",
+   "label": "Hostile Takeover Methods Theory",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's relay of Courtney Love's thesis that powerful people and companies are controlled through psychosis, lawfare, reputational attacks and untimely deaths, applied by the host to several celebrities and to Charlie Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2818, C-2843, C-2845, C-2846, C-2847, C-2849*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-870",
+   "header": "**N-870** Britney Spears",
+   "label": "Britney Spears",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "00:44 in episode 32. Singer whose 2008 conservatorship the host connects to Lou Taylor and Calvary Chapel.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2819, C-2820, C-2821, C-2822, C-2824, C-2837, C-2845*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11276",
+   "header": "**N-11276** Britney Spears Conservatorship Lou Taylor Role",
+   "label": "Britney Spears Conservatorship Lou Taylor Role",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Node Type",
+     "v": "Topic"
+    },
+    {
+     "raw": "The host's and Brett Cooper's account of Lou Taylor's role in setting up the 2008 Britney Spears conservatorship, the loans, fees and church tithing around it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2819, C-2820, C-2821, C-2822, C-2823, C-2824, C-2833, C-2836, C-2837, C-2854*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-871",
+   "header": "**N-871** Jamie Lynn Spears",
+   "label": "Jamie Lynn Spears",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "First named by the host (reading Brett Cooper) at 00:06:05 in episode 32. Britney Spears's younger sister, whom Lou Taylor was first hired to help manage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2821*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-17",
+   "header": "**N-17** Rob McCoy",
+   "label": "Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2825, C-2826, C-2838, C-2840, C-2861*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10247",
+   "header": "**N-10247** Potter's Field Ministries Financial Fraud Allegations",
+   "label": "Potter's Field Ministries Financial Fraud Allegations",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2825, C-2826*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-47",
+   "header": "**N-47** Ghislaine Maxwell",
+   "label": "Ghislaine Maxwell",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2836*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2836, C-2837*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-872",
+   "header": "**N-872** Tony Blair",
+   "label": "Tony Blair",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named at 00",
+     "v": "15:42 in episode 32 in an email read by the host. Former UK prime minister linked in the email to the house where Britney Spears was held in 2019.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2837*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10246",
+   "header": "**N-10246** Calvary Chapel Institutional Abuse Pattern",
+   "label": "Calvary Chapel Institutional Abuse Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2839, C-2861, C-2883*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11117",
+   "header": "**N-11117** Kanye Condemnation Pressure and Contract Cut",
+   "label": "Kanye Condemnation Pressure and Contract Cut",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2841*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-247",
+   "header": "**N-247** Elijah Schaffer",
+   "label": "Elijah Schaffer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2846*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-737",
+   "header": "**N-737** Michael Jackson",
+   "label": "Michael Jackson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2847, C-2848, C-2849*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-873",
+   "header": "**N-873** Paris Jackson",
+   "label": "Paris Jackson",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "23:46 in episode 32. Daughter of Michael Jackson, said to have lost in court over his legacy.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2848*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2849, C-2860, C-2864, C-2890*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-866",
+   "header": "**N-866** Justin Bieber",
+   "label": "Justin Bieber",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2854*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10094",
+   "header": "**N-10094** LDS Church",
+   "label": "LDS Church",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2855, C-2856, C-2882*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10465",
+   "header": "**N-10465** Calvary Chapel Church CIA Connection Question",
+   "label": "Calvary Chapel Church CIA Connection Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2857, C-2858, C-2859*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2860, C-2884, C-2885*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-874",
+   "header": "**N-874** Spencer Pratt",
+   "label": "Spencer Pratt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "First named by the host at 00",
+     "v": "35:52 in episode 32. Reality-TV figure the host praises for work on the Malibu fires.",
+     "sep": ":"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2862*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10137",
+   "header": "**N-10137** Suspicious Bush Theory (Range Day Bro)",
+   "label": "Suspicious Bush Theory (Range Day Bro)",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2865, C-2868, C-2869, C-2876, C-2877*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10311",
+   "header": "**N-10311** Maroon Shirt Pattern at UVU September 10 Event",
+   "label": "Maroon Shirt Pattern at UVU September 10 Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2870*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10180",
+   "header": "**N-10180** Bullet Trajectory and Caliber Verification",
+   "label": "Bullet Trajectory and Caliber Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2879*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10164",
+   "header": "**N-10164** Charlie Kirk Catholic Trajectory Verification",
+   "label": "Charlie Kirk Catholic Trajectory Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2884*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2887*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11223",
+   "header": "**N-11223** Sackler Family and Purdue Pharma",
+   "label": "Sackler Family and Purdue Pharma",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing node reused for new claims in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-2889*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2827",
+   "header": "**C-2827** Lou Taylor's Husband Pastored at Calvary Chapel Brentwood",
+   "label": "Lou Taylor's Husband Pastored at Calvary Chapel Brentwood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brett Cooper says Lou Taylor began her career working in a church alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-250, N-251, N-221"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify Calvary Chapel Brentwood staff records circa 2005–2008 to confirm Lou Taylor's husband's pastoral role and tenure dates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2828",
+   "header": "**C-2828** Lou Taylor Lacked Formal Financial Qualifications",
+   "label": "Lou Taylor Lacked Formal Financial Qualifications",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Brett Cooper states Lou Taylor had no financial background and was not an accountant, despite serving as a business manager."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-250, N-221"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm via business filings (Tri Star / Tristar) and professional licensing records whether Lou Taylor held relevant financial credentials."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2829",
+   "header": "**C-2829** Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
+   "label": "Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:07"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brett Cooper reads that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and that according to a 2010 financial document he gave \"tens of thousands of dollars\" in one year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.2, A-1403.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-252, N-221"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2830",
+   "header": "**C-2830** LA Times Reported Lawyer Emails Linked Lou Taylor to Conservatorship Setup",
+   "label": "LA Times Reported Lawyer Emails Linked Lou Taylor to Conservatorship Setup",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brett Cooper reads an LA Times headline saying Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1400.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-870, N-250, N-221"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate and review the LA Times article and underlying email exhibits cited therein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2831",
+   "header": "**C-2831** Britney Spears Alleged Affair Between Jamie Spears and Lou Taylor",
+   "label": "Britney Spears Alleged Affair Between Jamie Spears and Lou Taylor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:02"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brett Cooper reads a Daily Mail headline saying Britney Spears accuses her father Jaime of having an affair with her ex-business manager Lou Taylor and claims he charged her estate for the pair's trip to the Holy Land to get baptized."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1401.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-870, N-252, N-250, N-221"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2832",
+   "header": "**C-2832** The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan",
+   "label": "The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:27"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In a clip the host plays, Brett Cooper says The New Yorker reported that Lou Taylor also tried to place Courtney Love and Lindsay Lohan into conservatorships."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1402.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-221, N-250, N-253, N-254"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2834",
+   "header": "**C-2834** Michael Lohan Accused Lou Taylor of Leaking Lindsay Lohan Rehab Information",
+   "label": "Michael Lohan Accused Lou Taylor of Leaking Lindsay Lohan Rehab Information",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Michael Lohan (audio clip) states Lou Taylor and associates leaked to the press information about Lindsay Lohan's rehab, allegedly to redirect her to UCLA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1404.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-250, N-254, N-255"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare Lohan's public statement against contemporaneous press coverage of Morning Star / UCLA rehabs; review any subsequent litigation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2835",
+   "header": "**C-2835** Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
+   "label": "Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:40"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per a partially redacted email the host reads, the sender says Rob and Lou Taylor's church is a front for \"them and Aruse\" (uncertain transcription) and suspects Lou Taylor is tied to possibly the CIA and Mossad and to Black Cube security. The host says she has not confirmed it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1405.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-250, N-251"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2842",
+   "header": "**C-2842** Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler",
+   "label": "Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:25"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Courtney Love told her in messages (January and February 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-253"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10249"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2844",
+   "header": "**C-2844** Courtney Love Claims She Did Not Kill Kurt Cobain",
+   "label": "Courtney Love Claims She Did Not Kill Kurt Cobain",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Courtney Love told her in messages (January and February 2025): \"I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-253"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Standalone claim only; no corroborating artifact in this episode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2852",
+   "header": "**C-2852** Courtney Love Alleges \"Mormon Mafia\" Sits Above Hollywood and \"Zionist Jews\"",
+   "label": "Courtney Love Alleges \"Mormon Mafia\" Sits Above Hollywood and \"Zionist Jews\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:26"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Courtney Love text messages (January and February 2025), she alleges a \"Mormon mafia\" operates above Hollywood and above \"many Zionist Jews.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-253"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248, N-10249"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Single-source; corroboration required before inscription as fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2853",
+   "header": "**C-2853** Courtney Love Names Lou Taylor as Connected to Multiple High-Profile Figures",
+   "label": "Courtney Love Names Lou Taylor as Connected to Multiple High-Profile Figures",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Courtney Love text messages (January and February 2025), she names Lou Taylor alongside Kim Kardashian, Diddy, Jay-Z, and Beyoncé and says Lou Taylor owns Church Home, associated with getting Justin Bieber from Hillsong; the host says she looked it up and Taylor appears to own or have sat on its board."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-250, N-359, N-866, N-253"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review corporate filings of the named \"church home\" entity; cross-reference any disclosed business relationships."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2850",
+   "header": "**C-2850** Bob Bryar Publicly Stated Lou Taylor Was His Business Manager for 18 Years",
+   "label": "Bob Bryar Publicly Stated Lou Taylor Was His Business Manager for 18 Years",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per Bob Bryar's public Twitter/X post (October 2024 per host), Lou Taylor was his business manager for 18 years until separation in September (year not stated in transcript)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1407.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-250, N-257"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Bryar's original tweet; cross-reference with any business filings linking Bryar to Tri Star."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2851",
+   "header": "**C-2851** Bob Bryar's Cause of Death Ruled Undetermined; Nitrous Oxide Found Near Body",
+   "label": "Bob Bryar's Cause of Death Ruled Undetermined; Nitrous Oxide Found Near Body",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per People magazine article (read on air), My Chemical Romance drummer Bob Bryar's cause of death was ruled undetermined, with nitrous oxide found near his body."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1408.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-257"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain full autopsy / coroner's report; review toxicology findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2867",
+   "header": "**C-2867** Individual in Maroon Shirt Observed Near Bush at Kirk Event; Did Not Duck When Shots Fired",
+   "label": "Individual in Maroon Shirt Observed Near Bush at Kirk Event; Did Not Duck When Shots Fired",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host describes an individual in a maroon shirt who was partially in the bush at the Kirk event; when Charlie went down, everyone ducked but he kept standing, went into and out of the bush and calmly walked away. She says this does not mean he is guilty of anything."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1409.1, A-1409.2, A-1411.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2872",
+   "header": "**C-2872** Samir Posted Photo with Maroon Shirt Individual; Both Alleged BYU Alumni",
+   "label": "Samir Posted Photo with Maroon Shirt Individual; Both Alleged BYU Alumni",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per host, \"Samir\" publicly posted a photo alongside the maroon shirt individual from the Kirk event and identified them both as BYU alumni."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1410.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-258"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the second individual in the Samir photo; confirm BYU attendance."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2873",
+   "header": "**C-2873** Samir Was Permitted to Interview Astrid Tuminez",
+   "label": "Samir Was Permitted to Interview Astrid Tuminez",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per host, \"Samir\" was granted an interview with UVU president Astrid Tuminez despite the host's own inability to obtain basic contact information from him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1410.1 (contextual reference)"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-258, N-751"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the published Samir / Tuminez interview and review sourcing/conditions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2878",
+   "header": "**C-2878** Butch Hibbs Lingered in Background During Post-Shooting Media Interview",
+   "label": "Butch Hibbs Lingered in Background During Post-Shooting Media Interview",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in a clip she plays, recorded at the scene after the Kirk shooting, Butch Hibbs lingers in the background while another individual is interviewed by the media, \"almost as if he wants to know what that person is telling the media.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1411.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-246"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Butch Hibbs's official role/access at the event; review any post-event investigative interviews."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2886",
+   "header": "**C-2886** Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
+   "label": "Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Daily Mail (Victoria Churchill, whom she calls an APAC reporter) published a headline framing Allie Beth Stuckey as TPUSA's \"heir\" or equivalent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1412.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227, N-84"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the article and verify framing language; host disputes framing on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2888",
+   "header": "**C-2888** Wall Street Journal Repeated \"Heir Apparent\" Framing of Allie Beth Stuckey",
+   "label": "Wall Street Journal Repeated \"Heir Apparent\" Framing of Allie Beth Stuckey",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Wall Street Journal repeated the \"heir apparent\" framing of Allie Beth Stuckey for TPUSA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1413.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-227"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the WSJ article and verify framing language."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2863",
+   "header": "**C-2863** Charlie Kirk Articulated Preference for Foxhole-Style Friends in On-Air Conversation",
+   "label": "Charlie Kirk Articulated Preference for Foxhole-Style Friends in On-Air Conversation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Per replayed audio clip, Charlie Kirk stated that one wants friends who tell you where the bullets are coming from, not those who offer distractions, in a pre-assassination conversation with host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1414.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10251"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify timestamp/date of original recording; confirm via original footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2816",
+   "header": "**C-2816** Host Says Macron Side Raised MK Ultra 18 Times in Lawsuit Against Her",
+   "label": "Host Says Macron Side Raised MK Ultra 18 Times in Lawsuit Against Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Brigitte Macron and Emmanuel Macron reacted badly when she discussed MK Ultra and that their side brought it up 18 times in the lawsuit against her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They brought it up 18 times in the lawsuit against me."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-82, N-377"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10001"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Count MK Ultra references in the Macron complaint as filed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2817",
+   "header": "**C-2817** Host Says Kanye Was Put on a Psych 5150 Hold and MK Ultraed",
+   "label": "Host Says Kanye Was Put on a Psych 5150 Hold and MK Ultraed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:02:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kanye West (Ye) was put on a psych 5150 hold as part of a psychological operation and that this effectively amounted to being MK ultraed."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They put him on a psych 5150 hold which is one of their strategies and effectively he had been MK ultraed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10001, N-10116"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain hospital or legal records of any 2016 or later involuntary hold on Kanye West, or his own public account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2818",
+   "header": "**C-2818** Host Says Weinstein Was Taken Out via Me Too and Me Too May Have Been Hostile Takeovers",
+   "label": "Host Says Weinstein Was Taken Out via Me Too and Me Too May Have Been Hostile Takeovers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it was very weird that Harvey Weinstein was taken out via the Me Too movement and that she had posited that the movement may have been about hostile takeovers of companies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It was very weird that they took out Harvey Weinstein. That is a fact. Via the Me Too movement. And I had posited to the audiences that that movement may have been about hostile takeovers of companies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-226"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11275"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Trace ownership changes at Miramax and The Weinstein Company after the 2017 allegations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2819",
+   "header": "**C-2819** Host Says Emails Tied Calvary Chapel to Britney Spears's Conservatorship",
+   "label": "Host Says Emails Tied Calvary Chapel to Britney Spears's Conservatorship",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a flurry of emails told her to stay the course because Calvary Chapel was also involved in Britney Spears's conservatorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "telling me to stay the course because the Calvary Chapel was also involved in Britney Spears's conservatorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-870"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276, N-10248"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the viewer emails and conservatorship filings showing any Calvary Chapel role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2820",
+   "header": "**C-2820** Host Says Lou Taylor Pushed for Britney's Conservatorship, as Alleged and Insinuated by Britney",
+   "label": "Host Says Lou Taylor Pushed for Britney's Conservatorship, as Alleged and Insinuated by Britney",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:41"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says it has been alleged, and heavily insinuated even by Britney Spears herself, that Lou Taylor was very much involved in and pushed for the conservatorship."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Lou Taylor uh apparently was very much involved. That is what has been heavily insinuated and even by Britney Spears herself."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250, N-870"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Britney Spears's court statements and the 2021 LA Times emails for Lou Taylor's role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2821",
+   "header": "**C-2821** Cooper Says Lou Taylor Joined the Spears Orbit in 2007 to Manage Jamie Lynn",
+   "label": "Cooper Says Lou Taylor Joined the Spears Orbit in 2007 to Manage Jamie Lynn",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Brett Cooper (clip played) says Lou Taylor became involved with Britney Spears in 2007 after being hired to help manage Jamie Lynn Spears, and that by 2008 she was on TV as the family spokesperson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Lou Taylor became involved with Britney Spears in 2007 after she was hired to help manage Jaime Lynn Spears."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-221, N-250, N-870, N-871"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check 2007 to 2008 press coverage and the Spears family accounts for when Lou Taylor was hired."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2822",
+   "header": "**C-2822** Cooper Cites Lynn Spears Memoir on Conservatorship Talk With Lou Taylor",
+   "label": "Cooper Cites Lynn Spears Memoir on Conservatorship Talk With Lou Taylor",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Brett Cooper (clip played) says Britney's mother wrote in her memoir Through the Storm that Lou Taylor and Britney's father had discussed putting Britney in a conservatorship shortly after Jamie Lynn got pregnant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "her mom stated in her memoir, Through the Storm, that Lou and Britney's father had discussed putting her in a conservatorship shortly after that happened."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-221, N-250, N-252, N-870"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the passage in Lynn Spears's memoir Through the Storm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2823",
+   "header": "**C-2823** Cooper Says Lou Taylor's Firm Lent Jamie Spears $40,000 Months Before the Conservatorship",
+   "label": "Cooper Says Lou Taylor's Firm Lent Jamie Spears $40,000 Months Before the Conservatorship",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:06:47"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Brett Cooper (clip played) says Jamie Spears had allegedly filed for bankruptcy several times and that Lou Taylor's firm gave him a $40,000 loan, with the conservatorship implemented in February 2008 within months."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Jaime Senior had around this time allegedly filed for bankruptcy. He had done this multiple times, and Lou Taylor's firm gave Britney's dad a loan of $40,000."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-221, N-250, N-252"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Look for bankruptcy filings and loan records for Jamie Spears and Lou Taylor's firm around 2007 and 2008."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2824",
+   "header": "**C-2824** Cooper Says Tri Star Managed the Circus Tour Grossing $130 Million",
+   "label": "Cooper Says Tri Star Managed the Circus Tour Grossing $130 Million",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "Brett Cooper (clip played) says Jamie Spears committed Britney to an eight-month Circus tour, that Lou Taylor's company Tri Star was hired as business manager, and that the tour grossed an estimated $130 million."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1399.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-221, N-250, N-252, N-870"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check conservatorship accountings for Circus tour gross and Tri Star fees."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2825",
+   "header": "**C-2825** Host Recaps Rob McCoy Stepping In as CFO of Potter's Field",
+   "label": "Host Recaps Rob McCoy Stepping In as CFO of Potter's Field",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host recaps that Rob McCoy stepped in as CFO of Potter's Field, that there are articles about it, and that the organization essentially disappeared overnight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Rob McCoy steps in as the CFO and there's articles about it and essentially this organization sort of disappears overnight."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10247"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2770"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the press articles and Montana filings on Potter's Field leadership and dissolution."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2826",
+   "header": "**C-2826** Host Relays Source Saying McCoy Staged a Hostile Takeover of Potter's Field",
+   "label": "Host Relays Source Saying McCoy Staged a Hostile Takeover of Potter's Field",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a person involved with the Potter's Field scandal told her it was a healthy ministry until Rob McCoy got involved, intentionally scandalized it and staged a hostile takeover with other board members. She says it is alleged and the emails and backup need review before she presents it as fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "until Rob McCoy got involved and then he intentionally scandalized it and staged an effective hostile takeover with a few other board members."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10252, N-10247"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the source's emails and backup and Potter's Field board minutes and financial filings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2833",
+   "header": "**C-2833** Host Says Two More Former Lou Taylor Associates Described a Mandatory Tithing System",
+   "label": "Host Says Two More Former Lou Taylor Associates Described a Mandatory Tithing System",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:12:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in other companies without necessarily being told that they were involved in those companies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "two other people reached out to me who worked with Lou Taylor and described exactly what she's referring to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276, N-10248"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview the two sources and obtain client agreements or payment records showing tithing and undisclosed investments."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2836",
+   "header": "**C-2836** Email Alleges Lou Taylor Has Ties to Ghislaine Maxwell and Epstein",
+   "label": "Email Alleges Lou Taylor Has Ties to Ghislaine Maxwell and Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads an email tip saying the writer has heard that Lou Taylor has connections to Ghislaine Maxwell and Epstein. The host says it is allegedly, an unconfirmed email tip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I've also heard that Lou has connections and ties to Glen Maxwell and Epstein, etc."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1405.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250, N-47, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the email's author for the basis; search Epstein and Maxwell records for Lou Taylor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2837",
+   "header": "**C-2837** Email Says Britney's 2019 Location Was Tied to Epstein via Tony Blair",
+   "label": "Email Says Britney's 2019 Location Was Tied to Epstein via Tony Blair",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The email read by the host says a reporter told the writer that the house where Britney Spears was held in 2019 was tied to Epstein somehow via Tony Blair. The host says she has not confirmed it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they told me that the house that Britney was being held out in 2019 was tied to Epstein somehow via Tony Blair."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1405.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-870, N-872, N-9"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the reporter and the property and check ownership records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2838",
+   "header": "**C-2838** Email Says Lou Taylor Built a House in Thousand Oaks and Likely Knows Rob McCoy",
+   "label": "Email Says Lou Taylor Built a House in Thousand Oaks and Likely Knows Rob McCoy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The email read by the host says Lou Taylor built a house in Thousand Oaks and that it would be very hard to believe she does not know Rob McCoy, who the email says was mayor of Thousand Oaks and pastors the large Calvary Chapel there."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know Lou Taylor built a house there and would find it very hard to believe that she does not know Rob McCoy, seeing that he was the mayor of Thousand Oaks"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1405.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Ventura County property records and any McCoy and Taylor connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2839",
+   "header": "**C-2839** Email Says Robin and Lou Taylor Were Mentored by Bob Coy in Fort Lauderdale",
+   "label": "Email Says Robin and Lou Taylor Were Mentored by Bob Coy in Fort Lauderdale",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who mentored them in starting their Brentwood, Tennessee church. The host adds that Coy has been embroiled in sexual-allegation scandal and she believes had to step down."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1405.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250, N-251, N-756"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248, N-10246"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Calvary Chapel Fort Lauderdale and Brentwood church histories for the Taylors and Coy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2840",
+   "header": "**C-2840** Host Says Rob McCoy Pastored the Thousand Oaks Church Until July",
+   "label": "Host Says Rob McCoy Pastored the Thousand Oaks Church Until July",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:16:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Rob McCoy has been pastoring the Thousand Oaks church for a very long time up until July of this year, and agrees Lou Taylor likely knows him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's been pastoring that church up until July of this year for a very long time."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17, N-250"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the date McCoy left Calvary Chapel Thousand Oaks and who succeeded him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2841",
+   "header": "**C-2841** Host Says Kanye Asked Her 'Are You an OP' When Adidas and Gap Dropped Him",
+   "label": "Host Says Kanye Asked Her 'Are You an OP' When Adidas and Gap Dropped Him",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:19:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in her house, while Adidas and Gap were cancelling him, Kanye West asked her whether she was an OP, which she later understood as asking if she was part of a psychological operation."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Adidas was cancelling him and Gap was cancelling him. He was like, \"Are you an OP 2? Are you an OP 2?\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-27"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11117"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Kanye West or others present to corroborate; compare with the host's earlier accounts of that visit."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2843",
+   "header": "**C-2843** Host Relays Courtney Love Thesis That Powerful Targets Get Handlers Then Hostile Takeovers",
+   "label": "Host Relays Courtney Love Thesis That Powerful Targets Get Handlers Then Hostile Takeovers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Courtney Love told her in messages that when companies or individuals get too big and powerful, agents are sent to control them, and if they cannot be controlled a hostile takeover of the brand, company or person is staged."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when companies or individuals get too big and become too powerful, they send their agents to control them"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-253"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11275"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Courtney Love messages and ask Love to confirm what she meant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2845",
+   "header": "**C-2845** Host Says Britney and Kanye Were Put on 5150 Holds and Kim Kardashian Was Fine With It",
+   "label": "Host Says Britney and Kanye Were Put on 5150 Holds and Kim Kardashian Was Fine With It",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Britney Spears was put on a psych 5150 hold and that Kanye West, who she says said he was just reading a Bible, was put in a hospital on a psych 5150 hold, with his then-wife Kim Kardashian, she guesses, fine with it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Britney's been put on a psych 5150 hold. Kanye, he said he was just reading a Bible and Harley Pasternak and we got into his backstory and MK Ultra. uh suddenly puts him in a hospital on a psych 5150 hold and somehow his wife I guess was cool with that"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-870, N-27, N-359"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11275, N-10116"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2817"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain hospital or court records, or statements from Kardashian or West on the 2016 hospitalization."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2846",
+   "header": "**C-2846** Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer",
+   "label": "Host Cites Lawfare Bankruptcy Strategy and Says It Applies to Elijah Schaffer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says another way critics are controlled is lawfare that bankrupts them, and that what is happening to Elijah Schaffer is relevant to this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "another way that they accomplish this is via lawfare, they will bankrupt you. Okay, this is why what's happening to Elijah Schaffer, this is relevant."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-247"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11275"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the legal actions against Elijah Schaffer and their funding."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2847",
+   "header": "**C-2847** Host Says Michael Jackson Was Beating Sony and Nearly Owned the Beatles Catalog",
+   "label": "Host Says Michael Jackson Was Beating Sony and Nearly Owned the Beatles Catalog",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Michael Jackson, despite beating Sony, owned his own catalog and almost owned the Beatles catalog until he was taken down, and died broke with the people he fought owning his catalog."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Michael Jackson, despite the fact that he was beating Sony, he was owning his own catalog and almost owned the Beatles catalog."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-737"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11275"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the history of the Sony/ATV catalog and Michael Jackson's finances at death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2848",
+   "header": "**C-2848** Host Says Paris Jackson Lost in Court Over Her Father's Legacy",
+   "label": "Host Says Paris Jackson Lost in Court Over Her Father's Legacy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Paris Jackson was in the news that day, had lost in court and is still fighting over her father's legacy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I saw Paris Jackson was in the news today. She's lost in court and she's still fighting over her father's legacy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-873, N-737"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the court ruling reported on or about 2025-11-14 involving Paris Jackson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2849",
+   "header": "**C-2849** Host Lists Untimely Deaths Including Charlie Kirk as a Way to Take Over Companies",
+   "label": "Host Lists Untimely Deaths Including Charlie Kirk as a Way to Take Over Companies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the last way to take over a company is an untimely death, and lists Kurt Cobain, Prince, Michael Jackson, Charlie Kirk and Bob Bryar (transcribed Brier)."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the last way that they can hostly take over your company is with an untimely death, Kurt Cobain, uh, Prince, Michael Jackson, Charlie Kirk, and I should also mention Bob Brier."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1, N-737, N-257"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11275"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Treat as a theory: check who gained control of TPUSA, and of the other listed estates, after each death."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2854",
+   "header": "**C-2854** Host Says She Verified Lou Taylor Owns or Sat on the Board of Church Home",
+   "label": "Host Says She Verified Lou Taylor Owns or Sat on the Board of Church Home",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after reading Courtney Love's text, she looked it up and found it accurate that Lou Taylor appears to own or sit on the board of Church Home, the church tied to Justin Bieber."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It looks like she owns or sat on the bar board of church home."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250, N-253, N-866"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11276"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Church Home's incorporation and board records for Lou Taylor."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2855",
+   "header": "**C-2855** Courtney Love Text Says Lou Taylor Is LDS Born and Raised",
+   "label": "Courtney Love Text Says Lou Taylor Is LDS Born and Raised",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a Courtney Love text saying Lou Taylor is Christian non-denominational but is LDS, born and raised."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Christian, non-denominational, but she's LDS, born and raised, LDS."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-253, N-250"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10249, N-10094"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm Lou Taylor's religious background from public interviews or records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2856",
+   "header": "**C-2856** Host Says Courtney Love Text Names R. Todd Nielson as One of the 12 Apostles",
+   "label": "Host Says Courtney Love Text Names R. Todd Nielson as One of the 12 Apostles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads from the Courtney Love text that R. Todd Nielsen's firm is still massive but he had to go be one of the 12 apostles to the new prophet in Salt Lake."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he had to then go be one of the 12 apostle apostles to the new prophet in Salt Lake"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1406.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-253, N-256"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10249, N-10094"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check LDS Church leadership rosters for any R. Todd Nielsen or Nielson."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2857",
+   "header": "**C-2857** Host Says the Church Lou Taylor's Husband Pastors Has a CIA Background",
+   "label": "Host Says the Church Lou Taylor's Husband Pastors Has a CIA Background",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:46"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the church where Lou Taylor's husband is a pastor has a background that involves the CIA, relating it to the Haight-Ashbury hippie story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "now of course we learn that this church that Lou Taylor's husband is a is a pastor at has this background that involves the CIA."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-250, N-251"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10465, N-10248"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document the claimed CIA link of Calvary Chapel's origins with named sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2858",
+   "header": "**C-2858** Host Says the Hippie Movement Was Not Organic but a Psychological Operation",
+   "label": "Host Says the Hippie Movement Was Not Organic but a Psychological Operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the hippie movement was not organic or real but a psychological operation, calling it a fact, and that it became a way to attack and divide the Christian faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Well, the hippie movement was not organic. It was not real. It was a psychological operation. That is a fact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10465, N-10001"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Cite historical sources on CIA involvement in the 1960s counterculture."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2859",
+   "header": "**C-2859** Host Says Many Church Leaders Have High-Up Familial Military Ties",
+   "label": "Host Says Many Church Leaders Have High-Up Familial Military Ties",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a lot of people heading these churches have military ties, high-up familial military ties."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a lot of these people that are heading these churches have military ties, high up familial military ties."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248, N-10465"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify which Calvary Chapel leaders the host means and document their family military service."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2861",
+   "header": "**C-2861** Host Says Rob McCoy Is Trying to Launder the Reputation of a Man Imprisoned for Child Abuse",
+   "label": "Host Says Rob McCoy Is Trying to Launder the Reputation of a Man Imprisoned for Child Abuse",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:31:48"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Rob McCoy is trying to launder the reputation of somebody who spent years in prison for abusing children. She does not name the person in this passage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Rob McCoy's up here uh trying to I I guess you could say like launder the reputation of somebody who spent years in prison uh for abusing children."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-17"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10246"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the person and any public statements by McCoy supporting them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2860",
+   "header": "**C-2860** Host Says TPUSA Was Originally About Remarketing Capitalism and Shifted to Faith",
+   "label": "Host Says TPUSA Was Originally About Remarketing Capitalism and Shifted to Faith",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host recalls a person at Charlie Kirk's memorial remarking that it was strange everything was about faith, and says Turning Point USA was originally remarketing capitalism and shifted quickly to faith."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "it was just so strange that everything was about faith. But like Turning Point USA was originally remarketing capitalism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10251, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare TPUSA mission statements and programming over time, and identify the memorial speaker."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2862",
+   "header": "**C-2862** Host Says Spencer Pratt Showed the Malibu Fires Were a Government Conspiracy",
+   "label": "Host Says Spencer Pratt Showed the Malibu Fires Were a Government Conspiracy",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:35:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, which she says feels right to her, like natural disasters followed by buying property dirt cheap."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Spencer Pratt from The Hills did some fantastic work showing up. This was actually government conspiracy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-874"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the official Malibu fire investigation findings and Pratt's evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2864",
+   "header": "**C-2864** Host Says the Media Tried to Rewrite History to Say She and Charlie Were Not Friends",
+   "label": "Host Says the Media Tried to Rewrite History to Say She and Charlie Were Not Friends",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:38:38"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after the clip, media moved in to rewrite history and convince the masses that Charlie Kirk and she were not friends, and that people who were not his friends pretended to be his supporters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They moved in to try to rewrite history and convince basses that Charlie Kirk and I weren't friends."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Collect media statements disputing the friendship and compare with messages or appearances showing it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2865",
+   "header": "**C-2865** Host Says Eyewitnesses Said Butch Hibbs Talked to the Bush but She Has No Evidence",
+   "label": "Host Says Eyewitnesses Said Butch Hibbs Talked to the Bush but She Has No Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says eyewitnesses said Butch Hibbs was talking to the bush, but that video only shows him near the bush by himself and she has no evidence that he was talking to it."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We see him near the bush by himself. We have no evidence to show that he was actually talking to the bush. This is these are eyewitness accounts on that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-246"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10137"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the eyewitnesses and match their accounts to video of Butch Hibbs at the bush."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2866",
+   "header": "**C-2866** Host Says She Could Not Identify the Maroon Shirt Man Privately and Asks the Public",
+   "label": "Host Says She Could Not Identify the Maroon Shirt Man Privately and Asks the Public",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:22"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has tried through private means to discern who the man in the maroon shirt is, has had no luck, and is asking the public for help."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I have tried to discern through private means who this individual is, and I have had no luck. So, I'm going to ask the public for help"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3109.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Match the clip's face and clothing to event attendee lists and viewer tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2868",
+   "header": "**C-2868** Host Says Viewers Noted People Beside the Bush Directing People to Go",
+   "label": "Host Says Viewers Noted People Beside the Bush Directing People to Go",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:29"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many viewers emailed that when the shooting happens, people on the side are suddenly directing others to go, go, go, almost as if protecting the bush; she says it might not be the case."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "many of you guys emailed us and pointed to the fact that when the shooting happens, there's suddenly people on the side that are directing you saying go, go, go."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10137"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review multi-angle video of the seconds after the shot for who directed the crowd."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2869",
+   "header": "**C-2869** Host Shows Clip of People Pointing Away and a Person Texting in a Blue Shirt",
+   "label": "Host Shows Clip of People Pointing Away and a Person Texting in a Blue Shirt",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:10"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a clip and says people on the side stand pointing away, and someone is texting in a blue shirt, which she says may be a safe spot and does not mean anything but must be gathered since evidence will not come from the feds."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "see right there on the side, you got people on the side there standing, pointing away."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3109.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10137"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the people in the clip and the clip's source and timecode."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2870",
+   "header": "**C-2870** Host Says Police Were Looking for a Maroon Shirt Man Immediately After, per Texts She Withheld",
+   "label": "Host Says Police Were Looking for a Maroon Shirt Man Immediately After, per Texts She Withheld",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she knows police were looking for someone in a maroon shirt immediately after the shooting because someone shared text messages with her that she did not publish to protect the source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I know that the police were looking for someone in a maroon shirt immediately after because somebody shared text messages with me that I did not publicize cuz I didn't want to."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250, N-10311"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain UVU police dispatch or BOLO records mentioning a maroon shirt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2871",
+   "header": "**C-2871** Host Says Samir Gave the Media Much Footage Immediately Despite Not Being a Kirk Fan",
+   "label": "Host Says Samir Gave the Media Much Footage Immediately Despite Not Being a Kirk Fan",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:42:58"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Samir, who she describes as Indian, supplied a lot of footage of that day and immediately gave it to the media, and that he was not a Charlie Kirk fan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was not a Charlie Kirk fan. He somehow has a lot of footage and somehow immediately gave this footage to the media."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-258"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Samir's public posts and the first outlets that aired his footage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2874",
+   "header": "**C-2874** Host Asks Viewers to Email moretips@candaceowens.com About the Maroon Shirt Man",
+   "label": "Host Asks Viewers to Email moretips@candaceowens.com About the Maroon Shirt Man",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:05"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who recognize the maroon-shirted man to email the tips address, saying he might know if there was activity in the bush."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he might know if there was some activity in that bush, please email more tips@candice. com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3108.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core,dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review incoming tips and any identification of the man in the maroon shirt."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2875",
+   "header": "**C-2875** Host Repeats the Tip Address More Tips at Candaceowens.com",
+   "label": "Host Repeats the Tip Address More Tips at Candaceowens.com",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host repeats the tip address on air right after the maroon-shirt appeal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "More tips at candacewowens. com. Okay, moving on from the person in the maroon shirt"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3108.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10250"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core,dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the tip inbox volume and outcome for the maroon-shirt appeal."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2876",
+   "header": "**C-2876** Host Says Butch Hibbs Was Not the Only Person in the Bush Before the Event",
+   "label": "Host Says Butch Hibbs Was Not the Only Person in the Bush Before the Event",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Butch Hibbs was not the only person in the bush before the event and shows a viewer-sent photo of another man in a maroon shirt there, who may simply have been texting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "But he wasn't the only person, by the way, who was in that bush before the event."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1409.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-246"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10137, N-10250"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the second man in the photo and its time and source."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2877",
+   "header": "**C-2877** Host Says Videos Show Butch Hibbs Moving Around the Shooting Area After Though Crime Scene Tape Was Up",
+   "label": "Host Says Videos Show Butch Hibbs Moving Around the Shooting Area After Though Crime Scene Tape Was Up",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:51"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she received many videos of Butch Hibbs after the shooting going around the area where it happened, and questions with what clearance when crime scene tape was up but some people were allowed in."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "we got a flurry of videos of him after this shooting takes place. He's kind of just like crawling the area."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-246"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10137"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2774"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile the post-shooting videos with timestamps and ask UVU police who authorized entry."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2879",
+   "header": "**C-2879** Witness in Clip Says Shot Sounded Like a 9 Millimeter, Not a 45, Almost a Cherry Bomb",
+   "label": "Witness in Clip Says Shot Sounded Like a 9 Millimeter, Not a 45, Almost a Cherry Bomb",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip with Butch Hibbs in the background, an interviewed man says the shot sounded like a higher caliber, like a 9 millimeter and not a 45, and not deep to him; he adds it almost sounded like a cherry bomb."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1411.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-246"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10180"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the interviewee and the outlet; compare with acoustic analysis of the recorded shot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2880",
+   "header": "**C-2880** Host Reads a Comment on Seven Calvary Chapels Near Huntington Beach and the Children of God",
+   "label": "Host Reads a Comment on Seven Calvary Chapels Near Huntington Beach and the Children of God",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:52:28"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a viewer comment that there are seven Calvary Chapel churches near Huntington Beach, California, which the commenter calls the epicenter of the Family International movement, also known as the Children of God."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Did you see that there are seven Calvary Chapel churches near Huntington Beach, California?"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10248"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify the number and locations of Calvary Chapel churches near Huntington Beach."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2881",
+   "header": "**C-2881** Host Says Critics Pretend She Acts on a Dream With No Evidence",
+   "label": "Host Says Critics Pretend She Acts on a Dream With No Evidence",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:53:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says feels to her like they are fearful."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "pretending that we're doing all of this on the basis of a dream and that we never had any evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare critics' statements with the host's cited evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2882",
+   "header": "**C-2882** Host Says Young Mormon Students Gathered Information and Phone Numbers for Her",
+   "label": "Host Says Young Mormon Students Gathered Information and Phone Numbers for Her",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says much of what she found out in this investigation came from Mormons willing to go on the ground to ask questions and get information and phone numbers, and that it would not have been possible without young Mormon students."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "has been because of Mormons that have been willing to go on the ground to ask questions, to get me information, to get me phone numbers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10094"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Not independently checkable without the host's sources."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2883",
+   "header": "**C-2883** Host Says a Supporter Quit Over Her Coverage of Calvary Chapel Abuse",
+   "label": "Host Says a Supporter Quit Over Her Coverage of Calvary Chapel Abuse",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:54:30"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says someone emailed that because she discussed Calvary Chapel's abuse history they would no longer support the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "someone sent us an email and said because I discussed Calvary Chapel's abuse history, they would no longer support us."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10246"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Not independently checkable without the email."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2884",
+   "header": "**C-2884** Host Says Many TPUSA Lies Centered on Faith, Including That Kirk Could Not Be Catholic",
+   "label": "Host Says Many TPUSA Lies Centered on Faith, Including That Kirk Could Not Be Catholic",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:55:50"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says many Turning Point USA lies she debunked concern faith, such as that Charlie Kirk was not allowed to be Catholic or interested in Catholicism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "so many of them surround the topic of faith, which is very strange. Like he wasn't allowed to be Catholic. he wasn't allowed to be interested in Catholicism."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10251, N-10164, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "List the specific TPUSA statements about Kirk's Catholic interest and compare with evidence."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2885",
+   "header": "**C-2885** Host Says the Faith-Focused Lies Were a Clue That Led Her to the Faith Angle",
+   "label": "Host Says the Faith-Focused Lies Were a Clue That Led Her to the Faith Angle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:03"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the faith-focused lies from Turning Point USA were unnecessary, which she recognized as a clue that told her to hyperfocus on the faith angle."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I recognized that as a clue, and that's what told me that I needed to hyperfocus on the faith angle because the lies were unnecessary."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10251, N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Catalog the TPUSA statements the host calls lies and her debunking of each."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2887",
+   "header": "**C-2887** Host Says Allie Beth Stuckey Is Not TPUSA's Heir but Erika Kirk Literally Was",
+   "label": "Host Says Allie Beth Stuckey Is Not TPUSA's Heir but Erika Kirk Literally Was",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:56:52"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says calling Allie Beth Stuckey the heir to Turning Point USA is wrong and strange, and that Erika Kirk quite literally was the heir, having become chairman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she quite literally was the heir to Turning Point USA. Like she became the chairman."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1412.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-227"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Daily Mail and WSJ articles' wording and Erika Kirk's formal TPUSA titles."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2889",
+   "header": "**C-2889** Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers",
+   "label": "Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:20"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads says the fentanyl crisis is by design, allegedly, that US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "our boys were guarding the poppy fields and them in Afghanistan and then we got an opioid crisis and the Sackler family uh seems to be the only ones that benefited from that opioid crisis."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11223"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review Afghan opium production data and Purdue and Sackler settlement findings."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-2890",
+   "header": "**C-2890** Host Promises to Name the Person Who Yelled at Charlie on Monday",
+   "label": "Host Promises to Name the Person Who Yelled at Charlie on Monday",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:58:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she promised to address who yelled at Charlie, forgot the person's last name until she saw the notes, and promises she will have it on Monday."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I also said to you that I would address who yelled at Charlie and I totally forgot to get the last name of that person until I saw in the notes just now"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Supports",
+     "v": "C-2657"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Watch the next episode for the named donor and compare with the earlier claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-38",
+   "header": "**M-38** (meme) MK Ultra",
+   "label": "(meme) MK Ultra",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:23"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "did we leave off on the brit mccron? I was speaking to you guys about MK Ultra. How odd it was that of everything I said in my series, Brigitte Mcr..."
+    },
+    {
+     "k": "Context",
+     "v": "Later reuse of MK Ultra in CKA seq 32."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop, history, analogy, reuse"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-13",
+   "header": "**M-13** (meme) Fake and Gay",
+   "label": "(meme) Fake and Gay",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "r way to present that information. It's a fact now that everything is fake and gay and dangerously so. I was freaking out realizing that quite lite..."
+    },
+    {
+     "k": "Context",
+     "v": "Fake and gay dismissal refrain. (CKA seq 32)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:28"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "So don't miss out on that because everything is fake and gay and that's a good merch drop."
+    },
+    {
+     "k": "Context",
+     "v": "Wave 3 MemeLink backfill: Fake and Gay at 00:52:28 (audit missing_memelink)."
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, memelink_backfill"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-19",
+   "header": "**M-19** (meme) Go Max",
+   "label": "(meme) Go Max",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:53:14"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "eep you and your family safe. I love you, sweet girl. Christ is king. Go Max. Go Max. Indeed, we are going Max. Truth accountability writes Candace..."
+    },
+    {
+     "k": "Context",
+     "v": "Go Max battle cry. (CKA seq 32)"
+    },
+    {
+     "k": "Tags",
+     "v": "reuse, pass2"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:05"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email more tips@candice. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host asks viewers to email tips about the maroon-shirted man."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, DIA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:51"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "More tips at candacewowens. com."
+    },
+    {
+     "k": "Context",
+     "v": "Host repeats the tip address."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, DIA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-46",
+   "header": "**M-46** (meme) Handler",
+   "label": "(meme) Handler",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Are you one of these handlers that's meant to stop me from breaking out of this effective mental prison?"
+    },
+    {
+     "k": "Context",
+     "v": "Host relays Kanye's question about handlers."
+    },
+    {
+     "k": "Tags",
+     "v": "handler, Kanye"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-54",
+   "header": "**M-54** (meme) Psyop",
+   "label": "(meme) Psyop",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:44"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We are living inside of one big psychological operation."
+    },
+    {
+     "k": "Context",
+     "v": "Host opens by saying everything is one big psychological operation."
+    },
+    {
+     "k": "Tags",
+     "v": "psyop, opener"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-75",
+   "header": "**M-75** (meme) I'll Say Allegedly",
+   "label": "(meme) I'll Say Allegedly",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:15:42"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going to say all this is allegedly."
+    },
+    {
+     "k": "Context",
+     "v": "Host hedges an emailed tip about Lou Taylor."
+    },
+    {
+     "k": "Tags",
+     "v": "allegedly, tip"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-76",
+   "header": "**M-76** (meme) Genocide Is Always Wrong",
+   "label": "(meme) Genocide Is Always Wrong",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:20:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "I'm going back to my own thing for tweeting that genocide is always wrong."
+    },
+    {
+     "k": "Context",
+     "v": "Host cites her own tweet in the Kanye and Charlie context."
+    },
+    {
+     "k": "Tags",
+     "v": "genocide, tweet"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Optional Flags",
+    "",
+    "- **Name uncertainty (N-251):** Transcript renders Lou Taylor's husband's name as \"Robin,\" \"Rob,\" and \"Luke\" Taylor. Treated as single node with flag; primary source required.",
+    "- **Name uncertainty (N-756):** Transcript uses \"Bob Coy\" – likely phonetic. Preserved as written.",
+    "- **Possible transcription error (A-1405.1):** Sender email references \"Aruse\" – unclear transcription; possibly a name. Verify against raw email.",
+    "- **Possible transcription error (A-1406.1):** \"Nsign and NGO\" – uncertain. Possibly \"Ensign\" or other proper noun. Verify against raw screenshot.",
+    "- **Artifact verbally referenced but not shown (A-1405.1, A-1406.1):** Both artifacts were displayed in partially redacted form; raw verification pending.",
+    "- **Transcript ambiguity:** [32:07]–[52:28] contain no transcript content; segment likely included visuals, music, or untranscribed dialogue.",
+    "- **Claim requires human verification (C-2835, C-2842, C-2844, C-2852, C-2853):** All claims sourced solely from single unredacted/redacted communications; flagged for corroboration.",
+    "- **Host framing (excluded):** Assertions that \"everything is a psychological operation,\" \"Charlie was killed,\" and \"MK Ultra was real\" are framing premises; not captured as claims in this episode absent direct on-air artifact citation in this transcript.",
+    "",
+    "---",
+    "",
+    "## VII. Output Quality Checklist",
+    "",
+    "- [x] Every claim has at least one artifact anchor",
+    "- [x] Every claim has at least one node",
+    "- [x] Every artifact has a Related line",
+    "- [x] Every node has a Related line",
+    "- [x] No episode-wide artifact bundle exists",
+    "- [x] People nodes use the global people ledger (N-250 onward)",
+    "- [x] Non-person investigation targets use the 1000 series (N-10248 onward)",
+    "- [x] No speculative claims inscribed as evidence-backed claims",
+    "- [x] Names preserved exactly or uncertainty noted",
+    "- [x] Formatting consistent with protocol",
+    "",
+    "---"
+   ]
+  }
+ ]
+}

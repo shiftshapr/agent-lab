@@ -1,0 +1,6395 @@
+{
+ "format": "cka-source/1",
+ "episode": 68,
+ "blocks": [
+  {
+   "kind": "text",
+   "lines": [
+    "## 1. Meta-Data",
+    "",
+    "- **Episode**: 68",
+    "- **Monument**: cka",
+    "- **CKA seq**: 68",
+    "- **YouTube id**: QRS_hR7NXaQ",
+    "- **Candace Ep**: 301",
+    "- **Source**: Candace Owens YouTube",
+    "- **Video Timestamp Range**: 00:00:00–00:53:29",
+    "- **Extraction Timestamp (UTC)**: 2026-09-27T20:00:00Z",
+    "- **Transcript SHA-256**: 95f8b851983eeb6236c86655647510896988e621e75778a3c5ea5286c4493c32",
+    "",
+    "- **Episode Ledger Summary**:",
+    "  - Hole-minted Nodes (reintro-ep068): N-10521",
+    "  - Tip-minted Nodes (reintro-ep068): N-10922, N-10956",
+    "  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused",
+    "  - Claim Range: C-6082–C-6144",
+    "  - New Nodes Introduced: N-536, N-537, N-539, N-540, N-541, N-543, N-10478, N-10479, N-10481, N-10483, N-10484",
+    "  - Reused Nodes Appearing: N-10482, N-10477, N-3, N-9, N-11, N-50, N-199, N-366, N-497, N-534, N-10000, N-10197, N-10268, N-10397, N-10416, N-10435, N-10440, N-10441, N-10472, N-10473, N-10653, N-10900, N-10968, N-11099, N-11180, N-538, N-542, N-10480",
+    "  - (see registers)",
+    "",
+    "# Episode 68 Analysis – Bride of Charlie",
+    "",
+    "## I. Meta-Data",
+    "",
+    "- **Episode Title:** CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301",
+    "- **Series Title:** Bride of Charlie / Candace (Monument series)",
+    "- **Episode Number:** Monument Ep 68 · Batch Ep 48 · Candace Ep 301",
+    "- **Channel / Creator:** Candace Owens (@RealCandaceO)",
+    "- **Episode Date:** 2026-02-03",
+    "- **Source Used:** Transcript (YouTube auto-captions cleaned) + video context",
+    "- **Transcript Completeness Status:** Complete; chapter-marker timecodes present",
+    "- **Analyst / Agent Name:** Investigative Analysis Agent",
+    "- **Analysis Date:** 2026-02-03",
+    "- **YouTube ID:** QRS_hR7NXaQ",
+    "- **Duration:** 53:29",
+    "",
+    "## 6. Meme Register",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-255",
+   "header": "**M-255** (meme) Muggles",
+   "label": "(meme) Muggles",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:00:53"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "We're essentially the muggles."
+    },
+    {
+     "k": "Context",
+     "v": "Opens the Iraq segment with the muggle framing."
+    },
+    {
+     "k": "Tags",
+     "v": "occult, Harry Potter"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:02:30"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "let's recap the muggle edition of what we were told"
+    },
+    {
+     "k": "Context",
+     "v": "Introduces her sarcastic 9/11 recap."
+    },
+    {
+     "k": "Tags",
+     "v": "9/11, sarcasm"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 3"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:52:42"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You will no longer muggle us."
+    },
+    {
+     "k": "Context",
+     "v": "Closing line of the episode."
+    },
+    {
+     "k": "Tags",
+     "v": "closing refrain"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "### Episode 68 Ledger Summary",
+    "",
+    "- **Artifact Families Introduced:** A-1727, A-1728, A-1729, A-1730, A-1731, A-1732, A-1733, A-1734, A-1735, A-1736, A-1737",
+    "- **Claim Range:** C-6103 – C-6138",
+    "- **New People Nodes Introduced:** N-536, N-537, N-489, N-190, N-15, N-97, N-538, N-539, N-540, N-541, N-542, N-7, N-543",
+    "- **New Investigation Target Nodes Introduced:** N-10477, N-10478, N-10479, N-10480, N-10481, N-10482, N-10483, N-10484",
+    "- **Existing Nodes Reused:** None specified in transcript for this episode; references to recurring figures (Charlie Kirk, Erika Kirk, Candace Owens, etc.) handled through the global people ledger (N-1 series per protocol)",
+    "",
+    "---",
+    ""
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-12",
+   "header": "**M-12** (meme) Decentralized Intelligence Agency",
+   "label": "(meme) Decentralized Intelligence Agency",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:16"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "please email us more tips at candace Owens. com"
+    },
+    {
+     "k": "Context",
+     "v": "Tip call on the alibi."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, DIA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 2"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:36"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "You can send us an email more candace. com."
+    },
+    {
+     "k": "Context",
+     "v": "Second tip call."
+    },
+    {
+     "k": "Tags",
+     "v": "tips, DIA"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "meme",
+   "id": "M-28",
+   "header": "**M-28** (meme) Christ is King",
+   "label": "(meme) Christ is King",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "### Occurrence 1"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:34:12"
+    },
+    {
+     "k": "Speaker",
+     "v": "N-3"
+    },
+    {
+     "k": "Quote",
+     "v": "Christ is king, as we say."
+    },
+    {
+     "k": "Context",
+     "v": "Sign-off line before the conference announcement."
+    },
+    {
+     "k": "Tags",
+     "v": "refrain"
+    },
+    {
+     "k": "Confidence",
+     "v": "high"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## II. Executive Summary",
+    "",
+    "Episode 68 advances two parallel evidentiary threads. The first is a Babylon/Iraq-War thread in which the host cites viewer correspondence, German geophysicists' tomb-finding coverage, a 2005 British Museum report, a 2009 United Nations article, an NBC News piece, and a BBC report concerning Jörg Fassbinder's discovery of the Gilgamesh/Nimrod tomb site, framing these as documentary anchors for her claim that the 2003 invasion of Iraq was functionally tied to an archaeological extraction operation at Babylon.",
+    "",
+    "The second thread is a direct attack on Erika Kirk's reported alibi for September 8 and September 10, 2025. The host anchors her skepticism to a specific Sept 7, 2025 Erika Kirk Instagram post (which the host reads aloud in detail), a New York Times article reporting Erika was at a hospital when Mikey McCoy called, described text messages from Justin Streiff, and the New York Times's wording about the timing of the McCoy call. The host explicitly states she cannot confirm the hospital alibi and that Erika's mother was reportedly at a \"holistic clinic\" rather than a hospital.",
+    "",
+    "The episode also briefly inscribes two side artifacts: a Ben Shapiro All Access clip mocking the host's Hogwarts-chess dream, and a viewer comment + news lookup concerning William Stevenson (Jill Biden's ex-husband) and a first-degree murder indictment. Both are treated here as anchor artifacts for the claims they directly support.",
+    "",
+    "The structural importance of the episode is that the host formally transitions from implicit alibi-skepticism to explicit \"I now officially have some serious questions pertaining to her alibi\" while presenting artifact-anchored counter-evidence to the NYT hospital narrative.",
+    "",
+    "---",
+    "",
+    "## III. Artifact Register",
+    ""
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1727",
+   "header": "**A-1727** Erika Kirk Instagram Post Bundle",
+   "label": "Erika Kirk Instagram Post Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1727.1",
+   "header": "**A-1727.1** Erika Kirk Instagram post, Mother's Day, April 2022",
+   "label": "Erika Kirk Instagram post, Mother's Day, April 2022",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:23:15"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: C-6103, N-489, N-10477*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1727.2",
+   "header": "**A-1727.2** Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with \"10 days until September 16th\" countdown",
+   "label": "Erika Kirk Instagram post, 2025-09-07, showing her mother in vulnerable position with \"10 days until September 16th\" countdown",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:24:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6105, N-489, N-10479*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1728",
+   "header": "**A-1728** New York Times Article Bundle (Erika on Sept 10)",
+   "label": "New York Times Article Bundle (Erika on Sept 10)",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1728.1",
+   "header": "**A-1728.1** New York Times article stating Erika Kirk was at the hospital with her mother when Mikey McCoy called on Sept 10, 2025",
+   "label": "New York Times article stating Erika Kirk was at the hospital with her mother when Mikey McCoy called on Sept 10, 2025",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6106, N-489, N-190, N-10478*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1729",
+   "header": "**A-1729** Viewer Email Bundle",
+   "label": "Viewer Email Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1729.1",
+   "header": "**A-1729.1** Viewer email (read in full on air) describing Rob Skiba's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
+   "label": "Viewer email (read in full on air) describing Rob Skiba's research on Gilgamesh/Nimrod tomb discovery, museum raid at first U.S. base in Iraq, and missing tablets concerning Nephilim/resurrection",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:05:54"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (verbatim read)"
+    },
+    {
+     "raw": "*Related: C-6084, N-541, N-10480, N-10484*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1730",
+   "header": "**A-1730** Babylon Archaeological Coverage Bundle",
+   "label": "Babylon Archaeological Coverage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1730.1",
+   "header": "**A-1730.1** United Nations article (published 2009) describing Babylon as capital of Hammurabi (Amarabi) and Nebuchadnezzar, and addressing post-invasion status",
+   "label": "United Nations article (published 2009) describing Babylon as capital of Hammurabi (Amarabi) and Nebuchadnezzar, and addressing post-invasion status",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6090, N-10481, N-10484*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1730.2",
+   "header": "**A-1730.2** NBC News article reporting a senior U.S. military officer's apology for damage to Babylon by U.S. Marines (helicopter pad on ruins; sandbags filled with archaeological fragments; helicopter vibration collapsing a roof)",
+   "label": "NBC News article reporting a senior U.S. military officer's apology for damage to Babylon by U.S. Marines (helicopter pad on ruins; sandbags filled with archaeological fragments; helicopter vibration collapsing a roof)",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:11:55"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6092, N-10481*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1730.3",
+   "header": "**A-1730.3** 2005 British Museum report on the use of Babylon as a military camp by multinational/coalition forces, April 2003 – December 2004, characterized as \"tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain\"",
+   "label": "2005 British Museum report on the use of Babylon as a military camp by multinational/coalition forces, April 2003 – December 2004, characterized as \"tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain\"",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:10:51"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6091, N-10481*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1731",
+   "header": "**A-1731** Gilgamesh Tomb Discovery Coverage Bundle",
+   "label": "Gilgamesh Tomb Discovery Coverage Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1731.1",
+   "header": "**A-1731.1** BBC report that Jörg Fassbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
+   "label": "BBC report that Jörg Fassbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:00"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6086, N-536, N-10484*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1731.2",
+   "header": "**A-1731.2** Headline(s) describing German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003",
+   "label": "Headline(s) describing German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:07:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host claims to display headline; specific publication not identified)"
+    },
+    {
+     "raw": "*Related: C-6085, N-536, N-537*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1732",
+   "header": "**A-1732** Colin Powell UN Address",
+   "label": "Colin Powell UN Address",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1732.1",
+   "header": "**A-1732.1** Colin Powell's Feb 5, 2003 address to the United Nations Security Council asserting Iraq possessed weapons of mass destruction",
+   "label": "Colin Powell's Feb 5, 2003 address to the United Nations Security Council asserting Iraq possessed weapons of mass destruction",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:09:03"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: C-6087, N-538*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1733",
+   "header": "**A-1733** Ben Shapiro All Access Clip",
+   "label": "Ben Shapiro All Access Clip",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1733.1",
+   "header": "**A-1733.1** Daily Wire \"All Access\" clip of Ben Shapiro mocking Candace Owens's reported dream about playing \"Hogwarts chess\" with him, joking about whether the dream was \"wired\" or \"weird\"",
+   "label": "Daily Wire \"All Access\" clip of Ben Shapiro mocking Candace Owens's reported dream about playing \"Hogwarts chess\" with him, joking about whether the dream was \"wired\" or \"weird\"",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High (clip played on air)"
+    },
+    {
+     "raw": "*Related: C-6132, N-97*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1734",
+   "header": "**A-1734** Mikey McCoy Phone Call Sequence",
+   "label": "Mikey McCoy Phone Call Sequence",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1734.1",
+   "header": "**A-1734.1** Account presented in episode that Mikey McCoy first called his wife, then called Erika approximately three-plus minutes later, while adding her to a line already in progress with his wife",
+   "label": "Account presented in episode that Mikey McCoy first called his wife, then called Erika approximately three-plus minutes later, while adding her to a line already in progress with his wife",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:25:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host-cited; underlying source not specified beyond implying it contradicts the NYT \"within seconds\" framing)"
+    },
+    {
+     "raw": "*Related: C-6107, N-190, N-10482*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1735",
+   "header": "**A-1735** Justin Streiff Text Message Bundle",
+   "label": "Justin Streiff Text Message Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1735.1",
+   "header": "**A-1735.1** Text messages sent by Justin Streiff to the host stating that Erika's mother was \"very, very sick\" and that Erika was spending her days in the hospital with her mother",
+   "label": "Text messages sent by Justin Streiff to the host stating that Erika's mother was \"very, very sick\" and that Erika was spending her days in the hospital with her mother",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:26:30"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (described by host; not displayed in transcript)"
+    },
+    {
+     "raw": "*Related: C-6112, N-489, N-15, N-10483*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1736",
+   "header": "**A-1736** William Stevenson Indictment News",
+   "label": "William Stevenson Indictment News",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1736.1",
+   "header": "**A-1736.1** Viewer comment + host-confirmed news lookup: William Stevenson, 77, of Wilmington, married to Jill Biden 1970–1975, indicted for first-degree murder of his ex-wife (the ex-wife was found unresponsive in the living room; life-saving measures unsuccessful)",
+   "label": "Viewer comment + host-confirmed news lookup: William Stevenson, 77, of Wilmington, married to Jill Biden 1970–1975, indicted for first-degree murder of his ex-wife (the ex-wife was found unresponsive in the living room; life-saving measures unsuccessful)",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (read from viewer comment; host pulls up article details)"
+    },
+    {
+     "raw": "*Related: C-6142, N-539, N-543*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1737",
+   "header": "**A-1737** Kevin Sorbo Tweet",
+   "label": "Kevin Sorbo Tweet",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-1737.1",
+   "header": "**A-1737.1** Kevin Sorbo tweet stating he left Hollywood because the people involved were pedophiles",
+   "label": "Kevin Sorbo tweet stating he left Hollywood because the people involved were pedophiles",
+   "lines": [
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Source Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00–00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium (host paraphrase)"
+    },
+    {
+     "raw": "*Related: C-6138, N-540*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3045",
+   "header": "**A-3045** Passport Found News Clip Bundle",
+   "label": "Passport Found News Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3045.1",
+   "header": "**A-3045.1** News clip played on air in which a reporter says the FBI found a hijacker's passport near the World Trade Center site",
+   "label": "News clip played on air in which a reporter says the FBI found a hijacker's passport near the World Trade Center site",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Uh the FBI announcing that it has found the passport of one of the hijackers\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:03:21"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6082, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3046",
+   "header": "**A-3046** Decentralized Intelligence Agency Tip Line Bundle",
+   "label": "Decentralized Intelligence Agency Tip Line Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3046.1",
+   "header": "**A-3046.1** Host verbal call for tips at the candaceowens.com tip email about the alibi",
+   "label": "Host verbal call for tips at the candaceowens.com tip email about the alibi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"please email us more tips at candace Owens. com\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:33:16"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6126, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3046.2",
+   "header": "**A-3046.2** Host verbal call for tips by message and email",
+   "label": "Host verbal call for tips by message and email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"You can send us an email more candace. com.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:45:36"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6140, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3047",
+   "header": "**A-3047** Conference Promo Clip Bundle",
+   "label": "Conference Promo Clip Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3047.1",
+   "header": "**A-3047.1** Promo clip for the Catholics for Catholics conference played on air",
+   "label": "Promo clip for the Catholics for Catholics conference played on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Charlie predicted that one day when he himself would die young that Candace would become a David in the fight for America.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:36:14"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "Medium"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6130, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3048",
+   "header": "**A-3048** Ariel Viewer Comment Bundle",
+   "label": "Ariel Viewer Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3048.1",
+   "header": "**A-3048.1** Viewer comment from Ariel about Erika's Zoom remarks read on air",
+   "label": "Viewer comment from Ariel about Erika's Zoom remarks read on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"I don't understand why Erika kept saying we need to stay humble.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:46:39"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6141, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3049",
+   "header": "**A-3049** Moderator Marzy Finkelstein Comment Bundle",
+   "label": "Moderator Marzy Finkelstein Comment Bundle",
+   "lines": [
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "artifact",
+   "id": "A-3049.1",
+   "header": "**A-3049.1** Moderator Marzy comment about Epstein, Dershowitz and Finkelstein read on air",
+   "label": "Moderator Marzy comment about Epstein, Dershowitz and Finkelstein read on air",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Quoted text",
+     "v": "\"Epstein and Dershowitz contacted Finkelestein, but he called them pedophiles and threatened to hurt them.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Event Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Video Timestamp",
+     "v": "00:50:17"
+    },
+    {
+     "k": "Discovery Timestamp",
+     "v": "00:00:00-00:00:01"
+    },
+    {
+     "k": "Confidence Level",
+     "v": "High"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6144, N-3*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## IV. Node Register",
+    ""
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-536",
+   "header": "**N-536** Jörg Fassbinder",
+   "label": "Jörg Fassbinder",
+   "lines": [
+    {
+     "raw": "German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1731.1, A-1731.2, C-6086, C-6085*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-537",
+   "header": "**N-537** Helmut Becker",
+   "label": "Helmut Becker",
+   "lines": [
+    {
+     "raw": "German geophysicist working alongside Jörg Fassbinder on the magnetic-mapping survey that located the Gilgamesh tomb site."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: A-1731.2, C-6085*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-489",
+   "header": "**N-489** Lori Frantzve",
+   "label": "Lori Frantzve",
+   "lines": [
+    {
+     "raw": "Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a \"holistic clinic\" rather than a hospital; described as having Lyme disease."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "4"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: A-1727.1, A-1727.2, A-1728.1, A-1735.1, C-6103, C-6105, C-6106, C-6112, N-10477, N-10478, N-10479, N-10483*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-190",
+   "header": "**N-190** Mikey McCoy",
+   "label": "Mikey McCoy",
+   "lines": [
+    {
+     "raw": "TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1728.1, A-1734.1, C-6106, C-6107, N-10482*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-15",
+   "header": "**N-15** Justin Streiff",
+   "label": "Justin Streiff",
+   "lines": [
+    {
+     "raw": "TPUSA-affiliated intermediary; sent text messages to the host stating Erika's mother was very sick; per host, also revised the location of Erika's sighting from \"basketball game\" to \"football game.\""
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1735.1, C-6112, N-10483*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-97",
+   "header": "**N-97** Ben Shapiro",
+   "label": "Ben Shapiro",
+   "lines": [
+    {
+     "raw": "Daily Wire figure whose \"All Access\" clip mocking the host's Hogwarts-chess dream is played in the episode."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: A-1733.1, C-6132*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-538",
+   "header": "**N-538** Colin Powell",
+   "label": "Colin Powell",
+   "lines": [
+    {
+     "raw": "Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: A-1732.1, C-6087*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-539",
+   "header": "**N-539** William Stevenson",
+   "label": "William Stevenson",
+   "lines": [
+    {
+     "raw": "77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: A-1736.1, C-6142, N-543*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-540",
+   "header": "**N-540** Kevin Sorbo",
+   "label": "Kevin Sorbo",
+   "lines": [
+    {
+     "raw": "Actor referenced via tweet about leaving Hollywood because participants were pedophiles."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: A-1737.1, C-6138*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-541",
+   "header": "**N-541** Rob Skiba",
+   "label": "Rob Skiba",
+   "lines": [
+    {
+     "raw": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1729.1, C-6084, N-10480, N-10484*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-542",
+   "header": "**N-542** Bella Hadid",
+   "label": "Bella Hadid",
+   "lines": [
+    {
+     "k": "Public figure referenced re",
+     "v": "Lyme disease treatment options overseas."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: N-489, N-10483*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-7",
+   "header": "**N-7** Frank Turek",
+   "label": "Frank Turek",
+   "lines": [
+    {
+     "raw": "Source of witness statement (cited by host) that Charlie Kirk was \"dealing with the kids\" on Sept 8, 2025."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0 (statement referenced but no artifact registered for it)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: N-10477, N-10482*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-543",
+   "header": "**N-543** Jill Biden",
+   "label": "Jill Biden",
+   "lines": [
+    {
+     "raw": "Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "0"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Low"
+    },
+    {
+     "raw": "*Related: A-1736.1, C-6142, N-539*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10477",
+   "header": "**N-10477** Erika Kirk Sept 8, 2025 Alibi Verification",
+   "label": "Erika Kirk Sept 8, 2025 Alibi Verification",
+   "lines": [
+    {
+     "k": "Persistent target",
+     "v": "the host asserts she cannot obtain or confirm a coherent Sept 8, 2025 alibi for Erika Kirk, that Frank Turek states Charlie was \"dealing with the kids,\" and that witnesses at the residence did not see Erika on Sept 8 but did see her on Sept 9."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "0 (claim admission test currently failing due to lack of clear opposing artifact for Erika's Sept 8 location)"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: N-489, N-7, A-1735.1, C-6112*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10478",
+   "header": "**N-10478** Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
+   "label": "Erika Kirk Sept 10 Hospital vs. Clinic Discrepancy",
+   "lines": [
+    {
+     "raw": "The NYT reports Erika was at the hospital; the host asserts she has confirmed for a fact that the mother was receiving treatment at a \"holistic clinic,\" not a hospital."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2 (one per side)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "High"
+    },
+    {
+     "raw": "*Related: A-1728.1, A-1735.1, C-6106, C-6112, N-489, N-190, N-15*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10479",
+   "header": "**N-10479** Sept 7, 2025 Erika Instagram Post – Manipulation Question",
+   "label": "Sept 7, 2025 Erika Instagram Post – Manipulation Question",
+   "lines": [
+    {
+     "raw": "The host asserts the post is exceptional in style (posting mother in vulnerable position, breaking a multi-year privacy pattern) and possibly deployed to preempt alibi scrutiny."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1727.2, C-6105, N-489*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10480",
+   "header": "**N-10480** Nimrod / Gilgamesh Remains Extraction Question",
+   "label": "Nimrod / Gilgamesh Remains Extraction Question",
+   "lines": [
+    {
+     "raw": "The host asserts that locals reported nighttime American digging and extraction operations at the tomb site; viewer email states tablets related to Nephilim/resurrection went missing from the museum after the raid."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1729.1, C-6084, N-541*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10481",
+   "header": "**N-10481** Babylon Military Camp Activities",
+   "label": "Babylon Military Camp Activities",
+   "lines": [
+    {
+     "raw": "Camp Alpha / coalition use of Babylon (April 2003 – December 2004); helicopter pad, sandbags filled with archaeological fragments, helicopter-induced roof collapse, museum looting; British Museum comparison to Great Pyramid / Stonehenge."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "3"
+    },
+    {
+     "k": "Claim Count",
+     "v": "3"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1730.1, A-1730.2, A-1730.3, C-6090, C-6092, C-6091*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10482",
+   "header": "**N-10482** Mikey McCoy Phone Call Sequence",
+   "label": "Mikey McCoy Phone Call Sequence",
+   "lines": [
+    {
+     "raw": "NYT said the call came \"within seconds\"; host asserts Mikey called his wife first, then Erika three-plus minutes later, while adding her to a line already in progress."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2 (NYT artifact; host claim)"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1728.1, A-1734.1, C-6107, N-190*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10483",
+   "header": "**N-10483** Erika's Mother Medical Narrative",
+   "label": "Erika's Mother Medical Narrative",
+   "lines": [
+    {
+     "raw": "Lyme disease (verified by prior Charlie conversation); Bella Hadid comparison; treatments described as 1–2 hour sessions at a center; reportedly two different clinics (one on Sept 8, one on Sept 10)."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "1"
+    },
+    {
+     "k": "Claim Count",
+     "v": "1"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1735.1, C-6112, N-489, N-15, N-542*"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10484",
+   "header": "**N-10484** Babylon Library / Tablet Loss Discrepancy",
+   "label": "Babylon Library / Tablet Loss Discrepancy",
+   "lines": [
+    {
+     "raw": "UN article acknowledges contents from Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed; viewer email asserts tablets concerning reincarnation and the Nephilim were specifically excluded from what the military retrieved."
+    },
+    {
+     "k": "Evidence Count",
+     "v": "2"
+    },
+    {
+     "k": "Claim Count",
+     "v": "2"
+    },
+    {
+     "k": "Episode Count",
+     "v": "1"
+    },
+    {
+     "k": "Investigative Pressure",
+     "v": "Medium"
+    },
+    {
+     "raw": "*Related: A-1729.1, A-1730.1, C-6084, C-6090, N-541*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-1",
+   "header": "**N-1** Charlie Kirk",
+   "label": "Charlie Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of the host's Sept 7 to 10 timeline reconstruction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6109, C-6113, C-6114, C-6116, C-6117, C-6118, C-6119, C-6121, C-6129, C-6130, C-6139*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-2",
+   "header": "**N-2** Erika Kirk",
+   "label": "Erika Kirk",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Widow and TPUSA CEO whose Sept 8 and Sept 10 whereabouts the host questions."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6097, C-6099, C-6100, C-6101, C-6102, C-6104, C-6108, C-6109, C-6110, C-6111, C-6114, C-6119, C-6120, C-6121, C-6122, C-6123, C-6139, C-6141*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-3",
+   "header": "**N-3** Candace Owens",
+   "label": "Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Host; speaks for herself throughout."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6096, C-6098, C-6102, C-6110, C-6111, C-6113, C-6114, C-6115, C-6122, C-6123, C-6124, C-6125, C-6126, C-6127, C-6128, C-6129, C-6130, C-6131, C-6134, C-6135, C-6136, C-6137, C-6139, C-6140*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11",
+   "header": "**N-11** Tyler Bowyer",
+   "label": "Tyler Bowyer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "TPUSA figure the host says knows Erika's mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6100*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-50",
+   "header": "**N-50** Sigmund Freud",
+   "label": "Sigmund Freud",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Quoted by the host (rendered 'Sigmund Freud') as having said he had to be Satan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6143*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-9",
+   "header": "**N-9** Jeffrey Epstein",
+   "label": "Jeffrey Epstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Named in a moderator comment about contact with Norman Finkelstein."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6144*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-199",
+   "header": "**N-199** Norman Finkelstein",
+   "label": "Norman Finkelstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Subject of a moderator comment praised by the host."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6144*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-534",
+   "header": "**N-534** Alan Dershowitz",
+   "label": "Alan Dershowitz",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed 'Dershowitz' in the moderator comment read on air."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6144*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-366",
+   "header": "**N-366** Jeremy Boreing",
+   "label": "Jeremy Boreing",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Daily Wire co-founder, named as present when staff kept a clip file."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6135*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-497",
+   "header": "**N-497** Bassem Youssef",
+   "label": "Bassem Youssef",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6134*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10000",
+   "header": "**N-10000** Turning Point USA",
+   "label": "Turning Point USA",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization at the center of the host's military and ties claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6096, C-6099, C-6100, C-6104*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10197",
+   "header": "**N-10197** TPUSA Military-Personnel Network",
+   "label": "TPUSA Military-Personnel Network",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's military-operation remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6096, C-6097*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10268",
+   "header": "**N-10268** AmFest Speaker Removal Pattern",
+   "label": "AmFest Speaker Removal Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's AmFest slot remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6139*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10397",
+   "header": "**N-10397** Charlie Kirk Korea Trip / Pastor Yoon Connection",
+   "label": "Charlie Kirk Korea Trip / Pastor Yoon Connection",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Korea and Tokyo return."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6116*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10416",
+   "header": "**N-10416** Daily Wire Stalking Pattern",
+   "label": "Daily Wire Stalking Pattern",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the clip-file claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6135*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10435",
+   "header": "**N-10435** Fort Huachuca Erika Kirk Location Investigation",
+   "label": "Fort Huachuca Erika Kirk Location Investigation",
+   "lines": [
+    {
+     "raw": "Existing topic reused for the dinner alibi and cease-and-desist claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6121, C-6122, C-6124*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10440",
+   "header": "**N-10440** Desert Spirit Tech LLC Business Purpose Question",
+   "label": "Desert Spirit Tech LLC Business Purpose Question",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the host's LLC remarks."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6098*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10441",
+   "header": "**N-10441** Euro Tech / Cincinnati Business Investigation",
+   "label": "Euro Tech / Cincinnati Business Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Cincinnati connection."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6098*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10472",
+   "header": "**N-10472** Fort Huachuca Alibi Investigation",
+   "label": "Fort Huachuca Alibi Investigation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the dinner alibi claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6121*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10473",
+   "header": "**N-10473** Charlie Kirk Sept 8–10 Timeline Reconstruction",
+   "label": "Charlie Kirk Sept 8–10 Timeline Reconstruction",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the Sept 8 schedule claims."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6114, C-6116, C-6117, C-6118*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10521",
+   "header": "**N-10521** Erika Kirk September 8 Presence Verification",
+   "label": "Erika Kirk September 8 Presence Verification",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the neighbor-verification claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6120*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10653",
+   "header": "**N-10653** Turning Point Geofencing / Show Faith by Works Link",
+   "label": "Turning Point Geofencing / Show Faith by Works Link",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the geofencing remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6099*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10900",
+   "header": "**N-10900** Daily Wire",
+   "label": "Daily Wire",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Organization behind All Access and the clip file."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6131, C-6135*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10922",
+   "header": "**N-10922** Superfeed",
+   "label": "Superfeed",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Company the host links to Erika's mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6099*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10956",
+   "header": "**N-10956** Catholics for Catholics",
+   "label": "Catholics for Catholics",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Conference where the host says she will speak."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6127, C-6130*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-10968",
+   "header": "**N-10968** The New York Times",
+   "label": "The New York Times",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Outlet named among those Erika admitted."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6139*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11099",
+   "header": "**N-11099** Candace Owens Australia Visa Review",
+   "label": "Candace Owens Australia Visa Review",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the blocked tour claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6128*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "node",
+   "id": "N-11180",
+   "header": "**N-11180** TPUSA Cease and Desist Letter to Candace Owens",
+   "label": "TPUSA Cease and Desist Letter to Candace Owens",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "raw": "Existing topic reused for the cease-and-desist claim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "*Related: C-6124*"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## V. Claim Register",
+    ""
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6103",
+   "header": "**C-6103** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
+   "label": "Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:15"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika Kirk had not posted anything about her mother on Instagram since April 2022 (a post the host believes was for Mother's Day) until the Sept 7, 2025 post."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1727.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10479"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify against archived Instagram data for Erika Kirk."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6105",
+   "header": "**C-6105** Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
+   "label": "Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:24:00"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that on Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading \"10 days until September 16th.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1727.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10479"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the original post screenshot/metadata and identify the countdown's intended referent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6106",
+   "header": "**C-6106** NYT Reported Erika Was at the Hospital When Mikey McCoy Called",
+   "label": "NYT Reported Erika Was at the Hospital When Mikey McCoy Called",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:00"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital while her mother received treatment when Mikey McCoy called her \"within seconds\" of the shooting, and notes the hospital wording was not a direct quotation from Erika."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1728.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-489, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10478, N-10482"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate and quote the exact NYT passage to confirm wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6084",
+   "header": "**C-6084** Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance",
+   "label": "Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:05:54"
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer email the host reads, urging her to look up Rob Skiba's research, asserted: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was \"raided\"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1729.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-541"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10480, N-10484"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate Rob Skiba's published work (\"Babylon Rising\" et al.) and verify each factual component independently."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6090",
+   "header": "**C-6090** 2009 UN Article Described Babylon as Ancient Capital and Post-Invasion Site",
+   "label": "2009 UN Article Described Babylon as Ancient Capital and Post-Invasion Site",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:51"
+    },
+    {
+     "k": "Claim",
+     "v": "A 2009 United Nations article described Babylon as the capital city for Hammurabi (Amarabi) and Nebuchadnezzar, and acknowledged that contents from the Hammurabi and Nebuchadnezzar museums and the Babylon library/archive were stolen and destroyed during the 2003 war."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1730.1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10481, N-10484"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the UN article by publication/year and verify quoted language."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6092",
+   "header": "**C-6092** NBC News Reported U.S. Marines Damaged Babylon Ruins",
+   "label": "NBC News Reported U.S. Marines Damaged Babylon Ruins",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:55"
+    },
+    {
+     "k": "Claim",
+     "v": "NBC News reported that a senior U.S. military officer said he was willing to apologize for damage his troops caused to Babylon, and, citing the BBC, that U.S. Marines built a helicopter pad on the ruins and filled sandbags with archaeological fragments, with helicopter vibrations causing the roof of one building to collapse."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1730.2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10481"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the specific NBC News article and confirm."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6091",
+   "header": "**C-6091** 2005 British Museum Report Compared Babylon Camp to Great Pyramid / Stonehenge",
+   "label": "2005 British Museum Report Compared Babylon Camp to Great Pyramid / Stonehenge",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:51"
+    },
+    {
+     "k": "Claim",
+     "v": "A 2005 British Museum report characterized coalition use of Babylon (April 2003 – December 2004) as \"tantamount to establishing a military camp around the Great Pyramid in Egypt or the Stonehenge in Britain.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1730.3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10481"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the British Museum report and confirm quoted language and date range."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6086",
+   "header": "**C-6086** BBC Reported Fassbinder Discovered Gilgamesh's Tomb",
+   "label": "BBC Reported Fassbinder Discovered Gilgamesh's Tomb",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:00"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1731.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-536"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10484"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the specific BBC report and confirm date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6085",
+   "header": "**C-6085** Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003",
+   "label": "Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:08:02"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says, citing a headline she shows, that German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1731.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-536, N-537"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate primary publications or institutional releases confirming the timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6087",
+   "header": "**C-6087** Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003",
+   "label": "Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:03"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1732.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-538"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reference the UN Security Council record / transcript."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6132",
+   "header": "**C-6132** Ben Shapiro Mocked Host's Hogwarts-Chess Dream on All Access",
+   "label": "Ben Shapiro Mocked Host's Hogwarts-Chess Dream on All Access",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "k": "Claim",
+     "v": "Ben Shapiro, on a Daily Wire \"All Access\" segment, mocked the host's reported dream of playing \"Hogwarts chess\" with him, joking about whether it was \"wired\" or \"weird.\""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1733.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the specific All Access clip for verification of exact wording."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6107",
+   "header": "**C-6107** Mikey McCoy Called His Wife First, Then Erika ~3+ Minutes Later",
+   "label": "Mikey McCoy Called His Wife First, Then Erika ~3+ Minutes Later",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:21"
+    },
+    {
+     "k": "Claim",
+     "v": "According to the host, Mikey McCoy called his wife first, then placed a call to Erika Kirk approximately three-plus minutes later, adding Erika to a line already in progress with his wife."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1734.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10482"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain call log records or corroborating witness / phone carrier metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6112",
+   "header": "**C-6112** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick",
+   "label": "Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:26:30"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1735.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-15, N-489, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10478, N-10483"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6142",
+   "header": "**C-6142** Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson",
+   "label": "Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:47:06"
+    },
+    {
+     "k": "Claim",
+     "v": "A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1736.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-539, N-543"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify via Delaware court records and contemporaneous news coverage."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6138",
+   "header": "**C-6138** Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
+   "label": "Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia",
+   "lines": [
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:50"
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles."
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1737.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-540"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the tweet and verify exact wording and date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6082",
+   "header": "**C-6082** FBI passport-found clip aired in 9/11 recap",
+   "label": "FBI passport-found clip aired in 9/11 recap",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:03:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host plays a news clip in which a reporter says the FBI announced it had found the passport of one of the hijackers a couple of blocks from the World Trade Center site; the host offers it as part of the 'muggle edition' of 9/11."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the FBI announcing that it has found the passport of one of the hijackers who were on who was on board one of those two planes that hit the Twin Towers on Tuesday morning"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3045.1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify the original 2001 broadcast and the FBI statement on the passport."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6083",
+   "header": "**C-6083** Host says Gilgamesh epic is the Nimrod story",
+   "label": "Host says Gilgamesh epic is the Nimrod story",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:04:56"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the Epic of Gilgamesh is understood to be the story of Nimrod in the Bible, a warrior who rebelled against God and set up a kingdom in Mesopotamia and Assyria."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the epic of Gilgamesh of Aruk understood to be actually the story of Nimrod in the Bible"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10480"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare scholarly sources on any Gilgamesh and Nimrod identification."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6088",
+   "header": "**C-6088** Host says US base was built at the exact tomb location",
+   "label": "Host says US base was built at the exact tomb location",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:09:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the US military made its base at the exact location where Fassbinder had reported finding Gilgamesh's tomb, after the March 2003 invasion."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "they happen to make their b their military base at that exact location"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-536"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10481, N-10480"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6086"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare the coordinates of the Fassbinder survey with the coalition camp at Babylon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6089",
+   "header": "**C-6089** Host says military base was Camp Alpha atop Babylon",
+   "label": "Host says military base was Camp Alpha atop Babylon",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:10:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the US set up its military base, Camp Alpha, on top of ancient Babylon, and that the stated reason was to protect the site from looters."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "set up our military base, Camp Alpha, right on top of ancient Babylon"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10481"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6091"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Camp Alpha records and the 2005 British Museum report on its siting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6093",
+   "header": "**C-6093** Host says locals saw Americans digging at night",
+   "label": "Host says locals saw Americans digging at night",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:11:55"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says locals reported that at night Americans were digging and extracting at the Babylon site in military operations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Locals reported that at night Americans were digging and they were extracting in military operations."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10480, N-10481"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the original reports by Iraqi locals or archaeologists describing night digging."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6094",
+   "header": "**C-6094** Host says Masonic tradition calls Nimrod first grandmaster",
+   "label": "Host says Masonic tradition calls Nimrod first grandmaster",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:13:08"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that in Masonic tradition Nimrod is considered the first grandmaster, even before Solomon, and that Freemasons revere him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "In Masonic tradition, Nimrod is considered to be the first grandmaster even before Solomon."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check Masonic sources such as the Old Charges for Nimrod's role."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6095",
+   "header": "**C-6095** Host cites unexplained FOIA to State Dept on Gilgamesh",
+   "label": "Host cites unexplained FOIA to State Dept on Gilgamesh",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:14:09"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says an unexplained FOIA request went to the State Department seeking documents on the 'resurrection chamber of Gilgamesh', the location of his body and the location of buried Nephilim."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "there was this still never quite explained FOIA request that went through um to the state department requesting documents pertaining to the resurrection chamber of Gilgamesh"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10480"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate the State Department FOIA log entry and the requester."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6096",
+   "header": "**C-6096** Host says TPUSA became a literal military operation",
+   "label": "Host says TPUSA became a literal military operation",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:20:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she does not know when Turning Point became a literal military operation, but it did, and that she sees constant military involvement in the Charlie Kirk story."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I said I don't know when turning point just became a literal military operation, but indeed it did."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10197"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Document the military service records of TPUSA staff and associates."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6097",
+   "header": "**C-6097** Host says Erika and her mother have strong military ties",
+   "label": "Host says Erika and her mother have strong military ties",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the people around the case have strong military ties, including Erika Kirk and in particular her mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "All these people with very strong ties to the military. Um, his wife included, right? Uh, her mother in particular."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-489"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10197"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify any military service or contracting history for Erika Kirk and Lori Frantzve."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6098",
+   "header": "**C-6098** Host says Erika's mother has an almost incalculable number of LLCs",
+   "label": "Host says Erika's mother has an almost incalculable number of LLCs",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:21:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, while building Erika's timeline, she found Erika's mother has an almost incalculable number of LLCs, with connections from France to Arizona to Cincinnati to Massachusetts."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "she has a number of LLC's. And when I say a number, I mean it it's almost incalculable the amount of LLC's"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10440, N-10441"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Pull Secretary of State filings for every entity listing Lori Frantzve as officer or agent."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6099",
+   "header": "**C-6099** Host says mother sits on boards of TPUSA-related companies",
+   "label": "Host says mother sits on boards of TPUSA-related companies",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika's mother sits on the board of companies related to Turning Point USA and is involved with geofencing, naming a company called Superfeed Technologies."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "her mother sits on the board of companies related to Turning Point USA, despite the fact that her mother is involved with sort of the geo fencing"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10922, N-10653"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check board and officer records for Superfeed and related TPUSA vendors."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6100",
+   "header": "**C-6100** Host says TPUSA staff do not know Erika's mother but Bowyer does",
+   "label": "Host says TPUSA staff do not know Erika's mother but Bowyer does",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says people at Turning Point USA do not know Erika's mother, though Tyler Bowyer knows her, and that Erika keeps her mother in the background."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Actually, if you ask people at Turning Point USA, they don't know her mother."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-11, N-489, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask TPUSA staff and Bowyer about their dealings with Lori Frantzve."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6101",
+   "header": "**C-6101** Host says Erika's mother stood beside her behind Trump in 2015",
+   "label": "Host says Erika's mother stood beside her behind Trump in 2015",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika's mother was present next to Erika in 2015 when Erika was standing behind Trump."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "her mother was, you know, present next to Erika in 2015 when she was standing behind Trump"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-489, N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find 2015 event photos showing Erika and her mother behind Trump."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6102",
+   "header": "**C-6102** Host says only strong emotion at the Erika meeting was about her mother",
+   "label": "Host says only strong emotion at the Erika meeting was about her mother",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:22:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when she met Erika, the only time she sensed very strong emotion from her was when her mother was mentioned."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "that was the only time that I sensed very strong emotion from her was in mentioning her mother"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-2, N-489"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compare with the host's earlier accounts of the private meeting with Erika."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6104",
+   "header": "**C-6104** Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman",
+   "label": "Host Says Sept 16 Was Erika's First Zoom Call As CEO And Chairman",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:23:34"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says September 16 turned out to be when Erika hosted her first Zoom call as the new CEO and chairman, though she is sure the '10 days until September 16th' countdown originally referred to some other plan."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "December 16th 10 as actually when she hosted her first Zoom call with um as the new CEO and chairman"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10000, N-10479"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Confirm the date of Erika's first CEO Zoom with TPUSA announcements."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6108",
+   "header": "**C-6108** Host says McCoy call was brief and Erika collapsed in the parking lot",
+   "label": "Host says McCoy call was brief and Erika collapsed in the parking lot",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the McCoy and Erika call was brief, a couple of minutes, after which Erika is said to have left her mother in treatment and then collapsed in the parking lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We know that they had a very brief call a couple of minutes and then we are told that she left her mother who was receiving a medical treatment and then she collapsed in the parking lot."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-2, N-489"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10478, N-10482"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6107"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the account of the parking lot collapse and the name of the facility."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6109",
+   "header": "**C-6109** Host Mocks McCoy Call Order Against Charlie's Alleged Training",
+   "label": "Host Mocks McCoy Call Order Against Charlie's Alleged Training",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Mikey McCoy called his wife first and Erika three-plus minutes later, mocking this as 'so much for that training that Charlie allegedly gave him', and says she does not buy that account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "So much for that training that Charlie allegedly gave him."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-190, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10482"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find the original source of the claim that Charlie trained McCoy on emergency calls."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6110",
+   "header": "**C-6110** Host says Streiff delayed her Sept 8 alibi request",
+   "label": "Host says Streiff delayed her Sept 8 alibi request",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she contacted Justin Streiff trying to learn what Erika was doing on September 8 and that his answer kept being delayed, with the mother's illness given as the reason."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "when I was contacting Justin Streiff trying to figure out what Erika was doing on September 8th just wanting some sort of an alibi and it kept getting delayed"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1735.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10477"
+    },
+    {
+     "k": "Supports",
+     "v": "C-6112"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the full Streiff thread with timestamps."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6111",
+   "header": "**C-6111** Host says lighting in Streiff's messages does not look like a hospital",
+   "label": "Host says lighting in Streiff's messages does not look like a hospital",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:25:21"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the messages Streiff sent her show lighting that does not look like a hospital and looks like Erika's apartment building."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can confirm at the messages that he sent me certainly the lighting does not look like she is in a hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1735.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10478"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Examine any images in the Streiff messages and their metadata."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6113",
+   "header": "**C-6113** Host says Charlie flew Erika's mother overseas for Lyme treatment",
+   "label": "Host says Charlie flew Erika's mother overseas for Lyme treatment",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:27:11"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie told her he was flying Erika's mother overseas for Lyme disease treatments because better options exist in Europe."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he was flying out her mother to do treatments for Lyme disease overseas because there was better treatment in Europe options available"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-489, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10483"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Verify any Charlie-funded European medical trips for Lori Frantzve."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6114",
+   "header": "**C-6114** Host says Charlie took Erika's mother to a clinic on Sept 8",
+   "label": "Host says Charlie took Erika's mother to a clinic on Sept 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has learned that on September 8 Charlie took Erika's mother to a Lyme disease treatment at a clinic, and that she holds the clinic's address and name but will not publish them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "on September 8th, we can pull up the timeline here, that Charlie Charlie took Erika's mother for a treatment for Lyme disease at a clinic. I have the address, the name of the clinic."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-489, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10483, N-10477, N-10473"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain clinic records or witness accounts for September 8 visits."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6115",
+   "header": "**C-6115** Host says these treatments last one to two hours",
+   "label": "Host says these treatments last one to two hours",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:28:00"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she is told the holistic treatments at such a center last between one and two hours."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I am told that these treatments last between one to two hours."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10483"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask the clinic about its typical session length."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6116",
+   "header": "**C-6116** Host says Charlie returned from Korea and Tokyo late Sept 7",
+   "label": "Host says Charlie returned from Korea and Tokyo late Sept 7",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:13"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie returned from his Korea and Tokyo trip very late on September 7 or early September 8, landing in California and continuing to Arizona."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie came back from Korea and Tokyo, his trip very late, almost early morning on September 8th, very late on the 7th."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10397, N-10473"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain flight and landing records for the return from Asia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6117",
+   "header": "**C-6117** Host says Charlie was home in his studio on Sept 8",
+   "label": "Host says Charlie was home in his studio on Sept 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Charlie appeared from his home studio for the Charlie Kirk show on September 8 and did not go to the office that day."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "he's at home when he appears uh in his home studio for the Charlie Kirk show. He does not go to the office on this day"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10473"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the Sept 8 show metadata and studio location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6118",
+   "header": "**C-6118** Host says the clinic visit must fit between 12 and 3:30",
+   "label": "Host says the clinic visit must fit between 12 and 3:30",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that, accounting for driving time, the treatment would have had to occur between 12 and 3:30 on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "this treatment having to have taken place between 12 and 3:30."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-489"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10473"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Reconstruct Charlie's Sept 8 schedule against that window."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6119",
+   "header": "**C-6119** Host says Turek's 'dealing with the kids' statement suggests Erika was absent",
+   "label": "Host says Turek's 'dealing with the kids' statement suggests Erika was absent",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Frank Turek's statement that Charlie was dealing with the kids makes her think Erika was not around on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "because of Frank Turek's statement where he says Charlie was dealing with the kids"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-7, N-1, N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10477"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain Turek's original statement and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6120",
+   "header": "**C-6120** Host says no neighbor can confirm Erika on Sept 8",
+   "label": "Host says no neighbor can confirm Erika on Sept 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:29:33"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she cannot find anyone in the residence complex who can verify seeing Erika on September 8, though they verified seeing her on September 9."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I can't find a single person in this complex that they live that can verify that they saw Erika on this day and they know her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10477, N-10521"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Interview residents and review building access records."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6121",
+   "header": "**C-6121** Host says Erika's dinner story is the Fort Huachuca alibi",
+   "label": "Host says Erika's dinner story is the Fort Huachuca alibi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Erika's account that she made Charlie dinner has been the alibi for the Fort Huachuca question, and that the host has many questions about that timeline."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Erika says that she made Charlie dinner that has been the the alibi for Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10435, N-10472"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find where Erika or TPUSA stated the dinner account."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6122",
+   "header": "**C-6122** Host says timeline points to Erika not being home on Sept 8",
+   "label": "Host says timeline points to Erika not being home on Sept 8",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her timeline points to the possibility that Erika was not at home on September 8 at all."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "It is pointing to uh the possibility that Erika was just not there on the ETH at all."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10477, N-10435"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate independent evidence of Erika's Sept 8 location."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6123",
+   "header": "**C-6123** Host says Streiff switched basketball game to football game",
+   "label": "Host says Streiff switched basketball game to football game",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:30:53"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that after she told Streiff a fan had seen Erika at a basketball game, the reply was it was a football game, after earlier saying Erika was unavailable with her mother in the hospital."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "And then it was like, \"Oh, oh yeah, a was it a football game, Schuyler? A football game.\""
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-15, N-2, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10477"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the thread and identify the fan sighting."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6124",
+   "header": "**C-6124** Host says cease and desist followed her Fort Huachuca request",
+   "label": "Host says cease and desist followed her Fort Huachuca request",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:32:06"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says a couple of days after she was finally given something, she received a cease and desist that mentioned Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a couple of days later they send me a cease and desist and they they mention Fort Huachuca."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11180, N-10435"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the letter, its sender and its date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6125",
+   "header": "**C-6125** Host says she has names of two clinics for the 8th and 10th",
+   "label": "Host says she has names of two clinics for the 8th and 10th",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she has the names of two different clinics, one visited on September 10 and one on September 8."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I do have the names of two different clinics, by the way, because they were two different clinics, the one on the 10th versus the one on the ETH."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10483, N-10477"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Request records for both named clinics."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6126",
+   "header": "**C-6126** Host asks for tips at the tip email on the alibi",
+   "label": "Host asks for tips at the tip email on the alibi",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:33:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers with information on the clinics and Erika's alibi to email more tips to candaceowens.com."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "please email us more tips at candace Owens. com"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3046.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core, dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review tips received at the tip address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6127",
+   "header": "**C-6127** Host announces speaking at Catholics for Catholics on March 19",
+   "label": "Host announces speaking at Catholics for Catholics on March 19",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she will speak at the Catholics for Catholics conference on March 19 in Washington DC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I will be speaking at the Catholics for Catholics conference on March 19th in Washington DC."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10956"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the conference program for the date."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6128",
+   "header": "**C-6128** Host says the Zionist lobby blocked her Australia tour",
+   "label": "Host says the Zionist lobby blocked her Australia tour",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was supposed to tour Australia but was blocked by the Zionist lobby of Australia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was supposed to go on that tour in Australia, but I got blocked by the Zionist lobby of Australia."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-11099"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain the Australian visa decision."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6129",
+   "header": "**C-6129** Host says she was to tour with Charlie before he died",
+   "label": "Host says she was to tour with Charlie before he died",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:34:12"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says she was supposed to be on tour with Charlie before he died but was blocked by Zionists in America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "I was supposed to be on tour with Charlie before he died, but I got blocked by Zionists here in America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3, N-1"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Find tour announcements or correspondence about a planned joint tour."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6130",
+   "header": "**C-6130** Conference promo says Charlie predicted Candace as David",
+   "label": "Conference promo says Charlie predicted Candace as David",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:36:14"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "A promotional clip for the conference says Charlie predicted that when he died young, Candace would become a David in the fight for America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Charlie predicted that one day when he himself would die young that Candace would become a David in the fight for America."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3047.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10956"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Identify who is speaking in the promo and the basis for the prediction."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6131",
+   "header": "**C-6131** Host says All Access producers write seed questions",
+   "label": "Host says All Access producers write seed questions",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:37:23"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that at All Access sessions a producer will write in questions to get discussion going, and that she imagines producers are writing questions Ben wants asked so he can answer and diss her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "a producer will just kind of write in some questions like before people jump online"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask former Daily Wire staff about All Access practice."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6133",
+   "header": "**C-6133** Shapiro clip jokes about Nazi breakfast foods",
+   "label": "Shapiro clip jokes about Nazi breakfast foods",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:39:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Shapiro mocks the host's temperature remark and her pronunciation, and jokes about pronouncing 'blitzkrieg' and Nazi breakfast foods including 'luft waffles'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "other Nazi breakfast foods besides blitzk eggs which may include luft waffles"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1733.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "View the All Access video segment."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6134",
+   "header": "**C-6134** Shapiro clip says Candace told Bassem Youssef about his childhood",
+   "label": "Shapiro clip says Candace told Bassem Youssef about his childhood",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:40:16"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "In the clip, Shapiro says Candace interviewed Bassem Youssef and told him she thinks something bad happened in his childhood because he fixated and lacks empathy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Candace also interviewed Bassim Ysef and told him she thinks something bad happened in your childhood because you fixated and lack empathy."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-1733.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-97, N-497, N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the host's interview with Youssef for the childhood remark."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6135",
+   "header": "**C-6135** Host says Daily Wire kept a file of her clips for influencers",
+   "label": "Host says Daily Wire kept a file of her clips for influencers",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:41:18"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says that when Jeremy was at the Daily Wire, staff kept a file of clips of her show and sent it to influencers, taking her out of context."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "They used to keep a file and then they would send it around to all their influencers of clips of the show"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-366, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10900, N-10416"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Obtain any internal clip files sent to influencers."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6136",
+   "header": "**C-6136** Host promotes signed Make a Sandwich and Blackout bundle",
+   "label": "Host promotes signed Make a Sandwich and Blackout bundle",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says there is a signed bundle of hard copies of Make a Sandwich and Blackout, each signed by her."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "you can buy an autographed bundle, hard copy, available of Make a Sandwich and Blackout, both hands signed by me"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the merch listing."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6137",
+   "header": "**C-6137** Host says subscription tiers merged into one club tier",
+   "label": "Host says subscription tiers merged into one club tier",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:44:15"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says her subscription tiers were merged into one tier at $1.99 a month or $120 a year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "We've also merged our subscription tiers into one club canist tier for $1.99 a month or $120 for a year."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Check the subscription pricing page."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6139",
+   "header": "**C-6139** Host says she first clocked Erika admitting people Charlie disliked",
+   "label": "Host says she first clocked Erika admitting people Charlie disliked",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says the first thing she noticed was Erika letting people Charlie did not like into her circle right after he died, such as the New York Times and buyers of speaking slots."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "the first thing I clocked was letting people that your husband didn't like into your zone right after he died. like whether it's New York Times, whether it's allowing them to buy slots to speak"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2, N-1, N-3"
+    },
+    {
+     "k": "Related Nodes",
+     "v": "N-10968, N-10268"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Compile who bought AmFest speaking slots and Charlie's past statements on them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6140",
+   "header": "**C-6140** Host again asks for tips by message and email",
+   "label": "Host again asks for tips by message and email",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:45:36"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host asks viewers who know something to message her or email the tip address."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "You might know something. You can message me more tips."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3046.2"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-3"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:core, dia"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the tip inbox."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6141",
+   "header": "**C-6141** Commenter asks why Erika kept saying 'stay humble' in Zooms",
+   "label": "Commenter asks why Erika kept saying 'stay humble' in Zooms",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:46:39"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a comment from Ariel asking why Erika kept saying in Zooms that 'we need to stay humble'."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Ariel writes about the zooms. I don't understand why Erika kept saying we need to stay humble."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3048.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-2"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Review the Zoom recordings for that phrase."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6143",
+   "header": "**C-6143** Host says Freud said he had to be Satan or Lucifer",
+   "label": "Host says Freud said he had to be Satan or Lucifer",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host says Sigmund Freud outwardly said he had to be Satan and Lucifer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Sigmund Freud outwardly said, \"I have to be Satan. I have to be Lucifer."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": ""
+    },
+    {
+     "k": "Mentions",
+     "v": "N-50"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:tangential"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Locate any Freud quote matching this."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "claim",
+   "id": "C-6144",
+   "header": "**C-6144** Commenter says Epstein and Dershowitz contacted Finkelstein",
+   "label": "Commenter says Epstein and Dershowitz contacted Finkelstein",
+   "lines": [
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim Timestamp",
+     "v": "00:50:17"
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Claim",
+     "v": "The host reads a moderator's comment that Epstein and Dershowitz contacted Norman Finkelstein, who called them pedophiles and threatened to hurt them, and the host says she loved having Finkelstein on the show."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Transcript Snippet",
+     "v": "Epstein and Dershowitz contacted Finkelestein, but he called them pedophiles and threatened to hurt them."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "k": "Anchored Artifacts",
+     "v": "A-3049.1"
+    },
+    {
+     "k": "Mentions",
+     "v": "N-199, N-9, N-534"
+    },
+    {
+     "k": "Tags",
+     "v": "relevance:context"
+    },
+    {
+     "k": "Investigative Direction",
+     "v": "Ask Finkelstein or find his published account of any contact."
+    },
+    {
+     "raw": ""
+    },
+    {
+     "raw": "---"
+    },
+    {
+     "raw": ""
+    }
+   ]
+  },
+  {
+   "kind": "text",
+   "lines": [
+    "## VI. Cross-Reference Rule (Summary)",
+    "",
+    "- Every claim (C-6103 – C-6138) carries at least one Anchored Artifact and at least one Related Node.",
+    "- Every artifact family (A-1727 – A-1737) carries Related claims and Related nodes.",
+    "- Every People Node (N-536 – N-543) and Investigation Target Node (N-10477 – N-10484) carries Related artifacts and Related claims.",
+    "- No episode-wide artifact bundle was created.",
+    "- No speculative claims were inscribed; rhetoric-only statements about \"muggles,\" \"Babylonian magic,\" \"Project Looking Glass,\" \"Epstein,\" \"Ben Shapiro secretly hates her,\" \"God is real,\" etc., were excluded as framing premises / interpretive commentary.",
+    "",
+    "---",
+    "",
+    "## VII. Optional Flags",
+    "",
+    "- **Name uncertainty:** \"Jörg Fassbinder\" likely transcription of \"Georg Fassbinder\"; \"Helmut Becker\" likely transcription of \"Helmut Becker.\"",
+    "- **Name uncertainty:** \"Justin Streiff\" appears in the transcript; may be a phonetic capture of \"Justin Stiefel\" or similar.",
+    "- **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says \"I'm going to show you this headline\" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).",
+    "- **Transcript ambiguity:** Several instances of \"Frank Turek\" – context suggests it may be \"Frank Turek\" but preserved as \"Frank Turek\" per transcript.",
+    "- **Possible transcription error:** \"Air base,\" \"so State Arm,\" \"Fastinder\" vs. \"Fassbinder\" (BBC report vs. German geophysicist name); preserved as appearing in transcript.",
+    "- **Name uncertainty:** \"Rob Skiba\" preserved verbatim per viewer email as read; could be a pseudonym or phonetic capture.",
+    "- **Requires human verification:** A-1736.1 – host reads a viewer comment that initially contains a wrong name (\"Bill Richardson\") and then corrects to \"William Stevenson\"; the underlying article was located on-air but not externally verified within this analysis.",
+    "",
+    "---",
+    "",
+    "## VIII. Output Quality Checklist",
+    "",
+    "- [x] Every claim has at least one artifact anchor.",
+    "- [x] Every claim has at least one node.",
+    "- [x] Every artifact has a Related line.",
+    "- [x] Every node has a Related line.",
+    "- [x] No episode-wide artifact bundle exists.",
+    "- [x] People nodes use the global people ledger (N-536 onward per ledger continuation).",
+    "- [x] Non-person investigation targets use the 1000-series (N-10477 onward per ledger continuation).",
+    "- [x] No speculative claims inscribed as evidence-backed claims.",
+    "- [x] Names preserved exactly per transcript; uncertainties flagged.",
+    "- [x] Formatting consistent across Artifact, Node, and Claim registers."
+   ]
+  }
+ ]
+}
