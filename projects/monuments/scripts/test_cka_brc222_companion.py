@@ -416,3 +416,13 @@ class TestDashRule(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class TestHostVoice(unittest.TestCase):
+    """ROADMAP 3.3: a same-host Supports is not corroboration."""
+
+    def test_host_voice(self):
+        self.assertTrue(mod._host_voice("The host says Kolvet left the event early."))
+        self.assertFalse(mod._host_voice("In a clip the host plays, Tucker Carlson says donors pressured Charlie."))
+        self.assertFalse(mod._host_voice("The host reads a viewer comment saying the plane landed at 2:19."))
+        self.assertFalse(mod._host_voice("Per the article the host shows, the raid happened in 2004."))
